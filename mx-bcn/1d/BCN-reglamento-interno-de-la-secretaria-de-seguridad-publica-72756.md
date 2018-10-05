@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-seguridad-publica-72756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-29"
-last_updated: "2016-04-29"
+last_updated: "2018-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 2010.
 
@@ -47,7 +47,7 @@ El presente reglamento tiene por objeto regular la estructura orgánica y funcio
 
 Para los efectos del presente Reglamento se entenderá por:
 
-l.- Ley: A la Ley Orgánica de la Administración Pública del Estado de Baja California;
+I.- Ley: A la Ley Orgánica de la Administración Pública del Estado de Baja California;
 
 II.- Ley de Seguridad Pública: A la Ley de Seguridad Pública del Estado de Baja California;
 
@@ -69,7 +69,7 @@ La representación de la Secretaría corresponde al Secretario, quien será nomb
 
 Para el despacho de los asuntos encomendados al Secretario, se auxiliará de las siguientes unidades administrativas:
 
-l.- Subsecretaría del Sistema Estatal de Seguridad Pública;
+I.- Subsecretaría del Sistema Estatal de Seguridad Pública;
 
 II.- Subsecretaría del Sistema Estatal Penitenciario;
 
@@ -84,6 +84,8 @@ VI.- Dirección de Planeación y Desarrollo Institucional;
 VII.- Dirección de Información, Análisis y Estrategias;
 
 VIII.- Dirección de Administración;
+
+IX.- Dirección de Asuntos Internos; y,
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -143,7 +145,7 @@ XIV.- Las demás que le sean encomendadas por el Ejecutivo Estatal, o aquellas q
 
 Son facultades delegables del Secretario las siguientes:
 
-l.- Establecer las medidas que garanticen la congruencia de la política en materia de seguridad pública entre las dependencias y entidades de la Administración Pública Estatal;
+I.- Establecer las medidas que garanticen la congruencia de la política en materia de seguridad pública entre las dependencias y entidades de la Administración Pública Estatal;
 
 II.- Coordinar la elaboración del Programa Sectorial de Seguridad Pública y el Programa de Seguridad Pública para el Estado de Baja California, que contenga los objetivos, estrategias y líneas de acción, de acuerdo a lo establecido por la Ley de Planeación para el Estado de Baja California, la Ley de Seguridad Pública y demás normatividad aplicable;
 
@@ -183,7 +185,7 @@ XVII.- Administrar y controlar las acciones necesarias, para el correcto funcion
 
 XVIII.- Representar al Ejecutivo Estatal, ante el Sistema Nacional de Seguridad Pública;
 
-XIX- Crear programas, coordinar y coadyuvar en la participación de otras dependencias del Ejecutivo Estatal para la prevención del delito, combate a la delincuencia y otros factores que incidan en la delincuencia, así como promover entre los demás ordenes de gobierno las acciones tendientes al logro de estos fines;
+XIX.- Crear programas, coordinar y coadyuvar en la participación de otras dependencias del Ejecutivo Estatal para la prevención del delito, combate a la delincuencia y otros factores que incidan en la delincuencia, así como promover entre los demás ordenes de gobierno las acciones tendientes al logro de estos fines;
 
 XX.- Fomentar la participación de la comunidad en la realización de programas y acciones tendientes a prevenir el delito, coordinándose con las autoridades cuya intervención establezcan las disposiciones aplicables;
 
@@ -303,9 +305,9 @@ V.- Coordinar la programación de adquisiciones y suministros necesarios para el
 
 VI.- Formular y revisar el anteproyecto de presupuesto de egresos y someterlo a consideración del titular de la unidad administrativa, incluyendo en su caso los del fondo de seguridad pública que le corresponda;
 
-VII.- Programar, controlar, evaluar e informar de la adecuada aplicación del presupuesto de egresos asignado a la unidad administrativa, atendiendo a las políticas y lineamiento que al efecto se establezcan;
+VII.- Programar, controlar, evaluar e informar de la adecuada aplicación del presupuesto de egresos asignado a la unidad administrativa, atendiendo a las políticas y lineamientos que al efecto se establezcan;
 
-VIII.- Proporcionar el apoyo de los recursos humanos, financieros y materiales que soliciten la unidad administrativa de su adscripción para el desarrollo de sus actividades, en cumplimiento de los programas de trabajo, atendiendo a la partida presupuesta asignada;
+VIII.- Proporcionar el apoyo de los recursos humanos, financieros y materiales que soliciten la unidad administrativa de su adscripción para el desarrollo de sus actividades, en cumplimiento de los programas de trabajo, atendiendo a la partida presupuestal asignada;
 
 IX.- Efectuar el levantamiento físico y dar seguimiento en el control de inventarios de los bienes del activo fijo de la unidad administrativa según la normatividad aplicable;
 
@@ -391,7 +393,7 @@ La Subsecretaría del Sistema Estatal Penitenciario, estará a cargo de un Subse
 
 De las Direcciones Normativas:
 
-l.- Dirección de Centros de Reinserción Social y de Adolescentes:
+I.- Dirección de Centros de Reinserción Social y de Adolescentes:
 
 A) Subdirección de Centros de Reinserción Social;
 
@@ -511,7 +513,7 @@ B) Departamento de Estrategias.
 
 La Dirección de Administración, contará para el despacho de sus asuntos con un Director y las siguientes unidades administrativas:
 
-l.- Departamento de Recursos Humanos;
+I.- Departamento de Recursos Humanos;
 
 II.- Departamento de Recursos Financieros;
 
@@ -567,7 +569,7 @@ IX.- Las demás que le sean encomendadas por el Secretario y aquellas que le con
 
 La Dirección del Centro de Control, Comando, Comunicación y Cómputo, estará a cargo de un Director, auxiliado por las unidades administrativas referidas en el artículo 12 fracción I, incisos A, B, C y D, del presente Reglamento y tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Planear, organizar, programar, dirigir, controlar y evaluar las actividades que se realicen en los Centros de Control, Comando, Comunicación y Cómputo del Estado;
+I.- Planear, organizar, programar, dirigir, controlar y evaluar las actividades que se realicen en los Centros de Control, Comando, Comunicación y Cómputo del Estado;
 
 II.- Mantener coordinación con el Sistema Nacional de Seguridad Pública, la Secretaría de Seguridad Pública Federal y las distintas Instituciones Policiales y sus auxiliares en la Entidad, a que se refiere la Ley de Seguridad Pública, para el óptimo funcionamiento de los Centro de Control, Comando, Comunicación y Cómputo del Estado;
 
@@ -621,7 +623,7 @@ XXV.- Las demás que le sean encomendadas por el Subsecretario y aquellas que le
 
 Corresponde a la Subdirección de Operaciones el ejercicio de las atribuciones siguientes:
 
-l.- Supervisar la correcta operación del servicio de asistencia telefónica 066 en el Estado;
+I.- Supervisar la correcta operación del servicio de asistencia telefónica 066 en el Estado;
 
 II.- Establecer los lineamientos internos para el personal operativo de los Centros de Control, Comando, Comunicación y Cómputo, a fin de eficientizar el servicio de asistencia telefónica 066;
 
@@ -651,7 +653,7 @@ En cada Centro de Control, Comando, Comunicación y Cómputo en el Estado, exist
 
 A las Jefaturas de Departamento de los Centros de Control, Comando, Comunicación y Cómputo de Mexicali, Tijuana, Tecate, Playas de Rosarito y Ensenada, les corresponderá el ejercicio de las facultades y obligaciones siguientes:
 
-l.- Planear, dirigir, controlar y organizar las actividades que se realicen en el Centro de Control, Comando, Comunicación y Cómputo que le corresponda, en estricta coordinación con las Subdirecciones de Operaciones, de Tecnología, de Sistemas y la Dirección;
+I.- Planear, dirigir, controlar y organizar las actividades que se realicen en el Centro de Control, Comando, Comunicación y Cómputo que le corresponda, en estricta coordinación con las Subdirecciones de Operaciones, de Tecnología, de Sistemas y la Dirección;
 
 II.- Dirigir y coordinar la operatividad del servicio de asistencia telefónica 066, de video vigilancia, así como la utilización de los sistemas de información y demás servicios que se administran en el Centro de Control, Comando, Comunicación y Cómputo, que le corresponda;
 
@@ -679,7 +681,7 @@ XII.- Desempeñar las demás funciones inherentes a la coordinación o las que l
 
 A la Jefatura del Departamento de Monitoreo y Video Vigilancia, le corresponderá el ejercicio de las facultades y obligaciones siguientes:
 
-l.- Atender y canalizar conforme a las políticas y procedimientos establecidos del Centro de Control, Comando, Comunicación y Cómputo, los incidentes captados por el sistema de video vigilancia y de cámaras, los cuales deberán ser registrados de manera inmediata en el sistema correspondiente, así como toda aquella información relativa a dichos incidentes;
+I.- Atender y canalizar conforme a las políticas y procedimientos establecidos del Centro de Control, Comando, Comunicación y Cómputo, los incidentes captados por el sistema de video vigilancia y de cámaras, los cuales deberán ser registrados de manera inmediata en el sistema correspondiente, así como toda aquella información relativa a dichos incidentes;
 
 II.- Dar seguimiento a los incidentes captados por el sistema de video vigilancia y de cámaras conforme a los procedimientos previamente establecidos hasta la conclusión de los mismos;
 
@@ -697,7 +699,7 @@ VII.- Desempeñar las demás funciones inherentes a la coordinación, o las que 
 
 Corresponde a la Subdirección de Tecnología, el ejercicio de las atribuciones siguientes:
 
-l.- Coordinar las tareas que realiza el personal responsable de prestar el apoyo en soporte técnico a los usuarios de los sistemas de telefonía, radiocomunicación, cómputo, video vigilancia, cámaras y telecomunicaciones que son utilizados dentro de los Centros de Control, Comando, Comunicación y Cómputo en el Estado;
+I.- Coordinar las tareas que realiza el personal responsable de prestar el apoyo en soporte técnico a los usuarios de los sistemas de telefonía, radiocomunicación, cómputo, video vigilancia, cámaras y telecomunicaciones que son utilizados dentro de los Centros de Control, Comando, Comunicación y Cómputo en el Estado;
 
 II.- Asegurar que se mantenga la correcta operación de la Red Estatal de Telecomunicaciones de Seguridad Pública y su interconexión a la Red Nacional de Telecomunicaciones del Sistema Nacional de Seguridad Pública;
 
@@ -717,7 +719,7 @@ VIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean 
 
 A la Jefatura del Departamento de Proyectos e Innovación Tecnológica, le corresponderá el ejercicio de las atribuciones siguientes:
 
-l.- Desarrollar los proyectos de tecnologías de información y comunicaciones que se requieran en las diversas unidades administrativas de la Dirección;
+I.- Desarrollar los proyectos de tecnologías de información y comunicaciones que se requieran en las diversas unidades administrativas de la Dirección;
 
 II.- Dar seguimiento a los procedimientos de adquisición del equipamiento en materia de informática, telecomunicaciones, paquetes de software y servicios relacionados que sean requeridos;
 
@@ -757,7 +759,7 @@ IX.- Desempeñar las demás funciones inherentes a su cargo o las que le sean en
 
 A la Jefatura del Departamento de Servicios de Radiocomunicación le corresponderá el ejercicio de las atribuciones siguientes:
 
-l.- Mantener y administrar la correcta operación de la Red Estatal de Telecomunicaciones de Seguridad Pública y su interconexión con la Red Nacional de Telecomunicaciones;
+I.- Mantener y administrar la correcta operación de la Red Estatal de Telecomunicaciones de Seguridad Pública y su interconexión con la Red Nacional de Telecomunicaciones;
 
 II.- Verificar permanentemente la continuidad en el servicio que prestan los equipos de radiocomunicación y despacho de radio de los Centros de Control, Comando, Comunicación y Cómputo del Estado;
 
@@ -775,7 +777,7 @@ VII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean e
 
 Corresponde a la Subdirección de Sistemas, el ejercicio de las atribuciones siguientes:
 
-l.- Procurar la eficiente operación, la seguridad de acceso y la disponibilidad de la información y los sistemas de los Centros de Control, Comando, Comunicación y Cómputo del Estado;
+I.- Procurar la eficiente operación, la seguridad de acceso y la disponibilidad de la información y los sistemas de los Centros de Control, Comando, Comunicación y Cómputo del Estado;
 
 II.- Coordinar el desarrollo, administración y mantenimiento de los sistemas que se utilicen en los Centros de Control, Comando, Comunicación y Cómputo en el Estado, cuyo desarrollo y/o administración estén a su cargo, así como llevar a cabo las modificaciones, mejoras o actualizaciones de los mismos;
 
@@ -811,7 +813,7 @@ XVI.- Desempeñar las demás funciones inherentes a su cargo o las que le sean e
 
 A la Jefatura del Departamento de Desarrollo de Sistemas, le corresponderá el ejercicio de las atribuciones siguientes:
 
-l.- Analizar, diseñar, automatizar, coordinar el desarrollo, y dar seguimiento a los diversos sistemas de información de la Subdirección y los que actualmente operen en los Centros de Control, Comando, Comunicación y Cómputo del Estado;
+I.- Analizar, diseñar, automatizar, coordinar el desarrollo, y dar seguimiento a los diversos sistemas de información de la Subdirección y los que actualmente operen en los Centros de Control, Comando, Comunicación y Cómputo del Estado;
 
 II.- Asegurar la confiabilidad e integridad de la Información administrada a través de los sistemas de cómputo;
 
@@ -831,7 +833,7 @@ VIII.- Desempeñar las demás funciones inherentes al cargo o las que establezca
 
 A la Jefatura del Departamento de Administración de Bases de Datos, le corresponderá el ejercicio de las atribuciones siguientes:
 
-l.- Analizar, diseñar y coordinar la administración de las bases de datos necesarias en los Centros de Control, Comando, Comunicación y Cómputo del Estado;
+I.- Analizar, diseñar y coordinar la administración de las bases de datos necesarias en los Centros de Control, Comando, Comunicación y Cómputo del Estado;
 
 II.- Dar seguimiento a los proyectos que involucren la gestión de información de los Centros de Control, Comando, Comunicación y Cómputo del Estado;
 
@@ -855,7 +857,7 @@ X.- Desempeñar las demás funciones inherentes a su cargo o las que le sean enc
 
 A la Jefatura de Administración de Servicios y Seguridad Biométrica, le corresponderá el ejercicio de las atribuciones siguientes:
 
-l.- Administrar y operar el sitio de servicios y seguridad biométrica;
+I.- Administrar y operar el sitio de servicios y seguridad biométrica;
 
 II.- Garantizar la calidad de los servicios terminados dirigidos a los usuarios finales en los módulos de enrolamiento y consulta del sitio de servicios biométricos;
 
@@ -875,7 +877,7 @@ VIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean 
 
 La Coordinación del Centro Estatal de Denuncia Anónima, estará a cargo de un Coordinador y tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Dirigir y coordinar la operación y administración del Centro Estatal de Denuncia Anónima, así como el Servicio de Denuncia Anónima establecido en la Ley de Seguridad Publica;
+I.- Dirigir y coordinar la operación y administración del Centro Estatal de Denuncia Anónima, así como el Servicio de Denuncia Anónima establecido en la Ley de Seguridad Publica;
 
 II.- Supervisar el correcto funcionamiento del Centro Estatal de Denuncia Anónima, de conformidad con la normatividad aplicable;
 
@@ -913,7 +915,7 @@ VIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean 
 
 A las Jefaturas de Departamento de Registros de Seguridad Pública Zona Mexicali, Zona Tijuana, Tecate y Playas de Rosarito y la Zona Ensenada, les corresponderá el ejercicio de las siguientes atribuciones:
 
-l.- Coordinar, dirigir, supervisar y evaluar las actividades para el procesamiento, conformación, actualización y consulta permanente de la información a que se refiere la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública;
+I.- Coordinar, dirigir, supervisar y evaluar las actividades para el procesamiento, conformación, actualización y consulta permanente de la información a que se refiere la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública;
 
 II.- Proporcionar conforme a la normatividad aplicable, la información que le sea solicitada por las autoridades competentes; así como, por las Instituciones de Seguridad Pública y las Instituciones Policiales y sus auxiliares, a que se refiere la Ley de Seguridad Pública, respecto de la información obtenida de las consultas realizadas en las bases de datos del Sistema Nacional de Seguridad Pública y del Sistema Estatal de Información sobre Seguridad Pública;
 
@@ -931,7 +933,7 @@ VII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean e
 
 La Dirección de Servicios de Seguridad Privada, estará a cargo de un Director, auxiliado por las unidades administrativas señaladas en el artículo 12 fracción III, incisos A y B, del presente Reglamento y tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Integrar el registro de prestadores de servicios de seguridad privada en el Estado;
+I.- Integrar el registro de prestadores de servicios de seguridad privada en el Estado;
 
 II.- Practicar las visitas de inspección y requerir a los prestadores de servicios de seguridad privada en el Estado, de la información que se estime necesaria para la debida regulación en la prestación de los servicios de seguridad privada en términos de la Ley de Seguridad Pública y demás normatividad aplicable;
 
@@ -963,7 +965,7 @@ XV (SIC).- Desempeñar las demás funciones inherentes a su cargo o las que le s
 
 A las Jefaturas de Departamento de Servicios de Seguridad Privada en el Estado les corresponderá el ejercicio de las atribuciones siguientes:
 
-l.- Acordar con el Director, el despacho de los asuntos y la ejecución de las actividades y servicios que le sean encomendados;
+I.- Acordar con el Director, el despacho de los asuntos y la ejecución de las actividades y servicios que le sean encomendados;
 
 II.- Aprobar y supervisar las actividades y servicios de las unidades administrativas que integran la Jefatura a su cargo;
 
@@ -997,7 +999,7 @@ XI.- Desempeñar las demás funciones inherentes a su cargo o las que le sean en
 
 La Coordinación de Estadística, estará a cargo de un Coordinador y tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Integrar, sistematizar, administrar y actualizar permanentemente la información sobre la incidencia criminológica en el Estado, a fin de integrar el Sistema Estatal de Información sobre Seguridad Pública;
+I.- Integrar, sistematizar, administrar y actualizar permanentemente la información sobre la incidencia criminológica en el Estado, a fin de integrar el Sistema Estatal de Información sobre Seguridad Pública;
 
 II.- Mantener coordinación con las autoridades e instancias necesarias a fin de conformar la información sobre la incidencia criminológica en el Estado;
 
@@ -1013,7 +1015,7 @@ VI.- Desempeñar las demás funciones inherentes a su cargo o las que le sean en
 
 La Coordinación de la Licencia Oficial Colectiva, estará a cargo de un Coordinador, quién tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Coordinar y coadyuvar la realización de los trámites necesarios para mantener actualizada y vigente la licencia oficial colectiva correspondiente;
+I.- Coordinar y coadyuvar la realización de los trámites necesarios para mantener actualizada y vigente la licencia oficial colectiva correspondiente;
 
 II.- Elaborar informes para la revalidación de la licencia oficial colectiva;
 
@@ -1343,7 +1345,7 @@ XXV.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean 
 
 La Jefatura del Departamento Jurídico de las Unidades Ejecutoras o Centros, tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Auxiliar al Director de Ejecución de Penas y Medidas Judiciales en el cumplimiento de sus funciones, por instrucciones o en ausencia del mismo;
+I.- Auxiliar al Director de Ejecución de Penas y Medidas Judiciales en el cumplimiento de sus funciones, por instrucciones o en ausencia del mismo;
 
 II.- Recibir las quejas o denuncias que presenten los particulares sobre las acciones u omisiones de los servidores públicos adscritos a la Dirección de Ejecución de Penas y Medidas Judiciales y turnar las mismas a la autoridad competente;
 
@@ -1771,7 +1773,7 @@ La Coordinación de Administración contará con el personal administrativo nece
 
 La Dirección de Planeación y Desarrollo Institucional, tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Impulsar la mejora continua de la Secretaría, a través del control y seguimiento de sus programas, objetivos y metas, mediante la vigilancia y revisión de sus procesos administrativos;
+I.- Impulsar la mejora continua de la Secretaría, a través del control y seguimiento de sus programas, objetivos y metas, mediante la vigilancia y revisión de sus procesos administrativos;
 
 II.- Apoyar la coordinación de las unidades administrativas de la Secretaría, mediante la orientación en funciones del cumplimiento de las políticas públicas y prioridades de desarrollo;
 
@@ -1837,7 +1839,7 @@ VIII.- Las demás que le sean encomendadas por el Secretario y aquellas que le c
 
 A la Jefatura del Departamento de Información y Análisis, le corresponde el ejercicio de las atribuciones siguientes:
 
-l.- Administrar la información de sus fuentes de datos para elaborar estrategias para la ejecución de acciones que le competen a la Dirección;
+I.- Administrar la información de sus fuentes de datos para elaborar estrategias para la ejecución de acciones que le competen a la Dirección;
 
 II.- Realizar el análisis de la información e investigaciones que permitan elaborar estrategias de planeación y proyectos para erradicar el delito en el Estado;
 
@@ -1857,7 +1859,7 @@ VIII.- Las demás que le sean encomendadas por el Director y aquellas que le con
 
 A la Jefatura del Departamento de Estrategias, le corresponde el ejercicio de las atribuciones siguientes:
 
-l.- Diseñar e implementar los métodos de análisis de datos de la información proporcionada, para la generación de estrategias contra el fenómeno delictivo en la Entidad y poder emitir reportes de inteligencia policial, que permitan identificar personas y eventos relacionados entre sí en la comisión de delitos;
+I.- Diseñar e implementar los métodos de análisis de datos de la información proporcionada, para la generación de estrategias contra el fenómeno delictivo en la Entidad y poder emitir reportes de inteligencia policial, que permitan identificar personas y eventos relacionados entre sí en la comisión de delitos;
 
 II.- Presentar al Director informes de inteligencia policial, que tengan como fin eliminar el fenómeno delictivo en el Estado;
 
@@ -1881,7 +1883,7 @@ Las unidades administrativas de la Secretaría, estarán obligadas a proporciona
 
 La Dirección de Administración, estará a cargo de un Director, que será auxiliado por las unidades administrativas a que se refiere el artículo 19 del presente Reglamento y demás servidores públicos que las necesidades del servicio requieran. Además de las establecidas en el artículo 9 de este Reglamento, tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Ejercer el presupuesto de la Secretaría a través de las partidas correspondientes, administrar los gastos y llevar la contabilidad general de la Dependencia;
+I.- Ejercer el presupuesto de la Secretaría a través de las partidas correspondientes, administrar los gastos y llevar la contabilidad general de la Dependencia;
 
 II.- Coordinar la elaboración de estudios y proyectos administrativos que permitan la modernización y la simplificación administrativa de procedimientos y servicios;
 
@@ -1925,7 +1927,7 @@ XX.- Las demás que le sean encomendadas por el Secretario y aquellas que le con
 
 Al Departamento de Recursos Humanos, le corresponde el ejercicio de las atribuciones siguientes:
 
-l.- Planear, organizar, dirigir, controlar y evaluar los sistemas de administración y desarrollo de los recursos humanos de la Secretaría;
+I.- Planear, organizar, dirigir, controlar y evaluar los sistemas de administración y desarrollo de los recursos humanos de la Secretaría;
 
 II.- Llevar el registro y control de los contratos, altas, promociones y bajas de personal ante la Oficialía Mayor de Gobierno;
 
@@ -1955,7 +1957,7 @@ XIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean 
 
 Al Departamento de Recursos Financieros, le corresponde el ejercicio de las atribuciones siguientes:
 
-l.- Proporcionar el apoyo de los recursos financieros que soliciten las unidades administrativas de la Secretaría para el desarrollo de sus actividades y cumplimiento de los programas de trabajo, de acuerdo a los lineamientos establecidos para tal efecto;
+I.- Proporcionar el apoyo de los recursos financieros que soliciten las unidades administrativas de la Secretaría para el desarrollo de sus actividades y cumplimiento de los programas de trabajo, de acuerdo a los lineamientos establecidos para tal efecto;
 
 II.- Verificar que las solicitudes de los diferentes coordinadores administrativos sean atendidas;
 
@@ -1973,7 +1975,7 @@ VII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean e
 
 Al Departamento de Recursos Materiales le corresponde el ejercicio de las atribuciones siguientes:
 
-l.- Tramitar las adquisiciones de materiales requeridos por las diversas unidades administrativas de la Secretaría, así como supervisar el adecuado funcionamiento del subcomité de adquisiciones;
+I.- Tramitar las adquisiciones de materiales requeridos por las diversas unidades administrativas de la Secretaría, así como supervisar el adecuado funcionamiento del subcomité de adquisiciones;
 
 II.- Controlar y verificar el cumplimiento de los lineamientos establecidos, para el uso de vehículos oficiales en la Secretaría;
 
@@ -1991,7 +1993,7 @@ VII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean e
 
 Al Departamento de Informática le corresponde el ejercicio de las atribuciones siguientes:
 
-l.- Proponer soluciones informáticas, tecnológicas y de reingeniería de procesos en las unidades administrativas de la Secretaría, fomentando la automatización de procesos y el uso de tecnología de vanguardia;
+I.- Proponer soluciones informáticas, tecnológicas y de reingeniería de procesos en las unidades administrativas de la Secretaría, fomentando la automatización de procesos y el uso de tecnología de vanguardia;
 
 II.- Diseñar, operar y administrar la red de voz y datos de las unidades administrativas de la Secretaría, que así lo soliciten;
 
@@ -2031,7 +2033,7 @@ Las atribuciones que se establecen en el presente artículo, no serán aplicable
 
 Al Departamento del Fondo de Aportaciones para la Seguridad Pública del Estado, le corresponderá el ejercicio de las atribuciones siguientes:
 
-l.- Integrar los programas de inversión, estrategias generales y las bases de coordinación interinstitucional en el Estado en materia de seguridad pública, relacionado con el Fondo de Aportaciones para la Seguridad Pública;
+I.- Integrar los programas de inversión, estrategias generales y las bases de coordinación interinstitucional en el Estado en materia de seguridad pública, relacionado con el Fondo de Aportaciones para la Seguridad Pública;
 
 II.- Promover, dar seguimiento y participar en la elaboración de contratos, convenios y demás instrumentos jurídicos, necesarios para la aplicación de los recursos radicados del Fondo de Aportaciones para la Seguridad Pública, al Estado;
 
@@ -2053,7 +2055,7 @@ Para la eficaz atención y eficiente despacho de los asuntos la Dirección de Ad
 
 A la Coordinación Administrativa Zona Tijuana que comprende los municipios de Tecate y Playas de Rosarito, y la Coordinación Administrativa Zona Ensenada, les corresponderá el ejercicio de las siguientes atribuciones:
 
-l.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de la Coordinación Administrativa de su competencia, de acuerdo con los lineamientos establecidos;
+I.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de la Coordinación Administrativa de su competencia, de acuerdo con los lineamientos establecidos;
 
 II.- Administrar en el ámbito de su competencia todas las actividades relacionadas con los recursos humanos, materiales y financieros, establecidas en el presente Reglamento y demás normatividad aplicable;
 
@@ -2247,7 +2249,7 @@ XIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean 
 
 La Coordinación de Comunicación y Relaciones Públicas, estará a cargo de un Coordinador que será auxiliado por personal que las necesidades del servicio requieran, y tendrá el ejercicio de las atribuciones siguientes:
 
-l.- Evaluar y proponer al Secretario para su autorización la emisión de información de la Secretaría, ya sea del titular o de cualquiera de sus funcionarios, a través de medios de comunicación;
+I.- Evaluar y proponer al Secretario para su autorización la emisión de información de la Secretaría, ya sea del titular o de cualquiera de sus funcionarios, a través de medios de comunicación;
 
 II.- Compilar, analizar y emitir opinión diaria de la información que en materia de seguridad pública emitan los medios de comunicación;
 
@@ -2346,3 +2348,23 @@ P.O. 29 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE DEROGA LA SECCIÓN VII DENOMINADA "INVESTIGACIÓN ADMINISTRATIVA", DEL CAPÍTULO QUINTO, DEROGÁNDOSE EL ARTÍCULO 78 DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente reglamento interno, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California;
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Secretaría de Seguridad Pública del Estado de Baja California, publicado en el Periódico Oficial del Estado, con fecha 29 de enero de 2010.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+CUARTO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Secretario queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
+
+QUINTO.- Toda referencia que se haga en otras disposiciones legales y reglamentarias; así como las atribuciones, funciones, facultades, derechos y obligaciones establecidas a cargo de las unidades administrativas denominadas: Dirección de Registros de Seguridad Pública; Coordinación de Estadística; Dirección de Centros de Reinserción Social y de Adolescentes; Dirección de Ejecución de Penas y Medidas Judiciales; y Dirección de Programas de Reinserción Social, previstas en el Reglamento Interno de la Secretaría de Seguridad Pública del Estado de Baja California, publicado en el Periódico Oficial del Estado, con fecha 29 de enero de 2010; se entenderán hechas y asumidas por las siguientes unidades administrativas: Dirección del Centro Estatal de Información sobre Seguridad Pública; Coordinación de Estadística de Seguridad Pública; Dirección de Centros de Reinserción Social; Dirección de Ejecución de Penas y Beneficios Preliberacionales; y Dirección de Reinserción Social y Servicios Postpenales respectivamente, y previstas en el presente Reglamento.
+
+SEXTO.- Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no se autoricen los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 80 del presente Reglamento, lo cual no podrá excederse del inicio del ejercicio fiscal 2019.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del ejercicio fiscal 2019.
+
+En cualquier caso, su funcionamiento de conformidad a la Ley de Responsabilidades Administrativas del Estado de Baja California iniciará a más tardar el primero de enero de 2019.
