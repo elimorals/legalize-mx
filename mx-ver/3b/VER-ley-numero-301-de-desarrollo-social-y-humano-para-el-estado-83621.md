@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-301-de-desarrollo-social-y-humano-para-el-estado-836
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-01"
-last_updated: "2011-11-01"
+last_updated: "2018-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 301 DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE OCTUBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 1 de noviembre de 2011.
 
@@ -279,9 +279,27 @@ La Secretaría deberá publicar en la Gaceta Oficial del Gobierno del Estado el 
 
 El Gobierno del Estado y los Municipios implementarán campañas de difusión con el objeto de informar a la población del contenido, reglas de operación y beneficios de los programas de desarrollo social que se apliquen en el Estado.
 
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2018)</small>
+
+Se suspenderán las campañas de difusión a que hace referencia este artículo, durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada comicial. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+
 ###### Artículo 18.
 
 Toda publicidad e información relativa a los programas de desarrollo social deberá incluir la siguiente leyenda: "Este programa es de carácter público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al desarrollo social".
+
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 18 Bis.
+
+Los servidores públicos de cualquier nivel, distintos a aquellos cuyas funciones estén adscritas a la Secretaría, no podrán operar ni participar en la entrega de los beneficios de los programas de desarrollo social.
+
+De igual manera, los beneficios de los programas de desarrollo social no podrán ser entregados en eventos masivos o modalidades que afecten el principio de equidad en la contienda electoral, durante el tiempo que duren las campañas electorales y la jornada comicial.
+
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 18 Ter.
+
+El reparto de bienes y servicios relativos a programas sociales que no cuenten con reglas de operación publicadas, o que no se ciña estrictamente a las mismas, será sancionado conforme a lo dispuesto en la Ley correspondiente.
 
 ###### Artículo 19.
 
@@ -637,6 +655,10 @@ Incurren en responsabilidad los servidores públicos que cometan cualquiera de l
 
 I. Utilicen los recursos destinados a los programas de desarrollo social para fines distintos a la consecución de sus objetivos y metas;
 
+> <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2018)</small>
+
+I Bis. Operen o participen en programas de desarrollo social, durante las campañas electorales y la jornada comicial, sin contar con dichas atribuciones;
+
 II. Condicionen la prestación de los servicios o programas al cumplimiento de requisitos ajenos a los establecidos en la normatividad que corresponda;
 
 III. Violen la normatividad de los programas con la finalidad de favorecer a personas, y grupos que no formen parte de la población objetivo;
@@ -694,3 +716,13 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 5 DE OCTUBRE DE 2018.
+
+[TRANSITORIOS DEL “DECRETO NÚMERO 717 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
