@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2018-06-06"
+last_updated: "2018-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -1719,7 +1719,9 @@ La revalidación anual será obligatoria a partir del mes de enero del año sigu
 
 Si el pago se hace a partir del mes de marzo, se cubrirá la cuota a que se refiere el punto anterior, y se aplicarán las sanciones correspondientes de acuerdo a lo establecido en el Código Fiscal del Estado.
 
-VII.- Por cada permiso eventual de servicio público, por día:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE OCTUBRE DE 2018)</small>
+
+VII.- Por cada permiso eventual de servicio público, por semana:
 
 1.- Para el transporte de pasajeros 1.00
 
@@ -4254,3 +4256,11 @@ SEGUNDO. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Le
 TERCERO. En un plazo no mayor a 60 días contados a partir de la entrada en vigor de la presente Ley, deberá quedar instalada la Comisión para la Supervisión y Control de la Administración de Vehículos Abandonados del Estado de Sinaloa.
 
 CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 844 QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 48 DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
