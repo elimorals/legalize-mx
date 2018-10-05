@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-integracion-social-de-personas-con-discapacidad-del-1718
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2016-12-28"
+last_updated: "2018-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el miércoles 6 de septiembre del 2000.
 
@@ -500,6 +502,12 @@ La Secretaría de Educación Pública y Cultura reconocerá el principio de igua
 ###### Artículo 38.
 
 La Secretaría de Educación Pública y Cultura promoverá programas de estímulos a los docentes que destaquen en la atención a personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 38 Bis.
+
+La Secretaría de Educación Pública y Cultura capacitará al personal directivo, administrativo y docente que en las instituciones de educación superior se encargue de la atención de las personas con discapacidad. Asimismo, podrá convocar a reuniones con la finalidad de intercambiar políticas, programas, experiencias y aprendizajes, que favorezcan la inclusión plena en el proceso formativo de las personas con discapacidad. Las instituciones de educación superior procurarán que los mecanismos de evaluación académica consideren la situación particular de las personas con discapacidad para que éstos no resulten excluyentes o discriminatorios.
 
 ###### Artículo 39.
 
@@ -998,3 +1006,13 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 819 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN Y DE LA LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD, AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. En los niveles de educación básica, normal, media superior y superior, las autoridades educativas, en el ámbito de su competencia, establecerán en un plazo no mayor a 180 días, criterios generales para realizar los ajustes razonables que garanticen la educación inclusiva, con atención al principio de progresividad.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
