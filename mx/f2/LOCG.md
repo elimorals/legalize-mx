@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2018-05-24"
+last_updated: "2018-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -622,217 +622,177 @@ e) Las demás que se derivan de esta ley y de los ordenamientos relativos.
 
 Las comisiones ordinarias serán:
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-I. Agricultura y Sistemas de Riego;
+I.- Asuntos Frontera Norte;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-II. Agua Potable y Saneamiento;
+II.- Asuntos Frontera Sur;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-III. Asuntos Frontera Norte;
+III.- Asuntos Migratorios;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-IV. Asuntos Frontera Sur-Sureste;
+IV.- Atención a Grupos Vulnerables;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-V. Asuntos Indígenas;
+V.- Ciencia, Tecnología e Innovación;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-VI. Asuntos Migratorios;
+VI.- Comunicaciones y Transportes;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-VII. Atención a Grupos Vulnerables;
+VII.- Cultura y Cinematografía;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-VIII. Cambio Climático;
+VIII.- Defensa Nacional;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-IX. Ciencia y Tecnología;
+IX.- Deporte;
 
-> <small>(ADICIONADA, D.O.F. 4 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-X. Ciudad de México
+X.- Derechos de la Niñez y Adolescencia;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XI. Competitividad;
+XI.- Derechos Humanos;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XII. Comunicaciones;
+XII.- Desarrollo Metropolitano, Urbano, Ordenamiento Territorial y Movilidad;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XIII. Cultura y Cinematografía;
+XIII.- Desarrollo Social;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XIV. Defensa Nacional;
+XIV.- Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XV. Deporte;
+XV.- Economía, Comercio y Competitividad;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XVI. Derechos de la Niñez;
+XVI.- Economía Social y Fomento del Cooperativismo;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XVII. Derechos Humanos;
+XVII.- Educación;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XVIII. Desarrollo Metropolitano;
+XVIII.- Energía;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XIX. Desarrollo Municipal;
+XIX.- Federalismo y Desarrollo Municipal;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XX. Desarrollo Rural;
+XX.- Ganadería;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXI. Desarrollo Social;
+XXI.- Gobernación y Población;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXII. Desarrollo Urbano y Ordenamiento Territorial;
+XXII.- Hacienda y Crédito Público;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXIII. Economía;
+XXIII.- Igualdad de Género;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXIV. Educación Pública y Servicios Educativos;
+XXIV.- Infraestructura;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXV. Energía;
+XXV.- Justicia;
 
-> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXVI. Fomento Cooperativo y Economía Social;
+XXVI.- Juventud y Diversidad Sexual;
 
-> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXVII. Fortalecimiento al Federalismo;
+XXVII.- Marina;
 
-> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXVIII. Ganadería;
+XXVIII.- Medio Ambiente, Sustentabilidad, Cambio Climático y Recursos Naturales;
 
-> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXIX. Gobernación;
+XXIX.- Pesca;
 
-> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXX. Hacienda y Crédito Público;
+XXX.- Presupuesto y Cuenta Pública;
 
-> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXXI. Igualdad de Género;
+XXXI.- Protección Civil y Prevención de Desastres;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXXII. Infraestructura;
+XXXII.- Pueblos Indígenas;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXXIII. Justicia;
+XXXIII.- Puntos Constitucionales;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXXIV. Juventud;
+XXXIV.- Radio y Televisión;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXXV. Marina;
+XXXV.- Recursos Hidráulicos, Agua Potable y Saneamiento;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXXVI. Medio Ambiente y Recursos Naturales;
+XXXVI.- Relaciones Exteriores;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXXVII. Pesca;
+XXXVII.- Salud;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXXVIII. Población;
+XXXVIII.- Seguridad Pública;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XXXIX. Presupuesto y Cuenta Pública;
+XXXIX.- Seguridad Social;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XL. Protección Civil;
+XL.- Trabajo y Previsión Social;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XLI. Puntos Constitucionales;
+XLI.- Transparencia y Anticorrupción;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XLII. Radio y Televisión;
+XLII.- Turismo, y
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-XLIII. Recursos Hidráulicos;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-XLIV. Reforma Agraria;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-XLV. Relaciones Exteriores;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-XLVI. Salud;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-XLVII. Seguridad Pública;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-XLVIII. Seguridad Social;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-XLIX. Trabajo y Previsión Social;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-L. Transparencia y Anticorrupción;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-LI. Transportes;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-LII. Turismo, y
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-LIII. Vivienda.
+XLIII.- Vivienda.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2017)</small>
 
@@ -874,15 +834,19 @@ c) Impulsar y realizar los estudios que versen sobre disposiciones normativas, r
 
 ###### ARTICULO 43.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2018)</small>
 
-1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la legislatura, tendrán hasta treinta miembros y el encargo de sus integrantes será por el término de la misma, salvo aquéllas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura. Los diputados podrán pertenecer hasta tres de ellas; para estos efectos, no se computará la pertenencia a las comisiones jurisdiccional y las de investigación.
+1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la legislatura, tendrán hasta treinta miembros, o el número necesario para garantizar la proporción entre la integración del Pleno y la conformación de comisiones, de tal manera que los Grupos Parlamentarios no pierdan su representación proporcional en ellas. Los diputados podrán pertenecer hasta tres de ellas; para estos efectos, no se computará la pertenencia a las comisiones Jurisdiccional y las de investigación.
+
+El encargo de sus integrantes será por el término de la legislatura, salvo aquellas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura.
 
 > <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 2006)</small>
 
 2. Las comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública, podrán tener más de treinta miembros; se incrementarán para incorporar a un diputado de cada grupo parlamentario que no haya alcanzado a integrarse en razón de su proporción, y el número que sea necesario para que los demás grupos no pierdan su representación proporcional en ellas.
 
-3. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2018)</small>
+
+3. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, garantizando que los Grupos Parlamentarios no pierdan la representación proporcional expresada en el Pleno en la conformación de las comisiones.
 
 4. Al proponer la integración de las comisiones, la Junta postulará también a los diputados que deban presidirlas y fungir como secretarios. Al hacerlo, cuidará que su propuesta incorpore a los diputados pertenecientes a los distintos Grupos Parlamentarios, de tal suerte que se refleje la proporción que representen en el Pleno, y tome en cuenta los antecedentes y la experiencia legislativa de los diputados.
 
@@ -2813,3 +2777,63 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. La implementación del presente Decreto no comprometerá la erogación de recursos adicionales a los presupuestados a la Cámara de Diputados y por tanto no se recurrirá a reasignación de ellos.
 
 Tercero. Se derogan las disposiciones que contravengan el presente Decreto.
+
+D.O.F. 5 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 39 Y 43 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto, los asuntos que hayan quedado pendientes de resolución en anteriores legislaturas en las Comisiones de la Cámara de Diputados y los turnados por la actual LXIV legislatura a Comisiones que permanecían en poder de la Mesa Directiva, serán distribuidos bajo los siguientes criterios:
+
+a) Los asuntos a cargo de las Comisiones Ordinarias que se extinguen o fusionan, se distribuirán de la siguiente forma:
+
+Comisiones Ordinarias que se Nuevas Comisiones Ordinarias
+
+extinguen o fusionan
+
+Agricultura y Sistemas de Riego Desarrollo y Conservación Rural, Agrícola y
+
+Desarrollo Rural Autosuficiencia Alimentaria
+
+Reforma Agraria
+
+Agua Potable y Saneamiento Recursos Hidráulicos, Agua Potable y
+
+Recursos Hidráulicos Saneamiento
+
+Cambio Climático Medio Ambiente, Sustentabilidad,
+
+Medio Ambiente y Recursos Cambio Climático y
+
+Naturales Recursos Naturales
+
+Ciudad de México Gobernación y Población
+
+Competitividad Economía, Comercio y Competitividad
+
+Economía
+
+Comunicaciones Comunicaciones y Transportes
+
+Transportes
+
+Desarrollo Metropolitano Desarrollo Metropolitano, Urbano,
+
+Desarrollo Urbano y Ordenamiento Territorial y
+
+Ordenamiento Territorial Movilidad
+
+Desarrollo Municipal Federalismo y Desarrollo
+
+Fortalecimiento al Federalismo Municipal
+
+Gobernación Gobernación y Población
+
+Población
+
+b) En caso de que se presenten controversias sobre la distribución de las competencias de las Comisiones establecidas en el inciso a), la Conferencia para la Dirección y Programación de los Trabajos Legislativos resolverá lo conducente.
+
+Tercero.- Las diputadas o diputados que al momento de constituirse la legislatura no se hubieren integrado a algún Grupo Parlamentario, podrán integrarse a las comisiones que acuerde la Junta de Coordinación Política, las cuales podrán incrementar sus miembros para que los Grupos Parlamentarios mantengan su representación proporcional en ellas.
+
+Cuarto.- Una vez que el presente Decreto entre en vigor se procederá a instalar las Comisiones cuya conformación haya aprobado el Pleno.
