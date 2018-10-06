@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-etica-y-conducta-para-los-colaboradores-del-126098"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-01-16"
-last_updated: "2018-01-16"
+last_updated: "2018-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ÉTICA Y CONDUCTA PARA LOS COLABORADORES DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2018.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2018.
 
@@ -505,65 +505,87 @@ II. El Comité.
 
 #### Sección Primera. Del Órgano de Control Interno
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 27.
 
-El Órgano de Control Interno promoverá coordinará y vigilará la observancia de las disposiciones contenidas en este Código.
+El Órgano de Control Interno, en materia de responsabilidades administrativas, vigilará la observancia de las disposiciones contenidas en este Código.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 28.
 
-El Órgano de Control Interno, validará, dará seguimiento y evaluará los Programas Anuales de Trabajo del Comité de DIF Jalisco.
+El Órgano de Control Interno, resolverá las denuncias de actos u omisiones que pudieren constituir o vincularse con faltas administrativas que le dé a conocer el Comité de DIF Jalisco.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-El Órgano de Control Interno será competente para expedir los manuales, lineamientos, directrices, guías, metodologías, procedimientos o cualquier otro documento complementario a las disposiciones contenidas en este Código, y será competente para interpretar para los efectos administrativos cualquier aspecto relacionado con el mismo.
+El Órgano de Control Interno es competente para expedir los manuales, lineamientos, directrices, guías, metodologías, procedimientos o cualquier otro documento complementario a las disposiciones contenidas en este Código, en materia de responsabilidades administrativas y es competente para interpretar para los efectos administrativos cualquier aspecto relacionado con tal materia.
 
 #### Sección Segunda. De la participación del Órgano de Control Interno
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 30.
 
-El Órgano de Control Interno fungirá como entidad rectora de la definición de políticas públicas, medidas preventivas y estrategias que permitan la salvaguarda efectiva de los principios de legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad, competencia por mérito igualdad de trato y oportunidades, el respeto a los derechos humanos y libertades fundamentales de las personas, prevención y erradicación de la violencia contra las mujeres, igualdad y no discriminación por parte de los colaboradores.
+El Órgano de Control Interno fungirá como entidad rectora de la definición de políticas públicas que permitan la salvaguarda efectiva de los principios de legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad, competencia por mérito igualdad de trato y oportunidades, el respeto a los derechos humanos y libertades fundamentales de las personas, prevención y erradicación de la violencia contra las mujeres, igualdad y no discriminación por parte de los colaboradores.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 31.
 
-El Órgano de Control Interno participará en el Comité de DIF Jalisco.
+El Órgano de Control Interno en la definición de las políticas públicas, considerará las opiniones, informes y propuestas que le presente el Comité.
 
 #### Sección Tercera. Del Comité
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 32.
 
-El Comité es el órgano colegiado auxiliar, cuyo objeto es presentar opiniones, informes y propuestas no vinculatorias, relativas a los asuntos, principios y valores que deben regir, como reglas de integridad en DIF Jalisco, así como de aquéllas que le sean determinadas por el Órgano de Control Interno, en el ámbito de su adscripción, y salvaguardará los principios, valores y reglas de integridad previstas en el presente Código.
+El Comité es el órgano colegiado auxiliar, cuyo objeto es presentar opiniones, informes y propuestas no vinculatorias, relativas a los asuntos, principios y valores que deben regir, como reglas de integridad en DIF Jalisco, así como de aquéllas políticas públicas que sean determinadas por el Órgano de Control Interno, el ámbito de su adscripción, y salvaguardará los principios, valores y reglas de integridad previstas en el presente Código.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 33.
 
 El Comité se integra de la siguiente manera:
 
-I. Los titulares del Órgano Interno de Control, quienes presidirán, someterán a consideración y expondrán los asuntos a tratar;
+I. El titular de la Dirección General, quien presidirá, someterá a consideración y expondrá los asuntos a tratar;
 
-II. Titular de la Subdirección General de Administración y Planeación;
+II. Titular de la Subdirección General de Administración y Planeación, quien en ausencia del titular de la Dirección General, presidirá el Comité;
 
-III. Titular del Sindicato de mayor representación:
+III. Titular del Sindicato de mayor representación;
 
-IV. Titular de la Dirección de Recursos Humanos.
+IV. Titular de la Dirección de Recursos Humanos; y
 
-Todos los integrantes del Comité contarán con voz y voto. Por cada titular se podrá nombrar un suplente con categoría mínima de Jefe de Departamento.
+V. Titulares de las Subdirecciones Generales.
+
+Todos los integrantes del Comité contarán con voz y voto. Por cada titular se podrá nombrar un suplente con categoría mínima de Director de Área.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 34.
 
-Los titulares del Órgano Interno de Control, convocarán a las sesiones del Comité con por lo menos veinticuatro horas de anticipación a su celebración y serán válidas con la asistencia de la mayoría simple de los integrantes del mismo.
+El titular de la Subdirección General de Administración y Planeación, a instrucción del titular de la Dirección General, convocará a las sesiones del Comité con por lo menos veinticuatro horas de anticipación a su celebración y serán válidas con la asistencia de la mayoría simple de los integrantes del mismo.
 
 Las decisiones se tomarán por mayoría simple, en caso de empate, el Presidente tendrá voto de calidad para los efectos correspondientes.
 
 El Consejo Consultivo sesionará todas las veces que se estime necesario.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 35.
 
 De todas las sesiones del Comité se levantará el acta concerniente que contendrá los datos del lugar, día y hora en que se llevaron a cabo, así como, la descripción de cada caso ventilado y los acuerdos tomados por sus integrantes que evidencien claramente la opinión emitida al respecto.
 
-El acta se realizará por los titulares del Órgano Interno de Control, pudiendo apoyarse en el personal a su cargo para tal efecto, firmando en ella todos los asistentes a dicha sesión.
+El acta se realizará por el titular de la Subdirección General de Administración y Planeación, pudiendo apoyarse en el personal a su cargo para tal efecto, firmando en ella todos los asistentes a dicha sesión.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 36.
 
-Las demás disposiciones o lineamientos necesarios para el buen funcionamiento del Comité, serán emitidos por los titulares del Órgano Interno de Control con el visto bueno de la Dirección General de DIF Jalisco.
+Las demás disposiciones o lineamientos necesarios para el buen funcionamiento del Comité, serán emitidos por el titular de la Dirección General de DIF Jalisco.
 
 ## Artículos Transitorios
 
@@ -598,3 +620,13 @@ Contralor Interno
 Mtro. Óscar González Abundis
 
 Director Jurídico
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO DE ÉTICA Y CONDUCTA PARA LOS COLABORADORES DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE JALISCO”.]
+
+Primero. El presente acuerdo entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+Segundo. Las funciones realizadas por el Órgano de Control Interno al presidir el Comité, se seguirán por el titular de la Dirección General, previo informe que le emita dentro de los diez días hábiles siguientes a la entrada en vigor del presente.
