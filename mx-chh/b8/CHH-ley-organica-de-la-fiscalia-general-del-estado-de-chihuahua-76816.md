@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2018-07-21"
+last_updated: "2018-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -345,19 +345,31 @@ III. La Comisión Ejecutiva de Atención a Víctimas; y
 
 IV. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 5.
 
-Para efectos de operación de los órganos y demás unidades de la Fiscalía General, el territorio del Estado estará dividido en cuatro zonas geográficas de la siguiente manera:
+Para efectos de operación de los órganos y demás unidades de la Fiscalía General, el territorio del Estado estará dividido en cinco zonas geográficas de la siguiente manera:
 
-I. Zona Norte, con sede en Ciudad Juárez, y comprende los Distritos Judiciales Bravos y Galeana;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+I. Zona Norte, con sede en Ciudad Juárez, y comprende el Distrito Judicial Bravos;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 II. Zona Centro, con sede en la ciudad de Chihuahua, y comprende los Distritos Judiciales Morelos, Abraham González, Camargo y Manuel Ojinaga;
 
-III. Zona Sur, con sede en la ciudad de Hidalgo del Parral, y comprende los Distritos Judiciales Hidalgo, Jiménez, Andrés del Río y Mina, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
 
-IV. Zona Occidente, con sede en Ciudad Cuauhtémoc, y comprende los Distritos Judiciales Benito Juárez, Guerrero, Rayón y Arteaga.
+III. Zona sur, con sede en la cuidad (sic) de Hidalgo de Parral, y comprende los Distritos Judiciales Hidalgo, Jiménez, Andrés del Río y Mina;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+IV. Zona Occidente, con sede en ciudad Cuauhtémoc, y comprende los Distritos Judiciales Benito Juárez, Rayón, Arteaga y Guerrero, salvo los Municipios de Madera y Gómez Farías, y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+V. Zona Noroeste, con sede en la ciudad de Nuevo Casas Grandes, y comprende el Distrito Judicial Galeana y los Municipios de Madera y Gómez Farías.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -483,11 +495,11 @@ b) Multa hasta por el equivalente a quince veces la Unidad de Medida y Actualiza
 
 c) Arresto hasta por treinta y seis horas, en su caso.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 8.
 
-Las Fiscalías de Distrito por Zonas serán cuatro, conforme a la distribución territorial señalada en el artículo 5 de esta Ley, a cargo de un Fiscal de Distrito, las que ejercerán las atribuciones descritas en el apartado B del artículo 2 de este ordenamiento.
+Las Fiscalías de Distrito por Zonas serán cinco, conforme a la distribución territorial señalada en el artículo 5 de esta Ley, a cargo de un Fiscal de Distrito, las que ejercerán las atribuciones descritas en el apartado B del artículo 2 de este ordenamiento.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)</small>
 
@@ -753,7 +765,9 @@ La Agencia Estatal de Investigación es la unidad orgánica de la Fiscalía Gene
 
 I. Un Coordinador General;
 
-II. Cuatro Coordinaciones Regionales en los términos del artículo 5 de esta Ley.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+II. Cinco Coordinaciones Regionales en los términos del artículo 5 de esta Ley.
 
 III. Un Coordinador para todas las Fiscalías Especializadas que tengan funciones de Investigación y Persecución del delito, distintas a las de Zona;
 
@@ -1680,3 +1694,27 @@ A la entrada en vigor del presente Decreto, todos los asuntos en trámite, inclu
 ###### ARTICULO CUARTO.
 
 A la entrada en vigor del presente Decreto, los recursos humanos, materiales y financieros asignados a la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, pasarán a formar parte de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; sin perjuicio de los ajustes administrativos que de conformidad a la legislación aplicable, realice la Fiscalía General del Estado.
+
+P.O. 6 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFLEY/0875/2018 XVII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Deberán realizarse las modificaciones que resulten necesarias, a acuerdos, protocolos, convenios o demás instrumentos jurídicos en los que se involucren, participen o tengan injerencia las zonas de las Fiscalías de Distrito, a fin de dar congruencia a lo previsto en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, las carpetas de investigación, los recursos humanos, materiales y financieros y, en general, todos los asuntos que actualmente se estén atendiendo por la Fiscalía de Distrito Zona Norte con competencia en los Municipios de Ascensión, Buenaventura, Casas Grandes, Galeana, Ignacio Zaragoza, Janos y Nuevo Casas Grandes; y por la Fiscalía de Distrito Zona Occidente, con competencia en los municipios de Madera y Gómez Farías, quedarán a cargo de la Fiscalía Zona Noroeste.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye a la Secretaría de Hacienda para que, en ejercicio de sus atribuciones, realice las previsiones presupuestales y administrativas que resulten necesarias para la infraestructura que sea indispensable, así como los recursos humanos financieros imprescindibles para la debida implementación de lo establecido en el presente Decreto.
