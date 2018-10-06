@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-administracion-y-destino-de-bienes-relacionados-116
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-18"
-last_updated: "2016-06-18"
+last_updated: "2018-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY PARA LA ADMINISTRACION Y DESTINO DE BIENES RELACIONADOS CON HECHOS DELICTIVOS PARA EL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE DECRETO ENTRA EN VIGOR A LAS CERO HORAS DEL DÍA 13 DE JUNIO DEL AÑO 2016, DE CONFORMIDAD CON LA DECLARATORIA CONTENIDA EN EL DECRETO NO. 852/2015 VII P.E.]</small>
-
 LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES RELACIONADOS CON HECHOS DELICTIVOS PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de junio de 2016.
 
@@ -97,9 +95,13 @@ I. El Fiscal General del Estado, quien la presidirá.
 
 II. Un representante del Tribunal Superior de Justicia del Estado.
 
-III. El Secretario de Hacienda.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
 
-IV. El Secretario de Salud.
+III. Un representante del Secretario de Hacienda.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+IV. Un representante del Secretario de Salud.
 
 V. El Titular de la Autoridad Administrativa, quien tendrá el carácter de Secretario Técnico de la Comisión y contará solo con voz.
 
@@ -109,7 +111,9 @@ Salvo el Secretario Técnico, los integrantes de la Comisión podrán nombrar a 
 
 Forma de sesionar.
 
-La Comisión sesionará ordinariamente cuando menos cada seis meses y extraordinariamente cuando se requiera. Sus reuniones serán válidas con la presencia de al menos tres de sus integrantes con derecho a voto, entre los cuales deberá estar el Presidente o su suplente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+La Comisión sesionará ordinariamente cuando menos cada tres meses y extraordinariamente cuando se requiera. Sus reuniones serán válidas con la presencia de al menos tres de sus integrantes con derecho a voto, entre los cuales deberá estar el Presidente o su suplente.
 
 Los acuerdos y decisiones de la Comisión se aprobarán por mayoría de votos de los integrantes presentes y, en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -119,7 +123,9 @@ Facultades y obligaciones de la Comisión.
 
 La Comisión tendrá las facultades y obligaciones siguientes:
 
-I. Emitir los acuerdos y lineamientos generales para la debida administración y destino de los Bienes.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+I. Emitir los acuerdos y lineamientos generales para la debida administración y destino de los Bienes, en los cuales se podrá contemplar la donación de bienes a instituciones públicas y privadas con un objeto de interés social.
 
 II. Emitir los acuerdos y lineamientos generales a los que deberán ajustarse los depositarios, administradores, interventores y comodatarios.
 
@@ -131,7 +137,15 @@ V. Aprobar los conceptos de gasto que la Autoridad Administrativa deba realizar 
 
 VI. Expedir su reglamento interior.
 
-VII. Las demás que establezca la presente Ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2018)</small>
+
+VII. Determinar en qué medio de comunicación impreso se realizarán las publicaciones indicadas en el artículo 231 del Código Nacional de Procedimientos Penales y ordenar su publicación.
+
+Invariablemente, las publicaciones se realizarán en el portal electrónico oficial del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE OCTUBRE DE 2018)</small>
+
+VIII. Las demás que establezca la presente Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. De la Autoridad Administrativa
 
@@ -181,13 +195,21 @@ XI. Rendir en cada sesión ordinaria un informe detallado a la Comisión sobre e
 
 XII. Aplicar e interpretar las disposiciones de la presente Ley, salvo disposición expresa en contrario.
 
-XIII. Las demás que señalen otros ordenamientos o que mediante acuerdo determine la Comisión.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2018)</small>
+
+XIII. Solicitar la publicación en el medio de comunicación impreso acordado por la comisión, de conformidad con el artículo 231 del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE OCTUBRE DE 2018)</small>
+
+XIV. Las demás que señalen otros ordenamientos o que mediante acuerdo determine la Comisión.
 
 B. En su calidad de Secretario Técnico:
 
 I. Asistir, con voz pero sin voto, a las sesiones de la Comisión.
 
-II. Convocar a sesión.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+II. Convocar a sesiones ordinarias y extraordinarias
 
 III. Instrumentar las actas de las sesiones.
 
@@ -446,3 +468,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de junio del año dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXV/RFDEC/0846/2018 XV P.E., POR MEDIO DEL CUAL SE ACEPTAN LAS OBSERVACIONES REALIZADAS POR EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE CHIHUAHUA AL DECRETO NO LXV/RFLEY/0768/2018 II P.O.".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- De existir recursos en el Fondo Estatal de Protección y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas, creado mediante ARTÍCULO SÉPTIMO del Decreto No.1201/2013 X P.E., publicado en el Periódico Oficial del Estado el 10 de mayo de 2014, deberán ser transferidos al Fondo Estatal para la Prevención, Combate y Erradicación de la Trata de Personas y Protección, Atención y Asistencia a las Víctimas creado mediante Decreto No. LXV/EXLEY/0384/2017 I P.O., publicado el 14 de octubre de 2017 en el Periódico Oficial del Estado.
+
+## TRANSITORIO
+
+###### ARTÍCULO ÚNICO.
+
+Con fundamento en lo que expresa el artículo 183 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, mándese promulgar el presente Decreto con las observaciones aceptadas.
