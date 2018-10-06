@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-combate-y-erradicacion-de-la-trata-12389
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-14"
-last_updated: "2018-06-27"
+last_updated: "2018-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA TRATA DE PERSONAS Y PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2018.
 
 Ley publicada en Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de octubre de 2017.
 
@@ -111,7 +111,9 @@ IV.- Consejo: El Consejo Estatal para la Prevención, Atención, Combate y Errad
 
 V.- Derechos Humanos: Son los atributos, prerrogativas y libertades que tiene y se deben reconocer a un ser humano por el simple hecho de serlo e indispensables para salvaguardar su dignidad e integridad en el sentido más amplio.
 
-VI.- El Fondo: El Fondo Estatal para la Prevención, Combate y Erradicación de los Delitos en materia de Trata de Personas y para la Protección, Atención y Asistencia a las Víctimas.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+VI.- El Fondo: El Fondo Estatal para la Prevención, Combate y Erradicación de la Trata de Personas y Protección, Atención y Asistencia a las Víctimas.
 
 VII.- Perspectiva de Género: Es una visión científica, filosófica y política sobre mujeres y hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas, así como también promueve la igualdad entre los géneros a través de la equidad y bienestar de las mujeres y niñas.
 
@@ -146,6 +148,10 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### ARTÍCULO 7.
 
 Las autoridades estatales, serán competentes para conocer, investigar, perseguir, combatir, procesar, sancionar y erradicar los delitos en materia de trata de personas, con excepción de los supuestos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de competencia exclusiva de la Federación.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+Coadyuvar en todo momento con la Autoridad Federal en la integración de la investigación de los delitos cometidos por la delincuencia organizada, en los términos de la Ley Federal contra la Delincuencia Organizada.
 
 ###### ARTÍCULO 8.
 
@@ -543,17 +549,51 @@ II.- Las donaciones o aportaciones hechas a su favor por terceros.
 
 III.- Las donaciones o aportaciones que realicen las diferentes dependencias y entidades de los tres órdenes de gobierno, del sector privado, de las diferentes asociaciones, fundaciones u organizaciones no gubernamentales y organismos e instituciones internacionales, así como por otros bienes, recursos y derechos que por cualquier otro título se incorporen.
 
-IV.- Recursos provenientes que se asignen del Fondo de Ayuda, Asistencia y Reparación a Víctimas del Estado de Chihuahua, establecido en la Ley de Víctimas para el Estado de Chihuahua, y el Fondo de Ayuda, Asistencia y Reparación Integral de la Federación.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+IV.- Recursos producto de los bienes que hayan sido objeto de extinción de dominio y estén relacionados con la comisión de los delitos de trata de personas, siempre y cuando se haya cubierto el pago de la reparación del daño a la víctima de este delito, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+V.- Recursos obtenidos por la enajenación de bienes decomisados en procesos penales que correspondan a los delitos materia de la Ley General.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+VI.- Recursos adicionales obtenidos por los bienes que causen abandono.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+VII.- Recursos producto de los bienes que hayan sido objeto de extinción de dominio y estén relacionados con la comisión de los delitos previstos en la Ley General.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+VIII.- Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad judicial.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+IX.- Recursos que se produzcan por la administración de valores o los depósitos en dinero, de los recursos derivados de los fondos para la atención de víctimas, distintos a los que se refiere la fracción anterior.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2018)</small>
+
+X.- Los demás que otras leyes le señalen.
 
 ###### ARTÍCULO 39.
 
 El Fondo será administrado por la instancia y en los términos que disponga el Reglamento correspondiente, siguiendo los criterios de transparencia, oportunidad, eficiencia y racionalidad en aras de financiar las acciones del Programa Estatal, incluyendo los recursos que aporten los organismos estatales, nacionales e internacionales interesados en la prevención, combate y erradicación de los delitos previstos en la Ley General, así como la protección, atención y asistencia a las víctimas, a través de la Secretaría de Hacienda de Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 40.
 
-Los recursos que integren el Fondo, serán fiscalizados por la Auditoría Superior de la Federación y la Secretaría de la Función Pública del Estado.
+Los recursos del Fondo podrán destinarse a:
 
-Los recursos del Fondo podrán utilizarse para el pago de la reparación del daño a la víctima, en los términos de la legislación federal en materia de extinción de dominio, en caso de que los recursos de la persona sentenciada sean insuficientes para cubrir el monto determinado por el juzgador.
+I. El pago de la reparación del daño a la víctima del delito de trata de personas cuando los recursos de la persona sentenciada por este delito resulten insuficientes para cubrirla. Para el establecimiento del monto pagadero a la víctima y del procedimiento a seguir, se observará lo previsto en el reglamento respectivo.
+
+II. Capacitación y sensibilización en materia de prevención del delito de trata de personas, misma que se realizará por conducto de la Fiscalía General del Estado en su área respectiva.
+
+Cuando no existan recursos en el Fondo, la víctima conservará su derecho para acceder al Fondo de Ayuda, Asistencia y Reparación a Víctimas del Estado de Chihuahua, de conformidad con la ley de la materia.
+
+Los recursos que integren el Fondo, serán fiscalizados por la Auditoría Superior de la Federación y la Secretaría de la Función Pública del Estado.
 
 T R A N S I T O R I O S
 
@@ -561,9 +601,15 @@ T R A N S I T O R I O S
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-El Consejo a que se refiere la presente Ley, se instalará dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+El Poder Ejecutivo del Estado de Chihuahua deberá:
+
+a) Publicar el Reglamento de la presente Ley dentro de los noventa días naturales siguientes a la entrada en vigor de este Transitorio, debiendo contemplarse en él lo relativo al Fondo Estatal para la Prevención, Combate y Erradicación de la Trata de Personas y Protección, Atención y Asistencia a las Víctimas.
+
+b) El Consejo a que se refiere la presente Ley se instalará dentro de los treinta días naturales siguientes a la entrada en vigor del Reglamento de la Ley.
 
 ###### ARTÍCULO TERCERO.
 
@@ -600,3 +646,25 @@ P.O. 27 DE JUNIO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado deberá emitir el Reglamento de la Ley para la Prevención, Combate y Erradicación de la Trata de Personas y Protección, Atención y Asistencia a las Víctimas en el Estado de Chihuahua en un término no mayor de 90 días hábiles siguientes a la entrada en vigor del presente Decreto, para lo cual las personas consejeras participarán de forma activa en su elaboración y emisión respectiva.
+
+P.O. 6 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0461/2017 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA TRATA DE PERSONAS Y PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFDEC/0846/2018 XV P.E., POR MEDIO DEL CUAL SE ACEPTAN LAS OBSERVACIONES REALIZADAS POR EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE CHIHUAHUA AL DECRETO NO. LXV/RFLEY/0768/2018 II P.O.”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- De existir recursos en el Fondo Estatal de Protección y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas, creado mediante ARTÍCULO SÉPTIMO del Decreto No. 1201/2013 X P.E., publicado en el Periódico Oficial del Estado el 10 de mayo de 2014, deberán ser transferidos al Fondo Estatal para la Prevención, Combate y Erradicación de la Trata de Personas y Protección, Atención y Asistencia a las Víctimas creado mediante Decreto No. LXV/EXLEY/0384/2017 I P.O., publicado el 14 de octubre de 2017 en el Periódico Oficial del Estado.
+
+## TRANSITORIO
+
+###### ARTÍCULO ÚNICO.
+
+Con fundamento en lo que expresa el artículo 183 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, mándese promulgar el presente Decreto con las observaciones aceptadas.
