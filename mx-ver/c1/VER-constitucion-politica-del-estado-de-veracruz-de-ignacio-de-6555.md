@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2018-09-10"
+last_updated: "2018-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE OCTUBRE DE 2018.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -569,11 +569,11 @@ II. (DEROGADA, G.O. 17 DE JULIO DE 2015)
 
 Cuando los diputados falten a tres sesiones consecutivas, sin causa justificada o sin permiso del Presidente de la Mesa Directiva, se entenderá que renuncian a concurrir hasta el período siguiente, llamándose de inmediato a los suplentes.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 28.
 
-El Congreso podrá cambiar su sede provisionalmente, si para ello existe el acuerdo de las dos terceras partes del total de los diputados presentes, además, sesionará por lo menos una vez cada año en la cabecera de algún municipio del norte, centro o sur del Estado. En estos casos, notificará su determinación a los otros dos Poderes.
+El Congreso podrá cambiar su sede provisionalmente, si para ello existe el acuerdo de las dos terceras partes del total de los diputados presentes, notificándose de dicha determinación a los otros dos Poderes.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1393,15 +1393,17 @@ Aprobada la ley o decreto, se turnará al Titular del Poder Ejecutivo para su pr
 
 En el caso de urgencia u obviedad, calificado por el voto de las dos terceras partes de los diputados presentes, o cuando esté por terminar algún período de sesiones, el Congreso podrá dispensar los trámites reglamentarios.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 36.
 
-Se considerará aprobado por el Ejecutivo la ley o decreto no devuelto con observaciones al Congreso dentro de diez días hábiles de su recepción, a no ser que corriendo dicho plazo, éste hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día en que vuelva a estar reunido.
+Se considerará aprobado por el Ejecutivo la Ley o Decreto no devuelto con observaciones totales o parciales al Congreso dentro de los diez días hábiles siguientes a su recepción. Al término de este plazo, si no hubiere observaciones, el Ejecutivo deberá mandar a publicar la ley o decreto dentro de los tres días hábiles siguientes. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente del Congreso ordenará inmediatamente su publicación en la Gaceta Oficial, y si ésta no se realizare por responsabilidad del servidor público titular de ese órgano de difusión, éste será sancionado conforme al procedimiento establecido en la Ley.
 
-La ley o decreto devuelto con observaciones que en todo o en parte se le hayan formulado, será discutido de nueva cuenta en el Congreso. En este debate también podrá intervenir el Gobernador del Estado o quien él designe, para motivar y fundar las observaciones y responder a las cuestiones que sobre el particular formulen los diputados. Si la ley o el decreto son confirmados por el voto de las dos terceras partes de los diputados presentes, será reenviado al Ejecutivo para su promulgación y publicación.
+Los plazos a que se refiere el párrafo anterior no se interrumpirán si el Congreso hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
 
-Una vez cumplidos el plazo y las formalidades del proceso legislativo, si el Ejecutivo no ordenare la publicación de la ley o decreto aprobado, el Congreso podrá mandar publicarla directamente en la Gaceta Oficial del Estado.
+La Ley o Decreto devuelto con observaciones formuladas por el Ejecutivo será discutido nuevamente por el Congreso en un plazo no mayor a quince días, contado a partir de su recepción. En este debate podrá intervenir el Gobernador del Estado o quien él designe, para motivar y fundar las observaciones y responder a las cuestiones que sobre el particular formulen los diputados. Si la Ley o el Decreto son confirmados por el voto de las dos terceras partes de los diputados presentes, será reenviado al Ejecutivo para su promulgación y publicación.
+
+Si las observaciones del Ejecutivo contuvieren una propuesta modificatoria a la Ley o Decreto, el Congreso podrá aprobarla con la misma votación señalada en el párrafo anterior.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -12783,7 +12785,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 23 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 352 POR EL QUE SE ADICIONA LA FRACCION VI AL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 352 POR EL QUE SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
@@ -12831,10 +12833,30 @@ G.O. 10 DE SEPTIEMBRE DE 2018.
 
 G.O. 10 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 748 QUE REFORMA LA FRACCIÓN XXXIX BIS DEL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 748 QUE REFORMA LA FRACCIÓN XXXIX BIS DEL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá hacer las adecuaciones legales correspondientes para dar cumplimiento al mismo.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 747 QUE REFORMA EL ARTÍCULO 36 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo previsto en este Decreto.
+
+Tercero. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá hacer las adecuaciones a las leyes correspondientes para dar cumplimiento al mismo.
+
+G.O. 8 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 759 QUE REFORMA EL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Congreso del Estado deberá adecuar las leyes relativas, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
