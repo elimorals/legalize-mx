@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2018-10-08"
+last_updated: "2018-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE OCTUBRE DE 2018.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -731,7 +731,9 @@ g) La celebración de convenios de coordinación con municipios de otras entidad
 
 h) La creación de entidades paramunicipales.
 
-XVII. Llevar el registro de la situación patrimonial de los servidores públicos estatales y municipales, los cuales se harán públicos en los términos establecidos por la ley;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2018)</small>
+
+XVII. Llevar el registro de la situación patrimonial de los Servidores Públicos del Poder Legislativo;
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
 
@@ -2389,7 +2391,9 @@ VII. Los ayuntamientos propondrán al Congreso del Estado las cuotas y tarifas a
 
 VIII. Los ayuntamientos estarán facultados para que en la distribución de los recursos que le asigne el Congreso del Estado, sean consideradas de manera prioritaria las comunidades indígenas. Esta distribución se realizará con un sentido de equidad, de acuerdo con la disponibilidad presupuestal y las necesidades de dichas comunidades, incorporando representantes de éstas a los órganos de planeación y participación ciudadana, en los términos de la Ley Orgánica del Municipio Libre;
 
-IX. Los ayuntamientos establecerán sus propios órganos de control interno autónomos, los cuales deberán desarrollar su función de conformidad con lo que establezca la ley;
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2018)</small>
+
+IX. Los ayuntamientos establecerán sus propios órganos internos de control autónomos, los cuales deberán llevar el registro de la situación patrimonial de los Servidores Públicos municipales, así como desarrollar su función de conformidad con lo que establece la Ley;
 
 X. Los municipios del Estado, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado con municipios de otras entidades federativas, deberán contar con la aprobación del Congreso. Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio;
 
@@ -2507,7 +2511,9 @@ DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, PARTICULARES VINCULADOS CO
 
 Para los efectos de las responsabilidades a que alude este Título se reputará como servidor público a los representantes de elección popular, a los miembros del Poder Judicial del Estado, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso del Estado o en la Administración Pública Estatal o Municipal, Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, Sociedades y Asociaciones asimiladas a éstos; Fideicomisos; así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones. Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y de la deuda pública.
 
-Los servidores públicos a que se refiere este artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley. Todo servidor público será responsable por la comisión de delitos en el ejercicio de su encargo.
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+
+Los servidores públicos a que se refiera este artículo estarán obligados a presentar, bajo protesta de decir la verdad, su declaración patrimonial y de interés, ante el órgano interno de control que corresponda, en los términos que determine la Ley. Todo servidor público será responsable por la comisión de delitos en el ejercicio de su encargo.
 
 > <small>(ADICIONADO, G.O. 2 DE OCTUBRE DE 2017)</small>
 
@@ -2683,15 +2689,15 @@ III. El último Presidente del Tribunal Superior de Justicia.
 
 ### CAPÍTULO III. DE LAS REFORMAS A LA CONSTITUCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 84.
 
-Esta Constitución podrá ser reformada en todo o en parte por el Congreso del Estado. Las reformas deberán ser aprobadas, por el voto de las dos terceras partes de los miembros del Congreso, en dos períodos de sesiones ordinarios sucesivos, excepto cuando las reformas tengan como propósito efectuar adecuaciones derivadas de un mandato de la Constitución Política de los Estados Unidos Mexicanos, en que se aprobarán en una sola sesión, ordinaria o extraordinaria, por la misma mayoría, para lo cual el Congreso declarará previamente que se trata de un procedimiento especial.
+Esta Constitución podrá ser reformada en todo o en parte por el Congreso del Estado. Las reformas deberán ser aprobadas por el voto de las dos terceras partes de los miembros del Congreso.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
 
-Para que las reformas formen parte de esta Constitución será necesaria la aprobación de la mayoría de los ayuntamientos, la que deberá darse en sesión extraordinaria de Cabildo y comunicarse al Congreso o a la diputación permanente dentro de los sesenta días naturales siguientes a aquel en que reciban el proyecto. Se tendrán por aprobadas las reformas por parte de los ayuntamientos que, transcurrido el plazo conferido, no hubieren comunicado su acuerdo.
+Para que las reformas formen parte de esta Constitución será necesaria la aprobación de la mayoría de los ayuntamientos, la que deberá darse en sesión extraordinaria de Cabildo y comunicarse al Congreso o a la Diputación Permanente dentro de los treinta días naturales siguientes a aquel en que reciban el proyecto. Se tendrán por aprobadas las reformas por parte de los ayuntamientos si, transcurrido el plazo referido, no hubieren comunicado su acuerdo. No será necesaria la aprobación de los ayuntamientos, cuando las reformas tengan como propósito efectuar adecuaciones derivadas de un mandato de la Constitución Política de los Estados Unidos Mexicanos; de disposiciones emanadas de leyes nacionales, únicas o generales expedidas por el Congreso de la Unión, o de declaratorias de invalidez emitidas por la Suprema Corte de Justicia de la Nación; en estos casos, el Congreso declarará previamente que se trata de un procedimiento especial.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -12860,3 +12866,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Congreso del Estado deberá adecuar las leyes relativas, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
+
+G.O. 9 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 760 QUE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 33, LA FRACCIÓN IX DEL ARTÍCULO 71 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 761 QUE REFORMA EL ARTÍCULO 84 PÁRRAFOS PRIMERO Y SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Dentro de un plazo de sesenta días naturales, contado a partir de la entrada en vigor de este Decreto, el Congreso del Estado realizará las adecuaciones a la legislación secundaria, a efecto de dar cumplimiento a lo previsto en esta resolución.
+
+Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
