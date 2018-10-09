@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2017-11-23"
+last_updated: "2018-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "VER"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE OCTUBRE DE 2018 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 9 DE OCTUBRE DE 2018.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -1573,6 +1571,8 @@ VIII. Las demás que expresamente le señalen este Código y sus reglamentos.
 
 ### CAPÍTULO X. De la Contraloría General
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 114.
 
 El Secretario Ejecutivo del Instituto deberá cumplir los requisitos siguientes:
@@ -1855,11 +1855,21 @@ De la Dirección Ejecutiva del Servicio Profesional Electoral.
 
 ###### Artículo 124.
 
-La Contraloría General es el órgano del Instituto Electoral Veracruzano, con autonomía técnica y de gestión, responsable del análisis y evaluación de las actividades institucionales, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto.
+La Contraloría General es el órgano del Instituto Electoral Veracruzano, con autonomía técnica y de gestión, responsable del análisis y evaluación de las actividades institucionales, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto. Para el estudio, planeación y despacho de los asuntos de su competencia, la Contraloría General contará con las siguientes áreas:
 
-El titular de la Contraloría General será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, previa convocatoria pública que éste emita.
+I. Subcontraloría de Responsabilidades y Jurídico;
+
+II. Subcontraloría de Procedimientos Administrativos; y
+
+III. Subcontraloría de Auditoría y Control Interno.
+
+Contará, asimismo, con las demás áreas que sean necesarias para el correcto ejercicio de sus funciones, de conformidad con la disponibilidad presupuestal.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 125.
+
+El titular de la Contraloría General será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, previa convocatoria pública que éste emita.
 
 Para ser Contralor General del Instituto Electoral Veracruzano, deberá cumplir los requisitos siguientes:
 
@@ -1867,9 +1877,7 @@ I. Poseer título profesional de contador público o licenciado en derecho exped
 
 II. Acreditar experiencia mínima de cinco años en el ejercicio de su profesión; y
 
-III. No haber sido Consejero Electoral del Consejo General, en los cinco años inmediatos anteriores a la fecha de su designación.
-
-La Contraloría General tendrá el nivel de una dirección ejecutiva del Instituto Electoral Veracruzano.
+III. No haber sido Consejero Electoral del Consejo General, en los cinco años inmediatos anteriores a la fecha de su designación. La Contraloría General tendrá el nivel de una dirección ejecutiva del Instituto Electoral Veracruzano.
 
 ###### Artículo 126.
 
@@ -6018,3 +6026,13 @@ G.O. 23 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, a excepción de la Reforma al Código Electoral cuya vigencia iniciará una vez concluido el proceso electoral 2016-2017.
+
+G.O. 9 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 767 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, A LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, A LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO, Y AL CÓDIGO ELECTORAL, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales siguientes al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
