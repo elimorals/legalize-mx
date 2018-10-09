@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-586-de-la-comision-estatal-para-la-atencion-y-90621"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-03"
-last_updated: "2017-12-19"
+last_updated: "2018-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 586 DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE OCTUBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 3 de diciembre de 2012.
 
@@ -287,9 +287,11 @@ Serán responsables penal y administrativamente por los actos u omisiones en que
 
 ### CAPÍTULO IX. De la Contraloría
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 26.
 
-La Contraloría de la Comisión para la Atención y Protección de los Periodistas tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas, departamentos, funcionarios y empleados de la Comisión.
+La Contraloría de la Comisión para la Atención y Protección de los Periodistas contará con autonomía técnica y de gestión para cumplir con las funciones de control e inspección del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas, departamentos, funcionarios y empleados de la Comisión.
 
 ###### Artículo 27.
 
@@ -427,19 +429,41 @@ XXXIII. Levantar actas administrativas a los servidores públicos de la Comisió
 
 XXXIV. Las demás que expresamente establezcan las Leyes, las disposiciones aplicables y las que le sean asignadas por el Pleno en lo que no contravenga la Ley.
 
-> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 28.
 
-El contralor interno de la Comisión Estatal de (sic) para la Atención y Protección de los Periodistas, para su designación, debe reunir los requisitos siguientes:
+El contralor de la Comisión Estatal para la Atención y Protección de los Periodistas, el cual tendrá un nivel jerárquico equivalente, como mínimo, al de Director General, para su designación, debe reunir los requisitos siguientes:
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 I. Ser veracruzano y haber residido en la entidad durante los dos años anteriores al día de la designación, o mexicano por nacimiento, con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano en pleno ejercicio de sus derechos;
 
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 II. Tener, cuando menos, treinta y cinco años de edad cumplidos al día de la designación;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 III. Contar con título profesional legalmente expedido y cédula profesional en alguna de las áreas económicas, contables, jurídicas o administrativas y acreditar experiencia profesional de cuando menos cinco años en actividades afines y poseer, preferentemente estudios de postgrado; y
 
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, u otro que lastime su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(ADICIONADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 28 Bis.
+
+Para su funcionamiento, la Contraloría contará con las siguientes Subdirecciones, o equivalentes, en las áreas que a continuación se señalan:
+
+I. Quejas, Denuncias e Investigación;
+
+II. Responsabilidades Administrativas y Substanciación; y
+
+III. Normatividad, Auditoría y Control.
+
+Las Subdirecciones, o equivalentes, estarán bajo la responsabilidad del Contralor y contarán con el personal que resulte necesario para el desarrollo de sus funciones; los servidores públicos de las mismas serán designados y removidos libremente por el Contralor, con base en los requerimientos del servicio y a los criterios que aquél determine dentro del margen de la unidad presupuestal anual solicitada y asignada. Asimismo, el reglamento respectivo establecerá las atribuciones que correspondan a cada subdirección o área equivalente.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -484,3 +508,13 @@ G.O. 19 DE DICIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 767 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, A LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, A LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO, Y AL CÓDIGO ELECTORAL, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales siguientes al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
