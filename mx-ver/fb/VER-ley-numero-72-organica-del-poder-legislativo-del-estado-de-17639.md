@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2018-08-28"
+last_updated: "2018-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE OCTUBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -1237,7 +1237,7 @@ II. Evaluar el avance del informe de la Gestión Financiera de los Ayuntamientos
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2005)</small>
 
-III. Practicar, por instrucciones del Secretario General, previo acuerdo del Presidente de la Mesa Directiva, Presidente de la Junta de Coordinación Política o de la Comisión Permanente de Vigilancia, indistintamente, con la aprobación del pleno del Congreso o, en su caso, de la Diputación Permanente, auditorías a los ayuntamientos, o designarle interventores.
+III. Practicar, por instrucciones del Secretario General, previo acuerdo del Presidente de la Mesa Directiva, Presidente de la Junta de Coordinación Política o de la Comisión Permanente de Vigilancia, indistintamente, con la aprobación del pleno del Congreso o, en su caso, de la Diputación Permanente, auditorias a los ayuntamientos, o designarle interventores.
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2005)</small>
 
@@ -1349,9 +1349,21 @@ XV. Resolver el recurso de revocación que interpongan los servidores públicos 
 
 XVI. Las demás que expresamente le confieran los ordenamientos legales, las disposiciones reglamentarias, y las que determine el Pleno.
 
-El titular de la Contraloría Interna será designado conforme al procedimiento que para tal efecto establezca el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, previa convocatoria pública que éste emita.
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
 
-A la Contraloría Interna estarán adscritos los Departamentos de Organización y Métodos, y de Responsabilidades Administrativas de Servidores Públicos, tendrán las funciones que derivan dentro del ámbito de su competencia y les encomiende su titular.
+El titular de la Contraloría Interna, el cual tendrá un nivel jerárquico equivalente, como mínimo, al de Director, será designado conforme al procedimiento que para tal efecto establezca el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, previa convocatoria pública que éste emita.
+
+Para su funcionamiento, la Contraloría Interna contará con las siguientes áreas:
+
+a) Subcontraloría de Quejas, Denuncias e Investigación;
+
+b) Subcontraloría de Responsabilidades Administrativas y Substanciación; y
+
+c) Subcontraloría de Normatividad, Auditoría y Control.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+
+Las Subcontralorías estarán bajo la responsabilidad del Contralor Interno y contarán con el personal que resulte necesario para el desarrollo de sus funciones; los servidores públicos de las mismas serán designados y removidos libremente por el Contralor Interno, con base en los requerimientos del servicio y a los criterios que aquél determine dentro del margen de la unidad presupuestal anual solicitada y asignada. Asimismo, el reglamento respectivo establecerá las atribuciones que correspondan a cada Subcontraloría.
 
 > <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
@@ -1779,8 +1791,18 @@ Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 28 DE AGOSTO DE 2018.
 
-[N DE E. TRANSITORIOS DEL "DECRETO NÚMERO 705 QUE REFORMA EL INCISO E) Y ADICIONA UN PÁRRAFO AL INCISO D) DE LA FRACCIÓN XVI DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO".]
+[N DE E. TRANSITORIOS DEL “DECRETO NÚMERO 705 QUE REFORMA EL INCISO E) Y ADICIONA UN PÁRRAFO AL INCISO D) DE LA FRACCIÓN XVI DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO”.]
 
 PRIMERO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN LA GACETA OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO.
 
 SEGUNDO. SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+G.O. 9 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 767 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, A LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, A LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO, Y AL CÓDIGO ELECTORAL, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales siguientes al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
