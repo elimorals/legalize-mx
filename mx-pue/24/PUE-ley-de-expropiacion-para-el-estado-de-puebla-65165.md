@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-expropiacion-para-el-estado-de-puebla-65165"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-03"
-last_updated: "2014-03-19"
+last_updated: "2018-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EXPROPIACIÓN PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de diciembre de 2008.
 
@@ -33,7 +33,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57, 63 fracciones I y II, 64, 67 y 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XV, 69 fracciones I y II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22 Y 24 fracciones I y XV del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente:
 
@@ -89,7 +91,7 @@ XVI.- La fundación, conservación, mejoramiento y crecimiento de los centros de
 
 XVII.- La creación de reservas territoriales que satisfagan las necesidades del suelo urbano para la fundación, conservación y crecimiento de los centros de población, así como para la vivienda, su infraestructura y su equipamiento, tal y como se dispone en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla;
 
-XVIII.- La ordenación de los asentamientos humanos irregulares de los Municipios en la Entidad al desarrollo urbano, en términos de lo establecido en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla; y (sic)
+XVIII.- La ordenación de los asentamientos humanos irregulares de los Municipios en la Entidad al desarrollo urbano, en términos de lo establecido en la Ley de Desarrollo Urbano Sustentable del Estado de Puebla; y
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -145,15 +147,9 @@ VII.- Transcurrido el plazo sin que se haya emitido el decreto respectivo, la de
 
 Lo dispuesto en este artículo será aplicable en lo conducente en los casos en los que se decrete la ocupación temporal o la limitación de dominio.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
-
 ###### Artículo 5 Bis.
 
-En los casos previstos en las fracciones I, II, VI, XII y XIV del artículo 2 de esta Ley, la Autoridad Expropiante podrá emitir la declaratoria de utilidad pública y decretar la expropiación. En estos casos, no será aplicable lo dispuesto en las fracciones III a VII del artículo 5 de esta Ley.
-
-Contra la resolución que conforme a este artículo se emita, es admisible el recurso administrativo de revocación.
-
-Decretada la expropiación se tomará posesión provisional de los bienes afectados, destinándolos desde luego a la satisfacción de las necesidades públicas que la hubieren motivado; sin perjuicio de que, resuelto el recurso administrativo, si fuere procedente, se reponga al propietario afectado en los bienes expropiados, si fuere posible, excepto el uso que de ellos se hubiere hecho, por el cual se compensará en forma equitativa y prudente, así como también cuando se hubieren consumido las cosas expropiadas o transformado de modo que no sea posible restituirlas a su antiguo estado, se otorgará una compensación equitativa.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -528,3 +524,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- La substanciación de los expedientes de expropiación que se encuentren pendientes se sujetará a las disposiciones de este Decreto, en el estado en que se encontraren cuando comience su vigencia; pero si los términos que se señalen para algún acto procesal fueren menores que los señalados por las disposiciones reformadas, se observarán éstas, si esos términos estuvieren ya corriendo.
+
+P.O. 9 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA EL ARTÍCULO 5 BIS DE LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
