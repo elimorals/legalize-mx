@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-sistema-para-el-desarrollo-integral-877
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-25"
-last_updated: "2017-03-13"
+last_updated: "2018-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 9 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 25 de abril de 2012.
 
@@ -628,3 +630,15 @@ PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
+
+G.G. 9 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, el 25 de abril de 2012.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
