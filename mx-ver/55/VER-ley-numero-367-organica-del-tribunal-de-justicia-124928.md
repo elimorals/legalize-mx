@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-367-organica-del-tribunal-de-justicia-124928"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-19"
-last_updated: "2017-12-19"
+last_updated: "2018-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 367 ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE VERACRUZ -- ANTES LEY NUMERO 367 ORGANICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE --
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
 LEY NÚMERO 367 ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE OCTUBRE DE 2018.
 
 Ley publicada en el Extraordinario al Número 504 de la Gaceta Oficial de Veracruz de Ignacio de la Llave, el martes 19 de diciembre de 2017.
 
@@ -871,9 +869,25 @@ Para la integración del registro y permanencia en el mismo, así como para cont
 
 ### CAPÍTULO VI. Del Órgano Interno de Control
 
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 44.
 
-El Tribunal contará con un Órgano Interno de Control que ejercerá sus funciones en coordinación con el Órgano de Fiscalización Superior del Estado; su titular será nombrado por el Congreso del Estado de Veracruz de Ignacio de la Llave, con la aprobación de las dos terceras partes de sus miembros presentes, ejercerá las facultades a que se refiere el artículo 79 de la Constitución del Estado, la Ley General y la Ley Estatal de Responsabilidades, y durará en su encargo cinco años sin poder ser reelecto.
+El Tribunal contará con un Órgano Interno de Control que ejercerá sus funciones en coordinación con el Órgano de Fiscalización Superior del Estado, con autonomía técnica y de gestión; su titular será nombrado por el Congreso del Estado de Veracruz de Ignacio de la Llave, con la aprobación de las dos terceras partes de sus miembros presentes, ejercerá las facultades a que se refiere el artículo 79 de la Constitución Política del Estado, la Ley General y la Ley Estatal de Responsabilidades Administrativas, tendrá un nivel jerárquico equivalente, como mínimo, al de Director General, y durará en su encargo cinco años sin poder ser reelecto.
+
+> <small>(ADICIONADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 44 Bis.
+
+Para su funcionamiento, el Órgano Interno de Control contará con las siguientes áreas:
+
+I. Subdirección de Quejas, Denuncias e Investigación;
+
+II. Subdirección de Responsabilidades Administrativas y Substanciación; y
+
+III. Subdirección de Normatividad, Auditoría y Control.
+
+Las Subdirecciones estarán bajo la responsabilidad del titular del Órgano Interno de Control y contarán con el personal que resulte necesario para el desarrollo de sus funciones; los servidores públicos de las mismas serán designados y removidos libremente por el titular del Órgano Interno de Control, con base en los requerimientos del servicio y a los criterios que aquél determine dentro del margen de la unidad presupuestal anual solicitada y asignada. Asimismo, el reglamento respectivo establecerá las atribuciones que correspondan a cada subdirección.
 
 ###### Artículo 45.
 
@@ -1050,3 +1064,15 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 767 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, A LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, A LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO, Y AL CÓDIGO ELECTORAL, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales siguientes al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
