@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-biodiesel-chiapas-82772"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-27"
-last_updated: "2015-08-12"
+last_updated: "2018-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE BIODIESEL CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ENERGÍAS RENOVABLES DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO; REPUBLICADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE DESARROLLO DE ENERGÍAS DEL ESTADO DE CHIAPAS, EN EL P.O. DE 10 DE OCTUBRE DE 2018.]</small>
+
 REGLAMENTO INTERIOR DE BIODIESEL CHIAPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ENERGÍAS RENOVABLES DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2015 (ABROGADO).
+
+(REPUBLICADA SU ABROGACIÓN, P.O. 10 DE OCTUBRE DE 2018)
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 27 de julio de 2011.
 
@@ -33,7 +35,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Los Ciudadanos Integrantes de la Junta de Gobierno del Organismo Público Descentralizado, denominado Biodiesel Chiapas, en ejercicio de las facultades que nos confieren los artículos 24, de la Ley de Entidades Paraestatales del Estado de Chiapas y 14, fracción VI, del Decreto por el que se crea Biodiesel Chiapas; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por los fundamentos y consideraciones antes expuestos, los Ciudadanos Integrantes de la Junta de Gobierno, tienen a bien expedir el siguiente:
 
@@ -219,7 +223,7 @@ XVII. Designar al personal que requiere para el despacho de los asuntos, compete
 
 XVIII. Designar a los representantes del Organismo, en las comisiones, congresos, consejos, órganos de gobierno, instituciones, reuniones, juntas y organizaciones nacionales e internacionales en las que ésta participe, previa aprobación de la Junta de Gobierno.
 
-XIX. Presentar a la Junta de Gobierno, las iniciativas de leyes, decretos, acuerdos, reglamentos y demás disposiciones jurídicas, en materia desarrollo (sic) industrial y comercial de los insumos biocombustibles y aquellos otros obtenidos del uso, aplicación y transformación, así como los actos jurídicos para la traslación de dominio aceptación y remisión de obligaciones patrimoniales, entre otros, competencia del Organismo.
+XIX. Presentar a la Junta de Gobierno, las iniciativas de leyes, decretos, acuerdos, reglamentos y demás disposiciones jurídicas, en materia (sic) desarrollo industrial y comercial de los insumos biocombustibles y aquellos otros obtenidos del uso, aplicación y transformación, así como los actos jurídicos para la traslación de dominio aceptación y remisión de obligaciones patrimoniales, entre otros, competencia del Organismo.
 
 XX. Refrendar los Reglamentos, Decretos, Acuerdos y órdenes que se refieran a asuntos competencia del Organismo.
 
@@ -542,3 +546,23 @@ Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el D
 Artículo Séptimo.- El Instituto deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del programa que establezca la Unidad de Protección Civil.
 
 Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
+
+P.O. 10 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2975-A-2018 REGLAMENTO INTERIOR DEL INSTITUTO DE DESARROLLO DE ENERGÍAS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga el Reglamento Interior de Biodiesel Chiapas, publicado en el Periódico Oficial número 317, Tomo III, a través de la Publicación 3005-A-2011, de fecha 27 de julio de 2011.
+
+Artículo Tercero. En los casos en que se presente controversia respecto de la aplicación de este Reglamento Interior, el Director General resolverá lo conducente.
+
+Artículo Cuarto. Para las cuestiones no previstas en el presente Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Director General resolverá lo conducente, previa aprobación de la Junta de Gobierno.
+
+Artículo Quinto. El Manual de Organización del Instituto deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Sexto. En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo. El Instituto deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del programa que establezca la Unidad de Protección Civil.
+
+Artículo Octavo. En cumplimiento a lo dispuesto por el artículo 24 de la Ley de Entidades Paraestatales del Estado de Chiapas, en correlación al artículo 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas; 13 fracción V de la Ley Estatal de (sic) Periódico Oficial, remítase el presente Reglamento Interior al Titular del Ejecutivo Estatal para su publicación en (sic) Periódico Oficial.
