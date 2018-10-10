@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-69095"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2018-10-03"
+last_updated: "2018-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -111,13 +111,11 @@ El gasto en las adquisiciones, los arrendamientos y la contratación de servicio
 
 Sólo en casos excepcionales, debidamente justificados, previa autorización del comité respectivo, las Oficialías Mayores podrán realizar adquisiciones de bienes o servicios, sin contar con saldo disponible en su Presupuesto de Egresos, solicitando de manera posterior al área respectiva transferencia de recursos o la ampliación de la partida correspondiente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 5 Bis.
 
-Para la aplicación de la presente Ley, a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, le corresponde, en el ámbito de su competencia, exclusivamente otorgar la suficiencia presupuestal en términos de las disposiciones aplicables.
+Para la aplicación de la presente Ley, a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro o a la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, le corresponde, en el ámbito de su competencia, exclusivamente otorgar la suficiencia presupuestal en términos de las disposiciones aplicables.
 
 ###### Artículo 6.
 
@@ -563,11 +561,9 @@ III. Tres Vocales.
 
 Todos los miembros de los comités tendrán derecho a voz y voto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-En el caso de que la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, participe como integrante de los citados comités, su responsabilidad consistirá exclusivamente en verificar que se cuente con suficiencia presupuestal correspondiente, en términos de lo dispuesto por el artículo 5 Bis de la presente Ley.
+En el caso de que la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, participe como integrante de los citados comités, su responsabilidad consistirá exclusivamente en verificar que se cuente con suficiencia presupuestal correspondiente, en términos de lo dispuesto por el artículo 5 Bis de la presente Ley.
 
 Los miembros de los Comités, en caso de no ser servidores públicos, deberán garantizar su actuación a través del otorgamiento de fianzas de fidelidad.
 
@@ -1009,7 +1005,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE ENERO DE 2014.
 
@@ -1384,3 +1380,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del uno de enero de dos mil diecinueve.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+P.O. 10 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
