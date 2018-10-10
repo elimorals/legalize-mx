@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-gestion-integral-de-residuos-del-estado-y-los-44842
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2018-09-21"
+last_updated: "2018-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY PARA LA GESTION INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE OCTUBRE DE 2018.]</small>
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el 10 de mayo de 2005.
 
@@ -981,7 +981,9 @@ Artículo Tercero. Aquellos procedimientos iniciados bajo la vigencia de las dis
 
 Artículo Cuarto. En tanto se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial, las dependencias y entidades paraestatales que a la fecha desempeñan las atribuciones en las materias objeto de la presente reforma, continuarán ejerciendo las atribuciones en sus materias, hasta el acto formal de entrega recepción.
 
-Artículo Quinto. El Instituto Estatal de Ecología y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
+> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 2018)</small>
+
+Artículo Quinto. El Instituto de Ecología del Estado y la Comisión de Vivienda del Estado de Guanajuato, transferirán a la Secretaría de Medio Ambiente y Ordenamiento Territorial, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones, a través de la entrega-recepción respectiva.
 
 El personal de las entidades paraestatales referidas en el párrafo que antecede, conforme a su situación laboral pasarán a integrar la nueva Secretaría de Medio Ambiente y Ordenamiento Territorial, sin menoscabo de los derechos adquiridos de los trabajadores.
 
@@ -989,11 +991,15 @@ Por lo que hace a las secretarías de Desarrollo Agroalimentario y Rural y de De
 
 Artículo Sexto. La Secretaría de Medio Ambiente y Ordenamiento Territorial sustituye en todas sus obligaciones y asume los compromisos adquiridos por las entidades paraestatales y secretarías de Desarrollo Agroalimentario y Rural y de Desarrollo Social y Humano que les transfieran los asuntos en términos del artículo quinto transitorio del presente Decreto.
 
-Para todos los efectos legales correspondientes, las referencias al Instituto Estatal de Ecología, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
+> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 2018)</small>
+
+Para todos los efectos legales correspondientes, las referencias al Instituto de Ecología del Estado, Comisión de Vivienda de Guanajuato, e Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, contenidas en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de Medio Ambiente y Ordenamiento Territorial a que alude el presente Decreto acorde a éste y a las reformas a los demás ordenamientos.
 
 Artículo Séptimo. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
 
-Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto Estatal de Ecología y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
+> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 2018)</small>
+
+Artículo Octavo. Las Secretarías de Finanzas, inversión y Administración, y de la Transparencia y Rendición de Cuentas realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de extinción del Instituto de Ecología del Estado y de la Comisión de Vivienda del Estado de Guanajuato. Dicho dictamen deberá señalar el personal y en su caso, los recursos materiales y financieros que integran el patrimonio del organismo que se extingue.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como las adecuaciones normativas y administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de un año, contado a partir de la entrada en vigor del presente Decreto.
 
