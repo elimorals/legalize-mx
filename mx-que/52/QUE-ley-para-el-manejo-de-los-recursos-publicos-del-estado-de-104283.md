@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2018-10-03"
+last_updated: "2018-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -71,9 +71,9 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Asociaciones Público Privadas: las así previstas por la Ley de Asociaciones Público Privadas para el Estado de Querétaro, y por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2018)</small>
 
-I Bis. Aportaciones federales: Los fondos públicos a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, que la Federación transfiere al Estado, y, en su caso, por conducto de éste a otros Sujetos de la Ley. Dichos fondos se administrarán y ejercerán de conformidad con lo establecido en la presente Ley, en los Lineamientos que al efecto establezca la Secretaría, así como en las demás disposiciones locales aplicables, según el destino para el cual son transferidos;
+I. Bis. Aportaciones federales: Los fondos públicos a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, que la Federación transfiere al Estado, y, en su caso, por conducto de éste a otros Sujetos de la Ley. Dichos fondos se administrarán y ejercerán de conformidad con lo establecido en la presente Ley, en los Lineamientos que al efecto establezca la Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, así como en las demás disposiciones locales aplicables, según el destino para el cual son transferidos;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
@@ -757,9 +757,9 @@ Los titulares de las dependencias, conforme a lo dispuesto en esta Ley, la Ley d
 
 Para efectos del párrafo anterior, se entenderá por titulares de las dependencias, la persona o personas que en términos de las disposiciones legales respectivas, cuenten con facultades de decisión sobre el ejercicio presupuestal, así como de ejecución de los programas de los mencionados sujetos.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
 
-Los ejecutores de gasto son responsables directos e inmediatos del cumplimiento de las bases establecidas en el presente numeral y demás disposiciones jurídicas relacionadas con los fondos públicos federales, estatales y/o municipales, así como de la información a la que tengan acceso. De igual manera, los ejecutores de gasto, al tener a su cargo fondos públicos, tienen la responsabilidad de realizar las acciones que correspondan con la finalidad de acreditar y demostrar el origen, destino, aplicación, erogación, registro, documentación comprobatoria, integración de libros blancos y rendición de cuentas, conforme a las disposiciones federales, la normatividad específica de acuerdo al tipo de fondos públicos de que se trate, así como con los Lineamientos, autorizaciones o instrucciones que al efecto emita la Secretaría. Respecto de la información reservada están obligados a guardar estricta confidencialidad sobre la misma.
+Los ejecutores de gasto son responsables directos e inmediatos del cumplimiento de las bases establecidas en el presente numeral y demás disposiciones jurídicas relacionadas con los fondos públicos federales, estatales y/o municipales, así como de la información a la que tengan acceso. De igual manera, los ejecutores de gasto, al tener a su cargo fondos públicos, tienen la responsabilidad de realizar las acciones que correspondan con la finalidad de acreditar y demostrar el origen, destino, aplicación, erogación, registro, documentación comprobatoria, integración de libros blancos y rendición de cuentas, conforme a las disposiciones federales, la normatividad específica de acuerdo al tipo de fondos públicos de que se trate, así como con los Lineamientos, autorizaciones o instrucciones que al efecto emitan la Secretaría o la dependencia encargada de las finanzas públicas municipales que corresponda, conforme al artículo 4 de esta Ley. Respecto de la información reservada están obligados a guardar estricta confidencialidad sobre la misma.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
@@ -777,25 +777,17 @@ El contrato de fideicomiso que se constituya conforme al párrafo anterior, debe
 
 III. El incumplimiento a lo establecido en las fracciones anteriores por parte de los titulares de las dependencias y ejecutores de gasto, será sancionado en términos de lo que señalen las disposiciones jurídicas aplicables en materia de responsabilidades administrativas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 55.
 
-La administración financiera de los recursos previstos en el Presupuesto de Egresos del Estado corresponde a la Secretaría, entendiéndose por lo anterior, la distribución o transferencia de recursos a los Sujetos de la Ley, así como dar cumplimiento a las autorizaciones de pago que realicen los ejecutores de gasto a que se refiere el artículo anterior, de conformidad con lo establecido en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables.
+La administración financiera de los recursos previstos en el Presupuesto de Egresos del Estado corresponde a la Secretaría, y en el caso de recursos previstos en el Presupuesto de Egresos del Municipio de que se trate corresponde a la dependencia encargada de las finanzas públicas del mismo, entendiéndose por lo anterior, la distribución o transferencia de recursos a los Sujetos de la Ley, así como dar cumplimiento a las autorizaciones de pago que realicen los ejecutores de gasto a que se refiere el artículo anterior, de conformidad con lo establecido en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+Los titulares de las dependencias y los ejecutores de gasto a que se refiere el artículo anterior, generarán la correspondiente autorización de pago, conforme a la normatividad aplicable y bajo su más estricta responsabilidad, a efecto de que la Secretaría, o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, pueda dar cumplimiento a la misma en los términos de este artículo y demás disposiciones relativas.
 
-Los titulares de las dependencias y los ejecutores de gasto a que se refiere el artículo anterior, generarán la correspondiente autorización de pago, conforme a la normatividad aplicable y bajo su más estricta responsabilidad, a efecto de que la Secretaría pueda dar cumplimiento a la misma en los términos de este artículo y demás disposiciones relativas.
+Tratándose del cumplimiento a las autorizaciones de pago a que se refiere el primer párrafo de este artículo, la Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, podrá utilizar como fuente de financiamiento, indistinta o conjuntamente, las que hace mención el artículo 7 Bis de esta Ley.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
-
-Tratándose del cumplimiento a las autorizaciones de pago a que se refiere el primer párrafo de este artículo, la Secretaría podrá utilizar como fuente de financiamiento, indistinta o conjuntamente, las que hace mención el artículo 7 Bis de esta Ley.
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
-
-Tratándose de Ingresos de libre disposición y de Disponibilidades, la Secretaría podrá destinarlos, indistintamente, para cubrir las necesidades de gasto en materia de Fortalecimiento financiero, Gasto administrativo y Gasto corriente, a que se hace referencia en el artículo 2 de la presente Ley.
-
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+Tratándose de Ingresos de libre disposición y de Disponibilidades, la Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, podrá destinarlos, indistintamente, para cubrir las necesidades de gasto en materia de Fortalecimiento financiero, Gasto administrativo y Gasto corriente, a que se hace referencia en el artículo 2 de la presente Ley.
 
 Los recursos correspondientes a los municipios se entregarán conforme a los plazos y en los términos que establezcan las disposiciones aplicables.
 
@@ -857,7 +849,9 @@ IV. Coadyuvar con la fiscalización de las cuentas públicas, conforme a lo esta
 
 V. Informar, en los plazos, términos y sistemas que establezcan las disposiciones federales aplicables, sobre el ejercicio y destino de los fondos públicos federales que reciban, así como sobre el avance físico de las obras y acciones respectivas y, en su caso, la diferencia entre el monto de los fondos públicos transferidos y aquéllos erogados, así como los resultados de las evaluaciones que se hayan realizado.
 
-La administración financiera de los fondos públicos a que se refiere el presente artículo corresponde a la Secretaría, entendiéndose por lo anterior, la distribución o transferencia de dichos fondos a los sujetos de la Ley, quienes, al estar a cargo de dichos fondos, tienen la responsabilidad de realizar las acciones que correspondan con la finalidad de acreditar y demostrar el origen, destino, aplicación, erogación, registro, documentación comprobatoria, integración de libros blancos y rendición de cuentas, conforme a las disposiciones federales, la normatividad específica de acuerdo al tipo de fondos públicos de que se trate, así como con los Lineamientos, autorizaciones o instrucciones que al efecto emita la Secretaría.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
+
+La administración financiera de los fondos públicos a que se refiere el presente artículo corresponde a la Secretaría o a la dependencia encargada de las finanzas públicas del Municipio, entendiéndose por lo anterior, la distribución o transferencia de dichos fondos a los sujetos de la Ley, quienes, al estar a cargo de dichos fondos, tienen la responsabilidad de realizar las acciones que correspondan con la finalidad de acreditar y demostrar el origen, destino, aplicación, erogación, registro, documentación comprobatoria, integración de libros blancos y rendición de cuentas, conforme a las disposiciones federales, la normatividad específica de acuerdo al tipo de fondos públicos de que se trate, así como con los Lineamientos, autorizaciones o instrucciones que al efecto emita la Secretaría o la dependencia encargada de las finanzas públicas del Municipio, cuando los ejecutores de gasto sean dependencias o entidades del Municipio.
 
 ###### Artículo 63.
 
@@ -909,6 +903,10 @@ Cuando dichas modificaciones conlleven una adecuación presupuestal, deberán ob
 
 Sin perjuicio de lo establecido en el artículo 9 de esta Ley, el titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, podrá asignar los recursos que se obtengan en exceso de lo previsto en la Ley de Ingresos del Estado, a los programas que considere necesario y autorizará las transferencias de partidas cuando sea procedente, en términos de lo dispuesto en la presente Ley, así como en lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2018)</small>
+
+Tratándose de los municipios, el Ayuntamiento, a través del encargado de las finanzas públicas municipales, podrá asignar los recursos que se obtengan en exceso de lo previsto en la Ley de Ingresos del Municipio de que se trate, a los programas que considere necesario y autorizará las transferencias de partidas cuando sea procedente, en términos de lo dispuesto en la presente Ley, así como en lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
 ###### Artículo 72.
 
 Los sujetos de la Ley, deberán informar a la Entidad Superior de Fiscalización del Estado, de las adecuaciones y transferencias presupuestales que realicen, al momento de rendir sus respectivas cuentas públicas.
@@ -933,9 +931,9 @@ Los sujetos de la Ley, sólo podrán otorgar donaciones que contribuyan a la con
 
 No se otorgarán a favor de beneficiarios que dependan económicamente del presupuesto o cuyos principales ingresos provengan del mismo.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
 
-Los subsidios y donaciones deberán ser autorizadas por el Gobernador del Estado o por los funcionarios públicos que éste designe. Las ayudas sociales serán autorizadas por los titulares de las dependencias o los ejecutores de gasto a que se refiere el artículo 54 de esta Ley, de conformidad con los programas institucionales a su cargo, así como con las demás disposiciones que, en su caso, resulten aplicables.
+Los subsidios y donaciones deberán ser autorizadas por el Gobernador del Estado o por los funcionarios públicos que éste designe. En el caso de los municipios, los subsidios y donaciones deberán ser autorizados por el Ayuntamiento, a través de las personas que éste designe. Las ayudas sociales serán autorizadas por los titulares de las dependencias o los ejecutores de gasto a que se refiere el artículo 54 de esta Ley, de conformidad con los programas institucionales a su cargo, así como con las demás disposiciones que, en su caso, resulten aplicables.
 
 Las donaciones que otorgue el Poder Legislativo, se sujetarán a las disposiciones que determine el Pleno de la Legislatura.
 
@@ -943,11 +941,11 @@ Las donaciones que otorgue el Poder Legislativo, se sujetarán a las disposicion
 
 Para efectos del registro presupuestal de los subsidios, donaciones y ayudas sociales, deberán atenderse las disposiciones de la Ley General de Contabilidad Gubernamental.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 76.
 
-La Secretaría no podrá liberar el otorgamiento de subsidios y donaciones, sin la autorización expresa a que se refiere el artículo anterior.
+La Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, no podrá liberar el otorgamiento de subsidios y donaciones, sin la autorización expresa a que se refiere el artículo anterior.
 
 Para el otorgamiento de subsidios o donativos, los funcionarios públicos a que se refiere el artículo anterior, deberán sujetarse a los criterios de objetividad, equidad, selectividad, transparencia y temporalidad, según corresponda, con base en las siguientes disposiciones:
 
@@ -1848,3 +1846,11 @@ P.O. 3 DE OCTUBRE DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", con excepción de sus disposiciones en materia de comunicación social, cuyo inicio de vigencia se sujetará a lo dispuesto en los Artículos Transitorios del Decreto por el que se expide la Ley General de Comunicación Social.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
+
+P.O. 10 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
