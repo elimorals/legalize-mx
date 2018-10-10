@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2018-06-29"
+last_updated: "2018-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -991,63 +991,63 @@ XI. Las demás que le encomienden las leyes, reglamentos y manuales de organizac
 
 ### CAPÍTULO TERCERO. DE LA DEPENDENCIA ENCARGADA DE LAS FINANZAS PÚBLICAS
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 48.
 
-La dependencia encargada de las finanzas públicas, tendrá a su cargo la recaudación de los ingresos municipales así como su erogación, de conformidad con los planes y programas aprobados. Esta dependencia, contará con las oficinas que requiera el cumplimiento de sus funciones, y con un titular que no podrá ser miembro del Ayuntamiento.
+La dependencia encargada de las finanzas públicas, tendrá a su cargo la administración financiera y tributaria de la hacienda pública del Municipio y le corresponde el despacho de los siguientes asuntos:
 
-Para el desempeño de sus responsabilidades tendrá como facultades y obligaciones las siguientes:
+I. Elaborar y proponer al Presidente Municipal los proyectos de iniciativa de ley, reglamentos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos financieros y tributarios del municipio, a efecto de darles el trámite que corresponda para su aprobación;
 
-I. Elaborar y proponer al Presidente Municipal los proyectos de iniciativa de ley, reglamentos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos financieros y tributarios del municipio, a efecto de su aprobación por el ayuntamiento y, en su caso, por la Legislatura;
-
-II. Recaudar los impuestos, derechos, productos, aprovechamientos y contribuciones que correspondan al municipio;
+II. Recaudar las contribuciones, productos y aprovechamientos que correspondan al Municipio;
 
 III. Ejercer las atribuciones en materia tributaria derivadas de los convenios celebrados con el Gobierno del Estado y con otros municipios;
 
-IV. Cuidar la puntualidad de los ingresos, exactitud de las liquidaciones, prontitud en el despacho de los asuntos de su competencia y del buen orden y debida comprobación de las cuentas de ingresos y egresos;
+IV. Ordenar y llevar a cabo los actos y procedimientos que correspondan, de conformidad con las disposiciones fiscales y los convenios de colaboración administrativa, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones federales coordinadas y municipales;
 
-V. Tener al día los libros o registros electrónicos que consignen la información referente a caja, diario, cuentas corrientes, auxiliares y de registro necesarios para la debida comprobación de los ingresos y egresos;
+V. Formular los estados financieros en términos de las disposiciones jurídicas aplicables;
 
-VI. Realizar, en los términos de este ordenamiento, las acciones y trabajos previos a la elaboración de proyectos de iniciativa de Ley de Ingresos y Presupuesto de Egresos, para someterlos a la consideración del ayuntamiento;
+VI. Proponer al Presidente Municipal el proyecto de Ley de Ingresos y Presupuesto de Egresos del Municipio, para darles el trámite que corresponda para su aprobación;
 
-VII. Cuidar que el monto de las multas impuestas por las autoridades municipales ingresen a la hacienda municipal;
+VII. Ejercer la facultad económico-coactiva, conforme a las leyes aplicables;
 
-VIII. Glosar oportunamente las cuentas del ayuntamiento;
+VIII. Administrar el padrón de contribuyentes previsto en las leyes fiscales del Municipio;
 
-IX. Proponer al ayuntamiento las medidas o disposiciones tendientes a mejorar la hacienda municipal;
+IX. Custodiar los documentos que constituyan valores del Municipio, cuando su resguardo no corresponda a otra dependencia en términos de las disposiciones aplicables;
 
-X. Dar pronto y exacto cumplimiento a los acuerdos, órdenes y disposiciones del ayuntamiento, que le correspondan;
+X. Ejercer las facultades que en materia de deuda pública le confieran las disposiciones aplicables;
 
-XI. Elaborar mensualmente los estados financieros que el presidente debe presentar a la Legislatura del Estado;
+XI. Liberar los recursos y realizar los pagos correspondientes a las dependencias, órganos adscritos y desconcentrados del Municipio, conforme a los programas y con cargo a sus presupuestos aprobados.
 
-XII. Organizar el padrón municipal de contribuyentes;
+XII. Los titulares de las dependencias y los ejecutores de gasto a que se refiere el artículo 54 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, generarán la solicitud u orden de pago, conforme a la normatividad aplicable, bajo su más estricta responsabilidad, a efecto de que la dependencia encargada de las finanzas públicas del Municipio pueda realizar los pagos a que se refiere esta fracción;
 
-XIII. Realizar oportunamente y en unión con el síndico, la gestión de los asuntos de interés para el erario municipal;
+XIII. Realizar una labor permanente de difusión y orientación fiscal;
 
-XIV. Establecer y ejecutar las medidas de control y vigilancia administrativa, contable y financiera de los organismos descentralizados, fideicomisos públicos y empresas de participación municipal;
+XIV. Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la hacienda pública municipal;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+XV. Tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
-XV. Intervenir en las operaciones de crédito público municipal y en los actos y contratos de los que resulten derechos y obligaciones de carácter económico para el Municipio; este último, a través de la autorización de la suficiencia presupuestal que se otorgue a la Dependencia que realice el acto o contratación respectiva;
+XVI. Llevar la programación del gasto público, de acuerdo con los objetivos y necesidades de la gestión gubernamental;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+XVII. Proyectar, calcular y supervisar los egresos del Municipio;
 
-XVI. Realizar las modificaciones necesarias al Presupuesto de Egresos del ejercicio, del recurso financiero existente, resultado de ejercicios anteriores en la hacienda pública municipal, previa autorización expresa del Presidente Municipal, debiendo constar por escrito, informando al Ayuntamiento a través de la Cuenta Pública;
+XVIII. Llevar la contabilidad gubernamental del Municipio, así como elaborar y presentar la cuenta pública;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+XIX. Celebrar, con la autorización del Ayuntamiento, los convenios de carácter fiscal y hacendario necesarios para la atención de los asuntos de su competencia;
 
-XVII. Realizar las modificaciones necesarias al Presupuesto de Egresos, siempre y cuando no rebase el 10% de los puntos porcentuales del presupuesto autorizado entre el gasto administrativo y gasto social aprobado, informando al Ayuntamiento a través de la Cuenta Pública;
+XX. Ejercer las funciones relativas al catastro municipal, en los términos que sean convenidas con el Poder Ejecutivo del Estado;
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+XXI. Normar las acciones que en materia de informática se lleven a cabo en la administración pública municipal;
 
-XVIII. Realizar la afectación a la cuenta de resultados de ejercicios anteriores, informando al Ayuntamiento a través de la cuenta pública;
+XXII. Diseñar, implantar y operar, en coordinación con las dependencias y organismos, los sistemas computarizados que se requieran para su mejor funcionamiento;
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+XXIII. Prestar asesoría técnica en materia de tecnologías de la información, a las entidades públicas del Municipio que lo requieran, y dictaminar sobre la adquisición de equipos de informática y la contratación de servicios que se relacionen, con excepción de aquellos casos en los que la adquisición de equipos o contratación de servicios corresponda al rubro de seguridad pública;
 
-XIX. Garantizar al inicio de sus responsabilidades, el buen desempeño de su cargo mediante la fianza o la manera en que juzgue conveniente el Ayuntamiento; y
+XXIV. Nombrar a los titulares de las direcciones y unidades administrativas de la dependencia encargada de las finanzas municipales;
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+XXV. Expedir certificaciones de los documentos que obren en los archivos de las unidades administrativas y órganos desconcentrados de la misma, a través de sus titulares; y
 
-XX. Las demás señaladas por las leyes y reglamentos correspondientes.
+XXVI. Las demás señaladas por las leyes y reglamentos correspondientes.
 
 ### CAPÍTULO CUARTO. DE LA DEPENDENCIA ENCARGADA DE LA ADMINISTRACIÓN DE SERVICIOS INTERNOS, RECURSOS HUMANOS, MATERIALES Y TÉCNICOS DEL MUNICIPIO
 
@@ -2269,7 +2269,7 @@ Manteniéndose una compilación actualizada de los Reglamentos e instrumentos no
 
 ###### ARTICULO 147.
 
-Para la aprobación y expedición de los reglamentos, decretos, acuerdos y demás documentos que contengan disposiciones administrativas de observancia general, los Ayuntamientos deben sujetarse a las disposiciones del presente Título y a las siguientes Bases Generales:
+Para la aprobación y expedición de los reglamentos, decretos, acuerdos, y demás documentos que contengan disposiciones administrativas de observancia general, los Ayuntamientos deben sujetarse a las disposiciones del presente Título y a las siguientes Bases Generales:
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2889,10 +2889,18 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 P.O. 29 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA LA LEY QUE CREA EL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE QUERÉTARO, LA LEY DE RESPETO VECINAL PARA EL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA LA LEY QUE CREA EL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE QUERÉTARO, LA LEY DE RESPETO VECINAL PARA EL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Para los efectos de lo establecido en el artículo 14 de la Ley que crea el Centro de Evaluación y Control de Confianza del Estado de Querétaro, el plazo para el actual Director del Centro se computará desde el momento de su nombramiento.
+
+P.O. 10 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
