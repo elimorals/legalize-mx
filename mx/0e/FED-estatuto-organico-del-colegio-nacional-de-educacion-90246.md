@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-colegio-nacional-de-educacion-90246"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-11-26"
-last_updated: "2012-11-26"
+last_updated: "2018-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-03-29"
 ---
 # ESTATUTO ORGANICO DEL COLEGIO NACIONAL DE EDUCACION PROFESIONAL TECNICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA, PUBLICADO EN EL D.O.F. DE 10 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2018 (ABROGADO).
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 26 de noviembre de 2012.
 
@@ -1306,3 +1308,21 @@ Artículo Quinto
 Se instruye al Director General del Colegio Nacional de Educación Profesional Técnica, realizar los trámites necesarios para la publicación del Estatuto Orgánico en el Diario Oficial de la Federación de conformidad con lo dispuesto por el artículo 59, fracción XII de la Ley Federal de las Entidades Paraestatales.
 
 Aprobado mediante acuerdo número SO/I-11/09.09,R por la H. Junta Directiva del Colegio Nacional de Educación Profesional Técnica, en sesión celebrada en la Ciudad de México, Distrito Federal, el 29 de marzo de 2011.- El Director General (sic) Colegio Nacional de Educación Profesional Técnica, Wilfrido Perea Curiel.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En caso de duda sobre la interpretación del presente Estatuto Orgánico la Junta Directiva, escuchando la opinión del Director General resolverá lo conducente.
+
+TERCERO. Se abroga (sic) Estatuto Orgánico del Colegio Nacional de Educación Profesional Técnica publicado en el Diario Oficial de la Federación el 26 de noviembre de 2012, así como las disposiciones internas del CONALEP que se opongan al presente ordenamiento.
+
+CUARTO. Una vez suscritos los Convenios de Coordinación para la Federalización de los Servicios de Educación Profesional Técnica y Profesional Técnica Bachiller con el Gobierno de la Ciudad de México, y con el Gobierno del Estado de Oaxaca, se procederá a realizar la actualización y ajustes necesarios al presente Estatuto Orgánico.
+
+QUINTO. Se instruye al Colegio Nacional de Educación Profesional Técnica, realizar los trámites necesarios para la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación de conformidad con lo dispuesto por el artículo 59, fracción XII de la Ley Federal de las Entidades Paraestatales.
+
+SEXTO. El presente Estatuto Orgánico será inscrito en el Registro Público de Organismos Descentralizados de acuerdo a lo señalado en el artículo 25 de la Ley Federal de las Entidades Paraestatales.
