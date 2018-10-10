@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-41761"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-04"
-last_updated: "2009-07-06"
+last_updated: "2018-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE GENERAL BRAVO, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE GENERAL BRAVO, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO PARA EL MUNICIPIO DE GENERAL BRAVO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2009.
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE GENERAL BRAVO, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 4 de diciembre de 1998.
 
@@ -586,3 +588,17 @@ PRIMERO.- Estas modificaciones entrarán en vigor al día siguiente de su public
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
 
 TERCERO.- Envíese al C. Secretario General de Gobierno, para su debida publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P. O. 10 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE POLICÍA Y BUEN GOBIERNO PARA EL MUNICIPIO DE GENERAL BRAVO, N.L.”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Se abroga el Reglamento de Policía y Buen Gobierno de General Bravo, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León, el día 4 cuatro de diciembre de 1998.
+
+Tercero.- Se abroga el Reglamento Interior de la Cárcel Pública del Municipio de General Bravo, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León, el día 18 dieciocho de mayo de 2011.
+
+Cuarto.- La organización administrativa municipal que regula el presente reglamento deberá establecerse para su funcionamiento en un término no mayor a 10 diez días naturales contados a partir de su entrada en vigor.
+
+Quinto.- Quedan derogadas todas aquellas disposiciones municipales que contravengan las normas que se contienen en éste Reglamento de Policía y Buen Gobierno para el Municipio de General Bravo, Nuevo León.
