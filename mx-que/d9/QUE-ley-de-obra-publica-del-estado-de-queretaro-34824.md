@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2018-10-03"
+last_updated: "2018-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -147,9 +147,9 @@ La inversión en obra pública se sujetará a lo previsto en la normatividad que
 
 La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, a través de las dependencias competentes en las materias de planeación y finanzas, desarrollo urbano y obras públicas y contraloría, y a los municipios, en el ámbito de la competencia que les corresponda, sin perjuicio de la intervención que competa a otras dependencias estatales o municipales.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+REFORMADO, P.O. 10 DE OCTUBRE DE 2018)
 
-Para la aplicación de la presente Ley, a la Secretaría de Planeación y Finanzas del Poder Ejecutivo le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora. En el caso de entidades y municipios, la dependencia o unidad encargada de las finanzas públicas será la compete (sic) la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora.
+Para la aplicación de la presente Ley, a la Secretaría de Planeación y Finanzas del Poder Ejecutivo le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora. En el caso de entidades y municipios, a la dependencia o unidad encargada de las finanzas públicas le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -825,7 +825,7 @@ En los casos de licitaciones en segunda convocatoria, se seguirá el mismo proce
 
 ### CAPÍTULO VI. DE LA CONTRATACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 51.
 
@@ -909,7 +909,7 @@ IV.- No se otorgarán anticipos para el importe resultante de los ajustes de cos
 
 V.- Para los efectos de la amortización de los anticipos, en caso de rescisión del contrato, el saldo por amortizar deberá reintegrarse a la contratante en un plazo no mayor de quince días naturales, a partir de la fecha en que se haya notificado la rescisión al contratista; en caso de incumplimiento se procederá a la aplicación de las sanciones estipuladas en esta ley y la aplicación de las fianzas de anticipo y cumplimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 55.
 
@@ -1347,7 +1347,7 @@ Rúbrica.
 
 P.O. 10 DE DICIEMBRE DE 2007.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1529,11 +1529,11 @@ Se derogan todas las disposiciones de igual o menor jerarquía que contravengan 
 
 P.O. 19 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor el 1 de enero de 2018, considerando lo previsto en los párrafos subsecuentes.
 
-La reforma y adición al artículo 6 bis de la Ley de Deuda Pública del Estado de Querétaro, iniciará su vigencia a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+La reforma y adición al artículo 6 bis de la Ley de Deuda Pública del Estado de Querétaro, iniciará su vigencia a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Lo dispuesto en el artículo 150 de la Ley de Hacienda del Estado de Querétaro, estará en vigor hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción establezca la operación del Sistema nacional de Servidores públicos y particulares sancionados, previsto por el artículo 49, fracción III, de la Ley General del Sistema Nacional Anticorrupción.
 
@@ -1577,7 +1577,7 @@ XI. Las personas que resulten beneficiarias de los apoyos contenidos en el Progr
 
 XII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.50 UMA, por cada pago que se realice por dicho concepto, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
 
-XIII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.85 UMA, por cada pago que se realice por dicho concepto, se destinarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía, prioritariamente al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”;
+XIII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.85 UMA, por cada pago que se realice por dicho concepto, se destinarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía, prioritariamente al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga";
 
 XIV. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
 
@@ -1605,7 +1605,7 @@ XVII. Las obligaciones formales y sustantivas de los contribuyentes del Impuesto
 
 XVIII. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del (sic) Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
 
-Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 P.O. 3 DE OCTUBRE DE 2018.
 
@@ -1616,3 +1616,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del uno de enero de dos mil diecinueve.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+P.O. 10 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
