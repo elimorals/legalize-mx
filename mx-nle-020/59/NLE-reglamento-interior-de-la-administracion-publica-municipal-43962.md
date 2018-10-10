@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-administracion-publica-municipal-4396
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-21"
-last_updated: "2005-02-21"
+last_updated: "2018-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA MUNICIPAL DE GENERAL BRAVO, NUEVO LEON
 
-REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA MUNICIPAL DE GENERAL BRAVO, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE GENERAL BRAVO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE GENERAL BRAVO, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 21 de febrero de 2005.
 
@@ -265,7 +267,7 @@ XXIII.- Cuidar que los empleados que manejan fondos y valores del Municipio, cau
 
 XXIV.- Establecer medidas de control respecto a los egresos de los organismos, patronatos, juntas, comités, o consejos que manejen recursos municipales.
 
-XXV.- Intervenir en coordinación con el Síndico Municipal, en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, en representación del erario, cuando tenga interés la Hacienda Pública Municipal; y (sic)
+XXV.- Intervenir en coordinación con el Síndico Municipal, en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, en representación del erario, cuando tenga interés la Hacienda Pública Municipal; y
 
 XXVI.- Manejar las cuentas bancarias del Municipio, teniendo facultad en forma mancomunada con el Presidente Municipal para emitir los títulos de crédito necesarios para el ejercicio del gasto municipal, con apego a lo dispuesto en el presupuesto de egresos y en las demás leyes de la materia.
 
@@ -782,3 +784,17 @@ PRESIDENTE MUNICIPAL
 C. ADOLFO GARZA GONZÁLEZ
 
 SECRETARIO DEL H. AYTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 19 DE ABRIL DE 2018 POR EL QUE “SE APRUEBA EL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE GENERAL BRAVO, N.L”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- La organización administrativa municipal que regula el presente Reglamento de la Administración Pública Municipal de General Bravo, Nuevo León, deberá establecerse para su funcionamiento en un término no mayor a 45-cuarenta y cinco días naturales contados a partir de su entrada en vigor.
+
+Tercero.- Se abroga el Reglamento Interior de la Administración Pública Municipal de General Bravo, Nuevo León, publicado en (sic) Periódico Oficial de fecha 21 de febrero de 2005.
+
+Cuarto.- Quedan derogadas todas aquellas disposiciones municipales que contravengan las normas que se contienen en éste Reglamento de la Administración Pública Municipal de General Bravo, Nuevo León.
