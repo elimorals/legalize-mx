@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2018-08-02"
+last_updated: "2018-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -2257,7 +2257,7 @@ A la Coordinación General de Enlace Federal y Relaciones Internacionales, le co
 
 I. Cumplir con las directrices en materia de política federal y con las Entidades Federativas que determine el Titular del Poder Ejecutivo;
 
-II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
+II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como con los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
 
 III. Facilitar y promover la gestión de fondos federales e internacionales e inversiones en sectores estratégicos para el crecimiento económico sostenible del Estado;
 
@@ -3009,9 +3009,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto aun cuando no estén expresamente derogadas.
 
-TERCERO. Los servidores públicos de base de las áreas administrativas que con motivo del presente Decreto se transfieran a la Secretaría General de Gobierno, no se verán afectados sus derechos laborales.
+TERCERO. (DEROGADO, P.O. 10 DE OCTUBRE DE 2018)
 
-CUARTO. La Coordinación General de Delegaciones de Gobierno, pasará a formar parte de la Estructura administrativa de la Secretaría General de Gobierno, dentro de la Subsecretaría de Gobierno.
+CUARTO. (DEROGADO, P.O. 10 DE OCTUBRE DE 2018)
 
 QUINTO. El Gobernador del Estado a través de las Secretarías de Finanzas, de Administración y de la Contraloria y Transparencia Gubernamental, en el ámbito de sus respectivas atribuciones realizarán las acciones necesarias para el cumplimiento del presente Decreto.
 
@@ -3032,3 +3032,9 @@ QUINTO. Los asuntos en trámite que venía desarrollando la Secretaría de Viali
 SEXTO. Los servidores públicos adscritos a la Secretaría de Vialidad y Transporte, que con motivo de este Decreto cambia de denominación, pasarán, sin afectar sus derechos laborales y de prestaciones sociales, a formar parte de la Secretaría de Movilidad.
 
 SÉPTIMO. El Gobernador del Estado a través de las Secretarías de Finanzas, Administración y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas atribuciones realizarán las acciones necesarias para el cumplimiento del presente Decreto.
+
+P.O. 10 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1587.- MEDIANTE EL CUAL SE DEROGAN LOS ARTÍCULOS TRANSITORIOS TERCERO Y CUARTO DEL DECRETO 1396, PUBLICADO EL 17 DE FEBRERO DE 2018, POR EL QUE SE REFORMÓ, ADICIONÓ Y DEROGARON DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
