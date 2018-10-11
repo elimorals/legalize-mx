@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-25781
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-27"
-last_updated: "2017-09-21"
+last_updated: "2018-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002
 
@@ -137,11 +137,11 @@ Las disposiciones del presente Título regulan el trámite, sustanciación y res
 
 ### Capítulo Segundo. Competencia
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 8.
 
-La competencia para conocer y resolver el recurso de revisión, corresponde al Consejo General, y en su caso, al Pleno. Asimismo, el Tribunal es competente para conocer y resolver con plena jurisdicción el recurso de apelación, los juicios de nulidad y para la protección de los derechos político electorales del ciudadano quintanarroense y el procedimiento especial sancionador previstos en el artículo 6 de este ordenamiento.
+La competencia para conocer y resolver el recurso de revisión, corresponde al Consejo General, y en su caso, al Pleno. Asimismo, el Tribunal es competente para conocer y resolver con plena jurisdicción el recurso de apelación, los juicios de nulidad y para la protección de los derechos político electorales del ciudadano quintanarroense.
 
 ### Capítulo Tercero
 
@@ -1089,31 +1089,21 @@ En las sentencias que se dicten en los juicios de nulidad, el Tribunal podrá es
 
 Cuando al resolver los juicios de nulidad de una o varias casillas, el Tribunal advierta que se actualizan los supuestos de nulidad de elección previstos en esta Ley, procederá a declarar ésta aún cuando no le haya sido demandada.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 93.
 
 Los juicios de nulidad deberán ser resueltos a más tardar:
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+I. El 20 de julio del año de la elección, en caso de que se impugnen los cómputos distritales de la elección de Gobernador; y el 30 de julio, cuando se impugne el cómputo estatal de esa elección;
 
-I. El 30 de junio del año de la elección, en caso de que se impugnen los cómputos distritales de la elección de Gobernador; y el 10 de julio, cuando se impugne el cómputo estatal de esa elección;
+II. El 15 de julio del año de la elección, en caso de que se impugne la de Diputados de mayoría relativa;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+III. El 25 de julio del año de la elección, en caso de que se impugne la de Miembros de los Ayuntamientos;
 
-II. El 25 de junio del año de la elección, en caso de que se impugne la de Diputados de mayoría relativa;
+IV. El 18 de julio del año de la elección, en caso de que se impugne el cómputo o la asignación de Diputados por el principio de representación proporcional, y
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
-
-III. El 5 de julio del año de la elección, en caso de que se impugne la de Miembros de los Ayuntamientos;
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
-
-IV. El 28 de junio del año de la elección, en caso de que se impugne el cómputo o la asignación de Diputados por el principio de representación proporcional, y
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
-
-V. El 8 de julio del año de la elección, en caso de que se impugnen los cómputos y asignaciones de Regidores por el principio de representación proporcional.
+V. El 28 de julio del año de la elección, en caso de que se impugnen los cómputos y asignaciones de Regidores por el principio de representación proporcional.
 
 ## TITULO SEPTIMO. DEL JUICIO PARA LA PROTECCION DE LOS DERECHOS POLITICO ELECTORALES DEL CIUDADANO QUINTANARROENSE
 
@@ -1274,3 +1264,11 @@ II. El 8 de agosto del año de la elección, en caso de que se impugnen los cóm
 TERCERO.- Los actos y procedimientos que se encuentren en trámite concluirán de conformidad con lo establecido en la Ley Electoral de Quintana Roo, Ley Estatal de Medios de Impugnación en Materia Electoral, la Ley Orgánica del Instituto Electoral de Quintana Roo y la Ley Orgánica del Tribunal Electoral de Quintana Roo vigente al momento de la interposición de los medios de impugnación que correspondan.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 260 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO Y POR LA QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que se contrapongan al presente Decreto.
