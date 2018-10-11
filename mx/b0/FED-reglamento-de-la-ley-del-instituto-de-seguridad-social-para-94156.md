@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-instituto-de-seguridad-social-para-941
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-10"
-last_updated: "2013-05-10"
+last_updated: "2018-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-05-06"
 
 REGLAMENTO DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 10 de mayo de 2013.
 
@@ -415,6 +415,12 @@ Se tendrá por improcedente la solicitud de crédito hipotecario, cuando se advi
 
 La resolución que emita el Instituto se notificará al interesado.
 
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 51 Bis.
+
+Los créditos hipotecarios mancomunados a que se refiere el segundo párrafo de la fracción IV del artículo 108 de la Ley, se otorgarán de conformidad con las condiciones y requisitos establecidos en los convenios que se suscriban entre este Instituto y el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la Comisión Nacional de Vivienda o cualquier otra institución de seguridad social que otorgue esta prestación.
+
 ###### Artículo 52.
 
 El Instituto deberá programar los créditos a otorgar, a fin de que éstos se ejerzan dentro del ejercicio fiscal correspondiente.
@@ -427,9 +433,17 @@ Todo crédito otorgado por la Junta Directiva, se deberá ejercer dentro del té
 
 Cuando el crédito sea liquidado, el militar o el cónyuge solidario responsable deberá solicitar al Instituto la cancelación de la garantía hipotecaria, debiendo señalar el notario público que llevará a cabo el trámite.
 
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2018)</small>
+
+En los casos de los créditos hipotecarios mancomunados a que se refiere el artículo 51 Bis de este Reglamento, la cancelación de la hipoteca procederá cuando ambos créditos sean liquidados.
+
 ###### Artículo 54.
 
 En caso de fallecimiento del militar, el cónyuge supérstite, concubina o concubinario o, en su caso, los herederos, solicitarán la liquidación de los saldos insolutos, debiendo considerar que el crédito hipotecario no presente morosidad hasta la fecha del deceso, así como la cancelación de la hipoteca, presentando al Instituto copia certificada por el Registro Civil del acta de defunción, debiendo designar el notario público que realizará el trámite.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2018)</small>
+
+Para los casos de créditos hipotecarios otorgados en términos del artículo 51 Bis de este Reglamento, la liquidación del saldo insoluto operará únicamente al adeudo del militar fallecido.
 
 ###### Artículo 55.
 
@@ -438,6 +452,10 @@ Los gastos que se originen con la cancelación de la hipoteca, serán por cuenta
 ###### Artículo 56.
 
 En caso de cancelación de hipoteca por incapacidad total y permanente del militar contraída en actos dentro del servicio, que lo clasifique en primera o segunda categoría de acuerdo a las tablas de la Ley, el seguro se aplicará a partir de la fecha de la baja del militar. En caso de muerte del militar, a partir de la fecha de su fallecimiento.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2018)</small>
+
+Para los casos de créditos hipotecarios otorgados en términos del artículo 51 Bis del presente Reglamento, el seguro a que se refiere el primer párrafo únicamente aplicará respecto del militar que se coloque en alguno de los supuestos señalados en dicho párrafo.
 
 Para hacer válido el seguro en los casos de incapacidad, deberá acreditarse mediante el certificado médico de incapacidad que se prevé en el artículo 111, párrafo segundo de la Ley, que la incapacidad ocurrió con fecha posterior a la firma de la escritura pública.
 
@@ -704,3 +722,17 @@ Los trámites pendientes de resolución a la entrada en vigor del presente Regla
 El Instituto realizará las acciones necesarias para que la implementación del presente Reglamento, se realice con los recursos aprobados en su presupuesto, por lo que no se requerirá de recursos adicionales y no incrementará su presupuesto regularizable, para el presente ejercicio fiscal y los subsecuentes.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de la Defensa Nacional, Salvador Cienfuegos Zepeda.- Rúbrica.- El Secretario de Marina, Vidal Francisco Soberón Sanz.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los trámites pendientes de resolución a la entrada en vigor del presente Decreto, se sujetarán a las disposiciones jurídicas aplicables al momento de su presentación.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+CUARTO.- Se derogan las disposiciones administrativas que se opongan al presente Decreto.
