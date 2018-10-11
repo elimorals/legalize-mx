@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2018-09-25"
+last_updated: "2018-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2018.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -4049,7 +4049,9 @@ DÉCIMO SEGUNDO. En un plazo no mayor a treinta días naturales contados a parti
 
 En la sesión pública respectiva, los Consejeros acordarán la forma en la que se llevará a cabo el procedimiento de insaculación.
 
-DÉCIMO TERCERO. Una vez que sea designado el Juez Consejero, el Consejo de la Judicatura iniciará de inmediato sus funciones y procederá en un plazo no mayor a quince días naturales a designar al Secretario Ejecutivo.
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2018)</small>
+
+DÉCIMO TERCERO. Una vez que sea designado el Juez Consejero, la nueva integración del Consejo de la Judicatura iniciará de inmediato sus funciones y procederá en un plazo no mayor a quince días naturales a designar al Secretario Ejecutivo, hasta que suceda lo anterior, el actual Consejo seguirá en funciones.
 
 DÉCIMO CUARTO. En un plazo no mayor a noventa días naturales posteriores a la entrada en funciones del Consejo de la Judicatura, deberá integrarse la Comisión de Ética.
 
