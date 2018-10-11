@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2018-06-21"
+last_updated: "2018-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -1505,7 +1505,9 @@ III. Emitir la convocatoria para la integración los consejos distritales y muni
 
 IV. Remover y designar por mayoría calificada al presidente y consejeros electorales que integren los consejos distritales y municipales, con base en las propuestas de al menos el doble por cargo, que formulen el Consejero Presidente y los consejeros electorales del propio Consejo General;
 
-V. Formular y aprobar por mayoría calificada su anteproyecto de presupuesto de egresos, para su incorporación al proyecto anual de presupuesto de egresos del Estado;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+V. Formular y aprobar su anteproyecto de presupuesto de egresos, para su incorporación al proyecto anual de presupuesto de egresos del Estado;
 
 VI. Registrar a los representantes que los partidos políticos acrediten ante el propio Consejo General y, supletoriamente, los que nombren ante los consejos distritales o municipales;
 
@@ -2191,9 +2193,11 @@ Los Consejos Municipales se integrarán por un Consejero Presidente y cuatro Con
 
 Para el Consejero Presidente y los Consejeros Electorales se elegirán tres Consejeros Suplentes comunes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, los suplentes entrarán en funciones.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 172.
 
-Los Consejeros Presidentes y Electorales de los Consejos Municipales y los Distritales, así como los Vocales de las Juntas Municipales y las Distritales Ejecutivas, deberán satisfacer los mismos requisitos señalados para los Consejeros Electorales del Consejo General, con excepción del nivel académico, que será el de bachillerato así como la residencia efectiva que será por dos años en el Municipio o en el Distrito Electoral de que se trate, según corresponda.
+Los Consejeros Presidentes y Electorales de los Consejos Municipales y los Distritales, así como los Vocales de las Juntas Municipales y las Distritales Ejecutivas, deberán satisfacer los mismos requisitos señalados para los Consejeros Electorales del Consejo General, con excepción de la edad mínima que será de veinticinco años; el nivel académico, que será el de bachillerato así como la residencia efectiva que será por lo menos de dos años en el Municipio o en el Distrito Electoral de que se trate, según corresponda.
 
 ###### Artículo 173.
 
@@ -2208,6 +2212,34 @@ Para poder iniciar a sesionar válidamente deberán estar presentes la mayoría 
 Cuando no se reúna el quórum establecido en el párrafo anterior, la sesión se realizará dentro de las veinticuatro horas siguientes con los Consejeros y representantes de los partidos políticos, de coalición o candidatos independientes que asistan, debiendo estar presente el Consejero Presidente.
 
 En caso de que no asistiere el Consejero Presidente, dentro de las veinticuatro horas siguientes se realizará la sesión con los Consejeros y representantes de los partidos políticos, de coalición o candidatos independientes que asistan, debiendo otro Consejero del Consejo General sustituir para esa única sesión al Consejero Presidente.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 174 Bis.
+
+Los Consejos Municipales y Distritales deberán ubicarse en inmuebles que cumplan las siguientes características mínimas:
+
+I. Deberán estar ubicados en la cabecera municipal o distrital que corresponda;
+
+II. Preferentemente deberán instalarse en edificios destinados a ser locales comerciales, y en última instancia, en casa- habitación;
+
+III. Deberán contar con fácil acceso y libre tránsito entre calles y avenidas, que permita el acceso de vehículos y posibilidad de carga y descarga de camiones;
+
+IV. Deberán contar con espacios adecuados de acuerdo a las áreas que requiera el consejo, garantizando una sala de sesiones en la que puedan concurrir el personal necesario para su funcionamiento;
+
+V. Cumplir con las reglas de protección civil;
+
+VI. Deberán garantizar que el inmueble cuente con espacios suficientes para el resguardo de la documentación, material y los paquetes electorales, y que sus paredes no sean colindantes con ningún otro inmueble;
+
+VII. No estar ubicado dentro de un radio de 100 metros de bares, cantinas o cualquier otro establecimiento de esa naturaleza;
+
+VIII. No estar dentro de un radio de 100 metros de oficinas de partidos políticos, asociaciones políticas o candidatos independientes;
+
+IX. Contar con instalaciones sanitarias, bardas o rejas perimetrales, ventanas protegidas y estacionamiento mínimo para dos vehículos; y
+
+X. Tener los servicios básicos de agua y luz eléctrica.
+
+Lo anterior, sin perjuicio de cualquier otra condición o característica que determine el Instituto Estatal. La designación de los establecimientos deberá darse a más tardar en los quince días previos a la instalación de los Consejos sean distritales o municipales y darlos a conocer al público por el Consejo General del Instituto.
 
 ###### Artículo 175.
 
@@ -2681,9 +2713,11 @@ El Tribunal Electoral residirá en la capital del Estado y tendrá jurisdicción
 
 El patrimonio del Tribunal Electoral se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 206.
 
-El Tribunal Electoral funcionará de forma permanente en Pleno y sus resoluciones se tomarán por unanimidad o mayoría, según corresponda. Las sesiones de Tribunal serán públicas y deberán transmitirse en vivo mediante la aplicación de las tecnologías de la información, privilegiando la transparencia, máxima publicidad y el derecho de acceso a la información.
+El Tribunal Electoral funcionará de forma permanente en Pleno y sus resoluciones se tomarán por unanimidad o mayoría, según corresponda. Las sesiones en que se resuelvan asuntos jurisdiccionales serán públicas y deberán transmitirse en vivo mediante la aplicación de las tecnologías de la información, privilegiando la transparencia, máxima publicidad y el derecho de acceso a la información.
 
 La votación podrá ser a favor o en contra, sin posibilidad de abstenerse, salvo aquel que se encuentre impedido legalmente. La excusa deberá expresar concretamente la causa en que se funde, cuando proceda la excusa presentada por el Magistrado Electoral, el quórum para que el Pleno del Tribunal Electoral pueda sesionar válidamente se formará con la presencia del Secretario General de Acuerdos o en su caso, con el Secretario de Estudio y Cuenta de más antigüedad en el Tribunal.
 
@@ -2861,7 +2895,9 @@ V. Realizar tareas de capacitación, investigación y difusión en materia de de
 
 VI. Celebrar convenios de colaboración con otros Tribunales, Instituciones y Autoridades de los tres órdenes de gobierno para su mejor desempeño;
 
-VII. Notificar al Congreso del Estado y a los ayuntamientos respectivos, de la interposición de los medios de impugnación, así como las resoluciones definitivas que recaigan a aquellos, promovidos en contra de resultados electorales, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+VII. Notificar a la Legislatura del Estado y a los ayuntamientos respectivos, de las resoluciones definitivas que recaigan a los medios de impugnación promovidos en contra de resultados electorales, y
 
 VIII. Las demás funciones que le señale la Constitución del Estado, esta Ley y la Ley de Medios.
 
@@ -2893,7 +2929,9 @@ XI. Difundir en estrados y su página oficial, las resoluciones y Acuerdos Gener
 
 XII. Aprobar los planes y programas que contribuyan a la promoción de la cultura política y democrática en el Estado;
 
-XIII. Designar a su personal administrativo y jurídico, previo cumplimiento de los requisitos del cargo que prevé la presente Ley, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+XIII. Designar a los jefes de unidad y al personal jurídico, previo cumplimiento de los requisitos del cargo que prevé la presente Ley, y
 
 XIV. Las demás que sean necesarias para su correcto funcionamiento.
 
@@ -2915,15 +2953,21 @@ IV. Proponer al Pleno el nombramiento del Secretario General del Tribunal Electo
 
 V. Presentar al Poder Legislativo del Estado el presupuesto de egresos del Tribunal Electoral;
 
-VI. Representar legalmente al Tribunal Electoral ante toda clase de autoridades, otorgar poderes y celebrar los actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+VI. Representar legalmente al Tribunal Electoral ante toda clase de autoridades, otorgar poderes y celebrar los actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo, así como aperturar y manejar cuentas de cheques para la administración de los recursos que le fueren asignados;
 
 VII. Despachar la correspondencia del Tribunal Electoral;
 
-VIII. Rendir ante el Pleno en el último día hábil del mes de agosto, un informe anual de actividades y el desglose del estado financiero y patrimonial que guarda el Tribunal, y ordenar su publicación en el Órgano Oficial de Difusión;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+VIII. Rendir ante el Pleno, en el mes de septiembre del año en que se celebren elecciones o a más tardar en el mes de noviembre en año no electoral; un informe anual de actividades y el desglose del estado financiero y patrimonial que guarda el Tribunal, y ordenar su publicación en el Órgano Oficial de Difusión;
 
 IX. Vigilar que se cumplan las determinaciones del Tribunal Electoral;
 
-X. Vigilar que el Tribunal Electoral cuente con los recursos humanos, materiales y financieros necesarios para su buen funcionamiento;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+X. Vigilar que el Tribunal Electoral cuente con los recursos humanos, materiales y financieros necesarios para su buen funcionamiento, así como designar al personal administrativo que se requiera;
 
 XI. Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones del Tribunal Electoral;
 
@@ -3009,13 +3053,19 @@ En caso de acreditarse la responsabilidad administrativa del Magistrado Electora
 
 Para la recepción y tramitación de los medios de impugnación previstos en la Ley de Medios, el Tribunal Electoral contará con una unidad denominada Secretaría General de Acuerdos, encargada de coordinar las funciones del personal jurídico adscrito a ella, en los términos señalados en el presente ordenamiento.
 
-Dicha Unidad se encuentra conformada por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+Dicha Unidad deberá conformarse por lo menos con:
 
 I. Un actuario;
 
 II. Un oficial de partes, y
 
 III. Un encargado del archivo Jurisdiccional.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+El tribunal podrá realizar ajustes a su estructura orgánica conforme a sus necesidades operativas.
 
 ###### Artículo 228.
 
@@ -3647,13 +3697,9 @@ Los partidos políticos promoverán y garantizarán en los términos que señale
 
 En todo caso, será obligación de los partidos políticos postular candidatos de ambos géneros, procurando, siempre que el número de postulaciones lo permita, que ninguno de éstos obtenga una cantidad mayor al cincuenta por ciento en las candidaturas a legisladores locales, así como en las candidaturas a miembros que conformen las planillas de Ayuntamientos. En la integración de las planillas de los Ayuntamientos se deberá postular una fórmula de candidatos jóvenes. En la postulación de candidatos a diputados locales y a integrantes de miembros de los ayuntamientos, se deberá respetar el principio de paridad de género, tanto en su dimensión vertical como en su dimensión horizontal, cuyos supuestos serán regulados en la ley. En ambos casos, no se admitirá la postulación de candidaturas, tanto a diputados locales como a miembros de los ayuntamientos, en detrimento de la sub-representación y/o sobre-representación de cualquiera de los géneros, en la medida que esto sea posible.
 
-La lista de candidatos a diputados por el principio de representación proporcional de cada partido político, deberá estar integrada de la siguiente manera:
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
 
-a) Cinco candidatos postulados y registrados de manera directa y cinco candidatos que hayan participado bajo el principio de mayoría relativa y que no habiendo obtenido el triunfo por este principio, hayan obtenido los mayores porcentajes de votación válida distrital.
-
-b) La lista en su totalidad deberá estar integrada de manera alternada entre géneros, estableciéndose las posiciones 1, 3, 5, 7 y 9 a un mismo género y al otro género las posiciones 2, 4, 6, 8 y 10, de la lista registrada ante el Instituto Electoral.
-
-c) El partido político definirá con base en el inciso b), qué posiciones registrará de manera directa y qué posiciones se integrarán con los candidatos que no habiendo ganado, hayan obtenido los mejores resultados de la contienda electoral.
+Para efectos del registro de candidatos a diputados por el principio de representación proporcional, cada partido político registrará de manera directa una lista preliminar de cinco candidatos propietarios conforme a su normatividad interna, alternada por género para garantizar la paridad, misma que se integrará a la lista definitiva que deberá conformar el Consejo General del Instituto Estatal de conformidad con el artículo 374 de esta Ley.
 
 ###### Artículo 276.
 
@@ -3955,7 +4001,9 @@ VI. En el caso de la elección de Gobernador, un solo espacio para cada partido 
 
 VII. En el caso de la elección de miembros de los ayuntamientos, un solo espacio para la planilla de propietarios y suplentes, postulados por cada partido político o independiente;
 
-VIII. Para la elección de diputados por el principio de mayoría relativa y de representación proporcional se utilizará boleta única, que contendrá al frente un solo espacio para la fórmula de candidatos de cada partido político o candidatos independientes por el principio de mayoría relativa. En el caso de los partidos políticos al reverso de la boleta electoral se imprimirá la lista de candidatos que postulen por el principio de representación proporcional;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+VIII. Para la elección de diputados por el principio de mayoría relativa y de representación proporcional se utilizará boleta única, que contendrá al frente un solo espacio para la fórmula de candidatos de cada partido político o candidatos independientes por el principio de mayoría relativa. En el caso de los partidos políticos al reverso de la boleta electoral se imprimirá la lista preliminar de candidatos que postulen de manera directa conforme a su normatividad interna por el principio de representación proporcional;
 
 IX. Las firmas impresas del presidente del Consejo General y del Secretario Ejecutivo del Instituto Estatal;
 
@@ -4709,6 +4757,26 @@ El cómputo para la asignación de diputados por el principio de representación
 
 El consejo general, el domingo siguiente al de la jornada electoral y una vez que se hayan realizado los cómputos de la elección de diputados de mayoría relativa por los consejos distritales respectivos, procederá a realizar el cómputo de la votación para la asignación de diputados según el principio de representación proporcional.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+Previo a la asignación de diputaciones por el principio de representación proporcional, el Consejo General del Instituto conformará la lista definitiva de candidatos a diputaciones por dicho principio de cada partido político, la cual deberá integrarse de la siguiente manera:
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+I. Se considerará la lista preliminar de cinco candidatos propietarios postulados y registrados de manera directa por el partido político que corresponda conforme a su normatividad interna, alternada por género para garantizar la paridad, misma que deberá ser respetada en su orden al momento de la asignación de diputaciones.
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+II. El Consejo General del Instituto, elaborará una segunda lista de cinco candidatos propietarios de entre las personas postuladas que hayan participado bajo el principio de mayoría relativa por el partido político que corresponda, y que no habiendo obtenido el triunfo, hubieren obtenido los mayores porcentajes de votación válida distrital. Dicha lista igualmente deberá integrarse de manera alternada por género iniciando por el género contrario al que encabece la lista preliminar.
+
+El porcentaje de votación válida de los candidatos en los distritos referidos en esta fracción, se debe calcular con el total de la votación válida del partido en el Estado.
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+III. El Consejo General del Instituto, deberá integrar la lista definitiva de cada partido político, en segmentos alternados por género. Cada segmento estará integrado por dos candidatos, uno de la lista preliminar y otro de la lista señalada en la fracción II del presente artículo.
+
+El orden de los segmentos de la lista definitiva iniciará por la persona postulada de manera directa en la primera posición de la lista referida en la fracción I del presente artículo y en la segunda posición del mismo segmento una persona de la lista señalada en la fracción II del presente artículo, ambas deberán ser del mismo género. Seguidamente se continuará integrando cada uno de los segmentos iniciando siempre con la persona postulada de manera directa en la lista preliminar y por el género contrario al segmento anterior, hasta concluir el orden.
+
 ###### Artículo 375.
 
 El cómputo de la circunscripción plurinominal, se sujetará al siguiente procedimiento:
@@ -4723,17 +4791,19 @@ IV. Hecho lo anterior, el consejero presidente del Consejo General expedirá a c
 
 V. Se harán constar, en acta circunstanciada de la sesión, los resultados del cómputo y los incidentes que ocurrieran durante la misma.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 376.
 
-Para la asignación de Diputados electos por el principio de representación proporcional, se determinará cuáles partidos están en los casos que prevé el artículo 54 de la Constitución Estatal. En todo momento, se procurará que los partidos políticos obtengan similar cantidad de curules que representen el porcentaje de los votos que hubieren obtenido en la elección correspondiente.
+Para la asignación de Diputaciones por el principio de representación proporcional, se determinará cuáles partidos están en los casos que prevé el artículo 54 de la Constitución Estatal. En todo momento, se procurará que los partidos políticos obtengan similar cantidad de curules que representen el porcentaje de los votos que hubieren obtenido en la elección correspondiente.
 
-Para efectos de lo anterior, se considerarán como elementos de la fórmula de proporcionalidad pura, los siguientes:
+Se considerarán como elementos de la fórmula de proporcionalidad pura, los siguientes:
 
 Cociente electoral: se obtiene de dividir la votación efectiva entre el número de curules a repartir, y
 
 Resto mayor: es el remanente más alto de la votación después de participar en la distribución por cociente electoral o cociente electoral ajustado.
 
-En el procedimiento de asignación se observará el siguiente procedimiento:
+En la asignación de diputaciones por el principio de representación proporcional, se observará el siguiente procedimiento:
 
 I. Deberá verificarse de forma previa si los partidos políticos se encuentran en el supuesto de sobre representación. Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida;
 
@@ -4745,19 +4815,29 @@ Si en el procedimiento de asignación de diputados por cociente electoral existe
 
 La distribución por cociente electoral ajustado se iniciará por ronda en orden decreciente de los votos obtenidos, asignándose tantas diputaciones como número de veces la votación de los partidos políticos contenga el cociente electoral ajustado.
 
-Si aún quedaren diputaciones por asignar, se utilizará el resto mayor.
+Para garantizar la paridad, la asignación de diputaciones a cada partido político será de manera alternada por género, iniciando por la persona que ocupa la primera posición en el primer segmento de la lista; de haber obtenido el derecho a otras diputaciones, se asignará la siguiente a la primera posición del segundo segmento, por ser de distinto género al primero; de tener derecho a una tercera asignación, ésta se asignará a la segunda posición del primer segmento; de obtener derecho a otra diputación, ésta se asignará a la segunda posición del segundo segmento y así consecutivamente cuantas veces obtenga el derecho un partido político a ocupar una posición, primeramente otorgando la posición a los que fueron parte de la lista preliminar y alternando por género.
+
+En aquellos casos, en que la persona que ocupe la primera posición del primer segmento de la lista definitiva de representación proporcional haya participado también por el principio de mayoría relativa y hubiere obtenido la diputación por éste último principio, se iniciará la asignación de las diputaciones por quien ocupe la segunda posición del primer segmento y continuará la asignación por la primera posición del segundo segmento, posteriormente, la primera posición del tercer segmento, luego la segunda posición del segundo segmento y así sucesivamente de tener derecho a más diputaciones.
 
 ###### Artículo 377.
 
 Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 378.
 
-Los diputados electos según el principio de representación proporcional se asignan en el orden en que fueron registrados en las listas estatales de cada partido.
+Las diputaciones del principio de representación proporcional se asignarán de conformidad al orden de la lista definitiva de cada partido político determinada por el Consejo General del Instituto, siguiendo el procedimiento del artículo inmediato anterior.
+
+Cuando un partido político al haber participado en coalición no hubiere postulado candidatos propios por el principio de mayoría relativa, para la asignación de diputaciones por el principio de representación proporcional, se seguirá el orden de la lista preliminar referida en el artículo 275 de la presente ley. En caso de agotarse la lista podrá llamarse al que continúe en la lista definitiva del partido político con el que se hubiere coaligado, que cuente con menor representación en la Legislatura.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 379.
 
-Tratándose de la inelegibilidad de los candidatos propietarios registrados en fórmula, tomarán su lugar los suplentes respectivos. En el caso de la inelegibilidad de la fórmula de candidatos a diputados por el principio de representación proporcional, tomarán el lugar de los declarados no elegibles, los que sigan en el orden señalado en la lista respectiva. Cuando la lista se agote o no exista, el que sea designado por el propio partido político.
+Tratándose de la inelegibilidad, falta temporal o definitiva de los ciudadanos a los que se les haya asignado una diputación por el principio de representación proporcional serán suplidos, en el caso de quienes provinieron de la lista preliminar a que se refiere el artículo 275 de la presente ley, por la persona que le siguiera en orden de prelación de dicha lista. En ningún caso, la persona que haya asumido el cargo, podrá cubrir la ausencia de diputado diferente al que haya cubierto.
+
+En caso de falta de quienes provinieron de la lista a que se refiere la fracción II del artículo 374, por quien sea su suplente por el principio de mayoría relativa.
 
 ### CAPÍTULO OCTAVO. DEL CÓMPUTO Y CALIFICACIÓN DE LA ELECCIÓN DE GOBERNADOR
 
@@ -5191,9 +5271,11 @@ Los consejos distritales y municipales, en sus respectivos ámbitos de competenc
 
 La Comisión de Quejas y Denuncias se integrará por tres Consejeros Electorales, quienes serán designados, para un periodo de tres años, por el Consejo General. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 411.
 
-Las notificaciones se harán a más tardar dentro de los dos (sic) hábiles siguientes al que se dicten las resoluciones que las motiven y surtirán sus efectos el mismo día de su realización.
+Las notificaciones se harán a más tardar dentro de los dos días hábiles siguientes al que se dicten las resoluciones que las motiven y surtirán sus efectos el mismo día de su realización.
 
 Cuando la resolución entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con dos días hábiles de anticipación al día y hora en que se haya de celebrar la actuación o audiencia, con las excepciones previstas en esta Ley. Las demás se harán por cédula que se fijará en los estrados del Instituto Estatal o del órgano que emita la resolución de que se trate. En todo caso, las que se dirijan a una autoridad u órgano partidario se notificarán por oficio.
 
@@ -5221,7 +5303,9 @@ Si a quien se busca se niega a recibir la notificación, o las personas que se e
 
 Las notificaciones personales podrán realizarse por comparecencia del interesado, de su representante, o de su autorizado ante el órgano que corresponda.
 
-La notificación de las resoluciones que pongan fin al procedimiento de investigación será personal, se hará a más tardar dentro de los dos días hábiles siguientes a aquél en que se dicten, entregando al denunciante y al denunciado copia certificada de la resolución.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+La notificación de las resoluciones que pongan fin al procedimiento sancionador serán personales, cuando las partes hayan señalado domicilio en la ciudad de Chetumal, de lo contrario se realizarán por estrados en sus distintas modalidades y deberán efectuarse a más tardar dentro de los dos días hábiles siguientes a aquél en que se dicten, entregando al denunciante y al denunciado copia certificada de la resolución.
 
 Los plazos se contarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de las quejas que se inicien antes del proceso electoral, los plazos se computarán por días hábiles, respecto de las que se presenten una vez iniciado aquél, por días naturales.
 
@@ -5423,7 +5507,9 @@ En el desahogo de los puntos del orden del día en que el Consejo General deba r
 
 Sólo dentro de los procesos electorales, la Secretaría Ejecutiva por conducto de la Dirección Jurídica del Instituto Estatal, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
 
-I. Violen lo establecido en el octavo párrafo del artículo 134 de la Constitución Federal;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+I. Violen lo establecido en los párrafos séptimo y octavo párrafo del artículo 134 de la Constitución Federal;
 
 II. Contravengan las normas sobre propaganda política o electoral, o
 
@@ -5449,7 +5535,11 @@ V. Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las 
 
 VI. En su caso, las medidas cautelares que se soliciten.
 
-La Dirección Jurídica del Instituto Estatal deberá admitir o desechar la denuncia en un plazo no mayor a cuarenta y ocho horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser informada por escrito al Consejo General, para su conocimiento.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+La Dirección Jurídica del Instituto Estatal deberá admitir o desechar la denuncia en un plazo no mayor a cuarenta y ocho horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser informada por escrito al Consejo General y al
+
+Tribunal Electoral, para su conocimiento.
 
 Cuando la Dirección Jurídica del Instituto Estatal admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
@@ -5493,15 +5583,21 @@ Del informe circunstanciado se enviará una copia al Consejero Presidente del In
 
 Recibido por el Tribunal Electoral, un expediente en estado de resolución conforme a los artículos anteriores, lo turnará de inmediato a la ponencia que corresponda, a fin de que se presente al Pleno el proyecto de resolución que corresponda en un plazo que no deberá exceder, de ninguna manera, de cinco días.
 
-El Tribunal Electoral del Estado, deberá resolver de forma pronta y expedita, con las constancias que obren en el expediente, en caso de que exista en el expediente constancias solicitadas a diversas autoridades que no hayan podido ser adminiculadas por el Instituto Estatal, será el Tribunal Electoral quien requiera a las autoridades que deben cumplir con la entrega de dichos requerimientos, en caso contrario, podrá aplicar las medidas de apremio.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+El Tribunal Electoral del Estado, podrá dictar las diligenclas para mejor proveer, cuando así lo requiera, debiendo resolver de forma pronta y expedita, con las constancias que obren en el expediente, en caso de que exista en el expediente constancias solicitadas a diversas autoridades que no hayan podido ser recibidas por el Instituto Estatal, será el Tribunal Electoral quien las requiera a las autoridades, con el apercibimiento de aplicar las medidas de apremio que la ley le otorga.
 
 ###### Artículo 431.
 
 Las sentencias que resuelva el procedimiento especial sancionador podrán tener los efectos siguientes:
 
-I. Declarar la inexistencia de la violación objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
 
-II. Imponer las sanciones que resulten procedentes en términos de lo dispuesto en este ordenamiento.
+I. Declarar la inexistencia de las infracciones objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+
+II. Declarar la existencia de las infracciones objeto de la queja o denuncia e Imponer, las sanciones que resulten procedentes en términos de lo dispuesto en este ordenamiento.
 
 ## TRANSITORIOS
 
@@ -5594,3 +5690,11 @@ P.O. 21 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 198 POR EL QUE SE ADICIONA UN ARTÍCULO NOVENO TRANSITORIO AL DECRETO NÚMERO 097 DE LA XV LEGISLATURA DEL ESTADO, POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 11 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO Y POR LA QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que se contrapongan al presente Decreto.
