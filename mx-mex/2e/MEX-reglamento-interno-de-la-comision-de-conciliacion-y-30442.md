@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-conciliacion-y-30442"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-11"
-last_updated: "2008-06-06"
+last_updated: "2018-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE CONCILIACION Y ARBITRAJE MEDICO DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.O. DE 11 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 11 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO INTERNO DE LA COMISION DE CONCILIACION Y ARBITRAJE MEDICO DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 11 de abril de 2003.
 
@@ -450,3 +450,15 @@ G.G. 6 DE JUNIO DE 2008.
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 11 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se abroga el Reglamento Interno de la Comisión de Conciliación y Arbitraje Médico del Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno” el 11 de abril de 2003.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
