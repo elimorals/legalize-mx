@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2018-05-04"
+last_updated: "2018-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE OCTUBRE DE 2018.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -404,7 +404,9 @@ VI. Participar en todas las sesiones del Concejo, con voz y voto con excepción 
 
 VII. Proponer, formular y ejecutar los mecanismos de simplificación administrativa, gobierno electrónico y políticas de datos abiertos que permitan atender de manera efectiva las demandas de la ciudadanía;
 
-VIII. Establecer la estructura organizacional de la Alcaldía, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+VIII. Establecer la estructura, integración y organización de las unidades administrativas de las Alcaldías, en función de las características y necesidades de su demarcación territorial, así como su presupuesto, conforme a lo dispuesto en el Artículo 71 de la presente ley.
 
 IX. Expedir un certificado de residencia de la demarcación para aquellos que cumplan con los requisitos señalados por el artículo 22 de la Constitución Local;
 
@@ -760,11 +762,15 @@ Las faltas temporales de la Alcaldesa o el Alcalde que no excedan de quince día
 
 En caso de la ausencia de la Alcaldesa o el Alcalde sea por un periodo mayor al señalado en el artículo anterior deberá solicitar licencia por escrito ante el Congreso. En todos los casos las licencias deberán precisar su duración.
 
-En este caso, (sic) titular de la Unidad Administrativa de Asuntos Jurídicos y de Gobierno, se encargará del despacho de los asuntos de la administración pública de la demarcación territorial por el tiempo que dure dicha ausencia. Y en ausencia o declinación expresa de dicha persona, por quienes sigan en el orden de prelación establecido en esta Ley. Cuando la ausencia sea mayor a sesenta días naturales se convertirá en definitiva.
+> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+En este caso, (sic) titular de la Unidad Administrativa de Gobierno, se encargará del despacho de los asuntos de la administración pública de la demarcación territorial por el tiempo que dure dicha ausencia. Y en ausencia o declinación expresa de dicha persona, por quienes sigan en el orden de prelación establecido en esta Ley. Cuando la ausencia sea mayor a sesenta días naturales se convertirá en definitiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 67.
 
-En caso de licencia definitiva o falta absoluta de la Alcaldesa o el Alcalde, en tanto el Congreso de la Ciudad nombra a quien habrá de sustituirle de manera interina o al substituto, lo que deberá ocurrir en un término no mayor a sesenta días, el titular de la Unidad Administrativa de Asuntos Jurídicos y de Gobierno, asumirá provisionalmente la titularidad de la Alcaldía. Quien provisionalmente ocupe la Alcaldía no podrá remover a los funcionarios integrantes de la misma o hacer nuevas designaciones.
+En caso de licencia definitiva o falta absoluta de la Alcaldesa o el Alcalde, en tanto el Congreso de la Ciudad nombra a quien habrá de sustituirle de manera interina o al substituto, lo que deberá ocurrir en un término no mayor a sesenta días, el titular de la Unidad Administrativa de Gobierno, asumirá provisionalmente la titularidad de la Alcaldía. Quien provisionalmente ocupe la Alcaldía no podrá remover a los funcionarios integrantes de la misma o hacer nuevas designaciones.
 
 Cuando licencia definitiva o la falta absoluta de la Alcaldesa o el Alcalde ocurriese en los dos primeros años del período respectivo, si el Congreso de la Ciudad se encontrase en sesiones y concurriendo, cuando menos, las dos terceras partes del número total de los diputados, nombrará de una terna propuesta por el titular de la Jefatura de Gobierno de la Ciudad, una Alcaldesa o un Alcalde interino. En ese mismo acto, el Congreso solicitará al Instituto Electoral de la Ciudad, dentro de los diez días siguientes a dicho nombramiento, la convocatoria para la elección de la Alcaldesa o el Alcalde que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de la jornada electoral, un plazo no menor de dos meses ni mayor de cuatro.
 
@@ -796,39 +802,71 @@ Las solicitudes de licencia que presenten las y los Concejales, se harán por es
 
 ### CAPÍTULO I. DE LAS UNIDADES ADMINISTRATIVAS Y SUS NOMBRAMIENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 71.
 
-Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, los titulares de la Alcaldía se auxiliarán de unidades administrativas, las que estarán subordinadas a este servidor público. El servidor público titular de las referidas Unidades Administrativas ejercerá las funciones propias de su competencia y será responsable por el ejercicio de dichas funciones y atribuciones contenidas en la ley, (sic) su reglamento.
+Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, los titulares de la Alcaldía se auxiliarán de unidades administrativas, las que estarán subordinadas a este servidor público. El servidor público titular de las referidas Unidades Administrativas ejercerá las funciones propias de su competencia y será responsable por el ejercicio de dichas funciones y atribuciones contenidas en la Ley y demás ordenamientos jurídicos.
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+El titular de la Alcaldía determinará y establecerá la estructura, integración y organización de las unidades administrativas de la misma, en función de las características y necesidades de su demarcación, orientándose bajo los principios de racionalidad, paridad de género, austeridad, eficiencia, eficacia, economía planeación y disciplina presupuestal.
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+Las funciones y atribuciones de cada unidad administrativa deberán establecerse en el Manual de organización que elabore el o la titular de la Alcaldía, de conformidad con las contenidas en la presente ley.
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+El Manual de organización tendrá por objeto establecer las facultades, funciones y atribuciones de las unidades administrativas de la Alcaldía y de los servidores públicos que las integran.
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+El Manual de organización será remitido por la persona titular de la Alcaldía, al ejecutivo local para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Las Alcaldías deberán contar por lo menos con las siguientes Unidades Administrativas:
 
-I. Asuntos Jurídicos y de Gobierno;
+> <small>(ADICIONADA, G.O. 12 DE OCTUBRE DE 2018)</small>
 
-II. Administración;
+I. Gobierno;
 
-III. Obras y Desarrollo Urbano;
+> <small>(REFORMADA, G.O. 12 DE OCTUBRE DE 2018)</small>
 
-IV. Servicios Urbanos;
+II. Asuntos Jurídicos;
 
-V. Planeación del Desarrollo;
+III. Administración;
 
-VI. Desarrollo Social.
+IV. Obras y Desarrollo Urbano;
 
-VII. Desarrollo y Fomento Económico;
+V. Servicios Urbanos;
 
-VIII. Protección Civil;
+VI. Planeación del Desarrollo;
 
-IX. Participación Ciudadana;
+VII. Desarrollo Social.
 
-X. Sustentabilidad;
+VIII. Desarrollo y Fomento Económico;
 
-XI. Derechos Culturales, Recreativos y Educativos.
+IX. Protección Civil;
 
-XII. Fomento a la Equidad de Género;
+X. Participación Ciudadana;
 
-Cada Alcaldesa o Alcalde de conformidad con las características y necesidades propias de su demarcación territorial y la existencia de suficiencia presupuestal, decidirá el rango de las anteriores unidades administrativas, en el entendido que se respetará el orden de prelación establecido en esa ley.
+XI. Sustentabilidad;
 
-Cuando menos, las Unidades Administrativas de Asuntos Jurídicos y de Gobierno, de Administración; Obras y Desarrollo Urbano tendrán el rango de dirección general y dependerán directamente de la Alcaldesa o el Alcalde.
+XII. Derechos Culturales, Recreativos y Educativos.
+
+XIII. Fomento a la Equidad de Género;
+
+> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+Cada Alcaldesa o Alcalde de conformidad con las características y necesidades propias de su demarcación territorial, así como de su presupuesto, decidirá el nivel de las anteriores unidades administrativas, en el entendido que se respetará el orden de prelación establecido en esa ley.
+
+> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+Las Unidades Administrativas de Gobierno, de Asuntos Jurídicos, de Administración, Obras y Desarrollo Urbano, y Servicios Urbanos tendrán el nivel de dirección general o dirección ejecutiva y dependerán directamente de la persona titular de la Alcaldía.
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+Las unidades administrativas podrán ejercer de manera conjunta o separada las materias descritas en las fracciones del presente Artículo.
 
 ###### Artículo 72.
 
@@ -846,27 +884,49 @@ Adicional a los requisitos señalados en el artículo anterior, para el nombrami
 
 I. El titular de la unidad administrativa de Administración:
 
-a) Tener título o contar con cédula profesional respectiva para el ejercicio de la profesión en las áreas de Contaduría, Administración Pública, Administración de Empresas, Finanzas, Economía, Derecho, Actuario, Ingeniería o ciencias en las áreas afines a la administración;
+> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+a) Tener título o contar con cédula profesional respectiva para el ejercicio de la profesión en las áreas de Contaduría, Administración Pública, Administración de Empresas, Finanzas, Economía, Derecho, Actuario, Ingeniería o ciencias en las áreas afines a la administración; o
 
 b) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo dentro de la Administración Pública Federal, Estatal, de la Ciudad o Municipal, relacionada con las ramas de presupuesto, administración, auditoría o similares; o bien 2 años en el ejercicio de la profesión como administrador, contador, contralor o auditor en la iniciativa privada, y
 
-c) Deberá someterse y cumplir cabalmente con lo establecido en el procedimiento de capacidad comprobada que para tal fin determinen la Secretaría de Finanzas y la Escuela de Administración Pública, ambas del Gobierno de la Ciudad de México.
+c) (DEROGADO, G.O. 12 DE OCTUBRE DE 2018)
 
-II. El titular de la unidad administrativa de Asuntos Jurídicos y Gobierno:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE OCTUBRE DE 2018)</small>
 
-a) Tener tituló o contar con cédula profesional respectiva para el ejercicio de la profesión en las áreas (sic) de Derecho;
+II. El titular de la Unidad Administrativa de Asuntos Jurídicos:
+
+> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+a) Tener título o contar con cédula profesional respectiva para el ejercicio de la profesión en el área de Derecho; o
 
 b) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo dentro de la Administración Pública Federal, Estatal, de la Ciudad o Municipal, relacionada con el área, jurídica, contenciosa o de gobierno; o bien 2 años en el ejercicio de la profesión como abogado litigante, administrador, contralor o auditor en la iniciativa privada, y
 
-c) Deberá someterse y cumplir cabalmente con lo establecido en el procedimiento de capacidad comprobada que para tal fin determinen la Consejería Jurídica y de Servicios Legales y la Escuela de Administración Pública, ambas del Gobierno de la Ciudad de México.
+c) (DEROGADO, G.O. 12 DE OCTUBRE DE 2018)
 
-III. El titular del área de Obras y Desarrollo Urbano:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE OCTUBRE DE 2018)</small>
 
-a) Ser Ingeniero, Arquitecto, Urbanista u otras áreas administrativas afines al encargo con cedula profesional para el ejercicio de la profesión;
+III. El titular de la Unidad Administrativa de Obras y Desarrollo Urbano:
+
+> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+a) Ser Ingeniero, Arquitecto, Urbanista u otras áreas administrativas afines al encargo con cedula profesional para el ejercicio de la profesión; o
 
 b) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo dentro de la Administración Pública Federal, Estatal, de la Ciudad o Municipal, relacionada con las ramas de construcción, desarrollo urbano, uso de suelo, planeación urbana e infraestructura urbana; y
 
-c) Deberá someterse y cumplir cabalmente con lo establecido en el procedimiento de capacidad comprobada que para tal fin determinen la Secretaría de Obras y Servicios y la Escuela de Administración Pública, ambas del Gobierno de la Ciudad de México.
+c) (DEROGADO, G.O. 12 DE OCTUBRE DE 2018)
+
+> <small>(ADICIONADA [N. DE E. CON SU INCISO], G.O. 12 DE OCTUBRE DE 2018)</small>
+
+IV. El titular de la Unidad Administrativa de Gobierno:
+
+a) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo similar, dentro de la Administración Pública Federal, Estatal, de la Ciudad o Municipal.
+
+> <small>(ADICIONADA [N. DE E. CON SU INCISO], G.O. 12 DE OCTUBRE DE 2018)</small>
+
+V. El titular de la Unidad Administrativa de Servicios Urbanos:
+
+a) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo similar, dentro de la Administración Pública Federal, Estatal, de la Ciudad o Municipal.
 
 Las atribuciones de las unidades administrativas serán ejercidas en la materia que según su denominación les corresponda, en coincidencia con la distribución de competencias establecida en el artículo 53, Apartado B, Numeral 3 de la Constitución Local.
 
@@ -951,6 +1011,14 @@ El Concejo es el órgano colegiado electo en cada demarcación territorial, que 
 La actuación de los Concejos se sujetará en todo momento a los principios de transparencia, rendición de cuentas, accesibilidad, difusión, y participación ciudadana. Cada Concejo presentará un informe anual de sus actividades que podrá ser difundido y publicado para conocimiento de las y los ciudadanos, el cual contendrá el informe de actividades del Concejo y el de los Concejales en términos de lo que establezca el reglamento del Concejo.
 
 Las y los Concejales estarán sujetos a lo dispuesto por el párrafo cuarto del artículo 5 de la Constitución Federal. Su retribución será cubierta de conformidad a la propuesta que previamente presente la Alcaldesa o el Alcalde al Concejo.
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+El Concejo contará con personal que les auxiliará en el desempeño de sus funciones; y su retribución será cubierta en los términos que señale la normatividad correspondiente
+
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+El o la titular de la Alcaldía garantizará al Concejo un espacio físico adecuado así como los insumos materiales necesarios para el cumplimiento de sus funciones.
 
 ###### Artículo 83.
 
@@ -1046,6 +1114,10 @@ La titularidad de secretaría técnica del Concejo, será ratificada por el prop
 
 En su caso, las dos terceras partes del Concejo podrán solicitar de manera sólida y sustentada, la remoción o sustitución del Secretario Técnico.
 
+> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+Las funciones y atribuciones de la Secretaría Técnica del Concejo podrán ser ejercidas por un servidor público adscrito a una unidad administrativa de la Alcaldía.
+
 ###### Artículo 95.
 
 Las atribuciones de la secretaría técnica son las siguientes:
@@ -1072,19 +1144,25 @@ II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública;
 
 III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad; y
 
-IV. Acreditar ante el Concejo tener los conocimientos suficientes para poder desempeñar el cargo y experiencia mínima de un año en la materia.
+> <small>(REFORMADA, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+IV.- Acreditar ante el Concejo tener los conocimientos suficientes para poder desempeñar el cargo.
 
 ###### Artículo 97.
 
 Para atender y resolver los asuntos de su competencia, el Concejo funcionará en pleno y mediante comisiones. Las comisiones son órganos que se integran con el objeto de contribuir a cuidar y vigilar el correcto funcionamiento de la Alcaldía, en el desempeño de las funciones y la prestación de los servicios públicos que tienen encomendados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 98.
 
-Se requerirá mayoría simple de votos presentes de las y los integrantes del concejo para aprobar:
+Se requerirá mayoría simple de votos presentes de las y los integrantes del Concejo para aprobar:
 
 I. El Proyecto de Presupuesto de Egresos de la Alcaldía correspondiente; y
 
-II. La designación de la persona titular de la secretaría técnica del Concejo.
+> <small>(REFORMADA, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+II. La ratificación de la persona titular de la secretaría técnica del Concejo.
 
 ###### Artículo 99.
 
@@ -1174,9 +1252,13 @@ Se someterán a aprobación del Concejo, los bandos que deberán contener las pr
 
 Para la expedición de bandos, las Alcaldías deberán observar el procedimiento siguiente:
 
-I. Las Unidades Administrativas de las Alcaldías, integrarán la información bajo la directriz de la Unidad Administrativa de Asuntos Jurídicos y de Gobierno, quien elaborará el anteproyecto de bando;
+> <small>(REFORMADA, G.O. 12 DE OCTUBRE DE 2018)</small>
 
-II. La Unidad Administrativa de Asuntos Jurídicos y de Gobierno, remitirá a la persona titular de la Alcaldía el Proyecto a fin de (sic) sea sancionado y remitido al Concejo para su discusión y en su caso, aprobación; y
+I. Las Unidades Administrativas de las Alcaldías, integrarán la información bajo la directriz de la Unidad Administrativa de Asuntos Jurídicos, quien elaborará el anteproyecto de bando;
+
+> <small>(REFORMADA, G.O. 12 DE OCTUBRE DE 2018)</small>
+
+II. La Unidad Administrativa de Asuntos Jurídicos, remitirá a la persona titular de la Alcaldía el Proyecto a fin de (sic) sea sancionado y remitido al Concejo para su discusión y en su caso, aprobación.
 
 III. Una vez discutido y aprobado por el Concejo, éste deberá ser publicado en la Gaceta Oficial de la Ciudad y atendiendo a los principios de legalidad y máxima publicidad en los sitios de internet de las propias Alcaldías.
 
@@ -2077,3 +2159,21 @@ DÉCIMO OCTAVO.- El Congreso realizará las acciones que correspondan para insti
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiséis días del mes de abril del año dos mil dieciocho.- POR LA MESA DIRECTIVA, DIP. IVÁN TEXTA SOLÍS, PRESIDENTE.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA.- DIP. FRANCIS IRMA PIRIN CIGARRERO, SECRETARIA. (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los tres días del mes de mayo del año dos mil dieciocho.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, GUILLERMO OROZCO LORETO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 12 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente ordenamiento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones contrarias al presente decreto.
+
+CUARTO. La Alcaldesa o Alcalde tendrá como fecha límite el 31 de octubre de 2018 para registrar su estructura organizacional ante la Secretaría de Finanzas de la Ciudad de México, de acuerdo a las previsiones de ingresos establecidas, misma que deberá ser publicada en la Gaceta Oficial de la Ciudad de México a más tardar el 10 de noviembre de 2018.
+
+QUINTO. El o la titular de la Alcaldía contará con un plazo no mayor a 30 días naturales a partir de la publicación del presente decreto, para expedir el manual señalado en el Artículo 71, y deberá armonizarlo a las disposiciones que establezca el Reglamento de esta Ley, que expida el o la titular de la Jefatura de Gobierno de la Ciudad de México, de conformidad con lo dispuesto con el artículo Decimosegundo transitorio del Decreto por el que se expide la Ley Orgánica de Alcaldías de la Ciudad de México.
+
+SEXTO. La adecuación de los espacios físicos de la sede del Concejo deberá realizarse en un periodo no mayor a 60 días naturales a partir de la publicación del presente decreto.
