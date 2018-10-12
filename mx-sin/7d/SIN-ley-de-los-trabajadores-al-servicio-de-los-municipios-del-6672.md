@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-de-los-municipios-del-6672"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-21"
-last_updated: "2017-12-22"
+last_updated: "2018-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 21 de marzo de 1984.
 
@@ -99,7 +99,7 @@ Son trabajadores de base, los no incluidos en el artículo siguiente, y que por 
 
 ###### ARTICULO 8.
 
-Son trabajadores de confianza los Secretarios de los Ayuntamientos, los Oficiales Mayores, los Directores, los Sub-Directores, Jefes y Sub-Jefes de Departamento, Tesoreros encargados de las finanzas municipales, Contralores, Inspectores, Agentes de Policía, Alcaides, Sub-Alcaides y Celadores, Integrantes de los Jurados Calificadores, Secretarios Particulares, Privados y Jefes de Ayudantes, Síndicos y Comisarios Municipales.
+Son trabajadores de confianza los Secretarios de los Ayuntamientos, los Oficiales Mayores, los Directores, los Sub-Directores, Jefes y Sub-Jefes de Departamento, Tesoreros encargados de las finanzas municipales, Contralores, Inspectores, Agentes de Policía, Alcaides, Sub-Alcaides y Celadores, integrantes de los Jurados Calificadores, Secretarios Particulares, Privados y Jefes de Ayudantes, Síndicos y Comisarios Municipales.
 
 En los organismos descentralizados municipales, los Directores, Sub-Directores, Gerentes, Tesoreros, Administradores, Pagadores y en general los que dispongan las Leyes o Reglamentos que rijan al organismo de que se trate.
 
@@ -211,15 +211,21 @@ Serán días de descanso obligatorio con goce de salario íntegro, independiente
 
 I.- El primero de enero;
 
-II.- El cinco de febrero;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2018)</small>
 
-III.- El veintiuno de marzo;
+II.- El primer lunes de febrero en conmemoración del 5 de febrero;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2018)</small>
+
+III.- El tercer lunes de marzo en conmemoración del 21 de marzo;
 
 IV.- El primero de mayo;
 
 V.- El dieciséis de septiembre;
 
-VI.- El veinte de noviembre;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2018)</small>
+
+VI.- El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
 VII.- El primero de diciembre de cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Federal;
 
@@ -273,7 +279,9 @@ V.- De cuotas de defunción o aportación de fondos para la constitución de coo
 
 VI.- De descuento por faltas injustificadas de asistencia al trabajo, por retardos o permisos.
 
-Los reglamentos que expidan los municipios determinarán el porcentaje que se descontará al salario de los trabajadores en los casos previstos en las fracciones I y V de este artículo fuera de los casos señalados, el salario no será susceptible de embargo judicial o administrativo.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2018)</small>
+
+Los reglamentos que expidan los municipios, determinarán el porcentaje que se descontará al salario de los trabajadores en el caso previsto en la fracción I, y en lo que respecta a las fracciones IV y V, el Tesorero Municipal de cada Ayuntamiento tendrá la obligación de enterar al sindicato solicitante, los recursos retenidos a los trabajadores, en un plazo no mayor a 3 días hábiles posteriores a la retención del salario. Fuera de los casos señalados, el salario no será susceptible de embargo judicial o administrativo.
 
 ###### ARTICULO 33.
 
@@ -463,9 +471,21 @@ XIV.- Las análogas a las señaladas en las fracciones anteriores, de igual mane
 
 XV.- Las demás que establezcan las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 45.
 
-El trabajador, a su elección, podrá solicitar ante el Tribunal Municipal de Conciliación y Arbitraje que corresponda, que se le reinstale en el trabajo que desempeñaba o se le indemnice con el importe de tres meses de salario. Y si en el juicio respectivo no se comprueba la causal de cese, el trabajador tendrá derecho además a que se le paguen los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo, y las prestaciones que legalmente resulten procedentes.
+El trabajador a su elección, podrá solicitar ante el Tribunal Municipal de Conciliación y Arbitraje que corresponda, que se le reinstale en el trabajo que desempeñaba o se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago.
+
+Si en el juicio correspondiente no comprueba el patrón la causa de la rescisión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un periodo máximo de doce meses, en términos de lo preceptuado en la última parte del párrafo anterior.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, serán sancionados en los términos de la legislación aplicable.
+
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, se sancionará en los términos de la Ley General de Responsabilidades Administrativas, y la Ley de Responsabilidades Administrativas del Estado. De igual manera, se sancionará en caso de reincidencia. Además en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
 ## TITULO QUINTO. DEL ESCALAFON, VACANTES Y ASCENSOS
 
@@ -617,7 +637,7 @@ En cada municipio funcionará un Tribunal Municipal de Conciliación y Arbitraje
 
 ###### ARTICULO 65.
 
-Corresponde a los tribunales el conocimiento y resolución de los conflictos que se susciten entre los trabajadores y las Entidades Públicas Municipales, o sólo entre aquéllos, con motivo de las relaciones de trabajo o de hechos íntimamente relacionados con ellas.
+Corresponde a los tribunales el conocimiento y resolución de los conflictos que se susciten entre los trabajadores y las Entidades Públicas Municipales, o solo entre aquéllos, con motivo de las relaciones de trabajo o de hechos íntimamente relacionados con ellas.
 
 ###### ARTICULO 66.
 
@@ -695,7 +715,7 @@ En la audiencia a que se refiere el artículo anterior, el presidente tratará d
 
 Si las partes no llegaren a un arreglo, podrán replicar y contrareplicar brevemente, asentándose en actas sus alegaciones, con lo que concluirá el período de arbitraje.
 
-En la fase de recepción de pruebas sólo se aceptarán las ofrecidas previamente, a no ser que se refieran a hechos supervenientes en cuyo caso se dará vista a la contraria, o que tengan por objeto probar las tachas contra testigos, siempre y cuando se ofrezcan antes de cerrarse la instrucción del juicio.
+En la fase de recepción de pruebas solo se aceptarán las ofrecidas previamente, a no ser que se refieran a hechos supervenientes en cuyo caso se dará vista a la contraria, o que tengan por objeto probar las tachas contra testigos, siempre y cuando se ofrezcan antes de cerrarse la instrucción del juicio.
 
 ###### ARTICULO 76.
 
@@ -965,7 +985,7 @@ Declaración de huelga es la manifestación de la voluntad de las dos terceras p
 
 ###### ARTICULO 115.
 
-La huelga puede ser general o parcial. La primera es la que se endereza en contra de una Entidad Publica Municipal, y la segunda aquella que va dirigida en contra de algún jefe o grupo de jefes de una o varias Dependencias de la Entidad Pública Municipal.
+La huelga puede ser general o parcial. La primera es la que se endereza en contra de una Entidad Pública Municipal, y la segunda aquella que va dirigida en contra de algún jefe o grupo de jefes de una o varias Dependencias de la Entidad Pública Municipal.
 
 ###### ARTICULO 116.
 
@@ -1288,3 +1308,13 @@ El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaci
 ###### ARTÍCULO VIGÉSIMO.
 
 Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 863 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LOS ARTÍCULOS 25 FRACCIONES II, III Y VI, 32 ÚLTIMO PÁRRAFO; Y 45, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periodo Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Queda sin efecto cualquier disposición que se oponga al presente decreto.
+
+TERCERO. Los juicios iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos de conformidad con las disposiciones aplicables al momento de su inicio.
