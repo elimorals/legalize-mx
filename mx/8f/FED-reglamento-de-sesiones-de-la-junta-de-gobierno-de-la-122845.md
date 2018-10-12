@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-122845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-15"
-last_updated: "2017-08-15"
+last_updated: "2018-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122845&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-08-02"
 
 REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE OCTUBRE DE 2018.
 
 Reglamento aprobado por la Junta de Gobierno de la Comisión Ejecutiva de Atención a Víctimas, el jueves 20 de julio de 2017; y publicado en la Segunda Sección al Número 12 del Diario Oficial de la Federación, el martes 15 de agosto de 2017.
 
@@ -65,11 +65,23 @@ Las disposiciones contenidas en el presente Reglamento tienen por objeto regular
 
 Además de las definiciones contenidas en los artículos 6 de la Ley General de Víctimas y su Reglamento, se entenderá por:
 
-I. Integrantes: Los Integrantes de la Junta de Gobierno, quienes son representantes de las Secretarías de Estado, de la Asamblea Consultiva, el Titular de la Comisión Ejecutiva, y demás participantes previstos en el artículo 84 Quáter de la Ley General de Víctimas;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
 
-II. Integrante Titular: Las y los Integrantes previstos en la fracción I del artículo 84 Quáter de la Ley;
+> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2018)</small>
 
-III. Integrante Suplente: Las y los suplentes designados por los integrantes titulares, quienes tendrán el nivel de Subsecretaría, Dirección General o su equivalente;
+I. Integrantes: Los Integrantes de la Junta de Gobierno, quienes son representantes de las Secretarías de Estado, de la Asamblea Consultiva, y el Titular de la Comisión Ejecutiva, previstos en el artículo 84 Quáter de la Ley General de Víctimas;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
+II. Integrante Propietario: Las y los Integrantes previstos en la fracción I del artículo 84 Quáter de la Ley;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
+III. Integrante Suplente: Las y los suplentes de los integrantes propietarios, quienes tendrán el nivel de Subsecretaría, Dirección General o su equivalente;
 
 IV. Junta de Gobierno: La Junta de Gobierno de la Comisión Ejecutiva de Atención a Víctimas;
 
@@ -107,25 +119,41 @@ II. Cuatro representantes de la Asamblea consultiva, designados por ésta, y
 
 III. El Titular de la Comisión Ejecutiva.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 5.
 
-Los Integrantes de la Junta de Gobierno contarán con un suplente el cual fungirá como miembro en las ausencias de aquellos. Para tal efecto, la acreditación de su nombramiento deberá realizarse preferentemente en la celebración de la Primera Sesión Ordinaria de cada año, para lo cual se deberá observar lo siguiente:
+Los Integrantes de la Junta de Gobierno contarán con un suplente el cual fungirá como integrante en las ausencias de aquellos. Para tal efecto, la acreditación de su nombramiento deberá realizarse preferentemente en la celebración de la Primera Sesión Ordinaria de cada año, para lo cual se deberá observar lo siguiente:
 
 I. En el caso de los Integrantes de la Junta de Gobierno que representan a las Secretarías de Estado sus suplentes designados deberán tener el nivel de Subsecretaría, Dirección General o su equivalente, de conformidad con lo previsto en el artículo 84 Quáter de la Ley;
 
 II. El Titular de la Comisión Ejecutiva, designará a su suplente quien deberá tener el nivel jerárquico de Director General o su equivalente, y
 
-III. En el caso de los representantes de la Asamblea Consultiva de la Comisión, sus suplentes solo podrán ser otros miembros de la propia Asamblea.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
+III. En el caso de los representantes de la Asamblea Consultiva de la Comisión Ejecutiva, sus suplentes solo podrán ser otros miembros de la propia Asamblea.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 6.
 
-Para la acreditación a que se refiere el presente artículo, deberá llevarse a cabo la inscripción del nombramiento o mandato en el Registro Público de Organismos Descentralizados.
+Los nombramientos de los integrantes de la Junta de Gobierno deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 ### CAPÍTULO II. DEL PRESIDENTE DE LA JUNTA DE GOBIERNO
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 7.
 
-El Presidente, además de las funciones conferidas por la Ley, su Reglamento y de las propias de un Integrante tendrá las siguientes:
+El Presidente tendrá las siguientes funciones:
 
 I. Presidir y conducir las sesiones de la Junta de Gobierno;
 
@@ -165,9 +193,13 @@ El Secretario Técnico, podrá ser designado o removido a propuesta del Presiden
 
 El Prosecretario, podrá ser designado o removido a propuesta del Titular de la Comisión Ejecutiva.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-El Secretario Técnico además de las funciones que le son conferidas por la Ley y su Reglamento tendrá las siguientes:
+El Secretario Técnico, asistirá a las sesiones de la Junta de Gobierno con voz, pero sin voto y además de las funciones que le son conferidas por la Ley y su Reglamento tendrá las siguientes:
 
 I. Elaborar por instrucciones del Titular de la Comisión Ejecutiva, las convocatorias a las sesiones de la Junta de Gobierno;
 
@@ -179,7 +211,7 @@ IV. Llevar el registro de asistencia de las sesiones;
 
 V. Por instrucciones del Presidente verificar el quórum legal y efectuar el conteo de las votaciones;
 
-VI. Elaborar, revisar las actas correspondientes de las sesiones de la Junta de Gobierno y someterla a aprobación de los Integrantes;
+VI. Elaborar las actas correspondientes de las sesiones de la Junta de Gobierno para someterla a aprobación de los Integrantes;
 
 VII. Por instrucciones del Presidente, conceder el uso de la palabra en el orden solicitado y moderar las sesiones;
 
@@ -189,9 +221,15 @@ IX. Recabar en las actas, las firmas de los Integrantes que hayan asistido a las
 
 X. Recibir de los Integrantes de la Junta de Gobierno, las propuestas de los temas a tratar en las sesiones;
 
-XI. Instrumentar las acciones de difusión de los trabajos de la Junta de Gobierno, y
+XI. Instrumentar las acciones de difusión de los trabajos de la Junta de Gobierno;
 
-XII. Las demás que le asigne el Presidente.
+XII. Firmar las actas de las sesiones, y
+
+XIII. Las demás que le asigne el Presidente.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 11.
 
@@ -205,11 +243,11 @@ III. Elaborar las listas de asistencia a las sesiones de la Junta de Gobierno;
 
 IV. Apoyar al Secretario Técnico en el registro de la lista de asistencia de las sesiones;
 
-V. Apoyar al Secretario Técnico, con la oportuna anticipación en el envío al enlace electrónico de la convocatoria, el orden del día, la información y documentación de apoyo necesaria sobre los asuntos que se vayan a tratar en las sesiones, previa aprobación del Presidente;
+V. Apoyar al Secretario Técnico, con el envío al enlace electrónico del orden del día, la información y documentación de apoyo necesaria sobre los asuntos que se vayan a tratar en las sesiones, previa aprobación del Presidente;
 
 VI. Elaborar los anteproyectos de actas de las sesiones correspondientes y someterlas a consideración del Secretario Técnico;
 
-VII. Firmar y verificar que las actas de las sesiones sean firmadas por los Integrantes;
+VII. Verificar que las actas de las sesiones sean firmadas por los Integrantes;
 
 VIII. Dar seguimiento a los acuerdos que se adopten en la Junta de Gobierno, y preparar el informe que presente el Secretario a la Junta de Gobierno;
 
@@ -217,9 +255,11 @@ IX. Organizar y operar el archivo documental de la Junta de Gobierno;
 
 X. Mantener actualizados los nombramientos de la Junta de Gobierno;
 
-XI. Suplir las ausencias del Secretario Técnico en la Junta de Gobierno, y
+XI. Suplir las ausencias del Secretario Técnico en la Junta de Gobierno;
 
-XII. Las demás que le encomienden el Presidente y el Secretario Técnico de la Junta de Gobierno.
+XII. Firmar las actas de las sesiones, y
+
+XIII. Las demás que le encomienden el Presidente y el Secretario Técnico de la Junta de Gobierno.
 
 ### CAPÍTULO IV. DEL TITULAR DE LA COMISIÓN EJECUTIVA
 
@@ -287,7 +327,11 @@ II. Son sesiones extraordinarias aquellas que se celebrarán cada que una situac
 
 A las sesiones ordinarias de la Junta de Gobierno convocará el Titular de la Comisión Ejecutiva.
 
-Las sesiones extraordinarias, podrán ser propuestas por el Presidente o el Titular de la Comisión Ejecutiva o al menos tres de los Integrantes de la Junta de Gobierno.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
+Las sesiones extraordinarias, podrán ser propuestas por el Presidente, el Titular de la Comisión Ejecutiva o al menos tres de los Integrantes de la Junta de Gobierno.
 
 ###### Artículo 17.
 
@@ -301,23 +345,39 @@ III. Adjuntar el orden del día previamente aprobado por el Presidente, y
 
 IV. Se deberá de acompañar de la información y documentación correspondiente, que permita el conocimiento de los asuntos que se vayan a tratar.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 18.
 
-Los Integrantes de la Junta de Gobierno deberán remitir al Secretario Técnico los documentos y anexos indispensables con, por lo menos, cinco días hábiles previos a la fecha de expedición de la convocatoria de acuerdo a la solicitud que formule conforme al calendario de sesiones aprobado, en su caso.
+Los Integrantes de la Junta de Gobierno, deberán remitir al Secretario Técnico los documentos y anexos indispensables con, por lo menos, cinco días hábiles previos a la fecha de expedición de la convocatoria de sesiones ordinarias, de acuerdo a la solicitud que formule a través de los medios que considere oportunos, conforme al calendario de sesiones aprobado, en su caso.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 19.
 
-Para la celebración de las sesiones ordinarias o extraordinarias, la convocatoria se enviará a los Integrantes, a través del enlace electrónico que al efecto se habilite y en su caso a través de los medios que se considere oportunos, por lo menos con cinco días hábiles de anticipación a la celebración de la misma.
+Para la celebración de las sesiones ordinarias, la convocatoria se podrá enviar a los Integrantes, a través del enlace electrónico que al efecto se habilite y en su caso, a través de los medios que se considere oportunos, por lo menos con cinco días hábiles de anticipación a la celebración de la misma.
 
 En caso de que se requiera la asistencia de personas invitadas, la convocatoria se les remitirá por lo menos con dos días naturales de anticipación a la fecha fijada.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 20.
 
-En el caso de las sesiones extraordinarias, la convocatoria deberá expedirse por lo menos con cinco días naturales de anticipación a la fecha de su celebración. En estos casos la convocatoria podrá enviarse a través del enlace electrónico que al efecto se habilite, o por los medios que se considere oportunos.
+En el caso de las sesiones extraordinarias, la convocatoria deberá expedirse por lo menos con dos días hábiles de anticipación a la fecha de su celebración. En estos casos la convocatoria podrá enviarse a través del enlace electrónico que al efecto se habilite, o por los medios que se considere oportunos.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 21.
 
-La convocatoria e información y documentación correspondiente a las sesiones, se remitirá de manera digital, a través de un enlace electrónico, el cual será habilitado por el Titular de la Comisión Ejecutiva, mismo que podrán consultar los Integrantes de la Junta de Gobierno.
+La convocatoria, información y documentación correspondiente a las sesiones, se podrá remitir de manera digital, a través del enlace electrónico que será habilitado por el Titular de la Comisión Ejecutiva, mismo que podrán consultar los Integrantes de la Junta de Gobierno.
 
 ### CAPÍTULO III. DE LOS ASUNTOS URGENTES
 
@@ -341,9 +401,13 @@ El Secretario Técnico informará a los Integrantes de la solicitud de inclusió
 
 ### CAPÍTULO V. DEL QUÓRUM
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 25.
 
-Para llevar a cabo las sesiones de la Junta de Gobierno deberá haber quórum, en términos de lo dispuesto por el artículo 20 de la Ley Federal de las Entidades Paraestatales y 17 de su Reglamento.
+Para llevar a cabo las sesiones de la Junta de Gobierno deberá haber quórum, en términos de lo dispuesto por el artículo 84 Sexíes de la Ley.
 
 ###### Artículo 26.
 
@@ -391,11 +455,15 @@ Al aprobarse el orden del día, se consultará en votación económica si se dis
 
 Durante la sesión, los asuntos contenidos en el orden del día serán analizados y, en su caso, votados, salvo cuando la propia Junta de Gobierno acuerde posponer la discusión o votación de algún asunto.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 36.
 
-En cada punto del orden del día, el Presidente, por conducto del Secretario Técnico cederá el uso de la palabra de manera ordenada a los Integrantes, e invitados que quieran hacer uso de ésta, y cuando lo estime procedente preguntará si está suficientemente discutido el asunto.
+En cada punto del orden del día, el Presidente, por conducto del Secretario Técnico cederá el uso de la palabra de manera ordenada a los Integrantes, e invitados que quieran hacer uso de ésta.
 
-Concluido el intercambio de opiniones, el Presidente por conducto del Secretario Técnico preguntará a los Integrantes e invitados de la Junta de Gobierno si está suficientemente discutido el asunto. En su caso, la Junta de Gobierno se dará por enterada o se pasará a la votación correspondiente. Si ninguna persona solicita la palabra, se procederá a la votación o se dará por enterada la Junta de Gobierno, según sea el caso.
+Concluido el intercambio de opiniones, el Presidente, por conducto del Secretario Técnico, preguntará a los Integrantes e invitados si está suficientemente discutido el asunto. En el supuesto de que ningún integrante solicite la palabra, se procederá a la votación correspondiente o, en su caso, la Junta de Gobierno tomará conocimiento del asunto.
 
 ### CAPÍTULO VIII. DE LA VOTACIÓN
 
@@ -435,7 +503,11 @@ VI. El sentido de los votos de los Integrantes de la Junta de Gobierno;
 
 VII. Acuerdos y resoluciones aprobados, y
 
-VIII. Firma de todos los Integrantes que asistan a la misma, así como del Secretario Técnico.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2018)</small>
+
+VIII. Firma de todos los Integrantes que asistan a la misma, así como del Secretario Técnico y Prosecretario de la Junta de Gobierno.
 
 El acta aprobada deberá incluir las modificaciones que las personas Integrantes de la Junta de Gobierno hayan aprobado, en su caso.
 
@@ -532,3 +604,75 @@ en su versión -de-sesiones-de-la-junta-de-gobierno- de-la-
 ?idiom=es
 
 Ciudad de México, a 2 de agosto de 2017.- El Comisionado Ejecutivo, Sergio Jaime Rochín del Rincón.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "AVISO MEDIANTE EL CUAL SE INFORMA DE LA PUBLICACIÓN DE LA REFORMA AL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS, EN LA PÁGINA DE INTERNET INSTITUCIONAL DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/ceav/documentos/reglamento-de-sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-de-atencion-a-victimas?idiom=es Y www.dof.gob.mx/2018/CEAV/Reglamento_de_Sesiones_JG.pdf]</small>
+
+ÚNICO. El presente Reglamento entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO MEDIANTE EL CUAL SE INFORMA DE LA PUBLICACIÓN DE LA REFORMA AL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS, EN LA PÁGINA DE INTERNET INSTITUCIONAL DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS"QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO MEDIANTE EL CUAL SE INFORMA DE LA PUBLICACIÓN DE LA REFORMA AL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS, EN LA PÁGINA DE INTERNET INSTITUCIONAL DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
+
+Denominación: Reforma al Reglamento de Sesiones de la Junta de
+
+Gobierno de la Comisión Ejecutiva de Atención a Víctimas.
+
+Emisor: Comisionado Ejecutivo de la Comisión Ejecutiva de
+
+Atención a Víctimas.
+
+Fundamento Artículos 84 Ter, 84 Quáter, 84 Quinquies, 84 Sexíes,
+
+Jurídico: 84 Septies, fracción I de la Ley General de Víctimas; 17,
+
+18, 20, y 58 de la Ley Federal de las Entidades
+
+Paraestatales, y 17, 18, y 19 del Reglamento de la Ley
+
+Federal de las Entidades Paraestatales.
+
+Fecha de El 18 de septiembre de 2018.
+
+aprobación
+
+de la Junta
+
+de Gobierno:
+
+Objetivo El Reglamento de Sesiones de la Junta de Gobierno de la
+
+del Reglamento Comisión Ejecutiva de Atención a Víctimas tiene por objeto
+
+de Sesiones regular la celebración y desarrollo de las sesiones de la Junta
+
+de la Junta de de Gobierno de la Comisión Ejecutiva de Atención a Víctimas,
+
+Gobierno de la así como la participación de sus integrantes en las mismas.
+
+Comisión
+
+Ejecutiva Los artículos reformados en la Tercera Sesión Ordinaria de la
+
+de Atención a Junta de Gobierno son 2, 5, 6, 7, 10, 11, 16, 18, 19, 20, 21,
+
+Víctimas y de 25, 36 y 40.
+
+la reforma:
+
+URL para https://www.gob.mx/ceav/documentos/reglamento-de-
+
+consulta en sesiones-de-la-junta-de-gobierno-de-la-comision-ejecutiva-
+
+su versión de-atencion-a-victimas?idiom=es
+
+íntegra:
+
+Consulta www.dof.gob.mx/2018/CEAV/Reglamento_de
+
+D.O.F. _Sesiones_JG.pdf
