@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-alumbrado-publico-para-el-municipio-de-55510"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-10-04"
-last_updated: "2010-02-12"
+last_updated: "2018-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 ---
 # REGLAMENTO DE ALUMBRADO PUBLICO PARA EL MUNICIPIO DE CULIACAN, SINALOA
 
-REGLAMENTO DE ALUMBRADO PUBLICO PARA EL MUNICIPIO DE CULIACAN, SINALOA
+REGLAMENTO DE ALUMBRADO PÚBLICO PARA EL MUNICIPIO DE CULIACÁN, SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 4 de octubre de 1995.
 
@@ -311,25 +311,33 @@ IV.- Arresto hasta por 36 horas.
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 31.
 
-La imposición de las multas se fijará teniendo como base el salario mínimo general diario vigente en la zona del municipio de Culiacán.
+La imposición de las multas se fijará teniendo como base la Unidad de Medida y Actualización.
 
 ###### ARTICULO 32.
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 33.
 
-Se impondrá amonestación a quienes por primera ocasión contravengan lo dispuesto por el artículo 24 de este reglamento. En caso de reincidencia se sancionará al infractor con multa de una a tres veces el salario mínimo.
+Se impondrá amonestación a quienes por primera ocasión contravengan lo dispuesto por el artículo 24 de este reglamento. En caso de reincidencia se sancionará al infractor con multa de una a tres veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 34.
 
-Se sancionará con multa de tres a seis veces el salario mínimo a los infractores de los (sic) dispuesto por las fracciones II, III, IV, V y VI del artículo 25 de este reglamento.
+Se sancionará con multa de tres a seis veces el valor diario de la Unidad de Medida y Actualización a los infractores de lo dispuesto por las fracciones II, III, IV, V y VI del artículo 25 de este reglamento.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 35.
 
-Se sancionará con multa de seis a veinte veces el salario mínimo a los infractores de lo dispuesto en la fracción I del artículo 25 de este reglamento.
+Se sancionará con multa de seis a veinte veces el valor diario de la Unidad de Medida y Actualización a los infractores de lo dispuesto en la fracción I del artículo 25 de este reglamento.
 
 ###### ARTICULO 36.
 
@@ -416,3 +424,11 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de qu
 Artículo Segundo. Como consecuencia de las adiciones, modificaciones y derogaciones de las normas contenidas en el presente Decreto, las dependencias de la Administración Pública Municipal, deberán ajustar sus actuaciones en lo general y de manera específica por cuanto se refiere a inspecciones, vigilancia, infracciones, sanciones y medios de impugnación en lo dispuesto por el Reglamento Administrativo y Medios de Impugnación del Municipio de Culiacán.
 
 Artículo Tercero. Además de las materias señaladas en el artículo tercero del Reglamento de Procedimientos Administrativos y Medios de Impugnación del Municipio de Culiacán, Sinaloa, quedan excluidos de su aplicación en él establecida, las materias que regulan el Reglamento de Adquisiciones, Contratación de Arrendamientos, Servicios y Enajenación de Bienes Muebles del Municipio de Culiacán, Sinaloa.
+
+P.O. 12 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NO. 26 DE CULIACÁN.- POR EL QUE SE REFORMAN DIVERSOS REGLAMENTOS DEL MUNICIPIO DE CULIACÁN, SINALOA, PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIA O REFERENCIA Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
