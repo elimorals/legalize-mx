@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2018-09-15"
+last_updated: "2018-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3663,7 +3663,7 @@ Las anteriores sanciones se impondrán con independencia de otros delitos que se
 
 195.- Comete el delito de pornografía infantil:
 
-I.- Quien sin fines comerciales o de explotación induzca, procure, facilite u obligue que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza, Independientemente de que se logre la finalidad;
+I.- Quien sin fines comerciales o de explotación induzca, procure, facilite u obligue que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza, independientemente de que se logre la finalidad;
 
 II.- Quien sin fines comerciales o de explotación fije, grabe, videograbe, fotografíe o filme de cualquier forma actos sexuales o de exhibicionismo corporal de índole sexual, explícitos o no, reales o simulados, en que participen una o más personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho;
 
@@ -4487,7 +4487,7 @@ Si el acosador es servidor público y se vale de medios o circunstancias que el 
 
 Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista.
 
-En el supuesto anterior, el delito se perseguirá de oficio. En lo demás casos se procederá contra el responsable a petición de parte ofendida.
+En el supuesto anterior, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte ofendida.
 
 242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
@@ -5299,7 +5299,7 @@ Se entiende por vehículo de motor, para los efectos de este artículo, las moto
 
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-Se entiende por maquinaria pesada todo aquel vehículo automotor que se utilice en los procesos de construcción y obras industriales, incluidas las de minería, construcción y conservación de obras, que por sus características no pueden transitar por las vías de uso público o privadas abiertas al público.
+Se entiende por maquinaria pesada todo aquel vehículo automotor que se utilice en los procesos de construcción u obras industriales, incluidas las de minería, construcción y conservación de obras, que por sus características no pueden transitar por las vías de uso público o privadas abiertas al público.
 
 II.- De partes de vehículos automotores o de objetos de que se encuentren en el interior de los mismos, se aplicará de tres a siete años de prisión y de cien a doscientos días multa, salvo que el monto de lo robado exceda de los quinientos salarios, pues entonces la sanción será la prevista en la fracción anterior; y
 
@@ -5425,7 +5425,7 @@ Abigeato.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnal; y, como ganado menor: al cabrío, el lanar y el porcino.
+371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnar; y, como ganado menor: al cabrío, el lanar y el porcino.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2015)</small>
 
@@ -5549,7 +5549,7 @@ Son aplicables a este delito, en lo conducente, las disposiciones del artículo 
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2011)</small>
 
-379.- Se equiparara al delito de retención y se castigará con pena de cinco a quince años de prisión al dueño, directivo, socio, gerente, empleado o responsable de cualquier entidad, organismo, empresa o negocio, dedicado a actividades financieras de ahorro o inversión, cualquiera que sea la figura legal o fáctica en que se haya constituido, que sin causa legal, por si o por sus subordinados, se niegue a devolver las cantidades ahorradas, invertidas o depositadas a quien tenga derecho a ellas.
+379.- Se equipara al delito de retención y se castigará con pena de cinco a quince años de prisión al dueño, directivo, socio, gerente, empleado o responsable de cualquier entidad, organismo, empresa o negocio, dedicado a actividades financieras de ahorro o inversión, cualquiera que sea la figura legal o fáctica en que se haya constituido, que sin causa legal, por si o por sus subordinados, se niegue a devolver las cantidades ahorradas, invertidas o depositadas a quien tenga derecho a ellas.
 
 Este delito se perseguirá de oficio.
 
@@ -5655,11 +5655,11 @@ Despojo de cosas inmuebles o de aguas.
 
 I.- Que de propia autoridad ocupe un inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
 
-II.- Que de propia autoridad ocupe un inmueble de su propiedad en los casos en los que la ley no lo permite por hallarse en poder de otra persona; o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
+II.- Que de propia autoridad ocupe un inmueble de su propiedad en los casos en los que la ley no lo permite por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
 
 III.- Quien, con propósito de apropiarse de una fracción o de la totalidad del inmueble, altere términos o linderos de predios, o cualquier clase de señales o mojoneras, destinadas a fijar los límites de predios contiguos, tanto de dominio privado como de dominio público;
 
-IV.- Quien de propia autoridad ocupe uno o más predios que forman parte de la reserva territorial del Estado o de los Municipios, sin derecho ni autorización de autoridad competente, aún cuando con ello tipifiquen su acción en un asentamiento irregular;
+IV.- Quien de propia autoridad ocupe uno o más predios que forman parte de la reserva territorial del Estado o de los Municipios, sin derecho ni autorización de autoridad competente, aun cuando con ello tipifiquen su acción en un asentamiento irregular;
 
 V.- Quien de propia autoridad ocupe un inmueble o las riveras que forman parte de la infraestructura o reserva territorial del Estado, o de los Municipios, sin derecho ni autorización de autoridad competente;
 
@@ -5669,15 +5669,17 @@ VII.- Quien despoje de aguas del ámbito estatal o aguas nacionales asignadas al
 
 El delito de despojo, se perseguirá a petición de parte ofendida, con excepción de las fracciones IV, V y VII, en cuyo caso se perseguirá de oficio.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
 
 385.- Al responsable del delito de despojo se le aplicarán:
 
-I.- De tres a cinco años de prisión y multa de doscientos a cuatrocientos días de salario mínimo general vigente en el Estado, cuando el valor de lo despojado no exceda de siete mil ochocientos cuarenta veces dicho salario mínimo;
+I. De tres a cinco años de prisión y multa de doscientos a cuatrocientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado no exceda de siete mil ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización;
 
-II. De cinco a diez años de prisión y multa de cuatrocientos a seiscientos días de salario mínimo general vigente en el Estado, cuando el valor de lo despojado exceda de siete mil ochocientos cuarenta veces el dicho salario mínimo, pero no de veintitrés mil quinientos veintidós;
+II. De cinco a diez años de prisión y multa de cuatrocientos a seiscientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado exceda de siete mil ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización;
 
-III.- De diez a quince años de prisión y multa de seiscientos a ochocientos días salario mínimo general vigente en el Estado, cuando el valor de lo despojado exceda de veintitrés mil quinientos veintidós veces el dicho salario mínimo.
+III. De diez a quince años de prisión y multa de seiscientos a ochocientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado exceda de veintitrés mil quinientos veintidós veces el valor de la Unidad de Medida y Actualización.
+
+Cuando el delito se cometa en contra de los grupos vulnerables a que se refiere la fracción II del artículo 8° de la Ley de Desarrollo Social para el Estado de Oaxaca, las penas previstas, se incrementarán hasta en una mitad.
 
 La punibilidad será aplicable, aun cuando el derecho a la posesión del objeto material del despojo sea dudoso o esté en disputa.
 
@@ -5841,7 +5843,7 @@ II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o Incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
+409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5895,7 +5897,7 @@ Se entiende por misoginia las conductas contra la mujer que se manifiestan media
 
 Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
-Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
+Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
 
@@ -6700,3 +6702,9 @@ P.O. 15 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1542.- MEDIANTE CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1564.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
