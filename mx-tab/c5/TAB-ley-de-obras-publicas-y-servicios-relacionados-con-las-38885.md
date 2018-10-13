@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-obras-publicas-y-servicios-relacionados-con-las-38885"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2017-12-09"
+last_updated: "2018-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
 
 Ley publicada en el suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 7 de abril de 2004.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO; Y
 
-......
+[...]
 
 DECRETO NÚMERO 007
 
@@ -719,9 +719,11 @@ La convocante podrá cancelar una licitación por caso fortuito o de fuerza mayo
 
 ### CAPÍTULO CUARTO. De las Excepciones a la Licitación Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 44.
 
-En los supuestos y con sujeción a las formalidades que prevé el artículo 46 del presente ordenamiento jurídico, las Dependencias y Entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de las modalidades de invitación a cuando menos cinco personas o de adjudicación directa.
+Las Dependencias y Entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de las modalidades de invitación a cuando menos cinco personas o de adjudicación directa.
 
 La opción que las Dependencias y Entidades ejerzan deberá motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
@@ -751,9 +753,11 @@ II.-Por causa de desastres naturales, fenómenos meteorológicos extraordinarios
 
 III.- Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, debidamente justificados;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IV.- Sea necesario para garantizar la seguridad interior del Estado o la Nación o comprometan información de naturaleza confidencial para el gobierno federal, estatal o municipal;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+IV.- Sea necesario para garantizar LA SEGURIDAD INTERIOR DEL ESTADO O LA NACIÓN, la seguridad pública, la procuración de justicia, la reinserción social o comprometan información de naturaleza confidencial para el gobierno federal, estatal o municipal;
 
 V.- Derivado de casos fortuitos o de fuerza mayor en los que no sea posible ejecutar los trabajos mediante el procedimiento de licitación pública por la urgencia requerida para atender la eventualidad de que se trate. En estos casos los trabajos por ejecutar deberán limitarse a lo estrictamente necesario para afrontar dicha eventualidad;
 
@@ -767,11 +771,25 @@ VII.- Se haya declarado desierta una licitación pública, siempre que se manten
 
 VIII.- Se trate de trabajos de conservación, mantenimiento, restauración, reparación y demolición de inmuebles, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos, cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
 
-IX.- Se trate de trabajos que requieran fundamentalmente de mano de obra en zonas rurales o urbanas marginadas y que la Dependencia o Entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deban realizarse o con las personas morales o agrupaciones legalmente constituidas por los propios beneficiarios; y
+IX.- Se trate de trabajos que requieran fundamentalmente de mano de obra en zonas rurales o urbanas marginadas y que la Dependencia o Entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deban realizarse o con las personas morales o agrupaciones legalmente constituidas por los propios beneficiarios;
 
-X.- Se trate de servicios profesionales prestados por personas físicas, cuando sean realizados por sí mismas sin requerir de la utilización de más de un especialista o técnico.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+X.- Se trate de servicios profesionales prestados por personas físicas, cuando sean realizados por sí mismas sin requerir de la utilización de más de un especialista o técnico;
+
+(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+XI.- SE TRATE DE OBRAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, QUE SEAN NECESARIOS PARA LA REALIZACIÓN DE PROYECTOS ESTRATÉGICOS QUE DETONEN EL EMPLEO Y MEJOREN LA INFRAESTRUCTURA IMPULSANDO EL DESARROLLO ECONÓMICO DEL ESTADO; Y
+
+(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+XII.- SE TRATE DE OBRAS Y SERVICIOS RELACIONADOS CON LAS MISMAS QUE SEAN CONVENIDOS CON LA FEDERACIÓN O CON LAS EMPRESAS PRODUCTIVAS DEL ESTADO PARA LA REALIZACIÓN DE PROYECTOS ESTRATÉGICOS RESPECTO A LAS ACTIVIDADES EN MATERIA ENERGÉTICA PREVISTOS POR LAS LEYES DE LA MATERIA.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -781,11 +799,13 @@ En todo caso se convocará a la o las personas que cuenten con capacidad de resp
 
 En el supuesto de que en dos ocasiones un procedimiento de invitación a cuando menos a tres personas se haya declarado desierto, la Dependencia o Entidad convocante podrá adjudicar directamente el contrato.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 46.
 
-Las Dependencias y Entidades, bajo su responsabilidad, podrán contratar Obra Pública y Servicios relacionados con las mismas, a través de los procedimientos de adjudicación directa o invitación a cuando menos tres personas, cuando el importe de cada operación no exceda los montos máximos que se establezcan en el Reglamento de esta Ley en la inteligencia de que, en ningún caso, este importe deberá fraccionarse para quedar comprendido en los supuestos a que se refiere este artículo.
+CON LA EXCEPCIÓN DE LOS CASOS PREVISTOS EN EL ARTÍCULO 45, FRACCIONES IV, XI Y XII DE ESTA LEY, las Dependencias y Entidades, bajo su responsabilidad, podrán contratar Obra Pública y Servicios relacionados con las mismas, a través de los procedimientos de adjudicación directa o invitación a cuando menos tres personas, cuando el importe de cada operación no exceda los montos máximos que se establezcan en el Reglamento de esta Ley en la inteligencia de que, en ningún caso, este importe deberá fraccionarse para quedar comprendido en los supuestos a que se refiere este artículo.
 
 ###### Artículo 47.
 
@@ -1544,3 +1564,19 @@ Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relati
 DÉCIMO. El 30% del coeficiente de distribución de la recaudación excedente del Fondo de Fomento Municipal con respecto a 2013, y el año en que se efectúe el cálculo, en términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, que a la entrada en vigor del presente decreto le corresponda a los municipios, se distribuirá en términos de lo dispuesto en el artículo 16 Quáter de la presente Ley.
 
 DÉCIMO PRIMERO. Las promociones a que se refiere el artículo 19 del Código Fiscal del Estado de Tabasco, que se hubieran presentado con anterioridad a la entrada en vigor del presente decreto, continuarán su trámite hasta su resolución conforme a las disposiciones vigentes a la fecha de su presentación.
+
+P.O. 13 DE OCTUBRE DE 2018.
+
+> <small>[N. DE E. DECRETO 001 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 44, PRIMER PÁRRAFO; 45, FRACCIONES IV, IX Y X; Y 46; Y SE ADICIONAN LAS FRACCIONES XI Y XII AL ARTÍCULO 45, TODOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Tabasco, y al Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado (sic) Tabasco, dentro de los 180 días naturales a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
