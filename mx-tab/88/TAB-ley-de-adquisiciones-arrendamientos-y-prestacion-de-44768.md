@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-44768"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-27"
-last_updated: "2017-12-09"
+last_updated: "2018-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 27 de abril de 2005.
 
@@ -99,7 +99,9 @@ XII. Licitación Pública: Procedimiento por el cual se expide convocatoria púb
 
 XIII. Licitación Simplificada, Mayor o Menor: Procedimiento mediante el cual se realizan adquisiciones o contratan arrendamientos y servicios, sin sujetarse al procedimiento de Licitación Pública, a través de la invitación a un número mínimo de licitantes con capacidad de respuesta inmediata y por los montos máximos establecidos en el Reglamento de la presente Ley;
 
-XIV. Adjudicación Directa: Procedimiento por el cual se fincan pedidos o celebran contratos de manera directa, hasta por el monto establecido en el Reglamento de esta Ley, sin llevar a cabo licitaciones públicas o simplificadas, bajo la responsabilidad de las dependencias, órganos o entidades, siempre que se cumplan las condiciones que para ello establece esta Ley;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+XIV. Adjudicación Directa: Procedimiento por el cual se fincan pedidos o celebran contratos de manera directa, sin llevar a cabo licitaciones públicas o simplificadas, bajo la responsabilidad de las dependencias, órganos o entidades, siempre que se cumplan la condiciones que para ello establece esta Ley;
 
 XV. Licitante: Persona física o jurídica colectiva que participa con una propuesta cierta y determinada en cualquier procedimiento de Licitación Pública o Simplificada, en el marco de la presente Ley;
 
@@ -301,7 +303,9 @@ De igual modo la Secretaría, de conformidad con el Reglamento, podrá promover 
 
 Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones en cuanto a precios, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la Ley.
 
-Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el pedido o contrato sólo pueda fincarse o celebrarse con una determinada persona, por ser ésta la titular de la, o de las patentes, de los bienes o servicios; cuando el bien que se pretenda adquirir sea una obra de arte; y cuando se traten derechos de autor u otros derechos exclusivos, contemplados en la Ley de la materia.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el pedido o contrato sólo pueda fincarse o celebrarse con una determinada persona, por ser ésta la titular de la, o de las patentes, de los bienes o servicios; cuando el bien que se pretenda adquirir sea una obra de arte; cuando se traten derechos de autor u otros derechos exclusivos, y cuando se trate de los supuestos previstos en los artículos 25, 39, 39 bis y 40 de la Ley.
 
 Cuando los bienes, arrendamientos o servicios que pretendan adquirir en términos del primer párrafo, sean para destinarlos al fortalecimiento de los sectores estratégicos del Estado, sólo podrán participar en las licitaciones mediante convocatoria pública los proveedores, sin perjuicio de lo dispuesto en el artículo 7 de ésta Ley y en concordancia con lo previsto en el artículo 14, fracciones V y VI, de la misma.
 
@@ -559,9 +563,11 @@ IV. En junta pública se dará a conocer el fallo de la Licitación Pública, a 
 
 V. En el mismo acto de fallo o adjunta a la comunicación referida en la fracción anterior, la convocante dará a conocer a los licitantes las razones fundadas, por las cuales, en su caso, su propuesta no fue elegida y se levantará el acta de fallo de la Licitación Pública que deberán firmar los licitantes. La falta de firma de los licitantes, no invalidará los efectos y contenido del acta. La convocante podrá diferir por una sola vez, cualquier acto del proceso licitatorio por convocatoria pública, fundando y motivando debidamente tal decisión, cuando así convenga a los intereses del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 34.
 
-La Convocante con base en el análisis comparativo de las proposiciones admitidas y en el presupuesto, emitirá un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o Contrato al licitante que reúna los requisitos legales y las mejores condiciones técnicas y económicas requeridas en las bases y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+La Convocante con base en el análisis comparativo de las proposiciones admitidas y en el presupuesto, emitirá un dictamen que servirá como fundamento para el fallo, mediante el cual se adjudicará el pedido o Contrato al licitante o proveedor que reúna los requisitos legales y las mejores condiciones técnicas y económicas requeridas en las bases y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
 Si resultare que dos o más proposiciones satisfacen los requerimientos de la Convocante, el pedido o Contrato se adjudicará a quien presente la proposición solvente más baja.
 
@@ -617,9 +623,19 @@ El Titular del Poder Ejecutivo del Estado podrá autorizar a la Secretaría el f
 
 I. Cuando se realicen con fines de seguridad;
 
-II. Cuando peligre la integridad de los habitantes del Estado; y
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
 
-III. Cuando sea necesario salvaguardar los intereses del Estado.
+II. Cuando peligre la integridad de los habitantes del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+III. Cuando sea necesario salvaguardar los intereses del Estado; y
+
+(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+IV. CUANDO SE TRATE DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE SEAN NECESARIOS PARA LA REALIZACIÓN DE PROYECTOS, OBRAS Y/O ACCIONES QUE DETONEN EL EMPLEO, MEJOREN LA INFRAESTRUCTURA E IMPULSEN EL DESARROLLO ECONÓMICO Y/O SOCIAL DEL ESTADO.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -649,13 +665,35 @@ VII. Cuando existan razones justificadas para la adquisición y arrendamiento de
 
 VIII. Cuando se trate de adquisiciones provenientes de personas físicas o jurídicas colectivas que en razón de encontrarse en estado de liquidación o disolución, o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
 
-IX. Cuando se trate de patentes de bienes o servicios, obras de arte, derechos de autor u otros derechos exclusivos, contemplados en la Ley de la materia; y;
+IX.- Cuando se trate de patentes de bienes o servicios, obras de arte, derechos de autor u otros derechos exclusivos, contemplados en la Ley de la materia;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
 
-X. Cuando se trate de armamento, vehículos, equipo, bienes o servicios relacionados directamente con la seguridad pública, la procuración de justicia y la reinserción social.
+X.- Cuando se trate de armamento, vehículos, equipo, bienes o servicios relacionados directamente con la seguridad pública, la procuración de justicia y la reinserción social;
+
+(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+XI.- CUANDO SE TRATE DE ADQUISICIONES ARRENDAMIENTOS Y SERVICIOS, QUE SEAN NECESARIOS PARA LA REALIZACIÓN DE PROYECTOS ESTRATÉGICOS QUE SEAN CONVENIDOS CON LA FEDERACIÓN O CON LAS EMPRESAS PRODUCTIVAS DEL ESTADO RESPECTO A LAS ACTIVIDADES EN MATERIA ENERGÉTICA PREVISTAS POR LAS LEYES RESPECTIVAS;
+
+(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+XII.- CUANDO SE TRATE DE ADQUISICIONES ARRENDAMIENTOS Y SERVICIOS, QUE SEAN NECESARIOS PARA ATENDER PROGRAMAS O PROYECTOS DESTINADOS A DETONAR EL EMPLEO, MEJORAR LA INFRAESTRUCTURA E IMPULSAR EL DESARROLLO ECONÓMICO Y SOCIAL DEL ESTADO;
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+XIII.- Cuando se trate de adquisiciones, arrendamientos o servicios que se requieran para atender los casos previstos en el artículo 39 Bis de esta Ley; y
+
+(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+XIV.- EN LOS CASOS Y POR EL MONTO QUE DETERMINE EL COMITÉ DE COMPRAS CON LA FINALIDAD DE ATENDER LA OPERATIVIDAD DE LA SECRETARÍA, DEPENDENCIAS, ÓRGANOS Y ENTIDADES.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1151,7 +1189,7 @@ Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el sa
 
 P.O. 9 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 138 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, 31, FRACCIÓN I Y SU SEGUNDO PÁRRAFO, 32, FRACCIONES I, II Y III, 49 SU SEGUNDO PÁRRAFO; SE ADICIONAN AL ARTÍCULO 31 UN ÚLTIMO PÁRRAFO, TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO 138 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3, 31, FRACCIÓN I Y SU SEGUNDO PÁRRAFO, 32, FRACCIONES I, II Y III, 49 SU SEGUNDO PÁRRAFO; SE ADICIONAN AL ARTÍCULO 31 UN ÚLTIMO PÁRRAFO, TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, con las salvedades previstas en los artículos transitorios siguientes.
 
@@ -1258,3 +1296,19 @@ Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relati
 DÉCIMO. El 30% del coeficiente de distribución de la recaudación excedente del Fondo de Fomento Municipal con respecto a 2013, y el año en que se efectúe el cálculo, en términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, que a la entrada en vigor del presente decreto le corresponda a los municipios, se distribuirá en términos de lo dispuesto en el artículo 16 Quáter de la presente Ley.
 
 DÉCIMO PRIMERO. Las promociones a que se refiere el artículo 19 del Código Fiscal del Estado de Tabasco, que se hubieran presentado con anterioridad a la entrada en vigor del presente decreto, continuarán su trámite hasta su resolución conforme a las disposiciones vigentes a la fecha de su presentación.
+
+P.O. 13 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 001 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XIV; 21, PÁRRAFO SEGUNDO; 34, PÁRRAFO PRIMERO; 38, FRACCIONES II Y III; Y 39 FRACCIONES IX Y X; Y SE ADICIONAN LOS ARTÍCULOS 38, FRACCIÓN IV, Y 39 FRACCIONES XI, XII, XIII, Y XIV, TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Tabasco, y al Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado Tabasco, dentro de los 180 días naturales a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
