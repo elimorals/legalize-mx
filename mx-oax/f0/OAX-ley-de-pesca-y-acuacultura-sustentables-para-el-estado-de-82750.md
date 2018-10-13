@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-82750
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2013-02-12"
+last_updated: "2018-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el día jueves 18 del año 2011.
 
@@ -227,7 +227,7 @@ Cuando, por razón de la materia y de conformidad con la Ley Orgánica del Poder
 
 Corresponde a la SEPESCA, el ejercicio de las siguientes atribuciones:
 
-l. Promover, fomentar y administrar el aprovechamiento y desarrollo de los recursos pesqueros y acuícolas, definiendo las especies prioritarias;
+I. Promover, fomentar y administrar el aprovechamiento y desarrollo de los recursos pesqueros y acuícolas, definiendo las especies prioritarias;
 
 II. Formular, promover, coordinar y ejecutar la política estatal en materia de pesca y acuacultura, así como los planes y programas que de ella se deriven;
 
@@ -273,7 +273,7 @@ XXI. Promover la organización y capacitación para el trabajo pesquero y acuíc
 
 XXII. Promover y apoyar la investigación, la innovación y el desarrollo tecnológico de la pesca y la acuacultura, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva en la Entidad;
 
-XXIII. Establecer las bases de coordinación con el lNAPESCA, como organismo rector de la investigación científica y tecnológica del sector pesquero y acuícola;
+XXIII. Establecer las bases de coordinación con el INAPESCA, como organismo rector de la investigación científica y tecnológica del sector pesquero y acuícola;
 
 XXIV. Integrar y operar el Consejo Estatal de Pesca y Acuacultura para promover la participación de los productores y comunidades en la administración y manejo de los recursos pesqueros y acuícolas;
 
@@ -309,7 +309,7 @@ Además de las atribuciones señaladas con anterioridad, corresponden al Estado 
 
 Para la consecución de los objetivos de la presente Ley, la SEPESCA y, en su caso, con la participación de los municipios, podrá celebrar convenios o acuerdos de coordinación con la Federación, con el objeto de asumir las siguientes funciones:
 
-l. La administración de los permisos para la realización de pesca deportivo-recreativa;
+I. La administración de los permisos para la realización de pesca deportivo-recreativa;
 
 II.- La administración sustentable de las especies sésiles, que se encuentren en los sistemas lagunarios estuarinos y el mar territorial frente a sus costas, que se determinen previamente en la Carta Nacional Pesquera y en la Carta Nacional Acuícola;
 
@@ -325,7 +325,7 @@ VI.- La inspección y vigilancia en cumplimiento de esta Ley y demás disposicio
 
 Los convenios y acuerdos de coordinación que suscriba el Estado, a través de la SEPESCA, deberán sujetarse a lo siguiente:
 
-l. Establecer su objeto con precisión, las materias y facultades que se asumirán, que deberán ser acordes con la Política Nacional de Pesca y Acuacultura Sustentables, así como la que establece en esta materia, el Plan Estatal de Desarrollo del Estado de Oaxaca;
+I. Establecer su objeto con precisión, las materias y facultades que se asumirán, que deberán ser acordes con la Política Nacional de Pesca y Acuacultura Sustentables, así como la que establece en esta materia, el Plan Estatal de Desarrollo del Estado de Oaxaca;
 
 II. Establecerán las responsabilidades y la participación de cada una de las partes, los bienes y recursos aportados por cada una, su destino y su forma de administración;
 
@@ -383,31 +383,43 @@ Las contribuciones que por el aprovechamiento de los recursos pesqueros y acuíc
 
 ### CAPÍTULO I. PRINCIPIOS GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 17.
 
-En la formulación y conducción de la Política Estatal de Pesca y Acuacultura Sustentables, en la aplicación de los programas e instrumentos que se deriven de esta Ley, el Estado observará los siguientes principios:
+En la formulación, conducción y aplicación de la Política Estatal y Municipal de Pesca y Acuacultura Sustentable, el Estado y los Municipios, en el ámbito de sus respectivas competencias, observará las siguientes acciones:
 
-I. El Estado reconoce que la pesca y la acuacultura son actividades que fortalecen la soberanía alimentaria y territorial, que son prioridad para la planeación estatal del desarrollo y la gestión integral de los recursos pesqueros y acuícolas;
+I. El Estado reconoce que la pesca y la acuacultura son actividades que fortalecen su soberanía alimentaria y territorial y son prioridad para la planeación del desarrollo y la gestión integral de los recursos pesqueros y acuícolas;
 
-II. La pesca y la acuacultura se orientarán, principalmente, a la producción de alimentos para el consumo humano, para el abastecimiento de proteínas de alta calidad y de bajo costo para los habitantes de la Entidad;
+II. Que la pesca y la acuacultura se orientan a la producción de alimentos para el consumo humano y para el abastecimiento de proteína de alta calidad y de bajo costo para los habitantes del estado;
 
-III. Que el aprovechamiento de los recursos pesqueros y acuícolas de la Entidad, su conservación, restauración y la protección de los ecosistemas en los que se encuentren, debe ser compatible con su capacidad natural de recuperación y disponibilidad;
+III. Que el aprovechamiento de los recursos pesqueros y acuícolas de la entidad, su conservación, restauración y la protección de los ecosistemas en los que se encuentre, sea compatible con su capacidad natural de recuperación, disponibilidad y equilibrio ecológico;
 
-IV. Que la investigación científica y tecnológica se consoliden como herramientas fundamentales para la implementación de políticas, instrumentos, medidas, mecanismos y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas en el Estado;
+IV. Que la investigación científica y tecnológica se consolide como herramienta fundamental para definir e implementar políticas, instrumentos, mecanismos, medidas y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas;
 
-V. Reconocer a la acuacultura como una actividad productiva que permita ofrecer opciones de empleo en el medio rural, incrementar la producción pesquera y la oferta de alimentos que mejoren la dieta de la población oaxaqueña, así como la generación de divisas;
+V. Reconocer a la pesca y acuacultura como una actividad productiva que permita ofrecer la generación de empleo en el medio rural, incrementar la producción pesquera y la oferta de alimentos que mejoren la dieta de la población en la entidad, así como la generación de divisas;
 
-VI. El ordenamiento de la acuacultura a través de programas que incluyan la definición de sitios o áreas susceptibles para su realización, su tecnificación, diversificación, buscando nuevas tecnologías que reduzcan los impactos ambientales y que permitan ampliar el número de especies nativas que se cultiven;
+VI. El ordenamiento de la pesca y acuacultura debe hacerse a través de planes y programas que incluyan la definición de sitios para su realización, su tecnificación y diversificación, buscando la aplicación de nuevas tecnología (sic) que reduzcan los impactos ambientales y que permitan ampliar el número de especies nativas que se cultiven;
 
-VII. El uso de artes y métodos de pesca selectivos y de menor impacto ambiental, a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones, la restauración de los ecosistemas costeros y acuáticos, así como la calidad de los recursos de la pesca;
+VII. Promover el uso de artes y métodos de pesca selectivos y de menor impacto ambiental, así como prácticas responsables a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones, la restauración de los ecosistemas costeros y acuáticos, así como la calidad de los productos de la pesca;
 
-VIII. Con el fin de conservar y proteger los recursos pesqueros y los ecosistemas en los que se encuentran, las autoridades administrativas competentes en materia de pesca y acuacultura adoptarán el enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las poblaciones;
+VIII. Con el fin de conservar y proteger los recursos pesqueros y los ecosistemas en los que se encuentran las autoridades administrativas en el ámbito de su competencia, se adoptara el enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las poblaciones;
 
-(REFORMADA, P.O. 29 DE ENERO DE 2013) (REPUBLICADA, P.O. 12 DE FEBRERO DE 2013)
+IX. Impulsar la transparencia en los procedimientos administrativos relativos al otorgamiento de permisos para realizar actividades pesqueras y acuícolas, así como las medidas para el control del esfuerzo pesquero, se autoricen considerando los planes, programas y acciones del estado y municipios atendiendo los principios de transparencia y eficiencia, e incorporando mecanismos de control accesibles a los productores;
 
-IX. Impulsar la transparencia en los procedimientos administrativos relativos al otorgamiento de permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del esfuerzo pesquero, para que sean eficaces e incorporen mecanismos de control accesibles a los productores; y
+X. La participación, consenso y compromisos de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas;
 
-X. La participación, consenso y compromisos de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
+XI. Posicionar los productos pesqueros y acuícola (sic) estatales en los mercados de alto valor, garantizando la eficiencia y sanidad a lo largo de la cadena productiva;
+
+XII. Impulsar el establecimiento de una cultura de inocuidad en el manejo, distribución y comercialización de productos pesqueros y acuícolas;
+
+XIII. El sector pesquero (sic) acuícola se desarrollará desde una perspectiva sostenible que integre y concilie los factores económicos, sociales y ambientales, a través de un enfoque estratégico y ecoeficiente;
+
+XIV. Transversalidad para la instrumentación de políticas públicas con enfoque interdisciplinario para el fortalecimiento y desarrollo de una cultura empresarial pesquera y acuícola, orientada a toda la cadena productiva, que aumente la productividad y mejore la competitividad;
+
+XV. El impulso del estado equilibrado y equitativo, que priorice el desarrollo de las comunidades pesqueras; y
+
+XVI. Financiamiento para el desarrollo e innovación tecnológica y científica, modernización de la flota pesquera, unidades de cultivo, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura.
 
 ###### Artículo 18.
 
@@ -549,7 +561,7 @@ V. Promoverá el ordenamiento de la pesca y acuacultura y diseñará estructuras
 
 En materia de pesca deportivo-recreativa, la SEPESCA, en coordinación con las dependencias competentes, los sectores interesados y, en su caso, con los municipios, fomentará la práctica y el desarrollo de esta actividad, para lo cual:
 
-l. Previo convenio con la Federación, podrá administrar los permisos para la realización de la pesca deportivo-recreativa;
+I. Previo convenio con la Federación, podrá administrar los permisos para la realización de la pesca deportivo-recreativa;
 
 II. Promoverá y ofrecerá asesoría para la ejecución de torneos de pesca deportivo recreativa, en coordinación con las instituciones federales normativas y de fomento;
 
@@ -571,7 +583,7 @@ VIII. Las demás que señale la LGPAS y otros ordenamientos de la materia.
 
 ###### Artículo 26.
 
-El Fondo de Garantía Estatal para el Desarrollo Pesquero y Acuícola, FOGAPE, será el instrumento para promover la operación de esquemas de financiamiento para organizaciones de productores, pescadores y acuacultores de la Entidad, facililtando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva, desarrollando mecanismos adecuados que apoyen la creación de fondos de garantía, pudiendo realizarlo a través del Fondo para el Fomento Estatal de las Actividades Productivas de Oaxaca (FIDEAPO).
+El Fondo de Garantía Estatal para el Desarrollo Pesquero y Acuícola, FOGAPE, será el instrumento para promover la operación de esquemas de financiamiento para organizaciones de productores, pescadores y acuacultores de la Entidad, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva, desarrollando mecanismos adecuados que apoyen la creación de fondos de garantía, pudiendo realizarlo a través del Fondo para el Fomento Estatal de las Actividades Productivas de Oaxaca (FIDEAPO).
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2013)</small>
 
@@ -749,7 +761,7 @@ I. Administrar las actividades de pesca y acuacultura que se realicen en zonas y
 
 II. Expedir las autorizaciones que correspondan;
 
-II. Ordenar, fomentar y promover el desarrollo de la pesca y acuacultura;
+II (SIC). Ordenar, fomentar y promover el desarrollo de la pesca y acuacultura;
 
 III. Participar con las dependencias competentes de la administración pública federal en la determinación de especies acuáticas sujetas a la protección especial, amenazadas o en peligro de extinción;
 
@@ -797,7 +809,7 @@ III. Administrar de manera responsable, integral y sustentable recursos acuícol
 
 IV. Impulsar la repoblación de crías para revertir los efectos de sobreexplotación pesquera;
 
-V. Fomentar y promover la diversidad de los productos acuícolas; y (sic)
+V. Fomentar y promover la diversidad de los productos acuícolas; y
 
 ###### Artículo 48.
 
@@ -861,7 +873,7 @@ Para el desarrollo integral, ordenado y sustentable de la acuacultura, se foment
 
 Cada unidad de manejo acuícola deberá contar con un plan de manejo que contendrá:
 
-l. Las acciones a realizar a corto, mediano y largo plazo, estableciendo la vinculación con los planes y programas aplicables;
+I. Las acciones a realizar a corto, mediano y largo plazo, estableciendo la vinculación con los planes y programas aplicables;
 
 II. La capacidad de carga de los cuerpos de agua de donde se pretendan alimentar las unidades de producción acuícola;
 
@@ -947,7 +959,7 @@ II. La Carta Estatal Acuícola;
 
 III. El Registro Estatal de Pesca y Acuacultura;
 
-III. El Informe de la situación de la pesca y la acuacultura en el Estado de Oaxaca, así como los indicadores de su desarrollo;
+III (SIC). El Informe de la situación de la pesca y la acuacultura en el Estado de Oaxaca, así como los indicadores de su desarrollo;
 
 IV. Los convenios y acuerdos suscritos en materia de pesca y acuacultura; y
 
@@ -1158,3 +1170,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO: La instalación del Consejo Estatal de Pesca y Acuacultura se establecerá dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
 
 TERCERO: En tanto entre en funciones la Secretaría de Pesca y Acuacultura, conforme al artículo Tercero Transitorio, del Decreto 638, publicado en el Periódico Oficial del Gobierno del Estado, con fecha 18 de agosto de 2011, el titular de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca y Acuacultura, será el Presidente Suplente del Consejo Estatal de Pesca y Acuacultura.
+
+P.O. 13 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1563.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se oponga al presente Decreto.
