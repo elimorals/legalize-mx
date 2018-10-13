@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2018-09-29"
+last_updated: "2018-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -679,6 +679,36 @@ El Instituto creará el Padrón Estatal de Migrantes y sus familias, que tendrá
 
 En la operación del Padrón Estatal de Migrantes y sus familias deberá observarse en todo momento lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca y la Ley de Protección de Datos Personales del Estado de Oaxaca.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+## TÍTULO DÉCIMO (SIC). PROGRAMA DE MICROCRÉDITOS A MIGRANTES A SU RETORNO Y ESTABLECIMIENTO EN EL ESTADO DE OAXACA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO ÚNICO. DEL PROGRAMA
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+Artículo 51 (SIC). El programa tiene (sic) objeto otorgar microcréditos, capacitación, apoyo, estímulos fiscales a migrantes a su retorno al estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 52.
+
+El programa estará a cargo del Instituto y la Secretaría de Economía.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 53.
+
+Para la implementación de dicho programa, el Instituto Oaxaqueño de atención al Migrante y la Secretaría de Economía, establecerán reglas de operación de forma anual, basadas en un estudio socioeconómico y en consideración al tipo de negocio a emprender.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 54.
+
+Para el cumplimiento del objetivo del programa, se brindará información oportuna a los migrantes a su retorno al estado de Oaxaca, a través del Instituto, de los Municipios del estado y todos los medios de difusión posibles. Para el mismo fin, el Instituto generará un sistema de evaluación de dicho programa.
+
 TRANSITORIOS:
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
@@ -746,6 +776,14 @@ NOTA: Las presentes firmas corresponden al Decreto N° 1319.- por el que la Sexa
 P.O. 29 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1554.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE (SIC) DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 13 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1572.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
