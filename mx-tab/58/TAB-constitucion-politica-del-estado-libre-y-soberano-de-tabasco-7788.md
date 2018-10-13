@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2017-06-28"
+last_updated: "2018-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -467,9 +467,11 @@ Al partido político local que no obtenga, al menos, el tres por ciento del tota
 
 VIII.- El financiamiento público para los partidos políticos que mantengan su registro y alcancen el tres por ciento de la votación en la elección para Gobernador o de Diputados por el principio de mayoría relativa inmediata anterior, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, así como las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, el que se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
+(NOTA: EL 5 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 100/2018 Y SUS ACUMULADAS 102/2018, 103/2018 Y 104/2018, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN VIII DEL APARTADO A DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del estado por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad total que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior;
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
+a) EL FINANCIAMIENTO PÚBLICO PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES SE FIJARÁ ANUALMENTE, MULTIPLICANDO EL NÚMERO TOTAL DE CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL DEL ESTADO POR EL TREINTA Y DOS PUNTO CINCO (32.5 %) POR CIENTO DEL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. EL 30% DE LA CANTIDAD TOTAL QUE RESULTE DE ACUERDO A LO SEÑALADO ANTERIORMENTE, SE DISTRIBUIRÁ ENTRE LOS PARTIDOS POLÍTICOS EN FORMA IGUALITARIA Y EL 70% RESTANTE SE DISTRIBUIRÁ ENTRE LOS MISMOS DE ACUERDO CON EL PORCENTAJE DE VOTOS QUE HUBIEREN OBTENIDO EN LA ELECCIÓN DE DIPUTADOS INMEDIATA ANTERIOR;
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -775,9 +777,7 @@ La misma regla se aplicará para los Diputados suplentes cuando sean llamados a 
 
 Los Diputados no pueden ser reconvenidos ni juzgados por autoridad alguna, por opiniones manifestadas en el ejercicio de su investidura.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
-
-Los Diputados tendrán fuero desde el día en que hayan rendido la protesta de Ley. El retiro del fuero se llevará a cabo en los términos que fije la ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE OCTUBRE DE 2018)</small>
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -955,9 +955,9 @@ El proyecto de ley o decreto observado total o parcialmente por el Ejecutivo ser
 
 Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras partes de los Diputados integrantes de la legislatura, el proyecto tendrá el carácter de ley o decreto y será devuelto al Ejecutivo para su inmediata promulgación.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
 
-El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando se declare la procedencia de juicio político o que ha lugar a proceder penalmente en contra de servidores públicos o haber sido aprobadas las adiciones o reformas a la Constitución General de la República, a la del Estado, a la Ley Orgánica del Poder Legislativo o su Reglamento Interno, ni a la convocatoria a sesiones extraordinarias que expida la Comisión Permanente. Tampoco podrá hacer observaciones cuando el Congreso ejerza funciones de Colegio Electoral.
+El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando se declare la procedencia de juicio político o haber sido aprobadas las adiciones o reformas a la Constitución General de la República, a la del Estado, a la Ley Orgánica del Poder Legislativo o su Reglamento Interno, ni a la convocatoria a sesiones extraordinarias que expida la Comisión Permanente. Tampoco podrá hacer observaciones cuando el Congreso ejerza funciones de Colegio Electoral.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1075,11 +1075,9 @@ XXIII.- Convocar a elecciones Extraordinarias de Ayuntamientos, en los términos
 
 XXIV.- Legislar, en el ámbito competencial del Estado, en materia de disciplina y responsabilidad hacendaria para el manejo sostenible de las finanzas públicas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, las leyes generales respectivas y esta Constitución;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
+XXV.- (DEROGADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2018)
 
-XXV.- Declarar si ha lugar o no a proceder penalmente contra los servidores públicos en los términos referidos en el Artículo 69 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 68 de esta Constitución y fungir como órgano de acusación en los Juicios Políticos que contra éstos se instauren;
 
@@ -2303,9 +2301,11 @@ I. Se impondrán, mediante Juicio Político, las sanciones indicadas en esta Con
 
 No procede el Juicio Político por la mera expresión de ideas; y
 
-II. La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación Penal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2018)</small>
 
-Es competencia de la Primera Sala de lo Penal del Tribunal Superior de Justicia, fungir como tribunal de enjuiciamiento; y del tribunal compuesto por los tres magistrados presidentes de las salas Segunda, Tercera y Cuarta de la misma materia, conocer en alzada en los juicios penales en los que se impute la responsabilidad de los servidores públicos señalados en el artículo 69 de esta Constitución, una vez emitida la respectiva declaración de procedencia. Dichos tribunales serán igualmente competentes para conocer de juicios en los que se impute la comisión de cualquiera de los delitos establecidos en el Título Segundo del Código Penal para el Estado de Tabasco, denominado Delitos contra el Erario y el Servicio Públicos; en ambos supuestos el juez de control de mayor antigüedad con sede en la capital del Estado será competente para sustanciar la etapa inicial del proceso.
+II. La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación Penal. En ningún caso se requerirá declaración de procedencia por el Congreso del Estado.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE OCTUBRE DE 2018)</small>
 
 De conformidad con la Ley General de Responsabilidades Administrativas y los ordenamientos estatales aplicables, se aplicarán sanciones Administrativas a los servidores públicos cuyos actos u omisiones afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. De igual modo, conforme a lo señalado en el Artículo 109, fracción IV, de la Constitución General de la República, se sancionará a los particulares que incurran en actos vinculados con faltas administrativas graves.
 
@@ -2345,47 +2345,13 @@ Conociendo de la acusación, el Tribunal Superior de Justicia, erigido en Jurado
 
 Las declaraciones y resoluciones de la Cámara de Diputados y del Tribunal Superior de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
-
 ###### ARTICULO 69.
 
-Para proceder penalmente contra el Gobernador del Estado, los diputados al Congreso del Estado, los magistrados del Tribunal Superior de Justicia, los magistrados del Tribunal Electoral de Tabasco, los magistrados del Tribunal de Justicia Administrativa, el Titular del Órgano Superior de Fiscalización, los consejeros de la Judicatura, los titulares de las Dependencias, el Fiscal General del Estado de Tabasco, los presidentes municipales, los concejales, los síndicos de Hacienda, así como el Consejero Presidente y los consejeros electorales del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, así como los miembros de los demás órganos constitucionales autónomos, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha lugar o no a proceder contra el imputado.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
-
-Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el imputado haya concluido el ejercicio de su encargo, pues la resolución no prejuzga sobre los fundamentos de la imputación.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúe con arreglo a la Ley.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Las declaraciones y resoluciones de la Cámara de Diputados y del Tribunal Superior de Justicia, son inatacables.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
-
-El efecto de la declaración de que ha lugar a proceder contra el imputado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el imputado podrá reasumir su función. Si la sentencia fuese condenatoria, y se trata de un delito cometido durante el ejercicio de su encargo, deberá compurgarlo en los términos de la sentencia que lo ordene.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-En demandas del órden Civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
-
-Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 70.
 
-No se requerirá declaración de procedencia de la Cámara de Diputados, cuando algunos de los servidores públicos a que hace referencia el párrafo primero del Artículo 69, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
-
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 69, se procederá de acuerdo con lo dispuesto en dicho precepto.
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2018)
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
@@ -3670,3 +3636,45 @@ SEGUNDO.- El Congreso del Estado deberá realizar las adecuaciones normativas a 
 TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas y adiciones fueron aprobadas por los Ayuntamientos de la entidad.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 003 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 35, PÁRRAFO CUARTO, Y 67, FRACCIÓN II, PÁRRAFO PRIMERO; Y SE DEROGAN, DEL ARTÍCULO 18, EL PÁRRAFO SEGUNDO, DEL ARTÍCULO 36, EL PÁRRAFO PRIMERO DE LA FRACCIÓN XXV, DEL ARTÍCULO 67, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II, Y LOS ARTÍCULOS 69 Y 70, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá adecuar la legislación secundaria en la materia del presente Decreto, dentro de los 180 días naturales a su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas y derogaciones fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 13 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 004 POR EL QUE “SE REFORMA (SIC) APARTADO A, FRACCIÓN VIII INCISO A), DEL ARTÍCULO 9, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Para la conclusión del ejercicio fiscal 2018, el Instituto Electoral y de Participación Ciudadana de Tabasco, seguirá aplicando a los partidos políticos los porcentajes de financiamientos aprobados en el presupuesto de egresos vigente.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá adecuar la legislación secundaria en la materia, dentro de los 180 (sic) naturales a su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
