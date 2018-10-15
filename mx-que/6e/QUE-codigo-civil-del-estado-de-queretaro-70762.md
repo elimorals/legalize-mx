@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2018-10-03"
+last_updated: "2018-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "QUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, SE SUGIERE CONSULTAR EL ARTÍCULO TRANSITORIO CORRESPONDIENTE.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2018 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -517,7 +519,7 @@ Los actos y actas del estado civil, relativos al Oficial, a su consorte y a los 
 
 ###### Artículo 71.
 
-El matrimonio celebrado entre menores de edad que cumpla con los requisitos previstos por la ley, causará los efectos de emancipación, sin que haya necesidad de levantar otra acta por separado; sólo se anotará en las respectivas actas de nacimiento esta circunstancia. En caso de que se hubiera registrado su nacimiento en Oficialía distinta, se remitirá copia certificada del matrimonio al Oficial respectivo, a efecto de que haga la anotación correspondiente.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### Artículo 72.
 
@@ -533,11 +535,11 @@ II. Tratándose de matrimonio o divorcio entre un nacional y un extranjero o ent
 
 Las declaraciones del nacimiento, se harán presentando al infante ante el Oficial del Registro Civil en su oficina y en los casos en que circunstancialmente sea necesario, el Oficial acudirá al lugar en que se encuentre.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 74.
 
-Tienen obligación de declarar el nacimiento, dentro de los sesenta días siguientes a la fecha en que hubiere ocurrido, los padres del menor, de manera conjunta o separada, aún cuando se trate de padre o madre menor de edad y no estén casados; a falta de éstos, los abuelos paternos o maternos o quienes tengan a su cargo el cuidado o custodia del menor.
+Tienen obligación de declarar el nacimiento, dentro de los sesenta días siguientes a la fecha en que hubiere ocurrido, los padres del menor, de manera conjunta o separada, aún cuando se trate de padre o madre menor de edad; a falta de éstos, los abuelos paternos o maternos o quienes tengan a su cargo el cuidado o custodia del menor.
 
 Para que el Oficial del Registro Civil realice la inscripción, deberá proceder en los siguientes términos:
 
@@ -777,19 +779,21 @@ IV. En su caso, copia certificada del acta de divorcio o de defunción;
 
 V. Un certificado suscrito por un médico legalmente autorizado para ejercer la profesión, que asegure que los pretendientes no padecen enfermedad venérea, infecto-contagiosa, crónica o incurable que sean hereditarias;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE OCTUBRE DE 2018)</small>
+
 VI. El convenio que los pretendientes celebren en relación a los bienes y que deba expresar con toda claridad, si el matrimonio se pretende contraer bajo régimen de sociedad conyugal o de separación de bienes. Si los pretendientes son menores de edad, ese convenio deberá estar aprobado por las personas cuyo consentimiento previo es necesario para que se celebre el matrimonio. No podrá dejar de presentarse este convenio, bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorar a los pretendientes, para su redacción; y
 
 VII. Copia de la dispensa de impedimento, si los hubo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2011)</small>
 
 VIII. Constancia expedida por el Director del Registro Civil del Estado de Querétaro, donde se acredite haber asistido a las asesorías en materia de violencia familiar, derechos y obligaciones del matrimonio y de los hijos, impartida por dicha institución.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 97.
 
-El Oficial del Registro Civil a quien se presenten una solicitud de matrimonio que satisfaga los requisitos anteriores, hará que los pretendientes y los ascendientes o tutores que en su caso presten su consentimiento, reconozcan ante él y por separado sus firmas y que los testigos a que se refiere el artículo anterior ratifiquen sus dichos bajo protesta de decir verdad. Cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado, solicitando su ratificación, en su presencia.
+El Oficial del Registro Civil a quien se presenten una solicitud de matrimonio que satisfaga los requisitos anteriores, hará que los pretendientes, reconozcan ante él y por separado, sus firmas y que los testigos a que se refiere el artículo anterior ratifiquen sus dichos bajo protesta de decir verdad. Cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado, solicitando su ratificación, en su presencia.
 
 ###### Artículo 98.
 
@@ -813,13 +817,11 @@ Se levantará luego el acta de matrimonio en la cual se hará constar:
 
 I. Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
 
-II. Si son mayores o menores de edad;
+II. (DEROGADA, P.O. 15 DE OCTUBRE DE 2018)
 
 III. Los nombres, apellidos, ocupación y domicilio de los padres;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
-
-IV. El consentimiento de la autoridad cuando los contrayentes sean menores de edad;
+IV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2018)
 
 V. Que no hubo impedimento para el matrimonio o que este se dispensó;
 
@@ -1087,11 +1089,11 @@ El matrimonio tiene como fin la creación de una comunidad íntima de vida entre
 
 Artículo 139 bis. Las personas que pretendan contraer matrimonio deberán acudir ante el Oficial del Registro Civil del domicilio correspondiente, para que les sean impartidas asesorías en materia de violencia familiar, derechos y obligaciones del matrimonio y de los hijos, mismas que deberán ser proporcionadas antes de que los pretendientes contraigan matrimonio.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 140.
 
-Para contraer matrimonio, ambos contrayentes deberán tener 18 años cumplidos. Los jueces competentes, basándose en motivos excepcionales pueden permitir el matrimonio de menores de 18 años, siempre y cuando tengan como mínimo 16 años de edad.
+Para contraer matrimonio, ambos contrayentes deberán tener 18 años cumplidos.
 
 ###### Artículo 141.
 
@@ -1119,7 +1121,7 @@ Si el juez se niega a otorgar la autorización para que se celebre un matrimonio
 
 ###### Artículo 147.
 
-El juez que hubiere otorgado autorización a un menor para contraer matrimonio, no podrá revocarla sino por causa superveniente justificada.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### Artículo 148.
 
@@ -1127,7 +1129,9 @@ Impedimento es todo hecho que legalmente imposibilita la celebración del matrim
 
 Son impedimentos para celebrar matrimonio:
 
-I. La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+I. La falta de edad requerida por la ley;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
@@ -1137,19 +1141,23 @@ III. El parentesco de consanguinidad sin limitación de grado en la línea recta
 
 IV. El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V. El adulterio habido entre las personas que pretenden contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+V. (DEROGADA, P.O. 15 DE OCTUBRE DE 2018)
 
 VI. El atentado contra la vida de los casados para contraer matrimonio con el que quede libre;
 
 VII. La embriaguez habitual, el uso indebido y persistente de cualquier tipo de drogas enervantes o padecer una enfermedad incurable que sea contagiosa o hereditaria;
 
-VIII. La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras esta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+VIII. Que se haya ejercido en cualquier momento violencia para obtener el consentimiento para la celebración del matrimonio, o cualquier circunstancia que impida la libre manifestación de la voluntad;
 
 IX. Padecer una enfermedad mental que imposibilite a la persona a hacer uso de su voluntad; y
 
 X. El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral desigual.
 
 ###### Artículo 149.
 
@@ -1213,7 +1221,7 @@ El marido y la mujer, mayores de edad, tienen capacidad para administrar, contra
 
 ###### Artículo 161.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### Artículo 162.
 
@@ -1257,11 +1265,9 @@ Si se trata de disolución de sociedad conyugal o del régimen de comunidad de b
 
 Las capitulaciones matrimoniales pueden comprender bienes determinados que sean propiedad de los esposos al momento de realizar el pacto y todos los que adquieran a partir del mismo.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
-
 ###### Artículo 168.
 
-El menor que con arreglo a la Ley pueda contraer matrimonio, puede también otorgar capitulaciones después de celebrado el matrimonio las cuales serán válidas si se obtiene la autorización judicial.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### Artículo 169.
 
@@ -1289,9 +1295,11 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En este caso, la modificación que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones y en el Instituto de la Función Registral del Estado de Querétaro. Sin llenar estos requisitos, las alteraciones no producirán efectos contra tercero.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 174.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos, pero si éstos o algunos de ellos son menores de edad, la sociedad sólo se disolverá mediante autorización judicial.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos.
 
 ###### Artículo 175.
 
@@ -1501,11 +1509,9 @@ Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño,
 
 Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
-
 ###### Artículo 211.
 
-Los menores pueden hacer donaciones antenupciales, siempre y cuando exista aprobación judicial.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### Artículo 212.
 
@@ -1545,11 +1551,7 @@ La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge 
 
 ###### Artículo 218.
 
-La minoría de edad de uno de los cónyuges o de ambos dejará de ser causa de nulidad:
-
-I. Cuando haya habido hijos; y
-
-II. Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### Artículo 219.
 
@@ -1733,7 +1735,7 @@ El oficial del Registro Civil, previa identificación de los consortes, levantar
 
 ###### Artículo 251.
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad y no han liquidado su sociedad conyugal.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
@@ -2949,11 +2951,15 @@ Las autoridades están obligadas a prestar auxilio al ascendiente que lo solicit
 
 Los que ejercen la patria potestad, aun cuando no tengan la custodia del menor, tienen el derecho de convivir con éste, salvo que exista peligro para él.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 418.
 
-A las personas que tienen un menor bajo su custodia o ejercen patria potestad sobre él, corresponde la obligación de protegerlo y educarlo convenientemente. Tienen la facultad de amonestarlo y corregirlo, respetando siempre su dignidad humana, evitando los castigos crueles e innecesarios e impidiendo arriesgar su integridad física y emocional.
+A quienes tengan una persona menor de edad bajo su custodia o ejerza la patria potestad sobre ella o él, les corresponde la obligación de brindarle protección, educación, garantizar su bienestar y proveerle un ambiente afectivo, comprensivo y libre de violencia para su pleno y armonioso desarrollo integral.
 
-Cuando llegue a conocimiento del Ministerio Público o de la Procuraduría de la Defensa del Menor y de la Familia, que dichas personas no cumplen con su obligación o abusan de su derecho a corregir, promoverá la suspensión o pérdida de la patria potestad o de la custodia en su caso.
+Tiene la facultad de fijar normas que guíen su proceso formativo y positivo, orientarle respetando siempre su dignidad humana, y privilegiando la comunicación que abone a su sano desarrollo cognoscitivo y madurez.
+
+Cuando llegue a conocimiento de cualquier autoridad que dichas personas no cumplen con su obligación, incurren en descuido, negligencia, abandono o cualquier forma de abuso físico, psicológico o sexual, tendrá la obligación de informar a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro, a fin de que ésta promueva la suspensión o pérdida de la patria potestad o de la custodia en su caso.
 
 ###### Artículo 419.
 
@@ -3039,7 +3045,9 @@ Siempre que el juez conceda licencia a los que ejercen la patria potestad para e
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-I. Por la emancipación derivada de (sic) del matrimonio o la mayoría de edad de los hijos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+I. Por la mayoría de edad de los hijos;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2013)</small>
 
@@ -3075,8 +3083,6 @@ Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego qu
 
 ### Capítulo Tercero. De los modos de acabarse y suspenderse el ejercicio de la patria potestad
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 439.
@@ -3085,13 +3091,11 @@ La patria potestad se acaba:
 
 I. Con la muerte del que la ejerce y no hay otra persona en quien recaiga;
 
-II. Con la emancipación derivada del matrimonio;
+II. (DEROGADA, P.O. 15 DE OCTUBRE DE 2018)
 
 III. Por la mayoría (sic) edad del hijo; y
 
 IV. Cuando los padres biológicos hayan dado sus hijos en adopción;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3107,25 +3111,17 @@ II. En los casos de divorcio, si así se decretó en la sentencia;
 
 III. Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 IV. Por la exposición del menor durante más de tres días;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 V. Por incumplimiento de los deberes alimentarios del padre o la madre o de quien ejerza la patria potestad sobre el menor, siempre que se prolongue por más de tres meses;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 VI. Por incumplimiento de los deberes alimentarios del padre o la madre o de quien ejerza la patria potestad sobre el menor, siempre que se prolongue por más de tres meses, tratándose de menores que se encuentren puestos a disposición de la Procuraduría de la Defensa del Menor y la Familia del Estado, o bien, en instituciones de asistencia pública o privada;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3133,23 +3129,21 @@ VII. Por nulidad de la adopción;
 
 VIII. En el caso de violencia familiar ejercida contra del menor, siempre que ésta constituya una causa suficiente para su pérdida;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
 IX. Cuando el que ejerza la patria potestad hubiera cometido contra la persona o sus bienes, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+X. Cuando él o la menor de edad hayan sido producto de una violación;
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
-X. Por el abandono del menor, por parte de quien ejerza la patria potestad, por más de 60 días naturales, sin causa justificada, independientemente de que el menor haya sido acogido o no durante ese lapso; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+XI. Por el abandono del menor, por parte de quien ejerza la patria potestad, por más de 60 días naturales, sin causa justificada, independientemente de que el menor haya sido acogido o no durante ese lapso; y
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
-XI. Cuando quien ejerza la patria potestad deje de asistir y convivir en forma injustificada con el menor de edad, por más de 20 días naturales, cuando éste se encuentre acogido por una institución de asistencia pública o privada.
+XII. Cuando quien ejerza la patria potestad deje de asistir y convivir en forma injustificada con el menor de edad, por más de 20 días naturales, cuando éste se encuentre acogido por una institución de asistencia pública o privada.
 
 ###### Artículo 441.
 
@@ -3307,7 +3301,7 @@ IV. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2010)
 
 ###### Artículo 452.
 
-Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para enajenar, gravar o hipotecar bienes inmuebles, así como para realizar negocios judiciales.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### Artículo 453.
 
@@ -4391,7 +4385,7 @@ De la emancipación y de la mayoría de edad
 
 ###### Artículo 640.
 
-El matrimonio del menor de dieciocho años produce, de derecho, la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado que siga siendo menor de edad, no recaerá en la patria potestad.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### Artículo 641.
 
@@ -16118,6 +16112,14 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del uno de enero de dos mil diecinueve.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+P.O. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 ###### ARTÍCULO PRIMERO.
 
