@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-10-01"
+last_updated: "2018-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -5479,123 +5479,7 @@ APARTADO DECIMO SEXTO
 
 De la Secretaría de Medio Ambiente y Desarrollo Sustentable
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 114 BIS.- Corresponde a la Secretaría de Medio Ambiente y Desarrollo Sustentable:
-
-I.- Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
-
-II.- Formular, conducir y evaluar la política ambiental municipal;
-
-III.- Aplicar los instrumentos de política ambiental de competencia municipal previstos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección Ambiental para el Estado de Aguascalientes, este Código y demás ordenamientos aplicables;
-
-IV.- Elaborar, revisar y actualizar un diagnóstico ambiental que corresponda a cada administración municipal, para que de él deriven los programas relativos;
-
-V.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación aplicables al ámbito de competencia municipal;
-
-VI.- Prevenir y controlar la contaminación atmosférica por fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
-
-VII.- Prevenir y controlar la contaminación visual, por ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal; así como aquellas producidas en zonas habitacionales que se generen con motivo de una fuente fija proveniente de una casa habitación;
-
-VIII.- Aplicar las disposiciones jurídicas relativas a la gestión, prevención y control de los efectos sobre el ambiente, ocasionados por el manejo de residuos sólidos urbanos, de conformidad con las leyes Federales, Estatales y demás disposiciones en materia ambiental;
-
-IX.- Expedir el permiso ambiental de funcionamiento;
-
-X.- Analizar y en su caso autorizar las solicitudes de derribo, extracción o reubicación de árboles y arbustos en el Municipio, excepto aquellos que sean de competencia Federal, por tratarse de terrenos forestales en términos de la legislación aplicable;
-
-XI.- Atender las denuncias ambientales en el ámbito de su competencia y remitir a las instancias correspondientes aquellas que no sean de índole municipal;
-
-XII.- Llevar y actualizar el registro de las fuentes fijas generadoras de contaminación de competencia municipal, así como de los grandes generadores de residuos sólidos urbanos existentes en el Municipio;
-
-XIII.- Coordinarse con las autoridades federales y estatales en su caso, para establecer sistemas de monitoreo de contaminación atmosférica en el territorio municipal;
-
-XIV.- Establecer y mantener actualizado el registro de las ladrilleras presentes en el Municipio;
-
-XV.- Coadyuvar con la Secretaría de Servicios Públicos en la elaboración, evaluación y actualización del Programa Municipal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos;
-
-XVI.- Evaluar el impacto ambiental de las obras o actividades que le sean transferidas, mediante convenios o acuerdos, por el Estado o la Federación, así como de aquellas que sean de su competencia en los términos de la Ley de Protección Ambiental para el Estado de Aguascalientes;
-
-XVII.- Participar en la evaluación del impacto ambiental de obras o actividades de competencia federal o estatal, cuando éstas se realicen en el ámbito de su circunscripción territorial;
-
-XVIII.- Recibir, evaluar y dictaminar la viabilidad ambiental de los proyectos u obras que las dependencias de la administración municipal pretendan realizar dentro del territorio del municipio de Aguascalientes; lo anterior previo y sin menoscabo de que dichas instancias tramiten las autorizaciones que correspondan ante autoridades estatales y federales competentes;
-
-XIX.- Promover la participación de las dependencias y entidades de la administración pública de los demás niveles de gobierno en las acciones de preservación, protección, educación ambiental, prevención y control del deterioro ambiental y restauración del ambiente, en su jurisdicción territorial; así como celebrar con estás los acuerdos que sean necesarios con el propósito de dar cumplimiento a la legislación, reglamentación y/o normatividad vigente;
-
-XX.- Participar en el establecimiento, administración y manejo de las áreas naturales protegidas de competencia municipal;
-
-XXI.- Promover, fomentar y orientar el desarrollo de acciones para la conservación y el aprovechamiento sustentable de los ecosistemas y la biodiversidad presente en el territorio municipal, en coordinación con el Estado y la Federación;
-
-XXII.- Coadyuvar con las demás dependencias y entidades de la administración pública municipal, en el cumplimiento de la normatividad ambiental aplicable, a través de capacitación y asesoría;
-
-XXIII.- Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes;
-
-XXIV.- Formular, ejecutar y vigilar el programa de ordenamiento ecológico y coadyuvar con el Instituto Municipal de Planeación en los planes o programas que de él se deriven, en los términos en que se refieren las leyes y reglamentos aplicables;
-
-XXV.- Determinar, en el ámbito de su competencia, o solicitar ante el Estado y la Federación, según sea el caso, la limitación, modificación o suspensión de actividades comerciales, industriales, de servicios, de desarrollo urbano y turístico, que puedan causar deterioro ambiental o alteración del equilibrio ecológico;
-
-XXVI.- Vigilar en coordinación con la Federación y el Estado, el adecuado uso y aprovechamiento de los recursos naturales presentes en el territorio municipal;
-
-XXVII.- Fijar y aplicar medidas de prevención y control de emergencias ecológicas y contingencias ambientales, así como participar y coadyuvar con las entidades federales y estatales conforme a las políticas y programas que para tal efecto se establezcan;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE AGOSTO DE 2017)</small>
-
-XXVIII.- Formular el Plan de Acción Climática Municipal (PACMUN), coordinar su implementación y actualizarlo cada seis años;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE AGOSTO DE 2017)</small>
-
-XXIX.- Crear e implementar el Plan Municipal de Contingencia Ambiental;
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
-
-XXX.- Requerir y apercibir al infractor; propietario o poseedor del bien inmueble el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII del Título Tercero del presente Código;
-
-XXXI.- Establecer los criterios ambientales relacionados con la mitigación y adaptación a los efectos que tiene en la zona urbana el calentamiento global;
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
-
-XXXII.- Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas en el artículo 342 SEXIES del presentes (sic) Código, para efecto de llevar a cabo las mediciones de ruido así como detectar la fuente emisora que lo produce. De todo ello se levantará acta circunstanciada;
-
-XXXIII.- Establecer medidas para la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población;
-
-XXXIV.- Difundir la política municipal en materia ambiental e informar sobre la calidad del ambiente en el municipio;
-
-XXXV.- Promover espacios de participación de la sociedad en materia ambiental;
-
-XXXVI.- Implementar programas en materia de educación y comunicación ambiental que favorezcan la conservación y el aprovechamiento sustentable de los recursos naturales y la biodiversidad en el municipio;
-
-XXXVII.- Celebrar convenios con la Federación, el Estado, otros Municipios y con personas físicas o morales, para la realización de acciones en materia de difusión, protección, conservación y aprovechamiento sustentable de los recursos naturales, biodiversidad y medio ambiente, en el ámbito de su competencia, previa autorización del Cabildo;
-
-XXXVIII.- Ejercer las atribuciones y funciones que en materia ambiental le hayan sido transferidas por la Federación o el Estado al Municipio, a través de convenios y acuerdos;
-
-XXXIX.- Promover y establecer la entrega de premios y reconocimientos a quienes realicen esfuerzos destacados para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el municipio;
-
-XL.- Establecer y mantener actualizado un sistema de información ambiental, transparente y de fácil acceso a la ciudadanía;
-
-XLI.- Integrar el registro municipal de emisiones y transferencia de contaminantes al aire y agua, respecto de materiales, sustancias y residuos de competencia municipal;
-
-XLII.- Promover la integración de ecotecnologías en establecimientos comerciales, industriales y de servicios;
-
-XLIII.- Promover inversiones públicas y privadas, destinadas a proyectos para la protección del ambiente y el aprovechamiento sustentable de los recursos naturales en el territorio municipal;
-
-XLIV.- Colaborar con los organismos competentes para la aplicación de las disposiciones jurídicas para prevenir y controlar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de los cauces bajo custodia del Municipio;
-
-XLV.- Ordenar y realizar visitas u operativos de inspección y vigilancia para verificar el cumplimiento de las disposiciones jurídicas aplicables a su competencia;
-
-XLVI.- Determinar las infracciones a este Código que en materia ambiental se establezcan;
-
-XLVII.- Emitir los acuerdos y resoluciones correspondientes al procedimiento administrativo de inspección y vigilancia, imponiendo las medidas correctivas y de seguridad, así como las sanciones que en su caso procedan, verificando el cumplimiento de dichas medidas y proveyendo lo necesario para la ejecución de sanciones;
-
-XLVIII.- Ordenar e imponer las medidas técnicas correctivas o de urgente aplicación que correspondan, señalando los plazos para su cumplimiento; así como las medidas de seguridad procedentes, proveyendo lo necesario para obtener la ejecución de estas últimas, indicando, en su caso, las acciones necesarias para subsanar las irregularidades que motivaron la imposición de las medidas de seguridad y los plazos para su realización, a fin de que una vez cumplidas se ordene el retiro de las mismas;
-
-XLIX.- Proponer en la Ley de Ingresos para el Municipio de Aguascalientes, estimulas fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de me jora ambiental adicionales a las previstas como obligatorias en la normatividad;
-
-L.- Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
-
-LI.- Definir de manera anual los principios, objetivos y metas, mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Municipio, así como los instrumentos y procedimiento para su aplicación; y
-
-LII.- Las demás que le otorgue el presente Código y demás ordenamientos aplicables en la materia.
+ARTÍCULO 114 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE MARZO DE 2017)</small>
 
@@ -9789,133 +9673,31 @@ En su caso, quienes infrinjan las prohibiciones descritas en el párrafo anterio
 
 ### CAPÍTULO I. Del Permiso Ambiental de Funcionamiento
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
 # LIBRO CUARTO. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
 ## TÍTULO ÚNICO. DE LA PROTECCION AMBIENTAL
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
 ###### ARTÍCULO 492.
 
-Las disposiciones del presente título son de orden público e interés social en el Municipio de Aguascalientes y tienen por objeto garantizar el derecho de las personas a disfrutar de un medio ambiente adecuado para su desarrollo y bienestar integral, a través de la correcta formulación, conducción y evaluación de la política ambiental y sustentable; la preservación y restauración del equilibrio ecológico y la protección del ambiente en el territorio municipal, en concurrencia con las autoridades estatales y federales.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 492
 
-1.- Para efectos de las presentes disposiciones, son autoridades en materia ambiental de competencia municipal, las siguientes:
-
-I. El H. Ayuntamiento;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-II. El Presidente Municipal; y
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-III. La Secretaría de Medio Ambiente y Desarrollo Sustentable.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-Corresponde a las demás dependencias de la Administración Pública Municipal y entidades a través de su personal facultado, proporcionar la información técnica ambiental necesaria dentro de su respectivo ámbito de competencia, así como instrumentar los programas de administración sustentable.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+1.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 492
 
-2.- Para los efectos de las presentes disposiciones, serán consideradas además de las definiciones señaladas en diversos ordenamientos federales, estatales y municipales en la materia, las siguientes:
-
-IMPLAN.- Instituto Municipal de Planeación;
-
-LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
-
-LGPGIR.- Ley General para la Prevención y Gestión Integral de los Residuos;
-
-LPAEA: La Ley de Protección Ambiental para el Estado de Aguascalientes;
-
-LCCEA: Ley de Cambio Climático del Estado de Aguascalientes;
-
-Permiso Ambiental de Funcionamiento: Documento público emitido por la SEMADESU para la operación y funcionamiento en materia ambiental de los establecimientos comerciales y/o de servicios y fuentes fijas generadoras de emisiones de competencia municipal, así como los establecimientos dedicados a la compra, acopio, venta, donación o reciclaje de residuos sólidos urbanos en el Municipio de Aguascalientes;
-
-SEDUM.- Secretaría de Desarrollo Urbano;
-
-SEMADESU: La Secretaría de Medio Ambiente y Desarrollo Sustentable;
-
-SOPMA.- Secretaría de Obras Públicas del Municipio de Aguascalientes;
-
-Sitios Ramsar.- Aquellos declarados como tales bajo los términos de la Convención Ramsar y demás normatividad aplicable.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+2.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 492
 
-3.- Corresponde al H. Ayuntamiento:
-
-I. Aprobar y evaluar la política ambiental aplicable en el municipio, en congruencia con lo que en su caso formulen la Federación y el Estado;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-II. En el ámbito de su competencia, dictar las medidas pertinentes para restaurar el equilibrio ecológico y proteger el ambiente dentro del territorio del Municipio;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-III. Aprobar la creación de áreas naturales protegidas de competencia municipal y vigilar su adecuado manejo y funcionamiento;
-
-IV. Autorizar la celebración de convenios previa autorización del H. Ayuntamiento, con la Federación, el Estado y Municipios o con personas físicas o morales, para la realización de acciones en materia de protección al ambiente en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-V. Emitir los reglamentos y demás disposiciones necesarias para el adecuado desempeño de las atribuciones que en materia ambiental competan al Municipio;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VI. Promover la aplicación y observancia del ordenamiento ecológico territorial del Municipio, en forma congruente con el de la Federación y del Estado;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VII. Llevar a cabo las acciones necesarias para preservar y restaurar el equilibrio ecológico, así como para proteger y mejorar el ambiente en relación con bienes y zonas de competencia municipal, promoviendo en ello la participación de la sociedad;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VIII. Vigilar el adecuado diseño, construcción, modificación, manejo, mantenimiento, conservación, protección y restauración de los parques, jardines y áreas verdes públicas, a fin de ofrecer las condiciones ecológicas más propicias para el desarrollo sustentable, el embellecimiento del entorno urbano y el bienestar social;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IX. Vigilar la adecuada aplicación de las medidas de prevención y control de emergencias ecológicas y contingencias ambientales, por sí o en forma coordinada con el Gobierno Estatal y/o Federal;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-X. Establecer mecanismos para la preservación, protección y restauración del equilibrio ecológico en bienes y zonas de jurisdicción municipal;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-XI. Autorizar el uso de suelo para la instalación de antenas de telecomunicaciones en el territorio municipal;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-XII. Reglamentar como facultad concurrente con el Estado, las actividades riesgosas, cuando debido a sus efectos colaterales se afecten ecosistemas o el ambiente de circunscripción municipal; salvo el caso de actividades consideradas “altamente riesgosas”, cuya regulación explícita corresponde a la Federación, de acuerdo con la Ley general de la materia;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-XIII. Emitir las medidas necesarias para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, energía lumínica, descargas a redes de drenaje y olores perjudiciales al equilibrio ecológico o al ambiente, salvo en las zonas o en los casos de fuentes emisoras de jurisdicción estatal o federal; y
-
-XIV. Las demás atribuciones y obligaciones que le señala el presente ordenamiento y demás disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+3.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 492
 
-4.- Corresponde al Presidente Municipal:
-
-I.- Vigilar el cumplimiento del presente ordenamiento;
-
-II.- Ordenar acciones y programas relacionados con disposiciones en materia de medio ambiente dentro de la jurisdicción municipal; y
-
-III.- Ejercer las demás facultades que le determine el H. Ayuntamiento y las que le señalen diversas disposiciones jurídicas y administrativas aplicables.
+4.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 492
 
@@ -9923,79 +9705,23 @@ III.- Ejercer las demás facultades que le determine el H. Ayuntamiento y las qu
 
 ###### ARTÍCULO 492
 
-6.- (DEROGADO, P.O. 11 DE ABRIL DE 2016)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+6.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 493.
 
-Para los efectos del presente Libro se considera de utilidad pública dentro del territorio municipal:
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-I. El ordenamiento ecológico del territorio del Municipio.
-
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
-
-II. El establecimiento de áreas naturales protegidas de jurisdicción local y de zonas prioritarias para la conservación, preservación y restauración del equilibrio ecológico en el territorio municipal.
-
-III. El establecimiento de zonas de amortiguamiento como medida de prevención ante la presencia de actividades consideradas como riesgosas.
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IV. Para el establecimiento de museos naturales, jardines botánicos e instalaciones similares;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-V. El establecimiento de medidas y acciones tendientes a la protección de la biodiversidad así como para la prevención y control de la contaminación de la atmósfera, agua y suelo del territorio municipal;
-
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
-
-VI. El establecimiento de zonas de salvaguarda, como medida de prevención ante la presencia de actividades que impliquen riesgo a la población; y
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VII. El desarrollo de áreas verdes públicas que tengan vegetación nativa de la región; y
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VIII. Las demás acciones que se realicen para el cumplimiento de las disposiciones legales que en materia ambiental dicte la autoridad municipal en el ámbito de su competencia.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 493 BIS.- En la planeación ambiental del desarrollo municipal, se deben considerar los siguientes elementos:
-
-I.- El ordenamiento ecológico del territorio del Municipio, entendido éste como el instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
-
-II.- Que los proyectos de los nuevos fraccionamientos, condominios y desarrollos inmobiliarios especiales, incluyan la aplicación de elementos e infraestructura de carácter ambiental como: árboles nativos, áreas verdes, tecnologías de captación de agua de lluvia, tecnologías de bajo consumo de agua y de tratamiento de aguas residuales, entre otras;
-
-III.- Las áreas verdes de los nuevos fraccionamientos, condominios y desarrollos inmobiliarios especiales, deberán conservar los árboles que de manera natural se encuentren en ellas, procurando preservar la mayor cantidad de árboles posible, así como buscando conservar aquellos de mayor talla, cobertura y fuste. En caso de ser necesaria y justificada la tala, asegurar que en la zona quedará compensado el efecto a través de un programa de reforestación con especies apropiadas, que brinden los beneficios ambientales que antes otorgaban los árboles talados, de conformidad con el Reglamento correspondiente;
-
-IV. En el desarrollo y crecimiento de las áreas urbanas y rurales, incluir criterios de adaptación y mitigación a los efectos del cambio climático en la zona urbana, evitar las islas de calor, así como aprovechar los elementos naturales para beneficio del entorno, tales como: el uso del agua de lluvia y aguas residuales tratadas para el riego de áreas verdes, el aprovechamiento de la energía solar, la vegetación nativa para la creación de áreas verdes, la conservación y mantenimiento de los cauces naturales y su vegetación;
-
-V.- Proteger, preservar y restaurar de manera prioritaria las zonas consideradas como de infiltración y recarga de mantos acuíferos en las zonas urbanas;
-
-VI.- Establecer en los centros comerciales y otros espacios, infraestructura de captación de agua de lluvia y aprovechamiento de la luz solar; y
-
-VII.- El establecimiento de áreas naturales protegidas de competencia municipal;
-
-VIII.- Las áreas prioritarias para la conservación, que son aquellas zonas con riqueza de especies, ecosistemas, vestigios paleontológicos, prehispánicos y culturales, y que ofrecen importantes servicios ambientales; y
-
-IX.- Establecer acciones que permitan desarrollar las capacidades de mitigación, adaptación y desarrollar las capacidades de resiliencia para enfrentar el cambio climático.
+ARTÍCULO 493 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 494.
 
 (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 494 BIS.- El Sistema de Información Ambiental a cargo de la SEMADESU, deberá contener información relativa a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo, en el ámbito de competencia municipal; al ordenamiento ecológico del territorio; a los residuos de competencia municipal, así como aquellos que ingresen al relleno sanitario; autorizaciones para el derribo de árboles y vegetación en general; y la correspondiente a los registros, programas y acciones que se realicen para la preservación y protección del ambiente, en el ámbito de competencia municipal.
-
-La SEMADESU deberá incorporar en su página de internet todos aquellos datos necesarios que permitan al público en general conocer de manera confiada y veraz la situación ambiental en el Municipio de Aguascalientes sobre las materias que componen el Sistema de Información Ambiental, sin más limitante que la información que en términos de la ley de la materia sea considerada como reservada o confidencial.
+ARTÍCULO 494 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 495.
 
-Se considera de competencia exclusiva de la Federación, según lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la regulación de los materiales o residuos peligrosos, por lo que el Municipio participará como auxiliar en todas las instancias competentes para el cumplimiento de lo dispuesto en la legislación vigente realizando los acuerdos necesarios.
-
-El Municipio proporcionará las facilidades administrativas e información u orientación necesarias para que las actividades comerciales que se realizan en mercados y vías públicas así como en otros establecimientos comerciales e industriales manejen y confinen sus desechos según lo dispuesto por las leyes y ordenamientos en la materia.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 496.
 
@@ -10005,411 +9731,85 @@ El Municipio proporcionará las facilidades administrativas e información u ori
 
 ### CAPITULO II. De las Areas Naturales Protegidas
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
 ###### ARTÍCULO 497.
 
-El permiso ambiental de funcionamiento que expide la SEMADESU tiene como propósito prevenir y controlar:
-
-I.- La contaminación atmosférica y los olores perjudiciales provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios de competencia municipal;
-
-II.- La contaminación visual;
-
-III.- La contaminación por ruido;
-
-IV.- La afectación por vibraciones, energía térmica, energía lumínica o radiaciones electromagnéticas;
-
-V.- La contaminación ambiental por residuos sólidos urbanos;
-
-VI.- La pérdida de vegetación de las áreas verdes o los ecosistemas dentro del territorio municipal; y
-
-VII. La contaminación proveniente de las descargas de aguas residuales que se viertan al alcantarillado municipal y a los cuerpos de agua competencia del municipio.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ARTÍCULO 497 BIS.- (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+ARTÍCULO 497 TER.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-ARTÍCULO 497 TER.- La apertura de establecimientos comerciales y/o de servicios en el territorio del Municipio de Aguascalientes, estará sujeta a la obtención del permiso ambiental de funcionamiento, previo a la obtención de la licencia para el funcionamiento de las actividades comerciales y/o servicios que otorga el Municipio.
+ARTÍCULO 497 QUATER.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-Para la expedición del permiso a que se refiere el párrafo anterior, los interesados deberán presentar una solicitud por escrito, anexando la siguiente información:
-
-I. Nombre o razón social del propietario del establecimiento;
-
-II. Dirección del establecimiento y colindancias, incluyendo un mapa de localización;
-
-III. Giro o actividad;
-
-IV. Descripción detallada del proceso o actividad a desarrollar;
-
-V. Consumo anual de materias primas, materiales o productos necesarios para realizar la actividad, así como las condiciones de su almacenamiento;
-
-VI. Superficie total del predio y superficie requerida para la actividad a desarrollar;
-
-VII. Características y cantidad del equipo, mobiliario o maquinaria requeridos para realizar la actividad;
-
-VIII. Tipo y cantidad de energía y combustibles a utilizar en un año;
-
-IX. Horario de trabajo;
-
-X. Productos a obtener anualmente;
-
-XI. Tipo y cantidad de los residuos generados por la actividad durante un año;
-
-XII. Tipo de manejo y disposición final de los residuos generados;
-
-XIII. Equipos o métodos de control de las emisiones a la atmósfera; y
-
-XIV. Origen de las aguas residuales a generar y su destino.
-
-Asimismo, los interesados deberán anexar copia de la constancia de alineamiento y compatibilidad urbanística expedida por la SEDUM.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 497 QUATER.- La SEMADESU deberá revisar la información presentada en un plazo no mayor a diez días hábiles, pudiendo por única vez requerir al interesado información complementaria, la cual deberá presentarse en un término máximo de cinco días hábiles.
-
-En el caso de que el interesado no presente la información requerida dentro del plazo solicitado o esté incompleta, la SEMADESU deberá desechar el trámite.
-
-Presentada la información complementaria, la SEMADESU en un plazo máximo de diez días hábiles, deberá emitir el dictamen correspondiente, en el que podrá otorgar o negar el permiso ambiental de funcionamiento.
-
-El permiso ambiental de funcionamiento tendrá una vigencia indefinida, siempre y cuando se mantengan los supuestos bajo los cuales fue otorgado.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 497 QUINQUIES.- La SEMADESU podrá incluir en el permiso ambiental de funcionamiento condiciones específicas para reducir los efectos negativos en el ambiente derivados de las actividades que realizará el establecimiento.
-
-Los titulares del permiso ambiental de funcionamiento estarán obligados a cumplir con las condiciones específicas que al efecto indique la SEMADESU.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+ARTÍCULO 497 QUINQUIES.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 498.
 
-Cuando la SEMADESU reciba de la autoridad Estatal o Federal un instrumento de evaluación ambiental, deberá emitir su opinión en un término de 7 días hábiles para el informe preventivo y 12 días hábiles para el manifiesto de impacto ambiental, pasado éste sin que se haya respondido, se entenderá que no existe objeción respecto de la realización de la obra o actividad.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
 ### CAPÍTULO III. De la Prevención y Control de la Contaminación
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2017)</small>
-
 ###### ARTÍCULO 499.
 
-Las áreas naturales protegidas de competencia municipal son predios o superficies dentro del territorio municipal que bajo declaratoria del H. Ayuntamiento, en los términos de la LGEEPA, la LPAEA, este Código, y demás Leyes aplicables en la materia, son destinadas para la conservación, preservación y aprovechamiento sustentable de los recursos naturales, bajo las modalidades que se precisen en la declaratoria correspondiente e imponiéndoles las limitaciones que se determinen en la misma.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 499 BIS.- Las categorías de las áreas naturales protegidas municipales son:
-
-I.- Parques urbanos.- son áreas de uso público de los centros de población que contribuyen a regular y preservar el balance ambiental entre las áreas urbanas e industriales con la naturaleza; en ellas se protegen elementos naturales o culturales y se repercute benéficamente en el medio ambiente. Estas áreas traen como beneficio la regulación del clima dentro de la ciudad y funcionan como espacios de recreación y/o contemplación para las personas; y
-
-II.- Zonas de Conservación Ecológica de los Centros de Población.- son áreas dentro de la mancha urbana que presentan reductos de vegetación original en buen estado de conservación, representadas por especies propias de la región y que se recomienda sean conservadas como parte del patrimonio natural.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+ARTÍCULO 499 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 500.
 
-Cualquier persona física o moral podrá proponer el establecimiento de un área natural protegida municipal, para lo cual deberá presentar la siguiente información para sustentar su propuesta:
-
-I. Nombre del área propuesta;
-
-II. Ubicación;
-
-III. Superficie aproximada;
-
-IV. Nombre de las personas físicas y morales que apoyen la propuesta;
-
-V. Descripción de los ecosistemas o especies que se pretenden proteger;
-
-VI. Razones que justifiquen la protección del área;
-
-VII. Antecedentes de protección del área;
-
-VIII. Proyectos de investigación que se hayan realizado en el área;
-
-IX. Problemática específica que deba tomarse en cuenta; y
-
-X. Propuestas de manejo del área.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 501.
 
-Las declaratorias para el establecimiento de las áreas naturales protegidas municipales, contendrán:
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-I. El nombre y la categoría del área natural protegida, así como los objetivos de su establecimiento;
-
-II. La delimitación precisa del área, ubicación, superficie, medidas y linderos, plano geográfico, y en su caso, la zonificación correspondiente;
-
-III. Las modalidades a que se sujetará el uso del suelo y el aprovechamiento de los recursos naturales dentro del área;
-
-IV. La concordancia con el Programa de Desarrollo Urbano vigente;
-
-V. La descripción de las actividades que podrán efectuarse en el área;
-
-VI. La causa de utilidad pública que, en su caso, motive la expropiación de terrenos para la adquisición del dominio, observándose las previsiones que al respecto determinan las leyes y reglamentos;
-
-VII. Los lineamientos particulares para la administración, en su caso, el establecimiento de órganos colegiados representativos, la creación de patronatos o fideicomisos;
-
-VIII. El plazo para la elaboración del programa de manejo del área; y
-
-IX.- Los demás aspectos que considere necesarios el H. Ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 501 BIS.- Previo a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas municipales, la SEMADESU deberá realizar por sí o a través de terceros, el estudio previo justificativo en cumplimiento con los requisitos que señala la LPAEA.
-
-La SEMADESU podrá solicitar el apoyo de otras dependencias de la administración pública municipal, del Estado o la Federación, así como la participación de las instituciones de educación, las asociaciones de profesionistas, organizaciones de la sociedad civil o cualquier ciudadano interesado o relacionado con la materia o el tema.
-
-Una vez integrado debidamente el estudio a que se refieren los párrafos anteriores, la SEMADESU lo pondrá a disposición del público en general, para su consulta en sus oficinas por un plazo de treinta días naturales, tiempo en el cual las personas interesadas podrán presentar por escrito sus opiniones al respecto.
-
-Una vez realizada la consulta anteriormente señalada, la SEMADESU, en un plazo de veinte días hábiles, deberá remitir el expediente que contenga el estudio previo justificativo, las opiniones derivadas de la consulta pública y un proyecto de declaratoria a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno para que lo remita a la Comisión conducente para que elabore el dictamen correspondiente y lo someta al Cabildo para su análisis, discusión y en su caso, aprobación.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+ARTÍCULO 501 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 502.
 
-Las declaratorias serán publicadas en el Periódico Oficial del Estado y se notificará previamente a los propietarios en el último domicilio que hayan señalado ante la autoridad municipal, en caso contrario se hará una segunda publicación, la que surtirá efectos de notificación.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+ARTÍCULO 502 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-ARTÍCULO 502 BIS.- En la administración de las áreas naturales protegidas municipales, se deberán adoptar:
+ARTÍCULO 502 TER- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-I.- Lineamientos, mecanismos institucionales, programas, políticas y acciones destinadas a:
-
-a) La conservación, preservación, protección y restauración de los ecosistemas;
-
-b) El uso y aprovechamiento sustentable de los recursos naturales; y
-
-c) La inspección y vigilancia;
-
-II.- Medidas relacionadas con el financiamiento para su operación;
-
-III.- Instrumentos para promover la coordinación entre los distintos niveles de gobierno, así como la concertación de acciones con los sectores público, social y privado, y
-
-IV.- Acciones tendientes a impulsar la capacitación y formación del personal técnico de apoyo.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 502 TER- Corresponde al Municipio, a través de la SEMADESU, la administración, manejo y vigilancia de las áreas naturales protegidas de competencia municipal, por lo que el H. Ayuntamiento deberá prever en el presupuesto de egresos correspondiente para el ejercicio fiscal próximo inmediato, los recursos necesarios para garantizar la operación y el logro de los objetivos previstos en la declaratoria.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 502 QUATER.- La administración y manejo de las áreas naturales protegidas de competencia municipal por parte de la SEMADESU, se efectuará a través del área de recursos naturales y/o biodiversidad.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+ARTÍCULO 502 QUATER.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 503.
 
-Los programas de manejo de las áreas naturales protegidas de competencia municipal serán elaborados directamente por la SEMADESU o a través de terceros, debiendo contener lo previsto en la LPAEA.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-Además la formulación del programa de manejo, deberá promover la participación de:
+ARTÍCULO 503 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-I. Los habitantes, propietarios y poseedores de los predios que conforman el área respectiva;
-
-II. Dependencias de la Administración Pública Federal y Estatal que, por su competencia, pudieran aportar elementos al programa; y
-
-III. Las organizaciones sociales, públicas o privadas, y demás personas interesadas.
-
-Se publicará un resumen del programa de manejo en el Periódico Oficial del Estado, así como un plano de localización del área y la zonificación.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 503 BIS.- El programa de manejo será revisado por lo menos cada tres años por la SEMADESU con el objeto de evaluar su efectividad y proponer posibles modificaciones.
-
-Se podrá modificar el programa de manejo cuando:
-
-I. Las condiciones naturales y originales del área hayan cambiado debido a la presencia de fenómenos naturales y se requiera el planteamiento de estrategias y acciones distintas a las establecidas en el programa vigente;
-
-II. Técnicamente se demuestre que las estrategias o acciones establecidas en la zonificación del programa vigente son insuficientes o erróneas para la conservación del área natural protegida.
-
-Las modificaciones al programa de manejo que resulten necesarias deberán seguir el mismo procedimiento establecido para su elaboración y un resumen de las mismas se publicará en el Periódico Oficial del Estado, y en su caso, un plano de las modificaciones a la zonificación.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 503 TER- Las áreas naturales protegidas municipales deberán ser inscritas en los programas de ordenamiento ecológico del territorio, así como en el registro público de la propiedad.
+ARTÍCULO 503 TER.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ### CAPÍTULO IV. De los Recursos Naturales
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
-
 ###### ARTÍCULO 504.
 
-Es facultad del Municipio, a través de la SEMADESU, la prevención y control de la contaminación ambiental originada por residuos sólidos urbanos, emisiones a la atmósfera, ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, generados por establecimientos mercantiles, de servicios, o zonas habitacionales; de conformidad con las leyes aplicables.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2017)</small>
+ARTÍCULO 504 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-ARTÍCULO 504 BIS.- Para prevenir y controlar la contaminación ambiental en el Municipio, la Secretaría del Medio Ambiente y Desarrollo Sustentable deberá:
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
-
-I. Ordenar la aplicación de medidas necesarias para reducir o eliminar tanto en zonas comerciales como zonas habitacionales las emisiones atmosféricas contaminantes, ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-II. Requerir la realización de análisis para determinar los niveles de emisión de contaminantes a la atmósfera;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-III. Ordenar la instalación de equipos o sistemas de control de emisiones, cuando rebasen los límites máximos permisibles vigentes u ocasionen molestias a la población;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IV. Informar a las autoridades estatales y federales sobre la existencia de actividades contaminantes a la atmósfera cuando éstas se ubiquen fuera del ámbito de su competencia;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-V. Integrar y mantener actualizado el inventario de fuentes fijas presentes en su territorio, incluyendo aquellas de competencia del estado y la federación;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VI. Vigilar, y en su caso sancionar, que los servicios públicos municipales no originen o produzcan contaminación ambiental, de conformidad con la normatividad ambiental vigente;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VII. Ordenar la reubicación de todo establecimiento comercial o de servicios, que estando ubicado en zonas habitacionales, sea motivo de quejas por parte de la población, mismas que haya podido constatar mediante visitas de campo; en prevención de molestias de este tipo, analizará minuciosamente la información proporcionada por los interesados y en caso de autorizar el funcionamiento de las empresas en cuestión, previo a su funcionamiento, especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera, se cancelará la autorización otorgada y se exigirá su reubicación;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
-
-VIII. Coordinar las medidas preventivas para evitar contingencias ambientales por contaminación al ambiente, conjuntamente con la Coordinación Municipal de Protección Civil;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IX. Identificar las áreas generadoras de tolvaneras dentro del territorio municipal y establecer programas de control con la participación de la población para tomar las medidas que se consideren convenientes; y
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-X. Proponer los convenios necesarios con la Federación y el Estado para el cumplimiento de este artículo.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 504 TER.- Se consideran fuentes fijas de jurisdicción municipal aquellas que funcionen como establecimientos comerciales y de servicios que generen o puedan generar olores, gases, o partículas sólidas o líquidas a la atmósfera y que se ubiquen dentro de los siguientes giros y actividades:
-
-I. Baños públicos;
-
-II. Carpintería;
-
-III. Elaboración de botana (microempresas);
-
-IV. Elaboración de empanadas (microempresas);
-
-V. Elaboración de pan (proceso no industrial);
-
-VI. Elaboración de paletas y helados (microempresas);
-
-VII. Elaboración de tortillas de harina (microempresas);
-
-VIII. Elaboración de tostadas (microempresas);
-
-IX. Estación de servicio de gas L.P., gasolina y diesel;
-
-X. Fábrica y reparación de anuncios con emisiones a la atmósfera (proceso no industrial);
-
-XI. Fabricación de lámina, cartón y cartoncillo (proceso no industrial);
-
-XII. Fabricación de velas y veladoras (proceso no industrial);
-
-XIII. Fabricaciones de carrocerías y remolques (proceso no industrial);
-
-XIV. Herrería;
-
-XV. Hojalatería y pintura;
-
-XVI. Hoteles (si tiene caldera);
-
-XVII. Hospital, clínica y sanatorio (si tiene caldera);
-
-XVIII. Imprenta y litografía (proceso no industrial);
-
-XIX. Impresiones de calcomanías y etiquetas (proceso no industrial);
-
-XX. Muebles de madera (fabricación mediante proceso no industrial);
-
-XXI. Pizzería;
-
-XXII. Restaurantes;
-
-XXIII. Rosticería;
-
-XXIV. Taller de alfarería (elaboración con proceso no industrial);
-
-XXV. Taller de artesanías con proceso no industrial de horneado (microempresas);
-
-XXVI. Taller de balconería;
-
-XXVII. Taller de fragua;
-
-XXVIII. Taller de soldadura;
-
-XXIX. Taller de torno; y
-
-XXX. Tintorería.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+ARTÍCULO 504 TER.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 505.
 
-La emisión de contaminantes a la atmósfera proveniente de fuentes fijas de competencia municipal, no deberá exceder los niveles máximos permisibles que establece la normatividad vigente.
-
-La SEMADESU sancionará cuando se produzca, expela, descargue o emita contaminantes que alteren la atmósfera o que puedan provocar degradación o molestias en perjuicio del medio ambiente, la salud humana, la flora, la fauna.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 506.
 
-Se prohíbe y se sancionará a quien realice quemas al aire libre de cualquier material o residuo, sólido o líquido, sin autorización previa de la SEMADESU, en las materias de su competencia.
-
-Cuando se pretenda realizar cualquier tipo de quema, se deberá solicitar a la SEMADESU, una autorización por escrito. Dicha solicitud deberá contener la siguiente información:
-
-I. Nombre y domicilio del solicitante;
-
-II. Fecha, hora y lugar donde se pretende llevar a cabo la quema;
-
-III. Propósito, fin, motivo o justificación de la quema;
-
-IV. Tipo de material o combustible a utilizar;
-
-V. Cantidad o volumen de material o combustible;
-
-VI. Tiempo aproximado de duración; y
-
-VII. Medidas de seguridad que determine la autoridad competente, la cual cumplirá el solicitante durante la actividad, de la quema.
-
-La autorización podrá ser otorgada por cada quema que se pretenda realizar y la SEMADESU se reserva la facultad de negar o condicionar dicha quema, cuando pudiera representar riesgos o impactos ambientales.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
-
-El solicitante deberá acatar las medidas de seguridad que determine la Secretaría del Medio Ambiente y Desarrollo Sustentable en la autorización, así como las que indique la Coordinación Municipal de Protección Civil.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 507.
 
-Para la instalación y funcionamiento de ladrilleras dentro del territorio municipal, además de las obligaciones que debe cumplir como fuente fija de jurisdicción estatal, se deberá contar con el permiso de funcionamiento para ladrillera o alfarería que expide la SEMADESU siempre y cuando exista un convenio de colaboración interinstitucional entre el Estado y el Municipio, que lo establezca, previa autorización del H. Ayuntamiento.
-
-Queda prohibida la instalación de ladrilleras y alfarerías en los cauces de los arroyos. Sólo se autorizará la instalación de las mismas en los sitios que para tal fin haya designado el H. Ayuntamiento, a través de la SEMADESU y el IMPLAN, siempre que éstos se encuentren fuera de las zonas habitacionales y cuenten con una zona de amortiguamiento, en apego a la normatividad vigente.
-
-La SEMADESU deberá coordinar los convenios con las autoridades competentes para la planeación de una zona controlada para la instalación de estas actividades.
-
-El Municipio en coordinación con el Estado definirá los combustibles permitidos para la quema de ladrillo, cerámica y materiales similares, los cuales le serán señalados al interesado en el permiso de funcionamiento y serán los únicos que podrán utilizarse.
-
-Los productores de ladrillo y cerámica deberán instalar el equipo necesario, para prevenir y controlar la contaminación atmosférica.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 508.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas sólidas o liquidas a la atmósfera, se requerirá contar con permiso ambiental de funcionamiento emitido por la SEMADESU y cumplir además con las siguientes obligaciones:
-
-I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permitidos establecidos en las Normas Oficiales Mexicanas;
-
-II. Integrar un inventario, medir y registrar sus emisiones contaminantes a la atmósfera, cuando así lo determine la SEMADESU;
-
-III. Canalizar y controlar las emisiones contaminantes a la atmósfera de acuerdo con las características que al efecto establezca la SEMADESU;
-
-IV. (DEROGADA, P.O. 11 DE ABRIL DE 2016)
-
-V. (DEROGADA, P.O. 11 DE ABRIL DE 2016); y
-
-VI. Avisar de inmediato, a la SEMADESU en caso de falla del equipo de control, para que ésta determine lo conducente.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 509.
 
@@ -10419,79 +9819,25 @@ VI. Avisar de inmediato, a la SEMADESU en caso de falla del equipo de control, p
 
 (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
 ###### ARTÍCULO 511.
 
-Tratándose de fuentes fijas de competencia municipal, el permiso ambiental de funcionamiento deberá contener, al menos lo siguiente:
-
-I. Los límites máximos permisibles de emisión por tipo de contaminante a que deberá de sujetarse la fuente emisora, cuando por sus características especiales de construcción o sus peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las normas oficiales mexicanas vigentes, cuando a juicio de la SEMADESU deban presentarse;
-
-II. Los inventarios, mediciones y registros de las emisiones contaminantes, cuando a juicio de la SEMADESU deban presentarse;
-
-III. La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de emisiones, en el caso de requerirse;
-
-IV. Las medidas y acciones que deberán llevarse a cabo para reducir, canalizar y controlar las emisiones, así como aquellas para el caso de una contingencia;
-
-V. Los equipos de control y reducción de emisiones contaminantes a la atmósfera y de olores perjudiciales al ambiente o a la salud, cuando a juicio de la SEMADESU deban presentarse; y
-
-VI. Realizar, a juicio de la SEMADESU, un programa de operación y mantenimiento de equipos y procesos que generen emisiones contaminantes y de los equipos de control de anticontaminantes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 512.
 
-Corresponde al Municipio, a través del organismo operador municipal de los servicios de agua potable, alcantarillado y saneamiento, en coordinación con la SEMADESU, la prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de los cauces naturales bajo custodia del Municipio, mediante las siguientes acciones:
-
-I. Vigilar que las aguas de los sistemas públicos de abastecimiento de las comunidades urbanas y rurales reciban tratamiento de potabilización, de acuerdo a la normatividad vigente;
-
-II. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas de jurisdicción municipal;
-
-III. Prevenir y controlar la contaminación que los servicios públicos municipales pudieran generar, para evitar que se afecte la calidad del agua;
-
-IV. Llevar y actualizar el registro de descargas de agua residuales en los sistemas de drenaje y alcantarillado que administre;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-V. Colaborar con el Estado y la Federación en el control de la calidad de las descargas de aguas residuales;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VI. Denunciar ante la autoridad competente a quien realice descargas o vertimientos de aguas con materiales peligrosos, radioactivos u otros fuera de su competencia;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VII. Promover el reuso de aguas residuales tratadas en la industria, la agricultura y el riego de áreas verdes, cumpliendo con la normatividad ambiental vigente;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VIII. Prevenir y controlar la contaminación de los cauces naturales y arroyos bajo custodia del Municipio; y
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IX.- Requerir la realización de los análisis pertinentes a fin de determinar los límites máximos permisibles de contaminantes en las aguas residuales que se descarguen a los sistemas de alcantarillado, bajo lo previsto por las Normas Oficiales Mexicanas específicas.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 513.
 
-Se prohíbe descargar sin previo tratamiento y sin autorización en redes de alcantarillado, drenaje municipal o arroyos bajo custodia del Municipio, o infiltrar al subsuelo aguas residuales provenientes de industrias, comercios o establecimientos de servicios que contengan contaminantes, desechos, materiales radioactivos o cualquier sustancia dañina a la salud, al ambiente, a la infraestructura urbana o que alteren el equilibrio ecológico.
-
-Se prohíbe el almacenamiento y descarga de aguas residuales que no se ajusten a los parámetros establecidos en las Normas Oficiales Mexicanas y a las especificaciones que dicte la Comisión Nacional del Agua y el organismo operador municipal del servicio de agua potable, alcantarillado y saneamiento.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 514.
 
-Los usuarios tanto públicos como privados que viertan líquidos residuales en la red municipal de alcantarillado, deberán obtener la autorización correspondiente del organismo operador municipal del servicio de agua potable, alcantarillado y saneamiento, y reportar periódicamente a éste, de acuerdo al giro que se trate, los resultados del análisis de la calidad de descarga.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 515.
 
-Se faculta a la autoridad municipal en caso de contravención a lo dispuesto anteriormente para cancelar la descarga, independientemente de la aplicación de las sanciones que correspondan. El organismo operador municipal del servicio de agua potable, alcantarillado y saneamiento, deberá enviar copia del resultado a la SEMADESU.
-
-En caso de que la SEMADESU tenga conocimiento de la existencia de una descarga fuera de los límites máximos permisibles establecidos en las normas oficiales mexicanas correspondientes, dará aviso inmediato al organismo operador municipal del servicio de agua potable, alcantarillado y saneamiento para que actúe en consecuencia y le informe del resultado de las diligencias.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 516.
 
@@ -10517,139 +9863,53 @@ En caso de que la SEMADESU tenga conocimiento de la existencia de una descarga f
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
 ###### ARTÍCULO 522.
 
-La apertura de sitios de disposición final de residuos, tales como escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales que no sean residuos peligrosos y otros similares, deberán ser previamente autorizados por la SEMADESU, para lo cual previamente se deberá contar con autorización en materia de impacto ambiental emitida por la autoridad correspondiente.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-Queda prohibida la instalación de sitios de disposición final de los residuos mencionados en el presente artículo, dentro de los cauces y su zona federal que han sido dados en custodia al Municipio, en terrenos forestales, áreas de conservación y zonas de preservación ecológica establecidas en el Programa de Desarrollo Urbano vigente, sitios RAMSAR, áreas de importancia para la conservación de las aves (AICA), así como aquellas que dañen la imagen urbana o el paisaje natural.
-
-Para la selección del sitio de estas instalaciones, se deberá privilegiar aquellos predios que hayan funcionado como bancos de materiales, que se encuentren alterados, erosionados o que por sus características no brinden servicios ambientales prioritarios.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 522 BIS.- Previo a la autorización de un sitio para la disposición final a que se refiere el artículo anterior, la SEMADESU, SEDUM, SOPMA y el IMPLAN se coordinarán para revisar las características del predio y su viabilidad, considerando los criterios señalados en el artículo anterior.
-
-Tratándose de predios que no sean propiedad del Municipio, el IMPLAN notificará a los propietarios sobre el interés de utilizar su predio como sitio de disposición final de los residuos a que se hace referencia en el artículo anterior.
-
-Una vez aceptado por el propietario del predio el destino del mismo, la SOPMA firmará un convenio de comodato con el propietario para el uso del mismo y será responsable de la operación y funcionamiento hasta que concluya su tiempo de vida útil, debiendo realizar acciones para su rehabilitación en los términos acordados con el propietario en el convenio.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+ARTÍCULO 522 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 523.
 
-Son obligaciones de los particulares con concesión o contrato para el servicio de recolección y transporte de residuos sólidos urbanos las siguientes:
-
-I. Contar con todos los requisitos y permisos actualizados establecidos en las leyes y demás disposiciones en la materia; y
-
-II. Presentar su programa de operación a la SEMADESU.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 524.
 
-Sólo se podrá autorizar el confinamiento de residuos sólidos urbanos y de manejo especial, cuando éstos no puedan ser técnica, ni económicamente sujetos a reúsos o cualquier tipo de tratamiento.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 525.
 
-Queda prohibido producir emisiones de energía térmica, sonora, lumínica y radiaciones ionizantes electromagnéticas; así como vibraciones y olores perjudiciales al ambiente o a la salud, o que afecten la flora y/o la fauna, los bienes y ecosistemas, cuando se contravengan las Normas Oficiales vigentes y las disposiciones legales correspondientes.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 526.
 
-Toda persona que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza produzcan emisiones de olores, ruidos, vibraciones, energía térmica, electromagnética o lumínica, que rebasen los límites permitidos por los reglamentos y Normas Oficiales o estén afectando a la población, deberán poner en práctica medidas correctivas, instalar los dispositivos y aislamientos necesarios para reducir o eliminar dichas emisiones a niveles permitidos y eliminar la molestia o en su caso optar por su reubicación.
-
-En el caso de la contaminación electromagnética, el responsable deberá informar a la SEMADESU sobre el nivel de radiación que emite, así como contar con el instrumento de medición adecuado para evaluar si los niveles permitidos están siendo rebasados y ponen en riesgo la salud de los seres humanos y la fauna. En el lugar donde existan antenas, el personal responsable de su funcionamiento deberá contar con el conocimiento suficiente para su adecuado funcionamiento y manejo.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 527.
 
-No se autorizará en las zonas habitacionales o colindantes a ellas, así como en los centros escolares y hospitalarios, la instalación de establecimientos comerciales, industriales, de servicios y de cualquier otro giro que por sus emisiones de gases, partículas, olores, ruidos, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica, puedan ocasionar molestias a la población, afectaciones a la salud, al ambiente o a los bienes.
-
-En el caso de actividades que ya se encuentran instaladas en dichas zonas, su permanencia quedará condicionada a la implementación por parte de los interesados de medidas tendientes a prevenir, controlar o corregir los efectos nocivos y desagradables a la población, la salud, los bienes y al ambiente.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 528.
 
-Cuando el manejo de residuos sólidos urbanos genere impactos negativos al suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
-
-I. Realizar las acciones necesarias para recuperar y restablecer las condiciones del suelo con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable para el predio o zona respectiva;
-
-II. Compensar los daños causados en caso de que la recuperación y restablecimiento no sean factibles; y
-
-III. Dar tratamiento y confinamiento final al material contaminado, de conformidad con la legislación aplicable.
-
-Serán responsables solidarios por los daños que se produzcan, tanto el generador como las empresas que presten los servicios para el manejo de los residuos sólidos urbanos y en su caso, el propietario del predio.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 529.
 
-Cuando se presente una situación de contingencia ambiental o emergencia ecológica producida por fuentes fijas de competencia municipal, la SEMADESU estará facultada para:
-
-I. Clausurar temporal, parcial o totalmente las obras o actividades;
-
-II. Asegurar los bienes, vehículos, utensilios, instrumentos directamente relacionados con la conducta que genera la contingencia ambiental o emergencia ecológica;
-
-III. Reubicar la fuente contaminante conforme a la normatividad aplicable; y
-
-IV. Informar ante la autoridad competente los hechos observados cuando la contingencia ambiental o emergencia ecológica provengan de una fuente de jurisdicción estatal o federal.
-
-La SEMADESU se coordinará en todo lo necesario con las autoridades competentes para la atención y control de la contingencia ambiental o emergencia ecológica, hasta quedar controlada en su totalidad dicha situación.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 530.
 
-La realización de espectáculos públicos y actividades culturales y/o religiosas que generen emisiones de ruido, energía térmica, energía lumínica, vibraciones, gases, partículas, olores y radiación, que puedan rebasar los límites permitidos por las Normas Oficiales Mexicanas, y que causen daños al ambiente y/o a la salud, deberán obtener previo a su realización, autorización por parte de la SEMADESU.
-
-Para obtener la autorización anterior deberán presentar solicitud por escrito ante dicha Secretaría.
-
-La SEMADESU evaluará los impactos y molestias que el espectáculo público o actividad podría generar, y con base en dicha evaluación dictará las condicionantes a la que se sujetará la realización de las actividades señaladas.
-
-Asimismo, la SEMADESU hará del conocimiento de las autoridades ambientales estatales y federales la instalación o realización del evento para que en su caso, actúen conforme a su competencia.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 531.
 
-La SEMADESU vigilará, con base en las Normas Oficiales Mexicanas y demás lineamientos aplicables, los niveles de ruido que generan los establecimientos mercantiles y de servicios de su competencia.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
-
-Asimismo, vigilará las emisiones de ruido que se produzcan en zonas habitacionales ya sea de oficio o a través de la denuncia popular.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ### CAPÍTULO V. De la Educación Ambiental
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
 ###### ARTÍCULO 532.
 
-Para la protección de la flora y fauna silvestre existente en el municipio, el H. Ayuntamiento podrá celebrar, con la intervención que corresponda al Gobierno del Estado, acuerdos con la Federación para:
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-I. Apoyar el establecimiento, modificación y levantamiento de las vedas de flora y fauna silvestre dentro del territorio municipal;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-II. Apoyar en la vigilancia y control del aprovechamiento de recursos naturales en áreas que sean el hábitat de especies de flora y fauna silvestre, especialmente de las endémicas o en cualquier categoría de riesgo existentes en el municipio;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-III. Apoyar en el control de la caza, venta, explotación y aprovechamiento de especies de flora y fauna silvestre existentes en el municipio;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IV. Fomentar entre la población del municipio la denuncia de la caza, captura, compra o tráfico ilegal de especies de flora y fauna silvestre existentes en el municipio; y
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-V. Apoyar en la elaboración y actualización del inventario de las especies de flora y fauna silvestre existentes en el municipio.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 533.
 
@@ -10657,85 +9917,25 @@ V. Apoyar en la elaboración y actualización del inventario de las especies de 
 
 ### CAPÍTULO VI. De la Participación Social y la Coordinación Gubernamental
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
-
 ###### ARTÍCULO 534.
 
-Corresponde al Municipio, a través de la SEMADESU, el fomento e impulso a los planes, proyectos y programas de educación ambiental no formal e informal entre todos los sectores de la sociedad y en todas las comunidades del territorio municipal, así como operar los centros de educación, cultura y promotoría ambiental.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 535.
 
-En coordinación con el Estado y Federación se promoverá la educación ambiental formal, ambas con el fin de:
-
-I. Conocer y comprender por parte de la población del Municipio los principales problemas ambientales de su comunidad, sus orígenes y consecuencias, así como las formas y medios por los que se pueden prevenir y controlar.
-
-II. Concientizar a los habitantes del Municipio para que a través de un cambio de actitud coadyuven a la conservación, protección y mejoramiento del ambiente, así como a denunciar a todas aquellas personas físicas o morales, públicas o privadas que atenten contra el medio ambiente.
-
-III. Fomentar e inculcar en la población las actitudes y aptitudes básicas que orienten hacia un consumo responsable así como el uso adecuado del agua, del suelo, a la disminución de la generación de basura, emisiones de contaminantes y el uso eficiente de energía.
-
-IV. Fomentar en coordinación con la Federación y con el Estado, el respeto, conocimiento y protección de la flora y fauna urbana y silvestre existentes en el municipio excluyendo la fauna nociva, así como las obligaciones del propietario, poseedor o encargado de éstas en caso de que existiere.
-
-V. Promover la creación de una cultura orientada al empleo racional de los recursos naturales para impulsar el desarrollo sostenible del Municipio, buscando un equilibrio entre la conservación del ambiente y el desarrollo económico.
-
-VI. Destinar por parte del Municipio un espacio en los medios de comunicación para difundir la educación ambiental.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 536.
 
-La Secretaría de Medio Ambiente y Desarrollo Sustentable, elaborará el Programa Municipal de Educación Ambiental el cual, una vez aprobado por el Comité Municipal de Ecología y Gestión Ambiental funcionará como una guía de las acciones y actividades que en materia de educación ambiental se deban de realizar en el Municipio de Aguascalientes.
-
-La Secretaría de Medio Ambiente y Desarrollo Sustentable instrumentara, dará seguimiento y evaluara dicho programa.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ### CAPÍTULO VII. De la Denuncia Popular
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
 ###### ARTÍCULO 537.
 
-El H. Ayuntamiento con la finalidad de promover la participación de los diversos sectores de la población y facilitar la coordinación de los tres niveles de Gobierno, instalará el Consejo Municipal de Medio Ambiente y Desarrollo Sustentable.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-El Consejo Municipal de Medio Ambiente y Desarrollo Sustentable será integrado por:
-
-I. Un Presidente, que será el Presidente Municipal de Aguascalientes o quien él designe para tal efecto;
-
-II. Un Secretario, que será el Regidor titular de la Comisión de Ecología;
-
-III. Un Coordinador, que será el Secretario de Medio Ambiente y Desarrollo Sustentable del municipio o quién el designe para tal efecto;
-
-IV. Un Representante de las Asociaciones Civiles Constituidas en el Municipio de Aguascalientes, en materia ambientalista;
-
-V. Un representante de las Asociaciones Juveniles debidamente acreditada;
-
-VI. Un representante de las Asociaciones de Profesionistas debidamente constituidas;
-
-VII. Un representante de las cámaras empresariales debidamente constituidas;
-
-VIII. Un representante de las instituciones de educación superior que existen en el Estado; y
-
-IX. Un representante de los Comités dé Concertación y Participación Social.
-
-El Consejo Municipal de Medio Ambiente y Desarrollo Sustentable, convocará a una reunión a fin de que elija a la persona que tendrá a cargo la representación del sector que represente.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
-
-ARTÍCULO 537 BIS.- El Consejo Municipal de Medio Ambiente y Desarrollo Sustentable tendrá las siguientes funciones:
-
-I.- Asesorar a la Secretaría de Medio Ambiente y Desarrollo Sustentable en la aplicación de Políticas, Programas, Estudios y Acciones específicas de competencia municipal;
-
-II.- Evaluar resultados de las acciones de competencia municipal, a partir de informes o con base en los estudios que lleve a cabo o promueva la Secretaría de Medio Ambiente y Desarrollo Sustentable;
-
-III.- Recomendar a la Secretaría de Medio Ambiente y Desarrollo Sustentable las acciones para mejorar la aplicación de políticas Programas, Estudios, Proyectos y Acciones específicas de competencia municipal que se realicen en materia ambiental;
-
-IV.- Presentar propuestas, proyectos o recomendaciones a la Secretaría de Medio Ambiente y Desarrollo Sustentable e informar los acuerdos y avances a la ciudadanía;
-
-V.- Difundir a la sociedad los trabajos, las recomendaciones, opiniones y evaluaciones realizadas por el Consejo, a través de los medios disponible (sic) en la Secretaría de Medio Ambiente y Desarrollo Sustentable; y
-
-VI.- Promover una cultura ambiental entre los diversos sectores de la sociedad, a través de los medios electrónicos disponibles en la Secretaría de Medio Ambiente y Desarrollo Sustentable.
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VII.- Expedir su reglamento interno.
+ARTÍCULO 537 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 538.
 
@@ -10747,95 +9947,31 @@ VII.- Expedir su reglamento interno.
 
 ###### ARTÍCULO 539.
 
-Toda persona, física o moral, podrá denunciar ante la autoridad municipal en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daño al ambiente, a los recursos naturales, o contravenga las disposiciones del presente Código y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 540.
 
-Al recibir la denuncia ciudadana, la SEMADESU, acusará recibo y le asignará un número de expediente, haciendo la anotación respectiva en el libro de registro.
-
-Una vez analizada la denuncia la autoridad emitirá la admisión o no de la denuncia, lo cual se notificará al denunciante.
-
-En el caso de que el denunciante haya dado su nombre y domicilio o correo electrónico, en un plazo de diez días hábiles siguientes a la presentación de su denuncia, se le notificará el estado de ésta.
-
-Cuando se presenten dos o más denuncias respecto de los mismos hechos, actos u omisiones, deberá acordarse su acumulación en un solo expediente, prevaleciendo el primer número de expediente asignado.
-
-El contenido del acuerdo respectivo deberá notificarse a los denunciantes. Para el seguimiento de la denuncia ciudadana, se estará a lo dispuesto en este Código.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 541.
 
-La denuncia deberá presentarse por escrito, vía telefónica, por correo, correo electrónico, fax o cualquier otro medio y contener al menos lo siguiente:
-
-I. El nombre, domicilio o correo electrónico del denunciante, en el caso de que quiera recibir información respecto de la atención a su denuncia, de lo contrario podrá ser anónima;
-
-II. Los actos, hechos u omisiones denunciadas;
-
-III. Los datos que permitan identificar al presunto infractor, localizar la fuente de contaminación o el lugar en donde se estén generando los actos, hechos u omisiones denunciadas;
-
-IV. Las pruebas que en su caso ofrezca el denunciante.
-
-El denunciante podrá solicitar que se guarde secreto respecto de su identidad, por razones de seguridad e interés particular, debiendo la SEMADESU dar seguimiento a la denuncia conforme a sus atribuciones, evitando que se conozcan los datos del denunciante.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 542.
 
-Cuando la SEMADESU conozca de actos, hechos u omisiones que constituyan violaciones a la legislación ambiental, iniciará las acciones que procedan con base en su competencia.
-
-Si del resultado de las investigaciones realizadas se desprenden actos, hechos u omisiones que constituyan violaciones a la normatividad federal o estatal, remitirá la denuncia a la autoridad competente, pidiéndole le informe sobre la atención a la misma, así como informará de ello al denunciante.
-
-Si del resultado de las investigaciones realizadas por la autoridad ambiental, se desprenden actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, la SEMADESU emitirá las recomendaciones necesarias para promover ante ésta u otras las ejecuciones de las acciones procedentes.
-
-En el caso de encontrar la posible comisión de un delito, la SEMADESU presentará la denuncia penal ante la autoridad competente.
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 543.
 
-Los expedientes de denuncia que se encuentren en trámite podrán concluirse, en los siguientes casos:
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-I. Incompetencia para conocer de la denuncia planteada, en cuyo caso se remitirá a la autoridad competente;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-II. Dictarse las recomendaciones correspondientes;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-III. Inexistencia de contravenciones a la normatividad ambiental;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IV. Dictarse anteriormente acuerdo de acumulación de expediente;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-V. Emitirse una resolución derivada del procedimiento administrativo; y
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-VI. Desaparecer o extinguirse los actos, hechos u omisiones materia de la denuncia, siempre y cuando éstos no hubieren ocasionado daños al ambiente.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-La SEMADESU notificará al denunciante todos los acuerdos que se emitan respecto a la atención de su denuncia, siempre y cuando haya otorgado un domicilio o correo electrónico para ello.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+(DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 543
 
-1.- Para comprobar el cumplimiento de las obligaciones en materia ambiental, la SEMADESU llevará a cabo visitas de inspección y verificación en los términos previstos en este Código.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+1.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 543
 
-2.- La SEMADESU en su estricto ámbito de competencia determinará e impondrá las medidas de seguridad que estime convenientes, para prevenir y controlar la contaminación del ambiente en cualquiera de los rubros que señala el presente ordenamiento.
-
-Asimismo, en el ámbito de su competencia, impondrá las sanciones procedentes por violaciones a las disposiciones previstas en este Código.
+2.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 > <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL EL LIBRO QUINTO DEL CÓDIGO.</small>
 
@@ -21493,25 +20629,7 @@ VIII. Ejecutar el procedimiento económico-coactivo en contra de los infractores
 
 IX. Las demás que determine el presente Código y los ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 1298 SEPTIES.- Son facultades y atribuciones de la Secretaría de Medio Ambiente y Desarrollo Sustentable, las siguientes:
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-I. Prevenir y controlar la contaminación atmosférica por fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-II. Emitir dictámenes en el ámbito de su competencia que le soliciten las autoridades Federales, Estatales y/o Municipales para efectos del presente título, para prevenir la contaminación ambiental;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-III. Expedir el permiso ambiental de funcionamiento y otorgar las autorizaciones que correspondan a los establecimientos comerciales y/o de servicios de competencia municipal; y
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IV. Las que le otorguen el presente Código y demás disposiciones jurídicas aplicables.
+ARTÍCULO 1298 SEPTIES.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -26229,8 +25347,6 @@ Para efectos de la aplicación de sanciones, empresarios y ganaderos son solidar
 
 ### CAPÍTULO VIII. De las Sanciones en Materia Ambiental
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
-
 ###### ARTÍCULO 1594.
 
 Se sancionará de uno a cuarenta veces el salario mínimo general vigente en el Municipio de Aguascalientes, suspensión, y/o cancelación de las actividades del giro, según amerite el caso, cuando:
@@ -26319,57 +25435,7 @@ Se procederá a la reubicación del comerciante, cuando la estructura del puesto
 
 ###### ARTÍCULO 1601
 
-1.- Además de las establecidas en el presente ordenamiento, serán sancionadas en materia ambiental, las personas físicas o morales que lleven a cabo las siguientes actividades:
-
-I. MULTA DE TRES A DIEZ DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
-
-a) Por no recoger las heces fecales de sus mascotas cuando sean arrojadas en vía pública, áreas verdes, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
-
-II. MULTA DE DIEZ A TREINTA DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
-
-a) Por incumplir con las medidas de seguridad establecidas en la autorización para la quema al aire libre.
-
-III. MULTA DE TREINTA A CINCUENTA DÍAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
-
-a) Por depositar en el relleno sanitario residuos sólidos urbanos o de manejo especial sin contar con la autorización del Municipio;
-
-b) Por no presentar los manifiestos de entrega, transporte y recepción con el sello y firma del encargado del relleno sanitario en los términos previstos en el presente Código;
-
-c) Por incumplir con las condiciones establecidas en el permiso ambiental de funcionamiento;
-
-d) Por producir emisiones de energía térmica, lumínica, radiaciones ionizantes electromagnéticas; así como ruido, vibraciones y olores perjudiciales al ambiente o a la salud en contravención de las Normas Oficiales vigentes y las disposiciones legales correspondientes.
-
-IV. MULTA DE CINCUENTA A CIEN DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
-
-a) Por descargar, depositar, enterrar o infiltrar residuos sólidos urbanos dentro del territorio municipal, sin contar con la autorización municipal correspondiente;
-
-b) Por emitir las fuentes fijas de competencia municipal, contaminantes a la atmósfera, superando los límites máximos permisibles establecidos en las normas oficiales mexicanas correspondientes;
-
-c) Por realizar quemas al aire libre de cualquier material o residuo, sólido o líquido, sin contar con la autorización municipal correspondiente;
-
-d) No contar las fuentes fijas de competencia municipal, con ductos o chimeneas que canalicen sus emisiones a la atmósfera;
-
-e) Por no informar a la SEMADESU, o hacerlo fuera el término previsto en este Código, respecto de la falla del equipo de control de las emisiones contaminantes a la atmósfera;
-
-f) Por tirar escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales que no sean residuos peligros y otros similares, en lugares no autorizados por la SEMADESU;
-
-g) Por realizar espectáculos públicos, eventos artísticos, tradicionales, deportivos, festividades cívicas, ferias, verbenas, eventos especiales y actividades culturales y/o religiosas sin autorización por parte de la SEMADESU.
-
-V. MULTA DE CIEN A DIEZ MIL DÍAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
-
-a) Por ubicarse en las instalaciones del relleno sanitario y pretender introducir residuos peligrosos;
-
-b) Usar como combustible cualquier tipo de material de desecho que genere deterioro ambiental y/o que a partir de su utilización genere algún otro tipo de desecho inadmisible en los contenedores para desechos domésticos;
-
-c) Por realizar actividades comerciales, industriales o de servicios sin contar con el permiso ambiental de funcionamiento;
-
-d) Por almacenar escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales y otros similares, provenientes de terceros, en lugares no autorizados por la SEMADESU;
-
-e) Por tirar escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales y otros similares, dentro de los cauces y su zona federal que han sido dados en custodia al Municipio, en terrenos diversos a los forestales, áreas de conservación y zonas de preservación ecológica establecidas en el Programa de Desarrollo Urbano, sitios RAMSAR, áreas prioritarias para la conservación, áreas de importancia para la conservación de las aves (AICA), así como aquellas que dañen la imagen urbana o el paisaje natural, sin contar con la autorización de la SEMADESU.
-
-VI. SUSPENSIÓN DE ACTIVIDADES
-
-a) Por no contar con el permiso ambiental de funcionamiento.
+1.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
 ## TITULO QUINTO. DEL RECURSO
 
@@ -27721,9 +26787,35 @@ P.O. 17 DE SEPTIEMBRE DE 2018.
 
 P.O. 1 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DE "ADICIÓN DE UN ARTÍCULO 411 BIS Y DE UN PÁRRAFO QUINTO AL ARTÍCULO 1574 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DE “ADICIÓN DE UN ARTÍCULO 411 BIS Y DE UN PÁRRAFO QUINTO AL ARTÍCULO 1574 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO: La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES".]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de Parques, Jardines y Áreas Verde (sic) del Municipio de Aguascalientes. De igual manera queda sin efectos el Reglamento del Consejo Municipal de Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes.
+
+TERCERO.- Todos los trámites que se hubiesen iniciado bajo la vigencia de los ordenamientos legales señalados en el transitorio segundo, se deberán de concluir con los procedimientos previstos en los mismos.
+
+CUARTO. Los actuales integrantes del Consejo Municipal de Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes, seguirán en funciones hasta el término del periodo para el que fueron designados.
+
+QUINTO. Dentro de los ciento veinte días hábiles siguientes a la entrada en vigor del presente reglamento, se ordena a la SEMADESU enviar a las Comisiones correspondientes todos los manuales, lineamientos, protocolos y demás disposiciones reglamentarias para su aprobación por el H. Ayuntamiento.
+
+SEXTO. La Tabla para la Cuantificación y Determinación de Daños Causados a Árboles en el Municipio, deberá ser aprobada por el H. Ayuntamiento dentro de los treinta días naturales siguientes, de conformidad con la propuesta que para tal efecto formule la SEMADESU, conforme a lo señalado en el TÍTULO CUARTO, CAPÍTULO SEXTO, APARTADO DÉCIMO y artículo 407 del presente Reglamento.
+
+SÉPTIMO. La SEMADESU a más tardar el 30 de noviembre del presente año, deberá realizar la propuesta de adecuaciones presupuestales y administrativas que sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en este reglamento. Para lo cual deberá realizar los dictámenes correspondientes que establece el artículo 98, tercer párrafo, fracciones I, II y III del Código Municipal de Aguascalientes a efecto de que el H. Ayuntamiento esté en posibilidades de realizar las adecuaciones a su estructura orgánica dentro del citado ordenamiento legal.
+
+OCTAVO. Con el fin de difundir el contenido de este Reglamento entre la sociedad, la SEMADESU y la Secretaría de Comunicación Social, a partir de su entrada en vigor y durante el año 2019, deberá de realizar las acciones de comunicación necesarias como el diseño y la difusión, respectivamente; de manera especial respecto a la prohibición señalada en los artículos 278, 279 y 280 de este Reglamento.
+
+NOVENO. Respecto a la obligación señalada en las fracciones XIX, XX y XXI del artículo 394 del presente Reglamento, los sujetos obligados tendrán el ejercicio fiscal 2019 como plazo para darle cumplimiento, sin que durante este tiempo sean susceptibles de la sanción correspondiente.
+
+DÉCIMO. Se derogan los artículos 114 BIS, 492, 492-1, 492-2, 492-3, 492-4, 492-6, 493, 493 BIS, 494 BIS, 495, 497, 497 TER, 497 QUATER, 497 QUINQUIES, 498, 499, 499 BIS, 500, 501, 501 BIS, 502, 502 BIS, 502 TER, 502 QUATER, 503, 503 BIS, 503 TER, 504, 504 BIS, 504 TER, 505, 506, 507, 508, 511, 512, 513, 514, 515, 522, 522 BIS, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 534, 535, 536, 537, 537 BIS, 539, 540, 541, 542, 543, 543-1, 543-2, 1298 SEPTIES, 1601-1, todos del Código Municipal de Aguascalientes.
+
+DÉCIMO PRIMERO. El H. Ayuntamiento de Aguascalientes, deberá realizar toda aquella modificación a los ordenamientos municipales que contravengan el contenido del presente Reglamento.
 
 ###### ARTICULO UNICO.
 
