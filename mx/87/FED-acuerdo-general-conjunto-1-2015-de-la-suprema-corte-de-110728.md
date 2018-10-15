@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-conjunto-1-2015-de-la-suprema-corte-de-110728"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-12-09"
-last_updated: "2015-12-09"
+last_updated: "2018-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110728&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-12-04"
 
 ACUERDO GENERAL CONJUNTO 1/2015 DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS SERVICIOS TECNOLÓGICOS RELATIVOS A LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO, LAS COMUNICACIONES OFICIALES Y LOS PROCESOS DE ORALIDAD PENAL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 9 de diciembre de 2015.
 
@@ -723,9 +723,11 @@ Cuando el órgano jurisdiccional que conozca del recurso estime necesario consul
 
 ### CAPÍTULO TERCERO. DE LAS COMUNICACIONES OFICIALES ELECTRÓNICAS
 
+> <small>(REFORMADO POR INSTRUMENTO NORMATIVO APROBADO POR LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL ARTÍCULO 107 DEL ACUERDO GENERAL CONJUNTO 1/2015, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS SERVICIOS TECNOLÓGICOS RELATIVOS A LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO, LAS COMUNICACIONES OFICIALES Y LOS PROCESOS DE ORALIDAD PENAL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 107.
 
-A través del Sistema Integral de Seguimiento de Expedientes los Juzgados de Distrito y Tribunales de Circuito podrán enviarse entre ellos comunicaciones oficiales electrónicas, para lo cual tendrán acceso a todas las Oficinas de Correspondencia Común y Oficialías de Partes correspondientes, y se hará uso de firmas electrónicas vigentes y reconocidas por el Poder Judicial de la Federación.
+A través del Sistema Integral de Seguimiento de Expedientes los Juzgados de Distrito y Tribunales de Circuito podrán enviarse entre ellos comunicaciones oficiales electrónicas sin importar la especialidad que tengan, la materia ni el asunto del que deriven, para lo cual tendrán acceso a todas las Oficinas de Correspondencia Común y Oficialías de Partes correspondientes, y se hará uso de firmas electrónicas vigentes y reconocidas por el Poder Judicial de la Federación.
 
 ###### Artículo 108.
 
@@ -948,3 +950,13 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Luis Marí
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Este ACUERDO GENERAL CONJUNTO 1/2015, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS SERVICIOS TECNOLÓGICOS RELATIVOS A LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO, LAS COMUNICACIONES OFICIALES Y LOS PROCESOS DE ORALIDAD PENAL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL, fue aprobado por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en Sesión Privada celebrada el martes primero de diciembre de dos mil quince, por unanimidad de ocho votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Eduardo Medina Mora I., Alberto Pérez Dayán y Presidente Luis María Aguilar Morales. El señor Ministro José Ramón Cossío Díaz estuvo ausente, previo aviso; y aprobado por el Pleno del Consejo de la Judicatura Federal en su Sesión Ordinaria celebrada el veinticinco de noviembre de dos mil quince, por unanimidad de seis votos de los señores Consejeros Presidente Ministro Luis María Aguilar Morales, Martha María del Carmen Hernández Álvarez, Rosa Elena González Tirado, Alfonso Pérez Daza, J. Guadalupe Tafoya Hernández y Manuel Ernesto Saloma Vera. El señor Consejero Felipe Borrego Estrada estuvo ausente, previo aviso; como deriva del oficio SEPLE./GEN./005/8656/2015, signado por el maestro Gonzalo Moctezuma Barragán, Secretario Ejecutivo del Pleno del Consejo de la Judicatura Federal.- México, Distrito Federal, a primero de diciembre de dos mil quince.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de cincuenta y siete fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Conjunto 1/2015, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdo y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a cuatro de diciembre de dos mil quince.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “INSTRUMENTO NORMATIVO APROBADO POR LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL ARTÍCULO 107 DEL ACUERDO GENERAL CONJUNTO 1/2015, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS SERVICIOS TECNOLÓGICOS RELATIVOS A LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO, LAS COMUNICACIONES OFICIALES Y LOS PROCESOS DE ORALIDAD PENAL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL”.]
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, sin menoscabo de que la Secretaría General de Acuerdos de este Alto Tribunal difunda el texto íntegro del Acuerdo General Conjunto 1/2015 en los medios electrónicos respectivos.
