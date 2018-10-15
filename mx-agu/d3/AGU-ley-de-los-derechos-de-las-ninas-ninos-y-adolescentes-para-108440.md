@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-09-03"
+last_updated: "2018-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -737,7 +737,9 @@ Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a 
 
 Las niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y demás disposiciones aplicables.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a decidir e intervenir en la educación que habrá de darse a niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrá derecho a decidir e intervenir en la educación que habrá de darse a niñas, niños y adolescentes, asimismo tendrán la facultad de corregirlos en su conducta, lo cual no implicará violencia familiar en los términos del Capítulo Tercero, Título Sexto, Libro Primero del Código Civil para el Estado de Aguascalientes, castigos corporales o tratos crueles, denigrantes o humillantes que atenten contra la integridad física o psíquica de niñas, niños y adolescentes.
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, para lo cual deberán:
 
@@ -2114,3 +2116,11 @@ A partir de la entrada en vigor del presente Decreto, se deberán emitir y reali
 ###### ARTÍCULO QUINTO.
 
 Se Derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley; de igual o menor jerarquía; razón por la que a la entrada en vigor del presente Decreto, deberán haber concluido las acciones convenientes para llevar a cabo las modificaciones normativas a que haya lugar.
+
+P.O. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 21.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 57 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
