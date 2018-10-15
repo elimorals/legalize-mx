@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-09-27"
+last_updated: "2018-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -326,6 +326,10 @@ XV. DECIMOQUINTO CIRCUITO:
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2014)</small>
 
 3. Diecinueve juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis más, con sede en Mexicali y diez con residencia en Tijuana, éstos últimos comprenden seis especializados en Procesos Penales Federales y cuatro en Materia de Amparo y Juicios Federales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL ARTÍCULO 18 DEL ACUERDO GENERAL 31/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
+
+4. Diecinueve juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis más, con sede en Mexicali y diez con residencia en Tijuana, estos últimos comprenden cinco especializados en Procesos Penales Federales y cinco en Materia de Amparo y Juicios Federales.
 
 XVI. DECIMOSEXTO CIRCUITO:
 
@@ -927,6 +931,10 @@ VI Bis. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residen
 
 VII. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
 
+> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
+
+VII Bis. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Ciudad Juárez.
+
 VIII. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, Coahuila.
 
 IX. El Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre.
@@ -1008,6 +1016,14 @@ II Bis. Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia
 > <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
 
 II Ter. Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Tapachula, cuya jurisdicción territorial comprenderá los municipios de: Acacoyagua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán; todos ellos del Estado de Chiapas.
+
+> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
+
+II Quater. Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Chihuahua, cuya jurisdicción territorial comprenderá los municipios de Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
+
+> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
+
+II Quinquies. Centro de Justicia Penal Federal en el Estado de Chihuahua, con sede en Ciudad Juárez: cuya jurisdicción territorial comprenderá los municipios de Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxiedis G. Guerrero.
 
 III. Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, son sede en Torreón: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios de Durango señalados en la fracción siguiente;
 
@@ -6969,19 +6985,19 @@ Las Direcciones Generales de Tecnologías de la Información y de Estadística J
 
 QUINTO. Se reforma el numeral SEGUNDO, fracción II, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
 
-"SEGUNDO. …
+"SEGUNDO. .
 
-I. …
+I. .
 
 II.
 
-1. a 2. …
+1. a 2. .
 
 3. Veintiocho Juzgados de Distrito en el Estado de México; seis de Procesos Penales Federales y siete especializados en materia de Amparo y Juicios Federales, todos con residencia en Toluca; diez Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
 
-4. …
+4. .
 
-III. a XXXII. …"
+III. a XXXII. ."
 
 SEXTO. Para la distribución de las causas penales en trámite, como en archivo provisional o definitivo, del Juzgado Cuarto de Distrito de Procesos Penales Federales en el Estado de México, con residencia en Toluca, que concluye funciones, se realizará lo siguiente:
 
@@ -7152,3 +7168,69 @@ XIV. …
 3. Seis Juzgados de Distrito en el Estado de Yucatán; cinco Mixtos y uno en materia Mercantil Federal, todos con sede en Mérida.
 
 XV. a XXXII. …”
+
+D.O.F. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 29/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE INICIA FUNCIONES EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIHUAHUA, CON RESIDENCIA EN CIUDAD JUÁREZ".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil dieciocho, con excepción de lo dispuesto en los párrafos siguientes:
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal Federal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
+
+El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios del Decimoséptimo Circuito, con residencia en Ciudad Juárez, Chihuahua, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+
+Los Tribunales Unitarios precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como tribunal unitario de Circuito.
+
+TERCERO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17, último párrafo y transitorio SEGUNDO del presente Acuerdo.
+
+CUARTO. En materia de ejecución de sanciones penales se deberá observar lo dispuesto en el Acuerdo General 28/2015, del Pleno del Consejo de la Judicatura Federal, mediante el cual se habilita a los Jueces de Distrito de los Centros de Justicia Penal Federal para que ejerzan funciones de ejecución de sanciones penales.
+
+QUINTO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Chihuahua, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
+
+SEXTO. Se reforma el artículo 6 del Acuerdo General 47/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, para quedar como sigue:
+
+"Artículo 6. La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios: Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza".
+
+SÉPTIMO. Se adicionan las fracciones VII Bis al numeral QUINTO BIS; II Quater y II Quinquies al numeral QUINTO TER del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"QUINTO BIS. ...
+
+I. a VII. ...
+
+VII Bis. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Ciudad Juárez.
+
+VIII. a XXXVIII. ...
+
+QUINTO TER. ...
+
+I. a II Ter. ...
+
+II Quater. Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Chihuahua, cuya jurisdicción territorial comprenderá los municipios de Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
+
+II Quinquies. Centro de Justicia Penal Federal en el Estado de Chihuahua, con sede en Ciudad Juárez: cuya jurisdicción territorial comprenderá los municipios de Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxiedis G. Guerrero.
+
+III. a XIII. ..."
+
+OCTAVO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 31/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN TIJUANA; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DEL CITADO ÓRGANO JURISDICCIONAL; EL INICIO DE FUNCIONES DEL JUZGADO QUINTO DE DISTRITO EN MATERIA DE AMPARO Y JUICIOS FEDERALES EN EL MISMO ESTADO Y RESIDENCIA, SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ÚLTIMA MATERIA Y ENTIDAD FEDERATIVA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Juzgado Sexto de Distrito de Procesos Penales Federales en el Estado de Baja California, con residencia en Tijuana, y el inicio de funciones del Juzgado Quinto de Distrito en Materia de Amparo y Juicios Federales en el mismo Estado y residencia, implicará el traslado del Juez en la misma calidad.
+
+El traslado del personal con su plaza se deberá realizar respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional de nueva creación deberá contar con la plantilla de personal que tienen sus homólogos.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las direcciones generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, deberá nombrar al defensor de oficio y adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo, a efecto de que el defensor público designado inicie funciones en la misma fecha que el Juzgado Quinto de Distrito en Materia de Amparo y Juicios Federales en el Estado de Baja California, con residencia en Tijuana.
