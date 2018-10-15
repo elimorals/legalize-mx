@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-policia-preventiva-y-transito-del-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2017-08-18"
+last_updated: "2018-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 7 de mayo de 2010.
 
-ESTEBAN VALENZUELA GARCIA, Presidente del H. Ayuntamiento de Ahome, Estado de Sinaloa, Republica Mexicana, a sus habitantes hace saber:
+ESTEBAN VALENZUELA GARCIA, Presidente del H. Ayuntamiento de Ahome, Estado de Sinaloa, República Mexicana, a sus habitantes hace saber:
 
 Que el H. Ayuntamiento de Ahome, por conducto de la Secretaría de su Despacho, se ha servido comunicarme para los efectos correspondientes, el siguiente Acuerdo de Cabildo:
 
@@ -2265,11 +2265,21 @@ Vencido el plazo establecido en el artículo anterior, los miembros de la corpor
 
 El tiempo que duren separados de su empleo y categoría, no se considerará como tiempo efectivo para los ascensos y promociones.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 166.
 
-Para el caso de muerte por causa de riesgo de trabajo se otorgará pensión a los beneficiarios del agente fallecido, independientemente de la antigüedad, equivalente al 100% del sueldo base que hubiese percibido al momento de ocurrir el fallecimiento, y en los casos en que el agente haya sido privado de su vida sin portar el uniforme y por lo tanto el Instituto Mexicano del Seguro Social lo registra como no riesgo de trabajo, el gobierno municipal, deberá complementar al 100% la pensión de la viuda e hijos, logrando así obtener el mismo sueldo que percibía el agente en el desarrollo de su trabajo, los servicios médicos se le seguirán otorgando a los beneficiarios de los agentes fallecidos por causa de riesgo de trabajo por el tiempo establecido y en las condiciones pactadas en el régimen de asistencia social que gocen. La complementación de salario por parte del Municipio no aplicará para el caso en que el agente haya incurrido en actos contra la sociedad.
+Para el caso de muerte por causa de riesgo de trabajo el gobierno municipal, deberá complementar al 100% en conjunto con el Instituto Mexicano del Seguro Social, independientemente de la antigüedad, la pensión de la viuda e hijos, logrando así obtener el mismo sueldo que percibía el agente en el desarrollo de su trabajo.
+
+En los casos en que el agente haya sido privado de su vida sin portar el uniforme y por lo tanto el Instituto Mexicano del Seguro Social lo registra como no riesgo de trabajo, el gobierno municipal, deberá complementar al 100% la pensión de la viuda e hijos.
+
+En ambos casos, el gobierno municipal deberé mantener actualizado dicho sueldo equivalente al que percibe un agente en activo en el mismo grado policial que tenía el fallecido; las diferencias salariales que por esta reforma se le adeuden a las viudas, se pagarán retroactivamente a partir del primero de abril del 2018.
+
+Los servicios médicos se les seguirán otorgando a los beneficiarios de los agentes fallecidos por el tiempo establecido y en las condiciones pactadas en el régimen de asistencia social que gocen.
+
+Durante el próximo mes de diciembre del año que transcurre, se les otorgará a los beneficiarios del agente fallecido, 15 días de pensión de viudez adicionales sobre el pago que realiza el gobierno municipal.
+
+La complementación de salario por parte del Municipio no aplicará para el caso en que el agente haya incurrido en actos contra la sociedad.
 
 ###### ARTÍCULO 167.
 
@@ -2540,3 +2550,11 @@ P.O. 18 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO MUNICIPAL NO. 03 DE AHOME.- SE DEROGAN LOS ARTÍCULOS 63 BIS, 63 BIS 1, 63 BIS 2, 63 BIS 3, 63 BIS 4, 63 BIS 5, 63 BIS 6, 63 BIS 7, 63 BIS 8 Y 63 BIS 9, TODOS DEL REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME, PUBLICADO EN EL ÓRGANO OFICIAL DEL GOBIERNO DEL ESTADO, CON FECHA 07 DE MAYO DEL 2010.
 
 Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO MUNICIPAL NO. 40 DE AHOME.- SE REFORMA EL ARTÍCULO 166 DEL REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO CON FECHA 07 DE MAYO DE 2010".]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO.- El Cabildo deberá tomar las providencias necesarias para que en el Presupuesto de Egresos del 2019, se contemplen las partidas necesarias para cumplir con todas las prestaciones que genera esta Reforma a favor de las viudas de los policías, así como los aguinaldos que les corresponderán de acuerdo al tabulador respectivo.
