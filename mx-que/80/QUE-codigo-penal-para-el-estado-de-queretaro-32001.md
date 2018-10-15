@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2018-09-07"
+last_updated: "2018-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "QUE"
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2018 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -597,27 +599,27 @@ Los bienes de consumo perecederos podrán ser donados a instituciones de asisten
 
 Los bienes de difícil o costosa conservación, respecto de los cuales no exista la posibilidad de entregarlos en breve tiempo a quienes tengan derecho a recibirlos, se procederá a su venta inmediata, si esto es posible, sin sujetarse a trámites o requisitos de subasta pública y el producto obtenido quedará a disposición de quien acredite tener derecho a recibirlo por un lapso de sesenta días, contados a partir de la notificación que se le haga; transcurrido ese tiempo sin acreditar o ejercer su derecho, se aplicará a favor del Poder Ejecutivo.
 
-> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 La autoridad judicial o el Ministerio Público que decreten el aseguramiento de bienes, incluyendo dinero o valores que estén a su disposición y que no hubieren sido decomisados, deberán notificar al interesado o a su representante legal inmediatamente, entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta que se elabore del aseguramiento, que deberá incluir inventario con la descripción y el estado en que se encuentren los bienes que se aseguren para que manifieste lo que a su derecho convenga. En dicha notificación se apercibirá al interesado o a su representante legal para que no enajene o grave los bienes asegurados.
 
-> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 En la notificación deberá apercibirse al interesado o a su representante legal, que de no manifestar lo que a su derecho convenga, en un término de sesenta días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Poder Ejecutivo del Estado, el cual determinará su destino según su utilidad, de conformidad con las disposiciones legales y administrativas aplicables.
 
-> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Cuando proceda la devolución de bienes asegurados, éstos quedarán a disposición de quien acredite tener derecho a ellos, siempre que éste no haya tenido conocimiento de su utilización para la realización del delito o habiéndolo tenido, se hubiere encontrado en un estado real de imposibilidad para impedirlo o de haber dado aviso a la autoridad competente. La autoridad judicial o el Ministerio Público decidirá sobre ello y notificará su resolución al interesado o al representante legal dentro de los treinta días siguientes a la solicitud de devolución, para que en el plazo de noventa días naturales a partir de la notificación correspondiente se presente a recogerlos, bajo el apercibimiento que de no hacerlo los bienes causarán abandono a favor del Poder Ejecutivo del Gobierno del Estado.
 
-> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Cuando el aseguramiento de los bienes se haya hecho constar en el Registro Público de la Propiedad y del Comercio, la autoridad judicial o el Ministerio Público ordenarán su cancelación.
 
-> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Los bienes que estén a disposición del Ministerio Público o de la autoridad judicial, que sean de costosa o difícil conservación y además carezcan ya de importancia como evidencia en la investigación o en el proceso, por haber sido debidamente descritos y fijados a través de medios técnicos o sean de nulo o mínimo valor económico por el estado en que se encuentren o que nadie los reclame o acredite derecho a la devolución, a pesar de haber sido notificados con sesenta días de anticipación, podrán aplicarse a favor del Poder Ejecutivo del Estado y ordenarse su inmediata destrucción. Se presumirá que se encuentran en esta situación y por lo tanto, podrá ordenarse su inmediata destrucción, previa notificación a los interesados, todos aquellos bienes que tengan tres años o más a disposición de la autoridad investigadora o judicial y no sean objeto de reclamo por parte interesada, dentro de los sesenta días posteriores a dicha notificación.
 
-> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Para los efectos de este artículo, la notificación al interesado se tendrá por realizada, con el simple hecho de publicar, por tres veces, de siete en siete días, en dos periódicos de mayor circulación en la Entidad, la relación de bienes que se destruirán en caso de no ser reclamados; esto independientemente de que la información se ponga a disposición de la ciudadanía en los medios electrónicos de que disponga la autoridad que ordene la medida.
 
@@ -625,7 +627,7 @@ Para los efectos de este artículo, la notificación al interesado se tendrá po
 
 En los casos de asignación, adjudicación o aplicación de bienes o productos a favor del Poder Ejecutivo, deducidos los gastos de conservación y procedimiento, el remanente se asignará al Fondo Económico para la Procuración de Justicia y para la Asistencia y Apoyo a las Víctimas, para los fines previstos en la Ley de la Procuraduría General de Justicia del Estado de Querétaro, cuando los bienes hayan estado a disposición del Ministerio Público o al Fondo Auxiliar para la Administración de Justicia, para los propósitos señalados en la Ley Orgánica del Poder Judicial del Estado de Querétaro, cuando hayan estado a disposición de la autoridad judicial.
 
-> <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Cuando no sea persona cierta, no esté identificada, se desconozca el domicilio de la persona a quien deba de notificársele en los términos de este artículo o se encuentre fuera del Estado o del País, la notificación se hará mediante publicación en los términos que establezca en el Código de Procedimientos Penales o supletoriamente en el de Procedimientos Civiles, ambos para el Estado de Querétaro.
 
@@ -1311,13 +1313,11 @@ I.- Declarar a los responsables sujetos a vigilancia de la autoridad, y
 
 II.- Prohibirles ir a una circunscripción territorial determinada o residir en ella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 134.
 
-Se impondrá de un mes a 9 años de prisión y de 50 a 400 días multa, al que cause cualquier tipo de lesiones u homicidio, en los siguientes casos:
-
-I.- En estado de emoción violenta que las circunstancias hicieren excusable, y
-
-II.- Por móviles de piedad, por súplicas notorias y reiteradas de la víctima ante la inutilidad de todo auxilio para salvar su vida.
+Se impondrá de un mes a 9 años de prisión y de 50 a 400 días multa al que, por móviles de piedad o por súplicas notorias y reiteradas de la víctima ante la inutilidad de todo auxilio para salvar su vida, le cause cualquier tipo de lesiones u homicidio.
 
 En ningún caso la sanción podrá exceder de la que se impondrá en el delito simple intencional.
 
@@ -1539,7 +1539,7 @@ Cuando el asalto se cometa contra un poblado se les penará con prisión de seis
 
 ### CAPITULO I. VIOLACIÓN
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
 ## TITULO SEXTO. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
 
@@ -1567,7 +1567,7 @@ Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una
 
 ### CAPITULO III. ESTUPRO
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 159.
 
@@ -1581,25 +1581,29 @@ ARTICULO 159 BIS.- El que para descubrir los secretos o vulnerar la intimidad de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2011)</small>
 
-### CAPITULO IV. ACOSO SEXUAL
+### CAPÍTULO IV. DEL ACOSO Y HOSTIGAMIENTO SEXUAL
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
-ARTICULO 167 BIS.- Al que mediante coacción física o moral, con fines sexuales para sí o para un tercero, asedie a cualquier persona sin su consentimiento, se le impondrá pena de 1 a 3 años de prisión, de 100 a 600 días multa, y desde 100 hasta 850 días multa por concepto de reparación del daño.
+ARTICULO 167 BIS.- Comete el delito de acoso sexual la persona que con fines sexuales para sí o para un tercero, asedie a cualquier persona, o solicite favores de naturaleza sexual; al responsable se le impondrá pena de 1 a 3 años de prisión y de 100 a 600 días multa. Este delito se perseguirá por querella.
 
-Cuando el sujeto activo sea servidor público, y utilice los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
+Si el sujeto pasivo fuera menor de 18 años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la pena se duplicará y el delito se perseguirá de oficio.
 
-Cuando exista relación jerárquica entre los sujetos activo y pasivo, la pena se incrementará hasta en una tercera parte.
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+ARTICULO 167 TER.- Comete el delito de hostigamiento sexual la persona que con fines sexuales para sí o para un tercero, asedie a cualquier persona, o solicite favores de naturaleza sexual valiéndose de su posición jerárquica o de poder, derivada de sus relaciones laborales, docentes, religiosas, domésticas, o cualquier otra que implique subordinación de la víctima; al responsable se le impondrá pena de 2 a 4 años de prisión y de 200 a 800 días multa.
 
-Si el sujeto pasivo fuera menor de edad o mayor de sesenta años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la pena se duplicará.
+El delito previsto en este artículo se perseguirá por querella.
 
-Este delito se perseguirá por querella.
+Si el sujeto pasivo fuera menor de 18 años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la pena se duplicará y el delito se perseguirá de oficio.
+
+Cuando el sujeto activo sea servidor público, docente o parte del personal administrativo de cualquier institución educativa o de asistencia social, y utilice los medios o circunstancias que el encargo le proporcione, el delito se perseguirá de oficio, y además de la pena que corresponda, se le destituirá de su cargo y se le inhabilitará para ocupar cualquier otro en el sector público hasta por dos años; en caso de reincidencia, la inhabilitación será definitiva.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2003)</small>
 
 ### CAPITULO V. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
 ## TITULO OCTAVO. DELITOS CONTRA LA LIBERTAD E INEXPERIENCIA SEXUALES
 
@@ -1607,23 +1611,33 @@ Este delito se perseguirá por querella.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
-###### Artículo 160.
+###### ARTICULO 160.
 
-Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo sin el consentimiento de ésta, se le impondrá pena de 5 a 12 años de prisión.
-
-Se entiende por cópula, la introducción del órgano sexual masculino en el cuerpo humano por vía vaginal, anal o bucal.
-
-Se impondrán las mismas penas señaladas en este artículo al que introduzca por la vía anal o vaginal cualquier objeto o instrumento distinto del órgano sexual masculino, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá pena de 5 a 12 años de prisión.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-###### Artículo 161.
+Se entiende por cópula, la introducción del órgano sexual masculino en el cuerpo humano por vía vaginal, anal o bucal.
 
-Se equipara a la violación y se sancionará con pena de 8 a 20 años de prisión al que:
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-I. Realice cópula con persona menor de doce años o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo; o
+Se impondrán las mismas penas señaladas en este artículo al que introduzca por la vía anal o vaginal cualquier objeto o instrumento distinto del órgano sexual masculino, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
-II. Introduzca por vía anal o vaginal cualquier objeto o instrumento distinto del órgano sexual masculino, sea cual fuere el sexo del ofendido, en una persona menor de doce años o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 161.
+
+Se equipara a la violación y se sancionará con pena de 12 a 30 años de prisión al que:
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+I. Realice cópula con persona menor de catorce años o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo; o
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+II. Introduzca por vía anal o vaginal cualquier objeto o instrumento distinto del órgano sexual masculino, sea cual fuere el sexo del ofendido, en persona menor de catorce años o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
 Si se ejerciera violencia física o moral o la conducta delictiva sea cometida por dos o más personas, la pena prevista se aumentará en una mitad.
 
@@ -1639,11 +1653,9 @@ Si la violación es cometida aprovechando los medios o circunstancias que le pro
 
 Cuando la violación sea cometida por dos o más personas se impondrá prisión de ocho a veinte años.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+###### ARTICULO 164.
 
-###### Artículo 164.
-
-Si entre el activo y el pasivo de la violación existiera un vínculo matrimonial o de concubinato, el delito se perseguirá por querella.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1657,13 +1669,11 @@ Al que sin el consentimiento de una persona y sin el propósito de llegar a la c
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 166.
 
-Al que sin el propósito de llegar a la cópula, ejecute un acto sexual en persona menor de doce años de edad o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o la obligue a ejecutarlos, se le impondrá prisión de 4 a 7 años.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+Al que sin el propósito de llegar a la cópula, ejecute un acto sexual en persona menor de catorce años de edad o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, la obligue a ejecutarlos o a observarlos, ya sea de forma directa o por cualquier otro medio, se le impondrá prisión de 4 a 8 años.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1691,13 +1701,15 @@ Además del aumento de la pena, el culpable perderá la patria potestad o la tut
 
 ### CAPITULO III. DISPOSICIONES COMUNES
 
-###### Artículo 167.
+###### ARTICULO 167.
 
-Al que tenga cópula con persona mayor de 12 años y menor de 18 años, obteniendo su consentimiento por medio de seducción o engaño, se le aplicará de 4 meses a 6 años de prisión.
+Al que tenga cópula con persona mayor de 14 años y menor de 18 años, obteniendo su consentimiento por medio de seducción o engaño, se le aplicará de 4 meses a 6 años de prisión.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
 Este delito se perseguirá por querella de la persona ofendida o de quienes ejerzan la patria potestad o a falta de éstos, de sus legítimos representantes.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2018)</small>
 
 ### CAPITULO I. ROBO
 
@@ -1707,15 +1719,23 @@ Este delito se perseguirá por querella de la persona ofendida o de quienes ejer
 
 ###### ARTICULO 168.
 
-Los delitos previstos en este Título, con excepción de la violación, y tomando en cuenta lo señalado en el Artículo 164 de este Código, serán perseguidos por querella.
+Los delitos previstos en este Título, con excepción de la violación, serán perseguidos por querella.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 Se procederá de oficio a la persecución de los delitos previstos en este Título, cuando concurra violencia, o las víctimas sean personas menores de edad, o que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo, con excepción del delito de estupro.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 169.
 
-En los delitos a que se refieren los capítulos I, II y III de este Título, la reparación del daño comprenderá en los términos del Código Civil, el pago de alimentos a la mujer y a los hijos que hayan resultado de la relación sexual ilícita.
+En los delitos a que se refieren los capítulos de este Título, la reparación del daño sufrido por la víctima deberá ser integral y podrá comprender, además de las medidas establecidas en este Código y las disposiciones de la legislación aplicable en materia de protección a víctimas, la aplicación de las siguientes medidas:
+
+I. El pago de alimentos a la víctima y a la progenie que haya resultado de la relación sexual ilícita, entendiéndose por alimentos en el amplio sentido, conforme a los términos del Código Civil del Estado de Querétaro; y
+
+II. El pago de gastos y costas judiciales del asesor jurídico, cuando éste sea privado.
+
+Cada una de estas medidas deberá ser atendida por el Juzgador para determinar su implementación o no según sea el caso, a favor de la víctima, teniendo en cuenta la gravedad y magnitud del hecho victimizante cometido o la gravedad y magnitud de la violación de sus derechos, así como las circunstancias y características del hecho victimizante.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2011)</small>
 
@@ -4339,10 +4359,18 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 P.O. 7 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
