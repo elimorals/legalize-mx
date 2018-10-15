@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-47-2015-del-pleno-del-consejo-de-la-110606"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-27"
-last_updated: "2018-08-24"
+last_updated: "2018-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110606&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-11-20"
 
 ACUERDO GENERAL 47/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIHUAHUA, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2018.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 27 de noviembre de 2015.
 
@@ -109,9 +109,11 @@ El Centro contará con la plantilla laboral autorizada, y la Administración del
 
 Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017 del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 6.
 
-La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Chihuahua, con la totalidad de sus municipios.
+La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios: Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
 
 ###### Artículo 7.
 
@@ -720,3 +722,51 @@ DÉCIMO SEGUNDO. Se abroga el Acuerdo General del Pleno del Consejo de la Judica
 DÉCIMO TERCERO. Las referencias que se hagan en cualquier disposición al Juez Administrador del Centro de Justicia Penal Federal se entenderán hechas al Administrador del Centro de Justicia Penal Federal.
 
 DÉCIMO CUARTO. La Visitaduría Judicial deberá presentar al Pleno la propuesta de metodología de inspección a los Centros de Justicia Penal Federal, en términos de lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+
+D.O.F. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE INICIA FUNCIONES EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIHUAHUA, CON RESIDENCIA EN CIUDAD JUÁREZ”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil dieciocho, con excepción de lo dispuesto en los párrafos siguientes:
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal Federal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
+
+El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios del Decimoséptimo Circuito, con residencia en Ciudad Juárez, Chihuahua, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+
+Los Tribunales Unitarios precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como tribunal unitario de Circuito.
+
+TERCERO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17, último párrafo y transitorio SEGUNDO del presente Acuerdo.
+
+CUARTO. En materia de ejecución de sanciones penales se deberá observar lo dispuesto en el Acuerdo General 28/2015, del Pleno del Consejo de la Judicatura Federal, mediante el cual se habilita a los Jueces de Distrito de los Centros de Justicia Penal Federal para que ejerzan funciones de ejecución de sanciones penales.
+
+QUINTO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Chihuahua, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
+
+SEXTO. Se reforma el artículo 6 del Acuerdo General 47/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, para quedar como sigue:
+
+“Artículo 6. La jurisdicción territorial de los juzgadores del Centro comprenderá los siguientes municipios: Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza”.
+
+SÉPTIMO. Se adicionan las fracciones VII Bis al numeral QUINTO BIS; II Quater y II Quinquies al numeral QUINTO TER del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“QUINTO BIS. ...
+
+I. a VII. ...
+
+VII Bis. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Ciudad Juárez.
+
+VIII. a XXXVIII. …
+
+QUINTO TER. …
+
+I. a II Ter. ...
+
+II Quater. Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Chihuahua, cuya jurisdicción territorial comprenderá los municipios de Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
+
+II Quinquies. Centro de Justicia Penal Federal en el Estado de Chihuahua, con sede en Ciudad Juárez: cuya jurisdicción territorial comprenderá los municipios de Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxiedis G. Guerrero.
+
+III. a XIII. …”
+
+OCTAVO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
