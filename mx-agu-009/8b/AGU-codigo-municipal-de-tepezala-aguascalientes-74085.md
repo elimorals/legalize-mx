@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-tepezala-aguascalientes-74085"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-03-22"
-last_updated: "2018-10-01"
+last_updated: "2018-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE TEPEZALÁ, DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de marzo de 2010.
 
@@ -389,9 +389,11 @@ El Honorable Ayuntamiento, consiste en un órgano colegiado, que tendrá la cara
 
 Es un cuerpo formado por varios individuos con personalidad jurídica propia, en el que se llevará a cabo las actividades de policía y buen gobierno del municipio.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 35.
 
-El Honorable Ayuntamiento se integrará por un Presidente Municipal, y los regidores y síndicos que establezcan la constitución local y las disposiciones electorales. Para efecto de lo anterior serán electos por el principio de mayoría relativa y proporcional en los términos de la propia constitución; y en su caso podrá haber uno o dos síndicos según lo disponga el número de habitantes con que cuente el municipio en el momento de las elecciones. Para los efectos de certidumbre jurídica el número de regidores electos por las formulas antes citadas y el número de síndicos que corresponda será determinado por la planilla ganadora de las elecciones del ayuntamiento. Los servidores públicos integrantes del Ayuntamiento durarán en su encargo tres años y tomarán posesión de su cargo el día primero de enero del año siguiente en que se realice la elección.
+El Honorable Ayuntamiento se integrará por un Presidente Municipal, y los regidores y síndicos que establezcan la constitución local y las disposiciones electorales. Para efecto de lo anterior serán electos por el principio de mayoría relativa y proporcional en los términos de la propia constitución; y en su caso podrá haber uno o dos síndicos según lo disponga el número de habitantes con que cuente el municipio en el momento de las elecciones. Para los efectos de certidumbre jurídica el número de regidores electos por las formulas antes citadas y el número de síndicos que corresponda será determinado por la planilla ganadora de las elecciones del ayuntamiento. El Presidente Municipal, Regidores y Síndico integran el H. Ayuntamiento del Municipio de Tepezalá, Aguascalientes, durarán en su cargo tres años, o los que establezcan la constitución local y las disposiciones electorales, salvo el caso de que uno, varios o la totalidad de sus integrantes, sean elegidos para un periodo más, entrando en funciones el día señalado en la ley que en materia municipal expida el Poder Legislativo del Estado y en el Código Electoral del Estado; son los encargados de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios del Municipio de Tepezalá, Aguascalientes.
 
 ###### ARTÍCULO 36.
 
@@ -683,7 +685,9 @@ XIX.- Celebrar a nombre del Ayuntamiento todos los convenios, contratos y actos 
 
 XX.- Expedir a la Tesorería Municipal las órdenes de pago conforme al Presupuesto de Egresos aprobado para el ejercicio fiscal del año en que se actúe; firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios si autorizasen algún gasto no previsto en dicho presupuesto;
 
-XXI.- Informar anualmente al Ayuntamiento, al término del ejercicio fiscal, del estado que guarda la Administración Pública Municipal y de las actividades realizadas;
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+XXI.- Informar anualmente al Ayuntamiento, en Sesión Solemne de Cabildo a celebrarse a más tardar el día catorce de octubre de cada año, del estado que guarda la Administración Pública Municipal y de las actividades realizadas;
 
 XXII.- Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de sus parientes;
 
@@ -821,13 +825,17 @@ XXII. Las demás que expresamente le otorgue el Presente Código, demás leyes y
 
 ### CAPÍTULO I. Del Procedimiento y Protocolo
 
-###### ARTÍCULO 52.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal, los Regidores y Síndico tanto del Ayuntamiento en funciones como del electo, se reunirán el día 31 de diciembre del año de la elección, en el local y hora que determine el H. Ayuntamiento en funciones.
+###### ARTICULO 52.
+
+Para la instalación y toma de protesta constitucional del H. Ayuntamiento el Presidente Municipal los Regidores y Síndicos tanto del H. Ayuntamiento en funciones como el electo, se reunirán dentro de las setenta y dos horas anteriores al inicio del periodo constitucional del día 15 de Octubre, en el lugar y la hora que determine el H. Ayuntamiento en funciones, en Sesión Solemne.
 
 A esta asistirá el Gobernador del Estado o su representante, el representante del Congreso del Estado, y el Presidente del Supremo Tribunal de Justicia del Estado o en su caso su representante.
 
-La toma de protesta surtirá efectos a partir de la primera hora del día primero de enero del año siguiente.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+La toma de protesta surtirá efectos a partir de la primera hora del día 15 de Octubre.
 
 ###### ARTÍCULO 53.
 
@@ -843,11 +851,13 @@ IV. Reiniciada la sesión, ante la representación acreditada del Poder Ejecutiv
 
 V. El Presidente Municipal electo solicitará a los Regidores y Síndico electos asistentes que se pongan de pie, quien rendirá la protesta de ley en los siguientes términos:
 
-““Yo… (Nombre del Presidente) ..... protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Tepezalá, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande”";
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
+““Yo… (Nombre del Presidente).... Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Tepezalá, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande”" (sic);
 
 VI. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndico electos, a quienes los interrogará en la forma siguiente:
 
-““Ciudadanos ... (Regidores y Síndico) ... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndico Propietarios respectivamente del Municipio de Tepezalá, que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio””
+““Ciudadanos... (Regidores y Síndico)... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndico Propietarios respectivamente del Municipio de Tepezalá, que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio””
 
 VII. Contestarán los Regidores y Síndico levantando su mano derecha:
 
@@ -857,9 +867,13 @@ Dirá entonces el Presidente Municipal:
 
 "”Sí así lo hicieren que el Municipio se los premie, si no, se los demande”";
 
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2018)</small>
+
 VIII. Acto Continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
 
-"El H. Ayuntamiento del Municipio de Tepezalá se declara constituido para el Periodo Constitucional del 1° de enero de ... al 31 de diciembre de... (Deberá citar los años en los cuales se ostentará como gobierno)";
+VIII (SIC). Acto Continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
+
+"El H. Ayuntamiento del Municipio de Tepezalá se declara constituido para el Periodo Constitucional del 15 de octubre de... al 14 octubre de... (Deberá citar los años en los cuales se ostentará como gobierno)";
 
 IX. El Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal;
 
@@ -13976,3 +13990,19 @@ P.O. 5 DE MARZO DE 2018.
 P.O. 1 DE OCTUBRE DE 2018.
 
 > <small>[N. DE E. LA “REFORMA AL CÓDIGO MUNICIPAL ACTUALIZAN ARTÍCULOS DE LA LEY DE VIALIDAD DEL MUNICIPIO DE TEPEZALÁ”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 15 DE OCTUBRE DE 2018.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 35; EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 52; LA FRACCIÓN VIII DEL ARTÍCULO 53; LA FRACCIÓN XXI DEL ARTÍCULO 42, DEL CÓDIGO MUNICIPAL DE TEPEZALÁ, AGUASCALIENTES”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia al día de su publicación en el Periódico Oficial del Estado, con excepción a la reforma establecida en el Artículo 42.- fracción XXI, el Presidente Municipal, tendrá las atribuciones que le confieran este Código, demás leyes federales y estatales y disposiciones aplicables. En forma enunciativa y no limitativa tendrá las facultades de Informar anualmente al Ayuntamiento, en Sesión Solemne de Cabildo a celebrarse a más tardar el día catorce de octubre de cada año, del estado que guarda la Administración Pública Municipal y de las actividades realizadas; 31, por lo que dicho Informe Anual de Gobierno se deberá rendir en el presente mes de octubre.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los dispuesto en la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Tepezalá, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
