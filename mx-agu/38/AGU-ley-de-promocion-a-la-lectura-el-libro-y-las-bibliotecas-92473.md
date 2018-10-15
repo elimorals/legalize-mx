@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-promocion-a-la-lectura-el-libro-y-las-bibliotecas-92473"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-18"
-last_updated: "2015-06-15"
+last_updated: "2018-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de febrero de 2013.
 
@@ -139,11 +139,29 @@ Cada administración en el ámbito de sus competencias promoverá un desarrollo 
 
 ### CAPÍTULO IV. Del Consejo Estatal de Promoción de la Lectura y el Libro
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 10.
 
-Se crea el Consejo Estatal como órgano de carácter consultivo del ICA, con el objeto de opinar respecto de las políticas, programas y acciones realizadas en el Estado, dirigidas a lograr una cultura de promoción a la lectura y al libro, así como facilitar el acceso al libro para todos los ciudadanos.
+Se crea el Consejo Estatal como órgano de carácter consultivo del ICA, con el objeto de opinar respecto de las políticas, programas y acciones realizadas en el Estado, dirigidas a lograr una cultura de promoción a la lectura y al libro, así como facilitar el acceso al libro a todas las personas.
 
-El Consejo Estatal se integrará por los representantes del sector público, literario, sociedad civil e iniciativa privada que determine el reglamento del Consejo Estatal.
+El Consejo Estatal estará conformado por:
+
+I. Un presidente, que será el Director General del Instituto Cultural de Aguascalientes;
+
+II. Un Secretario Técnico que designe el presidente del Consejo;
+
+III. Un representante del Instituto de Educación de Aguascalientes;
+
+IV. Un representante de la Comisión de Educación y Cultura del Congreso del Estado;
+
+V. Un representante de la Comunidad de Autores de Aguascalientes:
+
+VI. Un representante de la Asociación Libreros de Aguascalientes; y
+
+VII. Un representante de la Red Estatal de Bibliotecas Públicas.
+
+El Consejo Estatal podrá invitar a los representantes del sector público, literario, sociedad civil e iniciativa privada.
 
 Los cargos de Consejero Estatal serán honoríficos.
 
@@ -197,9 +215,9 @@ VII. Promover la participación del sector público y privado en el fomento al l
 
 VIII. Recomendar la creación de nuevas bibliotecas y promover las gestiones necesarias para ello en coordinación con las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2018)</small>
 
-IX. Impulsar modelos modernos, innovadores y tecnológicos en el funcionamiento de las bibliotecas existentes en el Estado y hacer propuestas de mejoras; así como proponer el acceso a la lectura a grupos vulnerables por medio de la instalación de salas de lectura en reclusorios, albergues para personas con discapacidad, orfanatos y hospitales o centros de salud en general, entre otros;
+IX. Impulsar modelos modernos, innovadores y tecnológicos en el funcionamiento de las bibliotecas existentes en el Estado y el acceso a libros digitales en materias especializadas; así como proponer el acceso a la lectura a grupos vulnerables por medio de la instalación de salas de lectura en reclusorios, albergues para personas con discapacidad, orfanatos y hospitales o centros de salud en general, entre otros;
 
 X. Coadyuvar en la creación de bases públicas de datos de los libros editados en el Estado, por escritores aguascalentenses;
 
@@ -354,3 +372,15 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 20.- SE REFORMA EL ARTÍCULO 10 Y LA FRACCIÓN IX DEL ARTÍCULO 18 DE LA LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Estatal materia del presente Decreto deberá instalarse a más tardar a los 180 días naturales, contados a partir de la publicación a que hace referencia el Artículo Primer (sic) Transitorio.
