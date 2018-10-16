@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2018-08-23"
+last_updated: "2018-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -355,19 +355,51 @@ XXIX. Fomentar una cultura preventiva que permita disminuir el grado de vulnerab
 
 XXX. Instrumentar mecanismos de convergencia entre la sociedad y el gobierno que permitan desarrollar medidas de adaptación y mitigación para enfrentar el cambio climático;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2018)</small>
 
-XXXI. Generar estrategias que permitan a la sociedad conocer e implementar mecanismos de adaptación para afrontar los efectos del cambio climático; y
+XXXI. Generar estrategias que permitan a la sociedad conocer e implementar mecanismos de adaptación para afrontar los efectos del cambio climático;
 
-> <small>(REFORMADA [N. DE E. REUBICADA, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
 
-XXXII. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
+XXXII. Promover la investigación y el desarrollo tecnológico para la producción de plásticos de un solo uso a partir de materiales reciclados, biodegradables o compostables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XXXIII. Elaborar un programa de sustitución gradual de plásticos de un solo uso, de conformidad con lo que se establezca en la Norma Técnica Ambiental Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XXXIV. Elaborar programas de apoyo y asesoría que promuevan que las empresas dedicadas a la producción de plásticos de un solo uso produzcan con materiales reciclados o con calidad de biodegradables o compostable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XXXV. Realizar campañas de difusión y concientización dirigidas a la población en general sobre la importancia de la reducción y del uso responsable de los plásticos de un solo uso, así como dar a conocer las alternativas de reúso o sustitución de estos productos, y las ventajas que esto conlleva para la salud y el medio ambiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XXXVI. Proponer al Titular del Ejecutivo del Estado, la Norma Técnica Ambiental Estatal en materia de producción de bolsas de plástico para acarreo y popotes, en la que se consideren los principios de reducción, reciclaje y reutilización de las bolsas de plástico, así como las características específicas requeridas para cada producto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XXXVII. Certificar a las empresas que cumplan con las disposiciones de la Norma Técnica Ambiental Estatal a que hace referencia la fracción anterior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XXXVIII. Elaborar y publicar un padrón de empresas recicladoras o que utilicen materiales reciclados autorizadas para comercializar los productos plásticos de un solo uso, de conformidad con la normatividad aplicable; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XXXIX. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 7º.
 
 El Titular del Ejecutivo del Estado y la Secretaría podrán celebrar con los gobiernos federal y municipales, así como con los sectores social y privado, todo tipo de instrumentos de coordinación y concertación de acciones para la protección, conservación, restauración y mejoramiento del entorno ambiental.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+Para apoyar la transición de tecnologías a empresas productoras para la sustitución de bolsas de plástico y popotes por (sic) elaborados de material biodegradable, compostable o con contenido de material reciclado, la Titular del Ejecutivo podrá constituir programas de apoyo dirigidos para este fin.
 
 ### CAPITULO IV
 
@@ -411,13 +443,39 @@ X. Vigilar el cumplimiento de la legislación estatal en materia de prevención 
 
 XI. Expedir la normatividad correspondiente en materia de contaminación visual;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2018)</small>
 
-XII. Establecer convenios de colaboración con la Secretaria para la formulación, ejecución y evaluación del programa municipal de acciones ante el cambio climático; y
+XII. Establecer convenios de colaboración con la Secretaría para la formulación, ejecución y evaluación del programa municipal de acciones ante el cambio climático;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 16 DE OCTUBRE DE 2018)</small>
 
-XIII. Las demás que le confieren las disposiciones legales y reglamentarias aplicables en materia ambiental.
+XIII. Establecer en sus reglamentos, en materia de sustitución de materiales no biodegradables, no compostables o no reciclados:
+
+a) La gradualidad con la que toda unidad económica deberá sustituir el material de las bolsas de plástico que proporcionan para el acarreo de productos por materiales biodegradables, reutilizables, compostables o materiales reciclados;
+
+b) La gradualidad con la que los productores de bolsa para acarreo y popote no biodegradable o sin contenido de material reciclado asentados en su territorio, deberán producir con materiales biodegradables, compostables o con contenido de material reciclado; y
+
+c) Las sanciones económicas y administrativas para infractores a las disposiciones de sustitución de los productos a los que se hacen referencia en las fracciones anteriores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XIV. Elaborar programas de concientización sobre el uso responsable de los plásticos de un solo uso dirigidos a las unidades económicas en su ámbito de competencia, así como los beneficios de la reducción en el consumo, la sustitución y la correcta disposición;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XV. Coadyuvar con las empresas dedicadas (sic) la fabricación de bolsas de plástico o popotes biodegradables, compostables o con contenido de material reciclado para facilitar el abasto de estos a unidades económicas y población en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XVI. Vigilar el cumplimiento de la transición de bolsas de plástico y popotes no biodegradables, por biodegradables, compostables o con contenido de material reciclado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XVII. Establecer en sus disposiciones reglamentarias que las actividades de venta y comercialización de bolsas de plástico para acarreo y popotes deberán sujetarse a los materiales establecidos en la Norma Técnica Ambiental Estatal de la materia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+
+XVIII. Las demás que le confieren las disposiciones legales y reglamentarias aplicables en materia ambiental.
 
 ### CAPITULO V
 
@@ -1879,7 +1937,7 @@ De las medidas de seguridad.
 
 ###### Artículo 116.
 
-Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones, procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, los reglamentos y bandos de policía y buen gobierno, salvo que otras leyes los regulen en forma especifica, en relación con las materias de que trata éste ordenamiento.
+Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones, procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, los reglamentos y bandos de policía y buen gobierno, salvo que otras leyes los regulen en forma específica, en relación con las materias de que trata éste ordenamiento.
 
 En las materias anteriormente señaladas se aplicará supletoriamente las disposiciones de la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
@@ -2738,3 +2796,21 @@ Primero. El presente decreto entrará en vigor el día siguiente de su publicaci
 Segundo. La Secretaría y los municipios tendrán un plazo de 180 días hábiles, contados a partir de la entrada en vigor de este decreto, para adecuar sus reglamentos en los que podrán establecer zonas con regulación especial.
 
 Tercero. La Secretaría y los municipios, dentro de los 180 días hábiles siguientes contados a partir de la entrada en vigor de este decreto, elaborarán un mapa de fuentes generadoras de ruido, de acuerdo a lo dispuesto por la fracción XXIX del artículo 5 de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente.
+
+P.O. 16 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26942/LXI/18 QUE REFORMA LOS ARTÍCULOS 6°, 7° Y 8° DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”, con excepción de lo dispuesto en los siguientes artículos.
+
+SEGUNDO. El Gobierno del Estado y los ayuntamientos dentro de los 60 días siguientes a la publicación de la norma técnica referida en el artículo siguiente, deberán realizar las adecuaciones reglamentarias y administrativas necesarias para la implementación del decreto.
+
+TERCERO. La Secretaría de Medio Ambiente y Desarrollo Territorial, deberá dentro de los 180 días siguientes a la entrada en vigor del presente decreto, en conjunto con (sic) Secretaría de Innovación, Ciencia y Tecnología convocarán a la comunidad científica y académica, las cámaras de industriales y de comercio, las asociaciones de productores de bolsas plásticas y popotes, asociaciones civiles y organismos representativos, a fin de coadyuvar en la elaboración de la Norma Técnica Ambiental referente a la producción sustentable de estos productos plásticos, en la que se consideren los principios de reducción, reciclaje y reutilización de los mismos, así como las características específicas requeridas para cada producto.
+
+CUARTO. La Secretaría, a partir de la publicación del presente decreto, deberá implementar una campaña permanente de difusión dirigida a la población en general, al sector empresarial y productivo, asociaciones de comerciantes y demás entes económicos, sobre el uso responsable de los plásticos bajo los principios de reducción, reutilización y reciclaje. Para tal fin, se podrán prever en el Presupuesto de Egresos una partida suficiente para poder llevar a cabo acciones de promoción y publicidad del decreto.
+
+QUINTO. El Gobierno del Estado a través de la Secretaría de Desarrollo Económico, podrá implementar un programa de apoyos a efecto de que las empresas que actualmente producen plásticos de un solo uso, puedan adecuar las tecnologías que tienen a efecto de atender las demandas ambientales y legales implementadas en la presente reforma.
+
+SEXTO. La Secretaría de Innovación, Ciencia y Tecnología instrumentará un programa de asesoramiento al sector productivo para el desarrollo de materiales alternativos al plástico a más tardar en 120 días de la entrada en vigor del presente decreto.
+
+SÉPTIMO. A partir del 1° de enero de 2020, los ayuntamientos podrán imponer las sanciones administrativas o económicas correspondientes conforme a la gradualidad que sus reglamentos establezcan para cada unidad económica.
