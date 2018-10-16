@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2018-09-20"
+last_updated: "2018-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -1857,7 +1857,7 @@ Por los servicios prestados por las Dependencias Municipales autorizadas para ta
 
 #### SECCION PRIMERA. POR LICENCIA DE CONSTRUCCION
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 98.
 
@@ -1871,11 +1871,11 @@ I.- Habitación
 
 popular e interés
 
-social 0.75% 0.42% 0.75%
+social 0.50% 0.30% 0.50%
 
 II.- Habitación
 
-media 1.00% 0.78% 0.75%
+media 0.75% 0.50% 0.50%
 
 III.- Habitación
 
@@ -1883,15 +1883,15 @@ residencial,
 
 comercial
 
-e industrial 1.50% 1.05% 1.50%
+e industrial. 1.00% 0.75% 1.00%
 
-IV.- Servicios
+IV.- Industrial y Servicios
 
 (equipamiento
 
 urbano) 2.00% 1.31% 2.00%
 
-El monto de la obra será el que se desprenda del presupuesto que se presente o en su caso las autoridades podrán determinar dicho monto considerando el volumen y las características de la construcción a realizar.
+El monto de la obra será el que se desprenda del presupuesto que se presente, o en su caso, las autoridades podrán determinar dicho monto, considerando el volumen y las características de la construcción a realizar.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2962,3 +2962,13 @@ PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al d
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
 TERCERO.- En un término de 120 días contados a partir de la entrada en vigor del presente decreto, los Municipios deberán adecuar las disposiciones municipales que correspondan.
+
+P.O. 16 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 318 POR EL QUE "SE REFORMA EL ARTÍCULO 98 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- En un término de 120 días contados a partir de la entrada en vigor del presente decreto, los municipios deberán adecuar las disposiciones municipales que correspondan.
