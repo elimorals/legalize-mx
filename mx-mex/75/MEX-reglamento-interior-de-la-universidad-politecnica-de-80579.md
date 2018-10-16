@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-politecnica-de-80579"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-01"
-last_updated: "2015-02-03"
+last_updated: "2018-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE TECAMAC, ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DE TECÁMAC, PUBLICADO EN LA G.G. DE 16 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DE TECÁMAC DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 1 de abril de 2011.
 
@@ -125,7 +127,7 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, el Rec
 
 > <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2015)</small>
 
-l. Dirección de División de Ingeniería Mecánica, Ingeniería en Tecnologías de Manufactura e Ingeniería en Software.
+I. Dirección de División de Ingeniería Mecánica, Ingeniería en Tecnologías de Manufactura e Ingeniería en Software.
 
 > <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2015)</small>
 
@@ -327,7 +329,7 @@ RECTOR DE LA UNIVERSIDAD POLITÉCNICA DE TECÁMAC Y SECRETARIO DE LA JUNTA DIREC
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 3 DE FEBRERO DE 2015.
 
@@ -336,3 +338,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 16 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DE TECÁMAC".]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Politécnica de Tecámac publicado en el Periódico Oficial "Gaceta del Gobierno", el primero de abril del dos mil once.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
