@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2018-07-12"
+last_updated: "2018-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -385,19 +385,13 @@ VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud
 
 IX. La promoción del mejoramiento de la nutrición;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 X. La asistencia social a los grupos más vulnerables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 XI. La prevención, tratamiento y control de la drogadicción, además de la rehabilitación de las personas adictas; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -629,6 +623,8 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### Capítulo VII. Salud Mental
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 64.
 
 La planificación familiar tiene carácter prioritario y en las actividades relacionadas con la misma se debe incluir la información y orientación educativa y sexual para los preadolescentes, adolescentes y adultos. Para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los veinte años o bien después de los treinta y cinco, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
@@ -667,35 +663,23 @@ La Secretaría Estatal coadyuvará, con la Secretaría Federal, en las acciones 
 
 La prevención de las enfermedades mentales tiene carácter prioritario; se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
+Las bases y modalidades para garantizar el acceso a los servicios de salud mental, así como los mecanismos adecuados para la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación y fomento en materia de Salud Mental en instituciones de salud pública, social y privada del Estado de Campeche, se regularán en la Ley de Salud Mental para el Estado de Campeche.
+
 ###### Artículo 69.
 
-Para la promoción de la salud mental, la Secretaría Estatal y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
-
-I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, de preferencia para los menores de edad;
-
-II. La difusión de las orientaciones para la promoción de la salud mental;
-
-III. La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras que puedan causar alteraciones mentales o dependencia; y
-
-IV. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2018)
 
 ###### Artículo 70.
 
-La atención a las enfermedades mentales comprende:
-
-I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y
-
-II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2018)
 
 ###### Artículo 71.
 
-La Secretaría Estatal, de conformidad con las disposiciones contenidas en la Ley General de Salud y las normas oficiales mexicanas que emita la Secretaría Federal, prestará atención a los enfermos mentales que se encuentren en los centros estatales de reinserción social y en los centros de tratamiento y rehabilitación de farmacodependientes y centros de tratamiento y rehabilitación de personas menores a las que se refiere la Ley de Justicia para adolescentes o en otras instituciones no especializadas en salud mental. Para ese efecto se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2018)
 
 ###### Artículo 72.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquiera persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales. A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2018)
 
 ### Capítulo II. De los Beneficios de la Protección Social en Salud
 
@@ -1095,8 +1079,6 @@ Los profesionales, técnicos y auxiliares de salud y los establecimientos que pr
 
 ### Capítulo III. Nutrición
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 114.
@@ -1145,19 +1127,13 @@ De igual forma impulsará acciones encaminadas al combate de los trastornos alim
 
 En los programas, a que refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, procurando al efecto la participación de las sociedades, asociaciones y otras formas de organización cuyas actividades se relacionen con la producción de alimentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
 Así mismo buscará propiciar el desarrollo de las comunidades a partir de la instrumentación de políticas públicas tendientes a mejorar sus condiciones sanitarias, nutrición, atención médica y asegurar el acceso efectivo a los servicios de salud mediante la ampliación de su cobertura, apoyando la nutrición mediante programas de alimentación, en especial para la población infantil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
 Artículo 119 bis.- Los apoyos nutricionales que proporcionen las dependencias y entidades de la administración pública estatal, serán entregados a los beneficiarios previa valoración del estado nutricional que realice el Sistema Estatal de Salud.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
@@ -1647,8 +1623,6 @@ IV. Promoverá y llevará a cabo campañas permanentes de información y orienta
 
 A los propietarios y responsables de establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la Secretaría Estatal, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley, sin perjuicio de las sanciones penales que en el caso correspondan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 Artículo 170 bis.- Para el tratamiento de los farmacodependientes, las dependencias y entidades de la administración pública estatal deberán crear centros especializados en atención y rehabilitación de farmacodependientes, en los que, al igual que en las acciones de prevención, se respeten los derechos humanos, la integridad y libre decisión del farmacodependiente.
@@ -2003,15 +1977,11 @@ Certificados
 
 ### Capítulo I bis. De los Centros de Rehabilitación de Adicciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 Artículo 238 bis.- Que los sectores social y privado podrán prestar los servicios de tratamiento y rehabilitación de adictos, para lo cual deberán tramitar la autorización y el registro de funcionamiento de los centros ante la Secretaría de Salud, cumpliendo con la normatividad que al efecto emita.
 
 Los Centros de Rehabilitación de Adicciones, públicos y privados, deberán contar con personal profesional para la atención de las adicciones, reuniendo la capacidad necesaria para prestar los servicios de rehabilitación. La Secretaría expedirá la reglamentación que determine las características profesionales o técnicas que el personal de los centros debe reunir para cumplir con sus funciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2080,8 +2050,6 @@ Título Decimoséptimo
 Vigilancia Sanitaria
 
 ### Capítulo II. Sanciones Administrativas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2184,8 +2152,6 @@ En el caso de toma de muestras de productos perecederos deberá conservarse en c
 ###### Artículo 225.
 
 En el caso de los productos recogidos, en procedimientos de muestreo o verificación, sólo el Laboratorio Estatal de Salud Pública o aquél que habilite la Secretaría Estatal podrán determinar, por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2295,13 +2261,9 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de la Secretaría Estatal, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ### Capítulo IV. Del Procedimiento Administrativo
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2343,15 +2305,11 @@ VI. El carácter intencional o no de la acción u omisión constitutiva de la in
 
 Se sancionará con multa equivalente de cien hasta mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación de las disposiciones contenidas en los artículos 50, 51, 96, 111, 113, 129, 131, 145, 210, 211 y 212 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 243.
 
 Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, la violación a las disposiciones contenidas en los artículos 139, 220, 234 y 238 ter, primer párrafo, fracciones IV, VI y VII de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2366,8 +2324,6 @@ Las infracciones no previstas en este Capítulo serán sancionadas con multa equ
 ###### Artículo 246.
 
 En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este Capítulo se entiende por reincidencia que el infractor cometa la misma violación, a las disposiciones de esta Ley o sus reglamentos, dos o más veces dentro del período de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2385,25 +2341,17 @@ II. Cuando después de la reapertura de un establecimiento, local, fábrica, maq
 
 III. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, maquiladora, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 IV. Cuando en el establecimiento se vendan o suministren estupefacientes y/o sustancias psicotrópicas sin cumplir con los requisitos que señalen la Ley General y sus reglamentos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 V. Cuando en los Centros de Rehabilitación de Adicciones se prueben violaciones y daños contra la dignidad, derechos fundamentales o patrimonio de los pacientes; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 VI. Por reincidencia en tercera ocasión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2470,8 +2418,6 @@ La Secretaría Estatal, con base en el resultado de la visita de verificación, 
 ###### Artículo 254.
 
 La Secretaría Estatal hará uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2646,3 +2592,15 @@ P.O. 12 DE JULIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial el (sic) Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarías de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
+
+P.O. 16 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 317 POR EL QUE “SE REFORMA EL ARTÍCULO 68 Y SE DEROGAN LOS ARTÍCULOS 69, 70, 71, Y 72 DEL CAPÍTULO VII DENOMINADO “SALUD MENTAL”, DEL TÍTULO TERCERO DENOMINADO “PRESTACIÓN DE LOS SERVICIOS DE SALUD” TODOS DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO. La presente Ley entrará al día siguiente al de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo los (sic) que se oponga al contenido del presente decreto.
+
+TERCERO. El Gobernador del Estado deberá expedir el Reglamento de la presente Ley dentro de un plazo de 90 días contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO. El Consejo de Salud Mental a que se refiere la presente Ley deberá ser instalado en un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente decreto.
