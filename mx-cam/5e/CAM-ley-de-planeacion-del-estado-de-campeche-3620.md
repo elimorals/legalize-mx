@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-planeacion-del-estado-de-campeche-3620"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-13"
-last_updated: "1985-12-13"
+last_updated: "2018-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE PLANEACION DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PLANEACIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 16 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PLANEACION DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 13 de diciembre de 1985.
 
@@ -298,3 +300,21 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche a los seis día
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los seis días del mes de diciembre del año de mil novecientos ochenta y cinco.- El Gobernador Constitucional del Estado, Abelardo Carrillo Zavala.- El secretario de Gobierno, Lic. Luis Roberto Silva Pérez.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 319 POR EL QUE “SE EXPIDE LA LEY DE PLANEACIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Se abroga la Ley de Planeación del Estado de Campeche, expedida por Decreto número 328 y publicada en el Periódico Oficial del Estado con fecha 13 de diciembre de 1985.
+
+CUARTO.- Se abroga el decreto de creación del COPLADECAM, promulgado en el Periódico Oficial del Estado, el día 7 de marzo de 1981.
+
+QUINTO.- El Gobernador del Estado, en un plazo de noventa días posteriores a la entrada en vigor de este decreto, deberá expedir el Reglamento de la Ley de Planeación del Estado de Campeche y sus Municipios.
+
+SEXTO.- Las instancias ejecutoras del gasto público, en un plazo de 60 días posteriores a la entrada en vigor de este decreto, deberán de establecer las áreas de planeación a las que hace referencia el artículo 21 de la Ley, las cuales no deberán implicar presupuesto adicional en gastos y servicios personales
