@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2018-10-15"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "QUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, SE SUGIERE CONSULTAR EL ARTÍCULO TRANSITORIO CORRESPONDIENTE.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2018 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 17 DE OCTUBRE DE 2018.</small>
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -779,9 +779,9 @@ IV. En su caso, copia certificada del acta de divorcio o de defunción;
 
 V. Un certificado suscrito por un médico legalmente autorizado para ejercer la profesión, que asegure que los pretendientes no padecen enfermedad venérea, infecto-contagiosa, crónica o incurable que sean hereditarias;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE OCTUBRE DE 2018)</small>
+(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE OCTUBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
-VI. El convenio que los pretendientes celebren en relación a los bienes y que deba expresar con toda claridad, si el matrimonio se pretende contraer bajo régimen de sociedad conyugal o de separación de bienes. Si los pretendientes son menores de edad, ese convenio deberá estar aprobado por las personas cuyo consentimiento previo es necesario para que se celebre el matrimonio. No podrá dejar de presentarse este convenio, bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorar a los pretendientes, para su redacción; y
+VI. El convenio que los pretendientes celebren en relación a los bienes y que deba expresar con toda claridad, si el matrimonio se pretende contraer bajo régimen de sociedad conyugal o de separación de bienes. No podrá dejar de presentarse este convenio bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorar a los pretendientes para su redacción;
 
 VII. Copia de la dispensa de impedimento, si los hubo.
 
@@ -2951,15 +2951,15 @@ Las autoridades están obligadas a prestar auxilio al ascendiente que lo solicit
 
 Los que ejercen la patria potestad, aun cuando no tengan la custodia del menor, tienen el derecho de convivir con éste, salvo que exista peligro para él.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 418.
 
-A quienes tengan una persona menor de edad bajo su custodia o ejerza la patria potestad sobre ella o él, les corresponde la obligación de brindarle protección, educación, garantizar su bienestar y proveerle un ambiente afectivo, comprensivo y libre de violencia para su pleno y armonioso desarrollo integral.
+A las personas que tienen un menor bajo su custodia o ejercen patria potestad sobre él, corresponde la obligación de protegerlo y educarlo para su adecuado desarrollo integral. Tienen la facultad de amonestarlo y corregirlo, respetando siempre su dignidad humana.
 
-Tiene la facultad de fijar normas que guíen su proceso formativo y positivo, orientarle respetando siempre su dignidad humana, y privilegiando la comunicación que abone a su sano desarrollo cognoscitivo y madurez.
+Quedan prohibidos los castigos corporales, crueles e innecesarios que arriesguen la integridad física y emocional del menor.
 
-Cuando llegue a conocimiento de cualquier autoridad que dichas personas no cumplen con su obligación, incurren en descuido, negligencia, abandono o cualquier forma de abuso físico, psicológico o sexual, tendrá la obligación de informar a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro, a fin de que ésta promueva la suspensión o pérdida de la patria potestad o de la custodia en su caso.
+Cuando llegue a conocimiento de la Fiscalía General del Estado o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro, que las personas a que se refiere el primer párrafo de este artículo no cumplen con su obligación o abusan de su derecho a corregir, promoverán la suspensión o pérdida de la patria potestad o de la custodia en su caso.
 
 ###### Artículo 419.
 
@@ -16118,6 +16118,14 @@ P.O. 15 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 418 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
