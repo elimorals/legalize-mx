@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2018-07-06"
+last_updated: "2018-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,19 +25,19 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
 DECRETO NUMERO: 186
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO.
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO.
 
 LA H. VIII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
 
 DECRETA:
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
 ## TITULO PRIMERO. DE LA ADMINISTRACION E IMPARTICION DE JUSTICIA
 
@@ -2249,9 +2249,17 @@ X. Rendir al Consejo de la Judicatura, cada seis meses, un informe detallado de 
 
 XI. Emitir los dictámenes de las visitas realizadas, los cuales incluirán las recomendaciones correspondientes. Se deberá dar seguimiento al cumplimiento de dichas recomendaciones y se informará oportunamente al Consejo de la Judicatura en caso de que algún servidor público no cumpla con éstas;
 
-XII. Remitir al Consejo de la Judicatura y a la Dirección de Recursos Humanos copia de las recomendaciones que se deriven de los dictámenes respectivos, para la integración al expediente personal y el seguimiento respectivo, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XIII. Las demás que le confieran la ley, el reglamento así como las disposiciones que en la materia emita el Consejo.
+XII. Remitir al Consejo de la Judicatura y a la Dirección de Recursos Humanos copia de las recomendaciones que se deriven de los dictámenes respectivos, para la integración al expediente personal y el seguimiento respectivo;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIII. Dar seguimiento a las vistas con efectos de denuncias del delito de tortura que hagan los órganos jurisdiccionales en el ámbito de sus competencias, y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIV. Las demás que le confieran la ley, el reglamento, así como las disposiciones que en la materia emita el Consejo.
 
 En ausencia del Visitador General, los dictámenes a que se hace referencia en la fracción XI, serán emitidos por el Magistrado o Juez Consejeros, que por turno corresponda, de conformidad con el acuerdo que emita el Consejo de la Judicatura.
 
@@ -2275,9 +2283,17 @@ VIII. Denunciar las causas de responsabilidad administrativa de los servidores p
 
 IX. Asistir y estar presente en la audiencia llevada ante el Juez, cuando para tales efectos sea nombrado por el Consejo de la Judicatura;
 
-X. Suplir las ausencias temporales del visitador general, cuando así lo determine el Consejo de la Judicatura, o la de algún otro visitador, cuando lo disponga el Visitador General, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XI. Las demás que le asigne la ley, el reglamento o las disposiciones que emita el Consejo de la Judicatura.
+X. Suplir las ausencias temporales del visitador general, cuando así lo determine el Consejo de la Judicatura, o la de algún otro visitador, cuando lo disponga el Visitador General;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XI. Dar seguimiento a las vistas con efectos de denuncias del delito de tortura que hagan los órganos jurisdiccionales en el ámbito de sus competencias, y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XII. Las demás que le asignen la ley, el reglamento o las disposiciones que emita el Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -3658,3 +3674,23 @@ P.O. 6 DE JULIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo.- El Pleno del Consejo de la Judicatura deberá expedir los Acuerdos Generales necesarios para la implementación del contenido de los artículos que por virtud del presente Decreto se reforman, en los que se establezca el procedimiento y lineamientos generales para acceder a los cargos de Juez de Primera Instancia, mediante concursos internos de oposición y de oposición libre, dentro de los sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 256, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL, LEY DE VÍCTIMAS, LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS, LEY DE SEGURIDAD PÚBLICA, LEY DE SALUD, LEY ORGÁNICA DEL PODER JUDICIAL Y CÓDIGO PENAL, TODOS DEL ESTADO DE QUINTANA ROO, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. En términos de lo dispuesto en el Decreto por el que se reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de julio del 2015, se abroga la Ley para Prevenir y Sancionar la Tortura en el Estado de Quintana Roo, publicada en el Periódico Oficial de Gobierno del Estado en fecha 13 de noviembre de 1992.
+
+Los hechos cometidos y los procedimientos iniciados antes de la vigencia de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, se sustanciarán o continuarán su sustanciación de conformidad con la legislación aplicable en el momento de su comisión o del inicio de los procedimientos.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
+
+Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones necesarias para proveer de recursos humanos, financieros, tecnológicos y materiales a la Fiscalía General del Estado, en virtud de la creación de la Fiscalía Especializada para la Investigación del Delito de Tortura. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
+
+Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
