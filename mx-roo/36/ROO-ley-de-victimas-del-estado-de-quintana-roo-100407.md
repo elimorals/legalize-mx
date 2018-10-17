@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-victimas-del-estado-de-quintana-roo-100407"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-07"
-last_updated: "2016-05-30"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 7 de abril de 2014.
 
@@ -193,7 +193,7 @@ XVIII. Programa Estatal: Programa de Atención y Reparación Integral a Víctima
 
 XIX. Programa Nacional: Programa de Atención Integral a Víctimas del Sistema Nacional de Atención a Víctimas;
 
-XX. Registro Estatal: Registro de Víctima (sic) del Estado de Quintana Roo;
+XX. Registro Estatal: Registro de Víctima del Estado de Quintana Roo;
 
 XXI. Reglamento: Reglamento de la presente ley;
 
@@ -201,7 +201,7 @@ XXII. Sistema Estatal: Sistema Estatal de Atención a Víctimas;
 
 XXIII. Sistema Nacional: Sistema Nacional de Atención a Víctimas;
 
-XXIV. Violación de Derechos Humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Federal, en la Constitución Estatal o en los tratados internacionales aplicables, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de Derechos Humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público; (sic)
+XXIV. Violación de Derechos Humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Federal, en la Constitución Estatal o en los tratados internacionales aplicables, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de Derechos Humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público;
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LAS VÍCTIMAS
 
@@ -281,7 +281,13 @@ XXXIII. A participar con espacios colectivos donde se proporcione el apoyo indiv
 
 XXXIV. A recibir la protección de su identidad, datos personales y confidencialidad en los casos que proceda, conforme a la normatividad en la materia, y
 
-XXXV. Los demás señalados por las normas internacionales, federales y locales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXXV. A que se le proporcionen las medidas de atención, ayuda, asistencia, protección integral y reparación, cuando se trate de víctimas del delito de tortura, en los términos de la Ley General de la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXXVI. Los demás señalados por las normas internacionales, federales y locales.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE AYUDA, ASISTENCIA Y ATENCIÓN
 
@@ -1203,9 +1209,29 @@ XXXIX. Representar a la Comisión Ejecutiva Estatal como mandatario general para
 
 XL. Celebrar toda clase de contratos y convenios con los sectores público, social y privado e instituciones educativas y de investigación, para la ejecución de las acciones relacionadas con el objeto de la Ley, y
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XLI. Las demás que se deriven de la normatividad aplicable.
+XLI. Celebrar convenios con la Fiscalía Especializada para la Investigación del Delito de Tortura, para dar cumplimiento a lo previsto en los Artículos 40 y 41 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XLII. Proporcionar medidas de ayuda, asistencia, atención, así como asegurar la protección integral y reparación del daño a las víctimas de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, en los términos de la Ley General de la materia y esta ley;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XLIII. Remitir en términos de los convenios respectivos, a la Procuraduría General de la República y a la Fiscalía General del Estado, las bases de datos sobre las víctimas de tortura y otros tratos o penas crueles, inhumanos o degradantes, para su incorporación en el Registro Nacional del Delito de Tortura y en el Registro Estatal del Delito de Tortura, respectivamente, en términos de lo dispuesto por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XLIV. Participar en el Programa Nacional y Estatal para Prevenir y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en los términos de la Ley General en la materia y demás leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XLV. Cumplir en el ámbito de su competencia con las atribuciones que en materia de víctimas señala el artículo 92 y demás disposiciones de la Ley General de la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XLVI. Las demás que se deriven de la normatividad aplicable.
 
 ###### Artículo 92.
 
@@ -1687,7 +1713,7 @@ IX. Llevar un registro puntual de las acciones realizadas y formar un expediente
 
 X. Tramitar y entregar copias de su expediente a la víctima, en caso de que ésta las requiera;
 
-XI. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público, y (sic)
+XI. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público, y
 
 XII. Informar y asesorar a la víctima sobre los mecanismos alternativos de solución de controversias, y velar por que las mismas se realicen en estricto respeto de los principios que sustentan la justicia restaurativa, en especial, la voluntariedad, y
 
@@ -2080,3 +2106,23 @@ P.O. 30 DE MAYO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 256, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL, LEY DE VÍCTIMAS, LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS, LEY DE SEGURIDAD PÚBLICA, LEY DE SALUD, LEY ORGÁNICA DEL PODER JUDICIAL Y CÓDIGO PENAL, TODOS DEL ESTADO DE QUINTANA ROO, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. En términos de lo dispuesto en el Decreto por el que se reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de julio del 2015, se abroga la Ley para Prevenir y Sancionar la Tortura en el Estado de Quintana Roo, publicada en el Periódico Oficial de (sic) Gobierno del Estado en fecha 13 de noviembre de 1992.
+
+Los hechos cometidos y los procedimientos iniciados antes de la vigencia de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, se sustanciarán o continuarán su sustanciación de conformidad con la legislación aplicable en el momento de su comisión o del inicio de los procedimientos.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
+
+Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones necesarias para proveer de recursos humanos, financieros, tecnológicos y materiales a la Fiscalía General del Estado, en virtud de la creación de la Fiscalía Especializada para la Investigación del Delito de Tortura. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
+
+Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
