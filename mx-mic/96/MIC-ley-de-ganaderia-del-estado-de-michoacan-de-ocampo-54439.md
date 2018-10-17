@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-del-estado-de-michoacan-de-ocampo-54439"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-02"
-last_updated: "2016-12-29"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en la cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 2 de marzo de 2007.
 
@@ -69,9 +69,17 @@ VIII. La explotación sustentable de áreas y predios destinados a la ganadería
 
 IX. El sacrificio sin crueldad de las especies pecuarias;
 
-X. La organización de los productores para promover el desarrollo del sector pecuario en la entidad; y,
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XI. La prevención, control y erradicación de enfermedades y plagas que afecten a la salud humana y de los animales, la aplicación de medidas sanitarias en el Estado, así como el control de la entrada y salida del mismo de productos y subproductos pecuarios, estableciendo las condiciones para la declaratoria de áreas libres de enfermedades y plagas, en los términos de las disposiciones normativas y los requisitos comerciales, sin perjuicio de lo que a este respecto establezcan la Ley Federal de Sanidad Animal y otros ordenamientos legales aplicables.
+X. La organización de los productores para promover el desarrollo del sector pecuario en la entidad;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XI. La prevención, control y erradicación de enfermedades y plagas que afecten a la salud humana y de los animales, la aplicación de medidas sanitarias en el Estado, así como el control de la entrada y salida del mismo de productos y subproductos pecuarios, estableciendo las condiciones para la declaratoria de áreas libres de enfermedades y plagas, en los términos de las disposiciones normativas y los requisitos comerciales, sin perjuicio de lo que a este respecto establezcan la Ley Federal de Sanidad Animal y otros ordenamientos legales aplicables; y,
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XII. El sistema de rastreabilidad y trazabilidad de la movilización del ganado identificado con aretes del SINIIGA en el Estado, para la preservación y mejoramiento del estatus zoosanitario, prevención de epizootias y combatir el abigeato.
 
 ###### ARTÍCULO 3.
 
@@ -105,67 +113,75 @@ V. Las aguas existentes en la jurisdicción del Estado, utilizables para abrevad
 
 ### CAPÍTULO II. DE LOS TÉRMINOS EMPLEADOS EN LA LEY
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 5.
 
 Para los efectos de esta Ley se entiende por:
 
-I. Actividad pecuaria: aquella que tiene como propósito la cría y la explotación de las especies animales domésticas terrestres y el aprovechamiento de sus productos y subproductos;
+I. Actividad pecuaria: Aquella que tiene como propósito la cría y la explotación de las especies animales domésticas terrestres y el aprovechamiento de sus productos y subproductos;
 
-II. Avicultura: la cría, producción y explotación de las especies y variedades de aves, útiles para la alimentación humana o para la obtención de otros beneficios directamente o para el aprovechamiento de sus productos y subproductos;
+II. Avicultura: La cría, producción y explotación de las especies y variedades de aves, útiles para la alimentación humana o para la obtención de otros beneficios directamente o para el aprovechamiento de sus productos y subproductos;
 
-III. Aves de corral: son las gallináceas, palmípedas, culúmbidas y faisanideas;
+III. Aves de corral: Son las gallináceas, palmípedas, culúmbidas y faisanideas;
 
-IV. Avicultor: persona física o moral que se dedica a la cría, reproducción o explotación de las aves;
+IV. Avicultor: Persona física o moral que se dedica a la cría, reproducción o explotación de las aves;
 
-V. Apicultor: productor especializado en la cría, reproducción y explotación de las abejas;
+V. Apicultor: Productor especializado en la cría, reproducción y explotación de las abejas;
 
-VI. Asociación Ganadera Local General: organización que agrupa a ganaderos que se dedican a la explotación racional de cualquier especie animal en un Munipio (sic) determinado;
+VI. Asociación Ganadera Local General: Organización constituida, autorizada y funcionando con fundamento en la Ley Federal de Organizaciones Ganaderas, su Reglamento y esta Ley, que agrupa a ganaderos de un municipio determinado;
 
-VII. Asociación Ganadera Local Especializada: organización que agrupa a ganaderos criadores de una especie animal determinada en un Munipio (sic), conforme lo establezca el Reglamento;
+VII. Asociación Ganadera Local Especializada: Organización constituida, autorizada y funcionando con fundamento en la Ley Federal de Organizaciones Ganaderas, su Reglamento y esta Ley, que agrupa a productores de una especie animal determinada;
 
-VIII. Comité Estatal para el Fomento y la Protección Pecuaria de Michoacán: asociación civil constituida por las organizaciones de ganaderos, instituciones de investigación e industriales para coadyuvar con la Secretaría en actividades zoosanitarias y de fomento pecuario;
+VIII. Comité Estatal para el Fomento y la Protección Pecuaria de Michoacán: Asociación civil constituida por las organizaciones de ganaderos, instituciones de investigación e industriales para coadyuvar con la Secretaría en actividades zoosanitarias y de fomento pecuario;
 
-IX. Confederación Nacional de organizaciones ganaderas: organización que agrupa a las uniones ganaderas regionales generales o estatales y especializadas, en concordancia con la Ley Federal en la materia;
+IX. Confederación Nacional de Organizaciones Ganaderas: Organización que agrupa a las uniones ganaderas regionales generales o estatales y especializadas, en concordancia con la Ley Federal en la materia;
 
-X. Caprinocultor: persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los caprinos;
+X. Caprinocultor: Persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los caprinos;
 
-XI. Consejo Estatal: el Consejo Estatal de Desarrollo Rural Integral Sustentable;
+XI. Consejo Estatal: El Consejo Estatal de Desarrollo Rural Integral Sustentable;
 
-XII. Cunicultor: persona física o moral que se dedica a la cría, reproducción y explotación del conejo y sus productos;
+XII. Cunicultor: Persona física o moral que se dedica a la cría, reproducción y explotación del conejo y sus productos;
 
-XIII. Comerciante pecuario: persona física o moral que teniendo como actividad fundamental el comercio, compre, venda o de alguna manera comercialice con cualquiera de las especies y los productos pecuarios y sus derivados;
+XIII. Comerciante pecuario: Persona física o moral que teniendo como actividad fundamental el comercio, compre, venda o de alguna manera comercialice con cualquiera de las especies y los productos pecuarios y sus derivados;
 
-XIV. Especie animal domestica: aquella cuya reproducción sea controlada por el hombre con el objeto de propagarla para obtener satisfactores de necesidades vitales o de desarrollo humano y productos;
+XIV. Especie animal doméstica: Aquella cuya reproducción sea controlada por el hombre con el objeto de propagarla para obtener satisfactores de necesidades vitales o de desarrollo humano y productos;
 
-XV. Ganadería: el conjunto de actividades necesarias para la cría, reproducción, mejoramiento, pre-engorda, o engorda, y transformación de ganado;
+XV. Ganadería: El conjunto de actividades necesarias para la cría, reproducción, mejoramiento, pre-engorda, o engorda, y transformación de ganado;
 
-XVI. Ganadero: la persona física o moral que siendo propietario de ganado se dedique a la cría, reproducción, fomento, mejoramiento y explotación racional de alguna especie animal doméstica;
+XVI. Ganadero: La persona física o moral que siendo propietario de ganado se dedique a la cría, reproducción, fomento, mejoramiento y explotación racional de alguna especie animal doméstica;
 
-XVII. Ganado Mayor: los animales bovinos, equinos comprendiendo esta última la caballar, mular y asnal; y otras especies terrestres cuya talla adulta sea mayor de 150 centímetros, excepto aves;
+XVII. Ganado Mayor: Los animales bovinos, equinos comprendiendo esta última la caballar, mular y asnal; y otras especies terrestres cuya talla adulta sea mayor de 150 centímetros, excepto aves;
 
-XVIII. Ganado Menor: las especies ovinas, caprinas y porcinas, así como las aves de corral, conejos, abejas y las denominadas exóticas de talla menor a los ciento cincuenta centímetros;
+XVIII. Ganado Menor: Las especies ovinas, caprinas y porcinas, así como las aves de corral, conejos, abejas y las denominadas exóticas de talla menor a los ciento cincuenta centímetros;
 
-XIX. Granjas Avícolas: las empresas especializadas en la cría, reproducción y explotación de aves;
+XIX. Granjas Avícolas: Las empresas especializadas en la cría, reproducción y explotación de aves;
 
-XX. Granja Porcícola: la empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los cerdos, ya sea para pie de cría o para abasto;
+XX. Granja Porcícola: La empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los cerdos, ya sea para pie de cría o para abasto;
 
-XXI. Ovinocultor: persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los ovinos;
+XXI. Ovinocultor: Persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los ovinos;
 
-XXII. Porcicultura: la cría, reproducción, mejoramiento y explotación de los cerdos;
+XXII. Porcicultura: La cría, reproducción, mejoramiento y explotación de los cerdos;
 
-XXIII. Porcicultor: persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los cerdos;
+XXIII. Porcicultor: Persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los cerdos;
 
-XXIV. Productor pecuario en general: toda persona física o jurídica que, siendo propietarios de ganado de cualquiera de las especies definidas, realice funciones de dirección y administración pecuaria;
+XXIV. Productor pecuario en general: Toda persona física o jurídica que, siendo propietarios de ganado de cualquiera de las especies definidas, realice funciones de dirección y administración pecuaria;
 
-XXV. Secretaría: la Secretaría de Desarrollo Rural;
+XXV. Rastreabilidad: Conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar a través de investigaciones de campo y del análisis de registros, el origen de un problema zoosanitario y su posible diseminación hasta sus ultimas consecuencias, con miras a su control o erradicación;
 
-XXVI. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+XXVI. Secretaría: la Secretaría de Desarrollo Rural y Agroalimentario;
 
-XXVII. Trato Humanitario a los Animales: las medidas necesarias para evitar hambre, golpes, incomodidad en el lugar en que se encuentran, dolor innecesario durante su reproducción, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento y sacrificio;
+XXVII. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-XXVIII. Unión Ganadera Regional General: organización que agrupa cuando menos el treinta por ciento de las asociaciones ganaderas locales generales en una región ganadera o en un Estado; y,
+XXVIII. SINIIGA: Sistema Nacional de Identificación Individual del Ganado;
 
-XXIX. Unión Ganadera Regional Especializada: organización que agrupa a cuando menos el cuarenta por ciento de las asociaciones ganaderas locales especializadas en una región ganadera o en un Estado.
+XXIX. Trato Humanitario a los Animales: Las medidas necesarias para evitar hambre, golpes, incomodidad en el lugar en que se encuentran, dolor innecesario durante su reproducción, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento y sacrificio;
+
+XXX. Trazabilidad: Serie de actividades técnicas y administrativas sistematizadas que permiten registrar los procesos relacionados con el nacimiento, crianza, engorda, reproducción, sacrificio y procesamiento de un animal, los bienes de origen animal, así como de los productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales o consumo por éstos, hasta su consumo final, identificando en cada etapa su ubicación espacial y en su caso, (sic)
+
+XXXI. Unión Ganadera Regional General: Organización constituida, autorizada y funcionando con fundamento en la Ley federal de Organizaciones Ganaderas, su Reglamento y esta ley, que agrupa cuando menos el treinta por ciento de las asociaciones ganaderas locales generales en una región ganadera o en un Estado; y,
+
+XXXII. Unión Ganadera Regional Especializada: Organización constituida, autorizada y funcionando con fundamento en la Ley federal de Organizaciones Ganaderas, su Reglamento y esta ley, que agrupa a cuando menos el cuarenta por ciento de las asociaciones ganaderas locales especializadas en una región ganadera o en un Estado.
 
 ## TÍTULO SEGUNDO. DE LA GESTIÓN DEL DESARROLLO DE LA GANADERÍA EN MICHOACÁN
 
@@ -191,23 +207,21 @@ II. La Secretaría de Seguridad Pública; y,
 
 III. La Policía Municipal.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 8.
 
 Son organismos coadyuvantes en el desarrollo pecuario, las siguientes emanadas de sus respectivos ordenamientos legales:
 
-I. Las asociaciones ganaderas locales;
+I. Las Asociaciones Ganaderas Locales Generales y Especializadas;
 
-II. Las uniones regionales a que se refiere esta Ley;
+II. Las Uniones Ganaderas Regionales;
 
-III. El Comité Estatal para el Fomento y Protección Pecuaria de Michoacán, A.C.;
+III. El Comité Estatal para el Fomento y Protección Pecuaria de Michoacán A.C.;
 
-IV. Las asociaciones de productores pecuarios;
+IV. Los representantes de los sistemas producto (sic) ganaderos; y,
 
-V. Las organizaciones que fomenten y protejan la actividad pecuaria en la entidad, registradas ante la autoridad competente;
-
-VI. Los representantes de los sistemas producto ganaderos; y,
-
-VII. Los colegios de médicos veterinarios zootecnistas.
+V. Los colegios de médicos veterinarios zootecnistas.
 
 ###### ARTÍCULO 9.
 
@@ -235,21 +249,39 @@ X. Expedir el Reglamento que se derive de esta Ley, para su exacta aplicación y
 
 XI. Procurar que en el Presupuesto de Egresos del Gobierno del Estado se establezca un fondo de contingencia, para hacer frente a las emergencias zoosanitarias producidas por la presencia de enfermedades y epizootias en la entidad;
 
-XII. El establecimiento, operación y manutención de puntos de verificación intraestatales para el control de la movilización animal, productos y subproductos; y,
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XIII. Las demás que le otorguen la presente Ley y otros ordenamientos jurídicos estatales y federales que concurren en la regulación de las actividades pecuarias.
+XII. El establecimiento, operación y manutención de puntos de verificación intraestatales para el control de la movilización animal, productos y subproductos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIII. Prever en el Presupuesto de Egresos del Gobierno del Estado, los recursos suficientes para la implementación, administración y operación del programa de vigilancia y control de movilización pecuaria y combate del delito de abigeato en el Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIV. Implementar programas de inspección de ganado en tránsito, para control de la movilización con la finalidad de proteger y mejorar el status zoosanitario y apoyar las acciones en contra del abigeato; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XV. Las demás que le otorguen la presente Ley y otros ordenamientos jurídicos estatales y federales que concurren en la regulación de las actividades pecuarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 10.
 
-Son atribuciones de la Secretaría de Desarrollo Rural, las siguientes:
+Son atribuciones de la Secretaría de Desarrollo Rural y Agroalimentario, las siguientes:
 
 I. Coordinar la elaboración, ejecución, evaluación y revisión del Programa Estatal de Desarrollo Pecuario, con la participación del Consejo Estatal para el Desarrollo Rural Integral Sustentable, de los gobiernos municipales, comité estatal para el fomento ganadero, uniones ganaderas regionales y demás asociaciones de productores pecuarios;
 
 II. Proponer ante el Ejecutivo del Estado los programas y medidas que juzgue convenientes para el fomento y defensa de la ganadería y de la producción animal en el Estado;
 
-III. Establecer el registro y apoyar las actividades de las organizaciones que fomenten y protejan la actividad pecuaria en la entidad;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-IV. Promover y apoyar las organizaciones de los ganaderos, porcicultores, avicultores, ovinocultores, caprinocultores, apicultores, cunicultores y demás especies;
+III. Establecer el Registro Estatal de Organizaciones Ganaderas, constituidas y autorizadas conforme a la Ley de Organizaciones Ganaderas, su Reglamento y esta Ley, que tengan personalidad jurídica, una vez registradas ostentarán a su favor la representación de los productores pecuarios de la localidad en que operen;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+IV. Promover y apoyar a las organizaciones ganaderas de las diferentes especies registradas, proporcionando los servicios técnicos, estímulos y demás apoyos para el fomento, protección y desarrollo de sus actividades;
 
 V. Coadyuvar con la Federación a la aplicación en la esfera estatal de las normas federales del ramo y conexas;
 
@@ -257,7 +289,9 @@ VI. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal e 
 
 VII. Organizar y dirigir los servicios de inspección, vigilancia y control de la movilización del ganado en el Estado;
 
-VIII. Expedir las guías de tránsito para la movilización de ganado que se origine en el Estado;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VIII. Expedir un solo tipo de documento de guía de tránsito oficial, para controlar la movilización de las especies pecuarias y domésticas, productos y subproductos, dentro y fuera del Estado, llevar el registro y control de la documentación emitida; la expedición será a través de las organizaciones ganaderas registradas con personalidad jurídica y autorizada;
 
 IX. Solicitar la intervención de la fuerza pública para hacer cumplir las medidas zoosanitarias y coadyuvar en la prevención del abigeato;
 
@@ -295,9 +329,71 @@ XXV. Promover la instrumentación de un sistema de vigilancia en todo el Estado,
 
 XXVI. Establecer brigadas sanitarias incorporando profesionales acreditados a los lugares afectados por epizootias, a fin impedir su propagación;
 
-XXVII. Proveer de trampas, en caso de ser necesario, a los campesinos para controlar la población de animales carnívoros, perjudiciales a la ganadería; y,
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XXVIII. Las demás que definan la presente Ley, su Reglamento y convenios que celebre el Titular del Poder Ejecutivo.
+XXVII. Proveer de trampas, en caso de ser necesario, a los campesinos para controlar la población de animales carnívoros, perjudiciales a la ganadería;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXVIII. Aplicar, instrumentar y dar seguimiento al Sistema de Control de Movilización, Rastreabilidad y Trazabilidad del Ganado (SINIDA, NOM-001-SAG/GAN-2015), con la finalidad de preservar y mejorar el estatus zoosanitario, prevenir riesgos epizootiológicos, combatir el abigeato y generar una base de datos para la planeación y evaluación del sector pecuario en el Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXIX. Poner en marcha el Registro Electrónico de Movilidad (REEMO), el cual permite registrar de manera electrónica las movilizaciones del ganado de todos los productores y actualizar en línea la base de datos del SINIIGA, quedando un registro histórico de las movilizaciones efectuadas en el REEMO, de cada semoviente con identificador a través de las guías electrónicas, como herramienta para la preservación del estatus zoosanitario y contrarrestar el abigeato en todo el Estado, en coordinación con las entidades federativas;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXX. Proponer al Titular del Poder Ejecutivo del Estado, que en el Presupuesto anual de Egresos del Estado, se destine recursos suficientes para cubrir gastos de administración y operación de programas de vigilancia y control de la movilización pecuaria en El Estado; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXXI. Las demás que definan la presente Ley, su Reglamento y convenios que celebre el Titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 10 BIS.- Son atribuciones de los Ayuntamientos:
+
+I. Vigilar el cumplimiento de las disposiciones legales establecidas en la presente Ley y su Reglamento, conforme a su competencia;
+
+II. Fomentar, proteger y difundir la (sic) actividades pecuarias en el Municipio;
+
+III. Apoyar los programas relativos al desarrollo, mejoramiento y la sanidad animal;
+
+IV. Auxiliar a las autoridades estatales y al Ministerio Público en la prevención y combate al abigeato;
+
+V. Realizar el nombramiento del inspector de ganadería municipal tomando en consideración la terna propuesta por la asociación ganadera local;
+
+VI. Vigilar el estricto cumplimiento de las funciones de los inspectores de ganadería, así como capacitarlos, asesorarlos y auxiliarlos permanentemente en el desarrollo de sus actividades;
+
+VII. Apoyar a los inspectores instalados en puntos de verificación y revisión de la movilización del ganado en su jurisdicción;
+
+VIII. Gestionar programas de fomento pecuario para el municipio, participando en los que lleve a cabo la Secretaría, en coordinación con las organizaciones ganaderas;
+
+IX. Llevar el registro municipal de fierros marcas y señales, su autorización y movimientos de alta, baja y refrendo anual de patentes y medios de identificación, cuidando se cumplan las normas de la presente Ley;
+
+X. Exigir la identificación del ganado con identificadores oficiales del SINIIGA, el uso de documentos con carácter legal y fiscal para acreditar la propiedad, la compraventa y la movilización del ganado en su jurisdicción;
+
+XI. Llevar registro de comerciantes o introductores de ganado y tablajeros del municipio, autorizando y verificando cumplan las normas de la presente Ley;
+
+XII. Establecer la revisión del ganado en lugares de cría, engorda, embarque, en tránsito, transporte y centros de sacrificio, verificando la legal propiedad y procedencia;
+
+XIII. Disponer en caso de omisión, alteración, contravención o existir dudas razonables sobre la legitimidad de la documentación o de los animales, la retención o decomiso del ganado, productos y subproductos, procediendo conforme a la presente Ley, dando parte al ministerio público;
+
+XIV. Prestar el servicio público de rastro, conforme a la reglamentación aplicable.
+
+XV. Nombrar al administrador o encargado del rastro;
+
+XVI. Autorizar el sacrificio de semovientes con el estricto cumplimiento de esta Ley, que acrediten la legal propiedad con factura fiscal electrónica (CFDI), con guía de transito oficial e identificadores oficiales (SINIIGA), que establezcan la procedencia y que cubran los requisitos de sanidad para el consumo humano, velando por la aplicación de métodos científicos y tecnológicos adecuados para este fin;
+
+XVII. Llevar los libros de registro de sacrificios y archivo verificando que retengan la documentación que ampare la legal procedencia de los animales, previo a la autorización del sacrificio, y pago de los impuestos correspondientes;
+
+XVIII. Coadyuvar con el Ministerio Público en las investigaciones de abigeato y de la comercialización ilícita de animales, productos y subproductos, proporcionando los datos e informes que le requieran, así como hacer del conocimiento de la autoridad mencionada, a los responsables de estos delitos cuando sean sorprendidos en flagrancia;
+
+XIX. Revisar la documentación que ampare la legal propiedad de animales en lugares de cría, engorda, en tránsito, transporte y centros de sacrificio, ordenar la retención o decomiso del ganado, productos o subproductos pecuarios, en caso de que por omisión, contravención o alteración de los documentos no se acredite la legal propiedad y procedencia;
+
+XX. Coadyuvar en el control de la movilización, comercialización o sacrificio de animales, productos o subproductos, conjuntamente con las autoridades sanitarias, en caso de existir riesgo de propagación de enfermedades exóticas, enzoóticas y epizoóticas que afecten la salud animal o humana; y,
+
+XXI. Las demás que señale esta Ley, su Reglamento y otras disposiciones.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN Y CONCERTACIÓN
 
@@ -403,17 +499,57 @@ Las uniones y asociaciones ganaderas deberán registrarse en la Secretaría, de 
 
 ### CAPÍTULO I. DE LA PROPIEDAD
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 25.
 
-Es obligatorio para los propietarios de ganado el marcar o identificar sus animales para poder acreditar su propiedad en los términos que señale la presente Ley. Pudiendo ser de la siguiente manera:
+Es obligatorio para los propietarios de ganado el marcar e identificar sus animales para acreditar su propiedad en los términos que señale la presente Ley, con los medios siguientes:
 
-I. a) Con fierro, el ganado mayor dentro del año de edad, siendo optativo para el ganado de sangre pura o registro hacerlo con tatuaje o arete; b) Con marca el ganado de edad inferior a un año; c) Con señal de sangre, se dice a las incisiones en las orejas del ganado; d) Con tatuaje, la impresión de dibujos, letras o números indelebles en las orejas u otra parte del cuerpo del ganado; e) Con los medios que la autoridad establezca, con base en la disponibilidad de medios modernos de identificación de ganado;
+I. Con fierro de herrar, el ganado mayor dentro del año de edad;
 
-II. a) Con la patente única; b) Con escritura pública o privada, adjudicaciones en procedimiento sucesorio u otro tipo de resolución judicial; y, c) Con factura para el ganado adquirido para reproducción, cría, engorda o sacrificio. En esos documentos deberán consignarse los fierros, marcas, señales, tatuajes y/o aretes; así como el número de recibo con que se cubrió el impuesto correspondiente; y,
+II. Con marca, el ganado de edad inferior a un año;
 
-III. Del ganado adquirido para sacrificio, con factura en la que consten dibujados los fierros, marcas y señales, aparte de los demás requisitos exigidos en esta Ley y su Reglamento, salvo que quien lleve el ganado a sacrificio, sea el mismo criador, en cuyo caso bastará la presentación de la patente que corresponda. No podrán registrar fierro de herrar los engordadores e introductores de ganado a centros de sacrificio.
+III. Con dispositivos de aretado e identificación oficial del SINIIGA, todo el ganado;
 
-Los criadores de ganado deberán identificarlo dentro de los primeros treinta días de su nacimiento y herrarlo dentro del año de edad.
+IV. Con señal de sangre, se dice a las incisiones en las orejas del ganado, al nacer;
+
+V. Con tatuaje, la impresión de dibujos, letras o números indelebles en las orejas u otra parte del cuerpo, para ganado de registro; y,
+
+VI. Con los medios que la autoridad establezca, con base en la disponibilidad de medios modernos de identificación de ganado.
+
+Los criadores deberán identificar el ganado en el lugar de origen, dentro de los primeros treinta días de su nacimiento y herrarlo dentro del primer año de edad. Todo semoviente debe ser identificado con aretes, del Sistema Nacional de Identificación Individual del Ganado, (SINIIGA), para que pueda ser sujeto de comercializar, documentar, movilizar y sacrificar.
+
+No deberán registrar fierro de herrar los engordadores, acopiadores e introductores de ganado, quienes manejaran su actividad comercial con las disposiciones de esta Ley y las normas fiscales correspondientes.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 25 BIS.- La propiedad del ganado se acredita con:
+
+I. La patente de ganadería, del Registro Estatal de la Propiedad Ganadera, para el ganadero criador;
+
+II. Con escritura pública o privada, adjudicaciones en procedimiento sucesorio u otro tipo de resolución judicial; y,
+
+III. Con factura electrónica o comprobante fiscal digital, del ganado adquirido para cría, reproducción, engorda o sacrificio.
+
+La patente de ganadería, es para uso exclusivo de su propietario, contendrá los datos del propietario, de las características de identificación del ganado, de la unidad de producción y del inventario del ganado, tendrá una vigencia de cinco años, se refrendará y actualizará el inventario ganadero cada año en los meses de enero y febrero, en la Presidencia Municipal y en la Asociación Ganadera Local.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 25 TER.- El ganadero podrá designar a quien deba sucederle en sus derechos sobre el título de propiedad de la patente, para lo cual bastará que formule una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de los derechos de la patente a su fallecimiento, lo que podrá ser modificado o revocado por el propio titular de los derechos.
+
+El beneficiario de los derechos de propiedad del registro, para realizar el trámite de cambio de propietario, deberá presentar la patente o una constancia del registro expedida por la organización ganadera a que esté afiliado, acta de defunción del titular de los derechos e identificación oficial. Realizar el procedimiento de dar de baja el registro anterior y solicitar su alta cumpliendo con los requisitos que establece la Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 25 QUÁTER.- Los cambios de titular del registro de la propiedad ganadera por fallecimiento, cuando previamente no se haya hecho la designación de sucesor, se harán conforme al derecho común.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 25 QUINQUIES.- La cesión de derechos del título de la propiedad ganadera, deberá realizarla el titular con documento que haga constar su voluntad, con firma original del otorgante, asentando el número de patente y la cantidad de animales a la fecha de la cesión, lo que será ratificado por la autoridad municipal de la localidad.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 25 SEXIES.- Será causa de cancelación del registro de la propiedad ganadera y la patente, por cesión de derechos, fallecimiento del titular, la extinción o venta total del ganado, por no refrendar o renovar la patente dentro de los dos años consecutivos al vencimiento de la misma, por contravenir esta Ley.
 
 ###### ARTÍCULO 26.
 
@@ -423,9 +559,11 @@ Las crías de animales pertenecen al dueño de la madre y no al del padre, salvo
 
 La propiedad de las crías de los animales sin marca que se encuentren en terreno de dominio particular, se definirá de acuerdo con lo dispuesto en el Código Civil, salvo el caso de que no hayan pasado dos años desde que el dueño del terreno empezó a tener cría de la especie de que se trata. En este último caso los animales se considerarán mostrencos.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-La propiedad del ganado se transferirá por los medios que establece el derecho común y en los documentos en que se haga constar la operación se hará una reseña pormenorizada de los animales que se enajenen, así como de las marcas de fuego, las señales de sangre, los tatuajes o aretes correspondientes. Las constancias o facturas deben cumplir con los requisitos que señala el Código Fiscal de la Federación.
+La propiedad del ganado se transferirá por los medios que establece el derecho común y en la factura electrónica o comprobante fiscal digital que haga constar la operación, se hará una reseña pormenorizada de los animales que se enajenen, así como de las marcas de fuego, las señales de sangre, los tatuajes e identificadores del SINIIGA, debiendo cumplir con los requisitos que señala el Código Fiscal de la Federación.
 
 ###### ARTÍCULO 29.
 
@@ -575,13 +713,13 @@ Sin demérito de las disposiciones sanitarias y fiscales aplicables, el funciona
 
 Se deberá cumplir con lo estipulado en la NOM-008-1994, especificaciones zoosanitarias para la construcción y equipamiento para el sacrificio de animales y los dedicados a la industrialización de productos cárnicos, así como también reunir los requisitos que señala la Ley de Salud del Estado de Michoacán.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 53.
 
-En todo rastro habrá un administrador o encargado, que será nombrado por la autoridad municipal de la jurisdicción, quien podrá tomar en cuenta la terna propuesta por la Asociación Ganadera Local respectiva.
+En todo rastro habrá un administrador o encargado, que será nombrado por la autoridad municipal de la jurisdicción, de la terna propuesta por la Asociación Ganadera Local respectiva, si la autoridad no considera adecuadas para el cargo a las personas propuestas, lo hará del conocimiento de la organización para que se presente otra terna.
 
 En las poblaciones donde no se cuente con un rastro, la autoridad municipal habilitará un sitio para el sacrificio y podrá designar a un miembro de la Asociación Ganadera Local correspondiente, quien con el carácter de honorario vigilará el cumplimiento de los requisitos que establece la presente Ley.
-
-En ambos casos deberán cumplirse los requisitos señalados en la NOM-033-ZOO-1995 (sacrificio humanitario de los animales domésticos y silvestres) y NOM-009-ZOO-1995 (proceso sanitario de la carne), así como los lineamientos en la materia, establecidos en la legislación estatal correspondiente.
 
 ###### ARTÍCULO 54.
 
@@ -937,6 +1075,26 @@ La movilización de las especies pecuarias, sus productos y subproductos, que se
 
 La movilización de las especies pecuarias, sus productos y subproductos deberá ampararse con la guía de tránsito del Estado, y el certificado zoosanitario, que expedirá la Secretaría y los centros expedidores autorizados por la autoridad competente, y en su caso, con la constancia de baño garrapaticida, lo que se verificará mediante su inspección. De igual manera se hace obligatorio el uso del arete del Sistema de Identificación Nacional Ganadero (SINIGA) para el traslado de especies pecuarias en el Estado de Michoacán de Ocampo.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 116 BIS.- El identificador del ganado y la clave de la unidad de producción pecuaria UPP, del sistema nacional de identificación del ganado SINIIGA, en las guías de tránsito, será la base metodológica del control de movilización del ganado, la rastreabilidad y trazabilidad, para la preservación y mejoramiento del estatus zoosanitario, prevención de epizootias, combatir el abigeato y la integración de un banco de datos que permita control estadístico, para la programación y evaluación del sector pecuario.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 116 TER.- La Secretaría en coordinación con las autoridades municipales y las organizaciones ganaderas, implementarán un programa de control y vigilancia de la movilización de ganado a nivel estatal, en carreteras, caminos, puntos de revisión, en casetas, volantas, rastros y demás lugares en donde se críe, engorde, acopie, sacrifique o beneficie el ganado.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 116 QUÁTER.- Se deberá revisar el ganado verificando que esté debidamente herrado y aretado con identificadores del SINIIGA, así como la documentación que acredite la propiedad y la autorización de movilización de origen; aquellos que carezcan de identificador o no cumplan con las normas de esta Ley, deberán ser retenidos hasta que se acredite la procedencia, la propiedad y el estado zoosanitario.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 116 QUINQUIES.- Se restringirá la movilización del ganado bovino, provenientes de otras entidades y en las diferentes regiones del Estado, para cuidar la conservación del estatus zoosanitario y su posicionamiento como zonas libres de enfermedades, lo que permite la comercialización y movilización hacia otros Estados o el extranjero.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 116 SEXIES.- El Ejecutivo del Estado, en el presupuesto anual de egresos del Estado deberá destinar recursos suficientes para cubrir gastos de implementación, administración y operación del programa de control de movilización pecuaria y combate del delito de abigeato en el Estado.
+
 ###### ARTÍCULO 117.
 
 Para el mejor cumplimiento de las normas oficiales mexicanas aplicables, la Secretaría a través del Comité Estatal de Fomento y Protección Pecuaria Michoacán A.C. formulará los manuales correspondientes, en el marco de un programa de capacitación continua que invariablemente formará parte del programa anual de capacitación de la Secretaría.
@@ -1150,3 +1308,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 645 POR EL QUE “SE REFORMAN LAS FRACCIONES X Y XI Y SE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 2, SE MODIFICAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 5, SE MODIFICA EL ARTÍCULO 8, SE MODIFICAN LAS FRACCIONES XII Y XIII Y SE ADICIONAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 9, SE MODIFICAN LAS FRACCIONES III, IV, VIII, XXVII Y XXVIII Y SE ADICIONAN LAS FRACCIONES XXIX, XXX Y XXXI DEL ARTÍCULO 10, SE ADICIONA EL ARTÍCULO 10 BIS, SE MODIFICA EL ARTÍCULO 25, SE ADICIONAN LOS ARTÍCULOS 25 BIS, 25 TER, 25 QUÁTER, 25 QUINQUIES Y 25 SEXIES, SE MODIFICAN LOS ARTÍCULOS 28 Y 53; Y, SE ADICIONAN LOS ARTÍCULOS 116 BIS, 116 TER, 116 QUÁTER, 116 QUINQUIES Y 116 SEXIES DE LA LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Ejecutivo del Estado contará con un término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para adecuar el reglamento correspondiente.
