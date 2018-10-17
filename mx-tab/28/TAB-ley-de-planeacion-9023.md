@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-planeacion-9023"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "2013-05-25"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAB"
 ---
 # LEY DE PLANEACION
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PLANEACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 13 de julio de 1983.
 
@@ -32,7 +34,7 @@ Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
 LA H. QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, ES UNO (SIC) DE LAS FACULTADES QUE LE CONFIEREN LAS FRACCIONES I, XVI Y XXXIX DEL ARTICULO 36 DE LA CONSTITUCION POLITICA LOCAL, Y
 
-...
+[...]
 
 En consecuencia, ha tenido a bien expedir el Siguiente:
 
@@ -80,15 +82,23 @@ I.- El fortalecimiento de la Soberanía y la ampliación del régimen de garant�
 
 II.- La preservación y el perfeccionamiento del régimen democrático, republicano, federal y representativo que la Constitución General de la República y la Local establecen; y la consolidación de la democracia como sistema de vida, fundada en el constante mejoramiento económico, social y cultural del pueblo, impulsando su participación activa en la planeación y ejecución de las actividades del Gobierno;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida; para lograr una sociedad que favorezca la equidad y la igualdad de oportunidades entre hombres y mujeres;
+III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida; para lograr una sociedad más igualitaria, garantizando un ambiente más adecuado para el desarrollo de la población;
 
 IV.- El respeto irrestricto de las garantías individuales y de las libertades y derechos sociales y políticos;
 
-V.- El fortalecimiento del pacto federal y del municipio libre, para lograr un desarrollo equilibrado del Estado, promoviendo la descentralización de la vida nacional y estatal; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social.
+V.- El fortalecimiento del pacto federal y del municipio libre, para lograr un desarrollo equilibrado del Estado, promoviendo la descentralización de la vida nacional y estatal;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VII.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
@@ -148,25 +158,21 @@ Es responsabilidad del Poder Ejecutivo del Estado conducir la Planeación del De
 
 Es responsabilidad de los Ayuntamientos conducir la Planeación del Desarrollo de los municipios con la participación de los grupos sociales, considerando los resultados de las evaluaciones que realice el Consejo Estatal de Evaluación, de conformidad con lo dispuesto en la presente Ley.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
-
-###### ARTICULO 6º.
-
-El Gobernador del Estado remitirá al Congreso Local para su conocimiento, el Plan Estatal de Desarrollo, los Programas Sectoriales y Especiales, así como los Programas Operativos Anuales que de éstos se deriven, dentro de los plazos que fijen las leyes y a falta de éstos, dentro de los 5 días hábiles siguientes a su conformación.
-
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
-
-###### ARTICULO 7º.
-
-Los Presidentes Municipales remitirán los Planes Municipales de Desarrollo y Programas Operativos Anuales que de éstos se deriven al Congreso del Estado para su conocimiento, dentro de los plazos que fijen las leyes y a falta de éstos, dentro de los 5 días hábiles siguientes a su conformación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 6°.
 
-El Gobernador del Estado remitirá el Plan Estatal de Desarrollo, los programas Operativos Anuales, sectoriales, regionales y especiales, al Congreso del Estado para su conocimiento.
+El Gobernador del Estado remitirá al Congreso Local para su aprobación y conocimiento, según corresponda, el Plan Estatal de Desarrollo, los Programas Sectoriales y Especiales, así como los Programas Operativos Anuales que de éstos se deriven, dentro de los plazos que fijen las leyes.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Durante la ejecución y revisión del Plan Estatal de Desarrollo, el Congreso podrá formular las observaciones que estime pertinentes, en ejercicio de sus atribuciones constitucionales.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 7°.
 
-Los Presidentes Municipales remitirán también, los planes Municipales de Desarrollo y Programas Operativos anuales al Congreso del Estado para su conocimiento.
+Los Presidentes Municipales, una vez aprobado por el Ayuntamiento respectivo los Planes Municipales de Desarrollo, los remitirán al Congreso del Estado para su conocimiento, además de los Programas Operativos Anuales que de aquellos se deriven, dentro de los plazos que fije esta Ley.
 
 ###### ARTICULO 8°.
 
@@ -356,7 +362,9 @@ V.- Elaborar los programas operativos anuales para la ejecución de los programa
 
 VI.- Considerar el ámbito territorial de las acciones previstas en su programa, procurando su congruencia con los objetivos y prioridades de los planes y programas de los Gobiernos de la Federación y de los Municipios,
 
-VIII (sic).- Vigilar que las entidades del sector que coordinen conduzcan sus actividades conforme al Plan Estatal de Desarrollo y al Programa Sectorial correspondiente, y cumplan con lo previsto en el programa institucional a que se refiere el Artículo 19, Fracción II, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VII.- Vigilar que las entidades del sector que coordinen conduzcan sus actividades conforme al Plan Estatal de Desarrollo y al Programa Sectorial correspondiente, y cumplan con lo previsto en el programa institucional a que se refiere el Artículo 19, Fracción II, de esta Ley; y
 
 VIII.- Verificar periódicamente la relación que guardan los programas y presupuestos de las entidades Paraestatales del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar, en su caso los programas respectivos.
 
@@ -414,17 +422,37 @@ Para tal efecto, y conforme a la Legislación aplicable, deberán preverse la or
 
 PLANES Y PROGRAMAS.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 24.
 
-El PLED deberá elaborarse, aprobarse y publicarse en un plazo de seis meses contados a partir de la fecha en que toma posesión el Gobernador del Estado y su vigencia no excederá del período Constitucional que le corresponda, sin embargo deberá contener consideraciones y proyecciones de hasta 25 años para los programas plurianuales que requieran ese tiempo para su consolidación.
+El Gobernador del Estado enviará al Congreso del Estado el PLED en un plazo de seis meses contados a partir de la fecha en que tome posesión. Su vigencia no excederá del período Constitucional que le corresponda; sin embargo, podrá contener consideraciones y proyecciones de hasta 25 años para los programas plurianuales que requieran ese tiempo para su consolidación.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+El Congreso del Estado aprobará el PLED dentro del plazo de cuarenta y cinco días contados a partir de su recepción. En caso de que no se pronuncie en dicho plazo, el Plan se entenderá aprobado en los términos presentados por el Gobernador.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+En el marco del Sistema Nacional de Planeación Democrática, el Plan Estatal de Desarrollo deberá guardar congruencia y permitir la adecuada coordinación con el Plan Nacional de Desarrollo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 25.
 
-Los planes municipales de desarrollo deberán aprobarse y publicarse en un plazo de seis meses contados a partir de la fecha en que toma posesión el Ayuntamiento y su vigencia no excederá el período Constitucional que le corresponda, sin embargo deberá contener consideraciones y proyecciones de hasta 10 años para los programas multianuales que requieran ese tiempo para su consolidación.
+Cada Presidente Municipal electo en los comicios generales en que se elija Gobernador del Estado, elaborará el Plan Municipal de Desarrollo en un plazo no mayor de ocho meses contado a partir de su toma de posesión y lo someterá a la aprobación del respectivo Cabildo, quien lo aprobará, en su caso, dentro de los quince días posteriores a su entrega.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Los Presidentes Municipales que resulten electos en comicios intermedios elaborarán el Plan Municipal de Desarrollo y lo someterán a la aprobación de su respectivo Cabildo en un plazo no mayor de cinco meses contados a partir de su toma de posesión. El Cabildo aprobará el Plan Municipal de Desarrollo en un plazo no mayor de treinta días a partir de su presentación.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+La vigencia del Plan Municipal de Desarrollo no excederá el período Constitucional que le corresponda; sin embargo, deberá contener consideraciones y proyecciones de hasta 10 años para los programas multianuales que requieran ese tiempo para su consolidación.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+En el marco del Sistema Nacional de Planeación Democrática, el Plan Municipal de Desarrollo deberá guardar congruencia y permitir la adecuada coordinación con el Plan Estatal y el Plan Nacional de Desarrollo.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
@@ -439,6 +467,10 @@ Los Planes Municipales de Desarrollo precisarán los objetivos geenerales (sic),
 ###### ARTICULO 28.
 
 La denominación de Plan queda reservada, exclusivamente, para el Plan Estatal de Desarrollo y para los Planes Municipales.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+El Plan Estatal y los Planes Municipales de Desarrollo deberán Publicarse en el Periódico Oficial del Estado, dentro de los 10 días naturales siguientes a su aprobación.
 
 ###### ARTICULO 29.
 
@@ -508,9 +540,11 @@ El PLED y los programas que de él se deriven serán revisados al concluirse el 
 
 Los resultados de las revisiones y en su caso las adecuaciones consecuentes a los planes municipales y a los programas que de ellos se deriven, se publicarán en los municipios y en el "Periódico Oficial" del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 40.
 
-Una vez aprobados por el ejecutivo, el Plan Estatal y los Programas que de él se deriven, serán obligatorios para las dependencias de la Administración pública en el ámbito de sus respectivas competencias.
+Una vez aprobados por la autoridad correspondiente el Plan Estatal y los Programas que de él se deriven, serán obligatorios para las dependencias de la Administración pública en el ámbito de sus respectivas competencias.
 
 ###### ARTICULO 41.
 
@@ -638,17 +672,21 @@ Las políticas que normen el ejercicio de las atribuciones que las leyes confier
 
 RESPONSABILIDADES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 59.
 
-A los servidores públicos dee (sic) la Administración Pública Estatal, que en el Ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven, o los objetivos y prioridades del plan estatal y de los programas que de él se desprendan, se les impondrán las medidas disciplinarias de apercibimiento o amonestación. Si la gravedad de la infracción lo ameritara, el titular de la dependencia o entidad podrá suspender o remover de su cargo al servidor público responsable, de conformidad con la Ley estatal de responsabilidades de los servidores públicos.
+A los servidores públicos de la Administración Pública Estatal, que en el Ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven, o los objetivos y prioridades del Plan Estatal y de los programas que de él se desprendan, se les impondrán las medidas disciplinarias de apercibimiento o amonestación. Si la gravedad de la infracción lo ameritara, se procederá de conformidad con la Ley General de Responsabilidades Administrativas.
 
-Los propios titulares de las dependencias y entidades promoverán ante las autoridades competentes, la aplicación de las medidas disciplinarias a que se refiere esta disposición.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 60.
 
-A los servidores públicos de la Administración Pública Municipal que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se derivan o los objetivos y prioridades de los planes municipales y de los programas que de ellos se desprendan, se les impondrán las medidas disciplinarias de apercibimiento o amonestación, y si la gravedad de la infracción lo amerita, el Ayuntamiento podrá suspender o remover de su cargo al servidor público responsable.
+A los servidores públicos de la Administración Pública Municipal que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se derivan o los objetivos y prioridades de los planes municipales y de los programas que de ellos se desprendan, quedarán sujetos a los procedimientos y sanciones que se deriven de la Ley General de Responsabilidades Administrativas.
 
-Los presidentes municipales promoverán ante las autoridades competentes, la aplicación de las medidas disciplinarias a que se refiere esta disposición, conforme con las Leyes Vigentes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 61.
 
@@ -733,3 +771,17 @@ P.O. 25 DE MAYO DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 002 POR EL QUE "SE REFORMAN: EL ARTÍCULO 2, FRACCIONES III, V Y VI; EL ARTÍCULO 6, PRIMER PÁRRAFO; EL ARTÍCULO 7; EL ARTÍCULO 18, FRACCIÓN VIII (DUPLICADA), PARA CORREGIR SU NUMERACIÓN COMO VII; EL ARTÍCULO 24, PRIMER PÁRRAFO; EL ARTÍCULO 25, PRIMER PÁRRAFO; EL ARTÍCULO 40; EL ARTÍCULO 59, PRIMER PÁRRAFO; AL ARTÍCULO 60, PRIMER PÁRRAFO. SE ADICIONAN: UNA FRACCIÓN VII AL ARTÍCULO 2; UN PÁRRAFO SEGUNDO AL ARTÍCULO 6; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 24; LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 25; UN PÁRRAFO SEGUNDO AL ARTÍCULO 28. SE DEROGAN: EL SEGUNDO PÁRRAFO DEL ARTÍCULO 59; Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60, TODOS DE LA LEY DE PLANEACIÓN DEL ESTADO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La reforma al primer párrafo del artículo 24 de la Ley de Planeación del Estado de Tabasco, entrará en vigor el 1o. de octubre de 2024, por lo que el Gobernador del Estado que comience su mandato el 1o. de enero de 2019 enviará el Plan Estatal de Desarrollo al Congreso del Estado para su aprobación, a más tardar el 31 de mayo siguiente a su toma de posesión.
+
+Para efectos de lo previsto en el párrafo anterior, la Comisión Permanente del Congreso convocará, de ser necesario, a un periodo extraordinario de sesiones para la aprobación de dicho Plan, en un plazo máximo de 45 días contado a partir de que haya recibido el referido Plan por parte del Ejecutivo Estatal.
+
+TERCERO.- La reforma al primer párrafo del artículo 25 entrará en vigor el 5 de octubre de 2021, por lo que los presidentes municipales que inicien su mandato el 5 de octubre de 2018 deberán elaborar su Plan Municipal de Desarrollo a más tardar el 16 de julio de 2019 y, en su caso, los respectivos cabildos deberán aprobarlo dentro de los 15 días siguientes a su recepción.
+
+CUARTO.- Se derogan las disposiciones legales o administrativas que se opongan a lo previsto en el presente Decreto.
