@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2018-05-30"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -1151,9 +1151,9 @@ I. Realizar las acciones necesarias para el desarrollo municipal, siguiendo los 
 
 II. Formular y someter a la aprobación del Ayuntamiento el Bando de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, así como promulgarlos, publicarlos, vigilar y sancionar su cumplimiento;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE OCTUBRE DE 2018)</small>
 
-III. Elaborar los planes y programas municipales de acuerdo a las leyes respectivas, así como el presupuesto de ingresos y egresos, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual, de inicio de un periodo Constitucional, el primero, dentro de los primeros ciento veinte días naturales de su mandato, y posteriormente el Programa Operativo Anual, dentro de los primeros noventa días de cada ejercicio fiscal anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones.
+III. Elaborar los planes y programas municipales de acuerdo con la Ley de Ingresos, el Presupuesto de Egresos y las leyes respectivas, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual al inicio de un periodo Constitucional, el primero, en los plazos señalados en el artículo 25 de la Ley de Planeación del Estado; y, en su caso, el Programa Operativo Anual, dentro de los .primeros noventa días de cada ejercicio fiscal anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones.
 
 Tratándose del presupuesto de egresos correspondiente al primer año del ejercicio de un nuevo periodo constitucional, dentro de los sesenta días siguientes de iniciado el mismo, y conforme la previsión de los ingresos, el presidente municipal podrá solicitar al Cabildo, la aprobación de la modificación, y en su caso, la ampliación del presupuesto asignado por la administración anterior, para el ejercicio de que se trate, a fin de dar cumplimiento al Plan Municipal de Desarrollo y al Programa Operativo Anual de ese año, así como a los demás objetivos y metas que se pretendan alcanzar;
 
@@ -2405,9 +2405,11 @@ El manejo indebido de fondos municipales y cualquier otro hecho que se estime co
 
 El Municipio constituye la unidad básica de organización para el desarrollo político, económico, social y cultural en el Estado. Por tanto, tendrá las facultades y atribuciones necesarias para impulsar el desarrollo dentro de su ámbito territorial.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 120.
 
-Para la consecución del desarrollo municipal, los ayuntamientos se sujetarán a lo dispuesto en la Ley Estatal de Planeación y en las demás disposiciones aplicables.
+Para la consecución del desarrollo municipal, los ayuntamientos se sujetarán a lo dispuesto en la Ley de Planeación del Estado y en las demás disposiciones aplicables.
 
 ###### Artículo 121.
 
@@ -2429,9 +2431,9 @@ Los planes municipales deberán prever, de conformidad con el artículo 115 de l
 
 Los municipios podrán participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales en la materia; cuando el Estado elabore proyectos de desarrollo regional, deberá otorgarse la participación correspondiente a los municipios concurrentes.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-Durante los primeros sesenta días naturales contados a partir de que tomen posesión los miembros de los ayuntamientos, podrán convocar a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación para el Desarrollo del Estado de Tabasco, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo; así mismo, del resultado señalado deberán tomar en consideración aquellas propuestas que sean de utilidad para elaborar sus planes municipales, debiendo sujetarse a lo que sobre el particular establece la Ley de Planeación del Estado.
+Dentro de los dos meses siguientes a la fecha en que inicien su período constitucional, los presidentes municipales podrán convocar a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación para el Desarrollo del Estado de Tabasco, los objetivos y prioridades municipales que consideren deban incorporarse al Plan Estatal de Desarrollo; así mismo, del resultado señalado deberán tomar en consideración aquellas propuestas que sean de utilidad para elaborar sus propios planes municipales, debiendo sujetarse a lo que sobre el particular establece la Ley de Planeación del Estado.
 
 En la formulación de los planes de desarrollo municipal, acorde a lo establecido en la fracción IX, del inciso b), del artículo 2, de la Constitución Política de los Estados Unidos Mexicanos, el Municipio deberá consultar a los pueblos o comunidades indígenas que se encuentren dentro de su límite territorial y, en su caso, incorporará las recomendaciones y propuestas que le realicen.
 
@@ -3964,3 +3966,17 @@ P.O. 30 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 002 POR EL QUE "SE REFORMAN: EL ARTÍCULO 65, FRACCIÓN III, PRIMER PÁRRAFO; EL ARTÍCULO 120; Y EL ARTÍCULO 121, QUINTO PÁRRAFO; TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La reforma al primer párrafo del artículo 24 de la Ley de Planeación del Estado de Tabasco, entrará en vigor el 1o. de octubre de 2024, por lo que el Gobernador del Estado que comience su mandato el 1o. de enero de 2019 enviará el Plan Estatal de Desarrollo al Congreso del Estado para su aprobación, a más tardar el 31 de mayo siguiente a su toma de posesión.
+
+Para efectos de lo previsto en el párrafo anterior, la Comisión Permanente del Congreso convocará, de ser necesario, a un periodo extraordinario de sesiones para la aprobación de dicho Plan, en un plazo máximo de 45 días contado a partir de que haya recibido el referido Plan por parte del Ejecutivo Estatal.
+
+TERCERO.- La reforma al primer párrafo del artículo 25 entrará en vigor el 5 de octubre de 2021, por lo que los presidentes municipales que inicien su mandato el 5 de octubre de 2018 deberán elaborar su Plan Municipal de Desarrollo a más tardar el 16 de julio de 2019 y, en su caso, los respectivos cabildos deberán aprobarlo dentro de los 15 días siguientes a su recepción.
+
+CUARTO.- Se derogan las disposiciones legales o administrativas que se opongan a lo previsto en el presente Decreto.
