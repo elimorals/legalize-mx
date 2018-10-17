@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-ii-124877"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-22"
-last_updated: "2017-12-22"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-28"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN II
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2018.
 
 Estatuto publicado en la Octava Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 2017.
 
@@ -1021,11 +1021,13 @@ El orden anteriormente descrito también aplicará en caso de vacancia, hasta en
 
 En toda clase de juicios, especialmente, en los de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de demandas e interposición del recurso de revisión al que se refiere la Ley Federal de Procedimiento Contencioso Administrativo será representado por el Jefe del Departamento Jurídico.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 34.
 
-Las ausencias del Auditor Interno de CFE Generación II serán suplidas, por el Auditor Supervisor asignado a la empresa.
+Las ausencias temporales del Auditor Interno de CFE Generación II serán suplidas, por el Auditor Supervisor asignado a la empresa.
 
-Las Ausencias por vacaciones del Auditor Interno de CFE Generación II, serán suplidas por el Auditor Interno de la CFE, hasta en tanto se efectúe la designación conforme al procedimiento establecido en los lineamientos aprobados por el Consejo de administración.
+Las Ausencias por vacancia del Auditor Interno de CFE Generación II, serán suplidas por el Auditor Interno de la CFE, hasta en tanto se efectúe la designación conforme al procedimiento establecido en los lineamientos aprobados por el Consejo de Administración.
 
 ###### ARTÍCULO 35.
 
@@ -1039,6 +1041,26 @@ Durante las ausencias del Jefe de Unidad, serán suplidos, por el Jefe de Oficin
 
 Las suplencias a que se hace mención en los artículos 33 al 36 de este Estatuto por un periodo de más de 5 días hábiles se realizarán mediante el oficio correspondiente.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 17 DE OCTUBRE DE 2018)</small>
+
+## TITULO V BIS. De la Unidad de Responsabilidades
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 17 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 17 DE OCTUBRE DE 2018)</small>
+
+###### ARTÍCULO 38.
+
+La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Generación II las leyes en materia de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 17 DE OCTUBRE DE 2018)</small>
+
+###### ARTÍCULO 39.
+
+La Unidad de Responsabilidades en CFE Generación II contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1050,3 +1072,11 @@ TERCERO. Los derechos de los trabajadores no se verán afectados por la reestruc
 El presente Estatuto fue aprobado y expedido por el Consejo de Administración de CFE Generación II, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación II, en sesión ordinaria celebrada el 17 de marzo de 2017, mediante el Acuerdo Número CA-GII-12/2017.
 
 En la Ciudad de México, a los veintiocho días del mes de noviembre de dos mil diecisiete.- El Director General de CFE Generación II, Ignacio Carrizales Martínez, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación II, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES Y ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN II PUBLICADO EL 22 DE DICIEMBRE DE 2017”.]
+
+ÚNICO. Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
