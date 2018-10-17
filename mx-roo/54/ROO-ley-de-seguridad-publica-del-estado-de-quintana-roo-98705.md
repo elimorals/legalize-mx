@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-del-estado-de-quintana-roo-98705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2016-09-20"
+last_updated: "2018-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -127,7 +127,13 @@ XIV. Fortalecer los sistemas de seguridad social de los servidores públicos, su
 
 XV. Coordinar con las autoridades judiciales y administrativas la ejecución y vigilancia de penas y medidas judiciales; así como establecer los lineamientos del Sistema Estatal Penitenciario; y
 
-XVI. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVI. Desarrollar programas de formación, actualización, capacitación y profesionalización permanente para sus servidores públicos, en materia de Tortura, en términos de lo dispuesto por la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVII. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
 
 ###### Artículo 4.
 
@@ -475,7 +481,13 @@ XII. Verificar que los integrantes de las instituciones policiales municipales c
 
 XIII. Aprobar el nombramiento del Comisario General de la Policía Preventiva Municipal y Tránsito o sus equivalentes respectivos a propuesta del Presidente Municipal o los miembros del cabildo en su caso, previa consulta de los antecedentes del aspirante en el registro nacional, y
 
-XIV. Ejercer las demás facultades que le confieren esta ley y otros ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIV. Formular el Programa Municipal para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, de conformidad con lo establecido en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles Inhumanos o Degradantes, y demás disposiciones legales aplicables, así como remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XV. Ejercer las demás facultades que le confieren esta ley y otros ordenamientos legales aplicables.
 
 ###### Artículo 21.
 
@@ -3880,3 +3892,23 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 256 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL, LEY DE VÍCTIMAS, LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS, LEY DE SEGURIDAD PÚBLICA, LEY DE SALUD, LEY ORGÁNICA DEL PODER JUDICIAL Y CÓDIGO PENAL, TODOS DEL ESTADO DE QUINTANA ROO, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. En términos de lo dispuesto en el Decreto por el que se reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de julio del 2015, se abroga la Ley para Prevenir y Sancionar la Tortura en el Estado de Quintana Roo, publicada en el Periódico Oficial de (sic) Gobierno del Estado en fecha 13 de noviembre de 1992.
+
+Los hechos cometidos y los procedimientos iniciados antes de la vigencia de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, se sustanciarán o continuarán su sustanciación de conformidad con la legislación aplicable en el momento de su comisión o del inicio de los procedimientos.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
+
+Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones necesarias para proveer de recursos humanos, financieros, tecnológicos y materiales a la Fiscalía General del Estado, en virtud de la creación de la Fiscalía Especializada para la Investigación del Delito de Tortura. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
+
+Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
