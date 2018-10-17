@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-universidad-tecnologica-del-valle-1196
 country: "mx"
 rank: "codigo"
 publication_date: "2017-01-16"
-last_updated: "2017-01-16"
+last_updated: "2018-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA, ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA, PUBLICADO EN LA G.G. DE 17 DE OCTUBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE OCTUBRE DE 2018 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado Libre y Soberano de México, el lunes 16 de enero de 2017.
 
@@ -532,3 +534,17 @@ FIRMAS DE ADHESIÓN AL CÓDIGO DE CONDUCTA POR PARTE DEL COMITÉ DE ÉTICA Y DE 
 Una vez que se ha concluido con la revisión de los puntos estipulados en el Código de Conducta y levantada el acta correspondiente, se da por concluida la Sesión del Comité de Ética y de Prevención de Conflicto de Intereses donde se aprueba por unanimidad de votos para su difusión y conocimiento el Código de Conducta de la Universidad Tecnológica del Valle de Toluca, elaborado en Santa María Atarasquillo, Lerma, Estado de México a las 11:00 horas del día 08 del mes de noviembre del año dos mil dieciséis, firmando al margen y calce de todas y cada una de las fojas que integran la presente acta para su debida constancia legal.
 
 > <small>[N. DE E. VÉASE LAS FIRMAS DE ADHESIÓN AL CÓDIGO DE CONDUCTA POR PARTE DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTO DE INTERESES EN LA G. G. DEL ESTADO DE MÉXICO 16 DE ENERO DE 2017, PÁGINA 14.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA".]
+
+PRIMERO.- El presente Código de Conducta, fue aprobado por los integrantes del Comité de Ética y de Prevención de Conflicto de Intereses de la Universidad Tecnológica del Valle de Toluca, en la II Sesión Extraordinaria del Comité de Ética y de Prevención de Conflicto de Intereses de la Universidad Tecnológica del Valle de Toluca, de fecha 05 de septiembre de 2018.
+
+SEGUNDO.- Publíquese el presente Código en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Este Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+CUARTO.- Se abrogan las disposiciones del Código de Conducta de la Universidad Tecnológica del Valle de Toluca, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 16 de enero de 2017.
