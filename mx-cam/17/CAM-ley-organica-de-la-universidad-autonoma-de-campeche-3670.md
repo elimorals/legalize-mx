@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-universidad-autonoma-de-campeche-3670"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-06-20"
-last_updated: "1991-06-20"
+last_updated: "2018-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CAMPECHE, PUBLICADA EN EL P.O. DE 17 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 20 de junio de 1991.
-
-.
 
 ABELARDO CARRILLO ZAVALA, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
@@ -1174,3 +1174,25 @@ C. ABELARDO CARRILLO ZAVALA
 EL SECRETARIO DE GOBIERNO
 
 LIC. ALBAR JAIME COLONIA GARCIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 320 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CAMPECHE".]
+
+PRIMERO. El presente decreto entrará en vigor el primer día del mes de enero de 2019, previa publicación en el Periódico Oficial del Estado de Campeche, en el orden y términos que se especifican en los artículos transitorios siguientes.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, se abroga la Ley Orgánica de la Universidad Autónoma de Campeche, contenida en el Decreto número 143, emitido por la LIII Legislatura del H. Congreso del Estado de Campeche publicado en el Periódico Oficial del Gobierno del Estado de fecha 20 de junio de 1991.
+
+TERCERO. La o el Rector en funciones desempeñará su cargo durante el periodo para el que fue electo, con sujeción a lo dispuesto por el artículo 24 de este decreto.
+
+CUARTO. El H. Consejo Universitario, en uso de la facultad y responsabilidad que para gobernarse a sí misma le confiere a la Universidad su autonomía, fijará para cada caso, y por única vez, el plazo de duración de las o los Directores de las Facultades, Escuelas y Centros de Investigación que actualmente estén en funciones, el cual en ningún caso excederá de tres años, a partir de la vigencia del presente decreto. Al concluir dicho plazo los mismos funcionarios estarán sujetos a lo establecido en la presente Ley.
+
+QUINTO. Todos los órganos académicos colegiados y autoridades unipersonales contemplados en la Ley que se abroga en el artículo primero, seguirán ejerciendo sus funciones de acuerdo al presente decreto.
+
+SEXTO. En un plazo máximo de dos meses el H. Consejo Universitario aprobará la composición académica de los Campus y Departamentos Académicos y expedirá los nombramientos correspondientes.
+
+SÉPTIMO. En un plazo máximo de diez meses, contados a partir de la entrada en vigor de este decreto, el H. Consejo Universitario emitirá el Estatuto Orgánico que regirá en la Universidad y se harán las reformas a la reglamentación actual y se expedirán las disposiciones reglamentarias que resulten procedentes, con la finalidad de hacer las adaptaciones correspondientes a lo estipulado en el presente Ordenamiento. En lo demás, seguirá en vigor la reglamentación actual en tanto no se oponga al presente decreto.
+
+OCTAVO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo los (sic) que se oponga al contenido del presente decreto.
