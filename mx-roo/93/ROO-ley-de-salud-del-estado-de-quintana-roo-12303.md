@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2017-04-14"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -273,9 +273,13 @@ XVII. Proponer, elaborar y suscribir acuerdos o convenios para la obtención de 
 
 XVIII. Asegurar la disponibilidad oportuna de sangre o sus componentes en los establecimientos de los sectores público, social y privado que presten servicios de salud y no cuenten con bancos de sangre o centros de procesamiento. Para ello, estos establecimientos deberán tener convenio con algún establecimiento de banco de sangre, un centro de procesamiento o un centro de distribución de sangre y componentes sanguíneos.
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XIX. Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XIX. Contribuir a la prevención de la tortura y otros tratos crueles, inhumanos o degradantes, por lo que, cuando algún integrante del Sistema Estatal de Salud cuente con elementos para presumir que una persona ha sido víctima de estas conductas, está obligado a hacerlo del conocimiento de las autoridades competentes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XX.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### ARTICULO 9o.
 
@@ -2173,7 +2177,7 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-ARTICULO 157 BIS.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán, resolverán los delitos y/o ejecutarán las sanciones y medidas de seguridad a que se refiere el capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el artículo 474 de la propia Ley, mismas que se implementarán de acuerdo (sic) la tabla prevista en el artículo 479 de la referida Ley.
+ARTICULO 157 BIS.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán, resolverán los delitos y/o ejecutarán las sanciones y medidas de seguridad a que se refiere el capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el artículo 474 de la propia Ley, mismas que se implementarán de acuerdo la tabla prevista en el artículo 479 de la referida Ley.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -3814,3 +3818,23 @@ Tercero.- El Poder Ejecutivo del Estado, dispondrá con un plazo de 90 días nat
 Cuarto.- El Poder Ejecutivo del Estado y el Poder Legislativo del Estado, preverán lo conducente en la asignación de recursos presupuestales anuales a favor de la Secretaría de Salud del Estado, a fin de que en términos de lo dispuesto por el artículo 61 F se cuente con la infraestructura, equipo de vanguardia, recursos humanos y financieros para garantizar la correcta prevención, detección, atención y rehabilitación de los casos de cáncer diagnosticados en la mujer, necesarios para dar cumplimiento al presente Decreto.
 
 Quinto.- En tanto entra en vigor lo dispuesto por el artículo 61-F de la presente Ley y se da cumplimiento a lo dispuesto por los artículos segundo y cuarto transitorio del presente Decreto, continuarán llevándose a cabo los programas de reconstrucción mamaria que se implementen en el Estado, derivados de los convenios de colaboración entre las diversas autoridades tanto estatales, como con instituciones públicas y privadas, dedicadas a la materia objeto del presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 256 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE .LA. LEY DE LA FISCALÍA GENERAL, LEY DE VÍCTIMAS, LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS, LEY DE SEGURIDAD PÚBLICA, LEY DE SALUD, LEY ORGÁNICA DEL PODER JUDICIAL Y CÓDIGO PENAL, TODOS DEL ESTADO DE QUINTANA ROO, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. En términos de lo dispuesto en el Decreto por el que se reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de julio del 2015, se abroga la Ley para Prevenir y Sancionar la Tortura en el Estado de Quintana Roo, publicada en el Periódico Oficial de Gobierno del Estado en fecha 13 de noviembre de 1992.
+
+Los hechos cometidos y los procedimientos iniciados antes de la vigencia de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, se sustanciarán o continuarán su sustanciación de conformidad con la legislación aplicable en el momento de su comisión o del inicio de los procedimientos.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
+
+Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones necesarias para proveer de recursos humanos, financieros, tecnológicos y materiales a la Fiscalía General del Estado, en virtud de la creación de la Fiscalía Especializada para la Investigación del Delito de Tortura. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
+
+Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
