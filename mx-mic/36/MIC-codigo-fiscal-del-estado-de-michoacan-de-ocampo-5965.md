@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2017-12-29"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -149,7 +149,7 @@ Los recargos, las sanciones, los honorarios, los gastos de ejecución y la indem
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Los honorarios y gastos de ejecución a que se refiere el último párrafo del articulo tercero de este Código y el párrafo anterior, serán distribuidos entre el personal de la Secretaria, conforme al reglamento respectivo; asimismo, será distribuible conforme a dicho reglamento, el 50% de las multas que establece este Código.
+Los honorarios y gastos de ejecución a que se refiere el último párrafo del artículo tercero de este Código y el párrafo anterior, serán distribuidos entre el personal de la Secretaria, conforme al reglamento respectivo; asimismo, será distribuible conforme a dicho reglamento, el 50% de las multas que establece este Código.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1381,7 +1381,7 @@ IV. Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo 
 
 V. Si el visitado, su representante o la persona con quien se entienda la visita se niega a permitir a los visitadores el acceso a los lugares donde se realiza la visita; así como a mantener a su disposición los datos, documentos o informes que se requieran, correspondencia o contenido de cajas de valores.
 
-En el caso de que los visitadores obtengan copias certificadas de la documentación por encontrarse el visitado en cualquiera de los supuestos previstos por el tercer párrafo de este artículo, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el articulo 39-D de este Código, con la que podrá terminar la visita domiciliaria en el domicilio o establecimientos del visitado, pudiéndose continuar el ejercicio de las facultades de comprobación en el domicilio del visitado o en las oficinas de las autoridades fiscales, donde se levantará el acta final, con las formalidades a que se refiere el citado artículo.
+En el caso de que los visitadores obtengan copias certificadas de la documentación por encontrarse el visitado en cualquiera de los supuestos previstos por el tercer párrafo de este artículo, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el artículo 39-D de este Código, con la que podrá terminar la visita domiciliaria en el domicilio o establecimientos del visitado, pudiéndose continuar el ejercicio de las facultades de comprobación en el domicilio del visitado o en las oficinas de las autoridades fiscales, donde se levantará el acta final, con las formalidades a que se refiere el citado artículo.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -1989,17 +1989,21 @@ VII. No presentar la baja del vehículo automotor o remolque;
 
 VIII. No tramitar el cambio de propietario o de domicilio dentro del plazo señalado por el artículo 42 de la Ley de Hacienda del Estado de Michoacán;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-IX. Tramitar extemporáneamente la obtención original de placas de circulación de vehículos nuevos, y
+IX. Tramitar extemporáneamente la obtención original de placas de circulación de vehículos nuevos;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 X. Colocar en los vehículos automotores, placas con características que no correspondan a las de las placas autorizadas por la autoridad competente o colocar placas distintas a las asignadas;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XI. No realizar el refrendo anual de calcomanía, en las fechas correspondientes.
+XI. No realizar el refrendo anual de calcomanía, en las fechas correspondientes; y,
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XII. No contar con la constancia de inscripción al Registro Público Vehicular.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -3211,7 +3215,7 @@ Los registradores o encargados del Registro Público de la Propiedad deberán in
 
 ###### ARTICULO 169.
 
-Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el jefe de la oficina ejecutora dispondrá que se entregue al adquirente, girando las ordenes necesarias.
+Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el jefe de la oficina ejecutora dispondrá que se entregue al adquirente, girando las órdenes necesarias.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -3428,3 +3432,17 @@ P.O. 29 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMER0 419 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 16-A FRACCIÓN VII, 26, 27 FRACCIÓN VII Y 28 FRACCIÓN X; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 39-D, DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día 1 de enero del año 2018, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 656 POR EL QUE “SE REFORMAN LAS FRACCIONES IX Y XI; Y, SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 71 DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Ejecutivo Estatal en un término de noventa días, podrá hacer las modificaciones reglamentarias para el debido cumplimiento del presente Decreto.
+
+TERCERO. La colocación de las constancias de inscripción al Registro Público Vehicular, será programada gradualmente conforme lo establezca el Reglamento de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo.
+
+CUARTO. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán, deberá proporcionar información de su base de datos conforme a las reglas establecidas en la Ley del Registro Público Vehicular, a la Entidad pública encargada del registro, en un plazo no mayor a ciento veinte días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
