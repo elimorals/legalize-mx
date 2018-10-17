@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2018-08-20"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE PLANEACION HACENDARIA, PRESUPUESTO, GASTO PUBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -47,11 +49,11 @@ LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERN
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 1°.
 
-La presente Ley es de orden público, de observancia obligatoria y tiene por objeto reglamentar lo dispuesto por la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, en materia de planeación hacendaria, programación, presupuesto, ejercicio y control de los recursos presupuestarios del Estado, contabilidad, control, vigilancia y evaluación del Gasto Público que ejerzan los Entes Públicos bajo los principios de legalidad, eficiencia, eficacia, calidad en el servicio, economía, transparencia, honestidad, racionalidad, austeridad, control, rendición de cuentas y equidad de género observando lo estipulado en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como los reglamentos correspondientes y las Normas y Lineamientos que emita el Consejo Nacional de Armonización Contable; en coadyuvancia con el Consejo Estatal de Armonización Contable para su difusión e implementación.
+La presente Ley es de orden público, de observancia obligatoria y tiene por objeto reglamentar lo dispuesto por la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, en materia de planeación hacendaria, programación, presupuesto, ejercicio y control de los recursos presupuestarios del Estado, contabilidad, control, vigilancia y evaluación del Gasto Público que ejerzan los Entes Públicos bajo los principios de legalidad, eficiencia, eficacia, calidad en el servicio, economía, transparencia, honestidad, racionalidad, austeridad, control, rendición de cuentas, transversalidad y perspectiva de género, observando lo estipulado en la Ley de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como los reglamentos correspondientes y las Normas y Lineamientos que emita el Consejo Nacional de Armonización Contable; en coadyuvancia con el Consejo Estatal de Armonización Contable para su difusión e implementación, garantizando los lineamientos para la transversalidad de la perspectiva de género en las políticas públicas, así como el control de las mismas en los planes y programas vinculados a la presente Ley.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -151,9 +153,17 @@ XLII. Secretaría: La Secretaría de Finanzas y Administración;
 
 XLIII. Secretaría de Contraloría: Es el órgano interno de control del poder ejecutivo responsable de fijar las normas de control, evaluación, fiscalización, contabilidad y auditoría, que deben observar las dependencias y entidades de la Administración Pública Estatal;
 
-XLIV. Sistema de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento Unidad Programática Presupuestal; y,
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XLV. Transferencias federales etiquetadas: Los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+XLIV. Sistema de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento Unidad Programática Presupuestal;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XLV. Transferencias federales etiquetadas: Los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate; y,
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XLVI. Transversalidad de la Perspectiva de Género: Es un método de gestión para promover la igualdad de oportunidades y de trato entre mujeres y hombres, transformando las estructuras y lograr la igualdad sustantiva entre ambos sexos. Ha sido definida como: «la integración sistemática de las situaciones, intereses, prioridades y necesidades propias de las mujeres en todas las políticas del Estado, con miras a promover y velar por la igualdad entre mujeres y hombres» (OCDE 1997).
 
 ###### ARTÍCULO 3°.
 
@@ -281,9 +291,11 @@ Los informes trimestrales y cuenta pública deberán contener el estado presupue
 
 ### CAPÍTULO III. DE LA PROGRAMACIÓN Y PRESUPUESTACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 11.
 
-La Ley de Ingresos y el Presupuesto de Egresos en el ámbito estatal se sustentarán en el PLAN DE DESARROLLO INTEGRAL DEL ESTADO DE MICHOACÁN, y en el ámbito municipal en el PLAN DE DESARROLLO MUNICIPAL, en base a los programas sectoriales, regionales, institucionales y especiales que apruebe el Ejecutivo del Estado, y en su caso el Ayuntamiento, conforme a lo establecido en la Ley de Planeación del Estado de Michoacán de Ocampo y en la Ley Orgánica Municipal.
+La Ley de Ingresos y el Presupuesto de Egresos en el ámbito estatal se sustentarán en el PLAN DE DESARROLLO INTEGRAL DEL ESTADO DE MICHOACÁN, y en el ámbito municipal en el PLAN DE DESARROLLO MUNICIPAL, en base a los programas sectoriales, regionales, institucionales y especiales que con transversalidad y perspectiva de género apruebe el Ejecutivo del Estado, y en su caso el Ayuntamiento, conforme a lo establecido en la Ley de Planeación del Estado de Michoacán de Ocampo y en la Ley Orgánica Municipal.
 
 Deberán de establecer con base en objetivos y parámetros cuantificables de política económica, los indicadores, objetivos, estrategias y metas que permitan la Evaluación del desempeño.
 
@@ -295,9 +307,11 @@ La Secretaría, realizará los estudios pertinentes con el propósito de formula
 
 APARTADO A: ÁMBITO ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 13.
 
-La programación y presupuestación del Gasto Público del Gobierno del Estado, deberá de realizarse con base a los programas institucionales y especiales aprobados por el Ejecutivo Estatal por conducto de la Coordinación de Planeación, tratándose de entidades y Organismos Autónomos, por su órgano de gobierno, el cual se sustentará en el Plan Integral de Desarrollo Estatal.
+La programación y presupuestación del Gasto Público del Gobierno del Estado deberá de realizarse con base a los programas institucionales y especiales con transversalidad y perspectiva de género, aprobados por el Ejecutivo Estatal por conducto de la Coordinación de Planeación, tratándose de entidades y Organismos Autónomos, por su órgano de gobierno, el cual se sustentará en el Plan Integral de Desarrollo Estatal.
 
 Los programas que contengan nuevos proyectos, en un ejercicio fiscal se deberán someter a la aprobación del Ejecutivo del Estado, por conducto de la Coordinación de Planeación.
 
@@ -369,9 +383,11 @@ El Presupuesto de Egresos, será el que contenga el decreto que apruebe el Congr
 
 La Secretaría conjuntamente con la Coordinación de Planeación dictará las disposiciones a que se sujetarán las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración de los proyectos de presupuestos necesarios para el financiamiento de sus programas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 16.
 
-El Presupuesto de Egresos, se deberá estructurar por unidad programática presupuestaria, por unidad responsable de los programas institucionales y especiales, en los que se señalen los indicadores de gestión, objetivos, actividades, metas y techos financieros, en congruencia con los programas estratégicos, sectoriales y regionales del Plan Integral de Desarrollo del Estado, de acuerdo a las atribuciones que se derivan de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, y en su caso, de la Ley, Decreto o Acuerdo de creación.
+El Presupuesto de Egresos, se deberáì (sic) estructurar por unidad programática presupuestaria, por unidad responsable de los programas institucionales y especiales, en los que se señalen los indicadores de gestión, objetivos, actividades, metas y techos financieros, con transversalidad y perspectiva de género, en congruencia con los programas estratégicos, sectoriales y regionales del Plan Integral de Desarrollo del Estado, de acuerdo a las atribuciones que se derivan de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, y en su caso, de la Ley, Decreto o Acuerdo de creación.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2016)</small>
 
@@ -435,31 +451,21 @@ En cualquier caso, los sueldos y todo ingreso que los servidores públicos perci
 
 En adición a lo anterior, en materia de servicios personales, el Gobierno del Estado observará lo siguiente:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
 I. La asignación global de recursos para servicios personales que se apruebe en el Presupuesto de Egresos, tendrá como límite el producto que resulte de aplicar al monto aprobado en el Presupuesto de Egresos del ejercicio inmediato anterior, una tasa de crecimiento equivalente al valor que resulte menor entre:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 A) El 3 por ciento de crecimiento real, y,
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 B) El crecimiento real del Producto Interno Bruto señalado en los Criterios Generales de Política Económica para el ejercicio que se está presupuestando. En caso de que el Producto Interno Bruto presente una variación real negativa para el ejercicio que se está presupuestando, se deberá considerar un crecimiento real igual a cero.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 Queda exceptuado del cumplimiento de esta fracción, el monto erogado por sentencias laborales definitivas emitidas por la autoridad competente.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -577,15 +583,17 @@ También se publicarán las modificaciones al tabulador, que se autoricen en el 
 
 APARTADO B: ÁMBITO MUNICIPAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 23.
 
-Las iniciativas de las leyes de Ingresos y los presupuestos de egresos de los Municipios se deberán elaborar conforme a lo dispuesto en esta Ley, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en (sic) Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con los planes estatales y municipales de desarrollo y los programas derivados de los mismos; e incluirán cuando menos objetivos anuales, estrategias y metas.
+Las iniciativas de las leyes de Ingresos y los presupuestos de egresos de los Municipios se deberán elaborar conforme a lo dispuesto en esta Ley, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con los planes estatales y municipales de desarrollo y los programas derivados de los mismos, considerando la transversalidad y perspectiva de género; e incluirán cuando menos objetivos anuales, estrategias y metas.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 Las Leyes de Ingresos y los Presupuestos de Egresos de los Municipios deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación, así como aquellas transferencias del Estado.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 Los Municipios, en adición a lo previsto en los párrafos anteriores, deberán incluir en las iniciativas de las Leyes de Ingresos y en los proyectos de Presupuestos de Egresos, lo siguiente:
 
@@ -599,13 +607,13 @@ III. Los resultados de las finanzas públicas que abarquen un periodo de los tre
 
 IV. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada cuatro años. El Estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la legislación aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 Las proyecciones y resultados a que se refieren las fracciones I y III, respectivamente, comprenderán sólo un año para el caso de los Municipios con una población menor a doscientos mil habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría para cumplir lo previsto en este artículo.
 
 ###### ARTÍCULO 24.
 
 El Presupuesto de Egresos Municipal, es el que apruebe el Ayuntamiento, para costear, durante el periodo de un año calendario, las actividades, las obras y los servicios públicos, previstos en los programas institucionales y especiales de los Municipios que en el presupuesto se señalen tomando como base el monto total estimado en la Ley de Ingresos que apruebe el Congreso; observando lo dispuesto por la Ley General de Contabilidad Gubernamental y las normas y lineamientos del CONAC.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -633,9 +641,11 @@ Sólo se podrán constituir fideicomisos municipales o incrementar la aportació
 
 El Ayuntamiento, a través del Síndico, será el fideicomitente único en los fideicomisos en que sea parte el Municipio o cualquier Entidad.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-El Presupuesto de Egresos Municipal, se deberá estructurar por unidad programática presupuestaria, por unidad responsable de los programas institucionales y especiales, por programas y subprogramas en los que se señalen los indicadores de gestión, objetivos, actividades, metas y techos financieros clasificados por el origen de los recursos, en concordancia con los programas estratégicos, sectoriales y regionales del PLAN DE DESARROLLO MUNICIPAL, de acuerdo a las atribuciones que se derivan de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, y sus reglamentos.
+El Presupuesto de Egresos Municipal, se deberáì (sic) estructurar por unidad programática presupuestaria, por unidad responsable de los programas institucionales y especiales, por programas y subprogramas en los que se señalen los indicadores de gestión, objetivos, actividades, metas y techos financieros clasificados por el origen de los recursos, con una visión de transversalidad y perspectiva de género, en concordancia con los programas estratégicos, sectoriales y regionales del PLAN DE DESARROLLO MUNICIPAL, de acuerdo a las atribuciones que se derivan de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, y sus reglamentos.
 
 ###### ARTÍCULO 29.
 
@@ -667,7 +677,9 @@ X. Presentar de manera consolidada el presupuesto por programas sectoriales y re
 
 XI. Presentar de manera consolidada el presupuesto por clasificación económica, funcional y por unidad programática responsable de su ejecución;
 
-XII. Presentar de manera consolidada el presupuesto por programas institucionales y especiales con su clasificación económica y las unidades programáticas presupuestarias responsables de su ejecución;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XII. Presentar de manera consolidada el presupuesto por programas institucionales y especiales con su clasificación económica, funcional, de género y las unidades programáticas presupuestarias responsables de su ejecución;
 
 XIII. Presentar el calendario comparativo mensual de ingresos y gastos estimados para el ejercicio fiscal, por fuente de financiamiento, como lo establece el Acuerdo emitido por el CONAC, para tal efecto;
 
@@ -679,15 +691,11 @@ XV. Las previsiones de egresos se clasificarán separadamente por unidad program
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 31 Bis.
 
 Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2.5 por ciento de los Ingresos totales del Municipio de que se trate.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -1568,3 +1576,9 @@ P.O. 20 DE AGOSTO DE 2018.
 PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, a los 112 Ayuntamientos del Estado y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y efectos conducentes.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 637 POR EL QUE “SE REFORMA EL ARTÍCULO 1º, LAS FRACCIONES XLIV Y XLV DEL ARTÍCULO 2º, LOS ARTÍCULOS 11, 13, 16, 23, 28, LA FRACCIÓN XII DEL ARTÍCULO 30; Y SE ADICIONA LA FRACCIÓN XLVI AL ARTÍCULO 2° DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
