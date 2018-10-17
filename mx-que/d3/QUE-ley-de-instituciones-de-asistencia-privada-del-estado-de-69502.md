@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-instituciones-de-asistencia-privada-del-estado-de-69502"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2009-07-24"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERETARO
 
-LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERETARO
+LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -41,13 +41,15 @@ LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Único. Naturaleza y objeto
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 1.
 
-Las instituciones de asistencia privada son entidades con personalidad jurídica propia, constituidas de acuerdo con esta Ley, por voluntad de particulares o conforme a ésta, con fines humanitarios de auxilio, ayuda o asistencia a los necesitados, sin propósitos de lucro y sin designación individual de los beneficiarios.
+Las instituciones de asistencia privada son personas morales constituidas por voluntad de los particulares y de acuerdo con esta Ley, que con bienes de propiedad privada, ejecutan actos de asistencia social, sin propósito de lucro u objeto de especulación y sin designar individualmente a los beneficiarios.
 
-Podrán acogerse a las disposiciones de esta Ley las instituciones cuyo objeto sea ejecutar actos que tiendan a la asistencia social en el Estado de Querétaro.
+Las personas morales constituidas de conformidad con otras leyes y cuyo objeto sea la realización de actividades de asistencia social, podrán transformarse en instituciones de asistencia privada, para lo cual deberán acogerse a las disposiciones de esta Ley.
 
-Se entiende por asistencia privada, la asistencia social con fines humanitarios de auxilio, ayuda y asistencia a las personas necesitadas, realizada en forma permanente por instituciones creadas para tal efecto.
+Se entiende por asistencia privada, las acciones de asistencia social, que con bienes de propiedad privada y demás recursos realiza una institución, con fines humanitarios de auxilio, ayuda y asistencia a las personas necesitadas, realizadas en forma permanente.
 
 ###### Artículo 2.
 
@@ -55,11 +57,25 @@ Las instituciones reguladas por esta Ley, pueden ser fundaciones o asociaciones.
 
 Son fundaciones las que se constituyen en vida o por testamento, mediante la aportación o afectación de bienes de propiedad particular, destinados a la realización de sus fines. También pueden crearse mediante ley o decreto cuando el estado o el municipio tengan a su cargo bienes de propiedad particular o que se hayan derivado de ellos, destinados o afectados para esos fines.
 
-Son asociaciones asistenciales las que se constituyen en vida y a las que sus miembros o terceros entregan cuotas para el sostenimiento y la realización de los fines de la institución, haya o no aportación o afectación de bienes en su favor.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-La denominación de la institución irá seguida de las palabras "Institución de Asistencia Privada” o su abreviatura "I.A.P".
+Son asociaciones asistenciales las que se constituyen en vida y a las que sus miembros o terceros aportan cuotas periódicas o recaudan donativos para el sostenimiento y fines de la institución, sin perjuicio de que pueda pactarse que los miembros contribuyan además con servicios personales de carácter civil.
 
-Son fundadores de las instituciones, las personas que disponen de todos o parte de sus bienes para crear una fundación y los que otorguen la escritura constitutiva de una asociación.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Tanto fundaciones como asociaciones podrán recibir servicios personales voluntarios de carácter civil con fines altruistas y solidarios, y realizar toda clase de actos que no estén prohibidos por la ley para la obtención de recursos destinados al cumplimiento de su objeto y para la realización de las demás acciones para las que fueron constituidas.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+La denominación de cada Institución de Asistencia Privada se formará libremente, pero será distinto del nombre o denominación de cualquiera otra Institución de Asistencia Privada u organización que realice actividades de asistencia social, y al emplearlo irá siempre seguido de las palabras Institución de Asistencia Privada, o su abreviatura “I. A. P.”
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+El patrimonio de las Instituciones de Asistencia Privada podrá constituirse con los bienes y derechos que aporten al constituirse y los que adquieran posteriormente.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Son fundadores de las instituciones, las personas que disponen de todo o parte de sus bienes para crear una fundación y aquellas personas que concurran a la constitución de una asociación y aparezcan en la escritura.
 
 ###### Artículo 3.
 
@@ -85,9 +101,11 @@ Las aportaciones o afectaciones de bienes que se hubieren hecho a las institucio
 
 El Estado no podrá, en ningún caso ni bajo ningún pretexto, disponer de los bienes que hayan sido aportados o afectados en favor de las instituciones, ni celebrar, respecto de ellos, acto o contrato alguno. La contravención de este precepto dará derecho a quienes los hubieren aportado o efectuado, para solicitar de la Junta de Asistencia Privada o las autoridades competentes, que se decrete la revocación correspondiente a fin de disponer nuevamente de aquéllos. Los que aporten o afecten bienes a las instituciones, podrán establecer en su testamento la condición de que pasarán los bienes a sus herederos si el Estado infringe este precepto. No se considera que se ocupen los bienes de las instituciones, cuando la Junta de Asistencia Privada designe a la persona o personas que deberán constituir una nueva fundación, en uso de las facultades que le confiere la ley.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 7.
 
-A falta de disposiciones de esta Ley, serán aplicables a las instituciones regidas por ella, las del derecho común.
+A falta de disposiciones de esta Ley, serán aplicables a las instituciones regidas por esta, las de la Ley de Procedimientos Administrativos del Estado de Querétaro y las del derecho común.
 
 ###### Artículo 8.
 
@@ -105,9 +123,13 @@ I. El nombre, domicilio y demás datos personales de identificación del fundado
 
 II. El nombre, objeto y domicilio de la institución. Para los efectos del nombre, el solicitante deberá hacer una propuesta de tres posibles denominaciones, señalando en primer lugar el que deseen adoptar;
 
-III. La clase de actos de asistencia que realizará;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-IV. La clase de operaciones que se propone realizar para sostenerse, operar o realizar sus fines;
+III. La clase de actos y servicios de asistencia que otorgará, acompañando un programa de trabajo y proyecto anual de presupuesto;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+IV. La clase de operaciones que propone realizar para sostenerse, operar o realizar sus fines, acreditándose fehacientemente su capacidad técnica, material y operativa para el cumplimiento de su objeto;
 
 V. El patrimonio, inventariando los bienes que lo constituyan y, en su caso, la forma y términos en que se aporten o afecten;
 
@@ -115,21 +137,59 @@ VI. Los establecimientos que operará y administrará;
 
 VII. Los requisitos que habrán de solicitarse a los beneficiarios;
 
-VIII. Las bases generales para la modificación de sus estatutos;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-IX. La organización del Patronato del Consejo Directivo, su funcionamiento y facultades, así como las características personales que deberán reunir sus miembros; y
+VIII. El proyecto de estatutos y las bases generales para su modificación;
 
-X. La designación de las personas que vayan a fungir como patronos o consejeros, las reglas para su designación y la manera de sustituirlos, así como sus facultades.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+IX. La organización del Patronato del Consejo Directivo, su funcionamiento y facultades, así como las características personales que deben reunir sus miembros;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+X. La designación de las personas que vayan a fungir como patronos o consejeros, las reglas para su designación y la manera de sustituirlos, así como sus facultades;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XI. El proyecto de presupuesto para el primer año de operación; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XII. Copia certificada de la identificación oficial de las personas que vayan a fungir como patronos o consejeros.
 
 En caso de que faltare alguno de los requisitos aquí señalados, la Junta requerirá al solicitante a efecto de que los proporcione.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-Recibida por la Junta la solicitud, así como los datos complementarios que se pida a los interesados, dictará resolución en la que se declare o no procedente la constitución de la institución, a fin de que, dentro de los treinta días naturales siguientes a la fecha de su recibo, presenten ante la Junta el proyecto de asamblea constitutiva y estatutos. Este documento deberá contener datos de la solicitud de la constitución y de la resolución de la Junta.
+Recibida por la Junta la solicitud, así como los datos complementarios que se pida a los interesados, se dictará la resolución en la que se determine si resulta procedente autorizar la constitución de la institución.
+
+En la resolución, se evaluarán las constancias aportadas por los interesados, los estatutos, así como el programa de trabajo y presupuesto anual presentado.
+
+Dentro de los treinta días naturales siguientes a la fecha de notificación de la resolución que autoriza la constitución de la institución y estatutos, se deberán presentar ante la Junta, la documentación en copia certificada que acredite la formalización de la constitución de la institución ante notario.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 11.
 
-Recibido por la Junta el proyecto definitivo de escritura constitutiva que incluya los estatutos de la institución que pretende crearse, debidamente firmados por los interesados, en caso de encontrarlos conformes a la ley, expedirá a éstos copia autorizada de ellos, para que procedan a protocolizarlos ante el Notario Público de su elección, ante quien se otorgará también la aportación o afectación de bienes de quienes corresponda. Hecha la protocolización respectiva, se procederá a su inscripción en el Registro Público de la Propiedad y del Comercio correspondiente.
+Los estatutos que hayan sido presentados en la solicitud de constitución, deberán protocolizarse ante notario y posteriormente se deberán inscribir en el Registro Público de la Propiedad y del Comercio.
+
+Una vez inscrita la constitución de la institución en el Registro Público de la Propiedad y del Comercio, en un plazo de 15 días hábiles deberán inscribirse en el registro de las instituciones de asistencia privada que está a cargo de la Junta, mismo que deberá actualizarse de manera anual cada mes de marzo.
+
+Los estatutos de las Instituciones de Asistencia Privada deberán contener al menos los requisitos siguientes:
+
+I. El nombre o denominación que se le pretenda dar a la institución y la clase de institución de asistencia privada que se constituye, agregándole “Asociación de Asistencia Privada” o “Fundación de Asistencia Privada” o de las siglas AAP o FAP según sea el caso.
+
+II. Los bienes que formarán su patrimonio, la forma en que serán aportados, así como los sistemas que se utilizarán para recaudar fondos en favor de la institución;
+
+III. Las actividades que habrá de realizar para proveer su autosuficiencia económica;
+
+IV. Los requisitos que deberán cubrir las personas que disfruten de los beneficios de la institución;
+
+V. La designación de las personas que integran el Patronato o Consejo de la institución, así como las condiciones que rijan su subsistencia; y
+
+VI. Las bases generales de su organización y administración.
 
 ###### Artículo 12.
 
@@ -251,9 +311,19 @@ Se tendrá por no hecha la revocación o reducción de los donativos efectuados 
 
 La persona que quiera hacer un donativo oneroso, condicional o remuneratorio a una institución, lo manifestará por escrito a su Patronato o Consejo Directivo, quien lo hará del conocimiento de la Junta para los fines de su autorización; concedida ésta, en su caso, la institución la hará del conocimiento del donante, por escrito, para que quede perfeccionada la donación, sin perjuicio de que se cumplan las formalidades establecidas en la legislación común.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 35.
 
-Además de los donativos a que se refiere este Capítulo, las instituciones podrán contar con el auxilio de colaboradores voluntarios que con altruismo destinen parte de su tiempo y esfuerzos a realizar actividades personales, sin remuneración, que permitan el cumplimiento de los fines de la institución. Ellos podrán recibir una ayuda económica para su traslado y alimentación, sin que todo esto constituya o derive una relación laboral.
+Además de los donativos a que se refiere este capítulo, las instituciones podrán contar, a manera de aportaciones en servicios, con el auxilio de colaboradores voluntarios que, con el ánimo exclusivo de ayudar en las labores de asistencia, destinen parte de su tiempo a realizar actividades sin remuneración, que permitan el cumplimiento de los objetivos de la institución y sin que constituya una relación laboral.
+
+Las instituciones podrán recibir en donación alimentos en buenas condiciones de calidad e higiene y distribuirlos, con la finalidad de contribuir a satisfacer las carencias de sus beneficiarios.
+
+Las instituciones que reciban donativos en términos del párrafo anterior, deberán sujetarse a las disposiciones sanitarias y demás disposiciones jurídicas que resulten aplicables.
+
+Las instituciones que reciban donativos de alimentos, no podrán lucrar o comercializar los alimentos y deberán distribuirse exclusivamente para el cumplimiento de sus fines y para sus beneficiarios.
+
+Los alimentos objeto de donación, deberán proporcionarse en condiciones de calidad, higiene y previo a la fecha de su caducidad, para ser apto su consumo, en términos de la normatividad aplicable.
 
 ## Título Cuarto. De la representación y administración de las instituciones
 
@@ -295,13 +365,25 @@ II. Las personas que desempeñen cargo de elección popular, los titulares de la
 
 III. Las personas morales;
 
-IV. Quienes hayan sido removidos de otro Patronato o Consejo Directivo, en virtud de haber realizado una administración deficiente; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-V. Las personas que por sentencia, hayan sido suspendidas o privadas de sus derechos civiles o condenados a cumplir una pena por la comisión de algún delito intencional.
+IV. Quienes hayan sido removidos de otro Patronato o Consejo Directivo, en virtud de haber realizado una administración deficiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+V. Quienes hayan abandonado el cargo en el Patronato de otra institución, sin previo aviso; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VI. Las personas que por sentencia, hayan sido suspendidas o privadas de sus derechos civiles o condenados a cumplir una pena por la comisión de un delito intencional.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-En caso de controversia sobre el ejercicio del Patronato o que por cualquier causa deje de operar normalmente, en tanto se resuelve la controversia o se reanuda su normal funcionamiento, se estará a lo dispuesto en los estatutos de la institución; en su falta, la Junta designará a quien deba ejercer el cargo provisionalmente, o bien, asumirá la representación legal y la administración de la institución. En este caso, los que se designen o la propia Junta, procederán a dictar de inmediato las medidas que se requieran para que no se afecte a la institución ni a sus beneficiarios y las que sean necesarias para la pronta reinstalación de su Patronato o de las condiciones para su operación normal.
+En caso de controversia sobre el ejercicio del Patronato o que por cualquier causa deje de operar normalmente, en tanto se resuelve la controversia o se reanuda su normal funcionamiento, se estará a lo dispuesto en los estatutos de la institución y en su caso, la Junta designará a quien deba ejercer el cargo provisionalmente.
+
+En este caso, las personas que se designen procederán a realizar las medidas indispensables para que no se afecte gravemente a la institución y a sus beneficiarios.
 
 ### Capítulo Segundo. De las obligaciones del Patronato o Consejo Directivo
 
@@ -319,7 +401,9 @@ IV. Promover y gestionar la obtención de aportaciones y donativos en favor de l
 
 V. Administrar los bienes de la institución, de acuerdo con lo que establece esta Ley y con lo que dispongan los estatutos de la institución;
 
-VI. Remitir a la Junta copia de la escritura constitutiva de la institución y de sus modificaciones, así como de todos aquellos documentos en donde consten aportaciones o afectaciones de bienes a favor de aquella o actos relacionados con ellos y los demás que la Junta le requiera, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VI. Remitir copia certificada de la escritura constitutiva de la institución y de sus modificaciones, así como de todos aquellos documentos en donde consten aportaciones o afectaciones de bienes a favor de aquella o actos relacionados con ellos y los demás que la Junta requiera, en los términos de esta Ley;
 
 VII. Rendir oportunamente a la Junta los informes a que se refiere esta Ley;
 
@@ -329,19 +413,93 @@ IX. No gravar ni enajenar los bienes que pertenezcan a la institución ni compro
 
 X. No comprar o arrendar en almoneda o fuera de ella, los bienes de la institución que administren, ni hacer contrato alguno, para sí, para su cónyuge, hijos o parientes por afinidad y consanguinidad dentro del cuarto grado;
 
-XI. Cumplir las instrucciones y disposiciones de la Junta, en los términos de esta Ley; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XII. Las demás que esta Ley o los estatutos les impongan.
+XI. Cumplir las recomendaciones y atender las observaciones de la Junta;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XII. Entregar un informe anual de actividades a la Junta, en el mes de marzo de cada año;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIII. Destinar los bienes y recursos de la institución, únicamente para los fines para los que fue constituida;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIV. Inscribir a la institución en el Registro de instituciones de asistencia privada de la Junta;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XV. Mantener actualizado el registro de la institución ante la Junta;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVI. Supervisar y verificar que el personal de la institución, cuente con los conocimientos y capacitación requerida para brindar los servicios que presta la institución;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVII. Vigilar que las instalaciones o establecimientos de la institución, cumplan con los requisitos y condiciones previstas por las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVIII. Integrar un expediente de los beneficiarios de la institución, respetando las disposiciones en materia de protección de datos personales y demás aplicables;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIX. Protocolizar ante notario todos los actos que deban tener esa formalidad;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XX. Denunciar ante la autoridad competente, los delitos que se comentan (sic) en la institución o de los que se tenga conocimiento en el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXI. Establecer los reglamentos y demás normatividad de la institución, para asegurar el debido cumplimiento de sus fines;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXII. Proporcionar la información que le sea requerida por las autoridades, para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXIII. Presentar un informe semestral de las donaciones recibidas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXIV. Las demás que establezcan otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+El Registro de las Instituciones de Asistencia Privada, estará integrado por el acta constitutiva, acta de modificación de estatutos, programa anual de actividades y demás informes y autorizaciones que se deban entregar a la Junta
 
 ###### Artículo 44.
 
 El Patronato o Consejo Directivo podrá exigir a sus miembros y a los empleados de la institución que manejan los recursos económicos de la misma, otorguen fianza por compañía autorizada para ello, a fin de garantizar el adecuado desempeño de su función.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 44 Bis.
+
+Los Patronatos o Consejos Directivos tendrán las facultades y obligaciones que establece esta Ley y los estatutos de la institución que representan y serán responsables por los actos y omisiones que cometan en el ejercicio de sus funciones.
+
+En el supuesto que un miembro del Patronato o Consejo Directivo, decida dejar su cargo, deberá previamente manifestar bajo protesta de decir verdad y acreditar que la Institución de Asistencia Privada, se encuentra al corriente de las obligaciones legales.
+
 ### Capítulo Tercero. De los informes de ingresos y egresos
 
 ###### Artículo 45.
 
-Las instituciones deberán entregar a la Junta, cada seis meses, un informe en el que se establezcan sus ingresos, egresos, inversiones realizadas y cualquier otra situación relativa a su patrimonio. La Junta deberá asesorar a las instituciones que lo soliciten, a efecto de que rindan el informe referido.
+Las instituciones deberán entregar a la Junta, cada seis meses, un informe en el que se establezcan sus ingresos, egresos, inversiones realizadas y cualquier otra situación relativa a su patrimonio.
+
+La Junta deberá asesorar a las instituciones que lo soliciten, a efecto de que rindan el informe referido.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Las Instituciones deberán remitir sus estados financieros debidamente firmados y rubricados por el representante legal, así como por el responsable de la información financiera.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Al enviarse la información a que se refiere el párrafo anterior, se remitirá el programa de trabajo correspondiente al mismo período.
 
 ###### Artículo 46.
 
@@ -357,9 +515,11 @@ De conformidad con lo dispuesto en la Constitución Política de los Estados Uni
 
 Las instituciones no harán préstamos de dinero con garantía de simples firmas ni operaciones con acciones o valores sujetos a fluctuaciones del mercado. Cuando presten con garantía hipotecaria, la Junta determinará las bases de la operación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 49.
 
-Las instituciones y cualquier persona que pretenda realizar fines asistenciales en favor de otros, podrán solicitar donativos y organizar colectas, rifas, tómbolas o loterías y, en general, toda clase de festivales o eventos culturales, artísticos o de diversiones, previa autorización de la Junta y de las autoridades competentes, a condición de que destinen íntegramente los productos que obtengan por esos medios a la ejecución de actos propios de sus fines. La infracción a esta disposición se sancionará de conformidad con las leyes aplicables.
+Las instituciones y cualquier persona que pretenda realizar fines asistenciales en favor de otros, podrán solicitar donativos y, con arreglo a las disposiciones legales aplicables, organizar colectas, rifas, tómbolas o loterías, festivales o eventos culturales, artísticos o de diversiones, y en general toda clase de actividades similares lícitas, previa autorización de la Junta y de las autoridades competentes, a condición de que destinen íntegramente los productos netos que obtengan por esos medios a la consecución y cumplimiento de su objeto estatutario. Las instituciones no podrán otorgar comisiones o porcentajes sobre las cantidades recaudadas. La infracción a esta disposición se sancionará de conformidad con las leyes aplicables.
 
 La Junta apoyará a las instituciones en los trámites necesarios a efecto de que obtengan los permisos y exenciones de impuestos que requieran.
 
@@ -377,13 +537,41 @@ La Junta se integra por:
 
 I. Un presidente, que será designado por el titular del Poder Ejecutivo del Estado, de entre la terna que al efecto le propongan las instituciones; eligiendo, asimismo a un suplente; y
 
-II. Siete vocales, que deberán desempeñar sus funciones personalmente, siendo su cargo indelegable. Por cada vocal titular habrá un suplente.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+II. Nueve vocales, los cuales podrán designar un suplente para que asista a las sesiones de la Junta.
 
 Las instituciones designarán cuatro vocales, quienes podrán o no ser patronos de éstas.
 
-La designación de estos vocales y sus respectivos suplentes, se hará en una convención que al efecto se realice, para lo cual la Junta emitirá la convocatoria correspondiente, con quince días de anticipación a la fecha de la celebración, misma que deberá publicarse en dos de los periódicos de mayor circulación en el Estado.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-Respecto de los tres vocales restantes, el Sistema Estatal para el Desarrollo Integral de la Familia, la Secretaría de Planeación y Finanzas y la Secretaría de Salud, nombrarán uno cada uno.
+La designación de los vocales que representen a las instituciones se realizará en una convención.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+El Presidente de la Junta emitirá la convocatoria de la convención, con quince días de anticipación a la fecha de celebración, misma que deberá publicarse en dos de los periódicos de mayor circulación en el Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Los vocales que representen a las instituciones, serán elegidos mediante votación de las instituciones legalmente representadas y registradas ante la Junta, que comparezcan a la convención.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Se levantará acta debidamente circunstanciada de la convención y lista de asistencia de las instituciones registradas ante la Junta que comparezcan a la convención.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Los cinco vocales restantes, se integran de la manera siguiente:
+
+a) Un representante del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+b) Un representante de la Secretaría de Planeación y Finanzas;
+
+c) Un representante de la Secretaría de Salud;
+
+d) Un representante de la Secretaría de Desarrollo Social; y
+
+e) El titular de la Secretaría Ejecutiva del Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro.
 
 ###### Artículo 52.
 
@@ -393,23 +581,41 @@ El presidente de la Junta y los vocales durarán en su encargo tres años, pudie
 
 La Junta celebrará el número de sesiones que resulten necesarias para el cumplimiento oportuno y eficiente de sus facultades y obligaciones debiendo celebrarse por lo menos una sesión trimestral. Las sesiones serán convocadas por su Presidente y a ellas asistirá con carácter informativo, en su caso, el delegado ejecutivo.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 54.
 
-Podrá haber sesión de la Junta cuando concurran por lo menos cuatro vocales y sus determinaciones se tomarán por mayoría de votos de los miembros presentes, teniendo el presidente voto de calidad en los casos de empate. Si un miembro de la Junta fuera patrono, consejero o empleado de una institución, deberá abstenerse de opinar y votar en cualquier asunto relacionado con ella.
+Para que exista quórum legal para sesionar en la Junta, se requiere de la asistencia de cuando menos 6 vocales.
+
+Las determinaciones y acuerdos durante la sesión, se tomarán por mayoría de los integrantes presentes de la Junta.
+
+Los vocales y Presidente de la Junta tendrán derecho a voz y voto en las sesiones.
+
+El Presidente tiene voto de calidad en los casos de empate.
+
+Si un miembro de la Junta fuera patrono, consejero o empleado de una institución de asistencia privada, deberá de abstenerse de opinar y votar en cualquier asunto relacionado con ella.
+
+Obligatoriamente deberá levantarse un acta circunstanciada de las sesiones de la Junta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 55.
 
-La Junta tendrá las siguientes funciones:
+La Junta tiene las atribuciones siguientes:
 
 I. Elaborar las normas internas para su operación;
 
 II. Autorizar la creación y extinción de las instituciones, en los casos previstos por esta Ley;
 
-III. Revisar los estatutos de las instituciones y sus modificaciones, y en caso de no haber sido formulados por éstas, elaborarlos en los supuestos que refiere esta Ley;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+III. Autorizar los estatutos de las instituciones, así como sus modificaciones;
 
 IV. Promover ante las autoridades competentes el otorgamiento de estímulos y beneficios fiscales en favor de las instituciones o de quienes les hagan aportaciones, donativos o similares;
 
-V. Aprobar el informe de actividades de las instituciones, que deban ser presentadas ante ella;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+V. Recibir y revisar el informe de actividades de las instituciones;
 
 VI. Formular su proyecto de presupuesto, así como sus programas, considerando honorarios que, en su caso, devenguen el Presidente y los Vocales, cuando los mismos no ejerzan el servicio público;
 
@@ -417,23 +623,89 @@ VII. Elaborar anualmente un informe general de los trabajos realizados durante e
 
 VIII. Opinar sobre la interpretación de esta Ley y demás relativas, respecto a su aplicación, resolviendo las consultas que las autoridades o las instituciones le planteen;
 
-IX. Ayudar a los Patronatos y Consejos Directivos a la buena administración de los bienes de las instituciones, haciéndoles al efecto las sugerencias conducentes, para que, de acuerdo con sus objetivos y estatutos, presten de manera eficaz los servicios inherentes a sus fines;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-X. Cuidar que los Patronatos y Consejos Directivos cumplan con las disposiciones de esta Ley y los estatutos que los rigen;
+IX. Emitir recomendaciones a las instituciones para el debido cumplimiento de sus obligaciones y de los fines previstos en sus estatutos;
 
-XI. Cuidar que las instituciones cumplan con los fines para los cuales se constituyeron; para tal efecto, llevará a cabo, por los conductos que estime pertinentes, la práctica de visitas en el domicilio de las instituciones y en los establecimientos que administren o de ellas dependan;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XII. Proponer al titular del Poder Ejecutivo del Estado, la celebración de acuerdos de coordinación con los gobiernos de otras entidades federativas que favorezcan la creación y el desarrollo de las instituciones;
+X. Vigilar que los Patronatos y Consejos Directivos cumplan con las disposiciones de esta Ley y los estatutos que los rigen;
 
-XIII. Prestar a las instituciones y a sus Patronatos o Consejos Directivos, la asesoría administrativa, legal, contable y de cualquier otra índole que propicie su mejor operación, la realización de sus fines y el cumplimiento de sus obligaciones;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XIV. Otorgar a las instituciones las autorizaciones que procedan, de acuerdo con lo previsto en esta Ley;
+XI. Verificar que las instituciones cumplan con los fines para los cuales se constituyeron;
 
-XV. Promover y gestionar la obtención de aportaciones y donativos en favor de las instituciones de asistencia privada;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XVI. Remover a los Patronos o Consejeros Directivos de las instituciones, siempre que la institución no haga la remoción; y
+XII. Requerir a las instituciones la información y documentación necesaria para verificar el debido cumplimiento de esta Ley y los estatutos de las instituciones;
 
-XVII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIII. Practicar visitas en el domicilio y establecimientos de las instituciones con el objeto de revisar el cumplimiento de las obligaciones previstas en esta Ley y en sus estatutos;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIV. Proponer al titular del Poder Ejecutivo del Estado, la celebración de convenios y demás instrumentos jurídicos de coordinación, que favorezcan la creación y desarrollo de las instituciones;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XV. Asesorar a las instituciones en el cumplimiento de sus obligaciones y fines previstos en sus estatutos;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVI. Otorgar las autorizaciones que procedan a favor de las instituciones, en los términos previstos por esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVII. Fomentar la obtención de aportaciones y donativos a favor de las instituciones de asistencia privada;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVIII. Establecer y actualizar un registro de las instituciones de asistencia privada;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIX. Elaborar y publicar anualmente el directorio de instituciones de asistencia privada debidamente registradas;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XX. Expedir el certificado anual de registro a favor de las instituciones de asistencia privada;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXI. Dejar sin efectos la inscripción en el registro de las instituciones de asistencia privada;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXII. Emitir observaciones a las instituciones, en las cuales se advierta el incumplimiento de las obligaciones a cargo de los Patronos o Consejos Directivos;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXIII. Aprobar los manuales de procedimientos;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXIV. Investigar las quejas que se presenten en contra de las instituciones, de sus representantes, administradores, directores o empleados, relacionadas con los fines de las instituciones;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXV. Tramitar las quejas que se presenten en contra de las personas que se ostenten como fundaciones e instituciones;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXVI. Establecer las disposiciones necesarias para la certificación de las instituciones;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXVII. Imponer a las instituciones las sanciones administrativas que correspondan, por el incumplimiento a las disposiciones de esta Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXVIII. Organizar actividades de capacitación para las instituciones; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXIX. Las demás que establezcan otras disposiciones aplicables.
 
 ###### Artículo 56.
 
@@ -479,9 +751,49 @@ VI. Certificar, conjuntamente con el secretario de actas, las constancias que se
 
 VII. Desempeñar las comisiones y realizar los actos que le encomiende la Junta y cuidar de la debida ejecución de sus acuerdos;
 
-VIII. Ordenar y dirigir las inspecciones a las instituciones, así como a las investigaciones que deban realizarse, respecto de los servicios asistenciales; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-IX. Todas las demás que le deriven de esta Ley y demás disposiciones aplicables.
+VIII. Ordenar las visitas domiciliarias, verificaciones e inspecciones sobre las instituciones de asistencia privada, con el objeto de verificar el cumplimiento de esta Ley y sus estatutos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+IX. Designar al personal que deberá realizar las visitas domiciliarias, verificaciones, inspecciones, y notificaciones que sean competencia de la Junta;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+X. Emitir los requerimientos de información y documentación necesaria para verificar el debido cumplimiento de esta Ley y los estatutos de las instituciones;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XI. Gestionar la publicación del directorio de instituciones de asistencia privada registradas ante la Junta;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XII. Atender y responder las peticiones formuladas por las instituciones;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIII. Ejecutar y dar seguimiento a los acuerdos tomados por la Junta;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XIV. Ordenar la realización de investigaciones, acerca de la calidad de la asistencia social que presten las Instituciones;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XV. Substanciar los procedimientos administrativos que sean de la competencia de la Junta;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVI. Elaborar los proyectos de manuales de procedimientos de la Junta;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVII. Dar atención y seguimiento a las quejas y denuncias de los beneficiarios o sujetos de asistencia, en contra de las instituciones y en su caso, informar a las autoridades competentes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XVIII. Las demás que dispongan otras disposiciones aplicables.
 
 ###### Artículo 58.
 
@@ -491,15 +803,23 @@ I. Desempeñar las comisiones y realizar los actos que le encomiende el Presiden
 
 II. Asumir el carácter de secretario de actas en las sesiones de la Junta;
 
-III. Ordenar y dirigir la inspección y vigilancia de las instituciones, así como las investigaciones que se relacionen con los servicios asistenciales;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-IV. Asesorar a las instituciones en la realización de su contabilidad; y
+III. Asesorar a las instituciones en el cumplimiento de sus obligaciones;
 
-V. Las demás que le deriven de esta Ley.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+IV. Sistematizar los archivos, expedientes y demás documentos de la Junta; y
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+V. Las demás que establezcan otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 59.
 
-La Junta o su Presidente podrán ordenar visitas a las instituciones, que tiendan a conocer o, en su caso, comprobar:
+La Junta o su Presidente podrán ordenar visitas a las instituciones, que tengan por objeto comprobar:
 
 I. Si los fines de la institución están siendo realizados;
 
@@ -515,9 +835,37 @@ VI. La situación real en que se encuentren las instituciones, así como sus nec
 
 De los informes respectivos, el presidente dará cuenta a la Junta la que acordará las medidas que procedan conforme a esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 60.
 
-Cuando los patronos, consejeros, funcionarios o empleados de una institución se resistan a que se practiquen las visitas de que trata esta Ley o no proporcionen los datos que ella exige, se levantará un acta ante dos testigos, haciendo constar los hechos que serán puestos en conocimiento de la Junta por el Presidente o el Delegado Ejecutivo, a fin de que se dicte la resolución que corresponda.
+De toda visita en el domicilio se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se conozcan durante la visita.
+
+Cuando en el desarrollo de una visita se conozcan hechos u omisiones que puedan entrañar incumplimiento a las disposiciones de esta Ley o de los estatutos de la institución revisada, se asentará de forma circunstanciada en el acta que se levante con motivo de la visita, adicionando las manifestaciones de la persona con la que se haya entendido la diligencia.
+
+El oficio de orden de visita deberá contener los nombres de los visitadores o personal designado.
+
+El personal de la Junta que practique la visita deberá identificarse ante la persona que atienda la diligencia, circunstancia que deberá asentarse en el acta que se levante.
+
+El acta deberá ser firmada por duplicado y una se entregará a la persona con la que se entendió la diligencia.
+
+Si la persona con la que se entendió la diligencia, se niega a firmarla o a recibirla, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez de la misma.
+
+Una vez finalizada la visita en el domicilio, la institución gozará de un plazo de cinco días hábiles, contados a partir del día siguiente a la fecha en que se llevó a cabo la visita, para realizar por escrito las manifestaciones que a su interés legal convenga.
+
+En el supuesto de que la Institución visitada no cumpla las observaciones y requerimientos dentro del plazo que se le conceda en el oficio respectivo o que lo haga en forma incompleta, la Junta podrá emitir un nuevo requerimiento.
+
+De persistir el incumplimiento se informará al Presidente para que dé cuenta a la Junta a fin de que acuerde las sanciones que procedan conforme a la Ley.
+
+Cuando los patronos, consejeros, funcionarios o empleados de una institución se resistan a que se practiquen visitas de que se trata esta Ley o no proporcionen los datos que ella exige, el Presidente de la Junta podrá aplicar las medidas de apremio previstas en la Ley de Procedimientos Administrativos del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 60 Bis.
+
+En el supuesto de que se conozcan hechos u omisiones que constituyan incumplimientos a las disposiciones de esta Ley o a los estatutos de la institución, la Junta emitirá la resolución en la que se establezcan las observaciones, recomendaciones y sanciones que correspondan, dentro de los 30 días contados a partir de la conclusión de la visita.
+
+La institución visitada deberá cumplir con las recomendaciones y observaciones de la Junta en un plazo máximo de treinta días hábiles.
 
 ###### Artículo 61.
 
@@ -555,9 +903,11 @@ Las instituciones pueden extinguirse en los términos de esta Ley, por declarato
 
 Las determinaciones que dicte la Junta en el ejercicio de las facultades que este precepto le concede, podrán recurrirse ante ella, dentro de los siguientes treinta días naturales, contados a partir de la fecha en que se dicten. La propia Junta deberá citar al Patronato o Consejo Directivo de la institución, a fin de escuchar sus defensas, fijándole un plazo para que exhiba las pruebas que estime pertinentes.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 68.
 
-Cuando la Junta reciba del Patronato o Consejo Directivo de una institución la solicitud de extinción, recabará los datos e informes necesarios para resolver si ha lugar o no a su extinción.
+Cuando la Junta reciba del Patronato o Consejo Directivo de una institución la solicitud de extinción, de conformidad con sus procedimientos estatutarios y con arreglo a las disposiciones y supuestos de la Ley, deberá manifestar y acreditar que se encuentran al corriente en el cumplimiento de sus obligaciones legales y fiscales a efecto de que la Junta inicie el análisis correspondiente.
 
 ###### Artículo 69.
 
@@ -639,11 +989,27 @@ III. Ser condenado, mediante sentencia ejecutoriada, por la comisión de cualqui
 
 IV. El uso, distracción o inversión de fondos de la institución para fines propios;
 
-V. Consentir o autorizar actos de la institución ajenos a sus fines; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-VI. Aceptar o exigir de los beneficiarios de la institución, regalos o retribuciones en efectivo o en especie.
+V. Consentir o autorizar actos de la institución ajenos a sus fines;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VI. Resistirse a la práctica de una visita ordenada conforme a lo previsto en esta Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VII. Realizar operaciones con los bienes y recursos de las instituciones, que impliquen ganancia o lucro para los miembros del patronato, su cónyuge o parientes por consanguineidad, afinidad o civil dentro del cuarto grado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VIII. Aceptar o exigir de los beneficiarios de la institución, regalos o retribuciones en efectivo o en especie.
 
 Las responsabilidades en que incurran, se sancionarán de conformidad con las leyes que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Cuando los patronos, consejeros, funcionarios o empleados de una institución se resistan a que se practiquen visitas de que se trata esta Ley o no proporcionen los datos que ella exige, el Presidente de la Junta podrá aplicar las medidas de apremio previstas en la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
 ### Capítulo Tercero. De la responsabilidad de los miembros y empleados de la Junta
 
@@ -672,6 +1038,18 @@ Los delegados, visitadores o auditores que rindan informes a la Junta que conten
 ###### Artículo 79.
 
 Los notarios y jueces que no cumplan con las disposiciones que respecto de ellos se establecen en esta Ley, serán suspendidos en el desempeño de su cargo hasta por quince días, en cada ocasión que ello suceda, independientemente de que la Junta pida a las autoridades competentes su destitución definitiva en caso de falta grave o de notoria reincidencia en el cumplimiento eficaz de las obligaciones que a su cargo esta Ley les impone.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Los notarios deberán informar a la Junta sobre la totalidad de actos de constitución de instituciones, modificación de estatutos y actos (sic) transmisión de la propiedad de bienes que integren el patrimonio de las instituciones, de los cuales tenga conocimiento en el ejercicio de su función notarial.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+El plazo para dar cumplimiento a la obligación prevista en el párrafo anterior, será de 15 días hábiles, contados a partir de que tenga conocimiento de los actos.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Los notarios deberán abstenerse de formalizar la constitución de instituciones, modificación de sus estatutos y cualquier acto de transmisión de la propiedad de los bienes de las instituciones, si no tienen acreditada la autorización de la Junta.
 
 ## TRANSITORIOS
 
@@ -718,3 +1096,17 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Tercero. La totalidad de las instituciones que se encuentren constituidas y que estén operando regularmente en el Estado, deberán inscribirse en un plazo de seis meses, contado a partir del inicio de vigencia de la presente Ley, en el registro de las instituciones de asistencia privada que está a cargo de la Junta de Asistencia Privada.
+
+Aquellas instituciones de asistencia privada que omitan presentar la información correspondiente al registro, se presumirá que operan irregularmente.
