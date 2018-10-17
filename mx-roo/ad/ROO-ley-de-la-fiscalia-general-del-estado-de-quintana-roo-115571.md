@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-fiscalia-general-del-estado-de-quintana-roo-115571"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-05"
-last_updated: "2018-06-21"
+last_updated: "2018-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 5 de julio de 2016.
 
@@ -291,7 +291,17 @@ XXXII. Certificar copias sobre las constancias de actuaciones o registros que ob
 
 XXXIII. Capacitar, a través del Instituto de Formación Profesional, Capacitación e Investigación Jurídica, al personal de la Fiscalía General del Estado para la debida atención y defensa de los derechos de las personas en condición de vulnerabilidad, y
 
-XXXIV. Las demás que le correspondan, conforme a la normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXXIV. Formular y aplicar el Programa Estatal para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, de conformidad con lo establecido en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles Inhumanos o Degradantes, y demás disposiciones legales aplicables, así como remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXXV. Coordinar la operación y la administración del Registro Estatal del Delito de Tortura, en términos de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, así como mantenerlo actualizado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXXVI. Las demás que le correspondan, conforme a la normatividad aplicable.
 
 ## Título Segundo. De la integración de la Fiscalía General del Estado de Quintana Roo
 
@@ -363,17 +373,21 @@ XXVII. Fiscalía Especializada para la Atención de Delitos contra la Mujer y po
 
 XXVIII. La Fiscalía Especializada en Combate a la Corrupción.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXIX. Fiscalía Especializada para la Investigación del Delito de Tortura;
+
 (REUBICADA, P.O. 19 DE JULIO DE 2017)
 
-XXIX.- Unidad de Transparencia.
+XXX. Unidad de Transparencia;
 
 (REUBICADA, P.O. 19 DE JULIO DE 2017)
 
-XXX.- El Secretario Particular del Fiscal General, y
+XXXI. El Secretario Particular del Fiscal General, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2017)</small>
 
-XXXI.- Los Asesores de la Fiscalía General.
+XXXII. Los Asesores de la Fiscalía General.
 
 ###### Artículo 8.
 
@@ -1721,15 +1735,59 @@ XXXVII.- Diseñar e implementar mecanismos de colaboración con autoridades que 
 
 XXXVIII.- Las demás que en su caso le confieran otras disposiciones legales aplicables o le encomiende el Fiscal General.
 
-### Capítulo Vigésimo Sexto. De la Unidad de Transparencia
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO VIGESIMO SEXTO. De la Fiscalía Especializada para la Investigación del Delito de Tortura
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 59.
 
-La Unidad de Transparencia de la Fiscalía General del Estado, es la responsable de la atención de las solicitudes de información que reciba la misma en términos de la ley de la materia.
+Se crea la Fiscalía Especializada para la Investigación del Delito de Tortura, con plena autonomía técnica y operativa, encargada del conocimiento, investigación y persecución de los delitos previstos por la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
-### Capítulo Vigésimo Séptimo. Del Secretario Particular del Fiscal General
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 59 Bis.
+
+La Fiscalía Especializada para la Investigación del Delito de Tortura contará con ministerios públicos, policías, servicios periciales y técnicos especializados, así como con los demás recursos humanos, financieros, tecnológicos y materiales que resulten necesarios para su óptima operación y funcionamiento, en términos de la normatividad aplicable y la disponibilidad presupuestaria.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 59 Ter.
+
+El Titular de la Fiscalía Especializada para la Investigación del Delito de Tortura, tendrá la calidad de Fiscal del Ministerio Publico, el cual será nombrado y removido por el Fiscal General del Estado, previo cumplimiento de los requisitos previstos en el Artículo 58 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Art. 59 Quater.
+
+La Fiscalía Especializada para la Investigación del Delito de Tortura podrá celebrar convenios con la Comisión Ejecutiva de Atención a Víctimas del Estado, para dar cumplimiento a lo previsto en los artículos 40 y 41 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 59 Quinquies.
+
+La Fiscalía Especializada para la Investigación del Delito de Tortura, será competente para conocer todos los casos que no se encuentren previstos en el Artículo 22 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 59 Sexies.
+
+La Fiscalía Especializada para la Investigación del Delito de Tortura, tendrá las obligaciones y facultades que establece el Artículo 59 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 59 Septies.
+
+La o el Titular de la Fiscalía Especial para la Investigación del Delito de Tortura en coordinación con las unidades administrativas competentes, implementarán mecanismos para que el personal sustantivo adscrito a dicha Fiscalía Especial se encuentre en capacitación constante y se fomente la especialización en la materia, para lo cual se buscará su permanencia en dicha Fiscalía Especial.
+
+### Capítulo Vigésimo Séptimo. De la Unidad de Transparencia
+
+> <small>(REFORMADO P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 60.
+
+La Unidad de Transparencia de la Fiscalía General del Estado, es la responsable de la atención de las solicitudes de información que reciba la misma en términos de la ley de la materia.
 
 La Unidad de Transparencia de la Fiscalía General del Estado, tendrá las siguientes atribuciones:
 
@@ -1761,7 +1819,7 @@ XIII. Elaborar el manual de procedimientos para asegurar la adecuada atención a
 
 XIV. Elaborar un programa para facilitar la obtención de información pública, que deberá ser actualizado periódicamente;
 
-XV. Difundir entre los servidores públicos de la Fiscalía General del Estado, los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de esta;
+XV. Difundir entre los servidores públicos de la Fiscalía General del Estado, los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta;
 
 XVI. Proponer al Fiscal General, la concertación de acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las respuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente;
 
@@ -1771,7 +1829,7 @@ XVIII. Compilar los índices de los expedientes clasificados como reservados y a
 
 XIX. Las demás que se desprendan de la normatividad aplicable o que le señale el Fiscal General.
 
-### Capítulo Vigésimo Octavo. De los Asesores de la Fiscalía General
+### Capítulo Vigésimo Octavo. Del Secretario Particular del Fiscal General
 
 ###### Artículo 61.
 
@@ -1797,7 +1855,7 @@ IX. Convocar y verificar la asistencia puntual de los servidores públicos citad
 
 X. Las demás que le confiera el Fiscal General.
 
-### Capítulo Primero. De los requisitos del personal
+### Capítulo Vigésimo Noveno. De los Asesores de la Fiscalía General
 
 ###### Artículo 62.
 
@@ -1817,7 +1875,7 @@ VI. Las demás que le sean encomendadas por el Fiscal General.
 
 ## Título Cuarto. Del régimen del personal
 
-### Capítulo Segundo. De la organización del personal
+### Capítulo Primero. De los requisitos del personal
 
 ###### Artículo 63.
 
@@ -1857,7 +1915,7 @@ IX. Ser de notoria buena conducta, honradez y probidad.
 
 Los Directores, Titulares de los Centros y Fiscalías, Titular de Unidad así como el demás personal de la Fiscalía General del Estado, deberán cumplir con los requisitos que se señalen para su nombramiento, estipulados en el reglamento interior y en las demás disposiciones aplicables.
 
-### Capítulo Tercero. Del Servicio Profesional de Carrera de la Fiscalía General del Estado
+### Capítulo Segundo. De la organización del personal
 
 ###### Artículo 67.
 
@@ -1881,7 +1939,7 @@ El personal de la Fiscalía General del Estado, con las excepciones previstas en
 
 El ingreso, promoción, estímulo, evaluación y separación del personal de confianza o de base, se regirá por lo establecido en el reglamento interior y demás disposiciones aplicables.
 
-### Capítulo Primero. Del Consejo de Profesionalización, Honor y Justicia
+### Capítulo Tercero. Del Servicio Profesional de Carrera de la Fiscalía General del Estado
 
 ###### Artículo 71.
 
@@ -2095,7 +2153,7 @@ En todo lo no previsto en la presente ley respecto al Servicio Profesional de Ca
 
 ## Título Quinto. Del Régimen Disciplinario
 
-### Capítulo Segundo. De las excusas e incompatibilidades
+### Capítulo Primero. Del Consejo de Profesionalización, Honor y Justicia
 
 ###### Artículo 82.
 
@@ -2321,7 +2379,7 @@ Además de lo dispuesto en el artículo anterior, todo el personal de la Fiscal�
 
 Cuando en el desempeño de sus funciones el personal de la Fiscalía General del Estado incurra en el incumplimiento de alguna de las obligaciones señaladas en esta ley, su reglamento interno y demás normatividad aplicable, se iniciará el procedimiento respectivo ante el órgano interno competente de la Fiscalía General del Estado.
 
-### Capítulo Primero. Del patrimonio
+### Capítulo Segundo. De las excusas e incompatibilidades
 
 ###### Artículo 91.
 
@@ -2337,7 +2395,7 @@ El Fiscal General podrá autorizar el desempeño de otro cargo del personal de l
 
 ## Título Sexto. Del patrimonio y presupuesto de la Fiscalía General del Estado
 
-### Capítulo Segundo. Del Fondo para el Mejoramiento de la Procuración de Justicia
+### Capítulo Primero. Del patrimonio
 
 ###### Artículo 94.
 
@@ -2376,6 +2434,8 @@ Los recursos del Fondo para el Mejoramiento de la Procuración de Justicia, ser�
 ###### Artículo 97.
 
 La Fiscalía General del Estado elaborará un proyecto de presupuesto anual de egresos considerando el índice inflacionario anual así como las necesidades para su buen funcionamiento, que será enviado a la Legislatura del Estado para su aprobación e incorporación en el Presupuesto de Egresos de cada ejercicio fiscal, el cual no podrá ser inferior al asignado en el ejercicio fiscal inmediato anterior.
+
+### Capítulo Segundo. Del Fondo para el Mejoramiento de la Procuración de Justicia
 
 ###### Artículo 98.
 
@@ -2582,3 +2642,23 @@ P.O. 21 DE JUNIO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 256 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL, LEY DE VÍCTIMAS, LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS, LEY DE SEGURIDAD PÚBLICA, LEY DE SALUD, LEY ORGÁNICA DEL PODER JUDICIAL Y CÓDIGO PENAL, TODOS DEL ESTADO DE QUINTANA ROO, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. En términos de lo dispuesto en el Decreto por el que se reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de julio del 2015, se abroga la Ley para Prevenir y Sancionar la Tortura en el Estado de Quintana Roo, publicada en el Periódico Oficial de (sic) Gobierno del Estado en fecha 13 de noviembre de 1992.
+
+Los hechos cometidos y los procedimientos iniciados antes de la vigencia de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, se sustanciarán o continuarán su sustanciación de conformidad con la legislación aplicable en el momento de su comisión o del inicio de los procedimientos.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
+
+Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones necesarias para proveer de recursos humanos, financieros, tecnológicos y materiales a la Fiscalía General del Estado, en virtud de la creación de la Fiscalía Especializada para la Investigación del Delito de Tortura. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
+
+Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
