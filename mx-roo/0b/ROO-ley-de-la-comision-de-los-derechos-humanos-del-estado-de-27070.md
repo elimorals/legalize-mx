@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-27070"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2017-12-21"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de diciembre de 2002.
 
@@ -197,7 +197,9 @@ X. Promover el estudio, la enseñanza y la divulgación de los derechos humanos;
 
 XI. Elaborar y ejecutar programas preventivos en materia de derechos humanos;
 
-XII. Realizar visitas periódicas para supervisar el respeto a los derechos humanos en los centros destinados a la detención preventiva, de readaptación social, para menores infractores, orfanatos, asilos, hospicios, albergues, hospitales, instituciones de salud, asistencia social o de educación especial y, en general, cualquier establecimiento del sector público estatal o municipal destinado al tratamiento de niños, personas con capacidades diferentes y/o adultos mayores;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XII. Realizar visitas periódicas para supervisar el respeto a los derechos humanos en los centros destinados a la detención preventiva, de readaptación social, para menores infractores, orfanatos, asilos, hospicios, albergues, hospitales, instituciones de salud, asistencia social o de educación especial y, en general, cualquier establecimiento del sector público estatal o municipal destinado al tratamiento de niños, personas con discapacidad y/o adultos mayores;
 
 XIII. Celebrar convenios de apoyo con las diversas dependencias federales, estatales y municipales;
 
@@ -215,9 +217,9 @@ XVII. Expedir su Reglamento, una vez aprobado por el Consejo Consultivo;
 
 XVIII. Proporcionar orientación y asesoría jurídica a las personas que lo soliciten, en materia de derechos humanos;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XIX. Coordinar acciones, previo convenio con la Secretaría de Educación y Cultura del Estado de Quintana Roo, con el fin de promover y fomentar la educación y cultura del reconocimiento y respeto de los derechos humanos;
+XIX. Coordinar acciones, previo convenio con la Secretaría de Educación del Estado de Quintana Roo, con el fin de promover y fomentar la educación y cultura del reconocimiento y respeto de los derechos humanos;
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -227,9 +229,21 @@ XX. Desarrollar y ejecutar en el ámbito de su competencia, programas especiales
 
 XXI. Supervisar el respeto a los derechos humanos en el sistema de reinserción social del Estado mediante la elaboración de un diagnóstico anual sobre la situación que éstos guarden. El diagnóstico se hará del conocimiento de las dependencias locales competentes en la materia para que éstas elaboren, considerando las opiniones de la Comisión, las políticas públicas tendientes a garantizar el respeto a los derechos humanos de los internos, y
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XXII. Las demás que le otorguen la presente ley y otros ordenamientos legales.
+XXII. Investigar y documentar la tortura y otros tratos y penas crueles, inhumanos y degradantes, inmediatamente después de recibida la queja correspondiente y remitir los eventuales peritajes y recomendaciones a los órganos de procuración de justicia y judiciales competentes, en su caso;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXIII. Elaborar los dictámenes médico-psicológicos, en los términos señalados por la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXIV. Remitir en términos de los convenios respectivos, a la Procuraduría General de la República y a la Fiscalía General del Estado, las bases de datos sobre las quejas interpuestas ante ella, por tortura y otros tratos o penas crueles, inhumanos o degradantes, para su incorporación en el Registro Nacional del Delito de Tortura y en el Registro Estatal del Delito de Tortura, respectivamente, en términos de lo dispuesto por la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XXV. Las demás que le otorguen la presente ley y otros ordenamientos legales.
 
 ###### Artículo 12.
 
@@ -1129,9 +1143,9 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 
 P.O. 6 DE SEPTIEMBRE DE 2013.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-Segundo. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
 
 P.O. 27 DE FEBRERO DE 2014.
 
@@ -1172,3 +1186,23 @@ P.O. 21 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que se contrapongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 256 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL, LEY DE VÍCTIMAS, LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS, LEY DE SEGURIDAD PÚBLICA, LEY DE SALUD, LEY ORGÁNICA DEL PODER JUDICIAL Y CÓDIGO PENAL, TODOS DEL ESTADO DE QUINTANA ROO, EN MATERIA DE ARMONIZACIÓN CON LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. En términos de lo dispuesto en el Decreto por el que se reforma el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de julio del 2015, se abroga la Ley para Prevenir y Sancionar la Tortura en el Estado de Quintana Roo, publicada en el Periódico Oficial de (sic) Gobierno del Estado en fecha 13 de noviembre de 1992.
+
+Los hechos cometidos y los procedimientos iniciados antes de la vigencia de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, se sustanciarán o continuarán su sustanciación de conformidad con la legislación aplicable en el momento de su comisión o del inicio de los procedimientos.
+
+Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
+
+Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones necesarias para proveer de recursos humanos, financieros, tecnológicos y materiales a la Fiscalía General del Estado, en virtud de la creación de la Fiscalía Especializada para la Investigación del Delito de Tortura. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
+
+Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
