@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2018-08-01"
+last_updated: "2018-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -567,11 +567,39 @@ Cuando con posterioridad al registro, ocurra alguna modificación relativa a los
 
 El Gobernador del Estado, como resultado de convenios o actos de cooperación que celebre con autoridades de la Federación o de las entidades federativas, podrá fijar más requisitos para el registro de los vehículos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO QUINTO BIS. DEL REGISTRO PÚBLICO VEHICULAR
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 47-A.
+
+El Registro Público Vehicular tiene por objeto la identificación y control vehicular, en el que consten las inscripciones, altas, bajas, emplacamientos, infracciones, pérdidas, robos, recuperaciones y destrucción de los vehículos que se fabrican, ensamblan, importan o circulan con placas del Estado de Michoacán, así como brindar servicios de información al público.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 47-B.
+
+El registro de los vehículos se acreditará con la constancia de inscripción al Registro Público Vehicular.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 47-C.
+
+La inscripción de vehículos, la presentación de avisos, las consultas en el registro, y la reposición de constancias de inscripción serán gratuitas.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 47-D.
+
+El procedimiento administrativo para realizar el registro, se establecerá en el Reglamento de esta Ley.
+
+Las dependencias encargadas del trámite podrán celebrar convenios de colaboración con otras instituciones públicas estatales o federales, con el propósito de conformar su base de datos y proporcionar el servicio atendiendo a los principios de celeridad y eficiencia para el usuario.
+
 ### CAPÍTULO SEXTO. DE LAS PLACAS DE LOS VEHÍCULOS
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
-
-### CAPÍTULO PRIMERO. DE LA EDUCACIÓN E INFORMACIÓN VIAL
 
 ###### Artículo 48.
 
@@ -619,7 +647,7 @@ Las placas para vehículos de servicio social se proporcionarán a las unidades 
 
 DE LA EDUCACIÓN VIAL Y MEDIDAS DE PROTECCIÓN DEL MEDIO AMBIENTE.
 
-### CAPÍTULO SEGUNDO. DE LAS MEDIDAS DE PROTECCIÓN DEL MEDIO AMBIENTE
+### CAPÍTULO PRIMERO. DE LA EDUCACIÓN E INFORMACIÓN VIAL
 
 ###### Artículo 52.
 
@@ -677,9 +705,7 @@ II. Respetar los límites de velocidad en todas las vialidades.
 
 El Gobernador del Estado, a través de la Secretaría y los municipios en sus áreas de competencia, podrán celebrar convenios con instituciones públicas o privadas, para dar a conocer en los medios de comunicación masiva, los programas de educación vial, e informar a la población con oportunidad, acerca de la intensidad del tráfico en las vialidades y de los siniestros, con el propósito de evitar congestionamientos viales.
 
-### CAPÍTULO PRIMERO. DE LAS SANCIONES
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
+### CAPÍTULO SEGUNDO. DE LAS MEDIDAS DE PROTECCIÓN DEL MEDIO AMBIENTE
 
 ###### Artículo 55.
 
@@ -699,7 +725,9 @@ Está prohibido modificar claxon y silenciadores de fábrica y la instalación d
 
 DE LAS SANCIONES Y RECURSOS DE TRÁNSITO Y VIALIDAD EN EL ESTADO.
 
-### CAPÍTULO SEGUNDO. DE LOS RECURSOS
+### CAPÍTULO PRIMERO. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
 
 ###### Artículo 58.
 
@@ -789,9 +817,7 @@ La Dirección retirará de la circulación los vehículos que no reúnan los req
 
 Los municipios aplicarán las sanciones de tránsito y vialidad de conformidad al reglamento que expidan en la materia.
 
-### CAPÍTULO ÚNICO. DE LOS DERECHOS DE LOS PEATONES
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+### CAPÍTULO SEGUNDO. DE LOS RECURSOS
 
 ###### Artículo 74.
 
@@ -836,6 +862,10 @@ Se procederá contra los responsables de los sitios o depósitos destinados al e
 ## TÍTULO SEXTO. DE LOS PEATONES
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2018)</small>
+
+### CAPÍTULO ÚNICO. DE LOS DERECHOS DE LOS PEATONES
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 83.
 
@@ -952,3 +982,17 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El Titular del Poder Ejecutivo del Estado y los Ayuntamientos del Estado, deberán reformar sus reglamentos y demás disposiciones administrativas, conforme a lo dispuesto en el presente Decreto, dentro de los noventa días posteriores a su publicación.
 
 TERCERO. Notifíquese al Titular del Poder Ejecutivo del Estado, para su sanción, promulgación y publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 656 POR EL QUE "SE ADICIONA EL CAPÍTULO QUINTO BIS, ASÍ COMO LOS ARTÍCULOS 47-A, 47-B, 47-C, 47-D DEL TÍTULO TERCERO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Ejecutivo Estatal en un término de noventa días, podrá hacer las modificaciones reglamentarias para el debido cumplimiento del presente Decreto.
+
+TERCERO. La colocación de las constancias de inscripción al Registro Público Vehicular, será programada gradualmente conforme lo establezca el Reglamento de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo.
+
+CUARTO. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán, deberá proporcionar información de su base de datos conforme a las reglas establecidas en la Ley del Registro Público Vehicular, a la Entidad pública encargada del registro, en un plazo no mayor a ciento veinte días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
