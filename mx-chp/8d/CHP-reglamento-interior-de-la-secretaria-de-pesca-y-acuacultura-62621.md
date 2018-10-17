@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-pesca-y-acuacultura-626
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-06"
-last_updated: "2015-04-22"
+last_updated: "2018-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA Y ACUACULTURA DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA Y ACUACULTURA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA Y ACUACULTURA, PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA Y ACUACULTURA DEL ESTADO DE CHIAPAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del estado de Chiapas, el miércoles 6 de agosto de 2008.
 
@@ -349,7 +351,7 @@ XVI. Programar las actividades que le competen a la Unidad, con base a leyes, no
 
 XVII. Supervisar e integrar los sistemas de contabilidad del ejercicio del presupuesto de egresos y verificar su actualización, de acuerdo a la normatividad establecida.
 
-XVIIl. Resguardar el activo asignado a los diferentes órganos administrativos de la Secretaría y establecer mecanismos de control; así como proporcionar mantenimiento preventivo y correctivo de los mismos.
+XVIII. Resguardar el activo asignado a los diferentes órganos administrativos de la Secretaría y establecer mecanismos de control; así como proporcionar mantenimiento preventivo y correctivo de los mismos.
 
 XIX. Elaborar y participar en el establecimiento de las condiciones generales de trabajo, así como difundirlas y vigilar su cumplimiento, en coordinación con la Unidad de Apoyo Jurídico.
 
@@ -962,3 +964,23 @@ Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de 
 Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía que este Decreto, y se opongan al mismo.
 
 Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2989-A-2018 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA Y ACUACULTURA”.]
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de la Secretaría (sic) de Pesca y Acuacultura, publicado en el Periódico Oficial del Estado, número 108, Tomo III, Publicación No. 862-A-2008, de fecha 06 de agosto de 2008; así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario, resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La Secretaría deberá, establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia que establezca la Ley de (sic) Civil del Estado de Chiapas, y demás disposiciones aplicables.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, artículo 4, de la Ley de Procedimientos Administrativos para el Estado de Chiapas y artículo 13 fracción V, de la Ley Estatal del Periódico Oficial, publíquese el presente Reglamento Interior en el Periódico Oficial.
