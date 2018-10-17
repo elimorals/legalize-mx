@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2018-07-23"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -3845,6 +3845,8 @@ XII. Los demás sujetos obligados en los términos del presente.
 
 ### CAPÍTULO SEGUNDO. DE LAS CAUSAS DE RESPONSABILIDAD ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 230.
 
 Son causas de responsabilidad administrativa las siguientes:
@@ -3871,17 +3873,21 @@ i) La difusión de propaganda política o electoral que contenga expresiones que
 
 j) El incumplimiento de las obligaciones establecidas en materia de transparencia y acceso a la información;
 
-k) El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos.
+k) El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
 
-l) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto; y,
+l) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-m) La comisión de cualquier otra falta de las previstas.
+m) La comisión de violencia política. Para tales efectos, se entenderá por Violencia Política, a todo acto u omisión en contra de cualquier persona por medio del cual se cause un daño moral, físico, psicológico o económico, a través de la presión, discriminación, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida, cometidos por una persona o un grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirle u obligarle a tomar decisiones de tipo político-electoral en contra de su voluntad; y,
+
+n) La comisión de cualquier otra falta de las previstas.
 
 II. Constituyen infracciones de las agrupaciones políticas estatales al presente Código:
 
-a) El incumplimiento de las obligaciones que les señala la Ley de Partidos; y,
+a) El incumplimiento de las obligaciones que les señala la Ley de Partidos;
 
-b) El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
+b) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo; y,
+
+c) El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
 
 III. Constituyen infracciones de los aspirantes, precandidatos o candidatos a cargos de elección popular al presente Código:
 
@@ -3893,9 +3899,11 @@ c) Omitir en los informes respectivos los recursos recibidos, en dinero o en esp
 
 d) No presentar el informe de gastos de precampaña o campaña establecidos en este Código;
 
-e) Exceder el tope de gastos de precampaña o campaña establecidos; y,
+e) Exceder el tope de gastos de precampaña o campaña establecidos;
 
-f) El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+f) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo; y,
+
+g) El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 IV. Constituyen infracciones de los aspirantes y Candidatos Independientes a cargos de elección popular al presente Código:
 
@@ -3923,17 +3931,21 @@ k) La obtención de bienes inmuebles con recursos provenientes del financiamient
 
 l) La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, instituciones o los partidos políticos;
 
-m) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto; y,
+m) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-n) El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
+n) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo; y,
+
+o) El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
 
 V. Constituyen infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o moral, al presente Código:
 
 a) La negativa a entregar la información requerida por el Instituto, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen, o cualquier otro acto que los vincule con los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular;
 
-b) La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia; y,
+b) La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquella que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico especifico en que se sustente la queja o denuncia;
 
-c) El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+c) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo; y,
+
+d) El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 VI. Constituyen infracciones de los observadores electorales, y de las organizaciones con el mismo propósito, el incumplimiento, según sea el caso, de las obligaciones establecidas en la Ley General;
 
@@ -3963,7 +3975,7 @@ b) Permitir que en la creación del partido político intervengan organizaciones
 
 c) Realizar o promover la afiliación colectiva de ciudadanos a la organización o al partido para el que se pretenda registro.
 
-XI. Constituyen infracciones al presente Código de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como de sus integrantes o dirigentes, cuando actúen o se ostenten con tal carácter, o cuando dispongan de los recursos patrimoniales de su organización:
+XI. Constituyen infracciones al presente Código de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, asíì (sic) como de sus integrantes o dirigentes, cuando actúen o se ostenten con tal carácter, o cuando dispongan de los recursos patrimoniales de su organización:
 
 a) Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos; y,
 
@@ -5457,7 +5469,7 @@ SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicac
 
 P.O. 23 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 611 POR EL QUE “SE REFORMA EL ARTÍCULO 46, EL ARTÍCULO 47, LAS FRACCIONES XI Y XIII DEL ARTÍCULO 64, LA FRACCIÓN V DEL ARTÍCULO 65; SE ADICIONA UNA FRACCIÓN XIV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 64, LOS ARTÍCULOS 69 BIS, 69 TER Y 69 QUATER DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 611 POR EL QUE "SE REFORMA EL ARTÍCULO 46, EL ARTÍCULO 47, LAS FRACCIONES XI Y XIII DEL ARTÍCULO 64, LA FRACCIÓN V DEL ARTÍCULO 65; SE ADICIONA UNA FRACCIÓN XIV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 64, LOS ARTÍCULOS 69 BIS, 69 TER Y 69 QUATER DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 PRIMERO. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -5466,3 +5478,9 @@ SEGUNDO. El Consejo General de (sic) Instituto Electoral de Michoacán; el Pleno
 El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
 
 TERCERO. El Poder Judicial del Estado de Michoacán; el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 646 POR EL QUE "SE REFORMA EL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor una vez concluido el proceso electoral 2018 conforme a lo establecido en el Código Electoral y al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán.
