@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2017-05-12"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -1043,11 +1043,29 @@ Los establecimientos de hospedaje que se clasifiquen o se desempeñen con activi
 
 La vigilancia y control que realice la Secretaría sobre las actividades de turismo alternativo, se sujetarán exclusivamente a la operación y calidad de la prestación del servicio, a la protección del turista y a los demás factores que se refiere la presente Ley.
 
-### CAPÍTULO ÚNICO. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO VI. DEL TURISMO RELIGIOSO
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 110 BIS. El turismo religioso es la actividad turística que con independencia de motivaciones espirituales se realiza para visitar sitios que por su valor histórico o cultural asociado con alguna religión, se constituyen en centros de reunión periódica o constante de turistas, así como la asistencia a peregrinaciones y celebraciones religiosas.
+
+La Secretaría, promoverá la celebración de convenios de colaboración con las dependencias y entidades de los tres órdenes de gobierno, así como con el sector privado, con el objetivo de fomentar y fortalecer el turismo religioso en el Estado.
+
+La Secretaría, en coordinación con las instancias gubernamentales correspondientes de los tres niveles de gobierno, así como con la iniciativa privada, fomentará la promoción del turismo religioso a través de programas y convenios.
+
+La Secretaría, formulará y aplicará una política estatal en materia de turismo religioso que considere los aspectos siguientes:
+
+I. La preservación de los recursos culturales religiosos;
+
+Il. Elaboración y aplicación de programas para la promoción y difusión de los sitios religiosos existentes en el Estado, así como de las festividades religiosas que se celebran en los municipios que integran al mismo; y,
+
+III. Promover que se dé la adecuada atención a peregrinos y turistas que acudan a los sitios religiosos o alguna festividad religiosa.
 
 ## TÍTULO IX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO I. DE LA VERIFICACIÓN Y VIGILANCIA DE LA OPERACIÓN DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO ÚNICO. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 111.
 
@@ -1141,9 +1159,11 @@ XV. Garantizar el cumplimiento de las condiciones en que ofrezcan los servicios 
 
 XVI. Las demás que se establezcan en la presente Ley.
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPÍTULO I. DE LA VERIFICACIÓN Y VIGILANCIA DE LA OPERACIÓN DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ## TÍTULO X. DE LA VERIFICACIÓN Y SANCIONES
+
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### ARTÍCULO 116.
 
@@ -1339,6 +1359,12 @@ Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamient
 
 P.O. 12 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 346 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, 65, 99, 100 Y 101; Y SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 77 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 346 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3, 65, 99, 100 Y 101; Y SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 77 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 643 POR EL QUE “SE ADICIONA EL CAPÍTULO VI AL TÍTULO VIII, ASÍ COMO EL ARTÍCULO 110 BIS, A LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y efectos conducentes.
