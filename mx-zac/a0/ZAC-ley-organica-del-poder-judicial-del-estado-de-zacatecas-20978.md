@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2017-09-06"
+last_updated: "2018-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, SE SUGIERE CONSULTAR EL ARTÍCULO TRANSITORIO CORRESPONDIENTE.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -43,7 +43,7 @@ RESULTANDO SEGUNDO.- Por acuerdo del Presidente de la Mesa Directiva, y con fund
 
 EXPOSICION DE MOTIVOS
 
-Mediante decreto número 157, expedido por esta Legislatura y publicado en el suplemento al número 38 del Periódico Oficial, Organo del Gobierno del Estado correspondiente al día 10 de mayo del 2000, se hicieron reformas, adiciones y supresiones a diversos artículos de la Constitución Política del Estado.
+Mediante decreto número 157, expedido por esta Legislatura y publicado en el suplemento al número 38 del Periódico Oficial, Órgano del Gobierno del Estado correspondiente al día 10 de mayo del 2000, se hicieron reformas, adiciones y supresiones a diversos artículos de la Constitución Política del Estado.
 
 La trascendencia de tales modificaciones ocurren en el contexto del proceso democrático para la reforma del Estado, y su vértice dominante: garantizar a plenitud el principio de división de poderes, en este caso, fortaleciendo de manera notable la autonomía del Poder Judicial y, los nuevos derroteros jurisdiccionales y administrativos que normativamente debe explorar, con el propósito determinante de hacer más pronta, eficaz, honesta y cercana, la administración de justicia.
 
@@ -119,7 +119,7 @@ Por lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por
 
 DECRETA
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
 ## TITULO PRIMERO. DE LA ADMINISTRACION DE JUSTICIA
 
@@ -359,9 +359,9 @@ XXXIV. Vigilar la observancia de la Ley de Profesiones del Estado, en lo que con
 
 XXXV. Determinar, mediante acuerdo general, la instalación y funcionamiento de Salas Regionales en Materia Penal adversarial para el único fin de practicar audiencias orales, cuya jurisdicción territorial estará determinada por el acuerdo de creación respectivo;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XXXVI. Acordar dentro de las posibilidades presupuestales, la conformación de Juzgados, por los Jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma Unitaria o Colegiada de conformidad con lo dispuesto por la Ley. En estos casos el Pleno designará a propuesta del Presidente a uno de los Jueces en calidad de coordinador; y
+XXXVI. Acordar dentro de las posibilidades presupuestales, la conformación de Juzgados, por los Jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma Unitaria o Colegiada, de conformidad con lo previsto en las disposiciones legales. En estos casos, el Pleno designará, a propuesta del Presidente, a uno de los Jueces en calidad de coordinador; y
 
 XXXVII. Las demás que esta ley, su reglamento interior y otros ordenamientos le señalen.
 
@@ -379,7 +379,9 @@ III. Declarar previo trámite de procedimiento administrativo, si ha lugar o no 
 
 IV. Conocer y resolver acerca de las excitativas de justicia que se promuevan en contra de los magistrados, jueces y demás servidores públicos del Poder Judicial del Estado y aplicar las sanciones administrativas que de ellas resulten;
 
-V. Conocer, tramitar y resolver los procedimientos inherentes a responsabilidades administrativas; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+V. Establecer, mediante acuerdos generales, el procedimiento para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial; y
 
 VI. Establecer la jurisprudencia del Pleno del Tribunal Superior de Justicia y resolver las denuncias de contradicción entre tesis sustentadas por las salas;
 
@@ -717,7 +719,15 @@ El Tribunal Superior de Justicia para el ejercicio de sus atribuciones administr
 
 I. Una Oficialía Mayor;
 
-II. Las unidades de apoyo a la función administrativa que se requieran y, determinen los reglamentos y acuerdos generales que autorice el Pleno.
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+II. Una Unidad de Análisis Institucional;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+III. Una Unidad de Igualdad de Género y Derechos Humanos;
+
+IV. Las unidades de apoyo a la función administrativa que se requieran y determinen los reglamentos y acuerdos generales que autorice el Pleno.
 
 ###### Artículo 29.
 
@@ -819,6 +829,106 @@ III. Implementar acciones, en las diferentes instancias del Poder Judicial, con 
 
 IV. Las demás que señalen las leyes y los acuerdos del Pleno.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 30 Ter.
+
+La Unidad de Análisis Institucional dependerá del titular de la Presidencia del Tribunal y se conformará con las áreas de análisis necesarias.
+
+Para ser titular de la Unidad de Análisis Institucional, se requiere:
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+II. Tener cuando menos veinticinco años cumplidos el día de la designación;
+
+III. Contar con título de licenciatura, preferentemente, en área económica-administrativa o ingenierías afines;
+
+IV. Contar con experiencia profesional de dos años mínimo, en áreas de administración pública, en áreas relacionadas con gestión de recursos humanos, financieros, materiales, ejercicio de presupuesto o coordinación de equipos de trabajo, y
+
+V. No haber sido condenado, mediante sentencia irrevocable, como responsable de un delito doloso.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 30 Quáter.
+
+La Unidad de Análisis Institucional tendrá las siguientes funciones:
+
+I. Gestionar y auditar la captura y recolección de datos para e (sic) monitoreo y la evaluación de los procesos institucionales;
+
+II. Diseñar los sistemas y formatos para la captura de datos que generen diversas fuentes internas;
+
+III. Definir los indicadores y estándares que se utilizarán en los procedimientos de evaluación y monitoreo institucionales;
+
+IV. Alimentar y utilizar, de manera periódica y permanente, los indicadores diseñados para monitorear la calidad, eficiencia, efectividad y el desempeño institucional, así como mejorar y actualizar dichos indicadores;
+
+V. Realizar análisis e identificar las brechas del desempeño institucional;
+
+VI. Operar y vigilar el correcto funcionamiento de los sistemas de evaluación y monitoreo institucionales;
+
+VII. Desarrollar y emitir los informes necesarios, de manera periódica y permanente, para las áreas encargadas de la toma de decisiones; y
+
+VIII. Monitorear el resultado de acciones y el cumplimiento de estrategias, metas y objetivos institucionales.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 30 Quinquies.
+
+La Unidad de Igualdad de Género y Derechos Humanos es el órgano especializado del Poder Judicial del Estado, encargado de diseñar e implementar las estrategias para la transversalización de la perspectiva de género y una visión protectora de derechos humanos en la institución. Sus acciones están encaminadas a promover la igualdad de género y no discriminación en el ámbito interno, así como a la capacitación y formación del personal en materia de género, para el fortalecimiento de la impartición de justicia.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 30 Sexies.
+
+La Unidad de Igualdad de Género y Derechos Humanos será encabezada, preferentemente, por una mujer. Su nombramiento será realizado por el titular de la Presidencia del Tribunal, para ello, deberá cumplir los siguientes requisitos:
+
+I. Ser ciudadana, o ciudadano, mexicano, en pleno ejercicio de sus derechos;
+
+II. Tener cuando menos veinticinco años cumplidos el día de la designación;
+
+III. Contar con título de licenciatura en derecho;
+
+IV. Contar con experiencia en administración pública, en las materias de derechos humanos, igualdad de género o diseño de políticas públicas, objeto de la Unidad, y
+
+V. No haber sido condenada, o condenado, mediante sentencia irrevocable, como responsable de un delito doloso.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 30 Septies.
+
+La Unidad de Igualdad de Género y Derechos Humanos dependerá de la Presidencia del Tribunal Superior de Justicia. Para su funcionamiento, la Presidencia se asegurará de que la unidad cuente con el personal que sea necesario para llevar a cabo sus funciones, y de que se autorice el presupuesto para el desarrollo de sus actividades.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 30 Octies.
+
+La Unidad de Igualdad de Género y Derechos Humanos tendrá las siguientes facultades:
+
+I. Promover la incorporación de la perspectiva de género en la planeación, programación, ejecución y evaluación de programas, proyectos, normas, acciones y políticas públicas del Poder Judicial de manera transversal, así como darle seguimiento y verificar su cumplimiento;
+
+II. Promover la igualdad y la no discriminación en la institución;
+
+III. Coordinar su actuar con las distintas áreas del Poder Judicial;
+
+IV. Proponer y participar en la definición de acciones con instituciones públicas y privadas orientadas a la igualdad sustantiva;
+
+V. Emitir opinión a la Presidencia del Tribunal para que el presupuesto de la institución se elabore con perspectiva de género;
+
+VI. Participar con otras unidades de género en la instrumentación de planes o programas de acción, en el desempeño de sus funciones;
+
+VII. Coordinar la elaboración de contenidos y productos que consoliden el proceso de institucionalización de la perspectiva de género;
+
+VIII. Desarrollar e implementar herramientas metodológicas, procesos y procedimientos para llevar a cabo el seguimiento y evaluación de las acciones institucionales realizadas en materia de género e igualdad;
+
+IX. Promover que la generación, sistematización y difusión de información se lleve a cabo con perspectiva de género;
+
+X. Promover la celebración de acuerdos, bases y mecanismos de coordinación y concertación con instituciones públicas, privadas y organizaciones de la sociedad, que faciliten alcanzar las metas institucionales en materia de igualdad de género;
+
+XI. Fungir como órgano de consulta y asesoría de la institución en materia de perspectiva de género;
+
+XII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la igualdad y perspectiva de género en la institución, y
+
+XIII. Informar a la Presidencia sobre los asuntos encomendados a la Unidad.
+
 ###### Artículo 31.
 
 Requisitos para ser titular de una Unidad de apoyo a las funciones administrativas
@@ -869,9 +979,9 @@ Los Juzgados de Control y los Tribunales de Enjuiciamiento contarán, además, c
 
 El Pleno del Tribunal Superior de Justicia podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialía de partes y otras áreas para dos o más juzgados de un mismo Distrito Judicial.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-Los Juzgados de Control, los Especializados para Adolescentes y el de Ejecución de Sanciones se integran por el número de Jueces que determine el Pleno. El Tribunal de Enjuiciamiento en materia penal siempre se integrará por tres Jueces.
+Los Juzgados de Control, los Especializados para Adolescentes y el de Ejecución de Sanciones se integran por el número de Jueces que determine el Pleno. El Tribunal de Enjuiciamiento en materia penal se integrará de manera unitaria o colegiada; el Pleno determinará, mediante acuerdos generales, los casos de su integración.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -971,9 +1081,7 @@ En los Juzgados Especializados para Adolescentes existirán Jueces de Control, J
 
 Los Jueces de Control y los Jueces integrantes del Tribunal de Enjuiciamiento de un mismo Distrito Judicial, para equilibrar sus cargas laborales, adoptarán el sistema rotativo de roles o funciones basado en la competencia en razón del turno, salvo que el Pleno del Tribunal Superior de Justicia determine otra forma.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-Bajo ninguna circunstancia el Juez de Control podrá fungir como Juez de Tribunal de Enjuiciamiento en un mismo asunto y viceversa.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2020,3 +2128,15 @@ Artículo décimo. Dentro de los sesenta días siguientes a la entrada en vigor 
 Artículo decimoprimero. En el Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio fiscal 2018, se establecerán los recursos correspondientes para el funcionamiento del Tribunal. La Secretaría de Finanzas del Gobierno del Estado en los términos de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado, reasignará recursos para el funcionamiento del Tribunal y del Órgano Interno de Control.
 
 Artículo decimosegundo. El Magistrado del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, en funciones, podrá participar en el proceso de selección de Magistrados del Tribunal de Justicia Administrativa del Estado de Zacatecas u optar por acogerse a lo dispuesto en el artículo 7 de la Ley Orgánica del Poder Judicial del Estado de Zacatecas.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 459.- SE REFORMA, ADICIONAN Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECA (SIC)".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de los Transitorios siguientes.
+
+Artículo segundo. Las adiciones de las fracciones II y III del artículo 28 y los artículos 30 Ter, 30 Quáter, 30 Quinquies, 30 Sexies, 30 Septies y 30 Octies, entrarán en vigor el día 1 de enero del año 2019.
+
+Artículo tercero. A partir del Decreto del Presupuesto de Egresos del año 2019, deberán asignarse los recursos necesarios para el funcionamiento de las nuevas Unidades de Análisis Institucional y de Igualdad de Género y Derechos Humanos.
+
+Artículo cuarto. Se derogan las disposiciones que contravengan este Decreto.
