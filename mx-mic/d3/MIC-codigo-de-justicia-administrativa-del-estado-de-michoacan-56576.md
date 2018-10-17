@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2018-10-04"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -1481,7 +1481,9 @@ II. Resolver el recurso de apelación;
 
 III. Calificar las recusaciones y excusas por impedimento de los magistrados y, en su caso, integrar a ella, al Secretario General de Acuerdos;
 
-IV. (DEROGADA, P.O. 18 DE JULIO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+
+IV. Llevar a cabo el procedimiento para la designación del titular del Órgano Interno de Control;
 
 V. Expedir el Reglamento Interior;
 
@@ -1781,47 +1783,83 @@ III. Levantar las actas correspondientes a las diligencias que practiquen; y,
 
 IV. Las demás que señalen las leyes.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 168.
 
-Son atribuciones del titular del órgano Técnico de Control:
+Son atribuciones del titular del Órgano Interno de Control:
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
 I. Vigilar controlar y evaluar el cumplimento de la normativa administrativa por parte de los servidores públicos del Tribunal;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
 II. Realizar auditorías sobre administración, finanzas, planeación y aplicación de la normatividad;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
 III. Llevar el registro y seguimiento de la situación patrimonial de los servidores públicos del Tribunal;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
 IV. Participar en todos aquellos actos que en materia de contratación, adquisición y arrendamiento de bienes y servicios se establezcan en la normativa vigente;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
 V. Verificar el cumplimiento de las normas y reglamentos en materia de contratación, pago y movimiento de personal, arrendamientos, enajenaciones, adquisiciones, conservación, uso y destino de los recursos;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
 VI. Formular observaciones y recomendaciones con base a las auditorías al Tribunal;
 
-VII. Realizar visitas de inspección y vigilancia a los órganos y funcionarios del Tribunal; y,
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-VIII. Las demás que señalen las leyes.
+VII. Realizar visitas de inspección y vigilancia a los órganos y funcionarios del Tribunal;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+VIII. Instaurar el procedimiento previsto en la Ley de Responsabilidades; cuando los servidores públicos del Tribunal, incurran en alguna de las causales previstas en dicha Ley e imponer las sanciones correspondientes; y,
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+
+IX. Las demás que señalen las leyes.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 Corresponde al titular del órgano interno de control vigilar que la administración del presupuesto del Tribunal sea eficaz, honesta y ajustada a la normatividad aplicable, informando al Congreso del Estado del resultado de las auditorías y revisiones que practique.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+
 El órgano interno de control del Tribunal tendrá a su cargo la fiscalización de los recursos asignados, así como de conocer de las responsabilidades de sus servidores públicos; estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. En el desempeño de su función de sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
 
-El titular del órgano interno de control será nombrado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal y deberá reunir los requisitos que señala este Código.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-El órgano interno de control contará con estructura orgánica, personal y recursos que apruebe el Pleno a propuesta del Presidente.
+El titular del Órgano Interno de Control será nombrado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto y deberá reunir los requisitos que señala este Código.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Pleno a propuesta del titular de la Contraloría Interna.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 El titular del Órgano Interno de Control podrá ser sancionado conforme a los términos de la normatividad en materia de responsabilidad de servidores públicos. El Congreso del Estado resolverá sobre la aplicación de las sanciones, incluida entre estas la remoción por causas graves de responsabilidad administrativa denunciadas por el Pleno del Tribunal, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los integrantes.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-Artículo 168 bis. El Órgano Interno de Control del Tribunal tendrá a su cargo la fiscalización de los ingresos y egresos, así como de conocer de las responsabilidades de sus servidores públicos; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+Artículo 168 bis. El Órgano Interno de Control tendrá a su cargo la fiscalización de los ingresos y egresos, así como de conocer de las responsabilidades de sus servidores públicos; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
 
-El titular del Órgano Interno de Control será nombrado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal y deberá reunir los requisitos que señala este Código.
+El Pleno realizará la evaluación de los aspirantes e integrará y enviará al Congreso la propuesta mediante el procedimiento siguiente:
 
-El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Pleno a propuesta del Presidente.
+I. Publicará convocatoria abierta en el Periódico Oficial, en el portal de internet y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
 
-El titular del Órgano Interno de Control podrá ser sancionado conforme a los términos de la normatividad en materia de responsabilidad de servidores públicos. El Congreso del Estado resolverá sobre la aplicación de las sanciones, incluida entre estas la remoción por causas graves de responsabilidad administrativa denunciadas por la Sala, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los integrantes.
+II. Los nombres de los aspirantes registrados serán publicados en el portal de internet y en un diario de circulación estatal, a efecto de que cualquier persona, por el término de tres días hábiles, de manera respetuosa, formule y haga llegar al Pleno, observaciones sobre los participantes, acompañando las pruebas que acrediten su dicho;
+
+III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia, que realizará el Pleno, la cual consistirá en exámenes, escritos u orales sobre los aspectos relacionados con la materia del cargo a que aspira, considerando problemas y normativa;
+
+IV. El Pleno garantizará que quienes califiquen el examen, no conozcan la identidad del aspirante evaluado; y
+
+V. El Pleno remitirá al Congreso la lista, acompañada del expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso designe de entre los cinco mejor evaluados.
 
 ###### Artículo 169.
 
@@ -3486,3 +3524,11 @@ CUARTO. Los asuntos pendientes de resolverse a la entrada en vigor del presente 
 QUINTO. El Tribunal deberá nombrar Jueces Administrativos dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 SEXTO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 648 POR EL QUE “SE REFORMA A LA FRACCIÓN IV DEL ARTÍCULO 159; LOS PÁRRAFOS PRIMERO, CUARTO Y QUINTO; Y LA FRACCIÓN VII DEL ARTÍCULO 168 Y EL ARTÍCULO 168 BIS; Y SE ADICIONA UNA FRACCIÓN VIII RECORRIÉNDOSE EN ORDEN LA SUBSECUENTE AL ARTÍCULO 168, DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+SEGUNDO. El Pleno del Tribunal de Justicia Administrativa contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto para remitir al Congreso el listado, acompañado del expediente debidamente foliado y pormenorizado de los cinco aspirantes mejores evaluados, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos, el examen practicado y su resultado, para que el Congreso designe a quien deba ocupar el cargo de titular del Órgano Interno de Control.
