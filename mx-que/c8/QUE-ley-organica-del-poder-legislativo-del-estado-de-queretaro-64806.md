@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2018-09-26"
+last_updated: "2018-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "QUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE OCTUBRE DE 2018.]
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -273,7 +273,9 @@ II. Desempeñar cualquier otro cargo o empleo en los Poderes del Estado, la Fede
 
 Se exceptúan de lo anterior aquellos cargos, nombramientos o comisiones derivadas del ejercicio como Diputados;
 
-III. Presidir más de una Comisión Ordinaria o integrar más de cuatro comisiones ordinarias en un mismo periodo de la Legislatura;
+> <small>(F. DE E., P.O. 17 DE OCTUBRE DE 2018)</small>
+
+III. Presidir más de una Comisión Ordinaria o integrar más de tres comisiones ordinarias en un mismo periodo de la Legislatura;
 
 IV. Cambiar el sentido de su voto una vez que se haya registrado por la secretaría del órgano respectivo, de tal forma que influya en el resultado del cómputo y que no exista claridad en el sentido del mismo;
 
@@ -451,7 +453,9 @@ VII. Elección de Mesa de Directiva, en su caso; y
 
 VIII. Término de la Sesión.
 
-Al momento de hacer la declaratoria de instalación de la Legislatura la Presidencia de la misma deberá indicar: "La (número ordinal que corresponda) Legislatura del Estado de Querétaro queda legalmente instalada y constituida, el día veintiséis de septiembre del año (año que corresponda)".
+> <small>(F. DE E., P.O. 17 DE OCTUBRE DE 2018)</small>
+
+Al momento de hacer la declaratoria de instalación de la Legislatura la Presidencia de la misma deberá indicar: "La (número ordinal que corresponda) Legislatura del Estado de Querétaro queda legalmente instalada y constituida, el día veintiséis de septiembre del año (que corresponda)".
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -645,11 +649,11 @@ e) Propuesta de creación, interpretación, reforma, derogación o abrogación d
 
 Cuando la iniciativa proponga la creación de organismos, dependencias o la ampliación de la estructura gubernamental, deberá justificarse la suficiencia presupuestal.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
 ###### Artículo 43.
 
-(Iniciativas presentadas por particulares) Las iniciativas de particulares serán presentadas en los términos de (sic) Constitución Política del Estado de Querétaro, la Ley de Participación Ciudadana del Estado de Querétaro y la presente Ley.
+(Iniciativas presentadas por particulares) Las iniciativas de particulares serán presentadas en los términos de la Constitución Política del Estado de Querétaro, la Ley de Participación Ciudadana del Estado de Querétaro y la presente Ley
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1767,9 +1771,9 @@ Las convocatorias para sesionar en Mesa Directiva deberán entregarse con al men
 
 De las sesiones de la Mesa Directiva se levantará acta por parte del Secretario que señale el Presidente, en la que se asienten los acuerdos respectivos.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
-Cuando exista empate en las votaciones de las resoluciones la Mesa Directiva, la Presidencia de la Legislatura ejercerá su voto de calidad.
+Cuando exista empate en las votaciones de las resoluciones de la Mesa Directiva, la Presidencia de la Legislatura ejercerá su voto de calidad.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1883,9 +1887,9 @@ En las sesiones de la Junta en las que se desahoguen asuntos de trámite legisla
 
 (Acuerdos de la Junta de Coordinación Política) Las decisiones de la Junta de Coordinación Política sobre los asuntos que sean de su conocimiento y requieran la emisión de un acuerdo o propuesta, serán adoptadas, preferentemente, por consenso, en caso de que éste no se obtenga será por mayoría de votos, ponderando el porcentaje de la representatividad que corresponda a los Coordinadores de los Grupos y Fracciones Legislativas presentes, atendiendo para ello al número de Diputados que los integre, en relación con la conformación total de la Legislatura en ejercicio constitucional.
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
-#### Sección Cuarta. Ratificación o remoción de funcionarios electos por la Legislatura
+#### Sección Cuarta. Ratificación de funcionarios electos por la Legislatura
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1979,9 +1983,9 @@ V. Asuntos Municipales. Tiene a su cargo asuntos relacionados con la competencia
 
 VI. Ciencia, Tecnología e innovación. Tiene a su cargo la atención de asuntos relacionados con el fomento de los avances científicos, tecnológicos e innovadores conforme a las disposiciones legales vigentes;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
-VII. Educación y Cultura. Tiene a su cargo la atención de asuntos en materia formativa, de enseñanza e infraestructura, así como los relacionados con el fomento de las actividades culturales y artísticas en el Estado de Querétaro;
+VII. Educación y Cultura. Tiene a su cargo la atención de asuntos en materia formativa, de enseñanza e infraestructura educativa, así como los relacionados con el fomento de las actividades culturales y artísticas en el Estado de Querétaro;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2071,11 +2075,11 @@ Segunda parte
 
 Funcionamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
 ###### Artículo 147.
 
-(Facultades de las (sic) Presidente de Comisiones) Corresponde a las Presidencias de las Comisiones:
+(Facultades de las Presidencias de las Comisiones) Corresponde a las Presidencias de las Comisiones:
 
 I. Convocar y presidir las sesiones;
 
@@ -2151,9 +2155,9 @@ II. La fecha, lugar y hora programada para la sesión;
 
 III. El orden del día; y
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
-IV. La firma autógrafa, firma electrónica de la Presidencia de la Comisión, de conformidad con la presente Ley.
+IV. La firma autógrafa o firma electrónica de la Presidencia de la Comisión, de conformidad con la presente Ley.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2227,9 +2231,9 @@ El personal externo de apoyo a los trabajos de las comisiones serán responsabil
 
 (Dependencias) Son dependencias del Poder Legislativo:
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
-I. 0La (sic) Secretaría de Servicios Parlamentarios;
+I. La Secretaría de Servicios Parlamentarios;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2351,9 +2355,9 @@ VII. A través del personal a su cargo, prestar, conducir y controlar los servic
 
 VIII. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
-IX. Proponer conjuntamente con el Director de Servicios Administrativos, a la Junta de Coordinación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y demás disposiciones aplicables;
+IX. Proponer conjuntamente con el Director de Servicios Financieros, a la Junta de Coordinación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y demás disposiciones aplicables;
 
 X. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento;
 
@@ -2459,11 +2463,11 @@ La Secretaría de Servicios Parlamentarios se encuentra orgánicamente subordina
 
 (Requisitos) Para ser titular de la Secretaría de Servicios Parlamentarios se requiere poseer título profesional de licenciatura en derecho y experiencia de tres años en el ámbito legislativo contados a partir de la expedición del título y acreditar maestría en el ámbito jurídico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
 ###### Artículo 178.
 
-(Facultades y obligaciones de la Secretaría de Servicios Parlamentarios) Corresponde (sic) la Secretaría de Servicios Parlamentarios:
+(Facultades y obligaciones de la Secretaría de Servicios Parlamentarios) Corresponde a la Secretaría de Servicios Parlamentarios:
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
