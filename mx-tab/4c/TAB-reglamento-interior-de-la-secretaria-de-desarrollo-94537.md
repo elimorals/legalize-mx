@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-desarrollo-94537"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2014-11-29"
+last_updated: "2018-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Suplemento 7363 del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
@@ -95,9 +95,13 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 1.2. Dirección de Administración.
 
-1.3. Unidad de Asuntos Jurídicos y de Acceso a la Información.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-1.4. Dirección de Tecnologías de Información y Comunicación.
+1.3. Unidad de Asuntos Jurídicos y Transparencia.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+1.4. Dirección de Tecnologías de la Información y Comunicaciones.
 
 1.5. Unidad de Apoyo Ejecutivo.
 
@@ -109,7 +113,7 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 2. COORDINACIÓN DE DESARROLLO RURAL.
 
-2.1. Unidad de Apoyo Ejecutivo.
+2.1. (DEROGADO, P.O. 17 DE OCTUBRE DE 2018)
 
 2.2. Dirección de Capacitación y Asistencia Técnica.
 
@@ -200,6 +204,12 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 9.5. Fondo de Garantía Mutualista Tabasco (FOGAMU).
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8.
+
+La Secretaría cuenta con un Órgano Interno de Control que se regirá conforme a lo dispuesto por el Título Noveno Bis del presente Reglamento.
 
 Artículo 9 (sic). Los servidores públicos de la Secretaría están obligados a guardar estricta reserva y confidencialidad sobre los asuntos de su competencia, sujetando sus actos a la aplicabilidad de las disposiciones legales conducentes.
 
@@ -317,9 +327,13 @@ VIII. Coordinar y supervisar los sistemas de contabilidad y control financiero d
 
 IX. Coordinar la atención de auditorías con las áreas involucradas de la Secretaría, para su cumplimiento;
 
-X. Supervisar el trámite de las nóminas, conforme a las directrices y lineamientos establecidos por la Secretaría de Administración;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
-XI. Supervisar los movimientos de altas, bajas, cambios de adscripción, promociones, reclasificaciones, reingresos, permisos sin goce de sueldo y demás trámites del personal de la Secretaría, ante la Secretaría de Administración;
+X. Supervisar el trámite de las nóminas, conforme a las directrices y lineamientos establecidos por la Secretaría de Administración e Innovación Gubernamental;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XI. Supervisar los movimientos de altas, bajas, cambios de adscripción, promociones, reclasificaciones, reingresos, permisos sin goce de sueldo y demás trámites del personal de la Secretaría, ante la Secretaría de Administración e Innovación Gubernamental;
 
 XII. Presidir las reuniones del Subcomité de compras de la Secretaría, ante el Comité de Compras del Poder Ejecutivo del Estado.
 
@@ -343,11 +357,15 @@ III. Subdirección de Recursos Financieros y Contabilidad y
 
 IV. Subdirección de Recursos Materiales y Servicios Generales.
 
-### CAPÍTULO III. UNIDAD DE ASUNTOS JURÍDICOS Y DE ACCESO A LA INFORMACIÓN
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO III. UNIDAD DE ASUNTOS JURÍDICOS Y TRANSPARENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 16.
 
-Corresponde a la Unidad de Asuntos Jurídicos y de Acceso a la Información, el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Asuntos Jurídicos y Transparencia, el ejercicio de las siguientes atribuciones:
 
 I. Fungir como Representante legal de la Secretaría, ante las autoridades federales, del fuero común, administrativas y del trabajo para promover y realizar todos los actos permitidos por las leyes que favorezcan a la Secretaría;
 
@@ -367,15 +385,21 @@ VIII. Realizar cobros extrajudiciales, reconocimientos de adeudos, compromisos d
 
 IX. Expedir certificaciones de los documentos existentes en los archivos de la Secretaría, por mandato de autoridad debidamente fundado y motivado;
 
-X. Ejercer las atribuciones que establece el Artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+X. Ejercer las atribuciones que establece la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco; y
 
 XI. Las demás que le encomiende el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
-### CAPÍTULO IV. DE LA DIRECCION DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO IV. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-Corresponde a la Dirección de Tecnologías de Información y Comunicación, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Tecnologías de la Información y Comunicaciones, el ejercicio de las siguientes atribuciones:
 
 I. Coordinar, desarrollar e implementar los sistemas de información que sean requeridos por las unidades administrativas de la Secretaría;
 
@@ -549,7 +573,9 @@ X. Implementar las acciones de mejora regulatoria, para la simplificación admin
 
 XI. Implementar las acciones de capacitación, actualización y evaluación de los recursos humanos adscritos a su unidad administrativa;
 
-XII. Proporcionar la información que le sea solicitada por la Unidad de Asuntos Jurídicos y de Acceso a la Información, en relación al acceso a la información de esta Secretaría;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+XII. Proporcionar la información que le sea solicitada por la Unidad de Asuntos Jurídicos y Transparencia, en relación al acceso a la información de esta Secretaría;
 
 XIII. Establecer esquemas de coordinación con las áreas de la Secretaría para el desempeño de sus atribuciones; y
 
@@ -599,7 +625,7 @@ XVI. Las demás que le encomiende el Secretario y las que determinen las disposi
 
 Para el desempeño de sus atribuciones, la Coordinación de Desarrollo Rural contará con las siguientes Unidades Administrativas:
 
-I. Unidad de Apoyo Ejecutivo;
+I. (DEROGADA, P.O. 17 DE OCTUBRE DE 2018)
 
 II. Dirección de Organización para la Producción;
 
@@ -1085,11 +1111,23 @@ X. Establecer en coordinación con las instancias federales competentes, los pun
 
 XI. Las demás que le encomien.de el superior jerárquico, el Secretario y las que determinen las disposiciones legales y administrativas aplicables.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+## TÍTULO NOVENO BIS. ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 39 Bis.
+
+En términos del artículo 37, fracción X de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, el Titular del Órgano Interno de Control será designado y removido por la Secretaría de Contraloría, y dependerá jerárquica y funcionalmente de la misma.
+
+Tendrá las funciones y responsabilidades que establece la Ley General de Responsabilidades Administrativas; las que señalen otros ordenamientos y lo que disponga la Secretaría de Contraloría.
+
+Contará con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras para garantizar la independencia entre ambas en el ejercicio de dichas funciones.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ## TÍTULO DÉCIMO. DEL ÓRGANO DE CONSULTA, ÓRGANO DESCONCENTRADO Y ENTIDADES SECTORIZADAS DE LA SECRETARÍA
-
-## TÍTULO UNDÉCIMO. AUSENCIAS Y SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
 ### CAPÍTULO I. DEL ÓRGANO DE CONSULTA
 
@@ -1129,13 +1167,15 @@ V. Fondo de Garantía Mutualista Tabasco (FOGAMU); y
 
 VI. Las demás que con ese carácter estén constituidas o que se constituyan.
 
+## TÍTULO UNDÉCIMO. AUSENCIAS Y SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
+
 ### CAPÍTULO ÚNICO. DE LAS AUSENCIAS Y SUPLENCIAS
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la Secretaría, estarán a cargo del Coordinador de Desarrollo Rural, Subsecretarios de Desarrollo Agrícola, de Ganadería, de Pesca y Acuicultura y la Dirección General de Desarrollo Regional o del Titular de la Unidad de Asuntos Jurídicos y Acceso a la Información, en el orden mencionado.
+Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la Secretaría, estarán a cargo del Coordinador de Desarrollo Rural, Subsecretarios de Desarrollo Agrícola, de Ganadería, de Pesca y Acuicultura y la Dirección General de Desarrollo Regional o del titular de la Unidad de Asuntos Jurídicos y Transparencia, en el orden mencionado.
 
 En la ausencia del Titular de la Coordinación, de las Subsecretarías, de la Dirección General y demás Unidades Administrativas, serán suplidos para el despacho de los asuntos de su correspondiente competencia, por su ausencia no mayores a 15 días, por el servidor público que ellos designen, en las ausencias mayores a 15 días por quien designe el Secretario.
 
@@ -1176,3 +1216,13 @@ SEGUNDO. Los asuntos que con motivo de las reformas a este Reglamento deban tran
 TERCERO. Para el mejor funcionamiento, de las unidades administrativas que integran a la Secretaría se deberán actualizar los respectivos manuales de Organización y Procedimientos.
 
 CUARTO. En tanto se expiden los Manuales señalados en el artículo anterior, en caso de duda sobre la interpretación del reglamento, el Secretario queda facultado para resolver lo conducente
+
+P.O. 17 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE REFORMAN LOS NUMERALES 1.3 Y 1.4 DEL ARTÍCULO 7; EL ARTÍCULO 14, FRACCIONES X Y XI; LA DENOMINACIÓN DEL CAPÍTULO III, DEL TÍTULO TERCERO, PARA QUEDAR COMO "UNIDAD DE ASUNTOS JURÍDICOS Y TRANSPARENCIA"; EL ARTÍCULO 16, PÁRRAFO PRIMERO, Y LA FRACCIÓN X; LA DENOMINACIÓN DEL CAPÍTULO IV, DEL TÍTULO TERCERO, PARA QUEDAR COMO "DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES"; 17, PÁRRAFO PRIMERO; 21, FRACCIÓN XII; Y EL ARTÍCULO 42, PÁRRAFO PRIMERO. SE ADICIONA EL ARTÍCULO 8; EL TÍTULO NOVENO BIS, DENOMINADO "ÓRGANO INTERNO DE CONTROL", INTEGRADO POR EL ARTÍCULO 39 BIS. SE DEROGA EL PUNTO 2.1, DEL ARTÍCULO 7 Y LA FRACCIÓN I DEL ARTÍCULO 23, TODOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para el mejor funcionamiento de las unidades administrativas que integran la Secretaría, se deberán actualizar los respectivos Manuales de Organización y Procedimientos en un plazo de 90 días contados a partir de la entrada en vigor del presente Acuerdo.
+
+TERCERO. En tanto se expidan los manuales señalados en el artículo anterior, en caso de duda sobre la interpretación del presente Reglamento, el Secretario queda facultado para resolver lo conducente.
