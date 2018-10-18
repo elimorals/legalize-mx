@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2018-09-11"
+last_updated: "2018-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "VER"
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL EL 18 DE OCTUBRE DE 2018.]
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -387,21 +389,21 @@ IV. Un representante del Poder Legislativo, que será la presidenta de la Comisi
 
 V. Un representante del Organismo Público Local Electoral de Veracruz;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017) (F. DE E., G.O. 18 DE OCTUBRE DE 2018)
 
-VI. La titular del Instituto Veracruzano de las Mujeres, que fungirá como secretaria ejecutiva del Sistema;
+VI. La titular del Instituto Veracruzano de las Mujeres, que fungirá como Secretaria Ejecutiva del Sistema;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017) (F. DE E., G.O. 18 DE OCTUBRE DE 2018)
 
-VII. Tres mujeres representantes de Organizaciones Civiles Especializadas, con probado currículum en trabajo relativo a los derechos humanos de las mujeres y un mínimo de experiencia de cinco años, designadas por el Congreso a propuesta de las Comisiones Permanentes Unidas Para la Igualdad de Género y de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado; y
+VII. Tres mujeres representantes de Organizaciones Civiles Especializadas, con probado currículum en trabajo relativo a los Derechos Humanos de las Mujeres y un mínimo de experiencia de cinco años, designadas por el Congreso a propuesta de las Comisiones Permanentes Unidas Para la Igualdad de Género y de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado; y
 
-> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017) (F. DE E., G.O. 18 DE OCTUBRE DE 2018)
 
-VIII. Dos mujeres especializadas en los derechos humanos de las mujeres, representantes de instituciones académicas y de investigación, designadas por el Congreso del Estado.
+VIII. Dos mujeres especializadas en los Derechos Humanos de las mujeres, representantes de Instituciones Académicas y de Investigación, designadas por el Congreso del Estado.
 
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017) (F. DE E., G.O. 18 DE OCTUBRE DE 2018)
 
-Las integrantes señaladas en las fracciones VI y VII, durarán en su encargo tres años.
+Las integrantes señaladas en las fracciones VII y VIII, durarán en su encargo tres años.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
