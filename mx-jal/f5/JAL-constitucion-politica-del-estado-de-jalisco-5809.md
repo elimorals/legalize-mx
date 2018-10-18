@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2018-03-01"
+last_updated: "2018-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1493,7 +1493,9 @@ f) No haber sido condenado por delito doloso que amerite pena corporal de más d
 
 g) No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establezcan las leyes;
 
-h) No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, magistrado del (sic) algún tribunal estatal, integrante del Consejo de la Judicatura del Estado, encargado de alguna hacienda municipal o diputado, durante los dos años previos a su designación;
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2018)</small>
+
+h) No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General del Estado, Fiscal Central, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, magistrado de algún tribunal estatal, integrante del Consejo de la Judicatura del Estado, encargado de alguna hacienda municipal o diputado, durante los dos años previos a su designación;
 
 i) No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo dos años antes al día en que tenga verificativo su designación;
 
@@ -1541,9 +1543,9 @@ III. Ser nativo del Estado o avecindado en él, cuando menos, cinco años inmedi
 
 IV. No estar en servicio activo en el Ejército Nacional ni en las fuerzas de seguridad pública del Estado, cuando menos noventa días anteriores a la elección, y
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2018)</small>
 
-V. No ser Secretario General de Gobierno, Fiscal General o Secretario del Despacho del Poder Ejecutivo, a no ser que se separe del cargo cuando menos noventa días antes de la elección.
+V. No ser Secretario del Poder Ejecutivo del Estado, Fiscal General del Estado, Fiscal Central, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón, a no ser que se separe del cargo cuando menos noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -1921,9 +1923,9 @@ III. Poseer el día de la elección, con antigüedad mínima de diez años, tít
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2018)</small>
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General, integrante del Consejo de la Judicatura, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento durante el año previo al día de la elección, y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General del Estado, Fiscal Central, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento durante el año previo al día de la elección, y
 
 VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día en que tenga verificativo la elección.
 
@@ -3900,3 +3902,11 @@ P.O. 1 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26486/LXI/17 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 50 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día 2 de febrero de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26750/LXI/18 QUE REFORMA LOS ARTÍCULOS 35 BIS, 37 Y 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO ASÍ COMO EL ACUERDO LEGISLATIVO AL-2081-LXI-18”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las reformas aprobadas en el presente decreto no serán aplicables a los procesos para la designación o elección de funcionarios iniciados con anterioridad a su publicación.
