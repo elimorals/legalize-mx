@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2018-10-09"
+last_updated: "2018-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "VER"
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 9 DE OCTUBRE DE 2018.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 18 DE OCTUBRE DE 2018 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.O. DE 23 DE NOVIEMBRE DE 2017.]</small>
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
