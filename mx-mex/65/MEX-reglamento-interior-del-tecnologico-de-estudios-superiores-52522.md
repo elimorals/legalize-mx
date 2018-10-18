@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-5252
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-05"
-last_updated: "2011-10-14"
+last_updated: "2018-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CUAUTITLAN IZCALLI
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CUAUTITLAN IZCALLI
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CUAUTITLÁN IZCALLI, PUBLICADO EN LA G.G. DE 18 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 14 DE OCTUBRE DE 2011.
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CUAUTITLÁN IZCALLI DEL ESTADO DE MÉXICO
 
-Reglamento publicado en la Sección Primera del la Gaceta de Gobierno del Estado de México, el martes 5 de diciembre de 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE OCTUBRE DE 2018 (ABROGADO).
+
+Reglamento publicado en la Sección Primera de la Gaceta de Gobierno del Estado de México, el martes 5 de diciembre de 2006.
 
 LA JUNTA DIRECTIVA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CUAUTITLÁN IZCALLI, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTÍCULO 13 FRACCIÓN V DEL DECRETO DEL EJECUTIVO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CUAUTITLÁN IZCALLI; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -489,7 +493,7 @@ DIRECTOR GENERAL DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CUAUTITLÁN IZCALLI 
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 14 DE OCTUBRE DE 2011.
 
@@ -498,3 +502,13 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 18 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CUAUTITLÁN IZCALLI”.]
+
+PRIMERO.- Publíquese el presente reglamento en el Periódico Oficial “Gaceta de (sic) Gobierno”.
+
+SEGUNDO.- Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se abroga el Reglamento Interior del Tecnológico de Estudios Superiores de Cuautitlán Izcalli, publicado en el Periódico Oficial “Gaceta del Gobierno” el 5 de diciembre de 2006.
