@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-de-los-derechos-y-apoyo-a-los-102428"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2016-07-29"
+last_updated: "2018-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y APOYO A LOS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 12 de septiembre de 2014.
 
@@ -190,6 +190,14 @@ Los mexicanos y extranjeros residentes temporales o permanentes en el estado de 
 ###### ARTÍCULO 21.
 
 Las autoridades estatales y municipales están obligadas a brindar las facilidades y atender los casos de cambios de estado civil, domicilio o lugar de trabajo de extranjeros residentes temporales o permanentes en el estado de Baja California, en los términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+Las autoridades estatales y municipales coadyuvaran con el gobierno federal en la ejecución de programas de empleo temporal para migrantes que se encuentren inscritos en el Registro.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+El Estado y los municipios ejecutaran programas de capacitación para el empleo y orientación para la realización de proyectos productivos con los cuales los migrantes inscritos en el Registro puedan mejorar su calidad de vida, así como replicar, en sus comunidades de origen o en su lugar de residencia, aquellas habilidades y conocimientos obtenidos.
 
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE ATENCIÓN AL MIGRANTE
 
@@ -358,3 +366,9 @@ P.O. 29 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 507 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 29, 30 Y 31 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y APOYO A LOS MIGRANTES PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 266 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 21 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y APOYO A LOS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
