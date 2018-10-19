@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2018-07-13"
+last_updated: "2018-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -963,9 +963,13 @@ Al concluir el último ejercicio presupuestal, del período constitucional, los 
 
 5. Enviar al Congreso del Estado para su estudio y aprobación, los proyectos de contratación de créditos que afecten los ingresos de la administración municipal.
 
-6. Aprobar los estados financieros mensuales que presente el tesorero municipal y publicarlos en el Periódico Oficial del Estado, cada tres meses.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-7. Presentar al Congreso del Estado la cuenta pública de la hacienda municipal, integrada por los informes trimestrales de origen y aplicación de los recursos públicos, mismos que deberán ser presentados dentro de los quince días siguientes al término del trimestre que corresponda; asimismo verificar la presentación de la cuenta pública del sector paramunicipal.
+6. Aprobar los estados financieros mensuales que presente el tesorero municipal a través de la Comisión de Hacienda, Patrimonio y Cuenta Pública y publicarlos en el Periódico Oficial del Estado o en su caso, en el órgano de información del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+7. Presentar al Congreso del Estado la cuenta pública anual de la hacienda municipal y los informes trimestrales de avance de gestión financiera, dentro de los plazos que establece la Ley de la materia, así como verificar la presentación de la cuenta pública del sector paramunicipal.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2017)</small>
 
@@ -1143,9 +1147,13 @@ E). Hacienda Pública Municipal:
 
 I. Mandar publicar en la gaceta oficial del municipio o en el periódico oficial del Gobierno del Estado, el presupuesto de egresos.
 
-II. Vigilar la realización mensual de los estados financieros y de las cuentas públicas trimestrales y autorizarlos antes de ser turnados al Ayuntamiento en pleno, para su estudio, aprobación y envío en su caso al Congreso del Estado.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-III. Practicar visitas a la Tesorería Municipal y demás oficinas que tengan a su cargo el manejo de fondos y valores, informando de su resultado al Ayuntamiento y aprobar, en unión del síndico, los estados financieros mensuales.
+II. Vigilar la oportuna presentación de los estados financieros mensuales, los informes trimestrales de avance de gestión financiera y la cuenta pública anual, en los términos de la legislación aplicable.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+III. Practicar visitas a la Tesorería Municipal y demás oficinas que tengan a su cargo el manejo de fondos y valores, informando de su resultado al Ayuntamiento.
 
 IV. Vigilar que la recaudación de las contribuciones y demás ingresos propios del municipio se realicen conforme a las leyes aplicables.
 
@@ -1293,11 +1301,15 @@ La Comisión de Hacienda, Patrimonio y Cuenta Pública tendrá además de las qu
 
 I. Formular anualmente los proyectos de Ley de Ingresos y de Presupuesto de Egresos, presentándolos al Ayuntamiento, para su revisión y aprobación, en su caso, a más tardar, el día 15 del mes de septiembre del año anterior al de su ejercicio.
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-II. Examinar, glosar y aprobar, las cuentas que rindiere la Tesorería Municipal, dentro de los primeros cinco días de cada mes. Para tal efecto, la Comisión o el Regidor del ramo emitirá un dictamen que se pondrá a la consideración del Ayuntamiento.
+II. Analizar, glosar y dictaminar los estados financieros mensuales dentro de los primeros doce días hábiles posteriores a la conclusión del período de que se trate. El dictamen respectivo deberá ser sometido a la consideración del Ayuntamiento en el mismo mes en que se dictamine.
 
 III. Vigilar la exacta aplicación de las leyes fiscales.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+IV. Analizar y dictaminar los informes trimestrales de avance de gestión financiera y la cuenta pública anual de la hacienda municipal para someterlos a la consideración del Ayuntamiento.
 
 ###### ARTÍCULO 113.
 
@@ -1491,15 +1503,17 @@ V. Efectuar los pagos de salarios, gastos y demás erogaciones conforme al presu
 
 VI. Organizar la contabilidad y control del ejercicio presupuestal de la Tesorería y demás dependencias municipales, organismos descentralizados y entidades paramunicipales, en general, de conformidad con las disposiciones que sobre la materia emita la Auditoría Superior del Estado.
 
-VII. Presentar al Presidente Municipal para su aprobación, dentro de los primeros 5 días da cada mes, el estado financiero correspondiente al mes anterior.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+VII. Presentar a la comisión de hacienda del Ayuntamiento, dentro de los primeros siete días hábiles de cada mes, los estados financieros que correspondan al mes anterior.
 
 VIII. Formular, conservar, registrar y actualizar permanentemente un inventario detallado de los bienes municipales, dando cuenta al Ayuntamiento en el mes de diciembre de cada año.
 
 IX. Presentar anualmente al Ayuntamiento, para su consideración, a más tardar el 31 de agosto de cada año, los anteproyectos de Ley de Ingresos y Presupuesto de Egresos para el siguiente ejercicio fiscal.
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-X. Presentar al Ayuntamiento, para su autorización y glosa, en forma pormenorizada, la cuenta pública y los informes de avance, incluyendo los documentos, libros de ingresos y egresos de la tesorería, correspondientes de conformidad con los términos establecidos por la ley de Fiscalización Superior para el Estado de Coahuila. Presentar a la Auditoria Superior o al Congreso del Estado las cuentas, informes contables y financieros que le soliciten en los términos de la ley.
+X. Presentar al Ayuntamiento, para su autorización y glosa, en forma pormenorizada, la cuenta pública anual y los informes trimestrales de avance de gestión financiera, incluyendo los documentos, libros de ingresos y egresos de la Tesorería, correspondientes de conformidad con los términos establecidos por la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila. Presentar a la Auditoría Superior o al Congreso del Estado las cuentas, informes contables y financieros que le soliciten en los términos de la ley.
 
 XI. Hacer conjuntamente con el Síndico, las gestiones oportunas en los asuntos de interés para la hacienda municipal.
 
@@ -4573,7 +4587,7 @@ Segundo.- Se derogan todas las disposiciones legales que se opongan al presente 
 
 P.O. 13 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 50.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 180 Y SE ADICIONA UN PÁRRAFO FINAL AL ARTÍCULO 399, AMBOS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 50.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 180 Y SE ADICIONA UN PÁRRAFO FINAL AL ARTÍCULO 399, AMBOS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4582,3 +4596,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 74.- SE REFORMAN LOS ARTÍCULOS 102, FRACCIÓN V, NUMERALES 6 Y 7; 104, APARTADO E, FRACCIONES II Y III; 112, FRACCIÓN II; 129 FRACCIONES VII Y X, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 112 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
