@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2017-12-26"
+last_updated: "2018-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -1647,7 +1647,9 @@ El Comité de Transparencia tendrá las siguientes funciones:
 
 I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
 
-II. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información o declaración de inexistencia o incompetencia realicen los titulares de las áreas de los sujetos obligados;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+II. Confirmar, modificar o revocar las determinaciones que en materia de clasificación de la información o declaración de inexistencia, realicen los titulares de las áreas de los sujetos obligados;
 
 III. Ordenar, en su caso, a las áreas competentes que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión, o que previa acreditación de la imposibilidad de su generación, expongan, de forma fundada y motivada las razones por las cuales en el caso particular no ejercieron dichas facultades, competencias o funciones;
 
@@ -2906,3 +2908,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 75.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 88 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA.".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
