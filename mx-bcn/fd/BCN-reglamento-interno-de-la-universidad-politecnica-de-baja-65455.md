@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-universidad-politecnica-de-baja-65455"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-12"
-last_updated: "2008-12-12"
+last_updated: "2018-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA UNIVERSIDAD POLITECNICA DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DE LA UNIVERSIDAD POLITECNICA DE BAJA CALIFORNIA
+REGLAMENTO INTERNO DE LA UNIVERSIDAD POLITÉCNICA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 12 de diciembre de 2008.
 
@@ -219,17 +219,23 @@ I. Rectoría
 
 a) Unidad Jurídica;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+b) Órgano Interno de Control
+
 II. Secretaría Académica
 
 a) Departamento de Gestión Escolar;
 
 b) Departamento de Soporte Técnico;
 
-c) Dirección de Programa Ingeniería en Mecatrónica;
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-d) Dirección de Programa Ingeniería en Tecnologías de la Información;
+c) Direcciones de Programas Académicos
 
-e) Dirección de Programa Ingeniería en Tecnologías de Manufactura.
+d) (DEROGADO, P.O. 19 DE OCTUBRE DE 2018)
+
+e) (DEROGADO, P.O. 19 DE OCTUBRE DE 2018)
 
 III. Secretaría Administrativa
 
@@ -239,15 +245,23 @@ b) Departamento de Recursos Materiales;
 
 c) Departamento de Finanzas.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 22 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Universidad Politécnica, contará con un Comité de Transparencia y una Unidad de Transparencia, las cuales se organizarán y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La Unidad de Transparencia recaerá en la Unidad Administrativa que se determine en el presente instrumento.
+
 #### SECCIÓN I. DE LA RECTORÍA
 
 ###### ARTÍCULO 23.
 
 La Rectoría tendrá las atribuciones que expresamente le señala el Decreto.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 24.
 
-Para el adecuado cumplimiento de sus atribuciones la Rectoría contará con la Unidad Jurídica.
+Para el adecuado cumplimiento de sus atribuciones la Rectoría contará con la Unidad Jurídica y el Órgano Interno de Control.
 
 ###### ARTÍCULO 25.
 
@@ -271,9 +285,17 @@ VIII. Tomar parte en las controversias laborales de la Universidad Politécnica;
 
 IX. Gestionar ante las instancias correspondientes la publicación en el Periódico Oficial del Estado de Baja California, los instrumentos legales que por su naturaleza así lo ameriten;
 
-X. Asesorar y/o proponer la actualización o modificación de la normatividad vigente; y,
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XI. Las demás atribuciones que le confiera el Rector y las disposiciones aplicables.
+X. Asesorar y/o proponer la actualización o modificación de la normatividad vigente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XI. Fungir como responsable de la Unidad de Transparencia, ejerciendo las atribuciones y cumpliendo las obligaciones que para dicho cargo establecen, la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y demás disposiciones aplicables; y
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XII. Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 26.
 
@@ -286,6 +308,44 @@ II. Ser mayor de 30 años y menor de 64 años al momento de la designación;
 III. Poseer título de Licenciado en Derecho expedido con una antigüedad de por lo menos 3 años, así como contar con cedula profesional con efectos de patente para el ejercicio profesional, que cuente con Registro Profesional del Estado, de conformidad con la Ley del Ejercicio de Profesiones del Estado, para el cabal cumplimiento de sus funciones, y,
 
 IV. Ser persona de amplia solvencia moral y de reconocido prestigio profesional.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 26 BIS.- El Órgano Interno de Control de la Universidad Politécnica para el cumplimiento de lo previsto en (sic) artículo 92 Apartado A, fracción IV y B de la Constitución Política del Estado Libre y Soberano de Baja California; además de las facultades y obligaciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental contara con las siguientes atribuciones:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Universidad Politécnica y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la Universidad Politécnica;
+
+III. Revisar que las operaciones presupuestales que realice la Universidad Politécnica se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+IV. Requerir a las unidades administrativas de la Universidad Politécnica que correspondan, el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías, verificaciones y revisiones, y formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+V. Informar al titular de la Universidad Politécnica sobre los resultados de las revisiones, auditorías y verificaciones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+VI. Asistir a reuniones del Subcomité de Adquisiciones de la Universidad Politécnica, y vigilar que ésta última realice las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y de obra pública, equipamiento, suministros y servicios con apego a las leyes en la materia;
+
+VII. Requerir a terceros que hubieran contratado bienes o servicios con la Universidad Politécnica la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IX. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental las políticas para simplificar y homogeneizar sus funciones;
+
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Universidad Politécnica cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+XI. Requerir a los servidores públicos de la Universidad Politécnica información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XII. Atender los requerimientos que le formulen al Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XIII. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
+
+XIV. Coadyuvar en el programa de actualización del marco de actuación de la Universidad Politécnica en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen, y
+
+XV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 26 TER.- El Órgano Interno de Control contará con el personal y recursos necesarios, que garanticen el ejercicio independiente de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 #### SECCIÓN II. DE LA SECRETARÍA ACADÉMICA
 
@@ -331,11 +391,13 @@ a) Departamento de Gestión Escolar;
 
 b) Departamento de Soporte Técnico;
 
-c) Dirección de Programa Ingeniería en Mecatrónica;
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-d) Dirección de Programa Ingeniería en Tecnologías de la Información;
+c) Direcciones de Programas Académicos
 
-e) Dirección de Programa Ingeniería en Tecnologías de Manufactura.
+d) (DEROGADO, P.O. 19 DE OCTUBRE DE 2018)
+
+e) (DEROGADO, P.O. 19 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 29.
 
@@ -409,11 +471,13 @@ XVI. Coordinar el desarrollo de las actividades de los usuarios del laboratorio 
 
 XVII. Las demás atribuciones que le confiera el Rector y las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 31.
 
-La Dirección de Programa Ingeniería en Mecatrónica tendrá las siguientes atribuciones:
+Las Direcciones de Programas Académicos tendrán las siguientes atribuciones:
 
-I. Validar las actas internas de calificaciones del Programa Ingeniería en Mecatrónica;
+I. Validar las actas internas de calificaciones del Programa Académico aplicable;
 
 II. Proponer y autorizar las cargas académicas de profesores de tiempo completo y de asignatura;
 
@@ -421,59 +485,25 @@ III. Presentar la solicitud de plazas de profesores de tiempo completo y de asig
 
 IV. Participar en la elaboración de la Convocatoria para el ingreso, promoción y permanencia de los profesores de tiempo completo y de asignatura;
 
-V. Gestionar los recursos materiales según las necesidades del Programa Ingeniería en Mecatrónica;
+V. Gestionar los recursos materiales según las necesidades del Programa Académico aplicable;
 
 VI. Autorizar la validación de pago de horas a los profesores de asignatura;
 
 VII. Autorizar la justificación de pago con goce de sueldo de los maestros de tiempo completo y de asignatura;
-
-VIII. Validar los contratos de profesores de tiempo completo y de asignatura; y,
-
-IX. Las demás atribuciones que le confiera el Rector y las disposiciones aplicables.
-
-###### ARTÍCULO 32.
-
-La Dirección de Programa Ingeniería en Tecnologías de la Información tendrá las siguientes atribuciones:
-
-I. Validar las actas internas de calificaciones del Programa Ingeniería en Tecnologías de la Información;
-
-II. Proponer y autorizar las cargas académicas de profesores de tiempo completo y de asignatura;
-
-III. Presentar la solicitud de plazas de profesores de tiempo completo y de asignaturas al Rector;
-
-IV. Participar en la elaboración de la Convocatoria para el ingreso, promoción y permanencia de los profesores de tiempo completo y de asignatura;
-
-V. Gestionar los recursos materiales según las necesidades del Programa de Ingeniería en Tecnologías de la Información;
-
-VI. Autorizar la validación de pago de horas a los profesores de asignatura;
-
-VII. Autorizar la justificación de pago con goce de sueldo de los maestros de tiempo completo y de asignatura; y
 
 VIII. Validar los contratos de profesores de tiempo completo y de asignatura;
 
-IX. Las demás atribuciones que le confiera el Rector y las disposciones (sic) aplicables.
+IX. Las demás señaladas en las Leyes, Reglamentos, Acuerdos, Decretos y ordenamientos legales aplicables a la Universidad Politécnica.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+###### ARTÍCULO 32.
+
+La Universidad Politécnica contará con las Direcciones de Programas Académicos necesarios, conforme a la oferta educativa que hubiese sido reconocida por la Secretaría de Educación Pública por conducto de su Subsecretaría de Educación Superior, así como las instancias normativas en el Estado; respaldado con la previsión presupuestal contenida en los convenios específicos para la asignación de recursos financieros entre el Estado y la Federación para contribuir a su operación.
 
 ###### ARTÍCULO 33.
 
-La Dirección de Programa Ingeniería en Tecnologías de Manufactura tendrá las siguientes atribuciones:
-
-I. Validar las actas internas de calificaciones del Programa Ingeniería en Tecnologías de Manufactura;
-
-II. Proponer y autorizar las cargas académicas de profesores de tiempo completo y de asignatura;
-
-III. Presentar la solicitud de plazas de profesores de tiempo completo y de asignaturas al Rector;
-
-IV. Participar en la elaboración de la Convocatoria para el ingreso, promoción y permanencia de los profesores de tiempo completo y de asignatura;
-
-V. Gestionar los recursos materiales según las necesidades del Programa de Ingeniería en Tecnologías de Manufactura;
-
-VI. Autorizar la validación de pago de horas a los profesores de asignatura;
-
-VII. Autorizar la justificación de pago con goce de sueldo de los maestros de tiempo completo y de asignatura;
-
-VIII. Validar los contratos de profesores de tiempo completo y de asignatura; y,
-
-IX. Las demás atribuciones que le confiera el Rector y las disposiciones aplicables.
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2018)
 
 #### SECCIÓN III. DE LA SECRETARÍA ADMINISTRATIVA
 
@@ -611,7 +641,7 @@ IX. Informar oportunamente al personal de la Universidad Politécnica sobre sus 
 
 X. Las demás atribuciones que le confiera el Rector y las disposiciones aplicables.
 
-### CAPÍTULO IV. DE lAS FACULTADES Y OBLIGACIONES DE lOS TITULARES
+### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LOS TITULARES
 
 ###### ARTÍCULO 39.
 
@@ -647,7 +677,53 @@ XIV. Designar a quien supla sus ausencias temporales;
 
 XV. Proponer a la Junta Directiva la constitución de comisiones de estudio, mesas técnicas o grupos de trabajo con carácter de permanente o transitorio;
 
-XVI. Las demás que se deriven de la normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XVI. Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XVII. Ejercer las atribuciones y cumplir las obligaciones que establece la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, y demás disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XVIII. Las demás que se deriven de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 39 BIS.- Los Titulares de las Secretarias tendrán las siguientes facultades y obligaciones:
+
+I. Coadyuvar con el Rector en la elaboración e integración (sic) los programas institucionales, el programa operativo anual y el proyecto de presupuesto anual de ingresos y egresos, así como las modificaciones que procedan, en el ámbito de sus respectivas competencias;
+
+II. Presentar para su aprobación al Rector los manuales operativos, así como las modificaciones a los mismos en el ámbito de sus respectivas competencias;
+
+III. Presentar al Rector un informe trimestral que refleja la situación administrativa y laboral de las unidades y personal adscrito a su Secretaría, así como formular todos los informes que les sean requeridos por este, en el ámbito de sus respectivas competencias;
+
+IV. Ejecutar los acuerdos y disposiciones que el Rector les encomiende;
+
+V. Coadyuvar con el Rector, en la dirección, administración y gestión de la Universidad Politécnica, vigilando el cumplimiento de su objeto, planes y programas académicos, administrativos y financieros, así como la correcta operación de las diversas áreas de la Universidad Politécnica;
+
+VI. Coadyuvar en el cumplimiento de las normas y disposiciones reglamentarias de la Universidad Politécnica;
+
+VII. Delegar las funciones ejecutivas que expresamente determine, sin menoscabo de conservar su ejercicio y responsabilidad directa sobre ellas; y
+
+VIII. Las demás que les otorgue el Rector y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 39 TER.- Para ser Titular de las Secretarias se requiere:
+
+I. Ser ciudadano mexicano;
+
+II. Ser mayor de edad;
+
+III. Poseer el título de licenciatura y grado mínimo de maestría preferentemente en alguna de las áreas en la que se va a desempeñar;
+
+IV. Contar con reconocidos méritos profesionales en el ámbito de sus respectivas competencias;
+
+V. Ser una persona de amplia solvencia moral y de reconocido prestigio profesional; y
+
+VI. Las demás que establezcan otras disipaciones aplicables.
 
 ###### ARTÍCULO 40.
 
@@ -709,7 +785,17 @@ XXVII. Suscribir los documentos relativos al ejercicio de sus obligaciones y fac
 
 XXVIII. Llevar a cabo las demás actividades que dentro del área de su competencia, se deriven de la normatividad aplicable; y,
 
-XXIX. Las demás atribuciones que le confiera el Rector, y las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XXIX. Proporcionar la información, asesoría y cooperación que les sean requeridas por quien realice las funciones de la Unidad de Transparencia, el Comité de Transparencia, las demás unidades administrativas de la Universidad Politécnica, dependencias, entidades o autoridades en la materia de su competencia, de acuerdo con las políticas establecidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XXX. Clasificar la información de su área de conformidad con lo dispuesto en el Título Sexto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y conforme al procedimiento previsto en el artículo 130; realizar el Índice de Clasificación respectivo, así como actualizar periódicamente la información pública que obre en sus archivos, conforme a la normatividad de la materia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XXXI. Las demás facultades que le encomiende el Rector en el ámbito de su competencia.
 
 ###### ARTÍCULO 41.
 
@@ -747,7 +833,17 @@ VIII. Optimizar el aprovechamiento de los recursos asignados a su departamento p
 
 IX. Coadyuvar en la elaboración y actualización de proyectos de manuales de organización, funciones, procedimientos y servicios, correspondientes a las actividades encomendadas al área o departamento a su cargo; y,
 
-X. Las demás facultades que le confiera su Jefe inmediato y la normatividad aplicable.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+X. Proporcionar la información, asesoría y cooperación que les sean requeridas por quien realice las funciones de la Unidad de Transparencia, el Comité de Transparencia, las demás unidades administrativas de la Universidad Politécnica, dependencias, entidades o autoridades en la materia de su competencia, de acuerdo con las políticas establecidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XI. Clasificar la información de su área de conformidad con lo dispuesto en el Título Sexto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y conforme al procedimiento previsto en su artículo 130; realizar el Índice de Clasificación respectivo, así como actualizar periódicamente la información pública que obre en sus archivos, conforme a la normatividad de la materia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XII. Las demás que le encomiende el Rector en el ámbito de su competencia.
 
 ###### ARTÍCULO 43.
 
@@ -929,7 +1025,7 @@ Los trabajadores de la Universidad Politécnica, quedan obligados a cumplir con 
 
 ###### ARTÍCULO 65.
 
-Las ausencias temporales del Rector de la Universidad Politécnica que no excedan de quince días naturales, serán suplidas por el servidor público de jerarquia inmediata inferior que éste designe para tal efecto y en aquellas que excedan del tiempo antes citado, su suplente será designado por la Junta Directiva.
+Las ausencias temporales del Rector de la Universidad Politécnica que no excedan de quince días naturales, serán suplidas por el servidor público de jerarquía inmediata inferior que éste designe para tal efecto y en aquellas que excedan del tiempo antes citado, su suplente será designado por la Junta Directiva.
 
 ###### ARTÍCULO 66.
 
@@ -938,6 +1034,12 @@ Las ausencias temporales de los Secretarios Académico y Administrativo, que no 
 ###### ARTÍCULO 67.
 
 Las ausencias temporales de los Directores de Programa y Jefes de Departamento que no excedan de quince días naturales serán suplidas por el servidor público de jerarquía inmediata inferior, que éstos designen para tal efecto, y en aquellas que excedan del tiempo antes citado, su suplente será designado por su Jefe inmediato.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+###### ARTÍCULO 68.
+
+Las ausencias temporales del titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquél, previo acuerdo del Director de Auditoria Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
 TRANSITORIOS:
 
@@ -964,3 +1066,15 @@ JOSÉ FRANCISCO BLAKE MORA
 SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 JOSÉ OSCAR VEGA MARÍN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 22, 24, 25, 28, 31, 32, 39, 40 Y 42; SE ADICIONAN LOS ARTÍCULOS 22 BIS, 26 BIS, 26 TER, 39 BIS, 39 TER, Y EL 68; TODOS DEL REGLAMENTO INTERNO DE LA UNIVERSIDAD POLITÉCNICA DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas al Reglamento Interno de la Universidad Politécnica (sic) Baja California, entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Universidad Politécnica a partir de la entrada en vigor del presente decreto deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental; así como con la Secretaría de Planeación y Finanzas, a fin de realizar las modificaciones presupuestales necesarias que le permitan solventar y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+TERCERO.- La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
