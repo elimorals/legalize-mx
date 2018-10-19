@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2018-01-19"
+last_updated: "2018-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -49,7 +49,9 @@ Las disposiciones contenidas en la presente Ley son de orden público e interés
 
 Se considera como violencia familiar, todo acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicológica, económica o sexualmente a cualquier miembro de la familia, dentro o fuera del domicilio y que tiene por efecto causar daño en cualquiera de los aspectos entendidos por esta Ley como:
 
-I. Físico: todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro, encaminado hacia su sometimiento y control;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+I. Físico: todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro.
 
 II. Psicológico: es la acción u omisión que provoca, en quien lo recibe alteraciones psicológicas o trastornos psiquiátricos;
 
@@ -405,7 +407,7 @@ La Procuraduría impondrá las sanciones previstas en el Capítulo VIII de la Le
 
 Las sanciones impuestas por la Procuraduría serán independientes de las previstas en el convenio respectivo.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 34.
 
@@ -556,3 +558,9 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 ###### ARTÍCULO SEGUNDO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 268 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 2 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
