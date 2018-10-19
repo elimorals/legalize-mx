@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2018-07-20"
+last_updated: "2018-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -35,13 +33,13 @@ XICOTENCATL LEYVA MORTERA
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
-QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACION, LA SIGUIENTE:
+QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACIÓN, LA SIGUIENTE:
 
 LEY:
 
-LA H. XI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCIONES I Y XXX DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR LA SIGUIENTE:
+LA H. XI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 27, FRACCIONES I Y XXX DE LA CONSTITUCIÓN POLÍTICA LOCAL, TIENE A BIEN EXPEDIR LA SIGUIENTE:
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 ## TITULO PRIMERO. DE LA ADMINISTRACION PUBLICA ESTATAL
 
@@ -127,7 +125,7 @@ El Gobernador del Estado podrá convenir con el Ejecutivo Federal y con los Ayun
 
 ###### ARTICULO 7o.
 
-El Gobernador del Estado podrá decidir cuáles Dependencias del Ejecutivo Estatal deberán coordinarse tanto con las Dependencias y Entidades de la Administración Pública Federal, como con las Administraciones Municipales, para el cumplimiento de cualesquiera de los propósitos a que se refiere el Artículo anterior.
+El Gobernador del Estado podrá decidir cuales Dependencias del Ejecutivo Estatal deberán coordinarse tanto con las Dependencias y Entidades de la Administración Pública Federal, como con las Administraciones Municipales, para el cumplimiento de cualesquiera de los propósitos a que se refiere el Artículo anterior.
 
 ###### ARTICULO 8o.
 
@@ -191,7 +189,7 @@ Las Juntas Locales de Conciliación y Arbitraje de Mexicali y Tijuana, son Tribu
 
 ###### ARTICULO 16.
 
-Cuando exista duda respecto de la competencia de las Dependencias para la atención de algún asunto, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
+Cuando exista duda respecto de la competencia de las Dependencias para la atención de algún asunto, el Gobernador del Estado decidirá a cual de ellas le corresponde atenderlo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -755,7 +753,7 @@ VII.- Promover, de acuerdo a los objetivos del Plan Estatal de Desarrollo, la cr
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 1992)</small>
 
-VIII.- Diseñar y vigilar la aplicación de normas técnicas para la construcción de las obras públicas que ejecute el Gobierno del Estado por sí o en cooperación con la Federación, los Ayuntamientos o los particulares;
+VIII.- Diseñar y vigilar la aplicación de normas técnicas para la construcción de las obras públicas que ejecute el Gobierno del Estado por si o en cooperación con la Federación, los Ayuntamientos o los particulares;
 
 IX.- Conservar las plazas, paseos, parques y edificios públicos a cargo del Gobierno del Estado, con excepción de los encomendados expresamente a otras Dependencias u Organos creados para tal fin;
 
@@ -919,7 +917,7 @@ X.- La regulación, clasificación y control de los servidores turísticos;
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 1990)</small>
 
-XI.- Las (sic) demás que determinen expresamente las Leyes y Reglamentos.
+XI.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XII
 
@@ -1227,15 +1225,17 @@ XIII.- Implementar las políticas preventivas que tiendan a combatir la comisió
 
 XIV.- Solicitar, recabar y recibir de las autoridades federales, estatales y municipales, organismos no gubernamentales y particulares, información a efecto de organizar, analizar, seleccionar y utilizar esta en la preservación de la seguridad pública y en la investigación para la prevención de los delitos;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XV.- Fomentar la capacitación y actualización del personal de la Secretaría;
+XV.- Fomentar la capacitación y actualización del personal de la Secretaría; así como la especialización que la normatividad establezca;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XVI.- Realizar estudios y análisis para la formulación de planes en contra de la criminalidad, basándose en la información generada en materia de incidencia criminológica, en la investigación de causas que dan origen a los delitos, lugares de comisión, impacto y costos sociales; así como estudiar las acciones contra la criminalidad adoptadas por otras entidades, intercambiando experiencias en esta materia;
 
-XVII.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XVII.- Conformar y administrar los registros y bases de datos de las personas privadas de la libertad que ingresen a los centros de reinserción social, y centros de internamiento para adolescentes, en los términos establecidos en la Ley Nacional de Ejecución Penal, y la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, respectivamente y demás normatividad aplicable;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1253,25 +1253,25 @@ XX.- Tramitar, administrar y controlar las acciones necesarias para la autorizac
 
 XXI.- Autorizar, regular, supervisar y controlar la prestación de servicios de seguridad privada en el Estado conforme a lo establecido por la Ley de Seguridad Pública del Estado de Baja California y el reglamento que para tal efecto se expida;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXII.- Asistir al Ejecutivo del Estado en la celebración de convenios de colaboración, en el ámbito de su competencia, con autoridades federales, estatales o municipales, del Distrito Federal, organismos no gubernamentales, así como establecer acuerdos de colaboración con instituciones similares, en los términos de la legislación aplicable;
+XXII.- Asistir al Ejecutivo del Estado en la celebración de convenios de colaboración, en el ámbito de su competencia, con autoridades federales, estatales o municipales, organismos no gubernamentales, así como establecer acuerdos de colaboración con instituciones similares, en los términos de la legislación aplicable;
 
 XXIII.- Ordenar la colaboración, cuando así se requiera, con las autoridades federales, municipales y otras autoridades estatales, en la protección de la integridad física de las personas, la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
 
 XXIV.- Auxiliar a las autoridades judiciales cuando así lo requieran, para el debido ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXV.- Administrar y operar el Sistema Estatal Penitenciario, regular la clasificación de internos, diseñar y ejecutar los programas de reinserción social; promover la creación y funcionamiento de los Patronatos para liberados;
+XXV.- Administrar y operar el Sistema Estatal Penitenciario; así como a la Autoridad Administrativa especializada para adolescentes, en los términos de la Ley Nacional de Ejecución Penal, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, respectivamente, y demás normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXVI.- Solicitar, de oficio o a petición de parte, a la autoridad judicial competente, los beneficios de libertad anticipada que establezcan las disposiciones aplicables;
+XXVI.- Proponer de oficio o a petición de parte, a la autoridad judicial competente, los beneficios preliberacionales que establezcan las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXVII.- Proponer al Ejecutivo del Estado la creación de instituciones que contribuyan al diagnóstico, orientación, protección y tratamiento de los adolescentes y la reinserción social para adultos, de conformidad con la normatividad aplicable;
+XXVII.- Proponer al Ejecutivo del Estado la creación de instituciones que contribuyan al diagnóstico, orientación, protección, internamiento y tratamiento de los adolescentes; así como para la reinserción social para adultos, de conformidad con la normatividad aplicable;
 
 XXVIII.- Tramitar por acuerdo del Ejecutivo del Estado, las solicitudes de indulto;
 
@@ -1279,25 +1279,25 @@ XXVIII.- Tramitar por acuerdo del Ejecutivo del Estado, las solicitudes de indul
 
 XXIX.- Operar y administrar el funcionamiento y los servicios del Centro de Control, Comando, Comunicación y Cómputo del Estado, en los términos de la normatividad aplicable;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXX.- Operar y administrar los centros de internamiento para adolescentes en el Estado que determinen las disposiciones aplicables;
+XXX.- Operar y administrar los centros de reinserción social, los centros de internamiento para adolescentes en el Estado, así como aquellos que determinen las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXXI.- Ejecutar las penas por delitos del orden común, dictadas por las autoridades judiciales competentes, así como por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, siempre y cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
+XXXI.- Supervisar, controlar y ejecutar las penas por delitos del orden común, dictadas por las autoridades judiciales competentes, así como por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, siempre y cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXXII.- Coordinar, vigilar, y supervisar el cumplimiento de las medidas cautelares y las condiciones a cumplir, durante la suspensión condicional del proceso;
+XXXII.- Coordinar, vigilar, y supervisar el cumplimiento de las medidas cautelares y las condiciones a cumplir, durante la suspensión condicional del proceso, en los términos que establezca la autoridad judicial competente;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXXIII.- Obtener, generar, clasificar y suministrar información relacionadas con las medidas y condiciones a que se refiere la fracción anterior, de oficio o a petición de la autoridad judicial competente y en términos de las disposiciones normativas aplicables;
+XXXIII.- Conformar y administrar la información relacionada con las medidas cautelares y condiciones a que se refiere la fracción anterior, de oficio o a petición de la autoridad judicial, en términos de las disposiciones normativas aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXXIV.- Vigilar el cumplimiento de las libertades anticipadas y demás beneficios judiciales, en términos de la normatividad aplicable;
+XXXIV.- Supervisar el cumplimiento de las condiciones impuestas por la autoridad judicial, derivadas del otorgamiento de beneficios preliberacionales, en términos de la normatividad aplicable;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1331,13 +1331,13 @@ XLI.- Fomentar en coordinación con la Secretaría de Salud del Estado y demás 
 
 XLII.- Establecer coordinación con las instituciones de seguridad pública, con las instituciones policiales y sus auxiliares, de los tres órdenes de gobierno y del extranjero de acuerdo a la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XLIII.- Integrar y administrar la información estatal sobre la incidencia criminológica, así como coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente;
+XLIII.- Integrar y administrar la información estatal sobre la incidencia criminológica, así como coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente, en los términos de la Ley de Seguridad Pública del Estado de Baja California y demás normatividad aplicable; y
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XLIV.- Realizar la evaluación de riesgo a petición del Ministerio Público o Defensa con la finalidad de determinar el nivel de riesgo que representa un imputado para que las partes le proporcionen dicha información al Juez de Control y se imponga la medida cautelar más idónea; y
+XLIV.- Realizar la evaluación de riesgo en los delitos del fuero común, a petición del Ministerio Público o Defensa con la finalidad de determinar el nivel de riesgo que representa un imputado para la imposición de la medida cautelar más idónea;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
 
@@ -1633,7 +1633,7 @@ DE LA SECTORIZACION.
 
 ###### ARTICULO 55.
 
-Sin detrimento de las Leyes, Decretos o Acuerdos Especiales que establezcan la creación de las Entidades Paraestatales, el Titular del Poder Ejecutivo deberá emitir acuerdo Especial por el que agrupen, identificando sectores en razón de la concurrencia de los fines u objetivos que les crean las atribuciones de las Dependencias de la Administración Centralizada, guardando la primacía que tienen éstas como auxiliares directas del Poder Ejecutivo para conducir la Política del Desarrollo Estatal.
+Sin detrimento de las Leyes, Decretos o Acuerdos Especiales que establezcan la creación de las Entidades Paraestatales, el Titular del Poder Ejecutivo deberá emitir Acuerdo Especial por el que se agrupen, identificando sectores en razón de la concurrencia de los fines u objetivos que les crean con las atribuciones de las Dependencias de la Administración Centralizada, guardando la primacía que tienen éstas como auxiliares directas del Poder Ejecutivo para conducir la Política del Desarrollo Estatal.
 
 ###### ARTICULO 56.
 
@@ -2260,6 +2260,14 @@ P.O. 20 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 237 MEDIANTE EL CUAL SE APRUEBA LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA JUSTICIA TERAPÉUTICA PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULOS 39 Y 81 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO SE REFORMAN LOS ARTÍCULOS 19, 23, 32 Y 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y SE REFORMAN LOS ARTÍCULOS 6 Y 15 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor a los 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 267 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMA (SIC) DIVERSOS ARTÍCULOS A LA LEY DE LA POLICÍA ESTATAL DE SEGURIDAD Y CUSTODIA PENITENCIARIA DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La conformación de las bases de datos de las personas privadas de la libertad, establecida en la fracción XVII del artículo 38 de la Ley Orgánica de la Administración Pública del Estado de Baja California, a cargo de la autoridad penitenciaria; se realizará en el plazo establecido en el Párrafo Primero del Artículo Segundo Transitorio de la Ley Nacional de Ejecución Penal.
 
 ## TITULO IV. DE LA SECTORIZACION
 
