@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2017-09-29"
+last_updated: "2018-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "BCN"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DE LA DECLARATORIA EXPEDIDA POR LA H. XXII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 24 DE MARZO DE 2017, "EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, EMITE LA DECLARATORIA PARA EL INICIO DE LA VIGENCIA DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO DE BAJA CALIFORNIA".]
-
-NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 269 MEDIANTE EL CUAL SE APRUEBA LA ABROGACIÓN DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2018, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -377,7 +375,7 @@ Los locales destinados al alojamiento y al fomento laboral de los Internos, debe
 
 ###### ARTÍCULO 29.
 
-Ningún Interno podrá desempeñar funciones de autoridad o ejercer, dentro del Centro, empleo o cargo alguno, sin perjuicio de que se le asignen actividades de orden laboral, religioso, cultural, deportivo, educativo y de apoyo en servicios generales del Centro como parte del tratamiento y conforme a los estipulado (sic) en las disposiciones aplicables.
+Ningún Interno podrá desempeñar funciones de autoridad o ejercer, dentro del Centro, empleo o cargo alguno, sin perjuicio de que se le asignen actividades de orden laboral, religioso, cultural, deportivo, educativo y de apoyo en servicios generales del Centro como parte del tratamiento y conforme a los (sic) estipulado en las disposiciones aplicables.
 
 ###### ARTÍCULO 30.
 
@@ -663,11 +661,11 @@ La clasificación debe considerarse como una medida instrumental, de carácter t
 
 ###### ARTÍCULO 66.
 
-EI (sic) objetivo de la clasificación de los Internos en los Centros garantizar (sic) el derecho a una estancia digna y segura dentro de los mismos. En ningún caso la clasificación debe ser pretexto para la discriminación o la concesión de privilegios para los Internos.
+EI objetivo de la clasificación de los Internos en los Centros garantizar (sic) el derecho a una estancia digna y segura dentro de los mismos. En ningún caso la clasificación debe ser pretexto para la discriminación o la concesión de privilegios para los Internos.
 
 ###### ARTÍCULO 67.
 
-En ningún caso podrá ubicarse a alguien en áreas distintas a las destinadas para el alojamiento de Internos. EI (sic) trato que se de a los Interno (sic) debe ser el mismo, siempre dentro del marco de respeto a sus derechos humanos, sin importar el área en la que se encuentren ubicados.
+En ningún caso podrá ubicarse a alguien en áreas distintas a las destinadas para el alojamiento de Internos. EI trato que se de a los Interno (sic) debe ser el mismo, siempre dentro del marco de respeto a sus derechos humanos, sin importar el área en la que se encuentren ubicados.
 
 ###### ARTÍCULO 68.
 
@@ -1682,3 +1680,15 @@ P.O. 29 DE SEPTIEMBRE DE 2017.
 PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: La Secretaría de Seguridad Pública, tendrá un plazo de 30 días a partir de la entrada en vigor del presente decreto, para modificar los reglamentos y disposiciones correspondientes para únicamente aplicar la presente disposición.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 269 MEDIANTE EL CUAL SE APRUEBA LA ABROGACIÓN DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todo lo dispuesto en materia de ejecución de penas, beneficios libertarios, medidas de seguridad y en general relacionadas al sistema penitenciario en el Estado de Baja California, se regirán por lo dispuesto en la Ley Nacional de Ejecución Penal, atendiendo a lo dispuesto en sus artículos transitorios.
+
+TERCERO.- Se debe respetar el artículo segundo transitorio de la Ley Nacional de Ejecución de Penas, en el que se establece las excepciones de la entrada en vigor para su aplicación según sea el caso.
+
+CUARTO.- Los procedimientos que se encuentren en trámite a la entrada en vigor de la Ley Nacional de Ejecución Penal, continuaran con su sustanciación de conformidad con la legislación aplicable al inicio de los mismos, debiendo aplicar los mecanismos de control jurisdiccional previstos en la Ley Nacional de Ejecución Penal al efecto aplicables de acuerdo con el principio pro persona establecido en el artículo 1°. Constitucional.
