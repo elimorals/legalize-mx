@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2018-05-09"
+last_updated: "2018-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -1273,6 +1273,12 @@ Pruebas
 
 Los expedientes de queja serán formalmente concluidos mediante resolución firmada por el Visitador General, en la que se establezca la causa de conclusión del expediente y su fundamento legal.
 
+> <small>(ADICIONADO, G.G. 19 DE OCTUBRE DE 2018)</small>
+
+Artículo 90 bis.- Los expedientes de queja y de investigación de oficio deben ser sustanciados y concluidos, de conformidad con las disposiciones aplicables, en un término no mayor a 180 días naturales, contados a partir de la emisión del acuerdo de calificación que corresponda.
+
+Plazo que podrá ser ampliado hasta por 60 días naturales previo acuerdo fundado y motivado de la autoridad sustanciadora cuando se presenten circunstancias extraordinarias o la complejidad del asunto así lo amerite.
+
 Conclusión de los expedientes de queja
 
 ###### Artículo 91.
@@ -1650,3 +1656,11 @@ G.G. 9 DE MAYO DE 2018.
 Primero.- Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la "Gaceta de Derechos Humanos", órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
 Segundo.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
+
+G.G. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. 10/2018-32, POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. El presente acuerdo entrará en vigor a partir de la publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. Se deja sin efectos el Acuerdo 2/2017 de fecha treinta de enero del año 2017, emitido por este Organismo Autónomo, en donde se instruye que los expedientes de queja sean formalmente concluidos en un plazo no mayor a 180 días naturales a partir de su iniciación.
