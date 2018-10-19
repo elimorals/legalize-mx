@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-de-fomento-turistico-80654
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-29"
-last_updated: "2011-03-29"
+last_updated: "2018-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO TURISTICO DEL ESTADO DE GUERRERO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO TURISTICO DEL ESTADO DE GUERRERO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO TURÍSTICO DEL ESTADO DE GUERRERO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 29 de marzo de 2011.
 
@@ -914,3 +916,19 @@ EL SECRETARIO DE FOMENTO TURÍSTICO.
 C. ERNESTO HIGINIO RODRÍGUEZ ESCALONA.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO”.]
+
+Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Fomento Turístico del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 25, de fecha 29 de marzo de 2011.
+
+Tercero. En caso de autorizarse por la Secretaría de Contraloría y Transparencia Gubernamental del Estado, la Secretaría de Finanzas y Administración y el Comité de Organización y Remuneraciones del Gobierno del Estado, la creación de nuevas unidades administrativas o cualquier otro movimiento a la estructura orgánica que implique además cambios de denominación, cambio de rango jerárquico o de adscripción de unidades administrativas, e incluso que se determine la extinción, fusión o redefinición de funciones en las mismas dentro del organograma de la Secretaría de Turismo, el titular de la misma, formulará el proyecto de decreto de reformas y adiciones al presente Reglamento Interior para ser sometido a consideración del Gobernador del Estado.
+
+Cuarto. No obstante los cambios de adscripción de diversos servidores públicos dentro de la Secretaría de Turismo, así como, los cambios de denominación de áreas de su adscripción, o cambios de rango jerárquico de las mismas e inclusive de la nueva distribución de competencias como producto de la reestructuración orgánica y funcional realizada a la Secretaría, quedan garantizados los derechos laborales de los trabajadores de la misma.
+
+Quinto. En tanto se expiden los manuales de organización, de procedimientos y servicios al público, el Secretario de Turismo, resolverá las cuestiones de procedimiento y operación que se originen por la aplicación de este Reglamento Interior.
