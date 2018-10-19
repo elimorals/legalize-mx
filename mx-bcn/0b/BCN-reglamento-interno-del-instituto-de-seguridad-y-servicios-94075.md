@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-seguridad-y-servicios-94075
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-05-27"
-last_updated: "2016-05-27"
+last_updated: "2018-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de abril de 2013.
 
@@ -249,7 +249,9 @@ Para el estudio, planeación, despacho de los asuntos y adecuado cumplimiento de
 
 1.1.0.1. Coordinación de Asesoría y Servicios Legales;
 
-1.1.0.2. Coordinación de Contraloría Interna;
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+1.1.0.2. Órgano Interno de Control
 
 1.1.0.3. Coordinación de Desarrollo Institucional; y
 
@@ -349,6 +351,12 @@ Para el estudio, planeación, despacho de los asuntos y adecuado cumplimiento de
 
 1.4.4.4. Consultorios.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 19 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder del ISSSTECALI, contará con un Comité de Transparencia y una unidad de transparencia, las cuales se organizarán y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
+
 ### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DEL DIRECTOR GENERAL Y DE LOS TITULARES DE UNIDADES ADMINISTRATIVAS Y MÉDICAS
 
 #### SECCIÓN I. DEL DIRECTOR GENERAL
@@ -387,7 +395,13 @@ XI.- Presentar ante la Junta Directiva para su análisis, discusión y aprobaci�
 
 XII.- Presentar a la Junta Directiva los informes trimestrales con la intervención que corresponda a los comisarios; y
 
-XIII.- Resolver las dudas que se susciten con motivo del presente Reglamento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XIII.- Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XIV.- Resolver las dudas que se susciten con motivo del presente Reglamento.
 
 #### SECCIÓN II. DE LOS SUBDIRECTORES GENERALES
 
@@ -529,7 +543,9 @@ Para el adecuado cumplimiento de sus atribuciones, la Dirección General contar�
 
 I.- Coordinación de Asesoría y Servicios Legales;
 
-II.- Coordinación Contraloría Interna;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+II.- Órgano Interno de Control.
 
 III.- Coordinación de Desarrollo Institucional; y
 
@@ -587,25 +603,45 @@ XVI.- Revisar y autorizar los formatos mediante los cuales las unidades médicas
 
 XVII.- Las demás que le sean encomendadas por el superior jerárquico, y aquellas que le confieran las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 29.
 
-Corresponde a la Coordinación de Contraloría Interna, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+El Órgano Interno de Control del ISSSTECALI para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
 
-I.- Efectuar revisiones a las unidades administrativas y médicas del ISSSTECALI, tendientes a comprobar el correcto ejercicio del gasto; verificar que las operaciones sean congruentes con lo establecido en la planeación, programación y presupuesto; así como la adecuada administración de los recursos materiales, humanos y financieros;
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por el ISSSTECALI y las demás que rigen la administración pública estatal;
 
-II.- Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos establecidos por el ISSSTECALI, y las demás aplicables que rigen la Administración Pública Estatal;
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad del ISSSTECALI
 
-III.- Revisar la suficiencia y efectividad del control Interno inherente a los procedimientos existentes en ISSSTECALI;
+III. Revisar que las operaciones presupuestales que realice el ISSSTECALI se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
 
-IV.- Formular a los titulares de unidades administrativas y médicas del ISSSTECALI, observaciones, recomendaciones y sugerencias resultantes de las revisiones que practique, requiriendo las solventaciones respectivas;
+IV. Requerir a las unidades administrativas del ISSSTECALI que correspondan, el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías, verificaciones y revisiones, y formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
 
-V.- Presentar el programa anual de trabajo a la Dirección de Control y Evaluación Gubernamental, para su aprobación; así como presentar un informe mensual de actividades;
+V. Informar al titular del ISSSTECALI sobre los resultados de las revisiones, auditorías y verificaciones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
 
-VI.- Asistir a reuniones del Subcomité de Adquisiciones, Arrendamientos y Servicios del ISSSTECALI y vigilar que los procedimientos de contratación, de adquisiciones, arrendamientos, servicios, obra pública, equipamientos y suministros se realicen con apego a las disposiciones aplicables;
+VI. Asistir a reuniones del Subcomité de Adquisiciones, Arrendamientos y Servicios del ISSSTECALI y vigilar que el ISSSTECALI realice las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y de obra pública, equipamiento, suministros y servicios con apego a las leyes en la materia;
 
-VII.- Conocer, investigar, desahogar y resolver los procedimientos administrativos sobre actos u omisiones de los servidores públicos del ISSSTECALI, que de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, le competan; y
+VII. Requerir a terceros que hubieran contratado bienes o servicios con el ISSSTECALI la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-VIII.- Las demás que le sean encomendadas por el superior jerárquico, y aquellas que le confieran las disposiciones aplicables.
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IX. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental las políticas para simplificar y homogeneizar sus funciones;
+
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas del ISSSTECALI cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+XI. Requerir a los servidores públicos del ISSSTECALI información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XIII. Coadyuvar en el programa de actualización del marco de actuación del ISSSTECALI en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen, y
+
+XIV. Expedir previa revisión, copias cotejadas de los documentos que obren únicamente en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones, con excepción de los documentos cuyo cotejo corresponda a las demás unidades administrativas del ISSSTECALI; y
+
+XV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 29 BIS. El Órgano Interno de Control contará con el personal y los recursos necesarios, que garanticen el ejercicio independiente de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ###### ARTÍCULO 30.
 
@@ -711,9 +747,13 @@ XVIII.- Coordinar los procesos de inversión de los recursos financieros disponi
 
 XIX.- Atender y dar puntual respuesta a las solicitudes de información de carácter público emitidas por la Unidad Concentradora de Transparencia, así como representar al ISSSTECALI en los recursos de revisión derivados de las consultas que se tramiten ante la mencionada Unidad Concentradora de Transparencia; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XX.- Las demás que le sean encomendadas por el superior jerárquico, y aquellas que le confieran las disposiciones aplicables.
+XX.- Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XXI.- Las demás que le sean encomendadas por el superior jerárquico, y aquellas que le confieren las disposiciones aplicables.
 
 ###### ARTÍCULO 33.
 
@@ -1451,7 +1491,7 @@ Corresponde al Departamento de Afiliación y Trabajo Social, por conducto de su 
 
 I.- Coordinar las acciones técnicas y administrativas necesarias para la afiliación de trabajadores de los organismos incorporados al régimen del ISSSTECALI, así como de sus familiares derechohabientes;
 
-II.- Supervisar altas, bajas y cambios en las nominas de los organismos incorporados al ISSSTECALI, así como mantener permanentemente actualizado el padrón y la estadística de asegurados, informando mensualmente a las unidades médicas;
+II.- Supervisar altas, bajas y cambios en las nóminas de los organismos incorporados al ISSSTECALI, así como mantener permanentemente actualizado el padrón y la estadística de asegurados, informando mensualmente a las unidades médicas;
 
 III.- Realizar la labor de investigación de campo de trabajo social, para verificar que los familiares propuestos por los trabajadores o pensionistas, para ser derechohabientes del ISSSTECALI, reúnan los requisitos que indica la Ley;
 
@@ -1547,7 +1587,7 @@ XV.- Las demás que le sean encomendadas por el superior jerárquico, y aquellas
 
 Corresponde al Departamento de Nóminas de Pensiones y Jubilaciones, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I.- Realizar todas aquellas actividades relacionadas con la elaboración de la nomina de jubilaciones y pensiones, su procesamiento y resguardo hasta la emisión de los cheques y pago de los mismos;
+I.- Realizar todas aquellas actividades relacionadas con la elaboración de la nómina de jubilaciones y pensiones, su procesamiento y resguardo hasta la emisión de los cheques y pago de los mismos;
 
 II.- Desarrollar y supervisar las actividades relativas a la verificación de la supervivencia de pensionados y jubilados;
 
@@ -1731,7 +1771,7 @@ III.- Supervisar que la operación de las unidades hospitalarias de ISSSTECALI, 
 
 IV.- Elaborar mecanismos y proponer indicadores de gestión, para evaluar la productividad, calidad técnica y seguridad de los pacientes;
 
-V- Participar en los procesos de adquisición y equipamiento médico hospitalario, y proponer medidas para reducir al máximo la subrogación de servicios;
+V.- Participar en los procesos de adquisición y equipamiento médico hospitalario, y proponer medidas para reducir al máximo la subrogación de servicios;
 
 VI.- Proponer las normas, mecanismo y criterios médico-administrativos para la subrogación de servicios, de conformidad a las disposiciones aplicables;
 
@@ -2121,7 +2161,13 @@ Las ausencias temporales del Director General serán suplidas en 105 términos s
 
 ###### ARTÍCULO 92.
 
-Las ausencias temporales de 105 Subdirectores Generales, Directores, Jefes de Departamento, Coordinadores, titulares de unidades médicas, Subdirectores; así como los Coordinadores Médicos de los turnos: vespertino, jornada alterna acumulada, días festivos y los jefes de servicio de unidades médico hospitalarias, serán suplidas por el servidor público que determine su superior jerárquico.
+Las ausencias temporales de los Subdirectores Generales, Directores, Jefes de Departamento, Coordinadores, titulares de unidades médicas, Subdirectores; así como los Coordinadores Médicos de los turnos: vespertino, jornada alterna acumulada, días festivos y los jefes de servicio de unidades médico hospitalarias, serán suplidas por el servidor público que determine su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+###### ARTÍCULO 93.
+
+Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2154,3 +2200,15 @@ P.O. 27 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 4, 6, 8, 9, 14, 18, 24, 26, 28, 32, 34, 45, 62 Y 70 Y SE ADICIONA EL ARTÍCULO 90 BIS, TODOS DEL REGLAMENTO INTERNO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 19, 21, 27, 29, 32; Y SE ADICIONAN LOS ARTÍCULOS 19 BIS, 29 BIS Y 93 DEL REGLAMENTO INTERNO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no autorice los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 29 BIS del presente Decreto, lo cual no podrá excederse del inicio del ejercicio fiscal 2019.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del ejercicio fiscal 2018.
+
+En cualquier caso, su funcionamiento de conformidad a la Ley de Responsabilidades Administrativas del Estado de Baja California iniciará a más tardar el primero de enero de 2019.
