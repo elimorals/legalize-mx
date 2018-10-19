@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2018-04-20"
+last_updated: "2018-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -59,11 +59,11 @@ III.- Las instituciones a quienes esta Ley imponga deberes esenciales vinculados
 
 Las instituciones de Educación Superior autónomas por Ley se regularán por sus propios ordenamientos jurídicos y normas administrativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 3.
 
-La educación es un medio fundamental para que en la libertad y en la solidaridad se formen y desarrollen integralmente los seres humanos en sus responsabilidades y derechos sociales, cívicos, económicos, culturales y de respeto al medio ambiente, para que se les instruya y capacite para el futuro, para que tengan una vida digna y conozcan el sentido de la misma; por ello, la educación que impartan el Estado, los municipios y demás organismos públicos y los particulares con autorización o reconocimiento de validez oficial de estudios, será de calidad y promoverá el conocimiento de la cultura regional, de sus valores arqueológicos, históricos y artísticos, de las tradiciones, lenguas y creencias de sus culturas indígenas, de su geografía y del papel que Baja California ha representado en la configuración y desarrollo de la historia e identidad de la nación mexicana.
+La educación es un medio fundamental para que en la libertad y en la solidaridad se formen y desarrollen integralmente los seres humanos en sus responsabilidades y derechos sociales, cívicos, económicos, culturales y de respeto al medio ambiente, la igualdad entre hombres y mujeres, para que se les instruya y capacite para el futuro, para que tengan una vida digna y conozcan el sentido de la misma; por ello, la educación que impartan el Estado, los municipios y demás organismos públicos y los particulares con autorización o reconocimiento de validez oficial de estudios, será de calidad y promoverá el conocimiento de la cultura regional, de sus valores arqueológicos, históricos y artísticos, de las tradiciones, lenguas y creencias de sus culturas indígenas, de su geografía y del papel que Baja California ha representado en la configuración y desarrollo de la historia e identidad de la nación mexicana.
 
 Por ello, el estado pugnará que la búsqueda por la excelencia del quehacer educativo se aplique con respeto de los derechos humanos.
 
@@ -140,6 +140,10 @@ X.- Establecerá los criterios para recomendar y autorizar a través de la Secre
 a).- Las autoridades escolares no condicionarán el acceso o permanencia del alumnado a la adquisición de útiles escolares, uniformes con distintivos especiales y demás objetos vinculados al proceso de enseñanza aprendizaje, en establecimientos comerciales específicos.
 
 b).- Los padres de familia o tutores adquirirán los materiales educativos y uniformes en donde más les convenga, sin que se les pueda obligar a comprarlos en establecimientos o marcas determinados.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XI.- Desarrollará programas dirigidos a padres de familia, docentes y alumnos, para el fomento del respeto a la dignidad de las personas y a la integridad de la familia para contribuir a una mejor convivencia humana y el derecho de las mujeres a una vida libre de violencia.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -218,8 +222,6 @@ Son de interés social las actividades e inversiones de cualquier tipo que en ma
 ###### ARTICULO 13.
 
 El Poder Ejecutivo del Estado, expedirá la normatividad necesaria para la aplicación de esta Ley, respetando los derechos adquiridos por los trabajadores de la educación.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 61 DE REFORMAS PUBLICADO EN EL P.O. DE 23 DE FEBRERO DE 2018, SE ADVIERTE QUE EL PRESENTE ARTÍCULO CONSTABA DE VEINTISÉIS FRACCIONES, ACTUALIZÁNDOSE EN VEINTICINCO FRACCIONES.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -315,9 +317,13 @@ XXIII.- Fomentar una cultura de respeto, solidaridad y reconocimiento de los der
 
 XXIV.- Desarrollará programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes, en términos de lo dispuesto en el artículo 34 de esta Ley; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-XXV.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XXV.- Inculcar en los educandos valores del respeto a la dignidad de las personas y a la integridad de la familia, el aprecio por la diversidad cultural, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos, para contribuir a una mejor convivencia humana, evitando privilegios de razas, de religión, de grupos, de sexos, individuos y fomentar el derecho de las mujeres a una vida libre de violencia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+XXVI.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -541,7 +547,9 @@ XX.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones
 
 ARTICULO 16 TER.- Las autoridades educativas deben impulsar programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos, para lo cual se aprovechará la capacidad escolar instalada en horarios y días en que no se presten los servicios educativos ordinarios.
 
-Asimismo, apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+Asimismo, apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros. Será de carácter obligatorio para las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, asistir a una actividad anual sobre prevención de delitos contra la libertad y seguridad sexual de las personas, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios.
 
 Las autoridades educativas establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural.
 
@@ -2202,3 +2210,15 @@ P.O. 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 217 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PROYECTO DE DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 16 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma a la Ley Estatal de Educación del Estado de Baja California, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 249 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PRIMER PÁRRAFO DEL ARTÍCULO 3, Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 5 Y UNA FRACCIÓN XXV Y XXVI AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 250 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 16 TER DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
