@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2017-12-26"
+last_updated: "2018-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -377,9 +377,17 @@ IV. Violencia en el ámbito laboral y escolar: Se ejerce por las personas que ti
 
 Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso sexual, el hostigamiento sexual, el acoso laboral o el hostigamiento laboral.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-Constituye violencia laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género; además de exigir como requisito para el ingreso o ascenso a un empleo la presentación de certificado médico de no embarazo, despedir a una trabajadora o coaccionarla para que renuncie por estar embarazada.
+El hostigamiento sexual consiste en ejercer poder en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral o educativo, y se manifiesta por medio de expresiones verbales o conductas físicas de connotación lasciva hacia la víctima.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+Constituye violencia laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género; además de exigir como requisito para el ingreso o ascenso a un empleo la presentación de certificado médico de no embarazo, despedir a una trabajadora o coaccionarla para que renuncie por estar embarazada
 
 Constituyen violencia escolar todas aquellas conductas, acciones u omisiones, infligidas por el personal docente o administrativo o cualquier integrante de la comunidad educativa que dañan la dignidad, salud, integridad, libertad y seguridad de las víctimas; y
 
@@ -951,9 +959,15 @@ III. Brindar la asesoría que requieran los municipios a fin de suscribir conven
 
 IV. Convocar, concertar, coordinar y promover la integración y participación de los municipios en el Sistema Estatal;
 
-V. Promover directrices para que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad y el respeto hacia las mujeres; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-VI. Las demás previstas para el cumplimiento de esta Ley.
+V. Promover directrices para que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad y el respeto hacia las mujeres;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+VI. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, en coordinación con la Secretaría de Seguridad Pública del Estado; y
+
+VII. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 50.
 
@@ -1155,7 +1169,7 @@ XI. Impulsar la formación de promotoras y promotores comunitarios para la aplic
 
 XII. Auxiliar al Ministerio Público en la protección de los derechos de las mujeres;
 
-XIII. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres; y
+XIII. (DEROGADA, P.O. 19 DE OCTUBRE DE 2018)
 
 XIV. Las demás previstas para el cumplimiento de esta Ley.
 
@@ -2030,3 +2044,15 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 72.- SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI, RECORRIENDO EL CONTENIDO DE LA FRACCIÓN VI A LA VII, QUE SE CREA, DEL ARTÍCULO 49, Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 56 DE LA LEY DE ACCESO PARA LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 73.- SE ADICIONAN UN TERCERO Y CUARTO PÁRRAFO A LA FRACCIÓN IV, PASANDO LOS ACTUALES A SER LOS PÁRRAFOS QUINTO Y SEXTO, DEL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
