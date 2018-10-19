@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2018-07-30"
+last_updated: "2018-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -119,7 +119,7 @@ Esta Constitución no perderá su fuerza y vigencia, aún cuando por cualquier c
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JULIO DE 2013)</small>
 
-## TITULO SEGUNDO. De los derechos humanos y sus garantías
+## TITULO SEGUNDO. De los Derechos Humanos y sus Garantías
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
 
@@ -175,7 +175,7 @@ La ley establecerá los mecanismos y criterios para la identificación y delimit
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2008)</small>
 
-A. Se reconoce el derecho de los pueblos y comunidades indígenas establecidos en el territorio del Estado a la libre determinación y; en consecuencia, a la autonomía para:
+A. Se reconoce el derecho de los pueblos y comunidades indígenas establecidos en el territorio del Estado a la libre determinación y, en consecuencia, a la autonomía para:
 
 I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
 
@@ -773,6 +773,8 @@ III.- Por haber transcurrido el término de la suspensión.
 
 La calidad de ciudadano quintanarroense se pierde por sentencia ejecutoria, dictada por autoridad competente, que imponga esa pena.
 
+TITUTO (SIC) CUARTO
+
 ### CAPITULO UNICO. Del Territorio
 
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
@@ -795,7 +797,7 @@ La base de la división territorial y organización política y administrativa d
 
 La ciudad de Chetumal es la capital del Estado y la residencia oficial de los Poderes Estatales.
 
-## TITULO CUARTO
+## TITULO QUINTO. De la División de Poderes
 
 ### CAPITULO I. Principios
 
@@ -1047,7 +1049,13 @@ ARTICULO 52 BIS.- Cuando se produzcan vacantes en la Legislatura por cualquiera 
 
 CUANDO SE ACTUALICE LA VACANTE ABSOLUTA DE LA FÓRMULA DE DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA, ÉSTA SERÁ CUBIERTA POR EL INTEGRANTE DE LA LISTA REGISTRADA POR EL MISMO PARTIDO POLÍTICO BAJO EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, QUE SIGA EN EL ORDEN DE PRELACIÓN, EL CUAL DE FORMA PREFERENTE SERÁ DEL MISMO GÉNERO.
 
-En el caso de las ausencias temporales o definitivas del Diputado propietario por el principio de representación proporcional, se cubrirán con el suplente respectivo de la fórmula. De actualizarse la vacante de la fórmula completa se llamará a aquel integrante del mismo partido político que hubiere quedado en lugar preferente en la lista definitiva respectiva, después de haberse asignado diputados por dicho principio.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+En el caso de las ausencias temporales o definitivas del Diputado propietario por el principio de representación proporcional, se cubrirán con el siguiente ciudadano del mismo género, en orden de prelación postulado por los partidos políticos de manera directa conforme a sus normas internas, de conformidad con la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+En ningún caso, la persona que haya asumido el cargo en los términos del párrafo anterior, podrá cubrir la ausencia de otro diputado diferente al que haya cubierto.
 
 ###### ARTICULO 53.
 
@@ -1069,9 +1077,11 @@ La lista a (sic) de candidatos a diputados por el principio de representación p
 
 a) Cinco candidatos postulados y registrados de manera directa y cinco candidatos que hayan participado bajo el principio de mayoría relativa y que no habiendo obtenido el triunfo por este principio, hayan obtenido los mayores porcentajes de votación válida distrital.
 
-b) La lista en su totalidad deberá estar integrada de manera alternada entre géneros, estableciéndose las posiciones 1, 3, 5, 7 y 9 a un mismo género y al otro género las posiciones 2, 4, 6, 8 y 10, de la lista registrada ante el Instituto Electoral.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-c) El partido político definirá con base en el inciso b), qué posiciones registrará de manera directa y qué posiciones se integrarán con los candidatos que no habiendo ganado, hayan obtenido los mejores resultados de la contienda electoral.
+b) La lista en su totalidad deberá estar integrada de manera alternada entre géneros;
+
+c) (DEROGADO, P.O. 19 DE OCTUBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -1223,9 +1233,11 @@ Si durante el ejercicio fiscal que corresponda se modifica el Presupuesto de Egr
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes y Decretos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 68.
 
-El decreto (sic) de iniciar leyes y decretos compete:
+El derecho de iniciar leyes y decretos compete:
 
 I.- Al Gobernador del Estado.
 
@@ -1951,7 +1963,9 @@ Para ser Fiscal General se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento;
 
-II.- Haber nacido en el Estado o tener una residencia efectiva en él no menor de 5 años anteriores a la designación;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
+
+II.- Contar con una residencia en el país no menor de cinco años anteriores a la designación. En este caso, la residencia no se pierde por el desempeño de un cargo, comisión o empleo públicos en el extranjero;
 
 III.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
@@ -1967,17 +1981,19 @@ VII.- No haber sido condenado por delito doloso.
 
 A.- El Fiscal General del Estado durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
 
-a) A partir de la ausencia definitiva del Fiscal General del Estado, la Legislatura del Estado contará con veinte días naturales para integrar una lista de diez candidatos al cargo, aprobada por las dos terceras partes de los miembros integrantes de la Legislatura, la cual se enviará al Ejecutivo Estatal.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2018)</small>
 
-La presidencia de la Legislatura o de la Diputación Permanente, convocará a los Grupos parlamentarios representados en la Legislatura, para que presenten hasta dos propuestas para ocupar el cargo de Fiscal General del Estado. La Comisión de Puntos Constitucionales de la Legislatura, dictaminará sobre el cumplimiento de los requisitos de los candidatos para integrar la lista a que refiere el párrafo anterior.
+a) A partir de la ausencia definitiva del Fiscal General del Estado, la Legislatura del Estado contará con veinte días naturales para integrar una lista de candidatos al cargo, aprobada por las dos terceras partes de los miembros integrantes de la Legislatura, la cual se enviará al Ejecutivo Estatal.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 Si el Ejecutivo no recibe la lista en el plazo señalado en el primer párrafo del presente inciso, enviará libremente a la Legislatura del Estado una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-En el caso de ausencia definitiva del Fiscal General, el Gobernador del Estado designará a un Fiscal Interino en los términos previstos por este artículo, en tanto la Legislatura inicia el procedimiento de designación del Fiscal General en los términos establecidos en el primer párrafo de este inciso.
+En el caso de ausencia definitiva del Fiscal General, el Gobernador del Estado designará a un Fiscal Interino, en tanto se realiza la designación definitiva del Fiscal General en los términos establecidos en este artículo.
 
 b) Recibida la lista a que se refiere el inciso anterior, dentro de los diez días naturales siguientes el Ejecutivo formulará la terna y la enviará a la consideración de la Legislatura del Estado.
 
@@ -2029,9 +2045,9 @@ D. La Fiscalía General contará, al menos, con una Fiscalía Especializada en m
 
 El nombramiento del fiscal se sujetará a la remisión de una terna por parte del Fiscal General del Estado a la Legislatura o en su caso, a la Diputación Permanente, quien deberá designar de entre los candidatos al Titular de la Fiscalía Especializada de Combate a la Corrupción, sujetándose al procedimiento que se establezca en la ley.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-El Fiscal Especializado en Combate a la Corrupción deberá cubrir los mismos requisitos para ser Fiscal General y durará en su encargo siete años sin posibilidad de ser reelecto, teniendo también la obligación de presentar anualmente a la Legislatura en funciones, un informe de actividades. Al efecto comparecerá ante la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos en los términos que disponga la ley de la materia. Igualmente, el Fiscal Anticorrupción comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre algún asunto en particular referente a su gestión, haciéndose esto de manera que no cause perjuicio a las investigaciones o a las funciones de Ministerio Público.
+El Fiscal Especializado en Combate a la Corrupción deberá cubrir los mismos requisitos para ser Fiscal General, así como haber nacido en el Estado o tener una residencia efectiva en él no menor de 5 años anteriores a la designación, y durará en su encargo siete años sin posibilidad de ser reelecto, teniendo también la obligación de presentar anualmente a la Legislatura en funciones, un informe de actividades. Al efecto comparecerá ante la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos en los términos que disponga la ley de la materia. Igualmente, el Fiscal Anticorrupción comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre algún asunto en particular referente a su gestión, haciéndose esto de manera que no cause perjuicio a las investigaciones o a las funciones de Ministerio Público.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -2435,7 +2451,7 @@ IV. Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes 
 
 V. Las demás atribuciones que expresamente se señalen en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, su ley orgánica y demás disposiciones aplicables.
 
-## TITULO QUINTO. De la División de Poderes
+## TITULO SEXTO. Del Patrimonio y Hacienda Pública del Estado
 
 ### CAPITULO I. Del Patrimonio
 
@@ -2485,7 +2501,7 @@ La administración de la hacienda pública estará a cargo del Ejecutivo por con
 
 La ley determinará la organización y funcionamiento de las oficinas de hacienda en el Estado.
 
-> <small>(REFORMADO, P.O. P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 118.
 
@@ -2525,7 +2541,9 @@ El Ejecutivo cuidará que la Legislatura conozca de la fianza con la cual los em
 
 El Secretario encargado de la hacienda pública del Estado remitirá anualmente al Ejecutivo, en la segunda quincena del mes de enero, un informe pormenorizado sobre el estado de la hacienda pública del ejercicio fiscal anterior.
 
-## TITULO SEXTO. Del Patrimonio y Hacienda Pública del Estado
+## TITULO SEPTIMO. De los Municipios
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ### CAPITULO I. De la División Política, Administrativa y Territorial del Estado
 
@@ -2565,9 +2583,9 @@ X Y
 
 2 265,182.61 2,088,249.08
 
-3 267,503.65 2,088.507.14
+3 267,503.65 2,088,507.14
 
-4 273,652.46 2,088.625.42
+4 273,652.46 2,088,625.42
 
 5 274,694.72 2,088,749.16
 
@@ -3755,9 +3773,9 @@ Las relaciones laborales entre los Municipios y sus trabajadores se regirán por
 
 (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
-## TITULO SEPTIMO. De los Municipios
+## TITULO OCTAVO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2017)</small>
 
 ### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos y Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción
 
@@ -3953,9 +3971,7 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 
 (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
-## TITULO OCTAVO
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2017)</small>
+## TITULO NOVENO. (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
 ### CAPITULO UNICO. De las Reformas a la Constitución
 
@@ -3970,8 +3986,6 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 ## TITULO DECIMO. Prevenciones Generales
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-## TITULO NOVENO. (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
 ###### ARTICULO 165.
 
@@ -4149,7 +4163,7 @@ PRIMERO.- Las presentes reformas y adiciones a esta Constitución entrarán en v
 
 SEGUNDO.- Las contribuciones señaladas en el artículo 143 que no estén recibiendo los Ayuntamientos comenzarán a percibirlos a partir del 1º de Enero de 1984.
 
-TERCERO. Las leyes locales y sus reglamentos así como los reglamentos municipales respectivos, deberán reformarse o adicionarse en el término que establece el artículo 2º transitorio del decreto que reforma y adiciona el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+TERCERO.- Las leyes locales y sus reglamentos así como los reglamentos municipales respectivos, deberán reformarse o adicionarse en el término que establece el artículo 2º transitorio del decreto que reforma y adiciona el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 CUARTO.- En tanto se deroga en lo conducente la Ley de Tránsito y Explotación de Vías y Carreteras del Estado de Quintana Roo y su reglamento, el Ejecutivo del Estado ejercerá el mando en la corporación de Tránsito del Estado en la forma que lo ha venido haciendo.
 
@@ -4187,7 +4201,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+"Se derogan todas las disposiciones que se opongan al presente Decreto".
 
 P.O. 30 DE ABRIL DE 1987.
 
@@ -4457,11 +4471,11 @@ Para los efectos de lo dispuesto en el Segundo Párrafo de la Fracción Segunda 
 
 P.O. 28 DE NOVIEMBRE DE 2003.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
 Las reformas contenidas en el presente Decreto entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
 Los actuales Consejero Presidente y los Consejeros Electorales Propietarios y Suplentes del Instituto Electoral de Quintana Roo, así como el Magistrado Presidente y los Magistrados Numerarios del Tribunal Electoral de Quintana Roo, continuarán en sus cargos en los términos previstos en la reforma al artículo 49, fracción II, párrafo séptimo, de la Constitución Política del Estado Libre y Soberano de Quintana Roo, contenida en el presente Decreto.
 
@@ -5011,7 +5025,7 @@ DECRETO NÚMERO 255, POR EL QUE SE REFORMAN LAS FRACCIONES I, IV Y V DEL ARTÍCU
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-SEGUNDO. Los Consejeros Ciudadanos que actualmente conforman el Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, continuarán en sus cargos, por los periodos para los cuales fueron designados, en términos de sus nombramientos respectivos e integrando a Junta de Gobierno del ahora denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, que establece el Artículo 21 de este Decreto.
+SEGUNDO. Los Consejeros Ciudadanos que actualmente conforman el Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, continuarán en sus cargos, por los periodos para los cuales fueron designados, en términos de sus nombramientos respectivos e integrando la Junta de Gobierno del ahora denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, que establece el Artículo 21 de este Decreto.
 
 TERCERO. En tanto se modifica la legislación secundaria de la materia, toda mención hecha del Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, se tendrá por hecha al Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo.
 
@@ -5157,7 +5171,7 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación en el 
 
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
 
-TERCERO. Se faculta al Fiscal General del Estado para que expida el Acuerdo de creación de un Órgano de Control y Evaluación Interna (sic) adscrito a la Fiscalía General del Estado, así como la designación del titular del mismo, el cual tendrá temporalmente las atribuciones relativas a la fiscalización de los recursos públicos, sanción de sus servidores públicos y de evaluación de su situación patrimonial, establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo, hasta en tanto, la Legislatura del Estado implemente el Sistema Nacional Anticorrupción, de conformidad con lo dispuesto por el Artículo Transitorio Tercero del Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado en el Diario Oficial de la Federación el día 18 de Julio de 2016.
+TERCERO. Se faculta al Fiscal General del Estado para que expida el Acuerdo de creación de un Órgano de Control y Evaluación Interna adscrito a la Fiscalía General del Estado, así como la designación del titular del mismo, el cual tendrá temporalmente las atribuciones relativas a la fiscalización de los recursos públicos, sanción de sus servidores públicos y de evaluación de su situación patrimonial, establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo, hasta en tanto, la Legislatura del Estado implemente el Sistema Nacional Anticorrupción, de conformidad con lo dispuesto por el Artículo Transitorio Tercero del Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado en el Diario Oficial de la Federación el día 18 de Julio de 2016.
 
 P.O. 3 DE NOVIEMBRE DE 2016.
 
@@ -5348,3 +5362,21 @@ Cuarto. En cualquier caso, los derechos de los trabajadores que tienen a su carg
 Quinto. Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado, conformará la Comisión para la Implementación de la Reforma en materia de Justicia Laboral en el Estado, como un órgano colegiado e interinstitucional, integrado por representantes de los tres Poderes del Estado, de la Secretaría del Trabajo y Previsión Social del Estado y demás instituciones del sector público que se consideren necesarios. Esta Comisión tendrá por objeto ejecutar y coordinar las políticas, programas y acciones para la implementación de la reforma en materia de justicia laboral.
 
 Sexto. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 263 POR EL QUE SE REFORMAN LA FRACCIÓN II, Y LOS PÁRRAFOS PRIMERO Y CUARTO DEL INCISO A), DEL APARTADO A, Y EL PÁRRAFO TERCERO DEL APARTADO D; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL INCISO A), DEL APARTADO A; DEL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir del día siguiente a la entrada en vigor del presente Decreto, la Legislatura del Estado contará con un plazo de diez días hábiles para iniciar el procedimiento de designación del Fiscal General del Estado, conforme a lo previsto en el Artículo 96 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, que se reforma mediante este Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 264 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 52 BIS, ASÍ COMO EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 54 Y SE DEROGA EL INCISO C) DE LA FRACCIÓN I DEL ARTÍCULO 54 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO: Se derogan todas aquellas disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
