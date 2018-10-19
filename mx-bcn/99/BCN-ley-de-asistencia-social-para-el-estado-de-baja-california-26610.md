@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2015-06-26"
+last_updated: "2018-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -201,6 +201,8 @@ Para dar pleno cumplimiento a lo dispuesto en la fracción X del artículo 4 de 
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 7.
 
 El Sistema Estatal de Asistencia Social, se integra por las siguientes dependencias y entidades:
@@ -211,17 +213,33 @@ II.- Secretaría de Salud;
 
 III.- Secretaría de Educación y Bienestar Social;
 
-IV.- Secretaría General de Gobierno;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
 
-V.- Secretaría de Planeación y Finanzas;
+IV.- Secretaría del Trabajo y Previsión Social;
 
-VI.- Procuraduría de Justicia del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
 
-VII.- DIF Estatal;
+V.- Secretaría General de Gobierno;
 
-VIII.- Desarrollo Social de los municipios;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
 
-IX.- DIF Municipales.
+VI.- Secretaría de Planeación y Finanzas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+VII.- Procuraduría de Justicia del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+VIII.- DIF Estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+IX.- Desarrollo Social de los municipios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+X.- DIF Municipales.
 
 ###### ARTÍCULO 8.
 
@@ -230,6 +248,8 @@ El Titular del Poder Ejecutivo del Estado a través de la Secretaría, tendrá a
 ###### ARTÍCULO 9.
 
 La Secretaría, deberá convocar al inicio de cada ejercicio fiscal y cuando menos cada dos meses a los integrantes del Sistema Estatal de Asistencia Social, a efecto de coordinar acciones, evaluar el avance de éstas, y promover estudios que actualicen el Sistema Estatal de Información Básica en Materia de Asistencia Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 10.
 
@@ -253,9 +273,13 @@ VII.- Operar el Sistema Estatal de Información Básica;
 
 VIII.- Crear la Red Estatal de Orientación y Apoyo a Mujeres Embarazadas; con el objeto de conjuntar, difundir y hacer accesibles los diversos apoyos, bienes y servicios de las dependencias e instituciones públicas y privadas para proteger el estado de gestación y,
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
 
-IX.- Los demás que tiendan al fomento del desarrollo integral de la familia y del individuo.
+IX.- Promover la vinculación a una oportunidad de empleo o autoempleo a los sujetos de asistencia social para que logren su autosuficiencia y desarrollo integral;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+
+X.- Los demás que tiendan al fomento del desarrollo integral de la familia y del individuo.
 
 ### CAPITULO III. DE LOS SERVICIOS DE SALUD EN MATERIA DE ASISTENCIA SOCIAL
 
@@ -1408,3 +1432,9 @@ P.O. 18 DE ENERO DE 2013.
 P.O. 26 DE JUNIO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 265 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7 Y 10 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
