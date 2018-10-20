@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-social-del-estado-de-tabasco-52037"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2006-09-30"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE DESARROLLO SOCIAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 30 de septiembre de 2006.
 
@@ -35,7 +37,7 @@ LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SO
 
 CONSIDERANDO
 
-.
+[...]
 
 DÉCIMO SEXTO. Congruente con lo anterior y estando facultada esta Soberanía para expedir, reformar, adicionar, derogar y abrogar leyes y decreto, así como para legislar en materia social, acorde a lo dispuesto en el artículo 36, fracciones I y IX de la Constitución del Estado.
 
@@ -222,6 +224,14 @@ El Programa Estatal de Desarrollo Social deberá ser elaborado por el Ejecutivo 
 ###### ARTÍCULO 20.
 
 Para la ejecución de los programas, recursos y acciones de carácter estatal para el desarrollo social, el Ejecutivo del Estado creará mecanismos necesarios y reglas de operación para que preferentemente los municipios sean los ejecutores de dichos programas. Así mismo, convendrá con la federación que sus programas y recursos sean ejercidos por la instancia municipal, conforme a la Política de Desarrollo Social.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+El Gobierno del Estado, conforme a lo dispuesto por la Ley General de Desarrollo Social, integrará con la Federación un Padrón Único de beneficiarios de los programas sociales estatales y municipales, en donde se registrarán las personas beneficiarias, los apoyos que reciben y la información sociodemográfica que se requiera para la correcta operación de los programas, las evaluaciones de impacto de los mismos y la planeación para el desarrollo social.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+Esta Ley, su reglamento y las reglas de operación, determinarán mecanismos para evitar la duplicidad de beneficios, a fin de asegurar la eficacia y equidad de los programas sociales.
 
 ###### ARTÍCULO 21.
 
@@ -682,3 +692,21 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JUAN CARLOS CASTILLEJOS CASTILLEJOS
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 005 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 20 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado tendrá 90 días naturales para realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social del Estado de Tabasco, y demás disposiciones legales y reglamentarias aplicables, contados a partir de su entrada en vigor.
