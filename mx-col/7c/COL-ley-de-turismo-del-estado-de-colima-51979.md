@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2018-02-03"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -551,7 +551,9 @@ El programa será evaluado anualmente por la Secretaría, ciento ochenta días d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO I. DE LA PROMOCION Y FOMENTO TURÍSTICO
+### CAPÍTULO VI. TURISMO MÉDICO
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 26 Bis 3.
 
@@ -579,13 +581,23 @@ Los prestadores de servicios deberán proveer lo necesario para que las personas
 
 La Secretaría y los Órganos Municipales de Turismo del Estado vigilarán que las disposiciones establecidas por este capítulo se cumplan, así como las establecidas en la Ley para la Integración y Desarrollo Social de las Personas con Discapacidad del Estado de Colima y demás aplicables.
 
-### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO I. DE LA PROMOCION Y FOMENTO TURÍSTICO
+
+###### Artículo 26 Ter.
+
+La Secretarí/a (sic), en coordinación con la Secretaría de Salud y con los Servicios de Salud del Estado de Colima, promoverán el Turismo Médico, que es una actividad estratégica para la política de turismo, que comprende desarrollar una infraestructura sanitaria y de recuperación para turistas que demandan una alta especialización, el acceso más rápido y menores costos, aprovechando los avances en infraestructura y atención medica con que cuenta el Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 26 Quáter.
+
+La Secretaría, establecerá una coordinación con las autoridades federales, estatales y municipales, así como con los sectores privado y social, para incentivar, capacitar y desarrollar programas de promoción de prestadores de Servicios que se dediquen al Turismo Médico; así como promover y promocionar a las empresas y los avances en equipamiento que tengan por objeto la prestación de servicios de salud.
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO III. CULTURA TURÍSTICA
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
 
 ###### Artículo 27.
 
@@ -623,7 +635,7 @@ Cuando se trate de inversiones en el sector turístico, la Secretaría en apego 
 
 La Comisión Dictaminadora de los Programas Económicos, una vez recibida la propuesta por parte de la Secretaría, actuará de conformidad a lo previsto en el Capítulo Tercero de la ley a que se refiere el artículo anterior.
 
-### CAPÍTULO IV. REGISTRO NACIONAL DE TURISMO
+### CAPÍTULO III. CULTURA TURÍSTICA
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -645,7 +657,9 @@ La Secretaría propondrá al Ejecutivo del Estado programas de capacitación, y 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO I. DEL TURISMO SUSTENTABLE
+### CAPÍTULO IV. REGISTRO NACIONAL DE TURISMO
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 37 Bis.
 
@@ -665,7 +679,7 @@ En conjunto con la Secretaría de Cultura, se establecerán programas que tengan
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO II. TURISMO DE NATURALEZA
+### CAPÍTULO I. DEL TURISMO SUSTENTABLE
 
 ###### Artículo 37 Bis 3.
 
@@ -685,7 +699,7 @@ La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la 
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO II. TURISMO DE NATURALEZA
 
 ###### Artículo 38.
 
@@ -703,9 +717,7 @@ Se promoverá de manera especial la educación ambiental del turista y de los re
 
 Los centros de hospedaje que pretendan estar clasificados dentro de este capítulo, deberán contar con la infraestructura, operación y la filosofía del concepto del ecoalojamiento, el cual deberá garantizar la preservación, conservación y restauración de la naturaleza, tomando como herramienta al turismo.
 
-### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
-
-> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE MAYO DE 2014, PRECISA LA MODIFICACIÓN AL ARTÍCULO 49, SIN EMBARGO DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CORRESPONDE AL ACTUAL ARTÍCULO 48.</small>
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 42.
 
@@ -722,6 +734,12 @@ El turismo de Aventura es el turismo de naturaleza que considera a los viajes co
 ###### Artículo 45.
 
 Turismo Rural es la categoría del turismo de naturaleza que considera a los viajes que tiene como fin el realizar actividades de convivencia e interacción con una comunidad rural en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma. Pudiendo ser las siguientes actividades: etnoturismo, agroturismo, talleres gastronómicos, vivencias místicas, aprendizaje de dialectos, ecoarquiología (sic), preparación y uso (sic) medicina tradicional, talleres artesanales y fotografía rural.
+
+### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
+
+> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE MAYO DE 2014, PRECISA LA MODIFICACIÓN AL ARTÍCULO 49, SIN EMBARGO DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CORRESPONDE AL ACTUAL ARTÍCULO 48.</small>
+
+## TÍTULO QUINTO
 
 ### CAPÍTULO III. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
 
@@ -742,10 +760,6 @@ Artículo 52 Bis 4 (SIC).- Atendiendo a lo dispuesto en el artículo anterior, l
 Artículo 52 Bis 5 (SIC).- La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, sin perjuicio de lo que disponga la ley de la materia, vigilarán que los prestadores de servicios turísticos, cumplan con las disposiciones establecidas en la Ley de Protección Civil del Estado, para la salvaguarda e integridad de las personas.
 
 > <small>(REFORMADO Y REUBICADO [ANTES CAPÍTULO III], P.O. 30 DE JUNIO DE 2012)</small>
-
-## TÍTULO QUINTO
-
-### CAPÍTULO IV. DE LA VERIFICACIÓN
 
 ###### Artículo 46.
 
@@ -844,6 +858,8 @@ XV. Disponer de lo necesario para que los inmuebles, edificaciones y servicios t
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 XVI. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos de interés para el turista.
+
+### CAPÍTULO IV. DE LA VERIFICACIÓN
 
 ###### Artículo 49.
 
@@ -1070,3 +1086,9 @@ P.O. 3 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 441 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 26 BIS 3 DE LA LEY DE TURISMO PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 598 POR EL QUE SE ADICIONA EL CAPÍTULO SEXTO DENOMINADO "TURISMO MÉDICO" QUE COMPRENDE LOS ARTÍCULOS 26 TER Y 26 QUÁTER, TODOS A LA LEY DE TURISMO DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
