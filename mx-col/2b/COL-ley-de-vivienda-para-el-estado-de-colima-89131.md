@@ -4,7 +4,7 @@ identifier: "COL-ley-de-vivienda-para-el-estado-de-colima-89131"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-18"
-last_updated: "2016-06-11"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 18 de agosto de 2012.
 
@@ -55,7 +55,9 @@ I. Establecer y regular la política de vivienda y las acciones habitacionales d
 
 II. Definir los lineamientos generales de la política de vivienda, así como de sus programas, instrumentos y apoyos para la producción de vivienda en la entidad, que garanticen que toda familia pueda contar con una vivienda digna y decorosa;
 
-III. Regular y promover las acciones de los sectores público, social y privado, dirigidas a garantizar el derecho a una vivienda adecuada, digna y decorosa para todas las familias;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+III. Regular y promover las acciones de los sectores público, social y privado, dirigidas a garantizar el derecho a una vivienda adecuada, digna y decorosa para todas las personas, principalmente a aquellas que se encuentren en situación de pobreza, marginación o vulnerabilidad;
 
 IV. Establecer los criterios de protección y apoyo para la población en situación de pobreza, riesgo o vulnerabilidad, así como al apoyo a la producción social de vivienda en el Estado;
 
@@ -107,9 +109,9 @@ XVII. Población en situación de riesgo: A aquella que habita una vivienda en c
 
 XVIII. Población en situación de pobreza: Al grupo de personas con carencia de lo necesario para el sustento de la vida por la baja capacidad de ingreso o condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de bienestar;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XVIII Bis. Población vulnerable: La constituida por los adultos mayores y discapacitados en situación de pobreza, jefas de familia, población indígena, así como población con empleo temporal y/o informal de bajos recursos económicos.
+XVIII Bis. Grupos sociales en situación de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar;
 
 XIX. Política Estatal de Vivienda: Al conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realicen el Estado y sus municipios, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;
 
@@ -155,9 +157,11 @@ Son de aplicación supletoria a lo dispuesto en este ordenamiento, la Ley de Viv
 
 La vivienda es un factor prioritario para el desarrollo económico y un elemento básico para el bienestar de los habitantes del Estado, por lo que esta Ley reconoce el derecho universal a una vivienda adecuada, digna y decorosa.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 5o.
 
-Las disposiciones de la presente Ley y sus disposiciones reglamentarias deberán aplicarse bajo los principios de equidad, inclusión social y no discriminación que permitan a todos los habitantes del Estado, sin importar su origen étnico o nacional, género, edad, discapacidad, condición social o económica, condiciones de salud, religión, situación migratoria, opinión, preferencia o estado civil; disfrutar del derecho a una vivienda digna y decorosa, entendiéndose por ésta: el lugar seguro, salubre y habitable; que cumpla con las disposiciones jurídicas y normativas aplicables en materia de asentamientos humanos y construcción; contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos; que permita el disfrute de la intimidad y la integración económica, cultural, social y urbana; y sobre la cual sus ocupantes tengan la seguridad jurídica de su propiedad o legítima posesión.
+Las disposiciones de la presente Ley y sus disposiciones reglamentarias deberán aplicarse bajo los principios de equidad, inclusión social, no discriminación y perspectiva de género, que permitan a todos los habitantes del Estado, sin importar su origen étnico o nacional, género, edad, discapacidad, condición social o económica, condiciones de salud, religión, situación migratoria, opinión, preferencia o estado civil; disfrutar del derecho a una vivienda digna y decorosa, entendiéndose por ésta: decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, salubridad, cuente con espacios habitables y auxiliares, así como con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
 ###### ARTÍCULO 6o.
 
@@ -191,9 +195,21 @@ X. Destinar recursos a la investigación tecnológica, a la innovación y promoc
 
 XI. Promover y estimular la producción y distribución de materiales y elementos para la construcción de vivienda de carácter innovador, a efecto de reducir costos, de conformidad con la legislación aplicable en la materia;
 
-XII. Difundir e informar de los programas públicos de vivienda, con objeto de un mejor conocimiento por los beneficiarios; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XIII. Coordinar las acciones y políticas de vivienda con el Sistema Estatal de Protección Civil.
+XII. Difundir e informar de los programas públicos de vivienda, con objeto de un mejor conocimiento por los beneficiarios;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIII. Coordinar las acciones y políticas de vivienda con el Sistema Estatal de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIV. Procurar esquemas que permitan la participación de comunidades de las diversas regiones del Estado, principalmente las situadas en zonas en alta y muy alta marginación, de acuerdo con los indicadores del Consejo Nacional de Evaluación de la Política de Desarrollo Social, y de la Secretaría de Desarrollo Social del Estado, con la finalidad del mejoramiento continuo de sus viviendas e infraestructura pública; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XV. Podrá vigilar la correcta aplicación de los indicadores de marginación, que emite el Consejo Nacional de Evaluación de la Política de Desarrollo Social, y la Secretaría de Desarrollo Social del Estado, para atender el direccionamiento de los programas Estatales y Municipales en materia de vivienda.
 
 ###### ARTÍCULO 8o.
 
@@ -365,9 +381,9 @@ El Instituto tiene por objeto:
 
 I. Coadyuvar con las dependencias de los gobiernos federal y municipales, en la ejecución de planes, adquisición de reservas territoriales y programas de vivienda en los que tenga interés el gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-II. En general promover el mejoramiento de las condiciones de habitación de los sectores de población de bajos recursos económicos;
+II. En general promover el mejoramiento de las condiciones de habitación de los sectores de población de bajos recursos económicos y grupos vulnerables;
 
 III. Promover la expropiación de terrenos de acuerdo con lo dispuesto en las leyes de la materia, cuyo destino sea para el establecimiento de programas de vivienda;
 
@@ -383,9 +399,9 @@ VIII. Propiciar la participación de la comunidad en la ejecución de acciones, 
 
 IX. Gestionar y obtener créditos para la realización de acciones de vivienda, adquisición de reservas territoriales e inversiones en materia de suelo, equipamiento, infraestructura y servicios urbanos;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-X. Conceder créditos, subsidios y apoyos para la adquisición de vivienda y terrenos, estableciendo los requisitos que deberán satisfacer los beneficiarios de los mismos;
+X. Conceder créditos, subsidios y apoyos para la adquisición de vivienda y terrenos, preferentemente para aquella que se encuentre en situación de pobreza, marginación o vulnerabilidad, estableciendo los requisitos que deberán satisfacer los beneficiarios de los mismos;
 
 XI. Desarrollar, mediante la investigación, modelos de vivienda adecuados a las tradiciones y usos de materiales de la región;
 
@@ -459,9 +475,17 @@ b. El Secretario de Finanzas y Administración;
 
 c. El Secretario de Desarrollo Rural;
 
-d. El Secretario de Planeación; y
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-e. El Secretario de Fomento Económico
+d). El Secretario de Planeación;
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+e). El Secretario de Fomento Económico; y
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+f). El Secretario de Desarrollo Social.
 
 Los cargos de los integrantes de la Junta de Gobierno serán honoríficos.
 
@@ -741,9 +765,9 @@ En el marco del Plan Estatal de Desarrollo, el Programa Estatal de Vivienda se f
 
 El Programa Estatal de Vivienda tendrá una visión de mediano y largo plazo, que permita la continuidad de las políticas y programas en la materia, más allá de los periodos de los gobiernos Estatal y Municipal. Se tomarán en consideración para la elaboración de la política y los programas de vivienda, las propuestas que formulen los sectores social y privado, a través de foros de consulta ciudadana.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-Este Plan contemplará además la construcción de viviendas sociales, las cuales se entregarán entre la población vulnerable y en situación de pobreza extrema que se encuentre debidamente identificada por la Secretaría de Desarrollo Social del Estado. La entrega de viviendas será implementada por el Instituto, mediante un sistema que garantice la transparencia e imparcialidad de este programa.
+Este Plan contemplará además la construcción de viviendas sociales, las cuales se entregarán entre la población vulnerable y en situación de pobreza extrema que se encuentre debidamente identificada por la Secretaría de Desarrollo Social del Estado y de acuerdo con los indicadores del Consejo Nacional de Evaluación de la Política de Desarrollo Social. La entrega de viviendas será implementada por el Instituto, mediante un sistema que garantice la transparencia e imparcialidad de este programa.
 
 ###### ARTÍCULO 45.
 
@@ -765,17 +789,21 @@ El Reglamento de esta Ley determinará los contenidos mínimos, metodología y d
 
 ### CAPÍTULO XI. DE LOS BENEFICIARIOS
 
-###### ARTÍCULO 48.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-Teniendo la Ley como objeto principal el promover y realizar la construcción de viviendas y fraccionamientos de interés social que beneficie a la población de escasos recursos económicos, lo que se comprobará mediante el estudio socioeconómico respectivo, el Instituto transmitirá los bienes destinados a tales fines mediante el acto o contrato que proceda a las personas que reúnan los siguientes requisitos:
+###### Artículo 48.
 
-I. Que sea ciudadano mexicano;
+Teniendo la Ley como objeto principal el promover y realizar la construcción de viviendas y fraccionamientos de interés social que beneficie a la población de escasos recursos económicos o en situación de vulnerabilidad o marginación, lo que se comprobará mediante el estudio socioeconómico respectivo, el Instituto transmitirá los bienes destinados a tales fines mediante el acto o contrato que proceda a las personas que reúnan los siguientes requisitos:
 
-II. Que sea jefe o jefa de familia con dependientes económicos de manera directa;
+I. Ser ciudadano mexicano;
 
-III. Que el beneficiario, su cónyuge, concubino y sus dependientes económicos, no tengan otro predio o casa habitación en propiedad; y
+II. Encontrarse en situación de pobreza, marginación o vulnerabilidad;
 
-IV. Que tenga establecido su domicilio en la Entidad.
+III. Que sea jefe o jefa de familia con dependientes económicos de manera directa;
+
+IV. Que el beneficiario, su cónyuge, concubino y sus dependientes económicos, no tengan otro predio o casa habitación en propiedad; y
+
+V. Que tenga establecido su domicilio en la Entidad.
 
 Los solicitantes que hubieren sido beneficiados con algún subsidio para la adquisición de lote o vivienda, no podrán recibir nuevo subsidio.
 
@@ -817,7 +845,9 @@ El Ejecutivo y los municipios, fomentarán la celebración de contratos y conven
 
 Los contratos y convenios que se celebren con los sectores social y privado, podrán tener por objeto:
 
-I. Buscar el acceso del mayor número de personas a la vivienda, estableciendo mecanismos que beneficien preferentemente a la población en situación de pobreza;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+I. Buscar el acceso del mayor número de personas a la vivienda, estableciendo mecanismos que beneficien preferentemente a la población en situación de pobreza, marginación o vulnerabilidad;
 
 II. Promover la creación de fondos e instrumentos para la generación oportuna y competitiva de vivienda y suelo;
 
@@ -1009,6 +1039,10 @@ Las acciones de vivienda que se realicen en la entidad y sus municipios, deberá
 
 Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, el Instituto promoverá, en coordinación con las autoridades competentes, que en el desarrollo de las acciones habitacionales, en sus distintos tipos y modalidades, así como en la utilización de recursos y servicios asociados, se asegure que las viviendas cuenten con los espacios habitables y de higiene suficientes, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica, que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+Asimismo, promoverá el uso de energías renovables mediante las nuevas ecotecnologías aplicables a la vivienda, de acuerdo a las regiones bioclimáticas de cada región de la Entidad, utilizando equipos y sistemas normalizados en cualquiera de sus modalidades.
+
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, verificarán que se dé cumplimiento a lo dispuesto en la presente Ley en materia de calidad y sustentabilidad de la vivienda y, a las demás disposiciones legales y reglamentarias correspondientes.
 
 ###### ARTÍCULO 79.
@@ -1035,9 +1069,13 @@ El Instituto promoverá la celebración de acuerdos y convenios con productores 
 
 I. La atención a programas de vivienda emergente para atención a damnificados, derivados de desastres;
 
-II. Apoyar programas de producción social de vivienda, particularmente aquéllos de autoproducción, autoconstrucción y mejoramiento de vivienda para familias en situación de pobreza; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-III. La conformación de paquetes de materiales para las familias en situación de pobreza.
+II. Apoyar programas de producción social de vivienda, particularmente aquéllos de autoproducción, autoconstrucción y mejoramiento de vivienda para familias en situación de pobreza, marginación o vulnerabilidad; y
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+III. La conformación de paquetes de materiales para las familias en situación de pobreza, marginación o vulnerabilidad.
 
 Asimismo, promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de licencias y permisos de construcción necesarios.
 
@@ -1093,7 +1131,9 @@ Las políticas y programas dirigidos al estímulo y apoyo de la producción soci
 
 I. Contemplar todo el proceso de producción habitacional, incluyendo los distintos tipos, modalidades y necesidades de vivienda;
 
-II. Atender preferentemente a la población en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+II. Atender preferentemente a la población en situación de pobreza, marginación o vulnerabilidad;
 
 III. Ofrecer apoyos y asistencia técnica, social, jurídica y financiera que combine el ahorro, el crédito y el subsidio con el trabajo de los beneficiarios en los distintos tipos y modalidades de vivienda;
 
@@ -1216,3 +1256,9 @@ P.O. 11 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 96 SE ADICIONAN LOS ARTÍCULOS NOVENO, DÉCIMO Y UNDÉCIMO TRANSITORIOS, A LA LEY DE VIVIENDA PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 576 POR EL QUE SE “REFORMA LA FRACCIÓN III DEL ARTÍCULO 1; LA FRACCIÓN XVIII BIS DEL ARTÍCULO 2°; EL ARTÍCULO 5°; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 7; LAS FRACCIONES II Y X DEL ARTÍCULO 17; LOS INCISOS D) Y E) DE LA FRACCIÓN IV DEL ARTÍCULO 23; EL TERCER PÁRRAFO DEL ARTÍCULO 44; EL ARTÍCULO 48; LA FRACCIÓN I DEL ARTÍCULO 53; LAS FRACCIONES II Y III DEL ARTÍCULO 82; LA FRACCIÓN II DEL ARTÍCULO 88; Y SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 7; EL INCISO F A LA FRACCIÓN IV DEL ARTÍCULO 23; UN PÁRRAFO SEGUNDO, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO AL ARTÍCULO 78, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
