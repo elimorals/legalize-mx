@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2018-08-15"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -551,7 +551,9 @@ IV.- En materia de hacienda pública municipal:
 
 a) Administrar libremente su hacienda publica municipal;
 
-b) Presentar al Congreso del Estado a más tardar el día 15 de septiembre de cada año, la iniciativa de Ley de Ingresos, que deberá regir durante el año siguiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2018)</small>
+
+b) Presentar al Congreso del Estado para su aprobación en su caso, durante los primeros quince días del mes de noviembre de cada año, sus Iniciativas de Leyes de Ingresos, que regirán durante el año siguiente.
 
 Dichas Leyes de Ingresos deberán incluir, en los diferentes conceptos de ingresos a recaudar, los montos probables o aproximados de cada uno de ellos que permita la operación de los servicios públicos.
 
@@ -2481,7 +2483,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 30 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2371.- SE REFORMAN LOS ARTÍCULOS 20 PÁRRAFO PRIMERO; 21 PÁRRAFOS SEGUNDO, CUARTO Y QUINTO; 25 PÁRRAFO PRIMERO; 26 PÁRRAFO TERCERO; 34 Y 53 FRACCIÓN XI DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2371.- SE REFORMAN LOS ARTÍCULOS 20 PÁRRAFO PRIMERO; 21 PÁRRAFOS SEGUNDO, CUARTO Y QUINTO; 25 PÁRRAFO PRIMERO; 26 PÁRRAFO TERCERO; 34 Y 53 FRACCIÓN XI DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
@@ -2512,3 +2514,11 @@ B.O. 15 DE AGOSTO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se establece un término de 90 días para que los Ayuntamientos del Estado realicen los cambios correspondientes en sus respectivos Reglamentos Interiores.
+
+B.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2570 SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 148 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; EL PRIMER PÁRRAFO DEL INCISO B) DE LA FRACCIÓN IV DEL ARTÍCULO 51 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR Y EL INCISO B) DE LA FRACCIÓN XIV DEL ARTÍCULO 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del año 2019, previa su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
