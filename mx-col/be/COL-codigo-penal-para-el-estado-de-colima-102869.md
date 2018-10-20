@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2018-10-02"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1537,13 +1537,13 @@ CUMPLIMIENTO DEL CRITERIO DE OPORTUNIDAD, ACUERDO REPARATORIO EN JUSTICIA RESTAU
 
 La potestad para ejercer la acción penal, se extingue en los casos de cumplimiento de criterio de oportunidad, acuerdo reparatorio en justicia restaurativa, o de las condiciones decretadas en la suspensión condicional del proceso, y en las formas previstas en el Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 119.
 
 Delitos de querella necesaria.
 
-Se consideran delitos que como requisito de procedibilidad debe de constar querella del ofendido o de quien este facultado legalmente para interponerla, los siguientes; lesiones tipificado en las fracciones I, II y III del artículo 126, inducción o ayuda al suicidio tipificado en el artículo 143, estupro tipificado en el artículo 148, hostigamiento sexual y acoso laboral tipificados en los artículos 152 y 152 BIS, rapto tipificado en el artículo 162, robo tipificado en los artículos 183, 184, 185 apartado A) fracción III, 189, abigeato tipificado en el artículo192 en los supuestos del artículo 196, abuso de confianza tipificado en el artículo 197, 198 fracción I, fraude tipificado en el artículo 199, 200, 201 fracción II, 202, despojo tipificado en el artículo 205, daños tipificado en el artículo 207, peligro de contagio tipificado en el artículo 212, ataque peligroso tipificado en el artículo 214, amenazas y coacción tipificado en el artículo 218 y 219, allanamiento de morada tipificado en el artículo 220, revelación de secretos tipificado en el artículo 221, discriminación tipificado en el artículo 223, incumplimiento de obligaciones de asistencia familiar tipificado en los artículos 229, 230, 231, violación de correspondencia tipificado en el artículo 252, cobranza extrajudicial ilegal tipificado en el artículo 218 Bis y en los que así lo prevea este Código.
+Se consideran delitos que como requisito de procedibilidad debe de constar querella del ofendido o de quien este facultado legalmente para interponerla, los siguientes; lesiones tipificado en las fracciones I, II y III del artículo 126, inducción o ayuda al suicidio tipificado en el artículo 143, estupro tipificado en el artículo 148, hostigamiento sexual y acoso laboral tipificados en los artículos 152 y 152 BIS, robo tipificado en los artículos 183, 184, 185 apartado A) fracción III, 189, abigeato tipificado en el artículo 192 en los supuestos del artículo 196, abuso de confianza tipificado en el artículo 197, 198 fracción I, fraude tipificado en el artículo 199, 200, 201 fracción II, 202, despojo tipificado en el artículo 205, daños tipificado en el artículo 207, peligro de contagio tipificado en el artículo 212, ataque peligroso tipificado en el artículo 214, amenazas y coacción tipificado en el artículo 218 y 219, allanamiento de morada tipificado en el artículo 220, revelación de secretos tipificado en el artículo 221, calumnia tipificado en el artículo 222, discriminación tipificado en el artículo 223, incumplimiento de obligaciones de asistencia familiar tipificado en los artículos 229, 230, 231, violación de correspondencia tipificado en el artículo 252, cobranza extrajudicial ilegal tipificado en el artículo 218 Bis y en los que así lo prevea este Código.
 
 # LIBRO SEGUNDO. DE LOS DELITOS EN PARTICULAR
 
@@ -1717,7 +1717,7 @@ Para los efectos del artículo anterior, tratándose de menores o incapaces, se 
 
 ###### ARTÍCULO 131.
 
-Cuando dolosamente se infieran lesiones en contra de integrantes de alguna institución policial o servidores públicos en alguna de las áreas de prevención, de persecución de delitos, administración de justicia o de ejecución de penas, si se encuentran en el ejercicio de sus funciones o con motivo de ellas, se le impondrán al autor las mismas las (sic) sanciones previstas para las lesiones calificadas.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -1759,17 +1759,15 @@ IV. Con traición, consistente en violar la fe o la seguridad que expresamente s
 
 V. Cuando exista retribución, entendiéndose por ésta cuando el agente comete el hecho por pago o prestación prometida o entregada;
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
-
-VI. Cuando se cometa dolosamente en contra de miembros de las fuerzas armadas, servidores públicos de las instituciones de Seguridad Pública, procuración o administración de justicia, al ejercer lícitamente sus funciones o con motivo de ellas;
+VI. (DEROGADA, P.O. 20 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 VII. Cuando dolosamente se cometan en perjuicio de periodistas o de empleados o titulares de medios de comunicación, con motivo o en ejercicio de su actividad periodística;
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-VIII. Cuando se cometa dolosamente y el sujeto pasivo haya sido periodista, miembro de las fuerzas armadas, servidor público integrante de las instituciones de Seguridad Pública, de procuración o administración de justicia, dentro de los cinco años anteriores a la fecha de la comisión del delito y éste se haya cometido con motivo de sus funciones;
+VIII. Cuando se cometa dolosamente y el sujeto pasivo haya sido periodista o miembros de las fuerzas armadas dentro de los cinco años anteriores a la fecha de la comisión del delito y éste se haya cometido con motivo de sus funciones;
 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
@@ -1877,7 +1875,7 @@ Si la persona a quien se induzca o ayude a privarse de la vida, fuere cónyuge, 
 
 ### CAPÍTULO III. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 144.
 
@@ -1949,23 +1947,35 @@ Sólo se procederá contra el activo, previa querella de la víctima u ofendido,
 
 ###### ARTÍCULO 149.
 
-Al que sin el consentimiento de una persona y sin el propósito directo o inmediato de llegar a la cópula ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de seis meses a cuatro años y multa por el importe equivalente de cien a doscientas cincuenta unidades de medida y actualización.
+Al que sin el consentimiento de una persona y sin el propósito directo o inmediato de llegar a la cópula ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de dos a ocho años y multa por el importe equivalente de doscientas a trescientas unidades de medida y actualización.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 150.
 
-Al responsable del delito de abuso sexual, cuando el pasivo sea menor de dieciocho años de edad y mayor de catorce años de edad, se le impondrá una pena de dos a seis años de prisión y multa por el importe equivalente de ciento cincuenta a trescientas unidades de medida y actualización.
+Al responsable del delito de abuso sexual, cuando el pasivo sea menor de dieciocho años de edad y mayor de catorce años de edad, se le impondrá una pena de tres a ocho años de prisión y multa por el importe equivalente de doscientas a trescientas cincuenta unidades de medida y actualización.
 
-De igual forma, cuando el pasivo sea menor de catorce años de edad, o no tenga capacidad de comprender el significado del hecho o en quien por cualquier causa no pueda resistirlo, al responsable del delito se le impondrá de tres a siete años de prisión y multa por el importe equivalente de doscientas a trescientas unidades de medida y actualización.
+De igual forma, cuando el pasivo sea menor de catorce años de edad, o no tenga capacidad de comprender el significado del hecho o en quien por cualquier causa no pueda resistirlo, al responsable del delito se le impondrá de cuatro a ocho años de prisión y multa por el importe equivalente de doscientas cincuenta a cuatrocientas unidades de medida y actualización.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 151.
 
-Sólo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el procurador de la defensa del menor y la familia.
+Sólo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el Procurador de la Defensa del Menor y la Familia.
 
 Cuando el sujeto pasivo sea menor de catorce años de edad, o carezca de capacidad para comprender el significado del hecho, el delito se perseguirá de oficio no admitiendo el perdón del ofendido o de sus legítimos representantes.
 
-Cuando se ejerza violencia en el sujeto pasivo la pena se aumentará hasta en un tercio más de la pena establecida para los supuestos considerados en el presente capítulo.
+Las penas previstas en los artículos 149 y 150, se aumentarán hasta en un tercio más de lo establecido, cuando en el abuso sexual concurra alguna de las circunstancias siguientes:
+
+I.- Cuando se ejerza violencia en el sujeto pasivo;
+
+II.- Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que le ejerciere sobre la víctima, así como los derechos sucesorios con respecto del ofendido;
+
+III.- Cuando fuere cometido por persona que tenga (sic) ofendido, bajo su custodia, guarda o educación o aproveche confianza en el depositada;
+
+IV.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término igual al de la pena de prisión; y
+
+V.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
@@ -2028,8 +2038,6 @@ A quien disponga de óvulos, esperma, cigotos o embriones humanos con fines dist
 A quien sin consentimiento de la mujer mayor de dieciocho años de edad o aún con el consentimiento de una menor de edad o de una incapaz para comprender el significado del hecho o para resistirlo, realice en ella cualquier técnica de reproducción asistida, se le impondrán de cuatro a siete años de prisión, multa de ciento cincuenta a quinientas unidades de medida y actualización y, en su caso, inhabilitación para ejercer su profesión por un tiempo igual al de la pena de prisión impuesta cuando ésta esté relacionada con las ciencias de la salud o afines, y tratándose de servidores públicos inhabilitación para el desempeño del empleo, cargo o comisión, por un tiempo igual al de la pena de prisión impuesta.
 
 ### CAPÍTULO III. RAPTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 155.
 
@@ -2107,15 +2115,7 @@ Si el agente espontáneamente pone en libertad a la víctima dentro de los dos d
 
 ###### ARTÍCULO 162.
 
-Al que sustraiga o retenga a una persona menor de dieciocho años de edad, por medio de la violencia, de la seducción o del engaño, para satisfacer algún deseo sexual, se le impondrán de uno a seis años de prisión y multa por un importe equivalente de cien a doscientas unidades de medida y actualización.
-
-Si el sujeto pasivo tuviere dieciocho años de edad o más, el rapto sólo se sancionará cuando se cometa por medio de la violencia.
-
-Igual sanción se aplicará al que con idénticos fines sustraiga o retenga a una persona que por cualquier causa no pudiere resistir.
-
-Por el sólo hecho de no haber cumplido dieciocho años de edad, la persona que voluntariamente siga a su raptor, se presumirá que éste empleó la seducción.
-
-Solo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el procurador de la defensa del menor y la familia.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ### CAPÍTULO III. TURISMO SEXUAL
 
@@ -3857,11 +3857,19 @@ USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD
 
 A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar una determinación, se le impondrán de uno a cinco años de prisión, multa por un importe equivalente de sesenta a cien unidades de medida y actualización, y suspensión de derechos políticos hasta por el mismo número de años.
 
-## TÍTULO TERCERO. DELITOS CONTRA LA IMPARTICIÓN DE JUSTICIA
+## TÍTULO SEGUNDO BIS. DELITOS CONTRA LOS MIEMBROS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO I. LESIONES Y HOMICIDIO AGRAVADOS EN CONTRA DE MIEMBROS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 275 BIS. Cuando se infiera lesiones dolosas a un miembro de las instituciones de seguridad pública, las sanciones señaladas en el artículo 126 del presente Código, se incrementarán de ocho meses a diez años de prisión.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 275 TER. Cuando de manera dolosa se cometa homicidio en contra de un miembro de las instituciones de seguridad pública, se impondrá sanción de 40 a 50 años de prisión.
 
 ###### ARTÍCULO 267.
 
@@ -3871,9 +3879,9 @@ Cometen el delito de coalición de servidores públicos, los que teniendo tal ca
 
 A quien cometa este delito se le impondrán de dos a siete años de prisión, multa de cien a trescientas unidades de medida y actualización e inhabilitación de dos a siete años para desempeñar otra función pública.
 
-### CAPÍTULO II. EVASIÓN DE PRESOS
+### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 268.
 
@@ -3883,7 +3891,7 @@ I. Sin ser servidor público se atribuya ese carácter y ejerza o ejecute alguna
 
 II. Al servidor público, que ejerza funciones públicas distintas o que no le hubieren sido conferidas legalmente.
 
-### CAPÍTULO III. ENCUBRIMIENTO
+### CAPÍTULO II. EVASIÓN DE PRESOS
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3895,9 +3903,9 @@ A quien ultraje a un servidor público en el acto de ejercer sus funciones o con
 
 No se considera ultraje a la autoridad cuando se trate de una video-grabación o tomas fotográficas realizadas por un espectador, en un espacio público o al que tenga derecho a acceder, y que no impidan el libre ejercicio de sus funciones como servidor público.
 
-### CAPÍTULO IV. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPÍTULO III. ENCUBRIMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 270.
 
@@ -3913,21 +3921,25 @@ III. A la persona o servidor público que no proporcione o se niegue a proporcio
 
 Cuando la ley autorice el empleo de los medios de apremio para hacer efectivas las determinaciones de la autoridad, deberá agotar previamente alguno de aquellos, antes de dar vista al ministerio público para los efectos correspondientes.
 
-### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
+### CAPÍTULO IV. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 271.
 
 A quien empleando la violencia se oponga a que la autoridad ejerza alguna de sus funciones o resista el cumplimiento de una orden legítima cuya ejecución se lleve a cabo en forma legal, se le aplicarán de seis meses a cuatro años de prisión, y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
 
-### CAPÍTULO ÚNICO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD ANIMAL
+### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 272.
 
 A quien quebrante los sellos puestos por orden de la autoridad, se le aplicarán de seis meses a dos años de prisión, y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
+
+### CAPÍTULO ÚNICO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD ANIMAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 273.
 
@@ -3973,9 +3985,11 @@ Igualmente, se sancionará con una pena de tres a siete años de prisión, y mul
 
 Además de la pena y sanción que corresponda por la realización de la conducta descrita en los dos párrafos anteriores, el servidor público será destituido del empleo, cargo o comisión, e inhabilitado para desempeñar cualquier empleo relacionado con las funciones propias de las instituciones de seguridad pública, de procuración e impartición de justicia, y de ejecución de las penas, de cualquier ámbito.
 
-## TÍTULO PRIMERO. DELITOS CONTRA EL MEDIO AMBIENTE
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-## TÍTULO SEGUNDO. DELITOS CONTRA LA VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES DOMÉSTICOS
+## TÍTULO TERCERO. DELITOS CONTRA LA IMPARTICIÓN DE JUSTICIA
+
+## TÍTULO PRIMERO. DELITOS CONTRA EL MEDIO AMBIENTE
 
 ###### ARTÍCULO 276.
 
@@ -4056,6 +4070,8 @@ I. Abandone una defensa o juicio sin motivo justificado y causando daño; o
 II. Asesore o ayude a dos o más contendientes o partes con intereses opuestos, o habiendo patrocinado a alguno, admita después el de la parte contraria, tratándose de un mismo negocio o de negocios conexos.
 
 #### SECCIÓN QUINTA. DELITOS CONTRA EL MEDIO AMBIENTE, VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES DOMÉSTICOS
+
+## TÍTULO SEGUNDO. DELITOS CONTRA LA VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES DOMÉSTICOS
 
 ###### ARTÍCULO 287.
 
@@ -4334,3 +4350,9 @@ P.O. 2 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 618 POR EL QUE SE APRUEBA DEROGAR EL ARTÍCULO 233 BIS 2 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 557 POR EL QUE SE SE (SIC) REFORMAN LOS ARTÍCULOS 149; 150 Y 151; SE DEROGA EL ARTÍCULO 131; SE DEROGA LA FRACCIÓN VI Y SE REFORMA LA FRACCIÓN VIII AMBAS DEL ARTÍCULO 134; SE DEROGA EL ARTÍCULO 162; Y SE ADICIONA A LA SECCIÓN CUARTA DEL LIBRO SEGUNDO UN TÍTULO SEGUNDO BIS QUE CONTIENE EL CAPÍTULO I INTEGRADO POR LOS ARTÍCULOS 275 BIS Y 275 TER DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser Publicado en el Periódico Oficial "El Estado de Colima".
