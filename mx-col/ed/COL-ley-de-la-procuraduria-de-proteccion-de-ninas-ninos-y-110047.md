@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-procuraduria-de-proteccion-de-ninas-ninos-y-110047"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-26"
-last_updated: "2016-11-22"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE LA PROCURADURIA DE PROTECCION DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 575, PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 26 de Septiembre de 2015.
 
@@ -440,3 +442,25 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 575 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima", con fecha 26 de septiembre del año 2015.
+
+TERCERO. La coordinación operativa del Sistema Estatal de Protección pasa a constituirse como un órgano administrativo desconcentrado de la Secretaría General de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva.
+
+CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes conservará todos los recursos materiales y financieros, así como el personal adscrito a la misma, con pleno respeto a sus derechos laborales.
+
+QUINTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes, en lo que corresponde al presente ejercicio fiscal, continuará desarrollando sus funciones de conformidad con su presupuesto asignado, debiéndose hacer las adecuaciones presupuestales necesarias para el efectivo cumplimiento de sus atribuciones y operatividad en su carácter de Organismo Público Descentralizado, en los siguientes ejercicios fiscales.
+
+SEXTO. El Poder Ejecutivo Estatal deberá realizar las reformas al marco jurídico reglamentario pertinente, en un plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Los Ayuntamientos contarán con un plazo de 90 días naturales para emitir la reglamentación que regule la operatividad de su correspondiente Procuraduría Municipal, contados a partir de la entrada en vigor del Reglamento Interior de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Colima.
+
+OCTAVO. Los procedimientos vigentes ante la Procuraduría de Protección con anterioridad a la entrada en vigor del presente Decreto, se solventarán y resolverán de conformidad con la legislación vigente al momento de su inicio.
+
+NOVENO. La Procuraduría de Protección de Niñas, Niños y Adolescentes deberá continuar observando las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor del presente Decreto, y que no se opongan a lo previsto por el mismo, en tanto entran en vigor sus propias disposiciones reglamentarias.
