@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-donacion-y-trasplantes-de-organos-tejidos-y-celulas-1012
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-07"
-last_updated: "2016-11-16"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de junio de 2014.
 
@@ -125,7 +125,9 @@ Los centros hospitalarios públicos del Sector Salud del Estado y los privados q
 
 La donación es el consentimiento dado por persona mayor de edad en pleno uso de sus facultades mentales, para que dispongan de sus órganos, tejidos y células, en vida o para después de su muerte.
 
-En el Estado, se considera donador expreso a quien además de los requisitos anteriores, esté inscrita (sic) en el padrón de donadores voluntarios, cuya voluntad se hará respetar por la autoridad competente.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+En el Estado, se considera donador expreso a quien además de los requisitos anteriores, esté inscrito en el padrón de donadores voluntarios, cuya voluntad se hará respetar por la autoridad competente. Así mismo, se considerará consentimiento expreso, el otorgado en la licencia para conducir; sin que se modifique su naturaleza jurídica.
 
 De igual modo, se considera donador tácito a aquella persona que en vida no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de las personas señaladas como disponentes secundarios, en los términos de la Ley General.
 
@@ -884,3 +886,9 @@ P.O. 16 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0855/2018 XVI P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 53, PÁRRAFO SEGUNDO, DE LA LEY DE VIALIDAD Y TRÁNSITO, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 7 DE LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS, AMBAS DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
