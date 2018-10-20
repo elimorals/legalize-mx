@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2017-11-25"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -57,9 +57,19 @@ LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de Colima, tiene su fundamento en el párrafo sexto del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, es reglamentaria del párrafo cuarto de la fracción I del artículo 1° de la Constitución Política del Estado Libre y Soberano de Colima y tiene por objeto:
+###### Artículo 1º.
+
+La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de Colima, tiene su fundamento en el párrafo sexto del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales firmados y ratificados por México especialmente en la Convención sobre los Derechos del Niño, así como en la Ley General de los Derechos de Niñas, Niños y Adolescentes y, en los artículos 1° y 3° de la Constitución Política del Estado Libre y Soberano de Colima, por lo que es reglamentaria en materia de derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+Todas las autoridades en el ámbito de sus competencia (sic), están obligadas a promover, respetar, proteger y garantizar los derechos humanos de las niñas, niños y adolescentes en el Estado de Colima.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE OCTUBRE DE 2018)</small>
+
+Esta Ley tiene por objeto:
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
@@ -86,6 +96,10 @@ III. Establecer mecanismos transparentes de seguimiento y evaluación de la impl
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se atenderá a lo establecido en la Constitución Federal y en los tratados internacionales de que México forma parte, buscando siempre la satisfacción más efectiva de este principio rector.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+Para efecto de la interpretación y aplicación de esta Ley, se atenderán los derechos humanos que gozan las niñas, niños y adolescentes como personas, observando el principio del interés superior de la niñez y los demás principios rectores previstos en esta Ley y demás disposiciones legales aplicables.
 
 Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
 
@@ -181,11 +195,17 @@ n. Madres y padres adolescentes, a los menores que tienen entre los doce y hasta
 
 o. Cualquier otra análoga a las anteriores de igual naturaleza grave.
 
-XXV. Procuraduría de Protección: A la Procuraduría de la Defensa del Menor y la Familia, del Sistema para el Desarrollo Integral de la Familia del Estado de Colima;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XXVI. Procurador: Al titular de la Procuraduría de la Defensa del Menor y la Familia, del Sistema para el Desarrollo Integral de la Familia del Estado de Colima;
+XXV. Procuraduría de Protección: A la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Colima;
 
-XXVII. Procuraduría General: A la Procuraduría General de Justicia del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXVI. Procuradurías Municipales: A la Procuraduría (sic) Protección de Niñas, Niños y Adolescentes de cada municipio en el Estado de Colima;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXVII. Fiscalía General: A la Fiscalía General de Justicia del Estado;
 
 XXVIII. Programa: Al Programa de Protección de Niñas, Niños y Adolescentes del Estado;
 
@@ -195,15 +215,27 @@ XXX. Protección Integral: Al conjunto de mecanismos que se ejecuten en los tres
 
 XXXI. Reglamento: Al Reglamento de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Colima;
 
-XXXII. Representación coadyuvante: Al acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXXII. Representación coadyuvante: Al acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos que, de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda a la Fiscalía General;
 
 XXXIII. Representación originaria: A la representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-XXXIV. Representación en suplencia: A la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XXXV. Sistema Estatal de Protección: Al Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Colima; y
+XXXIV. Representación en suplencia: A la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda a la Fiscalía General;
 
-XXXVI. Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXXV. Sistema Estatal de Protección: Al Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Colima;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXXVI. Riesgo: A la contingencia o proximidad de un daño; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXXVII. Tratados: A los Tratados Internacionales firmados y ratificados por México.
 
 ###### Artículo 5°.
 
@@ -219,41 +251,97 @@ Cuando exista la duda de si se trata de una persona mayor de dieciocho años de 
 
 Para efectos de esta Ley, son principios rectores, los siguientes:
 
-I. El Interés superior de la niñez;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1o. y 4o. de la Constitución Federal así como en los tratados internacionales;
+I. El Interés superior de la niñez: Se considerarán en una escala de valor aplicado, los derechos de las niñas, niños y adolescentes como prioritarios frente a cualquier otro u otros derechos, por lo que el interés superior de la niñez, deberá ser considerado primordialmente por las autoridades de los tres órdenes de gobierno, los poderes legislativo y judicial, así como los sectores social y privado, en la toma de decisiones y medidas que conciernan, involucren o afecten a niñas, niños y adolescentes en lo individual o colectivo;
 
-III. La igualdad sustantiva;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-IV. La no discriminación;
+II. La universalidad: Los derechos humanos son inherentes a la dignidad de las personas, por lo que todas las niñas, niños y adolescentes son titulares de dichos derechos sin distinción alguna;
 
-V. La inclusión;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-VI. El derecho a la vida, la supervivencia y el desarrollo;
+III. La indivisibilidad: Corresponde a una visión integral de los derechos en la cual se encuentran unidos porque conforman una sola construcción. Así, tanto la realización como la violación de un derecho repercuten en los otros, porque la indivisibilidad niega cualquier separación, categorización o jerarquía entre los derechos;
 
-VII. La participación;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-VIII. La interculturalidad;
+IV. La integralidad: Todos los derechos de las niñas, niños y adolescentes son indivisibles e interdependientes, por lo que debe darse igual atención y urgente consideración, a la aplicación, promoción y protección de los mismos, sin que la atención a algunos derechos, justifique la denegación de otros;
 
-IX. La corresponsabilidad de los miembros de la familia, la sociedad y las autoridades;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-X. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
+V. La interdependencia: Las niñas, niños y adolescentes gozan de todos los derechos humanos y el disfrute de uno de ellos significa el disfrute de los demás, y la violación o falta de respeto de uno de ellos implica la violación o falta de respeto de los demás derechos;
 
-XI. La autonomía progresiva;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XII. El principio Pro persona;
+VI. La progresividad: El gradual progreso para lograr el pleno cumplimiento de los derechos de las niñas, niños y adolescentes, requiere de la toma de medidas a corto, mediano y largo plazo, procediendo lo más expedita y eficazmente posible, no deberá haber regresividad o retroceso injustificado al cumplimiento alcanzado en la protección y garantía de los derechos;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XIII. El acceso a una vida libre de violencia;
+VII. La igualdad sustantiva: Parte del reconocimiento de que la igualdad es una condición, en tanto todas las personas tienen la misma dignidad, independientemente de su sexo, raza, nacionalidad, edad o condición, por lo que, al respetarse y ejercerse los derechos de las niñas, niños y adolescentes de facto, se logra un cambio de la realidad social;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XIV. La accesibilidad; y
+VIII. La no discriminación: las disposiciones de esta y otras leyes se aplicarán a niñas, niños y adolescentes sin distinción alguna, independientemente de su origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencia sexual o cualquier otra, que atente contra su dignidad como personas o, tenga por objeto anular o menoscabar sus derechos y libertades;
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XV. El derecho al adecuado desarrollo evolutivo de la personalidad;
+IX. La inclusión: Acoger la diversidad general en niñas, niños y adolescentes, sin discriminación alguna. En ejercicio de este principio se aceptan las diferencias, la diversidad y se promueve el trato equitativo en niñas, niños y adolescentes, a fin de minimizar los obstáculos para que todas las niñas, niños y adolescentes participen sin importar sus características o necesidades físicas, mentales, sociales, contextos culturales u otros;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+X. El derecho a la vida, la supervivencia y el desarrollo: El Estado y los Municipios deberán garantizar a niñas, niños y adolescentes el acceso a los servicios públicos y a la igualdad de oportunidades, para que todas y todos puedan alcanzar un pleno desarrollo integral, mediante la implementación de políticas sociales y económicas que beneficien efectivamente a las niñas, niños y adolescentes en todos los sectores de la sociedad;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XI. La participación: El reconocimiento de que las niñas, niños y adolescentes tienen capacidad de decisión y de que asumen un compromiso o responsabilidad, recibiendo la información necesaria, expresando sus puntos de vista conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, que sus opiniones sean consideradas en la toma de decisiones (sic) autoridades por los tres órdenes de gobierno, los poderes legislativo y judicial, así como los sectores social y privado;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XII. La interculturalidad: Principio que orienta hacia la generación de un espacio de carácter intercultural alternativo para la construcción teórica, reflexiva, práctica y compleja que facilite la comprensión del entorno nacional y local, articulando las diversas nacionalidades y cosmovisiones presentes en las diferentes culturas, privilegiando el rescate, la experiencia revaloración y aplicación de los saberes ancestrales y actuales. Las autoridades de (sic) Estado y de los municipios, así como los órganos jurisdiccionales deberán considerar al emitir sus determinaciones, los principios, valores, tradiciones y cosmovisiones de las diversas culturas que existen en nuestro país y Estado, a una visión compleja, hologramática, de una realidad vivenciada y soñada, teniendo en cuenta el símbolo como fuerte relación parte-todo (individuo/comunidad-comunidad/cosmos), la reciprocidad, complementariedad y correspondencia, entre otras cuestiones claves en las cosmovisiones de las diversas nacionalidades y pueblos ancestrales y actuales que viven en el país;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIII. La corresponsabilidad: La familia, la sociedad en general y las autoridades de los tres órdenes de gobierno, son corresponsables en el respeto, protección y restitución de los derechos de niñas, niños y adolescentes, a fin de garantizar el pleno goce y ejercicio de los mismos;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIV. La transversalidad legislativa y de políticas públicas: Implica estrategias y criterios de gestión que el Estado y los Municipios deben implementar, para focalizar el fortalecimiento de los puntos de contacto interinstitucionales encaminados a la satisfacción y protección de los derechos de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XV. La autonomía progresiva: Reconoce la capacidad gradual de participación de niñas, niños y adolescentes en asuntos que les afecten directamente de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, sin menoscabo de los derechos y obligaciones derivados de la orientación y dirección apropiada de quienes ejerzan la patria potestad, tutela o custodia;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XVI. El principio Pro Persona: Criterio de interpretación en materia de derechos humanos que busca en un caso concreto, la aplicación de la norma más protectora o, la interpretación que mayor beneficie a niñas niños y adolescentes, con la finalidad de proteger sus derechos y evitar su transgresión, observando en todo momento, el interés superior de la niñez;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XVII. El acceso a una vida libre de violencia: Las niñas, niños y adolescentes tienen derecho a crecer y desarrollarse en un ambiente social y familiar libre de violencia física o psicológica. La familia, la sociedad, las autoridades del Estado y los Municipios, son corresponsables en el cumplimiento de este principio, respecto a cualquier acto que tenga relación directa o indirecta con el ejercicio de sus derechos. Ningún abuso, restricción o vulneración de los derechos de las niñas, niños y adolescentes podrá considerarse válido, ni justificado por la exigencia del cumplimiento de sus deberes;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XVIII. La accesibilidad: Realzar ajustes razonables que se requieran para garantizar a las niñas, niños y adolescentes el goce y ejercicio de sus derechos, así como la implementación de las medidas pertinentes para asegurar el acceso, en igualdad de condiciones, al entorno físico, a los medios de transporte y comunicación y, a otros servicios e instalaciones abiertos al público, tanto en zonas urbanas como rurales;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIX. El libre desarrollo de la personalidad: Principio derivado de la dignidad como personas, de las niñas, niños y adolescentes, conforme al cual, les corresponde diseñar y ejecutar su proyecto de vida y la autodeterminación personal, con la salvedad de que no se vulneren otros derechos. Este principio relacionado con el de autonomía progresiva, funge como una pauta interpretativa, en la medida de que el ejercicio del derecho humano, se relacione estrechamente con el desarrollo de la personalidad;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XX. La tutela plena de derechos: El reconocimiento a niñas, niños y adolescentes como titulares de los derechos contenidos en la legislación estatal, nacional e internacional, especialmente en la Convención sobre los Derechos del Niño y demás tratados internacionales, obliga a que las determinaciones de las autoridades del Estado y los Municipios deban fundamentarse en las disposiciones legales aplicables en materia de derechos de la niñez y la adolescencia, para que se asegure el goce y debido ejercicio de sus derechos humanos y las garantías para su protección. En el supuesto de conflicto entre los derechos de niñas, niños, adolescentes y personas mayores de edad, deberá atenderse al principio del interés superior de la niñez;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXI. La equidad: Las normas y políticas públicas atenderán y promoverán, que en el goce de sus derechos, las niñas, niños y adolescentes tengan acceso al mismo trato y oportunidades sin distinción alguna, a fin de lograr la igualdad efectiva en el ejercicio de sus derechos;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXII. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales, y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXIII. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación o diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten.
 
 De conformidad con el principio del interés superior de la niñez, las normas aplicables a las niñas, los niños y los adolescentes, se entenderán dirigidas a procurarles primordialmente los cuidados, la asistencia y la representación que requieren para lograr un crecimiento y un desarrollo pleno dentro de un ambiente de bienestar familiar y social.
 
@@ -357,7 +445,9 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
 XIX. Derechos de niñas, niños y adolescentes migrantes; y
 
-XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión. Para tales efectos, el Estado establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XX. Derecho de acceso a las tecnologías de la información y comunicación.
 
 Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -693,7 +783,9 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, están obligados a tomar las medidas necesarias para prevenir, atender, proteger y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
-I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+I. El descuido, negligencia, abandono y abuso físico, especialmente en la modalidad de castigo corporal, así como el abuso psicológico o sexual;
 
 II. La corrupción de personas menores de 18 años de edad;
 
@@ -707,13 +799,17 @@ V. El trabajo antes de la edad mínima de quince años, prevista en el artículo
 
 VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integra (sic);
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-VIII. La exposición a contenidos artísticos, audiovisuales, gráficos, sonoros o electrónicos de todo tipo que contengan contenido violento, explícito o impropio para la edad de la niña, niño o adolescente en cuestión.
+VIII. La exposición a contenidos artísticos, audiovisuales, gráficos, sonoros o electrónicos de todo tipo que contengan contenido violento, explícito o impropio para la edad de la niña, niño o adolescente en cuestión; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+IX. Los casos en que se vean afectados en su sano desarrollo a causa de la violencia.
 
 Las autoridades del Estado, con relación a lo dispuesto por el presente artículo deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -877,9 +973,25 @@ XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que 
 
 XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
 
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
+XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de la información y comunicación;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección, Subprocuradurías Regionales o a la Procuraduría Municipal competente, los casos de asistencia irregular, abandono o deserción escolar, que se identifiquen respecto del alumnado que curse educación básica y media superior en los centros educativos.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXII, P.O. 20 DE OCTUBRE DE 2018]</small>
+
+Ante dicha notificación será aplicable el procedimiento establecido en los artículos 162 y 163 de la presente Ley, y en su caso, la activación de las medidas necesarias ante los órganos jurisdiccionales competentes, a fin de garantizar los derechos de las niñas, niños y adolescentes.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXII, P.O. 20 DE OCTUBRE DE 2018]</small>
+
+En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de esta Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos, conforme a las disposiciones legales aplicables.
 
 Las autoridades educativas del Estado, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -1153,7 +1265,9 @@ La legislación en materia de justicia integral para adolescentes en conflicto c
 
 La legislación a que se refiere el párrafo anterior, deberá garantizar los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
 
-### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO XXI. DEL DERECHO AL ACCESO A LAS TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 90.
 
@@ -1237,13 +1351,31 @@ Para garantizar de forma prioritaria la asistencia social y protección consular
 
 En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+###### Artículo 100 Bis.
+
+Las niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet, establecidos en la Constitución y en la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 100 Bis 1.
+
+El Estado y los Municipios garantizarán a las niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo tercero de la Constitución, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 100 Bis 2.
+
+Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet, como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento y no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones legales aplicables.
+
+### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN
+### CAPÍTULO I. DE LAS AUTORIDADES
 
 ###### Artículo 101.
 
@@ -1353,7 +1485,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO III. DE LOS ORGANISMOS DE PROTECCIÓN DE LOS DERECHOS HUMANOS
+### CAPÍTULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN
 
 ###### Artículo 110.
 
@@ -1443,7 +1575,9 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO IV. DEL PROGRAMA ESTATAL
+### CAPÍTULO III. DEL DIF ESTATAL Y LOS DIF MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 117.
 
@@ -1571,7 +1705,9 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el DIF Estatal.
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO IV. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 #### SECCIÓN PRIMERA. DEL SISTEMA ESTATAL DE PROTECCIÓN
 
@@ -1631,35 +1767,59 @@ XXII. Las demás que les otorguen otras disposiciones aplicables.
 
 En un marco de coordinación y respeto, el Sistema Estatal de Protección estará conformado por:
 
-I. Presidente, que será el Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-II. Un Secretario Técnico, que será el Secretario General de Gobierno;
+I. Presidencia, a cargo de la persona titular del Poder Ejecutivo;
 
-III. Los titulares de las entidades del gabinete estatal:
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-a. El titular de la Secretaría de Finanzas y Administración;
+II. Vicepresidencia, a cargo de la persona que funja como titular de la Secretaría General de Gobierno;
 
-b. El Titular de la Secretaría de Salud y Bienestar Social;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE OCTUBRE DE 2018)</small>
 
-c. El Titular de la Secretaría de Desarrollo Social;
+III. Las personas que funjan como titulares de las siguientes Entidades del gabinete estatal:
 
-d. El Titular de la Secretaría de Educación;
+a. De la Secretaría de Planeación y Finanzas;
 
-e. El Titular de la Secretaría del Trabajo y Previsión Social;
+b. De la Secretaría de Administración y Gestión Pública;
 
-f. El Titular de la Procuraduría General de Justicia; y
+c. De la Secretaría de Desarrollo Social;
 
-g. El Titular del DIF Estatal;
+d. De la Secretaría de Juventud;
 
-IV. Los Presidentes Municipales de los diez Ayuntamientos;
+e. De la Secretaría de Educación;
 
-V. El Diputado Presidente de la Comisión relativa a la niñez en el Congreso del Estado;
+f. De la Secretaría de Salud y Bienestar Social;
 
-VI. El Titular del Poder Judicial del Estado;
+g. De la Secretaría del Trabajo y Previsión Social;
 
-VII. El Titular de la Comisión de Derechos Humanos del Estado de Colima; y
+h. De la Fiscalía General;
 
-VIII. Representantes de la sociedad civil que serán nombrados por el Sistema Estatal de Protección, en los términos del Reglamento de esta Ley.
+i. De la Procuraduría de Protección;
+
+j. Del Institutito (sic) Colimense de las Mujeres, y
+
+k. Del DIF Estatal.
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+IV. Las Presidentas o Presidentes de los diez Ayuntamientos en el Estado;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+V. La Diputada o Diputado que funja como titular de la presidencia de la Comisión relativa a las niñas, niños y adolescentes en el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+VI. La Magistrada o Magistrado Presidente del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+VII. La persona que funja como titular de la Comisión de Derechos Humanos del Estado de Colima; y
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+VIII. Cuando menos de cuatro a seis representantes de la sociedad civil que serán nombrados por el Sistema Estatal de Protección, en los términos del Reglamento de esta Ley.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1667,19 +1827,27 @@ Para los efectos de lo previsto en la fracción VIII, el Reglamento deberá prev
 
 Quienes integran el Sistema Estatal de Protección tendrán el derecho de participar con derecho de voz y voto; podrán nombrar a un suplente, quien los represente en las Sesiones del Sistema Estatal de Protección, con la excepción del Presidente, quien será suplido en todo momento por el Secretario General de Gobierno.
 
-El Presidente podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los organismos autónomos, de los Municipios, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz pero sin voto.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+La Presidencia del Sistema Estatal de Protección podrá invitar a las sesiones respectivas a representantes de otras dependencias y Entidades de la Administración Pública Estatal, de los órganos autónomos, y de los Ayuntamientos, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
 
 En las sesiones del Sistema Estatal de Protección, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, estatales, nacionales o internacionales, especializadas en la materia.
 
-El Sistema Estatal de Protección se reunirá cuando menos dos veces al año. Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+El Sistema Estatal de Protección se reunirá cuando menos dos veces al año. Para sesionar válidamente se requerirá un quórum de la mitad más uno de sus miembros y la asistencia de la persona que funja como su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, la Presidencia tendrá voto de calidad.
 
 Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial "El Estado de Colima".
 
-El Reglamento de la presente Ley habrá de determinar con precisión las atribuciones especiales que han de tener cada uno de los miembros que integran el Sistema Estatal de Protección.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+El Reglamento de la presente Ley determinará las atribuciones especiales de cada una de las personas que funjan como miembros del Sistema Estatal de Protección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 125.
 
-La coordinación operativa del Sistema Estatal de Protección recaerá en un órgano administrativo desconcentrado del DIF Estatal, que ejercerá las funciones de Secretaría Ejecutiva.
+La coordinación operativa del Sistema Estatal de Protección recaerá en un órgano administrativo desconcentrado de la Secretaría General de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva.
 
 La Secretaría Ejecutiva tendrá las atribuciones siguientes:
 
@@ -1694,6 +1862,8 @@ IV. Compilar los acuerdos que se tomen en el Sistema Estatal de Protección, lle
 V. Apoyar al Sistema Estatal de Protección en la ejecución y seguimiento de los acuerdos y resoluciones emitidos;
 
 VI. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, estatales, municipales, nacionales e internacionales;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 VII. Administrar el sistema de información a nivel estatal a que se refiere la fracción XV del artículo 123;
 
@@ -1713,9 +1883,11 @@ XIV. Coordinar, con las Secretarías Ejecutivas de los Sistemas Municipales la a
 
 XV. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 126.
 
-El titular de la Secretaría Ejecutiva será nombrado y removido libremente por el Presidente del Sistema Estatal de Protección y deberá cumplir con los siguientes requisitos:
+La persona titular de la Secretaría Ejecutiva será nombrada y removida libremente por la Presidencia del Sistema Estatal de Protección y deberá cumplir con los siguientes requisitos:
 
 I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos;
 
@@ -1745,37 +1917,1037 @@ Los Ayuntamientos contarán con un programa de atención y con un área o servid
 
 La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección de forma inmediata.
 
+> <small>(ADICIONADO [N. DE E. CON EL ARTÍCULO QUE LO INTEGRA], P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO V. DEL PERSONAL ENCARGADO DE LA REPRESENTACIÓN Y RESTITUCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 129.
 
-La Comisión de Derechos Humanos del Estado, en la medida de sus posibilidades, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
+Corresponden al Estado y a los Ayuntamientos, a través de la Procuraduría de Protección y las Procuradurías Municipales, en coordinación con el DIF Estatal y los DIF Municipales, las siguientes atribuciones, sin perjuicio de lo previsto en las disposiciones legales aplicables:
+
+I. Proteger los derechos de las niñas, niños y adolescentes cuando se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones aplicables;
+
+II. Impulsar la cooperación y coordinación en los ámbitos de sus respectivas competencias, en materia de protección y restitución de derechos de las niñas, niños y adolescentes, conforme a las disposiciones legales aplicables;
+
+III. Celebrar convenios de colaboración con las organizaciones e instituciones del sector público, social y privado;
+
+IV. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de las niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia;
+
+V. Prestar apoyo mutuo, colaboración técnica y administrativa en las materias reguladas por esta Ley; y
+
+VI. Las demás establecidas en otras disposiciones legales, relativas a la protección y restitución de derechos de las niñas, niños y adolescentes conforme al ámbito de su competencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO VI. MEDIDAS DE PROTECCIÓN ESPECIAL Y MEDIDAS URGENTES DE PROTECCIÓN ESPECIAL DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 130.
 
-Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, a través del Sistema Estatal de Protección, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa, el cual deberá ser acorde con el Plan Nacional de Desarrollo, el Programa Nacional y con la presente Ley.
+Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Estado contará con la Procuraduría de Protección de Niñas, Niños y Adolescentes, como un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines, sectorizado a la Secretaría General de Gobierno.
+
+La Procuraduría de Protección es la institución única, indivisible y de buena fe, encargada de garantizar la protección integral y, en su caso, de restituir los derechos de las niñas, niños y adolescentes, así como de coordinar su debida ejecución y seguimiento con las autoridades competentes, de los procedimientos implementados para el efecto, de conformidad con las disposiciones aplicables.
+
+La protección integral, a la que se refiere este artículo, abarcará como mínimo la atención médica y psicológica de niñas, niños y adolescentes, el seguimiento de sus actividades académicas y entorno social y cultural, y la inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia en las medidas de rehabilitación y asistencia.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 131.
 
-El Programa preverá acciones de mediano y largo alcance, indicando los objetivos, estrategias y líneas de acción prioritarias, observando en todo momento lo dispuesto por el Programa Nacional.
+La Procuraduría de Protección tendrá legitimación procesal para ejercer ante la autoridad judicial competente las acciones pertinentes para proteger los derechos de niñas, niños y adolescentes, actuando de manera directa por conducto de la persona que funja como su titular en el Estado o a través de las y los profesionistas a quienes se les deleguen funciones para representar al organismo, cuya acreditación se realizará mediante simple oficio suscrito por el o la titular de la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 132.
 
-El Programa deberá incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y será publicado en el Periódico Oficial "El Estado de Colima".
+Las actuaciones de la Procuraduría de Protección, son de interés público, por lo que, en el ejercicio de las mismas, podrá solicitar el auxilio de las autoridades de los tres órdenes de gobierno, las cuales estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
+
+Para la debida determinación, ejecución y seguimiento de las medidas de protección integral y de restitución de los derechos de las niñas, niños y adolescentes, la Procuraduría de Protección se coordinará con las autoridades administrativas de asistencia social, de los servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario para de manera conjunta, garantizar los derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 133.
 
-El Sistema Estatal de Protección y Municipales, contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
+El patrimonio de la Procuraduría de Protección, se constituirá por:
+
+I. Los bienes muebles e inmuebles y demás ingresos que los Gobiernos Federal, Estatal y Municipales le aporten para la realización de su objeto;
+
+II. Los ingresos que perciba conforme a la partida que para el efecto establezca el presupuesto anual de egresos del Estado, así como los que perciba por los servicios que preste en cumplimiento de su objeto o, que le correspondan por cualquier otro título legal;
+
+III. Los subsidios y aportaciones permanentes, periódicos o eventuales, que reciba de los Gobiernos Federal, Estatal y Municipales y, los que obtenga de instituciones públicas o privadas, o de particulares;
+
+IV. Las donaciones, legados y herencias que se hicieran a su favor; y
+
+V. Todos los demás bienes que adquiera por cualquier otro medio legal.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 134.
 
-En cuanto a las infracciones y sanciones que resulten aplicables en el ámbito de sus respectivas competencias y los procedimientos para su imposición e impugnación, así como las autoridades competentes para ello, se estará a lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+El objetivo general de la Procuraduría de Protección es el de promover, proteger y restituir los derechos de las niñas, niños y adolescentes, a fin de contribuir a la mejora de las condiciones para el ejercicio y vigencia de dichos derechos en el Estado de Colima, de conformidad con la Constitución, los Tratados, la presente Ley, su Reglamento y demás disposiciones aplicables, observando los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 135.
 
-Los servidores públicos estatales y municipales que en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados a alguna niña, niño o adolescente, serán sujetos a las sanciones administrativas y demás que resulten aplicables, en términos de las disposiciones correspondientes.
+Los objetivos específicos de la Procuraduría de Protección son:
 
-No se considerarán como negación al ejercicio de un derecho las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
+I. Proteger y, en su caso, restituir los derechos vulnerados de niñas, niños y adolescentes en el Estado;
+
+II. Promover en la sociedad, el conocimiento de los derechos de niñas, niños y adolescentes para impulsar la protección, respeto y garantía;
+
+III. Prevenir la vulneración o restricción de los derechos de las niñas, niños y adolescentes en distintos escenarios sociales, a través de la promoción de medios alternos de solución de conflictos; y
+
+IV. Fortalecer las capacidades en las niñas, niños y adolescentes, como titulares de derechos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 136.
+
+Las atribuciones de la Procuraduría de Protección son las siguientes:
+
+I. Procurar, en el ámbito de su competencia, la protección integral de los derechos de niñas, niños y adolescentes que prevé la Constitución, los Instrumentos Internacionales firmados y ratificados por México, la presente Ley y demás disposiciones aplicables;
+
+II. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes y sus derechos;
+
+III. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+IV. Promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
+
+V. Coordinar trabajos en la capacitación y formación de personal de seguridad, en coordinación con el Sistema Estatal de Protección, que pueda ayudar a la transversalización de la atención adecuada a las niñas, niños y adolescentes, por parte de las fuerzas de seguridad.
+
+VI. Establecer y mantener una coordinación adecuada con las Agencias del Ministerio Público, así como con las autoridades de seguridad pública del Estado y los municipios, cuando sea necesario su intervención oportuna y brindar atención a niñas, niños y adolescentes que resulten víctimas de violencia;
+
+VII. Promover ante la autoridad judicial los procedimientos de guarda y custodia, pérdidas o suspensión de patria potestad, tutela y adopción de niños, niñas y adolescentes institucionalizados, en los términos previstos en (sic) legislación civil y demás disposiciones aplicables;
+
+VIII. Solicitar al Ministerio Público y a la Secretaría de Salud la práctica de exámenes médicos o psicológicos necesarios para la determinación de si una niña, niño o adolescente se encuentra en riesgo, amenaza, afectación o situación extraordinaria, así como la asignación de peritos especializados, con perspectiva de derechos de niñas, niños y adolescentes, para la realización de dictámenes periciales necesarios para el desempeño de sus funciones;
+
+IX. Vigilar para que las niñas, niños y adolescentes no sean internados en lugares destinados para la reclusión de adultos y, en su caso, denunciar tales circunstancias ante las autoridades competentes sin perjuicio de lo señalado en la legislación penal vigente en el Estado;
+
+X. Emitir recomendaciones a los servidores públicos o autoridades responsables de la restricción o vulneración de derechos de niños, niñas y adolescentes, mismas que tendrán como finalidad exhortarlos a respetarlos y, en su caso, restituirles en el goce de sus derechos;
+
+XI. Representar a niños, niñas y adolescentes ante las autoridades administrativas o judiciales, así como Interponer denuncias o querellas, ante la falta o negativa de quien legalmente corresponda, en los términos de las disposiciones aplicables;
+
+XII. Determinar el egreso de niños, niñas y adolescentes institucionalizados;
+
+XIII. Realizar visitas de supervisión a las instituciones públicas y organizaciones de la sociedad civil que alberguen o brinden cuidados alternativos o atiendan a niños, niñas y adolescentes en el Estado
+
+XIV. Desarrollar los lineamientos aplicables al procedimiento de protección y restitución de derechos de las niñas, niños y adolescentes;
+
+XV. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan a la Fiscalía General;
+
+XVI. Intervenir oficiosamente, con la Representación Coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en los que estén involucrados niñas, niños y adolescentes, sin perjuicio de las atribuciones que le correspondan a la Fiscalía General, de conformidad con la presente Ley y demás disposiciones aplicables;
+
+XVII. Coordinar con las autoridades competentes de los tres órdenes de gobierno, la ejecución y seguimiento a las medidas de protección especial para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de lograr una participación interinstitucional oportuna y articulada;
+
+XVIII. Aplicar los medios alternos de solución de controversias, en términos de esta Ley, en el supuesto de vulneración o restricción de derechos de las niñas, niños y adolescentes en su ámbito familiar. Los mecanismos alternos de solución de controversias no procederán en casos de violencia o, cualquier otro supuesto de improcedencia previsto en la Ley de la materia;
+
+XIX. Decretar custodias de emergencia y separaciones provisionales o preventivas en el seno familiar, respecto de niñas, niños y adolescentes, en los casos que se estimen necesarios;
+
+XX. Denunciar ante la Fiscalía General y ante la Procuraduría General de la República aquellos hechos que la ley señale como constitutivos de delito en agravio de niñas, niños y adolescentes;
+
+XXI. Solicitar en términos de esta Ley, ante la Fiscalía General o la Delegación de la Procuraduría General de la República la imposición de medidas urgentes de protección especial, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes;
+
+XXII. Ordenar fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial, de conformidad con esta Ley, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes;
+
+XXIII. Solicitar el auxilio de las instituciones policiales competentes, para la imposición de las medidas urgentes de protección especial;
+
+XXIV. Solicitar a la autoridad competente la imposición de las medidas de apremio correspondientes, en caso de incumplimiento a las medidas de protección especial, y las dictadas con carácter urgente;
+
+XXV. Elaborar y actualizar los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
+
+XXVI. Ejercer la Tutela Pública respecto a niñas, niños y adolescentes con el carácter de expósitos o abandonados, hasta que sea resuelta su situación jurídica por el órgano jurisdiccional competente. El ejercicio de la tutela quedará sujeto, en cuanto al resguardo y protección de los derechos de las niñas, niños y adolescentes, a las modalidades que le impriman las determinaciones que se dicten de acuerdo a la presente Ley, su Reglamento y demás disposiciones legales aplicables;
+
+XXVII. Asumir la Secretaría Técnica del Consejo Técnico de Adopciones del DIF Estatal; y
+
+XXVIII. Las demás que se deriven de la presente Ley o le sean conferidas por otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 137.
+
+Las actuaciones practicadas por el Procurador o Procuradora y los titulares de las Subprocuradurías Regionales y Procuradurías Municipales, en ejercicio de sus facultades, tendrán el valor que se le otorga a los testimonios investidos de fe pública.
+
+El personal de la Procuraduría de Protección está obligado a guardar absoluta discreción y reserva acerca de los asuntos que en ella se traten.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 138.
+
+Los servicios que presta la Procuraduría de Protección serán gratuitos, a excepción de los trámites o servicios que por disposición de ley tengan costo para los beneficiarios, y en sus procedimientos prevalecerán los principios del interés superior de la niñez, de protección a la familia, de protección de datos personales, de publicidad, de oralidad, de economía procesal, de inmediatez y de solución anticipada de conflictos.
+
+Para los efectos de este artículo, el principio de publicidad se refiere a la divulgación, por cualquier medio, de las actuaciones de la Procuraduría de Protección conforme a las disposiciones aplicables a la materia.
+
+El personal de la Procuraduría de Protección desempeñará su labor con honradez y probidad y deberá guardar absoluta discreción y reserva de los asuntos que conozca con motivo de sus actividades como trabajadoras o trabajadores.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 139.
+
+La Procuraduría de Protección estará integrada por:
+
+I. El Consejo Directivo. Integrado por:
+
+La persona titular de la Secretaría General de Gobierno, que fungirá como su Presidente;
+
+La persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes, que tendrá el cargo de la Secretaría Técnica; y
+
+Los titulares de las siguientes dependencias de la Administración Pública del Estado, que se desempeñarán como Vocales:
+
+1. De la Secretaría de Desarrollo Social;
+
+2. De la Secretaría de la Juventud;
+
+3. De la Secretaría de Educación;
+
+4. De la Secretaría de Cultura;
+
+5. De la Secretaría de Salud y Bienestar Social;
+
+6. De la Secretaría de Seguridad Pública;
+
+7. De la Secretaría del Trabajo y Previsión Social;
+
+8. De la Fiscalía General;
+
+9. Del DIF Estatal;
+
+10. De la Comisión Ejecutiva Estatal de Atención a Víctimas, y
+
+11. De la Visitaduría Especializada de la Comisión de Derechos Humanos del Estado de Colima.
+
+II. Las unidades, órganos y áreas siguientes:
+
+a. El titular de la Procuraduría de Protección;
+
+b. Subprocuradurías Regionales;
+
+c. Abogados Representantes;
+
+d. Abogados de Restitución de Derechos;
+
+e. Promoción de derechos, normatividad, investigación y proyectos;
+
+f. Regulación y Supervisión de Centros de Asistencia Social y Familias de Acogida;
+
+g. Administración y Finanzas;
+
+h. Áreas de medios alternos de solución de controversias, asuntos jurídicos, adopciones. psicología y trabajo social;
+
+i. Cuerpo especializado de seguridad pública; y
+
+j. Órgano Interno de Control.
+
+Adicionalmente, la Procuraduría de Protección podrá contar con las unidades administrativas, órganos técnicos e instancias de apoyo, cualquiera que sea su denominación u organización, que se requieran para el cumplimiento de sus atribuciones, las cuales se determinarán en el Reglamento Interior de la Procuraduría de Protección, en el que se establecerán las facultades de las personas encargadas de su operatividad, sin perjuicio a lo expuesto en la presente Ley.
+
+Las unidades, órganos e instancias que integran la estructura orgánica de la Procuraduría de Protección, de conformidad con sus atribuciones y facultades previstas en esta Ley, Reglamento y demás disposiciones legales aplicables, contarán con profesionistas en derecho, trabajo social y psicología, así como con el demás personal que se requiera para el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 140.
+
+El Consejo Directivo, tiene como objetivo de facilitar la coordinación con los integrantes del mismo y supervisar el funcionamiento de la Procuraduría de Protección, por lo que tendrá las atribuciones siguientes:
+
+I. Aprobar los actos de dominio realizados por (sic) titular de la Procuraduría de Protección con el carácter de Representante Legal;
+
+II. Determinar, dar seguimiento y evaluar las estrategias y acciones necesarias para el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
+
+III. Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales de la Procuraduría de Protección;
+
+IV. Expedir las disposiciones de carácter general necesarias para la adecuada organización, funcionamiento administrativo y operativo de la Procuraduría de Protección;
+
+V. Aprobar los reglamentos, lineamientos y manuales de operación de la Procuraduría de Protección, a propuesta de su titular;
+
+VI. Aprobar los nombramientos del personal de confianza de la Procuraduría de Protección, a propuesta de su titular;
+
+VII. Conocer los informes, dictámenes y recomendaciones del Órgano Interno de Control;
+
+VIII. Colaborar en la promoción de actividades para la obtención de recursos que permitan el incremento del patrimonio de la Procuraduría de Protección;
+
+IX. Aprobar el organigrama general de la Procuraduría de Protección;
+
+X. Estudiar y aprobar los proyectos de inversión;
+
+XI. Conocer y aprobar los convenios de coordinación que se celebren con dependencias y Entidades públicas federales, estatales, municipales y del sector privado;
+
+XII. Determinar la integración de Comités Técnicos y grupos de trabajos temporales;
+
+XIII. Fijar y ajustar las tarifas de los trámites o servicios que por disposición de ley tengan costo para los beneficiarios, cuando las disposiciones jurídicas aplicables no las establezcan;
+
+XIV. Aprobar la concertación de préstamos para el funcionamiento de la Procuraduría de Protección, observando los lineamientos que en materia de deuda pública emitan las autoridades competentes;
+
+XV. Emitir lineamientos conforme a los cuales, el titular de la Procuraduría de Protección disponga de bienes muebles y activos fijos del organismo, que no correspondan a las operaciones propias de su objeto, o bien, cuando éstos dejen de ser útiles para el mismo;
+
+XVI. Aprobar la constitución de reservas y la aplicación de las utilidades;
+
+XVII. Expedir lineamientos que regulen la entrega o recepción de donativos y pagos extraordinarios, verificando que los mismos se apliquen a los objetivos de la Procuraduría de Protección;
+
+XVIII. Aprobar a propuesta del titular de la Procuraduría de Protección, el tabulador de sueldos aplicable al personal de confianza, de conformidad con las disposiciones legales aplicables;
+
+XIX. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la Procuraduría de Protección, cuando sea notoria la imposibilidad de su cobro;
+
+XX. Integrar a propuesta del titular de la Procuraduría de Protección, las comisiones de trabajo que se estimen pertinentes, para que se encarguen de asuntos específicos del organismo; y
+
+XXI. Las demás que establezca esta Ley y su Reglamento, que sean necesarias para el ejercicio de las facultades anteriores.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 141.
+
+El Consejo Directivo podrá integrar Comités Técnicos para el estudio y propuesta de mecanismos de coordinación interinstitucional en la atención de las tareas de protección y restitución de los derechos de niñas, niños y adolescentes que realicen la Procuraduría de Protección, o las instituciones integrantes del Sistema. Los Comités estarán formados por los representantes que al efecto designen las dependencias y Entidades competentes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 142.
+
+El Consejo Directivo celebrará las sesiones ordinarias y extraordinarias que se requieran de conformidad con el Reglamento.
+
+En cuanto a la forma y términos en que operará el Consejo, así como las facultades de quienes lo integran, se estará a lo dispuesto en el Reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 143.
+
+El titular de la Procuraduría de Protección cumplirá con las atribuciones señaladas en el artículo 136 y, ejercerá las facultades siguientes:
+
+I. Promover, respetar, proteger y garantizar los derechos de niñas, niños y adolescentes en el ámbito de su competencia;
+
+II. Representar a la Procuraduría de Protección con las facultades legales para actos de dominio, así como aquéllos que requieran cláusula especial;
+
+III. Administrar y representar legalmente a la Procuraduría de Protección;
+
+IV. Ejecutar los acuerdos y disposiciones del Consejo;
+
+V. Presentar al Consejo los informes y estados financieros trimestrales, acompañados de las observaciones que al efecto formulen el Comisariado y el Órgano de Control Interno;
+
+VI. Formular los programas de corto, mediano y largo plazo, los presupuestos y las políticas institucionales, establecer los procedimientos generales e informes de actividades y estados financieros anuales de la Procuraduría de Protección, presentándolos para su aprobación al Consejo;
+
+VII. Proponer al Consejo, la designación y remoción de los servidores públicos de nivel inferior;
+
+VIII. Expedir los nombramientos de personal de confianza y, manejar las relaciones laborales de acuerdo con las disposiciones legales aplicables;
+
+IX. Planear, dirigir y coordinar las actividades de la Procuraduría de Protección, con sujeción a las instrucciones del Consejo;
+
+X. Celebrar convenios, acuerdos, contratos y ejecutar los actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Consejo;
+
+XI. Actuar en representación de la Procuraduría de Protección, con facultades generales para actos de administración, de dominio, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes;
+
+XII. Promover la coordinación operativa de las Procuradurías Municipales y las Autoridades de Primer Contacto; y
+
+XIII. Las demás que se deriven de esta Ley y su Reglamento, demás disposiciones legales aplicables, así como las que le gire el Consejo.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 144.
+
+El titular de la Procuraduría de Protección podrá cumplir con las atribuciones y ejercer sus facultades de manera directa o, para la mejor atención y despacho de los asuntos de su competencia, podrá delegarlas por conducto de quienes funjan como titulares de las áreas de apoyo previstas por esta Ley en los incisos b), c), d), e), f), g), h), i) y j) del artículo 139 fracción II y, en su caso, por los demás servidores públicos señalados en el Reglamento Interior, quienes estarán facultados para representar jurídicamente a la Procuraduría de Protección en cualquier procedimiento jurisdiccional o administrativo en que ésta intervenga, excepto cuando se trate de atribuciones indelegables de su Titular.
+
+En los casos en que las leyes exijan la ratificación de determinada actuación jurisdiccional o administrativa, se entenderán ratificadas por el titular de la Procuraduría de Protección, todas las actuaciones que se desahoguen por los titulares de las áreas de apoyo previstas por esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 145.
+
+Son requisitos de elegibilidad para ser titular de la Procuraduría de Protección los siguientes:
+
+I. Ser mayor de edad, Ciudadana o Ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título profesional de licenciatura en derecho o similar debidamente registrado;
+
+III. Contar con al menos seis años de experiencia en materia de procuración de justicia, de defensa de niñas, niños y adolescentes, o de experticia comprobable en estas materias; y
+
+IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+El titular de la Procuraduría de Protección será nombrado y removido libremente por el titular del Poder Ejecutivo del Estado, a propuesta del Consejo Directivo.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 146.
+
+La Procuraduría de Protección contará con un Órgano Interno de Control encargado de promover y fortalecer su buen funcionamiento, mediante la inspección, vigilancia, evaluación, fiscalización y control interno, por lo que ejercerá las facultades de prevención, corrección, investigación y, en su caso sanción, en materia de actos u omisiones que pudieran constituir responsabilidades administrativas, en términos del artículo 109 de la Constitución Federal y su correlativo de la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 147.
+
+La persona encargada del Órgano Interno de Control será nombrada y, en su caso, removida por la Contraloría General del Estado, de conformidad con la Ley Orgánica de la Administración Pública del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 148.
+
+Aparte de las atribuciones previstas en las disposiciones legales aplicables, quien funja como titular del Órgano Interno de Control, tendrá las atribuciones siguientes:
+
+I. Evaluar el cumplimiento de los objetivos generales y específicos de la Procuraduría de Protección, así como el desarrollo eficiente de sus actividades;
+
+II. Vigilar el correcto manejo de los recursos públicos de la Procuraduría de Protección;
+
+III. Contribuir al óptimo desempeño de quienes funjan como servidores públicos de la Procuraduría de Protección;
+
+IV. Practicar visitas de control y evaluación, de fiscalización e inspección, y de seguimiento a las áreas de apoyo de la Procuraduría de Protección;
+
+V. Comprobar el cumplimiento de las normas y disposiciones en materia de planeación, presupuestación, contabilidad, gasto público, financiamiento, patrimonio, adquisiciones, servicios, arrendamientos y contrataciones de la Procuraduría de Protección;
+
+VI. Prevenir, corregir e investigar los actos u omisiones que pudieran constituir responsabilidades administrativas de las y los servidores públicos de la Procuraduría de Protección, calificar las conductas y en su caso, tramitar el procedimiento de responsabilidad respectivo, conforme a la Ley General de Responsabilidades Administrativas;
+
+VII. Observar y aplicar en el ámbito de su competencia la Ley General de Responsabilidades Administrativas;
+
+VIII. Tener a su cargo la Unidad de Transparencia; y
+
+IX. Las demás que le correspondan conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 149.
+
+En el supuesto de que el Órgano Interno de Control tenga conocimiento de hechos u omisiones que pudieran ser constitutivos de una falta administrativa, deberá de investigar, substanciar y, en su caso, sancionar directamente o tramitar la sanción que corresponda, ante el Tribunal de Justicia Administrativa del Estado, de conformidad con la Ley General de Responsabilidades Administrativas y, la Ley de Justicia Administrativa del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 150.
+
+Las personas a quienes refiere esta Ley en su artículo 139, fracción II, incisos b), c) d), e), f), g), h), i), y j) serán nombradas y removidas por el Consejo Directivo, a propuesta de la persona titular de la Procuraduría de Protección y, deberán satisfacer como mínimo los siguientes requisitos:
+
+I. Tener la Ciudadanía mexicana y encontrarse en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título y cédula profesional, que acredite haber concluido la licenciatura en derecho o en licenciatura afín;
+
+III. Tener experiencia mínima de seis años en materia de procuración de justicia o, de derechos de niñas, niños y adolescentes; y
+
+IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO VII. DEL CUERPO ESPECIALIZADO DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 151.
+
+El personal encargado de la representación y restitución de derechos, de niños, niñas y adolescentes, dependientes de la Procuraduría de Protección, tienen a su cargo la función de promover, proteger y defender los derechos humanos reconocidos en nuestro sistema jurídico.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 152.
+
+Para ser encargado de la representación y restitución de derechos, de niñas, niños y adolescentes se requiere:
+
+I. Ser Ciudadano mexicano y estar en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Tener título de licenciado en derecho o similar registrado ante el Supremo Tribunal de Justicia del Estado y cédula profesional;
+
+III. Acreditar experiencia mínima de tres años en el ejercicio profesional;
+
+IV. Aprobar los exámenes, evaluaciones y cursos que correspondan;
+
+V. Gozar de buena reputación y prestigio profesional;
+
+VI. No haber sido condenado por delito doloso que amerite pena privativa de libertad;
+
+VII. Acreditar conocimientos suficientes en la promoción, protección y defensa de los derechos humanos, y
+
+VIII. Los demás requisitos que establezca la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 153.
+
+Son facultades de los encargados de la representación y restitución de derechos, de niños, niñas y adolescentes:
+
+I. Promover acciones para protección de los intereses difusos o colectivos relativos a niños, niñas y adolescentes;
+
+II. Interponer acciones para la protección de los derechos de niños, niñas y adolescentes en cualquier juicio, instancia o tribunal;
+
+III. Promover ante las autoridades judiciales, la tramitación de los juicios relativos a custodias definitivas, pérdidas o suspensiones de la patria potestad, tutelas y los que sean procedentes de niños o niñas institucionalizados o en su representación ante la falta o negativa de quien legalmente corresponda;
+
+IV. Velar por el efectivo respeto a los derechos y garantías legales de niños, niñas y adolescentes, promoviendo las medidas judiciales, extrajudiciales y administrativas a su alcance;
+
+V. Brindar asesoría y orientación jurídica de cualquier índole a niños, niñas y adolescentes;
+
+VI. Propiciar, cuando sea procedente, que se recurra a los medios alternos de solución de controversias;
+
+VII. Recibir todo tipo de manifestación formulada por niños, niñas, cualquier otro miembro de una familia o por terceros, ya sea personalmente o por cualquier otro medio de comunicación, que pueda constituir riesgo, amenaza o afectación de sus derechos;
+
+VIII. Realizar las citaciones y entrevistas que sean necesarias para valorar las solicitudes y aplicación de medidas especiales de protección; y
+
+IX. Las demás que tengan como propósito la promoción, defensa y protección de los derechos humanos de niños, niñas y adolescentes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 154.
+
+Los servicios brindados por los encargados de la representación y restitución de derechos serán gratuitos, quedando prohibida la participación de gestores e intermediarios.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 155.
+
+Todas las personas, las dependencias y Entidades estatales y municipales y las organizaciones de la sociedad civil están obligadas a colaborar con los encargados de la representación y restitución de derechos, de niños, niñas y adolescentes cuando sean requeridos, previo mandamiento escrito debidamente fundado y motivado.
+
+Todo aquel que desobedezca u obstaculice el ejercicio de las facultades de los encargados de la representación y restitución de derechos, de niños, niñas y adolescentes serán sujetos de sanción administrativa o penal, según corresponda en cada caso concreto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO VIII. DE LA RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 156.
+
+El Estado a través de la presente Ley, regulará las medidas de protección especial y las medidas urgentes de protección especial, definiéndolas como aquellas actitudes y decisiones susceptibles de implementación, por los órganos del Estado, a manera de mecanismos jurídico administrativos, tendentes a hacer efectivo el cuidado y protección de las niñas, niños y adolescentes que se encuentren en situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico y discapacidad, idEntidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos. El objetivo primordial de las medidas de protección, consiste en posibilitar el acceso a los servicios del Estado a las niñas, niños y adolescentes, a quienes se les hayan vulnerado sus derechos de niñez, para lograr en cada caso su restitución.
+
+Las medidas especiales de protección referidas en esta Ley, que son de carácter administrativo, no afectarán aquellos actos prejudiciales, medidas de protección o medidas cautelares vigentes, salvo que éstas resulten más protectoras a los derechos de las niñas, niños o adolescentes.
+
+Para determinar la aplicación y seguimiento de las medidas de protección especial y, aquellas de carácter urgente, se estará a lo previsto en esta Ley, su Reglamento y demás disposiciones legales aplicables.
+
+Para efectos de esta Ley, son medidas de protección especial, las siguientes:
+
+a. La inclusión de la niña, niño o adolescente y, en su caso, de la familia de origen o ampliada de manera conjunta o, en lo individual, en programas de asistencia social, salud y educativos, así como en actividades deportivas, culturales, artísticas o cualquier otra actividad recreativa a la que puedan incorporarse, de acuerdo a las necesidades de cada caso en concreto;
+
+b. La atención y tratamiento médico, psicológico o psiquiátrico de la niña, niño o adolescente, o de la madre, padre, familiar o adulto significativo que lo tenga bajo su resguardo o custodia, en especial de los servicios de salud, previstos en los artículos 29 y 30 de la Ley General de Víctimas;
+
+c. Todas aquellas que resulten necesarias para la protección y restitución de los derechos de las niñas, niños o adolescentes, conforme a lo dispuesto en esta Ley, su Reglamento y demás disposiciones legales aplicables.
+
+d. Su clasificación en razón del criterio de urgencia, obedece a aquellas circunstancias en las que deban ser determinadas, por tanto, se consideran medidas de protección especial urgentes, las relativas a:
+
+e. El ingreso temporal como último recurso y durante el menor periodo posible, de niñas, niños y adolescentes a Centros de Asistencia Social, bajo la modalidad de acogimiento residencial, en el supuesto de carecer de una familia de origen o ampliada, apta para su resguardo y cuidado;
+
+f. La prohibición de acercarse o comunicarse con niñas, niños y adolescentes, víctimas u ofendidos de delito o en situaciones de vulnerabilidad;
+
+g. La limitación para asistir o acercarse al domicilio de niñas, niños y adolescentes víctimas u ofendidos de delito o en situaciones de vulnerabilidad; o al lugar donde estos se encuentren;
+
+h. La separación inmediata del domicilio (sic) niñas, niños y adolescentes, víctimas u ofendidos de delito o en situaciones de vulnerabilidad;
+
+i. La entrega inmediata de objetos de uso personal y documentos de idEntidad correspondientes a niñas, niños y adolescentes, víctimas u ofendidos de delito o en situaciones de vulnerabilidad que tuviera en su posesión el probable responsable;
+
+j. La prohibición de realizar conductas de intimidación o molestia a niñas, niños y adolescentes, víctimas u ofendidos de delito o en situaciones de vulnerabilidad o a personas relacionadas con ellos;
+
+k. La vigilancia en el domicilio de niñas, niños y adolescentes, víctimas u ofendidos de delito o en situaciones de vulnerabilidad;
+
+l. La protección policial de niñas, niños y adolescentes, víctimas u ofendidos de delito o en situaciones de vulnerabilidad;
+
+m. El auxilio inmediato, por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentren niñas, niños y adolescentes, víctimas u ofendidos de delito o en situaciones de vulnerabilidad en el momento de solicitarlo;
+
+n. El traslado de niñas, niños y adolescentes, víctimas u ofendidos de delito o en situaciones de vulnerabilidad, a refugios o albergues temporales, así como de sus descendientes;
+
+o. El reingreso de niñas, niños y adolescentes, víctimas u ofendidos de delito o en situaciones de vulnerabilidad a su domicilio, una vez que se salvaguarde su seguridad;
+
+p. El ingreso de una niña, niño o adolescente a un centro de asistencia social, y
+
+q. La atención médica inmediata por parte de alguna institución del Sistema Nacional de Salud.
+
+Al determinarse cualquiera de las medidas anteriores, se dará aviso de inmediato al ministerio público, así como a la autoridad jurisdiccional competente.
+
+Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+Para la imposición de las medidas urgentes de protección, el titular de la Procuraduría de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 157.
+
+La imposición de las medidas de protección a que se refiere este capítulo, tendrá una duración máxima de sesenta días naturales, prorrogables hasta por treinta días más.
+
+Cuando hubiere desaparecido la causa que dio origen a la medida decretada, se podrá solicitar a la autoridad que la determinó que la deje sin efectos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 158.
+
+De conformidad con el artículo 118 de esta Ley, la Procuraduría de Protección o, sus Subprocuradurías Regionales, podrán solicitar a las autoridades competentes, la imposición de las medidas de protección especial y de aquellas con carácter urgente.
+
+Las Procuradurías Municipales también podrán solicitar las medidas de protección especial y, aquellas con carácter de urgente, salvo la señalada en la fracción II, inciso a), del artículo 156 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 159.
+
+Cuando exista un riesgo inminente contra la vida, la integridad personal o la libertad de niñas, niños y adolescentes, la Procuraduría de Protección o sus Subprocuradurías Regionales y las Procuradurías Municipales, de conformidad con lo previsto en la Ley General, esta Ley y su Reglamento, podrán solicitar la imposición de medidas urgentes de protección especial a la Fiscalía General o, a la Delegación de la Procuraduría General de la República correspondientes, las cuales deberán decretarlas dentro de las tres horas siguientes a la recepción de la solicitud, dando aviso de inmediato al órgano jurisdiccional competente, que deberá pronunciarse sobre la procedencia, modificación o cancelación de los efectos de la medida que se encuentre vigente, dentro de las veinticuatro horas siguientes a la imposición de la misma.
+
+Las medidas urgentes de protección especial, podrán ser sustituidas, modificadas o revocadas por la autoridad que las dictó, conforme al procedimiento establecido en el Reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 160.
+
+En términos de esta Ley y su Reglamento, el titular de la Procuraduría de Protección o de sus Subprocuradurías Regionales podrán, fundada y motivadamente, bajo su más estricta responsabilidad, ordenar la aplicación de medidas urgentes de protección especial, cuando exista riesgo inminente contra la vida, integridad personal o la libertad de niñas, niños o adolescentes, dando aviso de inmediato a la Fiscalía General o, en su caso, a la Delegación de la Procuraduría General de la República y al órgano jurisdiccional competente, los cuales deberán pronunciarse sobre la procedencia, modificación o cancelación de los efectos de la medida urgente de protección especial que se encuentre vigente, dentro de las veinticuatro horas siguientes a la imposición de la misma.
+
+En el supuesto de que el órgano jurisdiccional determine la cancelación de alguna medida urgente de protección especial ordenada por la Procuraduría de Protección o, de sus Subprocuradurías Regionales, la misma será revocada, una vez que surta efectos la notificación de la determinación judicial respectiva y, procederá a solicitar a la autoridad encargada de su ejecución, que se restituyan las cosas al estado en que se encontraban, previo a la aplicación de la medida en cuestión.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 161.
+
+Una vez dictadas las medidas de protección especial y, en respeto a los derechos de participación, seguridad jurídica y debido proceso, se informará a las niñas, niños y adolescentes involucrados, respecto al estado y situación legal en el caso concreto, mediante el uso de lenguaje claro, sencillo y comprensible, acorde a su edad, desarrollo cognoscitivo y demás circunstancias particulares.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 162.
+
+El titular de la Procuraduría de Protección podrá solicitar la imposición de las medidas de protección especial y, ordenar aquellas con carácter urgente, en todo el Estado de Colima. Los titulares de las Subprocuradurías Regionales y de las Procuradurías Municipales están facultados para solicitar la imposición de las referidas medidas urgentes, en el ámbito territorial al que se circunscribe su competencia, con la salvedad prevista en esta Ley.
+
+En caso de concurrencia, resolverá la autoridad que haya prevenido primero en el conocimiento de los hechos, que motivaron la imposición de las medidas de protección especial en un caso concreto.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 163.
+
+Las autoridades competentes podrán imponer una o más medidas especiales de protección especial o, de aquellas con carácter urgente, conforme a los criterios de razonabilidad y, en su caso, al principio de progresividad, en términos de los Tratados Internacionales firmados y ratificados por el Estado Mexicano, la Constitución Federal y esta Ley, justificando la procedencia de las referidas medidas, en los hechos y fundamentos de derecho aplicables, de acuerdo a las particularidades del caso concreto, a fin, (sic) proteger la seguridad e integridad personal de la niña, niño o adolescente involucrado y, de restituirle en el goce y ejercicio de sus derechos.
+
+Para la imposición de las medidas urgentes de protección, el titular de la Procuraduría de Protección, sus Subprocuradurías Regionales y las Procuradurías Municipales podrán solicitar el auxilio de las instituciones policiales competentes.
+
+En caso de incumplimiento de las medidas urgentes de protección especial, el titular de la Procuraduría de Protección, sus Subprocuradurías Regionales, o las Procuradurías Municipales podrán solicitar a la autoridad competente, la imposición de las medidas de apremio correspondientes.
+
+Las Subprocuradurías Regionales y las Procuradurías Municipales se encargarán del seguimiento a las medidas especiales de protección impuestas por la autoridad competente, revisarán su aplicación y evaluarán la efectividad durante su vigencia, en relación con la finalidad que se tuvo al momento de decretarlas.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 164.
+
+La Procuraduría de Protección o sus Subprocuradurías Regionales podrán, a petición de las Procuradurías Municipales, la Fiscalía General, de las autoridades en los tres órdenes de gobierno o de los particulares, ejercer la facultad de atracción para conocer de casos relacionados con los derechos de las niñas, niños y adolescentes que revistan de características especiales, entendiéndose como tales, a aquellos que por la naturaleza de los hechos se consideren de interés o trascendencia.
+
+La facultad de atracción es de naturaleza discrecional y será ejercida caso por caso, una vez que se haya determinado que la naturaleza de los hechos consta de características especiales, de conformidad con el procedimiento establecido en el Reglamento.
+
+Para la sustanciación a las peticiones de medidas de protección especial, se estará a lo dispuesto en la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 165.
+
+La Procuraduría de Protección por si o a través de los Defensores representantes y de restitución de derechos de niñas, niños y adolescentes podrá girar citatorios, realizar investigaciones e implementar las acciones necesarias para constatar los hechos denunciados, detectados o recibidos, para lo cual se apoyará del cuerpo especializado de seguridad pública y/o de las autoridades competentes.
+
+La Procuraduría deberá levantar acta circunstanciada de las diligencias que lleve a cabo para la investigación de cada uno de los casos, y recabará las pruebas fehacientes que fueren necesarias para dar cumplimiento a lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 166.
+
+Una vez que se tenga información sobre un posible riesgo, amenaza, afectación restricción o vulneración de los derechos de un niño, niña, o adolescente, se podrá solicitar al personal del cuerpo especializado de seguridad pública que realicen la investigación que sea necesaria para diagnosticar la situación de sus derechos.
+
+Así mismo, cuando sea necesario, se solicitará a los departamentos de trabajo social y psicología la práctica de los exámenes que se estimen necesarios.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 167.
+
+El Estado, a través de los encargados de los centros de asistencia social, con que el DIF cuente para ello, ejercerá la guarda y custodia de niños, niñas y adolescentes en los centros de asistencia pública o privada, así como con familias de acogimiento pre–adoptivas que determine para tal efecto, privilegiando cuando esto sea posible que los hermanos queden juntos, en tanto no se resuelva en definitiva la situación jurídica.
+
+El personal de la Procuraduría realizará visitas periódicas a los lugares a que se refiere el párrafo que antecede, a efecto de vigilar la atención y cuidados que se brinden a niños, niñas y adolescentes, pudiendo llevar a cabo las acciones conducentes a su protección y salvaguarda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO IX. DE LA ATENCIÓN A NIÑAS, NIÑOS Y ADOLESCENTES A QUIENES SE LES ATRIBUYA LA COMISIÓN O PARTICIPACIÓN DE UN HECHO SEÑALADO COMO DELITO EN LA LEY PENAL
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 168.
+
+Para el cumplimiento de sus atribuciones, la Procuraduría de Protección se apoyará en un Cuerpo Especializado de Seguridad Pública, como área adscrita, cuyo objetivo consta en prevenir e investigar las afectaciones por restricción o vulneración de los derechos a niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 169.
+
+Las personas que integren el Cuerpo Especializado de Seguridad Pública actuarán bajo el mando directo del Procurador o Procuradora de Protección y bajo la coordinación del Consejo Estatal de Seguridad Pública del Estado de Colima, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 170.
+
+Los requisitos de ingreso y permanencia para quienes integren el Cuerpo Especializado de Seguridad Pública, serán los mismos que se establecen en el artículo 65 de la Ley del Servicio Profesional de Carrera en Procuración de Justicia, con la salvedad que refiere al grado de estudios y la especialización para el tratamiento de hechos relacionados con restricción o vulneración de derechos de niñas, niños y adolescentes, para lo cual será necesario:
+
+I. Contar con título y cédula profesional, que acredite haber concluido la licenciatura en Derecho, Psicología o carrera afín; y
+
+II. Haber cursado y aprobado el curso de especialización respectivo.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 171.
+
+Las personas que integren el Cuerpo Especializado de Seguridad Pública serán nombrados y removidos de conformidad con las disposiciones del servicio profesional de carrera en materia de Seguridad Pública y Procuración de Justicia del Estado de Colima y demás disposiciones aplicables, siempre que se encuentren dentro de dicho régimen, en caso contrario podrán ser nombrados y removidos libremente por la persona Titular de la Procuraduría de Protección.
+
+El Centro de Profesionalización, Acreditación, Certificación y Carrera dependiente de la Fiscalía General del Estado, así como el Instituto Superior de Estudios de Seguridad Pública del Estado de la Secretaría de Seguridad Pública, serán los responsables de establecer y operar el Servicio Profesional de Carrera Policial de la Procuraduría de Protección, para lo cual se tomarán las medidas o celebrarán los convenios de colaboración que sean necesarios.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 172.
+
+La persona que funja como titular de la Procuraduría de Protección, planeará y determinará la distribución y organización del personal especializado de seguridad pública a su cargo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO X. DE LOS MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 173.
+
+De conformidad con esta Ley y su Reglamento, la Procuraduría de Protección, sus Subprocuradurías Regionales y las Procuradurías Municipales se encargarán, de acuerdo a su competencia, de la determinación, coordinación y seguimiento a las medidas de protección especial, a fin de garantizar la restitución de los derechos vulnerados o restringidos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 174.
+
+La restitución de derechos tiene como objetivo proteger y restituir de manera integral los derechos vulnerados o restringidos de las niñas, niños y adolescentes, mediante el apoyo y colaboración coordinada de las autoridades de los tres órdenes de gobierno, en la implementación de las medidas de protección especial necesarias para la ejecución y seguimiento del Plan de Restitución, conforme a las características del caso concreto.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 175.
+
+En términos de esta Ley, cualquier persona que tenga conocimiento de hechos que vulneren, restrinjan o pongan en peligro derechos de niñas, niños y adolescentes, anónimamente o de manera personal, por escrito, vía telefónica o por correo electrónico tendrá la obligación de denunciar ante la Procuraduría de Protección, sus Subprocuradurías Regionales o, las Procuradurías Municipales; debiendo proporcionar como mínimo, la información siguiente:
+
+I. Nombre y domicilio de la persona que denuncia, en caso de no ser denuncia anónima;
+
+II. Nombre de la niña, niño o adolescente, cuya vulneración o restricción de derechos se denuncia;
+
+III. Nombre de la persona a quien se le atribuyen los hechos denunciados;
+
+IV. Descripción de los hechos que constituyen la posible vulneración, o restricción de derechos; y
+
+V. Domicilio o descripción del lugar donde ocurren los hechos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 176.
+
+Para la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección, sus Subprocuradurías Regionales o, las Procuradurías Municipales, solicitarán la colaboración y apoyo de los tres órdenes de gobierno y del sector social y privado, conforme a lo siguiente:
+
+I. Tener conocimiento de la posible restricción o vulneración de derechos de niñas, niños y adolescentes, mediante la investigación directa o recepción de denuncias, en cuyo caso, se realizarán las diligencias necesarias en el ámbito de su competencia para comprobar la veracidad de los hechos, sin perjuicio de las atribuciones de la Fiscalía General;
+
+II. Diagnosticar la situación de los hechos denunciados e identificar los derechos en riesgo o, que fueron restringidos o vulnerados, mediante el acercamiento a la familia y al entorno físico y social, de las niñas, niños y adolescentes, a través de entrevistas, impresiones, revisiones, estudios, diagnósticos y observación;
+
+III. De ser necesario, solicitar a las autoridades competentes, las medidas de protección especial o, en su caso, ordenar la imposición de aquellas con carácter urgente, en términos de esta Ley y su Reglamento;
+
+IV. En atención al derecho de participación, informar y orientar a la niña, niño o adolescente sobre el estado de sus derechos y situación jurídica, en un lenguaje claro y acorde a su edad, nivel cognoscitivo y madurez;
+
+V. Conforme al principio de interés superior de la niñez, realizar un diagnóstico inicial precisando la situación de vulneración o restricción de derechos y, un plan de restitución de derechos, que incluya las medidas que se implementarán para el efecto y, las autoridades e instituciones públicas o privadas encargadas de coadyuvar con ejecución, en coordinación con las procuradurías;
+
+VI. Acordar y coordinar con las instituciones que corresponda, el cumplimiento y ejecución del plan de restitución de derechos; y
+
+VII. Dar seguimiento a cada una de las medidas y acciones señaladas en el plan de restitución de derechos, hasta cerciorarse de que los derechos vulnerados o restringidos de las niñas, niños o adolescentes se encuentren garantizados, mediante su restitución.
+
+Para efectos de este artículo, la Procuraduría de Protección, sus Subprocuradurías Regionales y las Procuradurías Municipales se sujetarán al procedimiento establecido en el Reglamento respectivo y en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO XI. DE LA PARTICIPACIÓN DE LA PROCURADURÍA DE PROTECCIÓN EN LOS PROCESOS DE ADOPCIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 177.
+
+De conformidad con la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, la Procuraduría de Protección, sus Subprocuradurías Regionales y las Procuradurías Municipales, intervendrán en aquellos casos en los que la autoridad competente advierta el posible riesgo, vulneración o restricción de los derechos de las niñas o niños menores de doce años de edad, a quienes se les atribuya la comisión o participación de un hecho señalado como delito en las leyes penales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO XII. DE LAS AUTORIDADES DE PRIMER CONTACTO Y PROCURADURÍAS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 178.
+
+En términos de la Ley de Justicia Alternativa del Estado de Colima y la Ley de Justicia Penal Restaurativa del Estado de Colima, a fin de colaborar al fomento de la convivencia armónica y una cultura de paz social, la Procuraduría de Protección, con el apoyo del Centro Estatal de Solución Alternativa de Conflictos del Poder Judicial y de la Dirección de Soluciones Alternas de la Fiscalía General o, mediante el propio personal debidamente certificado, brindará el servicio de solución de conflictos en materia familiar donde se vean involucrados derechos vulnerados o restringidos de niñas, niños y adolescentes, con la aplicación de medios alternos de mediación y conciliación, previo o complementariamente a los procedimientos jurisdiccionales, solucionando las controversias priorizando el diálogo conforme a procedimientos basados en la oralidad, la economía procesal, la confidencialidad y, a los principios de no obligatoriedad, imparcialidad, buena fe y equidad entre las partes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 179.
+
+La Procuraduría de Protección aplicará los medios alternos de solución de controversias, apegándose a los procedimientos y restricciones previstas en la normatividad de la materia y demás disposiciones aplicables, conforme al principio del interés superior de las niñas, niños y adolescentes y, el respeto a su derecho de participación, conforme a la edad, nivel cognoscitivo y grado de madurez.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 180.
+
+Las actuaciones que tengan lugar en la Procuraduría de Protección, relativas a la aplicación de medios alternos de solución de controversias, serán confidenciales y no podrán ser utilizadas como medio de prueba en otros procedimientos administrativos o jurisdiccionales, excepción hecha de los acuerdos y resoluciones que se adopten. Asimismo, las personas que se desempeñen como mediadores o conciliadores, no podrán ser compelidos a declarar como testigos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO XIII. DE LOS ORGANISMOS DE PROTECCIÓN DE LOS DERECHOS HUMANOS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 181.
+
+En el proceso administrativo de adopción, la Procuraduría de Protección deberá integrar el expediente técnico de adopción conforme el procedimiento establecido para el efecto y cumpliendo con los requisitos previstos en esta Ley, su reglamento y demás disposiciones legales aplicables.
+
+La Procuraduría de Protección iniciará de manera inmediata el juicio de adopción de conformidad a lo previsto en esta Ley, su reglamento y demás ordenamientos aplicables.
+
+Una vez concluido el procedimiento judicial, la Procuraduría de Protección realizará el seguimiento que establece la legislación civil aplicable, con la finalidad de verificar que el niño, niña o adolescente, ha logrado su integración plena a su nuevo núcleo familiar, de conformidad con el procedimiento al que se refiere el reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 182.
+
+La Procuraduría de Protección llevará a cabo el registro de los procesos de adopción que promueva ante las autoridades jurisdiccionales competentes, con el objeto de conservar la información correspondiente a los orígenes de la niña, niño o adolescente adoptado, incluyendo la idEntidad de su madre y padre, su historia médica y de su familia. Además, conservará los datos de identificación del proceso, incluyendo la autoridad jurisdiccional que autorizó la adopción, así como la información correspondiente de la madre y padre adoptivos. La información obtenida tendrá el carácter de confidencial y sólo será proporcionada en los siguientes supuestos:
+
+I. Para cumplir los fines previstos por el Código Civil para el Estado de Colima; y
+
+II. Cuando sea solicitada vía oficio por las diversas autoridades administrativas competentes en el tema de adopciones, con el único fin de llevar a cabo su registro, control y estadística.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO XIV. DEL PROGRAMA ESTATAL
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 20 DE OCTUBRE DE 2018)
+
+###### Artículo 183.
+
+Los Municipios contarán (sic) Autoridades de Primer Contacto y Procuradurías Municipales cuya adscripción orgánica y naturaleza jurídica será determinada por el Ayuntamiento con consentimiento del respectivo Cabildo, en términos de la presente Ley y las disposiciones legales aplicables, a fin de permitir la desconcentración regional de los servicios de la Procuraduría de Protección y se logre la mayor presencia y cobertura posible en los Municipios del Estado.
+
+La persona que funja como titular de la Presidencia Municipal, actuando en carácter de Presidente del Sistema Municipal de Protección, nombrará a la persona (sic) la Autoridad de Primer Contacto, quien fungirá como área de primer contacto con las niñas, niños y adolescentes, y será el enlace con las Procuradurías, las autoridades de los tres órganos de gobierno, con los sectores social y privado.
+
+La persona que funja como titular de la Procuraduría de Protección, nombrará en términos de esta Ley a quien funja como titular de la Procuraduría Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 184.
+
+Para el cumplimiento de sus atribuciones, las Procuradurías Municipales, contarán con la estructura siguiente como mínimo:
+
+I. Titular de la Procuraduría Municipal;
+
+II. Áreas de Protección y Restitución de Derechos de Niñas, Niños y Adolescentes; y
+
+III. Áreas de Trabajo Social y Psicología.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 185.
+
+En coordinación con la Procuraduría de Protección y, en el ámbito de su competencia, son atribuciones de las Procuradurías Municipales, las siguientes:
+
+I. Procurar conforme a su competencia la protección integral de niñas, niños y adolescentes, prevista en la Constitución Federal, los tratados internaciones firmados y ratificados por el Estado Mexicanos (sic), la presente Ley y demás disposiciones aplicables;
+
+II. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+III. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan a la Fiscalía General;
+
+IV. Intervenir oficiosamente con la Representación Coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en los que estén involucrados niñas, niños y adolescentes, de conformidad con la presente Ley y demás disposiciones aplicables;
+
+V. Coadyuvar en la aplicación de los medios alternos de solución de controversias, en términos de esta Ley, en el supuesto de vulneración o restricción de derechos de las niñas, niños y adolescentes en su ámbito familiar. Los mecanismos alternos de solución de controversias no procederán en casos de violencia o, cualquier otro supuesto de improcedencia previsto en la ley de la materia;
+
+VI. Denunciar ante la Fiscalía General aquellos hechos que la Ley señale como constitutivos de delito en agravio de niñas, niños y adolescentes;
+
+VII. Solicitar ante la Fiscalía General o la Delegación de la Procuraduría General de la República, la imposición de medidas urgentes de protección especial en términos de esta Ley;
+
+VIII. Dar seguimiento a las medidas de protección especial y las de carácter urgente, para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
+
+IX. Apoyar a la Procuraduría de Protección, coordinando las acciones en el ámbito de su competencia, que se requieran para el efecto:
+
+a. En la integración de expedientes, en aquellos casos que requieran de la aplicación de medidas de protección especial, y las de carácter urgente, con la salvedad prevista en el artículo 156 fracción II, inciso a) de esta Ley; y
+
+b. En la ejecución de las medidas de protección especial y, las de carácter urgente, coordinando las acciones en el ámbito de su competencia, que se requieran para el efecto.
+
+X. Solicitar el auxilio de las instituciones policiales competentes, para la imposición de las medidas urgentes de protección especial;
+
+XI. Solicitar a la autoridad competente la imposición de las medidas de apremio correspondientes, en caso de incumplimiento a las medidas urgentes de protección especial; y
+
+XII. Las demás que se deriven de la presente Ley o le sean conferidas por otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 186.
+
+Son requisitos de elegibilidad para ser titular de la Procuraduría Municipal los siguientes:
+
+I. Ser mayor de edad, Ciudadana o Ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título profesional de licenciatura en derecho o similar debidamente registrado;
+
+III. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes, o de experticia comprobable en estas materias; y
+
+IV. No haber sido sentenciado por delito doloso o inhabilitado para el servicio público.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 187.
+
+Respecto a la forma y términos en que se llevará a cabo la coordinación operativa entre la Procuraduría de Protección y las Procuradurías Municipales, se estará a lo dispuesto en el Reglamento Interior de la Procuraduría de Protección y demás disposiciones legales aplicables.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 20 DE OCTUBRE DE 2018)
+
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 188.
+
+La Comisión de Derechos Humanos del Estado de Colima, en la medida de sus posibilidades, deberá establecer una Visitaduría para los derechos de la niñez y la adolescencia, con personal especializado, a fin de que funja como un área especializada encargada, conforme al ámbito de su competencia, de la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de las niñas, niños y adolescentes, con base al principio del interés superior de la niñez y adolescencia.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 189.
+
+La Visitaduría tendrá las atribuciones siguientes:
+
+I. Realizar investigaciones sobre cualquier situación de violación de los derechos humanos de niñas, niños y adolescentes, por quejas o denuncias que le sean presentadas a petición de parte o de oficio;
+
+II. Requerir información a las instituciones públicas y organismos, según su competencia, para llevar a cabo las investigaciones correspondientes;
+
+III. Conocer de aquellas quejas o denuncias que sean publicadas en los medios de comunicación;
+
+IV. Proteger a la niña, niño o adolescente de manera inmediata para el resguardo de su situación jurídica, en coordinación con la Procuraduría de Protección;
+
+V. Gestionar los servicios de asistencia necesaria para su recuperación y restitución de derechos;
+
+VI. Llevar a cabo el seguimiento y valoración de su desarrollo hasta quedar garantizada la restitución de sus derechos;
+
+VII. Vigilar la aplicación efectiva de las garantías constitucionales que salvaguardan los derechos de niñas, niños y adolescentes, las disposiciones contenidas en los Tratados Internacionales y las previstas en esta Ley y otras leyes aplicables;
+
+VIII. Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes, coadyuvando en la averiguación previa;
+
+IX. Intervenir en los procedimientos judiciales, a solicitud de alguna de las partes o del juez competente, para efectos de informar sobre las cuestiones de derechos humanos;
+
+X. Promover la armonización de la legislación de derechos humanos relacionados con los derechos de niñas, niños y adolescentes;
+
+XI. Preparar y publicar opiniones, recomendaciones e informes, ya sea a petición de las autoridades o por propia iniciativa sobre cualquier asunto relacionado con la promoción y protección de los derechos de niñas, niños y adolescentes, y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Colima; y
+
+XII. Las demás que se establezcan en la Ley Orgánica de la Comisión de los Derechos Humanos del Estado de Colima y su Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 190.
+
+El titular de la Visitaduría será nombrado por el Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Colima, de conformidad con los requisitos previstos para el efecto en la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Colima.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 20 DE OCTUBRE DE 2018)
+
+###### Artículo 191.
+
+Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, a través del Sistema Estatal de Protección, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa, el cual deberá ser acorde con el Plan Nacional de Desarrollo, el Programa Nacional y con la presente Ley.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 20 DE OCTUBRE DE 2018)
+
+###### Artículo 192.
+
+El Programa preverá acciones de mediano y largo alcance, indicando los objetivos, estrategias y líneas de acción prioritarias, observando en todo momento lo dispuesto por el Programa Nacional.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 132], P.O. 20 DE OCTUBRE DE 2018)
+
+###### Artículo 193.
+
+El Programa deberá incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y será publicado en el Periódico Oficial "El Estado de Colima".
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 133], P.O. 20 DE OCTUBRE DE 2018)
+
+###### Artículo 194.
+
+El Sistema Estatal de Protección y Municipales, contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
 ## TÍTULO SEXTO. DE LAS INFRACCIONES ADMINISTRATIVAS
+
+###### Artículo 195.
+
+En cuanto a las infracciones y sanciones que resulten aplicables en el ámbito de sus respectivas competencias y, los procedimientos para su imposición e impugnación, así como las autoridades competentes respectivas, se estará a lo dispuesto por el Título Cuarto de la Constitución Federal, la Ley General de Responsabilidades Administrativas, la Constitución Política del Estado y la Ley de Justicia Administrativa del Estado de Colima.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 135], P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 196.
+
+Quienes se desempeñen en el servicio público estatal o municipal, o cualquier persona que realice un empleo, cargo o comisión en ambos órdenes de gobierno y, que con motivo del ejercicio de sus facultades, funciones o actividades, incurran en uno o varios de los supuestos señalados como infracciones en la presente Ley y su Reglamento, serán responsables de toda acción indebida u omisión en el ejercicio de su actividad, haciéndose acreedores a las sanciones administrativas y de otra índole que correspondan, de conformidad con las disposiciones legales aplicables.
+
+En términos de este artículo y respecto a los derechos de las niñas, niños y adolescentes, se consideran como infracciones a la presente Ley las siguientes:
+
+I. Negar injustificadamente a cualquier niña, niño o adolescente, el ejercicio de alguno de sus derechos o, la prestación de servicios obligatorios;
+
+II. Omitir informar a la autoridad competente, cuando con motivo del desempeño de sus funciones, se tenga conocimiento de la vulneración o restricción de derechos, en términos de esta Ley y demás normatividad aplicable;
+
+III. Propiciar, tolerar o abstenerse de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o castigo corporal, del que se tenga conocimiento;
+
+IV. Realizar actuaciones sin contar con la autorización o certificación de la autoridad competente, en cualquier procedimiento administrativos (sic) o jurisdiccional, relacionado con la atención de niñas, niños y adolescentes, especialmente en los casos de adopción; y
+
+V. Las demás contravenciones a lo dispuesto en esta Ley y su Reglamento, que por acción u omisión, ponga en riesgo, vulnere o restrinja cualquiera de los derechos de las niñas, niños y adolescentes.
+
+No se considerarán como negación al ejercicio de un derecho, las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o, derivadas de un acto legítimo de autoridad.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 197.
+
+Las madres, padres, tutores, cuidadores, adulto significativo o cualquier otra persona que infrinja de modo alguno las disposiciones de esta ley, incumpla con las obligaciones establecidas en la Ley General respecto de quienes ejercen la patria potestad, tutela o guarda y custodia de niños, niñas y adolescentes, la Procuraduría de Protección, con independencia de las sanciones que prevean otras leyes, podrá promover ante la autoridad competente la imposición de las sanciones correspondientes o, en caso de estimarlo pertinente, la persona que funja como su titular, determinará en el ámbito de su competencia, la aplicación de las medidas de apremio, conforme al procedimiento previsto en el Reglamento Interior de la Procuraduría de Protección de Niñas, Niños y Adolescentes, siendo las siguientes:
+
+I. Amonestación por escrito;
+
+II. Multa de hasta ochocientas veces de salario mínimo vigente en la Entidad a la fecha en que ocurra en incumplimiento;
+
+III. Trabajos en beneficio de la comunidad;
+
+IV. Clausura parcial o total, temporal o definitiva de las fuentes o actividades que contravengan las disposiciones de esta Ley;
+
+V. Tratándose de servidores públicos, la sanción será desde la amonestación hasta destitución del cargo, de conformidad con lo que establece la Ley de Justicia Administrativa para el Estado de Colima; y
+
+VI. Las demás que al efecto establezca la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios para el Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 198.
+
+Se considerará como reincidente a la persona que:
+
+I. Habiendo incurrido en una infracción por la que hubiera sido sancionada, realice otra violación del mismo precepto de esta Ley;
+
+II. Al inicio del segundo o ulterior procedimiento, exista resolución previa que haya causado estado; y
+
+III. Que entre el inicio del procedimiento y, la resolución que haya causado estado, no hubieran transcurrido más de diez años.
+
+El titular de la Procuraduría de Protección, para efecto de hacer cumplir sus determinaciones, podrá solicitar el auxilio y colaboración de las instituciones policiales competentes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 199.
+
+Para la determinación de la sanción, las autoridades competentes deberán considerar:
+
+I. La gravedad de la infracción;
+
+II. El carácter intencional de la acción u omisión sancionable;
+
+III. Los daños que se hubieren producido o, pudieran causarse;
+
+IV. La condición económica de la persona a quien se le aplicará la sanción; y
+
+V. La reincidencia.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 200.
+
+Serán autoridades competentes para conocer de las infracciones a la presente Ley, las siguientes:
+
+I. La dependencia o Entidad competente de la administración pública estatal o municipal, tratándose de personas que se desempeñen como:
+
+a. Servidores públicos de dichas dependencias o Entidades;
+
+b. Personal de las instituciones de salud, educación, deporte, cultura o Centros de Asistencia Social; y
+
+c. Empleados, trabajadores o comisionados de establecimientos sujetos al control, administración o coordinación de las instituciones señaladas en la fracción anterior.
+
+II. Los órganos establecidos en los respectivos ordenamientos legales, tratándose de personas que se desempeñen como servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de:
+
+a. El Poder Judicial del Estado;
+
+b. El Poder Legislativo del Estado;
+
+c. Los Órganos Autónomos; o
+
+d. El Tribunal de Justicia Administrativa del Estado de Colima.
+
+III. Fuera de los supuestos señalados en las dos fracciones previas, será competente la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 201.
+
+Contra las sanciones que las autoridades competentes impongan en cumplimiento de esta Ley, se podrá comparecer ante el Tribunal de Justicia Administrativa del Estado de Colima, conforme a las disposiciones legales aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 202.
+
+Para los efectos de este Título, a falta de disposición expresa y en lo que no contravenga a esta Ley, se aplicará supletoriamente la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
 
 ## TRANSITORIOS
 
@@ -1834,3 +3006,25 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 377 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 575 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE (SIC) NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima", con fecha 26 de septiembre del año 2015.
+
+TERCERO. La coordinación operativa del Sistema Estatal de Protección pasa a constituirse como un órgano administrativo desconcentrado de la Secretaría General de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva.
+
+CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes conservará todos los recursos materiales y financieros, así como el personal adscrito a la misma, con pleno respeto a sus derechos laborales.
+
+QUINTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes, en lo que corresponde al presente ejercicio fiscal, continuará desarrollando sus funciones de conformidad con su presupuesto asignado, debiéndose hacer las adecuaciones presupuestales necesarias para el efectivo cumplimiento de sus atribuciones y operatividad en su carácter de Organismo Público Descentralizado, en los siguientes ejercicios fiscales.
+
+SEXTO. El Poder Ejecutivo Estatal deberá realizar las reformas al marco jurídico reglamentario pertinente, en un plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Los Ayuntamientos contarán con un plazo de 90 días naturales para emitir la reglamentación que regule la operatividad de su correspondiente Procuraduría Municipal, contados a partir de la entrada en vigor del Reglamento Interior de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Colima.
+
+OCTAVO. Los procedimientos vigentes ante la Procuraduría de Protección con anterioridad a la entrada en vigor del presente Decreto, se solventarán y resolverán de conformidad con la legislación vigente al momento de su inicio.
+
+NOVENO. La Procuraduría de Protección de Niñas, Niños y Adolescentes deberá continuar observando las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor del presente Decreto, y que no se opongan a lo previsto por el mismo, en tanto entran en vigor sus propias disposiciones reglamentarias.
