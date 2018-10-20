@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2018-09-28"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -385,9 +385,15 @@ Si en el procedimiento correspondiente no comprueba el Titular la causa de resci
 
 De las relaciones entre las entidades públicas y sus trabajadores.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 36.
 
 Las Entidades públicas y los sindicatos establecerán conjuntamente los criterios y los períodos para revisar las prestaciones que disfruten los trabajadores.
+
+Las prestaciones laborales derivadas de los convenios celebrados entre los titulares de las Entidades públicas y los sindicatos solo serán aplicables para los trabajadores de base agremiados a los mismos y no serán extensibles a los trabajadores de confianza y supernumerarios.
+
+Los trabajadores de confianza y supernumerarios de las Entidades públicas tendrán las prestaciones que se determinen en el tabulador correspondiente, así como las que se prevén en la presente Ley.
 
 ###### ARTICULO 37.
 
@@ -1794,3 +1800,9 @@ II. El pago se hará desde el primer día de incapacidad y será cubierto por la
 DE LAS PENSIONES DE INVALIDEZ Y FALLECIMIENTO POR CAUSAS AJENAS AL TRABAJO PARA TRABAJADORES DE LA EDUCACIÓN
 
 Artículo Cuadragésimo Segundo. La declaración de invalidez para los trabajadores de (sic) educación será realizada directamente por el Instituto, siendo este mismo quien ordene los reconocimientos médicos, quién suspenda las pensiones o las revoque.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 563 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 36 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
