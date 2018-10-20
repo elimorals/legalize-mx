@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-21"
-last_updated: "2018-08-29"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de junio de 2014.
 
@@ -476,6 +476,10 @@ VII. Instalar depósitos separados de residuos, según su tipo, y asear inmediat
 VIII. Participar en eventos educativos sobre residuos.
 
 IX. Cumplir con lo establecido en la normatividad federal, estatal y municipales en materia de residuos.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+X. Poner a disposición del consumidor final únicamente popotes elaborados a partir de materiales reutilizables o biodegradables; quedando prohibida la disposición de popotes plásticos.
 
 ###### ARTÍCULO 23.
 
@@ -1052,3 +1056,11 @@ P.O. 29 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0838/2018 XIV P.E., POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 21 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al año posterior al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFLEY/0890/2018 XVIII P.E., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 22, LA FRACCIÓN X DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se dispondrán de sesenta días naturales a partir de la entrada en vigor del presente Decreto, para su obligatoriedad.
