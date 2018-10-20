@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-etica-de-los-servidores-publicos-del-organo-130808"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-10-06"
-last_updated: "2018-10-06"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL ORGANO SUPERIOR DE AUDITORIA Y FISCALIZACION GUBERNAMENTAL DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL ÓRGANO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN GUBERNAMENTAL DEL ESTADO DE COLIMA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE OCTUBRE DE 2018.]</small>
 
 Código publicado en el número 74 del Periódico Oficial del Estado de Colima, el sábado 6 de octubre de 2018.
 
@@ -155,9 +155,13 @@ d) Procedimiento de Denuncia.
 
 TRANSITORIOS:
 
-PRIMERO.- El presente Reglamento Interior del Órgano Superior de Auditoría y Fiscalización Gubernamental, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+> <small>(F. DE E., P.O. 20 DE OCTUBRE DE 2018)</small>
 
-SEGUNDO.- El Órgano Interno de Control del Auditor Superior, del Órgano Superior de Auditoría y Fiscalización Gubernamental, emitirá el Código de Conducta mismo que deberá de ajustarse al presente Código de Ética del Órgano Superior de Auditoría y Fiscalización Gubernamental;
+PRIMERO.- El presente Código de Ética del Órgano Superior de Auditoría y Fiscalización Gubernamental, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+> <small>(F. DE E., P.O. 20 DE OCTUBRE DE 2018)</small>
+
+SEGUNDO.- El Contralor Interno del Órgano Superior de Auditoría y Fiscalización Gubernamental, emitirá el Código de Conducta mismo que deberá de ajustarse al presente Código de Ética del Órgano Superior de Auditoría y Fiscalización Gubernamental;
 
 TERCERO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Decreto.
 
