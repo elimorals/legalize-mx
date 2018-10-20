@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2018-09-28"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -2709,9 +2709,17 @@ IV. Centro de Estudios Judiciales;
 
 V. Contraloría;
 
-VI. Unidad de Acceso a la Información Pública; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-VII. Archivo Judicial.
+VI. Unidad de Acceso a la información Pública;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+VII. Archivo Judicial; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+VIII. Unidad de Igualdad de Género y Derechos Humanos.
 
 ### Capítulo III. De la Dirección de Tecnologías de la Información y Comunicaciones
 
@@ -3093,7 +3101,9 @@ Aplicaciones normativas complementarias en Materia de Transparencia.
 
 Las leyes de Transparencia, sus reglamentos, las de Datos Personales y sus reglamentos establecerán los procedimientos y limitaciones que pueden generarse como parte del Acceso a la Información Pública Gubernamental.
 
-### Capítulo I. Del Sistema de la Carrera Judicial
+### Capítulo IX. De la Unidad de Igualdad de Género y Derechos Humanos
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 172.
 
@@ -3143,11 +3153,51 @@ La planta del archivo se compondrá: de un titular, y personal subalterno y admi
 
 El Reglamento respectivo fijará la denominación de los puestos y las atribuciones de los servidores públicos que se adscriban al archivo judicial y determinará la forma de los asientos, índices y libros que en la misma oficina deban llevarse, y el Pleno del Tribunal podrá acordar, en todo caso, las disposiciones que crea convenientes.
 
-### Capítulo II. De los Concursos de Oposición
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### Capítulo I. Del Sistema de la Carrera Judicial
+
+###### Artículo 177 Bis.
+
+Unidad de Igualdad de Género
+
+El Supremo Tribunal de Justicia contará con una Unidad de Igualdad de Género y Derechos Humanos, que será el órgano responsable de promover e implantar, en el interior del Poder Judicial del Estado, una cultura con enfoque de género y sin discriminación, incorporándola de manera permanente al diseño, programación, presupuestación, ejecución y evaluación de las políticas públicas institucionales, a fin de eliminar toda clase de diferencias arbitrarias, injustas o desproporcionadas, en razón de su sexo o género, tanto en el interior de la institución como en los procesos y las resoluciones judiciales.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 177 Ter.
+
+Integración de la Unidad de Igualdad de Género
+
+La Unidad de Igualdad de Género y Derechos Humanos estará a cargo de una persona Titular, nombrada por el Pleno del Supremo Tribunal de Justicia del Estado, a propuesta de su Presidente, y deberá ser mujer, profesionista, con estudios especializados en igualdad de género y derechos humanos. Esta unidad en caso de (sic) necesario podrá contar con el personal administrativo y de apoyo que se requiera, sujetándose en todo momento a la disponibilidad presupuestaria del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 177 Quáter.
+
+Funciones de la Unidad de Igualdad de Género
+
+La Unidad de Igualdad de Género y Derechos Humanos tendrá las funciones siguientes:
+
+I. Asegurar la institucionalización de la perspectiva y transversalidad de género, así como del enfoque de derechos humanos en la cultura organizacional y el quehacer judicial;
+
+II. Ser enlace y representar al Poder Judicial ante los poderes Ejecutivo y Legislativo del Estado, en el ámbito de su competencia;
+
+III. Coordinar la formación, capacitación y certificación del personal en materia de género, inclusión, derechos humanos e igualdad sustantiva;
+
+IV. Planificar y promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de la situación de las mujeres y los hombres que laboran en esta institución;
+
+V. Diseñar e implementar una política laboral libre de violencia, sin acoso laboral ni hostigamiento sexual, así como de respeto y protección a los derechos laborales;
+
+VI. Proponer proyectos y programas que deban gestionarse, convenirse y coordinarse ante dependencias federales, estatales y municipales, así como ante organizaciones de la sociedad civil para la promoción de los enfoques de igualdad de género y de derechos humanos;
+
+VII. Atender, asesorar, orientar y canalizar a la instancia correspondiente, las quejas que se presenten por violaciones al derecho de igualdad del personal del Poder Judicial, así como transgresiones a los derechos humanos; y
+
+VIII. Las demás que determinen esta Ley, su Reglamento, otros ordenamientos aplicables y las que determine el Pleno del Supremo Tribunal de Justicia del Estado.
 
 ## TÍTULO CUARTO. DE LA CARRERA JUDICIAL
 
-### Capítulo I. De las Causales de Responsabilidad
+### Capítulo II. De los Concursos de Oposición
 
 ###### Artículo 178.
 
@@ -3235,7 +3285,7 @@ El Pleno del Tribunal, establecerá, de acuerdo con su presupuesto y mediante di
 
 Para el otorgamiento de los estímulos se tomará en cuenta el desempeño en el ejercicio de la función, los cursos realizados en el Centro de Estudios Judiciales y los impartidos por las instituciones de educación superior, grado académico, permanencia en el servicio, participación en actividades de investigación y docencia dentro del Centro y los demás que el propio Pleno del Tribunal estime necesarios.
 
-### Capítulo II. De las Sanciones
+### Capítulo I. De las Causales de Responsabilidad
 
 ###### Artículo 187.
 
@@ -3327,7 +3377,7 @@ El jurado tiene facultades para decidir lo conducente en el caso de presentarse 
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-### Capítulo III. Del Procedimiento
+### Capítulo II. De las Sanciones
 
 ###### Artículo 195.
 
@@ -3475,7 +3525,7 @@ I. El Pleno del Tribunal, respecto de: Magistrados, Jueces, Titular y personal a
 
 II. Los Jueces de Primera Instancia o Jueces de Menor Cuantía: respecto del personal adscrito al Juzgado de su adscripción.
 
-### Capítulo IV. De las Excitativas de Justicia
+### Capítulo III. Del Procedimiento
 
 ###### Artículo 205.
 
@@ -3605,7 +3655,7 @@ VI. El órgano resolutor, tomando en cuenta la gravedad de la falta cometida, as
 
 Sólo podrá instaurarse procedimiento administrativo disciplinario en contra de Magistrados del Tribunal que amerite suspensión, destitución e inhabilitación, así como el que amerite destitución e inhabilitación en contra de jueces, en los supuestos previstos por la Constitución Estatal y la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-### Capítulo I. Generalidades
+### Capítulo IV. De las Excitativas de Justicia
 
 ###### Artículo 216.
 
@@ -3719,7 +3769,7 @@ Interinato durante la Suspensión
 
 En tanto se substancia el procedimiento disciplinario, y una vez suspendido temporalmente al probable infractor, el Pleno del Tribunal en su caso designará a quien deba suplir al servidor público de forma provisional en tanto subsista la suspensión.
 
-### Capítulo II. De los Impedimentos, Excusas y Recusaciones
+### Capítulo I. Generalidades
 
 ###### Artículo 228.
 
@@ -3781,7 +3831,7 @@ Cuando el quejoso se desista de su promoción, se tendrá por no interpuesta.
 
 ## TÍTULO SEXTO. DE LAS AUSENCIAS Y COMPETENCIA SUBJETIVA
 
-### Capítulo I. Disposiciones Generales
+### Capítulo II. De los Impedimentos, Excusas y Recusaciones
 
 ###### Artículo 235.
 
@@ -3909,7 +3959,7 @@ III. Los que determine el Pleno del Tribunal, atendiendo los derechos laborales 
 
 En materia penal, familiar, justicia para adolescentes y narcomenudeo, las vacaciones de los servidores públicos serán alternadas.
 
-### Capítulo II. De la Integración de la Jurisprudencia
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 249.
 
@@ -3983,7 +4033,7 @@ Los Jueces que dejen de conocer el asunto estarán obligados a resolver término
 
 ## TÍTULO SÉPTIMO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-### Capítulo III. De la Obligatoriedad de la Jurisprudencia
+### Capítulo II. De la Integración de la Jurisprudencia
 
 ###### Artículo 254.
 
@@ -4035,7 +4085,7 @@ Invocación de Jurisprudencia
 
 Cuando las partes invoquen tesis de jurisprudencia o precedentes expresarán los datos de identificación y publicación. De no haber sido publicadas bastará que se acompañen copias certificadas de las resoluciones correspondientes, o que éstas últimas se invoquen con datos claros que las hagan identificables. En todo caso, la autoridad judicial deberá revisar la existencia de la jurisprudencia o precedentes invocados.
 
-### Capítulo IV. De la Interrupción de la Jurisprudencia
+### Capítulo III. De la Obligatoriedad de la Jurisprudencia
 
 ###### Artículo 259.
 
@@ -4073,7 +4123,7 @@ Emisión de la Jurisprudencia
 
 El Pleno del Tribunal o las Salas remitirán las tesis en el plazo de quince días hábiles al área encargada de su compilación y sistematización, para su publicación, así como a la Presidencia, a la Sala o Salas que no hubiesen intervenido en su integración, a los Juzgados del Poder Judicial y al Centro Estatal de Justicia Alternativa, para su inmediata observancia obligatoria.
 
-### Capítulo V. De la Compilación, Sistematización y Difusión de la Jurisprudencia
+### Capítulo IV. De la Interrupción de la Jurisprudencia
 
 ###### Artículo 262.
 
@@ -4084,6 +4134,8 @@ La jurisprudencia por reiteración o por contradicción que establezca el Pleno 
 La jurisprudencia que pronuncien las Salas del Supremo Tribunal de Justicia tendrá observancia obligatoria para los Juzgados del Poder Judicial, el Centro Estatal de Justicia Alternativa y las autoridades del Estado.
 
 La observancia de la jurisprudencia será obligatoria al día siguiente de que se publique en el Boletín Judicial.
+
+### Capítulo V. De la Compilación, Sistematización y Difusión de la Jurisprudencia
 
 ###### Artículo 263.
 
@@ -4626,3 +4678,9 @@ II. El pago se hará desde el primer día de incapacidad y será cubierto por la
 DE LAS PENSIONES DE INVALIDEZ Y FALLECIMIENTO POR CAUSAS AJENAS AL TRABAJO PARA TRABAJADORES DE LA EDUCACIÓN
 
 Artículo Cuadragésimo Segundo. La declaración de invalidez para los trabajadores de (sic) educación será realizada directamente por el Instituto, siendo este mismo quien ordene los reconocimientos médicos, quién suspenda las pensiones o las revoque.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 577 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 150, ASIMISMO SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 150, ASÍ COMO UN CAPÍTULO IX DENOMINADO "DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS" AL TÍTULO TERCERO, CONFORMADO POR LOS ARTÍCULOS 177 BIS, 177 TER Y 177 QUÁTER, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+ÚNICO. - El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
