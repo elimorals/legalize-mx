@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2017-02-22"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 20 DE OCTUBRE DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRARÁ EN VIGOR EL DÍA PRIMERO DE ENERO DEL DOS MIL DIECINUEVE.]</small>
+
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -327,7 +329,7 @@ En las edificaciones y proyectos futuros, se deberán incluir mecanismos, equipo
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-Atendiendo y aplicando, en los casos de edificaciones no residenciales, lo estipulado por la Norma Oficial Mexicana NOM-008-ENER-2001 de "Eficiencia Energética en Edificaciones Envolvente de Edificios no Residenciales", sin perjuicio de otras aplicables para los proyectos de esta naturaleza.
+Atendiendo y aplicando, en los casos de edificaciones no residenciales, lo estipulado por la Norma Oficial Mexicana NOM-008-ENER-2001 de “Eficiencia Energética en Edificaciones Envolvente de Edificios no Residenciales”, sin perjuicio de otras aplicables para los proyectos de esta naturaleza.
 
 ###### ARTICULO 20.
 
@@ -1660,3 +1662,61 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/EXLEY/0891/2018 XVIII P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero del dos mil diecinueve. Si a esta fecha no ha sido publicada en el Periódico Oficial del Estado, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Obra Pública y Servicios Relacionados con la Misma del Estado de Chihuahua, publicada en el
+
+Periódico Oficial del Estado No. 103 del 23 de diciembre del 2000.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley en un plazo no mayor a noventa días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los entes públicos contarán con un plazo de noventa días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto para realizar o promover las acciones y adecuaciones necesarias que permitan la correcta aplicación de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones administrativas y reglamentarias expedidas en esta materia, vigentes al momento de la publicación y entrada en vigor del presente Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+En la utilización del criterio de evaluación mediante el mecanismo de puntos y porcentajes al que se refiere la presente Ley, los Entes Públicos podrán emplear con carácter orientador, los lineamientos federales en la materia.
+
+La presentación de los documentos para el registro en el Padrón de Contratistas se llevará cabo (sic) de manera física, hasta en tanto no se cuente con las herramientas para hacerlo de forma electrónica.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de la Función Pública pondrá en marcha el sistema electrónico de contrataciones en un término que no exceda de ciento ochenta días naturales contados a partir de la fecha de entrada en vigor de este Decreto.
+
+La elaboración, control y seguimiento de la bitácora sobre los trabajos de obras públicas y servicios relacionados con las mismas, continuará operando de manera convencional, hasta en tanto no se encuentre disponible el sistema que así lo permita de forma electrónica.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de la Función Pública y la Auditoría
+
+Superior, ambas del Estado de Chihuahua, según corresponda, deberán fungir como Órganos Internos de Control en aquellos entes públicos que aún no cuenten con un órgano de esta naturaleza, además vigilarán y comprobarán que se apliquen las disposiciones de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos de contratación y demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+Los contratos de obras públicas y servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+###### ARTÍCULO NOVENO.
+
+En tanto se expide la Ley Estatal del Procedimiento
+
+Administrativo se aplicará en lo conducente el Código Administrativo y el Código de Procedimiento Civiles, ambos del Estado de Chihuahua.
+
+###### ARTÍCULO DÉCIMO.
+
+En tanto no se constituya el Tribunal competente en materia administrativa en el Estado, ni se legisle el procedimiento contencioso respectivo, las controversias entre particulares y el Estado que se deriven de los actos que regula la presente Ley, serán tramitadas mediante el juicio de oposición previsto en el Código Fiscal del Estado y resueltas ante la Sala del Tribunal Superior de Justicia del Estado de Chihuahua que sea designada para tal efecto.
