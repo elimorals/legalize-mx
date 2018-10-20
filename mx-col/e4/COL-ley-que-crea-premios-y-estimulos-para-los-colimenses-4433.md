@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2017-06-03"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -73,11 +73,11 @@ IV.- Condecoración "ALFONSO MICHEL'', para distinguidos artistas (pintores, com
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
-V.- Condecoración “LIC. BALBINO DAVALOS”, que se otorgará a quienes se distingan en las Letras (historiadores, poetas, críticos, ensayistas, literatos, cuentistas, académicos, novelistas, filólogos, investigadores, autores de obras especializadas, escritores, etc.);
+V.- Condecoración "LIC. BALBINO DAVALOS", que se otorgará a quienes se distingan en las Letras (historiadores, poetas, críticos, ensayistas, literatos, cuentistas, académicos, novelistas, filólogos, investigadores, autores de obras especializadas, escritores, etc.);
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
-VI.- Condecoración “Dr. MIGUEL GALINDO”, que se otorgará a quienes se hayan destacado en la labor científica (investigadores, médicos, químicos, biólogos, astrónomos, astrólogos, matemáticos, autores y tratadistas de la materia, etc.);
+VI.- Condecoración "Dr. MIGUEL GALINDO", que se otorgará a quienes se hayan destacado en la labor científica (investigadores, médicos, químicos, biólogos, astrónomos, astrólogos, matemáticos, autores y tratadistas de la materia, etc.);
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2013)</small>
 
@@ -111,13 +111,17 @@ La entrega de estos premios se hará en el marco del festejo del "Día Estatal d
 
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
-VIII.- Premio Estatal “Ricardo de Jesús Vázquez Lara Centeno”, que se entregará en las siguientes categorías:
+VIII.- Premio Estatal "Ricardo de Jesús Vázquez Lara Centeno", que se entregará en las siguientes categorías:
 
 a) A las personas o agrupaciones sociales que de manera altruista han realizado acciones destacadas para mejorar las condiciones de vida de las personas con discapacidad en el Estado; y
 
 b) A las personas que teniendo alguna discapacidad han logrado destacar de manera relevante en el desarrollo de algún ámbito social.
 
 La entrega de este premio se realizará en el marco del festejo del día internacional de las personas con discapacidad.
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+IX.- Presea "Dr. Miguel Trejo Ochoa", al mérito médico, la cual se entregará (sic) aquellas personas que tengan una destacada trayectoria y aportaciones en el ámbito médico.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -207,6 +211,16 @@ Todo premio instaurado por el Congreso del Estado, a través de la Comisión Leg
 
 El monto de los premios que anualmente entregue la Comisión Legislativa que se encargue de otorgar el beneficio, deberá considerarse en el presupuesto de egresos que corresponda.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 9o.
+
+La Presea "Dr. Miguel Trejo Ochoa" a que hace referencia la fracción IX del artículo 1o se entregará en sesión solemne del Congreso, la que se celebrará preferentemente el 23 de octubre de cada año, en el marco del día social del médico.
+
+Para elegir a la persona que será distinguida con la Presea "Dr. Miguel Trejo Ochoa", la Comisión de Salud y Bienestar Social del Congreso en conjunto con el Presidente del Colegio de Médicos del Estado de Colima y el Secretario de Salud y Bienestar Social, suscribirán la convocatoria correspondiente durante la primera quincena de septiembre de cada año, para efectos de que se reciban propuestas a distinguir con dicha Presea.
+
+Para determinar a la persona merecedora de dicha Presea, se integrará un Comité por un representante de la Comisión de Salud y Bienestar Social del Congreso, del Colegio de Médicos del Estado de Colima y de la Secretaría de Salud y Bienestar Social, quien se encargará de revisar y calificar la idoneidad de cada una de las personas propuestas; siendo la Comisión de Salud y Bienestar Social la encargada de elaborar y presentar el dictamen al Pleno del Congreso.
+
 TRANSITORIOS:
 
 ###### Artículo 1o.
@@ -262,3 +276,11 @@ P.O. 3 DE JUNIO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- La fecha de entrega del Premio Estatal de Periodismo correspondiente al año 2017, será definida por la Comisión de Gobierno Interno y Acuerdos Parlamentarios mediante el Acuerdo respectivo.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 585 POR EL QUE SE APRUEBA ADICIONAR UNA FRACCIÓN IX AL ARTÍCULO 1º, Y UN ARTÍCULO 9º, TODOS A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Por única ocasión en el año 2018, la convocatoria prevista en el artículo 9 del presente decreto, se emitirá por el Colegio de Médicos del Estado de Colima, el que revisará y calificará la idoneidad de cada una de las personas propuestas, y posteriormente remitirá a la Comisión de Salud y Bienestar Social del Congreso la propuesta de la persona merecedora de la Presea "Dr. Miguel Trejo Ochoa", para efectos de su dictamen correspondiente.
