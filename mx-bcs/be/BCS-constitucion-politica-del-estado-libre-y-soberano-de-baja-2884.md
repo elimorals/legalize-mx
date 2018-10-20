@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2018-09-25"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1305,9 +1305,13 @@ XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos H
 
 XLIX.- Expedir leyes que establezcan la concurrencia del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos, cumpliendo con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y de las leyes que de ella emanen y de los tratados internacionales de la materia de los que México sea parte;
 
+(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
+
+L.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores, y las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen.
+
 > <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-L.- Expedir todas las leyes con perspectiva de género, logrando la transversalidad e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación del estado con perspectiva de género.
+L (SIC).- Expedir todas las leyes con perspectiva de género, logrando la transversalidad e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación del estado con perspectiva de género.
 
 #### SECCION VI. DE LA DIPUTACION PERMANENTE
 
@@ -2553,7 +2557,9 @@ h) Calles, parques, jardines y su equipamiento;
 
 i) Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los Municipios, así como de su capacidad administrativa y financiera
 
-X.- Formular anualmente su proyecto de ley de ingresos que será sometido a aprobación del Congreso del Estado;
+> <small>(REFORMADA, B.O. EL 20 DE OCTUBRE DE 2018)</small>
+
+X.- Presentar ante el Congreso del Estado para su aprobación en su caso, durante los primeros quince días del mes de noviembre de cada año, sus Iniciativas de Leyes de Ingresos, que regirán durante el año siguiente.
 
 > <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
@@ -4232,3 +4238,11 @@ B.O. 25 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2570 SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 148 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; EL PRIMER PÁRRAFO DEL INCISO B) DE LA FRACCIÓN IV DEL ARTÍCULO 51 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR Y EL INCISO B) DE LA FRACCIÓN XIV DEL ARTÍCULO 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del año 2019, previa su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
