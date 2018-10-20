@@ -4,7 +4,7 @@ identifier: "TAB-ley-sobre-los-derechos-de-las-personas-con-discapacidad-81674"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-01"
-last_updated: "2017-07-05"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 1 de junio de 2001.
 
@@ -175,9 +177,9 @@ VII. Las acciones necesarias para garantizar la accesibilidad y su inclusión pl
 
 VIII. Instrumentar acciones que conlleven a la obtención de recursos para su desarrollo integral; e
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-IX. Impulsar programas para fortalecer la atención integral de las personas cuya discapacidad no les permita valerse por sí mismas ni integrarse a las actividades productivas en ninguna etapa de su vida, así como otorgarles apoyos económicos para coadyuvar a su subsistencia.
+IX. Impulsar programas para fortalecer la atención integral de las personas cuya discapacidad no les permita valerse por sí mismas ni integrarse a las actividades productivas en ninguna etapa de su vida.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
 
@@ -1287,7 +1289,7 @@ III. Autobuses; y
 
 IV. Botes, barcos, lanchas o cualquier medio de transporte marítimo.
 
-### CAPÍTULO I. DE LOS ESTÍMULOS
+### CAPÍTULO ÚNICO. DE LOS ESTÍMULOS
 
 ###### ARTÍCULO 133.
 
@@ -1299,15 +1301,13 @@ Las personas con discapacidad acompañadas de perros de asistencia deberán llev
 
 El dueño de un perro de asistencia será civilmente responsable por los daños frente a terceros causados por el perro. Los daños incluyen aquellos ocurridos en bienes muebles e inmuebles.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-## TÍTULO XVI. DE LOS ESTÍMULOS Y APOYOS ECONÓMICOS
+## TÍTULO XVI. DE LOS ESTÍMULOS
 
-> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO II. DE LOS APOYOS ECONÓMICOS
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
+### CAPÍTULO II.
 
 ###### ARTÍCULO 135.
 
@@ -1321,39 +1321,25 @@ El Ejecutivo del Estado otorgará estímulos y reconocimientos a las personas co
 
 El Ejecutivo del Estado y los ayuntamientos en el ámbito de su competencia, otorgarán estímulos fiscales a las empresas, industrias, comercios y establecimientos en general cuyo capital sea privado, de acuerdo al número de empleados con discapacidad que contraten, atendiendo al principio de progresividad y en términos de la legislación aplicable.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 137-A.
 
-Las personas con discapacidad permanente que les impida valerse por sí mismas tienen derecho a recibir un apoyo económico mensual, determinado cada ejercicio fiscal de conformidad con las disponibilidades presupuéstales del Gobierno del Estado.
-
-El apoyo económico a que se refiere este artículo será entregado a los beneficiarios en forma mensual mediante las instituciones, mecanismos y reglas de operación que se establezcan en el programa respectivo.
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 137-B.
 
-Los requisitos para tener derecho al apoyo económico referido en el artículo anterior son:
-
-I. Acreditar su discapacidad con documento expedido por la Secretaría de Salud;
-
-II. Hallarse en situación de pobreza, de conformidad con los indicadores utilizados para la medición de la misma; y
-
-III. Residir de forma permanente en el Estado de Tabasco con cuando menos un año de antigüedad.
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 137-C.
 
-La Secretaría de Desarrollo Social elaborará y mantendrá actualizado el Padrón de beneficiarios del programa respectivo, que será publicado de conformidad con las normas y reglas en materia de transparencia y acceso a la información pública.
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 137-D.
 
-El Titular del Poder Ejecutivo y el Congreso del Estado, en el ámbito de sus respectivas competencias, garantizarán que en el Presupuesto General de Egresos de cada ejercicio fiscal se establezcan las partidas correspondientes para hacer efectivo el derecho de las personas con discapacidad, a que se refiere este Capítulo.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ## TÍTULO XVII. DE LA VIGILANCIA
 
@@ -1618,3 +1604,19 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 005 POR EL QUE “SE REFORMAN LA FACCIÓN IX DEL ARTÍCULO 5, LA DENOMINACIÓN DEL TÍTULO XVI Y EL NÚMERO DEL CAPÍTULO I DEL TÍTULO XVI; SE DEROGAN LOS ARTÍCULOS 137-A, 137-B, 137-C Y 137-D Y EL CAPÍTULO II DEL TÍTULO XVI; TODOS DE LA LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado tendrá 90 días naturales para realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social del Estado de Tabasco, y demás disposiciones legales y reglamentarias aplicables, contados a partir de su entrada en vigor.
