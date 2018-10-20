@@ -4,7 +4,7 @@ identifier: "COL-ley-de-residuos-solidos-del-estado-de-colima-50291"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-08"
-last_updated: "2018-06-02"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 8 de abril de 2006.
 
@@ -110,6 +110,10 @@ XXIII. Plan de manejo: El instrumento de gestión integral de los residuos sóli
 XXIV. Planta de selección y tratamiento: La instalación donde se lleve a cabo cualquier proceso de selección y tratamiento de los residuos sólidos para su valorización o, en su caso, disposición final;
 
 XXV. Pepenar: La acción de recoger entre los residuos sólidos aquellos que tengan valor en cualquier etapa del sistema de manejo;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XXV BIS.- Productos Plásticos: Corresponde a los productos de un solo uso como los popotes, poliestireno expandido y bolsas de plástico, los cuales atienden a un plan de manejo de residuos, para su adecuada disposición y reciclaje;
 
 XXVI. Programa: Al Programa Estatal de Gestión Integral de los Residuos Sólidos; y
 
@@ -203,9 +207,41 @@ IX. Autorizar los planes de manejo a los que ésta Ley y su Reglamento hacen ref
 
 X. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su Reglamento y demás disposiciones aplicables;
 
-XI. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XII. La atención de los demás asuntos que en materia de los residuos sólidos le conceda esta Ley y otros ordenamientos en corcondancia con ella y que no estén expresamente atribuidos a la Federación.
+XI. Llevar a cabo la verificación del cumplimiento de esta Ley y de las disposiciones que de ella deriven, e imponer las medidas de seguridad y sanciones que correspondan, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XII. La atención de los asuntos que en materia de los residuos sólidos le conceda esta ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la Federación;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIII. Promover la investigación y el desarrollo de las tecnologías que permiten prevenir, controlar y abatir la contaminación por el uso de productos plásticos; así como del poliestireno expandido; y que fomenten el reciclaje y el rehúso de las mismas, además deberá promover la participación de todos los sectores de la sociedad mediante la difusión de información y promoción de actividades de cultura, educación y capacitación ambientales sobre el manejo integral de residuos sólidos;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIV. Prevenir, controlar y abatir la contaminación para el uso de productos plásticos, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XV. Verificar que los productos plásticos que se entreguen cumplan con los criterios establecidos en el título de la Norma Mexicana “INDUSTRIA DEL PLÁSTICO-PLÁSTICOS BIOBASADOS-MÉTODOS DE PRUEBA” con clave NMX-E-267-CNCP-2016;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XVI. Prevenir, controlar y abatir la contaminación por el uso de productos plásticos;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XVII. Sancionar a los establecimientos mercantiles que para prestar sus servicios en el territorio del Estado de Colima utilicen productos plásticos no biodegradables, así como establecer los criterios, lineamientos referentes al consumo sustentable de productos plásticos, los cuales deberán atender un plan de manejo de residuos, para su adecuada disposición y reciclaje;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XVIII. Evaluar, autorizar, revalidar o en su caso negar y revocar Planes de Manejo de Residuos, de acuerdo a la Ley y su Reglamento; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIX. Las demás atribuciones que se establezcan en esta Ley, las Normas Oficiales Mexicanas y otros ordenamientos urídicos (sic) que resulten aplicables.
 
 ###### Artículo 7°.
 
@@ -409,11 +445,51 @@ Las personas físicas o morales responsables de la producción, distribución o 
 
 I. Instrumentar planes de manejo de los residuos sólidos en sus procesos de producción, prestación de servicios o en la utilización de envases y embalajes, así como su fabricación o diseño, comercialización o utilización que contribuyan a la minimización de los residuos sólidos y promuevan la reducción de la generación en la fuente, su valorización o disposición final, que ocasionen el menor impacto ambiental posible;
 
-II. Adoptar sistemas eficientes de recuperación o retorno de los residuos sólidos derivados de la comercialización de sus productos finales; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-III. Privilegiar el uso de envases y embalajes que una vez utilizados sean susceptibles de valorización mediante procesos de reuso y reciclaje.
+II. Adoptar sistemas eficientes de recuperación o retorno de los residuos sólidos derivados de la comercialización de sus productos finales;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+III. Incentivar a sus clientes a llevar mercancías en bolsas, redes, canastas, cajas u otros recipientes que puedan volver a ser utilizadas y contar, fuera de sus establecimientos, con depósitos para colocar las bolsas, empaques u otros residuos; y
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+IV. Privilegiar el uso de envases y embalajes que una vez utilizados sean susceptibles de valoración mediante procesos de rehúso (sic) y reciclaje.
 
 El Reglamento determinará los bienes a los que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 23 Bis.
+
+Estarán obligadas a formular y ejecutar planes de manejo de residuos de manejo especial, las personas físicas o morales, quién (sic) realicen las siguientes actividades:
+
+I. Genere residuos de manejo especial;
+
+II. Acopie o almacene residuos de manejo especial para su comercialización;
+
+III. Recolecte y transporte residuos de manejo especial para su comercialización y/o disposición final en los sitios autorizados; y
+
+IV. Quién reciba o disponga en sus propiedades, residuos de la construcción en un volumen mayor a los 80 metros cúbicos;
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 23 Ter.
+
+El procedimiento de evaluación se iniciará mediante la presentación del documento denominado formato para la presentación del plan de manejo de residuos, de manejo especial y sólidos urbanos ante la Secretaría y concluye con la resolución que esta emita.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 23 Quáter.
+
+Una vez evaluada la información presentada y dentro del plazo de 20 días hábiles contados a partir de la recepción de la misma, la Secretaría deberá emitir debidamente fundada y motivada la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 23 Quinquies.
+
+La Secretaría podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido del formato o documento que se les haya presentado, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder el plazo de 30 días hábiles a partir de que ésta sea declarada por la Secretaría, siempre y cuando le sea entregada la información requerida.
 
 ###### Artículo 24.
 
@@ -463,13 +539,19 @@ XI. Diluir o mezclar residuos sólidos o industriales peligrosos en cualquier l�
 
 XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligrosos;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las Normas Oficiales Mexicanas o las Normas Ambientales del Estado de Colima; y
+XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las Normas Oficiales Mexicanas o la (sic) Normas Ambientales del Estado de Colima;
 
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XIV. El uso de bolsas de polietileno para ser utilizadas y entregadas de manera gratuita por tiendas departamentales, autoservicios, almacenes, supermercados, mercados públicos, tianguis, negocios y comercios, para llevar, transportar o trasladar los productos adquiridos.
+XIV. El uso de bolsas de polietileno para ser usadas y entregadas de manera gratuita por tiendas departamentales, autoservicios, almacenes, supermercados, mercados públicos, tianguis, negocios y comercios, para llevar, transportar o trasladar los productos adquiridos; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XV. El uso de productos plásticos en cualquier establecimiento mercantil para prestar sus servicios ubicado en el Estado de Colima, salvo que sean los que cumplan con los criterios establecidos en el título de la Norma Mexicana “INDUSTRIA DEL PLÁSTICO-PLÁSTICOS BIOBASADOS-MÉTODOS DE PRUEBA” con clave NMX-E-267-CNCP-2016.
+
+[N. DE E. PERTENECE AL ARTÍCULO 25, P.O. 20 DE OCTUBRE DE 2018)
 
 Las violaciones a lo establecido en este artículo se sancionarán de conformidad con lo dispuesto en esta Ley, sin perjuicio de lo establecido en los demás ordenamientos jurídicos aplicables.
 
@@ -481,11 +563,17 @@ El frente de las construcciones o inmuebles en demolición deberán (sic) manten
 
 Los responsables deberán transportar los escombros en vehículos adecuados que eviten su dispersión durante el transporte a los sitios que determine la normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 26 Bis.
 
-La utilización de bolsas de plástico sólo se permitirá en caso de que sean creadas bajo procedimientos tecnológicos que les den la calidad de biodegradables.
+La utilización de productos plásticos solo se permitirá en caso de que hayan sido producidas incorporando un porcentaje mínimo del treinta por ciento (30%) de material reciclado y que la fabricación de los mismos sean con materiales y procesos de tecnología que permitan su ágil degradación acorde con los criterios establecidos en el título de la Norma Mexicana "INDUSTRIA DEL PLÁSTICO-PLÁSTICOS BIOBASADOS-MÉTODOS DE PRUEBA" con clave NMX-E-267-CNCP-2016 o las que la sustituyan.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+El porcentaje de material reciclado y la referencia de ágil degradación referidos en el párrafo anterior servirán como base para que las autoridades correspondientes, en la elaboración de los programas, normas y planes de manejo correspondientes, establezcan metas graduales de producción y consumo más limpias las cuales anualmente deberán ajustarse.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 Los establecimientos mercantiles y comerciantes podrán utilizar las bolsas de polietileno cuando, por cuestiones de salubridad, se destinen para almacenar, empacar y/o conservar alimentos, mercancía o insumos, y no resulte factible el uso de un material sustituto al polietileno.
 
@@ -1024,3 +1112,11 @@ P.O. 2 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 488 POR EL QUE SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 70, ADEMÁS SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 71 DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 602 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 6°, FRACCIONES XI Y XII; 23, FRACCIÓN II; 25, FRACCIONES XIII Y XIV; 26 BIS, PÁRRAFO PRIMERO; ASÍ MISMO SE ADICIONAN LA FRACCIÓN XXV BIS AL ARTÍCULO 3°; LAS FRACCIONES XIII, XIV, XV, XVI, XVII Y XVIII AL ARTÍCULO 6; LA FRACCIÓN III, PASANDO LA ACTUAL FRACCIÓN III A SER FRACCIÓN IV, DEL ARTÍCULO 23; LOS ARTÍCULOS 23 BIS; 23 TER; 23 QUÁTER; 23 QUINQUIES, LA FRACCIÓN XV AL ARTÍCULO 25; UN PÁRRAFO SEGUNDO, PASANDO EL ACTUAL PÁRRAFO SEGUNDO A SER EL PÁRRAFO TERCERO, AL ARTÍCULO 26 BIS, DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- En tanto se generen las condiciones para implementar lo señalado en el presente Decreto, el Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima, tendrá la obligación de verificar e inspeccionar que las personas físicas o morales que utilizan productos plásticos para sus negocios, no los ofrezcan ni proporcionen, salvo que el cliente o usuario así lo soliciten.
