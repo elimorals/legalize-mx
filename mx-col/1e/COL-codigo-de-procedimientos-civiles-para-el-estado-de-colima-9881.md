@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2018-06-02"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -3571,6 +3571,10 @@ ART. 428 TER 2.- En caso de que los cónyuges lleguen a un acuerdo respecto del 
 
 En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer por la vía incidental, exclusivamente por lo que concierne al convenio.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+ART. 428 TER 3.- La sentencia que declare la disolución del vínculo matrimonial es inapelable.
+
 ## TITULO SEPTIMO. De los juicios sumarios y de la vía de apremio
 
 ### CAPITULO I
@@ -4957,7 +4961,7 @@ ART. 684.- El Recurso de Revocación deberá interponerse por escrito dentro de 
 
 Si el recurso fuere presentado extemporáneamente o no contiene expresión de agravios, se declarará desierto y firme la resolución recurrida.
 
-> <small>(REFORMADO [N. DE .E. ADICIONADO], P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2008)</small>
 
 ART. 685.- Contra los decretos y autos emitidos por las Salas y el Pleno del Supremo Tribunal de Justicia no procede recurso alguno.
 
@@ -7012,5 +7016,11 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 P.O. 2 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 490 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 282 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 212 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 578 POR EL QUE SE APRUEBA ADICIONAR EL ARTÍCULO 428 TER 3 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
