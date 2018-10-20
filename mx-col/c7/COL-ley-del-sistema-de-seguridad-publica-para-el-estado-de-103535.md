@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-103535"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-08"
-last_updated: "2018-09-28"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -689,6 +689,8 @@ VI. Será el único facultado para la impresión, grabado y colocación de la co
 
 El acceso, suministro, consulta y actualización de datos del Repuve a cargo del Secretario Ejecutivo, será a través de los mecanismos de seguridad y mediante las claves de acceso establecidas por el Sistema Nacional de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 22.
 
 El Secretariado Ejecutivo, contará con el Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, que será un órgano administrativo desconcentrado por función con independencia técnica y de gestión.
@@ -715,7 +717,7 @@ VII. Emitir opinión sobre las propuestas de programas, proyectos, estrategias y
 
 VIII. Promover la coordinación formal con las Instituciones de Seguridad Pública y desarrollo social para instrumentar políticas de prevención social del delito;
 
-IX. Presentar al Consejo Estatal, los proyectos de dictamen de validación de los programa (sic), proyectos, estrategias y acciones que pretendan implementar las entidades y dependencias estatales en cumplimiento del Programa Estatal de Prevención Social de la Violencia y la Delincuencia;
+IX. Presentar al Consejo Estatal, los proyectos de dictamen de validación de los programas, proyectos, estrategias y acciones que pretendan implementar las entidades y dependencias estatales en cumplimiento del Programa Estatal de Prevención Social de la Violencia y la Delincuencia;
 
 X. Proponer acciones para mejorar las disposiciones normativas relacionadas con la prevención social de la violencia y la delincuencia;
 
@@ -743,9 +745,11 @@ XXI. Promover el intercambio de experiencias en materia de prevención del delit
 
 XXII. Coordinar actividades formativas en materia de prevención social de la violencia y la delincuencia, así como participación ciudadana;
 
-XXIII. Fortalecer la participación ciudadana en la prevención de la violencia y la delincuencia; y
+XXIII. Fortalecer la participación ciudadana en la prevención de la violencia y la delincuencia;
 
-XXIV. Las demás que establezcan otras disposiciones, el Consejo Estatal y el Gabinete de Seguridad.
+XXIV. Podrán realizar un diagnóstico sobre posesión, portación y uso de armas de fuego del Estado, que incluya al menos la magnitud del mercado de armas ilegales en la entidad, y su impacto negativo en la sociedad colimense a través de la violencia que generan; el cual servirá de insumo para lo previsto en la fracción I de este artículo; y
+
+XXV. Las demás que establezcan otras disposiciones, el Consejo Estatal y el Gabinete de Seguridad.
 
 ### CAPÍTULO V. CONSEJOS MUNICIPALES E INTERMUNICIPALES
 
@@ -866,6 +870,10 @@ El Secretario Ejecutivo, tanto municipal como intermunicipal, deberán cumplir c
 Los Consejos podrán formar las comisiones necesarias para las diferentes áreas de la materia y, en particular, para el estudio especializado de las incidencias delictivas, tipos penales y procedimientos judiciales; en ellas podrán participar las dependencias y entidades de la Federación, el Estado y los municipios que, por razón de su competencia, tengan relación con el Sistema.
 
 Con la misma finalidad, se invitará a expertos, instituciones académicas, de investigación y agrupaciones del sector social y privado relacionados con la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+En temas relacionados con la violencia y la inseguridad que genera la posesión, la portación y el tráfico ilegal de armas de fuego se procurará trabajar en coordinación con la Secretaría de la Defensa Nacional y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, a fin de que se diseñen e implementen, en el ámbito competencial respectivo, estrategias integrales que permitan su erradicación en la Entidad.
 
 ###### ARTÍCULO 30.
 
@@ -1835,6 +1843,10 @@ En las labores diarias de vigilancia se buscará una distribución racional de l
 
 Las Instituciones de Seguridad Pública, recabarán la información necesaria para el cumplimiento de sus tareas a través del establecimiento y operación de los servicios de atención de emergencias, denuncias anónimas y quejas, que en el caso de la comunicación vía telefónica tendrá un número único de atención a la ciudadanía, para todo el territorio estatal.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+Sera objetivo prioritario emprender, de manera coordinada, las medidas necesarias para disminuir la violencia generada por la posesión, portación y tráfico ilegal de armas en el Estado de Colima.
+
 ###### ARTÍCULO 113.
 
 La prevención, investigación y persecución de la comisión de hechos delictivos, así como la práctica de las diligencias necesarias que permitan el esclarecimiento de los mismos y la identidad de los probables responsables, será, entre otras, una función de las policías estatal y municipales, por conducto de unidades especializadas de investigación, quienes actuarán bajo la conducción y mando del Ministerio Público, en términos de las disposiciones aplicables, a quien deberán hacer del conocimiento de los hechos que pudieran ser constitutivos de delito.
@@ -1857,6 +1869,8 @@ En los casos de detención en flagrancia, serán válidas las actuaciones de la 
 
 La policía por ningún motivo podrá exhibir o exponer públicamente a las niñas, niños y adolescentes; ni publicar o divulgar grabación, filmación, imagen o cualquier otra información relacionada con los mismos.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 114.
 
 Para el cumplimiento de lo dispuesto en el artículo anterior, se declaran de utilidad pública los planes operativos, protocolos de investigación, programas, campañas y acciones, temporales o permanentes, que tengan por objeto:
@@ -1871,9 +1885,11 @@ IV. La atención a grupos y zonas especiales de riesgo;
 
 V. El fomento de los valores éticos y cívicos, individuales y sociales de los habitantes del Estado, especialmente en los adolescentes;
 
-VI. El fomento de la participación activa de la sociedad en la prevención de los delitos y faltas administrativas; y
+VI. El fomento de la participación activa de la sociedad en la prevención de los delitos y faltas administrativas;
 
-VII. Todas las demás que con ese carácter emprendan el Gobierno del Estado y los ayuntamientos para fortalecer las acciones preventivas a que se refiere este Capítulo.
+VII. La eliminación de la violencia generada por la posesión, la portación y el tráfico ilegal de armas; y
+
+VIII. Todas las demás que con ese carácter emprendan el Gobierno del Estado y los Ayuntamientos para fortalecer las acciones preventivas a que se refiere este Capítulo.
 
 ###### ARTÍCULO 115.
 
@@ -2570,6 +2586,14 @@ XXXIV. Respetar el derecho a la intimidad personal y familiar de los niños, ni�
 XXXV. Las demás que establezcan las disposiciones legales aplicables.
 
 Siempre que todo integrante de las instituciones policiales tenga la necesidad de hacer uso de la fuerza pública, deberá hacerlo de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 152 BIS.- Por lo que se refiera a la fracción IV del artículo anterior, sobre los cursos de capacitación en materia de primeros auxilios, se brindará a los elementos operativos de seguridad pública de manera periódica y en ningún caso excederá de un año. Su cumplimiento será supervisado por el Secretario de Seguridad Pública del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 152 TER.- Las Direcciones de Seguridad Pública de cada municipio, a través de su organismo, brindarán la capacitación de primeros auxilios a sus elementos operativos de Seguridad Pública, los cuales, al término de la misma, deberán contar con los conocimientos y herramientas que se exige para el cumplimiento de su deber.
 
 ###### ARTÍCULO 153.
 
@@ -4178,3 +4202,9 @@ II. El pago se hará desde el primer día de incapacidad y será cubierto por la
 DE LAS PENSIONES DE INVALIDEZ Y FALLECIMIENTO POR CAUSAS AJENAS AL TRABAJO PARA TRABAJADORES DE LA EDUCACIÓN
 
 Artículo Cuadragésimo Segundo. La declaración de invalidez para los trabajadores de (sic) educación será realizada directamente por el Instituto, siendo este mismo quien ordene los reconocimientos médicos, quién suspenda las pensiones o las revoque.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 604 POR EL QUE SE REFORMAN LOS ARTÍCULOS 22 Y 114; LA FRACCIÓN IV, DEL ARTÍCULO 152, Y SE ADICIONAN UN PÁRRAFO TERCERO (SIC) ARTÍCULO 29; UN PÁRRAFO CUARTO AL 112; LOS ARTÍCULOS 152 BIS Y 152 TER DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; REFORMAN LAS FRACCIONES XXIV Y XXV, Y SE ADICIONAN LAS FRACCIONES XXVI Y XXVII DEL ARTÍCULO 18 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
