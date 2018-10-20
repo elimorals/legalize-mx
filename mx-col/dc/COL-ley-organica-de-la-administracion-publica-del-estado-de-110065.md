@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-110065"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-01"
-last_updated: "2018-09-28"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el jueves 1 de octubre de 2015.
 
@@ -65,9 +65,13 @@ La Oficina del Gobernador, las Secretarías y la Consejería Jurídica integran 
 
 Los organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos, componen la Administración Pública Paraestatal.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 2.
 
 El ejercicio del Poder Ejecutivo corresponde al Gobernador, titular del mismo y jefe de la Administración Pública del Estado, quien tiene las atribuciones y deberes previstos en la Constitución Federal, la particular del Estado, esta Ley y demás disposiciones normativas vigentes en el Estado.
+
+Asimismo, deberá cumplir y hacer cumplir el principio de imparcialidad establecido en los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos y 136 de la Constitución Política del Estado Libre y Soberano de Colima, en cuanto a la aplicación de recursos públicos que estén bajo su responsabilidad.
 
 ###### Artículo 3.
 
@@ -647,7 +651,9 @@ I.- Ejercer en el ámbito de su competencia local las atribuciones contenidas en
 
 II.- Planear, organizar, coordinar y supervisar el Sistema Educativo Estatal de conformidad a lo dispuesto por la Ley de Educación del Estado y la normatividad aplicable;
 
-III.- Formular, proponer y aplicar programas educativos, culturales, deportivos y de capacitación y adiestramiento para la población, coordinándose con las autoridades federales correspondientes;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+III.- Formular, proponer y aplicar programas educativos, culturales, deportivos y de capacitación y adiestramiento para la población, así como el fomento de la lectura en la sociedad, con auxilio de la iniciativa privada y de las autoridades federal y municipales;
 
 IV.- Llevar a cabo la planeación, ejecución y supervisión de los servicios educativos a cargo del Gobierno del Estado;
 
@@ -689,7 +695,9 @@ VI.- Promover la organización de los sectores social y privado con propósito d
 
 VII.- Promover la creación de nuevos organismos programas necesarios para el mejor cumplimiento de sus funciones;
 
-VIII.- Propiciar y promover la participación de los Municipios en los programas de fomento y difusión de la cultura y la ciencia;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+VIII.- Propiciar y promover la participación de los Municipios en los programas de fomento y difusión cultural, mediante centros regionales, bibliotecas tradicionales o virtuales, casas de cultura, museos, teatro, parques, talleres de arte y demás establecimientos de carácter cultural.
 
 IX.- Administrar el patrimonio cultural y científico, mueble e inmueble, del Estado;
 
@@ -1564,3 +1572,9 @@ II. El pago se hará desde el primer día de incapacidad y será cubierto por la
 DE LAS PENSIONES DE INVALIDEZ Y FALLECIMIENTO POR CAUSAS AJENAS AL TRABAJO PARA TRABAJADORES DE LA EDUCACIÓN
 
 Artículo Cuadragésimo Segundo. La declaración de invalidez para los trabajadores de (sic) educación será realizada directamente por el Instituto, siendo este mismo quien ordene los reconocimientos médicos, quién suspenda las pensiones o las revoque.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 605 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 2; 30, FRACCIÓN III; Y 31, FRACCIÓN VIII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Colima".
