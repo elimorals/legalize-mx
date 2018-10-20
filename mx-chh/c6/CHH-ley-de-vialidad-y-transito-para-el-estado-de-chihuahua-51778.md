@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2018-05-09"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -735,7 +735,9 @@ Requisitos para obtener licencia de conducir. Para obtener la licencia de conduc
 
 6. Ser residente de la localidad donde la solicite.
 
-La licencia de conducir deberá contener el dato que indique si el guiador a cuyo nombre se expidió la misma, realizó ante la autoridad competente su manifestación de donar o no sus órganos en caso de fallecimiento.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+La licencia de conducir deberá contener el dato que indique si el guiador a cuyo nombre se expidió la misma, realizó ante la autoridad competente su manifestación de donar o no sus órganos en caso de fallecimiento. En su caso, será indispensable que la autoridad que expida la licencia de conducir, otorgue el Formato Oficial para manifestar el consentimiento expreso para donar órganos, tejidos y células, después de la muerte.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2014)</small>
 
@@ -1555,7 +1557,7 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 
 ###### ARTÍCULO SEXTO.
 
-Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administracióno a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
 
 P.O. 23 DE AGOSTO DE 2008.
 
@@ -1825,8 +1827,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 9 DE MAYO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0738 II P.O., POR MEDIO DEL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 15 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0738 II P.O., POR MEDIO DEL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 15 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFLEY/0855/2018 XVI P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 53, PÁRRAFO SEGUNDO, DE LA LEY DE VIALIDAD Y TRÁNSITO, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 7 DE LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS, AMBAS DEL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
