@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2018-03-24"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -57,7 +57,9 @@ I.- Congreso del Estado;
 
 II.- Colegio Electoral;
 
-III.- Jurado de Acusación y de Procedencia; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+III.- Órgano de Acusación; y
 
 IV.- Comisión Permanente.
 
@@ -191,11 +193,15 @@ Los Diputados que falten a tres sesiones consecutivas sin causa justificada, se 
 
 Para el efecto señalado en este artículo, bastara con que la Secretaría certifique la inasistencia sin justificación del Diputado faltista, misma que se presentará en sesión y que el Diputado Presidente haga la declaración respectiva para inmediatamente ordenar se llame al Diputado Suplente para que ejerza las funciones por el tiempo restante del periodo ordinario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Se justificará la ausencia de un Diputado cuando previamente a la sesión a la que falte haya dado aviso en forma verbal o por escrito a la Directiva del Congreso, exponiendo el motivo de su inasistencia, que será calificado por ésta, para justificarla o no. Si la falta fuere del Presidente, el aviso deberá darlo al Vicepresidente y en ausencia de éste, a cualquiera de los Secretarios. La falta sin previo aviso sólo se justificará en casos de fuerza mayor debidamente acreditada, comunicándolo al Presidente inmediatamente después de que desaparezca la imposibilidad.
+Se justificará la ausencia o salidas anticipadas de un Diputado, cuando previo a la sesión del Pleno o de Comisión que falte, haya avisado y expuesto por escrito su inasistencia al Presidente de la Mesa Directiva, exponiendo y justificando el motivo de su inasistencia o salida anticipada en los términos del artículo 23, fracción XI de la Ley. Si la falta fuere del Presidente, el aviso deberá darlo al Vicepresidente y en ausencia de éste, a cualquiera de los Secretarios. La falta sin previo aviso sólo se justificará en casos de fuerza mayor debidamente acreditada, comunicándolo al Presidente inmediatamente después de que desaparezca la imposibilidad.
 
-En todo caso, el nombre de los Diputados que no concurran a las sesiones, se hará constar en el acta respectiva, en la que se expresará si existe o no justificación. Si faltaren sin causa justificada, no tendrán derecho a recibir la remuneración correspondiente a las sesiones a que falten.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+En todo caso, el nombre de los Diputados que no concurran a las sesiones, se hará constar en el acta respectiva, en la que se expresará si existe o no justificación. De no justificarse la falta o salida anticipada a que refiere esta disposición, se estará a lo dispuesto por el artículo 23, fracción XI de la Ley.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -235,11 +241,13 @@ II.- Recibida la comunicación a que se refiere la fracción anterior, el Presid
 
 ###### Artículo 18.
 
-La suspensión de los derechos y obligaciones a que se refiere la fracción II del artículo 25 de la Ley, se sujetará al procedimiento establecido en la Ley Estatal de Responsabilidades de los Servidores Públicos.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 19.
 
-La pérdida del carácter de Diputado a que se refiere la fracción I del artículo 26 de la Ley, se sujetará al procedimiento señalado por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+La pérdida del carácter de Diputado a que se refiere la fracción I del artículo 26 de la Ley, se sujetará al procedimiento señalado por la Ley de Juicio Político del Estado de Colima.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
 
@@ -433,6 +441,8 @@ Si durante el desarrollo de una sesión, el Presidente hubiere de abandonarla po
 
 Los Secretarios y Suplentes designados no podrán ser electos para los cargos de Presidente o Vicepresidente durante el tiempo de su ejercicio, ni tampoco reelectos para el período inmediato de sesiones.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 34.
 
 Además de las facultades y atribuciones que el artículo 42 de la Ley le confiere al Presidente, tendrá las siguientes:
@@ -441,19 +451,15 @@ I.- Someter a discusión y votación los dictámenes que presenten las Comisione
 
 II.- Firmar con los Secretarios, las resoluciones del Congreso, así como las actas de las sesiones después de su aprobación;
 
-III.- Erigir al Congreso en Jurado de Acusación o de Procedencia en los términos de la Constitución y de la Ley Estatal de Responsabilidades de los Servidores Públicos;
+III.- Erigir al Congreso en Órgano de Acusación en los términos de la Constitución y de la Ley de Juicio Político del Estado de Colima;
 
-IV.- Firmar con los Secretarios, el documento de remisión al Gobernador del Estado, del proyecto de presupuesto anual de egresos del Poder Legislativo, para los efectos previstos por la Ley de Presupuesto, Contabilidad y Gasto Público Estatal;
+IV.- Firmar con los Secretarios el documento de remisión al Gobernador del Estado, del proyecto de presupuesto anual de egresos del Poder Legislativo, para los efectos previstos por la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Colima;
 
-V.- Exhortar a las comisiones para que presenten sus dictámenes en los tiempos reglamentarios y de ser necesario, proponer a la Asamblea que pasen a otra comisión, o en su caso, se integre una especial para dictaminar algún asunto en particular;
+V.- Exhortar a las Comisiones para que presenten sus dictámenes en los tiempos reglamentarios y de ser necesario, proponer a la Asamblea que pasen a otra Comisión, o en su caso, se integre una especial para dictaminar algún asunto en particular;
 
 VI.- Rendir los informes previo y justificado, en los Juicios de Amparo, en los que el Congreso sea señalado como autoridad responsable;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
-
 VII.- Ordenar a la Secretaría, que dé aviso a los Titulares de los Poderes Ejecutivo y Judicial y a los Ayuntamientos, en su caso, de manera oportuna y por escrito, del día en que se someterá a discusión de la Asamblea, algún asunto o iniciativa de su interés, para los efectos legales conducentes;
-
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
 VIII.- Poner a la consideración de los Diputados el acta de la sesión anterior y en su oportunidad someterla a su aprobación. Cuando el acta y la síntesis de comunicaciones hayan sido distribuidas previamente a los Diputados, podrá solicitarse a la Asamblea en votación económica la dispensa (sic) la lectura de ambos documentos; y
 
@@ -477,7 +483,9 @@ I.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conoce
 
 II.- Cuidar que se redacten las actas de las sesiones en forma fidedigna, firmarlas después de aprobadas y asentarlas en el libro respectivo;
 
-III.- Turnar, conjuntamente con el Presidente, una vez aprobado, el proyecto anual de presupuesto de egresos del Poder Legislativo al Titular del Poder Ejecutivo, para los efectos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+III.- Turnar, conjuntamente con el Presidente, una vez aprobado, el proyecto anual de presupuesto de egresos del Poder Legislativo al Titular del Poder Ejecutivo, para los efectos de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Colima;
 
 IV.- Vigilar que la Oficialía Mayor del Congreso, a través de la dependencia correspondiente, lleve debidamente los libros de Iniciativas, de Leyes y Decretos, Acuerdos y Actas de la Cámara;
 
@@ -589,11 +597,11 @@ Las comisiones se encargarán de estudiar y analizar los asuntos de su competenc
 
 El Presidente de cada Comisión presentará en el mes de noviembre de cada año el programa de trabajo que dicha Comisión pretenda llevar a cabo en el siguiente ejercicio. En él detallará programas, acciones y metas por alcanzar, así como el costo financiero que deberá coincidir con la solicitud que al efecto haya presentado a la Comisión de Gobierno, en los términos del artículo 10 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 46.
 
-Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades, de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y de Derechos Humanos, Asuntos Indígenas y Atención al Migrante, las que estarán integradas por cinco Diputados las tres primeras y siete la última; en éstas, los Diputados restantes tendrán el carácter de vocales.
+Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades, de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y de Derechos Humanos, Asuntos Indigenas y Atención al Migrante, las que estarán integradas por cinco Diputados las tres primeras y siete la última; en éstas, los Diputados restantes tendrán el carácter de vocales.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -695,7 +703,9 @@ XII.- Los relacionados con la recepción de las propuestas de nombres que hagan 
 
 XIII.- Los relativos a controversias que se susciten entre el Poder Ejecutivo y el Judicial o entre ellos y alguno o algunos de los Ayuntamientos de la Entidad, que no sean de los que se establecen en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XIV.- Analizar y dictaminar, conjuntamente con la Comisión de Derechos Humanos y Atención al Migrante, sobre las propuestas de nombramiento del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIV.- Analizar y dictaminar, conjuntamente con la Comisión de Derechos Humanos, Asuntos Indígenas y Atención al Migrante, sobre las propuestas de nombramiento del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado;
 
 XV.- Los relacionados con las propuestas de ciudadanos para que ocupen el cargo de Comisionados de la Comisión Estatal de Acceso a la Información Pública;
 
@@ -703,23 +713,21 @@ XVI.- Los que se refieren al otorgamiento de amnistías; y
 
 XVII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 49.
 
 Corresponde a la Comisión de Responsabilidades, conocer de los siguientes asuntos:
 
-I.- Los que el Congreso deba resolver erigiéndose en Jurado de Acusación y en Jurado de Procedencia, conforme a lo ordenado por los artículos 121 y 122 de la Constitución;
+I.- Los que el Congreso deba resolver erigiéndose en Órgano de Acusación, conforme a lo ordenado por el artículo 121 de la Constitución;
 
 II.- Dictaminar sobre los asuntos que en materia de juicio político y de declaración de procedencia envíen al Congreso las Cámaras del Congreso de la Unión, en los términos de los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos;
 
 III.- Estudiar y dictaminar los asuntos relativos a incompatibilidades en el servicio público de los Diputados;
 
-IV.- Conocer, analizar y emitir dictamen en los asuntos relacionados con responsabilidades administrativas provenientes de las auditorías que practique el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
+IV.- Recibir las declaraciones anuales de situación patrimonial de los Diputados y servidores públicos del Poder Legislativo y proceder de conformidad con la ley de la materia; y
 
-V.- Recibir las declaraciones anuales de situación patrimonial de los Diputados y servidores públicos del Poder Legislativo y proceder de conformidad con la ley de la materia; y
-
-VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -809,13 +817,15 @@ I.- Los que se refieran a reformas de la Constitución Política de los Estados 
 
 II.- Los que la Constitución Federal autorice a las Legislaturas de los Estados para legislar en su ámbito de competencia, en materias concurrentes;
 
-III.- Los que se refieran a los Códigos Civil, Penal, de Procedimientos Civil y Penal, leyes ordinarias, orgánicas o reglamentarias de artículos de la Constitución;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+III.- Los que se refieran a los Códigos Civil, Penal, de Procedimientos Civiles y Penales, leyes ordinarias, orgánicas o reglamentarias de artículos de la Constitución;
 
 IV.- Los relativos a la proposición de reformas a la Ley Orgánica del Poder Legislativo y a este Reglamento; y
 
 V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 54.
 
@@ -825,15 +835,15 @@ I.- Los que se refieran a la expedición o reformas de las Leyes de Hacienda del
 
 II.- Los relacionados con la expedición y reformas de las Leyes de Ingresos del Estado y de los Municipios y el Presupuesto de Egresos del Gobierno del Estado;
 
-III.- Los que se refieran a la creación de impuestos extraordinarios o especiales, estatales y municipales;
+III.- Los que se refieran a la creación de impuestos extraordinarios o especiales, Estatales y Municipales;
 
-IV.- Los que se refieran a los casos previstos en las fracciones XI, XXXVIII y XL, del artículo 33 de la Constitución;
+IV.- Los que se refieran a los casos previstos en las fracciones XIII y XIV del artículo 34 de la Constitución;
 
 V.- Dictaminar sobre convenios y contratos de crédito o aval que suscriba el Gobierno del Estado;
 
-VI.- Los relativos a la fijación de bases y montos para la distribución de las participaciones federales y estatales que correspondan a cada municipio;
+VI.- Los relativos a la fijación de bases y montos para la distribución de las participaciones Federales y Estatales que correspondan a cada Municipio;
 
-VII.- Dictaminar, conjuntamente con la Comisión de Planeación del Desarrollo Urbano, lo relativo a la desincorporación, enajenación y constitución de gravámenes sobre los bienes inmuebles del patrimonio estatal; y
+VII.- Dictaminar, conjuntamente con la Comisión de Planeación del Desarrollo Urbano, lo relativo a la desincorporación, enajenación y constitución de gravámenes sobre los bienes inmuebles del patrimonio Estatal; y
 
 VIII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
@@ -1189,11 +1199,11 @@ La Comisión de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gu
 
 Los Diputados que se interesen en participar en el estudio, análisis y dictamen de algún asunto en particular, podrán asistir a las reuniones de las Comisiones, teniendo en este caso la posibilidad de intervenir con voz pero sin voto en los trabajos respectivos.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 70.
 
-Los Diputados que tengan algún interés personal o que interese de la misma manera a su cónyuge, parientes consanguíneos en línea recta, colaterales dentro del cuarto grado y afines, dentro del segundo grado, se abstendrán de participar en el estudio, análisis y dictamen del asunto de que se trate, quien contravenga esta disposición incurrirá en responsabilidad administrativa en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Los Diputados que tengan algún interés personal o que interese de la misma manera a su cónyuge, parientes consanguíneos en línea recta, colaterales dentro del cuarto grado y afines, dentro del segundo grado, se abstendrán de participar en el estudio, análisis y dictamen del asunto de que se trate, quien contravenga esta disposición incurrirá en responsabilidad administrativa en los términos de la Ley General de Responsabilidades Administrativas.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1277,13 +1287,13 @@ SECCIÓN A
 
 El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, dependerá directamente de la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos y, su vigilancia y supervisión estará a cargo de la Comisión de Vigilancia de dicho órgano. Sus atribuciones y facultades estarán consignadas en su Ley Orgánica y Reglamento Respectivo.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 83.
 
-Al frente del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, estará el Auditor Superior quien será designado por el voto de las dos terceras partes de los Diputados presentes en los términos que determine la Ley de la materia. Durará en el cargo un período de siete años y podrá ser reelecto por un periodo más. Durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los diputados presentes.
+Al frente del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, estará el Auditor Superior quien será designado por el voto de las dos terceras partes de los Diputados presentes en los términos que determine la Ley de la materia. Durará en el cargo un período de siete años y podrá ser reelecto por un periodo más. Durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los Diputados presentes.
 
-El Auditor Superior de Fiscalización, deberá reunir los requisitos que establecen en las fracciones I y II del artículo 69 y facción (sic) XI Bis de la Constitución Local.
+El Auditor Superior de Fiscalización, deberá reunir los requisitos que (sic) establecen en las fracciones I y II del artículo 69, y fracción XXV del 34 de la Constitución Local.
 
 SECCIÓN B
 
@@ -1357,11 +1367,11 @@ XVIII.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comis
 
 #### SECCIÓN C. DE LOS ÓRGANOS DE APOYO DE LA OFICIALÍA MAYOR
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 87.
 
-Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones de Proceso Legislativo; Administración, Finanzas y de Servicios Generales; Servicios Documentarios; Jurídica y de Comunicación Social. Además, contará con una Unidad de Igualdad de Género.
+Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones de Proceso Legislativo; Administración, Finanzas y de Servicios Generales; Servicios Documentarios; Jurídica y de Comunicación Social. Además, contará con una Contraloría y una Unidad de Igualdad de Género.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
 
@@ -1369,7 +1379,9 @@ Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, c
 
 Corresponde a la Contraloría:
 
-I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Ley Estatal de Responsabilidades de los Servidores Públicos, tratándose del personal administrativo del Poder Legislativo, poniéndolos en estado de resolución para someterlos a la Comisión de Gobierno Interno y Acuerdos Parlamentarios y hacer efectiva las sanciones que esta determine;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Ley General de Responsabilidades Administrativas, tratándose del personal administrativo del Poder Legislativo, poniéndolos en estado de resolución para someterlos a la Comisión de Gobierno Interno y Acuerdos Parlamentarios y hacer efectiva las sanciones que esta determine;
 
 II.- Contar con un sistema de atención de quejas y denuncias, respecto de la actuación del personal del Poder Legislativo;
 
@@ -1413,7 +1425,9 @@ III. Asistir a todas las sesiones de la Asamblea, elaborando el guión correspon
 
 IV. Integrar el Proyecto de orden del día, acta y síntesis de comunicaciones, debiéndolos enviar a los Diputados por medio electrónico, así como realizar el demás material propio de las sesiones;
 
-V. Llevar libros de control y seguimiento que se de a las iniciativas de ley. Decreto, acuerdo, puntos de acuerdo y demás comunicaciones de la competencia del Congreso;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+V.- Llevar libros de control y seguimiento que se dé a las iniciativas de Ley, Decreto, Acuerdo, y acuerdos económicos y demás comunicaciones de la competencia del Congreso;
 
 VI. Asistir al Oficial Mayor en el cumplimiento de sus funciones dentro del proceso legislativo, mediante la elaboración del Libro de Actas y Decretos;
 
@@ -1429,7 +1443,7 @@ XI. Registrar y tramitar los expedientes que deban ser sometidos al conocimiento
 
 XII. Proporcionar a los Diputados el apoyo que requieran para el desempeño de sus actividades legislativas;
 
-XIII. Preparar, con el apoyo del área de informática, los proyectos de leyes, decretos y acuerdos que expida el Congreso y deban ser publicados en el Periódico Oficial “El Estado de Colima”;
+XIII. Preparar, con el apoyo del área de informática, los proyectos de leyes, decretos y acuerdos que expida el Congreso y deban ser publicados en el Periódico Oficial "El Estado de Colima";
 
 XIV. Revisar, en coordinación con la Dirección Jurídica, los dictámenes que elaboren las comisiones, antes de su presentación a la Asamblea; y
 
@@ -1639,13 +1653,17 @@ La adquisición de los bienes, servicios, materiales y utensilios de trabajo, se
 
 Las sesiones del Congreso serán ordinarias o extraordinarias y adoptarán las modalidades de: públicas, secretas, solemnes, de colegio electoral, de jurado de acusación o de declaración de procedencia y, por acuerdo de la Asamblea, cualquiera de ellas podrá constituirse en permanente.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 105.
 
-Serán sesiones ordinarias las que se celebren durante los períodos a que se refiere el artículo 29 de la Constitución. Se verificarán los días que se convoquen y durarán el tiempo necesario para despachar los asuntos incluidos en el orden del día.
+Serán sesiones ordinarias las que se celebren durante los períodos a que se refiere el artículo 30 de la Constitución. Se verificarán los días que se convoquen y durarán el tiempo necesario para despachar los asuntos incluidos en el orden del día.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 Sesiones extraordinarias serán las que se efectúen fuera de los períodos señalados en el párrafo anterior, serán convocadas por la Comisión Permanente, debiéndose ocupar en ellas sólo de los asuntos incluidos en la convocatoria respectiva.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 Las sesiones del Congreso se celebrarán en los días y horas en que sean convocadas y podrán ser diferidas, previo acuerdo emitido por la Comisión de Gobierno Interno y Acuerdos Parlamentarios y el Presidente de la Mesa Directiva o de la Comisión Permanente.
 
@@ -1669,11 +1687,11 @@ No obstante lo dispuesto en el párrafo anterior, dentro de una sesión ordinari
 
 Serán de Colegio Electoral las sesiones en las que el Congreso ejerza las facultades que le otorga el artículo 55 de la Constitución o cuando nombre Concejo Municipal.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 109.
 
-Serán sesiones de jurado de acusación o de declaración de procedencia, aquellas en las que el Congreso actúe en cumplimiento a lo dispuesto por los artículos 121 y 122 de la Constitución.
+Serán sesiones de órgano de acusación, aquellas en las que el Congreso actúe en cumplimiento a lo dispuesto por el artículo 121 de la Constitución.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1711,11 +1729,11 @@ VIII.- Convocatoria para la próxima sesión; y
 
 IX.- Clausura.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 113.
 
-Durante los períodos ordinarios previstos por el artículo 29 de la Constitución, el Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, debiendo hacerlo al efecto cuando menos una vez por semana.
+Durante los períodos ordinarios previstos por el artículo 30 de la Constitución, el Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, debiendo hacerlo al efecto cuando menos una vez por semana.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2145,7 +2163,7 @@ Los representantes de los Poderes y Ayuntamientos, se retirarán del recinto leg
 
 ### CAPÍTULO XVII. DE LAS RESOLUCIONES
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ### CAPÍTULO XVIII. DEL CEREMONIAL
 
@@ -2251,7 +2269,7 @@ Cualquier Diputado podrá pedir a la Secretaría que haga constar en el acta el 
 
 ###### Artículo 173.
 
-Las resoluciones del Congreso solo podrán tener el carácter de ley, decreto o acuerdo. Las leyes y decretos se enviarán al Ejecutivo firmados por la Directiva y se sujetará a los trámites establecidos por los artículos 40 y 130 de la Constitución, en su caso. Los acuerdos serán firmados sólo por los Secretarios y se enviarán al Ejecutivo para su publicación.
+Las resoluciones del Congreso solo podrán tener el carácter de ley, decreto o acuerdo. Las leyes y decretos se enviarán al Ejecutivo firmados por la Directiva y se sujetará a los trámites establecidos por los artículos 41 y 129 de la Constitución, en su caso. Los acuerdos serán firmados sólo por los Secretarios y se enviarán al Ejecutivo para su publicación.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2441,6 +2459,12 @@ En todas las sesiones solemnes que celebre el Congreso, como una forma de darle 
 
 El público que desee puede concurrir a presenciar las sesiones del Congreso, ocupando las galerías destinadas al efecto. Sólo cuando sea necesario que las deliberaciones se efectúen sin la presencia del público, se impedirá el acceso a dichas galerías.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 196 Bis.
+
+Deberá existir en el auditorio público dentro de las galerías del Recinto Legislativo, espacios reservados y permanentes, debidamente identificados, en comunión con asientos ordinarios, suficientes y sin declive, destinados para las personas con discapacidad, cumplir con la identificación de espacios, mediante señalización dirigida a las personas con discapacidad, debiendo ser de fácil acceso.
+
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 197.
@@ -2475,7 +2499,7 @@ Cuando el orden sea alterado por los integrantes del Congreso y fuere materialme
 
 ### CAPÍTULO XXII. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 202.
 
@@ -2497,9 +2521,9 @@ IV.- Aprobado el dictamen por la Asamblea el Presidente de la Directiva dará le
 
 V.- El Decreto del Bando Solemne entrará en vigor el día de su expedición y se enviará al Ejecutivo para su difusión en los términos del artículo 254 del Código Electoral para el Estado de Colima.
 
-### CAPÍTULO XXIII. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
+### CAPÍTULO XXIII. DEL JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 204.
 
@@ -2529,7 +2553,7 @@ El Congreso también se erigirá en Colegio Electoral cuando designe Concejo Mun
 
 ###### Artículo 206.
 
-En los términos de los artículos 34 de la Constitución y 104 de la Ley, durante los períodos de receso del Congreso, funcionará una Comisión Permanente, que se integrará por 7 Diputados, electos dentro de los 3 días anteriores a la clausura de un período ordinario de sesiones; dos que serán el Presidente y Vicepresidente, dos Secretarios y los últimos tres tendrán el carácter de vocales.
+En los términos de los artículos 37 de la Constitución y 104 de la Ley, durante los períodos de receso del Congreso, funcionará una Comisión Permanente, que se integrará por 7 Diputados, electos dentro de los 3 días anteriores a la clausura de un período ordinario de sesiones; dos que serán el Presidente y Vicepresidente, dos Secretarios y los últimos tres tendrán el carácter de vocales.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2579,205 +2603,133 @@ Cuando durante el período de receso las comisiones elaboren los dictámenes de 
 
 La Comisión Permanente podrá celebrar sus sesiones en el Recinto Legislativo o bien en la sala de juntas, indistintamente, según lo decidan sus integrantes.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ### CAPÍTULO XXV
 
 DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES ADMINISTRATIVAS.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 215.
 
-Corresponde a la Comisión de Responsabilidades instruir, con el auxilio de la Oficialía Mayor, los procedimientos de los asuntos en los que la Legislatura deba erigirse en jurado de acusación o de procedencia, en contra de los servidores públicos a que se refieren los artículos 121 y 122 de la Constitución.
+Corresponde a la Comisión de Responsabilidades instruir, con el auxilio de la Oficialía Mayor, los procedimientos de los asuntos en los que la Legislatura deba erigirse en Órgano de Acusación, en contra de los servidores públicos.
+
+El procedimiento de juicio político se substanciará en términos de lo previsto por la Ley de Juicio Político del Estado de Colima.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 SECCIÓN A
 
 DEL PROCEDIMIENTO DE JUICIO POLÍTICO.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
-
 ###### Artículo 216.
 
-Las denuncias serán presentadas ante el Oficial Mayor del Congreso, quien asentará de inmediato la ratificación, previa identificación del denunciante.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 217.
 
-Turnada la denuncia a la Comisión de Responsabilidades, está dictaminará si la conducta atribuida corresponde a las enumeradas en el artículo 7o de la Ley Estatal de Responsabilidades de los Servidores Públicos y si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2o, de la misma Ley, así como si la denuncia es procedente, y por lo tanto, amerita la incoacción (sic) del procedimiento.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 218.
 
-Dentro de los tres días naturales siguientes al dictamen a que se hace referencia en el artículo anterior, la Comisión de Responsabilidades comunicará personalmente al denunciado sobre la materia de la denuncia, haciéndole saber su garantía de defensa y que puede, a su elección, comparecer o informar por escrito, dentro de los siete días naturales siguientes a la notificación, transcurridos los cuales se abrirá un término de ofrecimiento de pruebas de quince días comunes a las partes.
-
-La Comisión calificará la idoneidad de las pruebas, desechando las que a su juicio sean improcedentes.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 219.
 
-La Comisión abrirá un período de treinta días naturales, para el desahogo de pruebas, dentro del cual evacuará las admitidas al denunciante y al servidor público, así como las que la propia comisión estime necesarias.
-
-Si al concluir el plazo señalado no hubiese sido posible desahogar las pruebas ofrecidas, o es preciso allegarse otras, la Comisión podrá ampliarlo por el término que resulte estrictamente necesario, sin que pueda exceder de treinta días naturales.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 220.
 
-Terminada la instrucción del procedimiento, se pondrá el expediente a la vista del denunciante, por un plazo de tres días hábiles y por otros tantos a la del servidor público y sus defensores, a fin de que tomen los datos que requieran para formular sus alegatos, mismos que deberán presentar por escrito, dentro de los seis días naturales siguientes a la conclusión del segundo plazo señalado.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 221.
 
-Transcurrido el plazo para la presentación de los alegatos, se hayan o no presentados éstos, la Comisión formulará sus conclusiones, en vista de las constancias del procedimiento. Para este efecto, analizará los hechos imputados, valorará las pruebas desahogadas, y hará las consideraciones jurídicas que procedan, para fundar la terminación o continuación del procedimiento.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 222.
 
-Si de las constancias procesales se desprenda la inocencia del denunciado, la Comisión propondrá en sus conclusiones que no procede la acusación.
-
-En caso contrario, las conclusiones acusatorias precisarán:
-
-I. Que está legalmente comprobada la conducta o el hecho materia de la denuncia;
-
-II. Que existe responsabilidad del denunciado;
-
-III. La sanción que deba imponerse de acuerdo a lo establecido en el artículo 8o de la Ley Estatal de Responsabilidades de los Servidores Públicos; y
-
-IV. Que en caso ser aprobadas las conclusiones y concepto de acusación se procederá a los efectos legales respectivos.
-
-De igual manera deberá asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 223.
 
-Una vez erigido el Congreso en Jurado de Acusación, la Secretaría dará lectura a las constancias procesales que contengan los puntos sustanciales de éstas, así como a las conclusiones de la Comisión de Responsabilidades, las que se someterán a la aprobación de la Asamblea. En caso de no ser aprobadas, el denunciado continuará en el ejercicio de su cargo. Si se aprueban las conclusiones acusatorias, el Congreso del Estado, erigido en órgano de acusación, turnará al Supremo Tribunal de Justicia del Estado las conclusiones y el expediente formado para llegar a ellas, para los efectos de imposición de la sanción y su ejecución.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 SECCIÓN B
 
 DEL PROCEDIMIENTO DE LA DECLARACIÓN DE PROCEDENCIA.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
-
 ###### Artículo 224.
 
-Cuando se presente solicitud ante el Congreso del Estado por el Ministerio Público, a fin de que pueda procederse penalmente en contra de alguno de los servidores públicos a que se refiere el artículo 121 de la Constitución Política del Estado, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, se actuará, en lo pertinente, de acuerdo con el procedimiento previsto en el Capítulo anterior en materia de juicio político. Recibida la denuncia, la Comisión de Responsabilidades citará al denunciada, dentro de los cinco días naturales siguientes, y con intervención de éste, recibirá las pruebas que le ofrezca el denunciante, a efecto de emitir dictamen dentro de los noventa días siguientes, donde precise, si los hechos que se atribuyen al denunciado pueden o no ser constitutivos de delito y además, si las pruebas desahogadas generan indicios suficientes para presumir la intervención en aquellos, por parte del denunciado.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 225.
 
-Presentado el dictamen correspondiente a la Asamblea en primera lectura, el Presidente del Congreso anunciará a éste que debe erigirse al día siguiente en Jurado de Procedencia, haciéndolo saber así mismo al inculpado y a su defensor, así como al denunciante.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 226.
 
-A la hora señalada, de conformidad a lo dispuesto por el artículo anterior, previa declaración del Presidente del Congreso, éste conocerá en segunda lectura del dictamen y actuará en los mismos términos previstos en el artículo 159, en materia de juicio político.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 227.
 
-Si la Asamblea declara que ha lugar a procedencia contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de las autoridades competentes. En caso negativo, no habrá lugar a procedimiento ulterior, mientras subsista el fuero; pero tal declaración no será obstáculo para que el procedimiento continúe en curso, cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
-Por ningún motivo tendrán trascendencia jurídica en los procesos penales, los procedimientos y las declaraciones a que se refiere este artículo.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-#### SECCIÓN C. DISPOSICIONES COMUNES PARA EL JUICIO POLÍTICO Y LA DECLARACIÓN DE PROCEDENCIA
+#### SECCIÓN C
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+DISPOSICIONES COMUNES PARA EL JUICIO POLÍTICO Y LA DECLARACIÓN DE PROCEDENCIA.
 
 ###### Artículo 228.
 
-Por ningún motivo podrá dispensarse trámite alguno de los establecidos en los capítulos relativos al juicio político y al de procedencia.
-
-Las declaraciones y resoluciones definitivas del Congreso del Estado, en materia de juicio político y declaración de procedencia, son inatacables y no admiten recurso alguno.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 229.
 
-Cuando la Comisión de Responsabilidades o la Asamblea, deba practicar una diligencia que requiera la presencia del inculpado, se notificará a éste, para que concurra a ella o informe por escrito. La falta de comparecencia o de informe no será motivo de sanción para el inculpado, pero se entenderá que contesta en sentido afirmativo.
-
-Se podrá encomendar al Juez de lo Penal que corresponda, la práctica de aquellas diligencias que deban desahogarse fuera del lugar de residencia del Congreso, por medio de despacho firmado por el Presidente y los Secretarios del mismo, al que se acompañará testimonio de las constancias necesarias.
-
-El Juez de lo Penal practicará las diligencias que se le encomienden, con estricta sujeción a las indicaciones que aquellos le comuniquen.
-
-Para la práctica de las diligencias a que se refiere este artículo, todas las notificaciones se entregarán personalmente al inculpado, o se le enviarán, por correo en pieza certificada y con acuse de recibo.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 230.
 
-Los miembros del Congreso que hayan de intervenir en algún acto del procedimiento podrán excusarse y ser recusados, por alguna de las causas de impedimento que señale la Ley Orgánica del Poder Judicial del Estado.
-
-Sólo con expresión de causa podrá recusarse a cualquiera de los miembros del Congreso del Estado que deban participar en actos de procedimientos.
-
-La recusación podrá hacerse valer por el servidor público, desde que sea requerido para que nombre defensor y hasta antes de que se abra el período de alegatos.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 231.
 
-Presentada la excusa o la recusación, la Comisión o la Asamblea, en su caso, sin intervención del impugnado, la calificará dentro de los tres días hábiles siguientes.
-
-Declarada procedente la excusa o la recusación y si se trata de un miembro de la Comisión de Responsabilidades, se llamará a otro para integrarla. Si se trata de un miembro del Congreso se llamará al suplente.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 232.
 
-Tanto el inculpado como el denunciante podrán solicitar de las oficinas o establecimientos públicos las copias certificadas que pretendan ofrecer como prueba ante la Comisión o la Asamblea y que se relacionen con los hechos motivo de estos procedimientos.
-
-Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora. Si no lo hicieren, la Comisión o la Asamblea por sí, o a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, apercibida de que, en caso de no hacerlo, se le impondrá una multa de diez a cien veces el salario mínimo diario vigente en el Estado, sanción que se hará efectiva si la autoridad no las expidiere.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 233.
 
-Por su parte, el Congreso del Estado o la Comisión de Responsabilidades solicitará las copias certificadas de las constancias que estimen necesarias para el procedimiento o los documentos o los expedientes originales ya concluidos y la autoridad de quien se soliciten tendrá la obligación de expedir las copias o remitir los documentos. En caso de incumplimiento se aplicará la sanción señalada en el artículo anterior.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 234.
 
-Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que la Comisión o la Asamblea estimen pertinente.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 235.
 
-La Comisión o la Asamblea no podrán erigirse en órgano de acusación o jurado de procedencia, sin que antes se compruebe, fehacientemente, que el servidor público, su defensor, o el denunciante, han sido debidamente citados.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 236.
 
-Cuando en el curso del procedimiento seguido a un servidor público, de los mencionados en el artículo 121 de la Constitución Política del Estado, se presentare nueva denuncia o requerimiento en su contra, se procederá respecto de ella con arreglo a este Titulo, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
-
-Si la acumulación fuese procedente, la Comisión formulará en un solo documento sus conclusiones o dictamen, que comprenderá el resultado de los diversos procedimientos.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 237.
 
-La Comisión y la Asamblea podrán disponer de las medidas de apercibimiento que fuesen necesarias, mediante acuerdo de la mayoría de sus miembros, en la sesión respectiva.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 238.
 
-Las declaraciones o resoluciones aprobadas por la Comisión o la Asamblea, con arreglo a este Reglamento, se comunicará al Supremo Tribunal de Justicia del Estado para los efectos a que haya lugar.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### Artículo 239.
 
-En todas las cuestiones referentes a la materia sustantiva ó adjetiva, no previstas en este Reglamento, se aplicarán en lo conducente, las disposiciones del Código Penal y de Procedimientos Penales del Estado.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ### CAPITULO XXVI. JUICIO DE RESPONSABILIDAD ADMINISTRATIVA
 
@@ -2799,15 +2751,19 @@ El Diputado deberá presentar por escrito y en medio electrónico a la Presidenc
 
 ###### Artículo 242.
 
-La Comisión de Gobierno será la instancia competente para la aplicación de sanciones administrativas por incumplimiento de las obligaciones a que se refiere el Capítulo I, del Título Tercero de la Ley Estatal de Responsabilidades de los Servidores Públicos, cuando sea necesario imponerlas a los servidores públicos del Congreso.
+La Comisión de Gobierno será la instancia competente para la aplicación de sanciones administrativas por incumplimiento de las obligaciones a que se refiere la Ley General de Responsabilidades Administrativas, cuando sea necesario imponerlas a los servidores públicos del Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 243.
 
-Para la imposición de las sanciones administrativas en contra de cualquier servidor público del Poder Legislativo, la Comisión de Gobierno tomará en cuenta los siguientes elementos: a).- Gravedad de la infracción; b).- Circunstancias personales del servidor público; c).- Nivel jerárquico; d).- Antigüedad en el servicio; e).- Reincidencia, si la hubiere; y f).- Monto del beneficio, daño o perjuicio económico derivado del incumplimiento de las obligaciones.
+Para la imposición de las sanciones administrativas en contra de cualquier servidor público del Poder Legislativo, la Comisión de Gobierno, deberá considerar los elementos del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, así como los siguientes: a).- Gravedad de la infracción; b).- Circunstancias personales del servidor público; c).- Nivel jerárquico; d).- Antigüedad en el servicio; e).- Reincidencia, si la hubiere; y f).­ Monto del beneficio, daño o perjuicio económico derivado del incumplimiento de las obligaciones.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+En caso de reincidencia de Faltas administrativas no graves, la sanción que se imponga no podrá ser igual o menor a la impuesta con anterioridad.
+
+Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada y hubiere causado ejecutoria, cometa otra del mismo tipo.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 244.
 
@@ -2815,29 +2771,25 @@ Las sanciones por faltas administrativas que podrá imponer la Comisión de Gobi
 
 I.- Apercibimiento;
 
-II.- Amonestación;
+II.- Amonestación pública o privada;
 
 III.- Suspensión en el empleo de tres y hasta por treinta días;
 
 IV.- Destitución; y
 
-V.- Sanción económica de uno hasta 100 salarios mínimos.
+V.- Sanción económica de uno hasta 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+Se podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo a la trascendencia de la Falta administrativa no grave.
+
+La suspensión del empleo, cargo o comisión que se imponga podrá ser de uno a treinta días naturales.
+
+En el supuesto de faltas administrativas graves, se denunciará y dará vista ante el Tribunal de Justicia Administrativa del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 245.
 
-Para aplicar las sanciones establecidas en el artículo anterior, la Comisión de Gobierno observará el siguiente procedimiento:
-
-I.- Inmediatamente que tenga conocimiento de una irregularidad o incumplimiento de sus obligaciones de algún servidor, ordenará al Oficial Mayor que se levante un acta administrativa, y lo citará para hacerle saber el motivo de la instauración del procedimiento, la responsabilidad que se le imputa y se le entregará copia del acta administrativa y de los documentos que la fundamenten, otorgándole al efecto un término de cinco días hábiles para que por escrito presente su contestación y ofrezca las pruebas que estime convenientes;
-
-II.- Transcurrido el término concedido en la fracción anterior, si el presunto responsable produjo contestación y ofreció pruebas, se señalará día y hora para la celebración de una audiencia en la que estando presente el oferente, su defensor y el Oficial Mayor, se desahoguen las pruebas y se produzcan los alegatos. La Comisión de Gobierno dictará la resolución correspondiente en un plazo máximo de quince días hábiles;
-
-De todas las actuaciones que se practiquen se levantará acta, que deberán firmar los que en ella intervengan; en caso de negativa, se asentará tal circunstancia, sin que ello afecte el valor probatorio de la actuación;
-
-III.- Si una vez desahogada la audiencia a que se refiere el párrafo anterior, la Comisión de Gobierno considera que no cuenta con elementos suficientes para resolver o encontrare elementos que impliquen una nueva responsabilidad a cargo del denunciado o de otras personas, podrá ordenar de inmediato la práctica de diligencias para mejor proveer y el emplazamiento a los demás servidores públicos involucrados; y
-
-IV.- La resolución que se dicte, deberá notificarse personalmente al presunto responsable y al denunciante, a más tardar al tercer día hábil de que se pronuncie.
+Para aplicar las sanciones establecidas en el artículo anterior, se solventará el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2016)</small>
 
@@ -3084,3 +3036,9 @@ P.O. 24 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 460 POR EL QUE SE ADICIONA Y REFORMA EL ARTÍCULO 87 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, Y SE REFORMA EL ARTÍCULO 126 DE SU REGLAMENTO".]
 
 ÚNICO.- El presente decreto entrará en vigor el día de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 556 POR EL QUE SE REFORMA EL ARTÍCULO 9 BIS; 12; 15; FRACCIONES XI Y XVII DEL ARTÍCULO 23; 24; FRACCIÓN II DEL 25; 30; FRACCIONES I Y XX DEL 42; FRACCIÓN XIII DEL 45; FRACCIÓN V DEL 50; 57; PÁRRAFO PRIMERO DEL 61; 80; FRACCIÓN VIII DEL 91; FRACCIÓN II DEL 95; PÁRRAFO PRIMERO DEL 99; PÁRRAFO TERCERO DEL 100; 101 Y 106; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 76; UN PÁRRAFO SEGUNDO Y LA FRACCIÓN VI AL ARTÍCULO 83, Y SE DEROGAN LOS ARTÍCULOS 16; 17; LA FRACCIÓN I DEL 77; 102, Y 103 DE LA LEY ÓRGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1°; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 14; LOS ARTÍCULOS 19; 34; FRACCIÓN III DEL 37; 46; FRACCIÓN XIV DEL 48; 49; FRACCIÓN III DEL 53; 54; 70; 83; 87; FRACCIÓN I DEL 87 BIS; FRACCIÓN V DEL 88; PÁRRAFO PRIMERO DEL 105; 109; 113; 173; 206; EL CAPÍTULO XXIII DENOMINADO DEL JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA QUEDAR “DEL JUICIO POLÍTICO”; 215; 242; 243, 244, 245; ASÍ MISMO SE ADICIONA EL ARTÍCULO 196 BIS; Y SE_DEROGA EL ARTÍCULO 18; LA SECCIÓN A DEL CAPÍTULO XXIII QUE INTEGRAN LOS ARTÍCULOS 216, 217, 218, 219, 220, 221, 222 Y 223; LA SECCIÓN B DEL CAPÍTULO XXXIII (SIC) QUE INTEGRAN LOS ARTÍCULOS 224, 225, 226 Y 227; LA SECCIÓN C DEL CAPÍTULO XXIII QUE INTEGRAN LOS ARTÍCULOS 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238 Y 239 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
