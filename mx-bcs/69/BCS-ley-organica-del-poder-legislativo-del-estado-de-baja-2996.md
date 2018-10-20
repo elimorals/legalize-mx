@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2018-08-15"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR -- ANTES LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -897,9 +899,9 @@ XIV.- DE CUENTA Y ADMINISTRACION:
 
 a).- Revisar e intervenir en todo lo relativo al manejo de fondos del Congreso.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2018)</small>
 
-b).- Presentar para su aprobación en Sesión Privada, dentro de la primera quincena del mes de Noviembre de cada año, el Presupuesto de las cantidades que se necesiten para cubrir las dietas de los miembros del Congreso, los sueldos de los empleados administrativos del pago de suministros de material y servicios que se requieran para la conservación y mantenimiento de los bienes muebles e inmuebles del Congreso, así como el que corresponda a otros gastos, para su análisis, discusión y aprobación, en su caso.
+b).- Presentar para su aprobación en Sesión Privada, dentro de la primera quincena del mes de octubre de cada año, el Presupuesto de las cantidades que se necesiten para cubrir las dietas de los miembros del Congreso, los sueldos de los empleados administrativos del pago de suministros de material y servicios que se requieran para la conservación y mantenimiento de los bienes muebles e inmuebles del Congreso, así como el que corresponda a otros gastos, para su análisis, discusión y aprobación, en su caso.
 
 c).- Informar al concluir cada período ordinario, o receso legislativo, según sea el caso, del ejercicio del presupuesto del Congreso a que se refiere el inciso anterior, para su aprobación correspondiente.
 
@@ -1203,7 +1205,7 @@ XXVII.- DE CULTURA Y ARTES:
 
 a).- El desarrollo de la cultura y las artes en el Estado de Baja California Sur y sus Municipios:
 
-b).- La conservación, el fomento y estÍmulo de las manifestaciones de creatividad artística e intelectual, la identidad sudcaliforniana entre la población del Estado;
+b).- La conservación, el fomento y estímulo de las manifestaciones de creatividad artística e intelectual, la identidad sudcaliforniana entre la población del Estado;
 
 c).- Los relativos a la protección del patrimonio cultural, artístico, documental y arquitectónico e histórico que sean de la competencia del Estado y municipios;
 
@@ -2525,7 +2527,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -3361,9 +3363,9 @@ B.O. 31 DE JULIO DE 2012.
 
 B.O. 20 DE DICIEMBRE DE 2012.
 
-PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-SEGUNDO.- Dentro de los diez días hábiles posteriores a la entrada en vigor del presente decreto se integrará e instalará la Comisión Permanente de Seguimiento a los Acuerdos Económico.
+SEGUNDO.- Dentro de los diez días hábiles posteriores a la entrada en vigor del presente decreto se integrará e instalará la Comisión Permanente de Seguimiento a los Acuerdos Económicos.
 
 B.O. 31 DE DICIEMBRE DE 2012.
 
@@ -3500,3 +3502,11 @@ B.O. 15 DE AGOSTO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2570 SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 148 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; EL PRIMER PÁRRAFO DEL INCISO B) DE LA FRACCIÓN IV DEL ARTÍCULO 51 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR Y EL INCISO B) DE LA FRACCIÓN XIV DEL ARTÍCULO 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del año 2019, previa su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
