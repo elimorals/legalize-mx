@@ -4,7 +4,7 @@ identifier: "COL-ley-que-regula-los-derechos-de-las-jefas-de-familia-del-89232"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-25"
-last_updated: "2014-01-25"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE REGULA LOS DERECHOS DE LAS JEFAS DE FAMILIA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 25 de agosto del 2012.
 
@@ -169,11 +169,11 @@ III. Ser beneficiaria de los diferentes programas gubernamentales dirigidos a la
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2014)</small>
 
-IV. Recibir atención médica integral para la titular y sus descendientes directos hasta que estos alcancen la mayoría de edad, sin menoscabo de los beneficios que reciban a través de otros programas gubernamentales; y (sic)
+IV. Recibir atención médica integral para la titular y sus descendientes directos hasta que estos alcancen la mayoría de edad, sin menoscabo de los beneficios que reciban a través de otros programas gubernamentales; y
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2014)</small>
 
-V. Recibir atención médica integral para la titular y sus descendientes directos hasta que estos alcancen la mayoría de edad, sin menoscabo de los beneficios que reciban a través de otros programas gubernamentales; (sic)
+V. Recibir atención médica integral para la titular y sus descendientes directos hasta que estos alcancen la mayoría de edad, sin menoscabo de los beneficios que reciban a través de otros programas gubernamentales;
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2014)</small>
 
@@ -271,7 +271,9 @@ El incumplimiento por parte de las Jefas de Familia o por sus dependientes de al
 
 A la Secretaría le corresponde:
 
-I. Realizar y revisar periódicamente el padrón de mujeres que sean beneficiarias de los programas y prerrogativas a favor de las Jefas de Familia;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+I. Depurar el padrón de mujeres beneficiarias cada año civil, con el objetivo de que este actualizado para la ejecución de cada ejercicio fiscal, utilizando como parámetros lo establecido en el artículo 9 de la presente Ley;
 
 II. Celebrar convenios institucionales y con los gobiernos de los municipios con el objetivo de implantar programas y acciones que favorezcan el desarrollo pleno de las Jefas de Familia;
 
@@ -283,7 +285,9 @@ IV. Coadyuvar a la elaboración de un diagnóstico cada dos años en el cual se 
 
 ARTÍCULO 17 BIS.- La Coordinación, así como las demás dependencias y entidades de la administración pública estatal estarán facultadas para celebrar convenios de concertación con el sector privado, con el fin de implementar acciones de apoyo a favor de las jefas de familia, entre las cuales se incluyan, en condiciones preferentes, descuentos en los bienes, productos o servicios que las empresas ofrezcan al público.
 
-El Titular del Ejecutivo del Estado será el encargado de crear la Coordinación y, estará dirigida por una mujer, designada por el mismo.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+El Titular del Ejecutivo del Estado será el encargado de crear la Coordinación y, estará dirigida por una mujer, designada por el mismo y avalada por mayoría calificada en el Congreso del Estado.
 
 ###### ARTÍCULO 18.
 
@@ -471,8 +475,14 @@ Dado en Palacio de Gobierno, el día 23 veintitrés del mes de agosto del año 2
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ.- Rúbrica.- EL SECRETARIO DE DESARROLLO SOCIAL, LIC. OSCAR CARLOS ZURROZA BARREDA.- Rúbrica.- EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. JESÚS OROZCO ALFARO.- Rúbrica.- ENCARGADA DEL DESPACHO DE LA SECRETARÍA DE EDUCACIÓN, MTRA. NORMA LIDIA PONCE DE LEÓN AMADOR.- Rúbrica.- EL SECRETARIO DE FOMENTO ECONÓMICO, C. RAFAEL GUTIÉRREZ VILLALOBOS.-Rúbrica.- EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA.- Rúbrica.- EL SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL, LIC. URIEL MORENO FLORES.- Rúbrica.- EL SECRETARIO DE DESARROLLO URBANO, ARQ. OSCAR ALEJANDRO TORRES CONTRERAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE ENERO DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 559 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17 BIS, DE LA LEY QUE REGULA LOS DERECHOS DE LAS JEFAS DE FAMILIA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
