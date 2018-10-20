@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2018-09-29"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -361,9 +361,11 @@ VII. Igualdad de oportunidades laborales considerando su capacidad, perfil profe
 
 VIII. Desplazarse libremente y con seguridad en los espacios públicos abiertos o cerrados, así como tener facilidades necesarias de acceso y desplazamiento físico en el interior de espacios laborales, educativos, comerciales, deportivos, culturales y recreativos;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-IX. Igualdad en el uso de los servicios públicos, quedando para su uso exclusivo los espacios en transporte y en estacionamientos expresamente señalados para tal efecto, asimismo los estacionamientos públicos y privados deberán disponer por lo menos el 10% de los cajones para las personas con discapacidad.
+IX. Igualdad en el uso de los servicios públicos, quedando para su uso exclusivo los espacios en transporte y en estacionamientos expresamente señalados para tal efecto.
+
+El gobierno del Estado y los gobiernos municipales, dentro del ámbito de su competencia, garantizarán el ejercicio de este derecho a través de sus disposiciones reglamentarias;
 
 X. Libertad de asociarse con la finalidad de contribuir a su óptima integración a la sociedad;
 
@@ -1007,11 +1009,13 @@ Para los derechos a portar tarjetón de estacionamiento exclusivo a mujeres emba
 
 El tarjetón tendrá una vigencia de un año, salvo discapacidad temporal, y será gratuito.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 69.
 
-Con la finalidad de hacer realidad los derechos que otorga la presente ley a las personas con discapacidad motriz, dificultad o riesgo de desplazamiento que tengan necesidad de ascender o descender de los vehículos automotores en los cuales se transportan a sus actividades consuetudinarias, la Secretaría de Movilidad del Gobierno del Estado en coordinación con las diversas Direcciones de Seguridad Pública, Vialidad y Transporte de los Ayuntamientosque (sic) conforman el Estado o sus similares, promoverán, dispondrán y aplicarán todas las medidas necesarias para que a este grupo vulnerable se le respeten los derechos que esta u otras leyes les otorguen, realizando acciones para que las autoridades administrativas antes señaladas puedan aplicar sanciones en zonas restringidas como son los estacionamientos de tiendas departamentales o estacionamientos de dependencias oficiales, entre otros.
+Con la finalidad de hacer realidad los derechos que otorga la presente Ley a las personas con discapacidad, dificultad o riesgo de desplazamiento que tengan necesidad de ascender o descender de los vehículos automotores en los cuales se transportan a sus actividades consuetudinarias, la Dirección General de Transporte del Gobierno del Estado de Colima en coordinación con las diversas Direcciones de Seguridad Pública, Vialidad y Transporte de los Ayuntamientos que conforman el Estado de Colima, promoverán, dispondrán y aplicarán todas las medidas necesarias para que a este grupo vulnerable se le respeten los derechos que esta u otras leyes les otorguen, realizando acciones para que las autoridades administrativas antes señaladas puedan aplicar sanciones en zonas restringidas como son los estacionamientos de tiendas departamentales o estacionamientos de dependencias oficiales, entre otros.
+
+Como parte de las acciones que pueden realizar las autoridades administrativas en respeto a los derechos de las personas con discapacidad, estará la aplicación de las sanciones a que se refieren en el artículo 93 de esta Ley.
 
 ###### Artículo 70.
 
@@ -1217,9 +1221,11 @@ VII. Actos u omisiones de servidores públicos que contravengan en las disposici
 
 VIII. En general cualquier violación o incumplimiento a las obligaciones señaladas en este ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 93.
 
-Para efectos de la presente Ley, las autoridades a que se refiere el artículo 90, serán competentes para aplicar las sanciones en sus respectivas áreas; y a petición de parte afectada o de oficio, independientemente de lo preceptuado por las disposiciones legales aplicables de la materia de que se trate, y en cumplimiento de las disposiciones contenidas en este ordenamiento, aplicarán las siguientes sanciones:
+Para efectos de la presente Ley, las autoridades a que se refiere el artículo 90, serán competentes para aplicar las sanciones en sus respectivas áreas; y a petición de parte afectada o de oficio, independientemente de lo preceptuado por las disposiciones legales aplicables de la materia de que se trate, y en cumplimiento de las disposiciones contenidas en este ordenamiento, aplicarán, conjunta o individualmente, las siguientes sanciones:
 
 I. Apercibimiento, concediéndose un plazo de hasta treinta días para subsanar la infracción;
 
@@ -1384,3 +1390,9 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Las disposiciones contenidas en los artículos 6° párrafo segundo, 10 párrafo segundo, 43, y 48 fracciones (sic) VIII del presente Decreto se implementarán de forma gradual, atendiendo a la capacidad presupuestaria de los entes públicos obligados.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 597 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 10, FRACCIÓN IX; 69; Y 93, PÁRRAFO PRIMERO, DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
