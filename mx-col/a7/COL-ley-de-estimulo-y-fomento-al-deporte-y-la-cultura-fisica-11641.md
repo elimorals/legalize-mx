@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2018-09-29"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -185,9 +185,9 @@ k).- Deporte Adaptado: Aquel deporte que está convenido como un sistema institu
 
 l).- Accesibilidad Universal: Es el conjunto de características que debe disponer un entorno urbano, edificación, instalación deportiva, producto, servicio o medio de comunicación, concebido como un derecho para ser utilizado en condiciones de comodidad, seguridad, igualdad y autonomía por todas las personas, incluyendo el derecho de las personas con discapacidades.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-ARTICULO 2o BIS.- La Secretaría de Educación, la Secretaría de Salud y el INCODE, así como las autoridades competentes de los Municipios, se podrán coordinar entre sí o con instituciones del sector social y privado, así como con las autoridades competentes de la Federación, para:
+ARTICULO 2o BIS.- Las Autoridades competentes del Estado y de los Municipios, se coordinaran entre sí o con Instituciones del sector social y privado, asi como las Autoridades competentes de la Federación, para;
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
 
@@ -197,9 +197,11 @@ I.- Promover la iniciación y garantizar el acceso a la práctica de las activid
 
 II.- Ejecutar y dar seguimiento al Programa Nacional de Cultura Física y Deporte en lo que corresponde al Estado;
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-III.- Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, en coordinación con las respectivas Asociaciones Deportivas Estatales y de acuerdo a las Normas Oficiales y demás disposiciones que para tal efecto expida la dependencia correspondiente;
+III. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, en coordinación con las respectivas Asociaciones Deportivas Estatales y de acuerdo a las Normas Oficiales y demás disposiciones que para tal efecto expida la Dependencia correspondiente.
+
+Las instalaciones públicas de cultura física y deporte procurarán, además de lo previsto en el párrafo anterior, la accesibilidad y el libre desplazamiento de las personas con discapacidad en dichos espacios;
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
 
@@ -243,7 +245,25 @@ V.- Difundir el patrimonio cultural deportivo;
 
 VI.- Promover certámenes, concursos o competiciones de naturaleza cultural deportiva, y
 
-VII.- Las demás que dispongan otras leyes u ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+VII. Fomentar la participación de las asociaciones y sociedades deportivas, deportivo- recreativas, del deporte en la rehabilitación y de cultura física deportiva;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+VIII. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+IX. Promover la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, sin distinción de origen étnico o nacional, sexo, género, orientación sexual, edad, discapacidad, estatura corporal, condición social, de salud, embarazo, lengua, religión, opiniones o estado civil;
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+X. Que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna, siempre que las actividades a realizar no pongan en peligro su integridad; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XI. Las demás que esta Ley, su reglamento y otras disposiciones determinen.
 
 El Estado y los Municipios en el ámbito de sus respectivas competencias deberán preservar, apoyar, promover, fomentar y estimular los Juegos Tradicionales y Autóctonos y la Charrería, celebrando convenios de coordinación y colaboración entre ellos y con las Asociaciones Deportivas Estatales, o Municipales correspondientes.
 
@@ -1123,6 +1143,12 @@ P.O. 2 DE JUNIO DE 2018.
 
 P.O. 29 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 554 POR EL QUE SE REFORMA EL ARTÍCULO 11 FRACCIONES XXVIII Y XXIX; Y SE ADICIONAN LAS FRACCIONES XXX Y XXXI AL ARTÍCULO 11; LA FRACCIÓN IV AL ARTÍCULO 89, HACIÉNDOSE EL CORRIMIENTO CORRESPONDIENTE, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA; SE REFORMAN LA FRACCIÓN VI DEL ARTICULO 2º; EL PÁRRAFO SEGUNDO AL ARTÍCULO 6; 27; Y LA FRACCIÓN V DEL ARTÍCULO 44; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 2; ARTÍCULO 27 BIS; ARTÍCULO 27 TER; SE (SIC), TODOS DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 23 BIS 6, DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 554 POR EL QUE SE REFORMA EL ARTÍCULO 11 FRACCIONES XXVIII Y XXIX; Y SE ADICIONAN LAS FRACCIONES XXX Y XXXI AL ARTÍCULO 11; LA FRACCIÓN IV AL ARTÍCULO 89, HACIÉNDOSE EL CORRIMIENTO CORRESPONDIENTE, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA; SE REFORMAN LA FRACCIÓN VI DEL ARTICULO 2º; EL PÁRRAFO SEGUNDO AL ARTÍCULO 6; 27; Y LA FRACCIÓN V DEL ARTÍCULO 44; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 2; ARTÍCULO 27 BIS; ARTÍCULO 27 TER; SE (SIC), TODOS DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 23 BIS 6, DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 560 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN III DEL ARTÍCULO 2º BIS, LA FRACCIÓN VII DEL ARTÍCULO 2º BIS 2; Y SE ADICIONAN LAS FRACCIONES VIII, IX, X, XI AL ARTÍCULO 2º BIS 2; DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
