@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-estatal-de-asistencia-social-del-estado-de-9027
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2017-12-20"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 27 de diciembre de 1986.
 
@@ -689,8 +691,6 @@ Los trabajadores del Organismo Estatal estarán incorporados al régimen de la L
 
 ### CAPITULO CUARTO. DE LOS ESTIMULOS O APOYOS ECONOMICOS A PARTICIPANTES EN PROGRAMAS SOCIALES
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
 ###### ARTICULO 47.
 
 Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Único de Desarrollo para la coordinación de acciones a nivel estatal o municipal, con las entidades y dependencias de la Administración Pública Federal, en los términos del Sistema Estatal de Planeación y de la Ley de Salud del Estado de Tabasco.
@@ -777,27 +777,19 @@ V.- Otras actividades que coadyuven a la protección de la salud.
 
 ###### ARTICULO 57.
 
-En el marco de la implementación de los programas a su cargo, el Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, podrá otorgar, promover o gestionar estímulos o apoyos económicos a los beneficiarios y a los participantes solidarios en dichos programas. El monto de los recursos públicos asignados al Sistema DIF para estos efectos, será determinado para cada ejercicio fiscal de conformidad con las disponibilidades presupuestales del Gobierno del Estado. Lo anterior, independientemente de los recursos de cualquier índole que aporten para los mismos efectos los individuos, empresas u organizaciones de los sectores social y privado.
-
-Los estímulos y apoyos a que se refiere este artículo serán otorgados mediante las instituciones, mecanismos y reglas de operación que al efecto establezca el Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco en el programa respectivo y su operación se sujetará en todo momento a los ordenamientos y reglas de transparencia, disciplina presupuestal, vigilancia y fiscalización a cargo de las instancias correspondientes.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 58.
 
-En el caso de programas referidos en el artículo anterior, dirigidos específicamente a jóvenes de entre 16 y 25 años de edad, como participantes solidarios en apoyo los individuos y colectivos beneficiarios de los servicios de asistencia social a que se refieren los artículos 3 y 4 de esta Ley, deberá establecerse, entre otros, el requisito de encontrarse inscrito en alguna institución de educación pública o privada y no abandonar sus estudios mientras participe en el programa. Las reglas de operación del programa respectivo podrán establecer las excepciones fundadas a estos casos.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 59.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, elaborará y mantendrá actualizado el padrón de participantes inscritos en los respectivos programas, los que serán publicados de conformidad con las normas y reglas en materia de transparencia y acceso a la información pública.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 60.
 
-En el proyecto de presupuesto anual del Organismo, que apruebe la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, para su integración al Proyecto de Decreto de Presupuesto General de Egresos que formule el Titular del Poder Ejecutivo, se deberá considerar una partida específica con los recursos suficientes para la adecuada ejecución de los programas a que se refiere este Capítulo.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ## TRANSITORIOS
 
@@ -898,3 +890,19 @@ P.O. 20 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 005 POR EL QUE “SE DEROGAN LOS ARTÍCULOS 57, 58, 59 Y 60 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado tendrá 90 días naturales para realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social del Estado de Tabasco, y demás disposiciones legales y reglamentarias aplicables, contados a partir de su entrada en vigor.
