@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-antes-ley-del-47277
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2018-06-30"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA -ANTES LEY DEL INSTITUTO CHIHUAHUENSE DE LA JUVENTUD-
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL ANEXO DEL P.O. DE 20 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 10 de diciembre de 2005.
 
@@ -749,7 +749,7 @@ Artículo Cuarto.- El Departamento se subrogará en los derechos y obligaciones 
 
 Las relaciones laborales entre el Instituto y sus trabajadores se regirán por lo dispuesto en el artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal del Trabajo.
 
-En tanto, las relaciones laborales entre el Departamento de Atención a la Juventud y sus trabajadores, que subsistan al momento de la entrad en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que le dieron origen.
+En tanto, las relaciones laborales entre el Departamento de Atención a la Juventud y sus trabajadores, que subsistan al momento de la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que le dieron origen.
 
 Artículo Quinto.- La Junta Directiva del Instituto debe sesionar, por primera vez, dentro de los sesenta días posteriores a la entrada en vigor de esta Ley, con la finalidad de aprobar el Estatuto Orgánico del mismo.
 
@@ -779,7 +779,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2007.
 
@@ -932,3 +932,17 @@ P.O. 30 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO LXV/RFLEY/0757/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/EXLEY/0892/2018 XVIII P.E. LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Juventud para el Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 10 del 03 de febrero del 2010.
+
+TERCERO.- Cualquier referencia relativa al Instituto Chihuahuense de la Juventud que se haga en cualquier reglamento, circular, convenio, contrato o instrumento análogo, relativo al período de vigencia de la Ley abrogada en el artículo transitorio que antecede, se entiende válido y vigente en lo que corresponda, pero ahora referido al denominado Instituto Chihuahuense de la Juventud, creado mediante el presente Decreto. Quedan igualmente válidos y vigentes en lo que resulte, según las disposiciones o leyes aplicables, todos los derechos y obligaciones relativos a las instancias o figuras análogas igualmente previstas en el presente Decreto, así como las relaciones laborales o contractuales que en su caso se hubiesen celebrado, y que a la entrada en vigor del presente Decreto, sean válidas y vigentes.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+QUINTO.- El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, dentro de los 180 días hábiles posteriores a la entrada en vigor de este Decreto.
