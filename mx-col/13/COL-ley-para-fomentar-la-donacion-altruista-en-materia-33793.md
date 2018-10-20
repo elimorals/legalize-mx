@@ -4,7 +4,7 @@ identifier: "COL-ley-para-fomentar-la-donacion-altruista-en-materia-33793"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-23"
-last_updated: "2003-08-23"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA EN MATERIA ALIMENTARIA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de agosto de 2003.
 
@@ -237,6 +237,42 @@ Las resoluciones emitidas por la Junta podrán ser impugnadas ante el Tribunal d
 
 Las Instituciones que, a juicio de los visitadores sanitarios, no satisfagan las condiciones higiénicas indispensables para el manejo de los alimentos, no podrán continuar distribuyéndolos hasta que tomen las medidas necesarias, en acatamiento de las observaciones y recomendaciones señaladas por aquellos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO IV. DE LOS ESTÍMULOS Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 27.
+
+Los donantes podrán acogerse a los estímulos y beneficios que señale la legislación tributaria federal y estatal, así como a los convenios de colaboración que para tal efecto realice el Gobierno del Estado o los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 28.
+
+La Junta de Asistencia Privada del Estado en coordinación con el DIF entregará anualmente un reconocimiento público a los donantes de alimentos que se hayan distinguido por sus contribuciones a favor de los más necesitados.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 29.
+
+Las violaciones a lo establecido por la presente ley, su reglamento y demás disposiciones que de él emanen, serán sancionadas por la Secretaría o dependencia que corresponda de la administración pública del Estado o de los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 30.
+
+Se aplicará a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+I. Los funcionarios públicos, empleados o directivos de las donatarias que participen en el desvío de alimentos donados y que fueron recibidos por estas personas jurídicas para su distribución, ya sea que se utilicen para su aprovechamiento personal o de terceros que no los requieren. La sanción se aumentará hasta en un cien por ciento cuando se comercialice con estos alimentos;
+
+II. Los que ordenen, participen o practiquen el desperdicio irracional e injustificado de alimentos. Igual sanción recibirán quienes habiéndosele solicitado alimentos en donación no los diere y los desperdiciara injustificadamente;
+
+III. Los que teniendo conocimiento de que los alimentos no se encuentran aptos para el consumo, ordene o participe en la donación a las donatarias o la distribución de los mismos entre la población más necesitada; y,
+
+IV. Lucren con el manejo de la donación altruista de alimentos.
+
 T R A N S I T O R I O S:
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
@@ -254,3 +290,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 21 días del mes de Agosto del año dos mil tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARÍO GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 610 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 27, 28, 29, 30 Y EL CAPÍTULO IV A LA LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA EN MATERIA ALIMENTARIA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
