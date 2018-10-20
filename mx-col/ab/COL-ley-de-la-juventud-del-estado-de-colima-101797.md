@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-juventud-del-estado-de-colima-101797"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-12"
-last_updated: "2018-06-02"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de julio de 2014.
 
@@ -717,6 +717,20 @@ En el Plan y en el Programa se establecerán mecanismos para impulsar la continu
 
 Se impulsarán acciones para identificar a jóvenes de y en la calle para incorporarlos a las actividades educativas que les permita una formación académica para el acceso a mejores fuentes de empleo.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 47 Bis.
+
+La Secretaría de la Juventud y la Secretaría de Planeación y Finanzas del Gobierno del Estado, podrá programar y presupuestar anualmente, el pago de becas económicas mensuales a las madres jóvenes y embarazadas, que se encuentren estudiando, misma que se otorgará a través de la convocatoria que emita la Secretaría en el mes de Enero de cada año, y entregados por la Secretaría de Desarrollo Social, cuyos requisitos deberán ser:
+
+I.- Ser madre joven o embarazada, residente en el Estado de Colima;
+
+II.- Tener entre 12 y 30 años de edad;
+
+III.- No recibir beca federal para madres jóvenes o embarazadas; y
+
+IV.- Estar inscrita en algún plantel educativo.
+
 ### CAPÍTULO CUARTO. DEL DERECHO A LA SALUD
 
 ###### Artículo 48.
@@ -1054,3 +1068,9 @@ P.O. 2 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 491 POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 10, ADEMÁS, SE ADICIONA EL CAPÍTULO CUARTO DENOMINADO "DEL CABILDO JUVENIL", A LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor a partir de su publicado (sic) en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 558 POR EL QUE SE ADICIONA EL ARTÍCULO 47 BIS A LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
