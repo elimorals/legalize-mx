@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2018-03-24"
+last_updated: "2018-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -119,19 +119,17 @@ III.- Cuando exista la necesidad de conocer información sobre la aplicación de
 
 Toda propuesta para citar a los servidores públicos mencionados en el artículo anterior, deberá ser aprobada por el Congreso o la Comisión respectiva, lo que será comunicado al Gobernador del Estado o a los Titulares de las Entidades respectivas, para su cumplimiento en la fecha que acuerden el Poder Ejecutivo y el Poder Legislativo o determine el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-###### ARTICULO 9º Bis.
-
-Para las comparecencias de las autoridades o servidores públicos a los que hace referencia el tercer párrafo del artículo 86 de la Constitución Política del Estado Libre y Soberano de Colima, que hayan sido aprobadas por el Pleno a solicitud de la Comisión de Derechos Humanos del Estado de Colima, se estará a lo siguiente:
+ARTICULO 9° BIS.- Para las comparecencias de las autoridades o servidores públicos a los que hace referencia el artículo 13 apartado A, párrafo tercero de la Constitución Política del Estado Libre y Soberano de Colima, que hayan sido aprobadas por el Pleno a solicitud de la Comisión de Derechos Humanos del Estado de Colima, se estará a lo siguiente:
 
 I.- Una vez que ingrese al lugar destinado para sesionar el servidor público compareciente, el Presidente de la Mesa Directiva en turno del H. Congreso procederá a tomarle protesta correspondiente de decir verdad y le hará saber las responsabilidades de los servidores públicos que incurren en falsedad.
 
 II.- Posteriormente, el Presidente de la Mesa Directiva en turno del H. Congreso le otorgará el uso de la voz para que exponga de manera fundada y motivada su negativa para no dar cumplimiento a la recomendación que le emitió la Comisión Estatal de Derechos Humanos.
 
-III.- Hecha la exposición, hará uso de la palabra un legislador por cada uno de los Grupos Parlamentarios y los diputados únicos de partido que deseen hacerlo. Estas intervenciones se realizarán en orden creciente, en razón del número de legisladores de cada Grupo Parlamentario y cada una de ellas no excederá de diez minutos.
+III.- Hecha la exposición, hará uso de la palabra un legislador por cada uno de los Grupos Parlamentarios y los Diputados únicos de partido que deseen hacerlo. Estas intervenciones se realizarán en orden creciente, en razón del número de legisladores de cada Grupo Parlamentario y cada una de ellas no excederá de diez minutos.
 
-IV.- A continuación, un legislador de cada Grupo Parlamentario y los diputados únicos, podrán formular sus preguntas de manera directa al servidor público compareciente. Al final de cada una de ellas, el servidor público citado hará uso de la palabra para dar respuesta a cada una de ellas.
+IV.- A continuación, un legislador de cada Grupo Parlamentario y los Diputados únicos, podrán formular sus preguntas de manera directa al servidor público compareciente. Al final de cada una de ellas, el servidor público citado hará uso de la palabra para dar respuesta a cada una de ellas; y
 
 V.- Una vez finalizados los cuestionamientos el servidor público compareciente emitirá un mensaje final, acto seguido el Presidente de la Mesa Directiva en turno del H. Congreso hará uso de la palabra para un mensaje final sobre el tema para el que fue citado el servidor público.
 
@@ -145,11 +143,11 @@ Serán nulos de pleno derecho los actos realizados en contravención a este art�
 
 Esta Ley, sus reformas y adiciones, así como su Reglamento, no necesitan promulgación del Gobernador del Estado, ni podrán ser objeto de veto, únicamente le serán turnadas para los efectos de su publicación. Es competencia exclusiva de los Diputados, la presentación de iniciativas de reforma, adición, abrogación o derogación de la presente Ley.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 12.
 
-El Congreso tendrá plena autonomía para la elaboración y ejercicio de su presupuesto y para organizarse administrativamente, con apego a las disposiciones de la Constitución, esta Ley, su Reglamento, la Ley de Presupuesto y Gasto Publico del Estado y demás disposiciones que de ellas emanen.
+El Congreso tendrá plena autonomía para la elaboración y ejercicio de su presupuesto y para organizarse administrativamente, con apego a las disposiciones de la Constitución, esta Ley, su Reglamento, la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y demás disposiciones que de ellas emanen.
 
 ###### ARTICULO 13.
 
@@ -163,19 +161,19 @@ DE LOS DERECHOS Y DEBERES DE LOS DIPUTADOS.
 
 Los Diputados entrarán en el ejercicio de su encargo inmediatamente después de rendir la protesta de ley.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 15.
 
-A los Diputados no podrá exigírseles responsabilidad legal alguna por las opiniones que manifiesten en el desempeño de sus cargos, tampoco podrán ser reconvenidos o enjuiciados por ellas y gozarán del fuero que consagra la Constitución General de la República y la Particular del Estado.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+A los Diputados no podrá exigírseles responsabilidad legal alguna por las opiniones que manifiesten en el desempeño de sus cargos, tampoco podrán ser reconvenidos o enjuiciados por ellas y gozarán del fuero que consagra la Constitución General de la República.
 
 ###### ARTICULO 16.
 
-El Presidente de la Directiva, o en su caso, el de la Comisión Permanente, velará por el respeto al fuero constitucional de los Diputados. En demandas del orden civil, mercantil y laboral no gozan de fuero alguno. Todo acto de autoridad que vulnere el fuero de los Diputados, se castigará conforme lo previsto por las leyes respectivas.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 17.
 
-Los Diputados serán responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, pero no podrán ser detenidos, ni ejercitarse acción penal en su contra, hasta que seguido el procedimiento constitucional, se decida la separación de su encargo.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -275,7 +273,21 @@ IX.- Abstenerse de hacer uso de la palabra durante las sesiones, si el President
 
 X.- Permanecer de pie al dirigirse a la Asamblea durante sus intervenciones en las sesiones;
 
-XI.- Avisar a la Directiva, o al Presidente de la comisión respectiva, en su caso, cuando por causa justificada no puedan asistir a las sesiones o reuniones de trabajo, o continuar en las mismas;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XI.- Se justificará la ausencia o salidas anticipadas de un Diputado a las sesiones del pleno, cuando previo a la sesión del Pleno, haya avisado y expuesto por escrito su inasistencia al Presidente de la Mesa Directiva.
+
+En los casos de urgencia o que las circunstancias lo impidan, podrán justificarse las inasistencias o salidas anticipadas previstas en el párrafo que antecede, en la siguiente Sesión del Pleno. Misma que deberá anexarse al acta de la sesión correspondiente.
+
+Una vez justificadas las faltas a sesiones o salidas anticipadas del Pleno, no podrán considerarse como tales.
+
+Cuando algún Diputado faltare a sesión de la Asamblea, sin causa justificada, o no la justifique dentro del plazo previsto en este artículo, le será descontado la dieta correspondiente de ese día, para este efecto se dividirá la dieta mensual entre treinta.
+
+Los recursos descontados a los Diputados que no justifiquen sus inasistencias, serán destinados a instituciones de beneficencia pública, como donativos siendo este determinado (sic) la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
+
+En el caso de las sesiones extraordinarias que sean convocadas con menos de 24 horas de antelación, se exceptúan las disposiciones de esta fracción.
+
+Cuando por causa justificada, no puedan asistir a las reuniones de comisiones se le dará aviso al Presidente de la Comisión respectiva.
 
 XII.- Observar y cumplir las normas de esta Ley y su Reglamento;
 
@@ -289,9 +301,9 @@ XV.- Guardar reserva de todo lo que se trate o resuelva en las sesiones secretas
 
 XVI.- Presentar, por conducto de la comisión respectiva, la declaración patrimonial en los términos de ley;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XVII.- Elaborar en tiempo y forma los dictámenes que le correspondan a la comisión a que pertenezca;
+XVII.- Elaborar en el tiempo y forma que se señala (sic) el artículo 92 de este ordenamiento, los dictámenes que le correspondan, respecto a la comisión a que pertenezca;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
@@ -305,9 +317,11 @@ XIX.- Las demás que les señalen la Constitución, esta Ley, su Reglamento o se
 
 DE LA SUSPENSION Y PERDIDA DEL CARACTER DE DIPUTADO.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 24.
 
-Los Diputados podrán ser suspendidos, destituidos o inhabilitados de su encargo en los términos del Título XI de la Constitución y demás ordenamientos aplicables.
+Los Diputados podrán ser suspendidos, destituidos o inhabilitados de su encargo en los términos del Título Undécimo de la Constitución y demás ordenamientos aplicables.
 
 ###### ARTICULO 25.
 
@@ -317,9 +331,9 @@ Los Diputados quedarán suspendidos de los derechos y obligaciones a que se refi
 
 I.- Por licencia concedida en los términos fijados por esta Ley;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-II.- Por resolución de la Asamblea de que ha lugar a proceder penalmente en su contra; y
+II.- Por resolución definitiva de la autoridad penal que ordene pena corporal; y
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2004)</small>
 
@@ -409,11 +423,11 @@ f).- El Presidente de la Directiva Provisional citará a sesión solemne de inst
 
 g).- Finalmente, el Presidente de la Directiva Provisional entregará la documentación a que se refiere la fracción IV del artículo anterior, al Presidente de la Directiva del primer período ordinario de sesiones, en la sesión de instalación de la Legislatura, quien en su momento los turnará a la Comisión de Gobierno.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 30.
 
-De conformidad con lo previsto por el párrafo primero del artículo 28 de la Constitución, el día 1° de octubre del año de la elección, a las 11:00 horas, se reunirán en sesión solemne y en el Recinto Legislativo del Congreso, los Diputados electos. Este acto será presidido por la Directiva Provisional.
+De conformidad con lo previsto por el párrafo primero del artículo 29 de la Constitución, el día 1° de octubre del año de la elección, a las 11:00 horas, se reunirán en sesión solemne y en el Recinto Legislativo del Congreso, los Diputados electos. Este acto será presidido por la Directiva Provisional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2016)</small>
 
@@ -529,7 +543,9 @@ DEL PRESIDENTE.
 
 Son atribuciones del Presidente de la Directiva:
 
-I.- Preservar la inviolabilidad del recinto parlamentario y velar por el respeto al fuero de los Diputados;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+I.- Preservar la inviolabilidad del recinto parlamentario;
 
 II.- Representar legalmente al Congreso;
 
@@ -569,7 +585,9 @@ XVIII.- Firmar con los Secretarios, las resoluciones propias del Congreso establ
 
 XIX.- Proponer al Congreso las comisiones especiales de protocolo;
 
-XX.- Declarar al Congreso en Jurado de Acusación, en los términos de la Constitución y de la Ley Estatal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XX.- Declarar al Congreso en Órgano de Acusación, en los términos de la Constitución y de la Ley de Juicio Político del Estado;
 
 XXI.- Firmar, junto con los Secretarios, la remisión al Titular del Poder Ejecutivo del Estado del proyecto de presupuesto anual de egresos del Poder Legislativo para los efectos que prevea la ley de la materia;
 
@@ -639,9 +657,9 @@ XI.- Supervisar las funciones de la Oficialía Mayor en cuanto a la Secretaría 
 
 XII.- Proporcionar la documentación necesaria para la edición del Diario de los Debates;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XIII.- Turnar, una vez aprobado, el proyecto anual de presupuesto de egresos del Poder Legislativo al Gobernador del Estado, para los efectos de la Ley de Presupuesto y Gasto Publico Estatal; y
+XIII.- Turnar, una vez aprobado, el proyecto anual de presupuesto de egresos del Poder Legislativo al Gobernador del Estado, para los efectos de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado;
 
 XIV.- Las demás que se deriven de esta ley, el Reglamento o de las disposiciones o acuerdos que emita el Congreso.
 
@@ -697,7 +715,9 @@ III.- Aprobar el nombramiento y remoción del Contralor, directores, titular de 
 
 IV.- Proponer a la Asamblea, la integración de las comisiones permanentes y especiales y, en su caso, a quienes deban sustituirlos cuando proceda;
 
-V.- Elaborar, conjuntamente con la Comisión de Hacienda y Presupuesto, el anteproyecto de presupuesto anual de egresos del Congreso y presentarlo a la Asamblea para su aprobación;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+V.- Elaborar, conjuntamente con la Comisión de Hacienda y Presupuesto y Fiscalización de los Recursos Públicos, el anteproyecto de presupuesto anual de egresos del Congreso y presentarlo a la Asamblea para su aprobación;
 
 VI.- Ejercer el presupuesto de egresos del Poder Legislativo e informar por escrito trimestralmente a la Asamblea;
 
@@ -829,11 +849,19 @@ XXIII.- Protección Civil.
 
 Estas comisiones permanentes serán por todo el ejercicio constitucional. A petición de uno de sus miembros o de un Grupo Parlamentario, podrán proponerse cambios en su conformación.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 57.
 
-Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que les sean turnados por la Directiva o la Asamblea y presentarán por escrito su dictamen en los plazos previstos por el artículo 92 del presente ordenamiento que iniciaran a partir del día siguiente de recibir los expedientes respectivos. Las comisiones dispondrán de recursos económicos para el desempeño de sus programas, de conformidad con las disponibilidades presupuestales del Congreso; el Presidente de cada comisión presentará anualmente el programa de trabajo correspondiente.
+Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que les sean turnados por la Directiva o la Asamblea y presentarán por escrito su dictamen en los plazos previstos por el artículo 92 del presente ordenamiento, que iniciaran a partir del día siguiente de recibir los expedientes respectivos. Las Comisiones dispondrán de recursos económicos para el desempeño de sus programas, de conformidad con las disponibilidades presupuestales del Congreso; el Presidente de cada Comisión presentarán anualmente lo que corresponde a cada ejercicio constitucional el programa de trabajo correspondiente, presentar un informe a la Comisión de Gobierno Interno, que por lo menos debe contener:
+
+a) Si les fueron o no turnadas iniciativas;
+
+b) La investigación legislativa que al respecto de sus enfoques hayan realizado para la presentación de subsecuentes iniciativas;
+
+c) Reuniones de trabajo y demás actividades realizadas; y
+
+d) Las iniciativas o puntos de acuerdo presentadas.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
@@ -873,13 +901,17 @@ I.- El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
 
 II.- La Oficialía Mayor.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 61.
 
-El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, gozará de autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones, para decidir sobre su organización interna, funcionamiento, recursos humanos y materiales, así como sus determinaciones y resoluciones. Tendrá a cargo la función de fiscalización que se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, gozará de autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones, para decidir sobre su organización interna, funcionamiento, recursos humanos y materiales, así como sus determinaciones y resoluciones. Tendrá a cargo la función de fiscalización que se desarrollará conforme a los principios de posterioridad, legalidad, imparcialidad y confiabilidad.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 Dicho órgano estará integrado por los servidores públicos que establezca su Ley, los cuales estarán sujetos al servicio civil de carrera; y en él se revisarán y fiscalizarán las cuentas de los caudales públicos del erario del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 Para elegir al Auditor Superior del Estado el Congreso emitirá la convocatoria y lo designará con el voto de las dos terceras partes de los Diputados presentes en los términos que determine la Ley de la materia. Durará en el cargo un periodo de siete años y podrá ser reelecto por un período más. Durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los diputados presentes. Sus atribuciones serán las que le otorgue: la Constitución, esta Ley, su Reglamento, las disposiciones que dicte el propio Congreso y los demás ordenamientos legales.
 
@@ -1013,11 +1045,15 @@ El acta de la sesión con la que se clausura un período ordinario, las funcione
 
 Las sesiones del Congreso serán generalmente públicas y excepcionalmente secretas. Cualquier persona sin excepción alguna tiene derecho de asistir a presenciar las sesiones públicas, ocupando los asientos destinados para ello en el Recinto Legislativo. Se exceptuarán los casos que así lo acuerde el Presidente para limitar el acceso del público, mediante tarjetas o invitaciones. Los asistentes a las sesiones del Congreso conservarán el mayor respeto y compostura y por ningún motivo podrán tomar parte en las discusiones, salvo el caso de audiencia o foro público con autorización del Presidente del Congreso o de (sic) Comisión Legislativa, ni realizar manifestaciones verbales de ningún género. Cuando el Congreso se reúna para sesiones o períodos extraordinarios, se ocupará exclusivamente del asunto o los asuntos contenidos en la convocatoria aprobada para tal efecto.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+Se realizarán los ajustes razonables necesarios, para garantizar la accesibilidad de las personas con discapacidad al Recinto Legislativo.
+
 ###### ARTICULO 77.
 
 Son materia de sesión secreta:
 
-I.- Las acusaciones que se hagan contra los servidores públicos que gocen de fuero constitucional;
+I.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2018)
 
 II.- Las comunicaciones que se dirijan a la Legislatura con la nota de reservado; y
 
@@ -1093,9 +1129,11 @@ VII.- Clausura.
 
 El acta que se levante con motivo de una sesión solemne, sin sujetarse al trámite de discusión y aprobación, deberá mandarse publicar en los términos que sea redactada y aprobada por la Directiva o la Comisión Permanente.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 80.
 
-Cuando el Congreso actúe erigido en jurado de acusación o declaración de procedencia en los términos de la fracción XXXVI del artículo 33 de la Constitución, las sesiones serán ordinarias o extraordinarias, según el caso.
+Cuando el Congreso actúe erigido en órgano de acusación (sic) los términos del artículo 34 fracción XXXII de la Constitución, las sesiones serán ordinarias o extraordinarias, según el caso.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1133,9 +1171,13 @@ V.- A los órganos autónomos, en las materias de su competencia.
 
 La iniciativa se presentará por conducto de su presidente o titular, previo acuerdo de sus integrantes cuando se trate de un órgano colegiado; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2000)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE OCTUBRE DE 2018)</small>
 
-VI.- A los ciudadanos en los términos de la Ley respectiva.
+VI.- A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el 0.13 por ciento de los inscritos en el listado nominal de electores. Esta facultad será reglamentada en los términos de la Ley respectiva.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas en el siguiente periodo ordinario de sesiones a aquel en que se reciba.
 
 ###### ARTICULO 84.
 
@@ -1221,9 +1263,9 @@ VI.- Conclusiones o puntos resolutivos;
 
 VII.- Fecha y espacio para el nombre y la firma de los diputados; y
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-VIII.- Los anexos correspondientes a las opiniones técnicas jurídicas y respuestas o acuses de recibido por parte de Secretarías del Poder Ejecutivo, Ayuntamientos, Organismos Autónomos y Descentralizados, en cuanto a impacto de leyes, así como impactos presupuestarios que sean remitidos por cualquiera de las autoridades mencionadas.
+VIII.- Los anexos correspondientes a las opiniones técnicas jurídicas y respuestas o acuses de recibido por parte de Secretarías del Poder Ejecutivo, Ayuntamientos, Organismos Descentralizados y Órganos Autónomos, en cuanto a impacto de leyes, así como impactos presupuestarios que sean remitidos por cualquiera de las autoridades mencionadas.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
@@ -1257,7 +1299,9 @@ La mayoría de votos puede ser simple, absoluta o calificada, entendiéndose por
 
 I.- Mayoría simple, la correspondiente a más de la mitad de los Diputados presentes;
 
-I (sic).- Mayoría absoluta, la correspondiente a más de la mitad de los Diputados que integran el Congreso; y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+II.- Mayoría absoluta, la correspondiente a más de la mitad de los Diputados que integran el Congreso; y
 
 III.- Mayoría calificada, la correspondiente a cuando menos las dos terceras partes de los Diputados integrantes del Congreso.
 
@@ -1291,11 +1335,11 @@ DE LAS FACULTADES DEL CONGRESO.
 
 DE LAS FACULTADES DEL CONGRESO EN LA ELECCION O NOMBRAMIENTO DE GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 99.
 
-El Congreso, tiene la facultad de expedir el bando solemne para dar a conocer en toda la entidad la declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral del Estado.
+El Congreso tiene la facultad de expedir el bando solemne para dar a conocer en toda la Entidad la declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1311,25 +1355,27 @@ Para los efectos previstos en los artículos 55 y 57 de la Constitución, el Con
 
 Cuando el Congreso deba nombrar Gobernador interino o substituto lo hará en un plazo no mayor de cinco días naturales, contados a partir del día siguiente al en que apruebe la licencia o renuncia o se tenga conocimiento de la falta del titular del Poder Ejecutivo.
 
-En los supuestos del presente artículo, quien venga fungiendo como Secretario General de Gobierno, asumirá el despacho del Poder Ejecutivo hasta en tanto el Congreso designe gobernador interino o sustituto o el provisional, en los términos de la fracción V del artículo 76 de la Constitución Federal, asuma el cargo.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+En los supuestos del presente artículo, quien venga fungiendo como Secretario General de Gobierno, asumirá el despacho del Poder Ejecutivo hasta en tanto el Congreso designe gobernador interino o sustituto o el provisional, en los términos de la fracción V del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, asuma el cargo.
 
 ### CAPITULO II
 
 EN MATERIA DE RESPONSABILIDADES.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 101.
 
-Para conocer sobre la responsabilidad de los funcionarios públicos, a que se refiere el capítulo único del título XI de la Constitución, en materia de juicio político, el Congreso deber (sic) erigirse previamente en jurado de acusación, siguiendo el procedimiento establecido en la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Para conocer sobre la responsabilidad de los funcionarios públicos, a que se refiere el capítulo único del título XI de la Constitución, en materia de juicio político, el Congreso debe erigirse previamente en Órgano de Acusación, siguiendo el procedimiento establecido en la Ley de Juicio Político del Estado de Colima.
 
 ###### ARTICULO 102.
 
-El Congreso se erigirá en jurado de procedencia para declarar si ha o no lugar a proceder penalmente contra alguno de los servidores públicos a que se refiere el artículo 121 de la Constitución, que incurran en la comisión de delitos del orden común, de acuerdo al procedimiento que al efecto señale la Ley Estatal de Responsabilidades de los Servidores Públicos.
-
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 103.
 
-No se requerirá declaración de procedencia cuando los servidores públicos a que se refiere el artículo anterior, cometan delitos durante el tiempo en que se encuentren separados de su cargo, con la excepción a que se refiere el artículo 125 de la Constitución.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
 ## TITULO QUINTO
 
@@ -1351,11 +1397,11 @@ En los recesos del Congreso, funcionará una Comisión Permanente integrada por 
 
 La Comisión Permanente se instalará al siguiente día en que el Congreso cierre su período ordinario de sesiones. Comunicará al Ejecutivo del Estado y al Poder Judicial su instalación, igual comunicación se hará a las autoridades que se señalan en el artículo 37 de la presente ley.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 106.
 
-La Comisión Permanente por conducto de su Presidente o Vicepresidente en su caso, tendrá la representación del Poder Legislativo y ejercerá las atribuciones que le confiere el artículo 36 de la Constitución y las que le encomiende el Congreso.
+La Comisión Permanente por conducto de su Presidente o Vicepresidente en su caso, tendrá la representación del Poder Legislativo y ejercerá las atribuciones que le confiere el artículo 37 de la Constitución y las que le encomiende el Congreso.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1612,3 +1658,9 @@ P.O. 24 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 460 POR EL QUE SE ADICIONA Y REFORMA EL ARTÍCULO 87 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, Y SE REFORMA EL ARTÍCULO 126 DE SU REGLAMENTO".]
 
 ÚNICO.- El presente decreto entrará en vigor el día de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 556 POR EL QUE SE REFORMA EL ARTÍCULO 9 BIS; 12; 15; FRACCIONES XI Y XVII DEL ARTÍCULO 23; 24; FRACCIÓN II DEL 25; 30; FRACCIONES I Y XX DEL 42; FRACCIÓN XIII DEL 45; FRACCIÓN V DEL 50; 57; PÁRRAFO PRIMERO DEL 61; 80; FRACCIÓN VIII DEL 91; FRACCIÓN II DEL 95; PÁRRAFO PRIMERO DEL 99; PÁRRAFO TERCERO DEL 100; 101 Y 106; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 76; UN PÁRRAFO SEGUNDO Y LA FRACCIÓN VI AL ARTÍCULO 83, Y SE DEROGAN LOS ARTÍCULOS 16; 17; LA FRACCIÓN I DEL 77; 102, Y 103 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1°; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 14; LOS ARTÍCULOS 19; 34; FRACCIÓN III DEL 37; 46; FRACCIÓN XIV DEL 48; 49; FRACCIÓN III DEL 53; 54; 70; 83; 87; FRACCIÓN I DEL 87 BIS; FRACCIÓN V DEL 88; PÁRRAFO PRIMERO DEL 105; 109; 113; 173; 206; EL CAPÍTULO XXIII DENOMINADO DEL JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA QUEDAR "DEL JUICIO POLÍTICO"; 215; 242; 243, 244, 245; ASÍ MISMO SE ADICIONA EL ARTÍCULO 196 BIS; Y SE DEROGA EL ARTÍCULO 18; LA SECCIÓN A DEL CAPÍTULO XXIII QUE INTEGRAN LOS ARTÍCULOS 216, 217, 218, 219, 220, 221, 222 Y 223; LA SECCIÓN B DEL CAPÍTULO XXXIII QUE INTEGRAN LOS ARTÍCULOS 224, 225, 226 Y 227; LA SECCIÓN C DEL CAPÍTULO XXIII QUE INTEGRAN LOS ARTÍCULOS 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238 Y 239 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
