@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2018-09-29"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -698,6 +698,40 @@ ART. 22.- La capacidad jurídica de las personas físicas se adquiere por el nac
 ART. 23.- La menor edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
 
 ART. 24.- El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+ART. 24 BIS.- La identidad es un derecho de las personas.
+
+Se consideran medios para acreditar la identidad aquellos documentos públicos ya sea en original o copia certificada, expedidos por autoridades competentes, de manera enunciativa y no limitativa, los siguientes:
+
+I. En caso de menores de edad:
+
+a) Acta de Nacimiento.
+
+b) Carta de Naturalización.
+
+c) Credenciales con fotografía expedidas por autoridades educativas que cuenten con autorización o con reconocimiento de validez oficial.
+
+II. En caso de los mayores de edad:
+
+a) Credencial para votar expedida por el Instituto Nacional Electoral.
+
+b) Pasaporte.
+
+c) Matricula Consular Mexicana.
+
+d) Licencia para conducir.
+
+e) Cartilla militar.
+
+f) Carta de Naturalización.
+
+g) Cédula profesional.
+
+h) Autorización provisional para ejercer como pasante en la que se aprecie la identidad de la persona.
+
+i) Las demás identificaciones reconocidas como oficiales.
 
 ## TITULO SEGUNDO. De las personas morales
 
@@ -3001,10 +3035,6 @@ ART. 410 D.- El Juez podrá dispensar el consentimiento de las personas que debi
 
 ART. 410 E.- El consentimiento deberá referirse inequívocamente a la adopción plena, y deberá manifestarse ante el Juez competente, quien informará al declarante, de manera que no quede a éste dudas, sobre el contenido y alcance del acto. Se levantará acta, que será leída al o a los declarantes, quienes firmarán ante el Juez.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 410 G.- El consentimiento que se diere ante un organismo público o privado de asistencia, podrá ser revocado mientras el sujeto de adopción no haya sido colocado bajo la guarda de un matrimonio, con vistas a su adopción.
-
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE JULIO DE 2009)</small>
 
 ART. 410 F.- El consentimiento podrá ser otorgado con independencia del procedimiento de adopción, si el sujeto de adopción hubiese sido confiado a un establecimiento de asistencia pública o particular reconocido por el Estado. En este caso, el consentimiento deberá ser extendido por escrito, firmado por los declarantes y por el representante legal del establecimiento. No será necesaria, en ese momento, la identificación del futuro matrimonio adoptante.
@@ -3012,6 +3042,10 @@ ART. 410 F.- El consentimiento podrá ser otorgado con independencia del procedi
 Podrá ser otorgado, también, por escrito extrajudicialmente, cuando el sujeto de adopción fuese colocado bajo la guarda y custodia de un matrimonio, con miras a su futura adopción plena. La presentación de ese escrito al juzgado competente, en ocasión del procedimiento de adopción, no excluirá la citación al juicio de quienes deban dar el consentimiento y sólo servirá como elemento probatorio de la voluntad de adopción otorgada.
 
 En el caso del párrafo que antecede, el Juez podrá dispensar la ratificación del consentimiento de las personas que debieran otorgarlo, si por alguna razón existiere grave dificultad para recabarlo y esto resulte en perjuicio del sujeto de adopción.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
+
+ART. 410 G.- El consentimiento que se diere ante un organismo público o privado de asistencia, podrá ser revocado mientras el sujeto de adopción no haya sido colocado bajo la guarda de un matrimonio, con vistas a su adopción.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -3039,15 +3073,15 @@ ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo e
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
+ART. 410 M.- Los casos en que procede la adopción plena deben ser constatados judicialmente y aún en los casos de abandono o exposición de infantes, tiene que seguirse previamente un juicio de pérdida de la patria potestad, antes de dar en adopción a cualquier persona.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
+
 ART. 410 N.- Si alguno de los adoptantes fallece después de haber iniciado el procedimiento judicial de la adopción, podrá continuar el trámite el cónyuge supérstite, surtiendo efectos para ambos cónyuges, siempre que la voluntad del fallecido hubiere sido expresada y ratificada ante Juez competente o Notario Público en presencia de cuatro testigos o que el fallecido hubiese acogido regularmente al sujeto de la adopción con vistas a ésta.
 
 Cuando no se hubiese presentado la solicitud ante el Juez competente, podrán hacerlo en su nombre, el cónyuge supérstite o alguno de los herederos.
 
 Si existe oposición de los herederos, o no lo solicita el cónyuge a nombre del extinto y sólo lo hace al suyo, sólo tendrá efectos para él.
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 410 M.- Los casos en que procede la adopción plena deben ser constatados judicialmente y aún en los casos de abandono o exposición de infantes, tiene que seguirse previamente un juicio de pérdida de la patria potestad, antes de dar en adopción a cualquier persona.
 
 ART. 410 Ñ.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
@@ -3099,7 +3133,7 @@ La revocación no surtirá sus efectos, si una vez notificados el o los adoptant
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 410-S.- La información a que se refiere el artículo anterior, deberá ser, expedida por la misma autoridad que certificó su aptitud física, moral, psicológica y económica para adoptar. Cuando se trate de información documental o electrónica, pero firmada con la firma electrónica certificada, los documentos deberán, para su validez, ser cotejados en la página de la institución que los emitió y autorizó.
+ART. 410 S.- La información a que se refiere el artículo anterior, deberá ser, expedida por la misma autoridad que certificó su aptitud física, moral, psicológica y económica para adoptar. Cuando se trate de información documental o electrónica, pero firmada con la firma electrónica certificada, los documentos deberán, para su validez, ser cotejados en la página de la institución que los emitió y autorizó.
 
 En caso de cambio de domicilio, Estado o País, tendrá la obligación de notificarlo en forma documental o por los medios electrónicos autorizados, al Juez que resolvió la adopción, en un término prudente y los estudios que se mencionan en el primer párrafo, los podrá expedir física o electrónicamente la autoridad competente del nuevo domicilio, los que tendrán validez, cuando sean firmados con la firma electrónica certificada, si están disponibles en la página de internet de quien los emitió para ser cotejados.
 
@@ -11522,3 +11556,9 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 544 POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA Y SE REFORMA LA FRACCIÓN III AL ARTÍCULO 2260 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 561 POR EL QUE SE ADICIONA EL ARTÍCULO 24 BIS AL CÓDIGO CIVIL DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir de su publicado (sic) en el Periódico Oficial “El Estado de Colima”.
