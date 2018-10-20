@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2018-09-26"
+last_updated: "2018-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -85,7 +85,13 @@ VI. A disfrutar de vivienda digna y decorosa en los términos que dispongan las 
 
 Los gobiernos del Estado y los municipios promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables;
 
-VII. A que se le administre justicia por los tribunales del Estado;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+VII. A que se le administre justicia por los tribunales del Estado.
+
+En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
+
+Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales;
 
 VIII. A resolver sus controversias de carácter jurídico a través de la justicia alternativa, mediante procedimientos no jurisdiccionales, en la forma y los términos que establezca la ley;
 
@@ -97,9 +103,17 @@ X. A que se le prevenga y proteja ante la eventualidad de un riesgo o de un desa
 
 XI. A ser indemnizada, en forma equitativa, y conforme a las bases y procedimientos que establezca la ley, cuando sufra lesión en sus bienes y derechos, con motivo de la actividad administrativa irregular del Estado y de los municipios.
 
-La obligación del Estado y de los municipios de resarcir los daños y perjuicios será directa; y
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XII. A un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos.
+La obligación del Estado y de los Municipios de resarcir los daños y perjuicios será directa;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XII. A un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+XIII. A acceder a un transporte público de calidad, digno y eficiente el Estado proveerá lo necesario para garantizar dicho acceso.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -121,9 +135,9 @@ Los adultos mayores de sesenta años tendrán derecho a recibir servicios médic
 
 Las personas con discapacidad que pertenezcan a población abierta también gozarán del beneficio establecido en el párrafo anterior; en caso de contar con capacidad económica para cubrir la contraprestación, de acuerdo con el estudio respectivo, solamente pagarán el nivel mínimo del tabulador vigente de cuotas de recuperación.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-Los pensionados y jubilados, así como los adultos mayores de sesenta años, personas con discapacidad en situación de vulnerabilidad, y las mujeres jefas de familia, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
+Los pensionados y jubilados, así como los adultos mayores de sesenta años en situación de vulnerabilidad, así como las mujeres jefas de familia, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
 
 Las autoridades del Estado y de los municipios:
 
@@ -828,6 +842,10 @@ Transcurrido este último plazo, sin que el Ejecutivo haya realizado la publicac
 Si el Ejecutivo devuelve la ley o el decreto con observaciones, se pasarán a la comisión para que, previo dictamen, sean discutidos de nueva cuenta en cuanto a las observaciones hechas; y si son confirmados por el voto de las dos terceras partes de los miembros del Congreso, o modificados de conformidad con las observaciones hechas, el proyecto tendrá el carácter de ley o decreto, y serán devueltos al Ejecutivo para efectos de su promulgación y publicación dentro de los siguientes cinco días hábiles; de no hacerlo, lo hará el presidente del Congreso o de la Comisión Permanente, en los términos del párrafo anterior.
 
 Cuando haya dictamen en un todo conforme a la iniciativa que proceda del Ejecutivo, no se pasará el dictamen como lo previene este artículo.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+Cuando se trate de Decretos que concedan beneficios o incentivos fiscales de carácter temporal a los contribuyentes sujetos a las normatividades municipales, y estén en todo conforme lo solicite el Ayuntamiento de que se trate, se remitirán al Ejecutivo únicamente para efectos de su publicación.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -3390,6 +3408,12 @@ P.O. 26 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en el artículo transitorio siguiente.
 
 SEGUNDO. La reforma de las fracciones XIII, XIV y XV del artículo 33, y la derogación de la fracción XIV del artículo 34 entrarán en vigor en la misma fecha en que lo haga la Ley a que hace referencia la fracción XIV del artículo 33 del presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 564 POR EL QUE SE REFORMA LA FRACCIÓN VII, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XI, Y LA FRACCIÓN XII, TODAS DEL ARTÍCULO 2º; Y EL PÁRRAFO TERCERO DEL ARTÍCULO 4º; ASIMISMO SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 2°, Y UN QUINTO PÁRRAFO AL ARTÍCULO 41, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima."
 
 ###### ARTÍCULO ÚNICO.
 
