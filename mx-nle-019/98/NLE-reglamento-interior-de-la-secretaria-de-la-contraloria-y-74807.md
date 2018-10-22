@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-la-contraloria-y-74807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-15"
-last_updated: "2017-07-17"
+last_updated: "2018-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 17 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 22 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de marzo de 2010.
 
@@ -147,13 +147,13 @@ I. Dirección de Auditoría y Control Interno;
 
 II. Dirección de Evaluación y Mejora Gubernamental;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2018)</small>
 
-III. Coordinación de Procedimientos de Responsabilidad Administrativa;
+III. Dirección Jurídica y de Procedimientos de Responsabilidad Administrativa;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2018)</small>
 
-IV. Coordinación de Normatividad, Transparencia y Cuenta Pública;
+IV. Dirección de Transparencia, Normatividad y Cuenta Pública;
 
 V. El demás personal administrativo, contable, jurídico y técnico que establezca el presupuesto de egresos.
 
@@ -301,19 +301,19 @@ III. Jefe Administrativo; y
 
 IV. El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA COORDINACIÓN DE PROCEDIMIENTOS DE RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN JURIDICA Y DE PROCEDIMIENTOS DE RESPONSABILIDAD ADMININSTRATIVA (SIC)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-La Coordinación de Procedimientos de Responsabilidad Administrativa tendrá a su cargo el ejercicio de las siguientes atribuciones:
+La Dirección Jurídica y de Procedimientos de Responsabilidad Administrativa tendrá a su cargo el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2018)</small>
 
-I.- Previa instrucción del Contralor, deberá instrumentar las investigaciones e iniciar los procedimientos administrativos que presuman responsabilidad de servidores públicos municipales, con excepción de los de elección popular, en los términos de la Ley de Responsabilidades y proponer la resolución respectiva a fin de que la emita la autoridad competente;
+I.- Instrumentar las investigaciones e iniciar los procedimientos administrativos que presuman responsabilidad de servidores públicos municipales, con excepción de los de elección popular, por medio de la Coordinación de Investigación de Responsabilidad Administrativa, así como la substanciación y resolución que recaiga a dicho inicio de procedimiento, por medio de la Coordinación de Substanciación de Responsabilidad Administrativa, en los términos de la legislación en materia de responsabilidades administrativas;
 
 II.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
 
@@ -331,25 +331,39 @@ VII.- Llevar el control de las sanciones que se apliquen a los servidores públi
 
 VIII.- Recibir y tramitar los recursos que sean competencia de la Contraloría, incluyendo la elaboración del proyecto de resolución que corresponda y su respectiva notificación;
 
-IX.- Las demás atribuciones que le asigne el Contralor.
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+IX. Vigilar que los acuerdos de las obras realizadas por administración directa se ajusten a las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2018)</small>
+
+X. Vigilar el cumplimiento de las normas correspondientes a la adquisición de bienes inmuebles de dominio privado en relación a las solicitudes presentadas por particulares ante la Dirección de Patrimonio;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2018)</small>
+
+XI. Supervisar en conjunto con los Coordinadores Administrativos de las diferentes dependencias que los servidores públicos municipales presenten en tiempo y forma la declaración de situación patrimonial, de intereses y fiscal.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2018)</small>
+
+XII. Verificar en coordinación con el Síndico Segundo que los servidores públicos cumplan con la obligación de presentar oportunamente la declaración de situación patrimonial, de intereses y fiscal, en términos de la Ley que regule las responsabilidades de los servidores públicos; y
+
+XIII. Las demás atribuciones que le asigne el Contralor.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 13.
 
-La Coordinación de Procedimientos de Responsabilidad Administrativa contará con la siguiente estructura jerarquizada para el desempeño de sus funciones:
+La Dirección Jurídica y de Procedimientos de Responsabilidad Administrativa contará con la siguiente estructura jerarquizada para el desempeño de sus funciones:
 
-I. Coordinador;
+I. Director;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JUNIO DE 2016)</small>
+II. Coordinador de Investigación de Procedimientos de Responsabilidad Administrativa;
 
-II. Responsable de Procedimientos;
+III. Coordinador de Substanciación de Procedimientos de Responsabilidad Administrativa;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2016)</small>
+IV. Coordinador Jurídico y de Declaración Patrimonial, de Intereses y Fiscal; y
 
-III. Jefe de Departamento; y
-
-IV. El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
+V. El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JULIO DE 2017)</small>
 
@@ -735,7 +749,9 @@ Artículo Segundo.- Queda abrogado el Reglamento Interior de la Contraloría Mun
 
 Artículo Tercero.- La Secretaría de la Contraloría y Transparencia Municipal de San Pedro Garza García, Nuevo León, deberá emitir en un término no mayor a 60 días naturales su manual de operación.
 
-Artículo Cuarto.- Lo no previsto en este reglamento se sujetará a las disposiciones de la Ley Orgánica de la Administración Publica Municipal del Estado de Nuevo León y del Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García Nuevo León.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2018)</small>
+
+Artículo Cuarto.- Lo no previsto en este reglamento se sujetará a las disposiciones de la Ley de Gobierno Municipal del Estado de Nuevo León y del Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García Nuevo León.
 
 En atención de todo lo anteriormente expuesto y fundado, se somete a la consideración del pleno de este Republicano Ayuntamiento del Municipio de San Pedro Garza García, Nuevo León, el siguiente:
 
@@ -812,3 +828,11 @@ P.O. 17 DE JULIO DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo continuarán su despacho conforme a las disposiciones jurídicas contenidas en este Acuerdo.
+
+P.O. 22 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LOS ACUERDOS DE LA SESIÓN ORDINARIA DE FECHA 09 DE OCTUBRE DE 2018: POR EL QUE "SE APRUEBA LA INICIATIVA DE REFORMA AL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL Y AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL, AMBOS DEL MUNICIPIO DE SAN PEDRO DE LA GARZA GARCÍA, N. L.".]
+
+PRIMERO: El articulado contenido en la presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones reglamentarias y de carácter general que se contrapongan a lo previsto en este Reglamento.
