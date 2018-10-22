@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2018-09-03"
+last_updated: "2018-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2018.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -335,7 +335,13 @@ V.- El Comité de Desarrollo Urbano y Rural;
 
 VI.- El Comité de Adquisiciones; y
 
-VII.- Aquellos Comités o Consejos Ciudadanos que sean previstos en alguna ley o sean aprobados por acuerdo del H. Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2018)</small>
+
+VII.- El Consejo de la Crónica Municipal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2018)</small>
+
+VIII.- Aquellos Comités o Consejos Ciudadanos que sean previstos en alguna ley o sean aprobados por acuerdo del H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -358,6 +364,44 @@ II.- Proponer medidas y reformas necesarias, a fin de mejorar los sistemas admin
 III.- Vigilar la correcta prestación de los servicios públicos municipales así como el buen desempeño de los servidores públicos, señalando en concreto los defectos del mal funcionamiento del área de que se trate, o el mal desempeño de los servidores; y
 
 IV.- Mantener informada a la sociedad de todos aquellos cambios que se den dentro de la administración municipal en la prestación de los servicios públicos a efecto de que sean aprovechados por la ciudadanía.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 17 BIS.- El Consejo de la Crónica Municipal realizará trabajos de investigación y divulgación sobre las costumbres, tradiciones, acontecimientos, personajes y desarrollo social y político del municipio y se integrará de la siguiente manera:
+
+I.- Un presidente que será nombrado por el Ayuntamiento de entre los cronistas municipales y será considerado como el Cronista Oficial del municipio;
+
+II.- Un Secretario que será nombrado por el Ayuntamiento de entre los cronistas municipales;
+
+III.- Tres vocales que serán nombrados por el municipio de entre los cronistas municipales, y
+
+IV.- Cronistas Eméritos, que serán nombrados por el ayuntamiento según los diversos temas relacionados con la historia local, y serán personas físicas que se hayan distinguido por su labor de estudio, investigación, difusión, y/o interés de los temas relacionados con el desarrollo del municipio.
+
+El Consejo de la Crónica Municipal sesionará de manera ordinaria cada seis meses y de manera extraordinaria cuando así sea convocado por su presidente, para que las sesiones sean válidas se requerirá la asistencia de la mayoría de los miembros considerados hasta la fracción tercera del presente artículo.
+
+Cada uno de los Integrantes del Consejo tendrá derecho a voz y voto en las sesiones que celebre el mismo. Los cronistas eméritos participarán con derecho a voz pero no a voto.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 17 TER.- Son facultades del Consejo de la Crónica Municipal:
+
+I.- Promover el conocimiento del patrimonio histórico-cultural del Municipio de Pabellón de Arteaga;
+
+II.- Realizar investigaciones en materia de historia local y regional, destacando los acontecimientos económicos, políticos, sociales y culturales, anecdóticos y trascendentales del municipio;
+
+III.- Proponer ante la Comisión de Postulaciones del ayuntamiento a las personas que se considere puedan ser sujetas de reconocimiento público y merecedoras de los premios y condecoraciones municipales;
+
+IV.- Elaborar su programa anual de trabajo;
+
+V.- Formular proyectos editoriales y mecanismos de difusión institucional, sometiéndolos a la consideración del ayuntamiento para su aprobación;
+
+VI.- Constituirse como cuerpo asesor del Ayuntamiento en las actividades culturales en las que resalten los hechos sucedidos en el municipio y que forman parte de su historia;
+
+VII.- Coordinar la recopilación de la memoria histórica de los barrios y colonias de la cabecera municipal y de las comunidades rurales del municipio;
+
+VIII.- Dictaminar y valorar los trabajos que presenten los cronistas para su difusión o ciudadanos a título personal a efecto de proponer al ayuntamiento su publicación o difusión por cualquier otro medio, y
+
+IX.- Las demás que le confiera ayuntamiento y otras disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -487,7 +531,15 @@ XL.- Propiciar la cooperación ciudadana para la limpieza de los centros de pobl
 
 XLI.- Inspección, vigilar y establecer medidas de seguridad y sanciones administrativas para garantizar el cumplimiento del presente Código;
 
-XLII.- Las demás que le confieran la Constitución general de la república, la particular del Estado, la Ley Municipal del Estado, el presente Código y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2018)</small>
+
+XLII.- Establecer el Sistema Municipal de Premios y Condecoraciones por medio del cual se rinda homenaje a personas que han brindado servicios importantes a la comunidad o pabellonenses, que se han distinguido en alguna actividad profesional, científica, artística, académica, deportiva, económica, política y social.
+
+El Sistema Municipal de Premios y Condecoraciones contará con una presea máxima, que se entregará cada año a una personalidad que sea propuesta por la Comisión de Postulaciones y aprobada por el pleno del H. Ayuntamiento, y que consistirá en medalla de honor denominada “Medalla al Mérito Pabellonense” y diploma, mismos que se entregarán en una sesión solemne de cabildo realizada para tal efecto. Contará además con diversos reconocimientos los cuales serán aprobados de manera particular en cada caso por el ayuntamiento, a propuesta de la Comisión de Postulaciones, pudiendo ser al mérito artístico, científico, académico, deportivo, económico, político y social, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2018)</small>
+
+XLIII.- Las demás que le confieran la Constitución general de la república, la particular del Estado, la Ley Municipal del Estado, el presente Código y otras disposiciones legales.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -757,9 +809,17 @@ XIII.- Planeación y Desarrollo Sustentable;
 
 XIV.- Apoyo al Migrante;
 
-XV.- Equidad de Género, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2018)</small>
 
-XVI.- Control Integral de la Gestión Municipal.
+XV.- Equidad de Género;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2018)</small>
+
+XVI.- Control Integral de la Gestión Municipal, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2018)</small>
+
+XVII.- Postulaciones.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -1289,6 +1349,30 @@ VIII.- Motivar para que se realicen estudios de diseño adecuado de las oficinas
 
 IX.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 63 BIS.- Corresponden a la Comisión de Postulaciones los siguientes asuntos:
+
+I.- Realizar estudios acerca de la trayectoria de ciudadanos pabellonenses que se destaquen por su actividad profesional en cualquier ámbito artístico, científico, académico, deportivo, económico y político, o que realicen obras, acciones o servicios altruistas de alto impacto social;
+
+II.- Recabar de las diversas organizaciones sociales o de ciudadanos en lo particular, las propuestas o iniciativas para premiar o rendir homenaje a personas destacadas de la comunidad;
+
+III.- Realizar el dictamen acerca de la propuesta de nomenclatura urbana, cuando se propongan nombres de personajes pabellonenses o de la historia del estado;
+
+III (SIC).- Proponer al pleno del ayuntamiento las modalidades y características de los diversos premios y condecoraciones que deban ser entregados;
+
+IV.- Aprobar las características de la "Medalla al Mérito Pabellonense" y del diploma correspondiente;
+
+V.- Proponer al pleno del ayuntamiento el dictamen por medio del cual se otorgue la presea consistente en la "Medalla al Mérito Pabellonense", a algún ciudadano distinguido;
+
+VI.- Dictaminar acerca de las propuestas que realicen los integrantes del ayuntamiento acerca de personalidades que sean postulados para recibir algún premio, reconocimiento o condecoración;
+
+VII.- Proponer las fechas en que se deban realizar actos de homenaje o reconocimiento a personalidades distinguidas del municipio;
+
+VIII.- Establecer bases y lineamientos para ser sujeto de algún premio, reconocimiento o condecoración por parte del gobierno municipal, y
+
+IX.- Los demás que le señalen las leyes, los reglamentos, el presente código o le sean encomendados por el H. Ayuntamiento.
+
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ## TITULO TERCERO. DE LA PRACTICA CAPITULAR
@@ -1297,11 +1381,11 @@ IX.- Los demás que le señalen las leyes, los reglamentos, el presente código 
 
 ### CAPITULO PRIMERO. De la Instalación del H. Ayuntamiento
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 64.
 
-Para la instalación del H. Ayuntamiento, los Regidores y Síndico tanto del Ayuntamiento en funciones como del electo, se reunirán el día 14 de octubre del año de la elección en el local y hora que determine el Ayuntamiento en funciones, en sesión solemne que se desarrollará conforme al siguiente procedimiento:
+Para la instalación del H. Ayuntamiento, los Regidores y Síndico tanto del Ayuntamiento en funciones como del electo, se reunirán el día 15 de octubre del año de la elección en el local y hora que determine el Ayuntamiento en funciones, en sesión solemne que se desarrollará conforme al siguiente procedimiento:
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -9509,7 +9593,7 @@ XLIII.- CALIDAD DE VIDA. Nivel de bienestar que se alcanza en un ambiente ecoló
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 651.
+###### ARTICULO 651.
 
 Para la prevención, protección y conservación del equilibrio ecológico en el municipio corresponde a las autoridades municipales:
 
@@ -9627,7 +9711,7 @@ La planeación ecológica municipal, es el conjunto de planes, programas y accio
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 655.
+###### ARTICULO 655.
 
 En la planeación ambiental del Municipio deberán observarse los siguientes aspectos:
 
@@ -9659,7 +9743,7 @@ III.- Las demás que tengan este carácter conforme a las disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
-ARTÍCULO 656 TER.- Las áreas naturales protegidas de jurisdicción municipal serán establecidas mediante declaratorias expedidas por el Ayuntamiento, de conformidad con la (sic) reglas previstas en el presente capítulo y demás disposiciones legales aplicables en la materia.
+ARTICULO 656 TER.- Las áreas naturales protegidas de jurisdicción municipal serán establecidas mediante declaratorias expedidas por el Ayuntamiento, de conformidad con la (sic) reglas previstas en el presente capítulo y demás disposiciones legales aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -21037,7 +21121,7 @@ ARTICULO 1560 BIS B.- Para operar las chatarreras se requiere de una licencia es
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
-ARTÍCULO 1560 BIS C.- La Secretaría evaluará el funcionamiento de las chatarreras llevando un control estricto de sus actividades y con base en él refrendará su licencia de funcionamiento, asimismo actualizará anualmente el Registro de las chatarreras que operan en el Municipio.
+ARTICULO 1560 BIS C.- La Secretaría evaluará el funcionamiento de las chatarreras llevando un control estricto de sus actividades y con base en él refrendará su licencia de funcionamiento, asimismo actualizará anualmente el Registro de las chatarreras que operan en el Municipio.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -21235,7 +21319,7 @@ XIV.- Las demás previstas expresamente (sic) las leyes, el presente código y d
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
-ARTÍCULO 1560 BIS O.- Las chatarreras que regula el presente Capítulo deberán observar las disposiciones siguientes:
+ARTICULO 1560 BIS O.- Las chatarreras que regula el presente Capítulo deberán observar las disposiciones siguientes:
 
 I.- Los locales comerciales deberán contar, como mínimo, con los siguientes requisitos:
 
@@ -26896,3 +26980,13 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
 
 SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
+
+P.O. 22 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR MEDIO DEL CUAL SE APRUEBAN REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGUASCALIENTES".]
+
+Artículo Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- En la siguiente sesión de cabildo se designará a los integrantes de la Comisión de Postulaciones y se les tomará la protesta.
+
+Artículo Tercero.- Se derogan las disposiciones reglamentarias municipales que se opongan al contenido del presente acuerdo.
