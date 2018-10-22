@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-organica-de-la-procuraduria-ambiental-7068
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-03"
-last_updated: "2009-11-03"
+last_updated: "2018-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70685&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-10-28"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO (SIC) DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 22 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA QUEDADO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 3 de noviembre de 2009.
 
@@ -1487,3 +1489,17 @@ QUINTO.- Todas las actuaciones, procedimientos y recursos administrativos relaci
 SEXTO.- En tanto sea aprobada y dictaminada la nueva estructura operativa de la Procuraduría, las funciones que se encuentren previstas en este Reglamento para la Subprocuraduría de Asuntos Jurídicos, serán ejercidas por el (la) Procurador (a) auxiliado (a) por los servidores públicos que al efecto designe.
 
 Dado en la Residencia Oficial del Jefe del Gobierno del Distrito Federal, en la Ciudad de México, el día veintiocho de octubre de dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA. FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ. FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO (SIC). Se abroga el Reglamento de la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el día tres de noviembre de dos mil nueve, y se derogan todas aquellas disposiciones de carácter administrativo que se opongan al presente ordenamiento reglamentario.
+
+TERCERO. La sustanciación y resolución de los asuntos que se encuentren en trámite en la Procuraduría al momento de entrar en vigor este Reglamento, se concluirán de conformidad con las disposiciones vigentes al momento de iniciarse los procedimientos respectivos.
