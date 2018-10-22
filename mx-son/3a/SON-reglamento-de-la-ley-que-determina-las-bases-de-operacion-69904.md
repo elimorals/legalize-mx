@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-que-determina-las-bases-de-operacion-69904
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-13"
-last_updated: "2009-08-13"
+last_updated: "2018-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "SON"
 ---
 # REGLAMENTO DE LA LEY QUE DETERMINA LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA
 
-REGLAMENTO DE LA LEY QUE DETERMINA LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA
+REGLAMENTO DE LA LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 13 de agosto de 2009.
 
 EDUARDO BOURS CASTELO, Gobernador del Estado de Sonora, en ejercicio de la facultad que me confiere el artículo 79, fracción I de la Constitución Política del Estado de Sonora, y con fundamento en el artículo 6° de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Que por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -111,15 +113,29 @@ VI. Vigencia del permiso;
 
 VII. Fecha y lugar de expedición;
 
-VIII. La obligación del permisionario de revalidar el permiso en los términos que establece la Ley; y
+> <small>(REFORMADA, B.O. 22 DE OCTUBRE DE 2018)</small>
 
-IX. Nombre de la Secretaría y nombre y firma del servidor público que lo emite.
+VIII. La obligación del permisionario de revalidar el permiso en los términos que establece la Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 22 DE OCTUBRE DE 2018)</small>
+
+IX. El horario de la casa de empeño, en términos de lo dispuesto por el segundo párrafo del artículo 6 de la Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 22 DE OCTUBRE DE 2018)</small>
+
+X. Nombre de la Secretaría y nombre y firma del servidor público que lo emite.
+
+> <small>(REFORMADO, B.O. 22 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 10.
 
-La Dirección cantará con un plazo de cinco días hábiles para expedir el permiso, contados a partir de la fecha en que el interesado se inscriba al Registro Estatal de Casas de Empeño, siempre y cuando haya cumplido correctamente con las obligaciones correspondientes establecidas en la Ley y en el presente Reglamento.
+La Dirección contará con un plazo de cinco días hábiles siguientes a la fecha en que se realice la solicitud de inscripción, para expedir a los propietarios o representantes legales de las casas de empeño, la constancia de inscripción en el Registro.
 
-Para efectos de lo anterior, se podrán practicar las visitas de inspección y verificación que se consideren necesarias, de conformidad con lo establecido en el artículo 22 del presente Reglamento y demás disposiciones legales aplicables.
+Asimismo, la Dirección contará con un plazo de treinta días hábiles para expedir el permiso de operación de la casa de empeño, contados a partir de la fecha en que el interesado realice la solicitud de inscripción al Registro, siempre y cuando haya cumplido correctamente con las obligaciones correspondientes establecidas en la Ley y en el presente Reglamento.
+
+Para efectos de lo señalado en el párrafo anterior, la Dirección podrá solicitar el apoyo de la Coordinación Ejecutiva de Auditoría Fiscal de la Secretaría, para que lleve a cabo la práctica de las visitas de inspección y verificación que se consideren necesarias, de conformidad con lo establecido en el artículo 22 del presente Reglamento y demás disposiciones legales aplicables.
+
+Si la Dirección no resuelve dentro de los plazos señalados en los párrafos primero y segundo de este artículo, se entenderá que negó la expedición de la constancia de inscripción y/o del permiso. Lo anterior, en términos de lo establecido en los artículos 9 y 19 de la Ley.
 
 ###### Artículo 11.
 
@@ -199,15 +215,35 @@ La Dirección, antes de otorgar cualquier reposición, deberá verificar que los
 
 ### CAPÍTULO V. DE LA INSPECCIÓN Y VERIFICACIÓN
 
+> <small>(REFORMADO, B.O. 22 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 22.
 
-La Dirección General de Auditoría Fiscal de la Secretaría llevará a cabo visitas de inspección y verificación de las casas de empeño en el Estado de Sonora, para vigilar y supervisar el cumplimiento de las obligaciones establecidas en la Ley y el presente Reglamento, de conformidad con las disposiciones que al efecto establece la Ley de Procedimiento Administrativo del Estado de Sonora.
+La Coordinación Ejecutiva de Auditoría Fiscal de la Secretaría llevará a cabo visitas de inspección y verificación de las casas de empeño en el Estado de Sonora, para vigilar y supervisar el cumplimiento de las obligaciones establecidas en la Ley y el presente Reglamento, de conformidad con las disposiciones que al efecto establece la Ley de Procedimiento Administrativo del Estado de Sonora.
 
-El permisionario está obligado a permitir el acceso a los inspectores autorizados y facilitar las diligencias de inspección o verificación que ordene la Dirección General de Auditoría Fiscal, en los términos que al efecto establece la citada Ley de Procedimiento Administrativo del Estado de Sonora.
+El permisionario está obligado a permitir el acceso a los inspectores autorizados y facilitar las diligencias de inspección o verificación que ordene la Coordinación Ejecutiva de Auditoría Fiscal de la Secretaría, en los términos que al efecto establece la citada Ley de Procedimiento Administrativo del Estado de Sonora.
 
-La Dirección General de Auditoría Fiscal podrá solicitar las aclaraciones y/o documentos que considere necesarios y, en su caso, imponer las infracciones que procedan en caso de incumplimiento a la Ley y al presente Reglamento. Lo anterior se llevará a cabo en apego a las formalidades que establece la Ley de Procedimiento Administrativo del Estado de Sonora.
+La Coordinación Ejecutiva de Auditoría Fiscal de la Secretaría podrá solicitar las aclaraciones y/o documentos que considere necesarios y, en su caso, imponer las infracciones que procedan en caso de incumplimiento a la Ley y al presente Reglamento. Lo anterior se llevará a cabo en apego a las formalidades que establece la mencionada Ley de Procedimiento Administrativo del Estado de Sonora.
 
-Tratándose de sanciones económicas, éstas se harán efectivas mediante el procedimiento administrativo de ejecución.
+Tratándose de sanciones económicas, éstas se harán efectivas mediante el procedimiento administrativo de ejecución que deberá llevar a cabo la unidad administrativa competente de la Secretaría.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 22 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO VI. DE LA REGULACIÓN DE LOS CONTRATOS
+
+> <small>(ADICIONADO, B.O. 22 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 23.
+
+La autoridad podrá tener por cumplida la presentación de los requisitos establecidos en los incisos f) y g) del artículo 13 de la Ley, siempre que estos requisitos se desprendan de los contratos de mutuo con interés y garantía prendaria o asimilables a éstos autorizados por la Procuraduría Federal del Consumidor, que sean presentados por las casas de empeño ante la oficina recaudadora.
+
+> <small>(ADICIONADO, B.O. 22 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 24.
+
+Los propietarios o, en su caso, el representante legal de las casas de empeño deberán presentar en la oficina recaudadora correspondiente la relación de contratos indicada en el primer párrafo del artículo 15 de la Ley, dentro de los primeros cinco días hábiles de cada mes, tanto de manera electrónica como impresa.
+
+Igualmente, los citados propietarios o representantes legales deberán presentar ante la Fiscalía General de Justicia del Estado de Sonora, los primeros cinco días hábiles de cada mes, por vía electrónica y de manera impresa, los elementos de identificación a que se refiere el segundo párrafo del artículo 15 de la Ley.
 
 T R A N S I T O R I O S
 
@@ -228,3 +264,13 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 WENCESLAO COTA MONTOYA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 22 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
