@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-consejo-estatal-de-seguridad-publica-23400"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-29"
-last_updated: "2002-01-29"
+last_updated: "2018-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el martes 29 de enero de 2002.
 
@@ -183,7 +185,7 @@ VI.- Establecer y operar en forma diaria, en coordinación con los Municipios, l
 
 VII.- Establecer y operar los programas de mantenimiento y soporte de la infraestructura de la Red Estatal de Telecomunicaciones.
 
-VlII.- Promover los procesos de capacitación y especialización del personal técnico de la Unidad, para lograr el efectivo mantenimiento de la Red Estatal de Telecomunicaciones.
+VIII.- Promover los procesos de capacitación y especialización del personal técnico de la Unidad, para lograr el efectivo mantenimiento de la Red Estatal de Telecomunicaciones.
 
 IX.- Establecer y operar, en coordinación con los Municipios, el sistema para la localización de personas a que se refiere el artículo 89 de la Ley Estatal.
 
@@ -278,3 +280,17 @@ Se abroga el Reglamento del Consejo Estatal de Seguridad Pública, expedido medi
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de enero del dos mil dos.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNAMENTAL MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Consejo Estatal de Seguridad Pública, expedido mediante Decreto Gubernamental de fecha 28 de enero de 2002, publicado en el Periódico Oficial del Estado No. 13 del día 29 de ese mismo mes y año.
