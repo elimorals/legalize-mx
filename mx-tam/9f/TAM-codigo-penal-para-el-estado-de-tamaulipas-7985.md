@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2018-09-28"
+last_updated: "2018-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -381,7 +381,7 @@ Se calificarán como delitos graves, para todos los efectos legales, por afectar
 
 I.- Atentados a la seguridad de la comunidad, cuando sean de los comprendidos en las fracciones I, VIII y IX del artículo 171 Quáter.
 
-II.- Tortura, previsto y sancionado por el artículo 213;
+II.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2018)
 
 III.- Peculado, previsto en el artículo 218, cuando el monto de lo distraído o de los fondos utilizados indebidamente excedan de mil veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -2677,8 +2677,6 @@ A los infractores de las fracciones V, VI, VII y VIII del artículo 209, se les 
 
 ### CAPITULO IV. DE LA TORTURA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
 ###### ARTICULO 212.
 
 Al responsable del delito de abuso de autoridad se le impondrá una sanción de dos a nueve años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
@@ -2715,9 +2713,9 @@ X.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme 
 
 XI.- Otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-XII.- Obligue al inculpado a declarar, usando la incomunicación, la intimidación, la tortura o tratos crueles, inhumanos o degradantes;
+XII.- Obligue al inculpado a declarar, usando la incomunicación o la intimidación;
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -2727,21 +2725,15 @@ XIII.- Obligue a declarar a las personas que por disposición legal deben guarda
 
 XIV.- Omita el registro de la detención correspondiente o dilate injustificadamente poner al detenido a disposición.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2018)</small>
+
 ### CAPITULO V. COALICION DE SERVIDORES PUBLICOS
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 213.
 
-Se sancionará con una pena de tres a doce años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, destitución del cargo e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
-
-Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
-
-Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 ### CAPITULO VI. COHECHO
 
@@ -3075,9 +3067,9 @@ XI.- Detener a un individuo fuera de los casos señalados por la ley, o retenerl
 
 XII.- Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-XIII.- Obligar al imputado a declarar, usando la incomunicación, intimidación o tortura;
+XIII.- Obligar al imputado a declarar, usando la incomunicación o intimidación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -3207,9 +3199,9 @@ Al responsable en la comisión de los delitos previstos en el artículo anterior
 
 I.- A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, X, XIV, XX, XXV, XXVI, XLV y XLVI se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-II.- A quien cometa los delitos previstos en las (sic) IV, V, VI, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXXIX, XLI, XLII, XLIII, XLIV, XLVII, XLVIII, XLIX, L, LI y LII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+II.- A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXXIX, XLI, XLII, XLIII, XLIV, XLVII, XLVIII, XLIX, L, LI y LII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -4723,7 +4715,7 @@ ARTICULO 390 BIS.- Al que prive a otro de su libertad, con el propósito de real
 
 Este delito se perseguirá por querella de la parte ofendida.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 369.
 
@@ -4768,8 +4760,6 @@ En caso de que el psicólogo observe una conducta extremadamente peligrosa y vio
 En los casos en que no se cuente con servicios psicológicos o psiquiátricos, el Juez enviará al responsable del delito al municipio donde se pueda practicar dicho tratamiento y las costas que de esto se deriven, serán cubiertas en su totalidad por el sujeto tratado.
 
 ### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTICULO 372.
 
@@ -4881,65 +4871,23 @@ II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le 
 
 ###### ARTICULO 391.
 
-Comete el delito de desaparición forzada de personas el servidor público estatal o municipal, o el particular que actuando con la autorización, apoyo, consentimiento, conocimiento o dirección de aquél; detenga, arreste, aprehenda o prive de la libertad en cualquier otra forma a una persona o facilite tal privación, seguida de la negativa a reconocer dicha privación de la libertad o del ocultamiento del paradero de la víctima, con lo cual se impide el ejercicio de recursos legales y las garantías procesales procedentes.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
-Si durante la comisión del delito se cometiere otro en contra de la víctima, se aplicarán las reglas del concurso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 391 BIS.- A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de quince a cuarenta años de prisión y multa de cuatro mil a ocho mil veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-Al servidor público que haya sido condenado por el delito de desaparición forzada de personas, además se le destituirá del cargo y se le inhabilitará de cinco a veinte años para desempeñar cualquier cargo, comisión o empleo públicos.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-A los servidores públicos que teniendo a su cargo la investigación del delito de desaparición forzada de personas, o sus auxiliares, que evidentemente la obstruyan o eviten hacerla, se le aplicará pena de cinco a diez años de prisión y multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, además de la inhabilitación de cinco a quince años para el ejercicio de cargos públicos.
+ARTICULO 391 BIS.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 ARTICULO 391 TER.- (DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
 ###### ARTICULO 392.
 
-Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
-Si la liberación ocurriera dentro de los diez días siguientes a su detención, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
+ARTICULO 392 BIS.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
-Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-ARTICULO 392 BIS.- Al responsable de la comisión del delito de desaparición forzada de personas, se le incrementará la pena de prisión en una mitad de la que le corresponda, cuando:
-
-I.- Sea superior jerárquico del servidor público que participe en la comisión del delito y haya tenido conocimiento del mismo y no ejerza su autoridad para evitarlo;
-
-II.- El sujeto pasivo del delito sea persona con discapacidad, migrante, menor de dieciocho o mayor de sesenta años, indígena, o mujer embarazada;
-
-III.- Se cometa con el propósito de ocultar o asegurar la impunidad de otro delito; o
-
-IV.- Se cometa como parte de un ataque generalizado o sistemático contra una población civil y con conocimiento del mismo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-ARTICULO 392 TER.- En ningún caso y bajo ninguna circunstancia serán excluyentes o atenuantes de responsabilidad para cometer el delito de desaparición forzada de personas, la obediencia por razones de jerarquía, así como las órdenes o instrucciones recibidas por superiores.
-
-No podrán invocarse circunstancias de excepción como inseguridad pública, de inestabilidad política interna o cualquier otra emergencia, como causa de justificación o inculpabilidad para cometer el delito de desaparición forzada de personas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 ###### ARTICULO 393.
 
-Se impondrá de cuatro a doce años de prisión y multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, y en caso de ser servidor público se le impondrá también la inhabilitación de cuatro a doce años para el desempeño de cualquier cargo, empleo o comisión públicos, a quien:
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-I.- Teniendo conocimiento de la comisión del delito de desaparición forzada de personas, sin concierto previo, ayude a eludir la aplicación de la justicia o a entorpecer la investigación del mismo; o
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-II.- Conociendo los planes para la comisión del delito de desaparición forzada de personas, sin ser partícipe, no diere aviso a la autoridad.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -6655,40 +6603,82 @@ P.O. 28 DE SEPTIEMBRE DE 2018.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO OCTAVO.
+P.O. 23 DE OCTUBRE DE 2018.
 
-Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales y los jueces del fuero común del mismo Distrito y Territorios Federales, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-475 MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
 
-###### ARTICULO NOVENO.
+###### ARTÍCULO PRIMERO.
 
-El Tribunal Superior de Justicia del Distrito y Territorios Federales designará, dentro de los treinta días siguientes a la fecha en que hayan tomado posesión de sus cargos los Magistrados que lo componen, a los jueces del fuero común del Distrito y Territorios Federales.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 28 DE MARZO DE 1951.
+###### ARTÍCULO SEGUNDO.
 
-###### ARTICULO DECIMO
+Dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la designación del Titular de la Comisión Estatal de Búsqueda de Personas.
 
-- Los contribuyentes que a partir de 1988 cubran espontáneamente adeudos fiscales cuyos recargos hubieren excedido del límite previsto en el último párrafo del artículo 22 de este Código, les será aplicable lo dispuesto en dicho párrafo y, por lo tanto, los recargos no excederán del 100% de las contribuciones omitidas.
+###### ARTÍCULO TERCERO.
 
-Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
+Dentro de los 120 días naturales posteriores a la entrada en vigor del presente Decreto, deberá entrar en funciones la Comisión Estatal de Búsqueda de Personas y emitir el Protocolo de Búsqueda para el Estado.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintiséis días del mes de noviembre de mil novecientos ochenta y cuatro.- PRESIDENTE: DIP. VALENTIN TAMEZ ENRIQUEZ; DIP. SECRETARIO: RENE ALVAREZ MENDOZA; DIP. SECRETARIO: Por M. de Ley: ELIAS ZUÑIGA GUTIERREZ.- RUBRICAS.
+###### ARTÍCULO CUARTO.
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo, en Monterrey Capital del Estado de Nuevo León, a los veintisiete días del mes de noviembre de mil novecientos ochenta y cuatro.
+Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la integración y designación de los Consejeros Honoríficos del Consejo Estatal Ciudadano.
 
-EL GOBERNADOR DEL ESTADO
+###### ARTÍCULO QUINTO.
 
-ALFONSO MARTINEZ DOMINGUEZ
+En un periodo de dos años a partir de la creación de la Comisión Estatal de Búsqueda de Personas, el Titular del Poder Ejecutivo del Estado emitirá el Acuerdo Gubernamental mediante el cual se crea dicha Comisión como un Organismo Público Descentralizado del Gobierno del Estado de Tamaulipas.
 
-EL SECRETARIO GENERAL DE GOBIERNO
+###### ARTÍCULO SEXTO.
 
-GRACIANO BORTONI URTEAGA
+Los procesos penales iniciados con fundamento en dicha legislación, así como las sentencias emitidas con base en la misma, no serán afectados por la entrada en vigor de dichas leyes generales. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de éstas últimas.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+###### ARTÍCULO SÉPTIMO.
 
-EL SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
 
-VICTOR GOMEZ GARZA
+TRANSITORIOS RELACIONADOS CON LA OPERACIÓN DE LA UNIDAD ESPECIALIZADA EN LA INVESTIGACIÓN DEL DELITO DE TORTURA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+###### ARTÍCULO OCTAVO.
 
-P.O. 31 DE DICIEMBRE DE 1986.
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, adoptará y publicará los protocolos y criterios que refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO NOVENO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, pondrá en marcha el Registro Estatal correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, iniciará los programas de capacitación continua de las y los servidores públicos, conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, realizará las gestiones necesarias y llevará a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las instituciones de procuración de justicia, la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+TRANSITORIOS RELACIONADOS CON LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las y los servidores públicos adscritos a la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, deberán estar certificados dentro del año posterior a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, deberá contar con el sistema informático al que hace alusión la fracción VII del artículo 15 Quáter de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+En tanto comiencen a operar los registros de personas desaparecidas o no localizadas, se deberá incorporar en un registro provisional, electrónico o impreso, la información de las denuncias recibidas.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se deberá migrar la información contenida en los registros provisionales a que se refiere el artículo anterior, dentro de los 15 días siguientes a que comiencen a operar los registros de personas desaparecidas y no localizadas.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Dentro de los 180 días siguientes a que se emitan los lineamientos y protocolos correspondientes, la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas deberá emitir los propios para su correcto funcionamiento.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+La Dirección de Administración de la Procuraduría General de Justicia del Estado deberá realizar las gestiones necesarias para que se provea de recursos materiales, humanos, técnicos, presupuestales para el correcto funcionamiento y capacitación de la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento, se continuará con la estructura y presupuesto con que cuenta la Fiscalía de Personas No Localizadas o Privadas de su Libertad de la Procuraduría General de Justicia del Estado.
