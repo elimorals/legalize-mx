@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2018-10-09"
+last_updated: "2018-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE OCTUBRE DE 2018.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -190,6 +190,10 @@ En el Estado, los poderes públicos, organismos autónomos, ayuntamientos o conc
 > <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2016)</small>
 
 La información o documentación que los sujetos obligados generen o posean por cualquier título es pública. Éstos permitirán a las personas acceder a ella y reproducirla, de manera proactiva, en atención a los lineamientos generales definidos por el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, diseñados para incentivar a los sujetos obligados a publicar información adicional a la que establece como mínimo la ley, teniendo por objeto promover la reutilización de la información que generen los sujetos obligados, sin mayor restricción que la protección a los datos personales y el interés público. En todo momento deberá prevalecer, para el ejercicio libre de este derecho, su interpretación con sujeción al principio de máxima publicidad.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2018)</small>
+
+El Estado y los Ayuntamientos promoverán el derecho al mínimo vital de la población en situación de vulnerabilidad, a través de los presupuestos asignados al rubro respectivo que deberán ministrarse conforme a los términos que establezca la legislación aplicable. El monto presupuestal asignado nunca será inferior al aprobado en el ejercicio inmediato anterior.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -560,6 +564,10 @@ a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con
 b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva; y
 
 c) (DEROGADO, G.O. 17 DE JULIO DE 2015)
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2018)</small>
+
+d) Recibir el informe anual del Gobernador sobre el estado general que guarda la administración pública estatal.
 
 II. (DEROGADA, G.O. 17 DE JULIO DE 2015)
 
@@ -1639,9 +1647,11 @@ XIX. Convenir con los municipios, previo acuerdo de sus respectivos Ayuntamiento
 
 XX. Conceder el indulto a los reos sentenciados por los tribunales del Estado, conforme a la ley;
 
-> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 23 DE OCTUBRE DE 2018)</small>
 
-XXI. Presentar ante el Congreso del Estado, el 15 de noviembre de cada año, un informe escrito acerca del estado que guarda la administración pública. El Congreso realizará el análisis del Informe y podrá solicitar al Gobernador del Estado ampliar la información mediante preguntas por escrito, y citar a los Secretarios del Despacho o equivalentes, quienes comparecerán y rendirán informes bajo protesta de decir verdad;
+XXI. Presentar ante el Congreso del Estado, el 15 de noviembre de cada año, un informe escrito acerca del estado que guarda la administración pública. El Congreso realizará el análisis del informe, y citará a los secretarios del despacho o equivalente, quienes comparecerán y rendirán informes bajo protesta de decir verdad.
+
+Concluida la comparecencia de los secretarios de despacho o equivalente, el Gobernador comparecerá ante el Pleno del Congreso a responder las preguntas que le formulen los diputados.
 
 XXII. Comprometer el crédito del Estado, previa autorización del Congreso, en los términos de esta Constitución y la ley; y
 
@@ -12884,3 +12894,19 @@ Primero. El presente Decreto iniciará su vigencia al día siguiente de su publi
 Segundo. Dentro de un plazo de sesenta días naturales, contado a partir de la entrada en vigor de este Decreto, el Congreso del Estado realizará las adecuaciones a la legislación secundaria, a efecto de dar cumplimiento a lo previsto en esta resolución.
 
 Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 778 QUE ADICIONA UN PÁRRAFO ÚLTIMO AL ARTÍCULO 6 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor a los treinta días hábiles posteriores a su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 779 QUE ADICIONA UN INCISO D) A LA FRACCIÓN I DEL ARTÍCULO 26, Y REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
