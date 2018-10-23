@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2018-05-15"
+last_updated: "2018-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -669,17 +669,19 @@ XXVI.- Llevar a cabo las funciones y obligaciones establecidas en el Código Nac
 
 XXVII.- Otorgar y garantizar la protección y auxilio en todo momento a las víctimas de los delitos;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-XXVIII.- Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice; y
+XXVIII.- Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-XXIX.- Vigilar y verificar que los vehículos automotores que circulen por las vías públicas en el Estado y sus municipios, cuenten y porten con la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes y con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, según sea el caso.
+XXIX.- Vigilar y verificar que los vehículos automotores que circulen por las vías públicas en el Estado y sus municipios, cuenten y porten con la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes y con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, según sea el caso;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-XXX.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+XXX.- Atender las solicitudes de la Comisión Estatal de Búsqueda de Personas, así como de las Comisiones Locales de Búsqueda de otras entidades federativas y recibir reportes de búsqueda de personas desaparecidas o no localizadas, cuando la distancia o los medios de comunicación no permitan realizar los reportes en los términos señalados en las fracciones I, II, III y IV del artículo 81 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, debiendo transmitirlo inmediatamente, a través de cualquier medio tecnológico o de telecomunicación a la Comisión que corresponda, en términos de la legislación citada con antelación; y
+
+XXXI.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2248,3 +2250,83 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-475 MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la designación del Titular de la Comisión Estatal de Búsqueda de Personas.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 120 días naturales posteriores a la entrada en vigor del presente Decreto, deberá entrar en funciones la Comisión Estatal de Búsqueda de Personas y emitir el Protocolo de Búsqueda para el Estado.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la integración y designación de los Consejeros Honoríficos del Consejo Estatal Ciudadano.
+
+###### ARTÍCULO QUINTO.
+
+En un periodo de dos años a partir de la creación de la Comisión Estatal de Búsqueda de Personas, el Titular del Poder Ejecutivo del Estado emitirá el Acuerdo Gubernamental mediante el cual se crea dicha Comisión como un Organismo Público Descentralizado del Gobierno del Estado de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+Los procesos penales iniciados con fundamento en dicha legislación, así como las sentencias emitidas con base en la misma, no serán afectados por la entrada en vigor de dichas leyes generales. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de éstas últimas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+TRANSITORIOS RELACIONADOS CON LA OPERACIÓN DE LA UNIDAD ESPECIALIZADA EN LA INVESTIGACIÓN DEL DELITO DE TORTURA.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, adoptará y publicará los protocolos y criterios que refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO NOVENO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, pondrá en marcha el Registro Estatal correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, iniciará los programas de capacitación continua de las y los servidores públicos, conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, realizará las gestiones necesarias y llevará a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las instituciones de procuración de justicia, la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+TRANSITORIOS RELACIONADOS CON LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las y los servidores públicos adscritos a la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, deberán estar certificados dentro del año posterior a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, deberá contar con el sistema informático al que hace alusión la fracción VII del artículo 15 Quáter de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+En tanto comiencen a operar los registros de personas desaparecidas o no localizadas, se deberá incorporar en un registro provisional, electrónico o impreso, la información de las denuncias recibidas.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se deberá migrar la información contenida en los registros provisionales a que se refiere el artículo anterior, dentro de los 15 días siguientes a que comiencen a operar los registros de personas desaparecidas y no localizadas.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Dentro de los 180 días siguientes a que se emitan los lineamientos y protocolos correspondientes, la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas deberá emitir los propios para su correcto funcionamiento.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+La Dirección de Administración de la Procuraduría General de Justicia del Estado deberá realizar las gestiones necesarias para que se provea de recursos materiales, humanos, técnicos, presupuestales para el correcto funcionamiento y capacitación de la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento, se continuará con la estructura y presupuesto con que cuenta la Fiscalía de Personas No Localizadas o Privadas de su Libertad de la Procuraduría General de Justicia del Estado.
