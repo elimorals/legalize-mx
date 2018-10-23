@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2018-07-13"
+last_updated: "2018-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -1139,11 +1139,15 @@ XXIX. Coordinar las tareas de vigilancia, con el apoyo de la Secretaría de Desa
 
 XXX. Proponer a la Universidad de Seguridad y Justicia de Tamaulipas, los programas de capacitación para el personal de la dependencia;
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-XXXI. Establecer y operar un sistema de información y plataformas informáticas compartidas, que contribuya a preservar el orden y la tranquilidad social, así como la estabilidad y permanencia de las instituciones constitucionales del Estado; y
+XXXI. Establecer y operar un sistema de información y plataformas informáticas compartidas, que contribuya a preservar el orden y la tranquilidad social, así como la estabilidad y permanencia de las instituciones constitucionales del Estado;
 
-XXXII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+XXXII. Promover la capacitación de los integrantes de las instituciones de seguridad pública estatal en materia de búsqueda de personas, con la finalidad de contar y garantizar la disponibilidad de personal especializado y capacitado; y
+
+XXXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección XVI. De la Procuraduría General de Justicia
 
@@ -1660,6 +1664,86 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIII-475 MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS¨.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la designación del Titular de la Comisión Estatal de Búsqueda de Personas.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 120 días naturales posteriores a la entrada en vigor del presente Decreto, deberá entrar en funciones la Comisión Estatal de Búsqueda de Personas y emitir el Protocolo de Búsqueda para el Estado.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la integración y designación de los Consejeros Honoríficos del Consejo Estatal Ciudadano.
+
+###### ARTÍCULO QUINTO.
+
+En un periodo de dos años a partir de la creación de la Comisión Estatal de Búsqueda de Personas, el Titular del Poder Ejecutivo del Estado emitirá el Acuerdo Gubernamental mediante el cual se crea dicha Comisión como un Organismo Público Descentralizado del Gobierno del Estado de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+Los procesos penales iniciados con fundamento en dicha legislación, así como las sentencias emitidas con base en la misma, no serán afectados por la entrada en vigor de dichas leyes generales. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de éstas últimas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+TRANSITORIOS RELACIONADOS CON LA OPERACIÓN DE LA UNIDAD ESPECIALIZADA EN LA INVESTIGACIÓN DEL DELITO DE TORTURA.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, adoptará y publicará los protocolos y criterios que refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO NOVENO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, pondrá en marcha el Registro Estatal correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, iniciará los programas de capacitación continua de las y los servidores públicos, conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, realizará las gestiones necesarias y llevará a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las instituciones de procuración de justicia, la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+TRANSITORIOS RELACIONADOS CON LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las y los servidores públicos adscritos a la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, deberán estar certificados dentro del año posterior a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, deberá contar con el sistema informático al que hace alusión la fracción VII del artículo 15 Quáter de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+En tanto comiencen a operar los registros de personas desaparecidas o no localizadas, se deberá incorporar en un registro provisional, electrónico o impreso, la información de las denuncias recibidas.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se deberá migrar la información contenida en los registros provisionales a que se refiere el artículo anterior, dentro de los 15 días siguientes a que comiencen a operar los registros de personas desaparecidas y no localizadas.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Dentro de los 180 días siguientes a que se emitan los lineamientos y protocolos correspondientes, la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas deberá emitir los propios para su correcto funcionamiento.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+La Dirección de Administración de la Procuraduría General de Justicia del Estado deberá realizar las gestiones necesarias para que se provea de recursos materiales, humanos, técnicos, presupuestales para el correcto funcionamiento y capacitación de la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento, se continuará con la estructura y presupuesto con que cuenta la Fiscalía de Personas No Localizadas o Privadas de su Libertad de la Procuraduría General de Justicia del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
