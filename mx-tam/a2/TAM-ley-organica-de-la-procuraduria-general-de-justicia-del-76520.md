@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2017-06-02"
+last_updated: "2018-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -557,17 +557,17 @@ XV. Director General de Operación del Procedimiento Penal Acusatorio y Oral;
 
 XVI. Coordinadores Regionales del Procedimiento Penal Acusatorio y Oral;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-XVII. Fiscal Especializado en Atención a Personas No Localizadas o Privadas de su Libertad;
+XVII. Fiscal Especializado en la Investigación de los Delitos de Desaparición Forzada de Personas;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-XVIII. Director de la Unidad para la Protección de Personas que intervienen en el Procedimiento Penal; y
+XVIII. Unidad Especializada en la Investigación del Delito de Tortura;
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+XIX. Director de la Unidad para la Protección de Personas que intervienen en el Procedimiento Penal; y
 
-XIX. Agentes del Ministerio Público.
+XX. Agentes del Ministerio Público.
 
 B) Con funciones auxiliares del Ministerio Público:
 
@@ -683,9 +683,9 @@ XIV. Coordinador de Vinculación y Enlace;
 
 XV. Director para la implementación de la Reforma Penal;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-XVI. Director para la implementación de la Reforma Penal; y
+XVI. Comisionado Estatal de Búsqueda de Personas;
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -857,6 +857,46 @@ XXVIII. Las demás que en su caso le confieran otras disposiciones legales aplic
 
 La Fiscalía Especializada en Combate a la Corrupción se equipara jerárquica y administrativamente a una Subprocuraduría y para ser designado como titular de la misma, se deberá cumplir con los mismos requisitos que establece esta ley para la designación del Procurador y Subprocuradores.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 14 Quinquies.
+
+La Unidad Especializada en la Investigación del Delito de Tortura será una unidad especializada dependiente de la Fiscalía Especializada en Combate a la Corrupción; la cual conocerá de los delitos relativos a esta materia, y estará integrada por personal especializado y contará con los Agentes del Ministerio Público, Peritos, Policías Investigadores y Ministeriales que el servicio requiera.
+
+Tiene por objeto llevar a cabo toda investigación e intervención para el esclarecimiento de los hechos que puedan ser constitutivos de los delitos en materia de tortura y otros tratos o penas crueles, inhumanos o degradantes, así como para dar seguimiento al juicio respectivo, con las atribuciones y obligaciones que para el Ministerio Público y Policía establecen, la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Constitución Política del Estado de Tamaulipas, la presente Ley, así como las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 14 Sexies.
+
+La Unidad Especializada en la Investigación del Delito de Tortura tendrá en el ámbito de su competencia, las obligaciones y facultades siguientes:
+
+I. Iniciar y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+II. Requerir a las instancias del sector público competentes, y del sector privado en los casos que disponga la Ley de Atención (sic) Víctimas para el Estado de Tamaulipas, a que se le brinde atención médica, psicológica y jurídica a las personas víctimas de las conductas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+III. Requerir la participación de las autoridades en materia de atención a víctimas, en términos de las disposiciones aplicables;
+
+IV. Ejecutar el protocolo homologado, así como los protocolos de actuación y para la investigación que se refieren en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+V. Pedir a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+VI. Decretar las medidas de protección en favor de la vida o la integridad de las víctimas, de conformidad con la legislación aplicable;
+
+VII. Solicitar las medidas cautelares aplicables al imputado por los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, de conformidad con la legislación aplicable;
+
+VIII. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+IX. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras fiscalías especiales con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes y mantener actualizado el Registro Nacional del Delito de Tortura;
+
+X. Llevar a cabo análisis de contextos y patrones sobre la comisión del delito de tortura y otros tratos o penas crueles, inhumanos o degradantes, con base en los datos del Registro Estatal del Delito de Tortura y otra información disponible;
+
+XI. Ingresar a cualquiera de los lugares de privación de libertad en donde se presuma que se cometieron los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes;
+
+XII. Proponer políticas para la prevención de las conductas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; y
+
+XIII. Las demás que otras disposiciones legales aplicables, el Procurador o el Fiscal Especializado en Combate a la Corrupción de (sic) confieran.
+
 ###### ARTICULO 15.
 
 El Director General de Averiguaciones Previas tendrá las siguientes atribuciones:
@@ -891,49 +931,135 @@ I. Auxiliar al Director General de Averiguaciones Previas en sus atribuciones pr
 
 II. Las señaladas para los Agentes del Ministerio Público Investigadores, Especializados y Mixtos, así como las que le asigne el Reglamento de esta Ley, otros Reglamentos o el Procurador.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-ARTICULO 15 TER.- La Fiscalía Especializada en Atención a Personas No Localizadas o Privadas de su Libertad, dependerá directamente del Procurador, estará integrada con personal especializado y deberá contar, al menos, con ministerios públicos, peritos, policías investigadores y ministeriales, así como con los recursos humanos, financieros y materiales necesarios para su efectiva operación.
+###### ARTICULO 15 Ter.
 
-Para ser integrante de la Fiscalía Especializada en Atención a Personas No Localizadas o Privadas de su Libertad, deberán reunir los requisitos para los Agentes del Ministerio Público, establecidos en la presente ley.
+La Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, dependerá directamente del Procurador, estará integrada con personal especializado y deberá contar, al menos, con Agentes del Ministerio Público, Peritos, Policías Investigadores y Ministeriales y personal de apoyo psicosocial, así como con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios necesarios para su efectiva operación y una Unidad de Análisis de Contexto.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+La o el Titular de la Fiscalía tendrá la calidad de Agente del Ministerio Público, encargado de la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, el cual deberá coordinar y dar impulso permanente a la búsqueda de personas desaparecidas.
 
-ARTICULO 15 QUATER.- El Fiscal Especializado en Atención a Personas No Localizadas o Privadas de su Libertad, tiene las siguientes atribuciones:
+Para ser integrante de la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, se deben reunir los requisitos para los Agentes del Ministerio Público, establecidos en la presente Ley y en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+El personal adscrito a la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas deberá recibir capacitación conforme a los más altos estándares internacionales en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, sensibilización y relevancia específica de la desaparición de personas, aplicación del protocolo homologado para la investigación, identificación forense, cadena de custodia, protocolo de atención inmediata, acciones específicas, entre otros. De igual forma, podrán participar con las autoridades competentes, en la capacitación de las y los servidores públicos conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en términos de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 15 Quáter.
+
+El Fiscal Especializado en la Investigación de los Delitos de Desaparición Forzada de Personas, deberá realizar acciones coordinadas para la búsqueda, localización e identificación de personas desaparecidas o no localizadas; así como de investigación y persecución de los delitos en la materia, conforme a la normatividad correspondiente; además tiene las siguientes atribuciones:
 
 I. Acordar con el Procurador el despacho de los asuntos de su conocimiento y competencia;
 
-II. Coordinar las acciones de las Agencias del Ministerio Público Especializadas en Atención a Personas No Localizadas o Privadas de su Libertad, en la recepción de denuncias e integración de las averiguaciones previas y el ejercicio de la acción penal, bajo el diseño de criterios generales de actuación o estrategia integral de investigación y localización de personas no localizadas o privadas de su libertad, con base en las normas aplicables y criterios institucionales;
+II. Coordinar las acciones de las Agencias del Ministerio Público Especializadas y Unidades de Investigación Especializadas en la materia, adscritas a la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, en la recepción de denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y la integración de carpetas de investigación, bajo el diseño de criterios generales de actuación o estrategia integral de investigación; y localización de personas desaparecidas, con base en las normas aplicables y criterios institucionales;
 
-III. Establecer acciones y mecanismos de coordinación con las autoridades federales, estatales y municipales; así como con las demás áreas de la Procuraduría, para el efectivo cumplimiento de sus atribuciones;
+III. Organizar a los Agentes del Ministerio Público Especializados y Auxiliares, para la debida investigación, persecución, atención, seguimiento, supervisión, operación y búsqueda de personas; y a los grupos especiales de la policía investigadora y ministerial, en la investigación de los delitos de desaparición forzada de personas y desaparición cometida por particulares, e instruir a éstos respecto a las líneas de investigación a seguir;
 
-IV. Organizar a los Agentes del Ministerio Público Especializados y Auxiliares, para la debida atención, seguimiento, supervisión, operación y búsqueda de personas; y a los grupos especiales de la policía investigadora y ministerial, en la investigación y búsqueda de personas no localizadas o privadas de su libertad, e instruir a éstos respecto a las líneas de investigación a seguir;
+IV. Gestionar para los Agentes del Ministerio Público Especializados y Auxiliares y grupos especiales de la policía investigadora y ministerial, presupuesto para la dotación de recursos materiales y humanos, medios de logística y operación, así como el auxilio de otras fuerzas policiacas y militares, peritos, binomios caninos y cualquier apoyo de personal especializado, implementos tecnológicos o científicos, que permitan dar con el paradero de las personas desaparecidas o localizar vestigios o indicios que contribuyan para dicho fin;
 
-V. Gestionar para los Agentes del Ministerio Público Especializados y Auxiliares y grupos especiales de la policía investigadora y ministerial, medios de logística y operación, así como el auxilio de otras fuerzas policiacas y militares, peritos, binomios caninos y cualquier apoyo de personal especializado, implementos tecnológicos o científicos, que permitan dar con el paradero de las personas no localizadas o privadas de su libertad o localizar vestigios o indicios que contribuyan para dicho fin;
+V. Establecer acciones y mecanismos de coordinación, con autoridades, federales, estatales y municipales, instituciones gubernamentales, no gubernamentales e iniciativa privada, así como con las demás áreas de la Procuraduría, para el óptimo cumplimiento de las atribuciones que le corresponden a la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas; así como tramitar las solicitudes de colaboración solicitadas;
 
-VI. Tramitar las solicitudes de colaboración entre las distintas Procuradurías de las entidades federativas, de la Procuraduría General de la República y de la Procuraduría de Justicia Militar, que sean enviadas por los Agentes del Ministerio Público Especializadas en Atención a Personas No Localizadas o Privadas de su Libertad;
+VI. Someter a la consideración del Procurador, el proyecto de rotación y sustitución de los Agentes del Ministerio Público Especializados adscritos a la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, en las diversas circunscripciones territoriales y del personal de la misma;
 
-VII. Someter a la consideración del Procurador, el proyecto de rotación y sustitución de los Agentes del Ministerio Público Especializadas en Atención a Personas No Localizadas o Privadas de su Libertad, en las diversas circunscripciones territoriales y del personal de las mismas;
+VII. Establecer en coordinación con la Dirección de Informática, sistemas de registro y seguimientos de las denuncias iniciadas con motivo de los delitos materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, con la finalidad de crear una base de datos de personas desaparecidas o no localizadas.
 
-VIII. Establecer los sistemas de registro, estadística y seguimiento de las averiguaciones previas de personas no localizadas o privadas de su libertad y supervisar la captura en el sistema informático para tal efecto;
+La Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, proporcionará asistencia técnica a las unidades administrativas de la Procuraduría, respecto a las acciones que realicen en el ámbito de su competencia, para la creación de las bases de datos como el banco de datos forenses, el registro de personas fallecidas no identificadas y no reclamadas, el registro de fosas, el registro administrativo de detenciones, la Alerta Amber, así como la necesaria que permita a la Fiscalía el acceso, tratamiento y uso, para la investigación, búsqueda, localización e identificación de personas desaparecidas; conforme a lo establecido en el Capítulo Séptimo de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
-IX. Supervisar en forma continua, en coordinación con la Dirección de Informática, la base de datos de personas no localizadas o privadas de su libertad, para su debida depuración y actualización;
+La información registrada en el sistema informático al que se hace alusión en el párrafo anterior, será debidamente resguardada por la Procuraduría, con las medidas necesarias de seguridad y con el diseño adecuado para su intercambio con las instancias a las que se requieran;
 
-X. Ordenar la práctica de visitas de inspección o supervisión en las Agencias del Ministerio Público Especializadas en Atención a Personas No Localizadas o Privadas de su Libertad, para evaluar su funcionamiento;
+VIII. Supervisar en coordinación con las áreas correspondientes, el debido registro de información en el sistema al que hace referencia la fracción anterior;
 
-XI. Emitir la normatividad de aplicación general para el funcionamiento de las Agencias del Ministerio Público Especializadas en Atención a Personas No Localizadas o Privadas de su Libertad, estableciendo lineamientos para la actuación del Ministerio Público y para los operativos de investigación y búsqueda;
+IX. Ordenar a quien corresponda, la práctica de visitas de inspección o supervisión internas, en las Agencias del Ministerio Público y Unidades de Investigación Especializadas en los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para evaluar su funcionamiento; y dar vista a la Coordinación de Asuntos Internos de la Procuraduría, en los casos en que aquella deba intervenir;
 
-XII. Calificar las consultas de incompetencia por razón del territorio relativas a la especialización;
+X. Emitir la normatividad de aplicación general para el funcionamiento de las Agencias del Ministerio Público y Unidades de Investigación Especializadas en los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, generando y estableciendo criterios y metodología específica para los operativos de investigación y persecución de los delitos materia de la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas y búsqueda de personas desaparecidas;
 
-XIII. Llevar a cabo reuniones con familiares de personas no localizadas o con instancias u organismos públicos o privados que lo soliciten, que tengan acreditada su calidad de víctimas o la representación legal de éstas;
+XI. Calificar las consultas de incompetencia por razón del territorio o materia y, en su caso, remitir la investigación y las actuaciones realizadas a las autoridades competentes; así como calificar cualquier tipo de resolución propuesta por los Agentes del Ministerio Público que dé por concluida la carpeta de investigación correspondiente;
 
-XIV. Integrar las averiguaciones previas de la especialización que le encomiende el Procurador, así como las que por su naturaleza o circunstancias deban integrarse en la Fiscalía a su cargo;
+XII. Facilitar la participación de los familiares en la investigación de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y llevar a cabo reuniones periódicamente para brindar información a los familiares, instancias u organismos públicos o privados que lo soliciten y que tengan acreditada su calidad de víctimas o los representantes de éstas; sobre los avances en el proceso de la investigación y persecución de los delitos previstos en dicha Ley General, en términos del Código Nacional de Procedimientos Penales;
 
-XV. Dar vista a la Coordinación de Asuntos Internos, en los casos en que aquélla deba intervenir;
+XIII. Integrar las carpetas de investigación de la especialización que le encomiende el Procurador, así como las que por su naturaleza o circunstancias deban integrarse en la Fiscalía a su cargo;
 
-XVI. Coordinar y supervisar el debido cumplimiento del protocolo de Alerta Amber; y
+XIV. Dar vista a la Coordinación de Asuntos Internos de la Procuraduría, en los casos en que aquella deba intervenir;
 
-XVII. Las demás que otras disposiciones legales o el Procurador le confieran.
+XV. Coordinar y supervisar el debido cumplimiento del protocolo de Alerta Amber y el protocolo Alba;
+
+XVI. Aplicar cuestionarios ante mortem y verificar su digitalización en la plataforma respectiva en términos de lo previsto en el Protocolo Homologado;
+
+XVII. Solicitar informes y enviar alertas a dependencias federales y de las entidades federativas, así como coadyuvar con éstas en la búsqueda y localización de personas reportadas como desaparecidas;
+
+XVIII. Dar aviso de manera inmediata, a través del Registro Nacional de Personas Desaparecidas y No Localizadas, a la Comisión Nacional de Búsqueda de Personas sobre el inicio de una investigación de los delitos de desaparición forzada, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
+
+XIX. Mantener comunicación continua y permanente con la Comisión Nacional de Búsqueda de Personas y Comisión Estatal de Búsqueda de Personas, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
+
+XX. Informar de manera inmediata a la Comisión Nacional de Búsqueda de Personas o a la Comisión Estatal de Búsqueda de Personas, según sea el caso, la localización o identificación de una persona;
+
+XXI. Mantener comunicación continua y permanente con el Mecanismo de Apoyo Exterior y la Unidad de Investigación de Delitos para Personas Migrantes para recibir, recabar y proporcionar información sobre las acciones de investigación y persecución de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, cometidos en contra de personas migrantes;
+
+XXII. Requerir directamente la localización geográfica en tiempo real o la entrega de los datos conservados, en los términos establecidos en el Código Nacional de Procedimientos Penales;
+
+XXIII. Solicitar a la autoridad judicial competente la autorización para ordenar la intervención de comunicaciones, en términos de las disposiciones legales aplicables;
+
+XXIV. Realizar y comunicar sin dilación todos aquellos actos que requieran de autorización judicial que previamente hayan sido solicitados por la Comisión Estatal de Búsqueda de Personas, para la búsqueda y localización de una persona;
+
+XXV. Conformar grupos de trabajo interinstitucionales y multidisciplinarios para la coordinación de la investigación de hechos probablemente constitutivos de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, cuando de la información con la que cuente la autoridad se desprenda que pudieron ocurrir en dos o más entidades federativas o se trata de una persona extranjera en situación de migración, independientemente de su situación migratoria;
+
+XXVI. Solicitar el apoyo policial a las autoridades competentes, para realizar las tareas de investigación en campo;
+
+XXVII. Recabar la información necesaria para la persecución e investigación de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas u otras leyes;
+
+XXVIII. Remitir la investigación y las actuaciones realizadas a las autoridades competentes cuando advierta la comisión de uno o varios delitos diferentes a los previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+XXIX. Solicitar al Juez de Control competente las medidas cautelares que sean necesarias, de conformidad con el Código Nacional de Procedimientos Penales;
+
+XXX. Solicitar la participación de la Comisión Ejecutiva de Atención a Víctimas y la Comisión Estatal de Atención a Víctimas; así como a las instituciones y organizaciones de derechos humanos y de protección civil, en los términos de las disposiciones jurídicas aplicables;
+
+XXXI. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para poder hacer la entrega de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
+
+XXXII. Solicitar a las autoridades jurisdiccionales competentes la autorización para realizar exhumaciones en cementerios, fosas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cadáveres o restos humanos de personas desaparecidas;
+
+XXXIII. Solicitar a las autoridades jurisdiccionales competentes el traslado de las personas internas a otros centros de reclusión salvaguardando sus derechos humanos, siempre que esta medida favorezca la búsqueda o localización de las personas desaparecidas o a la investigación de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, en términos de la Ley Nacional de Ejecución Penal;
+
+XXXIV. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de las y los servidores públicos especializados en la materia;
+
+XXXV. Proponer al Procurador, los convenios de colaboración o cooperación para el óptimo cumplimiento de las atribuciones que le corresponden de conformidad a la presente Ley y a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+XXXVI. Entregar la información que la Comisión Ejecutiva de Atención a Víctimas y la Comisión Estatal de Atención a Víctimas le soliciten para mejorar la atención a las víctimas, en términos de lo que establezcan las disposiciones legales aplicables;
+
+XXXVII. Brindar la información que el Consejo Estatal Ciudadano solicite para el ejercicio de sus funciones, en términos de lo que establezcan las disposiciones legales aplicables;
+
+XXXVIII. Emitir criterios y metodología específica para la búsqueda permanente en centros penitenciarios, centros clandestinos de detención, estaciones migratorias, centros de salud y cualquier otro lugar donde se pueda presumir o pueda estar la persona desaparecida;
+
+XXXIX. Emitir criterios para la exhumación de los restos, de conformidad con los estándares internacionales, las sentencias y resoluciones nacionales e internacionales en materia de búsqueda e investigación de los casos de desaparición forzada;
+
+XL. Continuar con la investigación y persecución de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, aún cuando los familiares o persona legitimada haya solicitado la declaración especial de ausencia, salvo que haya certeza sobre la suerte o paradero de la persona o hasta que sus restos hayan sido encontrados y plenamente identificados;
+
+XLI. Concluir con la carpeta de investigación, sólo en el caso de que la persona haya sido localizada y no se haya cometido ningún delito;
+
+XLII. Identificar, localizar y notificar a los familiares, en caso de localizar a una persona sin vida, una vez que se haya logrado la identificación del cadáver o de los restos. En caso de que no se pueda identificar o localizar a algún familiar, se le denominará como persona identificada no reclamada, a fin de iniciar el proceso de localización de familiares conforme al protocolo correspondiente;
+
+XLIII. Dar aviso a la Comisión Nacional de Búsqueda de Personas o la Comisión Estatal de Búsqueda de Personas correspondiente, cuando se identifique a una persona que por circunstancias ajenas a su voluntad, desconoce o no recuerda sus datos de parentesco, identidad y domicilio, a efecto de que se verifique si su desaparición o no localización fue reportada en el Registro Nacional de Personas Desaparecidas o No Localizadas. En caso de no existir reporte o denuncia, la Comisión Nacional de Búsqueda de Personas o la Comisión Estatal de Búsqueda de Personas correspondiente deberán informarlo a la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, para incorporar los datos respectivos al Registro Nacional referido con antelación;
+
+XLIV. Brindar a los familiares de la persona desaparecida, a partir del momento en que se tenga conocimiento del hecho, las medidas de ayuda, asistencia y atención previstas en los Títulos Segundo, Tercero y Cuarto de la Ley General de Víctimas;
+
+XLV. Asegurar la cadena de custodia de la información e indicios, para su procesamiento, traslado, análisis y almacenamiento, conforme a lo previsto en el Código Nacional de Procedimientos Penales;
+
+XLVI. Tener acceso a la información sobre los datos forenses de los cadáveres o restos de personas no identificadas y no reclamadas, del lugar del hallazgo, el lugar de inhumación o destino final y demás información relevante para su posterior identificación; así como a las bases de datos de los registros forenses incluidos los de información genética;
+
+XLVII. Solicitar a la autoridad jurisdiccional en materia civil que corresponda según la competencia, a petición de los familiares, que emita la Declaración Especial de Ausencia en términos de las leyes aplicables;
+
+XLVIII. Establecer programas para la protección de las víctimas, los familiares y toda persona involucrada en el proceso de búsqueda de personas desaparecidas o no localizadas, investigación o proceso penal de los delitos materia de la Ley General en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, cuando su vida o integridad corporal pueda estar en peligro o puedan ser sometidas a actos de maltrato o intimidación por su intervención en dichos procesos, en términos de lo dispuesto en la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal o las leyes análogas;
+
+XLIX. Otorgar el apoyo ministerial, pericial, policial y de otras fuerzas de seguridad a las organizaciones de familiares y a familiares en las tareas de búsqueda de personas desaparecidas en campo, garantizando todas las medidas de protección a su integridad física; también deberán otorgar como medida urgente de protección, con apoyo de la Comisión Ejecutiva de Atención a Víctimas y la Comisión Estatal de Atención a Víctimas, la reubicación temporal, la protección de inmuebles, la escolta de cuerpos especializados y las demás que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere la fracción anterior, conforme a los procedimientos y con las autorizaciones aplicables;
+
+L. Otorgar con apoyo de la Comisión Ejecutiva de Atención a Víctimas y la Comisión Estatal de Atención a Víctimas, como medida de protección para enfrentar el riesgo, la entrega de equipo celular, radio o telefonía satelital, instalación de sistemas de seguridad en inmuebles, vigilancia a través de patrullajes, entrega de chalecos antibalas, detector de metales, autos blindados, y demás medios de protección que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere la fracción XLVIII del presente artículo, conforme a la legislación aplicable;
+
+Cuando se trate de personas defensoras de los derechos humanos o periodistas se estará también a lo dispuesto en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas;
+
+LI. Autorizar la incorporación a los programas de protección de las personas a que se refiere la fracción XLVIII del presente artículo;
+
+LII. Ejercer las atribuciones previstas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometidas por Particulares y de Sistema Nacional de Búsqueda de Personas y su Reglamento; y
+
+LIII. Las demás que otras disposiciones legales aplicables o el Procurador le confieren.
 
 ###### ARTICULO 16.
 
@@ -1384,6 +1510,200 @@ V. Definir y proponer a la superioridad, los mecanismos y estrategias necesarios
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Las demás que deriven de los ordenamientos federales, estatales, acuerdos del titular del Ejecutivo del Estado y del Procurador.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 27 Sexies.
+
+La Comisión Estatal de Búsqueda es un órgano desconcentrado de la Procuraduría, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas y No Localizadas, en todo el territorio estatal, de conformidad con lo dispuesto en esta Ley y la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas. Tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
+
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión Estatal de Búsqueda para el cumplimiento de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 27 Sépties.
+
+La Comisión Estatal de Búsqueda está a cargo de una persona Titular designada por el Congreso del Estado Libre y Soberano de Tamaulipas, previa consulta pública a los colectivos de Víctimas, personas expertas y organizaciones de la sociedad civil especializadas en la materia. Para ser Titular se requiere:
+
+I. Ser ciudadana o ciudadano mexicano;
+
+II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+
+III. Contar con título profesional;
+
+IV. No haber desempeñado cargo de dirigente nacional o estatal en algún partido político, dentro de los dos años previos a su nombramiento;
+
+V. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, por lo menos en los dos años previos a su nombramiento, y
+
+VI. Contar con conocimientos y experiencia en derechos humanos y búsqueda de personas, y preferentemente con conocimientos en ciencias forenses o investigación criminal.
+
+En el nombramiento de la persona Titular de la Comisión Estatal de Búsqueda, debe garantizarse el respeto a los principios que prevé la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, especialmente los de enfoque transversal de género, diferencial y de no discriminación.
+
+La persona Titular de la Comisión Estatal de Búsqueda no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 27 Octies.
+
+La Comisión Estatal de Búsqueda de Personas, tendrá las siguientes atribuciones:
+
+I. Elaborar y presentar el anteproyecto de presupuesto anual de la Comisión Estatal de Búsqueda de Personas al Procurador, para su incorporación en el Presupuesto de Egresos del Estado;
+
+II. Emitir y ejecutar el Programa Estatal de Búsqueda, rector en la materia, de conformidad con lo dispuesto en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+III. Emitir los lineamientos que regulen el funcionamiento del Registro Estatal de Personas Desaparecidas y No Localizadas y coordinar la operación del mismo, en términos de lo que establezca la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y las leyes aplicables;
+
+IV. Atender y formular solicitudes a las instituciones de seguridad pública, previstas en la Ley General del Sistema Nacional de Seguridad Pública, a efecto de cumplir con su objeto;
+
+V. Solicitar el acompañamiento de las instancias policiales de los tres órdenes de gobierno, así como del personal al que se refiere el artículo 67 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, cuando sea necesario que el personal de la Comisión Estatal de Búsqueda de Personas realice trabajos de campo;
+
+VI. Integrar, cada tres meses, un informe sobre los avances y resultados de la verificación y supervisión en el cumplimiento del Programa Estatal de Búsqueda, de conformidad con lo previsto en el artículo 56 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+VII. Presentar al Consejo Estatal de Seguridad Pública, los informes sobre los avances y resultados de la verificación y supervisión en el cumplimiento del Programa Estatal de Búsqueda, en coordinación con las autoridades competentes;
+
+VIII. Emitir los protocolos rectores que sean necesarios para el cumplimiento de sus funciones;
+
+IX. Promover la revisión y actualización del Protocolo Homologado de Búsqueda;
+
+X. Diseñar y proponer mecanismos de coordinación y colaboración con las demás autoridades de los diferentes órdenes de gobierno, a efecto de llevar a cabo las acciones en la búsqueda de personas desaparecidas o no localizadas;
+
+XI. Asesorar y canalizar a los familiares ante la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas para que, de ser el caso, realicen la denuncia correspondiente;
+
+XII. Determinar y, en su caso, ejecutar, las acciones de búsqueda que correspondan, a partir de los elementos con que cuente, de conformidad con el protocolo aplicable. Dar seguimiento a las acciones de búsqueda, atendiendo a las características propias del caso, así como a las circunstancias de ejecución o la relevancia social del mismo;
+
+XIII. Acceder sin restricciones a la información contenida en plataformas, bases de datos y registros de todas las autoridades para realizar la búsqueda de la persona desaparecida o no localizada, de conformidad con las disposiciones legales aplicables;
+
+XIV. Emitir los lineamientos para acceder a la información a que se refiere la fracción anterior;
+
+XV. Solicitar a la Policía Estatal, que se realicen acciones específicas de búsqueda de personas desaparecidas o no localizadas;
+
+XVI. Solicitar la colaboración de los tres órdenes de gobierno y otras instancias, para la búsqueda y localización de personas desaparecidas o no localizadas;
+
+XVII. Mantener comunicación con autoridades estatales y municipales, y establecer enlaces cuando lo estime pertinente o por recomendación del Consejo Estatal Ciudadano;
+
+XVIII. Integrar grupos de trabajo para proponer acciones específicas de búsqueda, así como analizar el fenómeno de desaparición, incluso a nivel regional;
+
+XIX. Mantener reuniones periódicas y comunicación continua con las personas titulares de las Comisiones Locales de Búsqueda de Personas de otras entidades federativas, a fin de intercambiar experiencias y buscar las mejores prácticas para la localización de personas;
+
+XX. Dar aviso de manera inmediata a la fiscalía especializada que corresponda, sobre la existencia de información relevante y elementos que sean útiles para la investigación de los delitos materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y otras leyes, de conformidad con el Protocolo Homologado de Búsqueda;
+
+XXI. Colaborar con las instituciones de procuración de justicia en la investigación y persecución de otros delitos;
+
+XXII. Solicitar la colaboración de medios de comunicación, organizaciones de la sociedad civil y de la sociedad en general, para la búsqueda y localización de personas desaparecidas o no localizadas, de conformidad con la normativa aplicable;
+
+XXIII. Mantener comunicación continua con las fiscalías especializadas de otras entidades federativas para la coordinación de acciones de búsqueda y localización, a partir de la información obtenida en la investigación de los delitos materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+XXIV. Evaluar las políticas y estrategias para la búsqueda y localización de personas desaparecidas o no localizadas, así como vigilar su cumplimiento por parte de las instituciones estatales;
+
+XXV. Conocer y opinar sobre las políticas y estrategias para la identificación de personas localizadas con vida y personas fallecidas localizadas en fosas comunes y clandestinas, así como vigilar su cumplimiento por parte de las instituciones estatales;
+
+XXVI. Celebrar, de conformidad con las disposiciones legales aplicables, convenios de coordinación, colaboración y concertación, o cualquier otro instrumento jurídico necesarios para el cumplimiento de los objetivos del Sistema Nacional de Búsqueda de Personas, así como de sus atribuciones;
+
+XXVII. Disponer de un número telefónico, así como de cualquier otro medio de comunicación de acceso gratuito para proporcionar información, sin necesidad de cumplir con formalidad alguna, para contribuir en la búsqueda de personas desaparecidas o no localizadas;
+
+XXVIII. Solicitar a los concesionarios de radiodifusión y telecomunicaciones, de conformidad con la legislación en la materia, dentro de las transmisiones correspondientes a los tiempos del Estado, y por conducto de la autoridad competente, y previa autorización de los familiares, la difusión de boletines relacionados con la búsqueda de personas desaparecidas o no localizadas;
+
+XXIX. Establecer acciones de búsqueda específicas para las desapariciones de personas vinculadas con movimientos políticos.
+
+En caso de que durante las acciones de búsqueda se encuentre algún indicio de la probable comisión de un delito, se dará aviso inmediato a la fiscalía correspondiente;
+
+XXX. Establecer medidas extraordinarias y emitir alertas cuando en el Estado o algún municipio se aumente significativamente el número de desapariciones, que serán atendidas por las autoridades competentes a quienes vayan dirigidas;
+
+XXXI. Diseñar, en colaboración con las Comisiones Locales de Búsqueda de Personas de otras entidades federativas, programas regionales de búsqueda de personas;
+
+XXXII. Dar seguimiento y, en su caso, atender las recomendaciones y sentencias de órganos internacionales de derechos humanos, en los temas relacionados con la búsqueda de personas;
+
+XXXIII. Dar seguimiento y atender a las recomendaciones del Consejo Estatal Ciudadano, en los temas relacionados con las funciones y atribuciones de la Comisión Estatal de Búsqueda de Personas;
+
+XXXIV. Recibir la información que aporten los particulares en los casos de desaparición forzada de personas y desaparición cometida por particulares y remitir, en su caso, a la fiscalía especializada competente;
+
+XXXV. Dar vista al Ministerio Público y a las autoridades competentes en materia de responsabilidades administrativas de las y los servidores públicos, sobre las acciones u omisiones que puedan constituir una violación a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+XXXVI. Establecer mecanismos de comunicación, participación y evaluación con la sociedad civil y los familiares para que coadyuven con los objetivos, fines y trabajos de la Comisión Estatal de Búsqueda de Personas, en los términos que prevean las leyes;
+
+XXXVII. Solicitar a la Comisión Ejecutiva de Atención a Víctimas y la Comisión Estatal de Atención a Víctimas, que implementen los mecanismos necesarios para que a través del Fondo de Ayuda, Asistencia y Reparación Integral correspondiente, se cubran los gastos de ayuda cuando lo requieran los familiares de las personas desaparecidas por la presunta comisión de los delitos materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de conformidad con la ley en la materia;
+
+XXXVIII. Incorporar a los procesos de búsqueda relacionados con personas desaparecidas o no localizadas, a expertos independientes o peritos internacionales, cuando no cuente con personal estatal capacitado en la materia y lo considere pertinente o así lo soliciten los familiares. Dicha incorporación se realizará de conformidad con las leyes aplicables;
+
+XXXIX. Elaborar diagnósticos periódicos, que permitan conocer e identificar modos de operación, prácticas, patrones de criminalidad, estructuras delictivas y asociación de casos que permitan el diseño de acciones estratégicas de búsqueda;
+
+XL. Elaborar diagnósticos periódicos, que permitan conocer la existencia de características y patrones de desaparición, de conformidad con el principio de enfoque diferenciado;
+
+XLI. Suministrar, sistematizar, analizar y actualizar la información de hechos y datos sobre la desaparición de personas, así como de los delitos en materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+XLII. Elaborar informes de análisis de contexto que incorporen a los procesos de búsqueda, elementos sociológicos, antropológicos y victimológicos, a fin de fortalecer las acciones de búsqueda;
+
+XLIII. Realizar las acciones necesarias para recabar y cruzar la información contenida en las bases de datos y registros que establece la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como con la información contenida en otros sistemas que puedan contribuir en la búsqueda, localización e identificación de una persona desaparecida o no localizada;
+
+XLIV. Emitir conforme a los más altos estándares internacionales, los criterios de capacitación, certificación y evaluación del personal que participe en las acciones de búsqueda de personas desaparecidas y no localizadas;
+
+XLV. Tomar las acciones necesarias a efecto de garantizar la búsqueda de personas en todo el territorio del Estado, independientemente de aquellas que se hayan iniciado localmente;
+
+XLVI. Promover, en términos de lo dispuesto en la Ley de Amparo y otras disposiciones legales aplicables, las medidas necesarias para lograr la protección de aquellas personas desaparecidas cuya vida, integridad o libertad se encuentre en peligro;
+
+XLVII. Las demás que prevea la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y su Reglamento; y
+
+XLVIII. Las demás que otras disposiciones legales aplicables o el Procurador le confieran.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 27 Nonies.
+
+La Comisión Estatal de Búsqueda de Personas, para realizar sus actividades, deben contar como mínimo con:
+
+I. Grupo especializado de búsqueda, cuya regulación y funciones se encuentran en el artículo 66 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+II. Área de Análisis de Contexto, la cual desempeñará, además de las funciones que la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas u otras disposiciones jurídicas le asignen, las atribuciones a que se refieren las fracciones XXXIX, XL, XLI y XLII del artículo 27 Octies de esta Ley;
+
+III. Área de Gestión y Procesamiento de Información, la cual desempeñará, además de las funciones que la Ley General u otras disposiciones jurídicas le asignen, la atribución a que se refiere la fracción XLII del artículo 27 Octies de esta Ley; y
+
+IV. La estructura administrativa y el personal necesarios para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 27 Decies.
+
+El Consejo Ciudadano es un órgano ciudadano de consulta en materia de búsqueda de personas y estará integrado por:
+
+I. Cinco familiares que representen a los familiares de las personas desaparecidas o no localizadas;
+
+II. Cinco especialistas de reconocido prestigio en la protección y defensa de los derechos humanos, la búsqueda de Personas Desaparecidas o No Localizadas o en la investigación y persecución de los delitos previstos en la Ley General. Se procurará que uno de los especialistas siempre sea en materia forense.
+
+III. Cinco representantes de organizaciones de la sociedad civil de derechos humanos que cuenten con experiencia en el tema de desaparición y búsqueda de personas.
+
+Los integrantes a que se refieren las fracciones anteriores deben ser nombrados por el Congreso del Estado previa consulta pública con las organizaciones de familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de víctimas y expertos en las materia previstos en la Ley Estatal y General.
+
+La duración de su función será de tres años, sin posibilidad de reelección, y no deberán desempeñar ningún cargo como servidor público.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 27 Undecies.- Los integrantes del Consejo Ciudadano ejercerán su función en forma honorífica, y no deben recibir emolumento o contraprestación económica alguna por su desempeño.
+
+Las decisiones que el Consejo Ciudadano adopte son públicas, en apego a la legislación de transparencia y protección de datos personales.
+
+El Consejo Ciudadano emitirá sus reglas de organización y funcionamiento en las que determinará los requisitos y procedimientos para designar quien coordine los trabajos de sus sesiones, así como, nombrar a su Secretario Técnico, la convocatoria a sus sesiones bimestrales y contenidos del orden del día de cada sesión.
+
+Las recomendaciones, propuestas y opiniones del Consejo Estatal deberán ser comunicadas a la Comisión Estatal y deberán ser consideradas para la toma de decisiones. Y en el caso de que la Comisión Estatal determine no adoptar las recomendaciones que formule el Consejo Estatal, deberá explicar las razones para ello.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 27 Duodecies.- El Consejo Ciudadano tiene las funciones siguientes:
+
+I. Solicitar información relacionada a los procedimientos de búsqueda y localización a la Comisión Estatal;
+
+II. Proponer a la Comisión Estatal y en su caso acompañar las acciones para acelerar o profundizar sus acciones, en el ámbito de sus competencias;
+
+III. Conocer y emitir recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas y reglamentos que emita la Comisión Estatal;
+
+IV. Contribuir, de acuerdo a lo establecido en el presente Decreto, a la participación directa de los familiares en el ejercicio de sus atribuciones; y
+
+V. Dar vista a la Comisión Estatal, o de ser necesario a las autoridades competentes y órganos internos de control sobre las irregularidades en las actuaciones de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas;
+
+VI. Dar seguimiento y emitir recomendaciones sobre la integración y operación de la Comisión Estatal la implementación del Programa Nacional de Búsqueda de Personas Desaparecidas;
+
+VII. Elaborar, aprobar y modificar la guía de procedimientos del Comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión Estatal;
+
+VIII. Las demás que señale sus Reglas de Funcionamiento.
 
 ###### ARTICULO 28.
 
@@ -3832,3 +4152,83 @@ El Congreso del Estado realizará las acciones necesarias para proveer de recurs
 ###### ARTÍCULO CUARTO.
 
 Todas las disposiciones que se opongan al presente Decreto quedarán derogadas a partir de su entrada en vigor.
+
+P.O. 23 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-475 MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la designación del Titular de la Comisión Estatal de Búsqueda de Personas.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 120 días naturales posteriores a la entrada en vigor del presente Decreto, deberá entrar en funciones la Comisión Estatal de Búsqueda de Personas y emitir el Protocolo de Búsqueda para el Estado.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Tamaulipas emitirá la consulta pública para la integración y designación de los Consejeros Honoríficos del Consejo Estatal Ciudadano.
+
+###### ARTÍCULO QUINTO.
+
+En un periodo de dos años a partir de la creación de la Comisión Estatal de Búsqueda de Personas, el Titular del Poder Ejecutivo del Estado emitirá el Acuerdo Gubernamental mediante el cual se crea dicha Comisión como un Organismo Público Descentralizado del Gobierno del Estado de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+Los procesos penales iniciados con fundamento en dicha legislación, así como las sentencias emitidas con base en la misma, no serán afectados por la entrada en vigor de dichas leyes generales. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de éstas últimas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+TRANSITORIOS RELACIONADOS CON LA OPERACIÓN DE LA UNIDAD ESPECIALIZADA EN LA INVESTIGACIÓN DEL DELITO DE TORTURA.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, adoptará y publicará los protocolos y criterios que refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO NOVENO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, pondrá en marcha el Registro Estatal correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, iniciará los programas de capacitación continua de las y los servidores públicos, conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la Unidad Especializada en la Investigación del Delito de Tortura, realizará las gestiones necesarias y llevará a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las instituciones de procuración de justicia, la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+TRANSITORIOS RELACIONADOS CON LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las y los servidores públicos adscritos a la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, deberán estar certificados dentro del año posterior a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas, deberá contar con el sistema informático al que hace alusión la fracción VII del artículo 15 Quáter de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+En tanto comiencen a operar los registros de personas desaparecidas o no localizadas, se deberá incorporar en un registro provisional, electrónico o impreso, la información de las denuncias recibidas.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se deberá migrar la información contenida en los registros provisionales a que se refiere el artículo anterior, dentro de los 15 días siguientes a que comiencen a operar los registros de personas desaparecidas y no localizadas.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Dentro de los 180 días siguientes a que se emitan los lineamientos y protocolos correspondientes, la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas deberá emitir los propios para su correcto funcionamiento.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+La Dirección de Administración de la Procuraduría General de Justicia del Estado deberá realizar las gestiones necesarias para que se provea de recursos materiales, humanos, técnicos, presupuestales para el correcto funcionamiento y capacitación de la Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento, se continuará con la estructura y presupuesto con que cuenta la Fiscalía de Personas No Localizadas o Privadas de su Libertad de la Procuraduría General de Justicia del Estado.
