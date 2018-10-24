@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2018-01-08"
+last_updated: "2018-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -71,7 +71,9 @@ Para los efectos de la presente Ley de Acceso de las Mujeres a una Vida Libre de
 
 I. Ley: Se entiende Ley de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-II. Violencia contra la mujer: cualquier acción u omisión, basada fundamentalmente en su género, que le cause daño o sufrimiento psicológico, físico, sexual, patrimonial, económico o la muerte, tanto en el ámbito privado como en el público;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
+II. Violencia contra la mujer: cualquier acción u omisión, basada fundamentalmente en su género, como la discriminación o la discriminación múltiple o agravada, y cualquier otra que atente contra su dignidad humana, que le cause daño o sufrimiento psicológico, físico, sexual, patrimonial, económico o la muerte, tanto en el ámbito privado como en el público;
 
 III. Programa: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
@@ -87,11 +89,21 @@ VII. Desarrollo Integral de las Mujeres: proceso mediante el cual las mujeres tr
 
 VIII. Refugios: Centros de alta seguridad con atención y protección multidisciplinaria para mujeres, niñas, niños y adolescentes e incapaces víctimas de violencia.
 
-IX. Derechos Humanos de las Mujeres: los derechos que son parte inalienable de la persona, integrante e indivisible de los derechos humanos universales contenidos en los instrumentos nacionales e internacionales en la materia, vigentes en el país;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
-X. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia; y
+IX. Derechos Humanos de las Mujeres: los derechos que son parte inalienable de la persona, integrante e indivisible de los derechos humanos universales contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, y los instrumentos nacionales e internacionales en la materia, vigentes en el País;
 
-XI. Transversalidad: acción de gobierno para el ejercicio e implementación de políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Estatal o Municipal según sea el caso para la ejecución de programas y acciones coordinadas o conjuntas y en las realizadas por los sectores privado y social.
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
+X. Discriminación a la mujer: Tipo de violencia contra la mujer motivada por su origen étnico o nacional, su género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra su dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
+XI. Discriminación Múltiple o Agravada: Tipo de violencia contra la mujer causada por cualquier preferencia, distinción, exclusión o restricción a sus derechos, de forma concaminante, en dos o más motivos de discriminación, que tenga por objetivo o efecto anular o limitar, el reconocimiento, goce o ejercicio, en condiciones de igualdad, de uno o más derechos humanos y libertades fundamentales reconocidos, en cualquier ámbito de la vida pública o privada;
+
+XII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia; y
+
+XIII. Transversalidad: acción de gobierno para el ejercicio e implementación de políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Estatal o Municipal según sea el caso para la ejecución de programas y acciones coordinadas o conjuntas y en las realizadas por los sectores privado y social.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -297,11 +309,21 @@ El Estado y los Municipios se coordinarán para la integración y funcionamiento
 
 Todas las medidas que lleven a cabo las autoridades estatales y municipales deberán ser realizadas sin discriminación alguna, para que todas las personas puedan acceder a las políticas públicas en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 26.
 
-El Sistema se integrará por las y los titulares de las siguientes dependencias y entidades:
+El Sistema Estatal se conformará por las o los titulares y representantes de las siguientes instancias:
 
 I. Secretaría General de Gobierno, quien lo presidirá;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
+I Bis. Un representante del Congreso del Estado quien será el Presidente de la Comisión para la Igualdad de Género;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
+I Bis 1. Un representante del Tribunal Superior de Justicia;
 
 II. Instituto Estatal de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
 
@@ -319,15 +341,27 @@ VII. Secretaría de Salud;
 
 VIII. Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
-IX. Secretaría de Trabajo;
+IX. Secretaría de Economía y Trabajo;
 
 X. El Sistema para el Desarrollo Integral de la Familia;
 
-XI. El Instituto Estatal de la Juventud; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
 
-XII. La Dependencia, Organismo Descentralizado o Unidad Administrativa cuyo objetivo sea la promoción del desarrollo integral de las mujeres por cada uno de los Municipios del Estado, que cuenten con éstos.
+XI. El Instituto Estatal de la Juventud;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
+XI Bis. Consejo para la Cultura y las Artes de Nuevo León;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
+XII. La Dependencia, Organismo Descentralizado o Unidad Administrativa cuyo objetivo sea la promoción del desarrollo integral de las mujeres por cada uno de los Municipios del Estado, que cuenten con éstos; y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+
+XIII. Dos representantes de la sociedad civil con experiencia en la materia regulada por la presente ley, designados por el Ejecutivo a propuesta del Instituto.
 
 Los integrantes del Sistema tendrán voz y voto y podrán ser representados en sus ausencias por un suplente que designen para este efecto.
 
@@ -731,6 +765,34 @@ IV. Coadyuvar con los objetivos de esta Ley; y
 
 V. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 42 Bis.
+
+Corresponde al Consejo para la Cultura y las Artes de Nuevo León:
+
+I. Definir y difundir en las políticas culturales los principios de equidad y no exclusión entre mujeres y hombres, y el respeto pleno a los derechos humanos;
+
+II. Incluir en los programas culturales de todas las disciplinas artísticas, aspectos que fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad;
+
+III. Impulsar acciones y mecanismos de participación de las mujeres en todos sus programas y actividades.
+
+IV. Promover el derecho de las niñas y mujeres para realizar actividades creativas sin perjuicios de género;
+
+V. Propiciar la investigación en los procesos creativos de las disciplinas artísticas, encaminada a crear modelos de detección de violencia contra las mujeres en el ámbito profesional;
+
+VI. Incorporar en los programas culturales el respeto a los derechos humanos de las mujeres, así como contenidos temáticos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres, sin perjuicio de la libertad creativa de los autores intérpretes o ejecutantes;
+
+VII. Propiciar la capacitación al personal de recintos culturales y de atención al público para poder detectar problemas de violencia contra las mujeres;
+
+VIII. Propiciar la elaboración de materiales que promuevan la prevención y atención a la violencia contra las mujeres, en la difusión de actividades culturales y programas de mano de los eventos culturales;
+
+IX. Propiciar acciones formativas a todo el personal de los recintos culturales, en materia de derechos humanos de las niñas y las mujeres, y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+X. Promover un sentido crítico en actividades culturales que tengan referencias relacionadas con la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen negativamente y fomenten la desigualdad entre mujeres y hombres, sin menoscabo del derecho de los autores, intérpretes o ejecutantes;
+
+XI. Las demás previstas para el cumplimiento de la presente Ley.
+
 ###### Artículo 43.
 
 Corresponde a los Municipios, de conformidad con esta Ley y acorde con la perspectiva de género y al principio de transversalidad, las siguientes atribuciones:
@@ -986,3 +1048,15 @@ En caso de que los recursos aportados al fondo no sean suficientes para garantiz
 Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
 
 El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de (sic) fondo antes descrito antes del 1 de febrero del 2018.
+
+P.O. 24 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 3. SE REFORMAN LAS FRACCIONES LL (SIC) Y IX Y SE ADICIONAN LAS FRACCIONES X Y XI, RECORRIÉNDOSE LAS SUBSECUENTES PARA SER XII Y XIII DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 4. SE REFORMA EL ARTÍCULO 26 EN SU PRIMER PÁRRAFO; ASÍ COMO SUS FRACCIONES IX, XI Y XII, SE ADICIONAN LAS FRACCIONES I BIS Y I BIS 1 Y XI BIS DEL MISMO ARTÍCULO 26; SE ADICIONA UN ARTÍCULO 42 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
