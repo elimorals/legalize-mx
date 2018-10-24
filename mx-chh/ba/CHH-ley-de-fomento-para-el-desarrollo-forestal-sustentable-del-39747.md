@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-3974
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-22"
-last_updated: "2014-10-22"
+last_updated: "2018-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 24 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de mayo de 2004.
 
@@ -1028,3 +1030,27 @@ P.O. 22 DE OCTUBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/EXLEY/0868/2018 XVII P.E. LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 41 de fecha 22 de mayo de 2004.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal, deberá crear el Reglamento de esta Ley, dentro de los 180 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo Estatal, deberá crear el instrumento señalado en el artículo 64 de este Decreto, dentro de los 365 días posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal, deberá crear los Reglamentos de los Consejos Estatal y Municipales, para lo cual tomará en cuenta las opiniones de las Asociaciones Forestales de la Entidad.
