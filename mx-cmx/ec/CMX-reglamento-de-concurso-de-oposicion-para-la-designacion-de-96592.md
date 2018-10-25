@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-concurso-de-oposicion-para-la-designacion-de-9659
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-15"
-last_updated: "2013-12-02"
+last_updated: "2018-10-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96592&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2013-10-08"
 ---
 # REGLAMENTO DE CONCURSO DE OPOSICION PARA LA DESIGNACION DE JUECES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL NUEVO REGLAMENTO Y LINEAMIENTOS DEL CONCURSO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUEZAS Y JUECES DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO DE CONCURSO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUECES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE OCTUBRE DE 2018 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de noviembre de 2013.
 
@@ -603,3 +605,19 @@ LIC. ALFREDO ÁLVAREZ CÁRDENAS
 G.O. 2 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
+
+G.O. 25 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL NUEVO REGLAMENTO Y LINEAMIENTOS DEL CONCURSO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUEZAS Y JUECES DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento y sus Lineamientos entrarán en vigor al día siguiente de su publicación en el Boletín Judicial. Para su mayor difusión, publíquese en la Gaceta Oficial de la Ciudad de México por una sola vez.
+
+###### ARTÍCULO SEGUNDO.
+
+Derivado de la autorización del presente reglamento, queda sin efectos el Acuerdo Plenario 19-43/2013 emitido en sesión de fecha veinticuatro de septiembre de dos mil trece, por el Pleno del Consejo de la Judicatura del Distrito Federal (hoy Ciudad de México), en el que se autorizaron los documentos denominados "Reglamento de Concurso de Oposición para la designación de Jueces del Tribunal Superior de Justicia del Distrito Federal" y "Lineamientos relativos a la etapa de evaluación establecidos en el Reglamento de Concurso de Oposición para la designación de Jueces del Tribunal Superior de Justicia del Distrito Federal".
+
+###### ARTÍCULO TERCERO.
+
+Los Concursos de Oposición del Tribunal Superior de Justicia de la Ciudad de México que hayan iniciado antes de la entrada en vigor del presente Reglamento, seguirán siendo regulados por la normatividad vigente al momento de su inicio, salvaguardándose todos los derechos de las y los concursantes.
