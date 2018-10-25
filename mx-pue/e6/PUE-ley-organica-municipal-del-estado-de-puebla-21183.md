@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2018-08-31"
+last_updated: "2018-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -603,7 +605,7 @@ Para que un centro de población sea elevado a la categoría de ciudad, villa o 
 
 I.- Que tenga la población y servicios siguientes:
 
-a) CIUDAD: Centro de población que tenga conforme al último censo un mínimo de 20,000 habitantes, y que por lo mismo cuente con las siguientes funciones y servicios públicos: energía eléctrica, agua potable, planta ablandadora o de tratamiento de agua, red de drenaje y alcantarillado, trazado urbano, calles pavimentadas, alumbrado público, terminal de autobuses, transporte público, auditorio, servicios de telefonía, correo, telégrafo, limpia, recolección, traslado, tratamiento y disposición final de residuos, mercados y centrales de abasto, panteones, rastro, cárcel municipal, parques y jardines y su equipamiento, seguridad pública, lugares para la práctica de deportes, servicios médicos, hospitales, planteles educativos de enseñanza preescolar, primaria, secundaria y media superior;
+a) CIUDAD: Centro de población que tenga conforme al último censo un mínimo de 20,000 habitantes, y que por lo mismo cuente con las siguientes funciones y servicios públicos: energía eléctrica, agua potable, planta ablandadora o de tratamiento de agua, red de drenaje y alcantarillado, trazado urbano, calles pavimentadas, alumbrado público, terminal de autobuses, transporte público, auditorio, servicios de telefonía, correo, telégrafo, limpia, recolección, traslado, tratamiento y disposición final de residuos, mercados y centrales de abasto, panteones, rastro, cárcel municipal, parques y jardines y su equipamiento, seguridad pública, lugares para la práctica de deportes, servicios médicos, hospitales, planteles educativos de enseñanza preescolar, primaria, secundaria y media superior.
 
 El objetivo de este centro de población debe ser el fortalecimiento del desarrollo regional y evitar las concentraciones excesivas en pocas zonas de influencia, por funcionar como articulador e integrador de otras localidades;
 
@@ -1381,7 +1383,7 @@ XXXVII.- Decretar la demolición de las obras que se ejecuten sin autorización;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
 
-XXXVIII.- Celebrar Convenios y actos para la mejor administración del Municipio, así como lo previsto en el artículo 206 de este ordenamiento;
+XXXVIII.- Celebrar Convenios y actos para la mejor administración del Municipio, así como lo previsto en el artículo 206 de este ordenamiento.
 
 XXXIX.- Formular y aprobar, de acuerdo con las leyes federales y estatales, la zonificación y Planes de Desarrollo Urbano Municipal;
 
@@ -1685,9 +1687,9 @@ XV.- Reunir oportunamente los datos estadísticos de la Municipalidad y difundir
 
 XVI.- Exigir de los encargados de las oficinas respectivas, las noticias que periódicamente y por disposición de Ley tienen obligación de rendir;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2018)</small>
 
-XVII.- Coadyuvar con las autoridades del Registro del Estado Civil de las Personas en términos de las disposiciones aplicables;
+XVII.- Ejercer las facultades de Juez del Registro del Estado Civil de las Personas por Ministerio de Ley, en términos de las disposiciones aplicables;
 
 XVIII.- Suplir a los menores de edad el consentimiento que necesiten para contraer matrimonio, excepto en la Capital del Estado, en los casos de irracional negativa de los ascendientes o tutores. En estos casos oirán a los que hayan negado el consentimiento y al Ministerio Público;
 
@@ -3509,9 +3511,11 @@ VII.- Coadyuvar con el Ayuntamiento respecto a la conservación de los bosques, 
 
 VIII.- Gestionar ante el Ayuntamiento, la construcción y conservación de las fuentes y surtidores públicos de agua y que haya abundancia de este líquido tanto para el consumo de las personas como para abrevadero de los ganados;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE OCTUBRE DE 2018)</small>
 
-IX.- Coadyuvar con las autoridades del Registro del Estado Civil de las Personas en términos de las disposiciones aplicables.
+IX.- Ejercer las facultades de Juez del Registro del Estado Civil de las Personas por Ministerio de Ley, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
 
 Los Presidentes Auxiliares serán responsables penal y administrativamente por las faltas en las que incurran en la prestación de este servicio; y
 
@@ -4140,3 +4144,13 @@ P.O. 31 DE AGOSTO DE 2018.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 91 Y LA IX DEL ARTÍCULO 231, AMBOS DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Poder Ejecutivo Estatal, en el ámbito de su competencia, realizará las acciones necesarias para el cumplimiento del presente Decreto.
