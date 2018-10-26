@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2018-02-09"
+last_updated: "2018-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE FEBRERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -571,7 +571,7 @@ V. Regular los sistemas de recolección, transporte, almacenamiento, manejo, tra
 
 VI. Prevenir, medir y controlar la contaminación generada por la emisión de ruidos, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales, que puedan dañar el equilibrio ecológico o el ambiente en el territorio del Estado, provenientes de fuentes fijas o móviles, dentro de la esfera de competencia que le otorgue la Ley;
 
-VII.- Emitir y aplicar los lineamientos, criterios y normas ambientales en las materias y actividades que causen o puedan causar desequilibrios ecológicos o daños al ambiente en el Estado, con la participación de los Municipios y de la sociedad en general;
+VII. Emitir y aplicar los lineamientos, criterios y normas ambientales en las materias y actividades que causen o puedan causar desequilibrios ecológicos o daños al ambiente en el Estado, con la participación de los Municipios y de la sociedad en general;
 
 VIII. Regular, promover y supervisar el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tenga asignadas el Estado;
 
@@ -637,7 +637,7 @@ XXXVII. Establecer y operar el registro de emisiones y transferencia de contamin
 
 XXXVIII. Promover el uso de fuentes de energía alterna, así como de sistemas y equipos para prevenir o reducir las emisiones contaminantes de los vehículos en los que se preste el servicio público local de transporte de pasajeros o carga, así como procurar su utilización en los demás tipos de automotores;
 
-XXXIX Formular los listados de las actividades riesgosas, así como de las obras o actividades que generen impacto ambiental significativo;
+XXXIX. Formular los listados de las actividades riesgosas, así como de las obras o actividades que generen impacto ambiental significativo;
 
 XL. Expedir el registro de los prestadores de servicios en materia ambiental;
 
@@ -773,7 +773,7 @@ VI. La prevención y control de la contaminación de la atmósfera proveniente d
 
 VII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y en su caso, la expedición de las autorizaciones correspondientes;
 
-VIII.- La realización de acciones operativas tendientes a cumplir con los fines previstos en la Ley General; o
+VIII. La realización de acciones operativas tendientes a cumplir con los fines previstos en la Ley General; o
 
 IX. La inspección y vigilancia del cumplimiento de la Ley General y demás ordenamientos federales aplicables, así como en aquellos que de los mismos deriven.
 
@@ -1949,6 +1949,10 @@ Para el aprovechamiento sustentable del agua y los ecosistemas acuáticos se con
 
 I. Corresponde al Estado, a los Municipios y a la sociedad, la protección de los ecosistemas acuáticos y del equilibrio de los elementos naturales que intervienen en el ciclo hidrológico;
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2018)</small>
+
+El Gobierno del Estado en conjunto con los Municipios, podrán celebrar convenios de coordinación con la Federación para participar en acciones que fomenten y ayuden a la protección, preservación y restauración de los ecosistemas acuáticos del Estado.
+
 II. El aprovechamiento sustentable de los recursos naturales que comprenden los ecosistemas acuáticos debe realizarse sin afectar su equilibrio ecológico y capacidad de recuperación;
 
 III. Para mantener la integridad y el equilibrio de los elementos naturales que intervienen en el ciclo hidrológico, se deberá considerar la protección del suelo, escurrimientos y cañadas, los recursos forestales y la vida silvestre, para asegurar la capacidad de recarga de los acuíferos;
@@ -2403,8 +2407,6 @@ XI. Las demás que se establezcan en esta Ley, los ordenamientos que de ella se 
 
 Las emisiones de contaminantes a la atmósfera, generadas por fuentes fijas de competencia local, deberán canalizarse a través de ductos o chimeneas de descarga, cuando esto no sea posible, por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la Secretaría o ante la autoridad municipal que corresponda, a fin de que se dicten las medidas que correspondan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 143.
@@ -2823,7 +2825,7 @@ En caso de que se detecten irregularidades o violaciones en el manejo de los res
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-###### ARTÍCULO 181 Bis.
+###### Artículo 181 Bis.
 
 Tratándose de llantas o neumáticos nuevos o previamente utilizados por vehículos automotores o de otra índole se procurará su reutilización, de forma total o parcial, en los procesos productivos o industriales, así como en las aplicaciones que no impliquen un riesgo ambiental, evitándose su aprovechamiento mediante métodos de incineración, privilegiando su reutilización o reciclaje a través de los sistemas mecánicos de corte o análogos.
 
@@ -2833,7 +2835,7 @@ El Estado y Municipios, estimularán políticas de fomento que permitan el reuso
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-###### ARTÍCULO 181 Bis 1.
+###### Artículo 181 Bis 1.
 
 Queda prohibida la acumulación a cielo abierto de llantas o neumáticos nuevos o previamente utilizados por vehículos automotores o de otra índole, así como su incineración bajo estas condiciones.
 
@@ -3339,19 +3341,13 @@ II. Multa de veinte a treinta mil días de salario mínimo general vigente en la
 
 III. Clausura temporal o definitiva, parcial o total, cuando se presente uno o más de los supuestos establecidos en el artículo 237 de esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 IV. Decomiso o aseguramiento precautorio de ejemplares o especies de flora y fauna, incluyendo sus partes, productos, subproductos, objetos, materiales o substancias contaminantes, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar al decomiso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 V. Suspensión o revocación de las autorizaciones, concesiones, permisos o licencias otorgadas; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -3359,19 +3355,13 @@ VI. Trabajo a favor de la comunidad.
 
 El Reglamento de la Ley, establecerá el procedimiento para llevar a cabo lo dispuesto en la fracción V de éste Artículo, así como lo relativo al destino final de los elementos decomisados o asegurados que ahí se señalan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 La autoridad ambiental competente podrá imponer la sanción de trabajo a favor de la comunidad en materias ambientales a través de su vinculación temporal en alguno de los programas, proyectos o actividades que dicha autoridad ambiental tenga en curso directamente o en convenio con otras autoridades u organizaciones sin fines de lucro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 La sanción de trabajo a favor de la comunidad sólo podrá reemplazar la multa cuando el infractor no tenga los recursos económicos para cubrirla, pero podrá ser una medida complementaria en todos los casos, no pudiendo exceder ese trabajo de 36 treinta y seis horas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -3892,3 +3882,9 @@ Las autoridades municipales en un plazo que no deberá de exceder de 6 meses, de
 > <small>(F. DE E., P.O. 9 DE FEBRERO DE 2018)</small>
 
 Tercero.- Las autoridades estatales deberán elaborar en un plazo no mayor a 360 días los ordenamientos a los que se refiere el presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 006. SE REFORMA POR ADICIÓN DE UN PÁRRAFO LA FRACCIÓN I DEL ARTÍCULO 120 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
