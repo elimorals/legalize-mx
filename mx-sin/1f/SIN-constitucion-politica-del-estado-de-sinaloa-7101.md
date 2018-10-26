@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2018-03-09"
+last_updated: "2018-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2018.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -77,7 +77,11 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 Art. 4° Bis A. Las personas son titulares de los siguientes derechos y libertades reconocidos por esta Constitución:
 
-1 (sic). Toda persona tiene derecho a que se respete su vida.
+(NOTA: EL 9 DE SEPTIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2018 Y SU ACUMULADA 107/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE SEPTIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2018)</small>
+
+I. Toda persona tiene derecho a que se respete su vida. El Estado tutela el derecho a la vida DESDE EL MOMENTO EN QUE UN INDIVIDUO ES CONCEBIDO, ENTRA BAJO LA PROTECCIÓN DE LA LEY CORRESPONDIENTE, HASTA SU MUERTE, respetando en todo momento la dignidad de las personas.
 
 II. Queda prohibida la pena de muerte y la de prisión perpetua.
 
@@ -4284,3 +4288,11 @@ P.O. 9 DE MARZO DE 2018.
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Comuníquese el presente Decreto a los Ayuntamientos del Estado, para los efectos estipulados en el artículo 159 de la Constitución Política del Estado de Sinaloa.
+
+P.O. 26 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 861 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4 BIS A, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
