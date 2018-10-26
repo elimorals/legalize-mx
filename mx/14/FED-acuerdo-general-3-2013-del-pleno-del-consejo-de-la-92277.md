@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-10-15"
+last_updated: "2018-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -247,9 +247,9 @@ IX. NOVENO CIRCUITO:
 
 2. Un tribunal unitario con sede en San Luis Potosí.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 30/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2018)</small>
 
-3. Ocho juzgados de Distrito en el Estado de San Luis Potosí: seis con sede en la ciudad del mismo nombre; y dos con residencia en Ciudad Valles.
+3. Nueve Juzgados de Distrito en el Estado de San Luis Potosí: seis mixtos y uno en Materia Mercantil Federal, todos con sede en la ciudad del mismo nombre; y dos mixtos con residencia en Ciudad Valles.
 
 X. DECIMO CIRCUITO:
 
@@ -7234,3 +7234,19 @@ CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas 
 QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las direcciones generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
 
 SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, deberá nombrar al defensor de oficio y adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo, a efecto de que el defensor público designado inicie funciones en la misma fecha que el Juzgado Quinto de Distrito en Materia de Amparo y Juicios Federales en el Estado de Baja California, con residencia en Tijuana.
+
+D.O.F. 26 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 30/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE SAN LUIS POTOSÍ, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los Juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, conservarán su actual denominación, jurisdicción territorial y competencia, con las excepciones señaladas en el presente Acuerdo, y continuarán conociendo de los asuntos en materia mercantil que se les hayan turnado antes del inicio de funciones del Juzgado de Distrito en Materia Mercantil Federal en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, hasta su total conclusión y archivo.
+
+A fin de equilibrar las cargas de trabajo que llegaren a presentarse en el Juzgado de Distrito en Materia Mercantil Federal en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal podrá establecer la competencia temporal compartida por parte de los Juzgados de Distrito actualmente en funciones en la misma residencia, para conocer de asuntos mercantiles y comunicaciones relacionadas con éstos que se presenten en esa jurisdicción territorial, así como regular el turno, total o parcial, de éstos.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores. El órgano jurisdiccional deberá contar con una sala para la celebración de las audiencias orales, así como con un sistema informático y de videograbación para el registro de éstas por medios electrónicos que garanticen su fidelidad, integridad, preservación, la reproducción de su contenido y el acceso a quienes tuvieren derecho a ello.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
