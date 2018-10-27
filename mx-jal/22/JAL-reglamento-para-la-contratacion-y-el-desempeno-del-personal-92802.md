@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-contratacion-y-el-desempeno-del-personal-928
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-19"
-last_updated: "2013-02-19"
+last_updated: "2018-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA CONTRATACIÓN Y EL DESEMPEÑO DEL PERSONAL SUPERNUMERARIO DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 19 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 19 de febrero de 2013.
 
@@ -45,7 +43,9 @@ P R E S E N T E S.
 
 A la Comisión de Puntos Constitucionales Estudios Legislativos y Reglamentos de la LX Legislatura de este Honorable Congreso, le fue turnada para su estudio y dictamen, por acuerdo del pleno de fecha 29 de noviembre de 2012, la iniciativa de acuerdo legislativo presentada por los diputados Edgar Enrique Velázquez González y Celia Fausto Lizaola que expide el Reglamento de Ingreso y Permanencia del Personal Supernumerario del Poder Legislativo del Estado de Jalisco. Al efecto y de conformidad a lo previsto por los artículos 64, 69 numeral 1 fracciones I y IV, 105, 107 numeral 2 y 4, 157 numeral 1 y 159 de la Ley Orgánica del Poder Legislativo del Estado de Jalisco y 86, 87, 89 y 90 de su Reglamento, nos permitimos presentar el correspondiente proyecto de dictamen.
 
-PARTE EXPOSITIVA.
+PARTE EXPOSITIVA
+
+[...]
 
 Por lo anteriormente expuesto, fundado y motivado, la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, con fundamento en lo dispuesto por los artículos 108 numeral 1, 157 numerales 1 y 2 y 159 de la Ley Orgánica del Poder Legislativo, somete a la elevada consideración del Pleno del H. Congreso la (sic) siguiente:
 
@@ -89,9 +89,11 @@ VIII. Tabulador: Documento que contiene la escala de remuneraciones mínimas y m
 
 ### CAPÍTULO II. DEL INVENTARIO DE NOMBRAMIENTOS
 
-###### Artículo 3º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2018)</small>
 
-Los diputados y titulares de las áreas administrativas y legislativas solicitarán por escrito a la Comisión, la asignación de nombramientos a favor de los candidatos por ellos elegidos, de conformidad a lo dispuesto por el tabulador aprobado.
+###### Artículo 3°.
+
+Los diputados y titulares de las áreas administrativas y legislativas solicitarán por escrito a la Comisión, la asignación de nombramientos a favor de los candidatos por ellos elegidos, siempre y cuando no implique la posible afectación del desempeño imparcial y objetivo del servidor público en razón de intereses personales, familiares o de negocios y de conformidad a lo dispuesto por el tabular aprobado.
 
 El Secretario General del Congreso no podrá expedir nombramiento alguno sin la autorización expresa de la Comisión.
 
@@ -146,6 +148,10 @@ X. Declaración escrita bajo protesta de decir verdad en la que se señale no ex
 XI. Dos cartas de recomendación; y
 
 XII. Dos fotografías tamaño infantil.
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2018)</small>
+
+XIII. Declaratoria bajo protesta de decir verdad que no tiene relación familiar, de sociedad o económica con el servidor público que hace la propuesta de su encargo.
 
 ###### Artículo 10.
 
@@ -282,3 +288,9 @@ Vocal
 Dip. Alberto Esquer Gutiérrez
 
 Vocal
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE OCTUBRE DE 2018.
+
+> <small>[N. DE E. EL “ACUERDO LEGISLATIVO AL-2111-LXI-18 QUE REFORMA LOS ARTÍCULOS 3° Y 9° DEL REGLAMENTO PARA LA CONTRATACIÓN Y DESEMPEÑO DEL PERSONAL SUPERNUMERARIO DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
