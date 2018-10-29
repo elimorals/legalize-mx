@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2008-del-pleno-del-consejo-de-la-60478"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-14"
-last_updated: "2016-04-15"
+last_updated: "2018-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-26"
 
 ACUERDO GENERAL 10/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE CREA EL CENTRO AUXILIAR DE LA SEGUNDA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de abril de 2008.
 
@@ -57,31 +57,17 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 24/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR ARTÍCULO 14 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
 
-PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Segunda Región, conformado por tres tribunales Colegiados de Circuito Auxiliares y cuatro juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla; su domicilio será el ubicado en avenida Osa Menor, número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, código postal 72810 en San Andrés Cholula, Puebla.
+PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Segunda Región, conformado por tres tribunales Colegiados de Circuito Auxiliares, con residencia en San Andrés Cholula, Puebla; su domicilio será el ubicado en avenida Osa Menor, número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, código postal 72810, San Andrés Cholula, Puebla.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 24/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
+Los órganos jurisdiccionales mencionados tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
-Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+I. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
 
-Juzgado Primero de Distrito del Centro Auxiliar de la Segunda Región.
+II. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
 
-Juzgado Segundo de Distrito del Centro Auxiliar de la Segunda Región.
-
-Juzgado Tercero de Distrito del Centro Auxiliar de la Segunda Región.
-
-Juzgado Sexto de Distrito del Centro Auxiliar de la Segunda Región.
-
-> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 42/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
-
-Los tribunales colegiados de Circuito se denominarán:
-
-Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
-
-Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
-
-Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
+III. Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
 
@@ -93,11 +79,15 @@ TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales, lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMUN. La oficina de correspondencia común que presta servicio a los Juzgados Tercero y Cuarto de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla, ahora denominados Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Segunda Región, también proporcionará asistencia a los nuevos órganos jurisdiccionales, por lo que se denominará Oficina de Correspondencia Común del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla.
+> <small>(REFORMADO POR ARTÍCULO 14 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+
+CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. La oficina de correspondencia común se denomina Oficina de Correspondencia Común del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, la cual presta servicio a los Tribunales Colegiados Primero, Segundo y Tercero de Circuito del Centro Auxiliar de la Segunda Región.
 
 QUINTO. (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES, D.O.F. 15 DE ABRIL DE 2016)
 
-SEXTO. PLANTILLAS Y FUNCIONES. Las plantillas de los órganos jurisdiccionales serán las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO POR ARTÍCULO 14 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+
+SEXTO. PLANTILLA Y FUNCIONES. La plantilla de los Tribunales Colegiados de Circuito del Centro Auxiliar será la siguiente:
 
 (VÉASE ARCHIVO ANEXO)
 
@@ -113,9 +103,7 @@ OCTAVO. ESPACIO FISICO. La Comisión de Administración proveerá lo conducente,
 
 NOVENO. DE LA COMISION. La Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, queda facultada para dictar los acuerdos relativos a las disposiciones necesarias, tendentes a regular el turno y tipo de los asuntos de la competencia de los órganos jurisdiccionales que conforman el Centro Auxiliar de la Segunda Región, así como el apoyo y el diverso auxilio que se preste a otros órganos jurisdiccionales.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
-
-DECIMO. COMPETENCIA DE LOS DEMAS ORGANOS JURISDICCIONALES. Los juzgados de Distrito y tribunales de Circuito a que se refiere el Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, conservarán su denominación, residencia y competencia.
+DECIMO. (DEROGADO POR ARTÍCULO 14 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)
 
 DECIMOPRIMERO. (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)
 
@@ -228,3 +216,19 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se deroga el punto Quinto de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 20/2009, que crea el Centro Auxiliar de la Primera Región; 10/2008, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos jurisdiccionales que lo integrarán; 18/2008, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán; 27/2008, por el que se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán; 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán; 53/2008, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán; 54/2008, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; 32/2010, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán; 51/2009, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán; 54/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán; y 33/2011, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán.
+
+D.O.F. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS DE DISTRITO DEL CENTRO AUXILIAR DE LA SEGUNDA REGIÓN, CON RESIDENCIA EN SAN ANDRÉS CHOLULA, PUEBLA; EL INICIO DE FUNCIONES DE LOS JUZGADOS SÉPTIMO Y OCTAVO DE DISTRITO EN MATERIA DE AMPARO CIVIL, ADMINISTRATIVA Y DE TRABAJO Y DE JUICIOS FEDERALES EN EL MISMO ESTADO Y RESIDENCIA, SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE LA MATERIA Y ENTIDAD FEDERATIVA INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones de los Juzgados Primero, Segundo, Tercero y Sexto de Distrito del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, y el inicio de funciones de los Juzgados Séptimo y Octavo de Distrito en Materia de Amparo Civil, Administrativa y de Trabajo y de Juicios Federales en el mismo Estado y residencia, implicará el traslado de dos de sus titulares, en la misma calidad, en tanto que otros dos serán readscritos por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+
+El traslado del personal con su plaza se deberá realizar respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que los órganos jurisdiccionales de nueva creación deberán contar con la plantilla de personal que tienen sus homólogos.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales que inician funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los órganos jurisdiccionales que inician funciones, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
