@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-turismo-del-estado-89137
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-29"
-last_updated: "2012-06-29"
+last_updated: "2018-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 29 de junio de 2012.
 
@@ -41,53 +41,57 @@ REGLAMENTO INTERNO DE LA SECRETARÍA DE TURISMO DEL ESTADO
 
 El presente Reglamento tiene por objeto regular la estructura orgánica y funcional de la Secretaría de Turismo, como dependencia del Poder Ejecutivo Estatal, a la que le compete el despacho de los asuntos a que se refiere la Ley Orgánica de la Administración Pública del Estado, y las demás atribuciones que le otorguen otras leyes, decretos, reglamentos, acuerdos y demás disposiciones vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 2.
 
-Para el estudio y planeación de los asuntos y desempeño de las atribuciones que le competen, la Secretaría de Turismo contará con las siguientes Unidades Administrativas:
+Para el despacho de los asuntos de su competencia la Secretaría contará con las siguientes Unidades Administrativas:
 
-1. Oficina del Titular.
+I. Oficina del Titular
 
-1.1 Dirección Administrativa.
+II. Dirección Administrativa
 
-1.2 Dirección de Relaciones Internacionales.
+III. Dirección de Relaciones Internacionales
 
-1.3 Unidad de Coordinación y Enlace.
+IV. Unidad de Coordinación y Enlace
 
-1.4 Subsecretaría.
+V. Órgano Interno de Control
 
-1.4.1 Dirección de Planeación y Fomento a la Inversión.
+VI. Subsecretaría
 
-1.4.1.1 Departamento de Planeación y Estadística.
+a) Dirección de Planeación y Fomento a la Inversión
 
-1.4.1.2 Departamento de Proyectos Estratégicos.
+i. Departamento de Planeación y Estadística;
 
-1.4.1.3 Departamento de Asistencia y Gestoría a la Inversión.
+ii. Departamento de Proyectos Estratégicos;
 
-1.4.1.4 Departamento de Turismo Social.
+iii. Departamento de Asistencia y Gestoría a la Inversión; y
 
-1.4.2 Dirección de Mercadotecnia.
+iv. Departamento de Turismo Social.
 
-1.4.2.1 Departamento de Promoción Turística.
+b) Dirección de Mercadotecnia
 
-1.4.2.2 Departamento de la Comisión Estatal de Filmaciones.
+i. Departamento de Promoción Turística
 
-1.4.3 Dirección de Facilitación y Asistencia Turística.
+ii. Departamento de la Comisión Estatal de Filmaciones
 
-1.4.3.1 Departamento de Asistencia Turística.
+c) Dirección de Facilitación y Asistencia Turística
 
-1.5 Delegación Mexicali.
+i. Departamento de Asistencia Turística
 
-1.5.1 Subdelegación de San Felipe.
+VII. Delegación Mexicali
 
-1.5.1.1 Coordinación Administrativa Aeropuerto Internacional de San Felipe.
+a) Subdelegación San Felipe
 
-1.6 Delegación Ensenada.
+i. Coordinación Administrativa Aeropuerto Internacional San Felipe
 
-1.6.1 Subdelegación San Quintín.
+VIII. Delegación Ensenada
 
-1.7 Delegación Rosarito.
+a) Subdelegación San Quintín
 
-1.8 Delegación Tecate.
+IX. Delegación Rosarito
+
+X. Delegación Tecate
 
 ###### ARTÍCULO 3.
 
@@ -159,7 +163,13 @@ XVII. Promover la permanente actualización del marco jurídico en materia de tu
 
 XVIII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento; y,
 
-XIX. Las que con el carácter de no delegables le atribuya el Titular del Ejecutivo Estatal, y las demás que le confieran los diversos ordenamientos y disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XIX. Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XX. Las que con el carácter de no delegables le atribuya el Gobernador del Estado, y las demás que le confieran los diversos ordenamientos y disposiciones legales aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -170,6 +180,16 @@ I. Dirección Administrativa.
 II. Dirección de Relaciones Internacionales.
 
 III. Unidad de Coordinación y Enlace.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+IV. Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 7 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Secretaría de Turismo, contará con un Comité de Transparencia y una unidad de transparencia, las cuales ejercerán las atribuciones y se organizaran y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
 
 ###### ARTÍCULO 8.
 
@@ -213,7 +233,13 @@ XVIII. Gestionar y coordinar el mantenimiento anual preventivo y correctivo del 
 
 XIX. Intervenir en la contratación, desarrollo, capacitación, promoción y adscripción de personal a su cargo; autorizar licencias de conformidad con las necesidades del servicio y participar en los casos de sanciones, remoción y cese de personal de su responsabilidad, de conformidad con la normatividad aplicable; y,
 
-XX. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de su función.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XX. Fungir como responsable de la Unidad de Transparencia, ejerciendo las atribuciones y cumpliendo las obligaciones que para dicho cargo establecen la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y demás disposiciones aplicables; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XXI. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de su función y las que le sean conferidas por circulares, manuales, acuerdos y órdenes emitidas por el Titular y aquellas que le otorguen las leyes, reglamentos y demás disposiciones aplicables, así como las que correspondan a las unidades administrativas que le sean adscritas.
 
 ###### ARTÍCULO 9.
 
@@ -260,6 +286,44 @@ VII. Supervisar la producción de materiales impresos en los que se incluye la i
 VIII. Coordinar la organización de eventos institucionales y protocolo de la Secretaría; y,
 
 IX. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de su función.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 10 BIS.- La Secretaría de Turismo contará con un Órgano Interno de Control para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Secretaría de Turismo y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la Secretaría de Turismo;
+
+III. Revisar que las operaciones presupuestales que realice la Secretaría de Turismo se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+IV. Requerir a las unidades administrativas de la Secretaría de Turismo que correspondan el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorias verificaciones y revisiones, así como formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+V. Informar al Secretario de Turismo sobre los resultados de las revisiones, auditorias y verificaciones practicadas y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+VI. Asistir a reuniones del Comité de Adquisiciones de la Oficialía, en términos de la legislación y normatividad aplicable, y vigilar que las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios y obra pública, equipamiento, suministros y servicios de la Dependencia se realicen con apego a las Leyes en la materia;
+
+VII. Requerir a terceros que hubieran contratado bienes o servicios con la Secretaría de Turismo la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IX. Intercambiar con contralores internos de otras dependencias y entidades paraestatales de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoria Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental, las políticas para simplificar y homogeneizar sus funciones;
+
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Secretaría de Turismo cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+XI. Requerir a los servidores públicos de la Secretaría de Turismo información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoria Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XIII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
+
+XIV. Coadyuvar en el programa de actualización del marco de actuación de la Secretaría de Turismo en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen; y
+
+XV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 10 TER.- El Órgano Interno de Control contará con el personal y recursos necesarios, a fin de garantizar la independencia en el ejercicio de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES DEL SUBSECRETARIO
 
@@ -357,7 +421,17 @@ XVI. Supervisar el desarrollo de las actividades encomendadas al personal adscri
 
 XVII. Firmar y notificar los acuerdos sobre los asuntos y trámites que se emitan con fundamento en las facultades que le correspondan; y,
 
-XVIII. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de su función.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XVIII. Proporcionar la información, asesoría y cooperación que les sean requeridas por quien realice las funciones de la Unidad de Transparencia, el Comité de Transparencia, las demás unidades administrativas de la Secretaría de Turismo, dependencias, entidades o autoridades en la materia de su competencia, de acuerdo con las políticas establecidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XIX. Clasificar la información de su área de conformidad con lo dispuesto en el Título Sexto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y conforme al procedimiento previsto en su artículo 130; realizar el Índice de Clasificación respectivo, así como actualizar periódicamente la información pública que obre en sus archivos, conforme a la normatividad de la materia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XX. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de su función.
 
 ### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES DE LOS JEFES DE DEPARTAMENTO
 
@@ -389,7 +463,21 @@ XI. Elaborar proyectos sobre la modificación, organización o fusión de la uni
 
 XII. Firmar los documentos relativos al ejercicio de sus facultades y notificar los acuerdos sobre asuntos y trámites que se emitan con fundamento en las facultades que les correspondan; y,
 
-XIII. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de su función.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XIII. Proporcionar la información, asesoría y cooperación que les sean requeridas por quien realice las funciones de la Unidad de Transparencia, el Comité de Transparencia, las demás unidades administrativas de la Secretaría de Turismo, dependencias, entidades o autoridades en la materia de su competencia, de acuerdo con las políticas establecidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XIV. Coadyuvar en la elaboración y actualización de reglamentos, normas y políticas generales, manuales de organización, procedimientos y servicios, así como del catálogo de puestos correspondientes a las unidades administrativas adscritas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XV. Coordinarse con directores y delegados para el mejor cumplimiento de los programas de la Secretaría de Turismo, conforme a las políticas establecidas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XVI. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de su función.
 
 ### CAPÍTULO VI. DE LAS FACULTADES Y OBLIGACIONES DE LOS DELEGADOS Y SUBDELEGADOS
 
@@ -413,9 +501,17 @@ VI. Proporcionar información, y la cooperación técnica que le sea requerida p
 
 VII. Rendir al Secretario, informe sobre las actividades que desarrolle la Delegación; y,
 
-VIII. Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de sus facultades, y aquellas que determine el Secretario.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
 
-Para el adecuado desempeño de las atribuciones que le corresponden a la Subdelegación de San Felipe, ésta contará con la Coordinación Administrativa del Aeropuerto Internacional de San Felipe.
+VIII. Proporcionar la información, asesoría y cooperación que les sean requeridas, por la Unidad de Transparencia, el Comité de Transparencia y las demás unidades administrativas de la Secretaría de Turismo de acuerdo con las políticas establecidas por la Secretaría de Turismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2018)</small>
+
+IX. Clasificar la información de su área y de las áreas que la integran de conformidad con lo dispuesto en el Título Sexto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y conforme al procedimiento previsto en su artículo 130; realizar el Índice de Clasificación respectivo, así como actualizar periódicamente la información pública que obre en sus archivos, conforme a la normatividad de la materia, y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XI (SIC). Las demás que expresamente les confiera el Secretario, el Subsecretario y las disposiciones aplicables.
 
 ###### ARTÍCULO 16.
 
@@ -801,6 +897,12 @@ Durante las ausencias de los Jefes de Departamento serán suplidos para el despa
 
 Para suplir las ausencias de los Titulares de las Delegaciones o Subdelegaciones, se designará a los funcionarios de la jerarquía inmediata inferior por acuerdo del Titular de la Dependencia.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### ARTÍCULO 34.
+
+Las ausencias temporales del titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquél, previo acuerdo del Director de Auditoria Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -826,3 +928,15 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 6, 7, 8, 13, 14, 15; SE ADICIONAN LOS ARTÍCULOS 7 BIS, 10 BIS, Y 10 TER Y EL 34; TODOS DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE TURISMO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Turismo, a partir de la entrada en vigor del presente decreto deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Finanzas, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+TERCERO.- La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos (sic) competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
