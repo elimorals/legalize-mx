@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-uso-de-vehiculos-oficiales-del-gobierno-4157
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-08"
-last_updated: "2017-08-04"
+last_updated: "2018-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2004.
 
@@ -47,11 +47,11 @@ REGLAMENTO PARA EL USO DE VEHICULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA
 
 El presente Reglamento es de orden público y de observancia para los servidores públicos de la Administración Pública del Municipio de Ensenada, Baja California.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-El presente ordenamiento tiene por objeto establecer las acciones y el procedimiento relativo al uso de vehículos oficiales que realicen:
+El presente ordenamiento tiene por objeto establecer las acciones y el procedimiento relativo al uso de vehículos oficiales de las siguientes dependencias del Gobierno Municipal:
 
 I.- Las Dependencias del Municipio de Ensenada.
 
@@ -111,11 +111,11 @@ El Síndico Procurador tendrá la facultad de ejercitar cualquier acción civil 
 
 En el caso de las entidades el Síndico Procurador solo tendrá la facultad de control y vigilancia.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 8.
 
-Oficialía Mayor a través de la Dirección de Administración de Bienes Patrimoniales es la Dependencia del Ayuntamiento encargada de administrar, controlar, coordinar, adquirir y supervisar todo lo referente al patrimonio municipal; por lo tanto, los vehículos de uso oficial están bajo su mando directo e inmediato, delegando responsabilidades a los titulares de las dependencias que tengan bajo su resguardo algún vehículo propiedad del Ayuntamiento.
+Sera Oficialía Mayor a través del Departamento de Bienes Patrimoniales quien se encargará de administrar, controlar, coordinar, adquirir y supervisar el manejo de los vehículos de uso oficial. Los titulares de cada dependencia serán los responsables de resguardar los vehículos que se encuentren a su disposición.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -123,11 +123,11 @@ Oficialía Mayor a través de la Dirección de Administración de Bienes Patrimo
 
 El Oficial Mayor del Ayuntamiento establecerá los lineamientos para la dotación de combustible y reparación de los vehículos.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 10.
 
-El Director de Administración de Bienes Patrimoniales velará por el legal cumplimiento de este ordenamiento, teniendo las facultades que de aquí se desprenden.
+El Jefe de Departamento de Bienes Patrimoniales velará por el legal cumplimiento de este ordenamiento, teniendo las facultades que de aquí se desprenden.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -189,33 +189,21 @@ Quedarán exceptuados aquellos que por seguridad oficial no deban identificarse 
 
 En caso de los vehículos recién adquiridos deberán rotularse de manera inmediata.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 18.
 
-En cada vehículo se llevará una bitácora, misma que controlará y registrará el resguardante o quien sea designado para ello por el titular de la Dependencia o Entidad, en la cual se anotará diariamente, cualquier eventualidad de importancia, como las siguientes:
+Las dependencias llevarán una bitácora con la finalidad de tener un control y registro del uso vehicular.
 
-I.- Conductor;
+La bitácora deberá realizarse diariamente y contendrá los siguientes datos: que serán revisados por (sic) sindicatura municipal.
 
-II.- El día, la hora de asignación y devolución;
+I. Nombre del conductor;
 
-III.- Kilometraje, inicial y final del recorrido;
+II. El día y hora de la asignación y devolución del vehículo y;
 
-IV.- Motivo de la asignación de la unidad;
+III. Kilometraje antes y después del uso del vehículo.
 
-V.- A quién le corresponde la limpieza del vehículo;
-
-VI.- Revisión de niveles y presión de neumáticos;
-
-VII.- Cambio de aceite;
-
-VIII.- Detalles de alineación y balanceo;
-
-IX.- Parabrisas, vidrios, espejos;
-
-X.- Carrocería; y
-
-XI.- Demás detalles que pongan en riesgo la integridad del vehículo y su conductor.
+Además, la bitácora deberá contener un reporte elaborado por la dependencia correspondiente, el cual deberá especificar las condiciones del vehículo, señalando el estado en que se encuentre el mismo.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -223,29 +211,31 @@ XI.- Demás detalles que pongan en riesgo la integridad del vehículo y su condu
 
 Al recibir la unidad, el solicitante o resguardante es el responsable de la misma y se obliga a registrar los datos en la bitácora del vehículo, en los términos del artículo 18 del presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 20.
 
-El responsable del resguardo será el encargado de supervisar el buen o mal uso que se haga de la unidad, debiendo reportar oportunamente al Oficial Mayor y al Sindico Procurador las violaciones al presente reglamento.
+El titular de cada dependencia deberá reportar cualquier eventualidad que se pudiera generar en relación al uso del vehículo. Asimismo, será el Departamento de Bienes Patrimoniales quien supervisará el correcto manejo de los vehículos oficiales.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 21.
 
-El titular de la dependencia o entidad, que tengan (sic) vehículo bajo su resguardo, tendrán (sic) la facultad de asignarlos a los trabajadores que por el desempeño de su cargo así lo requieran, encargándose éstos de su limpieza, mantenimiento y buen uso.
+El titular de cada dependencia podrá delegar el uso del vehículo exclusivamente a trabajadores que estén adscritos a su dependencia por el desempeño de su cargo (sic) así lo requieran.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 22.
 
-El trabajador que tenga asignado un vehículo y que quiera utilizarlo fuera del horario de trabajo establecido, para servicio de la Administración Pública Municipal, deberá tener autorización por escrito de su superior jerárquico, y éste a su vez remitirá copia a la brevedad posible de la autorización, al Director de Administración de Bienes Patrimoniales de Oficialía Mayor.
+El trabajador que tenga asignado un vehículo y requiera utilizarlo fuera del horario de trabajo establecido, para servicio de la Administración Pública Municipal, deberá tener autorización por escrito de su superior jerárquico, y éste a su vez remitirá copia a la brevedad posible de la autorización al Departamento de Bienes Patrimoniales y dará aviso a la Sindicatura Municipal.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 23.
 
-El usuario del vehículo deberá abstenerse de circular con el vehículo fuera de los límites del Municipio, o abandonar el territorio nacional, salvo autorización expresa y por escrito de su jefe inmediato o el Oficial Mayor, cuando la naturaleza del servicio o comisión así lo requiera.
+Ningún trabajador adscrito en alguna dependencia podrá utilizar un vehículo oficial fuera de los horarios laborales y límites territoriales del municipio de Ensenada, Baja California, salvo autorización expedida por Oficialía Mayor.
+
+Asimismo, se deberá notificar al Departamento de Bienes Patrimoniales el uso de vehículos fuera del horario laboral y límites territoriales.
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
@@ -263,11 +253,11 @@ Los vehículos asignados al Presidente Municipal, Síndico Procurador y Regidore
 
 Queda prohibido el uso de vehículos oficiales fuera de los horarios de trabajo, excepto lo previsto en el Artículo 22 y 24 del presente reglamento.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 27.
 
-Es obligación de los Titulares de las dependencias o entidades de la Administración Pública Municipal, así como del Director de Administración de Bienes Patrimoniales, asegurarse de que los vehículos sean guardados al término de la jornada de trabajo y el fin de semana en el estacionamiento designado para tal efecto.
+Es obligación de los titulares de las dependencias de la Administración Pública Municipal, así como del Jefe del Departamento de Bienes Patrimoniales, asegurarse que los vehículos sean guardados al término de la jornada de trabajo y el fin de semana en el estacionamiento designado para tal efecto
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -472,3 +462,9 @@ P.O. 4 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA B.C.”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 8, 10, 18, 20, 21, 22, 23 Y 27 DEL REGLAMENTO PARA EL USO DE VEHÍCULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o en la Gaceta Municipal de Ensenada.
