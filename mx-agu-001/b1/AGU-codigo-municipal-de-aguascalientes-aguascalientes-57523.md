@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-10-15"
+last_updated: "2018-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -783,9 +783,9 @@ Para la instalación y toma de protesta constitucional del H. Ayuntamiento el Pr
 
 I. El Secretario del H. Ayuntamiento dará lectura a la lista de los integrantes del H. Ayuntamiento que hayan resultado electos, y comprobando que se tiene la asistencia que establecen la Constitución Política del Estado de Aguascalientes, la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código, dará la palabra al Presidente Municipal electo.
 
-II. El Presidente Municipal electo solicitará a los Regidores y Síndicos electos que se pongan de pie, para proceder a rendir la protesta de ley en los siguientes términos: "Yo… protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Aguascalientes, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el pueblo me lo demande".
+II. El Presidente Municipal electo solicitará a los Regidores y Síndicos electos que se pongan de pie, para proceder a rendir la protesta de ley en los siguientes términos: "Yo .... protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Aguascalientes, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el pueblo me lo demande".
 
-III. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndicos electos, a quienes los interrogará en la forma siguiente: "Ciudadanos… Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndicos Propietarios del Municipio de Aguascalientes que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio" "Sí Protesto" contestan los Regidores y Síndicos.
+III. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndicos electos, a quienes los interrogará en la forma siguiente: "Ciudadanos ..... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndicos Propietarios del Municipio de Aguascalientes que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio" "Sí Protesto" contestan los Regidores y Síndicos.
 
 Dirá entonces el Presidente Municipal: "Si así no lo hicieren que el pueblo se los demande".
 
@@ -22083,13 +22083,13 @@ Corresponde a la Dirección de Mercados, Estacionamientos y Áreas Comerciales l
 
 En el caso de los comercios establecidos cuyo mobiliario ocupe parte de la vía pública, la autorización emitida por la Secretaría de Desarrollo Urbano deberá contar con el aval de la Dirección de Mercados.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
-Queda prohibido otorgar permisos para ejercer cualquier tipo de actividad comercial en la vía pública dentro de las zonas o bienes que hayan sido declarados como patrimonio histórico por parte del Gobierno Federal, Estatal o Municipal, salvo tratándose de los permisos temporales referidos en el artículo 1384 de este Código.
+Queda prohibido otorgar permisos para ejercer cualquier tipo de actividad comercial en la vía pública dentro de las zonas o bienes que hayan sido declarados como patrimonio histórico por parte del Gobierno Federal, Estatal o Municipal, con las excepciones que establece el artículo 1384 de este Código.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
-De igual manera, la Dirección de Mercados deberá contar con la autorización del área encargada de imagen urbana dentro de la Secretaría de Desarrollo Urbano para el otorgamiento de permisos nuevos en la vía pública, considerando que la ubicación solicitada se encuentre fuera de las restricciones que contempla el artículo 1384 del Código Municipal de Aguascalientes.
+De igual manera, la Dirección de Mercados deberá contar con la autorización del área encargada de imagen urbana dentro de la Secretaría de Desarrollo Urbano para el otorgamiento de permisos nuevos en la vía pública.
 
 ###### ARTÍCULO 1358.
 
@@ -22555,6 +22555,8 @@ X. El horario para ejercer la actividad comercial en la vía pública, no deber�
 
 ### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 1374.
 
 Para los tianguis, la dimensión máxima de un puesto será de seis metros de frente por tres de fondo, y la mínima de un metro, alineándose siempre por el frente. La altura máxima será determinada en cada tianguis.
@@ -22695,61 +22697,67 @@ El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la S
 
 ### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 1383.
 
 Todos los comerciantes tienen los mismos derechos y obligaciones ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales, pero siempre tendrán preferencia los nativos y/o residentes del Municipio de Aguascalientes, las personas con capacidades especiales, los pensionados y personas de la tercera edad y personas que atraviesen por una situación económica apremiante para solicitar un permiso de tianguista, en algún mercado, o como comerciante ambulante, fijo o semifijo.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
-
-Lo anterior, siempre y cuando la ubicación solicitada se encuentre fuera de las restricciones para ejercer la actividad comercial en la vía pública que contempla el artículo 1384 del Código municipal de Aguascalientes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 1384.
 
-No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como Poligonal del Centro Histórico así como las zonas o bienes que hayan sido declarados como Patrimonio Cultural Histórico por parte del Gobierno Federal, Estatal o Municipal, salvo que se trate de permisos temporales motivados por alguna festividad tradicional que se celebre en el Municipio, en cuyo caso los comerciantes sólo podrán instalarse mientras dure tal festividad.
+No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como Poligonal del Centro Histórico así como las zonas o bienes que hayan sido declarados como Patrimonio Cultural Histórico por parte del Gobierno Federal, Estatal o Municipal, salvo que se trate de permisos temporales para la venta de bienes culturales o por la celebración de alguna festividad tradicional.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+La temporalidad de estos permisos estará condicionada, tratándose de festividades tradicionales, al periodo de su duración, y respecto a la comercialización de bienes culturales, a su ejercicio en 8 días por cada mes.
 
-De igual forma, no se podrán otorgar permisos para comerciantes en vía pública:
+El Instituto Municipal Aguascalentense para la Cultura brindará apoyo y asesorías para la elaboración de las solicitudes, de los permisos temporales, para la comercialización de bienes culturales, así mismo emitirá una opinión sobre su idoneidad en cuanto a los objetos que se comercializan y la y la (sic) cualidad del o la solicitante, correspondiéndole exclusivamente a la Dirección de Mercados, Estacionamientos y Áreas Comerciales la resolución sobre el otorgamiento de este permiso.
 
-I. Sobre avenidas o cruceros principales;
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
-II. En los accesos y frente a instituciones religiosas, públicas o de salud;
+ARTÍCULO 1384 BIS.- Los requisitos para la solicitud de permisos temporales con fines de comercialización de bienes culturales, fundado en la excepción prevista por el artículo 1384 de este Código, serán los siguientes:
 
-III. A menos de cien metros de coladeras, caimanes y contenedores;
+I.- La solicitud deberá de presentarse en el Instituto Municipal Aguascalentense para la Cultura, debiendo el o la solicitante acreditar lo siguiente:
 
-IV. A menos de cinco metros de distancia de una avenida primaria o principal;
+a).- Ser mayor de edad;
 
-V. Exceptuando a los vendedores de periódicos y revistas.
+b).- Ser persona física o moral en el pleno uso de sus derechos; y
+
+c).- Ser productor artesanal y/o distribuidor o promotor de bienes culturales.
+
+Igualmente, la solicitud deberá contener lo siguiente:
+
+a).- Exposición sucinta sobre la forma en la cual el o la solicitante adquirió la calidad de productor artesanal y/o de distribuidor o promotor de bienes culturales;
+
+b).- Descripción de los bienes culturales objeto de comercialización;
+
+c).- En su caso, descripción detallada de su procedimiento de elaboración;
+
+d).- Evidencia fotográfica; y
+
+e).- Copia simple de Identificación Oficial.
+
+II.- El Instituto Municipal Aguascalentense para la Cultura deberá de definir las reglas y condiciones sobre las cuales examinará la recepción de estas solicitudes.
+
+III.- El metraje máximo que se deberá de autorizar para ejercer el comercio en la vía pública, será de 3 metros de frente por 2 metros de fondo.
+
+IV.- El horario para ejercer la actividad comercial no deberá de exceder de ocho horas continuas.
+
+V.- Determinación de la Secretaría del H. Ayuntamiento del Municipio de Aguascalientes, sobre la disposición del lugar en donde se ejercerá la actividad comercial.
 
 ### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTÍCULO 1385.
 
-El permiso para tianguista, o para comerciante ambulante o de fiestas tradicionales, deberá ser expedido por el Director de Mercados, Estacionamientos y Áreas Comerciales el cual tendrá la facultad de delegar dicha atribución a la Jefatura de Áreas Comerciales y/o Delegaciones Municipales según sea el caso, observando las siguientes disposiciones:
-
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+Los permisos para tianguista, comerciante ambulante, fiestas tradicionales y los temporales previstos en el artículo 1384, serán expedidos por el Director de Mercados, Estacionamientos y Áreas Comerciales; el cual tendrá la facultad de delegar dicha atribución a la Jefatura de Áreas Comerciales y/o Delegaciones Municipales según sea el caso, observando las siguientes disposiciones:
 
 I. Integración del expediente;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+II. Verificación del debido cumplimiento a todos y cada uno de los requisitos contemplados, según sea el caso, en los artículos 1373 y 1384 bis del Código Municipal de Aguascalientes;
 
-II. Verificación del debido cumplimiento a todas y cada uno de los requisitos contemplados en el artículo 1373 del Código Municipal de Aguascalientes;
+III. Emitir la Resolución en donde se determine la procedencia o improcedencia de la solicitud.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
-
-III. Emitir la Resolución en donde se determine la procedencia o improcedencia de la solicitud;
-
-IV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2016)
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
-
-En caso de que hayan existido permisos otorgados a comerciantes fijos, semifijos, ambulantes, fiestas tradicionales ubicados dentro y/o fuera de la Zona Centro, en ningún caso constituirán precedente de obligatoriedad para el municipio para renovar el permiso, y habrán de ajustarse a las necesidades urbanísticas del momento.
-
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+Tratándose de renovación de los permisos otorgados, ningún precedente será obligatorio para su otorgamiento bajo este carácter, debiendo el Municipio de constreñirse a las necesidades urbanísticas del momento.
 
 Para los comercios ambulantes, fijos o semifijos, la dimensión máxima de un puesto será de tres metros de frente por dos metros de fondo, alineándose siempre por el frente, en cuanto a la altura no deberá de exceder de 2 metros.
 
@@ -26793,7 +26801,7 @@ P.O. 1 DE OCTUBRE DE 2018.
 
 P.O. 15 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES”.]
 
 PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -26816,6 +26824,12 @@ NOVENO. Respecto a la obligación señalada en las fracciones XIX, XX y XXI del 
 DÉCIMO. Se derogan los artículos 114 BIS, 492, 492-1, 492-2, 492-3, 492-4, 492-6, 493, 493 BIS, 494 BIS, 495, 497, 497 TER, 497 QUATER, 497 QUINQUIES, 498, 499, 499 BIS, 500, 501, 501 BIS, 502, 502 BIS, 502 TER, 502 QUATER, 503, 503 BIS, 503 TER, 504, 504 BIS, 504 TER, 505, 506, 507, 508, 511, 512, 513, 514, 515, 522, 522 BIS, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 534, 535, 536, 537, 537 BIS, 539, 540, 541, 542, 543, 543-1, 543-2, 1298 SEPTIES, 1601-1, todos del Código Municipal de Aguascalientes.
 
 DÉCIMO PRIMERO. El H. Ayuntamiento de Aguascalientes, deberá realizar toda aquella modificación a los ordenamientos municipales que contravengan el contenido del presente Reglamento.
+
+P.O. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA A LOS ARTÍCULOS 1357, 1383, 1384 Y 1385, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 1384 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
