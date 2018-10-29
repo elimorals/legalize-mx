@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-impacto-ambiental-y-riesgo-38411"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-26"
-last_updated: "2017-03-24"
+last_updated: "2018-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38411&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-10"
 
 REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 26 de marzo de 2004.
 
@@ -66,6 +66,14 @@ V. Centro de concentración masiva: Inmuebles, espacios abiertos o estructuras d
 
 VI. Condicionante. Acción, criterio, lineamiento, medida o disposición de carácter obligatorio, que la Dirección General establece en las resoluciones administrativas de impacto ambiental o riesgo ambiental que contienen las autorizaciones condicionadas en materia de impacto ambiental o riesgo ambiental, como condición para la instrumentación de los programas o la realización de las obras o actividades de que se trate, que deberá observarse por el promovente tanto en la etapa previa al inicio de la obra o actividad, como en sus etapas de construcción, operación, cierre, clausura o desarrollo de la actividad;
 
+> <small>(ADICIONADA, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+VI BIS. Coordinación Estratégica: Coordinación Estratégica para Fortalecer el Desarrollo Urbano Sustentable en la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+VI TER. Criterio Estratégico: Acción, lineamiento, medida o disposición de carácter obligatorio, que la Dirección General establece en los dictámenes de Evaluación Ambiental Estratégica, como condición para la instrumentación de los planes, programas o proyectos de que se trate, que deberá observarse por el promovente tanto en la etapa previa al inicio de la obra o actividad, como en sus etapas de construcción, operación, cierre, clausura o desarrollo de la actividad;
+
 VII. Daño grave al ambiente: Alteración o modificación en cualquiera de los factores ambientales en uno o más predios, ocasionado por la incidencia puntual, acumulativa o sinérgica de impactos ambientales significativos y relevantes que lesionan u ocasionan la pérdida irreversible de uno o varios de los componentes de un ecosistema, afectando su estructura y función, y que en consecuencia repercute en la calidad y cantidad de los servicios ambientales que ofrece y modifica sus patrones de evolución natural;
 
 VIII. Desequilibrio ecológico: Condición de inestabilidad, permanente o temporal, como consecuencia de la perturbación de las relaciones de interdependencia entre los elementos que conforman el ambiente, ocasionada por acciones antropogénicas, y que pone en riesgo el desarrollo del hombre y la existencia de los demás seres vivos;
@@ -73,6 +81,10 @@ VIII. Desequilibrio ecológico: Condición de inestabilidad, permanente o tempor
 > <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2014)</small>
 
 VIII BIS. Dirección General. La Dirección General de Regulación Ambiental adscrita a la Secretaría del Medio Ambiente del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+VIII TER. Dictamen de Evaluación Ambiental Estratégica: Acto administrativo emanado de la Dirección General, para concluir el procedimiento de evaluación ambiental estratégica, a través del cual se aprueba o rechaza la realización de planes, programas o proyectos, una vez que han sido evaluados sus posibles impactos regionales acumulativos, sinérgicos y significativos, que pudieran presentarse en la ejecución de los mismos, y mediante la cual se establecen medidas de prevención, mitigación y compensación, así como criterios estratégicos que deberá cumplir el promovente, así como, en su caso, los riesgos ambientales;
 
 IX. Emergencia: Evento repentino e imprevisto que obliga a tomar medidas de prevención, protección y control, inmediatas, para minimizar sus consecuencias;
 
@@ -82,7 +94,9 @@ XI. Estaciones de autoconsumo: Estaciones que suministran combustible para uso e
 
 XII. Estaciones duales: Estaciones en las que se pueden suministrar simultáneamente gas natural comprimido y gasolina o diesel;
 
-XIII. Estudio de impacto ambiental: Documento técnico de carácter interdisciplinario, cuyo fin es dar a conocer las características de un programa, obra o actividad, y del predio donde pretende desarrollarse, así como identificar los impactos ambientales de su ejecución y las medidas para prevenir, minimizar y compensar sus efectos adversos;
+> <small>(REFORMADA, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+XIII. Estudio de impacto ambiental: Documento técnico de carácter interdisciplinario, cuyo fin es dar a conocer las características de un plan, programa, proyecto, obra o actividad, así como del predio donde pretende desarrollarse e identificar los impactos ambientales de su ejecución además de las medidas para prevenir, minimizar y compensar sus efectos adversos;
 
 XIV. Estudio de riesgo: Análisis mediante el cual el promovente da a conocer, con base en la revisión de las acciones proyectadas para el desarrollo de una actividad considerada riesgosa, los riesgos probables que éstas representan para los ecosistemas, la salud o el ambiente, y que incluye las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar o evitar los efectos adversos que se causen en caso de un posible accidente, durante la realización u operación normal de la obra o actividad de que se trate;
 
@@ -90,7 +104,9 @@ XIV. Estudio de riesgo: Análisis mediante el cual el promovente da a conocer, c
 
 XIV BIS. Estudio de riesgo ambiental sujeto a reporte y visto bueno. Análisis mediante el cual el promovente da a conocer, con base en la revisión de las acciones proyectadas para el establecimiento y operación de estaciones y terminales de almacenamiento y distribución de gasolina, diesel, combustibles, aceites, lubricantes y aditivos en cualquiera de sus modalidades, los riesgos probables que representa para los ecosistemas, la salud, la seguridad y el medio ambiente, y que incluye las medidas técnicas preventivas, correctivas y de seguridad tendientes a mitigar o evitar efectos adversos que se causen en caso de un posible accidente durante el establecimiento, operación y/o cierre de la obra; las cuales deben de ser periódicamente reportadas a la Dirección General, para su visto bueno.
 
-XV. Evaluación de impacto ambiental: Es el instrumento de política ambiental y el procedimiento a través del cual la Secretaría, con base en el informe preventivo, manifestación de impacto ambiental o estudio de riesgo, presentado por el promovente, determina la procedencia ambiental de realizar un programa, obra o actividad, pública o privada, dentro del territorio del Distrito Federal, e identifica las medidas que se impondrán de manera obligatoria, para evitar o reducir al mínimo sus efectos negativos sobre el ambiente, prevenir futuros daños a éste y propiciar el aprovechamiento sustentable de los recursos naturales;
+> <small>(REFORMADA, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+XV. Evaluación de impacto ambiental: Es el instrumento de política ambiental y el procedimiento a través del cual la Secretaría, con base en el informe preventivo, manifestación de impacto ambiental o estudio de riesgo, presentado por el promovente, determina la procedencia ambiental de realizar un plan, programa, proyecto, obra o actividad, pública o privada, dentro del territorio de la Ciudad de México, e identifica las medidas que se impondrán de manera obligatoria, para evitar o reducir al mínimo sus efectos negativos sobre el ambiente, prevenir futuros daños a éste y propiciar el aprovechamiento sustentable de los recursos naturales;
 
 XVI. Evaluación de riesgo ambiental: Procedimiento que se integra al de evaluación de impacto ambiental, a través del cual la autoridad califica la probabilidad de que se produzca un riesgo para los ecosistemas, la salud pública o el ambiente, como resultado de proyectar la realización de actividades consideradas riesgosas, así como de las medidas técnicas, preventivas, correctivas y de seguridad propuestas por el promovente en el estudio de riesgo;
 
@@ -114,11 +130,19 @@ XXV. Medidas de compensación: Acciones que deberá de ejecutar el promovente pa
 
 XXVI. Parque o zona industrial: La superficie geográficamente delimitada y diseñada especialmente para el asentamiento de la planta industrial, conforme a lo dispuesto en los programas de desarrollo urbano y de ordenamiento ecológico, en condiciones adecuadas de ubicación, infraestructura, equipamiento y de servicios, con una administración permanente para su operación;
 
+> <small>(ADICIONADA, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+XXVI BIS. Plan: conjunto de procedimientos e instrumentos técnicos a través de los cuales se formulan objetivos y estrategias para la ejecución de programas, proyectos, obras o actividades a desarrollarse dentro de la Ciudad de México, con la finalidad de sistematizarlos dentro de los ámbitos espacial, temporal, económico, material y social, bajo criterios de desarrollo ambiental sustentable previstos en la Ley y demás disposiciones jurídicas aplicables.
+
 XXVII. Programa: Instrumento de planeación de obras o actividades, públicas o privadas, por medio del cual se proyectan en una escala espacial y temporal las acciones requeridas para su emplazamiento, ejecución y operación;
 
 XXVIII. Prestador de servicios de impacto ambiental y riesgo: La persona física o moral que elabora informes preventivos, manifestaciones de impacto ambiental o estudios de riesgo, por cuenta propia o de terceros, y que es responsable del contenido de los mismos;
 
 XXIX. Promovente: El interesado, persona física o moral, con personalidad jurídica, que solicita autorización de impacto ambiental o riesgo, y somete a consideración de la autoridad competente los informes preventivos, las manifestaciones de impacto ambiental, los estudios de riesgo o los avisos que correspondan;
+
+> <small>(ADICIONADA, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+XXIX BIS. Proyecto: Conjunto de actividades generales de obras, ya sean funcionales, formales, constructivas o económicas, que proporcionan información sobre su diseño, presentación y ejecución en cada una de las etapas que lo conforman; asimismo, se refiere al conjunto de planos, memorias descriptivas y de cálculo, catálogo de conceptos, normas y especificaciones que contiene la información y definen los aspectos constructivos y ambientales.
 
 XXX. Predios de cobertura forestal significativa: Aquellos que contengan superficies de vegetación forestal mayor a mil metros cuadrados;
 
@@ -146,7 +170,9 @@ XXXVII. Yacimiento pétreo: Todo aquél depósito de material en su estado natur
 
 Corresponde a la Secretaría además de las atribuciones ya existentes:
 
-I. Evaluar el impacto ambiental y riesgo y emitir los dictámenes y resoluciones correspondientes para la realización de programas, obras o actividades a que se refiere la Ley y el presente Reglamento, así como emitir los dictámenes sobre la aplicación de estudios de impacto ambiental y riesgo, y los dictámenes de daños causados al ambiente;
+> <small>(REFORMADA, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+I. Evaluar el impacto ambiental y riesgo, así como emitir los dictámenes y resoluciones correspondientes para la realización de planes, programas, proyectos, obras o actividades a que se refiere la Ley y el presente Reglamento, así como emitir los dictámenes sobre la aplicación de estudios de impacto ambiental y riesgo, y los dictámenes de daños causados al ambiente, así como los relativos a la evaluación ambiental estratégica en los supuestos que se establecen en el Capítulo II Bis de este Reglamento.
 
 II. Formular, publicar y poner a disposición del público las guías para elaborar y presentar los informes preventivos, manifestaciones de impacto ambiental en sus diversas modalidades, estudios de riesgo, consultas sobre la aplicación de estudios de impacto ambiental y riesgo, y avisos de ejecución de obras o acciones;
 
@@ -164,19 +190,19 @@ Compete a las Delegaciones del Distrito Federal emitir las resoluciones correspo
 
 ### CAPÍTULO II. DE LAS OBRAS O ACTIVIDADES QUE REQUIEREN AUTORIZACIÓN EN MATERIA DE IMPACTO AMBIENTAL Y RIESGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 6.
 
-Quienes pretendan realizar alguna de las siguientes obras o actividades, previamente a su ejecución requerirán obtener la autorización en materia de impacto ambiental de la Secretaría:
+Quienes pretendan realizar alguna de las siguientes obras o actividades, previamente a su ejecución requerirán obtener la autorización en materia de impacto ambiental, en la modalidad que se indica, de la Secretaría:
 
-A) PROGRAMAS:
+A) (DEROGADO, G.O. 29 DE OCTUBRE DE 2018)
 
-I. Programas en los que todos o algunos de los proyectos de obras o actividades que lo integren incidan directamente o colinden con el suelo de conservación, áreas naturales protegidas, áreas de valor ambiental, barrancas o cuerpos de agua;
+I. (DEROGADA, G.O. 29 DE OCTUBRE DE 2018)
 
-II. Programas en los que todos los proyectos de obras o actividades que lo integran, se localizan en suelo urbano, y
+II. (DEROGADA, G.O. 29 DE OCTUBRE DE 2018)
 
-III. Programas que prevean el aprovechamiento de los recursos naturales del Distrito Federal.
+III. (DEROGADA, G.O. 29 DE OCTUBRE DE 2018)
 
 B) NUEVAS OBRAS O ACTIVIDADES QUE PRETENDAN REALIZARSE EN SUELO DE CONSERVACIÓN:
 
@@ -636,7 +662,207 @@ I. Existan normas oficiales mexicanas, normas ambientales locales u otras dispos
 
 II. Las obras o actividades formen parte de un programa de obras o actividades, u otro proyecto, que haya sido evaluado en materia de impacto ambiental o riesgo por la Secretaría y cuente con la autorización correspondiente vigente.
 
-### CAPÍTULO III. DE LA REGULACIÓN DE OBRAS O ACTIVIDADES EXENTAS DE LA EVALUACIÓN DE IMPACTO AMBIENTAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO II BIS. DE LA EVALUACIÓN AMBIENTAL ESTRATÉGICA
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 1.
+
+La evaluación ambiental estratégica de planes, programas y proyectos tiene por objeto considerar los impactos ambientales acumulativos, sinérgicos y significativos, en la formulación y ejecución de los instrumentos de planeación de obras o actividades, públicas o privadas, que contemplen en una escala espacial y temporal las acciones requeridas para su implementación, a efecto de analizar sus efectos y consecuencias, así como para establecer medidas y recomendaciones que permitan mitigar y disminuir las externalidades detectadas.
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 2.
+
+Los planes, programas y proyectos que serán objeto de la evaluación ambiental estratégica son:
+
+A. Planes y programas en los que todos o algunos de los proyectos de obras o actividades que los integren incidan directamente o colinden con el suelo de conservación, áreas naturales protegidas, áreas de valor ambiental, barrancas o cuerpos de agua competencia de la Ciudad de México, que de manera enunciativa más no limitativa, se refieran a:
+
+I. Programas dirigidos a la conservación, protección o restauración en suelo de conservación, áreas naturales protegidas, áreas de valor ambiental, barrancas o cuerpos de agua.
+
+B. Programas que prevean el aprovechamiento de los recursos naturales en el ámbito de competencia de la Ciudad de México, que de manera enunciativa más no limitativa, se refieran a:
+
+I. Aprovechamiento forestal;
+
+II. Aprovechamiento de flora o fauna silvestre;
+
+III. Aprovechamiento agropecuario, y
+
+IV. Otros que impliquen el aprovechamiento de los recursos naturales de la Ciudad de México.
+
+C. Planes y programas sectoriales, institucionales y especiales en materia de medio ambiente, cambio climático, salud, educación, desarrollo urbano, ciencia y tecnología, tenencia de la tierra, servicios públicos, obra pública, espacio público, movilidad y protección civil, que de manera enunciativa más no limitativa, se refieran a:
+
+I. Programas Parciales de Desarrollo Urbano;
+
+II. Áreas de Gestión Estratégica;
+
+III. Sistemas de Actuación por Cooperación;
+
+IV. Programas Delegacionales de Desarrollo Urbano;
+
+V. Programa de Regularización de la Tenencia de la Tierra;
+
+VI. Programas para la Creación de Reserva Territorial;
+
+VII. Programas para la Creación de Parques Industriales;
+
+VIII. Programa de Obras Públicas;
+
+IX. Programa Integral de Movilidad, Transporte y Vialidad;
+
+X. Programa para la Prevención y Control de Riesgos Ambientales, y
+
+XI. Programas de Vivienda y Vivienda Sustentable.
+
+D. También estarán sujetas a la evaluación ambiental estratégica las actualizaciones de las que sean objeto los planes y programas referidos en el apartado anterior.
+
+E. Proyectos que cumplan una o más de las siguientes condiciones:
+
+I. Proyectos cuya superficie del predio a desarrollarse sea igual o mayor a 100,000 metros cuadrados;
+
+II. Proyectos cuya superficie de construcción total a desarrollarse sea igual o mayor a 100,000 metros cuadrados, en cuyo caso se contabilizará la construcción sobre nivel de banqueta y bajo nivel de banqueta;
+
+III. Proyectos cuyo monto de inversión sea igual o mayor a mil millones de pesos, moneda nacional, o su equivalente en moneda extranjera;
+
+IV. Proyectos que requieran cambios de uso de suelo o modificaciones a los Programas de Desarrollo Urbano en una superficie igual o mayor a 100,000 metros cuadrados; y
+
+V. Proyectos de vivienda que contemplen 500 o más unidades, considerando el total de viviendas a desarrollarse.
+
+Se exceptuarán de la aplicación de las fracciones de este apartado, aquellos proyectos que formen parte de alguno de los programas sometidos a evaluación ambiental estratégica señalados en los apartados A, B y C del presente artículo.
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 3.
+
+Como parte del proceso de evaluación y a efecto de determinar políticas, estrategias y acciones para el Desarrollo Sustentable que deberán ser observadas durante la evaluación ambiental estratégica, la Secretaría solicitará los informes u opiniones a las dependencias, órganos desconcentrados y entidades de la Administración Pública Centralizada que correspondan, necesarios para resolver el asunto.
+
+El tiempo de respuesta para que las instancias correspondientes puedan emitir su opinión, no deberá exceder de veinte días contados a partir de la recepción de la petición; en caso contrario, se entenderá como opinión favorable.
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 4.
+
+Para atender cabalmente al objetivo del presente instrumento, la Secretaría llevará a cabo, entre otras, las siguientes acciones.
+
+I. Compartir información en tiempo real respecto de las demoliciones y obras que se inicien para que la acción institucional sea integral, colegiada y transparente;
+
+II. Difundir los canales de captación de quejas y denuncias, por parte de la ciudadanía;
+
+III. Difundir los criterios estratégicos;
+
+IV. Proponer reformas a leyes y reglamentos, así como establecer mejoras al esquema operativo;
+
+V. Proponer el desarrollo de sistemas de información necesarios para el desarrollo de sus funciones; y,
+
+VI. Las demás que se requieran para dar cumplimiento al presente instrumento.
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 5.
+
+La persona física o moral, pública o privada, promovente deberá entregar a la Secretaría la información que conformará la evaluación ambiental estratégica de planes y programas, cumpliendo con los siguientes requisitos:
+
+I. Información General sobre el promovente del plan, programa o proyecto;
+
+II. Diagnóstico de la problemática ambiental, social y económica de la zona donde se pretende realizar el plan, programa o proyecto;
+
+III. Vinculación del plan, programa o proyecto, en relación con el marco de actuación general del Gobierno de la Ciudad de México;
+
+IV. Delimitación geográfica del sistema territorial de aplicación;
+
+V. Descripción del sistema ambiental;
+
+VI. Instrumentos de comunicación e información al público y ejercicios ciudadanos de planeación participativa;
+
+VII. Aspectos críticos y vulnerabilidad;
+
+VIII. Relación entre la problemática objeto del plan, programa o proyecto con la estructura y funcionamientos del sistema ambiental;
+
+IX. Impactos urbano-ambientales y sobre el desarrollo sustentable;
+
+X. Medidas preventivas, de mitigación, minimización y compensación propuestas;
+
+XI. Mecanismos de evaluación y seguimiento de la implementación del plan, programa o proyecto relacionados con la prevención o control de efectos ambientales;
+
+XII. Indicadores de evaluación y seguimiento del plan, programa o proyecto;
+
+XIII. Definición de escenarios sobre el desarrollo económico, beneficio social, habitabilidad, movilidad, ordenamiento territorial, gobernanza y afectación ambiental, esperados como resultado del cumplimiento de los objetivos y metas del plan, programa o proyecto;
+
+XIV. Definición de responsabilidades para llevar a cabo el plan, programa o proyecto, integrando criterios ambientales bajo una lógica de transversalidad y gobernanza para supervisar el cumplimiento de las actividades para la prevención o control de efectos adversos al ambiente;
+
+XV. Estimación del presupuesto necesario para la ejecución de las consideraciones ambientales, las preventivas, de mitigación, minimización y compensación propuestas, así como para el seguimiento y evaluación ambiental del plan, programa o proyecto; y
+
+XVI. Descripción de la metodología empleada para definir la estructura del plan, programa o proyecto, considerando criterios ambientales y de sustentabilidad.
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 6.
+
+El procedimiento para la evaluación ambiental estratégica de planes, programas y proyectos, se sujetará a los siguientes lineamientos:
+
+I. La persona física o moral, pública o privada, que pretenda elaborar un plan, programa o realizar un proyecto, solicitará a la Secretaría el inicio del proceso de evaluación ambiental estratégica;
+
+II. La Secretaría solicitará la opinión de los entes públicos encargados de determinar las políticas, estrategias y acciones para el Desarrollo Sustentable;
+
+III. El promovente del plan, programa o proyecto designará a un prestador de servicios ambientales de impacto ambiental y riesgo, debidamente acreditado ante la propia Secretaría, para participar en el proceso de elaboración del plan, programa o proyecto de que se trate;
+
+IV. La Secretaría compilará las opiniones, observaciones y comentarios de los entes públicos, mismos que se harán del conocimiento de la persona física o moral, pública o privada, promovente del plan, programa o proyecto;
+
+V. El promovente, con la participación del prestador de servicios de impacto ambiental y riesgo designado, en seguimiento al proceso de evaluación ambiental estratégica y considerando las opiniones que al efecto emitan los entes públicos encargados de determinar las políticas, estrategias y acciones para el Desarrollo Sustentable, propondrá las adecuaciones y medidas de prevención, mitigación y compensación adicionales a implementar en el plan, programa o proyecto de que se trate;
+
+VI. Para continuar con el procedimiento de evaluación ambiental estratégica, la Secretaría conforme a la opinión a que se refiere fracción II del presente artículo, solicitará la validación de los entes públicos encargados de determinar las políticas, estrategias y acciones para el Desarrollo Sustentable, de la información las adecuaciones y medidas de prevención, mitigación y compensación adicionales a implementar en el plan, programa o proyecto de que se trate.
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 7.
+
+Para emitir el dictamen de evaluación ambiental estratégica de planes, programas o proyectos, la Secretaría considerará los criterios siguientes:
+
+I. Que observe una perspectiva de sustentabilidad;
+
+II. Que abarque el análisis integral del contexto social, económico, ambiental, legal e institucional donde se aplicará el plan, programa o proyecto;
+
+III. Que contemple el análisis, estudio y determinación de los efectos ambientales acumulativos, sinérgicos y significativos sobre el medio ambiente, provocados por el plan, programa o proyecto, según sea el caso;
+
+IV. Que incluya decisiones que prevengan, controlen o mitiguen los impactos ambientales adversos y efectos negativos sobre la dinámica urbana derivados de su implantación; y
+
+V. Que contribuya a la toma de decisiones sobre la aplicación o modificación del plan, programa o proyecto, en aras de la sustentabilidad ambiental del desarrollo de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 8.
+
+La Secretaría emitirá el dictamen de evaluación ambiental estratégica y lo notificará a la persona física o moral, pública o privada, promovente del plan, programa o proyecto.
+
+A través del dictamen de evaluación ambiental estratégica, la Secretaría podrá:
+
+I. Aprobar la instrumentación de los planes, programas o proyectos de que se trate, sujetándose al establecimiento de criterios estratégicos y medidas de prevención, mitigación y compensación que deberá cumplir el promovente con el fin de minimizar los costos y riesgos ambientales y urbanos, derivados de su puesta en operación; o
+
+II. Rechazar la instrumentación de los planes, programas o proyectos, cuando:
+
+a) Se contraponga con lo establecido en la Ley, el presente Reglamento, las normas oficiales mexicanas, las normas ambientales del Distrito Federal, los planes y programas de ordenamiento ecológico y de desarrollo urbano y demás disposiciones legales aplicables;
+
+b) Se afecte a la población en su salud o una o más especies en riesgo de conformidad con las categorías establecidas en la normatividad aplicable, o a las zonas intermedias de salvaguarda y elementos que contribuyen al ciclo hidrológico o algún o algunos ecosistemas en particular; y
+
+c) La instrumentación de los planes, programas o proyectos no garanticen la integridad del ambiente, la conservación y protección del medio ambiente de forma indefinida, se comprometa la satisfacción de las necesidades de las generaciones futuras, o se vulnere el derecho a la protección de la salud de las personas.
+
+El cómputo de plazos a que se sujetarán las formalidades contenidas en el presente capítulo, se estará a lo dispuesto por los capítulos IV, V y VI del presente Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 9.
+
+La Secretaría publicará en la Gaceta Oficial de la Ciudad de México, las guías y formatos de solicitud de evaluación ambiental estratégica, conforme a los cuales se detallarán los requisitos que deberá contener la carpeta de la evaluación ambiental estratégica.
+
+> <small>(ADICIONADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 8 Bis 10.
+
+La Secretaría informará a la Coordinación Estratégica, sobre el cumplimiento de criterios en materia de evaluación ambiental estratégica en los planes, programas y proyectos.
+
+Todos los entes públicos que conforman la Coordinación Estratégica participarán e implementarán las acciones que correspondan, en el ámbito de sus atribuciones, sosteniendo comunicación permanente sobre el seguimiento de cada uno de los procesos de construcción, ampliación, reparación o modificación de inmuebles en la Ciudad de México.
 
 ###### Artículo 9.
 
@@ -656,13 +882,13 @@ III. Descripción de las obras y actividades realizadas.
 
 Quienes hayan iniciado una obra o actividad para prevenir o controlar una situación de emergencia, además de dar el aviso a que se refiere el artículo anterior deberá presentar, dentro de un plazo de veinte días hábiles, un informe de las acciones realizadas y de las medidas de prevención, mitigación o compensación que apliquen o pretendan aplicar como consecuencia de la realización de dicha obra o actividad.
 
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 11.
 
-Cuando la Secretaría tenga conocimiento de que pretende iniciarse una obra o actividad o de que, ya iniciada ésta, su desarrollo cause o pueda causar desequilibrios ecológicos o rebasar los límites y condiciones establecidos en las disposiciones jurídicas relativas a la conservación del equilibrio ecológico y la protección al ambiente, notificará inmediatamente al interesado su determinación para que someta al procedimiento de evaluación de impacto ambiental o riesgo la obra o actividad que corresponda o la parte de ella aún no realizada, explicando las razones que la motiven, con el propósito de que aquél presente los informes, dictámenes y consideraciones que juzgue convenientes, en un plazo no mayor a diez días hábiles.
+Cuando la Secretaría o la Dirección General tengan conocimiento de que pretende iniciarse un plan, programa, proyecto, obra o actividad o de que, ya iniciada ésta, su desarrollo cause o pueda causar desequilibrios ecológicos o rebasar los límites y condiciones establecidos en las disposiciones jurídicas relativas a la conservación del equilibrio ecológico y la protección al ambiente, notificará inmediatamente al interesado su determinación para que someta dicho plan, programa, proyecto, obra o actividad al procedimiento de evaluación ambiental estratégica o de evaluación de impacto ambiental o riesgo, según corresponda, explicando las razones que la motiven, con el propósito de que aquél presente los informes, dictámenes y consideraciones que juzgue convenientes, en un plazo no mayor a diez días hábiles.
 
-Una vez recibida la documentación, la Secretaría, en un plazo no mayor a veinte días hábiles, comunicará al interesado si procede o no la presentación de una manifestación de impacto ambiental indicando, en su caso, la modalidad y el plazo en que deberá hacerlo. Asimismo, cuando se trate de obras o actividades que se hubiesen iniciado, la Secretaría aplicará las medidas de seguridad que procedan.
-
-Si la Secretaría no emite la comunicación en el plazo señalado se entenderá que no es necesaria la presentación de la manifestación de impacto ambiental sino del informe preventivo, en los términos previstos en este Reglamento, el cual deberá presentarse en un término de quince días hábiles contados a partir de la fecha en que debió darse la respuesta de la Secretaría.
+Una vez recibida la documentación, la Secretaría o la Dirección General, en un plazo no mayor a veinte días hábiles, comunicará al interesado si procede o no la presentación de una evaluación ambiental estratégica o de algún estudio de impacto ambiental, indicando, en su caso, la modalidad y el plazo en que deberá hacerlo. Asimismo, cuando se trate de obras o actividades que se hubiesen iniciado, deberá presentarse el estudio de daño ambiental a que hace referencia la Ley Ambiental de Protección a la Tierra en el Distrito Federal, sin perjuicio de que la Secretaría aplique las medidas de seguridad que procedan.
 
 ###### Artículo 12.
 
@@ -720,7 +946,7 @@ Para efectos de verificación y seguimiento por parte de la Secretaría, la copi
 
 Quienes indebidamente presenten a la Secretaría el aviso de ejecución de obras a que se refieren los artículos contenidos en los capítulos II y III del presente Reglamento, para evadir el procedimiento de obtención de la autorización del impacto ambiental en los términos de la Ley y de este Reglamento, se le tendrá por no presentado el aviso y se le seguirá el procedimiento respectivo para la imposición de medidas de seguridad y sanciones.
 
-### CAPÍTULO IV. DEL PROCEDIMIENTO PARA LA EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO, Y DE LAS MODALIDADES
+### CAPÍTULO III. DE LA REGULACIÓN DE OBRAS O ACTIVIDADES EXENTAS DE LA EVALUACIÓN DE IMPACTO AMBIENTAL
 
 ###### Artículo 18.
 
@@ -1022,7 +1248,7 @@ Las actividades de demolición señaladas en el artículo anterior, que consider
 
 Para fines de verificación de lo anterior, mientras se realicen las actividades, deberá siempre existir durante la jornada de trabajo, una copia del escrito con acuse de recibo por parte de la Secretaría.
 
-### CAPÍTULO V. DE LA CONSULTA PÚBLICA
+### CAPÍTULO IV. DEL PROCEDIMIENTO PARA LA EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO, Y DE LAS MODALIDADES
 
 ###### Artículo 33.
 
@@ -1058,13 +1284,17 @@ III. Con estudio de riesgo ambiental.
 
 Tratándose de obras o actividades incluidas en el apartado K) fracciones XXVI y XXVII del artículo 6 del presente ordenamiento, el estudio de riesgo ambiental a que se refiere la fracción III del presente artículo, estará sujeto a un reporte y visto bueno, conforme a las disposiciones y el procedimiento establecido por el Capítulo VI Bis del presente Reglamento.
 
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 37.
 
-Las manifestaciones de impacto ambiental se presentarán en la modalidad general, cuando se refieran a los programas, obras o actividades incluidos en los incisos, A) fracción II; C) fracción II; D) fracción II; G) fracción II; H); I); J) fracción I; L) fracción I; M) fracción II; N); y O) del artículo 6º, del presente ordenamiento.
+Las manifestaciones de impacto ambiental se presentarán en la modalidad general, cuando se refieran a obras o actividades incluidos (sic) en los apartados: C) fracción II; D) fracción II; G) fracción II; H); I); J) fracción I; L) fracción I; M) fracción II; N); y O) del artículo 6º, del presente ordenamiento.
+
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 38.
 
-Las manifestaciones de impacto ambiental se presentarán en la modalidad específica, cuando se refieran a los programas, obras o actividades incluidos en los apartados: A) fracciones I y III; B) fracciones I, II y III; C) fracción I; D) fracciones I y III; E); F); J) fracción II; L) fracción II y M) fracción I del artículo 6º, del presente ordenamiento.
+Las manifestaciones de impacto ambiental se presentarán en la modalidad específica, cuando se refieran a obras o actividades incluidos en los apartados: B) fracciones I, II y III; C) fracción I; D) fracciones I y III; E); F); J) fracción II; L) fracción II; y M) fracción I del artículo 6º, del presente ordenamiento.
 
 > <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2014)</small>
 
@@ -1082,7 +1312,9 @@ I. Nombre, denominación o razón social, nacionalidad, domicilio y teléfono de
 
 II. Datos generales de la persona física o moral responsable de elaborar la manifestación de impacto ambiental, así como el nombre del representante legal en ambos casos;
 
-III. Descripción del programa o proyecto de obra o actividad pretendida, abarcando la etapa de selección del sitio, preparación, construcción o ejecución, operación o desarrollo de la obra o actividad, debiendo contener:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE OCTUBRE DE 2018)</small>
+
+III. Descripción del proyecto de obra o actividad pretendida, abarcando la etapa de selección del sitio, preparación, construcción o ejecución, operación o desarrollo de la obra o actividad, debiendo contener:
 
 a) Localización, medidas y superficie del terreno requerido;
 
@@ -1226,9 +1458,11 @@ V. Planos de localización del predio en donde se pretenda desarrollar el proyec
 
 VI. Solicitud de inscripción en el registro de fuentes fijas y de descargas residuales del Distrito Federal, o de Licencia Ambiental Única, en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 45.
 
-Cuando se trate de programas, obras o actividades que requieran la presentación de una manifestación de impacto ambiental con estudio de riesgo, en modalidad general que se someta a consulta pública o en modalidad específica, el promovente deberá publicar a su costa, por una sola vez, en un diario de amplia circulación nacional y dentro de los cinco días hábiles siguientes a la integración del expediente, un resumen del proyecto.
+Cuando se trate de obras o actividades que requieran la presentación de una manifestación de impacto ambiental con estudio de riesgo, en modalidad general que se someta a consulta pública o en modalidad específica, el promovente deberá publicar a su costa, por una sola vez, en un diario de amplia circulación nacional y dentro de los cinco días hábiles siguientes a la integración del expediente, un resumen del proyecto.
 
 El resumen del proyecto de la obra o actividad contendrá, por lo menos, la siguiente información:
 
@@ -1344,9 +1578,7 @@ En este último caso, las modificaciones a la autorización deben ser dadas a co
 
 Transcurrido el plazo a que se refieren los artículos anteriores sin que la Secretaría notifique el particular cualquiera de las determinaciones posibles, se entenderá que el particular no requiere realizar ningún trámite adicional y que los términos y condiciones de la autorización emitida son aplicables para las modificaciones del proyecto.
 
-### CAPÍTULO VI
-
-DE LA EMISIÓN DE LAS RESOLUCIONES EN MATERIA DE IMPACTO AMBIENTAL Y RIESGO.
+### CAPÍTULO V. DE LA CONSULTA PÚBLICA
 
 ###### Artículo 57.
 
@@ -1360,11 +1592,15 @@ La consulta de los expedientes podrá realizarse en horas y días laborables, en
 
 La Secretaría publicará en un medio electrónico y colocará en las oficinas de recepción de las solicitudes, el listado de las manifestaciones de impacto ambiental que hubiere recibido y cuya evaluación aún se encuentre en trámite. Dicho listado deberá actualizarse cada dos días hábiles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 59.
 
-La Secretaría a solicitud de cualquier persona que considere que de establecerse o desarrollarse el programa, la obra o la actividad proyectada, o en las que dicho programa, obra o actividad pueda generar un efecto negativo sobre el ambiente, podrá llevar a cabo una consulta pública, respecto de proyectos sometidos a su consideración a través de manifestaciones de impacto ambiental.
+La Secretaría a solicitud de cualquier persona que considere que de establecerse o desarrollarse el plan, programa o proyecto, la obra o la actividad proyectada, o en las que dicho plan, programa o proyecto, obra o actividad, pueda generar un efecto negativo sobre el ambiente, podrá llevar a cabo una consulta pública, respecto de los programas o proyectos sometidos a su consideración a través de manifestaciones de impacto ambiental.
 
-La solicitud a que se refiere al párrafo anterior deberá presentarse por escrito dentro del plazo de diez días hábiles contados a partir de la integración del expediente o, cuando se trate de programas, obras o actividades sujetas a autorización a través de una manifestación ambiental en su modalidad específica, contados a partir de la publicación del proyecto.
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 2018)</small>
+
+La solicitud a que se refiere al (sic) párrafo anterior deberá presentarse por escrito dentro del plazo de diez días hábiles contados a partir de la integración del expediente o, cuando se trate de planes, programas o proyectos, obras o actividades sujetas a autorización a través de una manifestación ambiental en su modalidad específica, contados a partir de la publicación del proyecto.
 
 La solicitud debe precisar:
 
@@ -1398,9 +1634,9 @@ Las observaciones y propuestas a que se refiere el párrafo anterior deben formu
 
 IV. Una vez presentados los comentarios y observaciones, la Secretaría los ponderará y considerará al momento de emitir la resolución correspondiente en materia de impacto ambiental.
 
-### CAPÍTULO VI BIS. DE LAS ACTIVIDADES SUJETAS A EVALUACIÓN DE IMPACTO AMBIENTAL QUE REQUIEREN ESTUDIO DE RIESGO AMBIENTAL SUJETO A REPORTE Y VISTO BUENO
+### CAPÍTULO VI
 
-> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
+DE LA EMISIÓN DE LAS RESOLUCIONES EN MATERIA DE IMPACTO AMBIENTAL Y RIESGO.
 
 ###### Artículo 62.
 
@@ -1536,7 +1772,9 @@ En el caso a que se refiere la fracción anterior, cuando se hayan causado efect
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE OCTUBRE DE 2014)</small>
 
-### CAPÍTULO VII. DE LOS SEGUROS Y LAS GARANTÍAS
+### CAPÍTULO VI BIS. DE LAS ACTIVIDADES SUJETAS A EVALUACIÓN DE IMPACTO AMBIENTAL QUE REQUIEREN ESTUDIO DE RIESGO AMBIENTAL SUJETO A REPORTE Y VISTO BUENO
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 76 Bis.
 
@@ -1682,7 +1920,7 @@ Artículo 76 Cuaterdecies. Para el caso de cierre de operaciones o desistimiento
 
 Artículo 76 Quindecies. La modificación del proyecto amparado por una autorización de impacto ambiental, incluyendo requerimientos técnicos, cambio de propietario y cambio de titular, requiere previa autorización por escrito de la Dirección General.
 
-### CAPÍTULO VIII. DEL PROCEDIMIENTO DERIVADO DE LA PRESENTACIÓN DEL INFORME PREVENTIVO
+### CAPÍTULO VII. DE LOS SEGUROS Y LAS GARANTÍAS
 
 ###### Artículo 77.
 
@@ -1718,7 +1956,7 @@ Los recursos que se obtengan por el cobro de seguros o la ejecución de garantí
 
 Asimismo dichos recursos serán aplicados a la reparación de los daños causados por la realización de las obras o actividades de que se trate.
 
-### CAPÍTULO IX. DISPOSICIONES COMUNES A LA EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO, Y A LA AUTORIZACIÓN DEL INFORME PREVENTIVO
+### CAPÍTULO VIII. DEL PROCEDIMIENTO DERIVADO DE LA PRESENTACIÓN DEL INFORME PREVENTIVO
 
 ###### Artículo 81.
 
@@ -1812,7 +2050,7 @@ Transcurrido el plazo a que se refiere el párrafo anterior, sin que la autorida
 
 En aquellos casos en que por negligencia, dolo o mala fe, se ingrese el informe preventivo pretendiendo se aplique la afirmativa ficta, la Secretaría o Delegación, en su caso, tendrá por no presentado el trámite correspondiente, y en caso de que se hubiere emitido resolución o aplicado la referida afirmativa ficta, ésta se declarará sin efectos por la autoridad, independientemente de las sanciones que procedan.
 
-### CAPÍTULO X. DE LOS PRESTADORES DE SERVICIOS DE EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO
+### CAPÍTULO IX. DISPOSICIONES COMUNES A LA EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO, Y A LA AUTORIZACIÓN DEL INFORME PREVENTIVO
 
 ###### Artículo 86.
 
@@ -1848,7 +2086,7 @@ La persona que construya una obra nueva, amplíe una existente, explote recursos
 
 En estos casos, la Secretaría podrá solicitar a la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal el dictamen del daño causado y procederá a iniciar las acciones que correspondan para exigir su reparación.
 
-### CAPÍTULO XI. DE LA INSPECCIÓN, MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO X. DE LOS PRESTADORES DE SERVICIOS DE EVALUACIÓN DE IMPACTO AMBIENTAL Y RIESGO
 
 ###### Artículo 91.
 
@@ -1884,7 +2122,7 @@ IV. Informar de inmediato a la Secretaría sobre la existencia de riesgos ambien
 
 V. Las demás que se establezcan en otras deposiciones jurídicas aplicables.
 
-### CAPÍTULO XII. DE LA DENUNCIA CIUDADANA
+### CAPÍTULO XI. DE LA INSPECCIÓN, MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 96.
 
@@ -1966,7 +2204,7 @@ XI. Quien incurra más de una vez en conductas que impliquen infracciones a las 
 
 La Secretaría, además de las sanciones previstas en las fracciones anteriores podrá imponer una o más de las señaladas en el artículo 213 de la Ley, tomando en cuenta para ello los criterios establecidos en el artículo 214 de dicho ordenamiento.
 
-### CAPÍTULO XIII. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XII. DE LA DENUNCIA CIUDADANA
 
 ###### Artículo 105.
 
@@ -1979,6 +2217,8 @@ El denunciante, dentro de los cinco días hábiles siguientes a la presentación
 ###### Artículo 107.
 
 En ningún caso se admitirá denuncias notoriamente improcedentes o infundadas, aquellas en las que se advierta mala fe o aquellas en que no sea posible desprender petición alguna en relación con el objeto de dichas denuncias.
+
+### CAPÍTULO XIII. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 108.
 
@@ -2021,3 +2261,21 @@ G.O. 24 DE MARZO DE 2017.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los acuerdos administrativos necesarios para la implementación y ejecución de la evaluación ambiental estratégica, se expedirán dentro de los 30 días hábiles siguientes a la publicación del presente Decreto.
+
+CUARTO.- En tanto se expidan las disposiciones administrativas que deriven de la presente reforma seguirán en vigor aquéllas que no la contravengan.
+
+QUINTO.- Quedan excluidas las obras que se encuentren contempladas en la Ley para la Reconstrucción, Recuperación y Transformación de la Ciudad de México en una cada vez más Resiliente, publicada en la Gaceta Oficial de la Ciudad de México el 1 de diciembre de 2017.
+
+SEXTO.- Cualquier alusión al Distrito Federal contenida en el presente Reglamento, se entenderá hecha a la Ciudad de México.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
