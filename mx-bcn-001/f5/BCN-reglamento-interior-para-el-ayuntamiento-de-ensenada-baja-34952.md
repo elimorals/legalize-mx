@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2018-08-31"
+last_updated: "2018-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -35,7 +35,7 @@ EL H. AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA BAJA CALIFORNIA, POR ACUERDO DE CA
 
 A C U E R D O:
 
-Se aprobó en lo general por votación mayoritaria de los munícipes presentes, el Dictamen emitido por la Comisión de Gobernación y Legislación, relativo al Reglamento Interior para el Ayuntamiento de Ensenada, Baja California. - - La votación fue la siguiente: Once votos a favor correspondientes al Sindico Procurador. Abelardo Antillón Macías y a los Regidores: Julián Leobardo Rivera Velázquez, Rogelio Aros Guzmán, Thelma Rosa Castañeda Custodio, Marco Antonio Sepúlveda Navarro, Marcos Pérez Núñez, Salvador Solorio Tovar, Jesús Ramón Espinoza Morales, Juventino Alaníz Pinedo, Efraín Abraham Gutiérrez Galindo y al Presidente Municipal, Jorge Antonio Catalán Sosa.- Dos votos en contra correspondientes a los Regidores, Luis Fernando Valdéz Carmona y Jesús Bernardo Gastélum Valenzuela - Cero abstenciones.- Una ausencia justificada del Regidor, Alfonso Siordia Alor, y la inasistencia de la Regidora, Olga Edith Lucero Walfors.
+Se aprobó en lo general por votación mayoritaria de los munícipes presentes, el Dictamen emitido por la Comisión de Gobernación y Legislación, relativo al Reglamento Interior para el Ayuntamiento de Ensenada, Baja California. - - La votación fue la siguiente: Once votos a favor correspondientes al Síndico Procurador. Abelardo Antillón Macías y a los Regidores: Julián Leobardo Rivera Velázquez, Rogelio Aros Guzmán, Thelma Rosa Castañeda Custodio, Marco Antonio Sepúlveda Navarro, Marcos Pérez Núñez, Salvador Solorio Tovar, Jesús Ramón Espinoza Morales, Juventino Alaníz Pinedo, Efraín Abraham Gutiérrez Galindo y al Presidente Municipal, Jorge Antonio Catalán Sosa.- Dos votos en contra correspondientes a los Regidores, Luis Fernando Valdéz Carmona y Jesús Bernardo Gastélum Valenzuela - Cero abstenciones.- Una ausencia justificada del Regidor, Alfonso Siordia Alor, y la inasistencia de la Regidora, Olga Edith Lucero Walfors.
 
 Se extiende la presente certificación para los usos legales a que haya lugar, el día cinco de Noviembre del año dos mil tres.
 
@@ -475,11 +475,15 @@ SESIONES ORDINARIAS.
 
 El Ayuntamiento sesionará en forma ordinaria por lo menos dos veces al mes para tratar los asuntos de su competencia, de acuerdo a las necesidades de la administración.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+
 SESIONES EXTRAORDINARIAS.
 
-###### ARTÍCULO 43.
+###### Artículo 43.
 
-Podrán celebrarse sesiones extraordinarias de Cabildo cuando sea necesario, a juicio del Presidente Municipal o a petición de la mayoría de sus miembros, de acuerdo con el procedimiento previsto en el presente ordenamiento. Dichas sesiones se concretarán a tratar exclusivamente los asuntos para las que fueron convocadas.
+Podrán celebrarse sesiones extraordinarias de Cabildo cuando sea necesario, a juicio del Presidente Municipal o a petición de la mayoría de sus miembros, de acuerdo con el procedimiento previsto en el presente ordenamiento.
+
+Dichas sesiones se concretarán a tratar exclusivamente los asuntos para las que fueron convocadas. Sin embargo, si es necesario los ediles podrán solicitar la remoción de cualquier asunto.
 
 SESIONES SOLEMNES.
 
@@ -1767,7 +1771,7 @@ VII.- Supervisar el cumplimiento de las disposiciones legales que señalan oblig
 
 VIII.- Promover las prácticas de Organización Comunitaria y Planeación Participativa para atender las necesidades de la población del entorno regional del Municipio.
 
-XI.- Apoyar como enlace y vinculación entre el Ayuntamiento, las autoridades municipales del mismo y las autoridades Ejidales y Comunales y demás representantes de las organizaciones existentes en el medio rural.
+XI (SIC).- Apoyar como enlace y vinculación entre el Ayuntamiento, las autoridades municipales del mismo y las autoridades Ejidales y Comunales y demás representantes de las organizaciones existentes en el medio rural.
 
 X.- Promover ante lo Autoridad Municipal la provisión de bienes y servicios de desarrollo social destinados a las Comunidades Rurales y delegaciones.
 
@@ -2027,9 +2031,13 @@ Para que las Comisiones puedan sesionar válidamente, se requiere la asistencia 
 
 DISCUSION, ANALISIS Y RESOLUCION.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 130.
 
 Las Comisiones actuarán con plena libertad en los trabajos de discusión, análisis y resolución de los asuntos que les sean turnados, sin más limitaciones que el apego a la Ley, Reglamentos y la normatividad en general, así como del plazo que para emitir su dictamen se establece en el artículo 73 de este Ordenamiento.
+
+Las comisiones podrán acordar la acumulación de dos o más asuntos turnados cuando exista identidad, similitud o conexión entre los mismos, para efectos de ser resueltos en un solo dictamen.
 
 CONSENSO Y VOTACION.
 
@@ -2045,33 +2053,41 @@ Para efecto de que el Presidente Municipal ejerza el derecho de previa observaci
 
 Una vez agotado el proceso y considerando en su caso las observaciones, el, Coordinador de la Comisión elaborará el dictamen definitivo en el sentido de la resolución, que deberá ser firmado por los integrantes de la Comisión que hayan asistido a la sesión en la que se haya tomado el acuerdo o resolución. Quien haya votado en contra o se haya abstenido de votar, podrá hacerlo constar con su firma en el cuerpo del dictamen.
 
-ESTRUCTURA DEL DICTAMEN.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2018)</small>
+ESTRUCTURA DEL DICTAMEN
 
-###### ARTÍCULO 133.
+###### Artículo 133.
 
-El dictamen deberá contener por lo menos los siguientes elementos;
+El dictamen que emitan las comisiones deberá contener los siguientes elementos:
 
-I.- Número de expediente o dictamen y nombre de la Comisión o comisiones que lo emiten;
+I. Número de dictamen;
 
-II.- Fecha de recepción en la Comisión;
+II. Nombre de la Comisión o Comisiones que lo emiten;
 
-III.- Nombre y firma del promovente o promoventes del asunto, proyecto o iniciativa;
+III. Antecedentes, el cual deberá estar integrado por:
 
-IV.- Relataría (sic) de las actuaciones realizadas por la Comisión para normar su criterio y resolver al dictaminar;
+a) Fecha en que el asunto se presente en el Pleno de Cabildo;
 
-V.- Consideraciones y motivos que formaron convicción para apoyar, modificar o rechazar el asunto sometido a análisis y dictamen;
+b) Fecha en que, el asunto se remitió a comisión y;
 
-VI.- Fundamentos legales; y,
+c) Fecha en que la comisión sesiono el asunto.
 
-VII.- Conclusiones o Puntos Resolutivos.
+IV. Considerandos, el cual deberá estar integrado por:
 
-En los casos de dictámenes que afecten a una o varias personas, la comisión deberá comprobar que se entrevistó con las personas que en su caso, resultaren afectadas, y que les dio la oportunidad de manifestar sus consideraciones sobre el asunto que se dictamina.
+a) Fundamentos legales;
 
-Todos los dictámenes con su expediente, serán turnados al Secretario Fedatario del
+b) Iniciativa o punto de acuerdo y;
 
-Ayuntamiento en los términos que señala este reglamento.
+c) Análisis de la Comisión.
+
+V. Puntos resolutivos.
+
+El dictamen deberá ser firmado por los integrantes de la comisión; quien haya votado en contra o se abstenga de votar, podrá hacerlo constar con su firma en el mismo documento.
+
+En los casos de dictámenes que afecten a una o varias personas, la comisión deberá comprobar que se entrevistó con las personas que, en su caso, resultaren afectadas, y que les dio la oportunidad de manifestar sus consideraciones sobre el asunto que se dictamina.
+
+Todos los dictámenes con su expediente, serán turnados al Secretario Fedatario del Ayuntamiento en los términos que señala este reglamento.
 
 INFORMES ADMINISTRATIVOS.
 
@@ -2426,3 +2442,21 @@ P.O. 31 DE AGOSTO DE 2018.
 PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y/o en la Gaceta Municipal de Ensenada.
 
 SEGUNDO.- Sera Oficialía Mayor, quien cubrirá los gastos para la instalación de la placa conmemorativa correspondiente a cada Ayuntamiento.
+
+P.O. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA PROYECTO POR EL QUE SE REFORMA EL ARTÍCULO 130 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA (SIC) PROYECTO POR EL QUE SE REFORMA EL ARTÍCULO 133 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA PROYECTO POR EL QUE SE REFORMA EL ARTÍCULO 43 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
