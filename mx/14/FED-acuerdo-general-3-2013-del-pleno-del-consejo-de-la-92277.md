@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-10-26"
+last_updated: "2018-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -155,9 +155,9 @@ II. SEGUNDO CIRCUITO:
 
 III. TERCER CIRCUITO:
 
-> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 5/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 33/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
 
-1. Veintiún tribunales colegiados especializados: tres en materia penal; siete en materia administrativa, cinco en materia civil, y cinco en materia de trabajo, todos con residencia en Zapopan y uno en materia civil, con sede en Guadalajara, en Jalisco.
+1. Veintidós tribunales colegiados especializados: tres en materia penal; siete en materia administrativa, cinco en materia civil, y cinco en materia de trabajo, todos con residencia en Zapopan; uno en materia penal y uno en materia civil, ambos con sede en Guadalajara, en Jalisco.
 
 > <small>(REFORMADO, D.O.F. 28 DE AGOSTO DE 2017)</small>
 
@@ -207,9 +207,9 @@ VI. SEXTO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en San Andrés Cholula.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
 
-3. Trece juzgados de Distrito especializados en el Estado de Puebla: dos de procesos penales federales; seis de amparo en materias civil, administrativa y de trabajo y de juicios federales y cinco de amparo en materia penal; los once primeros, con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
+3. Quince juzgados de Distrito especializados en el Estado de Puebla: dos de procesos penales federales; ocho de amparo en materia civil, administrativa y de trabajo y de juicios federales; y cinco de amparo en materia penal; los trece primeros, con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
 
 4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula.
 
@@ -869,13 +869,13 @@ QUINTO. Centros Auxiliares Regionales:
 
 1. El Centro Auxiliar de la Primera Región se integrará por cuatro tribunales colegiados de Circuito Auxiliares, dos con residencia en la Ciudad de México y dos con residencia en Naucalpan de Juárez, Estado de México, y tres juzgados de Distrito auxiliares con sede en la Ciudad de México, de los cuales, uno está especializado además en materia de extinción de dominio;
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
 
-2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y cuatro juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla.
+2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla.
 
-> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 5/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 33/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
 
-3. El Centro Auxiliar de la Tercera Región se integrará por un tribunal unitario de Circuito con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+3. El Centro Auxiliar de la Tercera Región se integrará por dos juzgados de Distrito Auxiliares uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
 
 > <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
 
@@ -7250,3 +7250,79 @@ A fin de equilibrar las cargas de trabajo que llegaren a presentarse en el Juzga
 CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores. El órgano jurisdiccional deberá contar con una sala para la celebración de las audiencias orales, así como con un sistema informático y de videograbación para el registro de éstas por medios electrónicos que garanticen su fidelidad, integridad, preservación, la reproducción de su contenido y el acceso a quienes tuvieren derecho a ello.
 
 QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+D.O.F. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS DE DISTRITO DEL CENTRO AUXILIAR DE LA SEGUNDA REGIÓN, CON RESIDENCIA EN SAN ANDRÉS CHOLULA, PUEBLA; EL INICIO DE FUNCIONES DE LOS JUZGADOS SÉPTIMO Y OCTAVO DE DISTRITO EN MATERIA DE AMPARO CIVIL, ADMINISTRATIVA Y DE TRABAJO Y DE JUICIOS FEDERALES EN EL MISMO ESTADO Y RESIDENCIA, SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE LA MATERIA Y ENTIDAD FEDERATIVA INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones de los Juzgados Primero, Segundo, Tercero y Sexto de Distrito del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, y el inicio de funciones de los Juzgados Séptimo y Octavo de Distrito en Materia de Amparo Civil, Administrativa y de Trabajo y de Juicios Federales en el mismo Estado y residencia, implicará el traslado de dos de sus titulares, en la misma calidad, en tanto que otros dos serán readscritos por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+
+El traslado del personal con su plaza se deberá realizar respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que los órganos jurisdiccionales de nueva creación deberán contar con la plantilla de personal que tienen sus homólogos.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales que inician funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los órganos jurisdiccionales que inician funciones, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+D.O.F. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 33/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEXTO TRIBUNAL UNITARIO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUADALAJARA, JALISCO; EL INICIO DE FUNCIONES DEL CUARTO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL TERCER CIRCUITO, SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA ESPECIALIZACIÓN Y CIRCUITO INDICADOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de noviembre de dos mil dieciocho, con excepción del artículo 1, el cual entrará en vigor en la fecha señalada en el mismo; y de los Transitorios CUARTO y QUINTO de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Cuarto Tribunal Colegiado en Materia Penal del Tercer Circuito, formará parte del Pleno del Tercer Circuito en Materia Penal a partir del uno de noviembre de dos mil dieciocho, de conformidad con lo establecido por el Acuerdo General 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; y de Adscripción.
+
+CUARTO. La Dirección General de Recursos Humanos atenderá la situación laboral, derivada de la conclusión del Sexto Tribunal Unitario del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional de nueva creación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+SEXTO. Se reforman los numerales SEGUNDO, fracción III, número 1; y QUINTO, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. …
+
+I. a II. …
+
+III. …
+
+1. Veintidós tribunales colegiados especializados: tres en materia penal; siete en materia administrativa, cinco en materia civil, y cinco en materia de trabajo, todos con residencia en Zapopan; uno en materia penal y uno en materia civil, ambos con sede en Guadalajara, en Jalisco.
+
+2. a 4. …
+
+IV. a XXXII. …
+
+QUINTO. …
+
+1. a 2. …
+
+3. El Centro Auxiliar de la Tercera Región se integrará por dos juzgados de Distrito Auxiliares uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+4. a 11. ...
+
+…"
+
+SÉPTIMO. Se reforma el numeral PRIMERO, primer párrafo; y se derogan la fracción II y el inciso d) de esta fracción, del numeral PRIMERO, del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+"PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Tercera Región está conformado por dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+…
+
+I. ...
+
+II. Derogada
+
+a) a c) …
+
+d) Derogado
+
+e) …
+
+III. ..."
+
+OCTAVO. El Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco, previo a su conclusión de funciones deberá remitir los asuntos pendientes de resolución de manera equitativa a los Tribunales Unitarios del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa. Los asuntos que reciban los Tribunales Unitarios en cita, formarán parte de la remesa del mes correspondiente de dos mil dieciocho.
