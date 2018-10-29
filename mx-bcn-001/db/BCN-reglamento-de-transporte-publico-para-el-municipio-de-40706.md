@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2018-08-24"
+last_updated: "2018-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -1067,6 +1067,10 @@ XV.- Cuando se exhiba documentación apócrifa, o se proporcionen informes o dat
 
 XVI.- Por así exigirlo el interés social.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2018)</small>
+
+XVII.- Por no prestar el servicio público en los términos y condiciones señalados en el permiso o concesión otorgados.
+
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 60.
@@ -1998,3 +2002,9 @@ P.O. 24 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 73 BIS DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente iniciativa entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN AL ARTÍCULO 59 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, CON EL QUE SE ADICIONA EL INCISO XVII DE LAS CAUSAS DE REVOCACIÓN DE PERMISOS Y CONCESIONES".]
+
+ÚNICO.- La presente adición entrara en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
