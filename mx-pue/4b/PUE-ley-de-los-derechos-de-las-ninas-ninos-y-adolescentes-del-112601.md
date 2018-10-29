@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-07-31"
+last_updated: "2018-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -641,9 +641,9 @@ XIV. Promover en niñas, niños y adolescentes el respeto al medio ambiente;
 
 XV. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2018)</small>
 
-XVI. Establecer acciones afirmativas que garanticen el acceso, permanencia y reingreso de niñas y adolescentes embarazadas;
+XVI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas en el sistema educativo, y faciliten con posterioridad al parto su reingreso, así como promuevan su egreso del mismo; y
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
@@ -1924,6 +1924,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 73 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 125 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 48 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
