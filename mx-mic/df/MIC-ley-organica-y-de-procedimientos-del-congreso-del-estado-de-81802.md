@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2018-07-23"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -393,9 +393,11 @@ VI. Jurado de Sentencia.
 
 ### CAPÍTULO SEGUNDO. DE LA MESA DIRECTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 29.
 
-La Mesa Directiva se integra con un Presidente, quien es el Presidente del Congreso, un Vicepresidente y tres secretarios, por un periodo de un año, electos en votación nominal y en un solo acto, a propuesta de la Junta, cuidando la representación plural del Congreso.
+La Mesa Directiva se integra con un Presidente, quien es el Presidente del Congreso, un Vicepresidente y tres secretarios, por un periodo de un año, electos en votación nominal y en un solo acto, a propuesta de la Junta, cuidando la representación plural del Congreso. En la integración de la Mesa Directiva se procurará observar el principio de igualdad de género.
 
 La elección se hará en el mes de septiembre de cada año e iniciarán sus funciones el día quince del propio mes.
 
@@ -3945,7 +3947,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-TERCERO. Por única ocasión para la elección de dos mil dieciocho, los diputados que hubiesen sido electos por un distrito electoral que sufrió modificaciones en su configuración por la reedistritación, podrán acceder a la elección consecutiva por un distrito distinto, al que ahora pertenezca su municipio de residencia u origen.
+TERCERO. Por única ocasión para la elección de dos mil dieciocho, los diputados que hubiesen sido electos por un distrito electoral que sufrió modificaciones en su configuración por la reedistritación (sic), podrán acceder a la elección consecutiva por un distrito distinto, al que ahora pertenezca su municipio de residencia u origen.
 
 CUARTO. Lo no establecido en el presente Decreto, estará a lo dispuesto en reglamentos y acuerdos que para el efecto emita el Instituto Electoral de Michoacán.
 
@@ -3988,3 +3990,9 @@ SEGUNDO. El Consejo General de Instituto Electoral de Michoacán; el Pleno del T
 El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
 
 TERCERO. El Poder Judicial del Estado de Michoacán; el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 597.- ARTÍCULO PRIMERO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 49 FRACCIÓN XVI, 92 Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 93 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 29 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
