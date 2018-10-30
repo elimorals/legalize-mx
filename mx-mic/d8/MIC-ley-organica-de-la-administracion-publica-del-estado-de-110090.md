@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2017-07-18"
+last_updated: "2018-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -153,9 +153,11 @@ XII. Expedir los manuales de organización, de procedimientos y de servicios al 
 
 XIII. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 13.
 
-El Gobernador del Estado, nombrará y removerá libremente a los titulares de las dependencias y entidades, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo o en las leyes.
+El Gobernador del Estado, nombrará y removerá libremente a los titulares de las dependencias y entidades, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo o en las leyes, procurando observar el principio de igualdad de género, en el primer nivel de mando de la estructura orgánica.
 
 Los titulares de las dependencias de la Administración Pública Estatal, designarán a los servidores públicos dentro de las dependencias a que se refiere la presente ley, previo acuerdo con el Gobernador del Estado.
 
@@ -1666,6 +1668,12 @@ P.O. 18 DE JULIO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Ejecutivo del Estado contará con un término de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para adecuar la normatividad secundaria.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 597 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTICULO PRIMERO.
 
