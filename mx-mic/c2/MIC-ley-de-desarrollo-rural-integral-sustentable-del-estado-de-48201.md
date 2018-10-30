@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2016-12-12"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el periódico oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -139,9 +139,9 @@ V. Autogestión: Capacidad de las personas en lo individual y en forma organizad
 
 VI. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-VII. Autoridades competente (sic): El Titular del Poder Ejecutivo del Estado, la Secretaría de Desarrollo Rural; y los Ayuntamientos de los Municipios.
+VII. Autoridades competentes: El Titular del Poder Ejecutivo del Estado, la Secretaría de Desarrollo Rural y Agroalimentario y los gobiernos municipales;
 
 VIII. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
@@ -171,7 +171,9 @@ XIX. Consejo Municipal: El Consejo Municipal para el Desarrollo Rural Sustentabl
 
 XX. Concurrencia: La acción e inversión conjunta de esfuerzos y recursos entre sociedad y gobierno; órdenes de gobierno y agentes de los diversos sectores de los ámbitos mencionados (gobierno, sociedad, sector productivo, órdenes) en el logro de los objetivos del desarrollo rural sustentable;
 
-XXI. Cuenca hidrográfica. Unidad natural de espacio físico básica para la planeación y el desarrollo, definida por la existencia de la divisioria (sic) de las aguas en un territorio dado;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXI. Cuenca hidrográfica: Unidad natural de espacio físico básica para la planeación y el desarrollo, definida por la existencia de la línea divisoria de las aguas en un territorio dado;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
 
@@ -192,6 +194,12 @@ XXVI Bis. Fuentes de energía alternativas renovables: Aquéllas que pueden rege
 XXVII. Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sostenible y sustentable;
 
 XXVIII. Investigación y transferencia de tecnología: La investigación y la modernización tecnológicas aplicadas a las actividades rurales, así como las acciones que tengan por objeto el fomento de productividad, calidad, inocuidad, mejoramiento genético, protección, control y erradicación de enfermedades de las especies vegetales y animales; así como todas aquellas acciones que permitan disponer de mayor eficiencia y eficacia de los procesos productivos y de servicios en el medio rural;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXVIII Bis. Jornalero agrícola: Los trabajadores estacionales del campo o jornaleros son aquellas personas físicas que son contratadas para laborar en explotaciones agrícolas, ganaderas, forestales, acuícolas o mixtas, únicamente en determinadas épocas del año, para realizar actividades relacionadas o que van desde la preparación de la tierra, hasta la preparación de los productos para su primera enajenación, ya sea que sean producidos a cielo abierto, en invernadero o de alguna otra manera protegidos, sin que se afecte su estado natural; así como otras de análoga naturaleza agrícola, ganadera, forestal, acuícola o mixta. Puede ser contratada por uno o más patrones durante un año, por periodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón.
+
+No se considerarán trabajadores estacionales del campo, los que laboren en empresas agrícolas, ganaderas, forestales, acuícolas o mixtas que adquieran productos del campo, para realizar actividades de empaque, re empaque, exposición, venta o para su transformación a través de algún proceso que modifique su estado natural.
 
 XXIX. Ley: La Ley de Desarrollo Rural Integral Sustentable del Estado de Michoacán de Ocampo;
 
@@ -221,7 +229,9 @@ XL. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 XLI. Rural: la definición territorial aplicada a poblaciones con actividades económicas preponderantemente primarias, hasta de 2,500 habitantes; áreas conurbadas y áreas urbanas que realicen actividades agropecuarias, pesqueras, forestales o de transformación agroindustrial;
 
-XLII. Secretaría: La Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XLII. Secretaría: La Secretaría de Desarrollo Rural y Agroalimentario;
 
 XLIII. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de los alimentos a la población, sin importar el origen de los bienes que proveen dicho abasto;
 
@@ -251,9 +261,13 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
-II. La Secretaría de Desarrollo Rural; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-III. Los Ayuntamientos.
+II. La Secretaría de Desarrollo Rural y Agroalimentario; y,
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III. Los gobiernos municipales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
@@ -263,9 +277,9 @@ Son autoridades concurrentes para efectos de esta Ley y su Reglamento, en el ám
 
 I. Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-II. Coordinación de Planeación para el Desarrollo;
+II. Instituto de Planeación del Estado del Michoacán de Ocampo;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
 
@@ -275,7 +289,9 @@ IV. Procuraduría General de Justicia;
 
 V. Secretaría de Seguridad Pública;
 
-VI. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VI. Secretaría de Desarrollo Social y Humano;
 
 VII. Secretaría de Salud;
 
@@ -361,9 +377,11 @@ X. Contribuir al fomento y conservación de la biodiversidad, al mejoramiento de
 
 XI. Las demás que le otorguen la presente Ley, reglamentos; normatividad aplicable en materia rural.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-El Consejo Estatal será presidido por el Titular del Poder Ejecutivo del Estado, el Secretario Ejecutivo será el titular de la Secretaría de Desarrollo Rural y podrá invitarse como Secretario Técnico, al Delegado en el Estado, de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación. Su integración deberá ser representativa de la composición económica y social de la entidad y un representante de la legislatura local será miembro permanente, todos ellos con carácter honorífico. Para la integración del consejo estatal se atenderá lo estipulado en el Capítulo III de la Ley de Desarrollo Rural Sustentable, más las exigencias propias del Estado.
+El Consejo Estatal será presidido por el Titular del Poder Ejecutivo del Estado, el Secretario Ejecutivo será el titular de la Secretaría de Desarrollo Rural y Agroalimentario y podrá invitarse como Secretario Técnico, al Delegado en el Estado, de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación. Su integración deberá ser representativa de la composición económica y social de la Entidad y el Presidente de la Comisión de Desarrollo Rural como representante de la legislatura local será miembro permanente, todos ellos con carácter honorífico. Para la integración del consejo estatal se atenderá lo estipulado en el Capítulo III de la Ley de Desarrollo Rural Sustentable, más las exigencias propias del Estado.
 
 ###### Artículo 11.
 
@@ -389,11 +407,11 @@ IX. Aprobar los proyectos y asignación de apoyos que establezcan las reglas de 
 
 X. Opinar sobre controversias y actuar como instancia recursiva entre particulares y entre éstos y la autoridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-Compete a la Secretaría de Desarrollo Rural, las atribuciones siguientes:
+Compete a la Secretaría de Desarrollo Rural y Agroalimentario, las atribuciones siguientes:
 
 I. Coordinar las instancias, procesos y acciones que promuevan el desarrollo rural integral sustentable en el Estado, observando la normatividad de las dependencias y entidades concurrentes y coadyuvantes;
 
@@ -443,6 +461,10 @@ XXII. Impulsar la creación y fortalecimiento de la agroindustria, incrementar e
 
 XXII Bis. Censar, elaborar y publicar anualmente el registro de los viveros existentes, con la finalidad de conocer el volumen y destino de la producción total de plantas de los cultivos agrícolas del Estado;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXII Ter. Elaborar un padrón anual con el apoyo de los gobiernos municipales y del Consejo Estatal de Población, de los jornaleros agrícolas (sic) sus familias en el Estado;
+
 XXIII. Participar en la vigilancia, prevención y combate de incendios; en el control del pastoreo en las zonas boscosas y en la realización de todas las labores de investigación, protección y repoblación que se estimen convenientes y necesarias para la conservación de los recursos forestales de la entidad y supervisar las que ejecuten los particulares, en los términos de los convenios que se celebren con la Federación y los municipios del Estado, y atendiendo las disposiciones establecidas en la Ley de Desarrollo Forestal del Estado de Michoacán de
 
 Ocampo;
@@ -475,7 +497,17 @@ VII. Fomentar, en el ámbito de su competencia, la conservación de la biodivers
 
 VIII. Promover la participación de organismos públicos, privados, sociales y no gubernamentales, en proyectos estratégicos de desarrollo rural municipal;
 
-IX. Garantizar la amplia inclusión, representación y participación en los Consejos Municipales de Desarrollo Rural Integral Sustentable, de los representantes de las cadenas productivas, organizaciones de productores, organizaciones sociales, asociaciones civiles, instituciones educativas y científicas, entre otras; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX. Garantizar la amplia inclusión, representación y participación en los Consejos Municipales de Desarrollo Rural Integral Sustentable, de los representantes de las cadenas productivas, organizaciones de productores, organizaciones sociales, asociaciones civiles, instituciones educativas y científicas, entre otras;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX Bis. Coadyuvar con la Secretaría para elaborar el padrón anual de los jornaleros agrícolas, así como supervisar que sus condiciones laborales sean justas, contribuyendo además a mejorar su calidad de vida;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX Ter. Incluir en su Plan de Desarrollo y a su vez en el capítulo del Desarrollo Rural Municipal, las metas, objetivos y políticas públicas que directamente beneficien a los jornaleros agrícolas; y,
 
 X. Las demás que conforme a la presente Ley le correspondan.
 
@@ -535,13 +567,17 @@ La rectoría de la planeación estatal corresponde al Ejecutivo Estatal y a los 
 
 La planeación del desarrollo rural corresponde al Consejo Estatal y a los pobladores rurales, en general, en el marco de las disposiciones de la Ley de Planeación del Estado de Michoacán y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 24.
 
-La planeación para el desarrollo rural tomará en cuenta las demandas y aspiraciones de los productores rurales, familias, núcleos sociales y organizaciones económicas, entre otros, como eje de la planeación del sector rural.
+La planeación para el desarrollo rural tomará en cuenta las demandas, necesidades y aspiraciones de los productores rurales, jornaleros agrícolas, familias, núcleos sociales y organizaciones económicas, entre otros, como eje de la planeación del sector rural.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 25.
 
-La base de la planeación del desarrollo rural, la constituye (sic) los Comités de Desarrollo Rural, quienes participarán en la integración del Plan de Desarrollo Rural Municipal. La representación municipal presentará sus propuestas para ser incluidas en programas de desarrollo rural regional y éstos a su vez, deberán ser consideradas en el Programa Estatal de Desarrollo Rural.
+La base de la planeación del desarrollo rural, la constituyen los Comités de Desarrollo Rural, quienes participarán en la integración del Plan de Desarrollo Rural Municipal. La representación municipal presentará sus propuestas para ser incluidas en programas de desarrollo rural regional y éstas a su vez, deberán ser consideradas en el Programa Estatal de Desarrollo Rural.
 
 ###### Artículo 26.
 
@@ -647,7 +683,13 @@ VII. La adopción de la jurisdicción territorial de los Distritos de Desarrollo
 
 VIII. Los procedimientos mediante los cuales el Gobierno Federal aplica programas especiales de atención en situaciones de emergencia;
 
-IX. La reclasificación de los municipios y localidades marginadas atendiendo a la realidad estatal, además de lo que especifica la normatividad federal; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX. La reclasificación de los municipios y localidades marginadas atendiendo a la realidad estatal, además de lo que especifica la normatividad federal;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX Bis. Las acciones y programas que tengan como objetivo el apoyo directo a los trabajadores agrícolas; y,
 
 X. Las demás necesarias para el cumplimiento del objeto de esta Ley.
 
@@ -680,6 +722,12 @@ El Gobierno Estatal mantendrá la coordinación con el Gobierno Federal para amp
 ###### Artículo 38.
 
 (DEROGADO, P.O. 19 DE AGOSTO DE 2014)
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 38 Bis.
+
+Se fomentará la participación de los municipios en el desarrollo rural, y el papel de los distritos de desarrollo rural, impulsando la simplificación administrativa de la Secretaría y la delegación de funciones para la atención expedita a productores rurales y jornaleros agrícolas, mediante la creación de la ventanilla única de atención municipal, la cual deberá contar con la información actualizada referente a los programas y acciones destinadas a este sector.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2014)</small>
 
@@ -779,11 +827,11 @@ VII. Los demás necesarios.
 
 La responsabilidad operativa del Sistema Estatal de Financiamiento Rural, podrá ser delegada a una institución bancaria y de servicios financieros, autorizada legalmente, con estructura que garantice su funcionamiento y la adecuada administración de los recursos, en concordancia con el artículo 21 de esta Ley.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 47.
 
-La responsabilidad administrativa del Sistema Estatal de Financiamiento Rural funcionará de manera autónoma con la vigilancia de la Secretaría, el Consejo Estatal y asesoría de la Secretaría de Finanzas y administración; y la Coordinación de Planeación para el Desarrollo y la Coordinación de Contraloría.
+La responsabilidad administrativa del Sistema Estatal de Financiamiento Rural funcionará de manera autónoma con la vigilancia de la Secretaría, el Consejo Estatal y asesoría de la Secretaría de Finanzas y Administración, el área de planeación del Gobierno Estatal y la Secretaría de Contraloría.
 
 ###### Artículo 48.
 
@@ -813,9 +861,17 @@ Para apoyar a los pobladores rurales, el sistema financiero costeará la formula
 
 Ante la necesidad de formular estudios y proyectos para la adquisición de financiamiento, y tomando en cuenta lo conveniente de la vinculación de las instituciones de educación media superior y superior con las actividades rurales, serán válidos los trabajos que éstas realicen en bien de los pobladores rurales, respetando la metodología que para tal propósito defina la Secretaría.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 55.
 
-La Secretaría, dará prioridad en la inversión presupuestal al establecimiento o fortalecimiento de cadenas productivas que promuevan productores certificados en competencia laboral, y/o a quienes se comprometan a ingresar o estén en el sistema estatal de capacitación, tomando en cuenta la vocación de la región para garantizar el éxito empresarial, mediante el acceso anticipado a recursos de diversos programas federales, estatales y municipales, incluso al financiamiento.
+La Secretaría dará prioridad en la inversión presupuestal en los siguientes aspectos:
+
+I. A la mejora de la calidad de vida de los jornaleros agrícolas y los pobladores rurales;
+
+II. Al establecimiento o fortalecimiento de las cadenas productivas que promuevan productores certificados en competencia laboral; y,
+
+III. A quienes se comprometan a ingresar o estén en el sistema estatal de capacitación, tomando en cuenta la vocación de la región para garantizar el éxito empresarial, mediante el acceso anticipado de recursos de diversos programas federales, estatales y municipales, incluso al financiamiento.
 
 ## TÍTULO IV. Del Desarrollo Agrícola, Ganadero, Acuícola y Silvícola
 
@@ -857,9 +913,11 @@ VIII. La determinación de necesidades de productos y establecimiento de los cul
 
 La Secretaría en coordinación con las autoridades competentes en materia de cambio de uso de suelo, deberá prever la obligación a que se destine el veinte por ciento de la superficie para la plantación de especies forestales nativas, una vez otorgada la autorización con el fin de contribuir a la recuperación del equilibrio ecológico.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 57.
 
-Prevista la demanda de los diversos productos señalados en el artículo anterior, la Secretaría coordinará las acciones para las superficies a sembrar de cada cultivo, según aptitud productiva por cada región del Estado, incentivando y consensando (sic) con los productores la regulación de las superficies de siembra y plantaciones agrícolas.
+Prevista la demanda de los diversos productos señalados en el artículo anterior, la Secretaría coordinará las acciones para las superficies a sembrar de cada cultivo, según aptitud productiva por cada región del Estado, incentivando y consensuado con los productores la regulación de las superficies de siembra y plantaciones agrícolas.
 
 ###### Artículo 58.
 
@@ -1029,9 +1087,11 @@ Los gobiernos Federal, Estatal y Municipal, cuando así lo convengan con los pro
 
 El Ejecutivo Estatal, a través de las dependencias y entidades competentes y con la participación del Consejo Estatal, establecerá las medidas de regulación y fomento, conducentes a la asignación de la carga de ganado adecuada a la capacidad de las tierras de pastoreo y al mejoramiento de su condición, de acuerdo con la tecnología disponible y las recomendaciones técnicas respectivas, que propicien la conservación o incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de los productores.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 94.
 
-El Gobierno Estatal aplicará los programas de fomento de manera que se estimule a los productores de bienes y servicios para la adopción de tecnologías de producción que optimicen el uso del agua y la energía e incrementen la productividad sustentable, a través de la introducción de prácticas sustentables en los Planes de Manejo de Tierras, sobre los que se basen los Contratos de Aprovechamiento de Tierras previstos en el artículo 53 de la Ley Federal de Desarrollo Rural Sustentable y en el artículo 91 de esta Ley.
+El Gobierno Estatal aplicará los programas de fomento de manera que se estimule a los productores de bienes y servicios para la adopción de tecnologías de producción que optimicen el uso del agua y la energía e incrementen la productividad sustentable, a través de la introducción de prácticas sustentables en los Planes de Manejo de Tierras, sobre los que se basen los Contratos de Aprovechamiento de Tierras previstos en el artículo 53 de la Ley de Desarrollo Rural Sustentable y en el artículo 91 de esta Ley.
 
 ###### Artículo 95.
 
@@ -1053,6 +1113,10 @@ La Secretaría, realizará el empadronamiento anual de las tierras destinadas a 
 
 El Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría, dependencias y entidades competentes y El Consejo Estatal participarán en el diseño, complemento y ejercicio de las medidas sanitarias, de inocuidad y de bioseguridad para lograr un desarrollo sustentable comercial, agropecuario, forestal, pesquero y acuícola, libre de plagas y enfermedades, minimizando el riesgo en los procesos productivos, en el ambiente, y en la salud de la población, así como en la comercialización de productos en los mercados.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+En dichas medidas sanitarias, de inocuidad y bioseguridad diseñadas e implementadas por el Titular del Poder Ejecutivo y las dependencias competentes, deberá observarse el principio precautorio en caso de ausencia de información completa o certeza científica, que pudiera producir daños graves o irreversibles en el ambiente o en la salud humana.
+
 ###### Artículo 98.
 
 Para efectos del artículo anterior, además de las que se dicten mediante el Servicio Nacional de Sanidad, Inocuidad, Calidad Agropecuaria y Alimentaria, se tomaran las medidas siguientes:
@@ -1061,11 +1125,15 @@ I. Vigilar el cumplimiento de las normas oficiales mexicanas y técnicas, y gene
 
 II. Promover el desarrollo de programas encaminados a la aplicación de medidas destinadas a la recolección, deposito, almacenamiento, tratamiento y destino final de desechos tóxicos, químicos, plásticos y otros productos con capacidad de contaminar suelos, agua, aire, medio ambiente y población;
 
-III. Apoyar a la autoridad correspondiente en la inspección de empresas fabricantes, distribuidoras y comercializadoras de insumos y productos químicos y biológicos para uso agropecuario; piscícola y forestal;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III. Apoyar a la autoridad correspondiente en la inspección y censo de empresas comercializadoras y distribuidoras de plaguicidas, fertilizantes, agroquímicos, compuestos químicos y sustancias tóxicas; de empresas dedicadas al tratamiento, transporte y disposición final de los residuos peligrosos, así como de empresas de reciclado de plásticos de productos tóxicos; empresas que fabrican, formulan, mezclan, envasan, comercializan y aplican plaguicidas; y laboratorios certificados para el análisis de plaguicidas, nutrientes vegetales y sustancias tóxicas para uso agropecuario; piscícola y forestal;
 
 IV. Supervisar la distribución, comercialización y manejo de productos químicos y biológicos, que representen riesgo a la salud de trabajadores agrícolas y población en general;
 
-V. Fomentar el uso de fertilizantes biológicos y orgánicos, de métodos de control biológico inducido para el control de plagas y enfermedades en los cultivos agrícolas, y cuando sea técnicamente viable para el control de plagas y enfermedades de animales, orientando las acciones hacia una producción amigable con el entorno;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+V. Fomentar el uso de fertilizantes e insumos biológicos y orgánicos, de métodos de control biológico inducido para el control de plagas y enfermedades, en los cultivos agrícolas y cuando sea técnicamente viable para el control de plagas y enfermedades de animales, orientando las acciones hacia una producción amigable con el entorno, que promueva la transición hacia la producción sostenible, a fin de incentivar la reconversión de la agricultura contemporánea, basada en agroquímicos, a una agricultura orgánica y sustentable;
 
 VI. Mantener un registro de los productos que puedan ser utilizados en las campañas sanitarias agrícolas, ganaderas y forestales;
 
@@ -1085,7 +1153,13 @@ XIII. Certificar y facilitar la movilización y libre tránsito de productos y s
 
 XIV. Promover el uso eficiente del recurso agua, su saneamiento, manejo del suelo agrícola y desechos generados, para prevenir la contaminación ambiental y sus efectos en la salud humana;
 
-XV. Promover la homologación de prácticas, obtención de certificados de producción, empaque y cadena de custodia, para el acceso a mercados con normas específicas; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XV. Promover la homologación de prácticas, obtención de certificados de producción, empaque y cadena de custodia, para el acceso a mercados con normas específicas;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XV Bis. Promover en coordinación con las instituciones y centros de educación superior del Estado, la investigación y estudios sobre el impacto del uso de sustancias peligrosas en las actividades agrícolas, ganaderas y forestales; y,
 
 XVI. Las demás aplicables.
 
@@ -1153,29 +1227,7 @@ Para la formación, capacitación, actualización y desarrollo de habilidades, s
 
 ###### Artículo 107.
 
-Con apoyo en el Sistema Nacional y el Organismo Estatal de Información para el Desarrollo Rural, la Secretaría y el Consejo Estatal, facilitarán la creación de un Centro Estatal de Agronegocios, autónomo en su administración por las organizaciones de productores que contempla la Ley de Organizaciones Agrícolas, que tendrá como propósito el conocimiento y desarrollo de mercados de manera sostenible, debiendo contar para bien de los pobladores rurales y usuarios en general, con los servicios siguientes:
-
-I. Padrón de comercializadores certificados locales, nacionales e internacionales;
-
-II. Información de los mercados estatal, nacional e internacional que incluya la identificación de agentes comercializadores y de la industria demandante;
-
-III. Información sobre la disponibilidad del abasto de insumos y materiales para la producción y comercialización;
-
-IV. Información sobre normas y requisitos de procesos y procedimientos en materias de sanidad e inocuidad;
-
-V. Asesoría, gestión y apoyo para la comercialización estatal, nacional e internacional, dando prioridad al sector social;
-
-VI. Creación y fortalecimiento de circuitos económicos;
-
-VII. Desarrollo de esquemas de denominación de origen de los productos michoacanos;
-
-VIII. Diseño de contratos comerciales, que propicien equidad y precios justos para los productores;
-
-IX. Promoción de productos agropecuarios, orgánicos, piscícolas, forestales y artesanales entre otros;
-
-X. Establecimiento de medidas, dispositivos y prácticas en los sistemas- producto, que permitan transacciones sin manejo físico de mercancías; y,
-
-XI. Los demás necesarias. (sic)
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2018)
 
 ###### Artículo 108.
 
@@ -1187,7 +1239,7 @@ Se promoverá y apoyará la integración de los procesos productivos, mediante l
 
 ###### Artículo 110.
 
-La Secretaría y el Centro Estatal de Agronegocios, diseñarán programas especiales de promoción de bienes y servicios michoacanos en el ámbito regional, nacional e internacional, para inducir su introducción y posicionamiento en los mercados.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2018)
 
 ###### Artículo 111.
 
@@ -1311,25 +1363,25 @@ VII. Las demás materias que impulsen el desarrollo rural integral sustentable.
 
 ###### Artículo 121.
 
-Para fines de consolidar la formación rural, se crea el Centro Estatal de Formación del Sector Rural, como órgano autónomo descentralizado, para el diseño, ejecución y evaluación de los programas autorizados por la coordinación de la Secretaría y el Consejo Estatal.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2018)
 
 ###### Artículo 122.
 
-El Centro Estatal de Formación del Sector Rural integrará sus órganos de gobierno y su reglamento interno con la aprobación de la Secretaría y del Consejo Estatal.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2018)
 
 ###### Artículo 123.
 
-El Centro Estatal de Formación, fungirá como centro de evaluación y acreditación estatal para prestadores de servicios profesionales y productores, así como para signar convenios con los organismos nacionales e internacionales de certificación de competencias laborales y esquemas de acreditación.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2018)
 
 ## TÍTULO IX. Del Desarrollo Social y los Trabajadores Agrícolas
 
 ### Capítulo I. Del Desarrollo Social
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 124.
 
-El Ejecutivo del Estado, a través de las Secretarías de Política Social y de Desarrollo Rural y Agroalimentario, dará atención prioritaria, mediante acciones de política social, a las personas, comunidades y organizaciones que enfrenten menor desarrollo o discapacidad y vulnerables, de conformidad con los estudios que elaboren para el efecto, la Federación y el Estado.
+El Ejecutivo del Estado, a través de las Secretarías de Desarrollo Social y Humano y de Desarrollo Rural y Agroalimentario, dará atención prioritaria, mediante acciones de política social, a las personas, comunidades y organizaciones que enfrenten menor desarrollo o discapacidad y vulnerables, de conformidad con los estudios que elaboren para el efecto, la Federación y el Estado.
 
 ###### Artículo 125.
 
@@ -1369,9 +1421,43 @@ El Desarrollo Rural en su aspecto social, tiene como principio la protección de
 
 El Consejo Estatal preverá lo necesario para que, mediante acuerdos y convenios con dependencias y organismos de los tres órdenes de gobierno y los trabajadores del medio rural, se instrumenten y fortalezcan programas de atención encaminados a la dotación de servicios públicos básicos en las zonas rurales, el acceso a programas de vivienda; el fortalecimiento en el medio rural de las infraestructuras de educación, salud y alimentación; el financiamiento para actividades productivas, sin más garantías que la propia inversión, ente (sic) otros.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 133.
 
-Los trabajadores agrícolas son grupos sociales vulnerables, por lo que tendrán prioridad en el otorgamiento de apoyos diferenciados del Gobierno Estatal, para propiciar oportunidades de desarrollo.
+Los trabajadores y los jornaleros agrícolas serán considerados grupos sociales vulnerables, por lo que tendrán prioridad en el otorgamiento de apoyos diferenciados por parte del Ejecutivo del Estado y de los gobiernos municipales, para propiciar mejoras de desarrollo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 133 A.- Son derechos de los jornaleros agrícolas los siguientes:
+
+I. No ser discriminados o excluidos por su actividad, así como a no recibir malos tratos por parte de los productores agrícolas;
+
+II. Recibir asesoría jurídica gratuita y en su lengua materna;
+
+III. Tener capacitación sobre la actividad que van a realizar por parte del productor agrícola;
+
+IV. Contar con el equipo adecuado para el desempeño de su actividad y en su caso para el manejo de agroquímicos o sustancias tóxicas;
+
+V. Tener acceso a los servicios de salud y educación gratuita para ellos y sus familias durante su permanencia, incluyendo a los que son jornaleros migrantes;
+
+VI. Recibir el salario estipulado o contratado y que se respete el horario de su jornada laboral; y,
+
+VII. Tener un salario igualitario entre mujeres y hombres dado que realicen la misma actividad.
+
+La mujer que sea jornalera agrícola tendrá derecho a gozar de su incapacidad por maternidad, conservando su salario íntegro, así como su empleo, durante la misma.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 133 B.- El Ejecutivo del Estado y los gobiernos municipales, atenderán el acceso a estancias infantiles, espacios educativos, asistencia psicológica y nutricional para los hijos de los trabajadores agrícolas.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 133 C.- La Secretaría dará prioridad a los productores agrícolas que incentiven y respeten los derechos de los jornaleros agrícolas, con incentivos fiscales, apoyos productivos y financiamientos para capacitación, así como dotación de equipo agrícola.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 133 D.- La Secretaría dará prioridad en el acceso a apoyos productivos y financiamientos para capacitación a los productores agrícolas que incentiven y respeten los derechos de los jornaleros agrícolas.
 
 ###### Artículo 134.
 
@@ -1478,3 +1564,17 @@ P.O. 12 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 644 POR EL QUE "SE REFORMAN LAS FRACCIONES VII, XXI Y XLII DEL ARTÍCULO 6, LAS FRACCIONES II Y III DEL ARTÍCULO 7, LAS FRACCIONES II Y VI DEL ARTÍCULO 8, EL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 12, LA FRACCIÓN IX DEL ARTÍCULO 13, LOS ARTÍCULOS 24 Y 25, LA FRACCIÓN IX DEL ARTÍCULO 32, EL ARTÍCULO 47, EL ARTÍCULO 55, EL ARTÍCULO 57, EL ARTÍCULO 94, LAS FRACCIONES III, V Y XV DEL ARTÍCULO 98 Y LOS ARTÍCULOS 124 Y 133; SE ADICIONA LA FRACCIÓN XXVIII BIS AL ARTÍCULO 6, LA FRACCIÓN XXII TER AL ARTÍCULO 12, LAS FRACCIONES IX BIS Y IX TER AL ARTÍCULO 13, LA FRACCIÓN IX BIS AL ARTÍCULO 32, EL ARTÍCULO 38 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 97, LA FRACCIÓN XV BIS AL ARTÍCULO 98, LOS ARTÍCULOS 133 A, 133 B, 133 C Y 133 D; Y, SE DEROGAN LOS ARTÍCULOS 107, 110, 121, 122 Y 123 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Primero. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado (sic) Michoacán de Ocampo.
+
+Artículo Segundo. La Secretaría de Desarrollo Rural y Agroalimentario tendrá un plazo de ciento veinte días para elaborar el padrón de jornaleros agrícolas, a partir de la aprobación del presente Decreto.
+
+Artículo Tercero. El Titular del Poder Ejecutivo Estatal expediraí (sic) dentro de los noventa días siguientes a la publicación de esta Ley la adecuación a los reglamentos que previene el presente Decreto y las demás disposiciones administrativas necesarias; asimismo, establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
+
+Artículo Cuarto. La liquidación y extinción del Centro de Agronegocios del Estado de Michoacán, se ajustará a lo dispuesto en el Acuerdo que decreta su extinción, de fecha 23 de mayo (sic) 2016.
+
+Artículo Quinto. Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
