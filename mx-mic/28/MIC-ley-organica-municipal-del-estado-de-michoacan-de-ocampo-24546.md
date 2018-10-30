@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2018-08-20"
+last_updated: "2018-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -1337,7 +1337,9 @@ XIV. Presidir el Comité de Planeación para el Desarrollo Municipal;
 
 XV. Vigilar la correcta administración del patrimonio municipal;
 
-XVI. Nombrar y remover libremente a los funcionarios municipales que le corresponda; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XVI. Nombrar y remover libremente a los funcionarios municipales que le corresponda, procurando observar el principio de igualdad de género en el primer nivel de mando de la estructura orgánica; y,
 
 XVII. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
 
@@ -1965,13 +1967,19 @@ En los planes de desarrollo municipal se establecerán los programas, proyectos 
 
 ### Capítulo XI. De las Dependencias, Entidades y Unidades Administrativas
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 92.
 
-Para el ejercicio de sus atribuciones, el Ayuntamiento se auxiliará de las dependencias, entidades y unidades administrativas necesarias, que estarán bajo las órdenes del Presidente Municipal.
+Para el ejercicio de sus atribuciones, el Ayuntamiento se auxiliará de las dependencias, entidades y unidades administrativas necesarias, que estarán bajo las órdenes del Presidente Municipal, en las cuales se procurará observar el principio de igualdad de género en los nombramientos de los titulares.
 
 ###### Artículo 93.
 
 El Presidente Municipal, previo acuerdo del Ayuntamiento, podrá crear dependencias, entidades y unidades administrativas que le estén subordinadas directamente, así como fusionar, modificar o suprimir las existentes, de acuerdo con las necesidades y la capacidad financiera del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+El Presidente Municipal procurará observar el principio de igualdad de género en los nombramientos de los titulares.
 
 ###### Artículo 94.
 
@@ -3254,3 +3262,9 @@ P.O. 20 DE AGOSTO DE 2018.
 PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, a los 112 Ayuntamientos del Estado y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y efectos conducentes.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 597 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 49 FRACCIÓN XVI, 92 Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 93 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
