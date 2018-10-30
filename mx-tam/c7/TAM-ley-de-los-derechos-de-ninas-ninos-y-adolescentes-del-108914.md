@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2017-12-15"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -557,23 +557,69 @@ IX. Establecer mecanismos que permitan la recopilación periódica y sistemátic
 
 1. Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley de Educación para el Estado y demás disposiciones aplicables.
 
-2. Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por la Ley General.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+2. Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por el artículo 103 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
-3. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, y cuando identifiquen casos de asistencia irregular, abandono o deserción escolar en los centros educativos de nivel básico y medio superior, deberán notificar dicho caso a la Procuraduría de Protección correspondiente.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+3. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, para lo cual deberán:
 
-4. Una vez efectuada dicha notificación será aplicable el procedimiento establecido en el artículo 86 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias, a fin de garantizar los derechos de las niñas, niños y adolescentes.
+I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales;
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación;
 
-5. En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
+III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación, sin discriminación;
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2017)</small>
+IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia del currículo, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza, la evaluación docente, entre otras;
 
-6. Las autoridades escolares, en el ámbito de su competencia, deberán adoptar las medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes, procurando a su vez fomentar una cultura de respeto al medio ambiente, así como el uso responsable y seguro de las tecnologías de la información y comunicación.
+V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficientes para garantizar la educación de calidad de niñas, niños y adolescentes;
+
+VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo;
+
+VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
+
+VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
+
+IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
+
+X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
+
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+
+XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
+
+XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Nacional, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
+
+XIV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales;
+
+XV. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa;
+
+XVI. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes y para abatir el ausentismo, abandono y deserción escolares;
+
+XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes;
+
+XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
+
+XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
+
+XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional; y
+
+XXII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
+
+Una vez efectuada dicha notificación será aplicable el procedimiento establecido en el artículo 86 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias, a fin de garantizar los derechos de las niñas, niños y adolescentes.
+
+En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+4. Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
+
+5. (DEROGADO, P.O. 30 DE OCTUBRE DE 2018)
+
+6. (DEROGADO, P.O. 30 DE OCTUBRE DE 2018)
 
 ###### ARTÍCULO 38.
 
@@ -1448,6 +1494,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-317 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 37; Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO, RECORRIENDO EL ACTUAL CUARTO PARA SER SEXTO, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-520 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS 2, 3, Y 4, Y SE DEROGAN LOS PÁRRAFOS 5, Y 6 DEL ARTÍCULO 37 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
