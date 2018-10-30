@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-del-instituto-de-estudios-en-derechos-humanos-70831"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-26"
-last_updated: "2011-08-05"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # REGLAMENTO DEL INSTITUTO DE ESTUDIOS EN DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-REGLAMENTO DEL INSTITUTO DE ESTUDIOS EN DERECHOS HUMANOS
+REGLAMENTO DEL INSTITUTO DE ESTUDIOS EN DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el lunes 26 de octubre del 2009.
 
@@ -53,6 +53,10 @@ II. Reglamento Interno: El Reglamento Interno de la Comisión de Derechos Humano
 
 III. Reglamento: El Reglamento del Instituto de Estudios en Derechos Humanos;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III Bis. Lineamientos: Lineamientos Generales emitidos por la Dirección General del INEDH con aprobación de la Presidencia de la Comisión, para regular aspectos académicos, disciplinarios y de control interno, con motivo de los servicios educativos o de capacitación que se imparten;
+
 IV. Comisión: La Comisión de Derechos Humanos del Estado de Campeche;
 
 V. Consejo Consultivo: El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Campeche;
@@ -71,7 +75,9 @@ XI. Coordinación Académica: La Coordinación Académica de Estudios de Posgrad
 
 XII. SEP: la Secretaria de Educación Pública;
 
-XIII. SECUD: la secretaria de Educación, Cultura y Deporte del Estado;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XIII. SEDUC: la Secretaría de Educación del Estado de Campeche;
 
 XIV. SEDE: Extensión académica del Instituto de Estudios en Derechos Humanos; y
 
@@ -85,13 +91,17 @@ El INEDH tendrá como base de su actuación los principios y valores de los Dere
 
 ### CAPÍTULO I. ATRIBUCIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 4.
 
-De conformidad con lo dispuesto en la fracción VII del artículo 6° de la, Ley de la Comisión y el artículo 46 Ter y 126 de su Reglamento Interno, son atribuciones del INEDH:
+De conformidad con lo dispuesto en la fracción IX del artículo 6º de la Ley de la Comisión y el artículo 46 Ter y 126 de su Reglamento Interno, son atribuciones del INEDH:
 
 I.- Promover el fortalecimiento de la cultura del respeto a los Derechos Humanos en el ámbito estatal, mediante el desarrollo de actividades de capacitación, divulgación y difusión;
 
-II.- Impartir estudios de posgrado en Derechos Humanos al personal de la Comisión y al de otras Instituciones Públicas y Privadas así como a población abierta, y expedir las correspondientes constancias, diplomas, certificados y títulos;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II. Impartir estudios de posgrado en Derechos Humanos al personal de la Comisión y al de otras Instituciones Públicas y Privadas así como a población abierta, y expedir las correspondientes constancias, diplomas, certificados, títulos y grados;
 
 III. Fomentar la práctica de investigaciones académicas interdisciplinarias especializadas en Derechos Humanos;
 
@@ -165,7 +175,9 @@ Son atribuciones del Director General:
 
 I. Representar al INEDH en actos jurídicos públicos y privados que sean de su competencia, previa autorización de la Presidencia;
 
-II. Cumplir y hacer cumplir las disposiciones contenidas en este Reglamento y las demás que señalen la Ley y el Reglamento Interno;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II. Cumplir y hacer cumplir las disposiciones contenidas en este Reglamento así como las demás que señalen la Ley, el Reglamento Interno y los Lineamientos;
 
 III. Proponer a la Presidencia el programa anual de actividades;
 
@@ -173,7 +185,9 @@ IV. Dirigir la programación, desarrollo y cumplimiento de las actividades;
 
 V. Establecer lineamientos para el diseño de los planes y programas de los estudios que se impartan y, previa aprobación de la Presidencia; en los casos que corresponda, efectuar los trámites relativos al reconocimiento de su validez oficial ante las instancias respectivas;
 
-VI. Dictar lineamientos para la selección, admisión y evaluación de alumnos de posgrado, así como para los procedimientos de control escolar y los periodos de las actividades académicas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VI. Dictar lineamientos para regular aspectos académicos, disciplinarios y de control interno, con motivo de los servicios educativos o de capacitación que se imparten;
 
 VII. Autorizar la suspensión de estudios, provisional o definitiva, de los alumnos que incurran en la inobservancia de las disposiciones del presente Reglamento o demás aplicables al caso;
 
@@ -389,23 +403,47 @@ VI. Preservar, ampliar y administrar el acervo bibliográfico, hemerográfico, l
 
 VII. Apoyar en actividades de capacitación, promoción, divulgación y difusión de los Derecho fundamentales.
 
-### CAPÍTULO VII. COORDINACIÓN DE SERVCIOS (SIC) BIBLIOTECARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+### CAPÍTULO VII. COORDINACIÓN DE SERVICIOS BIBLIOTECARIOS
 
 ###### Artículo 24.
 
 Son funciones de la Coordinación de Servicios Bibliotecarios:
 
-I. Administrar la base de datos del material bibliográfico, hemerográfico y legisgráfico;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-II. Custodiar y acrecentar el acervo bibliográfico, hemerográfico, legisgráfico y de divulgación mediante adquisiciones, donaciones e intercambios, además de remitir material de divulgación en materia de Derechos Humanos a universidades, entidades públicas, privadas y organizaciones civiles;
+I. Administrar y publicitar la base de datos del material bibliográfico, hemerográfico y legisgráfico;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II. Custodiar, y acrecentar el acervo bibliográfico, hemerográfico, legisgráfico y de divulgación mediante adquisiciones, donaciones e intercambios, además de remitir material de divulgación en materia de Derechos Humanos a escuelas, universidades, organizaciones de la sociedad civil, dependencias y entidades de la administración pública y privada;
 
 III. Fomentarla cultura de la lectura en materia de Derechos Humanos;
 
-IV. Integrar los informes de actividades y memorias fotográficas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-V. Fungir de enlace con la Unidad de Transparencia y Acceso a la Información Pública del Ombudsman Estatal;
+IV. Integrar y custodiar los informes de actividades y memorias fotográficas del INEDH;
 
-VI. Captar, seleccionar, sistematizar, ingresar, eliminar y/o modificar información en la base de datos que se produzca en el Estado de Campeche, como parte de los compromisos asumidos en razón de la pertenencia a la RENIF.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+V. Fungir de enlace, con la Dirección de Transparencia y Acceso a la Información Pública de la Comisión dando atención y trámite a los requerimientos en la materia;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VI. Captar, seleccionar, sistematizar, ingresar, eliminar y/o modificar la información vinculada con el carácter de Biblioteca de Educación Superior, en los formatos establecidos por las autoridades educativas.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VII. Diseñar, elaborar y publicitar el Boletín Académico del INEDH de forma digital o impresa, con autorización de la Dirección General;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VIII. Rendir mensualmente informes de actividades al Director General; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX. Ejecutar las demás funciones que le designe el Director General, en la esfera de su competencia.
 
 ## TÍTULO TERCERO. SISTEMA EDUCATIVO Y ORGANIZACIÓN ACADÉMICA
 
@@ -425,39 +463,47 @@ II. Ampliar o renovar los conocimientos profesionales en el campo de los Derecho
 
 III. Ofrecer información sobre los avances en el conocimiento de los Derechos Humanos.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 27.
 
-Los estudios de posgrado que se impartan comprenderán las opciones de Especialidad, Maestría y Doctorado, con reconocimiento y validez oficial otorgada por la Secretaría de Educación, Cultura y Deporte del Estado de Campeche y/o la instancia educativa que corresponda.
+Los estudios de posgrado que se impartan comprenderán los niveles de Especialidad, Maestría y Doctorado, con reconocimiento de validez oficial otorgada por la SEDUC y/o la instancia educativa que corresponda.
 
-Los estudios de Posgrado tendrán por objeto:
+Los estudios de Posgrado estarán encaminados a profundizar en los conocimientos en el campo de los Derechos Humanos y tendrán por objeto:
 
-I. De Especialidad: Profundizar sobre aspectos particulares y concretos sobre los Derechos Humanos;
+I. De Especialidad: El estudio y tratamiento de problemas específicos de los Derechos Humanos para el logro de conocimiento y habilidades de esa disciplina;
 
-II. De Maestría: Proporcionar una formación panorámica y de extensión en materia de Derechos Humanos; y
+II. De Maestría: Proporcionar una formación panorámica y de extensión para el análisis, adaptación e incorporación práctica del avance y defensa en materia de Derechos Humanos; y
 
-III. De Doctorado: Brindar una formación de extensión y profundidad en el campo de los Derechos Humanos.
+III. De Doctorado: Brindar una formación para la investigación con dominio de temas y problemáticas particulares en el campo de los Derechos Humanos.
 
-Lo anterior, de conformidad con los requisitos establecidos por la SECUD y en los Acuerdos Secretariales 243 y 279 de la SEP, relativos al Reconocimiento de Validez Oficial de Estudios de Capacitación para el Trabajo y del Tipo superior, respectivamente.
+Lo anterior, de conformidad con los requisitos establecidos por la SEDUC así como por la SEP, en los Acuerdos Secretariales 243, 279 y 17/11/17 relativos a las Bases Generales de Autorización o Reconocimiento de Validez Oficial de Estudios y los Trámites y Procedimientos Relacionados con el Reconocimiento de Validez Oficial de Estudios del Tipo Superior, o la norma aplicable al momento en que el programa de estudios que se someta a validación sea autorizado.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 28.
 
-Los planes y programas de estudios de posgrado que imparta el INEDH serán escolarizados y estarán integrados por el número de créditos correspondientes al grado a impartir, según lo señalado en el Acuerdo Secretarial 279 de la SEP, a saber:
+La prestación de los servicios educativos de posgrado ofrecidos por el INEDH podrá ser bajo las siguientes modalidades:
 
-I. En el caso de especialidades, por un mínimo de 45 Créditos después de la Licenciatura; los créditos de la Especialidad tendrán valor de crédito para la Maestría o Doctorado, siempre que se constituyan en forma expresa como parte de los programas de estos, o sean de las asignaturas optativas;
+I. Escolarizada, en la cual el proceso de enseñanza-aprendizaje se desarrolla principalmente en las instalaciones del INEDH;
 
-II. En el caso de Maestrías, por un mínimo de 75 créditos después de la licenciatura ó 30 después de la especialidad; y
+II. No escolarizada, en la que el desarrollo del proceso de enseñanza-aprendizaje, se lleva a cabo a través de una Plataforma tecnológica educativa, medios electrónicos o mediante procesos autónomos de aprendizaje y/o con apoyos didácticos; o
 
-III. En el caso del Doctorado, con un mínimo de 150 créditos después de la licenciatura; 105 después de la Especialidad y 75 después de la Maestría.
+III. Mixta, la cual se caracteriza por ser un modelo que brinda flexibilidad al combinar estrategias, métodos y recursos de las modalidades escolarizada y no escolarizada.
+
+Los planes y programas de estudio estarán integrados por el número de créditos correspondientes a la modalidad de servicio educativo y al grado correspondiente a impartirse, de conformidad con lo señalado en los acuerdos secretariales de la SEP vigentes al momento de la validación respectiva.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-El tiempo de duración de los estudios de posgrado será el siguiente:
+La duración de los estudios de posgrado se distribuirá en cuatrimestres o semestres, indistintamente, siempre y cuando se contemple la conducción de un académico en su:
 
-Especialidad: Dos cuatrimestres;
+I. Modalidad Escolarizada: Especialidad 180 horas; Maestría 300 horas; y Doctorado 600 horas;
 
-Maestría: Cuatro cuatrimestres; y
+II. Modalidad Mixta: El número de horas propuesta en el Plan de estudios bajo la conducción de un académico equivalen por lo menos al 40% de las horas señaladas como obligatorias en la fracción anterior; o
 
-Doctorado: Ocho cuatrimestres.
+III. Modalidad No Escolarizada: El número de horas propuestas en el Plan de estudios bajo la conducción de un académico equivalen como máximo al 40% de las señaladas en la fracción I.
 
 ###### Artículo 30.
 
@@ -599,13 +645,31 @@ III. No obstaculizar el buen desarrollo de las actividades del INEDH;
 
 IV. No dañar los bienes del INEDH;
 
-V. Abstenerse de actos que constituyan faltas a la integridad física y moral de los alumnos, personal administrativo, profesores o autoridades académicas del INEDH;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+V. Abstenerse de actos u omisiones que constituyan delitos o faltas contra la integridad física psicológica o sexual de los alumnos, personal administrativo, profesores o autoridades académicas del INEDH, o de su patrimonio;
 
 VI. Uno de los medios oficiales de comunicación entre el INEDH, su alumnado y egresados es el correo electrónico; siendo responsabilidad de estos notificar al INEDH cualquier modificación de sus cuentas de correo;
 
-VII. Antes de finalizar los estudios el alumno donará a la Biblioteca del INEDH un ejemplar bibliográfico señalado en alguno de los programas de los estudios cursados; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-VIII. Observar estrictamente las disposiciones de este Reglamento y las demás que regulen la conducta y lineamientos académicos.
+VII. Antes de finalizar los estudios el alumno donará a la Biblioteca del INEDH un ejemplar bibliográfico señalado en alguno de los programas de los estudios cursados;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VIII. Realizar, acciones de Promoción, Difusión y Defensa de los Derechos Humanos de conformidad a los lineamientos que emita la Dirección General;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX. Encontrarse al corriente de sus obligaciones académicas, administrativas o financieras. El cumplimiento de esta fracción es condición necesaria para el acceso a los servicios educativos;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+X. Realizar el registro de ingreso y salida de clase en los controles respectivos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XI. Observar estrictamente las disposiciones de este Reglamento, y las demás normas y lineamientos que regulen aspectos académicos, disciplinarios y de control interno.
 
 ### CAPÍTULO V. DE LA PUNTUALIDAD Y ASISTENCIA
 
@@ -627,17 +691,49 @@ III. Imponderables laborales.
 
 Los justificantes sólo se admitirán hasta por un treinta y tres por ciento de la duración de cada módulo. En la causa señalada en el inciso II podrá la Dirección General ampliar el porcentaje tomando en consideración las condiciones particulares de cada caso.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 42.
 
-Se considerará retardo tolerable aquél que se dé dentro de los 30 minutos inmediatos al inicio de la clase; la acumulación de 3 dé ellos dará lugar a una falta.
+Los mecanismos y modalidades de registro de asistencia serán definidos por la Dirección General.
+
+La contabilidad de asistencia de cada estudiante, se hará de acuerdo a lo siguiente:
+
+I. Se considera retardo tolerable cuando se registre ingreso a clase entre el minuto uno y el 15 después de la hora de entrada;
+
+II. Se contabiliza como retardo menor el registro efectuado entre el minuto 16 y el 30 después de la hora de entrada;
+
+III. Se considera falta:
+
+a) La ausencia de algún registro en los controles;
+
+b) Cuando el registro de ingreso a clase se realice después de los 30 minutos de la hora de entrada, y
+
+c) La acumulación de retardos menores, que excedan el 30 por ciento de las sesiones del módulo respectivo.
 
 ###### Artículo 43.
 
 Los alumnos y egresados en trámite de titulación podrán hacer uso de las instalaciones y servicios que el INEDH les asigne para el desarrollo de sus estudios, de conformidad con las disposiciones respectivas.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 44.
 
-Los alumnos tendrán derecho a solicitar su baja provisional o definitiva del curso en el que se hallen inscritos, entregando a la Dirección General la petición por escrito en la que exponga las razones y motivos, a la que recaerá la autorización correspondiente; (sic)
+Los alumnos tendrán derecho a solicitar su baja del curso en el que se hallen inscritos, entregando a la Dirección General la petición por escrito en la que exponga las razones y motivos, a la que recaerá la autorización correspondiente;
+
+Para efectos de este reglamento, existen dos tipos de baja:
+
+I. Baja provisional, que implica la suspensión temporal de estudios con posibilidad de continuarlos a partir de dicha baja, en las siguientes emisiones de los posgrados.
+
+II. Baja definitiva, a la suspensión permanente de los estudios de posgrado, en cuyo caso, el interesado, si fuera su intención realizar dicha formación, deberá considerarse como de nuevo ingreso.
+
+Quien se encuentre en situación de baja provisional, impide su baja definitiva, siempre y cuando:
+
+a) Quien cursó menos del 50% del plan de estudios se reinscriba para continuar sus estudios en la siguiente convocatoria del mismo posgrado;
+
+b) Quien acreditó el 50% o más del plan de estudios de algún posgrado, retome sus estudios a más tardar en la quinta convocatoria de dicho posgrado;
+
+c) Ante el aviso de cambio de plan y programa de estudios, se inscriba a la convocatoria que se emita de conformidad con el plan de estudios del que tuviera baja provisional.
 
 ###### Artículo 45.
 
@@ -689,13 +785,31 @@ III. Obtener una calificación que haga constar el cumplimiento o incumplimiento
 
 Las evaluaciones de aprovechamiento que se apliquen a los alumnos de posgrado serán:
 
-I. Ordinarios: Al concluir cada Módulo o curso para evaluar el aprovechamiento del alumno respecto de la totalidad del programa oficial de los mismos. Para tener derecho a la presentación del examen ordinario es necesario haber cumplido con el porcentaje de asistencias requerido; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-II. Extraordinarios: Cuando el alumno no haya acreditado la asignatura o curso dentro de los tiempos y formas establecidas.
+I. Ordinarias: Al concluir cada Módulo o curso para evaluar el aprovechamiento del alumno, respecto de la totalidad del programa oficial de los mismos. Para tener derecho a la presentación del examen ordinario es necesario haber cumplido con el porcentaje de asistencias requerido; y
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-El alumno solo tendrá derecho a presentar como máximo tres exámenes extraordinarios por cada posgrado, los cuales una vez agotados causará baja definitiva.
+II. Extraordinarias: Cuando el alumno no tenga derecho a evaluación ordinaria o no haya acreditado la asignatura o curso dentro de los tiempos y formas establecidas.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+La evaluación extraordinaria, podrá ser aplicada por el docente o docentes que impartieran la asignatura o por algún miembro de la plantilla docente del INEDH.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+A quien se le encomiende la aplicación de la evaluación extraordinaria determinará la modalidad de la misma. Sin embargo, si decidiera evaluar mediante la entrega de un trabajo de investigación éste deberá cumplir los requisitos editoriales del INEDH y debe apreciarse la originalidad, su alta calidad y contribución científica de valor al tema que se trate.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+El alumno que no apruebe en evaluación extraordinaria la asignatura o curso, podrá presentar una segunda evaluación extraordinaria y en caso de persistir la nota reprobatoria, causara baja provisional.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+El alumno solo tendrá derecho a presentar como máximo tres exámenes extraordinarios por cada posgrado, los cuales una vez agotados causará baja provisional.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO [N. DE E. ANTES SEGUNDO PÁRRAFO], P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 52.
 
@@ -745,7 +859,13 @@ El alumno podrá solicitar el certificado parcial o total de estudios siempre y 
 
 La forma satisfactoria de egresar del Instituto es mediante la obtención del Diploma de Especialidad o el grado de Maestría y/o Doctorado.
 
-Para todos los casos el egresado deberá haber cubierto satisfactoriamente los créditos totales del plan de estudios correspondiente, así como dar cumplimiento a los requisitos que al efecto señale el Reglamento del INEDH y los que: dispongan los reglamentos de titulación de las autoridades educativas competentes.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Para todos los casos el egresado deberá haber cubierto satisfactoriamente los créditos totales del plan de estudios correspondiente, así como dar cumplimiento a los requisitos que al efecto señale el Reglamento del INEDH, los lineamientos vigentes y los que dispongan los reglamentos de titulación de las autoridades educativas competentes.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Los egresados de cualquier estudio de posgrado impartido en el INEDH serán considerados con término vencido cuando no obtengan su Diploma o Grado habiendo transcurrido el plazo establecido para la modalidad de titulación mediante investigación.
 
 ###### Artículo 60.
 
@@ -755,6 +875,18 @@ I. Investigación: Para tal efecto presentará una Tesina en un plazo no mayor d
 
 II. Seminario de Titulación: Para lo cual deberá cursar y aprobar satisfactoriamente el Seminario de Titulación convocado por este Órgano Académico.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Los egresados con término vencido, que opten por esta modalidad, deberán considerar como producto final una tesina de investigación debidamente aprobada por el asesor que durante el Seminario se asigne;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III. Por Logro Escolar Destacado: Para aquellos egresados que al finalizar sus estudios, obtuvieron un promedio general igual o mayor al 9.3;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IV. Por Superación Académica: Para los egresados que acrediten haber aprobado con promedio de calificaciones igual o mayor al 9.3, posterior a la especialidad, al menos 60 por ciento de los créditos del programa de una maestría o el 40 por ciento de los créditos de un doctorado que a criterio del Consejo Técnico sea afín.
+
 ###### Artículo 61.
 
 Los egresados de la Maestra podrán optar titularse mediante las modalidades de:
@@ -763,13 +895,29 @@ I. Investigación: Presentar una tesis acorde a los lineamientos establecidos po
 
 II. Seminario de Titulación: Aprobar satisfactoriamente el Seminario de Titulación que el INEDH convoque, el cual deberá considerar como producto final una tesina de investigación debidamente aprobada por el asesor que durante el Seminario se asigne.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Los egresados con término vencido, que opten por esta modalidad, deberán defender la tesina en el examen de grado;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III. Por Logro Escolar Destacado: Para aquellos egresados que al finalizar sus estudios, obtuvieron un promedio general igual o mayor al 9.3;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IV. Por Superación Académica: Para los egresados que acrediten haber aprobado con promedio de calificaciones igual o mayor al 9.1, posterior a la maestría, al menos el 40 por ciento de los créditos de un doctorado que a criterio del Consejo Técnico sea afín.
+
 ###### Artículo 62.
 
 Los egresados de Doctorado, para titularse deberán elaborar una tesis de investigación acorde a los lineamientos establecidos para tal efecto, cuya elaboración no exceda de cuatro años después de haber cursado los, estudios y aprobar el examen en el que defienda su tesis.
 
-###### Artículo 62.
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-Los egresados de Doctorado, para titularse deberán elaborar una tesis de investigación acorde a los lineamientos establecidos para tal efecto, cuya elaboración no exceda de cuatro años después de haber cursado los, estudios y aprobar el examen en el que defienda su tesis.
+###### Artículo 62 Bis.
+
+Los egresados de estudios de especialidad o maestría que opten por titularse mediante las modalidades de logro escolar destacado o por superación académica, deberán presentar un trabajo académico, en el que se demuestre su originalidad en la investigación, así como el conocimiento adquirido en alguno de los temas de su posgrado, mismo que será sometido a la aprobación de un jurado compuesto por tres miembros de la plantilla docente del INEDH.
+
+Para los egresados de especialidad o maestría con término vencido, el trabajo académico a que refiere el párrafo anterior deberá sujetarse a los lineamientos, criterios editoriales y especificaciones que al efecto determine la Dirección General.
 
 ###### Artículo 63.
 
@@ -783,9 +931,27 @@ III. Para el Caso de Investigación deberá expresar el tema de la Tesina o Tesi
 
 IV. El egresado únicamente podrá variar el tema de su tesina o tesis con la autorización del Consejo Técnico de Profesores, inscribiéndose el nuevo en el libro de registros correspondiente; y
 
-V. Presentar la documentación que el INEDH determine como necesaria, en los tiempos y formas establecidas para ello.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2018)</small>
 
-La Dirección General notificara por escrito, la procedencia de la solicitud.
+V. Anexar certificado parcial o total de la Maestría o el Doctorado, con promedio general de calificaciones, para la Titulación por Superación Académica;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VI. Para las modalidades de logro escolar destacado o por superación académica, no haber presentado ningún examen extraordinario en los estudios del posgrado que pretenda titularse;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VII. Constancia de no adeudo de libros a la Biblioteca del Instituto;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VIII. Constancia de haber cubierto las aportaciones establecidas por el INEDH; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX. Presentar la documentación que el INEDH determine como necesaria, en los tiempos y formas establecidas para ello.
+
+La Dirección General notificará por escrito, la procedencia de la solicitud.
 
 ###### Artículo 64.
 
@@ -805,7 +971,9 @@ IV. Conclusiones;
 
 V. Glosario; y
 
-VI. Bibliografías.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VI. Fuentes de Información o de Consulta.
 
 ###### Artículo 66.
 
@@ -817,11 +985,15 @@ II. Para la tesina de Especialidad una extensión de 50 cuartillas;
 
 III. Para la tesis una extensión de 100 y 150 cuartillas para la Modalidad de Titulación por Investigación de Maestra y Doctorado, respectivamente;
 
-IV. En el conteo de cuartillas señaladas en las fracciones II y III del presente Instrumento deberá excluirse la introducción, presentación, anexos, bibliografía y todo aquel material que no forme parte del cuerpo de la investigación;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IV. En el conteo de cuartillas señaladas en las fracciones I, II y III del presente Instrumento deberá excluirse la introducción, presentación, anexos, fuentes de información o de consulta y todo aquel material que no forme parte del cuerpo de la investigación;
 
 V. Una carátula que en la parte superior y centrado lleve el logotipo y nombre de la Comisión y del Instituto, señalar si es tesina o tesis y el título de la investigación, nombre del sustentante y grado al que opta, lugar y la que se la que se concluya la investigación; y
 
-VI. Los demás lineamientos y especificaciones que al efecto determine el Instituto.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VI. Los demás lineamientos, criterios editoriales y especificaciones que al efecto determine la Dirección General del INEDH.
 
 ###### Artículo 67.
 
@@ -838,6 +1010,14 @@ IV. Desarrollar el tema de forma clara, precisa y rigurosa mediante una exposici
 V. Mostrar dominio sobre el estado actual del tema y de sus fuentes; y
 
 VI. Estudiar a detalle las posturas de los especialistas en el tema.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Cuando se evidencie la existencia de plagio académico en el trabajo de investigación del módulo o curso, se tendrá a éste como nulo y el alumno obtendrá calificación reprobatoria, representándose en la boleta respectiva como no aprobado o NA;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Tratándose de plagio académico en Tesis, Tesinas y Trabajos Académicos relativo a modalidades de Titulación, se tendrá como suspendido su examen y el egresado deberá solicitar un segundo examen.
 
 ###### Artículo 68.
 
@@ -889,11 +1069,15 @@ El resultado del jurado examinador será inapelable.
 
 Respecto a la Modalidad señalada en la fracción I del artículo anterior, de la Mención Honorífica deberá dejarse constancia en el acta de examen, otorgándose un diploma por separado al sustentante que además del voto unánime del jurado examinador haya:
 
-I. Cursado los estudios de manera ininterrumpida;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+I. Cursado los estudios de manera ininterrumpida, salvo causas de fuerza mayor;
 
 II. No hubiese presentado ningún examen extraordinario durante los estudios efectuados;
 
-III. Logrado un promedio general de estudios igualo superior a nueve;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III. Logrado el promedio general de estudios igual o superior a 9.3;
 
 IV. Observado una conducta ejemplar;
 
@@ -961,6 +1145,10 @@ Para el caso de Becas Promoción se realizará un estudio socioeconómico a carg
 
 Corresponderá a la Dirección General determinar los casos y montos en los que se otorgará cada beca previa autorización de la Presidencia y el visto bueno de la Secretaría Ejecutiva de la Comisión.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Quien se inconforme con la decisión tomada respecto al otorgamiento de la beca, deberá plantearlo por escrito ante la Dirección General del INEDH dentro de los cinco días hábiles siguientes a su notificación, quien remitirá dicho escrito a una comisión integrada por los titulares de la Presidencia, la Secretaría Ejecutiva y el Órgano Interno de Control de la Comisión, quienes determinaran lo conducente en un plazo no mayor a 30 días hábiles, posteriores a la fecha en que se haya recibido el escrito de inconformidad.
+
 ###### Artículo 83.
 
 Las becas podrán ser canceladas cuando:
@@ -969,7 +1157,15 @@ I. El alumno haya falseado datos y/o documentos para obtener la beca; y
 
 II. No prevalezcan las condiciones bajo las cuales fueron otorgadas.
 
-En reciprocidad, cada alumno becado realizará las acciones de Promoción, Difusión y Defensa de los Derechos Humanos que de común acuerdo determine con la Dirección General en base a las disposiciones respectivas.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III. Se incumplan los términos para su otorgamiento o renovación; o
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IV. No acatar las disposiciones de este Reglamento y las demás normas y lineamientos que regulen aspectos académicos, disciplinarios o de control interno.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ### CAPÍTULO X. DE LAS SANCIONES
 
@@ -1051,10 +1247,20 @@ TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campec
 
 Dado en la sala de juntas de la Comisión de Derechos Humanos del Estado de Campeche; San Francisco de Campeche, Campeche, a los veintiséis días del mes de agosto de dos mil nueve. Mtra. Ana Patricia Lara Guerrero, Presidenta; Mtra. Eslovenia Guadalupe Gutiérrez Valle, Secretaría Técnica; CONSEJEROS: Lic. Sergio Ayala Fernández del Campo, C.P. Francisco Enrique Castilla Goyta. Sra. Josefina Delgado Quintana, Sr. Severino Ek Chan, Licda. Clara Eunice Estrada González, Lic. Edgar Hernández Hernández, Dr. Pedro Lara, Licda. Mónica Beatriz Maldonado Damián y Sra. María del Carmen Pérez Mendoza.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 5 DE AGOSTO DE 2011.
 
 PRIMERO. La presente reforma y adición al Reglamento del Instituto de Estudios en Derechos Humanos, entrarán en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Las referencias hechas a la Secretaría de Educación Cultura y Deporte, se entenderán como hechas a la Secretaría del Ramo, independientemente, de la denominación que ésta tuviera.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 02/2018 REFORMA Y ADICIÓN DE DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL INSTITUTO DE ESTUDIO EN DERECHOS HUMANOS".]
+
+PRIMERO: La presente reforma al Reglamento del Instituto de Estudios en Derechos Humanos, entrara en Vigor al día siguiente de su publicación.
+
+SEGUNDO: Los Planes de Estudios, trámites académicos y la obtención de Diplomas o Grados iniciados antes de la entrada en vigor del presente Acuerdo, continuarán su sustanciación y vigencia de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+TERCERO: Los egresados de estudios de Especialidad o Maestría, anteriores a la entrada en vigor de este Acuerdo, que se encuentren en situación de término vencido, contarán con un plazo de 180 días naturales para iniciar los trámites para la obtención de sus Diplomas o Grados.
