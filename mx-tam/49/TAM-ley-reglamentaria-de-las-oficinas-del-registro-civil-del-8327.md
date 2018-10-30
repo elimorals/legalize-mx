@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "2017-09-14"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -93,9 +93,17 @@ V.- Expedir certificados de los actos que autoricen siempre que se los pidan; as
 
 VI.- Leer a los interesados con claridad las actas que autoricen, inmediatamente después de haber concluido el acto de que se trata;
 
-VII.- Dar aviso al Ejecutivo del Estado de las nuevas construcciones o reparaciones que sea necesario hacer en el Cementerio o Cementerios de su jurisdicción, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-VIII.- Cerciorarse con la debida oportunidad de que las personas interesadas en los actos en que intervengan o en la obtención de certificados y constancias relativas a actos ya autorizados, hayan cubierto previamente en la Colecturía de Rentas las cuotas correspondientes, en los términos de los artículos 17 y 18 de la presente Ley.
+VII.- Dar aviso al Ejecutivo del Estado de las nuevas construcciones o reparaciones que sea necesario hacer en el Cementerio o Cementerios de su jurisdicción;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VIII.- Cerciorarse con la debida oportunidad de que las personas interesadas en los actos que intervengan o en la obtención de certificados y constancias relativas a actos ya autorizados, hayan cubierto previamente, en la Colecturía de Rentas, las cuotas correspondientes, en términos de los artículos 17 y 18 de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX.- Exhortar a quien presente al menor a registrar a que el nombre propio que vaya a otorgarle no sea peyorativo, discriminatorio, infamante, denigrante o carente de significado.
 
 ###### Art. 10.
 
@@ -589,8 +597,16 @@ Se derogan todas las disposiciones que se oponga a este Decreto.
 
 P O. 14 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-236 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 57 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y EL ARTÍCULO 35 DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-236 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 57 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y EL ARTÍCULO 35 DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-514 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VII Y VIII; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 9º DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
