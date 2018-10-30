@@ -4,7 +4,7 @@ identifier: "FED-reglamento-sobre-el-premio-nacional-de-derechos-humanos-40682"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-10"
-last_updated: "2017-06-06"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40682&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-08-10"
 
 REGLAMENTO SOBRE EL PREMIO NACIONAL DE DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 10 de septiembre de 2004.
 
@@ -75,21 +75,23 @@ V. Ley. La Ley de Premios, Estímulos y Recompensas Civiles, y
 
 VI. Premio. El Premio Nacional de Derechos Humanos.
 
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 3.
 
-El Premio Nacional de Derechos Humanos es el reconocimiento que la sociedad mexicana confiere a través de la Comisión Nacional de los Derechos Humanos, a las personas que se han destacado en la promoción efectiva y defensa de los derechos humanos, el cual se expresará mediante diploma, medalla y numerario.
+El Premio Nacional de Derechos Humanos es el reconocimiento que la sociedad mexicana confiere a través de la Comisión Nacional de los Derechos Humanos, a las personas que se han destacado en la promoción efectiva y defensa de los derechos fundamentales, el cual se expresará mediante diploma, medalla y numerario.
 
-> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 4.
 
-El diploma será entregado por la o el titular de la Presidencia de la República y la o el titular de la Comisión Nacional de los Derechos Humanos. El contenido del diploma incluirá la leyenda: "En reconocimiento por su labor en la promoción y defensa de los derechos fundamentales".
+El diploma será entregado por la o el titular de la Presidencia de la República y la o el titular de la Comisión Nacional de los Derechos Humanos. El contenido del diploma incluirá la leyenda: "En reconocimiento por su labor en la promoción efectiva y defensa de los derechos fundamentales".
 
-> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 5.
 
-La medalla será en oro de ley 0.9000, en su anverso llevará la inscripción: "Premio Nacional de Derechos Humanos” y al reverso el nombre de la persona ganadora del Premio, el año y la leyenda: "Por la promoción y defensa de los derechos fundamentales".
+La medalla será en oro de ley 0.9000, en su anverso llevará la inscripción: "Premio Nacional de Derechos Humanos" y al reverso el nombre de la persona ganadora del Premio, el año y la leyenda: "Por la promoción efectiva y defensa de los derechos fundamentales".
 
 ###### Artículo 6.
 
@@ -318,3 +320,11 @@ D.O.F. 6 DE JUNIO DE 2017.
 PRIMERO.- El presente Acuerdo deberá ser publicado en el Diario Oficial de la Federación, así como en la Gaceta de la Comisión Nacional.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO CONSULTIVO POR EL QUE SE REFORMA EL REGLAMENTO SOBRE EL PREMIO NACIONAL DE DERECHOS HUMANOS”.]
+
+PRIMERO. El presente Acuerdo deberá ser publicado en el Diario Oficial de la Federación, así como en la Gaceta de la Comisión Nacional.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
