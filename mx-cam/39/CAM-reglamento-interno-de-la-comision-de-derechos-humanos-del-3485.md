@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interno-de-la-comision-de-derechos-humanos-del-3485"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-10-20"
-last_updated: "2006-03-08"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 20 de octubre de 1993.
 
@@ -87,9 +87,11 @@ Lo anterior, sin perjuicio de las consideraciones que en casos concretos se pued
 
 Los servidores públicos que laboren en la Comisión de Derechos Humanos del Estado de Campeche no estarán obligados a rendir testimonio cuando dicha prueba haya sido ofrecida en procesos civiles, penales o administrativos y el testimonio se encuentre relacionado con su intervención en el tratamiento de las quejas radicadas en la Comisión Estatal.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### ARTICULO 11.
 
-El personal de la Comisión Estatal prestará sus servicios inspirado, primordialmente, en los altos principios que conforman la existencia y los propósitos de dicho Organismo. En consecuencia, deberá procurar en toda circunstancia la protección de los Derechos Humanos de los quejosos; participar en las acciones de promoción de los Derechos Humanos y elevar al conocimiento y resolución de los superiores jerárquicos toda iniciativa que contribuya a la mejor realización de las finalidades de la institución.
+El personal de la Comisión Estatal prestará sus servicios inspirado, primordialmente, en los altos principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia; así como los que conforman la existencia y los propósitos de dicho Organismo. En consecuencia, deberá procurar en toda circunstancia la protección de los derechos humanos de los quejosos; participar en las acciones de promoción de los derechos humanos, y elevar el conocimiento y resolución de los superiores jerárquicos toda iniciativa que contribuya a la mejor realización de las finalidades de la institución.
 
 ## TITULO SEGUNDO. FUNCIONES DE LA COMISIÓN ESTATAL
 
@@ -567,33 +569,199 @@ Además contará con el personal profesional, técnico y administrativo autoriza
 
 Los estudios legislativos y las propuestas de esa naturaleza realizados por la Secretaría Ejecutiva, sólo se harán en aquellas materias de la exclusiva competencia de la Comisión Estatal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO VI. ÓRGANO INTERNO DE CONTROL
+### CAPÍTULO VI. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-ARTÍCULO 46 BIS.- La Comisión de Derechos Humanos del Estado contará con un Órgano Interno de Control que estará a cargo de un titular que será propuesto por el Presidente la Comisión Estatal y aprobado su nombramiento por el Consejo Consultivo, y ejercerá las facultades y atribuciones a que hacen referencia la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, y:
+ARTÍCULO 46 BIS.- El titular del Órgano Interno de Control, será designado por el voto de las dos terceras partes del Congreso del Estado, para lo cual el Presidente de la Comisión de Derechos Humanos del Estado de Campeche, conformará la terna compuesta por cuatro aspirantes a la Dirección del Órgano Interno de Control, previa valoración de los requisitos de ley.
 
-I.- Diseñar, desarrollar, implementar, actualizar y vigilar el cumplimiento del Manual de Organización General y los demás manuales e instructivos de organización, procedimientos y servicios;
+El titular de este Organismo, en un término de cinco días hábiles siguientes a la conclusión del cargo del titular del Órgano Interno de Control, presentará la terna a las instituciones de educación superior públicas y colegio de profesionistas afines a las ramas de derecho, contaduría, economía y derechos humanos, para su valoración.
 
-II.- Inspeccionar el ejercicio del gasto y administración del patrimonio de la Comisión Estatal;
+Una vez presentada la terna para su auscultación en un plazo de tres días hábiles, las instituciones de educación superior y colegio de profesionistas, emitirán su aprobación de la propuesta.
 
-III.- Implantar y vigilar el cumplimiento de las normas complementarias en materia de control, así como realizar las auditorías o revisiones que se requieran a los órganos y unidades administrativas de la Comisión Estatal, para lo cual emitirá las observaciones y recomendaciones correspondientes;
+De no ser aprobada, en un término de tres días hábiles deberán enviar sus argumentos al titular de esta Comisión de Derechos Humanos por única vez; para que dentro de los tres días hábiles siguientes se realicen las adecuaciones pertinentes y devolución de la terna.
 
-IV.- Realizar auditorias de desempeño a los órganos y unidades administrativas de la Comisión Estatal de conformidad con las metas y actividades establecidas en el Programa Anual de Trabajo;
+El titular del Organismo, en un plazo de tres días hábiles deberá presentar la terna aprobada al Congreso del Estado para la posterior designación del titular del Órgano Interno de Control.
 
-V.- Establecer las políticas que regirán las contrataciones de auditores externos y dar seguimiento al cumplimiento de las observaciones y recomendaciones que formulen dichos auditores y las que emita la Auditoría Superior del Estado;
+Una vez presentada la terna para su auscultación, en un plazo de tres días hábiles las referidas instituciones y colegios, emitirán su aprobación de la propuesta.
 
-VI.- Establecer los mecanismos para difundir la obligación de presentar la declaración de situación patrimonial; por parte de los servidores públicos de la Comisión Estatal;
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-VII.- Recibir, registrar y custodiar las declaraciones de situación patrimonial que presenten los servidores públicos de la Comisión Estatal en términos de las disposiciones legales aplicables e intervenir en los actos de entrega y recepción del cargo de estos servidores públicos;
+Artículo 46 BIS 1. Para el adecuado cumplimiento de las atribuciones del Órgano Interno de Control conferidas en la ley, se contará con un Responsable en Procedimientos Administrativos, y un Encargado de Auditoría de Gestión y Desempeño, los cuales serán designados por el Presidente de esta Comisión Estatal, a propuesta del titular del Órgano Interno de Control.
 
-VIII.- Recibir, investigar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos de este Organismo, en los términos de la normatividad aplicable;
+Para ser responsable de procedimientos administrativos y/o encargado de auditoría de gestión y desempeño deberán reunir los siguientes requisitos:
 
-IX.- Acordar con el Presidente de la Comisión los asuntos de su competencia; y
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-X.- Las demás que le confiera el presente reglamento y otras disposiciones legales aplicables, así como aquellas que le asigne el Presidente de la Comisión Estatal.
+II. Tener como mínimo 22 años de edad al día de su designación;
+
+III. Gozar de buena reputación y no haber sido condenado por el delito doloso que amerite pena privativa de libertad por más de un año.
+
+IV. Contar al día de su designación, con título profesional expedido por autoridad o institución legalmente facultada para ello, o cualquier otro título profesional, relacionada con las actividades de fiscalización, control interno, administrativas o contenciosas;
+
+V. No pertenecer o haber pertenecido, en los 5 años anteriores a su designación a despachos de consultoría o auditoría, que hubieran prestado sus servicios a la Comisión de Derechos Humanos del Estado de Campeche o auditor externo de la Comisión Estatal, en lo individual durante su período.
+
+En el caso del responsable de auditoría de gestión y desempeño, se considerará preferentemente, aquellas personas que tengan estudios de contaduría.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+DISPOSICIONES COMUNES.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 2. Los procedimientos previstos en el artículo 23 quinquies, fracciones V, VI, VII, VIII, XIV, XV, XVI, XXI, XXII, XXV y XXVII de la Ley de la Comisión de Derechos Humanos del Estado de Campeche, se regirán por las siguientes reglas:
+
+El Titular del Órgano Interno de Control tendrá la facultad para delegar las atribuciones conferidas al personal a su cargo, a fin de mejorar continuamente el desarrollo de las actividades en materia de control interno.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 3. Con motivo de la protección de la información y de los datos personales que sean proporcionados por los servidores públicos y particulares, al Órgano Interno de Control, en ejercicio de sus atribuciones, mediante el aviso de privacidad, se les especificará el tratamiento, asesoría u orientación sobre los mismos y los derechos que les asisten, para el acceso, rectificación, cancelación y oposición.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 46 BIS 4. El Titular del Órgano Interno de Control, así como los responsables del procedimiento administrativo, de auditoría de gestión y desempeño, podrán solicitar la información necesaria, a cualquiera de las áreas o personal para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 46 BIS 5. Las investigaciones por presuntas faltas administrativas en contra de los servidores públicos de la Comisión de Derechos Humanos del Estado de Campeche, podrán ser iniciadas de oficio, por denuncia o derivado de auditorías practicadas por autoridad competente o, en su caso, de auditores externos; presentadas ante el Órgano Interno de Control.
+
+Las denuncias podrán ser anónimas. En su caso, el personal del Órgano encargado de la investigación, mantendrán con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones.
+
+Las denuncias podrán ser presentadas por escrito, vía electrónica o por comparecencia, las cuales deberán contener nombre, edad, domicilio, teléfono, correo electrónico y firma del denunciante, debiendo anexar a la misma, identificación oficial y documentos que se consideren pertinentes. De igual forma, deberán contener los datos e indicios que permitan advertir la presunta responsabilidad administrativa, y la identificación del servidor público de que se trate.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 46 BIS 6. En el caso de faltas administrativas no graves, la facultad del Órgano Interno de Control para imponer las sanciones, prescribirá en tres años, contados a partir del día siguiente al que hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
+
+Cuando se trate de faltas administrativas graves o faltas de particulares, el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 7. Los servidores públicos serán sancionados a través del correspondiente procedimiento administrativo, por incurrir en alguna de las faltas señaladas en la Ley General de Responsabilidades Administrativas, así como, por la inobservancia de las conductas señaladas en el Código de Ética de la Comisión de Derechos Humanos del Estado de Campeche.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+DE LA CALIFICACIÓN DE FALTAS ADMINISTRATIVAS
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 8. Una vez admitida la queja o denuncia, el titular del Órgano Interno de Control procederá a la investigación y calificación de la presunta responsabilidad administrativa de los servidores públicos de la Comisión de Derechos Humanos del Estado de Campeche, para determinar sí constituyen faltas administrativas graves o no graves, de acuerdo a la ley de la materia, o en su caso, la inexistencia de actos u omisiones considerados como faltas administrativas.
+
+El procedimiento de investigación y calificación de las faltas administrativas graves o no graves, se atenderá a lo dispuesto en la Ley General de Responsabilidades Administrativas y se documentarán en un expediente denominado de investigación preliminar.
+
+La calificación de los hechos como faltas administrativas no graves que se realicen por la autoridad investigadora, será notificada al denunciante. Además de contener dicha calificación, la notificación también contendrá de manera expresa la forma de acceder al expediente de presunta responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 9. La autoridad substanciadora y resolutora del procedimiento de responsabilidad administrativa, deberá ser distinto de aquél o aquellos, encargados de la investigación, según lo previsto en la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IMPUGNACIÓN DE LA CALIFICACIÓN DE FALTAS ADMINISTRATIVAS
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 10. La calificación de falta administrativa no grave podrá ser impugnada por el denunciante, mediante el recurso de inconformidad. La presentación del mismo tendrá como efecto que no se inicie el procedimiento de responsabilidad hasta en tanto éste sea resuelto.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 11. El plazo para la interposición del recurso será de cinco días hábiles, contados a partir de la notificación de la resolución impugnada y deberá presentarse ante la autoridad investigadora que hubiere hecho la calificación como no grave, debiendo expresar los motivos por los que se estime indebida dicha calificación.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 12. De calificarse como falta administrativa grave, se iniciará un expediente integrado por los documentos de la investigación preliminar, y el informe de presunta responsabilidad administrativa, el cual se remitirá por oficio, a la autoridad competente para su trámite.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 13. Tratándose de falta administrativa no grave, se iniciará expediente y se elaborará el informe de presunta responsabilidad administrativa, para que en un plazo de cinco días hábiles, se remita al responsable de procedimientos administrativos para la substanciación y resolución del mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 14. Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del servidor público, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente, si se presentan nuevos indicios o pruebas y no hubiese prescrito la facultad para sancionar. La determinación se notificara a los servidores públicos sujetos a la investigación, así como a los denunciantes cuando estos fueren identificables, dentro de un plazo de diez días hábiles siguientes a su emisión.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 15. El Órgano Interno de Control a partir de que tenga conocimiento de una posible falta administrativa grave, cometida por servidores públicos o particulares, ya sea por denuncia o por oficio; deberá turnar el asunto al Tribunal de Justicia Administrativa del Estado, para la determinación de las responsabilidades administrativas e imposición de sanciones, de conformidad con la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 16. La autoridad investigadora una vez que califique la comisión de hechos u omisiones, constitutivos de delito realizados por servidores públicos de este Organismo, hará de conocimiento al titular de la Fiscalía Especializada en Combate a la Corrupción.
+
+Los delitos a los que hace referencia el párrafo anterior serán los contemplados en el título Décimo Quinto, denominado Delitos contra el Erario y el Servicio Público del Código Penal del Estado de Campeche.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA ANTE EL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 17. El procedimiento de responsabilidad administrativa, dará inicio cuando el Responsable de Procedimientos Administrativos, admita el informe de presunta responsabilidad, con apego a los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 18. Los procedimientos a que hace alusión el párrafo anterior, desarrollados ante el Órgano Interno de Control, tendrán como días hábiles todos los del año, con excepción de aquellos días, que por virtud de ley, algún decreto o disposición administrativa, se determinen como inhábil, durante las que no se practicará actuación alguna. Serán horas hábiles las que medien entre las 8:00 y las 15:00 horas. El Responsable de Procedimientos Administrativos podrá habilitar días y horas inhábiles para la práctica de aquellas diligencias que, a su juicio, lo requiera cuando se trate del ejercicio de un derecho en beneficio de cualquiera de las partes.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 19. La autoridad substanciadora para hacer cumplir sus determinaciones, podrá hacer uso de los medios de apremio contemplados en la ley de la materia.
+
+La autoridad investigadora, a fin de que se cumpla con el objeto del procedimiento de responsabilidad administrativa, podrá solicitar a la autoridad substanciadora o resolutora que decrete las medidas cautelares pertinentes.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 20. Los procedimientos de responsabilidad referentes a faltas administrativas no graves, como aquellos cuya resolución corresponda al Tribunal de Justicia Administrativa, se desarrollaran conforme a lo establecido en las disposiciones comunes y procesos descritos en la Ley General de Responsabilidades Administrativas.
+
+El denunciante o los servidores públicos que consideren vulnerados sus derechos por las determinaciones de las autoridades investigadoras, substanciadoras o resolutoras, podrán interponer ante las mismas, según sea el caso, los recursos de inconformidad, revocación y reclamación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 21. El Órgano Interno de Control, en ejercicio de sus atribuciones, recepcionará las declaraciones de modificación patrimonial y de intereses, de inicio y de conclusión del encargo de los servidores públicos, así como copia de la declaración del impuesto sobre la renta del año que corresponda, sí están obligados a presentarla, o en su caso, la constancia de percepciones y retenciones.
+
+Los titulares de las áreas administrativas que conforman la Comisión de Derechos Humanos del Estado de Campeche, deberán notificar inmediatamente al Órgano Interno de Control, el inicio y la terminación de la relación laboral del personal a su cargo, a fin de garantizar el cumplimiento de las obligaciones concebidas en la Ley General de Responsabilidades Administrativas.
+
+Para el adecuado resguardo se compilará las declaraciones presentadas y un registro de las mismas, el cual deberá contener nombre del servidor público, cargo y fecha de recepción.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+DE LAS REVISIONES, AUDITORIAS DE GESTIÓN Y DESEMPEÑO
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 22. El Órgano Interno de Control podrá establecer, implementar y vigilar en materia de control interno, los mecanismos que se generen para garantizar el adecuado funcionamiento de la institución.
+
+Las revisiones, auditorías de gestión y desempeño que se lleven a cabo en las diferentes unidades administrativas de esta Comisión, se harán con apego a los principios de integridad, honradez, imparcialidad, transparencia, rendición de cuentas, respeto e igualdad.
+
+Las auditorías de gestión y desempeño tendrán como principal objetivo el adecuado cumplimiento de metas y actividades, previstas en el programa de trabajo y demás proyectos aprobados, además de vigilar el manejo, custodia y aplicación del presupuesto asignado.
+
+La autoridad encargada de las mismas, elaborará un informe en el cual emitirá sus observaciones y recomendaciones de mejora para promover el fortalecimiento institucional, el cual deberá presentar al titular del Organismo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+DE LOS ACTOS DE ENTREGA-RECEPCIÓN DEL CARGO DE LOS SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 23. La intervención del Órgano Interno de Control en los actos de entrega - recepción, consistirá en la verificación y seguimiento, de conformidad con lo establecido en la ley de la materia, y en las disposiciones que al efecto se emitan.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 24. Los servidores públicos de la Comisión de Derechos Humanos del Estado de Campeche al terminar su empleo, cargo o comisión, estarán obligados a realizar el acto de entrega - recepción de los recursos humanos, materiales, financieros, así como los asuntos y documentación que les hayan sido asignados. Dicha acto lo hará el servidor público saliente a la persona que lo sustituya o, en su caso, a quien designe su superior jerárquico o el titular de este Organismo.
+
+Los servidores públicos obligados al acto de entrega - recepción serán desde el titular del Organismo hasta aquellos cuyo nivel jerárquico sea equivalente a Jefe de Departamento; así como los responsables de archivo de trámite, concentración e histórico. El personal administrativo que se considere deba realizar entrega - recepción, dependerá de la relevancia y responsabilidad de las funciones públicas que tenga a su cargo, aún y cuando no hayan manejado recursos económicos o no hayan tenido personal a su cargo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Artículo 46 BIS 25. El titular de la Comisión y del Órgano Interno de Control, deberán realizar el acto de entrega - recepción final, al concluir su encargo, salvo que sea ratificado según lo previsto en la Ley de la Comisión de Derechos Humanos del Estado de Campeche, en cuyo caso, dicho acto se efectuará cuando finalicen su segundo período.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE MARZO DE 2006)</small>
 
@@ -963,7 +1131,9 @@ Sólo procederá notificar a la autoridad o servidor público que hubiese sido s
 
 Concluida la investigación y reunidos los elementos de convicción necesarios para probar la existencia de violaciones a Derechos Humanos, el Visitador General iniciará la elaboración de la Recomendación correspondiente.
 
-ARTICUL0 98.- Elaborado el proyecto, el Visitador General lo presentará a la consideración del Presidente de la Comisión Estatal.
+###### ARTICULO 98.
+
+Elaborado el proyecto, el Visitador General lo presentará a la consideración del Presidente de la Comisión Estatal.
 
 ###### ARTICULO 99.
 
@@ -1155,33 +1325,9 @@ III. FALLECIMIENTO DEL TRABAJADOR,
 
 IV. INCAPACIDAD PERMANENTE, FÍSICA O MENTAL, QUE IMPIDA QUE EL TRABAJADOR DESEMPEÑE SU FUNCIÓN.
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
-
 ###### ARTICULO 119.
 
-Los trabajadores del Organismo serán sancionados a través del correspondiente procedimiento administrativo por incurrir en alguna de las prohibiciones siguientes:
-
-A) Una vez registrada su entrada laboral abandone o desatienda el mismo sin causa justificada;
-
-B) Asistir a sus labores en estado de embriaguez o bajo los efectos de algún psicotrópico, narcótico o droga enervante (estupefaciente);
-
-C) No asistir a laborar por más de tres días en un mes, sin causa justificada o sin permiso previo o autorización del superior inmediato o mediato;
-
-D) Ocasionar daños y perjuicios dolosamente o por negligencia al edificio o implementos de trabajo o poner en peligro la seguridad del local y del personal del mismo;
-
-E) Hostigar sexualmente, molestar en cualquier forma o cometer actos inmorales con los compañeros de trabajo, dentro de las oficinas que ocupa o fuera de la jornada laboral;
-
-F) Comunicar a otro u otros asuntos secretos o reservados relacionados con su labor;
-
-G) No cumplir las disposiciones que le dicten sus superiores en el ejercicio de sus Atribuciones;
-
-H) Cuando exista motivo justificado para perder la confianza que se le tenía encomendada al trabajador;
-
-I) Por sentencia ejecutoriada que imponga el juez correspondiente al trabajador por delitos dolosos que merezcan pena corporal;
-
-J) Registrar por otro la asistencia a sus labores;
-
-K) Las demás que dispongan la Ley Reglamentaria del Capitulo XVII de la Constitución Política del Estado de Campeche.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
@@ -1332,3 +1478,11 @@ PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Comisi�
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al contenido del presente acuerdo.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche, de acuerdo a lo establecido en el artículo 29 del Reglamento Interno de la Comisión Estatal.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO NÚMERO 07/2017 POR EL QUE "SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VI "ÓRGANO INTERNO DE CONTROL" Y LOS ARTÍCULOS 11, 46 BIS, SE ADICIONAN LOS ARTÍCULOS 46 BIS 1, 46 BIS 2, 46 BIS 3, 46 BIS 4, 46 BIS 5, 46 BIS 6, 46 BIS 7, 46 BIS 8, 46 BIS 9, 46 BIS 10, 46 BIS 11, 46 BIS 12, 46 BIS 13, 46 BIS 14, 46 BIS 15, 46 BIS 16, 46 BIS 17, 46 BIS 18, 46 BIS 19, 46 BIS 20, 46 BIS 21, 46 BIS 22, 46 BIS 23, 46 BIS 24, 46 BIS 25 Y SE DEROGA EL ARTÍCULO 119, TODOS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE".]
+
+Primero.- La presente acuerdo fue aprobado por la unanimidad de los Consejeros presentes en la décima segunda Sesión Ordinaria del Consejo Consultivo de la Comisión, correspondiente al ejercicio 2017, celebrada el día 17 de diciembre de 2017.
+
+Segundo.- El presente acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
