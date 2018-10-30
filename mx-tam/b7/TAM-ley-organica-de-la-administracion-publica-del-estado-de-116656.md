@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2018-10-23"
+last_updated: "2018-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -381,7 +381,7 @@ X. Administrar y custodiar los fondos y valores del Gobierno del Estado y fincar
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XI.- Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos previstos por la legislación fiscal y aduanera para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior, de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
+XI. Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos previstos por la legislación fiscal y aduanera para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior, de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
 
 XII. Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos previstos por la legislación fiscal para comprobar el cumplimiento en el pago de impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias, comprobantes fiscales y accesorios de carácter estatal, y de los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
 
@@ -465,7 +465,9 @@ IV. Mantener actualizado el Reglamento de Escalafón y el Tabulador de Sueldos d
 
 V. Elaborar y vigilar el cumplimiento de las condiciones generales de trabajo de los servidores públicos del Estado;
 
-VI. Otorgar becas, estímulos y promover actividades socioculturales y deportivas para los servidores públicos del Estado, en coordinación con el Instituto Tamaulipeco para la Cultura y las Artes, y el Instituto Tamaulipeco del Deporte;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VI. Otorgar becas, estímulos y promover actividades socioculturales y deportivas para los servidores públicos del Estado, en coordinación con el Instituto Tamaulipeco para la Cultura y las Artes, y el Instituto del Deporte de Tamaulipas;
 
 VII. Programar presupuestalmente la adquisición de los bienes y la contratación de los servicios que requieran las dependencias de la administración pública en los términos que establece la ley respectiva; sin demérito de la naturaleza de las entidades de la propia administración, contribuir a la programación presupuestal de las adquisiciones de bienes y contratación de servicios que necesiten. Para la realización de adquisiciones y contrataciones se solicitará la actuación del Comité de Compras y Operaciones Patrimoniales;
 
@@ -779,7 +781,9 @@ XVI. Elaborar y presentar al Ejecutivo del Estado el proyecto del Programa Estat
 
 XVII. Diseñar, proponer y ejecutar la política estatal de atención a la juventud, promoviéndose la adopción de políticas en materia de educación sexual, prevención de enfermedades, oportunidades de empleo, expresión cultural y artística y lucha contra las adicciones y la delincuencia;
 
-XVIII. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Mujer Tamaulipeca, del Instituto de la Juventud de Tamaulipas, del Instituto Tamaulipeco para la Cultura y las Artes, y del Instituto Tamaulipeco del Deporte;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XVIII. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Mujer Tamaulipeca, del Instituto de la Juventud de Tamaulipas, del Instituto Tamaulipeco para la Cultura y las Artes, y del Instituto del Deporte de Tamaulipas;
 
 XIX. Participar en la elaboración de políticas y estrategias para la prevención social de la violencia e incentivar la participación ciudadana en su diseño;
 
@@ -1744,6 +1748,10 @@ La Dirección de Administración de la Procuraduría General de Justicia del Est
 ###### ARTÍCULO DÉCIMO OCTAVO.
 
 Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento, se continuará con la estructura y presupuesto con que cuenta la Fiscalía de Personas No Localizadas o Privadas de su Libertad de la Procuraduría General de Justicia del Estado.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-518 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS; LA LEY DEL FOMENTO Y USO DE LA BICICLETA EN EL ESTADO DE TAMAULIPAS; LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
