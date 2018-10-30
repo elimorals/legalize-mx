@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-tribunal-de-justicia-administrativa-del-121787
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-02"
-last_updated: "2017-06-02"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -251,9 +251,15 @@ Las licencias a los Magistrados por un término que no exceda de treinta días, 
 
 En el supuesto de incapacidad por enfermedad o accidente, el Pleno del Tribunal podrá otorgar licencia con goce de sueldo hasta por el término de seis meses.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+No se requerirá de licencia aprobada por el Pleno, en caso de ausencias temporales de los Magistrados que no excedan de tres días por motivo de comisión o representación oficial del Tribunal.
+
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Las ausencias temporales de los Magistrados hasta por treinta días o por incapacidad médica serán suplidas por el Secretario de Estudio y Cuenta que al efecto designe el Pleno del Tribunal, el cual deberá cumplir con los mismos requisitos señalados en el artículo 9 de esta ley; y asumirán las facultades señaladas en el artículo 29 de esta ley.
+Las ausencias temporales de los Magistrados por periodos mayores a tres y hasta por treinta días o por incapacidad médica serán suplidas por el Secretario correspondiente, en términos del reglamento interior del Tribunal.
 
 Si las faltas de los Magistrados son definitivas, se aplicará lo dispuesto en este artículo entre tanto se hace la designación del nuevo Magistrado en los términos del artículo 9 de esta Ley. Se considera que la falta de un Magistrado es definitiva, cuando ocurre por fallecimiento o se prolonga por más de seis meses sin causa justificada.
 
@@ -263,9 +269,11 @@ Si las faltas de los Magistrados son definitivas, se aplicará lo dispuesto en e
 
 El Tribunal tendrá un Presidente quien durará en su cargo dos años y no podrá ser reelecto para el periodo inmediato. La Presidencia será rotativa, su elección y protesta será efectuada por el Pleno, en la última sesión del año que corresponda o en sesión extraordinaria anterior a la fecha en que deba concluir el ejercicio de la Presidencia.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 16.
 
-En el último día hábil del mes de diciembre de cada año, el Tribunal celebrará sesión solemne en la que el Presidente en funciones rendirá el informe anual correspondiente.
+Dentro de los primeros quince días del mes de julio de cada año, el Tribunal celebrará sesión solemne en la que el Presidente en funciones rendirá el informe anual correspondiente.
 
 ###### Artículo 17.
 
@@ -383,13 +391,19 @@ V. Conceder las licencias a los Secretarios, Actuarios y demás servidores públ
 
 VI. Expedir, modificar y dejar sin efectos, el reglamento interior del Tribunal;
 
-VII. Rendir los informes previos y justificados en los juicios de amparo que se promuevan en contra de actos del Pleno del Tribunal;
+VII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2018)
 
 VIII. Dictar las medidas administrativas para el buen funcionamiento del Tribunal y disciplina de su personal;
 
-IX. Resolver los recursos de inconformidad, reclamación, apelación y revisión que sean interpuestos ante el Pleno del Tribunal, en los términos que establece la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas y demás disposiciones legales aplicables. También conocerá de las impugnaciones en contra de las resoluciones que se dicten en el recurso de revocación, previsto por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-X. Resolver en definitiva los asuntos sometidos a su jurisdicción de acuerdo con el procedimiento señalado en la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas y en el reglamento interior del Tribunal;
+IX. Resolver los recursos de reclamación y revisión, en los términos que establece la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas y demás disposiciones legales aplicables.
+
+Asimismo resolverá los recursos de apelación y revisión, conforme a lo que establece la Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+X. Resolver en definitiva los asuntos sometidos a su jurisdicción, que no sean competencia de las Salas Unitarias, de acuerdo con el procedimiento señalado en la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas y en el reglamento interior del Tribunal;
 
 XI. Tomar la protesta legal de los servidores públicos del Tribunal;
 
@@ -411,11 +425,11 @@ XIX. Ordenar en los asuntos del conocimiento del Pleno, que se reabra la instruc
 
 XX. Resolver en sesión privada sobre las excusas, excitativas de justicia y recusaciones de los Magistrados del Tribunal. Así como habilitar a los Secretarios de Acuerdos de los Magistrados de las Salas Unitarias para que los sustituyan;
 
-XXI. Sobreseer los juicios antes de que se cierre la instrucción, cuando el demandante se desista de la acción o se revoque la resolución impugnada, así como en los demás casos que establezcan las disposiciones legales aplicables;
+XXI. (DEROGADA, P.O. 30 DE OCTUBRE DE 2018)
 
-XXII. Resolver respecto de las faltas administrativas graves, investigadas y substanciadas por la Auditoría Superior del Estado, Contraloría Gubernamental y los Órganos Internos de Control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes;
+XXII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2018)
 
-XXIII. Imponer las sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades. Así como fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al Patrimonio de los entes públicos del Estado o municipales;
+XXIII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2018)
 
 XXIV. Resolver sobre los informes previos y justificados en los juicios de amparo que se promuevan en contra de actos del Pleno del Tribunal que rendirá el Presidente del Tribunal;
 
@@ -443,7 +457,9 @@ El Secretario General de Acuerdos vigilará que la distribución de la carga de 
 
 Los Magistrados de las Salas Unitarias tendrán las atribuciones siguientes:
 
-I. Substanciar el procedimiento hasta la citación para sentencia, teniendo la más amplia facultad para subsanar cualquier omisión o error que notaren para el sólo efecto de regularizar el procedimiento;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+I. Substanciar el procedimiento hasta la citación para sentencia, teniendo la más amplia facultad para subsanar cualquier omisión o error que notaren para el sólo efecto de regularizar el procedimiento. También conocerá de las impugnaciones en contra de las resoluciones que se dicten en los recursos de inconformidad, revocación y reclamación, previstos por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
 II. Someter al Pleno los proyectos de resolución cuando el asunto sea de la competencia del Pleno;
 
@@ -471,25 +487,45 @@ XIII. Admitir o desechar la intervención del tercero;
 
 XIV. Admitir o desechar o tener por no ofrecidas las pruebas;
 
-XV. Admitir, desechar y tramitar los incidentes y recursos que les competan, formular los proyectos de resolución, de aclaraciones de sentencia y de resoluciones de quejas relacionadas con el cumplimiento de las sentencias y someterlos a la consideración del Pleno;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XV. Admitir, desechar y tramitar los incidentes y recursos que les competan, resolver sobre aclaraciones de sentencia y de resoluciones de quejas relacionadas con el cumplimiento de las sentencias.
+
+En caso de incidentes y recursos cuya resolución corresponda al Pleno, la Sala deberá formular el proyecto de resolución correspondiente y someterlo a consideración del Pleno;
 
 XVI. Dictar los acuerdos o providencias de trámite necesarios para instruir el juicio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes, los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma;
 
-XVII. Formular el proyecto de sentencia definitiva y, en su caso, de cumplimiento de ejecutorias y someterlos a la consideración del Pleno;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XVII. Resolver en definitiva los asuntos sometidos a su jurisdicción, y en su caso, determinar las medidas correspondientes para asegurar el cumplimiento de ejecutorias, así como dar cumplimiento a las ejecutorias dictadas en materia de amparo, relativas a sentencias dictadas por la Sala, de acuerdo con el procedimiento señalado en la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas, y en el reglamento interior del Tribunal;
 
 XVIII. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas;
 
 XIX. Resolver sobre el otorgamiento de medidas cautelares que correspondan;
 
-XX. Formular el proyecto de resolución correspondiente y en caso de determinar la comisión de una falta administrativa grave, preverá la sanción correspondiente, la cual incluirá el pago de las indemnizaciones que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos del Estado, en los términos de la Ley General de Responsabilidades de los Servidores Públicos, Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XX. Resolver en definitiva los asuntos sometidos a su jurisdicción, en materia de faltas administrativas graves investigadas y substanciadas por la Auditoría Superior del Estado, Contraloría Gubernamental y los Órganos Internos de Control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes.
+
+En caso de determinar la comisión de una falta administrativa grave, preverá la sanción correspondiente la cual incluirá el pago de las indemnizaciones que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos del Estado, en los términos de la Ley General de Responsabilidades de los Servidores Públicos, Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás disposiciones legales aplicables;
 
 XXI. Ejecutar las sentencias o resoluciones que en definitiva resuelva el Pleno;
 
 XXII. Dar cumplimiento a las ejecutorias de amparo derivadas de los asuntos de su Sala;
 
-XXIII. Expedir certificaciones de las constancias que correspondan a la Sala; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-XXIV. Realizar las demás atribuciones que en el ámbito de su competencia le confieran la presente ley, el reglamento interior del Tribunal u otros ordenamientos legales aplicables.
+XXIII. Expedir certificaciones de las constancias que correspondan a la Sala;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXIV. Sobreseer los juicios antes de que se cierre la instrucción, cuando el demandante se desista de la acción o se revoque la resolución impugnada, así como en los demás casos que establezcan las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXV. Imponer las sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades. Así como fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al Patrimonio de los entes públicos del Estado o municipales; y
+
+XXVI. Realizar las demás atribuciones que en el ámbito de su competencia le confieran la presente ley, el reglamento interior del Tribunal u otros ordenamientos legales aplicables.
 
 ### Capítulo V. Del Personal del Tribunal
 
@@ -769,9 +805,15 @@ III. Comprobar el cumplimiento por parte de los órganos administrativos del Tri
 
 IV. Llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Tribunal;
 
-V. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-VI. Las demás que determinen las leyes, reglamentos y acuerdos generales correspondientes.
+V. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VI. Nombrar y remover los funcionarios y el personal a su cargo, atendiendo a las necesidades para la realización de sus funciones, y al presupuesto asignado al Tribunal; y
+
+VII. Las demás que determinen las leyes, reglamentos y acuerdos generales correspondientes.
 
 ###### Artículo 44.
 
@@ -876,3 +918,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, al primer día del mes de junio del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-519 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS, A LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación a lo señalado en el último párrafo del artículo 22 de la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas del presente Decreto, los juicios que se hayan iniciado en el Tribunal de Justicia Administrativa del Estado de Tamaulipas con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
