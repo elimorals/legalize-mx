@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-procedimiento-contencioso-administrativo-del-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-08"
-last_updated: "2017-06-08"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo al Número 69 del Periódico Oficial del Estado de Tamaulipas, el jueves 8 de junio de 2017.
 
@@ -253,7 +253,9 @@ El Tribunal deberá analizar de oficio, si concurre alguna causal de improcedenc
 
 Procede el sobreseimiento del juicio:
 
-I. Por desistimiento del demandante. Para que proceda el desistimiento deberá ratificarse ante la Sala Unitaria del Tribunal;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+I. Por desistimiento del demandante. Para que proceda el desistimiento deberá ratificarse personalmente ante la Sala Unitaria del Tribunal o anexarse la manifestación ante fedatario público dentro del plazo de tres días posteriores a la providencia que mande ratificar el escrito de desistimiento de la demanda, apercibido que de no hacerlo, se le tendrá por no desistido y se continuará el juicio;
 
 II. Cuando durante el juicio aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
 
@@ -331,7 +333,9 @@ La demanda deberá presentarse mediante Juicio en la vía tradicional por escrit
 
 Para el caso de que el demandante no manifieste su opción al momento de presentar su demanda se entenderá que eligió tramitar el Juicio en la vía tradicional.
 
-Cuando el demandante tenga su domicilio fuera de la población donde esté la sede de la Sala, la demanda podrá enviarse a través de Correos de México, correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el demandante, pudiendo en este caso señalar como domicilio para recibir notificaciones, el ubicado en cualquier parte del territorio del Estado.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Cuando el demandante tenga su domicilio fuera de la población donde esté la sede de la Sala, la demanda podrá enviarse a través de Correos de México, correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el demandante.
 
 ###### Artículo 21.
 
@@ -361,7 +365,9 @@ La demanda deberá indicar:
 
 I. El nombre, apellidos, firma y su dirección de correo electrónico, denominación o razón social del actor o, en su caso, de quien promueva en su nombre;
 
-II. El domicilio fiscal del demandante, así como domicilio para oír y recibir notificaciones dentro de la sede del Tribunal, y en caso de que el demandante tenga su domicilio fuera de la población donde esté la sede del Tribunal podrá señalar como domicilio para oír y recibir notificaciones, el ubicado en cualquier parte del Estado de Tamaulipas.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II. El domicilio para oír y recibir notificaciones dentro de la sede del Tribunal, señalando el nombre oficial de la calle, las calles entre las que se ubica el domicilio, la numeración oficial que le corresponda, la Zona, Colonia o Fraccionamiento, así como el código postal, de conformidad con las asignaciones del Servicio Postal Mexicano.
 
 El domicilio de las autoridades será el de su residencia oficial;
 
@@ -395,13 +401,19 @@ En los casos en que sean dos o más demandantes, éstos ejercerán su opción a 
 
 En la demanda en que promuevan dos o más personas en contravención de lo dispuesto en el párrafo anterior, el Magistrado requerirá a los promoventes para que en el plazo de cinco días presenten cada uno de ellos su demanda correspondiente, apercibidos que de no hacerlo, se desechará la demanda inicial.
 
-Cuando se omita el nombre del demandante o los datos precisados en las fracciones II, III y VIII, el Magistrado desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones IV, V, VI, VII, IX, X y XI, el Magistrado requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo, se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Cuando se omita el nombre del demandante o los datos precisados en las fracciones II, III y VIII, el Magistrado desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones IV, V, VI, VII, IX y X, el Magistrado requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo, se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
 
 Si la demanda fuera obscura o irregular y habiéndose prevenido al actor para subsanarla, y éste no lo hiciere en el plazo de cinco días, contados a partir del día siguiente en que surta efectos la notificación el Magistrado la desechará. En este caso, el Magistrado al desechar la demanda deberá precisar los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda con la que se haya formado el expediente respectivo.
 
 Si en el lugar señalado por el actor como domicilio del tercero, se negare que sea éste, el demandante deberá proporcionar al Tribunal la información suficiente para proceder a su primera búsqueda, siguiendo al efecto las reglas previstas en el Código de Procedimientos Civiles del Estado de Tamaulipas.
 
 Cuando no se señale dirección de correo electrónico, no se enviará el aviso electrónico que corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Cuando el domicilio señalado de la persona a notificar no se encuentre en el mismo lugar en que resida el órgano jurisdiccional, se requerirá en el primer Acuerdo, para que señale domicilio en el lugar del juicio, con apercibimiento que de no hacerlo o de resultar no localizable, las siguientes notificaciones, aún las personales, se practicarán por lista.
 
 ###### Artículo 23.
 
@@ -461,7 +473,9 @@ V. Cuando la autoridad demandada plantee el sobreseimiento del juicio por extemp
 
 En el escrito de ampliación de demanda se deberá señalar el nombre del actor y el juicio en que se actúa, debiendo adjuntar, con las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten.
 
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será aplicable en lo conducente, lo dispuesto en el tercer párrafo del artículo 21 de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será aplicable en lo conducente, lo dispuesto en el tercer párrafo del artículo 23 de esta Ley.
 
 Si no se adjuntan las copias a que se refiere este artículo, el Magistrado requerirá al promovente para que las presente dentro del plazo de cinco días. Si el promovente no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las fracciones VII, VIII y IX del artículo 23 de esta Ley, las mismas se tendrán por no ofrecidas.
 
@@ -499,9 +513,21 @@ IV. Se referirá concretamente a cada uno de los hechos que el demandante le imp
 
 V. Los argumentos por medio de los cuales se demuestra la ineficacia de los conceptos de impugnación;
 
-VI. Los argumentos por medio de los cuales desvirtúe el derecho a indemnización que solicite la actora; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-VII. Las pruebas que ofrezca.
+VI. Los argumentos por medio de los cuales desvirtúe el derecho a indemnización que solicite la actora;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VII. Las pruebas que ofrezca; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VIII. El domicilio para oír y recibir notificaciones dentro de la sede del Tribunal, señalando el nombre oficial de la calle, las calles entre las que se ubica el domicilio, la numeración oficial que le corresponda, la Zona, Colonia o Fraccionamiento, así como el código postal, de conformidad con las asignaciones del Servicio Postal Mexicano.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Cuando el domicilio señalado de la persona a notificar no se encuentre en el mismo lugar en que resida el órgano jurisdiccional, se requerirá para que señale domicilio en el lugar del juicio, con apercibimiento que de no hacerlo o de resultar no localizable, las siguientes notificaciones, aún las personales, se practicarán por lista.
 
 Tratándose de pruebas documentales, se deberá precisar el expediente administrativo en donde conste la información con la que demostrará los hechos que pretende probar.
 
@@ -877,31 +903,39 @@ Cuando por el enlace lógico de las pruebas rendidas y de las presunciones forma
 
 ### CAPÍTULO VI. Del Cierre de Instrucción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 60.
 
-El Magistrado, cinco días después de que haya concluido la sustanciación del juicio y/o no existiere ninguna cuestión pendiente que impida su resolución, notificará a las partes que tienen un término de cinco días para formular alegatos de lo bien probado por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia; dichos alegatos no pueden ampliar la litis fijada en los acuerdos de admisión a la demanda o de admisión a la ampliación a la demanda, en su caso.
+El Magistrado, cinco días después de que haya concluido la sustanciación del juicio y/o no existiere ninguna cuestión pendiente que impida su resolución, notificará a las partes que tienen un término de cinco días para formular alegatos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia; dichos alegatos no pueden ampliar la litis fijada en los acuerdos de admisión a la demanda o de admisión a la ampliación a la demanda, en su caso.
 
 Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con alegatos o sin ellos, quedará cerrada la instrucción del juicio, sin necesidad de una declaratoria expresa, y a partir del día siguiente empezarán a computarse los plazos previstos en el artículo 61 de esta Ley.
 
 ### CAPÍTULO VII. De la Sentencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 61.
 
-La sentencia se pronunciará por unanimidad o mayoría de votos de los Magistrados integrantes del Pleno, dentro de los cuarenta y cinco días siguientes a aquél en que haya quedado cerrada la instrucción en el juicio. Para este efecto, el Magistrado formulará el proyecto respectivo dentro de los treinta días del plazo señalado. El Secretario General de Acuerdos lo deberá enlistar para su discusión y aprobación en la sesión que corresponda del Pleno. La publicación del proyecto en lista producirá el efecto de citación para sentencia.
+La sentencia se pronunciará por el Magistrado de Sala Unitaria, dentro de los cuarenta y cinco días siguientes a aquél en que haya quedado cerrada la instrucción en el juicio, haciendo del conocimiento de las partes, el acuerdo respectivo. La emisión del cierre de instrucción, producirá el efecto de citación para sentencia.
 
-El Magistrado, que tendrá el carácter de ponente, podrá retirar el proyecto antes de las deliberaciones. Si en la sesión correspondiente no se llega a un consenso, la discusión se aplazará para su continuación en la sesión posterior inmediata. Ningún proyecto podrá ser aplazado por más de dos veces sin decisión del Pleno.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-De no lograrse la unanimidad o de no aceptar el Magistrado ponente, las opiniones de la mayoría, el proyecto pasará al Magistrado que le siga en número para que formule un nuevo proyecto adoptando la postura mayoritaria. El plazo para que el Magistrado ponente del Pleno formule su proyecto, empezará a correr a partir de que tenga en su poder el expediente integrado. En todo caso, el Magistrado disidente deberá formular su voto particular razonado, el que deberá presentar en un plazo que no exceda de diez días.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 El engrose de la sentencia no deberá pasar del plazo de cinco días.
 
-Cuando el Magistrado no presente el proyecto dentro del plazo de los treinta días, o cuando no se haga el engrose correspondiente en un término no mayor de cuarenta y cinco días hábiles, contados a partir de la fecha de cierre de instrucción, las partes podrán interponer excitativa de justicia ante el Presidente del Tribunal, el que tendrá por efecto requerir al Magistrado, que presente el proyecto de inmediato o que se proceda al engrose, en los términos dispuestos en los artículos 68 y 69 de la presente Ley.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Cuando el Magistrado no emita la sentencia correspondiente, en un término no mayor de cuarenta y cinco días hábiles, contados a partir de la fecha de cierre de instrucción, las partes podrán interponer excitativa de justicia ante el Presidente del Tribunal, el que tendrá por efecto requerir al Magistrado, que emita la sentencia correspondiente, en los términos dispuestos en los artículos 68 y 69 de la presente Ley.
 
 Para dictar resolución en los casos de sobreseimiento, por alguna de las causas previstas en el artículo 15 de esta Ley, no será necesario que se hubiese cerrado la instrucción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 62.
 
-Las sentencias del Tribunal se fundarán en derecho y resolverán sobre la pretensión del actor que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios.
+Las sentencias de la Sala, se fundarán en derecho y resolverán sobre la pretensión del actor que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios.
 
 Cuando se hagan valer diversas causales de ilegalidad, la sentencia de la Sala Unitaria deberá examinar primero aquéllos que puedan llevar a declarar la nulidad lisa y llana. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las leyes, o por vicios de procedimiento, la misma deberá señalar en qué forma afectaron las defensas del particular y trascendieron al sentido de la resolución.
 
@@ -913,9 +947,11 @@ En el caso de sentencias en que se condene a la autoridad a la restitución de u
 
 Hecha la excepción de lo dispuesto en fracción XIII, apartado B, del Artículo 123 Constitucional, respecto de los Agentes del Ministerio Público, los peritos y los miembros de las Instituciones Policiales estatales y municipales, que hubiesen promovido el juicio o medio de defensa en el que la autoridad jurisdiccional resuelva que la separación, remoción, baja, cese, destitución o cualquier otra forma de terminación del servicio fue injustificada; casos en los que la autoridad demandada sólo estará obligada a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 63.
 
-Las sentencias que dicte el Tribunal con motivo de las demandas que prevé la Ley de Responsabilidad Patrimonial del Estado de Tamaulipas y sus Municipios, deberán contener como elementos mínimos los siguientes:
+Las sentencias que dicte la Sala Unitaria, con motivo de las demandas que prevé la Ley de Responsabilidad Patrimonial del Estado de Tamaulipas y sus Municipios, deberán contener como elementos mínimos los siguientes:
 
 I. El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión producida y la valoración del daño o perjuicio causado;
 
@@ -951,9 +987,13 @@ e) Cuando no se dé a conocer al contribuyente visitado el resultado de una comp
 
 f) Cuando no se valore alguna prueba para acreditar los hechos asentados en el oficio de observaciones o en la última acta parcial, siempre que dicha prueba no sea idónea para dichos efectos.
 
-El Tribunal podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada o para ordenar o tramitar el procedimiento del que derive y la ausencia total de fundamentación o motivación en dicha resolución.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-Cuando resulte fundada la incompetencia de la autoridad y además existan agravios encaminados a controvertir el fondo del asunto, el Tribunal deberá analizarlos y si alguno de ellos resulta fundado, con base en el principio de mayor beneficio, procederá a resolver el fondo de la cuestión efectivamente planteada por el actor.
+La Sala, podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada o para ordenar o tramitar el procedimiento del que derive y la ausencia total de fundamentación o motivación en dicha resolución.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Cuando resulte fundada la incompetencia de la autoridad y además existan agravios encaminados a controvertir el fondo del asunto, la Sala Unitaria, deberá analizarlos y si alguno de ellos resulta fundado, con base en el principio de mayor beneficio, procederá a resolver el fondo de la cuestión efectivamente planteada por el actor.
 
 ###### Artículo 65.
 
@@ -1005,19 +1045,25 @@ III. Sea consentida expresamente por las partes o sus representantes legítimos.
 
 A partir de que quede firme una sentencia y cause ejecutoria, correrán los plazos para el cumplimiento de las sentencias, previsto en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 67.
 
-La parte que estime contradictoria, ambigua u obscura una sentencia definitiva del Tribunal, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquél en que surta efectos su notificación.
+La parte que estime contradictoria, ambigua u obscura una sentencia definitiva, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquél en que surta efectos su notificación.
 
-La instancia deberá señalar la parte de la sentencia cuya aclaración se solicita e interponerse ante la Sala Unitaria que dictó la sentencia, la que deberá resolver el Pleno en un plazo de cinco días siguientes a la fecha en que fue interpuesto, sin que pueda variar la sustancia de la sentencia. La aclaración no admite recurso alguno y se reputará parte de la sentencia recurrida y su interposición interrumpe el término para su impugnación.
+La instancia deberá señalar la parte de la sentencia cuya aclaración se solicita e interponerse ante la Sala Unitaria que dictó la sentencia, la que deberá resolver en un plazo de cinco días siguientes a la fecha en que fue interpuesto, sin que pueda variar la sustancia de la sentencia. La aclaración no admite recurso alguno y se reputará parte de la sentencia recurrida y su interposición interrumpe el término para su impugnación.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 68.
 
-Las partes podrán formular excitativa de justicia ante el Presidente del Tribunal, si el magistrado responsable no formula el proyecto respectivo dentro del plazo señalado en esta Ley.
+Las partes podrán formular excitativa de justicia ante el Presidente del Tribunal, si el magistrado responsable no emite sentencia dentro del plazo señalado en esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 69.
 
-Recibida la excitativa de justicia, el Presidente del Tribunal solicitará informe al magistrado responsable que corresponda, quien deberá rendirlo en el plazo de cinco días. El Presidente dará cuenta al Pleno y si éste encuentra fundada la excitativa, otorgará un plazo que no excederá de quince días para que el magistrado formule el proyecto respectivo. Si el mismo no cumpliere con dicha obligación, será sustituido en los términos de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Tamaulipas.
+Recibida la excitativa de justicia, el Presidente del Tribunal solicitará informe al magistrado responsable que corresponda, quien deberá rendirlo en el plazo de cinco días. El Presidente dará cuenta al Pleno y si éste encuentra fundada la excitativa, otorgará un plazo que no excederá de quince días para que el magistrado emita la sentencia respectiva. Si el mismo no cumpliere con dicha obligación, será sustituido en los términos de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Tamaulipas.
 
 ### CAPÍTULO VIII. Del Cumplimiento de la Sentencia y de la Suspensión
 
@@ -1049,29 +1095,43 @@ II. En los casos de condena, la sentencia deberá precisar la forma y los plazos
 
 Cuando se interponga el juicio de amparo o el recurso de revisión, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 71.
 
-A fin de asegurar el pleno cumplimiento de las resoluciones del Tribunal a que este precepto se refiere, una vez vencido el plazo previsto por el artículo 65 de esta Ley, éste podrá actuar de oficio o a petición de parte, conforme a lo siguiente:
+A fin de asegurar el pleno cumplimiento de las resoluciones del Tribunal a que este precepto se refiere, una vez vencido el plazo previsto por el artículo 65 de esta Ley, la Sala Unitaria podrá actuar de oficio o a petición de parte, conforme a lo siguiente:
 
-I. El Pleno podrá de oficio, por conducto de su Presidente, en su caso, requerir a la autoridad demandada que informe dentro de los tres días siguientes, respecto al cumplimiento de la sentencia. Se exceptúan de lo dispuesto en este párrafo, las sentencias que hubieran señalado efectos, cuando la resolución impugnada derive de un procedimiento oficioso.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2018)</small>
 
-Concluido el término anterior con informe o sin él, el Pleno, decidirá si hubo incumplimiento injustificado de la sentencia, en cuyo caso procederá como sigue:
+I. El Magistrado de Sala podrá de oficio, en su caso, requerir a la autoridad demandada que informe dentro de los tres días siguientes, respecto al cumplimiento de la sentencia. Se exceptúan de lo dispuesto en este párrafo, las sentencias que hubieran señalado efectos, cuando la resolución impugnada derive de un procedimiento oficioso. Se exceptúan de lo dispuesto en este párrafo, las sentencias que hubieran señalado efectos, cuando la resolución impugnada derive de un procedimiento oficioso (sic).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Concluido el término anterior con informe o sin él, decidirá si hubo incumplimiento injustificado de la sentencia, en cuyo caso procederá como sigue:
 
 a) Impondrá a la autoridad demandada responsable, una multa de apremio que se fijará entre trescientas y mil veces el valor diario de la Unidad de Medida y Actualización, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiere ocasionado, requiriéndola a cumplir con la sentencia en el término de tres días y previniéndole, además, de que en caso de renuencia, se le impondrán nuevas multas de apremio en los términos de este inciso, lo que se informará al superior jerárquico de la autoridad demandada;
 
-b) Si al concluir el plazo mencionado en el inciso anterior, persistiere la renuencia de la autoridad demandada a cumplir con lo sentenciado, el Pleno podrá requerir al superior jerárquico de aquélla para que en el plazo de tres días, la obligue a cumplir sin demora.
+(REFORMADO [N. DE E. CON SUS NUMERALES ANTES INCISO C)], P.O. 30 DE OCTUBRE DE 2018)
 
-De persistir el incumplimiento, el Pleno podrá decretar la destitución de la autoridad que deba llevar a cabo el cumplimiento de la sentencia, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas;
+b) Si al concluir el plazo mencionado en el inciso anterior, persistiere la renuencia de la autoridad demandada a cumplir con lo sentenciado, podrá requerir al superior jerárquico de aquélla para que en el plazo de tres días, la obligue a cumplir sin demora.
 
-c) Cuando la naturaleza del acto lo permita, el Pleno podrá comisionar al funcionario jurisdiccional que, por la índole de sus funciones estime más adecuado, para que dé cumplimiento a la sentencia;
+De persistir el incumplimiento, dará cuenta al Pleno, quien podrá tomar las siguientes medidas:
 
-Ante el incumplimiento de la sentencia por parte de las autoridades administrativas obligadas a ello, el Pleno dará vista al Ministerio Público de los hechos acontecidos, para los efectos legales a que haya lugar.
+1. Decretar la destitución de la autoridad que deba llevar a cabo el cumplimiento de la sentencia, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas;
+
+2. Cuando la naturaleza del acto lo permita, el Pleno podrá comisionar al funcionario jurisdiccional que, por la índole de sus funciones estime más adecuado, para que dé cumplimiento a la sentencia;
+
+3. Ante el incumplimiento de la sentencia por parte de las autoridades administrativas obligadas a ello, el Pleno dará vista al Ministerio Público de los hechos acontecidos, para los efectos legales a que haya lugar.
 
 Lo dispuesto en esta fracción también será aplicable cuando no se cumplimente en los términos ordenados la suspensión que se decrete, respecto del acto impugnado en el juicio o en relación con la garantía que deba ser admitida; y
 
-d) Transcurridos los plazos señalados en los incisos anteriores, el Pleno pondrá en conocimiento de la contraloría interna correspondiente los hechos, a fin de que ésta determine la responsabilidad del funcionario responsable del incumplimiento;
+(REFORMADO [N. DE E. REUBICADO ANTES INCISO D)], P.O. 30 DE OCTUBRE DE 2018)
 
-II. A petición de parte, el afectado podrá ocurrir en queja ante el Pleno que la dictó, de acuerdo con las reglas siguientes:
+c) Transcurridos los plazos señalados en los incisos anteriores, el Pleno pondrá en conocimiento de la contraloría interna correspondiente los hechos, a fin de que ésta determine la responsabilidad del funcionario responsable del incumplimiento;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II. A petición de parte, el afectado podrá ocurrir en queja ante el Magistrado que la dictó, de acuerdo con las reglas siguientes:
 
 a) Procederá en contra de los siguientes actos:
 
@@ -1085,39 +1145,65 @@ a) Procederá en contra de los siguientes actos:
 
 La queja sólo podrá hacerse valer por una sola vez, con excepción de los supuestos contemplados en el subinciso 3, caso en el que se podrá interponer en contra de las resoluciones dictadas en cumplimiento a esta instancia;
 
-b) Se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de una copia para la autoridad responsable, se presentará ante el Pleno que dictó la sentencia, dentro de los cinco días siguientes a aquél en que surtió efectos la notificación del acto, resolución o manifestación que la provoca o tenga conocimiento del acto u omisión de que se duele. En el supuesto previsto en el inciso anterior, subinciso 3, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2018)</small>
+
+b) Se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de una copia para la autoridad responsable, se presentará ante el Magistrado que dictó la sentencia, dentro de los cinco días siguientes a aquél en que surtió efectos la notificación del acto, resolución o manifestación que la provoca o tenga conocimiento del acto u omisión de que se duele. En el supuesto previsto en el inciso anterior, subinciso 3, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
 
 En dicho escrito se expresarán las razones por las que se considera que hubo exceso o defecto; repetición del acto impugnado o del efecto de éste; que precluyó la oportunidad de la autoridad demandada para emitir la resolución definitiva con la que concluya el procedimiento ordenado; o bien, que procede el cumplimiento sustituto.
 
-El Presidente del Tribunal, en su caso, ordenará a la autoridad a quien se impute el incumplimiento, que rinda informe dentro del plazo de tres días en el que justificará el acto que provocó la queja. Vencido el plazo mencionado, con informe o sin él, se dará cuenta al Pleno, quien resolverá dentro de los cinco días siguientes. Interpuesto el recurso y a solicitud de parte, el Presidente del Tribunal mandará suspender la ejecución hasta en tanto se dicte resolución;
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-c) En caso de repetición de la resolución anulada, el Pleno hará la declaratoria correspondiente, anulando la misma y la notificará a la autoridad responsable, previniéndole de no reincidir.
+El Magistrado, en su caso, ordenará a la autoridad a quien se impute el incumplimiento, que rinda informe dentro del plazo de tres días en el que justificará el acto que provocó la queja.
 
-Además, al resolver la queja, el Pleno impondrá la multa y ordenará se envíe el informe al superior jerárquico, establecidos por la fracción I, inciso a) de este artículo;
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-d) Si el Pleno resuelve que hubo exceso o defecto en el cumplimiento, dejará sin efectos la resolución que provocó la queja y concederá a la autoridad demandada veinte días para que dé el cumplimiento debido al fallo, precisando la forma y términos conforme a los cuales deberá cumplir;
+Vencido el plazo mencionado, con informe o sin él, resolverá dentro de los cinco días siguientes. Interpuesto el recurso y a solicitud de parte, el Magistrado mandará suspender la ejecución hasta en tanto se dicte resolución;
 
-e) Si el Pleno comprueba que la resolución a que se refiere el inciso a), subinciso 2 de esta fracción, se emitió después de concluido el plazo legal, anulará ésta, declarando la preclusión de la oportunidad de la autoridad demandada para dictarla y ordenará se comunique esta circunstancia al superior jerárquico de ésta;
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-f) En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, el Pleno declarará procedente el cumplimiento sustituto y ordenará instruir el incidente respectivo, aplicando para ello, en forma supletoria, el Código de Procedimientos Civiles del Estado de Tamaulipas; y
+c) En caso de repetición de la resolución anulada, el Magistrado hará la declaratoria correspondiente, anulando la misma y la notificará a la autoridad responsable, previniéndole de no reincidir.
+
+Además, al resolver la queja, el Magistrado impondrá la multa y ordenará se envíe el informe al superior jerárquico, establecidos por la fracción I, inciso a) de este artículo;
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+d) Si el Magistrado resuelve que hubo exceso o defecto en el cumplimiento, dejará sin efectos la resolución que provocó la queja y concederá a la autoridad demandada veinte días para que dé el cumplimiento debido al fallo, precisando la forma y términos conforme a los cuales deberá cumplir, apercibiendo que de no dar cabal cumplimiento, dará cuenta al Pleno, para que proceda conforme al procedimiento establecido en la fracción I, inciso a) y en su caso, inciso b) de este artículo;
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+e) Si el Magistrado comprueba que la resolución a que se refiere el inciso a), subinciso 2 de esta fracción, se emitió después de concluido el plazo legal, anulará ésta, declarando la preclusión de la oportunidad de la autoridad demandada para dictarla y ordenará se comunique esta circunstancia al superior jerárquico de ésta;
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+f) En el supuesto comprobado y justificado de imposibilidad de cumplir con la sentencia, el Magistrado declarará procedente el cumplimiento sustituto y ordenará instruir el incidente respectivo, aplicando para ello, en forma supletoria, el Código de Procedimientos Civiles del Estado de Tamaulipas; y
 
 g) Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución que en su caso existiere.
 
-III. Tratándose del incumplimiento de la resolución que conceda la suspensión de la ejecución del acto impugnado o alguna otra de las medidas cautelares previstas en esta Ley, procederá la queja mediante escrito interpuesto en cualquier momento hasta antes de que se dicte sentencia definitiva por parte del Pleno.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III. Tratándose del incumplimiento de la resolución que conceda la suspensión de la ejecución del acto impugnado o alguna otra de las medidas cautelares previstas en esta Ley, procederá la queja mediante escrito interpuesto en cualquier momento hasta antes de que se dicte sentencia definitiva.
 
 En el escrito en que se interponga la queja se expresarán los hechos por los que se considera que se ha dado el incumplimiento y en su caso, se acompañarán los documentos en que consten las actuaciones de la autoridad que pretenda vulnerar la suspensión o la medida cautelar otorgada.
 
-El Presidente del Tribunal pedirá un informe a quien se impute el incumplimiento, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el Presidente del Tribunal dará cuenta al Pleno, quien resolverá en un plazo máximo de cinco días.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-Si el Pleno resuelve que hubo incumplimiento, declarará la nulidad de las actuaciones realizadas en violación a la suspensión o de otra medida cautelar otorgada.
+El Magistrado requerirá un informe a quien se impute el incumplimiento, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el Magistrado, resolverá en un plazo máximo de cinco días.
 
-La resolución a que se refiere esta fracción se notificará también al superior jerárquico del servidor público responsable, entendiéndose por este último, al que incumpla con lo resuelto, para que proceda jerárquicamente y el impondrá al responsable o autoridad renuente, una multa equivalente entre treinta y sesenta días de su salario, tomando en cuenta la gravedad del incumplimiento, el sueldo del servidor público de que se trate y su nivel jerárquico.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Si el Magistrado resuelve que hubo incumplimiento, declarará la nulidad de las actuaciones realizadas en violación a la suspensión o de otra medida cautelar otorgada.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+La resolución a que se refiere esta fracción se notificará también al superior jerárquico del servidor público responsable, entendiéndose por este último, al que incumpla con lo resuelto, para que proceda jerárquicamente y le impondrá al responsable o autoridad renuente, una multa equivalente entre treinta y sesenta días de su salario, tomando en cuenta la gravedad del incumplimiento, el sueldo del servidor público de que se trate y su nivel jerárquico.
 
 También se tomará en cuenta para imponer la sanción, las consecuencias que el no acatamiento de la resolución hubiera ocasionado, cuando el afectado lo señale, caso en que el solicitante tendrá derecho a una indemnización por daños y perjuicios, la que, en su caso, correrá a cargo de la unidad administrativa en la que preste sus servicios el servidor público de que se trate, en los términos en que se resuelva la queja; y
 
 IV. A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa en monto equivalente entre doscientas cincuenta y seiscientas veces el valor diario de la Unidad de Medida y Actualización y, en caso de haberse suspendido la ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva se imponga.
 
-Existiendo resolución administrativa definitiva, si el Pleno considera que la queja es improcedente, porque se plantean cuestiones novedosas que no fueron materia de la sentencia, prevendrán al promovente para que presente su demanda dentro de los treinta días siguientes a aquél en que surta efectos la notificación del auto respectivo, reuniendo los requisitos legales, en la vía correspondiente, ante la misma Sala que conoció del primer juicio. No deberá ordenarse el trámite de un juicio nuevo si la queja es improcedente por la falta de un requisito procesal para su interposición.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Existiendo resolución administrativa definitiva, si el Magistrado considera que la queja es improcedente, porque se plantean cuestiones novedosas que no fueron materia de la sentencia, prevendrán al promovente para que presente su demanda dentro de los treinta días siguientes a aquél en que surta efectos la notificación del auto respectivo, reuniendo los requisitos legales, en la vía correspondiente, ante la misma Sala. No deberá ordenarse el trámite de un juicio nuevo si la queja es improcedente por la falta de un requisito procesal para su interposición.
 
 ### CAPÍTULO IX. Del Juicio en Línea
 
@@ -1273,9 +1359,17 @@ El Pleno podrá modificar o revocar su resolución cuando ocurra un hecho superv
 
 ### CAPÍTULO II. De la Revisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 95.
 
-Las sentencias definitivas que emita el Pleno del Tribunal de Justicia Administrativa del Estado de Tamaulipas, podrán ser impugnadas por la autoridad a través de la unidad administrativa encargada de su defensa jurídica, interponiendo el recurso de revisión ante el Pleno del Tribunal de Justicia Administrativa del Estado dentro del plazo de quince días siguientes a aquel en que surta sus efectos la notificación respectiva, siempre que se refiera a los siguientes supuestos:
+Las sentencias definitivas que emitan las Salas Unitarias, podrán ser impugnadas, por los particulares; y por la autoridad a través de la unidad administrativa encargada de su defensa jurídica, interponiendo en ambos casos, el recurso de revisión ante el Pleno del Tribunal de Justicia Administrativa del
+
+Estado dentro del plazo de quince días siguientes a aquel en que surta sus efectos la notificación respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Tratándose de autoridades, podrán interponer el recurso de revisión siempre que se refiera a los siguientes supuestos:
 
 I. Sea una resolución dictada por la Secretaría de Finanzas, o por autoridades fiscales del Estado y siempre que el asunto se refiera a:
 
@@ -1297,19 +1391,37 @@ III. Sea una resolución en materia de aportaciones de seguridad social, cuando 
 
 IV. Sea una resolución en la cual, se declare el derecho a la indemnización, o se condene a la Secretaría de Finanzas, en los términos del artículo 8 de esta Ley;
 
-V. Sea una resolución sobre condenación en costas o indemnización, previstas en el artículo 8 de la esta Ley;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+V. Sea una resolución sobre condenación en costas o indemnización, prevista en el artículo 8 de esta Ley;
 
 VI. Sea una resolución dictada con motivo de las reclamaciones previstas en la Ley de Responsabilidad Patrimonial del Estado de Tamaulipas y sus Municipios; y
 
 VII. Que en la sentencia se haya declarado la nulidad, con motivo de la inaplicación de una norma general, en ejercicio del control difuso de la constitucionalidad y de la convencionalidad realizado por el Pleno del Tribunal.
 
-El recurso de revisión se interpondrá por escrito ante el Pleno del Tribunal de Justicia Administrativa del Estado, dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se recurre.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 En el escrito en que se haga valer el recurso, deberán formularse los agravios que consideren las partes se les hayan causado, exhibiéndose una copia del mismo para el expediente y una para cada una de las partes quienes hubieren intervenido en el juicio contencioso administrativo, a las que se les deberá emplazar para que, dentro del plazo de quince días comparezcan a defender sus derechos. El Pleno resolverá dentro de los quince días siguientes.
 
 ###### Artículo 96.
 
 En todos los casos a que se refiere el artículo anterior, la parte que obtuvo resolución favorable a sus intereses puede adherirse a la revisión interpuesta por el recurrente, dentro del plazo de quince días contados a partir de la fecha en la que se le notifique la admisión del recurso, expresando los agravios correspondientes; en este caso la adhesión al recurso sigue la suerte procesal de éste.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 96 Bis.
+
+Las resoluciones que sean competencia del Pleno, se pronunciarán por unanimidad o mayoría de votos de sus Magistrados integrantes. Para este efecto, el Magistrado a quien haya correspondido la substanciación, formulará el proyecto respectivo dentro de los plazos correspondientes. El Secretario General de Acuerdos lo deberá enlistar para su discusión y aprobación en la sesión que corresponda del Pleno. La publicación del proyecto en lista producirá el efecto de citación para sentencia.
+
+El Magistrado, que tendrá el carácter de ponente, podrá retirar el proyecto antes de las deliberaciones. Si en la sesión correspondiente no se llega a un consenso, la discusión se aplazará para su continuación en la sesión posterior inmediata. Ningún proyecto podrá ser aplazado por más de dos veces sin decisión del Pleno.
+
+De no lograrse la unanimidad o de no aceptar el Magistrado ponente, las opiniones de la mayoría, el proyecto pasará al Magistrado que le siga en número para que formule un nuevo proyecto adoptando la postura mayoritaria. El plazo para que el Magistrado ponente del Pleno formule su proyecto, empezará a correr a partir de que tenga en su poder el expediente integrado. En todo caso, el Magistrado disidente deberá formular su voto particular razonado, el que deberá presentar en un plazo que no exceda de diez días.
+
+En su resolución, el Pleno también podrá indicar los términos conforme a los cuales deberá dictar su sentencia la Sala correspondiente.
+
+El engrose de la resolución no deberá pasar del plazo de cinco días.
+
+Para dictar resolución en los casos de sobreseimiento, por alguna de las causas previstas en esta Ley, no será necesario que se hubiese cerrado la instrucción.
 
 ## TÍTULO IV. Disposiciones Finales
 
@@ -1341,7 +1453,9 @@ I. La que tenga por admitida la contestación y, en su caso, de la ampliación d
 
 II. El requerimiento, a la parte que debe cumplirlo;
 
-III. El auto de la Sala que dé a conocer a las partes que el juicio será resuelto por el Pleno;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III. El auto de la Sala que dé a conocer a las partes que ha quedado cerrada la instrucción;
 
 IV. El auto que decrete o niegue la suspensión provisional y la sentencia que resuelva la definitiva;
 
@@ -1365,7 +1479,29 @@ Si el domicilio de la oficina principal de la autoridad se encuentra en el lugar
 
 Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueren hechas. En los casos de notificaciones por lista se tendrá como fecha de notificación la del día en que se hubiese fijado.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 102.
+
+Las notificaciones personales, se harán de acuerdo con las siguientes reglas:
+
+I. Cuando obre en autos el domicilio de la persona, o se encuentre señalado uno para recibir notificaciones ubicado en el municipio que comprende la Sede del Tribunal:
+
+a) El actuario buscará a la persona que deba ser notificada, se cerciorará de su identidad, le hará saber el órgano jurisdiccional que ordena la notificación y el número de expediente y le entregará copia autorizada de la resolución que se notifica y, en su caso, de los documentos a que se refiera dicha resolución. Si la persona se niega a recibir o a firmar la notificación, la negativa se asentará en autos y aquélla se tendrá por hecha;
+
+b) Si no se encuentra a la persona que deba ser notificada, el actuario se cerciorará de que es el domicilio y le dejará citatorio para que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse, especificándose el mismo y el número del expediente. El citatorio se dejará con la persona que se encuentre en el domicilio; si la persona por notificar no acude a la cita, la notificación se hará por lista; y por lista en una página electrónica; y
+
+c) Si el actuario encuentra el domicilio cerrado y ninguna persona acude a su llamado, se cerciorará de que es el domicilio correcto, lo hará constar y fijará aviso en la puerta a fin de que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse. Si no se presenta se notificará por lista, pudiendo el órgano, tomar las medidas necesarias para lograr la notificación personal si lo estima pertinente.
+
+En todos los casos a que se refieren los incisos anteriores, el actuario asentará razón circunstanciada en el expediente;
+
+II. Cuando el domicilio señalado de la persona a notificar no se encuentre en el mismo lugar en que resida el órgano jurisdiccional, se podrá utilizar el Servicio Postal Mexicano para llevar a cabo la formal notificación, a través del servicio de acuse de recibo; y
+
+III. Cuando no conste en autos domicilio para oír notificaciones, o el señalado resulte inexacto o no localizable:
+
+a) Las notificaciones personales a las partes se efectuarán por lista; y
+
+b) Tratándose de la primera notificación al tercero interesado y al particular señalado como autoridad responsable, el órgano jurisdiccional dictará las medidas que estime pertinentes con el propósito de que se investigue su domicilio y podrá requerir a la autoridad demandada para que proporcione el que ante ella se hubiera señalado. Siempre que el acto reclamado emane de un procedimiento administrativo la notificación se hará en el último domicilio señalado para oír notificaciones en el procedimiento de origen.
 
 La notificación personal o por correo certificado con acuse de recibo, también se entenderá legalmente efectuada cuando se lleve a cabo por cualquier medio por el que se pueda comprobar fehacientemente la recepción de los actos que se notifiquen.
 
@@ -1464,3 +1600,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los ocho días del mes de junio del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIII-519 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS, A LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación a lo señalado en el último párrafo del artículo 22 de la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas del presente Decreto, los juicios que se hayan iniciado en el Tribunal de Justicia Administrativa del Estado de Tamaulipas con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
