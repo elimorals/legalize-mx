@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2018-07-12"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2018 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -149,7 +151,9 @@ IX. Equipo: Conjunto de deportistas que se requieren para participar en una comp
 
 X. Estado: El Estado de Tamaulipas;
 
-XI. Instituto: El Instituto Tamaulipeco del Deporte;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XI. Instituto: El Instituto del Deporte de Tamaulipas;
 
 XII. Ley: La Ley de Cultura Física y Deporte para el Estado de Tamaulipas;
 
@@ -177,7 +181,9 @@ Son autoridades en materia de cultura física y deporte en el Estado:
 
 I. El Gobernador del Estado;
 
-II. El Director General del Instituto Tamaulipeco del Deporte;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II. El Director General del Instituto del Deporte de Tamaulipas;
 
 III. Los Ayuntamientos; y
 
@@ -363,9 +369,11 @@ III. Los sectores social y privado; y
 
 IV. Los Consejos Estatales del Deporte Estudiantil.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 16.
 
-El Sistema Estatal del Deporte estará representado por un Consejo, que será presidido por el titular del Instituto Tamaulipeco del Deporte o quien éste designe y cuyos integrantes tendrán carácter honorífico.
+El Sistema Estatal del Deporte estará representado por un Consejo, que será presidido por el titular del Instituto del Deporte de Tamaulipas o quien éste designe y cuyos integrantes tendrán carácter honorífico.
 
 ###### ARTÍCULO 17.
 
@@ -1246,6 +1254,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-450 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4, FRACCIONES XI Y XII; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 63, DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-518 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS; LA LEY DEL FOMENTO Y USO DE LA BICICLETA EN EL ESTADO DE TAMAULIPAS; LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
