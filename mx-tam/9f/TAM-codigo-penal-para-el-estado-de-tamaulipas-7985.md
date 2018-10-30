@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2018-10-23"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "TAM"
 ---
 # CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3503,7 +3501,7 @@ Comete el delito de variación del nombre o del domicilio:
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
-l.- El que oculte su nombre o apellidos y tome otro imaginario o el de otra persona, al declarar ante la autoridad judicial o administrativa en un procedimiento administrativo seguido en forma de juicio;
+I.- El que oculte su nombre o apellidos y tome otro imaginario o el de otra persona, al declarar ante la autoridad judicial o administrativa en un procedimiento administrativo seguido en forma de juicio;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -4187,11 +4185,11 @@ Si las lesiones fueren inferidas en riña, se impondrá al responsable de la ter
 
 Si las lesiones fueren cometidas bajo alguna de las circunstancias previstas en los artículos 341, 342, 343, 344, 345, se estimarán calificadas y al responsable se le impondrá hasta una mitad más de la sanción que le corresponda.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### ARTICULO 327.
 
-Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 368 bis y 368 ter, en este último caso siempre y cuando cohabiten con el ofendido se aumentará la sanción que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia familiar.
+Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 368 bis y 368 quater, en este último caso siempre y cuando cohabiten con el ofendido se aumentará la sanción que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia familiar.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
 
@@ -4463,9 +4461,11 @@ Se impondrán las sanciones de homicidio calificado al que induzca o auxilie al 
 
 ### CAPITULO X. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-ARTICULO 368 BIS.- Comete el delito de violencia familiar, el integrante de una familia que ejerza maltrato físico, psico-emocional o económico en contra de cualquier otro miembro de la familia, independientemente de que produzca o no lesiones en la víctima.
+ARTICULO 368 BIS.- Comete el delito de violencia familiar quien por acción u omisión ejerza cualquier tipo de maltrato físico, psicológico, patrimonial, económico o sexual contra cualquier otro miembro de la familia con el que se encuentre o haya estado unido por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o que mantenga o haya mantenido una relación de hecho dentro o fuera del domicilio familiar.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 26 DE MAYO DE 2015)</small>
 
 Para los efectos de este capítulo, se considera miembro de familia:
 
@@ -4497,17 +4497,39 @@ Cuando se cometa en perjuicio de un menor de doce años, se impondrá al respons
 
 Si el responsable fuere ascendiente o tutor del ofendido, será condenado a la pérdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez.
 
-Este delito se perseguirá, a petición de parte ofendida.
+> <small>(DEROGADO PÁRRAFO SEXTO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 368 TER. El delito a que se refiere el artículo anterior se perseguirá por querella, excepto cuando:
+
+I.- La víctima sea menor de edad, incapaz o no tenga la capacidad de comprender el significado del hecho;
+
+II.- La víctima presente una discapacidad sensorial, física o mental, total o parcial, temporal o permanente;
+
+III.- La víctima sea una mujer en estado de embarazo o durante los tres meses posteriores al parto;
+
+IV.- Se cometa con la participación de dos o más personas;
+
+V.- Se cometa con el uso de armas de fuego o punzocortantes;
+
+VI.- Se deje cicatriz permanente en alguna parte del cuerpo;
+
+VII.- Se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; y
+
+VIII.- Exista imposibilidad material de la víctima de denunciar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTÍCULO 368 QUÁTER.- Se equipara a la violencia familiar y se sancionará con uno a cinco años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con quien tuvo una relación formal o informal de afecto o amistad, incluyendo el ex-cónyuge, ex-concubinario, ex-concubina, o en contra de sus parientes por consanguinidad o afinidad hasta el cuarto grado o cualquiera otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-ARTÍCULO 368 TER.- Se equipará a la violencia familiar y se sancionará con uno a cinco años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con quien tuvo una relación formal o informal de afecto o amistad, incluyendo el ex-cónyuge, ex-concubinario, ex-concubina, o en contra de sus parientes por consanguinidad o afinidad hasta el cuarto grado o cualquiera otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
 
 Asimismo se le sujetará a tratamiento psicológico especializado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-ARTÍCULO 368 QUÁTER.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público o el ofendido solicitará al Juez una orden de protección en un plazo de 24 horas después de la solicitud, previendo las medidas que considere necesarias para hacer cesar cualquier conducta que pudiere resultar ofensiva para la víctima, de conformidad con lo establecido en (sic) Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+ARTÍCULO 368 QUINQUIES.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público o el ofendido solicitará al Juez una orden de protección en un plazo de 24 horas después de la solicitud, previendo las medidas que considere necesarias para hacer cesar cualquier conducta que pudiere resultar ofensiva para la víctima, de conformidad con lo establecido en (sic) Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -4529,7 +4551,7 @@ Al que cometa el delito de parricidio se le impondrá una sanción de treinta a 
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-ARTÍCULO 368 QUINQUIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
+ARTÍCULO 368 SEXIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -4537,7 +4559,7 @@ Se castigará con prisión de uno a cuatro años y multa de diez a ochenta veces
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-ARTÍCULO 368 SEXIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
+ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
 
 ###### ARTICULO 352.
 
@@ -6682,3 +6704,11 @@ La Dirección de Administración de la Procuraduría General de Justicia del Est
 ###### ARTÍCULO DÉCIMO OCTAVO.
 
 Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento, se continuará con la estructura y presupuesto con que cuenta la Fiscalía de Personas No Localizadas o Privadas de su Libertad de la Procuraduría General de Justicia del Estado.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-521 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 327 Y 368 BIS PÁRRAFO PRIMERO; Y SE ADICIONA EL ARTÍCULO 368 TER, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES 368 TER, 368 QUÁTER, 368 QUINQUIES Y 368 SEXIES PARA PASAR A SER 368 QUÁTER, 368 QUINQUIES, 368 SEXIES Y 368 SEPTIES RESPECTIVAMENTE, Y SE DEROGA EL PÁRRAFO SEXTO DEL ARTÍCULO 368 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
