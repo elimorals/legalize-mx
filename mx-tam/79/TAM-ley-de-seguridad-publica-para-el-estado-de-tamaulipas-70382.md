@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2018-10-23"
+last_updated: "2018-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -1673,11 +1673,13 @@ Los integrantes de las dependencias e instituciones de seguridad pública están
 
 ### CAPITULO IV. DEL SERVICIO DE ATENCION AL PUBLICO
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
-
 ###### ARTICULO 81.
 
-1. Las instituciones de seguridad pública establecerán un servicio de comunicación telefónica bajo el indicativo nacional 066, que recibirá los reportes de la comunidad sobre emergencias, faltas, delitos y todo tipo de eventos que pudieran afectar la integridad y los derechos de las personas, así como la tranquilidad, la paz y el orden públicos.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+1. Las instituciones de seguridad pública establecerán un servicio de comunicación telefónica bajo el indicativo nacional 911, que recibirá los reportes de la comunidad sobre emergencias, faltas, delitos y todo tipo de eventos que pudieran afectar la integridad y los derechos de las personas, así como la tranquilidad, la paz y el orden públicos.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
 
 2. Asimismo, instituirán un servicio de denuncia anónima bajo el indicativo telefónico 089, que recibirá datos relativos a la comisión de conductas antisociales y a la identificación de los presuntos responsables, garantizando la confidencialidad de los usuarios o informantes.
 
@@ -2330,3 +2332,11 @@ La Dirección de Administración de la Procuraduría General de Justicia del Est
 ###### ARTÍCULO DÉCIMO OCTAVO.
 
 Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento, se continuará con la estructura y presupuesto con que cuenta la Fiscalía de Personas No Localizadas o Privadas de su Libertad de la Procuraduría General de Justicia del Estado.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-476 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 81 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
