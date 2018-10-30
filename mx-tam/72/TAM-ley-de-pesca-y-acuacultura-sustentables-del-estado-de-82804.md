@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-82804"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2017-08-17"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del estado de Tamaulipas, el jueves 1º, de septiembre de 2011
 
@@ -249,7 +249,7 @@ Para la aplicación de la presente ley, el Estado y los municipios ejercerán su
 
 1. Competen al Estado las siguientes atribuciones:
 
-l. Diseñar, coordinar y ejecutar la política, los instrumentos y los programas estatales para la pesca y la acuacultura, en concordancia con la política nacional de pesca y acuacultura sustentables;
+I. Diseñar, coordinar y ejecutar la política, los instrumentos y los programas estatales para la pesca y la acuacultura, en concordancia con la política nacional de pesca y acuacultura sustentables;
 
 II. Elaborar, ejecutar y evaluar el Programa Estatal de Desarrollo Pesquero y Acuícola, así como los programas e instrumentos que se deriven del mismo, vinculándolos con los programas nacionales, sectoriales y regionales, así como con el Plan Estatal de Desarrollo y los Programas que de él se deriven;
 
@@ -483,9 +483,9 @@ I. Promoverá las gestiones para la construcción de infraestructura propia para
 
 II. Coadyuvará en la vigilancia de las medidas de conservación y protección necesarias;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-III. Participará con las dependencias competentes y en coordinación con el Instituto Tamaulipeco del Deporte, en la realización de torneos de pesca deportivo-recreativa;
+III. Participará con las dependencias competentes y en coordinación con el Instituto del Deporte de Tamaulipas, en la realización de torneos de pesca deportivo recreativa;
 
 IV. Fomentará la práctica de capturar y liberar; y
 
@@ -663,7 +663,7 @@ Cada integrante será responsable en lo individual de que la unidad de manejo ac
 
 1. La Secretaría desarrollará el Sistema Estatal, que tendrá por objeto capturar, actualizar, organizar y difundir la información relativa a las actividades pesquera y acuícola que se realicen en el Estado, con el fin de generar:
 
-l. El anuario estadístico de pesca y acuacultura;
+I. El anuario estadístico de pesca y acuacultura;
 
 II. El Registro Estatal de Pesca y Acuacultura; y
 
@@ -1252,6 +1252,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 17 DE AGOSTO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-197 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS, PARA PROMOVER Y FOMENTAR LA PESCA DEPORTIVO-RECREATIVA COMO ACTIVIDAD ALTERNATIVA DE TURISMO SOCIAL Y SUSTENTABLE, CON EL FIN DE PROPICIAR UN MAYOR DESARROLLO ECONÓMICO EN LAS COMUNIDADES Y ZONAS PESQUERAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-518 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS; LA LEY DEL FOMENTO Y USO DE LA BICICLETA EN EL ESTADO DE TAMAULIPAS; LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
