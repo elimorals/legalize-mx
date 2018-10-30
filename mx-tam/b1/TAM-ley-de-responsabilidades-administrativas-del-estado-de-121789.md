@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-administrativas-del-estado-de-121789"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2017-06-02"
+last_updated: "2018-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
 Ley publicada en el Anexo al Extraordinario Número 10 del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -985,9 +985,11 @@ En caso de que el escrito por el que se interponga el recurso de inconformidad f
 
 En caso de que la Sala del Tribunal substanciadora del recurso tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en el artículo 109 de esta Ley, admitirán dicho recurso y darán vista al presunto infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 107.
 
-Una vez subsanadas las deficiencias o aclaraciones o si no existieren, la Sala substanciadora, lo turnará al Pleno del Tribunal para que éste resuelva el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
+Una vez subsanadas las deficiencias o aclaraciones o si no existieren, la Sala resolverá el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
 
 ###### Artículo 108.
 
@@ -1647,7 +1649,9 @@ V. La resolución, deberá notificarse personalmente al presunto responsable. En
 
 Los Servidores Públicos que resulten responsables por la comisión de faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por la Contraloría o los órganos internos de control, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
 
-Las resoluciones que se dicten en el recurso de revocación serán impugnables ante el Pleno del Tribunal de Justicia Administrativa del Estado.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Las resoluciones que se dicten en el recurso de revocación serán impugnables ante el Tribunal de Justicia Administrativa del Estado.
 
 ###### Artículo 211.
 
@@ -1733,11 +1737,11 @@ Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, perito
 
 #### Sección Cuarta. De la Revisión
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 220.
 
-Las resoluciones definitivas que emita el Tribunal, podrán ser impugnadas por la Contraloría, los órganos internos de control de los entes públicos estatales o la Auditoría Superior del Estado, interponiendo el recurso de revisión, mediante escrito que se presente ante el propio Tribunal, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
-
-Las resoluciones que se dicten en el recurso de revocación serán impugnables ante el Pleno del Tribunal de Justicia Administrativa del Estado.
+Las resoluciones definitivas que emita el Tribunal, podrán ser impugnadas por la Contraloría, los órganos internos de control de los entes públicos estatales o la Auditoría Superior del Estado, interponiendo el recurso de revisión, mediante escrito que se presente ante el Pleno del propio Tribunal, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
 
 ###### Artículo 221.
 
@@ -1814,3 +1818,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, al primer día del mes de junio del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-519 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS, A LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación a lo señalado en el último párrafo del artículo 22 de la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas del presente Decreto, los juicios que se hayan iniciado en el Tribunal de Justicia Administrativa del Estado de Tamaulipas con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
