@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108944"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2018-02-28"
+last_updated: "2018-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 
@@ -475,7 +475,9 @@ Las mismas obligaciones las tendrán los tutores y personas responsables de su c
 
 Niñas, niños y adolescentes privados de su familia, tendrán derecho a la protección y adopción, en el pleno respeto de sus derechos, conforme al principio del interés superior de la niñez.
 
-El Sistema Estatal DIF, deberá otorgar medidas especiales de protección a niñas, niños y adolescentes que hayan sido separados de sus padres o familiares por resolución judicial, atendiendo a la legislación civil, se asegurará que a niñas, niños y adolescentes se les restituya su derecho a vivir en familia, para lo cual determinará la opción más adecuada, de acuerdo a su interés superior, entre las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2018)</small>
+
+El Sistema Estatal DIF, a través de la Procuraduría de Protección a Niñas, Niños, Adolescentes y Familia, deberá otorgar medidas especiales de protección a niñas, niños y adolescentes que hayan sido separados de sus padres o familiares por resolución judicial, atendiendo a la legislación civil, se asegurará que a niñas, niños y adolescentes se les restituya su derecho a vivir en familia, para lo cual determinará la opción más adecuada, de acuerdo a su interés superior, entre las siguientes:
 
 I. Sean ubicados preferentemente con los demás miembros de su familia extensa o ampliada para su cuidado, siempre y cuando no sea contrario a su interés superior;
 
@@ -2100,3 +2102,11 @@ P.O. 28 DE FEBRERO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+P.O. 31 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 474.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES LEGALES DE LA LEY DE ASISTENCIA SOCIAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
