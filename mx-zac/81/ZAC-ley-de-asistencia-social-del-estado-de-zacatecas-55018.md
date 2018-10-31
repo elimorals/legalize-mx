@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-asistencia-social-del-estado-de-zacatecas-55018"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-04"
-last_updated: "2018-08-18"
+last_updated: "2018-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril de 2007.
 
@@ -393,7 +393,9 @@ III. La Dirección General;
 
 IV. El Comisario, y
 
-V. La Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2018)</small>
+
+V. La Procuraduría de Protección a Niñas, Niños, Adolescentes y Familia del Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### Artículo 24.
 
@@ -459,7 +461,9 @@ II. Aprobar los planes de trabajo, presupuestos, informes de actividades y estad
 
 III. Aprobar el Estatuto Orgánico y los manuales de procedimientos y de servicios al público;
 
-IV. Ratificar en su caso, los nombramientos o remociones hechas por el Director General del Organismo, de los Directores, Subdirectores y Procurador de la Defensa del Menor, la Mujer y la Familia;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2018)</small>
+
+IV. Ratificar en su caso, los nombramientos o remociones hechas por el Director General del Organismo, de los Directores, Subdirectores y Procurador de Protección a Niñas, Niños, Adolescentes y Familia del Sistema Estatal para el Desarrollo Integral de la Familia;
 
 V. Conocer y aprobar los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
 
@@ -497,7 +501,9 @@ III. Presentar a la Junta las propuestas, proyectos e informes que requiera para
 
 IV. Presentar al conocimiento y aprobación de la Junta, los planes de labores, presupuesto, informes de actividades y estados financieros anuales del organismo, cuando menos cada seis meses acompañados de los dictámenes y documentos que resulten pertinentes y las recomendaciones que al efecto formule el Comisario;
 
-V. Proponer a la Junta para su ratificación, la designación o remoción de Directores, Subdirectores y Procurador de la Defensa del Menor, la Mujer y la Familia y nombrar y remover libremente a los jefes de departamento y demás personal de confianza, así como designar, suspender y remover con apoyo en la Ley del Servicio Civil del Estado a los empleados de base;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2018)</small>
+
+V. Proponer a la Junta para su ratificación, la designación o remoción de Directores, Subdirectores y Procurador de Protección a Niñas, Niños, Adolescentes y Familia del Sistema Estatal para el Desarrollo Integral de la Familia y nombrar y remover libremente a los jefes de departamento y demás personal de confianza, así como designar, suspender y remover con apoyo en la Ley del Servicio Civil del Estado a los empleados de base;
 
 VI. Expedir o autorizar los nombramientos del personal y dirigir las relaciones laborales de acuerdo con las disposiciones legales;
 
@@ -549,19 +555,25 @@ II. Tener experiencia profesional en la materia no menor a cinco años, y
 
 III. Tener buena conducta y no haber sido condenado en sentencia ejecutoria por delito intencional.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 34.
 
-Para el cumplimiento de los fines establecidos en las fracciones V, VI, VII y VIII del artículo 15 de esta Ley, existirá una dependencia denominada Procuraduría de la Defensa del Menor, la Mujer y la Familia, la cual será una unidad administrativa dependiente de la Dirección General del Organismo, estará integrada por un Procurador y el personal necesario; se designarán los procuradores auxiliares o municipales en las circunscripciones territoriales que determine la Junta.
+Para el cumplimiento de los fines establecidos en las fracciones V, VI, VII y VIII del artículo 15 de esta Ley, existirá una dependencia denominada Procuraduría de Protección a Niñas, Niños, Adolescentes y Familia del Sistema Estatal para el Desarrollo Integral de la Familia, la cual será una unidad administrativa dependiente de la Dirección General del Organismo, estará integrada por un Procurador y el personal necesario; se designarán los procuradores auxiliares o municipales en las circunscripciones territoriales que determine la Junta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 35.
 
-El Procurador o Procuradora de la Defensa del Menor, la Mujer y la Familia y los auxiliares de la unidad serán nombrados y removidos por el Director General del Organismo.
+El Procurador o Procuradora de Protección a Niñas, Niños, Adolescentes y Familia del Sistema Estatal para el Desarrollo Integral de la Familia y los auxiliares de la unidad serán nombrados y removidos por el Director General del Organismo.
 
 El nombramiento y remoción deberá ser ratificada por la Junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 36.
 
-Para ser Procuradora o Procurador de la Defensa del Menor, la Mujer y la Familia, se requiere:
+Para ser Procuradora o Procurador de Protección a Niñas, Niños, Adolescentes y Familia del Sistema Estatal para el Desarrollo Integral de la Familia, se requiere:
 
 I. Ser mexicano por nacimiento en ejercicio de sus derechos y tener veinticinco años cumplidos en la fecha de su designación;
 
@@ -573,9 +585,11 @@ III. Tener buena conducta y no haber sido condenado en sentencia ejecutoria por 
 
 Las relaciones laborales del Organismo con sus trabajadores se regirán por la Ley del Servicio Civil del Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 38.
 
-Son trabajadores de confianza, la Directora o Director General, los Directores, la Procuradora o Procurador de la Defensa del Menor, la Mujer y la Familia y en general todos aquellos funcionarios y empleados que realicen labores de inspección, vigilancia y fiscalización.
+Son trabajadores de confianza, la Directora o Director General, los Directores, la Procuradora o Procurador de Protección a Niñas, Niños, Adolescentes y Familia del Sistema Estatal para el Desarrollo Integral de la Familia y en general todos aquellos funcionarios y empleados que realicen labores de inspección, vigilancia y fiscalización.
 
 ###### Artículo 39.
 
@@ -1456,3 +1470,11 @@ P.O. 18 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 411.- SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS”.]
 
 Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 31 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 474.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES LEGALES DE LA LEY DE ASISTENCIA SOCIAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
