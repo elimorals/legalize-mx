@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-centro-de-atencion-integral-al-75921"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2015-10-30"
+last_updated: "2018-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL CENTRO DE ATENCIÓN INTEGRAL AL MENOR EN DESAMPARO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el miércoles 28 de julio de 2010.
 
@@ -31,7 +31,9 @@ Con fundamento en el artículo 116 IX del Código de la Administración Pública
 
 La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia en Yucatán, con fundamento en lo dispuesto por los artículos 16 fracción X y 27 fracción II de la Ley sobre el Sistema de Asistencia Social de Yucatán, y el numeral XXI del manual de Organización del Sistema para el Desarrollo Integral de la Familia en Yucatán, y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo expuesto y fundado, se emite el siguiente:
 
@@ -45,7 +47,7 @@ REGLAMENTO INTERIOR DEL CENTRO DE ATENCIÓN INTEGRAL AL MENOR EN DESAMPARO
 
 Las disposiciones de este reglamento tienen por objeto establecer:
 
-l. Los derechos y responsabilidades de los niños, niñas y adolescentes albergados en el CAIMEDE;
+I. Los derechos y responsabilidades de los niños, niñas y adolescentes albergados en el CAIMEDE;
 
 II. Los derechos y obligaciones del personal que presta sus servicios en dicha institución;
 
@@ -215,6 +217,10 @@ Las autoridades y el personal del CAIMEDE realizarán acciones para fomentar la 
 
 Los niños, niñas y adolescentes albergados y el personal del CAIMEDE deberán poner en conocimiento de la Dirección y del personal correspondiente, cualquier conducta o irregularidad que implique un incumplimiento de las responsabilidades establecidas, para su posterior acción educativa.
 
+> <small>(ADICIONADO, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+A su vez, el personal el (sic) CAIMEDE, una vez informado respecto a cualquier irregularidad, deberá realizar las investigaciones pertinentes y, en caso de tratarse de un delito, denunciarlo ante las autoridades correspondientes.
+
 ###### Artículo 11.
 
 El niño, niña o adolescente que incumpla con las disposiciones establecidas en este Reglamento, a manera de acción educativa, se hará acreedor a alguna de las siguientes suspensiones:
@@ -263,6 +269,10 @@ II. Las acciones educativas que se apliquen por incumplimiento de las normas de 
 
 III. Ninguna niña, niño o adolescente podrá ser privado del ejercicio de los derechos que les confiere la legislación nacional e internacional vigente. En todo caso, las acciones educativas consistirán en la restricción o suspensión de un reforzador positivo pero nunca en la privación o restricción de un derecho.
 
+> <small>(ADICIONADO, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+En ningún caso se podrán imponer medidas disciplinarias que impliquen castigos físicos, aislamiento ni cualquier otra que atente contra la dignidad humana de las niñas, niños y adolescentes del CAIMEDE o las previstas en el artículo 77.
+
 ###### Artículo 14.
 
 Las acciones educativas que se apliquen a los niños, niñas y adolescentes por incumplimiento de las disposiciones contenidas en este Reglamento tendrán por objeto evitar la violencia entre los niños, niñas y adolescentes y preservar el orden y la seguridad del CAIMEDE, así como inducir a las niñas, niños y adolescentes a cambiar sus comportamientos negativos.
@@ -285,17 +295,21 @@ Para evitar cualquier tipo de alergia o enfermedad, queda prohibido, a los niño
 
 Para evitar cualquier deterioro a la salud de la niña, niño y adolescente, queda prohibido introducir o consumir bebidas embriagantes, cigarros o cualquier sustancia que resulte dañina para la salud de los niños, niñas y adolescentes.
 
+> <small>(REFORMADO, D.O. 31 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 19.
 
-En caso de enfermedad física o mental de alguna niña, niño o adolescente del CAIMEDE, el Titular de la Coordinación Médica y/o el médico en turno vigilará que se le brinde atención médica de manera inmediata y administrar los medicamentos que le sean prescritos, en cantidad y horario señalado, informando previamente al niño, niña o adolescente sobre la medicación que se le administrará, tomando en cuenta su edad, su desarrollo mental, su estado afectivo y psicológico, así como los cuidados necesarios.
+En caso de enfermedad física o mental de alguna niña, niño o adolescente del CAIMEDE, el Titular de la Coordinación Médica o el médico en turno vigilará que se le brinde atención médica de manera inmediata y administrará los medicamentos que le sean prescritos, en cantidad y horario señalado, informando previamente al niño, niña o adolescente sobre la condición que presenta, la medicación que se le administrará y sus posibles efectos secundarios, tomando en cuenta su edad, su desarrollo mental, su estado afectivo y psicológico, así como los cuidados necesarios.
 
 ## TÍTULO III. ASPECTOS ORGANIZATIVOS DEL CENTRO DE ATENCIÓN INTEGRAL AL MENOR EN DESAMPARO
 
 ### CAPÍTULO I. DEL INGRESO EN EL CENTRO DE ATENCIÓN INTEGRAL AL MENOR EN DESAMPARO
 
+> <small>(REFORMADO, D.O. 31 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 20.
 
-El CAIMEDE operará durante todo el año, las veinticuatro horas del día, para albergar varones de entre cero y once años de edad, y niñas y adolescentes del sexo femenino de entre 0 y 17 años de edad, que sean víctimas de violencia, omisión de cuidados o abandono, con el fin de salvaguardar su integridad física y mental.
+El CAIMEDE operará durante todo el año, las veinticuatro horas del día, para albergar varones de entre 0 y menos de 18 años de edad, y niñas y adolescentes del sexo femenino de entre 0 y menos de 18 años de edad, que sean víctimas de violencia, omisión de cuidados o abandono, con el fin de salvaguardar su integridad física y mental.
 
 > <small>(REFORMADO, D.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -313,7 +327,9 @@ Podrán solicitar el ingreso de niñas, niños o adolescentes al CAIMEDE:
 
 I. La Procuraduría;
 
-II. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+II. La Fiscalía General del Estado;
 
 III. La Secretaría de Seguridad Pública; y
 
@@ -343,7 +359,9 @@ VII. Niños Chicos: para niños de seis a ocho años de edad.
 
 VIII. Niñas Medianas: para niñas y adolescentes del sexo femenino de diez a doce años de edad.
 
-IX. Niños Medianos: para niños y adolescentes del sexo masculino, de nueve a once años de edad.
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+IX. Niños Medianos: para niños y adolescentes del sexo masculino, de nueve a doce años de edad.
 
 X. Niñas Grandes 1: para adolescentes del sexo femenino, de trece a quince años de edad.
 
@@ -352,6 +370,14 @@ XI. Niñas Grandes 2: Para adolescentes del sexo femenino, de dieciséis a dieci
 XII. Niñas con Discapacidad: para niñas y adolescentes con discapacidad del sexo femenino que requieran de cuidados especiales.
 
 XIII. Niños con Discapacidad: para niños y adolescentes del sexo masculino con discapacidad que requieran de cuidados especiales.
+
+> <small>(ADICIONADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+XIV. Niños grandes 1: para adolescentes del sexo masculino de trece a quince años de edad.
+
+> <small>(ADICIONADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+XV. Niños grandes 2: para adolescentes del sexo masculino de dieciséis a menos de dieciocho años de edad.
 
 ###### Artículo 25.
 
@@ -377,7 +403,7 @@ VIII. Pasando los diez días, si aún no se le encuentra una red familiar, el ni
 
 Los criterios para la ubicación de las niñas, niños y adolescentes son los siguientes:
 
-l. Por edad. Atendiendo a la clasificación señalada en artículo 24 de este Reglamento;
+I. Por edad. Atendiendo a la clasificación señalada en artículo 24 de este Reglamento;
 
 II. Por padecer alguna enfermedad. En caso de que algún niño, niña o adolescente ingresare con algún padecimiento, se le ubicará temporalmente en una habitación aislada para evitar el contagio a los demás niños, niñas y adolescentes albergados;
 
@@ -497,9 +523,11 @@ Los visitantes están obligados a portar el gafette (sic) de identificación dur
 
 Antes de pasar al área de visita, todo visitante se registrará en el área de Trabajo Social, anotando su nombre, el nombre de la niña, niño o adolescente al que visitará, su parentesco o relación que guarda con el albergado, la hora y fecha de entrada, su dirección y su teléfono.
 
+> <small>(REFORMADO, D.O. 31 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-Queda estrictamente prohibido entregar a los niños, niñas y adolescentes, dinero, alhajas y en general cualquier objeto que le pueda ocasionar daños físicos.
+Queda estrictamente prohibido entregar a los niños, niñas y adolescentes dinero, alhajas, cigarros, bebidas embriagantes, estupefacientes, y en general, cualquier objeto que le pueda ocasionar daños físicos.
 
 ###### Artículo 49.
 
@@ -600,6 +628,10 @@ El "PERSONAL" que por algún motivo necesite salir del CAIMEDE por alguna emerge
 ###### Artículo 71.
 
 No se permitirá a los "TRABAJADORES" organizar reuniones para ingerir alimentos en horas ni en áreas de trabajo, debiendo hacerlo únicamente en las horas y espacio destinado para tal efecto.
+
+> <small>(ADICIONADO, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+En ningún caso se permitirá el uso de tabaco, bebidas embriagantes o estupefacientes por parte de los "TRABAJADORES" del CAIMEDE dentro del horario laboral.
 
 ###### Artículo 72.
 
@@ -707,19 +739,27 @@ XXVI. Las demás que le sean encargadas por el Director General del DIF, en los 
 
 El Director deberá reunir las aptitudes y requisitos siguientes:
 
-I. Ser mexicano por nacimiento y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser mexicano por nacimiento;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+III. No haber sido condenado por delito que amerite pena corporal;
 
 > <small>(REFORMADA, D.O. 30 DE OCTUBRE DE 2015)</small>
 
 IV. Contar con formación en el área de humanidades o sociales;
 
-V. Experiencia en manejo de personal, relaciones humanas, en cargos directivos de administración pública, en materia de derechos humanos y de protección a la infancia, y
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VI. Iniciativa para la toma de decisiones, para resolución de problemas diversos, para innovar y aplicar estrategias eficientes en la consecución de las metas y objetivos institucionales, para buscar e implementar sistemas de evaluación y seguimiento de las problemáticas que se presenten y para establecer relaciones interpersonales.
+V. Tener experiencia en el manejo de personal, relaciones humanas, en cargos directivos de administración pública, en materia de derechos humanos y de protección a la infancia, y
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VI. Contar con iniciativa para la toma de decisiones, para resolución de problemas diversos, para innovar y aplicar estrategias eficientes en la consecución de las metas y objetivos institucionales, para buscar e implementar sistemas de evaluación y seguimiento de las problemáticas que se presenten y para establecer relaciones interpersonales.
 
 ###### Artículo 85.
 
@@ -755,17 +795,25 @@ XIII. Las demás que le encargue la Dirección, en los términos de la legislaci
 
 El Coordinador General deberá reunir las aptitudes y requisitos siguientes:
 
-I. Ser mexicano por nacimiento y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser mexicano por nacimiento;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+III. No haber sido condenado por delito que amerite pena corporal;
 
 IV. Contar con el título de licenciado en área social o administrativa;
 
-V. Conocimientos en manejo de personal y de grupos, acerca de la implementación e innovación en la planeación estratégica, en administración pública y de la legislación vigente en materia de la infancia, y
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VI. Experiencia en relaciones humanas, en cargos directivos de administración y en materia de derechos humanos y protección a la infancia.
+V. Tener conocimientos en manejo de personal y de grupos, acerca de la implementación e innovación en la planeación estratégica, en administración pública y de la legislación vigente en materia de la infancia, y
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VI. Contar con experiencia en relaciones humanas, en cargos directivos de administración y en materia de derechos humanos y protección a la infancia.
 
 ###### Artículo 87.
 
@@ -819,11 +867,15 @@ XXII. Las demás que le encargue la Dirección, en los términos de la legislaci
 
 El jefe del departamento jurídico del CAIMEDE deberá reunir las aptitudes y requisitos siguientes:
 
-l. Ser ciudadano mexicano y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+III. No haber sido condenado por delito que amerite pena corporal;
 
 IV. Contar con el título de abogado o licenciado en derecho, y
 
@@ -833,7 +885,7 @@ V. Tener experiencia en el área de derecho civil.
 
 El jefe del departamento administrativo del CAIMEDE tendrá a su cargo el ejercicio de las siguientes funciones:
 
-l. Administrar los recursos materiales, financieros y humanos que intervienen en la operatividad de la institución;
+I. Administrar los recursos materiales, financieros y humanos que intervienen en la operatividad de la institución;
 
 II. Atender y dar solución a los conflictos administrativos que se presenten;
 
@@ -867,27 +919,39 @@ XV. Las demás que le encargue la Dirección, en los términos de la legislació
 
 El jefe del departamento administrativo del CAIMEDE deberá reunir las aptitudes y requisitos siguientes:
 
-I. Ser ciudadano mexicano y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+III. No haber sido condenado por delito que amerite pena corporal;
 
 IV. Contar con el título de licenciado en área administrativa;
 
-V. Experiencia en manejo de personal y de grupos, implementación e innovación en la planeación estratégica, elaboración de parámetros de evaluación del desempeño del personal y técnicas en detección de necesidades de capacitación del personal a su cargo;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VI. Conocimientos administrativos y manejo de equipo de cómputo;
+V. Tener experiencia en manejo de personal y de grupos, implementación e innovación en la planeación estratégica, elaboración de parámetros de evaluación del desempeño del personal y técnicas en detección de necesidades de capacitación del personal a su cargo;
 
-VII. Experiencia en el desempeño de puestos administrativos o de supervisión, orientado al trabajo por objetivos y logros, acostumbrado a trabajar bajo presión, con calidad humana en el trato al personal, y
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VIII. Iniciativa para resolver los problemas de personal, innovación para la implementación y seguimiento de los planes de trabajo, establecer y diseñar sistemas de control administrativo, distribución de operaciones y tiempos para una mejor organización del personal a su cargo.
+VI. Contar con conocimientos administrativos y manejo de equipo de cómputo;
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VII. Poseer experiencia en el desempeño de puestos administrativos o de supervisión, orientado al trabajo por objetivos y logros, acostumbrado a trabajar bajo presión, con calidad humana en el trato al personal, y
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VIII. Tener iniciativa para resolver los problemas de personal, innovación para la implementación y seguimiento de los planes de trabajo, establecer y diseñar sistemas de control administrativo, distribución de operaciones y tiempos para una mejor organización del personal a su cargo.
 
 ###### Artículo 91.
 
 El jefe del departamento operativo del CAIMEDE tendrá a su cargo el ejercicio de las siguientes funciones:
 
-l. Revisar y actualizar constantemente el inventario general de las áreas de albergues, vigilancia, chofer, lavandería e intendencia del CAIMEDE;
+I. Revisar y actualizar constantemente el inventario general de las áreas de albergues, vigilancia, chofer, lavandería e intendencia del CAIMEDE;
 
 II. Firmar la autorización de salidas de mercancía del personal adscrito a la Jefatura Operativa;
 
@@ -931,21 +995,35 @@ XX. Las demás que le encargue la Dirección, en los términos de la legislació
 
 El jefe de la Jefatura Operativa del CAIMEDE deberá reunir las aptitudes y requisitos siguientes:
 
-l. Ser ciudadano mexicano y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-IV. Experiencia en manejo de personal y de grupos, elaboración de parámetros de evaluación del desempeño del personal y técnicas en detección de necesidades de capacitación del personal a su cargo. Conocimientos administrativos y manejo de equipo de cómputo;
+III. No haber sido condenado por delito que amerite pena corporal;
 
-V. Capacidad de mediación;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VI. Experiencia en el desempeño en puestos operativos o de supervisión, orientado al trabajo por objetivos y logros, acostumbrado a trabajar bajo presión, con calidad humana en el trato al personal;
+IV. Tener experiencia en manejo de personal y de grupos, elaboración de parámetros de evaluación del desempeño del personal y técnicas en detección de necesidades de capacitación del personal a su cargo. Conocimientos administrativos y manejo de equipo de cómputo;
 
-VII. Iniciativa para resolver los problemas de personal, iniciativa e innovación para la implementación y seguimiento de los planes de trabajo, establecer y diseñar sistemas de control administrativo, distribución de operaciones y tiempos para una mejor organización del personal a su cargo. Iniciativa para mantener la operatividad eficiente;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VIII. Estudios mínimos en licenciatura o equivalente, de preferencia con especialidad en administración, en recursos humanos o psicología laboral.
+V. Contar con capacidad de mediación;
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VI. Poseer experiencia en el desempeño en puestos operativos o de supervisión, orientado al trabajo por objetivos y logros, acostumbrado a trabajar bajo presión, con calidad humana en el trato al personal;
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VII. Tener iniciativa para resolver los problemas de personal, iniciativa e innovación para la implementación y seguimiento de los planes de trabajo, establecer y diseñar sistemas de control administrativo, distribución de operaciones y tiempos para una mejor organización del personal a su cargo. Iniciativa para mantener la operatividad eficiente, y
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VIII. Contar con estudios mínimos en licenciatura o equivalente, de preferencia con especialidad en administración, en recursos humanos o psicología laboral.
 
 ###### Artículo 93.
 
@@ -977,15 +1055,21 @@ XI. Las demás que le encargue la Dirección, en los términos de la legislació
 
 El nutriólogo del CAIMEDE deberá reunir las aptitudes y requisitos siguientes:
 
-I. Ser ciudadano mexicano y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+III. No haber sido condenado por delito que amerite pena corporal;
 
 IV. Contar con el título de licenciado en nutrición, y
 
-V. Conocimientos en manejo de alimentos, manejo de mercancía de almacén, evaluación nutricional, manejo de personal, manejo clínico de niños en vigilancia nutricional.
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+V. Tener conocimientos en manejo de alimentos, manejo de mercancía de almacén, evaluación nutricional, manejo de personal, manejo clínico de niños en vigilancia nutricional.
 
 ###### Artículo 95.
 
@@ -1039,17 +1123,27 @@ XXII. Las demás que le encargue la Dirección, en los términos de la legislaci
 
 El coordinador médico del CAIMEDE deberá reunir las aptitudes y requisitos siguientes:
 
-I. Ser ciudadano mexicano y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-IV. Contar con el título de médico;
+III. No haber sido condenado por delito que amerite pena corporal;
 
-V. Conocimientos en medicina pediátrica, salud pública, epidemiología y medicina preventiva, y
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VI. Experiencia en atención de urgencias, emergencias médicas, terapia intensiva, manejo hospitalario y consultas de pacientes.
+IV. Contar con título, cedula o en su caso documento que acredite especialización;
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+V. Tener conocimientos en medicina pediátrica, salud pública, epidemiología y medicina preventiva, y
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VI. Contar con experiencia en atención de urgencias, emergencias médicas, terapia intensiva, manejo hospitalario y consultas de pacientes.
 
 ###### Artículo 97.
 
@@ -1111,19 +1205,29 @@ XV (SIC). Las demás que le encargue la Dirección, en los términos de la legis
 
 El coordinador de psicología deberá reunir las aptitudes y requisitos siguientes:
 
-I. Ser ciudadano mexicano y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+III. No haber sido condenado por delito que amerite pena corporal;
 
 IV. Contar con título de licenciatura en psicología;
 
-V. Conocimientos en desarrollo emocional, cognitivo, sociocultural, conductual, psicosexual, moral, maltrato infantil (en todas sus modalidades), violencia intrafamiliar, abuso sexual infantil y la Convención de los derechos de los Niños, Niñas y Adolescentes;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VI. Experiencia en la elaboración y aplicación de talleres de acuerdo a necesidades detectadas, psicoterapia infantil, orientación a padres de familia y personal, intervención en crisis, y
+V. Tener conocimientos en desarrollo emocional, cognitivo, sociocultural, conductual, psicosexual, moral, maltrato infantil (en todas sus modalidades), violencia intrafamiliar, abuso sexual infantil y la Convención de los derechos de los Niños, Niñas y Adolescentes;
 
-VII. Capacidad para la toma de decisiones.
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VI. Contar con experiencia en la elaboración y aplicación de talleres de acuerdo a necesidades detectadas, psicoterapia infantil, orientación a padres de familia y personal, intervención en crisis, y
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VII. Poseer capacidad para la toma de decisiones.
 
 ###### Artículo 99.
 
@@ -1151,17 +1255,25 @@ IX. Las demás que le encargue la Dirección, en los términos de la legislació
 
 El coordinador dental del CAIMEDE deberá reunir las aptitudes y requisitos siguientes:
 
-I. Ser ciudadano mexicano y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+III. No haber sido condenado por delito que amerite pena corporal;
 
 IV. Contar con el título de licenciado en odontología;
 
-V. Conocimientos en salud odontológica integral;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VI. Experiencia en la creación de programas de salud bucal, y (sic)
+V. Contar con conocimientos en salud odontológica integral, y
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VI. Tener experiencia en la creación de programas de salud bucal.
 
 ###### Artículo 101.
 
@@ -1209,19 +1321,29 @@ XIX. Las demás que le encargue la Dirección, en los términos de la legislaci�
 
 El coordinador escolar del CAIMEDE deberá reunir las aptitudes y requisitos siguientes:
 
-I. Ser ciudadano mexicano y tener además la calidad de ciudadano yucateco;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+III. No haber sido condenado por delito que amerite pena corporal;
 
 IV. Contar con estudios en educación o carrera técnica afín;
 
-V. Conocimientos en educación, relaciones humanas, problemas de aprendizaje, y derechos de los niños, niñas y adolescentes;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VI. Experiencia en el manejo de conflictos, manejo de conducta y creación de programas educativos;
+V. Tener conocimientos en educación, relaciones humanas, problemas de aprendizaje, y derechos de los niños, niñas y adolescentes;
 
-VII. Iniciativa en toma de decisiones y proponer acciones innovadoras.
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VI. Contar con experiencia en el manejo de conflictos, manejo de conducta y creación de programas educativos, y
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VII. Poseer iniciativa en toma de decisiones y proponer acciones innovadoras.
 
 ###### Artículo 103.
 
@@ -1279,7 +1401,7 @@ XXV. Verificar que el servicio de enfermería cumpla con su ronda en horario y a
 
 XXVI. Acompañar en caso de enfermedad de alguno de los niños, niñas y adolescentes y en ausencia de enfermería al menor al hospital para su atención médica o si designa a una niñera hacer los movimientos necesarios para cubrir los albergues;
 
-XXVll. Apoyar al personal con la recepción de las solicitudes de cambios de turno, días económicos, etc., para que no tengan que venir durante del día, esto es fuera de su turno;
+XXVII. Apoyar al personal con la recepción de las solicitudes de cambios de turno, días económicos, etc., para que no tengan que venir durante del día, esto es fuera de su turno;
 
 XXVIII. Cumplir con el reglamento del CAIMEDE; y
 
@@ -1413,19 +1535,31 @@ XX. Las demás que le encargue el Director en los términos de la legislación a
 
 La niñera deberá reunir las aptitudes y requisitos siguientes:
 
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
 I. Ser ciudadana mexicana;
 
 II. Estar en ejercicio de sus derechos políticos y civiles;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-IV. Conocimientos en manejo de niños, niñas y adolescentes y de puericultura;
+III. No haber sido condenado (sic) por delito que amerite pena corporal;
 
-V. Experiencia laboral en atención a niños, niñas o adolescentes;
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
 
-VI. Actitud de servicio para con los niños, niñas y adolescentes, y
+IV. Tener conocimientos en manejo de niños, niñas y adolescentes y de puericultura;
 
-VII. Grado mínimo de estudios, asistente educativo o puericultista.
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+V. Contar con experiencia laboral en atención a niños, niñas o adolescentes;
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VI. Poseer actitud de servicio para con los niños, niñas y adolescentes, y
+
+> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2018)</small>
+
+VII. Contar con el grado mínimo de estudios, asistente educativo o puericultista.
 
 ### CAPÍTULO IV. MEDIOS DE APREMIO
 
@@ -1433,7 +1567,7 @@ VII. Grado mínimo de estudios, asistente educativo o puericultista.
 
 En caso de incumplimiento del presente Reglamento por parte de algún trabajador del CAIMEDE, éste se hará acreedor a alguno de los siguientes medios de apremio:
 
-l. Si la infracción es por primera o segunda vez, motivará una amonestación escrita en la que se explicarán las razones de la misma;
+I. Si la infracción es por primera o segunda vez, motivará una amonestación escrita en la que se explicarán las razones de la misma;
 
 II. Al incurrir en una tercera infracción, se levantará un acta administrativa en donde se expresen los hechos atribuidos al trabajador, pudiéndose suspenderlo hasta por seis días sin goce de sueldo; y
 
@@ -1466,3 +1600,11 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este acuerdo.
+
+D.O. 31 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DIF 01/2018 POR EL QUE SE MODIFICA EL REGLAMENTO INTERIOR DEL CENTRO DE ATENCIÓN INTEGRAL AL MENOR EN DESAMPARO DEL ESTADO DE YUCATÁN”.]
+
+Único. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
