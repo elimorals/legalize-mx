@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-capacitacion-y-81159"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-06"
-last_updated: "2013-07-10"
+last_updated: "2018-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION Y VINCULACION TECNOLOGICA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN Y VINCULACIÓN TECNOLÓGICA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 31 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN Y VINCULACIÓN TECNOLÓGICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 6 de abril de 2011.
 
@@ -31,7 +33,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 CC. Integrantes de la Junta Directiva del Instituto de Capacitación y Vinculación Tecnológica del Estado de 'Chiapas, en ejercicio de las facultades que nos confiere el artículo 24, de la Ley de Entidades Paraestatales del Estado de Chiapas, y 10, fracción VIII, del Decreto por el que se crea el Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas; y,
 
-Considerando...
+Considerando
+
+[...]
 
 Por los fundamentos y consideraciones anteriormente expuestos, los integrantes de la Junta Directiva del Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas, tenemos a bien expedir el siguiente:
 
@@ -782,3 +786,23 @@ Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarqu�
 Artículo Tercero.- El Instituto deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas.
 
 Artículo Cuarto.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 31 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 3045-A-2018 REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN Y VINCULACIÓN TECNOLÓGICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se Abroga el Reglamento Interior del Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas, mediante la publicación número 2889-A-2011, Periódico Oficial número 293, Tomo III, de fecha 06 de abril de 2011.
+
+Artículo Tercero.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Reglamento Interior y se oponga (sic) al mismo.
+
+Artículo Cuarto.- Para las cuestiones no previstas en el presente Reglamento Interior, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación de los Órganos Administrativos, el Director General, resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización del Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la entrada en vigor del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- El Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas, deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las disposiciones contempladas en la Ley de Protección Civil del Estado de Chiapas, y demás ordenamientos aplicables.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por los artículos 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas, y 13 fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Reglamento Interior en el Periódico Oficial.
