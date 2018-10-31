@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2018-07-07"
+last_updated: "2018-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2018.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -2107,9 +2107,11 @@ VI. En coordinación con la Comisión de Desarrollo Cultural, sobre las normas r
 
 VIGILANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2018)</small>
+
 ###### Artículo 163.
 
-La Comisión de Vigilancia se integrará por un número impar de diputados de diferentes grupos parlamentarios, cuyo presidente será el diputado representante del partido político que obtuvo la primera minoría como resultado de la elección para diputados. Le corresponderá el conocimiento y dictamen de los asuntos siguientes:
+La Comisión de Vigilancia se integrará por diputados de diferentes grupos parlamentarios, cuyo presidente será el diputado representante del partido político que obtuvo la primera minoría como resultado de la elección para diputados, siempre y cuando no sea el mismo partido político por el que resultó electo el titular del Poder Ejecutivo del Estado, caso en el cual le corresponderá a la segunda minoría. Esta Comisión tendrá a su cargo el conocimiento y dictamen de los asuntos siguientes:
 
 I. Los que se refieran a las iniciativas de ley, reformas, adiciones o puntos de acuerdo relacionados con la fiscalización superior del Estado;
 
@@ -2386,3 +2388,13 @@ Artículo séptimo. Dentro de los sesenta días naturales siguientes a la public
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PUBLICACIÓN.
 
 DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado de Zacatecas, a los treinta días del mes de junio del año dos mil dieciocho. DIPUTADO PRESIDENTE.- ROGELIO GONZÁLEZ ÁLVAREZ. DIPUTADA SECRETARIA.- MARTHA MONTALVO DE LA FUENTE Y DIPUTADO SECRETARIO.- CARLOS ALBERTO SANDOVAL CARDONA. RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 2.- SE REFORMA EL ARTÍCULO 163 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
