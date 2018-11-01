@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-vivienda-del-estado-de-durango-81766"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-22"
-last_updated: "2016-06-12"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE VIVIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de mayo de 2011.
 
@@ -653,7 +653,51 @@ Atención y Reglamentación de la Organización Vecinal
 
 Los municipios deberán recibir y estudiar las solicitudes y opiniones de los representantes vecinales y las contestarán fundadamente, en un plazo no mayor a cuarenta y cinco días hábiles, contados a partir de la fecha en que les sean presentadas. Los municipios deberán realizar las acciones consecuentes con las resoluciones que se emitan, con relación a la participación y organización vecinal a que alude este Capítulo.
 
-El reglamento de la presente Ley establecerá las normas para el reconocimiento de los deberes y derechos vecinales, así como para el apoyo de la organización correspondiente, en los términos de este ordenamiento.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+El reglamento de la presente Ley podrá ampliar las normas para el reconocimiento de los deberes y derechos vecinales, así como para el apoyo de la organización correspondiente, en los términos de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+Reglamento de Organización y Participación Vecinal
+
+###### Artículo 34 Bis.
+
+Los Municipios deberán expedir un Reglamento de Organización y Participación Vecinal, que contenga como bases mínimas las siguientes:
+
+I.- Las facultades de las representaciones vecinales, entre ellas:
+
+a) Impulsar la capacitación por parte de la Dirección Municipal de Protección Civil, o en su caso por la Unidad Estatal de Protección Civil, y
+
+b) Promover el desarrollo urbano y participar en el ordenamiento territorial de su barrio o colonia, conforme a las disposiciones de la ley estatal de la materia.
+
+II.- Las obligaciones de las representaciones vecinales, entre ellas:
+
+a) Fomentar y participar en acciones de conservación de los elementos ecológicos, control de la contaminación, aseo y mejoramiento del medio ambiente;
+
+b) Hacer un diagnóstico de las condiciones de seguridad en el barrio o colonia en que están constituidas y distribuir material informativo que les proporcione la administración municipal sobre sistemas de prevención social del delito;
+
+c) Facilitar los procesos de consulta permanente y propiciar una democracia participativa, creando conciencia comunitaria de la responsabilidad conjunta de autoridades y particulares respecto a la buena marcha de la vida colectiva, y
+
+d) Las demás que les señalen otras leyes y reglamentos aplicables.
+
+III.- Los estatutos de las representaciones vecinales contendrán por lo menos los siguientes aspectos:
+
+a) Denominación y ubicación de la representación vecinal, así como las especificaciones de los bienes de uso comunitario;
+
+b) Los derechos y obligaciones de los vecinos del asentamiento humano o condominio;
+
+c) Las medidas para mejorar la administración, mantenimiento y operación de la representación vecinal;
+
+d) Las disposiciones que propicien la integración, organización y desarrollo de la comunidad en ese asentamiento humano o condominio;
+
+e) Estructura, organización y funcionamiento de la Asamblea de Vecinos y de la directiva;
+
+f) Nombramiento, atribuciones, obligaciones y causas y procedimiento de remoción de los integrantes de la directiva;
+
+g) Bases para el establecimiento de normas relacionadas con la sustentabilidad material y ambiental, y
+
+h) Bases para la integración del programa de protección civil, así como la conformación de comités de protección civil y seguridad pública.
 
 ### CAPÍTULO SEXTO. DEL FINANCIAMIENTO Y COSTOS DE LA VIVIENDA
 
@@ -1138,3 +1182,13 @@ P.O. 12 DE JUNIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 003.- QUE CONTIENE REFORMA AL ARTÍCULO 34 SEGUNDO PÁRRAFO Y ADICIÓN DEL ARTÍCULO 34 BIS A LA LEY DE VIVIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los Municipios del Estado de Durango, deberán expedir en un plazo de 90 días contados a partir de la entrada en vigor del presente decreto, el Reglamento de Organización y Participación Vecinal a que alude este Decreto.
+
+TERCERO.-. Se derogan todas las disposiciones que se opongan al presente Decreto.
