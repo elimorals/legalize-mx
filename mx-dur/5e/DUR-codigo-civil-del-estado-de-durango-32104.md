@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2018-07-19"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2018.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -333,7 +333,7 @@ ART. 57.- En las poblaciones en que no haya Oficial del Registro, el niño será
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-ART. 58.- El Acta de Nacimiento, contendrá el año, mes, día, hora y lugar de Nacimiento, el sexo, la impresión digital del presentado; el nombre y apellidos que le correspondan, que en ningún caso podrán contener elementos que sean ofensivos, discriminatorios o sean motivo de exposición al ridículo para la persona, no podrá omitirse, la expresión de si es presentado vivo o muerto, el nombre, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, y si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco (sic) con el registrado; salvo las prevenciones contenidas en los Artículos siguientes:
+ART. 58.- El Acta de Nacimiento, contendrá el año, mes, día, hora y lugar de Nacimiento, el sexo, la impresión digital del presentado; el nombre y apellidos que le correspondan, que en ningún caso podrán contener elementos que sean ofensivos, discriminatorios o sean motivo de exposición al ridículo para la persona, no podrá omitirse, la expresión de si es presentado vivo o muerto, el nombre, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, y si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado; salvo las prevenciones contenidas en los Artículos siguientes:
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -2415,7 +2415,7 @@ ART. 464.- El juez que no cumpla las prescripciones relativas a la tutela, adem�
 
 De la tutela testamentaria.
 
-ART. 465.- El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 409, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento aquellos sobre quienes la ejerza, con inclusión del hijo póstumo. (sic)
+ART. 465.- El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 409, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
 
 ART. 466.- El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
 
@@ -3219,7 +3219,7 @@ ART. 668.- Si el juez encuentra fundada la demanda, dispondrá que se publique d
 
 ART. 669.- Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
 
-ART. 670.- Si hubiere algunas noticias y oposición, el juez no declarará la ausencia sin respetar las publicaciones que establece el artículo 668. y (sic) hacer la averiguación por los medios que el oponente proponga, y por los que el mismo juez crea oportunos.
+ART. 670.- Si hubiere algunas noticias y oposición, el juez no declarará la ausencia sin respetar las publicaciones que establece el artículo 668. y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo juez crea oportunos.
 
 ART. 671.- La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años hasta que se declare la presunción de muerte.
 
@@ -3371,13 +3371,13 @@ I. La casa que ésta habita, incluyendo el mobiliario y equipo de la vivienda;
 
 II. Un vehículo automotor;
 
-III. El equipo y herramienta de la micro o pequeña industria que sirva de sustento económico a la familia; (sic)
+III. El equipo y herramienta de la micro o pequeña industria que sirva de sustento económico a la familia;
 
 ART. 718.- La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que le constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
 ART. 719.- Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Ese derecho es intransmisible; pero debe tener en cuenta lo dispuesto en el artículo 734.
 
-ART. 720.- Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con tercero (sic), en todo lo que al patrimonio se refiere, por el que lo constituyó y, en su defecto, por el que nombre la mayoría.
+ART. 720.- Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con tercero, en todo lo que al patrimonio se refiere, por el que lo constituyó y, en su defecto, por el que nombre la mayoría.
 
 El representante tendrá también la administración de dichos bienes.
 
@@ -3821,7 +3821,7 @@ ART. 844.- El derecho de caza y el de apropiarse los productos de ésta en terre
 
 ART. 845.- En terrenos de propiedad particular no puede ejercitarse el derecho a que se refiere el artículo anterior, ya sea comenzando en él la caza, ya continuando la comenzada en terreno público, sin permiso del dueño. Los campesinos asalariados y los aparceros gozan del derecho de caza en las fincas donde trabajen, en cuanto se aplique a satisfacer sus necesidades y las de sus familias.
 
-ART. 846.- El ejercicio del derecho de cazar se regirá por los reglamentos administrativos y por las siguientes bases: (sic)
+ART. 846.- El ejercicio del derecho de cazar se regirá por los reglamentos administrativos y por las siguientes bases:
 
 ART. 847.- El cazador se hace dueño del animal que caza, por el acto de apoderarse de él, observándose lo dispuesto en el artículo 849.
 
@@ -3887,7 +3887,7 @@ ART. 873.- Si el propietario encuentra el tesoro en la finca o terreno cuyo usuf
 
 Del derecho de accesión.
 
-ART. 874.- La propiedad de los bienes da derecho a todo lo que ello (sic) producen, o se les une o incorpora natural o artificialmente. Este derecho se llama de accesión.
+ART. 874.- La propiedad de los bienes da derecho a todo lo que ello producen, o se les une o incorpora natural o artificialmente. Este derecho se llama de accesión.
 
 ART. 875.- En virtud de él pertenecen al propietario:
 
@@ -4987,7 +4987,7 @@ ART. 1248.- Si el legado fuere de prestación periódica, que debe cumplir en un
 
 ART. 1249.- Si el día en que debe comenzar el legado fuere seguro, sea que se sepa o no cuando ha de llegar el que ha de entregar la cosa legada tendrá, respecto de ella, los derechos y las obligaciones del usufructuario.
 
-ART. 1250.- En el caso del artículo anterior, si el legado consiste en prestación periódica, el que debe pagar lo hace suyo todo lo correspondiente al intermedio, y cumple con hacer la prestación comenzando el día señalado. (sic)
+ART. 1250.- En el caso del artículo anterior, si el legado consiste en prestación periódica, el que debe pagar lo hace suyo todo lo correspondiente al intermedio, y cumple con hacer la prestación comenzando el día señalado.
 
 ART. 1251.- Cuando el legado debe concluír en un día que es seguro que ha de llegar, se entregará la cosa o cantidad legada al legatario, quien se considerará como usufructuario de ella.
 
@@ -6987,11 +6987,11 @@ ART. 1903.- Cuando la obligación de dar tenga por objeto una cosa designada só
 
 ART. 1904.- En los casos de enajenación con reserva de la posesión, uso o goce de la cosa hasta cierto tiempo, se observarán las reglas siguientes:
 
-I.- Si hay convenio expreso se estará a lo estipulado,
+I.- Si hay convenio expreso se estará a lo estipulado;
 
-II.- Si la pérdida fuere por culpa de alguno de los contratantes, el importe será de la responsabilidad de éste,
+II.- Si la pérdida fuere por culpa de alguno de los contratantes, el importe será de la responsabilidad de éste.
 
-III.- A falta de convenio o de culpa, cada interesado sufrirá la pérdida que le corresponda, en todo, si la cosa parece (sic) totalmente, o en parte, si la pérdida fuere solamente parcial;
+III.- A falta de convenio o de culpa, cada interesado sufrirá la pérdida que le corresponda, en todo, si la cosa parece (sic) totalmente, o en parte, si la pérdida fuere solamente parcial,
 
 IV.- En el caso de la fracción que precede, si la pérdida fuere parcial y las partes no se convinieren en la disminución de sus respectivos derechos, se nombrarán peritos que la determinen.
 
@@ -10075,7 +10075,9 @@ De los títulos sujetos a registro y de los efectos legales del registro.
 
 ART. 2880.- Se inscribirán en el Registro:
 
-I.- Los títulos por los cuales se adquiere, tramite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión o los demás derechos reales sobre inmuebles;
 
 II.- La constitución del patrimonio de familia;
 
@@ -10105,7 +10107,9 @@ XIII.- El tesimonio (sic) de las informaciones ad pertuam (sic) promovidas y pro
 
 XIV.- Los demás títulos que la ley ordena expresamente que sean registrados.
 
-ART. 2881.- Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quiénes los otorguen, pero no podrán producir perjuicios a tercero, el cual si podrá aprovecharlos en cuanto le fueren favorables.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+ART. 2881.- Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen pero no podrán producir perjuicios a terceros, los cuales si podrán aprovecharlos en cuanto les fueren favorables.
 
 ART. 2882.- Los testamentos ológrafos no producirán efecto si no son depositados en el Registro.
 
@@ -10143,11 +10147,13 @@ II.- Las sentencias y providencias judiciales certificadas legalmente;
 
 III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el registrador, la autoridad municipal o el juez de paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 1969)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2018)</small>
 
-ART. 2890.- El interesado deberá presentar el título que va a ser registrado y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de predios o fincas rústicos o urbanos, acompañará un plano de éstos. Presentará además dos ejemplares del título y del plano para el registro que se lleva en la Tesorería General del Estado y en la Dirección General de Catastro del mismo.
+ART. 2890.- El interesado deberá presentar el título que va a ser registrado y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de predios o fincas rústicas o urbanas, acompañará un plano de estos. Presentará además dos ejemplares del título y del plano para el registro que se lleva en la Dirección de Catastro de la Secretaría de Finanzas y de Administración.
 
-ART. 2891.- El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse; llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 2893. En caso contrario devolverá el título sin registrar, siendo necesaria resolución judicila (sic) para que se haga el registro.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+ART. 2891.- El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse; llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 2893. En caso contrario devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
 
 ART. 2892.- En el caso a que se refiere la parte final del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
 
@@ -10161,9 +10167,13 @@ II.- La naturaleza, extinción, condiciones y cargas del derecho que se constitu
 
 III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán el título en la estimación que le den;
 
-IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantido (sic), y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2018)</small>
 
-V.- Los hombres (sic), edades, domicilios y profesiones de las personas que por sí mismos o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón o denominazición (sic);
+IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr.
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+V.- Los nombres, edades, domicilios y profesiones de las personas que por sí mismos o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón o denominación;
 
 VI.- La naturaleza del acto o contrato;
 
@@ -10731,8 +10741,16 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo estable
 
 P.O. 19 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 394.- QUE CONTIENE REFORMAS AL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 394.- QUE CONTIENE REFORMAS AL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 004.- QUE CONTIENE REFORMA AL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
