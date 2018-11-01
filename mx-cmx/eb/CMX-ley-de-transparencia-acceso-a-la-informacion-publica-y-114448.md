@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-acceso-a-la-informacion-publica-y-114448"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2017-09-01"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114448&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-05-06"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el No. Bis de la Gaceta Oficial de la Ciudad de México, el viernes 6 de mayo de 2016.
 
@@ -526,49 +526,73 @@ IV. Un Órgano Interno de Control.
 
 El Pleno del Instituto será la instancia directiva y la Presidencia la ejecutiva, por lo tanto tendrá las atribuciones suficientes para hacer cumplir la Ley General, la presente Ley y las que se deriven de las mismas, salvo aquellas que le estén expresamente conferidas al Pleno del Instituto.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 39.
 
-El Pleno tendrá las facultades que le confiere la presente Ley, su Reglamento Interior y demás disposiciones de la materia; estará integrado por siete Comisionados Ciudadanos, de los cuales uno de ellos será el Comisionado Presidente, quienes serán representantes de la sociedad civil, mismos que serán designados por el voto de la mayoría de los integrantes presentes del pleno del Poder Legislativo de la Ciudad de México, conforme a las bases siguientes:
+El Pleno tendrá las facultades que le confiere la presente Ley, su Reglamento Interior y demás disposiciones de la materia; estará integrado por cinco Comisionadas y Comisionados Ciudadanos, de los cuales uno de ellos será la Comisionada o el Comisionado Presidente, quienes deberán ser ciudadanas o ciudadanos mexicanos con reconocido prestigio en los sectores público y social, así como en los ámbitos académico y profesional, con experiencia mínima de cinco años en las materias de derecho a la información y de protección de datos personales, mismos que serán designadas y designados por el voto de las dos terceras partes de las diputadas y diputados integrantes presentes del pleno del Poder Legislativo de la Ciudad de México, conforme a las bases siguientes:
 
-> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
 
-I. El Poder Legislativo de la Ciudad de México, a través de la Comisión, emitirá convocatoria pública abierta, en la que invitará a los interesados en postularse, y a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por esta Ley, en un plazo no mayor a sesenta días anteriores a la fecha en que concluya su periodo el Comisionado que dejará su puesto;
+I. El Poder Legislativo de la Ciudad de México, emitirá convocatoria pública abierta, en la que invitará a las interesadas e interesados en postularse, y a organizaciones de la sociedad civil, organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por esta Ley, en un plazo no mayor a sesenta días anteriores a la fecha en que concluya su periodo la Comisionada o Comisionado que dejará su puesto; garantizando la imparcialidad, independencia y transparencia del proceso.
 
 II. En la convocatoria se establecerán:
 
-a) Los plazos, lugares, horarios y condiciones de presentación de las solicitudes,
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
 
-b) Los requisitos y la forma de acreditarlos,
+a. Los plazos, lugares, horarios y condiciones de presentación de las solicitudes,
 
-c) El método de registro y el instrumento técnico de evaluación y calificación de los aspirantes,
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
 
-d) En su caso, las audiencias públicas para promover la participación ciudadana, en las que se podrá invitar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en las materias de acceso a la información, transparencia, datos personales, fiscalización y rendición de cuentas, y
+b. Los requisitos y la forma de acreditarlos,
 
-e) Se publicará en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en tres diarios de mayor circulación en la misma;
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
 
-III. Se deberá hacer pública la versión pública de los currículums de los aspirantes;
+c. El método de registro y el instrumento técnico de evaluación y calificación de los aspirantes,
 
-IV. Con base en la evaluación de los perfiles, la Comisión de Transparencia a la Gestión realizará la selección de aspirantes a Comisionados y remitirá su dictamen al Pleno del Poder Legislativo de la Ciudad de México para que éste realice la designación correspondiente;
+d. (DEROGADO, G.O. 1 DE NOVIEMBRE DE 2018)
 
-V. En la conformación del Pleno se garantizará que exista igualdad de género, por lo que deberá conformarse de al menos tres Comisionados de un género distinto al de la mayoría, se procurará la experiencia en materia de transparencia, acceso a la información, protección de datos personales y rendición de cuentas; y
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
 
-VI. Una vez designados los Comisionados, éstos deberán rendir protesta ante el Pleno del Poder Legislativo de la Ciudad de México.
+e. Se publicará en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en tres diarios de mayor circulación en la misma;
+
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+III. Se deberá hacer pública la lista de las y los aspirantes y la versión pública de su curricula,
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+IV. Se deberá hacer público el calendario o cronograma de las audiencias públicas, precisando el lugar y fecha de celebración, para promover la participación ciudadana, en las que se podrá invitar a investigadoras, investigadores, académicas, académicos y a organizaciones de la sociedad civil, especialistas en las materias de acceso a la información, transparencia, datos personales, fiscalización y rendición de cuentas; ponderando en todo momento la máxima publicidad en el proceso, en su caso difundiendo las grabaciones de las reuniones y garantizando como mínimo un medio electrónico de difusión de la información que se vaya generando.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IV], G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+V. Con base en la evaluación de los perfiles, la Comisión de Transparencia y Combate a la Corrupción, realizará la selección de aspirantes a Comisionadas y Comisionados y remitirá su dictamen al Pleno del mismo para que éste realice la designación correspondiente.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN V], G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+VI. En la conformación del Pleno se garantizará que exista equidad de género, por lo que deberá conformarse de al menos dos Comisionadas y Comisionados de un género distinto al de la mayoría,
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+VII. Una vez designadas y designados, las Comisionadas y los Comisionados, éstos deberán rendir protesta ante el Pleno del Poder Legislativo de la Ciudad de México.
 
 La resolución de la designación de los Comisionados Ciudadanos que integrarán el Instituto, se publicará en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en tres diarios de mayor circulación en la misma.
 
 En caso de ocurrir una vacante por alguna circunstancia distinta a la conclusión del periodo para el que fue designado el Comisionado Ciudadano, el nombramiento se hará dentro del improrrogable plazo de sesenta días naturales posteriores a ser comunicada la ausencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 40.
 
-Los Comisionados durarán en su encargo siete años improrrogables, sin posibilidad de reelección, serán sustituidos de forma escalonada para asegurar la operación del Instituto, tendrán las facultades que les confieren la presente Ley, su Reglamento Interior, y demás disposiciones de la materia; gozarán de los emolumentos equivalentes al de Magistrado del Tribunal Superior de Justicia. Su encargo es incompatible con cualquier otro empleo, cargo, comisión o actividad, salvo la beneficencia, la docencia y la investigación académica, siempre y cuando no se atiendan de tiempo completo.
+Las Comisionadas y Comisionados durarán en su encargo siete años improrrogables, sin posibilidad de reelección, serán sustituidas y sustituidos de forma escalonada para asegurar la operación del Instituto, tendrán las facultades que les confieren la presente Ley, su Reglamento Interior, y demás disposiciones de la materia; sus remuneraciones serán determinadas conforme a lo establecido en la Constitución Política de la Ciudad de México. Su encargo es incompatible con cualquier otro empleo, cargo, comisión o actividad, salvo la beneficencia, la docencia y la investigación académica, siempre y cuando no se atiendan de tiempo completo.
 
 Los Comisionados tampoco podrán estar al servicio de organismos, empresas, instituciones privadas o particulares, ocupar cargos de elección popular o directivos en ningún partido político; ni desempeñar cargo alguno en la federación, estados, municipios o la Ciudad de México, mientras dure su encargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 41.
 
-Para ser Comisionado Ciudadano se requiere:
+Para ser Comisionada o Comisionado Ciudadano se requiere:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -576,15 +600,23 @@ II. Haber residido en la Ciudad de México durante los dos años anteriores al d
 
 III. Tener cuando menos treinta años cumplidos al día de su designación;
 
-IV. Gozar de reconocido prestigio personal y profesional;
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+IV. Gozar de reconocido prestigio personal en los sectores público y social, así como en los ámbitos académico y profesional, con experiencia mínima de cinco años en las materias de derecho a la información, protección de datos personales y rendición de cuentas;
 
 V. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación o abuso de confianza, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-VI. No haber sido candidato o desempeñado algún cargo de elección popular federal, estatal, de la Ciudad de México o municipal durante el año inmediato anterior a la fecha de su designación;
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
 
-VII. No haber sido titular de alguna dependencia de la Administración Pública de la Ciudad de México, Procurador, Director General de una entidad paraestatal, así como titular de algún Órgano Autónomo de la Ciudad de México, durante el año inmediato anterior a la fecha de su designación;
+VI. No pertenecer o militar en algún partido político o haber sido candidata, candidato o desempeñado algún cargo de elección popular federal, estatal, de la Ciudad de México o municipal durante los cuatro años anteriores a la fecha de su designación;
 
-VIII. No haber desempeñado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura Local durante el último año inmediato a la fecha de su designación; y
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+VII. No haber sido titular de alguna dependencia de la Administración Pública de la Ciudad de México, Fiscal o Procurador, Director General de una entidad paraestatal, así como titular de algún Órgano Autónomo de la Ciudad de México, durante los cuatro años anteriores a la fecha de su designación;
+
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+VIII. No haber desempeñado el cargo de Magistrada o Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura de la Ciudad de México durante los cuatro años anteriores a la fecha de su designación; y
 
 IX. Presentar las declaraciones patrimonial, de intereses y fiscal.
 
@@ -610,15 +642,19 @@ VII. Incumplir de manera notoria y reiterada con las obligaciones establecidas e
 
 VIII. Ser sentenciado por la comisión de delito que merezca pena privativa de libertad.
 
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-El Pleno y el Instituto serán presididos por un Comisionado Ciudadano, quien tendrá la representación legal del mismo. Durará en su encargo un periodo de tres años, renovable hasta por un período igual y tendrá las facultades que establezcan esta Ley, su Reglamento Interior, y demás disposiciones de la materia. En caso de que el periodo que le reste al Comisionado sea menor de tres años, podrá ser elegido o ratificado, y durará como Presidente el tiempo que le reste como Comisionado.
+El Pleno y el Instituto serán presididos por una Comisionada o Comisionado Ciudadano, quien tendrá la representación legal del mismo. Durará en su encargo un periodo de tres años, sin posibilidad de reelección, ya sea sucesiva o alternada, y tendrá las facultades que establezcan esta Ley, su Reglamento Interior, y demás disposiciones de la materia. En caso de que el periodo que le reste a la Comisionada o Comisionado sea menor de tres años, podrá ser elegida o elegido, y durará como Presidenta o Presidente el tiempo que le reste como Comisionada o Comisionado.
+
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
-El Comisionado Presidente será designado por la mayoría de los miembros presentes del Pleno del Poder Legislativo de la Ciudad de México a propuesta de la Comisión.
+La Comisionada Presidenta o el Comisionado Presidente será designada o designado por mayoría de votos de las propias comisionadas y comisionados mediante voto secreto.
 
-La designación del Comisionado Presidente, será publicada en la Gaceta Oficial de la Ciudad de México, y en el Diario Oficial de la Federación para su mayor difusión.
+La designación de la Comisionada Presidenta o Comisionado Presidente, será publicada en la Gaceta Oficial de la Ciudad de México, y en el Diario Oficial de la Federación para su mayor difusión.
 
 ###### Artículo 45.
 
@@ -906,7 +942,9 @@ Las convocatorias a las sesiones extraordinarias señalarán la fecha y hora de 
 
 Las sesiones del Pleno se sujetarán a las reglas mínimas siguientes:
 
-I. Por principio general serán públicas, salvo que medie acuerdo del Pleno para declararlas privadas cuando la naturaleza de los temas lo ameriten;
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+I. Todas las sesiones del Pleno, serán públicas.
 
 II. Serán válidas cuando se integre el quórum con la mayoría de los Comisionados;
 
@@ -2086,7 +2124,9 @@ XIII. Programa anual de obras, programa anual de adquisiciones y programa anual 
 
 XIV. El boletín judicial, así como cualquier otro medio en el que se contengan las listas de acuerdos, laudos, resoluciones, sentencias relevantes y la jurisprudencia;
 
-XV. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+XV. Las versiones públicas de las sentencias.
 
 XVI. La lista de acuerdos que diariamente se publiquen;
 
@@ -2118,7 +2158,9 @@ XI. Resoluciones del órgano de control interno;
 
 XII. Las tesis y ejecutorias publicadas en la Gaceta respectiva de cada Tribunal, incluyendo, tesis jurisprudenciales y aisladas;
 
-XIII. Las versiones públicas de las sentencias que sean de interés público; y
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Las versiones públicas de las resoluciones derivadas de sus facultades de investigación o sanción de disciplina administrativa
 
 XIV. La relacionada con los procesos por medio de los cuales fueron designados los jueces y magistrados.
 
@@ -3648,7 +3690,7 @@ Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, Tra
 
 G.O. 1 DE SEPTIEMBRE DE 2017.
 
-> <small>[N. DE E. TRANSITORIOS "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO".]</small>
+> <small>[N. DE E. TRANSITORIOS “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO”.]</small>
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
@@ -3659,3 +3701,23 @@ TERCERO.- Se deroga toda disposición que contravenga lo señalado en el present
 CUARTO.- De conformidad con lo que dispone el artículo Décimo Tercero transitorio de la Constitución Política de la Ciudad de México, y a fin de homologar en tiempo los nombramientos de las y los titulares de los organismos que integran el Sistema Anticorrupción, por única ocasión para efectos del nombramiento de los nuevos Comisionados Ciudadanos del Instituto, la Comisión de Transparencia y Combate a la Corrupción de la Asamblea Legislativa del Distrito Federal, deberá implementar los mecanismos que refiere la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, para que sean nombrados por el Pleno de la Asamblea en un plazo máximo de 60 días naturales a partir de la entrada en vigor del presente Decreto.
 
 QUINTO.- Respecto a la entrada en funciones de los nuevos Comisionados Ciudadanos nombrados conforme al CUARTO TRANSITORIO, se estará a lo dispuesto en los transitorios DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO del Decreto por el que se expide la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 6 de mayo de 2016.
+
+G.O. 1 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO Y DIVERSOS DE LA LEY ORGANICA DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
+
+TERCERO.- La designación de las nuevas Personas Comisionadas del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales de la Ciudad de México, será realizada a más tardar el treinta y uno de diciembre del año dos mil dieciocho.
+
+CUARTO.- La convocatoria para la designación de las nuevas Personas Comisionadas, deberá emitirse a más tardar el siete de noviembre del año dos mil dieciocho conforme a lo siguiente:
+
+I. Para asegurar la renovación escalonada con motivo de la conclusión de cargos de las Personas Comisionadas salientes designados conforme a la Ley anterior, el Congreso de la Ciudad de México especificará el periodo de ejercicio para cada Comisionado, tomando en consideración lo siguiente:
+
+a) Nombrará a dos Comisionados, uno de cada género, cuyo mandato comprenderá siete años; y
+
+b) Nombrará a dos Comisionadas o Comisionados, cuyo mandato comprenderá seis años y observando que en todo momento se garantice la equidad de género en el Pleno del Instituto.
+
+QUINTO.- De conformidad con el segundo párrafo del artículo Trigésimo Tercero de la Constitución de la Ciudad de México la actual comisionada en funciones del Instituto de Transparencia, Acceso a la Información Pública y Protección de datos Personales de la Ciudad de México, permanecerá en el cargo hasta el día 11 de noviembre del año 2020, fecha en que concluye el periodo para el que fue nombrada y en consecuencia, se elegirá una comisionada o un comisionado por el periodo de siete años.
