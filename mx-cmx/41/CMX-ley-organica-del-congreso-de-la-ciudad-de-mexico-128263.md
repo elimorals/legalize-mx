@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2018-09-28"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -2284,7 +2284,9 @@ El procedimiento para los nombramientos se realizará de conformidad con las reg
 
 La Secretaría Ejecutiva contará con un Órgano de Control Interno, cuya persona titular será designada en los mismos términos que de la o el titular de la Secretaría de la Contraloría y deberá contar con el proceso de selección, evaluación y formación conforme al sistema de profesionalización que al efecto se establezca, contará con la estructura que dispongan las disposiciones jurídicas aplicables, lo anterior de conformidad con la Constitución Política, la Constitución Local, la presente ley y las leyes aplicables.
 
-### CAPÍTULO XXVI. De las y los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Rendición de Cuentas
+### CAPÍTULO XXVI. De las y los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 145.
 
@@ -2322,11 +2324,13 @@ VI. El plazo máximo de noventa días en que se deberá hacer la designación qu
 
 En caso de que se generen vacantes imprevistas, el proceso de selección de la o el nuevo integrante no podrá exceder el límite de sesenta días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+
 ### CAPÍTULO XXVII. De las y los Consejeros del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México
 
 ###### Artículo 147.
 
-Para la designación de las y los Comisionados integrantes del Pleno del Instituto de transparencia, acceso a la información pública y rendición de cuentas de la Ciudad de México, el Congreso:
+Para la designación de las y los Comisionados integrantes del Pleno del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Ciudad de México, el Congreso:
 
 I. A través de la Comisión de Transparencia y Combate a la Corrupción, emitirá convocatoria pública abierta, en la que invitará a las y los interesados en postularse, y a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por el artículo 49 numeral 1, de la Constitución Local, y la ley de la materia, en un plazo no mayor a sesenta días anteriores a la fecha en que concluya su periodo el Comisionado que dejará su puesto;
 
@@ -2542,7 +2546,7 @@ VII. Las memorias, oficios, comunicaciones y otros documentos que hubiere recibi
 
 VIII. Todos aquellos enseres y demás bienes y derechos con los que actualmente cuenta la Asamblea Legislativa del Distrito Federal y que permitirán el adecuado desarrollo de los trabajos, obligaciones y facultades del Congreso de la Ciudad de México.
 
-VIGÉSIMO CUARTO.- La Junta de Coordinación Política dentro de los sesenta días naturales a la instalación del Congreso deberá poner en funcionamiento un vínculo en el sitio web del órgano legislativo para que las y los ciudadanos residente en la Ciudad de México puedan formular y apoyar con su firma una petición, previo formato aprobado por el Comité se Atención, Orientación y Quejas Ciudadanas.
+VIGÉSIMO CUARTO.- La Junta de Coordinación Política dentro de los sesenta días naturales a la instalación del Congreso deberá poner en funcionamiento un vínculo en el sitio web del órgano legislativo para que las y los ciudadanos residente (sic) en la Ciudad de México puedan formular y apoyar con su firma una petición, previo formato aprobado por el Comité se Atención, Orientación y Quejas Ciudadanas.
 
 La Junta deberá en ese mismo plazo a través de los órganos de gobierno del Congreso, realizar la suscripción de un convenio con el Instituto Electoral de la Ciudad de México para la verificación de los datos de las y los peticionarios así como de las firmas de apoyo mediante mecanismos electrónicos ágiles y oportunos.
 
@@ -2583,3 +2587,23 @@ G.O. 28 DE SEPTIEMBRE DE 2018.
 PRIMERO.- La presente reforma entrará en vigor a partir de su aprobación por el Pleno del Congreso.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 1 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO Y DIVERSOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
+
+TERCERO.- La designación de las nuevas Personas Comisionadas del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales de la Ciudad de México, será realizada a más tardar el treinta y uno de diciembre del año dos mil dieciocho.
+
+CUARTO.- La convocatoria para la designación de las nuevas Personas Comisionadas, deberá emitirse a más tardar el siete de noviembre del año dos mil dieciocho conforme a lo siguiente:
+
+I. Para asegurar la renovación escalonada con motivo de la conclusión de cargos de las Personas Comisionadas salientes designados conforme a la Ley anterior, el Congreso de la Ciudad de México especificará el período de ejercicio para cada Comisionado, tomando en consideración lo siguiente:
+
+a) Nombrará a dos Comisionados, uno de cada género, cuyo mandato comprenderá siete años; y
+
+b) Nombrará a dos Comisionadas o Comisionados, cuyo mandato comprenderá seis años y observando que en todo momento se garantice la equidad de género en el Pleno del Instituto.
+
+QUINTO.- De conformidad con el segundo párrafo del artículo Trigésimo Tercero de la Constitución de la Ciudad de México la actual comisionada en funciones del Instituto de Transparencia, Acceso a la Información Pública y Protección de datos Personales de la Ciudad de México, permanecerá en el cargo hasta el día 11 de noviembre del año 2020, fecha en que concluye el periodo para el que fue nombrada y en consecuencia, se elegirá una comisionada o un comisionado por el periodo de siete años.
