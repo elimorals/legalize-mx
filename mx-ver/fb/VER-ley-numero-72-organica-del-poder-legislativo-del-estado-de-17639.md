@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2018-10-09"
+last_updated: "2018-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -633,9 +633,9 @@ VII. Las demás que expresamente señalen la Constitución del Estado, esta ley,
 
 El grupo legislativo es la asociación de diputados que se constituye para funcionar durante una Legislatura, con el propósito de garantizar la libre expresión de las corrientes políticas representadas en el Congreso; así como participar en la toma de decisiones, coadyuvar en los trabajos legislativos y contribuir a la disciplina interna del Congreso, en los términos que señala esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE NOVIEMBRE DE 2018)</small>
 
-El grupo legislativo se integrará con al menos tres diputados y sólo podrá haber uno por cada partido político que cuente con representación en el Congreso. Se constituirá en la primera sesión ordinaria de la Legislatura, si sus integrantes proceden de un mismo partido político; de provenir de partidos diversos o ser independientes, cuando sus integrantes así lo decidan, pero en este último caso no podrá existir más de un grupo, con excepción de la fusión de dos o más grupos legislativos previamente constituidos. Al efecto, cada grupo legislativo entregará a la Secretaría General la documentación siguiente:
+El grupo legislativo se integrará con al menos tres diputados. Sólo podrá haber uno por cada partido político que cuente con representación en el Congreso y un número ilimitado en el caso de los grupos legislativos mixtos. Si sus integrantes proceden de un mismo partido político, el grupo legislativo se constituirá en la primera sesión ordinaria de la Legislatura; en el caso de los grupos mixtos, cuando sus integrantes así lo decidan. Los grupos legislativos mixtos podrán conformarse por diputados provenientes de partidos diversos; por independientes o los que se declaren sin partido; o por la unión de los que se encuentren en los supuestos anteriores. En todos los casos señalados en este párrafo, cada grupo legislativo entregará su documentación al Secretario General, quien verificará que el grupo legislativo cumple con los requisitos previstos en este artículo para serlo, por lo que, en su defecto, podrá requerir que se subsanen las omisiones correspondientes e informar, en su caso, al Presidente y a la Junta de Coordinación Política sobre la improcedencia del registro de un grupo. La documentación que cada grupo legislativo deberá entregar al Secretario General será la siguiente:
 
 a) Acta en la que conste la decisión de sus miembros de constituirse en Grupo, con especificación del nombre del mismo y lista de sus integrantes; y
 
@@ -1237,7 +1237,7 @@ II. Evaluar el avance del informe de la Gestión Financiera de los Ayuntamientos
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2005)</small>
 
-III. Practicar, por instrucciones del Secretario General, previo acuerdo del Presidente de la Mesa Directiva, Presidente de la Junta de Coordinación Política o de la Comisión Permanente de Vigilancia, indistintamente, con la aprobación del pleno del Congreso o, en su caso, de la Diputación Permanente, auditorias a los ayuntamientos, o designarle interventores.
+III. Practicar, por instrucciones del Secretario General, previo acuerdo del Presidente de la Mesa Directiva, Presidente de la Junta de Coordinación Política o de la Comisión Permanente de Vigilancia, indistintamente, con la aprobación del pleno del Congreso o, en su caso, de la Diputación Permanente, auditorías a los ayuntamientos, o designarle interventores.
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2005)</small>
 
@@ -1799,10 +1799,18 @@ SEGUNDO. SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
 
 G.O. 9 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 767 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, A LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, A LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO, Y AL CÓDIGO ELECTORAL, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 767 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, A LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, A LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO, Y AL CÓDIGO ELECTORAL, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales siguientes al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 2 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 791 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
