@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-exterior-mexicano-121181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-04-28"
-last_updated: "2017-04-28"
+last_updated: "2018-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-28"
 
 REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en la Edición Vespertina del Diario Oficial de la Federación, el viernes 28 de abril de 2017.
 
@@ -65,7 +65,9 @@ El Personal de Carrera está integrado por:
 
 I. Quienes ingresen a la rama diplomático-consular, de conformidad con los artículos 28, 31 y 34 de la Ley;
 
-II. Quienes ingresen a la rama técnico-administrativa, de acuerdo a lo dispuesto en los artículos 33 y 35 de la Ley, y
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+II. Quienes ingresen a la rama técnico-administrativa, de acuerdo a lo dispuesto en los artículos 28, 31, 33 y 34 de la Ley, y
 
 III. Quienes se reincorporen al Servicio Exterior siguiendo el procedimiento a que se refiere el artículo 36 de la Ley.
 
@@ -73,17 +75,37 @@ La administración de rangos, plazas, puestos y estructura del Servicio Exterior
 
 ### CAPÍTULO II. Del Personal Temporal
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 4.
 
-Al Secretario corresponde expedir los nombramientos temporales referidos en el artículo 7 de la Ley, en cualquier rango en las ramas diplomático-consular y técnico-administrativa. Se exceptúa de lo anterior, los nombramientos temporales que corresponde efectuar al Presidente de la República en términos de los artículos 19 y 20 de la Ley.
+Al Secretario corresponde expedir los nombramientos temporales referidos en el artículo 7 de la Ley, en cualquier rango en las ramas diplomático-consular y técnico-administrativa, previo dictamen favorable de la Comisión de Personal. Se exceptúa de lo anterior, los nombramientos temporales que corresponde efectuar al Presidente de la República en términos de los artículos 19 y 20 de la Ley.
 
-Quienes bajo este precepto obtengan nombramientos no serán considerados como Personal de Carrera, y causarán baja en la plaza que se les haya asignado al concluir el término de su nombramiento temporal, que será hasta por un año.
+Quienes bajo este precepto obtengan nombramientos no serán considerados como Personal de Carrera, y causarán baja en la plaza que se les haya asignado al concluir la vigencia de su nombramiento temporal, que será hasta por un año.
 
-Los nombramientos temporales hechos por el Secretario podrán prorrogarse por periodos adicionales de hasta por un año, previo informe del Jefe o Titular de Representación sobre el desempeño del servidor público. En su conjunto, el período por nombramiento temporal y sus prórrogas no excederán de seis años, incluso si se cambia de rango, función o Adscripción dentro de ese lapso.
+La Comisión de Personal elaborará, actualizará y publicará periódicamente en el Diario Oficial de la Federación los perfiles referidos en el artículo 7 de la Ley, observando las funciones especializadas o las profesiones especializadas que, en un momento o contexto determinado, requiera el Servicio Exterior; el número y los rangos en los cuales se requieran dichas funciones y en qué adscripciones, con el propósito de cubrir las necesidades del Servicio Exterior de forma eficaz y eficiente. Los nombramientos temporales así definidos deberán observar como criterio la igualdad de género.
 
-Ninguna persona podrá obtener otro nombramiento temporal sin que medie un año después de haber concluido el tiempo máximo señalado en el párrafo anterior.
+En ningún caso podrá haber en una Representación, un mayor número de miembros de personal temporal que Miembros del Servicio Exterior de carrera.
+
+Los servidores públicos pertenecientes al Personal Temporal no podrán ocupar las posiciones de jefatura de cancillería, cónsul adscrito, encargado de la sección consular y/o de administrador de una Representación en el exterior. Dichas posiciones serán ocupadas invariablemente por Personal de Carrera.
+
+En la determinación de las necesidades del Servicio Exterior, la Comisión de Personal deberá elaborar un dictamen de inexistencia o insuficiencia de profesionales especializados entre las filas del Servicio Exterior de carrera.
+
+Con el fin de emitir el dictamen a que se refiere el artículo 7, primer párrafo, de la Ley, la Comisión de Personal verificará que el candidato cumpla con el perfil idóneo, mediante la presentación de títulos o diplomas en los que conste su preparación académica, el dominio de un idioma extranjero útil para la diplomacia mexicana, preferentemente el inglés, o el idioma oficial del lugar de la Adscripción, así como los documentos que acrediten su trayectoria y experiencia profesionales, esto, en términos similares a los exigidos en el artículo 28 de la Ley, para los Miembros del Servicio Exterior de carrera.
+
+Adicionalmente, a efecto de allegarse de mayores elementos, la Comisión de Personal, a través del Instituto Matías Romero, podrá aplicar exámenes para corroborar la pericia y el nivel de conocimientos especializados de los candidatos a ocupar una plaza de conformidad con el artículo 7 de la Ley.
+
+El Personal Temporal será sujeto a evaluaciones, a través de la modalidad que la Comisión de Personal establezca, a efecto de determinar el desempeño y el avance en el cumplimiento de metas establecidas en el plan de trabajo. Estos informes serán también la base para determinar la procedencia de prorrogar su nombramiento.
+
+Los nombramientos temporales hechos por el Secretario podrán prorrogarse por períodos adicionales de hasta por un año, previo informe del Jefe o Titular de Representación sobre el desempeño del servidor público y sobre los resultados obtenidos en la evaluación del desempeño del servidor público realizada por la Comisión de Personal. En su conjunto, el período por nombramiento temporal y sus prórrogas no excederán de seis años, incluso si se cambia de rango, función o Adscripción dentro de ese lapso.
+
+Ninguna persona podrá obtener otro nombramiento temporal sin que medie un año después de haber concluido el tiempo máximo señalado en el párrafo anterior. Las prórrogas de nombramientos temporales subsecuentes no podrán exceder de tres años.
 
 Los nombramientos del Personal Temporal harán constar expresamente las fechas de inicio y término de comisión, así como las funciones específicas y el lugar de Adscripción.
+
+Todos los candidatos a ser nominados como Personal Temporal, si son o han sido servidores públicos, deberán acreditar que están al día en sus obligaciones administrativas, tales como la presentación de declaraciones de situación patrimonial, de interés y fiscal, y no ser sujeto de un proceso administrativo al momento de solicitar su ingreso al Servicio Exterior.
+
+La Comisión de Personal vigilará que se dé cumplimiento al porcentaje establecido en el artículo 7, párrafo tercero de la Ley.
 
 ### CAPÍTULO III. Del Personal Asimilado
 
@@ -93,19 +115,25 @@ El Personal Asimilado se integrará por los agregados civiles, militares y aére
 
 El Personal Asimilado, antes de su acreditación, deberá cumplir con los requisitos señalados en las fracciones I y III a V del artículo 32 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 6.
 
-La Secretaría estudiará las solicitudes de acreditación que le sean presentadas conforme al artículo 8 de la Ley y, de encontrarlas procedentes, gestionará la acreditación ante el gobierno receptor u organismo internacional de que se trate, en el rango diplomático o consular que determine la propia Secretaría.
+La Secretaría, a través de la Comisión de Personal, estudiará las solicitudes de acreditación que le sean presentadas conforme al artículo 8 de la Ley y, de encontrarlas procedentes, emitirá su recomendación a la Subsecretaría correspondiente para gestionar la acreditación ante el gobierno receptor u organismo internacional de que se trate, en el rango diplomático o consular que determine la propia Secretaría a través de dicha Comisión.
 
 ###### ARTÍCULO 7.
 
 La Secretaría, cuando lo considere necesario, comunicará a las dependencias o entidades de la Administración Pública Federal que hayan gestionado la acreditación del Personal Asimilado, los gastos que ocasione la comisión de dicho personal, mismos que serán con cargo al presupuesto de las propias dependencias y entidades.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 8.
 
 El Personal Asimilado, en términos del artículo 8 de la Ley, tendrá las mismas obligaciones que el Personal de Carrera, coordinará su trabajo con el Jefe o Titular de Representación y seguirá sus recomendaciones en todo lo que atañe a la política exterior y a los usos y costumbres locales en lo que se refiere a actividades de carácter público, social y protocolar, sin perjuicio de que en los aspectos técnicos se guíen por las instrucciones específicas que reciban de las dependencias o entidades de la Administración Pública Federal que hayan promovido sus nombramientos.
 
-En caso de incumplimiento de lo dispuesto en el párrafo anterior o faltas graves, la Secretaría comunicará los hechos y promoverá ante la dependencia o entidad respectiva de la Administración Pública Federal, el retiro del servidor público de que se trate para que, en su caso, se apliquen las sanciones correspondientes.
+En los casos de Personal Asimilado que incurra en irregularidades administrativas no graves, consignadas en el artículo 58 de la Ley, la Secretaría dará aviso a la dependencia o entidad respectiva de la Administración Pública Federal, e iniciará el procedimiento disciplinario correspondiente en términos de los artículos 60, 61 y 61-BIS de la Ley.
+
+En caso de incumplimiento de lo dispuesto en el primer párrafo de este artículo, o irregularidades administrativas graves, la Secretaría comunicará los hechos y promoverá ante la dependencia o entidad respectiva de la Administración Pública Federal, el retiro del servidor público de que se trate para que, en su caso, se apliquen las sanciones correspondientes.
 
 ###### ARTÍCULO 9.
 
@@ -117,11 +145,15 @@ El Personal Temporal y el Asimilado, carecen del derecho a las licencias que pre
 
 ### CAPÍTULO IV. De la Comisión de Personal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 11.
 
-La Comisión de Personal se integrará en términos del artículo 27 de la Ley; contará con cinco miembros permanentes y, cuando sea procedente, uno adicional de carácter temporal, que será el representante de alguno de los rangos de las ramas diplomático-consular y técnico-administrativa, cuando se traten asuntos específicos del personal del rango al que representa.
+La Comisión de Personal se integrará en términos del artículo 27 de la Ley; contará con siete miembros permanentes y, cuando sea procedente, uno adicional de carácter temporal, que será el representante de alguno de los rangos de las ramas diplomático-consular y técnico-administrativa, cuando se traten asuntos específicos del personal del rango al que representa.
 
-Los representantes de los distintos rangos participarán en las reuniones de la Comisión de Personal exclusivamente cuando se traten asuntos que afecten en forma específica a miembros del rango que representen. Se considerarán temas de afectación específica de los miembros del Servicio Exterior los relativos a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Se considerarán temas de afectación específica de los Miembros del Servicio Exterior los relativos a:
 
 I. Traslados;
 
@@ -163,15 +195,19 @@ Los integrantes de la Comisión de Personal y de sus subcomisiones, así como su
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO ÚNICO. De la Organización de las Representaciones de México en el Exterior
+> <small>(REFORMADA SU NUMERACIÓN, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO I. De la Organización de las Representaciones de México en el Exterior
 
 ###### ARTÍCULO 16.
 
 La Secretaría tendrá a su cargo la dirección y administración de las Representaciones, sólo a aquélla corresponderá dar o transmitir órdenes o instrucciones a éstas. Las Representaciones se comunicarán con las autoridades mexicanas a través de la Secretaría, salvo en los casos en que la misma o las normas aplicables las autoricen a gestionar directamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 17.
 
-El rango de los miembros del Servicio Exterior y la fecha de arribo a la Adscripción en cada uno de los rangos deberá invariablemente tomarse en cuenta, para efectos de precedencia dentro de las misiones diplomáticas y frente a las autoridades del país sede. La acreditación ante las autoridades respectivas, deberá ajustarse al siguiente orden de precedencias internas:
+El rango de los Miembros del Servicio Exterior y la fecha de arribo a la Adscripción en cada uno de los rangos deberá invariablemente tomarse en cuenta, para efectos de precedencia dentro de las misiones diplomáticas y frente a las autoridades del país sede. La acreditación ante las autoridades respectivas, deberá ajustarse al siguiente orden de precedencias internas:
 
 I. Embajador o Representante Permanente;
 
@@ -223,15 +259,23 @@ Las precedencias para la acreditación de los integrantes de las delegaciones me
 
 Si la delegación está encabezada por un Secretario o un Subsecretario, inmediatamente después de éste se acreditará al Jefe de Misión Diplomática en cuya Adscripción se realice el evento de que se trate.
 
-Cuando la secretaría de una delegación mexicana ante una conferencia o reunión internacional esté a cargo de un miembro de carrera del Servicio Exterior, éste tendrá la obligación de enviar a la Secretaría, dentro de los treinta días naturales de concluida la reunión, por conducto del Jefe de Misión correspondiente, los informes de la misma.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Cuando la secretaría de una delegación mexicana ante una conferencia o reunión internacional esté a cargo de un Miembro del Servicio Exterior de carrera, éste tendrá la obligación de enviar a la Secretaría, dentro de los treinta días naturales de concluida la reunión, por conducto del Jefe de Misión correspondiente, los informes de la misma.
 
 ###### ARTÍCULO 22.
 
 En las Representaciones se colocarán, en lugar visible, el escudo y bandera nacionales y la leyenda correspondiente a la Embajada, Misión Permanente o Consulado, salvo por razones de seguridad.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 23.
 
-Los Jefes o Titulares de Representaciones someterán a la aprobación de la Secretaría el horario de trabajo, tomando en consideración los usos o circunstancias de la localidad. En ningún caso el horario será menor a ocho horas diarias. Asimismo, deberá fijarse en el exterior un letrero con el horario de atención al público y otro en el interior con los derechos que causen los servicios.
+Los Jefes o Titulares de Representaciones someterán a la aprobación de la Secretaría el horario de trabajo, tomando en consideración los usos o circunstancias de la localidad. En ningún caso el horario será menor a ocho horas diarias.
+
+Los Jefes o Titulares de Representaciones podrán implementar medidas de flexibilidad laboral para favorecer la igualdad de género, fomentar la productividad, disminuir costos económicos y asegurar el cumplimiento de las atribuciones de la Secretaría.
+
+Asimismo, deberá fijarse en el exterior un letrero con el horario de atención al público y otro en el interior con los derechos que causen los servicios.
 
 ###### ARTÍCULO 24.
 
@@ -240,6 +284,10 @@ El Jefe o Titular de Representación elaborará, conforme a las disposiciones ad
 Cuando por necesidades del servicio sea necesario realizar cambios en el funcionamiento interno de una Misión Diplomática o Representación Consular, el Jefe o Titular de éstas deberá solicitar autorización a la Secretaría para realizar las modificaciones correspondientes en el manual interno de organización.
 
 El Jefe o Titular de Representación distribuirá las cargas de responsabilidades conforme a la estructura funcional que apruebe la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+El Jefe o Titular de Representación o Titular de una unidad administrativa de la Secretaría podrá, previa autorización de la Comisión de Personal, rotar internamente al personal del Servicio Exterior asignándole nuevas funciones con base en las necesidades de servicio y sus perfiles, y siempre que existan condiciones que justifiquen dicho cambio.
 
 ###### ARTÍCULO 25.
 
@@ -261,7 +309,9 @@ Los contratos no podrán exceder del 31 de diciembre de cada año, pero podrán 
 
 En igualdad de circunstancias, se dará preferencia a los nacionales mexicanos que cuenten con un estatus migratorio que les permita fungir como personal local, conforme a las leyes del Estado receptor.
 
-El personal contratado en estos términos, no pertenece ni será considerado, bajo ninguna circunstancia, miembro del Servicio Exterior o trabajador de la Secretaría.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+El personal contratado en estos términos, no pertenece ni será considerado, bajo ninguna circunstancia, Miembro del Servicio Exterior o trabajador de la Secretaría.
 
 ###### ARTÍCULO 28.
 
@@ -273,9 +323,11 @@ Los emolumentos de los empleados contratados localmente, se pactarán tomando en
 
 Los empleados contratados localmente no tendrán derecho a recibir pasajes, viáticos o gastos de instalación.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 30.
 
-Al formalizarse un cambio del Jefe o Titular de una Representación, el servidor público saliente formulará el acta de entrega correspondiente, de conformidad con la normatividad aplicable. El Jefe o Titular de Representación, tan pronto tenga conocimiento del término de su comisión en la Adscripción en que se encuentre, deberá preparar un informe amplio que compile los temas y asuntos más importantes de su gestión, los asuntos en curso y los pendientes. Dicho informe se entregará al Secretario, y se dejará una copia del mismo en la Representación que encabezó para conocimiento de su sucesor.
+Al formalizarse un cambio de Jefe o Titular de Representación, el servidor público saliente formulará el acta de entrega correspondiente, de conformidad con la normatividad aplicable. El Jefe o Titular de Representación, tan pronto tenga conocimiento del término de su comisión en la Adscripción en que se encuentre, deberá preparar un informe amplio que compile los temas y asuntos más importantes de su gestión, los asuntos en curso y los pendientes. Dicho informe se entregará al Secretario, a través de la Presidencia de la Comisión de Personal, y se dejará una copia del mismo en la Representación que encabezó para el conocimiento de su sucesor.
 
 ###### ARTÍCULO 31.
 
@@ -289,49 +341,161 @@ Las ausencias temporales de los Jefes o Titulares de Representaciones serán cub
 
 Cada Representación deberá registrar, ante los bancos que manejen sus respectivas cuentas, adicionalmente a la del titular, las firmas del segundo servidor público de la oficina y la del encargado de los asuntos administrativos, a fin de que toda operación financiera que implique la administración y aplicación de los recursos de las Representaciones cuente con al menos dos de dichas firmas.
 
-El encargado de los asuntos administrativos de la Representación deberá ser un miembro del Servicio Exterior, preferentemente Personal de Carrera.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-### CAPÍTULO I. Del Ingreso al Servicio Exterior
+El encargado de los asuntos administrativos de la Representación deberá ser un Miembro del Servicio Exterior, preferentemente Personal de Carrera.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO II. De la Coordinación de las Actividades Diplomáticas
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 BIS.- Los servidores públicos a los que se refiere el párrafo segundo del artículo 16 de la Ley, deberán remitir por medios electrónicos, ópticos o en cualquier otra tecnología, su plan de actividades diplomáticas, incluyendo su itinerario oficial, al Jefe o Titular de Representación competente en el lugar de su comisión, preferentemente previo a su arribo, a efecto de que éstos realicen las observaciones y comentarios correspondientes con la suficiente anticipación para su atención.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+## TÍTULO TERCERO BIS. Del Plan de Carrera
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 TER.- La Presidencia de la Comisión de Personal deberá someter a la consideración y aprobación del Secretario, la propuesta del Plan de Carrera referido en el Capítulo V BIS de la Ley. Una vez aprobado, el Plan de Carrera tendrá una vigencia mínima de cinco años, al término de los cuales podrá ser prorrogado por otro período igual, o bien, reformulado parcial o totalmente.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 QUÁTER.- El Plan de Carrera tiene por objeto promover el fortalecimiento y la profesionalización de los Miembros del Servicio Exterior. Para ello, el Plan de Carrera deberá:
+
+I. Contemplar estrategias y cursos de formación y capacitación que fomenten el profesionalismo y la igualdad sustantiva entre mujeres y hombres, que permitan facilitar el ascenso en los tiempos establecidos por el artículo 40-BIS de la Ley;
+
+II. Establecer las condiciones que deben cumplir los Miembros del Servicio Exterior antes de que puedan presentarse a un concurso de ascenso, y
+
+III. Establecer modalidades de reconocimiento al desempeño de los Miembros del Servicio Exterior, sin que impliquen impacto presupuestario y económico.
+
+La Comisión de Personal, a través de la Subcomisión de Análisis y Prospectiva, será la responsable de elaborar la propuesta del Plan de Carrera, y de solicitar a la Oficialía Mayor de la Secretaría, previo acuerdo del Secretario, y de conformidad con lo establecido en el artículo 9 de la Ley, la gestión ante la Secretaría de Hacienda y Crédito Público del número de plazas que permitan facilitar el ascenso en los tiempos establecidos por el artículo 40-BIS de la Ley, así como para su adecuada implementación y sujeto a disponibilidad presupuestaria. También formulará anualmente recomendaciones de mejora y/o actualizaciones a los elementos que lo componen.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 QUINQUIES.- A petición de la Subcomisión de Análisis y Prospectiva, anualmente la Presidencia de la Comisión de Personal presentará al Secretario las recomendaciones de mejora de la estrategia de formación contemplada en el Plan de Carrera.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO II. De las Comisiones Temporales
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 SEXIES.- La Secretaría podrá comisionar temporalmente a los Miembros del Servicio Exterior a otras dependencias y entidades de la Administración Pública Federal o local, u otras; a los Poderes Legislativo y Judicial, a órganos constitucionales autónomos; a instituciones de educación superior u organismos internacionales.
+
+Para tal efecto, y en los casos que estime pertinente, la Secretaría celebrará convenios bajo los siguientes criterios:
+
+I. Que el desempeño del Miembro del Servicio Exterior redunde en beneficio de la dependencia, entidad, institución u organismo en donde se lleve a cabo la Comisión;
+
+II. Que el puesto que ocupará el Miembro del Servicio Exterior responda a los objetivos de la Secretaría y de la política exterior, y favorezca el desarrollo profesional del personal diplomático que las ejerza;
+
+III. Que las funciones a desempeñar tengan relación con las Actividades Diplomáticas de México y promuevan la articulación de dichas actividades desplegadas por las instituciones públicas señaladas en el primer párrafo del presente artículo, y
+
+IV. Que se asegure una remuneración correspondiente al puesto que ocupe y al nivel de experiencia del personal, así como una temporalidad de al menos un año.
+
+La Secretaría también podrá comisionar al Miembro del Servicio Exterior con su propia plaza de acuerdo con el nivel de responsabilidad del encargo a desempeñar.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 SEPTIES.- Las comisiones temporales a que se refiere el artículo 18 de la Ley se autorizarán hasta por un término de tres años. Dicha comisión podrá renovarse hasta por otros tres años si persiste el interés y utilidad para la Secretaría. La Comisión de Personal analizará previamente cada caso que se presente, a fin de determinar la utilidad de la comisión, el perfil idóneo de la persona que se propone sea comisionada, las posibles aportaciones y, en su caso, la viabilidad de la misma, a efecto de emitir su recomendación al Secretario.
+
+Para determinar el perfil idóneo al que se refiere el párrafo anterior, la Comisión de Personal tomará como elementos base para su análisis, el perfil del puesto en el que se propone sea comisionado el interesado, en concordancia con el o los perfiles de los cargos que ha ocupado el mismo, su experiencia laboral, así como su progreso en el Plan de Carrera y las posibles aportaciones que realizará a favor de la Secretaría al finalizar el término que haya sido autorizado.
+
+En los casos de comisiones a instituciones de educación superior, éstas podrán concederse para la realización de actividades académicas o directivas. Las comisiones para la realización de estudios podrán otorgarse cuando sean de utilidad para la Secretaría de conformidad con los convenios que para tales efectos ésta celebre con las instituciones correspondientes.
+
+Cada autorización especificará claramente el lugar, el cargo a ocupar y las fechas de inicio y término para los efectos administrativos a que haya lugar.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 OCTIES.- Los términos y condiciones de las comisiones no podrán modificarse sino mediante autorización de la Comisión de Personal.
+
+Los Miembros del Servicio Exterior de carrera que se encuentren en comisión, conservarán su rango, pero no gozarán de sueldo ni prestaciones de la Secretaría, salvo en aquellos casos en que persista el interés de ésta en una determinada comisión y la organización destino no cuente con presupuesto para cubrir la remuneración y prestaciones del personal comisionado, y siempre y cuando el movimiento se lleve a cabo en términos de la normativa aplicable en materia presupuestaria.
+
+Las comisiones sólo podrán unirse a algún tipo de licencia cuando la Comisión de Personal determine que las razones para hacerlo son de beneficio o utilidad para la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 NONIES.- La Comisión de Personal, por necesidades del Servicio, podrá revocar las comisiones, mediante notificación al interesado con tres meses de antelación, previo dictamen que emita la misma, y si así lo acuerda el Secretario.
+
+Al término de su comisión o cuando la misma le haya sido revocada, el Miembro del Servicio Exterior deberá presentar a la Comisión de Personal un informe por escrito sobre las labores realizadas, los logros alcanzados y propuestas para el fortalecimiento de la diplomacia mexicana.
+
+Asimismo, el Miembro del Servicio Exterior deberá reanudar labores, para lo cual se presentará en la Dirección General, dentro del plazo establecido en el artículo 117 del Reglamento, a fin de que la Secretaría le reconozca su rango y le indique las funciones a desempeñar.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 DECIES.- El personal comisionado, de acuerdo con el artículo 18 de la Ley, podrá presentarse a los concursos de ascenso, siempre y cuando cumpla con los requisitos que para tal efecto señalan la Ley y el Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO III. Del Desempeño de los Miembros del Servicio Exterior
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 UNDECIES.- El desempeño de los Miembros del Servicio Exterior será evaluado cada año con fines de mejora continua y de desarrollo profesional orientado a la consecución de los objetivos de política exterior. Las evaluaciones deberán contemplar mecanismos de retroalimentación y deberán elaborarse bajo los principios de corresponsabilidad, transparencia y rendición de cuentas. El modelo de evaluación estará basado en el mérito y en el desarrollo de habilidades y competencias. Dicho modelo tendrá una vigencia de cinco años al término de los cuales podrá ser prorrogado por otro período igual, o bien, reformulado parcial o totalmente. La Comisión de Personal elaborará la metodología de evaluación de desempeño de los Miembros del Servicio Exterior, la cual podrá ser revisada y ajustada anualmente. Tanto el modelo de evaluación de desempeño como su metodología forman parte integral del Plan de Carrera.
+
+Los resultados de las evaluaciones de desempeño podrán utilizarse para ajustar los criterios de formación de personal y el Plan de Carrera, así como los criterios de traslados y de ascensos.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 DUODECIES.- Las evaluaciones de desempeño medirán el grado de avance en el desarrollo profesional de los Miembros del Servicio Exterior, y podrán ser satisfactorias o insatisfactorias, de acuerdo con lo establecido por la metodología de evaluación de desempeño vigente.
+
+Para los efectos del artículo 40-BIS, segundo párrafo de la Ley, la Subcomisión de Evaluación recomendará a la Comisión de Personal la baja definitiva del Miembro del Servicio Exterior cuando la persona obtenga en tres ocasiones consecutivas una calificación insatisfactoria.
+
+Se otorgará la calificación de insatisfactoria a las evaluaciones de desempeño en las que consten dos o más sanciones administrativas en los términos de las fracciones II y III del artículo 57 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 TERDECIES.- En el caso de los Primeros Secretarios, la aprobación de los exámenes de ascenso al rango de Consejero formarán parte de las metas de desarrollo profesional, por lo que serán insatisfactorias las evaluaciones de desempeño de quienes no logren aprobar dichos exámenes en el tercer intento, de conformidad con el artículo 40 de la Ley.
 
 ## TÍTULO CUARTO. Del Ingreso, Escalafón, Antigüedad y Ascensos
 
-### CAPÍTULO II. Del Escalafón y Antigüedad
+### CAPÍTULO I. Del Ingreso al Servicio Exterior
 
-### CAPÍTULO III. De los Ascensos
-
-### CAPÍTULO IV. De la Evaluación Quinquenal
-
-## TÍTULO QUINTO
-
-### CAPÍTULO ÚNICO. De las Obligaciones de los Miembros del Servicio Exterior
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 34.
 
-El Secretario expedirá, previa recomendación de la Comisión de Personal, la convocatoria correspondiente para el concurso público de ingreso al Servicio Exterior en la rama diplomático-consular, de conformidad con lo dispuesto por los artículos 28 y 29 de la Ley. Cuando existan necesidades específicas en el Servicio Exterior, conforme lo determine la Comisión de Personal, los concursos de ingreso podrán orientarse a buscar perfiles especializados en materias o campos de interés para la Secretaría.
+El Secretario expedirá, previa recomendación de la Comisión de Personal, la convocatoria correspondiente para los concursos públicos de ingreso al Servicio Exterior en las ramas diplomático-consular y técnico-administrativa, de conformidad con lo dispuesto por los artículos 28, 31, 32 y 33 de la Ley. Cuando existan necesidades específicas en el Servicio Exterior, conforme lo determine la Comisión de Personal, los concursos de ingreso podrán orientarse a buscar perfiles especializados en materias o campos de interés para la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 35.
 
-La convocatoria deberá contener el texto de los artículos 28, 31 y 32 de la Ley, será publicada en el Diario Oficial de la Federación al menos noventa días antes de la celebración de la primera etapa del concurso, debiendo darle publicidad en los medios electrónicos institucionales y adicionalmente, en otros medios de difusión que garanticen su conocimiento por la población en general.
+La convocatoria deberá contener el texto de los artículos 28, 31, 32 y 33 de la Ley, será publicada en el Diario Oficial de la Federación al menos noventa días antes de la celebración de la primera etapa del concurso, debiendo darle publicidad en los medios electrónicos institucionales y, adicionalmente, en otros medios de difusión que garanticen su conocimiento por la población en general.
+
+La convocatoria deberá indicar, además, el número de vacantes de agregado diplomático y agregado administrativo “D” que podrán ser cubiertas, así como las características de los exámenes, entrevistas, cursos y experiencia práctica, previstas en el artículo 28 de la Ley.
+
+La convocatoria podrá promover medidas afirmativas con miras a lograr la paridad de género y de oportunidades entre mujeres y hombres que ingresen al Servicio Exterior.
 
 La realización de los concursos estará sujeta a la disponibilidad de plazas vacantes.
 
-La convocatoria deberá indicar, además, el número de vacantes de agregado diplomático que podrán ser cubiertas, así como las características de los exámenes, entrevistas, cursos y prácticas previstas en el artículo 28 de la Ley.
-
 La Subcomisión de Ingreso quedará facultada para desarrollar el concurso de ingreso en los términos de la convocatoria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 36.
 
-La Subcomisión de Ingreso contará con un grupo de apoyo, cuyos integrantes actuarán en calidad de jurados, para asistirla en la revisión y calificación de los exámenes y serán seleccionados por unanimidad de sus integrantes. Podrán ser seleccionados como jurado miembros del Servicio Exterior con rango de consejero, ministro o embajador; servidores públicos de la Secretaría con nivel mínimo de Director General Adjunto; académicos de reconocido prestigio y personalidades de la sociedad civil.
+La Subcomisión de Ingreso contará con un grupo de apoyo, cuyos integrantes actuarán en calidad de jurados, para asistirla en la revisión y calificación de los exámenes y serán seleccionados por unanimidad de sus integrantes. Podrán ser seleccionados como jurado Miembros del Servicio Exterior con rango de consejero, ministro o embajador; servidores públicos de la Secretaría con nivel mínimo de Director General Adjunto o equivalente; académicos de reconocido prestigio y personalidades de la sociedad civil.
 
 La Subcomisión de Ingreso sesionará cuantas veces sea necesario, desde su instalación hasta que se otorgue el nombramiento de agregado diplomático a quienes aprueben las etapas a que se refiere la Ley.
 
 La Secretaría podrá cubrir los gastos de viaje y estancia de los miembros de la Subcomisión de Ingreso y jurados seleccionados por ésta, que provengan de fuera de la zona metropolitana de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 37.
 
-El procedimiento de ingreso a que se refiere el artículo 28 de la Ley se regirá por los siguientes principios:
+El procedimiento de ingreso a que se refiere el artículo 28 de la Ley comprenderá los siguientes elementos:
 
-I. El examen de cultura general, así como los temas de ensayo, serán elaborados por el Instituto Matías Romero y deberán aplicarse, siguiendo un método que garantice el anonimato del sustentante;
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+I. El examen de cultura general para la rama diplomático-consular, así como el de conocimientos generales para la rama técnico-administrativa, y los temas de ensayo serán elaborados por el Instituto Matías Romero y deberán aplicarse siguiendo un método que garantice el anonimato del sustentante;
 
 II. El examen de español deberá ser diseñado y practicado por una institución educativa que cuente con autorización o con reconocimiento de validez oficial de estudios en los términos previstos en la Ley General de Educación;
 
@@ -345,53 +509,91 @@ Los exámenes médicos deberán ser practicados por un establecimiento de salud 
 
 Los exámenes psicológicos deberán ser practicados por una institución educativa o empresa especialista en la materia, que cuente con el reconocimiento de validez oficial, y
 
-VI. Los cursos especializados en el Instituto Matías Romero deberán poner énfasis en la preparación práctica para el mejor desempeño de las funciones diplomática y consular. El periodo de entrenamiento y experiencia en la Secretaría deberá garantizar la adquisición de conocimientos mínimos para el desempeño de las labores diplomáticas y consulares en el exterior.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+VI. Los cursos especializados en el Instituto Matías Romero tendrán el objetivo de desarrollar los conocimientos, habilidades y aptitudes necesarias para el mejor desempeño de las funciones que realizará el personal de cada rama, incluyendo el conocimiento de la normatividad aplicable, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+VII. El periodo de experiencia práctica en la Secretaría deberá orientarse a familiarizar a los aspirantes con los procesos y métodos de trabajo, así como a observar las conductas del aspirante para constatar que éstas son adecuadas para el mejor desempeño en el ámbito diplomático.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 38.
 
-La Comisión de Personal, en coordinación con la Dirección General, y a través de la Subcomisión de Ingreso, organizará los concursos y exámenes públicos de ingreso a la rama técnico-administrativa, en términos de lo dispuesto por el artículo 33 de la Ley.
+Las personas que integren la rama técnico-administrativa podrán aspirar a ser parte de la rama diplomático-consular, mediante la participación en el concurso de ingreso a dicha rama, de acuerdo a lo establecido en los artículos 27-TER, 27-QUÁTER y 28 de la Ley, así como a la convocatoria correspondiente.
 
 ###### ARTÍCULO 39.
 
-El Secretario, previa recomendación de la Comisión de Personal, expedirá la convocatoria al concurso público de ingreso al Servicio Exterior en la rama técnico-administrativa, la cual se publicará en el Diario Oficial de la Federación y en los medios electrónicos institucionales.
+(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2018)
 
-En la convocatoria se deberá transcribir el artículo 33 de la Ley, el número de plazas que se concursan y las características de los exámenes.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 40.
 
-El ingreso lateral, entendido éste como la observancia y aplicación del artículo 34 de la Ley, se hará a través de concursos que serán anunciados, cuando resulte posible su realización, en la misma fecha que el Concurso General de Ingreso a que se refiere el artículo 28 de la Ley y se desarrollarán en los siguientes términos:
+El ingreso lateral, entendido éste como la observancia y aplicación del artículo 34 de la Ley, se hará a través de concursos que serán anunciados, cuando resulte posible su realización, en la misma fecha que el concurso general de ingreso a que se refiere el artículo 28 de la Ley y se desarrollarán en los siguientes términos:
 
-I. Los aspirantes deberán inscribirse al Concurso General de Ingreso, señalando su intención de participar en el Concurso de Ingreso por artículo 34 de la Ley y el rango al que aspiran; quienes así se inscriban, participarán únicamente en las etapas que señala dicho artículo;
+I. Los aspirantes deberán inscribirse al concurso general de ingreso, señalando su intención de participar en el concurso de ingreso por artículo 34 de la Ley y participarán únicamente en las etapas que señala dicho artículo;
 
-II. En caso de aprobar las etapas correspondientes del Concurso General de Ingreso, deberán inscribirse al concurso de ascensos inmediatamente posterior al del citado ingreso en que participaron, para concursar por una plaza al rango al que aspiraron, señalando que su participación se fundamenta en el artículo 34 de la Ley;
+II. Los participantes en los concursos por artículo 34 de la Ley deberán presentar a la Subcomisión de Evaluación, informes de desempeño elaborados por quien o quienes hayan fungido como sus superiores jerárquicos durante los últimos dos años. Dichos informes deberán reflejar criterios iguales o similares a los aplicados al Personal de Carrera en la evaluación de sus expedientes;
 
-III. Los participantes en los concursos de ascenso por artículo 34 de la Ley deberán presentar a la Subcomisión de Evaluación, informes de desempeño elaborados por quien o quienes hayan fungido como sus superiores jerárquicos durante los últimos dos años. Dichos informes deberán reflejar criterios iguales o similares a los aplicados al Personal de Carrera en la evaluación de sus expedientes, y
+III. Las examinaciones a que se refiere el segundo párrafo del artículo 34 de la Ley podrán consistir en aquellas que se apliquen en el concurso de ascenso para el rango de Consejeros, así como una o más de las siguientes:
 
-IV. Los participantes serán seleccionados con base en los resultados que obtengan en los exámenes de ascenso a que se refiere el artículo 49 de este Reglamento. En igualdad de circunstancias, la mayor antigüedad en la Secretaría será definitoria.
+a) Exámenes de control de confianza;
 
-Dentro de un término que no excederá de seis meses, quienes ingresen al Servicio Exterior al rango de consejero, y una vez que reciban su nombramiento, serán comisionados a una Adscripción de tipo consular, si no demuestran haberla cubierto con anterioridad en los términos de la Ley y de este Reglamento.
+b) Examen sobre el conocimiento de la normatividad aplicable a la labor diplomática;
 
-Para los efectos de la Ley y de este Reglamento, el cumplimiento del requisito de tipo consular deberá tener una duración mínima de un año.
+c) Examen de idioma inglés oral y escrito a nivel avanzado;
 
-No podrán participar en concursos de ingreso lateral, quienes sean o hayan sido miembros del Servicio Exterior de carrera en la rama diplomático-consular durante los cinco años anteriores a la fecha de realización del concurso al que pretendan presentarse.
+d) Evaluación sobre conocimientos y competencias para la promoción de la igualdad de género, y
+
+e) Revisión de su expediente para confirmar que hayan presentado la totalidad de sus declaraciones de situación patrimonial, de interés y fiscal, y que no se encuentren inhabilitados para desempeñarse en el sector público, y
+
+IV. La Subcomisión de ingreso podrá establecer medidas afirmativas para promover la paridad de género en los ingresos laterales.
+
+Dentro de un término que no excederá de seis meses, quienes ingresen al Servicio Exterior al rango de consejero, y una vez que reciban su nombramiento, serán comisionados a una Adscripción de tipo consular.
+
+No podrán participar en concursos de ingreso lateral, quienes sean o hayan sido Miembros del Servicio Exterior de carrera en ambas ramas durante los cinco años anteriores a la fecha de realización del concurso al que pretendan presentarse.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 40 BIS.- La antigüedad de los dieciséis años a los que se refiere el artículo 34 de la Ley, se acreditará con cualquiera de los siguientes documentos:
+
+I. Constancia emitida por la Dirección General, en la que consten los dieciséis años de servicio en los supuestos del artículo 34 de la Ley, o
+
+II. Hoja Única de Servicios o constancia emitida por una dependencia o entidad de la Administración Pública Federal en la que conste la fecha de inicio de su trabajo como servidor público y que, a la fecha de la presentación, sume al menos dieciséis años de servicio en el ámbito de las actividades diplomáticas.
 
 ###### ARTÍCULO 41.
 
 Quienes conforme a la Ley y al presente Reglamento ingresen al Servicio Exterior de carrera deberán rendir protesta de lealtad y servicio ante el Secretario, así como conducir su actuación con apego a la legalidad, honradez, imparcialidad y eficiencia.
 
-### CAPÍTULO I. De las Funciones Consulares
+### CAPÍTULO II. Del Escalafón y Antigüedad
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 42.
 
 La Comisión de Personal expedirá y difundirá cada año el escalafón del Servicio Exterior de carrera, el cual se mantendrá actualizado por la propia Secretaría y se integrará por dos secciones: la de la rama diplomático-consular y la de la rama técnico-administrativa.
 
-En cada sección del escalafón figurarán, por orden de rango y antigüedad relativa, los nombres del personal de cada una de las ramas del Servicio Exterior que se encuentren en activo, el lugar y fecha de su nacimiento, su antigüedad absoluta, Adscripción en que se encuentren, las Adscripciones anteriores y los cargos desempeñados en la Secretaría y en el Servicio Exterior, así como los estudios superiores realizados, títulos académicos obtenidos, e idiomas que tengan acreditados. Igualmente, se consignará el número de dependientes económicos de cada miembro del Servicio Exterior.
+En cada sección del escalafón figurarán, por orden de rango y antigüedad relativa, los nombres del personal de cada una de las ramas del Servicio Exterior que se encuentren en activo, el lugar y fecha de su nacimiento, su antigüedad absoluta, Adscripción en que se encuentren, las Adscripciones anteriores y los cargos desempeñados en la Secretaría y en el Servicio Exterior, así como los estudios superiores realizados, títulos académicos obtenidos, e idiomas que tengan acreditados. Igualmente, se consignará el número de dependientes económicos de cada Miembro del Servicio Exterior.
 
-En el escalafón aparecerán también los embajadores eminentes y eméritos, los servidores públicos de la rama diplomático-consular que de conformidad con el artículo 18 de la Ley se encuentren comisionados fuera de la Secretaría y aquellos miembros del Personal de Carrera que se encuentren en licencias o disponibilidad señaladas en los artículos 50 y 52 de la Ley.
+Cuando un Miembro del Servicio Exterior realice dos o más funciones distintas en una misma Adscripción, dicha información deberá constar en su ficha del escalafón, incluyendo las fechas de inicio y término de cada uno, con objeto de reflejar con claridad su trayectoria profesional, perfil y experiencia.
+
+El escalafón también se integrará, bajo un criterio de corresponsabilidad, con elementos aportados por los Miembros del Servicio Exterior y los generados por la Secretaría como producto de sus procesos de evaluación.
+
+Para ello, cada Miembro del Servicio Exterior tendrá acceso a su ficha en el escalafón y podrá incorporar en ella la información que acredite los elementos que la Comisión de Personal determine en su momento como parte de la evaluación de desempeño. Esta información será validada periódicamente por la Comisión de Personal con el apoyo de la Dirección General y del Instituto Matías Romero.
+
+La Comisión de Personal podrá apoyarse en cualquier formato electrónico para integrar la base de datos que soporte el escalafón de los Miembros del Servicio Exterior. La información en él contenida podrá servir adicionalmente para facilitar el proceso de adscripción en Representaciones de Miembros del Servicio Exterior; para suministrar elementos adicionales de juicio a la Subcomisión de Evaluación durante los concursos de ascenso de rangos; para determinar el grado de avance del proceso de formación establecido en el Plan de Carrera, y como fuente de información para elaborar estadísticas sobre distintos aspectos del Servicio Exterior.
+
+El escalafón será de libre acceso para los Miembros del Servicio Exterior. La Dirección General elaborará y difundirá una versión pública, observando las disposiciones en materia de transparencia y resguardo de datos personales. La versión pública podrá contener un anexo relativo al Personal Temporal.
+
+En el escalafón aparecerán también los embajadores eminentes y eméritos, los servidores públicos de la rama diplomático-consular que de conformidad con el artículo 18 de la Ley se encuentren comisionados fuera de la Secretaría y aquellos Miembros del Servicio Exterior de carrera que se encuentren en licencia o disponibilidad señaladas en los artículos 50 y 52 de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 43.
 
-La antigüedad de los miembros del Personal de Carrera se computará de la siguiente manera:
+La antigüedad de los Miembros del Servicio Exterior de carrera se computará de la siguiente manera:
 
 I. Antigüedad absoluta: por el tiempo de servicios prestados a partir de la fecha en que obtuvo su primer nombramiento en la Secretaría o en el Servicio Exterior, descontados los periodos que estuvo fuera de la misma, salvo aquéllos que expresamente señala la Ley para efectos de cómputo de antigüedad, y
 
@@ -399,35 +601,47 @@ II. Antigüedad relativa: por el tiempo de servicios prestados a partir de la fe
 
 Para los efectos de este artículo cuando las licencias se hayan otorgado por enfermedad o para fines que resulten benéficos y de utilidad para la Secretaría, a juicio de la Comisión de Personal, no se descontarán de la antigüedad absoluta ni relativa.
 
-### CAPÍTULO II. De los Servicios Consulares
+### CAPÍTULO III. De los Ascensos
 
 ###### ARTÍCULO 44.
 
 Los ascensos del Personal de Carrera en la rama diplomático-consular hasta ministro, a que se refiere el artículo 37 de la Ley, serán siempre al rango inmediato superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 45.
 
-El Secretario, por recomendación de la Comisión de Personal, convocará a concursos de ascenso a los rangos de ministro, consejero, primer secretario y segundo secretario en la rama diplomático-consular, y a los de coordinador administrativo y agregado administrativo “C” en la rama técnico-administrativa, de conformidad con los artículos 34, 37 y 38 de la Ley. La Secretaría convocará a concursos por lo menos cada dos años.
+El Secretario, por recomendación de la Comisión de Personal, convocará a concursos de ascenso a los rangos de Ministro, Consejero, Primer Secretario y Segundo Secretario en la rama diplomático-consular, y al de coordinador administrativo en la rama técnico-administrativa, de conformidad con los artículos 34, 37 y 38 de la Ley. La Secretaría convocará a concursos por lo menos cada dos años.
 
 La realización de los concursos estará sujeta a la disponibilidad de plazas vacantes.
 
-La convocatoria se ajustará a las disposiciones de la Ley y el presente Reglamento y señalará el número de plazas a ser concursadas en cada rango. La convocatoria será publicada en el Diario Oficial de la Federación y circulada a todas las unidades administrativas de la Secretaría y a las Representaciones, así como en los medios electrónicos institucionales. La Subcomisión de Evaluación quedará facultada para desarrollar los concursos en los términos de la convocatoria.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+La convocatoria se ajustará a las disposiciones de la Ley y el Reglamento y señalará el número de plazas a ser concursadas en cada rango. La convocatoria será publicada en el Diario Oficial de la Federación y circulada a todas las unidades administrativas de la Secretaría y a las Representaciones, así como en los medios electrónicos institucionales. La Subcomisión de Evaluación quedará facultada para desarrollar los concursos en los términos de la convocatoria.
 
 ###### ARTÍCULO 46.
 
 Los concursos de ascenso se realizarán de conformidad con el artículo 37 de la Ley, en dos etapas:
 
-I. Evaluación del expediente para determinar el mérito y la eficiencia en el desempeño del cargo, y
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-II. Exámenes escritos y orales para determinar que se cuenta con los conocimientos y la capacidad para asumir mayores responsabilidades.
+I. Evaluación del expediente para determinar el mérito y la eficiencia en el desempeño del cargo, así como el potencial de desarrollo y capacidad para asumir mayores responsabilidades, y
+
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+II. Exámenes escritos y orales para corroborar que se cuenta con los conocimientos y la capacidad para asumir las responsabilidades del rango al que aspira.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 47.
 
-Cada miembro de carrera del Servicio Exterior, que haya cumplido con los requisitos del artículo 38 de la Ley, deberá notificar al Presidente de la Subcomisión de Evaluación, la decisión que tome respecto de su participación en el concurso de ascenso dentro de los quince días naturales siguientes a la publicación de la convocatoria.
+Cada Miembro del Servicio Exterior de carrera que haya cumplido con los requisitos del artículo 38 de la Ley y cumpla con lo establecido en el Plan de Carrera para poderse presentar a un concurso de ascenso, de conformidad con el artículo 33 Quáter del Reglamento, deberá notificar al Presidente de la Comisión de Personal la decisión que tome respecto de su participación en el concurso de ascenso dentro de los quince días naturales siguientes a la publicación de la convocatoria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 48.
 
-Los miembros de la rama diplomático-consular, para los efectos de la Ley y de este Reglamento, deberán cumplir una duración mínima de un año en una Adscripción de tipo consular, para poder ascender al rango de consejero.
+Los miembros de la rama diplomático-consular, para los efectos de la Ley y del Reglamento, deberán cumplir una duración mínima de dos años en una adscripción de tipo consular, para poder ascender al rango de Consejero.
 
 Se entenderá por Adscripción de tipo consular exclusivamente a:
 
@@ -439,65 +653,59 @@ III. Una Agencia Consular;
 
 IV. Una Sección Consular;
 
-V. La Dirección General de la Secretaría encargada de los Asuntos Consulares;
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-VI. La Dirección General encargada de coordinar a las delegaciones foráneas y metropolitanas de la Secretaría, así como dichas delegaciones;
+V. La Dirección General de la Secretaría encargada de coordinar y normar las labores en materia de prestación de servicios consulares;
 
-VII. La Dirección General encargada de la Protección de los Mexicanos en el Exterior;
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-VIII. El Instituto de los Mexicanos en el Exterior;
+VI. La Dirección General encargada de coordinar a las delegaciones y subdelegaciones de la Secretaría, así como dichas delegaciones;
 
-IX. Las unidades administrativas de la Secretaría donde se realicen funciones consulares de conformidad con el Reglamento Interior, mediante validación de la Subcomisión de Evaluación respecto de tales funciones, y
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+VII. La Dirección General encargada de la Protección de los Mexicanos en el Exterior, y
+
+VIII. (DEROGADA, D.O.F. 2 DE NOVIEMBRE DE 2018)
+
+IX. (DEROGADA, D.O.F. 2 DE NOVIEMBRE DE 2018)
 
 X. Las oficinas de enlace en las que se realicen funciones consulares.
 
-Se considera que también se encuentran en una Adscripción de tipo consular, los servidores públicos encargados de supervisar las Secciones Consulares, Misiones Diplomáticas y autorizados para realizar funciones consulares, de conformidad con la estructura funcional y el manual interno de organización de la Representación.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-Por oficinas de enlace, para efectos de lo previsto en la fracción X de este artículo, se entenderán aquéllas que se encuentran a cargo de un miembro del Servicio Exterior que depende de una Representación Diplomática y que realiza funciones de enlace con autoridades locales u organismos internacionales en su sede.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Por oficinas de enlace, para efectos de lo previsto en la fracción X de este artículo, se entenderán aquéllas que se encuentran a cargo de un Miembro del Servicio Exterior que depende de una Representación Diplomática y que realiza funciones de enlace con autoridades locales u organismos internacionales en su sede.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 49.
 
-La Subcomisión de Evaluación, para los efectos del artículo 37 de la Ley, elaborará y dará a conocer la tabla de puntuación preliminar del expediente de los concursantes, computada a partir de su último ascenso, cuando menos treinta días naturales antes de la celebración de los exámenes; tabla que deberá sujetarse a lo siguiente:
+Los concursos de ascenso a los que se refiere el artículo 37 de la Ley serán organizados por la Comisión de Personal, a través de la Subcomisión de Evaluación, bajo criterios de objetividad, legalidad y equidad que determine la propia Comisión.
 
-I. El expediente podrá alcanzar un valor máximo de 100 puntos y comprenderá los siguientes aspectos y valores:
+La Subcomisión de Evaluación definirá la ponderación y valoraciones que se otorgarán a cada uno de los componentes de los concursos de ascenso, de conformidad con lo que establezca el Plan de Carrera.
 
-a) Las evaluaciones de desempeño hasta 40 puntos;
+La Subcomisión de Evaluación publicará los resultados de la evaluación del expediente de cada participante y podrán ser sometidos a revisión si, dentro del término de siete días naturales posteriores a su publicación, se formula petición escrita al Presidente de la Subcomisión de Evaluación. La Subcomisión analizará las solicitudes de revisión y resolverá en definitiva, publicando las calificaciones del expediente de los concursantes dentro de los treinta días naturales siguientes al cierre del período de recepción de solicitudes de revisión.
 
-b) Adscripciones y comisiones hasta 30 puntos, calificándose el tipo de Adscripción y el nivel de responsabilidad;
-
-c) Antigüedad absoluta y relativa, hasta 10 puntos cada una, y
-
-d) Preparación académica y aprendizaje de idiomas hasta 10 puntos.
-
-Las evaluaciones de desempeño a que se refiere el inciso a) de la presente fracción, serán realizadas por la Subcomisión de Evaluación sobre la base de los criterios y mecanismos adoptados de conformidad con el artículo 71 de este Reglamento.
-
-Las notas laudatorias por servicios que a juicio de la Subcomisión de Evaluación sean considerados extraordinarios por ir más allá de las obligaciones que impone la Ley, así como las obras o trabajos publicados, que consten en el expediente del interesado con posterioridad al último ascenso, se evaluarán dentro del inciso a) de esta fracción;
-
-II. La Subcomisión de Evaluación podrá allegarse de elementos de prueba adicionales a los que obren en el expediente del concursante, para corroborar la información contenida en las evaluaciones de desempeño y la auto-evaluación a que se refiere el artículo 71 del presente Reglamento, a fin de determinar el valor definitivo del expediente, y
-
-III. La Subcomisión de Evaluación publicará la puntuación que resulte de la evaluación del expediente de cada participante y podrá ser sometida a revisión sí, dentro del término de siete días naturales posteriores a su publicación, se formula petición escrita al Presidente de la Subcomisión de Evaluación. La Subcomisión analizará las solicitudes de revisión y resolverá en definitiva, publicando las calificaciones del expediente de los concursantes dentro de los treinta días naturales siguientes al cierre del período de recepción de solicitudes de revisión.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 50.
 
-Los exámenes escritos y orales de los concursos de ascenso en la rama diplomático-consular se llevarán a cabo bajo los siguientes criterios:
+Los exámenes escritos y orales de los concursos de ascenso en la rama diplomático-consular se llevarán a cabo observando los siguientes procedimientos:
 
-I. El Instituto Matías Romero elaborará los exámenes a ser aplicados en cada concurso, conforme a los lineamientos adoptados por la Subcomisión de Evaluación con base en las prioridades de política exterior. Los exámenes elaborados serán aprobados por la Subcomisión de Evaluación antes de su aplicación.
+I. El Instituto Matías Romero elaborará los exámenes que serán aplicados en cada concurso, conforme a los lineamientos adoptados por la Subcomisión de Evaluación con base en las prioridades de política exterior. Los exámenes elaborados serán aprobados por la Subcomisión de Evaluación antes de su aplicación.
 
 Los lineamientos para el desarrollo de los exámenes serán dados a conocer con al menos un mes de anticipación a la realización de éstos y deberán tener en cuenta que se lleven a cabo en igualdad de condiciones;
 
-II. Los exámenes tendrán por objeto determinar que el concursante cuenta con los conocimientos y la capacidad para asumir mayores responsabilidades. En los exámenes, los concursantes también podrán ser evaluados sobre habilidades gerenciales y de liderazgo, en función del rango al que se aspire;
+II. Los exámenes se podrán realizar de manera presencial en la Ciudad de México, o de manera virtual, si la Subcomisión de Evaluación lo aprueba. Dicha Subcomisión estará facultada para aplicar modalidades especiales a concursantes con alguna discapacidad, o bien, a mujeres que se encuentren en el último trimestre de su embarazo, disfrutando de licencia de maternidad o impedidas para viajar en razón de dicho embarazo o maternidad, o a hombres que cuenten con licencia de paternidad;
 
-III. Los exámenes se realizarán de manera presencial en la Ciudad de México. La Subcomisión de Evaluación estará facultada para aplicar modalidades especiales a concursantes con alguna discapacidad o bien a mujeres que se encuentren en el último trimestre de su embarazo, disfrutando de licencia de maternidad o impedidas para viajar en razón de su embarazo o maternidad;
+III. El Secretario designará para cada rango un jurado compuesto de tres personas.
 
-IV. Los exámenes se calificarán como aprobados o no aprobados. Una vez que un miembro del Personal de Carrera apruebe los exámenes para el rango al que aspira no será necesario presentarlos nuevamente en posteriores concursos;
+Para los rangos de Terceros y Segundos Secretarios, el jurado consistirá en un Miembro del Servicio Exterior en activo o en retiro con rango mínimo de Consejero; un investigador proveniente de instituciones académicas de reconocido prestigio, y un servidor público de la Secretaría con cargo superior o igual al evaluado. Se podrá invitar a un experto en recursos humanos, psicología laboral u organizacional con voz pero sin voto, cuyas percepciones y preguntas permitan a los integrantes del jurado aproximarse a las aptitudes psicológicas del aspirante.
 
-V. El Secretario designará para cada rango un jurado compuesto de tres personas: un miembro del Servicio Exterior en activo o en retiro que deberá tener un rango superior al evaluado; un servidor público de la Secretaría, que podrá ser miembro del Servicio Exterior, o de otra dependencia del Gobierno Federal con cargo superior o igual al evaluado; y un tercero proveniente de instituciones académicas de reconocido prestigio. En todos los rangos el presidente del jurado deberá ser un embajador de carrera;
+Para los rangos de Agregado Administrativo “A”, Primer Secretario y Consejeros, el jurado consistirá en un Embajador de carrera; un investigador proveniente de instituciones académicas de reconocido prestigio, y un experto en recursos humanos, psicología laboral u organizacional. Se podrá invitar a un representante de nivel directivo del sector privado o de la sociedad civil organizada, con voz pero sin voto, cuyas percepciones y preguntas permitan a los integrantes del jurado aproximarse a las aptitudes de liderazgo organizacional del aspirante, y
 
-VI. El Instituto Matías Romero, impartirá cursos y elaborará guías de estudio para la realización de los exámenes;
-
-VII. Se considerará que han aprobado la etapa de exámenes del rango de primer secretario al de consejero, los miembros del Servicio Exterior que aprueben el examen de media carrera al que se refiere el artículo 38 de la Ley y el artículo 52 de este Reglamento, y
-
-VIII. Al término de los exámenes, la Subcomisión de Evaluación entregará la calificación de los mismos a la Comisión de Personal para que la Dirección General publique los resultados y otorgue la constancia aprobatoria de ser el caso.
+IV. Al término de los exámenes, la Subcomisión de Evaluación entregará la calificación de los mismos a la Comisión de Personal para que la Dirección General publique los resultados y otorgue la constancia aprobatoria de ser el caso.
 
 ###### ARTÍCULO 51.
 
@@ -505,7 +713,9 @@ Los ascensos del Personal de Carrera de la rama diplomático-consular serán aco
 
 Para ese efecto, la Subcomisión de Evaluación revisará los expedientes de los concursantes que hayan aprobado los exámenes y someterá a consideración del Secretario, por conducto de la Comisión de Personal, la lista en orden de prelación de los concursantes que en cada uno de los rangos hayan obtenido las más altas calificaciones de expediente en el número determinado de plazas concursadas.
 
-Los miembros del Servicio Exterior ascenderán al rango inmediato superior en cuanto las plazas concursadas se encuentren vacantes siguiendo el orden de la lista, la cual se publicará preferentemente en medios electrónicos y se pondrá a disposición de los miembros del Servicio Exterior por parte de la Dirección General.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Los Miembros del Servicio Exterior ascenderán al rango inmediato superior en cuanto las plazas concursadas se encuentren vacantes siguiendo el orden de la lista, la cual se publicará preferentemente en medios electrónicos y se pondrá a disposición de los Miembros del Servicio Exterior por parte de la Dirección General.
 
 Los resultados de los concursos de ascenso serán inapelables. En los casos en que dos o más concursantes obtengan calificación de expediente idéntica y se encuentren al final de la lista excediéndose el número de plazas concursadas, a los concursantes empatados se les otorgará la plaza en cuanto se encuentre vacante, otorgándosele en razón de la mayor antigüedad relativa.
 
@@ -513,135 +723,87 @@ Los participantes en el concurso podrán solicitar, dentro del término de siete
 
 ###### ARTÍCULO 52.
 
-El examen de media carrera a que se refiere el artículo 39 de la Ley podrá ser presentado por los primeros secretarios del Servicio Exterior de carrera, a los dos años de haber ascendido, hasta en tres ocasiones en los tiempos en que señala el referido artículo y se llevará a cabo bajo las siguientes modalidades:
-
-I. Deberá ser convocado por lo menos cada dos años;
-
-II. La Convocatoria al examen de media carrera será publicada en el Diario Oficial de la Federación y circulada a todas las Representaciones, así como en las delegaciones de la Secretaría en el interior;
-
-III. El examen de media carrera consistirá de exámenes y evaluación de potencial. Los exámenes tendrán un valor de 50% y la evaluación de potencial 50%. Los concursantes deberán aprobar cada uno de los componentes del examen de media carrera;
-
-IV. Los exámenes a que se refiere la fracción anterior consistirán en:
-
-a) Examen sobre conocimientos de la actualidad nacional e internacional;
-
-b) Examen sobre habilidades gerenciales y de liderazgo;
-
-c) Examen teórico-práctico de asuntos consulares y de protección;
-
-d) Examen de traducción y dominio de idiomas, y
-
-e) La resolución de uno o más casos prácticos, y
-
-V. La evaluación de potencial se hará a través de la revisión del expediente del concursante en el que se evaluará como mínimo el nivel de responsabilidad de los puestos desempeñados, dentro o fuera de la Secretaría.
+(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2018)
 
 ###### ARTÍCULO 53.
 
-Los primeros secretarios deberán presentar los exámenes de media carrera en los tiempos y términos establecidos en el artículo 39 de la Ley.
-
-Si transcurridos tres años desde que el primer secretario ascendió al rango, éste no hubiera presentado el referido examen, se considerará inscrito automáticamente al examen inmediato posterior.
-
-Si transcurridos cinco años desde que el primer secretario ascendió al rango, éste no hubiera aprobado el referido examen en la primera ocasión de su presentación y no se hubiera presentado por segunda ocasión, se considerará inscrito automáticamente al examen inmediato posterior de media carrera.
-
-La falta de presentación del examen de media carrera, cuando opere conforme al presente artículo, se considerará como no aprobado.
-
-Por causas de fuerza mayor o enfermedad grave, la Comisión de Personal podrá justificar la no presentación de dicho examen por esa ocasión, quedando obligado a presentarlo en la siguiente oportunidad.
+(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2018)
 
 ###### ARTÍCULO 54.
 
-Si un primer secretario no aprueba en sus dos primeros intentos el examen de media carrera y han transcurrido más de cinco años desde que ascendió a dicho rango sin haberlo presentado una tercera vez, a efecto de cumplir con el límite de seis años a que se refiere la fracción III del artículo 39 de la Ley, se considerará inscrito automáticamente para el examen inmediato posterior, siendo obligatoria su presentación. En caso de que no se presente se considerará no aprobado.
+(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2018)
 
-Si un primer secretario no aprueba en sus tres intentos el examen de media carrera o decide no presentarse a la tercera oportunidad en los términos del párrafo anterior, causará baja inapelable del Servicio Exterior.
-
-Dicha baja deberá ser recomendada previamente por la Comisión de Personal al Secretario, quien la acordará en definitiva.
-
-Para la indemnización a que se refiere el último párrafo del artículo 39 de la Ley, se otorgarán tres meses del último sueldo que hubiera disfrutado el miembro del Personal de Carrera, el cual se calculará con base en el nivel equivalente en territorio nacional y de conformidad con el Tabulador de sueldos y salarios brutos del Presidente de la República y de los servidores públicos de mando y de enlace de las dependencias y sus equivalentes en las entidades. Adicionalmente, se otorgará la compensación prevista en el artículo 54 de la Ley.
-
-Para el cómputo de los tiempos establecidos en el presente artículo no se tomarán en cuenta aquéllos en los que el Personal de Carrera se encuentre en licencia o disponibilidad, salvo las licencias médica, excepcional, y las de maternidad y paternidad.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 55.
 
-Los exámenes para ascender a los rangos de coordinador administrativo y agregado administrativo “C” de la rama técnico-administrativa se realizarán conforme a lo dispuesto en los artículos 45 a 51 de este Reglamento en la medida en que resulten aplicables.
+Los exámenes para ascender a los rangos de Coordinador Administrativo de la rama técnico-administrativa se realizarán conforme a lo dispuesto en los artículos 45 a 51 del Reglamento en la medida en que resulten aplicables.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 56.
 
-El Personal de Carrera, a que se refiere el artículo 18 de la Ley, podrá participar en los concursos de ascenso, mientras se encuentre comisionado en otras dependencias y entidades de la Administración Pública Federal, estatal o municipal, instituciones de educación superior o en organismos internacionales, y cumplan con los requisitos del caso, en el entendido de que deberán notificarlo por escrito al Presidente de la Comisión de Personal.
+El Personal de Carrera, a que se refiere el artículo 18 de la Ley, podrá participar en los concursos de ascenso, mientras se encuentre comisionado en otras dependencias y entidades de la Administración Pública Federal o local u otras entidades públicas federales; en los Poderes Legislativo o Judicial; en órganos constitucionales autónomos; instituciones de educación superior, o en organismos internacionales, y cumplan con los requisitos del caso, en el entendido de que deberán notificarlo por escrito al Presidente de la Comisión de Personal.
 
-En estos casos, además de todos los requisitos que señalan la Ley y el presente Reglamento, la dependencia, entidad, institución u organismo internacional donde se encuentre comisionado el interesado, deberá rendir un informe sobre el desempeño de éste, a solicitud del Presidente de la Comisión.
+En estos casos, además de todos los requisitos que señalan la Ley y el Reglamento, la dependencia, entidad, institución u organismo internacional donde se encuentre comisionado el interesado, deberá rendir un informe sobre el desempeño de éste, a solicitud del Presidente de la Comisión.
 
-### CAPÍTULO I. De la Rotación y Traslados
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO IV. De las Causales de Baja y sus Excepciones
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 57.
 
-La evaluación quinquenal a que se refiere la Ley, se realizará por rangos y en forma escalonada y tendrá una duración no mayor de tres meses.
+Se entenderán como causas justificadas que impidan a un Miembro del Servicio Exterior ascender al rango de Primer Secretario o de Consejero en los tiempos establecidos en el artículo 40-BIS de la Ley, las siguientes:
+
+I. Si los exámenes de ascenso han sido aprobados y las evaluaciones del desempeño del Miembro del Servicio Exterior han resultado satisfactorias, pero no han existido plazas disponibles para su ascenso;
+
+II. Si ha presentado problemas de salud por virtud de los cuales haya estado impedido en sus facultades mentales o físicas para presentar los exámenes de ascenso, y
+
+III. Si no hubiera habido concursos de ascenso.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 58.
 
-La Comisión de Personal, con aprobación del Secretario, establecerá los criterios, la forma y los términos en que se corroborará el cumplimiento de lo dispuesto en el artículo 40 de la Ley, en particular las condiciones del artículo 32, fracciones I, III, IV y V de la misma.
+Con independencia del grado de cumplimiento de las metas de desarrollo profesional establecidas en la evaluación a la que se refieren los artículos 40 y 40-Bis de la Ley, se considerará como insatisfactorio el desempeño del personal que incurra en una o más de las siguientes conductas:
+
+I. Bajo rendimiento continuo respecto de las funciones y tareas que se le encomiendan;
+
+II. Desconocimiento manifiesto del evaluado sobre las funciones que está llamado a desempeñar;
+
+III. Comportamiento negligente reiterado;
+
+IV. Desacato continuo de instrucciones giradas por un superior jerárquico;
+
+V. Conducta poco diligente e indisciplinada, y
+
+VI. No alcance los objetivos mínimos establecidos en el programa de trabajo anual de la unidad administrativa o representación en la que esté adscrito.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 59.
 
-La Subcomisión de Evaluación, para los efectos de los artículos 40, 40-BIS y 40-TER de la Ley, analizará los expedientes de todo el Personal de Carrera. La Dirección General le facilitará el acceso a los expedientes correspondientes y un resumen de cada uno de éstos, en el que se incluirán entre otros, los siguientes aspectos:
+La indemnización a que se refiere el último párrafo del artículo 40-BIS de la Ley, se integrará por tres meses del último sueldo que hubiera disfrutado el miembro del Personal de Carrera, el cual se calculará con base en el nivel equivalente en territorio nacional y de conformidad con los niveles salariales previstos en el manual de percepciones de los servidores públicos de la Administración Pública Federal del ejercicio fiscal que corresponda. Adicionalmente, se otorgará la compensación por años de servicio prevista en el artículo 54, segundo párrafo, de la Ley.
 
-I. Evaluaciones de desempeño;
+## TÍTULO QUINTO
 
-II. Autoevaluación;
+### CAPÍTULO ÚNICO. De las Obligaciones de los Miembros del Servicio Exterior
 
-III. Logros documentados y notas laudatorias;
-
-IV. Faltas cometidas o irregularidades;
-
-V. Procedimientos disciplinarios y sanciones impuestas, y
-
-VI. Quejas recibidas.
-
-La Subcomisión, con base en los criterios que fija la Ley, en la información sintetizada que le proporcione la Dirección General y en su propio análisis de los expedientes, presentará a la Comisión de Personal, una lista con los nombres de aquellos miembros del Personal de Carrera que, en su opinión, merezcan una calificación de desempeño insatisfactorio.
-
-La Comisión de Personal, una vez recibida la propuesta de la Subcomisión de Evaluación, la analizará, allegándose para ello de los elementos que considere necesarios para la formulación de una determinación.
-
-Los elementos mencionados en el párrafo anterior serán:
-
-I. Los expedientes de los interesados;
-
-II. Las síntesis preparadas por la Dirección General;
-
-III. Consultas o entrevistas con los superiores del miembro del Personal de Carrera, de cuyo caso se trate, y
-
-IV. Cualesquiera otros que a su juicio considere convenientes.
-
-Una vez que la Comisión de Personal hubiera concluido el análisis de los casos que le plantee la Subcomisión de Evaluación y aquellos otros que ésta misma hubiera decidido analizar, aunque no hubieren sido incluidos en la lista presentada por la Subcomisión de Evaluación, procederá a someter los casos a votación de sus integrantes. La declaratoria de resultados insatisfactorios en el seno de la Comisión de Personal tendrá que ser aprobada por mayoría absoluta.
-
-La Comisión de Personal, por conducto de su Presidente, o de quien éste designe, notificará el resultado de la evaluación quinquenal al Personal de Carrera evaluado.
-
-Los miembros del Personal de Carrera que hubiesen obtenido un resultado insatisfactorio podrán solicitar a la Comisión de Personal la revisión de su calificación dentro del término de cinco días hábiles contados a partir de la notificación. Este plazo podrá prorrogarse por quince días naturales si así lo solicita el interesado.
-
-Para los efectos del párrafo anterior, el Personal de Carrera deberá presentar su solicitud de revisión mediante escrito en el que exponga sus consideraciones.
-
-La Comisión de Personal garantizará, en todos los casos, que al miembro del Personal de Carrera se le respete su derecho de audiencia.
-
-Al efecto, dicho servidor público del Servicio Exterior será notificado por escrito con treinta días hábiles de anticipación a la audiencia. Dicha audiencia podrá hacerse de forma presencial o remota, vía videoconferencia. En caso de que el personal se encuentre en oficinas centrales será siempre presencial y cuando el personal labore en delegaciones o Representaciones, podrá ser presencial o remota según lo solicite el interesado. En el supuesto de que el miembro del Personal de Carrera solicite que la audiencia sea presencial y se encuentre en delegaciones o fuera del territorio nacional, podrá solicitar una prórroga de quince días hábiles para la celebración de la audiencia.
-
-La Comisión de Personal resolverá las solicitudes de revisión dentro de los quince días hábiles siguientes a la celebración de la audiencia, debiendo notificar personalmente al interesado la resolución correspondiente.
-
-Si a juicio de la Comisión de Personal el resultado de la evaluación quinquenal continúa siendo insatisfactorio recomendará al Secretario la baja del miembro del Personal de Carrera.
-
-El Acuerdo que al respecto tome el Secretario será notificado personalmente al interesado, a quien, de ser el caso, se le indemnizará en los términos del párrafo siguiente.
-
-Para la indemnización a que se refiere el último párrafo del artículo 40-TER de la Ley, se otorgarán tres meses del último sueldo que hubiera disfrutado el miembro del Personal de Carrera, el cual se calculará con base en el nivel equivalente en territorio nacional y de conformidad con el Tabulador de sueldos y salarios brutos del Presidente de la República y de los servidores públicos de mando y enlace de las dependencias y sus equivalentes en las entidades. Adicionalmente, se otorgará la compensación prevista en el artículo 54 de la Ley.
-
-## TÍTULO SEXTO
-
-### CAPÍTULO II. De las Comisiones
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 60.
 
-Los miembros del Servicio Exterior, además de las obligaciones que les establece la Ley y el presente Reglamento, tendrán las previstas en otros ordenamientos aplicables a los servidores públicos, a fin de salvaguardar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que rigen en el servicio público.
+Los servidores públicos del Servicio Exterior, además de las obligaciones que les establece la Ley y el Reglamento, tendrán las previstas en otros ordenamientos aplicables a los mismos, a fin de salvaguardar los principios que señala el artículo 41 de la Ley y que rigen en el servicio público.
 
-El incumplimiento a dichas disposiciones dará lugar al procedimiento disciplinario y a las sanciones que correspondan en términos de lo previsto en la Ley y en el presente Reglamento.
+El incumplimiento a dichas disposiciones dará lugar al procedimiento disciplinario y a las sanciones que correspondan en términos de lo previsto en la Ley y en el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 61.
 
-Los titulares de Embajadas, además de las obligaciones consignadas en el artículo 43 de la Ley, deberán:
+Los Jefes de Misión, además de las obligaciones consignadas en el artículo 43 de la Ley, deberán:
 
 I. Defender dignamente el nombre y la imagen de México;
 
@@ -651,7 +813,9 @@ III. Mantener estrecha relación con los mexicanos que radiquen en el país dond
 
 IV. Entablar relación con los distintos sectores de la sociedad del país ante los cuales estén acreditados con los responsables de los medios de comunicación e información y los representantes de los partidos políticos, legalmente establecidos;
 
-V. Invitar a funcionarios del gobierno receptor, a personalidades locales, a diplomáticos de otros países, y a otras personas de importancia en sus actividades diplomáticas y sociales;
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+V. Realizar actividades de diplomacia pública que coadyuven a fortalecer los lazos de México con el país de adscripción, con sujeción a la disponibilidad presupuestaria y a las medidas de austeridad vigentes. A dichos eventos deberán invitar a funcionarios del gobierno receptor, a personalidades locales, a diplomáticos de otros países, y a otras personas de importancia en sus actividades diplomáticas y sociales de representación;
 
 VI. Informar a la Secretaría los nombres de los servidores públicos mexicanos que lleguen a su Adscripción en comisión oficial y de sus actividades en el lugar;
 
@@ -661,33 +825,53 @@ VIII. Revisar información general sobre México y el país donde se encuentren 
 
 IX. Conocer el país en el cual están adscritos y viajar a través del mismo, de acuerdo con el programa de trabajo autorizado;
 
-X. Viajar a México al menos una vez al año, para celebrar consultas y actividades inherentes a su función, y
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-XI. Ejercer las funciones que le confieran las convenciones internacionales en materia diplomática de las que México sea parte y aquellas otras que le sean encomendadas por la Secretaría en los términos de las disposiciones jurídicas aplicables.
+X. Viajar a México al menos una vez al año, para celebrar consultas y actividades inherentes a su función;
+
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+XI. Ejercer las funciones que le confieran las convenciones internacionales en materia diplomática de las que México sea parte y aquellas otras que le sean encomendadas por la Secretaría en los términos de las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+XII. Elaborar un informe general de actividades realizadas y resultados alcanzados con base en los propios programas de trabajo. Dicho informe deberá ser enviado a la Secretaría para su remisión al Senado de la República, a través de la Dirección General que funja como enlace con el Poder Legislativo en la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 62.
 
-Los Jefes de Misiones Diplomáticas deberán informar a la Secretaría sobre los privilegios, prerrogativas, franquicias y otras cortesías, que otorgue el gobierno receptor a los miembros del Servicio Exterior acreditados ante aquél, a fin de que se proceda a la aplicación del principio de reciprocidad con los diplomáticos extranjeros correspondientes acreditados ante el Gobierno mexicano.
+Los Jefes de Misiones Diplomáticas deberán informar a la Secretaría sobre los privilegios, prerrogativas, franquicias y otras cortesías, que otorgue el gobierno receptor a los Miembros del Servicio Exterior acreditados ante aquél, a fin de que se proceda a la aplicación del principio de reciprocidad con los diplomáticos extranjeros correspondientes acreditados ante el Gobierno mexicano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 63.
 
-Las franquicias que otorgue el gobierno receptor a los miembros del Servicio Exterior serán intransferibles y sólo podrán ser autorizadas por el Jefe o Titular de Representación, según el rango del servidor público y tomando en cuenta las necesidades del servicio derivadas de su nivel de responsabilidad y de su actividad diplomática y social. Se tramitarán a nombre de cada uno de los servidores públicos que tengan derecho a ello y no en grupo.
+Las franquicias que otorgue el gobierno receptor a los Miembros del Servicio Exterior serán intransferibles y sólo podrán ser autorizadas por el Jefe o Titular de Representación, según el rango del servidor público y tomando en cuenta las necesidades del servicio derivadas de su nivel de responsabilidad y de su actividad diplomática y social. Se tramitarán a nombre de cada uno de los servidores públicos que tengan derecho a ello y no en grupo.
 
 El personal del Servicio Exterior deberá utilizar estas franquicias sin ostentación y con el único objeto de facilitar su tarea diplomática. Los bienes adquiridos mediante franquicia serán para uso personal y oficial.
 
 Todos los servidores públicos ya sea de carrera, temporales o asimilados, presentarán al Jefe o Titular de Representación un informe que justifique el uso de las franquicias solicitadas.
 
-Las Oficinas Consulares, cuando proceda, podrán tramitar las franquicias de los miembros del Servicio Exterior adscritos a ellas a través de la Embajada en el país de que se trate.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-El Jefe o Titular de Representación remitirá semestralmente a la Dirección General, copia de las franquicias que se expidieron en el periodo respectivo a los miembros del Servicio Exterior adscritos a dicha oficina, y marcará una copia, en el caso del Personal Asimilado, a la dependencia o entidad que corresponda.
+Las Oficinas Consulares, cuando proceda, podrán tramitar las franquicias de los Miembros del Servicio Exterior adscritos a ellas a través de la Embajada en el país de que se trate.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+El Jefe o Titular de Representación remitirá semestralmente a la Dirección General, copia de las franquicias que se expidieron en el periodo respectivo a los Miembros del Servicio Exterior adscritos a dicha oficina, y marcará una copia, en el caso del Personal Asimilado, a la dependencia o entidad que corresponda.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 64.
 
-Los miembros del Servicio Exterior tienen el deber de guardar el sigilo profesional de conformidad con lo que establece el artículo 42 de la Ley. Su violación dará motivo a la aplicación de sanciones, dependiendo de la gravedad e implicaciones de la falta, de acuerdo con los artículos 58 y correlativos de la Ley.
+Los Miembros del Servicio Exterior tienen el deber de guardar el sigilo profesional de conformidad con lo que establece el artículo 42 de la Ley. Su violación dará motivo a la aplicación de sanciones, de acuerdo con el artículo 58-BIS de la Ley.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 65.
 
-Los miembros del Servicio Exterior, adicionalmente a lo descrito en el artículo anterior, tendrán la obligación de custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión conserven bajo su cuidado o a la cual tengan acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o utilización indebida de aquéllas. El incumplimiento de esta última obligación dará lugar a la aplicación de las sanciones administrativas descritas en el artículo 57 de la Ley.
+Los Miembros del Servicio Exterior, adicionalmente a lo descrito en el artículo anterior, tendrán la obligación de custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión conserven bajo su cuidado o a la cual tengan acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o utilización indebida de aquéllas. El incumplimiento de esta última obligación dará lugar a la aplicación de las sanciones administrativas descritas en el artículo 57 de la Ley.
 
 ###### ARTÍCULO 66.
 
@@ -705,7 +889,9 @@ La información clasificada como reservada o confidencial en términos de las di
 
 El personal del Servicio Exterior tiene la obligación prioritaria de proteger los intereses de los mexicanos en el extranjero. Con este propósito prestarán sus buenos oficios, impartirán asistencia y protección consular y, llegado el caso, proporcionarán a la Secretaría los elementos para que ésta decida si el Estado mexicano ejercerá la protección diplomática.
 
-La asistencia consular se impartirá cuando se requiera atender y asesorar a mexicanos en sus relaciones con las autoridades extranjeras. Para estos efectos los miembros del Servicio Exterior deberán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+La asistencia consular se impartirá cuando se requiera atender y asesorar a mexicanos en sus relaciones con las autoridades extranjeras. Para estos efectos los Miembros del Servicio Exterior deberán:
 
 I. Asesorar y aconsejar a los mexicanos en lo relativo a sus relaciones con las autoridades e informarles sobre la legislación local, la convivencia con la población local, sobre sus derechos y obligaciones frente al Estado extranjero en donde se encuentren, y sus vínculos y obligaciones en relación con México, en especial su registro en la Oficina Consular correspondiente;
 
@@ -715,31 +901,39 @@ III. Visitar a los mexicanos que se encuentren detenidos, presos, hospitalizados
 
 IV. Asumir la representación de los mexicanos que por estar ausentes o por otros motivos estén imposibilitados de hacer valer personalmente sus intereses.
 
-Para los efectos del presente artículo y conforme a lo dispuesto en la fracción XI del artículo 2 de la Ley, en la Ley Federal de Derechos, y en otros ordenamientos legales aplicables, la Secretaría, escuchando las opiniones de las áreas directamente involucradas con los asuntos consulares, elaborará o revisará, cuando menos cada dos años, los programas y actividades a los que se destinarán los recursos recibidos por servicios prestados por las Representaciones Consulares.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Para los efectos del presente artículo y lo dispuesto en la fracción XI del artículo 2 de la Ley, en la Ley Federal de Derechos, y demás disposiciones administrativas aplicables, la Secretaría llevará a cabo la estimación, ejercicio y control de los recursos recibidos por los servicios prestados por las Representaciones Consulares.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Asimismo, la Secretaría definirá, revisará y, en su caso, actualizará las actividades y programas a los que se podrán destinar dichos recursos, los cuales serán de manera enunciativa más no limitativa, los siguientes: de repatriación de personas vulnerables; atención y asesoría jurídica y de protección consulares; visitas a cárceles y centros de detención; atención telefónica; campaña de seguridad al migrante; servicios de consulados móviles; prestación de servicios consulares en general, y atención al público.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 69.
 
-Los miembros del Servicio Exterior que contraigan obligaciones personales financieras en sus Adscripciones, como préstamos bancarios, hipotecas, compras a plazos, y otras, tendrán la obligación de cumplir con ellas durante el tiempo que permanezcan en esa Adscripción, de no dejar deudas o compromisos al término de su comisión en ese lugar, o de garantizar, en su caso, su cumplimiento, en el entendido de que de no hacerlo así se harán acreedores a las sanciones contempladas en el artículo 57 de la Ley.
+Los Miembros del Servicio Exterior que contraigan obligaciones personales financieras en sus Adscripciones, como préstamos bancarios, hipotecas, compras a plazos, y otras, tendrán la obligación de cumplir con ellas durante el tiempo que permanezcan en esa Adscripción, de no dejar deudas o compromisos al término de su comisión en ese lugar, o de garantizar, en su caso, su cumplimiento, en el entendido de que de no hacerlo así se harán acreedores a las sanciones contempladas en el artículo 57 de la Ley.
 
 ###### ARTÍCULO 70.
 
 Los Jefes o Titulares de Representaciones deberán remitir a la Secretaría, de conformidad con la normatividad vigente, los informes mensuales del ejercicio de las partidas de gasto de sostenimiento de oficina, de orden social, y otras que determine la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 71.
 
-La Comisión de Personal aprobará los mecanismos y criterios para la evaluación del desempeño de los miembros del Servicio Exterior y la auto-evaluación del Personal de Carrera a que se refiere el artículo 45 de la Ley, bajo los criterios de legalidad, objetividad y equidad.
+La Comisión de Personal aprobará los mecanismos y criterios para la elaboración y presentación del informe de desempeño de los Miembros del Servicio Exterior, a que se refiere el artículo 45 de la Ley, bajo los criterios de legalidad, objetividad y equidad.
 
-A tal efecto, la Subcomisión de Evaluación someterá a la aprobación de la Comisión de Personal los medios para evaluar el desempeño de los miembros del Servicio Exterior sobre la base de objetivos previamente establecidos.
-
-La auto-evaluación a la que se refiere el artículo 45 de la Ley consistirá en la exposición por escrito que haga el servidor público acerca del cumplimiento de los programas de trabajo anuales que el Jefe o Titular de Representación en el exterior o unidad administrativa le haya asignado en el periodo evaluado.
+A tal efecto, la Subcomisión de Evaluación someterá a la aprobación de la Comisión de Personal los medios para elaborar el informe de desempeño de los Miembros del Servicio Exterior sobre la base de objetivos previamente establecidos.
 
 ###### ARTÍCULO 72.
 
 El Jefe o Titular de Representación podrá delegar la atención y despacho de los asuntos que estime procedente en algún miembro de ésta, lo cual no lo eximirá de su responsabilidad conforme a la fracción IV del artículo 43 de la Ley, y notificará por escrito a la Secretaría el nombre del servidor público y las facultades delegadas.
 
-## TÍTULO SÉPTIMO. De los Derechos y Prestaciones de los Miembros del Servicio Exterior
+## TÍTULO SEXTO
 
-### CAPÍTULO III. Vacaciones, Licencias y Otras Prestaciones
+### CAPÍTULO I. De las Funciones Consulares
 
 ###### ARTÍCULO 73.
 
@@ -799,7 +993,7 @@ Las cartas patentes de los cónsules honorarios serán firmadas por el Secretari
 
 Los cónsules honorarios no percibirán sueldo por sus servicios. Cubrirán de su propio peculio los gastos que originen el establecimiento y mantenimiento del Consulado Honorario. Sin embargo, la Secretaría podrá establecer los mecanismos que juzgue adecuados para proporcionar a los cónsules honorarios recursos financieros y otros apoyos que les permitan cubrir una parte de los gastos originados por el ejercicio de sus funciones.
 
-### CAPÍTULO IV. De las Percepciones y Emolumentos
+### CAPÍTULO II. De los Servicios Consulares
 
 ###### ARTÍCULO 81.
 
@@ -839,7 +1033,9 @@ El Jefe de Oficina Consular podrá delegar facultades en servidores públicos su
 
 La delegación de facultades se hará mediante un acuerdo escrito del Jefe de Oficina Consular en el cual se establezca el nombre del servidor público a quien se delegue, las facultades delegadas y, además, aparezca registrada la firma de aquél tanto en forma autógrafa como con su firma electrónica avanzada. El citado escrito se ajustará al modelo que emita la Secretaría.
 
-La firma de los documentos notariales, de los actos del registro civil y las declaratorias de nacionalidad mexicana por nacimiento, será delegable sólo en la persona del jefe de cancillería, cónsul adscrito o de la Sección Consular. En caso de que la circunstancia particular de la Oficina Consular lo amerite, previa autorización de la Dirección General de la Secretaría encargada de los Asuntos Consulares, se podrá delegar esta facultad en otro Funcionario Consular.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+La firma de los documentos notariales, de los actos del registro civil y las declaratorias de nacionalidad mexicana por nacimiento, será delegable sólo en la persona del jefe de cancillería, cónsul adscrito o jefe de la Sección Consular. En caso de que la circunstancia particular de la Oficina Consular lo amerite, previa autorización de la Dirección General de la Secretaría encargada de los Asuntos Consulares, se podrá delegar esta facultad en otro Funcionario Consular.
 
 Las delegaciones de facultades serán notificadas a la Secretaría por el Jefe de Oficina Consular, a efecto de autorizarlas y llevar el registro de las mismas.
 
@@ -847,7 +1043,9 @@ Las delegaciones de facultades serán notificadas a la Secretaría por el Jefe d
 
 La Secretaría emitirá las disposiciones normativas internas que regulen la expedición de documentos consulares y migratorios y para el desarrollo de las funciones de Juez del Registro Civil, notariales y demás que correspondan a la función consular.
 
-Los servidores públicos de las Oficinas Consulares ajustarán la prestación de los servicios consulares a dichas disposiciones y serán responsables de que los miembros del Servicio Exterior y los empleados locales los conozcan y estudien.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Los servidores públicos de las Oficinas Consulares ajustarán la prestación de los servicios consulares a dichas disposiciones y serán responsables de que los Miembros del Servicio Exterior y los empleados locales los conozcan y estudien.
 
 Además, los titulares de las Oficinas Consulares serán responsables de que en las mismas existan, para consulta del personal, los manuales, instructivos, colecciones de circulares y demás instrumentos normativos de las funciones consulares y los relativos a la expedición de documentos migratorios, de protección, de rendición de informes a la Secretaría, y en general del funcionamiento de la Oficina Consular.
 
@@ -915,13 +1113,15 @@ Las Representaciones Consulares deberán depositar diariamente en la cuenta banc
 
 El retraso en más de dos ocasiones en un mismo año, en concentrar en las cuentas a que se refiere el párrafo anterior las recaudaciones consulares, excepto por causas de fuerza mayor debidamente comprobadas, será considerado como morosidad y descuido manifiestos de las obligaciones oficiales de los Jefes o Titulares de Representaciones, haciéndose acreedores a las sanciones dispuestas en el artículo 57, respecto de la fracción VIII del artículo 58, ambos, de la Ley.
 
-## TÍTULO OCTAVO
+## TÍTULO SÉPTIMO. De los Derechos y Prestaciones de los Miembros del Servicio Exterior
 
-### CAPÍTULO V. Del Menaje de Casa
+### CAPÍTULO I. De la Rotación y Traslados
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 93.
 
-La Comisión de Personal someterá a la aprobación del Titular de la Secretaría traslados del Personal de Carrera, distinto a los Jefes o Titulares de Representaciones o unidades administrativas de la Secretaría, por temporalidades previamente establecidas de conformidad con el artículo 94, fracción III de este Reglamento.
+La Comisión de Personal someterá a la aprobación del Titular de la Secretaría traslados del Personal de Carrera, distinto a los Jefes o Titulares de Representaciones o unidades administrativas de la Secretaría, por modalidades previamente establecidas de conformidad con el artículo 94, fracción III del Reglamento.
 
 ###### ARTÍCULO 94.
 
@@ -935,7 +1135,9 @@ II. En la lista de personal sujeto a rotación, la Subcomisión de Rotación pod
 
 Para la elaboración de la lista de personal sujeto a rotación, se tomarán en consideración las funciones a desarrollar, el perfil profesional para el puesto, los idiomas a utilizar y la situación familiar, como características deseables que deberán cumplir los aspirantes, para lograr ser considerados en la asignación de las vacantes que existen o que se produzcan con motivo de la rotación;
 
-III. Se buscará favorecer un equilibrio entre rotación geográfica y especialización temática de los miembros del Servicio Exterior de carrera, sujetando las comisiones a alguna de las siguientes temporalidades:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+III. Se buscará favorecer un equilibrio entre rotación geográfica y especialización temática de los Miembros del Servicio Exterior de carrera, sujetando las comisiones a alguna de las siguientes modalidades:
 
 a) Adscripción de cuatro años, salvo lo dispuesto en los incisos b) y c) siguientes;
 
@@ -945,7 +1147,9 @@ c) Adscripciones por dos años en ciudades consideradas de vida difícil de conf
 
 d) Las Adscripciones en la Secretaría no podrán ser menores a dos años ni mayores a seis años;
 
-IV. La Subcomisión de Rotación tomará en cuenta la situación personal o familiar de los miembros del Servicio Exterior sujetos a traslado en el marco del programa anual de rotación;
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+IV. La Subcomisión de Rotación tomará en cuenta la situación personal o familiar de los Miembros del Servicio Exterior sujetos a traslado en el marco del programa anual de rotación;
 
 V. El Personal de Carrera o los Jefes o Titulares de Representaciones o unidades administrativas de la Secretaría donde se encuentre adscrito podrán solicitar que el plazo establecido en los incisos anteriores se reduzca o extienda por un año máximo. La Subcomisión de Rotación examinará las razones que motiven la solicitud para determinar su procedencia;
 
@@ -975,53 +1179,73 @@ III. Alto grado de inseguridad, o
 
 IV. Un régimen de intolerancia o discriminación manifiestas.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 96.
 
-Cuando a un miembro del Servicio Exterior se le notifique una orden de traslado deberá viajar por la vía más rápida, sin interrupciones injustificadas, y tomará posesión de su nuevo puesto dentro de un plazo de sesenta días naturales contados desde la fecha en que reciba la notificación correspondiente. La Secretaría, previa opinión de la Comisión de Personal, podrá reducir o ampliar este plazo en casos excepcionales según lo requieran las necesidades del servicio.
+Cuando a un Miembro del Servicio Exterior se le notifique una orden de traslado deberá viajar por la vía más rápida, sin interrupciones injustificadas, y tomará posesión de su nuevo puesto dentro de un plazo de sesenta días naturales contados a partir del día siguiente en que reciba la notificación correspondiente. La Secretaría, previa opinión de la Comisión de Personal, podrá reducir o ampliar este plazo en casos excepcionales según lo requieran las necesidades del servicio.
 
-Dentro del plazo de los sesenta días naturales estará incluido el periodo en que el miembro de carrera realizará sus preparativos de salida e instalación. El personal trasladado dispondrá, como máximo, de cuatro días naturales para arribar a su nueva Adscripción, contados a partir del inicio del viaje.
+Dentro del plazo de los sesenta días naturales estará incluido el periodo en que el Miembro del Servicio Exterior de carrera realizará sus preparativos de salida e instalación. El personal trasladado dispondrá, como máximo, de cuatro días naturales para arribar a su nueva Adscripción, contados a partir del inicio del viaje.
 
-Los Jefes o Titulares de Representaciones de donde salga y a donde llegue el miembro del Servicio Exterior trasladado, deberán otorgar las facilidades necesarias para una rápida salida e instalación.
+Los Jefes o Titulares de Representaciones de donde salga y a donde llegue el Miembro del Servicio Exterior trasladado, deberán otorgar las facilidades necesarias para una rápida salida e instalación.
 
-Si el miembro del Servicio Exterior así lo solicita, y siempre y cuando las necesidades del propio servicio lo permitan, la Secretaría autorizará las vacaciones a que tenga derecho para disfrutar de ellas antes de la llegada a su nueva Adscripción, sin que ello afecte el plazo a que se refiere el párrafo primero de este artículo.
+Si el Miembro del Servicio Exterior así lo solicita, y siempre y cuando las necesidades del propio servicio lo permitan, la Secretaría autorizará las vacaciones a que tenga derecho para disfrutar de ellas antes de la llegada a su nueva Adscripción, sin que ello afecte el plazo a que se refiere el párrafo primero de este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 97.
 
-Los miembros del Servicio Exterior que se encuentren adscritos en el extranjero, cuando viajen a México por cualquier motivo, deberán dar aviso oportuno a la Dirección General de la fecha de llegada y de salida y del lugar donde podrán ser localizados.
+Los Miembros del Servicio Exterior que se encuentren adscritos en el extranjero, cuando viajen a México por cualquier motivo, deberán dar aviso oportuno a la Dirección General de la fecha de llegada y de salida, y del lugar donde podrán ser localizados.
 
 Asimismo, el Jefe o Titular de Representación deberá dar aviso oportuno a la Secretaría de las salidas y llegadas del personal del Servicio Exterior adscrito a sus oficinas.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 98.
 
-Cuando se disponga el traslado de un miembro del Servicio Exterior del extranjero a la Secretaría fuera del programa de rotación, se le notificará con éste el nombre de la unidad a la que estará adscrito y, a su arribo y presentación, las funciones que desempeñará en la misma.
+Cuando se disponga el traslado de un Miembro del Servicio Exterior del extranjero a la Secretaría fuera del programa de rotación, se le notificará el nombre de la unidad a la que estará adscrito y, a su arribo y presentación, las funciones que desempeñará en la misma.
 
 ###### ARTÍCULO 99.
 
 El Personal de Carrera en las Adscripciones de vida difícil, definidas en los términos del artículo 95 de este Reglamento, tendrá una permanencia de dos años, salvo que a solicitud del interesado la Comisión de Personal extienda la Adscripción por un máximo de un año.
 
-Un miembro del Servicio Exterior no podrá ser trasladado a otra Adscripción de vida difícil de manera consecutiva a menos que sea solicitada por el propio interesado.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Un Miembro del Servicio Exterior no podrá ser trasladado a otra Adscripción de vida difícil de manera consecutiva a menos que sea solicitada por el propio interesado.
 
 Asimismo, dicho personal será trasladado en el siguiente programa de rotación a una Adscripción de su elección y se le otorgará puntuación adicional dentro del rubro de Adscripciones o comisiones en los concursos de ascenso.
 
-El personal de las Adscripciones de vida difícil disfrutará de una salida de las mismas por cada seis meses laborados a partir de la fecha en que la Adscripción sea designada como de vida difícil. La duración de dicha salida la determinará la Comisión de Personal, y no se computará como licencias económicas o vacaciones.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+El personal de las Adscripciones de vida difícil disfrutará de una salida de las mismas por cada seis meses laborados a partir de la fecha de la toma de posesión o a partir de que la Adscripción sea designada como de vida difícil. La duración de dicha salida la determinará la Comisión de Personal, y no se computará como licencias económicas o vacaciones. Entre una salida y otra deberán transcurrir seis meses.
 
 Los Jefes o Titulares de Representaciones previstas en los artículos 95 y 100 de este Reglamento organizarán el trabajo de la misma para garantizar el disfrute de dicha salida por parte del personal a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 100.
 
-Al personal adscrito en ciudades en las que imperen circunstancias ambientales adversas o desabasto de bienes y servicios básicos, se les otorgará una semana sanitaria por cada seis meses laborados, que consistirá en un periodo adicional de descanso por siete días naturales, periodo que no se computará como licencias económicas o vacaciones. El disfrute de dicha semana deberá ser garantizado por los Jefes o Titulares de Representaciones.
+Al personal adscrito en ciudades en las que imperen circunstancias ambientales adversas o desabasto de bienes y servicios básicos, se les otorgará una semana sanitaria por cada seis meses laborados, contados a partir de la fecha de la toma de posesión o a partir de que la Adscripción sea catalogada como ciudad con circunstancias ambientales adversas, y consistirá en un periodo de descanso por siete días naturales, periodo que no se computará como licencias económicas o vacaciones. El disfrute de dicha semana deberá ser garantizado por los Jefes o Titulares de Representaciones. Entre un periodo de descanso y otro deberán transcurrir seis meses.
 
-Se considera como circunstancias ambientales adversas, aquéllas que como producto de la contaminación ambiental impliquen un riesgo a la salud, así como las que deriven de fenómenos naturales que pongan en riesgo la integridad física de los miembros del Servicio Exterior.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-Se considerará que existe desabasto de bienes y servicios básicos en aquéllas Adscripciones donde los miembros del Servicio Exterior enfrentan dificultades para obtener bienes o servicios básicos para la alimentación, la salud o el esparcimiento.
+Se considera como circunstancias ambientales adversas, aquéllas que como producto de la contaminación ambiental impliquen un riesgo a la salud, así como las que deriven de fenómenos naturales que pongan en riesgo la integridad física de los Miembros del Servicio Exterior.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Se considerará que existe desabasto de bienes y servicios básicos en aquéllas Adscripciones donde los Miembros del Servicio Exterior enfrentan dificultades para obtener bienes o servicios básicos para la alimentación, la salud o el esparcimiento.
 
 La Comisión de Personal someterá a la autorización del Secretario las Adscripciones en las que se deba dar al personal dicha prestación, las cuales se darán a conocer en el mes de febrero de cada año o cuando ocurra una circunstancia de emergencia extrema.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 101.
 
-En el caso de cónyuges miembros de carrera del Servicio Exterior, la Comisión de Personal podrá adscribirlos a la Secretaría, a ciudades donde existan dos o más Representaciones, o en Adscripciones que se encuentren a una distancia razonable la una de la otra.
+En el caso de cónyuges Miembros del Servicio Exterior de carrera, la Comisión de Personal podrá adscribirlos a la Secretaría, a ciudades donde existan dos o más Representaciones, o en Adscripciones que se encuentren a una distancia razonable la una de la otra.
 
-La Comisión de Personal también podrá adscribir cónyuges que sean miembros del Servicio Exterior a la misma Representación, siempre y cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+La Comisión de Personal también podrá adscribir cónyuges que sean Miembros del Servicio Exterior a la misma Representación, siempre y cuando:
 
 I. No exista subordinación directa de un cónyuge al otro, de tal suerte que no se trastorne el funcionamiento de la Representación, y
 
@@ -1035,73 +1259,81 @@ Los cónyuges adscritos a la misma ciudad sólo gozarán del pago de los gastos 
 
 En caso de proceder, sólo se otorgará la ayuda de renta y para educación para uno de los servidores públicos.
 
-### CAPÍTULO ÚNICO. De la Separación del Servicio Exterior
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO II. De las Comisiones
 
 ###### ARTÍCULO 102.
 
-Las comisiones temporales a que se refiere el artículo 18 de la Ley se autorizarán hasta por un término de tres años. Dicha comisión podrá renovarse hasta por otros tres años si persiste el interés y utilidad para la Secretaría. La renovación no será considerada como una comisión adicional en términos de lo que refiere el artículo 18 de la Ley.
-
-En los casos de comisiones a instituciones de educación superior, éstas podrán concederse para la realización de actividades académicas o directivas. Las comisiones para la realización de estudios podrán otorgarse cuando sean de utilidad para la Secretaría de conformidad con los convenios que para tales efectos ésta celebre con las instituciones correspondientes.
-
-Cada autorización especificará claramente el lugar, el cargo a ocupar y las fechas de inicio y término para los efectos administrativos a que haya lugar.
+(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2018)
 
 ###### ARTÍCULO 103.
 
-Los términos y condiciones de las comisiones no podrán modificarse sino mediante autorización de la Comisión de Personal.
-
-Los miembros del Servicio Exterior de carrera que se encuentren en comisión conservarán su rango, pero no gozarán de sueldo ni prestaciones de la Secretaría.
-
-Las comisiones sólo podrán unirse a algún tipo de licencia cuando la Comisión de Personal determine que las razones para hacerlo son de beneficio o utilidad para la Secretaría.
+(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2018)
 
 ###### ARTÍCULO 104.
 
-La Comisión de Personal por necesidades del servicio, podrá revocar las comisiones, mediante notificación al interesado con tres meses de antelación, previo dictamen que emita la misma, y si así lo acuerda el Secretario.
-
-Al término de su comisión o cuando la misma le haya sido revocada, el miembro del Servicio Exterior deberá reincorporarse al Servicio Exterior, para lo cual se presentará en la Dirección General y la Secretaría le reconocerá su rango y le indicará las funciones a desempeñar. De incumplir esta disposición causará baja del Servicio Exterior, de conformidad con lo dispuesto por el artículo 53-BIS, fracción V de la Ley.
+(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2018)
 
 ###### ARTÍCULO 105.
 
-El personal comisionado, de acuerdo con el artículo 18 de la Ley, podrá presentarse a los concursos de ascenso, siempre y cuando cumpla con los requisitos que para tal efecto señalan la Ley y el presente Reglamento.
+(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2018)
 
-### CAPÍTULO ÚNICO. De los Asuntos Disciplinarios
+### CAPÍTULO III. Vacaciones, Licencias y Otras Prestaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 106.
 
-Los miembros del Servicio Exterior, gozarán de treinta días naturales de vacaciones cada once meses laborados.
+Los Miembros del Servicio Exterior, gozarán de treinta días naturales de vacaciones cada once meses laborados.
 
 Independientemente de dónde se hayan generado, las vacaciones podrán disfrutarse indistintamente en México o en el extranjero, pero si no se disfrutan, prescribirán a los dos años contados a partir de que el derecho se haya generado.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 107.
 
-Los miembros del Servicio Exterior comisionados en el extranjero podrán acumular un máximo de sesenta días naturales continuos de vacaciones. Dependiendo de las necesidades del servicio, deberán disfrutarlas preferentemente antes de tomar posesión de nuevos cargos.
+Los Miembros del Servicio Exterior comisionados en el extranjero podrán acumular un máximo de sesenta días naturales continuos de vacaciones. Dependiendo de las necesidades del servicio, deberán disfrutarlas preferentemente antes de tomar posesión de nuevos cargos.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 108.
 
-Las solicitudes de vacaciones se presentarán a la Secretaría por conducto del Jefe o Titular de Representación, señalando la fecha en que los miembros del Servicio Exterior pretendan iniciarlas, su duración y si se planea disfrutarlas en México o en el extranjero, con objeto de que la Secretaría proceda a su autorización, según las necesidades del servicio y, en su caso, para cubrir el importe de los pasajes correspondientes.
+Las solicitudes de vacaciones se presentarán a la Secretaría por conducto del Jefe o Titular de Representación, señalando la fecha en que los Miembros del Servicio Exterior pretendan iniciarlas, su duración y si se planea disfrutarlas en México o en el extranjero, con objeto de que la Secretaría proceda a su autorización, según las necesidades del servicio y, en su caso, para cubrir el importe de los pasajes correspondientes.
 
-Los miembros del Servicio Exterior podrán hacer uso de vacaciones y licencias, sólo después de haber recibido la autorización respectiva, que será notificada directamente al interesado y al Jefe de Misión Diplomática, Representación Consular o unidad administrativa de la Secretaría.
+Los Miembros del Servicio Exterior podrán hacer uso de vacaciones y licencias, sólo después de haber recibido la autorización respectiva, que será notificada directamente al interesado y al Jefe de Misión Diplomática, Titular de Representación Consular o titular de la unidad administrativa de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 109.
 
-La Secretaría cubrirá, por cada dos años continuos de permanencia en el exterior, el importe de los pasajes de ida y vuelta entre el lugar de Adscripción y México, a los miembros del Servicio Exterior. Esta facilidad podrá obtenerse por una ocasión dentro de dicho periodo.
+La Secretaría cubrirá, por cada dos años continuos de permanencia en el exterior, el importe de los pasajes de ida y vuelta entre el lugar de Adscripción y México, a los Miembros del Servicio Exterior. Esta facilidad podrá obtenerse por una ocasión dentro de dicho periodo. Para el cómputo del tiempo para hacer uso de los pasajes, deberán transcurrir dos años a partir de la toma de posesión o dos años a partir de la última ocasión en que se disfrutó de la prestación.
 
 La prestación a que se refiere este artículo se extenderá a:
 
-I. El cónyuge del miembro del Servicio Exterior;
+I. El cónyuge, concubina o concubinario del Miembro del Servicio Exterior;
 
-II. Los familiares del miembro del Servicio Exterior que sean dependientes económicos hasta el primer grado en línea recta, ascendente o descendente, que vivan con él o ella;
+II. Los familiares del Miembro del Servicio Exterior que sean dependientes económicos hasta el primer grado en línea recta, ascendente o descendente menores de edad, que vivan con él o ella;
 
-III. Los hijos menores de edad de los cónyuges del Personal de Carrera y del Personal Temporal que sean dependientes económicos del miembro del Servicio Exterior, y
+III. Las hijas o los hijos menores de edad de los cónyuges, concubinas o concubinarios que sean dependientes económicos del Miembro del Servicio Exterior, y
 
-IV. Los hijos del Personal de Carrera y del Personal Temporal que presenten una discapacidad que los imposibilite para trabajar, siempre que vivan con el miembro del Servicio Exterior en su lugar de Adscripción. Lo mismo aplicará para los hijos del cónyuge del Personal de Carrera y del Personal Temporal.
+IV. Las hijas o los hijos que presenten una discapacidad que los imposibilite para trabajar, siempre que vivan con el Miembro del Servicio Exterior en su lugar de Adscripción. Lo mismo aplicará para las hijas o hijos del cónyuge, concubina o concubinario del Personal de Carrera y del Personal Temporal.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 110.
 
-Cuando los hijos de los miembros del Servicio Exterior comisionados en el extranjero, menores de dieciocho años, no vivan con ellos por estar estudiando en México o en país distinto al de la Adscripción, o por resolución o convenio judicial, la Secretaría cubrirá cada dos años los pasajes respectivos para que puedan visitar a sus padres en el lugar de su Adscripción.
+Cuando las hijas o los hijos menores de edad de los Miembros del Servicio Exterior comisionados en el extranjero, no vivan con ellos por estar estudiando en México o en país distinto al de la Adscripción, o por resolución o convenio judicial, la Secretaría cubrirá cada dos años los pasajes respectivos para que puedan visitar a sus padres en el lugar de su Adscripción.
+
+El mismo beneficio aplicará para las hijas o hijos del cónyuge, concubina o concubinario del Miembro del Servicio Exterior.
 
 ###### ARTÍCULO 111.
 
 Los Jefes o Titulares de Representaciones o los Funcionarios Consulares encargados de las mismas podrán conceder, por causa justificada y dando aviso a la Secretaría, licencia económica con goce de sueldo al personal a sus órdenes, hasta por un máximo de cinco días hábiles cada año calendario, sin deducirlos de vacaciones.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Los Jefes o Titulares de Representaciones o los Funcionarios Consulares encargados de las mismas, podrán disfrutar de esta licencia previo visto bueno de la Subsecretaría correspondiente y dando aviso a la Dirección General.
 
 ###### ARTÍCULO 112.
 
@@ -1113,23 +1345,57 @@ Los periodos de estas licencias económicas serán deducidos del número de día
 
 Las autorizaciones para disfrutar vacaciones o licencias se considerarán canceladas si éstas no se inician dentro de los quince días naturales siguientes a la fecha de comunicación de la respectiva autorización, en cuyo caso, el interesado deberá solicitar una nueva autorización.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 114.
 
 Las solicitudes de licencia por enfermedad, maternidad o paternidad deberán acompañarse por el certificado médico respectivo, en el primer caso, el médico deberá certificar la enfermedad de la que se trata y el periodo que comprende la incapacidad para prestar sus funciones, así como la fecha probable en que el servidor público podrá reincorporarse a su trabajo.
 
-Las licencias de paternidad a que se refiere el párrafo anterior se concederán por cinco días laborales con goce de sueldo en términos de las disposiciones jurídicas aplicables; en cuanto a las licencias de maternidad se estará a lo dispuesto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado.
+En el caso de las licencias de maternidad o paternidad por adopción se deberá incluir ese derecho con base en las disposiciones legales a favor de los derechos del menor.
+
+Los Miembros del Servicio Exterior gozarán de licencia de maternidad o paternidad por adopción, luego de concluido el proceso de adopción, debiendo mediar como prueba la fecha en que el juez de registro civil emita el acta de nacimiento del menor.
+
+Las licencias de paternidad a que se refiere este artículo, se concederán por cinco días laborales con goce de sueldo en términos de las disposiciones jurídicas aplicables; en cuanto a las licencias de maternidad, se estará a lo dispuesto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado.
+
+La licencia de paternidad podrá ser ampliada con goce de sueldo en caso de que se presente alguno de los siguientes supuestos:
+
+I. Enfermedad grave del recién nacido, por 10 días hábiles continuos;
+
+II. Fallecimiento del recién nacido, por 3 días hábiles adicionales al periodo correspondiente de paternidad;
+
+III. Por complicaciones que pongan en peligro la vida de la madre, por 10 días hábiles continuos, o
+
+IV. Por muerte de la madre, por 45 días hábiles adicionales al periodo correspondiente de paternidad.
+
+Los supuestos antes citados se acreditarán con los documentos que se establezcan en las disposiciones administrativas que para tal efecto emita la Dirección General.
 
 A fin de proceder con el registro correspondiente, el personal del Servicio Exterior adscrito tanto en territorio nacional como en el extranjero deberá presentar las licencias médicas de conformidad con las instrucciones giradas por la Dirección General.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 114 BIS.- Para los efectos de lo dispuesto por el artículo 50, párrafo tercero de la Ley, la enfermedad grave o el fallecimiento, según sea el caso, deberá acreditarse mediante certificado médico expedido en términos de las disposiciones administrativas que para tal efecto emita la Dirección General, o con el acta de defunción.
 
 ###### ARTÍCULO 115.
 
 Las solicitudes de licencia sin goce de sueldo se presentarán por escrito a la Comisión de Personal, a través de la Dirección General, explicando los motivos que las justifiquen, así como la fecha en que se pretendan iniciar y su duración. En caso de considerarlas procedentes, la Comisión de Personal así lo recomendará al Secretario, quien en su caso las acordará. Las licencias se podrán conceder hasta por seis meses y la Secretaría fijará la fecha de inicio y término de la misma.
 
-En casos excepcionales las licencias podrán ser renovadas por la Comisión de Personal hasta un máximo de tres ocasiones por periodos de seis meses cuando las acciones que se estén realizando sean para beneficio y utilidad de la Secretaría, en términos de los lineamientos que la misma Comisión emita. De igual manera, se podrán otorgar licencias excepcionales a miembros del Servicio Exterior cuyo cónyuge haya sido adscrito a alguna Representación o haya quedado comisionado conforme a la Ley y este Reglamento. Dicha licencia abarcará el tiempo que dure la comisión otorgada por la Secretaría al cónyuge en funciones.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-La Comisión de Personal podrá someter a la consideración del Secretario, quién podrá autorizarlo en definitiva, el disfrute de comisiones, disponibilidades, licencias o cualquier separación temporal que soliciten los miembros del Servicio Exterior de manera consecutiva cuando, a juicio de la Comisión, resulten de beneficio o utilidad para la Secretaría.
+En casos excepcionales las licencias podrán ser renovadas por la Comisión de Personal hasta un máximo de tres ocasiones por periodos de seis meses cuando las acciones que se estén realizando sean para beneficio y utilidad de la Secretaría, en términos de los lineamientos que la misma Comisión emita. De igual manera, se podrán otorgar licencias excepcionales a Miembros del Servicio Exterior cuyo cónyuge haya sido adscrito a alguna Representación o haya quedado comisionado conforme a la Ley y este Reglamento. Dicha licencia abarcará el tiempo que dure la comisión otorgada por la Secretaría al cónyuge en funciones.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+La Comisión de Personal podrá someter a la consideración del Secretario, quien podrá autorizarlo en definitiva, el disfrute de comisiones, disponibilidades, licencias o cualquier separación temporal que soliciten los Miembros del Servicio Exterior de manera consecutiva cuando, a juicio de la Comisión, resulten de beneficio o utilidad para la Secretaría.
 
 Las licencias podrán ser revocadas o terminadas anticipadamente por necesidades del servicio o a petición del interesado, a juicio de la Comisión de Personal y por acuerdo del Secretario. La unidad administrativa correspondiente hará saber la revocación al interesado treinta días naturales antes de la fecha prevista de reincorporación.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 115 BIS.- Para efectos de lo dispuesto por el artículo 50, párrafo cuarto de la Ley, se deberá presentar ante la Dirección General, el original o copia certificada del acta de adopción o, en su caso, de la resolución judicial definitiva que autorice la adopción.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 115 TER.- Para los efectos del artículo 50, párrafo quinto de la Ley, el permiso adicional podrá otorgarse hasta por diez días laborales y se deberá presentar ante la Dirección General, certificado médico emitido en términos de las disposiciones administrativas que para tal efecto emita la Dirección General.
 
 ###### ARTÍCULO 116.
 
@@ -1137,13 +1403,19 @@ La disponibilidad a que se refiere el artículo 52 de la Ley será concedida por
 
 Una vez concluido el término al que se refiere el párrafo anterior o el que se hubiere autorizado, la disponibilidad podrá prorrogarse por una única ocasión hasta por tres años adicionales. La solicitud deberá presentarse a la Comisión de Personal con una antelación de seis meses a que termine el primer periodo de disponibilidad y deberá justificar la necesidad de prórroga. Si la Comisión de Personal la considera procedente la prórroga, someterá ésta a acuerdo del Secretario, quien decidirá en definitiva.
 
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Para efectos de lo dispuesto en el artículo 52, párrafo tercero de la Ley, se deberá presentar ante la Dirección General, certificado médico emitido en términos de las disposiciones administrativas que para tal efecto emita la Dirección General, para que ésta lo someta a la consideración de la Comisión de Personal.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 117.
 
-Los miembros del Servicio Exterior deberán reanudar labores al término de su licencia, disponibilidad o comisión. Quienes después de cuatro días hábiles no se hubiesen presentado a reanudar labores sin causa justificada, causarán baja del Servicio Exterior en términos de lo dispuesto por el artículo 53-BIS, fracción V de la Ley.
+Los Miembros del Servicio Exterior deberán reanudar labores al término de su licencia, disponibilidad o comisión. Quienes después de cuatro días hábiles no se hubiesen presentado a reanudar labores sin causa justificada, causarán baja del Servicio Exterior en términos de lo dispuesto por el artículo 53-BIS, fracción V de la Ley.
 
-La Comisión de Personal atenderá las solicitudes de reanudación de labores de los miembros del Personal de Carrera que estén por terminar de disfrutar una disponibilidad y recomendará al Secretario la Adscripción del interesado y la fecha de inicio de labores, siempre y cuando exista disponibilidad de plaza para ello.
+La Comisión de Personal atenderá las solicitudes de reanudación de labores de los Miembros del Personal de Carrera que estén por terminar de disfrutar una disponibilidad y recomendará al Secretario la Adscripción del interesado y la fecha de inicio de labores, siempre y cuando exista disponibilidad de plaza para ello.
 
-En los casos de reanudación de labores por término de comisión o licencia, la Secretaría garantizará el retorno del miembro del Servicio Exterior, mediante una Adscripción en México o en el extranjero. Si la Adscripción es en México, como mínimo corresponderá la homologación.
+En los casos de reanudación de labores por término de comisión o licencia, la Secretaría garantizará el retorno del Miembro del Servicio Exterior, mediante una Adscripción en México o en el extranjero. Si la Adscripción es en México, como mínimo corresponderá la homologación.
 
 ###### ARTÍCULO 118.
 
@@ -1157,55 +1429,113 @@ III. Que tomen las medidas necesarias para ser localizados, y
 
 IV. Que se encuentre en la ciudad sede el jefe de Cancillería, el representante permanente alterno o el cónsul adscrito que pueda actuar como encargado de negocios.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 119.
 
-Los Jefes de Misión podrán autorizar a los miembros del Servicio Exterior bajo sus órdenes a ausentarse de la ciudad donde se encuentre la sede en que estén adscritos, observando en lo conducente las condiciones que señala el artículo anterior.
+Los Jefes de Misión podrán autorizar a los Miembros del Servicio Exterior bajo sus órdenes a ausentarse de la ciudad donde se encuentre la sede en que estén adscritos, observando en lo conducente las condiciones que señala el artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 120.
 
-El pago de los gastos de transporte del miembro del Servicio Exterior, a que se refiere la fracción III del artículo 47 de la Ley, se hará extensivo al cónyuge y dependientes económicos en primer grado en línea recta, ascendente o descendente, que vivan con ellos en su lugar de Adscripción, de conformidad con los criterios que para tal efecto emita la Dirección General.
+El pago de los gastos de transporte del Miembro del Servicio Exterior, a que se refiere la fracción III del artículo 47 de la Ley, se hará extensivo al cónyuge, concubina o concubinario y dependientes económicos en primer grado en línea recta, ascendente o descendente, que vivan con ellos en su lugar de Adscripción, de conformidad con los criterios que para tal efecto emita la Dirección General.
 
-El beneficio a que se refiere el párrafo anterior se hará extensivo a los hijos del miembro del Servicio Exterior y a los hijos de su cónyuge que sean dependientes económicos del primero hasta el límite de edad de veinticinco años siempre y cuando sean estudiantes de tiempo completo, salvo aquellos casos de hijos que presenten una discapacidad que los imposibilite para trabajar para su subsistencia, siempre que vivan con el miembro del Servicio Exterior en su lugar de Adscripción.
+El beneficio del pago de los gastos de transporte a que se refiere el párrafo anterior, se hará extensivo a las hijas y a los hijos del Miembro del Servicio Exterior y a las hijas y los hijos de su cónyuge que sean dependientes económicos del primero hasta el límite de edad de veinticinco años, siempre y cuando sean estudiantes de tiempo completo, salvo aquellos casos de hijas o hijos que presenten una discapacidad permanente que los imposibilite para trabajar para su subsistencia, siempre que vivan con el Miembro del Servicio Exterior en su lugar de Adscripción.
+
+Lo anterior, con apego a las disposiciones de racionalidad, austeridad y disciplina presupuestaria y conforme a los criterios que al efecto emita la Secretaría.
 
 ###### ARTÍCULO 121.
 
 La ayuda para el pago del alquiler de la vivienda, a que se refiere la fracción VI del artículo 47 de la Ley, se sujetará a los términos y condiciones que determine la Secretaría, observando los principios presupuestarios de eficiencia, eficacia y economía en el gasto público federal y sujeto a la disponibilidad presupuestaria, previa autorización de la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 122.
 
-La Secretaría, para los efectos de la fracción VII del artículo 47 de la Ley, con base en los criterios que emita, observando los principios presupuestarios de eficiencia, eficacia y economía en el gasto público y sujeto a la disponibilidad presupuestaria, previa autorización de la Secretaría de Hacienda y Crédito Público, otorgará anualmente ayuda para el pago de la educación de los hijos menores de dieciocho años de los miembros del Servicio Exterior comisionados en el extranjero, que se encuentren cursando niveles educativos equivalentes a primaria, secundaria y preparatoria, incluyendo a los hijos de sus cónyuges, si son dependientes económicos de aquéllos y radiquen de manera permanente con el miembro del Servicio Exterior.
+La Secretaría, para los efectos de la fracción VII del artículo 47 de la Ley, con base en los criterios que emita, observando los principios presupuestarios de eficiencia, eficacia y economía en el gasto público y sujeto a la disponibilidad presupuestaria, previa autorización de la Secretaría de Hacienda y Crédito Público, otorgará anualmente ayuda para el pago de la educación de los hijos menores de dieciocho años de los Miembros del Servicio Exterior comisionados en el extranjero, que se encuentren cursando niveles educativos equivalentes a guardería, educación prescolar (sic), primaria, secundaria y media superior, incluyendo a los hijos de sus cónyuges, concubinas o concubinarios, si son dependientes económicos de aquéllos y vivan de manera permanente con el Miembro del Servicio Exterior.
+
+La ayuda para el pago de educación no será interrumpida cuando el servidor público sea notificado del traslado antes de que concluya el ciclo escolar en el que se encuentren cursando los menores de edad señalados en el párrafo anterior y dichos dependientes hayan tenido que permanecer en ese lugar de Adscripción para concluirlo.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 122 BIS.- Para los efectos de lo dispuesto por el artículo 47, fracción VII BIS de la Ley, la discapacidad deberá ser permanente y acreditarse mediante el certificado médico emitido en términos de las disposiciones administrativas que para tal efecto emita la Dirección General.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 123.
 
-Los miembros del Servicio Exterior al ser adscritos en el extranjero, quedarán automáticamente incorporados al seguro de gastos médicos que contrate la Secretaría de conformidad con la legislación aplicable. La Secretaría hará extensivo el seguro de gastos médicos al cónyuge y a los dependientes económicos hasta el primer grado en línea recta, ascendente, cuando vivan con el miembro del Servicio Exterior, o descendente, conforme a los siguientes criterios:
+Los Miembros del Servicio Exterior al ser adscritos en el extranjero, quedarán automáticamente incorporados al seguro de gastos médicos que contrate la Secretaría de conformidad con la legislación aplicable.
 
-I. Esta prestación se otorgará a los hijos menores de edad del miembro del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el miembro del Servicio Exterior;
+Para los efectos del otorgamiento de esta prestación a las hijas o a los hijos menores de edad de los Miembros del Servicio Exterior, así como a las hijas o los hijos menores de edad de su cónyuge, concubina o concubinario, los mismos deberán vivir con el Miembro del Servicio Exterior en su lugar de Adscripción.
 
-II. Asimismo se otorgará a los hijos menores de edad de los cónyuges de los miembros del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el miembro del Servicio Exterior, y
+Cuando las condiciones de seguridad, educación o servicios de salud del lugar de Adscripción en el exterior de los Miembros del Servicio Exterior impidan que sus hijas o hijos menores de edad, así como los de su cónyuge, concubina o concubinario, vivan con ellos, la Secretaría continuará la cobertura del seguro médico de los familiares que deban permanecer en el extranjero separados del Miembro del Servicio Exterior durante la vigencia de dicha Adscripción.
 
-III. A los hijos de los miembros del Servicio Exterior y los hijos de su cónyuge que presenten una discapacidad que los imposibilite para trabajar para su subsistencia, se les otorgará la prestación siempre que vivan con el miembro del Servicio Exterior en su lugar de Adscripción.
+El seguro de gastos médicos no será interrumpido a los cónyuges, concubinas o concubinarios, a las hijas o hijos de los Miembros del Servicio Exterior y las hijas o hijos de sus cónyuges, concubinas o concubinarios, cuando el servidor público sea notificado del traslado a México antes de que concluya el ciclo escolar en el que se encuentren y dichos dependientes hayan tenido que permanecer en el lugar de Adscripción para concluirlo.
 
-El seguro de gastos médicos no será interrumpido a los cónyuges, a los hijos de los miembros del Servicio Exterior y a los hijos de sus cónyuges cuando el servidor público sea notificado del traslado a México antes de que concluya el ciclo escolar en el que se encuentren y dichos dependientes hayan tenido que permanecer en el lugar de Adscripción para concluirlo.
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-La discapacidad, para los efectos previstos en la fracción III del presente artículo, en el párrafo tercero del artículo 109 y en el párrafo segundo del artículo 120 de este Reglamento, se debe comprobar mediante certificado médico, así como cumplir con los mecanismos de valorización que emita la Dirección General.
+ARTÍCULO 123 BIS.- Para efectos del acceso a la extensión de los derechos y prestaciones a los dependientes económicos de los Miembros del Servicio Exterior, contempladas en el Título Séptimo del Reglamento, se estará a lo siguiente:
+
+I. El parentesco o vínculo jurídico con el Miembro del Servicio Exterior, deberá ser acreditado con la entrega del original o copia certificada de la siguiente documentación:
+
+a) Cónyuge: Acta de matrimonio;
+
+b) Concubina o concubinario: Declaración testimonial ante autoridad judicial o ante notario público;
+
+c) Hijos menores de edad, hijos mayores de 18 años y hasta 25 años: Acta de nacimiento;
+
+d) Hijos del cónyuge, concubina o concubinario menores de edad o mayores de 18 años y hasta 25 años: Acta de nacimiento, cuyos datos del padre o madre, según corresponda, deberán concordar fielmente con los documentos señalados en los incisos a) y b) de esta fracción, y
+
+e) Dependientes económicos hasta el primer grado en línea recta ascendente: Acta de nacimiento.
+
+En los casos procedentes, se admitirán los documentos en formato electrónico, en los términos que establezcan las disposiciones aplicables;
+
+II. La discapacidad del dependiente económico del Miembro del Servicio Exterior se acreditará mediante la entrega del certificado médico que establezca que la condición de discapacidad a comprobar es permanente.
+
+La Dirección General establecerá disposiciones administrativas respecto a las características de forma y criterios de valoración de dicho documento, y
+
+III. La calidad de estudiante de los dependientes económicos del Miembro del Servicio Exterior se acreditará mediante constancia oficial de estudios, emitida por la institución educativa y en la cual debe incluir el nombre completo del alumno, fecha de inicio y término del periodo escolar vigente, nivel de estudios, así como traducción libre al idioma español, de ser el caso.
+
+La Dirección General establecerá disposiciones administrativas respecto a las características de forma y criterios de valoración de dicho documento.
+
+La documentación mencionada en este artículo se integrará al expediente personal del Miembro del Servicio Exterior.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 123 TER.- Para efectos de lo establecido en el artículo 50 de la Ley, la enfermedad o condición de salud grave que deba ser comprobada, será acreditada a través de certificado médico que establezca la enfermedad de la que se trata y el periodo que comprende la incapacidad para prestar sus funciones, así como la fecha probable en que el servidor público podrá reincorporarse a su trabajo.
+
+La Dirección General establecerá disposiciones administrativas respecto a las características de forma y criterios de valoración de dicho documento.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 124.
 
-La Secretaría cubrirá los gastos derivados de servicios médicos de urgencia, debidamente comprobados, que requieran los miembros del Servicio Exterior adscritos en territorio nacional, cuando se encuentren en comisión oficial en el extranjero.
+La Secretaría cubrirá los gastos derivados de servicios médicos de urgencia, debidamente comprobados, que requieran los Miembros del Servicio Exterior adscritos en territorio nacional, cuando se encuentren en comisión oficial en el extranjero.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 125.
 
-El miembro del Servicio Exterior cuando sea trasladado de una oficina de la Secretaría a otra fuera de la zona metropolitana de la Ciudad de México o viceversa, tendrá derecho a las prestaciones relativas al menaje de casa y gastos de instalación. Este derecho será igualmente válido cuando se trate de traslados entre oficinas ubicadas en distintas ciudades del territorio nacional.
+El Miembro del Servicio Exterior cuando sea trasladado de una oficina de la Secretaría a otra fuera de la zona metropolitana de la Ciudad de México o viceversa, tendrá derecho a las prestaciones relativas al menaje de casa y gastos de instalación. Este derecho será igualmente válido cuando se trate de traslados entre oficinas ubicadas en distintas ciudades del territorio nacional.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 126.
 
-El Instituto Matías Romero promoverá oportunidades de estudio para la capacitación y actualización permanente de los miembros del Servicio Exterior. Dichas oportunidades atenderán las necesidades de la Secretaría conforme a las prioridades establecidas por la Comisión de Personal.
+El Instituto Matías Romero promoverá oportunidades de estudio para la capacitación y actualización permanente de los Miembros del Servicio Exterior. Dichas oportunidades atenderán las necesidades de la Secretaría conforme a las prioridades establecidas por la Comisión de Personal.
 
-Los miembros del Servicio Exterior estarán obligados a participar en los cursos de capacitación y actualización a los que sean convocados y la Secretaría facilitará su participación.
+Los Miembros del Servicio Exterior estarán obligados a participar en los cursos de capacitación y actualización a los que sean convocados y la Secretaría facilitará su participación.
+
+### CAPÍTULO IV. De las Percepciones y Emolumentos
 
 ###### ARTÍCULO 127.
 
 La Secretaría de Hacienda y Crédito Público, a propuesta de la Secretaría, establecerá la asignación mensual tabular en divisas estadounidenses o euros, de acuerdo al costo y a la dificultad de vida de cada lugar.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+A fin de integrar la propuesta para la asignación mensual tabular citada en el párrafo anterior, así como para efecto de lo dispuesto en el artículo 9, párrafo tercero de la Ley, se considerarán los criterios, metodologías e índices, que utilizan los organismos internacionales para establecer su escala de sueldos y los factores de actualización correspondientes.
 
 ###### ARTÍCULO 128.
 
@@ -1217,9 +1547,11 @@ Asimismo, el Personal de Carrera que sea adscrito a México y no ocupe plaza de 
 
 La compensación a que se refiere el artículo 51, párrafo segundo de la Ley, que corresponde a los encargados de negocios o de Representación Consular, se pagará únicamente cuando se ejerzan las funciones por un periodo mínimo de siete días naturales consecutivos.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 130.
 
-Los viáticos a que se refiere el artículo 51 de la Ley, se otorgarán, de conformidad con la normativa emitida por la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias, a los miembros del Servicio Exterior, según sea el caso, para sufragar los gastos que realicen fuera de su sede por concepto de hotel, alimentos, servicios, transporte, comunicaciones y otros relacionados con la comisión oficial que cumplan.
+Los viáticos a que se refiere el artículo 51 de la Ley, se otorgarán, de conformidad con la normativa emitida por la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias, a los Miembros del Servicio Exterior, según sea el caso, para sufragar los gastos que realicen fuera de su sede por concepto de hotel, alimentos, servicios, transporte, comunicaciones y otros relacionados con la comisión oficial que cumplan.
 
 ###### ARTÍCULO 131.
 
@@ -1235,27 +1567,97 @@ I. Con base en el total de la percepción salarial mensual que por cualesquiera 
 
 II. Con base en la última percepción salarial mensual que hubiere recibido, si se encontrara en disfrute de licencia, disponibilidad o comisión, conforme a la Ley, al momento de determinarse su separación.
 
-Quienes se hayan reincorporado al Servicio Exterior conforme al artículo 36 de la Ley y que hayan cobrado ya la compensación a que se refiere este artículo, al momento de una ulterior separación, solamente tendrán derecho a ésta por el número de años laborados con posterioridad a su reincorporación, hasta el límite de la compensación por veinticuatro meses sumando todos los periodos.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Quienes se hayan reincorporado al Servicio Exterior conforme al artículo 36 de la Ley y que hayan cobrado ya la compensación a que se refiere este artículo, al momento de una ulterior separación, solamente tendrán derecho a ésta por el número de años laborados con posterioridad a su reincorporación, hasta el límite de la compensación por treinta y seis meses sumando todos los periodos.
 
 ###### ARTÍCULO 133.
 
 La Secretaría gestionará que la compensación para los embajadores eminentes y embajadores eméritos a que se refieren los artículos 24 y 25 de la Ley sea equivalente a Director de Área, en el primer caso, y de Director General Adjunto, en el segundo.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 134.
 
-La designación de beneficiarios a que se refiere el párrafo tercero del artículo 54 de la Ley se hará ante la Secretaría mediante escrito en el que se consignará, además del nombre y apellidos del beneficiario, los datos de parentesco u otros que permitan identificarlo. Si son dos o más los beneficiarios la compensación se dividirá entre ellos por partes iguales salvo estipulación distinta de quien los designa.
+La designación de beneficiarios a que se refiere el párrafo cuarto del artículo 54 de la Ley se hará ante la Secretaría mediante escrito en el que se consignará, además del nombre y apellidos del beneficiario, los datos de parentesco u otros que permitan identificarlo. Si son dos o más los beneficiarios la compensación se dividirá entre ellos por partes iguales salvo estipulación distinta de quien los designa.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 135.
 
-La jubilación de los miembros del Servicio Exterior, incluso para aquéllos que prestan sus servicios en el extranjero, se basará en las disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+La jubilación de los Miembros del Servicio Exterior, incluso para aquéllos que prestan sus servicios en el extranjero, se basará en las disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 136.
 
-La Secretaría auxiliará a los miembros del Servicio Exterior en los trámites correspondientes a su retiro o jubilación, ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+La Secretaría auxiliará a los Miembros del Servicio Exterior en los trámites correspondientes a su retiro o jubilación, ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 136 BIS.- El apoyo económico complementario a la pensión por vejez del régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado establecido en el artículo 55-BIS de la Ley, es único e intransferible. Los Miembros del Servicio Exterior de carrera podrán recibir el apoyo económico complementario una vez que cumplan con los requisitos establecidos en la Ley y mediante el procedimiento que establezcan las Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario emitidas por la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 136 TER.- Para los efectos establecidos en el artículo 55-BIS de la Ley, tanto las aportaciones de los Miembros del Servicio Exterior, así como las del Gobierno Federal para financiar el fondo para el apoyo económico complementario se depositarán, individualizarán e invertirán en un Fondo de Previsión Social contratado por la Secretaría con una administradora de fondos de ahorro para el retiro, de conformidad con lo siguiente:
+
+I. Para la supervisión y control interno del funcionamiento del Fondo, se creará un Comité Técnico, que será el órgano colegiado máximo de vigilancia del Fondo y órgano de apoyo de la Secretaría para la toma de decisiones en lo que respecta a la administración de los recursos con los que se prestará el apoyo económico complementario;
+
+II. La Secretaría, previa opinión del Comité Técnico, contratará el Fondo de Previsión Social en la administradora de fondos de ahorro para el retiro que al efecto se hubiera elegido, de conformidad con las disposiciones aplicables;
+
+III. La administración de los recursos se realizará por una administradora de fondos de ahorro para el retiro autorizada por la Comisión Nacional del Sistema de Ahorro para el Retiro;
+
+IV. El Fondo administrará cuentas individuales para cada Miembro del Servicio Exterior de carrera, mismas que estarán conformadas por dos subcuentas, una con las aportaciones del Gobierno Federal y otra con las aportaciones del Miembro del Servicio Exterior de carrera, según lo que establece la Ley;
+
+V. Los rendimientos netos que se obtengan con motivo de la inversión de las aportaciones que se realicen al Fondo en términos de la Ley y del Reglamento, se reinvertirán en la subcuenta que corresponda y solo podrán destinarse para los fines que fue creado el Fondo, es decir, para el otorgamiento del apoyo económico complementario, y
+
+VI. La operación del Fondo se sujetará a lo establecido en las Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario que al efecto emita la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 136 QUÁTER.- El Comité Técnico regirá su actuación de conformidad con las Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario que emita la Secretaría, y estará integrado por siete miembros con nivel jerárquico mínimo de Director General Adjunto o su equivalente; dos representantes de la Secretaría; dos representantes de los Miembros del Servicio Exterior de carrera, preferentemente uno por cada una de las ramas; un representante de la Secretaría de Hacienda y Crédito Público, y un representante de la Secretaría de la Función Pública. Asimismo, se invitará a un experto independiente en materia financiera, con voz pero sin voto, designado por la Comisión de Personal en términos de las Disposiciones Administrativas de Carácter General que emita la Secretaría.
+
+El Titular del Órgano Interno de Control en la Secretaría será invitado permanente del Comité Técnico, con voz pero sin voto.
+
+El Comité Técnico tendrá las siguientes funciones:
+
+I. Recomendar el esquema de contratación de la Administradora de Fondos para el Retiro que administrará el Fondo de Previsión Social;
+
+II. Conocer la información financiera y contable del Fondo que presente la administradora de fondos de ahorro para el retiro y dictar las medidas preventivas y correctivas que considere pertinentes;
+
+III. Opinar sobre la estrategia de inversión que le proponga la Administradora del Fondo;
+
+IV. Emitir opinión respecto del portafolio de inversión del Fondo de Previsión Social;
+
+V. Definir los requisitos mínimos para el nombramiento por parte de la Comisión de Personal del experto independiente en materia de inversiones, y
+
+VI. Las demás que señalen las Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario que emita la Secretaría y los lineamientos internos del Comité Técnico.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 136 QUINQUIES.- Los Miembros del Servicio Exterior de carrera que se registren para recibir el apoyo económico complementario, deberán elegir una de las alternativas establecidas en el artículo 55-BIS de la Ley. Dicha elección, será definitiva y no podrá modificarse posteriormente. El apoyo económico complementario, no trasciende a los beneficiarios que, en su caso, el Miembro del Servicio Exterior, tuviera registrados.
+
+En caso de fallecimiento del Miembro del Servicio Exterior que estuviera en activo y que se hubiera registrado para acceder al apoyo económico complementario, los recursos aportados por dicho Miembro se entregarán a sus beneficiarios, en tanto que los recursos aportados por el Gobierno Federal serán transferidos a la Tesorería de la Federación.
+
+En caso de optar por la renta vitalicia, la misma se pagará preferentemente de forma mensual.
+
+Las Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario que para el efecto emita la Secretaría, determinarán las formas para recibir el apoyo económico complementario, según sea el caso.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 136 SEXIES.- De conformidad con lo establecido en el artículo 55-BIS de la Ley, se transferirán a la Tesorería de la Federación los recursos correspondientes en los siguientes supuestos:
+
+I. Cuando el Miembro del Servicio Exterior de carrera cause baja por cualquiera de las razones que se establecen en las fracciones I, IV, V, VI y VIII del artículo 53-BIS de la Ley. En este caso, se transferirán únicamente las aportaciones realizadas por el Gobierno Federal, y
+
+II. Cuando el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado emita una negativa de pensión. En este caso, se transferirán únicamente las aportaciones realizadas por el Gobierno Federal.
+
+### CAPÍTULO V. Del Menaje de Casa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 137.
 
-El pago del transporte del menaje de casa de los miembros del Servicio Exterior, para los efectos de la fracción III del artículo 47 de la Ley, será cubierto por la Secretaría y tendrá un límite de hasta 3,200 kilogramos o 30 metros cúbicos, según resulte conveniente al interesado.
+El pago de los gastos de empaque, transporte y seguro del menaje de casa familiar de los Miembros del Servicio Exterior, para los efectos de la fracción III del artículo 47 de la Ley, será cubierto por la Secretaría y tendrá un límite de hasta 3,200 kilogramos o 30 metros cúbicos, según resulte conveniente al interesado.
 
 El equivalente del peso o volumen a que se refiere el párrafo anterior, o parte del mismo, podrá ser utilizado para transportar un automóvil, sin perjuicio de lo dispuesto en la normatividad vigente para la importación de vehículos en el país de destino.
 
@@ -1271,27 +1673,37 @@ La Secretaría pagará el transporte, el empaque y la prima de seguro del menaje
 
 En cualquier caso de traslado, se deberá presentar una lista pormenorizada de los artículos que conformen el menaje de casa o los efectos personales, según el caso, al Jefe de Misión Diplomática o de la Representación Consular, quien deberá certificarla con la firma y el sello de la Misión Diplomática o Representación y la enviará a la Secretaría para el registro correspondiente.
 
-Cuando un miembro del Servicio Exterior sea trasladado a México, la Secretaría revisará la lista certificada y si la encuentra en los límites razonables, dará curso a la tramitación de la franquicia de importación ante las autoridades correspondientes, conforme a la legislación aduanera.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+Cuando un Miembro del Servicio Exterior sea trasladado a México, la Secretaría revisará la lista certificada y si la encuentra en los límites razonables, dará curso a la tramitación de la franquicia de importación ante las autoridades correspondientes, conforme a la legislación aduanera.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 139.
 
-Los miembros del Servicio Exterior podrán importar a México, libre del pago de impuestos aduanales y de los derechos de importación, un vehículo de su propiedad, cuando regresen al país por traslado, término de comisión, renuncia, o por estar en disponibilidad, siempre que su estancia en el extranjero, ya sea en una Adscripción o más, haya sido de un mínimo de dos años.
+Los Miembros del Servicio Exterior podrán importar a México, libre del pago de impuestos aduanales y de los derechos de importación, un vehículo de su propiedad, cuando regresen al país por traslado, término de comisión, renuncia, o por estar en disponibilidad, siempre que su estancia en el extranjero, ya sea en una Adscripción o más, haya sido de un mínimo de dos años.
 
-La Secretaría notificará anualmente a los miembros del Servicio Exterior las marcas, modelos o tipo de vehículos susceptibles de ser importados de conformidad con el párrafo anterior.
+La Secretaría notificará anualmente a los Miembros del Servicio Exterior las marcas, modelos o tipo de vehículos susceptibles de ser importados de conformidad con el párrafo anterior.
 
-## TÍTULO NOVENO
+## TÍTULO OCTAVO
+
+### CAPÍTULO ÚNICO. De la Separación del Servicio Exterior
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 140.
 
-Los miembros del Servicio Exterior que renuncien deberán hacerlo por escrito y no podrán abandonar su puesto hasta que reciban, en un plazo que no excederá de quince días naturales, notificación de la Secretaría sobre la fecha en que les haya sido aceptada su renuncia.
+Los Miembros del Servicio Exterior que renuncien deberán hacerlo por escrito y no podrán abandonar su puesto hasta que reciban, en un plazo que no excederá de quince días naturales, notificación de la Secretaría sobre la fecha en que les haya sido aceptada su renuncia.
 
-Si el miembro del Servicio Exterior, antes de recibir la aceptación descrita, abandona su encargo, dicha situación se hará constar en su expediente personal y le impedirá reingresar al Servicio Exterior.
+Si el Miembro del Servicio Exterior, antes de recibir la aceptación descrita, abandona su encargo, dicha situación se hará constar en su expediente personal y le impedirá reingresar al Servicio Exterior.
 
-Si un miembro del Servicio Exterior renuncia a éste con la finalidad de evadir sus responsabilidades frente a un procedimiento disciplinario; una investigación del Órgano Interno de Control en la Secretaría; una investigación del Ministerio Público; o de una autoridad extranjera, no podrá beneficiarse de la reincorporación a que se refiere el artículo 36 de la Ley.
+Si un Miembro del Servicio Exterior renuncia a éste con la finalidad de evadir sus responsabilidades frente a un procedimiento disciplinario; una investigación del Órgano Interno de Control en la Secretaría; una investigación del Ministerio Público; o de una autoridad extranjera, no podrá beneficiarse de la reincorporación a que se refiere el artículo 36 de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 141.
 
-Los miembros de carrera del Servicio Exterior causarán baja por jubilación en los términos del artículo 55 de la Ley, o antes, si así lo manifiestan, conforme a las disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Con objeto de que disfruten en tiempo las vacaciones, licencia pre-jubilatoria y otras prestaciones a que tengan derecho, la Secretaría notificará con nueve meses de anticipación a los miembros del Servicio Exterior cuya causa de retiro sea la jubilación por cumplir sesenta y cinco años de edad, la fecha a partir de la cual la baja tendrá lugar.
+Los Miembros de carrera del Servicio Exterior causarán baja por jubilación en los términos del artículo 55 de la Ley, o antes, si así lo manifiestan, conforme a las disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Con objeto de que disfruten en tiempo las vacaciones, licencia pre-jubilatoria y otras prestaciones a que tengan derecho, la Secretaría notificará con nueve meses de anticipación a los Miembros del Servicio Exterior cuya causa de retiro sea la jubilación por cumplir setenta años de edad, la fecha a partir de la cual la baja tendrá lugar.
 
 Para los efectos a que haya lugar, la baja del Servicio Exterior de embajadores y cónsules generales de carrera que se encuentren ocupando la titularidad de una Representación Diplomática o de un Consulado General, será comunicada por el Secretario al Presidente de la República.
 
@@ -1299,11 +1711,23 @@ Para los efectos a que haya lugar, la baja del Servicio Exterior de embajadores 
 
 El Personal Temporal y Asimilado que cause baja por término de comisión, dejará de pertenecer al Servicio Exterior en la misma fecha de su baja, sin que la Secretaría tenga obligación alguna de reubicarlo.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 143.
 
-La Comisión de Personal someterá a consideración del Secretario la baja del Servicio Exterior, del personal que actualice alguna de las hipótesis previstas en las fracciones IV a VIII del artículo 53-BIS de la Ley.
+Cuando un Miembro del Servicio Exterior se ubique en alguna de las hipótesis previstas en las fracciones IV a VIII del artículo 53-BIS de la Ley, la Comisión de Personal, dictará un acuerdo de inicio de procedimiento de baja y notificará al servidor público que tiene un término de quince días hábiles, contado a partir del día siguiente a aquél en que se practicó dicha notificación, para manifestar por escrito lo que a su derecho convenga, debiéndose correr traslado con copia certificada de los documentos que sustenten el supuesto de baja.
 
-Aprobada y acordada la baja por el Secretario y mediante comunicación firmada por el titular de la Dirección General, se notificará personalmente al interesado la fecha a partir de la cual cause baja del Servicio Exterior para los efectos correspondientes.
+En caso de que el Miembro del Servicio Exterior, al momento de desahogar la vista otorgada, ofrezca pruebas para sustentar su dicho, la Comisión de Personal deberá acordar sobre su admisibilidad y señalará fecha y hora para su desahogo, en caso de que éstas no se desahoguen por su propia y especial naturaleza, para lo cual se tomará en consideración el lugar de adscripción del servidor público.
+
+Desahogadas las pruebas admitidas, la Comisión de Personal otorgará al servidor público un plazo de diez días hábiles, contado a partir del día siguiente a aquél en que se practicó dicha notificación, para formular alegatos, respecto de las pruebas y demás constancias que integran el expediente, a efecto de estar en posibilidad de someter a consideración del Secretario lo que estime procedente dentro del plazo establecido para tal efecto.
+
+En caso de que el Miembro del Servicio Exterior no presente el escrito a que se refiere el primer párrafo de este artículo, o bien, en el mismo no suscitare explícitamente controversia ni ofreciera prueba alguna, la Comisión de Personal, dentro de los diez días hábiles siguientes, contados a partir del día siguiente a la notificación o de la presentación del escrito, según sea el caso, someterá a consideración del Secretario lo que estime procedente.
+
+El Secretario contará con cuarenta y cinco días hábiles para emitir la resolución correspondiente, contados a partir del día siguiente de recibida la propuesta hecha por la Comisión de Personal.
+
+La resolución correspondiente deberá ser notificada personalmente al Miembro del Servicio Exterior dentro de los veinte días hábiles siguientes, mediante comunicación firmada por el titular de la Dirección General.
+
+En el caso de que la baja del Miembro del Servicio Exterior hubiera sido aprobada y acordada por el Secretario, la comunicación referida en el párrafo que antecede, deberá contener la fecha a partir de la cual cause baja del Servicio Exterior para los efectos correspondientes.
 
 ###### ARTÍCULO 144.
 
@@ -1311,13 +1735,27 @@ Para los efectos del artículo 58, fracción VIII de la Ley, y con independencia
 
 I. Morosidad. El retraso manifiesto en el cumplimiento de un encargo o comisión, o en el desarrollo de las labores que le hayan sido encomendadas en forma general o específica;
 
-II. Descuido manifiesto. La omisión, negligencia, falta de cuidado, olvido o inadvertencia de un miembro del Servicio Exterior para cumplir un encargo o comisión, o para desarrollar las labores que le hayan sido encomendadas en forma general o específica, y
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
-III. Ineptitud comprobada. La inhabilidad o incapacidad de un miembro del Servicio Exterior para cumplir un encargo o comisión, o para desarrollar las labores que le hayan sido encomendadas en forma general o específica.
+II. Descuido manifiesto. La omisión, negligencia, falta de cuidado, olvido o inadvertencia de un Miembro del Servicio Exterior para cumplir un encargo o comisión, o para desarrollar las labores que le hayan sido encomendadas en forma general o específica, y
+
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+III. Ineptitud comprobada. La inhabilidad o incapacidad de un Miembro del Servicio Exterior para cumplir un encargo o comisión, o para desarrollar las labores que le hayan sido encomendadas en forma general o específica.
+
+## TÍTULO NOVENO
+
+### CAPÍTULO ÚNICO. De los Asuntos Disciplinarios
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 145.
 
-La Subcomisión de Asuntos Disciplinarios, se integrará en términos de lo dispuesto por el artículo 59 de la Ley, y sus decisiones se tomarán por mayoría de votos. En caso de empate, el Presidente de la Subcomisión tendrá voto de calidad.
+La Subcomisión de Asuntos Disciplinarios, se integrará en términos de lo dispuesto por el artículo 59 de la Ley, y sus decisiones se tomarán por mayoría de votos.
+
+El Órgano Interno de Control en la Secretaría participará con voz, pero sin voto, en las reuniones de la Subcomisión de Asuntos Disciplinarios y de la Comisión de Personal cuando se traten asuntos disciplinarios.
+
+El Director General que tenga bajo su cargo los asuntos concernientes al personal del Servicio Exterior fungirá como Secretario de la Subcomisión de Asuntos Disciplinarios.
 
 ###### ARTÍCULO 146.
 
@@ -1327,73 +1765,195 @@ El Presidente de la Comisión de Personal, podrá ser suplido por otro miembro d
 
 En caso de que los miembros de la Subcomisión se encuentren comisionados en lugar distinto al de la celebración de la sesión respectiva, su participación podrá realizarse en forma remota, a través del uso de medios electrónicos.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 147.
 
-La investigación de hechos a que se refiere el artículo 60, fracción I de la Ley, podrá realizarse por la propia Subcomisión de Asuntos Disciplinarios, a fin de allegarse de todas las pruebas para el mejor conocimiento del asunto.
+La investigación de hechos a que se refiere el artículo 60, fracción I de la Ley, se realizará por conducto del Órgano Interno de Control en la Secretaría.
 
-Cuando el Órgano Interno de Control en la Secretaría tenga conocimiento de hechos que pudieran configurar sanciones administrativas, podrá realizar, en el ámbito de sus atribuciones, una investigación preliminar. Una vez practicada la investigación preliminar, el Órgano Interno de Control la hará del conocimiento del Secretario de la Subcomisión de Asuntos Disciplinarios para que, por su conducto, la Comisión de Personal determine si se inicia o no el procedimiento disciplinario previsto en el artículo 60 de la Ley.
+Al concluir las diligencias de investigación, el Órgano Interno de Control en la Secretaría emitirá un Informe de resultados de la investigación administrativa, en el que detalle los hallazgos obtenidos, el cual se presentará ante el Pleno de la Subcomisión de Asuntos Disciplinarios para los efectos establecidos en la fracción II del artículo 60 de la Ley.
 
-La Subcomisión de Asuntos Disciplinarios, una vez recibida la investigación preliminar realizada por el Órgano Interno de Control en la Secretaría, la analizará y en caso de que considere necesario obtener mayores elementos de prueba, podrá practicar la investigación que le permita tomar a la Comisión de Personal una determinación sobre el inicio del procedimiento disciplinario.
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 147 BIS.- Una vez recibido el Informe de resultados de la investigación administrativa, en próxima sesión, la Subcomisión de Asuntos Disciplinarios procederá al análisis de los hechos y de la información recabada.
+
+En caso de determinar la existencia de irregularidades, calificará la gravedad de la conducta en términos de lo dispuesto en los artículos 58 y 58-BIS de la Ley y emitirá el Informe de presunta irregularidad, el cual deberá contener:
+
+I. El nombre del servidor público señalado como presunto infractor, el lugar de adscripción y el rango que ostentaba en el momento de los hechos;
+
+II. La narración lógica y cronológica de los hechos que dieron lugar a la comisión de la irregularidad;
+
+III. La irregularidad que se imputa al presunto infractor, señalando con claridad las razones por las que se considera que ha cometido la falta;
+
+IV. Las pruebas que obran en autos para sustentar la comisión de la irregularidad y la presunta responsabilidad, y
+
+V. Nombre y firma de los integrantes de la Subcomisión de Asuntos Disciplinarios.
+
+Si no se encontraren elementos suficientes para demostrar la existencia de la irregularidad y la responsabilidad del presunto infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar.
+
+Dicha determinación, en su caso, se hará del conocimiento de la Comisión de Personal y se notificará a los servidores públicos involucrados, así como a los denunciantes cuando éstos fueren identificables.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 148.
 
-La Comisión de Personal, con base en el resultado de la investigación, podrá determinar el inicio del procedimiento disciplinario y, en su caso, la Subcomisión de Asuntos Disciplinarios elaborará el acta administrativa de presunta responsabilidad que refiere el artículo 60, fracción II de la Ley, y ordenará a su Presidente firmar y notificar el acta correspondiente al presunto responsable.
+La Comisión de Personal, en próxima reunión, podrá admitir el Informe de presunta irregularidad, con lo que dará inicio el procedimiento disciplinario e interrumpirá los plazos de prescripción establecidos en el artículo 150 del Reglamento.
+
+En caso de que advierta que el Informe de presunta irregularidad adolece de alguno o algunos de los requisitos señalados en el artículo anterior, o que la narración de los hechos fuere obscura o imprecisa, prevendrá a la Subcomisión de Asuntos Disciplinarios para que los subsane en un término de 10 días hábiles. En caso de no hacerlo se tendrá por no presentado dicho Informe, sin perjuicio de que la Subcomisión de Asuntos Disciplinarios pueda presentarlo nuevamente siempre que la sanción prevista para la conducta en cuestión no hubiera prescrito.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 148 BIS.- La Comisión de Personal se abstendrá de iniciar el procedimiento cuando del Informe de presunta irregularidad advierta que no existe daño ni perjuicio al erario y que se actualiza alguna de las siguientes hipótesis:
+
+I. Que la actuación del servidor público, en la atención, trámite o resolución de asuntos a su cargo, esté referida a una cuestión de criterio o arbitrio opinable o debatible, en la que válidamente puedan sustentarse diversas soluciones, siempre que la conducta o abstención no constituya una desviación a la legalidad y obren constancias de los elementos que tomó en cuenta el servidor público en la decisión que adoptó, o
+
+II. Que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, se hubieren producido, desaparecieron.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 149.
 
-En la substanciación del procedimiento disciplinario, de conformidad con el artículo 60 de la Ley, se garantizará en todo momento el derecho de audiencia del afectado y se observarán las siguientes disposiciones:
+En la substanciación del procedimiento disciplinario, de conformidad con el artículo 60 de la Ley, se garantizará en todo momento el derecho de audiencia del presunto infractor y se observarán las siguientes disposiciones:
 
-I. El plazo del afectado para presentar por escrito sus argumentos y enumerar las pruebas que los sustenten será de quince días hábiles contados a partir de la fecha en que se le haya notificado personalmente el acta señalada en la fracción II del artículo 60 de la Ley. A petición del afectado este plazo se ampliará por treinta días hábiles, para proveer a su mejor defensa;
+I. El plazo del presunto infractor para presentar por escrito sus argumentos y ofrecer las pruebas que los sustenten, será de veinte días hábiles. A petición del presunto infractor este plazo se ampliará por treinta días hábiles, para proveer a su mejor defensa.
 
-II. La Subcomisión de Asuntos Disciplinarios acordará lo procedente sobre la admisibilidad de las pruebas ofrecidas y señalará fecha y hora para su desahogo, en caso de que éstas no se desahoguen por su propia y especial naturaleza. En todo momento, tomará en cuenta el lugar de Adscripción del afectado para señalar el día y hora para su desahogo. En caso de que el miembro del Servicio Exterior se encuentre adscrito en oficinas centrales o delegaciones metropolitanas, la presentación y desahogo se hará previa notificación con al menos cinco días hábiles de anticipación; cuando se encuentre en delegaciones foráneas el plazo será de diez días hábiles, y para Representaciones en el exterior será de quince días hábiles.
+Para que el emplazamiento se entienda realizado se le deberá entregar al presunto infractor copia certificada del Informe de presunta irregularidad y del acuerdo por el que se admite; de la documentación que obre en el expediente, así como de las demás constancias y pruebas que haya aportado el Órgano Interno de Control en la Secretaría para sustentar su Informe de resultados de la investigación administrativa.
 
-Para los efectos de la fracción IV del artículo 60 de la Ley, las pruebas serán desahogadas en los términos previstos en el Código Federal de Procedimientos Civiles;
+La guarda y custodia de los expedientes integrados con motivo del procedimiento disciplinario corresponderá al Secretario de la Subcomisión de Asuntos Disciplinarios. El acceso a ellos se dará previa identificación del interesado, en un horario de 9:00 a 14:30 horas y de 16:00 a 18:00 horas, de lunes a viernes; debiéndose levantar constancia de su consulta.
 
-III. En caso de que durante la sustanciación del procedimiento la Subcomisión de Asuntos Disciplinarios se allegue de otras pruebas para el mejor conocimiento del asunto, lo notificará al afectado y se le otorgará un plazo de diez días hábiles para que manifieste lo que a su derecho corresponda;
+Las personas autorizadas conforme al cuarto párrafo, de la fracción IV del artículo 60 de la Ley, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y mostrar la cédula profesional o carta de pasante para la práctica de la abogacía en las diligencias de prueba en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente se le tendrá como autorizado para oír notificaciones e imponerse de los autos.
+
+De igual forma, el presunto infractor podrá designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquiera con capacidad legal, quien no gozará de las demás facultades a que se refieren los párrafos anteriores.
+
+El presunto infractor deberá señalar expresamente el alcance de las autorizaciones que concedan. En el acuerdo donde se resuelva sobre las autorizaciones, el Presidente de la Subcomisión de Asuntos Disciplinarios deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
+
+Asimismo, en su escrito de defensa deberá señalar domicilio en la Ciudad de México y una dirección de correo electrónico personal, para la práctica de cualquier notificación personal relacionada con la substanciación y resolución del procedimiento disciplinario;
+
+II. El Presidente de la Subcomisión de Asuntos Disciplinarios acordará lo procedente sobre la admisibilidad de las pruebas ofrecidas y señalará fecha y hora para su desahogo, en caso de que éstas no se desahoguen por su propia y especial naturaleza. En todo momento, tomará en cuenta el lugar de Adscripción del presunto infractor para señalar el día y hora para su desahogo. En caso de que el Miembro del Servicio Exterior se encuentre adscrito en oficinas centrales o delegaciones y subdelegaciones localizadas en la Ciudad de México, la presentación y desahogo se hará previa notificación con al menos cinco días hábiles de anticipación; cuando se encuentre en delegaciones y subdelegaciones localizadas fuera de la Ciudad de México, el plazo será de diez días hábiles, y para Representaciones en el exterior será de quince días hábiles.
+
+Para los efectos de la fracción VI del artículo 60 de la Ley, las pruebas serán desahogadas en los términos previstos en la Ley General de Responsabilidades Administrativas y la Ley Federal de Procedimiento Administrativo;
+
+III. En caso de que durante la sustanciación del procedimiento la Subcomisión de Asuntos Disciplinarios se allegue de otras pruebas para el mejor conocimiento del asunto, el Presidente de dicha Subcomisión lo notificará al presunto infractor y se le otorgará un plazo de diez días hábiles para que manifieste lo que a su derecho corresponda;
 
 IV. En todo el procedimiento, la Subcomisión de Asuntos Disciplinarios brindará las facilidades necesarias para que, a elección del interesado, la presentación y desahogo de pruebas y alegatos, puedan hacerse mediante escrito, de forma presencial o virtual a través de videoconferencia;
 
-V. A fin de estar en posibilidad de declarar cerrada la instrucción del procedimiento, una vez desahogadas las pruebas, la Subcomisión de Asuntos Disciplinarios otorgará al afectado un plazo de quince días hábiles para formular alegatos, respecto de las pruebas y demás constancias que integran el expediente, el cual correrá a partir del día hábil siguiente al que surta efectos la notificación respectiva, y
+V. A fin de estar en posibilidad de declarar cerrada la instrucción del procedimiento, una vez desahogadas las pruebas, el Presidente de la Subcomisión de Asuntos Disciplinarios otorgará al presunto infractor un plazo de quince días hábiles para formular alegatos, respecto de las pruebas y demás constancias que integran el expediente, y
 
-VI. De toda promoción recibida durante el procedimiento disciplinario, se deberá notificar al afectado el acuerdo recaído.
+VI. De toda promoción recibida durante el procedimiento disciplinario, se deberá notificar al presunto infractor el acuerdo recaído.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 150.
 
-La facultad para imponer las sanciones que la Ley prevé prescribe en cinco años contados a partir del día natural siguiente a aquél en que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado, si fueren de carácter continuo.
+Para el caso de irregularidades administrativas no graves, las facultades del Secretario para imponer las sanciones que la Ley prevé prescribirán en cinco años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado, si fueren de carácter continuo.
 
-La prescripción se interrumpirá al iniciarse el procedimiento previsto por la Ley. Si se dejare de actuar en ellos, la prescripción empezará a correr nuevamente desde el día natural siguiente al que se hubiere practicado el último acto procedimental o realizada la última promoción.
+Cuando se trate de irregularidades administrativas graves el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
+
+La prescripción se interrumpirá con la admisión del Informe de presunta irregularidad, a que se refiere la fracción III del artículo 60 de la Ley.
+
+Si se dejare de actuar en los procedimientos disciplinarios originados con motivo de la admisión del Informe de presunta irregularidad y, como consecuencia de ello, se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se admitió dicho Informe.
+
+En ningún caso, en los procedimientos disciplinarios podrá dejar de actuarse por más de un año sin causa justificada; en caso de actualizarse dicha inactividad, se decretará, a solicitud del presunto infractor, la caducidad de la instancia.
+
+Los plazos a los que se refiere el presente artículo se computarán en días naturales.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 151.
 
-La Subcomisión de Asuntos Disciplinarios, previo o posteriormente a la notificación prevista en la fracción III del artículo 60 de la Ley, podrá determinar la suspensión temporal del miembro del Servicio Exterior que se encuentra sujeto al procedimiento disciplinario, si a su juicio así conviene para la conducción o continuación de las investigaciones.
+La Subcomisión de Asuntos Disciplinarios, previa o posteriormente a la admisión del Informe de presunta irregularidad, prevista en la fracción III del artículo 60 de la Ley, podrá determinar la suspensión temporal del Miembro del Servicio Exterior que se encuentra sujeto al procedimiento disciplinario, si a su juicio así conviene para la conducción o continuación de las investigaciones.
 
-Para la procedencia de dicha suspensión, la Subcomisión de Asuntos Disciplinarios deberá notificar personalmente al afectado sobre su intención de suspenderlo temporalmente. El afectado podrá presentar argumentos escritos en contra de dicha intención en los cinco días hábiles posteriores a la notificación establecida en este artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se le atribuye. La Subcomisión de Asuntos Disciplinarios tendrá un plazo máximo de quince días hábiles para dar contestación a los argumentos.
+Para la procedencia de dicha suspensión, la Subcomisión de Asuntos Disciplinarios deberá notificar personalmente al presunto infractor sobre su intención de suspenderlo temporalmente. El presunto infractor podrá presentar argumentos escritos en contra de dicha intención dentro de los cinco días hábiles posteriores a la notificación establecida en este artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se le atribuye. La Subcomisión de Asuntos Disciplinarios tendrá un plazo máximo de quince días hábiles para dar contestación a los argumentos.
 
-La suspensión temporal suspenderá los efectos del nombramiento del presunto responsable y surtirá efectos a partir del momento que le sea notificada personalmente.
+La suspensión temporal suspenderá los efectos del nombramiento del presunto infractor y surtirá efectos a partir del momento que le sea notificada personalmente.
 
 En todos los casos la suspensión temporal cesará cuando se dicte resolución en el procedimiento correspondiente.
 
-En el supuesto de que el miembro del Servicio Exterior suspendido temporalmente no resultare responsable de los hechos que se le imputan, la Secretaría lo restituirá en el goce de sus derechos y le cubrirá las percepciones que debió recibir durante el tiempo en que haya estado suspendido.
+Dicha suspensión no prejuzgará ni será indicio de la responsabilidad que se le impute, lo cual se hará constar en la resolución correspondiente. Mientras dure la suspensión temporal se deberán decretar, al mismo tiempo, las medidas necesarias que le garanticen al presunto infractor mantener su mínimo vital y el de sus dependientes económicos; así como aquellas que impidan que se le presente públicamente como responsable de la comisión de la falta que se le imputa.
+
+En el supuesto de que el Miembro del Servicio Exterior suspendido temporalmente no resultare responsable de los hechos que se le imputan, la Secretaría lo restituirá en el goce de sus derechos y le cubrirá las percepciones que debió recibir durante el tiempo en que haya estado suspendido.
 
 ###### ARTÍCULO 152.
 
 El Secretario, una vez substanciado el procedimiento disciplinario, impondrá alguna de las sanciones previstas en el artículo 57 de la Ley en términos de lo dispuesto por el artículo 62 del mismo ordenamiento legal, pudiendo escuchar recomendaciones de la Comisión de Personal.
 
-La suspensión de los miembros del Servicio Exterior como resultado de la aplicación de una sanción administrativa, no podrá ser menor de tres días ni mayor de un año.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+La suspensión de los Miembros del Servicio Exterior como resultado de la aplicación de una sanción administrativa, no podrá ser menor de tres días ni mayor de un año.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+De igual manera, el Secretario podrá abstenerse de imponer alguna sanción administrativa, cuando de las pruebas aportadas en el procedimiento disciplinario se advierta la actualización de las hipótesis referidas en el artículo 148 Bis del Reglamento.
 
 ###### ARTÍCULO 153.
 
 Las resoluciones que se dicten en términos del presente apartado podrán ser impugnadas ante los tribunales competentes, sin perjuicio de lo dispuesto en el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 154.
 
-Los Jefes de Misiones Diplomáticas y de Representaciones Consulares, así como titulares de las unidades administrativas de la Secretaría, están facultados para imponer amonestaciones y apercibimientos al personal del Servicio Exterior bajo sus órdenes por faltas administrativas, las cuales serán notificadas al Director General, quien las integrará al expediente del miembro del Servicio Exterior, para otros efectos de la Ley y de este Reglamento.
+Los Jefes de Misiones Diplomáticas y de Representaciones Consulares, así como titulares de las unidades administrativas de la Secretaría, están facultados para imponer apercibimientos a los Miembros del Servicio Exterior bajo sus órdenes por conductas distintas a las previstas en los artículos 58 y 58-BIS de la Ley, las cuales serán notificadas al Director General, quien las integrará al expediente del Miembro del Servicio Exterior, para otros efectos de la Ley y del Reglamento.
 
 En los casos previstos en el artículo 58 de la Ley, será necesario sustanciar el procedimiento disciplinario previsto en el artículo 60 del mismo ordenamiento legal.
 
+En los casos previstos en el artículo 58-BIS de la Ley, se deberá observar lo dispuesto en las fracciones I a V del artículo 60 de la Ley, luego de lo cual, una vez integrado el expediente correspondiente, el Presidente de la Subcomisión de Asuntos Disciplinarios, previo cuaderno de antecedentes que se forme, lo remitirá a la Dirección General de Asuntos Jurídicos.
+
+Recibido el expediente original la Dirección General de Asuntos Jurídicos tendrá un plazo de tres días hábiles para remitirlo al Tribunal competente para los efectos a que haya lugar.
+
+Hecho lo anterior, deberá remitir copia certificada del acuse respectivo al Presidente de la Subcomisión de Asuntos Disciplinarios, a efecto de llevar a cabo las notificaciones que refiere el último párrafo del artículo 61-TER de la Ley.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 155.
 
-Los miembros del Servicio Exterior, para los efectos del presente capítulo, podrán realizar las gestiones por sí mismos o por conducto de quien tenga poder para ello en los términos del Código Federal de Procedimientos Civiles.
+El cómputo de los plazos empezará a correr a partir del día siguiente a aquél en que surta efectos la notificación.
+
+Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles. Se estimarán como días hábiles todos los del año, con excepción de aquellos días que, por virtud de ley, decreto o disposición administrativa, se determine como inhábil, durante los que no se practicará actuación alguna. Serán horas hábiles las que medien entre las 9:00 y las 18:00 horas.
+
+El Presidente de la Subcomisión de Asuntos Disciplinarios, podrá habilitar días y horas inhábiles para la práctica de aquellas diligencias que, a su juicio, lo requieran.
+
+En los plazos fijados en días no se contarán los inhábiles, salvo disposición en contrario.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 156.
+
+Las notificaciones podrán practicarse al presunto infractor personalmente o por estrados fijados en la Dirección General.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 157.
+
+El notificador podrá practicar las notificaciones personales directamente al presunto infractor o a persona autorizada para tales efectos, en términos del artículo 149, fracción I, del Reglamento, y surtirán sus efectos al día hábil siguiente en que se realicen.
+
+Para tales efectos, el Secretario de la Subcomisión de Asuntos Disciplinarios podrá solicitar el auxilio de la persona que encabece la Representación o Delegación foránea en México para realizar las notificaciones personales que se deban llevar a cabo respecto de las personas que se encuentren en su lugar de Adscripción.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 158.
+
+Las notificaciones por estrados surtirán sus efectos dentro de los tres días hábiles siguientes en que sean colocados en los lugares destinados para tal efecto. El Secretario de la Subcomisión de Asuntos Disciplinarios, deberá certificar el día y hora en que hayan sido colocados los acuerdos en los estrados respectivos.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 159.
+
+Serán notificados personalmente:
+
+I. El emplazamiento al presunto infractor para que comparezca al procedimiento disciplinario;
+
+II. En el caso de faltas administrativas graves, la remisión del expediente original del procedimiento disciplinario al Tribunal encargado de resolver el asunto, indicando el domicilio correspondiente;
+
+III. La resolución definitiva que emita el Secretario en el procedimiento disciplinario, y
+
+IV. Las demás que así se determinen en la Ley, o que la Subcomisión de Asuntos Disciplinarios o la Comisión de Personal consideren pertinentes para el mejor cumplimiento de sus determinaciones.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 160.
+
+Toda notificación prevista en el presente Capítulo, deberá efectuarse en el plazo máximo de quince días hábiles, a partir de que el Secretario de la Subcomisión de Asuntos Disciplinarios obtenga debidamente suscrito el acuerdo o la resolución que se notifique.
 
 ## TRANSITORIOS
 
@@ -1418,3 +1978,43 @@ NOVENO. Los procedimientos administrativos disciplinarios en trámite a la fecha
 DÉCIMO. La aplicación del presente Reglamento no incrementará el presupuesto autorizado a la Secretaría en el presente ejercicio fiscal y los subsecuentes.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de abril de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Relaciones Exteriores, Luis Videgaray Caso.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Al momento de su aprobación por parte del Secretario de Relaciones Exteriores, el Plan de Carrera será publicado en el Diario Oficial de la Federación y entrará en vigor a más tardar el 1 de julio de 2019. Durante ese periodo, la Presidencia de la Comisión de Personal informará a los Miembros del Servicio Exterior Mexicano sobre las nuevas disposiciones y sus implicaciones para cada uno de los rangos.
+
+TERCERO. Los Primeros Secretarios que, habiendo aprobado los exámenes de media carrera, el examen de ascenso al rango de Consejero, así como la Convocatoria para los Exámenes de Ascenso para la Rama Diplomático-Consular 2017, en términos de las disposiciones aplicables hasta antes de la entrada en vigor de este Decreto, no será necesario que se presenten nuevamente al concurso de ascenso al rango de Consejero y en el próximo Concurso de ascenso a dicha categoría, sólo concursarán a través de la revisión de su expediente.
+
+Los Primeros Secretarios que habiendo aprobado los exámenes de media carrera y que hubieran presentado el Concurso de Ascenso al rango de Consejero, así como la Convocatoria para los Exámenes de Ascenso para la Rama Diplomático-Consular 2017 y la circular 23 de dicho Concurso de Ascenso, en términos de las disposiciones aplicables hasta antes de la entrada en vigor de este Decreto, en los subsecuentes concursos de ascenso a dicha categoría sólo concursarán presentando el examen no aprobado, conforme a los artículos 50, fracción VII y 52, así como Séptimo Transitorio, del Reglamento de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 28 de abril de 2017, así como a través de la revisión de su expediente.
+
+Los Primeros Secretarios que habiendo aprobado los exámenes de media carrera, en los términos de la Ley del Servicio Exterior Mexicano, vigente hasta antes de la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 19 de abril de 2018, y que no hubieran presentado o aprobado el Concurso de Ascenso al rango de Consejero, en los términos del Reglamento de la Ley del Servicio Exterior Mexicano, vigente hasta antes de la entrada en vigor del presente Decreto, en los subsecuentes concursos de ascenso a dicha categoría sólo concursarán presentando los exámenes de habilidades gerenciales y de liderazgo y teórico-práctico de asuntos consulares y de protección, conforme a los artículos 50, fracción VII y 52, así como Séptimo Transitorio, del Reglamento de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 28 de abril de 2017, así como a través de la revisión de su expediente.
+
+CUARTO. La compactación de los rangos de la rama técnico-administrativa entrará en vigor el 1° de enero de 2019. Los miembros de la rama técnico-administrativa que previo a la compactación hayan detentado el rango de Técnico Administrativo C, B o A, deberán aprobar el examen establecido por el artículo 55 del Reglamento de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 28 de abril de 2017, como requisito para ascender cuando sean elegibles al rango de Agregado Administrativo B.
+
+QUINTO. El modelo y la metodología de evaluación de desempeño a la que se refiere el artículo 33 Undecies del Reglamento de la Ley del Servicio Exterior Mexicano, deberán ser publicados en el Diario Oficial de la Federación y entrarán en vigor 30 días hábiles después de su publicación.
+
+Las disposiciones relacionadas con el ascenso de los Miembros del Servicio Exterior contenidas en este Reglamento, se aplicarán una vez que hayan entrado en vigor tanto las disposiciones del Plan de Carrera como el modelo y la metodología de evaluación de desempeño. En tanto, cualquier concurso de ascenso convocado antes de la entrada en vigor de dichos instrumentos deberá regirse por las disposiciones del Reglamento de la Ley del Servicio Exterior Mexicano publicado en el Diario Oficial de la Federación el 28 de abril de 2017.
+
+Para efectos de las temporalidades de tránsito y permanencia dispuestas en el artículo 40-Bis de la Ley, éstas comenzarán a computarse para todos los Miembros del Servicio Exterior a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Para efectos de lo dispuesto en el artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 19 de abril de 2018, los servidores públicos que sin ser Miembros del Servicio Exterior de carrera, se encuentren en el supuesto establecido en dicha disposición, podrán estar a lo siguiente:
+
+I. Solicitar el apoyo económico complementario, en términos de lo dispuesto en el artículo 55-BIS de la Ley, y
+
+II. Solicitar a la Secretaría su ingreso al Servicio Exterior Mexicano, pudiendo iniciar el proceso correspondiente a partir de la entrada en vigor del presente Decreto.
+
+Para el ingreso al Servicio Exterior Mexicano en términos de la fracción II de la presente disposición, los interesados podrán solicitar su ingreso como personal de carrera de la rama diplomático-consular, con el rango de Ministro; lo anterior sujeto a que exista disponibilidad de plazas. Al efecto, la Comisión de Personal, en el ejercicio de sus funciones, podrá tomar en consideración lo dispuesto en los artículos 28, fracciones I, II, III, IV, V y VI y 32 de la Ley, para determinar lo procedente.
+
+SÉPTIMO. El apoyo económico complementario al que tuvieran derecho los Miembros del Servicio Exterior de carrera que hubieren causado baja por jubilación del servicio con anterioridad a la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 19 de abril de 2018, se pagará de forma mensual conforme al procedimiento establecido en la (sic) Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario que para tal efecto emita la Secretaría.
+
+Los Miembros del Servicio Exterior que hubiesen causado baja por jubilación al 20 de abril de 2018 pero que no hayan tramitado su pensión ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado por virtud de que continúan en activo en la Secretaría de Relaciones Exteriores, podrán acceder al apoyo económico complementario, una vez que obtengan la resolución de pensión por vejez respectiva.
+
+Dicho apoyo es único e intransferible y será pagado por el Gobierno Federal mediante el procedimiento establecido en las Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario que para tal efecto emita la Secretaría.
+
+OCTAVO. La Secretaría de Relaciones Exteriores realizará las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, se realicen con cargo al presupuesto aprobado a dicha Secretaría en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto regularizable de la Secretaría de Relaciones Exteriores para el presente ejercicio fiscal ni posteriores.
