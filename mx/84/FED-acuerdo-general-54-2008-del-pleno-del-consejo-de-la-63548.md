@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-54-2008-del-pleno-del-consejo-de-la-63548"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-10"
-last_updated: "2016-04-15"
+last_updated: "2018-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63548&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-10"
 
 ACUERDO GENERAL 54/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SÉPTIMA REGIÓN, CON RESIDENCIA EN ACAPULCO, GUERRERO, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 10 de octubre de 2008.
 
@@ -55,17 +55,15 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 27/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2011) (F. DE E., D.O.F. 29 DE SEPTIEMBRE DE 2011)
+> <small>(REFORMADO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
 
-PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, conformado por un tribunal colegiado Auxiliar, un tribunal unitario y cuatro juzgados de Distrito Auxiliares, el domicilio de los juzgados de Distrito será el ubicado en Boulevard de las Naciones número 640, Granja 39, Fracción 'A', Fraccionamiento Granjas del Marqués, código postal 39890, Acapulco, Guerrero, y los restantes órganos jurisdiccionales estarán en avenida Adolfo López Mateos número 4, Fraccionamiento Las Playas, código postal 39390, Acapulco, Guerrero, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACIÓN, UBICACIÓN Y COMPETENCIA. Se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, conformado por un tribunal Colegiado Auxiliar, un tribunal unitario y tres juzgados de Distrito Auxiliares, el domicilio de los juzgados de Distrito será el ubicado en Boulevard de las Naciones número 640, Granja 39, Fracción ‘A’, Fraccionamiento Granjas del Marqués, código postal 39890, Acapulco, Guerrero, y los restantes órganos jurisdiccionales estarán en avenida Adolfo López Mateos número 4, Fraccionamiento Las Playas, código postal 39390, Acapulco, Guerrero, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Juzgado Primero de Distrito del Centro Auxiliar de la Séptima Región.
 
-Juzgado Segundo de Distrito del Centro Auxiliar de la Séptima Región.
-
-Juzgado Tercero de Distrito del Centro Auxiliar de la Séptima Región.
-
 Juzgado Cuarto de Distrito del Centro Auxiliar de la Séptima Región.
+
+Juzgado Quinto de Distrito del Centro Auxiliar de la Séptima Región.
 
 El tribunal unitario se denominará:
 
@@ -156,3 +154,21 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se deroga el punto Quinto de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 20/2009, que crea el Centro Auxiliar de la Primera Región; 10/2008, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos jurisdiccionales que lo integrarán; 18/2008, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán; 27/2008, por el que se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán; 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán; 53/2008, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán; 54/2008, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; 32/2010, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán; 51/2009, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán; 54/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán; y 33/2011, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán.
+
+D.O.F. 5 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS SEGUNDO Y TERCERO DE DISTRITO DEL CENTRO AUXILIAR DE LA SÉPTIMA REGIÓN, CON RESIDENCIA EN ACAPULCO, GUERRERO; Y SU TRANSFORMACIÓN EN JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL MISMO ESTADO Y RESIDENCIA, INICIO DE FUNCIONES, COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones de los Juzgados Segundo y Tercero de Distrito del Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, y su transformación e inicio de funciones como Juzgado de Distrito en Materia Mercantil Federal en el mismo Estado y residencia, implicará el traslado de uno de sus titulares, en la misma calidad, en tanto que el otro será readscrito por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+
+El traslado del personal con su plaza se deberá realizar respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional que inicia funciones deberá contar con la plantilla de personal que tienen sus homólogos.
+
+CUARTO. Los Juzgados de Distrito en el Estado de Guerrero, con residencia en Acapulco, conservarán su actual denominación, jurisdicción territorial y competencia, y continuarán conociendo de los asuntos en materia mercantil que se les hayan turnado antes del inicio de funciones del Juzgado de Distrito en Materia Mercantil Federal en el Estado de Guerrero, con residencia en Acapulco, hasta su total conclusión y archivo.
+
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+SEXTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración de los sistemas computarizados de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones y a la oficina de Correspondencia Común del Centro Auxiliar de la Séptima Región.
