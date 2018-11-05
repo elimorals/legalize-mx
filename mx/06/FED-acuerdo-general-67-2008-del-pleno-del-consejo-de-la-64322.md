@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-67-2008-del-pleno-del-consejo-de-la-64322"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-11-13"
-last_updated: "2008-11-13"
+last_updated: "2018-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64322&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-10-15"
 
 ACUERDO GENERAL 67/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO DEL CENTRO AUXILIAR DE LA SÉPTIMA REGIÓN, CON RESIDENCIA EN ACAPULCO, GUERRERO, CON JURISDICCIÓN EN TODA LA REPÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de noviembre de 2008.
 
@@ -49,9 +49,13 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-PRIMERO. Los Juzgados Primero, Segundo y Tercero de Distrito del Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, tendrán competencia y jurisdicción en toda la República, e iniciarán funciones el dieciséis de noviembre de dos mil ocho, los cuales funcionarán conforme a lo establecido en el Acuerdo General 54/2008 del Pleno del Consejo de la Judicatura Federal.
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
 
-SEGUNDO. Los Juzgados Primero, Segundo y Tercero de Distrito del Centro Auxiliar de la Séptima Región, apoyarán en el dictado de sentencias a los órganos jurisdiccionales que determine la Comisión de Creación de Nuevos Organos.
+PRIMERO. El Juzgado Primero de Distrito del Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, tendrá competencia y jurisdicción en toda la República, e iniciará funciones el dieciséis de noviembre de dos mil ocho, el cual funcionará conforme a lo establecido en el Acuerdo General 54/2008 del Pleno del Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
+SEGUNDO. El Juzgado Primero de Distrito del Centro Auxiliar de la Séptima Región, apoyará en el dictado de sentencias a los órganos jurisdiccionales que determine la Comisión de Creación de Nuevos Órganos.
 
 La Comisión de Creación de Nuevos Organos a propuesta de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará el tiempo, número y cualidad de los asuntos que deberán enviar a la Oficina de Correspondencia Común del Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero.
 
@@ -64,3 +68,21 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 67/2008, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funciones de los Juzgados Primero, Segundo y Tercero de Distrito del Centro Auxiliar de la Séptima Región, con Residencia en Acapulco, Guerrero, con Jurisdicción en toda la República, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de quince de octubre de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a seis de noviembre de dos mil ocho.- Conste.- Rúbrica.
+
+D.O.F. 5 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS SEGUNDO Y TERCERO DE DISTRITO DEL CENTRO AUXILIAR DE LA SÉPTIMA REGIÓN, CON RESIDENCIA EN ACAPULCO, GUERRERO; Y SU TRANSFORMACIÓN EN JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL MISMO ESTADO Y RESIDENCIA, INICIO DE FUNCIONES, COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones de los Juzgados Segundo y Tercero de Distrito del Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, y su transformación e inicio de funciones como Juzgado de Distrito en Materia Mercantil Federal en el mismo Estado y residencia, implicará el traslado de uno de sus titulares, en la misma calidad, en tanto que el otro será readscrito por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+
+El traslado del personal con su plaza se deberá realizar respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional que inicia funciones deberá contar con la plantilla de personal que tienen sus homólogos.
+
+CUARTO. Los Juzgados de Distrito en el Estado de Guerrero, con residencia en Acapulco, conservarán su actual denominación, jurisdicción territorial y competencia, y continuarán conociendo de los asuntos en materia mercantil que se les hayan turnado antes del inicio de funciones del Juzgado de Distrito en Materia Mercantil Federal en el Estado de Guerrero, con residencia en Acapulco, hasta su total conclusión y archivo.
+
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+SEXTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración de los sistemas computarizados de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones y a la oficina de Correspondencia Común del Centro Auxiliar de la Séptima Región.
