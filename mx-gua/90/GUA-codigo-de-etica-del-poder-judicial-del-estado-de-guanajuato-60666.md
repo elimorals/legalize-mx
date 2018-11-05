@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-poder-judicial-del-estado-de-guanajuato-606
 country: "mx"
 rank: "codigo"
 publication_date: "2008-04-01"
-last_updated: "2008-04-01"
+last_updated: "2018-11-05"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "GUA"
 ---
 # CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-CÓDIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 5 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2018 (SIN EFECTOS).
 
 Código publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de abril de 2008.
 
@@ -42,7 +44,7 @@ Las disposiciones de este Código, constituyen un catálogo de principios ético
 
 El presente Código tiene las siguientes finalidades:
 
-l. Establecer los criterios y valores que deben inspirar la conducta ética de los jueces, consejeros, magistrados y demás servidores públicos del Poder Judicial, tendentes a lograr la excelencia del servicio de impartición de justicia, independientemente del cumplimiento de las disposiciones legales que regulan el desempeño de sus funciones;
+I. Establecer los criterios y valores que deben inspirar la conducta ética de los jueces, consejeros, magistrados y demás servidores públicos del Poder Judicial, tendentes a lograr la excelencia del servicio de impartición de justicia, independientemente del cumplimiento de las disposiciones legales que regulan el desempeño de sus funciones;
 
 II. Fomentar una cultura de transparencia, honestidad y objetividad en el desempeño del trabajo de todos los juzgadores y demás servidores públicos del Poder Judicial del Estado, mediante la promoción de actitudes que desarrollen compromisos con la sociedad, consigo mismos y con la institución a la que pertenecen; y,
 
@@ -114,7 +116,7 @@ Resolver sin esperar reconocimiento personal.
 
 Tratar con respeto a sus pares, escuchar con atención y apertura de entendimiento sus planteamientos y dialogar con razones y tolerancia.
 
-### CAPÍTULO IV. PROFESIONALlSMO
+### CAPÍTULO IV. PROFESIONALISMO
 
 ###### Artículo 8°.
 
@@ -235,3 +237,13 @@ Procurar que los procesos a su cargo se resuelvan en un plazo razonable, para lo
 ## ARTÍCULO TRANSITORIO
 
 Artículo Único.- El presente Código deberá ser publicado en el Periódico Oficial del Gobierno del Estado y en el Boletín del Poder Judicial.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero.- Queda sin efecto el Código de Ética publicado en el Periódico Oficial de Gobierno del Estado de Guanajuato, de fecha 1 de abril de 2008.
+
+Artículo Segundo.- El presente Código deberá ser publicado en la página de internet del Poder Judicial y en el Periódico Oficial del Gobierno del Estado, y entrará en vigor a partir del día siguiente a aquel en que se realice la última de las publicaciones referidas.
