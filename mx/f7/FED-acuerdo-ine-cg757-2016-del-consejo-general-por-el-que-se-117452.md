@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg757-2016-del-consejo-general-por-el-que-se-117452
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-12-01"
-last_updated: "2016-12-01"
+last_updated: "2018-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117452&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-10-24"
 ---
 # ACUERDO INE/CG757/2016 DEL CONSEJO GENERAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL CONCURSO PUBLICO 2016-2017 DE INGRESO PARA OCUPAR PLAZAS EN CARGOS Y PUESTOS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL DEL INSTITUTO NACIONAL ELECTORAL, EN ACATAMIENTO A LA RESOLUCION DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION EN EL RECURSO DE APELACION SUP-RAP-459/2016
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL CONCURSO PÚBLICO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL DEL SISTEMA DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 5 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL CONCURSO PÚBLICO 2016-2017 DE INGRESO PARA OCUPAR PLAZAS EN CARGOS Y PUESTOS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL DEL INSTITUTO NACIONAL ELECTORAL, EN ACATAMIENTO A LA RESOLUCIÓN DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL RECURSO DE APELACIÓN SUP-RAP-459/2016
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2018 (ABROGADO).x
 
 Acuerdo publicado en la Tercera Sección al Número 1 del Diario Oficial de la Federación, el jueves 1 de diciembre de 2016.
 
@@ -58,3 +60,19 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 El anexo puede ser consultado en la siguiente dirección electrónica:
 
 http://www.ine.mx/archivos2/portal/historico/contenido/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/10_Octubre/CGex201610-24-1/CGex201610-24-ap-4-a1.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL CONCURSO PÚBLICO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL DEL SISTEMA DEL INSTITUTO NACIONAL ELECTORAL.]</small>
+
+Primero. Se abrogan los Lineamientos del Concurso Público 2016-2017 de Ingreso para ocupar plazas en cargos y puestos del Servicio Profesional Electoral Nacional del Instituto Nacional Electoral.
+
+Segundo. Se aprueban los Lineamientos del Concurso Público del Servicio Profesional Electoral Nacional del Sistema del Instituto Nacional Electoral, mismos que, como anexo único, forman parte del presente Acuerdo.
+
+Tercero. Se faculta a la Dirección Ejecutiva del Servicio Profesional Electoral Nacional para desarrollar las Convocatorias y las distintas fases y etapas, establecidas en los Lineamientos del Concurso Público del Servicio Profesional Electoral Nacional del Sistema del Instituto Nacional Electoral.
+
+Cuarto. Cualquier caso no previsto en los Lineamientos del Concurso Público del Servicio Profesional Electoral Nacional del Sistema del Instituto Nacional Electoral, será resuelto por la Dirección Ejecutiva del Servicio Profesional Electoral Nacional, previo conocimiento de la Comisión del Servicio Profesional Electoral Nacional.
+
+Quinto. El presente Acuerdo deberá publicarse en el Diario Oficial de la Federación.
