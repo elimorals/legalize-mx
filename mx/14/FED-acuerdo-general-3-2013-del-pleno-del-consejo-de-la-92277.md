@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-10-31"
+last_updated: "2018-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -403,9 +403,9 @@ XXI. VIGESIMO PRIMER CIRCUITO:
 
 2. Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
 
-3. Diez juzgados de Distrito en el Estado de Guerrero: tres con residencia en Chilpancingo, cinco con residencia en Acapulco y dos con residencia en Iguala.
+3. Once juzgados de Distrito en el Estado de Guerrero: tres con residencia en Chilpancingo, seis con residencia en Acapulco, uno de éstos en Materia Mercantil Federal y dos con residencia en Iguala.
 
 XXII. VIGESIMO SEGUNDO CIRCUITO:
 
@@ -889,9 +889,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, se integrará por un tribunal unitario de Circuito Auxiliar y un juzgado de Distrito Auxiliar.
 
-(REFORMADO, D.O.F. 11 DE ABRIL DE 2014
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
 
-7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cinco juzgados de Distrito Auxiliares.
+7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y tres juzgados de Distrito Auxiliares.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
 
@@ -7340,3 +7340,21 @@ TERCERO. Los Juzgados de Distrito en el Estado de Coahuila de Zaragoza, con resi
 CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
 
 QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
+
+D.O.F. 5 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS SEGUNDO Y TERCERO DE DISTRITO DEL CENTRO AUXILIAR DE LA SÉPTIMA REGIÓN, CON RESIDENCIA EN ACAPULCO, GUERRERO; Y SU TRANSFORMACIÓN EN JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL MISMO ESTADO Y RESIDENCIA, INICIO DE FUNCIONES, COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones de los Juzgados Segundo y Tercero de Distrito del Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, y su transformación e inicio de funciones como Juzgado de Distrito en Materia Mercantil Federal en el mismo Estado y residencia, implicará el traslado de uno de sus titulares, en la misma calidad, en tanto que el otro será readscrito por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+
+El traslado del personal con su plaza se deberá realizar respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional que inicia funciones deberá contar con la plantilla de personal que tienen sus homólogos.
+
+CUARTO. Los Juzgados de Distrito en el Estado de Guerrero, con residencia en Acapulco, conservarán su actual denominación, jurisdicción territorial y competencia, y continuarán conociendo de los asuntos en materia mercantil que se les hayan turnado antes del inicio de funciones del Juzgado de Distrito en Materia Mercantil Federal en el Estado de Guerrero, con residencia en Acapulco, hasta su total conclusión y archivo.
+
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+SEXTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración de los sistemas computarizados de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones y a la oficina de Correspondencia Común del Centro Auxiliar de la Séptima Región.
