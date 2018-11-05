@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-v-124878"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-22"
-last_updated: "2017-12-22"
+last_updated: "2018-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124878&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-12-04"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN V
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2018.
 
 Estatuto publicado en la Octava Sección al Número 19 del Diario Oficial de la Federación, el viernes 22 de diciembre de 2017.
 
@@ -65,11 +65,15 @@ ESTATUTO ORGÁNICO DE CFE GENERACIÓN V
 
 ### CAPÍTULO ÚNICO. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
 
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
+## TÍTULO V BIS. De la Instancia en Materia de Responsabilidades
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO ÚNICO. Unidad de Responsabilidades
+
 CONSIDERANDOS
-
-## TÍTULO I. De la Organización
-
-### CAPÍTULO I. Disposiciones Generales
 
 ## TRANSITORIOS
 
@@ -87,9 +91,9 @@ Que, con base en los considerandos que anteceden, se emite el siguiente:
 
 Estatuto Orgánico de CFE Generación V
 
-## TÍTULO II. Del Gobierno Corporativo
+## TÍTULO I. De la Organización
 
-### CAPÍTULO II. De la Estructura de CFE Generación V
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1.
 
@@ -151,7 +155,7 @@ XXIII. Sistema de Control Interno: el conjunto de políticas, principios, normas
 
 XXIV. TESL: Términos para la Estricta Separación Legal de la Comisión Federal de Electricidad.
 
-### CAPÍTULO I. Integración y funcionamiento del Consejo de CFE Generación V y sus Comités
+### CAPÍTULO II. De la Estructura de CFE Generación V
 
 ###### ARTÍCULO 3.
 
@@ -239,9 +243,9 @@ a. Oficina de Integración de Bitácoras de Eventos y Programas de Mantenimiento
 
 b. Oficina de Gestión de Procedimientos Operativos y Pruebas a Centrales.
 
-## TÍTULO III. De las Unidades Operativas y Administrativas
+## TÍTULO II. Del Gobierno Corporativo
 
-### CAPÍTULO II. Del Director General
+### CAPÍTULO I. Integración y funcionamiento del Consejo de CFE Generación V y sus Comités
 
 ###### ARTÍCULO 4.
 
@@ -317,7 +321,7 @@ Las reglas de operación y funcionamiento del Consejo de Administración deberá
 
 Las actas y acuerdos del Consejo y sus Comités se difundirán conforme a la normatividad aplicable, a través del portal electrónico de CFE Generación V.
 
-### CAPÍTULO III. De la Auditoría Interna
+### CAPÍTULO II. Del Director General
 
 ###### ARTÍCULO 11.
 
@@ -375,7 +379,7 @@ XVII. Las demás previstas en los ordenamientos jurídicos aplicables, el Estatu
 
 Para el ejercicio de sus funciones, el Director General se auxiliará de las Unidades Operativas, Administrativas y Servidores Públicos que se establezcan en el presente Estatuto.
 
-### CAPÍTULO I. De las Subgerencias
+### CAPÍTULO III. De la Auditoría Interna
 
 ###### ARTÍCULO 13.
 
@@ -385,9 +389,9 @@ La Auditoría Interna se auxiliará de un Auditor Supervisor y un Auxiliar, así
 
 Dicho personal tendrá a su cargo las funciones previstas en la normativa interna aplicable, así como aquellas que, le sean asignadas o delegadas de manera expresa por sus superiores jerárquicos.
 
-## TÍTULO IV. De la Representación y Suplencias
+## TÍTULO III. De las Unidades Operativas y Administrativas
 
-### CAPÍTULO II. De la Unidad de Administración y Recursos Humanos
+### CAPÍTULO I. De las Subgerencias
 
 ###### ARTÍCULO 14.
 
@@ -539,7 +543,7 @@ XIII. Supervisar el apoyo administrativo y comisiones del personal en relación 
 
 XIV. Supervisar la atención de los requerimientos de información relacionada con las auditorías internas y externas a la CFE Generación V.
 
-### CAPÍTULO III. De los Departamentos
+### CAPÍTULO II. De la Unidad de Administración y Recursos Humanos
 
 ###### ARTÍCULO 18.
 
@@ -635,7 +639,7 @@ XVII. Supervisar con apoyo del Departamento Jurídico, el correcto dictamen de l
 
 XVIII. Atender las solicitudes de información del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
-### CAPÍTULO IV. Del Personal de CFE Generación V
+### CAPÍTULO III. De los Departamentos
 
 ###### ARTÍCULO 19.
 
@@ -835,7 +839,7 @@ VIII. Dar seguimiento a la realización de pruebas de confiabilidad a las Centra
 
 IX. Dirigir la vigilancia de la participación de las Centrales en el control y correcta operación en el Sistema Eléctrico Nacional de acuerdo con los límites técnicos establecidos en los Contratos celebrados con los Productores Externos de Energía.
 
-### CAPÍTULO ÚNICO. De la Representación de CFE Generación V y Suplencias del Personal
+### CAPÍTULO IV. Del Personal de CFE Generación V
 
 ###### ARTÍCULO 24.
 
@@ -843,9 +847,9 @@ El personal de CFE Generación V, distinto al señalado en los Títulos preceden
 
 En caso de que las actividades que deban desarrollar requieran la representación legal de CFE Generación V ante terceros, los titulares de las Unidades Operativas y Administrativas de quienes dependan solicitarán, a través del Departamento de Asuntos Jurídicos, al Director General el otorgamiento de los poderes respectivos.
 
-## TÍTULO V. De la instancia en materia de Transparencia
+## TÍTULO IV. De la Representación y Suplencias
 
-### CAPÍTULO ÚNICO. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
+### CAPÍTULO ÚNICO. De la Representación de CFE Generación V y Suplencias del Personal
 
 ###### ARTÍCULO 25.
 
@@ -879,6 +883,10 @@ Las ausencias por vacaciones del Jefe de la Unidad de Administración y Recursos
 
 Las suplencias a que se hace mención en los artículos 27 al 30 de este Estatuto por un periodo de más de 5 días hábiles, se realizarán mediante el oficio correspondiente. En caso de que no se haya expedido el oficio de suplencia, las ausencias deberán ser cubiertas por el servidor público del nivel inmediato inferior al del funcionario ausente, tomando en cuenta la materia del asunto.
 
+## TÍTULO V. De la instancia en materia de Transparencia
+
+### CAPÍTULO ÚNICO. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
+
 ###### ARTÍCULO 32.
 
 El Enlace de Transparencia de CFE Generación V, así como el Comité de Transparencia, tendrá las funciones que le otorguen las disposiciones jurídicas aplicables en la materia.
@@ -886,6 +894,22 @@ El Enlace de Transparencia de CFE Generación V, así como el Comité de Transpa
 ###### ARTÍCULO 33.
 
 El Comité de Transparencia de CFE Generación V, estará integrado por 3 miembros designados por el Director General, entre los que se encontrará el Titular de la Unidad de Transparencia. Para cada integrante propietario deberá ser designado un suplente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
+## TÍTULO V BIS. De la Instancia en Materia de Responsabilidades
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO ÚNICO. Unidad de Responsabilidades
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 BIS. La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Generación V las leyes en materia de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 TER. La Unidad de Responsabilidades en CFE Generación V contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -896,3 +920,11 @@ SEGUNDO. Los derechos de los trabajadores no se verán afectados por la reestruc
 El presente Estatuto fue aprobado y expedido por el Consejo de Administración de CFE Generación V, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación V, en la Cuarta Sesión Ordinaria celebrada el 4 de octubre de 2017, mediante el Acuerdo CA-GV-23/2017.
 
 En la Ciudad de México, a los cuatro días del mes de diciembre de dos mil diecisiete.- El Director General de CFE Generación V, Humberto Peniche Cuevas, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación V, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS "ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN V, PUBLICADO EL 22 DE DICIEMBRE DE 2017".]
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
