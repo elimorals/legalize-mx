@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidad-patrimonial-del-estado-de-74857"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-10"
-last_updated: "2018-03-26"
+last_updated: "2018-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de mayo de 2010.
 
@@ -38,8 +38,6 @@ Decreto Número 394
 ###### ARTÍCULO PRIMERO
 
 Se aprueba la Ley de Responsabilidad Patrimonial del Estado de Aguascalientes, para quedar como sigue:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.</small>
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
@@ -215,6 +213,10 @@ Después de recibida la solicitud, el titular de la dependencia o entidad involu
 
 Concluido el periodo probatorio, el titular estará obligado en un plazo que no excederá de los diez días hábiles, a estudiar el asunto y a emitir resolución por escrito, debidamente fundada y motivada.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2018)</small>
+
+Las contralorías de los entes públicos, deberán auxiliar a los particulares en la recepción y trámite de la reclamación que pretendan hacer valer; además deberán generar formatos claros, precisos y accesibles que deberán estar a disposición de todo público, para el caso de que decidan iniciar su queja por cuenta propia sin el patrocinio de abogado y/o profesional en la materia que los asesore o represente.
+
 ###### Artículo 23.
 
 Las resoluciones administrativas que se dicten con motivo de los reclamos que prevé la presente Ley, deberán contener todos los elementos que se exigen en los procesos contencioso administrativos y los relativos a la existencia o no de la relación de causalidad entre el funcionamiento del servicio público o actividad administrativa y la lesión producida. Deberán contener también, en su caso, la valoración del daño causado así como el monto en dinero o en especie de la indemnización, explicando de manera detallada los criterios utilizados para la cuantificación.
@@ -294,6 +296,10 @@ El derecho de reclamar indemnización prescribe en un año que se computará a p
 Cuando existan daños de carácter físico o psicológico a las personas, el plazo de prescripción empezará a contar desde la fecha en que ocurra el alta del paciente o la determinación del alcance de las secuelas de las lesiones inferidas.
 
 En el caso de que el particular hubiese obtenido la anulación de actos administrativos, el plazo de prescripción para reclamar indemnización se computará a partir del día siguiente de la fecha de la emisión de la resolución administrativa o de la sentencia definitiva, según la vía elegida.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2018)</small>
+
+El plazo de prescripción previsto en este Artículo, se interrumpirá al iniciarse el procedimiento por la presentación del escrito de reclamación, a través del cual se impugne la legalidad de los actos administrativos que presuntamente hayan producido los daños o perjuicios que pretenden ser resarcidos.
 
 ### CAPÍTULO VIII. Del Derecho del Estado de Repetir Contra los Servidores Públicos
 
@@ -412,3 +418,15 @@ P.O. 26 DE MARZO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 27.- SE ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 22, Y UN CUARTO PÁRRAFO AL ARTÍCULO 33 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan Derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
