@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-servicios-de-salud-57588"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-26"
-last_updated: "2011-12-23"
+last_updated: "2018-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS DE SALUD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 26 de octubre de 2007.
 
@@ -213,45 +215,45 @@ Para el estudio, planeación, despacho y adecuado cumplimiento del objeto para l
 
 I.- Dirección General:
 
-• Unidad de Evaluación y Seguimiento;
+Unidad de Evaluación y Seguimiento;
 
-• Unidad de Asuntos Jurídicos;
+Unidad de Asuntos Jurídicos;
 
-• Unidad de Contraloría Interna;
+Unidad de Contraloría Interna;
 
 II.- Subdirección General de Salud;
 
 Dirección de Servicios de Salud:
 
-• Departamento de Medicina Preventiva;
+Departamento de Medicina Preventiva;
 
-• Departamento de Equidad de Género y Salud Reproductiva;
+Departamento de Equidad de Género y Salud Reproductiva;
 
-• Departamento de Epidemiología;
+Departamento de Epidemiología;
 
-• Departamento de Promoción de la Salud;
+Departamento de Promoción de la Salud;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-• Unidad de Especialidades Médicas de Oncología;
+Unidad de Especialidades Médicas de Oncología;
 
 Dirección de Enseñanza y Vinculación;
 
-• Departamento de Enseñanza e Investigación;
+Departamento de Enseñanza e Investigación;
 
-• Departamento de Vinculación Interinstitucional;
+Departamento de Vinculación Interinstitucional;
 
-• Departamento de Calidad;
+Departamento de Calidad;
 
 Dirección de Protección contra Riesgos Sanitarios;
 
-• Departamento de Evidencia y Manejo de Riesgo;
+Departamento de Evidencia y Manejo de Riesgo;
 
-• Departamento de Fomento Sanitario;
+Departamento de Fomento Sanitario;
 
-• Departamento de Autorización Sanitaria;
+Departamento de Autorización Sanitaria;
 
-• Departamento de Operación Sanitaria;
+Departamento de Operación Sanitaria;
 
 Unidades Regionales en Mexicali, Tijuana, Ensenada y Vicente Guerrero;
 
@@ -261,31 +263,31 @@ III.- Subdirección General de Administración;
 
 Dirección de Administración;
 
-• Departamento de Administración de Recursos Humanos y Desarrollo de Personal;
+Departamento de Administración de Recursos Humanos y Desarrollo de Personal;
 
-• Departamento de Recursos Materiales y Servicios Generales;
+Departamento de Recursos Materiales y Servicios Generales;
 
-• Departamento de Conservación y Mantenimiento;
+Departamento de Conservación y Mantenimiento;
 
 Dirección de Organización, Programación y Presupuesto;
 
-• Departamento de Desarrollo Institucional y Unidad de Apoyo a la Transparencia;
+Departamento de Desarrollo Institucional y Unidad de Apoyo a la Transparencia;
 
-• Departamento de Programación y Presupuesto;
+Departamento de Programación y Presupuesto;
 
-• Departamento de Contabilidad y Finanzas;
+Departamento de Contabilidad y Finanzas;
 
 Coordinación Estatal de Informática;
 
-• Área de Análisis y Desarrollo de Sistemas;
+Área de Análisis y Desarrollo de Sistemas;
 
-• Área de Soporte Técnico y Telecomunicaciones;
+Área de Soporte Técnico y Telecomunicaciones;
 
 Jurisdicciones de Servicios de Salud;
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-•Hospitales Generales, de Especialidades y Materno Infantiles; (sic)
+Hospitales Generales, de Especialidades y Materno Infantiles;
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
@@ -463,7 +465,7 @@ I.- Dirección de Servicios de Salud;
 
 II.- Dirección de Enseñanza y Vinculación;
 
-III.- Dirección de Protección contra Riesgos Sanitarios, y (sic)
+III.- Dirección de Protección contra Riesgos Sanitarios, y
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1737,7 +1739,7 @@ SECRETARIO DE SALUD DEL ESTADO
 
 JOSÉ GUADALUPE BUSTAMANTE MORENO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 28 DE DICIEMBRE DE 2007.
 
@@ -1748,3 +1750,23 @@ P.O. 23 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- En tanto no se modifiquen o se expidan los manuales administrativos de conformidad a este Decreto, el Director General del Instituto de Servicios de Salud Pública del Estado de Baja California queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
+
+P.O. 5 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no se autorice en el presupuesto de egresos del ejercicio fiscal 2019, los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 31 del presente reglamento.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del ejercicio fiscal 2019.
+
+TERCERO. Se abroga el Reglamento Interno del Instituto de Servicio de Salud Pública del Estado de Baja California, publicado en el Periódico Oficial del Estado en fecha 26 de octubre de 2007, así como las reformas al mismo publicadas con fecha 28 de diciembre de 2007 y 23 de diciembre de 2011, en el mismo órgano oficial de difusión.
+
+CUARTO. Los asuntos que a la entrada en vigor del presente reglamento estén pendientes, se resolverán en términos del Reglamento que se abroga.
+
+QUINTO. Los recursos humanos, financieros y materiales con que cuenta la Dirección de Protección contra Riesgos Sanitarios se transferirán a la Subdirección General para la Protección contra Riesgos Sanitarios referida en el Capítulo III, Sección Tercera, del presente Reglamento, en un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor del presente Decreto, sujetándose al presupuesto autorizado para el ejercicio fiscal correspondiente.
+
+SEXTO. Los asuntos administrativos que quedasen pendientes de resolver por parte de (sic) Dirección de Protección contra Riesgos Sanitarios, como unidad administrativa, serán atendidos por la Subdirección General para la Protección contra Riesgos Sanitarios a través de sus unidades administrativas competentes.
+
+SÉPTIMO. Los derechos laborales del personal que, en virtud del presente Decreto, cambien de adscripción, se respetarán conforme a las disposiciones jurídicas aplicables.
