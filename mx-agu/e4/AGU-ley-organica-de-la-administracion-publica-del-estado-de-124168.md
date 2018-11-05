@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2017-10-27"
+last_updated: "2018-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -1009,9 +1009,17 @@ XXXVIII.- Promover la participación de los sectores gubernamental, social y pri
 
 XXXIX.- Establecer las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso, los contratistas y los usuarios de dichos servicios;
 
-XL.- Llevar a cabo la recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y su reúso; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2018)</small>
 
-XLI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+XL.- Llevar a cabo la recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y su reúso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2018)</small>
+
+XLI.- Promover ante las autoridades competentes la construcción de centros de educación ambiental y áreas recreativas en el Estado, en las que se incluyan espacios adecuados para niñas y niños con discapacidad; vigilando que las mismas permanezcan en condiciones óptimas para su utilización; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE NOVIEMBRE DE 2018)</small>
+
+XLII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN OCTAVA. La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral
 
@@ -1712,3 +1720,13 @@ Arturo Fernández Estrada,
 DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 27 de octubre de 2017.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 26.- SE REFORMAN LAS FRACCIONES XL Y XLI DEL ARTÍCULO 38; Y SE ADICIONA UNA FRACCIÓN XLII AL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
