@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2018-02-23"
+last_updated: "2018-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -293,11 +293,19 @@ XII. Investigación de mercado: En materia de Adquisiciones, Arrendamientos y Se
 
 En materia de obra pública se deberá entender como: La verificación de la existencia y costo de materiales, mano de obra, maquinaria y equipo, así como de contratistas, a nivel nacional o internacional, y del precio total estimado de los trabajos, basado en la información que se obtenga en términos del Capítulo Primero, del Título Primero del Libro Tercero de este Acuerdo;
 
-XIII. Prestador de servicios: La persona física o moral que otorgue servicios de cualquier naturaleza, salvo los relacionados con obra pública;
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-XIV. Proveedor: La persona física o moral que suministre, arriende bienes muebles o preste servicios; y
+XIII. Observador: Persona física que, a título individual, o en representación de las cámaras, asociaciones empresariales, organizaciones no gubernamentales o instituciones educativas, asiste a los actos públicos de los procedimientos de contratación, sin voz ni voto;
 
-XV. Testigo Social: Es quien actúa en representación honorífica de la sociedad y con su presencia da testimonio de que un hecho determinado es verdad.
+XIV. Prestador de servicios: La persona física o moral que otorgue servicios de cualquier naturaleza, salvo los relacionados con obra pública;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+XV. Proveedor: La persona física o moral que suministre, arriende bienes muebles o preste servicios, y
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Testigo social: Las organizaciones no gubernamentales y las personas físicas que cuenten con el registro correspondiente ante el Consejo y que, de conformidad con el presente acuerdo, participan con derecho a voz en todas las etapas de los procedimientos de contratación, desde su inicio hasta la formal terminación del contrato. En el supuesto de invitación a terceros también participarán en la revisión del proyecto de invitación; tratándose de concurso público sumario en la revisión de la solicitud de cotización, y en el caso de licitación pública, en la revisión de los proyectos de convocatoria y de las bases.
 
 ###### Artículo 8.
 
@@ -3041,37 +3049,105 @@ Los servidores públicos del Consejo deberán cumplir las disposiciones establec
 
 La responsabilidad administrativa derivada de los actos que se realicen en contravención a lo anterior, será determinada conforme lo dispuesto en el Título Octavo de la Ley Orgánica y en las demás disposiciones aplicables, sin perjuicio de la responsabilidad civil o penal que pudiera resultar de dichos actos.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 253.
 
-Los actos relativos a los procedimientos de adjudicación a los que se refiere este Capítulo son públicos, por lo que podrán asistir los terceros que lo consideren conveniente y los licitantes cuyas propuestas hayan sido desechadas durante el procedimiento de contratación. Lo anterior, siempre y cuando se registren previamente al acto que corresponda, se ajusten a los horarios establecidos, se identifiquen, acrediten su personería para el caso de que asistan a nombre de alguna persona moral y se abstengan de intervenir en cualquier forma en los mismos. En su caso, la Comisión de Administración o el Comité podrán girar las invitaciones que consideren convenientes a testigos sociales.
+Los actos relativos a los procedimientos de adjudicación a los que se refiere este Capítulo son públicos, por lo que podrá asistir cualquier persona en calidad de observador que lo considere conveniente, y los licitantes cuyas propuestas hayan sido desechadas durante el procedimiento de contratación. Lo anterior, siempre y cuando se registren previamente al acto que corresponda, se ajusten a los horarios establecidos, a la disponibilidad de espacios, se identifiquen, acrediten su personería para el caso de que asistan a nombre de alguna persona moral y se abstengan de intervenir en cualquier forma en los mismos. En todo caso, podrán participar testigos sociales, de conformidad con lo establecido en el presente acuerdo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 254.
 
-Previa opinión del Comité, la Comisión de Administración determinará los procedimientos de adjudicación en los que por su relevancia o impacto puedan participar testigos sociales, una vez que hayan sido aprobados o modificados los programas anuales de ejecución previstos en este Capítulo, de conformidad con lo siguiente:
+La Comisión de Administración determinará los procedimientos de contratación en los que sin perjuicio de la cuantía y que por su relevancia o impacto deban participar testigos sociales, una vez que hayan sido aprobados o modificados los programas anuales de ejecución previstos en este Capítulo, en el entendido de que en los casos de procedimientos de contratación cuyo monto sea de cuantía mayor a un millón novecientas mil unidades de medida y actualización deban participar obligatoriamente.
 
-I. La Contraloría tendrá a su cargo el padrón público de testigos sociales que podrán participar en los procedimientos de adjudicación;
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-II. Los testigos sociales participarán con voz y en su caso, podrán hacer recomendaciones, las cuales no tendrán carácter vinculante, ya que su participación es como observador;
+Cuando un testigo social ya designado para participar en un procedimiento, no pudiere hacerlo, se procederá a nombrar otro conforme al procedimiento establecido en el presente acuerdo, y se asentará tal circunstancia para los efectos conducentes.
 
-III. El testimonio deberá entregarse a la Contraloría y ser publicado en el portal del Consejo dentro de los diez días naturales siguientes a la conclusión del procedimiento correspondiente, debiéndose integrar en el expediente respectivo; y
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-IV. Los testigos sociales serán seleccionados mediante convocatoria pública emitida por la Contraloría.
+En aquellos procedimientos en que sea obligatoria la participación de un testigo social, pero esta no sea posible por haberse agotado en el registro los candidatos a participar como tales, dicha falta de participación no será impedimento para poder continuar con el procedimiento de adjudicación ni constituirá por sí mismo un elemento de impugnación, siempre y cuando medie una certificación expedida por la Contraloría que hagan constar dicha situación.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+La participación de los testigos sociales en los procedimientos en los que intervenga, se realizará de conformidad con lo siguiente:
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+I. La Contraloría tendrá a su cargo el padrón público de testigos sociales que participarán en los procedimientos, y velará por la promoción y el fomento de la participación de estos.
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+II. Los testigos sociales participarán con voz y en su caso, podrán hacer recomendaciones u observaciones; las cuales no tendrán carácter vinculante;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+III. El testimonio final junto con las incidencias, recomendaciones u observaciones que realice el testigo social en todas las fases de los procedimientos en los que participe, deberá rendirse dentro de los 3 días siguientes a la realización del acto por el que se concluya el procedimiento de contratación y hacerse del conocimiento previo de los Consejeros y del Pleno del Consejo para que éste a su vez los remita en breve, a la Comisión de Administración, a la Contraloría y demás áreas competentes para los efectos conducentes, y deberá ser publicado en el portal del Consejo dentro de los diez días naturales siguientes a la conclusión del procedimiento correspondiente. Atendiendo al principio de máxima publicidad el referido informe, deberá estar permanentemente en dicho portal.
+
+El testimonio que emita será un documento público y deberá contener al menos lo siguiente:
+
+a) La descripción del objeto del procedimiento de contratación que se realizó;
+
+b) La descripción cronológica de los hechos relevantes que hubiere identificado durante su participación en las diversas etapas de los procedimientos de contratación;
+
+c) En su caso, las incidencias, observaciones, recomendaciones y sugerencias con motivo del procedimiento de contratación;
+
+d) Las conclusiones sobre la observancia de las disposiciones jurídicas aplicables, la transparencia y la imparcialidad del procedimiento de contratación. En ningún caso el testimonio del testigo social tendrá efectos vinculantes sobre ninguna de las etapas de los procedimientos de contratación. La emisión del testimonio o de los informes previos en los que no se expresen observaciones o irregularidades, no liberará a los servidores públicos a quienes corresponda intervenir en los procedimientos, de la responsabilidad en que hubieren incurrido durante los mismos;
+
+e) Las unidades administrativas que tramiten el procedimiento de adjudicación darán respuesta a las recomendaciones y observaciones que formule el testigo social en el testimonio final, y se publicarán junto con este en el portal de Internet del Consejo de la Judicatura Federal.
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+IV. Los testigos sociales serán seleccionados para formar parte del padrón correspondiente mediante convocatoria pública emitida por la Contraloría, que deberá publicarse en la página de internet del Consejo y en diarios de circulación nacional, y deberán acreditar una evaluación conforme a los criterios que se establecen en el presente acuerdo, mismos que se acompañarán a la convocatoria respectiva. Para tal efecto el Instituto de la Judicatura Federal impartirá cursos de capacitación;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+V. La Comisión de Administración garantizará que los testigos sociales que pertenecen al padrón, sean elegidos de manera aleatoria para participar en los procedimientos en los que deba designárseles como tales, mediante un sistema automatizado, que operará en función de su especialidad o área de experiencia, y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+VI. La falta de participación del testigo social en los procedimientos, por no existir en el padrón, por causas de fuerza mayor o, en su caso, por la falta de emisión del testimonio final, no impedirá la normal continuación del procedimiento, hasta la conclusión del proyecto.
 
 ###### Artículo 255.
 
 Los testigos sociales participarán de la siguiente manera:
 
-I. Participarán en los procedimientos de adjudicación;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-II. De ser el caso, proponer al Consejo mejoras para fortalecer la transparencia e imparcialidad en los procedimientos de adjudicación;
+I. Participarán en todos los procedimientos de adjudicación cuyo monto supere un millón novecientas mil unidades de medida y actualización, una vez cumplidos los requisitos dispuestos en este ordenamiento, así como en aquellos que sin perjuicio de la cuantía determine la Comisión de Administración, y su participación no podrá ser impedida, salvo por inobservancia de la presente normatividad y demás disposiciones aplicables;
 
-III. Abstenerse de hacer uso de cualquier tipo de información, para efectos diversos a los previstos en este Capítulo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-IV. Emitir el testimonio previsto en el artículo anterior; y
+II. Propondrán al Consejo mejoras para fortalecer la transparencia, imparcialidad e integridad en los procedimientos en que participen;
 
-V. Informar de manera inmediata a la Contraloría en el caso de detectar alguna inconsistencia dentro de un procedimiento de contratación, para que aquella determine lo que conforme a derecho corresponda.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-Se exceptuará la participación de los testigos sociales en los procedimientos de adjudicación que contengan información clasificada como reservada o cuando se ponga en riesgo la seguridad del Consejo.
+III. Mantendrán la confidencialidad respecto de la información de la que tenga conocimiento por su participación en todas las etapas del procedimiento, en los términos de la Ley Federal de Transparencia y Acceso a la Información;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+IV. Emitirán testimonio final de manera integral respecto del procedimiento de contratación, en que su participación haya sido requerida, con responsabilidad, objetividad, independencia, imparcialidad, honestidad y ética;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+V. Informarán de manera inmediata a la Contraloría en el caso de detectar alguna inconsistencia dentro de cualquiera de las etapas del procedimiento de contratación o de los actos previos a dicho procedimiento en los que participe, para que aquella determine lo que conforme a derecho corresponda;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+VI. Solicitará a las partes contratantes y al ejecutante cualquier información útil para el cumplimento de su función y estas tendrán la obligación de proporcionársela, salvo que se trate de información específica que sea catalogada como reservada o confidencial o que pueda poner en riesgo la seguridad del Consejo;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+VII. Darán seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en los procedimientos de contratación, y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Respetarán la posición competitiva de los participantes, evitando hacer comentarios que influyan, induzcan o favorezcan a alguna de las propuestas.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+Se exceptuará la participación de los testigos sociales en los procedimientos de adjudicación que contengan información clasificada como reservada o confidencial o cuando se ponga en riesgo la seguridad del Consejo.
 
 ###### Artículo 256.
 
@@ -3079,7 +3155,9 @@ La Contraloría acreditará como testigo social a la persona que cumpla con los 
 
 I. Ser ciudadano mexicano en ejercicio de sus derechos o extranjero cuya condición migratoria lo permita;
 
-II. Cuando se trate de una organización no gubernamental, que acredite que se encuentra constituida conforme a las disposiciones legales aplicables y que no persigue fines de lucro;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+II. Cuando se trate de una organización no gubernamental, acreditar fehacientemente que se encuentra constituida conforme a las disposiciones legales aplicables y que no persigue fines de lucro;
 
 III. No contar con sentencia ejecutoriada por delito doloso, con pena privativa de libertad;
 
@@ -3087,13 +3165,59 @@ IV. No ser servidor público en activo en los Estados Unidos Mexicanos o en el e
 
 V. No haber sido sancionado como servidor público por autoridad competente;
 
-VI. Presentar currículum en el que se acrediten grados académicos y especialidad; experiencia laboral y docente; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-VII. Presentar manifestación escrita bajo protesta de decir verdad, que se abstendrá de participar en procedimientos de contratación en los que puedan existir conflictos de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en los mismos tengan vinculación familiar, de negocios o académica con éste; o bien porque pudieran obtener un beneficio directo o indirecto derivado de dicho procedimiento.
+VI. Presentar currículum a través del cual acredite los grados académicos, la especialidad técnica y experiencia relacionada con la materia a atestiguar, así como los documentos que acrediten los grados académicos o especialidad técnica, incluyendo cédula profesional, títulos, diplomas y reconocimientos que haya recibido a nivel académico y profesional;
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-El padrón de testigos sociales debe difundirse en el portal de Internet del Consejo.
+VII. Presentar manifestación escrita bajo protesta de decir verdad, que se abstendrá de participar en procedimientos, en los que existan o puedan existir conflictos de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en los mismos tengan intereses personales, familiares o de negocios con éste; o bien porque pudieran obtener un beneficio directo o indirecto derivado de dicho procedimiento o afecten su desempeño imparcial y objetivo. Dicha manifestación deberá expresar a detalle los vínculos que pudieren hacer incompatible su función como testigo social;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Presentar manifestación escrita bajo protesta de decir verdad que no participa de manera directa o indirecta en cualquier litigio o procedimiento administrativo o judicial en contra del Consejo;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+IX. Presentar carta de argumentación sobre cómo sus competencias profesionales, experiencia y reconocimientos, lo habilitan para desempeñar las funciones de testigo social en la materia propuesta;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+X. Presentar escrito bajo protesta de decir verdad que tiene conocimiento de la legislación y normatividad aplicable a los procedimientos de contratación, en el Consejo;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+XI. Presentar manifestación escrita bajo protesta de decir verdad, que tiene conocimiento de las funciones que debe y está dispuesto a desempeñar como testigo social;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+XII. Asistir a entrevista con el Titular de la Contraloría, cuando éste lo solicite;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Contar con experiencia laboral de cuando menos tres años en materias afines a las contrataciones; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+XIV. No tener como antecedente la cancelación firme de su registro como testigo social ante la Secretaría de la Función Pública o cualquier ente público o poder, salvo que dicha cancelación hubiere derivado de la voluntad del testigo social.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+En el ejercicio de sus funciones, los testigos sociales deberán:
+
+a) Conducirse de manera objetiva, independiente e imparcial;
+
+b) Participar, según corresponda, en todos (sic) actos relacionados con los procedimientos para los que fueron seleccionados;
+
+c) Proponer conforme a su experiencia y en atención a las disposiciones legales o administrativas vigentes, los aspectos que mejoren la igualdad de condiciones entre los licitantes, la calidad y el precio de las contrataciones, así como las acciones que promuevan la eficiencia, eficacia, imparcialidad, transparencia y el combate a la corrupción en las mismas. Dichas propuestas deberán realizarse estrictamente dentro de los plazos establecidos para cada etapa del procedimiento de contratación según corresponda, y en ningún caso deberán interrumpir o retardar el cumplimiento de las mismas;
+
+d) Presentar informes previos a la Contraloría, cuando detecten irregularidades manifestando sus observaciones y recomendaciones, a efecto de que aquéllas puedan ser corregidas oportunamente, haciendo dichos informes del conocimiento a cada uno de los Consejeros y al Pleno del Consejo en los términos del presente Acuerdo, y
+
+e) Atender y responder en forma oportuna y expedita cualquier requerimiento de información que, respecto de los procedimientos en los que participa, les sea formulado por el Comité o por la Contraloría.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+El padrón de testigos sociales debe actualizarse en el portal de Internet del Consejo, cuando menos una vez al año o cuando sea necesario y depurarse con la misma periodicidad o cuando fuere necesario, en el mismo se realizarán y verán reflejadas las cancelaciones de registro y altas correspondientes.
 
 ###### Artículo 257.
 
@@ -3113,29 +3237,149 @@ VI. Constancias que acrediten el contenido del currículum;
 
 VII. Constancias de participación en cursos de capacitación en materia de contrataciones públicas; y
 
-VIII. Escrito en el que manifieste, bajo protesta de decir verdad, que no participará en contrataciones en las que exista conflicto de intereses.
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Escrito en el que manifieste, bajo protesta de decir verdad, que no participará en contrataciones en las que exista o pueda existir conflicto de intereses, especificando con claridad los vínculos que pudieren hacerlo no apto como testigo social, en el caso concreto.
 
 Las personas físicas o morales extranjeras, deberán presentar la documentación generada en el extranjero debidamente legalizada o apostillada, por parte de la autoridad competente en el país de que se trate, misma que tendrá que presentarse redactada en español, o acompañada de la traducción correspondiente.
 
 Las personas morales presentarán, respecto de las personas físicas que en su nombre participen como testigo social, los requisitos establecidos en este artículo para personas físicas.
 
-La Contraloría evaluará el cumplimiento de los requisitos para la integración del padrón, en forma permanente.
+(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018) [N. DE E. PERTENECE A LA FRACCIÓN VIII, D.O.F. 6 DE NOVIEMBRE DE 2018]
 
-La determinación sobre el registro en el padrón de testigos sociales; así como la cancelación del mismo, deberá hacerse del conocimiento del interesado por escrito, o por medios remotos de comunicación electrónica cuando proporcione una dirección de correo electrónico, en un lapso no mayor de diez días hábiles contados a partir de la fecha de la resolución correspondiente.
+La Contraloría evaluará el cumplimiento de los requisitos para la integración del padrón, en forma permanente, así como a los candidatos a testigo social, en cuanto al cumplimiento de los requisitos establecidos en el presente Acuerdo, tanto para su inclusión como para su cancelación del padrón, de manera fundada y motivada.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+Para tal efecto, tomarán en consideración, los siguientes aspectos:
+
+a) La información y documentación señaladas en el artículo 256 del presente acuerdo;
+
+b) Solvencia moral;
+
+c) Prestigio profesional en materias relacionadas con las contrataciones que realice el Consejo;
+
+d) Grado de especialización, preparación y experiencia profesional, cualquiera que sea la materia, que sea aprovechable para las contrataciones que realice el Consejo, y
+
+e) Lo expresado por el aspirante a testigo social en la entrevista, en los casos en que el Titular de la Contraloría la haya solicitado.
+
+La Contraloría aprobará el registro del testigo social que haya sido evaluado favorablemente en los aspectos enunciados con anterioridad, emitiendo la constancia de registro correspondiente, que lo habilitará para fungir como testigo social.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+Además del cumplimiento en lo individual de lo señalado en los incisos a) a e) anteriores, para participar en calidad de representante de alguna persona moral, aquellas deberán observar lo siguiente:
+
+a) Exhibir acta constitutiva;
+
+b) Exhibir Poder general para actos de dominio y/o administración, o documento emitido por quien tenga la facultad de designar al representante de dicha persona moral para la participación en el procedimiento;
+
+c) El original y copia simple de identificación oficial vigente con fotografía del representante legal de la persona moral solicitante;
+
+d) No tener conflicto de intereses, ni algún vínculo con algún servidor público del Consejo o alguno de los licitantes que pudiera beneficiarse con dicha contratación;
+
+e) No tener relación con organizaciones o partidos políticos alguno, y
+
+f) Que, en caso de poder existir un conflicto de interés a futuro, su representante deberá informar al Titular de la Contraloría, a efecto de que se tomen las medidas pertinentes.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+La Contraloría, propondrá al Pleno del Consejo el tabulador anual de contraprestaciones para los testigos sociales, para su aprobación, mismo que deberá publicarse una vez aprobado, en la página del Consejo de la Judicatura Federal conforme a las obligaciones en materia de transparencia y rendición de cuentas.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+La Dirección General de Programación y Presupuesto deberá considerar para efectos de la programación y presupuestación de los recursos el pago de la contraprestación de los testigos sociales.
+
+> <small>(REFORMADO [N. DE E. ANTES ÚLTIMO PÁRRAFO DEL ARTÍCULO], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+La determinación sobre el registro en el padrón de testigos sociales; así como la cancelación del mismo, deberá hacerse del conocimiento del interesado por escrito, o por medios remotos de comunicación electrónica cuando proporcione una dirección de correo electrónico, en un lapso no mayor de diez días hábiles contados a partir de la fecha de la resolución correspondiente, en todo caso se respetará su garantía de audiencia y la determinación sobre su no aceptación o cancelación deberá estar debidamente fundada y motivada.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+La cancelación del registro en el padrón de un testigo social se realizará cuando éste actualice alguno de los siguientes supuestos:
+
+a) Deje de cumplir con los requisitos para ser testigo social;
+
+b) Se conduzca con parcialidad o sin objetividad durante su participación;
+
+c) Utilice indebidamente la información a la que haya tenido acceso, sin menoscabo de la responsabilidad a la que se haga acreedor con base en la normativa aplicable;
+
+d) Pretenda inducir al área contratante para favorecer a un participante sobre la adjudicación del contrato;
+
+e) Se abstenga de hacer del conocimiento a la instancia competente las irregularidades que hubiera detectado en el procedimiento de adjudicación;
+
+f) Incumpla cualquiera de sus funciones y obligaciones;
+
+g) Cuando se identifique que presentó información o documentación falsa;
+
+h) Cuando el resultado de la evaluación de la participación del testigo social en el procedimiento haya sido deficiente;
+
+i) Por causas de muerte del testigo social, suspensión de actividades, inhabilitación temporal o extinción jurídica de la persona moral que realice funciones de atestiguamiento, o
+
+j) Tan pronto tenga conocimiento, sea al inicio o durante el desarrollo de un procedimiento de contratación ante el Consejo, que la Secretaría de la Función Pública, o cualquier ente público o poder, ha cancelado su registro como testigo social y está ha quedado firme, deberá informarlo al Consejo, en cuyo caso, será cancelado su registro y no podrá volver a fungir como testigo social en esta instancia y será inmediatamente sustituido conforme a lo dispuesto por el presente acuerdo, por otro testigo social.
+
+La falta del aviso de cancelación por parte del testigo social dará lugar además, a la imposición de una sanción económica conforme al contrato respectivo.
+
+Tratándose de la causal a que se refiere el inciso a) de este apartado, se podrá otorgar nuevamente la constancia de registro una vez cumplidos los requisitos para ello.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+La cancelación a que se refiere el presente Acuerdo, será aplicada de manera independiente a cualquier otra responsabilidad de carácter civil, penal o administrativa, en la que incurra el testigo social, de conformidad con las leyes aplicables y la normatividad aplicable.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 257 Bis.
+
+La constancia de registro tendrá una vigencia de dos años contados a partir de la fecha de su expedición, este plazo podrá ampliarse hasta por tres periodos similares tomando en cuenta la evaluación del testigo social, siempre y cuando continúe cumpliendo con los requisitos para fungir como tal. En aquellos casos donde se haya cumplido la máxima ampliación, deberá transcurrir por lo menos un año para volver a obtener una constancia de registro.
+
+El testigo social podrá solicitar su exclusión del registro y esta le será concedida siempre y cuando no tenga un contrato vigente, en cuyo caso deberá concluirlo, en el supuesto de incumplimiento será sujeto de la sanción económica dispuesta en el contrato respectivo y no podrá volver a fungir como testigo social ante el Consejo.
+
+La solicitud de exclusión del registro deberá hacerse con 15 días de anticipación ante la Contraloría, quien tomará conocimiento para los efectos conducentes.
+
+La ampliación a que se refiere el primer párrafo de este artículo, sólo procederá a solicitud del testigo social, la cual deberá ser presentada a la Contraloría, con por lo menos veinte días hábiles de anticipación a la fecha de terminación de la vigencia de la Constancia de Registro, misma que será analizada por la Contraloría, y su determinación será comunicada siguiendo el mismo procedimiento utilizado para la aprobación y otorgamiento de la constancia de registro.
+
+Para la solicitud de ampliación el testigo social deberá presentar la documentación y cumplir con los requisitos señaladas (sic) para su inscripción en el presente Acuerdo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 257 Ter.
+
+La Contraloría evaluará la participación del testigo social en el procedimiento de contratación y en los actos preparativos o previos en los que participe una vez finalizada su intervención, conforme a lo siguiente:
+
+a) Tomará en cuenta el testimonio final y, en su caso, los informes previos, de su participación en todas las fases del procedimiento en las que participó, verificando que las condiciones bajo las cuales se desarrolló el procedimiento se encuentren apegadas a la normatividad aplicable;
+
+b) Si su actuación en los procedimientos en los que participó fue objetiva, independiente, imparcial, honesta y ética, y
+
+c) En caso de considerarlo necesario, realizará encuestas entre los participantes para verificar si la intervención del testigo social contribuyó a fomentar la transparencia.
+
+La evaluación de los testigos sociales se integrará al expediente físico o electrónico que instrumente la Contraloría.
 
 ###### Artículo 258.
 
-En los procedimientos de adjudicación en los que se determine la intervención de testigos sociales, la Contraloría en un plazo no mayor de diez días hábiles previo al inicio del procedimiento, los invitará mediante convocatoria por escrito, para que en el término de cinco días hábiles manifiesten su interés en participar.
+(DEROGADO PRIMER PÁRRAFO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)
 
 La Contraloría someterá a la aprobación de la Comisión de Administración, previo visto bueno del Comité, a los candidatos a participar en cada procedimiento de adjudicación, a fin de que se designe al testigo social.
 
-Una vez designado el testigo social, éste será contratado por el Consejo conforme a lo dispuesto en este Capítulo y la convocatoria correspondiente.
+> <small>(REFORMADO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+Una vez designado el testigo social, éste será contratado por el Consejo conforme a lo dispuesto en este Capítulo y la convocatoria correspondiente y devengará una contraprestación por sus servicios, salvo que se trate de organizaciones no gubernamentales que tengan por objeto la participación de la sociedad en el acompañamiento o seguimiento de los procedimientos de contratación, en cuyo caso no recibirán contraprestación alguna.
+
+> <small>(ADICIONADO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+El contrato será suscrito con al menos cinco días hábiles previos al inicio del procedimiento, o de los actos preparativos o previos al inicio de este, según corresponda.
+
+> <small>(ADICIONADO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+La contraprestación correspondiente, deberá pagarse inmediatamente cumplidas cada una de las etapas de los procedimientos en que participa el testigo social de conformidad con el tabulador previamente establecido. La contraprestación, no podrá ser retenida por el Consejo, salvo en los casos en que motivada y fundadamente se demuestre que el testigo social, en el ejercicio de su función, actuó en contra del presente acuerdo, la legislación o la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 259.
 
-El contrato con el testigo social será abierto y deberá contener:
+El contrato con el testigo social, deberá publicarse en la página del Consejo conforme a las obligaciones en materia de transparencia y rendición de cuentas, y deberá contener:
 
-I. La identificación del procedimiento de contratación en el que intervendrá;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+I. La identificación detallada del procedimiento de contratación en el que intervendrá;
 
 II. La cantidad mínima y máxima de las horas de servicios a contratar, la cual no podrá rebasar de ciento veinte horas, salvo autorización expresa de la Comisión de Administración, previo visto bueno del Comité;
 
@@ -3145,17 +3389,83 @@ IV. Los controles de evaluación y seguimiento que llevará a cabo la Contralor�
 
 V. Los mecanismos de participación en el procedimiento;
 
-VI. La obligación de conducirse de manera objetiva, independiente, imparcial, honesta y ética y, en su caso, guardar la debida reserva y confidencialidad;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-VII. La obligación de asesorar en la verificación y seguimiento de los procedimientos de adjudicación;
+VI. La obligación de conducirse de manera objetiva, independiente, imparcial, honesta y ética y guardar la debida reserva y confidencialidad;
 
-VIII. La metodología aplicable y la obligación de emitir las observaciones procedentes, así como el testimonio final a que se refiere este Capítulo; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
-IX. Las demás condiciones que determine el Consejo.
+VII. La obligación de asesorar en la verificación y seguimiento de los procedimientos en los que participe durante todas sus etapas;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+VIII. La metodología aplicable y la obligación de emitir las observaciones procedentes, así como el testimonio final a que se refiere este Capítulo;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+IX. El plazo para la prestación de los servicios;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+X. En caso de proceder, la contraprestación del testigo social, la forma, plazo, términos y condiciones de la misma;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+XI. Las causales de terminación anticipada y causas de rescisión del contrato en que puedan incurrir cualquiera de las partes;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+XII. La cláusula de confidencialidad, así como la identificación de la información reservada o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública, y demás disposiciones aplicables, y
+
+XIII. Las demás condiciones que determine el Consejo.
 
 Cuando un procedimiento de adjudicación se declare desierto, el testigo social designado deberá participar en el procedimiento alterno que determine el Consejo, bajo las mismas condiciones de contratación o, en su caso, con las modificaciones que determine la Comisión de Administración.
 
 El área que tenga a su cargo el procedimiento de adjudicación, proporcionará las facilidades para permitir el acceso a la documentación que soliciten los testigos sociales.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 259 Bis.
+
+El testigo social, podrá inconformarse en los siguientes supuestos:
+
+I. Contra la determinación que impida su participación en los procedimientos;
+
+II. La cancelación de su registro en el padrón de testigos sociales, o
+
+III. Las demás que de conformidad con el presente Acuerdo y demás legislación y normatividad aplicable le generen perjuicio en su calidad de testigo social.
+
+Los testigos sociales, podrán inconformarse ante la Contraloría, cuando consideren encontrarse en alguno de los supuestos señalados en las fracciones anteriores, en un plazo de quince días contados a partir del acto que dio origen a la inconformidad, en cuyo caso, no se interrumpirá el procedimiento, y al respecto, se observará lo siguiente:
+
+La inconformidad deberá formularse por escrito dirigido a la Contraloría, y
+
+a) Deberá señalar domicilio para oír y recibir notificaciones y en su caso designar a las personas autorizadas para tal efecto.
+
+b) Recibida la inconformidad, la Contraloría notificará al inconforme personalmente a efecto de que comparezca por escrito, dentro de los cinco días siguientes a la notificación, para ratificar el contenido de su inconformidad, aportar todos los elementos de prueba que consideren necesarios para acreditar su dicho y manifestar lo que a su derecho convenga en relación con la inconformidad formulada.
+
+c) En el supuesto de que el inconforme no se presente a ratificar su inconformidad, se tendrá por no presentada.
+
+d) Para los efectos del presente procedimiento se reconocen como medios de prueba: la confesión, los documentos públicos, los documentos privados, los testigos y las presunciones.
+
+e) La Contraloría, conforme a las reglas establecidas en el Código Federal de Procedimientos Civiles, determinará la idoneidad de las pruebas ofrecidas, así como para hacer el estudio de las mismas y determinar su valor.
+
+f) La Contraloría emitirá una resolución que deberá contener una relación sucinta de las cuestiones planteadas y de las pruebas rendidas, así como las consideraciones jurídicas aplicables, y resolverá con toda precisión, los puntos sujetos a su consideración, en breve término, de manera fundada y motivada.
+
+g) En todo lo no regulado expresamente en el presente procedimiento de inconformidad, se aplicará de manera supletoria el Código Federal de Procedimientos Civiles.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 259 Ter.
+
+En términos de la normatividad aplicable, los testigos sociales participarán en todos los actos subsecuentes a la desincorporación de bienes del Poder Judicial de la Federación, siempre que su monto sea superior al señalado en la fracción I del artículo 255 o a juicio de la Comisión de Administración se determine su participación por la relevancia o impacto del asunto.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 259 Quater.
+
+Se permitirá y fomentará la figura del observador, por lo que cualquier persona podrá asistir a título individual a presenciar los procedimientos de adjudicación, sin voz ni voto, siempre y cuando se registren previamente al acto que corresponda, se ajusten a los horarios establecidos y a la disponibilidad de espacios, tomando en consideración que el número de observadores que participarán en los procedimientos estará determinado por la capacidad física y material de las instalaciones donde se lleven a cabo los procedimientos, a juicio del Comité, en todo caso se procurará contar con al menos tres espacios físicos para los observadores.
+
+Se exceptuará la participación de los observadores en los procedimientos de adjudicación que contengan información clasificada como reservada o confidencial o cuando se ponga en riesgo la seguridad del Consejo, fundando y motivando tal determinación.
 
 ###### Artículo 260.
 
@@ -12650,3 +12960,21 @@ D.O.F. 23 DE FEBRERO DE 2018.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 6 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los 30 días siguientes al de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los transitorios CUARTO Y QUINTO los cuales entrarán en vigor al día siguiente de la publicación del presente en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Los contratos celebrados por el Consejo de la Judicatura Federal con los testigos sociales, que se hayan iniciado con anterioridad a la entrada en vigor del presente Acuerdo, serán concluidos con las disposiciones vigentes al momento de su celebración.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva de Administración para que previo a la entrada en vigor de los artículos transitorios PRIMERO, SEGUNDO Y TERCERO, realice por conducto de las áreas administrativas competentes, las acciones necesarias para la debida implementación administrativa del presente Acuerdo. De la misma forma deberá proveer, en su caso, las acciones administrativas y presupuestales necesarias para su correcta implementación.
+
+QUINTO. Se instruye a la Contraloría del Poder Judicial de la Federación, para que previo a la entrada en vigor de los artículos transitorios PRIMERO, SEGUNDO Y TERCERO, presente al Pleno del Consejo de la Judicatura Federal una propuesta de tabulador anual de contraprestaciones para los testigos sociales.
+
+Dicha propuesta tomará en consideración la especialidad, naturaleza, complejidad, objeto y alcance de las contrataciones, así como los estándares que para tal efecto se utilicen en contrataciones de naturaleza análoga en la Administración Pública Federal, o en este último caso, a través de investigaciones de mercado y demás parámetros económico financieros aplicables. El tabulador se publicará una vez aprobado, en la página del Consejo de la Judicatura Federal conforme a las obligaciones en materia de transparencia y rendición de cuentas y deberá estar aprobado y publicado, antes de la entrada en vigor de los artículos transitorios PRIMERO, SEGUNDO Y TERCERO.
+
+SEXTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet del Consejo de la Judicatura Federal.
