@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-del-deporte-de-tabasco-94743"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-05"
-last_updated: "2013-06-05"
+last_updated: "2018-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DE TABASCO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DE TABASCO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DE TABASCO, PUBLICADO EN EL P.O. DE 7 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL ESTADO DE TABASCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 5 de junio de 2013.
 
 LIC. ARTURO NUÑEZ JIMENEZ, GOBERNADOR DEL ESTADO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 51, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO; 7 FRACCIÓN II y 8 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo antes expuesto, fundado y motivado, tengo a bien expedir el siguiente:
 
@@ -478,3 +482,19 @@ SECRETARIA DE DESARROLLO SOCIAL
 LIC. YOANA CRISTEL SÁNCHEZ AGUIRRE
 
 DIRECTORA GENERAL DEL INSTITUTO DE LA JUVENTUD DE TABASCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DE TABASCO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO.- Se abroga el Reglamento Interior del Instituto del Deporte de Tabasco, publicado en el Periódico Oficial del Gobierno del Estado número 7382 suplemento C de fecha 05 de junio de 2013.
+
+CUARTO.- Los asuntos que estuviesen pendientes al entrar en vigor el presente Reglamento, que conforme al mismo deben pasar de una Unidad Administrativa a otra, continuarán su trámite, y serán resueltos por aquella o aquellas Unidades Administrativas a las que se les hayan atribuido competencia en este Reglamento.
+
+QUINTO.- Los recursos humanos, materiales y financieros que estuviesen asignados a las Unidades Administrativas que desaparecen o modifican su competencia, en virtud de lo dispuesto en el presente Reglamento, serán reasignados a las Unidades Administrativas que asuman las correspondientes atribuciones, con intervención de las áreas competentes.
