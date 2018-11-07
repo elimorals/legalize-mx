@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-para-el-desarrollo-de-8442
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-21"
-last_updated: "2013-08-14"
+last_updated: "2018-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA PARA EL DESARROLLO DE LA FRONTERA SUR Y ENLACE PARA LA COOPERACION INTERNACIONAL EN EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA PARA EL DESARROLLO DE LA FRONTERA SUR Y ENLACE PARA LA COOPERACIÓN INTERNACIONAL DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 7 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA PARA EL DESARROLLO DE LA FRONTERA SUR Y ENLACE PARA LA COOPERACIÓN INTERNACIONAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de diciembre de 2011.
 
@@ -1042,3 +1044,21 @@ Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Secre
 Artículo Sexto.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
 
 Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 7 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 3055-A-2018 REGLAMENTO INTERIOR DE LA SECRETARÍA PARA EL DESARROLLO DE LA FRONTERA SUR Y ENLACE PARA LA COOPERACIÓN INTERNACIONAL”.]
+
+Artículo Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional, publicado en el Periódico Oficial No. 344, Tomo III, de fecha 21 de Diciembre de 2011, mediante publicación número 3155-A-2011, así como las reformas que de el emanen; y se derogan las disposiciones que se opongan al contenido del presente ordenamiento jurídico.
+
+Artículo Tercero. En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto. Para las cuestiones no previstas en el presente Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario resolverá lo conducente.
+
+Artículo Quinto. El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a 90 días hábiles, después de la publicación del Presente Reglamento Interior.
+
+Artículo Sexto. En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo. Conforme a lo dispuesto por los artículos 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas; y 13 fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Decreto en el Periódico Oficial.
