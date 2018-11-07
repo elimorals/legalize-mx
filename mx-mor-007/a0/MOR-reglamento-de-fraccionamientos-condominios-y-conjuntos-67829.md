@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-fraccionamientos-condominios-y-conjuntos-67829"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-24"
-last_updated: "2001-10-24"
+last_updated: "2018-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2001.
 
@@ -35,7 +35,9 @@ INGENIERO JOSÉ RAÚL HERNÁNDEZ ÁVILA, PRESIDENTE MUNICIPAL CONSTITUCIONAL DE 
 
 EL HONORABLE AYUNTAMIENTO DE CUERNAVACA, MORELOS EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 115 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, 112 Y 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, 53 FRACCIÓN II, 155, 156 Y 159 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS; Y,
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto, se tiene a bien expedir el siguiente:
 
@@ -43,9 +45,11 @@ REGLAMENTO DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS DEL MUNICIPIO DE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 1.
 
-La Ley de Ordenamiento Territorial y Asentamientos Humanos del Estado de Morelos y este Reglamento de Fraccionamientos, Condominios y Conjuntos Urbanos del Municipio de Cuernavaca, Morelos, son de orden público por razón de regular, conforme a las disposiciones constitucionales que establecen las diferentes atribuciones de las instancias de gobierno estatal y municipal, las actividades relativas a fraccionamientos, condominios y conjuntos urbanos constituidos y que se constituyan en el territorio del municipio; sus preceptos son obligatorios tanto en su aplicación por parte de las autoridades correspondientes como en su acatamiento por parte de las personas que se encuentren dentro de los supuestos previstos por esos ordenamientos.
+La Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos y este Reglamento de Fraccionamientos, Condominios y Conjuntos Urbanos del Municipio de Cuernavaca, Morelos, son de orden público por razón de regular, conforme a las disposiciones constitucionales que establecen las diferentes atribuciones de las instancias de gobierno estatal y municipal, las actividades relativas a fraccionamientos, condominios y conjuntos urbanos constituidos y que se constituyan en el territorio del municipio; sus preceptos son obligatorios tanto en su aplicación por parte de las autoridades correspondientes como en su acatamiento por parte de las personas que se encuentren dentro de los supuestos previstos por esos ordenamientos.
 
 Son de interés social, porque representan el desarrollo ordenado de actividades en que la colectividad morelense se ve afectada en sus aspectos económico y cultural, de vivienda, de seguridad, salubridad y tranquilidad generales; señala las responsabilidades de los propietarios y realizadores de fraccionamientos, condominios y conjuntos urbanos, así como la obligación de la Administración Pública Municipal de exigir esas responsabilidades y proteger y estimular las acciones correspondientes para beneficio de la población.
 
@@ -53,7 +57,9 @@ Son de interés social, porque representan el desarrollo ordenado de actividades
 
 Para los efectos de este Reglamento se denominarán:
 
-I.- A la Ley de Ordenamiento Territorial y Asentamientos Humanos, como ''La Ley'';
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2018)</small>
+
+I.- A la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, como “La Ley”;
 
 II.- A la Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos como "La Comisión Estatal";
 
@@ -85,17 +91,25 @@ De acuerdo con lo señalado en el artículo anterior, la Comisión se integrará
 
 I.- El Presidente Municipal, quien la presidirá por sí o por el titular de Desarrollo Urbano y Obras Públicas del Municipio;
 
-II.- El Director Municipal de Fraccionamientos, Condominios y Conjuntos Urbanos, quien fungirá como Secretario Técnico de la Comisión;
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2018)</small>
 
-III.- Un representante de la Dirección General de Registro Público de la Propiedad y del Comercio del Estado;
+II.- El Síndico Municipal;
 
-IV.- Un representante de la Oficina de Catastro;
+III.- El Director Municipal de Fraccionamientos, Condominios y Conjuntos Urbanos, quien fungirá como Secretario Técnico de la Comisión;
 
-V.- El Director Jurídico del Municipio, quien fungirá como asesor de la Comisión;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2018)</small>
 
-VI.- Un representante de la delegación del Registro Agrario Nacional en el Estado, y
+IV.- Un representante del Instituto de Servicios Registrales y Catastrales del Estado de Morelos;
 
-VII.- Un representante del Consejo Municipal de Desarrollo Urbano.
+V.- Un representante de la Oficina de Catastro;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2018)</small>
+
+VI.- El Secretario de Asuntos Jurídicos del Municipio, quien fungirá como asesor de la Comisión;
+
+VII.- Un representante de la delegación del Registro Agrario Nacional en el Estado, y
+
+VIII.- Un representante del Consejo Municipal de Desarrollo Urbano.
 
 Podrán formar parte de la Comisión Municipal, los Regidores o quienes ellos designen, representantes de otras dependencias, organismos y colegios de profesionistas, quienes asistirán con voz, pero sin voto.
 
@@ -505,9 +519,11 @@ A partir de que surta efectos el acuerdo por el que se otorga la aprobación del
 
 Es requisito indispensable para los fraccionadores, respetar las zonas arboladas salvo cuando éstas impidan u obstruyan la realización de las obras de urbanización quedando, por otra parte, obligados a cumplir con lo que establece el Reglamento de Ecología y Protección al Medio Ambiente del Municipio de Cuernavaca, lo que deberá asentarse en el acto de autorización.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 46.
 
-De los acuerdos sobre autorización de fraccionamientos, prórrogas y modificaciones si las hubiere, se enviará copia al Presidente Municipal, al Tesorero, al Director de Impuesto Predial y al Director del Registro Público de la Propiedad y Comercio del Estado de Morelos. Asimismo se enviará copia del acuerdo y los planos necesarios a la Dirección General de Catastro y a la Dirección General de Fraccionamientos, Condominios y Conjuntos Urbanos del Estado, para su conocimiento y a efecto de que tomen las medidas que correspondan. En caso de ser parte de una conurbación, se remitirá copia a los Ayuntamientos correspondientes.
+De los acuerdos sobre autorización de fraccionamientos, prórrogas y modificaciones si las hubiere, se enviará copia al Presidente Municipal, al Tesorero, al Director de Impuesto Predial y al Director del Instituto de Servicios Registrales y Catastrales del Estado de Morelos. Asimismo, se enviará copia del acuerdo y los planos necesarios a la Dirección General de Catastro y a la Dirección General de Fraccionamientos, Condominios y Conjuntos Urbanos del Estado, para su conocimiento y a efecto de que tomen las medidas que correspondan. En caso de ser parte de una conurbación, se remitirá copia a los Ayuntamientos correspondientes.
 
 El acuerdo se publicará por una sola vez en el Periódico Oficial del Estado.
 
@@ -1200,3 +1216,17 @@ ING. REY DAVID OLGUÍN ROSAS
 SECRETARIO DEL H. AYUNTAMIENTO
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SO/AC-547/13-IX-2018.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 1 PÁRRAFO PRIMERO; 2 FRACCIÓN I; 4 FRACCIONES III Y V; Y 46; Y SE ADICIONA UNA FRACCIÓN II AL ARTÍCULO 4, RECORRIÉNDOSE EN SU ORDEN ORIGINAL LAS ACTUALES FRACCIONES II A VII, PARA PASAR A SER FRACCIONES III A VIII, TODOS DEL REGLAMENTO DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS DEL MUNICIPIO DE CUERNAVACA, MORELOS”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación por el Ayuntamiento de Cuernavaca, Morelos.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERO.- Se instruye al Secretario del Ayuntamiento a notificar a la Síndico y a los integrantes de la Comisión Municipal de Fraccionamientos, Condominios y Conjuntos Urbanos, el contenido de la presente resolución.
+
+CUARTO.- El Secretario Técnico de la Comisión Municipal de Fraccionamientos, Condominios y Conjuntos Urbanos en la próxima Sesión Ordinaria o Extraordinaria que lleve a cabo la Comisión a partir de la entrada en vigor del presente Acuerdo, deberá convocar a la Síndico Municipal como nuevo integrante del citado órgano colegiado.
