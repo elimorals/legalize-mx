@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gestion-empresarial-y-reforma-regulatoria-del-estado-377
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-25"
-last_updated: "2016-06-24"
+last_updated: "2018-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 7 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE GESTIÓN EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 25 de febrero de 2004.
 
@@ -1038,3 +1040,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 
 TERCERO. En un plazo de noventa días se deberán realizar las adecuaciones correspondientes a los Reglamentos de la Ley de Hacienda Municipal, Ley de Catastro, Ley de Agua Potable y Alcantarillado, Ley de Protección Civil, y Ley de Gobierno Municipal, todas del Estado, respectivamente, a efecto de establecer el procedimiento para llevar a cabo las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias qua se generen por medios electrónicos.
+
+P.O. 7 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 856 DEL H. CONGRESO DEL ESTADO.- LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se abroga la Ley de Gestión Empresarial y Reforma Regulatoria del Estado de Sinaloa, publicada en el Periódico Oficial “El Estado de Sinaloa” número 24, de fecha 25 de febrero de 2004.
+
+TERCERO. El Consejo Estatal de Mejora Regulatoria y Gestión Empresarial de Sinaloa deberá estar instalado en un plazo que no exceda los 90 días posteriores a la entrada en vigor de la Ley de Mejora Regulatoria y Gestión Empresarial del Estado de Sinaloa.
+
+CUARTO. La Estrategia Estatal de Mejora Regulatoria y Gestión Empresarial deberá ser propuesta al Consejo Estatal de Mejora Regulatoria y Gestión Empresarial dentro de un plazo que no exceda los 90 días hábiles que sigan a la instalación de dicho Consejo. El Programa Estatal de Gestión Empresarial y Reforma Regulatoria estará vigente hasta que sea expedida oficialmente la Estrategia.
+
+QUINTO. El Observatorio Estatal de Mejora Regulatoria deberá ser instalado dentro de los seis meses siguientes a la instalación del Consejo Estatal de Mejora Regulatoria y Gestión Empresarial.
+
+SEXTO. Los municipios deberán publicar su Reglamento de Mejora Regulatoria y Gestión Empresarial en un plazo de 90 días siguientes a la entrada en vigor de la Ley de Mejora Regulatoria y Gestión Empresarial del Estado de Sinaloa, o en su caso armonizar el marco jurídico existente.
+
+SÉPTIMO. La herramienta tecnológica del Catálogo iniciará su funcionamiento de acuerdo con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley General de Mejora Regulatoria y Gestión Empresarial, publicado en el Diario Oficial de la Federación el día 18 de mayo de 2018.
+
+OCTAVO. Las disposiciones normativas vigentes que no se contrapongan a lo dispuesto por la Ley de Mejora Regulatoria y Gestión Empresarial del Estado de Sinaloa, continuarán surtiendo sus efectos.
+
+NOVENO. A partir de la entrada en vigor de la presente Ley, la Comisión Estatal de Gestión Empresarial y Reforma Regulatoria se denominará Comisión Estatal de Mejora Regulatoria y Gestión Empresarial de Sinaloa.
+
+Las menciones contenidas en cualquier ordenamiento jurídico y las obligaciones contraídas respecto a la Comisión Estatal de Gestión Empresarial y Reforma Regulatoria, se entenderán referidas a la Comisión Estatal de Mejora Regulatoria y Gestión Empresarial de Sinaloa.
