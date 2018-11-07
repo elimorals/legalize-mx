@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-fiscalia-general-del-estado-de-tabasco-10506
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-13"
-last_updated: "2017-08-23"
+last_updated: "2018-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Suplemento E del Periódico Oficial del Estado de Tabasco, el sábado 13 de diciembre de 2014.
 
@@ -167,7 +167,9 @@ De la designación del Fiscal General
 
 El Fiscal General será designado por el Congreso del Estado o, en su defecto, por el Titular del Poder Ejecutivo, por un periodo improrrogable de nueve años, conforme al procedimiento señalado en la Constitución del Estado.
 
-Si el Fiscal designado no concluye su período de nueve años, por cualquier causa, quien se nombre para sustituirlo lo será por el tiempo restante al originalmente designado.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2018)</small>
+
+Si el Fiscal designado no concluye el periodo para el que fue nombrado, se procederá a su sustitución, para lo cual mediante terna remitida por el Titular del Poder Ejecutivo al Congreso del Estado precisará si la designación se sujetará únicamente para la conclusión del periodo del fiscal originalmente designado o si se le designará por un período de nueve años.
 
 A la conclusión del período para el cual haya sido designado el Fiscal General, cesará desde luego en su ejercicio, sin necesidad de Acuerdo alguno; si a esa fecha no existiese nuevo Fiscal designado, suplirá su ausencia el Vicefiscal que señale el Reglamento Interior, en tanto el Congreso o el Titular del Ejecutivo, en su caso, realizan la designación correspondiente.
 
@@ -1000,3 +1002,11 @@ CUARTO.- El titular del Poder Ejecutivo del Estado, por conducto de la Secretar�
 QUINTO. En un plazo no mayor a cuarenta y cinco días posteriores a la publicación del presente Decreto, el Fiscal General del Estado realizará las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 007 POR EL QUE "SE REFORMA EL ARTÍCULO 8, PÁRRAFO SEGUNDO, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
