@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-secretario-ejecutivo-de-seguridad-54971
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-15"
-last_updated: "2007-03-15"
+last_updated: "2018-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL SECRETARIO EJECUTIVO DE SEGURIDAD PUBLICA DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DEL SECRETARIO EJECUTIVO DE SEGURIDAD PUBLICA DEL ESTADO DE SONORA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PUBLICADO EN EL B.O. DE 8 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL SECRETARIO EJECUTIVO DE SEGURIDAD PÚBLICA DEL ESTADO DE SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 15 de marzo de 2007.
 
@@ -634,3 +636,41 @@ Y ESTUDIOS ESTATAL ESTATAL DE
 PENITENCIARIO SEGURIDAD
 
 PUBLICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Secretario Ejecutivo de Seguridad Pública, publicado en el Boletín Oficial del Gobierno del Estado de Sonora, Número 22, sección II, de fecha 15 de marzo de 2007 y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicios al público deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior. El Titular de la Dependencia queda facultado para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos pendientes de resolver al entrar en vigor el presente Reglamento Interior continuarán su trámite y se resolverán por la unidad administrativa a la que se le haya otorgado la competencia en el presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Conforme a lo dispuesto en el presente Reglamento, el Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes seguirá teniendo existencia jurídica para ejercer las atribuciones que se le otorgan en dicho ordenamiento y la aplicación en el Estado, en el ámbito de su competencia, de la Ley Nacional que Establece el Sistema Integral de Justicia Penal para Adolescentes y, en su caso, de la abrogada Ley que Establece el Sistema Integral de Justicia para Adolescentes para el Estado de Sonora.
+
+Los recursos materiales y financieros, así como los bienes que han sido asignados al Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes para el cumplimiento de sus funciones, seguirán formando parte del Instituto para aplicarse y destinarse al objeto y fines del mismo, conforme a la Ley Nacional que Establece el Sistema Integral de Justicia Penal para Adolescentes.
+
+Los funcionarios y empleados adscritos al Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes, seguirá formando parte de éste, cuyos requisitos y funciones deberán ajustarse a los mencionados en la Ley Nacional que Establece el Sistema Integral de Justicia Penal para Adolescentes y en las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las medidas de internamiento y externamiento impuestas a los adolescentes, aplicadas anteriormente a la entrada en vigor de la Ley Nacional que Establece el Sistema Integral de Justicia Penal para Adolescentes, por el Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes, seguirán aplicándose por esta autoridad administrativa, sin perjuicio de que el adolescente, sus padres, tutores o quienes ejerzan la patria potestad o custodia, pueda acudir ante el Juez de ejecución que corresponda a fin de solicitar la modificación o cese de la medida impuesta.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las atribuciones contenidas en las fracciones XXVI a la XXXV del artículo 35 que el presente Reglamento otorga al Instituto de Tratamiento y de Aplicación de Medidas para Adolescentes, serán ejercidas en auxilio a éste por Coordinación Estatal de Servicios Previos al Juicio y de la Suspensión de la Libertad Condicionada, en tanto que el Instituto cuenta con el área respectiva para llevarlas a cabo.
