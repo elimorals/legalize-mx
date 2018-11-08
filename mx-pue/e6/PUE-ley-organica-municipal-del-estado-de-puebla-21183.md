@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2018-10-25"
+last_updated: "2018-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1035,6 +1035,10 @@ e) El Presidente Municipal podrá pedir licencia hasta por noventa días. Las fa
 
 A falta del suplente o cuando por cualquier otra causa éste no se presentase, el Congreso del Estado designará a quien lo sustituya.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2018)</small>
+
+En caso de que los integrantes del Ayuntamiento no llegaren a un acuerdo en el término de quince días naturales, el Congreso del Estado designará al Presidente Municipal Suplente.
+
 II.- Faltas absolutas:
 
 a) La falta absoluta de uno o más Regidores propietarios o del Síndico será cubierta por sus suplentes;
@@ -1049,7 +1053,13 @@ En su caso, el Presidente Municipal podrá manifestar que su ausencia es una fal
 
 c) En caso de falta absoluta del Presidente Municipal y de su suplente, el Congreso del Estado designará quienes los sustituyan.
 
-Si el suplente, por cualquier motivo no se presentase, el Congreso del Estado designará al Presidente Municipal Sustituto; y
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2018)</small>
+
+Si el suplente, por cualquier motivo no se presentase, el Ayuntamiento definirá por mayoría, de entre sus integrantes, al Presidente Municipal Sustituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE NOVIEMBRE DE 2018)</small>
+
+En caso de que los integrantes del Ayuntamiento no llegaren a un acuerdo en el término de quince días naturales, el Congreso del Estado designará al Presidente Municipal Sustituto; y
 
 d) La falta absoluta de algún Regidor electo por el principio de representación proporcional, deberá ser cubierta por su suplente, y a falta de éste, por aquel candidato del mismo partido político que siga en el orden de la lista, después de habérsele asignado los Regidores que le hubieren correspondido.
 
@@ -4154,3 +4164,11 @@ PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Poder Ejecutivo Estatal, en el ámbito de su competencia, realizará las acciones necesarias para el cumplimiento del presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN TERCER PÁRRAFO AL INCISO E) DE LA FRACCIÓN I Y REFORMA EL INCISO C) DE LA FRACCIÓN II DEL ARTÍCULO 52 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
