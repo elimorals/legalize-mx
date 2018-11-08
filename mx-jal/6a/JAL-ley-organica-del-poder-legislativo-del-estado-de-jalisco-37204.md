@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2018-04-26"
+last_updated: "2018-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 27060/LXII/18 POR EL QUE SE ABROGA LA ACTUAL LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 27060/LXII/18, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2018 (ABROGADA)
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -4628,3 +4628,29 @@ Para efectos de cumplimentar lo dispuesto en el párrafo anterior, el Órgano T�
 QUINTO. El personal de base adscrito al Órgano Técnico de Responsabilidades y que con motivo de la presente reforma pase a formar parte del Órgano Interno de Control, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral.
 
 SEXTO. De conformidad al artículo segundo transitorio del decreto 26316, se autoriza el traslado de las funciones relativas a los procedimientos de responsabilidad administrativa y a la facultad de recibir las declaraciones patrimoniales correspondientes al Órgano Interno de Control, a partir de la entrada en vigor del presente decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 27060/LXII/18 QUE ABROGA LA ACTUAL LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los asuntos pendientes deben ser remitidos a las nuevas comisiones mediante el proceso entrega-recepción, conforme a la normatividad en la materia y con la intervención de la Contraloría interna.
+
+La Mesa Directiva propondrá a la Asamblea la redistribución de los asuntos pendientes, con base en las competencias de las nuevas comisiones.
+
+TERCERO. Los asuntos pendientes de resolver deben concluirse observando las disposiciones de esta ley.
+
+CUARTO. El Congreso del Estado tiene un plazo de sesenta días hábiles, a partir de la entrada en vigor del presente decreto, para emitir las disposiciones reglamentarias.
+
+En tanto se expiden dichas disposiciones reglamentarias seguirán aplicándose, en su caso, las vigentes hasta antes de la entrada de vigor de esta ley.
+
+QUINTO. La entrada en vigor del presente decreto no menoscabará o afectará la estabilidad laboral y demás condiciones de trabajo de los servidores públicos del Congreso del Estado, por lo que se respetarán sus derechos laborales adquiridos de acuerdo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las leyes que de una y otra emanen.
+
+SEXTO. Dentro de los primeros sesenta días naturales posteriores a la instalación el comité de ética, esté emitirá el código respectivo para el Congreso del Estado
+
+SÉPTIMO. Lo relativo (sic) la iniciativa preferente, entrará en vigor hasta en tanto se realicen las reformas al marco constitucional y legal correspondiente.
+
+OCTAVO. En virtud de la entrada en vigor del presente decreto, los integrantes actualmente designados para la Mesa Directiva y la Junta de Coordinación Política durarán en su cargo hasta el 30 de abril del 2019.
+
+NOVENO. El Congreso del Estado deberá realizar las adecuaciones presupuestales necesarias, para el debido cumplimiento del presente decreto.
