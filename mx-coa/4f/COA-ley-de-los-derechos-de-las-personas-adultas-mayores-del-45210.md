@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2018-04-20"
+last_updated: "2018-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -763,9 +763,9 @@ IX. Los servicios culturales y educativos.
 
 X. Los programas de descuentos de bienes, servicios y cargas hacendarias.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2018)</small>
 
-XII (SIC). Brindar capacitación en materia de derechos humanos a los adultos mayores recluidos en asilos ya sean públicos o privados, con la finalidad de que, al conocerlos, cuenten con la orientación necesaria para denunciar a sus agresores.
+XII. Promover, difundir, educar y capacitar en materia de derechos humanos a las personas adultas mayores; principalmente a las que se encuentren en asilos, casas de asistencia o reposo, estancias, centros de rehabilitación y centros penitenciarios. Estas acciones tendrán por finalidad alentar a las personas adultas mayores a defender sus derechos y los de las demás personas, a prevenir abusos, promover la igualdad, fomentar su participación y, en su caso, a denunciar las violaciones a los derechos humanos y a sus agresores.
 
 ###### Artículo 48.
 
@@ -1496,6 +1496,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 20 DE ABRIL DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 18.- SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 5 Y SE REFORMA EL PÁRRAFO SEGUNDO Y LA FRACCIÓN IV DEL ARTÍCULO 28, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 87.- SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 47, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
