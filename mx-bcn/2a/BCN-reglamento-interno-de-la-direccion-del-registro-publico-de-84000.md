@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-direccion-del-registro-publico-de-8400
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-25"
-last_updated: "2011-11-25"
+last_updated: "2018-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 25 de noviembre de 2011.
 
@@ -82,6 +82,12 @@ VIII. Oficina Registral en Ensenada;
 IX. Oficina Registral en Tecate; y
 
 X. Oficina Registral en Playas de Rosarito.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 4 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Secretaría, contará con un Comité de Transparencia y una unidad de transparencia, las cuales se organizarán y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
 
 ###### ARTÍCULO 5.
 
@@ -153,7 +159,13 @@ XXII. Promover la permanente actualización del marco jurídico en materia regis
 
 XXIII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento; y,
 
-XXIV. Las demás que con el carácter de no delegables le sean encomendadas por el Ejecutivo del Estado, y aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+XXIV.- Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y,
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+XXV. Las demás que con el carácter de no delegables que le sean encomendadas por el Ejecutivo del Estado, y aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -277,7 +289,13 @@ XIX. Actualizar el inventario de bienes de la Dirección, incluyendo las Oficina
 
 XX. Intervenir en la contratación, desarrollo, capacitación, promoción y adscripción de necesidades del servicio y participar en los casos de sanciones, remoción y cese de personal de su responsabilidad, de conformidad con la normatividad aplicable, y
 
-XXI. Las demás que le sean encomendadas por su superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+XXII. Las demás que le sean encomendadas por su superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -413,19 +431,79 @@ XII. Facilitar al público la información que solicite de los asientos registra
 
 XIII. Las demás que le sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones legales aplicables.
 
-### CAPÍTULO VI. DE LA SUPLENCIA DE LOS FUNCIONARIOS Y SERVIDORES PUBLlCOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO VI. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 24.
 
-Durante las ausencias del Director, el despacho y resolución de los asuntos correspondientes a la misma, en su orden, quedará a cargo del Subdirector.
+El Órgano Interno de Control de la Dirección del Registro Público de la Propiedad y de Comercio para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Dirección del Registro Público de la Propiedad y de Comercio y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la Dirección del Registro Público de la Propiedad y de Comercio;
+
+III. Revisar que las operaciones presupuestales que realice la Dirección del Registro Público de la Propiedad y de Comercio se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+IV. Requerir a las unidades administrativas de la Dirección del Registro Público de la Propiedad y de Comercio que correspondan, el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías, verificaciones y revisiones, y formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+V. Informar al titular de la Dirección del Registro Público de la Propiedad y de Comercio sobre los resultados de las revisiones, auditorías y verificaciones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+VI. Asistir a reuniones del Subcomité de Adquisiciones de la Dirección del Registro Público de la Propiedad y de Comercio, y vigilar que ésta última realice las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y de obra pública, equipamiento, suministros y servicios con apego a las leyes en la materia;
+
+VII. Requerir a terceros que hubieran contratado bienes o servicios con la Dirección del Registro Público de la Propiedad y de Comercio la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IX. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental las políticas para simplificar y homogeneizar sus funciones;
+
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Dirección del Registro Público de la Propiedad y de Comercio cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+XI. Requerir a los servidores públicos de la Dirección del Registro Público de la Propiedad y de Comercio información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XIII. Coadyuvar en el programa de actualización del marco de actuación de la Dirección del Registro Público de la Propiedad y de Comercio en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen;
+
+XIV. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones; y
+
+XV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 25.
 
-Las ausencias temporales del Subdirector, Registrador y Subregistrador, serán suplidas para el despacho de los asuntos de su competencia, por el funcionario inmediato inferior adscrito al área de su responsabilidad que se designe por acuerdo del Director.
+El Órgano Interno de Control contará con el personal y los recursos necesarios, que garanticen el ejercicio independiente de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO VII. DE LA SUPLENCIA DE LOS FUNCIONARIOS Y SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 24], P.O. 9 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 26.
 
+Durante las ausencias del Director, el despacho y resolución de los asuntos correspondientes a la misma, en su orden, quedará a cargo del Subdirector.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 25], P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 27.
+
+Las ausencias temporales del Subdirector, Registrador y Subregistrador, serán suplidas para el despacho de los asuntos de su competencia, por el funcionario inmediato inferior adscrito al área de su responsabilidad que se designe por acuerdo del Director.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 26], P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 28.
+
 Durante las ausencias temporales del personal adscrito a las diversas áreas de la Dependencia, éstas se suplirán por los servidores públicos que designe el Director, en su ausencia lo hará el Subdirector, o a propuesta del Registrador de la circunscripción que corresponda.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 29.
+
+Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
 T R A N S I T O R I O S
 
@@ -446,3 +524,15 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 4 BIS, SE REFORMAN LOS ARTÍCULOS 9 Y 14, SE MODIFICA LA DENOMINACIÓN Y CONTENIDO DEL CAPÍTULO VI "DEL ÓRGANO INTERNO DE CONTROL" CON LOS ARTÍCULOS 24 Y 25 Y SE INCORPORA EL CAPÍTULO VII DENOMINADO "DE LA SUPLENCIA DE LOS FUNCIONARIOS Y SERVIDORES PÚBLICOS" CON LOS ARTÍCULOS 26, 27, 28 Y 29 DEL REGLAMENTO INTERNO DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO".]
+
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Dirección del Registro Público de la Propiedad y de Comercio entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Dirección del Registro Público de la Propiedad y de Comercio a partir de la entrada en vigor del presente decreto deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Finanzas, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+TERCERO.- La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
