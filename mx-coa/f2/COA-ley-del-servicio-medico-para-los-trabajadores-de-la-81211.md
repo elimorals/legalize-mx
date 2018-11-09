@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-medico-para-los-trabajadores-de-la-81211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2017-12-26"
+last_updated: "2018-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,19 @@ state: "COA"
 ---
 # LEY DEL SERVICIO MEDICO PARA LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUILA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 9 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 6 de mayo de 2011.
 
-EL C. LlC. JORGE JUAN TORRES LÓPEZ, GOBERNADOR INTERINO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUlLA DE ZARAGOZA, A SUS HABITANTES SABED:
+EL C. LIC. JORGE JUAN TORRES LÓPEZ, GOBERNADOR INTERINO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUlLA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUlLA DE ZARAGOZA;
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
 DECRETA:
 
@@ -45,7 +47,7 @@ NÚMERO 498.-
 
 Se expide la
 
-LEY DEL SERVICIO MEDICO PARA LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUlLA.
+LEY DEL SERVICIO MEDICO PARA LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUILA.
 
 ### CAPITULO PRIMERO.
 
@@ -873,7 +875,7 @@ RAMIRO FLORES MORALES
 
 DIPUTADO SECRETARIO
 
-ROGELlO RAMOS SÁNCHEZ
+ROGELIO RAMOS SÁNCHEZ
 
 (RÚBRICA)
 
@@ -901,13 +903,13 @@ Saltillo, Coahuila, 5 de Mayo de 2011
 
 EL GOBERNADOR INTERINO DEL ESTADO
 
-LlC. JORGE JUAN TORRES LÓPEZ
+LIC. JORGE JUAN TORRES LÓPEZ
 
 (RÚBRICA)
 
 EL SECRETARIO DE GOBIERNO
 
-LlC. DAVID AGUlLLÓN ROSALES
+LIC. DAVID AGUILLÓN ROSALES
 
 (RÚBRICA)
 
@@ -962,3 +964,23 @@ SEXTO.- Los gastos de administración a que se refiere el artículo 21 de la Ley
 Los gastos de administración antes referidas corresponderán al 1.5% de la nómina integrada del personal activo afiliado a la dirección de pensiones bajo el régimen de cuentas individuales cuyo monto se deducirá de las aportaciones que realicen las entidades aportantes a que se refiere el artículo 2 la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza. El remanente será distribuido a las cuentas individuales en la forma y términos que corresponda.
 
 SÉPTIMO.- Se abrogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 86.- SE EXPIDE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley del Servicio Médico para los Trabajadores de la Educación del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado el 6 de mayo de 2011, sin perjuicio de lo establecido en los artículos transitorios siguientes.
+
+TERCERO.- Las disposiciones de la ley que se abroga relativas a las aportaciones de trabajadores, pensionados e instituciones aportantes al patrimonio del Organismo, continuarán en vigor hasta el primero de enero del año dos mil diecinueve.
+
+CUARTO.- Las aportaciones previstas en el artículo 37 de la presente ley, entrarán en vigor a partir del día primero de enero del año dos mil diecinueve.
+
+QUINTO.- El Director General del Servicio Médico continuará en su encargo hasta la conclusión del periodo para el que fue designado, sin perjuicio de lo establecido en el artículo 31.
+
+SEXTO.- La designación de los miembros del Consejo de Administración, así como la instalación del mismo, deberá realizarse dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente decreto.
+
+SÉPTIMO.- En un plazo no mayor a noventa días posteriores a la publicación de este ordenamiento, deberán de expedirse las adecuaciones a las disposiciones reglamentarias y administrativas que resulten necesarias para la aplicación de la presente ley.
+
+OCTAVO.- Las disposiciones reglamentarias derivadas de la ley abrogada por el presente decreto, continuarán aplicándose en tanto no contravengan las disposiciones de esta ley, hasta en tanto se expidan los reglamentos correspondientes.
