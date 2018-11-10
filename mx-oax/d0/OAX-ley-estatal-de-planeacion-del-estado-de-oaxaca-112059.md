@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-planeacion-del-estado-de-oaxaca-112059"
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-09"
-last_updated: "2016-10-15"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PLANEACIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de enero de 2016.
 
@@ -119,35 +119,39 @@ XXVII. Objetivos institucionales: Elementos de planeación estratégica y compro
 
 XXVIII. PED: Plan Estatal de Desarrollo, instrumento rector de la Planeación Estatal en el largo, mediano y el corto plazo;
 
-XXIX. Planes: Comprende el Plan Estatal de Desarrollo (PED), los Planes Estratégicos Sectoriales, Regionales, Microrregionales, Institucionales, Especiales y Municipales que establece esta Ley;
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXX. Proceso de planeación: Comprende el conjunto de elementos metodológicos y procedimientos estandarizados que permiten la ordenación sistemática de la gestión pública alrededor de objetivos, estrategias, programas, subprogramas, y proyectos que orientan la programación y asignación de recursos con base en metas e indicadores de corto, mediano y largo plazo que permiten la definición de responsabilidades y tiempos de ejecución, así como la coordinación de acciones, la evaluación de resultados, y la rendición de cuentas;
+XXIX. Perspectiva de Género: Visión científica, analítica y política sobre las mujeres y los hombres que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres y los hombres contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
-XXXI. Proceso presupuestario: Corresponde al conjunto de actividades de planeación, programación, presupuestación, ejercicio, control, seguimiento, evaluación y rendición de cuentas del presupuesto que se ejerce en el ejercicio fiscal, en concordancia con los objetivos de los planes del Sistema Estatal de Planeación;
+XXX. Planes: Comprende el Plan Estatal de Desarrollo (PED), los Planes Estratégicos Sectoriales, Regionales, Microrregionales, Institucionales, Especiales y Municipales que establece esta Ley;
 
-XXXII. Programa operativo anual (POA): Instrumento de programación anual del gasto corriente y de inversión de las Dependencias y Entidades que define su producción institucional, infraestructura, bienes y/o servicios y los costos asociados así como los indicadores de gestión para medir su cumplimiento;
+XXXI. Proceso de planeación: Comprende el conjunto de elementos metodológicos y procedimientos estandarizados que permiten la ordenación sistemática de la gestión pública alrededor de objetivos, estrategias, programas, subprogramas, y proyectos que orientan la programación y asignación de recursos con base en metas e indicadores de corto, mediano y largo plazo que permiten la definición de responsabilidades y tiempos de ejecución, así como la coordinación de acciones, la evaluación de resultados, y la rendición de cuentas;
 
-XXXIII. Programa: Categoría programática de clasificación del gasto que expresa el proceso de producción y provisión de uno o varios productos terminales de una o varias Dependencias y Entidades y que tiene un resultado definido, en cumplimiento de un objetivo de política o una estrategia del Plan Estatal de Desarrollo y demás planes del Sistema Estatal de Planeación, también conocido como programa presupuestario;
+XXXII. Proceso presupuestario: Corresponde al conjunto de actividades de planeación, programación, presupuestación, ejercicio, control, seguimiento, evaluación y rendición de cuentas del presupuesto que se ejerce en el ejercicio fiscal, en concordancia con los objetivos de los planes del Sistema Estatal de Planeación;
+
+XXXIII. Programa operativo anual (POA): Instrumento de programación anual del gasto corriente y de inversión de las Dependencias y Entidades que define su producción institucional, infraestructura, bienes y/o servicios y los costos asociados así como los indicadores de gestión para medir su cumplimiento;
+
+XXXIV. Programa: Categoría programática de clasificación del gasto que expresa el proceso de producción y provisión de uno o varios productos terminales de una o varias Dependencias y Entidades y que tiene un resultado definido, en cumplimiento de un objetivo de política o una estrategia del Plan Estatal de Desarrollo y demás planes del Sistema Estatal de Planeación, también conocido como programa presupuestario;
 
 Constituye una de las formas de organizar la información presupuestaria conforme a los objetivos y prioridades de política del Estado, los sectores y sus Dependencias y Entidades con el propósito de facilitar el seguimiento, evaluación del desempeño, la transparencia y la rendición de cuentas en la gestión del gasto público;
 
-XXXIV. Programación: Comprende la aprobación técnica y financiera de cada proyecto, la inclusión de éste en los presupuestos de las Dependencias y Entidades;
+XXXV. Programación: Comprende la aprobación técnica y financiera de cada proyecto, la inclusión de éste en los presupuestos de las Dependencias y Entidades;
 
-XXXV. Proyecto de Inversión Pública: Conjunto organizado de insumos, actividades, recursos y/u obras tendientes a aumentar la formación bruta de capital fijo o el incremento del capital humano en un tiempo y con unos recursos finitos. Los proyectos se dividen en Proyectos de Inversión Real o Física, Proyectos de Desarrollo Humano y Proyectos Mixtos;
+XXXVI. Proyecto de Inversión Pública: Conjunto organizado de insumos, actividades, recursos y/u obras tendientes a aumentar la formación bruta de capital fijo o el incremento del capital humano en un tiempo y con unos recursos finitos. Los proyectos se dividen en Proyectos de Inversión Real o Física, Proyectos de Desarrollo Humano y Proyectos Mixtos;
 
-XXXVI. Reglamento: Reglamento de la Ley Estatal de Planeación;
+XXXVII. Reglamento: Reglamento de la Ley Estatal de Planeación;
 
-XXXVII. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado;
+XXXVIII. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado;
 
-XXXVIII. SED: Es el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión, que permiten conocer el impacto social de los programas y proyectos de inversión;
+XXXIX. SED: Es el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión, que permiten conocer el impacto social de los programas y proyectos de inversión;
 
-XXXIX. Seguimiento: Comprende el proceso continuo de recolección, procesamiento, análisis y difusión de información del desempeño a partir de indicadores de producto, resultado e impacto que permitan la valoración de los avances en el logro de las políticas, programas y proyectos;
+XL. Seguimiento: Comprende el proceso continuo de recolección, procesamiento, análisis y difusión de información del desempeño a partir de indicadores de producto, resultado e impacto que permitan la valoración de los avances en el logro de las políticas, programas y proyectos;
 
-XL. Subprogramas: Categoría programática de clasificación del gasto que integra las acciones presupuestarias, cuyas relaciones de condicionamiento se establecen dentro de un programa. Los subprogramas corresponden a una desagregación del programa y, en consecuencia, su objetivo responde a un logro parcial de éste a través de la generación de un producto y a los objetivos del subsector y sector correspondientes bajo una política o estrategia que forma parte del PED y demás planes del Sistema Estatal de Planeación;
+XLI. Subprogramas: Categoría programática de clasificación del gasto que integra las acciones presupuestarias, cuyas relaciones de condicionamiento se establecen dentro de un programa. Los subprogramas corresponden a una desagregación del programa y, en consecuencia, su objetivo responde a un logro parcial de éste a través de la generación de un producto y a los objetivos del subsector y sector correspondientes bajo una política o estrategia que forma parte del PED y demás planes del Sistema Estatal de Planeación;
 
-XLI. SIEP: Sistema Estatal de Planeación se integra por el conjunto de principios, normas, órganos, metodologías y procesos estandarizados a través de los cuales se fijan las políticas, objetivos, metas y prioridades del desarrollo económico y social del Estado, así como los procedimientos e instrumentos para evaluar su cumplimiento, y
+XLII. SIEP: Sistema Estatal de Planeación se integra por el conjunto de principios, normas, órganos, metodologías y procesos estandarizados a través de los cuales se fijan las políticas, objetivos, metas y prioridades del desarrollo económico y social del Estado, así como los procedimientos e instrumentos para evaluar su cumplimiento, y
 
-XLII. SISPLADE: Sistema de información para la planeación del desarrollo.
+XLIII. SISPLADE: Sistema de información para la planeación del desarrollo.
 
 ###### Artículo 3.
 
@@ -251,9 +255,17 @@ XIII. Seguimiento y Evaluación. Los planes y proyectos serán objeto de seguimi
 
 XIV. Servicio al ciudadano. Los proyectos de los planes deberán promover la eficiencia y transparencia en la gestión y centrar todas sus acciones en responder y atender, bajo criterios de calidad y oportunidad, los requerimientos y las inquietudes de los ciudadanos en relación con los procesos de planeación y con los bienes y servicios que otorga el Estado;
 
-XV. Subsidiariedad. Las autoridades e instancias de planeación de mayor jerarquía deberán apoyar transitoriamente a aquellas que carezcan de capacidad técnica para la preparación oportuna de los planes, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XVI. Viabilidad. Las políticas, programas y proyectos contenidos en los planes deberán ser factibles de realizar, teniendo en cuenta las metas propuestas, sus riegos, el tiempo disponible para alcanzarlas, los recursos económicos a los que es posible acceder y las capacidades de administración y ejecución.
+XV. Subsidiariedad. Las autoridades e instancias de planeación de mayor jerarquía deberán apoyar transitoriamente a aquellas que carezcan de capacidad técnica para la preparación oportuna de los planes;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Viabilidad. Las políticas, programas y proyectos contenidos en los planes deberán ser factibles de realizar, teniendo en cuenta las metas propuestas, sus riegos (sic), el tiempo disponible para alcanzarlas, los recursos económicos a los que es posible acceder y las capacidades de administración y ejecución, y;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XVII. La perspectiva de género, debiendo establecer criterios de transversalización que garanticen la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 ###### Artículo 12.
 
@@ -343,9 +355,21 @@ I. Asesorar y apoyar al Titular del Poder Ejecutivo en el ejercicio de su funci�
 
 II. Desarrollar las disposiciones de planeación definidas por el Titular del Poder Ejecutivo y coordinar con las demás instancias del SIEP, el trabajo de formulación, validación, ejecución, seguimiento y evaluación de resultados del PED y de los demás planes de que trata la presente Ley, con la participación activa de los Ejecutores de gasto respectivos;
 
-III. Coordinar el proceso de formulación del PED a partir de ejercicios de planeación participativa con enfoque transversal, en los que concurra el sector social, incluidos los pueblos, comunidades indígenas y afromexicanas, y el sector privado, e
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-IV. Impulsar la producción, adecuada administración y el uso de la información estadística y documental para el desarrollo estatal y definir los requerimientos que deberán producir los sistemas de información para la planeación y el financiamiento del desarrollo.
+III. Coordinar el proceso de formulación del PED a partir de ejercicios de planeación participativa con enfoque transversal, en los que concurra el sector social, incluidos los pueblos, comunidades indígenas y afromexicanas, y el sector privado;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IV. Impulsar la producción, adecuada administración y el uso de la información estadística y documental para el desarrollo estatal y definir los requerimientos que deberán producir los sistemas de información para la planeación y el financiamiento del desarrollo;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. Orientar a dependencias y entidades de la Administración Pública Estatal y Municipal planeen y conduzcan sus actividades con perspectiva de género en la definición y ejecución de los planes, programas y acciones de gobierno con carácter intersectorial y sujeción a los objetivos y prioridades de la planeación estatal del desarrollo y a prospectiva, a fin de cumplir con la obligación de garantizar la igualdad real de oportunidades entre mujeres y hombres, así como al derecho de una vida libre de violencia de género, y;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VI. Formular e integrar las reglas, criterios y metodología para las unidades de información, planeación, programación y evaluación; así como promover la construcción de indicadores que permitan evaluar el impacto de las políticas contenidas en el Plan desde una perspectiva de género, para que las acciones de gasto público reflejen la equidad en los beneficios del desarrollo.
 
 ### Capítulo Tercero. Ente Normativo de la Planeación Estratégica del Gasto
 
@@ -417,7 +441,9 @@ Una vez que el Titular del Poder Ejecutivo tome posesión de su cargo con el apo
 
 Las funciones que el COPLADE ejercerá como instancia principal de coordinación, consulta y asesoría del Poder Ejecutivo estarán orientadas a:
 
-I. Fortalecer la planeación participativa de la ciudadanía en la formulación y validación del PED;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. Promover y fortalecer la planeación participativa de la ciudadanía en la formulación y validación del PED, contemplando la perspectiva de género;
 
 II. Coadyuvar con la Secretaría en la identificación de prioridades de política pública y orientación de recursos, así como en la puesta en marcha de estrategias y mecanismos de coordinación, colaboración, inducción y gestión de acciones con las Dependencias,
 
@@ -1316,3 +1342,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
 
 TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 1675.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
