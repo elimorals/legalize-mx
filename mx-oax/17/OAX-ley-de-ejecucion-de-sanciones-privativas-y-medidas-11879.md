@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ejecucion-de-sanciones-privativas-y-medidas-11879"
 country: "mx"
 rank: "ley"
 publication_date: "1973-01-27"
-last_updated: "2000-09-23"
+last_updated: "2018-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE OAXACA
 
-LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE OAXACA
+LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de enero de 1973.
 
@@ -49,7 +49,7 @@ OBJETO.
 
 Las disposiciones de la presente Ley son de orden público e interés social y tienen por objeto establecer las bases para la ejecución de las penas y medidas de seguridad, impuestas por las Autoridades Judiciales en el Estado, conforme a las disposiciones Constitucionales y a las Leyes aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 SEPTIEMBRE DE 2000)</small>
 
 II
 
@@ -745,9 +745,11 @@ Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que
 
 La remisión parcial de la pena, así como los días que se deban tomar en cuenta para este efecto, serán propuestos por el Consejo Técnico del establecimiento a la Dirección de Prevención y Readaptación Social. Los informes de remisión de la pena se proporcionarán tan luego se soliciten y la resolución se dictará por la Dirección dentro de los 15 días siguientes a la fecha de los informes y se dará a conocer al interesado, haciéndose constar en su expediente. El derecho a este beneficio se hará constar en las sentencias que condenen a pena de prisión y lo informará a los sentenciados en el momento de notificarles el fallo.
 
+> <small>(REFORMADO, P.O. 10 NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 92.
 
-La remisión de la pena se entiende sin perjuicio del derecho a la libertad preparatoria cuando procediere, por lo que para computar el plazo para el ejercicio de esta última, se deducirá el tiempo redimido.
+La remisión de la pena se entiende sin perjuicio del derecho a la libertad preparatoria cuando procediere.
 
 III.- Libertad preparatoria.
 
@@ -763,7 +765,9 @@ II.- Que el examen de su personalidad haga presumir que está reformado y social
 
 III.- Que haya reparado o se obligue formalmente a reparar el daño causado, si fue condenado a ello, sujetándose a la forma, medidas y términos que de acuerdo con su situación se fijen por la Dirección de Prevención y Readaptación Social, si no puede cubrirlo desde luego;
 
-IV.- No se trate de los delitos de Corrupción de Menores previsto por el artículo 195, Pornografía Infantil previsto por el artículo 195 Bis, Lenocinio de Menores previsto por el artículo 200 Bis, Violación previsto por los artículos 246, 247 y 248; Asalto previsto por los artículos 268 y 269; y Privación Ilegal de la Libertad en su modalidad de plagio o secuestro previsto por el artículo 348 del Código Penal para el Estado Libre y Soberano de Oaxaca; y
+> <small>(REFORMADA, P.O. 10 NOVIEMBRE DE 2018)</small>
+
+IV.- No se trate de los delitos de Corrupción de Menores previsto por el artículo 195, Pornografía Infantil previsto por el artículo 195 Bis, Lenocinio de Menores previsto por el artículo 200 Bis, Violación previsto por los artículos 246, 247 y 248; Asalto previsto por los artículos 268 y 269, Homicidio Calificado previsto por los artículos 285, 291 y 299, y Privación Ilegal de la Libertad en su modalidad de plagio o secuestro previsto por el artículo 348, todos del Código Penal para el Estado Libre y Soberano de Oaxaca; y
 
 V.- No se trate de reincidentes.
 
@@ -945,7 +949,7 @@ LIC. AGUSTIN MARQUEZ URIBE.- Rúbrica.
 
 Al C.....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 1 DE JULIO DE 1996.
 
@@ -966,3 +970,11 @@ P.O. 23 DE SEPTIEMBRE DE 2000.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1467.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD PARA EL ESTADO DE OAXACA”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo. Se derogan todas las disposiciones expedidas con anterioridad en lo que se opongan a esta reforma.
