@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-para-el-fomento-del-aprovechamiento-74632"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-03"
-last_updated: "2016-11-12"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN PARA EL FOMENTO DEL APROVECHAMIENTO SUSTENTABLE DE LAS FUENTES DE ENERGÍA RENOVABLE EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 3 de abril de 2010.
 
@@ -393,6 +393,10 @@ El Estado y los Municipios podrán establecer empresas con participación públi
 
 En todo caso la construcción, operación y desmantelamiento de las instalaciones de Parques Eoloeléctricos deberá ajustarse a lo previsto por las norma (sic) oficiales aplicables.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+La Comisión, promoverá ante las empresas generadoras de energía renovable, estímulos y programas de acceso a las energías sustentables, a través de subsidios, para beneficiar a los habitantes de los municipios generadores de energía renovable.
+
 ### CAPÍTULO III. DEL FOMENTO PARA EL ACCESO EQUITATIVO A LOS BENEFICIOS DEL APROVECHAMIENTO DE LAS FUENTES DE ENERGÍA DE LA BIOMASA
 
 ###### ARTÍCULO 17.
@@ -490,3 +494,11 @@ CUARTO.- Los recursos humanos, financieros y materiales adscritos a la Coordinac
 Se faculta a la Secretaría de Finanzas y a la Secretaria de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras de los órganos que por este Decreto se creen o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente decreto.
 
 En todos los casos que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias y entidades o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley de Servicio Civil para los Empleados del Gobierno del Estado y demás Leyes aplicables de la materia.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1636.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN PARA EL FOMENTO DEL APROVECHAMIENTO SUSTENTABLE DE LAS FUENTES DE ENERGÍA RENOVABLE EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
