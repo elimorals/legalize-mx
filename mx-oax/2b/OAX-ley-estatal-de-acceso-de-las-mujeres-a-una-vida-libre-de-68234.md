@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2018-05-11"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -119,7 +119,7 @@ I. Ley: La Ley Estatal de Acceso de las Mujeres a una vida Libre de Violencia de
 
 II. Sistema: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia de Género Contra las Mujeres;
 
-III. Consejo: El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia de Género Contra las Mujeres;
+III. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
 
 IV. Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres;
 
@@ -131,11 +131,17 @@ VII. Perspectiva de Género: Es la visión científica, analítica, política y 
 
 VIII. Acciones: Los mecanismos llevados a cabo por autoridades federales, estatales, municipales y organizaciones públicas y privadas, tendientes a promover la igualdad y evitar la discriminación, orientados a prevenir y erradicar la violencia contra las mujeres;
 
-IX. Víctima: Toda mujer a quien se le inflige cualquier tipo de violencia de género;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Víctima: mujer que individual o colectivamente haya sufrido daños, inclusive lesiones físicas, mentales, sufrimiento emocional, pérdida financiera, menoscabo sustancial de sus derechos fundamentales como consecuencia de acciones u omisiones que violen la legislación vigente, incluida la que proscribe el abuso de poder o a quien se inflige cualquier tipo de violencia.
+
+Se entiende como víctima también a los familiares, personas a cargo que tengan relación inmediata con la víctima directa y a las personas que hayan sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización.
 
 X. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
-XI. Tipos de Violencia: Las formas y manifestaciones en que se presenta la violencia contra las mujeres, incluyendo lo previsto en los Tratados Internacionales;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XI. Tipos de Violencia: Psicológica, física, patrimonial, económica, sexual, cibernética, política, simbólica y análogas que lesionen o sean susceptibles de dañar la dignidad e integridad o libertad de las mujeres, descritas en la presente Ley.
 
 XII. Modalidades de la Violencia: Son los contextos, espacios, lugares o ámbitos en que se presenta la violencia contra las mujeres;
 
@@ -143,9 +149,9 @@ XIII. Discriminación: Exclusión o restricción hacia las mujeres, que tenga po
 
 XIV. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en caso de enfermedad;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del disfrute pleno de sus derechos y libertades;
+XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
 
@@ -159,9 +165,13 @@ XVII. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en acto
 
 Los tipos de Violencia contra las Mujeres son:
 
-I. Violencia psicológica: Es cualquier acto u omisión que cause daño a la estabilidad psicológica, pudiendo consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-II. Violencia física: Es cualquier acto intencional que inflige daño a las mujeres, usando la fuerza física o algún tipo de sustancia, arma u objeto que pueda provocar o no lesiones, ya sean internas, externas o ambas;
+I. La violencia psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, desvalorización, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+II. La violencia física: Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de sustancia, arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
 
 III. Violencia patrimonial: Es cualquier acto u omisión que menoscabe el patrimonio de las mujeres por transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades, pudiendo comprender también los daños a los bienes comunes o propios de la víctima;
 
@@ -171,9 +181,11 @@ IV. Violencia económica: Es toda acción u omisión del agresor que afecte la s
 
 V. Violencia Sexual.- Cualquier acto realizado por la persona agresora que degrade, dañe o atente contra el cuerpo y/o la sexualidad de la víctima; puede consistir en: la imposición mediante violencia física o psicológica de relaciones sexuales, incluso la ejercida por el cónyuge o la pareja sentimental; la explotación o comercio sexual; el acoso u hostigamiento sexual; el empleo de mujeres sin su consentimiento y de niñas en pornografía; los delitos contra la libertad sexual e integridad de las personas señalados en el Código Penal para el Estado Libre y Soberano de Oaxaca, y todos los abusos, agresiones y conductas que atenten o limiten el derecho a la libertad, dignidad, integridad y desarrollo físico y sexual de las mujeres;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DEL PRIMER PÁRRAFO DEL ARTÍCULO 19 BIS, P.O. 10 DE NOVIEMBRE DE 2018]</small>
 
-VI. Violencia feminicida.- Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos. En los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en feminicidio u otras formas de muerte violenta de mujeres;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VI. (SIC) Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y pueden culminar en feminicidio y otras formas de muerte violenta de mujeres;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
@@ -181,9 +193,21 @@ VII. Violencia política: Es cualquier acción u omisión cometida por una o var
 
 Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida por razón de género.
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la integridad, dignidad, libertad y los derechos de las mujeres.
+VIII. La violencia simbólica: Es la que se ejerce a través de patrones estereotipados, mensajes, valores, iconos o signos que trasmiten y reproducen dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, implica una reproducción en cubierta y sistemática difícil de distinguir y percibir.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. La Violencia cibernética: Acción que mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correo electrónico, blogs, mensajes de texto, videos, o cualquiera otra, lesionen, afecten o dañen la dignidad, seguridad, libertad e integridad de las mujeres en cualquier ámbito de su vida.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X. La violencia obstétrica: Es toda acción u omisión por parte del personal de salud, público o privado, que atenta contra el derecho a la salud sexual, los derechos reproductivos de las mujeres durante el embarazo, el parto y el puerperio y su autonomía para ejercerlos de manera informada; así como el abuso de medicalización y patologización de los procesos naturales, trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, daño físico, psicológico, o la muerte de la madre o del producto por negligencia o impericia, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XI. Cualesquiera otras formas análogas de violencia que lesione o sean susceptibles de dañar la dignidad, integridad, patrimonio o libertad de las mujeres.
 
 ## TÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -205,9 +229,7 @@ II. Brindar servicios reeducativos integrales y especializados al agresor para e
 
 III. Prohibir que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
-
-IV. Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
+IV. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
 
 V. Proteger los derechos de la víctima y vigilar que el agresor garantice la reparación del daño;
 
@@ -216,6 +238,10 @@ VI. Ordenar la separación y alejamiento del agresor con respecto a la víctima;
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
 VII. Favorecer la instalación y el mantenimiento de unidades de atención integral y refugios para las víctimas y sus hijas e hijos, así como centros reeducativos para agresores. La información sobre la ubicación de los refugios será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo (sic) violencia.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Se prohíbe la aplicación de los mecanismos de mediación, conciliación o alternativos para la solución de controversias en los casos que se presente cualquiera de los tipos o modalidades de violencia contra la mujer contenidos en esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -311,9 +337,11 @@ Puede consistir en un solo evento dañino o en una serie de eventos cuya suma pr
 
 Violencia en el ámbito laboral, es la negativa ilegal de contratación a la víctima o de respetar su permanencia o condiciones generales de trabajo, la descalificación de la actividad realizada, las amenazas, la intimidación, las humillaciones, la percepción de un salario menor por igual trabajo, desempeño y jornada dentro de un mismo centro laboral, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la Ley General de Salud, y todo tipo de explotación y discriminación por condición de género, así como la falta de respeto a las condiciones generales de trabajo por la exigencia de pruebas de gravidez, imposición de requisitos sexistas en la forma de vestir, exclusión de género en ciertos cargos por edad de conformidad con la ley Federal del Trabajo.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Violencia en el ámbito docente, son los actos u omisiones discriminatorios que atenten contra la integridad física, sexual y psicológica de las alumnas por razón de su sexo, edad, condición social, limitaciones o características físicas, las cuales son infligidas por el personal docente o administrativo de los centros educativos.
+Violencia en el ámbito escolar o docente, son los actos u omisiones discriminatorios que atenten contra la integridad física, sexual y psicológica de las alumnas por razón de su sexo, edad, condición social, limitaciones o características físicas, las cuales son infligidas por el personal docente o administrativo de los centros educativos.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -345,9 +373,11 @@ IV. Instrumentar programas que brinden servicios reeducativos integrales para v�
 
 V. Diseñar planes y programas que promuevan la igualdad salarial entre mujeres y hombres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 17.
 
-Para efectos del hostigamiento sexual, el Estado y los Municipios deberán:
+Para efectos del hostigamiento y acoso sexual, el Estado y los Municipios deberán:
 
 I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
 
@@ -369,7 +399,11 @@ VI. Implementar e imponer sanciones administrativas en el ámbito de sus compete
 
 ### Capítulo Cuarto. En el Ámbito Social o en la Comunidad
 
-### Capítulo Quinto. De las Ordenes de Protección a favor de la Víctima
+### Capítulo Cuarto Bis. De la Violencia Feminicida
+
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL DE LA FRACCIÓN VI DEL ARTÍCULO 7, P.O. 10 DE NOVIEMBRE DE 2018]</small>
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 18.
 
@@ -379,11 +413,43 @@ Violencia en el ámbito social o en la comunidad, son los actos individuales o c
 
 El Estado y los Municipios deben garantizar a las mujeres la erradicación de la violencia social o en la comunidad, de conformidad con lo dispuesto en el capítulo III, Título Segundo de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-### Capítulo Primero. Del Sistema
+> <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTÍCULOS DEL 19 BIS AL 23], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### Capítulo Quinto. De las Ordenes de Protección a favor de la Víctima
+
+###### Artículo 19 Bis.
+
+Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y pueden culminar en feminicidio y otras formas de muerte violenta de mujeres.
+
+El protocolo de investigación Ministerial, Policial y Pericial del Delito de Feminicidio para el Estado de Oaxaca, deberá:
+
+I. Enfocar transversalmente la investigación pericial, ministerial y policial con perspectiva de género.
+
+II. Analizar las conexiones que existan entre la víctima y la violación a otros derechos humanos.
+
+III. Evitar los juicios de valor hacia las conductas o comportamiento anterior de la víctima.
+
+IV. Diferenciar los feminicidios de las muertes de mujeres ocurridas en otros contextos.
 
 ###### Artículo 20.
 
 La protección y atención a las mujeres víctimas o en situación de riesgo de violencia, tiene por objeto promover su desarrollo integral, su reinserción a la vida pública y privada y su participación en actividades económicas, políticas, laborales, profesionales, académicas, sociales y culturales.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 20 Bis.
+
+Las autoridades Estatales y municipales en el ámbito de sus respectivas competencias deberán prestar atención a las víctimas, consistente en:
+
+I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+
+II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, así como de atención y de servicio, tanto pública como privada
+
+III. Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita;
+
+IV. Proporcionar un refugio seguro a las víctimas, e;
+
+V. Informar a las Instituciones Policiales o Ministerio Público de los casos de violencia que ocurran en los centros educativos.
 
 ###### Artículo 21.
 
@@ -409,7 +475,7 @@ El Estado y los Municipios, impulsarán programas para difundir la cultura de de
 
 Artículo. 23. Para enfrentar y erradicar la violencia feminicida en un territorio determinado, la Declaratoria de Alerta de Violencia de Género, se solicitará y estará a lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-### Capítulo Segundo. Del Consejo
+### Capítulo Primero. Del Sistema
 
 ###### Artículo 24.
 
@@ -511,7 +577,9 @@ Las personas mayores de doce años de edad podrán solicitar a las autoridades c
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-### Capítulo Tercero. Del Programa
+### Capítulo Segundo. De la integración y atribuciones del Sistema
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 31 Bis.
 
@@ -537,7 +605,7 @@ Una vez activada la "Alerta Rosa" podrá participar la sociedad civil, medios de
 
 ## TÍTULO III. DEL SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### Capítulo Cuarto. De la Distribución de Competencias
+### Capítulo Tercero. Del Programa
 
 ###### Artículo 32.
 
@@ -555,7 +623,9 @@ II. La especialización y capacitación del personal encargado de las tareas se�
 
 III. La reeducación de los individuos que ejerzan violencia de género;
 
-IV. El suministro, intercambio y sistematización de todo tipo de informes en la materia;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IV. El suministro, intercambio y sistematización de todo tipo de informes en la materia e información relativa al Banco Nacional de Datos e Información sobre casos de Violencia Contra las Mujeres;
 
 V. Realización de acciones conjuntas para la protección de las mujeres víctimas de violencia de género, con observancia de las disposiciones legales e instrumentos en la materia; y
 
@@ -565,7 +635,9 @@ VI. Las demás análogas a las anteriores que resulten necesarias para aumentar 
 
 Son instancias de coordinación en materia de erradicación de la violencia contra las mujeres:
 
-I. El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia de Género Contra las Mujeres; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia de Género contra las Mujeres, y
 
 II. Los Consejos Municipales para la Prevención, Atención, Sanción y Erradicación de la Violencia de Género Contra las Mujeres.
 
@@ -583,27 +655,29 @@ Los recursos humanos, financieros y materiales que conformen el Sistema, serán 
 
 Toda persona física o moral, podrá efectuar aportaciones de recursos al Sistema, sin que ello implique adquirir derecho alguno en el mismo.
 
-### Capítulo Primero. De la prevención de la violencia y las Unidades de Atención Integral
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### Capítulo Cuarto. De la Distribución de Competencias
 
 ###### Artículo 38.
 
-El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia de Género contra las Mujeres, es el órgano del Sistema encargado de las funciones de planeación y coordinación de las acciones tendientes a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como para fomentar y gestionar la protección y asistencia de las víctimas en el Estado, conforme a los lineamientos aplicables en la materia.
+El Sistema, es el órgano encargado de las funciones de planeación y coordinación de las acciones tendientes a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como para fomentar y gestionar la protección y asistencia de las víctimas en el Estado, conforme a los lineamientos aplicables en la materia. Todas las medidas que lleve a cabo el Sistema deberán ser realizadas sin discriminación alguna.
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
-
-Todas las medidas que lleve a cabo el Consejo deberán ser realizadas sin discriminación alguna.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 39.
 
-El Consejo estará integrado por las o los titulares de:
+El Sistema estará integrado por las o los titulares del gabinete legal y ampliado, y la sociedad civil:
 
-I. El Ejecutivo del Estado, quien lo presidirá o el funcionario que éste designe atendiendo a la naturaleza y atribuciones del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. El Ejecutivo del Estado, quien lo presidirá o el funcionario que éste designe atendiendo a la naturaleza y atribuciones del Sistema;
 
 II. La Secretaria General de Gobierno, quien estará a cargo de la Secretaría Ejecutiva del Sistema;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-III. La Secretaría de la Mujer Oaxaqueña, quien estará a cargo de la Secretaría Técnica del Sistema Estatal;
+III. La Secretaría de las Mujeres de Oaxaca, quien estará a cargo de la Secretaría Técnica del Sistema Estatal;
 
 IV. El Honorable Tribunal Superior de Justicia del Estado;
 
@@ -653,19 +727,27 @@ XX. Los organismos o dependencias instituidos en el ámbito municipal por acuerd
 
 El desempeño de estas funciones será de manera honoraria y gratuita.
 
-A las sesiones del Consejo podrá ser invitado cualquier servidor público estatal o municipal, así como investigadores especialistas en la materia y personas de la sociedad en general, cuando por la naturaleza del asunto a tratar y a consideración de la Presidencia, sea necesario su punto de vista para la toma de decisiones. En este caso los invitados participarán con derecho a voz únicamente.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+A las sesiones del Sistema podrá ser invitado cualquier servidor público estatal o municipal, así como investigadores especialistas en la materia y personas de la sociedad en general, cuando por la naturaleza del asunto a tratar y a consideración de la Presidencia, sea necesario su punto de vista para la toma de decisiones. En este caso los invitados participarán con derecho a voz únicamente.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 40.
 
-En el reglamento de esta Ley se determinará el funcionamiento del Consejo y todo lo relacionado con su régimen interno.
+En el reglamento de esta Ley se determinará el funcionamiento del Sistema y todo lo relacionado con su régimen interno.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 41.
 
-Las y los titulares de las dependencias, entidades y órganos del Gobierno del Estado y de los Municipios que integren el Consejo, deberán designar a un suplente, con conocimiento y facultades relacionadas con los objetivos de esta Ley.
+Las y los titulares de las dependencias, entidades y órganos del Gobierno del Estado y de los Municipios que integren el Sistema, deberán designar a un suplente, con conocimiento y facultades relacionadas con los objetivos de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-Son atribuciones del Consejo:
+Son atribuciones del Sistema:
 
 I. Planear y coordinar acciones correspondientes al objeto del Sistema, atendiendo los principios rectores de la presente Ley;
 
@@ -703,7 +785,9 @@ XV. Promover la celebración de convenios de cooperación, coordinación y conce
 
 XVI. Suscribir convenios de colaboración con los Consejos Municipales del Estado, para que, conforme a sus atribuciones, participen en la realización de acciones dirigidas al cumplimiento de los objetivos de esta Ley;
 
-XVII. Aprobar el informe anual que rinda la Secretaría Ejecutiva del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Aprobar el informe anual que rinda la Secretaría Ejecutiva del Sistema;
 
 XVIII. Promover la instalación de Unidades de Atención Integral, Refugios, Centros Reeducativos y módulos de información en las principales cabeceras distritales del Estado;
 
@@ -715,17 +799,27 @@ XX. Reconocer el desempeño de las instituciones públicas y privadas que se dis
 
 XXI. Las demás que esta Ley y otros ordenamientos aplicables le señalen.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+El Sistema, para el mejor desarrollo de sus atribuciones, integrará un grupo de trabajo multidisciplinario, para la investigación y revisión integral de la violencia feminicida en contextos específicos, en el territorio del Estado, a efecto de establecer mecanismos que contribuyan a erradicarla.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-El Consejo se reunirá previa convocatoria que para el efecto emita la Presidencia, por conducto de la Secretaría Ejecutiva, en sesiones ordinarias o extraordinarias, por Comités o en Pleno, en los plazos y formas que determine el propio Consejo o se señalen en el reglamento interior. Las reuniones plenarias se celebrarán por lo menos cada tres meses.
+El Sistema se reunirá previa convocatoria que para el efecto emita la Presidencia, por conducto de la Secretaría Ejecutiva, en sesiones ordinarias o extraordinarias, por Comités o en Pleno, en los plazos y formas que determine el propio Sistema o se señalen en el reglamento interior. Las reuniones plenarias se celebrarán por lo menos cada tres meses.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
-Las sesiones del Consejo serán dirigidas por el Presidente o el funcionario que éste designe y para que tengan validez se requiere de la asistencia por lo menos, de la mitad más uno de sus integrantes. Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
+Las sesiones del Sistema serán dirigidas por el Presidente o el funcionario que éste designe y para que tengan validez se requiere de la asistencia por lo menos, de la mitad más uno de sus integrantes. Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 45.
 
-Corresponde a la Presidencia del Consejo:
+Corresponde a la Presidencia del Sistema:
 
 I. Representar legalmente al Consejo;
 
@@ -733,83 +827,119 @@ II. Presidir las sesiones;
 
 III. Conducir las políticas públicas en la materia;
 
-IV. Emitir la convocatoria para la celebración de todo tipo de sesiones del Consejo por conducto de la Secretaría Ejecutiva;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IV. Emitir la convocatoria para la celebración de todo tipo de sesiones del Sistema por conducto de la Secretaría Ejecutiva;
 
 V. Proponer la integración de las comisiones para estudiar o evaluar políticas y acciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 VI. Presentar para su aprobación, la propuesta del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres, incorporando las iniciativas que en la discusión surjan y acepten sus integrantes;
 
-VII. Celebrar toda clase de contratos, convenios y acuerdos para el adecuado cumplimiento de las atribuciones del Consejo de conformidad con los proyectos elaborados para tal efecto por las Secretarías Ejecutiva y Técnica;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VII. Celebrar toda clase de contratos, convenios y acuerdos para el adecuado cumplimiento de las atribuciones del Sistema de conformidad con los proyectos elaborados para tal efecto por las Secretarías Ejecutiva y Técnica;
 
 VIII. Publicar y difundir el informe anual aprobado sobre los avances del Programa;
 
-IX. Instruir a la Secretaría Ejecutiva para promover y vigilar el cumplimiento de contratos, convenios, acuerdos y demás resoluciones del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Instruir a la Secretaría Ejecutiva para promover y vigilar el cumplimiento de contratos, convenios, acuerdos y demás resoluciones del Sistema;
 
 X. Impulsar la formulación y actualización de acuerdos de coordinación entre las diferentes instancias de gobierno, para lograr la atención integral de las víctimas de violencia, con apego a lo establecido en sus respectivos reglamentos internos; y
 
 XI. Las demás previstas en este y otros ordenamientos que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 46.
 
-Corresponde a la Secretaría Ejecutiva del Consejo:
+Corresponde a la Secretaría Ejecutiva del Sistema:
 
-I. Elaborar y presentar al Consejo para su aprobación, el proyecto de reglamento interno;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-II. Elaborar el Programa que deberá presentar el Presidente ante el Consejo para su aprobación;
+I. Elaborar y presentar al Sistema para su aprobación, el proyecto de reglamento interno;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+II. Elaborar el Programa que deberá presentar el Presidente ante el Sistema para su aprobación;
 
 III. Ejecutar y dar seguimiento a los acuerdos y resoluciones;
 
 IV. Administrar y sistematizar los instrumentos de información del Sistema, así como requerir y recabar de las instituciones estatales y municipales, públicas y privadas, los datos relativos a casos de violencia en contra de las mujeres;
 
-V. Coordinar y dar seguimiento a las comisiones de trabajo que se conformen dentro del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-VI. Elaborar el informe anual de actividades que deberá presentar el Presidente ante el Consejo;
+V. Coordinar y dar seguimiento a las comisiones de trabajo que se conformen dentro del Sistema;
 
-VI. Estandarizar los procesos de prevención de la violencia de género contra las mujeres, de atención a sus víctimas y de reeducación de individuos que ejercen violencia de género;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VI. Elaborar el informe anual de actividades que deberá presentar el Presidente ante el Sistema;
+
+VII. Estandarizar los procesos de prevención de la violencia de género contra las mujeres, de atención a sus víctimas y de reeducación de individuos que ejercen violencia de género;
 
 VIII. Establecer, coordinar, controlar y actualizar el Sistema Estatal de Información sobre la Violencia de Género Contra las Mujeres;
 
 IX. Promover la firma de convenios con instituciones públicas y privadas para el cumplimiento de los fines de esta Ley; y
 
-X. Las demás que le confieren el Consejo, su Presidencia, la presente Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X. Las demás que le confieren el Sistema, su Presidencia, la presente Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 47.
 
 Para la debida coordinación y desarrollo de las actividades de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres en los Municipios, se constituirán Consejos que encabezarán los Presidentes Municipales.
 
-Se conformarán y actuarán en lo conducente de manera similar al Consejo Estatal, atendiendo a las características regionales y demográficas de cada lugar.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Se conformarán y actuarán en lo conducente de manera similar al Sistema Estatal, atendiendo a las características regionales y demográficas de cada lugar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 48.
 
-Corresponde a la Secretaría Técnica del Consejo:
+Corresponde a la Secretaría Técnica del Sistema:
 
-I. Elaborar los trabajos que le encomiende la Presidencia y la Secretaría Ejecutiva del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. Elaborar los trabajos que le encomiende la Presidencia y la Secretaría Ejecutiva del Sistema;
 
 II. Preparar el proyecto de orden del día a que se sujetarán las sesiones;
 
-III. Registrar los acuerdos del Consejo y sistematizarlos para su seguimiento;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-IV. Colaborar en la elaboración de programas y proyectos que deben presentarse ante el Consejo;
+III. Registrar los acuerdos del Sistema y sistematizarlos para su seguimiento;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IV. Colaborar en la elaboración de programas y proyectos que deben presentarse ante el Sistema;
 
 V. Capacitar, mediante procesos educativos formales, al personal encargado de la prevención, atención y sanción de la violencia de género contra las Mujeres;
 
-VI. Llevar el archivo y control de los documentos del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-VII. Informar periódicamente al Secretario Ejecutivo del Consejo, el cumplimiento de sus funciones y actividades realizadas; y
+VI. Llevar el archivo y control de los documentos del Sistema;
 
-VIII. Las demás que le confieran el Consejo, su Presidencia, la Secretaria Ejecutiva y los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VII. Informar periódicamente al Secretario Ejecutivo del Sistema, el cumplimiento de sus funciones y actividades realizadas; y
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Las demás que le confieran el Sistema, su Presidencia, la Secretaría Ejecutiva y los ordenamientos jurídicos aplicables.
+
+### Capítulo Primero. De la prevención de la violencia y las Unidades de Atención Integral
 
 ### Capítulo Segundo. De los Refugios para la Atención a Mujeres Víctimas de Violencia
-
-### Capítulo Tercero. De los Centros de Reeducación para Agresores
 
 ###### Artículo 49.
 
 El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres, es el documento rector para el cumplimiento del Sistema. En el Programa se definirán con perspectiva de género los objetivos, estrategias, líneas de acción, recursos y responsabilidades de las y los participantes en el Sistema, para el cumplimiento de las metas que en él se establezcan.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 50.
 
-El Programa es el instrumento que contiene las acciones que en forma planeada y coordinada deberán realizar las dependencias y entidades de la administración pública del Estado y los Municipios, en el corto, mediano y largo plazo. Tendrá el carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestaria anual, así como a las disposiciones y lineamientos que sobre el particular dicte el Consejo.
+El Programa es el instrumento que contiene las acciones que en forma planeada y coordinada deberán realizar las dependencias y entidades de la administración pública del Estado y los Municipios, en el corto, mediano y largo plazo. Tendrá el carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestaria anual, así como a las disposiciones y lineamientos que sobre el particular dicte el Sistema.
 
 ###### Artículo 51.
 
@@ -837,7 +967,9 @@ X. Garantizar la investigación y recopilación de estadísticas y demás inform
 
 XI. Proporcionar tratamiento terapéutico al personal encargado de la atención de las mujeres victimas de violencia y a sus agresores;
 
-XII. Integrar el Observatorio Ciudadano que dé seguimiento a las acciones del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XII. Integrar el Observatorio Ciudadano que dé seguimiento a las acciones del Sistema;
 
 XIII. Difundir semestralmente la información general y estadística sobre los casos de violencia contra las mujeres;
 
@@ -860,6 +992,8 @@ III. Las estrategias a seguir para el logro de sus objetivos;
 IV. Las acciones o metas operativas correspondientes, incluyendo aquellas que sean objeto de coordinación con instituciones públicas o privadas; y
 
 V. Las unidades administrativas responsables de su ejecución.
+
+### Capítulo Tercero. De los Centros de Reeducación para Agresores
 
 ###### Artículo 53.
 
@@ -1017,17 +1151,21 @@ XVIII. Mantener información actualizada en su página de internet con los datos
 
 XIX. Las demás que esta Ley y otras disposiciones aplicables le señalen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 58.
 
-Corresponde a la Secretaría de la Mujer Oaxaqueña
+Corresponde a la Secretaría de las Mujeres de Oaxaca.
 
 I. Participar en la elaboración y ejecución del Programa, y en el diseño de modelos de prevención y erradicación de la violencia contra las mujeres;
 
-II. Informar al Presidente del Consejo sobre los acuerdos del Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-III. Proponer al Consejo:
+II. Informar al Presidente del Sistema sobre los acuerdos del Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III. Proponer al Sistema:
 
 a) Los planes y programas de formación y capacitación para las servidoras y servidores públicos en materia de violencia de género;
 
@@ -1065,7 +1203,9 @@ XI. Promover la cultura de denuncia de la violencia contra las mujeres;
 
 XII. Organizar actividades públicas y sociales alusivas a la erradicación de la violencia contra las mujeres;
 
-XIII. Formular los proyectos de toda clase de contratos, convenios y acuerdos para el adecuado cumplimiento de las atribuciones del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Formular los proyectos de toda clase de contratos, convenios y acuerdos para el adecuado cumplimiento de las atribuciones del Sistema;
 
 XIV. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
@@ -1223,13 +1363,15 @@ I. Establecer políticas transversales con perspectiva de género que garanticen
 
 II. Vigilar de forma permanente que las condiciones en su fuente de trabajo no expongan a las mujeres a la Violencia Laboral;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-III. Establecer mecanismos para erradicar el hostigamiento y/o acoso sexual a las mujeres en los centros laborales, y aplicar procedimientos administrativos para sancionar al agresor;
+III. Establecer mecanismos para erradicar el hostigamiento y acoso sexual a las mujeres en los centros laborales, y aplicar procedimientos administrativos para sancionar al agresor;
 
 IV. Vigilar la aplicación de políticas de gobierno para la promoción y protección de los derechos laborales de mujeres menores de edad en términos de la legislación laboral aplicable y la Presente Ley;
 
-V. Difundir los derechos laborales de las mujeres, así como las medidas para su protección;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. Difundir los derechos laborales de las mujeres, así como las medidas para su protección, promoviendo protocolos para la atención de trabajadoras con embarazos de alto riesgo;
 
 VI. Implementar programas y acciones afirmativas para prevenir la violencia contra las mujeres, dirigidas especialmente a aquellas que por su edad, condición social, étnica, económica, educativa y cualquier otra, hayan tenido menos acceso a oportunidades de empleo;
 
@@ -1255,7 +1397,9 @@ I. Impulsar procesos educativos de capacitación sobre la violencia de género c
 
 II. Coordinar la capacitación sobre la violencia contra las mujeres, para los defensores y personal profesional auxiliar que presten sus servicios en la defensoría de oficio, a efecto de mejorar la atención al público que requiera la intervención de dicha defensoría;
 
-III. Formular, coordinadamente con los pueblos y comunidades indígenas e incorporando la perspectiva de género, los programas para la defensa y protección de las mujeres indígenas;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III. Formular, coordinadamente con los pueblos y comunidades indígenas, incorporando la perspectiva de género, los programas para la defensa y protección de las mujeres indígenas, así como promover la eliminación de las prácticas, usos y costumbres que atenten contra la dignidad de las mujeres indígenas;
 
 IV. Apoyar, desarrollar y difundir proyectos de investigación en temas relacionados con la violencia contra las mujeres en los pueblos y comunidades indígenas en su lengua de origen;
 
@@ -1297,7 +1441,9 @@ VIII. Asegurar mediante acciones, que se integren programas relativos a la equid
 
 IX. Garantizar mediante acciones, que la educación que se imparte en el Estado tenga entre sus fines promover conductas que eviten la violencia familiar;
 
-X. Capacitar al personal docente y administrativo de los albergues escolares y centros educativos, sobre la igualdad de oportunidades y la prevención de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X. Capacitar al personal docente y administrativo de los albergues escolares y centros educativos, sobre la igualdad de oportunidades y la prevención de la violencia contra las mujeres, en especial sobre el hostigamiento y acoso sexual;
 
 XI. Desarrollar modelos de intervención para detectar la violencia contra las mujeres en albergues escolares y centros educativos;
 
@@ -1307,7 +1453,9 @@ XIII. Desarrollar talleres dirigidos a padres, madres, familiares y tutores, con
 
 XIV. Asegurar el derecho de las niñas y mujeres a la educación, alfabetización y acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
 
-XV. Incorporar en los programas educativos, en todos los niveles de la instrucción, los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XV. Incorporar en los programas educativos, en todos los niveles de la instrucción, los principios de igualdad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales, culturales y sistemas normativos internos que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
 
 XVI. Establecer como requisito de contratación a todo el personal de no contar con antecedentes penales de violencia contra las mujeres;
 
@@ -1323,7 +1471,7 @@ XX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XXI. Coadyuvar y participar en la operación y ejecución del programa "Alerta Rosa” en todo el estado;
+XXI. Coadyuvar y participar en la operación y ejecución del programa "Alerta Rosa" en todo el estado;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1401,9 +1549,13 @@ d) Campañas de prevención de la violencia contra las mujeres;
 
 e) La igualdad sustantiva entre la mujer y el hombre, y;
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-f) El Programa "Alerta Rosa" en todo el Estado.
+f) Eliminar el uso del lenguaje sexista en todos sus contenidos, así como promover la erradicación de prácticas, usos y costumbres que atenten contra la dignidad de las mujeres.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+g) El Programa “Alerta Rosa” en todo el Estado.
 
 En los pueblos y comunidades indígenas la difusión se realizará en su lengua de origen.
 
@@ -1425,7 +1577,9 @@ I. Implementar procesos de formación y capacitación, dirigidos a su personal, 
 
 II. Implementar procesos de información sobre la relación del VIH/SIDA y la violencia de género contra las mujeres, así como sobre sus alternativas de tratamiento;
 
-III. Brindar tratamiento a las mujeres víctimas de violación sexual en las Unidades de Atención Integral y los Refugios;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III. Brindar tratamiento a las mujeres víctimas de violación sexual en las Unidades de Atención Integral y los Refugios, aplicando la Norma Oficial Mexicana NOM-046-SSA2-2005 Violencia Familiar, Sexual y Contra Las Mujeres, Criterios Para La Prevención y Atención;
 
 IV. Capacitar en la materia, al personal de las Unidades de Atención Integral y los Refugios, responsable de brindar atención a las Víctimas;
 
@@ -1457,15 +1611,23 @@ VI. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 Corresponde a los Municipios de la Entidad:
 
-I. Diseñar, formular y aplicar en concordancia con el Programa y el Consejo, la política municipal orientada a prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. Diseñar, formular y aplicar en concordancia con el Programa y el Sistema, la política municipal orientada a prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
 II. Participar, en coordinación con las autoridades estatales, en la conformación y consolidación del Sistema;
 
-III. Capacitar con perspectiva de género, al personal del Ayuntamiento y en especial a las personas que atienden a las Víctimas, en coordinación con el Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-IV. Promover la creación de refugios para la atención de víctimas y centros de atención para agresores;
+III. Capacitar con perspectiva de género, al personal del Ayuntamiento y en especial a las personas que atienden a las Víctimas, en coordinación con el Sistema;
 
-V. Establecer, promover y apoyar programas de sensibilización y capacitación para las víctimas y de reinserción para los agresores, que promuevan la equidad, eliminen la discriminación y contribuyan a erradicar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IV. Promover la creación de áreas especializadas y puntos de atención inmediata para la atención de mujeres Víctimas de violencia y centros de atención para agresores;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. Establecer, promover y apoyar programas de sensibilización y capacitación para las víctimas, que promuevan la equidad, eliminen la discriminación y contribuyan a erradicar la violencia contra las mujeres;
 
 VI. Promover la participación de organismos públicos, privados y de la sociedad civil en programas y acciones de atención a las víctimas;
 
@@ -1479,7 +1641,7 @@ IX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-X. Coadyuvar y participar en la operación y ejecución del programa “Alerta Rosa” en sus respectivos territorios;
+X. Coadyuvar y participar en la operación y ejecución del programa "Alerta Rosa" en sus respectivos territorios;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1507,9 +1669,13 @@ I. Asesoría y asistencia jurídica;
 
 II. Gestión de protección para la víctima, testigos y denunciantes;
 
-III. Seguimiento de indagatorias y procesos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-IV. Servicio médico y psicoterapéutico;
+III. Seguimiento de denuncias y procesos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IV. Servicio médico y psicológico en coordinación con las instancias de salud, de conformidad con la Norma Oficial Mexicana NOM-046-SSA2-2005 Violencia Familiar, Sexual y Contra Las Mujeres, Criterios Para La Prevención y Atención;
 
 V. Intervención especializada de trabajadoras sociales;
 
@@ -1543,9 +1709,11 @@ La atención que reciban la víctima y el agresor no será proporcionada por la 
 
 En los casos de violencia contra las mujeres y las causas que tengan relación o que se originen de ella, se evitará que sean sometidos a procedimientos de mediación y conciliación.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 79.
 
-Las instancias integrantes del Consejo, deberán tomar medidas para la prevención de la violencia y la atención y protección a sus víctimas, de conformidad con lo establecido en esta Ley, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y los Instrumentos Internacionales que en la materia haya adoptado el Estado Mexicano.
+Las instancias integrantes del Sistema, deberán tomar medidas para la prevención de la violencia y la atención y protección a sus víctimas, de conformidad con lo establecido en esta Ley, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y los Instrumentos Internacionales que en la materia haya adoptado el Estado Mexicano.
 
 ###### Artículo 80.
 
@@ -1575,15 +1743,21 @@ VI. Los modelos de atención a las víctimas y de reeducación a los agresores.
 
 Para la adecuada atención y protección a las víctimas de violencia las autoridades adoptarán, entre otras, las siguientes medidas:
 
-I. Promover la atención inmediata y eficaz a las víctimas de violencia por parte de diversas instituciones del sector salud, de atención y de servicio, tanto públicas como privadas;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. Promover la atención inmediata y eficaz a las víctimas de violencia por parte de diversas instituciones del sector salud, de atención y de servicio, tanto públicas como privadas, mediante la aplicación de la Norma Oficial Mexicana NOM-046-SSA2-2005 Violencia Familiar, Sexual y Contra Las Mujeres, Criterios Para La Prevención y Atención;
 
 II. Proporcionar atención médica, psicológica y jurídica, de manera integral y gratuita a las víctimas;
 
 III. Proporcionar temporalmente, un lugar seguro a las víctimas y a sus hijas e hijos, en el caso de violencia en el ámbito familiar, a efecto de garantizar su seguridad personal y sustraerlos de la situación de riesgo;
 
-IV. Promover servicios de atención para la reeducación de los agresores;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-V. Evitar que la atención que reciban las víctimas y el agresor sea proporcionada por la misma persona;
+IV. Promover servicios especializados de atención a mujeres en situación de violencia;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. Evitar que la atención que reciban las víctimas sea proporcionada por personal no especializado;
 
 VI. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
 
@@ -1645,7 +1819,9 @@ VIII. Brindar a las víctimas la información necesaria que les permita decidir 
 
 IX. Todas aquellas inherentes al cuidado, protección y atención de las víctimas que se encuentren en los Refugios; y
 
-X. Las demás que otorgue el Consejo, esta Ley, su reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X. Las demás que otorgue el Sistema, esta Ley, su reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 88.
 
@@ -1774,3 +1950,13 @@ P.O. 11 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1372.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1676.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO.”]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
