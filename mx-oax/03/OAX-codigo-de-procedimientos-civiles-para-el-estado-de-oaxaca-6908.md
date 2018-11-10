@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-06-16"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -33,7 +33,7 @@ Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
 La XXXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, decreta:
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
 ## TITULO PRIMERO. De las acciones y excepciones
 
@@ -437,6 +437,10 @@ Las partes tendrán el derecho de solicitar a su costa, copias certificadas de a
 
 La expedición de copias simples de actuaciones judiciales a las partes, será a costa de la parte interesada, lo que podrá solicitarse y acordarse verbalmente, asentándose razón de su entrega.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Inmediatamente después de desahogadas las actuaciones judiciales, las partes tendrán derecho a solicitar a la autoridad copias simples, las que deberán entregarse en ese acto, sin mayor dilación o trámite, más que la que establece el párrafo anterior.
+
 ###### Artículo 66.
 
 Para sacar cualquier documento de autos, después de contestada la demanda, se observarán las reglas siguientes:
@@ -457,9 +461,19 @@ Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedent
 
 Los incidentes ajenos al negocio principal deberán ser repelidos de oficio por los jueces.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 69.
 
-Sólo se entregarán los autos a las partes para formar o glosar cuentas. Los autos y copias en su caso se entregarán por el secretario directamente a las partes, por medio de conocimiento que deberán firmar éstas. Las frases " dar vista" o "correr traslado", sólo significan que los autos quedan en la secretaría para que se impongan de ellos los interesados, o para que se les entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
+Sólo se entregarán los autos a las partes para formar o glosar cuentas. Los autos y copias en su caso se entregarán por el secretario directamente a las partes, por medio de conocimiento que deberán firmar éstas. Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la secretaría para que se impongan de ellos los interesados, o para que se les entreguen las copias, para tomar apuntes, alegar o glosar cuentas, lo que implica que las partes puedan notificarse del contenido de los acuerdos y resoluciones de trámite. Las disposiciones de este artículo comprenden al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 69 Bis.
+
+Las partes y sus respectivos autorizados, previa identificación de los mismos, podrán hacer uso de instrumentos electrónicos portátiles de captura, almacenaje y reproducción de datos, Imágenes y voz. Tales como lectores laser, cámaras fotográficas, grabadoras de sonido o cualquier otro similar o análogo para que se impongan de autos.
+
+El uso de los instrumentos electrónicos portátiles deberá realizarse bajo la vigilancia del personal encargado del manejo y resguardo de los expedientes.
 
 ###### Artículo 70.
 
@@ -4575,6 +4589,14 @@ Cuando ambos consortes convengan en divorciarse en los términos del artículo 2
 
 Recibida la solicitud, el Tribunal dentro de los cinco días siguientes citara a los cónyuges y al Ministerio Público a una junta, y si asistieren los interesados los exhortará para procurar su reconciliación.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 657 Bis.
+
+Una vez presentada la solicitud de divorcio, cualquiera de las partes podrá solicitar al juez que conozca del asunto, ser canalizado a una institución pública que proporcione atención psicológica especializada para todos los miembros de la familia, con el propósito de disminuir los conflictos conyugales y procurar en todo momento el bienestar psicológico de los menores.
+
+De igual forma el juez que conozca de la solicitud de divorcio, cuenta con la facultad de recomendar la atención psicológica especializada a que se hace referencia en el párrafo anterior a las partes solicitantes.
+
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
 ###### Artículo 658.
@@ -7168,3 +7190,9 @@ P.O. 16 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1422.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; ASIMISMO SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1588.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
