@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-extincion-de-dominio-para-el-estado-de-oaxaca-94438"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2015-05-07"
+last_updated: "2018-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -87,8 +87,6 @@ El no ejercicio, desistimiento o extinción de la acción penal, asi como, la ab
 
 A falta de regulación suficiente en la presente Ley o en su Reglamento, se estará a las siguientes reglas de supletoriedad:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 I. En la preparación del ejercicio de la acción, a lo previsto en el Código Nacional de Procedimientos Penales;
@@ -127,8 +125,6 @@ Para la preparación de la acción, el Ministerio Público podrá emplear la inf
 
 I. En las investigaciones para la prevención de los delitos que realicen las autoridades competentes del Estado de Oaxaca;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 II. En las investigaciones que se inicien en el Estado de Oaxaca en términos del Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca, del Código Procesal Penal para el Estado de Oaxaca y Código Nacional de Procedimientos Penales según corresponda;
@@ -137,19 +133,27 @@ III. En el Sistema Único de Información Criminal previsto en la Ley General de
 
 IV. En las bases de datos de información con las que cuente la Procuraduría General, en términos del Reglamento de la Ley Orgánica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 V. En el Sistema Estatal de Información de Seguridad Pública previsto en la Ley del Sistema Estatal de Seguridad Pública de Oaxaca;
 
-VI. Por las autoridades federales o locales en el ejercicio de sus atribuciones, facultades o funciones o bien, la información que posean relacionada con el objeto de la presente Ley; o
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-VII. De cualquier otra fuente que esté relacionada con el objeto de la presente Ley.
+VI. Por las autoridades federales o locales en el ejercicio de sus atribuciones, facultades o funciones o bien, la información que posean relacionada con el objeto de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VII. La que en materia de prevención de conductas relativas al lavado de activos recabe, procese y disemine la Secretaría de Finanzas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII. De cualquier otra fuente que esté relacionada con el objeto de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 10.
 
-La acción se ejercerá respecto de los bienes relacionados o vinculados con los delitos de secuestro, robo de vehículos, trata de personas, asociación delictuosa, delitos en materia de operaciones con recursos de procedencia ilícita y delitos contra la salud en su modalidad de narcomenudeo que refiere la fracción II del artículo 6 de la Constitución Política del Estado Libre y Soberano de Oaxaca y las demás disposiciones aplicables, en cualquiera de los supuestos siguientes:
+La acción se ejercerá respecto de los bienes relacionados o vinculados con los delitos de secuestro, robo de vehículos, trata de personas, asociación delictuosa, delitos en materia de operaciones con recursos de procedencia ilícita, enriquecimiento ilícito, peculado, cohecho y delitos contra la salud en su modalidad de narcomenudeo a que se refiere la fracción II del artículo 6 de la Constitución Política del Estado Libre y Soberano de Oaxaca y las demás disposiciones aplicables en cualquiera de los supuestos siguientes:
 
 I. Aquéllos que sean instrumento, objeto o producto del delito, aun cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió;
 
@@ -161,13 +165,9 @@ III. Aquellos que estén siendo utilizados por un tercero para la comisión de d
 
 IV. Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y el acusado por estos delitos se comporte como dueño.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 También procederá la acción respecto de los bienes objeto de sucesión conforme a las disposiciones aplicables, cuando los mismos encuadren en los supuestos del presente artículo, debiendo de ajustarse a las disposiciones establecidas en el Titulo Décimo Cuarto del Código de Procedimientos Civiles para el Estado de Oaxaca, en el procedimiento sucesorio correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -230,8 +230,6 @@ III. Designar un depositario judicial, que tendrá en custodia los bienes, hasta
 IV. Las demás medidas cautelares previstas en las disposiciones supletorias en términos del artículo 4 de la presente Ley.
 
 La Autoridad Judicial podrá, a solicitud del Ministerio Público, tomar las medidas pertinentes, conforme a las disposiciones aplicables, para realizar el aseguramiento de los bienes materia de la acción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -301,13 +299,9 @@ IV. La petición de declaración de Extinción de Dominio sobre los bienes y las
 
 V. Los hechos en que el actor funde su petición, narrándolos sucintamente con claridad y precisión, de tal manera que el demandado pueda preparar su contestación y defensa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 VI. Los fundamentos de derecho y la clase de acción, debiendo citar los preceptos legales o principios jurídicos aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -320,8 +314,6 @@ En la demanda se deberán adjuntar las documentales ofrecidas como pruebas o en 
 La Autoridad Judicial contará con un plazo de tres días hábiles para resolver sobre la admisión de la demanda y de las pruebas ofrecidas, debiendo proveer lo necesario para la preparación y desahogo de las mismas.
 
 Si la demanda fuere oscura o irregular, la Autoridad Judicial deberá prevenir por una sola vez al Ministerio Público, para que la aclare, corrija o complete, otorgándole para tal efecto un plazo de tres días hábiles, contados a partir de que surta efectos la notificación del auto que lo ordene. Apercibiéndose que en caso de incumplimiento se tendrá la demanda por no interpuesta. Aclarada la demanda, la Autoridad Judicial la admitirá o la desechará de plano.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -339,37 +331,25 @@ Admitida la demanda, la Autoridad Judicial ordenará la notificación y el empla
 
 I. Personalmente al o los demandados y a los terceros afectados que se tengan identificados y se conozca su domicilio respecto de la admisión de la demanda, de conformidad con las reglas siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 a) La notificación se practicará en el domicilio del demandado y del tercero afectado si lo hubiere, debiendo el ejecutor cerciorarse de que los mismos habitan o trabajan en el domicilio señalado en autos para hacer la notificación. Tratándose de sucesiones el ejecutor se cerciorará de que el representante legal habita o trabaja en el domicilio señalado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 b) En caso de que el o los demandados se encuentren privados de su libertad, la notificación personal se hará en el lugar donde se encuentre o encuentren detenidos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 c) Si se encuentra presente el o los demandados, el ejecutor notificará, previa identificación que haga con cualquier documento oficial, asentándose razón detallada del mismo, debiendo entregar copia de la resolución que se notifique, de la demanda y de los documentos base de la acción;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 d) Si no está presente el o los demandados, se dejará citatorio para que lo espere en hora fija dentro de las veinticuatro horas siguientes y agregará copia del mismo, debiéndose recabar nombre o media filiación y en su caso firma de la persona con quien se entienda la diligencia, asentando los datos del documento oficial con el que se identifique;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 e) Si no obstante el citatorio, el o los demandados, no esperan al ejecutor, la notificación se hará por medio de cédula a cualquier persona que habite o trabaje en el domicilio señalado, debiendo asentarse esta circunstancia y el nombre de dicha persona;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -378,8 +358,6 @@ f) Si no se encontrare persona alguna en el domicilio señalado, la notificació
 g) La cédula de notificación a que se refiere este precepto deberá contener:
 
 1. Lugar, día y hora en que se practique la notificación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -392,8 +370,6 @@ g) La cédula de notificación a que se refiere este precepto deberá contener:
 5. Fecha de la resolución; y
 
 6. El juzgado que la dictó.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -431,8 +407,6 @@ Desde el escrito de contestación de demanda o del primer acto por el que se ape
 
 El escrito de contestación de demanda deberá formularse en los mismos términos prevenidos para la demanda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 En el escrito de contestación a la demanda, se deberán ofrecer las pruebas, debiendo exhibir las que estén a su disposición o señalar el archivo donde se encuentren, así como también acompañar todos los elementos necesarios para su desahogo. En todo caso, las pruebas deberán ser desahogadas en la audiencia de pruebas y alegatos.
@@ -443,8 +417,6 @@ El demandado o los terceros afectados que lo requieran deberán ser asesorados y
 
 En el procedimiento no habrá lugar al trámite de excepciones de previo y especial pronunciamiento, salvo el Incidente Preferente de Buena Fe que suspende el procedimiento y que será promovido por el tercero afectado legitimado en términos del artículo 30 de la presente Ley, que tendrá por finalidad que los bienes motivo de la acción se excluyan del procedimiento, siempre que se acredite la propiedad o posesión de los bienes y su legítima procedencia. No será procedente este incidente si se demuestra que el promovente conocía de los hechos ilícitos que dieron origen al procedimiento y, a pesar de ello, no lo denunció a la autoridad. No habrá tampoco lugar a interponer reconvención.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 Este incidente se substanciará por cuerda separada, en la que se dará vista con la demanda incidental a las partes en el procedimiento principal, por cinco días hábiles si se promueve prueba deberá ofrecerse en los escritos respectivos con todos los elementos necesarios para su desahogo, fijándose los puntos sobre los que deba versar. El plazo probatorio no excederá de diez días hábiles y concluido se citará para la audiencia de alegatos, con efectos de citación para sentencia; dicha audiencia se verificará a más tardar dentro de los cinco días hábiles siguientes y en ella se dictará la resolución que corresponda.
@@ -452,8 +424,6 @@ Este incidente se substanciará por cuerda separada, en la que se dará vista co
 Contra el auto que admita, deseche o tenga por no interpuesto el incidente a que se refiere el párrafo anterior procederá el recurso de apelación a que refiere el Capítulo VI del presente Título, el cual sólo se admitirá en el efecto devolutivo.
 
 Contra la sentencia interlocutoria que lo resuelva procederá el recurso de apelación a que refiere el Capítulo VI del presente Título, mismo que se admitirá en el efecto devolutivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -477,21 +447,15 @@ Durante el procedimiento, la Autoridad Judicial deberá dictar de oficio los tr�
 
 La Autoridad Judicial desechará de plano los recursos, incidentes o promociones notoriamente insustanciales o improcedentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 La Autoridad Judicial para hacer cumplir sus determinaciones, puede emplear cualquiera de los siguientes medios de apremio que juzgue eficaz:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 I. La multa hasta el importe de veinticinco salarios mínimos, que se duplicará en caso de reincidencia;
 
 II. El auxilio de la fuerza pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III. (DEROGADA, P.O. 7 DE MAYO DE 2015)
 
@@ -567,21 +531,15 @@ La Autoridad Judicial podrá ordenar que documentos relacionados con investigaci
 
 El ofrecimiento, admisión y desahogo de las pruebas ofrecidas por las partes, así como su valor probatorio, deberá ajustarse a los lineamientos que para el caso establece el Código de Procedimientos Civiles para el Estado Libre y Soberano de Oaxaca, salvo lo dispuesto en el artículo 42 de la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 44.
 
 La audiencia de pruebas y alegatos será pública, comenzará con el desahogo de las pruebas del actor y continuará con las del demandado, observando los principios de inmediación, concentración y continuidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 El plazo para la celebración de la audiencia, así como la audiencia misma, podrán suspenderse únicamente con la presentación del incidente preferente de buena fe en términos del artículo 34 de la presente Ley, los cuales en su caso continuarán, una vez que se resuelva dicho incidente por parte de la Autoridad Judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -589,13 +547,9 @@ El plazo para la celebración de la audiencia, así como la audiencia misma, pod
 
 Desahogadas las pruebas, las partes presentarán sus alegatos, hecho lo anterior, se declarará concluida la audiencia y se citará a las partes para oír sentencia, la que se dictará dentro de los siguientes cinco días hábiles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ### CAPÍTULO V. DE LA SENTENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -625,15 +579,11 @@ IV. En los casos a que se refiere el artículo 10, fracción III de la presente 
 
 V. En los casos a que se refiere el artículo 10, fracción IV de la presente Ley, se haya probado la procedencia ilícita de dichos bienes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 49.
 
 En caso de que la Autoridad Judicial absuelva de la acción, de todos o de alguno de los bienes, ordenará al Ministerio Público la devolución de los bienes no extintos o cuando no sea posible, le ordenará la entrega de su valor a su legitimo propietario o poseedor, junto con los intereses, rendimientos y accesorios en cantidad liquida que efectivamente se hayan producido durante el tiempo en que hayan sido administrados por la misma, así como el pago de daños y perjuicios por el detrimento sufrido por descuido o mala fe en un plazo no mayor de seis meses.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -651,21 +601,15 @@ Si luego de concluido el procedimiento mediante sentencia firme se supiera de la
 
 Una vez que cause ejecutoria la sentencia que declare la Extinción de Dominio de los bienes, la Autoridad Judicial ordenará su ejecución y la aplicación de los bienes a favor del Estado, en los términos de lo dispuesto por el Título Tercero, Capítulo II de la presente Ley y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 Los Bienes sobre los que sea declarada la Extinción de Dominio o el producto de la enajenación de los mismos, serán adjudicados al Fideicomiso y puestos a disposición para su destino final a través de la Procuraduría General, en términos del Reglamento y las demás disposiciones aplicables, mandándose a publicar en el Periódico Oficial y registrándose en el padrón de inmuebles del catálogo del gobierno del estado con la leyenda de inmueble adquirido por extinción de dominio.
 
 La Procuraduría General no podrá disponer de los bienes, aún y cuando haya sido declarada la Extinción de Dominio, si en alguna causa penal se ha ordenado la conservación de éstos por sus efectos probatorios, siempre que dicho auto o resolución haya sido notificado previamente a dicha institución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
 
 La sentencia que declare la extinción de dominio, también resolverá, entre otras determinaciones, lo relativo a los derechos preferentes respecto a alimentos y laborales de terceros.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -693,15 +637,11 @@ Los recursos de revocación y apelación se sustanciarán en los términos previ
 
 ### CAPÍTULO I. DE LAS GARANTÍAS Y DERECHOS EN EL PROCEDIMIENTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 57.
 
 En el procedimiento se respetarán las garantías de audiencia y debido proceso, permitiendo al demandado y terceros afectados, comparecer al mismo en defensa de sus intereses, ofrecer pruebas e intervenir en su preparación y desahogo, expresar sus alegatos, y oportunidad para oponerse a las determinaciones decretadas en el procedimiento, así como intervenir en los demás actos que lo conforman.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -711,8 +651,6 @@ Durante el procedimiento la Autoridad Judicial garantizará y protegerá el dere
 
 I. La procedencia lícita de dichos bienes, su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 II. Que los bienes materia del procedimiento no se encuentran dentro de las hipótesis previstas en el artículo 10 de la presente Ley; y
@@ -720,8 +658,6 @@ II. Que los bienes materia del procedimiento no se encuentran dentro de las hip�
 III. Que respecto de los bienes sobre los que se ejercitó la acción se ha emitido una sentencia firme favorable dentro de otro procedimiento.
 
 También garantizará que los terceros afectados, comparezcan al procedimiento y ofrezcan pruebas conducentes que les permitan demostrar el reconocimiento de sus derechos sobre los bienes materia de la acción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -755,8 +691,6 @@ II. La solicitud debe tratarse respecto de hechos ilícitos a que refiere el art
 
 III. La víctima u ofendido debe contar con sentencia ejecutoriada en la que se indique que sufrió el daño por los hechos ilícitos mencionados en la fracción anterior, así como el monto a pagar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
-
 IV. La víctima u ofendido no debe haber recibido el pago de la reparación del daño por cualquier otra vía conforme a las disposiciones aplicables; y
 
 V. Existan recursos disponibles en el Fideicomiso Público.
@@ -768,8 +702,6 @@ Las solicitudes serán presentadas ante el Ministerio Público.
 ###### Artículo 64.
 
 Cuando el Ministerio Público en la preparación de la acción o durante la sustanciación del procedimiento, requiera información o documentos que obren en las instituciones a que hace referencia el artículo siguiente, solicitará a la Autoridad Judicial, por cualquier medio, que haga la solicitud correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -840,3 +772,15 @@ PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y
 SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1627.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas normas de igual o menor rango que se opongan al presente Decreto, aunque no estén expresamente derogadas.
+
+TERCERO. La Unidad Administrativa encargada de la realización de las atribuciones concedidas a la Secretaría de Finanzas por virtud del presente Decreto deberá iniciar su operación en un plazo no mayor de 90 días hábiles contados a partir de la publicación del mismo, para lo cual deberán asignarse los recursos humanos, materiales, financieros y presupuestales necesarios, para su adecuada operación.
+
+Todos los servidores públicos que presten sus servicios en la referida Unidad deberán someterse a la certificación de control de confianza a la que se refiere la Ley General del Sistema Nacional de Seguridad Pública, para cuyo efecto, la Secretaría de Finanzas podrá celebrar los convenios correspondientes con las entidades facultadas para la realización de dicha certificación.
