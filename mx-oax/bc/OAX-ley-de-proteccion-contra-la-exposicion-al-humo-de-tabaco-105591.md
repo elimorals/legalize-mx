@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-105591
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-23"
-last_updated: "2015-01-23"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE PROTECCION CONTRA LA EXPOSICION AL HUMO DE TABACO DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE DECRETO ENTRA EN VIGOR A LOS 90 DÍAS NATURALES SIGUIENTES DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 23 de enero de 2015.
 
@@ -153,7 +153,9 @@ III. Las bibliotecas públicas, museos y hemerotecas;
 
 IV. Todas las áreas físicas, cerradas o no, de los centros o instituciones de educación inicial, preescolar, básica, media, media superior, superior y especial, públicas y privadas;
 
-V. Todas las instalaciones destinadas a la práctica de algún deporte, actividad recreativa, de esparcimiento, aún en el caso de espacios al aire libre;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. Los recintos de parques infantiles y áreas o zonas de juego para la infancia, entendiendo por tales los espacios que contengan equipamiento o acondicionamientos destinados específicamente para el juego y esparcimiento de menores, y de manera general, todas las instalaciones destinadas a la práctica de algún deporte, actividad recreativa, de esparcimiento, aún en el caso de espacios al aire libre;
 
 VI. Los sitios de concurrencia colectiva: cines, teatros, parques, alamedas, jardines, plaza (sic) cívicas y auditorios, a las que tenga acceso el público en general, en las que se presenten espectáculos artísticos, culturales, cívicos o se desarrollen eventos deportivos;
 
@@ -614,3 +616,11 @@ LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 AL C. . .
 
 NOTA: Las presentes firmas corresponden al Decreto N° 657.- por el que la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, crea La Ley de Protección contra la Exposición al Humo de Tabaco del Estado de Oaxaca.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1639.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
