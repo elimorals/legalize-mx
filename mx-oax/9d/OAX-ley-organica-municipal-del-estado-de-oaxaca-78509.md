@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2018-06-15"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -659,15 +659,25 @@ LXXIX.- Cumplir con las obligaciones que le imponen la Ley General del Sistema N
 
 LXXX.- Otorgar espacios públicos idóneos a los ciudadanos a fin de que hagan uso efectivo de su creatividad y habilidades, para la construcción de comunidades participativas e incluyentes;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-LXXXI.- Promover, formular y ejecutar Programas Municipales para la prevención y gestión integral de los residuos sólidos urbanos, que incluyan la cultura de reducción de la generación, clasificación, separación, recuperación, reciclaje y disposición final adecuada de los residuos sólidos urbanos de acuerdo a las normas aplicables en la materia.
+LXXXI.- Celebrar los correspondientes contratos de prestación de servicios profesionales, tratándose de contratación de asesores externos en materia jurídica, técnica de obra y contable, preferentemente con aquellos que se encuentren debidamente registrados en el padrón que para tal efecto deberá crear y administrar el Órgano Superior de Fiscalización del Estado de Oaxaca, de conformidad con las reglas establecidas en los lineamientos que para tal efecto emita y en el cual invariablemente contará con una cláusula de penalización por incumplimiento;
 
-Así como, participar en coordinación con el Gobierno Estatal y Federal en el manejo de los residuos de manejo especial y/o peligrosos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
+LXXXII.- Remitir al Órgano Superior de Fiscalización del Estado de Oaxaca, en copia certificada dentro de los 15 días hábiles siguientes a su suscripción, los contratos a que hace referencia la fracción anterior;
 
-LXXXII.- Las demás que les señalen las leyes y reglamentos municipales.
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+LXXXIII.- Hacer del conocimiento por escrito al Órgano Superior de Fiscalización del Estado de Oaxaca, los casos de incumplimiento a los contratos a que hace referencia la fracción LXXVII de éste ordenamiento legal o de las irregularidades que se llegaran a presentar con motivo del trabajo realizado por el asesor contratado;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+LXXXIV.- Hacer pública la información del padrón a que hace referencia la fracción anterior, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+LXXXV.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -941,15 +951,19 @@ IV.- El incumplimiento de una resolución judicial en materia electoral.
 
 V.- El incumplimiento de una resolución en materia de Transparencia y Acceso a la Información Pública, dictada por el órgano garante de transparencia del Estado, así como el órgano garante a nivel nacional.
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VI.- La violencia política ejercida por razón de género, decretada por un órgano jurisdiccional.
+
 ###### ARTÍCULO 61.
 
 Son causas graves para la revocación del mandato de algún miembro del Ayuntamiento:
 
 I.- La incapacidad física o legal permanente;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-II.- El haberse dictado en su contra sentencia condenatoria, como plenamente responsable en la comisión de un delito intencional o por faltas graves previstas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
+II.- El haberse dictado en su contra sentencia condenatoria, como plenamente responsable en la comisión de un delito intencional, o que se encuentre privado de su libertad;
 
 III.- La inasistencia a tres sesiones del Ayuntamiento en forma consecutiva y sin causa justificada;
 
@@ -966,6 +980,10 @@ VI.- El causar conflictos reiterados en contra de la mayoría o totalidad de los
 VII.- Cuando así lo disponga la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca.
 
 VIII.- La inejecución de sentencia en materia electoral.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX.- La violencia política ejercida por razón de género, decretada por un órgano jurisdiccional.
 
 ###### ARTÍCULO 62.
 
@@ -1137,9 +1155,17 @@ X.- Vigilar la recaudación de ingresos en todos los ramos de la administración
 
 XI.- Proponer al Ayuntamiento las comisiones en las que deben actuar sus integrantes;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XII.- Proponer a consideración del Ayuntamiento para su aprobación los nombramientos del Secretario, Tesorero, Responsable de la Obra Pública y Contralor Interno Municipal. Los demás servidores públicos serán nombrados directamente por el Presidente Municipal;
+XII.- Ejecutar, administrar, vigilar y evaluar la formulación e instrumentos de los planes de desarrollo urbano, la zonificación, la creación de reservas territoriales, el otorgamiento de licencias y permisos para uso de suelo y construcción, así como los mecanismos que se requieran para la adecuada conducción del desarrollo urbano.
+
+Las licencias de construcción deberán señalar los requisitos y lineamientos a que deberán sujetarse las construcciones y remodelaciones que se lleven a cabo, así como las reglas a que deban sujetarse las fachadas dentro de los perímetros de los (sic) zonas urbanas de cada Municipio.
+
+Las nuevas construcciones de edificios que presten servicios al público, deberán realizarse libres de elementos que puedan constituirse como barreras físicas que impidan la accesibilidad, observando las disposiciones marcadas en los ordenamientos aplicables.
+
+Para la renovación de las licencias para construcciones que presten servicios al público se deberá tomar en cuenta lo establecido en el párrafo anterior y en el lapso en que las instalaciones no sean las adecuadas, se buscara la comodidad y accesibilidad de las personas con discapacidad dentro de los medios existentes.
+
+Las obras que se ejecuten sin autorización; que pongan en peligro a los habitantes; o que se realicen en terrenos ubicados en zonas peligrosas o vías públicas se podrán decretar la demolición de los mismos.
 
 XIII.- Ejecutar, administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano, la zonificación, la creación de reservas territoriales, el otorgamiento de licencias y permisos para uso de suelo y construcción, así como los mecanismos que se requieran para la adecuada conducción del desarrollo urbano;
 
@@ -1227,9 +1253,21 @@ V.- Cobrar personalmente o por interpósita persona multas y consentir o autoriz
 
 VI.- Utilizar bienes propiedad del Ayuntamiento, así como disponer de los empleados y Policía Preventiva Municipal para asuntos particulares;
 
-VII.- Residir durante su gestión fuera del territorio municipal; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-VIII.- En los casos de infracciones a los reglamentos y disposiciones legales, imponer arrestos que excedan las treinta y seis horas o multa que exceda de lo señalado en la Ley de Ingresos Municipales.
+VII.- Residir durante su gestión fuera del territorio municipal;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- En los casos de infracciones a los reglamentos y disposiciones legales, imponer arrestos que excedan las treinta y seis horas o multa que exceda de lo señalado en la Ley de Ingresos Municipales; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Celebrar contratos o realizar adquisiciones de bienes municipales con su cónyuge, parientes consanguíneos, afines o civiles hasta el cuarto grado, o con las sociedades o asociaciones de las cuales forme parte.
+
+> <small>(N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Así mismo, no podrán celebrar contratos o adquisiciones con personas que se encuentren inhabilitadas para desempeñar un empleo, cargo o comisión, en los términos previstos por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 ### CAPÍTULO II. DEL SÍNDICO
 
@@ -2277,7 +2315,9 @@ II.- Auxiliar a los tribunales y jueces del Estado; desempeñaran las funciones 
 
 III.- Conocer como instancia conciliatoria; y
 
-a) En materia civil, mercantil, familiar y vecinal o en aquellos asuntos que sean susceptibles de transacción o convenio, que no alteren el orden público, ni contravengan alguna disposición legal expresa o afecten derechos de terceros. Los procedimientos conciliatorio y de mediación, previstos en la presente Ley será potestativo para las partes: y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+a) En materia civil, mercantil, familiar y vecinal o en aquellos asuntos que sean susceptibles de transacción o convenio, que no alteren el orden público, ni contravengan alguna disposición legal expresa o afecten derechos de terceros. Los procedimientos conciliatorio y de mediación, previstos en la presente Ley será potestativo para las partes, no procederán los procedimientos conciliatorios y de mediación, como mecanismo para terminar la contienda, en casos de violencia familiar y en delitos contra la libertad, la seguridad y el normal desarrollo psicosexual; y
 
 b) De los conflictos que surjan entre los particulares, que sean susceptibles de resolver mediante la transacción o conciliación;
 
@@ -3162,3 +3202,37 @@ P.O. 15 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1463 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1584.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1582.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 145 FRACCIÓN III INCISO A) DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor el día de su Publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1623.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1625.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a este Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1642.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Órgano Superior de Fiscalización del Estado de Oaxaca, deberá emitir los lineamientos que regulen la creación y administración del "Padrón Estatal de Asesores Municipales Externos", dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
