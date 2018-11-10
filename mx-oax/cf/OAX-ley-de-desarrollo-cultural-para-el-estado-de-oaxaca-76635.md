@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2017-08-10"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -87,6 +87,36 @@ X. Regiones: Las ochos (sic) regiones geográficas reconocidas en la legislació
 
 XI. Fondo: El Fondo Estatal para el Desarrollo Cultural del Estado.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 3 Bis.
+
+Todos los habitantes tienen los siguientes derechos culturales:
+
+I. Acceder a la cultura y al disfrute de los bienes y servicios que brinda el Estado en la materia;
+
+II. Procurar el acceso al conocimiento y a la información del patrimonio material e inmaterial de las culturas que se han desarrollado y desarrollan en el territorio estatal y de la cultura las comunidades y pueblos que habitan las regiones del Estado;
+
+III. Elegir libremente una o más identidades culturales;
+
+IV. Pertenecer a una o más comunidades culturales;
+
+V. Participar de manera activa y creativa en la cultura;
+
+VI. Disfrutar de las manifestaciones culturales de su preferencia;
+
+VII. Comunicarse y expresar sus ideas en la lengua o idioma de su elección;
+
+VIII. Disfrutar de la protección por parte del Estado de los intereses morales y patrimoniales que les correspondan por razón de sus derechos de propiedad intelectual, así como de las producciones artísticas, literarias o culturales de las que sean autores, de conformidad con la legislación aplicable en la materia;
+
+IX. Utilizar las tecnologías de la información y las comunicaciones para el ejercicio de los derechos culturales, y;
+
+X. Los demás que en la materia se establezcan en la Constitución federal y local, en los tratados internacionales de los que el Estado mexicano sea parte y las leyes aplicables.
+
+El Estado garantizará que los bienes y servicios culturales estén disponibles para que la población disfrute de ellos, incluyendo las actividades, los espacios abiertos compartidos y los bienes culturales intangibles.
+
+Toda persona que produzca cualquier obra científica, literaria o artística, tiene derecho a beneficiarse de la protección de los derechos que le correspondan, conforme a lo dispuesto en esta Ley, la Ley Federal del Derecho de Autor y demás disposiciones jurídicas aplicables.
+
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE DESARROLLO CULTURAL
 
 ### CAPÍTULO I. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
@@ -121,9 +151,17 @@ V. Establecer mecanismos de vinculación entre cultura y desarrollo sustentable 
 
 VI. En el ámbito de sus atribuciones, garantizar el respeto a la diversidad cultural de los individuos, comunidades y pueblos;
 
-VII. Crear incentivos y estímulos fiscales y crediticios para personas e instituciones que desarrollen e impulsen acciones culturales; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Las demás que le otorgue esta Ley y las disposiciones aplicables.
+VII. Crear incentivos y estímulos fiscales y crediticios para personas e instituciones que desarrollen e impulsen acciones culturales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Contribuir con el Congreso del Estado para difundir la Convocatoria para el Premio al Periodismo Cultural “Andrés Henestrosa”, Medalla “Álvaro Carrillo” y el reconocimiento “Narciso Lico Carrillo” a la música de aliento de los Pueblos Originarios, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Las demás que le otorgue esta Ley y las disposiciones aplicables.
 
 ###### Artículo 6.
 
@@ -193,7 +231,9 @@ V. Las demás que le confieran la presente ley y los demás ordenamientos aplica
 
 Corresponde al Instituto Estatal de Educación Pública para el Estado de Oaxaca:
 
-I. Incorporar en los planes y programas de estudio en la estructura formal de la educación básica, el conocimiento de las artes, la diversidad cultural y las distintas expresiones de los pueblos y comunidades fomentando las culturas locales y regionales;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. Incorporar en los planes y programas de estudio en la estructura formal de la educación básica, el conocimiento de las artes, la diversidad cultural y las distintas expresiones de los pueblos y comunidades fomentando las culturas locales y regionales y respetando la autodeterminación indígena;
 
 II. Impulsar en conjunto con la Secretaría programas de fomento a la lectura y creación literaria;
 
@@ -219,9 +259,17 @@ V. Promover y organizar por si o en coordinación con las dependencias y entidad
 
 VI. Designar cronistas municipales, de conformidad con la Ley Municipal para el Estado de Oaxaca;
 
-VII. Estimular la creatividad popular y los programas que permitan la preservación y difusión de las manifestaciones culturales en su territorio; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Las demás que señale la presente Ley o los ordenamientos jurídicos aplicables.
+VII. Estimular la creatividad popular y los programas que permitan la preservación y difusión de las manifestaciones culturales en su territorio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Coadyuvar con las instituciones de educación básica, para el desarrollo de la educación cultural y la realización de actividades artísticas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Las demás que señale la presente Ley o los ordenamientos jurídicos aplicables.
 
 ## TÍTULO TERCERO. DE LA POLÍTICA CULTURAL
 
@@ -557,6 +605,14 @@ III. Denunciar toda falta, acción u omisión de cualquier persona física, jur�
 
 IV. Asociarse, agruparse y manifestarse, sobre el uso, destino y protección del Patrimonio Cultural.
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. Disfrutar de los bienes artísticos y culturales y acceder a sus beneficios, y;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VI. Las demás que les otorguen la presente Ley y demás normatividad aplicable.
+
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 39.
@@ -709,9 +765,23 @@ La Secretaría a través de los diversos fondos y programas culturales para el i
 
 ### CAPÍTULO SEGUNDO. FORTALECIMIENTO DE LAS EMPRESAS E INDUSTRIAS CULTURALES
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 51.
 
-EL Gobierno del Estado mediante diferentes mecanismos promoverá la creación, desarrollo y consolidación de las micro, pequeñas y medianas empresas culturales, privilegiando la incorporación de nuevas tecnologías.
+El Gobierno del Estado, mediante diferentes mecanismos promoverá la creación, desarrollo, protección, conservación y consolidación de las micro, pequeñas y medianas empresas culturales, privilegiando la incorporación de nuevas tecnologías.
+
+Las industrias culturales tendrán por objeto el desarrollo de las expresiones culturales, a través de la organización para incorporarse al mercado del comercio cultural, comprendiendo las siguientes:
+
+I. La Industria Audiovisual,
+
+II. La Industria Fonográfica,
+
+III. La Industria Cinematográfica,
+
+IV. La Industria Literaria y
+
+V. El Teatro.
 
 ###### Artículo 52.
 
@@ -822,3 +892,11 @@ P.O. 10 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 661.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 11 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1591.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan a lo dispuesto en el presente Decreto.
