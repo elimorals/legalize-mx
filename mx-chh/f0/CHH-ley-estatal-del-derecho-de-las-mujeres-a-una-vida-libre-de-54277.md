@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2018-04-14"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -629,6 +629,10 @@ XVI. Implementar, en coordinación con las autoridades federales, en el ámbito 
 
 XVII. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Promover y proteger el ejercicio de los derechos humanos de las personas víctimas y ofendidas en casos de violencia política contra las mujeres.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 31.
@@ -724,6 +728,22 @@ VI. Elaborar programas de sensibilización y proyectos culturales que promuevan 
 VII. Promover la participación de organismos públicos, privados y de la sociedad civil en programas y acciones de apoyo a las víctimas de violencia; y
 
 VIII. Las demás previstas para el cumplimiento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 35 BIS.- Corresponde a la Unidad de Igualdad de Género del Instituto Estatal Electoral:
+
+I. Prevenir, atender y erradicar la violencia política en contra de las mujeres.
+
+II. Recopilar estadísticas sobre la violencia política contra las mujeres, en el ámbito electoral, que permitan diagnosticar el problema y diseñar acciones concretas.
+
+III. Difundir de manera permanente, en los medios de comunicación, respecto a las conductas, acciones u omisiones que conllevan a la violencia política, así como la prevención, formas de denuncia y conciencia sobre la erradicación de la violencia política en contra de las mujeres.
+
+IV. Capacitar sobre violencia política contra las mujeres a: simpatizantes, militantes, precandidatas, precandidatos, candidatas, candidatos de los partidos políticos o independientes, a funcionarias y funcionarios de mesas directivas en jornada electoral y al personal que labora en el propio Instituto.
+
+V. Incluir en sus programas de capacitación y formación sobre medios de impugnación electoral el tema de la violencia política, incentivando el litigio estratégico en estos casos.
+
+VI. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO SÉPTIMO. DE LOS REFUGIOS PARA LA ATENCIÓN A MUJERES VICTIMAS DE VIOLENCIA
 
@@ -1116,3 +1136,9 @@ P.O. 14 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0852/2018 XVI P.E., POR MEDIO DEL CUAL SE ADICIONAN AL ARTÍCULO 30, LA FRACCIÓN XVIII, Y EL ARTÍCULO 35 BIS A LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
