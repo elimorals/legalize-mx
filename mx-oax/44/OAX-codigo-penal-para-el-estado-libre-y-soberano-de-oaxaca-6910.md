@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2018-10-13"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -31,11 +31,11 @@ ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OA
 
 QUE LA HONORABLE LEGISLATURA DEL ESTADO HA TENIDO A BIEN APROBAR LO SIGUIENTE:
 
-LA QUINCUAGESIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
+LA QUINCUAGÉSIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
 
 DECRETA:
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 # LIBRO PRIMERO.
 
@@ -1519,7 +1519,9 @@ I. La restitución de la cosa obtenida por el delito y si no fuere posible, el p
 
 II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
 
-III. El resarcimiento de los perjuicios ocasionados;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III. El resarcimiento de los perjuicios ocasionados o el lucro cesante, incluyendo el pago de los salarios o percepciones correspondientes, cuando por lesiones cause incapacidad temporal o permanente para trabajar en oficio, arte o profesión;
 
 IV. El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información, será conforme al salario mínimo vigente;
 
@@ -1527,7 +1529,25 @@ V. El costo de la pérdida de oportunidades, en particular el empleo, educación
 
 VI. La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos;
 
-VII. La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VII. La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII. La reparación del daño sufrido en la integridad física de la víctima;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Los daños patrimoniales generados como consecuencia de delitos o violaciones a derechos humanos;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X. El pago de los gastos y costas judiciales del asesor jurídico cuando éste sea privado; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XI. Los gastos comprobables de transporte, alojamiento, comunicación o alimentación que le ocasione el trasladarse al lugar del juicio o para asistir a su tratamiento, si la víctima reside en un municipio o lugar distinto al del enjuiciamiento o donde recibe la atención.
 
 Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 
@@ -2412,6 +2432,10 @@ c).- A quién en estado de ebriedad o bajo el influjo de alguna droga, reitere l
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
 
 d) Al conductor de un vehículo de motor, quien por hacer uso de un teléfono celular o cualquier dispositivo electrónico de entretenimiento o comunicación, con el que hable, envíe mensajes de texto o utilice sus aplicaciones de comunicación o entretenimiento al conducir, causare homicidio o lesiones de las previstas por los artículos 275 o 276, o las que se llegasen a tipificar.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Además de la pena impuesta en el tercer párrafo del presente artículo, en el supuesto señalado en el inciso c) se le impondrá la obligación de rehabilitarse al sujeto activo.
 
 > <small>(ADICIONADO, [N. DE E. PERTENECE AL INCISO D], P.O. 12 DE MARZO DE 2018)</small>
 
@@ -3559,7 +3583,7 @@ Delitos cometidos contra funcionarios públicos.
 
 187.- Al que cometa un delito en contra de un funcionario público o agente de la autoridad en el acto de ejercer sus funciones, o con motivo de ella, se le aplicarán de tres días a tres años de prisión, además de la que le corresponda por el delito cometido.
 
-188.- Cuando se trate de ultrajes hechos al Congreso del Estado, a un Tribunal, o a un Cuerpo Colegiado de la Administración de Justicia o a cualquiera Institución Pública, se aplicarán de un mes a un año de prisión y multa de cien a mil pesos.
+188.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
 ### CAPITULO I.
 
@@ -3671,17 +3695,23 @@ III.- Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difu
 
 IV.- Quien financie, dirija, administre o supervise cualquiera de las actividades descritas en las fracciones anteriores, con la finalidad de que se realicen las conductas previstas en las mismas.
 
-A quien cometa los delitos previstos en este artículo se le impondrá la pena de siete a doce años de prisión y multa de setecientos a novecientos días de salario mínimo.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+A quien cometa los delitos previstos en este artículo se le se le (sic) impondrá la pena de nueva a catorce años de prisión y multa de setecientas a novecientas veces el valor de la unidad de medida y actualización.
 
 195 Bis.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
 195 Bis A.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+196.- A quien pague o prometa pagar con dinero o en especie a una persona menor de dieciocho años o a un tercero para obtener cópula o sostener actos de índole sexual se le impondrá de catorce a dieciocho años de prisión y multa de mil a mil cuatrocientas veces el valor de la unidad de medida y actualización.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+A quien promueva, publicite o invite por cualquier medio a la realización de las conductas descritas en el párrafo anterior, se le impondrá de ocho a catorce años de prisión y multa de ochocientas a mil trescientas veces el valor de la unidad de medida y actualización.
+
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
-
-196.- A quien pague o prometa pagar con dinero o en especie a una persona menor de dieciocho años o a un tercero para obtener cópula o sostener actos de índole sexual se le impondrá de doce a dieciséis años de prisión y multa de novecientos a mil trescientos cincuenta días de salario mínimo.
-
-A quien promueva, publicite o invite por cualquier medio a la realización de las conductas descritas en el párrafo anterior, se le impondrá de ocho a catorce años de prisión y multa de seiscientos a mil doscientos días de salario mínimo.
 
 Estas penas se aplicarán sin perjuicio de las que correspondan por la comisión de otros delitos.
 
@@ -3999,13 +4029,21 @@ Al que cometa el delito de intimidación se le impondrán de dos años a nueve a
 
 I.- El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte;
 
-II.- El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en la primera fracción.
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+II.- El servidor público que nombre, contrate o promueva como servidores públicos que dependan jerárquicamente del área de la que sea titular, a su cónyuge, parientes consanguíneos, afines o civiles hasta el cuarto grado.
+
+III.- El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público a alguna de las personas mencionadas en la primera fracción.
 
 Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
 
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Cuando se actualice el supuesto a que se refiere la fracción II del presente artículo, se sancionará con prisión, de cuatro a diez años y multa de trescientos a mil veces el valor de la unidad de medida y actualización, además la destitución del empleo, cargo o comisión públicos e inhabilitación de cinco a quince años para desempeñar otro.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -4439,11 +4477,13 @@ Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
 
 Abuso, hostigamiento y acoso sexual, estupro y violación.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de dos a cinco años de prisión y multa de cincuenta a doscientos días de salario mínimo.
+241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de tres a seis años de prisión y multa de cien a doscientas veces el valor de la unidad de medida y actualización.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 La pena prevista en esté delito, se aumentará en una mitad en su mínimo y en su máximo cuando:
 
@@ -4467,67 +4507,79 @@ Cuando el delito fuere cometido contra persona menor de doce años, incapaz o cu
 
 Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo primero, será inhabilitado, destituido o suspendido, de su empleo público o profesión.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-241 Bis.- Comete el delito de hostigamiento sexual el que valiéndose de su posición jerárquica o de poder derivada de la relación laboral, docente, doméstica, religiosa, familiar o cualquiera otra que genere subordinación, asedie a otra persona solicitándole favores o propuestas de naturaleza sexual para sí o para un tercero, o utilice lenguaje lascivo con ese fin, causando daño o sufrimiento psicoemocional que lesione su dignidad. Al responsable, se le impondrá prisión de uno a tres años, multa de cien a trescientos días multa y pago de la reparación del daño. Este delito se perseguirá por querella de parte ofendida.
+241 Bis.- Comete el delito de hostigamiento sexual el que valiéndose de su posición jerárquica o de poder derivada de la relación laboral, docente, doméstica, religiosa, familiar o cualquiera otra que genere subordinación, asedie a otra persona solicitándole favores o propuestas de naturaleza sexual para sí o para un tercero, o utilice lenguaje lascivo con ese fin, causando daño o sufrimiento psicoemocional que lesione su dignidad. Al responsable, se le impondrá prisión de dos a cuatro años, multa de doscientas a cuatrocientas veces el valor de la unidad de medida y actualización. Este delito se perseguirá por querella de parte ofendida.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
 Si la persona hostigadora fuese servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su empleo, encargo o comisión y se le inhabilitará para desempeñar otro por un lapso igual al de la pena de prisión impuesta, que iniciará una vez que haya compurgado la pena privativa de la libertad.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
 Cuando el hostigamiento se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
 Si a consecuencia del hostigamiento sexual la víctima pierde o se le obliga a abandonar su trabajo, por esta causa, la reparación del daño consistirá en la indemnización por despido injustificado, teniendo en cuenta su antigüedad laboral, al doble de lo previsto en la Ley Federal del Trabajo o del contrato respectivo.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
 Al servidor público, docente o ministro de culto que reincidiere en la comisión de este delito, además de las sanciones previstas, se le inhabilitará definitivamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+241 Ter.- Quien por cualquier medio con fines lascivos asedie a persona de cualquier sexo, con quien no exista relación de subordinación en lugares públicos o privados, o en vehículos destinados al transporte público de pasajeros, afectando o perturbando su derecho a la integridad o libre tránsito, o le cause intimidación, degradación, humillación o aprovechándose de circunstancias que produzcan desventaja, indefensión o riesgo inminente para la víctima, le cause daño o sufrimiento psicoemocional, se le impondrá prisión de uno a tres años y multa de cien a doscientas veces el valor de la unidad de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
-241 Ter.- Quien por cualquier medio con fines lascivos asedie a persona de cualquier sexo, con quien no exista relación de subordinación y aprovechándose de circunstancias que produzcan desventaja, indefensión o riesgo inminente para la víctima, le cause daño o sufrimiento psicoemocional, se le impondrá prisión de seis meses a dos años y multa de cincuenta a doscientos días multa.
-
 Si el acosador es servidor público y se vale de medios o circunstancias que el encargo le proporcione, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
 Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
 En el supuesto anterior, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte ofendida.
 
 242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+243.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
-243.- A quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño, cualquiera que haya sido el medio utilizado para lograrlo, se le impondrán de tres a siete años de prisión y multa de cien a trescientos días de salario.
+244.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+245.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
-Cuando la persona estuprada fuere menor de quince años, se presumirá en todo caso la seducción o el engaño.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
-
-244. No se procederá contra el estuprador sino por querella de la persona ofendida, o de sus padres, o a falta de éstos, de sus representantes legítimos.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
-
-245.- La reparación del daño en los casos de estupro, además de lo que establece el artículo 27 del presente ordenamiento, comprenderá el pago de alimentos al niño nacido.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
-
-246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de doce a dieciocho años y multa de quinientos a mil días de salario.
+246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de catorce a veinte años y multa de seiscientos a un mil doscientas veces el valor de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-247.- Se equipara a la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de quince a veinticinco años de prisión y multa de un mil quinientos a dos mil días de salario.
+246 BIS.- Se equipara a la violación y se sancionará de tres a siete años de prisión y multa de doscientos a cuatrocientas el valor de la unidad de medida y actualización.
+
+I. A quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño, cualquiera que haya sido el medio para lograrlo.
+
+Cuando la persona víctima directa fuere menor de quince años, se presumirá en todo caso la seducción o el engaño.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+247.- Se equipara la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 Se equipara a la violación y se sanciona con la misma pena, al que introduzca por vía vaginal o anal, cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la pena será de quince a veinticinco años de prisión y la multa de setecientos cincuenta a mil quinientos días de salario.
+248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la pena será de diecisiete a veintisiete años de prisión y la multa de ochocientas a mil seiscientas veces el valor de la unidad de medida y actualización.
 
-Se impondrá sanción de dieciocho a treinta años de prisión y multa de mil a mil quinientos días de salario, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir al delito.
+Se impondrá sanción de veinte a treinta y dos años de prisión y multa de mil doscientas a mil setecientas veces el valor de la unidad de medida y actualización, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir el delito.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2010)</small>
 
@@ -4571,9 +4623,13 @@ Rapto.
 
 Incesto.
 
-255.- Se impondrá de uno a seis años de prisión a los ascendientes que tengan relaciones sexuales con sus descendientes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-Los descendientes mayores de dieciséis años que voluntariamente tengan relaciones sexuales con sus ascendientes, serán sancionados con la pena de seis meses a tres años de prisión.
+255.- Se impondrá de dos a ocho años de prisión a los ascendientes que tengan relaciones sexuales con sus descendientes.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Los descendientes mayores de dieciséis años que voluntariamente tengan relaciones sexuales con sus ascendientes, serán sancionados con la pena de uno a cuatro años de prisión.
 
 Se aplicará esta misma pena en caso de incesto entre hermanos.
 
@@ -4949,7 +5005,9 @@ I.- Cuando el aborto sea causado sólo por imprudencia de la mujer embarazada;
 
 II.- Cuando el embarazo sea el resultado de una violación y decida la víctima por sí o por medio de sus representantes legítimos la expulsión del correspondiente producto, con intervención médica y dentro de los tres meses, contados a partir de esa violación;
 
-III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro en su salud o de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora;
 
 IV.- Cuando el aborto se deba a causas eugenésicas graves según el previo dictámen de dos peritos.
 
@@ -4963,7 +5021,7 @@ Abandono de personas.
 
 318.- (DEROGADO, P.O. 30 DE ENERO DE 2016)
 
-319.- El delito de abandono de hogar sólo se perseguirá a petición del cónyuge ofendido o de los representantes legítimos de los hijos; a falta de representantes de los menores, la acción se iniciará por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este artículo.
+319.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
 320.- (DEROGADO, P.O. 30 DE ENERO DE 2016)
 
@@ -5095,21 +5153,21 @@ SI con la conducta descrita en el primer párrafo de este artículo, concurriere
 
 Si resultare otro delito, se atenderá a la pena agravada y a las reglas del concurso de delitos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-347 Bis B.- A quien ilegalmente prive a una persona de su libertad mediante la violencia física o moral, la seducción o el engaño con la intención de realizar un acto erótico sexual o para contraer matrimonio, se le aplicará la pena de dos a ocho años de prisión y multa de veinticinco a trescientos salarios mínimos.
+ARTÍCULO 347 Bis B.- A quien ilegalmente prive a una persona de su libertad mediante la violencia física o moral, la seducción o el engaño con la intención de realizar un acto erótico sexual o para contraer matrimonio, se le aplicará la pena de cuatro a diez años de prisión y multa de cien a cuatrocientas veces el valor de la unidad de medida y actualización.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-Si el pasivo es menor de doce años de edad se presumirá el engaño; si es mayor de doce y menor de dieciséis años se presumirá la seducción. En estos supuestos la pena se incrementará de un año dos meses a tres años de prisión.
+Si el pasivo es menor de doce años de edad se presumirá el engaño; si es mayor de doce y menor de dieciséis años se presumirá la seducción. En estos supuestos la pena se incrementará de dos a cuatro años de prisión.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 Si el activo del delito realiza algún acto erótico sexual con la víctima, se sancionará de acuerdo a las reglas del concurso de delitos.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-Si el activo de este delito restituye la libertad a la víctima dentro de las setenta y dos horas, voluntariamente o en atención al primer requerimiento que le haga la autoridad, sin que hubiere existido la realización de algún acto erótico sexual, la sanción será de seis meses a dos años de prisión.
+Si el activo de este delito restituye la libertad a la víctima dentro de las setenta y dos horas, voluntariamente o en atención al primer requerimiento que le haga la autoridad, sin que hubiere existido la realización de algún acto erótico sexual, la sanción será de uno a tres años de prisión.
 
 Este delito sólo se perseguirá por querella de la parte ofendida.
 
@@ -5411,7 +5469,9 @@ VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública
 
 IX.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público; y
 
-X.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X.- Cuando se trate de productos agrícolas endémicos y de cultivo intensivo propios del Estado, desde su etapa de plantación, crecimiento y hasta la de aprovechamiento, se encuentren o no adheridos al suelo.
 
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
@@ -5707,13 +5767,19 @@ Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes volunt
 
 Daños.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-387.- Se aplicarán las penas de robo simple al que por cualquier medio destruya o deteriore alguna cosa ajena o propia, en perjuicio de otro.
+387.- A quien destruya, deteriore o cause daños a una cosa ajena o propia en perjuicio de otro, se le impondrán las siguientes penas:
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+I. Cuando el valor de lo dañado o deteriorado no exceda de cincuenta veces el valor de la unidad de medida y actualización, se aplicará prisión de tres a seis meses y multa de veinte a cincuenta veces el valor de la unidad de medida y actualización.
 
-Cuando el delito se ejecute por persona que fuera embozado y por objeto de manifestaciones, se aumentará la sanción al doble y se impondrá (sic) multas correspondientes de quinientos a mil salarios mínimos.
+II. Cuando el valor de lo dañado o deteriorado sea mayor a cincuenta veces el valor de la unidad de medida y actualización pero no exceda de cien, se aplicará prisión de seis meses a tres años y multa de cincuenta a cien veces el valor de la unidad de medida y actualización.
+
+III. Cuando el valor de lo dañado o deteriorado exceda de cien veces el valor de la unidad de medida y actualización, pero no de quinientas, se aplicará prisión de tres a seis años y multa de cien a doscientas veces el valor de la unidad de medida y actualización.
+
+IV. Cuando el valor de lo dañado o deteriorado exceda de quinientas veces el valor de la unidad de medida y actualización, se aplicará prisión de seis a diez años y multa de doscientas a quinientas veces el valor de la unidad de medida y actualización.
+
+Cuando el delito se ejecute por persona que fuera embozado y por objeto de manifestaciones, se aumentará la sanción al doble y se impondrá multas correspondientes de quinientos a mil veces el valor de la unidad de medida y actualización.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -5813,9 +5879,11 @@ La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de s
 
 En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-406.- En los casos previstos en este Título, el Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta.
+406. En los casos previstos en este Título, el Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta. No proceden los acuerdos reparatorios como mecanismo para terminar la contienda en los casos previstos en este Título.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
 En caso de determinarse el ejercicio de la acción penal, el Ministerio Público solicitará al Juez la confirmación, ampliación o cancelación, en su caso, de las órdenes de protección o medidas precautorias referidas en el párrafo que antecede, quién deberá resolver lo conducente sin dilación.
 
@@ -5851,6 +5919,32 @@ II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)</small>
 
+###### Artículo 412.
+
+A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ella.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas, se impondrá hasta dos tercios más de la pena impuesta.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Cuando la víctima sea niña, adolescente, persona adulta mayor, persona con discapacidad, se encuentre embarazada o el hecho de (sic) cometa frente a cualquier ofendido o víctima indirecta, además de la pena impuesta, ésta se aumentará hasta un tercio más.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+En caso de no tener elementos suficientes del feminicidio, se judicializará por el delito de homicidio simple o calificado, según lo determine el Ministerio Público.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
+
 ### CAPITULO III.
 
 Feminicidio.
@@ -5863,23 +5957,25 @@ Se entiende por razones de género cuando ocurra cualquiera de las siguientes ci
 
 I.- La víctima presente signos de violencia sexual de cualquier tipo;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-II.- A la víctima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras; mutilaciones con implicaciones degradantes y/o sexuales.
+II.- A la víctima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras o mutilaciones o signos de asfixia, previos o posteriores a la privación de la vida;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-III.- Existan antecedentes o indicios anteriores de cualquier tipo de violencia, misoginia, amenazas, hostigamiento, acoso o maltrato del sujeto activo en contra de la víctima;
+III.- Existan datos, información que refiera algún tipo de violencia, en cualquier ámbito, previo a la comisión del delito o amenazas, acoso y maltrato del sujeto activo en contra de la víctima, aun cuando no haya denuncia, querella o cualquier otro tipo de registro;
 
-IV.- El cadáver o restos de la víctima hayan sido enterrados u ocultados;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+IV.- El cuerpo, cadáver o restos de la víctima hayan sido enterrados, ocultados, incinerados, o sometidos a cualquier sustancia que lo desintegre;
 
-V.- El cuerpo o restos de la víctima hayan (sic) sido expuesto o arrojado en lugar público;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+V.- El cuerpo, cadáver o restos de la víctima hayan sido expuestos, abandonados, depositados, o arrojados, en bienes del dominio público o de uso común o cualquier espacio de libre concurrencia;
 
-VI.- La víctima haya sido incomunicada o privada de su libertad, cualquiera que sea el tiempo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Que la víctima haya sido incomunicada o privada de su libertad, cualquiera que sea el tiempo previo a su muerte, o
 
 VII.- Por desprecio u odio a la víctima motivado por discriminación o misoginia.
 
@@ -5887,23 +5983,17 @@ VII.- Por desprecio u odio a la víctima motivado por discriminación o misogini
 
 VIII.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Existan antecedentes o indicios que la agresión cometida contra la víctima, haya tenido como finalidad impedirle el ejercicio de su derecho de votar o ser votada, en la elección de autoridades estatales o municipales.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Se entenderá como desprecio u odio cuando el activo realice, conductas humillantes o degradantes, antes o durante la privación de la vida, así como actos de profanación al cadáver incluidos actos de necrofilia.
+
 Se entiende por misoginia las conductas contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
-
-412. A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil salarios mínimos.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
-
-Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
-
-Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
-
-Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ### CAPITULO IV. Discriminación
 
@@ -5933,7 +6023,41 @@ Asimismo, se incrementará en una mitad la pena cuando los actos discriminatorio
 
 Este delito se perseguirá por querella.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### CAPITULO V. Violencia Política
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+412 TER.- Violencia Política es toda acción u omisión realizada por sí o a través de terceros que cause daño físico, psicológico, económico o sexual en contra de una o varias mujeres y/o de cualquier miembro de su familia, para restringir, suspender, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos-electorales o de las prerrogativas inherentes a un cargo público, o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+412 QUÁTER.- A quien cometa el delito de Violencia Política se impondrá prisión de dos a seis años y de cien a doscientas veces el valor diario de la unidad de medida y actualización.
+
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
+
+## TITULO VIGESIMO.
+
+Encubrimiento.
+
+390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientos pesos, al que:
+
+I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
+
+Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
+
+II.- Requerido por las autoridades, no dé auxilio para la averiguación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la Fracción anterior y cuando se trate del cónyuge o de parientes del requerido, o de personas a quienes éste debe respeto, gratitud o amistad;
+
+III.- Impida o dificulte la averiguación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este Artículo;
+
+IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+## TITULO VIGESIMO PRIMERO.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -5969,28 +6093,6 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-## TITULO VIGESIMO.
-
-Encubrimiento.
-
-390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientos pesos, al que:
-
-I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
-
-Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
-
-II.- Requerido por las autoridades, no dé auxilio para la averiguación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la Fracción anterior y cuando se trate del cónyuge o de parientes del requerido, o de personas a quienes éste debe respeto, gratitud o amistad;
-
-III.- Impida o dificulte la averiguación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este Artículo;
-
-IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
-## TITULO VIGESIMO PRIMERO.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
 ### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
@@ -6005,6 +6107,10 @@ III. Cause lesiones y/o marcas de por vida que generen una agonía permanente pa
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
@@ -6014,10 +6120,6 @@ III. Cause lesiones y/o marcas de por vida que generen una agonía permanente pa
 I. Dolosamente prive de la vida a un animal vertebrado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
@@ -6072,6 +6174,64 @@ II. A quien por sí o por interpósita persona obstaculice, impida o por cualqui
 425.- Si quien realiza el acto fuera un servidor público se aumentará la sanción un año.
 
 Los delitos contenidos en este Título se perseguirán por querella.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+426.- Cuando se cometa un delito doloso en contra del cónyuge de un periodista o de sus parientes sin limitación de grado en línea recta o colateral hasta el cuarto grado, con la intención de obstaculizar, afectar, limitar o menoscabar el derecho a la información o las libertades de expresión o de imprenta, se aumentará hasta en un tercio la pena establecida para tal delito.
+
+En el caso anterior, se aumentará la pena hasta en una mitad cuando además el delito sea cometido por un servidor público en ejercicio de sus funciones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+## TÍTULO VIGÉSIMO SEXTO. DELITOS EN MATERIA DE LAVADO DE ACTIVOS
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+427.- Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que, por sí o por interpósita persona:
+
+I. Convierta, transfiera o transporte recursos, derechos o bienes de cualquier naturaleza cuando tenga conocimiento de que proceden o representan el producto de actividad delictiva;
+
+II. Adquiera, posea, tenga, custodie, utilice, administre o invierta recursos, derechos o bienes de cualquier naturaleza cuando tenga conocimiento de que proceden o representan el producto de cualquier actividad delictiva, y
+
+III. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad, titularidad o beneficiario final de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de actividad delictiva;
+
+El conocimiento, la intención o finalidad requeridos como elementos subjetivos de las conductas previstas en este artículo podrán inferirse de indicios y de elementos objetivos directos o indirectos en cada caso.
+
+La actividad delictiva precedente deberá ser demostrada:
+
+a) Con la sentencia ejecutoriada del delito o delitos precedentes; o
+
+b) A través de indicios de dicha actividad y la acreditación de la inexistencia de la licitud del origen de los recursos, derechos o bienes de que se trate.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+428.- A quien mediante el asesoramiento a otro, fomente, preste ayuda, auxilie o colabore para la comisión de alguna de las conductas previstas en (sic) artículo 427 de este Código, se le aplicará de tres a diez años de prisión y de treinta a cien días multa, sin perjuicio de las sanciones que correspondan de otra índole de la penal.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+429.- Las penas previstas en este Capítulo se duplicaran, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación. Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+Asimismo, las penas previstas en este Capítulo se aumentaran hasta en una mitad si quien realice cualquiera de las conductas previstas en este título utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+430.- Se impondrá de tres a diez años de prisión y de ochocientos a dos mil seiscientos días multa, a quien ponga a nombre de terceros recursos, derechos, valores o bienes provenientes de un delito para llevar a cabo la ocultación de estos aun cuando los terceros no tengan conocimiento de la procedencia delictiva de los recursos, derechos, valores o bienes.
+
+La misma sanción se impondrá a quien permita que se pongan bajo su nombre recursos, derechos, valores o bienes que procedan o representen el producto de actividad delictiva.
+
+El conocimiento de la actividad delictiva y la existencia de la misma se acreditarán conforme lo dispone el artículo 427.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+431.- Tratándose de la comisión por culpa grave de los delitos previstos en el artículo 427 se impondrá una pena de cuatro a catorce años de prisión y de quin entos (sic) a tres mil días multa.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+432.- Cuando la persona que realiza los actos jurídicos descritos en este título, revele a la autoridad competente la identidad de quien haya aportado los recursos o de quien se conduzca como dueño, la pena podrá ser reducida hasta en una tercera parte de la misma, sin detrimento de la aplicación de soluciones alternas o anticipadas de naturaleza procesal.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+433.- Procederá Igualmente la reducción de la pena señalada en el artículo precedente por la comisión de los delitos descritos en el presente título si la persona imputada por los mismos aporta información suficiente y eficaz para la recuperación de los recursos, derechos o bienes producto, objeto o instrumento de dichos delitos. El beneficio de la reducción de la pena se hará efectivo en tanto hubiese concluido satisfactoriamente el procedimiento correspondiente de recuperación patrimonial.
 
 ARTICULOS TRANSITORIOS:
 
@@ -6629,7 +6789,7 @@ P.O. 12 DE MARZO DE 2018.
 
 P.O. 5 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1330.- MEDIANTE EL CUAL EXPIDE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 1330.- MEDIANTE EL CUAL EXPIDE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
 
@@ -6705,6 +6865,72 @@ P.O. 15 DE SEPTIEMBRE DE 2018.
 
 P.O. 13 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1564.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1564.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1541.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1582.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 406 PRIMER PÁRRAFO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor el día de su Publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1619.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1621.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1622.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1624.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1626.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1627.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA, SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, SE REFORMAN Y ADICIONAN DIVERSAS, DISPOSICIONES DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas normas de igual o menor rango que se opongan al presente Decreto, aunque no estén expresamente derogadas.
+
+TERCERO. La Unidad Administrativa encargada de la realización de las atribuciones concedidas a la Secretaría de Finanzas por virtud del presente Decreto deberá iniciar su operación en un plazo no mayor de 90 días hábiles contados a partir de la publicación del mismo, para lo cual deberán asignarse los recursos humanos, materiales, financieros y presupuestales necesarios, para su adecuada operación.
+
+Todos los servidores públicos que presten sus servicios en la referida Unidad deberán someterse a la certificación de control de confianza a la que se refiere la Ley General del Sistema Nacional de Seguridad Pública, para cuyo efecto, la Secretaría de Finanzas podrá celebrar los convenios correspondientes con las entidades facultadas para la realización de dicha certificación.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1629.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN, Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1630.- MEDIANTE EL CUAL SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
