@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2018-08-15"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -420,6 +420,10 @@ Contendrá además, nombre, edad, domicilio y nacionalidad de los padres y testi
 > <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2017)</small>
 
 El Oficial del Registro Civil expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Las copias certificadas de las actas de nacimiento expedidas por la autoridad competente no tendrán caducidad, por lo que se podrán utilizar en la realización de trámites ante cualquier ente público o privado, siempre que se encuentren legibles y no presenten alteraciones visibles en su contenido.
 
 ###### Artículo 67.
 
@@ -15980,3 +15984,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los juicios de desahucio cuya tramitación inició con anterioridad al presente Decreto, continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 10 DE NOVIEMBRE DE 2018.
+
+[N. DE TRANSITORIOS DEL "DECRETO 2571.- SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 66 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+TERCERO.- El Ejecutivo del Estado propondrá al Congreso del Estado, los ajustes presupuestales que correspondan en el Proyecto de Modificación al Presupuesto de Egresos del Ejercicio Fiscal 2018. Asimismo, hará las previsiones presupuestales que correspondan para el Ejercicio Fiscal 2019 y subsecuentes.
