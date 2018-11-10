@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-administrativas-del-estado-y-123999"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-03"
-last_updated: "2017-10-03"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 3 de octubre de 2017.
 
@@ -317,7 +317,9 @@ La Secretaría, así como los Órganos internos de control de los entes público
 
 Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Secretaría o su respectivo Órgano interno de control, todos los Servidores Públicos, en los términos previstos en la presente Ley y la Ley General. Asimismo, deberán presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
 
-Tratándose de servidores públicos pertenecientes a Dependencias y Entidades de la Administración Pública Estatal, las citadas declaraciones se presentarán ante la Secretaría. Los servidores públicos de los Poderes Legislativo y Judicial, de los Organismos Constitucionales Autónomos y de los Municipios, las presentarán ante sus respectivos Órganos Internos de Control. Para efectos de lo anterior, dichos Poderes, Organismos y Municipios, podrán celebrar convenios con la Secretaría, para el uso de las plataformas tecnológicas de esta última.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Tratándose de servidores públicos pertenecientes a Dependencias y Entidades de la Administración Pública Estatal, las citadas declaraciones se presentarán ante la Secretaría. Los servidores públicos de los Poderes Legislativo y Judicial, de los Organismos Constitucionales Autónomos, de los Municipios, de las Agencias Municipales y de Policías, las presentarán ante sus respectivos Órganos Internos de Control. Para efectos de lo anterior, dichos Poderes, Organismos y Municipios, podrán celebrar convenios con la Secretaría, para el uso de las plataformas tecnológicas de esta última.
 
 Asimismo, los Servidores Públicos deberán presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
 
@@ -612,3 +614,11 @@ Séptimo. Los formatos que se utilizan en los ámbitos estatal y municipal para 
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de agosto de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Donovan Rito García, Secretario.- Dip. Rosa Elía Romero Guzmán, Secretaría.- Dip. Paola Gutiérrez Galindo, Secretaría.- Rubricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 5 de septiembre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1593.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
