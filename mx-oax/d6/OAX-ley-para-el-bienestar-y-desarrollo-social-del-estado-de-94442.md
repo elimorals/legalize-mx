@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2014-05-29"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -409,7 +409,9 @@ XXI. Asegurar, mediante la participación y vigilancia ciudadana, el ejercicio l
 
 XXII. Profundizar el reconocimiento de la presencia indígena y la diversidad cultural del Estado y en el desarrollo de relaciones de convivencia interculturales; y
 
-XXIII. Garantizar, de forma gradual y progresiva, el desarrollo integral de la población oaxaqueña, a través de programas que atiendan, entre otras, las siguientes prioridades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXIII. Garantizar, de forma gradual y progresiva, el desarrollo integral de la población oaxaqueña, prioritariamente de aquella que presente mayor índice de pobreza multidimensional, a través de programas que atiendan, entre otras, las siguientes prioridades:
 
 a) La seguridad alimentaria y combate a la desnutrición que garantice el acceso y disponibilidad de alimentos sanos y nutritivos a la población en general y, en particular, a sus segmentos de mayores carencias;
 
@@ -493,11 +495,15 @@ VIII. La metodología y los indicadores para la evaluación de los resultados, y
 
 IX. Las determinaciones de otros planes y programas que incidan en Oaxaca y que estén vinculados con el Desarrollo Social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 24.
 
-La normativa estatal para regular la operación de los programas para el desarrollo social, contendrán los siguientes elementos:
+La normativa estatal para regular la operación de los programas para el desarrollo social, contendrán, al menos los siguientes elementos:
 
-I. El objetivo del programa;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. El objetivo y alcances del programa;
 
 II. La población objetivo del programa;
 
@@ -509,7 +515,29 @@ V. Los criterios de elegibilidad;
 
 VI. La forma de entrega de los apoyos otorgados por el programa, y
 
-VII. Los indicadores para el programa
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VII. Los indicadores de gestión y resultados para el programa;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Su programación presupuestal;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Los mecanismos de evaluación;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X. La articulación con otros programas sociales;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XI. Mecanismos de fiscalización;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XII. Mecanismos de Rendición de Cuentas.
 
 ###### Artículo 25.
 
@@ -627,9 +655,11 @@ Los organismos evaluadores independientes que podrán participar serán instituc
 
 Las dependencias de la Administración Pública Estatal y Municipal, ejecutoras de los programas a evaluar, proporcionarán toda la información y las facilidades necesarias para la realización de la evaluación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 44.
 
-Los programas Sociales deben evaluarse, con base a su población objetivo a atender considerando por los menos los siguientes rubros:
+Los programas sociales deben evaluarse, con base a su población objetivo, considerando por lo menos los siguientes rubros e indicadores:
 
 I. Cumplimiento de los principios rectores de esta Ley;
 
@@ -647,9 +677,17 @@ VII. Evaluación de la percepción y aceptación de los beneficiarios;
 
 VIII. Evaluación del desarrollo de capacidades y autogestión;
 
-IX. Indicadores de calidad en el servicio; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-X. Consideraciones generales cualitativas.
+IX. Indicadores de calidad en el servicio;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X. Consideraciones generales cualitativas, y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XI. Disminución de los índices de pobreza multidimensional.
 
 ###### Artículo 45.
 
@@ -711,9 +749,9 @@ El Consejo conocerá los resultados de las evaluaciones y Auditorías que remita
 
 Las zonas de atención para efecto de implementar los programas de desarrollo social y humano en el Estado, se clasifican en tres tipos:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-I. Zonas de atención prioritaria. Son áreas o regiones de carácter predominantemente rural o urbano, cuya población registre cualquiera de los siguientes índices: pobreza y/o marginación, elevada intensidad migratoria o indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en los Tratados Internacionales, en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Oaxaca y en los términos de esta Ley;
+I. Zonas de atención prioritaria. Son áreas o regiones de carácter predominantemente rural o urbano, cuya población registre cualquiera de los siguientes índices: pobreza multidimensional y/o marginación elevada intensidad migratoria o indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en los Tratados Internacionales, en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Oaxaca y en los términos de esta Ley.
 
 II. Zonas de atención inmediata. Son áreas o regiones de carácter· predominantemente rural o urbano, que además de las condiciones antes señaladas, presenten conflictos sociales, agrarios o de otra índole que requiere atención urgente a través de los programas de desarrollo social y humano previsto en esta Ley; y
 
@@ -863,7 +901,9 @@ V. Integrar, administrar y actualizar el padrón único de beneficiarios, median
 
 VI. Elaborar el Programa Estatal de Desarrollo Social;
 
-VII. Expedir las reglas de operación de los programas sociales;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VII. Expedir las reglas de operación de los programas sociales. Por tal motivo, elaborará y harán del conocimiento público cada año sus Programas de Desarrollo Social y las Reglas de Operación de los mismos, a través de los medios más accesibles a la población, en un plazo máximo de noventa días, a partir de la aprobación del presupuesto anual de egresos. El Órgano Superior de Fiscalización del Estado, vigilará el cumplimiento eficaz de esta medida;
 
 VIII. Establecer y dar a conocer los indicadores y sus resultados sobre el progreso en el cumplimiento de los derechos sociales de la población de Oaxaca;
 
@@ -911,7 +951,9 @@ VII. Ejercer los fondos y recursos federales descentralizados o convenidos en ma
 
 VIII. Impulsar prioritariamente la prestación de servicios públicos en las comunidades con mayor pobreza del Municipio;
 
-IX. Hacer públicos, la inversión y las bases de los programas sociales;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Hacer públicos, la inversión y las bases de los programas sociales. Por tal motivo, elaborarán y harán del conocimiento público cada año sus Programas de Desarrollo Social y las Reglas de Operación de los mismos, a través de los medios más accesibles a la población, en un plazo máximo de noventa días, a partir de la aprobación de sus respectivos presupuestos de egresos anuales. El Órgano Superior de Fiscalización del Estado, vigilará el cumplimiento eficaz de esta medida;
 
 X. Fomentar actividades productivas para la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas;
 
@@ -1235,11 +1277,67 @@ II. Los recursos, obras, acciones y apoyos de los programas que se ejecuten de m
 
 En los casos en que el cumplimiento de los programas previstos en los Convenios para el Desarrollo Social, requiera la determinación de compromisos específicos entre las partes o con un tercero, se suscribirán los anexos de ejecución que resulten necesarios.
 
-### CAPÍTULO I. DE LOS PROGRAMAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO VII. DEL FOMENTO Y REGISTRO DE LAS ORGANIZACIONES CIVILES Y SOCIALES
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 83 Bis.
+
+Además de las actividades establecidas en el artículo 5 de la Ley Federal de Fomento a las Actividades Realizadas por las Organizaciones de la Sociedad Civil, serán objeto de fomento estatal las siguientes:
+
+I. Impulsar e implementar acciones vinculadas al cumplimiento del objeto de esta Ley;
+
+II. Impulsar o implementar acciones para hacer efectivos los derechos sociales establecidos en el artículo 6 de esta Ley; prioritariamente, aquellas acciones dirigidas a los grupos o sectores que merecen especial atención en materia de desarrollo social y humano.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 83 Ter.
+
+Las organizaciones civiles y sociales, además de lo establecido en el artículo 6 de la Ley Federal de Fomento a las Actividades Realizadas por las Organizaciones de la Sociedad Civil, tiene (sic) los siguientes derechos:
+
+I. Recibir apoyos o estímulos públicos del Gobierno del Estado y de los Municipios del Estado de Oaxaca, para implementar acciones relacionadas con el cumplimiento del objeto de esta Ley;
+
+II. Recibir asesoría y capacitación necesaria para el cumplimiento de sus fines.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 83 Quater.
+
+Para acceder a los apoyos y estímulos que otorgue la Administración Pública Estatal y municipal, dirigidos a impulsar acciones vinculadas al cumplimiento del objeto y prioridades de esta Ley, las organizaciones sociales y civiles, además de las previstas (sic) el artículo 7 de la Ley Federal de Fomento a las Actividades Realizadas por las Organizaciones de la Sociedad Civil, deberán cumplir con las siguientes obligaciones:
+
+I. Estar legalmente constituidas conforme a la legislación vigente;
+
+II. Tener su domicilio legal o convencional en cualquier parte del territorio del Estado de Oaxaca;
+
+III. Estar inscritas en el Registro Estatal de Organizaciones Sociales y Civiles, y actualizar sus datos sobre los cambios que realicen a su documentación constitutiva;
+
+IV. Proporcionar la información que les sea requerida por autoridad competente sobre sus fines, estatutos, programas, actividades, beneficiarios, fuentes de financiamiento nacionales o extranjeras o de ambas, patrimonio, operación administrativa y financiera, y uso de los apoyos y estímulos públicos que reciban;
+
+V. Presentar un informe anual de sus actividades realizadas, ante la Secretaría, a través del sistema y formatos específicos, que formarán parte el (sic) Registro Estatal de Organizaciones Sociales y Civiles;
+
+VI. No encontrarse en los supuestos establecidos en el artículo 8 de la Ley Federal de Fomento a las Actividades Realizadas por las Organizaciones de la Sociedad Civil.
+
+Las organizaciones civiles y sociales a que se refiere este artículo, y que reciban apoyos y estímulos públicos, deberán sujetarse a las disposiciones jurídicas y administrativas aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 83 Quinquies.
+
+El Registro Estatal de las Organizaciones Civiles y Sociales a que se refiere la fracción III, del artículo anterior tendrá las siguientes funciones:
+
+I. Establecer y administrar un sistema de información y datos de la sociedad organizada que contribuya al Desarrollo Social;
+
+II. Inscribir a las Organizaciones Civiles y Sociales que cumplan con los requisitos que esta Ley establece y otorgarles su respectiva constancia de inscripción;
+
+III. Reconocer públicamente las acciones que lleven a cabo la (sic) Organizaciones Civiles y Sociales que se distingan en la realización de actividades de Desarrollo Social;
+
+IV. Dar seguimiento a las acciones y cumplimiento de responsabilidades de la sociedad organizada que manejen o administren recursos públicos para el Desarrollo Social en la Entidad.
 
 ## TÍTULO QUINTO (SIC). PROGRAMAS DE DESARROLLO SOCIAL
 
-### CAPÍTULO II. PENSIÓN ALIMENTARIA PARA ADULTOS MAYORES DE SETENTA AÑOS DEL ESTADO DE OAXACA
+### CAPÍTULO I. DE LOS PROGRAMAS
 
 ###### Artículo 84.
 
@@ -1263,7 +1361,7 @@ VI. Impulso a jefas de familia desempleadas.
 
 VII. Unidades y caravanas de servicios gratuitos.
 
-### CAPÍTULO III. BECAS PARA LA EDUCACIÓN SUPERIOR
+### CAPÍTULO II. PENSIÓN ALIMENTARIA PARA ADULTOS MAYORES DE SETENTA AÑOS DEL ESTADO DE OAXACA
 
 ###### Artículo 86.
 
@@ -1289,7 +1387,7 @@ El Comité Estatal de Desarrollo Social y Humano autorizará el mecanismo median
 
 La falsedad en la información proporcionada por los beneficiarios generará la anulación y suspensión de este beneficio por el tiempo que determine el Comité Estatal de Desarrollo Social y Humano, sin perjuicio de las sanciones penales que sean procedentes.
 
-### CAPÍTULO IV. DOTACIÓN GRATUITA DE ÚTILES ESCOLARES Y DE UNIFORMES A LOS ALUMNOS DE EDUCACIÓN BÁSICA EN ESCUELAS PÚBLICAS DEL ESTADO DE OAXACA
+### CAPÍTULO III. BECAS PARA LA EDUCACIÓN SUPERIOR
 
 ###### Artículo 92.
 
@@ -1323,7 +1421,7 @@ Las autoridades en los planteles de educación superior deberán revisar previo 
 
 Todas las instituciones de educación superior públicas, elaboraran un padrón de becarios, el cual actualizarán anualmente y que harán del conocimiento del Instituto Estatal de Educación Pública de Oaxaca, quien a su vez los remitirá al Comité Estatal de Desarrollo Social y Humano para su refrendo de conformidad con el reglamento de la presente ley.
 
-### CAPÍTULO V. APOYO A PERSONAS CON DISCAPACIDAD
+### CAPÍTULO IV. DOTACIÓN GRATUITA DE ÚTILES ESCOLARES Y DE UNIFORMES A LOS ALUMNOS DE EDUCACIÓN BÁSICA EN ESCUELAS PÚBLICAS DEL ESTADO DE OAXACA
 
 ###### Artículo 100.
 
@@ -1337,7 +1435,7 @@ Los alumnos inscritos en escuelas públicas del Estado, en el nivel de educació
 
 Para garantizar el ejercicio de estos derechos, la Secretaría tiene la obligación de incluir en su presupuesto anual, la asignación económica correspondiente.
 
-### CAPÍTULO VI. PREVENCIÓN DE CÁNCER CÉRVICO UTERINO
+### CAPÍTULO V. APOYO A PERSONAS CON DISCAPACIDAD
 
 ###### Artículo 103.
 
@@ -1361,7 +1459,7 @@ IV. Por proporcionar documentación o información falsa; y
 
 V. Por cambio de residencia a otra Entidad Federativa.
 
-### CAPÍTULO VII. IMPULSO A JEFAS DE FAMILIA DESEMPLEADAS
+### CAPÍTULO VI. PREVENCIÓN DE CÁNCER CÉRVICO UTERINO
 
 ###### Artículo 106.
 
@@ -1379,11 +1477,13 @@ Los servicios de salud realizarán campañas intensas de prevención, detección
 
 La Secretaría publicará oportunamente la calendarización de las campañas.
 
-### CAPÍTULO VIII. UNIDADES Y CARAVANAS DE SERVICIOS GRATUITOS
+### CAPÍTULO VII. IMPULSO A JEFAS DE FAMILIA DESEMPLEADAS
 
 ###### Artículo 110.
 
 Tiene por objeto reconocer, garantizar, regular y proteger el derecho que tienen todas las jefas de familia residentes en el Estado de Oaxaca, y Contribuir a la protección social de las madres jefas de familia desempleadas o se encuentren en una situación de violencia de género.
+
+### CAPÍTULO VIII. UNIDADES Y CARAVANAS DE SERVICIOS GRATUITOS
 
 ###### Artículo 111.
 
@@ -1413,7 +1513,9 @@ Los defensores de oficio del Gobierno del Estado, se incluirán en las caravanas
 
 El Ejecutivo Estatal garantizará los servicios y la calidad de los mismos con personal capacitado, esto en coordinación con las dependencias de la administración pública estatal que corresponda.
 
-## TÍTULO V (SIC). DE LAS INFRACCIONES Y SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+## TÍTULO V (SIC). DE LAS INFRACCIONES, SANCIONES Y AUDITORÍAS
 
 ###### Artículo 116.
 
@@ -1426,6 +1528,20 @@ Cuando los recursos destinados para el desarrollo social sean utilizados para fi
 ###### Artículo 118.
 
 Cuando se cometan infracciones por acciones de auto beneficio o de beneficio mutuo, serán requeridos los responsables para la devolución y sancionados con el cien por ciento del monto que se trate.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 119.
+
+Las auditorías son el instrumento por el cual se vigila que los recursos públicos, sean destinados de manera correcta a los fines que establece la política social del Estado de Oaxaca y lo establecido en la presente Ley.
+
+Las auditorías sólo podrán ser efectuadas por los órganos facultados para ello y de conformidad con la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 120.
+
+Para efecto de velar por el cumplimiento honesto, transparente y eficiente en la aplicación de la política de desarrollo social, el Congreso del Estado, en uso de sus facultades, solicitará la realización de las auditorías a los programas sociales que considere convenientes.
 
 T R A N S I T O R I O: (SIC)
 
@@ -1486,3 +1602,13 @@ SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se oponga
 P.O. 29 DE MAYO DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1643.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
+
+TERCERO. Para los efectos del artículo 83 QUINQUIES del presente Decreto, el Registro Estatal de Organizaciones Sociales y Civiles, deberá iniciar su funcionamiento a más tardar el 31 de diciembre de 2018.
