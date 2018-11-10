@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2012-04-09"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -72,6 +72,14 @@ V. Fortalecer los esquemas de asistencia técnica, investigación y transferenci
 VI. Con la participación de los productores y pobladores del campo a través de sus organizaciones representativas, formulará programas de mediano plazo y anuales en los que se fijarán las metas, los recursos y su distribución geográfica y por objetivos, las instituciones responsables y los plazos de ejecución, para el desarrollo integral del campo oaxaqueño.
 
 VII. Promover la transversalidad de las políticas públicas del Gobierno Federal y estatal, así como de los programas, proyectos y acciones que se desarrollan en el ámbito rural.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Promover la celebración de convenios con el sector privado de tiendas de autoservicio y departamentales, para que contemplen la compra y venta de la producción agrícola de las organizaciones productivas, los productores y otros agentes rurales existentes en el Estado, con la finalidad de alcanzar un comercio justo.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Promover acciones concretas de desarrollo sostenible en el campo, teniendo lazos de colaboración institucional con las demás dependencias del sector para focalizar sus acciones en las zonas de atención prioritaria a que se refiere la Ley de Desarrollo Social para el Estado de Oaxaca y como lo disponen las fracciones que anteceden.
 
 ###### ARTÍCULO 4.
 
@@ -137,9 +145,13 @@ XXIX. Programas Sectoriales: Los programas específicos del Gobierno Federal com
 
 XXX. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como son: tierras, bosques, recursos minerales, agua, recursos genéticos, comunidades vegetativas y animales;
 
-XXXI. Secretaría: Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXXII. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de los alimentos a la población;
+XXXI. Secretaría: Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXXII. Seguridad Alimentaria: El abasto oportuno, constante e incluyente de los alimentos nutritivos en cantidad suficiente para satisfacer la demanda nutricional de la población;
 
 XXXIII. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito;
 
@@ -343,7 +355,9 @@ La Comisión Estatal Intersecretarial, será la responsable de atender, difundir
 
 La Comisión Estatal Intersecretarial estará integrada por los titulares de las siguientes dependencias del Ejecutivo:
 
-I. Secretaría de Desarrollo Agropecuario Forestal y Pesca;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
 
 II. Secretaría de Finanzas;
 
@@ -357,15 +371,29 @@ VI. Instituto Estatal de Educación Pública de Oaxaca;
 
 VII. Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
 
-VIII. Secretaría de Turismo y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-IX. Secretaría de la Contraloría y Transparencia Gubernamental;
+VIII. Secretaría de Economía;
 
-X. Instituto Estatal de Ecología;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XI. Comisión Estatal del Agua del Estado de Oaxaca; y
+IX. Secretaría de Turismo;
 
-XII. Demás dependencias del Poder Ejecutivo relacionadas en materia de desarrollo rural que se consideren necesarias, y de acuerdo con los temas que se traten;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X. Secretaría de la Contraloría y Transparencia Gubernamental;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XI. Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XII. Comisión Estatal del Agua del Estado de Oaxaca; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Demás dependencias del Poder Ejecutivo relacionadas en materia de desarrollo rural que se consideren necesarias, y de acuerdo con los temas que se traten.
 
 Cada uno de los titulares integrantes de la Comisión Estatal Intersecretarial designará a un suplente, que en el caso de las dependencias, será el subsecretario o su equivalente que tenga mayor relación en materia de desarrollo rural sustentable.
 
@@ -735,7 +763,9 @@ El Sistema Estatal de Capacitación y Asistencia Técnica Rural Integral, establ
 
 El Servicio Estatal de Capacitación y Asistencia Técnica Rural Integral, estará dirigido por un consejo interno conformado por:
 
-I. Los titulares de las Secretarías de Desarrollo Agropecuario Forestal, Pesca y Acuacultura; Desarrollo Social y Humano, Instituto Estatal de Educación Pública de Oaxaca, de Turismo y Desarrollo Económico, de Finanzas y de la Contraloría y Transparencia Gubernamental del Estado;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. Los titulares de las Secretarías de Desarrollo Agropecuario, Pesca y Acuacultura; Desarrollo Social y Humano, de Economía; de Finanzas y de la Contraloría y Transparencia Gubernamental del Estado; así como el Instituto Estatal de Educación Pública de Oaxaca;
 
 II. Los organismos del sector agropecuario;
 
@@ -799,7 +829,9 @@ II. Fomentar y reorientar el uso sustentable, eficiente y racional de las tierra
 
 III. Promover la producción que genere y tenga más potencial de conservación y generación de nuevos empleos, ingresos e integración de cadenas productivas en el ámbito estatal aprovechando las ventajas y oportunidades de los mercados nacional y de exportación;
 
-IV. Reorientar el uso del suelo cuando existan niveles altos de erosión o impacto negativo sobre los ecosistemas;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IV. Reorientar el uso del suelo cuando existan niveles altos de erosión o impacto negativo sobre los ecosistemas mediante el uso de sistemas agroforestales o, en su caso, la aplicación de prácticas de restauración y conservación;
 
 V. Incrementar la productividad en regiones con limitantes naturales para la producción, pero con ventajas comparativas que justifiquen la producción bajo condiciones controladas;
 
@@ -1013,7 +1045,9 @@ La Secretaría fomentará un desarrollo productivo, comercial y agropecuario en 
 
 El Ejecutivo Estatal con base en lo dispuesto por las leyes aplicables, establecerá y fortalecerá en coordinación con la Federación, el Sistema Estatal de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria, con la participación del sector público y privado.
 
-Para tal efecto las acciones y programas se orientarán a regular la importación, tránsito y manejo de organismos genéticamente modificados, para evitar la entrada de plagas y enfermedades al Estado, en particular las de interés cuarentenario; a controlar y erradicar las existentes y acreditar en el ámbito estatal y regional la condición sanitaria de la producción agropecuaria.
+> <small>(REFORMADO P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Para tal efecto las acciones y programas se orientarán a inhibir gradualmente la importación, tránsito, manejo y siembra de organismos genéticamente modificados, para evitar la entrada de plagas y enfermedades al Estado, en particular las de interés cuarentenario; a controlar y erradicar las existentes y acreditar en el ámbito estatal y regional la condición sanitaria de la producción agropecuaria.
 
 La Secretaría participará y mantendrá estrecha coordinación con las dependencias y organismos federales y estatales que norman e inciden en la sanidad agropecuaria e inocuidad alimentaria, así como con las organizaciones y agentes de las cadenas agropecuarias, agroindustriales y de otras actividades económicas.
 
@@ -1113,7 +1147,7 @@ El Ejecutivo Estatal en coordinación con la Federación y los distintos agentes
 
 ###### ARTÍCULO 100.
 
-El Ejecutivo Estatal, a través del Sistema Estatal de Información para el Desarrollo Rural Sustentable, integrará y difundirá la información de mercados regionales, nacionales e internacionales, relativos a la oferta y la demanda ,(sic) inventarios existentes, expectativas de producción estatal, nacional e internacional y cotizaciones de precios por producto y calidad a fin de facilitar la comercialización.
+El Ejecutivo Estatal, a través del Sistema Estatal de Información para el Desarrollo Rural Sustentable, integrará y difundirá la información de mercados regionales, nacionales e internacionales, relativos a la oferta y la demanda, inventarios existentes, expectativas de producción estatal, nacional e internacional y cotizaciones de precios por producto y calidad a fin de facilitar la comercialización.
 
 Igualmente, en coordinación con la Federación, mantendrá programas de apoyo y de capacitación para que las organizaciones de productores y comercializadores tengan acceso y desarrollen mercados de físicos y futuros para los productos agropecuarios y forestales.
 
@@ -1164,6 +1198,10 @@ El servicio de aseguramiento que promueva el Gobierno del Estado, procurará inc
 ###### ARTÍCULO 109.
 
 Con el objeto de reducir los índices de siniestralidad y la vulnerabilidad de las unidades productivas ante contingencias climatológicas provocadas por el cambio climático, se establecerán programas de reconversión productiva en las regiones de siniestralidad recurrente y baja productividad.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Los agentes de la sociedad rural podrán realizar las acciones que se admitan en los términos de la presente Ley, de la Ley General de Equilibrio Ecológico y la Protección al Ambiente, Ley General de Vida Silvestre, Ley General de Cambio Climático y de toda la normatividad aplicable sobre el uso, extracción aprovechamiento y apropiación de la biodiversidad, que promuevan la formulación de estrategias y actividades de mitigación y adaptación al cambio climático.
 
 ###### ARTÍCULO 110.
 
@@ -1431,6 +1469,8 @@ La Secretaría, con la participación del Consejo Estatal, propondrá programas 
 
 ### CAPÍTULO XVII. DE LA SEGURIDAD ALIMENTARIA
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 135.
 
 La sustentabilidad será criterio rector fundamental para el fomento a las actividades productivas, a fin de lograr el uso racional de los recursos naturales, su preservación y mejoramiento, al igual que la viabilidad económica de la producción mediante procesos productivos socialmente aceptables.
@@ -1489,7 +1529,7 @@ Los contratos para los efectos del cuidado y la protección de la naturaleza, en
 
 ###### ARTÍCULO 147.
 
-El Ejecutivo Estatal establecerá las medidas para procurar el abasto de alimentos y productos básicos y estratégicos a la población, privilegiando su acceso a los grupos sociales menos favorecidos.
+El Ejecutivo Estatal establecerá las medidas para procurar el abasto suficiente y oportuno de alimentos nutritivos, así como de los productos básicos y estratégicos a la población, privilegiando su acceso a los grupos sociales más vulnerables.
 
 ###### ARTÍCULO 148.
 
@@ -1519,9 +1559,17 @@ V. El establecimiento de compromisos de productividad y calidad por parte de los
 
 VI. La elaboración y difusión de guías sobre prácticas sustentables en las diferentes etapas de las cadenas agroalimentarias;
 
-VII. La instrumentación de programas y acciones de protección del medio ambiente para la evaluación de los costos ambientales derivados de las actividades productivas del sector; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-VIII. La aplicación de medidas de certidumbre económica, financiera y comercial que garanticen el cumplimiento de los programas productivos agroalimentarios.
+VII. La instrumentación de programas y acciones de protección del medio ambiente para la evaluación de los costos ambientales derivados de las actividades productivas del sector;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VIII. La aplicación de medidas de certidumbre económica, financiera y comercial que garanticen el cumplimiento de los programas productivos agroalimentarios; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. La prevención del desperdicio de alimentos.
 
 ### CAPÍTULO I. DE LOS APOYOS ECONÓMICOS
 
@@ -1634,3 +1682,11 @@ Tlalixtac de Cabrera, Centro, Oax., a 09 de Abril del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1594.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
