@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2017-10-20"
+last_updated: "2018-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -201,9 +201,9 @@ XXXIII. Protección de Datos Personales: La garantía que tutela la privacidad d
 
 XXXIV. Prueba de daño: Carga de los sujetos obligados de demostrar que la divulgación de información lesiona el interés jurídicamente protegido y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla, de conformidad con las disposiciones normativas aplicables;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXXV. Reglamento: Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca;
+XXXV. Reglamento: Reglamento Interno del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca;
 
 XXXVI. Servidor público: Los señalados en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
 
@@ -979,6 +979,14 @@ I. Confirmar la clasificación, o
 
 II. Revocar o modificar la clasificación, para conceder el acceso a la información.
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III. Elaborar la versión pública de la información solicitada;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IV. Entregar la información por un mandato de autoridad competente.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 54.
@@ -1529,7 +1537,9 @@ III. Representar al Instituto en los asuntos que el Consejo General determine;
 
 IV. Desempeñar las tareas que el propio Consejo General les encomiende;
 
-V. Llevar a cabo actividades de promoción, difusión e investigación de los derechos de acceso a la información, transparencia, protección de datos personales y archivos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. Llevar a cabo actividades de promoción, difusión e investigación de los derechos de acceso a la información, transparencia, protección de datos personales, archivos y fomento a los principios de gobierno abierto.
 
 VI. Formar parte de las comisiones que acuerde el Consejo General;
 
@@ -1663,7 +1673,7 @@ XVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 #### SECCIÓN CUARTA. DEL CONSEJO CONSULTIVO CIUDADANO
 
-(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 94.
 
@@ -1745,7 +1755,7 @@ XIX.- Las demás que le otorgue esta Ley, la Ley de responsabilidades de los Ser
 
 ###### Artículo 98.
 
-El Consejo Consultivo Ciudadano es un órgano honorífico, de consulta y opinión del Instituto, el cual se integra por cinco Consejeros que gocen de reconocido prestigio en organizaciones de la sociedad civil o la academia, preferentemente con experiencia en las materias de transparencia, acceso a la información pública, protección de datos personales y derechos humanos.
+El Consejo Consultivo Ciudadano es un órgano honorífico, de consulta y opinión del Instituto, el cual se integra por cinco Consejeros que gocen de reconocido prestigio en organizaciones de la sociedad civil o la academia, preferentemente con experiencia en las materias de transparencia, acceso a la información pública, protección de datos personales, derechos humanos, archivos y fomento a los principios de gobierno abierto.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2167,7 +2177,9 @@ En ningún caso será necesario que el particular ratifique el recurso de revisi
 
 El Instituto resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días, contados a partir de la admisión del mismo, en los términos que establezca la ley respectiva, plazo que podrá ampliarse por una sola vez y hasta por un periodo de veinte días.
 
-En el caso de existir tercero interesado se le hará la notificación para que en el plazo a que se refiere la fracción II acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+En el caso de existir tercero interesado se le hará la notificación para que en el plazo a que se refiere la fracción II del artículo 138 acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes.
 
 Excepcionalmente, previa fundamentación y motivación, el Comisionado ponente podrá ampliar los plazos hasta por cinco días más, cuando la importancia y trascendencia del asunto así lo amerite.
 
@@ -2279,7 +2291,9 @@ I. Sea extemporáneo;
 
 II. Se esté tramitando, ante los tribunales competentes, algún recurso o medio de defensa o impugnación interpuesto por el recurrente;
 
-III. No se actualice alguno de los supuestos previstos en el artículo 129 de la presente ley;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III. No se actualice alguno de los supuestos previstos en el artículo 128 de la presente Ley;
 
 IV. No se haya desahogado la prevención en los términos establecidos en la presente ley;
 
@@ -2435,21 +2449,25 @@ En caso de que el Instituto considere que subsiste el incumplimiento total o par
 
 El Instituto, en el ámbito de su competencia, podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio, para asegurar el cumplimiento de sus determinaciones:
 
-(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-I. Amonestación pública, o
+I. Apercibimiento;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-II. Multa, de veinte hasta trescientas veces el salario mínimo general vigente en el Estado.
+II. Amonestación pública, o
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III. Multa, de veinte hasta trescientas veces el valor de la Unidad de Medida y Actualización vigente en el Estado.
 
 (F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 El incumplimiento de los sujetos obligados será difundido en los portales de obligaciones de transparencia del Instituto y considerado en las evaluaciones que realice este.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-En caso de que el incumplimiento de las determinaciones del Instituto implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 206 de la Ley General y el 160 de la presente Ley, deberá denunciar los hechos ante la autoridad competente.
+En caso de que el incumplimiento de las determinaciones del Instituto implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 206 de la Ley General y el 159 de la presente Ley, deberá denunciar los hechos ante la autoridad competente.
 
 (F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2519,11 +2537,11 @@ XVI. Las demás que le señalen las disposiciones normativas aplicables.
 
 Las conductas a que se refiere el artículo anterior serán sancionadas por el Instituto y, en su caso, conforme a su competencia darán vista a la autoridad competente para que imponga o ejecute la sanción.
 
-(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 161.
 
-Las responsabilidades que resulten de los procedimientos administrativos correspondientes derivados de la violación a lo dispuesto por el artículo 147 de esta Ley, son independientes de las del orden civil, penal o de cualquier otro tipo que se puedan derivar de los mismos hechos.
+Las responsabilidades que resulten de los procedimientos administrativos correspondientes derivados de la violación a lo dispuesto por el artículo 159 de esta Ley, son independientes de las del orden civil, penal o de cualquier otro tipo que se puedan derivar de los mismos hechos.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2575,21 +2593,21 @@ Las infracciones a lo previsto en la presente Ley por parte de sujetos obligados
 
 I. El apercibimiento, por única ocasión, para que el sujeto obligado cumpla su obligación de manera inmediata, en los términos previstos en esta Ley, tratándose de los supuestos previstos en las fracciones I, III, V, VI y X del artículo 206 de la Ley General y conforme a lo señalado en esta Ley;
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de veinte a cien días de salario vigente en el Estado;
+Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de veinte a cien veces el valor de la Unidad de Medida y Actualización vigente en el Estado;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-II. Multa de cincuenta a doscientos días de salario vigente en el Estado, en los casos previstos en las fracciones II y IV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley, y
+II. Multa de cincuenta a doscientos veces el valor de la Unidad de Medida y Actualización vigente en el Estado, en los casos previstos en las fracciones II y IV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley, y;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-III. Multa de cien a trescientos días de salario vigente en el Estado, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley.
+III. Multa de cien a trescientos veces el valor de la Unidad de Medida y Actualización vigente en el Estado, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-Se aplicará multa adicional de cinco días de salario vigente en el Estado, por día, a quien persista en las infracciones citadas en los incisos anteriores.
+Se aplicará multa adicional de cinco veces el valor de la Unidad de Medida y Actualización vigente en el Estado, por día, a quien persista en las infracciones citadas en los incisos anteriores.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2694,3 +2712,9 @@ P.O. 20 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 705.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1543.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Estado de Oaxaca.
