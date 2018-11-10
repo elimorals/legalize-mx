@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2017-12-20"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -1834,6 +1834,10 @@ VI. Que se les hubiere condonado algún crédito fiscal.
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 La Secretaría publicará en su página de internet el nombre, denominación o razón social y clave del registro estatal de contribuyentes de aquéllos que se ubiquen en alguno de los supuestos a los que se refiere el párrafo anterior. Los contribuyentes que estuvieran inconformes con la publicación de sus datos, podrán llevar a cabo el procedimiento de aclaración que la Secretaría determine mediante reglas, en el cual podrán aportar las pruebas que a su derecho convenga. La autoridad fiscal deberá resolver el procedimiento en un plazo de tres días, contados a partir del día siguiente al que se reciba la solicitud correspondiente y, en caso de aclararse dicha situación, la Secretaría procederá a eliminar la información publicada que corresponda.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+La reserva señalada en el primer párrafo del presente artículo no se actualizara cuando la información sea pertinente para la prevención de conductas relativas a lavado de activos.
 
 # LIBRO CUARTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -4284,3 +4288,15 @@ P.O. 20 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 780.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1627.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas normas de igual o menor rango que se opongan al presente Decreto, aunque no estén expresamente derogadas.
+
+TERCERO. La Unidad Administrativa encargada de la realización de las atribuciones concedidas a la Secretaría de Finanzas por virtud del presente Decreto deberá iniciar su operación en un plazo no mayor de 90 días hábiles contados a partir de la publicación del mismo, para lo cual deberán asignarse los recursos humanos, materiales, financieros y presupuestales necesarios, para su adecuada operación.
+
+Todos los servidores públicos que presten sus servicios en la referida Unidad deberán someterse a la certificación de control de confianza a la que se refiere la Ley General del Sistema Nacional de Seguridad Pública, para cuyo efecto, la Secretaría de Finanzas podrá celebrar los convenios correspondientes con las entidades facultadas para la realización de dicha certificación.
