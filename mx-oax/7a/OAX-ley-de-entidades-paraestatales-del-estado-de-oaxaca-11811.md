@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2015-12-31"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -91,9 +91,13 @@ Sin menoscabo de lo dispuesto en el párrafo anterior, las entidades paraestatal
 
 Las entidades quedan sujetas al control y vigilancia del Ejecutivo del Estado, en los términos de esta Ley y de las demás disposiciones aplicables, por conducto de las Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría, en el respectivo ámbito de sus atribuciones y por las dependencias de la Administración Pública Centralizada, que al efecto se determinen como Coordinadoras de Sector o aquellas a que les estén sectorizadas.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-Los bienes muebles e inmuebles de las Entidades Paraestatales incluyendo los de las Entidades Auxiliares de colaboración son patrimonio del Estado, y por lo tanto, son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Gobierno del Estado o de su hacienda, sino que tales sentencias se comunicarán al Titular del Poder Ejecutivo, a fin de que si no hubiere partida en el Presupuesto de Egresos, se solicite a la Legislatura del Estado, la expedición de un decreto especial que autorice la erogación para el siguiente ejercicio fiscal. En los mismos términos son inembargables las cuentas bancarias, depósitos en efectivo, todo tipo de valores, fondos y recursos presupuestales y todo derecho de crédito pertenecientes a las Entidades Paraestatales, incluyendo los pertenecientes a las Entidades Auxiliares de Colaboración.
+Los bienes muebles e inmuebles de las Entidades Paraestatales, incluyendo los de las Entidades Auxiliares de colaboración son patrimonio del Estado, y por lo tanto, son inembargables; en consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Gobierno del Estado o de su hacienda. En los mismos términos son inembargables las cuentas bancarias, depósitos en efectivo; todo tipo de valores, fondos y recursos presupuestales y todo derecho de crédito pertenecientes a las Entidades Paraestatales, incluyendo los pertenecientes a las Entidades Auxiliares de Colaboración.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Las obligaciones de cualquier índole, de las entidades paraestatales, que se deriven de resoluciones definitivas emitidas por autoridades judiciales, laborales y administrativas sean federales o estatales, según sea el caso, deberán cubrirse con cargo a sus respectivos presupuestos y de conformidad con las disposiciones generales que establece la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás normatividad que resulte aplicable.
 
 ###### ARTICULO 6o.
 
@@ -235,7 +239,7 @@ XIV. Autorizar la publicación del Reglamento Interno, previa revisión y valida
 
 XV. Las demás que le determine el instrumento de creación de la Entidad Paraestatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 13.
 
@@ -359,7 +363,7 @@ Toda enajenación de bienes muebles que afecte el patrimonio de las entidades pa
 
 La enajenación o afectación de los bienes inmuebles de las entidades paraestatales, sólo podrá hacerse con autorización de la H. Legislatura del Estado, a propuesta del Titular del Poder Ejecutivo; conforme a la legislación aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2009)</small>
 
 ## TITULO II. DE LAS ENTIDADES PARAESTATALES Y DE LAS ENTIDADES AUXILIARES DE COLABORACION
 
@@ -409,7 +413,7 @@ I. Que el Gobierno del Estado, aporte como socio un mínimo del 51% del capital 
 
 II. Que al Gobierno del Estado, le corresponda a (sic) facultad de nombrar al Consejo de Administración o equivalente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 26.
 
@@ -631,7 +635,7 @@ IX. Proponer, para acuerdo del Gobernador del Estado, la organización interna d
 
 X. Las demás que le determinen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 48.
 
@@ -799,7 +803,7 @@ LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 1 DE SEPTIEMBRE DE 2001.
 
@@ -862,3 +866,11 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Órgano de difusión oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones legales de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1586.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 5o DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a este Decreto.
