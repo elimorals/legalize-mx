@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-09-29"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -51,7 +51,9 @@ Las disposiciones de este Código regirán en todo el territorio del Estado de O
 
 La capacidad jurídica es igual para el hombre y la mujer.
 
-Cuando en este Código o en otras Leyes del Estado se use el genérico masculino por regla gramatical, se entenderá que las normas son aplicables tanto al varón como a la mujer, salvo disposición expresa en contrario.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Las normas de este Código y demás Leyes del orden jurídico Estatal, son aplicables tanto a la mujer como al hombre, salvo disposición en contrario.
 
 La protección que concede la Ley a todo varón y a la mujer abarca todos los derechos inherentes a la personalidad y a la dignidad humana.
 
@@ -509,9 +511,9 @@ La Dirección del Registro Civil supervisará las actuaciones de los Oficiales d
 
 Las declaraciones de nacimiento se harán presentando a la niña o niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste al lugar donde se encuentre aquél, acompañando el certificado de nacimiento. El certificado de nacimiento se otorgará de forma gratuita y deberá ser suscrito por médico autorizado para el ejercicio de su profesión, o persona que haya asistido el parto, en el formato expedido para tal efecto por la Secretaría de Salud del Estado. Dicho certificado hace prueba del día, hora, lugar de nacimiento, maternidad y sexo del nacido.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-La Dirección del Registro civil, para garantizar el derecho a la identidad, realizará de manera gratuita el registro de nacimiento de niñas y niños dentro de los ciento ochenta días de ocurrido y la expedición de la primera copia certificada del acta de dicho registro.
+La Dirección del Registro civil, para garantizar el derecho a la identidad, realizará de manera gratuita el registro de nacimiento de niñas y niños dentro de los ciento ochenta días de ocurrido. Los oficiales del Registro Civil tendrán la obligación de expedir sin costo las dos primeras copias certificadas del acta de nacimiento.
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
@@ -683,11 +685,11 @@ Si el reconocimiento se hiciere en Oficialía diferente a aquella en que se leva
 
 ### CAPITULO IV. De las actas de adopción
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 86.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante o los adoptantes, dentro del término de quince días presentarán al Oficial del Registro Civil copia certificada de la misma, a efecto de que se asiente el acta respectiva.
+Dictada la resolución judicial definitiva que autorice la adopción, el Juez dentro de los tres días siguientes a la ejecutoria de ésta, remitirá copia certificada al Oficial del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante o adoptantes, se asiente el acta respectiva.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -1325,13 +1327,15 @@ III. El parentesco de consanguinidad legítimo o natural, sin limitación de gra
 
 IV. El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V. El adulterio habido entre las personas que pretendan contraer matrimonio cuando ese adulterio haya sido judicialmente comprobado;
+V. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
 
 VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
 VII. La fuerza o miedo graves.
 
-En caso de rapto subsiste el impedimento entre el raptor y la raptada mientras ésta no sea restituida a lugar seguro donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+En caso de sustracción subsiste el impedimento entre el sustractor y la persona sustraída mientras ésta no sea restituida a lugar seguro donde libremente pueda manifestar su voluntad;
 
 VIII. La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula, la sífilis, la locura y las enfermedades crónicas e incurables, que sean además, contagiosas o hereditarias;
 
@@ -2133,17 +2137,25 @@ En la resolución se fijarán las bases para actualizar la pensión y las garant
 
 El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 286 Bis.
 
-Procede el divorcio administrativo cuando ambos consortes convengan en divorciarse de mutuo acuerdo, sean mayores de edad, no tengan hijos, y si los hubiere sean mayores de 18 años, la mujer no debe estar embarazada.
+Procede el divorcio administrativo cuando ambos consortes convengan en divorciarse de mutuo acuerdo, no tengan hijos, y si los hubiere sean mayores de 18 años, la mujer no debe estar embarazada.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Reunidos los requisitos anteriores, los cónyuges se presentarán personalmente ante el oficial del Registro Civil del lugar de su domicilio o el del en que contrajeron matrimonio, deberán acreditar que son casados, mayores de edad; además de lo anterior, manifestarán su voluntad de divorciarse.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 El Oficial de Registro Civil, previa identificación de los consortes les hará entrega de la solicitud de divorcio, misma que deberá ser requisitada y devuelta al Oficial del Registro Civil, hecho lo anterior, se citará a los cónyuges para que se presenten a ratificar la solicitud a los quince días posteriores. Si los consortes realizan la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acata (sic) respectiva y haciendo la anotación correspondiente en el libro respectivo.
 
-El divorcio así obtenido no surtirá efectos legales, si se comprueba que los cónyuges tienen hijos menores de 18 años o incapaces, o no han liquidado su sociedad conyugal. La manifestación de hechos falsos será sancionada en términos de lo establecido por el Código Penal.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+El divorcio así obtenido será nulo absolutamente, si se comprueba que los cónyuges tienen hijos menores de 18 años o incapaces, o no han liquidado su sociedad conyugal, ante autoridad judicial o ante notario público. La acción para promover la nulidad la tendrá todo interesado legítimo o el Ministerio Público. En este caso el procedimiento se seguirá en la vía de controversias del orden familiar que prevé el Código de Procedimientos Civiles. La manifestación de hechos falsos será sancionada en términos de lo establecido por el Código Penal.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden solicitar su divorcio por mutuo consentimiento ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
@@ -2211,7 +2223,9 @@ f) Comprobante de domicilio declarado por los cónyuges;
 
 g) En caso de haber contraído matrimonio bajo el régimen de sociedad conyugal legal, convenio de liquidación de la sociedad conyugal legal;
 
-h) Identificación oficial; y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+h) Identificación oficial o equivalente en caso de minoría de edad;
 
 i) Ratificar la solicitud por comparecencia dentro de un término de dos días posteriores a la fecha de presentación de la misma.
 
@@ -2553,7 +2567,7 @@ En los casos en que los que ejerzan la patria potestad gocen de la mitad del usu
 
 Cesa la obligación de dar alimentos:
 
-I. Cuando el que la tiene carece de medios para cumplirla;
+I. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
 
 II. Cuando el alimentario deja de necesitar los alimentos;
 
@@ -2679,11 +2693,9 @@ I.- Los nacidos después de ciento ochenta días contados desde que comenzó el 
 
 II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida en común entre el concubino y la concubina.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
-
 ###### Artículo 338.
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al cónyuge o al concubino en su caso, tener acceso carnal con su cónyuge o con su concubina, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+(DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -2895,7 +2907,19 @@ Para que el hijo goce del derecho que le concede el artículo que precede, los p
 
 ###### Artículo 388.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido y por sentencia ejecutoriada se haya declarado que no es hijo suyo.
+El hijo o hija biológica de un hombre casado o una mujer casada podrá ser reconocido como hijo o hija por persona distinta del marido o mujer, aun cuando éstos no lo hayan desconocido, si presenta cualquiera de los siguientes documentos:
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I. Prueba pericial en genética molecular del ácido desoxirribonucleico o ADN, en la que resulte la compatibilidad genética entre el menor a registrar y quien se atribuya la paternidad o maternidad;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+II. Constancia municipal de cohabitación con un mínimo de un año ininterrumpido anterior a la fecha de nacimiento del menor a registrar.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+III. Sentencia ejecutoriada.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -2987,9 +3011,13 @@ Se exceptúa de lo dispuesto en este artículo, el caso de reconocimiento del hi
 
 El Oficial del Registro Civil, el Juez de Primera Instancia en su caso, o el Notario que consientan en la violación del artículo que preceda, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro por un término que no baje de dos ni exceda de cinco años.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 387.
 
-Cualquiera de los padres podrá reconocer al hijo natural nacido antes del matrimonio de aquéllos; y el marido podrá reconocer al habido durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso de la esposa.
+El padre o la madre podrán reconocer al hijo o hija nacidos antes o fuera del matrimonio de aquéllos; y el marido podrá reconocer al habido durante éste; pero no tendrá derecho de llevarlo a vivir al domicilio conyugal, si no es con el consentimiento expreso de la cónyuge.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 389.
 
@@ -3081,7 +3109,7 @@ III. A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 403.
 
@@ -3249,7 +3277,9 @@ La adopción plena es irrevocable.
 
 ###### Artículo 425.
 
-La patria potestad es el conjunto de deberes que la sociedad impone a los progenitores para atender la crianza, la protección y la educación de sus hijos e hijas menores de edad y favorecer el pleno desarrollo de sus potencialidades. Es de orden público y se ejerce atendiendo al interés superior de la infancia e implica un respeto mutuo entre progenitores e hijos.
+La patria potestad es el conjunto de deberes que la sociedad impone a los progenitores para atender la crianza, la protección y la educación de sus hijos e hijas menores de edad y favorecer el desarrollo integral de sus potencialidades. Es de orden público y se ejerce atendiendo al interés superior de la infancia e implica un respeto mutuo entre progenitores e hijos.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 Los hijos, cualquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
 
@@ -3323,11 +3353,11 @@ Solamente por falta o impedimento de todos los llamados preferentemente, entrar�
 
 Mientras estuviere el hijo bajo la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos, o decreto de autoridad competente.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 436.
 
-A las personas que tienen al menor bajo su patria potestad incumbe la obligación de educarlo convenientemente.
+A las personas que tienen al menor bajo su patria potestad incumbe la obligación de educarlo convenientemente y procurar su desarrollo integral.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
@@ -4953,9 +4983,13 @@ IV. Tratándose de familias campesinas, el equipo agrícola: considerándose com
 
 V. Tratándose de familias obreras, el equipo de trabajo, considerándose como tal la maquinaria, los útiles, las herramientas y en general toda clase de utensilios propios para el ejercicio del arte u oficio a que la familia se dedique y que también personalmente utilicen los miembros de ella;
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VI. Tratándose de familias que se dediquen al comercio: el pequeño comercio o industria; y
+
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 1997)</small>
 
-VI. Los bienes que se consideren instrumentos de trabajo, fuente de ingresos de la que depende la manutención de la familia;
+VII. Los bienes que se consideren instrumentos de trabajo, fuente de ingresos de la que depende la manutención de la familia;
 
 ###### Artículo 737.
 
@@ -4973,9 +5007,11 @@ Los beneficiarios de los bienes afectos al patrimonio de la familia serán repre
 
 El representante tendrá también la administración de dichos bienes.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 740.
 
-Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen alguno, con excepción de las responsabilidades fiscales que sobre ellos pesen y de las modalidades a que pudieran llegar a estar sujetos con relación al interés público.
+Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen alguno. Podrán ser transmitidos a título de herencia, sin necesidad de extinguir el citado patrimonio y con la misma afectación de destino, haciéndose la anotación marginal correspondiente en el Instituto de la Función Registral.
 
 ###### Artículo 741.
 
@@ -4995,21 +5031,23 @@ El valor máximo de los bienes afectos al patrimonio familiar, conforme al Artí
 
 El patrimonio de familia podrá constituirse:
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-I. Por un cónyuge, o en su defecto por el otro cónyuge; y en defecto de ambos por el ascendiente que ejerza la patria potestad.
+I. Por cualquiera de los ascendientes que ejerza la patria potestad;
 
-II. Por los cónyuges sobre sus bienes respectivos sin que, tratándose de la mujer, necesite ésta autorización del marido;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+II. Por los cónyuges sobre sus bienes sin que, necesite autorización uno del otro.
 
 III. Por el pariente que suministre alimentos a sus ascendientes, descendientes o colaterales siempre que vivan formando una familia;
 
 IV. Por el tutor cuando administre bienes pertenecientes al incapacitado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 745.
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, en los términos del Artículo 753 de este Código, designando con toda precisión y de manera que puedan ser inscritos en el Instituto de la Función Registral los bienes que van a quedar afectados.
+El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito ante las oficinas del Instituto de la Función Registral del Estado de Oaxaca o en su caso ante la Registraduría correspondiente del lugar en donde se ubique el bien, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
 
 Además comprobará lo siguiente:
 
@@ -5023,11 +5061,11 @@ IV. Que son propiedad del constituyente los bienes destinados al patrimonio, y q
 
 V. Que el valor de los bienes que van a constituir el patrimonio, no excede del fijado en el artículo 743.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 746.
 
-Si se llenan las condiciones exigidas en el Artículo anterior, el Juez, seguido el procedimiento, previsto en el artículo 753 de este Código, aprobará la constitución del patrimonio de la familia.
+Si se llenan las condiciones exigidas en el Artículo anterior, el Registrador, aprobará la constitución del patrimonio de la familia y hará la inscripción correspondiente en el Instituto de la Función Registral en tratándose de la Ciudad de Oaxaca y en las Registradurías correspondientes a la ubicación del bien.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 1997)</small>
 
@@ -5045,9 +5083,11 @@ En la constitución de este patrimonio se observará, en lo conducente, lo dispu
 
 La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 750.
 
-Constituido el patrimonio de la familia, ésta tiene obligacón (sic) de habitar la casa y de cultiver (sic) la parcela; si no lo hiciere, el Ministerio Público puede ocurrir a la autoridad competente para que haga la declaración a que se refiere el artículo que sigue.
+Constituido el patrimonio de la familia, ésta tiene obligación de habitar la casa, de cultivar la parcela, y de explotar el comercio o industria; si no lo hiciere, el Ministerio Público puede ocurrir a la autoridad competente para que haga la declaración a que se refiere el artículo que sigue.
 
 ###### Artículo 751.
 
@@ -5073,11 +5113,15 @@ V. Cuando por causa de utilidad pública o social se expropien los bienes que lo
 
 VI. (DEROGADA, P.O. 31 DE MAYO DE 1997)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 753.
 
-La declaración de constitución, de modificación o extinción del patrimonio familiar, se promoverá ante el Juez competente, por la vía de jurisdicción voluntaria, y en caso de controversia, se estará a lo dispuesto en el Título Decimoséptimo, Capítulo Único, de las controversias del orden familiar, del Código de Procedimientos Civiles para el Estado de Oaxaca y la comunicará al Instituto de la Función Registral, para que se haga la inscripción, anotación o cancelación que corresponda.
+La declaración de modificación o extinción del patrimonio de la familia la hará el Juez competente por la vía de jurisdicción voluntaria y la comunicará al Instituto de la Función Registral para que se hagan las anotaciones o cancelaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+En caso de controversia, se estará a lo dispuesto en el Título Decimoséptimo, Capítulo Único, de las controversias del orden familiar, del Código de Procedimientos Civiles para el Estado de Oaxaca y la comunicará al Instituto de la Función Registral, para los efectos legales que corresponda.
 
 Cuando el patrimonio se extinga por la causa prevista en la fracción V del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial debiendo hacerse en el Registro la cancelación que proceda.
 
@@ -5085,9 +5129,11 @@ Cuando el patrimonio se extinga por la causa prevista en la fracción V del art�
 
 Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasan a sus herederos si aquél ha muerto. En el caso de expropiación, el precio que se obtenga será percibido por el dueño de los bienes que fueron materia de la misma.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 755.
 
-El Ministerio Público será oído en los procedimientos sobre extinción y reducción del patrimonio de la familia.
+El Ministerio Público será oído en los procedimientos judiciales sobre extinción y reducción del patrimonio de la familia.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
@@ -7323,9 +7369,9 @@ Son incapaces de heredar por testamento o por intestado:
 
 I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trata, o a los padres, hijos, cónyuge, concubino, concubina o hermanos de ella;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos, cónyuge, concubino, concubina, acusación de delito que merezca pena capital o de prisión aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge, su concubino, su concubina o su hermano, a no ser que ese acto hay sido preciso para que el acusador salvara su vida, su honra o la de sus descendientes, ascendientes, hermanos, cónyuge o concubino o concubina;
+II. El que con dolo haya presentado denuncia o querella, aun cuando aquélla sea fundada, contra el autor de la sucesión, sus ascendientes, descendientes, hermanos, cónyuge, concubino, concubina por delito que merezca pena de prisión.
 
 III. El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
@@ -10132,6 +10178,12 @@ Lo dispuesto en los dos artículos anteriores es aplicable a los tutores, respec
 ###### Artículo 1794.
 
 Ni los padres ni los tutores tienen obligación de responder de los daños y perjuicios que causen los incapacitados sujetos a su cuidado y vigilancia, si probaren que les ha sido imposible evitarlos. Esta imposibilidad no resulta de la mera circunstancia de haber sucedido el hecho fuera de su presencia, si aparece que ellos no han ejercido suficiente vigilancia sobre los incapacitados.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 1794 Bis.
+
+La violencia familiar es un hecho ilícito. Los que ejerzan violencia familiar, tienen obligación de responder de los daños y perjuicios causados por sus actos.
 
 ###### Artículo 1795.
 
@@ -16542,3 +16594,55 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1552.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1540.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1580.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1581.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 740, LAS FRACCIONES I Y II DEL ARTÍCULO 744; EL PRIMER PÁRRAFO DEL ARTÍCULO 745, LOS ARTÍCULOS 746, 750, EL PRIMER PÁRRAFO DEL ARTÍCULO 753 Y EL ARTÍCULO 755; SE ADICIONA LA FRACCIÓN VI RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 736, EL PÁRRAFO SEGUNDO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 753 TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1585.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1589.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1617.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1618.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1677.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
