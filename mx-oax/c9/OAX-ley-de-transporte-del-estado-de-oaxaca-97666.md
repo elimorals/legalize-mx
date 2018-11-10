@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transporte-del-estado-de-oaxaca-97666"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2018-09-29"
+last_updated: "2018-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPORTE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -431,13 +431,19 @@ b) De personal.- El que se presta para el traslado de personas desde puntos pree
 
 Los vehículos del servicio público de pasajeros en su modalidad colectivo tendrán una antigüedad máxima de diez años.
 
-El servicio público de transporte individual en su modalidad de taxi se prestará con vehículos cuya antigüedad no exceda de cinco años, mientras que las modalidades de mototaxi y bicitaxi serán de tres años.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+El servicio público de transporte en modalidad de taxi se prestará con vehículos cuya antigüedad no exceda de ocho años, mientras que las modalidades de mototaxi y bicitaxi serán de tres años.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 26.
 
-Los concesionarios que obtengan una concesión, deberán iniciar la prestación del servicio con vehículos cuyo modelo no exceda de cinco años a la fecha del otorgamiento de la concesión o permiso correspondiente.
+Los concesionarios que obtengan una concesión de transporte en modalidad de taxi, deberán iniciar la prestación del servicio con vehículos cuyo modelo no exceda de ocho años de antigüedad a la fecha del otorgamiento de la concesión o permiso correspondiente.
 
-No obstante lo dispuesto en el artículo que antecede, la Secretaría podrá autorizar el uso de vehículos por periodos de un año, siempre que de la revisión física y mecánica que se practique, se determine que se encuentran en condiciones para continuar prestando el servicio. El uso de un vehículo no podrá prorrogarse por más de tres periodos.
+No obstante lo dispuesto en el artículo que antecede, los concesionarios, deberán cumplir con la revisión, física y mecánica del vehículo utilizado como taxi, para determinar que se encuentran en óptimas condiciones, esta revisión se hará anualmente, hasta cumplir el periodo máximo de antigüedad del vehículo. La Secretaría podrá autorizar el uso de vehículos por periodos de un año más, siempre que de la revisión física y mecánica que se practique, se determine que se encuentran en condiciones para continuar prestando el servicio. El uso de un vehículo no podrá prorrogarse por más de tres periodos.
+
+En caso, que en la revisión física y mecánica que se le practiqué al vehículo, se determine que no se encuentra en condiciones para continuar prestando el servicio, ese vehículo será retirado de circulación. Si el concesionario hace caso omiso de lo estipulado por este párrafo, se le sancionará, a juicio de la Secretaría, con lo estipulado en el Capítulo Primero del Título Cuarto, de la presente Ley.
 
 ###### ARTÍCULO 27.
 
@@ -494,6 +500,10 @@ El servicio público de transporte de pasajeros se prestará con vehículos cerr
 La Secretaría establecerá las especificaciones y capacidad de los vehículos para prestar el servicio público de transporte colectivo, en función de la modalidad de servicio, la ruta o zona y demanda de los usuarios.
 
 En el servicio público de transporte urbano, metropolitano, suburbano y foráneo de pasajeros, está prohibido realizar adaptaciones a las características de fabricación de los vehículos para obtener una mayor capacidad de pasaje.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+En el interior de los vehículos destinados al transporte colectivo urbano, metropolitano, suburbano y foráneo deberán adaptarse dispositivos de seguridad consistentes en cámaras de video y botón de pánico, y para los vehículos individuales en la modalidad de taxi dentro del territorio de un Municipio o de una zona conurbada, el mecanismo de Sistema de Posicionamiento Global (GPS) y botón de pánico a disposición del público usuario para casos de urgencia o riesgo inminente; todos los dispositivos señalados estarán enlazados al Centro de Control, Comando y Comunicación (C4), de la Secretaría de Seguridad Pública del Estado, a efecto de monitorear cualquier ilícito que pueda cometerse en contra de los pasajeros o el conductor. La Secretaría de Seguridad Pública establecerá las especificaciones de los dispositivos de seguridad de conformidad a la norma técnica aplicable que deberán cumplir los dispositivos de cámaras de video, botones de pánico y Sistema de Posicionamiento Global (GPS), y en conjunto con la Secretaría de Movilidad verificará en forma permanente el cumplimiento de esta medida, a través de los operativos que ordene.
 
 ###### ARTÍCULO 38.
 
@@ -585,9 +595,13 @@ Los prestadores del servicio de transporte de carga en general podrán organizar
 
 Los vehículos que formen parte de un sitio, podrán portar su diseño corporativo, previa autorización de la Secretaría.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 54.
 
-El servicio de transporte de carga de materiales, se prestará con vehículos de carrocería y chasis apropiados para soportar el peso de la mercancía.
+El servicio de transporte de carga de materiales, se prestará con vehículos de carrocería y chasis apropiados para soportar el peso de la mercancía; su antigüedad no podrá excederse de diez años; una vez, transcurrido este periodo; la Secretaría practicará anualmente, una revisión física y mecánica del vehículo, la cual, determinará, si se encuentra en condiciones óptimas para continuar proporcionando el servicio; en caso contrario, será retirado de circulación.
+
+La Secretaría solo podrá autorizar el cambio de unidades siempre que se cumpla con las características, especificaciones técnicas y de seguridad, que para la modalidad del servicio señale el Reglamento y las normas emitidas en la materia.
 
 ###### ARTÍCULO 55.
 
@@ -965,9 +979,17 @@ XIII. Por la comisión dolosa de algún delito por parte del concesionario o per
 
 XIV. Por intervención definitiva de la concesión;
 
-XV. Por infracciones a la presente Ley, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XVI. Las demás que señale la presente Ley y su Reglamento.
+XV. Por no instalar las cámaras de video, y demás dispositivos de seguridad, al interior del vehículo de transporte público, a los que se refiere el párrafo cuatro del artículo 37 de esta Ley;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Por infracciones a la presente Ley y su Reglamento, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Las demás que señale la presente Ley y su Reglamento.
 
 ###### ARTÍCULO 101.
 
@@ -1369,6 +1391,10 @@ Corresponde a la Secretaría el registro de los vehículos con residencia en el 
 
 Se considera como constancia de registro de un vehículo las placas de circulación y demás documentación expedida por la Secretaría, relativa al registro vehicular, la cual es propiedad del Gobierno del Estado y la persona propietaria del vehículo se considera depositaria de las placas y tarjeta de circulación.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Cuando por causas imputables a la Secretaria, no se expida en el momento de realizar el pago de derechos los documentos a que hace referencia el primer párrafo de este artículo, la Secretaria expedirá sin demora y sin costo alguno un permiso provisional para circular en todas las modalidades, el cual tendrá vigencia hasta en tanto se entregue la documentación faltante.
+
 ###### ARTÍCULO 147.
 
 La Secretaría expedirá placas de circulación para los siguientes tipos de vehículos:
@@ -1658,3 +1684,39 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- Se establece un plazo de sesenta días hábiles posteriores a la publicación del presente Decreto, para que se realicen las adecuaciones necesarias al Reglamento de la presente Ley.
 
 TERCERO.- Se establece un plazo de ciento ochenta días hábiles posteriores a la publicación del presente Decreto, para que la Secretaría implemente un programa de regularización de renovación de las concesiones vencidas.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1578 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1633.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se establece un plazo de 30 días hábiles posteriores a la publicación del presente Decreto, para que se realicen las adecuaciones necesarias al Reglamento de la presente Ley.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1634- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. La Secretaría de Seguridad Pública establecerá las especificaciones técnicas idóneas de conformidad a la norma técnica aplicable sobre los dispositivos de seguridad que deberán ser instalados en las unidades a que hace referencia el artículo 37 de la citada Ley, y verificará en conjunto con la Secretaría de Movilidad su estricto cumplimiento en lo relativo al transporte colectivo urbano, metropolitano, suburbano y foráneo existentes en la entidad, en un lapso no mayor a 12 meses a partir de la entrada en vigor del presente Decreto, y de 24 meses para las modalidades de vehículos individuales en la modalidad de taxi dentro del territorio de un Municipio o de una zona conurbada existentes en la entidad.
+
+CUARTO. Las Secretarías de Movilidad y de Seguridad Pública, instrumentarán todas las medidas a fin de que los concesionarios y permisionarios implementen de forma prioritaria los dispositivos de seguridad en las unidades de todas las modalidades del transporte público, en un lapso no mayor a 6 meses a partir de la entrada en vigor del presente Decreto, en los municipios con más de 10 mil habitantes de acuerdo al censo poblacional actualizado.
+
+QUINTO. El desacato a cualquiera de las disposiciones contenidas en los TRANSITORIOS TERCERO y CUARTO, hará al responsable acreedor a la sanción referida en el artículo 100 de la mencionada Ley, estando la Secretaría de Movilidad obligada de manera inmediata, a la aplicación de las mismas.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1557.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 25 Y 26 DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se establece un plazo de treinta días hábiles posteriores a la publicación del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento de la presente Ley.
