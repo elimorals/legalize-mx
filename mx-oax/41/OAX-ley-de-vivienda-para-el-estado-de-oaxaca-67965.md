@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-vivienda-para-el-estado-de-oaxaca-67965"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2016-02-29"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -33,7 +33,7 @@ QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN APROBAR LO SIGUIENTE:
 
 DECRETO NUMERO 836
 
-LA SEXAGEGIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
+LA SEXAGÉSIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, APRUEBA:
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
@@ -61,9 +61,25 @@ VII. El impulso y apoyo a la construcción de la infraestructura de servicios, p
 
 VIII. La promoción y apoyo de las acciones solidarias de la población, que se organicen para desarrollar vivienda. Así como el impulso a la autoconstrucción organizada y ordenada de todas las actividades relacionadas con este fin.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 2.
 
-Las familias del Estado de Oaxaca tienen derecho a disfrutar de una vivienda digna y decorosa, entendida ésta como el lugar seguro, salubre y habitable que permita la integración social y humana, que cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad y legítima posesión.
+El Derecho al acceso a la vivienda es un derecho humano fundamental, el cual se deberá reconocer con base en los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales de los que el Estado Mexicano sea parte. La presente Ley reconoce que el Derecho a una Vivienda digna y adecuada deberá cumplir con los siguientes elementos:
+
+I. Seguridad y certeza jurídica de la propiedad o legítima posesión;
+
+II. Disponibilidad de infraestructura, equipamientos y servicios básicos y espacios públicos en el entorno próximo a la vivienda;
+
+III. Habitabilidad de la vivienda, referida a la suficiencia de espacio respecto al número de ocupantes, que permita el disfrute de la intimidad, la integración y el desarrollo personal, familiar y comunitario; las condiciones higiénicas para evitar riesgos a la salud; seguridad estructural; así como adecuadas condiciones constructivas;
+
+IV. Asequibilidad, entendida como la posibilidad equitativa de acceso al derecho a una vivienda digna y adecuada para todas las personas, sin distingos de alguna especie;
+
+V. Lugar, considerando que exista proximidad urbana a bienes y servicios de salud y educación; cercanía al sitio de empleo. Ocupación de lugares no contaminados o cercanos a fuentes de contaminación, o en su caso, vulnerables a algún riesgo.
+
+VI. Adecuación cultural, referida a la calidad de las soluciones arquitectónicas y urbanísticas, con base en el respeto a la diversidad cultural, medioambiental y geográfica, y;
+
+VII. Seguridad
 
 ###### Artículo 3.
 
@@ -123,7 +139,9 @@ XXVI. Sistema: El Sistema Estatal de Información;
 
 XXVII. Suelo para Vivienda: Conjunto de terrenos física y legalmente susceptibles de ser destinados de forma predominantemente al uso habitacional, conforme a las disposiciones aplicables;
 
-XXVIII. Vivienda digna y decorosa: la que cumpla con las disposiciones en materia de asentamientos humanos y construcción, habitabilidad y salubridad, que cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXVIII. Vivienda digna y decorosa: la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, salubridad, cuente con espacios habitables y auxiliares, garantice la accesibilidad universal, particularmente para personas con discapacidad, que cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
 XXIX. Vivienda de interés social: aquélla que sea adquirida o susceptible de ser adquirida por trabajadores de bajos ingresos, sujetos a subsidio federal, estatal o municipal para adquisición de vivienda. En el caso de no existir un programa de subsidios, se considerará aquélla cuyo monto al término de su edificación, no exceda del valor que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
 
@@ -505,7 +523,9 @@ XI. Promover medidas para disminuir los costos de la vivienda;
 
 XII. Fortalecer la seguridad jurídica inmobiliaria, mediante la aplicación de medidas de mejora regulatoria, simplificación de trámites y reducción de los costos que éstos generan;
 
-XIII. Fomentar la calidad de la vivienda;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XIII.- Fomentar la calidad de la vivienda y fijar los criterios mínimos de los espacios habitables y auxiliares, cumpliendo las disposiciones de planeación, ordenamiento y desarrollo sustentable de los centros urbanos expedidos por la Secretaría de Desarrollo Agrario, Territorial y Urbano, e identificar las zonas de riesgo para la construcción de viviendas y conjuntos habitacionales, de acuerdo al registro del Atlas Nacional de riesgos emitido por la Coordinación Nacional de Protección Civil y el Centro Nacional de Prevención de Desastres;
 
 XIV. Considerar las propuestas que formulen los sectores privado y social;
 
@@ -1051,7 +1071,7 @@ Son causas de recuperación de viviendas a favor de la Comisión Estatal de Vivi
 
 I. El incumplimiento de las cláusulas del contrato;
 
-II. Que el beneficiario sea propietario o se encuentre en regularización de la tenencia de la tierra a su favor, de otra vivienda , en el momento en que se le otorgue la que solicitó, habiendo quedado probado que se condujo con falsedad al proporcionar sus datos mediante su solicitud; y
+II. Que el beneficiario sea propietario o se encuentre en regularización de la tenencia de la tierra a su favor, de otra vivienda, en el momento en que se le otorgue la que solicitó, habiendo quedado probado que se condujo con falsedad al proporcionar sus datos mediante su solicitud; y
 
 III. Cuando el beneficiario ceda sus derechos sobre la vivienda a un tercero, sin autorización expresa de la dependencia o entidad que proporcione el apoyo y más aún cuando la persona a la cual se le haya cedido, no cumpla con los requisitos requeridos para gozar del beneficio.
 
@@ -1152,3 +1172,9 @@ CUARTO. Los Presidentes de los Órganos de Gobierno, dentro de los veinte días 
 QUINTO. El Consejo de Administración, en un plazo no mayor a noventa días hábiles posteriores a la publicación del presente Decreto, deberá expedir o, en su caso, reformar el reglamento interno, manuales y demás instrumentos administrativos de Caminos y Aeropistas de Oaxaca.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1638.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
