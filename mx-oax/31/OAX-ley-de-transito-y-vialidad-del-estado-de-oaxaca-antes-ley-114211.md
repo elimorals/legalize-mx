@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2017-10-27"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -95,11 +95,21 @@ XIV. Secretaría: A la Secretaría de Seguridad Pública del Estado;
 
 XV. Tránsito: Al movimiento de vehículos o peatones, que se desplazan sobre una vialidad;
 
-XVI. Vialidad: Al conjunto de servicios pertenecientes a las vías públicas, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XVII. Vehículo: Todo medio de transporte, de personas, cargas o mixto, motorizado, de tracción humana o animal, autorizado por el Estado para circular en la vía pública, y
+XVI. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes. Establecida por el Instituto Nacional de Estadística y Geografía;
 
-XVIII. Vía Pública: Todo camino, calle o carretera destinada para el tránsito de peatones y vehículos.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Vialidad: Al conjunto de Servicios pertenecientes a las vías públicas, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Vehículo: Todo medio de transporte, de personas, carga o mixto, motorizado, de tracción humana o animal, autorizado por el Estado para circular en vía pública, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Vía Pública: Todo espacio de dominio público y de uso común destinado al tránsito de personas y vehículos.
 
 ###### Artículo 4.
 
@@ -250,6 +260,10 @@ XVI. En caso de ausencia temporal, designar al servidor público de la Direcció
 XVII. Las que le confieran el Titular del Poder Ejecutivo y el Secretario, y le señalen esta Ley, su Reglamento y demás disposiciones normativas aplicables.
 
 El Director para el cumplimiento de sus atribuciones, contará con las áreas administrativas, y el personal técnico y administrativo necesario para la debida atención y el mejor desempeño de sus atribuciones o facultades, de acuerdo con la estructura orgánica de la Secretaría, presupuesto autorizado y el Reglamento Interno de la Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+El Director General de la Policía Vial Estatal, para el mejor despacho de las atribuciones conferidas en la presente Ley y demás disposiciones normativas, podrá delegarlas a servidores públicos subalternos, salvo aquellas que por disposición legal deba ejercerlas directamente.
 
 ###### Artículo 16.
 
@@ -595,9 +609,15 @@ La vuelta a la derecha siempre será continua, excepto en los casos en donde exi
 
 Para proceder a la liberación de un vehículo, tratándose de personas físicas, deberán acreditar con documentos auténticos y vigentes la propiedad del vehículo y exhibir los documentos que subsanen el motivo que originó la infracción y haber cubierto la multa correspondiente; además de lo anterior, en el caso de personas morales deberán acreditar la personería de quién se ostente como representante legal o facultado para la realización de este trámite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 51.
 
-Los vehículos que circulan por las vías públicas y que no se encuentren registrados en otra Entidad Federativa, deberán registrarse en el Registro Público Vehicular.
+Los vehículos que circulan por las vías públicas del Estado de Oaxaca y que no se encuentren registrados en otra Entidad Federativa, deberán registrarse en el Registro Público Vehicular y portar la Constancia de Inscripción, en el parabrisas de la unidad de motor.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+A quien no cumpla con dicha disposición, se le impondrá una multa de 6 a 10 UMAS.
 
 ###### Artículo 52.
 
@@ -927,7 +947,9 @@ Las violaciones a las disposiciones de esta Ley y su Reglamento, se sancionarán
 
 I. Amonestación;
 
-II. Multa;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+II. Multa de 3 a 150 UMA (sic).
 
 III. Suspensión temporal de la licencia de manejo;
 
@@ -1058,3 +1080,13 @@ P.O. 27 DE OCTUBRE DE 2017.
 PRIMERO. Se deroga toda disposición legal o reglamentaria, de carácter estatal o municipal que se oponga al presente Decreto.
 
 SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1579- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La disposición normativa prevista en el párrafo segundo, del artículo 51, entrará en vigor seis meses después de la publicación del presente Decreto, tiempo en el que la Secretaría de Seguridad Pública en el ámbito de su competencia, deberá de realizar un programa para la difusión y concientización del procedimiento de regularización para la inscripción de los vehículos que no estén registrados.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
