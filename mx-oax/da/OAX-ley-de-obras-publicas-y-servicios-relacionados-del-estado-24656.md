@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2018-06-23"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
+[N DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL EN EL DECRETO NÚMERO 1462 Y DE ACUERDO CON LOS ARTÍCULOS 53, FRACCIONES III, V Y VI, PRIMER PÁRRAFO Y 79, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LAS PARTES NO VETADAS, POR LO QUE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA, EN CONSECUENCIA PUBLICA EL DECRETO NÚMERO 1462 EN EL P.O. DE 10 DE NOVIEMBRE DE 2018.]
+
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -131,6 +133,16 @@ Cuando por las condiciones especiales de la obra pública se requiera la interve
 
 El Gobierno del Estado y los Ayuntamientos en el ámbito de sus competencias serán responsables de la vigilancia, planeación, programación y ejecución de las obras que emprenda.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 7 Bis.
+
+Se prohíbe que en las placas inaugurales o de identificación de las obras públicas y los servicios relacionados con las mismas, que realicen las dependencias estatales, municipales, los organismos descentralizados o las empresas de participación estatal, se incluyan los nombres de servidores públicos o familiares que se encuentra (sic) en ejercicio de sus funciones hasta después de 5 años de concluir su encargo y no haber sido sancionado por actos de corrupción, dando preferencia en dichas placas inaugurales o de identificación al escudo del Estado o de los municipios.
+
+En dichas placas, deberá asentarse únicamente que las obras públicas y los servicios relacionados con las mismas fueron realizados por el gobierno estatal o municipal en turno, con el esfuerzo del pueblo, y que se entregan para beneficio de éste en fecha determinada.
+
+Es obligación de los funcionarios públicos adoptar y vigilar el cumplimiento de lo dispuesto en el presente artículo; en caso contrario, se aplicará lo establecido por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+
 ###### Artículo 8.
 
 Las Dependencias, Entidades o los Ayuntamientos encargados de realizar obras públicas, deberán formular y mantener actualizado:
@@ -235,7 +247,9 @@ IV.- Los avances tecnológicos preferentemente nacionales, aplicables en funció
 
 V.- Los requerimientos de áreas, predios y uso de suelo acorde a lo establecido por la Ley de Desarrollo Urbano para el Estado de Oaxaca, y demás Legislación aplicable;
 
-VI.- La utilización de mano de obra de la localidad y materiales propios de la región cuando sea posible, así como de productos, equipos y procedimientos de tecnología nacional; y,
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+VI.- La contratación preferentes (sic) de contratistas locales; así como, la utilización de mano de obra de la localidad y materiales propios de la región cuando sea posible, así como de productos, equipos y procedimientos de tecnología nacional; y,
 
 VII.- Las medidas necesarias para la preservación y restauración de la obra pública, para el caso de que esta se deteriore, contemplando para ello de ser posible la utilización de tecnología nacional, preferentemente la existente en el Estado.
 
@@ -341,6 +355,10 @@ II.- Por invitación restringida a cuando menos tres Contratistas; y,
 
 III.- Por adjudicación directa.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+En el caso de las fracciones II y III se estará a lo dispuesto en el tercer párrafo del artículo 46 de la presente Ley.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 26.
@@ -395,7 +413,9 @@ X. Las demás que establezca el Reglamento respectivo.
 
 Artículo 26 D.- Los Contratistas registrados en el padrón deberán comunicar en cualquier tiempo a la Secretaría o al Ayuntamiento según sea el caso las modificaciones relativas a datos generales, capacidad técnica o económica, o en su actividad cuando tales circunstancias puedan implicar cambios que afecten su clasificación o localización.
 
-La Secretaría, las Dependencias, Entidades y Ayuntamientos deberán invitar a los contratistas, integrantes del Padrón, a los procedimientos de excepción a la licitación abierta, de acuerdo con la clasificación en que estén registrados, sin perjuicio de que a falta de Contratistas o por así convenir a los intereses del contratante, se pueda invitar a personas que no estén registradas, las que en caso de que se les adjudique el contrato, se deberán inscribir al Padrón antes de celebrar el respectivo contrato de obra o de servicios relacionados con la misma.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+La Secretaría, las Dependencias, Entidades y Ayuntamientos deberán invitar a los contratistas, integrantes del Padrón, a los procedimientos de excepción, a la licitación abierta, de acuerdo con la clasificación en que estén registrados, privilegiando a los contratistas del Estado y en caso de no hacerlo, deberá justificar su determinación, sin perjuicio de que a falta de Contratistas o por así convenir a los intereses del contratante, se pueda invitar a personas que no estén registradas, las que en caso de que se les adjudique el contrato, se deberán inscribir al Padrón antes de celebrar el respectivo contrato de obra o de servicios relacionados con la misma.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -467,7 +487,9 @@ Las licitaciones públicas podrán ser:
 
 I.- Estatales, cuando por el monto de la obra así proceda, la publicación de la convocatoria en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en el Estado;
 
-II.- Nacionales, cuando por el monto de la obra así proceda, la publicación se haga en el Diario Oficial de la Federación y en un diario de mayor circulación en el país; e,
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+II.- Nacionales, cuando previa investigación de mercado, que realice la Dependencia, Entidad o Ayuntamiento convocante, se advierta que los contratistas Estatales, no cuentan con la capacidad técnica y económica para la ejecución de la obra pública de que se trate y también cuando por el monto de la obra así proceda, la publicación se haga en el Diario Oficial de la Federación y en un diario de mayor circulación en el país; e,
 
 III.- Internacionales, cuando por el monto y características técnicas de las obras así proceda, se convocará a contratistas nacionales y extranjeros, publicándose la convocatoria en el Diario Oficial de la Federación y en un diario de circulación nacional. Solamente se realizarán licitaciones de carácter internacional, cuando previa investigación de mercado, que realice la Dependencia, Entidad o Ayuntamiento convocante, se advierta que los contratistas nacionales no cuentan con la capacidad técnica y económica para la ejecución de la obra pública de que se trate; cuando sea conveniente en términos del precio, o bien, cuando sea obligatorio conforme a lo establecido en los Tratados Internacionales o se refiere a obra pública financiada con créditos externos otorgados al Gobierno del Estado.
 
@@ -726,6 +748,10 @@ III.- Cuando las proposiciones recibidas rebasen el monto presupuestal asignado 
 En los supuestos y con sujeción a las formalidades previstas en los artículos 43, 44 y 45 de esta Ley, las Dependencias, Entidades y Ayuntamientos, podrán optar por contratar las obras que en las propias disposiciones se señalan, sin llevar a cabo el procedimiento de licitación pública previsto por el artículo 25 fracción I de la presente Ley.
 
 La opción que las Dependencias, Entidades y Ayuntamientos apliquen en los términos del párrafo anterior, deberá fundarse según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o Municipios; para tal efecto el titular de la Dependencia, Entidad o el Presidente Municipal para el caso de los Ayuntamientos, emitirá un acuerdo en el que deberán acreditar que la obra de que se trata encuadra en alguno de los supuestos previstos en los artículos 43 y 45 de esta Ley, expresando de entre los criterios mencionados aquellos en que se funda el ejercicio de la opción.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Para este tipo de contrataciones se invitará a contratistas y sólo para el caso de que las personas físicas y/o morales invitadas no cuenten con capacidad técnica y económica requerida para la ejecución de la obra, se invitará a contratistas foráneos inscritos debidamente en el padrón, debiendo en todo caso el titular de la dependencia y/o ayuntamiento, emitir un acuerdo justificado de su determinación.
 
 ###### Artículo 43.
 
@@ -1472,3 +1498,21 @@ P.O. 23 DE JUNIO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. La Secretaría de la Contraloría y Transparencia Gubernamental, deberá modificar su Reglamento Interno, a efecto de instrumentar lo dispuesto en el presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS "PARTES NO VETADAS.- DEL DECRETO NÚMERO 1462, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor rango, que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1546.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
