@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-contra-el-ruido-en-el-estado-de-oaxaca-9112"
 country: "mx"
 rank: "ley"
 publication_date: "1968-07-13"
-last_updated: "1968-07-13"
+last_updated: "2018-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE PROTECCION CONTRA EL RUIDO EN EL ESTADO DE OAXACA
 
-LEY DE PROTECCION CONTRA EL RUIDO EN EL ESTADO DE OAXACA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DE PROTECCIÓN CONTRA EL RUIDO EN EL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 13 de julio de 1968.
 
@@ -172,3 +174,33 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 SUFRAGIO EFECTIVO NO REELECCION. EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 28 de junio de 1968. El Secretario General del Despacho, LIC. CUTBERTO CHAGOYA.- Rúbrica.
 
 Al C....
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1640.- MEDIANTE EL CUAL SE EXPIDE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se abroga la LEY DEL EQUILIBRIO ECOLÓGICO DEL ESTADO DE OAXACA, aprobada mediante el DECRETO No. 276, por la QUINCUAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, publicada en la Sección Segunda del Periódico Oficial del Gobierno del Estado de Oaxaca, el sábado 10 de octubre de 1998.
+
+CUARTO.- Se abroga la LEY DE PROTECCIÓN CONTRA EL RUIDO EN EL ESTADO, aprobada mediante DECRETO No. 205, por la CUADRAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, publicada en el Periódico Oficial (sic) Estado el trece de julio de mil novecientos sesenta y ocho.
+
+QUINTO.- Corresponde al Gobernador del Estado, por conducto del titular de la Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable, emitir el Reglamento de la presente Ley, en un plazo de noventa días naturales posteriores a la publicación del presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEXTO.- Los ayuntamientos de la Entidad deberán emitir en un plazo no mayor a un año los Reglamentos y demás disposiciones de observancia general a que se refiere esta Ley, hasta en tanto, se aplicarán en lo conducente, los Reglamentos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+SÉPTIMO.- Las solicitudes de licencias, permisos, autorizaciones o concesiones presentadas ante la Secretaría o los ayuntamientos con anterioridad a la entrada en vigor de esta Ley podrán, a elección de los interesados, seguir su trámite y resolverse de conformidad con las disposiciones vigentes al momento de su presentación, o bien, mediante la Licencia Ambiental Integral prevista en esta Ley, en cuyo caso, deberán cumplir con los requisitos que para ello se establece.
+
+OCTAVO.- Los procedimientos de inspección y los recursos administrativos, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+NOVENO.- Las personas físicas o morales que se encuentren realizando obras o actividades al amparo de licencias, permisos, autorizaciones o concesiones otorgados por la autoridad ambiental federal cuya competencia para otorgarlos se haya transferido al Estado por virtud de las reformas a la Ley General del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Oaxaca, tendrán un plazo de noventa días contados a partir de la entrada en vigor de los reglamentos correspondientes, para regularizar dichas licencias, permisos, autorizaciones o concesiones ante la Secretaría o los ayuntamientos respectivos, en los términos dispuestos en este ordenamiento.
+
+DÉCIMO.- En tanto entre en funciones la Procuraduría de Protección al Ambiente del Estado de Oaxaca, las mismas estarán a cargo de la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca.
+
+DÉCIMO PRIMERO.- El Congreso del Estado de Oaxaca, en un plazo no mayor a noventa días naturales contados a partir de la publicación del presente decreto realizará las adecuaciones necesarias a las leyes secundarias para lograr el cumplimiento pleno de esta Ley.
+
+DÉCIMO SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
