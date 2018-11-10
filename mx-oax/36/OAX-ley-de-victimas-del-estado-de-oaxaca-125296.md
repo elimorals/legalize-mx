@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-victimas-del-estado-de-oaxaca-125296"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-09"
-last_updated: "2017-12-09"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE VICTIMAS DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EL PRESENTE DECRETO DE REFORMA ES UNA REIMPRESIÓN DEL PUBLICADO EN EL PERIÓDICO OFICIAL NO. 45 OCTAVA SECCIÓN DE FECHA 10 DE NOVIEMBRE DE 2018.]</small>
+
 LEY DE VÍCTIMAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de diciembre de 2017.
 
@@ -649,6 +651,10 @@ La información y asesoría deberán brindarse en forma gratuita y por profesion
 
 La Comisión Ejecutiva Estatal como responsable de la creación y gestión del Registro Estatal de Víctimas garantizará que el acceso de las víctimas al Registro se haga de manera efectiva, rápida y diferencial con el fin de permitirles disfrutar de las medidas de asistencia y atención establecidos en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Respecto a las víctimas indirectas que sean menores de edad y hayan quedado en orfandad como consecuencia de la comisión del delito de homicidio o feminicidio, se realizará un registro especial que formará parte del Registro Estatal de Víctimas.
+
 ###### Artículo 45.
 
 Conforme a los lineamientos desarrollados por la Comisión Ejecutiva Estatal, las secretarías, dependencias, organismos y entidades del sector salud, educación, desarrollo social y las demás obligadas, así como aquellos Municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente Ley y la Ley General de Víctimas y en particular el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, afromexicanos, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
@@ -1155,9 +1161,11 @@ La elección de los miembros de la Asamblea Consultiva deberá garantizar el res
 
 Las funciones de la Asamblea Consultiva estarán previstas en el Reglamento de esta Ley, las personas integrantes durarán en su cargo cuatro años, y podrán ser ratificadas por un período igual, en los términos de lo dispuesto en dicho ordenamiento.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 92.
 
-La Comisión Ejecutiva Estatal estará a cargo de un Comisionado Ejecutivo elegido por el voto de las dos terceras partes de los miembros presentes del Honorable Congreso del Estado, de la terna que enviará el Ejecutivo Estatal, previa consulta pública a los colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia.
+La Comisión Ejecutiva Estatal estará a cargo de un Comisionado Ejecutivo elegido por el voto de las dos terceras partes de los miembros presentes del Honorable Congreso del Estado, de la terna que enviará el Ejecutivo Estatal, previa consulta a los colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia a través de una convocatoria emitida por el Ejecutivo.
 
 ###### Artículo 93.
 
@@ -2260,3 +2268,33 @@ DÉCIMO PRIMERO. La Fiscalía General del Estado, deberá generar los protocolos
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de Septiembre de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Hilda Graciela Pérez Luis, Secretaria.- Dip. Leslie Vibsania Mendoza Zavaleta, Secretaria.- Dip. María Mercedes Rojas Saldaña, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 20 de Octubre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1583.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 44 DE LA LEY DE VÍCTIMAS DEL ESTADO DE ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1631. MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas normas de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Por única ocasión la Comisión Ejecutiva Estatal estará a cargo de un Comisionado Ejecutivo elegido por el voto de las dos terceras partes de los miembros presentes del Honorable Congreso del Estado, de la terna que enviará el Ejecutivo Estatal, previa convocatoria que emita el Secretario General de Gobierno, misma que se publicará en el Periódico Oficial del Gobierno del Estado y en dos diarios de circulación en la Entidad.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. TRANSITORIOS PUBLICADOS EN LA SEGUNDA SECCIÓN DEL P.O. 10 DE NOVIEMBRE DE 2018 DEL “DECRETO NÚM 1631.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92 DE LA LEY DE VÍCTIMAS DEL ESTADO DE OAXACA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas normas de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Por única ocasión la Comisión Ejecutiva Estatal estará a cargo de un Comisionado Ejecutivo elegido por el voto de las dos terceras partes de los miembros presentes del Honorable Congreso del Estado, de la terna que enviará el Ejecutivo Estatal, previa convocatoria que emita el Secretario General de Gobierno, misma que se publicará en el Periódico Oficial del Gobierno del Estado y en dos diarios de circulación en la Entidad.
