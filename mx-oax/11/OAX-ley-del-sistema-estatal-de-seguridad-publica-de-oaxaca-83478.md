@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2018-04-05"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -43,15 +45,11 @@ LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA.
 
 La presente Ley es de orden público e interés social, de observancia general en el Estado de Oaxaca, y tiene por objeto establecer y desarrollar las bases de aplicación del Sistema Estatal de Seguridad Pública, y de coordinación entre el Estado y los Municipios y regular la función de seguridad pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 2.
 
 La seguridad pública es una función a cargo del Estado y de los Municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, y comprende la prevención especial y general de los delitos, la investigación y la persecución para hacerla efectiva, la sanción de las infracciones administrativas, y la reinserción social de las personas, en términos de esta Ley, en las respectivas competencias establecidas en las Constituciones Federal y Estatal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -59,23 +57,17 @@ La seguridad pública es una función a cargo del Estado y de los Municipios, qu
 
 La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instituciones responsables de la prisión preventiva, ejecución de penas y medidas de seguridad de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 4.
 
 Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en las Constituciones Federal y Estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 5.
 
 Corresponde al Estado la implementación, supervisión, desarrollo y coordinación del Sistema Estatal de Seguridad Pública de Oaxaca, en un marco de respeto a las atribuciones de los Municipios, para lo cual desarrollará políticas en materia de prevención del delito con carácter integral, sobre las causas y factores que generan éste y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y protección de las víctimas y grupos vulnerables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -115,13 +107,9 @@ XII. Consejos Regionales, a los Consejos Regionales de Seguridad Pública;
 
 XIII. Instancias Intermunicipales, a las Instancias Intermunicipales de Seguridad pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
-
-XIV. Instituciones Policiales, a la Policía Estatal; a los Cuerpos de Vigilancia y Custodia de Establecimientos Penitenciarios; de Detención Preventiva; del Órgano Desconcentrado Policía auxiliar, bancaria, industrial y comercial de la Secretaria de Seguridad pública; el Heroico Cuerpo de Bomberos; así como, las demás corporaciones policiales de la Secretaria de Seguridad Pública; la Agencia Estatal de Investigaciones de la Procuraduría General de Justicia del Estado de Oaxaca y las policías municipales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIV. Instituciones Policiales, a la Policía Estatal; Cuerpos de Seguridad, Vigilancia y Custodia Penitenciaria, Guías Técnicos en los Centros Especializados de Internamiento; de Detención Preventiva; del Órgano Desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaría de Seguridad Pública (PABIC); el Heroico Cuerpo de Bomberos; así como las demás corporaciones policiales de la Secretaria de Seguridad Pública; la Agencia Estatal de Investigaciones de la Fiscalía General del Estado de Oaxaca y las policías municipales.
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -161,8 +149,6 @@ XXIX. Sistema Nacional, al Sistema Nacional de Seguridad Pública, y
 
 XXX. Sistema de Información, al Sistema Estatal de Información Policial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XXXI. Instituciones de Seguridad Pública, A las Instituciones Policiales, de Procuración de Justicia y Dependencias encargadas de la Seguridad Pública a Nivel Estatal y Municipal.
@@ -170,8 +156,6 @@ XXXI. Instituciones de Seguridad Pública, A las Instituciones Policiales, de Pr
 ###### Artículo 8.
 
 Para el cumplimiento de los fines de la seguridad pública, las Instituciones de Seguridad Pública Estatales se coordinarán a efecto de:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -191,29 +175,33 @@ VII. Coadyuvar en la protección y desarrollo de las acciones necesarias para la
 
 VIII. Garantizar la protección, vigilancia e integridad de los espacios, inmuebles, muebles y demás bienes destinados al funcionamiento, mantenimiento, y operación de las actividades del Estado de Oaxaca y de los Municipios;
 
-IX. Establecer los lineamientos para la formulación de políticas públicas tendentes a prevenir la comisión de delitos y faltas administrativas;
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-X. Realizar acciones y operativos conjuntos;
+IX. Generar acciones de coordinación con los municipios, entidades federativas y federación en el ámbito de sus competencias, para la búsqueda y localización de menores desaparecidos o secuestrados, con la participación de medios de comunicación, prestadores de servicios de telecomunicaciones, organizaciones no gubernamentales y ciudadanía en general;
 
-XI. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
+X. Establecer los lineamientos para la formulación de políticas públicas tendientes a prevenir la comisión de delitos y faltas administrativas;
 
-XII. Fijar las bases para la integración, organización, actuación, funcionamiento y profesionalización de las Instituciones de Seguridad Pública;
+XI. Realizar acciones y operativos conjuntos;
 
-XIII. Homologar los sistemas disciplinarios, así como los reconocimientos, estímulos y recompensas;
+XII. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
 
-XIV. Determinar las sanciones a que se hagan acreedores los miembros de las Instituciones Policiales del Estado y establecer la integración de instancias colegiadas para conocer y resolver, las controversias que se susciten con relación a los procedimientos del Servicio de Carrera y del Régimen Disciplinario;
+XIII. Fijar las bases para la integración, organización, actuación, funcionamiento profesionalización de las Instituciones de Seguridad Pública;
 
-XV. Regular la selección, ingreso, capacitación, profesionalización, promoción, estímulos, permanencia, baja y certificación de los Integrantes de las Instituciones Policiales;
+XIV. Homologar los sistemas disciplinarios, así como los reconocimientos, estímulos y recompensas;
 
-XVI. El establecimiento de sistemas de información criminalístico, de personal de las Instituciones Policiales, de detenciones y de armamento y equipo;
+XV. Determinar las sanciones a que se hagan acreedores los miembros de las Instituciones Policiales del Estado y establecer la integración de instancias colegiadas para conocer y resolver, las controversias que se susciten con relación a los procedimientos del Servicio de Carrera y del Régimen Disciplinario;
 
-XVII. Mantener actualizados todos los registros del Sistema de Información Estatal;
+XVI. Regular la selección, ingreso, capacitación, profesionalización, promoción, estímulos, permanencia, baja y certificación de los Integrantes de las Instituciones Policiales;
 
-XVIII. Crear los mecanismos para vincular la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las Instituciones Policiales;
+XVII. El establecimiento de sistemas de información criminalístico (sic), de personal de las Instituciones Policiales, de detenciones y de armamento y equipo;
 
-XIX. Regular y controlar la función del servicio de seguridad pública y sus auxiliares, y
+XVIII. Mantener actualizados todos los registros del Sistema de Información Estatal;
 
-XX. Las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
+XIX. Crear los mecanismos para vincular la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las Instituciones Policiales;
+
+XX. Regular y controlar la función del servicio de seguridad pública y sus auxiliares, y
+
+XXI. Las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
 
 ###### Artículo 9.
 
@@ -221,11 +209,9 @@ A falta de previsión expresa en la presente Ley, se estará a las siguientes re
 
 I. Respecto del apoyo y coordinación interinstitucional de los tres órdenes de gobierno, se estará a lo dispuesto en la Ley General, y a las resoluciones y acuerdos emitidos por el Consejo Nacional de Seguridad Pública y el Consejo Estatal de Seguridad Pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
-
-II. En materia de procedimientos administrativos de carrera policial y del régimen disciplinario, la Ley de Justicia Administrativa para el Estado de Oaxaca, y en su defecto el Código de Procedimientos Civiles del Estado de Oaxaca
+II. En materia de procedimientos administrativos de carrera policial y del régimen disciplinario la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y en su defecto el Código de Procedimientos Civiles para el Estado de Oaxaca.
 
 III. Los principios generales del derecho.
 
@@ -337,8 +323,6 @@ I. Establecer los instrumentos y políticas públicas integrales, sistemáticas,
 
 II. Emitir acuerdos y resoluciones generales, para la organización y funcionamiento del Sistema Estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 III. Promover la implementación de políticas en materia de atención a las víctimas del delito y grupos vulnerables, salvaguardando sus derechos humanos y garantías;
@@ -384,8 +368,6 @@ XXI. Las demás que se establezcan en otras disposiciones normativas y las que s
 El Consejo Estatal podrá funcionar en pleno o en las comisiones previstas en esta Ley. El Pleno se reunirá en forma ordinaria por lo menos cada tres meses y en forma extraordinaria cuando lo solicite el Presidente del Consejo, o a petición de las dos terceras partes de sus integrantes, siendo convocados en ambos casos, por conducto del Secretario Ejecutivo, anexando el orden del día.
 
 El quórum para las reuniones del Consejo Estatal se integrará con la mitad más uno de sus integrantes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -807,8 +789,6 @@ Los cargos en el Consejo Municipal serán de carácter honoríficos.
 
 El Gobernador del Estado en materia de seguridad pública, tiene las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 I. Definir las políticas de seguridad pública en el Estado y emitir las directrices necesarias para la aplicación de las políticas y estrategias del Sistema, a fin de mantener el orden, preservar la paz, la tranquilidad y la seguridad del Estado, así como salvaguardar la integridad de las personas sus derechos humanos y garantías.
@@ -818,8 +798,6 @@ II. Ejercer el mando de las instituciones de seguridad pública y el de las poli
 III. Implementar, supervisar y desarrollar los sistemas de seguridad pública estatal en los Municipios, que garanticen el orden y la paz públicos en sus demarcaciones territoriales en los términos de la Constitución Federal, la Constitución Particular y la presente Ley;
 
 IV. Celebrar convenios y acuerdos con la Federación, las Entidades Federativas y Municipios, para mejorar la función de seguridad pública y operación del Sistema Estatal de Seguridad Pública, conforme a la Ley General, la Constitución Particular, la Ley Orgánica del Poder Ejecutivo del Estado, esta Ley, y demás disposiciones jurídicas aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -844,8 +822,6 @@ XIII. Analizar con los presidentes de los Consejos Regionales y Municipales la p
 XIV. Presentar al Consejo Nacional las propuestas de programas, estrategias y acciones que se acuerden en el Consejo Estatal;
 
 XV. Implementar las medidas necesarias para hacer efectiva la coordinación en materia de seguridad pública, así como la ejecución de las políticas y acciones adoptadas por el Consejo Estatal, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -911,29 +887,27 @@ XXIV. Administrar el sistema estatal penitenciario; así como organizar y dirigi
 
 XXV. Establecer y operar los procedimientos de administración, seguridad, control y de apoyo logístico del sistema estatal penitenciario, definiendo esquemas de supervisión, registro y verificación, así como estrategias de intervención y de apoyo táctico operativo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XXVI. Promover métodos para la reintegración social y familiar de los niños, niñas y adolescentes sujetos al Sistema de Justicia para Adolescentes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XXVII. Organizar y operar la Unidad de Medidas Cautelares, en términos de lo dispuesto por el Código Nacional de Procedimientos Penales y demás normatividad aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XXVIII. Ordenar y administrar a las instituciones policiales de la Secretaria, para que proporcionen servicios a la autoridad judicial y ministerial correspondiente, cuando éstas los soliciten, en las diversas etapas del procedimiento penal acusatorio, de conformidad con la normatividad aplicable
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
+XXIX. Prevenir y sancionar las faltas administrativas que determinen las leyes, reglamentos y demás disposiciones normativas aplicables;
 
-XXIX. Las demás que con este carácter le confieran otras disposiciones aplicables o le encomiende el Gobernador del Estado.
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXX. Ejecutar y supervisar que la planeación, programación; acciones, proyectos y políticas públicas de la Secretaría sean con perspectiva de género, y
+
+XXXI. Las demás que con ése carácter le confieran otras disposiciones aplicables o le encomiende el Gobernador del Estado.
 
 El Secretario podrá delegar las facultades necesarias, con excepción de las enumeradas en las fracciones I a V, de la VIII a la XVI, XIX y XXIV, a favor de los servidores públicos correspondientes; asimismo, podrá adscribir orgánicamente las unidades administrativas y órganos administrativos desconcentrados que se establezcan en su reglamento, a través de los acuerdos correspondientes, que deberán publicarse en el Periódico Oficial del Estado.
 
@@ -957,13 +931,9 @@ III. Subsecretaría de Prevención y Reinserción Social;
 
 a) Dirección General de Prevención del Delito, y Participación Ciudadana;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 b) Dirección General de Reinserción Social; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -993,15 +963,11 @@ Asimismo, para el ejercicio de sus funciones, la Secretaría contará con subsec
 
 Corresponde a la Policía Estatal:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 I. Salvaguardar la integridad y bienes de las personas, sus derechos humanos y garantías. Así como prevenir la comisión de delitos, en los caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal y en todo el territorio del Estado en el ámbito de su competencia, así como en las instalaciones estratégicas del Gobierno del Estado, de conformidad con las disposiciones legales aplicables;
 
 II. Prevenir las faltas administrativas que determinen las leyes, reglamentos y demás disposiciones aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1021,23 +987,17 @@ IX. Realizar bajo la conducción jurídica del Ministerio Público, la investiga
 
 X. Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XI. Participar en la investigación ministerial, bajo la dirección y mando del Ministerio Público, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos. Así como practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Publico;
 
 XII. Efectuar las detenciones conforme lo dispuesto en el artículo 16 de la Constitución Federal y 7 de la Constitución Particular, conforme a la legislación procesal penal aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XIII. Poner a disposición de las autoridades competentes, sin demora, a personas y bienes en los casos en que por motivo de sus funciones practique alguna detención o aseguramiento de bienes, observando en todo momento el cumplimiento de los plazos legales;
 
 XIV. Inscribir de inmediato la detención que realice en el Registro Administrativo de Detenciones del Centro Nacional de Información, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1061,8 +1021,6 @@ d) Preservar los indicios y elementos de prueba que la víctima u ofendido aport
 
 e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
 
 f) Cuidar la inalterabilidad de la cadena de custodia y demás procedimientos en que participe conforme al Código Nacional de Procedimientos Penales.
@@ -1071,15 +1029,11 @@ XX. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeria
 
 XXI. Entrevistar a las personas que pudieran aportar información o elementos de prueba para la investigación en caso de flagrancia o por mandato del Ministerio Público, en términos de las disposiciones aplicables. De las entrevistas que se practiquen se dejará constancia y se utilizarán meramente como un registro de la investigación, que para tener valor probatorio, deberán ser ratificadas ante la autoridad ministerial o judicial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XXII. Reunir la información que pueda ser útil al Ministerio Público que conozca del asunto, para esclarecimiento del hecho delictuoso y la probable responsabilidad del imputado, conforme a las instrucciones de aquél;
 
 XXIII. Incorporar a las bases de datos criminalísticas y de personal de la Secretaría y del Sistema Estatal de Información sobre Seguridad Pública, la información que pueda ser útil en la investigación de los delitos, y utilizar su contenido para el desempeño de sus atribuciones, sin afectar el derecho de las personas sobre sus datos personales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1089,21 +1043,15 @@ XXV. Solicitar a través del Ministerio Público, previa autorización del Juez 
 
 XXVI. Coordinarse con las autoridades Federales, Estatales y Municipales, para el intercambio de información contenidas en documentos, bases de datos y todo tipo de sistemas de información, útil para el desempeño de sus funciones, en los términos establecidos por el Sistema Nacional de Seguridad Pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XXVII. Participar, en el ámbito de su competencia, en operativos conjuntos con otras autoridades Federales, Estatales o Municipales, de conformidad con lo dispuesto en la legislación respectiva;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XXVIII. Colaborar, cuando sea formalmente requerida, de conformidad con los ordenamientos constitucionales y legales aplicables, con las autoridades municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente; prevenir la comisión de delitos, así como garantizar, mantener y restablecer la paz y el orden público;
 
 XXIX. Obtener, analizar y procesar información, así como realizar las acciones que, conforme a las disposiciones aplicables, resulten necesarias para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes respectivas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1129,15 +1077,11 @@ El Comisionado será el titular de la Policía Estatal y llevará a cabo las atr
 
 ## TÍTULO QUINTO. DE LA SEGURIDAD PÚBLICA EN LOS MUNICIPIOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 48.
 
 Los Municipios que forman parte integrante del Estado de Oaxaca participarán en el desarrollo de la seguridad pública, en los términos previstos por el artículo 21 de la Constitución Federal y 21 de la Constitución Particular.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1167,8 +1111,6 @@ El servidor público que tenga a su cargo el mando directo de la fuerza pública
 
 El Gobernador del Estado, será informado frecuentemente por los Presidentes Municipales sobre la situación que guarda la seguridad pública en sus respectivos Municipios, sin perjuicio de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 I. Mantener el orden público y garantizar la seguridad de las personas, sus bienes y derechos humanos, podrá instruir a los Presidentes Municipales sobre:
@@ -1189,13 +1131,9 @@ Son facultades de la Policía Preventiva Municipal en materia de seguridad públ
 
 I. Mantener la tranquilidad, la seguridad y el orden público en su jurisdicción territorial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 II. Prevenir la comisión de delitos e infracciones administrativas, y proteger la integridad de las personas, sus bienes y derechos humanos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1287,8 +1225,6 @@ XIII. Las demás atribuciones específicas que se establezcan en la Ley y demás
 
 Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los Integrantes de las Instituciones de Seguridad Pública se sujetarán a las siguientes obligaciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 I. Conducirse siempre con dedicación, disciplina, apego al orden jurídico, respeto a los derechos humanos y sus garantías reconocidos en la Constitución Federal y la Constitución Particular;
@@ -1298,8 +1234,6 @@ II. Preservar la secrecía de los asuntos que por razón del desempeño de su fu
 III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
 
 IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1347,13 +1281,9 @@ XXV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos
 
 XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1363,13 +1293,9 @@ XXVIII. Los uniformes de los integrantes de instituciones de Seguridad Pública 
 
 XXIX. Las demás que establezcan las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna, con respeto a los derechos humanos y sus garantías.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1447,13 +1373,9 @@ XVII. Las demás que establezcan las disposiciones legales aplicables.
 
 El Servicio de Carrera en la Procuraduría, comprenderá lo relativo al Ministerio Público y a los peritos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 La Agencia Estatal de Investigaciones se sujetará a lo dispuesto en esta Ley, para las Instituciones Policiales en materia de carrera policial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1507,8 +1429,6 @@ Los aspirantes a ingresar a la Procuraduría, deberán cumplir, con los requisit
 
 A. Ministerio Público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
@@ -1528,8 +1448,6 @@ VII. Aprobar el curso de ingreso, formación inicial o básica que establezca la
 VIII. Presentar y aprobar las evaluaciones de control de confianza.
 
 B. Peritos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1699,8 +1617,6 @@ Los Integrantes de las Instituciones Policiales podrán ser separados de su carg
 
 Tal circunstancia será inscrita en el Registro Nacional de Personal de Seguridad Pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 86.
@@ -1715,7 +1631,9 @@ III. Investigación: que tendrá por objeto la recolección, clasificación, reg
 
 IV. Reacción: que tendrá por objeto garantizar, mantener y restablecer la paz y el orden públicos, además de ejecutar los mandamientos ministeriales y judiciales;
 
-V. Custodia: que implica la protección de los internos de los centros de reinserción social e internamiento para adolescentes, así como de los intervinientes en el proceso penal y, de requerirse el traslado y la vigilancia de los imputados, del personal de los tribunales y sus instalaciones, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. Custodia: que implica la protección de las personas privadas de la libertad en los Centros Penitenciarios y en los Centros Especializados de Internamiento, así como de los intervinientes en el proceso penal y, de requerirse el traslado y la vigilancia de los imputados, del personal de los tribunales y sus instalaciones, y
 
 VI. Las que le señalen las demás disposiciones normativas aplicables.
 
@@ -1737,15 +1655,11 @@ La unidad de policía encargada de la investigación ubicada dentro de la estruc
 
 Las unidades operativas de investigación tendrán entre otras, las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito, llevar a cabo las diligencias de investigación urgentes e informar de inmediato al Ministerio Público, para que continúe con la misma bajo su conducción y mando o en su defecto, dejen de actuar si así lo determina.
 
 II. Verificar la información de las denuncias que le sean presentadas cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informará al Ministerio Público para que, en su caso, le dé trámite legal o la deseche de plano;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1758,8 +1672,6 @@ V. Participar en la investigación de los delitos, en la detención de personas 
 VI. Registrar de inmediato la detención en términos de las disposiciones aplicables, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
 
 VII. Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1778,8 +1690,6 @@ a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones
 b) Procurar que reciban atención médica y psicológica cuando sea necesaria;
 
 c) Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -1934,8 +1844,6 @@ La permanencia es el resultado del cumplimiento constante de los requisitos esta
 Son requisitos de ingreso y permanencia en las Instituciones Policiales, los siguientes:
 
 A. De Ingreso:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -2111,8 +2019,6 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 La actuación de los Integrantes de las Instituciones Policiales se regirá por los principios previstos en el artículo 21 de la Constitución Federal, en concordancia con el diverso 21 de la Constitución Particular, y 4 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ### CAPITULO IV. DE LOS DERECHOS Y DEBERES DE LOS INTEGRANTES DE LAS INSTITUCIONES POLICIALES
@@ -2139,8 +2045,6 @@ II. Suspensión, y
 
 III. Remoción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 113.
@@ -2151,19 +2055,17 @@ Si la autoridad jurisdiccional resolviere que la remoción fue injustificada, el
 
 Los correctivos disciplinarios, serán aplicados por el superior inmediato en la línea o cadena de mando respectiva, mediante mecanismos ágiles y sencillos, sin que esto implique arbitrariedad en el ejercicio de esta facultad, por lo que su contravención podrá ser objeto de sanción en términos de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 115.
 
 Se podrá decretar como medida cautelar la suspensión preventiva de funciones al elemento que se encuentre sujeto a investigación administrativa o penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio pudiera afectar las instituciones Policiales Estatales y Municipales, y a la comunidad en general, decretada por la autoridad que conozca del procedimiento interno, bajo la única condicionante de que la orden que la decrete se encuentre debidamente fundada y motivada.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 116.
 
-La suspensión preventiva subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente, de conformidad a lo establecido en la Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La suspensión preventiva subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente, de conformidad a lo establecido en la Ley, salvo que la Comisión de Honor y Justica (sic), determine que dicha medida ya no resulta conveniente en la continuación del procedimiento.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -2210,8 +2112,6 @@ XVI. Gozar de un trato digno y decoroso por parte de sus subalternos y superiore
 XVII. Recibir el equipo de trabajo necesario y sin costo alguno;
 
 XVIII. Recibir atención médica de urgencia sin costo alguno, cuando sean lesionados con motivo o durante el ejercicio de sus funciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -2261,8 +2161,6 @@ X. Observar un trato respetuoso con todas las personas, debiendo abstenerse de t
 
 XI. Actuar con integridad y dignidad, absteniéndose de todo acto de corrupción u oponerse a ésta resueltamente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XII. Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables; en caso de que realice detenciones, deberán dar aviso administrativo de inmediato al Centro Nacional de Información, a través del Informe Policial Homologado;
@@ -2291,13 +2189,9 @@ XXIII. Abstenerse de disponer de los bienes asegurados para beneficio propio o d
 
 XXIV. Informar al superior jerárquico de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
 XXV. Cumplir y hacer cumplir con la debida diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -2306,8 +2200,6 @@ XXVI. Fomentar la disciplina, responsabilidad, decisión, integridad, institucio
 XXVII. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones;
 
 XXVIII. Abstenerse conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -2349,15 +2241,11 @@ Siempre que se use la fuerza pública se hará de manera racional, congruente, o
 
 El Cuerpo Especializado de la Policía Estatal, desarrollará labores de búsqueda, recolección, análisis, evaluación e interpretación de la información para su utilización e intercambio, que permita la planeación de operativos para prevenir conductas delictivas o detener en flagrancia a presuntos responsables en la comisión de conductas ilícitas, debiendo hacer del conocimiento del Ministerio Público, hechos que pudieran ser constitutivos de delito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 En las actividades de prevención del delito y para la obtención de información, el Cuerpo Especializado de la Policía Estatal, podrá valerse de la recepción de denuncias anónimas, disponiendo de estrategias para su publicidad y promoción, así como de las técnicas especiales de investigación que se consideren necesarias.
 
 Para los fines anteriores, las Instituciones Policiales, podrán instalar y operar en lugares públicos, así como en vehículos oficiales, cámaras de circuito cerrado de televisión o fijas, con propósitos de vigilancia, control y localización de personas y bienes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -2377,11 +2265,11 @@ VI. Intervención Mínima, debe tener carácter de última ratio, sólo se utili
 
 ### CAPÍTULO VI. DE LA ATENCIÓN A VÍCTIMAS DEL DELITO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
 
 Artículo 122 BIS. Las instituciones policiales podrán otorgar atención inmediata o especializada a las víctimas del delito, según sea el caso. Para tales efectos, su actuación se regirá de acuerdo a los lineamientos normativos que expida la Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 121.
 
@@ -2391,157 +2279,217 @@ Las Instituciones Policiales del Estado, recabarán la información necesaria pa
 
 En las labores diarias de vigilancia se buscará una distribución racional de la fuerza policial y que los elementos asignados puedan cubrir todo el territorio estatal en forma adecuada y eficiente, que focalice las necesidades específicas que cada región o sector policial plantea, a fin de desarrollar una capacidad de reacción expedita y se mantenga una relación cercana con los habitantes de modo que inspiren confianza y puedan reconocer las preocupaciones de los mismos, además de propiciar su colaboración.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 123.
 
-El Consejo Estatal de Desarrollo Policial es la instancia colegiada encargada de normar, conocer y resolver toda controversia que se suscite en relación con los procedimientos del Servicio Profesional, el Régimen Disciplinario de la Policía Estatal y su Profesionalización.
+La Comisión del Servicio Profesional de Carrera, es el órgano colegiado encargado de determinar y ejecutar las disposiciones administrativas relacionadas con los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción, estímulos y reconocimiento, que comprende el Servicio de Carrera Policial, además será la instancia encargada en el ámbito de su competencia, de que se cumplan con los fines de la Carrera Policial.
 
-### CAPITULO I. GENERALIDADES
+La Comisión del Servicio Profesional de Carrera se integrará de la siguiente manera:
 
-## TÍTULO DÉCIMO
+I. Un presidente que será el titular de la Secretaría;
 
-DEL CONSEJO ESTATAL DE DESARROLLO POLICIAL.
+II. Un Secretario Técnico que será designado por el Presidente de la Comisión;
 
-### CAPITULO II
+III. Vocales Técnicos, designados por el Presidente:
 
-DE SU INTEGRACIÓN Y FUNCIONAMIENTO.
+a) Representantes de los mandos de la Institución;
+
+b) Representantes del personal operativo atendiendo a las funciones básicas de las Instituciones policiales;
+
+IV. Cuatro Vocales que serán representantes de las siguientes áreas:
+
+a) Oficial Mayor de la Secretaría;
+
+b) Subsecretaria de Prevención y Reinserción Social,
+
+c) Dirección General del Sistema de Desarrollo Policial, y
+
+d) Dirección General de la Policía Vial Estatal.
+
+Todos los integrantes de la Comisión del Servicio Profesional de Carrera, tendrán derecho a voz y voto, teniendo el Presidente voto de calidad.
+
+Los integrantes de la Comisión podrán designar un suplente, quienes tendrán las mismas atribuciones que su representado.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO I. DE LA COMISIÓN DEL SERVICIO PROFESIONAL DE CARRERA
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+## TÍTULO DÉCIMO. DE LAS INSTANCIAS COLEGIADAS DE LAS INSTITUCIONES POLICIALES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO ll. DE LA COMISIÓN DE HONOR Y JUSTICIA
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 124.
 
-El Consejo Estatal de Desarrollo Policial llevará un registro de datos de los integrantes de la Policía Estatal, el cual se proporcionará a los sistemas de información criminalística y de personal de la Secretaría y del Sistema Estatal de Información de Seguridad Pública.
+La Comisión del Servicio Profesional de Carrera, tendrá las siguientes atribuciones:
+
+I. Emitir normas y/o acuerdos relativos al ingreso, selección, permanencia, estímulos, promoción y reconocimientos de los Integrantes;
+
+II. Aplicar y resolver los procedimientos relativos al ingreso, selección, permanencia, promoción y reconocimiento de los integrantes;
+
+III. Establecer los lineamientos para los procedimientos del Servicio Profesional;
+
+IV. Formular normas en materia de previsión social;
+
+V. Elaborar los planes y programas de Profesionalización que contendrá los aspectos de formación, capacitación, adiestramiento y actualización;
+
+VI. Establecer los procedimientos aplicables a la Profesionalización;
+
+VII. Llevar a cabo el proceso de evaluación del desempeño;
+
+VIII. Celebrar los convenios necesarios para la instrumentalización de la Profesionalización;
+
+IX. Instruir el desarrollo de los programas de investigación académica;
+
+X. Analizar la formación, capacitación, adiestramiento, desarrollo, actualización, las sanciones aplicadas y méritos de los integrantes a fin de determinar quiénes cumplen con los requisitos para ser promovidos;
+
+XI. Conocer y resolver sobre el otorgamiento de constancias de grado y estímulos a los integrantes, conforme al procedimiento establecido en la normatividad correspondiente;
+
+XII. Resolver el recurso de rectificación en contra de las resoluciones en los procedimientos que comprende el servicio profesional de carrera, como lo establece el reglamento respectivo;
+
+XIII. Resolver la reubicación de los integrantes de un área operativa a otra de acuerdo a las necesidades del servicio, así como la reubicación de los integrantes que hayan alcanzado las edades límite para la permanencia, en otras áreas de los servicios de las propias instituciones;
+
+XIV. Establecer el régimen homólogo de grados para el personal de servicios, conforme a las instrucciones del Comisionado de la Policía Estatal;
+
+XV. Crear grupos de trabajo del Servicio Profesional y demás que resulten necesarios, de acuerdo al tema o actividad a desarrollar, supervisando su actuación;
+
+XVI. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia, y
+
+XVII. Las demás que le señalen la presente Ley, y demás disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 125.
 
-Son atribuciones del Consejo Estatal de Desarrollo Policial:
+La Comisión de Honor y Justicia, es el órgano colegiado de carácter honorifico que conocerá y resolverá toda controversia que se suscite por incumplimiento a los requisitos de permanencia o por infracción al régimen disciplinario de los integrantes de las Instituciones Policiales, con motivo de las infracciones previstas en la Ley General, esta Ley y demás disposiciones normativas aplicables.
 
-I. Emitir normas relativas al ingreso, selección, permanencia, estímulos, promoción y reconocimiento de los Integrantes;
+La Comisión de Honor y Justicia se integrará de la siguiente manera:
 
-II. Establecer los lineamientos para los procedimientos del Servicio Profesional;
+l. Un Presidente, que será el Titular de la Secretaría;
 
-III. Formular normas en materia de previsión social;
+II. Un Secretario Técnico, que será designado por el Presidente de la Comisión, quien deberá ser Licenciado en Derecho;
 
-IV. Elaborar los planes y programas de Profesionalización que contendrá los aspectos de formación, capacitación, adiestramiento y actualización;
+III. Vocales Técnicos, que serán designados por el Presidente:
 
-V. Establecer los procedimientos aplicables a la Profesionalización;
+a) Representantes de los mandos de la Institución;
 
-VI. Celebrar los convenios necesarios para la instrumentación de la Profesionalización;
+b) Representantes del personal operativo atendiendo a las funciones básicas de las Instituciones policiales;
 
-VII. Instruir el desarrollo de los programas de investigación académica en materia policial;
+IV. Vocales, que serán representantes de las siguientes áreas:
 
-VIII. Establecer los lineamientos para los procedimientos aplicables al Régimen Disciplinario;
+a) Oficialía Mayor de la Secretaría;
 
-IX. Emitir acuerdos de observancia general y obligatoria en materia de desarrollo policial para la exacta aplicación del Servicio Profesional;
+b) Dirección General del Sistema de Desarrollo Policial;
 
-X. Aplicar y resolver los procedimientos relativos al ingreso, selección, permanencia, promoción y reconocimiento de los integrantes;
+c) Un Representante del Órgano Interno de control, y
 
-XI. Verificar el cumplimiento de los requisitos de permanencia de los integrantes;
+d) Un Representante de Asuntos internos o equivalente.
 
-XII. Analizar la formación, capacitación, adiestramiento, desarrollo, actualización, las sanciones aplicadas y méritos de los integrantes a fin de determinar quiénes cumplen con los requisitos para ser promovidos;
+Todos los integrantes de la Comisión de Honor y Justicia, tendrán derecho a voz y voto, con excepción del representante de Asuntos Internos, quien únicamente tendrá derecho a voz, teniendo el Presidente voto de calidad.
 
-XIII. Resolver, de acuerdo a las necesidades del servicio, la reubicación de los integrantes de un área operativa a otra;
+Los integrantes de la Comisión podrán designar un suplente, quienes tendrán las mismas atribuciones que su representado.
 
-XIV. Sustanciar los procedimientos disciplinarios por incumplimiento a los deberes u obligaciones de los integrantes, preservando el derecho a la garantía de audiencia;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XV. Conocer y resolver sobre el otorgamiento de constancias de grado y estímulos a los integrantes, conforme al procedimiento establecido en la normatividad correspondiente;
+### CAPÍTULO III. DEL PROCEDIMIENTO
 
-XVI. Establecer el régimen homólogo de grados para el personal de servicios, conforme a las instrucciones del Comisionado de la Policía Estatal;
-
-XVII. Crear las comisiones, comités y grupos de trabajo del Servicio Profesional, Régimen Disciplinario y demás que resulten necesarias, de acuerdo al tema o actividad a desarrollar, supervisando su actuación;
-
-XVIII. Sancionar a los integrantes por incumplimiento a los deberes previstos en la presente Ley y disposiciones aplicables que deriven de ésta;
-
-XIX. Resolver los recursos de revisión promovidos contra las sanciones impuestas por violación al Régimen Disciplinario;
-
-XX. Resolver los recursos de reclamación promovidos contra los acuerdos respecto a la no procedencia del inicio del procedimiento;
-
-XXI. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia, y
-
-XXII. Las demás que le señalen la presente Ley y demás disposiciones legales aplicables.
-
-Las reglas de operación y funcionamiento del Consejo Estatal de Desarrollo Policial estarán previstas en las disposiciones normativas que para dicho efecto se emitan.
-
-### CAPITULO III. DEL PROCEDIMIENTO
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 126.
 
-En los procedimientos que instruya el Consejo Estatal de Desarrollo Policial contra los Integrantes de la Policía Estatal se salvaguardará en todo tiempo la garantía de audiencia.
+La Comisión de Honor y Justicia, tendrá las siguientes atribuciones:
+
+l. Establecer los lineamientos para los procedimientos aplicables al Régimen Disciplinario;
+
+II. Verificar el cumplimiento de los requisitos de permanencia de los integrantes;
+
+III. Llevar a cabo sus funciones en el proceso de evaluación del desempeño, conforme a las disposiciones del Manual para la Evaluación del Desempeño;
+
+IV. Sustanciar los procedimientos disciplinarios por incumplimiento a los deberes u obligaciones de los integrantes, preservando el derecho a la garantía de audiencia;
+
+V. Instaurar los procedimientos administrativos correspondientes en los casos en que los elementos no hayan aprobado la evaluación del desempeño;
+
+VI. Crear grupos de trabajo del Régimen Disciplinario y demás que resulten necesarias, de acuerdo al tema o actividad a desarrollar, supervisando su actuación;
+
+VII. Sancionar a los integrantes por incumplimiento a los deberes previstos en la presente Ley y disposiciones aplicables que deriven de ésta;
+
+VIII. Conocer y resolver los recursos de reclamación promovidos contra los acuerdos respecto a la no procedencia del inicio del procedimiento;
+
+IX. Conocer y resolver el recurso de revisión, promovidos contra las sanciones impuestas por violación al Régimen Disciplinario;
+
+X. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia, y
+
+XI. Las demás que le señalen la presente Ley, y demás disposiciones legales aplicables.
+
+(REUBICADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 127.
 
-El Consejo Estatal de Desarrollo Policial se integrará de la siguiente manera:
+El procedimiento que se instaure a los Integrantes de la Policía Estatal por incumplimiento a los requisitos de permanencia o por infracción al régimen disciplinario ante la Comisión de Honor y Justicia, iniciará por solicitud fundada y motivada del responsable de la Dirección General de Asuntos Internos, dirigida al Presidente de la Comisión de Honor y Justicia, remitiendo para tal efecto el expediente del presunto infractor.
 
-I. Un Presidente, que será el Secretario;
+El presidente resolverá si ha lugar a iniciar procedimiento contra el presunto infractor, en caso contrario devolverá el expediente al área administrativa remitente.
 
-II. Un Secretario General, que será el Comisionado;
-
-III. Un representante de la Secretaría de la Contraloría y Transparencia Gubernamental;
-
-IV. Un representante de la Dirección General de Asuntos Jurídicos de la Secretaría;
-
-V. Un Consejero por cada área operativa, y
-
-VI. Un Consejero por el área jurídica de la Policía Estatal.
-
-Los integrantes del Consejo Estatal serán de carácter permanente, y se designará a un suplente, de conformidad con el reglamento respectivo.
-
-### CAPÍTULO I. DEL INTERCAMBIO, SUMINISTRO Y ACCESO A LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
-
-###### Artículo 128.
-
-El Consejo Estatal contará con el personal necesario para el despacho de sus asuntos, mismos que serán designados por el Pleno, conforme a las disponibilidades presupuestales.
-
-###### Artículo 129.
-
-El procedimiento que se instaure a los Integrantes de la Policía Estatal por incumplimiento a los requisitos de permanencia o por infracción al régimen disciplinario ante el Consejo Estatal de Desarrollo Policial, iniciará por solicitud fundada y motivada del responsable de la Dirección General de Asuntos Internos, dirigida al Presidente del Consejo Estatal y remitiendo para tal efecto el expediente del presunto infractor.
-
-El presidente resolverá si ha lugar a iniciar procedimiento contra el presunto infractor, en caso contrario devolverá el expediente a la unidad remitente.
-
-El responsable de la Dirección General de Asuntos Internos será nombrado por el Secretario; contará con autonomía de gestión y tendrá las atribuciones establecidas en la presente Ley, y demás disposiciones aplicables.
-
-###### Artículo 130.
+El responsable de la Dirección General de Asuntos Internos será nombrado por el Secretario, el cual contará con autonomía de gestión y tendrá las atribuciones establecidas en la presente Ley, y demás disposiciones aplicables.
 
 El procedimiento será oral y se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO IV. DEL RECURSO DE RECLAMACIÓN
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 128.
+
+El acuerdo que emita el Presidente de la Comisión de Honor y Justicia respecto a la no procedencia del inicio del procedimiento, podrá ser impugnado por el área administrativa solicitante mediante el recurso de reclamación ante la misma Comisión, dentro del término de cinco días contados a partir de la notificación y recepción del expediente respectivo.
+
+En el escrito de reclamación, el área administrativa sustentante expresará los razonamientos sobre la procedencia del procedimiento y aportará las pruebas que considere necesarias. La Comisión de Honor y Justicia resolverá sobre la misma en un término no mayor a cinco días hábiles a partir de la vista del asunto.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 129.
+
+Resuelto el inicio del procedimiento, el Secretario Técnico, deberá señalar a la brevedad la fecha para la celebración de la audiencia de pruebas y alegatos, la cual deberá notificarse al presunto infractor, cuando menos quince días hábiles antes de la celebración de la audiencia, haciéndole saber la infracción que se le imputa, el lugar, el día y la hora en que tendrá verificativo dicha audiencia y su derecho a contestar, ofrecer pruebas y formular alegatos, asistido de un defensor público o particular, y podrá imponerse de los autos del expediente.
+
+Una vez corrido el traslado al presunto infractor, éste dentro de los diez días hábiles siguientes al de la notificación, podrá manifestar lo que a su derecho convenga respecto de la infracción que se le imputa, ofreciendo las pruebas que estime pertinentes, en caso de no ofrecer pruebas y defensas, la imputación se tendrá por consentida y aceptada, salvo prueba en contrario.
+
+El presunto infractor, deberá señalar domicilio para ser notificado en el procedimiento, domicilio que deberá estar establecido dentro del lugar de residencia de la Comisión de Honor y Justicia, apercibiéndolo que en caso contrario, las subsecuentes notificaciones se realizarán en un lugar visible al público dentro de las instalaciones que ocupe la propia Comisión.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 130.
+
+La notificación del citatorio para la audiencia de pruebas y alegatos se realizará personalmente al presunto infractor en el domicilio oficial de la adscripción de éste, en el último que hubiera reportado, o en el lugar en que se encuentre físicamente y se le hará saber el lugar donde quedará a disposición en tanto se dicte la resolución definitiva respectiva.
+
+El Presidente de la Comisión de Honor y Justicia podrá quitar la suspensión temporal del empleo, cargo o comisión del presunto infractor, previo análisis o estudio de la suspensión.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 131.
 
-El acuerdo que emita el presidente del Consejo Estatal de Desarrollo Policial respecto a la no procedencia del inicio del procedimiento, podrá ser impugnado por la unidad solicitante mediante el recurso de reclamación ante el mismo Consejo, dentro del término de cinco días contados a partir de la notificación y recepción del expediente respectivo.
+El día y hora señalados para la audiencia de pruebas y alegatos del presunto infractor, el Presidente de la Comisión de Honor y Justicia declarará formalmente abierta la audiencia y enseguida, el Secretario Técnico tomará los generales de aquél y de su defensor, a quien protestará en el cargo y apercibirá al primero para conducirse con verdad.
 
-En el escrito de reclamación, la unidad sustentante expresará los razonamientos sobre la procedencia del procedimiento y aportará las pruebas que considere necesarias. El Pleno del Consejo Estatal de Desarrollo Policial resolverá sobre la misma en un término no mayor a cinco días a partir de la vista del asunto.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 132.
 
-Resuelto el inicio del procedimiento, el Secretario General convocará a los miembros de la instancia y citará al presunto infractor a una audiencia haciéndole saber la infracción que se le imputa, el lugar, el día y la hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o asistido de un defensor.
+Los integrantes de la Comisión de Honor y Justicia, podrán formular preguntas al presunto infractor, por conducto del Secretario Técnico, con la finalidad de allegarse de los datos necesarios para el conocimiento del asunto.
 
-La audiencia se celebrará dentro de un plazo no menor de cinco, ni mayor de veinte días naturales posteriores a la recepción del expediente por el presidente, plazo en que el presunto infractor podrá imponerse de los autos del expediente.
+Las pruebas que sean presentadas por las partes, serán debidamente analizadas y ponderadas, por los integrantes de la Comisión resolviendo cuáles se admiten y cuáles son desechadas dentro de la misma audiencia.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 133.
 
-La notificación del citatorio se realizará en el domicilio oficial de la adscripción del presunto infractor, en el último que hubiera reportado, o en el lugar en que se encuentre físicamente y se le hará saber el lugar donde quedará a disposición en tanto se dicte la resolución definitiva respectiva.
-
-El infractor deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia del Consejo Estatal de Desarrollo Policial, apercibiéndolo que en caso de no hacerlo las subsecuentes notificaciones se realizarán en un lugar visible al público dentro de las instalaciones que ocupe el propio Consejo; del mismo modo, en caso de no ofrecer pruebas y defensas, la imputación se tendrá por consentida y aceptada.
-
-El Presidente del Consejo Estatal de Desarrollo Policial podrá determinar la suspensión temporal del empleo, cargo o comisión del presunto infractor, previo o posteriormente a la notificación del inicio del procedimiento, si a su juicio es conveniente para la continuación del procedimiento o de las investigaciones. Esta medida no prejuzga sobre la responsabilidad que se impute, debiéndose asentar expresamente esta salvedad. El presunto infractor suspendido podrá impugnar esta determinación en reclamación ante el Pleno del Consejo Estatal de Desarrollo Policial.
-
-###### Artículo 134.
-
-El día y hora señalados para la comparecencia del presunto infractor, el Presidente del Consejo Estatal de Desarrollo Policial declarará formalmente abierta la audiencia y enseguida, el Secretario General tomará los generales de aquél y de su defensor, a quien protestará en el cargo y apercibirá al primero para conducirse con verdad. Acto seguido procederá a dar lectura de las constancias relativas a la imputación y datos de cargo, con la finalidad de hacer saber al presunto infractor los hechos que se le atribuyen.
-
-El Secretario General del Consejo Estatal de Desarrollo Policial concederá el uso de la palabra al presunto infractor y a su defensor, los que expondrán en forma concreta y específica lo que a su derecho convenga.
-
-###### Artículo 135.
-
-Los integrantes del Consejo Estatal de Desarrollo Policial podrán formular preguntas al presunto infractor, solicitar informes u otros elementos de prueba, por conducto del Secretario General, con la finalidad de allegarse de los datos necesarios para el conocimiento del asunto.
-
-Las pruebas que sean presentadas por las partes, serán debidamente analizadas y ponderadas, resolviendo cuáles se admiten y cuáles son desechadas dentro de la misma audiencia.
-
-###### Artículo 136.
-
 Son admisibles como medio de prueba:
 
-I. Los documentos públicos;
+l. Los documentos públicos;
 
 II. Los documentos privados;
 
@@ -2557,39 +2505,179 @@ No es admisible la confesional a cargo de la autoridad. Las pruebas se admitirá
 
 Si la prueba ofrecida por el integrante es la testimonial, quedará a su cargo la presentación de los testigos.
 
-Si el oferente no puede presentar a los testigos, deberá señalar su domicilio y solicitara a la instancia que los cite. Esta los citará por una sola ocasión, en caso de incomparecencia declarará desierta la prueba.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 134.
+
+Si el Secretario Técnico de la Comisión de Honor y Justicia lo considera necesario, por lo extenso o particular de las pruebas presentadas, suspenderá la audiencia, levantando el acta correspondiente, y señalará fecha para la continuación.
+
+En caso contrario, se procederá a la formulación de alegatos.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 135.
+
+Una vez desahogadas todas las pruebas y presentados los alegatos, la Comisión de Honor y Justicia, deberá emitir la resolución que conforme a derecho corresponda, dentro del término de veinte días hábiles contados a partir del cierre de la audiencia de pruebas y alegatos.
+
+La resolución se notificará personalmente al interesado por conducto del personal que designe la Comisión.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 136.
+
+Contra la resolución del procedimiento disciplinario procederá el recurso de revisión que deberá interponerse en término de cinco días hábiles contados a partir de la notificación de la resolución.
+
+Los acuerdos dictados durante el procedimiento, serán firmados por el Presidente de la Comisión de Honor y Justicia y refrendados por el Secretario Técnico.
+
+La resolución que dicte la Comisión de Honor y Justicia deberá estar debidamente fundada y motivada, contener una relación sucinta de los hechos y una valoración de todas y cada una de las pruebas aportadas.
+
+Las resoluciones de la Comisión de Honor y Justicia, que recaigan sobre el recurso de revisión, serán definitivas.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 137.
 
-Si el Secretario General del Consejo Estatal de Desarrollo Policial lo considera necesario, por lo extenso o particular de las pruebas presentadas, cerrará la audiencia, levantando el acta correspondiente, y establecerá un término probatorio de diez días para su desahogo.
+Para lo no previsto en el presente capítulo se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Oaxaca.
 
-En caso contrario, se procederá a la formulación de alegatos y posteriormente al cierre de instrucción del procedimiento.
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 138.
 
-Una vez desahogadas todas las pruebas y presentados los alegatos, el Presidente del Consejo Estatal de Desarrollo Policial cerrará la instrucción.
+El recurso de reclamación se desarrollará conforme a las siguientes bases:
 
-El Consejo Estatal de Desarrollo Policial deberá emitir la resolución que conforme a derecho corresponda, dentro del término de veinte días hábiles contados a partir del cierre de la instrucción.
+A. Sera procedente contra:
 
-La resolución se notificará personalmente al interesado por conducto del personal que designe dicho Consejo.
+I. El acuerdo que emita la Comisión de Honor y Justicia, respecto a la no procedencia del inicio del procedimiento, y
 
-Contra la resolución del procedimiento disciplinario procederá el recurso de revisión que deberá interponerse en término de cinco días contados a partir de la notificación de la resolución, como lo establece el reglamento respectivo.
+II. La determinación de suspensión preventiva del empleo, cargo o comisión del presunto infractor, en la etapa de investigación a cargo de la Dirección General de Asuntos Internos.
 
-### CAPÍTULO II. DE LA CERTIFICACIÓN DE LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
+B. El recurso de reclamación podrá interponerse por:
+
+I. El Titular de la Dirección General de Asuntos Internos, en los términos previstos por el artículo 127 de esta Ley, y
+
+II. Los presuntos infractores, cuando se trate del acuerdo en el que se ordena la suspensión preventiva del empleo, cargo o comisión, previsto en el artículo 115 de esta Ley.
+
+C. El recurso de reclamación se interpondrá dentro del término de cinco días hábiles contados a partir del día siguiente al de la notificación del acuerdo.
+
+En el escrito de reclamación se expresarán los razonamientos sobre la procedencia, los agravios y, en su caso, las pruebas que se consideren necesarias.
+
+Cuando la reclamación se interponga contra el acuerdo que emita la Comisión de Honor y Justicia, respecto a la no procedencia del inicio del procedimiento, no será necesario dar vista al presunto infractor.
+
+La Comisión de Honor y Justicia, deberá resolver el recurso de reclamación interpuesto en un término no mayor de cinco días hábiles contados a partir de la notificación y recepción del expediente.
+
+Si el recurso fuere promovido por el Integrante, la Comisión de Honor y Justicia ordenará correr traslado al Titular de la Dirección General de Asuntos Internos para que en el término de tres días hábiles exprese lo que a su derecho convenga.
+
+D. El órgano colegiado resolverá de plano este recurso, dentro de los cinco días hábiles contados a partir de la vista del asunto, efecto para lo cual certificará el término correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### CAPITULO V. DEL RECURSO DE REVISIÓN
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 139.
 
-La resolución que dicte el Pleno del Consejo Estatal de Desarrollo Policial deberá estar debidamente fundada y motivada, contener una relación sucinta de los hechos y una valoración de todas y cada una de las pruebas aportadas.
+En contra de las resoluciones que pongan fin al procedimiento de la Comisión de Honor y Justicia, procede el recurso de revisión, que se substanciará ante la propia Comisión, como órgano revisor, quien tramitará y resolverá conforme a las bases siguientes:
 
-### CAPÍTULO III. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
+A. El escrito de interposición del recurso de revisión, se deberá presentar ante la Comisión, dentro de los siguientes cinco días hábiles, a aquél en que haya surtido efectos la notificación de la resolución impugnada.
+
+B. El recurso se deberá presentar por escrito, en el que se expresará:
+
+I. El Órgano Colegiado a quien se dirige;
+
+II. El nombre del recurrente y en su caso, su representante legal, así como el domicilio y las personas autorizadas para efectos de oír y recibir notificaciones y documentos;
+
+III. El nombre y domicilio del tercero perjudicado si lo hubiere;
+
+IV. La resolución que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
+
+V. En su caso, copia de la resolución que se impugna y de la notificación correspondiente;
+
+VI. Los agravios que le causan y los argumentos de derecho en contra de la resolución que se recurre, y
+
+VII. Las pruebas supervinientes si las hubiere.
+
+C. La interposición del recurso suspenderá la ejecución de la resolución impugnada, siempre y cuando:
+
+I. Sea admitido el recurso;
+
+II. Lo solicite expresamente el recurrente;
+
+III. Sea procedente el recurso;
+
+IV. No se siga perjuicio al interés social o se contravengan disposiciones de orden público, y
+
+V. No se ocasionen daños o perjuicios a la Institución, a menos que se garanticen éstos, para el caso de no obtener resolución favorable,
+
+La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
+
+D. Una vez admitido el recurso de revisión, la Comisión de Honor y Justicia resolverá dentro del término de quince días hábiles, contados a partir de la fecha del acuerdo de admisión.
+
+E. El recurso se tendrá por no interpuesto y se desechará de plano cuando:
+
+l. Se presente fuera del plazo;
+
+II. No se haya acompañado la documentación que acredite la personalidad del recurrente, y
+
+III. No aparezca suscrito por el interesado o su representante legal.
+
+F. Se desechará por improcedente el recurso:
+
+I. Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el propio acto impugnado;
+
+II. Contra actos que no afecten los intereses jurídicos del promovente;
+
+III. Contra actos consumados de un modo irreparable;
+
+IV. Contra actos consentidos expresamente, y
+
+V. Cuando se esté tramitando ante los tribunales algún recurso o defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto respectivo.
+
+G. Será sobreseído el recurso cuando:
+
+I. El promovente se desista expresamente del recurso;
+
+II. El agraviado fallezca durante el procedimiento, si el acto respectivo sólo afecta su persona;
+
+III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
+
+IV. Cuando hayan cesado los efectos del acto respectivo, y
+
+V. Por falta de objeto o materia del acto respectivo.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO I. DEL INTERCAMBIO, SUMINISTRO Y ACCESO A LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
 
 ###### Artículo 140.
 
-Los acuerdos dictados durante el procedimiento, serán firmados por el Presidente del Consejo Estatal de Desarrollo Policial y autentificados por el Secretario General.
+Las pruebas supervinientes se desahogaran a la brevedad, a fin de no dilatar el procedimiento.
+
+La Comisión, en beneficio del recurrente, deberá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 141.
 
-Para lo no previsto en el presente capítulo se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Oaxaca.
+La Comisión podrá:
+
+l. Confirmar la resolución impugnada;
+
+II. Revocar total o parcialmente la resolución impugnada:
+
+III. Modificar la resolución impugnada, y
+
+IV. La que en derecho proceda.
+
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente.
+
+No se podrá revocar o modificar la resolución en la parte no impugnada por el recurrente.
+
+La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se precisará ésta.
+
+No se tomarán en cuenta en la resolución del recurso, hechos, documentos o alegatos del recurrente, cuando habiendo podido aportarlos durante el procedimiento administrativo no lo haya hecho.
+
+Si se determina la no procedencia del recurso de revisión y resuelto el recurso, sin mayor trámite, ordenará que se proceda al cumplimiento de la resolución.
 
 ###### Artículo 142.
 
@@ -2597,9 +2685,15 @@ El Sistema Penitenciario Estatal tiene por objeto procurar la reinserción socia
 
 En la legislación, reglamentos y normatividad se establecerán las disposiciones necesarias para la ejecución eficaz del Sistema Penitenciario.
 
-## TÍTULO DÉCIMO PRIMERO. DEL SISTEMA PENITENCIARIO Y DE REINSERCIÓN SOCIAL
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La Secretaría, establecerá en cada Centro Penitenciario, equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de dichos centros y especializado para adolescentes, en términos de la Ley General y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Los casos, condiciones y requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y en los centros penitenciarios federales y estatales, será en los términos establecidos por el Consejo Nacional.
+
+## TÍTULO DÉCIMO PRIMERO. DEL SISTEMA PENITENCIARIO Y DE REINSERCIÓN SOCIAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -2673,6 +2767,14 @@ III. Aquella cuya revelación pueda ser utilizada para actualizar o potenciar un
 
 IV. La contenida en averiguaciones previas, expedientes y demás archivos relativos a la investigación para la prevención y la investigación de los delitos y faltas administrativas, por el tiempo que determinen las autoridades competentes.
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V. La información contenida en todas y cada una de las Bases de Datos del Sistema Nacional y Estatal, así como los Registros Nacionales y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas cautelares, soluciones alternas y formas de terminación anticipada, sentenciados y las demás necesarias para la operación del Sistema.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+La consulta de la información establecida en la fracción V, es exclusiva de las Instituciones de Seguridad Pública que estén facultadas en cada caso, a través de los servidores públicos que cada.Institución (sic) designe, por lo que el público no tendrá acceso a la información que en ellos se contenga.
+
 ###### Artículo 151.
 
 La inobservancia a lo dispuesto en el presente Título constituye responsabilidad administrativa grave para los efectos de las disposiciones legales aplicables, sin perjuicio de la sanción penal prevista en el Código Penal del Estado de Oaxaca y demás disposiciones aplicables.
@@ -2689,7 +2791,7 @@ Para los efectos de la integración y manejo de la información a que se refiere
 
 Las Instituciones Policiales intercambiarán la información que obre en sus bases de datos con la Subsecretaría de Información y Desarrollo Institucional, en los términos de las disposiciones aplicables.
 
-### CAPÍTULO IV. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
+### CAPÍTULO II. DE LA CERTIFICACIÓN DE LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
 
 ###### Artículo 155.
 
@@ -2721,7 +2823,7 @@ Todo servidor público, independientemente de su adscripción, deberá acatar la
 
 El Secretario, por sí o a través del servidor público en el que delegue dicha función, de conformidad con los lineamientos de la presente Ley, podrá certificar la información para la seguridad pública contenida en las bases de datos de sus respectivas Instituciones Policiales y del Sistema Estatal de Información sobre Seguridad Pública.
 
-### CAPÍTULO I. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
+### CAPÍTULO III. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
 
 ###### Artículo 160.
 
@@ -2749,7 +2851,7 @@ La certificación de información inscrita que se ofrezca en juicios o procedimi
 
 Se establece el Registro Administrativo de Detenciones a cargo de la Dirección General de Información y Análisis de la Secretaría de Seguridad Pública, que se interrelacionará con sus áreas semejantes de la Federación, de Entidades Federativas y de los Municipios, de conformidad con los convenios que se suscriban en el marco del Sistema Nacional y Estatal de Seguridad Pública.
 
-### CAPÍTULO II. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
+### CAPÍTULO IV. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### Artículo 165.
 
@@ -2841,9 +2943,25 @@ d. Estado físico aparente del detenido, precisando si se le causaron lesiones a
 
 e. Nombre, cargo y adscripción de los Integrantes de las Instituciones Policiales responsables de la detención;
 
-f. Autoridad y lugar en que fue puesto a disposición, y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-g. Los objetos que aseguró y ante qué autoridad los puso a disposición.
+f. Lugar a donde será trasladado el detenido;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+g. Autoridad y lugar en que fue puesto a disposición;
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+h. Objetos que aseguró y ante qué autoridad los puso a disposición;
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+i. Fotografía a color del detenido de frente y perfil; y
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+j. Fotografía panorámica del lugar de detención, en su caso.
 
 II. De la información proporcionada por la Procuraduría, los siguientes datos del detenido:
 
@@ -2875,7 +2993,7 @@ j) Fotografía panorámica del lugar de detención, en su caso.
 
 III. De la información proporcionada por la Subsecretaría de Prevención y Reinserción Social de la Secretaría, a través de la Dirección General de Reinserción Social, los siguientes datos del detenido:
 
-a. Ficha signaléctica o cualquier otra forma de identificación del interno, y
+a. Ficha signaléctica (sic) o cualquier otra forma de identificación del interno, y
 
 b. Cualquier otro medio que se genere en dicha dependencia y que permita su identificación.
 
@@ -2955,6 +3073,14 @@ Al servidor público que quebrante la reserva de este registro o proporcione inf
 
 Con el propósito de planear las estrategias y políticas tendentes a la preservación del orden, la tranquilidad y la paz pública, en el Estado y los Municipios, la Dirección General de Información y Análisis de la Secretaría, integrara las estadísticas, y las remitirá al Secretario Ejecutivo, a fin de que proponga las estrategias y acciones a implementar en la materia.
 
+### CAPÍTULO V. DEL REGISTRO NACIONAL DE MEDIDAS CAUTELARES, SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 178 Bis.
+
+Las Instituciones de Seguridad Pública en el ámbito de su competencia suministrarán y actualizarán permanentemente la información en el Registro Nacional de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada, en términos de la Ley General.
+
 ###### Artículo 177.
 
 Se establece un programa permanente de investigación para el reconocimiento de los delitos no denunciados y las infracciones no registradas oficialmente, mediante encuestas, entrevistas y otros medios idóneos a cargo del Consejo Estatal.
@@ -2965,11 +3091,17 @@ La estadística se integrará al Sistema Estatal de Información sobre Seguridad
 
 Cuando la revelación de la información a que se hace referencia en el párrafo que antecede, ponga en riesgo el debido desarrollo de una investigación, averiguación previa o proceso, se reservará hasta en tanto no deje de existir tal condición.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 179.
 
 El Consejo Estatal, establecerá mecanismos y procedimientos para la participación de la sociedad respecto de las funciones que realice y en general, de las actividades de la seguridad pública en el Estado.
 
+### CAPÍTULO I. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
+
 ## TÍTULO DÉCIMO CUARTO. DE LA PARTICIPACIÓN CIUDADANA
+
+### CAPÍTULO II. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
 ###### Artículo 180.
 
@@ -3071,7 +3203,9 @@ IV. Otras, en los términos del artículo 20 de la Constitución Federal.
 
 La Secretaría, impulsará las acciones necesarias para que el Estado y los Municipios, establezcan conjuntamente un servicio de asistencia telefónica para responder y orientar a la población en caso de emergencias, para que reciba los reportes sobre faltas y delitos de que tenga conocimiento y para la localización de personas y bienes.
 
-El servicio de asistencia telefónica operará de acuerdo con las bases previstas en los convenios de coordinación o en los Programas de Seguridad Pública bajo el número de emergencia 066 y de denuncia anónima 089, que funcionaran de conformidad con el reglamento que al efecto se expida. Asimismo, también se establecerá un número de asistencia por vía de telefonía móvil gratuito.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+El servicio de asistencia telefónica operará de acuerdo con las bases previstas en los convenios de coordinación o en los Programas de Seguridad Pública bajo los números de emergencia y de denuncia anónima, que funcionarán de conformidad con el reglamento que al efecto se expida. Asimismo, también se establecerá un número de asistencia por vía de telefonía móvil gratuito.
 
 ###### Artículo 189.
 
@@ -3290,3 +3424,13 @@ OCTAVO. Una vez que, en términos de lo dispuesto en el Artículo Tercero Transi
 NOVENO. En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva Estatal de Atención a Víctimas, deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
 
 DÉCIMO. A fin de dar cumplimiento a las atribuciones que se establecen en esta Ley, la Comisión Ejecutiva Estatal de Atención a Víctimas, realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1673.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La Comisión del Servicio Profesional de Carrera, y Comisión de Honor y Justicia, deberá instalarse a más tardar dentro de los sesenta días naturales, contados a partir de la entrada en vigor de las reformas a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca. Los asuntos iniciados ante el Consejo Estatal de Desarrollo Policial, previo a la entrada en vigor de las reformas y adiciones a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca, deberán culminarse con las disposiciones normativas vigentes hasta la entrada en vigor.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a lo establecido en el presente Decreto.
