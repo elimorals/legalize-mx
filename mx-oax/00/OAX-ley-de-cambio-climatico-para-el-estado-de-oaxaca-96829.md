@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cambio-climatico-para-el-estado-de-oaxaca-96829"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2018-09-15"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -153,9 +153,9 @@ XXXII.- Resistencia: Capacidad de los sistemas naturales o sociales para persist
 
 XXXIII.- Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción en su vulnerabilidad y la presencia de un agente perturbador;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXXIV.- Secretaría: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable.
+XXXIV.- Secretaría: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca.
 
 XXXV.- Sistema Estatal de Bonos de Emisiones de Carbono: Sistema, que hace posible las transacciones de compra venta de reducciones o captura de emisiones de compuestos de efecto invernadero o de permisos de emisión;
 
@@ -197,7 +197,9 @@ Para el desarrollo transversal y vertical de los objetivos de esta Ley, se imple
 
 La CICC será presidida por el Gobernador del Estado y estará integrada por los titulares de las dependencias y entidades siguientes:
 
-I.- La Secretaría de Medio Ambiente y Recursos Naturales del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+I.- La Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable;
 
 II.- La Secretaría General de Gobierno;
 
@@ -205,7 +207,9 @@ III.- La Secretaría de Salud;
 
 IV.- La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
 
-V.- La Secretaría de Turismo y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+V.- La Secretaría de Turismo;
 
 VI.- La Secretaría de Vialidad y Transporte;
 
@@ -213,7 +217,9 @@ VII.- La Secretaría de Desarrollo Social y Humano;
 
 VIII.- La Secretaría de Asuntos Indígenas;
 
-IX.- La Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX.- La Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
 
 X.- La Secretaría de Finanzas;
 
@@ -1076,3 +1082,9 @@ P.O. 15 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DE “DECRETO NÚM. 1527.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1641.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA”.]
+
+[LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.]
