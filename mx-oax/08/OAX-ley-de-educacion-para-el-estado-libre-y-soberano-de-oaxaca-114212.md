@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-educacion-para-el-estado-libre-y-soberano-de-oaxaca-1142
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2016-04-11"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -423,9 +423,23 @@ La educación especial incluye la asesoría, orientación y acompañamiento a lo
 
 La educación física tendrá como propósito el desarrollo integral de los estudiantes partiendo de la actividad motora corporal y la práctica del deporte como entes generadores de conocimiento en el ser humano; fortalecer las relaciones grupales y de convivencia humana entre estudiantes, fomentar el proceso de integración de la Comunidad Escolar a través de actividades sociales y recreativas e integrar contenidos temáticos de otras áreas académicas. Para tales efectos se fortalecerá la Dirección de Educación Física y su estructura administrativa estatal.
 
-#### SECCIÓN IV. EDUCACIÓN ARTÍSTICA
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-#### SECCIÓN V. EDUCACIÓN PARA ADULTOS
+#### SECCIÓN IV. EDUCACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 30 Bis.
+
+La educación científica, tecnológica y de innovación, tendrá como finalidad impulsar en todos los niveles educativos planes, proyectos, metodología y herramientas tecnológicas a cargo del Estado, con la finalidad de desarrollar las aptitudes de niños y adolescentes en esta materia.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 30 Ter.
+
+El Estado y sus mecanismos de asignación presupuestal, se encargarán de proporcionar los recursos presupuestales suficientes para la educación científica, tecnológica y de innovación en todos sus niveles.
+
+#### SECCIÓN V. EDUCACIÓN ARTÍSTICA
 
 ###### Artículo 31.
 
@@ -433,9 +447,7 @@ La educación artística tendrá como propósito desarrollar las aptitudes cread
 
 Para formar profesionalmente a los trabajadores de la educación en esta área, se creará la Licenciatura en Educación Artística.
 
-#### SECCIÓN VI. DE LA EDUCACIÓN BÁSICA
-
-EDUCACIÓN PREESCOLAR
+#### SECCIÓN VI. EDUCACIÓN PARA ADULTOS
 
 ###### Artículo 32.
 
@@ -447,7 +459,9 @@ La dirección general del IEEPO, dictará las medidas administrativas necesarias
 
 Lo previsto en este artículo, será sin perjuicio de lo que corresponda a otras autoridades.
 
-#### SECCIÓN VII. EDUCACIÓN MEDIA SUPERIOR
+#### SECCIÓN VII. DE LA EDUCACIÓN BÁSICA
+
+EDUCACIÓN PREESCOLAR
 
 ###### Artículo 33.
 
@@ -479,7 +493,9 @@ La educación secundaria tiene como propósitos continuar el proceso formativo i
 
 El nivel de educación secundaria contará con las modalidades de: general, técnica, telesecundaria, para trabajadores y comunitaria.
 
-#### SECCIÓN VIII. EDUCACIÓN SUPERIOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+#### SECCIÓN VIII. DE LA EDUCACIÓN MEDIA SUPERIOR
 
 ###### Artículo 39.
 
@@ -493,7 +509,9 @@ II. Terminal, proporcionando formación en carreras técnico-profesionales, y
 
 III. Bivalente, cuando combine las características anteriores.
 
-#### SECCIÓN I. DEL FINANCIAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+#### SECCIÓN IX. DE LA EDUCACIÓN SUPERIOR
 
 ###### Artículo 40.
 
@@ -517,7 +535,7 @@ Las formas de impartir educación en el sistema educativo estatal podrán ser: e
 
 ### CAPÍTULO I. DEL FINANCIAMIENTO Y RESPONSABILIDADES EN EL SISTEMA EDUCATIVO ESTATAL
 
-#### SECCIÓN II. DE LA RESPONSABILIDAD ADMINISTRATIVA DE LOS RECURSOS
+#### SECCIÓN I. DEL FINANCIAMIENTO
 
 ###### Artículo 44.
 
@@ -551,7 +569,7 @@ El Gobierno del Estado gestionará ante el Gobierno Federal o las autoridades co
 
 Las autoridades educativas estatal y municipal en el ámbito de sus atribuciones, deberá ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas; tratándose de educación básica, observarán los lineamientos que expida la autoridad educativa federal para formular los programas de gestión escolar.
 
-#### SECCIÓN I. DE LA EQUIDAD EN LA EDUCACIÓN
+#### SECCIÓN II. DE LA RESPONSABILIDAD ADMINISTRATIVA DE LOS RECURSOS
 
 ###### Artículo 52.
 
@@ -573,7 +591,7 @@ En la Educación Básica y Media Superior el ingreso, la promoción, el reconoci
 
 ### CAPÍTULO III. DE LA EQUIDAD EN LA EDUCACIÓN
 
-#### SECCIÓN II. DE LA PERSPECTIVA DE GÉNERO
+#### SECCIÓN I. DE LA EQUIDAD EN LA EDUCACIÓN
 
 ###### Artículo 56.
 
@@ -595,7 +613,7 @@ Se fortalecerán los albergues escolares e internados dependientes de la Autorid
 
 En el caso de los albergues indígenas, cuyo financiamiento está a cargo de instituciones federales, la Autoridad Educativa Estatal promoverá las acciones respectivas para su fortalecimiento.
 
-#### SECCIÓN III. DE LA INTERCULTURALIDAD
+#### SECCIÓN II. DE LA PERSPECTIVA DE GÉNERO
 
 ###### Artículo 58.
 
@@ -617,7 +635,7 @@ III. Promover saberes sin estereotipos y roles de masculino y femenino, através
 
 IV. Los trabajadores de la educación deberán realizar su trabajo promoviendo la participación equitativa y conjunta entre estudiantes, fomentando la formación de valores de respeto entre hombres y mujeres y propiciando la convivencia escolar.
 
-#### SECCIÓN IV. DE LAS TECNOLOGÍAS DE LA INFORMACIÓN EN LA EDUCACIÓN
+#### SECCIÓN III. DE LA INTERCULTURALIDAD
 
 ###### Artículo 61.
 
@@ -637,7 +655,7 @@ Los planes y programas de estudio distintos a los de educación básica y normal
 
 Los proyectos educativos y las aportaciones de los especialistas ayudarán a recuperar los conocimientos regionales, para su sistematización e integración en los programas de estudio, que permitirán la atención de la diversidad y por ende, favorecerán la interculturalidad.
 
-#### SECCIÓN I. DERECHOS Y DEBERES DE LOS PADRES DE FAMILIA Y TUTORES
+#### SECCIÓN IV. DE LAS TECNOLOGÍAS DE LA INFORMACIÓN EN LA EDUCACIÓN
 
 ###### Artículo 65.
 
@@ -705,7 +723,7 @@ Los particulares sólo podrán impartir estudios siempre y cuando cuenten con la
 
 ### CAPÍTULO I. DE LOS PADRES DE FAMILIA Y TUTORES
 
-#### SECCIÓN II. DE LA PARTICIPACIÓN SOCIAL
+#### SECCIÓN I. DERECHOS Y DEBERES DE LOS PADRES DE FAMILIA Y TUTORES
 
 ###### Artículo 74.
 
@@ -753,7 +771,7 @@ V. Apoyar el proceso educativo de sus hijos o pupilos, y
 
 VI. Las que se desprendan de la Ley General y demás disposiciones jurídicas aplicables.
 
-#### SECCIÓN III. DE LA ORGANIZACIÓN DE LOS PADRES DE FAMILIA Y TUTORES
+#### SECCIÓN II. DE LA PARTICIPACIÓN SOCIAL
 
 ###### Artículo 76.
 
@@ -762,6 +780,8 @@ Las autoridades educativas estatal y municipal promoverán, de conformidad con l
 ###### Artículo 77.
 
 Las Autoridades Escolares harán lo conducente para que en cada escuela pública de educación básica se constituya y opere un Colectivo Escolar y/o Comunitario, el cual tendrá las mismas funciones que la Ley General y demás disposiciones jurídicas asignan a los consejos escolares de participación social.
+
+#### SECCIÓN III. DE LA ORGANIZACIÓN DE LOS PADRES DE FAMILIA Y TUTORES
 
 ###### Artículo 78.
 
@@ -1100,3 +1120,11 @@ Tlalixtac de Cabrera, Centro Oax., 11 de abril de 2016.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1645.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
