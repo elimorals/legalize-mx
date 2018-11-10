@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-de-los-derechos-humanos-del-pueblo-de-8639
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2017-08-10"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 14 de febrero de 2012.
 
@@ -191,9 +191,17 @@ XXVII. Interponer acciones de inconstitucionalidad en contra de leyes o disposic
 
 XXVIII. Dirigirse a la opinión pública, directamente o por intermedio de cualquier órgano de comunicación, para dar a conocer sus opiniones y recomendaciones;
 
-XXIX. Expedir su reglamento interno; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXX. Las demás que le otorguen la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, los instrumentos internacionales en materia de derechos humanos ratificados por el Estado Mexicano y otros ordenamientos legales del Estado.
+XXIX. Expedir su Reglamento Interno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXX. Designar observadores que cubran las marchas, manifestaciones o acciones de organizaciones sociales, civiles o cualquiera que sea su denominación, que guarden similitud, con el objeto de constatar que en el desarrollo de las mismas, no se violen los derechos humanos tutelados en la legislación, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXXI. Las demás que le otorguen la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, los instrumentos internacionales en materia de derechos humanos ratificados por el Estado Mexicano y otros ordenamientos legales del Estado.
 
 ###### Artículo 14.
 
@@ -287,9 +295,17 @@ VI. Nombrar a la o el titular de la Contraloría Interna de la Defensoría;
 
 VII. Proponer a la o el titular de la Defensoría, todas aquellas acciones y medidas que sirvan para una mejor observancia y tutela de los derechos humanos en el Estado;
 
-VIII. Vigilar la incorporación y aplicación de la perspectiva de género y pluralismo jurídico en la promoción y protección de los Derechos Humanos; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-IX. Las demás que le confiere la presente ley, su reglamento interno y los ordenamientos aplicables.
+VIII. Vigilar la incorporación y aplicación de la perspectiva de género y pluralismo jurídico en la promoción y protección de los Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+IX. Coadyuvar y vigilar el cumplimiento a lo dispuesto en la fracción XXX del artículo 13 de la presente Ley, y;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+X. Las demás que le otorguen la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, los instrumentos internacionales en materia de derechos humanos ratificados por el Estado Mexicano y otros ordenamientos legales del Estado.
 
 ### CAPÍTULO V. DE LA O EL TITULAR DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
@@ -1050,3 +1066,9 @@ P.O. 10 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 659.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO A LOS ARTÍCULOS 48 Y 54 DE LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA".]
 
 ÚNICO. El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1592.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
