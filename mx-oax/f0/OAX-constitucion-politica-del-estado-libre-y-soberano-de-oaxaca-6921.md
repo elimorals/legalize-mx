@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2018-08-01"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-[NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -33,7 +33,7 @@ MANUEL GARCIA VIGIL, Gobernador Constitucional del Estado Libre y Soberano de Oa
 
 Que la XXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, en funciones de Constituyente, de acuerdo con el artículo quinto del Decreto número ciento veinticinco expedido por el ciudadano Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Unión, el veintisiete de marzo de mil novecientos diecisiete, y con el artículo noventa y uno del decreto número catorce, expedido con fecha treinta de septiembre de mil novecientos veinte por el ciudadano Jesús Acevedo, Gobernador provisional, reforma la Constitución Política del Estado en los términos siguientes:
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -187,9 +187,9 @@ No se considerará confiscación la aplicación de bienes de una persona cuando 
 
 I. Será jurisdiccional y autónomo del de materia penal;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-II. Procederá en los casos de delitos de secuestro, robo de vehículos, trata de personas y delitos cometidos por servidores públicos que causen un daño o perjuicio patrimonial a la hacienda pública estatal o municipal siempre y cuando se cumplan las formalidades del procedimiento respecto de los bienes siguientes:
+II.- Procederá en los casos de delitos de secuestro, robo de vehículos, trata de personas, enriquecimiento ilícito, peculado, cohecho y delitos contra la salud en su modalidad de narco menudeo, respecto de los bienes siguientes:
 
 a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
@@ -393,6 +393,10 @@ Toda persona tiene derecho a la identidad y a ser registrada inmediatamente desp
 
 En el Estado está prohibida la trata de personas en todas sus formas.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+El Estado y los municipios promoverán normas, políticas y acciones para alcanzar igualdad entre hombres y mujeres, en todos los ámbitos; incorporarán la perspectiva de género en programas y capacitarán a los servidores públicos para su obligatoria aplicación en todas las instancias de Gobierno de los distintos niveles.
+
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 1999)</small>
 
 El Estado otorgará a los ciudadanos la seguridad indispensable para salvaguardar su vida e integridad personal, la ley establecerá la forma y términos en que deba brindarse.
@@ -497,9 +501,13 @@ El Estado brindara asistencia integral a los migrantes y a sus familias, fortale
 
 Toda persona dentro del territorio del Estado, tiene derecho a vivir en un medio ambiente sano para su desarrollo, salud y bienestar. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por las leyes.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 13.
 
-Ninguna ley ni autoridad podrá limitar el derecho de petición, con tal que ésta se formule por escrito, de manera pacífica y respetuosa. En asuntos políticos, sólo podrán ejercerlo los ciudadanos de la República. La autoridad a quien se dirija la petición tiene la obligación de contestarla por escrito en el término de diez días, cuando la ley no fije otro, y hacer llegar desde luego su respuesta al peticionario.
+Ninguna ley ni autoridad podrá limitar el derecho de petición, con tal que ésta se formule por escrito o por medios electrónicos, de manera pacífica y respetuosa. En asuntos políticos, sólo podrán ejercerlo los ciudadanos de la República. La autoridad a quién se dirija la petición tiene la obligación de contestarla por escrito o por medio electrónico solicitado, en el término de diez días, cuando la ley no fije otro, y hacer llegar desde luego su respuesta al peticionario.
+
+A las peticiones que se realicen en lengua indígena se les dará respuesta en la misma forma, quedando a cargo del Estado la labor de traducción o interpretación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -1585,9 +1593,11 @@ I. Dictar leyes para la administración del Gobierno interior del Estado, en tod
 
 II. Expedir leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-III. Arreglar y fijar los límites del Estado en los términos que señala el Artículo 46 de la Constitución Federal;
+III. Autorizar al Gobernador del Estado la firma de convenios, a fin de arreglar y fijar los límites del territorio del Estado y ratificar los mismos mediante el Decreto correspondiente.
+
+Consecuentemente solicitar la aprobación de la Cámara de Senadores, para los efectos del párrafo primero del artículo 46 de la Constitución Federal y de acuerdo con la Ley respectiva;
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -1625,9 +1635,9 @@ Los integrantes de los Concejos Municipales se elegirán entre los vecinos y est
 
 X. Emitir la Ley Municipal y las bases generales para su reglamentación;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XI. Aprobar los convenios que celebren los municipios al resolver conciliatoriamente sus conflictos de límites;
+XI. Aprobar los convenios amistosos que celebren los Municipios para fijar sus límites territoriales, de acuerdo con la Ley respectiva.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1895,9 +1905,9 @@ LXVIII. Aprobar, mediante el voto de la mayoría de los diputados presentes, el 
 
 LXIX. Expedir la Ley del Sistema Estatal de Combate a la Corrupción.
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-LXX. Elegir a los integrantes del Instituto de Acceso a la Información Pública y Protección de Datos Personales, conforme al artículo 114, apartado C, de esta Constitución y a su Contralor.
+LXX. Elegir al titular del Centro de Conciliación Laboral del Estado de Oaxaca, conforme al artículo 114, apartado B de esta Constitución, así como a los integrantes del Instituto de Acceso a la Información Pública y Protección de Datos Personales, conforme al artículo 114, apartado C, de esta Constitución y a su Contralor.
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -1915,9 +1925,13 @@ LXXIII. Legislar en materia de responsabilidades de los servidores públicos del
 
 LXXIV. Expedir leyes que establezcan la concurrencia del Gobierno del Estado y de los Municipios, en el ámbito de sus competencias, en materia de alimentación; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2018)</small>
+> <small>(REFORMADA [ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-LXXV. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones.
+LXXV. Designar por el voto de las dos terceras partes de sus miembros a los órganos de control interno de los órganos autónomos reconocidos en esta Constitución que ejerzan recursos del presupuesto de egresos del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+LXXVI. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones.
 
 ###### ARTICULO 60.
 
@@ -2273,6 +2287,10 @@ XVIII. Contratar financiamientos u obligaciones, en los términos del artículo 
 
 XIX. Celebrar convenios con el Gobierno Federal o con los ayuntamientos para coordinar sus atribuciones en materias concurrentes;
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Previa autorización del Congreso del Estado, celebrar convenios amistosos para el reconocimiento de límites territoriales del Estado de Oaxaca con las entidades federativas colindantes de conformidad con la Ley de la materia;
+
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 XX. Conceder licencia a funcionarios y empleados;
@@ -2303,9 +2321,9 @@ XXVI. En cualquier momento, optar por un gobierno de coalición con uno o varios
 
 El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los miembros presentes en el Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXVII. Intervenir en la designación del Fiscal General del Estado de Oaxaca y removerlo en términos de lo dispuesto en el apartado D del artículo 114 de esta Constitución.
+XXVII. Intervenir en la designación del Fiscal General del Estado de Oaxaca y removerlo en términos de lo dispuesto en el apartado D del Artículo 114, de esta Constitución y proponer la terna para la elección del titular del Centro de Conciliación Laboral, en términos de lo dispuesto en el apartado B del artículo 114, de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2357,7 +2375,7 @@ XIV. Dictar las disposiciones conducentes para que surtan todos sus efectos las 
 
 XV. Prestar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
-XVI. Nombrar el representante que le concierne en las juntas de conciliación y arbitraje a que se refiere la fracción XX del artículo 123 de la Constitución Federal;
+XVI. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
 
 XVII. Formar la estadística y organizar el catastro del Estado;
 
@@ -2406,6 +2424,14 @@ XXVIII. Cuidar el acervo de las obras artísticas, históricas y arqueológicas 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
 XXIX. Respetar y garantizar la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos jurídicos internacionales y esta Constitución; en particular, el fortalecimiento de su libre determinación y autonomía, patrimonio cultural, desarrollo económico y social que posibiliten sus aspiraciones y formas propias de vida, así como la protección y conservación de sus tierras, territorios y recursos o bienes naturales; y
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Podrá realizar consultas a los pueblos y comunidades indígenas y afromexicanas, garantizando el principio de consentimiento libre, previo e informado, antes de adoptar medidas Administrativas y de otra índole, que les afecten o sean susceptibles de afectarles, en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Deberá prever y proveer los recursos que de manera transversal serán invertidos en los pueblos y comunidades indígenas del Estado de Oaxaca, y;
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -2749,11 +2775,11 @@ Las personas que hayan ocupado el cargo de Magistrado o Juez de Primera Instanci
 
 Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia. La infracción a lo previsto en el presente párrafo será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 102.
 
-Para nombrar a los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, el Gobernador del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
+Para nombrar a los magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Laboral, el Gobernador del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
@@ -2919,13 +2945,33 @@ El cargo de Juez de Primera Instancia es renunciable, por causa justificada que 
 
 #### SECCION CUARTA. Del Tribunal de lo Contencioso Administrativo y de Cuentas
 
-#### Sección IV. De las Concesiones sobre el Espectro Radioeléctrico para uso Público y uso Social para prestar el Servicio de Radiodifusión
+#### SECCION QUINTA. Del Tribunal Laboral
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 111 BIS. El Poder Judicial contará con un Tribunal Laboral de carácter permanente, autónomo en su funcionamiento e Independiente en sus decisiones, el cual contará con las siguientes características:
+
+I.- Sus resoluciones en el ámbito de su competencia serán definitivas e inatacables en el orden local;
+
+II.- Será Unitario integrado por tres Magistrados y Secretarios Proyectistas de Estudio y Cuenta, y de Acuerdos. Los magistrados serán elegidos por la Legislatura, en los términos establecidos por el artículo 102 de esta Constitución y además de los requisitos correspondientes a los magistrados del Tribunal Superior de Justicia, cumplirán los criterios específicos que marque la Ley Orgánica del Poder Judicial del Estado, durarán en su encargo ocho años, con posibilidad de ser reelectos por un período adicional.
+
+III.- La administración, vigilancia y disciplina en este Tribunal corresponderá, en los términos que señalen esta Constitución y la Ley;
+
+IV.- Propondrá su presupuesto al Pleno del Tribunal Superior de Justicia del Estado, para su inclusión en el proyecto de Presupuesto del Poder Judicial;
+
+V.- Expedirán su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento; y
+
+VI.- Las normas para su organización y funcionamiento serán emitidas por el Poder Judicial; el procedimiento y los recursos contra sus sentencias y resoluciones se regirán por lo dispuesto en la Ley Federal del Trabajo, sus reglamentos y demás legislación aplicable, debiendo observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+El Tribunal Laboral del Poder Judicial del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia laboral, tendrá la estructura que establece la Ley Orgánica del Poder Judicial del Estado de Oaxaca y conocerá de las diferencias o los conflictos entre trabajadores y patrones, que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 111.
 
 (DEROGADO, P.O. 16 DE ENERO DE 2018)
 
-(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 #### Sección V. De las Concesiones para la Ocupación y Explotación de Recursos Orbitales
 
@@ -2940,6 +2986,8 @@ La Jurisdicción Indígena se ejercerá por las autoridades comunitarias de acue
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ## TITULO QUINTO. Del Gobierno Municipal
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚM. 1615 PUBLICADO EN LA SECCIÓN OCTAVA PÁGINA 11 DEL P.O. DE 10 DE NOVIEMBRE DE 2018, MEDIANTE EL CUAL EN SU ARTÍCULO ÚNICO ORDENA LA REFORMA A LA FRACCIÓN VI DEL PRESENTE ARTÍCULO, SE ADVIERTE QUE EL CONTENIDO DE LA MISMA NO FUE PUBLICADA.]</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3195,7 +3243,21 @@ El titular de la Defensoría será designado por el voto de las dos terceras par
 
 Durante el ejercicio de su encargo no podrá ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público, excepto la docencia o la investigación académica, siempre que no medie remuneración alguna. Sólo podrá ser removido de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
 
-B. (DEROGADO CON SUS FRACCIONES, P.O. 30 DE JUNIO DE 2015)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+B.- DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE OAXACA.
+
+La función conciliatoria en materia laboral estará a cargo del Centro de Conciliación Laboral en el Estado de Oaxaca, como organismo público descentralizado, el cual contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
+
+Su integración y funcionamiento se determinará en su propia Ley Orgánica.
+
+Para la designación del Titular del Centro de Conciliación Laboral del Estado de Oaxaca, el Titular del Poder Ejecutivo someterá una terna a consideración del Congreso del Estado, el cual previa comparecencia de las personas propuestas realizará la designación correspondiente. La designación se hará por el voto de las dos terceras partes de los diputados presentes, dentro del improrrogable plazo de treinta días. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de dicha terna, designe el titular del Poder Ejecutivo.
+
+En caso de que el Congreso rechace la totalidad de la terna propuesta, el Ejecutivo someterá una nueva, en los términos del párrafo anterior. Si la segunda terna fuera rechazada, ocupará la terna la persona que dentro de la misma designe el Ejecutivo.
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del órgano autónomo; deberá tener título de Licenciado en Derecho debidamente registrado, que no haya ocupado un cargo en un partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a su designación; que goce de buena reputación y que no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley.
+
+Desempeñará su encargo por períodos de cuatro años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el período respectivo. Solo podrá ser removido por causa grave en los términos del Título Séptimo de esta Constitución y no podrá tener otro empleo, cargo o comisión, con excepción de aquellos que actúe en representación del órgano y de los no remunerados en actividades docentes, científica, culturales o de beneficencia.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -5084,3 +5146,65 @@ NOVENO.- Los Magistrados del Pleno del Tribunal Superior de Justicia del Estado,
 DÉCIMO.- Se abrogan todas las disposiciones legales y reglamentarias que se opongan a lo que establece el presente Decreto.
 
 DÉCIMO PRIMERO.- El Honorable Congreso del Estado de Oaxaca hará las modificaciones correspondientes a las leyes secundarias en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1609.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Congreso del Estado deberá realizar las adecuaciones correspondientes a los ordenamientos secundarios para dar cumplimiento a lo previsto en el presente Decreto, dentro de los 90 días siguientes a la entrada en vigor del mismo. Y tan luego se apruebe y entre en vigor la Ley Secundaria del Artículo 123 de la Constitución Federal.
+
+TERCERO. El Tribunal Laboral del Poder Judicial del Estado de Oaxaca, sustituirá legalmente las funciones de la Junta Local de Conciliación y Arbitraje. Los asuntos que estuvieran en trámite al momento de iniciar sus funciones el Tribunal Laboral y el Centro de Conciliación Laboral del Estado de Oaxaca serán resueltos de acuerdo con las disposiciones aplicables al momento de su inicio.
+
+CUARTO. En tanto se instituyen e inician operaciones el Tribunal Laboral y el Centro de Conciliación Laboral del Estado de Oaxaca a que se refiere el presente Decreto, la Junta de Conciliación y Arbitraje continuará atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de contratos colectivos de trabajo y organizaciones sindicales.
+
+QUINTO. En cualquier caso, los derechos de los trabajadores que tienen a su cargo la atención de los asuntos en la Junta Local de Conciliación y Arbitraje se respetarán conforme a la ley.
+
+SEXTO. La Junta Local de Conciliación y Arbitraje deberá transferir los procedimientos, expedientes y documentación que, en el ámbito de sus respectivas competencias tengan bajo su atención o resguardo al Tribunal Laboral dependiente del Poder Judicial del Estado de Oaxaca y al Centro de Conciliación Laboral del Estado de Oaxaca; los cuales se encargarán de resolver las diferencias y los conflictos entre patrones y trabajadores.
+
+SÉPTIMO. El personal adscrito a las áreas administrativas será tomado en cuenta para integrar al Tribunal Laboral y al Órgano descentralizado de Conciliación respetando y garantizando sus derechos laborales.
+
+OCTAVO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1610.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1611.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- El Congreso del Estado deberá realizar las adecuaciones normativas necesarias a las leyes que regulan el funcionamiento de los órganos autónomos que refiere el artículo 114 de la Constitución Política del Estado Libre y Soberano de Oaxaca, en un plazo de sesenta días.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1612.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1613.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1614.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El Congreso del Estado contará con el término de 90 días para hacer las adecuaciones necesarias a las leyes secundarias.
+
+TERCERO.- El Gobernador del Estado deberá considerar en su presupuesto de egresos del próximo año, los recursos materiales y humanos que sean necesarios para que, la instancia gubernamental con competencia en materia indígena en el Estado, cumpla con los propósitos señalados en el presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. EL "DECRETO NÚM. 1615.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.]</small>
