@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2018-10-10"
+last_updated: "2018-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -319,9 +319,9 @@ XV. Secretaría de Economía;
 
 XVI. Secretaría de Turismo;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XVII. Secretaría de la Mujer Oaxaqueña y
+XVII. Secretaría de las Mujeres de Oaxaca, y
 
 > <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
 
@@ -567,19 +567,35 @@ XVII. Expedir los acuerdos, circulares y demás disposiciones jurídicas conduce
 
 XVIII. Coordinarse y auxiliar a las autoridades federales, en los términos de las leyes correspondientes, en la prevención y persecución de delitos federales relacionados con la materia de pirotecnia, detonantes, portación de armas de fuego, piratería y migración, y llevar a cabo los trámites que en dichas materias correspondan al Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XIX. Presidir el Consejo Estatal de Desarrollo Policial, que tendrá por objeto normar, conocer y resolver toda controversia que se suscite en relación con los procedimientos del servicio profesional de carrera, profesionalización y el régimen disciplinario de los integrantes de la Policía Estatal, de los cuerpos de vigilancia y custodia de establecimientos penitenciarios, de detención preventiva o centros de arraigo y del órgano desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaría de Seguridad Pública, así como las demás corporaciones policiales de la Secretaría de Seguridad Pública; exceptuando a la Agencia Estatal de Investigaciones de la Fiscalía General del Estado de Oaxaca y a las policías municipales;
+XIX. Presidir la Comisión de Honor y Justicia, que tendrá por objeto normar, conocer y resolver toda controversia que se suscite con relación a los procedimientos disciplinarios que se instruyan a la Policía Estatal; Cuerpos de Seguridad, Vigilancia y Custodia Penitenciaria en los Centros Penitenciarios, Guías Técnicos en los Centros Especializados de Internamiento; de Detención Preventiva; del Órgano Desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial (PABIC) de la Secretaría de Seguridad Pública; así como las demás corporaciones policiales de la Secretaría de Seguridad Pública con motivo de las infracciones cometidas en la prestación del servicio, exceptuando a la Agencia Estatal de Investigaciones de la Fiscalía General del Estado de Oaxaca y a las policías municipales;
 
 XX. Ejecutar las disposiciones sobre los servicios de seguridad privada en el Estado, así como, vigilarlos y supervisarlos, sancionando las faltas e irregularidades de los mismos, de conformidad con las leyes y normas de la materia;
 
 XXI. Establecer, operar y coordinar el sistema estatal de información de seguridad pública, de conformidad con la Ley del Sistema Estatal de Seguridad Pública de Oaxaca y demás disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXII. Investigar, a través de la Dirección General de Asuntos Internos, las denuncias por anomalías que se susciten en la conducta de los integrantes de la Policía Estatal, cuerpos de vigilancia y custodia de establecimientos penitenciarios, de detención preventiva o centros de arraigo y del órgano desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaría de Seguridad Pública, así como, las demás corporaciones policiales de la Secretaría de Seguridad Pública; exceptuando a la Agencia Estatal de Investigaciones de la Fiscalía General del Estado de Oaxaca y a las policías municipales; con motivo de faltas administrativas o infracciones disciplinarias; y
+XXII. Investigar, a través de la Dirección General de Asuntos Internos, las denuncias por anomalías que se susciten en la conducta de los integrantes de la Policía Estatal, Cuerpos de Seguridad, Vigilancia y Custodia Penitenciaria en los Centros Penitenciarios, Guías Técnicos en los Centros Especializados de Internamiento, de Detención Preventiva; del Órgano Desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaría de Seguridad Pública, así como las demás corporaciones policiales de la Secretaría de Seguridad Pública, exceptuando a la Agencia Estatal de Investigaciones de la Fiscalía General del Estado de Oaxaca y a las policías municipales, con motivo de faltas administrativas o infracciones disciplinarias;
 
-XXIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXIII. Fomentar y promover la incorporación de la perspectiva de género en la planeación, programación, acciones, proyectos y políticas públicas de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXIV. Brindar servicios de mediación para la solución de conflictos interpersonales derivados de las condiciones de convivencia interna de los Centros Penitenciarios del Estado y de justicia restaurativa de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXV. Implementar la industria penitenciaria en los Centros Penitenciarios del Estado, encaminada a cumplir los mecanismos para la reinserción social de las personas privadas de la libertad;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXVI. Dirigir, administrar y operar la Unidad de Medidas Cautelares, de conformidad con las disposiciones legales aplicables, y
+
+XXVII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1287,13 +1303,17 @@ LV. Administrar la Casa Oficial del Gobierno del Estado.
 
 LVI. Celebrar convenios y demás instrumentos jurídicos con dependencias y entidades federales;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-LVII. Establecer políticas generales y programas estratégicos, para la aplicación de tecnologías de la información, así como reglamentar y coordinar el desarrollo de sistemas de información, y
+LVII. Establecer políticas generales y programas estratégicos, para la aplicación de tecnologías de la información, así como reglamentar y coordinar el desarrollo de sistemas de información;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-LVIII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
+LVIII. Recabar, procesar y diseminar toda la información pertinente para prevenir conductas relativas al lavado de activos, incluida las relativas a las (sic) declaración de situación patrimonial de los servidores públicos que al efecto requiera de la Secretaría de la Contraloría y Transparencia Gubernamental así como del registro vehicular y la que resulte necesaria para la prevención de conductas relativas al lavado de activos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+LIX. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1545,71 +1565,159 @@ XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de
 
 XVII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 46-C.
 
-La Secretaría de la Mujer Oaxaqueña le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de las Mujeres de Oaxaca, le corresponde el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 I. Elaborar el Programa Estatal de Igualdad, instrumento que deberá guiar la incorporación de la perspectiva de género en la administración pública estatal, mediante la institucionalización de normas, planes y proyectos orientados a eliminar la desigualdad de género y garantizar a las mujeres el ejercicio de sus derechos civiles, políticos, económicos y sociales.
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 II. Proponer, promover, ejecutar, impulsar y evaluar periódica y sistemáticamente las políticas, planes, programas y medidas encaminadas a incorporar la perspectiva de género, con un criterio transversal en todas las Dependencias y Entidades de la Administración Pública Estatal, a fin de impulsar la igualdad sustantiva, el acceso a las oportunidades y el desarrollo de las mujeres.
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 III. Dirigir como órgano rector a través del Ejecutivo Estatal, la política pública de igualdad sustantiva entre mujeres y hombres en las Dependencias y Entidades de la Administración Pública Estatal y municipal;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 IV. Formular, promover e instrumentar políticas públicas para la igualdad sustantiva entre mujeres y hombres, fomentando el desarrollo social, cultural, político y económico de las mujeres, que asegure la eliminación de la discriminación y violencia hacia las mujeres;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 V. Promover la participación de las mujeres en condiciones de igualdad sustantiva en el desarrollo económico, político, social y cultural con la intervención que corresponda a las dependencias que integran la administración pública del Estado;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 VI. Establecer y concertar acuerdos, convenios e instrumentos para el cumplimiento de las atribuciones de la Secretaría y las políticas, acciones y programas que se establezcan en el Plan Estatal de Desarrollo, el Programa Estatal para la Igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres, las leyes generales y locales de Igualdad y No Violencia Contra las Mujeres;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 VII. Promover, instrumentar y evaluar de forma transversal los programas, proyectos y acciones que faciliten a las mujeres el pleno desarrollo de sus potencialidades;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 VIII. Celebrar convenios con las instituciones de la federación, estados, municipios, organismos nacionales e internacionales, iniciativa privada, asociaciones civiles, universidades y centros de investigación, para la implementación de programas, proyectos y acciones, que favorezcan el desarrollo integral de las mujeres en el Estado, a efecto de que participen en su elaboración e implementación, encausando la participación de la sociedad civil en la elaboración de los programas de participación social, económica, política y cultural de la mujer oaxaqueña;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 IX. Establecer y operar un sistema de seguimiento de las acciones institucionales de la federación y el estado, a fin de evaluar el seguimiento de las políticas de igualdad sustantiva en el estado y el impacto a nivel nacional de la agenda de género;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 X. Proponer al Gobernador del Estado iniciativas y reformas de ley en lo relativo a los derechos de las mujeres, sobre los programas que tengan a su cargo las dependencias y entidades federales, estatales y municipales, procurando la perspectiva de género y que la asignación de los recursos a los mismos, respondan a un enfoque de género, a fin de que se atiendan las necesidades de la mujer oaxaqueña;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XI. Coordinar programas de formación y capacitación que sensibilice en la temática de perspectiva de género a las y los servidores públicos de la administración pública estatal y municipal, a fin de asegurar la transversalidad con perspectiva de género en apego a los Derechos humanos de las Mujeres, en los programas y proyectos implementados institucionalmente:
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XII. Apoyar a los municipios en la formulación y puesta en marcha de programas que impulsen la incorporación integral de la mujer al desarrollo y mantener estrecha relación e intercambio de información con las autoridades municipales correspondientes, en coordinación con instituciones educativas y de investigación en la materia;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XIII. Impulsar el desarrollo económico de las mujeres mediante la gestión e implementación de programas que permitan mejorar el nivel de vida de las mujeres oaxaqueñas;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XIV. Proponer convenios con instituciones financieras y de crédito, públicas y privadas, para establecer condiciones que promuevan el desarrollo económico y social de las mujeres; que permitan lograr su autonomía, autodeterminación y empoderamiento para un mejor posicionamiento social y una mayor capacidad de toma de decisiones;
 
-XV. Diseñar programas que promuevan el desarrollo económico de las mujeres jefas de familia, estableciendo como prioridad aquellas en condiciones de vulnerabilidad, encaminadas para su ejecución, ante la Secretaría de Desarrollo Social y Humano, aquellos programas y proyectos estatales, federales e internacionales que promuevan la incorporación de la mujer oaxaqueña al bienestar social y a la actividad productiva;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XV. Diseñar programas que promuevan el desarrollo económico de las mujeres jefas de familia, estableciendo como prioridad aquellas que se encuentran en condiciones de vulnerabilidad, encaminadas para su ejecución, ante la Secretaría de desarrollo social y humano, aquellos programas y proyectos estatales, federales e internacionales que promuevan la incorporación de las mujeres de Oaxaca en el bienestar social y a la actividad productiva;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XVI. Gestionar, fortalecer y dar seguimiento a Centros regionalizados para la atención directa a la violencia de género y acceso a la justicia de las mujeres;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XVII. Coordinar y evaluar los servicios de atención brindados a las mujeres por especialistas, con perspectiva de género y aplicación de protocolos especializados;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XVIII. Impulsar acciones que contribuyan a prevenir, atender, sancionar y erradicar la violencia de género en todas sus vertientes, en coordinación con las instancias correspondientes, proponiendo reformas legislativas que eliminen todo tipo de discriminación y que favorezcan la igualdad efectiva de las mujeres, adecuando el marco normativo a la legislación nacional e internacional en la materia;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XIX. Promover en los medios de comunicación local el conocimiento y respeto a los Derechos Humanos de las Mujeres; que prevenga la violencia de género, estereotipos, los roles de género y cualquier otra conducta que genere discriminación en contra de las mujeres;
 
-XX. Fortalecer la participación social, política y cultural de las mujeres, incluyendo la pluralidad de intereses y necesidades sociales de las mujeres para contribuir a la consolidación de la democracia, poniendo énfasis en los municipios que se rigen bajo el sistema normativo interno, coadyuvando con los órganos electorales, tanto federales y estatales;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XX. Fortalecer la participación social, política y cultural de las mujeres, incluyendo la pluralidad de intereses y necesidades sociales de las mujeres para contribuir a la consolidación de la democracia, poniendo énfasis en los municipios que se rigen bajo el sistema normativo interno, coadyuvando con los órganos electorales, tanto federales y estatales, con un enfoque de interculturalidad;
 
 > <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
 
 XXI. Promover la incorporación transversal de la perspectiva de género de los procesos educativos, en coordinación con el Instituto Estatal de Educación Pública de Oaxaca, mediante la incorporación de materias curriculares de perspectiva de género en educación básica y media superior, así como, el lenguaje incluyente y no discriminatorio de conocimientos y divulgación de la información tendientes a la generación de igualdad para las mujeres y hombres;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XXII. Promover ante las autoridades correspondientes, las medidas y acciones que contribuyan a garantizar el acceso y permanencia de las mujeres en todos los niveles y modalidades del sistema educativo, haciendo énfasis en el medio rural;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XXIII. Fomentar el acceso de las mujeres a un sistema de salud que favorezca su desarrollo personal y social, incorporando el respeto a la medicina tradicional y a las diferencias culturales;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XXIV. Promover la creación de Instancias Municipales de las Mujeres, en coordinación con el Poder Legislativo y los ayuntamientos, con el objeto de que implementen y articulen la política municipal en materia de igualdad entre mujeres y hombres y la política orientada a erradicar la violencia contra las mujeres de conformidad con las políticas nacional y local correspondientes;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XXV. Instrumentar acciones con perspectiva de género que mejoren las condiciones laborales;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XXVI. Elaborar estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad, así como los tipos y modalidades de la violencia de género contra las mujeres;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXVII. Formular la normativa necesaria para el desempeño de sus funciones de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal para la igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres y las políticas del Gobierno del Estado materia de las facultades y competencias de la Secretaría de la Mujer Oaxaqueña, y
+XXVII. Formular la normativa necesaria para el desempeño de sus funciones de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal para la igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres y las políticas del Gobierno del Estado materia de las facultades y competencias de la Secretaría de las Mujeres de Oaxaca;
 
-XXVIII. Las demás que le confieran las normas jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXVIII. Emitir a las Dependencias y Entidades de la Administración Pública Estatal:
+
+a) Opiniones consultivas, en materia de perspectiva e igualdad de género;
+
+b) Recomendaciones no vinculatorias sobre políticas públicas y programas gubernamentales que fomenten directa o indirectamente la discriminación contra las mujeres, la violación de sus derechos, el sexismo y la violencia simbólica contra las mujeres.
+
+Estas recomendaciones se rigen por el principio de máxima publicidad.
+
+c) Recomendaciones sobre retiro de la propaganda o publicidad gubernamental de la vía pública o medios de comunicación o difusión en caso de que ésta promueva la discriminación o la violencia contra las mujeres, la violación de sus derechos, así como la normalización de roles y estereotipos de género;
+
+d) Observaciones vinculatorias sobre políticas públicas, programas o planes gubernamentales que carezcan de perspectiva de género y su transversalidad a fin de que se incluyan.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXIX. Emitir opiniones consultivas a personas morales de la iniciativa privada, a solicitud de éstas, con el fin de incorporar la perspectiva e igualdad de género en sus procesos organizacionales y publicidad.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXX. Proponer a las Entidades de la Administración Pública Estatal, mecanismos de monitoreo, evaluación y rendición de cuentas, para abordar los factores estructurales que causan desigualdades entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXXI. Fortalecer la participación de las organizaciones de mujeres y otras organizaciones de la sociedad civil en el diseño y la supervisión en la implementación de las políticas de igualdad de género.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXXII. Operar el Banco Estatal de Datos sobre Capacitaciones en Igualdad de Género, Violencia contra las Mujeres y Derechos Humanos de las Mujeres, el cual será un instrumento para:
+
+a) Concentrar información relativa a la participación de quienes prestan un servicio público en las instituciones de la Administración Pública Estatal;
+
+b) Coordinar las estrategias de: capacitaciones, cursos, conferencias, pláticas, diplomados, talleres y técnicas reflexivas como Cine-debate y mesas reflexivas;
+
+c) Recabar la información necesaria para la elaboración de estadísticas, esta información deberá ser remitida a esta Secretaría de manera mensual y semestral por las Dependencias de Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXXIII. Las que en el ámbito de su competencia le confiere directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2017)</small>
 
@@ -1621,9 +1729,9 @@ A la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable le corre
 
 I. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de protección al ambiente y sustentabilidad a los recursos naturales atribuidas al Ejecutivo Estatal;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-II. Formular y conducir el programa Estatal de protección al ambiente, en congruencia con el Plan Estatal de Desarrollo;
+II. Formular y conducir el plan sectorial y el programa estatal de protección al ambiente, en congruencia con el Plan Estatal de Desarrollo;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1657,9 +1765,9 @@ IX. Implementar medidas y mecanismos para regular el aprovechamiento racional, p
 
 X. Evaluar el impacto ambiental previamente a la realización de las obras o actividades que sean de su competencia;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XI. Regular las actividades que deban ser consideradas altamente riesgosas cuando por los efectos que puedan generar, impacten ecosistemas o el ambiente en la entidad;
+XI. Regular las actividades señaladas en el artículo 7 fracción IV de la Ley General de Equilibrio Ecológico;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1685,9 +1793,7 @@ XVI. Regular con fines ecológicos, en coordinación con los Municipios, el apro
 
 XVII. Instrumentar en coordinación con las autoridades educativas programas de educación ambiental dirigidos a estudiantes y sociedad en general, y fomentar la protección del ambiente y el desarrollo sustentable de la entidad;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XVIII. Atender quejas y denuncias relacionadas con la contaminación del ambiente y en su caso, aplicar en el ámbito de su competencia las sanciones administrativas, por violaciones a la Ley del Equilibrio Ecológico del Estado de Oaxaca y demás disposiciones jurídicas aplicables;
+XVIII. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1705,13 +1811,25 @@ XXI. Promover y fomentar las investigaciones de protección del medio ambiente y
 
 XXII. Coadyuvar con las autoridades federales competentes, en el diseño, formulación y desarrollo de las políticas públicas, programas, proyectos y explotación, en materia de energías e infraestructura energética en el estado, dentro del ámbito de su competencia;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXIII. Impulsar políticas públicas, para la mitigación y adaptación al cambio climático y fomentar estudios e investigaciones en esta materia, en el ámbito de su esfera competencial, y
+XXIII. Impulsar políticas públicas, para la mitigación y adaptación al cambio climático y fomentar estudios e investigaciones en esta materia, en el ámbito de su esfera competencial;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXIV. Las demás que le confieran las leyes, decretos, acuerdos y reglamentos.
+XXIV. Desarrollar e implementar acciones, programas o proyectos en materia de energías limpias y renovables, y demás que permitan la protección del ambiente y del equilibrio ecológico en los términos de la legislación aplicable de los instrumentos jurídicos que para el efecto se celebren con el Gobierno Federal, previa consulta de la comunidad a la que impacte, en los términos de la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXV. Fortalecer el aprovechamiento sustentable, la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como, de las aguas nacionales que se tengan asignadas conforme a la legislación aplicable, previa consulta de la comunidad a la que impacte, en los términos de la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXVI. Regular e implementar acciones de prevención y control de la contaminación generada por los vehículos automotores que circulen en el Estado, así como, ejecutar el servicio de verificación vehicular; y,
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+XXVVII (SIC). Las que en el ámbito de su competencia le confiera su Reglamento Interno y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1877,7 +1995,7 @@ XXVII. Revisar y autorizar en el ámbito de su competencia, conjuntamente con la
 
 XXVIII. Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de exhortos judiciales, legislativos y administrativos dirigidos al titular del Poder Ejecutivo;
 
-XXIX. Fungir como Unidad de Enlace en materia de Transparencia de la Gubernatura y de la propia Consejeria Jurídica; asimismo, ser el Secretario Técnico del Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado, actuando como Sujeto Obligado, por lo que deberá emitir y supervisar, con apoyo de los integrantes de dicho Comité, la aplicación de criterios y lineamientos para las Dependencias y Entidades, en cumplimiento a las disposiciones aplicables en la materia;
+XXIX. Fungir como Unidad de Enlace en materia de Transparencia de la Gubernatura y de la propia Consejería Jurídica; asimismo, ser el Secretario Técnico del Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado, actuando como Sujeto Obligado, por lo que deberá emitir y supervisar, con apoyo de los integrantes de dicho Comité, la aplicación de criterios y lineamientos para las Dependencias y Entidades, en cumplimiento a las disposiciones aplicables en la materia;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -2215,7 +2333,7 @@ X. Coordinar la elaboración y supervisar la ejecución del Programa de Ciencia 
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XI. Establecer los mecanismos de vinculación con el sector académico, instituciones de capacitación para el trabajo, educación media superior y superior, centros e institutos de investigación, así como con el sector productivo, públicos, privado y social, conforme a las perspectivas del desarrollo económico, social y cultural en el Estado de Oaxaca;
+XI. Establecer los mecanismos de vinculación con el sector académico, instituciones de capacitación para el trabajo, educación media superior y superior, centros e institutos de investigación, así como con el sector productivo, públicos (sic), privado y social, conforme a las perspectivas del desarrollo económico, social y cultural en el Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -2815,7 +2933,7 @@ TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
 
 P.O. 17 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2054.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2054.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
 
@@ -2835,7 +2953,7 @@ SEXTO.- Las obligaciones y derechos derivados de contratos, convenios o cualquie
 
 SÉPTIMO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias o entidades cuyas funciones se reforman en virtud de este Decreto, se entenderán referidas a las dependencias a quienes respectivamente corresponden tales funciones.
 
-OCTAVO.- Los asuntos que con motivo de esta reforma deban pasar de una dependencia o entidad a otra, permanencerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia o entidad que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+OCTAVO.- Los asuntos que con motivo de esta reforma deban pasar de una dependencia o entidad a otra, permanencerán (sic) en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia o entidad que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
 NOVENO.- El Titular del Poder Ejecutivo en un término no mayor de treinta días naturales a partir de la fecha de entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
 
@@ -3035,6 +3153,44 @@ SÉPTIMO. El Gobernador del Estado a través de las Secretarías de Finanzas, Ad
 
 P.O. 10 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1587.- MEDIANTE EL CUAL SE DEROGAN LOS ARTÍCULOS TRANSITORIOS TERCERO Y CUARTO DEL DECRETO 1396, PUBLICADO EL 17 DE FEBRERO DE 2018, POR EL QUE SE REFORMÓ, ADICIONÓ Y DEROGARON DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1587.- MEDIANTE EL CUAL SE DEROGAN LOS ARTÍCULOS TRANSITORIOS TERCERO Y CUARTO DEL DECRETO 1396, PUBLICADO EL 17 DE FEBRERO DE 2018, POR EL QUE SE REFORMÓ, ADICIONÓ Y DEROGARON DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1620.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1627.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas normas de igual o menor rango que se opongan al presente Decreto, aunque no estén expresamente derogadas
+
+TERCERO. La Unidad Administrativa encargada de la realización de las atribuciones concedidas a la Secretaría de Finanzas por virtud del presente Decreto deberá iniciar su operación en un plazo no mayor de 90 días hábiles contados a partir de la publicación del mismo, para lo cual deberán asignarse los recursos humanos, materiales, financieros y presupuestales necesarios, para su adecuada operación.
+
+Todos los servidores públicos que presten sus servicios en la referida Unidad deberán someterse a la certificación de control de confianza a la que se refiere la Ley General del Sistema Nacional de Seguridad Pública, para cuyo efecto, la Secretaría de Finanzas podrá celebrar los convenios correspondientes con las entidades facultadas para la realización de dicha certificación.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1673.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Comisión del Servicio Profesional de Carrera, y Comisión de Honor y Justicia, deberá instalarse a más tardar dentro de los sesenta días naturales, contados a partir de la entrada en vigor de las reformas a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca. Los asuntos iniciados ante el Consejo Estatal de Desarrollo Policial, previo a la entrada en vigor de las reformas y adiciones a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca, deberán culminarse con las disposiciones normativas vigentes hasta la entrada en vigor.
+
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a lo establecido en el presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1674.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
