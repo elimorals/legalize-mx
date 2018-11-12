@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2017-12-26"
+last_updated: "2018-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -227,9 +227,9 @@ I. El Ayuntamiento;
 
 II. El Presidente;
 
-> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-III. El Tesorero;
+III. El Tesorero y, en su caso, quien ejerza la función de ejecución fiscal;
 
 IV. Los titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
 
@@ -300,6 +300,12 @@ Los aprovechamientos son ingresos que percibe el Municipio en sus funciones de d
 Los productos son contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes de dominio privado.
 
 También se consideran productos los ingresos provenientes de la venta de primera mano que, por la explotación de sus bienes de dominio privado, haga el Ayuntamiento al realizar actividades agrícolas, ganaderas, pesqueras, silvícolas o cualesquiera otras de naturaleza similar.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 22 Bis.
+
+Se exentará toda contribución, aprovechamiento o producto por el uso, goce o disfrute de los bienes que se encuentren dentro de las Zonas Económicas Especiales, así como por los servicios previstos en el Convenio de Coordinación.
 
 ###### Artículo 23.
 
@@ -1105,6 +1111,10 @@ XXI. No dar aviso a la Tesorería, o hacerlo extemporáneamente respecto del ces
 
 XXII. Incurrir en cualquier otro acto u omisión distinto de los enumerados en las fracciones anteriores que, en alguna forma, infrinja las disposiciones fiscales.
 
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+XXIII. Ostentar en forma no idónea o diversa de lo que señalen las disposiciones fiscales la comprobación del pago de una prestación fiscal.
+
 ###### Artículo 89.
 
 Son infracciones cuya responsabilidad corresponde a los encargados del Registro Público de la Propiedad, Notarios Públicos, Corredores Públicos, autoridades judiciales y, en general, de los fedatarios públicos:
@@ -1191,13 +1201,17 @@ Las autoridades fiscales impondrán las sanciones administrativas por infracció
 
 I. Las infracciones que establece el artículo 88 de este Código serán sancionadas con multa equivalente a los montos que a continuación se señalan:
 
-a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, X, XII y XV.
 
-b) De quince a treinta días de salario mínimo, por infracción a las fracciones XIX, XXI y XXII.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
+b) De quince a treinta días de salario mínimo, por infracción a las fracciones XXI, XXII y XXIII;
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+c) De treinta a ciento cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, VIII, IX, XI, XIII, XIV, XVI, XVII, XVIII y XX;
 
 > <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
@@ -1495,13 +1509,19 @@ El impuesto predial se causará anualmente y se liquidará y se pagará conforme
 
 El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en la Tesorería u oficinas autorizadas.
 
-Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al Congreso.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de marzo, por acuerdo del Cabildo, el que se comunicará al Congreso.
 
 > <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
 
 ###### Artículo 119.
 
 Están exentos del pago del Impuesto Predial, los bienes de dominio público de la Federación, del Estado y del Municipio, salvo que estos bienes sean utilizado (sic) por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos de los de su objeto público.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Las instituciones que se rijan por la Ley de Instituciones de Beneficencia Privada para el Estado de Veracruz de Ignacio de la Llave, estarán exentas del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de las instalaciones donde operen y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
 ###### Artículo 120.
 
@@ -1513,9 +1533,9 @@ Cuando la Tesorería advierta que un inmueble ha salido del dominio público de 
 
 Los contribuyentes del impuesto predial, que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina, con discapacidad, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-Las personas mayores de sesenta años o con discapacidad, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil unidades de medida y actualización (UMA).
+Las personas mayores de sesenta años, madres solteras y personas con discapacidad, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil unidades de medida y actualización (UMA).
 
 A estos descuentos no se podrá adicionar el descuento señalado en el artículo 118 de este Código.
 
@@ -1647,9 +1667,11 @@ Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vige
 
 Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 136.
 
-El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del uno por ciento.
+El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del (2%) dos por ciento.
 
 ###### Artículo 137.
 
@@ -2211,11 +2233,17 @@ Los derechos por refrendos anuales se calcularán a razón del diez por ciento d
 
 Es objeto de estos derechos la autorización que otorgue la autoridad municipal para la colocación de anuncios comerciales, en forma temporal o permanente, o para la realización de publicidad mediante altavoz móvil en la vía pública.
 
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Queda comprendida en la hipótesis anterior, la emisión, colocación o repartición de cualquier tipo de propaganda impresa.
+
 También es objeto de estos derechos la colocación de anuncios comerciales en el interior o exterior de los vehículos en los que se preste el servicio público de pasajeros.
 
 Para efectos de este derecho se entiende por anuncios comerciales o publicidad todo medio que proporcione información, orientación o identifique un servicio profesional, marca, producto o establecimiento con fines de venta de bienes o servicios, en tanto se realice, ubique o desarrolle en la vía pública del Municipio o tenga efectos sobre ésta repercutiendo en la imagen urbana.
 
-La expedición de licencias, permisos o autorizaciones a que se refiere esta Sección será anual o eventual.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+La expedición de licencias, permisos o autorizaciones a que se refiere esta sección podrá ser de manera diaria, mensual o anual según así se solicite.
 
 ###### Artículo 204.
 
@@ -2229,13 +2257,51 @@ Las autoridades municipales establecerán en sus reglamentos respectivos, o medi
 
 Los derechos a que se refiere esta Sección, se cobrarán por la autorización respectiva, de acuerdo a las cuotas siguientes:
 
-I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, de ocho a dieciséis salarios mínimos, anualmente;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-II. Por la colocación eventual de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, cuatro salarios mínimos por evento;
+I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana:
+
+a) Permiso temporal la cuota será de 1.25 salarios mínimos, por metro cuadrado o fracción, por mes, por pieza;
+
+b) Carteles en casetas telefónicas, siempre que no sean denominativos, la tarifa será de 0.25 salarios mínimos por mes, por cada lado;
+
+c) Volantes, folletos y/o muestras impresas de una a quinientas piezas, la tarifa será de 14 salarios mínimos por evento, de máximo 3 días;
+
+d) Material flexible tipo manta o lona, adosado o fachada por metro cuadrado o fracción, la cuota será de 1.5 salarios mínimos por mes;
+
+e) Carpas y toldos por pieza, por día, de hasta setenta metros cuadrados por máximo quince días, la tarifa será de 4.5 salarios mínimos;
+
+f) Globos aerostáticos, dirigibles, e inflables por metro cuadrado o fracción, por evento, la cuota será de 2.5 salarios mínimos;
+
+g) Por anuncios móviles en autobuses, automóviles, motocicletas y bicicletas, la cuota será de 2.8 salarios mínimos anualmente por cada metro cuadrado o fracción de unidad;
+
+h) Altoparlantes móviles o fijos, la tarifa será de 4 salarios mínimos por día, por evento de máximo 3 días;
+
+i) Pintura en fachadas, bardas, cortinas metálicas, anuncios de piso o de obra, por metro cuadrado o fracción, la cuota será de 1.5 salarios mínimos;
+
+j) De gabinete o adosado, con o sin iluminación, la tarifa será de 2 salarios mínimos por metro cuadrado o fracción;
+
+k) Toldos rígidos o flexibles, la cuota será de 6 salarios mínimos por metro cuadrado o fracción;
+
+l) Anuncios tipo paleta, tipo bandera, múltiple o con máximo siete metros cuadrados de área de exhibición y hasta cinco metros de alto, por metro cuadrado o fracción y por número de lados, la tarifa será de 2.5 salarios mínimos; y
+
+m) Todo espectacular unipolar, bipolar, estructural de azotea, muro o piso, mayor a diez metros cuadrados, espectacular electrónico y espectacular de proyección por metro cuadrado o fracción, por cada lado, la tarifa será de 3 salarios mínimos.
+
+Por revalidación de licencia o permiso se pagará un cincuenta por ciento de las cuotas establecidas para las licencias, debiendo estar vigente la licencia anterior al momento del pago de la licencia nueva, de lo contrario se cobrará como renovación.
+
+Por renovación de licencia (actualización de una licencia vencida), se pagará el valor de la licencia más un cincuenta por ciento del costo de la misma.
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+II. Por la colocación eventual de módulos de información con venta, que tengan efectos sobre ésta, repercutiendo en la imagen urbana, de cuatro a treinta salarios mínimos, por evento;
 
 III. Por el anuncio de eventos en altavoz móvil, cuatro salarios mínimos por evento; y
 
 IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, seis salarios mínimos, anualmente.
+
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+V. Por la colocación de activaciones publicitarias en la vía pública, de cuatro a quince salarios mínimos por metro cuadrado, por evento;
 
 No causarán los derechos previstos en esta Sección, la colocación de anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas; la publicidad de la Federación, del Estado, o del Municipio; y la publicidad que se realice con fines nominativos para la identificación de la negociación, siempre y cuando se realice en el propio establecimiento.
 
@@ -2257,7 +2323,9 @@ III. Por licencias:
 
 a) De construcción de bardas, por metro lineal 0.325 salarios mínimos;
 
-b) De construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta el edificio, se pagarán por metro cuadrado o fracción, de conformidad con las cuotas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+b) De construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta la construcción, se pagaran por metro cuadrado o fracción, de conformidad con las cuotas siguientes:
 
 Uso Salario
 
@@ -2279,59 +2347,65 @@ Mínimo
 
 8. De Servicio 0.152
 
-c) Para fusionar, subdividir o relotificar, en términos de la Ley de Desarrollo Regional y Urbano y el Reglamento de la materia, por metro cuadrado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-Uso Salario
+c) Para fusionar, subdividir en términos de la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, y el Reglamento de la materia, por metro cuadrado:
 
-Mínimo
+> <small>(REFORMADA SU TABLA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-1. Residencial 0.0212
+Usos de Suelo Salario Mínimo
 
-2. Medio 0.0145
+1. Residencial 0.030
 
-3. Interés Social 0.00625
+2. Medio 0.022
 
-4. Popular 0.004
+3. Interés Social 0.011
 
-5. Comercial 0.04
+4. Popular 0.009
 
-6. Industrial 0.04
+5. Comercial 0.100
 
-7. Agropecuario 0.0125
+6. Industrial 0.060
 
-8. De Servicio 0.015
+7. Agropecuario 0.020
+
+8. De Servicio 0.022
 
 En ningún caso la cuota a pagar será menor de 2 salarios mínimos
 
-d) Para fraccionamientos, sobre el área total por fraccionar o lotificar, por metro cuadrado o fracción, en término de la Ley de Desarrollo Regional y Urbano y sus reglamentos, por metro cuadrado o fracción:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-Uso Salario
+d) Para fraccionamientos, sobre el área total por fraccionar, lotificar o relotificar, por metro cuadrado o fracción, en término de la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, y el Reglamento de la materia por metro cuadrado o fracción:
 
-Mínimo
+> <small>(REFORMADA SU TABLA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-1. Residencial 0.0212
+Usos de Suelo Salario Mínimo
 
-2. Medio 0.0145
+1. Residencial 0.030
 
-3. Interés Social 0.00625
+2. Medio 0.022
 
-4. Popular 0.004
+3. Interés Social 0.011
 
-5. Comercial 0.04
+4. Popular 0.009
 
-6. Industrial 0.04
+5. Comercial 0.100
 
-7. Agropecuario 0.0125
+6. Industrial 0.060
 
-8. De Servicio 0.015
+7. Agropecuario 0.020
+
+8. De Servicio 0.022
 
 En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
 
-e) Por demoliciones, por metro cuadrado;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-Uso Salario
+e) Por demoliciones de construcción por metro cuadrado;
 
-Mínimo
+> <small>(REFORMADA SU TABLA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Usos de Suelo Salario Mínimo
 
 1. Residencial 0.256
 
@@ -2350,6 +2424,10 @@ Mínimo
 8. De Servicio 0.4075
 
 En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Por concepto de demolición de losa se tomará como base la superficie que resulte de la multiplicación de largo por ancho de losa, y en bardas perimetrales se tomará como base la superficie resultante del largo por la altura de barda.
 
 f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 1.2 salarios mínimos
 
@@ -2398,6 +2476,20 @@ Uso Salario Mínimo
 1. Comercial 0.425
 
 2. Servicio 0.152
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+3. Habitacional 0.100
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+n) Por la construcción, modificación u ocupación temporal del área de estacionamiento públicos o privados, por metro cuadrado o fracción, pagarán una cuota diaria de 0.01 salarios mínimos.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+o) Para realizar movimiento de tierra, por metro cuadrado, 0.05 salarios mínimos.
+
+En ninguno caso, la cuota será menor a cinco salarios mínimos.
 
 > <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
 
@@ -2467,31 +2559,53 @@ Mínimo
 
 8. De Servicio 4
 
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Por concepto de modificación y/o cambio del proyecto autorizado, aplicará pago de derechos, siempre y cuando cumplan con el mismo uso de suelo autorizado, y la misma superficie de construcción autorizada, dentro de la vigencia de la licencia.
+
 VI. Por dictamen de uso de suelo o administrativo, según clasificación, por metro cuadrado:
 
-Uso Salario
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-Mínimo
+a) Por licencia de uso de suelo, según clasificación, por metro cuadrado:
 
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADA SU TABLA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-1. Vivienda 0.07
+Usos de Suelo Salario Mínimo
 
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+1. Residencial 0.100
 
-2. Industria 0.075
+2. Medio 0.080
 
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+3. Interés Social 0.070
 
-3. Comercio 0.15
+4. Popular 0.070
 
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+5. Comercial 0.180
 
-4. Servicio 0.1
+6. Industrial 0.090
 
-En ningún caso la cuota a pagar será menor de 5 salarios mínimos;
+7. De Servicio 0.120
 
-Por cambio de uso de suelo, en caso de que el Municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para un dictamen de uso de suelo.
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+b) Por licencia de regularización de uso de suelo, según clasificación, por metro cuadrado, causará los derechos normales más un cincuenta por ciento de los mismos;
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+c) Por actualización de licencia de uso de suelo, sin importar la clasificación o los metros cuadrados, siempre y cuando no haya cambiado el plan de desarrollo urbano y ordenamiento territorial que sustenta la autorización: 10 salarios mínimos. En caso de haber cambiado el programa de ordenamiento deberá tramitar una licencia nueva; y
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+d) Por constancia de zonificación, la cuota será de 10 salarios mínimos.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+En ninguno de los incisos que corresponden a esta fracción VI, la cuota será menor a 5 salarios mínimos.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Por cambios de uso de suelo mediante acuerdo de cabildo, el proceso será de carácter gratuito, en términos de la normatividad aplicable, se pagará el costo de la autorización al tramitar la licencia de uso de suelo, de acuerdo a la fracción VI inciso a), del presente artículo.
 
 > <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
 
@@ -2503,9 +2617,19 @@ La regularización por omisión de registros o licencias de construcción causar
 
 En el caso de la asignación de número oficial, una vez asignado éste y pagados los derechos, no se estará obligado a pagar nuevos derechos cuando se hagan cambios ordenados por el Ayuntamiento, en un plazo de cinco años, contado a partir de su otorgamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 208.
 
-Por lo que hace a las licencias de construcción o ampliación, se tomará como base la superficie total de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que conste la construcción.
+Por lo que hace a las licencias de construcción o ampliación o remodelación extemporáneas, se tomará:
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+a) Por revalidación de licencia de construcción se pagará un cincuenta por ciento de las cuotas establecidas para las licencias, y
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+b) Por regularización de licencias de construcción se pagarán los derechos normales, más un cincuenta por ciento de los mismos.
 
 ###### Artículo 209.
 
@@ -2569,6 +2693,10 @@ I. La expedición de certificados, constancias y copias certificadas de document
 
 II. La evaluación de impacto ambiental.
 
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+III. La expedición de copias simples o certificadas, o por hoja impresa por medio de dispositivo informático, disco de 3.5 pulgadas o disco compacto, por solicitudes de información conforme a la Ley de Transparencia y Acceso a la información Pública para el Estado.
+
 ###### Artículo 222.
 
 Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
@@ -2603,7 +2731,9 @@ VI. Certificados de reclutamiento militar, 2.10 salarios mínimos;
 
 VII. Certificados de huellas dactilares 2.10 salarios mínimos;
 
-VIII. Constancias expedidas por las dependencias de Desarrollo Urbano, por cada una, según los incisos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Constancias expedidas por las dependencias de Desarrollo Urbano excepto las constancias de zonificación de uso de suelo que se regulan de acuerdo al artículo 206, fracción VI inciso e), por cada una, según los incisos siguientes:
 
 a) Interés Social y Popular, 2 salarios mínimos, y
 
@@ -2624,6 +2754,20 @@ XI. En los casos no especificados, la tarifa por la expedición de verificacione
 > <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
 
 XII. Tratándose de constancias emitidas por conceptos del cobro de trámites y servicios que se deriven de los convenios de coordinación o colaboración con las autoridades federales, estatales, municipales, sectores públicos o privados, se realizará en términos del instrumento correspondiente. Ante la falta de monto definido, se cobrarán 3 salarios mínimos.
+
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
+
+a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio: 0.02 salarios mínimos;
+
+b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 salarios mínimos; y
+
+c) Por información grabada en disco de 3.5 pulgadas o disco compacto, por copia: 0.03 salarios mínimos.
+
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Para la expedición de registro y/o refrendo de Perito Responsable de Obra y Perito Corresponsable de Obra, la cuota será de 10 salarios mínimos.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
@@ -2700,6 +2844,10 @@ a) Tramitación por funerarias 21.6
 b) Tramitación por particulares 10
 
 X. Nichos en el panteón municipal 13
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada.
 
 ### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
 
@@ -2815,7 +2963,7 @@ MINIMO
 
 a) Plano general urbano, Escala 1:7,500 15
 
-b) Plano de la zona rural, Escalas 1:15,000 10
+b) Plano de la zona rural, Escala 1:15,000 10
 
 c) Plano de región catastral, Escala 1:5,000 1
 
@@ -2846,6 +2994,20 @@ Impresa en papel bond 0.75
 Impresa en papel calidad fotográfica 1.25
 
 Grabada en diskette o C.D. archivo JPG 2.5
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+i) Cartografía digital en escala 1: 1,000 en formatos DXF., DWG. y ARC/INFO., por km2:
+
+Salario Mínimo
+
+1. Cobertura de manzanas, 22
+
+2. Cobertura de predios, 64
+
+3. Cobertura de construcciones, 64
+
+4. Cobertura de curvas de nivel a cada metro, 10
 
 En los casos de trámites urgentes, se aumentará su costo en un cuarenta por ciento más de la cuota autorizada
 
@@ -2913,7 +3075,9 @@ II. Registro de nacimientos ordinarios y
 
 extemporáneos. 1.20
 
-III. Reconocimiento de hijos. 1.20
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+III. Reconocimiento de hijos 2.50
 
 > <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
@@ -2939,21 +3103,29 @@ VI. Celebración de matrimonios a domicilio 65
 
 VII. Inscripción de sentencias. 13.20
 
-VIII. Divorcios. 17.5
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Divorcios
+
+a) Judiciales 13.20
+
+b) Administrativos 26.40
 
 > <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
 IX. Expedición de certificados o constancias 1.20
 
-> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-X. Notas marginales en los libros de actas. 1.20
+X. Notas marginales en los libros de actas 2.50
 
-> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-XI. Inscripción de actas del extranjero 4.5
+XI. Inscripción de actas del extranjero 13.20
 
-Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, cuando no se proporcionen los datos exactos para su localización.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, por cada 30 años o fracción del periodo que comprenda la búsqueda, cuando no se proporcionen los datos exactos para su localización.
 
 En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada.
 
@@ -2963,27 +3135,37 @@ En los casos de trámites urgentes, se aumentará su costo en un cien por ciento
 
 Es objeto de estos derechos la ocupación de inmuebles del dominio público del Municipio y sujetos de aquéllos las personas físicas o morales que reciban los servicios correspondientes.
 
-Las personas que utilicen espacios en mercados, así como en tianguis, deberán acreditar ante el Ayuntamiento, el permiso correspondiente al área que ocupen, a efecto de conformarse un padrón por cada mercado, debiendo el Ayuntamiento expedir una Cédula de Registro, previo el pago de derechos correspondientes.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Las personas que ocupen un espacio en los mercados, deberán acreditar su posesión ante la dependencia municipal correspondiente, a efecto de conformarse un padrón por cada mercado, debiendo dicha oficina expedir una Cédula de Empadronamiento, en términos de lo que establece la normatividad de la materia, cubriendo anualmente el derecho correspondiente por uso de espacio en el Mercado Municipal.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Tratándose de locales con actividad comercial dentro de los mercados regulados por la normatividad aplicable, y que sean sujetos al pago de derecho por ocupación de un espacio público municipal; durante los meses de febrero y marzo del ejercicio fiscal que trascurre obtendrán un descuento del veinte por ciento sobre el importe anual a pagar, dicho pago podrá prorrogarse hasta el mes de abril, previo acuerdo que para el caso emita el H. Ayuntamiento de Veracruz.
 
 ###### Artículo 247.
 
 Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
 
-> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, de 0.01 a 0.05 salarios mínimos.
+I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, de conformidad con las cuotas que para tales efectos establezca el Ayuntamiento.
+
+> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
 Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
-> <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-II. Ocupación permanente o temporal de la vía pública o áreas municipales, por vehículos, aparatos mecánicos; electromecánicos y casetas telefónicas por metro cuadrado o fracción, pagarán una cuota diaria de 0.01 a 0.05 salarios mínimos;
+II. Ocupación permanente o temporal de la vía pública o áreas municipales, por vehículos, aparatos mecánicos, electromecánicos y casetas telefónicas, por metro cuadrado o fracción, pagarán una cuota diaria de 0.05 salarios mínimos;
 
 > <small>(REFORMADA, G.O. 7 DE JULIO DE 2004)</small>
 
 III. Ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos, en días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción, pagarán una cuota diaria de 0.05 a 0.125 salarios mínimos;
 
-IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etc., exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie; 0.05 salarios mínimos;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etc; exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie o metro lineal, según corresponda; 0.05 salarios mínimos;
 
 V. La ocupación de la vía pública requiere autorización en los casos y con las cuotas que a continuación se indican:
 
@@ -3007,123 +3189,11 @@ El estacionamiento en la vía pública se pagará mediante utilización de parqu
 
 ### CAPÍTULO XIV. DE LOS DERECHOS EN MATERIA DE TRÁNSITO MUNICIPAL
 
-> <small>(ADICIONADO, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 247 Bis.
 
-Por los servicios prestados por la Dirección de Tránsito Municipal. Se causarán y cobrarán los derechos siguientes:
-
-I. Por la expedición de los permisos siguientes: Salarios Mínimos
-
-a) Provisional para circular sin placas ni tarjeta de
-
-circulación 10
-
-b) Para circular en zona restringida
-
-1. Por seis meses 20
-
-2. Por un día 2
-
-c) De carga, por un año 10
-
-d) Para circular vehículos con exceso de peso o dimensiones,
-
-por día 10
-
-e) Para transportar carga en vehículo destinado a otro fin,
-
-hasta por 30 días 3
-
-II. Por la prestación de otros servicios:
-
-a) Expedición de certificados médicos 4
-
-b) Constancias de cualquier naturaleza 1.5
-
-III. Por la utilización de grúas oficiales o concesionadas para el retiro de vehículos accidentados, infraccionados o por orden judicial:
-
-a) Arrastre en zona urbana dentro de un sector estimado en un radio de siete kilómetros de la ubicación del encierro municipal, por las categorías de los vehículos:
-
-Descripción del vehículo Salarios Mínimos
-
-1. Bicicletas y triciclos 2
-
-2. Motocicletas y cuatrimotos 4
-
-3. Automóviles y camionetas pick up o similares 10
-
-4. Camionetas de 3.5 toneladas y microbuses 11
-
-5. Autobuses, camiones, semirremolques y tractocamiones
-
-con o sin remolques 14
-
-b) Arrastre por distancia excedente al perímetro señalado en el inciso anterior, se adicionará por kilómetro recorrido la tarifa siguiente:
-
-Descripción de Vehículo Salarios Mínimos
-
-1. Motocicletas y cuatrimotos 0.25
-
-2. Automóviles y camionetas pick up o similares 0.30
-
-3. Camionetas de 3.5 toneladas y microbuses 0.35
-
-4. Autobuses, camiones, semirremolques y tractocamiones
-
-con o sin remolques 0.40
-
-c) Arrastre en operativo en el primer cuadro de la ciudad, considerando un radio de tres kilómetros, partiendo de la Dirección de Tránsito Municipal:
-
-Descripción de Vehículo Salarios Mínimos
-
-1. Automóviles, camionetas pick up o similares y camionetas
-
-de hasta 3.5 toneladas 5
-
-d) Tarifa por hora en operación de salvamento:
-
-Descripción de Vehículo Salarios Mínimos
-
-1. Motocicletas, cuatrimotos, automóviles y camionetas pick up. 16
-
-2. Camionetas de 3.5 toneladas y microbuses 19
-
-3. Autobuses, camiones, semirremolques y tractocamiones
-
-con o sin remolque 26
-
-e) Por diferentes servicios para todo tipo de vehículo, por hora:
-
-Descripción del servicio Salarios Mínimos
-
-1. Operador para el traslado de vehículos 4
-
-2. Abanderamiento 8
-
-3. Custodia 8
-
-IV. Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial, por día calendario:
-
-Descripción de Vehículo Salarios Mínimos
-
-1. Bicicletas y triciclos 0.10
-
-2. Motocicletas y cuatrimotos 0.20
-
-3. Automóviles 0.60
-
-4. Camionetas pick up o similares 0.70
-
-5. Camionetas de 3.5 toneladas, microbuses y tractocamiones
-
-sin remolques 1.15
-
-6. Autobuses, camiones, semirremolques y tractocamiones
-
-con remolque 1.35
-
-Para otro tipo de vehículos, las tarifas anteriores se homologarán de acuerdo a las dimensiones y peso de los vehículos relacionados.
+Por los servicios prestados por la Dirección de Tránsito Municipal, se causarán y cobrarán los derechos de conformidad con el Reglamento y/o normatividad expedida por el Municipio para tales fines.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 10 DE AGOSTO DE 2015)</small>
 
@@ -3501,7 +3571,9 @@ II. Abstenerse de asentar hechos falsos o alterar los libros y documentos a que 
 
 III. Abstenerse de faltar en cualquier otro caso a las obligaciones que le impongan este Código y las disposiciones reglamentarias; y
 
-IV. Pagar de su peculio las primas relativas a las fianzas suficientes para garantizar el pago de las responsabilidades en que pudiere incurrir en el desempeño de su encargo.
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+IV. Garantizar el pago de las responsabilidades en que pudiere incurrir en el desempeño de su encargo. Para tal efecto, el municipio cubrirá el pago de las primas relativas a las fianzas correspondientes.
 
 ###### Artículo 272.
 
@@ -3583,9 +3655,15 @@ La Tesorería ejercerá los derechos patrimoniales de los valores que represente
 
 Tratándose de empresas de participación municipal y de aquellas en que el Municipio tenga una participación minoritaria, el Cabildo designará al representante del Ayuntamiento ante los órganos de gobierno o las asambleas generales de accionistas o de socios de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 285.
 
-La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento y elaborará los estados contables para su integración en la cuenta pública municipal.
+La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento y elaborará los estados contables, presupuestarios y programáticos para su integración en la cuenta pública municipal, excepto en las entidades paramunicipales, en cuyo caso se estará a lo dispuesto en el instrumento de su creación.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+En ambos casos, la contabilidad y la emisión de información se sujetarán a lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código y demás disposiciones aplicables.
 
 ###### Artículo 286.
 
@@ -4015,19 +4093,25 @@ Si existen contratos por honorarios, no incrementarán sus percepciones ni obten
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 353.
 
-La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, de conformidad con lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código y demás disposiciones aplicables, con el propósito de incluir las cuentas para registrar los activos, pasivos, hacienda pública o patrimonio, ingresos, gastos y otras pérdidas, cuentas de cierre o corte contable, cuentas de orden contables, cuentas de orden presupuestarias y cuentas de liquidación y cierre presupuestario.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 354.
 
-La contabilidad del Ayuntamiento y la correspondiente a las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
+Los registros contables del Ayuntamiento y los correspondientes a las entidades se llevarán con base acumulativa, que se registrarán en los momentos contables correspondientes para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
 
-Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
+Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que facilite la fiscalización de los activos, pasivos, ingresos, egresos, avances del ejercicio de los presupuestos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 355.
 
-Las dependencias y entidades suministrarán a la Tesorería mensualmente, la información presupuestal, contable, financiera y de otra índole que requiera la propia Tesorería.
+Las dependencias y entidades suministrarán a la Tesorería, mensualmente, la información contable, presupuestal, programática y de otra índole que requiera la propia Tesorería.
 
 Será responsabilidad de cada entidad la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
 
@@ -4043,13 +4127,15 @@ Las entidades someterán a la consideración de la Tesorería las modificaciones
 
 Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
 
-> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
+I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos de lo dispuesto por la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
 
 II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
 
-III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado; así como solventar las observaciones que se le notifiquen por su propio desempeño o responsabilidad.
 
 IV. Administrar y conservar la documentación que contenga la información necesaria para la comprobación, origen y aplicación del gasto público, por el plazo que señale la ley de la materia;
 
@@ -4061,39 +4147,55 @@ VII. Participar en la depuración de cuentas de balance; y
 
 VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 358.
 
-El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte el Congreso.
+El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los postulados básicos de contabilidad gubernamental, así como con las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades o instancias competentes.
 
 #### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 359.
 
-El Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Dichos catálogos estarán integrados por los siguientes grupos de cuentas:
+El Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas y clasificadores por rubros de ingresos y por objeto del gasto a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Los catálogos y clasificadores se sujetarán a lo establecido en la Ley General de Contabilidad Gubernamental, este Código y demás disposiciones aplicables. Los catálogos contables se integran por los siguientes grupos de cuentas:
 
 I. Activo;
 
 II. Pasivo;
 
-III. Hacienda Pública;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+III. Hacienda Pública/patrimonio;
 
 IV. Ingresos;
 
-V. Egresos;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-VI. Cuentas de Orden; y
+V. Gastos y otras pérdidas;
 
-VII. Presupuesto.
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+VI. Cuentas de cierre o corte contable;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+VII. Cuentas de orden contables;
+
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Cuentas presupuestarias; y
+
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+IX. Cuentas de liquidación y cierre presupuestario.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 360.
 
-El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el Congreso, destinadas a captar los procesos siguientes:
-
-I. Asignación Presupuestal, que identifica el presupuesto de la dependencia o entidad y, en su caso modificada con autorización del Cabildo;
-
-II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación; y
-
-III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
+El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el Congreso, las que deberán reflejar los momentos contables de los ingresos y de los egresos.
 
 ###### Artículo 361.
 
@@ -4107,9 +4209,11 @@ Será responsabilidad de las dependencias y entidades la desagregación de las s
 
 La contabilidad de las dependencias y entidades contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 364.
 
-El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance o resultados.
+El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance, ingresos, gastos, presupuestarias y de orden.
 
 ###### Artículo 365.
 
@@ -4119,31 +4223,19 @@ El Ayuntamiento y sus entidades están obligados a resguardar y conservar en su 
 
 El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 367.
 
-Para el registro contable de las operaciones con base acumulativa, se observará lo siguiente:
-
-I. En lo relativo a obras públicas, el presupuesto se considerará comprometido al momento de aprobarse la estimación del avance físico de las mismas, por las personas autorizadas para tal efecto;
-
-II. Cuando se trate de gastos que se eroguen en forma continua, como son los servicios personales, los alquileres y la energía eléctrica, entre otros, el presupuesto se considerará ejercido al momento de efectuarse el pago; y
-
-III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará con base en las instrucciones que sobre el particular gire el Congreso.
+El registro contable de los pagos correspondientes al pasivo a corto plazo, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará de acuerdo a lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código, las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades competentes.
 
 #### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 368.
 
-La Tesorería consolidará mensualmente la información que a continuación se detalla:
-
-I. Estados Financieros, que comprenderán Balance General, Estado de Resultados y Estado de Origen y Aplicación de Recursos;
-
-II. Estados Contables, que incluirán Balanzas de Comprobación, Auxiliares de Cuentas Colectivas de Balance y Resultado y Conciliaciones Bancarias;
-
-III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos;
-
-IV. Estado de Deuda Pública; y
-
-V. Estados Económicos, que contendrán la descripción de información general que permita el análisis de los resultados económicos en un período y la evolución de las finanzas públicas.
+Para efectos de su integración y remisión, los estados financieros mensuales que elabore la Tesorería deberán contener los rubros de información previstos para la cuenta pública en la Ley de Fiscalización Superior, correspondiente al lapso que se informa.
 
 ###### Artículo 369.
 
@@ -4167,9 +4259,11 @@ La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lin
 
 Para efectos de la formulación de la cuenta pública, la información que proporcionen las dependencias y entidades estará debidamente clasificada, de conformidad con los lineamientos que para tal fin emita el Congreso.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 374.
 
-Para la integración de la cuenta pública anual del Municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere el artículo 371.
+Para la integración de la cuenta pública anual del municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere la Ley de Fiscalización Superior para el Estado.
 
 ###### Artículo 375.
 
@@ -4203,11 +4297,15 @@ De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los int
 
 El control y la evaluación del gasto público municipal comprenden:
 
-I. La supervisión permanente de los activos, pasivos, ingresos, costos y gastos;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+I. La supervisión permanente de los activos, pasivos, ingresos y egresos;
 
 II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
 
-III. La medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+III. El establecimiento de indicadores para la medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
 
 ###### Artículo 381.
 
@@ -4219,7 +4317,13 @@ II. Los análisis de las evaluaciones que en materia de presupuesto y gasto púb
 
 III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas; y
 
-IV. Las demás fuentes y medios que se juzguen convenientes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+IV. Los indicadores de resultados; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+V. Las demás fuentes y medios que se juzguen convenientes.
 
 ###### Artículo 382.
 
@@ -4809,6 +4913,18 @@ VIII. Los que el municipio adquiera legalmente, por vía de derecho común, a t�
 
 Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables. Los bienes de dominio privado serán de dominio público, cuando se apliquen o de hecho se utilicen a esos fines
 
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+En ningún caso se podrán embargar los bienes muebles e inmuebles afectos a un servicio público, así como los ingresos propios, ni los provenientes de participaciones o aportaciones federales. Tampoco podrán embargarse las cuentas bancarias aperturadas a nombre del municipio.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Los magistrados, jueces, actuarios, secretarios y demás funcionarios judiciales que ordenen, tramiten o ejecuten diligencias o traben embargos en contravención a lo dispuesto en este artículo, incurrirán en la responsabilidad civil, administrativa o penal que establece la legislación estatal.
+
+> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Sólo podrán embargarse los bienes del dominio privado del municipio a que se refiere el artículo 441 de este Código.
+
 ###### Artículo 441.
 
 Los bienes del dominio privado del Municipio son susceptibles de enajenación, uso, usufructo o arrendamiento a particulares; también podrán gravarse o ser objeto de garantía de crédito. En todos los casos se requerirá acuerdo del Cabildo, aprobado por las dos terceras partes de sus integrantes, y la autorización del Congreso o de la Diputación Permanente.
@@ -5244,3 +5360,15 @@ G.O. 26 DE DICIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 794 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NÚMERO 543 HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrara en vigor a partir de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. La Unidad de Medida y Actualización será utilizada en sustitución del salario mínimo, para la determinación de la cuantía del pago de las obligaciones y supuestos previstos en este Código.
+
+Cuarto. El valor de la Unidad de Medida y Actualización, será el estipulado por el Instituto Nacional de Estadística.
