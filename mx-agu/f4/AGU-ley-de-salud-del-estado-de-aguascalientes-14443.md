@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2018-09-03"
+last_updated: "2018-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -2231,7 +2231,9 @@ El Gobierno del Estado se coordinará con las autoridades sanitarias federales p
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar; y en su caso, respete los lugares públicos o espacios que conforme a la Ley para la Protección de los No Fumadores del Estado de Aguascalientes se encuentren prohibidos.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -3623,61 +3625,13 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 20/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO NOVENO DE DISTRITO EN EL ESTADO DE OAXACA, CON RESIDENCIA EN SAN BARTOLO COYOTEPEC; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE EL REFERIDO ÓRGANO JURISDICCIONAL Y LOS JUZGADOS DE DISTRITO, CON RESIDENCIA EN LA CIUDAD DE OAXACA".]
+P.O. 12 DE NOVIEMBRE DE 2018.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil dieciséis, con excepción de lo previsto en el CUARTO transitorio, el cual iniciará su vigencia a partir de la aprobación del mismo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 30.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 160 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTICULO ÚNICO.
 
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de Oaxaca, con sede en la ciudad del mismo nombre, continuará aplicándose hasta el 5 de junio de 2016.
-
-Posteriormente, las guardias de turno conforme al sistema del artículo 5 de este Acuerdo quedarán como sigue:
-
-SEMANA DE GUARDIA ÓRGANO JURISDICCIONAL
-
-AL QUE CORRESPONDE
-
-LA GUARDIA
-
-Del 30 de mayo al 6 de junio de 2016 Juzgado Octavo
-
-Del 6 al 13 de junio de 2016 Juzgado Noveno
-
-Del 13 al 20 de junio de 2016 Juzgado Primero
-
-Del 20 al 27 de junio de 2016 Juzgado Segundo
-
-Del 27 de junio al 4 de julio de 2016 Juzgado Tercero
-
-Del 4 al 11 de julio de 2016 Juzgado Cuarto
-
-Del 11 al 18 de julio de 2016 Juzgado Quinto
-
-Del 18 al 25 de julio de 2016 Juzgado Octavo
-
-Del 25 de julio al 1 de agosto de 2016 Juzgado Noveno
-
-Y así sucesivamente, de forma semanal.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XIII, número 3 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. a XII. …
-
-XIII. …
-
-1. …
-
-2. …
-
-3. Nueve Juzgados de Distrito en el Estado de Oaxaca: seis con residencia en Oaxaca, uno con sede en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
-
-XIV. a XXXII. …”.
-
-D.O.F. 24 DE MAYO DE 2016.
+.- (sic) El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 22/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DÉCIMO TERCERO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN CIUDAD MADERO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
 
