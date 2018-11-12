@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2018-09-03"
+last_updated: "2018-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -419,9 +419,13 @@ XXVI. Establecer las reglas de operación y llevar a cabo un Programa de Uniform
 
 XXVII. Impulsar políticas públicas a fin de garantizar la entrega de útiles escolares a los niños, niñas y adolescentes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-XXVIII. Impulsar políticas públicas a fin de garantizar el acceso a centros de uso de tecnologías digitales a estudiantes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
+XXVIII. Impulsar políticas públicas a fin de garantizar el acceso a centros de uso de tecnologías digitales a estudiantes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Así como emitir lineamientos que contengan criterios generales respecto al uso de los recursos tecnológicos por parte de los estudiantes dentro de los centros escolares, dirigidos a obtener el máximo aprovechamiento a favor del aprendizaje; así como evitar los efectos nocivos de su mal uso en detrimento de la educación. Además, integrar una estrategia que involucre a docentes alumnos en el uso inteligente de los recursos tecnológicos como parte integral de la formación, fortaleciendo los valores, aptitudes y habilidades necesarias;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
@@ -2790,3 +2794,15 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 31.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN XXVIII DEL ARTÍCULO 17; ASÍ COMO SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXVIII DEL ARTÍCULO 17 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a los 90 días hábiles contados a partir de que inicie su vigencia el presente Decreto, el Instituto de Educación de Aguascalientes, deberá emitir los Lineamientos a que se refiere el Segundo Párrafo de la Fracción XXVIII del Artículo 17 de la Ley de Educación del Estado de Aguascalientes.
