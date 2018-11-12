@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-10-15"
+last_updated: "2018-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -869,9 +869,11 @@ Niñas, niños y adolescentes tienen derecho al libre acceso a la información. 
 
 El Sistema Nacional de Protección acordará lineamientos generales sobre la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 66.
 
-Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
+Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso y uso de medios de comunicación, recursos tecnológicos y sistemas de información que afecten o impidan su desarrollo integral.
 
 ###### Artículo 67.
 
@@ -2124,3 +2126,15 @@ P.O. 15 DE OCTUBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 31.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN XXVIII DEL ARTÍCULO 17; ASÍ COMO SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXVIII DEL ARTÍCULO 17 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a los 90 días hábiles contados a partir de que inicie su vigencia el presente Decreto, el Instituto de Educación de Aguascalientes, deberá emitir los Lineamientos a que se refiere el Segundo Párrafo de la Fracción XXVIII del Artículo 17 de la Ley de Educación del Estado de Aguascalientes.
