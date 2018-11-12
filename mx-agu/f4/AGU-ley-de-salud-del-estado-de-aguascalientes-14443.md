@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2018-09-03"
+last_updated: "2018-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -2191,7 +2191,9 @@ El Gobierno del Estado se coordinará con las autoridades sanitarias federales p
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar; y en su caso, respete los lugares públicos o espacios que conforme a la Ley para la Protección de los No Fumadores del Estado de Aguascalientes se encuentren prohibidos.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -3582,3 +3584,11 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 30.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 160 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+.- (sic) El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
