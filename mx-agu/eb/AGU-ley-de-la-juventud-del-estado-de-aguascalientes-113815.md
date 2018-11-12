@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2018-04-23"
+last_updated: "2018-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -187,9 +187,17 @@ X. Promover entre los Jóvenes por medio del sistema educativo estatal, el respe
 
 XI. Generar información para la mejor implementación, desarrollo y evaluación de las políticas públicas;
 
-XII. Impulsar la cultura de la libre información en los Jóvenes que sea útil para la toma de decisiones; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
+XII. Impulsar la cultura de la libre información en los Jóvenes que sea útil para la toma de decisiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Promover la inclusión laboral de jóvenes con discapacidad, basada en habilidades y competencias laborales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -209,9 +217,25 @@ V. Promover entre las Dependencias la no discriminación a los Jóvenes;
 
 VI. Propiciar el desarrollo de organizaciones civiles de Jóvenes legalmente constituidas;
 
-VII. Facilitar los medios y los recursos necesarios para el cumplimiento de programas a favor de la Juventud; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Las demás que señalen otras disposiciones legales o reglamentarias.
+VII. Facilitar los medios y los recursos necesarios para el cumplimiento de programas a favor de la Juventud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Estimular la cultura y formación emprendedora de los jóvenes, así como las iniciativas productivas de la juventud, favoreciendo su incorporación al mercado y economía regional;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+IX. Promover el desarrollo productivo de las micros y pequeñas empresas innovadoras, creativas y competitivas, con participación mayoritaria de jóvenes;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+X. Promover la incorporación del emprendimiento en los planes y programas de estudio de la educación básica, media y superior, pública y privada, en las diferentes modalidades que se imparten en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+XI. Las demás que señalen otras disposiciones legales o reglamentarias.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2018)</small>
 
@@ -233,9 +257,11 @@ El Instituto contará con un área especial para el control y seguimiento de la 
 
 Los Ayuntamientos además de formular políticas públicas y desarrollar acciones de atención a los Jóvenes en su ámbito territorial, se coordinarán con el Instituto en la planeación, diseño, implementación y evaluación de las políticas públicas con el objeto de atender a las principales demandas de los Jóvenes dentro de su esfera competencial.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 14.
 
-Los Ayuntamientos deberán incluir en sus Planes de Desarrollo Municipal y en sus programas, las líneas de acción y objetivos para efecto de proyectar e impulsar el progreso de los Jóvenes en su esfera competencial.
+Los Ayuntamientos deberán incluir en sus Planes de Desarrollo Municipal y en sus programas, las líneas de acción y objetivos para efecto de proyectar e impulsar, en su esfera competencial, proyectos productivos y empresariales de los jóvenes.
 
 ###### ARTÍCULO 15.
 
@@ -421,6 +447,14 @@ Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan 
 
 P.O. 23 DE ABRIL DE 2018.
 
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan Derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
 ###### ARTÍCULO ÚNICO.
 
 Se aprueba la Ley de la Juventud del Estado de Aguascalientes, para quedar en los siguientes términos:
@@ -434,3 +468,7 @@ LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 37.- SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 9°, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 10 Y EL ARTÍCULO 14; ASÍ COMO SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 9°, Y UNAS FRACCIONES IX, X Y XI AL ARTÍCULO 10, TODOS DE LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
