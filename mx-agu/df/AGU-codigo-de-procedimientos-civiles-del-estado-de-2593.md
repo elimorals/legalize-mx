@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2018-06-11"
+last_updated: "2018-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -4717,6 +4717,12 @@ El juez podrá ampliar prudentemente el plazo que señala el artículo anterior,
 
 Fijados los edictos y hechas las publicaciones a que se refiere el artículo 687, lo cual certificará en los autos el secretario, una vez transcurrido el término concedido a los interesados para presentarse a deducir y justificar sus derechos, que se computarán desde el día siguiente a la última publicación, el juez dictará auto haciendo la declaración de herederos en favor de quien lo estime pertinente en vista de los justificantes presentados o la denegará con reserva de sus derechos a los que la hubieren pretendido, para que los hagan valer en juicio.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+Solamente para el caso de que los justificantes que refieren el nombre del interesado o el del autor de la herencia, contengan variaciones evidentemente provenientes de errores ortográficos, de escritura o abreviaturas, el Juez podrá adminicular dichos elementos a efecto de deducir que se trata de la misma persona bajo algunas variaciones mínimas en su nombre; con lo cual podrá decretar el entroncamiento correspondiente, sin necesidad de otras pruebas o procedimientos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 Este auto será apelable.
 
 ###### ARTICULO 690.
@@ -5719,7 +5725,7 @@ Si fuere el tutor quien solicita la venta deberá proponer, al hacer la promoci�
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-La solicitud del tutor se substanciará en forma de incidente con el curador y el Ministerio Público. En contra de esta resolución no procederá recurso alguno.
+La solicitud del tutor se substanciará en forma de incidente con el curador y el Ministerio Público. En contra de esta resolución no procederá recurso alguno
 
 El perito que se designe para hacer el avalúo, será nombrado por el juez.
 
@@ -6504,3 +6510,11 @@ P.O. 11 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo relativo a las Reformas a los Artículos 561, 562, 567 y 569, las cuales entrarán en vigor a partir del 01 de enero del año 2019.
+
+P.O. 12 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 38.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 689; ASÍ COMO SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 689 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
