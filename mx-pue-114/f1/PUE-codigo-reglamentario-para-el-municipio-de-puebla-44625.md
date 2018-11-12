@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2018-10-04"
+last_updated: "2018-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -9817,9 +9817,13 @@ Contra cualquier acto de las autoridades fiscales municipales encargadas de la a
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2006)</small>
 
-### CAPÍTULO 16. COMERCIO AMBULANTE, SEMIFIJO Y PRESTADORES AMBULANTES DE SERVICIOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 16
+
+COMERCIO AMBULANTE, SEMIFIJO, PRESTADORES AMBULANTES DE SERVICIOS Y ARTISTAS URBANOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA.
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 #### SECCIÓN CUARTA DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD. DE ASISTENCIA E INCLUSIÓN SOCIAL
 
@@ -10567,53 +10571,67 @@ Si el incumplimiento a lo dispuesto en el presente Capítulo implica la comisió
 
 Artículo 639 Duovicies.- La autoridad sanitaria municipal, en caso de detectar alguna anomalía que no sea de su competencia, dará aviso a la dependencia correspondiente.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ### CAPÍTULO 18. ANUNCIOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 640.
 
-El presente Capítulo tiene por objeto regular la actividad Comercial de Vendedores Ambulantes, Semifijos y Prestadores Ambulantes de Servicios en la Vía Pública.
+El presente Capítulo tiene por objeto regular la actividad comercial de vendedores ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+Asimismo tiene por objeto, regular la actividad de los Artistas Urbanos en los espacios públicos.
+
+Lo previsto en este Capítulo, no será aplicable a los Artistas Urbanos que se incorporen voluntariamente a los programas que establezca el Ayuntamiento, los cuales se sujetarán a lo previsto en la normatividad respectiva.
+
+La Secretaria de Gobernación es la Dependencia responsable de instrumentar acciones de ordenamiento de las actividades comerciales o similares en la vía pública.
+
+Para lo anterior podrá instrumentar las acciones que se requieran, incluyendo el otorgamiento de permisos para ejercer el comercio en la vía pública, siempre bajo criterios de temporalidad.
+
+Bajo ninguna circunstancia podrán autorizarse permisos de carácter permanente, cualquier contravención a lo anterior será un acto nulo de pleno derecho.
+
+Los permisos tendrán vigencia de un mes, y podrán ser renovados por la autoridad, bajo el cumplimiento continuo de los requisitos y obligaciones contenidas en el presente.
+
+No se podrán otorgar permisos en la zona de monumentos a comerciantes ambulantes, semifijos y prestadores ambulantes de servicios, salvo en las áreas expresamente autorizadas por el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 641.
 
-Corresponde a la Secretaría de Gobernación a través del Departamento de Vía Pública de la Dirección de Desarrollo Político, las siguientes atribuciones:
+Son facultades de la Secretaría de Gobernación a través de la Dirección de Desarrollo Político las siguientes:
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+A. El Jefe de Departamento de Vía Pública:
 
-I. Supervisar que los vendedores ambulantes, semifijos y prestadores ambulantes de servicios en vía pública, acaten las disposiciones del Código Reglamentario y en específico los artículos 1186 fracción XXX y 1213 incisos c) y e); asimismo se encuentren al corriente en el pago de derechos correspondientes;
+I. Recibir y atender quejas ciudadanas relacionadas con el ejercicio del comercio informal, ya sea por medio escrito, telefónico, medios electrónicos o base 072;
 
-II. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2011)
+II. Implementar operativos específicos para vigilar o instrumentar el ordenamiento comercial en los eventos o festividades;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+III. Vigilar en coordinación con las autoridades competentes, que en la vía pública se comercialicen únicamente las mercancías correspondientes a los giros autorizados en este Código;
 
-III. Recibir y atender quejas ciudadanas relacionadas con el ejercicio del comercio informal, ya sea por medio escrito, telefónico o base 072;
+IV. Solicitar el auxilio de la fuerza pública ante la comisión de alguna falta administrativa de las contempladas en este Código;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+V. Determinar e imponer la multa señalada en el artículo 652 del presente Capítulo;
 
-IV. Implementar operativos específicos en zonas determinadas por temporadas, eventos o festividades, con la finalidad de que los ciudadanos no sean afectados por este tipo de eventos;
+VI. Resguardar la mercancía retirada en los términos del artículo 651 Ter; y
 
-V. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
+VII. Las demás facultades y atribuciones que establece el presente ordenamiento y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+B. Los Inspectores del Departamento de Vía Pública, deberán:
 
-VI. Verificar e imponer la sanción correspondiente, señalada en el artículo 652, que derive de los actos por incumplimiento al presente Capítulo;
+I. Portar identificación vigente, emitida por la dependencia competente del H. Ayuntamiento de Puebla;
 
-VII. (DEROGADA, P.O. 27 DE MARZO DE 2006)
+II. Vigilar que las actividades comerciales en la vía pública se realicen con orden e inspeccionar que los vendedores ambulantes, semifijos y prestadores ambulantes de servicios en vía pública, acaten las disposiciones del Código;
 
-VIII. (DEROGADA, P.O. 27 DE MARZO DE 2006)
+III. Vigilar el cumplimiento de las obligaciones de los Artistas Urbanos, señaladas en el presente Código y en las demás disposiciones emitidas por el Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+IV. Vigilar en coordinación con las autoridades competentes, que en la vía pública se comercialicen únicamente las mercancías correspondientes a los giros autorizados en este Código;
 
-IX. Resguardar la mercancía que retire de la vía pública, durante los operativos implementados, por el incumplimiento a las disposiciones previstas en el presente Código Reglamentario y demás ordenamientos aplicables; y
+V. Realizar el aseguramiento de mercancías en la vía pública, cuando en ejercicio de sus funciones detecten que los vendedores ambulantes, semifijos, prestadores ambulantes de servicios y artistas urbanos se encuentren en la vía pública realizando sus actividades sin permiso o teniéndolo, incumplan con alguna de sus obligaciones o transgredan las disposiciones establecidas en el presente Código; debiendo levantar un acta circunstanciada correspondiente ante la presencia de dos testigos;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+VI. Solicitar el auxilio de la fuerza pública ante la comisión de alguna falta administrativa de las contempladas en este Código; y
 
-X. Informar y actuar coordinadamente con la Unidad de Normatividad y Regulación Comercial para que el comercio semifijo en la vía pública del Municipio, que se dedique a la comercialización de productos pornográficos, no tengan dicho material a la vista del público en general, ni realicen su distribución o comercialización a menores de edad.
-
-XI. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2011)
+VII. Realizar el inventario de la mercancía en cada uno de los aseguramientos que se lleven a cabo.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
@@ -10649,17 +10667,19 @@ XII. Llevar el control de los permisos otorgados para el ejercicio del comercio 
 
 Respecto de aquellos puestos temporales semifijos, que se instalen en las fiestas tradicionales, éstos son regulados bajo los lineamientos de este Código Reglamentario y les serán aplicables las normas del presente Capítulo, en lo que no se contrapongan.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 643.
 
 Para los efectos de este Capítulo se consideran:
 
-I. VENDEDORES AMBULANTES: Aquellas personas que realizan Comercio autorizado deambulando en la Vía Pública;
+I. Vendedores Ambulantes: Aquellas personas que realizan el comercio autorizado circulando en la Vía Pública;
 
-II. VENDEDORES SEMIFIJOS: Aquellas personas que realizan el Comercio autorizado de sus mercancías estableciéndose en la Vía Pública de una manera momentánea, temporal o provisional; con casetas, kioscos, carros vehículos u otro tipo de mueble permitido; y
+II. Vendedores Semifijos: Aquellas personas que realizan el comercio autorizado de sus mercancías estableciéndose en la vía pública de una manera momentánea, temporal o provisional; con casetas, kioscos, carros, vehículos u otro tipo de mueble permitido;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2013)</small>
+III. Prestadores Ambulantes de Servicios: Son aquellas personas que realizan el comercio ofreciendo un servicio autorizado, producto de su esfuerzo, ingenio o creatividad, sea circulando o permaneciendo de manera semifija en la vía pública o en lugares públicos; y
 
-III. PRESTADORES AMBULANTES DE SERVICIOS: Son aquellas personas que realizan el comercio ofreciendo un servicio autorizado, producto de su esfuerzo, ingenio o creatividad, deambulando o semifijos en la vía pública o en lugares públicos.
+IV. Artistas Urbanos: Son aquellas personas que realizan diferentes expresiones artísticas, culturales o de entretenimiento en el espacio público.
 
 ###### Artículo 644.
 
@@ -10683,19 +10703,19 @@ III. ZONA C.- Resto del Municipio.
 
 DE LA ORGANIZACIÓN, FUNCIONAMIENTO Y ADMINISTRACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 645.
 
-Sólo podrán ejercer su actividad en la vía pública, en los espacios que establezca el presente Código Reglamentario y en específico sin contravenir los artículos 1186 fracción XXX y 1213 incisos c) y e), aquellos vendedores ambulantes, semifijos y prestadores ambulantes de servicios, que cumplan con los siguientes requisitos:
+Sólo podrán ejercer su actividad en la vía pública, en las zonas y ubicaciones que establezca el presente Código Reglamentario, aquellos vendedores ambulantes, semifijos, prestadores ambulantes de servicios y artistas urbanos que cumplan con los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 I. Estar inscritos por el padrón que al efecto lleve el Departamento de Concertación de Espacios Públicos de la Dirección de Desarrollo Político y que haya sido notificado al Departamento de Licencias y Padrón de Contribuyentes de la Tesorería Municipal;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-II. Contar con el permiso vigente, expedido por el Departamento de Concertación de Espacios Públicos de la Dirección de Desarrollo Político, el cual surtirá sus efectos al momento de realizar el pago en la Tesorería Municipal. El permiso que se otorgue a los aseadores de calzado y aseadores de vehículos, tendrá una vigencia de un mes y serán renovables siempre y cuando se cumpla con la norma aplicable;
+II. Contar con el permiso vigente, expedido por el Departamento de Concertación de Espacios Públicos de la Dirección de Desarrollo Político, el cual surtirá sus efectos al momento de realizar el pago en Tesorería Municipal. El permiso que se otorgue a los aseadores de calzado y aseadores de vehículos tendrá una vigencia de un mes y serán renovables siempre y cuando se cumpla con la norma aplicable; los Artistas Urbanos, no son causantes del pago de los derechos a que se refiere el presente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
@@ -10811,37 +10831,27 @@ e) Alimentos preparados: Sandwich de pollo, queso o jamón de pavo, tacos suaves
 
 f) Bebidas: Agua natural purificada y yogur para beber bajo en azúcar.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 648.
 
 Los giros permitidos por prestadores ambulantes de servicios son los siguientes:
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+- Aseadores de calzado;
 
-- Aseadores de calzado.
+- Aseadores de vehículos;
 
-- Cantantes y músicos.
+- Cualquier otro que determine el Cabildo, mediante acuerdo debidamente fundado y motivado.
 
-- Mimos y payasos.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2013)</small>
-
-- Aseadores de vehículos.
-
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2013)</small>
-
-- Cualquier otro que determine el Presidente Municipal, mediante acuerdo debidamente fundado y motivado.
-
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 648 Bis.
 
-Los aseadores de vehículos podrán realizar esta actividad en el Jardín del Carmen, específicamente en la Privada 16 de septiembre entre las calles 15 y 17 Oriente, donde se otorgarán hasta 13 permisos; en el Paseo Bravo en la calle 13 Norte entre las calles 3 Poniente y 11 Poniente, donde se otorgarán hasta 21 permisos; en el Barrio de San Francisco en la calle 10 Norte entre las calles 16 y 18 Oriente, donde se otorgarán hasta 18 permisos; en el Barrio de Santiago en la calle 15 Sur entre las calles 17 y 19 Poniente, donde se otorgarán hasta 5 permisos; en el Barrio de San José en la calle 18 Oriente entre las calles 2 y 4 Norte, a ambos lados del Parque, en donde se otorgarán hasta 21 permisos; en el Jardín de Dolores en la calle 6 Norte entre las calles 10 y 12 Oriente, en donde se otorgarán hasta 5 permisos; y en el Parque de Analco en la calle 7 Oriente entre las calles 8 y 10 Sur, donde se otorgarán hasta 7 permisos.
+Los aseadores de vehículos podrán realizar esta actividad en el Jardín del Carmen específicamente en la Privada 16 de septiembre entre las calles 15 y 17 Oriente, donde se otorgarán hasta 13 permisos; en el Parque Miguel Bravo mejor conocido como Paseo Bravo en la calle 13 Norte entre las calles 3 Poniente y 11 Poniente, donde se otorgarán hasta 21 permisos; en el Barrio de San Francisco en la calle 10 Norte entre las calles 16 y 18 Oriente, donde se otorgarán hasta 18 permisos; en el Barrio de Santiago en la calle 15 Sur entre las calles 17 y 19 Poniente donde se otorgarán hasta 5 permisos; en el Barrio de San José en la calle 18 Oriente entre las calles 2 y 4 Norte, a ambos lados del Parque, en donde se otorgarán hasta 21 permisos; en el Jardín de Dolores en la calle 6 Norte entre las calles 10 y 12 Oriente, en donde se otorgarán hasta 5 permisos; y en el Parque de Analco en la calle 7 Oriente entre las calles 8 y 10 Sur, donde se otorgarán hasta 7 permisos; en el estacionamiento del Parque Benito Juárez, donde se otorgarán hasta 4 permisos; se podrán otorgar permisos en los parques públicos municipales fuera del Centro Histórico, siempre y cuando no contravenga las disposiciones municipales aplicables.
 
-Los aseadores de calzado podrán realizar esta actividad en toda el área señalada como Zona de Monumentos, donde se otorgarán hasta 46 permisos.
+Los aseadores de calzado podrán realizar esta actividad en toda el área señalada como Centro Histórico, donde se otorgarán hasta 46 permisos.
 
-Lo anterior, será excepcional y sin perjuicio a lo establecido por los artículos 1186 fracción XXX y 1213 inciso e) del presente Código Reglamentario.
+Lo anterior, será excepcional y sin perjuicio a lo establecido por el quinto párrafo del artículo 640 y los artículos 761 y 765 incisos (sic) h) del presente Código Reglamentario.
 
 ###### Artículo 649.
 
@@ -10849,17 +10859,19 @@ El horario permitido general es abierto de las 0:00 horas a 24:00 horas. En todo
 
 OBLIGACIONES Y PROHIBICIONES DE LOS VENDEDORES AMBULANTES, VENDEDORES SEMIFIJOS Y PRESTADORES DE SERVICIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 650.
 
-Son obligaciones de los vendedores Ambulantes, Vendedores Semifijos y Prestadores de Servicios, además de los requisitos establecidos en el presente Capítulo, los siguientes:
+Son obligaciones de los vendedores ambulantes, vendedores semifijos, prestadores ambulantes de servicios y artistas urbanos, además de los requisitos establecidos en el presente capítulo, los siguientes:
 
 I. Mantener aseado los lugares por donde transiten o se ubiquen;
 
 II. Portar permanentemente su credencial a la vista;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-III. Portar el permiso; y
+III. Portar el permiso expedido por el Departamento de Concertación de Espacios Públicos permanentemente y exhibirlo a la autoridad cuando esta lo requiera;
 
 IV. Respetar los horarios y días de trabajo que se hayan establecido previamente según el caso.
 
@@ -10891,9 +10903,23 @@ a) Portar un uniforme que los identifique, con las siguientes características:
 
 3. Leyenda que indique el número oficial gubernamental donde se reporten cualquier tipo de anomalías, y toda aquélla que el Departamento de Concertación de Espacios Públicos determine, siempre y cuando sea en materia de seguridad pública.
 
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Cumplir y mantenerse al corriente en el pago de los derechos correspondientes.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+IX. No aplica para los artistas urbanos, toda vez que ellos no realizan ningún pago de derechos.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+X. Observar puntualmente lo dispuesto en los Ordenamientos legales que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 651.
 
-Los vendedores Ambulantes, Vendedores Semifijos y prestadores Ambulantes de Servicios tienen prohibido:
+Los vendedores ambulantes, vendedores semifijos, prestadores ambulantes de servicios y artistas urbanos tienen prohibido:
 
 I. Contravenir las disposiciones en materia de zonificación, territorio, giro, imagen y superficie;
 
@@ -10911,9 +10937,17 @@ V. Transferir su permiso a otro individuo sin el consentimiento o autorización 
 
 VI. Invadir el arroyo vehicular, obstaculizar, las rampas, escalones, quicios, pórticos, guía podo táctil y demás mobiliario urbano destinado al peatón o personas con discapacidad; entradas y salidas de centros educativos y hospitalarios, así como particulares y de vehículos.
 
-VII. Ejercer actividades que atenten contra la salud, las buenas costumbres o la Imagen Urbana tal como es el caso de niveles de ruido, malos olores productos, y procesos peligrosos y/o contaminantes, que atenten en general contra el medio ambiente y sus leyes y reglamentos respectivos; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Utilizar sus casetas, kioscos, carros, vehículos o bienes muebles, como casa habitación, u otros diferentes al comercial.
+VII. Ejecutar actividades que atenten contra la salud, las buenas costumbres o la Imagen Urbana tal como es el caso de niveles de ruido, malos olores productos, y procesos peligrosos y/o contaminantes, que atenten en general contra el medio ambiente y sus leyes y reglamentos respectivos;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Utilizar sus casetas, kioscos, carros, vehículos o bienes muebles, como casa habitación, u otros diferentes al comercial; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+IX. Ejercer el comercio sin el permiso correspondiente.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2013)</small>
 
@@ -10935,21 +10969,35 @@ En caso de incumplimiento por parte de los aseadores de vehículos y los aseador
 
 Corresponde a la Unidad de Normatividad y Regulación Comercial bajo el visto bueno del Departamento de Concertación de Espacios Públicos de la Secretaría de Gobernación, la expedición de permisos especiales para la celebración de juegos deportivos o espectáculos extraordinarios en la vía pública.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 651 Ter.
 
-Cuando un producto o mercancía sea retirado de la vía pública en que se encuentre por violación a este Capítulo, será remitido a la bodega del Departamento de Vía Pública, al realizar el retiro de la mercancía los servidores deberán:
+Los vendedores ambulantes, vendedores semifijos, prestadores ambulantes de servicios y artistas urbanos que violen alguna disposición del presente Capítulo, les será retirada su mercancía de la vía pública por los inspectores del Departamento de Vía Pública, quienes al realizar el retiro de la mercancía actuarán conforme a lo siguiente:
 
-I. Al momento de iniciar el retiro de mercancía el inspector deberá de identificarse ante el vendedor ambulante, semifijo y prestador ambulante de servicio, con credencial vigente con fotografía, como servidor adscrito al Departamento de Vía Pública;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+I. Identificarse ante el vendedor ambulante, semifijo, prestador ambulante de servicio y Artista Urbano, con credencial vigente con fotografía expedida por la dependencia competente del H. Ayuntamiento, como servidor público adscrito al Departamento de Vía Pública;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 II. Levantar acta por triplicado que incluya inventario con la descripción y el estado en que se encuentran los productos o mercancías al momento que se retiran de la vía pública. La cual deberá ser firmada y entregada al vendedor ambulante, semifijo o prestador ambulante de servicio;
 
-III. Remitir inmediatamente los productos o mercancías a la bodega del Departamento de Vía Pública, para evitar que éstos se destruyan, alteren o se sustraigan;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-IV. Una vez que los productos o mercancías retirados se encuentren en la bodega del Departamento de Vía Pública, se deberán identificar con sellos, marcas o señales del Ayuntamiento que los identifiquen; y
+III. En el caso de que el probable infractor, se niegue a firmar el acta mencionada en la fracción anterior, se hará constar dicha circunstancia por el funcionario actuante, sin que la falta de tal firma afecte su validez;
 
-V. Solicitar al Jefe del Departamento de Vía Pública haga constar el resguardo y las condiciones de los productos o mercancías que sean retirados, mediante la publicación en los estrados de la bodega del Departamento, a más tardar al día siguiente hábil.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+IV. Remitir inmediatamente los productos o mercancías a la bodega del Departamento de Vía Pública, para evitar que éstos se destruyan, alteren o se sustraigan;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+V. Una vez que los productos o mercancías retirados se encuentren en la bodega del Departamento de Vía Pública, se deberán identificar con sellos, marcas o señales del Ayuntamiento que los identifiquen; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+
+VI. Solicitar al Jefe del Departamento de Vía Pública haga constar el resguardo y las condiciones de los productos o mercancías que sean retirados, mediante la publicación en los estrados de la bodega del Departamento, a más tardar, dentro de las 24 horas siguientes del aseguramiento.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
@@ -10979,27 +11027,47 @@ III. Presentar copia del pago correspondiente, en caso de existir sanción admin
 
 SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 652.
 
-Las infracciones al presente Capítulo, se sancionarán atendiendo a lo establecido en los Capítulos de Policía y Gobierno; Establecimientos de Giros Comerciales Autorizados del presente Código Reglamentario para el Municipio de Puebla; sin perjuicio de las contenidas en otros ordenamientos.
+Las infracciones al presente Capítulo, serán sancionadas con el retiro de las mercancías, objetos o bienes muebles utilizados para ejercer su actividad por parte de los vendedores ambulantes, semifijos, prestadores ambulantes de servicios y Artistas Urbanos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+El permiso será cancelado por la afectación de los derechos de terceros, ante el incumplimiento de alguna de las obligaciones o violación de alguna prohibición de las establecidas en el presente Código;
 
-En caso de reincidencia, la Secretaría de Gobernación, previa visita de verificación, procederá a la cancelación del permiso correspondiente conforme al procedimiento establecido en el artículo 2 del presente Código Reglamentario.
+Se realizarán visitas de inspección para verificar el cumplimiento de los requisitos, obligaciones y observancia de prohibiciones para el desempeño de las actividades de los vendedores ambulantes, fijos, semifijos, prestadores ambulantes de servicios y artistas urbanos.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+Para los vendedores ambulantes, semifijos, prestadores ambulantes de servicios y Artistas Urbanos en vía pública que no cuenten con permiso, o que teniéndolo infrinjan alguna de las disposiciones del presente capítulo, y les sean retirados los productos, mercancías, objetos o bienes muebles utilizados para ejercer su actividad de acuerdo a lo establecido en el párrafo anterior, para la devolución de ésta, deberán pagar una multa conforme a lo señalado por la normatividad aplicable.
 
-Asimismo, el permiso correspondiente podrá ser cancelado, por la afectación de los derechos de terceros, por cuestiones de seguridad pública o cuando el presente Código Reglamentario u otros ordenamientos aplicables, prohíban la emisión de permisos para ejercer la actividad que regula el presente Capítulo en lugares públicos determinados.
+Si de la práctica de las visitas de inspección se advierte el incumplimiento de alguna obligación o la violación de alguna prohibición, tal cuestión se asentará en el acta circunstanciada, en la que el particular podrá manifestar lo que a su derecho convenga.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+En el acta que realicen los inspectores del Departamento de Vía Pública con motivo de una visita de inspección, se hará constar lo siguiente:
 
-Para los vendedores ambulantes, semifijos y prestadores ambulantes de servicios en vía pública que no cuenten con permiso y les sean retirados los productos o mercancías de acuerdo a lo establecido en el artículo 641 fracción VI de este ordenamiento, para la devolución de ésta, deberán pagar una multa conforme a lo señalado por la normatividad aplicable.
+I. Fecha y hora en que se inició y concluyó la visita;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+II. Objeto de la visita;
 
-Contra la resolución que se emita para efectos de los párrafos que anteceden, procederá el recurso de inconformidad establecido en la Ley Orgánica Municipal.
+III. Fecha de la orden de inspección en que se ordena la visita de inspección, autoridad que lo emite, así como la identificación del inspector o servidor público que la realiza;
+
+IV. La ubicación precisa de los comerciantes ambulantes, semifijos, prestadores ambulantes de servicios y artistas urbanos, donde se prestan los servicios que sean objeto de la inspección;
+
+V. Nombre de la persona con quien se entendió la inspección, en caso de no proporcionar el nombre se deberá de asentar tal circunstancia en el acta;
+
+VI. Nombre y firma de las personas designadas o que hayan intervenido como testigos;
+
+VII. Descripción de la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma; y
+
+VIII. Manifestación de la persona con quien se entendió la visita o su negativa de hacerla.
+
+Durante el desarrollo de la misma, los inspectores podrán auxiliarse con toma de fotografías, video, audio, dispositivos de archivos electrónicos o magnéticos y en general, todos aquellos elementos derivados de los avances de la ciencia y la tecnología, útiles para generar constancia de los hechos narrados.
+
+Una vez elaborada el acta, el inspector proporcionará copia de la misma a la persona con quien se entendió la visita, aun cuando se haya negado a firmarla, dicha situación no desvirtuará su valor probatorio, debiendo remitir copia del expediente a la Contraloría Municipal.
+
+Se otorgará a la persona con quien se atendió la visita un término de tres días para que manifieste lo que a su interés convenga, exhiba pruebas, alegatos y acredite la preexistencia de los derechos que en su caso le asistan y se incluirá domicilio para oír notificaciones.
+
+El Director de Desarrollo Político, previa consideración tanto de lo asentado en el acta como de las manifestaciones realizadas por el infractor, resolverá sobre la procedencia de la sanción.
+
+La resolución correspondiente será notificada al comerciante en el domicilio que hubiere señalado, o de haberlo omitido, en su ubicación en primer término o, de no localizarse, se le notificará por estrados.
 
 ###### Artículo 653.
 
@@ -37578,3 +37646,9 @@ PRIMERO. La presente la (sic) reforma del artículo 1735 del Libro Quinto “ECO
 SEGUNDO. Para lograr los efectos de la presente reforma, desde la entrada en vigor del presente Dictamen, las Dependencias y Entidades de la administración pública municipal deberán promover entre su personal el uso de utensilios reutilizables; de la misma forma, se deberán acondicionar gradualmente los espacios para la adecuada limpieza de los mismos y se deberá considerar entre las actividades del área de servicios generales para tal fin.
 
 TERCERO. Se dejan a salvo los derechos de los proveedores que tengan contratos celebrados con el H. Ayuntamiento por todo el tiempo de la vigencia estipulada en cada instrumento.
+
+P.O. 12 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 5 DE OCTUBRE DE 2018, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN Y JUSTICIA, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL LIBRO SEGUNDO, CAPÍTULO 16, DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+ÚNICO. La presente reforma y adición de diversas disposiciones del Libro Segundo, Capítulo 16 del Código Reglamentario para el Municipio de Puebla son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
