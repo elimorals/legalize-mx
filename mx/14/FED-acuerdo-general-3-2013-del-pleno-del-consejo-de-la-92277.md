@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-11-09"
+last_updated: "2018-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,11 @@ issue_date: "2013-02-07"
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MARZO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -919,6 +921,10 @@ II. El Centro de Justicia Penal Federal en el Estado de Baja California, con res
 
 III. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana.
 
+> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
+
+III Bis. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Ensenada.
+
 IV. El Centro de Justicia Penal Federal en el Estado de Baja California Sur, con residencia en La Paz, Baja California Sur.
 
 V. El Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
@@ -1006,6 +1012,14 @@ XXXVIII. El Centro de Justicia Penal Federal en el Estado de Zacatecas, con resi
 QUINTO TER. Los órganos jurisdiccionales de los Centros de Justicia Penal Federal serán competentes en todo el territorio de la entidad federativa de su residencia, con excepción de lo siguiente:
 
 I. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Mexicali: cuya jurisdicción territorial comprenderá dicho municipio, así como el de San Luis Río Colorado, Sonora;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
+
+I. Bis. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Tijuana: cuya jurisdicción territorial comprenderá dicho municipio y los diversos de Tecate y Playas de Rosarito;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
+
+I. Ter. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Ensenada, cuya jurisdicción territorial comprenderá dicho municipio;
 
 II. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Tijuana: cuya jurisdicción territorial comprenderá dicho municipio y los diversos de Ensenada, Tecate y Playas de Rosarito;
 
@@ -6982,3 +6996,29 @@ TERCERO. Los Juzgados de Distrito en el Estado de Tabasco, con residencia en Vil
 CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
 
 QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
+
+D.O.F. 13 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE INICIA FUNCIONES EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN ENSENADA; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de noviembre de dos mil dieciocho, con excepción de lo dispuesto en los párrafos siguientes:
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal Federal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
+
+El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
+
+El carácter de Juez Administrador del Centro de Justicia Penal Federal tendrá efecto a partir del inicio de funciones y hasta el treinta de noviembre de dos mil dieciocho, con posterioridad a esa fecha, se estará al contenido del Acuerdo del Pleno del Consejo de la Judicatura Federal, por el que se modifica la entrada en vigor del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma y deroga el similar que regula los Centros de Justicia Penal Federal y reforma disposiciones de diversos acuerdos generales, en relación con la administración de estos órganos jurisdiccionales, publicado en el Diario Oficial de la Federación el cinco de octubre del año en curso.
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios del Decimoquinto Circuito, con residencia en Tijuana, Baja California, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+
+Los Tribunales Unitarios precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como tribunal unitario de Circuito.
+
+TERCERO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17, último párrafo y transitorio SEGUNDO del presente Acuerdo.
+
+CUARTO. En materia de ejecución de sanciones penales se deberá observar lo dispuesto en el Acuerdo General 28/2015, del Pleno del Consejo de la Judicatura Federal, mediante el cual se habilita a los Jueces de Distrito de los Centros de Justicia Penal Federal para que ejerzan funciones de ejecución de sanciones penales.
+
+QUINTO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
+
+SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
