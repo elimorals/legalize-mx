@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2018-11-08"
+last_updated: "2018-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -351,7 +351,9 @@ XIV. Los demás que les confieran la Constitución Política del Estado de Jalis
 
 2. Las asociaciones parlamentarias se constituirán por los diputados que de manera libre decidan integrarse, quienes se reunirán con tal propósito, sin contravenir los ordenamientos y demás documentos internos de los partidos políticos, asentándolo en un acta que será comunicada a la asamblea a través de la Mesa Directiva.
 
-3. Las asociaciones parlamentarias no recibirán ningún tipo de apoyo económico, de personal o de oficinas de parte del Congreso del Estado. Solo podrán hacer uso de los salones y recibir el apoyo de la Secretaría General y sus direcciones para el desahogo de sus reuniones de trabajo y la difusión de sus proyectos.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2018)</small>
+
+3. Las asociaciones parlamentarias no recibirán ningún tipo de apoyo económico, de personal o de oficinas de parte del Congreso del Estado. Solo podrán hacer uso de los salones y recibir el apoyo de la Secretaría General y sus coordinaciones para el desahogo de sus reuniones de trabajo y la difusión de sus proyectos.
 
 ### Capítulo III. Suplencia de los Diputados
 
@@ -937,7 +939,9 @@ III. No haber sido condenado por delito intencional que amerite pena de privaci�
 
 1. Las comisiones legislativas son órganos internos del Congreso del Estado, que, conformados por diputados, tienen por objeto el conocimiento, estudio, análisis y dictamen de las iniciativas y comunicaciones presentadas a la Asamblea, dentro del procedimiento legislativo que establece esta ley y el reglamento.
 
-2. Todas las comisiones legislativas son colegiadas, se integran con el número de diputados que determine la Asamblea a propuesta de la Junta de Coordinación Política, debiendo ser preferentemente un número impar, siendo un mínimo de 5 y un máximo de 7 integrantes.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2018)</small>
+
+2. Todas las comisiones legislativas son colegiadas, se integran con el número de diputados que determine la Asamblea a propuesta de la Junta de Coordinación Política, debiendo ser preferentemente un número impar, siendo un mínimo de 4 y un máximo de 7 integrantes, con excepción de la Comisión de Hacienda y Presupuestos, que mediante acuerdo de la Junta de Coordinación Política se determinará el número de sus integrantes.
 
 3. Las comisiones legislativas tienen una junta directiva integrada por los diputados Presidente y Secretario respectivos, dichos cargos no recaerán en el mismo Grupo o Representación Parlamentaria. Los demás integrantes de la comisión tienen el carácter de vocales.
 
@@ -951,7 +955,9 @@ II. Un mismo diputado podrá ser secretario hasta en dos comisiones legislativas
 
 III. Un diputado no podrá presidir la Mesa Directiva del Congreso al tiempo que preside la junta directiva de una comisión; por lo tanto, si un diputado que preside una comisión es electo a presidir la Mesa Directiva, la Asamblea designa un presidente interino, a propuesta del Grupo o Representación Parlamentaria que preside la comisión;
 
-IV. Los diputados podrán ser vocales en un máximo de cuatro comisiones, independientemente si ostentan el cargo de presidente o secretario en una comisión distinta a la que es vocal, o es integrante de una comisión paritaria;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2018)</small>
+
+IV. Los diputados podrán ser integrantes en un máximo de tres comisiones, más las de integración paritaria;
 
 V. La Comisión de Administración y Planeación Legislativa, así como la Comisión de Igualdad de Género, se integran de forma paritaria, con un diputado de cada Grupo o Representación Parlamentaria; y
 
@@ -2467,7 +2473,7 @@ IV. Establecer la posición política del Congreso del Estado respecto de ese in
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Los asuntos pendientes deben ser remitidos a las nuevas comisiones mediante el proceso entrega-recepción, conforme a la normatividad en la materia y con la intervención de la Contraloría interna.
 
@@ -2478,6 +2484,32 @@ TERCERO. Los asuntos pendientes de resolver deben concluirse observando las disp
 CUARTO. El Congreso del Estado tiene un plazo de sesenta días hábiles, a partir de la entrada en vigor del presente decreto, para emitir las disposiciones reglamentarias.
 
 En tanto se expiden dichas disposiciones reglamentarias seguirán aplicándose, en su caso, las vigentes hasta antes de la entrada de vigor de esta ley.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2018)</small>
+
+Para los efectos del párrafo anterior, las coordinaciones a que se refiere el artículo 54 de la Ley Orgánica del Poder Legislativo del Estado de Jalisco, ejercerán las atribuciones contempladas en el Reglamento de la Ley Orgánica del Poder Legislativo, acorde a lo siguiente:
+
+COORDINACIÓN ATRIBUCIONES CONTEMPLADAS EN
+
+LOS SIGUIENTES ARTÍCULOS DEL
+
+REGLAMENTO DE LA LEY ORGÁNICA
+
+DEL PODER LEGISLATIVO.
+
+Procesos Legislativos Artículos 109, 110 y 111.
+
+y Asuntos Jurídicos.
+
+Comunicación Social Artículos 109, 113 y 114.
+
+y Atención Ciudadana.
+
+Administración y Finanzas. Artículos 109, 115 y 117.
+
+Servicios Generales. Artículos 109, 116 y 118.
+
+El Centro de Investigaciones Legislativas del Congreso, adicional a las atribuciones establecidas en la presente ley, ejercerá las contempladas en el artículo 112 del Reglamento de la Ley Orgánica del Poder Legislativo.
 
 QUINTO. La entrada en vigor del presente decreto no menoscabará o afectará la estabilidad laboral y demás condiciones de trabajo de los servidores públicos del Congreso del Estado, por lo que se respetarán sus derechos laborales adquiridos de acuerdo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las leyes que de una y otra emanen.
 
@@ -2528,6 +2560,10 @@ ROBERTO LÓPEZ LARA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE NOVIEMBRE DE 2018.
 
 ###### Artículo 204.
 
@@ -2892,3 +2928,7 @@ IX. Las nuevas autoridades respetarán los derechos laborales de los trabajadore
 ###### Artículo 252.
 
 1. Los decretos de creación municipal serán impugnables ante el Tribunal de Justicia Administrativa del Estado de Jalisco, por los ayuntamientos o diversa entidad pública con interés jurídico y por los Comités ciudadanos integrados conforme a esta ley.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27061/LXII/18 QUE MODIFICA EL ARTÍCULO 28 PÁRRAFO TERCERO, ASÍ COMO EL PÁRRAFO SEGUNDO Y LA FRACCIÓN IV DEL PÁRRAFO QUINTO DEL ARTÍCULO 70 Y ADICIONA UN PÁRRAFO AL TRANSITORIO CUARTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
