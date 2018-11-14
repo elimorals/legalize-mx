@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2018-01-19"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -35,7 +35,7 @@ DECRETO
 
 NUM. 22
 
-LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
 ###### ARTICULO 1o.
 
@@ -59,19 +59,29 @@ II.- Los menores en estado de abandono, desamparo, desnutrición o sujetos a mal
 
 III.- Menores infractores en lo referente a su atención integral y reintegración a la familia, sin menoscabo de lo que establezca la legislación penal y demás disposiciones jurídicas aplicables;
 
-IV.- Ancianos en desamparo, incapacidad, marginación o sujetos al maltrato;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-V.- Minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuromúsculo-esquelético, deficiencias mentales, problemas del lenguaje u otras deficiencias;
+IV.- Personas Adultas Mayores en desamparo, con discapacidad, marginación o sujetos al maltrato;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+V.- Personas con discapacidad;
 
 VI.- Indigentes;
 
 VII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
 
-VIII.- Víctimas de la comisión de delitos en estado de abandono e incapacidad;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-IX.- Menores, ancianos o inválidos que dependan económicamente de quien se encuentre detenido por causa penal y que queden en completo estado de abandono;
+VIII.- Víctimas de la comisión de delitos en estado de abandono o discapacidad;
 
-X.- Habitantes del medio rural y del urbano marginados, que carezcan de lo indispensable para su subsistencia y estén incapacitados para valerse por sí mismos;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Niñas, niños y adolescentes, personas adultas mayores o con discapacidad que dependan económicamente de quien se encuentre detenido por causa penal y que queden en completo estado de abandono
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+X.- Habitantes del medio rural y de los urbanos marginados, que carezcan de lo indispensable y no dispongan de medios para valerse por sí mismos;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
 
@@ -121,17 +131,25 @@ Para los efectos de esta Ley, se consideran como servicios básicos de salud en 
 
 I.- Promoción al desarrollo integral de la familia, procurando que sus miembros se desenvuelvan en un ambiente de plena salud física, mental y social;
 
-II.- La atención en establecimientos especiales a indigentes, ancianos desválidos y menores en estado de abandono, marginación o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-III.- La promoción del bienestar de los ancianos y el desarrollo de acciones de preparación para la senectud;
+II.- La atención en establecimientos especiales a indigentes, personas adultas mayores, personas con discapacidad y niñas, niños y adolescentes en estado de abandono, marginación o sujetos a maltrato;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+III.- La promoción del bienestar de las personas adultas mayores y el desarrollo de acciones de preparación para la vejez;
 
 IV.- La promoción e impulso del sano crecimiento físico, mental y social de la niñez;
 
 V.- El ejercicio de la tutela de los menores, en los términos de las disposiciones jurídicas aplicables;
 
-VI.- La prestación de servicios de orientación jurídica y social, especialmente a menores, ancianos y minusválidos sin recursos;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-VII.- La prevención y rehabilitación de inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuromúsculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias que carezcan de los recursos materiales para atenderse;
+VI.- La prestación de servicios de orientación jurídica y social, especialmente a niñas, niños y adolescentes, personas adultas mayores o personas con discapacidad sin recursos;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+VII.- La prevención y rehabilitación de personas adultas mayores o personas con discapacidad que carezcan de los recursos materiales para atenderse;
 
 VIII.- Atención íntegra a menores infractores y su reintegración a la familia, por conducto de los organismos especiales que ya existen, y de los que posteriormente se constituyan en atención a este objetivo;
 
@@ -203,9 +221,13 @@ VII.- Intervenir en el ejercicio de la tutela de los menores en los términos de
 
 VIII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones jurídicas aplicables;
 
-IX.- Prestar servicios de orientación jurídica, psicológica y social a menores, ancianos, mujeres, minusválidos y en general a las personas de escasos recursos;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-X.- Operar establecimientos que presten servicios de asistencia social, en beneficio de menores en estado de abandono, ancianos desamparados, minusválidos sin recursos y en general, personas con cualquier tipo de incapacidad.
+IX.- Prestar servicios de orientación jurídica, psicológica y social a niñas, niños y adolescentes, personas adultas mayores, mujeres, personas con discapacidad y en general a las personas de escasos recursos;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+X.- Operar establecimientos que presten servicios de asistencia social, en beneficio de niñas, niños y adolescentes, en estado de abandono, personas adultas mayores desamparados, personas con discapacidad sin recursos y en general, personas con cualquier tipo de discapacidad;
 
 XI.- Realizar acciones de apoyo educativo para la integración social y de capacitación para el trabajo, a los sujetos de la asistencia social;
 
@@ -305,11 +327,11 @@ VI.- Las demás necesarias para el ejercicio de las anteriores.
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTICULO 19o.
+###### Artículo 19o.
 
-La Junta de Gobierno estará integrada por el Gobernador del Estado quien la presidirá, así como por los titulares de la Secretaría Estatal de Salud, Secretaría General de Gobierno, Secretaría de Finanzas y Tesorería General del Estado, Secretaría de Educación, Secretaría del Trabajo, Procuraduría General de Justicia, así como el Delegado de la CONASUPO, Delegado del IMSS y Delegado del ISSSTE. Los miembros de la Junta podrán ser suplidos por los representantes que al efecto ellos mismos designen y que sean aprobados por quien preside la Junta.
+La Junta de Gobierno, estará integrada por el Gobernador del Estado quien la presidirá, así como por los titulares de la Secretaría Estatal de Salud, Secretaría General de Gobierno, Secretaría de Finanzas y Tesorería General del Estado, Secretaría de Educación, Secretaría del Trabajo, Fiscalía General de Justicia del Estado, Delegado del Instituto Mexicano del Seguro Social y Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Los miembros de la Junta podrán ser suplidos por los representantes que al efecto ellos mismos designen y que sean aprobados por quien preside la Junta.
 
 La Junta de Gobierno contará con su Secretario Técnico designado por la misma a propuesta del Director General del Organismo.
 
@@ -457,13 +479,17 @@ El Organismo recomendará y promoverá el establecimiento de organismos similare
 
 El Gobierno del Estado, a través del Organismo y mediante la inducción, promoverá la organización y participación activa de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
 
-El Gobierno del Estado y el Organismo pondrán especial atención en la promoción de acciones de la comunidad, en beneficio de menores en estado de abandono, minusválidos e incapaces física y mentalmente.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+El gobierno del Estado y el Organismo pondrán especial atención en la promoción de acciones de la comunidad, en beneficio de niñas, niños y adolescentes, en estado de abandono y personas con discapacidad.
 
 ###### ARTICULO 37o.
 
 El Gobierno del Estado, directamente o a través del Organismo promoverá la organización y participación de la comunidad para que, en base al apoyo y la solidaridad social, coadyuve en la prestación de los servicios de salud en materia de asistencia social a través de las siguientes acciones:
 
-I.- Promoción de hábitos de conducta y valores que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de invalidez.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+I.- Promoción de hábitos de conducta y valores que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de la discapacidad;
 
 II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios de salud en materia de asistencia social, bajo la dirección y control de las autoridades correspondientes.
 
@@ -564,3 +590,9 @@ Segundo.- La convocatoria para la integración del Consejo Técnico Consultivo d
 Tercero.- La Junta de Gobierno dispondrá de un plazo de hasta 120 días naturales contados a partir de su instalación para llevar a cabo su Primera Sesión de Trabajo en la que se aprobará el Reglamento a que se refiere esta Ley y presentarlo ante el Titular del Poder Ejecutivo del Estado para su expedición.
 
 Cuarto.- La Secretaría de Finanzas y Tesorería General del Estado asignará la partida presupuestal aprobada para el ejercicio fiscal 2018 y necesaria para la creación y operación del Instituto.
+
+P.O. 14 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 013. SE REFORMA LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN, POR MODIFICACIÓN DE LOS ARTÍCULOS 4° FRACCIONES IV, V, VIII, IX Y X; 10° FRACCIONES II, III, VI, VII; 13° FRACCIONES IX Y X; 19°, 36° Y 37° FRACCIÓN I”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
