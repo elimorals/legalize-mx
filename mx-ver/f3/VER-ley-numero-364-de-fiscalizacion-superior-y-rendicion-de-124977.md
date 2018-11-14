@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-124977"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-18"
-last_updated: "2018-10-09"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 18 de diciembre de 2017.
 
@@ -723,11 +723,15 @@ Subsección Tercera
 
 Del Pliego de Observaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 52.
 
-Si como resultado de la ejecución del Procedimiento de Fiscalización Superior resultaren observaciones, el Ente Fiscalizador notificará el Pliego correspondiente a los titulares de los Entes Fiscalizables, otorgándoles un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que surta sus efectos la notificación respectiva, para que presenten las aclaraciones y la documentación justificatoria y comprobatoria que las solvente debidamente.
+Si como resultado de la ejecución del Procedimiento de Fiscalización Superior resultaren observaciones, el Ente Fiscalizador notificará el pliego correspondiente a los servidores públicos o personas responsables de su solventación, aun cuando se hayan separado del cargo público, otorgándoles un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que surta sus efectos la notificación respectiva, para que presenten las aclaraciones y la documentación justificatoria y comprobatoria que las solvente debidamente.
 
-De no presentarse las aclaraciones y la documentación justificatoria y comprobatoria, se tendrán por admitidas las observaciones para los efectos de la formulación de los Informes Individuales y el Informe General Ejecutivo; asimismo, se promoverán las acciones o denuncias, para la imposición de las sanciones administrativas y penales correspondientes, por la probable comisión de faltas administrativas graves o delitos; independientemente de que el titular del Ente Fiscalizable, se haga acreedor a la imposición de una sanción por parte del Órgano, consistente en multa de trescientas a mil veces el valor diario vigente de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+De no presentarse las aclaraciones y la documentación justificatoria y comprobatoria, se tendrán por admitidas las observaciones para los efectos de la formulación de los Informes Individuales y el Informe General Ejecutivo; asimismo, se promoverán las acciones o denuncias, para la imposición de las sanciones administrativas y penales correspondientes, por la probable comisión de faltas administrativas graves o delitos; independientemente de que el responsable de dicha omisión, se haga acreedor a la imposición de una sanción por parte del Órgano Fiscalizador, consistente en multa de trescientas a mil veces el valor diario vigente de la Unidad de Medida y Actualización.
 
 Asimismo, cuando el Ente Fiscalizador reciba la contestación del Pliego de Observaciones, analizará su contenido y procederá a determinar las observaciones que fueron solventadas y, en su caso, aquellas que no lo fueron y que impliquen alguna irregularidad, incumplimiento de disposiciones o posible comisión de faltas administrativas graves o delitos, respecto de la Gestión Financiera del Ente Fiscalizable de que se trate, que haga presumir la existencia del daño patrimonial, para su inclusión en los Informes Individuales e Informe General Ejecutivo; así como, en su caso, para promover las responsabilidades que sean procedentes ante el Tribunal Estatal o ante la Fiscalía Especializada, o a las autoridades que resulten competentes para la imposición de sanciones que correspondan a los servidores públicos y a los particulares.
 
@@ -1336,3 +1340,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales siguientes al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 14 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 786 QUE REFORMA EL ARTÍCULO 52 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado y surtirá sus efectos para la revisión de la Cuenta Pública del ejercicio presupuestal dos mil dieciocho.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
