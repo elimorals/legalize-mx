@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2018-09-21"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -49,7 +49,9 @@ Objeto
 
 La presente Ley es de orden público e interés general y tiene por objeto lo siguiente:
 
-I. Regular la función de seguridad pública y la prevención social de la violencia y la delincuencia;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+I. Regular la función de seguridad pública.
 
 > <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -91,31 +93,9 @@ VI. Promover que los ciudadanos y la población en general incrementen su confia
 
 VII. Fomentar la participación social activa en materia de seguridad pública.
 
-Políticas de prevención social de la violencia y la delincuencia
-
 ###### Artículo 4.
 
-El Estado y los municipios desarrollarán políticas públicas, programas y acciones en materia de prevención social de la violencia y la delincuencia con carácter transversal, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones tomando en base el ámbito social, comunitario, situacional y psicosocial que induzcan el respeto a la legalidad y a la protección de las víctimas, de conformidad con la Ley General para la Prevención Social de la Violencia y la Delincuencia.
-
-En la planeación, programación, implementación y evaluación de las políticas públicas programas y acciones, se deberá de observar como mínimo los siguientes principios:
-
-I. Respeto a los derechos humanos;
-
-II. Integralidad. El Estado, en sus distintos órdenes de gobierno desarrollará políticas públicas integrales eficaces para la prevención de la violencia y la delincuencia, con la participación ciudadana y comunitaria;
-
-III. Intersectorialidad y transversalidad. Consiste en la articulación, homologación y complementariedad de las políticas públicas, programas y acciones de los distintos órdenes de gobierno, incluidas las de justicia, seguridad pública, desarrollo social, economía, cultura y derechos humanos, con atención particular a las comunidades, las familias, las niñas y niños, las mujeres, así como las y los jóvenes en situación de riesgo;
-
-IV. Trabajo conjunto. Comprende el desarrollo de acciones conjuntas entre las autoridades de los distintos órdenes de gobierno, de los diferentes sectores y grupos de la sociedad civil, organizada y no organizada, así como de la comunidad académica de manera solidaria, para que contribuyan a la prevención social de la violencia y la delincuencia y al mejoramiento de la calidad de vida de la sociedad;
-
-V. Continuidad de las políticas públicas. Con el fin de garantizar los cambios socioculturales en el mediano y largo plazos, a través del fortalecimiento de los mecanismos de participación ciudadana y comunitaria, asignación de presupuesto, el monitoreo y la evaluación;
-
-VI. Interdisciplinariedad. Consiste en el diseño de políticas públicas tomando en cuenta conocimientos y herramientas de distintas disciplinas y experiencias nacionales e internacionales;
-
-VII. Diversidad. Consiste en considerar las necesidades y circunstancias específicas determinadas por el contexto local territorial, el género, la procedencia étnica, sociocultural, religiosa, y las necesidades de grupos vulnerables o en riesgo, mediante la atención integral diferenciada y acciones afirmativas;
-
-VIII. Proximidad. Comprende la resolución pacífica de conflictos, con estrategias claras, coherentes y estables, de respeto a los derechos humanos, la promoción de la cultura de la paz y sobre la base del trabajo social comunitario, así como del contacto permanente con los actores sociales y comunitarios; y
-
-IX. Transparencia y rendición de cuentas. En los términos de las leyes aplicables.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 Glosario
 
@@ -185,11 +165,13 @@ IV. La Policía Ministerial Especializada en materia de Adolescentes;
 
 V. Los cuerpos estatales de Seguridad Penitenciaria;
 
-VI. El personal operativo de la Policía Estatal de Caminos; y
+VI. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2018)
 
 VII. Los cuerpos estatales de Seguridad para Adolescentes.
 
-La Policía Estatal de Caminos y la Policía Procesal del Estado, formarán parte de la estructura orgánica de las Fuerzas de Seguridad Pública del Estado, de conformidad con el reglamento respectivo.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+La Policía Procesal del Estado, formará parte de la estructura orgánica de las Fuerzas de Seguridad Pública del Estado, de conformidad con el reglamento respectivo.
 
 ### Capítulo II. Competencias
 
@@ -243,15 +225,19 @@ XXI. Generar bases de datos especializadas que permitan administrar la prevenci�
 
 XXII. Realizar estudios periódicos sobre la victimización y la delincuencia;
 
-XXIII. Impulsar la participación ciudadana y comunitaria, en la prevención social de la violencia y la delincuencia; y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXIII. Impulsar la participación ciudadana y comunitaria, en la prevención social de la violencia y la delincuencia en los términos que dispone la Ley de la materia; y
 
 XXIV. Las demás atribuciones específicas que se establezcan en esta Ley.
 
 Convenios con otros órdenes de gobierno
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-El Estado podrá celebrar convenios con la Federación, las entidades federativas, el Distrito Federal y los municipios, para la mejor prestación de la función de seguridad pública en la entidad.
+El Estado podrá celebrar convenios con la Federación, las entidades federativas y los municipios, para la mejor prestación de la función de seguridad pública en la entidad.
 
 Ámbitos de actuación del Estado y los ayuntamientos
 
@@ -287,7 +273,9 @@ II. Participar e intervenir como integrante del Consejo Nacional de Seguridad P�
 
 III. Analizar, en coordinación con los ayuntamientos, la problemática de seguridad pública en el Estado y formular los programas estatales, así como los objetivos y políticas para su adecuada atención y solución;
 
-IV. Aprobar el Programa Estatal de Seguridad Pública y de Prevención Social de la Violencia y la Delincuencia;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+IV. Aprobar el Programa Estatal de Seguridad Pública;
 
 V. Ejercer el mando de las Instituciones Policiales, por sí mismo o a través de las demás autoridades en materia de seguridad pública en el ámbito estatal;
 
@@ -297,9 +285,13 @@ VII. Difundir los lineamientos de seguridad preventiva en el Estado, a través d
 
 VIII. Aprobar el Programa Estatal de Prevención del Delito, en el que se involucrarán de manera coordinada, en el ámbito de su competencia, todas las dependencias y organismos públicos estatales;
 
-IX. Coordinarse con el Centro Nacional de Prevención del Delito y Participación Ciudadana en la implementación de programas preventivos;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-X. Proveer la exacta observancia de las disposiciones de la presente Ley; y
+IX. Coordinarse con el Centro Nacional de Prevención del Delito y Participación Ciudadana en la implementación de programas preventivos, en los términos que dispone la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+X. Proveer la exacta observancia de las disposiciones de la presente Ley, y de la Ley de la materia; y
 
 XI. Las demás que le confiera esta Ley y la Ley General del Sistema Nacional de Seguridad Pública.
 
@@ -311,15 +303,17 @@ Atribuciones de la Secretaría
 
 Corresponde a la Secretaría de Seguridad Pública a través de su titular:
 
-I. Vigilar el cumplimiento de esta Ley, elaborar, fijar y conducir las políticas en materia de seguridad pública, la prevención social de la violencia y la delincuencia, así como la vigilancia del tránsito estatal, además de planear, coordinar, evaluar y aprobar los programas en los términos de las disposiciones legales vigentes y en los acuerdos que emita el Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-II. Someter al acuerdo del titular del Poder Ejecutivo los asuntos relativos a los estudios y programas que deberá llevar a cabo la Policía Estatal de Caminos;
+I. Vigilar el cumplimiento de esta Ley, y de la Ley de la materia, elaborar, fijar y conducir las políticas en materia de seguridad pública, así como la vigilancia del tránsito estatal, además de planear, coordinar, evaluar y aprobar los programas en los términos de las disposiciones legales vigentes y en los acuerdos que emita el Ejecutivo del Estado;
 
-III. Designar al responsable de la Policía Estatal de Caminos;
+II. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2018)
+
+III. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2018)
 
 IV. Resolver los recursos administrativos en el ámbito de su competencia;
 
-V. Proveer lo necesario para el funcionamiento administrativo y operativo de la Policía Estatal de Caminos;
+V. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2018)
 
 VI. Proponer los términos de los convenios, acuerdos y demás actos jurídicos que celebre y otorgue el Gobernador del Estado, relacionado a la materia de vigilancia del tránsito y la seguridad en las carreteras, caminos y vialidades de jurisdicción estatal;
 
@@ -327,7 +321,9 @@ VII. Ejecutar los acuerdos del titular del Poder Ejecutivo en todo lo que se ref
 
 VIII. Las demás contenidas en esta Ley y sus reglamentos.
 
-La Secretaría, además de las atribuciones que le señalan las fracciones anteriores, se encarga de procesar la información remitida para el suministro al Sistema Estatal de Estadística Criminológica, así como establecer los criterios para la normalización de la información que se suministre a este.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+La Secretaría, además de las atribuciones que le señalan las fracciones anteriores, se encarga de procesar la información remitida para el suministro al Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica, así como establecer los criterios para la normalización de la información que se suministre a este.
 
 Homologación normativa
 
@@ -345,7 +341,9 @@ Son atribuciones del Ayuntamiento:
 
 I. Garantizar la seguridad en el territorio municipal, de las personas, sus bienes, sus derechos, así como preservar la tranquilidad y guardar el orden público, expidiendo para ese efecto los bandos de policía y gobierno, reglamentos, y demás disposiciones administrativas de observancia general en materia de seguridad pública y vigilancia del tránsito municipal;
 
-II. Aprobar los programas de seguridad pública y de prevención social de la violencia y la delincuencia de su competencia, y coadyuvar en la elaboración de los programas estatales de seguridad pública y de prevención del delito;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+II. Aprobar los programas de seguridad pública y de prevención social de la violencia y la delincuencia de su competencia, en los términos de la Ley de la materia, y coadyuvar en la elaboración de los programas estatales de seguridad pública y de prevención del delito;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -369,7 +367,9 @@ I. Mantener el orden y la tranquilidad pública en el Municipio, así como preve
 
 II. Dictar las disposiciones administrativas de las funciones operativas, para la observancia y cumplimiento de esta Ley;
 
-III. Establecer estrategias y políticas que sirvan de apoyo a la ejecución de los programas estatales, regionales o municipales en materia de seguridad pública y de prevención social de la violencia y la delincuencia;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+III. Establecer estrategias y políticas que sirvan de apoyo a la ejecución de los programas estatales, regionales o municipales en materia de seguridad pública, y de prevención social de la violencia y la delincuencia en los términos de la Ley de la materia;
 
 IV. Vigilar el buen funcionamiento del servicio de seguridad pública en su municipio, así como supervisar, evaluar, reconocer y, en su caso, premiar o sancionar el desempeño del personal policial;
 
@@ -377,7 +377,9 @@ V. Ejercer el mando de las instituciones policiales municipales, de acuerdo a lo
 
 VI. Hacer del conocimiento del Gobernador del Estado sobre las alteraciones graves del orden público y la tranquilidad social en sus municipios;
 
-VII. Compartir la información sobre seguridad pública que obre en las bases de datos del Municipio, con el Sistema Estatal de Estadística Criminológica y el Centro Nacional de Información, en los términos de las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+VII. Compartir la información sobre seguridad pública que obre en las bases de datos del Municipio, con el Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica y el Centro Nacional de Información, en los términos de las disposiciones normativas aplicables;
 
 VIII. Ejecutar y hacer observar los acuerdos del Sistema y del Sistema Nacional, los programas y acciones de coordinación y colaboración en materia de seguridad pública, así como del Consejo Estatal; y
 
@@ -385,9 +387,11 @@ IX. Las demás que le confiera la presente Ley y otros ordenamientos jurídicos 
 
 Informe del Director de Seguridad Pública Municipal
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 18.
 
-El Director de Seguridad Pública Municipal o su equivalente, deberá rendir trimestralmente un informe al Ayuntamiento y a la Secretaría, sobre los avances del Programa Municipal de Seguridad Pública y el de Prevención social de la violencia y la delincuencia así como de la situación que prevalezca en el municipio.
+El Director de Seguridad Pública Municipal o su equivalente, deberá rendir trimestralmente un informe al Ayuntamiento y a la Secretaría, sobre los avances del Programa Municipal de Seguridad Pública, y el de Prevención social de la violencia y la delincuencia en los términos de la Ley de la materia, así como de la situación que prevalezca en el municipio.
 
 Caso de fuerza mayor o alteración grave del orden público
 
@@ -403,9 +407,9 @@ Son auxiliares en materia de seguridad pública:
 
 I. La Coordinación Estatal y las Unidades Municipales de Protección Civil;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-II. La unidad administrativa de la Secretaría de Gobierno encargada de ordenar, planear, promover y administrar el servicio público y especial de transporte en el Estado, así como la educación vial;
+II. El personal operativo de la unidad administrativa de la Secretaría de Gobierno encargada del Transporte en el Estado;
 
 III. Los cuerpos de bomberos y rescate, legalmente constituidos; y
 
@@ -441,7 +445,9 @@ El Estado podrá celebrar convenios con los Municipios del Estado, previa aproba
 
 Las instituciones policiales tienen a su cargo la seguridad pública del Estado, en sus respectivos ámbitos de competencia; en caso de concurrencia de competencias de carácter local en que intervengan el Estado y los municipios, el responsable del mando será la autoridad estatal.
 
-El mando de la Policía Estatal Única estará a cargo del Secretario de Seguridad Pública del Estado.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+El mando de la Policía Estatal Única y donde se implemente el mando único en los municipios, independientemente del instrumento que se formalice, estarán a cargo del Secretario de Seguridad Pública del Estado.
 
 ## Título Cuarto. Sistema Estatal de Seguridad Pública
 
@@ -461,11 +467,15 @@ El Sistema se integra por:
 
 I. El Consejo Estatal;
 
-II. Las Instituciones de Seguridad Pública;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-III. Los Consejos Municipales; y
+II. El Secretariado Ejecutivo del Sistema de Seguridad Pública;
 
-IV. Las instancias de coordinación, equipos, programas, información, servicios y acciones tendientes a cumplir con los propósitos en la materia.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+III. La Comisión Estatal de Secretarios de Seguridad Pública o sus equivalentes; y
+
+IV. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ### Capítulo II. Consejo Estatal de Seguridad Pública
 
@@ -481,7 +491,9 @@ II. La planeación, definición y coordinación de políticas públicas en segur
 
 III. Dar seguimiento y cumplimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional de Seguridad Pública y las Conferencias Nacionales del Sistema Nacional de Seguridad Pública, en su ámbito de competencia.
 
-Integración del Consejo Estatal
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Integración y funcionamiento del Consejo Estatal
 
 ###### Artículo 27.
 
@@ -501,11 +513,27 @@ VI. El Delegado de la Procuraduría General de la República;
 
 VII. El Delegado de la Policía Federal;
 
-VIII. Dos presidentes municipales designados por acuerdo del propio Consejo; y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-IX. El Secretario Ejecutivo del Sistema, quien fungirá como secretario técnico.
+VIII. La persona que presida el Supremo Tribunal de Justicia del Estado y el Consejo del Poder Judicial;
 
-La designación de los integrantes del Consejo Estatal, contemplados en la fracción VIII, se hará de acuerdo a los criterios y mecanismos que el propio Consejo apruebe de conformidad con el reglamento de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+IX. Un diputado o diputada del Congreso del Estado, designado por la Junta de Gobierno y Coordinación Política, con derecho a voz, pero sin voto;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+X. Los Presidentes Municipales de los cuarenta y seis municipios del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XI. Hasta diez representantes de organismos de la sociedad civil vinculados a la seguridad pública; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XII. El Secretario Ejecutivo del Sistema.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 El Presidente del Consejo Estatal será suplido en sus ausencias por el Secretario de Gobierno; los demás integrantes deberán asistir personalmente.
 
@@ -523,55 +551,121 @@ Atribuciones del Consejo Estatal
 
 El Consejo Estatal tendrá las siguientes atribuciones:
 
-I. Establecer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir los objetivos y fines de la seguridad pública;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-II. Establecer sistemas de coordinación con las autoridades federales, estatales, del Distrito Federal y municipales, para incrementar la eficacia de las estrategias y acciones tendientes a alcanzar los fines de la seguridad pública y de la procuración de justicia en el ámbito de competencia del Consejo Estatal;
+I. Coordinar y supervisar el Sistema;
 
-III. Conformar un sistema de suministro, intercambio y sistematización de información sobre seguridad pública;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-IV. Integrar un sistema de seguimiento y evaluación de las actividades realizadas dentro de las atribuciones que le asignan a cada instancia participante la Ley General del Sistema Nacional de Seguridad Pública y esta Ley;
+II. Someter los Programas Estatales de Seguridad Pública y de Prevención Social de la Violencia y la Delincuencia a la aprobación del titular del Poder Ejecutivo, para su expedición;
 
-V. Promover y apoyar la integración de programas tanto estatales como regionales de seguridad pública, vinculándolos con las estrategias y objetivos del Plan Nacional de Desarrollo, en materia de seguridad pública, y del Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-VI. Coadyuvar en el análisis de los problemas de criminalidad e índices criminógenos para integrar los diagnósticos municipales, regionales, estatales y de áreas especializadas para determinar los objetivos, acciones y metas, con la finalidad de estructurar los programas y operativos de coordinación que atiendan con eficacia los requerimientos de seguridad pública; así como, coadyuvar en la integración de las bases de información sobre seguridad pública derivadas de los programas nacionales y estatales correspondientes;
+III. Dar seguimiento y cumplimiento a los acuerdos, lineamientos y políticas emitidas por el Consejo Nacional de Seguridad Pública y las Conferencias Nacionales del Sistema Nacional de Seguridad Pública, en su ámbito de competencia;
 
-VII. Emitir acuerdos y resoluciones generales, para el funcionamiento del Sistema;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Establecer los lineamientos para la formulación de políticas generales en materia de seguridad pública;
+IV. Establecer sistemas de coordinación con las autoridades federales, estatales, y municipales, para incrementar la eficacia de las estrategias y acciones tendientes a alcanzar los fines de la seguridad pública y de la procuración de justicia en el ámbito de competencia del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+V. Integrar un sistema de seguimiento y evaluación de las actividades realizadas dentro de las atribuciones que le asignan a cada instancia participante la Ley General del Sistema Nacional de Seguridad Pública y esta Ley;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+VI. Promover y apoyar la integración de programas tanto estatales como regionales de seguridad pública, vinculándolos con las estrategias y objetivos del Plan Nacional de Desarrollo, en materia de seguridad pública, y del Sistema Nacional de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+VII. Coadyuvar en el análisis de los problemas de criminalidad e índices criminógenos para integrar los diagnósticos municipales, regionales, estatales y de áreas especializadas para determinar los objetivos, acciones y metas, con la finalidad de estructurar los programas y operativos de coordinación que atiendan con eficacia los requerimientos de seguridad pública; así como, coadyuvar en la integración de las bases de información sobre seguridad pública derivadas de los programas nacionales y estatales correspondientes;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Emitir acuerdos y resoluciones generales, para el funcionamiento del Sistema;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 IX. Promover la implementación de políticas en materia de atención a víctimas del delito;
 
-X. Promover la efectiva coordinación de las instancias que integran el Sistema y dar seguimiento a las acciones que para tal efecto se establezcan;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-XI. Promover la homologación y desarrollo de los modelos ministerial, policial y pericial en las Instituciones de Seguridad Pública y evaluar sus avances, de conformidad con las leyes respectivas;
+X. Formular propuestas para la elaboración de los lineamientos para el suministro a los municipios del Fondo Estatal para el Fortalecimiento de la Seguridad Pública Municipal;
 
-XII. Vigilar que en los criterios para la distribución de recursos de los fondos de aportaciones federales y estatales para la seguridad pública del Estado y de los municipios, se observen las disposiciones establecidas en la Ley de Coordinación Fiscal y las leyes locales que los regulen;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Formular propuestas para los programas de seguridad pública, de procuración de justicia y de prevención social de la violencia y la delincuencia;
+XI. Establecer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir los objetivos y fines de la seguridad pública;
 
-XIV. Evaluar periódicamente el cumplimiento de los objetivos y metas de los programas de Seguridad Pública, de Procuración de Justicia y de Prevención social de la violencia y la delincuencia;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-XV. Expedir políticas en materia de suministro, intercambio, sistematización y actualización de la información que sobre seguridad pública generen las instituciones de los tres órdenes de gobierno;
+XII. Conformar un sistema de suministro, intercambio y sistematización de información sobre seguridad pública;
 
-XVI. Proponer al Consejo Nacional de Seguridad Pública y a las Conferencias Nacionales acuerdos, programas específicos y convenios sobre la materia de coordinación;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-XVII. Establecer medidas para vincular al Sistema con el Sistema Nacional de Seguridad Pública, y con otros sistemas estatales en la materia;
+XIII. Establecer los lineamientos para la formulación de políticas generales en materia de seguridad pública;
 
-XVIII. Promover el establecimiento de unidades de consulta y participación de la comunidad en las Instituciones de Seguridad Pública;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-XIX. Establecer mecanismos eficaces para que la sociedad participe en los procesos de evaluación de las políticas de prevención del delito, y de las Instituciones de Seguridad Pública;
+XIV. Promover la efectiva coordinación de las instancias que integran el Sistema y dar seguimiento a las acciones que para tal efecto se establezcan;
 
-XX. Promover políticas de coordinación y colaboración con el Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-XXI. Integrar un sistema de seguimiento y evaluación de las actividades realizadas dentro de las atribuciones que asigna a cada instancia la Ley General del Sistema Nacional de Seguridad Pública y esta Ley;
+XV. Promover la homologación y desarrollo de los modelos ministerial, policial y pericial en las Instituciones de Seguridad Pública y evaluar sus avances, de conformidad con las leyes respectivas;
 
-XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-XXIII. Celebrar convenios de coordinación, colaboración y concertación, por conducto del Secretario Ejecutivo del Sistema;
+XVI. Vigilar que en los criterios para la distribución de recursos de los fondos de aportaciones federales y estatales para la seguridad pública del Estado y de los municipios, se observen las disposiciones establecidas en la Ley de Coordinación Fiscal y las leyes locales que los regulen;
 
-XXIV. Realizar estudios transversales y especializados sobre las materias de seguridad pública y formular recomendaciones a las instancias competentes; y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-XXV. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
+XVII. Formular propuestas para los programas de seguridad pública, de procuración de justicia y de prevención social de la violencia y la delincuencia; y sugerir a la Secretaría acciones para contemplar en la elaboración del anteproyecto de presupuesto general de egresos que la Secretaría remita a la Secretaría de Finanzas, Inversión y Administración, en materia de seguridad pública y de prevención de la violencia y la delincuencia, a más tardar el uno de octubre;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Evaluar periódicamente el cumplimiento de los objetivos y metas de los programas de Seguridad Pública, de Procuración de Justicia y de Prevención social de la violencia y la delincuencia;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Expedir políticas en materia de suministro, intercambio, sistematización y actualización de la información que sobre seguridad pública generen las instituciones de los tres órdenes de gobierno;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XX. Proponer al Consejo Nacional de Seguridad Pública y a las Conferencias Nacionales acuerdos, programas específicos y convenios sobre la materia de coordinación;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Establecer medidas para vincular al Sistema Estatal con el Sistema Nacional de Seguridad Pública, y con otros sistemas estatales en la materia;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXII. Promover el establecimiento de unidades de consulta y participación de la comunidad en las Instituciones de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXIII. Establecer mecanismos eficaces para que la sociedad participe en los procesos de evaluación de las políticas de prevención del delito, y de las Instituciones de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXIV. Promover políticas de coordinación y colaboración con el Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXV. Integrar un sistema de seguimiento y evaluación de las actividades realizadas dentro de las atribuciones que asigna a cada instancia la Ley General del Sistema Nacional de Seguridad Pública y esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXVI. Crear comisiones o grupos de trabajo para el apoyo de sus funciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXVII. Celebrar convenios de coordinación, colaboración y concertación, por conducto del Secretario Ejecutivo del Sistema;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXVIII. Realizar estudios transversales y especializados sobre las materias de seguridad pública y formular recomendaciones a las instancias competentes; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XXIX. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
 
 ### Capítulo III. Programa Estatal de Seguridad Pública y de Prevención Social de la Violencia y la Delincuencia
 
@@ -611,9 +705,11 @@ Los programas municipales deberán vincularse con el Programa Nacional de Seguri
 
 Secretario Ejecutivo del Sistema
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 32.
 
-El Secretario Ejecutivo será el titular de la unidad técnica del Sistema, cuya naturaleza jurídica será la de órgano desconcentrado.
+El Secretario Ejecutivo del Sistema de Seguridad Pública del Estado de Guanajuato, será el titular de la unidad técnica del Sistema, cuya naturaleza será la de órgano administrativo desconcentrado, jerárquicamente subordinado a la Secretaría de Gobierno, que se organizará y funcionará de conformidad a lo establecido en su respectivo reglamento.
 
 Designación del Secretario Ejecutivo del Sistema
 
@@ -638,6 +734,14 @@ IV. Tener reconocida capacidad y probidad; además contar con cinco años de exp
 V. Aprobar las evaluaciones de control y confianza; y
 
 VI. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Obligación de informar
+
+###### Artículo 34
+
+1. El Secretariado Ejecutivo del Sistema tendrá la obligación de rendir un informe semestral relativo al desempeño de las funciones que por su naturaleza realiza, al Secretario de Gobierno.
 
 Atribuciones del Secretario Ejecutivo del Sistema
 
@@ -681,7 +785,11 @@ XVII. Informar periódicamente al Consejo Estatal y a su Presidente de sus activ
 
 XVIII. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos a que se refiere esta Ley e informar al respecto al Consejo Estatal; y
 
-XIX. Las demás que le otorga esta Ley, las disposiciones jurídicas aplicables, y las que le encomiende el Consejo Estatal o su Presidente.
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Desempeñar la vocería en materia de seguridad pública del Gobierno del Estado; y
+
+XX. Las demás que le otorga esta Ley, las disposiciones jurídicas aplicables, y las que le encomiende el Consejo Estatal o su Presidente.
 
 Personal de apoyo del Secretario Ejecutivo del Sistema
 
@@ -689,21 +797,169 @@ Personal de apoyo del Secretario Ejecutivo del Sistema
 
 El Secretario Ejecutivo del Sistema, contará con el personal administrativo necesario para el cumplimiento de sus funciones, en los términos del presupuesto aprobado.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+### Capítulo V. Comisión Estatal de Secretarios de Seguridad Pública o sus equivalentes
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Integración
+
+###### Artículo 36
+
+1. La Comisión Estatal de Secretarios de Seguridad Pública o sus equivalentes, estará integrada por los titulares de las dependencias encargadas de la Seguridad Pública de los municipios y será presidida por el Secretario de Seguridad Pública del Estado.
+
+Para la organización y funcionamiento de esta Comisión, deberá considerarse lo siguiente:
+
+I. La Comisión será presidida por el Secretario de Seguridad Pública del Estado;
+
+II. La Comisión contará con un Secretario Técnico, quien será designado por el presidente de esta;
+
+III. Los integrantes deberán asistir personalmente por lo que no habrá representaciones de los ausentes;
+
+IV. El cargo de los integrantes de esta Comisión es de carácter honorifico, por lo que no recibirán retribución, compensación ni emolumento;
+
+V. Los integrantes de la Comisión tienen derecho a voz y voto, y el Secretario Técnico solo concurrirá con derecho a voz;
+
+VI. La Comisión sesionará de manera ordinaria cuando menos una vez por mes, en los términos del calendario que para tal efecto aprueben; y de manera extraordinaria las veces que sea necesario para la atención de los asuntos de urgencia o de importancia;
+
+VII. Las convocatorias para las sesiones ordinarias se realizarán con siete días de anticipación, en ese momento el secretario informará a todos los integrantes la posibilidad de incluir asuntos al orden del día, los cuales se remitirán a la Secretaria Técnica en un plazo de cuarenta y ocho horas;
+
+VIII. El orden del día de las sesiones ordinarias deberá circularse con cinco días de anticipación a la celebración de las sesiones junto con la documentación que corresponda a cada punto a desarrollarse;
+
+IX. Las convocatorias para las sesiones extraordinarias podrán realizarse con cuarenta y ocho horas de anticipación, y el orden del día se circulará veinticuatro horas previas a la realización de las mismas, se podrán exceptuar dichos plazos en los casos en que la urgencia o la importancia de los asuntos a tratar así lo amerite;
+
+X. En las sesiones extraordinarias solo se abordarán los asuntos para las cuales fueron convocadas;
+
+XI. El Secretario Técnico levantará las actas de trabajo correspondientes a las sesiones de la Comisión, éstas serán firmadas por los asistentes a las mismas;
+
+XII. La Comisión podrá establecer subcomisiones para el cumplimiento de sus atribuciones, en su caso, estas serán presididas por alguno de los integrantes, previo acuerdo de la Comisión; y
+
+XIII. Las demás que se prevean en las normas que regulen el funcionamiento de la Comisión.
+
+El Poder Ejecutivo a propuesta del Presidente emitirá el reglamento de la Comisión, en el cual se establecerá la organización y funcionamiento de la misma, así como las facultades de sus integrantes y del Secretario Técnico.
+
+Solo por causa justificada los integrantes de la Comisión podrán enviar un representante a las sesiones, los que deberán tener nivel de Subsecretario, en el caso del Secretario de Seguridad Pública del Estado, y de subdirector o su equivalente en el caso de los titulares de las dependencias encargadas de la Seguridad Pública de los municipios; dichos representantes contarán con derecho a voz y voto.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Invitados
+
+###### Artículo 36
+
+2. El Presidente podrá invitar a las sesiones de la Comisión a las personas e Instituciones que considere por razón de los asuntos a tratar.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Atribuciones de la Comisión
+
+###### Artículo 36
+
+3. Corresponde a la Comisión Estatal de Secretarios de Seguridad Pública o sus equivalentes:
+
+I. Impulsar la coordinación en la actuación de las instancias encargadas de la seguridad pública municipal;
+
+II. Promover la capacitación, actualización y especialización de los miembros de las Instituciones Policiales, conforme al Programa Rector;
+
+III. Elaborar propuestas de reformas a leyes en materia de Seguridad Pública;
+
+IV. Promover criterios homogéneos para el desarrollo policial en términos de la presente Ley;
+
+V. Integrar los Comités que sean necesarios para la consecución de sus objetivos;
+
+VI. Emitir las bases y reglas generales para la realización de operativos conjuntos de carácter preventivo, entre las dependencias públicas estatal y municipales encargadas de la seguridad;
+
+VI (SIC). Definir criterios homogéneos para la recopilación, sistematización y manejo de información por parte de las Instituciones Policiales y promover su aplicación;
+
+VIII. Proponer al Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica, criterios para el funcionamiento de las bases de datos criminalísticos y de personal de las Instituciones Policiales para el manejo de información;
+
+IX. Fortalecer o, en su caso, proponer la creación de las unidades de asuntos internos y procedimientos en los municipios;
+
+X. Impulsar la creación y el fortalecimiento de los Consejos de Honor y Justicia de los cuerpos policiales municipales;
+
+XI. Promover la creación de la Comisión del Servicio Profesional de Carrera Policial en los municipios; y
+
+XII. Las demás que le otorguen otras disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+### Capítulo VI. Fondo Estatal para el Fortalecimiento de la Seguridad Pública Municipal
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Fondo Estatal para el Fortalecimiento de la Seguridad Pública Municipal.
+
+###### Artículo 36
+
+4. El Fondo Estatal para el Fortalecimiento de la Seguridad Pública Municipal se constituirá con recursos estatales, mismos que serán determinados anualmente en la Ley del Presupuesto General de Egresos del Estado de Guanajuato. La Secretaría presentará a la Secretaría de Finanzas, Inversión y Administración una propuesta para la integración de dicho Fondo.
+
+En la Ley del Presupuesto General de Egresos del Estado de Guanajuato de cada ejercicio fiscal se hará la distribución de los recursos estatales que integran este Fondo entre los distintos rubros de gasto del Sistema Estatal de Seguridad Pública aprobados por el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Asignación del Fondo Estatal
+
+###### Artículo 36
+
+5. El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Inversión y Administración, destinará los recursos a los municipios, con base en los Lineamientos que el Consejo Estatal apruebe a propuesta de un Comité Técnico constituido para tal fin, utilizando para la distribución de los recursos, criterios que incorporen, el número de habitantes de los municipios, incidencia delictiva, características municipales y estado de fuerza, así como cualquier otro criterio que el Consejo Estatal determine de utilidad.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Lineamientos del Fondo Estatal en ejercicios posteriores
+
+###### Artículo 36
+
+6. Los Lineamientos del Fondo Estatal para el Fortalecimiento de la Seguridad Pública Municipal, que se emitan con posterioridad a la entrega de la primera asignación de recursos, así como las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación, además de considerar los aspectos señalados en el artículo anterior, deberán prever el avance en el cumplimiento de las metas previamente establecidas para cada uno de los municipios beneficiados.
+
+Además de dar cumplimiento a las siguientes consideraciones:
+
+I. Contar con un Programa en materia de seguridad pública aprobado por el Ayuntamiento y publicado en el Periódico Oficial del Estado;
+
+II. Suscribir convenios de coordinación y colaboración con (sic) Gobierno del Estado, para el fortalecimiento de acciones en materia de seguridad pública;
+
+III. Participar en los programas y acciones de seguridad pública, de procuración de justicia y de prevención social de la violencia y la delincuencia;
+
+IV. Contar con los programas de prevención social de la violencia y la delincuencia, de acuerdo a lo establecido por la Ley estatal de la materia;
+
+V. Homologar el servicio profesional de carrera policial, el consejo de honor y justicia y las disposiciones operativas en los Reglamentos Municipales en materia de Seguridad; y
+
+VI. Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Publicación de la asignación del Fondo Estatal
+
+###### Artículo 36
+
+7. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por municipio, deberá publicarse en el Periódico Oficial de Gobierno del Estado a más tardar a los treinta días naturales siguientes a la publicación en dicho medio de la Ley del Presupuesto General de Egresos del Estado de Guanajuato del ejercicio fiscal de que se trate.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Convenios del Fondo Estatal
+
+###### Artículo 36
+
+8. Los convenios celebrados entre el Ejecutivo del Estado y los municipios beneficiados del Fondo Estatal para el Fortalecimiento de la Seguridad Pública Municipal, deberán firmarse en un término no mayor a sesenta días, contados a partir de la publicación del resultado de la aplicación de las fórmulas y variables que refiere el artículo anterior. Dichos convenios establecerán los derechos, metas, obligaciones, y en su caso aportaciones municipales, en materia de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Obligación de informar de los responsables del ejercicio
+
+###### Artículo 36
+
+9. Los responsables del ejercicio de los recursos reportarán bimestralmente al Secretario Ejecutivo del Sistema, el ejercicio del Fondo y el avance en el cumplimiento de las metas del convenio.
+
+Las modificaciones o adecuaciones realizadas a las asignaciones previamente establecidas en los convenios, deberán incluir la justificación y la opinión favorable del Secretario Ejecutivo del Sistema. El Secretario Ejecutivo del Sistema dará respuesta en un plazo no mayor a quince días hábiles.
+
+Los municipios deberán publicar bimestralmente y al término de cada ejercicio fiscal, entre otros medios, a través de la página oficial de Internet del municipio, los montos que reciban, el ejercicio, destino y resultados obtenidos respecto de este Fondo. Lo anterior, en términos de la normatividad aplicable.
+
+## Título Quinto. Medidas de Protección a Servidores Públicos
+
 ### Capítulo I. Generalidades
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
 
 Protección y seguridad de servidores públicos
-
-### Capítulo II. Limitantes en el otorgamiento de las medidas de Protección
-
-Suficiencia para las medidas de protección y providencias
-
-## Título Quinto. Medidas de Protección a Servidores Públicos
-
-### Capítulo I. Derechos y Obligaciones
-
-Derechos de los integrantes de las Instituciones de Seguridad Pública
 
 ###### Artículo 37.
 
@@ -715,17 +971,25 @@ II. Secretario de Gobierno; y
 
 III. Secretario de Seguridad Pública.
 
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+IV. Subsecretario de Seguridad Pública de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+V. Comisario General de las Fuerzas de Seguridad Pública del Estado.
+
 La protección y seguridad personal será otorgada de manera proporcional al periodo laborado, que en ningún caso será superior a tres años.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 Protección y seguridad de servidores públicos municipales
 
 ###### Artículo 37
 
-1. El Presidente y el funcionario municipal que de manera exclusiva y directa ejerzan la dirección de las funciones en materia de seguridad pública tendrán derecho a protección y seguridad personal durante el tiempo de su encargo o al gozar de licencia, así como por un periodo de un año al cesar en sus funciones siempre y cuando no sea removido por una causa grave imputable a ellos.
+1. El Presidente y el funcionario municipal que de manera exclusiva y directa ejerzan la dirección de las funciones en materia de seguridad pública tendrán derecho a protección y seguridad personal durante el tiempo de su encargo.
 
-La protección y seguridad personal será otorgada de manera proporcional al periodo laborado, que en ningún caso será superior a un año.
+Al término de las funciones de las autoridades señaladas, o al gozar de licencia, siempre y cuando no sean removidos por una causa grave imputable a ellos, el Ayuntamiento otorgará, con recursos propios, la protección y seguridad personal, la cual será de manera proporcional al periodo laborado sin que exceda de un año.
 
 Otros sujetos de medidas de protección y providencias
 
@@ -741,7 +1005,9 @@ Protección y seguridad de otros servidores públicos
 
 El Gobernador del Estado, en acuerdo con el Secretario de Seguridad Pública, podrá otorgar a otros servidores públicos que estén desempeñando cargos de alto riesgo en materia de seguridad pública, la prerrogativa establecida en el artículo 37 para su protección y seguridad personal, cuando existan motivos que hagan presumir fundadamente situaciones de riesgo para éstos.
 
-Asimismo, podrá tomar este acuerdo el Presidente Municipal, con el Ayuntamiento en terminos del artículo 37-1.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Asimismo, podrá tomar este acuerdo el Presidente Municipal, con el Ayuntamiento en términos del artículo 37-1, conforme a la capacidad operativa y presupuestaria del Municipio.
 
 Naturaleza de los datos de protección y seguridad
 
@@ -749,9 +1015,9 @@ Naturaleza de los datos de protección y seguridad
 
 Los datos de identificación de los servidores públicos a los que se otorgue protección y seguridad, así como el número y datos del personal, bienes y equipo de seguridad será información de carácter confidencial.
 
-### Capítulo II. Centro de Evaluación y Control de Confianza del Estado de Guanajuato
+### Capítulo II. Limitantes en el otorgamiento de las medidas de Protección
 
-Centro de Evaluación y Control de Confianza del Estado
+Suficiencia para las medidas de protección y providencias
 
 ###### Artículo 41.
 
@@ -769,9 +1035,9 @@ Ningún servidor público podrá tener medidas de protección por dos cargos div
 
 ## Título Sexto. Disposiciones comunes a los integrantes de las Instituciones de Seguridad Pública
 
-### Capítulo III. Uso Legítimo de la Fuerza Policial
+### Capítulo I. Derechos y Obligaciones
 
-Concepto de fuerza policial
+Derechos de los integrantes de las Instituciones de Seguridad Pública
 
 ###### Artículo 43.
 
@@ -893,9 +1159,11 @@ Las Instituciones Policiales de los municipios adoptarán, en su ámbito territo
 
 Atribuciones de las Instituciones Policiales de los municipios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 47.
 
-Las Instituciones Policiales de los municipios, tendrá las atribuciones siguientes:
+Las Instituciones Policiales de los municipios tendrán las atribuciones siguientes:
 
 I. Prevenir las conductas delictivas e infracciones administrativas;
 
@@ -917,7 +1185,9 @@ IX. Llevar el registro y control estadístico de los delitos, las infracciones a
 
 X. Instrumentar los programas, proyectos o acciones para garantizar la seguridad pública y la prevención social de la violencia y la delincuencia y de las infracciones administrativas en los municipios;
 
-XI. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública y de Prevención social de la Violencia y la Delincuencia, que corresponda al ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XI. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública y de Prevención Social de la Violencia y la Delincuencia en los términos de la Ley de la materia, que corresponda al ejercicio de sus atribuciones;
 
 XII. Coordinar acciones con las Instituciones Policiales Estatales para el cumplimiento de los objetivos y fines de esta Ley;
 
@@ -989,17 +1259,25 @@ En ningún caso procederá el pago de salarios caídos.
 
 La terminación del servicio será inscrita en los Registros Nacional y Estatal de Personal de las Instituciones de Seguridad Pública.
 
-### Capítulo IV. Sistemas Complementarios de Seguridad Social y Reconocimientos
+### Capítulo II. Centro de Evaluación y Control de Confianza del Estado de Guanajuato
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-Prestaciones complementarias de seguridad social para los integrantes de las Instituciones de Seguridad Pública
+Naturaleza del Centro de Evaluación y Control de Confianza
 
 ###### Artículo 51.
 
-El Centro de Evaluación y Control de Confianza del Estado de Guanajuato es la unidad rectora en la materia y establece los mecanismos y modelos de actuación que corresponda, en apego a la normativa aplicable, para coordinar, asesorar, apoyar o colaborar en la práctica de evaluaciones a los integrantes y aspirantes de las instituciones de seguridad pública y de procuración de justicia.
+El Centro de Evaluación y Control de Confianza del Estado de Guanajuato es un órgano administrativo descentralizado por función, sectorizado a la Secretaría de Gobierno y con autonomía operativa, técnica y funcional. Para el cumplimiento de sus funciones, se le dotará de suficiencia presupuestaria.
 
-Tiene la naturaleza jurídica, estructura y las atribuciones que se establecen en su instrumento de creación y su reglamentación orgánica.
+El Titular del Centro de Evaluación y Control de Confianza del Estado, será designado y removido libremente por el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Objeto del Centro de Evaluación y Control de Confianza
+
+###### Artículo 51
+
+1. El Centro de Evaluación y Control de Confianza del Estado es la unidad rectora en la materia y establece los mecanismos y modelos de actuación que corresponda, en apego a la normativa aplicable, para coordinar, asesorar, apoyar o colaborar en la práctica de evaluaciones a los integrantes y aspirantes de las instituciones de seguridad pública y de procuración de justicia.
 
 Su función se desarrolla con apego a los lineamientos y directrices que en materia de evaluación y control de confianza para los integrantes y aspirantes de las instituciones de seguridad pública y procuración de justicia se establezcan en la normativa aplicable.
 
@@ -1017,15 +1295,31 @@ Centros de evaluación y control de confianza de las instituciones de seguridad 
 
 Las instituciones de seguridad pública y de procuración de justicia podrán establecer centros de evaluación y control de confianza de conformidad con la normativa aplicable, los que, en todo caso, operarán en coordinación con el Centro de Evaluación y Control de Confianza del Estado de Guanajuato.
 
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Emisión del Certificado Único Policial
+
+###### Artículo 53
+
+1. El Centro de Evaluación y Control de Confianza del Estado tendrá la obligación de expedir el Certificado Único Policial a los integrantes de las instituciones policiales.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Obligación de informar del Centro de Evaluación y Control de Confianza
+
+###### Artículo 53
+
+2. El Centro de Evaluación y Control de Confianza del Estado tendrá la obligación de rendir un informe semestral relativo al desempeño de las funciones que por su naturaleza realiza, al Secretario de Gobierno.
+
 Facultad reglamentaria en materia de evaluación y control de confianza
 
 ###### Artículo 54.
 
 Las cuestiones relativas a la evaluación y control de confianza expuestas en esta Ley, se regirán de conformidad a lo establecido en la Ley General del Sistema Nacional de Seguridad Pública, en la reglamentación que al efecto se expida, y demás normativa que le resulte aplicable.
 
-### Capítulo I. Carrera Policial y Profesionalización
+### Capítulo III. Uso Legítimo de la Fuerza Policial
 
-Carrera policial
+Concepto de fuerza policial
 
 ###### Artículo 55.
 
@@ -1073,9 +1367,11 @@ No se deberá actuar con todo el potencial de una unidad si las personas contra 
 
 El uso de la fuerza está en directa relación con los medios que emplean las personas que participan en la agresión, su número y grado de hostilidad.
 
-### Capítulo II. Régimen Disciplinario
+### Capítulo IV. Sistemas Complementarios de Seguridad Social y Reconocimientos
 
-Régimen disciplinario de las Instituciones Policiales
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
+Prestaciones complementarias de seguridad social para los integrantes de las Instituciones de Seguridad Pública
 
 ###### Artículo 59.
 
@@ -1245,9 +1541,9 @@ La policía ministerial y la especializada en adolescentes se sujetarán a lo di
 
 ## Título Séptimo. Carrera y Desarrollo Policial
 
-### Capítulo III. Comisión del Servicio Profesional de Carrera Policial
+### Capítulo I. Carrera Policial y Profesionalización
 
-Comisión del Servicio Profesional de Carrera Policial
+Carrera policial
 
 ###### Artículo 70.
 
@@ -1357,7 +1653,9 @@ La carrera policial comprende el grado policial, la antigüedad, las insignias, 
 
 I. Las Instituciones Policiales deberán consultar los antecedentes de cualquier aspirante en el Registro. Nacional de Seguridad Pública y, en su caso, los locales, antes de que se autorice su ingreso a las mismas;
 
-II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro de Evaluación y Control de Confianza del Estado;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro de Evaluación y Control de Confianza del Estado, que consiste en la evaluación de control y confianza, formación inicial, evaluación de competencias básicas y evaluación del desempeño;
 
 III. Ninguna persona podrá ingresar a las Instituciones Policiales si no ha sido debidamente certificado y registrado en el Sistema Nacional de Seguridad Pública;
 
@@ -1591,9 +1889,9 @@ Planes de estudio para la profesionalización
 
 Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el Programa Rector.
 
-### Capítulo I. Naturaleza y funcionamiento del Instituto
+### Capítulo II. Régimen Disciplinario
 
-Naturaleza del Instituto
+Régimen disciplinario de las Instituciones Policiales
 
 ###### Artículo 92.
 
@@ -1711,15 +2009,15 @@ V. Los demás que se especifiquen en el reglamento del Consejo respectivo.
 
 Por cada uno de estos cargos se nombrará un suplente, a excepción del Secretario Técnico.
 
-### Capítulo II. Funciones y estructura
+### Capítulo III. Comisión del Servicio Profesional de Carrera Policial
 
-Funciones del Instituto
+Comisión del Servicio Profesional de Carrera Policial
 
 ###### Artículo 105.
 
 La Comisión del Servicio Profesional de Carrera Policial de la Secretaría, es el organismo colegiado que tiene por objeto administrar, diseñar y ejecutar los lineamientos que definan los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento, de acuerdo a la normatividad aplicable. Además, será la instancia encargada, en el ámbito de su competencia, de procurar que se cumplan los fines de la carrera policial.
 
-El servicio profesional de carrera policial del personal operativo de la Policía Estatal de Caminos, se sujetará a lo previsto en las disposiciones jurídicas que le son aplicables y, en lo conducente, a lo que señala esta Ley. Las reglas y procedimientos en esta materia serán aplicados, operados y supervisados por la propia Secretaría.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 Reglamentos en materia de Servicio Profesional de Carrera Policial
 
@@ -1743,9 +2041,11 @@ IV. El Director General de Ejecución Penitenciaria y Readaptación Social;
 
 V. El Director General de Reintegración Social para Adolescentes;
 
-VI. El Director General de las Fuerzas de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-VII. El Coordinador de la Policía Estatal de Caminos;
+VI. El Comisario General de las Fuerzas de Seguridad Pública del Estado;
+
+VII. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2018)
 
 VIII. El Director de Personal de la Secretaría, quien fungirá como secretario técnico;
 
@@ -1773,27 +2073,49 @@ Las relaciones jurídicas entre el personal ministerial y pericial y el Estado s
 
 ## Título Octavo. Instituto de Formación en Seguridad Pública del Estado
 
-### Capítulo I. Disposiciones Generales
+### Capítulo I. Naturaleza y funcionamiento del Instituto
 
-Intercambio de información sobre seguridad pública
+Naturaleza del Instituto
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 111.
 
-El Instituto es un órgano administrativo desconcentrado por función, jerárquicamente subordinado a la Secretaría y con autonomía operativa, técnica y funcional. Para el cumplimiento de sus funciones, se le dotará de suficiencia presupuestaria.
+El Instituto es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría y tiene a su cargo la rectoría de la capacitación y profesionalización en materia de seguridad pública.
 
-Objeto del Instituto de Formación en Seguridad Pública
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Objeto del Instituto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 112.
 
-El Instituto se constituye como órgano rector de capacitación y profesionalización en materia de seguridad pública y tendrá por objeto la formación, profesionalización y certificación de los servidores públicos en el área de seguridad pública, a través de la docencia, investigación y extensión; así como la impartición de programas académicos de nivel superior y postgrado, en las diversas áreas de seguridad pública; además la validación y supervisión de los planes y programas de capacitación del personal de los prestadores de servicios de seguridad privada, acreditando a los instructores y a las empresas de capacitación en esta materia, conforme a los términos y condiciones que establezca la reglamentación respectiva, así como los lineamientos emitidos por éste.
+El Instituto tendrá por objeto la formación, profesionalización y certificación de los servidores públicos en el área de seguridad pública del estado y de otras entidades federativas, a través de la docencia, investigación y extensión; así como la impartición de programas académicos de nivel medio superior, superior y postgrado, en las diversas áreas de seguridad pública; además la validación y supervisión de los planes y programas de capacitación del personal de los prestadores de servicios de seguridad privada, acreditando a los instructores y a las empresas de capacitación en esta materia, conforme a los términos y condiciones que establezca la reglamentación respectiva, así como los lineamientos emitidos por éste.
 
 Para efectos de la Ley General del Sistema Nacional de Seguridad Pública, el Instituto, fungirá como Academia del Estado.
 
-Obligación de informar del titular del Instituto de Formación en Seguridad Pública
-
 ###### Artículo 113.
 
-El titular del Instituto tendrá la obligación de rendir toda la información relativa al desempeño de las funciones que por su naturaleza realiza el órgano desconcentrado a la unidad administrativa que el Secretario de Seguridad Pública determine.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Patrimonio del Instituto
+
+###### Artículo 113
+
+1. El patrimonio del Instituto se integrará con:
+
+I. Los recursos que a su favor se establezcan en la Ley del Presupuesto General de Egresos del Estado de Guanajuato;
+
+II. Las aportaciones y subsidios que a su favor hagan la Federación y demás dependencias, entidades u organismos públicos o privados;
+
+III. Los bienes muebles e inmuebles que se le asignen;
+
+IV. Las aportaciones, herencias, donaciones, legados y demás recursos, en dinero o en especie, que reciba de personas físicas o morales por cualquier título legal; y
+
+V. Los recursos que obtenga de las actividades que realice en cumplimiento a su objeto.
 
 Cobro y recaudación por los servicios prestados por el Instituto de Formación en Seguridad Pública
 
@@ -1801,9 +2123,9 @@ Cobro y recaudación por los servicios prestados por el Instituto de Formación 
 
 Los cursos, talleres y programas de estudio que imparta el Instituto, estarán sujetos a las disposiciones legales que regulan el cobro y recaudación de recursos públicos, los cuales se destinarán exclusivamente al cumplimiento de los fines del Instituto.
 
-### Capítulo II. Registros de Información
+### Capítulo II. Funciones y estructura
 
-Integración
+Funciones del Instituto
 
 ###### Artículo 115.
 
@@ -1815,7 +2137,9 @@ II. La formación y actualización de docentes, investigadores, instructores, es
 
 III. El diseño de planes de estudio, programas, métodos y sistemas de enseñanza en las áreas y niveles que imparta;
 
-IV. La interpretación y análisis de la información derivada del Sistema Estatal de Estadística Criminológica y del Sistema Nacional de Información sobre Seguridad Pública, para el establecimiento de lineamientos en el diseño de políticas públicas en la materia, sin perjuicio de la que realicen otras áreas de la Secretaría;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+IV. La interpretación y análisis de la información derivada del Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica y del Sistema Nacional de Información sobre Seguridad Pública, para el establecimiento de lineamientos en el diseño de políticas públicas en la materia, sin perjuicio de la que realicen otras áreas de la Secretaría;
 
 V. El desarrollo de líneas de investigación aplicada a problemas específicos en materia de seguridad pública en el Estado y sus municipios;
 
@@ -1931,9 +2255,9 @@ V. Las demás que le confieran esta Ley.
 
 ## Título Noveno. Información sobre Seguridad Pública
 
-### Capítulo III. Sistema Estatal de Estadística Criminológica
+### Capítulo I. Disposiciones Generales
 
-Objetivo del Sistema Estatal de Estadística Criminológica
+Intercambio de información sobre seguridad pública
 
 ###### Artículo 119.
 
@@ -1989,9 +2313,9 @@ La Secretaría definirá y establecerá el sistema de Información de Seguridad 
 
 Los municipios no podrán contar con sistemas alternos o paralelos al Sistema de Información de Seguridad Pública; por lo que deberán ajustarse a los lineamientos y procesos que establezca la Secretaría para la operación de dicho sistema.
 
-### Capítulo IV. Sistema Estatal de Atención de Emergencias
+### Capítulo II. Registros de Información
 
-Integración del Sistema Estatal de Atención de Emergencias
+Integración
 
 ###### Artículo 125.
 
@@ -2127,59 +2451,99 @@ Solicitud de información relacionada con la Seguridad Pública
 
 La Secretaría podrá solicitar por cuestiones de análisis e investigación cualquier información relacionada con la Seguridad Pública a los particulares que cuenten con sistemas de video vigilancia, grabación o cualquier otra análoga.
 
-### Capítulo V. Servicio Estatal de Denuncia Anónima
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-Servicio de denuncia anónima 089
+### Capítulo III. Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Objetivo del Sistema
 
 ###### Artículo 140.
 
-El Sistema Estatal de Estadística Criminológica es un instrumento metodológico que tendrá como finalidad orientar los procesos de planeación, organización, ejecución, control y evaluación de los objetivos, metas, estrategias y acciones político-criminales en el Estado.
+El Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica es una herramienta metodológica que tendrá como finalidad orientar los procesos de planeación, organización, implementación, monitoreo, rendición de cuentas, evaluación de los objetivos, metas, estrategias y acciones del Estado y los municipios en materia político-criminal y de prevención social de la violencia y la delincuencia.
 
-Obligación de suministrar información para el Sistema Estatal de Estadística Criminológica
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Funciones del Sistema
+
+###### Artículo 140
+
+1. El Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica tendrá las siguientes atribuciones:
+
+I. Planificar la recopilación, gestión, análisis de datos y diseño de indicadores, así como la difusión de sus resultados;
+
+II. Diseñar, coordinar y manejar el sistema de información y estadística criminológica;
+
+III. Sistematizar los datos y cifras relevantes sobre los diferentes ámbitos de seguridad pública y prevención social que coadyuven en la toma de decisiones;
+
+IV. Diseñar y ejecutar modelos metodológicos e instrumentos para el seguimiento y evaluación de los Programas Estatales y Municipales de prevención social de la violencia y la delincuencia;
+
+V. Diseñar indicadores para el seguimiento y la evaluación de la Política Pública de Prevención Social de la Violencia y la Delincuencia en el estado y los municipios, considerando las diversas fuentes de información existentes que operen registros de unidades criminológicas, sociodemográficas y socioeconómicas;
+
+VII (SIC). Elaborar observaciones, recomendaciones y propuestas de mejora con relación a la implementación de la política pública de prevención social de la violencia y la delincuencia; y
+
+VIII. Contribuir a la transparencia y rendición de cuentas de los trabajos derivados de este Sistema, de conformidad con el marco normativo en la materia.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Obligación de suministrar información para el Sistema
 
 ###### Artículo 141.
 
-Las Instituciones Policiales del Estado y de los municipios, así como la Procuraduría General de Justicia, el Supremo Tribunal de Justicia y las instancias de ejecución de justicia penal para adultos y adolescentes, deberán suministrar la información que generen a efecto de integrar y organizar el Sistema Estatal de Estadística Criminológica. También se conformará con la información proporcionada por otras dependencias y organismos públicos que se estime necesaria para la elaboración del diagnóstico criminológico en el Estado y para la elaboración de estrategias en materia de prevención del delito y conductas antisociales.
+Las Instituciones Policiales del Estado y de los municipios, la Coordinación Estatal de Protección Civil, así como la Procuraduría General de Justicia, el Supremo Tribunal de Justicia y las instancias de ejecución de justicia penal para adultos y adolescentes, deberán suministrar la información que generen para los fines y cumplimiento del sistema, a efecto de integrar y organizar el Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica. También se conformará con la información proporcionada por otras dependencias y organismos públicos que se estime necesaria para la elaboración del diagnóstico criminológico en el estado y para la elaboración de estrategias en materia de prevención social de la violencia y la delincuencia.
 
-Podrá recabar información de otras entidades federativas, del Distrito Federal y de la federación, conforme a lo establecido en los acuerdos de colaboración correspondientes.
+Podrá recabar información de otras entidades federativas y de la federación, conforme a lo establecido en los acuerdos de colaboración correspondientes.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 Celebración de convenios
 
 ###### Artículo 142.
 
-Para la integración del Sistema Estatal de Estadística Criminológica y su vinculación con el Sistema Nacional de Seguridad Pública, el Consejo Estatal, a través de la Secretaría, promoverá la celebración de convenios para el suministro, intercambio, sistematización y actualización de información, mediante los instrumentos tecnológicos idóneos que permitan el fácil y rápido acceso a las autoridades que, conforme a esta Ley, puedan disponer de ella.
+Para la integración del Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica y su vinculación con el Sistema Nacional de Seguridad Pública, el Consejo Estatal, a través de la Secretaría, promoverá la celebración de convenios para el suministro, intercambio, sistematización y actualización de información, mediante los instrumentos tecnológicos idóneos que permitan el fácil y rápido acceso a las autoridades que, conforme a esta Ley, puedan disponer de ella.
 
-Reglamentación para la operación del Sistema Estatal de Estadística Criminológica
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Reglamentación para la operación del Sistema
 
 ###### Artículo 143.
 
-El Ejecutivo del Estado expedirá la reglamentación e instrumentos que contengan los lineamientos científicos, metodológicos, técnicos, administrativos, interinstitucionales y tecnológicos que permitan generar procesos estadísticos de alta confiabilidad y disponibilidad. Para tal efecto, conformará grupos de trabajo integrados por expertos en la materia.
+El Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica expedirá la reglamentación e instrumentos que contengan los lineamientos científicos, metodológicos, técnicos, administrativos, interinstitucionales y tecnológicos que permitan generar procesos estadísticos de alta confiabilidad y disponibilidad. Para tal efecto, conformará grupos de trabajo integrados por expertos en la materia.
 
-La Secretaría será la instancia responsable de recibir la información que integrará el Sistema, así como de establecer los criterios para la normalización de la información que se suministre al Sistema Estatal de Estadística Criminológica.
+La Secretaría será la instancia responsable de recibir la información que integrará el Sistema, así como de establecer los criterios para la normalización de la información que se suministre al Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica.
 
 Obligación de mantener actualizadas las bases de datos
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 144.
 
-Los titulares de las dependencias, entidades y de las Instituciones Policiales que suministren información al Sistema Estatal de Estadística Criminológica deberán diseñar, registrar y mantener actualizadas las bases de datos correspondientes, conforme a los criterios de normalización definidos por la Secretaría.
+Los titulares de las dependencias, entidades y de las Instituciones Policiales que suministren información al Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica deberán diseñar, registrar y mantener actualizadas las bases de datos correspondientes, conforme a los criterios de normalización definidos por la Secretaría.
 
-Acceso a los registros e información del Sistema Estatal de Estadística Criminológica
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Acceso a los registros e información del Sistema
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 145.
 
-El acceso a los registros y a la información generada por el Sistema Estatal de Estadística Criminológica se hará bajo los más estrictos principios de confidencialidad y reserva, mismo que estará condicionado al cumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones que de la propia ley emanen.
+El acceso a los registros y a la información generada por el Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica se hará bajo los más estrictos principios de confidencialidad y reserva, mismo que estará condicionado al cumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones que de la propia ley emanen.
 
 La información generada estará disponible únicamente para las instituciones policiales y áreas de seguridad pública del Estado y sus municipios, para el Poder Judicial del Estado y para la Procuraduría General de Justicia del Estado, en el ejercicio de sus funciones, siguiendo los procedimientos que el Ejecutivo del Estado establezca en la reglamentación respectiva. La información se proporcionará atendiendo al ámbito de competencia de la autoridad solicitante.
 
-Responsabilidad de los servidores públicos del Sistema Estatal de Estadística Criminológica
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Responsabilidad de los servidores públicos del Sistema
 
 ###### Artículo 146.
 
-Los servidores públicos del Sistema Estatal de Estadística Criminológica incurrirán en responsabilidad conforme a esta Ley, sin perjuicio de la responsabilidad penal, cuando hagan mal uso o proporcionen de manera indebida la información contenida en las bases de datos mencionadas.
+Los servidores públicos del Sistema Estatal de Evaluación, Seguimiento y Estadística Criminológica incurrirán en responsabilidad conforme a esta Ley, sin perjuicio de la responsabilidad penal, civil o administrativa cuando hagan mal uso o proporcionen de manera indebida la información contenida en las bases de datos mencionadas.
 
-### Capítulo I. Consejo Estatal y Municipales de Consulta y Participación Ciudadana
+### Capítulo IV. Sistema Estatal de Atención de Emergencias
 
-Consejo Estatal y Municipales de Consulta y Participación Ciudadana
+Integración del Sistema Estatal de Atención de Emergencias
 
 ###### Artículo 147.
 
@@ -2237,9 +2601,9 @@ Sanciones por el uso Irresponsable del Servicio de Emergencias 9-1-1
 
 El Estado y los municipios establecerán los mecanismos para sancionar a las personas que hacen un uso irresponsable del Servicio de Emergencias 9-1-1.
 
-### Capítulo II. Observatorio Ciudadano Estatal de Seguridad Pública
+### Capítulo V. Servicio Estatal de Denuncia Anónima
 
-Objetivo del Observatorio Ciudadano
+Servicio de denuncia anónima 089
 
 ###### Artículo 155.
 
@@ -2247,9 +2611,11 @@ La Secretaría establecerá y coordinará el servicio de denuncia anónima en el
 
 Canalización del Servicio de denuncia anónima
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 156.
 
-La Secretaría recibirá, atenderá y canalizará a la autoridad correspondiente, las denuncias anónimas recibidas a través del servicio referido en el presente artículo, realizando el seguimiento de las mismas ante la autoridad que corresponda.
+La Secretaría recibirá, atenderá y canalizará a la autoridad correspondiente, las denuncias anónimas recibidas a través del servicio referido en el presente capítulo, realizando el seguimiento de las mismas ante la autoridad que corresponda.
 
 Seguimiento del Servicio de denuncia anónima
 
@@ -2277,173 +2643,79 @@ La Secretaría deberá establecer la coordinación necesaria con aquellas autori
 
 ## Título Décimo. Participación de la Sociedad en la Seguridad
 
-### Capítulo I. Prestación del Servicio de Seguridad Privada
-
-Autorización de la prestación del servicio de seguridad privada
+### Capítulo I. Consejo Estatal y Municipales de Consulta y Participación Ciudadana
 
 ###### Artículo 161.
 
-Se conformará un Consejo Estatal de Consulta y Participación Ciudadana y cada Municipio constituirá el Consejo Municipal respectivo. Tendrán como finalidad fomentar la participación de la sociedad civil, en colaboración con las instancias públicas respectivas, en la planeación, elaboración, evaluación y supervisión de las actividades en materia de seguridad pública, que se lleven a cabo en sus ámbitos de competencia, de acuerdo con esta Ley y los reglamentos correspondientes.
-
-Integración del Consejo Estatal y Municipales de Consulta y Participación Ciudadana
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 162.
 
-Los Consejos Estatal y municipales de Consulta y Participación Ciudadana a que se refiere el artículo anterior, se integrarán al menos de la siguiente forma:
-
-I. Por un presidente, que será el titular del Ejecutivo del Estado en el caso del Consejo Estatal de Consulta y Participación Ciudadana, y por el Presidente Municipal en el caso de los municipios. El Titular de la Secretaría asumirá la presidencia en las ausencias del Gobernador y en el supuesto de los municipios, la función del presidente del Consejo se podrá ejercer por delegación, sin menoscabo de la participación del propio titular municipal en cualquier momento;
-
-II. Por un secretario técnico, nombrado por los presidentes de los Consejos Estatal y municipales de Consulta y Participación Ciudadana, respectivamente;
-
-III. Por consejeros técnicos, fungiendo con tal carácter los titulares de las Instituciones de Seguridad Pública, según correspondan al ámbito municipal o estatal, y el Secretario Ejecutivo del Sistema en el ámbito estatal. Para este efecto, se atenderá a lo especificado en los reglamentos respectivos; y
-
-IV. Por consejeros ciudadanos, designados por el Ejecutivo Estatal o la mayoría calificada del Ayuntamiento, según corresponda, de entre los propuestos por los diferentes sectores de la sociedad civil, considerando la reputación, participación e interés mostrado en materia de seguridad pública por los ciudadanos propuestos. Las propuestas señaladas en esta fracción derivarán de la convocatoria que realicen para tal efecto, el Ejecutivo Estatal o el Presidente Municipal, respectivamente.
-
-Los Consejos Estatal y municipales de Consulta y Participación Ciudadana se integrarán mayoritariamente por consejeros ciudadanos.
-
-Vigencia del cargo de los integrantes de los consejos
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 163.
 
-La vigencia en el cargo como miembro de los Consejos Estatal y municipales de Consulta y Participación Ciudadana a que se refiere esta Ley durará, para los servidores públicos, el tiempo que permanezcan en el cargo. Los consejeros ciudadanos podrán durar en su encargo hasta seis meses posteriores al inicio del nuevo periodo de gobierno, tiempo en el cual podrán ser ratificados o designados otros que los sustituyan.
-
-Conducta de los integrantes de los consejos
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 164.
 
-Los integrantes del Consejo Estatal y municipales de Consulta y Participación Ciudadana, deberán conducirse en el desempeño de sus funciones con objetividad, imparcialidad, honestidad y responsabilidad, además de manejar en forma confidencial aquella documentación o información que por razón de su naturaleza y contenido pueda producir algún daño, peligro o afectación a personas o instituciones, o bien, que perjudique el cumplimiento de estrategias relacionadas con los fines de esta Ley.
-
-Competencia de los consejos
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 165.
 
-Es competencia de los Consejos de Consulta y Participación Ciudadana:
-
-I. Promover la participación organizada de la sociedad, en actividades relacionadas con la seguridad pública;
-
-II. Establecer un sistema permanente que permita identificar la percepción de seguridad de la ciudadanía, del que puedan desprenderse conclusiones acerca de los puntos que deban atender las autoridades en seguridad pública para mejorar la percepción de seguridad del ciudadano;
-
-III. Integrar un sistema de seguimiento y evaluación de las actividades que se realicen en el marco de los programas de seguridad pública y de prevención social de la violencia y la delincuencia;
-
-IV. Formular propuestas para la elaboración de los programas de seguridad pública, así como la evaluación periódica de éstos y otros relacionados;
-
-V. Evaluar la situación de la seguridad pública en el Estado o municipio, según corresponda, y proponer las acciones tendientes a su mejoramiento;
-
-VI. Evaluar con objetividad el comportamiento, eficiencia y preparación de los integrantes de las corporaciones policiales, su operación y funcionamiento en general, todo esto dirigido a propiciar mejores condiciones de seguridad en el Estado;
-
-VII. Elaborar propuestas de reformas a leyes y reglamentos en materia de seguridad pública; y
-
-VIII. Ejercer las demás atribuciones que sean necesarias para cumplir los objetivos de esta Ley.
-
-Facultades del Consejo Estatal
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 166.
 
-El Consejo Estatal de Consulta y Participación Ciudadana, tendrá, además, las siguientes facultades:
-
-I. En periodos no mayores de seis meses, emitir conclusiones sobre la apreciación objetiva y técnica, del nivel de profesionalización y operación de las Instituciones Policiales. Las conclusiones deberán hacerse llegar a los ayuntamientos correspondientes, cuando la institución policial sea municipal, y a la autoridad superior de la que dependa directamente la institución policial del ámbito estatal, cuando éste sea el caso;
-
-II. Mediante el análisis objetivo y técnico de la información de seguridad pública, disponible por los canales oficiales, así como con el conocimiento directo por visitas de campo en las áreas de seguridad, emitir conclusiones sobre el cumplimiento de esta Ley, remitiendo las conclusiones al titular del Ejecutivo del Estado, quien deberá integrarlas en el informe anual que éste debe rendir ante el Congreso del Estado;
-
-III. Establecer los lineamientos de seguridad preventiva, turnándolas a la autoridad correspondiente para garantizar su difusión en el Estado; y
-
-IV. Conformar un observatorio ciudadano en materia de seguridad pública, el cual propiciará un espacio que funja como vínculo con la sociedad para jerarquizar sus demandas y necesidades en la materia a fin de crear un marco de confiabilidad.
-
-Funciones del Secretario Técnico del Consejo Estatal
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 167.
 
-Son funciones del Secretario Técnico del Consejo Estatal de Consulta y Participación Ciudadana:
-
-I. Levantar y certificar los acuerdos que se tomen en este Consejo y llevar el control de los mismos;
-
-II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
-
-III. Informar periódicamente al Consejo de sus actividades; y
-
-IV. Las demás que determine el Consejo y le señalen los demás ordenamientos jurídicos de la materia.
-
-Sesiones del Consejo Estatal y Municipales de Consulta y Participación Ciudadana
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 168.
 
-Los Consejos Estatal y Municipales de Consulta y Participación Ciudadana sesionarán de manera ordinaria por lo menos una vez cada tres meses y extraordinariamente cuando la importancia del asunto así lo amerite.
-
-Participación de la Comunidad en los consejos
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 169.
 
-El Gobierno del Estado y los gobiernos municipales, en coordinación con los consejos de Consulta y Participación Ciudadana, promoverán la participación de la comunidad para:
-
-I. Conocer sobre políticas relacionadas con la seguridad pública;
-
-II. Sugerir medidas específicas y acciones concretas para mejorar esta función;
-
-III. Realizar labores de seguimiento;
-
-IV. Proponer reconocimientos por méritos o estímulos para los miembros de las instituciones policiales;
-
-V. Realizar denuncias o quejas sobre irregularidades; y
-
-VI. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
-
-Promoción de las instancias de consulta y participación ciudadana
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 170.
 
-Los Consejos Estatal y municipales de Consulta y Participación Ciudadana promoverán que las Instituciones de Seguridad Pública en su área de competencia cuenten con una instancia de consulta y participación de la comunidad, para alcanzar los propósitos del artículo anterior.
-
-Difusión de medidas preventivas
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 171.
 
-El Consejo Estatal de Consulta y Participación Ciudadana difundirá a través de la dependencia correspondiente, las medidas preventivas que juzgue convenientes, recomendando su observancia a los gobernados. Estas medidas fomentarán la participación de la población en las actividades de prevención que permitan preservar la seguridad de las personas, sus familias y sus bienes.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
-### Capítulo II. Cuerpos de Bomberos
-
-Adscripción de los cuerpos de bomberos
+### Capítulo II. Observatorio Ciudadano Estatal de Seguridad Pública
 
 ###### Artículo 172.
 
-El Observatorio Ciudadano, cuyo objetivo es integrar y coordinar un sistema de medición y evaluación con participación ciudadana, de las acciones en seguridad pública en el Estado.
-
-Naturaleza del Observatorio Ciudadano
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 173.
 
-El Observatorio Ciudadano será un órgano de participación social de vigilancia para conocer, opinar, recomendar y dar seguimiento, al cumplimiento de las acciones en materia de seguridad pública, observando la correcta aplicación de los recursos, programas y la profesionalización, que manejan la Secretaría; esto con la finalidad de estar en condiciones de emitir una opinión y crear un marco de confiabilidad para la sociedad y así contribuir a que las gestiones en esta materia, se realicen en términos de transparencia, eficiencia, eficacia y honradez.
-
-Atribuciones del Observatorio Ciudadano
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 174.
 
-El Observatorio Ciudadano tendrá las siguientes atribuciones:
-
-I. Promover estudios e investigaciones que apoyen el diseño de estrategias y acciones en materia de seguridad pública;
-
-II. Liderar la integración de un sistema de indicadores de impacto en materia de seguridad pública;
-
-III. Promover la participación del sector académico en el estudio y monitoreo del sistema de indicadores en materia de seguridad pública; y
-
-IV. Todas las demás que establezcan las disposiciones legales aplicables y su reglamento.
-
-Integración del Observatorio Ciudadano
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 175.
 
-El Observatorio Ciudadano se integrará y operará de conformidad con su reglamento interior y su programa de trabajo. Los integrantes del Observatorio no recibirán retribución, emolumento, ni compensación alguna por el desempeño de su función.
-
-Sesiones del Observatorio Ciudadano
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 176.
 
-El Observatorio Ciudadano sesionará de manera ordinaria por lo menos una vez cada tres meses, conforme al calendario que se acuerde para esos fines, y en forma extraordinaria, cuando la importancia del asunto así lo amerite.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ## Título Undécimo. Seguridad Privada y Bomberos
 
-### Capítulo Único. Policía Estatal de Caminos
+### Capítulo I. Prestación del Servicio de Seguridad Privada
 
-Policía Estatal de Caminos
+Autorización de la prestación del servicio de seguridad privada
 
 ###### Artículo 177.
 
@@ -2615,9 +2887,9 @@ La persona física o moral que contrate los servicios de seguridad privada tendr
 
 La persona física o moral que al contratar los servicios de seguridad privada contravengan lo dispuesto en el párrafo anterior, serán sujetos de procedimiento administrativo conforme a lo establecido en el reglamento de la materia.
 
-### Capítulo I. Policía Procesal
+### Capítulo II. Cuerpos de Bomberos
 
-Policía Procesal
+Adscripción de los cuerpos de bomberos
 
 ###### Artículo 189.
 
@@ -2649,79 +2921,59 @@ Los cuerpos de bomberos y las coordinaciones estatal y municipales de Protecció
 
 ## Título Duodécimo. Disposiciones Complementarias
 
-### Capítulo II. Grupos Operativos Especiales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-Grupos Tácticos Operativos o Unidades Especiales de Intervención o de Reacción
+### Capítulo Único. Servicio de Vigilancia de Tránsito y Seguridad en Vialidades
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Vigilancia de Vialidades
+
+###### Artículo 193
+
+1. Para vigilar el tránsito y la seguridad en las carreteras, caminos y áreas de jurisdicción estatal y municipal, las autoridades estatales y municipales, en el ámbito de sus competencias, deberán establecer los sistemas que permitan desarrollar de manera efectiva las atribuciones materia de esta Ley, que garanticen el libre tránsito y el uso eficiente de las vías públicas estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Vigilancia
+
+###### Artículo 193
+
+2. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están facultadas para conocer y sancionar las transgresiones a esta Ley y los reglamentos que de ella se deriven.
+
+Los ayuntamientos, a través de la unidad administrativa que para el efecto designen, deberán llevar a cabo la vigilancia del tránsito en las vías de comunicación terrestre de jurisdicción municipal.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Colaboración en materia de registro de antecedentes de tránsito
+
+###### Artículo 193
+
+3. Con la finalidad de contar con información oportuna y suficiente para prevenir accidentes de tránsito, así como para detectar a los infractores reincidentes, la Secretaría y los municipios, se apoyarán en el registro estatal de licencias e infracciones.
+
+Los procedimientos a seguir por la Secretaría, las autoridades de tránsito municipales y por los propios responsables e involucrados en los casos en que ocurra un accidente, se especificarán en los reglamentos respectivos.
 
 ###### Artículo 194.
 
-La Policía Estatal de Caminos se encargará de vigilar el tránsito en las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
-
-Atribuciones del Titular de la Policía Estatal de Caminos
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 195.
 
-Son atribuciones del Titular de la Policía Estatal de Caminos:
-
-I. Cumplir y hacer cumplir la presente Ley y su reglamento, así como los decretos, acuerdos y demás disposiciones dictadas sobre la materia de su competencia;
-
-II. Proponer al titular de la Secretaría de Seguridad Pública y al titular del Poder ejecutivo, por conducto del primero, las medidas que considere necesarias para optimizar los servicios de movilidad y seguridad pública en las vías públicas terrestres de competencia estatal;
-
-III. Imponer y aplicar y en su caso, reconsiderar las sanciones, en el ámbito de su competencia, a quienes incurran en infracciones a las disposiciones de esta Ley y su reglamento.
-
-La facultad contenida en esta fracción podrá ejercerla por conducto de las unidades administrativas que le estén adscritas en los términos del Reglamento Interior de la Secretaría de Seguridad Pública;
-
-IV. Poner a disposición de las autoridades competentes, los conductores o vehículos, cuando de los hechos se deduzca probable responsabilidad;
-
-V. Proponer ante el superior jerárquico, la formación de comisiones mixtas de seguridad educativa vial, así como de cualquier otro tipo de órganos que coadyuven a una más completa realización de las funciones propias de su dependencia;
-
-VI. Actualizar el registro estatal de licencias e infracciones, en lo relativo a las infracciones de su competencia;
-
-VII. Planear y coordinar la vigilancia del tránsito y la seguridad en las carreteras, caminos y áreas de jurisdicción estatal, ejecutando acciones tendientes a su mejoramiento;
-
-VIII. Ejecutar programas de educación vial que garanticen la seguridad de las personas y de su patrimonio en las vías públicas de jurisdicción estatal; y
-
-IX. Las demás contenidas en esta Ley y su reglamento.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
-
-Atribuciones de los Delegados de la Policía Estatal de Caminos
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 195
 
-1. Los Delegados de la Policía Estatal de Caminos en el ámbito de su competencia y dentro de la jurisdicción territorial que se les asigne, tendrán las siguientes atribuciones:
-
-I. Inspeccionar, verificar y vigilar el tránsito de las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas;
-
-II. Imponer y calificar las infracciones a esta Ley y su reglamento, en el ámbito de su competencia;
-
-III. Diseñar, coordinar y efectuar operativos de prevención, seguridad y educación vial; y
-
-IV. Las demás contenidas en esta Ley y su reglamento.
-
-En función de las necesidades del servicio se establecerán delegaciones en los diferentes municipios de la entidad, cuya jurisdicción será determinada por el titular de la Secretaría de Seguridad Pública a propuesta del titular de la Policía Estatal de Caminos.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
-
-Oficiales de la Policía Estatal de Caminos
+1. (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 195
 
-2. Los oficiales de la Policía Estatal de Caminos en el ámbito de su competencia y dentro de la jurisdicción territorial que se les asigne, tendrán las siguientes funciones:
-
-I. Vigilar y ordenar el tránsito de las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas:
-
-II. Imponer las sanciones por las violaciones cometidas a esta Ley y su reglamento; y
-
-III. Las demás contenidas en esta Ley y su reglamento.
+2. (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ## Título Décimo Tercero. Disposiciones Complementarias
 
-### Capítulo III. Servicio de Policía Auxiliar
+### Capítulo I. Policía Procesal
 
-Servicio de policía auxiliar
+Policía Procesal
 
 ###### Artículo 196.
 
@@ -2739,77 +2991,55 @@ II. Resguardar la seguridad y el orden durante el desarrollo de las audiencias; 
 
 III. Garantizar la integridad física de los actores y partes procesales.
 
-### Capítulo IV. Servicio de Vigilancia de Tránsito y Seguridad en Vialidades
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
-
-Vigilancia de Vialidades
+### Capítulo II. Grupos Operativos Especiales
 
 ###### Artículo 198.
 
-Para los efectos de esta Ley, se entiende por Grupos Tácticos Operativos o Unidades Especiales de Intervención o de Reacción, al conjunto de elementos de la policía estatal que mediante una previa capacitación especializada, se integran para desarrollar tareas específicas relacionadas con la seguridad pública y secuestros y que por su naturaleza requiere de una formación y preparación operativa, técnica y física de alto nivel, cumpliendo para ello los más rigurosos y estrictos mecanismos de supervisión y de control de confianza.
-
-Organización de los Grupos Tácticos Operativos o Unidades Especiales de Intervención o de Reacción
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 199.
 
-La Secretaría contará con Grupos Tácticos Operativos o Unidades Especiales de Intervención o de Reacción que prestarán el servicio público de seguridad en las zonas urbanas y rurales del Estado en los términos de lo previsto en esta Ley. Se organizarán conforme al Reglamento que expida el Titular del Poder Ejecutivo, en el que se indicarán, entre otros aspectos, la estructura administrativa y operativa, los requisitos de ingreso y permanencia, clasificación de mandos y comandos, sus funciones específicas y las condiciones mínimas de capacitación, adiestramiento y actualización, los esquemas de control y vigilancia sobre el personal operativo y las exigencias para su acreditación y certificación.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
+
+### Capítulo III. Servicio de Policía Auxiliar
+
+###### Artículo 200.
+
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
+
+###### Artículo 201.
+
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
+
+###### Artículo 202.
+
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MARZO DE 2016)</small>
+
+### Capítulo IV. Servicio de Vigilancia de Tránsito y Seguridad en Vialidades
+
+###### Artículo 202
+
+1. (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
+
+###### Artículo 202
+
+2. (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
+
+###### Artículo 202
+
+3. (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
 ### Capítulo I. Medidas Disciplinarias y Sanciones
 
 Medidas disciplinarias
-
-###### Artículo 200.
-
-El servicio de policía auxiliar podrá ser prestado para el efecto de vigilancia de intereses particulares de ciudadanos.
-
-Este servicio generará el pago de los derechos correspondientes al municipio o al Estado, según corresponda.
-
-Autorización para la prestación de servicio de policía auxiliar municipal
-
-###### Artículo 201.
-
-Los servicios de policía auxiliar podrán prestarse bajo autorización expresa del Ayuntamiento, previendo las situaciones administrativas que ello implica conforme a esta Ley y las particularidades de cada municipio.
-
-Autorización para la prestación de servicio de policía auxiliar estatal
-
-###### Artículo 202.
-
-El Estado a través de la Secretaría podrá prestar el servicio de policía, auxiliar en sus diversas modalidades de conformidad con el reglamento respectivo, y dichos servicios estarán sujetos a las disposiciones legales que regulan el cobro y recaudación de recursos públicos.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MARZO DE 2016)</small>
 
 ### Capítulo II. Faltas
 
 Faltas administrativas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-###### Artículo 202
-
-1. Para vigilar el tránsito y la seguridad en las carreteras, caminos y áreas de jurisdicción estatal y municipal, las autoridades estatales y municipales, en el ámbito de sus competencias, deberán establecer los sistemas que permitan desarrollar de manera efectiva las atribuciones materia de esta Ley, que garanticen el libre tránsito y el uso eficiente de las vías públicas estatales y municipales.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
-
-Vigilancia
-
-###### Artículo 202
-
-2. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están facultadas para conocer y sancionar las transgresiones a esta Ley y los reglamentos que de ella se deriven.
-
-La Policía Estatal de Caminos tendrá a su cargo la seguridad y vigilancia del tránsito en carreteras, caminos y áreas de jurisdicción estatal.
-
-Los ayuntamientos, a través de la unidad administrativa que para el efecto designen, deberán llevar a cabo la vigilancia del tránsito en las vías de comunicación terrestre de jurisdicción municipal.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
-
-Colaboración en materia de registro de antecedentes de tránsito
-
-###### Artículo 202
-
-3. Con la finalidad de contar con información oportuna y suficiente para prevenir accidentes de tránsito, así como para detectar a los infractores reincidentes, la Policía Estatal de Caminos, y los municipios, se apoyarán en el registro estatal de licencias e infracciones.
-
-Los procedimientos a seguir por la Policía Estatal de Caminos, las autoridades de tránsito municipales y por los propios responsables e involucrados en los casos en que ocurra un accidente, se especificarán en los reglamentos respectivos.
 
 ## Título Décimo Cuarto. Responsabilidades por Incumplimiento de la Ley
 
@@ -2992,3 +3222,37 @@ Artículo Octavo. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Noveno. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Término para el Estado para adecuar la reglamentación
+
+Artículo Segundo. El Ejecutivo del Estado deberá expedir o adecuar los reglamentos de esta Ley, en un término de ciento ochenta días contados a partir del día siguiente al de la entrada en vigor del presente Decreto permaneciendo vigentes los reglamentos existentes, en aquello que no se opongan a su contenido.
+
+Término para los ayuntamientos para adecuar la reglamentación
+
+Artículo Tercero. Los ayuntamientos deberán expedir o adecuar los reglamentos que deriven de esta Ley en el ámbito de su competencia, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto, permaneciendo vigentes los reglamentos existentes, en aquello que no se opongan al contenido de la presente Ley.
+
+Asignación de los recursos para el ejercicio fiscal 2019
+
+Artículo Cuarto. Para la asignación de los recursos del Fondo Estatal para el Fortalecimiento de la Seguridad Pública Municipal para el ejercicio fiscal 2019, el Consejo Estatal de Seguridad Pública aprobará los lineamientos para su distribución a los municipios del Estado, considerando los factores contenidos en el artículo 36-5 de este decreto, y los publicará en el Periódico Oficial de Gobierno del Estado a más tardar el 31 de enero de 2019.
+
+Una vez publicados los lineamientos, dentro de los 30 días siguientes el Ejecutivo del Estado y los ayuntamientos celebrarán los convenios para la asignación de los recursos que le correspondan en los términos del párrafo primero de este artículo.
+
+Solicitud de asesoría
+
+Artículo Quinto. Para efectos de dar cumplimiento a lo establecido en el artículo 36-6 del presente decreto, los municipios podrán solicitar al Gobierno del Estado a través de la Secretaría de Gobierno y la Secretaria de Seguridad Pública, asesoría y consulta técnica durante el ejercicio fiscal 2019.
+
+Previsión de los recursos para el ejercicio fiscal 2019
+
+Artículo Sexto. En el marco de la aprobación de la Ley del Presupuesto General de Egresos para el Ejercicio Fiscal 2019, el Ejecutivo del Estado preverá los recursos para crear el Fondo Estatal para el Fortalecimiento de la Seguridad Pública Municipal, y el Congreso del Estado deberá aprobar su asignación a efecto de dar cumplimiento al presente decreto.
+
+Derogación de disposiciones contrarias
+
+Artículo Séptimo. Se derogan todas las disposiciones que se opongan a lo preceptuado por el presente Decreto.
