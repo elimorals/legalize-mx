@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2018-07-05"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -895,6 +895,10 @@ La Ciudad de Guanajuato es la Capital del Estado y la Residencia de sus Poderes;
 
 El Poder Público del Estado se divide para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Los poderes del Estado deberán regirse bajo los principios de Parlamento abierto, Gobierno abierto y Justicia abierta, respectivamente, mismos que estarán orientados a la transparencia, la participación ciudadana y la rendición de cuentas en los términos de sus respectivas leyes orgánicas.
+
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 37.
@@ -933,9 +937,7 @@ Jamás podrán reunirse dos o más de estos Poderes en un solo individuo o corpo
 
 El Congreso del Estado de Guanajuato se compondrá de representantes populares electos en su totalidad cada tres años, mediante votación libre, directa y secreta. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
-
-El Poder Legislativo del Estado se regirá por el principio de parlamento abierto, en términos de su ley orgánica.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -2689,6 +2691,10 @@ Salvo en el caso de que el plebiscito sea solicitado por el ayuntamiento, el pro
 
 Si el resultado del plebiscito o referéndum es en el sentido de desaprobar el acto o decisión del Ayuntamiento, éste emitirá el decreto o acuerdo revocatorio que proceda en un plazo no mayor de treinta días.
 
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Los Ayuntamientos se regirán por el principio de Gobierno Abierto, en términos de su Ley Orgánica.
+
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO TERCERO. DEL PATRIMONIO Y HACIENDA MUNICIPAL
@@ -4074,3 +4080,11 @@ P.O. 5 DE JULIO DE 2018.
 Artículo Primero. Las reformas a los artículos 12, 66, 82, 117 y 144 contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. La reforma al artículo 7, del presente Decreto entrará en vigor el mismo día que lo haga la reforma del primer párrafo del artículo 16 y la adición de un nuevo tercer párrafo al artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, contenidos en el decreto publicado el 15 de septiembre de 2017 en el Diario Oficial de la Federación.
+
+P.O. 14 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+Artículo segundo. El Congreso del Estado deberá realizar los ajustes normativos que correspondan en un plazo de ciento ochenta días posteriores a la entrada en vigor y de conformidad con los alcances de este Decreto.
