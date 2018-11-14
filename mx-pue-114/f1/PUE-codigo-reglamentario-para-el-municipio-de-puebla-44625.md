@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2018-11-12"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -27383,33 +27383,29 @@ I. Considerando lo dispuesto en el artículo 155 de la Ley, así como la restric
 
 II. Llevar y actualizar el registro de las fuentes generadoras de olores, radiaciones, vibraciones, energía térmica, energía electromagnética y lumínica dentro del Municipio, consideradas como contaminantes.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-Los límites máximos permisibles para la emisión de ruido serán:
-
-1. 68 dB(A) de 6:00 a 22:00 horas.
-
-2. 65 dB(A) de 22:00 a 6:00 horas.
+Los límites máximos permisibles para la emisión de ruido serán los señalados en la NOM-081-ECOL-1994, que establece los límites máximos permisibles de emisión de ruido de las fuentes fijas y su método de medición y el Acuerdo por el que se modifica su numeral 5.4
 
 ###### Artículo 1797.
 
 Queda prohibido producir emisiones de energía térmica, electromagnética, sonora y lumínica, así como vibraciones y olores perjudiciales al ambiente o a la salud pública, cuando se contravengan las NOM aplicables, así como las disposiciones legales respectivas.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 1798.
 
-Toda persona física, moral, o pública, que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza producen emisiones de olores, ruido, vibraciones, energía térmica, energía electromagnética y lumínica, y que esté afectando a la población, deberá imponer las medidas correctivas, instalando los dispositivos y aislamientos necesarios para reducir dichas emisiones a niveles tolerables, o en su caso, optar por su reubicación.
+Toda persona física o jurídica que por la naturaleza de sus actividades produzcan emisiones de olores, ruido, vibraciones, energía térmica, energía electromagnética y lumínica, que afecten a la población, deberá implementar medidas correctivas, instalando los dispositivos y aislamientos necesarios para reducir dichas emisiones a niveles tolerables, o en su caso, optar por su reubicación.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 1799.
 
-No se autorizará en las zonas habitacionales o colindantes a ellas, así como a centros escolares y hospitalarios, la instalación de establecimientos comerciales, industriales, de servicios o de cualquier otro giro que por sus emisiones y olores, ruidos, vibraciones, energía térmica, energía electromagnética y lumínica, puedan ocasionar molestias a la población.
+El otorgamiento de la Licencia de Funcionamiento, quedará condicionada a la implementación por parte de los interesados de las medidas tendientes a prevenir, controlar y corregir sus emisiones de olores, ruidos, luces, vibraciones y energía, para evitar los efectos nocivos al ambiente, que haya señalado la autoridad competente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+Específicamente, para los establecimientos señalados en las fracciones VII, X, XI, XII, XVII, XVIII, XIX, XXII y XXIII del artículo 611 del Capítulo 14 del presente Código Reglamentario, dichas medidas serán las que disponga el Estudio perimetral de ruido, en términos de lo dispuesto por la Entidad Mexicana de Acreditaciones; las cuales también se solicitarán para el refrendo de este tipo de establecimientos, cuando hayan sido sancionados por rebasar los niveles máximos permisibles de emisión de ruido.
 
-La Licencia de Funcionamiento que otorga el Honorable Ayuntamiento, quedará condicionada a la implementación por parte de los interesados de medidas tendientes a prevenir, controlar y corregir sus emisiones de olores, ruidos, luces, vibraciones y energía térmica, para evitar los efectos nocivos y desagradables a la población y al ambiente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-La Agencia cuando tenga conocimiento de que no se implantaron las medidas para controlar y corregir las emisiones correspondientes dentro de los plazos que se fijen, solicitará a la Autoridad competente la cancelación de la licencia de funcionamiento, independientemente de que se impongan las sanciones ha (sic) que haya lugar en los términos del presente Capítulo.
+La Agencia cuando tenga conocimiento por quejas ciudadanas o de oficio, de que no se implementaron las medidas para controlar y corregir las emisiones correspondientes en los establecimientos de cualquier uso, dentro de los fijados para tal efecto, solicitará a la autoridad competente la suspensión y cancelación en caso de reincidencia de la licencia de funcionamiento, independientemente de que se impongan las demás sanciones a que haya lugar en los términos del presente Capítulo.
 
 ###### Artículo 1800.
 
@@ -27689,7 +27685,7 @@ I. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2012)
 
 II. Apercibimiento;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 III. Multa del equivalente al valor diario de 20 a 3000 unidades de medida y actualización
 
@@ -27727,9 +27723,7 @@ competente de las fallas en los equipos al valor diario de
 
 de control de contaminantes a la atmósfera 20 a 350 unidades
 
-en fuentes fijas de competencia municipal de medida y
-
-actualización
+en fuentes fijas de competencia municipal de medida y actualización
 
 4. Por falta de permiso de la autoridad Del equivalente
 
@@ -27737,9 +27731,7 @@ competente para efectuar combustión a cielo al valor diario de
 
 abierto 20 a 350 unidades
 
-de medida y
-
-actualización
+de medida y actualización
 
 5. Por carecer de inscripción en el Padrón Del equivalente
 
@@ -27747,9 +27739,7 @@ Municipal de giros de competencia municipal al valor diario de
 
 potencialmente emisores de contaminación 20 a 175 unidades
 
-ostensible a la atmósfera de medida y
-
-actualización
+ostensible a la atmósfera de medida y actualización
 
 6. Por descarga al sistema de drenaje Del equivalente
 
@@ -27769,9 +27759,7 @@ transportarlos y disponerlos adecuadamente al valor diario de
 
 de conformidad con la legislación ambiental 15 a 50 unidades
 
-vigente de medida y
-
-actualización
+vigente de medida y actualización
 
 8. Por realizar poda o derribo sin la Del equivalente
 
@@ -27779,21 +27767,19 @@ autorización municipal, por unidad, al valor diario de
 
 independientemente de reparar el 20 a 175 unidades
 
-daño causado de medida y
+daño causado de medida y actualización
 
-actualización
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-9. Los giros comerciales, industriales o de Del equivalente
+9. Los establecimientos comerciales o de Del equivalente
 
 servicios que emitan ruido o vibraciones al valor diario de
 
-a la atmósfera que rebasen los niveles 20 a 175 unidades
+al ambiente que rebasen los niveles 30 a 300 unidades
 
-máximos permisibles de la normatividad de medida y
+máximos permisibles establecidos en el de medida y actualización
 
-vigente, o que causen molestias a la actualización
-
-ciudadania.
+artículo 1796 del presente Código Reglamentario.
 
 10. Por carecer de bitácora de operación y Del equivalente
 
@@ -27823,9 +27809,7 @@ la incineración o traslado de residuos y sustancias al valor diario de
 
 peligrosas por parte de la autoridad competente 10 a 200 unidades
 
-de medida y
-
-actualización
+de medida y actualización
 
 13. Cuando las contravenciones a la Del equivalente
 
@@ -27907,15 +27891,19 @@ La violación a las disposiciones de la Ley y de este Capítulo en materia de im
 
 La obstrucción de las funciones encomendadas al personal encargado en la aplicación del presente Capítulo o la oposición injustificada para permitir que se realice alguna obra o instalación para evitar el deterioro ambiental, serán sancionadas de acuerdo a lo estipulado por este Capítulo.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 1827.
 
 Para efectos de este Capítulo, se entiende por reincidencia:
 
-I. Cada una de las subsecuentes infracciones a una misma disposición cometidas durante los tres años siguientes a la fecha de la resolución en la que se hizo constar la infracción procedente; y
+I. Cada una de las subsecuentes infracciones a una misma disposición cometidas dentro de los tres años siguientes a la fecha de la resolución en la que se hizo constar la infracción procedente; y
 
-II. La omisión constante y reiterada de las recomendaciones técnicas y administrativas que por escrito se haga al infractor.
+II. La omisión constante y reiterada de las recomendaciones técnicas y administrativas que por escrito se hayan requerido al infractor.
 
 En el caso de reincidencia y según la gravedad de la infracción, se impondrá el equivalente de hasta dos tantos del total de la multa originalmente impuesta, además de la clausura definitiva.
+
+En el caso de reincidencia por la infracción señalada en el numeral 9 de la fracción III del artículo 1821 del presente Código, se sancionará además con la cancelación de la licencia de funcionamiento de conformidad con el artículo 1799 del presente Capítulo.
 
 ###### Artículo 1828.
 
@@ -37632,3 +37620,13 @@ P.O. 12 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 5 DE OCTUBRE DE 2018, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN Y JUSTICIA, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL LIBRO SEGUNDO, CAPÍTULO 16, DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
 ÚNICO. La presente reforma y adición de diversas disposiciones del Libro Segundo, Capítulo 16 del Código Reglamentario para el Municipio de Puebla son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 5 DE OCTUBRE DE 2018, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DESARROLLO URBANO Y MEDIO AMBIENTE, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DEL LIBRO QUINTO “ECOLOGÍA”, CAPÍTULO 26 “DE DESARROLLO URBANO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA” DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. La presente reforma de diversos artículos del Libro Quinto “Ecología”, Capítulo 26 “De Desarrollo Urbano Sustentable en Materia Ecológica y Protección al Ambiente Natural del Municipio de Puebla” del Código Reglamentario para el Municipio de Puebla son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La presentación de un Estudio perimetral de ruido dichas medidas serán las que disponga el Estudio perimetral de ruido, en términos de lo dispuesto por la Entidad Mexicana de Acreditaciones para obtener los refrendos establecidos en el segundo párrafo del artículo 1799 de la presente reforma, entrará en vigor el primero de enero del año dos mil veinte.
+
+TERCERO. Se concede un plazo de seis meses para que la Secretaría de Desarrollo Urbano y Sustentabilidad y la Secretaría de Gobernación Municipal realicen las propuestas de modificaciones y actualizaciones necesarias a su Reglamento Interno y el Manual de Procedimientos respectivo y los presente ante el H. Ayuntamiento para su aprobación, así como la reingeniería interna para la correcta aplicación de la presente reforma.
