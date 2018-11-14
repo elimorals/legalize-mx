@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-11-13"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,11 +23,9 @@ issue_date: "2013-02-07"
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MARZO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -133,9 +131,9 @@ I. PRIMER CIRCUITO:
 
 3. Setenta juzgados de Distrito en la Ciudad de México especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 37/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
 
-4. Dos Juzgados de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en la Ciudad de México.
+4. Tres Juzgados de Distrito en Materia Mercantil Especializados en Juicios de Cuantía Menor con residencia en la Ciudad de México.
 
 5. (DEROGADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)
 
@@ -165,9 +163,9 @@ III. TERCER CIRCUITO:
 
 2. Seis tribunales unitarios: cinco con residencia en Zapopan y uno con sede en Guadalajara.
 
-> <small>(REFORMADO POR EL ARTÍCULO 19 DEL ACUERDO GENERAL 38/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 41/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
 
-3. Treinta y dos juzgados de Distrito especializados: nueve de amparo en materia penal, siete con residencia en Zapopan y dos con sede en Puente Grande; nueve en materias administrativa y de trabajo y siete en materia civil, todos con residencia en el municipio de Zapopan; y siete de procesos penales federales con residencia en Puente Grande.
+3. Treinta y dos juzgados de Distrito especializados: nueve de amparo en materia penal, siete con residencia en Zapopan y dos con sede en Puente Grande; dieciséis en materias administrativa, civil y de trabajo, todos con residencia en el municipio de Zapopan; y siete de procesos penales federales con residencia en Puente Grande.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -7022,3 +7020,31 @@ CUARTO. En materia de ejecución de sanciones penales se deberá observar lo dis
 QUINTO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
 
 SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 14 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 37/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SÉPTIMO DE DISTRITO EN MATERIA MERCANTIL ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR CON RESIDENCIA EN LA CIUDAD DE MÉXICO; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA MERCANTIL ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR EN LA ENTIDAD FEDERATIVA INDICADA; Y QUE REFORMA EL SIMILAR 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesario para el desempeño de sus labores.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
+
+D.O.F. 14 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 41/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN Y COMPETENCIA DE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL Y LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; EL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL MISMO ESTADO Y RESIDENCIA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, realizarán las adecuaciones necesarias para que la Oficina de Correspondencia Común de los Juzgados de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco, albergue al personal que prestará servicio en dicha área administrativa.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+CUARTO. La plantilla de personal de los Juzgados de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, será homologada por el Grupo de Trabajo de Plantillas Justificadas del Consejo de la Judicatura Federal, para lo cual procederá a presentar el dictamen correspondiente a la Comisión de Administración.
+
+La Dirección General de Estadística Judicial determinará el número de plazas con que deba contar la Oficina de Correspondencia Común de los Juzgados de Distrito en Materias Administrativa, Civil y de Trabajo y, en su caso, con apoyo en la Dirección General de Recursos Humanos reubicará al personal adscrito a la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Civil.
