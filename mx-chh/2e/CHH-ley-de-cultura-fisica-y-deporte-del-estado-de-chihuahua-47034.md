@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2017-02-22"
+last_updated: "2018-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -202,6 +202,10 @@ XII.- Evento Deportivo Masivo: Todo evento deportivo abierto al público en el q
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 XIII.- Evento Deportivo con fines de espectáculo: Todo aquel en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+XIV.- Deporte Adaptado. Aquel que está convenido como un sistema institucionalizado, regulado por los organismos internacionales correspondientes, y sus reglamentos deportivos para su práctica, considerando las necesidades de participación de los deportistas que presentan discapacidades físicas, intelectuales, mentales y sensoriales.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -655,9 +659,9 @@ II.- Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cult
 
 III.- Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, Entidades Federativas y Municipios a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, estímulo, incentivo y desarrollo de la cultura física y el deporte en todas sus manifestaciones.
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
-IV.- Integrar, en coordinación con la Secretaría, el Programa Estatal de Cultura Física y Deporte.
+IV.- Integrar, en coordinación con la Secretaría, el Programa Estatal de Cultura Física y Deporte, mismo que contendrá, entre otros aspectos, los apartados de deporte social, deporte de rendimiento, deporte de alto rendimiento y deporte adaptado.
 
 V.- Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales, sin contravenir lo dispuesto por las reglas nacionales;
 
@@ -895,7 +899,7 @@ VI.- Establecer procedimientos de promoción en materia de cultura física y dep
 
 VII.- Las demás que le señalen este u otros ordenamientos legales.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 38 Bis.
 
@@ -951,7 +955,7 @@ La Comisión tendrá las siguientes atribuciones:
 
 I.- Conocer y resolver mediante el recurso de apelación, las impugnaciones planteadas por cualquier persona física o moral inscrita en el Registro Estatal o cualquiera de los miembros del Sistema, en contra de actos, omisiones, decisiones, acuerdos o resoluciones emitidos por las autoridades, entidades u organismos deportivos, que afecten los derechos deportivos establecidos a favor del apelante en la presente Ley o en los reglamentos y demás disposiciones que de ella emanen.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 El impugnante podrá optar entre agotar el medio de defensa que corresponda o interponer directamente el recurso de apelación.
 
@@ -1017,7 +1021,7 @@ En caso de que no se arribe a una resolución satisfactoria en el procedimiento 
 
 En ausencia del Presidente, en cualquiera de las sesiones, uno de los miembros del Pleno, a elección de las partes, asumirá sus funciones temporalmente.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 Cuando la ausencia del Presidente sea definitiva, el titular del Ejecutivo Estatal designará de entre los Miembros Titulares, a quien deba sustituirlo para que concluya el periodo respectivo. Ante la ausencia definitiva de cualquiera de los Miembros Titulares, el titular del Ejecutivo Estatal, designará a quien deba sustituirlo para que concluya el periodo respectivo.
 
@@ -1237,7 +1241,7 @@ VI.- Estar reconocida conforme a la presente Ley.
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
-VII.- las demás que prevea este y otros ordenamientos aplicables.
+VII.- Las demás que prevea este y otros ordenamientos aplicables.
 
 Quedarán exentos del cumplimiento de lo dispuesto por la fracción V de este artículo, en cuanto a la sujeción a una Federación Deportiva Internacional, las Asociaciones Estatales de Charrería y Juegos y Deportes Autóctonos.
 
@@ -1400,6 +1404,10 @@ Es de interés público la construcción, remodelación, ampliación, adecuació
 ###### Artículo 72.
 
 La planificación y construcción de instalaciones de cultura física y deporte, financiadas con recursos provenientes del erario público, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, considerando la opinión de la Asociación Deportiva Estatal que corresponda, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Las instalaciones públicas de cultura física y deporte deben garantizar, además de lo previsto en el párrafo anterior, que permitan el libre desplazamiento de las personas con discapacidad en dichos espacios.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -1597,6 +1605,10 @@ VII.- Realizar cualquier actividad que contribuya al desarrollo de las competici
 
 VIII.- Fomentar y promover equitativamente planes y programas destinados al impulso y desarrollo de la actividad física y del deporte para las personas con discapacidad.
 
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Fomentar, promover y reconocer a los deportistas indígenas destacados, así como implementar planes y programas que impulsen el desarrollo de la actividad física y del deporte, de los grupos originarios del Estado de Chihuahua.
+
 ###### Artículo 95.
 
 Los candidatos a obtener estímulos y apoyos a que se refiere este Capítulo, deberán satisfacer, además de los requisitos que establezca el Reglamento de la presente Ley, los siguientes:
@@ -1606,6 +1618,10 @@ I.- Formar parte del Sistema; y
 II.- Ser propuesto por la Asociación Deportiva Estatal correspondiente.
 
 El trámite y demás requisitos para ser acreedores a los estímulos a que se refiere este Capítulo, se especificarán en el Reglamento de la presente Ley, y su otorgamiento y goce estará sujeto al estricto cumplimiento de las disposiciones antes mencionadas, los Reglamentos Técnicos y Deportivos de su disciplina, así como a las bases que establezca el Ejecutivo Estatal por conducto del Instituto.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Quedan exceptuados de los requisitos antes señalados, los deportistas pertenecientes a los grupos indígenas de nuestro Estado, estableciéndose en el Reglamento correspondiente, las bases y requisitos, en respeto a su cultura e identidad, previa consulta con los mismos.
 
 ###### Artículo 96.
 
@@ -1633,9 +1649,15 @@ III.- El sometimiento a las actuaciones de comprobación y a las de control fina
 
 IV.- Facilitar cuanta información le sea requerida por las autoridades de la Administración Pública Estatal, que se relacione con el otorgamiento del estímulo y la práctica de su disciplina deportiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 98.
 
-Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y el deporte estatal, podrán obtener reconocimiento por parte del Instituto, así como en su caso, estímulos en dinero o en especie, previo cumplimiento de los requisitos que para tal efecto se establezcan.
+Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física, el deporte estatal, los Juegos Tradicionales, los Autóctonos y la Charrería, podrán obtener reconocimiento por parte del Instituto, así como, en su caso, estímulos en dinero o en especie, previo cumplimiento de los requisitos que para tal efecto se establezcan.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
+Las personas morales podrán constituirse en Patronatos, con autonomía propia, para coadyuvar en la instrumentación de las acciones que fortalezcan de forma integral el deporte, los Juegos Tradicionales, los Autóctonos y la Charrería.
 
 ###### Artículo 99.
 
@@ -1757,7 +1779,7 @@ El Instituto, podrá asesorar en la materia, dentro del ámbito de su competenci
 
 Para efectos de esta Ley, de manera enunciativa y no limitativa, por actos o conductas violentas o que incitan a la violencia en el deporte se entienden los siguientes:
 
-I.- la participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado.
+I.- La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado.
 
 II.- La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo.
 
@@ -2119,7 +2141,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 4 DE ENERO DE 2006.
 
@@ -2377,7 +2399,7 @@ El presente Decreto entrará en vigor a partir de su publicación en el Periódi
 
 P.O. 22 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2390,3 +2412,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 14 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0893/2018 XVIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
