@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interno-del-instituto-de-reintegracion-social-34117"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2003-09-09"
+last_updated: "2018-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE REINTEGRACION SOCIAL ROSARIO CASTELLANOS
 
-REGLAMENTO INTERNO DEL INSTITUTO DE REINTEGRACION SOCIAL ROSARIO CASTELLANOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CENTRO DE ASISTENCIA SOCIAL ROSARIO CASTELLANOS, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DEL INSTITUTO DE REINTEGRACIÓN SOCIAL ROSARIO CASTELLANOS DEL ESTADO DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 9 de septiembre de 2003.
 
@@ -187,7 +189,7 @@ III.- Las convocatorias se expedirán por escrito con tres días de anticipació
 
 ###### ARTICULO 11.
 
-EL (sic) Contralor Interno del Sistema para el Desarrollo Integral de la Familia del Estado, asistirá a las sesiones de la Junta de Gobierno, con voz pero sin voto; en uso de sus facultades deberá emitir su opinión en los asuntos que tenga injerencia.
+EL Contralor Interno del Sistema para el Desarrollo Integral de la Familia del Estado, asistirá a las sesiones de la Junta de Gobierno, con voz pero sin voto; en uso de sus facultades deberá emitir su opinión en los asuntos que tenga injerencia.
 
 ### CAPITULO VI. DEL DIRECTOR GENERAL DEL INSTITUTO
 
@@ -343,7 +345,7 @@ XIII. Conjuntamente con el equipo interdisciplinario valorar la posibilidad de r
 
 XIV. Informar al Director General del Instituto de sus actividades; y
 
-XV. Las demás que le encomiende el Director General del Instituto y la Junta de Gobierno; (sic)
+XV. Las demás que le encomiende el Director General del Instituto y la Junta de Gobierno;
 
 ###### ARTICULO 18.
 
@@ -418,3 +420,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL CENTRO DE ASISTENCIA SOCIAL “ROSARIO CASTELLANOS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se abroga el Reglamento Interno del Instituto de Reintegración Social Rosario Castellanos publicado en el Periódico Oficial del Estado el 09 de septiembre de 2003.
+
+En tanto se expiden los manuales que este reglamento alude, la Dirección General queda facultada para resolver las cuestiones que conforme a dichos manuales se deben regular.
+
+TERCERO. Los asuntos que se encuentren en trámite se resolverán conforme a la normatividad aplicable al momento de su inicio.
