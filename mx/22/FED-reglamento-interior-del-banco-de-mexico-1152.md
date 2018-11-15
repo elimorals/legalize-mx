@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2018-07-31"
+last_updated: "2018-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -67,9 +67,9 @@ VII. Proporcionar asesoría jurídica a los miembros de la Junta de Gobierno que
 
 El Secretario será asistido en sus funciones por un Secretario Adjunto quien participará en la redacción de los acuerdos en materia económica y financiera, así como un Secretario Suplente. Este último auxiliará al Secretario en sus funciones y cubrirá sus ausencias.
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Junta determine y el Banco los contratará en los términos que ésta establezca. Dichos asesores no quedarán comprendidos en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México, ni tendrán facultades de representación, en términos de los artículos 8o. y 9o., de este Reglamento.
+La Junta de Gobierno y sus miembros contarán con los investigadores técnicos que la propia Junta determine y que el Banco contratará en los términos que esta establezca. Dichos investigadores técnicos no quedarán comprendidos en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México, ni tendrán facultades de representación, en términos de los artículos 8o. y 9o. de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
@@ -77,11 +77,11 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SUS UNIDADES], D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS UNIDADES], 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 4o.
 
-Para el desempeño de las funciones encomendadas por la Ley, el Gobernador contará con las unidades siguientes:
+Para el desempeño de las funciones encomendadas por la Ley, el Gobernador contará con las Unidades siguientes:
 
 Dirección General de Administración
 
@@ -117,13 +117,15 @@ Dirección de Apoyo a las Operaciones
 
 Dirección de Asuntos Internacionales
 
+Dirección de Autorizaciones y Sanciones de Banca Central
+
 Dirección de Ciberseguridad
 
 Dirección de Contabilidad, Planeación y Presupuesto
 
 Dirección de Control Interno
 
-Dirección de Coordinación de la Información
+Dirección de Desarrollo de Sistemas
 
 Dirección de Disposiciones de Banca Central
 
@@ -135,9 +137,11 @@ Dirección de Estudios Económicos
 
 Dirección de Evaluación de Servicios Financieros
 
-Dirección de Fábrica de Billetes
+Dirección de Fabricación de Billetes
 
 Dirección de Información del Sistema Financiero
+
+Dirección de Infraestructura de Tecnologías de la Información
 
 Dirección de Intermediarios Financieros de Fomento
 
@@ -157,9 +161,9 @@ Dirección de Regulación y Supervisión
 
 Dirección de Seguridad
 
-Dirección de Sistemas de Pagos
+Dirección de Seguridad y Organización de la Información
 
-Dirección de Sistemas
+Dirección de Sistemas de Pagos
 
 Dirección de Vinculación Institucional y Comunicación
 
@@ -195,9 +199,9 @@ La creación y extinción de los comités deberá hacerse del conocimiento de la
 
 En el caso de que el Gobernador acuerde la creación de un comité, podrá invitar a sus sesiones a un miembro de la Junta de Gobierno, quien participará únicamente con voz.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-El Banco contará con un Comité de Transparencia para los efectos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Archivos y demás disposiciones aplicables al Banco en esas materias. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por el titular de la Unidad de Transparencia, el Director de Coordinación de la Información y el Director Jurídico. Serán suplentes de los integrantes mencionados, los funcionarios que designen los titulares de las unidades administrativas a las que estén adscritos los miembros propietarios, excepto por el suplente del titular de la Unidad de Transparencia, quien será designado por el Gobernador.
+El Banco contará con un Comité de Transparencia para los efectos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Archivos y demás disposiciones aplicables al Banco en esas materias. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por el titular de la Unidad de Transparencia, el Director de Seguridad y Organización de la Información y el Director Jurídico. Serán suplentes de los integrantes mencionados los funcionarios que designen los titulares de las Unidades Administrativas a las que estén adscritos los miembros propietarios, excepto por el suplente del titular de la Unidad de Transparencia, quien será designado por el Gobernador.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
@@ -295,17 +299,17 @@ La atribución aquí concedida incluye las facultades necesarias para la suscrip
 
 Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, la Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretaría de la Junta, Direcciones y Unidades de Transparencia y Auditoría, incluyen las facultades suficientes para celebrar convenios, solicitar, proporcionar y publicar información, y colaborar con las personas que estimen conveniente, a fin de dar cumplimiento a sus respectivas atribuciones. Lo anterior, deberá efectuarse, en su caso, con la participación que corresponda a otras Unidades Administrativas, conforme a este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-Las disposiciones, autorizaciones, opiniones, consultas, observaciones y veto a comisiones, así como los requerimientos de información respecto de probables infracciones a las disposiciones, que conforme a las leyes correspondan al Banco, por su propio derecho o como fiduciario, deberán ser firmadas por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate.
+Las disposiciones que conforme a las leyes correspondan al Banco, por su propio derecho o como fiduciario, así como las opiniones y consultas respecto de dichas disposiciones, deberán ser firmadas por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate.
 
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-Las disposiciones, opiniones, autorizaciones, consultas y requerimientos de información en materia de almacenamiento, distribución, canje, entrega, retiro, reproducción, medidas de seguridad y destrucción de billetes, monedas y medallas, así como los relativos a corresponsalía de caja, deberán estar suscritos conjuntamente por un funcionario de la Dirección General de Emisión y uno de la Dirección Jurídica.
+Las autorizaciones, opiniones y consultas respecto a entidades o intermediarios financieros, así como las observaciones y veto a comisiones que conforme a las leyes correspondan al Banco, por su propio derecho o como fiduciario, deberán ser firmadas por un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-Las sanciones que imponga el Banco a las entidades financieras o a los intermediarios financieros, serán firmadas por un funcionario de la Dirección General de Asuntos del Sistema Financiero, junto con un funcionario de las Direcciones de Disposiciones de Banca Central o Jurídica, según corresponda a las materias de la competencia de estas últimas conforme a los dos párrafos que preceden.
+Los requerimientos de información respecto de probables infracciones a las disposiciones que conforme a las leyes correspondan al Banco, por su propio derecho o como fiduciario, así como las sanciones que imponga el Banco a las entidades financieras o a los intermediarios financieros, serán firmadas por un funcionario de la Dirección General de Asuntos del Sistema Financiero, junto con un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central.
 
 > <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
@@ -345,9 +349,9 @@ Los inspectores designados en términos del párrafo anterior tendrán facultade
 
 Los inspectores se identificarán presentando conjuntamente copia del acuse de la orden de visita de inspección en la que conste su designación y la credencial que para tal efecto expida en su favor el Banco de México.
 
-Las órdenes de visita de inspección deberán ser suscritas por funcionarios de la Dirección de Regulación y Supervisión conjuntamente con funcionarios de la Dirección Jurídica o Dirección de Disposiciones de Banca Central, según corresponda en términos de lo dispuesto por el artículo 8o., cuarto y quinto párrafos.
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 30 DE MAYO DE 2016)</small>
+Las órdenes de visita de inspección deberán ser suscritas por un funcionario de la Dirección de Regulación y Supervisión conjuntamente con un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central.
 
 La supervisión de entidades e intermediarios financieros, así como todos los actos relacionados con la autorización y supervisión de los programas de autocorrección, se ajustarán a las reglas que se emitan para tal efecto.
 
@@ -419,15 +423,11 @@ La Dirección General de Estabilidad Financiera tendrá las atribuciones que se 
 
 A esta Dirección General estarán adscritas las Direcciones de Estabilidad Financiera, de Información del Sistema Financiero, de Análisis de Riesgos del Sistema Financiero y de Análisis de Riesgos Macrofinancieros.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 14 BIS.- La Dirección General Jurídica tendrá las atribuciones que se señalan en los artículos 17 y 28, además de las que se establecen en otros preceptos del presente Reglamento.
+ARTICULO 14 BIS.- La Dirección General Jurídica tendrá las atribuciones que se señalan en los artículos 17, 17 Bis y 28, además de las que se establecen en otros preceptos del presente Reglamento.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
-
-A esta Dirección General estarán adscritas las Direcciones de Disposiciones de Banca Central y Jurídica.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE MAYO DE 2018)</small>
+A esta Dirección General estarán adscritas las Direcciones de Autorizaciones y Sanciones de Banca Central, de Disposiciones de Banca Central y Jurídica.
 
 > <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
@@ -473,25 +473,11 @@ VIII. Administrar los servicios de la biblioteca y hemeroteca del Banco.
 
 IX. Comercializar publicaciones, reportes y demás instrumentos de divulgación.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 15 BIS 1.- La Dirección General de Tecnologías de la Información tendrá, además de las atribuciones que se establecen en el presente artículo, las señaladas en los artículos 18 Bis, 29 y 29 Bis de este Reglamento.
+ARTICULO 15 BIS 1.- La Dirección General de Tecnologías de la Información tendrá las atribuciones señaladas en los artículos 18 Bis, 28 Bis 1, 29 y 29 Bis de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Ciberseguridad, Coordinación de la Información y de Sistemas, así como la Gerencia de Seguridad de Tecnologías de la Información.
-
-La Gerencia de Seguridad de Tecnologías de la Información tendrá las atribuciones siguientes:
-
-I. Definir las acciones para proteger la infraestructura de tecnologías de información y fortalecer el desarrollo seguro de sistemas del Banco, de conformidad con la estrategia de protección tecnológica institucional.
-
-II. Implementar, en coordinación con las áreas del Banco, las acciones institucionales en materia de seguridad informática de conformidad con la estrategia de protección tecnológica institucional.
-
-III. Administrar el sistema de gestión de seguridad tecnológica de los procesos operativos del Banco.
-
-IV. Participar en los procesos de selección de tecnologías y mecanismos de seguridad informática del Banco.
-
-V. Supervisar el cumplimiento de las disposiciones señaladas en la fracción VIII del artículo 29 Bis, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades y los intermediarios financieros en materia de seguridad de la información. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
-
-VI. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
+A esta Dirección General estarán adscritas las Direcciones de Ciberseguridad, de Desarrollo de Sistemas, de Infraestructura de Tecnologías de la Información, y de Seguridad y Organización de la Información.
 
 ARTICULO 15 BIS 2.- (DEROGADO, D.O.F. 30 DE MAYO DE 2018)
 
@@ -519,9 +505,9 @@ A esta Coordinación estará adscrita la Subcoordinación de Operaciones del Fon
 
 La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis, 16 Bis 1, 16 Bis 2 y 28 Bis de este Reglamento, así como la de atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para su manejo y determinar si las mismas son falsas o hubieren sido alteradas.
 
-> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivo, de Fábrica de Billetes, de Administración de Emisión y de Seguridad.
+A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivo, de Fabricación de Billetes, de Administración de Emisión y de Seguridad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE AGOSTO DE 2017)</small>
 
@@ -555,9 +541,9 @@ En las ausencias de los Cajeros Regionales de las sucursales, los Jefes de la Of
 
 VII. Custodiar la colección numismática del Banco;
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Proporcionar, en el ámbito de su competencia, a la Dirección General de Asuntos del Sistema Financiero, la información y documentación necesaria para que ésta imponga, junto con la Dirección Jurídica, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito;
+VIII. Proporcionar, en el ámbito de su competencia, a la Dirección General de Asuntos del Sistema Financiero, la información y documentación necesaria para que esta imponga, junto con la Dirección de Autorizaciones y Sanciones de Banca Central, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito;
 
 IX. (DEROGADA, D.O.F. 15 DE AGOSTO DE 2017)
 
@@ -569,9 +555,9 @@ X. Tramitar, registrar y conciliar las operaciones que realice el Banco, con bil
 
 XI. Participar en la ejecución de medidas en las áreas de medio ambiente y seguridad e higiene industrial, respecto de aquellas materias que conforme a este artículo sean de su competencia.
 
-> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 16 BIS 1.- La Dirección de Fábrica de Billetes tendrá las atribuciones siguientes:
+ARTICULO 16 BIS 1.- La Dirección de Fabricación de Billetes tendrá las atribuciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
 
@@ -580,6 +566,8 @@ I. Realizar los actos necesarios para la fabricación de billetes y su entrega a
 > <small>(REFORMADA, D.O.F. 29 DE MARZO DE 2012)</small>
 
 II. Realizar la manufactura de billetes de banco y otros impresos de seguridad en sus instalaciones, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 III. Participar en la ejecución de medidas en las áreas de medio ambiente y seguridad e higiene industrial, respecto de aquellas materias que conforme a este artículo sean de su competencia.
 
@@ -593,9 +581,9 @@ II. Formular, coordinar y participar en la ejecución de programas en materia am
 
 III. Supervisar el manejo de efectivo, metales preciosos, valores e insumos para la fabricación de billetes;
 
-> <small>(REFORMADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-IV. Formalizar los actos necesarios para la acuñación y comercialización de monedas o piezas que hubieren tenido ese carácter, con empaque o acabado especial, monedas en metales finos, medallas, así como los bienes elaborados en la Fábrica de Billetes, o productos numismáticos, conforme a lo previsto en los artículos 56, último párrafo, y 62, fracción II, de la Ley;
+IV. Formalizar los actos necesarios para la acuñación y comercialización de monedas o piezas que hubieren tenido ese carácter, con empaque o acabado especial, monedas en metales finos, medallas, así como los bienes elaborados por la Dirección de Fabricación de Billetes, o productos numismáticos, conforme a lo previsto en los artículos 56, último párrafo, y 62, fracción II, de la Ley.
 
 > <small>(REFORMADA, D.O.F. 15 DE AGOSTO DE 2017)</small>
 
@@ -611,69 +599,45 @@ VII. (DEROGADA, D.O.F. 30 DE MAYO DE 2018)
 
 VIII. Realizar la investigación y desarrollo de nuevas tecnologías relacionadas con los materiales y procesos para la fabricación de billetes y acuñación de monedas.
 
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 17.
 
 La Dirección de Disposiciones de Banca Central tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+I. Expedir las disposiciones que corresponda emitir al Banco.
 
-I. Expedir las disposiciones que corresponda emitir al Banco, con excepción de las señaladas en la fracción II del artículo 16 Bis;
+II. Emitir la opinión que corresponda dar al Banco con respecto a disposiciones de su competencia, o cuando la Ley lo determine.
 
-II. Resolver las solicitudes de autorización y las consultas que, de conformidad con las disposiciones aplicables al Sistema Financiero, sean planteadas al Banco;
+III. Expedir las disposiciones relativas a los fideicomisos constituidos en el Banco por encomienda legal, o bien, aquellos cuyos fines coadyuven al desempeño de sus funciones.
 
-III. Emitir la opinión que corresponda dar al Banco cuando la ley lo determine;
+IV. Concertar y formalizar todos los actos jurídicos relativos a las funciones de banca central, sistemas de pagos, así como aquellos en materia de firma electrónica.
 
-> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 1997)</small>
+V. Emitir las reglas de operación de los fideicomisos de fomento económico, así como formalizar los instrumentos en que se contengan las operaciones de los referidos fideicomisos a que se refiere esta fracción.
 
-IV. Expedir las disposiciones relativas a los fideicomisos constituidos en el Banco por encomienda legal, o bien, aquéllos cuyos fines coadyuven al desempeño de sus funciones;
+VI. Coadyuvar, en aspectos legales, con las autoridades competentes o Unidades Administrativas del Banco, en el ingreso, participación y demás actos relacionados con la operación de organismos económicos y financieros internacionales.
 
-> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2000)</small>
+VII. Proporcionar dictámenes e información legal que corresponda dar al Banco, con excepción de las señaladas en la fracción VI del artículo 28.
 
-V. Recibir y dar el trámite correspondiente a las solicitudes de autorización, de opinión y a las consultas a que se refieren las fracciones II, III y XIII;
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2011)</small>
+ARTICULO 17 BIS.- La Dirección de Autorizaciones y Sanciones de Banca Central tendrá las atribuciones siguientes:
 
-VI. Concertar y formalizar todos los actos jurídicos relativos a las funciones de banca central, sistemas de pagos, así como aquellos en materia de firma electrónica;
+I. Imponer, junto con la Dirección General de Asuntos del Sistema Financiero, las sanciones procedentes a las entidades e intermediarios financieros.
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+II. Resolver las solicitudes de autorización y las consultas que, de conformidad con las disposiciones aplicables al Sistema Financiero, sean planteadas al Banco con respecto a entidades o intermediarios financieros.
 
-VII. Emitir las reglas de operación de los fideicomisos de fomento económico, así como formalizar los instrumentos en que se contengan las operaciones de los referidos fideicomisos a que se refiere esta fracción;
+III. Emitir la opinión que corresponda dar al Banco cuando la Ley lo determine con respecto a entidades o intermediarios financieros.
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+IV. Recibir y dar el trámite correspondiente a las solicitudes de autorización, de opinión y a las consultas a que se refieren las fracciones II y III.
 
-VIII. Imponer a las entidades e intermediarios financieros las sanciones procedentes, con excepción de los asuntos sobre fabricación, almacenamiento, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja;
+V. Conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión a que se refieren la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
-IX. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
+VI. Notificar a las entidades o intermediarios financieros los acuerdos, proveídos y demás resoluciones relativas a los recursos de revisión a que se refiere la fracción anterior, en términos del Capítulo V de este Reglamento.
 
-X. Coadyuvar, en aspectos legales, con las autoridades competentes o unidades administrativas del Banco, en el ingreso, participación y demás actos relacionados con la operación de organismos económicos y financieros internacionales;
+VII. Recibir los programas de autocorrección que presenten las entidades o intermediarios financieros.
 
-> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 1999)</small>
-
-XI. Proporcionar dictámenes e información legal que corresponda dar al Banco, con excepción de las señaladas en la fracción VI del artículo 28;
-
-XII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
-
-XIII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
-
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
-
-XIV. Conocer, sustanciar y proveer lo necesario para la debida resolución del recurso de revisión a que se refieren la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
-
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
-
-XV. Notificar a las entidades o intermediarios financieros los acuerdos, proveídos y demás resoluciones relativas a los recursos de revisión a que se refiere la fracción anterior, en términos del Capítulo V de este Reglamento;
-
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
-
-XVI. Participar en los procedimientos de formulación de observaciones y veto a comisiones, en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
-
-> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
-
-XVII. Recibir los programas de autocorrección que presenten las entidades o intermediarios financieros en las materias distintas a aquellas previstas en el párrafo quinto del artículo 8o. del presente Reglamento.
-
-ARTICULO 17 BIS.- (DEROGADO, D.O.F. 30 DE MAYO DE 2018)
+VIII. Participar en los procedimientos de formulación de observaciones y veto a comisiones, en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018)</small>
 
@@ -725,33 +689,33 @@ XI. Proponer la estrategia de comunicación del Banco, así como ejecutar los pr
 
 XII. Realizar publicaciones institucionales y de divulgación del Banco, de acuerdo con el programa editorial de la Institución.
 
-> <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 18 BIS.- La Dirección de Coordinación de la Información tendrá las atribuciones siguientes:
+ARTICULO 18 BIS.- La Dirección de Seguridad y Organización de la Información tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-I. Promover la generación eficaz de la información en las diferentes unidades administrativas del Banco y participar en el diseño de los sistemas que permitan compartirla institucionalmente, con el objeto de mejorar las actividades de dichas unidades.
+I. Promover la generación segura, eficiente y eficaz de la información en las diferentes Unidades Administrativas del Banco y participar en el diseño de los sistemas que permitan compartirla institucionalmente, con el objeto de mejorar las actividades de dichas Unidades.
 
 > <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
 II. Evaluar, coordinar y opinar sobre la contribución de las diferentes áreas del Banco a los sistemas de información.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-III. Elaborar y someter a autorización del Comité de Transparencia, por una parte, los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco y, por otra parte, los criterios específicos en materia de organización y conservación de archivos, así como de los expedientes que contengan información y documentación clasificada como reservada y confidencial, de conformidad con lo dispuesto por la Ley Federal de Archivos y cualquier otra normatividad aplicable en la materia.
+III. Elaborar y someter a autorización del Comité de Transparencia los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco; los criterios específicos en materia de organización y conservación de archivos, datos personales y expedientes que contengan información y documentación clasificada como reservada y confidencial, así como los criterios específicos y mecanismos para la gestión, control y cumplimiento de los plazos aplicables para el bloqueo y supresión de datos personales, de conformidad con lo dispuesto por la legislación aplicable en dichas materias.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-IV. Participar en el análisis, evaluación y recomendación de herramientas de trabajo para optimizar el uso de la infraestructura informática, así como la organización y administración de la información.
+IV. Participar en el análisis, evaluación y recomendación de herramientas de trabajo para optimizar el uso de la infraestructura informática, así como de las políticas, procedimientos y roles para la organización y administración de la información.
 
 > <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
 V. Analizar y proponer programas de capacitación del personal en el uso de nuevas tecnologías y evaluar sus resultados.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-VI. Investigar las redes de comunicación electrónica con objeto de identificar desarrollos susceptibles de ser aplicados en el Banco.
+VI. Presentar al Comité de Tecnologías y Seguridad de la Información propuestas de políticas y procedimientos para el manejo seguro y eficiente de la información y, en caso de obtener su aprobación, emitir las normas correspondientes.
 
 VII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
@@ -783,9 +747,29 @@ XIII. Elaborar y presentar al Comité de Transparencia el Plan Anual de Desarrol
 
 XIV. Coordinar los procedimientos de valoración y destino final de la documentación, con base en la normatividad aplicable.
 
-XV. (DEROGADA, D.O.F. 30 DE MAYO DE 2018)
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-XVI. (DEROGADA, D.O.F. 30 DE MAYO DE 2018)
+XV. Definir las acciones para proteger la infraestructura de tecnologías de la información y fortalecer el desarrollo seguro de los sistemas del Banco, de conformidad con la estrategia de protección tecnológica institucional.
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Implementar, en coordinación con las áreas del Banco que corresponda, las acciones institucionales en materia de seguridad de la información, de conformidad con la estrategia de protección tecnológica institucional.
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Administrar el sistema de gestión de seguridad de la información de los procesos operativos del Banco.
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Participar en los procesos de selección de tecnologías y mecanismos de seguridad informática del Banco.
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Supervisar el cumplimiento de las disposiciones señaladas en la fracción VIII del artículo 29 Bis, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades o intermediarios financieros, en materia de seguridad de la información. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
+
+> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+
+XX. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección de Autorizaciones y Sanciones de Banca Central, las sanciones que correspondan, en términos del artículo 8o.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -1095,7 +1079,7 @@ IV. Poner a disposición de otras autoridades financieras la información recaba
 
 V. Administrar el registro de comisiones a que se refiere el artículo 6o. de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
 
-REFORMADA, D.O.F. 30 DE ENERO DE 2015)
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
 VI. Administrar el proceso de publicación de información de carácter financiero en coordinación con otras Unidades Administrativas del Banco que, de conformidad con el presente Reglamento, puedan recabar y/o publicar información de ese carácter;
 
@@ -1375,21 +1359,15 @@ X. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2011)
 
 XI. Proporcionar asesoría jurídica a las unidades administrativas del Banco que lo requieran, así como a terceros cuando sea de interés para el propio Banco;
 
-> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
+XII. (DEROGADA, D.O.F. 15 DE NOVIEMBRE DE 2018)
 
-XII. Expedir, junto con la Dirección General de Emisión, las disposiciones a que se refieren los artículos 48 Bis 1 de la Ley de Instituciones de Crédito y 8o. de este Reglamento;
+XIII. (DEROGADA, D.O.F. 15 DE NOVIEMBRE DE 2018)
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Imponer, junto con la Dirección General de Asuntos del Sistema Financiero, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito;
+XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos de revisión a que se refiere la fracción V del artículo 17 Bis;
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
-
-XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos de revisión a que se refiere la fracción XIV del artículo 17;
-
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
-
-XV. Recibir los programas de autocorrección que presenten las entidades o intermediarios financieros en las materias previstas en el párrafo quinto del artículo 8o. del presente Reglamento;
+XV. (DEROGADA, D.O.F. 15 DE NOVIEMBRE DE 2018)
 
 > <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -1421,27 +1399,37 @@ IV. Coordinar las relaciones interinstitucionales con las autoridades del Gobier
 
 V. Administrar los transportes aéreos que requiera el Banco para el desempeño de sus funciones, así como el traslado terrestre de valores que efectúe con vehículos propios.
 
-ARTICULO 28 BIS 1.- (DEROGADO, D.O.F. 31 DE JULIO DE 2018)
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1997)</small>
+ARTICULO 28 BIS 1.- La Dirección de Infraestructura de Tecnologías de la Información tendrá las atribuciones siguientes:
+
+I. Establecer, operar y administrar las infraestructuras de cómputo y de telecomunicaciones, así como realizar los actos para mantenerlas actualizadas, y proporcionar el soporte técnico necesario.
+
+II. Proporcionar a los órganos colegiados, a sus miembros y a las Unidades Administrativas del Banco, los bienes y servicios que soliciten de acuerdo con la normativa correspondiente, para que establezcan y operen la infraestructura de cómputo y telecomunicaciones que requieran dentro del ámbito de sus atribuciones, así como brindarles el soporte especializado en esta materia.
+
+III. Diseñar, establecer y administrar los sistemas de cómputo y telecomunicaciones que permitan a las entidades o intermediarios financieros y cuentahabientes del Banco intercambiar información con este último.
+
+IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y servicios necesarios para apoyar la seguridad del Banco.
+
+V. Emitir políticas, lineamientos y estrategias institucionales para establecer, operar y administrar las infraestructuras de cómputo y de telecomunicaciones que se emplean en la provisión de servicios de tecnologías de la información al Banco, así como para el servicio de interconexión a la infraestructura de cómputo y telecomunicaciones que el Banco presta a las entidades o intermediarios financieros y cuentahabientes del propio Banco.
+
+VI. Supervisar el cumplimiento de las disposiciones, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades o intermediarios financieros, en materia de interconexión a la infraestructura de cómputo y telecomunicaciones del Banco. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
+
+VII. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección de Autorizaciones y Sanciones de Banca Central, las sanciones que correspondan, en términos del artículo 8o.
+
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 29.
 
-La Dirección de Sistemas tendrá las atribuciones siguientes:
+La Dirección de Desarrollo de Sistemas tendrá las atribuciones siguientes:
 
-I. Establecer, operar y mantener sistemas de cómputo y telecomunicaciones;
+I. Proporcionar a los órganos colegiados, a sus miembros y a las Unidades Administrativas del Banco, las soluciones informáticas y el soporte que requieran, de acuerdo con la normatividad correspondiente, para la ejecución de sus procesos.
 
-II. Proporcionar a los órganos colegiados, a sus miembros y a las unidades del Banco, los bienes y servicios que soliciten de acuerdo con la normativa correspondiente, para que establezcan y operen los sistemas de informática y telecomunicaciones que requieran dentro del ámbito de sus atribuciones, así como brindarles el soporte especializado en esta materia;
+II. Diseñar e implantar los aplicativos y programas que la propia Dirección desarrolla o los que el Banco adquiera, que resuelvan necesidades transversales del Banco, así como planear y realizar los actos necesarios para garantizar su correcto funcionamiento y seguridad.
 
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+III. Emitir políticas, lineamientos y estrategias institucionales para el desarrollo de los sistemas que automatizan los procesos del Banco, así como para los aplicativos y programas que sean adquiridos de terceros.
 
-III. Diseñar e implementar sistemas de comunicaciones que permitan a los intermediarios financieros y cuentahabientes del Banco, intercambiar información con este último;
-
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
-
-IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y servicios necesarios para apoyar la seguridad del Banco, y
-
-V. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2002)
+IV. Presentar al Comité de Tecnologías y Seguridad de la Información propuestas de normatividad interna para el desarrollo de sistemas para el Banco y, en caso de obtener su aprobación, emitir las normas correspondientes.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2018)</small>
 
@@ -1463,7 +1451,9 @@ VII. Representar al Banco de México en foros especializados y ante otras autori
 
 VIII. Participar en el diseño, elaboración y, en su caso, expedición de disposiciones en materia de seguridad de la información, aplicables a las entidades e intermediarios financieros en el ámbito de las atribuciones del Banco de México; así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones.
 
-IX. Proporcionar la información y documentación que requieran la Gerencia de Seguridad de Tecnologías de la Información y la Dirección de Regulación y Supervisión, para realizar la evaluación, supervisión y seguimiento de las disposiciones señaladas en la fracción anterior.
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+
+IX. Proporcionar la información y documentación que requieran la Dirección de Seguridad y Organización de la Información y la Dirección de Regulación y Supervisión, para realizar la evaluación, supervisión y seguimiento de las disposiciones señaladas en la fracción anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -1525,8 +1515,6 @@ XIII. Expedir constancias y certificar copias de los registros o documentos que 
 
 Para efectos de las fracciones X y XI de este artículo, el titular de la Unidad de Auditoría representará al Órgano Interno de Control del Banco.
 
-> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 ARTICULO 29 BIS 2.- El Comité de Auditoría tendrá las atribuciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
@@ -1545,9 +1533,9 @@ IV. Requerir a las Unidades Administrativas auditadas, informes respecto de la a
 
 V. Elaborar y expedir las reglas necesarias para su operación, y
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
-VI. Nombrar y remover a su secretario, quien deberá ser un funcionario o trabajador de rango equivalente, adscrito ya sea a la Unidad de Auditoría, a la Dirección General de Contraloría y Administración de Riesgos o a la Dirección General Jurídica, que cuente con título profesional de licenciado en derecho o de abogado, o bien, un asesor de la Junta de Gobierno o de alguno de sus miembros distintos a aquel que presida la Comisión de Responsabilidades.
+VI. Nombrar y remover a su secretario, quien deberá ser un funcionario o trabajador de rango equivalente, adscrito ya sea a la Unidad de Auditoría, a la Dirección General de Contraloría y Administración de Riesgos o a la Dirección General Jurídica, que cuente con título profesional de licenciado en derecho o de abogado, o bien, un investigador técnico de la Junta de Gobierno o de alguno de sus miembros distintos a aquel que presida la Comisión de Responsabilidades.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -1769,7 +1757,9 @@ VIII. Recabar y enviar al Instituto Nacional de Transparencia, Acceso a la Infor
 
 IX. Solicitar y autorizar la ampliación del plazo de reserva de la información en términos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad aplicable.
 
-X. Establecer a propuesta de la Dirección de Coordinación de la Información, los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco; los criterios específicos en materia de organización y conservación de archivos, datos personales y expedientes que contengan información y documentación clasificada como reservada y confidencial, así como los criterios específicos y mecanismos para la gestión, control y cumplimiento de los plazos aplicables para el bloqueo y supresión de datos personales, de conformidad con lo dispuesto por la legislación federal en materia de archivos, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, y cualquier otra normatividad aplicable en dichas materias.
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+
+X. Establecer, a propuesta de la Dirección de Seguridad y Organización de la Información, los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco; los criterios específicos en materia de organización y conservación de archivos, datos personales y expedientes que contengan información y documentación clasificada como reservada y confidencial, así como los criterios específicos y mecanismos para la gestión, control y cumplimiento de los plazos aplicables para el bloqueo y supresión de datos personales, de conformidad con lo dispuesto por la legislación federal en materia de archivos, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, y cualquier otra normatividad aplicable en dichas materias.
 
 XI. Aprobar los formatos de solicitudes de acceso a la información y para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales que, en su caso, elabore la Unidad de Transparencia.
 
@@ -2159,11 +2149,11 @@ En la sustanciación y resolución del recurso de reconsideración se aplicarán
 
 En contra de las sanciones que el Banco imponga de conformidad con la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, procederá el recurso de revisión en los términos del Título Sexto de la Ley Federal de Procedimiento Administrativo, así como lo dispuesto en este Reglamento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 54.
 
-El escrito de interposición del recurso y las promociones relativas a la tramitación del procedimiento deberán dirigirse la Gerencia de Autorizaciones, Consultas y Control de Legalidad y presentarse en días hábiles bancarios, dentro del horario comprendido entre las nueve y las diecinueve horas. Dicho recurso será resuelto por los superiores jerárquicos de los funcionarios que hayan suscrito el acto impugnado.
+El escrito de interposición del recurso y las promociones relativas a la tramitación del procedimiento deberán dirigirse a la Gerencia de Sanciones de Banca Central y presentarse en días hábiles bancarios, dentro del horario comprendido entre las nueve y las diecinueve horas. Dicho recurso será resuelto por los superiores jerárquicos de los funcionarios que hayan suscrito el acto impugnado.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -2187,11 +2177,13 @@ La interposición del recurso suspenderá la ejecución del acto impugnado, siem
 
 Tratándose de multas, el recurrente deberá garantizar previamente, en favor del Banco de México, en cualquiera de las formas previstas en el Código Fiscal de la Federación y su Reglamento, salvo que el Banco llevare cuenta al infractor.
 
-> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 57.
 
-El trámite del recurso estará a cargo del titular de la Gerencia de Autorizaciones, Consultas y Control de Legalidad, a quien también corresponderá proveer lo relativo a la suspensión de la ejecución del acto impugnado. En sus ausencias, el Subgerente de Control de Legalidad dictará los proveídos correspondientes.
+El trámite del recurso estará a cargo del titular de la Gerencia de Sanciones de Banca Central, a quien también corresponderá proveer lo relativo a la suspensión de la ejecución del acto impugnado. En sus ausencias, el Subgerente de Sanciones de Banca Central dictará los proveídos correspondientes.
+
+ADICIONADO, D.O.F. 30 DE ENERO DE 2015)
 
 Los acuerdos de desechamiento, de sobreseimiento o de no interposición del recurso deberán ser firmados por los superiores jerárquicos de los funcionarios que hayan suscrito el acto impugnado.
 
@@ -2241,17 +2233,17 @@ Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que
 
 La manifestación que haga el interesado o su representante de conocer el acto administrativo surtirá efectos de notificación en forma desde la fecha en que manifieste haber tenido tal conocimiento, si esta es anterior al día en que surta efectos la notificación de acuerdo con lo señalado en el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 63.
 
-Corresponderá al personal de la Gerencia de Autorizaciones, Consultas y Control de Legalidad practicar las notificaciones de trámite y resolución del citado recurso de revisión.
+Corresponderá al personal de la Gerencia de Sanciones de Banca Central practicar las notificaciones de trámite y resolución del recurso.
 
-Sin perjuicio de lo anterior, el Director de Disposiciones de Banca Central podrá habilitar a personas distintas de las que integran dicha Gerencia, para que realicen las referidas notificaciones, siempre que formen parte de esa Dirección.
+Sin perjuicio de lo anterior, el Director de Autorizaciones y Sanciones de Banca Central podrá habilitar a personas distintas de las que integran dicha Gerencia, para que realicen las referidas notificaciones, siempre que formen parte de esa Dirección.
 
-De igual forma, el Director General Jurídico podrá habilitar personal de cualquiera de las Direcciones a que se refieren los artículos 17 y 28 de este Reglamento para realizar las mencionadas notificaciones.
+De igual forma, el Director General Jurídico podrá habilitar personal de cualquiera de las Direcciones a que se refieren los artículos 17, 17 Bis y 28 de este Reglamento para realizar las mencionadas notificaciones.
 
-Será medio de identificación de los notificadores citados, la credencial que expida en su favor el Banco de México, junto con el oficio firmado por el Director General Jurídico o el Director de Disposiciones de Banca Central, según sea el caso, que los faculte para realizar tales funciones.
+Será medio de identificación de los notificadores citados, la credencial que expida en su favor el Banco de México, junto con el oficio firmado por el Director General Jurídico o el Director de Autorizaciones y Sanciones de Banca Central, según sea el caso, que los faculte para realizar tales funciones.
 
 > <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -2780,3 +2772,15 @@ CUARTO. Los asuntos que se encuentren en trámite o pendientes de conclusión a 
 Los expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor de las presentes modificaciones, pasarán a la nueva unidad o unidades administrativas competentes y serán distribuidos, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
 
 QUINTO. Las modificaciones a la estructura orgánica del Banco de México que deriven de la entrada en vigor de las presentes modificaciones no generarán incremento en el presupuesto autorizado para recursos humanos del Banco para el siguiente ejercicio fiscal, toda vez que el presupuesto correspondiente a la estructura a que se refiere el presente artículo deberá elaborarse bajo el supuesto de que las disponibilidades presupuestales correspondientes serán restituidas por los honorarios fiduciarios cobrados por el Banco con cargo al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, así como el contrato constitutivo de dicho fideicomiso.
+
+D.O.F. 15 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Todas las referencias a las Unidades Administrativas que en virtud de la entrada en vigor de las presentes modificaciones hayan desaparecido, cambiado de denominación o de adscripción, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las Unidades Administrativas que las sustituyan o cuenten con las atribuciones respectivas.
+
+TERCERO. Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de estas modificaciones y que, conforme a las mismas, correspondan ser atendidos por una Unidad Administrativa diversa a la que haya estado a cargo de ellos hasta dicha entrada en vigor, continuarán su trámite y serán resueltos por aquella o aquellas Unidades Administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
