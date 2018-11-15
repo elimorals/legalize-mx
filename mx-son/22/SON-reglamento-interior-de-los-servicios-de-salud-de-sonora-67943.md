@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-los-servicios-de-salud-de-sonora-67943"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-26"
-last_updated: "2017-04-20"
+last_updated: "2018-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 26 de marzo del 2009.
 
@@ -79,7 +79,9 @@ b) El Presidente Ejecutivo.
 
 II. UNIDADES ADMINISTRATIVAS:
 
-a) Coordinación General de Servicios de Salud;
+> <small>(REFORMADO, B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+a) Coordinación General de Servicios y Proyectos Estratégicos de Salud
 
 b) Coordinación General de Administración y Finanzas;
 
@@ -122,6 +124,10 @@ l) Dirección General de Recursos Humanos
 > <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
 
 m) Unidad de Asuntos Jurídicos
+
+> <small>(ADICIONADO, B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+ñ) Coordinación Técnica de Vinculación con Centros Penitenciarios
 
 III. ÓRGANOS DESCONCENTRADOS:
 
@@ -443,9 +449,11 @@ XXII.- Las demás que le confieran las disposiciones legales aplicables y el Pre
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS COORDINACIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 25.
 
-A la Coordinación General de Servicios de Salud le corresponden las siguientes atribuciones:
+A la Coordinación General de Servicios y Proyectos Estratégicos de Salud, le corresponden las siguientes atribuciones:
 
 I.- Vigilar, controlar, evaluar, verificar, dictaminar y sancionar las actividades de prestación de servicios de salud, de medicina transfusional, y de asistencia social en el ámbito del Estado, con apego a las leyes, reglamentos, convenios y normas aplicables;
 
@@ -463,7 +471,13 @@ VII.- Participar en la definición de criterios para evaluar el desempeño de la
 
 VIII.- Propiciar el desarrollo de sistemas estratégicos de información dinámica que apoyen la toma de decisiones y que permitan la evaluación expedita de las acciones; y
 
-IX.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+> <small>(ADICIONADA, B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+IX. Establecer las estrategias y mecanismos de apoyo, colaboración y vinculación entre las unidades administrativas bajo su coordinación, para la ejecución de los Programas "Casa Saludable", "Médico en tu casa" y "Sonora Motivada"; y
+
+> <small>(REFORMADA, B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+X.- Las demás que le confieran las disposiciones legales aplicables, el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JULIO DE 2011)</small>
 
@@ -645,9 +659,11 @@ XIII.- Distribuir, controlar y supervisar el uso y manejo de los certificados de
 
 XIV.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 30.
 
-La Dirección General de Servicios de Salud a la Persona estará adscrita a la Coordinación General de Servicios de Salud y tendrá el cumplimiento de las siguientes atribuciones:
+La Dirección General de Servicios de Salud a la Persona estará adscrita a la Coordinación General de Servicios y Proyectos Estratégicos de Salud y tendrá el cumplimiento de las siguientes atribuciones:
 
 I.- (DEROGADA, B.O. 8 DE ENERO DE 2016)
 
@@ -721,9 +737,13 @@ XVIII.- Participar en las reuniones del Comité Interno de Administración, Plan
 
 XIX.- Motivar la participación de los recursos humanos para la salud en los programas de desarrollo integral de las unidades de primer nivel, en coordinación con la Dirección General de Enseñanza y Calidad; y
 
-> <small>(ADICIONADA, B.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-XX.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+XXII (SIC).- Dirigir y ejecutar directamente los Programas "Casa Saludable" y "Médico en tu casa", estableciendo los mecanismos de colaboración y comunicación, necesarios para su cumplimiento; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+XXIII.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 31.
 
@@ -993,9 +1013,9 @@ XVIII.- Establecer un sistema de vinculación y seguimiento de la gestión entre
 
 XIX.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
-> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, B.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-ARTÍCULO 34 BIS C.- La Dirección General de Salud Mental y Adicciones estará adscrita a la Coordinación General de Servicios de Salud y tendrá el cumplimiento de las siguientes atribuciones:
+ARTÍCULO 34 BIS C.- La Dirección General de Salud Mental y Adicciones estará adscrita a la Coordinación General de Servicios y Proyectos Estratégicos de Salud y tendrá el cumplimiento de las siguientes atribuciones:
 
 I.- Coordinar, supervisar y evaluar las políticas y estrategias en materia de salud mental y adicciones, previa validación del Coordinador General de Servicios de Salud;
 
@@ -1015,7 +1035,13 @@ VIII.- Proponer, en su ámbito de competencia, instrumentos y mecanismos para la
 
 IX. Planear, organizar, programar y supervisar las actividades de las unidades que le estén adscritas; y
 
-X.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+X.- Dirigir y ejecutar directamente el Programa "Sonora Motivada" estableciendo los mecanismos de colaboración y comunicación, necesarios para su cumplimiento; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+XI. Las demás que le confieran las disposiciones legales aplicables, el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 > <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
 
@@ -1056,6 +1082,24 @@ XVI.- Expedir los nombramientos y realizar las reubicaciones, liquidaciones y pa
 XVII.- Integrar y gestionar las peticiones de licencia con goce de sueldo por comisión sindical, así como las comisiones oficiales y externas de las unidades administrativas y órganos desconcentrados;
 
 XVIII.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 34 BIS E.- La Coordinación Técnica de Vinculación con Centros Penitenciarios estará adscrita a la Coordinación General de Servicios y Proyectos Estratégicos de Salud y tendrá el cumplimiento de las siguientes atribuciones:
+
+I.- Establecer mecanismos de colaboración con las unidades administrativas de la Entidad, de conformidad con lo establecido en la Ley Nacional de Ejecución Penal;
+
+II.- Promover mecanismos de vinculación con instancias públicas y privadas de carácter federal y local, en términos de lo establecido en la Ley Nacional de Ejecución Penal;
+
+III.- Diseñar en colaboración con la Unidad de Asuntos Jurídicos, los convenios de colaboración, acuerdos, bases, anexos y cualquier tipo de instrumento jurídico necesario para el cumplimiento de las obligaciones a cargo de la Entidad, previstas en la Ley Nacional de Ejecución Penal;
+
+IV.- Participar como área de asesoría y consulta en materia de atención médica a personas privadas de su libertad y recluidas en centros penitenciarios.
+
+V.- Establecer mecanismos de colaboración directa con centros penitenciarios en términos de lo establecido el Titulo Tercero, Capítulo II de la Ley Nacional de Ejecución Penal;
+
+VI.- Diseñar los programas de servicio médico que tengan por objeto la atención médica de personas privadas de su libertad, que incluyan campañas permanentes de prevención de enfermedades, diagnóstico oportuno de enfermedades y tratamiento adecuado, alimentación, de conformidad con lo establecido el Título Tercero, Capítulo II de la Ley Nacional de Ejecución Penal, y
+
+VII.- Las demás que le confieran las disposiciones legales aplicables, el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 35.
 
@@ -1366,3 +1410,15 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los manuales de organización, de procedimientos y de servicios al público de los Servicios de Salud de Sonora, deberán actualizarse de conformidad con las disposiciones del presente Acuerdo, dentro de los sesenta días posteriores a la publicación del mismo en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Manuales de Organización, de Procedimientos y de servicios al público de los Servicios de Salud de Sonora, deberán actualizarse, en lo conducente, de conformidad con las disposiciones del presente Acuerdo, dentro de los sesenta días posteriores a la publicación del mismo en el Boletín Oficial del Gobierno del Estado.
