@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2018-07-31"
+last_updated: "2018-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -369,9 +369,9 @@ VIII. A respetar y cuidar el patrimonio natural del Estado y hacer uso de los re
 
 A nadie podrá obligársele a que pague una contribución que no haya sido previamente decretada por el Congreso.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+La prevención e investigación de los delitos corresponden al Ministerio Público y a las policías, en el ámbito de sus respectivas competencias. Para efectos de la procuración de justicia o cuando el curso de la investigación requiera control jurisdiccional, las policías actuarán bajo la conducción y mando del ministerio público, y ejecutarán con la debida diligencia sus órdenes, mandamientos e instrucciones. El Fiscal General podrá establecer protocolos de actuación e intervención para ciertos tipos de delitos, así como integrar unidades de investigación especializadas para atender objetivos específicos de política criminal. Toda autoridad deberá prestar auxilio y colaboración a las policías y los Ministerios Públicos en el ejercicio de sus funciones. La ley regulará las relaciones de mando, conducción y coordinación entre la policía y el Ministerio Público, así como sus respectivas obligaciones. Asimismo, establecerá los procedimientos y sanciones aplicables en los supuestos de desacato, negligencia u omisión que afecten el curso de las investigaciones criminales.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -757,9 +757,9 @@ V.- Los demás señalamientos que disponga la ley.
 
 No pueden ser electos Diputados:
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Poder Judicial del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, jueces y servidores públicos de la Federación en el Estado, a menos que se separen 90 días antes de la elección;
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Poder Judicial del Estado, los Consejeros de la Judicatura, el Fiscal General de Justicia, los Magistrados del Tribunal de Justicia Administrativa del Estado, los Diputados y Senadores al Congreso de la Unión, los Magistrados, jueces y servidores públicos de la Federación en el Estado, a menos que se separen 90 días antes de la elección;
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -1075,17 +1075,15 @@ Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a 
 
 XX. Conceder ammistía (sic) por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-XXI.- Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, y a los Consejeros de la Judicatura, en los términos que establece la presente Constitución. Asimismo, aprobar por el voto de las dos terceras partes de los Diputados presentes en la sesión correspondiente del Congreso del Estado, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso, el nombramiento de los Magistrados del Tribunal de Justicia Administrativa a propuesta del Gobernador del Estado; y ratificar al Procurador General de Justicia, con base en la designación que realice el Gobernador del Estado.
+XXI.- Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, y a los Consejeros de la Judicatura, en los términos que establece la presente Constitución. Asimismo, aprobar por el voto de las dos terceras partes de los Diputados presentes en la sesión correspondiente del Congreso del Estado, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso, el nombramiento de los Magistrados del Tribunal de Justicia Administrativa a propuesta del Ejecutivo del Estado; y participar en el procedimiento de designación del Fiscal General del Estado en los términos de esta Constitución;
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+Instituir la Fiscalía Especializada en combate a la corrupción, adscrita a la Fiscalía General de Justicia del Estado, como un órgano público con autonomía administrativa, técnica y operativa para investigar y perseguir los hechos de corrupción que la ley considera como delitos, y tendrá las atribuciones que señalen las leyes de la materia. En la ley orgánica respectiva se establecerán los requisitos para ocupar dicho cargo.
 
-Instituir la Fiscalía Especializada en combate a la corrupción, adscrita a la Procuraduría General de Justicia del Estado, como un órgano público con autonomía técnica y operativa para investigar y perseguir los hechos de corrupción que la ley considera como delitos, y tendrá las atribuciones que señalen las leyes de la materia. En la ley orgánica respectiva se establecerán los requisitos para ocupar dicho cargo.
+Su Titular será nombrado por el término de ocho años, mediante convocatoria pública que emitirá la Legislatura. El Pleno del Congreso elegirá al titular de la Fiscalía Especializada en Combate a la Corrupción por las dos terceras partes de los Diputados presentes, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso. Sólo podrá ser removido de su encargo en los términos del Título XI de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
-
-Su titular será nombrado por el término de ocho años, mediante convocatoria pública que emitirá la Legislatura. El Pleno del Congreso elegirá al titular de la Fiscalía Especializada en Combate a la Corrupción por las dos terceras partes de los Diputados presentes, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso;
+Establecer el Consejo Estatal de Política Criminal, como instancia de coordinación del Estado encargada del diseño e implementación, en el ámbito de las respectivas competencias, de la política y prioridades de persecución penal. Se integrará por el Ejecutivo del Estado, el Fiscal General de Justicia, el Secretario General de Gobierno, el Secretario de Seguridad Pública y los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos. La ley determinará la organización y funcionamiento del Consejo Estatal de Política Criminal.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1441,6 +1439,10 @@ En todo caso, dicho señalamiento deberá respetar las bases previstas en el art
 
 Los órganos de poder del Estado, el Ejecutivo, el Legislativo y el Judicial, así como los órganos autónomos reconocidos por esta Constitución, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas se regirán por las previsiones de esta Constitución y las leyes de la materia.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+El Congreso del Estado garantizará la suficiencia presupuestal de los órganos a los que esta Constitución reconoce autonomía, a fin de permitirles el ejercicio eficaz y oportuno de sus competencias, satisfaciendo las necesidades reales para el debido funcionamiento de cada órgano. Esta garantía podrá hacerse efectiva a través del medio de control constitucional contemplado en la fracción I del artículo 113 de esta Constitución.
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 71.
@@ -1633,9 +1635,9 @@ III.- Los Militares que no se hayan separado del servicio activo por lo menos 12
 
 IV.- Los que desempeñen algún cargo o comisión de otros Estados o de la Federación, a menos que se separen de ellos 120 días antes de la elección, sean o no de elección popular;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-V.- Los Magistrados del Poder Judicial, consejeros de la Judicatura, Diputados locales, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 120 días antes de la elección;
+V.- Los Magistrados del Poder Judicial, consejeros de la Judicatura, Diputados locales, Fiscal General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 120 días antes de la elección;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -1739,9 +1741,9 @@ VIII.- Ejercer la facultad prevista en la fracción XV del Artículo 73 de la Co
 
 IX.- Nombrar y remover libremente a los servidores públicos de confianza a que se refiere la ley respectiva y a los demás cuyo nombramiento y remoción no se encomiende a otra autoridad;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-X.- Designar al Procurador General de Justicia, con la ratificación del Congreso, y turnar al titular de esa dependencia todos los asuntos que deban ventilarse dentro del ámbito de sus atribuciones;
+X.- Participar en el proceso de designación del Fiscal General de Justicia, en términos del Artículo 125 de esta Constitución, y turnar al titular de ese organismo público todos los asuntos que deban ventilarse dentro del ámbito de sus atribuciones;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1901,13 +1903,17 @@ X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso
 
 ### CAPITULO II. De la Administración Pública
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 93.
 
-La Administración Pública Estatal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, la cual establecerá la competencia de las Secretarías y la Procuraduría General de Justicia y definirá las bases generales de creación de las Entidades Paraestatales y la intervención del Ejecutivo en su operación.
+La Administración Pública Estatal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, la cual establecerá la competencia de las Secretarías y definirá las bases generales de creación de las Entidades Paraestatales y la intervención del Ejecutivo en su operación.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
 Las Secretarías que integren la Administración Pública Estatal conforme al párrafo anterior, promoverán: La modernización permanente de sus sistemas y procedimientos de trabajo, la transparencia en el ejercicio de la función pública, la eficiencia que evite la duplicdad (sic) o dispersión de funciones y aprovecharán óptimamente los recursos a su alcance a fin de responder a los reclamos de la ciudadanía y favorecer el desarrollo integral del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
 Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
@@ -2139,9 +2145,9 @@ II.- Tener cuando menos treinta y cinco años cumplidos el día de la designaci�
 
 III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expedido por lo menos con diez años de anterioridad al día de la designación, por autoridad o institución legalmente facultada para ello;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-IV.- No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario o su equivalente, Procurador General de Justicia o Diputado local en el Estado; y
+IV.- No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario o su equivalente, Fiscal General de Justicia o Diputado local en el Estado; y
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2167,11 +2173,13 @@ Las ausencias temporales o definitivas de los Magistrados o de los consejeros se
 
 El Pleno del Supremo Tribunal de Justicia, en funciones de tribunal constitucional, tendrá jurisdicción para conocer y resolver, en los términos que señale la ley reglamentaria, exceptuándose por cuanto disponen los artículos 76, fracción VI y 105, fracciones I y II de la Constitución Política de los Estados Unidos Mexicanos, los siguientes medios de control de la constitucionalidad local:
 
-I.- De la controversia constitucional local, que podrán promover los Poderes del Estado y los municipios, para impugnar actos o normas generales estatales o municipales que invadan su competencia conforme a esta Constitución. El Poder Judicial del Estado no podrá ser parte actora ni demandada en estas controversias.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+I.- De la controversia constitucional local, que podrán promover los Poderes del Estado, los organismos a los que esta constitución otorgue autonomía y los municipios, para impugnar actos o normas generales estatales o municipales que invadan su competencia conforme a esta Constitución. El Poder Judicial del Estado no podrá ser parte actora ni demandada en estas controversias.
 
-II.- De la acción de inconstitucionalidad local, para impugnar normas generales expedidas por el Congreso del Estado o por un Ayuntamiento, que sean contrarias a esta Constitución. Podrán promoverla los Diputados tratándose de normas generales expedidas por el Congreso del Estado, o por los síndicos y regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley. Esta acción también podrá promoverla el Procurador General de Justicia del Estado y, tratándose de normas generales que violen derechos humanos previstos por esta Constitución, por el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+II.- De la acción de inconstitucionalidad local, para impugnar normas generales expedidas por el Congreso del Estado o por un Ayuntamiento, que sean contrarias a esta Constitución. Podrán promoverla los Diputados tratándose de normas generales expedidas por el Congreso del Estado, o por los síndicos y regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley. Esta acción también podrá promoverla el Poder Ejecutivo a través del Consejero Jurídico del Gobierno del Estado; el Fiscal General de Justicia del Estado en contra de normas generales en materia penal, así como la Comisión de Derechos Humanos del Estado de Tamaulipas, a través de su presidente, tratándose de normas generales que violen derechos humanos previstos por esta Constitución.
 
 Las sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene.
 
@@ -2339,11 +2347,11 @@ La ley establecerá las bases para la capacitación, formación, actualización,
 
 En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 116.
 
-En las causas que hubieren de formarse a los Magistrados en funciones, una vez que el Congreso del Estado, actuando como órgano de acusación, declare por la afirmativa, se remitirá la causa en los términos previstos por esta Constitución y la ley, al Pleno del Supremo Tribunal de Justicia, el cual emitirá la resolución que corresponda en cada caso. Deberá resolverse cada asunto por separado y el Procurador General de Justicia tendrá en ellas la intervención que le confiere la legislación aplicable.
+En las causas que hubieren de formarse a los Magistrados en funciones, una vez que el Congreso del Estado, actuando como órgano de acusación, declare por la afirmativa, se remitirá la causa en los términos previstos por esta Constitución y la ley, al Pleno del Supremo Tribunal de Justicia, el cual emitirá la resolución que corresponda en cada caso. Deberá resolverse cada asunto por separado y el Fiscal General de Justicia tendrá en ellas la intervención que le confiere la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2449,13 +2457,51 @@ XI.- Promover la mediación, la conciliación y demás formas alternativas de ju
 
 XII.- Las demás que le señalen las leyes.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 125.
 
-El Ministerio Público estará integrado por un Procurador General de Justicia, quien lo presidirá, así como por los subprocuradores, directores, agentes y demás servidores públicos que determine la ley para su organización.
+El Ministerio Público estará integrado por un Fiscal General de Justicia, quien lo presidirá, así como por los fiscales especializados, agentes y demás servidores públicos que determine la ley para su organización.
 
-El nombramiento del Procurador General de Justicia se hará por el Gobernador, con la ratificación del Congreso del Estado, por mayoría absoluta de los integrantes de la Legislatura, la cual deberá resolver dentro de los diez días naturales posteriores; en caso de que no resuelva o la persona designada no obtenga esta mayoría, el Gobernador hará un nuevo nombramiento, debiendo resolver el Congreso sobre su ratificación dentro de los cinco días naturales siguientes, pero si la misma no se produce dentro de ese período o la persona no obtiene la citada mayoría, el Ejecutivo hará la designación directa del Procurador. El titular de la Procuraduría General de Justicia podrá ser removido libremente por el Ejecutivo del Estado. Los demás integrantes del Ministerio Público serán nombrados y removidos por el Ejecutivo. Si la vacante en la titularidad de la Procuraduría se produce durante los recesos del Congreso, la Diputación Permanente convocará de inmediato a sesión extraordinaria para conocer del asunto. En tanto se designa un nuevo Procurador, ocupará el cargo el Subprocurador que determine el Gobernador.
+La Fiscalía General de Justicia del Estado de Tamaulipas será un organismo público, con autonomía administrativa, técnica, operativa y presupuestal, personalidad jurídica y patrimonio propios. El presupuesto de egresos de la Fiscalía General de Justicia, no podrá ser menor al aprobado por el Congreso para el ejercicio anual inmediato anterior.
+
+La función de procuración de justicia en el Estado se regirá por los principios de legalidad, imparcialidad, igualdad, objetividad, eficiencia, profesionalismo, transparencia y respeto irrestricto a los derechos humanos. La ley orgánica, reglamentos, acuerdos y los manuales de organización deberán garantizar estos principios, así como regular los procesos para la segmentación de casos, la descentralización territorial de funciones y la independencia técnica de los servicios periciales y forenses. La ley establecerá el servicio profesional de carrera para las funciones ministeriales, de investigación y periciales.
+
+La ley orgánica establecerá un Consejo de Fiscales, como el órgano colegiado encargado de la administración, vigilancia y disciplina de la Fiscalía General. Asimismo, será el órgano rector del servicio profesional de carrera, en los términos que establezca la ley.
+
+La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales, asuntos internos y de combate a la corrupción, cuyos titulares serán nombrados y removidos en términos de esta constitución y la ley.
+
+Para ser Fiscal General de Justicia se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos al día de la designación; contar con título profesional de licenciado en derecho con antigüedad mínima de diez años; gozar de buena reputación, y no haber sido condenado por delito doloso.
+
+El Fiscal General durará en su encargo siete años, sin posibilidad de reelección, y será designado y removido conforme al siguiente procedimiento:
+
+I. A partir de la ausencia definitiva del Fiscal General, el Congreso del Estado contará con diez días para integrar una lista paritaria de al menos seis candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al titular del Ejecutivo.
+
+Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente al Congreso una terna y designará provisionalmente a un Fiscal General interino, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General interino podrá formar parte de la terna.
+
+II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Congreso.
+
+III. El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+
+En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I. Si el Congreso no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+
+IV. El Fiscal General podrá ser removido por el titular del Ejecutivo únicamente por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+
+V. En los recesos del Congreso, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
+
+VI. Los demás integrantes del Ministerio Público serán nombrados y removidos en términos de su ley orgánica.
+
+VII. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+
+El nombramiento de los fiscales especializados a los que se refiere esta Constitución, con excepción del Fiscal Especializado en Combate a la Corrupción, se llevará a cabo a propuesta del Fiscal General y por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. Solamente podrán ser removidos por las causas graves que establezca la ley.
+
+El Fiscal General presentará anualmente al Congreso del Estado y al Ejecutivo, un informe de actividades.
+
+Se establece un Consejo de Participación Ciudadana de la Fiscalía General, como un órgano especializado de consulta, integrado por cinco consejeros independientes con probada experiencia en materias de ciencias forenses y penales, procuración de justicia, seguridad pública y cualquier otra que resulte afín a su objeto. El cargo será de naturaleza honoraria. La ley determinará las facultades y obligaciones de los consejeros, así como su régimen de responsabilidades.
+
+Los miembros del Consejo de Participación Ciudadana serán designados por las dos terceras partes de los miembros presentes del Congreso a propuesta del Ejecutivo, conforme al procedimiento que prevea la ley, durarán en su encargo cinco años improrrogables y serán renovados de manera escalonada, conforme a lo previsto en la ley.
+
+En ningún caso, los consejeros podrán intervenir o influir, de manera directa o indirecta, en las investigaciones o expedientes que se encuentren bajo el conocimiento del Ministerio Público.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -2849,11 +2895,11 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 151.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y los integrantes de los Ayuntamientos.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Fiscal General de Justicia, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y los integrantes de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2875,11 +2921,11 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 152.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
+Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Fiscal General de Justicia, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -4734,3 +4780,63 @@ P.O. 31 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-527 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 19 PÁRRAFO SEGUNDO, 30 FRACCIÓN I, 58 FRACCIÓN XXI, 79 FRACCIÓN V, 91 FRACCIÓN X, 93 PÁRRAFO PRIMERO, 111 FRACCIÓN IV, 113 FRACCIÓN I Y II, 116, 125, 151 PÁRRAFO PRIMERO, 152 PÁRRAFO PRIMERO; Y SE ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 70, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, el Congreso del Estado deberá dar inicio al procedimiento de designación de Fiscal General de Justicia. El funcionario así designado fungirá como titular de la Procuraduría General de Justicia, en tanto se aprueba y emite su respectiva ley orgánica.
+
+El Procurador General de Justicia del Estado que se encuentre en ejercicio del cargo a la entrada en vigor del presente decreto, podrá participar en igualdad de condiciones en el proceso de designación.
+
+###### ARTÍCULO CUARTO.
+
+Una vez designado el Fiscal General, dentro de un plazo de 90 días, deberá remitir al Congreso del Estado la propuesta de fiscales especializados en materia de Delitos Electorales y de Asuntos Internos.
+
+###### ARTÍCULO QUINTO.
+
+Se crea una Comisión Técnica, que tendrá como mandato el diseño institucional, de procesos de la Fiscalía General, así como la redacción del proyecto de la Ley orgánica. Estará integrada por el Fiscal General del Estado, los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y en su caso, Asuntos Internos, y hasta por cinco consejeros de reconocido prestigio en el ámbito del derecho, de la procuración de justicia o de la política pública, nombrados por las dos terceras partes de los miembros presentes del Congreso del Estado a propuesta del Ejecutivo, quien deberá de remitir al Congreso la propuesta de mérito, dentro de un plazo de 30 días a partir de la designación del Fiscal General, estableciendo quienes serán los tres propuestos para que integren la Unidad Técnica a que se refiere el Artículo Octavo Transitorio del presente Decreto.
+
+En caso de que el Congreso no realice los nombramientos de los consejeros dentro de los 10 días siguientes a la recepción de la propuesta, el Ejecutivo procederá a realizar dichos nombramientos de manera directa.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la designación del Fiscal General, el Congreso del Estado, tendrá un plazo de 180 días para expedir la Ley Orgánica de la Fiscalía General de Justicia del Estado.
+
+###### ARTÍCULO SÉPTIMO.
+
+A la entrada en vigor de la Ley Orgánica de la Fiscalía, los recursos materiales y financieros de la Procuraduría General de Justicia pasarán a formar parte del patrimonio de la Fiscalía General de Justicia. La transferencia de los recursos humanos de la Procuraduría a la Fiscalía y, en su caso, las relaciones laborales existentes, estarán sujetas al plan de certificación, control de confianza y capacitación que determine la unidad técnica. El Ejecutivo constituirá un fondo para la terminación de las relaciones laborales con respecto al personal que no acredite las capacidades, evaluaciones y demás requisitos para ejercer las funciones de la Fiscalía.
+
+###### ARTÍCULO OCTAVO.
+
+A los 30 días de la entrada en vigor de la Ley Orgánica de la Fiscalía General de Justicia del Estado, deberá constituirse una Unidad Técnica para la implementación del nuevo modelo de procuración de justicia, cuyo Titular será designado por las dos terceras partes de los miembros presentes del Congreso del Estado a propuesta del Ejecutivo. En dicha Unidad deberán estar representadas la Fiscalía General, la Secretaría General de Gobierno, Secretaría de Finanzas, Secretaría de Administración, Contraloría Gubernamental, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, así como por tres consejeros independientes que hayan participado en la Comisión Técnica, mismos que serán nombrados por el Congreso dentro del procedimiento de designación de Consejeros de dicha Comisión Técnica. Los representantes gubernamentales deberán tener por lo menos el rango de subsecretarios.
+
+La Unidad estará adscrita a la Fiscalía General. Contará con el personal y los recursos que se le asignen en el presupuesto de la Fiscalía. Deberá diseñar un plan gradual de implementación, así como proponer al Fiscal General la emisión de reglamentos, acuerdos, manuales de organización o protocolos de actuación. Tendrá a su cargo los procedimientos de certificación, capacitación, evaluación y transferencia de personal de la Procuraduría General de Justicia a la nueva Fiscalía autónoma. El Fondo que se establezca para la liquidación del personal que no cumpla con los requisitos, capacitación y evaluaciones estará bajo la administración y ejercicio de dicha unidad.
+
+La selección y reclutamiento de nuevo personal se hará conforme a los principios, reglas y procedimientos previstos en la ley para el servicio profesional de carrera.
+
+###### ARTÍCULO NOVENO.
+
+Se instruye a la Procuraduría General de Justicia, Contraloría Gubernamental, a la Secretaría de Finanzas y a la Secretaría de Administración para realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+A la entrada en vigor del presente Decreto, la Procuraduría General de Justicia iniciará la transferencia a la Secretaría General de Gobierno en su carácter de Consejería Jurídica del Gobernador del Estado de los asuntos relativos a controversias constitucionales y acciones de inconstitucionalidad que no versen sobre la materia penal, así como de los recursos materiales, presupuestales y personal encargado de dichas funciones.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Fiscal Especializado en Combate a la Corrupción actualmente designado de acuerdo a esta Constitución concluirá el período para el que fue electo.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Congreso del Estado deberá aprobar todas las disposiciones necesarias dentro del Presupuesto de Egresos a fin de garantizar la suficiencia presupuestal del plan de transición de la Fiscalía General de Justicia del Estado que apruebe la Comisión Técnica
