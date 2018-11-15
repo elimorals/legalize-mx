@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-proteger-los-derechos-humanos-y-que-regula-el-uso-1009
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-19"
-last_updated: "2014-05-19"
+last_updated: "2018-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGITIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EL DECRETO POR EL QUE SE ABROGA LA PRESENTE LEY SE PUBLICÓ POSTERIOR A ESTE DECRETO, EN EL P.O. 15 DE NOVIEMBRE DE 2018]</small>
+
 LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGÍTIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de mayo de 2014.
 
@@ -506,3 +508,21 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecinueve días del mes de mayo de dos mil catorce.- Diputada Presidenta.- SUSANA DEL CARMEN RIESTRA PIÑA.- Rúbrica.- Diputado Vicepresidente.- JOSÉ GAUDENCIO VÍCTOR LEÓN CASTAÑEDA.- Rúbrica.- Diputado Secretario.- SERGIO SALOMÓN CÉSPEDES PEREGRINA.- Rúbrica.- Diputado Secretario.- JULIÁN RENDÓN TAPIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecinueve días del mes de mayo de dos mil catorce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TRANSITORIO SEGUNDO Y ADICIONA UN TRANSITORIO TERCERO A LA MINUTA DE DECRETO QUE ABROGA LA LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGÍTIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA".]</small>
+
+PRIMERO.- ...
+
+SEGUNDO.- El Congreso del Estado deberá emitir las disposiciones en materia del uso adecuado de la fuerza policial por parte de los elementos de seguridad pública del Estado de Puebla, en un término no mayor a sesenta días naturales, contados a partir de la publicación del presente Decreto.
+
+TERCERO.- Las Instituciones Policiales del Estado de Puebla deberán realizar las adecuaciones, y en su caso, expedir el marco normativo correspondiente, en un término no mayor a treinta días naturales, a partir de la entrada en vigor de las disposiciones mencionadas en el Artículo Transitorio Segundo del presente Decreto.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TRANSITORIO SEGUNDO Y ADICIONA UN TRANSITORIO TERCERO A LA MINUTA DE DECRETO QUE ABROGA LA LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGÍTIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
