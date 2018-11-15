@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2017-12-07"
+last_updated: "2018-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -73,7 +73,9 @@ II.- Asistencia Social.- Conjunto de acciones tendientes a modificar y mejorar l
 
 III.- Comunidad de Sordos.- Todo aquel grupo social cuyos miembros tienen como característica fundamental no poseer el sentido auditivo para sostener una comunicación y socialización natural y fluida en lengua oral alguna;
 
-IV.- Consejo Estatal.- Consejo Estatal para las Personas con Discapacidad;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Consejo Estatal.- Consejo Estatal para la Inclusión de las Personas con Discapacidad;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
 
@@ -579,71 +581,73 @@ Estos programas y campañas se difundirán de manera amplia por la radio estatal
 
 La Secretaría de Educación Pública promoverá la incorporación de estos contenidos en los diversos ciclos educativos, particularmente en el nivel básico o elemental.
 
-## TITULO QUINTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-De la Promoción y Defensa de los Derechos de las Personas con Discapacidad.
+## TÍTULO QUINTO. DE LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
 ### Capítulo I. Del Consejo Estatal
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 53.
 
-Sin perjuicio de los derechos que consagran la Constitución General de la República, la particular del Estado y las disposiciones que de ambas emanan, el Ejecutivo de la Entidad impulsará con las autoridades competentes de la federación y los municipios, la promoción y defensa de los derechos de las personas con discapacidad.
+Se crea el Consejo Estatal para la Inclusión de las Personas con Discapacidad, como el órgano deliberativo permanente encargado de promover, impulsar y dar seguimiento a las acciones, estrategias, programas y políticas públicas para la atención, inclusión y desarrollo integral de las personas con discapacidad en el Estado de Nayarit, mediante la coordinación institucional e interinstitucional con los sectores público y privado.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
-
-Se crea el Consejo Estatal de Personas con Discapacidad de Nayarit, como el instrumento permanente de coordinación intersecretarial e interinstitucional que tiene por objeto contribuir al establecimiento de una política de Estado en la materia, así como promover, apoyar fomentar, vigilar y evaluar las acciones, estrategias y programas derivados de esta Ley.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 54.
 
-El Consejo Estatal se integrará por:
+El Consejo Estatal se integrará por los siguientes titulares:
 
-I.- Un Secretario Ejecutivo designado por el Gobernador del Estado;
+I.- Del Poder Ejecutivo, quien lo presidirá;
 
-II.- El Secretario General de Gobierno;
+II.- De la Secretaría General de Gobierno;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2017)</small>
+III.- De la Secretaría del Trabajo, Productividad y Desarrollo Económico;
 
-III.- El Secretario de Trabajo, Productividad y Desarrollo Económico;
+IV.- De la Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+V.- De la Secretaría de Obras Públicas;
 
-IV.- El Secretario de Educación;
+VI.- De la Secretaría de Planeación, Programación y Presupuesto;
 
-V.- El titular del Sistema Estatal para el Desarrollo Integral de la Familia;
+VII.- De La Secretaría de Salud;
 
-VI.- El Secretario de Obras Públicas;
+VIII.- De la Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2017)</small>
+IX.- Del Sistema para el Desarrollo Integral de la Familia;
 
-VII.- El Secretario de Planeación, Programación y Presupuesto;
+X.- Del Instituto Nayarita de Cultura Física y Deporte;
 
-VIII.- El Secretario de Salud;
+XI.- De los Servicios de Educación Pública del Estado de Nayarit;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+XII.- Del Centro de Rehabilitación y Educación Especial, y
 
-IX.- El Director General del Instituto Nayarita de Cultura Física y Deporte;
+XIII.- Un Secretario Ejecutivo.
 
-X.- El Director General de los Servicios de Educación Pública;
+El Titular del Poder Ejecutivo podrá ser suplido en sus ausencias, preferentemente por el Secretario General de Gobierno, o por el servidor público que designe. Los demás integrantes designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director.
 
-XI.- El Director del Centro de Rehabilitación y Educación Especial en el Estado;
+Con excepción del Secretario Ejecutivo, los demás integrantes del Consejo Estatal participarán con carácter honorifico.
 
-Los integrantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director.
-
-El Consejo Estatal deberá contar con las unidades administrativas necesarias para el cumplimiento de sus atribuciones.
+Para el cumplimiento de sus atribuciones, el Consejo Estatal contará con el personal de apoyo que requiera y se le asigne en el Presupuesto de Egresos correspondiente.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 Artículo 54 bis.- Podrán participar como miembros del Consejo Estatal seis integrantes del Consejo Consultivo los cuales tendrán derecho a voz y voto.
 
-El Consejo Estatal, con la aprobación de la mayoría de sus asistentes, convocará a otras dependencias públicas federales, estatales o municipales, así como a otros organismos privados y sociales, los que tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes, para tratar asuntos de su competencia.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+El Consejo Estatal, por conducto de su Presidente y atendiendo a la naturaleza del asunto a tratar, podrá invitar a las personas, instituciones y representantes de las organizaciones de la sociedad civil con conocimiento en materia de discapacidad, para que realicen las aportaciones que consideren oportunas. Asimismo, podrá convocar a los representantes de las dependencias públicas federales, estatales o municipales, que por la importancia de sus atribuciones, resulte necesaria su presencia. De ser el caso, intervendrán con voz pero sin voto.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 55.
 
-El Consejo sesionará de manera ordinaria dos veces por año y extraordinariamente tantas veces como se requiera y lo disponga el Gobernador.
+El Consejo Estatal, sesionará de manera ordinaria tres veces por año, y de manera extraordinaria tantas veces como sea necesario y así lo disponga su Presidente.
+
+Para sesionar válidamente se requerirá la asistencia de por lo menos la mitad más uno de sus integrantes, las decisiones se tomarán por mayoría de votos de los presentes, y en caso de empate, el Presidente tendrá el voto de calidad.
+
+El Secretario Ejecutivo participará únicamente con derecho a voz en las sesiones del Consejo Estatal.
 
 ###### Artículo 56.
 
@@ -673,31 +677,71 @@ VIII.- Organizar y participar en eventos y foros de discusión y análisis relat
 
 IX.- Presentar un informe anual de actividades al Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-X.- Apoyar y proponer mecanismos de coordinación entre las autoridades de la federación, los particulares y los municipios con el fin de alinear y ejecutar los programas en materia de atención y protección a personas con trastornos generalizados del desarrollo, y
+X.- Apoyar y proponer mecanismos de coordinación entre las autoridades de la federación, los particulares y los municipios con el fin de alinear y ejecutar los programas en materia de atención y protección a personas con trastornos generalizados del desarrollo;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-XI.- Las demás que sean necesarias para la consecución de los fines de su creación.
+XI.- Constituir comisiones internas encargadas de atender asuntos o materias específicas para la debida inclusión de las personas con discapacidad, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Las demás que sean necesarias para la consecución de los fines de su creación.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ### Capítulo II. Del Consejo Consultivo para las Personas con Discapacidad
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-Artículo 56 bis.- El Consejo Consultivo es un órgano de asesoría y consulta, de carácter honorífico, que tendrá por objeto proponer y opinar sobre los programas o acciones que se emprendan a favor de las personas con discapacidad, así como recabar propuestas y presentarlas al Consejo Estatal.
+Artículo 56 bis.- El Secretario Ejecutivo tendrá a su cargo la coordinación operativa y representación ejecutiva del Consejo Estatal, debiendo ser nombrado y removido por el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 56 ter.- Para ser Secretario Ejecutivo se requiere:
+
+I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II.- Gozar de buena reputación;
+
+III.- Tener al menos 30 años de edad al día de su designación, y
+
+IV.- Acreditar experiencia en la materia, habiéndose desempeñado destacadamente en actividades profesionales, de servicio público, académicas, en la sociedad civil u otras relacionadas en apoyo de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 56 quáter.- Son atribuciones del Secretario Ejecutivo las siguientes:
+
+I.- Ejecutar los acuerdos y decisiones tomadas por el Consejo Estatal;
+
+II.- Formular y proponer al Consejo Estatal los anteproyectos de planes, programas y demás instrumentos necesarios para su operatividad;
+
+III.- Convocar a las sesiones del Consejo Estatal que le instituya el Presidente, y asistir a las mismas;
+
+IV.- Elaborar las actas de las sesiones del Consejo Estatal y llevar a cabo el registro y archivo de éstas y de las convocatorias;
+
+V.- Registrar el avance y resultado de las acciones, planes y programas ejercidos a favor de las personas con discapacidad;
+
+VI.- Elaborar y proponer al Consejo Estatal, las disposiciones normativas o modificaciones que considere necesarias en materia de inclusión de personas con discapacidad;
+
+VII.- Presentar anualmente al Consejo Estatal, las actividades realizadas para la elaboración del informe respectivo;
+
+VIII.- Realizar ante instituciones públicas y privadas, las gestiones necesarias para la atención e inclusión de personas con discapacidad;
+
+IX.- Ejercer las acciones jurídicas necesarias ante las autoridades administrativas, y en su caso jurisdiccionales, que sean competentes, con motivo de hechos de los que tenga conocimiento que sean privativos de los derechos de las personas con discapacidad;
+
+X.- Suscribir, previo acuerdo del Consejo Estatal, convenios, acuerdos de colaboración y demás instrumentos que se celebren en beneficio de las personas con discapacidad, y
+
+XI.- Las demás que le sean asignadas por el Consejo Estatal, que sean necesarias para el cumplimiento de sus funciones, o que le establezcan otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 56 quinquies.- El Consejo Consultivo es un órgano de asesoría y consulta, de carácter honorífico, que tendrá por objeto proponer y opinar sobre los programas o acciones que se emprendan a favor de las personas con discapacidad, así como recabar propuestas y presentarlas al Consejo Estatal.
 
 El Consejo Consultivo estará integrado por representantes de las organizaciones de personas con discapacidad, que participarán en calidad de consejeros de acuerdo con la convocatoria pública que para estos efectos emitirá el Consejo Estatal.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
-
-De igual manera el Consejo Consultivo se integrará por el Presidente de la Comisión de Asuntos Migratorios, Gestoría Social y Grupos Vulnerables del Congreso del Estado y el Presidente de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit.
-
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+De igual manera, el Consejo Consultivo se integrará por el Presidente de la Comisión de Asuntos Migratorios, Gestoría Social y Grupos Vulnerables del Honorable Congreso del Estado y el Presidente de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit.
 
 El Consejo Consultivo será presidido por un representante electo de entre sus miembros.
 
@@ -952,3 +996,15 @@ P.O. 7 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULO DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- El Consejo Estatal para la Inclusión de las Personas con Discapacidad se deberá instalar dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO.- El Poder Ejecutivo del Estado en un plazo que no exceda de treinta días naturales siguientes a la entrada en vigor del presente Decreto deberá realizar las adecuaciones reglamentarias correspondientes para el funcionamiento del Consejo Estatal para la Inclusión de las Personas con Discapacidad.
+
+CUARTO.- Dentro de los sesenta días naturales siguientes a la instalación del Consejo Estatal para la Inclusión de las Personas con Discapacidad, deberá emitirse la reglamentación interna correspondiente.
