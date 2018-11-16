@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-consejo-estatal-de-seguridad-publica-del-82383"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-29"
-last_updated: "2014-12-19"
+last_updated: "2018-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "GUA"
 ---
 # REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
+
 REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de julio de 2011.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones I, II y XXV y 79 de la Constitución Política para el Estado de Guanajuato, en cumplimiento de lo dispuesto por los artículos 2o., 3o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -388,3 +392,25 @@ Artículo Segundo. La Secretaría de Seguridad Pública contará con un plazo de
 Artículo Tercero. El Secretario Técnico contará con un plazo de ciento ochenta días contados a partir de la vigencia del presente Decreto Gubernativo para formular la propuesta de Lineamientos para el Funcionamiento, Integración y Organización de las Comisiones y Grupos de Trabajo del Consejo Estatal.
 
 Artículo Cuarto. Los Presidentes Municipales que integren el Consejo Estatal al iniciar la vigencia del presente Decreto, continuarán en funciones hasta la conclusión de su periodo constitucional.
+
+P.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 5, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 176, mediante el cual se expide el Reglamento del Consejo Estatal de Seguridad Pública, publicado en el Periódico Oficial del Gobierno del Estado número 120, Primera Parte, del 29 de julio de 2011.
+
+Designación de las personas representantes de organismos de la sociedad civil
+
+Artículo Tercero. Por única ocasión, para efecto de la designación de los integrantes representantes de los organismos de la sociedad civil, el Gobernador del Estado designará a las personas que reúnan los requisitos establecidos en la Ley y el presente Reglamento, como integrantes del Consejo Estatal a que se refiere la fracción XI del artículo 27 de la Ley. Su nombramiento será por tres años y al término de los cuales, podrá ratificarlos. En el caso de los representantes que no sean ratificados, se aplicará el procedimiento de designación previsto en el presente Reglamento.
+
+Las designaciones a que se refiere este artículo se efectuarán con anterioridad a la celebración de la primera sesión del Consejo Estatal. Los nombramientos se entregarán y las personas designadas rendirán la protesta de su cargo en esa sesión.
+
+Primera sesión del Consejo Estatal
+
+Artículo Cuarto. Por única ocasión, para la celebración de la primera sesión del Consejo Estatal con la integración determinada por el Decreto Legislativo número 2, publicado en el Periódico Oficial del Gobierno del Estado número 228, Tercera Parte, de fecha 14 de noviembre de 2018, el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, en su carácter de Secretario Técnico, convocará a los integrantes del Consejo Estatal, dentro de las cuarenta y ocho horas siguientes a la entrada en vigencia del presente Decreto, por lo que no se aplicarán las reglas de anticipación y contenido de las convocatorias establecidas en el presente Decreto.
