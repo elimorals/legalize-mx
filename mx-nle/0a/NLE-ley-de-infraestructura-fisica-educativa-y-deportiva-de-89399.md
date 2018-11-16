@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-infraestructura-fisica-educativa-y-deportiva-de-89399"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2017-05-05"
+last_updated: "2018-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de septiembre de 2012.
 
@@ -65,11 +65,15 @@ I. Certificación: El procedimiento por el cual se asegura que un producto, proc
 
 II. Certificado: El documento que expida el Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León, mediante el cual se hace constar que la infraestructura física educativa y deportiva cumple con las especificaciones establecidas.
 
-III. Director General: Titular del Instituto de Infraestructura Física Educativa y Deportiva.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+III. Director General: Titular del Instituto Constructor de Infraestructura Física Educativa y Deportiva.
 
 IV. INFEYD: La Infraestructura Física Educativa y Deportiva, se entiende de los muebles e inmuebles destinados a la educación impartida por el Estado y los particulares con autorización o con reconocimiento de validez oficial de estudios, y los servicios e instalaciones necesarios para su correcta operación, en el marco del sistema educativo Estatal, en términos de la Ley General de la Infraestructura Física Educativa y la Ley de Educación del Estado de Nuevo León.
 
-V. INIFED: Instituto Nacional de Infraestructura Física Educativa.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+V. INIFED: Instituto Nacional de la Infraestructura Física Educativa.
 
 VI. Instituto: Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León.
 
@@ -81,7 +85,9 @@ Son autoridades en materia de INFEYD:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
-II. El Titular de la Secretaría de Obras Públicas del Estado;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+II. El Titular de la Secretaría de Infraestructura;
 
 III. El Titular de la Secretaría de Educación en el Estado;
 
@@ -149,9 +155,11 @@ El Sistema de Información de la INFEYD será coordinado por el Instituto, en lo
 
 ### CAPÍTULO V. DEL INSTITUTO CONSTRUCTOR DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 15.
 
-Se crea el Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León, como un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus objetivos y el ejercicio de sus facultades, sectorizado a la Secretaría de Obras Públicas.
+Se crea el Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León, como un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus objetivos y el ejercicio de sus facultades, sectorizado a la Secretaría de Infraestructura.
 
 ###### ARTÍCULO 16.
 
@@ -159,7 +167,9 @@ El objetivo del Instituto es fungir como un organismo con capacidad normativa, d
 
 Para el cumplimiento de lo establecido en el párrafo anterior, el Instituto considerará en todo momento las características particulares de cada región del Estado, con base en su riqueza y diversidad.
 
-El Instituto estará encargado de la construcción, equipamiento, mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública y deportiva en el Estado, para lo cual deberá coordinarse con la Secretaría de Obras Públicas del Estado, la cual es coordinadora del sector obras públicas en los términos de la Ley de Obras Públicas para el Estado y Municipios de Nuevo León.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+El Instituto estará encargado de la construcción, equipamiento, mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública y deportiva en el Estado, para lo cual deberá coordinarse con la Secretaría de Infraestructura del Estado, la cual es coordinadora del sector (sic) obras públicas en los términos de la Ley de Obras Públicas para el Estado y Municipios de Nuevo León.
 
 ###### ARTÍCULO 17.
 
@@ -217,7 +227,9 @@ VII. Elaborar proyectos ejecutivos en materia de la INFEYD, a petición de parte
 
 VIII. Promover la obtención de financiamiento alterno para la construcción, mantenimiento, equipamiento, habilitación, rehabilitación y reforzamiento de los inmuebles e instalaciones destinados al servicio de la educación que imparta el Estado, sujeto a las disposiciones que resulten aplicables;
 
-IX. Promover, en coordinación con las autoridades correspondientes, la participación social en la planeación, construcción y mantenimiento de los espacios educativos y deportivos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+IX. Promover, en coordinación con las autoridades correspondientes, la participación social en la planeación, construcción equipamiento y mantenimiento de los espacios educativos y deportivos;
 
 X. Impartir capacitación, consultoría y asistencia técnica, así como prestar servicios de asesoría a los organismos, entidades, instituciones o personas que lo requieran, en materia de elaboración de proyectos, ejecución, supervisión y normatividad de la INFEYD, así como para determinar los mejores esquemas u opciones de seguridad de la INFEYD.
 
@@ -265,23 +277,25 @@ h) Brindar la asesoría técnica necesaria a todas las instituciones educativas 
 
 i) Señalar normas y lineamientos a particulares para la ejecución de obras de carácter educativo, con la responsabilidad de otorgar la autorización respectiva cuando el proyecto cumpla con las especificaciones y normas establecidas para tal fin; y
 
-j) Otorgar las facilidades e información que requiera la Secretaría de Obras Públicas como coordinadora de sector.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+j) Otorgar las facilidades e información que requiera la Secretaría de Infraestructura como coordinadora de sector.
 
-XXIV. Llevar a cabo los procedimientos de contratación de obra, ya sea por licitación pública, invitación o adjudicación directa, conforme a la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y demás normatividad aplicable vigente;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2017)</small>
+XXIV. Llevar a cabo los procedimientos de contratación de obra y adquisición de mobiliario y equipo, ya sea por licitación pública, invitación o adjudicación directa, conforme a la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y demás normatividad aplicable vigente;
 
-XXV. Garantizar que las instalaciones educativas y deportivas cuenten con infraestructura y equipamiento que satisfagan las condiciones higiénicas que la autoridad educativa y de deporte determinen las cuales deberán garantizar el acceso al agua potable, en forma segura, gratuita y suficiente en libre demanda;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2017)</small>
+XXV. Garantizar que las instalaciones educativas y deportivas cuenten con infraestructura y equipamiento que la autoridad educativa o del deporte determinen, para satisfacer las condiciones higiénicas que la autoridad educativa y de deporte determinen las cuales deberán garantizar el acceso al agua potable, en forma segura, gratuita y suficiente en libre demanda;
 
-XXVI. Garantizar que las instalaciones educativas y deportivas cuenten con infraestructura con la que se permite utilizar el uso de energía renovable a través de paneles solares; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXVI. Garantizar que las instalaciones educativas y deportivas cuenten con la infraestructura que la autoridad educativa o del deporte determinen, para permitir el uso de energía renovable a través de paneles solares; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE MAYO DE 2017)</small>
 
-XXVII.- Las demás que para el cumplimiento de su objeto le señale la ley y las demás disposiciones jurídicas aplicables.
+XXVII. Las demás que para el cumplimiento de su objeto le señale la ley y las demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -329,13 +343,17 @@ La Junta, será la máxima autoridad del Instituto y estará integrada de la sig
 
 I. Por un Presidente, que será el Titular del Poder Ejecutivo del Estado;
 
-II. Por un Secretario Ejecutivo, que será el titular de la Secretaría de Obras Públicas, o el servidor público que éste designe;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+II. Por un Secretario Ejecutivo, que será el titular de la Secretaría de Infraestructura, o el servidor público que éste designe;
 
 III. Por el Secretario de Finanzas y Tesorero General del Estado, con el carácter de Vocal;
 
 IV. Por el Secretario de Educación, con el carácter de Vocal;
 
-V. Por el Secretario de Desarrollo Económico, con el carácter de Vocal;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+V. Por el Secretario de Economía y Trabajo, con el carácter de Vocal;
 
 VI. Por el Titular de la Coordinación de Desarrollo y Fortalecimiento Municipal, con el carácter de Vocal;
 
@@ -349,9 +367,11 @@ El Director General del Instituto quien fungirá como Secretario Técnico y el C
 
 Cuando así se requiera por el asunto a tratar, será opcional para la Junta invitar a través del Secretario Técnico o de quien sea designado por el Presidente para ello, a representantes de otras dependencias u organismos públicos o privados, federales, estatales o municipales, quienes sólo tendrán derecho a voz y por tanto, no formarán parte de la Junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 24.
 
-La Junta sesionará de manera ordinaria una vez cada tres meses, y en forma extraordinaria cuando así se requiera, previa convocatoria del Presidente, en forma escrita, por conducto del Secretario Técnico, cuando menos con siete días hábiles de anticipación a la fecha de su celebración.
+La Junta sesionará de manera ordinaria dos veces cada año, y en forma extraordinaria cuando así se requiera, previa convocatoria del Presidente, en forma escrita, por conducto del Secretario Técnico, cuando menos con siete días hábiles de anticipación a la fecha de su celebración.
 
 La asistencia necesaria para que pueda sesionar con validez legal, será de por lo menos cinco de sus integrantes. Los acuerdos serán tomados por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate.
 
@@ -574,3 +594,9 @@ P.O. 5 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 255. SE REFORMA LAS FRACCIONES XXV Y XXVI Y SE ADICIONA UNA FRACCIÓN XXVII AL ARTÍCULO 18 DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 015. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 3 FRACCIONES III Y V, 4 FRACCIÓN II, 15, 16 ÚLTIMO PÁRRAFO, 18 FRACCIONES IX, XXIII INCISO J), XXIV, XXV, XXVI, 23 FRACCIONES II Y V Y 24 PRIMER PÁRRAFO TODOS DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
