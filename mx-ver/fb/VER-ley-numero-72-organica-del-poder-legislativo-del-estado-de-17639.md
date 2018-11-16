@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2018-11-02"
+last_updated: "2018-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -1311,47 +1311,81 @@ Para garantizar la participación directa de los ciudadanos en el proceso legisl
 
 ### CAPÍTULO ÚNICO. DE LA CONTRALORÍA INTERNA
 
-> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 67.
 
-La Contraloría Interna será el órgano técnico administrativo con autonomía técnica y de gestión, dependiente de la Junta de Coordinación Política del Congreso del Estado, que tiene por objeto verificar el desempeño, vigilancia y supervisión del ejercicio presupuestal, el cual ejercerá funciones de auditoría interna, control y evaluación, así como el cumplimiento de la normatividad, políticas y disposiciones administrativas aplicables en la administración de los recursos humanos, materiales y financieros que garanticen el adecuado uso del presupuesto asignado; todo lo anterior lo ejercerá con funciones de auditoría interna, control y evaluación, desarrollo y modernización administrativa y sustanciará los procedimientos de responsabilidad que en esa materia procedan en contra de los servidores públicos del Congreso del Estado; y tendrá las atribuciones siguientes:
+La Contraloría Interna será el órgano técnico administrativo con autonomía técnica y de gestión, así como con los recursos suficientes y necesarios, que deberán estar etiquetados dentro del presupuesto del Congreso del Estado, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción, dependiente de la Junta de Coordinación Política, que tiene por objeto verificar el desempeño, vigilancia y supervisión del ejercicio presupuestal, el cual ejercerá funciones de auditoría interna, control y evaluación, así como el cumplimiento de la normatividad, políticas y disposiciones administrativas aplicables en la administración de los recursos humanos, materiales y financieros que garanticen el adecuado uso del presupuesto asignado; todo lo anterior lo ejercerá con funciones de auditoría interna, control y evaluación, desarrollo y modernización administrativa y sustanciará los procedimientos de responsabilidad que en esa materia procedan en contra de los servidores públicos del Congreso del Estado; y tendrá las atribuciones siguientes:
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 I. Proponer y aplicar las normas y criterios en materia de control, fiscalización y evaluación que deban observar los grupos y representaciones legislativas, las unidades administrativas del Congreso y todos aquellos que ejerzan recursos del presupuesto de egresos del Poder Legislativo;
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 II. Diseñar, implantar y supervisar el sistema de control y evaluación de las unidades administrativas del Congreso del Estado, orientadas a mejorar los procedimientos administrativos;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 III. Vigilar que las unidades administrativas cumplan con las políticas y programas establecidos por la Junta de Coordinación Política y la Comisión Permanente de Administración y Presupuesto;
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 IV. Supervisar los procedimientos, actos y contratos de adquisición de bienes muebles y contratación de servicios que se lleven a cabo, de conformidad con la ley de la materia;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 V. Presentar anualmente a la Junta de Coordinación Política un programa para el cumplimiento de sus atribuciones y un informe de actividades y trimestralmente informes de balances, así como uno anual, de igual forma aquellos informes que sean requeridos en cualquier momento;
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 VI. Proponer la adopción de recomendaciones y de medidas preventivas o correctivas que estime convenientes para el desarrollo administrativo del Poder Legislativo y darles seguimiento;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 VII. Recibir y registrar, de acuerdo como corresponda el caso, las declaraciones patrimoniales y de intereses, de los servidores públicos del Poder Legislativo, así también, podrá requerir información adicional, realizando las investigaciones correspondientes, conforme a la ley aplicable;
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 VIII. Supervisar y coordinar los procesos de entrega y recepción de los servidores públicos de las áreas administrativas del Poder Legislativo, para verificar que se realicen conforme a las normas y lineamientos aplicables;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 IX. Emitir las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que, conforme a las leyes, competan a la Contraloría Interna, previa autorización de la Junta de Coordinación Política;
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 X. Auxiliar a las unidades administrativas del Congreso, en la elaboración y revisión de los manuales de organización y procedimientos, promoviendo y supervisando su difusión, aplicación y actualización, con énfasis en el aspecto preventivo;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 XI. Vigilar que periódicamente, se realice y actualice el inventario de bienes muebles e inmuebles del Poder Legislativo y establecer medidas y criterios para su control, poniéndolo a consideración de la Junta de Coordinación Política;
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 XII. Participar dentro del Sistema Estatal Anticorrupción del Estado, en las acciones de apoyo que requiera el Sistema Estatal de Fiscalización para la implementación de mejoras para la fiscalización del Poder Legislativo;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 XIII. Recibir las denuncias y quejas en contra de los servidores públicos del Poder Legislativo por hechos probablemente constitutivos de faltas administrativas o de particulares por conductas sancionables en términos de la ley que corresponda; para el caso de las denuncias recibidas en contra de servidores públicos de los demás entes públicos, será remitida al órgano interno de control para que realice la investigación, substanciación y sanción correspondiente;
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 XIV. Iniciar, investigar, substanciar y resolver los procedimientos de responsabilidad administrativa, por actos u omisiones de los servidores públicos que hayan sido calificados como faltas administrativas no graves, en términos de la ley de la materia, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean competencia del Tribunal Estatal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 XV. Resolver el recurso de revocación que interpongan los servidores públicos del Poder Legislativo respecto de las resoluciones por las que se les impongan sanciones administrativas, y dar seguimiento al cumplimiento de las resoluciones dictadas por los órganos jurisdiccionales; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 XVI. Las demás que expresamente le confieran los ordenamientos legales, las disposiciones reglamentarias, y las que determine el Pleno.
 
 > <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
 
 El titular de la Contraloría Interna, el cual tendrá un nivel jerárquico equivalente, como mínimo, al de Director, será designado conforme al procedimiento que para tal efecto establezca el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, previa convocatoria pública que éste emita.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 Para su funcionamiento, la Contraloría Interna contará con las siguientes áreas:
 
@@ -1809,8 +1843,18 @@ Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los org
 
 G.O. 2 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 791 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 791 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 789 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO ELECTORAL, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
