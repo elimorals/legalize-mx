@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-586-de-la-comision-estatal-para-la-atencion-y-90621"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-03"
-last_updated: "2018-10-09"
+last_updated: "2018-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 586 DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 3 de diciembre de 2012.
 
@@ -287,11 +287,11 @@ Serán responsables penal y administrativamente por los actos u omisiones en que
 
 ### CAPÍTULO IX. De la Contraloría
 
-> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 26.
 
-La Contraloría de la Comisión para la Atención y Protección de los Periodistas contará con autonomía técnica y de gestión para cumplir con las funciones de control e inspección del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas, departamentos, funcionarios y empleados de la Comisión.
+La Contraloría de la Comisión para la Atención y Protección de los Periodistas contará con autonomía técnica y de gestión para cumplir con las funciones de control e inspección del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas, departamentos, funcionarios y empleados de la Comisión, así como con los recursos suficientes y necesarios, que deberán estar etiquetados dentro del presupuesto de la Comisión, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción.
 
 ###### Artículo 27.
 
@@ -518,3 +518,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales siguientes al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 789 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO ELECTORAL, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
