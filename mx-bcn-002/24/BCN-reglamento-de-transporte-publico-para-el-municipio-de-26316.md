@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2016-11-11"
+last_updated: "2018-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -33,13 +33,13 @@ EL C. LICENCIADO JOSE FELIX ARANGO PEREZ, SECRETARIO DEL H. XVII AYUNTAMIENTO DE
 
 C E R T I F I C A
 
-Que en el libro de Actas de Sesiones Ordinarias y Extraordinarias, del H. Cabildo de Mexicali, Baja California, en el Acta No. 35 de la Sesión Ordinaria celebrada el día veintitrés de agosto del año de dos mil dos, en cumplimiento del sexto punto del orden del día se tomo el siguiente acuerdo que a la letra dice:
+Que en el libro de Actas de Sesiones Ordinarias y Extraordinarias, del H. Cabildo de Mexicali, Baja California, en el Acta No. 35 de la Sesión Ordinaria celebrada el día veintitrés de agosto del año de dos mil dos, en cumplimiento del sexto punto del orden del día se tomó el siguiente acuerdo que a la letra dice:
 
 A C U E R D O: "EL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA, POR UNANIMIDAD DE VOTOS APRUEBA EL REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, EL CUAL SE TIENE POR INSERTADO A LA LETRA."
 
 Se extiende el presente reglamento de conformidad a lo dispuesto por el artículo 19 fracción IX, del Reglamento Interior del Ayuntamiento de Mexicali, en la ciudad de Mexicali, Baja California, a los veintisiete días del mes de agosto del año dos mil dos, para los efectos legales a que haya lugar.
 
-A T E N T A M E N T E
+A T E N T A M E N T E.
 
 LIC. JOSE FELIX ARANGO PEREZ
 
@@ -47,9 +47,11 @@ SECRETARIO DEL XVII AYUNTAMIENTO
 
 DE MEXICALI, BAJA CALIFORNIA
 
-El XVII Ayuntamiento de Mexicali, Baja California, en ejercicio de las facultades que le confieren los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos, 82 de la Constitución Política del Estado Libre y Soberano del Estado de Baja California, 3 y 4 de la Ley del Régimen Municipal del Estado de Baja California, 5 fracción V del Reglamento Interior del Ayuntamiento de Mexicali, y en observancia de los artículos 2, 7, Articulo Quinto Transitorio y demás relativos de la Ley General del Transporte Público del Estado de Baja California, tiene a bien expedir el Reglamento de Transporte Público para el Municipio de Mexicali, Baja California, sustentado en la siguiente:
+El XVII Ayuntamiento de Mexicali, Baja California, en ejercicio de las facultades que le confieren los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos, 82 de la Constitución Política del Estado Libre y Soberano del Estado de Baja California, 3 y 4 de la Ley del Régimen Municipal del Estado de Baja California, 5 fracción V del Reglamento Interior del Ayuntamiento de Mexicali, y en observancia de los artículos 2, 7, Artículo Quinto Transitorio y demás relativos de la Ley General del Transporte Público del Estado de Baja California, tiene a bien expedir el Reglamento de Transporte Público para el Municipio de Mexicali, Baja California, sustentado en la siguiente:
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo antes expuesto y fundado en las disposiciones legales mencionadas, el Honorable Cabildo del Municipio de Mexicali, tiene a bien expedir el:
 
@@ -111,13 +113,17 @@ XIX.- Ruta.- Recorrido realizado por vehículos de transporte público de pasaje
 
 XX.- Itinerario.- Lugares de la vía pública recorridos por los vehículos de transporte público, comprendidos dentro de una ruta.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-XXI.- Tarifa.- Precio o cuota a cargo de los usuarios establecida por el Ayuntamiento, a la que deberá sujetarse la prestación del servicio público de transporte de pasajeros de alquiler y colectivo, así como el de grúa.
+XXI.- Tarifa.- Precio o cuota a cargo de los usuarios establecida por el Ayuntamiento, a la que deberá sujetarse la prestación del servicio público de transporte de pasajeros de alquiler y colectivo, así como el de carga.
 
-XXII.- Tarifa Fija.- Aquella que se aplica independientemente del tiempo de duración del servicio.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-XXIII.- Tarifa Variable.- Aquella que se aplica en función del tiempo de duración del servicio.
+XXII.- Tarifa Fija.- Aquella que se aplica para el transporte de alquiler independientemente del tiempo de duración del servicio.
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXIII.- Tarifa Variable.- Aquella que se aplica en función del tiempo de duración del servicio de transporte público en la modalidad de alquiler.
 
 XXIV.- Tarifa Diferencial.- Aquella que se aplica en función del tipo o categoría de servicio dentro de una misma modalidad, en razón de la calidad, características o propiedades del mismo.
 
@@ -132,6 +138,14 @@ XXVII.- Horario.- Lapso de tiempo dentro del cual se deberá dar inicio y térmi
 > <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 XXVIII.- Base de Radio Taxi.- Es el espacio en propiedad privada, autorizado por el Sistema, para estacionar vehículos de alquiler no sujetos a itinerario, en donde el público usuario pueda mediante llamada telefónica, solicitar el servicio de transporte de personas en su modalidad de radio taxi.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXIX.- Tarifa de Transbordo.- Es la tarifa complementaria para un viaje o destino final de tal forma que permita al usuario mediante el transbordo entre rutas del transporte colectivo, realizar un pago generalizado menor al que pagaría de manera particular en cada ruta mediante un sistema de cobro automatizado adecuado para tal fin, siempre que se efectúe dentro de un tiempo de cuarenta minutos siguientes al primer viaje, el costo de ésta no podrá ser mayor al 50% de la tarifa.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXX.- Centro de Control de Transporte.- Es el área técnica del Sistema que obtiene en tiempo real información del servicio de transporte público, estaciones de transferencia y servicios auxiliares mediante datos provenientes de diversos sensores, sistema de localización satelital y dispositivos de almacenamiento y procesamiento de la información, buscando la optimización de tiempo y recursos enfocados a la mejora del servicio y seguridad de quienes utilicen y presten el transporte público, su infraestructura y equipamiento que servirá de base para las actividades de supervisión y vigilancia propias del Sistema.
 
 ###### ARTÍCULO 3.
 
@@ -153,15 +167,21 @@ VI.- Banderazo.- Cobro inicial y de partida que efectúan las unidades prestador
 
 VII.- Bitácora.- Cuaderno o libreta destinada para describir en ella el origen, destino y usuario del servicio que se va a prestar, para el caso de la modalidad de radio taxi.
 
-VIII.- Boleto.- Es el recibo que el operador deberá dar obligatoriamente al pasajero cuando este aborde la unidad, previo pago de la tarifa autorizada, el cual lo protege en caso de algún percance durante el recorrido.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-IX.- Boleto Transbordo.- Tiene las mismas características y beneficios del anterior, además el derecho de transbordar diferentes unidades del servicio de transporte colectivo de pasajeros sin efectuar otro pago.
+VIII.- Recibo.- Es el comprobante impreso o electrónico que da al usuario su calidad de pasajero cuando aborda la unidad de transporte, previo pago de la tarifa autorizada, el cual lo protege en caso de algún percance durante el recorrido.
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Recibo Transbordo.- Tiene las mismas características y beneficios del anterior, además el derecho de transbordar a otra unidad del servicio de transporte colectivo de pasajeros, teniendo el beneficio de la tarifa de transbordo correspondiente.
 
 X.- Carril exclusivo.- Extremo de la superficie de rodamiento de una vialidad que conforme la demanda del servicio, es destinado para el uso exclusivo de las unidades de transporte público y/o al uso de vehículos de emergencia.
 
 XI.- Concesionario.- Persona moral titular de una concesión.
 
-XII.- Control de abordaje.- Son aquellos sistemas electrónicos o mecánicos instalados a bordo de las unidades de transporte colectivo, con los cuales se lleva el control de las salidas y llegadas a las terminales, así como el conteo de ascensos y descensos del pasaje a dichas unidades.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Control de abordaje.- Es aquel sistema electrónico instalado a bordo de las unidades de transporte colectivo, con los cuales se lleva el control de las salidas y llegadas a las terminales, así como el conteo de ascensos y descensos del pasaje a dichas unidades que transfiera la información regenerada en tiempo real al Sistema.
 
 XIII.- Depósito vehicular.- Es el espacio destinado para trasladar aquellos vehículos del servicio público de transporte, que sean retirados de la circulación por no cumplir con los requisitos exigidos para la prestación del servicio.
 
@@ -245,13 +265,17 @@ L.- Vehículo o unidad.- Es el medio de propulsión en el cual se transportan pe
 
 LI.- Vialidad.- Es el sistema de vías públicas utilizadas para él tránsito en el Municipio.
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-LII.- Punto estratégico.- Es el espacio en propiedad privada o en la vía publica, autorizado por el Sistema previo cumplimiento de los requisitos correspondientes, para que se estacionen los vehículos destinados al servicio de transporte de alquiler en la modalidad de radio taxi, en espera de la instrucción de la central de la base para la prestación de un nuevo servicio.
+LII.- Sistema de pago electrónico o prepago.- Es la plataforma tecnológica para el pago electrónico anticipado de la tarifa correspondiente para los servicios de transporte público de pasajeros, mediante el uso de la tarjeta de prepago.
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-LIII.- Departamento de Ingeniería de Tránsito.- Departamento perteneciente a la Dirección de Administración Urbana encargado de elaborar y autorizar estudios y proyectos de ingeniería de tránsito, que tengan por objeto asegurar la fluidez de las vialidades municipales, así como aumentar la seguridad de peatones y vehículos.
+LIII.- Tarjeta de prepago.- Es aquella que permita al usuario tener acceso al servicio de transporte con independencia de la empresa concesionaria de que se trate, en la cual se anticipa el importe del consumo que se realizará, misma en la que se efectúan cargas de dinero en cualquier establecimiento comercial y con la que se pueden realizar operaciones hasta consumir el total del importe cargado.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+LIV.- GPS.- Sistema satelital de posicionamiento global, instalado en los vehículos de transporte que permite el monitoreo remoto para determinar la posición en tiempo real, seguimiento a rutas, así como el control de paradas, tiempos, frecuencia y velocidad.
 
 #### SECCION II
 
@@ -343,9 +367,11 @@ VIII.- Suscribir, junto con el Secretario del Ayuntamiento y el Director del Sis
 
 IX.- Las demás que le concedan las Leyes y Reglamentos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 8.
 
-Son facultades del Director del Sistema Municipal del Transporte:
+Son facultades del Director:
 
 I.- Cuidar el cumplimiento de la Ley, el presente Reglamento y los mandamientos específicos, que de una y otra emanen;
 
@@ -353,11 +379,13 @@ II.- Realizar los estudios necesarios para adaptar los servicios de transporte a
 
 III.- Formular los estudios técnicos y operativos para determinar la necesidad de la prestación del servicio, sometido a concesión o permiso;
 
-IV.- Formular los dictámenes que sirvan de base para el otorgamiento, modificación, revalidación, cancelación y revocación de permisos y concesiones;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+IV.- Dictaminar las solicitudes para el otorgamiento, transferencia, modificación, revalidación, cancelación y revocación de concesiones y permisos;
 
-V.- Dictaminar las solicitudes de revalidación de los permisos y concesiones, y someterlos a consideración del Presidente Municipal de Mexicali, Baja California, o del Comité de Concesiones y Permisos, respectivamente;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+V.- Someter a consideración del Presidente Municipal y del Secretario del Ayuntamiento los dictámenes a los que se refiere la fracción anterior;
 
 VI.- Dictar las medidas tendientes al mejoramiento en la prestación del servicio de transporte del Municipio en los términos del Plan Maestro de Vialidad y Transporte;
 
@@ -373,15 +401,41 @@ XI.- Reubicar de una ruta a otra, en forma temporal, vehículos del servicio pú
 
 XII.- Autorizar desviaciones de rutas o recorridos del servicio público del transporte de pasajeros por un tiempo determinado, con motivo de obras o mantenimiento de vialidades;
 
-XIII.- Autorizar los sitios, terminales y encierros para vehículos del transporte público;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XIII.- Autorizar y cancelar los sitios, bases, terminales y encierros para vehículos del transporte público;
 
 XIV.- Fijar y modificar horarios, itinerarios y especificaciones de las rutas, otorgadas en los permisos y concesiones, atendiendo las necesidades del servicio y el interés público en los casos procedentes y conforme al procedimiento establecido;
 
 XV.- (REFORMADA [N. DE E. DEROGADA], P.O. 1 DE AGOSTO DE 2014)
 
-XVI.- Declarar saturado el servicio de transporte público en cualquiera de sus modalidades o rutas; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-XVII.- Las demás que le confieran la Ley, los Reglamentos y el Ayuntamiento.
+XVI.- Declarar saturado el servicio de transporte público en cualquiera de sus modalidades o rutas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XVII.- Turnar al Comité las solicitudes extemporáneas relacionadas con concesiones o permisos previamente autorizados y que se encuentre imposibilitado para emitir resolución;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XVIII.- Ordenar o autorizar enlaces, fusiones o transbordos de rutas concesionadas entre los prestadores del servicio;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XIX.- Establecer las condiciones generales, las normas y especificaciones técnicas del equipo y software de los sistemas de pago electrónico y control de abordaje, para validar su aplicación, incorporando en lo posible los avances tecnológicos existentes;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XX.- Promover la celebración de convenios entre los proveedores del servicio de pago electrónico y los establecimientos comerciales, para multiplicar los puntos de recarga de las tarjetas de prepago;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Acceder permanentemente a la operación del sistema y mapa de estructura de los dispositivos utilizados para la aplicación del pago electrónico; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- Las demás que le confieran la Ley, los Reglamentos y el Ayuntamiento.
 
 ###### ARTÍCULO 9.
 
@@ -447,9 +501,11 @@ Para la prestación del servicio público a que se refiere el párrafo anterior,
 
 El Sistema Municipal del Transporte de Mexicali, Baja California, es un organismo público descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio, y tiene por objeto ejercer las atribuciones que se señalan en el presente Reglamento y demás normas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 15.
 
-El Sistema para la realización de las atribuciones que le competen, contarán con una Dirección y cinco departamentos, el Administrativo, Jurídico, Planeación, Control y Seguimiento y Departamento Operativo.
+El Sistema a fin de garantizar la seguridad, integridad y calidad en el servicio del transporte público y para la realización de las atribuciones que le competen, contarán con una Dirección y cinco departamentos, el Administrativo, Jurídico, Planeación, Control y Seguimiento y Departamento Operativo y además operará un Centro de Control de Transporte.
 
 La Dirección a través de sus departamentos conducirá sus actividades en forma programada y con base a las políticas que para el logro de sus objetivos establezca la Junta de Gobierno del Sistema.
 
@@ -457,9 +513,13 @@ La Dirección a través de sus departamentos conducirá sus actividades en forma
 
 Las funciones del Sistema y sus Departamentos, serán reguladas y aplicadas de conformidad al Acuerdo de Creación del Organismo y sus reformas, su Reglamento Interno y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 17.
 
-El Sistema a fin de garantizar la seguridad e integridad y calidad en el servicio a los usuarios del transporte público, podrá realizar operativos de revisión, con personal especializado, a fin de detectar el consumo de bebidas alcohólicas y drogas enervantes o psicotrópicos, en los operadores de unidades destinadas al servicio del transporte público municipal, así como revisiones mecánicas, verificación de documentos y demás inspecciones que salvaguarden la seguridad pública y el interés de la población.
+El Sistema realizará operativos con personal especializado a fin de revisar y vigilar la operación del servicio; realizar revisiones mecánicas, verificación de documentos y demás inspecciones que salvaguarden la seguridad pública y el interés de la población; y en su caso detectar el consumo de bebidas alcohólicas y drogas enervantes o psicotrópicos, en los operadores de unidades destinadas al servicio del transporte público municipal.
+
+En este último caso, dichos operativos se realizan en coordinación con los servicios médicos municipales, quien aplicará los exámenes de reconocimiento, previo suministro de los reactivos por parte de los concesionarios.
 
 ###### ARTÍCULO 18.
 
@@ -821,53 +881,45 @@ La documentación que en materia de transporte expida la Autoridad Municipal por
 
 Clasificación del Servicio de Transporte Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 51.
 
-Para los fines de éste Reglamento y conforme al servicio que prestan los vehículos destinados al transporte público, sujetos a concesión o permiso se clasifican de la siguiente forma:
+Para los fines de este Reglamento y conforme al servicio que prestan los vehículos destinados al transporte público se clasifican de la siguiente forma:
 
-I. Transporte de pasajeros, en las siguientes modalidades:
+l. Sujetos a concesión, en las siguientes modalidades:
 
-A) De transporte colectivo, urbano o suburbano: los destinados al traslado masivo de personas, que operan sujetos a itinerario, horario, frecuencia y tarifa fija, podrá clasificarse en tipos o categorías conforme a la demanda y calidad en el servicio. Este servicio se presta en unidades tipo Autobús, con capacidad de 38 a 43 pasajeros o más, y minibuses no modificados con capacidad de 24 a 38 pasajeros.
+A) De Transporte Colectivo, urbano o suburbano: los destinados al traslado masivo de pasajeros, que operan sujetos a itinerario, horario, frecuencia y tarifa, se clasifica en tipos o categorías conforme a la demanda y calidad en el servicio. Este servicio se presta en unidades tipo Autobús, con capacidad de 38 a 43 pasajeros o más, y minibuses no modificados con capacidad de 24 a 38 pasajeros y que cuentan con sistema electrónico para pago y control de abordaje.
 
-B) De transporte de alquiler: los destinados al transporte individual de personas, que se contratan para distintos servicios mediante el pago de una tarifa fija, sin sujeción de horario, la cual se dividen (sic) en dos modalidades:
+B) De Transporte de Personal.- Los destinados al transporte de pasajeros trabajadores de las empresas o industrias establecidas en el Municipio y que laboran en las mismas, sujeto a horario e itinerario fijo y que solamente se justifica ante la falta de cobertura del transporte colectivo o por los horarios de las jornadas de trabajo. La tarifa por el servicio será acordado entre las partes.
 
-B1).- Con Itinerario fijo: También denominados “taxi de ruta”, estos operan sujetos a itinerario y tarifa fija, como una modalidad accesoria o complementaria al transporte colectivo.
+II. Sujetos a permiso, en las siguientes modalidades:
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+A) De Transporte de Alquiler, urbano o suburbano, denominado Taxi: los destinados al transporte de pasajeros, que se contratan mediante el pago de una tarifa fija, sin sujeción de horario y los cuales operan exclusivamente dentro de los perímetros señalados en el permiso correspondiente. Se identifican dos modalidades:
 
-B2).- Sin itinerario fijo: Son los que se contratan por viaje o por tiempo determinado, sujetos a tarifa variable regulada por taxímetro y el pago del llamado banderazo, o por tarifa fija, en función de la distancia recorrida según la zona o sector hacia donde se traslade al usuario conforme lo establezca para cada caso el Sistema; en esta modalidad se identifican tres tipos o categorías de taxi:
+A1) Con Itinerario fijo: También denominados "taxi de ruta", operan sujetos a itinerario y tarifa fija, como una modalidad accesoria o complementaria al transporte colectivo, este servicio se presta con vehículos tipo sedán de cuatro puertas y capacidad máxima de hasta cinco ocupantes.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+A2) Sin itinerario fijo: Son los que se contratan por viaje o por tiempo determinado, sujetos a tarifa variable regulada por taxímetro y el pago del banderazo, o por tarifa fija, en función de la distancia recorrida según la zona o sector hacia donde se traslade al usuario; con vehículo tipo sedán, de cuatro puertas y capacidad máxima de hasta cinco ocupantes, aire acondicionado y el cual deberá de ser de modelo no mayor a los cuatro años de antigüedad a la fecha en que se encuentren operando, se identifican tres categorías de taxi:
 
-B2.1) Radio Taxi.- Es aquél que se establece para su explotación en propiedad privada que se denomina base, a donde el público usuario puede mediante llamada telefónica solicitar el servicio, hacia el destino que le solicite. Dicho servicio se prestará exclusivamente de la llamada del usuario, canalizada por medio de la base central al radio móvil del vehículo, respetando el servicio que se presta sobre las rutas, sitios y terminales autorizadas para el servicio público de pasajeros de ruta fija, sin poder abordar en cualquier lugar.
+A2.1.) De base.- Es aquél que se establece para su explotación en propiedad privada que se denomina Base, a donde el público usuario puede solicitar el servicio, mismo que se prestará mediante vehículo denominado Radio Taxi, a través de llamada telefónica del usuario, canalizada por medio de la base central al radio móvil del vehículo;
 
-El servicio de Radio Taxi se prestará en vehículo tipo sedan, de cuatro puertas, con aire acondicionado y capacidad máxima de hasta cinco ocupantes, el cual deberá de ser de modelo no mayor a los cuatro años de antigüedad a la fecha que se encuentren operando.
+Dichos vehículos deben respetar el servicio que prestan las rutas, sitios y terminales autorizadas para el servicio público de pasajeros, quedando prohibido el ruleteo.
 
-B2.2) Taxi de Sitio.- Es aquél que se establece para su explotación en lugares determinados de la vía pública o en propiedad privada que se denominan sitios, tales como centros comerciales, restaurantes, hoteles, bares, terminales de transporte, centros turísticos o de espectáculos, etc., a donde el usuario debe acudir para contratar el servicio, hacia el destino que solicite.
+A2.2.) De Sitio.- Es aquél que se establece para su explotación en lugares determinados de la vía pública o en propiedad privada que se denominan sitios, tales como centros comerciales, restaurantes, hoteles, bares, terminales de transporte, centros turísticos o de espectáculos, etc., a donde el usuario acude para contratar el servicio, hacia su destino.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2016)</small>
+A2.3.) Ejecutivo.- Es aquel que se establece para su explotación preferentemente en una base, o siendo complementario al padrón vehicular de los sitios, en donde el público usuario puede mediante dispositivos electrónicos, a través de plataformas, aplicaciones informáticas para el control, programación y geolocalización en dispositivos fijos y móviles, solicitar el servicio hacia su destino. Dicho servicio se prestará exclusivamente a través del uso del dispositivo electrónico entre el prestador del servicio y el usuario, respetando el servicio que se presta sobre las rutas, sitios y terminales autorizadas para el servicio público de pasajeros de ruta fija.
 
-B2.3.) Taxi Ejecutivo.- Es aquél que se establece para su explotación en propiedad privada que se denomina base, pudiendo ser complementarios a los denominados radiotaxis, en donde el público usuario puede mediante el uso de dispositivos electrónicos, a través de plataformas, aplicaciones o el uso de cualquier tecnología distinta a la llamada telefónica, solicitar el servicio, hacia el destino que se dirija. Dicho servicio se prestará exclusivamente a través del uso del dispositivo electrónico entre el prestador del servicio y el usuario, respetando el servicio que se presta sobre las rutas, sitios y terminales autorizadas para el servicio público de pasajeros de ruta fija, sin poder abordar en cualquier lugar.
+B) De Transporte Turístico.- Es el destinado al transporte de pasajeros a lugares de interés turísticos, arqueológicos, arquitectónicos, panorámicos o artísticos, mediante la renta por horas o días del vehículo y conductor; sin sujeción de horario ni itinerario. Este servicio se presta en unidades de distinta capacidad, exclusivamente diseñadas para tal fin, y la tarifa por el servicio se conviene entre las partes.
 
-El servicio de Taxi Ejecutivo se prestará en vehículo tipo sedán, de cuatro puertas, con aire acondicionado y capacidad máxima de hasta cinco ocupantes, el cual deberá de ser de modelo no mayor a los cuatro años de antigüedad a la fecha en que se encuentren operando.
+C) De Transporte Escolar.- Los destinados al transporte de pasajeros estudiantes de instituciones educativas, que opera con el itinerario y horario que satisfaga las necesidades particulares de dichas instituciones, el precio del servicio serán acordados (sic) entre estas y el prestador de servicio.
 
-C) De transporte turístico.- Es el destinado al transporte de personas a lugares de interés turísticos, arqueológicos, arquitectónicos, panorámicos o artísticos, mediante la renta por horas o días del vehículo y conductor; sin sujeción de horario ni itinerario. Este servicio se presta en unidades de distinta capacidad, exclusivamente diseñadas para tal fin, y el precio del servicio se conviene entre las partes.
+D) Transporte de Carga, en las siguientes modalidades:
 
-D) De transporte escolar.- Los destinados al transporte de estudiantes de instituciones educativas, que operara con el itinerario y horario que satisfaga las necesidades particulares de la institución educativa, el precio del servicio serán acordados entre estas y el prestador de servicio.
+D1) De Servicio General.- Se presta en vehículos que garanticen las condiciones óptimas de operación aprobando la revisión mecánica emitida por el Sistema, debiendo reunir las características adecuadas para transportar productos agropecuarios, maquinaria, materiales para la construcción, materiales pétreos, mercancías, desechos orgánicos, objetos diversos y en general todo tipo de carga. Para el caso de servicio especializado, será prestado en vehículos acondicionados para transportar un tipo específico de carga, como puede ser materiales peligrosos, explosivos, corrosivos, inflamables, contaminantes, residuos sólidos municipales, residuos industriales no peligrosos, y los demás que por las características del vehículo en que se traslada, sólo permitan el traslado de un tipo de carga en particular.
 
-E) De transporte de personal.- Los destinados al transporte de trabajadores de las empresas o industrias establecidas en el Municipio y que laboran en las mismas, sujeto a horario e itinerario fijo y que solamente se justifica ante la falta de cobertura del transporte colectivo o por los horarios de las jornadas de trabajo. El precio del servicio será acordado entre las partes y se prestará en unidades exclusivamente diseñadas para tal fin, tales como autobuses o minibuses.
+Este servicio podrá condicionarse a itinerario y horario fijo, de acuerdo a lo que disponga el Departamento de Ingeniería de Transito conforme al tipo de las vialidades o de la carga, el peso y dimensiones del vehículo, o la intensidad del tránsito; de conformidad por lo dispuesto en el Reglamento de Tránsito para el Municipio.
 
-II.- Transporte de carga, en las siguientes modalidades:
-
-A) De servicio general.- Este tipo de servicios se prestará en vehículos que reúnan las características adecuadas para transportar productos agropecuarios, maquinaria, materiales para la construcción, materiales pétreos, mercancías, desechos orgánicos, objetos diversos y en general todo tipo de carga. Para el caso de servicio especializado, será prestado en vehículos acondicionados para transportar un tipo especifico de carga, como puede ser materiales peligrosos, explosivos, corrosivos, inflamables, contaminantes, residuos sólidos municipales, residuos industriales no peligrosos, y los demás que por las características del vehículo en que se traslada, sólo permitan el traslado de un tipo de carga en particular.
-
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
-
-Éste servicio podrá condicionarse a itinerario y horario fijo, de acuerdo a lo que disponga el Departamento de Ingeniería de Tránsito conforme al tipo de las vialidades o de la carga, el peso y dimensiones del vehículo, o la intensidad del tránsito; de conformidad por lo dispuesto en el Reglamento de Tránsito para el Municipio.
-
-B) De servicio de grúa y remolque.- Los destinados a transportar o remolcar vehículos, en unidades diseñadas para tal fin. Este servicio estará sujeto a tarifa fija, el cual podrá prestarse sin restricción de itinerario y horario, partiendo del lugar previamente autorizado por el Sistema, donde el usuario pueda comunicarse o acudir para contratarlo.
+D2) De Servicio de Grúa y Remolque.- Los destinados a transportar o remolcar vehículos, en unidades diseñadas para tal fin, las cuales garanticen las condiciones óptimas de operación aprobando la revisión mecánica emitida por el Sistema. Este servicio estará sujeto a tarifa fija, el cual podrá prestarse sin restricción de itinerario y horario y el cual puede contratarse desde cualquier lugar de la ciudad.
 
 ### CAPÍTULO V. DE LAS CONDICIONES QUE DEBEN REUNIR LAS UNIDADES QUE PRESTAN EL SERVICIO PÚBLICO DE TRANSPORTE
 
@@ -971,9 +1023,11 @@ La rotulación que porten los vehículos destinados al servicio de transporte p�
 
 Las placas se instalarán en el lugar destinado para ello por los fabricantes, de tal manera que se exhiba una en la parte delantera y la otra en la parte posterior. No se deberán portar objetos que obstruyan la visibilidad de esta o que pueda confundir el número de la matrícula.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 73.
 
-A efecto de garantizar la modernidad y las mejores condiciones mecánicas de las unidades, así como la comodidad y seguridad del usuario, los vehículos destinados al transporte público, sujetos a concesión o permiso, no deberán rebasar en ningún momento los diez años de antigüedad en su fabricación respecto a la fecha en que se encuentren operando. El Plan Maestro de Vialidad y Transporte, podrá precisar características y modelos para los diferentes tipos y clase de servicios que se deriven de la (sic) modalidades previstas en este Reglamento.
+A efecto de garantizar la modernidad y las mejores condiciones mecánicas de las unidades, así como la comodidad y seguridad del usuario, los vehículos destinados al servicio de transporte público de pasajeros, en todas sus modalidades, sujetos a concesión o permiso, no deberán rebasar en ningún momento los diez años de antigüedad en su fabricación respecto a la fecha en que se encuentren operando. El Plan Maestro de Vialidad y Transporte, deberá precisar características y modelos para los diferentes tipos y clase de servicios que se deriven de las modalidades previstas en este Reglamento.
 
 #### SECCION II
 
@@ -1381,13 +1435,17 @@ III.- Por adjudicación directa, cuando se declaren desiertos los anteriores pro
 
 En todos los casos el Comité de Concesiones y Permisos se asegurara de otorgar la concesión a quien cumpla con todos los requisitos y ofrezca las mejores condiciones de calidad, suficiencia y regularidad en la prestación del servicio, así como que garantice en forma efectiva el cumplimiento de las obligaciones que se deriven del otorgamiento de tal concesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 122.
 
-La persona moral interesada en obtener concesión para la explotación del servicio de transporte público de pasajeros, deberá formular solicitud ante el Director del Sistema Municipal del Transporte de Mexicali, lo (sic) cual contendrá los siguientes datos y documentos:
+La persona moral interesada en obtener concesión para la explotación del servicio de transporte público de pasajeros, deberá formular solicitud ante el Director, la cual contendrá los siguientes datos y documentos:
 
 I.- Razón o denominación social y domicilio;
 
-II.- Indicar los elementos de que dispone para poder cumplir con las condiciones de explotación del servicio;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+II.- Comprobar que cuenta con los elementos financieros y técnicos para cumplir con las condiciones de explotación del servicio, mismos que deberá (sic) dar cumplimiento a los establecidos en la convocatoria correspondiente, y dentro de los cuales se deberá incluir cuando menos el 10% de las unidades de cada ruta adaptadas para el uso de las personas con discapacidad;
 
 III.- Factura o comprobante que acredite la propiedad del vehículo que vaya a ser utilizado en la prestación del servicio público concesionado;
 
@@ -1729,7 +1787,9 @@ II.- Solicitar al Sistema, de acuerdo a las formalidades establecidas en el pres
 
 III.- Contratar y portar en los vehículos afectos a la concesión la publicidad que estimen conveniente para sus intereses, sujetándose a las normas y características que para tal efecto determine el Plan Maestro de Vialidad y Transporte y previa autorización del Sistema y las autoridades regulatorias de imagen urbana;
 
-IV.- Enlazar o fusionar sus servicios e instalaciones con la de otros concesionarios, previa autorización del Presidente Municipal;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Proponer enlaces o fusiones de sus servicios e instalaciones con las de otros concesionarios, permisionarios y otros medios de transporte;
 
 V.- Participar en el Consejo por conducto de sus representantes, emitiendo opiniones y formulando propuestas relacionadas con el transporte público;
 
@@ -1749,17 +1809,23 @@ II.- Prestar el servicio bajo las condiciones que establezca el Presidente Munic
 
 III.- Prestar el servicio con las unidades autorizadas, no debiendo destinarlos a otros fines distintos a la modalidad autorizada, salvo por disposición expresa del Sistema;
 
-IV.- Aportar los datos técnicos e información especifica que se requiera, para coadyuvar al mejoramiento del servicio público del transporte de pasajeros, coadyuvando y ofreciendo todas las facilidades a los inspectores y demás autoridades;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Aportar los datos técnicos e información específica que requiera el Sistema, para coadyuvar al mejoramiento del servicio público del transporte de pasajeros;
 
 V.- Prestar el servicio público de transporte de pasajeros, acatando las normas de calidad y operación correspondientes a su modalidad y clase, asegurando que las unidades cumplan con los requisitos exigidos por el Reglamento, presentándolos a revisión mecánica;
 
-VI.- Deberán destinar al menos un asiento por cada diez lugares, debidamente identificados para el uso preferente de personas con capacidades diferentes, embarazo o de la tercera edad;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Destinar al menos un asiento por cada diez lugares, debidamente identificados para el uso preferente de personas con discapacidad, embarazo o de la tercera edad;
 
 VII.- Vigilar que sus operadores, protejan, orienten y respeten a los usuarios;
 
 VIII.- Cobrar a los usuarios el precio que establezca la tarifa vigente, conforme a la modalidad y clase del servicio de que se trate;
 
-IX.- Entregar al usuario, independientemente de que sea un usuario con derecho a descuento, contra el pago del precio, el boleto o comprobante correspondiente, además de instrumentar los mecanismos para verificar lo anterior;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Entregar al usuario el recibo o comprobante, contra el pago efectuado por el servicio correspondiente, además de contar con el registro de los pagos por abordaje cuando estos sean electrónicos;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
 
@@ -1769,15 +1835,21 @@ XI.- Verificar que los operadores a su servicio, reúnan los requisitos establec
 
 XII.- Identificar a sus vehículos mediante los colores, emblemas y numeración que asigne el Sistema, correspondientes al servicio concesionado y a su adscripción de su localidad;
 
-XIII.- Proporcionar cursos de capacitación y actualización tendientes al mejoramiento de la prestación del servicio, así como los recursos, medios y accesorios adecuados para el desempeño de sus funciones, tanto para sus operadores como para ellos mismos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-XIV.- Proporcionar a los operadores los uniformes que deberán de portar en la prestación del servicio de acuerdo al tipo y características que establezca el Sistema;
+XIII.- Programar e impartir cursos de capacitación y actualización a los operadores permanentemente ya sea en forma particular o en conjunto con el Sistema o Instituciones Educativas, tendientes al mejoramiento de la prestación del servicio, debiendo informar al propio Sistema los resultados obtenidos, por lo menos con una periodicidad no mayor a seis meses;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XIV.- Proporcionar a sus operadores los gafetes y uniformes que deberán portar en la prestación del servicio de acuerdo al tipo y características que establezca el Sistema;
 
 XV.- Conservar el parque vehicular y las instalaciones de las terminales, encierros y demás servicios auxiliares, en las mejores condiciones de higiene, funcionalidad, cumpliendo con las normas de seguridad y prevención de incendios de conformidad con las disposiciones que dicten las autoridades competentes;
 
 XVI.- Proporcionar al Sistema el domicilio donde se localiza el encierro de las unidades;
 
-XVII.- Señalar en forma visible en el interior de los vehículos, las tarifas autorizadas, así como letreros que indiquen el comportamiento que el usuario dentro del vehículo, engomado con los teléfonos del Sistema para recibir quejas y en el exterior portar el color que el Sistema le designe, así como el número económico y la ruta, de acuerdo a las modalidades que al efecto determine dicha Dependencia;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XVII.- Señalar en forma visible en el interior de los vehículos, las tarifas autorizadas, así como letreros que indiquen al usuario el comportamiento que deberá observar durante su traslado, engomado con los teléfonos del Sistema para recibir quejas y en el exterior portar el color que el Sistema le designe, así como el número económico y la ruta, de acuerdo a las modalidades que al efecto determine dicho organismo;
 
 XVIII.- Registrar ante el Sistema todos y cada uno de los vehículos autorizados para la explotación de la concesión, anexando la documentación que al efecto se determine;
 
@@ -1793,41 +1865,69 @@ XXIII.- Presentar ante el Sistema el padrón de operadores, con los datos necesa
 
 XXIV.- Someter a los vehículos a que se refiera la concesión a una revisión mecánica mensual de conformidad a los programas que el Sistema establezca al efecto, con objeto de garantizar la seguridad de los usuarios y evitar la contaminación ambiental;
 
-XXV.- Llevar control en forma diaria previo al inicio del servicio, en una bitácora autorizada por el Sistema de la revisión que realice para verificar el estado físico, mecánico y eléctrico que guardan las unidades, evitando que sean puestas en operación aquéllas que presenten alguna de las siguientes fallas:
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-a) Sistema de frenado en malas condiciones.
-
-b) Fuga de combustible, lubricantes y falta de tapones.
-
-c) Luces exteriores dañadas.
-
-d) Equipo de seguridad faltante, como extinguidor, triángulo, botiquín y otros.
-
-e) Ventanas rotas o faltantes.
-
-f) Puerta de seguridad bloqueada.
-
-g) Señalamientos faltantes.
-
-h) Asientos rotos o elementos de vestimenta interior con bordes punzo cortantes.
-
-i) Estribos dañados.
-
-j) Limpia parabrisas descompuesto.
-
-k) Espejos rotos o sin ellos.
-
-l) Neumáticos en mal estado.
-
-m) Mal funcionamiento del mecanismo de cierre y apertura de puertas.
+XXV.- Destinar por lo menos el 10% del padrón vehicular por cada ruta concesionada a unidades adaptadas con rampa mecánica, espacio suficiente y adecuado para el traslado en silla de ruedas y accesorios necesarios para la prestación del servicio a personas con discapacidad y que deberán ser identificados exteriormente con el símbolo internacional de accesibilidad, con las medidas y características que el Sistema determine.
 
 XXVI.- Retirar de la circulación aquellas unidades que no garanticen la seguridad del usuario, contaminen el medio ambiente o cuyo estado físico, a juicio del Sistema, no cumpla con la calidad del servicio;
 
 XXVII.- Operar únicamente las rutas autorizadas, debiendo cumplir con los horarios, itinerarios y tarifas aprobadas;
 
-XXVIII.- Que las unidades cuentan preferentemente con sistemas de cobro controlado y de movilidad y se les dé mantenimiento requerido; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXVIII.- Que las unidades cuenten con sistemas de control de abordaje y de cobro electrónico mediante el uso de una tarjeta de prepago que garantice al usuario el beneficio de la tarifa que corresponda;
 
 XXIX.- Contar con un Reglamento de funcionamiento interno que contemple los correctivos para una adecuada prestación del servicio.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXX.- Que todas las unidades sujetas a la concesión del transporte público de pasajeros cuenten con un sistema de localización vía satelital (GPS) en funcionamiento; estableciendo (sic) el Sistema los lineamientos que deben observarse al respecto;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXXI.- Informar al usuario que lo solicite, el saldo de su tarjeta de prepago;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXXII.- Trasferir al Sistema en tiempo real los datos provenientes de sus sistemas de control de abordaje y pago electrónico, por lo menos en lo que se refiere a ascensos, descensos, transbordos, tarifa preferencial, frecuencia y horario de servicio;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXXIII.- Trasferir al Sistema en tiempo real, la información generada en su GPS por lo que hace a los horarios, rutas en operación, paradas, frecuencias, velocidad y lo que le sea solicitado específicamente;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXXIV.- Llevar control en forma diaria el estado físico, mecánico y eléctrico que guardan las unidades previo al inicio del servicio, evitando que sean puestas en operación aquéllas que presenten alguna de las siguientes fallas:
+
+a) Sistema de frenado.
+
+b) Fuga de combustible, lubricantes y falta de tapones.
+
+c) Luces exteriores.
+
+d) Equipo de seguridad faltante, como extinguidor, triángulo, botiquín y señalamientos.
+
+e) Ventanas rotas o faltantes.
+
+f) Puerta de seguridad bloqueada.
+
+g) Aire acondicionado.
+
+h) Asientos rotos o elementos de vestimenta interior con bordes punzo cortantes.
+
+i) Estribos.
+
+j) Limpia parabrisas.
+
+k) Espejos rotos o sin ellos.
+
+l) Neumáticos en mal estado.
+
+m) Mecanismo de cierre y apertura de puertas.
+
+n) Rampa y accesorios para discapacitados.
+
+ñ) Sistema de cobro electrónico y control de abordaje.
 
 ###### ARTÍCULO 158.
 
@@ -2033,11 +2133,13 @@ IV.- Exhibir copia de su identificación oficial con fotografía;
 
 Los permisos podrán ser modificados en los términos que fueron expedidos, a iniciativa del Sistema o a petición del interesado; para lo cual bastará el análisis que realice el Sistema, quien resolverá directamente.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 176.
 
-En el caso de que el titular del permiso desee sustituir el vehículo autorizado por otro, el modelo del vehículo sustituto no deberá rebasar en ningún momento los diez años de antigüedad en su fabricación respecto a la fecha en que se encuentre operando, con excepción del transporte de alquiler sin itinerario fijo que preste el servicio de Radio Taxi y de Taxi Ejecutivo, en el que el modelo del vehículo sustituto no deberá rebasar los cuatro años de antigüedad respecto a la fecha en que se encuentre operando.
+En el caso de que el titular del permiso desee sustituir el vehículo autorizado, el modelo del vehículo sustituto deberá cumplir lo señalado en el presente reglamento de conformidad a la modalidad de que se trate.
+
+Para el caso de las concesiones, el modelo del vehículo sustituto no podrá ser de mayor antigüedad al sustituido.
 
 #### SECCION V
 
@@ -2193,17 +2295,21 @@ Los lugares para el ascenso y descenso de pasaje de personal deberán de autoriz
 
 En ningún caso, salvo previo análisis y autorización por parte del Sistema, la operación de ascenso y descenso deberá efectuarse sobre rutas establecidas para el transporte colectivo urbano y suburbano.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 194.
 
-Los prestadores del servicio público de transporte colectivo de pasajeros, tienen la obligación de reservar un asiento por cada 10 existentes de la unidad, para que sean destinados a personas con capacidad (sic) diferentes, personas de la tercera edad y mujeres embarazadas; dichos asientos deberán estar situados cerca de la puerta o puertas de acceso de los vehículos de que se traten y contarán con un emblema o leyenda que los identifique.
+Los prestadores del servicio público de transporte colectivo de pasajeros, tienen la obligación de reservar un asiento por cada 10 existentes en cada unidad, para que sean utilizadas preferentemente por personas con discapacidad; dichos asientos deberán estar situados cerca de los accesos del vehículo de que se trate y contarán con el símbolo internacional de accesibilidad, con las medidas y características que el Sistema determine.
 
 ###### ARTÍCULO 195.
 
 Los asientos que menciona el artículo anterior, podrán utilizarse por otras personas, en tanto no sean necesitados por alguna de las personas que tienen uso preferente de ellos, teniendo el operador del transporte la obligación de requerir al usuario que ceda el lugar. Si el usuario se negará a ceder el asiento, el operador solicitará el auxilio de la autoridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 196.
 
-Las unidades destinadas al servicio de transporte público de pasajeros deberán, cubrir los requisitos establecidos en el Capítulo V del presente Reglamento, además de los siguientes:
+Las unidades destinadas al servicio de transporte público de pasajeros deberán cubrir los requisitos establecidos en el Capítulo V del presente Reglamento, además de los siguientes:
 
 I.- Las unidades de transporte de pasajeros, deberán tener puerta de emergencia, que sea fácilmente accionado (sic) por cualquier persona, esta puerta no deberá estar obstruida y permitirá que los pasajeros pasen por ella libremente, facilitando la rápida evacuación de las mismas, además de contar con dispositivos de alarma correspondiente.
 
@@ -2217,15 +2323,21 @@ V.- Contará con espejos retrovisores rectangulares de control, con un mínimo d
 
 VI.- Llevarán exteriormente al frente en forma legible e iluminado por la noche, un rótulo que contenga el nombre de la ruta a recorrer.
 
-VII.- Contarán con un sistema de alumbrado interior con lámparas fluorescentes de 40 watts que proyecte suficientemente luz blanca fija y permanezca encendido durante las horas de servicio nocturno, se colocarán en dos líneas longitudinales a lo largo del pasillo, se utilizarán dos circuitos para su comando con el 50% de iluminación cada uno, controlados por el operador. Los escalones de subida y bajada serán iluminados con lámparas incandescentes.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Contar con un sistema de alumbrado interior con lámparas fluorescentes de 40 watts que proyecte suficientemente luz blanca fija y permanezca encendido durante las horas de servicio nocturno, se colocarán en dos líneas longitudinales a lo largo del pasillo, se utilizarán dos circuitos para su comando con el 50% de iluminación cada uno, controlados por el operador. Los escalones de subida, bajada y rampas serán iluminados con lámparas incandescentes.
 
 VIII.- Estarán dotados de timbre que pueda ser usado por los pasajeros para solicitar la detención del vehículo en las paradas de autobuses previamente establecidas.
 
-IX.- Contarán con una distribución simétrica y transversal a uno y otro lado del pasillo central, de un número de asientos que den comodidad a los pasajeros, preferentemente en forma perpendicular al eje longitudinal del vehículo, así como satisfacer permanentemente todas las condiciones de seguridad e higiene, acatando cuidadosamente todas las indicaciones del Sistema.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Contar con una distribución simétrica y transversal a uno y otro lado del pasillo central, de un número de asientos que den comodidad a los pasajeros, preferentemente en forma perpendicular al eje longitudinal del vehículo, así como satisfacer permanentemente todas las condiciones de seguridad e higiene, y para el caso de los vehículos identificados para el servicio de personas con discapacidad, deberán contar con el espacio suficiente para el traslado en silla de ruedas, acatando cuidadosamente todas las indicaciones del Sistema.
 
 X.- Las ventanillas deben tener vidrios de seguridad traslúcidos, del lado izquierdo todas o algunas de las ventanillas deberán funcionar como salida de emergencia, con mecanismo de abatimiento hacia el exterior.
 
-XI.- Tendrán dos puertas, una delantera de acceso y otra trasera de descenso, la cual deberá estar colocada en la parte posterior de las llantas traseras, en la puerta delantera contará con pasamanos colocados en forma diagonal para ayuda de ascensos.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Tendrán dos puertas, una delantera de acceso y otra trasera de descenso, la cual deberá estar colocada en la parte posterior de las llantas traseras, en la puerta delantera contará con pasamanos colocados en forma diagonal para ayuda de ascensos para el caso de los vehículos identificados para el servicio de personas con discapacidad.
 
 XII.- Tendrá cuatro barandales colocados, uno en lado izquierdo de la puerta delantera, dos en la puerta trasera colocados uno de cada lado, y otro detrás del asiento del operador; la altura de estos barandales desde el piso de la unidad deben ser aproximadamente de 68 cm., el ancho igual a la profundidad de los escalones; los barandales de la puerta deben cubrirse con plástico reforzado.
 
@@ -2251,9 +2363,11 @@ XXII.- Deberán contar con extintor contra incendio, cuyo modelo, clasificación
 
 XXIII.- Las unidades de transporte público deberán contar con la herramienta necesaria para trabajos de emergencia en el trayecto de la ruta, llanta de refacción, luces de abanderamiento y un botiquín con el instrumental y material mínimo para impartir los primeros auxilios en caso de accidente.
 
-XXIV.- Deben contar con un sistema de control de abordaje, ya sea mecánico o sistematizado, con la finalidad de contabilizar los ascensos y descensos de pasajeros a los vehículos.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-XXV. Deben estar provistos de rampas para personas con capacidades diferentes con la finalidad facilitar los ascensos y descenso de este tipo de pasajeros.
+XXIV.- Contar con un sistema de control de abordaje y de cobro electrónico para tarjeta de prepago.
+
+XXV.- Deben estar provistos de rampas para personas con capacidades diferentes con la finalidad facilitar los ascensos y descenso de este tipo de pasajeros.
 
 #### SECCION II
 
@@ -2713,9 +2827,11 @@ IV. Folio del boleto; y
 
 V. Número telefónico para quejas o sugerencias.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 239.
 
-Los operadores del servicio público colectivo urbano y suburbanos, deberán de respetar los beneficios del boleto transbordo.
+Los operadores del servicio público colectivo urbano y suburbano, deberán respetar los beneficios de la tarifa de transbordo mediante la tarjeta de prepago o el método que el Sistema determine.
 
 ###### ARTÍCULO 240.
 
@@ -2749,7 +2865,9 @@ XIII.- Cumplir con el horario asignado para el recorrido de cada ruta no debiend
 
 XIV.- Efectuar los recorridos de origen a destino en su totalidad, sin salirse de la ruta fijada, y en caso de presentarse una contingencia que obligue a su desvío, procurara incorporarse al trayecto autorizado en el punto más cercano posible;
 
-XV.- Proporcionar a los usuarios los boletos correspondientes que acrediten el pago del servicio del transporte;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XV.- En caso de pago en efectivo, proporcionar a los usuarios los recibos correspondientes que acrediten el pago del servicio del transporte;
 
 XVI.- Atender a los pasajeros con respeto y cortesía, así como cuidar el uso del lenguaje, evitando proferir palabras obscenas u ofensivas. Los propietarios de esta clase de vehículos serán responsables solidarios por las sanciones correspondientes al incumplimiento de esta disposición por parte de los operadores de los mismos;
 
@@ -2779,7 +2897,7 @@ V.- Circular en sentido contrario, así como transitar innecesariamente sobre la
 
 VI.- Cambiar de carril cuando exista línea contigua delimitando los carriles de circulación, o cuando no opere los indicadores para efectuar dicha maniobra;
 
-VII.- Dar vuelta en “U”, para colocarse en sentido opuesto al que circula, cerca de una curva o cima, en vías primarias o secundarias, y en donde la normatividad lo prohíba;
+VII.- Dar vuelta en "U", para colocarse en sentido opuesto al que circula, cerca de una curva o cima, en vías primarias o secundarias, y en donde la normatividad lo prohíba;
 
 VIII.- Realizar maniobras de ascenso y descenso de pasaje en los carriles centrales;
 
@@ -2807,17 +2925,49 @@ XVIII.- Conducir peligrosa o temerariamente. Incurre en esta falta todo aquel op
 
 XIX.- Conducir sin alguno de los documentos a que se refiere el artículo 247 del presente Reglamento;
 
-XX.- Mantener la unidad libre de adornos que distraigan, dificulte o impida la visibilidad del conductor y los usuarios, así como pintar leyendas o pegar calcomanías en el vehículo, con excepción de las que con relación a la prestación del servicio, ordené el Sistema;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-XXI.- No efectuaran reparación alguna, ni hacer labores de limpieza de la unidad en la vía pública;
+XX.- Portar en la unidad adornos que distraigan, dificulten o impidan la visibilidad del conductor y los usuarios, así como pintar leyendas o pegar calcomanías en el vehículo, con excepción de las que con relación a la prestación del servicio ordene el Sistema;
 
-XXII.- En sí las prohibiciones establecidas en el Reglamento de Tránsito Municipal, referentes y aplicables al transporte de servicio público;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Efectuar reparaciones y labores de limpieza de la unidad en la vía pública;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- Lo mismo establecido en el Reglamento de Tránsito Municipal, referentes y aplicables al transporte de servicio público;
 
 XXIII.- Apagar las luces interiores de la unidad, por la noche, tratándose del servicio de transporte urbano;
 
-XXIV.- Permitir el ascenso de pasajeros a la unidad por la puesta (sic) distinta al descenso; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-XXV.- Entregar al usuario boleto distinto a la tarifa pagada.
+XXIV.- Permitir el ascenso de pasajeros a la unidad por la puerta distinta al ascenso;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXV.- En caso de pago en efectivo, entregar al usuario recibo distinto a la tarifa pagada; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXVI.- Negar al usuario el pago con tarjeta prepagada.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 241 BIS.- Los operadores están obligados a proporcionar el servicio a toda persona que lo requiera, solo serán causas justificadas para negarlo, las siguientes:
+
+I.- Cuando sea solicitado para transportar un número de personas superior al de las plazas autorizadas.
+
+II.- Cuando el pasajero o solicitante del servicio se halle en estado de embriaguez manifiesta, o bajo el efecto de estupefacientes.
+
+III.- Cuando los usuarios que ocupen los lugares al frente de la unidad, pretendan viajar con niños de brazos, sentados sobre sus piernas.
+
+IV.- Cuando el usuario de forma manifiesta puedan (sic) ensuciar, deteriorar o causar daños a la unidad.
+
+V.- En el caso de transporte de alquiler, cuando las maletas, equipaje o bultos que lleven los pasajeros, rebasen la capacidad de la cajuela o portamaletas.
+
+VI.- Cuando se ejecuten o hagan ejecutar, a bordo de la unidad, actos que atenten contra la tranquilidad, seguridad e integridad del operador y los usuarios.
+
+VII.- En general, cuando se pretenda que el servicio se proporcione contraviniendo disposiciones legales o reglamentarias
 
 ###### ARTÍCULO 242.
 
@@ -2919,19 +3069,25 @@ Una vez obtenido el tarjetón, éste tendrá vigencia de tres años, y podrá re
 
 DE LOS USUARIOS DEL TRANSPORTE PÚBLICO DE PASAJEROS.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 253.
 
-Para garantizar los derechos de los usuarios y pasajeros, el Sistema, vigilara que el servicio público del transporte se proporcione garantizando seguridad, comodidad, condiciones de imagen, higiene y eficiencia.
+Para garantizar los derechos de los usuarios y pasajeros, el Sistema, vigilara que el servicio público del transporte se proporcione con seguridad, comodidad, condiciones de imagen, higiene y eficiencia.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 254.
 
-El pago de la tarifa del servicio de transporte público de pasajeros será efectuado por el usuario en el momento en que dicho servicio inicie, y a su vez el operador deberá de entregarle el boleto correspondiente a dicho pago, en el que el usuario deberá de conservarlo durante el recorrido y mostrarlo al inspector cuantas veces sea necesario.
+El pago de la tarifa del servicio de transporte público de pasajeros será efectuado por el usuario en el momento en que dicho servicio inicie, para el transporte de alquiler, el pago se realizará al llegar el usuario a su destino.
 
-Para el caso (sic) transporte colectivo, urbano o suburbano y en caso de avería o accidente que le impida llegar a su destino el operador quedará obligado a garantizar su traslado, para el caso de transporte en taxis y minibuses, el pago se realizará al concluir el servicio, y en caso de avería o accidente que le impida llegar a su destino los usuarios no realizarán pago alguno y optar por esperar a que el operador los traslade a otra unidad o tomar por su cuenta cualquier otro que preste el servicio público de pasajeros.
+En caso de avería o accidente de la unidad durante el traslado que impida al usuario llegar a su destino el operador quedará obligado a garantizar el transporte para que finalice el servicio solicitado sin cargo adicional para el usuario.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 255.
 
-Serán causas justificadas para negar la prestación del servicio al usuario las previstas por el artículo 276.
+Serán causas justificadas para negar la prestación del servicio al usuario las previstas por el artículo 241 bis.
 
 ###### ARTÍCULO 256.
 
@@ -2941,41 +3097,91 @@ Los menores de siete años, solo podrán hacer uso del transporte público masiv
 
 Los usuarios y pasajeros de los vehículos de transporte público, deberán cumplir con lo siguiente:
 
-I.- Usar el cinturón de seguridad, o en su caso, el asiento especial;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-II.- Viajar debidamente sentados en los asientos que les correspondan; y
+I.- En el caso de transporte de alquiler, usar el cinturón de seguridad, o en su caso, el asiento especial;
 
-III.- Bajar siempre por el lado de la banqueta o acotamiento, a menos que el sentido de la vialidad no lo permita, caso en el que deban extremar las precauciones.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+II.- Viajar debidamente sentados en los asientos que les correspondan;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+III.- Bajar siempre por el lado de la banqueta o acotamiento, a menos que el sentido de la vialidad no lo permita, caso en el que deban extremar las precauciones;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Para el caso del transporte colectivo, realizar el pago del servicio preferentemente con tarjeta de prepago;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+V.- Acatar las medidas de seguridad y orden que se establecen en el Bando de Policía y Buen Gobierno para el Municipio de Mexicali, B.C., así como aquellas que determine la empresa concesionaria;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Para el caso del transporte colectivo, ceder de ser necesario los espacios reservados a personas con discapacidad mujeres embarazadas o personas de la tercera edad y en sillas de ruedas;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+VII.- No sacar del vehículo parte de su cuerpo u objetos;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- No arrojar basura o cualquier tipo de objetos a la vía pública;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+IX.- No abrir las puertas, ni bajar de vehículos en movimiento;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+X.- No sujetarse del conductor o distraerlo;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XI.- No dañar, destruir o deteriorar el vehículo;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XII.- No interferir en las funciones del Inspector o Agente;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XIII.- No fumar e ingerir bebidas alcohólicas, drogas o estupefacientes a bordo del vehículo, ya sea estacionado o en movimiento;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XIV.- No ascender (sic) descender del vehículo fuera de los lugares establecidos para este efecto;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XV.- No realizar actos que ocasionen molestias a los demás pasajeros y al conductor; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XVI.- Las demás que señale la Ley y el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 258.
 
-A los pasajeros y usuarios, les esta prohibido:
+Son derechos de los usuarios, los siguientes:
 
-I.- Sacar del vehículo parte de su cuerpo u objetos;
+I.- Recibir un servicio de calidad en vehículos que se encuentren en óptimas condiciones de imagen, higiene, comodidad y seguridad;
 
-II.- Arrojar basura o cualquier tipo de objetos a la vía pública;
+II.- Recibir orientación y respeto por parte de los operadores;
 
-III.- Abrir las puertas de vehículos en movimiento;
+III.- Que le respeten la tarifa vigente correspondiente al servicio solicitado, y se le entregue su recibo o comprobante;
 
-IV.- Bajar de vehículos en movimiento;
+IV.- A que la empresa concesionaria responda por si misma o atreves (sic) del correspondiente seguro de cuantas indemnizaciones correspondan en caso de siniestro;
 
-V.- Sujetarse del conductor o distraerlo;
+V.- Recibir el servicio de transporte en apego a las rutas, frecuencia y horarios autorizados según sea el caso;
 
-VI.- Dañar, destruir o deteriorar el vehículo;
+VI.- Recibir su comprobante, contra el pago efectuado por el servicio correspondiente, además del registro de los pagos por abordaje cuando estos sean electrónicos, así como el saldo de su tarjeta,
 
-VII.- Interferir en las funciones del Inspector o Agente;
+VII.- Recibir el servicio gratuitamente cuando se pretenda hacer el pago con el sistema de pago electrónico y este no funcione, y
 
-VIII.- Fumar e ingerir bebidas alcohólicas, drogas o estupefacientes a bordo de cualquier vehículo, ya sea estacionado o en movimiento;
-
-IX.- Exigir al conductor su ascenso y descenso fuera de los lugares establecidos para este efecto;
-
-X.- Realizar todo acto que ocasione molestias a los demás pasajeros y al conductor;
-
-XI.- Hacer uso de aparatos reproductores de sonido sin el uso de audífonos;
-
-XII.- Hacer uso de los asientos reservados para personas discapacitadas, mujeres embarazadas o personas de la tercera edad, cuando alguna de estas personas esté viajando de pie; y
-
-XIII.- Las demás que señale la Ley y el presente Reglamento.
+VIII.- Recibir una tarifa promocional al ser calificado como usuario frecuente en los términos que establezca el Sistema.
 
 ### CAPÍTULO XI
 
@@ -3075,7 +3281,9 @@ Las tarifas y sus modificaciones después de ser aprobados, cobrarán vigencia c
 
 Corresponde al Sistema, vigilar que el público usuario no se vea afectado en sus intereses por la alteración de la tarifa autorizada, por lo que en caso de cobros irregulares por parte de concesionarios y permisionarios, podrá tomar las medidas que procedan con base a la inspección que realice y a las denuncias que reciba por parte de los usuarios.
 
-En el caso de convenios entre concesionarios para el enlace o fusión de rutas o servicios, no podrán repercutir en modificaciones tarifarias.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+En el caso de que el Sistema ordene o autorice enlace, fusión o transbordos de rutas concesionadas, el concesionario deberá garantizar el beneficio de la tarifa que corresponda.
 
 ###### ARTÍCULO 265.
 
@@ -3085,19 +3293,29 @@ El Sistema establecerá los mecanismos para el cobro de las tarifas, incorporand
 
 Las tarifas del servicio de transporte público de pasajeros, se aplicarán uniformemente a todos los usuarios, a excepción de los niños menores de tres años, quienes viajarán sin costo alguno.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 267.
 
-La tarifa preferencial del transporte colectivo de pasajeros será del cincuenta por ciento de la autorizada, y se aplicara a:
+Los estudiantes, personas con discapacidad y adultos mayores de sesenta años, tendrán derecho a la tarifa preferencial, salvo el caso de los adultos mayores, quienes podrán tener derecho a la tarifa preferencial con solo presentar su credencial emitida por la institución gubernamental que reconozca dicha calidad.
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 I.- Estudiantes que exhiban credencial vigente de alguna institución educativa que forme parte del Sistema Educativo Estatal;
 
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 II.- Personas mayores de sesenta años que exhiban credencial del Instituto Nacional de las Personas Adultas Mayores; y,
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 III.- Personas con discapacidad que exhiban credencial vigente expedida por Servicios Médicos Municipales.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 La tarifa preferencial a que se refiere este artículo, no será aplicable a familiares o acompañantes del beneficiario.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 Las personas con discapacidad visual que se desplacen acompañados de perros guías, tendrán acceso con estos a todos los servicios de transporte de pasajeros.
 
@@ -3159,21 +3377,7 @@ El sistema una vez recibida la solicitud, llevará una visita de verificación c
 
 ###### ARTÍCULO 276.
 
-Los operadores están obligados a proporcionar el servicio a toda persona que lo requiera, solo serán causas justificadas para negarlo, las siguientes:
-
-I.- Ser solicitado para transportar un número de personas superior al de las plazas autorizadas para el taxi.
-
-II.- Cuando cualquiera de los pasajeros se halle en estado de embriaguez manifiesta, o bajo el efecto de estupefacientes.
-
-III.- Cuando los usuarios que ocupen los lugares al frente de la unidad, pretendan viajar con niños de brazos, sentados sobre sus piernas.
-
-IV.- Cuando el atuendo de los viajeros y los bultos, equipaje o animales de los que sean portadores puedan, de forma manifiesta, ensuciar, deteriorar o causar daños al taxi.
-
-V.- Cuando las maletas, equipaje o bultos que lleven los pasajeros, rebasen la capacidad de la cajuela o portamaletas.
-
-VI.- Cuando se ejecuten o hagan ejecutar, a bordo del taxi, actos que atenten contra la tranquilidad, seguridad e integridad de los demás.
-
-VII.- En general, cuando se pretenda que el servicio se proporcione contraviniendo disposiciones legales o reglamentarias.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2018)
 
 ###### ARTÍCULO 277.
 
@@ -3683,21 +3887,33 @@ Los Inspectores que hubieren ordenado la remisión del vehículo al depósito ve
 
 Para la devolución de vehículos en los depósitos será indispensable la comprobación de su propiedad o legal posesión y que se haga el pago de los derechos que procedan y de las multas por infracciones cometidas con el vehículo.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 327.
 
-Al que contravenga las disposiciones del presente Reglamento, se le sancionará de acuerdo al grado de la falta cometida, en los términos siguientes:
+Al que contravenga las disposiciones del presente reglamento, se le sancionará con infracción de acuerdo al grado de la falta cometida, en los términos siguientes:
 
-A) Infracción Leve: Aquellas que comprenden multa de 1 a 5 veces la Unidad de Medida y Actualización aplicable en la entidad.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-B) Media: Aquellas que comprenden multa de 6 a 10 veces la Unidad de Medida y Actualización aplicable en la entidad.
+A) Leve: Aquellas que comprenden multas de 1 a 15 veces la Unidad de Medida y actualización aplicable en la entidad.
 
-C) Graves: Aquellas que comprenden multa de 11 a 500 veces la Unidad de Medida y Actualización aplicable en la entidad.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-El pago de la multa correspondiente, se realizará según el supuesto en que encuadre, de conformidad a la siguiente:
+B) Media: Aquellas que comprenden multas de 16 a 69 veces la Unidad de Medida y actualización aplicable en la entidad.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+C) Grave: Aquellas que comprenden multas de 70 a 500 veces la Unidad de Medida y actualización aplicable en la entidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+El pago de las multas correspondientes, se realizará según el supuesto en que encuadre, de conformidad a la siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 11 DE NOVIEMBRE DE 2016, PÁGINAS DE LA 42 A LA 48.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 16 DE NOVIEMBRE DE 2018, PÁGINAS DE LA 27 A LA 34.]</small>
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 Las demás sanciones previstas en el presente Reglamento y en el de Tránsito Municipal serán aplicadas a los vehículos del servicio público de transporte cuando sus operadores cometan la infracción de dichos ordenamientos.
 
@@ -3816,3 +4032,9 @@ P.O. 11 DE NOVIEMBRE DE 2016.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En tanto no se actualicen los sistemas de Recaudación Municipal para permitir el pago de multas conforme a la Unidad de Medida y Actualización, se seguirá utilizando como referencia para dicho fin, el salario mínimo general vigente en la entidad.
+
+P.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+ÚNICO: Para su correspondiente publicidad e inicio de vigencia, las reformas al Reglamento de Transporte Público para el Municipio de Mexicali, Baja California, deberán publicarse en el Periódico Oficial del Estado de Baja California, conforme a lo dispuesto en los artículos 18 segundo párrafo de la Ley del Régimen Municipal para el Estado de Baja California y 3 fracción IV, de la Ley del Periódico Oficial del Estado de Baja California.
