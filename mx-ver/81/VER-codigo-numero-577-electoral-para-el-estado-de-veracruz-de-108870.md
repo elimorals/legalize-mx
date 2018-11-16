@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2018-10-18"
+last_updated: "2018-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 9 DE OCTUBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 18 DE OCTUBRE DE 2018 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.O. DE 23 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 16 DE NOVIEMBRE DE 2018.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -1573,7 +1571,7 @@ VIII. Las demás que expresamente le señalen este Código y sus reglamentos.
 
 ### CAPÍTULO X. De la Contraloría General
 
-> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 114.
 
@@ -1857,13 +1855,21 @@ De la Dirección Ejecutiva del Servicio Profesional Electoral.
 
 ###### Artículo 124.
 
-La Contraloría General es el órgano del Instituto Electoral Veracruzano, con autonomía técnica y de gestión, responsable del análisis y evaluación de las actividades institucionales, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto. Para el estudio, planeación y despacho de los asuntos de su competencia, la Contraloría General contará con las siguientes áreas:
+La Contraloría General es el órgano del Instituto Electoral Veracruzano, con autonomía técnica y de gestión, que tendrá los recursos suficientes y necesarios, que deberán estar etiquetados dentro del presupuesto del Instituto, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción, responsable del análisis y evaluación de las actividades institucionales, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto. Para el estudio, planeación y despacho de los asuntos de su competencia, la Contraloría General contará con las siguientes áreas:
+
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2018)</small>
 
 I. Subcontraloría de Responsabilidades y Jurídico;
 
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2018)</small>
+
 II. Subcontraloría de Procedimientos Administrativos; y
 
+> <small>(REFORMADA, G.O. 9 DE OCTUBRE DE 2018)</small>
+
 III. Subcontraloría de Auditoría y Control Interno.
+
+> <small>(REFORMADO, G.O. 9 DE OCTUBRE DE 2018)</small>
 
 Contará, asimismo, con las demás áreas que sean necesarias para el correcto ejercicio de sus funciones, de conformidad con la disponibilidad presupuestal.
 
@@ -6038,3 +6044,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales siguientes al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 789 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO ELECTORAL, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
