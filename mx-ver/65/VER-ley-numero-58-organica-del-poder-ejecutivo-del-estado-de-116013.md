@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2018-01-19"
+last_updated: "2018-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -223,9 +223,9 @@ Al frente de cada dependencia habrá un titular que, para el despacho de los asu
 
 Cada dependencia contará, además, con una Unidad Administrativa o áreas subordinadas al titular de la misma, responsables de la planeación, presupuestación, programación, ejercicio y difusión de la información financiera, en términos de las disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-Asimismo contará con un Órgano Interno de Control, dependiente de la Contraloría General el cual, entre otras funciones, evaluará el desempeño de la dependencia.
+Asimismo contará con un Órgano Interno de Control, dependiente de la Contraloría General, que tendrá los recursos suficientes y necesarios, que deberán estar etiquetados dentro del presupuesto de la dependencia, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción, y el cual, entre otras funciones, evaluará el desempeño de la dependencia.
 
 > <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -1897,11 +1897,11 @@ XXIII. Las demás que la ley le señale o le asignen el Gobernador del Estado y 
 
 De la Contraloría General
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 33.
 
-La Contraloría General es la dependencia responsable de la función de control y evaluación de la gestión gubernamental y desarrollo administrativo, así como de la inspección y vigilancia de los ingresos, gastos, recursos y obligaciones de las dependencias y entidades de la administración pública estatal, durante el ejercicio presupuestal correspondiente.
+La Contraloría General es la dependencia responsable de la función de control y evaluación de la gestión gubernamental y desarrollo administrativo, así como de la inspección y vigilancia de los ingresos, gastos, recursos y obligaciones de las dependencias y entidades de la administración pública estatal, durante el ejercicio presupuestal correspondiente. Asimismo, contará con los recursos suficientes y necesarios, que deberán estar etiquetados dentro del presupuesto del Poder Ejecutivo, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción.
 
 ###### Artículo 34.
 
@@ -2045,7 +2045,9 @@ Los titulares de los órganos internos de control de las dependencias y entidade
 
 Los órganos internos de control de las entidades que cuenten con un régimen específico de control interno se sujetarán a la organización y funciones establecidas en las disposiciones mediante las que se crea la respectiva entidad, las cuales deberán ajustarse a los parámetros establecidos por el Comité Coordinador del Sistema Estatal Anticorrupción.
 
-Los órganos internos de control, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción entre otras afines a la materia, así como por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y la Contraloría General respecto de dichos asuntos, igualmente sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+Los órganos internos de control, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción entre otras afines a la materia, así como por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y la Contraloría General respecto de dichos asuntos, igualmente sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos. Para tales efectos, contarán con los recursos suficientes y necesarios, que deberán estar etiquetados dentro de los presupuestos respectivos, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción.
 
 Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación. Cuando se renueve el titular del Poder Ejecutivo, podrá formularse en enero del siguiente año.
 
@@ -2812,3 +2814,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La adecuación de los reglamentos internos que correspondan a las dependencias cuyas atribuciones hayan sido reformadas, se deberá efectuar en un término de treinta días a partir del inicio de vigencia del presente Decreto.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 789 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO ELECTORAL, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
