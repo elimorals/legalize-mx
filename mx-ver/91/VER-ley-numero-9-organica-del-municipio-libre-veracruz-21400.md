@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2018-10-03"
+last_updated: "2018-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1889,11 +1889,11 @@ X. Las demás que le otorguen esta ley y las leyes del Estado.
 
 #### SECCIÓN CUARTA. DE LA CONTRALORÍA
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 73 Quater.
 
-El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de esta Ley, establecerá un órgano de control interno autónomo, denominado Contraloría, con funciones de auditoría, control y evaluación; de desarrollo y modernización administrativa; y de sustanciación de los procedimientos de responsabilidad que correspondan en contra de servidores públicos del Ayuntamiento.
+El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI de esta Ley, establecerá un órgano de control interno autónomo, denominado Contraloría, con funciones de auditoría, control y evaluación; de desarrollo y modernización administrativa; y de sustanciación de los procedimientos de responsabilidad que correspondan en contra de servidores públicos del Ayuntamiento. Para tales efectos, contará con los recursos suficientes y necesarios, que deberán estar etiquetados dentro del presupuesto municipal, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción.
 
 > <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -4197,8 +4197,18 @@ Artículo segundo. Se deroga cualquier disposición que contravenga el presente 
 
 G.O. 3 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 712 QUE REFORMA EL ARTÍCULO 68 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 712 QUE REFORMA EL ARTÍCULO 68 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 789 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO ELECTORAL, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
