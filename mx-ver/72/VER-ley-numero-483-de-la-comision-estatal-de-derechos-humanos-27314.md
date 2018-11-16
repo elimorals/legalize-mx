@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-483-de-la-comision-estatal-de-derechos-humanos-27314
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-27"
-last_updated: "2018-10-09"
+last_updated: "2018-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 483 DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 27 de diciembre de 2002.
 
@@ -421,11 +421,11 @@ III. Subdirección de Normatividad, Auditoría y Control.
 
 Las Subdirecciones estarán bajo la responsabilidad del Contralor Interno y contarán con el personal que resulte necesario para el desarrollo de sus funciones; los servidores públicos de las mismas serán designados y removidos libremente por el Contralor Interno, con base en los requerimientos del servicio y a los criterios que aquél determine dentro del margen de la unidad presupuestal anual solicitada y asignada. Asimismo, el reglamento respectivo establecerá las atribuciones que correspondan a cada subdirección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 23.
 
-La Contraloría Interna, que contará con autonomía técnica y de gestión, tendrá las siguientes atribuciones:
+La Contraloría Interna, que contará con autonomía técnica y de gestión, así como con los recursos suficientes y necesarios, que deberán estar etiquetados dentro del presupuesto de la Comisión, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción, tendrá las siguientes atribuciones:
 
 I. Emitir las disposiciones, reglas, criterios, lineamientos, bases y políticas de carácter administrativo en el ejercicio de las atribuciones que conforme a la Ley competen a la Comisión;
 
@@ -660,3 +660,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Congreso del Estado, el Organismo Público Local Electoral y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales siguientes al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 789 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO ELECTORAL, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
