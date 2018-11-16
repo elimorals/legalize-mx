@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2017-11-17"
+last_updated: "2018-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -87,9 +87,17 @@ XVII. Reglamento: El Reglamento de esta Ley;
 
 XVIII. Secretaría: La Secretaría de Economía y Trabajo;
 
-XIX. Sector Público: Dependencias y entidades de la Administración Pública de la Federación, Estado y Municipios de Nuevo León; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
 
-XX. Sectores: Los sectores privado y social.
+XIX. Sector Público: Dependencias y entidades de la Administración Pública de la Federación, Estado y Municipios de Nuevo León;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XX. Sectores: Los sectores privado y social; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Empresa emergente ó Startup: a la empresa de nueva creación que comercializa productos y/o servicios generalmente a través del uso intensivo de las tecnologías de la información y la comunicación, con un modelo de negocio escalable el cual le permite un crecimiento rápido y sostenido en el tiempo.
 
 ###### Artículo 4.
 
@@ -253,7 +261,9 @@ III. Promover, capacitar y difundir los programas, instrumentos, productos, herr
 
 IV. Fomentar el acceso al financiamiento de las MIPYMES;
 
-V. Fomentar la constitución de incubadoras de empresas y formación de emprendedores, mediante la implementación de programas dirigidos a mujeres jefas de familia y jóvenes;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2018)</small>
+
+V. Facilitar y fomentar la constitución de incubadoras de empresas, empresas emergentes ó startups y formación de emprendedores, mediante la implementación de programas de apoyo dirigidos a mujeres jefas de familia y jóvenes;
 
 VI. Facilitar y fomentar la integración de las MIPYMES a las cadenas globales de valor;
 
@@ -442,3 +452,11 @@ FERNANDO TURNER DÁVILA
 LA C. CONTRALORA GENERAL DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 NORA ELIA CANTÚ SUÁREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 016. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES XIX, XX Y ADICIÓN DE UNA FRACCIÓN XXI DEL ARTÍCULO 3, ASÍ COMO POR MODIFICACIÓN DE LA FRACCIÓN V DEL ARTÍCULO 15, AMBOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
