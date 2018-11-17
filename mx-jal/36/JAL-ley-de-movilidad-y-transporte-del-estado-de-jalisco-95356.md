@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2018-09-25"
+last_updated: "2018-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -1235,7 +1235,9 @@ II. Demostrar aptitud física y mental para conducir; salvo lo establecido en el
 
 III. Sustentar y aprobar el examen pericial de manejo, con las condiciones y modalidades que señale el reglamento de esta ley, conforme al tipo de vehículo y las actividades o servicios a realizar;
 
-IV. Acreditar, con la documentación correspondiente, la identidad del solicitante, su domicilio y tipo de sangre; así como realizar, dentro de la Dirección encargada de la Secretaría, el procedimiento necesario, para que la licencia que se expida, contenga los datos que identifiquen a su portador;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+IV. Acreditar, con la documentación correspondiente, la identidad del solicitante, su domicilio, tipo de sangre y manifestar si se padece alergia farmacológica; así como realizar, dentro de la Dirección encargada de la Secretaría, el procedimiento necesario, para que la licencia que se expida, contenga los datos que identifiquen a su portador;
 
 V. Sustentar y aprobar examen respecto al conocimiento de las disposiciones reglamentarias en materia de movilidad y transporte;
 
@@ -4027,8 +4029,14 @@ Tercero. La Secretaría y los municipios, dentro de los 180 días hábiles sigui
 
 P.O. 25 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 26935/LXI/18 QUE REFORMA EL ARTÍCULO 8° DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26935/LXI/18 QUE REFORMA EL ARTÍCULO 8° DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
-PRIMERO. El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el periódico oficial "El Estado de Jalisco".
+PRIMERO. El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el periódico oficial "El Estado de Jalisco”.
 
 SEGUNDO. El Poder Ejecutivo del Estado deberá adecuar las disposiciones administrativas y reglamentarias necesarias para dar cumplimiento al presente decreto dentro de los noventa días siguientes al de su publicación.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27056/LXI/18 QUE REFORMA EL ARTÍCULO 57 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
