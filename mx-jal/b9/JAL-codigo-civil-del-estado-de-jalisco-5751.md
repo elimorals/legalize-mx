@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2018-09-13"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2411,9 +2411,11 @@ Produce ilicitud en el matrimonio:
 
 I. El matrimonio celebrado en contravención a lo dispuesto en los artículos relativos a las actas de matrimonio de la Ley del Registro Civil del Estado;
 
+(NOTA: EL 18 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DE LA PORCIÓN NORMATIVA “Y 420” DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
-II. El matrimonio celebrado, sin que hayan transcurrido los términos fijados en los artículos 271 y 420; y
+II. El matrimonio celebrado, sin que hayan transcurrido los términos fijados en los artículos 271 Y 420; y
 
 III. Cuando se contrajo, estando pendiente la decisión de un impedimento que sea susceptible de dispensa.
 
@@ -2483,69 +2485,19 @@ Si al declararse la ilegitimidad, la mujer está embarazada, se tomarán las pre
 
 El divorcio disuelve el vínculo matrimonial y deja a los que fueron cónyuges en aptitud de contraer otro.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### Art. 404.
 
 Son causas de divorcio:
 
-I. La infidelidad sexual;
+I. El mutuo consentimiento, o
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
-
-II. El hecho de que alguno de los cónyuges tenga un hijo, durante el matrimonio, concebido antes de celebrarse éste, con persona diversa a su consorte. Para que proceda la acción en el caso de la mujer es necesario que lo anterior sea declarado judicialmente; y tratándose del cónyuge varón se requiere que este sea condenado en juicio de reconocimiento de paternidad;
-
-III. La propuesta de un cónyuge para prostituir a su consorte, sea que lo haya hecho directamente o consienta en ello por cualquier causa;
-
-IV. La incitación o la violencia hecha por un cónyuge al otro, para cometer algún delito;
-
-V. Los actos inmorales ejecutados por el marido o la mujer con el fin de corromper a los hijos, tanto los de matrimonio como los de uno solo de los cónyuges, así como la tolerancia en su corrupción. La tolerancia debe ser de actos positivos y no por omisión;
-
-VI. Padecer alguna enfermedad crónica o incurable que sea además contagiosa o hereditaria, que ponga en peligro la vida del otro cónyuge y que se prolongue por más de dos años;
-
-VII. Padecer enajenación psíquica incurable declarada judicialmente;
-
-VIII. La separación del hogar conyugal por más de seis meses, sin causa justificada;
-
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
-
-IX. La separación del hogar conyugal por mas de un año sin el consentimiento del otro consorte;
-
-El plazo señalado en esta fracción empezará a contar a partir de la interpelación judicial o extrajudicial ante notario, que se haga al cónyuge separado para su reintegración al hogar conyugal;
-
-X. La declaración de ausencia legalmente hecha o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que proceda la declaración de ausencia;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2007)</small>
-
-XI. La violencia intrafamiliar, entendida ésta como el maltrato físico o psicológico que infiera un cónyuge a otro o contra sus descendientes, con la intención de dañar, humillar o despreciar al ofendido;
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 21945/LVIII/07, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2007, SE DEROGA LA FRACCIÓN XII, RECORRIÉNDOSE LAS DEMÁS EN SU ORDEN.</small>
-
-XII. La incompatibilidad de caracteres que haga imposible la vida conyugal, que sólo podrá invocarse después de pasado un año de celebrado el matrimonio;
-
-XIII. La negativa injustificada a dar alimentos al otro cónyuge y a los hijos, sin necesidad de que exista requerimiento ni sentencia judicial relativa a la reclamación de los mismos;
-
-XIV. La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XV. Haber cometido uno de los cónyuges un delito que no sea político y que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XVI. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, con fines no terapéuticos, cuando amenacen causar la ruina de la familia o constituyan un continuo motivo de desavenencia conyugal;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-XVII. Cometer un cónyuge contra la otra persona o los bienes del otro, un delito declarado por sentencia ejecutoria, o bien, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la Ley una pena que exceda de un año de prisión;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-XVIII. El mutuo consentimiento, y
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-XIX. La separación ininterrumpida de los cónyuges por más de dos años, sin causa justificada, cuyo lapso empieza a correr al momento mismo de la separación.
-
-Esta causal podrá ser invocada por cualquiera de los cónyuges, si transcurridos dos años de separados, quien teniendo el derecho de acción para invocar el divorcio por las causales previstas en las fracciones VIII y IX de este mismo artículo no lo ha hecho.
+II. La solicitud por cualquiera de los cónyuges sin necesidad de atender a un motivo.
 
 ###### Art. 405.
 
-Cuando un cónyuge demande el divorcio o la ilegitimidad del matrimonio por causas que no justifique o que hayan resultado insuficientes, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la sentencia que cause estado o de la resolución que decrete la caducidad de la instancia. Durante esos tres meses, los cónyuges no están obligados a vivir juntos.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE FEBRERO DE 2016)</small>
 
@@ -2635,21 +2587,27 @@ En los casos en que exista violencia o peligro para los integrantes de la famili
 
 Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiese sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasados tres meses a partir del último ocurso presentado al juzgado que conoció de la solicitud del divorcio.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### Art. 409.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 404, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con su consorte; y el juez, con conocimiento de causa, podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+El cónyuge que no quiera pedir el divorcio podrá solicitar que se suspenda su obligación de cohabitar con su consorte cuando se presente alguna de las siguientes circunstancias:
+
+I. Cuando alguno de los cónyuges padezca una enfermedad que sea crónica o incurable, contagiosa o hereditaria, ponga en peligro la vida del otro cónyuge y se prolongue por más de dos años; o
+
+II. Cuando padezca enajenación psíquica incurable declarada judicialmente.
+
+El juez, con conocimiento de causa, podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 410.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él y dentro de los seis meses siguientes al día en que hayan llegado a su conocimiento los hechos en que se funde la demanda, salvo que se funde en causales de tracto sucesivo.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-Tratándose de las causales previstas en las fracciones VII, XII y XIX del artículo 404, el divorcio podrá ser demandado por cualquiera de los cónyuges.
+El divorcio puede ser solicitado por cualquiera de los dos cónyuges en el momento que lo crean necesario.
 
 ###### Art. 411.
 
-Ninguna de las causas enumeradas en el artículo 404 puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2018)
 
 ###### Art. 412.
 
@@ -2657,7 +2615,7 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 ###### Art. 413.
 
-El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, desistirse de la acción de divorcio y exhortar al otro a reunirse con él; en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2018)
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -2739,7 +2697,7 @@ Antes de que se provea definitivamente sobre la patria potestad o tutela de los 
 
 ###### Art. 417.
 
-El cónyuge que diere causa al divorcio, perderá todo lo que se le hubiese dado o prometido por su consorte o por otra persona en consideración a éste, recuperando el donante los bienes donados; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2013)</small>
 
@@ -2753,19 +2711,21 @@ En el caso del párrafo anterior y una vez llevada a cabo la liquidación, los c
 
 Ejecutoriado el divorcio se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar el cumplimiento de las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos hasta que lleguen a la mayor edad o contraigan matrimonio.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### Art. 419.
 
-En los casos de divorcio, el cónyuge inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente; sin embargo, para su fijación, se deberán tomar siempre en cuenta las circunstancias del caso, así como la proporción en la posibilidad del que debe darlos y la necesidad del que debe recibirlos. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+En los casos de divorcio, el cónyuge que se crea con derechos a reclamar alimentos para sí, independientemente del divorcio, tendrá que solicitarlo ante autoridad competente en los términos de ley; sin embargo, para su fijación, se deberán tomar siempre en cuenta las circunstancias del caso, así como la proporción en la posibilidad del que debe darlos y la necesidad del que debe recibirlos.
 
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia ni a la indemnización que concede este artículo.
+En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia.
+
+(NOTA: EL 18 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 420.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
-
-El cónyuge que haya dado causa al divorcio no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio.
-
-Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio, SIENDO INDISPENSABLE QUE HAYA TRANSCURRIDO UN AÑO DESDE QUE OBTUVIERON EL DIVORCIO.
 
 ###### Art. 421.
 
@@ -6131,7 +6091,7 @@ No tiene derecho a los frutos naturales y civiles que produzca el bien que posee
 
 ###### Art. 864.
 
-La persona que haya adquirido la posesión por algún hecho delictuoso, está obligado (sic) a restituir todos los frutos que haya producido el bien y los que haya dejado de producir por omisión culpable.
+La persona que haya adquirido la posesión por algún hecho delictuoso, está obligado a restituir todos los frutos que haya producido el bien y los que haya dejado de producir por omisión culpable.
 
 Tiene también la obligación de responder de la pérdida o deterioro del bien sobrevenidos por su culpa, o en caso fortuito o fuerza mayor; a no ser que se pruebe que éstos se habrían causado aunque el bien hubiere estado poseído por su dueño. No responderá de la pérdida que sea sobrevenida natural e inevitablemente por el transcurso del tiempo.
 
@@ -19234,3 +19194,9 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26862/LXI/18 QUE REFORMA LOS ARTÍCULOS 393 Y 466 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. TRANSITORO DEL "DECRETO NÚMERO 27057/LXI/18 QUE REFORMAN LOS ARTÍCULOS 404, 409, 410, 419 Y 420 Y DEROGA LOS ARTÍCULOS 405, 411, 413 Y 417 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
