@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2018-09-13"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -87,7 +87,9 @@ XV. Método Alternativo: El Trámite Convencional y Voluntario, que permite prev
 
 XVI. Negociación: El ejercicio metódico de comunicación desarrollado por las partes, por si o a través de un legítimo representante, para obtener de la otra su consentimiento para el arreglo del conflicto;
 
-XVII. Parte o participante: Las personas en conflicto que deciden someter la desavenencia existente entre ellas a un método alternativo; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Parte o participante: Personas que participan en los métodos alternos, en su calidad de solicitante e invitado, o sus apoderados, con el objeto de intentar resolver un conflicto; y
 
 XVIII. Prestador del servicio: Se considera al mediador, conciliador o árbitro que interviene en el procedimiento de los medios alternos de justicia previstos en esta ley.
 
@@ -729,9 +731,11 @@ Las partes podrán elegir la sede regional del Instituto o centro que mejor conv
 
 El procedimiento en materia de medios de justicia alternativa es autónomo aunque el convenio que derive de un expediente pueda incidir en otro asunto.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-El procedimiento podrá iniciarse a petición de parte interesada, de su representante legal a propuesta del Ministerio Público o por remisión de autoridad judicial, subsistiendo en todo caso la voluntad de las partes en términos de esta Ley.
+El procedimiento podrá iniciarse a petición de parte interesada, de su representante legal, a propuesta del Ministerio Público o por remisión de autoridad judicial, subsistiendo la permanencia en los métodos alternos conforme a la voluntad de las partes en términos de esta Ley.
 
 ###### Artículo 44.
 
@@ -765,6 +769,8 @@ El prestador del servicio está obligado a dar por terminado un procedimiento de
 
 Una vez estudiada la solicitud de servicios de alguno de los medios de justicia alternativa, se determinará la viabilidad del más adecuado para la solución de la situación planteada, de ser procedente, se le notificará por escrito esta determinación al solicitante y, en su caso, se invitará a los demás interesados a la entrevista inicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 50.
 
 La invitación a la parte complementaria deberá contener los siguientes datos:
@@ -789,13 +795,17 @@ IV. Indicación del día, hora y lugar de celebración de la entrevista inicial;
 
 V. Nombre de la persona que solicitó el servicio;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-VI. Nombre del prestador con el que deberá tener contacto el invitado para confirmar su asistencia, o bien, señalar nueva fecha, y
+VI. El apercibimiento en el que se haga saber a la parte complementaria que en caso de no acudir a la invitación a la entrevista inicial sin causa justificada, se estará a lo previsto en el artículo 53 de esta ley;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-VII. Nombre y firma del director del Centro o sede regional.
+VII. Nombre del prestador con el que deberá tener contacto el invitado a la entrevista inicial, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Nombre y firma del director del Centro o sede regional.
 
 ###### Artículo 51.
 
@@ -811,9 +821,15 @@ De presentarse algún inconveniente en la entrega de la invitación en los térm
 
 En caso de que la invitación sea recibida por un familiar, vecino o compañero de trabajo de la persona invitada, se asentará constancia de esta circunstancia para ser anexada al legajo correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 53.
 
-Cuando la parte invitada no concurra a la entrevista inicial se podrá girar otra invitación a petición expresa de la parte interesada y si no acude de nuevo a la segunda invitación se archivará la solicitud, sin perjuicio de que lo soliciten posteriormente de común acuerdo.
+Cuando alguna de las partes no concurra a la entrevista inicial, se podrá girar otra invitación a petición expresa de la parte que si asistió; si alguno de los participantes, o ambos, no acude por segunda ocasión a la invitación sin causa justificada, se le impondrá una multa equivalente de cinco a sesenta veces el valor diario de la Unidad de Medida y Actualización, salvo que manifieste por escrito su voluntad de no someterse a los métodos alternos, y se archivará la solicitud, sin perjuicio de que lo soliciten posteriormente de común acuerdo. Si ninguna de las partes asiste a la primera cita sin causa justificada, la solicitud se archivará sin mayor trámite.
+
+Para los efectos de lo establecido en el párrafo anterior, los centros públicos y privados que presten servicios en métodos alternos, en su caso, deberán informar por escrito al Instituto de Justicia Alternativa la inasistencia por segunda ocasión a la invitación de cualquiera de los participantes, para que por su conducto se imponga la multa correspondiente o la inasistencia de ambos a la primera cita sin causa justificada, con el objeto de proceder a su archivo inmediato.
+
+La multa a que se refiere este artículo, se hará efectiva conforme a lo previsto por el artículo 89 de la presente ley.
 
 ###### Artículo 54.
 
@@ -1344,3 +1360,9 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26950/LXI/18 QUE REFORMA LOS ARTÍCULOS 3, 43, 50 Y 53 DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO".]
+
+Único. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “EI Estado de Jalisco”.
