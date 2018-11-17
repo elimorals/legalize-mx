@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2018-01-11"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -6413,8 +6413,24 @@ P.O. 11 DE ENERO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 26719/LXI/17 QUE MODIFICA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO URBANO Y DE LA LEY DE COORDINACIÓN METROPOLITANA, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
-PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-SEGUNDO. En un plazo no mayor a ciento ochenta días a partir de la entrada en vigor del presente decreto deberán modificarse los Estatutos Orgánicos, convenios, y demás disposiciones de las Instancias de Coordinación Metropolitana a que se refiere este decreto.
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-TERCERO. Las disposiciones señaladas en el párrafo sexto del artículo 176, serán aplicables a las obras urbanísticas que se realicen con posterioridad a la entrada en vigor del presente decreto.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+SEGUNDO. En un plazo no mayor a seis meses a partir de la entrada en vigor del presente decreto deberán modificarse los Estatutos Orgánicos, convenios, y demás disposiciones de las Instancias de Coordinación Metropolitana a que se refiere este decreto.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+TERCERO. Las obras urbanísticas que hayan sido autorizadas conforme al artículo 176 del Código Urbano del Estado de Jalisco, previo a la entrada en vigor del presente decreto, se seguirán rigiendo por las disposiciones bajo las cuales fueron autorizadas en su momento.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+CUARTO. Los procesos de elaboración y actualización de los programas y planes de ordenamiento territorial y desarrollo urbano, que hubiesen iniciado previo a la entrada en vigor del presente decreto, continuarán con su elaboración y actualización hasta su conclusión conforme a las disposiciones bajo las cuales fueron autorizadas en su momento. Posteriormente, dichos programas y planes, se regirán bajo las disposiciones aprobadas en el presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27059/LXI/18 QUE ADICIONA LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIO AL DIVERSO NÚMERO 26719/ LXI/17 QUE CONTIENE REFORMAS Y ADICIONALES AL CÓDIGO URBANO Y A LA LEY DE COORDINACIÓN METROPOLITANA, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
