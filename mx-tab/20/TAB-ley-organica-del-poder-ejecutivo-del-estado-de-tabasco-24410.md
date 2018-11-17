@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2018-05-30"
+last_updated: "2018-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABRAGADO.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -539,9 +541,7 @@ XVII. Participar, con las Dependencias, Entidades y Sectores involucrados en la 
 
 XVIII. Vigilar que se cumplan las normas existentes en materia de seguridad e higiene en el trabajo, verificar que en los centros de trabajo se cumpla con las condiciones que establece la Ley Federal del Trabajo y las normas que de ellas se deriven; así como participar en la formulación y ejecución del Programa Estatal de Empleo, Capacitación y Formación para el trabajo, en coordinación con las dependencias involucradas en la materia;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
-
-XIX. Coordinar, operar e impulsar la mejora continua del sistema de información, reportes y registros de datos en materia de criminalidad; desarrollar las políticas, normas y sistemas para el debido suministro permanente e intercambio de información en temas de seguridad pública entre las autoridades competentes; y establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención social de la violencia y la delincuencia, mediante métodos que garanticen el estricto respeto de los derechos humanos;
+XIX. (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -2053,7 +2053,7 @@ DÉCIMO. Se derogan todas las disposiciones jurídicas que se opongan al present
 
 P.O. 6 DE MAYO DE 2010.
 
-DECRETO NO. 015, POR EL QUE SE REFORMA EL ARTÍCULO 36 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO.
+DECRETO No. 015, POR EL QUE SE REFORMA EL ARTÍCULO 36 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2318,3 +2318,15 @@ P.O. 30 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 008 POR EL QUE "SE DEROGA LA FRACCIÓN XIX, DEL ARTÍCULO 27, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El Gobernador deberá efectuar las respectivas reformas, adiciones y derogaciones al Acuerdo por el que se crea el Centro Estatal de Prevención Social del Delito y Participación Ciudadana, en un término no mayor a cuarenta y cinco días hábiles a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Realícense los trámites administrativos y presupuestales necesarios, para que se establezca formal, material y operativamente el debido funcionamiento del Centro de Mando y Comunicaciones; y del Centro Estatal de Prevención Social del Delito y Participación Ciudadana, como órgano desconcentrado dependiente de la Secretaría de Seguridad Pública, en un plazo que no exceda de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.
