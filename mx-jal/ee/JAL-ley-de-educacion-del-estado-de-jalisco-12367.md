@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2018-09-25"
+last_updated: "2018-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -119,11 +119,11 @@ II.- Fomentar la adquisición de conocimientos científicos y culturales, el des
 
 III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el conocimiento y aprecio por la historia, el amor y respeto a los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país, especialmente, las del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 IV.- Promover mediante la enseñanza el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas.
 
-Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria en su propia lengua y español;
+El Estado procurará que las personas indígenas, tengan acceso a la educación obligatoria, bilingüe e intercultural;
 
 V.- Infundir el conocimiento y la práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones para el mejoramiento de la sociedad;
 
@@ -415,9 +415,9 @@ VI.- Convocar a reuniones para estudiar los problemas educativos de la Entidad, 
 
 VII.- Proponer a la autoridad educativa federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación preescolar, primaria, secundaria, la normal y otras para la formación de educadores de preescolar, primaria y secundaria;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-VIII.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación preescolar, primaria, la secundaria, la normal y demás para la formación de educadores de preescolar, primaria y secundaria, con respecto al calendario fijado por la Secretaría de Educación Pública, a efecto de que se cumpla con los 200 días de clase anual. En su ámbito de competencia revisará permanentemente las disposiciones, trámites y procedimientos con objeto de simplificarlos, reduciendo las cargas administrativas de maestros y directivos para alcanzar mayor tiempo efectivo de clase en cada ciclo;
+VIII.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación preescolar, primaria, la secundaria, la normal y demás para la formación de educadores de preescolar, primaria y secundaria, con respecto al calendario fijado por la Secretaría de Educación Pública. En su ámbito de competencia revisará permanentemente las disposiciones, trámites y procedimientos con objeto de simplificarlos, reduciendo las cargas administrativas de maestros y directivos para alcanzar mayor tiempo efectivo de clase en cada ciclo;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2003)</small>
 
@@ -913,9 +913,11 @@ Todos los estudios relacionados con la formación para el trabajo serán adicion
 
 Podrán celebrarse convenios para que este tipo de servicios sea impartido por las autoridades estatales y municipales, instituciones privadas, las organizaciones sindicales, los empleados y por particulares.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 45.
 
-La educación en las comunidades indígenas estará inspirada en los intereses y características afectivas, psicológicas, culturales del niño y en las necesidades del grupo social, buscando incorporarlos a los valores culturales de la identidad nacional.
+La educación en las comunidades indígenas estará inspirada en los intereses y características afectivas, psicológicas, culturales del niño y en las necesidades del grupo social, buscando incorporarlos a los valores culturales propios de la comunidad y los de la identidad nacional.
 
 ###### ARTICULO 46.
 
@@ -923,9 +925,9 @@ Las finalidades de la educación indígena son:
 
 I.- Contribuir a la consolidación de su identidad étnica y nacional;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-II.- Garantizar el derecho a la educación, respetando su personalidad y su cultura, capacitándolo para que pueda ser factor decisivo en la construcción de su conocimiento;
+II.- Garantizar el derecho a la educación, respetando su personalidad y su cultura;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -933,9 +935,11 @@ III.- Ofrecer capacitación para el trabajo;
 
 IV.- Fomentar el interés en el educando para que continúe estudiando en otros niveles educativos;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-V.- Promover la enseñanza del español como lengua nacional común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de su lengua indígena;
+V.- Garantizar que la educación obligatoriasea (sic) bilingüe e intercultural.
+
+Se entenderá por educación intercultural como aquella que reconozca y atienda a la diversidad cultural y lingüística que promueva el respeto a las diferencias, que procure la formación de la unidad nacional, a partir de favorecer el fortalecimiento de la identidad local, regional y nacional, así como el desarrollo de las actividades y prácticas que atiendan a la libertad y justicia para todos.
 
 VI.- Estimular el interés por preservar el equilibrio ecológico;
 
@@ -943,9 +947,11 @@ VII.- Fomentar las actividades culturales tradicionales, y
 
 VIII.- Estimular en el educando la expresión artística.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 47.
 
-El Ejecutivo del Estado propondrá a la Secretaría de Educación Pública, planes, programas de estudio y libros de texto gratuitos para la educación indígena.
+El Ejecutivo del Estado propondrá a la Secretaría de Educación Pública, planes, programas de estudio y libros de texto gratuitos para la educación indígena, enfocados en la educación intercultural.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1321,9 +1327,11 @@ DEL CALENDARIO ESCOLAR.
 
 La Secretaría de Educación Pública determinará el calendario escolar para cada ciclo, en la educación inicial, los niveles de preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 87.
 
-El calendario escolar es el documento que contiene los días hábiles e inhábiles para la prestación de los servicios educativos necesarios para cubrir los planes y programas de estudios señalados por la autoridad competente, y que comprenderá 200 días hábiles de clases para los educandos. La Secretaría de Educación del Estado efectuará los ajustes al calendario señalado por la Secretaría de Educación Pública, cuando sean necesarios para los requerimientos específicos del Estado. Los docentes serán debidamente remunerados si la modificación al calendario escolar implica más días de clase para los educandos, de los determinados por la Secretaría de Educación Pública, de conformidad con el artículo 51 de la Ley General de Educación.
+El calendario escolar es el documento que contiene los días hábiles e inhábiles para la prestación de los servicios educativos necesarios para cubrir los planes y programas de estudios señalados por la autoridad competente, deberá contener un mínimo de 185 y un máximo de 200 días hábiles de clases para los educandos. La Secretaría de Educación del Estado efectuará los ajustes al calendario señalado por la Secretaría de Educación Pública, cuando sean necesarios para los requerimientos específicos del Estado. Los docentes serán debidamente remunerados si la modificación al calendario escolar implica más días de dase (sic) para los educandos, de los determinados por la Secretaría de Educación Pública, de conformidad con el artículo 51 de la Ley General de Educación.
 
 ###### ARTICULO 88.
 
@@ -3996,3 +4004,25 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 26855/LXI/18 QUE REFORMA LOS ARTÍCULOS 7, 176 FRACCIONES I, III, IV, VI, Y VII, Y 179 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26948/LXI/18 QUE REFORMA LOS ARTÍCULOS 14 Y 87 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrara en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 27058/LXI/18 QUE REFORMA LOS ARTÍCULOS 7, 45, 46 Y 47 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO".]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor para el siguiente ciclo escolar, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Educación Jalisco, deberá realizar los ajustes a los programas y planes educativos en el ámbito de su competencia, en los términos del presente decreto.
+
+###### ARTICULO TERCERO.
+
+Se autoriza a la Secretaría de Planeación, Administración y Finanzas para que realice las transferencias entre partidas presupuestales, para dar cumplimiento al presente decreto.
