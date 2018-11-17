@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-control-de-confianza-del-estado-de-jalisco-y-sus-88676"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2017-07-01"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -207,7 +207,9 @@ En el caso de los SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN DE JUSTICIA Y defen
 
 ###### Artículo 14.
 
-1. La evaluación de control de confianza se aplicará, cuando menos, cada dos años y se realizará con el apoyo de las unidades administrativas, órganos y organismos competentes.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+1. La evaluación de control de confianza se aplicará, cuando menos, cada tres años y se realizará con el apoyo de las unidades administrativas, órganos y organismos competentes.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
@@ -222,6 +224,14 @@ En el caso de los mandos operativos y sus elementos de las instituciones de segu
 2. Cuando el resultado de no apto sea en el examen médico a consecuencia de la función que viene desempeñando, se buscará en primer lugar la reubicación del servidor público, y si no fuera posible, se dictaminará la incapacidad parcial o permanente de conformidad con las leyes aplicables.
 
 3. Para el caso de las instituciones policiales, cuando sus integrantes hayan alcanzado la edad límite para la permanencia de conformidad con las disposiciones aplicables, se procederá de acuerdo con la Ley del Sistema de Seguridad Pública para el Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 15 Bis.
+
+1. Aquel elemento que desee ser reevaluado, dicho proceso de reevaluación deberá solicitarlo por conducto del titular de la institución estatal al Centro Estatal de Evaluación y Control de Confianza, quien deberá resolver sobre la procedencia de la solicitud previo análisis de factores de riesgo emitidos por el Centro Nacional de Control y Acreditación.
+
+2. De resultar improcedente la aplicación del proceso de reevaluación de inmediato deberá ordenarse la apertura del procedimiento administrativo de separación, en estricto apego a las formalidades esenciales del procedimiento, así como las garantías de audiencia y defensa y la protección a los derechos humanos.
 
 ###### Artículo 16.
 
@@ -384,3 +394,9 @@ P.O. 1 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26375/LXI/17 QUE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, LA LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27039/LXI/18 QUE REFORMA EL ARTÍCULO 14 Y SE ADICIONA EL ARTÍCULO 15 BIS A LA LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
