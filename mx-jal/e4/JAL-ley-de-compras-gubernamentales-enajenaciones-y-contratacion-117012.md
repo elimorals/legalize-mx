@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2017-08-08"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -127,7 +127,7 @@ IV. El arrendamiento de bienes muebles e inmuebles;
 
 V. La contratación de los servicios, relacionados con bienes muebles que se encuentran incorporados o adheridos a bienes inmuebles, cuya instalación o mantenimiento no implique modificación al bien inmueble;
 
-VI La contratación de los servicios de mantenimiento de bienes muebles e inmuebles y la remodelación, adecuación o mantenimiento de inmuebles, siempre y cuando el servicio pretendido no se considere como obra pública de acuerdo con la legislación correspondiente;
+VI. La contratación de los servicios de mantenimiento de bienes muebles e inmuebles y la remodelación, adecuación o mantenimiento de inmuebles, siempre y cuando el servicio pretendido no se considere como obra pública de acuerdo con la legislación correspondiente;
 
 VII. La contratación de los servicios de maquila, seguros y transportación, así como de los de limpieza y vigilancia de bienes inmuebles;
 
@@ -572,6 +572,10 @@ IX. Las demás que le encomienden otras normas o le asigne el Presidente del Com
 2. En los comités invariablemente deberá ser invitada la representación empresarial del área o naturaleza de la adquisición.
 
 3. Se podrá exceptuar la participación de los invitados en aquéllos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad pública en los términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+4. Cuando se trate de adquisición de patrimonio artístico los comités de los entes públicos solicitarán la opinión del Consejo Estatal para la Cultura y las Artes, quien emitirá una ficha técnica sobre la pertinencia de la compra de obra artística.
 
 ### CAPÍTULO V. UNIDADES CENTRALIZADAS DE COMPRAS
 
@@ -1756,3 +1760,11 @@ P.O. 8 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26417/LXI/17, QUE REFORMA EL ARTÍCULO 49 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26951/LXI/18, QUE ADICIONA EL NUMERAL 4 AL ARTÍCULO 33 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado contará con el término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, para reformar el reglamento de la presente ley.
