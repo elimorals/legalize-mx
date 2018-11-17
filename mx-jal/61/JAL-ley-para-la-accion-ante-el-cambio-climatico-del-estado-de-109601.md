@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-accion-ante-el-cambio-climatico-del-estado-de-10960
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2017-08-03"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 27 de agosto de 2015.
 
@@ -949,13 +949,21 @@ VI. El representante de la mesa de trabajo en materia de cambio climático que s
 
 A estos efectos, las atribuciones de dicho Consejo en materia de protección del medio ambiente y desarrollo sustentable se entenderán también referidas a aspectos relativos al cambio climático.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-VII. Un representante del Poder Legislativo, que será el diputado Presidente de la Comisión de Medio Ambiente y Desarrollo Sustentable o el vocal que designe la propia comisión; y
+VII. Un representante del Poder Legislativo, que será el diputado Presidente del (sic) la Comisión de Medio Ambiente y Desarrollo Sustentable o el vocal que designe la propia comisión;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Un representante de cada grupo de trabajo que se cree al seno de la Comisión, a través de su coordinador y conforme a lo establecido en esta Ley y en el reglamento interno de la Comisión.
+VIII. Un representante de cada grupo de trabajo que se cree al seno de la Comisión a través de su coordinador y conforme a lo establecido en esta Ley y en el reglamento interno de la Comisión; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+IX. Un Comité Científico de Cambio Climático, integrado por un representante de cada institución educativas (sic) que tenga experiencia en materias relacionadas con el cambio climático.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+El Comité Científico de Cambio Climático a que se refiere la fracción IX, se integrará y funcionará de acuerdo a las disposiciones reglamentarias.
 
 ###### Artículo 42.
 
@@ -2140,3 +2148,9 @@ P.O. 3 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26410/LXI/17 QUE REFORMA LOS ARTÍCULOS 1°, 13, 25, 26, 31, 33, 39, 41, 47, 59, 61, 63, 72, 74, 75, 82, 99 Y 123 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO."]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de (sic) publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26952/LXI/18 QUE REFORMA EL ARTÍCULO 41 DE LA LEY DE ACCIÓN PARA EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
