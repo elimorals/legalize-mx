@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2018-08-02"
+last_updated: "2018-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -523,7 +523,9 @@ XIV. Promover y fomentar la investigación científica y desarrollo tecnológico
 
 XV. Garantizar la accesibilidad y la movilidad personal de los adultos mayores adoptando de manera progresiva medidas pertinentes para asegurar su acceso y desplazamiento, en igualdad de condiciones, en el entorno físico y en otros servicios e instalaciones abiertos al público o de uso público.
 
-### CAPÍTULO II. DE LA SECRETARÍA DE DESARROLLO HUMANO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO II. DE LA SECRETARÍA DE DESARROLLO E INTEGRACIÓN SOCIAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -649,7 +651,9 @@ I. Formular y aplicar programas específicos para la inclusión de los adultos m
 
 II. Promover la participación de los adultos mayores en la formulación y revisión del Programa Estatal de Desarrollo Rural.
 
-### CAPÍTULO IX. DE LA SECRETARÍA DE PROMOCIÓN ECONÓMICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO IX. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -661,7 +665,7 @@ I. Promover y difundir la participación de los sectores social y privado del es
 
 II. Promover, impulsar y difundir la celebración de convenios con la iniciativa privada a fin de que se dé atención preferencial a las personas adultas mayores.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 ### CAPÍTULO X. DE LA SECRETARÍA DE MOVILIDAD
 
@@ -677,7 +681,9 @@ II. Promover el respeto de los espacios reservados a los adultos mayores en el t
 
 III. Promover una campaña de concientización entre los usuarios, permisionarios, concesionarios y demás involucrados con el transporte público colectivo urbano, que garantice el cumplimiento de lo establecido en el presente artículo.
 
-### CAPÍTULO XI. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO XI. DE LA FISCALÍA GENERAL DEL ESTADO
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -701,11 +707,15 @@ II. Garantizar una defensa legal adecuada en los juicios y procedimientos en que
 
 Corresponde al Instituto Jalisciense de Asistencia Social procurar que los adultos mayores sean sujetos de programas de asistencia social en caso de desempleo, discapacidad, abandono o pérdida de sus medios de subsistencia.
 
-### CAPÍTULO XIV. DE LA INMOBILIARIA Y PROMOTORA DE LA VIVIENDA DE INTERÉS PÚBLICO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO XIV. DEL INSTITUTO JALISCIENSE DE LA VIVIENDA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 34.
 
-Corresponde a la Inmobiliaria y Promotora de la Vivienda de Interés Público del Estado garantizar:
+Corresponde al Instituto Jalisciense de la Vivienda garantizar:
 
 I. Las acciones necesarias a fin de concretar programas de vivienda que permitan a los adultos mayores la obtención de créditos accesibles para adquirir una vivienda propia o remodelarla, en caso de ya contar con ella, y
 
@@ -857,7 +867,9 @@ I. Un Presidente, que será el titular del Poder Ejecutivo o la persona a quien 
 
 II. Un Secretario Técnico, que será el Director General del Instituto;
 
-III. Dieciocho vocalías, que serán integradas por los titulares, de las siguientes dependencias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+III. Diecisiete vocalías, que serán integradas por los titulares de las siguientes dependencias:
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -899,7 +911,9 @@ n) Hospital Civil de Guadalajara;
 
 o) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud (CODE);
 
-p) Inmobiliaria y Promotora de la Vivencia de Interés Público del Estado (IPROVIPE), y
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+p) Instituto Jalisciense de la Vivienda; y
 
 q) Comisión Estatal de Derechos Humanos de Jalisco;
 
@@ -1418,3 +1432,9 @@ P.O. 2 DE AGOSTO DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El titular del Poder Ejecutivo deberá llevar a cabo las adecuaciones presupuestales y reglamentarias necesarias para dar cumplimiento al presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26954/LXI/18 QUE REFORMA LOS ARTÍCULOS 34 Y 40, ASÍ COMO LA DENOMINACIÓN DE LOS CAPÍTULOS II, IX, X, XI, Y XIV DEL TÍTULO CUARTO DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
