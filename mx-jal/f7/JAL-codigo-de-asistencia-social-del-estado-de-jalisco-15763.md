@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2018-09-13"
+last_updated: "2018-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -2583,11 +2583,19 @@ El aviso deberá notificarse al interesado con el término suficiente para que s
 
 ### CAPITULO I. Del Objeto y de las Disposiciones Generales
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 256.
 
-El presente Libro tiene por objeto fomentar, encausar y regular las donaciones gratuitas para la satisfacción de las carencias alimentarias de la población más necesitada del Estado.
+El presente Libro tiene por objeto fomentar, encausar y regular las donaciones gratuitas para la satisfacción de las carencias alimentarias de la población más necesitada del Estado y tiene por objetivos:
+
+I. Promover, orientar y regular las donaciones de alimentos para evitar el desperdicio injustificado;
+
+II. Establecer los principios y criterios que orienten las políticas del Sistema Estatal de Asistencia Social, para promover acciones que generen una cultura de aprovechamiento y donación altruista de alimentos para la población menos favorecida:
+
+III. Contribuir a satisfacer las necesidades alimentarias de la población vulnerable; y
+
+IV. Fomentar y regular los bancos de alimentos.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -2595,7 +2603,17 @@ El presente Libro tiene por objeto fomentar, encausar y regular las donaciones g
 
 Queda prohibido el desperdicio irracional e injustificado de productos alimenticios, cuando estos sean susceptibles de donación para su aprovechamiento altruista por alguna persona jurídica privada de beneficencia reconocida oficialmente por el Instituto.
 
-Los donadores quedarán exentos de la responsabilidad señalada en el párrafo anterior, cuando habiendo dado cuenta a los donatarios, éstos no acudan oportunamente a recoger los alimentos.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+Las personas con intención de donar alimentos quedarán exentos de la responsabilidad señalada en el párrafo anterior, cuando habiendo dado cuenta de ello al banco de alimentos, éste no acuda oportunamente a recogerlos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+La obligatoriedad de evitar el desperdicio de alimentos alcanza a la cadena de valor completa de la producción, transformación, y distribución de alimentos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+La prevención del desperdicio de alimentos deberá atender el destino útil de sus materias primas como a productos terminados.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -2603,27 +2621,63 @@ Los donadores quedarán exentos de la responsabilidad señalada en el párrafo a
 
 Son beneficiarios de las disposiciones de este libro las personas que en el Estado carecen de los medios necesarios para satisfacer sus necesidades alimentarias básicas.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 259.
 
-La Secretaría de Salud Jalisco, supervisará la distribución higiénica de los alimentos en las personas jurídicas dedicadas a la donación de alimentos e implementará programas de capacitación y asesoría en la materia.
+La Secretaría de Salud Jalisco, supervisará la distribución higiénica de los alimentos en las personas jurídicas dedicadas a la donación de alimentos e implementará programas de asesoría, capacitación y evaluación en la materia.
 
 Así mismo deberá elaborar programas alimentarios considerando las estadísticas y zonas con población en riesgo de desnutrición para encauzar las acciones a dichas zonas.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 260.
 
-Los Sistemas para el Desarrollo Integral de la Familia, promoverán la asistencia alimentaria altruista, coordinarán los esfuerzos públicos y privados, así mismo, (sic).
+Los Sistemas para el Desarrollo Integral de la Familia promoverán la asistencia alimentaria altruista y participará en los esfuerzos públicos y privados que se desarrollen para tal efecto.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-### CAPITULO II. De los Bancos de Alimentos
+### Capítulo II. De las facultades del Sistema Estatal de Asistencia Social
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-### CAPITULO III. De los Donantes de Alimentos
+Artículo 260 A. Corresponde al Instituto crear una política transversal en materia de aprovechamiento y donación altruista de alimentos, en coordinación con los sistemas para el desarrollo integral para la familia, la Secretaría de Salud Jalisco y la Secretaría, además de las instancias competentes del Gobierno de Jalisco, que considere al menos las actividades siguientes:
+
+I. Instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria;
+
+II. Promover la donación altruista de alimentos entre la población y los sectores público y privado por medio de campañas permanentes de sensibilización que incluyan la divulgación de sus beneficios entre la población más necesitada;
+
+III. Diseñar, promover, implementar y evaluar los programas específicos de donación altruista de alimentos; e
+
+IV. Impulsar la creación y el fortalecimiento de los Bancos de Alimentos, enfocados al manejo y aprovechamiento de las donaciones altruistas
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 260 B. La Secretaría tendrá las siguientes atribuciones:
+
+I. Generar estudios y bases de datos sobre las necesidades alimentarias en el Estado, para lo que podrá solicitar el apoyo de las instituciones y asociaciones públicas o privadas señaladas en este mismo Código;
+
+II. Promover la celebración de convenios entre donantes y donatarios, públicos o privados, para incentivar la donación de alimentos;
+
+III. Coordinar los esfuerzos públicos y privados, destinando las donaciones a bancos de alimentos, y a programas públicos de asistencia y desarrollo social, evitando la saturación de oferta de alimentos en algunas zonas o regiones del estado, en detrimento de otras;
+
+IV. Proponer el destino de las donaciones altruistas de alimentos; y
+
+V. Supervisar que el destino de los alimentos se entregue a la población objetivo señalado en este Código.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 260 C. Corresponde al Congreso del Estado:
+
+I. Incluir una partida presupuestal para el rescate de alimentos de productores agrícolas cuando estos estén destinados al desperdicio, y cuando éstos sean susceptibles de donación para su aprovechamiento altruista por alguna persona jurídica de beneficencia reconocida oficialmente por el Instituto;
+
+II. Aprobar el presupuesto necesario para la ejecución del programa de donación altruista de alimentos, el cual no podrá ser inferior al ejercido el año inmediato anterior, actualizado con base a la cifra de inflación señalada en los Criterios Generales de Política Económica para el ejercicio fiscal que se está presupuestando, en tanto no se satisfaga la demanda alimentaria en el Estado; y
+
+III. Recibir de la Secretaría, a través de Ja Comisión Legislativa competente en materia de desarrollo humano e integración social, los estudios que definan el piso mínimo anual para el funcionamiento de este programa.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO II], P.O. 17 DE NOVIEMBRE DE 2018)
+
+### CAPÍTULO III. De los Bancos de Alimentos
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -2647,9 +2701,17 @@ VII. Evitar desvíos o mal uso de los alimentos en perjuicio de las personas de 
 
 VIII. Informar anualmente al Instituto de los donativos recibidos y de los aplicados;
 
-IX. Observar las disposiciones administrativas y medidas de control que dicte el Instituto en materia de donación de alimentos mediante instrucciones de carácter general; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-X. Las demás que determine la ley.
+IX. Observar las disposiciones administrativas y medidas de control que dicte el Instituto en materia de donación de alimentos mediante instrucciones de carácter general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+X. Realizar convenios con los donantes en los que se especifique, cuando menos, los tiempos de entrega y condiciones o requerimientos para la misma; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+XI. Las demás que determine la ley.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -2677,9 +2739,9 @@ La imposibilidad de pagar la cuota de recuperación no será motivo para negar e
 
 Las cuotas de recuperación y balances financieros de las operaciones de los bancos de alimentos deberán reportarse anualmente al Instituto.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 17 DE NOVIEMBRE DE 2018)
 
-### CAPITULO IV. De los Estímulos y Sanciones
+### CAPÍTULO IV. De los Donantes de Alimentos
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -2703,7 +2765,11 @@ Los donantes de alimentos quedan exentos de responsabilidad en caso de daño a l
 
 Los Bancos de alimentos sólo serán responsables de los daños que se causen, cuando se acredite que existió negligencia o dolo en la recepción, cuidado o distribución de los productos alimenticios.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 17 DE NOVIEMBRE DE 2018)
+
+### CAPITULO V. De los Estímulos y Sanciones
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 268.
 
@@ -3059,7 +3125,7 @@ P.O. 7 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 25816/LXI/16 QUE REFORMA LOS ARTÍCULOS 129 Y 131, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO ÚNICO DEL LIBRO CUARTO DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO".]
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, en los municipios comprendidos en las fracciones I, II, III, IV, V, VI , VII y IX del artículo primero del decreto 24,864.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, en los municipios comprendidos en las fracciones I, II, III, IV, V, VI, VII y IX del artículo primero del decreto 24,864.
 
 SEGUNDO. En los municipios comprendidos en las fracciones VIII, X, XI y XII del artículo primero del decreto 24,864, este decreto entrará en vigor conforme a las declaratorias de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Estado de Jalisco.
 
@@ -3082,3 +3148,9 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26859/LXI/18 QUE REFORMA EL ARTÍCULO 5°, DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 60 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26949/LXI/18 QUE REFORMA LOS ARTÍCULOS 256, 257, 259, 260 Y 261 Y ADICIONA EL CAPÍTULO II "DE LAS FACULTADES DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL" AL LIBRO OCTAVO, CON LOS ARTÍCULOS 260 A, 260 B Y 260 C, RECORRIENDO LOS DEMÁS CAPÍTULOS EN SU NÚMERO Y ORDEN DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor a los 120 días siguientes de su publicación en el periódico oficial "El Estado de Jalisco”.
