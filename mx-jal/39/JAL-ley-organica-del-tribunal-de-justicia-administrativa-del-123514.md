@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-tribunal-de-justicia-administrativa-del-123514
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-26"
-last_updated: "2017-10-26"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección IV al Número 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -237,6 +237,10 @@ XIX. Las demás que establezcan otras disposiciones legales aplicables, cuando s
 
 XX. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables, cuando se trate de asuntos administrativos internos del Tribunal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+2. La primera sesión de la Sala Superior de cada año, en la que se elija al presidente de la misma, debe realizase (sic) dentro de los primeros quince días del mes de enero.
+
 ###### Artículo 9.
 
 Sala Superior – Presidente
@@ -284,6 +288,10 @@ XIX. Decretar las medidas de apremio para hacer cumplir las determinaciones de l
 XX. Emitir opinión, respecto a las solicitudes de licencia que presente el personal de la Sala Superior; y
 
 XXI. Las demás que establezca (sic) otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+2. El periodo de un año de la presidencia de la Sala Superior inicia el primero de febrero de cada año.
 
 ### Capítulo IV. Salas
 
@@ -700,3 +708,11 @@ P.O. 26 DE OCTUBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que contravengan el presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27037/LXI/18 QUE REFORMA LOS ARTÍCULOS 8 Y 9 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO".]
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Por única ocasión, quien presida la Sala Superior del Tribunal de Justicia Administrativa del Estado de Jalisco, al momento de la entrada en vigor de esta ley, durará en la presidencia hasta el 31 de enero de 2019.
