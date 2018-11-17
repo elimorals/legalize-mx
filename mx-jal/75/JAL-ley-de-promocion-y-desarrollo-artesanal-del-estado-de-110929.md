@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-110929"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2018-09-13"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el número 10 Sección LXV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -155,9 +155,11 @@ Los artesanos constituidos como personas físicas o que formen parte de personas
 
 De igual forma se hará con los artesanos que forman parte de sociedades cooperativas para la producción y venta de sus productos.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 9.
 
-El Instituto, en coordinación con los municipios, promoverá la difusión de programas de capacitación tendientes a favorecer la productividad, calidad, competitividad, comercialización y en general, aquellos que impulsen la rentabilidad del sector.
+El Instituto, en coordinación con los municipios, promoverá la difusión de programas de capacitación tendientes a favorecer la productividad, calidad, competitividad, protección, comercialización y en general, aquellos que impulsen la rentabilidad del sector.
 
 ### CAPÍTULO III. De la Planeación y Programación de la Actividad Artesanal
 
@@ -783,9 +785,17 @@ VI. Organizar certámenes;
 
 VII. Apoyos para artesanos de la tercera edad;
 
-VIII. Otorgar créditos para la constitución de comercializadoras dirigidas por artesanos; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-IX. Las demás que en opinión de la Junta de Gobierno se consideren necesarias.
+VIII. Otorgar créditos para la constitución de comercializadoras dirigidas por artesanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+IX. Otorgar asesoría en el seguimiento de trámites y registro a los artesanos que cumplan con los requisitos que el Instituto establezca para lograr la propiedad industrial y derechos de autor para los artesanos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+X. Las demás que en opinión de la Junta de Gobierno se consideren necesarias.
 
 El Instituto promoverá la participación económica en el Fondo, de los gobiernos federal, estatal y municipal, los sectores social y privado y las organizaciones de artesanos del Estado.
 
@@ -898,3 +908,9 @@ CUARTO. El Instituto enviará a la Secretaría de Cultura en un plazo no mayor a
 QUINTO. El Titular del Ejecutivo del Estado deberá realizar las adecuaciones necesarias al reglamento de esta Ley en un plazo no mayor a noventa días posteriores a la entrada en vigor del presente decreto. Así mismo deberá adecuar el acuerdo de adscripción de las Entidades para ajustarlo a la presente iniciativa.
 
 SEXTO. Se derogan todas las demás disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26955/LXI/18 QUE REFORMA LOS ARTÍCULOS 9 Y 60 Y DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
