@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2018-09-25"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1191,13 +1191,11 @@ Corresponde a las autoridades judiciales y administrativas en materia de ejecuci
 
 ### CAPITULO II. Trabajo de los Presos
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 79.
 
-Toda persona privada de su libertad y que no se encuentre enferma o discapacitada, se ocupará en el trabajo que le competa en los términos señalados en la sentencia correspondiente y de acuerdo con la ley general en materia de ejecución de penas. El producto de su trabajo se distribuirá como sigue: el cincuenta por ciento para la familia del sentenciado, el veinte por ciento para gastos menores del interno en el reclusorio y el resto, por partes iguales, para la alimentación y vestido, al pago de la reparación del daño y para formar al recluso un fondo de reserva.
-
-Si la reparación del daño hubiere sido cubierta, o si la familia no está necesitada, las cuotas respectivas se aplicarán, por partes iguales, a los demás fines señalados en el párrafo anterior.
+Toda persona privada de su libertad y que no se encuentre enferma o presente algún tipo de discapacidad, se ocupará en el trabajo que le competa en los términos señalados en el Plan de Actividades. El producto de su trabajo se depositará a través de una cuenta que se regirá bajo las condiciones que se establezcan en la Ley Nacional de Ejecución Penal y en las disposiciones aplicables correspondientes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1293,17 +1291,17 @@ El indulto lo concederá el Ejecutivo, cuando el sentenciado haya prestado servi
 
 El indulto extingue las sanciones impuestas, con excepción de las de reparación del daño, inhabilitación para ejercer una profesión u oficio, manejar vehículos, motores, maquinaria o elementos relacionados con el trabajo; ejercitar algún derecho civil o político o para desempeñar determinado cargo o empleo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-### CAPITULO IV. De la Rehabilitación
+### CAPITULO IV. De la Reinserción
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 86.
 
-La rehabilitación tiene por objeto reintegrar al sentenciado al ejercicio de los derechos civiles, políticos o de familia que se habían suspendido con motivo del proceso o perdido por sentencia ejecutoria.
+La reinserción tiene por objeto dotar de herramientas al imputado y al sentenciado que le permitan reinsertarse a la sociedad, mediante los modelos de educación, trabajo penitenciario y capacitación para el mismo, establecidos en la Ley Nacional de Ejecución Penal.
 
-Una vez extinguida la causa que motivó la suspensión de los derechos civiles, políticos o de familia, la rehabilitación operará de pleno derecho en los términos señalados por el Código Nacional de Procedimientos Penales.
+La aplicación de los modelos de reinserción previstos en el Código Nacional de Procedimientos Penales y La Ley Nacional de Ejecución Penal corresponderá a la Autoridad Penitenciaria.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -6487,6 +6485,14 @@ P.O. 14 DE JULIO DE 2018.
 
 P.O. 25 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26925/LXI/18 QUE REFORMA LOS ARTÍCULOS 28 Y 148 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26925/LXI/18 QUE REFORMA LOS ARTÍCULOS 28 Y 148 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26947/LXI/18 QUE REFORMA LOS ARTÍCULOS 79 Y 86 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Autoridad Penitenciaria tendrá un plazo de 180 días hábiles, contados a partir de la entrada en vigor de este decreto, para adecuar sus reglamentos a lo dispuesto en el Titulo Tercero Capítulo VI denominado Trabajo de la Ley Nacional de Ejecución Penal.
