@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2018-10-20"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -637,15 +637,17 @@ XI. Expedir leyes para regular las relaciones de trabajo entre el gobierno del E
 
 XII. Expedir la ley que instituya el Tribunal de Justicia Administrativa del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Expedir la ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción, así como la ley que distribuya competencias para establecer las responsabilidades administrativas de los servidores públicos del Estado y los municipios, sus obligaciones, las sanciones aplicables por los actos u omisiones en que incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;
+XIII. Expedir la Ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción, así como la Ley que distribuya competencias para establecer las responsabilidades administrativas de los servidores públicos del Estado y los municipios, sus obligaciones, las sanciones aplicables por los actos u omisiones en que incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-XIV. Expedir la ley que establezca los principios, bases y reglas en materia de pensiones de los servidores públicos del Estado y los municipios, así como fijar la organización y funcionamiento del organismo público rector en la materia dotado de facultades exclusivas para el otorgamiento de las pensiones que correspondan; y
+XIV. Expedir la Ley que establezca la creación, estructura y funcionamiento del Centro de Conciliación Laboral del Estado de Colima; y
 
-XV. Expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, las enunciadas en los artículos siguientes, y todas las demás que le concedan la Constitución Federal y la Constitución del Estado.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+XV. Expedir todas las Leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, las enunciadas en los artículos siguientes, y todas las demás que le concedan la Constitución Federal y la Constitución del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1277,11 +1279,17 @@ VIII. Conceder licencias a los jueces de Primera Instancia y a las demás autori
 
 IX. Administrar los recursos humanos y materiales que requiere el funcionamiento de su dependencia y le asigne el Presupuesto de Egresos;
 
-X. Disponer, en los términos de la Ley Orgánica del Poder Judicial y la de Hacienda del Estado, del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-El Fondo se integrará con multas, decomisos, donaciones, derechos, productos, aprovechamientos e intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que se efectúen ante las dependencias y tribunales del fuero común, y se aplicará a infraestructura, capacitación, actualización y especialización del personal. Asimismo, podrá aplicarse hasta el treinta por ciento del Fondo al otorgamiento de incentivos al desempeño de los servidores públicos, de acuerdo con lo previsto en el Reglamento de Procedimientos y Asignación de Estímulos del Poder Judicial del Estado; y
+X. Disponer, en los términos de la Ley Orgánica del Poder Judicial y la de Hacienda del Estado, del Fondo Auxiliar en Beneficio de la Administración de Justicia. El Fondo se integrará con multas, decomisos, donaciones, derechos, productos, aprovechamientos e intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que se efectúen ante las dependencias y tribunales del fuero común, y se aplicará a infraestructura, capacitación, actualización y especialización del personal. Asimismo, podrá aplicarse hasta el treinta por ciento del Fondo al otorgamiento de incentivos al desempeño de los servidores públicos, de acuerdo con lo previsto en el Reglamento de Procedimientos y Asignación de Estímulos del Poder Judicial del Estado;
 
-XI. Salvaguardar, aún con el uso de la fuerza pública, la inviolabilidad de los recintos del Poder Judicial.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+XI. Salvaguardar, aún con el uso de la fuerza pública, la inviolabilidad de los recintos del Poder Judicial; y
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+XII. Conocer de todas las controversias jurisdiccionales entre trabajadores y patrones, derivados de las relaciones de trabajo o de hechos relacionados con ellas.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1369,11 +1377,21 @@ VI. Realizar las demás atribuciones que le confiera la ley.
 
 #### SECCIÓN III. DE LA JURISDICCIÓN EN MATERIA LABORAL
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
 Artículo 79
 
-La función jurisdiccional para resolver las controversias de carácter laboral entre el Estado, los municipios y los organismos descentralizados de ambos, y sus trabajadores, estará a cargo del Tribunal de Arbitraje y Escalafón, el cual se regirá por la ley de la materia y sus reglamentos.
+A. Los procedimientos laborales relativos al apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos concernientes a la defensa de los intereses laborales, se llevarán a cabo en una etapa conciliatoria y, en su caso, en una etapa jurisdiccional.
+
+La etapa conciliatoria estará a cargo del Centro de Conciliación Laboral del Estado de Colima, como un organismo descentralizado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
+
+La integración y funcionamiento del Centro de Conciliación Laboral del Estado se determinará en la Ley de la materia y su reglamento.
+
+Antes de acudir a los juzgados laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente, cuyo procedimiento se determinará en la Ley de la materia, en todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria, con fecha y hora debidamente fijadas. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto. La Ley de la materia establecerá las reglas para que los convenios laborales adquieran condición de cosa juzgada, así como para su ejecución.
+
+La etapa jurisdiccional estará a cargo del Poder Judicial del Estado, el cual contará con juzgados en materia laboral necesarios para solventar los procedimientos laborales derivados del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos que prevean las leyes de la materia, cuyas sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+B. La función jurisdiccional para resolver las controversias de carácter laboral entre el Estado, los municipios y los organismos descentralizados de ambos, y sus trabajadores, estará a cargo del Tribunal de Arbitraje y Escalafón, el cual se regirá por la Ley de la materia y sus Reglamentos.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -3414,6 +3432,14 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 564 POR EL QUE SE REFORMA LA FRACCIÓN VII, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XI, Y LA FRACCIÓN XII, TODAS DEL ARTÍCULO 2º; Y EL PÁRRAFO TERCERO DEL ARTÍCULO 4º; ASIMISMO SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 2°, Y UN QUINTO PÁRRAFO AL ARTÍCULO 41, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima."
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 2 POR EL QUE SE REFORMA LA FRACCIÓN XIII Y SE ADICIONA LA FRACCIÓN XIV, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LA FRACCIÓN XIV VIGENTE QUE PASA A SER FRACCIÓN XV DEL ARTÍCULO 33; SE REFORMAN LAS FRACCIONES X Y XI Y SE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 74; Y SE REFORMA EL ARTÍCULO 79, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE JUSTICIA LABORAL".]
+
+PRIMERO. El presente Decreto entrará en vigor en la misma fecha que lo hagan las reformas y adiciones a la Ley Federal del Trabajo que derivan del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de justicia laboral publicada en el Diario Oficial de la Federación el día 24 de febrero de 2017.
+
+SEGUNDO. El servicio público de conciliación laboral que proporcione el Centro de Conciliación Laboral del Estado de Colima y el inicio de los trámites de los procedimientos laborales conforme a las disposiciones del presente Decreto entrarán en funciones en los mismos plazos y términos que prevean las reformas y adiciones a la Ley Federal del Trabajo referidas en el artículo transitorio anterior.
 
 ###### ARTÍCULO ÚNICO.
 
