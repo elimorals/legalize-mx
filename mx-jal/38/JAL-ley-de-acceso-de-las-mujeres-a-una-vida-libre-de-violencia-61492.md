@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2018-03-24"
+last_updated: "2018-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -1247,19 +1247,49 @@ III. Embargo preventivo de bienes del agresor, que deberá inscribirse con cará
 
 IV. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
 
-VI (SIC). Acceso al domicilio en común, de autoridades o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-VII. Posesión temporal exclusiva de la solicitante sobre el inmueble que sirvió de domicilio;
+V. Acceso al domicilio en común, de autoridades policiacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijos;
 
-VIII. Establecer el derecho de visitas o convivencia asistida o supervisada por la autoridad competente en materia de familia, niñas, niños y adolescentes. En caso de que la autoridad jurisdiccional lo estime necesario la suspensión o restricción temporal al agresor a las visitas y convivencia con sus descendientes en los términos de la legislación civil; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-IX. La persona agresora deberá asistir a tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas y privadas debidamente acreditadas.
+VI. Establecer el derecho de visitas o convivencia asistida o supervisada por la autoridad competente en materia de familia, niñas, niños y adolescentes. En caso de que la autoridad jurisdiccional lo estime necesario la suspensión o restricción temporal al agresor a las visitas y convivencia con sus descendientes en los términos de la legislación civil;
 
-En los caso de las fracciones II, III, VIII y VIII (SIC) las medidas deberán ser dictadas por la autoridad jurisdiccional competente.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+VII. La persona agresora deberá asistir a tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas y privadas debidamente acreditadas; y
 
-Artículo 57 C. Las personas menores de edad, que requieran el otorgamiento de una orden de protección de emergencia o preventiva podrán ser representadas por la (sic) cualquier autoridad competente, pudiendo ser cualquiera de las siguientes: la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes; el Ministerio Público, o el padre, madre, tutor o familiar en línea recta ascendiente y colateral consanguíneos hasta segundo grado.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la victima u ofendido en el momento de solicitarlo.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+La autoridad responsable, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las órdenes de protección idóneas cuando estime riesgo inminente en contra de la seguridad de la mujer víctima de violencia.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 57 B bis. Son órdenes de protección de naturaleza civil las siguientes:
+
+I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
+II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias, y
+
+V. Obligación alimentaria provisional e inmediata.
+
+Dentro de los cinco días siguientes a la imposición de las órdenes de protección previstas en las fracciones I al V deberá celebrarse audiencia en la que el juez podrá cancelarlas, o bien, ratificarlas o modificarlas mediante la imposición de las medidas cautelares correspondientes.
+
+Serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los juzgados civiles que corresponda.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 57 C. Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se otorgarán de oficio o a petición de la víctima o de los responsables de la atención integral de los refugios temporales.
+
+Respecto de las personas menores de edad que requieran de una orden de protección, su representación se sujetará a lo establecido en la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1400,3 +1430,9 @@ P.O. 24 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26748/LXI/18 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 51 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26953/LXI/18 QUE REFORMA LOS ARTÍCULOS 57 B BIS A LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
