@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-rural-sustentable-para-el-estado-de-96386"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-25"
-last_updated: "2018-06-28"
+last_updated: "2018-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de agosto de 2013.
 
@@ -1027,9 +1027,17 @@ XVIII.- Ejecutar programas de capacitación y adiestramiento, dirigidos a los us
 
 XIX.- Supervisar la correcta realización de los trabajos de conservación y restauración que a los usuarios corresponda;
 
-XX.- Determinar las características de las tierras de cada propiedad o posesión y definir los cultivos que deberán fomentarse o desalentarse en zonas con tierras frágiles; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2018)</small>
 
-XXII (SIC).- Aportar asesoría calificada a los productores, a fin de formular sus planes y contratos de aprovechamiento de tierras.
+XX.- Determinar las características de las tierras de cada propiedad o posesión y definir los cultivos que deberán fomentarse o desalentarse en zonas con tierras frágiles;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Aportar asesoría calificada a los productores, a fin de formular sus planes y contratos de aprovechamiento de tierras; y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- La agricultura familiar y de traspatio.
 
 ###### ARTÍCULO 89.
 
@@ -2088,5 +2096,13 @@ P.O. 28 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 411.- QUE CONTIENE REFORMAS A LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 005.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
