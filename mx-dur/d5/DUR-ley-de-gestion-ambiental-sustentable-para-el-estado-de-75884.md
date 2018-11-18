@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2017-06-25"
+last_updated: "2018-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -1351,6 +1351,14 @@ Los Ayuntamientos promoverán y regularán la utilización de materiales biodegr
 
 La Secretaría podrá en todo caso expedir las Normas Técnicas Ambientales Estatales a efecto de que los Municipios, en el ámbito de sus facultades puedan reglamentar la clasificación, separación, reutilización y reciclaje de los residuos sólidos que sean depositados en los rellenos sanitarios o de confinamiento.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 96 BIS. La Secretaría o los Ayuntamientos, cuando medie convenio de colaboración administrativa para la protección del ambiente del estado de Durango, restringirán la venta, dádiva y uso de bolsas y empaques elaborados con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados; en supermercados, tiendas de conveniencia, autoservicios, mercados y demás comercios.
+
+Se exentan de la restricción establecida en el párrafo anterior, aquellas bolsas que hayan sido producidas incorporando un porcentaje mínimo de treinta por ciento de material reciclado o que la fabricación de dichas bolsas de plástico, sean con materiales y procesos de tecnología que permitan su ágil degradación acorde a las Normas Oficiales Mexicanas.
+
+El Porcentaje de material reciclado y la referencia de ágil degradación referidos en el párrafo anterior, servirán como base para que las autoridades correspondientes, en la elaboración de los programas, normas y planes de manejo correspondientes, establezcan metas graduales de producción y consumo más limpias, las cuales anualmente deberán ajustarse.
+
 ###### ARTÍCULO 97.
 
 El Uso de plaguicidas se hará con sujeción a las Normas Oficiales Mexicanas que expidan, excluyéndose, en su caso las sustancias tóxicas que no sean compatibles con el equilibrio de los ecosistemas, de acuerdo al listado respectivo publicado en el Diario Oficial de la Federación.
@@ -1451,9 +1459,17 @@ V. Impulsarán el fortalecimiento de la conciencia ambiental a través de la rea
 
 VI. Promoverán ante las instancias correspondientes en la forma y términos que prevean las leyes aplicables para que instituciones del sector público, privado y social; así como personas físicas o morales destinen en forma temporal o definitiva predios urbanos, suburbanos o rurales que tengan propiedad para algún fin de preservación ambiental, siempre que no se alteren los planes de desarrollo urbano aplicables;
 
-VII. Gestionarán la asesoría técnica y los instrumentos económicos existentes a quienes inviertan e implementen tecnologías limpias; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2018)</small>
 
-VIII. La Secretaría desarrollará un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto participar con la Federación en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales.
+VII. Gestionarán la asesoría técnica y los instrumentos económicos existentes a quienes inviertan e implementen tecnologías limpias;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2018)</small>
+
+VIII. La Secretaría desarrollará un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto participar con la Federación en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales; y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2018)</small>
+
+IX. Fomentarán acciones encaminadas a que los establecimientos que vendan alimentos y bebidas no promuevan el consumo de popotes, salvo que el usuario así lo disponga. Los establecimientos deberán cerciorarse de que el cliente realmente necesite de estos para su entrega.
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
@@ -2118,5 +2134,13 @@ P.O. 25 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 157.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor el día primero de enero de 2018, mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 006.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
