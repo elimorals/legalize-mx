@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-sinaloa-89
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-17"
-last_updated: "2016-07-01"
+last_updated: "2018-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 17 de octubre de 2012.
 
@@ -299,7 +299,9 @@ Se crea el Consejo General de Ciencia, Tecnología e Innovación, como órgano d
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. Los titulares de las Secretarías de: Desarrollo Económico; Administración y Finanzas; Agricultura, Ganadería y Pesca; Educación Pública y Cultura; Salud; y Turismo;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+II. Los titulares de las Secretarías de: Innovación; Economía; Administración y Finanzas; Desarrollo Sustentable; Agricultura y Ganadería; Pesca y Acuacultura; Educación Pública y Cultura; Salud; y Turismo;
 
 III. El Director General del Instituto, quién tendrá el carácter de Secretario Ejecutivo;
 
@@ -383,9 +385,11 @@ VIII. Realizar las demás actividades que le encomiende el Consejo General y est
 
 ### Capítulo V. Del Instituto de Apoyo a la Investigación e Innovación
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 13.
 
-El Instituto, es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión, sectorizado a la Secretaría de Desarrollo Económico, para el cumplimiento de sus atribuciones. Ejercerá sus atribuciones de conformidad con la Ley Orgánica de la Administración Pública del Estado de Sinaloa. El domicilio legal del Instituto podrá establecerse en la ciudad de Culiacán, o en cualquiera de las cabeceras de los otros municipios, pudiendo establecerse oficinas regionales o municipales en el Estado.
+El Instituto es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión, sectorizado a la Secretaría de Innovación, para el cumplimiento de sus atribuciones. Ejercerá sus atribuciones de conformidad con la Ley Orgánica de la Administración Pública del Estado de Sinaloa. El domicilio legal del Instituto podrá establecerse en la ciudad de Culiacán o en cualquiera de las cabeceras de los otros municipios, pudiendo establecerse oficinas regionales o municipales en el Estado.
 
 ###### ARTÍCULO 14.
 
@@ -477,23 +481,49 @@ VIII. Las demás que establezca esta Ley, otros ordenamientos legales y el Regla
 
 La Junta de Gobierno estará integrada por:
 
-I. Un representante de la Secretaría de Desarrollo Económico;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+I. Un representante de la Secretaría de Innovación;
 
 II. Un representante de la Secretaría de Administración y Finanzas;
 
-III. Un representante de la Secretaría de Agricultura, Ganadería y Pesca;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2018)</small>
 
-IV. Un representante de la Secretaría de Educación Pública y Cultura;
+III. Un representante de la Secretaría de Economía;
 
-V. Un representante de la Secretaría de Salud;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2018)</small>
 
-VI. Un representante de la Secretaría de Turismo; y,
+IV. Un representante de la Secretaría de Desarrollo Sustentable;
 
-VII. El Director del Instituto, con voz pero sin voto.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+V. Un representante de la Secretaría de Agricultura y Ganadería;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+VI. Un representante de la Secretaría de Pesca y Acuacultura;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+VII. Un representante de la Secretaría de Educación Pública y Cultura;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Un representante de la Secretaría de Salud;
+
+> <small>(ADICIONADA [N. DE. E. REFORMADA], P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+IX. Un representante de la Secretaría de Turismo; y
+
+> <small>(ADICIONADA [N. DE. E. REFORMADA], P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+X. El Director del Instituto.
 
 Se invitará a formar parte de la Junta de Gobierno a un representante de las Universidades e Instituciones de Educación Superior, a un miembro del Foro Consultivo, así como a dos investigadores en funciones integrantes del Sistema Estatal de Ciencia, Tecnología e innovación y a dos representantes del sector productivo, los cuales serán propuestos por el Director General del Instituto. Cada miembro propietario contará con un suplente.
 
-Las sesiones serán presididas por el titular de la Secretaría de Desarrollo Económico y tendrá voto de calidad en caso de empate.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+Las sesiones serán presididas por el titular de la Secretaría de Innovación y tendrá voto de calidad en caso de empate.
 
 Los representantes propietarios de las dependencias de la Administración Pública Estatal deberán ser los Subsecretarios o nivel equivalente, que tengan la responsabilidad de las funciones de promoción de la investigación científica y desarrollo tecnológico en dichas dependencias. En el caso de los suplentes deberán contar con el nivel jerárquico de Director o equivalente.
 
@@ -501,9 +531,11 @@ A las sesiones de la Junta de Gobierno se podrá invitar con voz pero sin voto a
 
 El Reglamento Interior del Instituto definirá la formalidad y periodicidad de las sesiones de la Junta de Gobierno, los mecanismos para la toma y validez de sus resoluciones, así como las facultades de sus integrantes en el funcionamiento y operación de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 17.
 
-El Director General del Instituto será designado y removido libremente por el Secretario de Desarrollo Económico, previo acuerdo con el Gobernador del Estado, tendrá las siguientes atribuciones:
+El Director General del Instituto será designado y removido libremente por el Secretario de Innovación, previo acuerdo con el Gobernador del Estado, tendrá las siguientes atribuciones:
 
 I. Planear, organizar, dirigir y administrar el funcionamiento del Instituto;
 
@@ -833,9 +865,11 @@ El Instituto establecerá estrategias y mecanismos de vinculación entre las dep
 
 La vinculación entre los integrantes del Sistema Estatal será multidisciplinaria e interinstitucional, a través de la integración de redes y alianzas para la coordinación de planes; programas, proyectos y acciones en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 46.
 
-El Instituto conjuntamente con las Secretarías de Desarrollo Económico y Agricultura, Ganadería y Pesca, promoverán la creación de agrupamientos industriales y productivos en áreas estratégicas bajo el liderazgo del sector privado, acorde al Programa Especial, a los recursos y vocaciones productivas del Estado.
+El Instituto conjuntamente con las Secretarías de Innovación; Economía; Desarrollo Sustentable; Agricultura y Ganadería; y Pesca y Acuacultura, promoverán la creación de agrupamientos industriales y productivos en áreas estratégicas bajo el liderazgo del sector privado, acorde al Programa Especial, a los recursos y vocaciones productivas del Estado.
 
 El gobierno estatal a través de las Secretarías mencionadas podrá canalizar apoyos de manera concurrente a las aportaciones de las empresas, para la operación de dichos agrupamientos industriales y productivos estratégicos.
 
@@ -887,9 +921,11 @@ Se canalizarán apoyos atendiendo a la racionalidad y disponibilidad presupuesta
 
 Con el propósito de aumentar la cultura y el conocimiento en la sociedad, se promoverá la creación y operación de museos y centros interactivos de ciencia y tecnología.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 57.
 
-El Instituto y las Secretarías de Desarrollo Económico, y Educación Pública y Cultura, promoverán todo tipo de programas tendientes a aumentar la cobertura y facilidad de acceso a internet para las escuelas, hogares y empresas en el Estado; asimismo, se impulsarán programas de uso y adquisición de computadoras, el desarrollo de contenidos, software y sistemas que fomenten la calidad educativa, salud, seguridad y competitividad del sector productivo.
+El Instituto y las Secretarías de Innovación y, Educación Pública y Cultura, promoverán todo tipo de programas tendientes a aumentar la cobertura y facilidad de acceso a internet para las escuelas, hogares y empresas en el Estado; asimismo, se impulsarán programas de uso y adquisición de computadoras, el desarrollo de contenidos, software y sistemas que fomenten la calidad educativa, salud, seguridad y competitividad del sector productivo.
 
 ###### ARTÍCULO 58.
 
@@ -907,23 +943,31 @@ El Instituto en coordinación con el resto de las dependencias y entidades de la
 
 ### Capítulo XV. Del Emprendimiento y Negocios de Innovación
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 61.
 
-El Instituto en coordinación con las Secretarías de Desarrollo Económico y Agricultura, Ganadería y Pesca, promoverán y canalizarán apoyos atendiendo la racionalidad y disponibilidad presupuestal, a programas de emprendimiento, incubación y creación de nuevos negocios basados en desarrollos científicos y tecnológicos generados en el Estado; asimismo se brindará asesoría en planes de negocios, comercialización, acceso a compras de gobierno y redes de negocios.
+El Instituto en coordinación con las Secretarías de Innovación; Economía; Desarrollo Sustentable; Agricultura y Ganadería; y, Pesca y Acuacultura, promoverán y canalizarán apoyos atendiendo la racionalidad y disponibilidad presupuestal, a programas de emprendimiento, incubación y creación de nuevos negocios basados en desarrollos científicos y tecnológicos generados en el Estado; asimismo se brindará asesoría en planes de negocios, comercialización, acceso a compras de gobierno y redes de negocios.
 
 ###### ARTÍCULO 62.
 
 Los fondos a los que se refiere la presente Ley incluirán un programa específico de apoyos a empresas de innovación en sus etapas iniciales.
 
-ARTÍCULO 63 El Instituto y las Secretarías de Salud, Desarrollo Económico, Agricultura, Ganadería y Pesca y Turismo promoverán la creación de asociaciones de inversionistas que puedan colocar capital en negocios basados en la innovación con perspectivas de crear valor económico. Se podrá otorgar apoyo atendiendo la racionalidad y disponibilidad presupuestal, para la constitución y operación de dichas asociaciones.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 63.
+
+El Instituto y las Secretarías de Salud; Innovación; Economía; Desarrollo Sustentable; Agricultura y Ganadería; Pesca y Acuacultura; y Turismo promoverán la creación de asociaciones de inversionistas que puedan colocar capital en negocios basados en la innovación con perspectivas de crear valor económico. Se podrá otorgar apoyo atendiendo la racionalidad y disponibilidad presupuestal, para la constitución y operación de dichas asociaciones.
 
 ###### ARTÍCULO 64.
 
 El Instituto generará los esquemas apropiados para el otorgamiento de incentivos y apoyos directos de acuerdo a la racionalidad y disponibilidad presupuestal, en la creación de fondos de capital de riesgo con inversión pública y privada, que persigan como objeto el apoyo de capital a negocios basados en la investigación y la innovación.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 65.
 
-Con aportaciones del Instituto y las Secretarías de Salud, Desarrollo Económico, Agricultura, Ganadería y Pesca y Turismo se podrán constituir fondos de garantía para el otorgamiento de líneas de crédito a empresas basadas en innovación y en pequeñas y medianas empresas de los sectores estratégicos del Estado.
+Con aportaciones del Instituto y las Secretarías de Salud; Innovación; Economía; Desarrollo Sustentable; Agricultura y Ganadería; Pesca y Acuacultura; y Turismo se podrán constituir fondos de garantía para el otorgamiento de líneas de crédito a empresas basadas en innovación y en pequeñas y medianas empresas de los sectores estratégicos del Estado.
 
 ### Capítulo XVI. De la Divulgación y Fomento a la Cultura en Ciencia, Tecnología e Innovación
 
@@ -1018,3 +1062,11 @@ P.O. 1 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 832 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 8, FRACCIÓN II; 13; 16, FRACCIONES I, III, IV, V, VI, VII Y TERCER PÁRRAFO; 17, PRIMER PÁRRAFO; 46; 57; 61; 63 Y 65; Y SE ADICIONAN LAS FRACCIONES VIII, IX Y X AL ARTÍCULO 16, TODOS DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACCION DE (SIC) ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
