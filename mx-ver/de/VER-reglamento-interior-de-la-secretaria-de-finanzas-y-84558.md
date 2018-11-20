@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-finanzas-y-84558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-28"
-last_updated: "2016-08-15"
+last_updated: "2018-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 28 de diciembre de 2011.
 
@@ -35,29 +35,37 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar la organización y funcionamiento de la Secretaría de Finanzas y Planeación.
+La Secretaría de Finanzas y Planeación, como dependencia integrante de la Administración Pública Centralizada, tiene a su cargo el ejercicio de las atribuciones y el despacho de los asuntos que le otorgan la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, otras leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas aplicables, así como los asuntos que el Titular del Ejecutivo le encomiende ejecutar y coordinar en las materias a que se refiere el presente Reglamento.
 
-Para efectos del presente ordenamiento, se entenderá por:
+Para efectos del presente Reglamento, se entenderá por:
 
-a) Secretaría: la Secretaría de Finanzas y Planeación;
+I. Áreas Administrativas: La Coordinación de Asesores, las Direcciones Generales, Tesorería, Subprocuradurías, Subdirecciones, Unidades, Jefaturas de Departamento, Consultores y Ejecutivos de Proyecto de la Secretaría;
 
-b) Secretario: el Secretario de Finanzas y Planeación;
+II. Código de Procedimientos Administrativos: El Código número 14 de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
 
-c) Órganos Administrativos: la Oficina de Despacho del Secretario, Subsecretarías y Procuraduría Fiscal;
+III. Código Financiero: El Código número 18 Financiero para el Estado de Veracruz de Ignacio de la Llave;
 
-d) Áreas Administrativas: la Coordinación de Asesores, las Direcciones Generales, Tesorería, Subprocuradurías, Subdirecciones, Unidades, Jefaturas de Departamento, Consultores y Ejecutivos de Proyecto de la Secretaría;
+IV. Comité: El Comité de Transparencia;
 
-e) Reglamento: el Reglamento Interior de la Secretaría;
+V. Ley de Transparencia: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de (sic) Llave;
 
-f) Código Financiero: el Código Número 18 Financiero para el Estado de Veracruz-Llave;
+VI. Órganos Administrativos: La Oficina de Despacho del Secretario, Subsecretarías y Procuraduría Fiscal;
 
-g) Código de Procedimientos Administrativos: el Código Número 14, de Procedimientos Administrativos para el Estado de Veracruz-Llave;
+VII. OVH: La Oficina Virtual de Hacienda;
 
-h) OVH: la Oficina Virtual de Hacienda; y
+VIII. Reglamento: El Reglamento Interior de la Secretaría;
 
-i) TICs: las tecnologías de la información y de las comunicaciones.
+IX. Secretaría: La Secretaría de Finanzas y Planeación;
+
+X. Secretario: El Secretario de Finanzas y Planeación; y
+
+XI. TICs: Las tecnologías de la información y de las comunicaciones.
+
+Cuando por exigencias de construcción gramatical, de enumeración, de orden, o por otra circunstancia cualquiera, el texto del Reglamento use o dé preferencia al género masculino, o haga acepción de sexo que pueda resultar susceptible de interpretarse en sentido restrictivo contra la mujer, las autoridades que prevé el presente reglamento interpretarán el texto confuso en sentido igualitario para hombres y mujeres, de modo que éstas se encuentren equiparadas a aquéllos en términos de estatuto jurídico perfecto, en materia de derechos y obligaciones.
 
 ###### Artículo 2.
 
@@ -129,7 +137,9 @@ Las funciones de los Órganos Administrativos y de sus Áreas Administrativas, d
 
 Los servidores públicos que ocupen la titularidad de Órganos y Áreas Administrativas, ejercerán sus cargos con la denominación que les atribuye este Reglamento.
 
-Asimismo, tendrán el carácter de personal de confianza, estarán obligados a guardar estricta reserva y confidencialidad sobre los asuntos de su respectiva competencia y sujetarán sus actos a las disposiciones del Código Financiero, Código de Procedimientos Administrativos y demás disposiciones aplicables.
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+Asimismo, tendrán el carácter de personal de confianza, estarán obligados a guardar estricta reserva y confidencialidad sobre los asuntos de su respectiva competencia en términos de las leyes de Transparencia, Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Veracruz de Ignacio de la Llave; sujetando sus actos a las disposiciones del Código Financiero, Código de Procedimientos Administrativos, Ley Federal de Presupuesto y Responsabilidad Hacendaria, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
 
 ### CAPÍTULO III. DEL TITULAR DE LA SECRETARÍA
 
@@ -223,9 +233,17 @@ XLI. Designar representantes de la Secretaría, con voz y voto, ante los Comité
 
 XLII. Disponer la administración y registro del patrimonio inmobiliario de la Administración Pública Estatal;
 
-XLIII. Autorizar, de conformidad con la normatividad y disposiciones fiscales aplicables incluyendo los Convenios y los Anexos de éstos suscritos entre el Estado y la Federación, cuando proceda, la destrucción, donación, asignación o venta, de las mercancías de procedencia extranjera, ya sea perecederas o de fácil descomposición o deterioro, inclusive de animales vivos, que se hayan embargado precautoriamente e informar al Titular del Ejecutivo del Estado sobre las acciones realizadas; y
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XLIV. Las demás que se establezcan en las leyes, reglamentos, acuerdos, decretos, convenios y sus anexos, así como las que le confiera el Gobernador del Estado.
+XLIII. Autorizar, de conformidad con la normatividad y disposiciones fiscales aplicables incluyendo los Convenios y los Anexos de éstos suscritos entre el Estado y la Federación, cuando proceda, la destrucción, donación, asignación o venta, de las mercancías de procedencia extranjera, ya sea perecederas o de fácil descomposición o deterioro, inclusive de animales vivos, que se hayan embargado precautoriamente e informar al Titular del Ejecutivo del Estado sobre las acciones realizadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XLIV. Instaurar y presidir el Comité de Transparencia de la Secretaría; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XLV. Las demás que se establezcan en las leyes, reglamentos, acuerdos, decretos, convenios y sus anexos, así como las que le confiera el Gobernador del Estado.
 
 ###### Artículo 15.
 
@@ -233,7 +251,9 @@ Se adscriben a la Oficina de Despacho del Secretario:
 
 I. La Coordinación de Asesores;
 
-II. La Unidad de Acceso a la Información Pública; y
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+II. La Unidad de Transparencia; y
 
 III. La Unidad de Género.
 
@@ -263,25 +283,41 @@ X. Fungir como enlace institucional con la Coordinación General de Comunicació
 
 XI. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 17.
 
-Corresponde a la Jefatura de la Unidad de Acceso a la Información Pública:
+El Jefe de la Unidad de Transparencia de la Secretaría tendrá las siguientes atribuciones:
 
-I. Recibir las solicitudes de acceso a la información que se presenten a la Secretaría;
+I. Recibir y atender oportunamente las solicitudes de acceso a la información que se presenten a la Secretaría, dando la respuesta que en cada caso corresponda;
 
-II. Orientar a los particulares en la presentación de las solicitudes de acceso a la información;
+II. Recibir y atender oportunamente las solicitudes de acceso, rectificación, cancelación y oposición en materia de datos personales que se presenten a la Secretaría, dando la respuesta que en cada caso corresponda;
 
-III. Solicitar a los Órganos y Áreas Administrativas de la Secretaría, los datos o informes que resulten necesarios para dar respuesta a las solicitudes en tiempo y forma;
+III. Orientar a los particulares que así lo soliciten en la presentación de solicitudes de acceso a la información, así como en materia de datos personales;
 
-IV. Realizar las notificaciones a que se refiere la Ley de la materia;
+IV. Solicitar y obtener de las áreas y órganos administrativos de la Secretaría, los datos o informes que resulten necesarios para dar respuesta a las solicitudes de información en tiempo y forma;
 
-V. Elaborar y someter a consideración del Secretario, los informes que establezca la normatividad aplicable;
+V. Promover políticas públicas tendentes a difundir la información pública, así como proteger la información clasificada, de la Secretaría;
 
-VI. Apoyar a los Órganos Administrativos de la Secretaría, para que la información a que se refiere el artículo 8 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, cumpla con los lineamientos establecidos;
+VI. Elaborar los informes que establezca la normatividad aplicable;
 
-VII. Someter a consideración del Comité de Información de Acceso Restringido de la Secretaría, los proyectos de información a clasificar como de acceso restringido, remitidos por los Órganos Administrativos; y
+VII. Disponer lo necesario para la publicación de las obligaciones de transparencia comunes y específicas a cargo de la Secretaría;
 
-VIII. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+VIII. Gestionar y obtener del organismo garante la validación de la tabla de aplicabilidad de las obligaciones de transparencia comunes y específicas, de la Secretaría;
+
+IX. Representar a la Secretaría en los recursos administrativos que se tramiten ante el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales en materia de acceso a la información y protección de datos personales, así como en las denuncias que se presenten relacionadas con las obligaciones de transparencia;
+
+X. Dar seguimiento a las resoluciones que en materia de transparencia, acceso a la información y protección de datos personales emitan los órganos garantes y en su caso las autoridades jurisdiccionales competentes, para lo cual dispondrá lo conducente en cada una de las áreas y órganos administrativos de la Secretaría;
+
+XI. Ser el vínculo de la Secretaría ante los órganos garantes, en materia de transparencia, acceso a la información y protección de datos personales;
+
+XII. Formar parte del Comité en calidad de Secretario;
+
+XIII. Dar cuenta al Comité de la Secretaría respecto de los incumplimientos que, en materia de acceso a la información, protección de datos personales y obligaciones de transparencia comunes y específicas, en que incurran los titulares de cada una de las áreas y órganos administrativos;
+
+XIV. Elaborar el índice de la Secretaría, por rubros temáticos, respecto de los expedientes clasificados como reservados, en los términos que le sean remitidos por las áreas y órganos administrativos de la Secretaría, de conformidad con las disposiciones de la Ley de Transparencia; y
+
+XV. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ###### Artículo 18.
 
@@ -301,9 +337,17 @@ VI. Coordinar las acciones que se requieran con el Instituto Veracruzano de las 
 
 VII. Elaborar y someter a autorización del titular de la Secretaría, el Programa Anual del Trabajo para fortalecer la igualdad de género dentro de la Dependencia;
 
-VIII. Coordinarse con los Órganos y Áreas Administrativas de la Secretaría para la incorporación de la perspectiva de género; y
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-IX. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+VIII. Coordinarse con los Órganos y Áreas Administrativas de la Secretaría para la incorporación de la perspectiva de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+IX. Participar en la actualización de los lineamientos para la elaboración de los Programas Presupuestarios y Actividades Institucionales para así garantizar la igualdad sustantiva y demás atribuciones establecidas en el artículo 13 de la Ley para la Igualdad entre Mujeres y Hombres del Estado de Veracruz de Ignacio de la Llave; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+X. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES COMUNES DE LOS SUBSECRETARIOS Y DEL PROCURADOR FISCAL
 
@@ -351,13 +395,19 @@ XIX. Preparar para el Secretario, la información que le sea requerida por el Co
 
 XX. Conforme a las directrices del Secretario, mantener el enlace con los organismos federales, estatales, municipales, sociales y privados, que intervengan en las actividades inherentes a su Órgano o Área Administrativa;
 
-XXI. Mantener actualizada en la página web de la Secretaría, la información de su competencia, relativa a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XXII. Coadyuvar con la Unidad de Acceso a la Información Pública de la Secretaría, para el cumplimiento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, en materia de su competencia y asegurar la remisión de información de acuerdo con la normatividad aplicable en materia de transparencia y acceso a la información pública;
+XXI. Atender en la forma y términos que le sean solicitados, los requerimientos que le formule la Unidad de Transparencia de la Secretaría, proporcionando la información, así como generando la documentación necesaria en materia de su competencia, o en su caso realizar las acciones necesarias para proteger la información clasificada;
 
-XXIII. Coadyuvar con la Unidad de Género de la Secretaría, en el cumplimiento de la normatividad aplicable en materia de equidad de género;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XXIV. Presentar a la Unidad de Acceso a la Información Pública, los proyectos de información a clasificar como de acceso restringido, para que los someta a consideración del Comité de Información de Acceso Restringido de la Secretaría;
+XXII. Generar y remitir a la Unidad de Trasparencia el índice, por rubros temáticos, de los expedientes clasificados como reservados que estén a su cargo, en los términos que señala la Ley de Transparencia;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXIII. Coadyuvar con la Unidad de Género de la Secretaría, en el cumplimiento de la normatividad aplicable en materia de igualdad de género;
+
+XXIV. (DEROGADA, G.O. 20 DE NOVIEMBRE DE 2019)
 
 XXV. Impulsar en el ámbito interno, el uso de los medios electrónicos para el intercambio de la información generada por las actividades administrativas; y
 
@@ -827,9 +877,9 @@ XVIII. Propiciar la coordinación fiscal entre el Estado y los Municipios;
 
 XIX. Diseñar y someter a la aprobación del Subsecretario, los sistemas de contabilidad de ingresos y movimientos de fondos de las Oficinas de Hacienda del Estado y de la OVH;
 
-> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XX. Concentrar, registrar, verificar, controlar e informar al Subsecretario sobre la recaudación de las Oficinas de Hacienda del Estado y de la OVH, elaborar las pólizas diarias de recaudación, el resumen general de ingresos y los reportes especiales, así como elaborar los informes respectivos;
+XX. Concentrar, registrar, verificar, controlar e informar al Subsecretario sobre la recaudación de las Oficinas de Hacienda del Estado y de la OVH, elaborar el resumen general de ingresos y los reportes especiales, así como elaborar los informes respectivos;
 
 > <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
 
@@ -863,7 +913,9 @@ VI. Proponer para su aprobación al Secretario, los criterios, lineamientos y po
 
 VII. Proponer al Secretario para su autorización, la creación de plazas del personal, al servicio de las dependencias del Poder Ejecutivo;
 
-VIII. Autorizar los movimientos de cancelación, congelación, inamovilidad, descongelación, amovilidad, transferencia, actualización, recategorización y rezonificación de plazas del personal, al servicio de las dependencias del Poder Ejecutivo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Autorizar los movimientos de cancelación, congelación, descongelación, transferencia, actualización, recategorización y rezonificación de plazas del personal al servicio de las dependencias del Poder Ejecutivo;
 
 IX. Coordinar la integración y actualización de la plantilla única de personal de las dependencias y entidades del Poder Ejecutivo;
 
@@ -875,7 +927,9 @@ XII. Coordinar acciones con la Procuraduría Fiscal, para que se hagan efectivas
 
 XIII. Proponer al Secretario, los lineamientos para que los Órganos y Áreas Administrativas de la dependencia, cumplan con las normas y disposiciones en materia de contratación y pago de personal, contratación de servicios, control, adquisiciones, arrendamientos, conservación, mantenimiento, uso, destino, afectación, enajenación y baja de bienes muebles; almacenes y demás activos y recursos materiales;
 
-XIV. Ordenar la validación de los montos viables, para efectuar el pago de liquidaciones o indemnizaciones al personal de las dependencias centralizadas del Poder Ejecutivo del Estado, que se originen con motivo de negociaciones conciliatorias, para resolver conflictos de carácter laboral, así como aquellas de las entidades que lo soliciten;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Ordenar la validación de los montos viables, para efectuar los pagos correspondientes al cumplimiento de laudos u otras resoluciones judiciales y administrativas, pago de liquidaciones o indemnizaciones al personal de las dependencias centralizadas del Poder Ejecutivo del Estado, así como de las entidades que lo soliciten, que se originen con motivo de negociaciones conciliatorias, para resolver conflictos de carácter laboral;
 
 XV. Autorizar la aplicación de los incentivos, que se generen conforme a la Ley y las Condiciones Generales de Trabajo;
 
@@ -957,7 +1011,9 @@ LIII. Proponer al Secretario, medidas que promuevan el uso racional de los servi
 
 LIV. Proponer al Secretario, los programas de capacitación en materia de TICs, para las dependencias y entidades de la Administración Pública Estatal;
 
-LV. Proponer al Secretario, proyectos de normas, políticas y lineamientos, que regirán la prestación de servicios automatizados, la adquisición, uso y estandarización de equipos, aparatos de comunicaciones y telecomunicaciones; así como de bienes informáticos en la Administración Pública Estatal;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+LV. Proponer al Secretario, proyectos de normas, políticas y lineamientos, que regirán la prestación de servicios automatizados, la adquisición, uso y estandarización de equipos, aparatos de comunicaciones y telecomunicaciones; así como de bienes y servicios informáticos en la Administración Pública Estatal;
 
 LVI. Implementar mecanismos de conectividad de los programas sociales de las dependencias y entidades de la Administración Pública Estatal; así como coordinar la integración de la plataforma tecnológica para el registro y control de los padrones de beneficiarios de dichos programas;
 
@@ -1041,13 +1097,17 @@ I. Diseñar y proponer al Subsecretario, las políticas y lineamientos en materi
 
 II. Proponer al Subsecretario, en el ámbito de su competencia, la política interna, directrices, lineamientos y criterios técnicos y administrativos para la planeación, organización y funcionamiento de la Secretaría, así como evaluar su ejecución;
 
-III. Proponer al Subsecretario, los criterios, lineamientos y políticas en materia de selección, contratación, sueldos, salarios, y prestaciones del personal de las dependencias y entidades del Poder Ejecutivo; así como su instrumentación en la Secretaría, e implementar los procedimientos de retención de impuestos y cuotas del personal al servicio de las mismas;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+III. Proponer al Subsecretario, los criterios, lineamientos y políticas en materia de selección, contratación, sueldos, salarios, y prestaciones del personal de las dependencias y entidades del Poder Ejecutivo; así como su instrumentación en la Secretaría, e implementar los procedimientos de retención de impuestos, cuotas de los trabajadores y aportaciones patronales en materia de seguridad social y otros conceptos de deducción; además de supervisar el proceso de sellado digital y timbrado de los pagos por servicios personales de las Dependencias y Entidades de la Administración Pública Estatal;
 
 IV. Mantener actualizado el marco normativo de percepciones y deducciones de las dependencias del Poder Ejecutivo; así como el manual de Recursos Humanos para su aplicación;
 
 V. Autorizar el ejercicio de los recursos financieros en materia de capacitación, previa evaluación que se realice, en coordinación con la Contraloría General de las propuestas de las dependencias del Poder Ejecutivo, conforme a las disposiciones aplicables;
 
-VI. Por acuerdo del Subsecretario, tramitar, supervisar y dar seguimiento a la creación, cancelación, congelación, inamovilidad, descongelación, amovilidad, transferencia, actualización, recategorización, y rezonificación de plazas del personal al servicio de las dependencias del Poder Ejecutivo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+VI. Por acuerdo del Subsecretario, tramitar, supervisar y dar seguimiento a la creación, cancelación, congelación, descongelación, transferencia, actualización, recategorización y rezonificación de plazas del personal al servicio de las dependencias del Poder Ejecutivo;
 
 VII. Participar, en coordinación con la Secretaría de Gobierno, en la atención de los asuntos en materia de relaciones colectivas con los sindicatos de las dependencias y entidades del Poder Ejecutivo;
 
@@ -1055,13 +1115,17 @@ VIII. Dirigir la integración y actualización de la Plantilla Única del person
 
 IX. Analizar las solicitudes de modificación a la plantilla de personal y a sus estructuras ocupacionales de las dependencias y entidades del Poder Ejecutivo;
 
-X. Elaborar la nómina del personal adscrito a la Secretaría y gestionar el pago de salarios, incentivos y prestaciones, mediante cheque o pago electrónico, así como aplicar las deducciones y someter a la consideración del Subsecretario, el nombramiento de los empleados de base y de confianza de la Secretaría y, en su caso, el cese o rescisión de la relación laboral cuando así proceda;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+X. Elaborar la nómina del personal adscrito a la Secretaría y gestionar el pago de salarios, incentivos y prestaciones, directamente a los trabajadores a través de transferencia electrónica a sus respectivas cuentas bancarias, así como aplicar las deducciones y timbrado de las nóminas, además de someter a la consideración del Subsecretario, el nombramiento de los empleados de base y de confianza de la Secretaría y el cese o rescisión de la relación laboral cuando así proceda;
 
 XI. Operar y dar seguimiento a los movimientos de altas, bajas, cambios de adscripción y demás incidencias del personal de la Secretaría y proceder a la aplicación de las adhesiones sindicales, conforme a las autorizaciones emitidas por el Tribunal Estatal de Conciliación y Arbitraje; así como autorizar las comisiones a los servidores públicos, para desempeñar actividades fuera del centro del trabajo al que se encuentran adscritos, siempre y cuando las mismas excedan a treinta días;
 
 XII. Coadyuvar con la Procuraduría Fiscal, en la defensa de los intereses del Gobierno del Estado, en los juicios laborales, derivados de la relación contractual con los trabajadores de la Secretaría;
 
-XIII. Validar los montos conforme a la normatividad para efectuar el pago de liquidaciones o indemnizaciones al personal de las dependencias centralizadas del Poder Ejecutivo del Estado, así como de las entidades que lo soliciten, que se originen con motivo de negociaciones conciliatorias, para resolver conflictos de carácter laboral o por la implementación de programas específicos; considerando la disponibilidad presupuestal de la dependencia;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Validar los montos conforme a la normatividad para efectuar los pagos correspondientes al cumplimiento de laudos u otras resoluciones judiciales y administrativas, pago de liquidaciones o indemnizaciones al personal de las dependencias centralizadas del Poder Ejecutivo del Estado, así como de las entidades que lo soliciten, que se originen con motivo de negociaciones conciliatorias, para resolver conflictos de carácter laboral o por la implementación de programas específicos; considerando la disponibilidad presupuestal de las dependencias o entidades;
 
 XIV. Por acuerdo del Subsecretario, otorgar al personal de la Secretaría los incentivos que establezcan la Ley y las Condiciones Generales de Trabajo del Poder Ejecutivo;
 
@@ -1085,9 +1149,9 @@ XXIII. Aportar a la Procuraduría Fiscal, los elementos jurídicos, para sustent
 
 XXIV. Efectuar, conforme a las disposiciones legales aplicables, las donaciones de bienes muebles de propiedad estatal, cuya administración o asignación, estén a cargo de esta Secretaría;
 
-> <small>(REFORMADA, G.O. 7 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XXV. Atender y, en su caso, resolver las solicitudes de bienes y servicios de los Órganos y Áreas Administrativas de la Secretaría; controlar el destino, baja, asignación y resguardo de maquinaria, vehículos, mobiliario y equipo asignados a éstas; así como controlar los servicios de conservación, uso y mantenimiento de bienes muebles e inmuebles asignados a la Secretaría, Oficinas de Hacienda del Estado, y Delegaciones Regionales del Patrimonio del Estado, con base en la disponibilidad presupuestal;
+XXV. Atender y, en su caso, resolver las solicitudes de bienes y servicios de los Órganos y Áreas Administrativas de la Secretaría; controlar el destino, baja, asignación y resguardo de maquinaria, vehículos, mobiliario y equipo asignados a éstas; así como controlar los servicios de conservación, uso, mantenimiento y rehabilitación de bienes muebles e inmuebles asignados a la Secretaría, Oficinas de Hacienda del Estado, y Delegaciones Regionales del Patrimonio del Estado, con base en la disponibilidad presupuestal;
 
 XXVI. Brindar asesoría a las Áreas Administrativas para que las actividades relacionadas con adquisiciones, arrendamientos, contratación de servicios y enajenación de bienes muebles, se efectúen en condiciones de imparcialidad, eficiencia y transparencia; de acuerdo a la normatividad correspondiente;
 
@@ -1149,7 +1213,9 @@ XLVI. Integrar y remitir a la Procuraduría Fiscal, los expedientes que se elabo
 
 XLVII. Controlar la operación de los servicios generales de la Secretaría, tales como: fotocopiado, impresión, microfilmación, producción audiovisual, oficialía de partes y los demás que se requieran;
 
-XLVIII. Controlar y gestionar el pago centralizado de servicios de telefonía y energía eléctrica que utilicen las dependencias del Poder Ejecutivo, así como los demás que autorice el Secretario;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XLVIII. Controlar y gestionar el pago centralizado de servicios de energía eléctrica que utilicen las dependencias del Poder Ejecutivo, así como los demás que autorice el Secretario;
 
 XLIX. Controlar el alta, baja, destino, asignación y resguardo de maquinaria y vehículos en el padrón vehicular del Gobierno del Estado, conforme a la información proporcionada por las dependencias y entidades del poder ejecutivo;
 
@@ -1179,11 +1245,15 @@ LX. Establecer, operar y controlar las estrategias y líneas de acción, en mate
 
 LXI. Diseñar, promover y dar seguimiento a los lineamientos, criterios y estrategias de capacitación y profesionalización para el personal de las dependencias del Poder Ejecutivo del Estado, con base en la disponibilidad presupuestal;
 
-LXII. Dirigir, conforme a las disposiciones en la materia, en forma permanente y sistemática, la capacitación integral, en sus distintas modalidades, en relación al personal adscrito al Poder Ejecutivo del Estado; así como evaluar los requerimientos y estrategias de capacitación solicitados por las dependencias del Poder Ejecutivo del Estado, conforme a la normatividad establecida;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+LXII. Dirigir, conforme a las disposiciones en la materia, en forma permanente y sistemática, la capacitación integral, en sus distintas versiones, incluyendo la capacitación continua en su modalidad de diplomados, en relación al personal adscrito al Poder Ejecutivo del Estado; así como evaluar los requerimientos y estrategias de capacitación solicitados por las dependencias de la administración pública estatal, conforme a la normatividad establecida;
 
 LXIII. Proponer al Subsecretario, los lineamientos, criterios y metodología, para la aplicación de los programas de capacitación y para la profesionalización del Servicio Público de Carrera;
 
-LXIV. Suscribir contratos de servicios profesionales y programas de colaboración con instituciones de educación superior o de investigación, públicas o privadas, colegios de profesionistas o instituciones afines, para aplicar los programas de capacitación y para la profesionalización y del Servicio Público de Carrera, o aquéllos cuya aplicación se traduzca en beneficios a los servidores públicos de la Secretaría;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+LXIV. Suscribir contratos de servicios profesionales y programas de colaboración con instituciones de educación superior o de investigación, públicas o privadas, colegios de profesionistas o instituciones afines, para aplicar los programas de capacitación y para la profesionalización y del Servicio Público de Carrera, o aquéllos cuya aplicación se traduzca en beneficios a los servidores públicos de la administración pública estatal;
 
 LXV. Supervisar los procesos del Servicio Público de Carrera, que efectúen las dependencias, de conformidad con la normatividad aplicable;
 
@@ -1191,7 +1261,9 @@ LXVI. Proponer mecanismos para asignar estímulos económicos y de cualquier tip
 
 LXVII. Vigilar que los Órganos y Áreas Administrativas de la dependencia, cuando el trámite se realice a través de esta Dirección General, cumplan con las normas y disposiciones en materia de contratación y pago de personal, contratación de servicios, control, adquisiciones, arrendamientos, conservación, mantenimiento, uso, destino, afectación, enajenación, baja de bienes muebles, almacenes y demás activos y recursos materiales;
 
-LXVIII. Organizar y establecer las medidas necesarias a las cuales se sujetarán los Órganos y Áreas Administrativas, para la preservación, resguardo y depuración de los archivos documentales de la dependencia, que estén bajo su custodia;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+LXVIII. Informar las medidas necesarias a las cuales se sujetarán los Órganos y Áreas Administrativas, para el resguardo y depuración de los archivos documentales de concentración e histórico de la dependencia, que estén bajo su custodia acorde a las leyes y disposiciones aplicables de la materia;
 
 LXIX. Integrar las propuestas de las Áreas responsables de la Secretaría, así como de las dependencias, el tipo de bienes susceptibles de aseguramiento, para someterlas a la consideración del Subsecretario, a fin de gestionar ante las empresas aseguradoras que resulten seleccionadas, la correcta aplicación de los beneficios de las pólizas a favor del Gobierno del Estado; y
 
@@ -1209,33 +1281,73 @@ III. Informar periódicamente al Subsecretario de la situación que guarda la Ad
 
 IV. Conducir, fomentar y habilitar la adopción y uso de nuevas tecnologías de la información y las comunicaciones, así como la actualización de las TICs, que operen en la Administración Pública Estatal;
 
-V. Planear y organizar conjuntamente con las unidades administrativas responsables, los programas de capacitación en materia de TICs, para las dependencias y entidades de la Administración Pública Estatal; así como, monitorear y evaluar el desempeño de dichos programas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-VI. Someter a la consideración del Subsecretario, proyectos de normas, políticas y lineamientos que regulen la prestación de servicios que incorporen TICs en su entrega; la adquisición, arrendamiento o uso de productos, licencias, equipos y aparatos de comunicaciones y telecomunicaciones; así como de bienes informáticos en la Administración Pública Estatal y difundir su contenido una vez aprobadas;
+V. Evaluar los bienes y servicios informáticos que pretendan adquirir las dependencias y entidades para que cuenten con las características y compatibilidad requerida para uso y operación propios de la función a la que sean destinados, ajustándose para ello a criterios de austeridad y a los estándares tecnológicos emitidos por la Secretaría;
 
-VII. Evaluar a las Áreas Administrativas responsables del manejo de las TICs, en las dependencias y entidades de la Administración Pública Estatal, para que mantengan actualizado mensualmente el inventario electrónico de sus bienes tecnológicos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Someter a la consideración del Subsecretario y, en su caso, conducir los proyectos de desarrollo e integración de sistemas de información de la Secretaría, que permitan automatizar y modernizar funciones y procesos mediante el empleo de las TICs; así como, conducir, en coordinación con los titulares de las Áreas Administrativas responsables de las TICs, los proyectos de automatización en las dependencias y entidades de la Administración Pública Estatal;
+VI. Planear y organizar conjuntamente con las unidades administrativas responsables, los programas de capacitación en materia de TICs, para las dependencias y entidades de la Administración Pública Estatal; así como, monitorear y evaluar el desempeño de dichos programas;
 
-IX. Conducir y promover la investigación, el análisis y el desarrollo de programas en materia de innovación gubernamental y tecnológica, para la Administración Pública Estatal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-X. Establecer, mantener y supervisar los enlaces de voz, datos y video de la Secretaría y verificar aquéllos que sean considerados prioritarios y que se efectúen por las dependencias y entidades de la Administración Pública Estatal, promoviendo el uso de nuevas tecnologías;
+VII. Revisar los bienes informáticos destinados a baja definitiva para la detección de partes reaprovechables del bien destinado, eficientando el uso de bienes y dispositivos informáticos;
 
-XI. Someter a la consideración del Subsecretario, la suscripción de convenios de coordinación y vinculación en materia de TICs, así como la cultura informática, con instituciones públicas o privadas;
+> <small>(REFORMADA Y REUBICADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XII. Someter para autorización del Subsecretario, el registro de derechos de autor y propiedad intelectual de los sistemas, interfases y plataformas tecnológicas desarrolladas en el Gobierno del Estado y, en su caso verificar e informar al Subsecretario el registro por parte de las Áreas Administrativas responsables del desarrollo de dichas tecnologías en dependencias y entidades de la Administración Pública Estatal; asimismo, llevar a cabo dichos registros que correspondan a la Secretaría;
+VIII. Presentar a la consideración del Subsecretario, proyectos de normas, políticas y lineamientos que regulen la prestación de servicios que incorporen TICs en su entrega; la adquisición, arrendamiento o uso de productos, licencias, equipos y aparatos de comunicaciones y telecomunicaciones; así como de bienes y servicios informáticos en la Administración Pública Estatal y difundir su contenido una vez aprobadas;
 
-XIII. Participar en los comités, subcomités, grupos de trabajo, otras instancias de coordinación y en todo tipo de seminarios, congresos, certámenes y demás eventos relacionados con la promoción, mejora y vanguardia en materia de TICs e innovación tecnológica, que organicen las dependencias y entidades de los gobiernos federal, estatal y municipal, así como coordinar la participación imprescindible de las Áreas Administrativas responsables de los sistemas de información de las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA Y REUBICADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XIV. Someter a la consideración del Subsecretario, medidas que promuevan el uso racional de los servicios de telefonía que utilicen las dependencias y entidades del Poder Ejecutivo, tendentes a reducir el gasto en este rubro;
+IX. Coordinarse con los titulares de las Áreas responsables de las TICs, para el levantamiento de un censo informático del Gobierno del Estado de manera semestral, en cuanto a Hardware, Software, licencias o sistemas propios, resguardos, personal especializado con los perfiles correspondientes para informar al Subsecretario, del contexto en que se encuentra la Administración Pública Estatal en materia de TICs;
 
-XV. Validar, en coordinación con la Secretaría de Desarrollo Social, a través de la Dirección General de Obras Públicas, que los inmuebles nuevos de propiedad estatal o aquéllos que sean remodelados para la prestación de un servicio público, cuenten con las condiciones adecuadas para la interconectividad de las dependencias y entidades del Poder Ejecutivo;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XVI. Coordinar la conectividad de los programas sociales de las dependencias y entidades de la Administración Pública Estatal, que se financien con recursos estatales o que participen de fondos o recursos federales; así como, la integración de la plataforma tecnológica para el registro y control de los padrones de beneficiarios de dichos programas, como instrumentos fundamentales para la mejora de la operación de los mismos;
+X. Someter a la consideración del Subsecretario y, en su caso, conducir los proyectos de desarrollo e integración de sistemas de información de la Secretaría, que permitan automatizar y modernizar funciones y procesos mediante el empleo de las TICs; así como, conducir, en coordinación con los titulares de las Áreas Administrativas responsables de las TICs, los proyectos de automatización en las dependencias y entidades de la Administración Pública Estatal;
 
-XVII. Promover y verificar que las dependencias y entidades de la Administración Pública Estatal, determinen la información para posicionar el contenido electrónico de las paginas, sitios y portales del Gobierno del Estado en los motores de búsqueda del ciberespacio; y
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XVIII. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+XI. Conducir y promover la investigación, el análisis y el desarrollo de programas en materia de innovación gubernamental y tecnológica, para la Administración Pública Estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XII. Establecer, mantener y supervisar los enlaces de voz, datos y video de la Secretaría y verificar aquéllos que sean considerados prioritarios y que se efectúen por las dependencias y entidades de la Administración Pública Estatal, promoviendo el uso de nuevas tecnologías;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Someter a la consideración del Subsecretario, la suscripción de convenios de coordinación y vinculación en materia de TICs, así como la cultura informática, con instituciones públicas o privadas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Someter para autorización del Subsecretario, el registro de derechos de autor y propiedad intelectual de los sistemas, interfases y plataformas tecnológicas desarrolladas en el Gobierno del Estado y, en su caso verificar e informar al Subsecretario el registro por parte de las Áreas Administrativas responsables del desarrollo de dichas tecnologías en dependencias y entidades de la Administración Pública Estatal; asimismo, llevar a cabo dichos registros que correspondan a la Secretaría;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XV. Participar en los comités, subcomités, grupos de trabajo, otras instancias de coordinación y en todo tipo de seminarios, congresos, certámenes y demás eventos relacionados con la promoción, mejora y vanguardia en materia de TICs e innovación tecnológica, que organicen las dependencias y entidades de los gobiernos federal, estatal y municipal, así como coordinar la participación imprescindible de las Áreas Administrativas responsables de los sistemas de información de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Someter a la consideración del Subsecretario, medidas que promuevan el uso racional de los servicios de telefonía que utilicen las dependencias y entidades del Poder Ejecutivo, tendentes a reducir el gasto en este rubro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Controlar la contratación y gestionar el pago centralizado de servicios de telefonía e Internet que utilicen las dependencias y entidades del Poder Ejecutivo, así como los demás que autorice el Secretario procurando que sean los estrictamente necesarios para el desempeño de sus funciones;
+
+> <small>(REFORMADA Y REUBICADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Validar, en coordinación con la Secretaría de Desarrollo Social, a través de la Dirección General correspondiente, que los inmuebles nuevos de propiedad estatal o aquéllos que sean remodelados para la prestación de un servicio público, cuenten con las condiciones adecuadas para la interconectividad de las dependencias y entidades del Poder Ejecutivo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Coordinar la conectividad de los programas sociales de las dependencias y entidades de la Administración Pública Estatal, que se financien con recursos estatales o que participen de fondos o recursos federales; así como, la integración de la plataforma tecnológica para el registro y control de los padrones de beneficiarios de dichos programas, como instrumentos fundamentales para la mejora de la operación de los mismos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XX. Promover y verificar que las dependencias y entidades de la Administración Pública Estatal, determinen la información para posicionar el contenido electrónico de las paginas, sitios y portales del Gobierno del Estado en los motores de búsqueda del ciberespacio; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ###### Artículo 32.
 
@@ -1317,55 +1429,103 @@ XXXVII. Las demás que deriven de las disposiciones legales aplicables y las que
 
 ###### Artículo 33.
 
-Corresponde a la Dirección General de Fideicomisos y Desincorporación de Activos:
+Corresponde al Director General de Fideicomisos y Desincorporación de Activos:
 
-I. Coordinar la recepción, estudio, análisis y autorización de las solicitudes que realicen las dependencias y entidades del Gobierno del Estado, para la integración constitución y operación de nuevos fideicomisos públicos del Poder Ejecutivo del Estado, para acuerdo del Subsecretario;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-II. Proponer al Subsecretario, la normatividad necesaria para establecer las bases de operación de los fideicomisos públicos del Gobierno del Estado;
+I. Coordinar la recepción, estudio, análisis y gestión de autorización de las solicitudes que realicen las dependencias y/o entidades del Gobierno del Estado, para la integración, constitución y formalización de nuevos fideicomisos públicos del Poder Ejecutivo del Estado, para acuerdo del Subsecretario;
 
-III. Proponer al Subsecretario, los lineamientos para el funcionamiento de las operadoras que coadyuvan en la operación de los fideicomisos públicos del Gobierno del Estado;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-IV. Proponer al Subsecretario los términos y condiciones generales de las propuestas de honorarios por el servicio fiduciario para la formalización de los contratos y convenios de los fideicomisos públicos;
+II. Proponer al Subsecretario, las actualizaciones y reformas necesarias a los Lineamientos para el funcionamiento de los fideicomisos públicos del Gobierno del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+III. Proponer al Subsecretario, las disposiciones a las que deberán sujetarse las operadoras que coadyuven en la operación y funcionamiento de los fideicomisos públicos del Gobierno del Estado;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+IV. Presentar al Subsecretario los términos y condiciones generales de las propuestas de honorarios por el servicio fiduciario para la formalización de los contratos y convenios de los fideicomisos públicos para su elegibilidad;
 
 V. Participar con el comité técnico y el responsable operativo en la operación de los comités técnicos de los fideicomisos, para que en todo momento den cumplimiento a la normatividad aplicable;
 
-VI. Coordinar con el comité técnico y la Procuraduría Fiscal los acuerdos que tengan como finalidad:
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+VI. Coordinar con el responsable operativo, el comité técnico y la Procuraduría Fiscal los acuerdos que tengan como finalidad:
 
 a) Modificar las bases de creación y los términos y condiciones de los fideicomisos públicos;
 
-b) Iniciar el proceso de sustituir a las entidades financieras que fungen como fiduciarios; y
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-c) Extinguir los fideicomisos, de conformidad a la normatividad aplicable;
+b) Iniciar el proceso de sustitución de las instituciones financieras que fungen como fiduciarios; y
 
-VII. Consolidar, para efectos de cuenta pública la información financiera generada por las instituciones fiduciarias o por las áreas operativas de los fideicomisos, donde la Secretaría funge como fideicomitente único del Gobierno del Estado;
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Participar con el responsable operativo y los entes fiscalizadores en los asuntos que deriven de las relaciones vinculadas con la operación de los fideicomisos;
+c) Extinguir los fideicomisos públicos, de conformidad a la normatividad aplicable.
 
-IX. Representar a la Secretaría ante los comités técnicos de los fideicomisos públicos, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-X. Coordinar con las dependencias y entidades del Gobierno del Estado, la identificación de los bienes de propiedad estatal, susceptibles de desincorporación;
+VII. Gestionar y consolidar, para efectos de integración de la cuenta pública, la información financiera generada por las instituciones fiduciarias o la armonizada por las áreas operativas de los fideicomisos públicos, donde la Secretaría funge como fideicomitente único del Gobierno del Estado;
 
-XI. Solicitar los estudios técnicos necesarios, para valorar los bienes susceptibles de desincorporación;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XII. Determinar las acciones que deban emprenderse, para la desincorporación de los bienes que sean susceptibles de enajenación;
+VIII. Coadyuvar con el responsable operativo, los comités técnicos y los entes fiscalizadores en los procesos que deriven de la operación vinculada de los fideicomisos públicos;
 
-XIII. Definir los esquemas legales y financieros, que sustenten la desincorporación de bienes, salvaguardando los intereses del Estado;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XIV. Integrar la información documental para soportar la desincorporación de activos;
+IX. Representar a la Secretaría ante los comités técnicos, subcomités o equivalentes en los fideicomisos públicos, de conformidad con las disposiciones legales aplicables;
 
-XV. Dar seguimiento a las iniciativas del Ejecutivo presentadas al Congreso del Estado, relativas a la autorización para la enajenación de los activos estatales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XVI. Integrar el padrón de bienes inmuebles a desincorporar que se encuentran bajo resguardo de las dependencias y entidades del Poder Ejecutivo del Estado;
+X. Participar como invitado permanente y con derecho a voz, en las sesiones de comité técnico de los fideicomisos públicos;
 
-XVII. Revisar los proyectos de los títulos de concesión o permisos que, en su caso, se vayan a otorgar como parte de los procesos de desincorporación de activos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XVIII. Dictaminar la desincorporación de activos estatales;
+XI. Coordinar con las dependencias y entidades del Gobierno del Estado, la identificación de los bienes de propiedad estatal, susceptibles de desincorporación;
 
-XIX. Atender los asuntos que deriven de las revisiones vinculadas con la desincorporación de activos, que lleven a cabo los órganos de control y fiscalización;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XX. Tramitar, previo acuerdo del Subsecretario y en coordinación con la Procuraduría Fiscal, la autorización del pleno del Congreso del Estado o, en su caso, de la Diputación Permanente, para la enajenación de bienes muebles e inmuebles de la Administración Pública Estatal; y
+XII. Solicitar los estudios técnicos necesarios, para valorar los bienes susceptibles de desincorporación;
 
-XXI. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Determinar las acciones que deban emprenderse, para la desincorporación de los bienes que sean susceptibles de enajenación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Definir los esquemas legales y financieros, que sustenten la desincorporación de bienes, salvaguardando los intereses del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XV. Integrar la información documental para soportar la desincorporación de activos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Dar seguimiento a las iniciativas del Ejecutivo presentadas al Congreso del Estado, relativas a la autorización para la enajenación de los activos estatales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Integrar el padrón de bienes inmuebles a desincorporar que se encuentran bajo resguardo de las dependencias y entidades del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Revisar los proyectos de los títulos de concesión o permisos que, en su caso, se vayan a otorgar como parte de los procesos de desincorporación de activos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Dictaminar la desincorporación de activos estatales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XX. Atender los asuntos que deriven de las revisiones vinculadas con la desincorporación de activos, que lleven a cabo los órganos de control y fiscalización;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Tramitar, previo acuerdo del Subsecretario y en coordinación con la Procuraduría Fiscal, la autorización del pleno del Congreso del Estado o, en su caso, de la Diputación Permanente, para la enajenación de bienes muebles e inmuebles de la Administración Pública Estatal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXII. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ###### Artículo 34.
 
@@ -1475,7 +1635,9 @@ VIII. Calcular los egresos del Gobierno del Estado, formular y someter a la cons
 
 IX. Dictaminar para conocimiento del Secretario, sobre sus solicitudes de modificación presupuestal;
 
-X. Autorizar la suficiencia presupuestal de los programas de inversión pública en materia de infraestructura, remitidos por las dependencias y entidades de la administración pública estatal, ajustados a su presupuesto asignado;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+X. Proponer al Secretario para su autorización, la suficiencia presupuestal para la Cartera de Programas y Proyectos de Inversión (CPPI), remitidas por las dependencias y entidades de la administración pública estatal, ajustados a su presupuesto asignado;
 
 XI. Formular mensualmente los estados financieros consolidados de la Hacienda Pública, así como el informe pormenorizado, relativo a la conclusión de cada ejercicio y someterlo a la consideración del Secretario, para su presentación al Ejecutivo;
 
@@ -1487,37 +1649,55 @@ XIV. Autorizar el calendario del gasto público estatal, y aprobar la disponibil
 
 XV. Autorizar las afectaciones, transferencias y recalendarizaciones presupuestales, de acuerdo a los lineamientos establecidos;
 
-XVI. Autorizar la suficiencia presupuestal a las dependencias y entidades de la Administración Pública Estatal, para el ejercicio del gasto público asignado a sus programas;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Autorizar los dictámenes presupuestales a las dependencias y entidades de la Administración Pública Estatal, para el ejercicio del gasto público asignado a sus programas;
 
 XVII. Resguardar, conservar y custodiar el conjunto de la documentación contable y presupuestal, consistente en libros de contabilidad, registros contables y documentación comprobatoria y justificatoria del gasto público de la Secretaría;
 
-XVIII. Asesorar a las dependencias y entidades de la Administración Pública Estatal, para el debido cumplimiento de las normas y disposiciones en materia de sistemas de registro y contabilidad, presupuestación, programación y pago de personal;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Asesorar a las dependencias y entidades de la Administración Pública Estatal, para el debido cumplimiento de las normas y disposiciones en materia de sistemas de registro y contabilidad, presupuestación, programación, pago de personal y aplicación de recursos en inversión pública;
 
 XIX. Otorgar la disponibilidad presupuestal a los apoyos o subsidios que autorice el Titular del Ejecutivo del Estado, a favor de los municipios o de instituciones de los sectores social y privado;
 
 XX. Evaluar las solicitudes de ampliación presupuestal, por modificaciones a las estructuras orgánicas y de recursos humanos, que presenten las dependencias y entidades de la Administración Pública del Estado;
 
-XXI. Por acuerdo del Secretario, instrumentar la política presupuestal del Estado relativa a la inversión pública en materia de infraestructura para el desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Por acuerdo del Secretario, instrumentar la política presupuestal del Estado relativa a la inversión pública así como de infraestructura para el Desarrollo;
 
 XXII. Elaborar para aprobación del Secretario, el programa financiero del Gobierno del Estado;
 
-XXIII. Formular en coordinación con otras dependencias y entidades del Ejecutivo Estatal, y presentar para aprobación del Secretario, las alternativas de inversión del Gobierno del Estado, en materia de infraestructura para el desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXIII. Formular en coordinación con otras dependencias y entidades del Ejecutivo Estatal, y presentar para aprobación del Secretario, las alternativas de inversión pública así como de infraestructura para el Desarrollo del Gobierno del Estado;
 
 XXIV. En el ámbito de su competencia y en coordinación con la Procuraduría Fiscal, intervenir en la elaboración, revisión e interpretación de los acuerdos, convenios y anexos de ejecución que deba celebrar el Gobierno del Estado con la Federación, otras Entidades Federativas y Municipios;
 
-XXV. Proponer al Secretario, los medios de control presupuestal de las inversiones públicas en materia de infraestructura para el desarrollo que realice el Gobierno del Estado para su definición y establecimiento;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXV. Proponer al Secretario, los medios de control presupuestal de las inversiones públicas así como de infraestructura para el Desarrollo que realice el Gobierno del Estado para su definición y establecimiento;
 
 XXVI. Coadyuvar con información a la Contraloría General, para que los recursos financieros ministrados por la Federación al Gobierno del Estado, sean canalizados a los objetivos propuestos en los programas respectivos;
 
 XXVII. En el ámbito de su competencia, elaborar en coordinación con la Procuraduría Fiscal, los proyectos o anteproyectos de leyes, reglamentos, decretos, acuerdos y órdenes;
 
-XXVIII. Autorizar la suficiencia presupuestal de obras y acciones de infraestructura para el desarrollo; así como promover la aplicación de las normas y lineamientos en la materia;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XXIX. Aprobar los programas financieros de los proyectos técnicos de infraestructura para el desarrollo, previa verificación de su congruencia con los conceptos y especificaciones de éstos;
+XXVIII. Promover la aplicación de las normas y lineamientos en la materia de inversión pública;
 
-XXX. Verificar y comprobar que las dependencias y entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones de programación financiera de la inversión pública, en materia de infraestructura para el desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XXXI. Coadyuvar con las dependencias y entidades en la elaboración de estudios de evaluación social y económica, en materia de proyectos de inversión pública;
+XXIX. Revisar y someter a aprobación del Secretario la Cartera de Programas y Proyectos de Inversión, elaborados por las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXX. Verificar y comprobar que las dependencias y entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones de programación financiera de la inversión pública así como de infraestructura para el Desarrollo;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXXI. Coadyuvar con las dependencias y entidades en la revisión de estudios de evaluación social y económica, en materia de proyectos de inversión pública así como de infraestructura para el desarrollo;
 
 XXXII. Poner a consideración del Secretario los proyectos de dictamen, sobre la procedencia de modificaciones al presupuesto de las dependencias y entidades de la Administración Pública, conforme a las solicitudes presentadas por las mismas;
 
@@ -1529,13 +1709,33 @@ XXXV. Coordinar con las dependencias y entidades del Poder Ejecutivo, la elabora
 
 XXXVI. Emitir las disposiciones generales para integrar la Cuenta Pública del Estado;
 
-XXXVII. Atender, a través de las Direcciones Generales de Programación y Presupuesto y de Contabilidad Gubernamental, los asuntos relativos a la contabilidad y control presupuestal de la Secretaría;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XXXVIII. Consolidar los informes trimestrales de avances financieros y el cierre de ejercicio presupuestal de los programas y proyectos de infraestructura para el desarrollo, incluyendo los avances físicos reportados por las dependencias y entidades ejecutoras de obra;
+XXXVII. Atender, a través de las Direcciones Generales de Programación y Presupuesto, de Contabilidad Gubernamental y de Inversión Pública, los asuntos relativos a la contabilidad y control presupuestal de la Secretaría;
 
-XXXIX. Gestionar ante la Tesorería, la liberación de recursos de obra pública, autorizados a las dependencias y entidades ejecutoras dentro del rubro de la infraestructura para el desarrollo; y
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXXVIII. Consolidar los informes trimestrales de avances financieros y el cierre de ejercicio presupuestal de los programas y proyectos de inversión pública así como de infraestructura para el Desarrollo, incluyendo los avances reportados por las dependencias y entidades ejecutoras de obra;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXXIX. Gestionar ante la Tesorería, la liberación de recursos de obra pública, autorizados a las dependencias y entidades ejecutoras dentro del rubro de inversión pública así como de infraestructura para el Desarrollo;
 
 XL. Coordinar actividades relacionadas con el padrón de contratistas.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XLI. Supervisar que los recursos federales asignados a las ejecutoras, sean registrados dentro del Sistema de Recursos Federales Transferidos de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XLII. Supervisar el cumplimiento y atención de la documentación solicitada por los entes fiscalizadores, la Procuraduría Fiscal y la Unidad de Transparencia de esta Secretaría; y
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA FRACCIÓN XLIII ES IDÉNTICO A LA FRACCIÓN XL.]</small>
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XLIII. Coordinar actividades relacionadas con el padrón de contratistas.
 
 ###### Artículo 36.
 
@@ -1635,47 +1835,107 @@ XV. Las demás que deriven de las disposiciones legales aplicables y las que exp
 
 Corresponde al Director General de Inversión Pública:
 
-I. Presentar ante el Subsecretario, los programas de inversión pública en materia de infraestructura remitidos por las dependencias y entidades de la Administración Pública Estatal, ajustadas a su presupuesto asignado para su aprobación;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-II. Apoyar al Subsecretario en la instrumentación y aplicación de la política presupuestal relativa a la inversión pública, en materia de infraestructura para el desarrollo del Estado;
+I. Presentar ante el Subsecretario, las Carteras de Programas y Proyectos de Inversión (CPPI), remitidos por las dependencias y entidades de la Administración Pública Estatal, ajustadas a su presupuesto asignado para su aprobación;
 
-III. En el ámbito de su competencia, apoyar al Subsecretario en la elaboración, revisión e interpretación de los acuerdos, convenios y Anexos de ejecución, que deba celebrar el Gobierno del Estado con la Federación, otras Entidades Federativas y Municipios, en materia de infraestructura para el desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-IV. En coordinación con la Procuraduría Fiscal, participar en la elaboración de los proyectos o anteproyectos de iniciativas de leyes, reglamentos, acuerdos, decretos y demás disposiciones de observancia general, relativas a infraestructura para el desarrollo;
+II. Apoyar al Subsecretario en la instrumentación y aplicación de la política presupuestal relativa a la inversión pública así como de infraestructura para el Desarrollo;
 
-V. Registrar los proyectos técnicos de infraestructura para el desarrollo, elaborados por las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-VI. Revisar normativa y financieramente, así como registrar los trámites de liberación de recursos de obra pública solicitados por las dependencias y entidades ejecutoras, dentro del rubro de infraestructura para el desarrollo para su afectación en el sistema;
+III. En el ámbito de su competencia, apoyar al Subsecretario en la elaboración, revisión e interpretación de los acuerdos, convenios y anexos de ejecución, que deba celebrar el Gobierno del Estado con la Federación, otras Entidades Federativas y Municipios, en materia de inversión pública así como de infraestructura para el Desarrollo;
 
-VII. Proponer al Subsecretario, los medios de control presupuestal, de las inversiones públicas en materia de infraestructura para el desarrollo que realice el Gobierno del Estado para su definición y establecimiento;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Verificar y registrar en materia programático-presupuestal, las obras y acciones de infraestructura para el desarrollo, así como promover en el manejo de recursos federales y estatales, la aplicación de las normas y lineamientos en materia de evaluación y rendición de cuentas;
+IV. En coordinación con la Procuraduría Fiscal, participar en la elaboración de los proyectos o anteproyectos de iniciativas de leyes, reglamentos, acuerdos, decretos, convenios y demás disposiciones de observancia general, relativos a inversión pública así como de infraestructura para el Desarrollo;
 
-IX. Controlar las provisiones financieras, en materia de infraestructura para el desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-X. Revisar los procedimientos administrativos generales y proponer alternativas que permitan la reducción de tiempos, en la gestión de recursos, destinados a inversión pública, en materia de infraestructura para el desarrollo;
+V. Registrar la Cartera de Programas y Proyectos de Inversión (CPPI), elaborados por las dependencias, entidades de la Administración Pública Estatal y Organismos Autónomos;
 
-XI. Dar seguimiento periódico al estado que guardan los programas y presupuestos relativos a infraestructura, para el desarrollo de las diversas dependencias y entidades de la Administración Pública Estatal e informar de los avances al Subsecretario;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XII. Operar y mantener actualizado el Padrón de Contratistas de Obras Públicas del Gobierno del Estado, así como tramitar y resolver las incidencias relacionadas con la inscripción, refrendo, suspensión y cancelación de los registros, de conformidad con lo dispuesto por la Ley de Obras Públicas para el Estado;
+VI. Revisar normativa y financieramente, así como gestionar los trámites de liberación de recursos de inversión pública así como de infraestructura para el Desarrollo solicitados por las dependencias, entidades ejecutoras y organismos autónomos, para su registro en el sistema de información;
 
-XIII. Orientar a las dependencias y entidades en materia de normas y lineamientos establecidos para la aplicación de los recursos, destinados a infraestructura para el desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+VII. Proponer al Subsecretario, los medios de control presupuestal, de la inversión pública así como de infraestructura para el Desarrollo que realice el Gobierno del Estado para su definición y establecimiento;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Verificar y registrar en materia programático-presupuestal, la Cartera de Programas y Proyectos de Inversión así como de infraestructura para el Desarrollo, y promover en el manejo de recursos federales y estatales, la aplicación de las normas y lineamientos en materia de evaluación, transparencia y rendición de cuentas;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+IX. Controlar las provisiones financieras y proponer alternativas de inversión pública así como de infraestructura para el Desarrollo del Gobierno del Estado, a través de Reportes e Informes Financieros;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+X. Revisar los procedimientos administrativos generales y proponer alternativas que permitan la reducción de tiempos, en la gestión de recursos, destinados a inversión pública así como de infraestructura para el Desarrollo;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XI. Dar seguimiento periódico al estado que guardan los programas y presupuestos relativos a inversión pública así como de infraestructura para el Desarrollo, de las diversas dependencias y entidades de la Administración Pública Estatal e informar de los avances al Subsecretario;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XII. Operar y mantener actualizado el Padrón de Contratistas de Obras Públicas del Gobierno del Estado, así como tramitar y resolver las incidencias relacionadas con la inscripción, refrendo, suspensión y cancelación de los registros, de conformidad con lo dispuesto por la Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Orientar a las dependencias y entidades en materia de normas y lineamientos establecidos para la aplicación de los recursos, destinados a inversión pública así como de infraestructura para el Desarrollo;
 
 XIV. Asesorar, cuando así se determine, a las dependencias y entidades en la realización de los estudios de evaluación social y económica, en materia de proyectos de inversión pública;
 
-XV. Integrar información oficial, en materia de infraestructura para el desarrollo, conforme a los compromisos establecidos en los acuerdos, convenios y anexos de ejecución de obras y acciones, celebrados por el Gobierno del Estado, con el Gobierno Federal, otras entidades federativas o municipios;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XVI. Presentar al Subsecretario, la información financiera que resulte de los registros en materia de infraestructura para el desarrollo;
+XV. Integrar información oficial, en materia de inversión pública así como de infraestructura para el Desarrollo, conforme a los compromisos establecidos en los acuerdos, convenios y anexos de ejecución de obras y acciones, celebrados por el Gobierno del Estado, con el Gobierno Federal, otras entidades federativas o municipios;
 
-XVII. Consolidar y validar información, con las dependencias y entidades ejecutoras de los programas de infraestructura para el desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XVIII. Someter a la consideración del Subsecretario, los informes trimestrales de avances financieros y cierre de ejercicio presupuestal de los programas y proyectos de infraestructura para el desarrollo, incluyendo los avances físicos reportados por las dependencias y entidades ejecutoras de obra;
+XVI. Presentar al Subsecretario, la información financiera que resulte de los registros en materia de inversión pública así como de infraestructura para el Desarrollo;
 
-XIX. Registrar las solicitudes autorizadas de ampliación presupuestal, de las dependencias y entidades de la Administración Pública Estatal, en materia de infraestructura para el desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XX. Proporcionar información a la Contraloría General de los recursos financieros ministrados por la Federación al Gobierno del Estado para inversión pública, para coadyuvar en que sean canalizados a los objetivos, propuestos en los programas respectivos; y
+XVII. Consolidar y validar información, con las dependencias y entidades ejecutoras de la Cartera de Programas y Proyectos de Inversión (CPPI) para mantener actualizado el Sistema de Información;
 
-XXI. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Someter a la consideración del Subsecretario, los informes trimestrales de avances financieros y cierre de ejercicio presupuestal de los programas y proyectos de inversión pública así como de infraestructura para el Desarrollo, incluyendo los avances reportados por las dependencias y entidades ejecutoras de obra;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Registrar las solicitudes autorizadas de ampliación y reducción presupuestal, de las dependencias y entidades de la Administración Pública Estatal, en materia de inversión Pública así como de infraestructura para el Desarrollo;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XX. Proporcionar información a la Contraloría General del Estado, Órgano Superior de Fiscalización del Estado y la Tesorería de esta Secretaría, de los recursos financieros ministrados por la Federación al Gobierno del Estado para inversión pública, para coadyuvar en que sean canalizados a los objetivos, propuestos en los programas respectivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Coordinar con la Dirección General de Programación y Presupuesto, la autorización de la disponibilidad presupuestal asignada a inversión pública;
+
+> <small>(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXII. Supervisar que los recursos federales asignados a las ejecutoras relativos a inversión pública así como de infraestructura para el Desarrollo, sean registrados dentro del Sistema de Recursos Federales Transferidos de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXIII. Supervisar la información de su competencia que será publicada a través de la página web de la Secretaría, en lo relativo a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, con el fin de corroborar que los datos se presenten en tiempo y forma;
+
+> <small>(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXIV. Supervisar el cumplimiento y atención de la documentación solicitada por los entes fiscalizadores, la Procuraduría Fiscal y la Unidad de Transparencia de esta Secretaría, relativo a inversión pública;
+
+> <small>(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXV. Supervisar que se encuentre actualizado el archivo general de la Dirección General; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXVI. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ### CAPÍTULO X. DE LA SUBSECRETARÍA DE PLANEACIÓN
 
@@ -1683,127 +1943,231 @@ XXI. Las demás que deriven de las disposiciones legales aplicables y las que ex
 
 Corresponde al Subsecretario de Planeación:
 
-I. Coordinar el Comité de Planeación para el Desarrollo del Estado de Veracruz, conforme a los lineamientos y directrices que determine el Secretario;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-II. Representar al Comité de Planeación para el Desarrollo del Estado de Veracruz, en las reuniones que se celebren con otros Comités del país, así como ante las dependencias y entidades de los gobiernos federal, estatal y municipal;
+I. Impulsar y apoyar la coordinación de las acciones del Comité de Planeación para el Desarrollo del Estado de Veracruz, en el marco del Sistema Estatal de Planeación Democrática, promoviendo la participación de los sectores y organismos públicos, sociales y privados;
 
-III. Coadyuvar en la formulación, actualización, instrumentación, control y evaluación del Plan Estatal de Desarrollo y de los programas que de él se deriven, en el marco del Sistema de Planeación Democrática Estatal;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-IV. Auxiliar al Secretario en la revisión y validación de los programas sectoriales, regionales y especiales; así como en la actualización y modificación;
+II. Promover y coordinar, en su caso, la operación de los consejos, subcomités sectoriales, regionales y especiales, grupos de trabajo y otras instancias del Comité de Planeación para el Desarrollo del Estado de Veracruz; y participar como asesor técnico y normativo, para impulsar mecanismos de planeación que contribuyan al desarrollo social y económico del Estado;
 
-V. Participar en la elaboración e integración del programa sectorial de la Secretaría;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-VI. Promover y coordinar, por instrucciones del Secretario, la participación de los sectores social y privado del Estado, en la formulación del programa sectorial de la Secretaría;
+III. Representar al Comité de Planeación para el Desarrollo del Estado de Veracruz, en las reuniones que se celebren en materia de planeación para el desarrollo, con otros comités similares del país, así como ante las dependencias y entidades de los gobiernos federal, estatal y municipal;
 
-VII. Elaborar y sugerir al Secretario, estrategias que fortalezcan el Sistema Estatal de Planeación Democrática, acordes con el Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Coordinar en representación del Secretario y a petición de las dependencias ejecutoras, los trabajos de los subcomités sectoriales, regionales y especiales, así como de los grupos de trabajo del Comité de Planeación para el Desarrollo del Estado de Veracruz;
+IV. Proponer al Secretario, los lineamientos y la metodología para la elaboración de programas sectoriales, especiales, institucionales y regionales por parte de las dependencias y entidades de la Administración Pública Estatal;
 
-IX. Promover, de acuerdo con las instrucciones del Secretario, la instalación de subcomités especiales, sectoriales, regionales, grupos de trabajo y otras instancias de organización del Comité de Planeación para el Desarrollo del Estado de Veracruz, que propicien la creación y el fortalecimiento de mecanismos de coordinación, que contribuyan al desarrollo económico del Estado;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-X. Establecer, por acuerdo del Secretario, el enlace con los Comités de Planeación Municipal en el Estado, para acordar la participación de los Ayuntamientos, en el proceso de planeación del desarrollo del Estado;
+V. Someter a consideración del Secretario, los dictámenes finales de los programas sectoriales, especiales y regionales para aprobación del C. Gobernador del Estado;
 
-XI. Opinar respecto de los criterios generales y mecanismos de coordinación con la Federación y los Municipios, en materia de planeación para el desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XII. Analizar y poner a consideración del Secretario, a petición de las dependencias ejecutoras, las estrategias que fortalezcan la federalización de los programas de desarrollo social;
+VI. Coordinar la elaboración e integración del programa sectorial de la Secretaría;
 
-XIII. Analizar los convenios de coordinación con la Federación y los Municipios, en materia de gasto social y planeación del desarrollo;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XIV. Realizar, por acuerdo del Secretario, el seguimiento físico y financiero de los programas y acciones convenidos con el Gobierno Federal, que corresponda atender al Comité de Planeación para el Desarrollo del Estado de Veracruz;
+VII. Instruir la evaluación de resultados de los programas sectoriales, especiales e institucionales que se derivan del Plan Veracruzano de Desarrollo;
 
-XV. Auxiliar al Secretario, en coordinación con las demás Secretarías, en la verificación periódica de la relación que guardan los programas y presupuestos de las diversas dependencias y entidades de la Administración Pública Estatal, con los propósitos y objetivos del Plan Estatal de Desarrollo, así como con los resultados de su ejecución;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XVI. Dar seguimiento a los programas y acciones convenidos con el Gobierno Federal, que corresponda atender al Comité de Planeación para el Desarrollo del Estado de Veracruz;
+VIII. Coordinar la elaboración de estudios, proyectos y análisis, considerando aspectos vinculados al desarrollo demográfico, económico y social, útiles para los procesos de planeación de las Dependencias y Entidades del Gobierno de Veracruz; así como la elaboración de informes que reflejen el estatus del Estado en los indicadores nacionales, para la toma de decisiones;
 
-XVII. Coordinar, mantener actualizado y promover el desarrollo del sistema estatal de información, mediante la generación de las estadísticas económicas, financieras y sociodemográficas más relevantes, para las actividades de planeación del Gobierno del Estado;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XVIII. Realizar el seguimiento de las principales variables macroeconómicas de los Gobiernos Federal y Estatal;
+IX. Proponer al Secretario, la suscripción de acuerdos y convenios de coordinación y colaboración en materia de información estadística y geográfica con otros órdenes de gobierno, los poderes y organismos autónomos, instituciones académicas públicas y privadas, para impulsar el desarrollo del Sistema Estatal de Información Estadística y Geográfica del Estado de Veracruz (SEIEG);
 
-XIX. Promover actividades de difusión, capacitación, investigación y asesoría sobre temas prioritarios de la planeación del desarrollo de la Entidad, entre las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como entre los sectores privado y social;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XX. Emitir opinión, acerca de la situación socioeconómica de la Entidad;
+X. Diseñar y proponer al Secretario, para su aprobación, las políticas, estrategias, líneas de acción e instrumentos de política del Sistema Estatal de Información Estadística y Geográfica del Estado de Veracruz (SEIEG);
 
-XXI. Calcular y publicar la distribución de los fondos de aportaciones federales entre los Municipios del Estado, con base en las disposiciones de la Ley de Coordinación Fiscal y la normatividad aplicable;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XXII. Por acuerdo del Secretario, en el ámbito de competencia del Comité de Planeación para el Desarrollo del Estado de Veracruz, en coordinación con otras dependencias de Gobierno Estatal y Federal, y con pleno respeto a la autoridad municipal, promover el desarrollo institucional de los Ayuntamientos del Estado;
+XI. Elaborar y someter a consideración del Secretario, el Programa Estatal de Estadística y Geografía (PEEG), así como del Programa Anual de Trabajo de Estadística y Geografía (PAT), para ser sometidos a consideración del Comité Estatal de Información Estadística y Geográfica de Veracruz (CEIEG Veracruz);
 
-XXIII. Formular el Programa Operativo Anual del Comité de Planeación para el Desarrollo del Estado de Veracruz, en coordinación con las dependencias y entidades que presiden los subcomités especiales, sectoriales, regionales, grupos de trabajo y otras instancias que lo integran para su aprobación superior;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-XXIV. Elaborar el informe anual de labores del Comité de Planeación para el Desarrollo del Estado de Veracruz; y
+XII. Participar en la planeación, gestión y seguimiento de recursos provenientes de fondos específicos para el desarrollo, estatales y federales; así como en la integración de las carteras de proyectos a financiar con dichos recursos;
 
-XXV. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Proponer para la autorización del Secretario, el Programa Anual de Evaluación de la Administración Pública Estatal, que podrá incluir evaluaciones a los Programas Presupuestarios en sus diferentes modalidades; así como específicas a los Fondos Federales de Participaciones y Aportaciones (Ramos 23 y 33); supervisar su cumplimiento, difusión y publicación, así como coordinar la participación de una Instancia Técnica Independiente de acuerdo a los términos que marca la normatividad;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Coordinar la integración y funcionamiento de los grupos de trabajo creados para atender la operación de los programas o fondos federales, fideicomisos o convenios, que en materia de su competencia sean asignados por el Secretario;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XV. Verificar y presentar al Secretario, para firma del Gobernador del Estado, los cálculos de las asignaciones anuales que les corresponden a los Municipios Veracruzanos de los fondos de aportaciones (Ramo General 33), de conformidad con la Ley de Coordinación Fiscal y la normatividad aplicable, que habrán de publicarse en la Gaceta Oficial;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Coordinar las acciones operativas vinculadas a la implementación del Presupuesto basado en Resultados (PbR) y del Sistema de Evaluación del Desempeño (SED), en tanto instancia técnica facultada en el Estado de Veracruz, para su implementación en las Dependencias y Entidades del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Proponer al Secretario, los ajustes normativos vinculados a los Procesos de PbR-SED; así como la elaboración de normas y anteproyectos de iniciativas de ley en materia del Servicio Público de Información Estadística y Geográfica, y que faciliten el acceso del público a la información estadística y geográfica generada;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Coordinar la integración de proyectos estadísticos y geo-referenciales para apoyar en las fases de Planeación, Programación y Evaluación del Ciclo Presupuestario, así como en la implementación del PbR en el Gobierno del Estado;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Diseñar e instrumentar en la Administración Pública Estatal la capacitación técnica y especializada vinculada al PbR y el SED; así como la capacitación técnica de las áreas con funciones estadísticas y geográficas, fomentando la cultura del uso de la información estadística y geográfica;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XX. Coordinar la generación de información precisa y específica para la construcción de indicadores de desempeño, así como para apoyar las fases de Planeación, Programación y Evaluación del Ciclo Presupuestario y la implementación del Presupuesto Basado en Resultados (PbR) en el Gobierno del Estado;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Definir los objetivos, indicadores y metas del Sistema de Evaluación del Desempeño, así como dictaminar el diseño de Programas Presupuestarios y Actividades Institucionales y sus indicadores de desempeño para su inclusión, en el proyecto de Presupuesto de Egresos para el ejercicio fiscal que corresponda;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXII. Fungir como enlace para apoyar en la implementación del Presupuesto basado en Resultados (PbR) y el Sistema de Evaluación del Desempeño (SED) con los poderes Legislativo, Judicial y organismos autónomos y su correspondencia con el ámbito federal, en los términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXIII. Instruir el diseño de herramientas y mecanismos de evaluación que acompañen al Programa Anual de Evaluación y la elaboración de los informes que se deriven; así como, dar seguimiento a la difusión y publicidad de los resultados de las evaluaciones del desempeño y al cumplimiento de los mecanismos para el seguimiento a los aspectos susceptibles de mejora, de conformidad con las disposiciones aplicables, en coordinación con otras instancias competentes;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXIV. Coordinar la evaluación del desempeño a que se refiere el Código Financiero del Estado de Veracruz de Ignacio de la Llave, así como su seguimiento, sin perjuicio de las atribuciones que correspondan a la Contraloría General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+XXV. Establecer mecanismos de coordinación en materia de seguimiento y evaluación del desempeño con la Contraloría General, y las demás instancias del Gobierno del Estado que se requieran, así como, cuando corresponda, con los municipios, conforme a las disposiciones aplicables;
+
+(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 20199
+
+XXVI. Instruir y supervisar la atención de las observaciones y recomendaciones emitidas por los Entes Fiscalizadores en materia de Evaluación de Fondos Federales de Participaciones y Aportaciones (Ramos 23 y 33), así como los derivados de Cuenta Pública Anual y los Informes Trimestrales del Gasto Público en materia de Evaluación del Desempeño;
+
+(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 20199
+
+XXVII. Coordinar por acuerdo del Secretario, la integración del Informe de Gobierno para el Sector Finanzas, así como la glosa del informe de la Secretaría y fungir como enlace ante las instancias correspondientes para la elaboración del informe del ejecutivo;
+
+(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 20199
+
+XXVIII. Coadyuvar con la Subsecretaría de Egresos para incluir en la Cuenta Pública y los Informes Trimestrales del Gasto el análisis de los indicadores de postura fiscal del Estado, así como del panorama económico estatal para el periodo reportado;
+
+(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 20199
+
+XXIX. Establecer, coordinar y dar seguimiento a los procedimientos, así como a las acciones necesarias para el adecuado funcionamiento de las contralorías ciudadanas de la Secretaría de Finanzas y Planeación;
+
+(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 20199
+
+XXX. Fungir como Enlace, Vocal o Representante de la Secretaría, en los Consejos, Comités y Comisiones, en la titularidad o suplencia que se le designe; y
+
+(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018.
+
+XXXI. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-El Subsecretario de Planeación será asistido, por los Directores Generales de Financiamiento y Seguimiento de Programas de Desarrollo; de Planeación y Evaluación para el Desarrollo; por los Subdirectores, Jefes de Departamento y Ejecutivos de Proyecto; así como por el personal administrativo que las necesidades del servicio requieran, atendiendo a la disponibilidad presupuestal.
+El Subsecretario de Planeación será asistido, por los Directores Generales de Planeación y Evaluación y, del Sistema Estatal de Planeación; por los Subdirectores, Jefes de Departamento y Ejecutivos de Proyectos; así como por el personal administrativo que las necesidades del servicio requieran, atendiendo a la disponibilidad presupuestal.
 
 ###### Artículo 43.
 
 Se adscriben a la Subsecretaría de Planeación las siguientes Áreas Administrativas:
 
-I. Dirección General de Financiamiento y Seguimiento de Programas de Desarrollo; y
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-II. Dirección General de Planeación y Evaluación para el Desarrollo.
+I. Dirección General de Planeación y Evaluación; y
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+II. Dirección General del Sistema Estatal de Planeación.
+
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 44.
 
-Corresponde al Director General de Financiamiento y Seguimiento de Programas de Desarrollo:
+Corresponde al Director General de Planeación y Evaluación:
 
-I. Colaborar en la elaboración del programa sectorial de la Secretaría, con base en las prioridades establecidas en el Plan Estatal de Desarrollo;
+I. Asistir al Subsecretario en la operación del Comité de Planeación para el Desarrollo del Estado de Veracruz; así como integrar y someter a su aprobación, el Programa Operativo Anual y el informe anual de labores del Comité;
 
-II. Realizar las actividades necesarias para el seguimiento físico y financiero de los programas, acciones y convenios con el Gobierno Federal, que corresponda atender en materia de planeación para el desarrollo;
+II. Coadyuvar con el Subsecretario, en la operación de los consejos, subcomités sectoriales, regionales y especiales, grupos de trabajo y otras instancias de planeación del Comité de Planeación para el Desarrollo del Estado de Veracruz;
 
-III. Analizar y dar seguimiento a los programas federales y estatales, así como sus respectivas reglas de operación, con la finalidad de realizar propuestas para que el Gobierno del Estado, direccione los recursos y acciones, conforme al Plan Estatal de Desarrollo;
+III. Someter a consideración del Subsecretario el proyecto de los lineamientos y la metodología para la elaboración de programas sectoriales, especiales, institucionales y regionales por parte de las dependencias y entidades de la Administración Pública Estatal;
 
-IV. Participar, en el marco del Fideicomiso para el Desarrollo Regional Sur-Sureste (FIDESUR), en las reuniones de seguimiento de los comités técnicos y grupos para la actualización de la estrategia y agenda de trabajo, para el desarrollo regional del Sur-Sureste;
+IV. Coordinar y apoyar en la elaboración de los Programas Sectoriales, Especiales y Regionales que se deriven del Plan Veracruzano de Desarrollo, emitiendo el dictamen correspondiente para someterlo a la aprobación del Subsecretario;
 
-V. Colaborar en el diseño de estrategias y programas de desarrollo de impacto en los estados del Sur-Sureste en el marco del FIDESUR;
+V. Asistir al Subsecretario en las acciones de coordinación para la elaboración e integración del programa sectorial de la Secretaría;
 
-VI. Colaborar en la elaboración de estudios financiados con recursos del FIDESUR;
+VI. Diseñar la estructura programática presupuestal, en coordinación con la Dirección General de Programación y Presupuesto, verificando su alineación con el Plan Veracruzano de Desarrollo y los Programas Sectoriales;
 
-VII. Informar al Subsecretario sobre la distribución de los recursos del Ramo 33, aportaciones federales para entidades federativas y municipios, entre los Municipios del Estado, con base en las disposiciones de la Ley de Coordinación Fiscal;
+VII. Elaborar estudios, proyectos y análisis considerando aspectos vinculados al desarrollo demográfico, económico y social, útiles para los procesos de Planeación de las Dependencias y Entidades del Gobierno de Veracruz, y elaborar Informes que reflejen el estatus del Estado en los indicadores nacionales, para la toma de decisiones;
 
-VIII. Colaborar con la Dirección General de Planeación y Evaluación para el Desarrollo, en la integración del Programa Operativo Anual, del Comité de Planeación para el Desarrollo del Estado de Veracruz;
+VIII. Proponer al Subsecretario, la suscripción de acuerdos y convenios de coordinación y colaboración en materia de información estadística y geográfica con otros órdenes de gobierno, los poderes y organismos autónomos, instituciones académicas públicas y privadas, para impulsar el desarrollo del Sistema Estatal de Información Estadística y Geográfica (SEIEG);
 
-IX. Colaborar en la integración del informe anual de labores, en materia de gasto social y financiamiento, del Comité de Planeación para el Desarrollo del Estado de Veracruz; y
+IX. Asistir al Subsecretario en el diseño de las políticas, estrategias, líneas de acción e instrumentos de política del Sistema Estatal de Información Estadística y Geográfica del Estado de Veracruz (SEIEG);
 
-X. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+X. Elaborar el Programa Estatal de Estadística y Geografía (PEEG), así como el Programa Anual de Trabajo de Estadística y Geografía (PAT), para ser sometidos a consideración del Comité Estatal de Información Estadística y Geográfica de Veracruz (CEIEG Veracruz);
+
+XI. Coordinar por acuerdo del Subsecretario, las acciones operativas vinculadas a la implementación del PbR-SED, en tanto instancia técnica facultada en el Estado de Veracruz, para su implementación en las Dependencias y Entidades del Poder Ejecutivo del Estado;
+
+XII. Promover la actualización del marco normativo del SEIEG mediante la expedición de las leyes y normas que establezcan y reglamenten el Servicio Público de Información Estadística y Geográfica, y que faciliten el acceso del público a la información estadística y geográfica generada;
+
+XIII. Integrar proyectos estadísticos y geo-referenciales para apoyar en las fases de Planeación, Programación y Evaluación del Ciclo Presupuesto, así como en la implementación del PbR en el Gobierno del Estado;
+
+XIV. Asistir al Subsecretario en el diseño e instrumentación en la Administración Pública Estatal, de la capacitación técnica de las áreas con funciones estadísticas y geográficas;
+
+XV. Asistir al Subsecretario en el diseño e instrumentación de la capacitación técnica y especializada vinculada al PbR-SED, en la Administración Pública Estatal;
+
+XVI. Generar información precisa y específica en las distintas materias, para la construcción de indicadores de desempeño, para apoyar las fases de Planeación, Programación y Evaluación del Ciclo Presupuestario, así como en la implementación del PbR en el Gobierno del Estado;
+
+XVII. Coadyuvar con las dependencias y entidades de la Administración Pública Estatal, en el diseño de indicadores de desempeño para Categorías Programáticas estatales y federales;
+
+XVIII. Apoyar por acuerdo del Subsecretario, a los organismos autónomos y poderes legislativo y judicial, en las acciones operativas vinculadas a la implementación del PbR-SED;
+
+XIX. Elaborar, por instrucción del Subsecretario, proyectos de actualización de la normatividad y acciones operativas vinculados a los procesos del PbR-SED;
+
+XX. Apoyar al Subsecretario, en la integración del Informe de Gobierno para el Sector Finanzas, así como la glosa del informe de la Secretaría;
+
+XXI. Someter a consideración del Subsecretario el análisis de los indicadores de postura fiscal del Estado, así como del panorama económico estatal para el periodo reportado en la Cuenta Pública y los Informes Trimestrales del Gasto; y
+
+XXII. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 45.
 
-Corresponde al Director General de Planeación y Evaluación para el Desarrollo:
+Corresponde al Director General del Sistema Estatal de Planeación:
 
-I. Apoyar al Subsecretario, en la operación del Comité de Planeación para el Desarrollo del Estado de Veracruz y promover la participación de los sectores y organismos públicos, sociales y privados, en la formulación del Plan Estatal de Desarrollo;
+I. Asistir al Subsecretario en la coordinación, integración y funcionamiento de los grupos de trabajo creados para atender la operación de los programas o fondos federales, fideicomisos o convenios que corresponda atender;
 
-II. Colaborar en la instalación y operación de los subcomités especiales, sectoriales, regionales, grupos de trabajo y otras instancias de organización del Comité de Planeación para el Desarrollo del Estado de Veracruz, así como revisar los programas que se derivan del Plan Estatal de Desarrollo;
+II. Diseñar y realizar los Informes de Evaluación de Resultados de los programas sectoriales, especiales e institucionales que se derivan del Plan Veracruzano de Desarrollo;
 
-III. Elaborar estudios y proyectos para la definición de políticas y lineamientos orientados a la planeación del desarrollo y la atención de la pobreza para presentarlos al Subsecretario;
+III. Coordinar por acuerdo del Subsecretario, las acciones operativas vinculadas a la planeación, gestión y seguimiento de recursos provenientes de Fondos Específicos para el Desarrollo, Estatales y Federales; así como en la integración de las carteras de proyectos a financiar con dichos recursos;
 
-IV. Dar seguimiento a las estadísticas de los tres órdenes de Gobierno y de instituciones públicas y privadas, relacionadas con la información económica, demográfica y social, proponiendo lineamientos que optimicen el desarrollo y control de su registro;
+IV. Calcular y coordinar la publicación oficial de la distribución de los fondos de aportaciones federales (Ramo General 33) entre los Municipios del Estado, con base en las disposiciones de la Ley de Coordinación Fiscal y la normatividad aplicable;
 
-V. Dar seguimiento a las principales variables macroeconómicas de los gobiernos Federal y Estatal y elaborar informes para el Subsecretario;
+V. Atender las observaciones efectuadas por los diversos Órganos de Fiscalización que competan a la Subsecretaría;
 
-VI. Representar al Subsecretario en reuniones con Comités de Planeación para el Desarrollo de otras entidades del país;
+VI. Proponer y ejecutar las evaluaciones a realizar en el Programa Anual de Evaluación, que podrá incluir evaluaciones a los Programas Presupuestarios en sus diferentes modalidades; así como específicas a los Fondos Federales de Participaciones y Aportaciones (Ramos 23 y 33), para en su caso, la implementación de acciones preventivas y correctivas;
 
-VII. Elaborar y proponer al Subsecretario, el Programa Operativo Anual del Comité de Planeación para el Desarrollo del Estado de Veracruz, en el ámbito de su competencia;
+VII. Elaborar y presentar al Subsecretario, el Programa Anual de Evaluación de la Secretaría; proponer los instrumentos técnicos con base en las herramientas diseñadas por la Secretaría de Hacienda y Crédito Público (SHCP), el Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL) y la propia Secretaría; y coordinar la participación de una instancia técnica independiente de acuerdo a los términos que marca la normatividad;
 
-VIII. Coordinar los trabajos del Subcomité Especial de Estadística del Comité de Planeación para el Desarrollo del Estado de Veracruz y de otros subcomités regionales y especiales, que indique el Subsecretario;
+VIII. Analizar y consolidar la información vinculada al avance de indicadores de desempeño registrada en el sistema para su seguimiento e integración en la cuenta pública estatal e informes trimestrales del gasto;
 
-IX. Integrar y someter a la consideración para aprobación del Subsecretario, la parte correspondiente al informe anual de labores, del Comité de Planeación para el Desarrollo del Estado de Veracruz;
+IX. Coordinar a los enlaces institucionales de las Dependencias y Entidades del Poder Ejecutivo para el seguimiento y registro de avances de indicadores de desempeño, así como analizar los resultados y justificaciones para proponer acciones correctivas;
 
-X. Colaborar en la elaboración del programa sectorial de la Secretaría con base en las prioridades establecidas en el Plan Estatal de Desarrollo;
+X. Coordinar y dar seguimiento a la elaboración por parte de las Ejecutoras de los Proyectos de Mejora (PM) en el marco del Sistema de Evaluación del Desempeño Estatal (SED);
 
-XI. Analizar la iniciativa de la Ley de Planeación del Estado y participar en la elaboración de su Reglamento;
+XI. Gestionar la publicación en el Portal de Internet de la Secretaría, de todos los productos derivados del proceso de Evaluación del Programa Anual de Evaluación (PAE); así como promover su publicación en las páginas de las Ejecutoras evaluadas en cumplimiento a la normatividad aplicable;
 
-XII. Colaborar en el desarrollo, instalación, operación, seguimiento y control del Sistema Veracruzano de Información Georeferenciada;
+XII. Establecer, por acuerdo del Subsecretario, las actividades, compromisos, responsabilidades, metas y calendario para la planeación, promoción, operación y verificación de las acciones en materia de Contraloría Ciudadana comprometidas por la Secretaría;
 
-XIII. Apoyar al Subsecretario en el diseño de una nueva regionalización, que tome como base el criterio de las cuencas hidrológicas, y de políticas públicas, con vocación a la protección del medio ambiente;
+XIII. Participar en el diseño de estrategias y programas, así como en las reuniones de seguimiento de los comités técnicos y grupos de trabajo relativos al Fideicomiso para el Desarrollo Regional Sur-Sureste (FIDESUR) y desarrollar las actividades y colaboraciones correspondientes; y
 
-XIV. Auxiliar al Subsecretario, en los compromisos derivados de la Comisión del Sistema de Indicadores de Desempeño;
-
-XV. Auxiliar al Subsecretario, en los compromisos derivados del seguimiento y evaluación del Plan Estatal de Desarrollo; y
-
-XVI. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+XIV. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ### CAPÍTULO XI. DE LA PROCURADURÍA FISCAL
 
@@ -1961,11 +2325,17 @@ LV. Certificar las documentales que obren en poder de la Procuraduría, que sean
 
 LVI. Nombrar a los Jefes de Departamento y designar a los abogados y demás personal de las Áreas Administrativas adscritas a la Procuraduría Fiscal, salvo a los Subprocuradores y al secretario particular del Procurador Fiscal, quienes serán designados directamente por el Secretario;
 
-> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2018)</small>
 
-LVII. Ser el asesor jurídico en materia inmobiliaria en los asuntos que correspondan a la Dependencia; y
+LVII. Ser el asesor jurídico en materia inmobiliaria en los asuntos que correspondan a la Dependencia;
 
-LVIII. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+LVIII. Designar al servidor público que ocupará el cargo de subprocurador que temporal o permanentemente se ausente, en tanto el Secretario realiza el nombramiento definitivo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE NOVIEMBRE DE 2018)</small>
+
+LIX. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ###### Artículo 47.
 
@@ -2668,3 +3038,13 @@ G.O. 15 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACIÓN".]
+
+Primero. Publíquese en la Gaceta Oficial del Estado.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero. La Subsecretaría de Finanzas y Administración a través del área correspondiente deberá actualizar los Manuales de Organización y de Procedimientos.
