@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-consejo-ciudadano-de-seguridad-y-95970"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-06"
-last_updated: "2013-09-06"
+last_updated: "2018-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO CIUDADANO DE SEGURIDAD Y JUSTICIA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO CIUDADANO DE SEGURIDAD Y JUSTICIA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 20 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO CIUDADANO DE SEGURIDAD Y JUSTICIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2018 (DEROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 06 de septiembre de 2013.
 
@@ -33,7 +35,9 @@ Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos
 
 RAFAEL MORENO VALLE ROSAS, Gobernador Constitucional del Estado Libre y Soberano de Puebla; y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Que por las razones expuestas y en ejercicio de las facultades que me confieren los artículos 79 fracciones II, IV, XXIII y XXXIII de la Constitución Política del Estado Libre y Soberano de Puebla; 5 y 74 de la Ley Orgánica de la Administración Pública del Estado, he tenido a bien expedir el siguiente:
 
@@ -360,3 +364,15 @@ SEGUNDO.- La vigencia del presente Reglamento estará sujeta a la del Acuerdo de
 TERCERO.- Quedan sin efecto todas aquéllas disposiciones que contravengan lo dispuesto en el presente Reglamento.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a diecisiete de mayo de dos mil trece.- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.- El Secretario de Educación Pública.- C. JORGE ALBERTO LOZOYA LEGORRETA.- Rúbrica.- El Procurador General de Justicia.- C. VÍCTOR ANTONIO CARRANCÁ BOURGET.- Rúbrica.- El Secretario de Seguridad Pública.- C. FACUNDO ROSAS ROSAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DEL CONSEJO CIUDADANO DE SEGURIDAD Y JUSTICIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se deroga el Reglamento Interior del Consejo Ciudadano de Seguridad y Justicia del Estado de Puebla, publicado el seis de septiembre de dos mil trece en el Periódico Oficial del Estado.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
