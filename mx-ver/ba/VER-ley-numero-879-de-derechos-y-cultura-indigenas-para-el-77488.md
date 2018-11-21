@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-879-de-derechos-y-cultura-indigenas-para-el-77488"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-03"
-last_updated: "2013-08-22"
+last_updated: "2018-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 879 DE DERECHOS Y CULTURAS INDÍGENAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 3 de noviembre de 2010.
 
@@ -459,7 +459,9 @@ Los Consejos Consultivos Regionales por acuerdo de la mayoría de sus integrante
 
 ## TÍTULO III. DE LOS DERECHOS SOCIALES DE LOS PUEBLOS Y COMUNIDADES DE INDÍGENAS
 
-### CAPÍTULO I. DEL DERECHO A LA ALIMENTACIÓN Y LA SALUD
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO I. DEL DERECHO A LA ALIMENTACIÓN, SALUD Y LA SEGURIDAD SOCIAL
 
 ###### Artículo 43.
 
@@ -496,6 +498,12 @@ La Secretaría de Salud, con la participación de las autoridades indígenas, im
 ###### Artículo 48.
 
 A las mujeres indígenas se les garantizará el derecho a decidir libre e informadamente sobre el número y espaciamiento de los hijos. Para este efecto el Estado, a través de las autoridades sanitarias, implementará programas de salud sexual y reproductiva que permitan la planificación familiar, como una responsabilidad compartida entre mujeres y hombres y atender con prioridad la salud física y emocional de la madre.
+
+> <small>(ADICIONADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 48 Bis.
+
+El Estado promoverá la extensión progresiva de los regímenes de seguridad social a los pueblos y comunidades indígenas interesados, aplicándolos sin discriminación alguna.
 
 ### CAPÍTULO II. DE LA EDUCACIÓN Y LA CULTURA
 
@@ -924,3 +932,11 @@ G.O. 22 DE AGOSTO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 775 POR EL QUE SE REFORMA EL CAPÍTULO I DEL TÍTULO III Y SE ADICIONA EL ARTÍCULO 48 BIS DE LA LEY DE DERECHOS Y CULTURAS INDÍGENAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.”]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
