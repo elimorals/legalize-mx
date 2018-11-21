@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2018-05-10"
+last_updated: "2018-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:10 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -1095,7 +1095,7 @@ Todo Acuerdo Interno deberá estar fundado y motivado, en función de criterios 
 
 ###### Artículo 75 Quater.
 
-Al aprobarse el Acuerdo lnterno deberá ser firmado por la mayoría de los Diputados integrantes de la Comisión, y se entregará a quien deba cumplirlo.
+Al aprobarse el Acuerdo Interno deberá ser firmado por la mayoría de los Diputados integrantes de la Comisión, y se entregará a quien deba cumplirlo.
 
 Si mediante Acuerdo Interno se diera por concluido el trámite de un expediente parlamentario, se le comunicará a la Secretaría Parlamentaria, para los efectos conducentes.
 
@@ -1437,9 +1437,7 @@ IV. Concluir con proposiciones claras y sencillas que puedan sujetarse a votaci�
 
 Cuando los dictámenes se refieran a la proposición de una iniciativa de Ley, Decreto o Acuerdo, contendrá una exposición clara y precisa de los motivos de la misma y el texto íntegro de los Artículos propuestos y en su caso de los que se pretenda reformar o derogar.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
-
-Sólo para el caso de los dictámenes derivados de las iniciativas con proyectos de leyes de ingresos de los municipios, por mayoría simple de los diputados presentes, podrá dispensarse la lectura de los mismos, siempre y cuando el dictamen se haya hecho del conocimiento de los diputados integrantes de la Legislatura, al menos con cuarenta y ocho horas de anticipación a la sesión que corresponda; tanto en forma impresa como digital. De aprobarse la omisión de la lectura, la comisión competente deberá presentar ante el Pleno una síntesis de cada uno de los dictámenes con proyecto de Ley, Decreto o Acuerdo, según corresponda, y se procederá a su discusión y, en su caso, aprobación, en los términos que establece la Ley Orgánica del Poder Legislativo y el presente Reglamento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
@@ -2056,3 +2054,15 @@ El presente Decreto iniciará su vigencia al momento de su aprobación, con exce
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 9.- SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 125 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación, debiéndose publicar en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
