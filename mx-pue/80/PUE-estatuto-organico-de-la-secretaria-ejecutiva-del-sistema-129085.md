@@ -4,7 +4,7 @@ identifier: "PUE-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-129085
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-03-23"
-last_updated: "2018-03-23"
+last_updated: "2018-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,974 +21,766 @@ state: "PUE"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DEL ESTADO DE PUEBLA
 
-LEY DE INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE PUEBLA
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2018.
 
-EL C. HUMBERTO MOREIRA VALDÉS, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+Estatuto publicado en la Sexta Sección al Número 16 del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2018.
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
+ACUERDO del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, por el que aprueba y emite el ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN.
 
-DECRETA:
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos, Gobierno del Estado de Puebla.
 
-NÚMERO 522.-
+HÉCTOR ENRIQUE REYES PACHECO, Secretario Técnico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, con fundamento en los artículos 29, fracción I, y 35, fracciones II y III, de la Ley del Sistema Anticorrupción del Estado de Puebla, así como 12, 17, 52 fracción VIII y 53 fracciones I, XII y XIII de la Ley de Entidades Paraestatales del Estado de Puebla; hace del conocimiento del público en general el:
 
-LEY DE INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+ACUERDO DEL ÓRGANO DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, POR EL QUE SE APRUEBA Y EMITE EL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-## TITULO PRELIMINAR. DISPOSICIONES GENERALES
+En la Ciudad de Puebla, Puebla, a los dos días del mes de marzo de 2018, las y los integrantes del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, en Sesión Extraordinaria de este último y por unanimidad de votos de los presentes, con fundamento en los artículos 3, fracción XI, 10, 11, 24, 25, 28 y 29 fracción I de la Ley del Sistema Anticorrupción del Estado de Puebla, así como 12 párrafo segundo, 15 y 52 fracción VIII de la Ley de Entidades Paraestatales del Estado de Puebla, y
 
-### CAPITULO PRIMERO. CONSTITUCIÓN DE LAS ASOCIACIONES DE BENEFICENCIA PRIVADA
+CONSIDERANDO
 
-###### ARTICULO 1.
+[...]
 
-La beneficencia privada representa la actividad de los particulares encaminada a fomentar el sentido de apoyo y solidaridad en la comunidad hacia los grupos sociales vulnerables, El Estado, consciente del valor de la sinergia que puede lograrse trabajando coordinadamente, pueblo y gobierno, estimulará tales actividades, evaluará las acciones y programas de las instituciones que esta Ley rige, cuidará que los recursos asignados y empleados en estas funciones, rindan los mejores resultados y que cumplan con las disposiciones o voluntad de los benefactores o fundadores, expresados en los Estatutos de las Instituciones de Beneficencia Privada.
+Por lo anteriormente expuesto y fundado, aprueba y emite el siguiente:
 
-###### ARTICULO 2.
+ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-Las Instituciones de Beneficencia son entidades legales creadas por particulares, su finalidad se considera de utilidad pública, no lucrativa, y el Estado las reconoce como auxiliares de la asistencia social, con capacidad para poseer un patrimonio propio, destinado a la realización de sus objetivos. Se entenderán por acciones no lucrativas y de utilidad pública, los actos ejecutados por las instituciones de beneficencia con fondos particulares, sin objeto de especulación, con fines humanitarios, culturales, educativos o de mejoramiento físico y mental.
+## TÍTULO I
 
-###### ARTICULO 3.
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-Para los efectos de esta Ley, se entenderá por:
+###### ARTÍCULO 1.
 
-ASISTENCIA SOCIAL. El conjunto de acciones tendientes a modificar y mejorar las circunstancias que impiden el desarrollo integral de la persona y su familia, así como la protección física, mental y social de las personas en estado de necesidad, desprotección o desventaja, para lograr que se incorporen a una vida plena y productiva.
+El presente Estatuto tiene por objeto establecer las bases de organización, así como la estructura, facultades y funciones de las unidades administrativas que integran la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
 
-INSTITUCIÓN o INSTITUCIONES. Las fundaciones o asociaciones de beneficencia cuyos objetivos sean afines a la realización de actos de asistencia social privada.
+###### ARTÍCULO 2.
 
-PATRONATO. El órgano superior de gobierno, representación y administración de una institución de asistencia social privada.
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propios, con autonomía técnica y de gestión, con sede y domicilio legal en la Ciudad de Puebla.
 
-PATRONO. La persona que integra el patronato.
+###### ARTÍCULO 3.
 
-LEY. La Ley de Instituciones y Asociaciones de Beneficencia Privada para el Estado libre y soberano de Coahuila de Zaragoza.
+El objeto de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción es fungir como órgano de apoyo técnico del Comité Coordinador del Sistema Estatal Anticorrupción, a efecto de proveerle asistencia técnica, así como los insumos necesarios para el desempeño de sus atribuciones de conformidad con la Ley del Sistema Anticorrupción del Estado de Puebla y los demás ordenamientos que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+###### ARTÍCULO 4.
 
-SECRETARIA. La Secretaría de Inclusión y Desarrollo Social.
+Para los efectos de este Estatuto Orgánico se entenderá por:
 
-JUNTA. La Junta de Beneficencia Privada del Estado.
+I. Comisión Ejecutiva: Comisión Ejecutiva de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
 
-###### ARTICULO 4.
+II. Comité Coordinador Estatal: Comité Coordinador del Sistema Estatal Anticorrupción;
 
-Las instituciones podrán integrar su patrimonio con los siguientes recursos:
+III. Comité Estatal de Participación Ciudadana: Comité Estatal de Participación Ciudadana del Sistema Estatal Anticorrupción;
 
-1. Tienes y derechos que posean al constituirse y los que adquieran posteriormente.
+IV. Estatuto Orgánico: Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
 
-2. Bienes que aporten la Federación, el Estado y los Municipios, así como las personas físicas y morales.
+V. Ley Estatal: Ley del Sistema Anticorrupción del Estado de Puebla;
 
-3. Las partidas que se le asignen en el Presupuesto de Egresos del Estado y de los Municipios.
+VI. Órgano de Gobierno: Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
 
-4. Los legados y donaciones de personas físicas y morales.
+VII. Órgano Interno de Control: Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
 
-5. Los rendimientos, productos, derechos y demás ingresos que le generen sus inversiones, y en su caso, los servicios o recuperaciones que obtengan.
+VIII. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Estatal Anticorrupción;
 
-6. Los bienes y derechos que adquieran por cualquier título legal.
+IX. Secretario Técnico: Secretario Técnico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, y
 
-7. Los frutos o productos de los bienes que se destinen a los fines de dicha institución, y los servicios que preste.
+X. Sistema Estatal Anticorrupción: Instancia de coordinación entre las autoridades competentes en el Estado y en los Municipios que lo integran, en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.
 
-###### ARTICULO 5.
+###### ARTÍCULO 5.
 
-Las instituciones quedarán exceptuadas del pago de contribuciones estatales y municipales.
+La Secretaría Ejecutiva se regirá en su organización y funcionamiento, por la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Estatal, la Ley de Entidades Paraestatales del Estado de Puebla, el presente Estatuto Orgánico y las demás disposiciones jurídicas que le resulten aplicables.
 
-###### ARTICULO 6.
+###### ARTÍCULO 6.
 
-La Junta tendrá a su cargo la supervisión de las instituciones establecidas en Coahuila, incluyendo aquéllas personas que, individualmente ó en asociación, realicen actos de beneficencia privada contenidos en esta ley y que no se hubieren constituido de acuerdo a los términos de la misma.
+El patrimonio de la Secretaría Ejecutiva estará integrado por:
 
-###### ARTICULO 7.
+I. Los bienes que le sean transmitidos por el Gobierno del Estado de Puebla para el desempeño de sus funciones;
 
-Las instituciones pueden ser de tres clases:
+II. Los recursos que le sean asignados anualmente en la Ley de Egresos del Estado, y
 
-A). Asociaciones, y (sic)
+III. Los demás bienes que, en su caso, le sean transferidos bajo cualquier otro título.
 
-B). Fundaciones.
+###### ARTÍCULO 7.
 
-C). Toda institución, asociación o ente económico que realice actos de beneficencia privada.
+Las relaciones de trabajo entre la Secretaría Ejecutiva y su personal, se rigen por el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, y para todos los efectos legales, se entenderán establecidas entre la persona titular de la Secretaría Ejecutiva y los trabajadores al servicio de la misma, de conformidad con las demás disposiciones jurídicas que resulten aplicables.
 
-###### ARTICULO 8.
+###### ARTÍCULO 8.
 
-Las Asociaciones de Beneficencia se constituyen por personas que aportan en común bienes, sin ánimo de lucro, con el propósito de crear un beneficio social y de acuerdo a las normas establecidas por el Código Civil del Estado y la presente Ley.
+La Secretaría Ejecutiva contará con un órgano de difusión de naturaleza electrónica, en el que se publicará toda la información que ordena la legislación estatal en materia de transparencia y acceso a la información pública y la que se considere de interés para la sociedad, así como los Manuales, Resoluciones, Lineamientos y demás Acuerdos de carácter internó que emitan sus órganos de administración y dirección, para su difusión, validez y vigencia, sin perjuicio de que se publiquen en el Periódico Oficial del Estado cuando así se ordene o requiera.
 
-###### ARTICULO 9.
+###### ARTÍCULO 9.
 
-Se entiende por Fundación, el conjunto de bienes y derechos destinados en forma gratuita y permanente, mediante disposición testamentaria o en vida, para la creación de una institución que destine dichos bienes o derechos para la realización de actos que no persigan fines de lucro y con objeto de dedicarlos a la beneficencia y actos señalados en el titulo de disposiciones preliminares de esta ley. Todo ello sin perjuicio que las entidades así establecidas puedan recibir donaciones, aportaciones y cualquier otro beneficio concreto, que particulares, personas morales u organismos públicos les concedan.
+Para efecto de las actuaciones de la Secretaría Ejecutiva, son días hábiles todos los del año, con excepción de los sábados y domingos, los considerados como días de descanso obligatorio en términos del artículo 27 de la Ley de los Trabajadores al Servicio del Estado, los demás que se fijen en el calendario anual de labores que suscriba el Secretario Técnico y se publique en el Periódico Oficial del Estado, así como aquellos en los que no pueda funcionar el organismo por causa de fuerza mayor o en los que se suspendan labores por acuerdo del Secretario Técnico. Serán horas hábiles las que medien entre las 9:00 y las 18:00 horas. El Secretario Técnico podrá habilitar días y horas inhábiles para la práctica de aquellas actuaciones que lo requieran, a su juicio.
 
-###### ARTICULO 10.
+###### ARTÍCULO 10.
 
-Las fundaciones y asociaciones de beneficencia privada podrán:
+El Órgano de Gobierno y el Secretario Técnico estarán facultados para interpretar las disposiciones establecidas en el presente Estatuto Orgánico y las que deriven del mismo, en sus respectivos ámbitos de competencia administrativa.
 
-A). Adquirir en propiedad y administrar los bienes inmuebles que destinen inmediata y directamente al servicio y objeto de la institución.
+## TÍTULO II
 
-8). Adquirir en propiedad o por cualquier medio, y administrar por sí mismas o por interpósita persona los bienes muebles que tengan relación con su objeto.
+### CAPÍTULO I. DE LA ESTRUCTURA Y ORGANIZACIÓN ADMINISTRATIVA DE LA SECRETARÍA EJECUTIVA
 
-C). Aceptar o repudiar donaciones, herencias o legados, que les hicieren los particulares u otras entidades, previa autorización de la Junta Directiva.
+###### ARTÍCULO 11.
 
-## TITULO PRIMERO. CONSTITUCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
+Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Secretaría Ejecutiva se auxiliará y contará con la siguiente estructura orgánica y unidades administrativas:
 
-### CAPITULO SEGUNDO. DE LA CONSTITUCION DE LAS FUNDACIONES DE BENEFICENCIA PRIVADA
+I. Órgano de Gobierno;
 
-###### ARTICULO 11.
+II. Comisión Ejecutiva;
 
-Los Estatutos o Cláusulas Constitutivas de las instituciones contendrán:
+III. Secretario Técnico;
 
-I. El nombre de la institución;
+IV. Unidades:
 
-II. Los bienes que formularán su patrimonio, la forma en que serán aportados, así como los sistemas que se utilizarán para recaudar fondos en favor de la institución;
+a. Unidad de Riesgos, Evaluación y Políticas Públicas.
 
-III. Las actividades de beneficio social que realizará y las que habrá de realizar para proveer su autosuficiencia económica;
+b. Unidad de Servicios Tecnológicos y Plataforma Digital.
 
-IV. Las instalaciones que podrán establecerse y las actividades que se desarrollarán en ellas;
+V. Direcciones:
 
-V. Los requisitos que deberán reunir las personas que disfruten de los beneficios de la institución;
+a. Dirección de Administración.
 
-VI. La designación de las personas que integran el Patronato de la institución, así como las condiciones que rijan su subsistencia;
+b. Dirección de Asuntos Jurídicos.
 
-VII. El carácter permanente o transitorio de la misma;
+c. Dirección de Vinculación Interinstitucional.
 
-VIII. La (sic) bases generales de su organización y administración.
+d. Dirección de Transparencia.
 
-IX. El destino que se dará a los remanentes de la liquidación de la institución, sin que puedan destinarse a beneficiar a instituciones que no persigan objetivos similares a los de la institución liquidada y sean no lucrativas.
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTICULO 12.
+e. Dirección de Apoyo Ejecutivo y Seguimiento de Acuerdos.
 
-Para constituir una Asociación de Beneficencia Privada se observarán ante la Junta, los siguientes requisitos:
+VI. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2018)
 
-A). Nombre, domicilio y demás generales de los fundadores.
+VII. Las demás áreas administrativas y personal que autorice el Órgano de Gobierno a propuesta del Secretario Técnico, sujeto a la capacidad presupuestal de la Secretaría Ejecutiva, y
 
-B). Nombre, objeto y domicilio legal de la Asociación que se pretende establecer.
+VIII. Los comités y subcomités técnicos especializados que acuerde constituir el Órgano de Gobierno a propuesta de quien lo presida o de la tercera parte de sus integrantes, para los efectos que prevé el artículo 50 de la Ley de Entidades Paraestatales del Estado de Puebla.
 
-C). La clase de actos de beneficencia que se deseen ejecutar.
+###### ARTÍCULO 12.
 
-D). La forma y términos en que hayan de exhibirse o recaudarse los fondos o bienes de cualquier especie destinados a la Asociación.
+La relación jerárquica existente entre las unidades administrativas y cualquiera de éstas y el Secretario Técnico, representa un criterio de orden que no excluye a cada una de la responsabilidad individual en la observancia de los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
 
-E). Determinar las aportaciones que se efectuarán al quedar la institución constituida.
+###### ARTÍCULO 13.
 
-F). La designación de las personas que formarán el Patronato y la manera de sustituirlas en sus faltas temporales o definitivas.
+La Secretaría Ejecutiva, a través de sus unidades administrativas y del o los comités y subcomités constituidos, dará cumplimiento a las obligaciones de transparencia, acceso a la información, protección de datos personales y rendición de cuentas, establecidas en las disposiciones legales vigentes, con el auxilio e intervención que corresponda de la Dirección de Transparencia.
 
-G). La mención al carácter permanente o transitorio de la Asociación.
+### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
 
-H). Las bases generales de la administración y los demás datos que los fundadores consideren pertinentes para precisar su voluntad.
+###### ARTÍCULO 14.
 
-I). Proyecto de Estatutos que deberán regir la Asociación.
+El Órgano de Gobierno es el órgano máximo de administración, gobierno y dirección de la Secretaría Ejecutiva, estará integrado por los miembros del Comité Coordinador Estatal y será presidido por la persona representante del Comité Estatal de Participación Ciudadana.
 
-###### ARTICULO 13.
+Con la finalidad de agilizar su operación, cada una de las personas integrantes del Órgano de Gobierno, a excepción de la o el Presidente del Comité Estatal de Participación Ciudadana, nombrará a una persona servidora pública que funja como enlace permanente con la Secretaría Ejecutiva y pueda suplirle en las sesiones cuando se requiera, previo aviso por escrito del Titular dirigido al Secretario Técnico, la cual deberá ocupar un cargo dentro de los dos niveles jerárquicos inferiores al de quien lo designe y tendrá las mismas facultades que éste para la toma de decisiones.
 
-Si la Junta encontrare deficiencias, situaciones no previstas por los estatutos, incompatibilidad con las bases constitutivas o con esta Ley, así lo hará saber a los interesados, dentro de los siguientes sesenta días a que fuera recibida la documentación, enviándoseles el proyecto de estatutos y haciéndoseles las observaciones pertinentes. En todo caso, los interesados gozarán de un plazo no mayor de noventa días para presentar a la Junta las observaciones o modificaciones que incorporan para ajustarse a las indicaciones formuladas.
+###### ARTÍCULO 15.
 
-### CAPITULO PRIMERO. DE LOS FUNDADORES Y PATRONOS
+El Órgano de Gobierno tendrá como atribuciones indelegables, las siguientes:
 
-###### ARTICULO 41.
+I. Emitir el Estatuto Orgánico de la Secretaría Ejecutiva, sus Manuales de Organización, de Procedimientos y de Servicios, los Lineamientos Generales de su competencia y las demás normas de carácter interno, en los que se establezcan y desarrollen las bases de organización y de procedimientos del organismo, así como las facultades y funciones que correspondan a las distintas áreas que lo integran;
 
-Son fundadores las personas que destinan todos o parte de sus bienes para crear una fundación de beneficencia privada. Se equiparan a los fundadores aquellas personas que concurran a la constitución de una asociación de beneficencia privada.
+II. Nombrar y remover, por mayoría calificada de cinco votos, al Secretario Técnico, de conformidad con lo establecido en la Ley Estatal;
 
-###### ARTICULO 42.
+III. Aprobar el calendario anual de sesiones, lo que realizará en la primera sesión ordinaria de cada ejercicio;
 
-Son derechos de los fundadores:
+IV. Autorizar al Secretario Técnico para que celebre y otorgue toda clase de actos jurídicos y documentos inherentes al objeto del organismo, suscriba acuerdos, convenios y contratos, ejerza las funciones necesarias para el mejor desarrollo de los actos que sean competencia de la Secretaría Ejecutiva y delegue las facultades conferidas a las personas titulares de las demás áreas administrativas que conforman la estructura operativa autorizada, para la mejor realización de sus atribuciones, objetivos y fines;
 
-1). Determinar la clase de personas a quienes beneficiará la institución y señalar los requisitos que habrán de cumplirse para poder participar de sus beneficios.
+V. Establecer las políticas generales y definir las prioridades a las que deberá sujetarse la Secretaría Ejecutiva, relativas a su desarrollo tecnológico y administración general;
 
-2). fijar la naturaleza de las obras de beneficencia que deban ejecutarse.
+VI. Aprobar los programas y presupuestos de la Secretaría Ejecutiva, así como sus modificaciones, en los términos de la legislación aplicable;
 
-3). Redactar por sí mismos, o por medio de las personas que ellos designen, los estatutos que habrán de regir la operación de la institución.
+VII. Aprobar anualmente, previo informe del titular del Órgano Interno de Control y dictamen de los auditores externos, los estados financieros de la Secretaría Ejecutiva, autorizar la publicación de los mismos y remitir la información financiera, programática y presupuestaria sobre el manejo de los recursos públicos a su cargo, al Poder Ejecutivo, para su consolidación en la Cuenta Pública que deba presentar, de conformidad con la legislación aplicable;
 
-4). Designar la persona o personas que deban ejercer el cargo de patronos, así como establecer la forma de sustituir las vacantes temporales o definitivas de los nombrados.
+VIII. Autorizar de acuerdo con las disposiciones aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Secretaría Ejecutiva con terceros, en materia de obra pública y servicios relacionados con ésta, adquisiciones, arrendamientos y prestación de servicios, en el entendido de que las personas servidoras públicas que deban intervenir de conformidad con las normas aplicables, actuarán bajo su responsabilidad, con sujeción a los lineamientos y directrices fijados por el Órgano de Gobierno;
 
-5). Incluir en el acta constitutiva las modalidades que estimen convenientes, siempre y cuando no sean contrarias a la Ley.
+IX. Aprobar la estructura básica de la organización de (sic) Secretaría Ejecutiva y las modificaciones que procedan a la misma, así como los perfiles profesionales, las facultades y las funciones que correspondan a las distintas áreas administrativas, cargos y puestos del organismo, con apego a los lineamientos que para tal efecto emita la Secretaría de la Contraloría;
 
-###### ARTICULO 43.
+X. Nombrar y remover, a propuesta del Secretario Técnico, a las personas servidoras públicas de la Secretaría Ejecutiva que ocupen cargos en los dos niveles jerárquicos inferiores al de aquél, esto es, Titulares de Unidad y Directores; aprobar la fijación de sueldos y prestaciones del personal en los términos que señalen la legislación y lineamientos aplicables, así como concederles licencias cuando excedan de quince días consecutivos o más de treinta en un año;
 
-El conjunto de patronos de una institución se denomina Patronato. Corresponde al Patronato la representación legal y la administración de las fundaciones y asociaciones de beneficencia privada.
+XI. Aprobar la adquisición, arrendamiento y enajenación de inmuebles que la Secretaría Ejecutiva requiera para el cumplimiento de su objeto y la prestación de sus servicios, de conformidad con la legislación aplicable;
 
-El cargo de patrono será gratuito, por lo que los integrantes de un Patronato no percibirán por ese sólo hecho remuneración alguna. Como excepción sólo en las fundaciones, por disposición expresa del o de los fundadores, los patronos podrán recibirla, siempre y cuando la remuneración esté determinada en los estatutos y la Junta expresamente los apruebe. Para todos los efectos, estas remuneraciones se considerarán como honorarios.
+XII. Pedir al Secretario Técnico información sobre la ejecución, seguimiento y cumplimiento de los acuerdos del Órgano de Gobierno y la atención de los demás asuntos a su cargo;
 
-El ejercicio del cargo de patrono se considerará un mandato, sin conferir derechos posesorios, de propiedad o dominio y hará responsable a la persona que los desempeña de acuerdo a lo preceptuado por esta Ley y demás ordenamientos vigentes en el Estado.
+XIII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Secretario Técnico, con la intervención que corresponda al titular del Órgano Interno de Control, y
 
-###### ARTICULO 44.
+XIV. Las demás que con ese carácter le confieran la Ley Estatal, la Ley de Entidades Paraestatales del Estado de Puebla y las demás disposiciones aplicables.
 
-Podrán desempeñar el cargo de patronos:
+###### ARTÍCULO 16.
 
-1). Las personas designadas por el fundador o fundadores o las que los sustituyan conforme a los estatutos, o la Ley.
+El Órgano de Gobierno, al ser un órgano colegiado, funcionará mediante la celebración de sesiones ordinarias y extraordinarias, de conformidad con las siguientes bases:
 
-2). Las personas designadas por la Junta en aquellos casos en que los fundadores no hubieren nombrado patronos o si los han nombrado, no hubieren previsto la forma de sustituidos, se haya agotado la lista de las personas designadas por los estatutos, o los nombrados no tengan capacidad legal para aceptar el cargo.
+I. El Órgano de Gobierno celebrará por lo menos cuatro sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia;
 
-3). Los designados por la Junta en los demás casos previstos en esta Ley.
+II. Las sesiones serán convocadas por el Presidente del Órgano de Gobierno o por el Secretario Técnico a petición de éste o a propuesta o solicitud de cuatro de sus integrantes;
 
-###### ARTICULO 45.
+III. Para la celebración de las sesiones, la convocatoria deberá ir acompañada del orden del día y de la documentación correspondiente, lo cual deberá ser enviado por el Secretario Técnico a cada integrante del Órgano de Gobierno, con una anticipación no menor de cinco días hábiles en el caso de las sesiones ordinarias y no menor de dos días hábiles en el caso de las sesiones extraordinarias;
 
-No podrán desempeñar el cargo de patrono:
+IV. Para poder sesionar válidamente, el Órgano de Gobierno requerirá la asistencia de la mayoría de sus miembros;
 
-1). Las personas que hayan sido suspendidas en el ejercicio de sus derechos civiles por autoridad competente.
+V. En caso de ausencia del Presidente en la sesión, los miembros presentes nombrarán a quien deba conducir la misma;
 
-2). Los menores de edad.
+VI. Todas las personas integrantes del Órgano de Gobierno tendrán derecho a voz y voto en las sesiones del mismo;
 
-3). Las personas que hayan sido removidas de otro Patronato por alguna de las causas previstas en el artículo siguiente.
+VII. Los acuerdos, resoluciones y determinaciones del Órgano de Gobierno se tomarán siempre por mayoría de votos de las personas integrantes presentes y en caso de empate, quien lo presida tendrá voto de calidad;
 
-4). Los que por sentencia de la Autoridad Judicial hayan sido condenados a sufrir una pena por la comisión de algún delito intencional.
+VIII. Las personas integrantes del Órgano de Gobierno deberán emitir su voto sobre los asuntos que se desahoguen en las sesiones respectivas, salvo que se encuentren impedidas legalmente para ello, en cuyo caso la persona interesada hará valer tal circunstancia previamente, lo cual se asentará en el acta respectiva;
 
-La persona moral que forme parte de un patronato designará una persona que la represente en el mismo, debiendo comunicar tal designación así como los cambios que se produzcan a la Junta.
+IX. Podrán participar con voz, pero sin voto el Secretario Técnico y el Titular del Órgano Interno de Control, así como aquellas personas que el Órgano de Gobierno, a través del Secretario Técnico, decida invitar en virtud de su probada experiencia en asuntos que sean de su competencia, y
 
-###### ARTICULO 46.
+X. En caso de que el Órgano de Gobierno no pudiera sesionar en la fecha programada por falta de quórum, la reunión deberá celebrarse entre los cinco y quince días hábiles siguientes.
 
-Son causas de remoción de los patronos:
+### CAPÍTULO III. DE LA COMISIÓN EJECUTIVA
 
-J). La negligencia, culpa grave o dolo en el desempeño de su cargo.
+###### ARTÍCULO 17.
 
-2). El incumplimiento con las obligaciones previstas en la presente Ley.
+La Comisión Ejecutiva es el órgano técnico auxiliar de la Secretaría Ejecutiva y estará integrada por:
 
-3). El hecho de ser condenado por la Autoridad Judicial por la comisión de algún delito intencional.
+I. El Secretario Técnico, y
 
-4). El hecho de encontrarse en alguno de los casos previstos en el artículo 45 de la presente Ley.
+II. El Comité Estatal de Participación Ciudadana, con excepción de la persona integrante que funja en ese momento como su Presidente.
 
-5). El desvío o inversión de fondos de la institución a fines distintos de la misma.
+###### ARTÍCULO 18.
 
-6). La reiterada ausencia a las juntas que celebre el Patronato de la institución.
+La Comisión Ejecutiva tendrá a su cargo la generación de los insumos técnicos necesarios para que el Comité Coordinador Estatal realice sus funciones, razón por la cual contará con la atribución de elaborar propuestas para ser sometidas a la aprobación de dicho Comité, respecto de:
 
-7). La ejecución de gastos o inversiones no previstas en su presupuesto, sin autorización previa de la Junta, siempre que de ello se derive grave perjuicio para la institución que representa.
+I. Las políticas integrales en materia de prevención, control y disuasión de faltas administrativas y hechos de corrupción, así como de fiscalización y control de recursos públicos;
 
-###### ARTICULO 47.
+II. La metodología para medir y dar seguimiento, con base en indicadores aceptados y confiables, a los fenómenos de corrupción, así como a las políticas integrales a que se refiere la fracción anterior;
 
-Si un patrono se encuentra en alguna de las hipótesis previstas en el artículo anterior, la Junta, al tener conocimiento de ello, lo llamará para que exponga sus razones, y de confirmarse dichos supuestos, previa audiencia donde linda sus pruebas y alegatos, el Ejecutivo ordenará su remoción en el cargo, procediéndose a la sustitución en la forma que prevengan los estatutos o en su defecto según lo previsto en la presente Ley.
+III. Los informes de las evaluaciones que someta a su consideración el Secretario Técnico respecto de las políticas a que se refiere la fracción I de este artículo;
 
-###### ARTICULO 48.
+IV. Los mecanismos de suministro, intercambio, sistematización y actualización de la información en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción;
 
-Los patronos, directores, administradores y encargados por cualquier título del funcionamiento de establecimientos de beneficencia, tendrán las siguientes funciones:
+V. Las bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
 
-1). Cumplir y hacer que se cumpla la voluntad de los fundadores.
+VI. El informe anual que contenga los avances y resultados del ejercicio de las funciones y de la aplicación de las políticas y programas en la materia;
 
-2). Administrar los bienes de la institución de acuerdo a lo que disponen la Ley y los estatutos.
+VII. Las recomendaciones no vinculantes que serán dirigidas a las autoridades que se requieran, en virtud de los resultados advertidos en el informe anual, así como el informe de seguimiento que contenga los resultados sistematizados de la atención dada por las autoridades a dichas recomendaciones, y
 
-3). Imponer en buenas condiciones los capitales de la institución y suscribir cualquier contrato que favorezca la buena marcha de la misma.
+VIII. Los mecanismos de coordinación y colaboración entre las autoridades integrantes del Sistema Estatal Anticorrupción.
 
-4). Proveer lo necesario para el mejor cuidado y atención de los beneficiarios de los servicios que presta la institución.
+###### ARTÍCULO 19.
 
-5). Adquirir en propiedad para la institución los bienes muebles e inmuebles que sean necesarios para la realización de su objeto.
+La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exhortos que considere necesarios a las autoridades integrantes del Comité Coordinador Estatal, a través del Secretario Técnico.
 
-6). Aceptar o repudiar donaciones, herencias o legados que les hicieren, conforme a lo previsto por la presente Ley.
+###### ARTÍCULO 20.
 
-7). Abstenerse de gravar o enajenar los bienes que pertenezcan a la institución si no es en caso de necesidad o evidente utilidad, previa verificación de esas circunstancias por la Junta.
+La Comisión Ejecutiva, al ser un órgano colegiado, funcionará mediante la celebración de sesiones ordinarias y extraordinarias, de conformidad con las siguientes bases:
 
-8). Nombrar a los empleados de la institución y establecer sus remuneraciones.
+I. La Comisión Ejecutiva se reunirá en sesión ordinaria cada tres meses y en sesión extraordinaria cada vez que se considere conveniente para desahogar los asuntos de su competencia;
 
-9). Establecer y modificar los reglamentos interiores que sean necesarios.
+II. Las sesiones serán convocadas por el Secretario Técnico, por sí o a solicitud de al menos dos de las personas integrantes del Comité Estatal de Participación Ciudadana;
 
-10). Exigir, bajo su responsabilidad, el exacto cumplimiento de los contratos que tenga celebrados la institución.
+III. Para la celebración de las sesiones, la convocatoria deberá ir acompañada del orden del día y de la documentación correspondiente, lo cual deberá ser enviado por el Secretario Técnico y recibido por las personas integrantes de la Comisión Ejecutiva con una anticipación no menor de cinco días hábiles en el caso de las sesiones ordinarias y no menor de dos días hábiles en el caso de las sesiones extraordinarias;
 
-11). Cumplir con cualquier otra obligación que establezca esta ley o los estatutos.
+IV. Para poder sesionar válidamente, la Comisión Ejecutiva requerirá de la asistencia de por lo menos tres integrantes del Comité Estatal de Participación Ciudadana;
 
-###### ARTICULO 49.
+V. Los miembros del Comité Estatal de Participación Ciudadana podrán participar de las sesiones de la Comisión Ejecutiva vía remota, lo que deberá ser asentado en el acta que al efecto se levante, misma que deberá contener los acuerdos y determinaciones de la enunciada Comisión, la cual se perfeccionará con la firma autógrafa de los participantes;
 
-Los patronos, en el ejercicio de sus funciones, no se obligan individualmente, pero están sujetos a las responsabilidades civiles y penales en que pudieren incurrir con motivo de su cargo.
+VI. Las sesiones serán conducidas por el Secretario Técnico o en caso de ausencia de éste, por quien designen las personas asistentes;
 
-###### ARTICULO 14.
+VII. Todas las personas integrantes de la Comisión Ejecutiva tendrán derecho a voz y voto en las sesiones de la misma;
 
-Recibido por la Junta el escrito con el proyecto de Estatutos, así como en su caso, los datos complementarios, emitirá en el mismo término señalado en el artículo anterior, el dictamen respectivo, para que el Ejecutivo del Estado en caso de ser éste positivo, resuelva en definitiva en un término no mayor de 30 (treinta) días.
+VIII. Los acuerdos, resoluciones y determinaciones de la Comisión Ejecutiva se tomarán siempre por mayoría de votos de las personas integrantes presentes y en caso de empate, quien lo presida tendrá voto de calidad;
 
-###### ARTICULO 15.
+IX. La Comisión Ejecutiva podrá invitar a sus sesiones, a través del Secretario Técnico, a especialistas en los temas a tratar, los cuales participarán con voz, pero sin voto, y
 
-La resolución en el sentido de que es de constituirse la Asociación se comunicará fehacientemente a los fundadores, quienes gozarán de un plazo de 60 (sesenta) días para protocolizar ante Notario Público el Acta Constitutiva, Estatutos y la Resolución emitida por la Junta; remitiendo una copia certificada de la Escritura Pública a la Junta.
+X. Si la reunión convocada no pudiera llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y diez días hábiles siguientes.
 
-###### ARTICULO 16.
+###### ARTÍCULO 21.
 
-Si los fundadores no cumplen con lo dispuesto en el precepto anterior o en el artículo 13, la Junta, en los siguientes 15 (quince) días, una vez concluidos los plazos a que dichos dispositivos hacen cita, llamará a los interesados para que hagan los ajustes relativos y continúen los trámites correspondientes o para que los interesados se desistan de su intención.
+Por las labores que realicen como integrantes de la Comisión Ejecutiva, las personas integrantes del Comité Estatal de Participación Ciudadana no recibirán contraprestación adicional a la que se les otorgue por su participación como integrantes de este Comité, de conformidad con lo establecido en el artículo 32, párrafo tercero, de la Ley Estatal.
 
-### CAPITULO SEGUNDO. DE LA ADMINISTRACION DE LAS INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA
+### CAPÍTULO IV. DEL SECRETARIO TÉCNICO
 
-###### ARTICULO 50.
+###### ARTÍCULO 22.
 
-Las instituciones en su administración deberán actuar conforme lo previsto en esta Ley y los estatutos que les dieron origen y lo establecido en la Ley Federal de Fomento a las Actividades Realizadas por las Organizaciones de la Sociedad Civil.
+El Secretario Técnico es la persona servidora pública que tiene a su cargo las funciones de dirección de la Secretaría Ejecutiva.
 
-###### ARTICULO 51.
+###### ARTÍCULO 23.
 
-Las entidades reguladas por esta Ley, cuidarán de que se cumplan los fines para los que fueron constituidas.
+Para el desahogo de los asuntos de su competencia, el Secretario Técnico tendrá, además de las atribuciones que le confieren la Ley Estatal y la Ley de Entidades Paraestatales del Estado de Puebla, las siguientes:
 
-###### ARTICULO 52.
+I. Administrar y representar legalmente a la Secretaría Ejecutiva;
 
-En su administración las instituciones, además de cuidar el cumplimiento de las disposiciones de esta ley, que sus recursos y sistemas administrativos se encaucen directamente a la realización de sus objetivos, evitando todos aquellos gastos que no sean estrictamente necesarios.
+II. Celebrar y otorgar toda clase de actos jurídicos y documentos inherentes al objeto del organismo, suscribir acuerdos, convenios y contratos, ejercer las funciones necesarias para el mejor desarrollo de los actos que sean competencia de la Secretaría Ejecutiva y delegar facultades a las personas titulares de las demás áreas administrativas que conforman la estructura operativa autorizada, para la mejor realización de sus atribuciones, objetivos y fines, previa autorización del Órgano de Gobierno, debiendo informar a éste sobre su ejercicio;
 
-###### ARTICULO 53.
+III. Ejercer las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la Secretaría Ejecutiva;
 
-Los patronos, directores o administradores de las instituciones, al ejecutar actos de dominio, avisarán a la Junta de la conveniencia o necesidad de realizar tales actos.
+IV. Dentro del ámbito de su competencia, presentar denuncias y formular querellas, ante el Ministerio Público y ratificar las mismas, en su caso, sin perjuicio del patrimonio de la Secretaría Ejecutiva, así como otorgar el perdón o solucionar el conflicto mediante algún medio alternativo, cuando proceda;
 
-###### ARTICULO 54.
+V. Emitir, negociar y suscribir títulos de crédito, de conformidad con los ordenamientos legales aplicables;
 
-Las instituciones que tengan su domicilio legal fuera de la Entidad, pero cuenten con establecimientos dentro de la misma, deben ajustarse, por lo que corresponde a dichos establecimientos, a la organización y funcionamiento previsto por esta Ley.
+VI. Otorgar, sustituir y revocar, previa autorización de su Órgano de Gobierno, poderes generales y especiales con las facultades que les competan, entre ellas, las que requieran autorización o cláusula especial, los cuales deberán inscribirse conforme a la Ley respectiva para que surtan efectos frente a terceros;
 
-###### ARTICULO 55.
+VII. Elaborar los proyectos de Estatuto Orgánico, Manuales, Lineamientos y demás normas de carácter interno de la Secretaría y sus modificaciones; presentarlos al Órgano de Gobierno para su aprobación y expedición, y llevar a cabo su publicación y difusión;
 
-Las instituciones domiciliadas en la Entidad, que deseen cambiar su domicilio fuera del mismo, deberán recabar previamente autorización del Ejecutivo del Estado, por conducto de la Junta. Al respecto, las autoridades correspondientes, no darán curso a las solicitudes de cambio de domicilio, si no se les muestra y adjunta la aprobación a que se refiere este precepto.
+VIII. Formular los programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la Secretaría Ejecutiva y sus modificaciones, presentarlos para su aprobación al Órgano de Gobierno, dentro de los plazos correspondientes, e informar a éste sobre su cumplimiento;
 
-###### ARTICULO 56.
+IX. Formular los programas y disposiciones que fijen el actuar normativo y organizacional de la Secretaría Ejecutiva, mismos que deberán ser aprobados por el Órgano de Gobierno;
 
-Las instituciones, cuando por el transcurso del tiempo vengan a ser incompatibles con las nuevas necesidades sociales, o inútiles para remediarlas, subsistirán, adecuando su objeto a otro u otros que sean análogos y que puedan adaptarse a las nuevas necesidades de la sociedad. De igual forma se aplicarán los bienes de una fundación o asociación, cuando lleguen a ser insuficientes para realizar el fin para el que fueron constituidas. En ambos casos, se respetarán las disposiciones de los fundadores y los patronos o representantes tendrán derecho de ser escuchados.
+X. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes de la Secretaría Ejecutiva;
 
-###### ARTICULO 57.
+XI. Tomar las medidas directivas pertinentes a fin de que las funciones de la entidad se realicen de manera articulada, congruente y eficaz;
 
-En el supuesto de que no pueda substituirse el objeto inicial de una institución por otro análogo, los bienes que forman su patrimonio pasarán a formar parte de los de la institución que previo informe de la Junta, designe el Ejecutivo.
+XII. Proponer al Órgano de Gobierno el nombramiento o la remoción de las personas servidoras públicas de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores, esto es, Titulares de Unidad y Directores, así como la fijación de sueldos y demás prestaciones del personal conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano de Gobierno, mismas que estarán sujetas al tabulador de sueldos y salarios de la Administración Pública Estatal, y una vez autorizados, preparar y firmar los respectivos movimientos;
 
-###### ARTICULO 58.
+XIII. Conceder licencias al personal de la Secretaría Ejecutiva, cuando no excedan de quince días consecutivos ni más de treinta acumulados en un año;
 
-Las declaraciones a que se refieren los artículos anteriores, se harán mediante Decreto expedido por el Ejecutivo del Estado, mismo que deberá ser publicado en el Periódico Oficial del Estado para que surta efectos legales ante terceros.
+XIV. Recabar información y elementos estadísticos que reflejen el estado de las funciones de la Secretaría Ejecutiva, para así poder mejorar la gestión de la misma;
 
-###### ARTICULO 59.
+XV. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos en los programas y proyectos de la Secretaría Ejecutiva;
 
-Las fundaciones y asociaciones sujetas a esta Ley, procurarán que se capacite a su personal, en tal forma que los servicios que deban proporcionar, sean prestados en forma óptima.
+XVI. Presentar periódicamente al Órgano de Gobierno el informe del desempeño de las actividades de la Secretaría Ejecutiva, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Secretaría Técnica con las realizaciones alcanzadas;
 
-###### ARTICULO 60.
+XVII. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la Secretaría Ejecutiva y presentar al Órgano de Gobierno por lo menos dos veces al año el informe de la evaluación de gestión, con el detalle que previamente acuerde éste y escuchando al Titular del Órgano Interno de Control;
 
-Antes del 1o. de diciembre de cada año, los Patronatos de las instituciones y asociaciones de beneficencia privada establecidas en el Estado, informarán a la Junta, sobre su plan de actividades a realizar para el año siguiente, así como sus presupuestos de ingresos y egresos.
+XVIII. Actuar como secretario del Comité Coordinador Estatal y del Órgano de Gobierno;
 
-###### ARTICULO 61.
+XIX. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Comité Coordinador Estatal y del Órgano de Gobierno;
 
-La Junta, con el objeto de apoyar a las instituciones, hará las recomendaciones y observaciones que estime convenientes sobre el plan anual de actividades y los presupuestos presentados por éstas, con el fin de que en un plazo de 30-treinta días realicen las adecuaciones conducentes; de resultar insuficiente el presupuesto respectivo, procurará brindarles ayuda.
+XX. Elaborar y proponer al Órgano de Gobierno para su aprobación, el Programa Anual de Adquisiciones, Arrendamientos y Servicios de la Secretaría Ejecutiva;
 
-En cualquier tiempo, las fundaciones y asociaciones podrán solicitar a la Junta modificaciones a sus planes y presupuestos justificando la conveniencia o necesidad de hacerlo.
+XXI. Tramitar la inscripción de la Secretaría Ejecutiva en el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público, así como la actualización o modificación de los datos manifestados;
 
-###### ARTICULO 62.
+XXII. Elaborar, certificar y difundir, en su caso, los acuerdos que se tomen en el Comité Coordinador y en el Órgano de Gobierno, así como los instrumentos jurídicos que se generen en el seno de dichos órganos, llevando el archivo correspondiente en términos de las disposiciones aplicables;
 
-En caso que durante el ejercicio se produzcan variaciones en la estimación de ingresos o en el presupuesto de gastos, el Patronato, al tener conocimiento de ellos, solicitará a la Junta la aprobación de las modificaciones correspondientes.
+XXIII. Coordinar la elaboración de los anteproyectos de metodologías, indicadores y políticas integrales para ser discutidas en la Comisión Ejecutiva y, en su caso, sometidas a la consideración del Comité Coordinador Estatal;
 
-###### ARTICULO 63.
+XXIV. Proponer a la Comisión Ejecutiva las evaluaciones que se llevarán a cabo de las políticas integrales a que se refiere la fracción V del artículo 9 de la Ley Estatal, y una vez aprobadas realizarlas;
 
-Todo gasto o inversión no previsto en el plan y presupuesto anual, que tenga el carácter de extraordinario, y no se cuente con los ingresos requeridos para realizarlos, requerirá autorización de la Junta.
+XXV. Coordinar el trabajo técnico para la preparación de documentos que se llevarán como propuestas de acuerdo al Comité Coordinador Estatal, al Órgano de Gobierno y a la Comisión Ejecutiva;
 
-En casos urgentes y necesarios los gastos extraordinarios de conservación o de reparación y los que demande el sostenimiento de los establecimientos, se efectuarán, comunicando a la Junta la modificación de la partida presupuestal correspondiente.
+XXVI. Preparar el proyecto de calendario de los trabajos del Comité Coordinador Estatal, del Órgano de Gobierno y de la Comisión Ejecutiva, para su respectiva aprobación;
 
-###### ARTICULO 64.
+XXVII. Elaborar los anteproyectos de informes del Sistema Estatal Anticorrupción, someterlos a la revisión y observación de la Comisión Ejecutiva y remitirlos al Comité Coordinador Estatal para su aprobación;
 
-Las instituciones y asociaciones de beneficencia privada, con el propósito de informar sobre los resultados de sus actividades, remitirán a la Junta, anualmente, antes del 30 de abril, un informe de las actividades realizadas, los estados financieros de ingresos y egresos comparados con el presupuesto aprobado y el balance general, así como las notas explicativas que ayuden a interpretarlos. El informe del primer ejercicio de una institución o asociación de beneficencia, deberá contener al menos los siguientes datos:
+XXVIII. Realizar estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos por acuerdo del Comité Coordinador Estatal;
 
-I. Nombre, objeto, domicilio, y fecha en que inició sus operaciones;
+XXIX. Administrar la plataforma digital que establecerá el Comité Coordinador Estatal, en términos de la Ley Estatal y asegurar el acceso a las mismas de los miembros del Comité Coordinador Estatal y la Comisión Ejecutiva, y de los tres niveles de gobierno, conforme a las disposiciones legales aplicables, garantizando en todo momento la integridad de la información, así como el registro puntual de la finalidad del acceso y el uso de la información;
 
-II. Nombres de las personas que desempeñen los cargos de patrones, directores, administradores y empleados de confianza de la institución;
+XXX. Integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicos y reflejen los avances o retrocesos en la política anticorrupción del Estado y sus Municipios;
 
-III. Una relación de los bienes que componen su patrimonio, anotando, en su caso, sus gravámenes;
+XXXI. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la Ley Estatal, para lo cual podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda la misma Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva;
 
-IV. La mención de los juicios en que la institución sea parte, señalando el estado que guarda cada uno de ellos.
+XXXII. Expedir y certificar, en su caso, copia de los documentos o constancias que existan en los archivos de las áreas administrativas adscritas a la Secretaría Ejecutiva, de oficio o a petición de autoridad competente;
 
-Los subsecuentes informes sólo deberán contener las modificaciones que hayan tenido lugar con relación a las fracciones II, III y IV.
+XXXIII. Celebrar convenios con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, con los Poderes Legislativo y Judicial del Estado, con organismos públicos autónomos, con organizaciones de los sectores social y privado, con instituciones de educación superior y con organismos públicos internacionales;
 
-Con el fin de evaluar el funcionamiento de la institución, se proporcionarán datos sobre el número de personas beneficiadas y tratándose de asilos, hospitales u orfanatorios, los registros de altas y bajas, así como las causas de éstas.
+XXXIV. Participar en organismos y foros regionales, nacionales e internacionales, a efecto de promover una cultura de prevención y combate a la corrupción y de fiscalización y control de recursos públicos;
 
-La Junta, tomando en cuenta la situación real de cada institución, la auxiliará para su mejor funcionamiento.
+XXXV. Dictar las medidas específicas que estime idóneas para el adecuado desempeño de las actividades de la Secretaría Ejecutiva y sus áreas administrativas;
 
-###### ARTICULO 65.
+XXXVI. Conocer, coordinar, supervisar y vigilar el desarrollo de las actividades de las áreas administrativas de la Secretaría Ejecutiva y el cumplimiento de sus metas, mediante la revisión de los informes que presenten sus titulares, y
 
-La Junta conocer, a través del informe que anualmente reciba de los Patronatos, de los juicios en que las instituciones intervengan, así como el estado que guarda cada uno de ellos, y cuando sea necesario, les brindará el apoyo y la asesoría que requieran.
+XXXVII. Las que señalen las diversas leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
 
-###### ARTICULO 66.
+### CAPÍTULO V. DE LAS ATRIBUCIONES COMUNES DE LAS UNIDADES Y DIRECCIONES
 
-Las instituciones llevarán registros contables, en los que contabilizarán detalladamente todas las operaciones que realicen, y prepararán, al menos trimestralmente, sus estados financieros conforme a los lineamientos establecidos en los Principios de Contabilidad Generalmente Aceptados, emitidos por el Instituto Mexicano de Contadores Públicos.
+###### ARTÍCULO 24.
 
-###### ARTICULO 67.
+Las Unidades y las Direcciones que conforman la Secretaría Ejecutiva, dependerán directamente de la Secretaría Técnica y para el desahogo de los asuntos de su competencia tendrán las siguientes atribuciones comunes:
 
-Los registros contables y las actas de consejo, así como los demás documentos que sean importantes para determinar la situación y las actividades de la institución, se conservarán por los Patronatos a disposición de la Junta en el domicilio de la institución, procurando mantenerlos en orden y actualizados.
+I. Someter a consideración del Secretario Técnico los programas, proyectos, acuerdos, convenios, políticas y demás actos jurídicos que se requieran con relación al ámbito de su competencia o los asuntos que le hayan sido encomendados, así como supervisar su ejecución;
 
-###### ARTICULO 68.
+II. Desempeñar las funciones y comisiones que su superior jerárquico le delegue o encomiende y mantenerlo informado sobre el cumplimiento de las mismas;
 
-Las entidades que esta Ley regula llevarán un libro de actas en el que asentarán los acuerdos de todas las juntas que celebre el Patronato, y en el cual deberá incluirse cualquier otro acto de importancia que se relacione con la institución, a fin de mantener actualizada su historia.
+III. Acordar con su superior jerárquico el despacho y resolución de los asuntos cuya tramitación se encuentre dentro de su ámbito de competencia o del de las áreas administrativas a su cargo e informar sobre su desarrollo y resultado;
 
-###### ARTICULO 17.
+IV. Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas, proyectos, y acciones encomendados a su cargo y de las actividades de las áreas administrativas de su adscripción, conforme a las instrucciones del Secretario Técnico, así como a las disposiciones legales y normativas aplicables y los convenios suscritos, e informar sobre los avances correspondientes a su superior jerárquico inmediato;
 
-El dictamen de la Junta en el sentido de que no es de constituirse la Asociación, será comunicada a los fundadores con el fin de que puedan ejercitar los derechos que esta Ley les otorga.
+V. Vigilar y evaluar el cumplimiento de los objetivos y compromisos adquiridos en los convenios, acuerdos, contratos y demás actos jurídicos celebrados por la Secretaría Ejecutiva, que sean de su competencia;
 
-###### ARTICULO 18.
+VI. Requerir información y documentación para la ejecución de sus atribuciones;
 
-En el caso del artículo anterior, los fundadores de la Asociación podrán recurrir en un término no mayor de (30) treinta días ante el Ejecutivo del Estado el dictamen de la Junta y éste después de oír a ésta, resolverá conforme a la Ley.
+VII. Proporcionar la información, datos, cooperación y asesoría técnica que le sea requerida por las áreas administrativas de la Secretaría Ejecutiva, dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, los Poderes Legislativo y Judicial del Estado y organismos públicos autónomos, previo conocimiento del Secretario Técnico y de conformidad con las disposiciones aplicables;
 
-La resolución del Ejecutivo se considerará como definitiva y no podrá ser impugnada por ningún medio legal.
+VIII. Rendir los informes necesarios y generar reportes sobre las actividades que supervisa o lleva a cabo, en el ámbito de sus funciones, con la periodicidad que indique su superior jerárquico inmediato;
 
-###### ARTICULO 19.
+IX. Validar y coordinar la elaboración de informes, estudios y demás trabajos que le solicite el Secretario Técnico, en lo correspondiente a los asuntos de su competencia;
 
-Al recibir la Junta la Escritura en donde aparecen protocolizadas el Acta Constitutiva, los Estatutos de la Asociación y la Resolución Aprobatoria, la remitirá al Ejecutivo del Estado, para que la referida resolución se publique en el Periódico Oficial del Gobierno del Estado.
+X. Implementar acciones de coordinación con otras áreas administrativas, cuando así se requiera, para el mejor funcionamiento de la Secretaría Ejecutiva, previo acuerdo con su superior jerárquico;
 
-La Junta conocerá y registrará cuando transitoriamente un grupo de personas se organice para desarrollar actos concretos de asistencia humanitaria mediante la recaudación de fondos provenientes de terceras personas, para que le brinde la asesoría y apoyo necesario que facilite tales promociones y actividades.
+XI. Integrar en coordinación con la Dirección de Administración el anteproyecto de presupuesto de las áreas administrativas a su cargo y en su caso, las modificaciones al mismo;
 
-###### ARTICULO 20.
+XII. Gestionar ante la Dirección de Administración el ejercicio presupuestal de las áreas administrativas a su cargo, de conformidad con las disposiciones aplicables;
 
-Las fundaciones que se constituyen por actos entre vivos, comunicarán a la Junta los siguientes datos y requisitos:
+XIII. Coadyuvar en la elaboración de los manuales administrativos en el ámbito de sus funciones;
 
-I. Nombre, domicilio, nacionalidad y demás datos relativos a la identificación del o de tos fundadores;
+XIV. Suscribir los documentos relativos al ejercicio de las facultades que le competan, de las que les hayan sido delegadas o de las que les correspondan por suplencia;
 
-II. Nombre, objeto y domicilio de la institución que se pretenda establecer;
+XV. Someter a consideración de su superior jerárquico los nombramientos, licencias, cambios, remociones y demás movimientos del personal adscrito a las áreas administrativas a su cargo;
 
-III. Los actos que deseen realizar con los ingresos de la fundación, así como los establecimientos que dependerán de ella;
+XVI. Ejercer cualquiera de las atribuciones que este Estatuto Orgánico otorgue a los titulares de las áreas administrativas a su cargo, sin necesidad de acuerdo por escrito;
 
-IV. El patrimonio que se dedicará a crear y sostener la institución, con la relación de los bienes y-o derechos que la constituyen;
+XVII. Recibir en acuerdo a los titulares de las áreas administrativas a su cargo y a cualquiera otra persona servidora pública subalterna;
 
-V. La designación de las personas que habrán de fungir como patronos, la forma de administración y la manera de sustituirlos en sus faltas temporales o definitivas;
+XVIII. Proponer al Secretario Técnico las acciones que fomenten la participación ciudadana y social en aquéllos asuntos de interés público que sean de su competencia;
 
-VI. El carácter permanente o transitado de la institución que se constituye;
+XIX. Recibir y dar trámite a las solicitudes de acceso a la información y de protección de datos personales que les sean turnadas por razón de competencia por la Dirección de Transparencia;
 
-VII. Las bases generales para la administración de la fundación y los demás datos que los fundadores consideren adecuados para definir cual es su voluntad y la forma en que deberá de ejecutarse.
+XX. Realizar las gestiones necesarias para publicar la información correspondiente a las obligaciones de transparencia de las áreas a su cargo, en el portal de Internet de la Secretaría Ejecutiva y en la Plataforma Estatal de Transparencia;
 
-###### ARTICULO 21.
+XXI. Proporcionar la información necesaria para la integración del informe sobre el cumplimiento de las obligaciones de transparencia y demás disposiciones establecidas en la normatividad de la materia;
 
-Recibido por la Junta la solicitud a que se refiere el artículo anterior, se procederá a analizarla y tramitada en la forma prevista en el Capítulo que antecede.
+XXII. Realizar las gestiones que estimen necesarias tendientes a garantizar la seguridad y debido tratamiento de la información que se genere, obtenga, adquiera, transforme o posea;
 
-### CAPITULO TERCERO. DE LAS OPERACIONES QUE PUEDEN REALIZAR LAS INSTITUCIONES Y ASOCIACIONES PARA ALLEGARSE FONDOS
+XXIII. Expedir copias certificadas de los documentos que obren en sus archivos o expediente o en los de las áreas administrativas a su cargo;
 
-###### ARTICULO 69.
+XXIV. Notificar las resoluciones, acuerdos y otros actos que se emitan en el ámbito de su competencia, a través del personal comisionado para el efecto, y
 
-Los Patronatos de las instituciones y asociaciones de beneficencia privada, podrán, entre otras cosas, solicitar donativos y organizar colectas, rifas, tómbolas o loterías, y, en general, toda clase de eventos o de diversiones, así como concursar los apoyos de la administración pública federal, estatal y municipal, para allegarse fondos e incrementar su patrimonio y destinar los productos que obtengan, a la ejecución de actos relativos a su objeto, informando de sus planes a la Junta.
+XXV. Las demás que le confieran este Estatuto Orgánico, los ordenamientos vigentes, los manuales autorizados y los convenios suscritos, así como las que le delegue el Secretario Técnico o le otorgue el Órgano de Gobierno mediante acuerdo.
 
-###### ARTICULO 70.
+### CAPÍTULO VI. DE LAS UNIDADES
 
-La Junta, una vez recibida la comunicación referida en el artículo anterior, y con la finalidad de coadyuvar al mejor resultado de dichos eventos, intervendrá ante las autoridades competentes para que éstas brinden las mayores facilidades.
+###### ARTÍCULO 25.
 
-###### ARTICULO 71.
+Al frente de cada una de las Unidades existirá una persona titular denominada Titular de Unidad, que dependerá directamente del Secretario Técnico, ocupará el primer nivel jerárquico inferior al de éste, tendrá las atribuciones que determine el presente Estatuto Orgánico y se auxiliará para el ejercicio de sus facultades y el trámite y resolución de los asuntos que le competan, de los Coordinadores, Subdirectores, Jefes de Departamento y demás personal de enlace, operativo, administrativo y técnico, que le sean asignados conforme a la capacidad presupuestal de la Secretaría Ejecutiva, cuyas funciones estarán determinadas en el Manual de Organización que al efecto se emita.
 
-Las instituciones de beneficencia, al realizar los actos a que se refiere el artículo 69 informarán a las autoridades competentes encargadas de autorizarlas, que han hecho del conocimiento previo de la Junta dicha circunstancia, debiéndoles remitir al solicitar su aprobación una copia de tal comunicación.
+#### SECCIÓN PRIMERA. DE LA UNIDAD DE RIESGOS, EVALUACIÓN Y POLÍTICAS PÚBLICAS
 
-###### ARTICULO 22.
+###### ARTÍCULO 26.
 
-Cuando la Junta de Beneficencia Privada tenga conocimiento que ha fallecido alguna persona, cuyo testamento disponga la constitución de una fundación, designará un representante para que denuncie la sucesión si es que los herederos o demás interesados no han cumplido con esta obligación.
+Para el desahogo de los asuntos de su competencia, el Titular de la Unidad de Riesgos, Evaluación y Políticas Públicas contará con las siguientes atribuciones:
 
-###### ARTICULO 23.
+I. Diseñar propuestas de políticas públicas encaminadas a la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, tomando en consideración las directrices que emita la Comisión Ejecutiva;
 
-Si el testador es omiso, respecto a algunos requisitos necesarios para la constitución de la fundación, la Junta, los suplirá, debiendo apegarse en todo al propósito y la voluntad del fundador manifestada en su testamento.
+II. Elaborar los anteproyectos de metodologías, indicadores y políticas integrales que acuerde la Comisión Ejecutiva, para que previa aprobación de dicho órgano colegiado, sean sometidas a la consideración del Comité Coordinador Estatal;
 
-### CAPITULO UNICO. DE LA JUNTA DE BENEFICENCIA PRIVADA
+III. Diseñar las propuestas de las evaluaciones de las políticas integrales que se llevarán a cabo en el ámbito del Sistema Estatal Anticorrupción y difundir sus resultados;
 
-###### ARTICULO 87.
+IV. Realizar estudios especializados en materias relacionadas con la prevención, detección y disuasión de hechos de corrupción y de faltas administrativas, fiscalización y control de recursos públicos que le solicite el Secretario Técnico;
 
-La Junta de Beneficencia Privada tendrá las siguientes atribuciones:
+V. Proveer por conducto del Secretario Técnico, a la Comisión Ejecutiva, de los insumos necesarios para el cumplimiento de sus funciones;
 
-I. Administración.
+VI. Elaborar, impulsar y participar en la ejecución de programas conjuntos y coordinados de promoción, difusión y vinculación que impulse la Secretaría Ejecutiva como parte de la agenda del Sistema Estatal Anticorrupción;
 
-a) Coordinar todos los actos relativos a la Asistencia Social, a través de la Beneficencia Privada.
+VII. Diseñar programas conjuntos y coordinados de capacitación, actualización y profesionalización para las personas servidoras públicas estatales y municipales, tendientes a cumplir con los objetivos del Sistema Estatal Anticorrupción, cuyo contenido sea previamente aprobado por el Comité Coordinador Estatal;
 
-b) Promover la fundación y fomento de Instituciones de Beneficencia Privada.
+VIII. Analizar y coadyuvar al establecimiento de estrategias transversales y de coordinación, para el desarrollo y cumplimiento de las políticas públicas acordadas en el marco de los Sistemas Nacional y Estatal Anticorrupción y para la administración de riesgos;
 
-c) Encauzar, previo acuerdo del Ejecutivo, el destino que deba darse a los bienes y recursos que dejen de estar afectos a la beneficencia; así como el de las instituciones que se liquiden o dejen de operar.
+IX. Apoyar al Secretario Técnico en sus labores de seguimiento y evaluación al avance y cumplimiento de objetivos y metas de la Secretaría Ejecutiva y en la validación de los indicadores respectivos;
 
-d) Revisar los lineamientos bajo los cuales se estructure la organización y funcionamiento de las instituciones de beneficencia; así como sus estatutos y modificaciones, con objeto de apoyar su funcionalidad y eficiencia.
+X. Proponer al Secretario Técnico normas, políticas, lineamientos, programas, proyectos, sistemas, criterios y estrategias en materia de evaluación, así como las observaciones y recomendaciones derivadas de su aplicación, bajo un enfoque de corresponsabilidad, transparencia y rendición de cuentas, de conformidad con las disposiciones aplicables;
 
-e) Designar representantes en las instituciones de beneficencia para su debido funcionamiento, en los casos que así lo faculte la Ley y proponer los mecanismos o reformas que subsanen en definitiva tal situación.
+XI. Elaborar los anteproyectos de informes que deba realizar la Secretaría Ejecutiva, previa aprobación del Secretario Técnico al Comité Coordinador Estatal, y
 
-f) Llevar un registro de las instituciones de beneficencia y recibir de sus patronatos los planes anuales de actividades, acompañados de los presupuestos de ingresos y egresos, efectuar su revisión y hacer las observaciones que sean pertinentes para la mejor operación de la institución.
+XII. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones legales o administrativas.
 
-g) Investigar las quejas que se presenten en contra de instituciones de beneficencia, de sus representantes, administradores, directores o empleados; respecto a su funcionamiento, manejo administrativo, financiero o de cualquier otro orden.
+#### SECCIÓN SEGUNDA. DE LA UNIDAD DE SERVICIOS TECNOLÓGICOS Y PLATAFORMA DIGITAL
 
-h) Gestionar y promover ante las autoridades competentes las acciones relativas a la beneficencia; ya sea para facilitar el cumplimiento de sus objetivos o para exigir responsabilidades.
+###### ARTÍCULO 27.
 
-i) Rendir al Ejecutivo informes trimestrales sobre el estado que guardan las instituciones y asociaciones de beneficencia en el Estado y proponer los planes para su desarrollo.
+Para el desahogo de los asuntos de su competencia, el Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital contará con las siguientes atribuciones:
 
-j) Proporcionar asesoría a quienes pretendan constituir una institución de beneficencia privada, a los patronos o fundadores de las ya establecidas, así como a las autoridades estatales y federales, en relación con la beneficencia privada.
+I. Proponer al Secretario Técnico la implementación de las tecnologías de la información y la comunicación, acordes a las necesidades del Sistema Estatal Anticorrupción y la Secretaría Ejecutiva, y compatibles con la Plataforma Digital Nacional, para el debido cumplimiento de sus atribuciones;
 
-k) Aprobar el informe anual de actividades que en los términos de esta Ley deban presentar las instituciones de beneficencia privada que operen en el Estado.
+II. Integrar los sistemas de información necesarios para que los resultados de las evaluaciones sean públicos y reflejen los avances o retrocesos en la política anticorrupción en el Estado y sus Municipios, previa aprobación del Comité Coordinador;
 
-l) Recibir y tramitar las quejas que se formulen en relación con fundaciones e instituciones de beneficencia privada que no se hayan constituido en los términos que señala la ley; así como aquellas quejas que se presenten en relación con las instituciones de beneficencia privada.
+III. Implementar, mantener, actualizar y evaluar los servicios de las plataformas digitales cuya administración son responsabilidad de la Secretaría Ejecutiva;
 
-m) Coadyuvar para que las fundaciones u organismos similares que tengan un patrimonio afecto a un fin de beneficencia, lo apliquen en la forma y términos que establecieron los fundadores ó los autores de la sucesión o del legado.
+IV. Proponer la instauración de mecanismos de organización de la información que permitan la adecuada interacción entre los diversos sistemas de las entidades miembros del Sistema Estatal Anticorrupción y con la Plataforma Digital Nacional;
 
-n) Nombrar Patronos de las instituciones de beneficencia privada, cuando no hayan sido designados por los fundadores, legatarios, autores de sucesiones o asociados.
+V. Promover la implementación de sistemas locales de información, en coordinación con el resto de las unidades administrativas de la Secretaría Ejecutiva;
 
-o) Rendir los informes que le solicite el Ejecutivo Estatal.
+VI. Desarrollar proyectos estratégicos en materia de informática y tecnologías de la información para el cumplimiento de los objetivos institucionales;
 
-p) Observar y aplicar la presente Ley y reglamentos que de ella emanen.
+VII. Elaborar políticas, lineamientos y programas en materia de informática, tecnologías de la información y de la comunicación, relacionados con el Sistema Estatal Anticorrupción;
 
-q) Resolver aquellos casos no previstos en la Ley.
+VIII. Difundir lineamientos, catálogos y normatividad informática de manera transversal entre todas las entidades del Sistema Estatal Anticorrupción y con los Municipios;
 
-r) Conocer y registrar las acciones a que se refiere el párrafo segundo del Artículo 19 de esta ley.
+IX. Diseñar, coordinar y supervisar la aplicación, el desarrollo y la difusión de políticas y estándares en materia de seguridad informática para el Sistema Estatal Anticorrupción, y
 
-II. Inspección y Vigilancia.
+X. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones legales o administrativas.
 
-La Junta podrá ordenar todas las visitas, auditorias e inspecciones que sean necesarias para comprobar que los objetivos de las instituciones están siendo realizados conforme a sus estatutos y verificar que se cumple con los preceptos de esta Ley; la Junta tendrá facultades para vigilar, por si o por interpósita persona:
+### CAPÍTULO VII. DE LAS DIRECCIONES
 
-a) El cumplimiento de las disposiciones contenidas en sus estatutos, o en los testamentos y legados en los que se hubieren destinado bienes y-o derechos a la beneficencia.
+###### ARTÍCULO 28.
 
-b) El empleo del patrimonio y los recursos que obtengan, con estricto apego a sus presupuestos.
+Al frente de cada una de las Direcciones existirá una persona titular denominada Directora o Director, que dependerá directamente del Secretario Técnico, ocupará el segundo nivel jerárquico inferior al de éste, tendrá las atribuciones que determine el presente Estatuto Orgánico y se auxiliará para el ejercicio de sus facultades y el trámite y resolución de los asuntos que le competan, de los Subdirectores, Jefes de Departamento y demás personal de enlace, operativo, administrativo y técnico, que le sean asignados conforme a la capacidad presupuestal de la Secretaría Ejecutiva, cuyas funciones estarán determinadas en el Manual de Organización que al efecto se emita.
 
-c) El orden y la correcta administración de la institución de beneficencia privada, con el fin de evitar que se desvíe el uso de sus bienes del objeto para el que fueron destinados.
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
-###### ARTICULO 88.
+###### ARTÍCULO 29.
 
-La Junta deberá celebrar Sesiones ordinarias cuando menos una vez al bimestre, y podrá celebrar sesiones extraordinarias cuando así lo determine su Presidente. Las sesiones ordinarias y extraordinarias serán válidas con la asistencia de al menos tres de sus integrantes. Las resoluciones se tomarán por mayoría de los votos de los presentes, en caso de empate el Presidente tendrá voto de calidad.
+Para el desahogo de los asuntos de su competencia, la Directora o Director de Administración contará con las siguientes atribuciones:
 
-La Junta se reunirá además, cada vez que sea requerida para ello por el Ejecutivo del Estado o por la Secretaría.
+I. Administrar los recursos humanos, financieros y materiales de la Secretaría Ejecutiva;
 
-De todas las sesiones se levantará un acta en la que se asentarán los acuerdos que se tomen y la firmarán todos los que en ella participan, remitiendo copia de la misma a la Secretaría.
+II. Vigilar el cumplimiento de la normatividad aplicable para la adecuada administración de los recursos humanos, financieros y materiales de la Secretaría Ejecutiva, a fin de garantizar el funcionamiento del conjunto de las áreas administrativas en un marco de transparencia y legalidad;
 
-###### ARTICULO 89.
+III. Integrar los anteproyectos anuales de presupuestos y la estructura programática de la Secretaría Ejecutiva, de acuerdo con la normativa aplicable;
 
-Las sesiones de la Junta serán válidas cuando concurran la mayoría de sus miembros y las decisiones se tomarán mediante votación nominal.
+IV. Realizar las gestiones necesarias ante las autoridades competentes en materia de recursos humanos, financieros y materiales;
 
-El Presidente o los vocales, podrán solicitar que se celebre una reunión convocándola para ello fuera del calendario aprobado, pero en todo caso, deberá incluir en la convocatoria los asuntos que se pretendan tratar.
+V. Administrar el presupuesto, contabilidad, tesorería, nómina y finanzas de la Secretaría Ejecutiva;
 
-En ausencia del Presidente, la sesión será presidida por el vocal primeramente nombrado.
+VI. Administrar los recursos presupuestales no erogados en los plazos comprometidos en la planeación, puestos a disposición por las unidades ejecutoras de gasto, y proponer a la instancia que corresponda que dichos recursos sean reorientados a proyectos prioritarios, a fin de ejercer de manera eficiente el presupuesto autorizado a la Secretaría Ejecutiva;
 
-###### ARTICULO 90.
+VII. Administrar los procesos relativos a la gestión de los recursos humanos de la Secretaría Ejecutiva;
 
-La Junta realizará visitas periódicas a las instituciones para verificar el cumplimiento de sus objetivos, conocer su situación y atender sus necesidades.
+VIII. Coordinar la elaboración de los manuales, lineamientos, programas y demás disposiciones necesarias para el debido funcionamiento de la Secretaría Ejecutiva, en colaboración con las áreas administrativas de la misma que resulten competentes;
 
-###### ARTICULO 91.
+IX. Aplicar y promover acciones orientadas a la capacitación y mejora continua, para el fortalecimiento y desarrollo del clima organizacional;
 
-De los resultados de las visitas periódicas practicadas a las instituciones se desprenderán los acuerdos relativos para su mejor funcionamiento.
+X. Definir, instrumentar y supervisar la operación de los programas de servicio social y prácticas profesionales en la Secretaría Ejecutiva, de acuerdo con la normatividad aplicable;
 
-###### ARTICULO 92.
+XI. Llevar a cabo los procedimientos relativos a las adquisiciones, arrendamientos, obras públicas y contratación de servicios, así como administrar los servicios generales de la Secretaría Ejecutiva, en cumplimiento irrestricto de la normatividad aplicable;
 
-Las personas designadas por la Junta para practicar visitas o auditorias, no podrán publicar ni informar a terceros de cualquier hecho, datos o circunstancias de los que hayan tenido conocimiento durante la práctica de su encomienda.
+XII. Suscribir contratos y convenios en materia de adquisiciones, arrendamientos y servicios, obras públicas y servicios relacionados con las mismas, así como los demás actos de administración que prevean las disposiciones legales y administrativas aplicables a la Secretaría Ejecutiva;
 
-Los visitadores o auditores entregarán a la Junta su informe, haciendo las observaciones y recomendaciones que estimen convenientes para la operación de la institución.
+XIII. Presidir el Comité de Adquisiciones, Arrendamientos y Servicios y el Comité de Bienes Muebles, de la Secretaría Ejecutiva;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+XIV. Coordinar e integrar la propuesta del Programa Anual de Adquisiciones, Arrendamientos y Servicios de cada ejercicio fiscal, en términos de las disposiciones aplicables;
 
-###### ARTICULO 93.
+XV. Administrar los bienes muebles e inmuebles patrimonio de la Secretaría Ejecutiva, así como establecer los mecanismos para su resguardo, custodia, almacenaje y, en su caso, desincorporación, así como registrar contablemente los movimientos de altas y bajas, en términos de las disposiciones legales aplicables;
 
-Los patronos, administradores, funcionarios o empleados de las instituciones de beneficencia privada deberán dar facilidades a los visitadores o auditores designados por la Junta y ésta dará a conocer el resultado correspondiente al Ejecutivo del Estado por conducto de la Secretaría de Inclusión y Desarrollo Social.
+XVI. Proponer al Secretario Técnico, los programas y acciones necesarias para garantizar condiciones de accesibilidad dirigidas a los grupos vulnerables y/o personas con discapacidad, a efecto de generar un ambiente de igualdad e inclusión tanto en su participación como en el ejercicio de sus derechos;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+XVII. Establecer, supervisar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información de la Secretaría Ejecutiva, conforme a la normatividad aplicable;
 
-###### ARTICULO 94.
+XVIII. Verificar el cumplimiento de normas de control y evaluación que emitan diversas autoridades en el ámbito de su competencia, así como fungir como enlace en las visitas de revisión que realicen las instancias fiscalizadoras;
 
-La Secretaría de Fiscalización y Rendición de Cuenta del Estado, intervendrá a solicitud de la Junta, como órgano auxiliar de ésta y podrá implementar sistemas y métodos para auxiliar en el buen funcionamiento y cumplimiento adecuado del objeto de las instituciones.
+XIX. Coordinar las actividades de la Secretaría Ejecutiva en materia de archivos conformados por los expedientes de las áreas administrativas en ejercicio de sus atribuciones o en el desarrollo de sus actividades, para su debida integración, administración, resguardo, organización, clasificación, inventario, préstamo y consulta, transferencia, baja documental, conservación y concentración, en términos de lo dispuesto por la normatividad aplicable, y
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+XX. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones legales o administrativas.
 
-###### ARTICULO 95.
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
-La Secretaría de Fiscalización y Rendición de Cuenta del Estado, en caso que la Junta se lo solicite, verificará el inventario de los bienes afectos a las Instituciones, su situación financiera y operativa.
+###### ARTÍCULO 30.
 
-## TITULO QUINTO. DE LA EXTINCION DE LAS INSTITUCIONES Y ASOCIACIONES
+Para el desahogo de los asuntos de su competencia, la Directora o Director de Asuntos Jurídicos contará con las siguientes atribuciones:
 
-###### ARTICULO 96.
+I. Representar legalmente a la Secretaría Ejecutiva en asuntos jurisdiccionales, contencioso-administrativos y ante toda clase de autoridades administrativas, judiciales y laborales, en los procesos de toda índole, cuando requiera su intervención y para absolver posiciones;
 
-Las Instituciones de Beneficencia Privada, por solicitud de sus asociados o representantes, de la Junta de Beneficencia Privada o de oficio por el Ejecutivo del Estado, mediante declaratoria de éste, podrán extinguirse, de existir razones que así lo justifiquen.
+II. Rendir los informes previos y justificados que en materia de amparo deban presentarse, promover o desistirse, en su caso, de los juicios de amparo y, en general, ejercitar todas las acciones que a dichos juicios se refieran;
 
-###### ARTICULO 97.
+III. Presentar denuncias de hechos, querellas, desistimientos y otorgar perdones ante el Ministerio Público u otras autoridades competentes, únicamente en asuntos que afecten los intereses jurídicos o legítimos de la Secretaría Ejecutiva;
 
-Las instituciones constituidas transitoriamente, se extinguirán cuando haya concluido el plazo señalado para su funcionamiento, o cuando haya cesado la causa que motivó su creación, previa declaratoria del Ejecutivo.
+IV. Coadyuvar en el trámite de los procesos judiciales y procedimientos jurisdiccionales ante las autoridades competentes, en los asuntos que la Secretaría Ejecutiva posea interés jurídico o legítimo alguno;
 
-###### ARTICULO 98.
+V. Someter a consideración del Secretario Técnico, las alternativas jurídicas de solución a los asuntos considerados como relevantes o especiales de la Secretaría Ejecutiva;
 
-La declaratoria de extinción que de una institución haga el Ejecutivo, la privará de su carácter de auxiliar del Estado para el fin de utilidad pública que se le reconoció y sólo podrá, en lo sucesivo, ejercitar los derechos y cumplir con las obligaciones que sean indispensables para su liquidación.
+VI. Emitir opinión a las áreas administrativas sobre los ordenamientos aplicables en el ámbito de competencia de la Secretaría Ejecutiva, así como los criterios de interpretación administrativa y aplicación jurídica;
 
-###### ARTICULO 99.
+VII. Asesorar jurídicamente a las áreas administrativas de la Secretaría Ejecutiva, cuando éstas lo soliciten;
 
-Una vez hecha la declaratoria de extinción, se procederá a liquidar la institución, conforme las normas previstas en el capítulo siguiente.
+VIII. Compilar y promover la difusión de normas jurídicas relacionadas con el Sistema Estatal Anticorrupción y con las funciones de la Secretaría Ejecutiva;
 
-###### ARTICULO 24.
+IX. Requerir a las personas servidoras públicas y las áreas administrativas de la Secretaría Ejecutiva, la documentación e información que sea necesaria para el cumplimiento de sus atribuciones;
 
-El albacea o ejecutor testamentario presentará a la Junta el proyecto de estatutos y la copia certificada del testamento, dentro del mes siguiente a la fecha en que haya causado ejecutoria el auto de declaratoria de herederos.
+X. Dictaminar los aspectos jurídicos de los convenios, contratos, bases de colaboración y acuerdos interinstitucionales, entre otros instrumentos jurídicos, que deba suscribir la Secretaría Ejecutiva, llevar un registro y resguardar un tanto de los mismos en el archivo que al efecto administre;
 
-### CAPITULO UNICO. DE LA DlSOLUCION Y LlQUIDACION DE LAS INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA
+XI. Tramitar la publicación de las disposiciones jurídicas que emita la Secretaría Ejecutiva, el Órgano de Gobierno o el Secretario Técnico, en el Periódico Oficial del Estado, que por mandato legal deban publicarse o que instruya el Secretario Técnico;
 
-###### ARTICULO 100.
+XII. Coadyuvar con el Secretario Técnico en las funciones que le corresponden como secretario del Comité Coordinador Estatal y como secretario del Órgano de Gobierno, tales como proponer los calendarios de las sesiones, preparar las convocatorias, órdenes del día y anexos para las sesiones que celebren; ejecutar y dar seguimiento a los acuerdos y resoluciones que se emitan; elaborar y certificar los acuerdos que se tomen y los instrumentos que se emitan, así como llevar el archivo de éstos;
 
-Las instituciones que pretendan disolverse, deberán presentar la solicitud correspondiente ante la Junta, la cual una vez que la hubiere aprobado, la turnará al Ejecutivo del Estado, para que éste, en su caso, emita la resolución correspondiente.
+XIII. Orientar a las áreas administrativas de la Secretaría Ejecutiva y coadyuvar con ellas, en la elaboración de lineamientos, manuales o cualquier otra disposición normativa de aplicación interna que pretendan emitir;
 
-###### ARTICULO 101.
+XIV. Asesorar en los procedimientos relativos a las adquisiciones, arrendamientos, obras públicas y contratación de servicios de la Secretaría Ejecutiva;
 
-La solicitud de disolución que el patronato de la institución remita a la Junta, incluirá el programa para concluir los negocios que la institución tuviere pendientes al momento de la disolución y el destino que habrá de darse a los bienes que formen el remanente, una vez practicada la liquidación y concluidos todos los asuntos que la institución tuviere pendientes.
+XV. Validar previamente los anteproyectos normativos que el Secretario Técnico vaya a presentar al Órgano de Gobierno para su aprobación y emisión;
 
-###### ARTICULO 102.
+XVI. Participar y emitir las opiniones jurídicas que correspondan en las sesiones que se instauren en el Comité de Adquisiciones, Arrendamientos y Servicios y en el Comité de Bienes Muebles, de la Secretaría Ejecutiva;
 
-Si el Ejecutivo del Estado resuelve la disolución de la institución, en el mismo acuerdo designará uno o más liquidadores, que podrán o no ser miembros del patronato, ajustándose para dicha determinación a los términos previstos en los estatutos y en las disposiciones de esta ley.
+XVII. Dictaminar los proyectos de contratos y convenios específicos que le remita la Dirección de Administración, derivados de procedimientos de licitación pública o que hubieren sido aprobados por el Comité de Adquisiciones, Arrendamientos y Servicios de la Secretaría Ejecutiva, así como las garantías correspondientes a fin de que se adecuen a las disposiciones aplicables, y
 
-###### ARTICULO 103.
+XVIII. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
 
-El acuerdo que no provea la conformidad con la solicitud para declarar disuelta una institución, se notificará fehacientemente a los interesados, expresando los fundamentos y razones de la misma, y los interesados podrán dentro de los quince días siguientes a la notificación, impugnar dicho acuerdo ante el Ejecutivo del Estado, quien resolverá lo conducente conforme a la ley.
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE VINCULACIÓN INTERINSTITUCIONAL
 
-###### ARTICULO 104.
+###### ARTÍCULO 31.
 
-El patronato de la institución protocolizará ante notario público la resolución que declare la disolución, así como el nombramiento de los liquidadores, y una vez registrada, la enviará a la Junta.
+Para el desahogo de los asuntos de su competencia, la Directora o Director de Vinculación Interinstitucional contará con las siguientes atribuciones:
 
-###### ARTICULO 105.
+I. Apoyar y dar seguimiento a la celebración de convenios, foros, seminarios, cursos y concursos que se lleven a cabo en el marco de las atribuciones de la Secretaría Ejecutiva en coordinación con los integrantes del Sistema Estatal Anticorrupción;
 
-Cuando se disuelva y liquide una Institución, los fondos que se obtengan se destinarán, en primer lugar, para cubrir sus pasivos; en caso de que hubiere un remanente, la Junta, a propuesta del Patronato, elegirá a cuál o cuáles instituciones le será entregado, de preferencia entre las que tengan un objeto análogo a la extinguida; en caso contrario se presentará al Ejecutivo, un proyecto para constituir una nueva Institución con los bienes que integren el remanente.
+II. Proponer e impulsar mecanismos de colaboración y coordinación entre la Secretaría Ejecutiva y los miembros integrantes del Sistema Estatal Anticorrupción en materia de prevención, detección y disuasión de hechos de corrupción y faltas administrativas;
 
-En cualquier caso, la Junta y el Patronato, tomarán en cuenta lo dispuesto por el fundador, testador o legatario en el acta constitutiva.
+III. Llevar a cabo el monitoreo legislativo con relación a las iniciativas, proyectos, puntos de acuerdo, y demás actos que incidan en el ámbito de competencia de la Secretaría Ejecutiva;
 
-###### ARTICULO 106.
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de apoyos, servicios y demás requerimientos de colaboración que realicen los integrantes del Sistema Estatal Anticorrupción y los Municipios, y canalizar o coordinar su atención a las áreas administrativas que correspondan de la Secretaría Ejecutiva, así como dar seguimiento para su debida atención;
 
-Los liquidadores serán los representantes de la institución y responderán por los actos que ejecuten.
+V. Formular y proponer al Órgano de Gobierno por conducto del Secretario Técnico, el programa para dar cumplimiento a la política y estrategia de comunicación;
 
-La liquidación se practicará con arreglo a las estipulaciones relativas de los estatutos de la institución y de la resolución del Ejecutivo del Estado.
+VI. Requerir información a los Entes públicos con relación al cumplimiento de la política estatal y las demás políticas integrales implementadas, así como recabar datos, observaciones y propuestas requeridas para su evaluación, revisión o modificación de conformidad con los indicadores generados para tales efectos;
 
-Los honorarios de los liquidadores serán pagados con los fondos de la institución en liquidación y se tasarán equitativamente, según la cuantía del remanente y el género de trabajo que haya de desempeñarse.
+VII. Determinar e instrumentar los mecanismos, bases y principios para la coordinación con las autoridades de fiscalización, control y de prevención y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan, y
 
-Si los liquidadores nombrados forman parte del patronato de la institución, no percibirán remuneración alguna por el ejercicio del cargo de liquidador.
+VIII. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
 
-###### ARTICULO 107.
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE TRANSPARENCIA Y DEL COMITÉ DE TRANSPARENCIA
 
-Los liquidadores tendrán las siguientes facultades:
+## TÍTULO III
 
-1). Concluir las operaciones de la institución que hubieren quedado pendientes al momento de la disolución.
+### CAPÍTULO ÚNICO. DEL ÓRGANO INTERNO DE CONTROL
 
-2). Formar el inventario de todos los bienes.
+###### ARTÍCULO 32.
 
-3). Cobrar lo que se deba a la institución y pagar lo que ésta adeude.
+Para el desahogo de los asuntos de su competencia, la Directora o Director de Transparencia contará con las siguientes atribuciones:
 
-4). Practicar el balance final de la institución y someterlo a la aprobación del Patronato y de la Junta.
+I. Coordinar las acciones por parte de la Secretaría Ejecutiva, para el cumplimiento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla;
 
-5). Rendir cuatrimestralmente al Patronato y a la Junta un informe del estado que guarda el proceso de liquidación.
+II. Ser el vínculo entre el solicitante y el sujeto obligado y entre éste y el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+III. Recabar y publicar, difundir y actualizar las obligaciones de transparencia referidas en la presente Ley y propiciar que las áreas administrativas la actualicen periódicamente, conforme la normatividad aplicable;
 
-6). Obtener del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza la cancelación de la inscripción de la institución una vez concluida la liquidación.
+IV. Recibir y tramitar las solicitudes de acceso a la información presentadas al sujeto obligado, así como darles seguimiento hasta que haga entrega de la respuesta a la misma;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+V. Asesorar y orientar a quienes lo requieran en la elaboración de las solicitudes de acceso, así como sobre su derecho para interponer el recurso de revisión, modo y plazo para hacerlo y en los demás trámites para el efectivo ejercicio de su derecho de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
 
-###### ARTICULO 108.
+VI. Proponer al Comité de Transparencia de la Secretaría Ejecutiva los procedimientos internos que aseguren la mayor eficiencia en la atención y gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
 
-La Junta por causa grave y previa aprobación del Ejecutivo, podrá remover a los liquidadores nombrados y extender nuevos nombramientos, los que se inscribirán en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza. Los que hubieren sido removidos harán entrega a los nuevos liquidadores de toda la documentación que tuvieren y si se negaran a ello o no fuere posible hacerlo, la Junta suplirá a los primeros. Si fuere más de uno, los liquidadores obrarán conjuntamente y siempre lo harán en los términos acordados en la disolución.
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
 
-###### ARTICULO 109.
+VIII. Llevar un registro de las solicitudes de acceso, respuestas, resultados, costos de reproducción y envío;
 
-Durante la liquidación, la institución conservará su personalidad jurídica. Terminada la liquidación se levantará un acta y los liquidadores entregarán a la Junta toda la documentación correspondiente, incluyendo los libros respectivos, quien los remitirá para su guarda al archivo que corresponda.
+IX. Promover e implementar políticas de transparencia proactiva, procurando su accesibilidad;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+X. Establecer los procedimientos para asegurarse de que, en el caso de información confidencial, los datos personales se entreguen sólo a su titular o en términos de la legislación aplicable;
 
-###### ARTICULO 110.
+XI. Contribuir con las áreas administrativas responsables de la información, en la elaboración de las versiones públicas correspondientes;
 
-Los Notarios Públicos no autorizarán ningún documento donde se proceda a la liquidación de Instituciones cuando no se ajusten a lo dispuesto en la presente Ley. Igual obligación tendrán los Registradores Públicos y el Director del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, así como los Jueces Civiles que ordenen las inscripciones relativas.
+XII. Suscribir las declaraciones de inexistencia de la información conjuntamente con el titular del área administrativa responsable de la información;
 
-## TITULO SEXTO. RESPONSABILIDADES Y RECONOCIMIENTOS
+XIII. Supervisar la catalogación y conservación de los documentos administrativos, así como la organización de archivos del sujeto obligado, en coordinación con la Dirección de Administración;
 
-###### ARTICULO 111.
+XIV. Supervisar el cumplimiento de criterios y lineamientos en materia de información reservada y confidencial y de datos personales;
 
-Los titulares, representantes, administradores, directores y empleados de las Instituciones y las demás autoridades, órganos y particulares vinculados con las mismas, serán responsables por los actos que realicen en contravención a lo dispuesto por esta Ley.
+XV. Rendir el informe con justificación al que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla;
 
-###### ARTICULO 112.
+XVI. Representar al sujeto obligado en el trámite del recurso de revisión;
 
-Son infracciones para los efectos de la presente Ley, las siguientes:
+XVII. Tener a su cargo y administrar las claves de los sistemas electrónicos de atención a solicitudes de acceso y de publicación de información, en términos de lo que dispongan la Ley General de Transparencia y Acceso a la Información Pública y los lineamientos que emita el Sistema Nacional;
 
-I. La constitución sin autorización de una institución de las previstas en esta Ley.
+XVIII. Desempeñar las funciones y comisiones que el Secretario Técnico le asigne en las materias de su competencia;
 
-II. No dar cumplimiento a las normas que el presente ordenamiento establece para la constitución, funcionamiento y administración de las instituciones que esta Ley rige.
+XIX. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
 
-III. No acatar, los responsables de las Instituciones, las prevenciones que dicten con fundamento en la presente Ley, el Ejecutivo del Estado, la Secretaría o la Junta;
+XX. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley de Transparencia y Acceso a la Información Pública, la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla y en las demás disposiciones aplicables, y
 
-IV. El autorizar, los notarios, sin aviso previo, ni aprobación de la Junta, actos jurídicos que afecten los intereses de las Instituciones o la constitución sin sujeción a las disposiciones de esta ley, de cualquier persona moral dedicada exclusivamente a realizar actos de beneficencia privada que se señalan en éstas. Para este efecto los notarios al tener conocimiento de cualquier solicitud para constituir una persona moral con los fines referidos, previo a la constitución, deberá dar aviso a la Junta sobre lo anterior y obtener la autorización de ésta en los términos de la presente ley.
+XXI. Las demás establecidas en los artículos 45 de la Ley General de Transparencia y Acceso a la Información Pública y 16 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, las que le confiera el Secretario Técnico y las que se señalen en otras disposiciones jurídicas que resulten aplicables.
 
-V. No rendir los jueces, a la Junta, los informes previstos por esta Ley o no cumplir con las obligaciones que este ordenamiento fija dentro del trámite de los juicios sucesorios que a la Beneficencia Privada interesan.
+## TÍTULO IV
 
-###### ARTICULO 113.
+### CAPÍTULO ÚNICO. DE LAS LICENCIAS Y SUPLENCIAS
 
-Las sanciones que resulten con motivo de infracciones a la presente Ley, serán impuestas directamente por el Ejecutivo del Estado y comprenderán;
+###### ARTÍCULO 37.
 
-I. Amonestación,
+El personal de la Secretaría Ejecutiva tendrá derecho a solicitar licencias con y sin goce (sic) sueldo, distintas de las incapacidades médicas, permisos laborales y vacaciones, cuyo otorgamiento se sujetará a lo siguiente:
 
-II. Multa en los términos y casos que fije la Ley,
+I. Las licencias comprenderán siempre el cargo y la adscripción;
 
-III. Suspensión de la institución de beneficencia,
+II. Las licencias se podrán prorrogar cuando se acredite, previo a su vencimiento, que sigue vigente la causa que la motivó;
 
-IV. Clausura o extinción de la institución de beneficencia.
+III. Las licencias sólo se concederán hasta por un término máximo de treinta días con goce de sueldo y seis meses sin goce de sueldo, a no ser que se soliciten por causa de servicio público temporal a la Federación, al Estado de Puebla o a alguno de sus Municipios;
 
-###### ARTICULO 114.
+IV. Se podrán conceder licencias económicas por causas justificadas hasta por tres días, las cuales serán otorgadas por el superior jerárquico inmediato;
 
-La violación a lo dispuesto por la fracción I del Artículo 112, se sancionará con una multa de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), que se hará efectiva a los responsables, para no afectar los fondos de la institución y, además, si resultare socialmente conveniente se procederá a su liquidación en los términos del Artículo 99 de esta ley.
+V. Toda licencia deberá concederse por escrito, en el que se hará constar la calificación de las razones aducidas en la solicitud;
 
-###### ARTICULO 115.
+VI. Ninguna persona servidora pública podrá renunciar a la licencia que le hubiere sido concedida, cuando ya haya sido designada la persona que deba sustituirla interinamente.
 
-Los casos de infracción a que se refiere la fracción II del Artículo 112, se sancionarán con amonestación o apercibimiento; sin perjuicio de poder aplicar la multa que se estime conveniente o alguna de las sanciones preceptuadas por el artículo 119 de esta ley.
+VII. Concluido el plazo de una licencia, si la persona interesada no se presenta al desempeño de sus labores en forma inmediata, quedará sin efecto su nombramiento;
 
-###### ARTICULO 116.
+VIII. Las licencias que no excedan de quince días consecutivos ni más de treinta días en un año, serán concedidas por el Secretario Técnico; cuando excedan de esos términos, será el Órgano de Gobierno el que las autorice, y
 
-Los casos de contravención a la fracción III del Artículo 112, se sancionarán con amonestación en el primer caso, y si hay lugar a reincidencia se le aplicará una multa de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), a $50,000.00 (CINCUENTA MIL PESOS 00/100 M,N.) a los responsables para no afectar los fondos de la institución, más los daños y perjuicios que se hubieren ocasionado; independientemente de las sanciones que pudieran corresponderle conforme a otro ordenamiento legal; y en caso grave se procederá a la clausura o extinción de la institución respectiva.
+IX. El Secretario Técnico, para ausentarse hasta por diez días consecutivos, bastará con que dé aviso al Órgano de Gobierno, siempre que la licencia sea sin goce de sueldo; de lo contrario, requerirá la autorización previa de éste.
 
-###### ARTICULO 117.
+###### ARTÍCULO 38.
 
-El desacato por los notarios a que alude el supuesto previsto por la fracción IV del Artículo 112, se sancionará, por el Ejecutivo del Estado, con una multa de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), a $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.), y en caso de reincidencia con suspensión en el desempeño de sus funciones hasta por el término de un mes.
+En los casos de ausencia temporal, las personas servidoras públicas adscritas a la Secretaría Ejecutiva serán suplidas en los términos siguientes:
 
-###### ARTICULO 118.
+I. La ausencia de la o el Secretario Técnico será suplida por la o el Titular de la Unidad de Riesgos, Evaluación y Políticas Públicas, por la o el Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital, por la Directora o Director de Asuntos Jurídicos y por la Directora o Director de Administración, en ese orden;
 
-La infracción por los jueces a la fracción V del artículo 112, se sancionará por conducto de la autoridad competente, con suspensión en el desempeño de su cargo por el término de un mes y en caso de reincidencia con destitución definitiva.
+II. La ausencia de cualquier persona titular de Unidad o Dirección, será suplida por la persona servidora pública de su adscripción que ocupe el cargo de nivel jerárquico inmediato inferior, salvo cuando haya designación de persona encargada del despacho por la o el Secretario Técnico, y
 
-###### ARTICULO 119.
+III. La ausencia de cualquier persona servidora pública de rango inferior al de titular de Unidad o Dirección, será suplida por la persona servidora pública de su adscripción que ocupe el cargo de nivel jerárquico inmediato inferior, salvo cuando haya designación de persona encargada del despacho por la persona titular de la Unidad o Dirección respectiva.
 
-En caso de infracciones graves que se cometan en las instituciones, por actos contrarios a la Ley, a las buenas costumbres o porque se desvíen indebidamente la aplicación de los fondos encomendados, las sanciones correspondientes se aplicarán de acuerdo a la gravedad de la falta y a las circunstancias que medien en cada caso concreto; pudiendo inclusive procederse previo respeto de la garantía de audiencia, a la destitución o separación del cargo del infractor, sin perjuicio de hacerle exigible cualquier otro tipo de responsabilidad que le resulte.
+En los supuestos de las fracciones II y III de este artículo, cuando existan dos o más personas servidoras públicas con un nivel jerárquico inmediato inferior adscritas a la ausente, la suplencia procederá de forma indistinta por cualquiera de ellas.
 
-###### ARTICULO 120.
+###### ARTÍCULO 33.
 
-Las multas, en caso de no cubrirse voluntariamente dentro del término de cinco días en la Secretaría de Finanzas del Estado, se harán efectivas de acuerdo con el procedimiento de ejecución señalado por el Código Fiscal del Estado.
+La Secretaría Ejecutiva también contará con un Comité de Transparencia, el cual tendrá a su cargo las funciones señaladas en el artículo 44 de la Ley General de Transparencia y Acceso a la Información Pública y contará con las facultades y atribuciones que le confieren los artículos 21 y 22 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y las demás disposiciones jurídicas que resulten aplicables.
 
-###### ARTICULO 121.
+###### ARTÍCULO 34.
 
-Anualmente la Junta hará una evaluación de las Instituciones, brindando un reconocimiento público a las que estén cumpliendo cabalmente con su función y dando cuenta a los medios de comunicación social, para que se aprecie el esfuerzo de las instituciones y sus directores. Esta evaluación se basará en el informe anual que deberán rendir las instituciones sobre los logros alcanzados y las perspectivas que se tengan.
+El Comité de Transparencia se integrará de la siguiente forma:
 
-###### ARTICULO 122.
+I. El titular de la Dirección de Transparencia, quien lo presidirá;
 
-La Junta de acuerdo a lo previsto en el artículo anterior, estimularán (sic) las tareas efectuadas por los organismos que esta Ley rige, instituyéndose un reconocimiento anual, que se premiará mediante el otorgamiento de la Presea Francisco I. Madero, a la institución mas destacada; así como, menciones especiales a las que hubieren superado sus objetivos trazados en dicha anualidad y diplomas de reconocimiento a todas las demás que hayan realizado sus tareas en cumplimiento a sus estatutos y a lo previsto en esta Ley.
+II. El responsable del área administrativa coordinadora de archivos, y
 
-###### ARTICULO 123.
+III. El titular del Órgano Interno de Control de la Secretaría Ejecutiva.
 
-El Estado coadyuvará con las funciones que desempeñen estas instituciones, y en la medida de sus posibilidades promoverá y otorgará becas a las personas tuteladas por éstas; o en su caso, les brindará oportunidad preferente de empleo; asimismo, fomentará la realización de eventos deportivos, recreativos, culturales y demás que sean necesarios para su mejor formación.
+El presidente podrá invitar a las sesiones del Comité de Transparencia, a los titulares de las áreas administrativas responsables de la información distintas de las que lo integran, para el desahogo de las solicitudes o asuntos respectivos.
 
-T R A N S I T O R l O S:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-PRIMERO.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE APOYO EJECUTIVO Y SEGUIMIENTO DE ACUERDOS
 
-SEGUNDO.- Se abroga la Ley sobre Fundaciones y Asociaciones de Beneficencia e Instrucción Publica de fecha 28 de diciembre de 1940.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-TERCERO.- Se deroga cualquier otra disposición que se oponga en cuanto a su contenido, términos y alcance a la presente Ley.
+## TÍTULO V
 
-CUARTO.- Las instituciones que este ordenamiento rige, adecuarán administrativamente sus actas de fundación y estatutos a los lineamientos que de acuerdo a esta Ley establezca la Junta de Beneficencia Privada, con el objeto de facilitarles apoyo y un mejor desempeño en su organización y funcionamiento. Las solicitudes para autorizar la constitución de instituciones de beneficencia, así como los demás procedimientos en trámite, se continuarán de acuerdo a lo preceptuado por el presente decreto.
+### CAPÍTULO ÚNICO. DISPOSICIONES FINALES
 
-DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila, a los ocho días del mes de noviembre del año dos mil cinco.
+###### ARTÍCULO 39.
 
-DIPUTADA PRESIDENTA.
+El presente Estatuto Orgánico podrá ser modificado por el Órgano de Gobierno a propuesta que realice el Secretario Técnico por conducto de la persona que funja como Presidente del citado órgano.
 
-MARÍA EUGENIA CÁZARES MARTÍNEZ.
+###### ARTÍCULO 40.
 
-(RÚBRICA)
+Los casos no previstos en el presente Estatuto Orgánico serán resueltos por el Órgano de Gobierno, tomando en consideración el dictamen jurídico que al respecto realice el Secretario Técnico.
 
-DIPUTADO SECRETARIO.
+###### ARTÍCULO 35.
 
-MIGUEL FELIPE MERY AYUP.
+Para el desahogo de los asuntos de su competencia, la Directora o Director de Apoyo Ejecutivo y Seguimiento de Acuerdos contará con las siguientes atribuciones:
 
-(RÚBRICA)
+I. Actuar como órgano de consulta, análisis y asesoría en aquellos asuntos que le encomiende el Secretario Técnico;
 
-DIPUTADO SECRETARIO.
+II. Auxiliar al Secretario Técnico en la preparación, convocatoria, organización, conducción, desarrollo y seguimiento, de las sesiones y acuerdos del Órgano de Gobierno y de la Comisión Ejecutiva;
 
-GREGORIO CONTRERAS PACHECO.
+III. Coadyuvar en el análisis, seguimiento ejecutivo y evaluación de los acuerdos del Órgano de Gobierno, de la Comisión Ejecutiva y del Secretario Técnico, llevar los respetivos (sic) tableros de control e informar sobre su cumplimiento;
 
-(RÚBRICA)
+IV. Apoyar el Secretario Técnico en la preparación, seguimiento y evaluación de las tareas programáticas y políticas generales del organismo;
 
-IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE.
+V. Impulsar las actividades de fortalecimiento institucional y seguimiento, de conformidad con las directrices que instruya el Secretario Técnico;
 
-Saltillo, Coahuila, 20 de Diciembre de 2005.
+VI. Auxiliar al Secretario Técnico en las tareas de coordinación para la elaboración de los informes, proyectos y demás documentos que deba preparar con la colaboración de las áreas respectivas;
 
-EL GOBERNADOR DEL ESTADO
+VII. Diseñar e instrumentar las políticas, estrategias y mecanismos de interlocución, comunicación y difusión de la Secretaría Ejecutiva, de conformidad con los lineamientos y directrices que acuerde el Secretario Técnico;
 
-PROF. HUMBERTO MOREIRA VALDÉS
+VIII. Apoyar al Secretario Técnico en el manejo de su correspondencia, agenda y archivo, en la calendarización de actividades, reuniones y eventos, en la atención de personas y la canalización de asuntos, en la preparación de acuerdos y en el seguimiento de compromisos institucionales;
 
-(RÚBRICA)
+IX. Brindar al Órgano de Gobierno y a la Comisión Ejecutiva, los apoyos necesarios para el mejor cumplimiento de sus funciones;
 
-EL SECRETARIO DE GOBIERNO
+X. Apoyar al Secretario Técnico en todas las tareas administrativas que le correspondan, y
 
-OSCAR PIMENTEL GONZÁLEZ
+XI. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
 
-(RÚBRICA)
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-EL SECRETARIO DE DESARROLLO SOCIAL
+###### ARTÍCULO 36.
 
-LIC. LUIS GERARDO GARCÍA MARTÍNEZ
+La Secretaría Ejecutiva contará con un Órgano Interno de Control, cuyo titular será designado en términos de la Ley Orgánica de la Administración Pública del Estado de Puebla, y contará con la estructura y atribuciones establecidas en las disposiciones jurídicas aplicables, con las limitaciones previstas en el artículo 27, segundo y último párrafo, de la Ley del Sistema Anticorrupción del Estado de Puebla.
 
-(RÚBRICA)
+## TRANSITORIOS
 
-EL SECRETERIO (SIC) DE LA FUNCIÓN PÚBLICA
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-ING. ISMAEL EUGENIO RAMOS FLORES
+SEGUNDO. El Estatuto Orgánico de la Secretaría Ejecutiva deberá inscribirse en el Registro de Entidades Paraestatales dentro de los treinta días naturales siguientes a la fecha de su entrada en vigor.
 
-(RÚBRICA)
+TERCERO. La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro ante la Secretaría de Finanzas y Administración y la Secretaría de la Contraloría, del Estado de Puebla.
+
+Ciudad de Puebla, a 2 de marzo de 2018. C. Karen Berlanga Valdés. Presidenta del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción. Rúbrica. C. David Villanueva Lomelí. Auditor Superior del Estado de Puebla. Rúbrica. C. Rodolfo Sánchez Corro. Secretario de la Contraloría del Estado de Puebla. Rúbrica. C. Enrique José Flota Ocampo. Fiscal Especializado de Combate a la Corrupción del Estado de Puebla. Rúbrica. C. María Gabriela Sierra Palacios. Comisionada Presidenta del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla. Rúbrica. C. María de Lourdes Dib Álvarez. Magistrada Presidenta del Tribunal de Justicia Administrativa. Rúbrica.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 26 DE DICIEMBRE DE 2017.
+P.O. 21 DE NOVIEMBRE DE 2018.
 
-###### ARTICULO 25.
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL ÓRGANO DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, DE FECHA 30 DE JULIO DE 2018, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN".]
 
-En caso de que el albacea no acredite en los autos del respectivo juicio testamentario haber cumplido oportunamente con lo dispuesto en el artículo anterior, el Juez que conozca del juicio dará aviso a la Junta a fin de que ésta proceda a la constitución de la fundación.
+PRIMERO. El presente Acuerdo deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
-Los Notarios Públicos que conozcan de testamentarías, no podrán proseguir con los trámites si no se acredita ante ellos que el albacea ha cumplido con los requisitos del artículo anterior.
-
-###### ARTICULO 26.
-
-La Junta representará a la fundación que pretenda constituirse conforme al artículo anterior en el juicio testamentario, hasta que éste concluya.
-
-###### ARTICULO 27.
-
-Presentado el proyecto de estatutos, la Junta lo examinará para verificar si está ó no de acuerdo con la voluntad del fundador, expresada en el testamento, y si en general reúne los requisitos establecidos por la Ley.
-
-###### ARTICULO 28.
-
-Cuando alguna persona incluya en su disposición testamentaria que todos o parte de sus bienes se destinen a la beneficencia, sin hacer designación a alguna institución en particular, la Junta, previo acuerdo del Ejecutivo del Estado, indicará la institución a la que se otorgarán dichos bienes o bien dentro de las necesidades de la comunidad creará alguna, si es que para ello basten los bienes que dejare el testador, ajustándose a lo previsto en el Código Civil del Estado de Coahuila. Las instituciones designadas ocurrirán al juicio sucesorio.
-
-###### ARTICULO 29.
-
-En relación con lo dispuesto en la parte final del artículo anterior o cuando el testador dejare bienes para la creación de una nueva institución, la Junta procederá en la forma siguiente:
-
-I. Elaborará los estatutos, de acuerdo a las reglas generales, de no existir un proyecto de éstos;
-
-II. Designará, de no hacerlo hecho el testador, a un grupo de personas que formará el Patronato y a una en particular que protocolice e inscriba la Escritura que se otorgue.
-
-###### ARTICULO 30.
-
-Las personas designadas conforme al artículo anterior se presentarán en el juicio sucesorio relativo para deducir los derechos que le correspondan a las instituciones que, por disposición testamentaria, hayan sido señalados como beneficiarios; en su defecto, lo hará en su nombre la citada Junta.
-
-###### ARTICULO 31.
-
-La Junta está facultada para que los instrumentos que por disposición testamentaria, se hubieren otorgado para constituir una institución, se ajusten en lo conducente, sin afectar el objetivo del testador ya fin de hacer posible el cumplimiento de su voluntad.
-
-## TITULO SEGUNDO. DE LA ADMINISTRACION y FUNCIONAMIENTO DE INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA
-
-###### ARTICULO 32.
-
-Los herederos darán aviso a la Junta de los bienes objeto de la sucesión que, por disposición testamentaria, sean entregados a una institución particular.
-
-## TITULO TERCERO. DE LA MODIFICACIÓN Y FUSION DE LAS INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA
-
-###### ARTICULO 72.
-
-Los Patronatos podrán modificar el objeto de las instituciones o proceder a disolver/as previa autorización del Ejecutivo del Estado.
-
-###### ARTICULO 73.
-
-Si se dan las circunstancias señaladas en el artículo anterior, el Patronato de la institución someterá a la consideración del Ejecutivo del Estado, por conducto de la Junta, las modificaciones que propone o el nuevo proyecto de estatutos.
-
-###### ARTICULO 74.
-
-Si la reforma de estatutos no implica modificaciones en el objeto, el Patronato de la institución someterá al Ejecutivo por conducto de la Junta, el proyecto respectivo y una vez emitida la resolución aprobatoria, se notificará a los representantes de la institución para que procedan a protocolizar el proyecto aprobado.
-
-En caso que el Ejecutivo no autorice la modificación de los estatutos, lo comunicará a los interesados, a fin que los adecuen en un plazo de quince días hábiles, o en su defecto, para que tramiten dentro de dicho término la revocación respectiva; en este último supuesto, el citado recurso se resolverá en un término de diez días hábiles y su resolución tendrá el carácter de definitiva.
-
-###### ARTICULO 75.
-
-Las fundaciones y asociaciones de beneficencia, podrán fusionarse, por aprobación del Ejecutivo del Estado, previa opinión de la Junta.
-
-###### ARTICULO 76.
-
-La fusión de dos o más instituciones podrá ser por absorción o por creación de una nueva institución, con el patrimonio de todas las fusionadas, en cuyo caso se seguirá el procedimiento establecido en esta Ley para la constitución de nuevas instituciones.
-
-###### ARTICULO 77.
-
-Las instituciones y asociaciones que pretendan fusionarse, harán del conocimiento de la Junta dicho fin, exponiendo las razones que fundamentan su decisión y adjuntando el proyecto de estatutos que las regirá, precisando la que será fusionante y las que serán fusionadas.
-
-En caso que la fusión extinga alguna institución, se indicará el sistema a seguir para la liquidación de sus pasivos, cumplimiento de obligaciones y forma de no interrumpir o terminar de prestar los servicios vigentes en el momento de la fusión.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-###### ARTICULO 78.
-
-Una vez dictaminada por la Junta la documentación respectiva, el Ejecutivo del Estado remitirá su resolución dentro de los siguientes quince días hábiles, la cual se publicará en el Periódico Oficial del Estado. De aprobarse la fusión, se procederá a la protocolización de los estatutos, a su inscripción en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza y a la cancelación de las inscripciones que corresponden a las instituciones fusionadas. Si la resolución fuere negativa se procederá en los mismos términos previstos en el artículo 54.
-
-###### ARTICULO 37.
-
-Cuando se revoque un testamento que contenga las disposiciones a que se refiere el artículo anterior, el Notario que autorice el nuevo testamento dará aviso de la revocación a la Junta, dentro del mismo término que señala el artículo anterior.
-
-###### ARTICULO 38.
-
-Los Jueces ante quienes se promuevan diligencias para la apertura de un testamento cerrado que contenga disposiciones que interesen a la beneficencia, darán aviso a la Junta de la existencia de esas disposiciones, dentro de los ocho días siguientes a la fecha en que ordenen la protocolización del testamento.
-
-###### ARTICULO 33.
-
-El albacea o ejecutor testamentario no podrá gravar, ni enajenar los bienes de la sucesión en que tenga interés la beneficencia, sin previa autorización de la Junta, la que sólo se otorgará, si se justifica que dicha operación es necesaria para consolidarla.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-###### ARTICULO 34.
-
-Los Notarios deberán enviar a la Junta, en un término de quince días siguientes a la fecha de la autorización de un instrumento que se otorgue en su protocolo, el testimonio de la escritura respectiva, donde conste cualquier operación en la que intervenga alguna institución de beneficencia y vigilará que en su caso, se inscriban tales actos en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
-
-## TITULO CUARTO. DE LOS ORGANOS ESTATALES DE VIGILANCIA DE LAS INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA
-
-###### ARTICULO 79.
-
-Son órganos estatales de vigilancia en materia de beneficencia privada:
-
-a). El Gobernador Constitucional del Estado.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-b). La Secretaría de Inclusión y Desarrollo Social.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-c). La Secretaría de Fiscalización y Rendición de Cuenta.
-
-d). La Junta de Beneficencia Privada.
-
-###### ARTICULO 80.
-
-La Secretaría fomentará la solidaridad social y promoverá entre las instituciones de beneficencia privada su más estrecha coordinación.
-
-###### ARTICULO 81.
-
-La Secretaría brindará asesoría a las Instituciones de Beneficencia Privada que así lo soliciten procurando una permanente relación entre ésta y su similar del sector público.
-
-###### ARTICULO 82.
-
-Los programas y políticas que el sector público presta en materia de asistencia social a través de la Secretaria, por conducto de la Junta, serán comunicados y puestos a disposición de las Instituciones de Beneficencia Privada, así como los sistemas de capacitación de personal que para elevar los niveles de atención fueren susceptibles de implementarse.
-
-###### ARTICULO 83.
-
-La Secretaria servirá de conducto con las diversas autoridades para facilitar a las Instituciones el desarrollo de sus actividades.
-
-###### ARTICULO 84.
-
-La Junta se integrará por un Presidente y cuatro Vocales, que serán designados por el Ejecutivo del Estado entre personas de reconocida honorabilidad y solvencia moral, los que deberán ser mexicanos, mayores de edad y estar en el pleno ejercicio de sus derechos civiles.
-
-Los integrantes de la Junta no percibirán remuneración alguna por el ejercicio de su cargo.
-
-###### ARTICULO 85.
-
-Los integrantes de la Junta durarán en su cargo mientras no sean removidos por el Ejecutivo del Estado, por las causas siguientes:
-
-1). La ausencia definitiva.
-
-2). El ser condenado por autoridad judicial por la comisión de algún delito intencional.
-
-3). La reiterada ausencia a las reuniones que celebre la Junta.
-
-4). La incapacidad que impida regularmente el cumplimiento de la función.
-
-5). El ser suspendido en el ejercicio de sus derechos civiles por autoridad competente.
-
-6). El afectar con sus actos el interés de la beneficencia privada.
-
-###### ARTICULO 86.
-
-La Junta tendrá, sin ser miembro integrante de la misma y con derecho a voz, un Secretario Ejecutivo que designará el Gobernador del Estado, quien será encargado del trámite de los asuntos competencia de tal organismo, así como de su ejecución cuando así se acuerde.
-
-###### ARTICULO 39.
-
-El mismo aviso y en idéntico plazo están obligados a dar los Jueces en los casos que ordenen la protocolización de cualquier otra clase de instrumentos que contengan disposiciones que interesen a la beneficencia o a una institución de ese ramo, en particular.
-
-###### ARTICULO 40.
-
-Los Jueces tienen, asimismo, obligación de dar aviso a la Junta de la radicación de los juicios sucesorios, siempre que los testamentos contengan disposiciones relacionadas con la beneficencia.
-
-###### ARTICULO 35.
-
-Los Notarios al autorizar contratos donde intervenga alguna institución de beneficencia privada, lo comunicarán a la Junta.
-
-###### ARTICULO 36.
-
-Los Notarios que autoricen algún testamento público abierto que contenga disposiciones para constituir una institución de beneficencia privada, están obligados a dar aviso a la Junta de la existencia de esas disposiciones y remitirle copia simple de ellas dentro del término de ocho días, contados desde la fecha en que lo hubieren autorizado definitivamente.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO 1177.- POR EL QUE “SE REFORMA AL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 3; LOS ARTÍCULOS 34 Y 78; LOS INCISOS B Y C DEL ARTÍCULO 79; LOS ARTÍCULO (SIC) 93, 94 Y 95; EL NUMERAL 6 DEL ARTÍCULO 107 Y LOS ARTÍCULOS 108 Y 110, DE LA LEY DE INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
-
-SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
-
-TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
-
-CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
-
-Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
-
-QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
-
-SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
-
-Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
-
-SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
-
-OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
-
-Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
-
-NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
-
-DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
-
-Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
-
-Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
-
-Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
-
-Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
-
-Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
-
-Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
-
-DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
-
-DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
-
-DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Acuerdo.
