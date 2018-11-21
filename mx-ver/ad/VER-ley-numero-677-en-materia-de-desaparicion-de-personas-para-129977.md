@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-677-en-materia-de-desaparicion-de-personas-para-1299
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-20"
-last_updated: "2018-08-20"
+last_updated: "2018-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 677 EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 20 de agosto de 2018.
 
@@ -1209,9 +1209,13 @@ Artículo primero. La presente Ley entrará en vigor treinta días posteriores a
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-Artículo tercero. El Mecanismo Estatal deberá quedar instalado a más tardar dentro de los sesenta días posteriores a la entrada en vigor de la presente Ley.
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-Artículo cuarto. Dentro de los sesenta días posteriores a la entrada en vigor de la presente Ley deberán ser nombrados, por el Congreso del Estado, los integrantes del Consejo Estatal Ciudadano, previa convocatoria pública en sintonía con el artículo 40 de esta Ley.
+Artículo Tercero. El mecanismo estatal deberá quedar instalado a más tardar dentro de los treinta días posteriores al nombramiento del Comisionado Estatal de Búsqueda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+Artículo Cuarto. Dentro de los ciento veinte días posteriores a la entrada en vigor de la presente Ley deberán ser nombrados, por el Congreso del Estado, los integrantes del Consejo Estatal Ciudadano, previa convocatoria pública en sintonía con el artículo 40 de esta Ley.
 
 En un plazo de treinta días posteriores a su conformación el Consejo Estatal Ciudadano deberá emitir sus reglas de funcionamiento.
 
@@ -1272,3 +1276,13 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 777 POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO Y EL PÁRRAFO PRIMERO DEL ARTÍCULO CUARTO TRANSITORIO DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
