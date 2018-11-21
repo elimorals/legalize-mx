@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-301-de-desarrollo-social-y-humano-para-el-estado-836
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-01"
-last_updated: "2018-10-05"
+last_updated: "2018-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 301 DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 1 de noviembre de 2011.
 
@@ -47,9 +47,11 @@ DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés social y tiene por objeto promover, proteger y garantizar el pleno ejercicio de los derechos sociales de los veracruzanos y demás habitantes del Estado, mediante una política integral de desarrollo social y humano.
+La presente ley es de orden público e interés social y tiene por objeto promover, proteger y garantizar el pleno ejercicio de los derechos sociales de los veracruzanos y demás habitantes del Estado, mediante una política integral de desarrollo social y humano, sustentada en el concepto de seguridad humana que establece la Constitución de Veracruz.
 
 Son fines de la presente ley:
 
@@ -57,7 +59,9 @@ I. Garantizar el pleno ejercicio de los derechos sociales consagrados en la Cons
 
 II. Establecer el Sistema Estatal de Desarrollo Social, con la participación de los gobiernos municipales;
 
-III. Promover, proteger y garantizar el cumplimiento de los derechos sociales de los habitantes del Estado;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+III. Promover, proteger y garantizar el cumplimiento de los derechos sociales de los habitantes del Estado, bajo el enfoque integral de la seguridad humana en siete dimensiones: Seguridad económica, seguridad alimentaria, seguridad de la salud, seguridad ambiental, seguridad personal, seguridad comunitaria y seguridad política;
 
 IV. Disminuir la desigualdad social en sus diversas formas, derivada de la inequitativa distribución de la riqueza, los bienes y los servicios, entre los individuos, grupos sociales y ámbitos territoriales;
 
@@ -83,7 +87,9 @@ XIV. Impulsar el desarrollo social sustentable y equilibrado en todas las region
 
 XV. Promover el establecimiento de instrumentos de acceso a la justicia, a través de la denuncia popular, en materia de desarrollo social;
 
-XVI. Establecer mecanismos de evaluación y seguimiento de los programas y acciones de la Política Estatal de Desarrollo Social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Establecer mecanismos de evaluación y seguimiento de los programas y acciones de la Política Estatal de Desarrollo Social, analizando la integralidad y complementación de éstos bajo la noción de seguridad humana;
 
 XVII. Establecer las obligaciones del Ejecutivo Estatal, de las dependencias y entidades de la administración pública estatal y municipal en materia de desarrollo social y humano;
 
@@ -133,9 +139,17 @@ XVI. Programas Sociales: Aquellos programas públicos, privados o mixtos, que su
 
 XVII. Reglas de Operación: El conjunto de normas que rigen a cada uno de los programas sociales;
 
-XVIII. Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado; y
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-XIX. Sistema: El Sistema Estatal de Desarrollo Social.
+XVIII. Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Sistema: El Sistema Estatal de Desarrollo Social; y
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XX. Seguridad Humana: Política integral de desarrollo humano que, permite identificar y responder a las vulnerabilidades, múltiples e interconectadas, y a las amenazas críticas que afectan a los humanos bajo los principios de centralidad en las personas, multisectorialidad, integralidad, contextualización y enfoque en la prevención. Comprende siete dimensiones: seguridad económica, seguridad alimentaria, seguridad de la salud, seguridad ambiental, seguridad personal, seguridad comunitaria y seguridad política.
 
 ###### Artículo 4.
 
@@ -159,13 +173,31 @@ VIII. Libre determinación y autonomía de los pueblos indígenas y sus comunida
 
 IX. Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia.
 
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+X. Centrado en las personas: las personas, en su calidad de seres humanos, son el centro de la política de seguridad humana, a efecto de que las vulnerabilidades y amenazas que le hacen vivir con temor se prevengan y combatan;
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XI. Multisectorialidad: Participación de diversos sectores, dependencias o entidades de la administración pública estatal en la atención de los problemas que generan inseguridad humana, para su prevención, combate y erradicación;
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XII. Contextualizado: Análisis de las necesidades, vulnerabilidades y amenazas de las personas en su contexto de vida, a efecto de que las políticas públicas que le beneficien se armonicen y eviten duplicidades; y
+
+> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Enfoque en la prevención: Examen de las causas y raíces que provocan las necesidades, vulnerabilidades y amenazas de las personas a efecto de prever medidas costo-eficientes, que las combatan o erradiquen.
+
 ###### Artículo 5.
 
 La interpretación de esta Ley atenderá a su finalidad, sistematicidad y a los principios rectores del desarrollo social. La Ley General, la Ley de Planeación del Estado y demás ordenamientos vigentes en la materia, serán de aplicación supletoria a la presente Ley.
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 6.
 
-Todos los programas estatales y municipales que beneficien los derechos humanos y sociales se considerarán como de desarrollo social.
+Todos los programas estatales y municipales que beneficien los derechos humanos y sociales se considerarán como de desarrollo social y deberán aplicar el enfoque de seguridad humana que establece la Constitución de Veracruz.
 
 ###### Artículo 7.
 
@@ -177,7 +209,9 @@ El Gobierno del Estado, a través de sus dependencias y entidades, así como los
 
 Son sujetos del desarrollo social y humano los veracruzanos y todas las personas que habiten en el Estado, quienes tienen derecho a participar y beneficiarse de los programas y acciones de la materia, de acuerdo a las disposiciones aplicables.
 
-En los planes, programas y acciones de desarrollo social se otorgará preferencia a las personas o grupos sociales en situación de vulnerabilidad, marginación, pobreza o cuyas condiciones de vida se encuentren por debajo de los niveles mínimos de bienestar social.
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+En los planes, programas y acciones de desarrollo social se otorgará preferencia a las personas o grupos sociales en situación de vulnerabilidad, marginación, pobreza, inseguridad humana o cuyas condiciones de vida se encuentren por debajo de los niveles mínimos de bienestar social.
 
 ###### Artículo 9.
 
@@ -207,7 +241,9 @@ IX. Cumplir la normatividad de los programas de desarrollo social y humano.
 
 La política estatal de desarrollo social del Estado y los Municipios tiene los siguientes objetivos:
 
-I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la discriminación y la exclusión social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social, la seguridad humana y la igualdad de oportunidades, así como la superación de la discriminación y la exclusión social;
 
 II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
 
@@ -215,7 +251,9 @@ III. Fortalecer el desarrollo estatal, regional y municipal equilibrado;
 
 IV. Fomentar el desarrollo de la familia como célula básica de la sociedad, especialmente en las localidades con mayores índices de rezago, marginación y pobreza;
 
-V. Promover acciones y programas institucionales de desarrollo social con perspectiva de género y equidad;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+V. Promover acciones y programas institucionales de desarrollo social con perspectiva de género, equidad y seguridad humana.
 
 VI. Fomentar la igualdad de oportunidades económicas y aprovechar la capacidad productiva de los veracruzanos y habitantes del Estado, considerando las potencialidades regionales y municipales;
 
@@ -223,7 +261,9 @@ VII. Propiciar la participación de los migrantes veracruzanos, canalizando sus 
 
 VIII. Impulsar el desarrollo municipal, como estrategia de equilibrio entre las regiones;
 
-IX. Coordinar esfuerzos, objetivos, estrategias y acciones entre los órdenes de gobierno para lograr la integralidad, sustentabilidad y sostenibilidad del desarrollo social y humano; y
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+IX. Bajo un enfoque de seguridad humana, coordinar esfuerzos, objetivos, estrategias y acciones entre los órdenes de gobierno para lograr la integralidad, sustentabilidad y sostenibilidad del desarrollo social y humano; y
 
 X. Promover formas propias de organización y participación de la sociedad en la formulación, ejecución, evaluación y control de los programas de desarrollo social.
 
@@ -231,7 +271,9 @@ X. Promover formas propias de organización y participación de la sociedad en l
 
 La política de desarrollo humano tendrá los siguientes objetivos:
 
-I. Generar las condiciones que aseguren el disfrute de los derechos que faciliten el desarrollo integral del ser humano, por medio de programas y acciones que propicien el desarrollo de la persona y el fortalecimiento de los valores éticos y morales;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+I. Generar las condiciones que aseguren el disfrute de los derechos que faciliten el desarrollo integral del ser humano, por medio de programas y acciones que propicien la seguridad humana, el desarrollo de la persona y el fortalecimiento de los valores éticos y morales;
 
 II. Orientar las acciones de gobierno bajo criterios que articulen el esfuerzo de los habitantes del Estado para mejorar su entorno; y
 
@@ -243,7 +285,9 @@ La Política Estatal de Desarrollo Social debe incluir, cuando menos, las siguie
 
 I. Combate a la pobreza a través de programas de alimentación, salud, educación, generación de empleo, del ingreso o el autoempleo mediante la capacitación y desarrollo de proyectos productivos, mejoramiento de la vivienda, entre otros;
 
-II. Seguridad social y programas asistenciales;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+II. Seguridad humana, seguridad social y programas asistenciales;
 
 III. Desarrollo Regional y Municipal;
 
@@ -257,35 +301,43 @@ VII. Fomento del sector social de la economía.
 
 ### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO SOCIAL
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 13.
 
-La planeación del desarrollo social en el Estado estará a cargo del Titular del Poder Ejecutivo y los Ayuntamientos, en el ámbito de sus respectivas competencias y con apego a lo establecido en esta Ley, la Ley de Planeación del Estado, la Ley General y demás disposiciones aplicables en la materia.
+La planeación del desarrollo social y la seguridad humana en el Estado estará a cargo del Titular del Poder Ejecutivo y los Ayuntamientos, en el ámbito de sus respectivas competencias y con apego a lo establecido en esta Ley, la Ley de Planeación del Estado, la Ley General y demás disposiciones aplicables en la materia.
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 14.
 
-La planeación del desarrollo social incluirá los programas sectoriales de las dependencias del Poder Ejecutivo que guarden relación con el desarrollo social; los institucionales, regionales y especiales en esta materia; el Programa Sectorial de Desarrollo Social; y el Plan Estatal de Desarrollo.
+La planeación del desarrollo social y la seguridad humana incluirá los programas sectoriales de las dependencias del Poder Ejecutivo que guarden relación con el desarrollo social; los institucionales, regionales y especiales en esta materia; el Programa Sectorial de Desarrollo Social; y el Plan Estatal de Desarrollo.
 
 ###### Artículo 15.
 
 La planeación del desarrollo social en el Estado y los Municipios se sustentará en la política establecida en la materia, en las disposiciones de la presente Ley y demás disposiciones aplicables.
 
-Los programas operativos anuales correspondientes deberán ser congruentes con los programas estatales y municipales de desarrollo social y humano y éstos a su vez con los Planes Estatal y Municipales de Desarrollo.
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+Los programas operativos anuales correspondientes, bajo la perspectiva de seguridad humana, deberán ser congruentes con los programas estatales y municipales de desarrollo social y humano y éstos a su vez con los Planes Estatal y Municipales de Desarrollo.
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 16.
 
-La Secretaría deberá publicar en la Gaceta Oficial del Gobierno del Estado el Programa Operativo de Desarrollo Social.
+La Secretaría deberá publicar en la Gaceta Oficial del Gobierno del Estado el Programa Operativo de Desarrollo Social y Seguridad Humana.
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-El Gobierno del Estado y los Municipios implementarán campañas de difusión con el objeto de informar a la población del contenido, reglas de operación y beneficios de los programas de desarrollo social que se apliquen en el Estado.
+El Gobierno del Estado y los Municipios implementarán campañas de difusión con el objeto de informar a la población del contenido, reglas de operación y beneficios de los programas de desarrollo social y seguridad humana que se apliquen en el Estado.
 
-> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2018)</small>
-
-Se suspenderán las campañas de difusión a que hace referencia este artículo, durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada comicial. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 18.
 
-Toda publicidad e información relativa a los programas de desarrollo social deberá incluir la siguiente leyenda: "Este programa es de carácter público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al desarrollo social".
+Toda publicidad e información relativa a los programas de desarrollo social y seguridad humana deberá incluir la siguiente leyenda: "Este programa es de carácter público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al desarrollo social".
 
 > <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2018)</small>
 
@@ -301,13 +353,17 @@ De igual manera, los beneficios de los programas de desarrollo social no podrán
 
 El reparto de bienes y servicios relativos a programas sociales que no cuenten con reglas de operación publicadas, o que no se ciña estrictamente a las mismas, será sancionado conforme a lo dispuesto en la Ley correspondiente.
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 19.
 
-Cuando en un municipio exista población indígena, las autoridades municipales, en coordinación con el Estado, deberán difundir, en su lengua o dialecto, los programas de desarrollo social que se estén implementando en el Municipio.
+Cuando en un municipio exista población indígena, las autoridades municipales, en coordinación con el Estado, deberán difundir, en su lengua o dialecto, los programas de desarrollo social y seguridad humana que deberán impulsar en el Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 20.
 
-En la planeación, programación y presupuestación del desarrollo social y humano, son prioritarios y de interés público los siguientes programas en orden preferente:
+En la planeación, programación y presupuestación del desarrollo social y seguridad humana, son prioritarios y de interés público los siguientes programas en orden preferente.
 
 I. Los programas y acciones públicas para asegurar la alimentación, nutrición y abasto social de productos básicos;
 
@@ -325,31 +381,45 @@ VII. Los programas de cuidado y mejoramiento ambiental; y
 
 VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 21.
 
-Los programas, fondos y recursos destinados al desarrollo social son prioritarios y de interés público. En su programación y presupuestación se atenderán los siguientes criterios presupuestales:
+Los programas, fondos y recursos destinados al desarrollo social y a la seguridad humana son prioritarios y de interés público. En su programación y presupuestación se atenderán los siguientes criterios presupuestales:
 
 I. Se destinarán a los programas prioritarios previstos en esta Ley; y
 
 II. El monto de los recursos asignados no podrá destinarse a fines distintos ni será disminuido, salvo las prevenciones establecidas en el Código Financiero para el Estado.
 
-Los recursos estatales destinados al desarrollo social, podrán ser complementados con recursos provenientes del Gobierno Federal, de organismos internacionales y de los sectores social y privado.
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+Los recursos estatales destinados al desarrollo social y a la seguridad humana podrán ser complementados con recursos provenientes del Gobierno Federal, de organismos internacionales y de los sectores social y privado.
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 22.
 
-La planeación, aplicación y distribución de los recursos destinados a financiar los programas de desarrollo social se basarán en indicadores de eficacia, eficiencia y calidad en la prestación de los servicios.
+La planeación, aplicación y distribución de los recursos destinados a financiar los programas de desarrollo social y seguridad humana se basarán en indicadores de eficacia, eficiencia y calidad en la prestación de los servicios.
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 23.
 
-Con el propósito de asegurar la transparencia, equidad y eficacia de los programas de desarrollo social, el Gobierno Estatal, por conducto de la Secretaría, con la participación de las dependencias y entidades del Gobierno Estatal y de los municipios, en el ámbito de sus respectivas competencias, integrará el Padrón Único de Beneficiarios de Programas Sociales. En términos de lo dispuesto por la Ley General se deberá procurar la coordinación de acciones, para este fin, con las dependencias del Gobierno Federal con presencia en la Entidad.
+Con el propósito de asegurar la transparencia, equidad y eficacia de los programas de desarrollo social y seguridad humana, el Gobierno Estatal, por conducto de la Secretaría, con la participación de las dependencias y entidades del Gobierno Estatal y de los municipios, en el ámbito de sus respectivas competencias, integrará el Padrón Único de Beneficiarios de Programas Sociales. En términos de lo dispuesto por la Ley General se deberá procurar la coordinación de acciones, para este fin, con las dependencias del Gobierno Federal con presencia en la Entidad.
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 24.
 
-El Ejecutivo del Estado y los municipios, podrán convenir acciones entre sí y con el Gobierno Federal, en términos de la Ley General, para destinar recursos y la ejecución de programas especiales de desarrollo social.
+El Ejecutivo del Estado y los municipios, podrán convenir acciones entre sí y con el Gobierno Federal, en términos de la Ley General, para destinar recursos y la ejecución de programas especiales de desarrollo social y seguridad humana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 25.
 
-El Ejecutivo del Estado podrá establecer un Fondo de Contingencia Social con el fin de contar con las reservas de recursos necesarios para hacer frente a fenómenos económicos y presupuestarios imprevistos, que deterioren gravemente las condiciones de vida de las familias de la entidad. En el Presupuesto de Egresos del Estado se determinarán el monto y las reglas a las que quedarán sujetas su distribución y aplicación.
+El Ejecutivo del Estado podrá establecer un Fondo de Contingencia Social con el fin de contar con las reservas de recursos necesarios para hacer frente a fenómenos económicos, presupuestarios y de desastres imprevistos, que deterioren gravemente las condiciones de vida de las familias de la entidad.
+
+En el Presupuesto de Egresos del Estado se determinarán el monto y las reglas a las que quedarán sujetas su distribución y aplicación.
 
 ### CAPÍTULO V. DE LAS ZONAS DE ATENCIÓN PRIORITARIA
 
@@ -357,15 +427,21 @@ El Ejecutivo del Estado podrá establecer un Fondo de Contingencia Social con el
 
 Son zonas de atención prioritaria las zonas rurales que se encuentren en condiciones de pobreza extrema y las zonas urbanas que presenten muy alto y alto grado de rezago social y marginación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 27.
 
-El Titular del Poder Ejecutivo determinará, mediante declaratoria, las zonas de atención prioritaria y los segmentos de la población objetivo a las que se canalizará preferentemente el financiamiento destinado al desarrollo social, tomando como referencia:
+El Titular del Poder Ejecutivo determinará, mediante declaratoria, las zonas de atención prioritaria y los segmentos de la población objetivo a las que se canalizará preferentemente el financiamiento destinado al desarrollo social y la seguridad humana, tomando como referencia:
 
 I. Los resultados de las evaluaciones de la política social y los estudios de medición de la pobreza, que realicen el Consejo Nacional de Evaluación de la política de desarrollo social, el Consejo Nacional de Población y el Consejo Estatal; y
 
 II. Los indicadores e índices de pobreza que generen el Instituto Nacional de Estadística y Geografía, el Consejo Nacional de Evaluación de la Política de Desarrollo Social, el Consejo Nacional de Población y la Secretaría.
 
-De igual manera podrá modificar las declaratorias referidas derivado de la medición del impacto de los programas y acciones en los niveles mínimos de bienestar en las zonas de atención prioritaria y la población objetivo y reasignar los recursos destinados al desarrollo social, acorde a los criterios nacionales y locales, que permitan determinar la reasignación, si es el caso, de los recursos destinados al desarrollo social del Estado.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 776, P.O. 21 DE NOVIEMBRE DE 2018, SE ADVIERTE QUE SE MODIFICÓ EL PENÚLTIMO PÁRRAFO DEL PRESENTE ARTÍCULO. VÉASE HISTORIA LEGISLATIVA DEL ARTÍCULO]</small>
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+De igual manera podrá modificar las declaratorias referidas derivado de la medición del impacto de los programas y acciones en los niveles mínimos de bienestar en las zonas de atención prioritaria y la población objetivo y reasignar los recursos destinados al desarrollo social y seguridad humana, acorde a los criterios nacionales y locales, que permitan determinar la reasignación, si es el caso, de los recursos destinados al desarrollo social del Estado.
 
 El Ejecutivo del Estado informará al Congreso sobre sus acciones en cumplimiento a lo dispuesto en este artículo.
 
@@ -373,9 +449,13 @@ El Ejecutivo del Estado informará al Congreso sobre sus acciones en cumplimient
 
 La declaratoria de zonas de atención prioritarias, tendrá los efectos siguientes:
 
-I. Formular programas regionales o especiales de desarrollo social y humano considerando los criterios de prioridad y preferencia previstos en esta Ley;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-II. Establecer objetivos y metas de corto y mediano plazo para elevar los niveles de bienestar de la población objetivo;
+I. Formular programas regionales o especiales de desarrollo social y seguridad humana considerando los criterios de prioridad y preferencia previstos en esta Ley;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+II. Establecer objetivos y metas de corto y mediano plazo para elevar los niveles de bienestar de la población objetivo y disminuir las condiciones de vulnerabilidad o amenaza a la seguridad humana;
 
 III. Estimular el desarrollo de actividades productivas generadoras de empleo a través de políticas y estímulos a la inversión nacional y extranjera;
 
@@ -389,9 +469,11 @@ VII. Los demás que determine el titular del Poder Ejecutivo.
 
 ### CAPÍTULO VI. DEL FOMENTO A LAS ACTIVIDADES PRODUCTIVAS PARA EL DESARROLLO SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 29.
 
-El Ejecutivo del Estado y los Municipios, con la concurrencia, en su caso, del Gobierno Federal, con el fin de estimular el crecimiento de las actividades productivas sustentables y de beneficio social, deberán:
+El Ejecutivo del Estado y los Municipios, con la concurrencia, en su caso, del Gobierno Federal, con el fin de estimular el crecimiento de las actividades productivas sustentables y de beneficio social, que fortalezcan la seguridad humana, deberán:
 
 I. Fomentar actividades productivas para promover la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas, de manera articulada con la aplicación de programas asistenciales;
 
@@ -421,59 +503,91 @@ V. Programas para promover exportaciones.
 
 ### CAPÍTULO VII. DEL SISTEMA ESTATAL DE DESARROLLO SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 31.
 
-El Sistema Estatal de Desarrollo Social es un mecanismo de coordinación, colaboración y concertación de las dependencias y entidades del Ejecutivo del Estado y los gobiernos municipales, así como los sectores social y privado, que tiene por objeto:
+El Sistema Estatal de Desarrollo Social y Seguridad Humana es un mecanismo de coordinación, colaboración y concertación de las dependencias y entidades del Ejecutivo del Estado y los gobiernos municipales, así como los sectores social y privado, que tiene por objeto:
 
 I. Integrar la participación de los sectores público, social y privado en el cumplimiento de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social y el Plan Estatal de Desarrollo, guardando congruencia con las políticas que derivan del Sistema Nacional de Desarrollo Social;
 
-II. Establecer la colaboración entre las dependencias y entidades estatales en la formulación, ejecución e instrumentación de programas, acciones e inversiones en materia de desarrollo social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+II. Establecer la colaboración entre las dependencias y entidades estatales en la formulación, ejecución e instrumentación de programas, acciones e inversiones en materia de desarrollo social y seguridad humana;
 
 III. Promover la concurrencia, vinculación y congruencia de los programas, acciones e inversiones de las dependencias y entidades del Estado y los gobiernos municipales, con los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social;
 
-IV. Fomentar la participación de las personas, familias y organizaciones y, en general, de los sectores social y privado en el desarrollo social; y
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-V. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social.
+IV. Fomentar la participación de las personas, familias y organizaciones y, en general, de los sectores social y privado en el desarrollo social y la seguridad humana; y
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+V. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social y Seguridad Humana.
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 32.
 
-La Coordinación del Sistema Estatal de Desarrollo Social compete al Ejecutivo del Estado a través de la Secretaría, con la concurrencia de las dependencias y entidades del Gobierno Estatal que tengan relación con esta materia, con la participación de los municipios, de las organizaciones sociales y, en su caso, de las dependencias y entidades de la Federación con presencia en el Estado. El Ejecutivo, por conducto de la Secretaría, diseñará y ejecutará la política general estatal de desarrollo social. Al efecto, coordinará y promoverá la celebración de convenios y acuerdos de coordinación para el desarrollo social.
+La Coordinación del Sistema Estatal de Desarrollo Social y Seguridad Humana compete al Ejecutivo del Estado a través de la Secretaría, con la concurrencia de las dependencias y entidades del Gobierno Estatal que tengan relación con esta materia, con la participación de los municipios, de las organizaciones sociales y, en su caso, de las dependencias y entidades de la Federación con presencia en el Estado. El Ejecutivo, por conducto de la Secretaría, diseñará y ejecutará la política general estatal de desarrollo social y seguridad humana. Al efecto, coordinará y promoverá la celebración de convenios y acuerdos de coordinación para el desarrollo social y la seguridad humana.
 
-La Secretaría coordinará la correspondencia entre el Programa Sectorial de Desarrollo Social y los de las demás dependencias y entidades del Ejecutivo Estatal, promoviendo que la planeación sea congruente, objetiva y participativa en relación con los Programas Estatal y Nacional de Desarrollo Social.
+La Secretaría coordinará la correspondencia entre el Programa Sectorial de Desarrollo Social y Seguridad Humana con los de las demás dependencias y entidades del Ejecutivo Estatal, promoviendo que la planeación sea congruente, objetiva y participativa en relación con los Programas Estatal y Nacional de Desarrollo Social.
 
 ###### Artículo 33.
 
 Corresponden al Ejecutivo del Estado, a través de la Secretaría, las siguientes atribuciones:
 
-I. Formular, aprobar y ejecutar el Programa Sectorial de Desarrollo Social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+I. Formular, aprobar y ejecutar el Programa Sectorial de Desarrollo Social y Seguridad Humana;
 
 II. Determinar anualmente las zonas de atención prioritaria de competencia estatal;
 
-III. Promover la celebración de convenios con dependencias del Ejecutivo Federal para la instrumentación de acciones y programas relacionados con el desarrollo social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-IV. Celebrar Convenios, acciones y programas, en materia de desarrollo social, con los gobiernos municipales de la Entidad;
+III. Promover la celebración de convenios con dependencias del Ejecutivo Federal para la instrumentación de acciones y programas relacionados con el desarrollo social y la seguridad humana;
 
-V. Convenir con organizaciones civiles y privadas acciones y programas de desarrollo social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-VI. Fomentar la organización y participación ciudadana en la elaboración, ejecución y evaluación de los programas de desarrollo social;
+IV. Celebrar Convenios, acciones y programas, en materia de desarrollo social y seguridad humana, con los gobiernos municipales de la Entidad;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+V. Convenir con organizaciones civiles y privadas acciones y programas de desarrollo social y seguridad humana;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+VI. Fomentar la organización y participación ciudadana en la elaboración, ejecución y evaluación de los programas de desarrollo social y seguridad humana;
 
 VII. Ejercer fondos y recursos federales descentralizados o convenidos en materia de desarrollo social, en los términos de las leyes aplicables; así como informar a la Secretaría de Desarrollo Social del Gobierno Federal sobre el avance y los resultados generados con los mismos;
 
-VIII. Informar a la sociedad sobre las acciones y avances en materia de desarrollo social en la Entidad;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Informar a la sociedad sobre las acciones y avances en materia de desarrollo social y seguridad humana en la Entidad;
 
 IX. Participar en el Sistema Nacional de Desarrollo Social, en los términos que señalan esta Ley y la Ley General;
 
 X. Colaborar con las dependencias y entidades Federales en la formulación, ejecución, e instrumentación de los programas sociales en los términos de los convenios respectivos y las disposiciones legales aplicables;
 
-XI. Vigilar que los recursos públicos estatales que se destinan al desarrollo social se ejerzan con equidad, eficacia, eficiencia, honradez y transparencia;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-XII. Fomentar la participación de instituciones académicas y de investigación en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social;
+XI. Vigilar que los recursos públicos estatales que se destinan al desarrollo social y la seguridad humana se ejerzan con equidad, eficacia, eficiencia, honradez y transparencia;
 
-XIII. Evaluar los resultados de la Política Estatal de Desarrollo Social e informar al Consejo Estatal de Desarrollo Social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-XIV. Llevar un registro de las organizaciones sociales que participen en acciones y programas de desarrollo social;
+XII. Fomentar la participación de instituciones académicas y de investigación en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social y Seguridad Humana;
 
-XV. Integrar el Padrón Único de Beneficiarios de Programas Sociales en el Estado; y
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Evaluar los resultados de la Política Estatal de Desarrollo Social y Seguridad Humana e informar al Consejo Estatal de Desarrollo Social y Seguridad Humana;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Llevar un registro de las organizaciones sociales que participen en acciones y programas de desarrollo social y seguridad humana;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XV. Integrar el Padrón Único de Beneficiarios de Programas Sociales y de Seguridad Humana en el Estado; y
 
 XVI. Las demás que señalen esta Ley y las disposiciones legales aplicables.
 
@@ -481,35 +595,57 @@ XVI. Las demás que señalen esta Ley y las disposiciones legales aplicables.
 
 Corresponden a los Ayuntamientos, en el ámbito de su competencia, las siguientes atribuciones:
 
-I. Formular y ejecutar el Programa Municipal de Desarrollo Social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-II. Coordinar acciones con el Ejecutivo Estatal, para la ejecución de los programas de desarrollo social que se apliquen en su territorio;
+I. Formular y ejecutar el Programa Municipal de Desarrollo Social y Seguridad Humana;
 
-III. Coordinar acciones de desarrollo social con municipios vecinos, cuando la naturaleza de los programas así lo requieran;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-IV. Concertar acciones de desarrollo social con municipios de otras Entidades Federativas, previa autorización del Congreso del Estado;
+II. Coordinar acciones con el Ejecutivo Estatal, para la ejecución de los programas de desarrollo social y seguridad humana que se apliquen en su territorio;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+III. Coordinar acciones de desarrollo social y seguridad humana con municipios vecinos, cuando la naturaleza de los programas así lo requieran;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+IV. Concertar acciones de desarrollo social y seguridad humana con municipios de otras Entidades Federativas, previa autorización del Congreso del Estado;
 
 V. Ejercer fondos y recursos federales descentralizados o convenidos en materia de desarrollo social, en los términos de las disposiciones aplicables; así como informar al Gobierno Federal sobre el avance y los resultados generados con los mismos, a través de la Secretaría;
 
-VI. Concertar acciones con los sectores social y privado en materia de desarrollo social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-VII. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
+VI. Concertar acciones con los sectores social y privado en materia de desarrollo social y seguridad humana;
 
-VIII. Informar a la sociedad sobre las acciones en torno al desarrollo social y difundir los programas de desarrollo social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+VII. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social y seguridad humana;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Informar a la sociedad sobre los programas en torno al desarrollo social y la seguridad humana y difundir las acciones y estrategias que se instrumenten;
 
 IX. Impulsar la prestación de servicios públicos, prioritariamente en las comunidades más necesitadas;
 
-X. Participar y ser parte del Sistema Estatal de Desarrollo Social, en los términos que señala la presente Ley;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-XI. Coadyuvar con el Sistema Estatal, a través de la Secretaría, en la formulación y actualización del Padrón Único de Beneficiarios de Programas Sociales en el Estado, en términos de los mecanismos que se convengan; y
+X. Participar y ser parte del Sistema Estatal de Desarrollo Social y Seguridad Humana en los términos que señala la presente Ley;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XI. Coadyuvar con el Sistema Estatal, a través de la Secretaría, en la formulación y actualización del Padrón Único de Beneficiarios de Programas Sociales y de Seguridad Humana en el Estado, en términos de los mecanismos que se convengan; y
 
 XII. Participar en el Sistema Nacional de Desarrollo Social, en términos de esta Ley y la Ley General.
 
-### CAPÍTULO VIII. DEL CONSEJO ESTATAL DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO VIII. Del Consejo Estatal de Desarrollo Social y Seguridad Humana
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 35.
 
-El Ejecutivo del Estado, en el seno del Comité de Planeación para el Desarrollo del Estado de Veracruz, deberá instalar el Consejo Estatal de Desarrollo Social.
+El Ejecutivo del Estado, en el seno del Comité de Planeación para el Desarrollo del Estado de Veracruz, deberá instalar el Consejo Estatal de Desarrollo Social y Seguridad Humana.
 
 ###### Artículo 36.
 
@@ -519,7 +655,9 @@ I. Un Presidente, que será el Gobernador del Estado de Veracruz;
 
 II. Un Secretario Ejecutivo, que será el Secretario de Desarrollo Social;
 
-III. Los titulares de las Secretarías de: Finanzas y Planeación, Educación, Salud, Trabajo, Previsión Social y Productividad, Desarrollo Agropecuario, Forestal y Pesca, Medio Ambiente, Comunicaciones, Protección Civil, Desarrollo Económico y Portuario, Turismo, Cultura y Cinematografía;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+III. Los titulares de las Secretarías de: Gobierno, Finanzas y Planeación, Educación, Salud, Trabajo, Previsión Social y Productividad, Desarrollo Agropecuario, Forestal y Pesca, Medio Ambiente, Comunicaciones, Seguridad Pública, Protección Civil, Desarrollo Económico y Portuario, Turismo, Cultura y Cinematografía;
 
 IV. El Contralor General;
 
@@ -531,9 +669,13 @@ VII. El Jefe de la Oficina de Programa de Gobierno;
 
 VIII. El Coordinador General del Comité de Planeación para el Desarrollo del Estado de Veracruz;
 
-IX. Los representantes de las dependencias y entidades del Gobierno Federal con presencia en el Estado, con atribuciones relacionadas con el desarrollo social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-X. Los presidentes de las comisiones del Congreso del Estado, que tengan relación con el desarrollo social;
+IX. Los representantes de las dependencias y entidades del Gobierno Federal con presencia en el Estado, con atribuciones relacionadas con el desarrollo social y seguridad humana;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+X. Los presidentes de las comisiones del Congreso del Estado, que tengan relación con el desarrollo social y la seguridad humana;
 
 XI. Un Secretario Técnico, propuesto por el Secretario de Desarrollo Social del Gobierno del Estado;
 
@@ -545,61 +687,91 @@ b. Representantes de la iniciativa privada del Estado;
 
 c. Representantes de instituciones académicas o de investigación; y
 
-d. Representantes de la sociedad, que tengan reconocimiento en el ámbito del desarrollo social.
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+d. Representantes de la sociedad, que tengan reconocimiento en el ámbito del desarrollo social y la seguridad humana.
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 37.
 
-El Consejo es la instancia de enlace, coordinación y concertación de las dependencias y entidades del Ejecutivo Estatal, del Ejecutivo Federal, del Congreso del Estado, de los Ayuntamientos y de la sociedad, que tiene por objeto establecer los mecanismos de planeación, programación, ejecución, control y evaluación de los programas de desarrollo social en la Entidad.
+El Consejo es la instancia de enlace, coordinación y concertación de las dependencias y entidades del Ejecutivo Estatal, del Ejecutivo Federal, del Congreso del Estado, de los Ayuntamientos y de la sociedad, que tiene por objeto establecer los mecanismos de planeación, programación, ejecución, control y evaluación de los programas de desarrollo social y de seguridad humana en la Entidad.
 
 ###### Artículo 38.
 
 El Consejo tendrá las siguientes facultades y obligaciones:
 
-I. Hacer compatibles las decisiones vinculadas con la política social en el Estado, aplicando criterios de articulación, integralidad, transversalidad, complementariedad y efectividad en la ejecución de los programas institucionales en las regiones y municipios;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-II. Proponer las partidas y montos para los programas encaminados al desarrollo social y humano que se deban integrar en el anteproyecto de presupuesto de egresos del Estado, así como las previsiones pertinentes en el anteproyecto de Ley de Ingresos;
+I. Hacer compatibles las decisiones vinculadas con la política social en el Estado, aplicando criterios de centralidad en las personas, multisectorialidad, articulación, contextualización, integralidad, transversalidad, complementariedad, efectividad y enfoque de prevención en la ejecución de los programas institucionales en las regiones y municipios;
 
-III. Proponer e instrumentar, en el seno del Comité de Planeación para el Desarrollo del Estado, la concurrencia, coordinación, planeación y ejecución de programas de desarrollo social que se ejecuten en la Entidad, incluyendo aquellos programas que generen beneficios indirectos en esta materia;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-IV. Establecer los mecanismos de colaboración entre las dependencias y entidades estatales y federales y definir las líneas de acción para garantizar el logro de los objetivos de la Política Estatal de Desarrollo Social;
+II. Proponer las partidas y montos para los programas encaminados al desarrollo social y la seguridad humana que se deban integrar en el anteproyecto de presupuesto de egresos del Estado, así como las previsiones pertinentes en el anteproyecto de Ley de Ingresos;
 
-V. Determinar medidas para garantizar la correspondencia entre la Política Nacional, Estatal y municipal en materia de desarrollo social, con apego en esta Ley y en la Ley de Planeación del Estado;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+III. Proponer e instrumentar, en el seno del Comité de Planeación para el Desarrollo del Estado, la concurrencia, coordinación, planeación y ejecución de programas de desarrollo social y seguridad humana que se ejecuten en la Entidad, incluyendo aquellos programas que generen beneficios indirectos en esta materia;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+IV. Establecer los mecanismos de colaboración entre las dependencias y entidades estatales y federales y definir las líneas de acción para garantizar el logro de los objetivos de la Política Estatal de Desarrollo Social y Seguridad Humana;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+V. Determinar medidas para garantizar la correspondencia entre la Política Nacional, Estatal y municipal en materia de desarrollo social y seguridad humana, con apego en esta Ley y en la Ley de Planeación del Estado;
 
 VI. Revisar los términos de los convenios y acuerdos de coordinación y colaboración que deban celebrarse con el Gobierno Federal, y entre el Ejecutivo del Estado y los Municipios, así como con los sectores social y privado;
 
-VII. Dar seguimiento a los programas, obras y acciones de desarrollo social, que en forma concurrente realicen instituciones de los tres niveles de gobierno en el territorio de la Entidad;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+VII. Dar seguimiento a los programas, obras y acciones de desarrollo social y seguridad humana, que en forma concurrente realicen instituciones de los tres niveles de gobierno en el territorio de la Entidad;
 
 VIII. Aprobar la definición de las zonas de atención prioritaria que proponga la Secretaría, de conformidad con lo que establece esta Ley;
 
-IX. Proponer mecanismos de financiamiento, distribución de recursos presupuestarios y programas regionales de desarrollo social, en el marco del Plan Estatal de Desarrollo, del programa sectorial de desarrollo social y de los programas sectoriales que guarden relación con el desarrollo social;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-X. Opinar sobre las políticas, programas y presupuestos de las dependencias y entidades de la Administración Pública Federal y Estatal que se apliquen en los programas de desarrollo social en el territorio estatal;
+IX. Proponer mecanismos de financiamiento, distribución de recursos presupuestarios y programas regionales de desarrollo social y seguridad humana, en el marco del Plan Estatal de Desarrollo, del programa sectorial de desarrollo social y seguridad humana y de los programas sectoriales que guarden relación con el desarrollo social y la seguridad humana;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+X. Opinar sobre las políticas, programas y presupuestos de las dependencias y entidades de la Administración Pública Federal y Estatal que se apliquen en los programas de desarrollo social y seguridad humana en el territorio estatal;
 
 XI. Analizar y proponer esquemas alternativos de financiamiento para los programas de combate y superación de la pobreza;
 
-XII. Promover el intercambio de experiencias e investigaciones en materia de desarrollo social y superación de la pobreza;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Revisar el marco normativo del desarrollo social y, en su caso, proponer y promover modificaciones ante las instancias competentes;
+XII. Promover el intercambio de experiencias e investigaciones en materia de desarrollo social, seguridad humana y superación de la pobreza;
 
-XIV. Aprobar la propuesta de reglas que deban regir la participación social en la ejecución de los programas sociales;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Revisar el marco normativo del desarrollo social y la seguridad humana y, en su caso, proponer y promover modificaciones ante las instancias competentes;
+
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Aprobar la propuesta de reglas que deban regir la participación social en la ejecución de los programas sociales y de seguridad humana;
 
 XV. Proponer la creación de grupos de trabajo temáticos y regionales para la atención de asuntos específicos;
 
-XVI. Conocer y publicar los resultados de las evaluaciones de la Política Estatal de Desarrollo Social; y
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Conocer y publicar los resultados de las evaluaciones de la Política Estatal de Desarrollo Social y Seguridad Humana; y
 
 XVII. Las demás que le señale esta Ley y la Ley de Planeación del Estado.
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 39.
 
-El Consejo deberá reunirse trimestralmente, a fin de dar seguimiento a las estrategias y programas de desarrollo social, y podrá convocar a reuniones de manera extraordinaria cuando sea necesario.
+El Consejo deberá reunirse trimestralmente, a fin de dar seguimiento a las estrategias y programas de desarrollo social y seguridad humana, y podrá convocar a reuniones de manera extraordinaria cuando sea necesario.
 
 ### CAPÍTULO IX. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 40.
 
-El Gobierno del Estado y los ayuntamientos garantizarán el derecho de los beneficiarios y de la sociedad a participar de manera corresponsable en la planeación, programación, organización, ejecución, evaluación y supervisión de la política social.
-
-Las organizaciones que tengan como objetivo impulsar el desarrollo social podrán sugerir acciones y aspectos relacionados con el diseño, ejecución y evaluación de las políticas, programas y acciones públicas en esta materia.
+El Gobierno del Estado y los ayuntamientos garantizarán el derecho de los beneficiarios y de la sociedad a participar de manera corresponsable en la planeación, programación, organización, ejecución, evaluación y supervisión de la política social y de seguridad humana. Las organizaciones que tengan como objetivo impulsar el desarrollo social podrán sugerir acciones y aspectos relacionados con el diseño, ejecución y evaluación de las políticas, programas y acciones públicas en esta materia.
 
 ###### Artículo 41.
 
@@ -607,9 +779,11 @@ Las organizaciones estarán sometidas a la supervisión de la Secretaría, sin p
 
 ### CAPÍTULO X. DE LA CONTRALORÍA SOCIAL Y DENUNCIA POPULAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 42.
 
-Se reconoce a la Contraloría Social como el mecanismo de los beneficiarios para verificar y vigilar, de manera organizada, el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social.
+Se reconoce a la Contraloría Social como el mecanismo de los beneficiarios para verificar y vigilar, de manera organizada, el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social y seguridad humana.
 
 El Ejecutivo del Estado y los ayuntamientos facilitarán el acceso a la información necesaria para el cumplimiento de las funciones de la Contraloría Social.
 
@@ -617,15 +791,21 @@ El Ejecutivo del Estado y los ayuntamientos facilitarán el acceso a la informac
 
 Toda persona u organización podrá presentar las quejas y denuncias ante la autoridad competente, respecto a los hechos, actos u omisiones que puedan constituir irregularidades o conductas ilícitas o impliquen incumplimiento con lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 44.
 
-Los ciudadanos que adviertan una anomalía en la operación o atención de la Política Estatal de Desarrollo Social o cualquier otra circunstancia que atente contra los derechos sociales consignados en la presente Ley, podrán denunciar los hechos ante el Órgano de Fiscalización Superior del Estado, la Contraloría General, o en la ventanilla de atención ciudadana, información y quejas que instale la Secretaría o la Dependencia o Entidad encargada de darle la canalización respectiva.
+Los ciudadanos que adviertan una anomalía en la operación o atención de la Política Estatal de Desarrollo Social y Seguridad Humana o cualquier otra circunstancia que atente contra los derechos humanos consignados en la presente Ley, podrán denunciar los hechos ante el Órgano de Fiscalización Superior del Estado, la Contraloría General, o en la ventanilla de atención ciudadana, información y quejas que instale la Secretaría o la Dependencia o Entidad encargada de darle la canalización respectiva.
 
-### CAPÍTULO XI. DE LA EVALUACIÓN DE LA POLÍTICA ESTATAL DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO XI. De la Evaluación de la Política Estatal de Desarrollo Social y Seguridad Humana
+
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 45.
 
-La evaluación de la Política Estatal de Desarrollo Social se realizará cada año conforme a lo previsto por esta Ley y por la Ley de Planeación del Estado, y estará a cargo de la Secretaría, la que deberá presentar el informe correspondiente ante el Consejo Estatal de Desarrollo Social y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, para los efectos señalados en la Ley General, debiendo además hacerlo del conocimiento público.
+La evaluación de la Política Estatal de Desarrollo Social y Seguridad Humana se realizará cada año conforme a lo previsto por esta Ley y por la Ley de Planeación del Estado, y estará a cargo de la Secretaría, la que deberá presentar el informe correspondiente ante el Consejo Estatal de Desarrollo Social y Seguridad Humana y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, para los efectos señalados en la Ley General, debiendo además hacerlo del conocimiento público.
 
 ###### Artículo 46.
 
@@ -635,17 +815,21 @@ La evaluación deberá ser realizada por organismos evaluadores independientes c
 
 La evaluación de resultados y su impacto se realizará atendiendo al cronograma de ejecución de los programas, proyectos y obras.
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-Las evaluaciones, de manera invariable, incluirán indicadores de resultados y de gestión y servicios para medir el desempeño de los programas sociales en cuanto a cobertura, calidad e impacto. Los indicadores de resultados deberán mostrar el cumplimiento de los objetivos, metas y acciones de la Política Estatal de Desarrollo Social, mientras que los de gestión y servicios, deberán informar sobre los procedimientos y calidad de los servicios que ofrecen a la sociedad los programas sociales estatales.
+Las evaluaciones, de manera invariable, incluirán indicadores de resultados y de gestión y servicios para medir el desempeño de los programas sociales y de seguridad humana en cuanto a cobertura, calidad e impacto. Los indicadores de resultados deberán mostrar el cumplimiento de los objetivos, metas y acciones de la Política Estatal de Desarrollo Social y Seguridad Humana, mientras que los de gestión y servicios, deberán informar sobre los procedimientos y calidad de los servicios que ofrecen a la sociedad los programas sociales y de seguridad humana estatales.
 
 ###### Artículo 49.
 
 Las conclusiones de las evaluaciones permitirán actualizar las políticas públicas, las estrategias y las líneas de acción de los programas prioritarios; establecer las consideraciones necesarias para la determinación de las zonas de atención prioritaria; incluir, en su caso, los proyectos y programas propuestos por la sociedad; y establecer los sistemas de mejora continua necesarios.
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 50.
 
-El Sistema Estatal de Desarrollo Social, en función a lo que establece la normatividad, deberá utilizar la información que genere el Instituto Nacional de Estadística y Geografía, el Consejo Nacional de Evaluación de la Política de Desarrollo Social y el Consejo Nacional de Población.
+El Sistema Estatal de Desarrollo Social y Seguridad Humana, en función a lo que establece la normatividad, deberá utilizar la información que genere el Instituto Nacional de Estadística y Geografía, el Consejo Nacional de Evaluación de la Política de Desarrollo Social y el Consejo Nacional de Población.
 
 ### CAPÍTULO XII. INFRACCIONES, SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
@@ -653,7 +837,9 @@ El Sistema Estatal de Desarrollo Social, en función a lo que establece la norma
 
 Incurren en responsabilidad los servidores públicos que cometan cualquiera de las siguientes conductas:
 
-I. Utilicen los recursos destinados a los programas de desarrollo social para fines distintos a la consecución de sus objetivos y metas;
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+I. Utilicen los recursos destinados a los programas de desarrollo social y seguridad humana para fines distintos a la consecución de sus objetivos y metas;
 
 > <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2018)</small>
 
@@ -665,7 +851,9 @@ III. Violen la normatividad de los programas con la finalidad de favorecer a per
 
 IV. Retrasen sin causa justificada el cumplimiento o prestación de los servicios o programas a su cargo;
 
-V. Obstaculicen la política estatal de desarrollo social y humano; y
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+V. Obstaculicen la política estatal de desarrollo social y seguridad humana; y
 
 VI. Las demás que establezcan otras disposiciones legales aplicables.
 
@@ -673,9 +861,11 @@ VI. Las demás que establezcan otras disposiciones legales aplicables.
 
 Los servidores públicos que incurran en las conductas previstas en el artículo anterior serán sancionados conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos para el Estado, así como en la legislación civil y penal, según corresponda.
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 53.
 
-Los representantes de las asociaciones civiles o sociales que hagan un uso indebido de los recursos destinados a los programas de desarrollo social y humano, o que violen la normatividad de los programas con el fin de favorecer a personas o grupos que no forman parte de la población objetivo, serán sancionados en los términos de la legislación aplicable.
+Los representantes de las asociaciones civiles o sociales que hagan un uso indebido de los recursos destinados a los programas de desarrollo social y seguridad humana, o que violen la normatividad de los programas con el fin de favorecer a personas o grupos que no forman parte de la población objetivo, serán sancionados en los términos de la legislación aplicable.
 
 ###### Artículo 54.
 
@@ -724,5 +914,13 @@ G.O. 5 DE OCTUBRE DE 2018.
 [TRANSITORIOS DEL “DECRETO NÚMERO 717 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 776 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
