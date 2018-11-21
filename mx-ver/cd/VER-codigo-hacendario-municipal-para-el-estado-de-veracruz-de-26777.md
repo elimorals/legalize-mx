@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2018-09-11"
+last_updated: "2018-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "VER"
 ---
 # CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO NÚMERO 783 HACENDARIO PARA EL MUNICIPIO DE PAPANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 21 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN APLICACIÓN EN EL MUNICIPIO DE PAPANTLA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -5081,8 +5083,16 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 11 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 706 QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 706 QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ”.]
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO NÚMERO 783 HACENDARIO PARA EL MUNICIPIO DE PAPANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Papantla del Estado de Veracruz de Ignacio de la Llave, a partir de la vigencia del presente Código.
