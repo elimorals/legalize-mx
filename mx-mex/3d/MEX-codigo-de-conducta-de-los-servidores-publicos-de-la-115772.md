@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-los-servidores-publicos-de-la-115772"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-07-18"
-last_updated: "2016-07-18"
+last_updated: "2018-11-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN LA G.G. DE 21 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2018 (SIN EFECTOS).
 
 Código publicado en el Periódico Oficial del Estado de México, el lunes 18 de julio de 2016.
 
@@ -645,3 +647,15 @@ de la Unidad e Información del Comité de (RÚBRICA).
 Control y Evaluación del Instituto Mexiquense
 
 de la Pirotecnia y Vocal del Tercer Comité.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 21 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA GENERAL DE GOBIERNO.”]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deja sin efectos el Código de Conducta de los Servidores Públicos de la Secretaría General de Gobierno, publicado mediante el Periódico Oficial "Gaceta del Gobierno", en fecha 18 de julio de 2016.
