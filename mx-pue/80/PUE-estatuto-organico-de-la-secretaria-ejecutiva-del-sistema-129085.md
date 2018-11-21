@@ -4,7 +4,7 @@ identifier: "PUE-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-129085
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-03-23"
-last_updated: "2018-03-23"
+last_updated: "2018-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DEL ESTADO DE PUEBLA
 
-ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-TEXTO ORIGINAL.
+ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE PUEBLA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2018.
 
 Estatuto publicado en la Sexta Sección al Número 16 del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2018.
 
@@ -145,7 +147,11 @@ c. Dirección de Vinculación Interinstitucional.
 
 d. Dirección de Transparencia.
 
-VI. Oficina de Apoyo Ejecutivo y Seguimiento de Acuerdos;
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+e. Dirección de Apoyo Ejecutivo y Seguimiento de Acuerdos.
+
+VI. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2018)
 
 VII. Las demás áreas administrativas y personal que autorice el Órgano de Gobierno a propuesta del Secretario Técnico, sujeto a la capacidad presupuestal de la Secretaría Ejecutiva, y
 
@@ -607,7 +613,7 @@ VIII. Las demás que le confiera el Secretario Técnico, así como las que se se
 
 ## TÍTULO III
 
-### CAPÍTULO VIII. DE LA OFICINA DE APOYO EJECUTIVO Y SEGUIMIENTO DE ACUERDOS
+### CAPÍTULO ÚNICO. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### ARTÍCULO 32.
 
@@ -657,7 +663,7 @@ XXI. Las demás establecidas en los artículos 45 de la Ley General de Transpare
 
 ## TÍTULO IV
 
-### CAPÍTULO ÚNICO. DEL ÓRGANO INTERNO DE CONTROL
+### CAPÍTULO ÚNICO. DE LAS LICENCIAS Y SUPLENCIAS
 
 ###### ARTÍCULO 37.
 
@@ -709,11 +715,15 @@ III. El titular del Órgano Interno de Control de la Secretaría Ejecutiva.
 
 El presidente podrá invitar a las sesiones del Comité de Transparencia, a los titulares de las áreas administrativas responsables de la información distintas de las que lo integran, para el desahogo de las solicitudes o asuntos respectivos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2018)</small>
+
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE APOYO EJECUTIVO Y SEGUIMIENTO DE ACUERDOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2018)</small>
+
 ## TÍTULO V
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES FINALES
-
-### CAPÍTULO ÚNICO. DE LAS LICENCIAS Y SUPLENCIAS
 
 ###### ARTÍCULO 39.
 
@@ -725,7 +735,7 @@ Los casos no previstos en el presente Estatuto Orgánico serán resueltos por el
 
 ###### ARTÍCULO 35.
 
-Al frente de la Oficina de Apoyo Ejecutivo y Seguimiento de Acuerdos existirá una persona titular denominada Titular de Oficina, que, para el desahogo de los asuntos de su competencia, tendrá las siguientes atribuciones:
+Para el desahogo de los asuntos de su competencia, la Directora o Director de Apoyo Ejecutivo y Seguimiento de Acuerdos contará con las siguientes atribuciones:
 
 I. Actuar como órgano de consulta, análisis y asesoría en aquellos asuntos que le encomiende el Secretario Técnico;
 
@@ -749,7 +759,7 @@ X. Apoyar al Secretario Técnico en todas las tareas administrativas que le corr
 
 XI. Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
 
-Para el ejercicio de sus facultades y el trámite y resolución de los asuntos que le competan, el Titular de la Oficina de Apoyo Ejecutivo y Seguimiento de Acuerdos que se auxiliará con el personal de enlace, operativo, administrativo y técnico, que le sea asignado conforme a la capacidad presupuestal de la Secretaría Ejecutiva, cuyas funciones estarán determinadas en el Manual de Organización que al efecto se emita.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 36.
 
@@ -764,3 +774,13 @@ SEGUNDO. El Estatuto Orgánico de la Secretaría Ejecutiva deberá inscribirse e
 TERCERO. La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro ante la Secretaría de Finanzas y Administración y la Secretaría de la Contraloría, del Estado de Puebla.
 
 Ciudad de Puebla, a 2 de marzo de 2018. C. Karen Berlanga Valdés. Presidenta del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción. Rúbrica. C. David Villanueva Lomelí. Auditor Superior del Estado de Puebla. Rúbrica. C. Rodolfo Sánchez Corro. Secretario de la Contraloría del Estado de Puebla. Rúbrica. C. Enrique José Flota Ocampo. Fiscal Especializado de Combate a la Corrupción del Estado de Puebla. Rúbrica. C. María Gabriela Sierra Palacios. Comisionada Presidenta del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla. Rúbrica. C. María de Lourdes Dib Álvarez. Magistrada Presidenta del Tribunal de Justicia Administrativa. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL ÓRGANO DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, DE FECHA 30 DE JULIO DE 2018, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN".]
+
+PRIMERO. El presente Acuerdo deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Acuerdo.
