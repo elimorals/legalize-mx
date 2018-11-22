@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2017-12-21"
+last_updated: "2018-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
+LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -207,8 +207,6 @@ LIII.- Visitador: Servidor Público que se le ordena practicar visitas domicilia
 
 Para los efectos de esta ley se considera que la actividad se realiza de manera complementaria cuando el importe de la enajenación por concepto de bebidas alcohólicas no exceda del 40% del total de las enajenaciones efectuadas en un mes de calendario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 6o.
@@ -355,9 +353,7 @@ I.- Impedir la enajenación y consumo de bebidas alcohólicas a menores de edad,
 
 II.- Impedir conductas que tiendan a alentar, favorecer o tolerar la prostitución o que los clientes tengan cualquier tipo de interacción que implique contacto físico impúdico con las meseras o meseros, artistas que se presenten, bailarinas o bailarines o cualquier empleada o empleado del lugar, así como de no permitir en su establecimiento la presentación de espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
-
-III.- Impedir que los clientes practiquen en el lugar juegos prohibidos por la ley o que crucen apuestas en juegos permitidos o que dentro del establecimiento se lleven a cabo apuestas o de juegos de azar;
+III.- (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2018)
 
 IV.- Retirar del establecimiento a las personas ebrias, cuando causen desorden, actos reñidos con la moral, para lo cual solicitarán, si fuere necesario, el auxilio de la fuerza pública;
 
@@ -413,11 +409,7 @@ V.- Reincidentes en la infracción de disposiciones sobre la materia;
 
 VI.- Lugares en los que se lleve a cabo la presentación de espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales; y
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
-
-VII.- Lugares en lo que se lleven a cabo juegos prohibidos por la ley o que crucen apuestas en juegos permitidos o que dentro del establecimiento se lleven a cabo apuestas o de juegos de azar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII.- (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -468,8 +460,6 @@ En los casos de los restaurantes y restaurant-bar, estos podrán permanecer abie
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 IX.- Los salones de fiestas y eventos, de lunes a sábado de las diez a las cuatro horas del día siguiente, y los domingos de las diez a las veinticuatro horas. En los días 15 de septiembre, 24 y 31 de diciembre se observará el horario aplicable a sábado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -589,21 +579,15 @@ Las licencias y permisos no son objeto de revalidación, por lo que una vez agot
 
 Las licencias a que se refiere esta ley tendrán vigencia solo durante el año de calendario en el que se expidieron; la vigencia de los permisos será la señalada expresamente en los mismos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 34.
 
 El propietario, representante legal o encargado del establecimiento destinado al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, deberá solicitar por escrito, o a través del portal de internet de la Secretaría u otros medios electrónicos permitidos, en los meses de noviembre y diciembre de cada año, la expedición de la nueva licencia para el siguiente año.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 El comprobante de la solicitud presentado en tiempo y forma, permitirá la operación del establecimiento respectivo, sólo durante los meses de enero y febrero del año siguiente a aquel en que se presentó la solicitud, debiendo realizar el pago correspondiente de derechos por expedición de licencias para funcionamiento de establecimientos de bebidas alcohólicas a que se refiere el artículo 81 de la Ley de Hacienda para el Estado de Tamaulipas a más tardar el último día hábil del mes de febrero.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -827,9 +811,7 @@ n).- Cuando no se fijen letreros señalando que se impide la entrada a menores d
 
 ñ).- Permitir que los clientes tengan cualquier tipo de interacción que implique contacto físico con fines lascivos o sexuales con las meseras o meseros, artistas que se presenten, bailarinas o bailarines o cualquier empleada o empleado del lugar; y
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
-
-o).- Que dentro del establecimiento se lleven a cabo apuestas o de juegos de azar.
+o).- (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2018)
 
 II.- Procede la clausura definitiva:
 
@@ -985,8 +967,6 @@ d).- A quienes no conserven en el establecimiento los comprobantes de pago de lo
 
 II.- Con multa de ciento cincuenta y uno a trescientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 a).- A quienes no conserven, mantengan y presenten el original de la licencia o permiso de funcionamiento y demás documentos que esta ley exige, cuando lo requiera la autoridad competente;
@@ -1040,8 +1020,6 @@ f).- A las personas que enajenen, traspasen, graven, arrienden, donen u otorguen
 g).- Cuando el propietario o su representante legal, encargado o empleado impida o dificulte a las autoridades correspondientes la inspección de sus establecimientos, local completo, licencias y demás documentos;
 
 h).- A los propietarios o sus representantes legales que proporcionen datos falsos a las autoridades;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1340,3 +1318,23 @@ El valor de la Unidad de Medida y Actualización, será determinado conforme el 
 ###### ARTÍCULO SEXTO.
 
 Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-531 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de un plazo de no más de sesenta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá el Reglamento que establezca los mecanismos y acciones que prevengan y regulen la atención integral a personas con ludopatía.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
