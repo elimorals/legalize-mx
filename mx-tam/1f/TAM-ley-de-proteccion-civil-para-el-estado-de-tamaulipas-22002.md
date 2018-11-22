@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2018-10-30"
+last_updated: "2018-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -602,6 +602,14 @@ El Reglamento de la Ley, determinará las respectivas competencias de vigilancia
 La Coordinación Estatal de Protección Civil promoverá que los establecimientos a que se refiere esta ley, instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones directamente o a través de las Unidades Municipales.
 
 Los establecimientos deberán realizar, asistidos por la Coordinación Estatal de Protección Civil o de la unidad municipal, según corresponda, cuando menos dos veces al año, simulacros para hacer frente a altos riesgos, emergencias o desastres.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 27 BIS.- En el caso de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares, deberán contar con sus propias unidades internas de respuesta.
+
+Estos establecimientos deberán realizar, con la asistencia de personal de la Coordinación General de Protección Civil, simulacros de evacuación para hacer frente a altos riesgos, emergencias o desastres.
+
+Además deberán contar con un programa de seguridad y contingencia aprobado por la Secretaria de Seguridad Pública y la Coordinación General de Protección Civil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1642,3 +1650,23 @@ El Titular del Poder Ejecutivo tendrá 120 días a partir del inicio de la vigen
 ###### ARTÍCULO CUARTO.
 
 Los Municipios del Estado tendrán 180 días a partir de la entrada en vigor del presente Decreto para adecuar sus disposiciones reglamentarias.
+
+P.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-531 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de un plazo de no más de sesenta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá el Reglamento que establezca los mecanismos y acciones que prevengan y regulen la atención integral a personas con ludopatía.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
