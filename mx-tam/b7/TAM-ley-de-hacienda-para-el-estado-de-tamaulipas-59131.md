@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2017-12-21"
+last_updated: "2018-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -265,15 +265,17 @@ g) La enajenación de vehículos efectuada por personas domiciliadas en el Estad
 
 ### CAPITULO II. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+#### SECCIÓN PRIMERA. DE LOS IMPUESTOS SOBRE RIFAS, SORTEOS, LOTERÍAS Y CONCURSOS
 
 ###### Artículo 16.
 
 Están obligados al pago del impuesto sobre juegos permitidos, las personas físicas, morales o unidades económicas sin personalidad jurídica:
 
-I. Que organicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase, aun cuando por dichos eventos no se cobre la cantidad alguna que represente el derecho de participar en los mismos, exceptuando los que se obsequien para promover la venta de bienes y la prestación de servicios. No se consideran incluidos en los concursos los torneos en los que únicamente participen deportistas no profesionales;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+I. Que organicen o celebren rifas, sorteos, loterías, y concursos de toda clase, aun cuando por dichos eventos no se cobre la cantidad alguna que represente el derecho de participar en los mismos, exceptuando los que se obsequien para promover la venta de bienes y la prestación de servicios. No se consideran incluidos en los concursos los torneos en los que únicamente participen deportistas no profesionales;
 
 II. Que obtengan ingresos o premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
 
@@ -289,7 +291,9 @@ Tratándose de premios en especie, quienes los obtengan deberán proveer los rec
 
 Para determinar la base del impuesto se tomarán en cuenta las siguientes disposiciones:
 
-I. Para los sujetos de este impuesto que organicen o celebren loterías, rifas, sorteos, juegos con apuesta o concursos de toda clase, se considera el valor total de la emisión de los boletos, billetes, contraseñas o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquellos no enajenados y que no participen en la posibilidad de obtener premios.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+I.- Para los sujetos de este impuesto que organicen o celebren loterías, rifas, sorteos, o concursos de toda clase, se considera el valor total de la emisión de los boletos, billetes, contraseñas o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquellos no enajenados y que no participen en la posibilidad de obtener premios.
 
 Para los sujetos de este impuesto que realicen las actividades señaladas en el párrafo anterior fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas y cualquier otro comprobante que se hayan vendido dentro del Estado;
 
@@ -315,9 +319,11 @@ I. Se aplicará una tasa del 6 por ciento a la base gravable contemplada en la f
 
 II. Se aplicará una tasa del 6 por ciento a la base gravable contemplada en la fracción II del artículo 17.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 20.
 
-Tratándose de los organizadores o de los que celebren las loterías, rifas, sorteos, juegos con apuesta o concursos de toda clase, el impuesto se causará en el momento en que inicia la entrega de los boletos, billetes, contraseñas o cualquier otro tipo de comprobante, a los participantes.
+Tratándose de los organizadores o de los que celebren las loterías, rifas, sorteos, o concursos de toda clase, el impuesto se causará en el momento en que inicia la entrega de los boletos, billetes, contraseñas o cualquier otro tipo de comprobante, a los participantes.
 
 Tratándose de las personas que obtengan premios, el impuesto se causará en el momento que los mismos les sean pagados o entregados por los organizadores o por los que celebren los eventos objeto de este impuesto.
 
@@ -327,9 +333,11 @@ Los organizadores habituales de las actividades gravadas por este impuesto deber
 
 Tratándose de los organizadores eventuales, se pagará el día siguiente a aquel en el que se realicen o celebren las actividades gravadas por este impuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 22.
 
-Quienes organicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase tendrán las siguientes obligaciones:
+Quienes organicen o celebren rifas, sorteos, loterías, y concursos de toda clase tendrán las siguientes obligaciones:
 
 I. Tratándose de organizadores habituales:
 
@@ -373,13 +381,87 @@ Los organismos públicos descentralizados a que se refiere este artículo, tendr
 
 Para los efectos de este Capítulo se considerarán sujetos habituales del impuesto aquellas personas que realicen 2 o más actividades objeto de este impuesto en el período de un año.
 
-#### SECCIÓN II. AUTOMÓVILES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+#### SECCIÓN SEGUNDA. DEL IMPUESTO SOBRE JUEGOS CON CRUCE O CAPTACIÓN DE APUESTAS
 
-#### SECCIÓN III. OTROS VEHICULOS
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+###### Artículo 24 Bis.
+
+Será objeto del impuesto sobre juegos con cruce de apuestas, las percepciones que obtengan en el Estado las personas físicas, morales o unidades económicas sin personalidad jurídica siguientes:
+
+I.- Las personas físicas o morales que, en el Estado, operen establecimientos en los que se realicen juegos con cruce o captación de apuestas incluidos sorteos, independientemente de la denominación que se les dé, así como apuestas remotas para eventos o competencias deportivas y para los cuales se requieran permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, quienes estarán obligadas a pagar el impuesto sobre juegos con cruce de apuestas a una tasa del seis por ciento sobre la base gravable del mismo; y
+
+II.- Quienes obtengan ingresos o premios como consecuencia de participar en juegos con cruce o captación de apuestas, los que estarán obligados a pagar el impuesto sobre juegos con cruce de apuestas a una tasa del seis por ciento sobre la base gravable del mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 24 Ter.
+
+Para determinar la base del impuesto conforme al artículo precedente, se tomarán en cuenta las siguientes disposiciones:
+
+I. Para efectos de la fracción I del artículo precedente:
+
+a).- Por juegos con cruce o captación de apuestas incluidos sorteos para los cuales se requiera permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, se entienden todos aquellos independientemente del nombre con el que se les designe en los que el premio se obtenga por la destreza del participante en el uso de máquinas que en su funcionamiento utilicen imágenes visuales electrónicas y con independencia a que en alguna etapa de su desarrollo intervenga el azar, incluidos aquellos en que el participante deba estar presente en el desarrollo de la actividad o como espectador, así como en los casos en que el operador se encuentre fuera de la entidad, en los casos de juegos con cruce o captación de apuestas remotas, y para eventos o competencias deportivas;
+
+b).- En los juegos con cruce o captación de apuestas incluidos sorteos para los cuales se requiera permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, se tomará como base gravable la totalidad de las cantidades efectivamente percibidas por el operador por concepto de las apuestas, deduciéndose a dicha cantidad únicamente el importe correspondiente a la retención por concepto del impuesto previsto por el artículo 24 Quinquies, así como el valor del premio en el caso que lo hubiere;
+
+c).- Por apuesta para participar en juegos con cruce o captación de apuestas incluidos sorteos, así como las apuestas remotas para eventos o competencias deportivas, se entienden la acción de arriesgar cantidades de dinero por los participantes en dichas actividades y que son entregadas a los operadores de los establecimientos para el acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, incluida toda recarga adicional que se realice mediante cualquier tipo de dispositivo que permita participar en los juegos con apuestas. En este caso, la cantidad que se entregue al operador del establecimiento se considerará el monto que se fija como apuesta, y no podrá presentarse en ninguna forma distinta a la descrita, ni tener ningún destino diferente sino el participar en los juegos con cruce o captación de apuestas. El impuesto se causará en el momento en que los participantes entreguen por cualquier medio las cantidades de dinero a los operadores; y
+
+d).- Los bonos, promociones, descuentos, gratificaciones, o cualquier otro tipo de beneficio que con fines promocionales los operadores de los establecimientos otorguen a las personas que participen en los juegos con cruce y captación de apuestas, ya sea que el beneficio otorgado se estime en dinero o en cualquier otro tipo de unidad de medida empleada para participar en los juegos así sea dicha unidad de medida de desarrollo propio del establecimiento; no serán deducibles de la base gravable, y en consecuencia no se podrá disminuir del monto que corresponda a los ingresos efectivamente percibidos por los operadores para el cálculo del impuesto.
+
+II.- Para efectos de la fracción II del artículo precedente:
+
+a).- Para los sujetos a este impuesto que obtengan los ingresos o premios entregados o cobrados en el territorio del Estado, la base gravable será el valor determinado o determinable que obtenga de ingresos o premios como consecuencia de participar en juegos con cruce o captación de apuestas; y
+
+b).- Tratándose de las personas que obtengan premios, el impuesto se causará en el momento que los mismos les sean pagados o entregados por los operadores de los establecimientos en los que se realicen juegos con cruce o captación de apuestas incluidos sorteos, independientemente de la denominación que se les dé, así como apuestas remotas para eventos o competencias deportivas y para los cuales se requieran permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento.
+
+III.- Las personas físicas o morales que se actualicen en la hipótesis prevista en la fracción I del artículo 24 Bis de esta Ley, estarán obligados a enterar el importe del impuesto sobre juegos con cruce de apuestas mensualmente, a más tardar el día quince del mes siguiente y en caso de que este último sea inhábil, el día hábil siguiente. El mismo plazo será aplicable para el entero de las retenciones que efectúen del impuesto sobre juegos con cruce de apuestas causado conforme a la fracción II del artículo 24 Bis de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 24 Quater.
+
+Las personas físicas o morales que operen establecimientos en el Estado en los cuales se realicen juegos con cruce o captación de apuestas o sorteos, independientemente de la denominación que se les dé, incluidas las apuestas remotas para eventos o competencias deportivas y para los cuales se requieran permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, tendrán las obligaciones establecidas en el artículo 22 fracción I de esta Ley, además de las siguientes:
+
+I.- Entregar a la Secretaría de Finanzas junto a la declaración de impuestos mensual, reporte de identificación de los participantes en los juegos de apuestas y sorteos que ingresen cantidades mensuales superiores a los doscientos cincuenta mil pesos, así como aquellos que obtengan las mismas cantidades como resultado de premios obtenidos por participar en la actividad;
+
+II.- Presentar dentro de los primeros dos meses del año calendario ante la Secretaría de Finanzas, copia de la póliza de seguro vigente de responsabilidad civil correspondiente al año en curso;
+
+III.- Entregar a la Secretaría de Finanzas los estados financieros trimestrales y anuales, dentro de los 20 días hábiles posteriores al cierre del trimestre y dentro de los seis meses posteriores al cierre del año fiscal a reportar, respectivamente;
+
+IV.- Integrar y enterar mensualmente a la Secretaría de Finanzas, un reporte que contenga información estadística de clientes registrados;
+
+V.- Informar a la Secretaría de Finanzas sobre la enajenación de las acciones o partes sociales representativas de su capital social o la modificación del porcentaje de participación de sus socios o accionistas personas físicas o morales o los accionistas de éstas hasta el último beneficiario, así como cualquier modificación a sus estatutos sociales. La presente disposición es aplicable a cualquier cambio en la composición accionaria del permisionario o de los accionistas o socios de éste, sea que se realice mediante capitalizaciones, disminuciones de capital, escisiones, fusiones u otra práctica corporativa en la que medien otras sociedades entre la permisionaria, accionistas, socios, últimos beneficiarios, salvo que se trate de operaciones efectuadas a través de bolsa de valores, en la que la transacción no implique un cambio de control en el permisionario;
+
+VI.- Retener el impuesto sobre juegos con cruce de apuestas causado conforme a la fracción II del artículo 24 Bis de esta Ley, para su posterior entero conforme a la fracción III del artículo 24 Ter de esta Ley.
+
+VII.- Realizar la inscripción de las máquinas, equipos, terminales electrónicas, y en general cualquier artefacto empleado directamente en el desarrollo de la actividad en el registro estatal de la Secretaría de Finanzas, así como permitir la revisión y supervisión periódica de los mismos por la autoridad.
+
+La falta de cumplimiento a lo establecido en el presente artículo tendrá como consecuencia el retiro de la opinión favorable de la entidad, con independencia al ejercicio de las facultades fiscalizadoras.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+#### SECCIÓN TERCERA. IMPUESTO SOBRE LA PARTICIPACIÓN EN JUEGOS CON CRUCE DE APUESTAS
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 24 Quinquies.
+
+Son sujetos del impuesto por la participación en juegos con cruce de apuestas las personas físicas que en el Estado fijen apuestas para participar en juegos con cruce o captación de apuestas incluidos sorteos para los cuales se requiera permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento, se entienden todos aquellos independientemente del nombre con el que se les designe en los que el premio se obtenga por la destreza del participante en el uso de máquinas que en su funcionamiento utilicen imágenes visuales electrónicas y con independencia a que en alguna etapa de su desarrollo intervenga el azar, incluidos aquellos en que el participante deba estar presente en el desarrollo de la actividad o como espectador así como en los casos en que el operador se encuentre fuera de la entidad, en los casos de juegos con cruce o captación de apuestas remotas, y para eventos o competencias deportivas.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 24 Sexies.
+
+Este impuesto se causará en el momento en el que el sujeto entregue por cualquier medio las cantidades de dinero a los operadores conforme a lo dispuesto por la fracción III del artículo 24 Ter de esta Ley, y le será aplicable una tasa de diez por ciento sobre el importe de la apuesta; cantidad que será retenida por el operador del establecimiento para ser enterada a la entidad mediante la forma autorizada a más tardar el día quince del mes siguiente y en caso de que este último sea inhábil, el día hábil siguiente.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 24 Septies.
+
+Los operadores de los establecimientos en que se desarrolle la actividad, están obligados a expedir comprobantes por cada una de las apuestas recibidas, en donde se identifique plenamente el importe correspondiente a la retención estatal por concepto del impuesto.
 
 ### CAPITULO III. DEL IMPUESTO SOBRE HONORARIOS
 
@@ -479,7 +561,7 @@ III. Los ingresos a que se refiere este Capítulo, cuando por ellos se cause y s
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-#### SECCIÓN IV. VEHICULOS USADOS
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -605,7 +687,9 @@ Los contribuyentes comprobarán el pago del impuesto con la copia de la forma po
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-#### Sección Primera. del Registro Civil
+#### SECCIÓN II. AUTOMÓVILES
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 38.
 
@@ -669,9 +753,9 @@ Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, 
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-#### Sección Segunda. del Registro Público de la Propiedad Inmueble
+#### SECCIÓN III. OTROS VEHICULOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 39.
 
@@ -775,9 +859,9 @@ El Gobierno del Estado podrá celebrar convenios con las autoridades federales c
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-#### Sección Tercera. del Registro Público del Comercio
+#### SECCIÓN IV. VEHICULOS USADOS
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 42.
 
@@ -1149,7 +1233,7 @@ IV.- Cuando los sujetos operen con varios establecimientos deberán acumular la 
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-V.- Llevar la contabilidad de conformidad con el Código Fiscal del Estado de Tamaulipas, registrando en ella los pagos sujetos de este Capítulo debidamente clasificados, a excepción de los contribuyentes que se encuentren en el supuesto previsto en el Título IV, Capítulo ll, Sección ll, de la Ley del Impuesto sobre la Renta, quienes tendrán las obligaciones ahí señaladas;
+V.- Llevar la contabilidad de conformidad con el Código Fiscal del Estado de Tamaulipas, registrando en ella los pagos sujetos de este Capítulo debidamente clasificados, a excepción de los contribuyentes que se encuentren en el supuesto previsto en el Título IV, Capítulo II, Sección II, de la Ley del Impuesto sobre la Renta, quienes tendrán las obligaciones ahí señaladas;
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1383,6 +1467,12 @@ Artículo 52 Undecies. Este impuesto no se causa por los servicios de hospedaje 
 
 ### CAPITULO III. DE LOS SERVICIOS PRESTADOS POR AUTORIDADES EDUCATIVAS DEL ESTADO
 
+#### Sección Primera. del Registro Civil
+
+#### Sección Segunda. del Registro Público de la Propiedad Inmueble
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ## TITULO III. DE LOS DERECHOS
 
 ### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
@@ -1421,9 +1511,11 @@ En los casos en que el pago de los derechos no se efectúe previamente a la pres
 
 El cobro de los derechos establecidos en el presente Título III dará lugar, en su caso, al ejercicio de la facultad económico coactiva, la cual se ejercerá por conducto de la Secretaría de Finanzas del Estado o la oficina dependiente de la misma en cuya jurisdicción hubiera sido prestado el servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 59.
 
-Los derechos por concepto de constancias, certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por servidores públicos del Gobierno del Estado, se causarán conforme a la siguiente tarifa:
+Los derechos por concepto de constancias, certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por servidores públicos del Gobierno del Estado, dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas, y opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas, se causarán conforme a la siguiente tarifa:
 
 > <small>(REFORMADO [N. DE .E ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1457,13 +1549,21 @@ V. Otorgamiento de constancia por el registro de título profesional ante el Pod
 
 VI. Impresión de copias de traslado en los emplazamientos por exhorto en los que se utilice la Comunicación Procesal electrónica, 60 centavos por hoja;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-VII. Copia certificada o simple de los registros electrónicos de las audiencias que se llevan a cabo en los procedimientos, una vez el valor diario de la Unidad de Medida y Actualización, por cada disco que expida; y
+VII.- Copia certificada o simple de los registros electrónicos de las audiencias que se llevan a cabo en los procedimientos, una vez el valor diario de la Unidad de Medida y Actualización, por cada disco que expida;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Registro de Valuador Profesional, seis veces el valor diario de la Unidad de Medida y Actualización.
+VIII.- Registro de Valuador Profesional, seis veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Dictamen de viabilidad financiera para la instalación de establecimientos operadores de cruces y captación de apuestas, el valor anual de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+X.- Opinión de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas, el valor anual de la Unidad de Medida y Actualización.
 
 ###### Artículo 60.
 
@@ -1552,6 +1652,10 @@ IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalizaci
 ### CAPITULO V. DE LOS SERVICIOS PARA EL CONTROL VEHICULAR
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+#### Sección Tercera. del Registro Público del Comercio
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 62.
 
@@ -2803,7 +2907,7 @@ II.- Por el acopio de los productos de las empresas almacenadoras industrializad
 
 Los servicios prestados por administración y control del desarrollo urbano se causarán, por certificación, conforme a lo siguiente:
 
-l. Expedición de certificados de uso de suelo:
+I. Expedición de certificados de uso de suelo:
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3383,6 +3487,12 @@ El Ejecutivo, por conducto de la Secretaría, hará efectivo el cobro de las for
 
 Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Contraloría Gubernamental en la ejecución de obra pública, los contratistas con quienes se celebre contrato de obra pública del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente del 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 97 Bis.
+
+Por la inscripción en el registro estatal previsto por la fracción VII del artículo 24 Quater, los sujetos obligados pagarán por única vez, el equivalente a trescientos setenta veces el valor diario de la Unidad de Medida y Actualización.
+
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 98.
@@ -3730,3 +3840,23 @@ El valor de la Unidad de Medida y Actualización, será determinado conforme el 
 ###### ARTÍCULO SEXTO.
 
 Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-531 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de un plazo de no más de sesenta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá el Reglamento que establezca los mecanismos y acciones que prevengan y regulen la atención integral a personas con ludopatía.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
