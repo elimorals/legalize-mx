@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-250-sobre-el-uso-de-firma-electronica-avanzada-51077
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-06"
-last_updated: "2006-07-06"
+last_updated: "2018-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY SOBRE EL USO DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 6 de julio de 2006.
 
@@ -97,6 +97,10 @@ IV.- Autoridad registradora: Son las dependencias, unidades administrativas u ó
 
 V.- Certificado de firma electrónica avanzada: El documento firmado electrónicamente por la autoridad certificadora, mediante el cual se confirma el vínculo existente entre el firmante y la firma electrónica avanzada;
 
+> <small>(ADICIONADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+V Bis.- Comisión Intergubernamental: La Comisión Intergubernamental para el Desarrollo del Gobierno Electrónico;
+
 VI.- Confidencialidad: Característica de los mensajes electrónicos transmitidos con certificados de firma electrónica avanzada, que garantiza al firmante o al destinatario que la información enviada o recibida electrónicamente permanece íntegra y sin modificaciones y es protegida de su acceso y distribución no autorizada;
 
 VII.- Conservación: Característica de los mensajes de datos en virtud de la cual poseen una existencia permanente y son susceptibles de reproducción;
@@ -129,13 +133,41 @@ XIX.- Sistema de información: Todo sistema o programa en el que se realice capt
 
 Con el propósito de que exista uniformidad y compatibilidad en el uso de las tecnologías de medios electrónicos y firmas electrónicas que refiere esta Ley, los entes públicos sujetos a este ordenamiento podrán coordinarse para acordar y definir los estándares, características y requerimientos tecnológicos que serán aplicables para que los certificados de firma electrónica avanzada sean reconocidos y tengan validez en los términos de esta Ley. De igual forma, podrán coordinarse para asumir las atribuciones que a cada una de ellas corresponde con el objeto de dar efectivo cumplimiento a las disposiciones de esta Ley.
 
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 7° Bis.
+
+Se crea la Comisión Intergubernamental la cual se integrará por los titulares de las dependencias de la Administración Pública Estatal Directa de conformidad con lo que establece el artículo 3 de la Ley Orgánica del Poder Ejecutivo del Estado, y un representante de los Poderes legislativo y Judicial, respectivamente y en la que deberán contar como invitados permanentes a los titulares de la Comisión de Mejora Regulatoria, la Comisión Estatal de Ciencia y Tecnología del Estado de Sonora, la Procuraduría Fiscal del Estado, la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, un representante de los Ayuntamientos de los municipios con población mayor a los 100 mil habitantes y el Centro Estatal de Desarrollo Municipal del Estado de Sonora y buscará en todo momento que se garantice la participación de todas y cada una de las dependencias que tengan una relación directa con el tema, por conducto de sus respectivos titulares y que tendrá como facultades y obligaciones, entre otras, las siguientes:
+
+I.- Emitir el programa general de trabajo en el que se contendrán las actividades y plazo para que la primera etapa del "Gobierno sin Papel", entre el Poder Legislativo y los Ayuntamientos sea operacional, así como los plazos y actividades para que éste sea operacional para todos los entes públicos sujetos a la ley, mismo que deberá publicar en el Boletín Oficial del Gobierno del Estado;
+
+II.- Conocer las necesidades en materia de Tecnologías de la Información Comunicaciones en la Administración Pública Estatal y recomendar las acciones para su desarrollo;
+
+III.- En su caso, apoyar los acuerdos orientados a la búsqueda de recursos económicos para el desarrollo de los proyectos, con los Entes Públicos, así como con organismos nacionales e internacionales ya sean públicos o privados;
+
+IV.- Promover el establecimiento de mecanismos de coordinación y colaboración con los poderes federales; la Fiscalía General de la República; los gobiernos de las entidades federativas y de los municipios; así como con instituciones públicas y privadas nacionales e internacionales, a fin de propiciar el intercambio de información y experiencias, el análisis de problemáticas comunes y la realización de proyectos conjuntos en materia de Gobierno Electrónico y Tecnologías de la Información y Comunicaciones;
+
+V.- Proponer el establecimiento de una arquitectura tecnológica para los Entes Públicos, con una visión orientada a la administración estratégica de servicios de Tecnologías de la Información y Comunicaciones para definir y alinear los procesos de los entes de gobierno, mediante la utilización de modelos de operación que permitan identificar las oportunidades para replicar o reutilizar los recursos, mejorar la efectividad y obtener ahorros en los costos al mejorar los servicios proporcionados al ciudadano; en la medida en que las capacidades técnicas, organizacionales y presupuestarias de cada institución lo permitan;
+
+VI.- Promover el establecimiento de mecanismos de interoperabilidad que permitan el aprovechamiento de las infraestructuras tecnológicas y de los procesos horizontales a través de la administración pública estatal;
+
+VII.- Promover en los Entes Públicos los mecanismos para facilitar la implementación, operación y la homologación de los procedimientos y tecnología de la Firma Electrónica Avanzada;
+
+VIII.- Promover entre los Entes Públicos, los mecanismos para la aplicación de los criterios de interoperabilidad y los lineamientos para la estandarización de los sistemas automatizados de control de gestión y su comunicación a través del uso de medios electrónicos;
+
+IX.- Dictar las medidas para la implementación de acciones que conlleven a la reutilización y reciclaje, según sea el caso, del papel utilizado en los entes públicos;
+
+X.- Establecer el marco normativo que sea indispensable para su operación; y
+
+XI.- Las demás que sean necesarias para el cumplimiento de su objeto.
+
 ### CAPÍTULO II. DEL USO DE LOS MEDIOS ELECTRÓNICOS
 
-###### ARTÍCULO 8°.
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-En los actos regulados por esta Ley, los entes públicos a que se refieren las fracciones I a V del artículo 2°, podrán hacer uso de los medios electrónicos utilizando mensajes de datos del servidor público competente.
+###### ARTÍCULO 8º.
 
-Los particulares podrán hacer uso de (sic) medios electrónicos a que se refiere esta Ley, en cuyo caso quedarán sujetos a las disposiciones de la misma.
+En los actos regulados por esta Ley, los Entes Públicos a que se refieren las fracciones I a V del artículo 2º de la presente Ley, deberán privilegiar el uso de los medios electrónicos utilizando mensajes de datos del servidor público competente. Los particulares podrán hacer uso de medios electrónicos a que se refiere esta Ley, en cuyo caso quedarán sujetos a las disposiciones de la misma.
 
 ###### ARTÍCULO 9.
 
@@ -147,7 +179,7 @@ Los entes públicos sujetos a esta Ley que presten servicios relacionados con la
 
 ###### ARTÍCULO 11.
 
-El contenido de los mensajes de datos relativos a los actos regulados por esta Ley, deberá conservarse en archivos electrónicos, debiéndose hacer constar íntegramente en forma impresa, integrando expediente, únicamente cuando así lo soliciten expresamente los interesados, lo determine la autoridad competente o lo contemple una disposición Iegal; en caso contrario, se conservarán únicamente en archivos electrónicos.
+El contenido de los mensajes de datos relativos a los actos regulados por esta Ley, deberá conservarse en archivos electrónicos, debiéndose hacer constar íntegramente en forma impresa, integrando expediente, únicamente cuando así lo soliciten expresamente los interesados, lo determine la autoridad competente o lo contemple una disposición legal; en caso contrario, se conservarán únicamente en archivos electrónicos.
 
 ###### ARTÍCULO 12.
 
@@ -527,4 +559,18 @@ Los entes públicos deberán, en el término a que se refiere el artículo prime
 
 AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO, SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, A 20 DE JUNIO DE 2006.- DIPUTADO PRESIDENTE.- C. NICOLAS CAMPAS ROMERO.- RUBRICA.- DIPUTADA SECRETARIA.- C. IRMA YOLANDA ALAMEDA GONZALEZ RUBRICA.- DIPUTADO SECRETARIO.- C. ISMAEL FLORES GARCIA.- RUBRICA.
 
-POR TANTO, MANDO SE PUBLlQUE EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLlMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTIOCHO DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL SEIS.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.-RUBRICA.- EL SECRETARIO DE GOBIERNO POR MINISTERIO DE LEY.- ENRIQUE PALAFOX PAZ.- RUBRICA.
+POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTIOCHO DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL SEIS.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.-RUBRICA.- EL SECRETARIO DE GOBIERNO POR MINISTERIO DE LEY.- ENRIQUE PALAFOX PAZ.- RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 212, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FIRMA ELECTRÓNICA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+A más tardar el 01 de enero de 2019, la Comisión Intergubernamental deberá publicar en el Boletín Oficial del Gobierno del Estado, las obligaciones a las que se hacen referencia en las fracciones I, IX y X del artículo 7 Bis del presente Decreto.
