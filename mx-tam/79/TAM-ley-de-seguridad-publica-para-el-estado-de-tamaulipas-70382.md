@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2018-10-30"
+last_updated: "2018-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -677,9 +677,9 @@ XXVIII.- Registrar en el Informe Policial Homologado los datos de las actividade
 
 XXIX.- Vigilar y verificar que los vehículos automotores que circulen por las vías públicas en el Estado y sus municipios, cuenten y porten con la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes y con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, según sea el caso;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-XXX.- Atender las solicitudes de la Comisión Estatal de Búsqueda de Personas, así como de las Comisiones Locales de Búsqueda de otras entidades federativas y recibir reportes de búsqueda de personas desaparecidas o no localizadas, cuando la distancia o los medios de comunicación no permitan realizar los reportes en los términos señalados en las fracciones I, II, III y IV del artículo 81 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, debiendo transmitirlo inmediatamente, a través de cualquier medio tecnológico o de telecomunicación a la Comisión que corresponda, en términos de la legislación citada con antelación; y
+XXX.- Coadyuvar con las demás autoridades estatales cuando sea formalmente requerido para brindar el apoyo de la fuerza pública en sus funciones de vigilancia, verificación e inspección en materia de protección civil, sanitaria y fiscal cuando se trate de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares; y
 
 XXXI.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
 
@@ -753,9 +753,13 @@ XI. Las demás que le confieran otras disposiciones jurídicas aplicables o sus 
 
 1. La prestación de los servicios señalados en el artículo anterior, se efectuarán mediante contratación por escrito; en el contrato se establecerá el tipo, tiempo, costo y condiciones del servicio.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+2. En el caso de los servicios de seguridad, custodia y vigilancia que se presten a casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, se establecerá un programa de constante rotación del personal operativo de la policía auxiliar asignado.
+
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
 
-2. El personal operativo de la Policía Auxiliar apoyará a las demás instituciones policiales, estatales o municipales, cuando así se requiera, previa autorización del Secretario de Seguridad Pública o del Subsecretario de Operación Policial.
+3. El personal operativo de la Policía Auxiliar apoyará a las demás instituciones policiales, estatales o municipales, cuando así se requiera, previa autorización del Secretario de Seguridad Pública o del Subsecretario de Operación Policial.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2340,3 +2344,23 @@ P.O. 30 DE OCTUBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-531 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de un plazo de no más de sesenta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá el Reglamento que establezca los mecanismos y acciones que prevengan y regulen la atención integral a personas con ludopatía.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
