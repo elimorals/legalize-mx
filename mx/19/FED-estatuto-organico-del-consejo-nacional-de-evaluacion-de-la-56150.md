@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-evaluacion-de-la-5615
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-16"
-last_updated: "2015-10-23"
+last_updated: "2018-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-03-16"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2018.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2007.
 
@@ -625,7 +625,9 @@ XIII. Determinar el formato de las cédulas de identificación del personal que 
 
 XIV. Emitir las constancias de percepciones y retenciones del personal;
 
-XV. Coordinar la elaboración y actualización de los manuales de organización y de procedimientos del Consejo y someterlos a la consideración del Secretario Ejecutivo;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2018)</small>
+
+XV. Autorizar los manuales de organización y de procedimientos del Consejo, previa opinión jurídica de la Dirección de Servicios Jurídicos;
 
 XVI. Coordinar los proyectos y programas de Innovación Gubernamental y Calidad Total, mediante la implantación de sistemas emprendedores, de acuerdo a los programas rectores establecidos por el Gobierno Federal;
 
@@ -699,7 +701,9 @@ IX. Dirigir la integración de la información programática, presupuestal y fin
 
 X. Supervisar la aplicación de los sistemas y procedimientos de personal;
 
-XI. Registrar las modificaciones a la estructura orgánica, a los manuales de organización y procedimientos del Consejo;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2018)</small>
+
+XI. Coordinar con las áreas del Consejo la elaboración, actualización y registro de las modificaciones a la estructura orgánica, así como de los manuales de organización y de procedimientos del Consejo;
 
 XII. Coordinar y supervisar el reclutamiento, selección y contratación del personal requerido por las áreas del Consejo a través de los diferentes medios de comunicación;
 
@@ -1356,6 +1360,16 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
 
 D.O.F. 23 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
+
+TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+D.O.F. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
