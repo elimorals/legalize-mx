@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2018-10-01"
+last_updated: "2018-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -89,11 +89,15 @@ XII.- Mediación Escolar: La técnica que se utiliza para resolver los problemas
 
 La aplicación de esta Ley corresponde al Ejecutivo del Estado, por conducto de la Secretaría, en su caso, a sus organismos descentralizados, y a los Ayuntamientos, en los términos que la misma establece y lo que prevean las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 4o.
 
-Todo individuo tiene derecho a recibir educación de calidad y, por lo tanto, todos los habitantes de la Entidad tienen las mismas oportunidades de acceso al Sistema Educativo, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+Todo (sic) persona tiene derecho a recibir educación de calidad en condiciones de equidad y, por lo tanto, todos los habitantes de la Entidad tienen las mismas oportunidades de acceso y permanencia al Sistema Educativo, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
-La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura, es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar a mujeres y hombres de manera que tenga sentido de solidaridad social.
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura, es proceso permanente que contribuye al desarrollo de la persona y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar a mujeres y hombres de manera que tenga sentido de solidaridad social.
 
 En el Sistema Educativo deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los alumnos, docentes y padres de familia. En relación a los alumnos, deberá garantizarse su sano desarrollo a fin de evitar trastornos en su salud mental, así como asegurar la sana convivencia y la no violencia en cualquiera de sus tipos de manifestación, por considerarse estos aspectos fundamentales para el bienestar de los individuos, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refieren el artículo 3o. de la Constitución, el 7 de la Ley General y el 18 de esta Ley.
 
@@ -205,7 +209,13 @@ Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria
 
 V.- Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-VI. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+
+> <small>(ADICIONADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+VI Bis.- Fomentar la valoración de la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural;
 
 > <small>(REFORMADA, B.O. 7 DE JUNIO DE 2018)</small>
 
@@ -275,9 +285,11 @@ IV.- Será de calidad, entendiéndose por ésta la congruencia entre los objetiv
 
 Además de impartir la educación preescolar, la primaria, la secundaria y la media superior, el Estado y los Ayuntamientos promoverán y atenderán, directamente o por conducto de organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio, todos los tipos y modalidades educativos, incluida la educación inicial, especial y superior, necesarios para el desarrollo de la Entidad, apoyarán la investigación científica y tecnológica, y alentarán el fortalecimiento y la difusión de la cultura regional, nacional y universal.
 
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 21.
 
-La educación que se imparta en las escuelas deberá vincularse activa y constantemente con la comunidad, y ofrecer, a quienes en ella participan, la oportunidad de aplicar y utilizar el conocimiento según lo requiera la sociedad.
+La educación que se imparta en las escuelas deberá vincularse activa y constantemente con la comunidad, y ofrecer, a quienes en ella participan, la oportunidad de aplicar y utilizar el conocimiento según lo requiera la sociedad. Asimismo, la educación se impartirá de manera que permita al educando su plena inclusión y participación en la sociedad.
 
 > <small>(REFORMADO, B.O. 25 DE ENERO DE 2018)</small>
 
@@ -419,7 +431,9 @@ El Ejecutivo del Estado podrá celebrar convenios con el Ejecutivo Federal, los 
 
 El Ayuntamiento de cada uno de los municipios que integran el Estado de Sonora podrá, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal, promover y prestar servicios educativos de cualquier tipo o modalidad. Asimismo, podrá realizar actividades tales como:
 
-I.- Editar libros y producir otros materiales didácticos distintos a los libros de texto gratuito, para lo cual deberá sujetarse a los lineamientos que fije la autoridad educativa federal;
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+I.- Editar libros en formatos accesibles, y producir otros materiales didácticos distintos a los libros de texto gratuito, para lo cual deberá sujetarse a los lineamientos que fije la autoridad educativa federal;
 
 II.- Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al sistema educativo nacional, a la innovación educativa y a la investigación científica, tecnológica y humanística;
 
@@ -537,15 +551,19 @@ La educación básica en sus tres niveles, tendrá las adaptaciones requeridas p
 
 La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad, incluye orientación a padres de familia o tutores para la educación de sus hijas, hijos o pupilos, incluyendo la salud mental, menores con discapacidades físicas, sensoriales y psíquicas, o cualquier otra condición o circunstancia personal o social.
 
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 37.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquéllos con aptitudes sobresalientes y atenderá a los alumnos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
+La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquéllos con aptitudes sobresalientes. La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como de aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
-Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular mediante la aplicación de métodos, técnicas y materiales específicos.
-
-Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+Tratándose de personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
 
 Esta educación incluye orientación y asesoramiento a los padres de familia, tutores o quienes ejerzan la patria potestad, así como también a los maestros y personal de educación básica, tanto en escuelas públicas como en privadas, que integren a alumnos con necesidades especiales de educación.
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL PÁRRAFO TERCERO DE ESTE ARTÍCULO.]</small>
+
+Esta educación incluye orientación y asesoramiento a los padres de familia, tutores o quienes ejerzan la patria potestad, así como también a los maestros y personal de educación básica, tanto en escuelas públicas como en privadas, que integren a alumnos con necesidades especiales de educación. Asimismo, incluirá programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes.
 
 ###### ARTÍCULO 38.
 
@@ -955,7 +973,7 @@ El servicio de transporte escolar gratuito será prestado con los recursos mater
 
 Sin perjuicio de lo establecido en este artículo, los recursos materiales y humanos para la prestación del servicio de transporte escolar, podrán ser utilizados para la transportación de deportistas a que se refiere el párrafo tercero del artículo anterior.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO XI BIS. DE LA MEDIACIÓN ESCOLAR
 
@@ -1089,7 +1107,9 @@ XII.- Administrar a los alumnos, sin previa prescripción médica y consentimien
 
 XIII.- Promover en los alumnos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XIV.- Negar la inscripción o la prestación del servicio educativo a alumnos que padezcan alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora;
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+XIV.- Negar la inscripción o la prestación del servicio educativo a alumnos que padezcan alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora. De igual forma se sancionará si se segrega a la persona con discapacidad o que presente problemas de aprendizaje.
 
 XV.- Incumplir la obligación de otorgar al menos dos becas para alumnos que padezcan alguna discapacidad dictaminada por la Secretaría;
 
@@ -1267,8 +1287,20 @@ La Secretaría y la Comisión del Deporte del Estado de Sonora, cuentan con 90 d
 
 B.O. 1 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 221, QUE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 24 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 221, QUE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 24 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA".]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La autoridad educativa, en el ámbito de su competencia, efectuará, en un plazo no mayor (sic) 180 días contado a partir de la entrada en vigor del presente Decreto, los ajustes razonables y necesarios que garanticen la educación inclusiva, con atención al principio de progresividad.
