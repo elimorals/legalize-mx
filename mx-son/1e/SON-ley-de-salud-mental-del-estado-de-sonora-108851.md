@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-mental-del-estado-de-sonora-108851"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-16"
-last_updated: "2016-06-09"
+last_updated: "2018-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "SON"
 ---
 # LEY DE SALUD MENTAL DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD MENTAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el lunes 16 de diciembre de 2013.
 
@@ -116,6 +118,10 @@ IX.- Información de la salud mental: Acciones encaminadas a mejorar la salud me
 
 X.- Infraestructura: conjunto de instalaciones, construcciones, mobiliario y equipo, así como personal de salud, cuyo objeto sea otorgar los servicios de salud mental a la población;
 
+> <small>(ADICIONADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+X BIS.- Instituto.- Instituto Estatal de Salud Mental y Adicciones del Estado de Sonora;
+
 XI.- Ley General: Ley General de Salud;
 
 XII.- Ley de Salud: Ley 109, de Salud para el Estado de Sonora;
@@ -144,11 +150,11 @@ XXIII.- Secretaría: Secretaría de Salud del Estado de Sonora;
 
 XXIV.- Secretaría de Educación: Secretaría de Educación del Estado de Sonora.
 
-XXV.- Servicios de Salud de Sonora: Organismo Público Descentralizado del Gobierno del Estado de Sonora, dedicado a la operación de programas preventivos, así como a la atención médica y a la protección contra riesgos sanitarios;
+XXV.- (DEROGADA, B.O. 22 DE NOVIEMBRE DE 2018)
 
-> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-XXVI.- Sistema de Información: Sistema de Información, Vigilancia y Evaluación en Salud Mental y Adicciones, centro de información técnica, permanente y estratégico de consulta, dependiente de la Dirección General de Salud Mental y Adicciones;
+XXVI.- Sistema de Información: Sistema de Información, Vigilancia y Evaluación en Salud Mental y Adicciones, centro de información técnica, permanente y estratégico de consulta, dependiente del Instituto;
 
 XXVII.- Primer nivel de atención: atención otorgada por los Servicios de Salud de Sonora, el Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado de Sonora, los Sistemas Municipales para el Desarrollo Integral de los Municipios, las Unidades Especializadas en Salud Mental (UNEMES-CISAME) y cualquier otra institución de Gobierno, que preste algún servicio de salud a la población en general, mismos que deben estar actualizados en la materia;
 
@@ -276,21 +282,33 @@ XXVII.- A recibir un trato digno y con respeto a sus derechos humanos, por parte
 
 ## TÍTULO TERCERO. DE LAS ACCIONES PARA LA ATENCIÓN DE SALUD MENTAL Y ADICCIONES
 
-### CAPÍTULO I. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LOS SERVICIOS DE SALUD DE SONORA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2016)</small>
+### CAPÍTULO I. DEL INSTITUTO ESTATAL DE SALUD MENTAL Y ADICCIONES DEL ESTADO DE SONORA
+
+> <small>(ADICIONADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+#### SECCIÓN I. DE LA CREACIÓN, OBJETO Y FACULTADES DEL INSTITUTO ESTATAL DE SALUD MENTAL Y ADICCIONES DEL ESTADO DE SONORA
+
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 11.
 
-Para la prevención y promoción de la salud mental, los Servicios de Salud de Sonora, a través del (sic) Dirección General de Salud Mental y Adicciones, deberá:
+Se crea el Instituto Estatal de Salud Mental y Adicciones del Estado de Sonora, como un Organismo Público Descentralizado de la Administración Pública Estatal, dotado de personalidad jurídica y patrimonio propios, y sectorizado a la Secretaría de Salud, y que en lo sucesivo y para efecto de la presente Ley se le denominará el Instituto. El Instituto tendrá su domicilio en el municipio de Hermosillo, Sonora.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 11 Bis.
+
+El Instituto tendrá por objeto:
 
 I.- Dar a conocer las acciones que procuran una vida saludable a través de actividades educativas, recreativas y cívicas;
 
-II.- Motivar a la comunidad a la realización de acciones y proyectos que benefician a la salud; ello mediante la utilización de recursos destinados al fomento de la salud mental, apoyando actividades de las organizaciones del sector social y privado que estén avocadas en actividades y proyectos de salud mental;
+II.- Motivar a la comunidad a la realización de acciones y proyectos que benefician a la salud: ello mediante la utilización de recursos destinados al fomento de la salud mental, apoyando actividades de las organizaciones del sector social y privado que estén avocadas en actividades y proyectos de salud mental;
 
 III.- Apoyar y asesorar a grupos de autoayuda;
 
-IV.- Fortalecer las acciones comunitarias que aseguren los factores de protección;
+IV.- Fortalecer las acciones comunitarias que aseguren los factores de protección:
 
 V.- Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo, y colaborar en el desarrollo de las mismas, cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable;
 
@@ -298,11 +316,11 @@ VI.- Participar en las acciones de atención psicológica a personas afectadas e
 
 VII.- Elaborar, difundir y llevar a cabo los programas de salud mental, así como contribuir en su elaboración y aplicación cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-Corresponden al (sic) Dirección General de Salud Mental y Adicciones, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
+El Instituto tendrá las siguientes atribuciones:
 
 I.- Elaborar el Programa de Salud Mental para el Estado de Sonora, conforme a los lineamientos establecidos en la Ley General de Salud, las Normas Oficiales Mexicanas, y el presente ordenamiento, fomentando la participación de los sectores social y privado;
 
@@ -310,15 +328,15 @@ II.- Implementar de manera formal y sistemática programas en materia de salud m
 
 III.- Diseñar y ejecutar de manera permanente en los medios de difusión masiva campañas educativas para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes en la población, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención, y modos de atención, en coordinación con las dependencias e instituciones competentes;
 
-IV.- Coordinar y supervisar la Red Estatal de Salud Mental;
+IV.- Coordinar y supervisar la Red Estatal de Salud Mental:
 
 V.- Instalar, administrar y operar los Módulos de Atención en Salud Mental en las unidades hospitalarias;
 
-VI.- Instalar y administrar el Sistema de Información, Vigilancia y Evaluación en Salud Mental;
+VI.- Instalar y administrar el Sistema de Información, Vigilancia y Evaluación en Salud Mental:
 
 VII.- Instalar, administrar y operar la línea telefónica de Salud Mental y la página electrónica para brindar orientación y canalización, a los servicios de atención mental, en su caso;
 
-VIII.- Instalar, administrar y operar las unidades de atención ambulatoria inmediata y las unidades de hospitalización de corta estancia en los hospitales y centros de salud dependientes de los Servicios de Salud de Sonora;
+VIII.- Instalar, administrar y operar las unidades de atención ambulatoria inmediata y las unidades de hospitalización de corta estancia en los hospitales y centros de salud dependientes de los Instituto (sic);
 
 IX.- Llevar a cabo reuniones periódicas con los demás organismos centralizados, descentralizados y desconcentrados de la Administración Pública del Estado de Sonora, a efecto de suscribir los instrumentos jurídicos necesarios para generar las condiciones necesarias para la rehabilitación, invitando al sector social y privado que estén avocados a la salud mental a realizar propuestas o en su caso, emitir opinión al respecto;
 
@@ -326,39 +344,215 @@ X.- Fijar los lineamientos de coordinación para que los Municipios, en el ámbi
 
 XI.- Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la sensibilización, promoción, prevención, diagnóstico oportuno, tratamiento y rehabilitación en prestación de los servicios de salud mental;
 
-XII.- Coordinarse con la Secretaría del Trabajo, a efecto de establecer acciones y convenios para que las personas con trastornos mentales, puedan ser incluidos como parte de la plantilla laboral de las empresas e instituciones de Gobierno, mismas que se especificarán en el Reglamento de la presente Ley;
+XII.- Coordinarse con la Secretaría del Trabajo, a efecto de establecer acciones y convenios para que las personas con trastornos mentales, puedan ser incluidos como parte de la plantilla laboral de las empresas e instituciones de Gobierno, mismas que se especificarán en el Reglamento de la presente Ley:
 
 XIII.- Presentar un informe anual sobre las políticas públicas implementadas en materia de salud mental, así como el estado de avance en el cumplimiento del Programa de Salud Mental para el Estado de Sonora y los diversos programas generados, el cual deberán remitir al Congreso del Estado; y
 
 XIV.- Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 13.
 
-Los Servicios de Salud de Sonora deberán disponer de lo necesario para que se establezcan programas permanentes especiales de atención en salud mental, de acuerdo con las normas oficiales en la materia.
+El Instituto deberá disponer de lo necesario para que se establezcan programas permanentes especiales de atención en salud mental, de acuerdo con las normas oficiales en la materia.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 14.
 
-Las instituciones del sector público, privado y social que participen en programas y acciones en materia de salud mental, deberán remitir al (sic) Dirección General de Salud Mental y Adicciones, un informe anual sobre las estrategias implementadas y sus resultados.
+Las instituciones del sector público, privado y social que participen en programas y acciones en materia de salud mental, deberán remitir al Instituto, un informe anual sobre las estrategias implementadas y sus resultados.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+#### SECCIÓN II. DEL PATRIMONIO DEL INSTITUTO
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis.
+
+El Patrimonio del Instituto estará constituido por:
+
+I.- Los ingresos que obtenga por los servicios que preste el Instituto;
+
+II.- Las aportaciones, subsidios y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipales y los organismos de los sectores social y privado que coadyuven a su funcionamiento;
+
+III.- Los legados y donaciones otorgados en su favor y los fideicomisos en que se le señale como fideicomisaria;
+
+IV.- Los derechos, bienes muebles e inmuebles que adquiera por cualquier título jurídico para el cumplimiento de su objeto; y
+
+V.- Las utilidades, intereses, dividendos, rendimiento de sus bienes, así como los demás ingresos que adquiera por cualquier título legal.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 1.
+
+La Junta Directica (sic) podrá solicitar a la autoridad estatal competente, de conformidad con las disposiciones normativas aplicables, la desafectación de algún inmueble patrimonio del Instituto, cuando éste deje de estar sujeto a la prestación del servicio propio de su objeto, a fin de que sea inscrita su desafectación en el Registro Público de la Propiedad correspondiente, en cuyo caso el inmueble desafectado será considerado bien del dominio privado del Instituto y sujeto a las disposiciones de derecho común.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+#### SECCIÓN III. DE LOS ÓRGANOS DEL INSTITUTO
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 2.
+
+El Instituto contará con los siguientes órganos:
+
+I.- La Junta Directiva; y
+
+II.- El Director General.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 3.
+
+La Junta Directiva será la máxima autoridad del Instituto, y se integrará por:
+
+I.- Un presidente que será el Gobernador del Estado;
+
+II.- Un Presidente Ejecutivo, que será el Secretario de Salud Pública; y
+
+III.- Diez Vocales:
+
+a) Secretario de Hacienda;
+
+b) Secretario de Desarrollo Social;
+
+c) Secretario de Seguridad Pública;
+
+d) Secretario de Educación y Cultura;
+
+e) Secretario de Trabajo;
+
+f) Un representante de la Secretaría de Salud del Gobierno Federal;
+
+g) Un representante de la Secretaría de Desarrollo Social del Gobierno Federal;
+
+h) Un representante del Colegio de Psiquiatras del Estado de Sonora;
+
+i) Un representante de los Organismos Empresariales; y
+
+j) Un representante de las Organizaciones de Trabajadores.
+
+Por cada titular de la Junta Directiva, se hará respectivamente el nombramiento de un suplente. Los cargos de la Junta Directiva serán honoríficos por lo que por su desempeño no se percibirá retribución o compensación alguna.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 4.
+
+Las sesiones ordinarias y extraordinarias de la Junta Directiva se celebrarán conforme a los tiempos, formalidades y funcionamiento que se establezcan en la Ley Orgánica del Poder Ejecutivo del Estado de Sonora y demás normatividad aplicable.
+
+A las sesiones de la Junta Directiva asistirá el Director General, quien fungirá como Secretario Técnico, y un comisario designado por la Secretaría de la Contraloría General del Estado, quien será el responsable de validar el quórum legal y los acuerdos que se tomen en las sesiones. Ambos integrantes tendrán derecho a voz, pero sin voto.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 5.
+
+La Junta Directiva del Instituto, además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo del Estado, tendrá las siguientes facultades:
+
+I.- Dictar las políticas y lineamientos generales para el debido funcionamiento del Instituto;
+
+II.- Aprobar los reglamentos, estatutos, acuerdos y demás disposiciones normativas que regulen el funcionamiento del Instituto, así como sus modificaciones;
+
+III.- Las demás que señale la presente Ley y otras disposiciones normativas aplicables;
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 6.
+
+El Director General será el representante legal y titular de la administración del Instituto y tendrá las atribuciones, facultades y funciones que le señale la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, la presente Ley y las demás que se señalen en disposiciones jurídicas vigentes en el Estado, así como las que se establezcan en el Reglamento Interior del Instituto.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 7.
+
+El Director General del Instituto, será designado y removido por el Gobernador del Estado y durará en su cargo seis años, pudiendo ser ratificado por un período más.
+
+Para la designación del Director General del Instituto, la Junta Directiva podrá sugerir al Gobernador del Estado, una terna de aspirantes para ocupar el cargo.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 8.
+
+El Director General tendrá las atribuciones siguientes:
+
+I.- Conducir el funcionamiento del Instituto, vigilando el cumplimiento de su objeto, planes y programas académicos, administrativos y financieros, así como la correcta operación de las diversas áreas del Instituto;
+
+II.- Aplicar las políticas y ejecutar los acuerdos aprobados por la Junta Directiva del Instituto;
+
+III.- Presentar a la Junta Directiva, para su aprobación, el presupuesto anual de ingresos y de egresos;
+
+IV.- Proponer a la Junta Directiva, planes de desarrollo, programas operativos y aquellos de carácter especial que sean necesarios para el cumplimiento del objeto del Instituto;
+
+V.- Someter a la aprobación de la Junta Directiva, los proyectos de reglamentos y demás normatividad interna del Instituto, así como los manuales necesarios para su funcionamiento;
+
+VI.- Dar a conocer a la Junta Directiva, los nombramientos, renuncias y remociones del personal académico y administrativo del Instituto;
+
+VII.- Elaborar un informe cada cuatrimestre y presentarlo a la Junta Directiva para su aprobación, en el que se incluyan los estados financieros, el cumplimiento de los acuerdos tomados en sesiones anteriores y los avances de los programas de inversión, así como de las actividades desarrolladas por el Instituto;
+
+VIII.- Rendir a la Junta Directiva, para su aprobación, y a la comunidad universitaria, un informe anual de actividades institucionales;
+
+IX.- Representar legalmente al Instituto, con las facultades de un Apoderado General para Pleitos y Cobranzas y Actos de Administración en los más amplios términos de los dos primeros párrafos de los artículos 2831 del Código Civil para el Estado de Sonora y 2554 del Código Civil para el Distrito Federal, con todas las facultades generales y las especiales que requieran cláusulas especiales conforme a la Ley, incluyendo las facultades previstas en los artículos 2868 y 2567 de los Códigos anteriormente señalados, en su orden. Tendrá además facultades para Suscribir Títulos y Operaciones de Crédito, en los términos previstos en los artículos 9 y 85 de la Ley General de Títulos y Operaciones de Crédito. En materia laboral con toda clase de facultades para comparecer ante Autoridades Administrativas o Jurisdiccionales, contestando la demanda, ofreciendo pruebas e interviniendo en su desahogo; absolver y articular posiciones, igualmente para proponer y suscribir todo tipo de convenios conciliatorios que pongan fin al conflicto. También podrá designar Apoderados Generales y Especiales otorgándoles las facultades que le son concedidas, reservándose la facultad de revocar tales poderes;
+
+X.- Celebrar convenios, contratos y acuerdos con dependencias o entidades de la administración pública federal, estatal o municipal, organismos del sector social y privado, nacionales y extranjeros;
+
+XI.- Conocer de las infracciones a las disposiciones normativas del Instituto y aplicar, en el ámbito de su competencia, las sanciones correspondientes;
+
+XII.- Fungir como Secretario Técnico en las sesiones de la Junta Directiva;
+
+XIII.- Designar, nombrar y remover libremente al personal académico, técnico de apoyo y administrativo del Instituto;
+
+XIV.- Proponer a la Junta Directiva para su aprobación, de acuerdo a las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza; y
+
+XV.- Las demás que le confieran la Junta Directiva, el Reglamento Interior del Instituto y la normatividad aplicable.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+#### SECCIÓN IV. DEL CONTROL, EVALUACIÓN Y VIGILANCIA DEL INSTITUTO
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 9.
+
+Las funciones de control y evaluación de la gestión pública del Instituto, quedarán a cargo del Órgano de Control y Desarrollo Administrativo, y las de vigilancia, a cargo del Comisario Público Oficial y Ciudadano.
+
+El Titular (sic) Órgano de Control y Desarrollo Administrativo y los Comisarios Públicos Oficial y Ciudadano, serán designados por la Secretaría de la Contraloría General del Estado.
+
+El Órgano de Control y Desarrollo Administrativo y los Comisarios Públicos Oficial y Ciudadano, ejercerán sus funciones de acuerdo a las políticas y lineamientos que para tal efecto fije la Secretaría de la Contraloría General del Estado, así como en las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 10.
+
+El Instituto no podrá iniciar su función sino hasta que la Secretaría de la Contraloría General del Estado designe el o los organismos de control y vigilancia que corresponden.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+#### SECCIÓN V. DEL RÉGIMEN LABORAL
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis 11.
+
+Las condiciones laborales del personal del Instituto, se regirán por lo dispuesto en la Ley laboral aplicable.
 
 ### CAPÍTULO II. DEL PERSONAL DE SALUD PARA LA ATENCIÓN EN SALUD MENTAL
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 15.
 
-Para la prevención y atención de los trastornos mentales los Servicios de Salud de Sonora, a través del (sic) Dirección General de Salud Mental y Adicciones, contará con la estructura orgánica administrativa necesaria para garantizar la atención oportuna y expedita tomando como base el presupuesto que para tal efecto se le asigne y demás disposiciones aplicables.
+Para la prevención y atención de los trastornos mentales, el Instituto contará con la estructura orgánica administrativa necesaria para garantizar la atención oportuna y expedita tomando como base el presupuesto que para tal efecto se le asigne y demás disposiciones aplicables.
 
 ###### Artículo 16.
 
 La atención que preste el personal de salud mental, público, social y privado, se dispensará siempre con arreglo a esta Ley, a las normas éticas de los profesionales de salud mental, en particular las normas aceptadas internacionalmente, como los “Principios de Ética Médica Aplicables a la Función del Personal de Salud”, aprobadas por la Asamblea General de las Naciones Unidas. En ningún caso se hará uso indebido de los conocimientos y las técnicas terapéuticas.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-Para efectos de contratación del personal necesario y considerando la prioridad de atención de salud mental en la población, los Servicios de Salud de Sonora, a través del (sic) Dirección General de Salud Mental y Adicciones, determinará los criterios para el cumplimiento de los objetivos de la presente Ley.
+Para efectos de contratación del personal necesario y considerando la prioridad de atención de salud mental en la población, el Instituto, determinará los criterios para el cumplimiento de los objetivos de la presente Ley.
 
 ###### Artículo 18.
 
@@ -390,15 +584,19 @@ La atención que proporcionen los prestadores de servicio de salud mental deber�
 
 Todos los prestadores de servicios de salud mental del sector social, público y privado, participarán y coadyuvarán con las instancias involucradas en el diseño, operación y seguimiento de programas de educación para la salud mental que contemplen la sensibilización, prevención y detección temprana de los trastornos mentales, mismos que serán dirigidos a la población en general, para tal efecto deberán:
 
-> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-I.- Asistir a las convocatorias que realice el (sic) Dirección General de Salud Mental y Adicciones;
+I.- Asistir a las convocatorias que realice el Instituto;
 
-II.- Coordinarse con los Servicios de Salud de Sonora, para fomentar la suscripción de convenios o acuerdos para beneficio de la sociedad;
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+II.- Coordinarse con el Instituto, para fomentar la suscripción de convenios o acuerdos para beneficio de la sociedad;
 
 III.- Participar en la difusión y publicación en los diversos medios de comunicación sobre la importancia de la detección temprana de los trastornos mentales y las alternativas para su atención en los sectores público, social y privado; y
 
-IV.- Llevar a cabo cursos de capacitación para la población en general a efecto de crear condiciones para la detección oportuna de los trastornos mentales, conforme a los lineamientos que dicten los Servicios de Salud de Sonora.
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Llevar a cabo cursos de capacitación para la población en general a efecto de crear condiciones para la detección oportuna de los trastornos mentales, conforme a los lineamientos que dicten (sic) el Instituto.
 
 ### CAPÍTULO IV. DE LA EVALUACIÓN CLÍNICA Y EL TRATAMIENTO
 
@@ -426,11 +624,11 @@ La evaluación y el diagnóstico clínico, deberán realizarse por el personal d
 
 El Psicoterapeuta, debe ser personal de salud con cédula profesional y con estudios en psicoterapia, realizados en instituciones que cuenten con validez oficial.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 30.
 
-La consulta psicoterapéutica que proporcione el (sic) Dirección General de Salud Mental y Adicciones se realizará en los Módulos de Salud Mental de los Centros de Salud o en la consulta externa de la unidad hospitalaria de los Servicios de Salud, que cuente con Módulo de Salud Mental.
+La consulta psicoterapéutica que proporcione el Instituto se realizará en los Módulos de Salud Mental de los Centros de Salud o en la consulta externa de la unidad hospitalaria de los Servicios de Salud, que cuente con Módulo de Salud Mental.
 
 ###### Artículo 31.
 
@@ -462,21 +660,27 @@ Con la finalidad de dar seguimiento a las personas usuarias de los servicios de 
 
 Para efectos del presente Capítulo, se consideran trastornos mentales en particular, aquellas afecciones psicopatológicas que presentan las personas y que requieren una atención prioritaria derivado del grado de peligrosidad para la vida de la persona usuaria, de terceros o de los bienes propios y de terceros.
 
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 38.
 
-Derivado de los trastornos mentales que se presentan en la sociedad y en virtud de que cada uno de ellos requieren atención especializada, los Servicios de Salud de Sonora, buscarán dar prioridad a la niñez, adolescencia, juventud, mujeres con especial atención en condiciones de embarazo y puerperio, menopausia, en adultos mayores, grupos indígenas, población migrante, población en pobreza extrema y en personas que se encuentran en situación de calle, de emergencia o desastre.
+Derivado de los trastornos mentales que se presentan en la sociedad y en virtud de que cada uno de ellos requieren atención especializada, el Instituto buscará dar prioridad a la niñez, adolescencia, juventud, mujeres con especial atención en condiciones de embarazo y puerperio, menopausia, en adultos mayores, grupos indígenas, población migrante, población en pobreza extrema y en personas que se encuentran en situación de calle, de emergencia o desastre.
+
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 39.
 
-Los Servicios de Salud de Sonora, en coordinación con la Secretaría de Educación, llevarán a cabo acciones de coordinación para la aplicación de programas relacionados con la salud mental infantil en educación inicial y primaria, así como proporcionar material informativo básico en salud mental a los padres de familia, con el fin de identificar y prevenir algún tipo de trastorno mental en el menor y aplicar las medidas conducentes.
+El Instituto, en coordinación con la Secretaría de Educación, llevarán a cabo acciones de coordinación para la aplicación de programas relacionados con la salud mental infantil en educación inicial y primaria, así como proporcionar material informativo básico en salud mental a los padres de familia, con el fin de identificar y prevenir algún tipo de trastorno mental en el menor y aplicar las medidas conducentes.
 
 ###### Artículo 40.
 
 La Secretaría de Educación deberá expedir la normatividad necesaria para que las instituciones de educación privada apliquen las acciones señaladas en el artículo anterior.
 
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 41.
 
-Los Servicios de Salud de Sonora, llevarán a cabo acciones en coordinación con los sectores público, social y privado, para la aplicación de programas relacionados con la salud mental del adulto mayor, así como proporcionar material informativo básico en salud mental a la familia, con el fin de identificar y prevenir algún tipo de trastorno mental en él y, en su caso, recibirá orientación, asesoría y apoyo psicoterapéutico para mejorar su calidad de vida.
+El Instituto llevará a cabo acciones en coordinación con los sectores público, social y privado, para la aplicación de programas relacionados con la salud mental del adulto mayor, así como proporcionar material informativo básico en salud mental a la familia, con el fin de identificar y prevenir algún tipo de trastorno mental en él y, en su caso, recibirá orientación, asesoría y apoyo psicoterapéutico para mejorar su calidad de vida.
 
 ###### Artículo 42.
 
@@ -546,11 +750,11 @@ Para los internamientos voluntarios, de emergencia o por orden de autoridad, los
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL DE INFORMACIÓN, VIGILANCIA Y EVALUACIÓN EN SALUD MENTAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 50.
 
-El Sistema de Información, Vigilancia y Evaluación en Salud Mental, funcionará como un centro de información técnico, permanente y estratégico de consulta, dependiente de la Dirección General de Salud Mental y Adicciones, cuyo objetivo principal será llevar a cabo estudios científicos en materia de salud mental, dirigido hacia la población del Estado de Sonora, de conformidad con lo establecido en la Ley de Salud y demás ordenamientos aplicables.
+El Sistema de Información, Vigilancia y Evaluación en Salud Mental, funcionará como un centro de información técnico, permanente y estratégico de consulta, dependiente del Instituto cuyo objetivo principal será llevar a cabo estudios científicos en materia de salud mental, dirigido hacia la población del Estado de Sonora, de conformidad con lo establecido en la Ley de Salud y demás ordenamientos aplicables.
 
 Su integración y funcionamiento será determinado en el Reglamento de la presente Ley.
 
@@ -562,9 +766,9 @@ I.- Desarrollar los métodos científicos de información e investigación sobre
 
 II.- Proponer programas de actualización y capacitación para servidores públicos y privados para el manejo de información en materia de salud mental;
 
-> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-III.- Brindar asesoría y proporcionar información a las Unidades del (sic) Dirección General de Salud Mental y Adicciones;
+III.- Brindar asesoría y proporcionar información a las Unidades del Instituto;
 
 IV.- Mantener la confidencialidad y protección de los datos e información de los derechos de las personas con algún trastorno mental, atendiendo en todo momento lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora y demás legislación aplicable; y
 
@@ -572,19 +776,23 @@ V.- Las demás que le confiera la presente Ley y el Reglamento.
 
 ### CAPÍTULO II. DE LA RED ESTATAL DE SALUD MENTAL
 
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 52.
 
 La Red de Salud estará integrada por los siguientes niveles de atención:
 
-I.- Primer nivel de atención: atención otorgada por las Unidades Especializadas en Salud Mental de los Servicios de Salud de Sonora y cualquier otra institución de Gobierno, que preste algún servicio de salud a la población en general;
+I.- Primer nivel de atención: atención otorgada por las Unidades Especializadas en Salud Mental del Instituto y cualquier otra institución de Gobierno, que preste algún servicio de salud a la población en general;
 
-II.- Segundo nivel de atención: atención hospitalaria y ambulatoria otorgada por las unidades médicas dependientes de de (sic) los Servicios de Salud de Sonora y cualquier otra institución de Gobierno, que preste este servicio de salud a la población en general; y
+II.- Segundo nivel de atención: atención hospitalaria y ambulatoria otorgada por las unidades médicas dependientes del Instituto y cualquier otra institución de Gobierno, que preste este servicio de salud a la población en general; y
 
-III.- Tercer nivel de atención: atención hospitalaria y ambulatoria otorgada por las Unidades Médicas de Especialidades dependientes de los Servicios de Salud en Sonora.
+III.- Tercer nivel de atención: atención hospitalaria y ambulatoria otorgada por las Unidades Médicas de Especialidades dependientes del Instituto.
+
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 53.
 
-Para la correcta operación de la Red de Salud, los Servicios de Salud de Sonora, deberán procurar la creación en cada hospital de nivel especializado de menor complejidad, una Unidad de Atención Ambulatoria Inmediata y una Unidad de Hospitalización de Corta Estancia, un servicio de hospital de día e incluir servicios de atención a niños y adolescentes y de Geriatría. Estos servicios deberán ofrecerse con el concurso de los recursos humanos especializados existentes y en forma inter o transdisciplinaria. De no existir recursos humanos, dispondrá la designación y capacitación de los mismos.
+Para la correcta operación de la Red de Salud, el Instituto deberá procurar la creación en cada hospital de nivel especializado de menor complejidad, una Unidad de Atención Ambulatoria Inmediata y una Unidad de Hospitalización de Corta Estancia, un servicio de hospital de día e incluir servicios de atención a niños y adolescentes y de Geriatría. Estos servicios deberán ofrecerse con el concurso de los recursos humanos especializados existentes y en forma inter o transdisciplinaria. De no existir recursos humanos, dispondrá la designación y capacitación de los mismos.
 
 ###### Artículo 54.
 
@@ -652,15 +860,17 @@ VIII.- Las demás que le reconozca la presente Ley y demás disposiciones normat
 
 El presupuesto en materia de salud mental constituye una acción de interés social, por ello resulta indispensable el financiamiento de las acciones y fines a que se refiere la presente Ley.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 59.
 
-El Titular del Poder Ejecutivo al remitir al Congreso Local la Iniciativa de Decreto por el que se apruebe el Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda, deberá considerar dentro del rubro asignado a los Servicios de Salud de Sonora, los recursos suficientes para la operación, organización, planeación, supervisión y evaluación de la Dirección General de Salud Mental y Adicciones.
+El Titular del Poder Ejecutivo al remitir al Congreso Local la Iniciativa de Decreto por el que se apruebe el Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda, deberá asignar los recursos suficientes para la operación, organización, planeación, supervisión y evaluación del Instituto.
+
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 60.
 
-Los Servicios de Salud de Sonora, deberán considerar en la erogación del recurso asignado, medidas a mediano y largo plazo para la creación de Unidades Especializadas en Salud Mental, a efecto de cubrir la demanda de atención que se presente en el Estado de Sonora.
+El Instituto, deberá considerar en la erogación del recurso asignado, medidas a mediano y largo plazo para la creación de Unidades Especializadas en Salud Mental, a efecto de cubrir la demanda de atención que se presente en el Estado de Sonora.
 
 ## TRANSITORIOS
 
@@ -724,6 +934,10 @@ ROBERTO ROMERO LÓPEZ
 
 B.O. 9 DE JUNIO DE 2016.
 
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 59, QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO PRIMERO.
@@ -733,3 +947,31 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El titular de los Servicios de Salud del Estado de Sonora, a partir de la entrada en vigor del presente Decreto, contará con un plazo no mayor a 60 días para actualizar su marco normativo, a fin de que el mismo sea acorde a lo dispuesto en el presente Decreto.
+
+B.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 229 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil diecinueve, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Junta Directiva deberá quedar instalada dentro del plazo de treinta días naturales, contados a partir del día siguiente al inicio de la vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Junta Directiva expedirá el Reglamento Interior del Instituto, dentro del plazo de ciento veinte días, contado a partir de la integración e instalación de la Junta Directiva.
+
+###### ARTÍCULO CUARTO.
+
+Para la operación del Instituto, las Secretarias de Hacienda y de Salud Pública, proveerán los medios presupuestarios necesarios para el cumplimiento del objeto del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El recurso humano, material y financiero de la Dirección General de Salud Mental y Adicciones, pasará al Instituto Estatal de Salud Mental y Adicciones.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos de los trabajadores de la Dirección General de Salud Mental y Adicciones serán respetados conforme a las disposiciones de la Ley del Servicio Civil del Estado de Sonora.
