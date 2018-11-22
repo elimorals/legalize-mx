@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2018-09-27"
+last_updated: "2018-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -2775,35 +2775,29 @@ Si al momento de dictar su resolución, el Juez Calificador encuentra que el suj
 
 El Juez Calificador podrá conmutar las sanciones decretadas, aplicando en su lugar la amonestación, siempre y cuando el infractor se encuentre en la hipótesis a que alude el primer párrafo del artículo anterior.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ## TÍTULO TERCERO
 
-DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS, MEDIDAS DE SEGURIDAD, SUPERVISION DE MEDIDAS CAUTELARES, DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO Y EVALUACION DE RIESGO.
+DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPÍTULO I. DE LAS FACULTADES DE LA DIRECCION
 
-> <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 259.
 
-Facultades de Dirección General de Ejecución de Penas, Medidas de Seguridad, Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+Facultades de Dirección General de Ejecución de Penas y Medidas de Seguridad, dependiente de la Secretaría de Seguridad Pública, tiene las siguientes facultades;
 
-La Dirección General, dependiente de la Secretaría de Seguridad Pública, tiene las siguientes facultades;
-
-I. En materia de evaluación de riesgos que representa el imputado.
-
-a) Elaborar un análisis de evaluación de riesgo, de manera objetiva, imparcial y neutral, dentro de las cuarenta y ocho horas siguientes a la detención del imputado.
-
-II. En materia de medidas judiciales dictadas durante el proceso.
+I. En materia de medidas judiciales dictadas durante el proceso, en coordinación con la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso, dependiente de la Fiscalía General de Justicia:
 
 a) Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva y las condiciones a cargo del imputado en caso de suspensión condicional del proceso, así como hacer sugerencias sobre cualquier cambio que amerite alguna modificación de las medidas u obligaciones impuestas;
 
 b) Entrevistar periódicamente a la víctima o testigo del delito, con el objeto de dar seguimiento al cumplimiento de la medida cautelar impuesta o las condiciones de la suspensión condicional del proceso y canalizarlos, en su caso, a la autoridad correspondiente;
 
-c) Realizar entrevistas así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el imputado;
+c) Realizar entrevistas, así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el imputado;
 
 d) Verificar la localización del imputado en su domicilio o en el lugar en donde se encuentre, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
 
@@ -2825,19 +2819,19 @@ l) Ejecutar las solicitudes de apoyo para la obtención de información que le r
 
 m) Canalizar al imputado a servicios sociales de asistencia, públicos o privados, en materias de salud, empleo, educación, vivienda y apoyo jurídico, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera.
 
-III. En materia de penas y medidas de seguridad.
+II. En materia de penas y medidas de seguridad:
 
 a) Ejecutar las penas de prisión y de relegación, sus modalidades y las resoluciones del Juez de Ejecución de Penas que de ella deriven;
 
 b) Vigilar y coordinar la ejecución de las penas y medidas de seguridad previstas en el Código Penal del Estado de Sonora en concordancia con el Código Nacional de Procedimientos Penales y demás leyes aplicables.
 
-IV. Dentro del Sistema:
+III. Dentro del Sistema:
 
 a) Prevenir la delincuencia en el Estado, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
 b) Supervisar los establecimientos penitenciarios en el Estado; proponer al Secretario la normatividad y demás lineamientos de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento;
 
-c) Intercambiar, trasladar, custodiar, vigilar y brindar tratamiento a toda persona que fuere privada de su libertad por orden de los Tribunales del Estado o de la autoridad competente, desde el momento de su ingreso a cualquier establecimiento;
+c) intercambiar, trasladar, custodiar, vigilar y brindar tratamiento a toda persona que fuere privado de su libertad por orden de los Tribunales del Estado o de la autoridad competente, desde el momento de su ingreso a cualquier establecimiento;
 
 d) Proponer los reglamentos interiores de los centros de reinserción, con estricto apego al principio de no discriminación por género y vigilar su exacta aplicación;
 
@@ -2847,11 +2841,11 @@ f) Resolver sobre las modificaciones no esenciales a las medidas impuestas, toma
 
 g) Organizar patronatos para personas liberadas;
 
-h) Coadyuvar en el mantenimiento de la estadística criminal del Estado;
+h) Coadyuvar en el mantenimiento de lo estadística criminal del Estado;
 
 i) Conocer de las quejas de los internos sobre el trato de que sean objeto, y hacerla del conocimiento de la autoridad que corresponda;
 
-j) Determinar los lugares en que deben estar recluidos los sordomudos y enfermos mentales aplicarles el tratamiento que se estime adecuado;
+j) Determinar los lugares en que deben estar recluidos los sordomudos y enfermos mentales, aplicarles el tratamiento que se estime adecuado;
 
 k) Por acuerdo del Secretario, asistir a las reuniones de la Conferencia Nacional del Sistema Penitenciario; y
 
@@ -3010,3 +3004,19 @@ B.O. 27 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA PARA EL ESTADO Y DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento de la Ley Orgánica de la Fiscalía General de Justicia y el de la Secretaría de Seguridad Pública, deberán de actualizarse en un periodo no mayor de 60 días hábiles después de la fecha de publicación en el Boletín Oficial del Gobierno del Estado de Sonora del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos y materiales asignados a las áreas de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso y Evaluación de Riesgo adscritas a la Dirección General de Ejecución de penas, Medidas de Seguridad, Supervisión de Medidas Cautelares, de la Suspensión Condicional del Proceso y Evaluación de Riesgo de la Secretaría de Seguridad Pública del Estado de Sonora, pasarán a formar parte de la Fiscalía General de Justicia del Estado de Sonora.
