@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2018-11-15"
+last_updated: "2018-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -35,7 +35,7 @@ Que el H. Congreso del Estado ha decretado lo siguiente:
 
 "La XXVII Legislatura del Estado con su carácter de Constituyente, ha tenido a bien expedir la siguiente
 
-CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
 ## TITULO I. DEL ESTADO Y SUS HABITANTES
 
@@ -1373,6 +1373,14 @@ V.- A los ciudadanos en un número equivalente, por lo menos, al cero punto trec
 
 La Ley del Congreso determinará el trámite que deba darse a las iniciativas.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+Durante los primeros quince días del periodo ordinario de sesiones el Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el Pleno del Congreso en un plazo máximo de treinta días naturales. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+No podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución.
+
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
 ###### Art. 65.
@@ -1393,13 +1401,19 @@ Ninguna iniciativa de ley o decreto que sea desechada podrá volver a presentars
 
 Las iniciativas adquirirán el carácter de ley o decreto cuando sean aprobadas por la mayoría de los diputados presentes en los términos de lo previsto por esta sección, y entrarán en vigor en la fecha que determine el Congreso; si éste no lo determina, serán vigentes a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### Art. 68.
 
-Las leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo, quien los sancionará y los mandará publicar y circular para su cumplimiento; pero éste podrá formular observaciones, dentro de los primeros treinta días naturales siguientes a su recepción, haciendo expresión por escrito de las razones que estime pertinentes. El Congreso tomará en cuenta las observaciones que reciba y previo su examen, discutirá nuevamente el proyecto; el Ejecutivo podrá nombrar un representante para que asista con voz a la deliberación que se celebre. Concluida ésta, se votará el dictamen correspondiente y se tendrá por aprobado con el voto de las dos terceras partes de los diputados presentes. Si la ley o decreto resulta aprobada, se remitirá al Ejecutivo para su promulgación y publicación inmediatas.
+Las leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo para efectos de su sanción, promulgación, publicación y circulación para su conocimiento. El Ejecutivo podrá formular observaciones, en todo o en parte.
 
-Si transcurrido el plazo para hacer observaciones sin que se haya formulado alguna, o si una vez aprobado por la mayoría calificada referida el dictamen recaído a las observaciones formuladas, el Ejecutivo no promulga y publica la ley o decreto en un término de diez días naturales, dicha ley o decreto será considerado promulgado y, vencido este último plazo, el Presidente de la Mesa Directiva o, en su caso, el Presidente de la Diputación Permanente ordenará dentro de los diez días naturales siguientes su publicación en el Periódico Oficial del Estado, sin que se requiera refrendo. Los plazos señalados en este artículo no se interrumpirán si el Congreso cierra o suspende sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
+Se entenderá aprobado por el Ejecutivo todo proyecto no devuelto con observaciones dentro de los treinta días naturales siguientes a su recepción. Vencido ese plazo, el Ejecutivo dispondrá de diez días naturales para promulgar, publicar y circular la ley o decreto. En caso de que el Ejecutivo no proceda en estos términos, la ley o decreto será considerado promulgado y el Presidente de la Mesa Directiva o de la Diputación Permanente ordenará, dentro de los diez días naturales siguientes, su publicación y circulación, sin que se requiera refrendo.
+
+En el supuesto de que el Ejecutivo deseche en todo la ley o decreto aprobado, el Congreso deberá examinar y discutir las observaciones formuladas, en un plazo no mayor a diez días naturales contados a partir de la devolución; en el supuesto de que el Congreso se encuentre en receso, en los primeros diez días del periodo de sesiones ordinarias siguiente. El Ejecutivo podrá nombrar un representante para que asista con voz a la deliberación que se celebre. La ley o decreto devuelto por el Ejecutivo se reputará promulgado cuando fuese confirmado por el voto de las dos terceras partes de los diputados presentes, sin que se requiera refrendo.
+
+Si el Ejecutivo devuelve con observaciones en parte la ley o decreto, el Congreso deberá examinar y discutir las observaciones en los plazos previstos en el párrafo anterior. El Congreso, por mayoría de votos de los diputados presentes, podrá adoptar las adiciones o modificaciones realizadas por el Ejecutivo, con excepción de las reformas a la Constitución Política local en donde se observará lo dispuesto por su artículo 165; o, en su caso, confirmar las partes o porciones observadas, por mayoría calificada de dos terceras partes de los presentes. Transcurrido el plazo previsto para la nueva discusión sin que el Congreso se hubiese pronunciado, el Ejecutivo podrá ordenar la promulgación, publicación y circulación de la ley o decreto en todo aquello que no fuese desechado.
+
+Los plazos a que se refiere este artículo no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -2691,9 +2705,9 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 Cuando dos o más centros urbanos situados en territorios municipales de este Estado y otro u otros Estados formen o tiendan a formar una continuidad demográfica, la Federación, las entidades federativas participantes y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-No estará permitido en el Estado expedir autorizaciones, permisos o licencias sobre uso de suelo o construcción para casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, así como para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales. Los programas de ordenamiento territorial y desarrollo urbano municipal deberán establecer esta prohibición en su contenido.
+No estará permitido en el Estado expedir autorizaciones, permisos o licencias sobre uso de suelo o construcción para centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales. Los programas de ordenamiento territorial y desarrollo urbano municipal deberán establecer esta prohibición en su contenido.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -4840,3 +4854,39 @@ El Fiscal Especializado en Combate a la Corrupción actualmente designado de acu
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 El Congreso del Estado deberá aprobar todas las disposiciones necesarias dentro del Presupuesto de Egresos a fin de garantizar la suficiencia presupuestal del plan de transición de la Fiscalía General de Justicia del Estado que apruebe la Comisión Técnica
+
+P.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-529 MEDIANTE EL CUAL SE ADICIONAN UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-530 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 68 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-531 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de un plazo de no más de sesenta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá el Reglamento que establezca los mecanismos y acciones que prevengan y regulen la atención integral a personas con ludopatía.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
