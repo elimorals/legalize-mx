@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-educacion-publica-y-648
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-12-31"
-last_updated: "1993-12-31"
+last_updated: "2018-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA Y CULTURA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA Y CULTURA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA Y CULTURA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 31 de diciembre de 1993.
 
@@ -43,9 +43,11 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA Y CULTURA
 
 La Secretaría de Educación Pública y Cultura es la Dependencia del Poder Ejecutivo del Estado que tiene a su cargo las atribuciones y despacho de los asuntos relacionados con la educación que expresamente le señale la Constitución Política del Estado de Sinaloa, la Ley de Educación para el Estado de Sinaloa, la Ley Orgánica de la Administración Pública del Estado, el Reglamento Orgánico de la Administración Pública, el presente Reglamento, y las demás que le confieran expresamente otras leyes, decretos, reglamentos y específicamente los que deriven de los acuerdos del C. Gobernador Constitucional del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 2°.
 
-Para el despacho de los asuntos de su competencia, la Secretaría de Educación Pública y Cultura contará con las siguientes unidades administrativas:
+Para el estudio, planeación, atención y despacho de los asuntos de su competencia, la Secretaría de Educación Pública y Cultura contará con las siguientes unidades administrativas:
 
 Despacho del C. Secretario de Educación Pública y Cultura;
 
@@ -56,6 +58,8 @@ Subsecretaría de Educación Básica;
 Subsecretaría de Educación Media y Superior;
 
 Subsecretaría de Planeación Educativa;
+
+Subsecretaría de Vinculación Social;
 
 Dirección de Educación Preescolar;
 
@@ -71,6 +75,10 @@ Dirección de Formación y Desarrollo Docente;
 
 Dirección de Planeación y Evaluación;
 
+Dirección de Vinculación Social;
+
+Coordinación Estatal de Escuela y Salud;
+
 Dirección de Organismos Sectorizados;
 
 Dirección de Investigación Educativa;
@@ -79,7 +87,7 @@ Contraloría Interna;
 
 Coordinación Administrativa; y
 
-Dirección de Apoyo y Control de los Recursos Humanos; (sic)
+Dirección de Apoyo y Control de los Recursos Humanos.
 
 ###### ARTICULO 3°.
 
@@ -171,9 +179,17 @@ XXIX.- Aprobar y expedir los manuales de organización, de procedimientos y de s
 
 XXX.- Delegar con el Subsecretario de Planeación Educativa la facultad de firmar los certificados, constancias y diplomas que no requieran de registro ante la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
-XXXI.- Establecer y aplicar las políticas de coordinación para la prestación de los servicios de educación básica que brindan la Secretaría de Educación Pública y Cultura y los Servicios de Educación Pública Descentralizada del Estado de Sinaloa, con base en el Acuerdo Nacional para la Modernización de la Educación Básica; y
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XXXII.- Las demás que le atribuyen las leyes, decretos, reglamentos y acuerdos o que expresamente le encomiende el C. Gobernador del Estado; (sic)
+XXXI.- Aprobar los planes, programas, lineamientos y proyectos estratégicos con la finalidad de impulsar y elevar la calidad del sector educativo;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXII.- Promover y supervisar las actividades de información, relaciones públicas, difusión educativa y extensión cultural a fin de fortalecer el sector educativo;
+
+XXXIII.- Establecer y aplicar las políticas de coordinación para la prestación de los servicios de educación básica que brindan la Secretaría de Educación Pública y Cultura y los Servicios de Educación Pública Descentralizada del Estado de Sinaloa, con base en el Acuerdo Nacional para la Modernización de la Educación Básica; y
+
+XXXIV.- Las demás que le atribuyen las leyes, decretos, reglamentos y acuerdos o que expresamente le encomiende el C. Gobernador del Estado.
 
 ### CAPITULO III. DE LA SECRETARIA PARTICULAR
 
@@ -589,13 +605,107 @@ Dirección de Organismos Sectorizados; y
 
 Dirección de Investigación Educativa.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+### CAPITULO XIII BIS. DE LAS ATRIBUCIONES DEL SUBSECRETARIO DE VINCULACION SOCIAL
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 26 BIS.- Además de las atribuciones comunes de los Subsecretarios, al Subsecretario de Vinculación Social le compete lo siguiente:
+
+I.- Proponer al Secretario la elaboración de proyectos estratégicos para impulsar y elevar la calidad de la educación;
+
+II.- Llevar a cabo los proyectos estratégicos autorizados por el Secretario, con el fin de impulsar el crecimiento del sector, así como el fortalecimiento de la educación;
+
+III.- Planear, organizar y coordinar las actividades de información, relaciones públicas, difusión educativa y extensión cultural;
+
+IV.- Coadyuvar a incrementar el aprovechamiento escolar, mediante la realización de intervenciones intersectoriales anticipatorias, integradas y efectivas, con los niños, niñas y adolescentes que cursan la educación básica, que les permitan desarrollar capacidades para ejercer mayor control sobre los determinantes causales de su salud y mejorarla.
+
+V.- Establecer coordinación con las demás áreas de la Secretaría para definir los lineamientos, estrategias, programas y acciones en las que se ha de fundamentar la vinculación del sector educativo, tanto con la sociedad como con otras instituciones, organismos y organizaciones de los sectores público, privado y social;
+
+VI.- Impulsar programas orientados a fortalecer la participación social en apoyo a la educación, tomando en cuenta sus diversas expresiones como Consejos de Participación Social, Asociaciones de Padres de Familia, Sociedades de Alumnos; así como organismos y organizaciones afines a la educación;
+
+VII.- Coordinar la elaboración de programas que orienten la estructura del sector educativo hacia una actitud más humana, productiva, de calidad y alta eficiencia;
+
+VIII.- Establecer los apoyos logísticos que se requieran en las diversas áreas de la Secretaría para la realización de eventos especiales;
+
+IX.- Procesar y orientar la información que se genere en el sector educativo para la eficaz difusión de los diferentes proyectos y programas;
+
+X.- Fortalecer programas culturales, creando espacios para rescatar la experiencia y creatividad de los docentes y elementos de la sociedad interesados en la educación, coordinando acciones con otros organismos e instituciones para el fomento de la cultura; y
+
+XI.- Realizar todas aquellas acciones sustentadas en las normas, que le indique el Secretario.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 26 BIS A.- Para el despacho de los asuntos de su competencia, la Subsecretaría de Vinculación Social contará con las áreas administrativas siguientes:
+
+Dirección de Vinculación Social; y
+
+Coordinación Estatal de Escuela y Salud.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+### CAPITULO XIII BIS A. DE LA DIRECCION DE VINCULACION SOCIAL
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 26 BIS B.- Compete a la Dirección de Vinculación Social.
+
+I.- Formular anteproyectos estratégicos para impulsar y elevar la calidad de la educación;
+
+II.- Coadyuvar con las actividades de información, relaciones públicas, difusión educativa y extensión cultural, a fin de fortalecer el sector educativo;
+
+III.- Diseñar los lineamientos, estrategias, programas a fin de impulsar el crecimiento del sector, así como el fortalecimiento de la educación.
+
+IV.- Llevar a cabo acciones en las que se ha de fundamentar la vinculación del sector educativo, tanto con la sociedad como con otras instituciones, organismos y organizaciones de los sectores público, privado y social;
+
+V.- Estudiar y proyectar programas orientados a fortalecer la participación social en apoyo a la educación, tomando en cuenta sus diversas expresiones como: Consejos de Participación Social, Asociaciones de Padres de Familia, Sociedades de Alumnos; así como organismos y organizaciones afines a la educación;
+
+VI.- Coordinar sus actividades con las demás direcciones, cuando así se requiera para el mejor funcionamiento de la Subsecretaria;
+
+VII.- Realizar el trámite de registro de derecho de autor ante el Instituto Nacional del Derecho de Autor; y
+
+VIII.- Las demás que le confieran las leyes, decretos, reglamentos y acuerdos o que expresamente le encomiende el Titular del Ejecutivo del Estado o el Secretario.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 26 BIS C.- Para el despacho de los asuntos de su competencia, la Dirección de Vinculación Social contará con las siguientes áreas administrativas
+
+Departamento de Programas Institucionales;
+
+Departamento de Atención Telefónica Ciudadana 01800;
+
+Departamento de Registro de Derechos de Autor; y
+
+Centro Cultural del Magisterio Sinaloense "Casa Achoy"
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+### CAPITULO XIII BIS B. DE LA COORDINACION ESTATAL DE ESCUELA Y SALUD
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 26 BIS D.- Compete a la Coordinación Estatal de Escuela y Salud
+
+I.- Llevar a cabo acciones para incrementar el aprovechamiento escolar mediante la realización de intervenciones intersectoriales anticipatorias, integradas y efectivas, con los niños, niñas y adolescentes que cursan la educación básica, que les permitan desarrollar capacidades para ejercer mayor control sobre los determinantes causales de su salud y mejorarla.
+
+II.- Proponer, conducir y ejecutar políticas y acciones en materia escolar que incluyan prioritariamente la promoción de la salud y la prevención de riesgos y enfermedades;
+
+III.- En coordinación con la Secretaría de Salud, intensificar acciones educativas para que las y los educandos adquieran hábitos saludables, mantengan un cuerpo sano y eviten conductas de riesgo;
+
+IV.- Operar comedores escolares para mejorar la salud y el desarrollo de las y los educandos;
+
+V.- Proponer, difundir, vigilar y coadyuvar, en el ámbito de su competencia, a la observancia de la Ley General de Salud, Ley de Salud del Estado de Sinaloa, sus reglamentos, normas oficiales mexicanas y demás disposiciones aplicables en materia de salud escolar; y,
+
+VI.- Las demás que le confieran las leyes, decretos, reglamentos y acuerdos o que expresamente le encomiende el Titular del Ejecutivo del Estado o el Secretario.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 26 BIS E.- Para el despacho de los asuntos de su competencia, la Coordinación Estatal de Escuela y Salud contará con la siguiente área administrativa:
+
+Departamento de Impulso a la Salud en Ámbitos Escolares.
+
 ### CAPITULO XIV. DE LA DIRECCION DE PLANEACION Y EVALUACION
-
-### CAPITULO XV. DE LA DIRECCION DE ORGANISMOS SECTORIZADOS
-
-### CAPITULO XVI. DE LA DIRECCION DE INVESTIGACION EDUCATIVA
-
-### CAPITULO XVII. DE LAS DISPOSICIONES COMUNES DE LOS DIRECTORES
 
 ###### ARTICULO 27.
 
@@ -651,7 +761,7 @@ Departamento de Evaluación y Estadística; y
 
 Departamento de Registro y Control Escolar.
 
-### CAPITULO XVIII. DE LA CONTRALORIA INTERNA
+### CAPITULO XV. DE LA DIRECCION DE ORGANISMOS SECTORIZADOS
 
 ###### ARTICULO 29.
 
@@ -673,7 +783,7 @@ Departamento de Programación y Presupuesto; y
 
 Departamento de Estudios y Proyectos.
 
-### CAPITULO XIX. DE LA COORDINACION ADMINISTRATIVA
+### CAPITULO XVI. DE LA DIRECCION DE INVESTIGACION EDUCATIVA
 
 ###### ARTICULO 31.
 
@@ -701,7 +811,7 @@ Departamento de Programas de Posgrado e Investigación Científica; y
 
 Departamento de Investigación Educativa y Evaluación Curricular.
 
-### CAPITULO XX. DE LA DIRECCION DE APOYO Y CONTROL DE RECURSOS HUMANOS
+### CAPITULO XVII. DE LAS DISPOSICIONES COMUNES DE LOS DIRECTORES
 
 ###### ARTICULO 33.
 
@@ -737,7 +847,7 @@ XII.- Establecer las bases y normas relativas al otorgamiento de becas, por part
 
 XIII.- Las demás que les confieran las leyes, decretos, reglamentos y acuerdos o que expresamente les encomienden el C. Gobernador del Estado, el Secretario y los Subsecretarios.
 
-### CAPITULO XXI. DE LAS SUPLENCIAS
+### CAPITULO XVIII. DE LA CONTRALORIA INTERNA
 
 ###### ARTICULO 35.
 
@@ -785,6 +895,8 @@ Departamento de Auditoría Administrativa; y
 
 Departamento de Auditoría Financiera.
 
+### CAPITULO XIX. DE LA COORDINACION ADMINISTRATIVA
+
 ###### ARTICULO 37.
 
 Compete a la Coordinación Administrativa:
@@ -825,6 +937,8 @@ Coordinador; y
 
 Dirección de Apoyo y Control de Recursos Humanos; (sic)
 
+### CAPITULO XX. DE LA DIRECCION DE APOYO Y CONTROL DE RECURSOS HUMANOS
+
 ###### ARTICULO 39.
 
 Compete a la Dirección de Apoyo y Control de Recursos Humanos.
@@ -862,6 +976,8 @@ Departamento de Recursos Humanos;
 Departamento de Informática; y
 
 Departamento de Tecnología Educativa.
+
+### CAPITULO XXI. DE LAS SUPLENCIAS
 
 ###### ARTICULO 41.
 
@@ -912,3 +1028,13 @@ Francisco C. Frías Castro
 EL SECRETARIO DE EDUCACION PUBLICA Y CULTURA
 
 Gerónimo Martínez García
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA (SIC) Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA Y CULTURA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
