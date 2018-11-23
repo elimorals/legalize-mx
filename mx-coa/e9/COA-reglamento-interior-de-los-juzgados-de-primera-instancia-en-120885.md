@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-los-juzgados-de-primera-instancia-en-120
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-13"
-last_updated: "2017-01-13"
+last_updated: "2018-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LOS JUZGADOS DE PRIMERA INSTANCIA EN MATERIA PENAL DEL SISTEMA ACUSATORIO Y ORAL DEL PODER JUDICIAL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 13 de enero de 2017.
 
@@ -493,7 +493,13 @@ XII. Implementar los controles administrativos que resulten necesarios para el f
 
 XIII. Informar y dar vista al Consejo del incumplimiento del personal administrativo adscrito al órgano jurisdiccional en sus funciones que establece la Ley Orgánica, el presente Reglamento y las demás disposiciones aplicables y acuerdos del Consejo.
 
-XIV. Las demás que estime el Consejo y las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Suscribir los acuerdos administrativos de mero trámite que se precisan en el artículo 30 bis de este Reglamento.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XV. Las demás que estime el Consejo y las disposiciones legales aplicables.
 
 #### SECCIÓN TERCERA. DEL ADMINISTRADOR REGIONAL
 
@@ -677,6 +683,10 @@ e) Realizar la integración de las carpetas judiciales para su archivo y control
 
 f) Las demás que les confiera este ordenamiento u otras disposiciones legales aplicables.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+X. Suscribir los acuerdos administrativos de mero trámite que se precisan en el artículo 30 bis de este Reglamento.
+
 ###### ARTÍCULO 30.
 
 DE LOS ENCARGADOS DE CAUSA Y DE LOS ENCARGADOS AUXILIARES DE CAUSA.-
@@ -693,9 +703,79 @@ d) Integrar y dar seguimiento a las causas y cuadernillos que ingresen al juzgad
 
 e) Administrar y llevar el control y seguimiento del trámite procesal de las causas que le sean asignadas por Jefe de Causas, conforme a las leyes y disposiciones aplicables al caso concreto.
 
-f) Las demás que les confiera este ordenamiento u otras disposiciones legales aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+f) Suscribir los acuerdos administrativos de mero trámite que se precisan en el artículo 30 bis de este Reglamento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+g) Las demás que les confiera este ordenamiento u otras disposiciones legales aplicables.
 
 Para ser Encargado de Causa o Encargado Auxiliar de Causa se debe contar con título y cédula profesional de licenciado en derecho y tener experiencia mínima de dos años en las áreas de conocimiento, además de los establecidos por el Consejo en la cédula de perfil de puesto.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 30 BIS. El Administrador, Jefe de Causas o Encargado de Causa, tendrán las facultades siguientes.
+
+I. Emitir, firmar y ejecutar los acuerdos administrativos de mero trámite que a continuación se enlistan:
+
+a. Auto de inicio de causa con detenido y sin detenido.
+
+b. Citatorios.
+
+c. Acuerdos en los que se programan audiencias y se ordena notificación durante el proceso, excepto la revisión de medidas cautelares.
+
+d. Autos de inicio en cuadernillos auxiliares, tales como controles de garantías, actos de investigación y ratificación de medida de protección.
+
+e. Amparos en los que no sea cierto el acto reclamado.
+
+f. Exhortos cuando se ordene la notificación.
+
+g. Acuerdos de solicitud de copias de las carpetas administrativas, además de audio y video.
+
+h. Acuerdos de cambio de defensor.
+
+i. Oficios de traslado de imputados derivados de los autos de inicio de las causas.
+
+j. Vistas de incumplimiento de salidas alternas a las partes.
+
+k. Requerimiento de informes a las partes sobre el cumplimiento de las condiciones de la suspensión.
+
+II. Serán de firma exclusiva para los jueces, los siguientes acuerdos:
+
+1. Todo los asuntos relacionados con adolescentes.
+
+2. Decreto de extinción de la acción penal.
+
+3. Cualquier autorización en cuanto a las medidas cautelares impuestas.
+
+4. El acuerdo que recae al informe de la Unidad de Medidas Cautelares en el que se comunica el incumplimiento a una de las medidas y se hace efectivo el apercibimiento de arresto.
+
+5. Puesta a disposición del sentenciado.
+
+6. Autos de apertura, así como todos los complementarios que se dicten durante el juicio.
+
+7. Acuerdos que recaen sobre medios de impugnación.
+
+8. Acuerdos complementarios después de audiencia.
+
+9. Amparos en los que sea cierto el acto reclamado.
+
+10. Acuerdos en los que se niegue citar audiencia.
+
+11. Acuerdos que recaen en los exhortos cuando se niega diligenciarlos.
+
+12. Audiencias de revisión de medidas cautelares.
+
+III. Será facultad de la administración, la suscripción de los informes rendidos a los juzgados federales en los que se niega la existencia del acto reclamado.
+
+La comunicación proporcionada a las autoridades federales, en cuanto a los actos que se reclaman del órgano judicial, y de los cuales no se ha emitido acto por parte de algunos de los jueces, corresponderá a la administración; por lo que girar los oficios correspondientes, será facultad del Jefe de la Unidad de Causas u homólogo, toda vez que dicho funcionario del área administrativa es quien tiene las atribuciones de dar seguimiento a las causas y expedientillos ingresados, de los cual los jueces no tienen registro.
+
+Por el contrario, en cuanto a los actos reclamados de los que sí existiere resolución por parte del juez, en ausencia del que lo haya emitido, su suscripción corresponderá al Juez Coordinador.
+
+IV. Los acuerdos y los oficios emitidos por la administración deberán ser firmados por el Jefe de Unidad de Causas, Encargado de Causa, o en quien se delegue esa función, lo anterior en atención a que el seguimiento e integración de las carpetas administrativas de las causas corresponde a dicha Unidad, de conformidad con los artículos 29 y 30 del presente Reglamento.
+
+Asimismo, en atención a que el encargado de causa, en determinado momento debe de gozar de los periodos vacacionales, así como los descansos obligatorios (fines de semana y días festivos) se deberá de designar las facultades al Jefe o Administrador que se asigne de guardia en esos días.
 
 #### SECCIÓN SEXTA. DE LOS NOTIFICADORES
 
@@ -1054,3 +1134,13 @@ CONSEJERA
 LIC. MA. GUADALUPE J. HERNÁNDEZ BONILLA
 
 SECRETARIA DE ACUERDO Y TRÁMITE DEL CONSEJO DE LA JUDICATURA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2018.
+
+[N. DE. E TRANSITORIOS DEL “ACUERDO C-231-A/20018 EMITIDO POR EL H. CONSEJO DE LA JUDICATURA EN SESIÓN CELEBRADA EL VEINTICUATRO DE SEPTIEMBRE DE DOS MIL DIECIOCHO MEDIANTE EL CUAL SE DETERMINA MODIFICAR LOS ARTÍCULOS 24, 29 Y 30 DEL REGLAMENTO INTERIOR DE LOS JUZGADOS DE PRIMERA INSTANCIA EN MATERIA PENAL DEL SISTEMA ACUSATORIO Y ORAL DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA, Y ADICIONAR EL ARTÍCULO 30 BIS EN EL QUE SE ESTABLECE LA FACULTAD DEL ADMINISTRADOR, JEFE DE CAUSAS Y ENCARGADO DE CAUSA, DE EMITIR, FIRMAR Y EJECUTAR LOS ACUERDOS ADMINISTRATIVOS DE MERO TRÁMITE QUE SE ENLISTAN”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se instruye a la Secretaría de Acuerdo y Trámite llevar a cabo las gestiones correspondientes para la debida publicación del presente acuerdo en el Periódico Oficial del Gobierno del Estado, en la página electrónica del Poder Judicial del Estado, así como para que se fije en los estrados de los órganos jurisdiccionales del Estado, y remitir las comunicaciones oficiales a las instancias competentes para su conocimiento y debido cumplimiento.
