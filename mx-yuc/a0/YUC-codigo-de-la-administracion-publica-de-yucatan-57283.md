@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2018-03-28"
+last_updated: "2018-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -297,7 +297,7 @@ VIII.- Secretaría de Desarrollo Social;
 
 IX.- Secretaría de Obras Públicas;
 
-X.- Secretaría de la Juventud;
+X.- (DEROGADA, D.O. 23 DE NOVIEMBRE DE 2018)
 
 XI.- Secretaría de Seguridad Pública;
 
@@ -305,7 +305,9 @@ XI.- Secretaría de Seguridad Pública;
 
 XII.- Fiscalía General del Estado;
 
-XIII.- Secretaría de Fomento Económico;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XIII.- Secretaría de Fomento Económico y Trabajo;
 
 XIV.- Secretaría de Fomento Turístico;
 
@@ -313,7 +315,9 @@ XIV.- Secretaría de Fomento Turístico;
 
 XV.- Secretaría de Desarrollo Rural;
 
-XVI.- Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XVI.- Secretaría de Desarrollo Sustentable;
 
 > <small>(REFORMADA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
 
@@ -323,17 +327,23 @@ XVII.- Secretaría de la Contraloría General;
 
 XVIII.- Secretaría de Investigación, Innovación y Educación Superior;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+XIX.- (DEROGADA, D.O. 23 DE NOVIEMBRE DE 2018)
 
-XIX.- Secretaría del Trabajo y Previsión Social, y
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+XX.- Secretaría de la Cultura y las Artes;
 
-XX.- Secretaría de la Cultura y las Artes.
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+XXI.- Secretaría de Pesca y Acuacultura Sustentables, y
 
-Las Dependencias señaladas en las fracciones de la II a la XX tendrán igual rango entre ellas.
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- Secretaría de las Mujeres.
+
+> <small>(REFORMADO, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+Las dependencias señaladas en las fracciones de la II a la XXII tendrán igual rango entre ellas.
 
 ## TÍTULO III. DE LOS TITULARES DE LAS DEPENDENCIAS
 
@@ -374,6 +384,10 @@ IV.- No haber sido condenado por delito doloso que merezca pena privativa de lib
 V.- Tener un modo honesto de vivir; y
 
 VI.- Los demás que dispongan otras leyes.
+
+> <small>(ADICIONADO, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 26 bis. La titularidad de la Secretaría de las Mujeres deberá recaer, preferentemente, en una mujer, quien deberá, además de cumplir con los requisitos previstos en el artículo anterior de este Código, acreditar conocimientos y experiencia en materia de igualdad entre mujeres y hombres, equidad de género y prevención de violencia contra las mujeres.
 
 ###### Artículo 27.
 
@@ -533,17 +547,21 @@ XXVIII.- Establecer la coordinación con el Gobierno Federal y los municipios en
 
 XXIX.- Ejercer las funciones de prevención, planeación, programación y las demás que le confiere la Ley de Protección Civil del Estado;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+XXX.- (DEROGADA, D.O. 23 DE NOVIEMBRE DE 2018)
 
-XXX.- Ejercer las funciones que en materia de transporte en el Estado le concede la Ley de la materia;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+XXXI.- Ejecutar las medidas políticas y administrativas que el Titular del Poder Ejecutivo estime convenientes, para la mejor organización y funcionamiento del Gobierno del Estado;
 
-XXXI.- Ejecutar las medidas políticas y administrativas que el Titular del Poder Ejecutivo estime convenientes, para la mejor organización y funcionamiento del Gobierno del Estado, y
+XXXII.- (DEROGADA, D.O. 23 DE NOVIEMBRE DE 2018)
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XXXII.- Coordinar entre todas las dependencias y entidades de la Administración Pública Estatal la aplicación de las políticas y lineamientos dispuestos por el Titular del Poder Ejecutivo en materia de comunicación social.
+XXXIII.- Dirigir y coordinar a las procuradurías locales de la Defensa del Trabajo del Estado y de la Defensa de los Trabajadores al Servicio del Estado y Municipios, así como vigilar su correcto funcionamiento, y
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXIV.- Conducir las relaciones del Poder Ejecutivo del Estado con la Junta Local de Conciliación y Arbitraje del Estado de Yucatán, con miras a la eficacia en su funcionamiento, y proporcionarle el apoyo administrativo que requiera, sin perjuicio de su autonomía jurisdiccional.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -701,13 +719,17 @@ XLI.- Llevar un sistema de registro y control de las erogaciones de servicios pe
 
 XLII.- Publicar, a través del sitio web de esta secretaría, la información en materia de subsidios, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XLIII.- Reintegrar a la Tesorería de la Federación las transferencias etiquetadas que no hayan sido devengadas, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y
+XLIII.- Reintegrar a la Tesorería de la Federación las transferencias etiquetadas que no hayan sido devengadas, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XLIV.- Ejercer las atribuciones que le correspondan de conformidad con lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley General de Contabilidad Gubernamental.
+XLIV.- Ejercer las atribuciones que le correspondan de conformidad con lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley General de Contabilidad Gubernamental, y
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XLV.- Definir las políticas y los lineamientos del Poder Ejecutivo y coordinar el desempeño de las dependencias y entidades en materia de comunicación social, de conformidad con la legislación aplicable.
 
 ### CAPÍTULO III. De la Consejería Jurídica
 
@@ -751,7 +773,9 @@ XV.- Ejecutar acciones de compilación y difusión de la legislación del Estado
 
 XVI.- Conocer y substanciar los procedimientos relativos a los recursos administrativos que deba resolver el Gobernador del Estado, dejándolos en estado previo a la resolución y proponerle el proyecto de la misma;
 
-XVII.- Encargarse de las funciones del Ejecutivo del Estado, en materia de la función pública del Notariado, incluyendo la organización, vigilancia, autorización y sanción de las actividades de los Notarios y Escribanos Públicos;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XVII.- Encargarse de las funciones del Ejecutivo del Estado en materia de la función pública del Notariado, incluyendo la organización, vigilancia, autorización y sanción de las actividades de los Notarios y Escribanos Públicos; así como del archivo notarial;
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -785,13 +809,17 @@ XXVII.- Encargarse, a través de la Dirección del Diario Oficial, de la edició
 
 XXVIII.- Revisar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Instituto de Defensa Pública del Estado de Yucatán;
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XXIX.- Realizar investigaciones y análisis jurídicos, estudios de derecho comparado y elaborar propuestas al Gobernador del Estado, para sustentar y actualizar permanentemente el marco jurídico estatal, y
+XXIX.- Realizar investigaciones y análisis jurídicos, estudios de derecho comparado y elaborar propuestas al Gobernador del Estado, para sustentar y actualizar permanentemente el marco jurídico estatal;
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XXX.- Llevar el registro de firmas autógrafas de los funcionarios estatales y legalizar las firmas de éstos.
+XXX.- Llevar el registro de firmas autógrafas de los funcionarios estatales y legalizar las firmas de estos, y
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXI.- Brindar apoyo a las dependencias y entidades de la Administración Pública estatal en la aplicación de las leyes en materia de transparencia, acceso a la información pública y protección de datos personales, así como en la implementación de las políticas públicas relacionadas con estas materias.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1015,15 +1043,15 @@ XLIV.- Fomentar y realizar todo tipo de actividades relativas a la promoción de
 
 A la Secretaría de Desarrollo Social le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-I.- Conducir la política social del Estado e integrar los acuerdos de coordinación a nivel sectorial en materia de desarrollo social, conjuntamente con los niveles del Gobierno Federal y Municipal; así como promover y acordar las acciones y programas de desarrollo social en el Estado en materia de salud, educación, vivienda, infraestructura social básica, atención a grupos vulnerables, entre otros aspectos relacionados con la superación del rezago social;
+I.- Conducir la política social del Estado e integrar los acuerdos de coordinación a nivel sectorial en materia de desarrollo social, conjuntamente con los niveles del Gobierno Federal y Municipal, así como promover y acordar las acciones y programas de desarrollo social en el Estado en materia de salud, educación, vivienda, infraestructura social básica, juventud, atención a grupos vulnerables, entre otros aspectos relacionados con la superación del rezago social;
 
 II.- Diseñar coordinar, conducir y evaluar las políticas de desarrollo comunitario y sociales, encaminadas a combatir la pobreza, otorgar el acceso equitativo a las oportunidades de desarrollo, promover la formación de capital humano y crear mejores condiciones generales de vida para los habitantes del estado;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-III.- Coordinar y evaluar programas de política social encaminados a atender a los grupos más vulnerables de la sociedad, con prioridad en la atención de problemáticas relacionadas con niños, madres solteras, adultos mayores, migrantes y sus familias, así como personas con discapacidad;
+III.- Coordinar y evaluar los programas de política social encaminados a atender a los grupos más vulnerables de la sociedad, con prioridad en la atención de problemáticas relacionadas con niñas, niños, adolescentes, jóvenes, madres solteras, adultos mayores, migrantes y sus familias, así como personas con discapacidad;
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1065,13 +1093,29 @@ XIV.- Proporcionar asesoría y capacitación en materia de desarrollo comunitari
 
 XV.- Formular, coordinar y evaluar estudios e investigaciones para identificar zonas marginadas y diseñar programas y estrategias para su desarrollo;
 
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XVI.- Supervisar, controlar y evaluar los programas y acciones de desarrollo social, verificando los resultados e impactos obtenidos, y
+XVI.- Supervisar, controlar y evaluar los programas y acciones de desarrollo social, verificando los resultados e impactos obtenidos;
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XVII.- Promover que los recursos públicos destinados a los programas sociales se apliquen prioritariamente a los grupos sociales y de población con mayor rezago y vulnerabilidad.
+XVII.- Promover que los recursos públicos destinados a los programas sociales se apliquen prioritariamente a los grupos sociales y de población con mayor rezago y vulnerabilidad;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XVIII.- Elaborar el Programa Estatal de la Juventud con los objetivos, estrategias y líneas de acción necesarios para promover el desarrollo integral de los jóvenes;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XIX.- Coordinarse con las dependencias y entidades de la Administración Pública estatal, así como con las autoridades municipales, en el ámbito de sus respectivas competencias, para que, entre las acciones, programas y mecanismos que apliquen, se considere mejorar el nivel de vida de la juventud y sus expectativas en los ámbitos de desarrollo económico, educativo, cultural y político;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XX.- Implementar y llevar el Sistema Estatal de Información sobre la Juventud, para conocer sus necesidades y aspiraciones, a efecto de definir las políticas de atención en su entorno social que permitan el mejoramiento de las condiciones de vida de la juventud, y
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Las demás que determinen la Ley de Juventud del Estado de Yucatán y su reglamento.
 
 ### CAPÍTULO IX. De la Secretaría de Obras Públicas
 
@@ -1129,49 +1173,13 @@ XVIII.- Supervisar que las obras públicas se ejecuten conforme a las normas té
 
 XIX.- Cumplir las normas y lineamientos para la preservación y conservación del medio ambiente en las obras públicas que realice o supervise.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
 ### CAPÍTULO X. De la Secretaría de la Juventud
 
 ###### Artículo 39.
 
-A la Secretaría de la Juventud le corresponde el despacho de los siguientes asuntos:
-
-I.- Elaborar el Programa Estatal de la Juventud que contenga los objetivos, estrategias y líneas de acción para promover el desarrollo integral de los jóvenes;
-
-II.- Coadyuvar con las dependencias y entidades de la Administración Pública Estatal, así como con las autoridades municipales, en la planeación y programación de las políticas y acciones encaminadas al progreso de la juventud de acuerdo al Plan Estatal de Desarrollo;
-
-III.- Coordinarse con las dependencias y entidades de la Administración Pública del Gobierno del Estado en el ámbito de sus respectivas competencias, para que entre las acciones, programas y mecanismos que apliquen, esté considerado mejorar el nivel de vida de la juventud y sus expectativas en los ámbitos de desarrollo económico, educativo, cultural y político;
-
-IV.- Fomentar el posicionamiento de los jóvenes en las actividades productivas que generen oportunidades que les permitan desarrollarse;
-
-V.- Proporcionar asesoría y capacitación en materia empresarial y laboral a fin de fomentar en la juventud, una cultura de iniciativa para desarrollar nuevas empresas que contribuyan a generar empleos;
-
-VI.- Orientar y capacitar a los jóvenes permitiéndoles acceder a los proyectos productivos que implemente el Gobierno del Estado;
-
-VII.- Celebrar acuerdos y convenios de colaboración con los sectores productivos, organismos públicos y privados para el impulso de proyectos que beneficien a la juventud;
-
-VIII.- Realizar gestiones ante Instituciones educativas para el otorgamiento de becas que permitan a los jóvenes continuar con sus estudios para tener una preparación de excelencia;
-
-IX.- Gestionar e impulsar la realización de proyectos productivos, culturales y de integración social para los jóvenes de las comunidades indígenas;
-
-X.- Fungir como representante del Gobierno del Estado, en lo concerniente a la juventud, ante el Gobierno Federal, los ayuntamientos, organizaciones privadas y organismos internacionales, así como en los foros, convenciones, encuentros y demás reuniones;
-
-XI.- Promover la participación e inclusión de los jóvenes en los ámbitos social, cívico, deportivo, cultural, artístico y político;
-
-XII.- Realizar, promover y difundir estudios e investigaciones de la problemática y características juveniles;
-
-XIII.- Coadyuvar con las instancias correspondientes para promover el respeto a los derechos de los jóvenes, así como la eliminación de toda forma de discriminación y la erradicación de la violencia hacia los mismos;
-
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-XIV.- Implementar y llevar el Sistema Estatal de Información sobre la Juventud, que permita conocer sus necesidades y aspiraciones para definir las políticas de atención a su entorno social;
-
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-XV.- Ejecutar, en general, acciones que promuevan el mejoramiento de las condiciones de la juventud, y
-
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-XVI.- Las demás que determine la Ley de Juventud del Estado de Yucatán y su reglamento.
+(DEROGADO, D.O. 23 DE NOVIEMBRE DE 2018)
 
 ### CAPÍTULO XI. De la Secretaría de Seguridad Pública
 
@@ -1239,15 +1247,19 @@ XX.- Prestar el servicio de escolta pública en los términos del ordenamiento q
 
 La Fiscalía General del Estado tendrá las facultades y obligaciones que específicamente le confieren la Constitución Política, la Ley de la Fiscalía General y su reglamento, todas del Estado de Yucatán y las demás disposiciones legales aplicables.
 
-### CAPÍTULO XIII. De la Secretaría de Fomento Económico
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO XIII. De la Secretaría de Fomento Económico y Trabajo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-A la Secretaría de Fomento Económico le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Fomento Económico y Trabajo le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-I.- Proponer y llevar a cabo, en colaboración permanente con la ciudadanía, las políticas y programas relativos al fomento y desarrollo de las actividades económicas, específicamente las industriales, de comercio, de servicios, de importación y exportación, de abasto y todas aquellas relacionadas con la creación y conservación de los empleos;
+I.- Proponer y llevar a cabo, en colaboración permanente con la ciudadanía, las políticas y programas relativos al fomento y desarrollo de las actividades económicas, industriales, de comercio, de servicios, artesanales, de importación y exportación, de abasto y todas aquellas relacionadas con la creación y conservación de los empleos;
 
 II.- Promover y apoyar la ejecución de proyectos de inversión en materia económica para la creación de nuevas unidades productivas e impulsar el crecimiento de las ya existentes; procurando establecer mecanismos de consulta ciudadana para dicho proceso;
 
@@ -1259,7 +1271,9 @@ IV.- Estimular y apoyar la ejecución de los proyectos de inversión mediante la
 
 V.- Celebrar, por delegación del Gobernador del Estado, convenios con los ayuntamientos para la realización de actividades relacionadas con la Secretaría;
 
-VI.- Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que provienen de los convenios firmados entre el mismo y la Administración Pública Federal respecto de las actividades de la Secretaría;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que deriven de los convenios firmados entre este y la Administración Pública Federal respecto de las actividades de la Secretaría, así como coadyuvar con las autoridades competentes en la vigilancia y aplicación en el estado de la Ley Federal del Trabajo y sus reglamentos;
 
 VII.- Proponer y apoyar la realización de programas y obras de infraestructura en áreas que competen a la propia Secretaría;
 
@@ -1267,7 +1281,9 @@ VIII.- Ser órgano de consulta para la Administración Pública y para la ciudad
 
 IX.- Regular los servicios regionales del sector, de conformidad con el Plan Estatal de Desarrollo bajo criterios de eficiencia, productividad y optimización en el gasto público para brindar una mayor calidad de servicios a la población;
 
-X.- Promover y apoyar a las organizaciones industriales y comerciales en sus procesos de modernización tecnológica y administrativa;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+X.- Promover y apoyar a las organizaciones industriales y comerciales en sus procesos de modernización tecnológica y administrativa, así como de capacitación y adiestramiento de los trabajadores, con el fin de impulsar el desarrollo del Estado;
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1287,11 +1303,87 @@ XVII.- Implementar la adecuada vigilancia, control y demás acciones en coordina
 
 XVIII.- Dar cumplimiento a los convenios que en la materia celebre el Estado con la Federación y con los municipios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XIX.- Realizar los actos administrativos necesarios para crear, disolver, modificar y administrar fondos y fideicomisos, con autorización del Titular del Poder Ejecutivo del Estado, y afectarlos por causas de interés social, destinados a brindar créditos, préstamos y/o apoyos dirigidos a comerciantes e industriales, los cuales tendrán que estar acompañados de la firma del fideicomitente único del Gobierno del Estado, y
+XIX.- Realizar los actos administrativos necesarios para crear, disolver, modificar y administrar fondos y fideicomisos, con autorización del Titular del Poder Ejecutivo del Estado, y afectarlos por causas de interés social, destinados a brindar créditos, préstamos o apoyos dirigidos a comerciantes e industriales, los cuales tendrán que estar acompañados de la firma del fideicomitente único del Gobierno del Estado;
 
 XX.- (DEROGADA, D.O. 25 DE NOVIEMBRE DE 2008)
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Promover el equilibrio de los factores de la producción, para lo cual será eje rector el impulso de la cultura laboral basada en el diálogo y la concertación;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- Dirigir y coordinar el Servicio Nacional de Empleo, Yucatán, así como las bolsas de trabajo de índole pública, y vigilar su funcionamiento en el Estado;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXIII.- Organizar, dirigir, ordenar y supervisar, en el ámbito de su competencia, las visitas de verificación y de inspección que sean necesarias, para comprobar el cumplimiento de las disposiciones legales y reglamentarias en materia laboral y, en su caso, aplicar las sanciones administrativas que correspondan;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXIV.- Mantener actualizadas y vigilar el cumplimiento de las normas relativas a la seguridad, higiene y medio ambiente en el trabajo;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXV.- Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores, así como elaborar y ejecutar programas de capacitación laboral en el Estado;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXVI.- Revisar, previa solicitud de la parte interesada, el contenido de los contratos colectivos de trabajo;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXVII.- Desarrollar y ejecutar programas en materia de trabajo, de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXVIII.- Proponer políticas en materia laboral con visión regional y local que impulsen estrategias y líneas de acción que contribuyan a mejorar la productividad, la ocupación, el empleo, la capacitación, el adiestramiento, la salud e higiene, así como todas las medidas institucionales que persigan el fortalecimiento de la productividad en el estado;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXIX.- Instrumentar acciones y políticas públicas con perspectiva de género que mejoren las condiciones laborales de las mujeres y de los grupos en situación de vulnerabilidad en el Estado, y que incentiven la equidad laboral;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXX.- Aplicar políticas públicas para combatir la explotación del trabajo infantil en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXI.- Promover la intervención de los sectores productivos para la inclusión laboral de las personas adultas mayores, personas con discapacidad y demás grupos en situación de vulnerabilidad en el Estado;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXII.- Promover la capacitación y la integración laboral de las personas que se encuentren en los centros penitenciarios y de internamiento del Estado;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXIII.- Difundir a través de los medios de comunicación social las modificaciones que se den en las normas laborales y llevar las estadísticas en materia de trabajo y previsión social a nivel estatal;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXIV.- Ejecutar los convenios y acuerdos que en materia de trabajo suscriba el Poder Ejecutivo del Estado con la Federación y coadyuvar con la dependencia federal correspondiente en la solución de los conflictos suscitados con motivo de Contratos-Ley de empresas asentadas en la Entidad;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXV.- Promover programas en materia de previsión social, así como organizar conferencias, exposiciones, reuniones, cursos y demás actividades que contribuyan a elevar el nivel de vida de los trabajadores y sus familias;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXVI.- Aportar a las autoridades federales del trabajo la información que soliciten para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXVII.- Mediar y conciliar, a solicitud de la parte interesada o cuando la situación lo amerite, en los conflictos que surjan de presuntas violaciones a las leyes laborales, contratos colectivos de trabajo o a las condiciones generales de trabajo;
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXVIII.- Fomentar y apoyar la organización social para el trabajo y autoempleo, y
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXIX.- Aplicar las disposiciones que por Ley, Decreto, Acuerdo o Convenio se le confieran, así como aquellas que le asigne el Gobernador del Estado.
 
 ### CAPÍTULO XIV. De la Secretaría de Fomento Turístico
 
@@ -1427,9 +1519,7 @@ XXII.- Organizar y apoyar los congresos, ferias y concursos que se desarrollen e
 
 XXIII.- Capacitar a los productores rurales, a efecto de propiciar la transferencia tecnológica, la implementación de sistemas administrativos y de esquemas de organización educativos adecuados para una mejor producción y su vinculación efectiva con los procesos de comercialización;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-XXIV.- Conducir las políticas generales de fomento, regulación, conservación, integración y organización del sector pesquero y acuícola, a través del órgano desconcentrado especializado, en coordinación con las instancias federales correspondientes y los gobiernos municipales;
+XXIV.- (DEROGADA, D.O. 23 DE NOVIEMBRE DE 2018)
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1451,77 +1541,51 @@ XXVIII.- Coordinar los Comités Estatales de Control Fitosanitario y Zoosanitari
 
 XXIX.- Integrar un banco de proyectos y oportunidades de inversión del sector agropecuario, así como normar y vigilar la contratación y prestación de servicios externos de asistencia técnica y capacitación.
 
-### CAPÍTULO XVI. De la Secretaría de Desarrollo Urbano y Medio Ambiente
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO XVI. De la Secretaría de Desarrollo Sustentable
+
+> <small>(REFORMADO, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 45.
 
-A la Secretaría de Desarrollo Urbano y Medio Ambiente le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Sustentable le corresponde el despacho de los siguientes asuntos:
 
-I.- Aplicar en los asuntos de su competencia las disposiciones legales de la materia, haciendo compatible el desarrollo urbano con la protección y conservación del medio ambiente;
+I.- Aplicar en los asuntos de su competencia las disposiciones legales de la materia, velando por la protección y conservación del medio ambiente y procurando el desarrollo sustentable en el Estado;
 
-II.- Formular y conducir el Programa Estatal de Desarrollo Urbano y Medio Ambiente, vigilar su implementación y evaluar sus resultados, estableciendo los lineamientos generales en materia de recursos naturales, ecología, saneamiento, agua y regulación ambiental del desarrollo urbano, considerando las diferentes regiones del Estado;
+II.- Formular y conducir el programa estatal en materia de medio ambiente y desarrollo sustentable, vigilar su implementación y evaluar sus resultados, estableciendo los lineamientos generales en materia de recursos naturales, ecología, saneamiento, agua y regulación ambiental y considerando las diferentes regiones del Estado;
 
-III.- Elaborar, ejecutar y evaluar el Programa Estatal de Preservación del Patrimonio Cultural Arquitectónico, conforme a lo dispuesto por la normatividad referente a la preservación y promoción de la cultura en el Estado;
+III.- Promover y difundir la participación social en los procesos de formulación del programa estatal en materia de medio ambiente y desarrollo sustentable;
 
-IV.- Promover la participación social en los procesos de formulación del Programa Estatal de Desarrollo Urbano y Medio Ambiente;
+IV.- Elaborar el Sistema Estatal de Información Ambiental, considerando el uso de sistemas de monitoreo atmosférico, del suelo y de los cuerpos de agua de jurisdicción estatal, así como la estadística correspondiente;
 
-V.- Elaborar el Sistema Estatal de Información de Desarrollo Urbano y Medio Ambiente, considerando el uso de sistemas de monitoreo atmosférico, del suelo y de los cuerpos de agua de jurisdicción estatal, así como estadística del desarrollo urbano, construcción de vivienda y extensión de las redes de servicios básicos;
+V.- Aprobar las políticas generales y emitir normas técnicas en materia de desarrollo sustentable, protección y conservación del medio ambiente, promoviendo su debido cumplimiento;
 
-VI.- Coordinar la integración y operación de las comisiones intermunicipales que se constituyan cuando se presenten las conurbaciones, en los términos de las disposiciones legales aplicables en materia de asentamientos humanos en el Estado;
+VI.- Coadyuvar con las demás entidades de la Administración Pública estatal en la elaboración de políticas, planes y programas en materia de medio ambiente y desarrollo sustentable;
 
-VII.- Aprobar las políticas generales del uso del suelo y la vivienda del Estado, y emitir normas técnicas en materia de desarrollo urbano y protección del ambiente, proveyendo a su debido cumplimiento;
+VII.- Dictaminar, en coordinación con las autoridades competentes, sobre la factibilidad urbano ambiental de las obras o actividades señaladas en la Ley de la materia;
 
-VIII.- Establecer la política general de vivienda, armonizando los requerimientos de la entidad con el cuidado y conservación del medio ambiente;
+VIII.- Coordinarse con las demás autoridades competentes, para la programación de la inversión pública y la realización de acciones de desarrollo sustentable, en materia ambiental, que se ejecuten en la entidad y evaluar sus resultados;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+IX.- Realizar investigaciones para la elaboración de proyectos y estudios relacionados con el desarrollo sustentable, en función de las posibilidades presupuestales de esta dependencia;
 
-IX.- Dictaminar sobre la Factibilidad Urbano Ambiental de las obras o actividades señaladas en la Ley de la materia;
+X.- Coordinarse con las autoridades municipales y demás competentes en la materia, para formular y presentar proyectos de gestión costera, acciones para combatir el cambio climático, gestión integral de residuos, gestión hídrica y todo aquello que conlleve al desarrollo sustentable del Estado;
 
-X.- Coordinarse con las demás autoridades competentes, para la programación de la inversión pública y la realización de acciones de desarrollo urbano y medio ambiente que se ejecuten en la entidad y evaluar sus resultados;
+XI.- Promover incentivos para las empresas que inviertan en la introducción, actualización y difusión de tecnologías que contribuyan a la preservación del medio ambiente encaminado al desarrollo sustentable;
 
-XI.- Realizar investigaciones, para elaborar proyectos y estudios relacionados con la preservación del patrimonio cultural arquitectónico y apoyar las acciones para su rescate que presenten los particulares, en función de las posibilidades presupuestales de esta dependencia;
+XII.- Asesorar y coordinarse técnicamente con los ayuntamientos, cuando estos lo soliciten, en la formulación, programación y ejecución de sus planes conducidos a la protección y conservación del medio ambiente y el desarrollo sustentable;
 
-XII.- Coordinarse con las autoridades municipales y demás competentes en la materia, para formular y presentar proyectos de rescate de edificaciones con valor arquitectónico y urbano en los centros históricos de las localidades del Estado;
+XIII.- Promover el restablecimiento de los recursos forestales y su explotación racional, mediante el fomento de la actividad empresarial regulada ecológicamente;
 
-XIII.- Proponer ante el Titular del Ejecutivo del Estado, los sitios que por su alto valor histórico puedan ser promocionados ante las autoridades competentes para que sean declarados patrimonio cultural del Estado;
+XIV.- Procurar la realización de los inventarios de recursos naturales y de población de la fauna silvestre y marina, en coordinación con las autoridades municipales, las instituciones de investigación, de educación superior y de las dependencias y entidades que corresponda;
 
-XIV.- Promover incentivos para las empresas que inviertan en la introducción, actualización y difusión de tecnologías para el desarrollo urbano, que contribuyan a la preservación del medio ambiente encaminado al desarrollo sustentable;
+XV.- Vigilar que la preservación ecológica constituya una línea conductora de la programación del desarrollo sustentable en el Estado;
 
-XV.- Asesorar y coordinarse técnicamente con los ayuntamientos, cuando estos lo soliciten, en la formulación, programación y ejecución de sus planes de desarrollo urbano y de medio ambiente;
+XVI.- Promover y vigilar el cumplimiento estricto de las normas de protección, preservación, restauración y conservación del medio ambiente;
 
-XVI.- Coadyuvar con las dependencias y entidades en la promoción de programas de ecoturismo en las áreas naturales protegidas del Estado;
+XVII.- Promover y vigilar el cumplimiento, con la participación que corresponda a otras autoridades, de las normas oficiales mexicanas aplicables a la preservación y restauración de la calidad del medio ambiente, a los ecosistemas naturales y al aprovechamiento sustentable de los recursos naturales, de la flora y fauna silvestre, terrestre y acuática; y a la eliminación de excretas y residuos sólidos urbanos, y
 
-XVII.- Fomentar la protección y conservación de los ecosistemas, recursos naturales, bienes y servicios ambientales, con el fin de propiciar su aprovechamiento y desarrollo sustentable;
-
-XVIII.- Promover el reestablecimiento de los recursos forestales y su explotación racional, mediante una actividad empresarial regulada ecológicamente;
-
-XIX.- Dictaminar los casos de riesgo ambiental, proponer y participar en los programas para la prevención de accidentes con incidencia ecológica;
-
-XX.- Fomentar e inculcar la cultura ecológica, el respeto al medio ambiente y la convivencia en armonía con éste, a través de los medios de comunicación y promover la inclusión en los programas de los distintos niveles educativos, de módulos que tiendan a estimular la preservación del medio ambiente y el valor que tienen para la vida humana;
-
-XXI.- Realizar los inventarios de recursos naturales y de población de la fauna silvestre y marina, en coordinación con las autoridades municipales, las instituciones de investigación, de educación superior y de las dependencias y entidades que corresponda;
-
-XXII.- Vigilar que la preservación ecológica constituya una línea conductora de la programación del desarrollo urbano y regional;
-
-XXIII.- Estudiar, proyectar y conservar, con la participación de los usuarios y en coordinación con otras dependencias y entidades públicas, las obras de riego, desecación, drenaje, defensa y mejoramiento de terrenos y las de pequeña irrigación, en los términos de los programas formulados por el Gobierno del Estado;
-
-XXIV.- Vigilar el cumplimiento estricto de las normas de protección, preservación, restauración y conservación del medio ambiente;
-
-XXV.- Promover incentivos para las empresas que inviertan en la introducción, actualización y difusión de infraestructura y tecnologías que contribuyan a la preservación del medio ambiente y al desarrollo sustentable;
-
-XXVI.- Coordinarse con las dependencias de la Administración Pública Federal competentes, en el establecimiento y levantamiento de vedas forestales, de caza y pesca, de conformidad con la legislación aplicable;
-
-XXVII.- Propiciar la conservación y ampliación de las reservas ecológicas;
-
-XXVIII.- Intervenir en el procedimiento de autorización de dotación de agua y de tratamientos de desechos líquidos en las localidades, parques industriales, centros comerciales y empresas;
-
-XXIX.- Proponer al Titular del Ejecutivo Estatal el establecimiento de áreas naturales protegidas;
-
-XXX.- Administrar áreas naturales protegidas cuando le corresponda al Gobierno del Estado y supervisar las labores de conservación, protección y vigilancia de dichas áreas, cuando su administración concierna a municipios o personas físicas o morales, en los términos de la ley aplicable;
-
-XXXI.- Coadyuvar con las autoridades competentes en la aplicación de las disposiciones sobre internación, tránsito o salida por el territorio estatal de especies de la flora y fauna silvestres, procedentes o destinadas al extranjero, y promover ante la autoridad competente el establecimiento de medidas de regulación o restricción a su importación o exportación, cuando se requiera para su conservación o aprovechamiento, y
-
-XXXII.- Vigilar el cumplimiento, con la participación que corresponda a otras autoridades, de las normas oficiales mexicanas aplicables al desarrollo urbano, preservación y restauración de la calidad del medio ambiente, a los ecosistemas naturales y al aprovechamiento sustentable de los recursos naturales, de la flora y fauna silvestre, terrestre y acuática; y a la eliminación de excretas y residuos sólidos urbanos.
+XVIII.- Verificar las emisiones de los vehículos en el estado, a excepción de los destinados al transporte público de pasajeros.
 
 ### CAPÍTULO XVII. De la Secretaría de la Contraloría General
 
@@ -1575,7 +1639,9 @@ XXI.- Celebrar convenios de coordinación y colaboración con la federación, en
 
 XXII.- Interpretar y difundir, en el ámbito de su competencia, la aplicación de las leyes de la materia y otras disposiciones legales que le competan a la Secretaría de la Contraloría General;
 
-XXIII.- Fiscalizar que las dependencias y entidades de la Administración Pública estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública estatal;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXIII.- Fiscalizar que las dependencias y entidades de la Administración Pública estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública o de tecnologías de la información y la comunicación, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública estatal;
 
 XXIV.- Colaborar en el marco de los sistemas nacional y estatal anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
@@ -1683,61 +1749,11 @@ XXXIX. Supervisar, evaluar y establecer las directrices a las que deberán somet
 
 XL. Fomentar y desarrollar programas educativos que con visión incluyente y equitativa propicien el desarrollo profesional y humano, el fomento y práctica de la investigación, así como el desarrollo de la ciencia y tecnología de la población en situación de vulnerabilidad, sobre todo, aquella perteneciente a la comunidad maya.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-### CAPITULO XIX. De la Secretaría del Trabajo y Previsión Social
+### CAPÍTULO XIX. De la Secretaría del Trabajo y Previsión Social
 
-> <small>(ADICIONADO, D.O. 25 DE NOVIEMBRE DE 2008)</small>
-
-Artículo 47 bis. A la Secretaría del Trabajo y Previsión Social le corresponde el despacho de los siguientes asuntos:
-
-I.- Ejercer las atribuciones que en materia de trabajo y previsión social le correspondan al Poder Ejecutivo del Estado;
-
-II.- Coadyuvar con las autoridades competentes, en la vigilancia y aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las aplicables en el ámbito local de la Ley Federal del Trabajo y sus reglamentos;
-
-III.- Promover el equilibrio de los factores de la producción, para lo cual será eje rector el impulso de la cultura laboral basada en el diálogo y la concertación;
-
-IV.- Promover la capacitación y el adiestramiento de los trabajadores con el fin de impulsar el desarrollo del Estado;
-
-V.- Dirigir y coordinar el Servicio Nacional de Empleo, Yucatán, así como las bolsas de trabajo de índole pública y vigilar su funcionamiento en el Estado;
-
-VI.- Organizar, dirigir, ordenar y supervisar, en el ámbito de su competencia, las visitas de verificación y de inspección que sean necesarias, para comprobar el cumplimiento de las disposiciones legales y reglamentarias en materia laboral y, en su caso, aplicar las sanciones administrativas que correspondan;
-
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-VII.- Dirigir y coordinar a las Procuradurías, Local de la Defensa del Trabajo del Estado y de la Defensa de los Trabajadores al Servicio del Estado y Municipios, así como vigilar su correcto funcionamiento;
-
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-VIII.- Conducir las relaciones del Poder Ejecutivo del Estado con la Junta Local de Conciliación y Arbitraje del Estado de Yucatán, con miras a la eficacia de los mismos, proporcionándoles el apoyo administrativo que para su funcionamiento requieran, sin perjuicio de su autonomía jurisdiccional;
-
-IX.- Mantener actualizadas y vigilar el cumplimiento de las normas relativas a la seguridad, higiene y medio ambiente en el trabajo;
-
-X.- Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores, así como elaborar y ejecutar programas de capacitación laboral en el Estado;
-
-XI.- Revisar, previa solicitud de la parte interesada, el contenido de los contratos colectivos de trabajo;
-
-XII.- Desarrollar y ejecutar programas en materia de trabajo, de conformidad con la normatividad aplicable;
-
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
-
-XIII.- Proponer políticas en materia laboral con visión regional y local que impulsen estrategias y líneas de acción que contribuyan a mejorar la productividad, la ocupación, el empleo, la capacitación, el adiestramiento, la salud e higiene, así como todas las medidas institucionales que persigan el fortalecimiento de la productividad en el estado;
-
-XIV.- Instrumentar políticas y acciones que mejoren las condiciones laborales de las mujeres y los grupos en situación de vulnerabilidad en el Estado;
-
-XV.- Difundir a través de los medios de comunicación social las modificaciones que se den en las normas laborales y llevar las estadísticas en materia de trabajo y previsión social a nivel estatal;
-
-XVI.- Ejecutar los convenios y acuerdos que en materia de Trabajo suscriba el Poder Ejecutivo del Estado con la Federación y coadyuvar con la dependencia federal correspondiente, en la solución de los conflictos suscitados con motivo de Contratos-Ley de empresas asentadas en la Entidad;
-
-XVII.- Promover programas en materia de previsión social, así como organizar conferencias, exposiciones, reuniones, cursos y demás actividades que contribuyan a elevar el nivel de vida de los trabajadores y sus familias;
-
-XVIII.- Aportar a las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones;
-
-XIX.- Mediar y conciliar, a solicitud de la parte interesada o cuando la situación lo amerite, en los conflictos que surjan de presuntas violaciones a las leyes laborales, contratos colectivos de trabajo o a las condiciones generales de trabajo;
-
-XX.- Fomentar y apoyar la organización social para el trabajo y autoempleo, y
-
-XXI.- Aplicar las disposiciones que por Ley, Decreto, Acuerdo o Convenio se le confieran, así como aquellas que le asigne el Gobernador del Estado.
+Artículo 47 bis.- (DEROGADO, D.O. 23 DE NOVIEMBRE DE 2018)
 
 > <small>(ADICIONADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1773,9 +1789,13 @@ XI.- Fomentar la participación de los grupos y organizaciones sociales, pueblos
 
 XII.- Administrar, dirigir, coordinar y conservar los centros culturales, teatros, bibliotecas, hemerotecas, pinacotecas, fonotecas, museos, galerías, centros de investigación y educación artística; los establecimientos de libros y objetos de arte, así como todas aquellas áreas y espacios donde se lleven a cabo los servicios culturales y que estén en el ámbito de la competencia del Estado;
 
-XIII.- Fomentar, administrar y promover la apertura de centros y fuentes de cultura que respondan a las iniciativas y a los procesos socioculturales de la comunidad;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XIV.- Realizar investigaciones, estudios y demás acciones tendientes a rescatar tradiciones perdidas o en proceso de extinción, promover, preservar y difundir el acervo cultural estatal en sus aspectos artístico, etnográfico, arquitectónico, turístico, arqueológico e histórico, así como impulsar a los investigadores y estudiosos en estos campos y materias;
+XIII.- Coordinar la dirección ejecutiva y técnica del Gran Museo del Mundo Maya de Mérida, así como fomentar, administrar y promover la apertura de centros y fuentes de cultura que respondan a las iniciativas y a los procesos socioculturales de la comunidad;
+
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XIV.- Realizar investigaciones, estudios y demás acciones tendientes a rescatar tradiciones perdidas o en proceso de extinción, promover, preservar y difundir el acervo cultural estatal en sus aspectos artístico, documental, etnográfico, arquitectónico, turístico, autóctono, arqueológico e histórico, así como impulsar a los investigadores y estudiosos en estos campos y materias;
 
 XV.- Reconocer, impulsar y apoyar a personas o grupos interesados en la cultura, dentro de los lineamientos adecuados a la idiosincrasia del pueblo yucateco y a sus necesidades de expresiones artísticas que tiendan a formar y reafirmar la identidad cultural del mismo;
 
@@ -1785,11 +1805,15 @@ XVII.- Coordinar y promover acciones conjuntas, en materia de cultura, con los m
 
 XVIII.- Fomentar la capacitación y actualización de quienes realicen actividades artísticas, técnicas y culturales dentro de la Entidad;
 
-XIX.- Coordinarse con la Federación y los Municipios en las actividades de preservación del patrimonio cultural de la nación, situado en el territorio estatal, de conformidad con las disposiciones legales y normativas aplicables;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XIX.- Coordinarse con la Federación y los Municipios en las actividades de preservación y exposición del patrimonio cultural de la nación, situado en el territorio estatal, de conformidad con las disposiciones legales y normativas aplicables, así como para promover y difundir turísticamente los museos de Yucatán;
 
 XX.- Coordinarse con la Secretaría de Educación, para gestionar y tramitar que las instituciones federales otorguen reconocimiento y créditos en el campo de la educación artística formal y no formal, y acrediten los planes y programas en el Estado;
 
-XXI.- Realizar todo tipo de labores editoriales, en libros, discos, folletos, revistas y otras publicaciones de investigación, creación e información artística y cultural;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Realizar todo tipo de labores editoriales en libros, folletos, cuadernillos, materiales audiovisuales, cortometrajes, producciones de audio, guías electrónicas, revistas y otras publicaciones de investigación, creación e información artística, cultural o que contribuyan a enriquecer y promocionar el acervo museográfico del Estado, así como instalar y operar sistemas electrónicos, de radio y televisión cultural, de conformidad con las disposiciones legales y normativas aplicables;
 
 XXII.- Fomentar la cultura entre el personal al servicio de las diversas dependencias del Gobierno Estatal;
 
@@ -1811,29 +1835,127 @@ XXX.- Promover, coordinar y, en su caso, realizar actos de reconocimiento a todo
 
 XXXI.- Otorgar becas, estímulos y premios para fomentar e impulsar el desarrollo científico, artístico y cultural, tanto en los niveles estatales como nacionales e internacionales;
 
-XXXII.- Instalar y operar sistemas electrónicos, de radio y televisión cultural, de conformidad con las disposiciones legales y normativas aplicables;
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXII.- Inscribir ante la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura y demás organizaciones nacionales e internacionales a los museos que administre, para participar en los proyectos culturales de orden intersectorial, con el apoyo de las instancias federales competentes;
 
 XXXIII.- Coordinar la revisión y actualización permanente de la Enciclopedia Yucatanense con el fin de incrementar su acervo, promoverla y difundirla a nivel estatal, nacional e internacional;
 
 XXXIV.- Vigilar que en la elaboración de proyectos constructivos o en la ejecución de obras públicas o privadas no se afecten los bienes artísticos, arquitectónicos y culturales del Estado;
 
-XXXV.- Promover la vinculación de la cultura y sus valores con la educación, la ciencia, la tecnología, el medio ambiente, la seguridad pública, y el desarrollo agropecuario, social y turístico, y
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-XXXVI.- Establecer y administrar el Fondo Estatal para la Cultura y las Artes, con objeto de canalizar los recursos adicionales que el Poder Ejecutivo obtenga, para el desarrollo de sus objetivos culturales, a través de los convenios que celebre con la Federación y demás organizaciones públicas, sociales y privadas, nacionales e internacionales.
+XXXV.- Promover la vinculación de la cultura y sus valores con la educación, la ciencia, la tecnología, el medio ambiente, la seguridad pública, y el desarrollo agropecuario, social y turístico;
 
-### CAPÍTULO ÚNICO. Disposiciones Comunes
+> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+XXXVI.- Establecer y administrar el Fondo Estatal para la Cultura y las Artes, con objeto de canalizar los recursos adicionales que el Poder Ejecutivo obtenga, para el desarrollo de sus objetivos culturales, a través de los convenios que celebre con la Federación y demás organizaciones públicas, sociales y privadas, nacionales e internacionales;
 
-### CAPÍTULO I. De su Constitución, Organización y Funcionamiento
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+XXXVII.- Crear, coordinar, supervisar y dirigir la Red Estatal de Museos del Estado de Yucatán y promover la integración de los museos municipales a dicha red, y
+
+> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+XXXVIII.- Adquirir piezas culturales, históricas, documentales y artísticas, así como objetos para enriquecer el acervo de los museos que administre, de conformidad con la legislación y normativa aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO XXI. De la Secretaría de Pesca y Acuacultura Sustentables
+
+> <small>(ADICIONADO, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 47 quater. A la Secretaría de Pesca y Acuacultura Sustentables le corresponde el despacho de los siguientes asuntos:
+
+I.- Dirigir, planear y ejecutar las políticas públicas, y su contenido programático, en materia de pesca y acuacultura en el Estado;
+
+II.- Diseñar y aplicar, en el ámbito de su competencia, instrumentos económicos que incentiven el cumplimiento de los objetivos de la política pesquera y acuícola del Estado;
+
+III.- Concretar acuerdos y ejecutar programas en materia pesquera y acuícola;
+
+IV.- Elaborar la Carta Estatal Pesquera y la Carta Estatal Acuícola, y sus actualizaciones, y realizar los trámites necesarios para su publicación;
+
+V.- Establecer las bases de coordinación y, en su caso, gestionar la celebración de convenios y acuerdos de coordinación y colaboración con las dependencias de las administraciones públicas federal, estatal y municipales, e instituciones de investigación, así como celebrar acuerdos de concertación de acciones con los sectores productivos, para la ejecución de programas y proyectos de fomento y desarrollo de las actividades pesqueras y acuícolas;
+
+VI.- Promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas;
+
+VII.- Promover la investigación científica y tecnológica en materia pesquera y acuícola;
+
+VIII.- Gestionar la celebración de convenios con las dependencias, organizaciones e instituciones pertinentes, para incrementar la capacidad de administrar, conservar, aprovechar y transformar la flora y fauna acuáticas, para capacitar a quienes intervengan en la pesca y para el desarrollo de las artes, equipos y métodos utilizables en el quehacer pesquero y acuícola;
+
+IX.- Fomentar la investigación para mejorar y asegurar la calidad y diversificar la presentación de los productos pesqueros y acuícolas, y su transformación, conservación y traslado, a fin de maximizar el número de empleos y el valor de las capturas pesqueras o cosechas acuícolas, y minimizar los impactos ambientales de las actividades productivas del sector;
+
+X.- Proponer el establecimiento de zonas de refugio y las medidas necesarias para la recuperación de especies pesqueras sobreexplotadas;
+
+XI- Registrar las comisiones municipales de pesca y acuacultura, previa solicitud del ayuntamiento correspondiente;
+
+XII.- Promover la vinculación de la cultura pesquera y acuícola con la educación, la ciencia, la tecnología, el medio ambiente, la seguridad pública, y el desarrollo del Estado;
+
+XIII.- Establecer y administrar el Fondo Estatal para la Pesca y Acuacultura, con el objeto de canalizar los recursos adicionales que el Poder Ejecutivo obtenga, para el desarrollo de sus objetivos, a través de convenios que celebre con la federación y demás organizaciones públicas, sociales y privadas, nacionales e internacionales;
+
+XIV.- Coordinarse con la federación para todo lo relativo a los períodos de pesca y veda, de siembra y cosecha para el cultivo y producción de especies acuáticas, de acuerdo con las condiciones técnicas, biológicas y de medio ambiente;
+
+XV.- Coadyuvar, de conformidad con la normativa aplicable, en medidas de sanidad e inocuidad acuícola y pesquera para prevenir, controlar y erradicar agentes patógenos que representen un riesgo para las especies acuáticas o para el consumo humano de estas;
+
+XVI.- Impulsar y fomentar viveros, criaderos y reservas de especies acuáticas;
+
+XVII.- Coordinar, impulsar y fomentar la organización y desarrollo de exposiciones, ferias y eventos de interés para el sector pesquero y acuícola;
+
+XVIII.- Coordinar la asesoría técnica a pescadores, productores pesqueros y acuicultores;
+
+XIX.- Crear, operar y mantener actualizados los registros y sistemas de información estatales en materia de pesca y acuacultura;
+
+XX.- Establecer las políticas públicas, lineamientos y programas para promover el acceso de los pescadores, productores pesqueros y acuicultores al desarrollo económico y social, y
+
+XXI.- Ejercer las funciones en materia de pesca y acuacultura que corresponden al Ejecutivo del estado en términos de las disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO XXII. De la Secretaría de las Mujeres
+
+> <small>(ADICIONADO, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 47 quinquies. A la Secretaría de las Mujeres le corresponde el despacho de los siguientes asuntos:
+
+I.- Coordinar la elaboración y aplicación de las políticas públicas, programas y acciones para la igualdad entre mujeres y hombres y el acceso de las mujeres a una vida libre de violencia, así como proponer a las dependencias y entidades de la Administración Pública estatal políticas, programas y acciones en la materia; y coadyuvar en su aplicación;
+
+II.- Promover y participar en la política de género nacional e internacional;
+
+III.- Colaborar con la Secretaría de Administración y Finanzas en la construcción del presupuesto de egresos, con el objeto de que en sus diversos programas presupuestarios, los recursos se asignen con perspectiva de género; y participar en la elaboración del anexo, en el cual se identifiquen estos recursos;
+
+IV.- Dar seguimiento a las conclusiones, recomendaciones o informes que se deriven de los procedimientos realizados en el estado con motivo de la declaratoria de la alerta de la violencia de género, incluyendo en sus estados preventivos o preliminares;
+
+V.- Promover, en un marco de respeto a su autonomía, que los municipios cumplan con las obligaciones en materia de igualdad entre mujeres y hombres; y de violencia de género;
+
+VI.- Coordinarse con los poderes Legislativo y Judicial del estado, así como con los organismos constitucionales autónomos, para generar políticas interinstitucionales en materia de igualdad entre mujeres y hombres y de acceso a una vida libre de violencia, o para replicar las existentes;
+
+VII.- Construir y gestionar con los poderes Legislativo y Judicial las políticas públicas necesarias en materia de violencia contra las mujeres y género;
+
+VIII.- Establecer, promover y vigilar el debido cumplimiento de los protocolos y metodologías para la atención y prevención de la violencia contra las mujeres en el estado; así como promover su incorporación en los municipios;
+
+IX.- Gestionar financiamientos para el desarrollo de proyectos con perspectiva de género, enfoque de derechos humanos, interculturalidad y educación para la paz ante instancias públicas y organizaciones gubernamentales o no gubernamentales, nacionales o internacionales;
+
+X.- Procurar la implementación de estrategias para el cumplimiento y seguimiento de los tratados internacionales en materia de igualdad entre mujeres y hombres, equidad de género y prevención de la violencia contra las mujeres de los que el Estado mexicano forme parte;
+
+XI.- Supervisar el debido cumplimiento en el ejercicio de los recursos de los fondos estatales para la promoción de la igualdad entre las mujeres y los hombres en Yucatán, así como del fortalecimiento de las instancias que tengan el mismo objeto;
+
+XII.- Integrar, en coordinación con las autoridades competentes, los instrumentos de planeación estatales, para asegurar la igualdad entre mujeres y hombres;
+
+XIII.- Procurar, impulsar y apoyar la promoción de la igualdad entre mujeres y hombres en el estado;
+
+XIV.- Coordinarse con el Sistema Estatal para la Igualdad entre Mujeres y Hombres a que se refiere la Ley para la Igualdad entre Mujeres y Hombres del Estado de Yucatán;
+
+XV.- Promover la creación de instancias de atención a la mujer en el estado, y
+
+XVI.- Ejercer las funciones en materia de igualdad entre mujeres y hombres, empoderamiento de las mujeres y no discriminación por razones de género, que la legislación y la normativa aplicables confieren al Ejecutivo.
 
 # LIBRO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
 ## TÍTULO I. DE LAS ENTIDADES PARAESTATALES
 
-### CAPÍTULO II. Del Registro
+### CAPÍTULO ÚNICO. Disposiciones Comunes
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 48.
 
@@ -1937,7 +2059,9 @@ Las infracciones a este Código serán sancionadas en los términos que legalmen
 
 ## TÍTULO II. DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS
 
-### CAPÍTULO ÚNICO. De su Constitución, Organización y Funcionamiento
+### CAPÍTULO I. De su Constitución, Organización y Funcionamiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 66.
 
@@ -2079,9 +2203,7 @@ En todo caso las facultades establecidas en las fracciones II, III, IV y VII, la
 
 Cuando se requiera acreditar la personalidad y facultades de los miembros del Órgano de Gobierno, del Secretario de éste, del Director General y de los Apoderados Generales de los Organismos Públicos Descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro de Entidades Paraestatales.
 
-### CAPÍTULO ÚNICO. De su Constitución, Organización y Funcionamiento
-
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+### CAPÍTULO II. Del Registro
 
 ###### Artículo 78.
 
@@ -2101,7 +2223,7 @@ Cuando se requiera acreditar la personalidad y facultades de los miembros del Ó
 
 ## TÍTULO III. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
-### CAPÍTULO I. De las Obligaciones
+### CAPÍTULO ÚNICO. De su Constitución, Organización y Funcionamiento
 
 ###### Artículo 82.
 
@@ -2163,7 +2285,9 @@ En los casos en que se acuerde la enajenación, en igualdad de condiciones y res
 
 ## TÍTULO IV. DE LOS FIDEICOMISOS PÚBLICOS
 
-### CAPÍTULO II. Del Programa Institucional
+### CAPÍTULO ÚNICO. De su Constitución, Organización y Funcionamiento
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 93.
 
@@ -2211,9 +2335,7 @@ En los contratos constitutivos de fideicomisos de la Administración Pública Es
 
 ## TÍTULO V. DEL DESARROLLO Y OPERACIÓN DE LAS ENTIDADES PARAESTATALES
 
-### CAPÍTULO III. De los Presupuestos
-
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
+### CAPÍTULO I. De las Obligaciones
 
 ###### Artículo 101.
 
@@ -2231,7 +2353,7 @@ IV.- Los rasgos más destacados de su organización para la producción de los b
 
 Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a las disposiciones de este Código, a la Ley de Planeación del Estado de Yucatán, a los programas sectoriales que se deriven del mismo y a las asignaciones de gastos y financiamientos autorizados. Dentro de tales preceptos las entidades formularán sus programas institucionales a corto, mediano y largo plazos.
 
-### CAPÍTULO IV. De la Inversión de Recursos
+### CAPÍTULO II. Del Programa Institucional
 
 ###### Artículo 103.
 
@@ -2241,9 +2363,9 @@ En el programa institucional estarán incluidos los compromisos trazados y deber
 
 El programa Institucional de la entidad paraestatal se elaborará en los términos y condiciones a que se refiere la Ley de Planeación y se revisará anualmente para introducir las modificaciones que las circunstancias le impongan.
 
-### CAPÍTULO V. De los Programas Financieros
+### CAPÍTULO III. De los Presupuestos
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 105.
 
@@ -2259,7 +2381,7 @@ La entidad paraestatal manejará y erogará sus recursos por medio de sus órgan
 
 Las entidades paraestatales en lo referente a la formulación y al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones, rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública deberá sujetarse en primer término a lo dispuesto por este Código y las normas aplicables, así como a los lineamientos establecidos por la Secretaría de Administración y Finanzas.
 
-### CAPÍTULO VI. De los Comités
+### CAPÍTULO IV. De la Inversión de Recursos
 
 ###### Artículo 108.
 
@@ -2269,7 +2391,9 @@ La inversión de los recursos de las entidades paraestatales debe hacerse en las
 
 Las entidades paraestatales no podrán utilizar formas de inversión que tengan carácter especulativo, quedando prohibidas las inversiones en acciones o valores de Casas de Bolsa.
 
-### CAPITULO VII. De las Atribuciones de los Órganos de Gobierno
+### CAPÍTULO V. De los Programas Financieros
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 110.
 
@@ -2281,9 +2405,7 @@ Los programas financieros de la entidad paraestatal deberán formularse conforme
 
 Los directores generales o sus equivalentes de las entidades paraestatales, someterán el Programa Financiero para su autorización al Órgano de Gobierno respectivo. Una vez aprobado, remitirán a la Secretaría de Administración y Finanzas, la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de las leyes correspondientes.
 
-### CAPÍTULO VIII. De las Facultades y Obligaciones de los Directores Generales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+### CAPÍTULO VI. De los Comités
 
 ###### Artículo 112.
 
@@ -2293,9 +2415,7 @@ El Órgano de Gobierno, a propuesta de su Presidente o cuando menos de la tercer
 
 Los coordinadores de sector establecerán comités mixtos de productividad de las entidades paraestatales, en los cuales participarán representantes de los trabajadores de la paraestatal y del Gobierno del Estado, que analizarán las medidas relativas a la organización de los procesos productivos, de selección, de aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas.
 
-### CAPÍTULO IX. Del Control y Evaluación
-
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO VII. De las Atribuciones de los Órganos de Gobierno
 
 ###### Artículo 114.
 
@@ -2353,9 +2473,9 @@ XIV.- Autorizar la creación de comités de apoyo, con fines de coordinación, y
 
 XV.- Vigilar la aplicación de los donativos o pagos extraordinarios con sujeción a las disposiciones legales relativas, con base en las disposiciones de la dependencia a la que se encuentre sectorizada.
 
-### CAPÍTULO X. Del Registro de las Entidades Paraestatales
+### CAPÍTULO VIII. De las Facultades y Obligaciones de los Directores Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 116.
 
@@ -2386,6 +2506,10 @@ X.- Suscribir, en su caso, los contratos individuales y colectivos que regulen l
 XI.- Otorgar poderes a cualquier persona a fin de que pueda ejercer las facultades que les competan en nombre y representación del organismo, entre ellos los que requieran de autorización o cláusula especial, únicamente para pleitos y cobranzas en términos del Código Civil del Estado, y
 
 XII.- Las demás que señalen otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
+
+### CAPÍTULO IX. Del Control y Evaluación
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 117.
 
@@ -2422,6 +2546,10 @@ Las inversiones del Estado en aquellas empresas en las que participe la Administ
 La enajenación de títulos representativos del capital social, propiedad del Gobierno Estatal o de las entidades paraestatales, se realizará mediante las normas que emita el Gobernador del Estado, a través de la Secretaría de Administración y Finanzas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO X. Del Registro de las Entidades Paraestatales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 124.
 
@@ -2895,7 +3023,7 @@ Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo est
 
 D.O. 9 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 371/2016 POR EL QUE SE EMITE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 371/2016 POR EL QUE SE EMITE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN".]
 
 Primero. Entrada en vigor
 
@@ -3054,3 +3182,95 @@ El gobernador deberá adecuar el Reglamento de la Ley de Proyectos para la Prest
 Cuarto. Obligación normativa
 
 El gobernador deberá adecuar el Reglamento de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 23 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 5/2018 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2019, previa publicación en el diario oficial del estado, a excepción de lo dispuesto por el artículo transitorio cuarto, que lo hará el día de su publicación.
+
+Segundo. Gabinete sectorizado
+
+El gobernador deberá establecer un esquema de trabajo entre las dependencias y entidades de la Administración Pública estatal, en los términos del artículo 15 del Código de la Administración Pública de Yucatán.
+
+Tercero. Movimiento de personal
+
+El personal de las dependencias o entidades que por disposición de las modificaciones contenidas en este decreto pase a formar parte de otra, estará a lo dispuesto en las disposiciones legales y normativas aplicables, en estricto apego a sus derechos laborales
+
+Cuarto. Armonización legislativa
+
+El Congreso del estado deberá realizar las adecuaciones legales necesarias para armonizar el marco jurídico estatal al contenido de este decreto en un plazo que no exceda de ciento cincuenta días naturales, contados a partir de su publicación en el diario oficial del estado.
+
+Quinto. Obligación normativa
+
+El gobernador, en un plazo no mayor de ciento veinte días naturales, contados a partir de la entrada en vigor de este decreto, deberá expedir las modificaciones al Reglamento del Código de la Administración Pública de Yucatán que resulten pertinentes con motivo de este decreto
+
+Sexto. Adecuaciones normativas
+
+El gobernador del estado deberá realizar las adecuaciones normativas necesarias para armonizar el marco jurídico estatal al contenido de este decreto, incluso el relativo a las entidades paraestatales cuyas atribuciones se vean afectadas por este, conforme se establezca en las disposiciones legales aplicables.
+
+Séptimo. Destino de recursos
+
+El gobernador dispondrá lo conducente en relación con el destino de los recursos humanos, financieros, materiales, tecnológicos, bienes muebles e inmuebles, así como archivos, expedientes y documentos asignados a las dependencias a las que se refiere este decreto.
+
+Octavo. Referencia a la Secretaría de la Juventud
+
+Cuando en las leyes de las dependencias o entidades de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia a la Secretaría de la Juventud o al secretario de la Juventud, se entenderá que se refieren, en todos los casos, a la Secretaría de Desarrollo Social o al secretario de Desarrollo Social, según corresponda.
+
+Noveno. Referencia a la Secretaría de Fomento Económico
+
+Cuando en las leyes de las dependencias o entidades de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia a la Secretaría de Fomento Económico o al secretario de Fomento Económico, se entenderá que se refieren, en todos los casos, a la Secretaría de Fomento Económico y Trabajo o al secretario de Fomento Económico y Trabajo, según corresponda.
+
+Décimo. Referencia a la Secretaría de Desarrollo Urbano y Medio Ambiente
+
+Cuando en las leyes de las dependencias o entidades de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia a la Secretaría de Desarrollo Urbano y Medio Ambiente o al secretario de Desarrollo Urbano y Medio Ambiente, se entenderá que se refieren, en todos los casos, a la Secretaría de Desarrollo Sustentable o al secretario de Desarrollo Sustentable, según corresponda.
+
+Décimo primero. Referencia a la Secretaría del Trabajo y Previsión Social
+
+Cuando en las leyes de las dependencias o entidades de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia a la Secretaría del Trabajo y Previsión Social o al secretario del Trabajo y Previsión Social, se entenderá que se refieren, en todos los casos, a la Secretaría de Fomento Económico y Trabajo o al secretario de Fomento Económico y Trabajo, según corresponda.
+
+Décimo segundo. Referencia a la Comisión de Pesca y Acuacultura Sustentable del Estado de Yucatán
+
+Cuando en cualquier disposición legal estatal se haga referencia a la Secretaría de Desarrollo Rural, por conducto de la Comisión de Pesca y Acuacultura Sustentable del Estado de Yucatán o a la Comisión de Pesca y Acuacultura Sustentable del Estado de Yucatán, se entenderá que se refieren, en todos los casos, a la Secretaría de Pesca y Acuacultura Sustentables, señalada en este Decreto.
+
+Décimo tercero. Referencia al Instituto para la Igualdad entre Mujeres y Hombres en Yucatán
+
+Cuando en cualquier disposición legal estatal se haga referencia al Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, se entenderá que se refieren, en todos los casos, a la Secretaría de las Mujeres, señalada en este Decreto.
+
+Décimo cuarto. Actos en trámite de la Secretaría de la Juventud
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Secretaría de la Juventud, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto, serán asumidos por la Secretaría de Desarrollo Social, de conformidad con las disposiciones legales y normativas aplicables.
+
+Décimo quinto. Actos en trámite de la Secretaría de Fomento Económico
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Secretaría de Fomento Económico, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto, serán asumidos por la Secretaría de Fomento Económico y Trabajo, de conformidad con las disposiciones legales y normativas aplicables.
+
+Décimo sexto. Actos de la Secretaría de Desarrollo Urbano y Medio Ambiente
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Secretaría de Desarrollo Urbano y Medio Ambiente, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto, serán asumidos por la Secretaría de Desarrollo Sustentable, de conformidad con las disposiciones legales y normativas aplicables.
+
+Décimo séptimo. Actos en trámite de la Secretaría del Trabajo y Previsión Social
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Secretaría del Trabajo y Previsión Social, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto, serán asumidos por la Secretaría de Fomento Económico y Trabajo, de conformidad con las disposiciones legales y normativas aplicables.
+
+Décimo octavo. Cumplimiento de disposiciones
+
+Las disposiciones de las leyes vigentes que, sin oponerse a lo previsto en este decreto, se refieran a las dependencias de la Administración Pública estatal cuya denominación o atribuciones hayan sido modificadas, continuarán con toda su obligatoriedad y deberán cumplirse por las nuevas dependencias que, en el marco de este decreto, tengan atribuciones iguales o análogas.
+
+Décimo noveno. Resolución de casos no previstos
+
+Se faculta al gobernador para resolver las cuestiones que puedan suscitarse con motivo de la aplicación del artículo transitorio anterior.
+
+Vigésimo. Previsiones presupuestales
+
+El gobernador, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para el debido funcionamiento de las dependencias y entidades a las que se refiere este decreto.
+
+Vigésimo primero. Ejercicio de atribuciones
+
+Las dependencias correspondientes continuarán ejerciendo las atribuciones en materia de transporte y desarrollo urbano que les confería el Código de la Administración Pública de Yucatán vigente previo a la entrada en vigor de este decreto, hasta en tanto se realizan las adecuaciones legales y normativas a que se refieren los transitorios cuarto y quinto.
+
+Vigésimo segundo. Derogación tácita
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
