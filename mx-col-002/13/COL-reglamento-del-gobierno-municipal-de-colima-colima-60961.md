@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2018-10-20"
+last_updated: "2018-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -259,7 +259,7 @@ El Ayuntamiento electo se instalará con la mayoría de sus miembros, en sesión
 
 ###### Artículo 20.
 
-Debidamente instalado el Ayuntamiento, se aplicará (sic) en lo conducente las disposiciones previstas en el Capítulo II del Título Segundo de la Ley Municipal. El Presidente Municipal, procederá además a dar a conocer los nombres de los titulares de las diferentes dependencias de la administración pública municipal centralizada y al cabildo las bases para la elaboración de los siguientes instrumentos de planeación: el Plan Municipal de Desarrollo, el Programa de Gobierno Municipal y los subprogramas correspondientes derivados de éste último, así como los lineamientos para formular el Programa Operativo Anual.
+Debidamente instalado el Ayuntamiento, se aplicará en lo conducente las disposiciones previstas en el Capítulo II del Título Segundo de la Ley Municipal. El Presidente Municipal, procederá además a dar a conocer los nombres de los titulares de las diferentes dependencias de la administración pública municipal centralizada y al cabildo las bases para la elaboración de los siguientes instrumentos de planeación: el Plan Municipal de Desarrollo, el Programa de Gobierno Municipal y los subprogramas correspondientes derivados de éste último, así como los lineamientos para formular el Programa Operativo Anual.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -273,7 +273,9 @@ En términos del artículo 35 de la Ley Municipal, instalado el ayuntamiento, el
 
 De acuerdo con lo señalado en los artículos 36 y 43 de la Ley Municipal, al día siguiente de la sesión de instalación legal, el Ayuntamiento deberá proceder mediante sesión ordinaria de cabildo a cumplir con lo siguiente:
 
-I.- Nombrar, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, Tesorero Municipal, Oficial Mayor y Contralor Municipal;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I.- Nombrar, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, Tesorero Municipal, Oficial Mayor, Contralor Municipal, Juez Cívico y al Titular del Área de Seguridad Pública.
 
 II.- Aprobar, a propuesta del Presidente Municipal, las Comisiones del Cabildo; y
 
@@ -747,7 +749,9 @@ XIV.- Ser el ejecutor de los acuerdos, determinaciones y resoluciones del cabild
 
 XV.- Celebrar a nombre del Ayuntamiento, en ejercicio de las facultades que la ley le confiere o en ejercicio de los acuerdos del cabildo, todos los actos jurídicos y contratos necesarios para el despacho de los negocios administrativos y la eficaz prestación de los servicios públicos municipales.
 
-XVI.- Proponer al cabildo para su aprobación los nombramientos del Secretario del Ayuntamiento, así como del Tesorero, Oficial Mayor y Contralor Municipales, y removerlos en caso justificado.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XVI.- Proponer al cabildo para su aprobación los nombramientos del Secretario del Ayuntamiento, Tesorero Municipal, Oficial Mayor, Contralor Municipal, Juez Cívico y al Titular del Área de Seguridad Pública, asimismo removerlos en caso justificado.
 
 XVII.- Solicitar la publicación en el Periódico Oficial "El Estado de Colima" de reglamentos y demás disposiciones de observancia general relativos al Municipio, aprobados por el cabildo.
 
@@ -1145,7 +1149,7 @@ El munícipe que disienta del acuerdo o resolución aprobado por la mayoría de 
 
 El voto concurrente se tendrá como voto a favor y se sumará al sentido de la mayoría. El voto disidente se tendrá como voto en contra y se sumará al sentido de la minoría.
 
-Los votos particulares deberán anunciarse en la propia sesión de cabildo en la que se acuerden o resuelven (sic) los asuntos que los motivan y se presentarán por escrito ante el Secretario del H. Ayuntamiento dentro de las 48 horas siguientes al término de dicha sesión. Se insertarán íntegramente en el acta de la sesión de Cabildo al final del acuerdo o resolución que los hubiese originado.
+Los votos particulares deberán anunciarse en la propia sesión de cabildo en la que se acuerden o resuelven los asuntos que los motivan y se presentarán por escrito ante el Secretario del H. Ayuntamiento dentro de las 48 horas siguientes al término de dicha sesión. Se insertarán íntegramente en el acta de la sesión de Cabildo al final del acuerdo o resolución que los hubiese originado.
 
 > <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2017)</small>
 
@@ -1519,7 +1523,7 @@ X.- Vigilar y supervisar el ejercicio del presupuesto de egresos, así como el c
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
 
-XI.- Coordinarse con las demás comisiones y dependencias que se estimen pertinentes, para que los presupuestos de egresos sean realistas y congruentes con la Ley de Ingresos del Municipio de Colima contemplada dentro de cada ejercicio fiscal ...
+XI.- Coordinarse con las demás comisiones y dependencias que se estimen pertinentes, para que los presupuestos de egresos sean realistas y congruentes con la Ley de Ingresos del Municipio de Colima contemplada dentro de cada ejercicio fiscal ... (sic)
 
 XII.- Proponer todas las medidas, planes y proyectos para el mejoramiento y fortalecimiento de la hacienda municipal.
 
@@ -2947,7 +2951,9 @@ c) Suscribir a nombre del Ayuntamiento y en los casos que lo ameriten con autori
 
 d) Conducir las relaciones políticas del Ayuntamiento con los poderes federales, estatales y con otros municipios y representar a la institución oficial en todos los actos oficiales;
 
-e) Proponer al Cabildo los nombramientos del Secretario, Tesorero, Oficial Mayor y Contralor municipal y removerlos en caso justificado.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+e) Proponer al cabildo los nombramientos del Secretario del Ayuntamiento, Tesorero Municipal, Oficial Mayor, Contralor Municipal, Juez Cívico y al Titular del Área de Seguridad Pública, asimismo removerlos en caso justificado;
 
 f) Solicitar la publicación en el Periódico Oficial de Reglamentos y demás disposiciones de observancia general concernientes al Municipio;
 
@@ -6576,3 +6582,7 @@ QUINTO.- Las menciones que se hagan en otros ordenamientos de las dependencias m
 SEXTO.- Para efectos legales correspondientes se instruye a la Secretaría del H. Ayuntamiento, para que por su conducto se dé trámite ante la Secretaría General de Gobierno para la publicación del presente Acuerdo en el Periódico Oficial "El Estado de Colima".
 
 SÉPTIMO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo con lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno Municipal de Colima.
+
+P.O. 24 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.]</small>
