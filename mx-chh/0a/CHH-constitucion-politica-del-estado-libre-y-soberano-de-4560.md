@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2018-09-05"
+last_updated: "2018-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE SEPTIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -687,7 +685,7 @@ La persona que asuma el Poder Ejecutivo conforme a este artículo, convocará de
 
 ###### Art. 36.
 
-La renovación de los Poderes legislativo, Ejecutivo y los Ayuntamientos, se realizará mediante sufragio universal, libre, secreto y directo, conforme a las bases que establezca la presente Constitución. La jornada electoral tendrá lugar el primer domingo de junio del año que corresponda.
+La renovación de los Poderes Legislativo, Ejecutivo y los Ayuntamientos, se realizará mediante sufragio universal, libre, secreto y directo, conforme a las bases que establezca la presente Constitución. La jornada electoral tendrá lugar el primer domingo de junio del año que corresponda.
 
 Los procesos electorales ordinarios para la renovación del Poder Ejecutivo se celebrarán cada seis años, y para el Poder Legislativo y los Ayuntamientos cada tres años; todos los procesos se sujetarán a los principios rectores de certeza, legalidad, imparcialidad, objetividad, máxima publicidad e independencia.
 
@@ -1281,7 +1279,7 @@ F.- Suspender ayuntamientos, declarar que éstos han desaparecido y suspender o 
 
 En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procediere que entraren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura designará de entre los vecinos a los miembros de los concejos que concluirán los períodos respectivos; estos concejos municipales estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
 
-En los casos de nulidad de elecciones y en los demás a que se refieren este inciso y el anterior, si la declaratoria correspondiente o falta acaece dentro de los seis primeros meses del ejercicio constitucional de los ayuntamientos, se convocará a elecciones para designar las personas que han de substituirlos; si aconteciere después del plazo señalado, los nombrados por el Congreso constituido en Colegio Electoral concluirán el período.
+En los casos de nulidad de elecciones y en los demás a que se refieren este inciso y el anterior, si la declaratoria correspondiente o falta acaece dentro de los seis primeros meses del ejercicio constitucional de los ayuntamientos, se convocará a elecciones para designar las personas que han de substituírlos; si aconteciere después del plazo señalado, los nombrados por el Congreso constituido en Colegio Electoral concluirán el período.
 
 Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga el Código Municipal.
 
@@ -2727,9 +2725,9 @@ J. Los demás que establezca la ley.
 
 III.- Los productos y aprovechamientos que la ley determine.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV.- Las participaciones federales, que les serán cubiertas con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado, a partir de criterios demográficos, de niveles de desarrollo, prioridad regional y disponibilidad de recursos y servicios.
+IV.- Las participaciones federales, que les serán cubiertas con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado, a partir de criterios que se establezcan en la Ley;
 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3051,7 +3049,7 @@ En el Estado de Chihuahua es altamente honroso y meritorio servir a la educació
 
 ###### Art. 151.
 
-Los particulares podrán impartir educación en todos sus tipos y modalidades, en los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares, los que deberán ajustarse, sin excepción, a lo dispuesto en el artículo 3° de la Constitución Federal y 144 de la presente.
+Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares, los que deberán ajustarse, sin excepción, a lo dispuesto en el artículo 3° de la Constitución Federal y 144 de la presente.
 
 ###### Art. 152.
 
@@ -4027,7 +4025,7 @@ DECRETO No. 756/03 VIII P.E., QUE MODIFICA EL TÍTULO XIII Y SE ADICIONA UN SEXT
 
 PRIMERO.- El presente Decreto entrará en vigor en un plazo de ciento ochenta días, contados a partir de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Por Lo que se refiere a la modificación del artículo 178 de la Constitución Política del Estado, y conforme lo dispone el artículo 202 de dicho ordenamiento, remítase copia del Dictamen, de la Iniciativa y de los debates del Congreso, a los sesenta y siete Municipios del Estado, para efectos de su aprobación, en su caso, cuya resolución deberán hacer llegar al Congreso o a la Diputación Permanente, a más tardar dentro de los cuarenta y cinco días siguientes a la fecha en que reciban la comunicación.
+SEGUNDO.- Por lo que se refiere a la modificación del artículo 178 de la Constitución Política del Estado, y conforme lo dispone el artículo 202 de dicho ordenamiento, remítase copia del Dictamen, de la Iniciativa y de los debates del Congreso, a los sesenta y siete Municipios del Estado, para efectos de su aprobación, en su caso, cuya resolución deberán hacer llegar al Congreso o a la Diputación Permanente, a más tardar dentro de los cuarenta y cinco días siguientes a la fecha en que reciban la comunicación.
 
 TERCERO.- Una vez en vigor, el Estado y los Municipios incluirán en sus Presupuestos de Egresos la partida presupuestal correspondiente para hacer frente a su responsabilidad patrimonial, conforme a los siguientes criterios.
 
@@ -4203,7 +4201,7 @@ I.- El Consejero Presidente se elegirá por seis años;
 
 II.- De los seis consejeros electorales, tres de ellos serán designados para un período de seis años y los tres restantes para un período de tres años.
 
-III.- Los consejeros electorales, incluido el Presidente, que se nombren para los periodos posteriores, durarán en su cargo seis años.
+III.- Los consejeros electorales, incluido el Presidente, que se nombren para los períodos posteriores, durarán en su cargo seis años.
 
 ###### ARTÍCULO SEXTO.
 
@@ -4223,11 +4221,11 @@ P.O. 9 DE SEPTIEMBRE DE 2009.
 
 ###### ARTÍCULO PRIMERO.
 
-Por lo que respecta a la reforma constitucional, conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizando que sea, publíquese en el Periódico Oficial del Estado, junto con la reforma a la Ley Orgánica del Poder Judicial.
+Por lo que respecta a la reforma constitucional, conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado, junto con la reforma a la Ley Orgánica del Poder Judicial.
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE DICIEMBRE DE 2009.
 
@@ -4389,7 +4387,7 @@ El Presidente actual de la Comisión Estatal de los Derechos Humanos cumplirá e
 
 ###### ARTÍCULO CUARTO.
 
-El resto de los consejeros actuales continuarán en ejercicio de sus funciones, incluso si el periodo por el que fueron designados ha vencido o está por vencerse, hasta la misma fecha en que culmine el periodo del actual Presidente y no podrán ser reelectos. Previo a dicho vencimiento, el Congreso del Estado deberá iniciar el procedimiento a que se refiere el Artículo 4°, apartado D, de la Constitución local, a fin de designar a quienes deban sustituirlos.
+El resto de los consejeros actuales continuarán en ejercicio de sus funciones, incluso si el período por el que fueron designados ha vencido o está por vencerse, hasta la misma fecha en que culmine el periodo del actual Presidente y no podrán ser reelectos. Previo a dicho vencimiento, el Congreso del Estado deberá iniciar el procedimiento a que se refiere el Artículo 4°, apartado D, de la Constitución local, a fin de designar a quienes deban sustituirlos.
 
 ###### ARTÍCULO QUINTO.
 
@@ -4397,7 +4395,7 @@ A efecto de estar en la posibilidad de renovar parcialmente a los integrantes de
 
 I. Dos por un período de 3 años;
 
-II. Dos por un periodo de 2 años; y
+II. Dos por un período de 2 años; y
 
 III. Los restantes dos, por un período de 1 año.
 
@@ -4573,13 +4571,13 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 
 ###### ARTÍCULO SEGUNDO.
 
-Por lo que respecta a las modificaciones contenidas en los Artículos Primero y Segundo del presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Lo dispuesto en los demás Artículos del presente Decreto, surtirá vigencia un día después de que lo haga la reforma constitucional señalada en el Articulo Segundo.
+Por lo que respecta a las modificaciones contenidas en los Artículos Primero y Segundo del presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Lo dispuesto en los demás Artículos del presente Decreto, surtirá vigencia un día después de que lo haga la reforma constitucional señalada en el Artículo Segundo.
 
 ###### ARTÍCULO TERCERO.
 
 Con excepción de lo relativo a su adscripción al Poder Judicial del Estado, el Tribunal Estatal Electoral continuará ejerciendo sus funciones normalmente con la misma integración y atribuciones con que lo ha venido haciendo previo a la aprobación del presente Decreto, por lo que los actuales magistrados continuarán en el ejercicio de sus atribuciones hasta que culmine el tiempo por el que fueron designados.
 
-Los contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, continuarán baja los mismos términos con los que se celebraron.
+Los contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, continuarán bajo los mismos términos con los que se celebraron.
 
 ###### ARTÍCULO CUARTO.
 
@@ -5054,3 +5052,11 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Notifíquese el presente Decreto a la Suprema Corte de Justicia de la Nación, en cumplimiento a lo ordenado en la Resolución de la Controversia Constitucional número 179/2017.
+
+P.O. 24 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFCNT/0882/2018 XVIII P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 132, FRACCIÓN IV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su caso, hágase por el Congreso del Estado o por la Diputación Permanente, el computo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
