@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-notariado-para-el-estado-de-tabasco-35499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-20"
-last_updated: "2017-07-05"
+last_updated: "2018-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2003.
 
@@ -261,9 +261,11 @@ VII. Patrocinar a los interesados en los procedimientos administrativos o judici
 
 Los Notarios para desempeñar un cargo incompatible con el ejercicio del notariado, deben obtener previamente licencia del Titular del Poder Ejecutivo del Estado, expidiéndose el acuerdo respectivo, que se publicará en el Periódico Oficial.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 29.
 
-No podrá concederse licencia o licencias consecutivas a un Notario para separarse del ejercicio de sus funciones por más de seis años; transcurrido dicho término, el Notario debe volver inmediatamente a sus funciones y actuar durante un año consecutivo, por lo menos. Si el Notario en este caso no regresa a sus funciones o habiendo regresado no permanece en ellas un año consecutivo, previa audiencia y seguidas las formalidades del caso, perderá la patente y se procederá a designar nuevo Notario titular en los términos del artículo 16 de esta Ley. Se exceptúa de esta disposición, la licencia que se conceda a un Notario para desempeñar un cargo de elección popular.
+No podrá concederse prórroga, licencia, o licencias consecutivas a un Fedatario para separarse del ejercicio de sus funciones por más de nueve años; transcurrido dicho término, el Notario debe volver inmediatamente a sus funciones y actuar durante un año consecutivo, por lo menos. Si el Notario en este caso no regresa a sus funciones o habiendo regresado no permanece en ellas un año consecutivo, previa audiencia y seguidas las formalidades del caso, perderá la patente y se procederá a designar nuevo Notario titular en los términos del artículo 16 de esta Ley. Se exceptúa de esta disposición, la licencia que se conceda a un Notario para desempeñar cargos de elección popular o de designación, nombramiento o elección realizada por el Congreso del Estado, en cuyo caso la licencia durará hasta que concluya el cargo de que se trate.
 
 ###### ARTÍCULO 30.
 
@@ -1168,3 +1170,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 24 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 009 POR EL QUE “SE REFORMA EL ARTÍCULO 29 DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.
