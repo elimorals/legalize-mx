@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-en-materia-de-derechos-con-la-federacion-45
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-30"
-last_updated: "2006-10-21"
+last_updated: "2018-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE COORDINACION EN MATERIA DE DERECHOS CON LA FEDERACION
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTICULO TRANSITORIO NOVENO DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, PUBLICADA EN EL PERIÓDICO OFICIAL EL 24 DE NOVIEMBRE DE 2018; ÚLTIMO ORDENAMIENTO ENTRARÁ EN VIGOR EL DÍA PRIMERO DE ENERO DEL AÑO DOS MIL DIECINUEVE.]</small>
+
 LEY DE COORDINACION EN MATERIA DE DERECHOS CON LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1981.
 
@@ -138,3 +140,27 @@ LIC. ARMANDO ALMEIDA MARTINEZ.
 P.O. 21 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXV/EXLEY/0883/2018 XVIII P.E. LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
+
+PRIMERO.- La presente Ley entrará en vigor el día primero de enero del año dos mil diecinueve.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo señalado en la presente Ley.
+
+TERCERO.- El resultado de los ajustes a las participaciones correspondientes al ejercicio fiscal 2018 que se apliquen al Estado durante el ejercicio fiscal 2019, relativo al cuarto ajuste trimestral del Fondo de Fiscalización y Recaudación conforme el tercer párrafo del artículo 4o. de la Ley de Coordinación Fiscal, así como al tercer ajuste cuatrimestral y al ajuste definitivo a que hacen referencia los párrafos tercero y cuarto del artículo 7o. del mismo ordenamiento; se distribuirá entre los municipios bajo la mecánica y con los coeficientes de distribución de participaciones del sistema vigente hasta el 31 de diciembre de 2018.
+
+CUARTO.- En tanto se publiquen los resultados de los cierres contables correspondientes al ejercicio fiscal 2018, con el objeto de conocer los impuestos sin un fin específico a los que se refiere el artículo 38 de la presente Ley, se distribuirá entre los municipios bajo la mecánica y con los coeficientes de distribución del sistema vigente hasta el 31 de diciembre de 2018.
+
+QUINTO.- Dentro de los 60 días a la entrada en vigor de la presente Ley, se integrará la Reunión Estatal de Funcionarios Hacendarios, se nombrarán los Ayuntamientos representantes de cada Grupo de Municipios, se integrará la Comisión Permanente de Funcionarios Hacendarios y se elegirá el Coordinador Municipal de la Comisión Permanente.
+
+SEXTO.- Dentro de los 180 días a la entrada en vigor de la presente Ley, la Reunión Estatal establecerá las bases de la Coordinación Hacendaria en el Estado, y expedirá el Reglamento Interior de los Organismos del Sistema Hacendario Estatal.
+
+SÉPTIMO.- En tanto se sigan recaudando por el Estado los rezagos del Impuesto sobre Tenencia o Uso de Vehículos Federal, el 20% de su recaudación integrará también el Fondo de Participaciones Municipales, al que se refiere el artículo 28 de esta Ley.
+
+OCTAVO.- Se derogan los párrafos segundo y tercero, del artículo 142, de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, adicionados mediante Decreto No. 537/2014 V P.E., publicado en el Periódico Oficial del Estado No. 85 del 22 de octubre de 2014.
+
+NOVENO.- Se abroga la Ley de Coordinación en Materia de Derechos con la Federación, publicada en el Periódico Oficial del Estado número 104 del 30 de diciembre de 1981.
+
+DÉCIMO.- En tanto se congrega la Reunión Estatal y se conforma la Comisión Permanente para establecer las bases de la Coordinación Hacendaria en el Estado, y expedir el Reglamento Interior de los Organismos del Sistema Hacendario Estatal, el cálculo mensual de las Participaciones y Aportaciones descritas en la Ley, y con el propósito de facilitar el cálculo mensual de Participaciones y Aportaciones, la base de ambos rubros será dividida entre doce.
