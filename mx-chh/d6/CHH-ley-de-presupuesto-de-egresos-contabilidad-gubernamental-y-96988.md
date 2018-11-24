@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-gubernamental-y-9698
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-28"
-last_updated: "2017-02-22"
+last_updated: "2018-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PUBLICO DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2013.
 
@@ -1225,13 +1227,9 @@ En las cuentas bancarias productivas específicas se manejarán, exclusivamente,
 
 Los recursos federales solo podrán ser transferidos por las dependencias y entidades de la Administración Pública Federal a dichas cuentas bancarias productivas específicas, a través de las unidades administrativas competentes de los entes públicos y los municipios, salvo en el caso de ministraciones relacionadas con obligaciones que estén garantizadas con la afectación de sus participaciones o aportaciones federales, en términos de lo dispuesto por la Ley de Coordinación Fiscal y los demás casos previstos en las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2014)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-La Comisión Nacional del Agua podrá solicitar por escrito al Gobierno del Estado, a través de la Secretaría, previa acreditación del incumplimiento del pago de los derechos y aprovechamientos por concepto de agua y descargas residuales, la retención de la cantidad que cubra el pago incumplido, con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, que correspondan al Municipio de que se trate, en términos de los (sic) previsto en el artículo 51 de la Ley de Coordinación Fiscal.
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2014)</small>
-
-La Comisión Nacional del Agua solo podrá solicitar al Gobierno del Estado la retención y pago a que se hace referencia en el párrafo anterior, en aquellos casos en que los adeudos generados por el incumplimiento tengan una antigüedad mayor a 90 días naturales.
+> <small>(DEROGADO TERCER PÁRRAFO POR EL ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 143.
 
@@ -1696,3 +1694,27 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 24 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXV/EXLEY/0883/2018 XVIII P.E. LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS".]
+
+PRIMERO.- La presente Ley entrará en vigor el día primero de enero del año dos mil diecinueve.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo señalado en la presente Ley.
+
+TERCERO.- El resultado de los ajustes a las participaciones correspondientes al ejercicio fiscal 2018 que se apliquen al Estado durante el ejercicio fiscal 2019, relativo al cuarto ajuste trimestral del Fondo de Fiscalización y Recaudación conforme el tercer párrafo del artículo 4o. de la Ley de Coordinación Fiscal, así como al tercer ajuste cuatrimestral y al ajuste definitivo a que hacen referencia los párrafos tercero y cuarto del artículo 7o. del mismo ordenamiento; se distribuirá entre los municipios bajo la mecánica y con los coeficientes de distribución de participaciones del sistema vigente hasta el 31 de diciembre de 2018.
+
+CUARTO.- En tanto se publiquen los resultados de los cierres contables correspondientes al ejercicio fiscal 2018, con el objeto de conocer los impuestos sin un fin específico a los que se refiere el artículo 38 de la presente Ley, se distribuirá entre los municipios bajo la mecánica y con los coeficientes de distribución del sistema vigente hasta el 31 de diciembre de 2018.
+
+QUINTO.- Dentro de los 60 días a la entrada en vigor de la presente Ley, se integrará la Reunión Estatal de Funcionarios Hacendarios, se nombrarán los Ayuntamientos representantes de cada Grupo de Municipios, se integrará la Comisión Permanente de Funcionarios Hacendarios y se elegirá el Coordinador Municipal de la Comisión Permanente.
+
+SEXTO.- Dentro de los 180 días a la entrada en vigor de la presente Ley, la Reunión Estatal establecerá las bases de la Coordinación Hacendaria en el Estado, y expedirá el Reglamento Interior de los Organismos del Sistema Hacendario Estatal.
+
+SÉPTIMO.- En tanto se sigan recaudando por el Estado los rezagos del Impuesto sobre Tenencia o Uso de Vehículos Federal, el 20% de su recaudación integrará también el Fondo de Participaciones Municipales, al que se refiere el artículo 28 de esta Ley.
+
+OCTAVO.- Se derogan los párrafos segundo y tercero, del artículo 142, de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, adicionados mediante Decreto No. 537/2014 V P.E., publicado en el Periódico Oficial del Estado No. 85 del 22 de octubre de 2014.
+
+NOVENO.- Se abroga la Ley de Coordinación en Materia de Derechos con la Federación, publicada en el Periódico Oficial del Estado número 104 del 30 de diciembre de 1981.
+
+DÉCIMO.- En tanto se congrega la Reunión Estatal y se conforma la Comisión Permanente para establecer las bases de la Coordinación Hacendaria en el Estado, y expedir el Reglamento Interior de los Organismos del Sistema Hacendario Estatal, el cálculo mensual de las Participaciones y Aportaciones descritas en la Ley, y con el propósito de facilitar el cálculo mensual de Participaciones y Aportaciones, la base de ambos rubros será dividida entre doce.
