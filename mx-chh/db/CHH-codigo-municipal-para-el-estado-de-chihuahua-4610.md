@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2018-08-22"
+last_updated: "2018-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -37,13 +37,13 @@ DECRETO:
 
 DECRETO NO. 850/95 XVIII P.E.
 
-LA QUINCUAGESIMASEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DECIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
+LA QUINCUAGESIMASEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DÉCIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
 
 DECRETA:
 
 Unico.- Se expide el Código Municipal para el Estado de Chihuahua para quedar en los siguientes términos:
 
-CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
+CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
 # LIBRO PRIMERO. DE LA ORGANIZACION MUNICIPAL
 
@@ -56,6 +56,26 @@ CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 ###### ARTICULO 1.
 
 Este Código, contiene las normas a que se sujetará la organización interior del ayuntamiento y el funcionamiento de la administración pública municipal en el Estado de Chihuahua, reglamentando las disposiciones relativas a los Municipios, contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 1 Bis.
+
+Son objetivos específicos del presente Código:
+
+I. Establecer la forma de operación y funcionamiento de los Ayuntamientos del Estado de Chihuahua;
+
+II. Promover la cultura institucional para la igualdad laboral entre mujeres y hombres;
+
+III. Establecer las bases normativas para la transversalización de la perspectiva de género en los planes, políticas y acciones del Ayuntamiento;
+
+IV. Impulsar la igualdad sustantiva y no discriminación al interior como al exterior del Ayuntamiento;
+
+V. Garantizar los derechos humanos en todo el territorio municipal;
+
+VI. Garantizar un enfoque integral, transversal, con perspectiva de derechos humanos, de género e interculturalidad en el diseño y la instrumentación de políticas y programas de gobierno;
+
+VII. Establecer los procedimientos de impugnación de actos del Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -80,6 +100,36 @@ Los Municipios tendrán derecho, a determinar la forma particular de su organiza
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 El Ayuntamiento es la autoridad competente para interpretar la legislación municipal y dictar las disposiciones generales o particulares que se requieran para su eficaz cumplimiento.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Esta interpretación debe preservar la perspectiva de derechos humanos, de género, e interculturalidad, así como los principios constitucionales y aquellos establecidos en el presente Código.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 3 Bis.
+
+Los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en materia de derechos humanos de las mujeres, ratificados por el Estado Mexicano.
+
+Los Municipios podrán coordinarse con la Federación y el Estado para garantizar el derecho a que se refiere el párrafo anterior, en los términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 3 Ter.
+
+Para el cumplimiento de las acciones en materia de género, igualdad sustantiva, no discriminación y violencia contra las mujeres, se aplicarán, de manera supletoria las siguientes leyes:
+
+I. Ley General de los Derechos de Niñas, Niños y Adolescentes;
+
+II. Ley para la Inclusión y Desarrollo de las Personas con Discapacidad en el Estado de Chihuahua;
+
+III. Ley de Igualdad entre Mujeres y Hombres del Estado de Chihuahua:
+
+IV. Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia;
+
+V. Ley para Prevenir y Eliminar la Discriminación en el Estado de Chihuahua; y
+
+VI. Las demás disposiciones en materia de derechos humanos de las mujeres.
 
 ###### ARTICULO 4.
 
@@ -123,11 +173,15 @@ Cada Municipio será gobernado por un Ayuntamiento de elección popular directa 
 
 I.- En las secciones municipales, por las juntas municipales; y
 
-II.- En las demás poblaciones, por los comisarios de policía.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+II.- En las demás poblaciones, por la Comisaría de Policía.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 9.
 
-Son elegibles para el cargo de miembros de un Ayuntamiento, de junta municipal y comisarios de policía, los ciudadanos que reúnan los requisitos que exige para tales cargos la Constitución Política del Estado de Chihuahua.
+Son elegibles para el cargo de integrantes de un Ayuntamiento, de Junta Municipal y Comisarías de Policía, la ciudadanía que reúna los requisitos que exige para tales cargos la Constitución Política del Estado de Chihuahua.
 
 ###### ARTICULO 10.
 
@@ -327,13 +381,15 @@ Los conflictos relativos a límites territoriales que se susciten entre dos o m�
 
 En caso de que los municipios no lleguen a un acuerdo, podrán seguir el procedimiento ante el Poder Judicial del Estado, de conformidad con lo establecido en la Ley de Límites Intermunicipales del Estado de Chihuahua.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 13.
 
-El Congreso del Estado podrá, por el voto de los dos tercios de los diputados presentes, previa consulta mediante plebiscito a los electores residentes en los municipios de que se trate, erigir nuevos Municipios dentro de los límites de los ya existentes y suprimir aquellos que no reúnan las condiciones legales, siendo necesario para ambos casos:
+El Congreso del Estado podrá, por el voto de los dos tercios de las y los diputados presentes, previa consulta mediante plebiscito al electorado residente en los municipios de que se trate, erigir nuevos Municipios dentro de los límites de los ya existentes y suprimir aquellos que no reúnan las condiciones legales, siendo necesario para ambos casos:
 
-I.- Que lo soliciten, cuando menos, uno de los Ayuntamientos de los Municipios involucrados; el diez por ciento de los electores residentes en éstos, debidamente identificados, o la tercera parte de los miembros del Congreso;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I.- Que lo solicite, cuando menos, uno de los Ayuntamientos de los municipios involucrados; el diez por ciento del electorado residente en éstos, debidamente identificado o la tercera parte de las y los integrantes del Congreso;
 
 II.- Que la región que pretenda erigirse en Municipio, cuente con una población no menor de veinte mil habitantes, lo que se acreditará con el censo respectivo;
 
@@ -345,11 +401,9 @@ V.- Que el Ejecutivo del Estado, rinda asimismo, un informe al Congreso sobre di
 
 VI.- Que a criterio del Congreso del Estado, no afecte la subsistencia del, o los Municipios de cuyo territorio se trate.
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VII.- Cuando la solicitud sea presentada por el diez por ciento de los electores residentes en los municipios involucrados, los promoventes podrán nombrar a un representante quien tendrá el derecho de expresar por escrito al Congreso del Estado la opinión de los solicitantes, dentro de los sesenta días siguientes a la fecha en que se le comunique la solicitud; asimismo, el representante tendrá los mismos derechos a que se refiere el artículo 53 constitucional respecto a la iniciativa popular.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE AGOSTO DE 2004)</small>
+VII.- Cuando la solicitud sea presentada por el diez por ciento del electorado residente en los municipios involucrados, los promoventes podrán nombrar a un representante quien tendrá el derecho de expresar por escrito al Congreso del Estado la opinión de las y los solicitantes, dentro de los sesenta días siguientes a la fecha en que se le comunique la solicitud; asimismo, la o el representante tendrá los mismos derechos a que se refiere el artículo 53 constitucional respecto a la iniciativa ciudadana.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2004)</small>
 
@@ -383,15 +437,21 @@ C) Comunidad.- Al centro de población que tenga una concentración menor a dos 
 
 D) Ranchería.- Al centro de población que tenga una concentración menor de cuatrocientos noventa y nueve y hasta noventa y nueve habitantes y los servicios de: agua potable, alcantarillado, energía eléctrica, camino vecinal y escuela primaria.
 
-IV.- Para el mejoramiento integral del Estado, deberá plantearse el desarrollo urbano y definir las características necesarias de los centros de población, con la identificación y desarrollo de la mano de obra, el mercado y las materias primas, necesarias para mejorar las condiciones de vida de los pobladores.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV. Para el mejoramiento integral del Estado, deberá plantearse el desarrollo urbano y definir las características necesarias de los centros de población, con la identificación y desarrollo de la mano de obra, el mercado y las materias primas, necesarias para mejorar las condiciones de vida de la población.
 
 V.- Los centros de población que hayan cumplido con los requisitos señalados para cada categoría política, podrán ostentar oficialmente la que les corresponda, solicitando previamente declaración que al respecto deberá hacer el Ayuntamiento de cada municipio del Estado.
 
 VI.- El Ayuntamiento deberá someter la solicitud efectuada en sesión de Cabildo; de ser procedente, deberá publicarse la declaratoria en el Periódico Oficial de (sic) Gobierno del Estado.
 
-VII.- La población podrá expresar el deseo de elevar su categoría política al Ayuntamiento a que pertenezca, debiendo contar con la aprobación de por lo menos, el diez por ciento de los electores residentes en la misma, acreditarán además que cuentan con los requisitos para su determinación a la categoría solicitada.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VIII.- El Presidente Municipal o cualquier integrante del Ayuntamiento deberán someter a la solicitud en sesión de Cabildo y de ser procedente, se declarará la nueva categoría política.
+VII. La población podrá expresar el deseo de elevar su categoría política al Ayuntamiento a que pertenezca, debiendo contar con la aprobación de por lo menos, el diez por ciento del electorado residente en la misma, acreditará además que cuenta con los requisitos para su determinación a la categoría solicitada.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII. La persona titular de la Presidencia Municipal, o cualquier integrante del Ayuntamiento deberán someter a la solicitud en sesión de Cabildo y de ser procedente, se declarará la nueva categoría política.
 
 IX.- La declaratoria que proceda, se deberá publicar en el Periódico Oficial del Estado y se darás (sic) a conocer a los solicitantes en una sesión solemne de Cabildo.
 
@@ -401,17 +461,43 @@ IX.- La declaratoria que proceda, se deberá publicar en el Periódico Oficial d
 
 Son habitantes del Municipio, las personas que temporal o permanentemente residan en él.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 15.
 
-Son vecinos del Municipio, las personas que:
+Son vecinas o vecinos del Municipio, quienes:
 
 I.- Residan habitualmente en su territorio durante dos años o más; y
 
 II.- Residan habitualmente en su territorio un año, si en el transcurso del mismo, contraen matrimonio con persona chihuahuense, adquieren bienes raíces o ejercen alguna profesión, arte, oficio o industria.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 15 Bis.
+
+Son obligaciones de las y los vecinos del municipio:
+
+I. Cumplir con los ordenamientos jurídicos municipales;
+
+II. Contribuir a los gastos públicos del municipio de la manera proporcional e igualitaria, atendiendo a las condiciones de las personas o comunidades;
+
+III. Evitar actos de discriminación y violencia contra las mujeres, niñas, niños y adolescentes;
+
+IV. Evitar actos de violencia comunitaria contra las mujeres, niñas, niños y adolescentes, y participar en las actividades para la igualdad en todos los ámbitos de la vida;
+
+V. Respetar los derechos humanos;
+
+VI. Dar a conocer sobre actos que alteren la paz pública o atenten contra los derechos humanos, de conformidad a este Código y las demás disposiciones aplicables;
+
+VII. Colaborar en los mecanismos de participación ciudadana y social;
+
+VIII. Las demás que determine esta Ley, los bandos y reglamentos municipales y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 16.
 
-La calidad de vecino de un Municipio se pierde por:
+La calidad de vecina o vecino de un Municipio se pierde por:
 
 I.- Ausencia legal, resuelta por autoridad judicial;
 
@@ -439,83 +525,83 @@ La competencia que la Constitución Federal, la Estatal y el presente Código, l
 
 Los ayuntamientos residirán en las cabeceras municipales y se integrarán:
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-I. Los Municipios de Chihuahua y Juárez con un Presidente, un Síndico y once Regidores electos por el principio de mayoría relativa;
+I. Los Municipios de Chihuahua y Juárez con la persona titular de la Presidencia Municipal, Sindicatura y once titulares de las Regidurías electas por el principio de mayoría relativa;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II. Los Municipios de Camargo, Cuauhtémoc, Delicias, Guerrero, Hidalgo del Parral, Jiménez, Madera, Meoqui, Namiquipa, Nuevo Casas Grandes, Ojinaga y Saucillo, por un Presidente, un Síndico y nueve Regidores electos por el principio de mayoría relativa;
+II. Los Municipios de Camargo, Cuauhtémoc, Delicias, Guerrero, Hidalgo del Parral, Jiménez, Madera, Meoquí, Namiquipa, Nuevo Casas Grandes, Ojinaga y Saucillo, por la persona titular de la Presidencia Municipal, Sindicatura y nueve personas titulares de las Regidurías electas por el principio de mayoría relativa;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-III. Los de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guachochi, Guadalupe y Calvo, Riva Palacio, Rosales, San Francisco del Oro, Santa Bárbara, Urique e Ignacio Zaragoza, por un Presidente, un Síndico y siete Regidores electos por el principio de mayoría relativa; y
+III. Los de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guachiochi, Guadalupe y Calvo, Riva Palacio, Rosales, San Francisco del Oro, Santa Bárbara, Urique e Ignacio Zaragoza por la persona titular de la Presidencia Municipal, Sindicatura y siete personas titulares de Regidurías electas por el principio de mayoría relativa;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV. Los restantes por un Presidente, un Síndico y cinco Regidores electos por el principio de mayoría relativa.
+IV. Los restantes por la persona titular de la Presidencia Municipal, Sindicatura y cinco personas titulares de Regidurías electas por el principio de mayoría relativa;
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-En relación a los Regidores electos según el principio de representación proporcional, se estará a lo establecido en la Constitución Política del Estado y en la Ley Electoral.
+En relación a las personas titulares de las Regidurías electas según el principio de representación proporcional, se estará a lo establecido en la Constitución Política del Estado y en la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 Respecto al gobierno de las secciones y demás poblaciones de un municipio, se estará a lo dispuesto en el ordenamiento Constitucional citado.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Por cada Presidente, Síndico, Regidor o Comisario, habrá un suplente para sustituirlo en sus impedimentos o faltas.
+Por cada persona titular de la Presidencia Municipal, Sindicatura, Regiduría o Comisarías, habrá una persona suplente para sustituirlo en sus impedimentos o faltas.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2005)</small>
 
 En aquellos municipios con población indígena, las autoridades de sus pueblos y comunidades elegirán un representante ante el ayuntamiento respectivo, con derecho a voz, lo que harán de conformidad con sus tradiciones y normas internas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 18.
+###### ARTICULO 18.
 
-Cada Ayuntamiento se instalará el día 10 de septiembre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, al respecto, se regirán por el procedimiento establecido en el artículo 44 de este Código y tomarán posesión en la fecha que señale el Ayuntamiento una vez calificada la elección. El Presidente Municipal, otorgará protesta en los siguientes términos:
+Cada Ayuntamiento se instalará el día 10 de septiembre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, al respecto, se regirán por el procedimiento establecido en el artículo 44 de este Código y tomarán posesión en la fecha que señale el Ayuntamiento una vez calificada la elección. La persona titular de la Presidencia Municipal, otorgará protesta en los siguientes términos:
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Presidente Municipal, que el pueblo de este Municipio, me ha conferido".
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-El Síndico, otorgará protesta en los siguientes términos:
+La persona titular de la Sindicatura, otorgará protesta en los siguientes términos:
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Síndico, que el pueblo de este Municipio, me ha conferido".
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-El Presidente Municipal tomará la protesta a los Regidores, a los integrantes de las Juntas Municipales y a los Comisarios de Policía, de la manera siguiente:
+La persona titular de la Presidencia Municipal tomará la protesta a las personas titulares de las Regidurías, a las y los integrantes de las Juntas Municipales y a la Comisaría de Policía, de la manera siguiente:
 
 "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo que el pueblo de este municipio os ha conferido?".
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-El Presidente Municipal los amonestará en los siguientes términos:
+La persona titular de la Presidencia Municipal los amonestará en los siguientes términos:
 
 "Si así no lo hiciereis, que la Nación, el Estado y el Municipio os lo demanden".
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-El Presidente Municipal expondrá a los vecinos del Municipio su programa de gobierno.
+La persona titular de la Presidencia Municipal expondrá a las vecinas o vecinos del Municipio su programa de gobierno.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-En las Juntas Municipales y Comisarías de Policía, la protesta se tomará por el Presidente Municipal o su representante.
+En las Juntas Municipales y Comisarías de Policía, la protesta se tomará por la persona titular de la Presidencia Municipal o su representante.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 19.
+###### ARTICULO 19.
 
-Es obligación del Ayuntamiento celebrar una sesión solemne en el periodo que comprende del día dos al nueve de septiembre de cada año, en la cual el Presidente Municipal deberá rendir informe detallado de su gestión administrativa.
+Es obligación del Ayuntamiento celebrar una sesión solemne en el periodo que comprende del día dos al nueve de septiembre de cada año, en la cual la persona titular de la Presidencia Municipal deberá rendir informe detallado de su gestión administrativa.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Dentro de la misma sesión y rendido el informe por el Presidente Municipal, un Regidor representante de cada uno de los Partidos Políticos que conforman el Ayuntamiento, podrá plantear su posición política en torno al mismo.
+Dentro de la misma sesión y rendido el informe por la persona titular de la Presidencia Municipal, una persona titular de la Regiduría representante de cada uno de los Partidos Políticos que conforman el Ayuntamiento, podrá plantear su posición política en torno al mismo.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2009)</small>
 
@@ -523,17 +609,19 @@ Una vez recibido el Informe, el Ayuntamiento acordará la integración de una co
 
 ### CAPITULO II. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 20.
 
-El Presidente Municipal o quien lo sustituya legalmente, lo será del ayuntamiento y tendrá voto de calidad.
+La persona titular de la Presidencia Municipal o quien le sustituya legalmente, será del Ayuntamiento y tendrá voto de calidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 21.
 
-Las sesiones de los Ayuntamientos serán presididas por el Presidente Municipal o quien lo sustituya legalmente y se celebrarán en la sala de cabildo o, cuando el caso lo requiera, en el recinto previamente declarado oficial por el propio Ayuntamiento para tal objeto.
+Las sesiones de los Ayuntamientos serán presididas por la persona titular de la Presidencia Municipal o quien le sustituya legalmente y se celebrarán en la sala de cabildo o, cuando el caso lo requiera, en el recinto previamente declarado oficial por el propio Ayuntamiento para tal objeto.
 
-El recinto del Ayuntamiento es inviolable. Toda fuerza pública, está impedida para tener acceso al mismo, salvo con el permiso del Presidente, en cuyo caso, estará a cargo de éste.
+El recinto del Ayuntamiento es inviolable. Toda fuerza pública, está impedida para tener acceso al mismo, salvo con el permiso de la persona titular de la Presidencia Municipal, en cuyo caso estará a cargo de ésta.
 
 ###### ARTICULO 22.
 
@@ -541,21 +629,35 @@ El Ayuntamiento como órgano deliberante, deberá resolver los asuntos de su com
 
 Las sesiones ordinarias se celebrarán periódicamente en las fechas y lugar que para tal efecto se establezcan en la primera sesión de Cabildo de cada nueva gestión. Habrá por lo menos, dos sesiones ordinarias cada mes.
 
-Se celebrarán sesiones extraordinarias cuando sean necesarias, a juicio del Presidente Municipal o a petición de la mayoría de los integrantes del Ayuntamiento, debiéndose citar para ello a sus integrantes, ajustándose en cada caso, al Reglamento Interior.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Para que las sesiones del Ayuntamiento sean válidas, se requiere que se constituya el quórum por lo menos con la asistencia de más de la mitad de sus miembros. Los acuerdos de los Ayuntamientos se tomarán por mayoría de votos de los presentes, exceptuándose el caso de los Reglamentos, para cuya aprobación será necesaria la votación de más de la mitad del número de sus integrantes.
+Se celebrarán sesiones extraordinarias cuando sean necesarias, a juicio de la persona titular de la Presidencia Municipal o a petición de la mayoría de las y los integrantes del Ayuntamiento, debiéndose citar para ello a sus integrantes, ajustándose en cada caso, al Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Para que las sesiones del Ayuntamiento sean válidas, se requiere que se constituya el quórum por lo menos con la asistencia de más de la mitad de sus integrantes. Los acuerdos de los Ayuntamientos se tomarán por mayoría de votos de los presentes, exceptuándose el caso de los reglamentos, para cuya aprobación será necesaria la votación de más de la mitad del número de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 22 Bis.
+
+El Ayuntamiento, como órgano deliberante, en la primera sesión ordinaria del mandato constitucional, deberá acordar la integración y funcionamiento del Sistema Municipal para la Igualdad entre Mujeres y Hombres, y el Consejo para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia.
 
 ###### ARTICULO 23.
 
 Los Ayuntamientos tendrán su residencia oficial en las cabeceras de los Municipios que representen y no podrán cambiarla a otro lugar sin la previa autorización del Congreso del Estado, quien calificará los motivos que exprese el respectivo Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 24.
 
-Cada sesión, se iniciará con la lectura del acta que contenga el o los acuerdos tomados en la sesión anterior, salvo dispensa, aprobada por la mayoría de los miembros presentes. Después de la lectura, se procederá a suscribir el acta por todos los que intervinieron en la misma y quisieron hacerlo.
+Cada sesión, se iniciará con la lectura del acta que contenga el o los acuerdos tomados en la sesión anterior, salvo dispensa, aprobada por la mayoría de las y los integrantes presentes. Después de la lectura, se procederá a suscribir el acta por quienes intervinieron en la misma y quisieron hacerlo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 25.
 
-Las actas de las sesiones del Ayuntamiento se consignarán en un libro, que deberá llevar y resguardar el Secretario del mismo.
+Las actas de las sesiones del Ayuntamiento, se consignarán en un libro, que deberá llevar y resguardar la persona titular de la Secretaría de la misma.
 
 Cuando el acuerdo de los Ayuntamientos se refiera a normas de carácter general tales como bandos, reglamentos o iniciativas de leyes, se hará constar íntegramente en el libro de actas. En los demás casos, además del extracto, bastará que los documentos relativos al asunto tratado, se agreguen al apéndice del libro de actas.
 
@@ -573,17 +675,19 @@ Para lo no previsto, en este ordenamiento sobre el funcionamiento de los Ayuntam
 
 Son facultades y obligaciones de los Ayuntamientos:
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-I.- Aprobar, de acuerdo con las leyes en materia municipal expedidas por la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+I.- Aprobar de acuerdo con las leyes en materia municipal expedidas por la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones con perspectiva de derechos humanos, de género e interculturalidad, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y social, bajo los principios de igualdad sustantiva y no discriminación;
 
 Los reglamentos aprobados por los Ayuntamientos deberán publicarse en el Periódico Oficial del Estado o en la Gaceta Municipal, en los casos en que el Ayuntamiento correspondiente cuente con una.
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II.- Iniciar leyes y decretos ante el Congreso del Estado en asuntos de la competencia del gobierno municipal y nombrar representante para que intervenga en la discusión de la iniciativa;
+II.- Iniciar leyes y decretos con perspectiva de derechos humanos, de género e interculturalidad ante el Congreso del Estado en asuntos de la competencia del gobierno municipal y nombrar representante para que intervenga en la discusión de la iniciativa;
 
-III.- Vigilar que los actos de las autoridades municipales, observen los requisitos de legalidad y seguridad jurídica que establece la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III.- Vigilar que los actos de las autoridades municipales, observen los requisitos de legalidad y seguridad jurídica, así como el respeto a los derechos humanos; que establece la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado;
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2010)</small>
 
@@ -591,13 +695,17 @@ IV.- Crear organismos descentralizados, fideicomisos y empresas de participació
 
 En la creación de estos organismos descentralizados, fideicomisos y empresas de participación municipal, podrán participar dos o más ayuntamientos, constituyendo organismos intermunicipales, celebrando el convenio de coordinación respectivo, con la aprobación de dos terceras partes de los integrantes del Ayuntamiento;
 
-V.- Asignar a cada Regidor, los ramos que considere convenientes para su mejor atención;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI.- Nombrar Presidente Sustituto, de entre sus miembros, en caso de falta definitiva del propietario y el suplente;
+V.- Asignar a cada persona titular de las Regidurías, los ramos que considere convenientes para su mejor atención;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VII.- Conceder licencia al Presidente Municipal para separarse de su cargo;
+VI.- Nombrar a quien sustituya a la persona titular de la Presidencia, de entre sus integrantes, en caso de falta definitiva de la o el propietario y de la persona suplente;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Conceder licencia a la persona titular de la Presidencia Municipal para separarse de su cargo;
 
 VIII.- Proponer al Congreso del Estado, cuando sea necesario, el establecimiento de nuevas secciones municipales o la supresión de las existentes;
 
@@ -605,7 +713,9 @@ VIII.- Proponer al Congreso del Estado, cuando sea necesario, el establecimiento
 
 A la solicitud deberá anexarse copia certificada del acta de la Sesión de cabildo en que se haya aprobado solicitar la creación o supresión, según el caso, de la sección municipal y que contenga las razones que motiven la solicitud. Además, deberán acompañarse los documentos, acreditando:
 
-a) Que la solicitud de creación o supresión de una sección fue publicitada entre la población involucrada, por los medios de comunicación acordes a la región y sus costumbres, debiendo contar con la aprobación de, por lo menos, el diez por ciento de los electores residentes en la misma, debidamente identificados. En el documento que acredite la consulta deben constar los siguientes datos: Nombre completo, dirección, firma, número y folio de la credencial para votar con fotografía expedida por el Instituto Federal Electoral. Además, deberá acreditarse que las Juntas Municipales involucradas en la creación o supresión de la sección municipal, se encuentran conformes con dicha acción;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+a) Que la solicitud de creación o supresión de una sección fue publicitada entre la población involucrada, por los medios de comunicación acordes a la región y sus costumbres, debiendo contar con la aprobación de, por lo menos, el diez por ciento del electorado residente en la misma, debidamente identificado. En el documento que acredite la consulta deben constar los siguientes datos: Nombre completo, dirección, firma, número y folio de la credencial para votar con fotografía expedida por el Instituto Nacional Electoral. Además, deberá acreditarse que las Juntas Municipales involucradas en la creación o supresión de la sección municipal, se encuentran conformes con dicha acción;
 
 b) Nombres de las comunidades que conformarán la nueva sección, sus datos poblacionales, las vías de comunicación con que cuentan las mismas y las distancias entre éstas y la cabecera municipal o, en su caso, la cabecera seccional a la que pertenecen;
 
@@ -617,9 +727,13 @@ X.- Arreglar entre sí, los límites de sus respectivos Municipios y someter los
 
 Asimismo, resolver las cuestiones de competencia territorial que se presenten entre los diferentes poblados que los integran y crear o suprimir comisarías de policía;
 
-XI.- Conceder a sus miembros licencia para separarse de su cargo por causa debidamente justificada;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XII.- Aprobar, en su caso, el anteproyecto de Ley de Ingresos, que a su consideración presente el Presidente Municipal y remitirlo al Congreso del Estado, antes del día 30 de noviembre del año del ejercicio;
+XI.- Conceder a sus integrantes licencia para separarse de su cargo por causa debidamente justificada;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Aprobar, en su caso, el anteproyecto de Ley de Ingresos, que a su consideración presente la persona titular de la Presidencia Municipal y remitirlo al Congreso del Estado antes del día 30 de noviembre del año del ejercicio;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2015)</small>
 
@@ -671,9 +785,9 @@ Autorizar, en los términos del párrafo anterior, los Proyectos de Inversión P
 
 Afectar, previa la aprobación del Congreso, los ingresos y derechos que de conformidad con la legislación pueda disponer para tal fin, para que en su caso sean fuente o garantía de pago de los Proyectos de Inversión Pública a largo Plazo.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XXII.- Autorizar al Presidente Municipal para enajenar a título oneroso o gratuito bienes muebles del dominio privado municipal, cuyo valor sea superior a doscientas cincuenta Unidades de Medida y Actualización.
+XXII. Autorizar a la persona titular de la Presidencia Municipal para enajenar a título oneroso o gratuito bienes muebles del dominio privado municipal, cuyo valor sea superior a doscientos cincuenta veces el salario mínimo general vigente en la zona económica de que se trate;
 
 XXIII.- Solicitar al Congreso del Estado, la dotación y ampliación del fundo legal de las poblaciones, con los terrenos que se requieran para su creación y desarrollo;
 
@@ -693,9 +807,17 @@ e) La aplicación de normas y programas que se establezcan para la preservación
 
 f) La ejecución de programas de abasto;
 
-g) En general, coordinarse conforme a las leyes, para la ejecución y operación de obras y la prestación de servicios públicos;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XXVI.- Aprobar y ordenar la publicación en el Periódico Oficial del Estado, el plan municipal de desarrollo, correspondiente a su periodo constitucional de gobierno y derivar de éste, los programas anuales para la ejecución de obras y la prestación de los servicios de su competencia;
+g) Las acciones en materia de igualdad sustantiva, no discriminación y para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, niñas, niños y adolescentes;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+h) En general, coordinarse conforme a las leyes, para la ejecución y operación de obras y la prestación de servicios públicos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXVI. Aprobar y ordenar la publicación en el Periódico Oficial del Estado, el Plan Municipal de Desarrollo con Perspectiva de Derechos Humanos, de Género, e interculturalidad, correspondiente a su periodo constitucional de gobierno y derivar de éste, los programas anuales para la ejecución de obras y la prestación de los servicios de su competencia;
 
 XXVII.- Reglamentar en materia de construcción, a efecto de que todas las construcciones públicas y privadas de uso público, cumplan con las especificaciones orientadas al uso adecuado por parte de personas con discapacidad física;
 
@@ -703,7 +825,9 @@ XXVIII.- Vigilar, los reclusorios municipales, para comprobar que en los mismos 
 
 XXIX.- Dictar las medidas necesarias, para organizar el catastro municipal;
 
-XXX.- Establecer los órganos y sistemas para identificar, investigar y determinar las responsabilidades y sanciones de sus propios servidores públicos, derivadas del incumplimiento a las obligaciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua, previa instrucción del procedimiento disciplinario por el Presidente Municipal, quien impondrá dichas sanciones, conforme al reglamento respectivo;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXX. Establecer los órganos y sistemas para identificar, investigar y determinar las responsabilidades y sanciones de sus propios servidores públicos, derivadas del incumplimiento a las obligaciones establecidas en la Ley de Responsabilidades que resulte aplicable, previa instrucción del procedimiento disciplinario por la persona titular de la Presidencia Municipal, quien impondrá dichas sanciones, conforme al reglamento respectivo;
 
 XXXI.- Resolver los recursos interpuestos, en contra de los actos dictados por las autoridades municipales;
 
@@ -739,15 +863,19 @@ XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcc
 
 XLI.- Impulsar la creación de instancias municipales que sean las encargadas de instrumentar y dar seguimiento a las políticas, acciones, planes y programas que incorporen la transversalidad de la perspectiva de género, conforme a la Ley de Desarrollo Social y Humano para el Estado de Chihuahua;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XLII.- Aprobar, mediante votación por cédula, por el voto de las dos terceras partes, a propuesta en terna del Presidente Municipal, al titular de la Dirección de Seguridad Pública Municipal o su equivalente. Dicha aprobación se hará dentro de los cinco días hábiles siguientes a aquel en que reciba la propuesta del Presidente Municipal, tomando en cuenta los requisitos de elegibilidad señalados en los artículos 61 y 61 bis del presente ordenamiento y, en su caso, los antecedentes que tenga en el Registro Nacional de Personal de Seguridad Pública, quedando necesariamente designado en ese momento, sin poderse suspender ni prorrogar el término señalado, debiendo, en caso de encontrarse en receso, citar a sesión extraordinaria, para tales efectos.
+XLII.- Aprobar, mediante votación por cédula, por el voto de las dos terceras partes, a propuesta en terna de la persona titular de la Presidencia Municipal, a la o el titular de la Dirección de Seguridad Pública Municipal o su equivalente. Dicha aprobación se hará dentro de los cinco días hábiles siguientes a aquél en que reciba la propuesta de la persona titular de la Presidencia Municipal, tomando en cuenta los requisitos de elegibilidad señalados en los artículos 61 y 61 bis del presente ordenamiento y, en su caso, los antecedentes que tenga en el Registro Nacional de Personal de Seguridad Pública, quedando necesariamente designado en ese momento, sin poderse suspender ni prorrogar el término señalado, debiendo, en caso de encontrarse en receso, citar a sesión extraordinaria, para tales efectos.
 
 De no alcanzarse los votos necesarios para ninguno de los candidatos, se repetirá la votación por cédula, pero solo con los dos que tuvieran mayor número de votos, y será electo el que obtenga cuando menos la votación de las dos terceras partes.
 
-El ayuntamiento, mediante votación por cédula, también podrá determinar directamente en la sesión en la que deba resolver dicha aprobación, que el ejercicio de la atribución de designar al Director de Seguridad Pública o su equivalente, quede a cargo del Congreso del Estado; en este caso, remitirá las constancias de la Sesión de Cabildo en la que se acordó turnar a la Legislatura Local la propuesta en terna del Presidente Municipal junto con los expedientes de cada candidato, a fin de que el Pleno del Congreso realice la aprobación a la brevedad.
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Durante el tiempo que dure el procedimiento de designación del Director de Seguridad Pública o su equivalente, el Presidente Municipal designará libre y directamente a quien deba encargarse del mencionado despacho.
+El ayuntamiento, mediante votación por cédula, también podrá determinar directamente en la sesión en la que deba resolver dicha aprobación, que el ejercicio de la atribución de designar a la persona titular de la Dirección de Seguridad Pública o su equivalente, quede a cargo del Congreso del Estado; en este caso, remitirá las constancias de la Sesión de Cabildo en la que se acordó turnar a la Legislatura Local la propuesta en terna de la persona titular de la Presidencia Municipal junto con los expedientes de cada candidatura, a fin de que el Pleno del Congreso realice la aprobación a la brevedad.
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Durante el tiempo que dure el procedimiento de designación de la persona titular de la Dirección de Seguridad Pública o su equivalente, la persona titular de la Presidencia Municipal designará libre y directamente a quien deba encargarse del mencionado despacho.
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2015)</small>
 
@@ -763,23 +891,47 @@ XLIV.- Fomentar la lactancia materna, procurando adecuar un espacio para que las
 
 XLV.- Optar por la creación de la Gaceta Municipal, en los términos del Título Cuarto del Capítulo II de este Código.
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XLVI.- Las demás que le confieren las leyes y sus reglamentos.
+XLVI.- Implementar la política municipal para la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLVII.- Implementar, formular y aplicar la política municipal orientada a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLVIII.- Participar con las autoridades estatales en la conformación y consolidación de los Sistemas Estatales en materia de igualdad sustantiva, así como del derecho de las mujeres a una vida libre de violencia;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLIX.- Promover la creación de refugios para la atención de mujeres en situación de violencia y centros municipales de atención para agresores, de acuerdo con su capacidad presupuestal y financiera;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+L.- Elaborar programas de sensibilización y proyectos culturales que promuevan la igualdad sustantiva y no discriminación;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+LI.- Promover la participación de organismos públicos, privados y de la sociedad civil en acciones para la igualdad sustantiva y no discriminación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+LII.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTICULO 29.
+###### ARTÍCULO 29.
 
-El presidente Municipal tendrá las siguientes facultades y obligaciones:
+La persona titular de la Presidencia Municipal tendrá las siguientes facultades y obligaciones:
 
 I.- Presidir las sesiones del Ayuntamiento, con voz y voto y convocar al Ayuntamiento a sesiones extraordinarias;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II.- Nombrar y remover libremente a los funcionarios y empleados de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación del titular de la Dirección de Seguridad Pública Municipal o su equivalente;
+II. Nombrar y remover libremente al funcionariado y personas empleadas de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación de la persona titular de la Dirección de Seguridad Pública Municipal o su equivalente;
 
 III.- Informar oportunamente al Ayuntamiento, acerca de la ejecución de los acuerdos aprobados;
 
@@ -787,19 +939,23 @@ IV.- Dar publicidad a los reglamentos y demás disposiciones de carácter genera
 
 V.- Resolver los conflictos de competencia entre las dependencias municipales;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI.- Designar con la aprobación del Ayuntamiento, a los miembros de los Consejos de Administración, Juntas Directivas u órganos equivalentes, a quienes ocupen la Presidencia, Dirección o Gerencia y Comisarías de los organismos descentralizados y empresas de participación municipal; en los casos de la designación de los Consejos de Administración, a quienes ocupen la Presidencia, Dirección o Gerencia de los organismos operadores municipales del agua, se atenderá a lo dispuesto por la Ley del Agua del Estado de Chihuahua.
+VI. Designar con la aprobación del Ayuntamiento, a las y los integrantes de los Consejos de Administración, Juntas Directivas u órganos equivalentes, a quienes ocupen la Presidencia, Dirección o Gerencia y Comisarías de los organismos descentralizados y empresas de participación municipal; en los casos de la designación de los Consejos de Administración, a quienes ocupen la Presidencia, Dirección o Gerencia de los organismos operadores municipales del agua, se atenderá a lo dispuesto por la Ley del Agua del Estado de Chihuahua;
 
-VII.- Tomar la protesta legal, a los funcionarios municipales que conforme a la ley deban otorgarla ante él, en los siguientes términos:
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII. Tomar la protesta legal, al funcionariado municipal que conforme a la ley deban otorgarla ante él, en los siguientes términos:
 
 "¿protesta usted desempeñar con eficiencia, lealtad y patriotismo, el cargo de . . . que en este acto le confiero, cumpliendo para ello todas las disposiciones legales que nos rigen, si así no lo hiciera, que el estado y el municipio os lo demanden";
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VIII.- Conceder licencias por causa justificada y con goce de sueldo por una vez al año, a los funcionarios y empleados al servicio del municipio, hasta por diez días hábiles y sin goce de sueldo, por una vez al año, hasta por sesenta días, pudiendo el mismo servidor gozar de las dos licencias;
+VIII. Conceder licencias por causa justificada y con goce de sueldo por una vez al año, al funcionariado y personas empleadas al servicio del municipio, hasta por diez días hábiles y sin goce de sueldo, por una vez al año, hasta por sesenta días, pudiendo el mismo servidor gozar de las dos licencias;
 
-IX.- Con respeto de la garantía de audiencia, imponer a los servidores públicos municipales, las correcciones disciplinarias que fijen las leyes y reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IX. Con respeto de la garantía de audiencia, imponer a las y los servidores públicos municipales, las correcciones disciplinarias que fijen las leyes y reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones;
 
 X.- Sin perjuicio de lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, mandar en jefe, a los cuerpos de seguridad pública municipal y solicitar del Ejecutivo Estatal, el auxilio de las fuerzas públicas a su cargo, para hacer cumplir las resoluciones de las autoridades municipales.
 
@@ -853,7 +1009,9 @@ XXVIII.- Solicitar al Ejecutivo del Estado, la expropiación de bienes por causa
 
 XXIX.- Enviar al Ejecutivo del Estado, los proyectos y programas municipales que requieran la coordinación con los de carácter estatal;
 
-XXX.- Proporcionar informes, cuando sea requerido para ello, al Gobernador y al Congreso del Estado, sobre cualquiera de los ramos de la administración municipal.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXX. Proporcionar informes, cuando sea requerido para ello, al Ejecutivo del Estado y al Congreso del Estado, sobre cualquiera de los ramos de la Administración Municipal;
 
 XXXI.- Llevar a cabo, por conducto de la dependencia correspondiente, la construcción, mantenimiento, control y vigilancia, de locales destinados a prestar al público el servicio de estacionamiento de vehículos;
 
@@ -861,15 +1019,19 @@ XXXII.- Resolver los recursos, que de acuerdo con éste y otros ordenamientos se
 
 XXXIII.- Cumplir las disposiciones contenidas en las leyes y reglamentos, así como lo pactado en convenios celebrados por el Municipio con las autoridades federales y estatales;
 
-XXXIV.- Recabar de los servidores públicos municipales, la declaración de situación patrimonial y rendir la suya propia en el plazo y términos que establece éste Código; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XXXIV. Recabar de las y los servidores públicos municipales, la declaración de situación patrimonial y rendir la suya propia en el plazo y términos que establece éste Código;
 
 XXXV.- Elaborar la tarifa de valores para la enajenación de terrenos municipales, por conducto de la dependencia correspondiente, en base a los lineamientos contemplados en la ley de catastro;
 
 XXXVI.- Establecer las bases conforme a las cuales deban llevarse a cabo los registros y autorizaciones de los peritos valuadores, de conformidad con el reglamento que se expida; y
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XXXVII.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Estatal Electoral les entregue la constancia que los acredite como tales y antes de tomar posesión de su cargo.
+XXXVII. Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Nacional Electoral les entregue la constancia que los acredite como tales y antes de tomar posesión de su cargo.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2005)</small>
 
 Las suplentes de los presidentes municipales, también deberán cumplir con esta actividad.
 
@@ -877,27 +1039,55 @@ Las suplentes de los presidentes municipales, también deberán cumplir con esta
 
 XXXVIII.- Constituir el Tribunal de Arbitraje Municipal en los términos que ordena el artículo 78 del presente ordenamiento.
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XXXIX.- Las demás que le confieren las leyes y reglamentos.
+XXXIX.- Implementar la política municipal en materia de igualdad entre mujeres y hombres, así como la política orientada a erradicar la violencia contra las mujeres, niñas, niños y adolescentes, en concordancia con la política nacional y local correspondiente, en coordinación con el Instituto o Instancia Municipal de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XL.- Apoyar a todas las autoridades del Municipio en la transversalización de la perspectiva de género, así como en las políticas municipales para la igualdad y erradicación de la violencia contra las mujeres, niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLI.- Otorgar todas las facilidades para capacitar, con perspectiva de género, al personal del Municipio, en especial a las personas que asisten a las víctimas de violencia, y a las personas generadoras de violencia;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLII.- Generar las acciones necesarias para el cumplimiento de los Programa Municipales;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLIII.- Establecer mecanismos para Coadyuvar con el Gobierno Estatal en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLIV.- Proponer al Ejecutivo Estatal sus necesidades presupuestarias para la ejecución de los programas de igualdad;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XLV.- Las demás que le confieren las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 1987)</small>
 
 ### CAPITULO V. DE LAS PRERROGATIVAS DE LOS REGIDORES Y DEL SINDICO
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTICULO 30.
+###### ARTÍCULO 30.
 
-Los regidores y el síndico tienen facultades de inspección y vigilancia, en los ramos a su cargo, por lo que no podrán dar órdenes a los funcionarios, empleados municipales y público en general. Los Regidores sólo podrán ejercitar funciones ejecutivas cuando actúen como cuerpo colegiado en las sesiones del Ayuntamiento.
+Las personas titulares de las Regidurías y la Sindicatura tienen facultades de inspección y vigilancia, en los ramos a su cargo, por lo que no podrán dar órdenes a las y los funcionarios, personas empleadas municipales y público en general. Las personas titulares de las Regidurías sólo podrán ejercitar funciones ejecutivas cuando actúen como cuerpo colegiado en las sesiones del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Para el desempeño de sus funciones, el Síndico contará con un cuerpo de colaboradores cuyo número será determinado conforme al presupuesto que anualmente le sea asignado. Para todos los efectos legales, se entiende que el Síndico es el superior jerárquico de sus colaboradores y que estos son empleados municipales.
+Para el desempeño de sus funciones, la persona titular de la Sindicatura contará con un cuerpo de personas colaboradoras cuyo número será determinado conforme al presupuesto que anualmente le sea asignado.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PARTE FINAL DEL SEGUNDO PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-En todo caso, los servidores públicos encargados de auxiliar al Síndico en materias técnicas o científicas, deberán acreditar los siguientes requisitos.
+Para todos los efectos legales, se entiende que la persona titular de la Sindicatura es superior jerárquica de las personas colaboradoras y que estas son personas empleadas municipales.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+En todo caso, las y los servidores públicos encargados de auxiliar a la persona titular de la Sindicatura en materias técnicas o científicas, deberán acreditar los siguientes requisitos.
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -907,13 +1097,15 @@ III.- Gozar de buena reputación;
 
 IV.- No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, salvo que se trate de delitos contra la propiedad u otro tipo que lastime seriamente la buena fama en concepto público; en cuyo caso, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 31.
 
-El día de su instalación, el Ayuntamiento determinará el número de comisiones necesarias para el cumplimiento de sus funciones, así como los integrantes de las mismas. Cada Comisión se integrará, por lo menos, por dos miembros, conforme al Reglamento Interior, reflejarán la composición plural del Ayuntamiento, y serán permanentes. El Ayuntamiento podrá crear comisiones especiales para conocer de un asunto determinado, mismas que serán transitorias.
+El día de su instalación, el Ayuntamiento determinará el número de comisiones necesarias para el cumplimiento de sus funciones, así como las y los integrantes de las mismas. Cada Comisión se integrará, por lo menos, por dos integrantes, conforme al Reglamento Interior, reflejarán la composición plural del Ayuntamiento, y serán permanentes. El Ayuntamiento podrá crear comisiones especiales para conocer de un asunto determinado, mismas que serán transitorias.
 
-Los Regidores podrán formar parte de una o varias comisiones conforme al reglamento que se expida.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Las personas titulares de las Regidurías podrán formar parte de una o varias comisiones conforme al reglamento que se expida.
 
 Las Comisiones serán de:
 
@@ -923,29 +1115,41 @@ II.- De Hacienda;
 
 III.- De Obras y Servicios Públicos;
 
-IV.- De Seguridad Pública; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- De Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
 V.- De Educación y Cultura.
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI.- Además, aquellas otras que determine el Ayuntamiento, de acuerdo a las necesidades del municipio.
+VI.- De igualdad de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Además, aquellas otras que determine el Ayuntamiento, de acuerdo a las necesidades del municipio.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 32.
 
-Cuando alguno de los Regidores de un Ayuntamiento, sin aviso y causa justificada, falte a cualquier sesión podrá ser sancionado con una multa, que se le impondrá de acuerdo con el Reglamento Interior; si la falta ocurre por tres sesiones consecutivas o cinco en un año, el Presidente lo exhortará mediante oficio a que concurra y si no se logra su asistencia; el Ayuntamiento lo declarará cesante y llamará al suplente para que cubra la vacante, por todo el tiempo que falte para cumplir el período.
+Cuando alguna de las personas titulares de las Regidurías de un Ayuntamiento, sin aviso y causa justificada, falte a cualquier sesión podrá ser sancionado con una multa, que se le impondrá de acuerdo con el Reglamento Interior; si la falta ocurre por tres sesiones consecutivas o cinco en un año, la persona titular de la Presidencia lo exhortará mediante oficio a que concurra y si no se logra su asistencia; el Ayuntamiento lo declarará cesante y llamará al suplente para que cubra la vacante, por todo el tiempo que falte para cumplir el período.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 33.
 
-Son facultades y obligaciones de los Regidores:
+Son facultades y obligaciones de las personas titulares de las Regidurías:
 
 I.- Asistir con puntualidad a las sesiones;
 
 II.- Tomar parte en las discusiones con voz y voto;
 
-III.- Suplir al Presidente Municipal en la forma que este Código previene;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III.- Suplir a la persona titular de la Presidencia Municipal en la forma que este Código previene
 
 IV.- Formar parte de las comisiones, para las que fueren designados por el Ayuntamiento;
 
@@ -963,17 +1167,17 @@ VIII.- No podrán ser reconvenidos por las opiniones que manifiesten, en el dese
 
 IX.- Una vez que reciba de la Asamblea Municipal la constancia de mayoría y antes de tomar posesión del cargo, asistir a los cursos de Profesionalización, Capacitación y Formación que instrumente el Ayuntamiento respectivo, tendientes a proporcionar conocimiento y habilidades inherentes al cargo para el que fueron electos;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-X.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Estatal Electoral les haga entrega de las constancias que los acredite como tales y antes de tomar posesión de su cargo;
+X.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Nacional Electoral les haga entrega de las constancias que los acredite como tales y antes de tomar posesión de su cargo;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XI.- Solicitar al Secretario del Ayuntamiento, por acuerdo de la mayoría de los regidores, se convoque a sesiones ordinarias, cuando el Presidente Municipal no lo haga sin causa justificada.
+XI.- Solicitar a la persona titular de la Secretaría del Ayuntamiento, por acuerdo de la mayoría de las y los regidores, se convoque a sesiones ordinarias, cuando la persona titular de la Presidencia Municipal no lo haga sin causa justificada;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XII.- Elaborar y rendir un informe anual sobre las actividades desempeñadas relativas a su encargo, el cual deberá ser presentado, en forma escrita, ante el Cabildo, a más tardar en su tercera sesión ordinaria posterior a la del informe del Presidente Municipal.
+XII.- Elaborar y rendir un informe anual sobre las actividades desempeñadas relativas a su encargo, el cual deberá ser presentado, en forma escrita, ante el Cabildo, a más tardar en su tercera sesión ordinaria posterior a la del informe de la persona titular a la Presidencia Municipal;
 
 Tratándose del último año de su encargo, dicho informe deberá ser presentado en la última sesión ordinaria del Ayuntamiento, previa a la solemne a que se refiere el artículo 19 de este Código.
 
@@ -983,9 +1187,9 @@ Los informes deberán publicarse en el sitio de internet del Ayuntamiento, al d�
 
 XIII.- Las demás que les otorguen otras disposiciones aplicables a la materia.
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Si no comparece el Presidente Municipal, presidirá la sesión el regidor que determine la mayoría.
+Si no comparece la persona titular de la Presidencia Municipal, presidirá la sesión la o el regidor que determine la mayoría.
 
 ###### ARTICULO 34.
 
@@ -995,49 +1199,61 @@ La Comisión de Gobernación tendrá intervención en todas aquellas cuestiones 
 
 La Comisión de Hacienda tendrá intervención, en todas las cuestiones relativas a la materia patrimonial y financiera municipal y de manera especial, a través de su Presidente:
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-I.- Autorizar en unión del Presidente Municipal, el Síndico y Tesorero, el movimiento mensual de ingresos y egresos, y el balance anual que debe practicar la Tesorería Municipal; y
+I.- Autorizar en unión de las personas titulares de la Presidencia Municipal, Sindicatura y Tesorería, el movimiento mensual de ingresos y egresos, y el balance anual que debe practicar la Tesorería Municipal;
 
 II.- Intervendrá en todos los actos, contratos, remates y enajenaciones que se refieran al patrimonio municipal.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-La autorización que expida el Síndico, de acuerdo a la fracción primera, no limita de ninguna forma el ejercicio de sus atribuciones, ni exime de responsabilidad a los encargados de dichos actos.
+La autorización que expida la persona titular de la Sindicatura, de acuerdo a la fracción primera, no limita de ninguna forma el ejercicio de sus atribuciones, ni exime de responsabilidad a los encargados de dichos actos.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 35 Bis.
+
+La persona titular de la Presidencia Municipal propondrá al cabildo la integración de las comisiones, debiéndose reflejar la pluralidad, la igualdad sustantiva, así como la mayor participación de las mujeres y evitar la discriminación, en su integración.
 
 ###### ARTICULO 36.
 
 La Comisión de Obras Públicas y Servicios Públicos intervendrá en las cuestiones relativas a la construcción y mantenimiento de obras públicas, aseo, alineamiento de calles y predios, alumbrado público, nomenclatura de calles, pavimentación, mejoramiento ambiental, ornato de calles, plazas, caminos, edificios, monumentos y demás lugares públicos municipales; asimismo, vigilará que la prestación de los servicios públicos municipales se realice eficazmente y que los concesionarios cumplan con las obligaciones pactadas en los contratos de concesión.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 36 A.- Los síndicos municipales tendrán a su cargo la vigilancia del patrimonio municipal.
+La Comisión deberá impulsar que las personas concesionarias respeten la igualdad sustantiva y no discriminación en la prestación de los servicios públicos.
 
-En el Presupuesto de Egresos de cada municipio deberán preverse recursos suficientes para que el Síndico pueda cumplir con eficacia las funciones que le corresponden.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
+ARTICULO 36 A.- Las personas titulares de las Sindicaturas Municipales tendrán a su cargo la vigilancia del patrimonio municipal.
 
-El Síndico deberá practicar revisiones a los documentos que habrán de conformar la cuenta pública. Cada tres meses deberá presentar al Ayuntamiento un informe de las revisiones efectuadas. La falta de cumplimiento de este precepto será causa de responsabilidad.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
+En el Presupuesto de Egresos de cada municipio deberán preverse recursos suficientes para que la persona titular de la Sindicatura pueda cumplir con eficacia las funciones que le corresponden.
 
-Para efectos del párrafo anterior, los titulares de la Administración Municipal a que se les requiera información, deberán de proporcionarla en un plazo máximo de cuatro días hábiles, contados a partir de la fecha de recibida la solicitud. En caso de no tener respuesta, el Síndico deberá de levantar acta circunstanciada, la cual formará parte del informe, para que el Ayuntamiento determine las responsabilidades.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+La persona titular de la Sindicatura deberá practicar revisiones a los documentos que habrán de conformar la cuenta pública. Cada tres meses deberá presentar al Ayuntamiento un informe de las revisiones efectuadas. La falta de cumplimiento de este precepto será causa de responsabilidad.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Para efectos del párrafo anterior, las y los titulares de la Administración Municipal a que se les requiera información, deberán de proporcionarla en un plazo máximo de cuatro días hábiles, contados a partir de la fecha de recibida la solicitud. En caso de no tener respuesta, la persona titular de la Sindicatura deberá de levantar acta circunstanciada, la cual formará parte del informe, para que el Ayuntamiento determine las responsabilidades.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
 Las revisiones que practique la sindicatura contendrán el análisis de las partidas de ingresos y egresos, y en los casos que así lo considere hará una revisión legal, física, numérica o contable del gasto público municipal pudiéndose extender al examen de la exactitud y justificación de los cobros y pagos hechos, cuidando que todas las cantidades estén debidamente comprobadas conforme a precios y tarifas autorizadas o de mercado según proceda.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Si al hacer la revisión encontrare irregularidades de cualquier tipo, el Síndico solicitará por escrito al titular de la dependencia que corresponda, que en un plazo de diez días hábiles, rinda ante él, las aclaraciones pertinentes y los archivos que las sustentan; si no le son remitidas o no fueren suficientes para aclarar las irregularidades, el Síndico rendirá inmediatamente al Ayuntamiento un informe detallado para que éste determine las responsabilidades administrativas, civiles o penales que correspondan.
+Si al hacer la revisión encontrare irregularidades de cualquier tipo, la persona titular de la Sindicatura solicitará por escrito al titular de la dependencia que corresponda, que en un plazo de diez días hábiles, rinda ante ella, las aclaraciones pertinentes y los archivos que las sustentan; si no le son remitidas o no fueren suficientes para aclarar las irregularidades, la persona titular de la Sindicatura rendirá inmediatamente al Ayuntamiento un informe detallado para que ésta determine las responsabilidades administrativas, civiles o penales que correspondan.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
 En los casos no previstos con respecto al Síndico le serán aplicables, en lo conducente, las disposiciones relativas a los regidores.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 36 B.- El Síndico tendrá las siguientes facultades y obligaciones:
+ARTICULO 36 B.- La persona titular de la Sindicatura tendrá las siguientes facultades y obligaciones:
 
 I.- Asistir a las sesiones del Ayuntamiento y participar en las discusiones con voz, pero sin voto;
 
@@ -1063,7 +1279,9 @@ X.- Verificar que los funcionarios públicos y empleados del municipio cumplan c
 
 XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidados y cobrados;
 
-XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Asociarse a cualquier comisión encomendada a las personas titulares de las Regidurías cuando la importancia de la misma y los intereses del Municipio así lo ameriten;
 
 XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
 
@@ -1079,9 +1297,9 @@ XV.- Solicitar datos, informes y documentación en general a fin de hacer las co
 
 XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XVII.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Estatal Electoral le haga entrega de la constancia que lo acredite como tal y antes de tomar posesión de su cargo;
+XVII.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Nacional Electoral le haga entrega de la constancia que lo acredite como tal y antes de tomar posesión de su cargo;
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
@@ -1093,31 +1311,49 @@ XVIII.- Las demás que establezcan las leyes y reglamentos.
 
 Son autoridades municipales auxiliares:
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2007)</small>
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-I.- Las Juntas Municipales, que se integran por el Presidente Seccional y dos Regidores.
+I.- Las Juntas Municipales, que se integran por la persona titular de la Presidencia Seccional y dos Regidurías.
 
 En las secciones municipales con más de cuatro mil habitantes existirá un regidor más, que será el primero de la lista de la planilla que hubiere alcanzado el segundo lugar, siempre que su porcentaje sea por lo menos el cincuenta por ciento de la votación alcanzada por la planilla ganadora.
 
-II.- Los Comisarios de Policía.
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+II.- Las Comisarías de Policía.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
 
 La elección se realizará de acuerdo con lo establecido en el artículo 44 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 38.
 
-El Presidente Seccional o quien lo sustituya legalmente, lo será de la Junta Municipal y tendrá voto de calidad.
+La persona titular de la Presidencia Seccional o quien le sustituya legalmente, lo será de la Junta Municipal y tendrá voto de calidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 39.
 
-La Junta Municipal funcionará, con la asistencia de la mayoría de sus miembros.
+La Junta Municipal funcionará, con la asistencia de la mayoría de sus integrantes.
 
 Las sesiones de las juntas municipales, tendrán el carácter de públicas y podrán ser ordinarias o extraordinarias y sus acuerdos se tomarán por mayoría de votos de los presentes, teniendo cada uno de éstos iguales derechos.
 
-Las sesiones ordinarias, se celebrarán mensualmente y en la primera, después de instalada la junta, se designará el día del mes, en que deberá llevarse a efecto; las extraordinarias cuando lo solicite el presidente seccional o uno de los Regidores. Para lo anterior, deberá convocarse previamente, por medio de oficio, con acuse de recibo y notificarse con un mínimo de veinticuatro horas, antes de la celebración de la sesión. En las extraordinarias, sólo podrán tratarse los asuntos indicados en la convocatoria.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-El resultado de las sesiones de las juntas municipales, se hará constar por el Secretario de la misma en un libro de actas, en el cual quedarán anotados, en forma extractada, los asuntos tratados y el resultado de la votación.
+Las sesiones ordinarias, se celebrarán mensualmente y en la primera, después de instalada la junta, se designará el día del mes, en que deberá llevarse a efecto; las extraordinarias cuando lo solicite la persona titular de la Presidencia Seccional o una de las Regidurías. Para lo anterior, deberá convocarse previamente, por medio de oficio, con acuse de recibo y notificarse con un mínimo de veinticuatro horas, antes de la celebración de la sesión. En las extraordinarias, sólo podrán tratarse los asuntos indicados en la convocatoria.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+El resultado de las sesiones de las Juntas Municipales, se hará constar por la persona titular de la Secretaría de la misma en un libro de actas, en el cual quedarán anotados, en forma extractada, los asuntos tratados y el resultado de la votación.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 39 Bis.
+
+Se establecerá el presupuesto de egresos del Ayuntamiento, progresivo, basado en resultados y con perspectiva de género, en el cual se implementarán los recursos destinados a cumplir con los objetivos y atribuciones establecidas en el presente Código, atendiendo a las necesidades e intereses de las mujeres y hombres, así como al impacto de estas políticas públicas en su desarrollo municipal.
+
+Asimismo, deberá contemplar un fondo para la atención y reparación del daño a las víctimas de violación de sus derechos humanos, de conformidad a la ley General de Victimas. En caso de que estos recursos no sean utilizados en el ejercicio correspondiente, serán acumulables para el ejercicio inmediato siguiente, siguiendo los procedimientos a que haya lugar.
 
 ###### ARTICULO 40.
 
@@ -1127,9 +1363,13 @@ I.- Proponer ante el Ayuntamiento, la toma de acuerdos en beneficio de la poblac
 
 II.- Proponer al Ayuntamiento, la creación de dependencias necesarias, para la mejor prestación de los servicios públicos;
 
-III.- Asignar a cada Regidor, los ramos que considere convenientes para su mejor atención;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV.- Conceder licencia al Presidente Seccional, por un término mayor de diez días, en ese caso, debe llamarse al suplente y en su defecto nombrar Presidente seccional interino, entre sus miembros;
+III.- Asignar a cada Regiduría, los ramos que considere convenientes para su mejor atención;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Conceder licencia a la persona titular de la Presidencia Seccional, por un término mayor de diez días, en ese caso, debe llamarse al suplente y en su defecto nombrar Presidente seccional interino, entre sus integrantes;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2015)</small>
 
@@ -1147,19 +1387,39 @@ Los Ayuntamientos, al aprobar el Presupuesto de Egresos Municipal, deberán auto
 
 Por ningún motivo el Ayuntamiento dejará de autorizar el presupuesto destinado a las juntas municipales. Su omisión será causa grave de responsabilidad.
 
-VI.- Recaudar, previo acuerdo con el tesorero municipal, los ingresos municipales de la sección, e informar de ello al Ayuntamiento, por conducto del tesorero municipal, haciendo la aplicación de los mismos de acuerdo con el presupuesto aprobado;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Recaudar, previo acuerdo con la persona titular de la Tesorería Municipal, los ingresos municipales de la sección, e informar de ello al Ayuntamiento, por conducto de su titular, haciendo la aplicación de los mismos de acuerdo con el presupuesto aprobado;
 
 VII.- Velar por el mantenimiento y patrimonio municipal seccional;
 
-VIII.- Solicitar al Ayuntamiento, para que éste a su vez, lo haga al Congreso del Estado, en el improrrogable plazo de treinta días a partir de la recepción de la petición, la dotación o ampliación del fundo legal de las cabeceras seccionales y demás poblados, con los terrenos que se requieran para su creación y desarrollo; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Solicitar al Ayuntamiento, para que éste a su vez, lo haga al Congreso del Estado, en el improrrogable plazo de treinta días a partir de la recepción de la petición, la dotación o ampliación del fundo legal de las cabeceras seccionales y demás poblados, con los terrenos que se requieran para su creación y desarrollo;
 
 IX.- Vigilar, el cumplimiento de las normas estatales y municipales y de los acuerdos, que dicten las autoridades competentes sobre el comercio de bebidas alcohólicas.
 
-Las Juntas Municipales y el Presidente Seccional estarán subordinados al Ayuntamiento.
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Las Juntas Municipales y la persona titular de la Presidencia Seccional estarán subordinados al Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+X.- Realizar los protocolos de actuación en casos de violencia contra las mujeres y atención a víctimas del delito y trata de personas, de acuerdo a sus funciones;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Otorgar el apoyo necesario para dar cumplimiento a las medidas de protección de mujeres en situación de violencia, dictados por las autoridades competentes; y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Realizar sus funciones con estricto apego a la protección de los derechos humanos, principalmente de mujeres, niñas, niños y adolescentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 41.
 
-Los Presidentes Seccionales, tienen las siguientes atribuciones:
+Las personas titulares de las Presidencias Seccionales, tienen las siguientes atribuciones:
 
 I.- Presidir las sesiones de la Junta Municipal, con voz, voto ordinario y de calidad;
 
@@ -1177,11 +1437,15 @@ En hipótesis diversas, se requerirá acuerdo del Ayuntamiento;
 
 VII.- Con respecto a la garantía de audiencia, imponer a los funcionarios y empleados seccionales, las correcciones disciplinarias que establezcan las leyes y los reglamentos, con motivo de las faltas administrativas en que incurran en el desempeño de sus funciones;
 
-VIII.- Mandar en jefe, al cuerpo de seguridad pública seccional y solicitar, al Ejecutivo Estatal y al Presidente Municipal, el auxilio de la policía a su cargo, para reestablecer el orden y la tranquilidad públicos;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Mandar en jefe, al cuerpo de seguridad pública seccional y solicitar, al Ejecutivo Estatal y a la persona titular de la Presidencia Municipal, el auxilio de la policía a su cargo, para restablecer el orden y la tranquilidad públicos;
 
 IX.- Practicar visitas a las comisarías de policía, cuando lo estime conveniente, o lo requieran las necesidades de las mismas;
 
-X.- Administrar la hacienda pública seccional, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y gasto público; informando de todo ello al Ayuntamiento, por conducto del tesorero municipal;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+X.- Administrar la hacienda pública seccional, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y gasto público; informando de todo ello al Ayuntamiento, por conducto de la persona titular de la Tesorería Municipal;
 
 XI.- Vigilar, la recaudación de los ingresos seccionales y que la inversión de dichos fondos se aplique con apego al presupuesto, efectuando los informes, que se mencionan en la fracción anterior;
 
@@ -1193,21 +1457,27 @@ XIII.- Imponer las sanciones, que correspondan por infracciones a las leyes, reg
 
 XIV.- Participar con voz en las sesiones del Cabildo, en aquellos asuntos inherentes a su comunidad.
 
-El Secretario y los Regidores Seccionales tienen, en el ámbito material y territorial de su competencia, las mismas facultades y obligaciones que el Secretario y Regidores Municipales.
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Las personas titulares de la Secretaría y de las Regidurías Seccionales tienen, en el ámbito material y territorial de su competencia, las mismas facultades y obligaciones que la persona titular de la Secretaría y Regidurías Municipales.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 42.
 
-Los Regidores Seccionales, se dividirán con el Presidente Seccional, las funciones que correspondan a los del Ayuntamiento, para ejercitarlas dentro de su jurisdicción, quedando sujetos jerárquicamente al Ayuntamiento y al Presidente Municipal.
+Las personas titulares de las Regidurías Seccionales, se dividirán con la persona titular de la Presidencia Seccional, las funciones que correspondan a los del Ayuntamiento, para ejercitarlas dentro de su jurisdicción, quedando sujetos jerárquicamente al Ayuntamiento y a la persona titular de la Presidencia Municipal.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 43.
 
-Los Comisarios de Policía, son los encargados del orden y la vigilancia en sus respectivas comisarías. Desempeñarán en su jurisdicción las atribuciones conferidas a las demás autoridades municipales, quedando a ellas plenamente subordinados.
+La Comisaría de Policía, es la encargada del orden y la vigilancia en sus respectivas comisarías. Desempeñarán en su jurisdicción las atribuciones conferidas a las demás autoridades municipales, quedando a ellas plenamente subordinados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 44.
 
-Los miembros de las juntas municipales serán electos en escrutinio secreto por mayoría de votos, fijándose las bases para su celebración en la convocatoria que para tal efecto expida el Ayuntamiento cuando menos con quince días de anticipación al de la elección. Los comisarios de policía serán electos en plebiscitos por mayoría de votos. Los miembros de las juntas municipales y los comisarios de policía podrán ser removidos cuando así lo solicite más de la mitad de los ciudadanos de la correspondiente sección municipal o comisaría. Las elecciones se verificarán bajo las siguientes bases:
+Las y los integrantes de las juntas municipales serán electos en escrutinio secreto por mayoría de votos, fijándose las bases para su celebración en la convocatoria que para tal efecto expida el Ayuntamiento cuando menos con quince días de anticipación al de la elección. La Comisaría de Policía será electa en plebiscitos por mayoría de votos. Las y los integrantes de las juntas municipales y la Comisaría de Policía podrán ser removidos cuando así lo soliciten más de la mitad de las y los ciudadanos de la correspondiente sección municipal o comisaría. Las elecciones se verificarán bajo las siguientes bases:
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
@@ -1217,7 +1487,9 @@ II.- Serán convocadas por el Ayuntamiento mediante circulares fijadas en los lu
 
 III.- Los ciudadanos deberán reunir los requisitos que exige la Constitución Política del Estado; y
 
-IV.- Serán presididas por él o los representantes del Ayuntamiento que sean comisionados al efecto, los cuales verificarán la elección, levantarán el acta correspondiente, firmándola con los testigos del acto que quisieran hacerlo; rendirán al Ayuntamiento el informe respectivo quien en sesión calificará la elección antes de quince días, haciendo la declaración de los triunfadores. El Presidente Municipal o su representante tomará la protesta de ley a los ciudadanos electos y les dará posesión de sus cargos. En los casos de Comisarios de Policía, cuando no asista la mayoría de vecinos, el Ayuntamiento los designará libremente.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Serán presididas por las personas representantes del Ayuntamiento que sean comisionados al efecto, los cuales verificarán la elección, levantarán el acta correspondiente, firmándola con los testigos del acto que quisieran hacerlo; rendirán al Ayuntamiento el informe respectivo quien en sesión calificará la elección antes de quince días, haciendo la declaración de los triunfadores. La persona titular de la Presidencia Municipal o su representante tomará la protesta de ley a las y los ciudadanos electos y les dará posesión de sus cargos. En los casos de la Comisaría de Policía, cuando no asista la mayoría de vecinas o vecinos, el Ayuntamiento los designará libremente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -1233,13 +1505,35 @@ IV.- Serán presididas por él o los representantes del Ayuntamiento que sean co
 
 Los Ayuntamientos, aprobarán dentro de sus respectivas jurisdicciones, de acuerdo con las leyes que en materia municipal expida el Congreso, los Bandos de Policía y Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-El Ayuntamiento discutirá y aprobará, a propuesta del Presidente Municipal, de los Regidores o de los electores a través de iniciativa popular, las disposiciones reglamentarias de observancia general en el Municipio.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+El Ayuntamiento discutirá y aprobará, a propuesta de la persona titular de la Presidencia Municipal, de las personas titulares de las Regidurías o del electorado a través de iniciativa ciudadana, las disposiciones reglamentarias de observancia general en el Municipio.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Los ordenamientos citados en el presente artículo deberán realizarse con perspectiva de derechos humanos, de género e interculturalidad, atendiendo al lenguaje incluyente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 46.
 
-Los Bandos de Policía y Gobierno son las normas expedidas por el Ayuntamiento, para proteger, en la esfera del orden público: la seguridad general, el civismo, la salubridad, la forestación, la conservación de vialidades, el ornato público y la propiedad y bienestar colectivos; y en el ámbito de la integridad de las personas, su seguridad, tranquilidad, disfrute de propiedades particulares y la moral del individuo y de la familia.
+Los Bandos de Policía y Gobierno son las normas expedidas por el Ayuntamiento, para proteger, en la esfera del orden público: los derechos humanos, el respeto a la dignidad humana, la seguridad general, el civismo, la salubridad, la forestación, la conservación de vialidades, el ornato público y la propiedad y bienestar colectivos; y en el ámbito de la integridad de las personas, su seguridad, tranquilidad, disfrute de propiedades particulares y la moral del individuo y de la familia.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Los Bandos Municipales, de manera enunciativa, más no limitativa, incluirá las siguientes:
+
+I. Los elementos para la prevención del delito, la violencia social y la violencia contra las mujeres, niñas, niños y adolescentes, desde la perspectiva de género;
+
+II. Las acciones para la atención de casos de violencia contra las mujeres, niñas, niños y adolescentes, así como la trata de personas;
+
+III. Las órdenes de protección en casos de violencia contra las mujeres, niñas, niños y adolescentes;
+
+IV. Las medidas de coordinación y canalización para la atención integral de la violencia contra las mujeres, niñas, niños y adolescentes;
+
+V. Las medidas para la igualdad sustantiva y no discriminación;
+
+VI. Los informes policiacos, en los que se establezcan los indicadores correspondientes en materia de violencia contra las mujeres, niñas, niños y adolescentes.
 
 ###### ARTICULO 47.
 
@@ -1263,9 +1557,19 @@ G).- Facultades, atribuciones y limitaciones de las autoridades;
 
 H).- Sanciones;
 
-I).- Recursos; y
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I).- Recursos;
 
 J).- Vigencia.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+K).- Las medidas para dar cumplimiento a la transversalización de la perspectiva de género, la igualdad sustantiva y el impacto en el desarrollo municipal con igualdad; y
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+L).- Igualdad sustantiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2009)</small>
 
@@ -1319,9 +1623,9 @@ Son disposiciones administrativas de observancia general, las normas que no teni
 
 Los Bandos de Policía y Gobierno, así como las disposiciones administrativas de observancia general, deberán ser publicados en el Periódico Oficial del Estado, o en la Gaceta Municipal cuando proceda.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Las normas que contengan los bandos, reglamentos y otras disposiciones municipales, deberán ser generales y obligatorias en el ámbito municipal y su aplicación corresponde a las autoridades municipales, mismas que deberán tomar en cuenta los principios de cultura de legalidad, valores cívicos y bienestar colectivo, al momento de su emisión.
+Las normas que contengan los bandos, reglamentos y otras disposiciones municipales, deberán ser generales y obligatorias en el ámbito municipal y su aplicación corresponde a las autoridades municipales, mismas que deberán tomar en cuenta los principios de igualdad sustantiva, no discriminación, libertades fundamentales, cultura de legalidad, valores cívicos y bienestar colectivo, al momento de su emisión.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2016)</small>
 
@@ -1363,23 +1667,27 @@ En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza
 
 Corresponde exclusivamente al Congreso del Estado, declarar que un Ayuntamiento ha desaparecido y designar, en su caso, a un Ayuntamiento interino.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 52.
 
-Sólo se podrá declarar que un Ayuntamiento ha desaparecido, cuando éste se haya desintegrado o cuando no sea posible la concurrencia de sus miembros propietarios o suplentes, para el ejercicio de sus funciones conforme al orden constitucional federal o estatal.
+Sólo se podrá declarar que un Ayuntamiento ha desaparecido, cuando éste se haya desintegrado o cuando no sea posible la concurrencia de sus integrantes propietarios o suplentes, para el ejercicio de sus funciones conforme al orden constitucional federal o estatal.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 53.
 
-La petición para que el Congreso del Estado, conozca de las causas a que se refiere el Artículo anterior, podrá ser formulada por los vecinos del Municipio, por legisladores locales o el Ejecutivo del Estado. Recibida la petición, si el Congreso del Estado lo estima procedente, y de acuerdo a las circunstancias que medien, citará al Ayuntamiento a una audiencia que se celebrará, en su caso, ante la comisión correspondiente, a los cinco días naturales contados a partir de recibida la cita, en la que éste, por conducto del Presidente Municipal o la representación que al efecto designe, con la comparecencia de su o sus defensores, podrá rendir las pruebas que estime conducentes y alegar lo que a sus intereses convenga. La resolución, en su caso, se producirá dentro de los veinte días naturales siguientes al recibo de la petición. En todo caso, para que esta resolución sea válida, se requerirá el acuerdo de las dos terceras partes de los integrantes del Congreso del Estado.
+La petición para que el Congreso del Estado, conozca de las causas a que se refiere el artículo anterior, podrá ser formulada por las vecinas o vecinos del municipio, por legisladores locales o el Ejecutivo del Estado. Recibida la petición, si el Congreso del Estado lo estima procedente, y de acuerdo a las circunstancias que medien, citará al Ayuntamiento a una audiencia que se celebrará, en su caso, ante la comisión correspondiente, a los cinco días naturales contados a partir de recibida la cita, en la que éste, por conducto de la persona titular de la Presidencia Municipal o la representación que al efecto designe, con la comparecencia de su o sus defensores, podrá rendir las pruebas que estime conducentes y alegar lo que a sus intereses convenga. La resolución, en su caso, se producirá dentro de los veinte días naturales siguientes al recibo de la petición. En todo caso, para que esta resolución sea válida, se requerirá el acuerdo de las dos terceras partes de las y los integrantes del Congreso del Estado.
 
 ###### ARTICULO 54.
 
 En los recesos del Congreso, la Diputación Permanente convocará a sesiones extraordinarias, a fin de que se reúna dentro de los tres días siguientes, para conocer de la petición a que se refiere el artículo anterior. El acuerdo para convocar a sesiones extraordinarias, deberá ser aprobado por el voto de las dos terceras partes de los integrantes de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 55.
 
-Si el Congreso declara que ha desaparecido el Ayuntamiento, procederá a designar e instalar dentro de los tres días naturales siguientes, entre los vecinos del Municipio, un concejo municipal con el mismo número de integrantes de aquél, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+Si el Congreso declara que ha desaparecido el Ayuntamiento, procederá a designar e instalar dentro de los tres días naturales siguientes, entre las vecinas o vecinos del Municipio, un consejo municipal con el mismo número de integrantes de aquél, quienes deberán cumplir los requisitos de elegibilidad establecidos para las personas titulares de las Regidurías.
 
 ###### ARTICULO 56.
 
@@ -1389,9 +1697,11 @@ Si la desaparición del Ayuntamiento, se declara después del plazo señalado, l
 
 ### CAPITULO II. DE LA SUSPENSION DEFINITIVA DE LOS INTEGRANTES DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 57.
 
-Los miembros de los Ayuntamientos, podrán ser suspendidos definitivamente, en los puestos para los cuales fueron electos o designados, en los siguientes casos:
+Las y los integrantes de los Ayuntamientos, podrán ser suspendidos definitivamente, en los puestos para los cuales fueron electos o designados, en los siguientes casos:
 
 I.- Quebrantamiento de los principios del régimen federal o de la Constitución Política del Estado;
 
@@ -1407,13 +1717,27 @@ VI.- Omisión reiterada en el cumplimiento de sus funciones;
 
 VII.- Por haber sido condenado durante el periodo para el cual fue electo por delito intencional, excepto los de carácter político.
 
-VIII.- Adopción de forma de Gobierno o base de organización política, distintas a las señaladas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Adopción de forma de Gobierno o base de organización política, distintas a las señaladas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado;
 
 IX.- Incapacidad física que impida el desempeño del cargo para el cual fue electo o legal judicialmente declarada; en ambas la incapacidad deberá ser permanente.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2002)</small>
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-En estos casos se aplicará, en lo conducente, lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua. La resolución correspondiente requerirá el acuerdo de por lo menos las dos terceras partes de los integrantes del Congreso del Estado.
+X.- Ejercer conductas que violan o vulneran los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Ejercer conductas de discriminación, de conformidad a la Ley en la materia; y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Ejercer violencia contra las mujeres en cualquier tipo o modalidad.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+En estos casos se aplicará, en lo conducente, lo dispuesto en la Ley de la materia. La resolución correspondiente requerirá el acuerdo de por lo menos las dos terceras partes de los integrantes del Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2002)</small>
 
@@ -1431,9 +1755,11 @@ Cuando por cualquier otra causa, no comprendida en el artículo 57, el Ayuntamie
 
 ### CAPITULO I. DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 60.
 
-El Municipio, para el despacho de los asuntos de carácter administrativo y para auxiliar en sus funciones al Presidente Municipal, de acuerdo con sus posibilidades económicas y sus necesidades, podrá contar con las siguientes dependencias:
+El municipio, para el despacho de los asuntos de carácter administrativo y para auxiliar en sus funciones a la persona titular de la Presidencia Municipal, de acuerdo con sus posibilidades económicas y sus necesidades, podrá contar con las siguientes dependencias:
 
 I.- Secretaría;
 
@@ -1449,13 +1775,15 @@ VI.- Dirección de Obras Públicas;
 
 VII.- Dirección de Desarrollo Rural;
 
-VIII.- Dirección de Desarrollo Urbano; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Dirección de Desarrollo Urbano;
 
 IX.- Dirección de Fomento Económico Municipal.
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-X.- Dirección o Departamento de Ecología.
+X.- Dirección o Departamento de Ecología; y
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2017)</small>
 
@@ -1469,9 +1797,9 @@ Las funciones para el despacho de los asuntos de competencia municipal, se regir
 
 Los Ayuntamientos expedirán oportunamente las cartas y manuales de organización, de procedimientos y de servicio al público, relativos al funcionamiento de cada dependencia.
 
-> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Los empleados y servidores públicos municipales en general, están obligados a participar en los cursos y procesos de capacitación a que sean convocados por la Administración Municipal. La administración municipal a través de la Oficialía Mayor elaborará los programas, esquemas, manuales y demás instrumentos necesarios para impartir la capacitación y los esfuerzos de profesionalización.
+Las personas empleadas y servidores públicos municipales en general, están obligados a participar en los cursos y procesos de capacitación a que sean convocados por la Administración Municipal. La administración municipal a través de la Oficialía Mayor elaborará los programas, esquemas, manuales y demás instrumentos necesarios para impartir la capacitación y los esfuerzos de profesionalización.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2018)</small>
 
@@ -1481,9 +1809,11 @@ Las personas titulares de la Secretaría, Tesorería, Oficialía Mayor y Direcci
 
 ARTICULO 60 BIS.- Los titulares de cada dependencia a que refiere el artículo anterior, tendrán fe pública respecto a la certificación o constancia que expidan de los documentos y archivos que obren en su poder, con motivo de sus atribuciones. Las certificaciones que expidan en ejercicio de esta facultad, serán bajo su más estricta responsabilidad, por lo que cualquier uso indebido de ésta, será motivo de sanción penal, civil o administrativa, según sea el caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 61.
 
-Para ser funcionario municipal se requiere:
+Para ser funcionaria, o funcionario municipal, se requiere:
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1493,15 +1823,15 @@ II.- Ser mexicano y del estado seglar;
 
 III.- Tener buena conducta y la capacidad suficiente para el desempeño del cargo; y
 
-(REFORMADA, P.O. 29 DE AGOSTO DE 2009) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2009)
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV.- No ser cónyuge, pariente consanguíneo o afín, en línea recta, sin limitación de grado o colateral por consanguinidad, dentro del cuarto grado o por afinidad dentro del segundo, del Presidente Municipal, del Presidente Seccional, de los Regidores o del Síndico.
+IV.- No ser cónyuge, pariente consanguíneo o afín, en línea recta, sin limitación de grado o colateral por consanguinidad, dentro del cuarto grado o por afinidad dentro del segundo, de las personas titulares de la Presidencia Municipal, Presidencia Seccional, Regiduría o Sindicatura.
 
-Se exceptúa de lo anterior a quienes estén ocupando un cargo con anterioridad a la toma de posesión de los funcionarios públicos mencionados en el párrafo anterior.
+Se exceptúa de lo anterior a quienes estén ocupando un cargo con anterioridad a la toma de posesión del funcionariado público mencionado en el párrafo anterior;
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-V.- En los municipios cuyas cabeceras municipales tengan más de setenta y cinco mil habitantes, los Directores serán preferentemente profesionistas de los ramos de las dependencias y, en el caso del Secretario del Ayuntamiento, de preferencia contará con título de Licenciado en Derecho.
+V.- En los Municipios cuyas cabeceras municipales tengan más de setenta y cinco mil habitantes, las personas titulares de las Direcciones, serán preferentemente profesionistas de los ramos de las dependencias y, en el caso de la persona titular de la Secretaría del Ayuntamiento, de preferencia contará con título de Licenciado en Derecho.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1515,19 +1845,25 @@ III. Contar con el registro y certificación emitidos por el Centro Estatal de C
 
 IV. Cursar y aprobar la capacitación de inducción en la Escuela Estatal de Policía o, en su caso, acreditarla ante esta.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 62.
 
-El Secretario de la Presidencia Municipal, lo será del Ayuntamiento.
+La persona titular de la Secretaría de la Presidencia Municipal, lo será del Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 63.
 
-Son atribuciones del Secretario:
+Son atribuciones de la persona titular de la Secretaría del Ayuntamiento:
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-I. Concurrir a todas las sesiones del Ayuntamiento, únicamente con voz informativa y levantar las actas al terminar cada una de ellas; así mismo, por acuerdo de la mayoría de los regidores, convocar a sesiones ordinarias, cuando el Presidente Municipal no lo haga sin causa justificada.
+I.- Concurrir a todas las sesiones del Ayuntamiento, únicamente con voz informativa y levantar las actas al terminar cada una de ellas; Así mismo, por acuerdo de la mayoría de las personas titulares de las Regidurías, convocar a sesiones ordinarias, cuando la persona titular de la Presidencia Municipal no lo haga sin causa justificada;
 
-II.- Expedir y certificar las copias de documentos oficiales del Municipio y suscribir aquéllos que contengan acuerdos y órdenes del Ayuntamiento y del Presidente Municipal;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+II.- Expedir y certificar las copias de documentos oficiales del municipio y suscribir aquellos que contengan acuerdos y órdenes del Ayuntamiento y de la persona titular de la Presidencia Municipal;
 
 III.- Atender todo lo relativo, a la remisión de acuerdos del Ayuntamiento que requieran la aprobación del Congreso o del Ejecutivo del Estado;
 
@@ -1545,29 +1881,37 @@ VIII.- Administrar el archivo del ayuntamiento, incluyendo la colección ordenad
 
 IX.- (DEROGADA, P.O. 22 DE AGOSTO DE 2018)
 
-X.- Formular la lista, de personas que estén en aptitud de ser nombrados por el Ayuntamiento, como miembros del Consejo Local de Tutelas;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XI.- Coordinar las actividades de las juntas municipales y las comisarías de policía y comunicarles los acuerdos y órdenes del Presidente Municipal y del Ayuntamiento;
+X.- Formular la lista, de personas que estén en aptitud de ser nombrados por el Ayuntamiento, como integrantes del Consejo Local de Tutelas;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Coordinar las actividades de las juntas municipales y las comisarías de policía y comunicarles los acuerdos y órdenes de la persona titular de la Presidencia Municipal y del Ayuntamiento;
 
 XII.- Atender las consultas, sobre interpretación de leyes, reglamentos o circulares que deban aplicar las autoridades municipales y auxiliar a las demás dependencias del Municipio, en la atención de los juicios de amparo que se promuevan;
 
 XIII.- Intervenir en aquellas cuestiones que se refieran al cumplimiento de las leyes federales o del Estado, particularmente en lo que se refiere al Servicio Militar Nacional y a la materia electoral.
 
-XIV.- Reunir los datos necesarios, para la elaboración de los informes que el Presidente Municipal deba rendir al Ayuntamiento y a los Poderes Legislativo y Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XIV.- Reunir los datos necesarios, para la elaboración de los informes que la persona titular de la Presidencia Municipal deba rendir al Ayuntamiento, a los Poderes Legislativo y Ejecutivo del Estado; y
 
 XV.- Las demás que le encomienden las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 64.
 
-Son atribuciones del tesorero:
+Son atribuciones de la persona titular de la Tesorería:
 
 I.- Proyectar y calcular los ingresos anuales del erario municipal, así como formular y someter a la consideración del Presidente Municipal el Anteproyecto de la Ley de Ingresos;
 
 II.- Cobrar, recaudar y concentrar con las excepciones previstas en las leyes y en el artículo 40, fracción VI, de este Código, los fondos provenientes de la ejecución de la Ley de Ingresos, así como los que por otros conceptos distintos tenga derecho a percibir el Municipio por cuenta propia o ajena;
 
-III.- Practicar el día último de cada mes, el corte de caja para determinar el movimiento de ingresos y egresos, que deberá recibir la aprobación del Presidente Municipal y del Presidente de la Comisión de Hacienda;
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III.- Practicar el día último de cada mes, el corte de caja para determinar el movimiento de ingresos y egresos, que deberá recibir la aprobación de las personas titulares de la Presidencia Municipal y de la Comisión de Hacienda;
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -1591,17 +1935,19 @@ g) El cobro de los tributos, recargos, intereses y multas federales o estatales,
 
 V.- Determinar y aplicar las sanciones que procedan por el incumplimiento de las disposiciones fiscales, contenidas en este Código y sus reglamentos o de los acuerdos y mandamientos de las autoridades fiscales municipales;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI.- Proponer al Presidente Municipal el anteproyecto del Presupuesto anual de egresos, previo análisis del diverso que remitan las juntas municipales, y dirigir, programar y controlar la inversión pública municipal, con la participación de la Oficialía Mayor, en su caso;
+VI.- Proponer a la persona titular de la Presidencia Municipal el anteproyecto del Presupuesto anual de egresos, previo análisis del diverso que remitan las juntas municipales, y dirigir, programar y controlar la inversión pública municipal, con la participación de la Oficialía Mayor, en su caso.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 En el cálculo y elaboración del Presupuesto de Egresos se deberá oportunamente invitar a las autoridades de las secciones municipales para analizar y discutir su anteproyecto de Presupuesto de Egresos, para los efectos legales correspondientes. La falta de notificación a las autoridades seccionales para dar cumplimiento a lo anterior será causa grave de responsabilidad en los términos de Ley.
 
-VII.- Realizar los pagos, de acuerdo con el presupuesto de egresos y las órdenes que reciba, en la inteligencia, de que salvo los correspondientes a sueldos, no podrá hacer ningún otro, sin orden escrita y directa del Presidente Municipal o por conducto de la Oficialía Mayor.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Cuando el Presidente ordene algún gasto, que a juicio del Tesorero sea improcedente, negará el pago razonando la negativa, pero si el Presidente insistiera en su orden, la misma será cumplida bajo su responsabilidad; lo dispuesto en esta fracción es aplicable a los Presidentes seccionales, por lo que corresponde a la inversión de los fondos que recauden o reciban por cualquier concepto;
+VII.- Realizar los pagos, de acuerdo con el Presupuesto de Egresos y las órdenes que reciba, en la inteligencia, de que salvo los correspondientes a sueldos, no podrá hacer ningún otro, sin orden escrita y directa del (sic) la persona titular de la Presidencia Municipal, o por conducto de la Oficialía Mayor.
+
+Cuando el titular de la Presidencia ordene algún gasto, que a juicio de la persona titular de la Tesorería sea improcedente, negará el pago razonando la negativa, pero si la persona titular de la Presidencia insistiera en su orden, la misma será cumplida bajo su responsabilidad; lo dispuesto en esta fracción es aplicable a las personas titulares de las Presidencias Seccionales, por lo que corresponde a la inversión de los fondos que recauden o reciban por cualquier concepto;
 
 VIII.- Realizar pagos derivados de los convenios celebrados con la Federación y el Estado en materia de inversión pública, conforme a los lineamientos establecidos en los mismos;
 
@@ -1615,11 +1961,11 @@ XII.- Intervenir directamente o a través de apoderado en representación del in
 
 XIII.- Las demás que fijen las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-###### ARTICULO 65.
+###### ARTÍCULO 65.
 
-El tesorero al iniciar sus funciones, deberá caucionar su manejo con la garantía suficiente que fije el Ayuntamiento, la cual podrá ser revisada cada año y, en su caso, podrá aumentarse o disminuirse. La caución podrá otorgarse por los siguientes medios:
+La persona titular de la tesorería, al iniciar sus funciones, deberá caucionar su manejo con la garantía suficiente que fije el Ayuntamiento, la cual podrá ser revisada cada año y, en su caso, podrá aumentarse o disminuirse. La caución podrá otorgarse por los siguientes medios:
 
 A).- Fianza, deberá ser otorgada por una institución autorizada para dichos fines.
 
@@ -1633,11 +1979,15 @@ Cuando no lo haga, además de la responsabilidad pecuniaria que contraiga, será
 
 La garantía que se otorgue se liberará, en su caso, hasta que se dictamine la Cuenta Pública del ejercicio fiscal que corresponda, siempre y cuando no exista presunción de responsabilidad respecto del tesorero.
 
-###### ARTICULO 66.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Son atribuciones del Oficial Mayor:
+###### ARTÍCULO 66.
 
-I.- Participar con el Tesorero Municipal, en la formulación de los planes y programas del gasto público y en la elaboración del anteproyecto de presupuesto;
+Son atribuciones de la persona titular de la Oficialía Mayor:
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I. Participar con la persona titular de la Tesorería Municipal, en la formulación de los planes y programas del gasto público y en la elaboración del anteproyecto de presupuesto;
 
 II.- Expedir las órdenes para las erogaciones con cargo al presupuesto de las dependencias municipales, excepción hechas de las que realicen las autoridades seccionales;
 
@@ -1647,7 +1997,9 @@ IV.- Controlar y dar servicio de mantenimiento a vehículos, maquinaria, mobilia
 
 V.- Administrar, controlar y vigilar los almacenes del Municipio;
 
-VI.- Conservar y administrar los bienes propiedad del Municipio y proponer al Presidente Municipal su recuperación, concesión o enajenación, cuando dichas funciones no estén encomendadas a otra dependencia;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VI. Conservar y administrar los bienes propiedad del municipio y proponer a la persona titular de la Presidencia Municipal su recuperación, concesión o enajenación, cuando dichas funciones no estén encomendadas a otra dependencia;
 
 VII.- Intervenir en la adquisición y enajenación de bienes muebles o inmuebles que lleve a cabo el Municipio y vigilar que dichas operaciones se ajusten a las disposiciones legales;
 
@@ -1655,25 +2007,35 @@ VIII.- Levantar y tener al corriente el inventario general de los bienes muebles
 
 IX.- Vigilar el cumplimiento de las normas y contratos que rijan las concesiones, autorizaciones y permisos para el aprovechamiento y explotación de los bienes municipales, cuando dichas tareas no estén expresamente encomendadas a otra dependencia;
 
-X.- Expedir los nombramientos, tramitar y resolver los asuntos relativos a los empleados al servicio del Municipio, en cumplimiento a los (sic) dispuesto en las leyes, reglamentos y manuales de organización; excepción hecha de los funcionarios o empleados seccionales;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+X. Expedir los nombramientos, tramitar y resolver los asuntos relativos a las y los empleados al servicio del municipio, en cumplimiento a lo dispuesto en las leyes, reglamentos y manuales de organización; excepción hecha del funcionariado o personas empleadas seccionales;
 
 XI.- Participar en la determinación de las condiciones generales de trabajo, difundiéndolas y vigilando su cumplimiento;
 
 XII.- Mantener al corriente el escalafón de los trabajadores;
 
-XIII.- Autorizar, previo acuerdo del Presidente y con base en el Presupuesto, la creación de nuevas plazas o unidades administrativas que requieran las dependencias del Municipio;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Autorizar, previo acuerdo de la persona titular de la Presidencia y con base en el presupuesto, la creación de nuevas plazas o unidades administrativas que requieran las dependencias del municipio;
 
 XIV.- Elaborar y revisar permanentemente, con el concurso de las demás dependencias municipales, las cartas y manuales de organización y de procedimientos que requieran las unidades administrativas municipales; y
 
 XV.- Las demás consignadas en las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 67.
 
-Corresponde al Director de Servicios Públicos Municipales:
+Corresponde a la persona titular de la Dirección de Servicios Públicos Municipales:
 
-I.- Proponer al Presidente Municipal y ejecutar las políticas que éste fije, en materia de prestación de servicios públicos;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II.- Proponer al Presidente Municipal las actividades que deban ser consideradas como servicios públicos y que no estén consignados expresamente como tales en las leyes y reglamentos;
+I.- Proponer a la persona titular de la Presidencia Municipal y ejecutar las políticas que éste fije, en materia de prestación de servicios públicos;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+II.- Proponer a la persona titular de la Presidencia Municipal las actividades que deban ser consideradas como servicios públicos y que no estén consignados expresamente como tales en las leyes y reglamentos;
 
 III.- La organización y prestación de los servicios públicos que corresponden al Municipio y que no estén atribuídos a otra dependencia;
 
@@ -1681,13 +2043,23 @@ IV.- Intervenir en el proceso de concesión de servicios públicos y vigilar su 
 
 V.- Tener a su cargo el control y vigilancia del servicio de que se trate, cuando el Ayuntamiento decida la prestación de éste a través de un organismo de participación municipal;
 
-VI.- Proponer al Presidente Municipal la municipalización de servicios públicos; las declaraciones administrativas de nulidad, caducidad, rescisión, rescate o revocación de concesiones de servicios públicos; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VII.- Las demás previstas en las leyes, reglamentos y manuales de organización.
+VI.- Proponer a la persona titular de la Presidencia Municipal la municipalización de servicios públicos; las declaraciones administrativas de nulidad, caducidad, rescisión, rescate o revocación de concesiones de servicios públicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Promover la igualdad sustantiva en el acceso a los servicios públicos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Las demás previstas en las leyes, reglamentos y manuales de organización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 68.
 
-Son atribuciones del Director de Seguridad Pública o Comandante de Policía:
+Son atribuciones de la persona titular de la Dirección de Seguridad Pública o Comandante de Policía:
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2013)</small>
 
@@ -1697,15 +2069,29 @@ II.- Mantener la seguridad, tranquilidad, moralidad y orden públicos;
 
 III.- Prevenir la comisión de delitos y proteger a las personas en sus derechos;
 
-IV.- (DEROGADA, P.O. 6 DE JULIO DE 2013)
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Guiar la implementación, en coordinación con las autoridades federales, en el ámbito de sus respectivas competencias, los programas, mecanismos y protocolos de seguridad, en casos de violencia contra las mujeres; niñas niños y adolescentes.
 
 V.- Controlar, vigilar y disciplinar a los investigadores privados y a los agentes de seguridad al servicio de personas, empresas o instituciones ajenas al Municipio, que no dependan directamente del Estado o de la Federación;
 
 VI.- Cuidar la observancia de los reglamentos en materia de seguridad pública, bandos de policía y buen gobierno;
 
-VII.- Auxiliar a las autoridades del Estado y la Federación en el ejercicio de sus funciones, cuando sean requeridos legalmente para ello; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VIII.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
+VII.- Auxiliar a las autoridades del Estado y la Federación en el ejercicio de sus funciones, cuando sean requeridos legalmente para ello;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Implementar capacitaciones en temas de derechos humanos, en coordinación con la Comisión Estatal de los Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Llevar un registro de los casos de violencia contra las mujeres que fueron atendidos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+X.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
 ###### ARTICULO 69.
 
@@ -1715,13 +2101,19 @@ I.- Estará organizada y funcionará conforme a su propia Ordenanza y Bando apro
 
 II.- Actuará para la prevención de la delincuencia, sin más limitaciones que el respeto a los derechos del individuo y de los trascendentes de la sociedad a la que sirve;
 
-III.- Si se trata de menores infractores, deberá ponerlos de inmediato a disposición de las autoridades competentes, en los términos del Código para la Protección y Defensa del Menor del Estado;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV.- Ejercerá su función de tal manera, que toda intervención signifique mediación, prudencia, justicia y buen trato, sin perjuicio de ejercer la autoridad con la energía que sea necesaria, cuando las circunstancias lo ameriten;
+III.- Si se trata de menores infractores, deberá ponerlos de inmediato a disposición de las autoridades competentes, en los términos de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Ejercerá su función de tal manera, que toda intervención signifique prudencia, justicia y buen trato, sin perjuicio de ejercer la autoridad con la energía que sea necesaria, cuando las circunstancias lo ameriten;
 
 V.- Actuará para prevenir, convencer, restaurar la seguridad, tranquilidad, moralidad y orden públicos y coadyuvar a resolver las situaciones conflictivas que se presenten en la comunidad;
 
-VI.- Tendrá como objetivos en su actuación, el respeto a la vida y a la integridad corporal de las personas y la existencia y fortalecimiento de la familia; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Tendrá como objetivos en su actuación, el respeto a la vida y a la integridad corporal de las personas y la existencia y fortalecimiento de la familia;
 
 VII.- Coadyuvará con los otros cuerpos de seguridad pública, tanto federales como estatales, en lo que de común tiene el desempeño de sus respectivas tareas.
 
@@ -1733,15 +2125,31 @@ Respecto de la colaboración que lleve a cabo en asuntos migratorios, los extran
 
 La policía preventiva municipal estará al mando del Presidente Municipal en los términos del reglamento correspondiente. Aquella acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue de fuerza mayor o alteración grave del orden público. La apreciación de la situación de fuerza mayor o alteración grave del orden público, correrá bajo la estricta responsabilidad del Gobernador.
 
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Prevenir y atender con perspectiva de género, la violencia social, violencia contra las mujeres y violencia familiar;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Establecer protocolos para la atención de primer contacto y canalización de víctimas del delito, de violencia contra las mujeres y de violación a los derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+X.- Realizar protocolos y programas para prevenir y atender la trata de personas en el municipio; y el proceso de canalización a las autoridades federales facultadas.
+
 ###### ARTICULO 70.
 
 Toda persona que sea detenida por infracciones a reglamentos gubernativos o de policía tendrá derecho a que se le fije la sanción alternativa, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en un término no mayor de seis horas. El reglamento respectivo garantizará la implementación de un mecanismo para que en todas las direcciones de seguridad pública y comandancias municipales exista permanentemente personal con facultades para cumplir lo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 71.
 
-Son atribuciones del Director de Obras Públicas Municipales, las siguientes:
+Son atribuciones de la persona titular de la Dirección de Obras Públicas Municipales, las siguientes:
 
-I.- Formular el programa de obras y someterlo a la consideración del Presidente Municipal;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I.- Formular el programa de obras y someterlo a la consideración de la persona titular de la Presidencia Municipal;
 
 II.- Proyectar, construir y conservar las obras públicas que conforme a las leyes y sus reglamentos, sean a cargo del Municipio;
 
@@ -1763,9 +2171,11 @@ La inobservancia de tales normas impedirá a la autoridad municipal otorgar el p
 
 X.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 72.
 
-Son atribuciones del Director de Desarrollo Urbano Municipal, las siguientes:
+Son atribuciones de la persona titular de la Dirección de Desarrollo Urbano Municipal las siguientes:
 
 I.- Proponer, coordinar y ejecutar las políticas del Municipio en materia de planeación y desarrollo urbano y realizar las acciones necesarias para el cumplimiento de las disposiciones legales relativas a los asentamientos humanos;
 
@@ -1789,9 +2199,11 @@ X.- Proponer al Ayuntamiento la expedición de los reglamentos en materia de des
 
 XI.- Las demás que le otorguen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 73.
 
-Son atribuciones del Director de Desarrollo Rural, las siguientes:
+Son atribuciones de la persona titular de la Dirección de Desarrollo Rural, las siguientes:
 
 I.- Fomentar las actividades agrícolas, ganaderas, frutícolas, acuícolas, forestales y aquellas que incidan en el desarrollo económico de los productores, promoviendo el crédito, la organización, los seguros y la tecnificación en coordinación con las dependencias federales, estatales y los sectores social y privado;
 
@@ -1807,9 +2219,11 @@ VI.- Vigilar, en el ámbito de su competencia, la aplicación de las leyes, regl
 
 VII.- Las demás que le atribuyan las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 74.
 
-Son atribuciones, del Director de Fomento Económico Municipal, las siguientes:
+Son atribuciones de la persona titular de la Dirección de Fomento Económico, las siguientes:
 
 I.- Fomentar e impulsar las actividades industriales, comerciales, turísticas o mineras, en el Municipio;
 
@@ -1819,13 +2233,27 @@ III.- Establecer acciones y programas encaminados hacia la modernización de los
 
 IV.- Coordinarse, en su caso, con las dependencias federales, estatales y los sectores social y privado en la consecución de sus fines;
 
-V.- Dirigir y vigilar, en el ámbito de su competencia, el cumplimiento de las leyes, reglamentos y demás disposiciones legales en relación con la materia; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI.- Las demás, que le señalen expresamente otras leyes o reglamentos.
+V.- Dirigir y vigilar, en el ámbito de su competencia, el cumplimiento de las leyes, reglamentos y demás disposiciones legales en relación con la materia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 74 BIS.- Son atribuciones y obligaciones del Director o Jefe de Departamento de Ecología, las siguientes:
+VI.- Hacer del conocimiento de la autoridad competente de los posibles casos de trata de personas que se susciten en las empresas establecidas en el municipio;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Derogar los permisos y cualquier otra facultad a las empresas en caso de suscitarse violencia contra las mujeres o discriminación; y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Las demás, que le señalen expresamente otras leyes, reglamentos y Normas Oficiales Mexicanas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 74 Bis.
+
+Son atribuciones y obligaciones de la persona titular de la Dirección o el Departamento de Ecología, las siguientes:
 
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)</small>
 
@@ -1873,15 +2301,15 @@ XI.- Las demás que le señalen expresamente otras leyes o reglamentos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE OCTUBRE DE 2017)</small>
 
-ARTÍCULO 74 TER.- Son atribuciones y obligaciones de la Dirección de Educación y Cultura:
+ARTICULO 74 TER.- Son atribuciones y obligaciones de la Dirección de Educación y Cultura:
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 I. Promover y prestar servicios educativos de cualquier tipo o modalidad, sin perjuicio de la concurrencia de las autoridades educativas federal y local.
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II. Editar libros y otros materiales didácticos distintos a los libros de texto gratuito.
+II. Editar libros y otros materiales didácticos distintos a los libros de texto gratuito, con base en temáticas de civilidad, respeto, tolerancia, respeto a los derechos humanos, igualdad sustantiva y no discriminación;
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -1895,51 +2323,39 @@ IV. Diseñar e implementar programas de fomento cultural.
 
 V. Promover la investigación que sirva como base en la innovación educativa.
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI. Promover la investigación y desarrollo de la ciencia, tecnología y la innovación.
+VI. Promover la investigación y desarrollo de la ciencia, tecnología, la innovación, e impulsar que las mujeres tengan las mismas oportunidades de acceso;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VII. Fomentar la creación de programas de educación para la salud, así como de protección del medio ambiente.
+VII. Fomentar la creación de programas de educación para la salud, así como de protección del medio ambiente con perspectiva de género;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Impulsar programas de alfabetización, educación para adultos, educación para y en el trabajo y la productividad.
+VIII. Impulsar programas de alfabetización, educación para personas adultas mayores, educación para y en el trabajo y la productividad; en igualdad de trato y oportunidades entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IX. Diseñar programas para la dotación de becas a alumnos que se encuentren en situación de vulnerabilidad.
+IX. Diseñar programas para la dotación de becas a niñas, niños y adolescentes que se encuentren en situación de discapacidad, pobreza, marginación, de comunidades indígenas y en situación de vulnerabilidad;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-X. Proponer al Presidente Municipal la celebración de convenios de coordinación y concertación con los sectores público, social y privado para el mejoramiento de la infraestructura educativa en el municipio.
+X. Proponer a la persona titular de la Presidencia Municipal la celebración de convenios de coordinación y concertación con los sectores público, social y privado para el mejoramiento de la infraestructura educativa en el municipio;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XI. Las demás establecidas en el presente Código, legislación federal y local aplicable.
+XI. Promover programas de sensibilización sobre acoso y hostigamiento sexual, violencia familiar y docente;
 
-###### ARTICULO 74 Bis.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Son atribuciones del Director o Jefe de Departamento de Ecología, las siguientes:
+XII. Las demás establecidas en el presente Código, legislación federal y local aplicable.
 
-I.- Participar en la creación y administración de áreas naturales protegidas de conformidad con las disposiciones jurídicas aplicables;
-
-II.- Promover la aplicación de la política ambiental del Municipio en congruencia y coordinación con las disposiciones legales, los planes y programas que se establezcan por la Federación, con la participación que corresponda a otras dependencias del Poder Ejecutivo Estatal;
-
-III.- Fomentar la elaboración de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales;
-
-IV.- Proponer ante las instancias gubernamentales acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Municipio, en concordancia con las disposiciones de carácter Estatal y Federal.
-
-V.- Promover en coordinación con las instancias correspondientes el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental;
-
-VI.- Promover la celebración de convenios de colaboración entre los distintos órdenes de gobierno para la realización de acciones en materia de ecología.
-
-VII.- Las demás, que le señalen expresamente otras leyes y reglamentos.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 75.
 
-Los demás servidores públicos tendrán las facultades y obligaciones que les señalen las leyes, sus reglamentos y los manuales de organización aprobados por cada Ayuntamiento.
+Las y los demás servidores públicos tendrán las facultades y obligaciones que les señalen las leyes, sus reglamentos y los manuales de organización aprobados por cada Ayuntamiento.
 
 ###### ARTICULO 76.
 
@@ -1947,11 +2363,29 @@ Trabajador al servicio de un Municipio es toda persona que le preste un servicio
 
 Los trabajadores al servicio del Municipio, se dividen en dos grupos: De confianza y de base:
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-I.- Son trabajadores de confianza: los titulares de las dependencias de la administración municipal; el Secretario Particular del Presidente Municipal; los jefes y subjefes de departamento; los cajeros de las oficinas receptoras; auditores; pagadores; inspectores; administradores de servicios públicos; miembros de comisiones de estudio; consultores; asesores; ingenieros comisionados en obras públicas; miembros de la policía, tránsito y bomberos municipales; alcaides; y
+I.- Son trabajadores o trabajadoras de confianza: Las y los titulares de las dependencias de la administración municipal; la persona titular de la Secretaría Particular de la Presidencia Municipal; las personas titulares de las jefaturas y subjefaturas de Departamento; las y los cajeros de las oficinas receptoras; las personas que integran la auditoría; pagaduría; inspectorías; personas administradoras de servicios públicos; integrantes de comisiones de estudio; consultoría; asesoría; las y los ingenieros comisionados en obras públicas; personal de los cuerpos de la policía, vialidad y bomberos municipales; alcaides;
 
 II.- Son de base, los no incluidos en la enumeración anterior.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 76 Bis.
+
+Los nombramientos de personas al servicio público municipal de confianza y de base, sin perjuicio de la normatividad que lo regula, se emitirán atendiendo a la cultura institucional para la igualdad laboral entre mujeres y hombres, para lo cual se considerarán:
+
+I. La eliminación de estereotipos de género;
+
+II. Las aptitudes, experiencias y conocimientos libres de discriminación en cualquiera de sus formas;
+
+III. La igualdad de oportunidades entre mujeres y hombres en el acceso a los cargos públicos;
+
+IV. La igualdad de remuneración por trabajo de igual valor;
+
+V. Igualdad de derechos en prestaciones;
+
+VI. Cualquier otro elemento que contribuya a la selección de personal y nombramientos con perspectiva de género y bajo los principios de igualdad sustantiva y no discriminación.
 
 ###### ARTICULO 77.
 
@@ -1975,17 +2409,17 @@ Los municipios podrán celebrar convenios entre sí o con instituciones pública
 
 En cada Municipio existirá un Tribunal de Arbitraje, el cual podrá funcionar accidental o permanentemente, para resolver los conflictos de trabajo individuales o colectivos.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-El Tribunal de Arbitraje será competente para conocer de los conflictos laborales que se susciten entre los Ayuntamientos y sus trabajadores, así como del personal de los cuerpos de policía, tránsito y bomberos, de acuerdo al régimen especial que los norma. El Tribunal de Arbitraje se integrará por un representante del municipio, uno de los trabajadores y, otro, designado de común acuerdo entre ellos, quien tendrá el carácter de Presidente, y deberá quedar constituido dentro de los cuarenta y cinco días siguientes, contados a partir del día de inicio del período de la Administración Municipal correspondiente, sujetándose al procedimiento establecido en el Código Administrativo del Estado.
+El Tribunal de Arbitraje será competente para conocer de los conflictos laborales que se susciten entre los Ayuntamientos y sus trabajadores, así como del personal de los cuerpos de policía, tránsito y bomberos, de acuerdo al régimen especial que los norma. El Tribunal de Arbitraje se integrará por un representante del municipio, una o uno de los trabajadores y, otro, designado de común acuerdo entre ellos, quien tendrá el carácter de Presidente, y deberá quedar constituido dentro de los cuarenta y cinco días siguientes, contados a partir del día de inicio del período de la Administración Municipal correspondiente, sujetándose al procedimiento establecido en el Código Administrativo del Estado.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Una vez constituido el Tribunal de Arbitraje Municipal, el Presidente Municipal deberá proceder de manera inmediata a fijar en los estrados de la Presidencia Municipal, el aviso que contenga el nombre y los puestos de quienes lo conforman, su lugar de ubicación y demás información que se considere necesaria.
+Una vez constituido el Tribunal de Arbitraje Municipal, la persona titular de la Presidencia Municipal deberá proceder de manera inmediata a fijar en los estrados de la Presidencia Municipal, el aviso que contenga el nombre y los puestos de quienes lo conforman, su lugar de ubicación y demás información que se considere necesaria.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Habiendo trascurrido el plazo de cuarenta y cinco días señalado en el segundo párrafo del presente artículo, para que el Tribunal de Arbitraje se haya constituido, y sin que ello ocurra, se procederá en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Habiendo transcurrido el plazo de cuarenta y cinco días señalado en el segundo párrafo del presente artículo, para que el Tribunal de Arbitraje se haya constituido, y sin que ello ocurra, se procederá en los términos que establece la ley de la materia.
 
 ### CAPITULO II. DE LOS ORGANISMOS DESCENTRALIZADOS Y EMPRESAS DE PARTICIPACION MUNICIPAL
 
@@ -2003,9 +2437,13 @@ Son empresas de participación municipal mayoritaria, aquéllas que satisfacen a
 
 I.- Que el Municipio, directamente o a través de otras empresas, en cuyo capital tenga participación mayoritaria o de organismos descentralizados, aporte o sea propietario de un cincuenta y uno por ciento o más del capital social o de las acciones de la empresa;
 
-II.- Que en la constitución de su capital, se haga figurar acciones de serie especial que sólo pueden ser suscritas por el Municipio; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-III.- Que al Municipio, corresponda la facultad de nombrar a la mayoría de los miembros del Consejo de Administración, Junta Directiva u órgano equivalente o de designar al presidente, director o gerente, o tenga facultades para vetar los acuerdos de la asamblea general de accionistas, del Consejo de Administración, de la junta directiva u órgano equivalente.
+II.- Que en la constitución de su capital, se haga figurar acciones de serie especial que sólo pueden ser suscritas por el Municipio;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III.- Que al Municipio, corresponda la facultad de nombrar a la mayoría de las y los integrantes del Consejo de Administración, Junta Directiva u órgano equivalente o de designar a la persona titular de la Presidencia, Dirección o Gerencia, o tenga facultades para vetar los acuerdos de la asamblea general de accionistas, del Consejo de Administración, de la junta directiva u órgano equivalente.
 
 ###### ARTICULO 81.
 
@@ -2017,15 +2455,125 @@ Quedan sujetos al control y vigilancia del Ayuntamiento, en los términos de las
 
 Las empresas de participación minoritaria, quedan sujetas a la vigilancia del Ayuntamiento, por conducto de un comisario designado por aquél.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 82 Bis.
+
+Cada Ayuntamiento deberá crear preferentemente un Instituto Municipal de las Mujeres, que fungirá como un organismo descentralizado de conformidad con el artículo 79.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 82 Ter.
+
+El objeto general del Instituto es promover, diseñar, coordinar, evaluar e instrumentar las acciones afirmativas y políticas públicas que impulsen la igualdad sustantiva, la no discriminación y la prevención, atención, sanción y eliminación de la violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 82 Quáter.
+
+El Instituto· Municipal de las Mujeres tendrá las siguientes atribuciones:
+
+I. Impulsar la cultura institucional para la igualdad laboral entre mujeres y hombres en el Ayuntamiento;
+
+II. Promover un clima laboral adecuado, libre de discriminación y violencia al interior del Ayuntamiento, así como al exterior, en lo que resulte competente;
+
+III. Promover la corresponsabilidad al interior del Ayuntamiento;
+
+IV. Impulsar la comunicación incluyente;
+
+V. Establecer acciones para prevenir, atender, sancionar y erradicar la violencia laboral contra las mujeres, acoso y hostigamiento sexual;
+
+VI. Coadyuvar en la creación y funcionamiento del Sistema Municipal para la Igualdad Entre Mujeres y Hombres y el Consejo Municipal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, de conformidad con la normatividad aplicable;
+
+VII. Promover una cultura de igualdad, libre de discriminación y violencia contra las mujeres, capaz de proporcionar el desarrollo integral y adelanto de las mujeres del Municipio;
+
+VIII. Crear herramientas para la participación igualitaria de mujeres y hombres en la vida política, social, económica, educativa, cultural y medioambiental del municipio;
+
+IX. Coadyuvar en la planeación estratégica e implementación de políticas públicas, programas, estrategias y acciones encaminadas al desarrollo integral de las mujeres;
+
+X. Promover y colaborar en armonización legislativa con perspectiva de género de la Reglamentación Municipal, Planes, Programas y Proyectos realizados por el Ayuntamiento.
+
+XI. Definir estrategias para la elaboración e implementación de:
+
+a. Programa Municipal para la Igualdad entre Mujeres y Hombres,
+
+b. Programa Municipal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia;
+
+c. Programa Municipal de Cultura Institucional para la Igualdad Laboral entre Mujeres y Hombres;
+
+XII. Crear, proponer y coadyuvar en el diseño de implementación de programas, proyectos u otras acciones tendientes a la prevención, atención, sanción y erradicación de la violencia contra las mujeres en el municipio;
+
+XIII. Coadyuvar en los procedimientos de atención integral y multidisciplinaria de las mujeres en situación de violencia;
+
+XIV. Elaborar investigaciones, estudios, diagnósticos, indicadores y cualquier otro análisis sobre la situación y posición de las mujeres con respecto a los hombres, incidencia de la violencia contra las mujeres, identificación de las necesidades de las mujeres en el Municipio, y cualquier otra que le permita cumplir con sus objetivos, funciones y atribuciones;
+
+XV. Impulsar un sistema de información que permita la disposición de datos e indicadores, a los que pueden tener acceso las dependencias en el ejercicio de sus funciones, resguardando los datos personales y su confidencialidad;
+
+XVI. Coadyuvar con el Comité de Igualdad de Género en la realización de sus atribuciones;
+
+XVII. Proponer convenios o acuerdos de apoyo y colaboración con organismos públicos, sociales y privados, nacionales e internacionales, uniendo esfuerzos de participación, para el desarrollo de programas y proyectos a favor de la mujer y de la igualdad sustantiva;
+
+XVIII. Capacitar, en coordinación con las autoridades competentes, al personal del Ayuntamiento en materia de género, igualdad sustantiva, derechos humanos de las mujeres.
+
+XIX. Promover y desarrollar acciones de capacitación, talleres, conferencias, cursos y cualquier otra herramienta que apoye la sensibilización y concientización de la igualdad sustantiva y no discriminación;
+
+XX. Fomentar, proponer y fortalecer, en coordinación con las dependencias del sector salud, las campañas de prevención y atención de la salud integral de las mujeres, la educación para la salud, y la salud sexual y reproductiva;
+
+XXI. Promover la realización de programas de atención de necesidades para las niñas, las jóvenes, las mujeres adultas mayores, las mujeres con discapacidad, mujeres indígenas y mujeres de otros grupos prioritarios o en situación de vulnerabilidad;
+
+XXII. Impulsar y estimular la capacidad productiva de las mujeres, promoviendo oportunidades de empleo;
+
+XXIII. Impulsar proyectos productivos que contribuyan a la agencia e independencia económica (sic) mujeres en los medios urbano y rural;
+
+XXIV. Participar, desarrollar y coordinar eventos académicos, sociales y culturales en materia de género, para el intercambio de conocimientos y experiencias;
+
+XXV. Gestionar recursos ante los organismos públicos y privados de cualquier orden de gobierno, que apoyen en la cumplimentación de los objetivos y atribuciones del Instituto Municipal de las Mujeres;
+
+XXVI. Ejecutar los objetivos y acciones establecidas en el Plan de Desarrollo Municipal, en lo relativo a las mujeres, la igualdad sustantiva, la discriminación contra mujeres y la violencia contra las mujeres;
+
+XXVII. Participar en los acuerdos, redes, programas, acciones y otros instrumentos emitidos por los Sistemas Estatales, Nacionales e Internacionales de Acceso de las Mujeres a una vida libre de violencia y para la igualdad entre Mujeres y Hombres;
+
+XXVIII. Llevar un registro de los acuerdos realizados en el Sistema Estatal para la Igualdad entre Mujeres y Hombres, con relación a las funciones y atribuciones del Ayuntamiento;
+
+XXIX. Promover que las mujeres participen en los mecanismos de consulta y vigilancia de las políticas, conforme a lo dispuesto en el presente Código;
+
+XXX. Las demás que le confieren las leyes estatales y federales, así como los tratados internaciones ratificados por el Estado Mexicano sobre derechos humanos de las mujeres.
+
+Para el ejercicio de sus atribuciones, las instancias podrán realizar programas, estrategias, protocolos, manuales, guías y cualquier otro ordenamiento jurídico, el cual deberá seguir el procedimiento de aprobación respectivo, dentro de su ámbito de competencia.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 82 Quinquies.
+
+El Instituto Municipal de las Mujeres expedirá su reglamento interior para la operación y funcionamiento, de conformidad con las necesidades, intereses y medidas presupuestarias del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 82 Sexies.
+
+De manera enunciativa, más no limitativa, el Instituto Municipal de las Mujeres contará con las siguientes áreas:
+
+I. Directora;
+
+II. Área Jurídica;
+
+III. Área de Planeación de Proyectos con Perspectiva de Género;
+
+IV. Área Administrativa y Cultura Institucional para la Igualdad;
+
+V. Área de Recursos Financieros.
+
+El Instituto Municipal de las Mujeres establecerá las atribuciones, funciones y mecanismos de coordinación entre las áreas en su Reglamento Interior.
+
 ### CAPITULO III. DE LOS ORGANOS DE COLABORACION
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 83.
 
-En cada Municipio, deberán funcionar los comités de vecinos, en la forma y términos que establezca el Reglamento Interior, estarán integrados cuando menos por tres miembros, fungiendo como Presidente y serán electos en forma directa por la población de la zona que corresponda.
+En cada municipio, deberán funcionar los comités de vecinas y vecinos, en la forma y términos que establezca el Reglamento Interior, estarán integrados cuando menos por tres personas, fungiendo la persona titular de la Presidencia, Secretaría y Tesorería, y serán electas en forma directa por la población de la zona que corresponda.
 
-En la promoción, organización funcionamiento control y supresión de los comités sólo podrán intervenir el Ayuntamiento, con la participación que corresponda a los vecinos.
+En la promoción, organización, funcionamiento, control y supresión de los comités sólo podrá intervenir el Ayuntamiento con la participación que corresponda a las vecinas o vecinos, sin embargo, promoverá que en su integración tengan las mismas oportunidades mujeres y hombres.
 
 ###### ARTICULO 84.
 
@@ -2033,11 +2581,15 @@ Los comités serán órganos de información, consulta, promoción y gestión so
 
 I.- Coadyuvar para el cumplimiento eficaz de los programas parciales y generales de gobierno, que formule el Ayuntamiento y el Presidente Municipal;
 
-II.- Promover la participación y colaboración de los habitantes y vecinos del Municipio, en la realización de obras o prestación de servicios de interés colectivo y en general, en todos los aspectos de beneficio social;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+II.- Promover la participación y colaboración de los habitantes y vecinas o vecinos del municipio, en la realización de obras o prestación de servicios de interés colectivo y en general, en todos los aspectos de beneficio social;
 
 III.- Dar a conocer a la autoridad municipal los problemas que afectan a sus representados, proponer las soluciones pertinentes e informar a dichas autoridades sobre deficiencias en la ejecución de los programas de obras y servicios;
 
-IV.- Proponer a las autoridades municipales las medidas que estimen convenientes para el mejor aprovechamiento y aplicación de sus recursos y la adecuada prestación de los servicios públicos; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Proponer a las autoridades municipales las medidas que estimen convenientes para el mejor aprovechamiento y aplicación de sus recursos y la adecuada prestación de los servicios públicos;
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2009)</small>
 
@@ -2045,13 +2597,31 @@ V.- Bajo el principio de Subsidiariedad comunitaria, organizarse para coadyuvar 
 
 El principio de Subsidiariedad comunitaria, implica que ante la prestación parcial o deficiente de un servicio público municipal, la comunidad organizada lo preste o coadyuve a su prestación eficiente, recayendo en la autoridad municipal la obligación de facilitar la organización vecinal para alcanzar ese fin;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI.- Las demás que les señalen las leyes y sus reglamentos.
+VI.- Promover la participación de las mujeres en igualdad de oportunidades con respecto a los hombres;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 84 BIS.- Los comités de vecinos, podrán solicitar a la autoridad municipal competente, la instalación de casetas de acceso y vigilancia o mecanismos automatizados de restricción de tránsito, bajo las siguientes bases:
+VII.- Informar a las personas habitantes y vecinas sobre los procedimientos de participación política y ciudadana existente;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Promover la participación política y social de mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Difundir las actividades sociales, recreativas y culturales realizadas por el Ayuntamiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+X.- Las demás que le señalen las leyes y sus reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+###### ARTICULO 84 Bis.
+
+Los comités de vecinas y vecinos, podrán solicitar a la autoridad municipal competente, la instalación de casetas de acceso y vigilancia, o mecanismos automatizados de restricción de tránsito, bajo las siguientes bases:
 
 > <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2009)</small>
 
@@ -2063,7 +2633,9 @@ II.- La solicitud deberá hacerse a la Dirección de Desarrollo Urbano, con los 
 
 a) Identificar el perímetro que quedará acordonado, adjuntando el plano respectivo.
 
-b) Adjuntar directorio de todos los vecinos que residan en la zona incluida dentro del perímetro, bastando señalar al propietario o poseedor de la casa habitación, su domicilio y teléfono.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+b) Adjuntar directorio de todos las y los vecinos que residan en la zona incluida dentro del perímetro, bastando señalar al propietario o poseedor de la casa habitación, su domicilio y teléfono.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
 
@@ -2081,9 +2653,9 @@ III.- La Dirección de Desarrollo Urbano, deberá recabar certificación y dicta
 
 IV.- Sin que exista impedimento vial para la instalación de los accesos restringidos, la Dirección de Desarrollo Urbano deberá de conceder la autorización respectiva, en un plazo que no exceda de treinta días a partir de que fue recibida la solicitud debidamente requisitada, transcurrido el cual, sin que se expida, se aplicará la afirmativa ficta de la autoridad municipal.
 
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-V.- La autoridad municipal, deberá firmar convenio de colaboración con los comités de vecinos en que se instalen casetas de acceso restringido, para dar mantenimiento de los parques y jardines que se encuentren dentro del perímetro resguardado, compartiendo el costo, sin que en ningún caso los vecinos absorban más del 50% del mismo.
+V.- La autoridad municipal, deberá firmar convenio de colaboración con los comités de vecinas y vecinos en que se instalen casetas de acceso restringido, para dar mantenimiento de los parques y jardines que se encuentren dentro del perímetro resguardado, compartiendo el costo, sin que en ningún caso las y los vecinos absorban más del 50% del mismo.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JULIO DE 2010)</small>
 
@@ -2105,47 +2677,57 @@ En caso de que la oposición no resulte justificada, se verificarán los demás 
 
 Cada Municipio podrá contar con un Consejo de Planeación Urbana Municipal, que se integrará con representantes de los sectores público, social y privado de la comunidad y servirá de auxiliar al Municipio en la planeación urbana. En los Municipios de más de setenta y cinco mil habitantes será obligatoria la existencia de este Consejo.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 86.
 
-La directiva del Consejo se integrará por un Presidente que será nombrado por el propio Consejo de entre los representantes de los sectores social o privado de la comunidad, durará en el cargo cinco años, pudiendo ser reelecto; deberá ser experto en la materia, tendrá las atribuciones que este ordenamiento y demás le concedan, y un Secretario Técnico que será nombrado por el Presidente Municipal.
+La directiva del Consejo se integrará por una persona titular de la Presidencia que será nombrado por el propio Consejo de entre los representantes de los sectores social o privado de la comunidad, durará en el cargo cinco años, pudiendo ser reelecta; deberá ser experta en la materia, tendrá las atribuciones· que este ordenamiento y demás le concedan, y una persona titular de la Secretaría Técnica quien será nombrada por la persona titular de la Presidencia Municipal.
 
-El Presidente tendrá voto de calidad; el Secretario será el encargado de citar a las sesiones, levantar y autorizar, en unión del Presidente, en el libro destinado para el efecto, las actas de aquéllas y hacerse cargo de la correspondencia y el archivo.
+La persona titular de la Presidencia tendrá voto de calidad; la persona titular de la Secretaría será la encargada de citar a las sesiones, levantar y autorizar, en unión de la persona titular de la Presidencia, en el libro destinado para el efecto, las actas de aquéllas y hacerse cargo de la correspondencia y el archivo.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 87.
 
-El Presidente Municipal convocará a los grupos organizados de la comunidad para que integren el Consejo de Planeación Urbana Municipal, pudiendo estar integrado, si los hubiere en el Municipio, por:
+La persona titular de la Presidencia Municipal convocará a los grupos organizados de la comunidad para que integren el Consejo de Planeación Urbana Municipal, pudiendo estar integrado, si los hubiere en el Municipio, por:
 
-a).- Un representante del Gobierno del Estado;
+a) La o el representante del Gobierno del Estado;
 
-b).- Un representante del Gobierno Federal;
+b) La o el representante del Gobierno Federal;
 
-c).- Dos representantes de la Administración Municipal;
+c) Dos representaciones de la Administración Municipal;
 
-d).- Dos Regidores;
+d) Dos Regidurías;
 
-e).- Un representante de la Cámara Nacional de la Industria de la Transformación;
+e) La o el representante de la Cámara Nacional de la Industria de la Transformación;
 
-f).- Un representante del Centro Empresarial de Chihuahua;
+f) La o el representante del Centro Empresarial de Chihuahua;
 
-g).- Un representante de la Cámara Nacional de Comercio;
+g) La o el representante de la Cámara Nacional de Comercio;
 
-h).- Un representante de la Cámara Nacional de la Industria de la Construcción;
+h) La o el representante de la Cámara Nacional de la Industria de la Construcción;
 
-i).- Un representante de la Cámara de Propietarios de Bienes Raíces; y
+i) La o el representante de la Cámara de Propietarios de Bienes Raíces; y
 
-j).- Los demás que el propio Consejo determine.
+j) Quienes el propio Consejo determine.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 88.
 
-El Consejo podrá citar a cuantas personas, autoridades, instituciones o agrupaciones crea conveniente para que ilustren a sus miembros, en los puntos que juzgue necesario, las que únicamente tendrán voz en las sesiones a las que concurran.
+El Consejo podrá citar a cuantas personas, autoridades, instituciones o agrupaciones crea conveniente para que ilustren a sus integrantes, en los puntos que juzgue necesario, las que únicamente tendrán voz en las sesiones a las que concurran.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 89.
 
-Las sesiones del Consejo se verificarán en el lugar que designe su Presidente en las fechas que éste determine o a solicitud de la mayoría de sus miembros, cuando menos una vez al mes.
+Las sesiones del Consejo se verificarán en el lugar que designe la persona titular de su presidencia en las fechas que éste determine o a solicitud de la mayoría de sus integrantes, cuando menos una vez al mes.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 90.
 
-El Consejo funcionará en Pleno y con la asistencia de más de la mitad de sus miembros. Los acuerdos se tomarán por mayoría de votos de los presentes y tendrán carácter meramente consultivo no vinculante para el Municipio, pero la autoridad municipal de que se trate deberá razonar la negativa a las proposiciones que el Consejo formule.
+El Consejo funcionará en Pleno y con la asistencia de más de la mitad de sus integrantes. Los acuerdos se tomarán por mayoría de votos de los presentes y tendrán carácter meramente consultivo no vinculante para el Municipio, pero la autoridad municipal de que se trate deberá razonar la negativa a las proposiciones que el Consejo formule.
 
 ###### ARTICULO 91.
 
@@ -2179,55 +2761,57 @@ XII.- Realizar las demás atribuciones que le fijen las leyes y sus reglamentos.
 
 ### CAPITULO UNICO. DE LA DECLARACION PATRIMONIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 92.
 
-Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos del Municipio:
+Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, las y los siguientes servidores públicos del municipio:
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-I. El Presidente Municipal;
+I. La persona titular de la Presidencia Municipal;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II. El Síndico;
+II. La persona titular de la Sindicatura;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-III. Los Regidores;
+III. Las personas titulares de las Regidurías;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV. El Secretario;
+IV. La persona titular de la Secretaría;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-V. El Oficial Mayor;
+V. La persona titular de la Oficialía Mayor;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI. El Tesorero Municipal;
+VI. La persona titular de la Tesorería Municipal;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VII. Los Directores, Jefes de Departamento y de Oficina o puestos equivalentes; y
+VII. Las personas titulares de las Direcciones, Jefaturas de Departamento y de Oficina o puestos equivalentes;
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2012)</small>
 
 VIII. Aquellos que en el municipio o entidades descentralizadas manejen, recauden, vigilen o administren fondos y/o recursos, ya sea por función o comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 93.
 
-Los servidores públicos municipales están obligados a presentar su declaración patrimonial ante el Presidente Municipal, de lo que se dará cuenta en sesión de cabildo; y serán remitidas al órgano que para tal efecto designe el Ayuntamiento.
+Las y los servidores públicos municipales están obligados a presentar su declaración patrimonial ante la persona titular de la Presidencia Municipal, de lo que se dará cuenta en sesión de cabildo; y serán remitidas al órgano que para tal efecto designe el Ayuntamiento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE ABRIL DE 1999)</small>
+Tratándose de la declaración de las personas titulares de la Presidencia Municipal, Regiduría y Sindicatura, serán presentadas ante el Congreso del Estado para el efecto de su registro y control, de conformidad con las disposiciones aplicables.
 
-Tratándose de la declaración del Presidente Municipal, Regidores y Síndico, ésta será presentada ante el Congreso del Estado para el efecto de su registro y control, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 94.
 
-Las declaraciones de los servidores públicos municipales, deberán hacerse en los siguientes plazos:
+Las declaraciones de las y los servidores públicos municipales, deberán hacerse en los siguientes plazos:
 
 I.- La inicial, dentro de los sesenta días naturales siguientes a la toma de posesión;
 
@@ -2235,17 +2819,19 @@ II.- La anual, durante el mes de septiembre de cada año;
 
 III.- La final, dentro de los sesenta días naturales, siguientes a la conclusión de la función o encargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 95.
 
-En caso de no presentarse la declaración inicial o anual en los plazos fijados, el Presidente Municipal amonestará por escrito y requerirá al omiso, para que la presente dentro de un plazo de treinta días naturales, apercibido que de no hacerlo, se le impondrá una multa hasta por el cincuenta por ciento de sus percepciones, correspondientes a treinta días. La falta de requerimiento no exime del cumplimiento de su obligación.
+En caso de no presentarse la declaración inicial o anual en los plazos fijados, la persona titular de la Presidencia Municipal amonestará por escrito y requerirá al omiso, para que la presente dentro de un plazo de treinta días naturales, apercibido que de no hacerlo, se le impondrá una multa hasta por el cincuenta por ciento de sus percepciones, correspondientes a treinta días. La falta de requerimiento no exime del cumplimiento de su obligación.
 
 En caso de persistir la omisión, se le hará efectiva la multa y se le conminará para que de cumplimiento a lo requerido en un plazo de treinta días naturales, apercibido que de no hacerlo, causará baja.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 96.
 
-Si no se presenta la declaración final, se impondrá al omiso una sanción pecuniaria, hasta por cien Unidades de Medida y Actualización y se dará vista al Ministerio Público, para que practique las investigaciones necesarias en cuanto a la situación patrimonial del omiso y proceda conforme a derecho.
+Si no se presenta la declaración final, se impondrá a la persona omisa una sanción pecuniaria, hasta por cien veces la unidad de medida y actualización a que corresponda el Municipio de que se trate y se dará vista al Ministerio Público, para que practique las investigaciones necesarias en cuanto a la situación patrimonial de la persona omisa y proceda conforme a derecho.
 
 ###### ARTICULO 97.
 
@@ -2259,41 +2845,39 @@ Son aplicables supletoriamente al presente titulo, las disposiciones de la Ley d
 
 ### CAPITULO I. FALTAS Y LICENCIAS DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 99.
 
-Las faltas de los servidores públicos municipales podrán ser temporales o definitivas, siendo las primeras aquéllas que no excedan de seis meses, salvo en los casos debidamente justificados.
+Las faltas de las y los servidores públicos municipales podrán ser temporales o definitivas, siendo las primeras aquéllas que no excedan de seis meses, salvo en los casos debidamente justificados.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 100.
 
-En ejercicio de sus funciones, el Presidente Municipal no podrá ausentarse del territorio del municipio por más de quince días.
+En ejercicio de sus funciones, la persona titular de la Presidencia Municipal no podrá ausentarse del territorio del municipio por más de quince días.
 
-Cuando deba ausentarse por un término de quince días o menos, bastará con que dé aviso de su salida al Ayuntamiento, con el objeto de que este último designe de entre sus regidores al que deba encargarse del despacho de los asuntos de la Presidencia, hasta el regreso del Presidente Municipal.
+Cuando deba ausentarse por un término de quince días o menos, bastará con que dé aviso de su salida al Ayuntamiento, con el objeto de que este último designe de entre sus regidurías al que deba encargarse del despacho de los asuntos de la Presidencia, hasta el regreso de la persona titular de la Presidencia Municipal.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+Cuando la persona titular de la Presidencia Municipal salga del territorio de su municipio por cinco días o menos tiempo o en días inhábiles para la administración, no es necesario dar aviso al Ayuntamiento, pues en tales casos bastará con que dé aviso a la persona titular de la Secretaría del mismo, para que ésta se encargue del despacho de los asuntos de la Presidencia, sujetándose a las atribuciones que le otorga la propia ley y sin invadir las facultades que le corresponden a la persona titular de la Presidencia Municipal.
 
-Cuando el Presidente Municipal salga del territorio de su municipio, por cinco días o menos tiempo o en días inhábiles para la administración, no es necesario dar aviso al Ayuntamiento, pues en tales casos bastará con que dé aviso al Secretario del mismo, para que éste se encargue del despacho de los asuntos de la Presidencia, sujetándose a las atribuciones que le otorga la propia ley y sin invadir las facultades que le corresponden al Presidente Municipal.
+Si la persona titular de la Presidencia Municipal requiere ausentarse por más de quince días, deberá solicitar licencia en los términos del artículo siguiente.
 
-Si el Presidente Municipal requiere ausentarse por más de quince días deberá solicitar licencia en los términos del artículo siguiente.
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 101.
 
-El Presidente Municipal, los regidores y el síndico no podrán separarse del ejercicio de sus funciones sin licencia del Ayuntamiento. El resto de los servidores públicos municipales tampoco podrán hacerlo sin licencia del Presidente Municipal.
+Las personas titulares de la (sic) Presidencias Municipales, Regidurías y sindicaturas no podrán separarse del ejercicio de sus funciones sin licencia del Ayuntamiento. El resto de las y los servidores públicos municipales tampoco podrán hacerlo sin licencia de la persona titular de la Presidencia Municipal.
 
-En caso de falta temporal o definitiva del Presidente Municipal se llamará al suplente, quien estará obligado a desempeñar el cargo o a justificar su negativa ante el Ayuntamiento; aceptada la justificación, el propio Ayuntamiento designará de entre sus miembros al que deba desempeñarlo.
+En caso de falta temporal o definitiva de la persona titular de la Presidencia Municipal se llamará a la persona suplente, quien estará obligada a desempeñar el cargo o a justificar su negativa ante el Ayuntamiento; aceptada la justificación, el propio Ayuntamiento designará de entre sus integrantes al que deba desempeñarlo.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+En la hipótesis prevista en el caso anterior, en tanto se rinda protesta de ley, la persona titular de la Secretaría del Ayuntamiento quedará encargada del despacho de los asuntos de la Presidencia, siempre que entre la falta y la protesta no transcurran más de cinco días. Si la rendición de protesta se prolongara por más de cinco días, contados a partir de la fecha en que la persona titular de la Presidencia Municipal se hubiera separado de su encargo, o cuando la falta sea definitiva, el despacho de los asuntos quedará a cargo de la persona titular de la Regiduría de Gobernación, hasta el momento en que rinda protesta la persona suplente, o la regiduría que sea designada para desempeñar el cargo.
 
-En la hipótesis prevista en el caso anterior, en tanto se rinda protesta de ley, el Secretario del Ayuntamiento quedará encargado del despacho de los asuntos de la Presidencia, siempre que entre la falta y la protesta no transcurran más de cinco días. Si la rendición de protesta se prolongara por más de cinco días, contados a partir de la fecha en que el Presidente Municipal se hubiera separado de su encargo, o cuando la falta sea definitiva, el despacho de los asuntos quedará a cargo del Regidor de Gobernación, hasta el momento en que rinda protesta el suplente o el regidor que sea designado para desempeñar el cargo.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 102.
 
-Para cubrir las faltas temporales o definitivas de los Regidores se llamará a los suplentes respectivos.
+Para cubrir las faltas temporales o definitivas de las personas titulares de las Regidurías se llamará a las suplencias respectivas.
 
 # LIBRO SEGUNDO. DEL PATRIMONIO Y LA HACIENDA MUNICIPALES
 
@@ -2407,19 +2991,21 @@ c) La naturaleza del régimen a que se encuentra afecto y su ubicación dentro d
 
 d) La justificación para incorporarlo, desincorporarlo o cambiar su destino.
 
-II.- Así mismo, el Síndico Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
+II.- Asimismo, la persona titular de la Sindicatura Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
 
-Los bienes inmuebles donados al municipio, previstos en los artículos 165 y 166 de la ley de Desarrollo Urbano del Estado, además de cumplir con los requisitos antes señalados, será necesario la anuencia de las dos terceras partes de los propietarios de las casas o terrenos que conformen el fraccionamiento, a excepción de los constructores o fraccionadores.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Los bienes inmuebles donados al municipio, previstos en los artículos 104 y 105 de la Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua, además de cumplir con los requisitos antes señalados, será necesario la anuencia de las dos terceras partes de las personas o instancias propietarias de las casas o terrenos que conformen el fraccionamiento, a excepción de los constructores o fraccionadores
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2006)</small>
 
 No será necesaria la anuencia señalada en el párrafo anterior, cuando la enajenación sea destinada única y exclusivamente a servicios básicos como escuelas, mercados, dispensarios, templos, parques, jardines y demás áreas públicas.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Los bienes municipales a que hacen referencia la Ley del Patrimonio Cultural y la Ley Ecológica, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
+Los bienes municipales a que hacen referencia la Ley de Desarrollo Cultural para el Estado de Chihuahua, y la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2013)</small>
 
@@ -2447,15 +3033,15 @@ c) Para ordenar asentamientos humanos irregulares. Cuando la solicitud de regula
 
 Para el caso de establecimientos de centros industriales, agropecuarios, educativos y de interés social, previa justificación y aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán enajenarse superficies mayores a las que determina el artículo 113.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 112.
 
-Para la venta de bienes muebles del dominio privado municipal se requerirá el acuerdo del Ayuntamiento cuando su valor sea superior a doscientas cincuenta Unidades de Medida y Actualización; cuando su importe sea menor, bastará el acuerdo por escrito del Presidente Municipal.
+Para la venta de bienes muebles del dominio privado municipal se requerirá el acuerdo del Ayuntamiento cuando su valor sea superior a doscientos cincuenta veces la unidad de medida y actualización; cuando su importe sea menor, bastará el acuerdo por escrito de la persona titular de la Presidencia Municipal.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Queda prohibido enajenar bienes muebles e inmuebles de dominio público y privado, durante los últimos seis meses de la Administración, salvo que los bienes muebles tengan un año de haberse inutilizado o bien se encuentren inservibles, para lo cual el Secretario deberá certificar el estado que guardan los bienes a enajenarse.
+Queda prohibido enajenar bienes muebles e inmuebles de dominio público y privado, durante los últimos seis meses de la Administración, salvo que los bienes muebles tengan un año de haberse inutilizado o bien se encuentren inservibles, para lo cual la persona titular de la Secretaría del Ayuntamiento deberá certificar el estado que guardan los bienes a enajenarse.
 
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
@@ -2521,15 +3107,23 @@ Hecho el registro del denuncio, se ordenará la publicación de avisos, por dos 
 
 Transcurrido el término de treinta días naturales contados a partir de la fecha de la última publicación, sin haberse presentado oposición, se procederá en la forma siguiente:
 
-I.- La persona comisionada por la Dirección de Obras Públicas, o dependencia competente, auxiliada del perito que para el efecto nombrará el Presidente practicará, con citación de los colindantes, la mensura del terreno de que se trate;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I.- La persona comisionada por la Dirección de Obras Públicas, o dependencia competente, auxiliada del perito que para el efecto nombrará la persona titular de la Presidencia practicará, con citación de los colindantes, la mensura del terreno de que se trate;
 
 II.- Se prevendrá al perito para que dentro del término de ocho días naturales, contados desde la fecha de la mensura, exhiba los planos correspondientes y rinda un informe que contenga minuciosa relación de las operaciones practicadas, así como un acta, en que conste la conformidad de los colindantes o los incidentes que se hayan suscitado con motivo de los trabajos;
 
-III.- Una vez recibida la documentación o los planos de referencia y depositada en la Tesorería Municipal la cantidad que como importe del terreno se encuentre fijada en la tarifa o exhibido el convenio de pago correspondiente, se remitirá a la dependencia municipal encargada para que en un término de treinta días naturales presente al Presidente Municipal su estudio y en su caso, su aprobación técnica;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV.- Tan luego como el Presidente Municipal reciba el expediente aprobado, lo remitirá al Ayuntamiento para su autorización; y
+III.- Una vez recibida la documentación o los planos de referencia y depositada en la Tesorería Municipal la cantidad que como importe del terreno se encuentre fijada en la tarifa o exhibido el convenio de pago correspondiente, se remitirá a la dependencia municipal encargada para que en un término de treinta días naturales presente a la persona titular de la Presidencia Municipal su estudio y en su caso, su aprobación técnica;
 
-V.- Una vez autorizado el denuncio, el Presidente Municipal expedirá el título de propiedad, en el que se deberá fijar al adquirente un plazo improrrogable de dos años para que habite el predio denunciado, haciéndosele saber que en caso de incumplimiento, la propiedad volverá al patrimonio del Municipio.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Tan luego como la persona titular de la Presidencia Municipal reciba el expediente aprobado, lo remitirá al Ayuntamiento para su autorización;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+V.- Una vez autorizado el denuncio, la persona titular de la Presidencia Municipal expedirá el título de propiedad, en el que se deberá fijar a la persona o instancia adquirente un plazo improrrogable de dos años para que habite el predio denunciado, haciéndosele saber que en caso de incumplimiento, la propiedad volverá al patrimonio del municipio.
 
 El título se inscribirá en el Registro Público de la Propiedad por el Municipio, a costa del interesado y se harán constar expresamente en la inscripción las obligaciones a que se refiere la fracción V de este artículo y las demás previstas en las leyes y reglamentos.
 
@@ -2537,21 +3131,33 @@ El título se inscribirá en el Registro Público de la Propiedad por el Municip
 
 De presentarse oposición, haciendo valer la preferencia, la que podrá intentarse por escrito dentro de los treinta días siguientes a la última publicación, se suspenderá de oficio el trámite del denuncio y la oposición se sujetará al procedimiento previsto en el artículo 195.
 
-Si la oposición se funda en el derecho de propiedad o posesión de tercero sobre el predio denunciado, se suspenderá el procedimiento y el Presidente Municipal prevendrá al opositor personalmente para que se presente en el término de quince días, ante la autoridad judicial a ejercer la acción que corresponda. Si dentro del plazo concedido no ocurriere el opositor ante la autoridad judicial, se le tendrá por perdida la acción y continuará la tramitación del denuncio, a no ser que al escrito de oposición se haya acompañado título legalmente expedido y registrado del inmueble, pues en este caso se cancelará el procedimiento administrativo de enajenación.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Si la oposición se funda en el derecho de propiedad o posesión de tercero sobre el predio denunciado, se suspenderá el procedimiento y la persona titular de la Presidencia Municipal prevendrá al opositor personalmente para que se presente en el término de quince días, ante la autoridad judicial a ejercer la acción que corresponda. Si dentro del plazo concedido no ocurriere el opositor ante la autoridad judicial, se le tendrá por perdida la acción y continuará la tramitación del denuncio, a no ser que al escrito de oposición se haya acompañado título legalmente expedido y registrado del inmueble, pues en este caso se cancelará el procedimiento administrativo de enajenación.
 
 ###### ARTICULO 120.
 
 Tendrán preferencia para la adquisición de terrenos municipales:
 
-I.- Los mexicanos respecto a los extranjeros;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II.- Los poseedores de buena fe;
+I.- Las y los mexicanos respecto a los extranjeros;
 
-III.- Los colindantes, respecto de la porción de terreno que se encuentre al frente de los predios de su propiedad y exclusivamente en la longitud de dicho frente que intercepte su acceso a la vía pública;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV.- Los colindantes de una vía pública, que haya de enajenarse de acuerdo con la ley, en las porciones que les correspondan; y
+II.- Las y los poseedores de buena fe;
 
-V.- El denunciante que se haya presentado en primer lugar.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III.- Las y los colindantes, respecto de la porción de terreno que se encuentre al frente de los predios de su propiedad y exclusivamente en la longitud de dicho frente que intercepte su acceso a la vía pública;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Las y los colindantes de una vía pública, que haya de enajenarse de acuerdo con la ley, en las porciones que les correspondan;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+V.- El o la denunciante que se haya presentado en primer lugar.
 
 ## TITULO SEGUNDO. DE LA HACIENDA MUNICIPAL
 
@@ -2579,9 +3185,11 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 Ningún ingreso podrá recaudarse por los Municipios si no se encuentra previsto en la Ley de Ingresos o en alguna disposición especial aprobada por el Congreso, salvo los provenientes de aquellos créditos cuya retención o cobro le sean encomendados por el Estado o la Federación.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 123.
 
-La recaudación y administración de los ingresos municipales queda a cargo del Presidente Municipal por conducto de la Tesorería.
+La recaudación y administración de los ingresos municipales queda a cargo de la persona titular de la Presidencia Municipal por conducto de la Tesorería.
 
 ###### ARTICULO 124.
 
@@ -2733,9 +3341,11 @@ Cuando los espectáculos se efectúen en lugares que tengan número determinado 
 
 La violación a esta disposición se sancionará con una multa correspondiente a dos tantos del importe de los boletos vendidos en exceso, independientemente, de la responsabilidad en el caso que se causen daños con motivo de ese sobrecupo.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 138.
 
-El Presidente Municipal podrá ordenar la suspensión del espectáculo, cuando quienes lo exploten, sus encargados o empleados, impidan la entrada a los interventores fiscales a los locales en que se celebre el espectáculo o que en cualquier otra forma obstaculicen a éstos el cumplimiento de su cometido.
+La persona titular de la Presidencia Municipal podrá ordenar la suspensión del espectáculo, cuando quienes lo exploten, sus encargados o empleados, impidan la entrada a los interventores fiscales a los locales en que se celebre el espectáculo o que en cualquier otra forma obstaculicen a éstos el cumplimiento de su cometido.
 
 ### CAPITULO II. DEL IMPUESTO SOBRE JUEGOS, RIFAS O LOTERIAS, PERMITIDOS POR LA LEY
 
@@ -2767,9 +3377,11 @@ IV.- Proporcionar los datos o documentos que se requieran para la determinación
 
 V.- Pagar el impuesto en la Tesorería Municipal a más tardar dentro de los cinco días siguientes de la fecha de su celebración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 143.
 
-El Presidente Municipal podrá impedir la celebración de juegos, rifas o loterías, en los siguientes casos:
+La persona titular de la Presidencia Municipal podrá impedir la celebración de juegos, rifas o loterías, en los siguientes casos:
 
 I.- Cuando se carezca del permiso respectivo;
 
@@ -2849,7 +3461,9 @@ f).- Los fedatarios y registradores, que no se cercioren del cumplimiento del pa
 
 Los sujetos del impuesto, están obligados a manifestar a la Tesorería Municipal, su domicilio para oír notificaciones, aún las de carácter personal, en el Municipio donde se encuentre ubicado el inmueble.
 
-En caso de cambio de domicilio, lo manifestarán dentro de los treinta días siguientes a aquel en que ocurra.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+En caso de cambio de domicilio, lo manifestarán dentro de los treinta días hábiles siguientes a aquel en que ocurra.
 
 Si no lo hicieren, se tendrá como domicilio para los efectos de este impuesto, el que hubieren señalado anteriormente o en su defecto, el predio mismo.
 
@@ -2873,7 +3487,7 @@ I.-Predios urbanos.
 
 LIMITES DE RANGO DE LA BASE DEL IMPUESTO (Valor catastral en moneda nacional).TASA DE RANGO (Aplicable sobre la porción del valor de la base que exceda del límite inferior del rango de que se trate). CUOTA FIJA EN MONEDA NACIONAL (Suma fija a pagar).
 
-0 2 al millar 0
+0 2 al millar o
 
 183,240 3 al millar 366.48
 
@@ -3119,27 +3733,21 @@ Los plazos que establecen los artículos anteriores, se interrumpirán únicamen
 
 ### CAPITULO IV BIS. TASA ADICIONAL PARA LOS IMPUESTOS PREDIAL Y SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2002)</small>
-
-ARTICULO 165 BIS.- Los Contribuyentes de los impuestos Predial y Sobre traslación de Dominio de Bienes Inmuebles, establecidos respectivamente en los Capítulos III y IV de este Título, pagarán una tasa adicional del 4% aplicable al monto que deberán enterar por dichos impuestos.
-
-La tasa adicional se pagará en la misma forma y términos en que deban pagarse los impuestos mencionados y su rendimiento se destinará al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
-
-Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas y Administración del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
-
-En caso de que cualquiera de los días antes indicados sea inhábil, la concentración o la transferencia se efectuará el día hábil inmediato siguiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 165 Bis.
 
-Los Contribuyentes de los impuestos Predial y Sobre traslación de Dominio de Bienes Inmuebles, establecidos respectivamente en los Capítulos III y IV de este Título, pagarán una tasa adicional del 4% aplicable al monto que deberán enterar por dichos impuestos.
+Las personas o instancias contribuyentes de los impuestos Predial y Sobre traslación de Dominio de Bienes Inmuebles, establecidos respectivamente en los Capítulos III y IV de este Título, pagarán una tasa adicional del 4% aplicable al monto que deberán enterar por dichos impuestos.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2002)</small>
 
 La tasa adicional se pagará en la misma forma y términos en que deban pagarse los impuestos mencionados y su rendimiento se destinará al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas y Administración del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2002)</small>
 
 En caso de que cualquiera de los días antes indicados sea inhábil, la concentración o la transferencia se efectuará el día hábil inmediato siguiente.
 
@@ -3149,13 +3757,21 @@ En caso de que cualquiera de los días antes indicados sea inhábil, la concentr
 
 La contribución especial sobre pavimentación, repavimentación, reciclado, riego de sello y obras complementarias, se pagará de conformidad con lo que establezcan las leyes que autoricen la derrama del costo de las obras ejecutadas; supletoriamente con las disposiciones de este Código y las siguientes:
 
-I.- Los propietarios de fincas o lotes pagarán el valor del pavimento en el área comprendida entre las guarniciones de la banqueta y el eje central de la calle, en la extensión del frente de la finca o lote;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II.- Cuando el inmueble esté situado en esquina, el propietario pagará además de la superficie que señala el inciso anterior, el área de pavimentación hasta el punto de intersección de los ejes de las calles adyacentes;
+I. Las personas o instancias propietarias de fincas o lotes pagarán el valor del pavimento en el área comprendida entre las guarniciones de la banqueta y el eje central de la calle, en la extensión del frente de la finca o lote;
 
-III.- Cuando en la vía que se pretende pavimentar, existan líneas de ferrocarril o de tranvías, las empresas propietarias tendrán la obligación de cubrir el valor del pavimento comprendido entre los dos rieles y, además, en una faja externa de dos metros a cada lado y a lo largo de los dos rieles; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IV.- El pago del valor del pavimento que corresponda a los propietarios de fincas, será cubierto en los plazos y condiciones que fijará el Congreso del Estado.
+II. Cuando el inmueble esté situado en esquina, la persona o instancia propietaria pagará además de la superficie que señala el inciso anterior, el área de pavimentación hasta el punto de intersección de los ejes de las calles adyacentes;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III. Cuando en la vía que se pretende pavimentar, existan líneas de ferrocarril o de tranvías, las empresas propietarias tendrán la obligación de cubrir el valor del pavimento comprendido entre los dos rieles y, además, en una faja externa de dos metros a cada lado y a lo largo de los dos rieles;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV. El pago del valor del pavimento que corresponda a las personas o instancias propietarias de fincas, será cubierto en los plazos y condiciones que fijará el Congreso del Estado.
 
 ###### ARTICULO 167.
 
@@ -3243,7 +3859,9 @@ DERECHO POR SERVICIO DE ALUMBRADO PUBLICO
 
 Es objeto de este derecho, el servicio de alumbrado público que el municipio presta en bienes de uso común, de los señalados en el artículo 105, fracción III, de este Código.
 
-Son sujetos de este derecho, los propietarios o poseedores de predios, ya sean urbanos, semiurbanos o rústicos, ubicados en el área territorial del municipio.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Son sujetos de este derecho, las personas o instancias propietarias o poseedoras de predios, ya sean urbanos, semiurbanos o rústicos, ubicados en el área territorial del municipio.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -3251,9 +3869,13 @@ Son sujetos de este derecho, los propietarios o poseedores de predios, ya sean u
 
 El derecho de alumbrado público se liquidará bimestralmente o, en su caso, mensualmente.
 
-El pago se realizará, para los usuarios de la Comisión Federal de Electricidad en el recibo que ésta expida, simultáneamente con el pago del consumo de energía eléctrica, en el que se indicará la cuota correspondiente.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-Para los contribuyentes que no son usuarios de la Comisión Federal de Electricidad, el pago se efectuará en la Tesorería Municipal o en los organismos o empresas autorizados para tal efecto, debiendo expedir el recibo correspondiente.
+El pago se realizará, para las personas o instancias usuarias de la Comisión Federal de Electricidad en el recibo que ésta expida, simultáneamente con el pago del consumo de energía eléctrica, en el que se indicará la cuota correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Para las personas o instancias contribuyentes que no son usuarios de la Comisión Federal de Electricidad, el pago se efectuará en la Tesorería Municipal o en los organismos o empresas autorizados para tal efecto, debiendo expedir el recibo correspondiente.
 
 Anualmente, en la Ley de Ingresos de cada uno de los municipios, estos establecerán las cuotas y/o bases para el cálculo y determinación del derecho de alumbrado público.
 
@@ -3273,9 +3895,11 @@ Se exceptúa de lo anterior, a los particulares que depositen residuos sólidos 
 
 DERECHOS POR LOS SERVICIOS DE LIMPIEZA DE PREDIOS BALDÍOS O NO EDIFICADOS Y VIVIENDAS O EDIFICACIONES ABANDONADAS
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 177 BIS.- Los propietarios de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios, y reflejen mal aspecto y falta de conservación en relación con los inmuebles que colinden, están obligados a realizar la limpieza de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas y contribuir a la buena imagen del Municipio.
+###### ARTICULO 177 Bis.
+
+Las personas o instancias propietarias de predios baldíos o no edificados, de viviendas, construcciones o edificaciones abandonadas, que se ubiquen en las zonas urbanas o suburbanas de los municipios, y reflejen mal aspecto y falta de conservación en relación con los inmuebles que colinden, están obligados a realizar la limpieza de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas y contribuir a la buena imagen del Municipio.
 
 Es objeto de este derecho por limpieza de predios baldíos o no edificados, y de viviendas, construcciones o edificaciones abandonadas, los servicios de limpieza de los mismos, cuando menos en el exterior, por lo que el Municipio requerirá a los propietarios, a través de la notificación respectiva, el cumplimiento de la obligación a que se refiere el párrafo anterior.
 
@@ -3345,7 +3969,9 @@ Cuando presten los servicios empresas de participación municipal, los Municipio
 
 Las concesiones de servicios públicos municipales a particulares, se sujetarán a las disposiciones de este Código, sus reglamentos, a las contenidas en la concesión y a las que determine el Ayuntamiento.
 
-Los contratos administrativos que celebre el Presidente cuyo régimen jurídico no esté regulado expresamente, se sujetarán en lo conducente para su adjudicación, ejecución, terminación y efectos, a lo previsto para las concesiones.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Los contratos administrativos que celebre la persona titular de la Presidencia, cuyo régimen jurídico no esté regulado expresamente, se sujetarán en lo conducente para su adjudicación, ejecución, terminación y efectos, a lo previsto para las concesiones.
 
 ###### ARTICULO 183.
 
@@ -3359,23 +3985,35 @@ III.- Se determinarán el equipo y maquinaria que debe adquirir y las obras e in
 
 IV.- Los concesionarios están obligados a conservar en buenas condiciones los bienes afectos al servicio; a adquirir, renovar y modernizar la maquinaria y el equipo y adecuar las instalaciones destinadas a su debida prestación, conforme a las instrucciones que para el efecto gire el Ayuntamiento;
 
-V.- El concesionario está obligado, a otorgar garantía a favor del Municipio para asegurar el cumplimiento de las obligaciones que adquiera conforme a lo previsto en esta Ley, sus reglamentos y el acto concesión. La clase y monto de la garantía serán fijados por el Ayuntamiento, quien podrá ampliar su importe durante la vigencia de la concesión cuando a su juicio haya devenido insuficiente;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+V.- La persona o instancia concesionaria está obligada, a otorgar garantía a favor del Municipio para asegurar el cumplimiento de las obligaciones que adquiera conforme a lo previsto en esta Ley, sus reglamentos y el acto concesión. La clase y monto de la garantía serán fijados por el Ayuntamiento, quien podrá ampliar su importe durante la vigencia de la concesión cuando a su juicio haya devenido insuficiente;
 
 VI.- Se fijarán las tarifas que debe cobrar el concesionario a los usuarios por la prestación del servicio;
 
-VII.- El concesionario está obligado a prestar el servicio de manera uniforme, regular y continua a toda persona que lo solicite;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VIII.- El concesionario queda obligado a acatar las disposiciones del Ayuntamiento para adecuar la prestación del servicio a las necesidades colectivas que debe satisfacer y para solucionar las deficiencias en la actividad de aquél;
+VII.- La persona o instancia concesionaria está obligada a prestar el servicio de manera uniforme, regular y continúa a toda persona que lo solicite;
 
-IX.- El Ayuntamiento podrá autorizar al Presidente Municipal para ocupar temporalmente el servicio público e intervenir en su administración, cuando el concesionario no lo preste eficazmente, se niegue a seguir prestándolo o no mantenga los bienes afectos al servicio en buen estado;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- La persona o instancia concesionaria queda obligada a acatar las disposiciones del Ayuntamiento para adecuar la prestación del servicio a las necesidades colectivas que debe satisfacer y para solucionar las deficiencias en la actividad de aquél;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IX.- El Ayuntamiento podrá autorizar a la persona titular de la Presidencia Municipal para ocupar temporalmente el servicio público e intervenir en su administración, cuando el concesionario no lo preste eficazmente, se niegue a seguir prestándolo o no mantenga los bienes afectos al servicio en buen estado;
 
 X.- Se señalarán las causas de revocación y caducidad de la concesión y las condiciones para su prórroga;
 
 XI.- El Ayuntamiento tendrá la facultad irrenunciable de revocar la concesión;
 
-XII.- El Presidente Municipal tendrá la facultad para rescindir, rescatar, declarar la caducidad y anular administrativamente la concesión; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XIII.- Se exigirá que el concesionario:
+XII.- La persona titular de la Presidencia Municipal tendrá la facultad para rescindir, rescatar, declarar la caducidad y anular administrativamente la concesión;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+XIII.- Se exigirá que la persona o instancia concesionaria:
 
 a) Sea de nacionalidad mexicana y vecino del Estado;
 
@@ -3407,7 +4045,9 @@ La indemnización será igual al valor de los bienes muebles en la fecha de la t
 
 De la suma que se obtenga, se deducirán las cantidades que de los ingresos debieron de aplicarse contable y financieramente a la amortización y depreciación de los bienes durante los años que estuvieron afectos al servicio.
 
-Además se resarcirá al concesionario, por los perjuicios que le cause el acuerdo de terminación, calculándose el monto anual sobre el promedio que resulte de sus declaraciones fiscales, sobre utilidades obtenidas en los últimos tres años. En ningún caso, el importe de la indemnización por perjuicios excederá al diez por ciento del valor de los bienes. La cantidad menor que resulte en los dos procedimientos, se multiplicará por el número de años que faltaban para expirar la concesión, sin que la indemnización exceda de cinco años. El concesionario estará obligado a probar los perjuicios que reclame.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+Además se resarcirá a la persona o instancia concesionaria, por los perjuicios que le cause el acuerdo de terminación, calculándose el monto anual sobre el promedio que resulte de sus declaraciones fiscales, sobre utilidades obtenidas en los últimos tres años. En ningún caso, el importe de la indemnización por perjuicios excederá al diez por ciento del valor de los bienes. La cantidad menor que resulte en los dos procedimientos, se multiplicará por el número de años que faltaban para expirar la concesión, sin que la indemnización exceda de cinco años. La persona o instancia concesionaria estará obligada a probar los perjuicios que reclame.
 
 ###### ARTICULO 186.
 
@@ -3415,21 +4055,31 @@ Las concesiones caducan:
 
 I.- Cuando no se inicie la prestación del servicio, dentro del plazo señalado en la concesión;
 
-II.- Porque el concesionario no haya realizado las obras e instalaciones o no haya adquirido la maquinaria y equipo en el plazo y conforme a las especificaciones acordadas por el Ayuntamiento, para la prestación del servicio;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-III.- Porque el concesionario no preste el servicio de manera regular, continua, uniforme y adecuada a la necesidad colectiva que debe satisfacer;
+II.- Porque la persona o instancia concesionaria no haya realizado las obras e instalaciones o no haya adquirido la maquinaria y equipo en el plazo y conforme a las especificaciones acordadas por el Ayuntamiento, para la prestación del servicio;
 
-IV.- Porque el concesionario no otorgue o amplíe las garantías en los términos que le fueron fijadas;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+III.- Porque la persona o instancia concesionaria no preste el servicio de manera regular, continua, uniforme y adecuada a la necesidad colectiva que debe satisfacer;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Porque la persona o instancia concesionaria no otorgue o amplíe las garantías en los términos que le fueron fijadas;
 
 V.- Porque hipoteque, enajene o de cualquier manera se grave la concesión o algunos de los derechos en ella establecidos o los bienes afectos al servicio público de que se trate sin la previa autorización por escrito del Ayuntamiento y siempre que haya transcurrido cuando menos un año de su otorgamiento;
 
 VI.- Cuando se deje de prestar el servicio en todo o en parte, temporal o permanentemente sin causa justificada, a juicio del Ayuntamiento o sin previa autorización por escrito del mismo;
 
-VII.- Porque se modifiquen por el concesionario sin autorización del Ayuntamiento, las tarifas autorizadas;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Porque se modifiquen por la persona o instancia concesionaria sin autorización del Ayuntamiento, las tarifas autorizadas;
 
 VIII.- Porque se modifiquen o alteren substancialmente la naturaleza o condiciones en que opere el servicio, las instalaciones, equipo y maquinaria, sin la previa autorización por escrito del Ayuntamiento; y
 
-IX.- Cuando se constate, que el concesionario no conserva los bienes afectos al servicio en buen estado o cuando éstos sufran deterioro por su negligencia, con perjuicio para la prestación normal del servicio y para los intereses del Municipio.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Cuando se constate, que la persona o instancia concesionaria no conserva los bienes afectos al servicio en buen estado o cuando éstos sufran deterioro por su negligencia, con perjuicio para la prestación normal del servicio y para los intereses del Municipio.
 
 ###### ARTICULO 187.
 
@@ -3511,9 +4161,11 @@ A las notificaciones y términos a que alude este título se aplicarán en lo co
 
 ### CAPITULO II. MEDIOS DE IMPUGNACION DE LOS ACTOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 197.
 
-La administración municipal deberá sujetar su actuación a las facultades que le estén conferidas por la Ley, los reglamentos, los acuerdos dictados por el Ayuntamiento o por el Presidente Municipal. En consecuencia, por escrito, deberá expresar en sus determinaciones las razones o motivos que hubiere tenido para dictarlos, citando el o los preceptos legales en que se apoya.
+La administración municipal deberá sujetar su actuación a las facultades que le estén conferidas por la Ley, los reglamentos, los acuerdos dictados por el Ayuntamiento o la persona titular de la Presidencia Municipal. En consecuencia, por escrito, deberá expresar en sus determinaciones las razones o motivos que hubiere tenido para dictarlos, citando el o los preceptos legales en que se apoya.
 
 ###### ARTICULO 198.
 
@@ -3535,7 +4187,9 @@ Los actos de las autoridades municipales, se presumen legales; en consecuencia, 
 
 La interposición del recurso, no suspende la ejecución del acto, sin embargo la suspensión se decretará cuando concurran los siguientes requisitos:
 
-I.- Que lo solicite el agraviado;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I.- Que lo solicite la persona o instancia agraviada;
 
 II.- Que no se siga perjuicio al interés social; y
 
@@ -3551,21 +4205,31 @@ La suspensión, podrá ser solicitada en cualquier tiempo ante la autoridad ejec
 
 La tramitación de los recursos administrativos, en contra de actos de las autoridades municipales, se sujeta al procedimiento siguiente:
 
-I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieren desahogado por causas no imputables a él y las supervenientes;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+I.- Se interpondrá por sí o por representante legalmente investido ante la persona titular de la Secretaría Municipal, por escrito expresando: El nombre de la persona o instancia recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido la parte interesada tuvo oportunidad razonable de rendir ·pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieren desahogado por causas no imputables a él y las supervenientes;
 
 II.- El escrito deberá presentarse dentro de los quince días siguientes, al en que surta efectos la notificación del acto que se impugna. No será admisible la interposición de recursos por medio del correo;
 
 III.- Interpuesto el recurso, la autoridad recabará de oficio los informes y constancias necesarias para determinar la existencia del acto impugnado, las razones que lo justifiquen y la fecha de su notificación; en vista de lo anterior, acordará si es de admitirse o desecharse el recurso;
 
-IV.- El Secretario Municipal proveerá desde luego a la recepción de las pruebas ofrecidas, señalando para ello un término de quince días. Serán admisibles todos los medios de prueba admitidos por el derecho común con excepción de la confesional de las autoridades;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+IV.- La persona titular de la Secretaría Municipal proveerá desde luego a la recepción de las pruebas ofrecidas, señalando para ello un término de quince días. Serán admisibles todos los medios de prueba admitidos por el derecho común con excepción de la confesional de las autoridades;
 
 V.- Recibidas las pruebas y los informes o transcurrido el periodo probatorio, se abrirá un período de alegatos de tres días;
 
-VI.- Formulados los alegatos o transcurrido el término que para el efecto se concedió, el Secretario elaborará el dictamen que presentará dentro del término de cinco días al Presidente para su aprobación;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VII.- El proyecto de resolución sancionado por el Presidente Municipal se someterá junto con el expediente al Ayuntamiento en la primera sesión que celebre para que resuelva; y
+VI.- Formulados los alegatos o transcurrido el término que para el efecto se concedió, la persona titular de la Secretaría, elaborará el dictamen que presentará dentro del término de cinco días a la persona titular de la Presidencia para su aprobación;
 
-IX (SIC).- El acuerdo del Ayuntamiento será notificado personalmente en el domicilio señalado.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VII.- El proyecto de resolución sancionado por la persona titular de la Presidencia Municipal se someterá junto con el expediente al Ayuntamiento en la primera sesión que celebre para que resuelva;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- El acuerdo del Ayuntamiento será notificado personalmente en el domicilio señalado.
 
 ###### ARTICULO 204.
 
@@ -3579,11 +4243,11 @@ Las infracciones a las leyes, reglamentos y demás disposiciones de la autoridad
 
 I.- Amonestación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II.- Multa, hasta por cincuenta Unidades de Medida y Actualización; si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+II.- Multa, hasta por cincuenta veces el valor de la unidad de medida y actualización; si la o el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Si el infractor fuese jornalero u obrero, no podrá ser sancionado con multa mayor del importe de su salario de un día.
+Si la persona infractora fuese jornalero u obrero, no podrá ser sancionado con multa mayor del importe de su salario de un día;
 
 III.- Suspensión temporal o cancelación del permiso o licencia;
 
@@ -4859,7 +5523,7 @@ A partir de la entrada en vigor del presente Decreto, el diseño, ejecución, su
 
 P.O. 23 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLYC/0771/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL CÓDIGO MUNICIPAL Y DE LA LEY ELECTORAL, TODOS DEL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFLYC/0771/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL CÓDIGO MUNICIPAL Y DE LA LEY ELECTORAL, TODOS DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4887,7 +5551,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 22 DE AGOSTO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0847/2018 XV P.E., POR MEDIO DEL CUAL SE DEROGA DEL ARTÍCULO 63 LA FRACCIÓN IX DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFCOD/0847/2018 XV P.E., POR MEDIO DEL CUAL SE DEROGA DEL ARTÍCULO 63 LA FRACCIÓN IX DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
