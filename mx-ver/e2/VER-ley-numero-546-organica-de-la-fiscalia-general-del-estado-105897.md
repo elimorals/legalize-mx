@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-546-organica-de-la-fiscalia-general-del-estado-10589
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-29"
-last_updated: "2018-01-02"
+last_updated: "2018-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "VER"
 
 LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 2 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2015.
 
@@ -2035,85 +2033,85 @@ El Reglamento de esta Ley precisará su organización y funcionamiento.
 
 ### CAPÍTULO II. DE LA CONTRALORÍA GENERAL
 
-(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 108.
 
-La Fiscalía General contará con una Contraloría General, como órgano interno de control y estará a cargo de un Contralor General, quien será nombrado y removido por el Congreso del Estado, a quien le corresponde el ejercicio de las funciones que le otorga la Constitución Federal, la Constitución local, así como las leyes generales y estatales aplicables.
+La Fiscalía General contará con una Contraloría General como órgano interno de control y tendrá autonomía técnica, de gestión y presupuestal, dotada de los recursos suficientes y necesarios que deberán estar etiquetados dentro del presupuesto de la Fiscalía para el cumplimiento de sus funciones de prevención, detención, combate y sanción de la corrupción, la cual estará a cargo de un contralor general, que tendrá el nivel jerárquico como mínimo de director general o su equivalente, quien será nombrado y removido por el Congreso del Estado, a quien le corresponde el ejercicio de las funciones que le otorga la Constitución Federal, la Constitución local, así como las leyes generales y estatales aplicables.
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 I. El Titular de la Contraloría Interna, para su designación, debe reunir los requisitos siguientes:
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 a) Ser veracruzano y haber residido en la Entidad durante los dos años anteriores al día de la designación, o mexicano por nacimiento, con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano en pleno ejercicio de sus derechos;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 b) Tener, cuando menos, treinta y cinco años de edad cumplidos al día de la designación;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 c) Contar con título profesional legalmente expedido y cédula profesional en alguna de las áreas económicas, contables, jurídicas o administrativas y acreditar experiencia profesional de cuando menos cinco año (sic) en actividades afines y poseer, preferentemente, estudios de postgrado; y
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 d) Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE NOVIEMBRE DE 2018)</small>
 
-II. La Contraloría Interna tendrá las siguientes atribuciones:
+II. La Contraloría General tendrá las siguientes atribuciones:
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 a) Proponer la instrumentación de acciones de mejora en materia de control y evaluación;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 b) Difundir, entre los servidores públicos de la dependencia, las disposiciones en materia de control y de responsabilidades, que incidan en el desarrollo de sus labores;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 c) Realizar las acciones de control y evaluación a los ingresos, gastos, recursos y obligaciones de la Fiscalía General;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 d) Verificar el adecuado ejercicio del presupuesto, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 e) Participar en los procesos de entrega y recepción de las unidades administrativas, verificando su apego a la normatividad correspondiente;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 f) Recibir y turnar a la autoridad competente las quejas y denuncias que se interpongan en contra del personal operativo por el ejercicio de su cargo, así como recibir y tramitar las sugerencias y reconocimiento ciudadanos;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 g) Verificar la presentación oportuna de las declaraciones patrimonial y de intereses, así como la constancia de presentación de la declaración fiscal de los servidores públicos;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 h) Realizar las acciones de control y evaluación, a fin de constatar que se observen las disposiciones jurídicas aplicables en el ejercicio de los recursos federales;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 i) Vigilar que se cumpla con las disposiciones jurídicas aplicables en sus diferentes ámbitos, así como dar vista a la Visitaduría General cuando se trate del cumplimiento de funciones sustantivas;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 j) Dar vista a la autoridad competente de los hechos que tenga conocimiento que puedan ser constitutivos de delito;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 k) Mantener informado al Fiscal General sobre el cumplimiento de su ámbito competencial;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 l) Investigar, sustanciar y resolver los procedimientos de responsabilidad administrativa, salvo cuando sea competencia del sistema disciplinario previsto en esta Ley e imponer sanciones o solicitar su imposición a las autoridades competentes, de conformidad con lo que dispongan las leyes en materia de responsabilidades administrativas y, en su caso, ejecutar las sanciones administrativas de su competencia;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 m) Dar vista a la Fiscalía Anticorrupción en caso de conocer de actos de corrupción atribuibles a los servidores públicos, cometidos en beneficio propio o de tercero;
 
@@ -2121,37 +2119,55 @@ m) Dar vista a la Fiscalía Anticorrupción en caso de conocer de actos de corru
 
 n) Conocer de los asuntos en donde exista concurso de conductas del servidor público y algunas que sean competencia del Órgano Interno de Control y otras sean del sistema disciplinario de esta Ley, a efecto de no dividir la continencia de la causa y emitir una sola resolución con motivo de dicho concurso;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 ñ) Declinar competencia hacia la Visitaduría General en los casos en que resulte incompetente el Órgano Interno de Control, cuando exista conflicto de interés en su actuación o cuando se trate de servidores públicos de dicho Órgano;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 o) Conocer, tramitar y resolver los recursos administrativos que correspondan, de acuerdo con las disposiciones jurídicas aplicables;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 p) Vigilar que las actividades de las unidades administrativas cumplan con las políticas, normas, lineamientos, procedimientos y demás disposiciones jurídicas aplicables en el ámbito de su competencia;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 q) Verificar el adecuado ejercicio del presupuesto de la dependencia organismo auxiliar de su adscripción, atendiendo a los principios de racionalidad, austeridad, y disciplina presupuestaria que establece la normatividad aplicable;
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 r) Informar al Fiscal Anticorrupción sobre los resultados obtenidos en la materia, dentro del ámbito de su competencia; y
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 s) Las demás que le confieran otras disposiciones jurídicas aplicables.
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 Las responsabilidades administrativas en que incurran los servidores públicos del Órgano Interno de Control de la Fiscalía serán investigadas por la Visitaduría General y sustanciadas y sancionadas por el Fiscal General, por conducto de la unidad jurídica, siempre y cuando éstas no sean competencia del Tribunal Estatal de Justicia Administrativa.
 
-> <small>(F. DE E., G.O. 2 DE ENERO DE 2018)</small>
+(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017) (F. DE E., G.O. 2 DE ENERO DE 2018)
 
 Cuando la denuncia sea contra servidores de la Visitaduría General, la investigación estará a cargo del Órgano Interno de Control.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 108 Bis.
+
+Para su funcionamiento, la Contraloría General contará como mínimo con las siguientes áreas:
+
+I. Secretaría técnica
+
+II. Subdirección de normatividad, control interno y evaluación;
+
+III. Subdirección de fiscalización;
+
+IV. Subdirección anticorrupción, función pública, situación patrimonial y substanciación; y
+
+V. Subdirección de quejas y denuncias.
+
+Las subdirecciones estarán bajo la responsabilidad del titular de la Contraloría General y contarán con el personal que resulte necesario para el desarrollo de sus funciones; los servidores públicos de las mismas serán designados y removidos libremente por su titular, con base en los requerimientos del servicio y a los criterios que aquél determine dentro del margen de la unidad presupuestal anual solicitada y asignada. Asimismo, el reglamento respectivo establecerá las atribuciones que correspondan a cada subdirección.
 
 ### CAPÍTULO III. DE LAS RESPONSABILIDADES
 
@@ -2276,3 +2292,13 @@ Tercero. El Congreso del Estado realizará las acciones necesarias para proveer 
 Cuarto. La Fiscalía General, dentro del marco de sus atribuciones y en un plazo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones correspondientes a su Reglamento Interno.
 
 Quinto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 787 QUE REFORMA EL ARTÍCULO 108, PÁRRAFO PRIMERO Y FRACCIÓN II, Y QUE ADICIONA EL ARTÍCULO 108 BIS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Tercero. Dentro de los sesenta días naturales al inicio de vigencia del presente Decreto, la Fiscalía General del Estado, realizará las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
