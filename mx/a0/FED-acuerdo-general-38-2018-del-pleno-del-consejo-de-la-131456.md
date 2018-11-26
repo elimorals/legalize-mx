@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-38-2018-del-pleno-del-consejo-de-la-131456"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-11-09"
-last_updated: "2018-11-09"
+last_updated: "2018-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131456&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-10-30"
 ---
 # ACUERDO GENERAL 38/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL RELATIVO A LA CONCLUSION DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE JALISCO, CON RESIDENCIA EN PUENTE GRANDE; LA EXCLUSION DE TURNO DE NUEVOS ASUNTOS DEL CITADO ORGANO JURISDICCIONAL; Y SU TRANSFORMACION E INICIO DE FUNCIONES EN JUZGADO NOVENO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL MISMO ESTADO Y RESIDENCIA, SU COMPETENCIA, JURISDICCION TERRITORIAL Y DOMICILIO; ASI COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ULTIMA MATERIA Y ENTIDAD FEDERATIVA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA, Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE NOVIEMBRE DE 2018 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 38/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE JALISCO, CON RESIDENCIA EN PUENTE GRANDE; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DEL CITADO ÓRGANO JURISDICCIONAL; Y SU TRANSFORMACIÓN E INICIO DE FUNCIONES EN JUZGADO NOVENO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL MISMO ESTADO Y RESIDENCIA, SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ÚLTIMA MATERIA Y ENTIDAD FEDERATIVA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 26 DE NOVIEMBRE DE 2018.]</small>
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 9 de noviembre de 2018.
 
@@ -159,21 +159,27 @@ El Juzgado Noveno de Distrito de Amparo en Materia Penal en el Estado de Jalisco
 
 Todos los trámites relacionados con los asuntos de su competencia, deberán dirigirse y realizarse en el domicilio indicado.
 
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 12.
 
-La Oficina de Correspondencia Común de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande, prestará servicio al Juzgado Noveno de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande, a partir de la fecha que inicia funciones.
+La Oficina de Correspondencia Común de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Zapopan, prestará servicio al Juzgado Noveno de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande, a partir de la fecha que inicia funciones.
 
 ###### Artículo 13.
 
 Los nuevos asuntos que se presenten en la Oficina de Correspondencia Común, del doce al dieciséis de noviembre de dos mil dieciocho, en días y horas hábiles, se remitirán al Juzgado Noveno de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande, a través del sistema computarizado de recepción y distribución que se utiliza para esos efectos; con excepción de los asuntos relacionados en términos de lo previsto en el artículo 45, fracción II, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, los que serán turnados al Juzgado de Distrito que cuente con los antecedentes.
 
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Para el turno de asuntos en días y horas inhábiles los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande, atenderán los asuntos conforme al calendario señalado:
+Para el turno de asuntos en días y horas inhábiles los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco, atenderán los asuntos conforme al calendario señalado:
 
 TURNO Y PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL
 
 QUE CORRESPONDE LA GUARDIA
+
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
 
 DEL 12 AL 19 DE JUZGADO CUARTO DE DISTRITO DE
 
@@ -181,7 +187,9 @@ NOVIEMBRE DE 2018 AMPARO EN MATERIA PENAL EN EL
 
 ESTADO DE JALISCO, CON RESIDENCIA
 
-EN PUENTE GRANDE
+EN ZAPOPAN
+
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
 
 DEL 19 AL 26 DE JUZGADO QUINTO DE DISTRITO DE
 
@@ -189,7 +197,9 @@ NOVIEMBRE DE 2018 AMPARO EN MATERIA PENAL EN EL
 
 ESTADO DE JALISCO, CON RESIDENCIA
 
-EN PUENTE GRANDE
+EN ZAPOPAN
+
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
 
 DEL 26 DE NOVIEMBRE JUZGADO SEXTO DE DISTRITO DE
 
@@ -197,7 +207,9 @@ AL 3 DE DICIEMBRE DE 2018 AMPARO EN MATERIA PENAL EN EL
 
 ESTADO DE JALISCO, CON RESIDENCIA
 
-EN PUENTE GRANDE
+EN ZAPOPAN
+
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
 
 DEL 3 AL 10 DE JUZGADO SÉPTIMO DE DISTRITO DE
 
@@ -205,7 +217,7 @@ DICIEMBRE DE 2018 AMPARO EN MATERIA PENAL EN EL
 
 ESTADO DE JALISCO, CON RESIDENCIA
 
-EN PUENTE GRANDE
+EN ZAPOPAN
 
 DEL 10 AL 17 DE JUZGADO OCTAVO DE DISTRITO DE
 
@@ -223,13 +235,17 @@ ESTADO DE JALISCO, CON RESIDENCIA
 
 EN PUENTE GRANDE
 
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
+
 DEL 24 AL 31 DE JUZGADO PRIMERO DE DISTRITO DE
 
 DICIEMBRE DE 2018 AMPARO EN MATERIA PENAL EN EL
 
 ESTADO DE JALISCO, CON RESIDENCIA
 
-EN PUENTE GRANDE
+EN ZAPOPAN
+
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
 
 DEL 31 DE DICIEMBRE DE JUZGADO SEGUNDO DE DISTRITO DE
 
@@ -237,7 +253,9 @@ DEL 31 DE DICIEMBRE DE JUZGADO SEGUNDO DE DISTRITO DE
 
 DE 2019 ESTADO DE JALISCO, CON RESIDENCIA
 
-EN PUENTE GRANDE
+EN ZAPOPAN
+
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
 
 DEL 7 AL 14 DE JUZGADO TERCERO DE DISTRITO DE
 
@@ -245,7 +263,9 @@ ENERO DE 2019 AMPARO EN MATERIA PENAL EN EL
 
 ESTADO DE JALISCO, CON RESIDENCIA
 
-EN PUENTE GRANDE
+EN ZAPOPAN
+
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
 
 DEL 14 AL 21 DE JUZGADO CUARTO DE DISTRITO DE
 
@@ -253,15 +273,17 @@ ENERO DE 2019 AMPARO EN MATERIA PENAL EN EL
 
 ESTADO DE JALISCO, CON RESIDENCIA
 
-EN PUENTE GRANDE
+EN ZAPOPAN
 
 Y así sucesivamente de manera semanal.
 
 Los turnos de guardia inician el día lunes a las ocho horas con treinta minutos y finalizan el siguiente lunes a las ocho horas con veintinueve minutos.
 
+> <small>(F. DE E., D.O.F. 26 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 15.
 
-Dentro de los cinco días hábiles siguientes a la conclusión del periodo de exclusión de turno, los titulares de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Puente Grande, deberán informar a la Secretaría Ejecutiva de Creación de Nuevos Órganos, los datos señalados en el cuadro siguiente:
+Dentro de los cinco días hábiles siguientes a la conclusión del periodo de exclusión de turno, los titulares de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco, deberán informar a la Secretaría Ejecutiva de Creación de Nuevos Órganos, los datos señalados en el cuadro siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 9 DE NOVIEMBRE DE 2018, PÁGINA 88.]</small>
 
