@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-archivo-general-de-la-nacion-102646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-10-06"
-last_updated: "2018-07-30"
+last_updated: "2018-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-09-24"
 ---
 # ESTATUTO ORGANICO DEL ARCHIVO GENERAL DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN, INFORMACIÓN OBTENIDA DE: https://goo.gl/7nKh7n Y www.dof.gob.mx/2018/AGN/Estatuto_Organico_Archivo_General_Nacion.pdf PUBLICADO EN EL D.O.F. DE 27 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 30 DE JULIO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de octubre de 2014.
 
@@ -795,9 +795,7 @@ XIX. Imponer a los trabajadores las sanciones por incumplimiento a sus obligacio
 
 XX. Establecer y supervisar el programa interno de protección civil con el apoyo de las Áreas;
 
-XXI. Administrar los recursos materiales de uso general y servicios generales asignados al
-
-Organismo para la consecución de sus objetivos;
+XXI. Administrar los recursos materiales de uso general y servicios generales asignados al Organismo para la consecución de sus objetivos;
 
 XXII. Controlar y asegurar, durante el tiempo que establezcan las disposiciones jurídicas aplicables, los libros, registros auxiliares, información y documentos justificativos y comprobatorios de las operaciones presupuestales y financieras del Organismo;
 
@@ -956,3 +954,57 @@ SÉPTIMO. El presente Estatuto fue aprobado por Acuerdo No. (R) OG-O-2-14-6.- en
 > <small>(F. DE E., D.O.F. 30 DE JULIO DE 2018)</small>
 
 México, D.F., a 24 de septiembre de 2014.- Hace constar lo anterior la Directora General del Archivo General de la Nación, María de las Mercedes de Vega Armijo en ejercicio de la atribución que le confiere lo dispuesto por el Acuerdo (R) OG-O-2-14-6.- en la Segunda Sesión Ordinaria del Órgano de Gobierno del Archivo General de la Nación, celebrada el 15 de julio de dos mil catorce.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL ÓRGANO DE GOBIERNO DEL ARCHIVO GENERAL DE LA NACIÓN QUE EXPIDE EL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN”.]
+
+[N. DE E. INFORMACIÓN OBTENIDA DE: https://goo.gl/7nKh7n
+
+Y www.dof.gob.mx/2018/AGN/Estatuto_Organico_Archivo_General_Nacion.pdf]
+
+PRIMERO.- El presente Estatuto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Hasta en tanto el Archivo General de la Nación deje de estar sectorizado a la Secretaría de Gobernación, le seguirán siendo aplicables las disposiciones vigentes de la publicación del presente acuerdo, en lo relativo a la sectorización de dicho organismo, en términos de los (sic) dispuesto por el artículo Octavo transitorio de la Ley General de Archivos.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Archivo General, publicado en el Diario Oficial de la Federación el 6 de octubre de 2014.
+
+TERCERO.- Se abroga el Acuerdo publicado en el Diario Oficial de la Federación el 21 de noviembre de 2014, por el que se adscriben orgánicamente las áreas del Archivo General de la Nación y se establece la subordinación jerárquica de los servidores públicos previstos en su Estatuto Orgánico, reformado y publicado el 6 de octubre de 2014.
+
+CUARTO.- Quedan sin efecto las disposiciones anteriores que contravengan lo dispuesto en este Estatuto.
+
+QUINTO.- Las Reglas de Operación de los programas sustantivos y demás disposiciones administrativas vigentes a la entrada en vigor de este Estatuto, se continuarán aplicando, en lo que no se opongan al presente instrumento, y en tanto se expiden las nuevas disposiciones.
+
+SEXTO.- El presente Estatuto deberá ser inscrito en el Registro Público de Organismos Descentralizados.
+
+SÉPTIMO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las áreas que cambian de denominación o desaparecen por virtud del presente Estatuto, se entenderán hechas o conferidas a las unidades administrativas o áreas que correspondan conforme a lo establecido en el presente Acuerdo.
+
+OCTAVO.- El presente Estatuto fue aprobado por el Órgano de Gobierno del Archivo General de conformidad con los Acuerdos (R) OG-O-III-18-9 de la Tercera Sesión Ordinaria, celebrada el 18 de septiembre de 2018 y (R) OG-O-IV-18-10 de la Cuarta Sesión Ordinaria, celebrada el 06 de noviembre de 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "ACUERDO DEL ÓRGANO DE GOBIERNO DEL ARCHIVO GENERAL DE LA NACIÓN QUE EXPIDE EL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO DEL ÓRGANO DE GOBIERNO DEL ARCHIVO GENERAL DE LA NACIÓN QUE EXPIDE EL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN.
+
+ANTECEDENTES
+
+El 6 de octubre de 2014 se publicó en el Diario Oficial de la Federación el Estatuto Orgánico del Archivo General de la Nación, en donde se establece su estructura, organización y funcionamiento;
+
+El 15 de junio de 2018 se publicó en el Diario Oficial de la Federación la Ley General de Archivos, por lo cual el Archivo General de la Nación requiere algunos cambios en su Estatuto Orgánico vigente, con la finalidad de adecuar diversas disposiciones;
+
+El 18 de septiembre de 2018 se llevó a cabo la tercera sesión ordinaria del Órgano de Gobierno del Archivo General de la Nación, en donde se expidió el Acuerdo (R) OG-O-III-18-9 en los siguientes términos:
+
+ACUERDO (R) OG-O-III-18-9.- Con fundamento en los artículos 15 y 58, fracción VIII de la Ley Federal de las Entidades Paraestatales y 21, fracción III del Estatuto Orgánico del Archivo General de la Nación vigente, el Órgano de Gobierno aprobó el nuevo Estatuto Orgánico del Archivo General de la Nación e instruyó a la Directora General para que proceda, conforme lo establecido en el artículo 25, fracción I de la Ley Federal de las Entidades Paraestatales, a la inscripción en el Registro Público de Organismos Descentralizados, así como a la publicación del mismo en el Diario Oficial de la Federación.
+
+El 6 de noviembre de 2018 se llevó a cabo la Cuarta Sesión Ordinaria del Órgano de Gobierno del Archivo General de la Nación, en donde se expidió el Acuerdo (R) OG-O-IV-18-10 mediante el cual se aprobó la modificación al artículo Primero transitorio.
+
+Por lo anterior, la suscrita María de las Mercedes de Vega Armijo, Directora General del Archivo General de la Nación, con fundamento en los artículos 59, fracción XII de la Ley Federal de las Entidades Paraestatales, y en cumplimiento a lo ordenado en el Acuerdo (R) OG-O-III-18-9 del Órgano de Gobierno del Archivo General de la Nación, expide lo siguiente:
+
+ÚNICO.- Para conocimiento de los interesados se da a conocer el Acuerdo (R) OG-O-III-18-9 del Órgano de Gobierno del Archivo General de la Nación por el que aprueba el Estatuto Orgánico del Archivo General de la Nación, consultable en la liga:
+
+https://goo.gl/7nKh7n
+
+www.dof.gob.mx/2018/AGN/Estatuto_Organico_Archivo_General_Nacion.pdf
+
+Dado en la Ciudad de México, al día 20 del mes de noviembre de dos mil dieciocho.- La Directora General del Archivo General de la Nación, María de las Mercedes de Vega Armijo.- Rúbrica.
