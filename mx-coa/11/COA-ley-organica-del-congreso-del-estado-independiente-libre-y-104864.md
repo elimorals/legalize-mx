@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2017-12-29"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -2131,9 +2131,11 @@ En caso de urgencia notoria u obvia resolución, así como cuando se considere p
 
 La dispensa anterior no se concederá en ningún caso en que la urgencia necesaria no esté debidamente acreditada y justificada ante el Pleno.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 167.
 
-Las iniciativas de los diputados se presentarán a la o el Presidente de la Mesa Directiva, por lo menos veinticuatro horas antes de la sesión, por escrito y firmadas por su autor o autores.
+Las iniciativas de los Diputados se presentarán al Pleno del Congreso o a la, o el Presidente de la Mesa Directiva, por lo menos veinticuatro horas antes de la sesión, por escrito o vía electrónica y firmadas por su autor o autores.
 
 ###### ARTÍCULO 168.
 
@@ -2207,13 +2209,17 @@ Todo proyecto de ley que fuere desechado en lo general, no podrá volver a prese
 
 Las y los diputados también podrán presentar proposiciones con puntos de acuerdo.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 180.
 
-Las proposiciones con puntos de acuerdo deberán ser presentadas por escrito y suscritas por su autor o autores, señalando el asunto a que están referidas, los motivos que fundamentan el planteamiento y lo que se solicita para su atención.
+Las proposiciones con puntos de acuerdo y los pronunciamientos de la agenda legislativa, deberán ser presentadas por escrito o vía electrónica y estar suscritos por su autor o autores, señalando el asunto a que están referidas, los motivos que fundamentan el planteamiento y lo que se solicita para su atención.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 181.
 
-Para que las proposiciones con puntos de acuerdo de las y los diputados puedan ser incluidas en el orden del día de una sesión del Pleno o la Diputación Permanente, se requiere que los ponentes las presenten por escrito ante la Oficialía Mayor del Congreso, cuando menos veinticuatro horas antes de la sesión correspondiente y se les dará publicidad mediante su publicación en la Gaceta Parlamentaria.
+Para que las proposiciones con puntos de acuerdo y los pronunciamientos de la agenda legislativa de las y los Diputados puedan ser incluidos en el orden del día de una Sesión del Pleno o la Diputación Permanente, se requiere que los ponentes los presenten por escrito o vía electrónica debidamente suscrito ante la Oficialía Mayor del Congreso, cuando menos veinticuatro horas antes de la sesión correspondiente y se les dará publicidad mediante su publicación en la Gaceta Parlamentaria.
 
 ###### ARTÍCULO 182.
 
@@ -3264,3 +3270,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor a partir del momento de su aprobación en el Pleno del Congreso del Estado.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 90.- SE MODIFICA EL CONTENIDO DE LOS ARTÍCULOS 167, 180 Y 181 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de marzo de 2019.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
