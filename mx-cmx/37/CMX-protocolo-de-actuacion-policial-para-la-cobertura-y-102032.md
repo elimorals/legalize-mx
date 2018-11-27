@@ -4,7 +4,7 @@ identifier: "CMX-protocolo-de-actuacion-policial-para-la-cobertura-y-102032"
 country: "mx"
 rank: "otro"
 publication_date: "2014-08-20"
-last_updated: "2014-08-20"
+last_updated: "2018-11-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-08-15"
 ---
 # PROTOCOLO DE ACTUACION POLICIAL PARA LA COBERTURA Y RESPUESTA A EMERGENCIAS EN LA VIA PUBLICA POR PARTE DEL ESCUADRON DE RESCATE Y URGENCIAS MEDICAS DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO 81/2018 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL PARA LA COBERTURA Y RESPUESTA A EMERGENCIAS EN LA VÍA PÚBLICA POR PARTE DEL ESCUADRÓN DE RESCATE Y URGENCIA MÉDICAS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 27 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
 ACUERDO 35/2014 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL PARA LA COBERTURA Y RESPUESTA A EMERGENCIAS EN LA VÍA PÚBLICA POR PARTE DEL ESCUADRÓN DE RESCATE Y URGENCIAS MÉDICAS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2018 (SIN EFECTOS).
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el miércoles 20 de agosto de 2014.
 
@@ -395,3 +397,15 @@ XVII. En los casos en que la unidad traslade a pacientes inconscientes o con pé
 7.3 Los medicamentos administrados en la atención de cualquier paciente deberán justificarse con el registro en el Reporte de Servicio de Urgencia Médica, registrado como FO-SSP-04-DEERUM-01V2, y el visto bueno del coordinador médico, así como la firma de visto bueno del médico que los autorizó.
 
 7.4 En caso de alguna eventualidad o complicación con el estado de salud del paciente, el personal informará a la base de radio, para que ésta de aviso al hospital de destino para mantenerse en espera del arribo del paciente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 81/2018 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL PARA LA COBERTURA Y RESPUESTA A EMERGENCIAS EN LA VÍA PÚBLICA POR PARTE DEL ESCUADRÓN DE RESCATE Y URGENCIA MÉDICAS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se deja sin efectos el ACUERDO 35/2014 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL PARA LA COBERTURA Y RESPUESTA A EMERGENCIAS EN LA VÍA PÚBLICA POR PARTE DEL ESCUADRÓN DE RESCATE Y URGENCIAS MÉDICAS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL, publicado en el (sic) Gaceta Oficial del Distrito Federal el 20 de agosto de 2014.
+
+TERCERO. Se instruye a la Jefatura del Estado Mayor Policial, las Subsecretaría de Operación Policial Zona Norte y Zona Sur, la Subsecretaría de Control de Tránsito, la Subsecretaría de Desarrollo Institucional, la Subsecretaría de Participación Ciudadana y Prevención del Delito y a la Oficialía Mayor de esta Dependencia, para que en el ámbito de sus atribuciones provean lo necesario para la implementación del presente acuerdo y la actualización de la normatividad institucional.
