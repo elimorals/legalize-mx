@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2018-09-28"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -2208,6 +2208,14 @@ Los presupuestos de egresos deberán ser aprobados por los Ayuntamientos a más 
 El presupuesto de egresos de los Municipios, comprenderá las previsiones de gasto público que habrán de realizar los Ayuntamientos bajo un enfoque de gestión de resultados para atender las actividades, las obras y los servicios públicos programados, a cargo de los Municipios.
 
 Se concibe el enfoque de gestión para resultados, como la posibilidad que tiene el Municipio de precisar el tipo, magnitud y sentido de la transformación, evolución, impacto o beneficio que se prevé lograr, respecto de los objetivos estratégicos generales y específicos establecidos en el Plan Municipal de Desarrollo, en el proceso de gestión de los recursos públicos que ejerzan los Municipios.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+En el proyecto de presupuesto de egresos municipal que corresponda se deberán prever, en un apartado específico, las erogaciones para proyectos ejecutivos en materia de manejo integral de residuos sólidos urbanos, las cuales deberán ser desde al menos del 1.5% para desarrollar dichos proyectos ejecutivos. Esta obligación en sus términos deberá ser también considerada en los proyectos presupuestales de los Organismos Operadores Municipales responsables de prestar servicios públicos de agua, drenaje, alcantarillado, tratamiento y disposición del agua, para la realización de proyectos ejecutivos inherentes al tratamiento y disposición de aguas residuales.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+Esta previsión presupuestal, podrá destinarse, en su caso, para rehabilitación, mantenimiento y conservación de infraestructura de los proyectos ejecutivos referidos en esta disposición, así como para garantizar su funcionamiento en forma permanente.
 
 ###### ARTICULO 159.
 
@@ -5483,6 +5491,12 @@ Artículo Primero.- El presente Decreto entrará en vigor el día de su publicac
 
 Artículo Segundo.- Los Ayuntamientos que hubieren realizado disposiciones en materia de bonificación por pago anticipado o en relación a la situación personal de los contribuyentes durante el mes de enero del presente año podrán autorizar la adecuación de las previsiones correspondientes a lo dispuesto en este Decreto.
 
+P.O. 2 DE DICIEMBRE DE 2002.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
 P.O. 2 DE OCTUBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -5498,12 +5512,6 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
 
 P.O. 22 DE ABRIL DE 2004.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 1 DE NOVIEMBRE DE 2005.
 
 ###### ARTICULO UNICO.
 
@@ -5547,7 +5555,7 @@ P.O. 19 DE OCTUBRE DE 2005.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 2 DE DICIEMBRE DE 2002.
+P.O. 1 DE NOVIEMBRE DE 2005.
 
 ###### ARTICULO UNICO.
 
@@ -6156,3 +6164,15 @@ P.O. 28 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-523 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 304 DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS; Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 158 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
