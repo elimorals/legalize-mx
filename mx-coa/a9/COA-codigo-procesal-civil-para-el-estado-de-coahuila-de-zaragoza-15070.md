@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2018-01-23"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -9059,6 +9059,12 @@ III. La ejecución únicamente afectará al deudor y a su patrimonio, y no a ter
 
 IV. Se procurará no originar trastornos a la economía llevando a cabo la ejecución en forma tal que permita conservar abiertas las fuentes de producción y de trabajo.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 900 BIS.
+
+La vía de apremio también será procedente cuando se trate de la ejecución de Acuerdos de Mediación validados y celebrados en los términos de la Ley de Medios Alternos de Solución de Controversias para el Estado de Coahuila de Zaragoza. En dicha ejecución se observarán las reglas del artículo 900 de este Código.
+
 ###### ARTÍCULO 901.
 
 Instancia de la parte legítima para que tenga lugar la ejecución forzosa.
@@ -13134,3 +13140,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 93.- SE ADICIONA EL ARTÍCULO 900 BIS AL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DE LA LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
