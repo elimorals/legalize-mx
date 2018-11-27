@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-auditoria-y-control-interno-de-la-administracion-123184"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2017-09-01"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-08-31"
 ---
 # LEY DE AUDITORIA Y CONTROL INTERNO DE LA ADMINISTRACION PUBLICA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, LO RELACIONADO AL TÍTULO QUINTO DEL CONTROL INTERNO Y TÍTULO SEXTO DE LAS INTERVENCIONES, ENTRAN EN VIGOR A PARTIR DEL 1 DE ENERO DE 2018 .]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE AUDITORÍA Y CONTROL INTERNO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -162,6 +162,30 @@ VI. Recurrir las determinaciones de la Fiscalía General de Justicia y del Tribu
 
 VII. Las demás que le otorguen otras disposiciones legales y administrativas.
 
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 13 Bis.
+
+La persona titular de la Secretaría de la Contraloría General durará en su encargo seis años, sin posibilidad de ser ratificado y será designado por las dos terceras partes de las y los integrantes presentes del Congreso de la Ciudad de México, a propuesta de terna enviada por la persona titular de la Jefatura de Gobierno de la Ciudad de México y podrá ser removida o removido por ésta, de conformidad con las causas establecidas en la ley; el Congreso de la Ciudad de México podrá objetar dicha determinación por las dos terceras partes de las y los integrantes presentes.
+
+Para ser secretario de la Contraloría General se deben cumplir los requisitos siguientes:
+
+I. Tener ciudadanía mexicana y estar en pleno goce y ejercicio de sus derechos civiles;
+
+II. Acreditar experiencia mínima de tres años, en materias de transparencia, evaluación, fiscalización, rendición de cuentas, contabilidad gubernamental, control interno, responsabilidades administrativas o combate a la corrupción en la Administración Pública.
+
+III. Haber cumplido treinta y cinco años de edad, al día del nombramiento;
+
+IV. Poseer al día del nombramiento, título profesional de nivel licenciatura, con antigüedad mínima de diez años;
+
+V. Gozar de buena reputación y no haber sido condenada o condenado por delito doloso que amerite pena corporal de más de un año de prisión, ni estar sujeta o sujeto a proceso penal. Si se tratare de robo, fraude, falsificación o abuso de confianza o cualquier otro cometido en contra del patrimonio, quedará inhabilitado para el cargo cualquiera que haya sido la pena;
+
+VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de conformidad con la normatividad de la materia;
+
+VII. No haber sido registrada o registrado como candidata o candidato, no haber desempeñado cargo alguno de elección popular y que no pertenezcan o militen en algún partido político en los últimos cuatro años anteriores al nombramiento;
+
+VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores al nombramiento.
+
 ###### Artículo 14.
 
 Las facultades y obligaciones que esta ley otorga al titular de la Secretaría, podrán ser ejercidas directamente por su titular, o por los titulares de las unidades administrativas que se le encuentran adscritas, en el ámbito de sus competencias.
@@ -172,23 +196,25 @@ Las Unidades Administrativas de la Secretaría serán las Subsecretarías, Coord
 
 ## TÍTULO TERCERO. DE LA PROFESIONALIZACIÓN Y DEL SERVICIO PROFESIONAL DE CARRERA
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 16.
 
-Los titulares de los órganos internos de control para asegurar la buena administración y el gobierno abierto, serán seleccionados y propuestos por el titular de la Secretaria de la Contraloría General de la Ciudad de México al Órgano Legislativo de la Ciudad de México para su ratificación con la aprobación de la mayoría de los miembros presentes de su Pleno; serán formados a través de un sistema de profesionalización, los que estarán coordinados por las Subsecretarías adscritas a la Secretaría de la Contraloría General de la Ciudad de México, según su ámbito de competencia.
+Las personas titulares de los órganos internos de control, serán nombradas o nombrados por la persona titular de la Secretaría, conforme a un sistema de profesionalización, a efecto de asegurar la buena administración y el gobierno abierto de la Ciudad de México.
 
-El nombramiento durará cuatro años con posibilidad de ser ratificados hasta por un periodo más.
+El nombramiento durará cuatro años con posibilidad de ser ratificados por un periodo más, pero no podrán permanecer en un mismo órgano de control por más de dos años, siendo después rotados, conforme al programa que para tal efecto elabore la Secretaría.
 
 Para ser titulares de los Órganos Internos de Control se deben cumplir los requisitos siguientes:
 
-I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos;
+I. Ser de ciudadanía mexicana y estar en pleno goce y ejercicio de sus derechos;
 
-II. Acreditar experiencia en alguna de las siguientes materias: transparencia, evaluación, fiscalización, rendición de cuentas, contabilidad gubernamental, control interno, responsabilidades administrativas, combate a la corrupción en la Administración Pública de la Ciudad de México;
+II. Acreditar experiencia mínima de tres años, en alguna de las siguientes materias: transparencia, evaluación, fiscalización, rendición de cuentas, contabilidad gubernamental, control interno, responsabilidades administrativas, combate a la corrupción en la Administración Pública;
 
 III. Tener más de treinta años de edad, al día del nombramiento;
 
-IV. Poseer al día del nombramiento, con antigüedad mínima de cinco años, título profesional de nivel licenciatura;
+IV. Poseer al día del nombramiento, con antigüedad mínima de tres años, título profesional de nivel licenciatura;
 
-V. Gozar de buena reputación y no haber sido condenado por algún delito doloso o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal, y
+V. Gozar de buena reputación y no haber sido condenada o condenado por delito doloso que amerite pena corporal de más de un año de prisión, ni estar sujeta o sujeto a proceso penal. Si se tratare de robo, fraude, falsificación o abuso de confianza o cualquier otro cometido en contra del patrimonio, quedará inhabilitado para el cargo cualquiera que haya sido la pena; y
 
 VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de conformidad con la normatividad de la materia.
 
@@ -464,9 +490,11 @@ La etapa de conclusión consistirá en la elaboración y presentación de los re
 
 El Comisariado Público es la unidad administrativa adscrita a la Secretaría, encargada de vigilar e inspeccionar que las actividades adjetivas y sustantivas de los organismos públicos descentralizados, fideicomisos públicos y empresas de participación estatal mayoritaria, entidades paraestatales de la Administración Pública de la Ciudad de México, cumplan con los objetivos para los cuales fueron creadas, así como apliquen el presupuesto autorizado para los fines que se encuentran afectos, para garantizar la buena administración y el gobierno abierto.
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-Es comisario público propietario el titular de la Dirección General de Contralorías Internas en entidades paraestatales adscrito a la Secretaría, y comisarios públicos suplentes los servidores públicos adscritos a esta, nombrados y ratificados para tal efecto en los términos de la Ley Orgánica de la Administración Pública de la Ciudad de México.
+Es Comisaria o Comisario público propietarios y suplentes las personas servidoras públicas adscritas a la Secretaría, nombrados para tal efecto por el titular de la misma, en los términos de la normativa aplicable.
 
 ###### Artículo 49.
 
@@ -518,12 +546,24 @@ QUINTO. La Secretaría propondrá al ejecutivo de la Ciudad de México, los Line
 
 SEXTO. Los entes públicos de la Administración Pública contarán hasta el 31 de diciembre de 2017, para implementar el sistema de control interno en cada una de sus unidades administrativas y unidades administrativas de apoyo técnico operativo, la Secretaría contará con seis meses para implementar la plataforma tecnológica que permita su evaluación y seguimiento, a partir de la entrada en vigor de la presente ley.
 
-SÉPTIMO. El titular de la Secretaría de la Contraloría General de la Ciudad de México, presentará a la Asamblea Legislativa del Distrito Federal, las propuestas de nombramiento, y en su caso ratificación de los titulares de los órganos internos de control a que se refiere el artículo 16 del presente Decreto, a fin de que sean nombrados en un plazo máximo de 60 días naturales posteriores a la entrada en vigor del presente Decreto.
-
-Los titulares de los Órganos Internos de Control a que se refiere el artículo 16 del presente Decreto, y que se encuentren en funciones a la entrada en vigor de éste Decreto, podrán ser considerados para ser nombrados para un nuevo encargo, o bien, para ser ratificados en el encargo que actualmente desempeña.
+SÉPTIMO.- (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2018)
 
 OCTAVO. El Poder Legislativo de la Ciudad de México deberá adecuar la Ley del Servicio Publico de Carrera de la Administración Publica del Distrito Federal en un plazo de 90 días a partir de la entrada en vigor del presente decreto para incorporar el Sistema de Profesionalización del Sistema Anticorrupción de la Ciudad de México.
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los diecisiete días del mes de julio del año dos mil diecisiete.- POR LA MESA DIRECTIVA, DIP. MAURICIO ALONSO TOLEDO GUTIÉRREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. LUCIANO JIMENO HUANOSTA, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los treinta y un días del mes de agosto del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTES.- FIRMA.- EL SECRETARIO DE TURISMO, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE AUDITORÍA Y CONTROL INTERNO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
+
+CUARTO.- Los nombramientos de las personas titulares de los Órganos Internos de Control a que se refiere el artículo 16 del presente Decreto, serán realizados a partir del 5 de diciembre del año en curso.
