@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-alternos-de-solucion-de-controversias-para-el-456
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-12"
-last_updated: "2017-12-26"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de julio de 2005.
 
@@ -528,6 +528,10 @@ El acuerdo final podrá ser validado por la firma del director del Centro, a pet
 ###### Artículo 28.
 
 La eficacia jurídica. Los acuerdos de mediación, conciliación, y evaluación neutral celebrados ante facilitadores del Centro, deberán ser validados por el Director del Centro, con su firma, para contar con la calidad de cosa juzgada y, en caso de incumplimiento, podrán ser ejecutados por esta autoridad mediante una petición por escrito al juez competente, en los términos de las disposiciones legales aplicables. Se exceptúa de lo anterior los acuerdos que sean celebrados en asuntos de orden penal y de justicia para adolescentes, los cuales requerirán de su ratificación ante el juez de control penal para que tengan la calidad de cosa juzgada.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+En Materia Civil, la ejecución de los acuerdos que han alcanzado la calidad de cosa juzgada mediante la validación a que se refiere el párrafo que antecede, se tramitará de conformidad con lo previsto por el artículo 900, 900 Bis, y demás aplicables del Código Procesal Civil para el Estado de Coahuila de Zaragoza.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1371,7 +1375,7 @@ Los centros regionales funcionarán en el ámbito territorial que establezca el 
 
 Atribuciones del Centro. El Centro tendrá las siguientes atribuciones:
 
-l. Vigilar el cumplimiento de esta ley;
+I. Vigilar el cumplimiento de esta ley;
 
 II. Prestar en forma gratuita los servicios de información, orientación, mediación, conciliación, evaluación neutral y arbitraje, en términos de este ordenamiento
 
@@ -1421,7 +1425,7 @@ Fe pública. El Director General del Centro y, en su caso, los Directores Region
 
 Atribuciones del Director. El Director General del Centro tendrá las atribuciones siguientes:
 
-l. Vigilar que la prestación del servicio de solución de controversias a través de medios alternos de solución de controversias se apegue a los principios, fines y procedimientos establecidos en la Ley;
+I. Vigilar que la prestación del servicio de solución de controversias a través de medios alternos de solución de controversias se apegue a los principios, fines y procedimientos establecidos en la Ley;
 
 II. Asumir la dirección técnica y administrativa del Centro y de los centros o direcciones que jerárquicamente dependa de éste, vigilando el cumplimiento de sus objetivos;
 
@@ -1588,3 +1592,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 93.- SE ADICIONA EL ARTÍCULO 900 BIS AL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DE LA LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
