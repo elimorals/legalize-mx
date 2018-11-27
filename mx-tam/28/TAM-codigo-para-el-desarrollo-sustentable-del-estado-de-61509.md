@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2018-09-28"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -4531,9 +4531,13 @@ c) No cumpla con las disposiciones establecidas en materia de emisiones a la atm
 
 d) Trasplante un árbol público o afecte negativamente áreas verdes o jardineras públicas, incluyendo las localizadas en banquetas y camellones, sin la autorización previa de la autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-III. Multa equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización a quien:
+III. Multa equivalente del 1.5% al 2.0% del Presupuesto de Egresos correspondiente, a los ayuntamientos que incumplan con lo dispuesto en el párrafo tercero del artículo 158 del Código Municipal para el Estado de Tamaulipas. Esta multa aplicará también en sus términos para los Organismos Operadores Municipales responsables de prestar servicios públicos de agua, drenaje, alcantarillado, tratamiento y disposición del agua.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+Asimismo, multa equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización a quien:
 
 a) Rebase los límites permisibles de ruido, vibraciones, energía térmica, y lumínica, vapores, gases u olores;
 
@@ -4908,3 +4912,15 @@ P.O. 28 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-523 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 304 DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS; Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 158 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
