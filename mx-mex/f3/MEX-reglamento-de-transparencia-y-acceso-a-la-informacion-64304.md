@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transparencia-y-acceso-a-la-informacion-64304"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-29"
-last_updated: "2008-10-29"
+last_updated: "2018-11-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE MEXICO
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE MEXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL TEEM/AG/4/2018 DEL PLENO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO POR EL QUE SE APRUEBA EL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.O. DE 27 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 29 de octubre de 2008.
 
@@ -360,3 +362,15 @@ LIC. SANDRA ALMAZÁN SANTAMARÍA
 SECRETARIA GENERAL DE ACUERDOS
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO".]</small>
+
+G.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL TEEM/AG/4/2018 DEL PLENO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO POR EL QUE SE APRUEBA EL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. El presente Acuerdo surtirá efectos a partir de su aprobación.
+
+SEGUNDO. Quedan sin efecto las Disposiciones Reglamentarias en Materia de Transparencia y Acceso a la Información Pública del Tribunal Electoral del Estado de México, publicadas el día veintinueve de octubre de dos mil ocho, en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Tribunal Electoral del Estado de México.
