@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-11-14"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -423,11 +423,13 @@ XXIII. VIGESIMO TERCER CIRCUITO:
 
 1. Un tribunal colegiado con residencia en Zacatecas.
 
-> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2018)</small>
 
-2. Dos tribunales unitarios con sede en Zacatecas.
+2. Un Tribunal Unitario con sede en Zacatecas.
 
-3. Dos juzgados de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2018)</small>
+
+3. Tres Juzgados de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
 
 XXIV. VIGESIMO CUARTO CIRCUITO:
 
@@ -7048,3 +7050,25 @@ Las Direcciones Generales de Tecnologías de la Información y de Estadística J
 CUARTO. La plantilla de personal de los Juzgados de Distrito en Materias Administrativa, Civil y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, será homologada por el Grupo de Trabajo de Plantillas Justificadas del Consejo de la Judicatura Federal, para lo cual procederá a presentar el dictamen correspondiente a la Comisión de Administración.
 
 La Dirección General de Estadística Judicial determinará el número de plazas con que deba contar la Oficina de Correspondencia Común de los Juzgados de Distrito en Materias Administrativa, Civil y de Trabajo y, en su caso, con apoyo en la Dirección General de Recursos Humanos reubicará al personal adscrito a la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Civil.
+
+D.O.F. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO TRIBUNAL UNITARIO DEL VIGÉSIMO TERCER CIRCUITO, Y DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL VIGÉSIMO TERCER CIRCUITO, AMBOS CON RESIDENCIA EN ZACATECAS, ZACATECAS, AL CAMBIO DE DENOMINACIÓN DEL PRIMER TRIBUNAL UNITARIO DEL VIGÉSIMO TERCER CIRCUITO, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE; EL INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN LA MISMA RESIDENCIA, ASÍ COMO SU COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE ZACATECAS, ZACATECAS; Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Segundo Tribunal Unitario del Vigésimo Tercer Circuito, con residencia en Zacatecas, Zacatecas, y el inicio del Juzgado Tercero de Distrito en el Estado de Zacatecas, con sede en la ciudad del mismo nombre, implicará el traslado del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional de nueva creación contará con la misma plantilla de personal que tienen sus homólogos.
+
+Las plazas relativas a secretaria particular y chofer, del órgano jurisdiccional que concluye funciones, quedarán a disposición de la Dirección General de Recursos Humanos.
+
+La Comisión de Adscripción definirá al Juez de Distrito que sea adscrito al órgano jurisdiccional de nueva creación, de igual manera, readscribirá al Magistrado de Circuito del Segundo Tribunal Unitario que concluye funciones.
+
+CUARTO. La Dirección General de Recursos Humanos atenderá la situación laboral, derivada de la conclusión de funciones de la Oficina de Correspondencia Común de los Tribunales Unitarios del Vigésimo Tercer Circuito, con residencia en Zacatecas, Zacatecas, quedarán a disposición del Consejo de la Judicatura Federal.
+
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional de nueva creación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+SEXTO. Se abroga el Acuerdo General 38/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la conclusión de funciones del Juzgado Quinto de Distrito del Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas y su transformación en Segundo Tribunal Unitario del Vigésimo Tercer Circuito, así como a su competencia, jurisdicción territorial, domicilio, y fecha de inicio de funciones; al cambio de denominación del Tribunal Unitario del mismo Circuito y residencia; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Tribunales Unitarios del Circuito y residencia indicados; y a la creación de la oficina de correspondencia común que les prestará servicio.
