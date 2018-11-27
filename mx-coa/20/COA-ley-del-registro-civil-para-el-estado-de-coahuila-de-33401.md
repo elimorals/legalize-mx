@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2018-01-23"
+last_updated: "2018-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 27 DE NOVIEMBRE DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS 60 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.]</small>
+
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -1366,3 +1368,19 @@ P.O. 23 DE ENERO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 91.- SE CREA LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. Esta ley entrará en vigor a los 60 días hábiles siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley del Registro Civil para el Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 59, de fecha 25 de julio de 2003; y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Persona titular del Ejecutivo dentro del plazo de 90 días hábiles siguientes a la entrada en vigor de esta ley, expedirá las adecuaciones que resulten necesarias al Reglamento Interior del Registro Civil, publicado en el Periódico Oficial del Gobierno del Estado número 59, de fecha 23 de julio de 2002, a efecto de que las disposiciones de éste se ajusten al presente Decreto.
+
+CUARTO. Dentro del plazo de 30 días hábiles siguientes a la entrada en vigor de esta ley, deberán realizarse las adecuaciones a los formatos, medios electrónicos, e información publicada en el portal del Registro Civil para adecuarlas a los términos del presente Decreto.
+
+QUINTO. Todos los asuntos que se encuentren en trámite seguirán tramitándose de conformidad con las disposiciones vigentes al momento que fueron iniciados.
+
+SEXTO. Dentro del plazo de 60 días hábiles siguientes a la entrada en vigor de este Decreto, se deberán de realizar las adecuaciones necesarias a las leyes y reglamentos, demás disposiciones que resulten procedentes.
