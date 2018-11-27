@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fiscalizacion-superior-de-la-ciudad-de-mexico-101742"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-09"
-last_updated: "2017-09-01"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101742&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-06-09"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 9 de julio de 2014.
 
@@ -52,111 +52,121 @@ LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO
 
 La presente Ley es de orden e interés públicos y tiene como objeto regular la fiscalización, organización y atribuciones de la Auditoría Superior de la Ciudad de México; y los actos y procedimientos que realice dentro del ámbito de su competencia dicha Entidad de Fiscalización Superior.
 
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DE 27 DE NOVIEMBRE DE 2018, SE ADVIERTE QUE SE ELIMINÓ EL TEXTO DE LA ANTERIOR FRACCIÓN I; SE ADICIONARON LOS CONTENIDOS DE LAS ACTUALES FRACCIONES VIII Y IX; SE REFORMARON LAS FRACCIONES VII, XII, XXI, XXII Y XLII, ASÍ COMO SE REUBICARON EN SU ORDEN LAS DISTINTAS FRACCIONES.]</small>
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley, salvo mención expresa, se entenderá por:
 
-I. Asamblea: La Asamblea Legislativa del Distrito Federal;
+I. Auditor: Profesional que, con base en pruebas de auditoría, revisa, examina y evalúa los resultados de la gestión administrativa y financiera del sujeto de fiscalización; vigila la legalidad, honestidad, oportunidad y transparencia del comportamiento de los servidores públicos que intervienen en gestión pública; propone medidas correctivas, sugiere el mejoramiento de métodos y procedimientos de control interno que redunden en una operación eficaz; su labor se orienta a asumir actitudes preventivas y, de ser el caso, aplicar las medidas correctivas necesarias;
 
-II. Auditor: Profesional que, con base en pruebas de auditoría, revisa, examina y evalúa los resultados de la gestión administrativa y financiera del sujeto de fiscalización; vigila la legalidad, honestidad, oportunidad y transparencia del comportamiento de los servidores públicos que intervienen en gestión pública; propone medidas correctivas, sugiere el mejoramiento de métodos y procedimientos de control interno que redunden en una operación eficaz; su labor se orienta a asumir actitudes preventivas y, de ser el caso, aplicar las medidas correctivas necesarias;
+II. Auditoría: Proceso de verificación del cumplimiento de las disposiciones legales y normativas, y revisión, análisis y examen periódico a los registros contables y sistemas de contabilidad, sistemas y mecanismos administrativos, y a los métodos de control interno de una unidad administrativa, con objeto de determinar la exactitud de las cuentas respectivas y dar una opinión acerca de su funcionamiento. Agrega valor preventivo y correctivo al desempeño de los sistemas operativos de la administración pública, y obtiene evidencia del grado en que cumple su gestión;
 
-III. Auditoría: Proceso de verificación del cumplimiento de las disposiciones legales y normativas, y revisión, análisis y examen periódico a los registros contables y sistemas de contabilidad, sistemas y mecanismos administrativos, y a los métodos de control interno de una unidad administrativa, con objeto de determinar la exactitud de las cuentas respectivas y dar una opinión acerca de su funcionamiento. Agrega valor preventivo y correctivo al desempeño de los sistemas operativos de la administración pública, y obtiene evidencia del grado en que cumple su gestión;
+III. Auditoría Superior: La Auditoría Superior de la Ciudad de México, Entidad de Fiscalización de la Ciudad de México;
 
-IV. Auditoría Superior: La Auditoría Superior de la Ciudad de México, Entidad de Fiscalización de la Ciudad de México;
+IV. Auditor Superior: El Titular de la Auditoría Superior;
 
-V. Auditor Superior: El Titular de la Auditoría Superior;
+V. Autonomía de Gestión: La atribución para decidir libremente sobre la administración, manejo, custodia y aplicación de los recursos públicos autorizados para la ejecución de los objetivos conferidos;
 
-VI. Autonomía de Gestión: La atribución para decidir libremente sobre la administración, manejo, custodia y aplicación de los recursos públicos autorizados para la ejecución de los objetivos conferidos;
+VI. Autonomía Técnica: Atribución para desempeñar con eficacia y alto rigor técnico el cometido institucional, con independencia para emitir mandatos expresos y suficientemente amplios en el adecuado cumplimiento de sus funciones;
 
-VII. Autonomía Técnica: Atribución para desempeñar con eficacia y alto rigor técnico el cometido institucional, con independencia para emitir mandatos expresos y suficientemente amplios en el adecuado cumplimiento de sus funciones;
+VII. Código: Código Fiscal de la Ciudad de México;
 
-VIII. Código: Código Fiscal del Distrito Federal;
+VIII. Comité Coordinador: el órgano encargado del diseño, generación y promoción de políticas en materia de anticorrupción, previsto en la Ley del Sistema Anticorrupción de la Ciudad de México;
 
-IX. Control Interno: Proceso que realizan los sujetos de fiscalización que tiene como fin proporcionar seguridad razonable en el logro de sus objetivos específicos, a través de la implementación y ejecución de métodos, políticas y procedimientos coordinados e interrelacionados para lograr eficacia y eficiencia de las operaciones, y la confiabilidad de los informes financieros y operativos, con objeto de cumplir las disposiciones legales y proteger los bienes gubernamentales;
+IX. Congreso: el Poder Legislativo de la Ciudad de México;
 
-X. Comisión: La Comisión de Rendición de Cuentas y Vigilancia de la Auditoría Superior;
+X. Control Interno: Proceso que realizan los sujetos de fiscalización que tiene como fin proporcionar seguridad razonable en el logro de sus objetivos específicos, a través de la implementación y ejecución de métodos, políticas y procedimientos coordinados e interrelacionados para lograr eficacia y eficiencia de las operaciones, y la confiabilidad de los informes financieros y operativos, con objeto de cumplir las disposiciones legales y proteger los bienes gubernamentales;
 
-XI. Comisión de Presupuesto: La Comisión de Presupuesto y Cuenta Pública de la Asamblea Legislativa de la Ciudad de México;
+XI. Comisión: La Comisión de Rendición de Cuentas y Vigilancia de la Auditoría Superior;
 
-XII. Ciudad de México: Entidad federativa que goza de autonomía en todo lo concerniente a su régimen interior y a su organización política y administrativa, que de conformidad con el artículo 44 de la Constitución Política de los Estados Unidos Mexicanos, es la sede de los Poderes de la Unión y Capital de los Estados Unidos Mexicanos; se compondrá del territorio que actualmente tiene y, en caso de que los poderes federales se trasladen a otro lugar, se erigirá en un Estado de la Unión con la denominación de Ciudad de México;
+XII. Comisión de Presupuesto: La Comisión de Presupuesto y Cuenta Pública del Congreso de la Ciudad de México;
 
-XIII. Cuenta Pública: El documento a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos; así como el informe que en términos del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos rinde la Ciudad de México y los informes correlativos que, conforme a las constituciones locales, rinden los estados y los municipios y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental;
+XIII. Ciudad de México: Entidad federativa que goza de autonomía en todo lo concerniente a su régimen interior y a su organización política y administrativa, que de conformidad con el artículo 44 de la Constitución Política de los Estados Unidos Mexicanos, es la sede de los Poderes de la Unión y Capital de los Estados Unidos Mexicanos; se compondrá del territorio que actualmente tiene y, en caso de que los poderes federales se trasladen a otro lugar, se erigirá en un Estado de la Unión con la denominación de Ciudad de México;
 
-XIV. Dictamen: Opinión emitida por la Entidad de Fiscalización conforme a las normas de auditoría generalmente aceptadas;
+XIV. Cuenta Pública: El documento a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos; así como el informe que en términos del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos rinde la Ciudad de México y los informes correlativos que, conforme a las constituciones locales, rinden los estados y los municipios y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental;
 
-XV. Entidades: Los organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos en los que el Gobierno de la Ciudad de México o las otras entidades mencionadas que integran la administración pública paraestatal, sean fideicomitentes;
+XV. Dictamen: Opinión emitida por la Entidad de Fiscalización conforme a las normas de auditoría generalmente aceptadas;
 
-XVI. Faltas administrativas graves: las así señaladas en la Ley General de Responsabilidades Administrativas; y la Ley de Responsabilidades Administrativas de la Ciudad de México;
+XVI. Entidades: Los organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos en los que el Gobierno de la Ciudad de México o las otras entidades mencionadas que integran la administración pública paraestatal, sean fideicomitentes;
 
-XVII. Faltas administrativas no graves: las así señaladas en las leyes en materia de responsabilidades administrativas de aplicación y vigencia en la Ciudad de México;
+XVII. Faltas administrativas graves: las así señaladas en la Ley General de Responsabilidades Administrativas; y la Ley de Responsabilidades Administrativas de la Ciudad de México;
 
-XVIII. Financiamiento y otras obligaciones: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la Ley Federal de Deuda Pública y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+XVIII. Faltas administrativas no graves: las así señaladas en las leyes en materia de responsabilidades administrativas de aplicación y vigencia en la Ciudad de México;
 
-XIX. Fiscalía Especializada: Fiscalía Especializada en Materia de Combate a la Corrupción de la Ciudad de México;
+XIX. Financiamiento y otras obligaciones: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la Ley Federal de Deuda Pública y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XX. Fiscalización: Facultad de la Asamblea que ejerce a través de la Auditoría Superior, consistente en revisar y evaluar a los Sujetos de Fiscalización, pronunciándose respecto de la aplicación de los recursos públicos, ingreso y gasto públicos y operaciones concluidas;
+XX. Fiscalía Especializada: Fiscalía Especializada en Materia de Combate a la Corrupción de la Ciudad de México;
 
-XXI. Gestión: La actividad de los Sujetos de Fiscalización, que regulan las Leyes en materia de Contabilidad Gubernamental respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas aprobados, en el periodo que corresponde a una Cuenta Pública, sujeta a la revisión posterior de la Asamblea, a través de la Auditoría Superior;
+> <small>[N. DE E. REFORMADA, ANTES FRACCIÓN XX, G.O. 27 DE NOVIEMBRE DE 2018]</small>
 
-XXII. Informe General: El Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública;
+XXI. Fiscalización: Facultad del Congreso que ejerce a través de la Auditoría Superior, consistente en revisar y evaluar a los Sujetos de Fiscalización, pronunciándose respecto de la aplicación de los recursos públicos, ingreso y gasto públicos y operaciones concluidas;
 
-XXIII. Informe específico: El informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo 79 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>[N. DE E. REFORMADA, ANTES FRACCIÓN XXI, G.O. 27 DE NOVIEMBRE DE 2018]</small>
 
-XXIV. Informes Individuales: Los informes finales de auditoría de cada una de las revisiones que la Auditoría Superior practica a los sujetos de fiscalización;
+XXII. Gestión: La actividad de los Sujetos de Fiscalización, que regulan las Leyes en materia de Contabilidad Gubernamental respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas aprobados, en el periodo que corresponde a una Cuenta Pública, sujeta a la revisión posterior del Congreso, a través de la Auditoría Superior;
 
-XXV. Informes Parciales: Los informes preliminares que la Auditoría Superior entrega a la Comisión en las fechas establecidas en la presente Ley, constituidos por los informes individuales que concluya durante el periodo respectivo, así como un avance preliminar sobre el estado que guardan los sujetos de fiscalización e información general del estado de las auditorías comprendidas en el Programa General de Auditoría;
+XXIII. Informe General: El Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública;
 
-XXVI. Inspección: Examen físico de bienes o documentos, con el objetivo de verificar la existencia de un activo o la autenticidad de una operación registrada en la contabilidad o presentada en la información financiera, las condiciones de los trabajos realizados y su calidad, así como la medición directa para la comprobación de cantidades pagadas por un bien o servicio de los trabajos contratados;
+XXIV. Informe específico: El informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo 79 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXVII. Ley: Ley de Fiscalización Superior de la Ciudad de México;
+XXV. Informes Individuales: Los informes finales de auditoría de cada una de las revisiones que la Auditoría Superior practica a los sujetos de fiscalización;
 
-XXVIII. Normas Generales de Auditoría: Requisitos mínimos de calidad previstos en el presente ordenamiento relativos a la personalidad del auditor, el trabajo que desempeña e información que produce como resultado de la Auditoría, así como el seguimiento de recomendaciones;
+XXVI. Informes Parciales: Los informes preliminares que la Auditoría Superior entrega a la Comisión en las fechas establecidas en la presente Ley, constituidos por los informes individuales que concluya durante el periodo respectivo, así como un avance preliminar sobre el estado que guardan los sujetos de fiscalización e información general del estado de las auditorías comprendidas en el Programa General de Auditoría;
 
-XXIX. Órgano constitucional autónomo: Son los órganos creados inmediata y fundamentalmente en la Constitución Política de los Estados Unidos Mexicanos o en las constituciones de las entidades federativas y que no se adscriben a los poderes del Estado, y que cuentan con autonomía e independencia funcional y financiera;
+XXVII. Inspección: Examen físico de bienes o documentos, con el objetivo de verificar la existencia de un activo o la autenticidad de una operación registrada en la contabilidad o presentada en la información financiera, las condiciones de los trabajos realizados y su calidad, así como la medición directa para la comprobación de cantidades pagadas por un bien o servicio de los trabajos contratados;
 
-XXX. Órgano Interno de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la Ley de Responsabilidades Administrativas de la Ciudad de México;
+XXVIII. Ley: Ley de Fiscalización Superior de la Ciudad de México;
 
-XXXI. Papeles de Trabajo: Información representada físicamente por papeles y medios magnéticos, que contiene la información recabada por el auditor en su revisión y que constituye la evidencia de los resultados de auditoría; su finalidad radica en registrar, de manera ordenada, sistemática y detallada, los procedimientos y actividades realizados por el auditor; así como, demostrar que se cumplieron los objetivos de la auditoría, y dejar constancia del alcance de los procedimientos aplicados y evidencia de las modificaciones a los procedimientos; la información contenida y generada en los mismos se considera reservada;
+XXIX. Normas Generales de Auditoría: Requisitos mínimos de calidad previstos en el presente ordenamiento relativos a la personalidad del auditor, el trabajo que desempeña e información que produce como resultado de la Auditoría, así como el seguimiento de recomendaciones;
 
-XXXII. Persona servidora pública: Los señalados en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General de Responsabilidades Administrativas de la Ciudad de México;
+XXX. Órgano constitucional autónomo: Son los órganos creados inmediata y fundamentalmente en la Constitución Política de los Estados Unidos Mexicanos o en las constituciones de las entidades federativas y que no se adscriben a los poderes del Estado, y que cuentan con autonomía e independencia funcional y financiera;
 
-XXXIII. Postulados Básicos de Contabilidad Gubernamental: Son los elementos fundamentales que configuran el Sistema de Contabilidad Gubernamental, teniendo incidencia en la identificación, el análisis, la interpretación, la captación, el procesamiento y el reconocimiento de las transformaciones, transacciones y otros eventos que afectan al ente público;
+XXXI. Órgano Interno de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la Ley de Responsabilidades Administrativas de la Ciudad de México;
 
-XXXIV. Procedimiento de Auditoría: Conjunto de técnicas que el auditor emplea para examinar los hechos o circunstancias relativas a la información que se revisa, mediante el cual se obtienen las bases para sustentar sus hallazgos, resultados, y recomendaciones;
+XXXII. Papeles de Trabajo: Información representada físicamente por papeles y medios magnéticos, que contiene la información recabada por el auditor en su revisión y que constituye la evidencia de los resultados de auditoría; su finalidad radica en registrar, de manera ordenada, sistemática y detallada, los procedimientos y actividades realizados por el auditor; así como, demostrar que se cumplieron los objetivos de la auditoría, y dejar constancia del alcance de los procedimientos aplicados y evidencia de las modificaciones a los procedimientos; la información contenida y generada en los mismos se considera reservada;
 
-XXXV. Programas: Los señalados en la Ley de Planeación, en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y los contenidos en el Presupuesto de Egresos, con base en los cuales los sujetos fiscalizados realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público federal;
+XXXIII. Persona servidora pública: Los señalados en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de Responsabilidades Administrativas de la Ciudad de México;
 
-XXXVI. Programa de Auditoría: Documento en el cual se reflejan las actividades necesarias para alcanzar los objetivos de la fiscalización incluye las pruebas de cumplimiento y sustantivas que se diseñaron como resultado de la evaluación de los objetivos de control interno;
+XXXIV. Postulados Básicos de Contabilidad Gubernamental: Son los elementos fundamentales que configuran el Sistema de Contabilidad Gubernamental, teniendo incidencia en la identificación, el análisis, la interpretación, la captación, el procesamiento y el reconocimiento de las transformaciones, transacciones y otros eventos que afectan al ente público;
 
-XXXVII. Presupuesto de Egresos: El Presupuesto de Egresos de la Ciudad de México del ejercicio fiscal correspondiente;
+XXXV. Procedimiento de Auditoría: Conjunto de técnicas que el auditor emplea para examinar los hechos o circunstancias relativas a la información que se revisa, mediante el cual se obtienen las bases para sustentar sus hallazgos, resultados, y recomendaciones;
 
-XXXVIII. Procesos concluidos: Cualquier acción que se haya realizado durante el año fiscal en curso que deba registrarse como pagado conforme a la Ley General de Contabilidad Gubernamental;
+XXXVI. Programas: Los señalados en la Ley de Planeación, en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y los contenidos en el Presupuesto de Egresos, con base en los cuales los sujetos fiscalizados realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público federal;
 
-XXXIX. Reglamento: Reglamento Interior de la Auditoría Superior de la Ciudad de México;
+XXXVII. Programa de Auditoría: Documento en el cual se reflejan las actividades necesarias para alcanzar los objetivos de la fiscalización incluye las pruebas de cumplimiento y sustantivas que se diseñaron como resultado de la evaluación de los objetivos de control interno;
 
-XL. Secretaría: Secretaría de la Contraloría General, dependencia de la Administración Pública de la Ciudad de México a quien le corresponde el despacho de las materias relativas al control y evaluación de la gestión pública de las dependencias, órganos desconcentrados y entidades que integran la Administración Pública de la Ciudad de México;
+XXXVIII. Presupuesto de Egresos: El Presupuesto de Egresos de la Ciudad de México del ejercicio fiscal correspondiente;
 
-XLI. Sujetos de Fiscalización:
+XXXIX. Procesos concluidos: Cualquier acción que se haya realizado durante el año fiscal en curso que deba registrarse como pagado conforme a la Ley General de Contabilidad Gubernamental;
 
-a. La Administración Pública del Gobierno de la Ciudad de México como se establece en el Título Quinto del Estatuto de Gobierno del Distrito Federal y en la Ley Orgánica de la Administración Pública de la Ciudad de México;
+XL. Reglamento: Reglamento Interior de la Auditoría Superior de la Ciudad de México;
 
-b. Los órganos autónomos: La Universidad Autónoma de la Ciudad de México, el Instituto Electoral, el Tribunal Electoral, la Comisión de Derechos Humanos, el Tribunal de lo Contencioso Administrativo, la Junta Local de Conciliación y Arbitraje, el Instituto de Acceso a la Información Pública y demás órganos de naturaleza autónoma que la Asamblea constituya o llegue a crear, todos de la Ciudad de México;
+XLI. Secretaría: Secretaría de la Contraloría General, dependencia de la Administración Pública de la Ciudad de México a quien le corresponde el despacho de las materias relativas al control y evaluación de la gestión pública de las dependencias, órganos desconcentrados y entidades que integran la Administración Pública de la Ciudad de México;
 
-c. Los Órganos de Gobierno: La Asamblea y el Tribunal Superior de Justicia, ambos de la Ciudad de México;
+> <small>[N. DE E. REFORMADA CON SUS INCISOS, ANTES FRACCIÓN XLI, G.O. 27 DE NOVIEMBRE DE 2018]</small>
+
+XLII. Sujetos de Fiscalización:
+
+a. La Administración Pública del Gobierno de la Ciudad de México;
+
+b. Los órganos autónomos: La Universidad Autónoma de la Ciudad de México, el Instituto Electoral, el Tribunal Electoral, la Comisión de Derechos Humanos, el Tribunal de lo Contencioso Administrativo, la Junta Local de Conciliación y Arbitraje, el Instituto de Acceso a la Información Pública y demás órganos de naturaleza autónoma que el Congreso constituya o llegue a crear, todos de la Ciudad de México;
+
+c. Los Órganos de Gobierno: El Congreso y el Tribunal Superior de Justicia, ambos de la Ciudad de México;
 
 d. Cualquier entidad, persona física o moral, pública o privada que hubiera contratado con los entes fiscalizados obras públicas, bienes o servicios mediante cualquier título legal y/o que haya recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos pertenecientes a la hacienda de la Ciudad de México, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines; y
 
 e. Los mandatarios, fiduciarios o cualquier otra figura análoga, así como el mandato o fideicomiso público o privado que administre, cuando haya recibido por cualquier título, recursos públicos.
 
-XLII. Tribunal: el Tribunal de Justicia Administrativa de la Ciudad de México;
+XLIII. Tribunal: el Tribunal de Justicia Administrativa de la Ciudad de México;
 
-XLIII. Unidad de Cuenta de la Ciudad de México: El valor que sustituye el concepto de salario mínimo para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia.
+XLIV. Unidad de Cuenta de la Ciudad de México: El valor que sustituye el concepto de salario mínimo para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia.
 
 Las definiciones previstas en los artículos 2 de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal; 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 4 de la Ley General de Contabilidad Gubernamental, serán aplicables a la presente Ley; y
 
-XLIV. Visita: Diligencia de carácter administrativo que tiene por objeto comprobar el cumplimiento de las disposiciones legales y reglamentarias.
+XLV. Visita: Diligencia de carácter administrativo que tiene por objeto comprobar el cumplimiento de las disposiciones legales y reglamentarias.
 
 > <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -170,27 +180,37 @@ La función fiscalizadora que realiza la Auditoría Superior, tiene carácter ex
 
 La Auditoría Superior en el desempeño de sus atribuciones tendrá el carácter de autoridad administrativa, contará con personalidad jurídica, patrimonio propio y gozará de autonomía técnica y de gestión para decidir sobre su organización interna, funcionamiento, determinaciones y resoluciones; de conformidad con lo dispuesto por esta Ley y su Reglamento Interior.
 
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 4.
 
-La Auditoría Superior remitirá a la Asamblea por conducto de la Comisión el Informe de Resultados, los informes parciales de las auditorías practicadas, y en su caso, de las irregularidades administrativas, deficiencias o hallazgos producto de las mismas.
+La Auditoria Superior remitirá al Congreso por conducto de la Comisión el Informe de resultados, los informes parciales de las auditorías practicadas, y en su caso, de las irregularidades administrativas, deficiencias o hallazgos producto de las mismas.
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
-Corresponde al Auditor Superior la aprobación y expedición del Reglamento Interior de la Auditoría Superior en el que se establecerán sus atribuciones, la de las unidades administrativas, las suplencias y ausencias de sus Titulares; salvaguardando la autonomía técnica y de gestión que constitucionalmente se le confiere a la Auditoría Superior de la Ciudad de México; debiendo ser publicado el Reglamento Interior en la Gaceta Oficial del Distrito Federal.
+Corresponde al Auditor Superior la aprobación y expedición del Reglamento Interior de la Auditoría Superior en el que se establecerán sus atribuciones, la de las unidades administrativas, las suplencias y ausencias de sus Titulares; salvaguardando la autonomía técnica y de gestión que constitucionalmente se le confiere a la Auditoría Superior de la Ciudad de México; debiendo ser publicado el Reglamento Interior en la Gaceta Oficial de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 6.
 
-La Asamblea establecerá la comunicación y coordinación necesarias con la Cámara de Diputados del Congreso de la Unión, para que, a través de sus respectivos órganos técnicos, puedan evaluar si los convenios suscritos entre la Federación y la Ciudad de México, se cumplen en sus términos, y si las transferencias de presupuesto, bienes patrimoniales, muebles e inmuebles y otros; proporcionadas a la Ciudad de México fueron aplicadas conforme a los programas respectivos.
+El Congreso establecerá la comunicación y coordinación necesarias con la Cámara de Diputados del Congreso de la Unión, para que, a través de sus respectivos órganos técnicos, puedan evaluar si los convenios suscritos entre la Federación y la Ciudad de México, se cumplen en sus términos, y si las transferencias de presupuesto, bienes patrimoniales muebles e inmuebles y otros; proporcionadas a la Ciudad de México fueron aplicadas conforme a los programas respectivos.
 
-La Asamblea también establecerá comunicación con las legislaturas de los Estados, para los mismos efectos señalados en el párrafo anterior, en relación con el cabal cumplimiento de los convenios y acuerdos de coordinación celebrados por la Ciudad de México con entidades federativas.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+El Congreso también establecerá comunicación con las legislaturas de los Estados, para los mismos efectos señalados en el párrafo anterior, en relación con el cabal cumplimiento de los convenios y acuerdos de coordinación celebrados por la Ciudad de México con entidades federativas.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 La Auditoría Superior vigilará que los sujetos de fiscalización adopten e implementen las acciones y medidas para atender las observaciones y recomendaciones que formule conforme a la Ley y formen parte del Informe General. Para tal efecto, la Auditoría Superior implementará el Programa de Atención y Seguimiento de Recomendaciones y se coordinará para su cumplimiento con la Secretaría en aquellos casos que, para la atención y seguimiento de recomendaciones formuladas a los sujetos de fiscalización, deban concurrir e intervenir instituciones públicas distintas, éstas deberán prestar de forma inmediata el auxilio y apoyo necesario para la atención de las recomendaciones correspondientes. Los servidores públicos encargados de dicho apoyo, serán responsables de dicha omisión y/o negativa correspondiente, en términos de la Ley de Responsabilidades Administrativas de la Ciudad de México y, en su caso, en términos de la legislación penal aplicable.
 
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+
 Los Sujetos de Fiscalización deberán informar y acreditar a la Auditoría Superior trimestralmente las acciones que realicen con el objetivo de solventar las recomendaciones que ésta les formule; en caso de omisión y que ésta sea considerada como falta administrativa no grave en términos de la Ley de Responsabilidades Administrativas de la Ciudad de México, la Auditoría Superior informará a el Órgano Interno de Control que corresponda, para que dentro del ámbito de su competencia determine las acciones a seguir para la atención inmediata de las recomendaciones y determine lo conducente respecto de la responsabilidad de las personas servidoras públicas encargados de su atención. Si la omisión es de las señaladas como falta administrativa grave, la Auditoría Superior iniciará la investigación y la substanciación de los procedimientos de responsabilidad administrativa correspondientes, en los términos que determina (sic) Ley de Responsabilidades Administrativas de la Ciudad de México; asimismo, en los casos que procedan, presentarán la denuncia correspondiente ante el Ministerio Público competente.
+
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
 La fiscalización y evaluación que realice la Auditoría Superior y las auditorías que practique a la gestión financiera de los sujetos de fiscalización, son independientes de cualquier otra que se efectúe internamente.
 
@@ -234,9 +254,9 @@ IX. Conforme a lo dispuesto en la fracción precedente, realizar la inspección 
 
 X. Requerir a los auditores externos de los sujetos de fiscalización, copias de los informes o dictámenes de las auditorías y revisiones por ellos practicadas y las aclaraciones, que en su caso, se estimen pertinentes;
 
-XI. Establecer la coordinación con los sujetos de fiscalización para la estricta observancia y aplicación de las normas, sistemas, métodos y procedimientos de contabilidad y archivo integral; así como los documentos relativos al ingreso y gasto público. También, considerar todos aquellos elementos que sustenten y justifiquen revisiones derivadas del análisis previo de la Cuenta Pública, así como de revisiones especiales que el Pleno de la Asamblea solicite a través de la Comisión en términos de la presente ley, para lo cual todas las revisiones que se determinen deberán incluirse en el Programa General de Auditorías que se sujetará a lo establecido en el manual de selección de auditorías aprobado y expedido por el Auditor Superior.
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-Para la implantación de su Programa General de Auditorías, la Auditoría Superior deberá tomar en consideración las auditorías realizadas, o que se encuentren desarrollando por la Contraloría correspondientes al ejercicio fiscal de la cuenta pública de que se trate, a efecto de evitar duplicidad de esfuerzos y optimizar la aplicación de recursos;
+XI. Establecer la coordinación con los sujetos de fiscalización para la estricta observancia y aplicación de las normas, sistemas, métodos y procedimientos de contabilidad y archivo integral; así como los documentos relativos al ingreso y gasto público. También, considerar todos aquellos elementos que sustenten y justifiquen revisiones derivadas del análisis previo de la Cuenta Pública, así como de revisiones especiales que el Pleno del Congreso solicite a través de la Comisión en términos de la presente ley, para lo cual todas las revisiones que se determinen deberán incluirse en el Programa General de Auditorías que se sujetará a lo establecido en el manual de selección de auditorías aprobado y expedido por el Auditor Superior.
 
 XII. Solicitar, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con los sujetos de fiscalización, la información relacionada con la documentación justificativa y comprobatoria de la Cuenta Pública a efecto de realizar las compulsas y certificaciones correspondientes;
 
@@ -262,9 +282,9 @@ XVII. Promover y dar seguimiento ante las autoridades competentes para la imposi
 
 XVIII. Impugnar, a través de la unidad administrativa a cargo de las investigaciones de la Auditoría, las determinaciones del Tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-XIX. Participar en el Sistema Anticorrupción de la Ciudad de México, así como en su Comité Coordinador, en los términos aplicables en las leyes en la materia;
+XIX. Participar en el Sistema Anticorrupción de la Ciudad de México, así como en el Comité Coordinador y el Comité Rector del mismo, en los términos aplicables en las leyes en la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -280,13 +300,17 @@ XXII. Interpretar esta Ley para efectos administrativos, y aclarar y resolver la
 
 XXIII. Establecer las normas, procedimientos, métodos, sistemas de contabilidad y archivo, de libros, documentos justificativos y comprobatorios del ingreso y gasto público, así como todos aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, de conformidad con las características propias de su operación, ajustándose a la legislación aplicable;
 
-XXIV. Llevar a cabo, en forma adicional a su programa anual de trabajo, la práctica de visitas, inspecciones, evaluaciones, revisiones y auditorías especiales a los sujetos de fiscalización comprendidos en la Cuenta Pública en revisión, cuando así lo solicite el Pleno de la Asamblea, en términos de la presente ley, y exista causa justificada, viabilidad técnica y capacidad instalada para su atención; para tal efecto, la Asamblea, implementará acciones para dotar a la Auditoría Superior de los Recursos presupuestales adicionales que se requieran mediante la autorización de ampliaciones liquidas al presupuesto autorizado a la Auditoria Superior;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+XXIV. Llevar a cabo, en forma adicional a su programa anual de trabajo, la práctica de visitas, inspecciones, evaluaciones, revisiones y auditorías especiales a los sujetos de fiscalización comprendidos en la Cuenta Pública en revisión, cuando así lo solicite el Pleno del Congreso, en términos de la presente ley, y exista causa justificada, viabilidad técnica y capacidad instalada para su atención; para tal efecto, el Congreso, implementará acciones para dotar a la Auditoría Superior de los Recursos presupuestales adicionales que se requieran mediante la autorización de ampliaciones liquidas al presupuesto autorizado a la Auditoria Superior;
 
 XXV. Vigilar que los sujetos de fiscalización, atiendan las observaciones y solventen las recomendaciones que se les formulen. Para lo cual llevará a cabo acciones para dar seguimiento puntual sobre las recomendaciones emitidas e informará a la Comisión sobre el avance de las acciones, así como de la atención de las recomendaciones; para ello elaborará el Programa de Atención a Recomendaciones correspondiente;
 
 XXVI. Requerir a los sujetos de fiscalización y/o autoridades competentes y/o terceros; la información y documentación relacionada con la revisión de la Cuenta Pública; a fin de realizar diligencias, actuaciones, compulsas y certificaciones que en cumplimiento de sus funciones corresponda;
 
-XXVII. Revisar de manera concreta información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al de la Cuenta Pública en revisión, cuando la actividad institucional, programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales; ello, sin perjuicio del principio de anualidad tutelado por los artículos 74, fracción VI, 122 apartado C, Base Primera, Fracción V, inciso c), de la Constitución Política de los Estados Unidos Mexicanos y 43 del Estatuto de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+XXVII. Revisar de manera concreta información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al de la Cuenta Pública en revisión, cuando la actividad institucional, programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales; ello, sin perjuicio del principio de anualidad tutelado por el artículo 62 numeral 2, párrafo primero, y numeral 4 de la Constitución Política de la Ciudad de México;
 
 XXVIII. Practicar auditorías al desempeño, a efecto de verificar el cumplimiento de los objetivos contenidos en los programas mediante la estimación o cálculo de los resultados obtenidos en términos cualitativos o cuantitativos, o ambos;
 
@@ -352,7 +376,9 @@ I. La Comisión emitirá una convocatoria pública a efecto de recibir durante l
 
 II. Concluido el plazo anterior y recibidas las solicitudes con los requisitos y documentos que señale la convocatoria, la Comisión, dentro de los cinco días naturales siguientes, procederá a la revisión y análisis de las mismas y publicará una lista que contenga los nombres de los candidatos seleccionados, como máximo veinte, que cumplan con los requisitos y que a juicio de la Comisión resulten idóneos por su experiencia profesional, capacidad y trayectoria para ocupar el cargo. Dentro de los diez días naturales siguientes a la publicación de la lista se les citará para una entrevista en donde entregarán un ensayo sobre un tema que señale la Comisión.
 
-III. Dentro de los tres días siguientes a la conclusión de entrevistas de candidatos, la Comisión remitirá al Pleno de la Asamblea, una terna para elegir al Auditor Superior, quien será designado por mayoría calificada de las dos terceras partes de los diputados presentes en el Pleno de la Asamblea.
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+III. Dentro de los tres días siguientes a la conclusión de entrevistas de candidatos, la Comisión remitirá al Pleno del Congreso, una terna para elegir al Auditor Superior, quien será designado por mayoría calificada de las dos terceras partes de los diputados presentes en el Pleno del Congreso.
 
 IV. En caso de que ninguno de los candidatos, de la tema propuesta a ocupar el cargo de Auditor Superior haya obtenido la votación necesaria, de la lista publicada, se integrará una terna dentro de los tres días naturales siguientes.
 
@@ -362,15 +388,21 @@ Para la ratificación del Auditor Superior se seguirá el siguiente procedimient
 
 I. La Comisión valorara el desempeño del Auditor Superior y en caso de que lo estime favorable le solicitara por escrito si es su voluntad continuar en el encargo por un periodo igual;
 
-II. En caso de contar con una respuesta afirmativa por parte del Auditor Superior, la Comisión someterá al Pleno de la Asamblea la propuesta de ratificación por un periodo igual.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+II. En caso de contar con una respuesta afirmativa por parte del Auditor Superior, la Comisión someterá al Pleno del Congreso la propuesta de ratificación por un periodo igual.
 
 De no emitir el Auditor Superior una respuesta afirmativa dentro de los tres días hábiles siguientes, la Comisión iniciara el procedimiento para la designación de un nuevo Auditor Superior;
 
-III. El Pleno de la Asamblea deberá aprobar la propuesta por una mayoría calificada de las dos terceras partes de los diputados presentes en el Pleno de la Asamblea.
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+III. El Pleno del Congreso, deberá aprobar la propuesta por una mayoría calificada de las dos terceras partes de los diputados presentes en el Pleno del Congreso.
 
 La ausencia temporal del Auditor Superior, será suplida por el servidor público que el propio Auditor Superior designe para tal efecto, a falta de tal designación será suplido en los términos que para tal efecto señale el Reglamento Interior.
 
-El Auditor Superior protestará ante el Pleno de la Asamblea guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, el Código, la Ley Orgánica de la Asamblea, la Ley y las demás disposiciones aplicables.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+El Auditor Superior protestará ante el Pleno del Congreso, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México, el Código, la Ley Orgánica del Poder legislativo de la Ciudad de México, la Ley y las demás disposiciones aplicables.
 
 ###### Artículo 11.
 
@@ -398,17 +430,15 @@ VIII. No haber sido ministro de culto religioso un año antes al día de la elec
 
 En el supuesto de ratificación, el proceso se realizara de manera directa a propuesta de la Comisión sin que sea necesario acreditar los requisitos antes señalados en virtud de encontrarse acreditados previamente al momento de la designación.
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 12.
 
-Durante su encargo, el Auditor Superior no podrá recibir más remuneraciones que las que determine la Asamblea, ni podrá estar al servicio de organismos, empresas, instituciones privadas o particulares, ocupar cargos de elección popular o directivos en ningún partido político; ni desempeñar cargo alguno en la federación, estados, municipios o el Distrito Federal, a excepción de las actividades docentes.
-
-El Auditor Superior el año siguiente a la terminación de su encargo, no podrá desempeñar comisiones o empleos en el Gobierno de la Ciudad de México; a excepción de aquellos cargos que se vinculen con funciones de control gubernamental, fiscalización y fincamiento de responsabilidades.
+Durante su encargo, el Auditor Superior no podrá recibir más remuneraciones que las que determine el Congreso, ni podrá estar al servicio de organismos, empresas, instituciones privadas o particulares, ocupar cargos de elección popular o directivos en ningún partido político; ni desempeñar cargo alguno en la federación, estados, municipios o la Ciudad de México, a excepción de las actividades docentes.
 
 ###### Artículo 13.
 
 Sólo procederá la remoción del Auditor Superior por las siguientes causas:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -424,17 +454,21 @@ V. Ausentarse de sus labores por más de treinta días naturales, sin causa just
 
 VI. Por faltas graves a las normas que rigen el funcionamiento de la Auditoría Superior de la Ciudad de México.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 En todos los casos las propuestas de remoción deberán estar debidamente fundadas, motivadas y soportadas probatoriamente por parte de la Comisión de conformidad con la Ley que establece el Procedimiento de Remoción de los Servidores Públicos que designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político Administrativos de la Ciudad de México.
 
-Si se presentare alguna de las causales enunciadas en las fracciones precedentes durante el receso de la Asamblea, la Comisión de Gobierno, a propuesta de las Comisiones Jurisdiccional y de Vigilancia de la Auditoría Superior, podrá suspender al Auditor Superior en el ejercicio de sus funciones, para que el Pleno de la Asamblea, de conformidad con la Ley que establece el Procedimiento de Remoción de los Servidores Públicos que designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político Administrativos de la Ciudad de México, por la mayoría calificada que lo designo, apruebe su remoción en forma definitiva en el siguiente período ordinario de sesiones.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+Si se presentare alguna de las causales enunciadas en las fracciones precedentes durante el receso del Congreso la Junta de Coordinación Política, a propuesta de las Comisiones Jurisdiccional y de Vigilancia de la Auditoría Superior, podrá suspender al Auditor Superior en el ejercicio de sus funciones, para que el Pleno del Congreso, de conformidad con la Ley que establece el Procedimiento de Remoción de los Servidores Públicos que designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político Administrativos de la Ciudad de México, por la mayoría calificada que lo designo, apruebe su remoción en forma definitiva en el siguiente período ordinario de sesiones.
 
 ###### Artículo 14.
 
 El Auditor Superior, como autoridad ejecutiva, tendrá específicamente las siguientes facultades:
 
-> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-I. Representar a la Auditoría Superior ante toda clase de autoridades, entidades, personas físicas y morales y ante el Comité Coordinador del Sistema Anticorrupción de la Ciudad de México;
+I. Representar a la Auditoría Superior ante toda clase de autoridades, entidades, personas físicas y morales y ante el Comité Coordinador y el Comité Rector del Sistema Anticorrupción de la Ciudad de México;
 
 II. Promover ante las autoridades competentes:
 
@@ -466,9 +500,9 @@ VIII. Comisionar auditores en términos del artículo 32 de este ordenamiento.
 
 IX. Nombrar al personal de la Auditoría Superior;
 
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-X. Aprobar el Proyecto de Presupuesto Anual de la Auditoría Superior y presentarlo a la Comisión a más tardar el día 15 del mes de noviembre, para su conocimiento y opinión. Una vez conocido, la Comisión lo turnará a la Comisión de Gobierno para que se incluya de manera consolidado en el Proyecto de Presupuesto de la Asamblea Legislativa del siguiente ejercicio fiscal;
+X. Aprobar el Proyecto de Presupuesto Anual de la Auditoría Superior y presentarlo a la Comisión a más tardar el día 15 del mes de noviembre, para su conocimiento y opinión. Una vez conocido, la Comisión lo turnará a la Junta de Coordinación Política para que se incluya de manera consolidado en el Proyecto de Presupuesto del Congreso del siguiente ejercicio fiscal;
 
 > <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
 
@@ -520,9 +554,9 @@ XXII. Administrar los bienes y recursos a cargo de la Auditoría Superior y reso
 
 XXIII. Proponer a la Comisión iniciativas de Ley; y
 
-> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-XXIV. En general, todas las que deriven de las Leyes Generales, esta Ley, de su Reglamento, de la Ley del Sistema Anticorrupción de la Ciudad de México, la legislación en materia de combate a la corrupción y de las disposiciones generales y acuerdos que dicte la Asamblea.
+XXIV. En general, todas las que deriven de las Leyes Generales, esta Ley, de su Reglamento, de la Ley del Sistema Anticorrupción de la Ciudad de México, la legislación en materia de combate a la corrupción y de las disposiciones generales y acuerdos que dicte el Congreso.
 
 > <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -546,13 +580,17 @@ El Auditor Superior podrá delegar facultades, a excepción de aquellas que deba
 
 Las Unidades Administrativas que integren la Auditoría Superior tendrán las atribuciones que determinen el Reglamento Interior o el acuerdo que emita el Auditor Superior.
 
-Los mandatos y/o acuerdos por los cuales se deleguen facultades o creen y/o adscriban unidades administrativas se publicarán para su observancia en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+Los mandatos y/o acuerdos por los cuales se deleguen facultades o creen y/o adscriban unidades administrativas se publicarán para su observancia en la Gaceta Oficial de la Ciudad de México.
 
 ###### Artículo 17.
 
 El Auditor Superior a través del Reglamento Interior y/o Acuerdos respectivos fijará las unidades administrativas de la estructura orgánica de la Auditoría Superior, así como las funciones y facultades de cada uno de sus titulares.
 
-### CAPÍTULO TERCERO. DE LA CONTRALORÍA GENERAL DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO TERCERO. DE LA CONTRALORÍA GENERAL DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
 > <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -566,7 +604,9 @@ Las funciones de control interno de la Auditoría Superior y de las personas ser
 
 La Contraloría General de la Auditoría Superior tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos de la Auditoría Superior. Al frente de la Contraloría General de la Auditoría Superior habrá un Contralor General, a quien corresponde la representación, trámite y resolución de los asuntos de la competencia de esa unidad administrativa, y para la mejor distribución y desarrollo del trabajo podrá auxiliarse de las áreas de Auditoría; de Legalidad y Responsabilidades; de Control y Evaluación; y de los servidores públicos subalternos de conformidad con el Reglamento.
 
-El Contralor General de la Auditoría Superior, durará siete años en su encargo sin posibilidad de ser reelecto, será propuesto por la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal, ante el Pleno del mencionado Órgano Parlamentario, mismo que por el voto de la mayoría de sus integrantes, efectuara la designación correspondiente.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+El Contralor General de la Auditoría Superior, durará siete años en su encargo sin posibilidad de ser reelecto, será propuesto por la Junta de Coordinación Política del Congreso de la Ciudad de México, ante el Pleno del mencionado Órgano Parlamentario, mismo que por el voto de la mayoría de sus integrantes, efectuará la designación correspondiente.
 
 En el caso de ausencia del Contralor General de la Auditoría Superior, será suplido por los Titulares de las Áreas de Auditoría; de Legalidad y Responsabilidades; o de Control y Evaluación, en el orden citado.
 
@@ -588,9 +628,9 @@ IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
 Artículo 18 Quarter.- El Contralor General de la Auditoría Superior tendrá las siguientes obligaciones y atribuciones:
 
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-I. Presentar al Pleno de la Asamblea, por conducto de la Comisión un informe semestral, dentro de los diez días naturales posteriores al periodo a informar, sobre el ejercicio del presupuesto de egresos de la Auditoría Superior.
+I. Presentar al Pleno del Congreso, por conducto de la Comisión un informe semestral, dentro de los diez días naturales posteriores al periodo a informar, sobre el ejercicio del presupuesto de egresos de la Auditoría Superior.
 
 II. Dar a conocer previamente al Auditor Superior las resoluciones que emita.
 
@@ -600,7 +640,9 @@ III. Apoyar, asistir y asesorar a la Comisión, a la Auditoría Superior y a las
 
 IV. Conocer e investigar los actos u omisiones de las personas servidoras públicas adscritos a las unidades administrativas de la Auditoría Superior, que afectan la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión; derivadas de quejas o denuncias presentadas por particulares, personas servidoras públicas o aquellas relacionadas con auditorías y en especial las relacionadas con los procedimientos de adquisición de bienes, servicios, arrendamientos y contratación de obra pública, así como determinar e imponer las sanciones que correspondan por faltas no graves en los términos de la legislación en materia de responsabilidades administrativas vigente en la Ciudad de México, las cuales se aplicarán a través del superior jerárquico de la persona servidoras (sic) pública sancionada; o bien, sustanciar y turnar conforme lo señale la legislación los hechos considerados como faltas graves, o hechos constitutivos de delitos. Asimismo, le corresponderá sustanciar y resolver los recursos de revocación que se promuevan en contra de las resoluciones en las que imponga sanciones a las personas servidoras públicas de la Auditoría Superior, en términos de las disposiciones jurídicas y administrativas aplicables, y demás que las leyes prevean que deba conocer;
 
-V. Verificar que las unidades administrativas que integran la Auditoría Superior cumplan con las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestos, ingresos, financiamiento, inversión, deuda, fondos, valores y bienes del Distrito Federal en administración de la Auditoría Superior: así como las demás disposiciones relativas que dicten el Pleno de la Asamblea;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+V. Verificar que las unidades administrativas que integran la Auditoría Superior cumplan con las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestos, ingresos, financiamiento, inversión, deuda, fondos, valores y bienes de la Ciudad de México en administración de la Auditoría Superior: así como las demás disposiciones relativas que dicte el Pleno del Congreso;
 
 VI. Auxiliar a las Unidades Administrativas de la Auditoría Superior, en la elaboración y revisión de los manuales de organización y procedimientos, promoviendo y supervisando su difusión, aplicación y actualización, con énfasis en el aspecto preventivo;
 
@@ -630,7 +672,9 @@ XIV. Fiscalizar e Inspeccionar el ejercicio del gasto público y su congruencia 
 
 XV. Participar en los actos de entrega recepción de la Auditoría Superior, en términos de la normatividad aplicable;
 
-XVI. Llevar el registro de los servidores públicos sancionados de las unidades administrativas de la Auditoría Superior en los términos de la Ley de Responsabilidades de Servidores Públicos vigente en el Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+XVI. Llevar el registro de los servidores públicos sancionados de las unidades administrativas de la Auditoría Superior en los términos de la Ley de Responsabilidades Administrativas de la Ciudad de México;
 
 XVII. Llevar el registro patrimonial de los servidores públicos de la Auditoría Superior, y en su caso aplicar las sanciones que establezca la Ley de la materia;
 
@@ -656,19 +700,31 @@ XXIII. Las demás que le sean atribuidas por la Ley y demás disposiciones norma
 
 Son atribuciones de la Comisión, sin perjuicio de la autonomía técnica y de gestión de la Auditoría Superior las siguientes:
 
-I. Recibir de la Comisión de Gobierno de la Asamblea, la Cuenta Pública;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+I. Recibir de la Junta de Coordinación Política del Congreso, la Cuenta Pública;
 
 II. Turnar la Cuenta Pública a la Auditoría Superior para su revisión, así como a la Comisión de Presupuesto y Cuenta Pública, para su conocimiento;
 
-III. Solicitar a la Auditoría Superior con relación a la Cuenta Pública en revisión, cuando lo determine el Pleno de la Asamblea en términos de la presente ley, informes o aclaraciones respecto de actividades de los sujetos de fiscalización, para lo cual la Auditoría Superior podrá realizar la práctica de visitas, inspecciones, evaluaciones, revisiones y auditorías a los sujetos de fiscalización, mismas que deberán estar plenamente justificadas;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-IV. Conocer y opinar respecto del Proyecto de Presupuesto de la Auditoría Superior y turnarlo a la Comisión de Gobierno para su presentación de forma consolidada en el Proyecto de Presupuesto de la Asamblea;
+III. Solicitar a la Auditoría Superior con relación a la Cuenta Pública en revisión, cuando lo determine el Pleno del Congreso en términos de la presente ley, informes o aclaraciones respecto de actividades de los sujetos de fiscalización, para lo cual la Auditoría Superior podrá realizar la práctica de visitas, inspecciones, evaluaciones, revisiones y auditorías a los sujetos de fiscalización, mismas que deberán estar plenamente justificadas;
 
-V. Proponer al Pleno de la Asamblea en los términos de esta Ley, los candidatos a Auditor Superior y su remoción cuando proceda legalmente;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-VI. Ser el conducto de comunicación entre la Asamblea y la Auditoría Superior y garantizar la debida coordinación entre ambos órganos;
+IV. Conocer y opinar respecto del Proyecto de Presupuesto de la Auditoría Superior y turnarlo a la Junta de Coordinación Política para su presentación de forma consolidada en el Proyecto de Presupuesto del Congreso;
 
-VII. Coordinar la realización de los estudios, proyectos de análisis y evaluación; y ejecución de los mandatos aprobados por el Pleno de la Asamblea;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+V. Proponer al Pleno del Congreso en los términos de esta Ley, los candidatos a Auditor Superior y su remoción cuando proceda legalmente;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+VI. Ser el conducto de comunicación entre el Congreso y la Auditoría Superior y garantizar la debida coordinación entre ambos órganos;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+VII. Coordinar la realización de los estudios, proyectos de análisis y evaluación; y ejecución de los mandatos aprobados por el Pleno del Congreso;
 
 > <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -676,7 +732,9 @@ VIII. Evaluar el desempeño y el cumplimiento de funciones de la Auditoría Supe
 
 IX. Conocer el Programa General de Auditorías;
 
-X. Proponer al Pleno de la Asamblea la integración en su seno de subcomités para el análisis, revisión, autorización de los aspectos presupuestales, administrativos y financieros que se requieran, derivadas de las revisiones de la Auditoría Superior;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+X. Proponer al Pleno del Congreso la integración en su seno de subcomités para el análisis, revisión, autorización de los aspectos presupuestales, administrativos y financieros que se requieran, derivadas de las revisiones de la Auditoría Superior;
 
 > <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -688,11 +746,13 @@ XII. Promover la difusión para el conocimiento ciudadano de los resultados de l
 
 XIII. Recibir el Informe General, Parcial, Individual, específico y citar a comparecer al Auditor Superior para que en su caso, explique los resultados obtenidos de la fiscalización superior y las acciones necesarias para su cumplimiento y seguimiento.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-XIV. Realizar todas las actividades relativas a la rendición de cuentas que la Ley Orgánica de la Asamblea Legislativa y demás legislación aplicable determine.
+XIV. Realizar todas las actividades relativas a la rendición de cuentas que la Ley Orgánica del Congreso de la Ciudad de México y demás legislación aplicable determine.
 
-XV. Las demás que le confiera la Ley Orgánica de la Asamblea, está Ley, y demás disposiciones Legales.
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+XV. Las demás que le confiera la Ley Orgánica del Congreso, está Ley, y demás disposiciones Legales.
 
 ### CAPÍTULO QUINTO. DEL RÉGIMEN LABORAL DEL PERSONAL
 
@@ -708,19 +768,23 @@ En los casos que se encuentre debidamente justificados, se podrá integrar perso
 
 El Servicio Profesional Fiscalizador de Carrera de la Auditoría Superior, el personal auditor y todo aquel trabajador que en el desempeño de sus funciones tenga relación y/o acceso a la información generada en la práctica de auditorías es de confianza y se regirá en los términos de los artículos 123, Apartado B, fracción XIV, de la Constitución Política de los Estados Unidos Mexicanos, 13, del Estatuto de Gobierno del Distrito Federal y 5°, fracción III y 7°, de la Ley Federal de Trabajadores al Servicio del Estado Reglamentaría de dicho artículo, el Estatuto de Gobierno del Distrito Federal, la presente Ley, el Reglamento Interior, el Estatuto que regule su operación y funcionamiento y los acuerdos que al respecto emita el Auditor Superior.
 
-### CAPÍTULO SEXTO. DE LA CUENTA PÚBLICA DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO SEXTO. DE LA CUENTA PÚBLICA DE LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 22.
 
-La Cuenta Pública se constituye por los estados contables, financieros, presupuestarios, programáticos, patrimoniales y demás información cuantitativa y cualitativa que muestre el registro y los resultados de la ejecución de la Ley de Ingresos, del ejercicio del Presupuesto de Egresos y otras cuentas de activo y pasivo de los sujetos de fiscalización bajo el control presupuestal de la Asamblea, así como el estado de la deuda pública y la información estadística pertinente.
+La Cuenta Pública se constituye por los estados contables, financieros, presupuestarios, programáticos, patrimoniales y demás información cuantitativa y cualitativa que muestre el registro y los resultados de la ejecución de la Ley de Ingresos, del ejercicio del Presupuesto de Egresos y otras cuentas de activo y pasivo de los sujetos de fiscalización bajo el control presupuestal del Congreso, así como el estado de la deuda pública y la información estadística pertinente.
 
-La Cuenta Pública deberá presentarse a la Asamblea en forma impresa y en medios magnéticos que permitan el uso de la tecnología de la información y faciliten el procesamiento de datos.
+La Cuenta Pública deberá presentarse al Congreso en forma impresa y en medios magnéticos que permitan el uso de la tecnología de la información y faciliten el procesamiento de datos.
 
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 23.
 
-La Cuenta Pública que el Jefe de Gobierno de la Ciudad de México presente a la Asamblea, a través de la Comisión de Gobierno, será turnada dentro del término de tres días hábiles posteriores a su recepción, por conducto de la Comisión para su revisión.
+La Cuenta Pública que el Jefe de Gobierno de la Ciudad de México presente al Congreso, a través de la Comisión de Gobierno, será turnada dentro del término de tres días hábiles posteriores a su recepción, por conducto de la Comisión para su revisión.
 
 ###### Artículo 24.
 
@@ -756,7 +820,9 @@ La Auditoría Superior y la Secretaría de Finanzas, dentro del ámbito de sus r
 
 Los microfilms y los archivos guardados mediante procesamiento electrónico a que se refiere el párrafo anterior, tendrán el valor que, en su caso, establezcan las disposiciones legales aplicables a las operaciones en ellos consignadas.
 
-### CAPÍTULO SÉPTIMO. DE LA REVISIÓN DE LA CUENTA PÚBLICA DEL GOBIERNO DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA REVISIÓN DE LA CUENTA PÚBLICA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
 > <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -768,17 +834,11 @@ Para tal efecto, podrá servirse y auxiliarse de cualquier medio lícito que con
 
 Al día hábil siguiente de la recepción de la Cuenta Pública de que se trate, la Auditoría Superior podrá requerir a los sujetos de fiscalización la información que ésta necesite para fortalecer sus revisiones e iniciar el proceso de planeación de la revisión de la Cuenta Pública del ejercicio de que se trate.
 
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 28.
 
-La revisión de la Cuenta Pública tiene por objeto determinar el resultado de la gestión financiera, así como verificar el cumplimiento de los objetivos contenidos en los programas, en el ejercicio al que corresponda la Cuenta Pública, y si fue congruente con el Código, la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal, así como con los programas y demás disposiciones aplicables.
-
-La revisión no solo comprenderá la conformidad de las partidas de ingresos y egresos, sino que se extenderá a una revisión legal, de gestión, programática, económica y contable del ingreso y del gasto públicos, y verificará la exactitud y la justificación de los cobros y pagos hechos, de acuerdo con los precios y tarifas autorizados o de mercado y de las cantidades erogadas, siempre vigilando que se obtengan mejores condiciones de precio, calidad y oportunidad.
-
-Asimismo, con el resultado de las pruebas y procedimientos de auditoría aplicados, verificará cuando haya indicios para ello, si existe la probable comisión de hechos considerados por la ley como hechos de corrupción en perjuicio de la Hacienda Pública de la Ciudad de México o aquellos que atentan contra el debido desempeño del servicio público.
-
-Además, se promoverá las acciones o denuncias correspondientes para la imposición de las sanciones administrativas y penales por las faltas graves que se adviertan derivado de sus auditorías e investigaciones, así como dar vista al Órgano Interno de Control según corresponda, cuando detecte la comisión de faltas administrativas no graves para que continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan.
+La revisión de la Cuenta Pública tiene por objeto determinar el resultado de la gestión financiera, así como verificar el cumplimiento de los objetivos contenidos en los programas, en el ejercicio al que corresponda la Cuenta Pública, y si fue congruente con el Código, la Ley de Ingresos y el Presupuesto de Egresos de la Ciudad de México, así como con los programas y demás disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -786,9 +846,9 @@ Además, se promoverá las acciones o denuncias correspondientes para la imposic
 
 La Auditoría Superior por sí misma, o bien por Acuerdo del Pleno de Órgano Legislativo Local, podrá realizar auditorías fuera de su Programa General de Auditorías sobre ejercicios anteriores, o bien el ejercicio en curso sobre actos, procesos y procedimientos concluidos cuando se presuma alguno de los siguientes supuestos:
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-I. Un daño patrimonial que afecte la Hacienda Pública del Distrito Federal o, en su caso, al patrimonio de los entes públicos o de las entidades paraestatales, por un monto que resulte superior a cien mil veces la Unidad de Cuenta de la Ciudad de México vigente;
+I. Un daño patrimonial que afecte la Hacienda Pública de la Ciudad de México o, en su caso, al patrimonio de los entes públicos o de las entidades paraestatales, por un monto que resulte superior a cien mil veces la Unidad de Cuenta de la Ciudad de México vigente;
 
 II. Posibles actos de corrupción;
 
@@ -814,19 +874,25 @@ La Auditoría Superior, para el cumplimiento de las atribuciones que le correspo
 
 I. Revisar si las operaciones se efectuaron correctamente y si los estados financieros se presentaron en tiempo oportuno, de forma veraz y en términos accesibles de acuerdo con los principios de contabilidad aplicables al sector público;
 
-II. Verificar si alcanzaron con eficiencia y eficacia los objetivos y metas fijados en los programas y subprogramas, en relación a los recursos humanos, materiales y financieros aplicados conforme al Presupuesto de Egresos del Distrito Federal y al calendario aprobado para su ejercicio;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+II. Verificar si alcanzaron con eficiencia y eficacia los objetivos y metas fijados en los programas y subprogramas, en relación a los recursos humanos, materiales y financieros aplicados conforme al Presupuesto de Egresos de la Ciudad de México y al calendario aprobado para su ejercicio;
 
 III. Verificar el estado que guardan los programas y los presupuestos, así como los resultados de su ejecución, con los objetivos, estrategias y prioridades de los programas sectoriales e institucionales, en su caso, de corto y mediano plazos;
 
-IV. Determinar si cumplieron en la recaudación de los ingresos y en la aplicación de sus presupuestos con el Código, la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+IV. Determinar si cumplieron en la recaudación de los ingresos y en la aplicación de sus presupuestos con el Código, la Ley de Ingresos y el Presupuesto de Egresos de la Ciudad de México;
 
 V. Verificar la existencia de conductas que la Ley considera como hechos de corrupción o atentados contra el debido desempeño de la administración pública;
 
 VI. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes conforme lo establezca la legislación en la materia ante las instancias competentes, para la imposición de las sanciones que correspondan;
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 31.
 
-El Jefe de Gobierno del Distrito Federal a través de la dependencia correspondiente informará a la Auditoría Superior en los términos de esta Ley, respecto de los datos contenidos en registros y documentos justificativos, comprobatorios del ingreso y del gasto público; así como los correspondientes a la información financiera y al resultado de los programas y subprogramas correspondientes.
+El Jefe de Gobierno de la Ciudad de México a través de la dependencia correspondiente informará a la Auditoría Superior en los términos de esta Ley, respecto de los datos contenidos en registros y documentos justificativos, comprobatorios del ingreso y del gasto público; así como los correspondientes a la información financiera y al resultado de los programas y subprogramas correspondientes.
 
 ###### Artículo 32.
 
@@ -864,7 +930,9 @@ La Auditoría Superior, dará a conocer al sujeto fiscalizado el informe de resu
 
 Celebrada la confronta no se admitirá información o documentación, que en dicha diligencia no sea exhibida, anunciada o acredite haberla solicitado de manera previa; a excepción que complemente la exhibida en confronta y sea lo suficientemente justificable y comprobatoria para atender y solventar los resultados de auditoria, y sea exhibida quince días previos a la emisión del Informe final de Auditoría.
 
-La Auditoría Superior remitirá a los sujetos fiscalizados los informes finales de auditoria una vez aprobados por el Auditor Superior, dicha aprobación no podrá exceder de cuarenta y cinco días hábiles contados a partir de la confronta con el ente auditado. Asimismo, entregará a la Asamblea por conducto de la Comisión, dos informes parciales; uno el último día hábil de noviembre del año de presentación de la Cuenta Pública en revisión y otro el último día hábil de abril del año siguiente, en los cuales se incluirán los informes individuales que la Auditoría Superior concluya durante el periodo respectivo, un avance preliminar generado conforme a las normas de auditoría generalmente aceptadas sobre el estado que guardan los sujetos de fiscalización, y un reporte pormenorizado sobre el estado que guardan las revisiones comprendidas en el Programa General de Auditoría que contenga como mínimo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+La Auditoría Superior remitirá a los sujetos fiscalizados los informes finales de auditoria una vez aprobados por el Auditor Superior, dicha aprobación no podrá exceder de cuarenta y cinco días hábiles contados a partir de la confronta con el ente auditado. Asimismo, entregará al Congreso por conducto de la Comisión, dos informes parciales; uno el último día hábil de noviembre del año de presentación de la Cuenta Pública en revisión y otro el último día hábil de abril del año siguiente, en los cuales se incluirán los informes individuales que la Auditoría Superior concluya durante el periodo respectivo, un avance preliminar generado conforme a las normas de auditoría generalmente aceptadas sobre el estado que guardan los sujetos de fiscalización, y un reporte pormenorizado sobre el estado que guardan las revisiones comprendidas en el Programa General de Auditoría que contenga como mínimo:
 
 a) El grado de avance general de la ejecución del programa;
 
@@ -876,9 +944,13 @@ La Comisión podrá enviar observaciones sobre el Programa General de Auditoría
 
 En caso de que las observaciones sean atendidas la Comisión tendrá un plazo de 10 días hábiles para aprobar el Programa General de Auditorías; en caso de no ser atendidas, se tomarán como aceptadas.
 
-La Auditoría Superior deberá rendir a más tardar el 30 de abril del año siguiente a la recepción de la Cuenta Pública, el Informe de Resultados a la Asamblea, a través de la Comisión; este se integrará con los informes individuales relativos a una misma Cuenta Pública. Una vez presentado el Informe, éste se publicará en el portal de Internet de la Auditoría Superior, en formatos abiertos y accesibles.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-Si por causas que lo justifiquen, a juicio de la Comisión, el plazo no le fuera suficiente, la Auditoría Superior lo hará del conocimiento de la Asamblea, por conducto de la Comisión, y solicitará una prórroga para concluir la revisión o informe expresando las razones que funden y motiven su petición. En ningún caso la prórroga solicitada excederá de treinta días hábiles.
+La Auditoría Superior deberá rendir a más tardar el 30 de abril del año siguiente a la recepción de la Cuenta Pública, el Informe de Resultados al Congreso, a través de la Comisión; este se integrará con los informes individuales relativos a una misma Cuenta Pública. Una vez presentado el Informe, éste se publicará en el portal de Internet de la Auditoría Superior, en formatos abiertos y accesibles.
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+Si por causas que lo justifiquen, a juicio de la Comisión, el plazo no le fuera suficiente, la Auditoría Superior lo hará del conocimiento del Congreso, por conducto de la Comisión, y solicitará una prórroga para concluir la revisión o informe expresando las razones que funden y motiven su petición. En ningún caso la prórroga solicitada excederá de treinta días hábiles.
 
 Por ningún concepto y bajo ninguna circunstancia, la Auditoría Superior podrá expedir finiquitos sobre asunto o negocio alguno a los sujetos de fiscalización.
 
@@ -890,7 +962,9 @@ El Informe General contendrá además de la información que considere necesaria
 
 El Informe Individual, además de ser entregado en los términos señalados en la Ley, deberá contener los criterios de selección, el objetivo, el alcance, los procedimientos de auditoría aplicados y el resultado de la revisión, los nombres de las personas servidoras públicas de la Auditoría Superior a cargo de realizar la auditoría o, en su caso, de los despachos o profesionales independientes contratados para llevarla a cabo la misma, las observaciones, recomendaciones, acciones, con excepción de los informes de presunta responsabilidad administrativa, y en su caso denuncias de hechos; y un apartado específico en cada una de las auditorías realizadas donde se incluyan una síntesis de las justificaciones y aclaraciones que, en su caso, los sujetos fiscalizados hayan presentado en relación con los resultados y las observaciones que se les hayan hecho durante las revisiones.
 
-Si por causas que lo justifiquen, a juicio de la Comisión, el plazo no le fuera suficiente, la Auditoría Superior lo hará del conocimiento de la Asamblea, por conducto de la Comisión, y solicitará una prórroga para concluir la revisión o informe expresando las razones que funden y motiven su petición. En ningún caso la prórroga solicitada excederá de treinta días hábiles.
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+Si por causas que lo justifiquen, a juicio de la Comisión, el plazo no le fuera suficiente, la Auditoría Superior lo hará del conocimiento del Congreso, por conducto de la Comisión, y solicitará una prórroga para concluir la revisión o informe expresando las razones que funden y motiven su petición. En ningún caso la prórroga solicitada excederá de treinta días hábiles.
 
 La Comisión deberá remitir copia del Informe General al Comité Coordinador del Sistema Anticorrupción de la Ciudad de México y al Comité de Participación Ciudadana.
 
@@ -984,7 +1058,9 @@ Las responsabilidades no graves y graves que deriven de las revisiones practicad
 
 En el caso de la presunta comisión de delitos, la denuncia correspondiente será formulada por:
 
-I. La Asamblea o la Comisión de Gobierno, en su caso, en contra de los servidores públicos que sean de elección popular o por designación de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+I. El Congreso o la Junta de Coordinación Política, en su caso, en contra de los servidores públicos que sean de elección popular o por designación del Congreso de la Ciudad de México;
 
 II. La Auditoría Superior, contra el o los servidores públicos que no sean de elección popular, o que hayan dejado de fungir como tales.
 
@@ -1044,15 +1120,17 @@ Las responsabilidades resarcitorias a que se refiere la presente Ley, tendrán e
 
 ### CAPÍTULO DÉCIMO. DE LA PRESCRIPCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 49.
 
-Las acciones de carácter civil, resarcitorio, penal y administrativas a que se refiere esta Ley, prescribirán en los términos previstos en las leyes aplicables en la materia.
+Las acciones de carácter civil, resarcitorio, penal y administrativas a que se refiere esta Ley, prescribirán en los términos previstos en las leyes aplicables en la materia. Cuando los actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a siete años.
 
 La Auditoría Superior para evitar que los actos u omisiones prescriban, deberá dar puntual seguimiento ante las instancias correspondientes a los procesos en que se le reconozca legitimidad para promover, comparecer e intervenir hasta su conclusión.
 
-> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
 
-La Secretaría de Finanzas, la Secretaría, El Tribunal y la Procuraduría General de Justicia del Distrito Federal están obligadas a proporcionar la información pormenorizada del estado que guardan las acciones promovidas por la Auditoría Superior, así como los demás datos, información y documentación que la Auditoría Superior requiera para el debido ejercicio y cumplimiento de sus atribuciones.
+La Secretaría de Finanzas, la Secretaría, El Tribunal y la Procuraduría General de Justicia de la Ciudad de México están obligadas a proporcionar la información pormenorizada del estado que guardan las acciones promovidas por la Auditoría Superior, así como los demás datos, información y documentación que la Auditoría Superior requiera para el debido ejercicio y cumplimiento de sus atribuciones.
 
 La Información y documentación relacionada con los procedimientos promovidos por la Auditoría Superior, es reservada y confidencial, hasta en tanto se le notifique a la Auditoría Superior que las resoluciones emitidas han quedado firmes.
 
@@ -1064,9 +1142,11 @@ Para satisfacer los requerimientos que implica el ejercicio de la función públ
 
 La Comisión de Vigilancia turnará el Proyecto de Presupuesto de la Auditoría Superior, a la Comisión de Gobierno para su presentación de forma consolidada en el Proyecto de Presupuesto de la Asamblea.
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 51.
 
-Para implementar, operar y desarrollar el Servicio Profesional Fiscalizador de Carrera, la Asamblea aprobará anualmente un presupuesto adicional que garantice recursos suficientes para su incorporación en la estructura orgánica, mediante la definición de áreas de operación procedimientos de reclutamiento, contratación, capacitación, promoción y evaluación permanente.
+Para implementar, operar y desarrollar el Servicio Profesional Fiscalizador de Carrera, el Congreso aprobará anualmente un presupuesto adicional que garantice recursos suficientes para su incorporación en la estructura orgánica, mediante la definición de áreas de operación procedimientos de reclutamiento, contratación, capacitación, promoción y evaluación permanente.
 
 ## TITULO SEGUNDO. DE LOS PROCEDIMIENTOS DE AUDITORIA
 
@@ -1083,6 +1163,16 @@ La fiscalización de la Cuenta Pública que realiza la Auditoría Superior, tien
 ###### Artículo 53.
 
 La Auditoría Superior se coordinará con los organismos fiscalizadores internos de la Ciudad de México, conforme lo disponga el Sistema de Fiscalización de la Ciudad de México, así como con los integrantes del Sistema Anticorrupción de la Ciudad de México, para garantizar el debido intercambio de información, dentro del ámbito de sus competencias, para solicitar información y documentación de la fiscalización y control de gestión gubernamental y en general obtener el apoyo necesario en el cumplimiento de sus labores, en términos de lo dispuesto por la Ley del Sistema Anticorrupción de la Ciudad de México y demás disposiciones de la materia.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+Para los efectos de este artículo y de lo previsto en el artículo 51 la Ley de Auditoría y Control Interno de la Administración Pública de la Ciudad de México, la Auditoria Superior y la Secretaria de la Contraloría General implementarán reuniones mensuales entre sus titulares o las personas servidoras públicas que designen para tal objeto, con las siguientes finalidades:
+
+1. Definir las políticas y acciones que impulsarán a través del Comité Rector del Sistema Anticorrupción de la Ciudad de México;
+
+2. Intercambiar información sobre los respectivos programas de auditorías que estén llevando a cabo, a efecto de identificar actividades, factores y áreas de riesgo y en su caso, la naturaleza y sentido de la emisión de recomendaciones por parte de la Auditoría Superior y la práctica de auditorías de la Secretaría de la Contraloría General.
+
+3. Intercambio de opiniones y criterios sobre los resultados de las auditorias y revisiones a los sujetos de fiscalización y en su caso, homologación de criterios para la determinación de irregularidades.
 
 > <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1216,11 +1306,11 @@ La Auditoría Superior podrá emitir normas específicas para la ejecución de l
 
 ### CAPITULO SEGUNDO. DE LOS TÉRMINOS Y NOTIFICACIONES
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 72.
 
-Los actos, procedimientos y diligencias que regula la presente Ley se practicarán en días hábiles, entendiéndose como tales los que determinen las leyes en materia del trabajo y los no considerados como inhábiles los que determinan las leyes en materia de trabajo, los periodos vacacionales y suspensión de labores que determine la Auditoría Superior y los sujetos fiscalizados que previamente establezcan y publiquen en la Gaceta Oficial del Distrito Federal.
-
-Las diligencias o actuaciones que la Auditoría Superior realice en ejercicio de las facultades que le confieren esta ley y demás normas de orden público, se efectuarán dentro de horas hábiles que comprendidas de las nueve horas antes meridiano a las dieciocho horas en día hábiles. Una diligencia iniciada en horas hábiles podrá concluirse en horas inhábiles sin afectar su validez, siempre y cuando sea continua; el personal auditor podrá de oficio o a petición del sujeto fiscalizado habilitar días y horas inhábiles, cuando así se requiera.
+Los actos, procedimientos y diligencias que regula la presente Ley se practicarán en días hábiles, entendiéndose como tales los que determinen las leyes en materia del trabajo y los no considerados como inhábiles los que determinan las leyes en materia de trabajo, los periodos vacacionales y suspensión de labores que determine la Auditoría Superior y los sujetos fiscalizados que previamente establezcan y publiquen en la Gaceta Oficial de la Ciudad de México.
 
 ###### Artículo 73.
 
@@ -1320,7 +1410,9 @@ II. Abstenerse de involucrarse en intereses económicos o de especie con el suje
 
 III. Abstenerse de intervenir, en los casos de que existan hechos, situaciones o relaciones que impidan su independencia y/o vulneren su imparcialidad, o bien, concurran circunstancias que influyan sobre su juicio, o en aquellos casos en que pueda existir duda razonable sobre su independencia y objetividad; debiendo excusarse cuando ocurra impedimento personal para ejercer sus funciones de manera imparcial.
 
-IV. No infringir ninguno de los supuestos previstos en la Ley de los Servidores Públicos vigente en el Distrito Federal; y
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2018)</small>
+
+IV. No infringir ninguno de los supuestos previstos en la Ley de Responsabilidades Administrativas de la Ciudad de México;
 
 Cuando el auditor se encuentre en alguno de los supuestos que señala esta fracción, se excusará y lo comunicará a su superior jerárquico, quien determinará lo conducente dentro de los tres días hábiles siguientes.
 
@@ -1675,3 +1767,13 @@ OCTAVO.- Las referencias a la Asamblea Legislativa del Distrito Federal y sus ó
 NOVENO.- Las referencias al Jefe de Gobierno del Distrito Federal, se entenderá al Jefe de Gobierno de la Ciudad de México.
 
 DÉCIMO.- Las referencias que se hacen en el presente decreto de reforma, de los entes públicos y el marco legal, se entenderán hechas a aquellas, que con motivo de las adecuaciones normativas y su entrada en vigor las sustituyan.
+
+G.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN, DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO"]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
