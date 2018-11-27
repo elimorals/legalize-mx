@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-tribunal-electoral-del-estado-de-94217"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-15"
-last_updated: "2016-08-26"
+last_updated: "2018-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 15 de mayo de 2013.
 
@@ -73,17 +73,15 @@ j) Comisión Sustanciadora: La Comisión Sustanciadora de Controversias Laborale
 
 k) Secretaría General: La Secretaría General de Acuerdos del Tribunal Electoral del Estado de México.
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+l) Unidad Sustanciadora: Unidad Sustanciadora de Controversias Laborales del Tribunal Electoral del Estado de México.
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 4.
 
-Para el ejercicio de sus atribuciones, el Tribunal contará con los titulares de la Secretaría General, la Contraloría General, la Dirección de Administración, la Secretaría de la Presidencia, y Secretaría Particular, la Secretaría Técnica de la Secretaría General, las Coordinaciones de Jurisprudencia, de Normatividad y Documentación, Difusión y Comunicación Social, de Capacitación y de Informática; con Coordinadores Operativos, con Secretarios de Estudio y Cuenta, Proyectistas y Auxiliares Jurídicos; con Notificadores, Oficiales de Partes, y encargados del Archivo Jurisdiccional y del Centro de Documentación, así como el demás personal técnico y administrativo necesario para su debido funcionamiento.
-
-La estructura orgánica podrá ser modificada en función del Presupuesto de Egresos asignado al Tribunal, y será aprobada por el Pleno al inicio de cada año.
-
-En los procesos electorales y de acuerdo con la disponibilidad presupuestal, el Tribunal se integrará además, con el personal jurídico, técnico y administrativo que sea necesario para el desahogo de los asuntos jurisdiccionales.
-
-El Pleno podrá crear las coordinaciones jurisdiccionales o administrativas que se requieran para el adecuado desempeño de las funciones del Tribunal.
+Para el ejercicio de sus atribuciones, el Tribunal contará con los titulares de la Secretaría General, la Contraloría General, la Dirección de Administración, la Secretaría de la Presidencia, y Secretaría Particular, la Secretaría Técnica de la Secretaría General, la Unidad Sustanciadora, las Coordinaciones de Jurisprudencia, de Normatividad y Documentación, Difusión y Comunicación Social, de Capacitación y de Informática; con Coordinadores Operativos, con Secretarios de Estudio y Cuenta, Proyectistas y Auxiliares Jurídicos; con Notificadores, Oficiales de Partes, y encargados del Archivo Jurisdiccional y del Centro de Documentación, así como el demás personal técnico y administrativo necesario para su debido funcionamiento.
 
 > <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
@@ -259,6 +257,10 @@ XXII. Aprobar la estructura administrativa de la Contraloría.
 
 XXIII. Designar al secretario proyectista, quien fungirá como secretario Técnico de la Comisión Sustanciadora.
 
+> <small>(ADICIONADA, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+XXIII Bis. Designar al Coordinador Operativo y a los Secretarios de Estudio y Cuenta que deban integrar la Unidad Sustanciadora, a propuesta del Magistrado Presidente.
+
 XXIV. Determinar sobre la conexidad de los recursos de revisión y apelación, con los juicios de inconformidad y resolver, en su caso, su archivo como asuntos definitivamente concluidos;
 
 XXV. Determinar, en su caso, sobre la acumulación o escisión de los asuntos sometidos a su conocimiento.
@@ -273,11 +275,17 @@ XXIX. Nombrar a los encargados de despacho, de las coordinaciones y de las direc
 
 XXX. Autorizar los traspasos de recursos financieros presupuestarios entre capítulos de gasto para la ejecución de las actividades programáticas del Tribunal en términos de la normatividad en la materia.
 
-XXXI. Recibir un informe trimestral de la Unidad de Información, relativo a las solicitudes recibidas en materia de transparencia y acceso a la información pública, del trámite otorgado a las mismas, así como de los recursos que se presenten en contra de las determinaciones tomadas en la materia por los órganos del Tribunal.
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2018)</small>
 
-XXXII. Recibir un informe semestral del Comité de Información, sobre las actividades realizadas durante el año, en el ámbito de su competencia.
+XXXI. Recibir un informe trimestral de la Unidad de Transparencia, relativo a las solicitudes recibidas en materia de transparencia y acceso a la información pública, del trámite otorgado a las mismas, así como de los recursos que se presenten en contra de las determinaciones tomadas en la materia por los órganos del Tribunal.
 
-XXXIII. Nombrar, a propuesta de la Presidencia, al titular de la Unidad de Información.
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+XXXII. Recibir un informe semestral del Comité de Transparencia, sobre las actividades realizadas durante el año, en el ámbito de su competencia.
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+XXXIII. Nombrar, a propuesta de la Presidencia, al titular de la Unidad de Transparencia.
 
 XXXIV. Recibir directamente a las y los titulares de las coordinaciones y acordar con ellos los asuntos competencia del Pleno.
 
@@ -490,6 +498,120 @@ Los Secretarios Auxiliares Jurídicos y Oficiales de Partes deberán reunir los 
 No podrán ser Secretarios del Tribunal, Coordinadores Operativos ni Notificadores, aquellas personas que sean o hayan sido candidatos a algún cargo de elección popular o que hayan sido dirigentes de algún partido político a nivel nacional, estatal o municipal en los cinco años anteriores a su designación.
 
 En el ejercicio de sus funciones los notificadores gozarán de fe pública.
+
+> <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 26 Bis.
+
+la Unidad Administrativa de Igualdad de Género y Erradicación de la Violencia es la instancia designada para ejecutar las acciones que determine tanto el Pleno como la Unidad en cuestiones de género conformada por los integrantes del mismo, además de proponer los trabajos para incorporar la perspectiva de género y el enfoque de igualdad sustantiva en el diseño, planeación, presupuestación, ejecución, evaluación de las políticas públicas que impacten en todas las áreas, y fungir como órgano de consulta y asesoría.
+
+> <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 26 Ter.
+
+Las atribuciones de la Unidad administrativa de Igualdad de Género y Erradicación de la Violencia, son las siguientes:
+
+I. Promover y vigilar que los planes, programas y acciones del Tribunal sean realizadas con perspectiva de género;
+
+II. Generar acciones con perspectiva de género que garanticen el acceso de las mujeres a una vida libre de violencia, promuevan la igualdad, el empoderamiento de las mujeres, el respeto a los derechos humanos y la eliminación de la discriminación;
+
+III. Dar cumplimiento a los instrumentos internacionales, nacionales y estatales en materia de derechos humanos garantizando en todo momento la igualdad de trato y oportunidades entre mujeres y hombres; así como prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el ámbito de su competencia;
+
+IV. Ejecutar las acciones que determine tanto el Pleno como la Unidad en cuestiones de género conformada por las y los magistradas/os, además de proponer los trabajos para incorporar la perspectiva de género y el enfoque de igualdad sustantiva en el diseño, planeación, presupuestación, ejecución,y (sic) evaluación de las políticas públicas que impacten en todas las áreas;
+
+V. Fungir como órgano de consulta y asesoría en materia de perspectiva de género;
+
+VI. Coadyuvar en la elaboración del presupuesto con perspectiva de género, con la finalidad de incorporar acciones relacionadas con la materia;
+
+VII. Informar periódicamente, en el marco del Sistema Estatal, los resultados de la ejecución de sus planes y programas, con el propósito de integrar y rendir el informe anual correspondiente, y
+
+VIII. Ser el primer punto de contacto para los casos de acoso y hostigamiento sexual que en su caso se presenten.
+
+> <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 26 Quater.
+
+La Unidad Administrativa de Igualdad de Género y Erradicación de la Violencia, se conformará por su Titular, un responsable de igualdad de género, y un responsable de prevención y atención de la violencia contra las mujeres.
+
+Las o los servidores públicos que integren la Unidad de Género y Erradicación de la Violencia, serán designadas(os) de conformidad con lo dispuesto por los artículos 394 fracción V, del Código Electoral del Estado de México, 19 fracción XXIX y 23 fracción XVIII del Reglamento Interno del Tribunal Electoral del Estado de México, cuyas plazas son de carácter permanente y de confianza.
+
+> <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 26 Quintus. Los integrantes de la Unidad Administrativa de Igualdad de Género y Erradicación de la Violencia, tendrá las atribuciones siguientes:
+
+I. Del Titular
+
+a. Realizar los trabajos para la identificación de la problemática y condiciones laborales (sic) servidoras públicas de la Institución, a efecto de integrar el programa de trabajo anual que permita la transversalidad e igualdad de género que deberán de ejecutarse en el Tribunal;
+
+b. Rendir mensualmente a la o el Magistrada/o Presidenta/e, el informe de las acciones que ha ejecutado en materia de perspectiva de género, igualdad de oportunidades entre mujeres y hombres, prevención, atención, sanción y erradicación de la violencia, en el respectivo ámbito de sus competencias;
+
+c. Presentar a la o el Magistrada/o Presidenta/e el Programa Anual de Trabajo de la Unidad Administrativa;
+
+d. Vigilar el cumplimiento al Programa anual de trabajo, así como el Programa Integral de Igualdad entre Mujeres y Hombres del Tribunal Electoral del Estado de México;
+
+e. Planear la recopilación de los informes del cumplimiento de acuerdos y del Programa anual de trabajo de cada uno de las y los responsables de la Unidad;
+
+f. Integrar una base de datos en materia de derechos humanos de las mujeres y perspectiva de género, con la colaboración de las áreas correspondientes;
+
+g. Las demás atribuciones que se consideren necesarias para el cumplimiento del objeto de la Unidad Administrativa, y
+
+h. Proponer, ejecutar y coordinar el Programa Integral de Igualdad entre Mujeres y Hombres del Tribunal Electoral del Estado de México.
+
+II. Del responsable de género
+
+a. Coordinar los trabajos de transversalización de la perspectiva de género;
+
+b. Analizar el marco jurídico y normativo de la instancia, con la finalidad de generar la armonización correspondiente a la perspectiva de género, en coordinación con las áreas competentes;
+
+c. Proponer los mecanismos o instrumentos necesarios para la incorporación del uso del lenguaje incluyente y no sexista, en la documentación y demás materiales que sean generados en la institución tanto para la comunicación interna como externa;
+
+d. Difundir los derechos humanos de las mujeres;
+
+e. Proponer campañas de (sic) en materia de igualdad de género, así como la prevención de la violencia y/o coadyuvar en las campañas que realice alguna Institución o reproducir el material que elabore en la materia;
+
+f. Proponer y gestionar la realización de cursos, diplomados u otros para brindar capacitación al personal en materia de perspectiva de género y derechos humanos;
+
+g. Coadyuvar en la ejecución del Programa Integral de Igualdad entre Mujeres y Hombres del Tribunal Electoral del Estado de México;
+
+h. Planear con la o el titular de la Unidad Administrativa de Igualdad de Género acciones para integrar al programa anual de trabajo en materia de Perspectiva de Género y Derechos Humanos de las mujeres;
+
+i. Coordinar los trabajos para la detección de las desigualdades de género a través de estadísticas laborales desagregadas por sexo;
+
+j. Proponer acciones tendientes a garantizar la igualdad de trato y oportunidades entre mujeres y hombres al interior;
+
+k. Actualizar la base de datos sobre las acciones que la Institución por si o a través de la Unidad, emprendan para cumplir leyes, convenios, recomendaciones, programas, planes y demás en materia de derechos humanos de las mujeres, igualdad de trato y oportunidades entre mujeres y hombres y en prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+l. Proponer acciones con perspectiva de género conforme a sus respectivas atribuciones;
+
+m. Conjuntar y analizar la estadística desagregada por sexo, al interior del Tribunal para proponer acciones en torno al cumplimiento del Programa Integral del Igualdad entre Mujeres y Hombres del Tribunal Electoral del Estado de México;
+
+n. Establecer vínculos de coordinación con la o el Responsable de Igualdad de Género y con la o el responsable de Prevención y Atención de la Violencia Laboral contra las mujeres para planear o diseñar las estrategias para el cumplimiento del Programa Integral del Igualdad entre Mujeres y Hombres del Tribunal Electoral del Estado de México;
+
+o. Elaborar los informes respectivos que den los resultados del cumplimiento del Programa Integral del Igualdad entre Mujeres y Hombres del Tribunal Electoral del Estado de México, así como de la información que le sea requerida;
+
+p. Proponer acciones para la elaboración del Programa Integral del Igualdad entre Mujeres y Hombres del Tribunal Electoral del Estado de México, conforme a sus respectivas atribuciones; y
+
+q. Las demás atribuciones que le sean asignadas por la o el Titular para el cumplimiento del objeto de la Unidad Administrativa.
+
+III. Del responsable de prevención y atención de violencia laboral contra las mujeres.
+
+a. Coordinar los trabajos en materia de violencia laboral contra las mujeres (sic) hostigamiento y acoso sexual, brindando orientación, asesoría, conforme a las leyes y protocolos aplicables a la materia;
+
+b. Difundir medidas al interior de su institución, que promuevan un clima laboral en estricto apego a la igualdad sustantiva entre mujeres y hombres apoyándose de las áreas competentes;
+
+c. Proponer acciones que garanticen la armonización de la vida laboral y la vida familiar entre el personal en el Programa Integral del (sic) Igualdad entre Mujeres y Hombres del Tribunal Electoral del Estado de México;
+
+d. Coadyuvar con la ejecución del Programa Integral del (sic) Igualdad entre Mujeres y Hombres del Tribunal Electoral del Estado de México;
+
+e. Asesorar en materia jurídica en los casos de violencia laboral, hostigamiento y acoso sexual, y difundir el respeto a los derechos humanos y derechos laborales del personal;
+
+f. Impartir capacitación y sensibilizar en materia de violencia laboral, hostigamiento y acoso sexual al interior de la institución;
+
+g. Elaborar encuestas para conocer la percepción del personal en materia de acoso y hostigamiento sexual, a fin de generar estrategias para prevenir, atender y erradicar estas conductas;
+
+h. Proponer acciones para la elaboración del Programa anual de trabajo, conforme a sus respectivas atribuciones, y
+
+i. Las demás atribuciones que le sean asignadas por la o el Titular para el cumplimiento del objeto de la Unidad Administrativa.
 
 > <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
@@ -846,6 +968,14 @@ IX. Tomar las medidas pertinentes para el buen funcionamiento de la Coordinació
 X. Realizar las tareas que le encomiende el Pleno, la Presidencia o el Director de Administración, dentro del ámbito de sus atribuciones, y
 
 XI. Las demás que deriven de las disposiciones constitucionales, legales y reglamentarias.
+
+> <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 41 Bis.
+
+La Unidad Sustanciadora se integra con un coordinador operativo y cuatro secretarios de estudio y cuenta, designados por el Pleno del Tribunal, quienes deberán cumplir con los requisitos a que se refiere el artículo 393 del Código.
+
+La Unidad Sustanciadora adscrita al Pleno del Tribunal, tiene como atribución auxiliar a la Comisión Sustanciadora, cuando se trate de controversias entre el Tribunal y sus servidores públicos; y al Magistrado Instructor, en las controversias que se susciten entre el Instituto y sus servidores, en los actos relativos a la tramitación de las controversias laborales hasta ponerlos en estado de resolución.
 
 > <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
 
@@ -1211,6 +1341,10 @@ Dicha Comisión conocerá de cinco Controversias Laborales consecutivas, pero en
 
 La sustanciación de las Controversias Laborales entre el instituto y sus servidores, estará a cargo de un Magistrado designado por turno.
 
+> <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 2018)</small>
+
+Para la sustanciación de las Controversias Laborales entre el Tribunal y sus servidores, así como entre el Instituto y sus servidores públicos electorales, la Comisión Sustanciadora y el Magistrado Instructor, respectivamente, contarán con el auxilio de la Unidad Sustanciadora.
+
 Lo no previsto en este artículo será resuelto por el Pleno.
 
 > <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
@@ -1243,13 +1377,13 @@ f) El ofrecimiento y aportación de las pruebas que el actor estime necesarias p
 
 g) La firma autógrafa del promovente.
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 75.
 
 La tramitación y resolución de las controversias laborales, se realizará conforme al procedimiento laboral previsto por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
 
-Los actos relativos a la sustanciación de los procedimientos, serán realizados por la Comisión Sustanciadora, por conducto del Magistrado Instructor, cuando se trate de controversias entre el Tribunal y sus servidores públicos; y por el Magistrado Instructor, cuando se trate de controversias entre el Instituto y sus servidores.
+Los actos relativos a la sustanciación de los procedimientos, serán realizados por la Comisión Sustanciadora, por conducto del Magistrado Instructor, cuando se trate de controversias entre el Tribunal y sus servidores públicos; y por el Magistrado Instructor, cuando se trate de controversias entre el Instituto y sus servidores, quienes en ambos casos se auxiliarán de la Unidad Sustanciadora.
 
 ## TRANSITORIOS
 
@@ -1296,3 +1430,35 @@ SECRETARIO GENERAL DE ACUERDOS
 G.G. 26 DE AGOSTO DE 2016.
 
 > <small>[N. DE E. EL "ACUERDO GENERAL TEEM/AG/3/2016 DEL PLENO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO POR EL QUE SE MODIFICA EL REGLAMENTO INTERNO", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE MÉXICO.]</small>
+
+G.G. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL TEEM/AG/5/2018 POR EL QUE SE MODIFICA TANTO EL REGLAMENTO INTERNO COMO LA ESTRUCTURA INTERNA DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO, EN CUESTIONES DE GÉNERO Y ERRADICACIÓN DE LA VIOLENCIA”.]
+
+PRIMERO.- El presente Acuerdo surtirá efectos a partir de su aprobación.
+
+SEGUNDO.- De conformidad con lo dispuesto en el transitorio TERCERO del Decreto número 309 de la H. "LIX" Legislatura del Estado de México, la Unidad Administrativa de Igualdad de Género y Erradicación de la Violencia, iniciará sus funciones con la integración aprobada, una vez que se cuente con la suficiencia presupuestal correspondiente.
+
+TERCERO.- Notifíquese el presente Acuerdo a la Secretaría Ejecutiva del Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, para los efectos a que haya lugar.
+
+CUARTO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Tribunal Electoral del Estado de México.
+
+G.G. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL TEEM/AG/7/2018 POR EL QUE SE MODIFICA TANTO EL REGLAMENTO INTERNO COMO LA ESTRUCTURA INTERNA DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO Y SE CREA LA UNIDAD SUSTANCIADORA DE CONTROVERSIAS LABORALES, COMO ÁREA ADSCRITA AL PLENO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- El presente Acuerdo surtirá efectos a partir de su aprobación.
+
+SEGUNDO.- La Unidad de Transparencia iniciara sus funciones con la integración aprobada, una vez que se cuente con la suficiencia presupuestal correspondiente.
+
+TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Tribunal Electoral del Estado de México.
+
+G.G. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL TEEM/AG/7/2018 POR EL QUE SE MODIFICA TANTO EL REGLAMENTO INTERNO COMO LA ESTRUCTURA INTERNA DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO Y SE CREA LA UNIDAD SUSTANCIADORA DE CONTROVERSIAS LABORALES, COMO ÁREA ADSCRITA AL PLENO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- El presente Acuerdo surtirá efectos a partir de su aprobación.
+
+SEGUNDO.- La Unidad Sustanciadora de Controversias Laborales iniciará sus funciones con la integración aprobada, una vez que se cuente con la suficiencia presupuestal correspondiente.
+
+TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Tribunal Electoral del Estado de México.
