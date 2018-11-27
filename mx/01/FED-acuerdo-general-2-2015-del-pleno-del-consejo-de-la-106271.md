@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-2-2015-del-pleno-del-consejo-de-la-106271"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-03-04"
-last_updated: "2018-08-24"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106271&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-02-24"
 
 ACUERDO GENERAL 2/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 4 de marzo de 2015.
 
@@ -193,6 +193,10 @@ II. En caso de no ser posible lo previsto en la fracción anterior, la sustituci
 
 Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Vigésimo Tercer Circuito con residencia en Zacatecas, Zacatecas, para conocer con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO 22 DEL ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2018)</small>
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita al Tribunal Unitario del Trigésimo Circuito, con residencia en Aguascalientes, para conocer con ese carácter de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TRIGÉSIMO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 18.
@@ -221,13 +225,13 @@ El Administrador del Centro llevará a cabo las acciones de coordinación que se
 
 SEGUNDO. La primera guardia corresponderá al Juez Primero de Distrito Especializado en el Sistema Penal Acusatorio, misma que iniciará el dieciséis de marzo de dos mil quince a partir de las 00:00 horas.
 
-> <small>(REFORMADO POR EL ACUERDO GENERAL 55/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 22 DEL ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2018)</small>
 
-TERCERO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios del Vigésimo Tercer Circuito con residencia en Zacatecas, Zacatecas, para conocer, en el orden numérico de su denominación, de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+TERCERO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tribunal Unitario del Vigésimo Tercer Circuito, con residencia en Zacatecas, Zacatecas, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
-Los Tribunales Unitarios indicados precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+El Tribunal Unitario del Vigésimo Tercer Circuito, con residencia en Zacatecas, Zacatecas, precisará en los actos procesales que celebre la denominación con la que actúa, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
 
-Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como tribunal unitario de Circuito.
+El Tribunal Unitario de que se trata queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito.
 
 CUARTO. A la entrada en vigor de la legislación en materia de ejecución de penas será habilitado el Juez de Distrito de Ejecución de Sanciones Penales correspondiente.
 
@@ -770,3 +774,25 @@ DÉCIMO SEGUNDO. Se abroga el Acuerdo General del Pleno del Consejo de la Judica
 DÉCIMO TERCERO. Las referencias que se hagan en cualquier disposición al Juez Administrador del Centro de Justicia Penal Federal se entenderán hechas al Administrador del Centro de Justicia Penal Federal.
 
 DÉCIMO CUARTO. La Visitaduría Judicial deberá presentar al Pleno la propuesta de metodología de inspección a los Centros de Justicia Penal Federal, en términos de lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+
+D.O.F. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO TRIBUNAL UNITARIO DEL VIGÉSIMO TERCER CIRCUITO, Y DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL VIGÉSIMO TERCER CIRCUITO, AMBOS CON RESIDENCIA EN ZACATECAS, ZACATECAS, AL CAMBIO DE DENOMINACIÓN DEL PRIMER TRIBUNAL UNITARIO DEL VIGÉSIMO TERCER CIRCUITO, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE; EL INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN LA MISMA RESIDENCIA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE ZACATECAS, ZACATECAS; Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALE".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Segundo Tribunal Unitario del Vigésimo Tercer Circuito, con residencia en Zacatecas, Zacatecas, y el inicio del Juzgado Tercero de Distrito en el Estado de Zacatecas, con sede en la ciudad del mismo nombre, implicará el traslado del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional de nueva creación contará con la misma plantilla de personal que tienen sus homólogos.
+
+Las plazas relativas a secretaria particular y chofer, del órgano jurisdiccional que concluye funciones, quedarán a disposición de la Dirección General de Recursos Humanos.
+
+La Comisión de Adscripción definirá al Juez de Distrito que sea adscrito al órgano jurisdiccional de nueva creación, de igual manera, readscribirá al Magistrado de Circuito del Segundo Tribunal Unitario que concluye funciones.
+
+CUARTO. La Dirección General de Recursos Humanos atenderá la situación laboral, derivada de la conclusión de funciones de la Oficina de Correspondencia Común de los Tribunales Unitarios del Vigésimo Tercer Circuito, con residencia en Zacatecas, Zacatecas, quedarán a disposición del Consejo de la Judicatura Federal.
+
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional de nueva creación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+SEXTO. Se abroga el Acuerdo General 38/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la conclusión de funciones del Juzgado Quinto de Distrito del Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas y su transformación en Segundo Tribunal Unitario del Vigésimo Tercer Circuito, así como a su competencia, jurisdicción territorial, domicilio, y fecha de inicio de funciones; al cambio de denominación del Tribunal Unitario del mismo Circuito y residencia; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Tribunales Unitarios del Circuito y residencia indicados; y a la creación de la oficina de correspondencia común que les prestará servicio.
