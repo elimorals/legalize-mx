@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2018-01-23"
+last_updated: "2018-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -905,11 +907,15 @@ III. Existan errores que versen sobre el año de nacimiento, nacionalidad, filia
 
 IV. Existan errores en las actas de defunción sobre el estado civil del difunto, causas de la muerte, o sobre la fecha y lugar del fallecimiento.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 133.
 
 Procederá la aclaración de los asientos ante la autoridad administrativa competente cuando la variación se refiera a cualquier supuesto diferente de los enumerados en el artículo precedente, de conformidad con lo previsto en la Ley del Registro Civil para el Estado de Coahuila de Zaragoza.
 
-El procedimiento de aclaración se sujetará a las disposiciones que establezca la Ley del Registro Civil para el Estado de Coahuila de Zaragoza.
+Procederá el reconocimiento de la identidad de género ante la Dirección Estatal del Registro Civil, cuando sea solicitado por la persona interesada mediante su consentimiento libre e informado.
+
+El procedimiento de aclaración y de reconocimiento de la identidad de género se sujetará a las disposiciones que establezca la Ley del Registro Civil para el Estado de Coahuila de Zaragoza.
 
 ###### Artículo 134.
 
@@ -4480,3 +4486,19 @@ P.O. 23 DE ENERO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 91.- SE CREA LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. Esta ley entrará en vigor a los 60 días hábiles siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley del Registro Civil para el Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 59, de fecha 25 de julio de 2003; y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Persona titular del Ejecutivo dentro del plazo de 90 días hábiles siguientes a la entrada en vigor de esta ley, expedirá las adecuaciones que resulten necesarias al Reglamento Interior del Registro Civil, publicado en el Periódico Oficial del Gobierno del Estado número 59, de fecha 23 de julio de 2002, a efecto de que las disposiciones de éste se ajusten al presente Decreto.
+
+CUARTO. Dentro del plazo de 30 días hábiles siguientes a la entrada en vigor de esta ley, deberán realizarse las adecuaciones a los formatos, medios electrónicos, e información publicada en el portal del Registro Civil para adecuarlas a los términos del presente Decreto.
+
+QUINTO. Todos los asuntos que se encuentren en trámite seguirán tramitándose de conformidad con las disposiciones vigentes al momento que fueron iniciados.
+
+SEXTO. Dentro del plazo de 60 días hábiles siguientes a la entrada en vigor de este Decreto, se deberán de realizar las adecuaciones necesarias a las leyes y reglamentos, (sic) demás disposiciones que resulten procedentes.
