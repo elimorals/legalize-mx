@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-103
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-22"
-last_updated: "2017-12-29"
+last_updated: "2018-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-08"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el lunes 22 de diciembre de 2014.
 
@@ -133,6 +133,10 @@ III. Secretaría Ejecutiva;
 
 a. (DEROGADO, D.O.F. 26 DE JULIO DE 2017)
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+b. Dirección General de Planeación;
+
 > <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2017)</small>
 
 III BIS. Unidad de Contratación de Actividades de Exploración y Extracción;
@@ -145,11 +149,19 @@ IV. Unidad Jurídica;
 
 a. (DEROGADO, D.O.F. 26 DE JULIO DE 2017)
 
-b. Dirección General de Contratos;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-c. Dirección General de Regulación y Consulta;
+b. Dirección General Jurídica de Asignaciones y Contratos;
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+c. Dirección General de Regulación;
 
 d. Dirección General de lo Contencioso;
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+e. Dirección General Jurídica de Procedimientos y Consulta;
 
 V. Unidad Técnica de Exploración;
 
@@ -167,9 +179,7 @@ b. Dirección General de Reservas y Recuperación Avanzada;
 
 c. Dirección General de Medición;
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
-
-d. Dirección General de Comercialización de Producción;
+d. (DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2018)
 
 VII. Unidad de Administración Técnica de Asignaciones y Contratos;
 
@@ -181,6 +191,10 @@ a. Dirección General de Administración Técnica de Contratos:
 
 b. Dirección General de Administración Técnica de Asignaciones;
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+c. Dirección General de Comercialización de Producción;
+
 VIII. Centro Nacional de Información de Hidrocarburos;
 
 a. Dirección General de Administración del Centro Nacional de Información de Hidrocarburos;
@@ -191,9 +205,11 @@ IX. Oficialía Mayor;
 
 a. Dirección General de Finanzas, Adquisiciones y Servicios;
 
-b. Dirección General de Recursos Humanos;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-c. Dirección General de Planeación, y
+b. Dirección General de Recursos Humanos, y
+
+c. (DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2018)
 
 d. Dirección General de Tecnologías de la Información.
 
@@ -254,6 +270,14 @@ i. Iniciar, tramitar y resolver los procedimientos de rescisión administrativa,
 j. Dictaminar la unificación de campos o yacimientos de Extracción para los efectos referidos en el artículo 42, fracción II, de la Ley de Hidrocarburos;
 
 k. Resolver sobre la coexistencia de actividades extractivas y, en su caso, los montos y plazos de las indemnizaciones y contraprestaciones;
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+l. Aprobar las solicitudes de periodos adicionales de Exploración y evaluación, así como prórrogas a la vigencia de los Contratos para la Exploración y Extracción;
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+m. Realizar la aprobación de terceros independientes para la verificación del sistema de medición;
 
 > <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -335,9 +359,21 @@ X. Ordenar la tramitación de los actos jurídicos que en su caso se requieran p
 
 XI. Iniciar y resolver los procedimientos administrativos competencia de la Comisión;
 
-XII. Determinar los incumplimientos, así como la imposición y ejecución de penas convencionales y sanciones de los sujetos regulados, y
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Las demás que sean necesarias para el ejercicio de sus funciones o establezcan las disposiciones legales y administrativas que resulten aplicables.
+XII. Determinar los incumplimientos, así como la imposición y ejecución de penas convencionales y sanciones de los sujetos regulados;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+XIII. En materia de autorizaciones:
+
+a. Emitir las autorizaciones para las actividades de Reconocimiento y Exploración Superficial, así como autorizar la perforación de pozos,
+
+b. Aprobar la suspensión de actividades de Reconocimiento y Exploración Superficial y la perforación de pozos;
+
+c. Iniciar, tramitar y resolver los procedimientos de terminación, revocación o caducidad de las autorizaciones de Reconocimiento y Exploración Superficial y perforación de pozos, y
+
+XIV. Las demás que sean necesarias para el ejercicio de sus funciones o establezcan las disposiciones legales y administrativas que resulten aplicables.
 
 El Órgano de Gobierno podrá conocer y, en su caso, resolver sobre cualquier asunto cuyo trámite, instrumentación o conducción esté conferido a cualquier unidad administrativa o servidor público de la Comisión en términos de la Ley y otras disposiciones aplicables.
 
@@ -509,11 +545,27 @@ b. Expedir certificaciones de los documentos que obren en los archivos de la Com
 
 VII. Representar a la Comisión ante cualquier autoridad administrativa, así como autorizar a los servidores públicos de la propia Secretaría Ejecutiva para representar a la Comisión ante dichas autoridades, mediante oficio en el que se deberá indicar el asunto específico para el cual se otorga;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+VIII. En materia de asuntos Internacionales:
+
+a. Proponer al Órgano de Gobierno, gestionar y ejecutar la realización de acciones, programas y proyectos de cooperación técnica y material con países, organismos internacionales y entidades extranjeras con los que se suscriban convenios dentro de la competencia de la Comisión;
+
+b. Integrar y evaluar los programas y actividades que en materia internacional propongan las unidades administrativas de la Comisión y, en caso de ser necesario, someterlas a la aprobación del Órgano de Gobierno, así como coordinarlos, dar seguimiento y evaluar su ejecución, con la participación de las unidades administrativas competentes de la Comisión;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+IX. En materia de planeación:
+
+a. Ejecutar las estrategias y directrices necesarias para el cumplimiento de los objetivos y metas de la Comisión;
+
+b. Ejecutar los programas, planes y proyectos generales, especiales y estratégicos para el cumplimiento de la misión, visión, objetivos y metas de la Comisión;
+
 > <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2017)</small>
 
-VIII. Las demás que le confieran otras disposiciones legales y demás funciones, encargos y asuntos que le encomienden, según sea el caso, el Órgano de Gobierno o el Comisionado Presidente, así como las que sean necesarias para el ejercicio de sus atribuciones.
+X. Las demás que le confieran otras disposiciones legales y demás funciones, encargos y asuntos que le encomienden, según sea el caso, el Órgano de Gobierno o el Comisionado Presidente, así como las que sean necesarias para el ejercicio de sus atribuciones.
 
-IX. (DEROGADA, D.O.F. 26 DE JULIO DE 2017)
+XI. (DEROGADA, D.O.F. 26 DE JULIO DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE JULIO DE 2017)</small>
 
@@ -559,29 +611,23 @@ XIV. Las que les confiera expresamente el Órgano de Gobierno o el Comisionado P
 
 XV. Las demás que correspondan a las Direcciones Generales que le sean adscritas.
 
-> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 19 Bis.
 
-Control Interno. El Oficial Mayor fungirá como coordinador de los procesos relacionados con el control interno de la Comisión.
+Facultades específicas del Oficial Mayor. El Oficial Mayor fungirá como coordinador de los procesos relacionados con el control interno de la Comisión, así como representar legalmente a la Comisión ante la Comisión Nacional de Mejora Regulatoria para la gestión de trámites administrativos de los análisis de impacto regulatorio de los proyectos de manuales, instructivos, lineamientos, disposiciones técnicas y administrativas de carácter general, y de normas oficiales mexicanas de la Comisión, así como para la solicitud de registros, modificaciones o en su caso, cancelaciones de la información inscrita en el Registro Federal de Trámites y Servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 20.
 
-Suscripción de contratos. Los Titulares de la Unidad de Contratación de la (sic) Actividades de Exploración y Extracción, y de la Unidad de Administración Técnica de Asignaciones y Contratos, previa validación de la Unidad Jurídica, suscribirán junto con el Comisionado Presidente, los Contratos para la Exploración y Extracción previstos en la Ley de Hidrocarburos.
+Suscripción de contratos. Los Titulares de la Unidad de Contratación de las Actividades de Exploración y Extracción, y de la Unidad de Administración Técnica de Asignaciones y Contratos, previa validación de la Unidad Jurídica, suscribirán junto con el Comisionado Presidente, los Contratos para la Exploración y Extracción previstos en la Ley de Hidrocarburos.
 
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-Corresponderá al Titular de la Unidad Técnica de Exploración emitir las autorizaciones para las actividades de Reconocimiento y Exploración Superficial, así como autorizar la perforación de pozos, incluyendo las facultades necesarias para la suspensión de tales actividades y para iniciar, tramitar y resolver los procedimientos de terminación, revocación o caducidad de dichas autorizaciones.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
-
-Previo a la emisión de las autorizaciones a que se refiere el párrafo que precede, se deberá contar con la opinión del Titular de la Unidad Jurídica.
-
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
-
-El Titular de la Unidad Técnica de Exploración deberá informar de manera trimestral al Órgano de Gobierno sobre las autorizaciones otorgadas en términos de este artículo, en sesión ordinaria.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
 ### Capítulo VI. Direcciones Generales
 
@@ -719,43 +765,67 @@ XIII. Integrar los expedientes de cada proceso de licitación conforme a la Norm
 
 XIV. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 23.
 
-Facultades de la Dirección General de Contratos. La Dirección General de Contratos estará adscrita al Titular de la Unidad Jurídica, acordará con éste el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Facultades de la Dirección General Jurídica de Asignaciones y Contratos. La Dirección General Jurídica de Asignaciones y Contratos estará adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
-I. En materia de contratos y asignaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-a. Opinar legalmente el modelo de contratación que para cada Área Contractual solicite la Secretaría e integrar las opiniones técnicas de las unidades administrativas competentes de la Comisión para su posterior propuesta al Órgano de Gobierno;
+I. Administrar y supervisar jurídicamente las Asignaciones y Contratos a través de lo siguiente:
 
-b. En coordinación con la Dirección General de lo Contencioso, iniciar, tramitar y participar en los procesos de solución de controversias respecto de los contratos previstos en la Ley de Hidrocarburos;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-c. Llevar a cabo los actos necesarios para la administración y supervisión jurídica de Asignaciones y contratos previstos en la Ley de Hidrocarburos, y conocer de las notificaciones o avisos que deriven de los mismos;
+a. Emitir opinión jurídica respecto del modelo de contratación que para cada Área Contractual solicite la Secretaría, así como integrar las opiniones técnicas de las unidades administrativas competentes de la Comisión para su posterior propuesta al Órgano de Gobierno;
 
-d. Conocer los informes de los Contratistas respecto de la enajenación de activos a que refiere la Ley de Ingresos sobre Hidrocarburos e informar al Órgano de Gobierno y a las unidades administrativas competentes de dichos avisos;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-e. Conocer las solicitudes y proponer al Órgano de Gobierno la resolución respecto de la autorización de cesión del control corporativo o de las operaciones a que se refiere el artículo 15 de la Ley de Hidrocarburos;
+b. Coadyuvar con la Dirección General de lo Contencioso en los procedimientos de solución de controversias respecto de los contratos previstos en la Ley de Hidrocarburos;
 
-f. Proponer al Órgano de Gobierno la imposición de las sanciones previstas en los Contratos para la Exploración y Extracción y en la Ley de Hidrocarburos, en el ámbito de competencia de la Comisión, así como llevar a cabo los actos necesarios para ejecutarlas;
+c. (DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2018)
 
-g. Tramitar y sustanciar los procedimientos, así como proponer al Órgano de Gobierno la rescisión administrativa, terminación anticipada e imposición de penas en caso de incumplimiento de obligaciones contractuales de los Contratos para la Exploración y Extracción y demás contratos previstos en la Ley de Hidrocarburos, en el ámbito de competencia de la Comisión;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+d. Emitir opinión jurídica respecto de los informes de los Contratistas sobre la enajenación de activos a que refiere la Ley de Ingresos sobre Hidrocarburos;
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+e. Conocer y tramitar los avisos de los cambios de intereses de participación y del capital social de los Contratistas, así como tramitar las solicitudes y proponer al Órgano de Gobierno la resolución respecto de la autorización de cesión del control corporativo o de las operaciones a que se refiere el artículo 15 de la Ley de Hidrocarburos;
+
+f. (DEROGADO, D.O.F. 29 DE NOVIEMBRE DE 2018)
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+g. Tramitar y sustanciar los procedimientos administrativos internos, así como proponer al Órgano de Gobierno la rescisión administrativa, rescisión contractual, terminación anticipada e imposición de penas convencionales de los Contratos para la Exploración y Extracción y demás contratos previstos en la Ley de Hidrocarburos, con excepción de los contratos a los que hace referencia el artículo 28 de la Ley de Hidrocarburos, en el ámbito de competencia de la Comisión;
 
 h. Tramitar, previa aprobación del Órgano de Gobierno, los actos jurídicos que se requieran para hacer efectiva la declaratoria de utilidad pública en predios de propiedad pública, social y privada en las actividades a que hace referencia el artículo 33 de la Ley;
 
-i. Gestionar y emitir los actos necesarios para valorar la coexistencia de actividades extractivas referidas en el artículo 27, párrafo séptimo de la Ley de Hidrocarburos y, en su caso, los montos y plazos de las indemnizaciones y contraprestaciones correspondientes;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-II. En materia de autorizaciones, aprobaciones y dictámenes:
+i. Emitir opinión jurídica para valorar la coexistencia de actividades extractivas referidas en el artículo 27, párrafo séptimo de la Ley de Hidrocarburos y, en su caso, los montos y plazos de las indemnizaciones y contraprestaciones correspondientes;
 
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-a. Coordinar los procesos administrativos para la emisión de autorizaciones, aprobaciones, dictámenes y otros actos administrativos que deba emitir el Órgano de Gobierno, así como aquellos que correspondan al Titular de la Unidad Técnica de Exploración en términos del artículo 20 de este Reglamento, incluyendo en ambos casos los procedimientos relativos a la terminación, revocación y caducidad;
+j. Asegurar que el seguimiento y verificación del cumplimiento de las obligaciones de las Asignaciones y Contratos para la Exploración y Extracción se apegue a la Normativa aplicable;
 
-III. Elaborar y proponer al Órgano de Gobierno los contratos de servicios de comercialización de Hidrocarburos y los contratos para llevar a cabo actividades de Reconocimiento y Exploración Superficial, y
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+k. Proporcionar al Órgano de Gobierno y a las unidades administrativas que lo requieran los elementos jurídicos necesarios respecto de los actos, trámites y procedimientos, así como de contenido, aplicación y ejecución derivados de la administración de las Asignaciones y Contratos para la Exploración y Extracción;
+
+II. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2018)
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+III. Elaborar y proponer al Órgano de Gobierno los elementos generales de los contratos de servicios de comercialización de Hidrocarburos y los contratos para llevar a cabo actividades de Reconocimiento y Exploración Superficial, y
 
 IV. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 24.
 
-Facultades de la Dirección General de Regulación y Consulta. La Dirección General de Regulación y Consulta estará adscrita al Titular de la Unidad Jurídica, acordará con éste el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Facultades de la Dirección General de Regulación. La Dirección General de Regulación estará adscrita a la Unidad Jurídica, acordará con el Titular de ésta, el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
 I. En materia de elaboración de proyectos de regulación y normalización:
 
@@ -764,6 +834,10 @@ a. Identificar y evaluar estándares técnicos nacionales e internacionales, as�
 b. Formular y participar en los procesos de definición y redacción de los proyectos de regulación lineamientos, instructivos, criterios, metodologías, parámetros, directivas, reglas, manuales, disposiciones técnicas y administrativas para regular la Exploración y Extracción de Hidrocarburos, y demás normativa que expresamente establezca la Ley, la Ley de Hidrocarburos, su Reglamento y demás Normativa aplicable, así como sus modificaciones;
 
 c. En su caso, proponer la emisión, modificación y cancelación de normas oficiales mexicanas, procedimientos de evaluación de la conformidad, procedimientos de homologación, así como otras disposiciones técnicas en materia de hidrocarburos y, en coordinación con las unidades administrativas competentes de la Comisión, realizar las actividades que correspondan;
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+d. Coordinar la formulación y revisión de proyectos de iniciativas de leyes o decretos, así como de reglamentos, acuerdos y demás disposiciones de observancia general en las materias de competencia de la Comisión y del sector.
 
 II. En materia de estrategia regulatoria y de normalización:
 
@@ -777,57 +851,109 @@ d. Participar en los procesos de modernización y adecuación del orden normativ
 
 e. Participar y apoyar en el funcionamiento del Consejo Consultivo;
 
-III. En materia consultiva:
-
-a. Revisar y validar los contratos previstos en la Ley de Hidrocarburos;
-
-b. Emitir opinión respecto de las consultas que en materia jurídica formulen las unidades administrativas de la Comisión;
-
-c. Coordinar la formulación y revisión de los proyectos de iniciativas de leyes o decretos, así como de los reglamentos, acuerdos y demás disposiciones de observancia general en las materias competencia de la Comisión y del sector;
-
-d. Revisar, opinar y en su caso validar que los proyectos de contratos, convenios e instrumentos jurídicos que pretenda celebrar la Comisión, se adecuen a las disposiciones legales y administrativas aplicables;
-
-e. Opinar sobre las posibles sanciones o medidas que tome el Órgano de Gobierno derivado del ejercicio de sus facultades;
-
-f. Dictaminar sobre formalidades y requisitos jurídicos que deben contener las formas de actas, oficios de notificaciones, visitas y, en general, los demás documentos de uso oficial que se utilicen en forma reiterada en las actividades que realizan las diversas unidades administrativas y direcciones generales de la Comisión, y
+III. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2018)
 
 IV. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 25.
 
-Facultades de la Dirección General de lo Contencioso. La Dirección General de lo Contencioso estará adscrita al Titular de la Unidad Jurídica, acordará con ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Facultades de la Dirección General de lo Contencioso. La Dirección General de lo Contencioso estará adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
 I. Asesorar jurídicamente sobre cuestiones contenciosas a las unidades administrativas de la Comisión en los asuntos que sean competencia de las mismas;
 
-II. Representar legalmente a la Comisión, Órgano de Gobierno, Comisionado Presidente, Comisionados, y a sus unidades administrativas en toda clase de juicios ante los Órganos jurisdiccionales y otras autoridades competentes, ejercitar las acciones, excepciones y defensas que competan a la Comisión; formular escritos de demanda o contestación en toda clase de procedimientos judiciales, contencioso-administrativos o laborales, ofrecer pruebas, absolver posiciones, comparecer en todo tipo de audiencias, formular alegatos, desistirse e interponer todo tipo de recursos que procedan ante los citados tribunales y autoridades y, en general, atender la tramitación de los juicios y procedimientos y dar cumplimiento a las resoluciones que en ellos se pronuncien, así como coordinar la defensa en los juicios promovidos en el extranjero en que sea parte la Comisión;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-III. Intervenir en los juicios de amparo y demás controversias en que la Comisión sea parte o tenga el carácter de tercero perjudicado cuando versen sobre asuntos de la competencia del Órgano de Gobierno, Comisionado Presidente, Comisionados y demás unidades administrativas de la Comisión, con las facultades para intervenir de delegados en las audiencias; así como proponer la designación de abogados y coordinar su actuación a lo largo del proceso en los juicios respectivos; tramitar los recursos de revisión, reclamación y queja a que se refiere que contempla la legislación de amparo y, en general, llevar a cabo la substanciación de toda clase de juicios y recursos ante el Poder Judicial de la Federación;
+II. Representar legalmente a la Comisión, Órgano de Gobierno, Comisionado Presidente, Comisionados, Titulares de Unidad, Oficial Mayor, Secretaría Ejecutiva, Directores Generales y a sus unidades administrativas en el ámbito de sus atribuciones en toda clase de juicios y procedimientos ante los Órganos jurisdiccionales y administrativos, tribunales arbitrales y otras autoridades competentes, ejercitar las acciones, excepciones y defensas que competan a la Comisión; formular escritos de demanda o contestación en toda clase de procedimientos judiciales, contencioso-administrativos, arbitrales o laborales, ofrecer pruebas, absolver posiciones, comparecer en todo tipo de audiencias, formular alegatos, desistirse e interponer todo tipo de recursos que procedan ante los citados tribunales y autoridades y, en general, atender la tramitación de los juicios y procedimientos contenciosos así como coordinar la defensa en los juicios promovidos en el extranjero en que sea parte la Comisión;
 
-IV. Formular los informes previos y con justificación en materia de amparo que deban presentar los servidores públicos de la Comisión que no están comprendidos en la fracción anterior de este artículo y que sean señalados como autoridades responsables;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-V. Autorizar, modificar, revocar o negar a los servidores públicos de la Comisión, a los miembros de los grupos arbitrales, a sus asistentes y a los participantes, que intervengan en el procedimiento de arbitraje, conforme a lo dispuesto en el Título Cuarto del Libro Quinto del Código de Comercio y los tratados internacionales en materia de arbitraje y solución de controversias de los que México sea parte;
+III. Intervenir en los juicios de amparo y demás controversias en que la Comisión, Órgano de Gobierno, Comisionado Presidente, Comisionados, Titulares de Unidad, Oficial Mayor, Secretaría Ejecutiva, Directores Generales y demás unidades administrativas en el ámbito de sus atribuciones sean parte; así como la designación de abogados y coordinar su actuación a lo largo del procedimiento en los juicios respectivos; tramitar los recursos que contempla la legislación aplicable y, en general, llevar a cabo la substanciación de toda clase de juicios y recursos ante las autoridades competentes;
 
-VI. Ejercer las acciones judiciales y contencioso-administrativas que competan a la Comisión; formular querella o denunciar ante el Ministerio Público los hechos que lo ameriten; otorgar perdón y gestionar ante cualquier autoridad la liberación y devolución de bienes de activo fijo de la Comisión relacionados con averiguaciones previas, procedimientos judiciales o administrativos de cualquier naturaleza;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-VII. Asesorar al Órgano de Gobierno y a las unidades administrativas de la Comisión en los asuntos laborales, levantamiento de constancias y actas administrativas, así como dictaminar sobre las bajas y demás sanciones que procedan respecto del personal de base o de confianza de la Comisión, por las causas establecidas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional, y demás disposiciones aplicables en materia laboral, y
+IV. Formular los informes previos y con justificación en materia de amparo que deban presentar los servidores públicos de la Comisión en el ámbito de sus atribuciones y que sean señalados como autoridades responsables;
 
-> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2017)</small>
+V. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2018)
 
-VIII. En materia de fiscalización y transparencia:
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-a. Coordinar a las unidades administrativas de la Comisión para la atención de los requerimientos realizados por los órganos fiscalizadores del Estado;
+VI. Ejercer las acciones judiciales que competan a la Comisión; formular querella o denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delito; otorgar perdón en los casos que proceda;
 
-b. Coordinar la atención de las obligaciones de transparencia de la Comisión, en términos de la Normativa aplicable;
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+VII. Gestionar ante cualquier autoridad la liberación y devolución de bienes de activo fijo de la Comisión relacionados con carpetas de investigación, procedimientos judiciales o administrativos de cualquier naturaleza;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Asesorar al Órgano de Gobierno y a las unidades administrativas de la Comisión en los asuntos laborales, levantamiento de constancias y actas administrativas, en términos de las disposiciones aplicables en materia laboral;
+
+IX. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2018)
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+X. Representar legalmente a la Comisión, Órgano de Gobierno, Comisionado Presidente, Comisionados, Titulares de Unidad, Oficial Mayor, Secretaría Ejecutiva, Directores Generales y a sus unidades administrativas, así como a los demás funcionarios de la Comisión en el ámbito de sus atribuciones, como unidad administrativa encargada de su defensa Jurídica ante el Tribunal Federal de Justicia Administrativa, así como para ejercer las acciones, excepciones y defensas, ofrecer pruebas, comparecer en todo tipo de audiencias, formular alegatos, interponer toda clase de recursos, y en general atender la tramitación de los juicios contencioso administrativos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+XI. Interponer ante el Tribunal Colegiado de Circuito que corresponda, el recurso de revisión en contra de las sentencias y resoluciones que pongan fin al juicio, que emita el Tribunal Federal de Justicia Administrativa respecto de los juicios de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+XII. Intervenir en los mecanismos alternativos de solución de controversias en representación de la Comisión, Órgano de Gobierno, Comisionado Presidente, Comisionados, Titulares de Unidad, Oficial Mayor, Secretaría Ejecutiva, Directores Generales y sus unidades administrativas, así como a los demás funcionarios de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+XIII. Instrumentar las transacciones y conciliaciones judiciales y extrajudiciales, en términos de la legislación aplicable, y
 
 > <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2017)</small>
 
-IX. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
+XIV. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+La Dirección General de lo Contencioso estará a cargo de un Director General, auxiliado en el ejercicio de sus facultades, por el Director de lo Contencioso; el Director de Prevención, el Subdirector de Prevención, el Subdirector de lo Contencioso, el Jefe de Departamento de Procesos Judiciales y demás personal necesario para cumplir sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 25 Bis.
+
+Facultades de la Dirección General Jurídica de Procedimientos y Consulta. La Dirección General Jurídica de Procedimientos y Consulta estará adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+
+I. En materia de procedimientos administrativos:
+
+a. Coordinar los procedimientos administrativos para la emisión de autorizaciones, aprobaciones, dictámenes, resoluciones, opiniones y análisis y demás actos administrativos que deba emitir el Órgano de Gobierno, así como aquellos que correspondan a las Unidades Administrativas de la Comisión, derivados de la Ley de Hidrocarburos.
+
+II. En materia consultiva:
+
+a. Revisar y validar los contratos previstos en la Ley de Hidrocarburos;
+
+b. Emitir opinión respecto de las consultas que en materia jurídica le sean formuladas, en coordinación con las Unidades Administrativas cuando así lo considere necesario;
+
+c. En el ámbito de su competencia revisar, opinar y en su caso validar que los proyectos de contratos, convenios e instrumentos jurídicos que pretenda celebrar la Comisión, se adecuen a las disposiciones legales y administrativas aplicables; y
+
+d. Proponer a los Comisionados los criterios de interpretación para efectos administrativos, que emita la Comisión en la materia de su competencia, respecto a leyes, reglamentos y las disposiciones normativas o actos administrativos que emita.
+
+III. En materia de fiscalización y transparencia:
+
+a. Atender, en coordinación con a (sic) las unidades administrativas de la Comisión, los requerimientos realizados por los órganos fiscalizadores del Estado, y
+
+b. Coordinar la atención de las obligaciones de transparencia de la Comisión, en términos de la Normativa aplicable.
+
+IV. Tramitar y sustanciar los procedimientos administrativos, así como proponer al Órgano de Gobierno la imposición de sanciones previstas en la Ley de Hidrocarburos, así como llevar a cabo los actos necesarios para ejecutarlas.
+
+V. Precisar la adecuada aplicación de las disposiciones emitidas por la Comisión, considerando la Normatividad Aplicable, únicamente a partir de consultas formuladas por las Unidades Administrativas de la Comisión competentes en la materia. Lo anterior, respetando la competencia del Órgano de Gobierno establecida en el artículo 22, fracción IV de la Ley de los Órganos Reguladores Coordinados en Materia Energética; y
+
+VI. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
 
 ###### Artículo 26.
 
 Facultades de la Dirección General de Autorizaciones de Exploración. La Dirección General de Autorizaciones de Exploración estará adscrita al Titular de la Unidad Técnica de Exploración, acordará con éste el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
-I. Proporcionar los elementos técnicos y los proyectos de resolución a la Dirección General de Contratos para lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+I. Proporcionar los elementos técnicos y proponer el proyecto de autorización al Órgano de Gobierno para lo siguiente:
 
 a. La emisión de las autorizaciones respecto de la perforación de pozos;
 
@@ -985,25 +1111,41 @@ VI. Instalar sistemas de medición para verificar el funcionamiento de los medid
 
 VII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 31 Bis.
 
-Facultades de la Dirección General de Comercialización de Producción. La Dirección General de Comercialización de Producción estará adscrita a la Unidad Técnica de Extracción, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Facultades de la Dirección General de Comercialización de Producción. La Dirección General de Comercialización de Producción estará adscrita a la Unidad de Administración Técnica de Asignaciones y Contratos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
 
 I. Dar seguimiento a los reportes de producción por parte de los Asignatarios y los Contratistas que se consideran para el cálculo de las Contraprestaciones, así como de los derechos e impuestos correspondientes;
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
+
 II. Iniciar, tramitar y resolver los actos relacionados con los procedimientos de ajuste que deriven de los reportes de producción y que se requieran para la comercialización, así como para el cálculo de las Contraprestaciones, derechos e impuestos correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
 
 III. Difundir y remitir a las unidades administrativas de la Comisión y a las autoridades competentes la información de producción de Hidrocarburos que se requiera para el cálculo de las Contraprestaciones, derechos e impuestos correspondientes;
 
-IV. Proporcionar a la Dirección General de Contratos los términos y condiciones técnicos de los contratos de comercialización de Hidrocarburos para su elaboración;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+IV. Proporcionar a la Dirección General Jurídica de Asignaciones y Contratos los términos y condiciones técnicas de los contratos de comercialización de Hidrocarburos para su elaboración;
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
 
 V. Fungir como área requirente y suscribir los contratos, convenios y demás instrumentos jurídicos necesarios que en materia de comercialización de Hidrocarburos requiera la Comisión;
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
+
 VI. Coordinar las actividades relacionadas con la comercialización de Hidrocarburos y llevar a cabo los actos necesarios para administrar y ejecutar los contratos, convenios e instrumentos jurídicos relacionados;
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
+
 VII. Atender los avisos, notificaciones, informes, trámites y procedimientos en general que deriven de los contratos de comercialización de Hidrocarburos, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
 
 VIII. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las que sean necesarias para el ejercicio de su competencia.
 
@@ -1029,7 +1171,9 @@ IV. Resguardar la documentación en la que consten los acuerdos alcanzados media
 
 V. En caso de que del ejercicio de sus atribuciones detecte que un concesionario minero está llevando a cabo actividades de Exploración o Extracción de Hidrocarburos, dar aviso a la Secretaría y a la Secretaría de Economía;
 
-VI. Opinar técnicamente, en coordinación con la Dirección General de Contratos, el modelo de contratación que para cada Área Contractual solicite la Secretaría;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+VI. Opinar técnicamente, en coordinación con la Dirección General Jurídica de Asignaciones y Contratos, el modelo de contratación que para cada Área Contractual solicite la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -1043,9 +1187,9 @@ VIII. Supervisar el abandono y desmantelamiento de equipos en Áreas Contractual
 
 IX. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Contratista o Autorizado;
 
-(REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-X. Informar a la Dirección General de Contratos sobre la posible existencia de alguna causal de rescisión administrativa, terminación anticipada y en general cualquier incumplimiento de obligaciones contractuales derivadas de Contratos para la Exploración y Extracción, en la materia de su competencia;
+X. Informar a la Dirección General Jurídica de Asignaciones y Contratos y a la Dirección General de lo Contencioso sobre la posible existencia de alguna causal de rescisión administrativa, terminación anticipada y en general cualquier incumplimiento de obligaciones contractuales derivadas de Contratos para la Exploración y Extracción, en la materia de su competencia;
 
 > <small>(REFORMADA Y REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -1054,6 +1198,10 @@ XI. Integrar la documentación e información correspondiente para la sustanciac
 (REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
 
 XII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+La Dirección General de Administración Técnica de Contratos estará a cargo de un Director General, auxiliado en el ejercicio de sus facultades por, dos Directores Generales Adjuntos; ocho Directores; tres Subdirectores; siete Jefes de Departamento, y demás personal necesario para cumplir con sus funciones. Lo anterior de conformidad con el Manual de organización.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -1089,9 +1237,9 @@ VII. Supervisar el abandono y desmantelamiento de equipos en Áreas de Asignaci�
 
 VIII. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Asignatario o Autorizado;
 
-(REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-IX. Informar a la Dirección General de Contratos sobre la posible existencia de alguna causal de revocación de una Asignación de Extracción;
+IX. Informar a la Dirección General Jurídica de Asignaciones y Contratos sobre la posible existencia de alguna causal de revocación de una Asignación de Extracción;
 
 (REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
 
@@ -1104,6 +1252,10 @@ XI. Integrar la documentación e información correspondiente para la sustanciac
 (REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
 
 XII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+La Dirección General de Administración Técnica de Asignaciones estará a cargo de un Director General, auxiliado en el ejercicio de sus facultades por, tres Directores Generales Adjuntos; ocho Directores; cuatro Subdirectores y demás personal necesario para cumplir con sus funciones. Lo anterior de conformidad con el Manual de organización.
 
 ###### Artículo 34.
 
@@ -1157,7 +1309,9 @@ b. Coordinar y realizar todos los actos relativos a adquisiciones, arrendamiento
 
 c. Garantizar mediante la inclusión de las cláusulas respectivas, que los contratos convenios, pedidos, que se suscriban en la Comisión derivados de adquisiciones, arrendamientos, servicios y de obra pública, estarán sujetos a lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, a la Ley Federal Anticorrupción en Contrataciones Públicas, así como a las demás leyes, reglamentos y normas aplicables en materia de trasparencia y acceso a la información, de fiscalización y rendición de cuentas y combate a la corrupción;
 
-d. Suscribir convenios y contratos en materia de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como de cualquier otro instrumento relacionado que implique actos de administración, previo visto bueno de la Dirección General de Regulación y Consulta;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+d. Suscribir convenios y contratos en materia de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como de cualquier otro instrumento relacionado que implique actos de administración, previo visto bueno de la Dirección General Jurídica de Procedimientos y Consulta;
 
 e. Liberar garantías de contratos en materia de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y Ley de Obras Públicas y servicios Relacionadas con las Mismas, así como de cualquier otro instrumento relacionado, en términos de los lineamientos emitidos por la Oficialía Mayor;
 
@@ -1181,7 +1335,9 @@ e. Gestionar ante las dependencias globalizadoras, la Tesorería de la Federaci�
 
 f. Llevar la contabilidad, elaborar los estados financieros y presupuestarios de la Comisión, así como consolidar los informes conforme a lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
 
-g. Elaborar propuestas de contribuciones y aprovechamientos que deberán ser cobrados por la Comisión, en coordinación con la Dirección General de Regulación y Consulta;
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+g. Elaborar propuestas de derechos y aprovechamientos que deberán ser cobrados por la Comisión, en coordinación con la Dirección General de Regulación;
 
 h. Administrar el fideicomiso público constituido por la Secretaría, así como gestionar y llevar a cabo los actos relacionados con el mismo, de conformidad con lo establecido en el artículo 31 de la Ley;
 
@@ -1275,23 +1431,43 @@ o. Tramitar los asuntos de carácter administrativo de la Comisión y apoyar a l
 
 IV. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente, el Oficial Mayor así como las demás que sean necesarias para el ejercicio de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 38.
 
-Facultades de la Dirección General de Planeación. La Dirección General de Planeación estará adscrita al Titular de la Oficialía Mayor, acordará con éste el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Facultades de la Dirección General de Planeación. La Dirección General de Planeación estará adscrita a la Secretaría Ejecutiva, acordará con ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
 I. Coordinar el proceso de planeación estratégica de la Comisión;
 
 II. Coordinar a las unidades administrativas para proponer las estrategias y directrices necesarias para el cumplimiento de los objetivos y metas de la Comisión;
 
-III. Determinar los programas, planes y proyectos generales, especiales y estratégicos para el cumplimiento de la misión, visión, objetivos y metas de la Comisión, coordinando a las unidades administrativas;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-IV. Realizar los informes necesarios sobre la ejecución y avance de los programas, planes y proyectos de la Comisión;
+III. Dirigir la integración de los programas, planes y proyectos generales, especiales y estratégicos para el cumplimiento de la misión, visión, objetivos y metas de la Comisión, coordinando a las unidades administrativas;
 
-V. Dar seguimiento en la aplicación de las estrategias y el cumplimiento de metas y objetivos establecidos;
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
-VI. Representar legalmente a la Comisión ante la Comisión Federal de Mejora Regulatoria para la gestión de trámites administrativos de las manifestaciones de impacto regulatorio de los proyectos de manuales, instructivos, lineamientos, disposiciones técnicas y administrativas de carácter general, y de normas oficiales mexicanas de la Comisión, así como para la solicitud de modificaciones o en su caso, cancelaciones de la información inscrita en el Registro Federal de Trámites y Servicios, y
+IV. Realizar los informes necesarios sobre la ejecución y avance de los programas, planes y proyectos de la Comisión; solicitando a las Jefaturas de Unidad la información pertinente;
 
-VII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente, el Oficial Mayor así como las demás que sean necesarias para el ejercicio de su competencia.
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+V. Analizar el avance en la ejecución de la estrategia y en caso de desviaciones solicitar a las Jefaturas de Unidad el establecimiento de medidas preventivas y/o correctivas;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+VI. Coordinar que la planeación estratégica de la Comisión se vea reflejada en la planeación financiera propuesta por la Dirección General de Finanzas, Adquisiciones y Servicios;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+VII. Coordinar las acciones con Dependencias y entidades de la Administración Pública Federal para la realización de actividades de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Coordinar a las unidades administrativas de la Comisión para la elaboración de la arquitectura de procesos y flujogramas y manuales de procedimientos, proporcionando las guías metodológicas y formatos, así como los mecanismos para actualización y difusión, y
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
+IX. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente, la Secretaría Ejecutiva, así como las demás que sean necesarias para el ejercicio de su competencia.
 
 ###### Artículo 39.
 
@@ -1467,17 +1643,19 @@ Para lo anterior, deberá tomarse en cuenta lo establecido en el artículo 15 de
 
 Ausencias previstas del Comisionado Presidente. Se consideran como ausencias previstas, aquéllas que son anunciadas con anticipación a los Comisionados. En estos casos, será suplido por el Comisionado que para ese efecto designe el Comisionado Presidente.
 
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 48.
 
-Ausencias imprevistas del Comisionado Presidente. En caso de ausencia por imprevistos, enfermedades u otras causas inhabilitantes, el Comisionado Presidente de la Comisión deberá ser suplido temporalmente por el Comisionado con mayor antigüedad, sin que pueda asumir las funciones indelegables, en términos del artículo 15 del presente Reglamento Interno, así como sus prerrogativas de voto.
+Ausencias imprevistas del Comisionado Presidente. En caso de ausencia por imprevistos, enfermedades u otras causas inhabilitantes, el Comisionado Presidente de la Comisión deberá ser suplido temporalmente, en todas sus funciones y atribuciones, por el Comisionado con mayor antigüedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 49.
 
-Ausencias de los demás servidores públicos de la Comisión. Los Titulares de Unidad, los Directores Generales, los Directores Generales Adjuntos, y los Directores de Área de la Comisión serán suplidos, en sus ausencias, por el servidor público inmediato inferior, en los asuntos de su respectiva competencia.
+Ausencias de los demás servidores públicos de la Comisión. Los Titulares de Unidad, la Secretaría Ejecutiva, los Directores Generales, los Directores Generales Adjuntos, y los Directores de Área de la Comisión serán suplidos, en sus ausencias, por el servidor público inmediato inferior, en los asuntos de su respectiva competencia.
 
-En el caso específico del Titular de la Secretaría Ejecutiva, cuando su ausencia sea por más de tres días será suplido durante un periodo determinado por el servidor público de la Comisión que para tal efecto designe el Órgano de Gobierno, a propuesta del Comisionado Presidente, determinando los alcances y plazo de la designación.
+En el caso específico del Titular de la Secretaría Ejecutiva, cuando su ausencia sea por más de diez días será suplido durante un periodo determinado por el servidor público de la Comisión que para tal efecto designe el Órgano de Gobierno, a propuesta del Comisionado Presidente, determinando los alcances y plazo de la designación.
 
 ## TRANSITORIOS
 
@@ -1538,3 +1716,21 @@ D.O.F. 29 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO CNH.E.67.002/17 MEDIANTE EL CUAL SE MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
 
 ÚNICO. El presente ACUERDO CNH.E.67.002/17 entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CNH.E.63.003/18 MEDIANTE EL CUAL SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
+
+PRIMERO.- El presente ACUERDO entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Hasta en tanto se autorice por las autoridades competentes, la estructura requerida, las funciones de la Dirección General Jurídica de Procedimientos y Consulta que se refieren en el artículo 25 Bis serán ejercidas de la siguiente forma:
+
+a) Fracción I y IV por el Director General Jurídico de Asignaciones y Contratos;
+
+b) Fracción II, por el Director General de Regulación;
+
+c) Fracción III, por el Director General de lo Contencioso;
+
+d) Fracción V, por el Titular de la Unidad Jurídica.
+
+SEGUNDO.- Inscríbase el presente ACUERDO CNH.E.63.003/18 en el Registro Público de la Comisión Nacional de Hidrocarburos.
