@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2018-10-23"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -2073,19 +2073,33 @@ b) Para ser Fiscal General del Estado se requiere:
 
 c) El Fiscal General durará en su encargo nueve años.
 
-d) El Fiscal General será designado por el Congreso del Estado mediante el siguiente procedimiento:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-1. A partir de que el cargo quede vacante, el Congreso contará con veinte días naturales para integrar una lista de diez candidatos aprobada por las dos terceras partes de sus miembros presentes. La integración en esta lista no genera ningún derecho a favor de las personas que la formen que pueda ser reclamado ante los tribunales, ni el procedimiento de designación puede considerarse como de carácter electoral. Esta lista será remitida al Gobernador del Estado.
+d) El fiscal general será designado y removido por el Congreso del Estado mediante el siguiente procedimiento:
 
-2. Si el Gobernador no recibe esta lista dentro del plazo señalado, enviará libremente al Congreso una terna y designará provisionalmente al Fiscal General hasta en tanto el Congreso haga la designación definitiva. El Fiscal así designado podrá formar parte de la terna.
+1. A partir de la ausencia definitiva del Fiscal General, el Congreso contará con cinco días naturales para emitir Convocatoria pública, a los ciudadanos, organismos no gubernamentales, asociaciones e instituciones, para que presenten propuestas a efecto de cubrir la vacante.
 
-3. Recibida la lista a que se refiere el punto uno de este inciso, el Gobernador formará de entre sus miembros, una terna que pondrá a consideración del Congreso dentro de los diez días hábiles siguientes a dicha recepción. La terna no podrá ser rechazada ni devuelta al Gobernador.
+2. La recepción de propuestas se hará en un plazo de diez días naturales, contado a partir del siguiente a aquel en que se haga pública la convocatoria respectiva.
 
-4. El Congreso, previa comparecencia de las personas propuestas, designará al Fiscal General por el voto de las dos terceras partes de sus miembros presentes, dentro del improrrogable plazo de diez días hábiles contados a partir de la recepción de la terna.
+3. Cumplido dicho plazo, y cerrada la recepción de propuestas, la comisión encargada del ramo citará de inmediato, y por un término no mayor de diez días naturales, a comparecer a las y los ciudadanos que cumplan los requisitos, con objeto de que aporten mayores elementos que permitan conocer sus objetivos de trabajo en la materia.
 
-5. En caso de que el Gobernador no envíe la terna dentro del plazo previsto en el punto tres de este inciso, el Congreso dispondrá de diez días hábiles para designar al Fiscal General de entre los miembros de la lista mencionada en el punto uno de este inciso. La designación deberá ser aprobada por las dos terceras partes de los diputados presentes.
+4. En un plazo de tres días naturales, contado a partir de que haya concluido el periodo de comparecencias de las y los candidatos, la comisión del ramo deberá emitir su dictamen, que contendrá una terna de candidatos, el cual será sometido al Pleno del Congreso del Estado, para que se realice el nombramiento.
 
-6. Si el Congreso no hace la designación dentro de los plazos establecidos en las disposiciones anteriores, el Gobernador designará al Fiscal de entre los candidatos que integren la lista enviada por el Congreso o, en su caso, la terna respectiva. Si por cualquier causa, no se configuran ni la lista, ni la terna, el Gobernador podrá designar libremente al Fiscal General.
+5. El Congreso, con base en la terna propuesta en el dictamen, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes, dentro del improrrogable plazo de cinco días hábiles contado a partir de emitido el dictamen.
+
+> <small>[N. DE E. PERTENECE AL INCISO D), G.O. 29 DE NOVIEMBRE DE 2018]</small>
+
+En caso de que ninguno de los integrantes de la terna obtenga la mayoría de votos arriba señalada, se realizará una segunda votación, en la que se designará como Fiscal General al candidato que cuente con la misma mayoría calificada.
+
+> <small>[N. DE E. PERTENECE AL INCISO D), G.O. 29 DE NOVIEMBRE DE 2018]</small>
+
+Si después de las dos rondas previstas ninguno de los candidatos alcanzó el voto requerido, se realizará una tercera votación, en la que se designará como Fiscal General al candidato que cuente con la mayoría absoluta.
+
+> <small>[N. DE E. PERTENECE AL INCISO D), G.O. 29 DE NOVIEMBRE DE 2018]</small>
+
+El Fiscal General podrá ser removido por el Congreso por las causas graves que establezca la ley, y por el mismo procedimiento de votación establecido para su designación.
+
+> <small>[N. DE E. PERTENECE AL INCISO D), G.O. 29 DE NOVIEMBRE DE 2018]</small>
 
 Las ausencias del Fiscal General serán suplidas en los términos que señale la ley.
 
@@ -12910,3 +12924,11 @@ G.O. 23 DE OCTUBRE DE 2018.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 749 QUE REFORMA EL INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo previsto en este Decreto.
