@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2018-09-27"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -415,9 +415,13 @@ V. Trabajo en favor de la comunidad o de la víctima u ofendido del delito;
 
 VI. Suspensión, privación, destitución e inhabilitación de derechos, funciones y empleos;
 
-VII. Amonestación; y
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Publicación de sentencia.
+VII. Pérdida definitiva de la patria potestad, tutela y custodia.
+
+VIII. Amonestación; y
+
+IX. Publicación de sentencia.
 
 ###### Artículo 46.
 
@@ -3455,7 +3459,7 @@ Se impondrán las mismas sanciones que señala el artículo anterior al servidor
 
 Se impondrán de dos a ocho años de prisión y multa hasta de doscientos días de salario al servidor público que ilegalmente ordene o ejecute un acto o inicie un procedimiento, en beneficio propio o ajeno o en perjuicio de alguien.
 
-((REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 318.
 
@@ -5096,5 +5100,13 @@ Artículo segundo. Las disposiciones señaladas en el artículo anterior continu
 ## TRANSITORIOS
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 718 POR EL QUE REFORMA EL ARTÍCULO 45 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; ASÍ COMO POR EL QUE SE REFORMA EL ARTÍCULO 8° DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, ADICIONÁNDOSE UN ARTÍCULO 64 BIS A LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
