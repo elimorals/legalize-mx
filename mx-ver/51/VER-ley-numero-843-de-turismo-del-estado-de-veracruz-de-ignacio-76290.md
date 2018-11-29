@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2018-09-11"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -174,6 +174,10 @@ c) Asegurar actividades económicas viables a largo plazo, que reporten a todos 
 XXXIII. Turista: El visitante nacional o internacional que permanece una noche, por lo menos, en un medio de alojamiento ubicado en el Estado;
 
 XXXIV. Visitante: Toda persona, ya sea turista o excursionista, que se desplaza a un lugar distinto al de su entorno habitual por una duración inferior a doce meses, y cuyo viaje no tenga como finalidad principal ejercer una actividad que se remunere en el lugar o país visitado; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XXXIV. Bis. Visitante Estatal: Toda aquella persona que, por nacimiento o por ser avecindado, tenga como finalidad el realizar una actividad turística e incentivar la economía local;
 
 XXXV. Zonas de Desarrollo Turístico Sustentable: Las declaradas como tales en el Estado por el Ejecutivo Federal, las que, por sus características naturales o culturales, constituyen un atractivo turístico.
 
@@ -407,8 +411,6 @@ El Consejo será un órgano colegiado de consulta, asesoría y apoyo técnico, q
 
 La finalidad del Consejo será el logro de la participación y el consenso de todos los miembros pertenecientes al sector, en las políticas públicas y programas de gobierno en materia turística.
 
-N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DE LA G.O. 13 DE AGOSTO DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE XI FRACCIONES.
-
 > <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 13.
@@ -432,6 +434,14 @@ VII. Proponer la candidatura de aquellos empresarios que destaquen por el impuls
 VIII. Promover la inscripción de los prestadores de servicios turísticos en el Registro Nacional de Turismo; y
 
 IX. Todas aquellas que, en el ámbito de su competencia, propicien el desarrollo turístico sustentable del Estado.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+X. Sugerir el o los mercados turísticos que ameritan un descuento, conforme al artículo 98, fracción IX, de esta Ley, así como el porcentaje con que se beneficie al Visitante Local.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XI. Incentivar a los prestadores de servicios turísticos, con la formulación de estrategias y acciones encaminadas a la instauración de un costo-beneficio.
 
 ###### Artículo 14.
 
@@ -1189,6 +1199,10 @@ VII. Recibir los servicios sin ser discriminados; y
 
 VIII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+IX. Los Visitantes Estatales contarán con un plan preferencial de descuento, con un mínimo de 20 % y un máximo de 50 %, sobre el precio establecido por producto turístico.
+
 ###### Artículo 99.
 
 Son deberes de los visitantes:
@@ -1468,3 +1482,11 @@ G.O. 11 DE SEPTIEMBRE DE 2018.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 771 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
