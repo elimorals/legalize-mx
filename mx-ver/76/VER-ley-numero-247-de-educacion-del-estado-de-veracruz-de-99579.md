@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2018-09-26"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -1167,6 +1167,12 @@ XVIII. Impulsar esquemas eficientes para el suministro de alimentos nutritivos p
 
 Las autoridades educativas estatales coadyuvarán con las instituciones que tengan a su cargo los programas de asistencia social y demás medidas tendentes a contrarrestar las condiciones sociales adversas, para contribuir a la efectiva equidad e igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 91 Bis.
+
+Corresponde a la Secretaría de Educación de Veracruz proporcionar becas de transporte a personas con discapacidad transitoria y definitiva que se encuentren inscritos en cualquier nivel educativo tanto oficial como particular, que cuenten con la autorización de estudios y/o reconocimiento de validez oficial de estudios.
+
 ### CAPÍTULO VI. DEL PROCESO EDUCATIVO
 
 ###### Artículo 92.
@@ -1189,9 +1195,11 @@ Las escuelas normales, las universidades pedagógicas, las universidades tecnol�
 
 El proceso educativo tendrá los tipos, niveles y modalidades, que determine la presente ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 95.
 
-Atendiendo a las condiciones del desarrollo cognitivo y psicomotor, y conforme a los criterios pedagógicos y didácticos contenidos en los planes y programas vigentes, se ofrecerá la enseñanza de un idioma adicional, así como de tecnologías de la información y de la comunicación, en los tipos, niveles, modalidades e instituciones educativas que establezcan las disposiciones que deriven de la presente ley, que reglamentarán su organización y funcionamiento.
+Conforme a los criterios pedagógicos y didácticos contenidos en los planes y programas vigentes, se ofrecerá de manera obligatoria la enseñanza de un idioma adicional, así como de tecnologías de la información y de la comunicación, para todos los tipos, niveles, modalidades e instituciones educativas que establezcan las disposiciones que deriven de la presente ley, que reglamentarán su organización y funcionamiento.
 
 ### CAPÍTULO VII. DE LA EDUCACIÓN INICIAL
 
@@ -1239,6 +1247,10 @@ VI. Incrementen sus capacidades artísticas y cívicas; y
 
 VII. Posean una conciencia histórica y una actitud orientada por valores democráticos.
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Adquieran conocimientos del idioma inglés como segunda lengua.
+
 ###### Artículo 102.
 
 La educación primaria comprende seis grados y se impartirá por las autoridades educativas estatales o municipales, y los particulares con autorización oficial, a niños de edades entre seis y catorce años.
@@ -1284,6 +1296,10 @@ I. El desarrollo de un sistema de valores sociales, a partir de principios unive
 II. La participación crítica en el desarrollo cultural de su tiempo;
 
 III. La capacitación para acceder en forma creativa al mundo del trabajo, a la transformación productiva y a los estudios de tipo superior;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+III. Bis. La adquisición de información que le permita elegir una opción profesional, mediante sistemas de orientación vocacional que fomenten la valoración de sus habilidades, intereses, preferencias, necesidades, aspiraciones, aptitudes y conocimientos;
 
 IV. La adquisición de conocimientos e instrumentos metodológicos necesarios para su formación y acceso al conocimiento científico y humanístico;
 
@@ -1417,6 +1433,18 @@ En el caso de los maestros de educación indígena que no tengan licenciatura co
 
 La educación especial tendrá como objetivo identificar, prevenir y eliminar las barreras para el aprendizaje y la participación social, plena y efectiva de las personas con discapacidades transitorias o definitivas, con Trastorno del Espectro Autista, con dificultades severas de aprendizaje, de conducta o de comunicación y con aptitudes sobresalientes; por tanto, deberá atender a las y los educandos en un contexto educativo, social y laboral incluyente, fundamentado en los principios de respeto, equidad, igualdad sustantiva, perspectiva de género, no discriminación en garantía del ejercicio de los derechos humanos que reconoce esta ley y las demás disposiciones constitucionales y legales aplicables.
 
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+En educación especial, las autoridades educativas deberán implementar y propiciar espacios educativos con la aplicación de procesos de enseñanza-aprendizaje, guiados por métodos, técnicas y materiales específicos.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+Tratándose de niños, adolescentes y jóvenes con aptitudes sobresalientes, las autoridades educativas propiciarán espacios educativos o modalidades idóneas, cuyo propósito fundamental será el desarrollo máximo del potencial intelectual. Esta educación deberá incluir la capacitación a docentes, padres o tutores.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+Las instituciones de educación superior dotadas de autonomía legal podrán celebrar convenios con la autoridad educativa federal, a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a estudiantes con capacidades y aptitudes sobresalientes.
+
 > <small>(REFORMADO, G.O. 29 DE MAYO DE 2018)</small>
 
 ###### Artículo 128.
@@ -1539,9 +1567,11 @@ La educación artística tiene por objeto propiciar el desarrollo de las faculta
 
 La educación ambiental tiene por objeto que los educandos adquieran conciencia de la importancia del ambiente, como elemento esencial para el desarrollo armónico e integral de las personas; y la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida y el equilibrio ecológico; así como el aprovechamiento racional de los recursos naturales ante los efectos adversos que pudieran presentarse por el cambio climático y otros fenómenos naturales.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 147.
 
-Las autoridades educativas estatales y municipales promoverán la educación ambiental para el desarrollo sustentable, así como el fomento de la investigación, el uso de métodos y técnicas para la prevención y la restauración ambiental de los ecosistemas.
+Las autoridades educativas estatales y municipales promoverán la educación ambiental para el desarrollo sustentable en la cual deberán considerar los huertos escolares, así como el fomento de la investigación, el uso de métodos y técnicas para la prevención y la restauración ambiental de los ecosistemas.
 
 ###### Artículo 148.
 
@@ -1563,7 +1593,13 @@ VII. Establecer cursos, foros, programas y talleres de educación ambiental, con
 
 VIII. Fomentar el uso de medios de comunicación para concientizar a la sociedad, sobre los problemas ambientales que afectan su entorno, propiciando la participación activa y fortaleciendo la formación de valores y actitudes de protección del ambiente; y
 
-IX. Las demás que establezcan esta ley, así como las leyes y disposiciones aplicables.
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+IX. Fomentar la creación de huertos escolares como fuente de motivación para que los alumnos planifiquen, colaboren, tomen decisiones y asuman responsabilidades individuales y colectivas sobre los hábitos de cuidado, alimentación sana y la responsabilidad por el medio ambiente; y
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+X.- Las demás que establezcan esta Ley, así como las leyes y disposiciones aplicables.
 
 ### CAPÍTULO XVII. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
@@ -2112,3 +2148,43 @@ G.O. 26 DE SEPTIEMBRE DE 2018.
 Primero. El Ejecutivo del Estado contará con 180 días para adecuar la reglamentación aplicable para estar en condiciones de emitir la convocatoria respectiva.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 694 QUE ADICIONA UNA FRACCIÓN III BIS AL ARTÍCULO 109 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 716 QUE REFORMA EL ARTÍCULO 147 Y ADICIONA LA FRACCIÓN IX, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN PARA CONVERTIRSE EN LA FRACCIÓN X, AL ARTÍCULO 148 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 726 QUE REFORMA EL ARTÍCULO 95 Y QUE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 101, AMBOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 733 QUE ADICIONA EL ARTÍCULO 91 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 22 DE LA LEY PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y SE ADICIONA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I INCISO A) AL ARTÍCULO 8 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 770 QUE ADICIONA LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 127 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. En un plazo no mayor de sesenta días naturales, contado a partir del inicio de vigencia del presente Decreto, la Secretaría de Educación del Estado realizará las acciones necesarias, a efecto de dar cumplimiento a lo previsto en este Decreto.
