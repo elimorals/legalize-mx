@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2018-11-16"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -381,11 +381,51 @@ III. Las solicitudes de remoción de servidores públicos municipales que hayan 
 
 Durante el mes de diciembre, el Presidente Municipal deberá rendir a los ciudadanos y al Ayuntamiento un informe sobre el estado que guarda la administración pública municipal. Dicho acto se realizará en Sesión pública y solemne de Cabildo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO II BIS. DE LA FACULTAD REGLAMENTARIA MUNICIPAL
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 33 Bis.
+
+Los Municipios contarán con un Prontuario Municipal, que tendrá por objeto la recopilación de los siguientes instrumentos normativos aplicables en sus respectivos ámbitos de validez:
+
+I. Bando de Policía y Gobierno;
+
+II. Reglamentos; y
+
+III. Plan Municipal de Desarrollo.
+
+Dichos instrumentos normativos serán relativos a las funciones y servicios públicos que sean competencia del Municipio.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 33 Ter.
+
+En un periodo que no exceda de noventa días, contados a partir de la instalación del Ayuntamiento, éste deberá verificar que el contenido de sus instrumentos normativos se encuentre actualizado; de lo contrario, deberá realizar las modificaciones correspondientes.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 33 Quater.
+
+La obligación en la elaboración, o en su caso, actualización de los instrumentos normativos compete al Ayuntamiento, con apoyo de la comisión edilicia del ramo, de su Secretaría y de la Dirección Jurídica.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 33 Quinquies.
+
+El Bando de Policía y Gobierno es un conjunto de disposiciones publicadas oficialmente, cuya finalidad es hacer prevalecer en la población los valores cívicos y las normas para una convivencia armónica y civilizada en el espacio público, determinando los supuestos de su infracción y de su consecuente sanción.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 33 Sexies.
+
+Los reglamentos municipales contienen preceptos imperativos orientados a la consecución de fines dentro de una comunidad determinada.
+
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE AGOSTO DE 2005)</small>
-
-### CAPÍTULO IV. DEL PRESIDENTE MUNICIPAL
 
 ###### Artículo 34.
 
@@ -469,7 +509,9 @@ XXII. Celebrar, previo acuerdo de sus respectivos Cabildos, convenios de coordin
 
 XXIII. Otorgar concesiones a los particulares, previa autorización del Congreso del Estado en los términos que señale esta ley, para la prestación de servicios públicos municipales y para el uso, explotación y aprovechamiento de bienes de dominio público de los municipios;
 
-XXIV. Celebrar convenios, previa autorización del Congreso del Estado, con personas físicas o morales;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XXIV. Celebrar, previa autorización del Congreso del Estado, convenios de coordinación con municipios de otras entidades federativas, así como con el Estado, en este último caso cuando tengan por objeto lo señalado en las fracciones III y X del artículo 71 de la Constitución y aquellos por los que el Estado se haga cargo de algunas de las funciones relacionadas con la administración de las contribuciones sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, y las que tengan por base el cambio de valor de los inmuebles;
 
 XXV. Tener a su cargo las siguientes funciones y servicios públicos municipales:
 
@@ -523,9 +565,9 @@ XXXIV. Expedir en lo conducente, para efectos de lo dispuesto en las fracciones 
 
 XXXV. Dictar, previo acuerdo de las dos terceras partes de sus integrantes, disposiciones que afecten al patrimonio inmobiliario municipal. La enajenación, transmisión de la posesión o dominio de bienes inmuebles se podrá otorgar siempre que medie autorización expresa del Congreso del Estado;
 
-> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-XXXVI. Cuando se trate de la contratación de obras y servicios públicos que comprometan al municipio por un plazo mayor al periodo del Ayuntamiento, se requerirá el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado; en el caso de contratos de obra pública cuyo monto exceda del veinte por ciento de la partida presupuestal respectiva, se requerirá en los mismo (sic) términos el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado o, en sus recesos, de la Diputación Permanente;
+XXXVI. Cuando se trate de la contratación de obras y servicios públicos que comprometan al municipio por un plazo mayor al periodo del Ayuntamiento, se requerirá el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado;
 
 > <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
 
@@ -575,7 +617,7 @@ XLIX. Determinar y expedir los indicadores de desempeño; y
 
 L. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
 
-### CAPÍTULO V. DEL SÍNDICO
+### CAPÍTULO IV. DEL PRESIDENTE MUNICIPAL
 
 ###### Artículo 36.
 
@@ -657,7 +699,7 @@ XXVII. Vigilar y cumplir el uso de indicadores de desempeño; y
 
 XXVIII. Las demás que expresamente le confieran esta Ley y demás leyes del Estado.
 
-### CAPÍTULO VI. DE LOS REGIDORES
+### CAPÍTULO V. DEL SÍNDICO
 
 ###### Artículo 37.
 
@@ -697,9 +739,7 @@ XIII. Asociarse a las Comisiones cuando se trate de asuntos que afecten a todo e
 
 XIV. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
 
-### CAPÍTULO VII. DE LAS COMISIONES MUNICIPALES
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO VI. DE LOS REGIDORES
 
 ###### Artículo 38.
 
@@ -721,7 +761,9 @@ VII. Colaborar en la formulación anual de la ley de ingresos del municipio, en 
 
 VIII. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
 
-### CAPÍTULO VIII. DE LOS AGENTES Y SUBAGENTES MUNICIPALES
+### CAPÍTULO VII. DE LAS COMISIONES MUNICIPALES
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 39.
 
@@ -1487,9 +1529,7 @@ VI. Asegurar la continuidad del Plan de Desarrollo Municipal; y
 
 VII. Fortalecer y dar un carácter institucional al proceso de planeación estratégica integral para el desarrollo sustentable e incluyente a mediano y largo plazo del municipio.
 
-### CAPÍTULO IX. DE LOS JEFES DE MANZANA, COMISARIO MUNICIPAL Y ORGANISMOS AUXILIARES
-
-> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO VIII. DE LOS AGENTES Y SUBAGENTES MUNICIPALES
 
 ###### Artículo 61.
 
@@ -1549,9 +1589,9 @@ XII. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO X. DE LOS CRONISTAS MUNICIPALES
+### CAPÍTULO IX. DE LOS JEFES DE MANZANA, COMISARIO MUNICIPAL Y ORGANISMOS AUXILIARES
 
-> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 63.
 
@@ -1601,7 +1641,9 @@ Son organismos auxiliares de los Ayuntamientos los Comités y Patronatos que con
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 3 DE ENERO DE 2007)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO X. DE LOS CRONISTAS MUNICIPALES
+
+> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
 
 ###### Artículo 66-A.
 
@@ -1693,7 +1735,7 @@ III. Crear un Consejo de la Crónica, con los ciudadanos de mayor reconocimiento
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 67.
 
@@ -1701,21 +1743,21 @@ Las dependencias, entidades, órganos y servidores públicos de los Ayuntamiento
 
 Estarán exceptuados de lo dispuesto por el párrafo anterior, los actos y procedimientos administrativos en materia laboral, electoral, de procuración de justicia y los de nombramiento y remoción de los servidores públicos municipales, los que se regirán por las leyes especiales y reglamentos municipales que regulen dichas materias.
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 68.
 
-Con base en lo dispuesto en esta Ley, el Ayuntamiento podrá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo, cargo o comisión de confianza de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales. Al efecto, dichos servidores públicos deberán contar con título profesional o carta de pasante, expedidos por institución legalmente facultada para ello o, en su defecto, con experiencia acreditada en el ramo, a juicio de quien se encuentre facultado para nombrarlo, y preferentemente, deberán ser originarios del municipio respectivo.
+Con base en lo dispuesto en esta Ley, el ayuntamiento podrá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo, cargo o comisión de confianza de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales. Al efecto, los titulares de la Secretaría del Ayuntamiento, la Tesorería Municipal, la Dirección de Obras Públicas y la Contraloría, deberán contar con título profesional legalmente expedido y cédula profesional, afines a la naturaleza del cargo y con una antigüedad mínima de un año al día de su designación. Para cualquier otro cargo, en caso de no contarse con la documentación antes referida, será necesario tener experiencia acreditada en el ramo, a juicio de quien se encuentre facultado para nombrarlo.
 
-### CAPITULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
+### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 69.
 
-Cada Ayuntamiento contará con una Secretaría, cuyo titular será nombrado conforme a las disposiciones de esta ley. El Secretario del Ayuntamiento deberá contar preferentemente con título profesional, y tendrá a su cargo y bajo su inmediata dirección, cuidado y responsabilidad, la oficina y archivo del Ayuntamiento, con el acuerdo del Presidente Municipal.
+Cada Ayuntamiento contará con una Secretaría, cuyo titular será nombrado conforme a las disposiciones de esta Ley. Para ocupar el cargo de Secretario del Ayuntamiento, deberán reunirse los requisitos establecidos en el artículo 68 de este ordenamiento, y tendrá a su cargo y bajo su inmediata dirección, cuidado y responsabilidad, la oficina y archivo del Ayuntamiento, con el acuerdo del Presidente Municipal.
 
 La Secretaría del Ayuntamiento se ubicará en el Palacio Municipal, donde se guardará el archivo del Municipio, con la reserva y confidencialidad que establezcan las disposiciones legales y reglamentarias aplicables.
 
@@ -2065,9 +2107,11 @@ Artículo 73 Sedecies. Las dependencias y entidades proporcionarán los informes
 
 #### SECCIÓN QUINTA. Del Jefe o Comandante de la Policía Municipal
 
-> <small>(ADICIONADO, G.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-Artículo 73 Septies decies. El Jefe o Comandante de la Policía Municipal, quien será nombrado conforme a lo dispuesto por la presente Ley, deberá contar con la certificación correspondiente, previo cumplimiento de los procedimientos de evaluación de control de confianza, solicitados en la carrera Policial y de profesionalización.
+###### Artículo 73 Septies Decies.
+
+El Jefe o Comandante de la Policía Municipal, quien será nombrado conforme a lo dispuesto por la presente Ley, deberá reunir los requisitos establecidos en el artículo 68 de este ordenamiento, así como la correspondiente certificación legalmente expedida, previo cumplimiento de los procedimientos de evaluación de control de confianza, solicitados en la carrera policial y de profesionalización.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
@@ -2103,7 +2147,7 @@ X. Coadyuvar, en el ámbito de su competencia, a implementar las medidas adminis
 
 XI. Las demás que le otorguen esta Ley y demás leyes aplicables del Estado.
 
-### CAPITULO I. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES
+### CAPITULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
 ###### Artículo 74.
 
@@ -2283,9 +2327,7 @@ IV. Cumplir con los demás requerimientos que se fijen de común acuerdo con el 
 
 ## TÍTULO CUARTO. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES, CONCESIONES, CONTRIBUCIÓN PARA OBRAS PÚBLICAS Y CONVENIOS
 
-### CAPÍTULO II. DE LAS CONCESIONES
-
-> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
+### CAPITULO I. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES
 
 ###### Artículo 92.
 
@@ -2321,7 +2363,9 @@ V. Que se acredite por la Autoridad Administrativa que la persona con discapacid
 
 Por ningún motivo se extenderá este beneficio a más de un inmueble por persona y, en todo caso, corresponderá al Ayuntamiento, concesionario u organismo prestador del servicio, establecer con claridad los mecanismos o documentos con las que deban satisfacer los requisitos exigidos. Este beneficio se otorgará aún cuando el servicio sea concesionado.
 
-### CAPÍTULO III. DE LA CONTRIBUCIÓN DE LOS PARTICULARES PARA OBRAS PÚBLICAS
+### CAPÍTULO II. DE LAS CONCESIONES
+
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 96.
 
@@ -2479,9 +2523,7 @@ A petición formulada por los concesionarios de servicios públicos municipales 
 
 En caso de extinción de la concesión de servicios públicos municipales, los bienes con que se preste el servicio podrán revertirse en favor del municipio. El Congreso del Estado o la Diputación Permanente, oyendo al interesado y al Ayuntamiento, podrán determinar el pago de la indemnización que proceda cuando, durante la vigencia de la concesión, no hubiera existido amortización de los bienes afectos al servicio, siempre y cuando así lo demuestre el concesionario.
 
-### CAPÍTULO IV. DE LOS CONVENIOS, LA COORDINACIÓN Y LA ASOCIACIÓN MUNICIPAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO III. DE LA CONTRIBUCIÓN DE LOS PARTICULARES PARA OBRAS PÚBLICAS
 
 ###### Artículo 102.
 
@@ -2525,11 +2567,13 @@ XI. A partir de la fecha de publicación del Decreto expropiatorio, no deberán 
 
 XII. El costo de las obras se dividirá en partes iguales entre el Municipio y los particulares que resulten beneficiados con las obras realizadas, incluyendo intereses sobre saldos insolutos, señalados por las instituciones bancarias en el momento de generarse. La forma de pago se fijará por el Ayuntamiento con autorización del Congreso del Estado o de la Diputación Permanente.
 
-### CAPÍTULO I
+### CAPÍTULO IV. DE LOS CONVENIOS, LA COORDINACIÓN Y LA ASOCIACIÓN MUNICIPAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 103.
 
-Los municipios podrán celebrar convenios, previa autorización del Congreso del Estado o de la Diputación Permanente, la que se otorgará siempre y cuando la coordinación o asociación arrojen un beneficio en la prestación de los servicios a los habitantes de los municipios, exista un acuerdo de cabildo aprobado por las dos terceras partes de sus miembros y se haya escuchado a los Agentes y Subagentes Municipales, Comisario Municipal, así como a los Jefes de Manzana. Esta disposición regirá para los casos siguientes:
+Los municipios podrán celebrar, previa autorización del Congreso del Estado o de la Diputación Permanente, los siguientes convenios de coordinación o asociación, siempre y cuando generen un beneficio en la prestación de los servicios a los habitantes:
 
 I. Con municipios de otras entidades federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan;
 
@@ -2541,21 +2585,19 @@ IV. Con el Estado o la Federación, para asumir la ejecución y operación de ob
 
 V. Con el Estado o la Federación, para que éstos asuman la ejecución y operación de obras y la prestación de servicios públicos que corresponda a los municipios, cuando el desarrollo económico y social lo hagan necesario;
 
-VI. Con personas físicas o morales para la ejecución u operación de obras, o la prestación de servicios públicos municipales, cuando en virtud del convenio y sin afectar la calidad del servicio, se produzcan beneficios para el Municipio en los términos de esta Ley;
+VI. (DEROGADA, G.O. 29 DE NOVIEMBRE DE 2018)
 
-VII. Con la Federación o el Estado para realizar actividades o ejercer facultades en bienes y zonas de jurisdicción federal o estatal. Para la realización de acciones conjuntas o para delegarles atribuciones en materia de preservación, conservación y restauración del equilibrio ecológico, así como la protección y mejoramiento del ambiente; o
+VII. (DEROGADA, G.O. 29 DE NOVIEMBRE DE 2018)
 
 VIII. Con el Estado, para que éste asuma actividades o ejerza facultades en la jurisdicción del municipio, ejecutando acciones conjuntas y atribuciones delegadas en materia catastral, como son la elaboración, mantenimiento y actualización del Catastro, dependiendo de la norma, asesoría y supervisión Estatal.
 
-> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2016)</small>
-
-IX. Con la Federación o el Estado para realizar actividades o ejercer facultades en relación con la ejecución de políticas y programas relacionados con la igualdad de género.
+IX. (DEROGADA, G.O. 29 DE NOVIEMBRE DE 2018)
 
 Tratándose de convenios con otros municipios de la entidad, sólo se requerirá el previo acuerdo entre sus respectivos Ayuntamientos, notificándolo al Congreso del Estado o a la Diputación Permanente.
 
 ## TÍTULO QUINTO. DE LA HACIENDA MUNICIPAL
 
-### CAPÍTULO I. DE SUS DERECHOS Y OBLIGACIONES
+### CAPÍTULO I
 
 ###### Artículo 104.
 
@@ -2625,9 +2667,7 @@ Cuando las licitaciones a que hace referencia el párrafo anterior, no sean idó
 
 ## TÍTULO SEXTO. DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
-### CAPÍTULO II. DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO
-
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
+### CAPÍTULO I. DE SUS DERECHOS Y OBLIGACIONES
 
 ###### Artículo 114.
 
@@ -2757,7 +2797,7 @@ El Congreso del Estado o la Diputación Permanente harán al Ministerio Público
 
 Se concede acción popular para denunciar ante el Procurador General de Justicia del Estado, la malversación de fondos municipales o cualquier otro hecho que importe menoscabo de la Hacienda Municipal.
 
-### CAPÍTULO III. DE LA SUSPENSIÓN Y DECLARACIÓN DE DESAPARICIÓN DE LOS AYUNTAMIENTOS
+### CAPÍTULO II. DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO
 
 > <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
 
@@ -2791,7 +2831,7 @@ Cuando proceda la revocación del mandato, el Congreso del Estado podrá sancion
 
 De los delitos del orden común cometidos por los Presidentes o Síndicos Municipales, conocerán los Tribunales del mismo orden, previo su desafuero. Los demás Ediles deberán ser suspendidos por el Congreso del Estado, cuando se haya dictado en su contra auto de formal prisión y la revocación del mandato procederá si resulta culpable del delito, por sentencia que cause ejecutoria.
 
-### CAPÍTULO IV. DEL PROCEDIMIENTO PARA LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO Y SUSPENSIÓN DE AYUNTAMIENTOS
+### CAPÍTULO III. DE LA SUSPENSIÓN Y DECLARACIÓN DE DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
 
@@ -2819,7 +2859,9 @@ II. Cuando el Ayuntamiento abandone sus funciones; o
 
 III. La renuncia o separación mayoritaria de los Ediles, declarada procedente por el Congreso del Estado.
 
-### CAPÍTULO V. DEL PROCEDIMIENTO PARA DECLARAR LA DESAPARICIÓN DE UN AYUNTAMIENTO
+### CAPÍTULO IV. DEL PROCEDIMIENTO PARA LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO Y SUSPENSIÓN DE AYUNTAMIENTOS
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 131.
 
@@ -2883,9 +2925,7 @@ Dicha resolución se notificará a los acusados y se publicará en la Gaceta Ofi
 
 Dictada la resolución a que se refiere este artículo se continuará con el procedimiento ordenado en el presente Capítulo.
 
-### CAPÍTULO VI. DE LA DECLARACIÓN DE PROCEDENCIA
-
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
+### CAPÍTULO V. DEL PROCEDIMIENTO PARA DECLARAR LA DESAPARICIÓN DE UN AYUNTAMIENTO
 
 ###### Artículo 148.
 
@@ -2893,13 +2933,15 @@ Cuando el Congreso del Estado al recibir la denuncia, tenga conocimiento de que 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO VII. DE LA RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO VI. DE LA DECLARACIÓN DE PROCEDENCIA
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 149.
 
 Para la declaración de procedencia en contra del Presidente Municipal y del Síndico, por la comisión de delitos, el Congreso del Estado actuará con base en la ley de la materia.
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS ENUNCIADOS EN EL PRESENTE TÍTULO
+### CAPÍTULO VII. DE LA RESPONSABILIDAD ADMINISTRATIVA
 
 ###### Artículo 150.
 
@@ -3013,7 +3055,7 @@ Para el cumplimiento de las atribuciones que les confiere esta Ley, los Ayuntami
 
 Las facultades para ejecutar las sanciones que esta Ley prevé, prescribirán en tres años.
 
-### CAPÍTULO I
+### CAPÍTULO VIII. DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS ENUNCIADOS EN EL PRESENTE TÍTULO
 
 ###### Artículo 165.
 
@@ -3041,8 +3083,6 @@ Todas las comunicaciones oficiales que deban girarse para la práctica de las di
 
 ### CAPÍTULO I
 
-> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2013)</small>
-
 ###### Artículo 169.
 
 En caso de declararse desaparecido un Ayuntamiento, si conforme a la Ley no procediere que entrasen en funciones los suplentes, el Congreso del Estado del Estado designará de entre los vecinos a un Concejo Municipal que concluirá el período respectivo.
@@ -3055,9 +3095,9 @@ El Congreso del Estado, podrá suspender o remover a los miembros del Concejo Mu
 
 ## TÍTULO OCTAVO. DE LA ELECCIÓN DE AGENTES Y SUBAGENTES MUNICIPALES
 
-### CAPITULO I
+### CAPÍTULO I
 
-> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2013)</small>
 
 ###### Artículo 171.
 
@@ -3257,9 +3297,9 @@ La elección de Agentes y Subagentes municipales, es un proceso que se realizar�
 
 ## TÍTULO NOVENO. DE LA ENTREGA Y RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-### CAPÍTULO I
+### CAPITULO I
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2013)</small>
 
 ###### Artículo 186.
 
@@ -3381,9 +3421,9 @@ Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo co
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
-### CAPÍTULO II
+### CAPÍTULO I
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2017)</small>
 
 ###### Artículo 191.
 
@@ -3484,6 +3524,10 @@ El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán 
 Los planes y programas podrán ser modificados mediante el mismo procedimiento requerido para su elaboración, aprobación y publicación, cuando así lo demande el interés ciudadano o las necesidades de carácter técnico o económico.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO II
+
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 202.
 
@@ -4205,10 +4249,36 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 16 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 789 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO ELECTORAL, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 789 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO ELECTORAL, ORDENAMIENTOS TODOS DEL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 704 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 727 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 769 QUE ADICIONA EL CAPÍTULO II BIS AL TÍTULO SEGUNDO DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley que establece las Bases Generales para la Expedición de Bandos de Policía y Gobierno, Reglamentos, Circulares y Disposiciones Administrativas de Observancia General de Orden Municipal.
+
+Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
