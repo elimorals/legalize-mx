@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adquisiciones-arrendamientos-administracion-y-29503"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2017-12-26"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de febrero de 2003.
 
@@ -905,6 +905,10 @@ XIV. Los Entes Públicos se adhieran a un proceso de licitación celebrado por o
 
 Para proceder a una licitación simplificada, el Ente Público invitará cuando menos a tres de sus proveedores registrados, a quienes les hará llegar la información a que se refiere el artículo siguiente.
 
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+Los proveedores con residencia y domicilio fiscal en el Estado y en el municipio de que se trate, que se encuentren registrados en el padrón correspondiente de los entes públicos, tendrán preferencia para ser adjudicatarios, y se les permitirá un precio hasta 5% mayor que el de las cotizaciones foráneas.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 57.
@@ -919,11 +923,11 @@ El fallo de la licitación, si no es posible emitirlo en el acto de recepción y
 
 La licitación simplificada se realizará en una sola etapa, de conformidad con el procedimiento señalado en el artículo 43 de esta Ley con o sin la presencia de los participantes, pero invariablemente se contará con la participación del Órgano Interno de Control. Sólo se admitirá una proposición por participante. En caso de que se presentara sólo una de ellas, la unidad procederá a realizar una investigación de mercado para determinar la conveniencia de adjudicar el contrato al licitante único. Si se declara desierta la licitación simplificada, el Ente Público podrá adjudicarlo directamente.
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 59.
 
-Las adjudicaciones directas sólo se realizarán con los proveedores previamente registrados en el padrón de los Entes Públicos.
+Las adjudicaciones directas sólo se realizarán con los proveedores previamente registrados en el padrón de los entes públicos. Los que tengan residencia y domicilio fiscal en el Estado y en el municipio de que se trate tendrán preferencia para ser adjudicatarios.
 
 ### CAPÍTULO VII. Formalización del Contrato
 
@@ -1498,3 +1502,11 @@ G.O. 26 DE DICIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 728 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 56 Y QUE REFORMA EL ARTÍCULO 59 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
