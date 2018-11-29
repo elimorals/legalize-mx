@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-288-del-juicio-de-proteccion-de-derechos-humanos-252
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-05"
-last_updated: "2016-05-04"
+last_updated: "2018-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 288 DEL JUICIO DE PROTECCION DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 675 DE CONTROL CONSTITUCIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 29 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL JUICIO DE PROTECCIÓN DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 5 de julio de 2002.
 
@@ -109,7 +111,7 @@ I. El agraviado o agraviados: tienen este carácter las personas físicas, las p
 
 II. La autoridad o autoridades responsables: tienen ese carácter las mencionadas en el inciso f) del artículo 2 de esta Ley; y
 
-III El tercero interesado. Tienen este carácter la persona o personas a quienes beneficie el acto de autoridad contra el cual se interpone el juicio.
+III. El tercero interesado. Tienen este carácter la persona o personas a quienes beneficie el acto de autoridad contra el cual se interpone el juicio.
 
 ###### Artículo 8.
 
@@ -646,3 +648,13 @@ G.O. 4 DE MAYO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 675 DE CONTROL CONSTITUCIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley número 288 del Juicio de Protección de Derechos Humanos del Estado de Veracruz-Llave (sic).
+
+Tercero. Se derogan todas las disposiciones que se opongan a la presente Ley.
