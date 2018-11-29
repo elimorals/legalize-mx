@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-834-de-medios-alternativos-para-la-solucion-de-94311
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-10"
-last_updated: "2016-11-29"
+last_updated: "2018-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 834 DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 10 de mayo de 2013.
 
@@ -431,7 +431,9 @@ El reglamento establecerá la organización y funcionamiento de las diversas ár
 
 El Consejo Directivo estará integrado por tres consejeros nombrados por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado.
 
-Los consejeros deberán reunir los requisitos establecidos en la Constitución Política del Estado parar ser magistrado del Poder Judicial y durarán en su encargo seis años improrrogables.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+Los consejeros deberán reunir los requisitos establecidos en la Constitución Política del Estado para ser Magistrado del Poder Judicial, con excepción de la edad mínima que será de treinta años, y durarán en su encargo seis años improrrogables.
 
 Los consejeros elegirán de entre sus miembros a su Presidente, el que durará en su encargo dos años improrrogables.
 
@@ -558,3 +560,11 @@ G.O. 29 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 923 QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 345 Y REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 346 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; ADICIONA TRES PÁRRAFOS AL ARTÍCULO 218 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y REFORMA LA FRACCIÓN V, Y RECORRE LAS FRACCIONES SUBSECUENTES, DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 766 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 38 DE LA LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
