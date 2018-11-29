@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2018-11-21"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -3209,9 +3209,11 @@ II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegr
 
 ### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 295.
 
-El Ayuntamiento, previa autorización del Congreso, podrá suscribir con el Estado, con Municipios, con organismos descentralizados, con entidades auxiliares de la Administración Pública de ambos órdenes de gobierno o con organismos autónomos, Convenios de Colaboración Administrativa, que tengan por objeto la ejecución de acciones en materia hacendaria municipal, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos.
+El Ayuntamiento podrá suscribir con el Estado, con municipios, con organismos descentralizados, con entidades auxiliares de la administración pública de ambos órdenes de gobierno o con organismos autónomos, convenios de colaboración administrativa, que tengan por objeto la ejecución de acciones en materia hacendaria municipal, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos.
 
 ###### Artículo 296.
 
@@ -5091,8 +5093,16 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 21 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "CÓDIGO NÚMERO 783 HACENDARIO PARA EL MUNICIPIO DE PAPANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO NÚMERO 783 HACENDARIO PARA EL MUNICIPIO DE PAPANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Papantla del Estado de Veracruz de Ignacio de la Llave, a partir de la vigencia del presente Código.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 727 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
