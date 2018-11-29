@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2018-10-03"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -202,6 +202,10 @@ El Secretario, además de las que le confiere la Ley Orgánica del Poder Ejecuti
 I. De carácter delegable:
 
 a) Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de tránsito y seguridad vial;
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+Coordinarse con la Secretaría de Educación de Veracruz para otorgar y hacer efectivas las becas de transporte para personas con discapacidad transitoria y definitiva que se encuentren inscritos en cualquier nivel educativo tanto oficial como particular, que cuenten con la autorización de estudios y/o reconocimiento de validez oficial de estudios.
 
 b) Ejercer los recursos financieros que se aporten para la operación y funcionamiento de la Dirección;
 
@@ -1930,3 +1934,11 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Ejecutivo publicará en la Gaceta Oficial, órgano del Gobierno del Estado, en un plazo no mayor a 60 días hábiles las tarifas autorizadas y desagregadas por la prestación de cada uno de los servicios auxiliares de seguridad vial que se cobrarán en forma oficial, por el permisionario o concesionario con el fin de transparentar esta actividad en beneficio de los usuarios.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 733 QUE ADICIONA EL ARTÍCULO 91 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 22 DE LA LEY PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y SE ADICIONA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I INCISO A) AL ARTÍCULO 8 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
