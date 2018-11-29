@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-546-organica-de-la-fiscalia-general-del-estado-10589
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-29"
-last_updated: "2018-11-26"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2015.
 
@@ -469,11 +469,17 @@ XII Bis. Facilitadores;
 
 XII Ter. Facilitadores Especializados en Justicia para Adolescentes;
 
-> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Otros Órganos, y
+XIII. Unidad Especializada en Combate al Secuestro;
 
-XIV. Demás unidades administrativas necesarias para el funcionamiento y operación de la Fiscalía General que se establezcan en el Reglamento de esta Ley y otras disposiciones legalmente aplicables.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XIV. Otros órganos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XV. Demás unidades administrativas necesarias para el funcionamiento y operación de la Fiscalía General que se establezcan en el Reglamento de esta Ley y otras disposiciones legalmente aplicables.
 
 ###### Artículo 16.
 
@@ -844,6 +850,16 @@ Del Abogado General
 > <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 El Abogado General dependerá directamente del Fiscal General, será el titular de la Dirección General Jurídica y tendrá las facultades y atribuciones que determinen esta Ley, su Reglamento y demás normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 34 Bis.
+
+De la Unidad Especializada en Combate al Secuestro.
+
+La Unidad Especializada en Combate al Secuestro dependerá directamente del Fiscal General y tendrá las facultades y atribuciones previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, esta Ley, su Reglamento y demás normatividad aplicable.
+
+Contará con departamentos, áreas y un cuerpo técnico de control que además de las facultades establecidas en el Reglamento de esta Ley, conjuntará trabajos policiales y de inteligencia con apoyo de la Unidad de Análisis de la Información y los servicios periciales en la integración de carpetas de investigación para el esclarecimiento de los hechos, a través de la técnica especializada de intervención de comunicaciones privadas en su modalidad de escucha autorizada por los Jueces del Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, con residencia en la Ciudad de México; establecerá lineamientos sobre las características de los aparatos, equipos o sistemas de informática y telecomunicaciones a autorizar, así como sobre su guarda, conservación, mantenimiento y uso.
 
 > <small>(REFORMADO SU ACÁPITE, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -2302,3 +2318,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 Tercero. Dentro de los sesenta días naturales al inicio de vigencia del presente Decreto, la Fiscalía General del Estado, realizará las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 764 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
