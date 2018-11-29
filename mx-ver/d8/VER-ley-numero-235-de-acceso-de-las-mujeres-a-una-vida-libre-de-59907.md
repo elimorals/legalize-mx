@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2018-10-18"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL EL 18 DE OCTUBRE DE 2018.]
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -981,9 +979,11 @@ I. De emergencia; y
 
 II. Preventivas.
 
-Las órdenes de protección de emergencia y preventivas tendrán una duración no mayor de 120 horas.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 763 PUBLICADO EN LA G.O. DEL 20 DE NOVIEMBRE DE 2018, SE ADVIERTE QUE LOS ANTERIORES PÁRRAFOS PENÚLTIMO Y ÚLTIMO, CAMBIARON POR LA REDACCIÓN CONTENIDA EN ESTE PÁRRAFO]</small>
 
-Las de emergencia deberán expedirse inmediatamente y las preventivas dentro de las 24 horas siguientes al conocimiento de los hechos que las generan.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+Las órdenes de protección de emergencia y preventivas permanecerán vigentes hasta que cesen las causas que las motiven y la víctima de violencia deje de estar expuesta al riesgo y deberán expedirse en forma inmediata al conocimiento de los hechos que las generan.
 
 ###### Artículo 43.
 
@@ -993,11 +993,19 @@ I. Desocupación temporal por la persona agresora del domicilio, o donde habite 
 
 II. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad;
 
-III. Prohibición de molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+III. Prohibición inmediata al agresor de molestar por cualquier forma y medio, incluso por cualquier medio electrónico a la víctima en su entorno social, así como a cualquier integrante de su familia;
 
 IV. Facilitar el acceso de la víctima al domicilio en común con auxilio de autoridades policíacas o de personal calificado del Sistema para el Desarrollo Integral de la Familia, para que aquélla tome sus objetos de uso personal, documentos de identidad u otros importantes de su propiedad y de sus hijas e hijos.
 
-V. La autoridad policíaca vigilará, fuera del domicilio, la ejecución de la diligencia, interviniendo en caso de flagrancia; y
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN LA G.O. DE 29 DE NOVIEMBRE DE 2018, SE ADVIERTE QUE EL CONTENIDO DE LA FRACCIÓN VI ES SIMILAR A LA ACTUAL V.]</small>
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+V. Advertir a la persona agresora de las consecuencias a que se hará acreedora de acercarse al domicilio, lugar de trabajo, de estudios, de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima; o intentar cualquier acto en su contra.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN LA G.O. DE 29 DE NOVIEMBRE DE 2018, SE ADVIERTE QUE EL CONTENIDO DE LA FRACCIÓN V ES SIMILAR A LA ACTUAL VI.]</small>
 
 VI. Advertir a la persona agresora de las consecuencias a que se hará acreedora de acercarse a la víctima o intentar cualquier acto en su contra.
 
@@ -1106,3 +1114,11 @@ G.O. 11 DE SEPTIEMBRE DE 2018.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 763 POR EL QUE SE REFORMAN LOS DOS ÚLTIMOS PÁRRAFOS DEL ARTÍCULO 42, ASÍ COMO LAS FRACCIONES III Y V DEL ARTÍCULO 43 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
