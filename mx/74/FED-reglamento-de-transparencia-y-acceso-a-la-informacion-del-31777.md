@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-del-31777
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-12"
-last_updated: "2014-11-11"
+last_updated: "2018-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31777&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2003-06-11"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2018 (DEROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 12 de junio de 2003.
 
@@ -232,3 +232,13 @@ La Secretaria General de Acuerdos del Tribunal Federal de Conciliación y Arbitr
 D.O.F. 11 DE NOVIEMBRE DE 2014.
 
 ÚNICO. Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL TRIBUNAL FEDERAL DE CONCILIACION Y ARBITRAJE”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y en el Boletín Laboral Burocrático.
+
+SEGUNDO. Se deroga el Reglamento de Transparencia y Acceso a la Información del Tribunal Federal de Conciliación y Arbitraje, publicado en el Diario Oficial de la Federación el 12 de junio de 2003.
+
+TERCERO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Reglamento, se sustanciarán conforme a la normatividad vigente en materia de transparencia.
