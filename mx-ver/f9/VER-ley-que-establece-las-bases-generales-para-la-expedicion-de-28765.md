@@ -4,7 +4,7 @@ identifier: "VER-ley-que-establece-las-bases-generales-para-la-expedicion-de-287
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-23"
-last_updated: "2005-08-05"
+last_updated: "2018-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY QUE ESTABLECE LAS BASES GENERALES PARA LA EXPEDICION DE BANDOS DE POLICIA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL DE ORDEN MUNICIPAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 769, PUBLICADO EN LA G.O. DE 29 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE ESTABLECE LAS BASES GENERALES PARA LA EXPEDICION DE BANDOS DE POLICIA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL DE ORDEN MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 23 de enero de 2003.
 
@@ -248,3 +250,13 @@ Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la
 Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
 
 Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 769 QUE ADICIONA EL CAPÍTULO II BIS AL TÍTULO SEGUNDO DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley que establece las Bases Generales para la Expedición de Bandos de Policía y Gobierno, Reglamentos, Circulares y Disposiciones Administrativas de Observancia General de Orden Municipal.
+
+Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
