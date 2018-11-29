@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2018-06-09"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -662,6 +662,10 @@ La integración de la Mesa Directiva se comunicará al Ejecutivo del Estado, al 
 ###### ARTICULO 42.
 
 Para la integración de la Mesa Directiva, la Junta de Coordinación Política presentará al Pleno del Congreso la propuesta de Diputados que integrarán la misma, así como el cargo que ocuparán. En sesión previa, celebrada con anticipación al inicio del período correspondiente, el Pleno elegirá a la Mesa Directiva mediante mayoría calificada.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+En el caso de que la Junta de Coordinación Política, y para efecto de lo dispuesto en la primera parte del párrafo anterior, no presente al Pleno del Congreso la propuesta de Diputadas y Diputados que habrán de integrar la nueva Mesa Directiva, así como el cargo que ocuparán; la Mesa Directiva saliente seguirá ejerciendo las atribuciones y facultades que la ley le otorga, en tanto se designe la nueva.
 
 ###### ARTICULO 43.
 
@@ -2889,7 +2893,7 @@ P.O. 10 DE JULIO DE 2015.
 
 > <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO No. 294.</small>
 
-PRIMERO.- En cumplimiento a la resolución dictada por la Suprema Corte (sic) de la Nación derivada de la controversia constitucional Número 70/2010 conexa con la controversia constitucional 84/2010, de fecha 18 marzo de 2014, por la que se resuelve que el Decreto Número 1, de fecha 2 de octubre de dos mil diez, que refiere a diversas reformas a la Ley Orgánica del Poder Legislativo del Estado, este H. Congreso debe dar continuidad al proceso legislativo, en cuanto a diversos artículos que no sufrieron reformas desde el dos de octubre de dos mil diez hasta la actualidad, por lo que se somete a consideración de esta máxima asamblea plenaria la aprobación de los artículos siguientes: ARTÍCULOS 16 QUATER, FRACCIONES I, III, IV Y V; 23; 36; 53 BIS; 57; 61; 67, FRACCIONES DE LA II A LA VII; 76, 81; 91; 92; 108; 113; 120; 168 Y 172, LAS DENOMINACIONES DEL CAPÍTULO III, Y LAS SECCIONES I Y IV; Y LAS DENOMINACIONES DE LOS TÍTULOS OCTAVO Y NOVENO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO, PARA QUEDAR EN LOS TÉRMINOS SIGUIENTES: …
+PRIMERO.- En cumplimiento a la resolución dictada por la Suprema Corte (sic) de la Nación derivada de la controversia constitucional Número 70/2010 conexa con la controversia constitucional 84/2010, de fecha 18 marzo de 2014, por la que se resuelve que el Decreto Número 1, de fecha 2 de octubre de dos mil diez, que refiere a diversas reformas a la Ley Orgánica del Poder Legislativo del Estado, este H. Congreso debe dar continuidad al proceso legislativo, en cuanto a diversos artículos que no sufrieron reformas desde el dos de octubre de dos mil diez hasta la actualidad, por lo que se somete a consideración de esta máxima asamblea plenaria la aprobación de los artículos siguientes: ARTÍCULOS 16 QUATER, FRACCIONES I, III, IV Y V; 23; 36; 53 BIS; 57; 61; 67, FRACCIONES DE LA II A LA VII; 76, 81; 91; 92; 108; 113; 120; 168 Y 172, LAS DENOMINACIONES DEL CAPÍTULO III, Y LAS SECCIONES I Y IV; Y LAS DENOMINACIONES DE LOS TÍTULOS OCTAVO Y NOVENO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO, PARA QUEDAR EN LOS TÉRMINOS SIGUIENTES:
 
 SEGUNDO.- EN ACATAMIENTO A LA RESOLUCIÓN DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DERIVADO DE LA CONTROVERSIA CONSTITUCIONAL NÚMERO 70/2010 CONEXA CON LA CONTROVERSIA CONSTITUCIONAL 84/2010, DE FECHA 18 MARZO DE 2014, SE PROCEDE A DECLARAR INVÁLIDO EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 01, DE FECHA DOS DE OCTUBRE DE DOS MIL DIEZ, MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
 
@@ -3047,6 +3051,12 @@ P.O. 2 DE MARZO DE 2018.
 
 P.O. 9 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO "DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL", ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL "DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO “DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL", ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 294 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 42 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
