@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2018-09-27"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -415,9 +415,13 @@ V. Trabajo en favor de la comunidad o de la víctima u ofendido del delito;
 
 VI. Suspensión, privación, destitución e inhabilitación de derechos, funciones y empleos;
 
-VII. Amonestación; y
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Publicación de sentencia.
+VII. Pérdida definitiva de la patria potestad, tutela y custodia.
+
+VIII. Amonestación; y
+
+IX. Publicación de sentencia.
 
 ###### Artículo 46.
 
@@ -3455,7 +3459,7 @@ Se impondrán las mismas sanciones que señala el artículo anterior al servidor
 
 Se impondrán de dos a ocho años de prisión y multa hasta de doscientos días de salario al servidor público que ilegalmente ordene o ejecute un acto o inicie un procedimiento, en beneficio propio o ajeno o en perjuicio de alguien.
 
-((REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 318.
 
@@ -5099,13 +5103,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 38 Y 102 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SUSPENSIÓN DE DERECHOS PARA OCUPAR CARGO, EMPLEO O COMISIÓN DEL SERVICIO PÚBLICO".]
+G.O. 29 DE NOVIEMBRE DE 2018.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 718 POR EL QUE REFORMA EL ARTÍCULO 45 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; ASÍ COMO POR EL QUE SE REFORMA EL ARTÍCULO 8° DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, ADICIONÁNDOSE UN ARTÍCULO 64 BIS A LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
-Segundo.- Dentro de los 180 días naturales siguientes a su entrada en vigor, el Congreso de la Unión y las Legislaturas de las Entidades Federativas, deberán ajustar sus Constituciones y demás legislación que sea necesaria, a fin de dar cumplimiento al presente Decreto.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
 
-D.O.F. 6 DE JUNIO DE 2023.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 55 Y 91 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE EDAD MÍNIMA PARA OCUPAR UN CARGO PÚBLICO”.]
 
