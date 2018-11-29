@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-847-de-prevencion-y-gestion-integral-de-residuos-404
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-28"
-last_updated: "2018-05-28"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 28 de junio de 2004.
 
@@ -167,9 +167,37 @@ XXXV. Sitio contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o c
 
 XXXVI. Subproducto: Material obtenido en forma colateral como sobrante o merma de un proceso productivo, que puede ser comercializado o servir como materia prima en un proceso igual o diferente al que lo generó, en la instalación que lo produjo o en otra;
 
-XXXVII. Transporte: Traslado de materiales, subproductos o residuos de un lugar a otro; y
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-XXXVIII. Tratamiento: Procedimientos físicos, químicos o biológicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen.
+XXXVII. Tiradero a cielo abierto: Sitio de disposición final de residuos sólidos urbanos y de manejo especial que incumple con lo establecido en la normativa medio ambiental;
+
+> <small>(REFORMADA [N. DE E. DECRETO 765], G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XXXVIII. Transporte: Traslado de materiales, subproductos o residuos de un lugar a otro; y
+
+> <small>(REFORMADA [N. DE E. DECRETO 765], G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XXXIX. Tratamiento: Procedimientos físicos, químicos o biológicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XL. Cultura ambiental: Proceso educativo ambiental que aporta a la conservación natural y al mejoramiento de la calidad de vida de las personas;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XLI. Clasificación de residuos urbanos: Procedimiento de separación de los residuos sólidos en orgánicos e inorgánicos reciclables y no reciclables;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XLII. Residuos sólidos orgánicos: Todo desecho de origen biológico que alguna vez estuvo vivo o fue parte de un ser vivo y que no reúne las características para ser considerado como peligroso conforme a la normatividad ambiental vigente;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XLIII. Residuos sólidos inorgánicos reciclables: Todo desecho que no es de origen biológico que puede reciclarse y no reúne las características para ser considerado como peligroso conforme a la normatividad ambiental vigente; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XLIV. Residuos sólidos inorgánicos no reciclables: Todo desecho que no es de origen biológico que no puede reciclarse y no reúne las características para ser considerado como peligroso conforme a la normatividad ambiental vigente.
 
 ### CAPÍTULO II. DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
@@ -179,7 +207,9 @@ Corresponde al Ejecutivo Estatal, a través de la Secretaría y de las instancia
 
 I. Formular, conducir y evaluar la política estatal en materia de residuos sólidos urbanos y de manejo especial, así como elaborar los programas en materia de residuos de manejo especial, acordes al Programa Nacional para la Prevención y Gestión Integral de los Residuos y el de Remediación de Sitios Contaminados con éstos, en el marco del Sistema Estatal de Planeación Democrática;
 
-II. Expedir, conforme a sus atribuciones y de acuerdo con las disposiciones de esta Ley, las normas técnicas ambientales que permitan darle cumplimiento, conforme a la política estatal en materia de residuos de manejo especial y sólidos urbanos, así como de prevención de la contaminación de sitios con dichos residuos y su remediación;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+II. Expedir, conforme a sus atribuciones y de acuerdo con las disposiciones de esta Ley, las normas técnicas ambientales que permitan darle cumplimiento, conforme a la política estatal en materia de residuos de manejo especial y sólidos urbanos y su clasificación, así como de prevención de la contaminación de sitios con dichos residuos y su remediación como parte de una medida de cultura ambiental;
 
 III. Reglamentar, de acuerdo con las disposiciones de esta Ley, lo relativo a los residuos de manejo especial;
 
@@ -249,9 +279,11 @@ XXVII. Regular la entrega para transportación, carga o traslado del consumidor 
 
 XXVIII. Las demás atribuciones que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 5.
 
-Los Ayuntamientos, de conformidad con lo dispuesto por la Ley Orgánica del Municipio Libre, esta Ley, demás leyes del Estado, Normas Oficiales Mexicanas y Normas Técnicas Ambientales, prestarán directamente, a través de sus correspondientes Organismos Operadores o de concesionarios, los servicios públicos de limpia, recolección, traslado, tratamiento y disposición final de residuos de su competencia; y al efecto tendrán las siguientes facultades:
+Los Ayuntamientos, de conformidad con lo dispuesto por la Ley Orgánica del Municipio Libre, esta Ley, demás leyes del Estado, Normas Oficiales Mexicanas y Normas Técnicas Ambientales, prestarán directamente, a través de sus correspondientes Organismos Operadores o de concesionarios, los servicios públicos de limpia, recolección, traslado, tratamiento, disposición final y remediación del sitio por residuos de su competencia; y al efecto tendrán las siguientes facultades:
 
 I. Formular, por sí o en coordinación con el Ejecutivo Estatal, con observancia de lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos correspondientes y con la participación de representantes de los distintos sectores sociales, los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos, a través de las comisiones municipales de ecología;
 
@@ -303,9 +335,15 @@ XXIV. Participar en el control de los residuos peligrosos generados o manejados 
 
 XXV. Autorizar, concesionar o contratar una o más de las actividades que comprende la prestación de los servicios de manejo integral de los residuos sólidos urbanos, en términos de lo dispuesto por esta Ley, la Ley Orgánica del Municipio Libre y demás ordenamientos aplicables;
 
-XXVI. Verificar el cumplimiento de las disposiciones de esta Ley, Normas Oficiales Mexicanas y demás normatividad en materia de residuos sólidos urbanos e imponer las sanciones y medidas de seguridad que resulten aplicables, para lo que podrán ordenar y practicar visitas domiciliarias, de inspección y verificación, conforme a lo dispuesto en esta Ley y demás legislación aplicable; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-XXVII. Las demás que se establezcan en esta Ley, las Normas Oficiales Mexicanas y demás normatividad aplicable.
+XXVI. Verificar el cumplimiento de las disposiciones de esta Ley, Normas Oficiales Mexicanas y demás normatividad en materia de residuos sólidos urbanos e imponer las sanciones y medidas de seguridad que resulten aplicables, para lo que podrán ordenar y practicar visitas domiciliarias, de inspección y verificación, conforme a lo dispuesto en esta Ley y demás legislación aplicable;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XXVII. Crear programas para la remediación y el manejo de los rellenos sanitarios y/o tiraderos a cielo abierto, estableciendo, al mismo tiempo, convenios con los centros de investigación, universidades y centros de estudios de la región para crear alternativas para su rehabilitación, manejo y control de la contaminación en: suelo, agua, aire y ecosistemas, generada por el manejo de los residuos sólidos o peligrosos que se establecen en la presente Ley y la normatividad subsecuente aplicable en la materia; y
+
+XXVIII. Las demás que se establezcan en esta Ley, las Normas Oficiales Mexicanas y demás normatividad aplicable.
 
 #### SECCIÓN PRIMERA. ORGANISMOS OPERADORES MUNICIPALES
 
@@ -391,9 +429,11 @@ Para la aplicación de sanciones a concesionarios y a usuarios del servicio púb
 
 #### SECCIÓN CUARTA. CONVENIOS DE COORDINACIÓN
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 16.
 
-El Gobierno Estatal, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación y colaboración administrativa con la Federación, otros Estados y los Municipios, con la participación de grupos y organizaciones sociales, públicos o privados, respecto de programas en materia de residuos sólidos urbanos y de manejo especial, siempre que se asegure la capacidad técnica, económica y operativa de la parte que asuma funciones en la materia.
+El Gobierno Estatal, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación y colaboración administrativa con la Federación, otros Estados y los Municipios, con la participación de grupos y organizaciones sociales, públicos o privados, respecto de programas en materia de residuos sólidos urbanos y de manejo especial, siempre que se garantice la seguridad, la capacidad técnica, económica y la operatividad de la parte que asuma funciones en la materia.
 
 ###### Artículo 17.
 
@@ -427,7 +467,9 @@ I. Procurar el rediseño de productos, así como su remanufactura y la utilizaci
 
 II. Integrar tecnologías que permitan el uso de materiales que puedan ser reutilizados, reciclados o biodegradados cuando el producto o su empaque sean considerados como residuos;
 
-III. Informar a los consumidores por medio de etiquetas en sus envases o empaques, o algún otro medio viable, sobre las posibilidades en materia de reutilización, reciclado o biodegradación de materiales incluidos en el producto o su empaque y que eventualmente serán residuos;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+III. Informar a los consumidores por medio de etiquetas en sus envases o empaques, o algún otro medio viable, sobre las posibilidades en materia de reutilización, reciclado o biodegradación de materiales incluidos en el producto o su empaque así como a la clasificación que corresponda y que eventualmente serán residuos;
 
 IV. Incentivar a sus clientes a llevar mercancías en bolsas, redes, canastas, cajas u otros recipientes que puedan volver a ser utilizadas y contar, fuera de sus establecimientos, con depósitos para colocar las bolsas, empaques u otros residuos;
 
@@ -467,7 +509,9 @@ X. Cumplir con lo establecido en la normatividad federal, estatal y municipales 
 
 Los generadores de residuos de manejo especial están obligados además a:
 
-I. Obtener el registro de la autoridad ambiental respectiva;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+I. Obtener el registro de la autoridad ambiental respectiva, así como el certificado ambiental correspondiente expedido por la Procuraduría Federal de Protección al Ambiente.
 
 II. Identificar, clasificar y segregar los residuos;
 
@@ -477,11 +521,21 @@ IV. Establecer programas para prevenir, minimizar y evitar la generación de res
 
 V. Almacenar temporalmente los residuos dentro de sus instalaciones, de acuerdo con las medidas de seguridad que correspondan, según sus características y los tiempos que establezcan los ordenamientos jurídicos correspondientes. En cualquier caso, deberá prevenirse la generación de lixiviados y su infiltración en los suelos, así como el arrastre por el agua de lluvia o por el viento de tales residuos, y disponer de los medios para contener fugas, derrames o incendios;
 
-VI. Prevenir la contaminación de suelos y al cierre o suspensión de operaciones dejar los suelos libres de todo tipo de residuos y niveles de contaminación;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-VII. Evitar el envío a disposición final, en celdas de confinamiento o en rellenos sanitarios, de residuos potencialmente reciclables, cuando su reciclado sea técnica y económicamente factible o se cuente con planes de manejo específicos para ellos; y
+VI. Prevenir la contaminación de suelos y al cierre o suspensión de operaciones dejar una remediación de todo tipo de residuos y niveles de contaminación no permisibles;
 
-VIII. Utilizar solamente empresas registradas o autorizadas por las autoridades competentes, según corresponda, para el manejo de sus residuos.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+VII. Evitar el envío a disposición final, en celdas de confinamiento o en rellenos sanitarios, de residuos potencialmente reciclables, cuando su reciclado sea técnica y económicamente factible o se cuente con planes de manejo específicos para ellos;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Utilizar solamente empresas registradas o autorizadas por las autoridades competentes, según corresponda, para el manejo de sus residuos; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+IX. Las compañías que estén encargadas de recolección, acopio, almacenamiento, transporte, tratamiento, reciclado, remanufactura y disposición final, deberán mantener vigente la certificación ambiental durante el tiempo que se preste el servicio.
 
 ###### Artículo 22.
 
@@ -519,13 +573,17 @@ Los establecimientos mercantiles y comerciales podrán utilizar las bolsas de pl
 
 La identificación, acopio, almacenamiento y transporte de residuos sólidos urbanos y de manejo especial se llevará a cabo conforme a lo que establezca esta Ley, la legislación federal de la materia, las Normas Oficiales Mexicanas y las normas técnicas ambientales, así como las disposiciones que establezcan los municipios.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 25.
 
-En la realización de sus actividades, los responsables de la identificación, acopio, almacenamiento y transporte de residuos sólidos urbanos y de manejo especial deberán observar medidas para prevenir, controlar y solucionar de manera segura y ambientalmente adecuada cualquier anomalía.
+En la realización de sus actividades, los responsables de la identificación, acopio, almacenamiento y transporte de residuos sólidos urbanos y de manejo especial deberán observar medidas para prevenir, controlar y solucionar mediante la remediación de manera segura y ambientalmente adecuada cualquier anomalía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 26.
 
-El transporte de residuos sólidos urbanos, de manejo especial o peligrosos, a través del territorio del Estado, se realizará con previa autorización de las autoridades estatales y municipales correspondientes y tomando en cuenta:
+El transporte de residuos sólidos urbanos, de manejo especial o peligrosos, a través del territorio del Estado, se realizará con previa autorización de las autoridades estatales y municipales correspondientes, así como sus respectivos reglamentos y tomando en cuenta:
 
 I. Las condiciones necesarias para el transporte, dependiendo del tipo de residuos de que se trate;
 
@@ -641,9 +699,17 @@ VIII. Información de soporte técnico para evaluar la eficiencia y el desempeñ
 
 IX. Propuesta de seguros o garantías financieras que se requieran;
 
-X. Copia de los permisos de la autoridad de Tránsito en su caso; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-XI. La que determinen el reglamento de la presente Ley y las Normas Oficiales Mexicanas, normas técnicas ambientales y demás normatividad que resulte aplicable.
+X. Copia de los permisos de la autoridad de Tránsito en su caso;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XI. Presentar el Certificado Ambiental correspondiente; y
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XII. Las que determinen el reglamento de la presente Ley y las Normas Oficiales Mexicanas, normas técnicas ambientales y demás normatividad que resulte aplicable.
 
 ###### Artículo 36.
 
@@ -679,6 +745,12 @@ Las personas físicas o morales que sean autorizadas a brindar servicios a terce
 
 Las personas responsables de establecimientos cuyas actividades involucren la generación, manejo y disposición final de residuos sólidos urbanos o de manejo especial están obligadas a prevenir la contaminación de sitios por sus actividades y a llevar a cabo las acciones de remediación que correspondan conforme a lo dispuesto en el presente Título.
 
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 41 Bis.
+
+Establecer las condiciones bajo las normas oficiales vigentes, la (sic) cuales deberán cumplirse para el cierre de estaciones de transferencia, plantas de selección, tratamiento y rellenos sanitarios, de manera que sea independiente de cualquier liberación al ambiente, ulterior al cierre, con plazos no menores a diez años posteriores a su clausura.
+
 ###### Artículo 42.
 
 Los niveles de prevención o reducción de la contaminación de sitios contaminados con residuos deberán determinarse considerando el uso del suelo previsto en los planes de ordenamiento ecológico y desarrollo urbano correspondientes, con base en los cuales se definirán las restricciones que al efecto impongan la Secretaría y las autoridades municipales.
@@ -694,6 +766,12 @@ Las personas físicas o morales que resulten responsables de la contaminación d
 I. Tomar las acciones inmediatas necesarias para remediar el daño ambiental y restituir el estado del sitio hasta antes de la contaminación con residuos; y
 
 II. Remediar el daño patrimonial ocasionado conforme a las disposiciones respectivas.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 43 Bis.
+
+Cada Ayuntamiento tendrá que informar a la Secretaría de los sitios contaminados existentes por un mal manejo de los rellenos sanitarios y tiraderos a cielo abierto, para incluirse al del sistema de información relativa a la generación y gestión integral de los residuos sólidos urbanos y de manejo especial, los sitios contaminados y remediados, así como su plan de remediación, costos, duración y licitaciones para la contratación de terceros.
 
 ###### Artículo 44.
 
@@ -775,19 +853,31 @@ II. Procedimientos ambientalmente adecuados de acopio, almacenamiento y transpor
 
 III. Estrategias y medios a través de los cuales se comunicará a los consumidores de productos, que al desecharse se someten a los planes de manejo, las acciones que deben realizar para devolverlos a los proveedores, a los centros de acopio destinados para tal fin o a los servicios de limpia, según corresponda;
 
-IV. Instrumentos económicos que, en su caso, se aplicarán para sustentar los planes, ya sean instrumentos fiscales, financieros o de mercado, incluyendo los relativos a esquemas de depósito-reembolso;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-V. Listado de las partes que intervengan en su formulación e instrumentación; y
+IV. Instrumentos económicos que, en su caso, se aplicarán para sustentar los planes, ya sean instrumentos fiscales, financieros o de mercado, incluyendo los relativos a esquemas de depósito-reembolso. La Secretaría deberá evaluar los posibles efectos de dichas obras o actividades de los ecosistemas de que se trate, considerando el conjunto de elementos que los conforman y no únicamente los más cercanos, para su respectiva fianza;
 
-VI. Obligaciones y facultades de cada uno de los integrantes del plan de manejo.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+V. Listado de las partes que intervengan en su formulación e instrumentación;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+VI. Obligaciones y facultades de cada uno de los integrantes del plan de manejo; y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+VII. Costo Económico del Plan de Remediación, después de su clausura y monitoreo durante los diez años a partir de su clausura.
 
 ###### Artículo 53.
 
 En ningún caso los planes podrán plantear formas de manejo contrarias a los objetos y principios en los que se basa la normatividad aplicable a la prevención y reducción de riesgos del residuo de que se trate, ni realizarse a través de empresas que no estén registradas ante las autoridades competentes; sólo podrán establecer formas o mecanismos alternativos para lograr los fines que persiguen las disposiciones jurídicas aplicables, de manera más viable, efectiva y, eventualmente, menos costosa.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 54.
 
-Los planes de manejo serán presentados por los particulares a la Secretaría, la que contará con un plazo de treinta días, a partir de la recepción, para someter la propuesta a la aprobación del Ayuntamiento correspondiente, a fin de que ambas autoridades realicen comentarios u observaciones sobre su contenido. Las autoridades consultarán grupos interdisciplinarios, interinstitucionales y consejos asesores, para la evaluación de los planes de manejo sujetos a aprobación.
+Los planes de manejo serán presentados por los particulares a la Secretaría, la que contará con un plazo de treinta días, a partir de la recepción, para someter la propuesta a la aprobación del Ayuntamiento correspondiente, a fin de que ambas autoridades realicen comentarios u observaciones sobre su contenido. Las autoridades consultarán grupos interdisciplinarios, interinstitucionales y consejos asesores, así como a las poblaciones cercanas al proyecto, para la evaluación de los planes de manejo sujetos a aprobación.
 
 ###### Artículo 55.
 
@@ -807,9 +897,11 @@ Las autoridades estatales y municipales competentes podrán promover el desarrol
 
 ### CAPÍTULO II. SISTEMAS DE MANEJO AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 58.
 
-Los Sistemas de Manejo Ambiental tendrán por objeto prevenir y minimizar la generación de residuos, así como incentivar su aprovechamiento dentro de las instalaciones de los Gobiernos Estatal y Municipales. Estos Sistemas se configurarán con estrategias organizacionales que propicien la gestión integral de los residuos, fomentando el aprovechamiento de los mismos y la protección al ambiente, y su implantación será obligatoria, en términos de la presente Ley y demás disposiciones aplicables, para:
+Los Sistemas de Manejo Ambiental tendrán por objeto prevenir y minimizar la generación de residuos, así como incentivar su aprovechamiento dentro de las instalaciones de los Gobiernos Estatal y Municipales. Estos Sistemas se configurarán con estrategias organizacionales que propicien la gestión integral de los residuos, como su separación, clasificación y disposición, fomentando el aprovechamiento de los mismos y la protección al ambiente, y su implantación será obligatoria, en términos de la presente Ley y demás disposiciones aplicables, para:
 
 I. Los Poderes del Estado;
 
@@ -887,7 +979,9 @@ I. Formas de prevención de generación de residuos;
 
 II. Formas de consumo sustentable;
 
-III. Realización y difusión de actividades de identificación y reutilización de residuos, incluyendo separación de residuos, elaboración de composta, ideas para reutilización y demás acciones que deban ser tomadas por los generadores;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+III. Realización y difusión de actividades de identificación y reutilización de residuos, incluyendo separación y clasificación de residuos, elaboración de composta, ideas para reutilización y demás acciones que deban ser tomadas por los generadores;
 
 IV. Conocimiento sobre los procedimientos de manejo de residuos, así como nuevas tecnologías y soluciones;
 
@@ -936,6 +1030,12 @@ Las personas que realicen actividades de generación, manejo y disposición fina
 ###### Artículo 75.
 
 En los casos en que el Gobierno Federal transfiera al Gobierno del Estado la realización de inspecciones en las materias de su competencia, conforme a lo dispuesto en las legislaciones federal y local de la materia, o en el convenio delegatorio de facultades, las autoridades estatales se apegarán a las normas jurídicas de la Federación.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 75 Bis.
+
+La Secretaría y la Procuraduría Estatal de Protección al Medio Ambiente de Veracruz, diseñarán programas dirigidos a fomentar la realización de auditorías ambientales, supervisando su ejecución con la finalidad de verificar, analizar o evaluar los planes de manejo, sistemas de manejo ambiental, que a su vez funjan como herramientas internas de administración para evaluar el desempeño de cualquier generador de residuos, microgeneradores y compañías relacionadas en el manejo de los residuos sólidos urbanos y de manejo especial.
 
 ###### Artículo 76.
 
@@ -1072,3 +1172,19 @@ Primero. El presente Decreto iniciará su vigencia al día siguiente de su publi
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. En un plazo de ciento ochenta días, los ayuntamientos del estado de Veracruz de Ignacio de la Llave deberán adecuar sus Reglamentos en materia ambiental, estableciendo gradualmente la prohibición del uso de bolsas y popotes de plástico en establecimientos mercantiles para la prestación de sus servicios.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 672 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 765 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
