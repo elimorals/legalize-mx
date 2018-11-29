@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2018-11-16"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -335,7 +335,7 @@ XVI. Autorizar, en su caso, a los ayuntamientos:
 
 a) La contratación de obras y servicios públicos, cuando produzcan obligaciones que excedan al período constitucional del Ayuntamiento contratante;
 
-b) La celebración de contratos y de obras públicas, cuando su valor exceda del veinte por ciento de la partida presupuestal respectiva;
+b) (DEROGADO, G.O. 29 DE NOVIEMBRE DE 2018)
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -353,7 +353,9 @@ e) La transmisión en forma gratuita o donación de la propiedad, así como el u
 
 f) Las concesiones de prestación de servicios públicos que les corresponda a los municipios, sus prórrogas y cancelaciones;
 
-g) La celebración de convenios con: la Federación, el Estado, otros Estados, personas físicas o morales, y de coordinación con municipios de otras entidades federativas; y
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+g) La celebración de convenios de coordinación con municipios de otras entidades federativas, así como con el Estado, en este último caso cuando tengan por objeto lo señalado en las fracciones III y X del artículo 71 de la Constitución y aquellos por los que el Estado se haga cargo de algunas de las funciones relacionadas con la administración de las contribuciones sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, y las que tengan por base el cambio de valor de los inmuebles; y
 
 h) La creación de entidades paramunicipales.
 
@@ -1858,3 +1860,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 727 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
