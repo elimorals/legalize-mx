@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-los-derechos-de-ninas-ninos-y-108896"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-03"
-last_updated: "2018-08-23"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 3 de julio de 2015.
 
@@ -141,25 +141,29 @@ XXIV. Programa Nacional. El Programa Nacional de Protección de Niñas, Niños y
 
 XXV. Protección Integral. Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada, en cada una de las materias relacionadas, los derechos humanos de niñas, niños y adolescentes, de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano forma parte;
 
-XXVI. Reglamento. El Reglamento de la presente Ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-XXVII. Representación Coadyuvante. El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría Estatal de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVI. Registro Estatal de Menores. Lo integrará una base de datos con las muestras biométricas de los menores de edad, que resguardará la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes; perteneciente al Sistema Estatal para el Desarrollo Integral de la Familia del Estado.
 
-XXVIII. Representación Originaria. La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXVII. Reglamento. El Reglamento de la presente Ley;
 
-XXIX. Representación en Suplencia. La representación de niñas, niños y adolescentes a cargo de la Procuraduría Estatal de Protección, conforme a su ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVIII. Representación Coadyuvante. El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría Estatal de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXX. Sistema DIF Estatal. Sistema para el Desarrollo Integral de la Familia del Estado;
+XXIX. Representación Originaria. La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-XXXI. Sistema Estatal de Protección Integral. El Sistema de Protección de Niñas, Niños y Adolescentes del Estado;
+XXX. Representación en Suplencia. La representación de niñas, niños y adolescentes a cargo de la Procuraduría Estatal de Protección, conforme a su ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXXII. Sistemas DIF Municipales. Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado;
+XXXI. Sistema DIF Estatal. Sistema para el Desarrollo Integral de la Familia del Estado;
 
-XXXIII. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXXII. Sistema Estatal de Protección Integral. El Sistema de Protección de Niñas, Niños y Adolescentes del Estado;
 
-XXXIV. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes; y
+XXXIII. Sistemas DIF Municipales. Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado;
 
-XXXV. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXXIV. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+XXXV. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes; y
+
+XXXVI. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 ###### Artículo 5.
 
@@ -986,6 +990,36 @@ Siempre que a una niña, niño o adolescente se le relacione con la comisión de
 El Sistema de Responsabilidad Juvenil para el Estado de Veracruz determinará los procedimientos y las medidas que correspondan a quienes se les atribuyan la comisión o participación en un hecho que la ley señale como delito mientras era adolescente. Las medidas sancionadoras que se adopten tendrán como objetivo la reinserción familiar y social; por tanto, tendrán un carácter socioeducativo tendiente a restablecer la formación integral del adolescente. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
 El Sistema a que se refiere el párrafo anterior deberá garantizar los derechos fundamentales que reconoce la Constitución Federal para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 76 Bis.
+
+Se contará con un Registro Estatal de Menores, mismo que será de carácter permanente y de interés público. Mismo que se regirá bajo los siguientes parámetros:
+
+I. Los datos que integran el Registro Estatal de Menores, serán estrictamente confidenciales y no podrán ser comunicados o darse a conocer, salvo que se trate de la petición de una autoridad dentro de un procedimiento en donde se encuentre en riesgo la integridad de un menor de edad y sea rigurosamente necesaria para la prosecución del mismo.
+
+II. Tendrá acceso exclusivo al Registro Estatal de Menores la Procuraduría Estatal de Protección para el cumplimiento de las funciones señaladas en el punto anterior, no podrá dársele o destinarse a otra finalidad u objetivo distinto.
+
+III. El Registro Estatal de Menores contendrá como mínimo, la siguiente información identificativa:
+
+a). Nombre del menor de edad;
+
+b). Nombre de los padres o tutores del menor de edad;
+
+c). Declaración expresa del otorgamiento del consentimiento;
+
+d). Dirección del menor de edad; y
+
+e). Placa de cada dactilar del menor de edad.
+
+IV. Las Procuradurías Municipales serán las encargadas de alimentar dicho Registro, mismo que será alimentado y actualizado al inicio de los primeros cursos de los niveles escolares que conforman la educación básica, salvo petición expresa del padre o tutor que solicite la inclusión del menor de edad, caso en el que será en cualquier momento. La Procuraduría Estatal para cumplir con la obligación antes señalada, deberá celebrar convenios con las Secretarías de Salud y de Educación del Estado.
+
+V. El encargado de recabar la información a que hace referencia el inciso e) del punto 3, podrá solicitar el auxilio u orientación de servicios periciales adscritos a la Fiscalía General del Estado, para generar información útil.
+
+VI. El Registro Estatal de Menores estará integrado en una Plataforma virtual, en donde será asignado un folio único a cada menor de edad para dar seguimiento a su registro individual.
+
+VII. Para la generación e integración del registro individual, el padre o tutor del menor de edad, deberá entregar consentimiento expreso, mismo que deberá tener el carácter de libre, específico e informado, cumpliendo para ello con los parámetros señalados por la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Veracruz de Ignacio de la Llave. Serán tomadas en presencia del padre o tutor del menor de edad.
 
 ### CAPÍTULO XIX. De los Derechos de Niñas, Niños y Adolescentes Migrantes
 
@@ -1968,3 +2002,17 @@ G.O. 23 DE AGOSTO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 686 QUE REFORMA LA FRACCIÓN XXVI, RECORRIENDO LAS SUBSECUENTES DEL ARTÍCULO 4; Y EL ARTÍCULO 76 BIS, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, deberá crearse la plataforma virtual del Registro Estatal de Menores.
+
+CUARTO. Dentro de los 30 días a la entrada en vigor del presente Decreto, las autoridades obligadas por el mismo deberán celebrar los convenios de colaboración.
+
+QUINTO. Dentro de los 30 días siguientes a la celebración deberán emitirse los lineamientos necesarios para la alimentación del Registro Estatal de Menores.
