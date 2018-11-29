@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2018-09-11"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -115,7 +115,9 @@ VII.- La coordinación de la investigación para la salud y el control de ésta 
 
 VIII.- La información relativa a las condiciones, recursos y servicios de salud.
 
-IX.- La educación para la salud.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+IX.- La educación para la salud, que comprende entre otros, la promoción de un estilo de vida saludable;
 
 X.- La orientación y vigilancia en materia de nutrición.
 
@@ -273,6 +275,10 @@ XVIII.- Salud: Estado de completo bienestar físico, mental y social y no solame
 
 Para efectos de complementariedad, el concepto previsto en esta fracción se tendrá por referido a lo dispuesto por el artículo 1° bis de la Ley General de Salud.
 
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XIX.- Estilo de vida saludable: Conjunto de actividades y elecciones conscientes que una persona, pueblo, grupo social y familia realiza a diario con determinada frecuencia para prevenir y conservar su salud. Se consideran cuatro acciones básicas para un estilo de vida saludable: alimentación saludable, actividad física, cese del hábito tabáquico y cese del hábito alcohólico.
+
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
 ### CAPITULO I. DISPOSICIONES COMUNES
@@ -301,7 +307,9 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del 
 
 VI.- Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar los servicios de salud.
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actividades relacionados con la salud y con el uso de los servicios que presten para su protección.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actividades relacionados con la salud y con el uso de los servicios que presten para su protección, a efecto de promover el desarrollo de un estilo de vida saludable en la población.
 
 ###### ARTICULO 7°.
 
@@ -503,7 +511,9 @@ Para la organización y administración de los servicios de salud, se definirán
 
 Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud, los referentes a:
 
-I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente, con un enfoque de estilo de vida saludable.
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes.
 
@@ -641,9 +651,15 @@ La Secretaría de Salud y Asistencia del Estado, coadyuvará con las autoridades
 
 Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público, social y privado en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 47.
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas, de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+
+Los usuarios tienen derecho a decidir libremente sobre la aplicación de los procedimientos diagnósticos y terapéuticos ofrecidos. En caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal; en caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y salud del usuario, dejando constancia en el expediente clínico.
+
+Todo tratamiento médico específico o intervención quirúrgica que se realice a un paciente, deberá contar con el consentimiento informado y aceptado mediante firma de éste, de un familiar o de su representante legal, aceptando los riesgos que conllevan los mismos; para el caso de intervenciones quirúrgicas, éstas exclusivamente deberán ser practicadas por médicos especialistas en estricto apego a las Normas Oficiales Mexicanas en materia de salud.
 
 ###### ARTICULO 48.
 
@@ -669,11 +685,17 @@ De conformidad con lo que señalen las disposiciones generales aplicables, los a
 
 La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tiene por objeto fortalecer la estructura y funcionamiento de los sistemas de salud e incrementar el mejoramiento del nivel de salud de la población del Estado.
 
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+La participación comunitaria, tendrá un papel fundamental en el establecimiento de un estilo de vida saludable para fortalecer la prevención en salud.
+
 ###### ARTICULO 54.
 
 La comunidad podrá participar en los servicios de salud de los sectores público, social y privado a través de las siguientes acciones:
 
-I.- Promoción de hábitos de conductas que contribuyan a proteger la salud o a solucionar los problemas de salud e intervención en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+I.- Promoción y fomento de un estilo de vida saludable, que contribuya a proteger o a solucionar los problemas de salud e intervención en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes.
 
 II.- Colaboración en la prevención o tratamiento de problemas asistenciales vinculados a la salud.
 
@@ -807,9 +829,19 @@ III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la 
 
 IV.- Las demás que coadyuven a la protección de la salud materno-infantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 63.
 
-En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado establecerán procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios.
+En la organización de los servicios de salud destinados a la atención materno infantil, las autoridades sanitarias del Estado establecerán:
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios, y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+II. Acciones de orientación y vigilancia institucional, capacitación y fomento de la lactancia materna y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, impulsar la creación de bancos de leche materna en los hospitales que cuenten con servicios neonatales, además de promover la instalación de lactarios en los centros de trabajo de los sectores público y privado.
 
 ###### ARTICULO 64.
 
@@ -849,39 +881,165 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud en las acciones d
 
 ### CAPITULO VII. SALUD MENTAL
 
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 69.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afecten la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+La salud mental es estado completo de bienestar mental, emocional y social y no sólo la ausencia de trastornos mentales, en donde el individuo es consciente de sus propias capacidades, es capaz de realizarse intelectual y emocionalmente, puede afrontar las tensiones normales de la vida, puede trabajar en forma productiva y fructífera y es capaz de hacer una contribución a su comunidad.
+
+La atención de salud mental se organizará y desarrollará conforme a los principios y objetivos establecidos en la Ley del Instituto Mexicano del Seguro Social; en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y en el Modelo de Atención en Salud Mental Considerado por el Consejo Nacional de Salud Mental (CONSAME); y su objetivo será garantizar la universalidad, suficiencia y normalización de todo el proceso de atención a la salud mental.
+
+La estructura del Sistema de Salud Mental dispondrá de tres niveles de atención:
+
+I. La prevención de la enfermedad para lo cual se podrá generar mediante la difusión de información sobre la salud mental, diagnóstico y tratamiento oportuno;
+
+II. Estadía hospitalaria breve en la que se le ofrezca al paciente atención integral a usuarios en momentos de crisis; y
+
+III. Reintegración social, la cual implica la integración del usuario al medio que pertenece a través del fomento de estructuras dentro de la comunidad que apoyen al usuario en su proceso de integración social.
+
+Se instituye para todos los establecimientos y servicios del Sistema de Salud Mental la denominación uniforme de "Salud Mental".
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 69 BIS.- Se reconocen como derechos fundamentales de todas las personas que padezcan trastornos mentales, trastornos de conducta y adicciones los siguientes:
+
+I. Los establecidos por la Constitución Política de los Estados Unidos Mexicanos; los Instrumentos y Tratados Internacionales de los que México sea Estado Parte;
+
+II. La Ley General de las Personas con Discapacidad; la Ley Federal para Prevenir y Eliminar la Discriminación;
+
+III. La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, a la Ley General para la Igualdad entre Mujeres y Hombres;
+
+IV. La Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes;
+
+V. La Ley de los Derechos de las Personas Adultas Mayores; y
+
+VI. Las demás normas que se consideren aplicables.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 70.
 
-Para la promoción de la salud mental, la Secretaría de Salud y Asistencia del Estado y las instituciones de salud, en coordinación con las autoridades competentes en cada materia fomentarán y apoyarán:
+La prevención de las enfermedades mentales tiene carácter prioritario, se basará en el conocimiento de los factores que afecten la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
-I.- El desarrollo de actividades educativas, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud.
+Las instituciones y organizaciones prestadoras de servicios de salud públicas y privadas deberán disponer de los recursos necesarios para brindar atención primaria de salud mental a la población bajo su responsabilidad, entendiéndose por ésta la estrategia de salud basada en procedimientos de baja complejidad y alta efectividad, que se brinda a las personas, grupos o comunidades con el propósito de evitar el desencadenamiento de la alteración mental y la desestabilización de las personas que padezcan trastornos de conducta o adicciones; de igual forma, deberán asistir y orientar a las personas con este tipo de padecimientos y procurar la rehabilitación y reinserción familiar, laboral, cultural y social de los pacientes.
 
-II.- La difusión de las orientaciones para la promoción de la salud mental.
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-III.- La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia.
+ARTICULO 70 BIS.- Para la promoción de la salud mental, la Secretaría de Salud del Estado de Veracruz y las instituciones de salud, en coordinación con las autoridades competentes en cada materia fomentarán y apoyarán:
 
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+I. El desarrollo de actividades educativas, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+
+II. La difusión de las orientaciones para la promoción de la salud mental;
+
+III. La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia; y
+
+IV. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 71.
 
-La atención de las enfermedades mentales comprende:
+El proceso de la atención de la salud mental implica:
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes y substancias psicotrópicas.
+I. La atención de personas con trastornos mentales y trastornos de conducta, la rehabilitación psiquiátrica de deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
 
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+II. El registro, regulación, coordinación, supervisión y organización de Instituciones dedicadas al estudio, tratamiento, rehabilitación y prevención de trastornos mentales, trastornos de conducta y adicciones; y
+
+III. La reintegración social de la persona con trastornos mentales y del comportamiento a su familia y comunidad mediante el cumplimiento de las estrategias consideradas en la NOM-025-SSA22014.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 71 BIS.- Las instituciones del Sistema Estatal de Salud que prestan servicios de salud mental, en especial las destinadas al internamiento de las personas con trastornos mentales y adicciones, deberán apegarse a las normas establecidas para este fin.
+
+Las instituciones públicas y privadas de salud mental, sin importar la figura jurídica en la que estén constituidas, deben adecuarse a los principios establecidos en la Norma Oficial Mexicana NOM-025-SSA2-2014, para la prestación de servicios de salud en unidades de atención integral hospitalaria médico-psiquiátrica y los apartados correspondientes a esta ley.
+
+Con relación al derecho de toda persona a recibir su historial clínico, deberá a pegarse (sic) a las disposiciones consideradas en la Norma Oficial Mexicana NOM-004-SSA3-2012, del expediente clínico.
+
+El Sistema de Salud Mental, será parte del Sistema Estatal de Salud, considerando lo establecido a la NOM-025-SSA2-2014 y estará conformado por todos los establecimientos asistenciales, de rehabilitación, hospitalarios y de investigaciones públicas y privadas del Estado que abarquen los diferentes niveles de atención que actualmente funcionan o que se implementen en un futuro para la salud mental.
+
+Las Instituciones del Sistema de Salud deberán ofrecer el acceso a los servicios de atención en salud mental con base a la NOM-025-SSA2-2014.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 71 TER.- La Secretaría de Salud del Estado, conforme a las normas técnicas básicas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental. A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+
+Las personas que cumplen penas de prisión por delitos o que han sido detenidas en el transcurso de procedimientos o investigaciones penales efectuadas en su contra y que, según se haya determinado o se sospeche, padezcan de alguna alteración mental o adicción, tendrán derecho a recibir atención durante su reclusión.
+
+Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales; a tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+
+Se tendrá especial cuidado en proteger los derechos de los menores de edad y adultos mayores que padezcan enfermedades mentales, trastornos de conducta o adicciones. En ambos casos, cuando sea necesario y a falta de un representante legal, se nombrará uno que no sea un miembro de la familia.
+
+Todas las instituciones de salud mental públicas, privadas y asistenciales serán inspeccionadas regularmente por las autoridades competentes de acuerdo con la normatividad y reglamentación que para tal efecto la Secretaría de Salud establezca y con la colaboración técnica de organizaciones gubernamentales y no gubernamentales vinculadas a la promoción y protección de los derechos de las personas con trastornos mentales, trastornos de conducta y adicciones, a efectos de garantizar que los derechos, el tratamiento y las condiciones de vida de los usuarios se sujeten a las disposiciones de la presente ley.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 72.
 
-La Secretaría de Salud y Asistencia del Estado, conforme a las normas técnicas básicas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+La determinación de que una persona padece alguna enfermedad mental se formulará con total apego a las normas especializadas aceptadas internacionalmente, sin que medie discriminación negativa alguna.
 
-A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+Toda persona que padezca algún trastorno mental, trastorno de la conducta o adicción, tendrá derecho a recibir la atención sanitaria y social que corresponda a sus necesidades de salud y será atendida y tratada con arreglo a las mismas normas aplicables a las demás personas con enfermedades físicas.
+
+La atención en salud mental se realizará siempre con total apego a las normas éticas de los profesionales de salud, en particular las normas aceptadas internacionalmente en este rubro, como los "principios de ética médica aplicables a la función del personal de salud, especialmente los médicos, en la protección de personas presas y detenidas contra la tortura y otros tratos o penas crueles, inhumanos o degradantes", aprobadas por la Asamblea General de las Naciones Unidas.
+
+Ningún historial de tratamientos o de hospitalización bastará, por sí solo, para justificar la determinación de un trastorno mental, de la conducta o adicción.
+
+En ningún caso se hará uso indebido de los conocimientos y las técnicas terapéuticas sobre salud mental.
+
+Las instituciones especializadas en salud mental dispondrán de recursos suficientes, al igual que cualquier otro establecimiento sanitario considerando la normativa para este particular, priorizado (sic) los siguientes recursos: Personal especializado, equipo de diagnóstico y terapéutico, farmacológico y psicoterapéutico.
+
+El acceso a una institución de salud mental se administrará de la misma forma que el acceso a cualquier institución por cualquier otra enfermedad, salvo las excepciones señaladas por la misma normatividad.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 72 BIS.- El internamiento es una instancia del tratamiento que se decide cuando no sean posibles los abordajes ambulatorios. En este se procurará la creación y funcionamiento de dispositivos establecidos en la NOM-025-SSA2-2014 que favorezcan el mantenimiento de los vínculos, contactos y comunicación de la persona internada con sus familiares y allegados y con el entorno laboral y social, garantizando su atención integral. De proceder al internamiento, éste deberá llevarse a cabo en los hospitales más cercanos al domicilio de la persona internada y que cuenten con los servicios pertinentes.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 72 TER.- Las internaciones se clasifican en:
+
+I.- Voluntarias: Si la persona consiente a la indicación de un profesional en salud mental o la solicita a instancia propia o por su representante legal;
+
+II.- Involuntarias: Cuando es ordenada a criterio del equipo profesional en salud mental ante situación de riesgo para sí o para terceros; y
+
+III.- Por orden judicial.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 72 QUÁTER.- Toda persona que haya sido admitida voluntariamente tendrá derecho a abandonar la institución de salud mental en cualquier momento. El paciente deberá ser informado de dicho derecho.
+
+Una persona sólo podrá ser admitida como paciente involuntario en una institución de salud mental o ser retenida como paciente involuntario en una institución de salud mental a la que ya hubiera sido admitida voluntariamente cuando un médico calificado y autorizado por ley, determine y certifique por escrito, que esa persona padece un trastorno mental, de conducta o adicción grave, cuya capacidad de juicio esté afectada y considere que existe peligro o riesgo grave o inminente para esa persona o para terceros.
+
+El internamiento de cualquier persona con trastorno mental, trastorno de conducta o adicción en una institución de salud mental, también podría tener lugar cuando ésta sea solicitada a la Dirección de una institución o un servicio de salud mental por medio de:
+
+I. Una orden judicial;
+
+II. A petición de los familiares;
+
+III. A petición del representante legal; o
+
+IV. A petición del propio interesado.
+
+La solicitud de internamiento deberá contener los datos personales de la persona afectada y de sus familiares. La internación a la que se refiere este artículo exclusivamente procederá si se dan las condiciones señaladas en esta Ley y estará fundamentada en el dictamen de un personal especializado calificado y autorizado para esos efectos por el responsable de la institución especializada a la cual se haya hecho la solicitud.
+
+El consentimiento Informado son los documentos escritos, signados por el paciente o su representante legal o familiar más cercano en vínculo, de conformidad con las disposiciones aplicables, mediante los cuales se acepta un procedimiento médico o quirúrgico con fines diagnósticos, terapéuticos, rehabilitatorios, paliativos o de investigación, una vez que se ha recibido información de los riesgos y beneficios esperados para el paciente.
+
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 73.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsobles (sic) de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales; a tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+Toda disposición de internamiento, sea voluntaria, involuntaria o por orden judicial, deberá cumplir con los siguientes requisitos:
+
+I. Evaluación y diagnóstico de las condiciones del usuario;
+
+II. Datos acerca de su identidad y su entorno social;
+
+III. Motivos que justifican su internamiento;
+
+IV. Orden del juez, para el caso de internamientos por orden judicial; y
+
+V. En su caso, autorización del representante legal.
+
+Los anteriores deberán estar contenidos en un informe por escrito en el cual se deberá hacer constar tácita y explícitamente la obligatoriedad de los familiares o responsables a no abandonar al internado y recibirlo cuando cese la necesidad de internamiento. En caso de incumplimiento de las obligaciones establecidas en el informe, la autoridad de aplicación estará facultada para proceder de oficio ante los órganos judiciales pertinentes.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
@@ -895,7 +1053,7 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 ARTICULO 73 BIS.- Son derechos de los enfermos en situación terminal:
 
-l. Recibir atención médica integral;
+I. Recibir atención médica integral;
 
 II. Ingresar a las instituciones de salud cuando requieran atención médica;
 
@@ -981,7 +1139,7 @@ ARTICULO 73 QUATERDECIES.- Todos los documentos a que se refiere este Título se
 
 ARTICULO 73 QUINQUIDECIES.- Son obligaciones de las instituciones de salud:
 
-l. Garantizar el servicio y las instalaciones de calidad, tanto de internamiento como ambulatorias, para la atención debida a los enfermos en situación terminal y, en especial, para la prestación de los cuidados paliativos, llevados a cabo por especialistas;
+I. Garantizar el servicio y las instalaciones de calidad, tanto de internamiento como ambulatorias, para la atención debida a los enfermos en situación terminal y, en especial, para la prestación de los cuidados paliativos, llevados a cabo por especialistas;
 
 II. Garantizar a las personas enfermas en situación terminal la atención debida y las opciones disponibles, proveyéndoles de los cuidados necesarios para evitarles el sufrimiento desde el momento del diagnóstico de la enfermedad crónica no recuperable hasta el momento de su deceso; y
 
@@ -1013,7 +1171,7 @@ ARTICULO 73 NOVODECIES.- Los médicos tratantes y el equipo sanitario responsabl
 
 ARTICULO 73 VICIES.- Los médicos tratantes tendrán las siguientes obligaciones:
 
-l. Proporcionar toda la información necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+I. Proporcionar toda la información necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
 
 II. Pedir el consentimiento informado del enfermo en situación terminal, por escrito y ante dos testigos, para realizar los tratamientos o medidas a tomar respecto de la enfermedad incurable. Dicho escrito deberá ser anexado al expediente médico del paciente;
 
@@ -1275,7 +1433,9 @@ La promoción de la salud tiene por objeto crear, conservar y mejorar las condic
 
 La promoción de la salud comprende:
 
-I.- Educación para la salud.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+I.- Educación para la salud, que comprende entre otros, el fomento de un estilo de vida saludable;
 
 II.- Nutrición.
 
@@ -1294,6 +1454,10 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud.
 
 III.- Orientar y capacitar a la población en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmaco-dependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Promover en la población la adopción de un estilo de vida saludable.
 
 ###### ARTICULO 98.
 
@@ -3211,6 +3375,18 @@ El Consejo Estatal de Protección Social en Salud estará integrado por el titul
 
 El Consejo Estatal de Protección Social en Salud ejercerá las atribuciones que le otorgue su reglamento interior, que será expedido por el Titular del Ejecutivo Estatal, el cual establecerá, así mismo, las reglas para su organización y funcionamiento.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+### CAPITULO X. DE LA CERTIFICACION DE LABORATORIOS
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 356 BIS. La Secretaría de Salud del Estado está facultada para vigilar, acreditar y certificar a todas aquellas instituciones públicas o laboratorios clínicos privados, que realicen pruebas en genética molecular del ácido desoxirribonucleico o ADN, en relación con lo señalado en el artículo 289 Bis del Código Civil para el Estado; y los artículos 157 Bis y 157 Sexies del Código de Procedimientos Civiles para el Estado.
+
+Para lo anterior, las instituciones públicas o laboratorios clínicos privados, deberán cumplir con lo establecido en el artículo 17 Bis de la Ley General de Salud. Los establecimientos deberán acreditar experiencia, capacidad y conocimiento sobre genética molecular del ácido desoxirribonucleico o ADN.
+
+La Secretaría de Salud de Veracruz deberá expedir convocatoria pública para que las instituciones públicas de salud y laboratorios clínicos privados que estén interesados en obtener el certificado puedan realizar el procedimiento correspondiente. La Secretaría de Salud deberá hacer públicos en los portales de internet las instituciones públicas y laboratorios clínicos privados que cuenten con dicha certificación.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 TITULO DECIMOSEXTO
@@ -3592,3 +3768,47 @@ Primero. El presente Decreto entrará en vigor el día primero de enero de dos m
 Segundo. Los recursos económicos, técnicos y humanos que se requieren para el inicio de la implementación del expediente clínico electrónico al que se refiere el presente Decreto, se deberán otorgar de manera paulatina, en las unidades médicas de la Secretaría de Salud, teniendo un período de tres años para su implementación, en cada uno de los tres niveles de atención médica.
 
 Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 665 QUE ADICIONA UN CAPÍTULO Y UN ARTÍCULO A LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+TERCERO. Se otorga un plazo de sesenta días para que el Ejecutivo del Estado expida un Reglamento, que fijará los procedimientos y requisitos para que las instituciones públicas y laboratorios clínicos privados puedan obtener su certificado para expedir pruebas periciales en materia de genética molecular del ácido desoxirribonucleico o ADN. El Reglamento que expida el Ejecutivo del Estado deberá observar lo dispuesto en el artículo 17 Bis de la Ley General de Salud.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 674 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente decreto entrará en vigor el día primero de enero de dos mil diecinueve, para lo cual se deberán tomar las previsiones presupuestales correspondientes.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Publíquese en la Gaceta Oficial del Estado. Órgano de Gobierno del Estado.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 681 QUE REFORMA EL ARTÍCULO 47 DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 682 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 QUE REFORMA EL PRIMER PÁRRAFO Y ADICIONA LAS FRACCIONES I Y II AL ARTÍCULO 63 DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
