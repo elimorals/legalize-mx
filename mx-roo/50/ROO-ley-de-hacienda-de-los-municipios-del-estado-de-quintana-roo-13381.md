@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2015-12-15"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y TERCERO DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, SE DEROGA TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE LÁZARO CÁRDENAS, SALVO LO ESTABLECIDO EN EL CAPÍTULO XVIII DEL TÍTULO TERCERO DEL PRESENTE ORDENAMIENTO, MISMO QUE SERÁ APLICADO EN TODOS SUS TÉRMINOS EN EL MUNICIPIO DE LÁZARO CÁRDENAS, QUINTANA ROO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 29 DE NOVIEMBRE DE 2018, SE DEROGA EN LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE ISLA MUJERES.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y TERCERO DE LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL, DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 9 DE DICIEMBRE DE 2014, SE DEROGA TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE COZUMEL, SALVO LO ESTABLECIDO EN EL CAPÍTULO XVIII DEL TÍTULO TERCERO DEL PRESENTE ORDENAMIENTO, MISMO QUE SERÁ APLICADO EN TODOS SUS TÉRMINOS EN EL MUNICIPIO DE COZUMEL, QUINTANA ROO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y TERCERO DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, SE DEROGA TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE LÁZARO CÁRDENAS, SALVO LO ESTABLECIDO EN EL CAPÍTULO XVIII DEL TÍTULO TERCERO DEL PRESENTE ORDENAMIENTO, MISMO QUE SERÁ APLICADO EN TODOS SUS TÉRMINOS EN EL MUNICIPIO DE LÁZARO CÁRDENAS, QUINTANA ROO.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 235 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, SE DEROGA EN LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y TERCERO DE LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL, DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 9 DE DICIEMBRE DE 2014, SE DEROGA TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE COZUMEL, SALVO LO ESTABLECIDO EN EL CAPÍTULO XVIII DEL TÍTULO TERCERO DEL PRESENTE ORDENAMIENTO, MISMO QUE SERÁ APLICADO EN TODOS SUS TÉRMINOS EN EL MUNICIPIO DE COZUMEL, QUINTANA ROO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 235 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, SE DEROGA EN LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -59,7 +61,7 @@ Las normas tributarias que establezcan cargas de los particulares y las que señ
 
 A falta de disposición de esta ley, siempre que no la contravengan, serán aplicables el Código Fiscal Municipal, los Ordenamientos Fiscales del Estado, los Ordenamientos Fiscales Federales y como supletorias las normas de derecho común.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 4º.
 
@@ -387,7 +389,7 @@ Los Ayuntamientos del estado, por conducto de sus Tesorerías, determinarán el 
 
 ARTÍCULO 21 BIS.- Los contribuyentes de este impuesto, están obligados a manifestar en la Tesorería Municipal, la terminación de nuevas construcciones, de ampliaciones y de modificaciones a las construcciones que tenga cada predio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO II. DEL IMPUESTO SOBRE DIVERSIONES, VIDEO JUEGOS Y ESPECTACULOS PUBLICOS
 
@@ -427,13 +429,13 @@ Este impuesto se causará de acuerdo con la siguiente tarifa:
 
 TARIFA
 
-ZONA “A” ZONA “B” ZONA ”C”
+ZONA "A" ZONA "B" ZONA "C"
 
 I.- Dramas, zarzuelas, 8% En todas las Zonas
 
 comedia y Opera
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 II.- Variedades y similares,
 
@@ -497,7 +499,7 @@ VIII.- Kermesses, verbenas,
 
 del: 12% En todas las Zonas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 IX.- Ferias y juegos
 
@@ -1697,7 +1699,7 @@ IV.- Las de supervivencia de pensionistas de la Federación y los estados y las 
 
 Se entiende por este derecho la prestación de los servicios de vigilancia, administración, limpieza, reglamentación y otros de los predios propiedad del Ayuntamiento destinados a la inhumación de cadáveres, así como la autorización para efectuar las exhumaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 80.
 
@@ -1705,7 +1707,7 @@ Por los servicios de panteones que preste el Municipio, se cobrarán los derecho
 
 TARIFA:
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA "A" ZONA "B" ZONA"C"
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1753,7 +1755,7 @@ II.- Autorización de Traslado de cadáveres o restos áridos:
 
 TARIFA:
 
-ZONA “A” ZONA “B” ZONA ”C”
+ZONA "A" ZONA "B" ZONA "C"
 
 a).- Autorización de
 
@@ -2799,7 +2801,7 @@ El derecho que se pagará por el registro de fierros será de 3.0 S.M.G.
 
 Por cada búsqueda de señales y marcas que se haga en los archivos a solicitud de los interesados y duplicados que se expidan se pagará 1.5 S.M.G.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD, DE RESIDENCIA Y DE MORADA CONYUGAL
 
@@ -3103,7 +3105,7 @@ b).- Los demás que se considere necesario, previo acuerdo de Cabildo.
 
 Los Municipios cobrarán este servicio en la forma y términos que para el efecto establezca el ordenamiento legal correspondiente.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION SEGUNDA. DEL SERVICIO PRESTADO POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
 
@@ -3293,7 +3295,7 @@ Para el cálculo del consumo anual de energía eléctrica, los establecimientos 
 
 Los pagos se enterarán en forma anual durante los dos primeros meses del año o dentro de los veinte primeros días siguientes a la fecha de inicio de sus operaciones mercantiles. En este último caso, la autoridad fiscal impondrá una tarifa estimada y proporcional a los meses del año transcurridos.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, [N. DE E. ANTES CAPITULO IV, TITULO III] P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, [N. DE E. ANTES CAPÍTULO IV, TÍTULO III] P.O. 15 DE DICIEMBRE DE 1998)
 
 ### CAPITULO XXII. USO DE LA VÍA PUBLICA O DE OTROS BIENES DE USO COMÚN
 
@@ -4271,7 +4273,7 @@ SEGUNDO.- Esta Ley entrará en vigor a partir del 1° de Enero del año 2004, pr
 
 TERCERO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2004, en el Municipio de Cozumel, se aplicará la tabla del cálculo anual del mencionado impuesto, siendo el siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 CUARTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2004, en el Municipio de Othón P. Blanco, se aplicará la tabla del cálculo anual del mencionado impuesto, siendo el siguiente:
 
@@ -5402,3 +5404,55 @@ Para los efectos de coordinación con las entidades, se considerarán derechos, 
 También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
 QUINTO.- Los procedimientos iniciados por las autoridades municipales conforme a las disposiciones de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, continuarán aplicando tales disposiciones hasta su conclusión.
+
+P.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 267 POR EL QUE SE EXPIDE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en la presente ley.
+
+TERCERO. En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes derechos:
+
+I. Licencias, anuencias previas al otorgamiento de las mismas; en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes:
+
+a) Licencias de construcción.
+
+b) Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c) Licencias para fraccionar o lotificar terrenos.
+
+d) Licencias para conducir vehículos.
+
+e) Expedición de placas y tarjeta para la circulación de vehículos.
+
+f) Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+g) Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+II. Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+a) Registro civil.
+
+b) Registro de la Propiedad y del Comercio.
+
+III. Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+IV. Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida (sic) dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, se entenderá que limita la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
+
+También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+CUARTO. Se deroga en la Ley de Hacienda de los Municipios del Estado de Quintana Roo, toda referencia realizada respecto del Municipio de Isla Mujeres.
+
+QUINTO. La recaudación del derecho de saneamiento ambiental que prevé el presente Decreto, iniciará una vez constituido el fideicomiso para su correcta administración, el cual deberá quedar conformado en un plazo no mayor de treinta días naturales posteriores a la vigencia del mismo y estará regido por un comité técnico.
+
+SEXTO. Los procedimientos iniciados por las autoridades municipales conforme a las disposiciones de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, continuarán aplicando tales disposiciones hasta su conclusión.
