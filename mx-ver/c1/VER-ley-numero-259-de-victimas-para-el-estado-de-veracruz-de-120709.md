@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-259-de-victimas-para-el-estado-de-veracruz-de-120709
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-04"
-last_updated: "2017-04-04"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 259 DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el martes 4 de abril de 2017.
 
@@ -289,9 +289,11 @@ XXXVII. Los demás señalados por las Constituciones Federal y Local, Tratados I
 
 ### CAPÍTULO II. DE LOS DERECHOS DE AYUDA, ASISTENCIA Y ATENCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 8.
 
-Las víctimas recibirán ayuda provisional, oportuna y rápida de los Recursos de Ayuda de la Comisión Ejecutiva Estatal, de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
+Las víctimas recibirán ayuda provisional, oportuna y rápida, en un plazo no mayor a 24 horas, de los Recursos de Ayuda de la Comisión Ejecutiva Estatal, de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
 
 Las víctimas de delitos o de violaciones de derechos que atenten contra la vida, contra la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley.
 
@@ -812,6 +814,14 @@ IV. Un organismo internacional de protección de los derechos humanos reconocido
 Lo anterior sin perjuicio de las responsabilidades civiles, penales y administrativas que los mismos hechos pudieran implicar y conforme lo (sic) dispuesto por la presente Ley.
 
 En los casos de víctimas de delitos se estará a lo dispuesto en los montos máximos previstos en la Ley.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 64 Bis.
+
+Los hijos e hijas menores de edad de las víctimas de feminicidio y/o mujeres en situación de desaparición tendrán prioridad en las medidas de reparación integral, de conformidad con lo previsto en el Artículo 4° de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, el principio del Interés Superior de la Niñez y los demás previstos en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado.
+
+Los apoyos que se otorguen señalados en el párrafo anterior deberán garantizar servicios educativos, médicos, psicológicos, de programas sociales, de acogimiento residencial, o de cualquier otro tipo que permita el restablecimiento de su independencia física, mental, social y su inclusión y participación en la sociedad; para tal objetivo las autoridades Estatales y Municipales deberán ofrecer las facilidades de acuerdo al Registro Estatal de Víctimas, con la finalidad de alcanzar a cubrir lo establecido por el párrafo anterior.
 
 ###### Artículo 65.
 
@@ -2226,3 +2236,13 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 718 POR EL QUE SE REFORMA EL ARTÍCULO 45 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; ASÍ COMO POR EL QUE SE REFORMA EL ARTÍCULO 8° DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, ADICIONÁNDOSE UN ARTÍCULO 64 BIS A LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
