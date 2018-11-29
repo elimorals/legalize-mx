@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2017-11-23"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -107,9 +107,9 @@ VIII.- Biotecnología: Toda aplicación tecnológica que utilice recursos bioló
 
 VIII Bis.- Calidad del aire: Las condiciones atmosféricas adecuadas para el desarrollo pleno de los seres vivos.
 
-> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-VIII Ter.- Centro de Verificación: Establecimiento autorizado por la Secretaría de Medio Ambiente, que cuenta con las especificaciones de equipamiento, infraestructura, imagen y procedimientos para realizar una prueba de verificación estática.
+VIII Ter. Centro de Verificación: Establecimiento autorizado por la Secretaría de Medio Ambiente, que cuenta con las especificaciones de equipamiento, infraestructura, imagen y procedimientos para realizar una prueba de verificación estática y que, previa autorización, conforme a los lineamientos que al efecto expida la Secretaría, pueda modificar su figura jurídica a la de Verificentro y realizar también prueba dinámica.
 
 IX.- Conservación: La permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del crecimiento socioeconómico y con base en el ordenamiento ecológico del territorio, con el fin de asegurar a las generaciones presentes y venideras, un ambiente propicio para su desarrollo y la de los recursos naturales que les permitan satisfacer sus necesidades.
 
@@ -1753,7 +1753,7 @@ II.- Promoción del uso del suelo considerando a las especies nativas en los pro
 
 III.- El Estado y los municipios participarán ante las autoridades competentes el establecimiento de vedas de la flora y fauna, y la modificación o levantamiento de las mismas, con el fin de proteger, preservar o restaurar los ecosistemas naturales de los mismos.
 
-IV:- El Estado como responsable de su política ambiental, deberá formular de manera coordinada anualmente un Programa de Reforestación Estatal, donde contemple la restauración de áreas degradadas, la repoblación natural, el fomentar el uso de especies nativas y las acciones de reforestación con fines comerciales, entre otros aspectos a efecto de lograr un desarrollo sustentable.
+IV.- El Estado como responsable de su política ambiental, deberá formular de manera coordinada anualmente un Programa de Reforestación Estatal, donde contemple la restauración de áreas degradadas, la repoblación natural, el fomentar el uso de especies nativas y las acciones de reforestación con fines comerciales, entre otros aspectos a efecto de lograr un desarrollo sustentable.
 
 V.- Los municipios, en el ámbito de sus competencias, se encargarán de la protección y preservación de los árboles y otras especies de flora, que se encuentren en áreas verdes de propiedad pública o privada, dentro de la zona urbana.
 
@@ -2112,6 +2112,10 @@ XIII.- Promoverá el mejoramiento de los sistemas de transporte, y solicitará t
 XIV.- La Secretaría y la sociedad civil, promoverán acciones orientadas hacia la prevención de la contaminación atmosférica.
 
 XV.- Realizará en coordinación con las autoridades correspondientes actos de inspección y vigilancia en materia de contaminación atmosférica para verificar la debida observancia de las Normas Oficiales Mexicanas y las demás disposiciones aplicables, e imponer las sanciones administrativas que correspondan.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XVI.- Podrá autorizar a los Centros de Verificación que cumplan con los requerimientos establecidos en la normativa federal y estatal, el Programa de Verificación, la Sección III del Capítulo I del Título Quinto de la presente Ley y los lineamientos que al efecto expida, para que modifiquen su figura a la de Verificentro y así realizar la prueba dinámica.
 
 > <small>(ADICIONADO, G.O. 16 DE JULIO DE 2014)</small>
 
@@ -2939,7 +2943,7 @@ El Consejo Consultivo sesionará de manera ordinaria, por lo menos, cada tres me
 
 Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable tendrán las siguientes atribuciones:
 
-l. Proponer al Ayuntamiento estrategias, políticas públicas o acciones dirigidas al cuidado y protección del medio ambiente y a la procuración del desarrollo sustentable en sus municipios;
+I. Proponer al Ayuntamiento estrategias, políticas públicas o acciones dirigidas al cuidado y protección del medio ambiente y a la procuración del desarrollo sustentable en sus municipios;
 
 II. Impulsar y organizar foros de consulta ciudadana para el análisis de la problemática ambiental de los municipios;
 
@@ -3490,3 +3494,17 @@ G.O. 23 DE NOVIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 621 QUE REFORMA EL ARTÍCULO 3, FRACCIÓN VIII TER; Y ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 143, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. El Ejecutivo del Estado expedirá o adecuará a la brevedad posible la reglamentación correspondiente en materia de verificación vehicular, así como los programas relacionados, conforme a las previsiones del presente decreto.
+
+TERCERO. La Secretaría de Medio Ambiente, a efecto de dar cumplimiento a lo establecido en este decreto, publicará a la brevedad los lineamientos que deberán cumplir los centros de verificación para poder modificar su figura jurídica a la de verificentros, entre los que se establecerán específicamente los plazos y requerimientos para dicha conversión, mismos que no podrán ser inferiores a los exigidos para el caso de los verificentros.
+
+CUARTO. La Secretaría de Medio Ambiente no autorizará, con motivo de lo dispuesto en este decreto, nuevos centros de verificación ni autorizará cambios de ubicación de los mismos.
+
+QUINTO. Se derogan todas las disposiciones legales y administrativas que contravengan el presente decreto.
