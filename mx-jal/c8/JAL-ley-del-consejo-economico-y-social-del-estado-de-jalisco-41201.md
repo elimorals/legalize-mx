@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-consejo-economico-y-social-del-estado-de-jalisco-41201"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-16"
-last_updated: "2016-05-17"
+last_updated: "2018-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL CONSEJO ECONOMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO NÚMERO 27195/LXII/18, PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el 16 de septiembre de 2004.
 
@@ -321,7 +323,7 @@ IV. Participar en la elaboración, actualización, seguimiento y evaluación del
 
 V. Elegir a los integrantes de la Mesa Directiva, así como al Secretario General y acordar su remoción en caso de ser necesario;
 
-VI. Formular y aprobar su anteproyecto anual de presupuesto de ingresos y egresos, y remitirlo al Poder Ejecutivo, para su consideración en el Presupuestos de Egresos del Estado, de conformidad con la ley de la materia;
+VI. Formular y aprobar su anteproyecto anual de presupuesto de ingresos y egresos, y remitirlo al Poder Ejecutivo, para su consideración en el Presupuesto de Egresos del Estado, de conformidad con la ley de la materia;
 
 VII. Conocer y aprobar los informes financieros y de ejercicio de gastos semestral y anual presentados por el Presidente;
 
@@ -482,3 +484,17 @@ P.O. 17 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7° DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7° DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3° DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4° DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6° DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8° Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL “DECRETO 27195/LXII/18 QUE ABROGA LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD Y QUE EXTINGUE EL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se abroga la Ley del Consejo Económico y Social del Estado de Jalisco para el Desarrollo y la Competitividad contenida en el decreto número 20574 y todas las disposiciones que se opongan al presente decreto.
+
+## TRANSITORIOS
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo del Estado deberá realizar los análisis tendientes para la creación de un nuevo organismo ciudadano consultivo que funja como auxiliar de la administración pública estatal, tomando en cuenta a las Instituciones de los sectores empresarial, social, académico y asistencial.
+
+TERCERO. El Titular del Poder Ejecutivo por conducto de la Secretaría de Planeación, Administración y Finanzas, deberá rendir cuentas por escrito a esta Soberanía, respecto de los pasivos existentes y el procedimiento de liquidación del Consejo Económico y Social del Estado de Jalisco para el Desarrollo y la Competitividad (CESJAL), una vez al año y hasta la total conclusión de los actos del proceso de liquidación.
