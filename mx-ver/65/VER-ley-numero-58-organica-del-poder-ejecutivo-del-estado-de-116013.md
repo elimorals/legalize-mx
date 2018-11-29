@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2018-11-16"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1539,7 +1539,7 @@ XVII. Fomentar la enseñanza agrícola, frutícola, pesquera e hidráulica, medi
 
 > <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
-XVIII. Vigilar la preservación de los recursos agrícolas, frutícolas y pesqueros,, así como la de los recursos naturales renovables factibles de utilizarse y desarrollar su potencial productivo;
+XVIII. Vigilar la preservación de los recursos agrícolas, frutícolas y pesqueros,, (sic) así como la de los recursos naturales renovables factibles de utilizarse y desarrollar su potencial productivo;
 
 > <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
@@ -1682,6 +1682,10 @@ XV. Establecer las normas para orientar los servicios de asistencia social en ma
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 XVI. Instrumentar, coordinar y operar el Registro Estatal de Personas Morales Prestadoras de Servicios Médicos, Guarderías y Velatorios.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Proveer lo conducente en la vigilancia, acreditación y certificación de todas aquellas instituciones públicas o laboratorios clínicos privados, que realicen pruebas en genética molecular del ácido desoxirribonucleico o ADN, en relación con lo señalado en el artículo 289 Bis del Código Civil para el Estado; y los artículos 157 Bis y 157 Sexies del Código de Procedimientos Civiles para el Estado, en términos del artículo 356 Bis de la Ley de Salud del Estado de Veracruz de Ignacio de la Llave y de conformidad con la NOM-007-SSA3-2011.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE JULIO DE 2013)</small>
 
@@ -1845,7 +1849,7 @@ La Secretaría de Protección Civil es la dependencia responsable de la organiza
 
 > <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 2008)</small>
 
-Artículo 32 Quinter. Son atribuciones del Secretario de Protección Civil, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+Artículo 32 Quinter (sic). Son atribuciones del Secretario de Protección Civil, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
 I. Integrar, coordinar y supervisar el Sistema Estatal de Protección Civil para garantizar, mediante la adecuada planeación, la prevención, auxilio y recuperación de la población y de su entorno ante situaciones de emergencia o desastre, incorporando la participación activa de la ciudadanía, tanto en lo individual como en lo colectivo;
 
@@ -2824,3 +2828,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Número 665 QUE ADICIONA UN CAPÍTULO Y UN ARTÍCULO A LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+TERCERO. Se otorga un plazo de sesenta días para que el Ejecutivo del Estado expida un Reglamento, que fijará los procedimientos y requisitos para que las instituciones públicas y laboratorios clínicos privados puedan obtener su certificado para expedir pruebas periciales en materia de genética molecular del ácido desoxirribonucleico o ADN. El Reglamento que expida el Ejecutivo del Estado deberá observar lo dispuesto en el artículo 17 Bis de la Ley General de Salud.
