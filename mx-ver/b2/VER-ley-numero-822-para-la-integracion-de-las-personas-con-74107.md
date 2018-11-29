@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-822-para-la-integracion-de-las-personas-con-74107"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-11"
-last_updated: "2018-08-23"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 822 PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 11 de marzo de 2010.
 
@@ -423,7 +423,9 @@ XI. Fortalecer y difundir el reconocimiento oficial de la lengua de señas mexic
 
 XII. Promover el acceso de la población con discapacidad auditiva y visual a la educación pública, obligatoria y bilingüe, que comprenda la enseñanza del idioma español y, en su caso, la lengua de señas mexicana y el sistema Braille, así como el uso suplementario de lenguas indígenas, cuando las circunstancias lo requieran;
 
-XIII. Establecer un programa estatal de becas educativas para personas con discapacidad;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+XIII. La Secretaría de Educación de Veracruz otorgará becas de transporte a niños, jóvenes y a todo tipo de personas con discapacidad transitoria o definitiva que se encuentren inscritos en cualquier nivel educativo tanto oficial como particular, que cuenten con la autorización de estudios y/o reconocimiento de validez oficial de estudios.
 
 XIV. Fomentar la investigación en aspectos de educación especial, con el fin de incidir en la mejora de la calidad de vida de las personas con discapacidad, mediante convenios de colaboración con instituciones formadoras de docentes, universidades y organizaciones;
 
@@ -954,3 +956,11 @@ G.O. 23 DE AGOSTO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. El Ejecutivo del Estado contará con un plazo no mayor a treinta días contado a partir de la entrada en vigor del presente Decreto para hacer las adecuaciones reglamentarias correspondientes.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 733 QUE ADICIONA EL ARTÍCULO 91 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 22 DE LA LEY PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y SE ADICIONA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I INCISO a) AL ARTÍCULO 8 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
