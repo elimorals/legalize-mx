@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-11-27"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -253,7 +253,9 @@ IX. NOVENO CIRCUITO:
 
 X. DECIMO CIRCUITO:
 
-1. Cuatro tribunales colegiados: Tres especializados: uno en materias civil y de trabajo, uno en materias penal y de trabajo y uno en materias administrativa y de trabajo, todos con residencia en Villahermosa, y, uno con residencia en Coatzacoalcos.
+> <small>(REFORMADO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+1. Cinco tribunales colegiados: Tres especializados: uno en materias civil y de trabajo, uno en materias penal y de trabajo y uno en materias administrativa y de trabajo, todos con residencia en Villahermosa y dos con residencia en Coatzacoalcos.
 
 2. Dos tribunales unitarios con sede en Villahermosa.
 
@@ -905,9 +907,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y tres juzgados de Distrito Auxiliares.
 
-> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz se integrará por dos tribunales Colegiados de Circuito Auxiliares.
+11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz se integrará por un Tribunal Colegiado de Circuito Auxiliar.
 
 Todos los órganos jurisdiccionales antes citados tendrán jurisdicción en toda la República Mexicana y su competencia será mixta, a excepción del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región que además se especializa en materia de extinción de dominio.
 
@@ -7072,3 +7074,17 @@ QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas a
 Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
 
 SEXTO. Se abroga el Acuerdo General 38/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la conclusión de funciones del Juzgado Quinto de Distrito del Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas y su transformación en Segundo Tribunal Unitario del Vigésimo Tercer Circuito, así como a su competencia, jurisdicción territorial, domicilio, y fecha de inicio de funciones; al cambio de denominación del Tribunal Unitario del mismo Circuito y residencia; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Tribunales Unitarios del Circuito y residencia indicados; y a la creación de la oficina de correspondencia común que les prestará servicio.
+
+D.O.F. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 45/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ; LA CONCLUSIÓN Y TRANSFORMACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES COLEGIADOS DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN; CAMBIO DE DENOMINACIÓN DEL TRIBUNAL COLEGIADO DEL DÉCIMO CIRCUITO EN EL MISMO ESTADO Y RESIDENCIA; EL INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DEL DÉCIMO CIRCUITO, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES EN LA RESIDENCIA INDICADA; Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz y el inicio del Segundo Tribunal Colegiado del Décimo Circuito, en el citado Estado y residencia, implicará el traslado de sus magistrados, en la calidad en que se encuentran adscritos y del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional de nueva creación contará con la misma plantilla de personal que tiene su homólogo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
