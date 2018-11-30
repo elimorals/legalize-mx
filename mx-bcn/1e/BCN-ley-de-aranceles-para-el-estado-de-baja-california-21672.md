@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-aranceles-para-el-estado-de-baja-california-21672"
 country: "mx"
 rank: "ley"
 publication_date: "1977-03-10"
-last_updated: "1977-03-10"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ARANCELES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 10 de marzo de 1977.
 
@@ -321,9 +321,11 @@ En el caso de los dos artículos que anteceden si se hiciere necesaria la realiz
 
 Los depositarios de fincas urbanas cobrarán el 10% del importe bruto, de los productos o rentas que se recauden. En caso de que la finca nada produzca, los honorarios se regularán conforme a lo dispuesto en el Artículo 34.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 38.
 
-Los depositarios de fincas rústicas o negociaciones mercantiles o industriales recibirán como honorarios un 10% sobre los ingresos de la finca o negociación, en caso de que no haya ingresos superiores a los gastos de manejo de la finca o negociación se estará al Artículo 33, sin que en ningún caso sea inferior al salario mínimo de la región.
+Los depositarios de fincas rústicas o negociaciones mercantiles o industriales recibirán como honorarios un 10% sobre los ingresos de la finca o negociación, en caso de que no haya ingresos superiores a los gastos de manejo de la finca o negociación se estará al Artículo 33, sin que en ningún caso sea inferior al valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTICULO 39.
 
@@ -390,3 +392,21 @@ EL SECRETARIO GRAL. DE GOBIERNO.
 LIC. RAFAEL MORENO HENRIQUEZ.
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
