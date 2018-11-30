@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-administracion-documental-para-el-estado-de-3312
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-07-11"
-last_updated: "2010-09-10"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY GENERAL DE ADMINISTRACION DOCUMENTAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY GENERAL DE ADMINISTRACION DOCUMENTAL PARA EL ESTADO DE BAJA CALIFORNIA
+LEY GENERAL DE ADMINISTRACIÓN DOCUMENTAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 11 de julio de 2003.
 
@@ -475,7 +475,9 @@ La eliminación de documentos de origen público se realizará con estricto apeg
 
 Las violaciones a los artículos 32, 33, 34, 35 y 36 de esta Ley, serán considerados graves y en consecuencia los servidores públicos serán sancionados con:
 
-I.- Multa, que deberá ser desde 500, hasta 1000 días salario mínimo;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+I.- Multa, que deberá ser desde 500, hasta 1000 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 II.- Suspensión definitiva; y
 
@@ -538,3 +540,19 @@ P.O. 10 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial de Baja California.
 
 SEGUNDO.- Las autoridades que formen parte del Sistema Estatal de Documentación deberán elaborar su reglamentación interna en un plazo no mayor a los 180 días naturales a partir de la entrada en vigor de las reformas de mérito.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
