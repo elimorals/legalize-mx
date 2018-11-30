@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-notariado-para-el-estado-de-baja-california-22116"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2016-10-07"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 14 de septiembre de 2001.
 
@@ -373,9 +373,11 @@ El Jurado de examen podrá funcionar válidamente con la asistencia de por lo me
 
 El examen consistirá de dos partes: una prueba práctica que será la redacción de un instrumento cuyo tema se sorteará de veinte propuestos, sellados y colocados en sobres cerrados, diez por la Dirección del Archivo General de Notarías y diez por el Consejo de Notarios; al concluir aquella, una prueba teórica que será oral y pública, en la que cada uno de los miembros del jurado podrá hacer al sustentante las preguntas o interpelaciones que deseé, sin necesidad de que se relacionen sobre el caso jurídico a que se refiere el tema que le haya correspondido.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 32.
 
-No podrá formar parte del jurado el Notario en cuya Notaría haya hecho la práctica el sustentante, ni los parientes consanguíneos o afines de éste dentro del tercer grado de parentesco en línea recta o transversal, ni los que guarden relación íntima de amistad con el mismo sustentante. Los miembros del jurado en los que concurriere alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen. El sinodal que dejare de concurrir al acto, sin mediar impedimento o dispensa, será sancionado con multa hasta de por el equivalente de cien días de Salario Mínimo, a juicio del Ejecutivo del Estado.
+No podrá formar parte del jurado el Notario en cuya Notaría haya hecho la práctica el sustentante, ni los parientes consanguíneos o afines de éste dentro del tercer grado de parentesco en línea recta o transversal, ni los que guarden relación íntima de amistad con el mismo sustentante. Los miembros del jurado en los que concurriere alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen. El sinodal que dejare de concurrir al acto, sin mediar impedimento o dispensa, será sancionado con multa hasta de por el equivalente de cien veces el valor diario de la Unidad Medida y Actualización vigente, a juicio del Ejecutivo del Estado.
 
 ###### ARTICULO 33.
 
@@ -1329,13 +1331,13 @@ Para que el Notario pueda actuar deberá llenar los siguientes requisitos:
 
 I.- Otorgar y mantener vigente una garantía en favor del Poder Ejecutivo del Estado por la cantidad que resulte:
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-a) De multiplicar por 10,000 el salario mínimo general diario vigente en la Entidad para los Notarios que tengan menos de cinco años en el ejercicio de la función notarial;
+a) De multiplicar por 10,000 veces el valor diario de la Unidad de Medida y Actualización vigente para los Notarios que tengan menos de cinco años en el ejercicio de la función notarial;
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-b) De multiplicar por 15,000 el salario mínimo general vigente en la Entidad para los Notarios que tengan cinco años o más en el ejercicio de la función notarial. La garantía deberá otorgarse en favor del Ejecutivo del Estado deberá actualizarse anualmente.
+b) De multiplicar por 15,000 veces el valor diario de la Unidad de Medida y Actualización vigente para los Notarios que tengan cinco años o más en el ejercicio de la función notarial. La garantía deberá otorgarse en favor del Ejecutivo del Estado deberá actualizarse anualmente.
 
 II.- Proveerse a su costa de sello y Protocolo.
 
@@ -1805,7 +1807,9 @@ ARTICULO 195 BIS 8.- Las sanciones administrativas que se impongan a los notario
 
 I.- Amonestación por escrito;
 
-II.- Multa por una cantidad mínima de cien y máxima de tres mil veces el salario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Multa por una cantidad mínima de cien y máxima de tres mil veces el valor diario de la Unidad de Medida y Actualización vigente; y
 
 III.- Revocación de la patente.
 
@@ -1971,9 +1975,9 @@ Los Notarios no serán remunerados por el Erario, sino que tendrán derecho a co
 
 Los Notarios deberán cobrar por sus servicios las cantidades que precisamente resulten aplicables a cada caso, conforme al Arancel aprobado por el Ejecutivo del Estado y conforme a los Convenios que, para determinadas actividades, celebre el Consejo de Notarios.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 200 BIS.- El Arancel de Notarios expedido por el Ejecutivo del Estado, deberá estipular los honorarios respectivos con base en una perspectiva de beneficio social, cuando se trate de la enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por veinticinco veces el salario mínimo general vigente en el Estado de Baja California elevado al año, de la constitución o transmisión de derechos reales o que garanticen un crédito no mayor a dicha suma, así como de la intervención de los notarios en los testamentos.
+ARTICULO 200 BIS.- El Arancel de Notarios expedido por el Ejecutivo del Estado, deberá estipular los honorarios respectivos con base en una perspectiva de beneficio social, cuando se trate de la enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por veinticinco veces el valor diario de la Unidad de Medida y Actualización vigente elevado al año, de la constitución o transmisión de derechos reales o que garanticen un crédito no mayor a dicha suma, así como de la intervención de los notarios en los testamentos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2015)</small>
 
@@ -2316,3 +2320,19 @@ P.O. 7 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 590 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2191 Y 2194 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
