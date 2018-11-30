@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2018-04-20"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -439,19 +441,25 @@ Cuando la información proporcionada por la institución de salud se encuentre i
 
 En caso de que la Oficialía del Registro Civil, advierta que se pudiera haber proporcionado información con el propósito de alterar la filiación del menor, hará la denuncia penal correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 56.
 
-A las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, se les sancionará con multa de diez a cincuenta veces el salario mínimo general vigente en el Estado, que impondrá la autoridad Municipal del lugar donde se haya hecho la declaración de nacimiento fuera del plazo previsto en el artículo 55 de este Código; excepto tratándose de jornaleros o asalariados, los que no excederán en su caso el importe de un salario mínimo.
+A las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, se les sancionará con multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente, que impondrá la autoridad Municipal del lugar donde se haya hecho la declaración de nacimiento fuera del plazo previsto en el artículo 55 de este Código; excepto tratándose de jornaleros o asalariados, los que no excederán en su caso el valor de una vez el valor diario de la Unidad de Medida y Actualización vigente.
 
-Se le aplicará una sanción de cien a mil veces el salario mínimo, a las instituciones de salud que no cumplan con la obligación de expedir y remitir a la Oficialía del Registro Civil, el formato relativo a la declaración de Nacimiento previsto en el artículo 54 de este Código. La misma sanción se les aplicará en el supuesto de que incumplan con la obligación de otorgar el Certificado de Nacimiento.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Se le aplicará una sanción de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente, a las instituciones de salud que no cumplan con la obligación de expedir y remitir a la Oficialía del Registro Civil, el formato relativo a la declaración de Nacimiento previsto en el artículo 54 de este Código. La misma sanción se les aplicará en el supuesto de que incumplan con la obligación de otorgar el Certificado de Nacimiento.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
 
 Además de las sanciones señaladas en el párrafo anterior, el Director del Registro Civil, pondrá en conocimiento a la autoridad Estatal en materia de salud, para que tome las medidas conducentes a fin de que se cumpla con lo establecido en este Código.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+
 Los incumplimientos expresados en los párrafos anteriores, sólo darán lugar a las sanciones administrativas indicadas, pero el registro del nacimiento será válido para todos los efectos de Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
 
 Las sanciones a las que se refiere el presente artículo serán impuestas por la Dirección del Registro Civil, pudiendo auxiliarse de la autoridad municipal en su ejecución.
 
@@ -535,11 +543,11 @@ Podrá reconocerse al hijo nacido de una relación entre parientes consanguíneo
 
 Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Sistema para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en su caso hayan concurrido, y el Sistema procederá sin demora ante el Registro Civil para inscribir su nacimiento, si fuere el caso, proveyendo además a la custodia provisional de aquél y dando cuenta al Ministerio Público de la adscripción.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 66.
 
-La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión, y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas y en caso de incumplimiento, la autoridad municipal impondrá al infractor una multa de treinta y cinco a cien veces el salario mínimo general vigente en el Estado.
+La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión, y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas y en caso de incumplimiento, la autoridad municipal impondrá al infractor una multa de treinta y cinco a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -961,11 +969,11 @@ VII.- Nombre, apellidos, edad, nacionalidad y domicilio del declarante y grado d
 
 VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, y si fueren parientes del difunto, el grado en que lo sean.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 117.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad; los huéspedes de los hoteles, mesones o casas de vecindad tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes del fallecimiento y en caso de incumplimiento se sancionarán con una multa de treinta y cinco a cien veces el salario mínimo general vigente en el Estado.
+Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad; los huéspedes de los hoteles, mesones o casas de vecindad tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes del fallecimiento y en caso de incumplimiento se sancionarán con una multa de treinta y cinco a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTICULO 118.
 
@@ -4909,11 +4917,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 722.
 
-El valor máximo de los bienes afectados al patrimonio de la familia conforme al artículo 715, será la cantidad que resulte de multiplicar por 25,000 el importe del salario mínimo general diario vigente en el Estado de Baja California, en la época en que se constituya el patrimonio.
+El valor máximo de los bienes afectados al patrimonio de la familia conforme al artículo 715, será la cantidad que resulte de multiplicar por 25,000 el importe del valor diario de la Unidad de Medida y Actualización vigente, en la época en que se constituya el patrimonio.
 
 ###### ARTICULO 723.
 
@@ -10111,15 +10119,13 @@ Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias 
 
 Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
-
 ###### ARTICULO 1793.
 
 La reparación del daño debe consistir, a elección del ofendido, en el restablecimiento de la situación anterior a el, y cuando ello sea imposible, en el pago de daños y perjuicios.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad permanente total o parcial o, temporal total o parcial, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal de Trabajo para riegos de trabajo. Para calcular la indemnización que corresponda se tomará como base el equivalente a cinco veces el salario mínimo diario vigente en el Estado. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad permanente total o parcial o, temporal total o parcial, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal de Trabajo para riegos de trabajo. Para calcular la indemnización que corresponda se tomará como base el equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 En el caso de daños a las personas la indemnización incluirá todos los gastos médicos que la misma Ley Federal del Trabajo prevé para riesgos de trabajo, que el ofendido hubiere efectuado para recuperarse del daño causado.
 
@@ -10142,8 +10148,6 @@ II. Cuando ocurre la pérdida o detrimento en la relación padre e hijo, o la in
 III. Cuando una persona sea víctima de la discriminación, humillación, acoso sexual o malos tratos por razón de su origen étnico, sexo o preferencia sexual, o por razón de algún impedimento físico;
 
 IV. Cuando una persona sea víctima del abuso de un derecho.
-
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
@@ -12127,19 +12131,15 @@ En la venta de que habla el artículo 2186 mientras que no pasa la propiedad de 
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 2191.
 
-La enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por 10,000 el importe del salario mínimo diario vigente en el Estado de Baja California y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez o Registro Público de la Propiedad o Catastro Municipal.
+La enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por 10,000 el importe del valor diario de la Unidad de Medida y Actualización vigente y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez o Registro Público de la Propiedad o Catastro Municipal.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+Los contratos por los que el Gobierno Federal, del Estado, Municipios y Organismos Descentralizados enajenen terrenos o casas para la constitución del patrimonio familiar, para los trabajadores al servicio del Estado o para personas de escasos recursos económicos hasta por el valor de 10,000 veces el valor diario de la Unidad de Medida y Actualización vigente, podrán otorgarse en documento privado sin los requisitos de testigos y ratificación de firmas.
 
-Los contratos por los que el Gobierno Federal, del Estado, Municipios y Organismos Descentralizados enajenen terrenos o casas para la constitución del patrimonio familiar, para los trabajadores al servicio del Estado o para personas de escasos recursos económicos hasta por el valor de 10,000 salarios mínimos general vigente en el Estado de Baja California, podrán otorgarse en documento privado sin los requisitos de testigos y ratificación de firmas.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
-
-En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Estado y los municipios sobre inmuebles de propiedad particular, cuyo valor no rebase el de la cantidad que resulte de multiplicar por 7,000 el importe del salario mínimo diario vigente en el Estado de Baja California, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
+En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Estado y los municipios sobre inmuebles de propiedad particular, cuyo valor no rebase el de la cantidad que resulte de multiplicar por 7,000 el importe del valor diario de la Unidad de Medida y Actualización vigente, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
 
 ###### ARTICULO 2192.
 
@@ -12151,11 +12151,11 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público, quien lo inscribirá en los términos de la Fracción III, del Artículo 2878 de este Código, siempre y cuando se acompañe dictamen de perito valuador legalmente autorizado.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 2194.
 
-Si el valor del inmueble excede de 10,000 salarios mínimos general vigente en el Estado de Baja California, su venta se hará en escritura pública, salvo, lo dispuesto por los artículos 2121 y 2191, segundo párrafo, de este ordenamiento.
+Si el valor del inmueble excede de 10,000 El valor diario de la Unidad de Medida y Actualización vigente, su venta se hará en escritura pública, salvo, lo dispuesto por los artículos 2121 y 2191, segundo párrafo, de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
@@ -16634,3 +16634,19 @@ P.O. 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 212 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 300 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
