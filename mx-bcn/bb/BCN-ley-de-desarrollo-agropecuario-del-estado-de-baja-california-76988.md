@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2017-11-10"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -1481,17 +1481,25 @@ X. Las demás que se deriven del cumplimiento de esta Ley.
 
 Las infracciones a los preceptos de esta Ley y sus reglamentos, serán sancionadas administrativamente por la Secretaría, con alguna de las siguientes sanciones:
 
-I.- Por infracción al (sic) artículos 4, 45 o 46 de esta Ley, con multa de diez a veinte días de salario mínimo vigente en la región;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II.- Por infracción al artículo 52 de esta Ley, con multa de veinte a cuarenta días de salario mínimo general vigente en la región;
+I.- Por infracción al (sic) artículos 4, 45 o 46 de esta Ley, con multa de diez a veinte veces el valor diario de la Unidad de Medida y Actualización vigente;
 
-III.- Por infracción al artículo 51, 56, 58, 78, 94, 98 ó 133 de esta Ley, con multa de treinta a cicuenta (sic) días de salario mínimo general vigente en la región, y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Por infracción al artículo 52 de esta Ley, con multa de veinte a cuarenta veces el valor diario de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Por infracción al artículo 51, 56, 58, 78, 94, 98 ó 133 de esta Ley, con multa de treinta a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 IV.- Por infracción a cualquier otro artículo de esta Ley o su reglamento, diverso a los señalados en las fracciones anteriores, con:
 
 a) Amonestación;
 
-b) Multa de diez a dos mil días de salario mínimo general vigente en la región, y
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+b) Multa de diez a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, y
 
 c) La suspensión o revocación de los permisos y autorizaciones correspondientes.
 
@@ -1562,3 +1570,19 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 146 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 17 FRACCIÓN VII, EL CAPÍTULO X DEL TÍTULO PRIMERO Y AL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
 
 Único.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
