@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-y-gestion-integral-de-residuos-para-el-57181"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-28"
-last_updated: "2016-10-21"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2007.
 
@@ -63,7 +65,7 @@ Para los efectos de la presente Ley, son aplicables las definiciones contenidas 
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-l. Centro de acopio: Instalación para almacenar temporalmente y de manera ambientalmente adecuada, uno o varios tipos de residuos de manejo especial, provenientes de una o varias fuentes, para su posterior traslado a centros de reciclaje, tratamiento o disposición final;
+I. Centro de acopio: Instalación para almacenar temporalmente y de manera ambientalmente adecuada, uno o varios tipos de residuos de manejo especial, provenientes de una o varias fuentes, para su posterior traslado a centros de reciclaje, tratamiento o disposición final;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
@@ -213,9 +215,13 @@ XX BIS I. Crear mecanismos para la participación responsable, activa y efectiva
 
 XX BIS II. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo de los residuos de su competencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-XXI. Las demás que se establezcan en esta Ley y demás ordenamientos jurídicos aplicables, sin contravención a lo establecido por la Ley General.
+XXI. Fomentar acciones encaminadas a que los establecimientos de alimentos y bebidas no promuevan el uso de popotes, salvo que el usuario así lo disponga.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXII. Las demás que se establezcan en esta Ley y demás ordenamientos jurídicos aplicables, sin contravención a los (sic) establecido por la Ley General.
 
 ###### Artículo 6.
 
@@ -377,7 +383,7 @@ Los planes de manejo podrán establecer formas o mecanismos alternativos a los e
 
 Artículo 9 BIS 4.- Los obligados a presentar planes de manejo, deberán integrar una propuesta para sustentar el desarrollo de cada uno de ellos, la cual se entregará a la Secretaría en el formato que ésta determine y a la autoridad municipal competente, para su validación; en ella se asentará lo siguiente:
 
-l. Nombre, denominación o razón social de quien presente la propuesta, representante legal en su caso, nombre de la persona autorizada para recibir notificaciones, autoridad a quien se dirige, lugar y fecha de elaboración. La propuesta deberá estar firmada por el interesado o su representante legal;
+I. Nombre, denominación o razón social de quien presente la propuesta, representante legal en su caso, nombre de la persona autorizada para recibir notificaciones, autoridad a quien se dirige, lugar y fecha de elaboración. La propuesta deberá estar firmada por el interesado o su representante legal;
 
 II. Ubicación e infraestructura del almacén de sus residuos generados en su actividad o proceso, los cuales deberán estar señalados y acreditados;
 
@@ -501,7 +507,7 @@ Para el cumplimiento de esta Ley, las obligaciones de los pequeños generadores 
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-l. Registrarse ante la Secretaría;
+I. Registrarse ante la Secretaría;
 
 II. (DEROGADA, P.O. 22 DE OCTUBRE DE 2010)
 
@@ -545,7 +551,7 @@ XIII. Todas aquellas condiciones legales que se consideren convenientes para un 
 
 Artículo 13 BIS.- Quienes se dediquen a la actividad de vulcanización, revulcanización, aprovechamiento o comercialización de llantas o neumáticos nuevos o usados, tendrán las siguientes obligaciones:
 
-l. Registrarse ante la Secretaría como generadores;
+I. Registrarse ante la Secretaría como generadores;
 
 II. Presentar a la Secretaría un reporte semestral en el cual se registre el volumen relativo a las llantas y/o neumáticos nuevos o usados que vulcanicen, revulcanicen, aprovechen, comercialicen, así como de los que se han dispuesto en los centros de acopio; así como, las condiciones particulares de manejo a las que fueron sometidos y demás elementos que sean establecidos en el reglamento de esta Ley;
 
@@ -579,7 +585,7 @@ XIV. Las demás que establezca el reglamento de esta Ley.
 
 Artículo 13 BIS 1.- Quien pretenda importar llantas o neumáticos nuevos o usados, además de las obligaciones establecidas en el artículo anterior, deberá cumplir con lo siguiente:
 
-l. Acreditar anualmente el manejo integral de la totalidad de las llantas o neumáticos establecidos en el permiso de importación otorgado por la autoridad federal competente, con los recibos expedidos por los centros de acopio, de reciclaje o disposición final;
+I. Acreditar anualmente el manejo integral de la totalidad de las llantas o neumáticos establecidos en el permiso de importación otorgado por la autoridad federal competente, con los recibos expedidos por los centros de acopio, de reciclaje o disposición final;
 
 II. Obtener su constancia anual de no adeudo cuando acredite el manejo integral de la totalidad de las llantas o neumáticos establecidos en el permiso de importación otorgado por la autoridad federal competente.
 
@@ -591,7 +597,7 @@ III. Las demás que prevea el reglamento de esta Ley.
 
 Artículo 13 BIS 2.- Los responsables de instalar y operar un sistema de tratamiento de aguas residuales, de conformidad con la normatividad aplicable, están obligados a:
 
-l. Disponer debidamente los biosólidos o lodos, generados en los sistemas de tratamiento, en sitios autorizados por la Secretaría, los cuales deberán cumplir con las Normas Oficiales Mexicanas.
+I. Disponer debidamente los biosólidos o lodos, generados en los sistemas de tratamiento, en sitios autorizados por la Secretaría, los cuales deberán cumplir con las Normas Oficiales Mexicanas.
 
 Para los efectos de esta fracción, el responsable deberá exhibir los estudios técnicos y análisis fisicoquímicos que acrediten que los biosólidos o lodos no tienen características de peligrosidad de conformidad con la Ley General;
 
@@ -603,7 +609,7 @@ III. Las demás que se establezcan en la presente Ley y el respectivo reglamento
 
 Artículo 13 BIS 3.- Las personas físicas o morales que generen aceites y grasas residuales, de tipo comestible, están obligados a:
 
-l. Abstenerse de verter o depositar aceites comestibles usados al sistema de alcantarillado público;
+I. Abstenerse de verter o depositar aceites comestibles usados al sistema de alcantarillado público;
 
 II. Depositarlos en contenedores de almacenamiento temporal para su disposición final, por el tiempo que se determine en el reglamento, atendiendo al tipo de residuo, volumen y demás criterios técnicos pertinentes que aseguren un manejo integral;
 
@@ -703,7 +709,7 @@ VI. Las demás que establezca el reglamento respectivo.
 
 Artículo 14 BIS 1.- Los prestadores de servicios que se dediquen a la reutilización o reciclaje de residuos, además de estar obligados a lo establecido en el artículo 14 de la presente Ley, deberán cumplir con lo siguiente:
 
-l. Ubicarse en zonas de usos de suelo industrial o en lugares que cumplan con los criterios de desarrollo urbano, y
+I. Ubicarse en zonas de usos de suelo industrial o en lugares que cumplan con los criterios de desarrollo urbano, y
 
 II. Las que determine el reglamento de la presente Ley.
 
@@ -715,7 +721,7 @@ Queda prohibido por cualquier motivo:
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-l. Depositar residuos sólidos urbanos o de manejo especial en lugares no autorizados por las autoridades competentes;
+I. Depositar residuos sólidos urbanos o de manejo especial en lugares no autorizados por las autoridades competentes;
 
 II. Colocar propaganda comercial o política en el equipamiento urbano destinado a la recolección de residuos sólidos urbanos o de manejo especial, atendiendo las salvedades de la Ley de Instituciones y Procedimientos Electorales en la materia;
 
@@ -759,7 +765,7 @@ Las violaciones a lo establecido en este artículo serán sancionadas de conform
 
 Artículo 15 BIS.- Sólo se permitirá la quema a cielo abierto de residuos, en los siguientes casos:
 
-l. Para acciones de adiestramiento y capacitación de personal encargado del combate de incendios;
+I. Para acciones de adiestramiento y capacitación de personal encargado del combate de incendios;
 
 II. Cuando con esta medida se evite un riesgo mayor a la comunidad, a los elementos naturales y medie recomendación de alguna autoridad de atención a emergencias; y
 
@@ -779,7 +785,7 @@ Artículo 15 BIS 1.- La vigencia de las autorizaciones a que refiere esta Ley se
 
 Artículo 15 BIS 2.- Las autorizaciones podrán ser prorrogadas por periodos iguales al originalmente dado, siempre y cuando se cumplan las siguientes condiciones:
 
-l. Que la solicitud de prórroga se presente en el último año de vigencia de la autorización y hasta cuarenta y cinco días hábiles previos al vencimiento de la vigencia en mención;
+I. Que la solicitud de prórroga se presente en el último año de vigencia de la autorización y hasta cuarenta y cinco días hábiles previos al vencimiento de la vigencia en mención;
 
 II. Que la actividad desarrollada por el solicitante sea igual a la originalmente autorizada;
 
@@ -803,7 +809,7 @@ El escrito deberá acompañarse de copia certificada del acta protocolizada ante
 
 Artículo 15 BIS 4.- La Secretaría o la autoridad municipal competente, podrán negar la autorización solicitada, cuando:
 
-l. Exista falsedad en la información presentada por el promovente;
+I. Exista falsedad en la información presentada por el promovente;
 
 II. En el sitio a realizarse la actividad, por su ubicación, no sea acorde con los usos de suelo establecidos en los Programas de Desarrollo Urbano de los centros de poblaciones municipales o Planes y Programas de Ordenamiento Ecológico del Estado;
 
@@ -815,7 +821,7 @@ IV. Se contraponga con lo establecido en esta Ley, su reglamento, las Normas Ofi
 
 Artículo 15 BIS 5.- Son causas de revocación de las autorizaciones, permisos y licencias, además de las previstas en el artículo 191 bis de la Ley Ambiental, las siguientes:
 
-l. Por incumplir las condicionantes dictadas dentro de la autorización;
+I. Por incumplir las condicionantes dictadas dentro de la autorización;
 
 II. Omitir renovar las garantías otorgadas, cuando conforme a esta Ley deban hacerlo y
 
@@ -957,7 +963,7 @@ Cuando la generación, manejo y disposición final de estos residuos produzca co
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-l. Llevar a cabo las acciones necesarias para remediar el sitio, de acuerdo a lo establecido en las disposiciones jurídicas aplicables;
+I. Llevar a cabo las acciones necesarias para remediar el sitio, de acuerdo a lo establecido en las disposiciones jurídicas aplicables;
 
 II. En su caso, indemnizar los daños causados a terceros de conformidad con la legislación aplicable; y
 
@@ -1047,7 +1053,7 @@ Las autoridades competentes, fundada y motivadamente, podrán aplicar las siguie
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-l. Asegurar precautoriamente los materiales, residuos o sustancias contaminantes, auto transportes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad, según lo previsto en el párrafo primero de este artículo;
+I. Asegurar precautoriamente los materiales, residuos o sustancias contaminantes, auto transportes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad, según lo previsto en el párrafo primero de este artículo;
 
 II. Asegurar, aislar, suspender o retirar temporalmente en forma parcial o total, según corresponda, los bienes, equipos y actividades que generen el riesgo o daño significativo;
 
@@ -1089,7 +1095,9 @@ Las sanciones administrativas podrán consistir, según lo amerite la conducta e
 
 I. Amonestación con apercibimiento;
 
-II. Multa por el equivalente de doscientos a veinte mil días de salario mínimo general vigente en el Estado de Baja California;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II. Multa por el equivalente de doscientos a veinte mil veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 III. Arresto hasta por 36 horas, cuando:
 
@@ -1129,7 +1137,7 @@ En la imposición de sanciones se tomarán en cuenta indistintamente los siguien
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-l. La gravedad de la conducta y/o el daño y perjuicio causado;
+I. La gravedad de la conducta y/o el daño y perjuicio causado;
 
 II. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción;
 
@@ -1139,7 +1147,7 @@ IV. La reincidencia;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-V. Situación socioeconómica del infractor (sic).
+V. Situación socioeconómica del infractor.
 
 VI. Situación socioeconómica del infractor.
 
@@ -1252,3 +1260,25 @@ P.O. 21 DE OCTUBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 278 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN XXI AL ARTÍCULO 5 DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
