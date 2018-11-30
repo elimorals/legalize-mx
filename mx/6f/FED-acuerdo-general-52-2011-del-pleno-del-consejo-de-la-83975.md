@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-52-2011-del-pleno-del-consejo-de-la-83975"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-11-30"
-last_updated: "2011-11-30"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83975&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-11-22"
 ---
 # ACUERDO GENERAL 52/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGION, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ Y JURISDICCION EN TODA LA REPUBLICA]
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DIECIOCHO DEL ACUERDO GENERAL 45/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 18 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ACUERDO GENERAL 52/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGION, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ Y JURISDICCION EN TODA LA REPUBLICA
+ACUERDO GENERAL 52/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ Y JURISDICCIÓN EN TODA LA REPÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 30 de noviembre de 2011.
 
@@ -74,3 +74,19 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 52/2011, del Pleno del Consejo de la Judicatura Federal, relativo al inicio de funciones del Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de dieciséis de noviembre de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a veintidós de noviembre de dos mil once.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ; LA CONCLUSIÓN Y TRANSFORMACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES COLEGIADOS DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN; CAMBIO DE DENOMINACIÓN DEL TRIBUNAL COLEGIADO DEL DÉCIMO CIRCUITO EN EL MISMO ESTADO Y RESIDENCIA; EL INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DEL DÉCIMO CIRCUITO, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES EN LA RESIDENCIA INDICADA; Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz y el inicio del Segundo Tribunal Colegiado del Décimo Circuito, en el citado Estado y residencia, implicará el traslado de sus magistrados, en la calidad en que se encuentran adscritos y del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional de nueva creación contará con la misma plantilla de personal que tiene su homólogo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
