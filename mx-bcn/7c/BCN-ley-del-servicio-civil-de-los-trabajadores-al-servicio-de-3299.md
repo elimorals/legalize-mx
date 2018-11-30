@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2018-03-02"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -1829,7 +1829,9 @@ III.- Si el testigo radica fuera del lugar de residencia del Tribunal de Arbitra
 
 IV.- Cuando a juicio del Tribunal de Arbitraje el testigo sea servidor público desde jefe de departamento o sus equivalentes, deberá rendir su declaración por medio de oficio.
 
-V.- A quien proporcione domicilio inexacto o inexistente de algún testigo o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se le impondrá al oferente una multa de hasta doce veces el salario mínimo, declarándose desierta la prueba respecto de quien haya sido propuesto como testigo.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+V.- A quien proporcione domicilio inexacto o inexistente de algún testigo o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se le impondrá al oferente una multa de hasta doce veces el valor diario de la Unidad de Medida y Actualización Vigente, declarándose desierta la prueba respecto de quien haya sido propuesto como testigo.
 
 VI.- La sustitución de un testigo será procedente cuando se acredite ante el Tribunal de Arbitraje, causa superveniente que le impida acudir al desahogo de la prueba, o cuando se ponga en duda por el oferente su imparcialidad. Debiendo notificarse a la contraparte, por lo menos con cinco días de anticipación a la fecha señalada para el desahogo de la testimonial.
 
@@ -2085,7 +2087,9 @@ Las correcciones a que aluden el artículo anterior serán:
 
 I.- Amonestación.
 
-II.- Multa hasta por el equivalente a seis días de salario mínimo.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Multa hasta por el equivalente a seis veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III.- Suspensión de empleo con privación de sueldo hasta por quince días.
 
@@ -2093,9 +2097,11 @@ III.- Suspensión de empleo con privación de sueldo hasta por quince días.
 
 Las correcciones disciplinarias se impondrán oyendo al interesado y tomando en cuenta las circunstancias en que tuvo lugar la falta cometida.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 150.
 
-Las infracciones a la presente Ley que no tengan establecida otra sanción, se castigarán con multa hasta el equivalente a seis días de salario mínimo.
+Las infracciones a la presente Ley que no tengan establecida otra sanción, se castigarán con multa hasta el equivalente a seis veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ## TITULO DECIMO. DE LA SEGURIDAD SOCIAL DE LOS TRABAJADORES
 
@@ -2454,3 +2460,19 @@ P.O. 2 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA QUE ADICIONA UN ARTÍCULO 29 BIS A LA LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente iniciativa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por-30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
