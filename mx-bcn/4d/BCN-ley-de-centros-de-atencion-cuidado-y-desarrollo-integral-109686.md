@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-centros-de-atencion-cuidado-y-desarrollo-integral-109686
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-29"
-last_updated: "2015-05-29"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CENTROS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Baja California, el viernes 29 de mayo de 2015.
 
@@ -681,7 +681,9 @@ Conforme a lo previsto en la Ley General, los Ayuntamientos y las dependencias d
 
 I.- Amonestación con apercibimiento, cuando las infracciones sean menores y no reiteradas, entendiéndose por faltas leves las que se cometan por error o ignorancia, siempre y cuando no hayan afectado la seguridad o salud de los menores, en la amonestación se le apercibirá para que corrija los actos u omisiones que infringen la Ley de forma inmediata;
 
-II.- Amonestación pública, cuando la infracción menor sea reiterada Multa de 500 a 10,000 días de salario mínimo diario general vigente, cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Amonestación pública, cuando la infracción menor sea reiterada Multa de 500 a 10,000 veces el valor diario de la Unidad de Medida y Actualización vigente, cuando:
 
 a) Exista reiteración en faltas menores;
 
@@ -782,3 +784,21 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
