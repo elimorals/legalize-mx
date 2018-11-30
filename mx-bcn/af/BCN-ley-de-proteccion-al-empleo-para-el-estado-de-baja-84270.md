@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-empleo-para-el-estado-de-baja-84270"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-23"
-last_updated: "2017-09-29"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL EMPLEO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 23 de diciembre de 2011.
 
@@ -135,7 +135,9 @@ El Seguro de Desempleo es un sistema de protección social para las personas en 
 
 Los Beneficiarios sólo pueden acceder al Seguro durante un plazo no mayor a tres meses, los beneficiarios en estado de necesidad solo podrán hacerlo por un lapso de hasta seis meses; en ambos casos cada dos años, siempre que justifiquen ante la Secretaría el cumplimiento de los requisitos y las obligaciones previstas en este ordenamiento, en la convocatoria respectiva y demás disposiciones administrativas aplicables.
 
-El monto del Seguro ascenderá a 30 días de Salario Mínimo General Vigente en el Estado y será entregado mensualmente al beneficiario.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+El monto del Seguro ascenderá a 30 veces el valor diario de la Unidad de Medida y Actualización vigente y será entregado mensualmente al beneficiario.
 
 ### CAPÍTULO IV. OBJETIVOS DEL SEGURO DE DESEMPLEO
 
@@ -320,3 +322,19 @@ P.O. 29 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 115 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN AL EMPLEO PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
