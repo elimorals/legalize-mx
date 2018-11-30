@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-88104"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-01"
-last_updated: "2016-03-18"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -95,19 +95,19 @@ X. Fuentes Emisoras: Organización, establecimiento o instalación, pública o p
 
 XI. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, que absorben y emiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kyoto: Dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O), hidrofluorocarbonos (HFC), perfluorocarbonos (PFC) y hexafluoruro de azufre (SF6).
 
-XII. GEI.- Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kioto (sic):
+XII. GEI.- Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kioto:
 
-• Dióxido de carbono (CO2),
+Dióxido de carbono (CO2),
 
-• Metano (CH4),
+Metano (CH4),
 
-• Óxido nitroso (N2O),
+Óxido nitroso (N2O),
 
-• Hidrofluorocarbonos (HFC),
+Hidrofluorocarbonos (HFC),
 
-• Perfluorocarbonos (PFC) y
+Perfluorocarbonos (PFC) y
 
-• Hexafluoruro de azufre (SF6).
+Hexafluoruro de azufre (SF6).
 
 XIII. Ley: Ley de Prevención, Mitigación y Adaptación del Cambio Climático para Estado de Baja California.
 
@@ -355,7 +355,13 @@ IV. Promover la participación de la sociedad para el cumplimiento de los objeti
 
 V. Difundir permanentemente la aplicación de los planes o programas de desarrollo urbano municipal, donde se prevenga la exposición de los pobladores a riesgos ambientales; y
 
-VI. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+VI. Promover que los concesionarios y permisionarios de transporte público y privado de pasajeros o de carga, en el reemplazo de sus unidades, adquieran, vehículos híbridos, eléctricos o que usen gas o biocombustibles, para disminuir los Gases de Efecto Invernadero; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+VII. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
@@ -706,3 +712,9 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 458 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 8, 27, 29 Y 39, ASIMISMO SE ADICIONA UNA SECCIÓN IV AL TÍTULO TERCERO DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma al artículo 38 de la Ley de Prevención, Mitigación y Adaptación del Cambio Climático para el Estado de Baja California, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 277 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 18 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
