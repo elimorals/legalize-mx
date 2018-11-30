@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2012-12-21"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -705,183 +705,215 @@ Si las autoridades fiscales determinan contribuciones omitidas mayores que las c
 
 Tratándose de la omisión de contribuciones por error aritmético en las declaraciones, se impondrá una multa del 20% al 25% de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los 15 días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 47.
 
-Son infracciones a cargo de los contribuyentes o responsables solidarios, y a cada una corresponde la multa que en cada caso se señale, que se determinará con base en la equivalencia del salario mínimo general vigente en el Estado:
+Son infracciones a cargo de los contribuyentes o responsables solidarios, y a cada una corresponde la multa que en cada caso señale, que se determinará con base en la equivalencia del valor diario de la Unidad de Medición (sic) y Actualización vigente.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
 I.- No inscribirse o registrarse; no presentar o proporcionar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las disposiciones fiscales o presentarlos o proporcionarlos extemporáneamente.
 
-Multa de dos a veinte veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
 II.- Presentar avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción anterior, incompletos o con errores.
 
-Multa de dos a veinte veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
 III.- Presentar avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción anterior alterados o falsificados, o con datos falsos.
 
-Multa de diez a cincuenta veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IV.- No llevar los libros de contabilidad a que estén obligados, de acuerdo a sus actividades; no incluir en la solicitud para su inscripción en el Registro de Causantes, todas las actividades por las que sea causante habitual; no obtener documentos, placas, calcomanías o permisos, o hacerlo fuera de los plazos legales.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de cuatro a cincuenta veces el salario mínimo.
+Multa de cuatro a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 V.- No comparecer ante las Autoridades Fiscales o hacerlo fuera del plazo a presentar, comprobar o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos a que se refiere la Fracción I, multa de:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Por el primer requerimiento: Tres a cinco veces el salario mínimo.
+Por el primer requerimiento: Tres a cinco veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Por el segundo requerimiento: Seis a ocho veces el salario mínimo.
+Por el segundo requerimiento: Seis a ocho veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Por el tercer requerimiento: Nueve a doce veces el salario mínimo.
+Por el tercer requerimiento: Nueve a doce veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Los requerimientos a que se refiere esta Fracción, deberán cumplirse dentro de los seis días siguientes de su notificación y en ningún caso excederán de tres requerimientos para una misma omisión.
 
 VI.- No efectuar los asientos correspondientes a las operaciones realizadas en los libros o documentos de contabilidad; hacerlos incompletos o inexactos, en perjuicio del Fisco o hacerlos fuera de los plazos legales.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de cuatro a cincuenta veces el salario mínimo.
+Multa de cuatro a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
 VII.- Llevar dos o más sistemas de contabilidad con distinto contenido.
 
-Multa de diez a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 VIII.- Realizar o consentir alteraciones, raspaduras, tachaduras o falsificaciones en perjuicio del Fisco, de cualquier anotación, asiento o constancia en los libros o documentos de su contabilidad.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de cuatro a cincuenta veces el salario mínimo.
+Multa de cuatro a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IX.- Destruir o inutilizar los libros o archivos antes de los plazos que por Ley deban conservarse.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de cuatro a cincuenta veces el salario mínimo.
+Multa de cuatro a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 X.- No realizar los inventarios y balances que se les soliciten o practicarlos fuera de los plazos que las Leyes dispongan.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de cuatro a veinte veces el salario mínimo.
+Multa de cuatro a veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XI.- Faltar en todo o en parte al pago de un crédito fiscal como consecuencia de las omisiones, inexactitudes, simulaciones o falsificaciones a que se refieren las Fracciones anteriores, así como cualquier otra maniobra encaminada a eludir el pago del adeudo.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de cuatro a cien veces el salario mínimo.
+Multa de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 XII.- No hacer el pago de contribuciones y sus accesorios dentro de los plazos señalados en las Leyes Fiscales.
 
-Multa de uno a veinte veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de uno a veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 XIII.- No tener las constancias de registro, libros o cualquier documento en los lugares señalados por las Leyes Fiscales.
 
-Multa de uno a veinte veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de uno a veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 XIV.- No devolver oportunamente a las oficinas receptoras los comprobantes de pago de contribuciones, libros, placas, boletos o cualquier otro documento cuya devolución sea exigible por las leyes.
 
-Multa de uno a veinte veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de uno a veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XV.- No presentar las facturas, recibos, notas de venta y otros comprobantes de las compras efectuadas.
 
-Multa de una a veinte veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de una a veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XVI.- No suministrar los datos e informes que legalmente exijan las Autoridades Fiscales; no mostrar los libros documentos, registros o impedir a las mismas Autoridades la entrada a los almacenes, depósitos, bodegas o cualquiera otra dependencia de la negociación o empresa, o en general negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal, para comprobar la situación de la empresa o negociación visitada, así como no conservar la contabilidad o parte de ella y la correspondencia a disposición de las Autoridades Fiscales, en el plazo que establecen las Leyes Fiscales.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de cinco a cien veces el salario mínimo.
+Multa de cinco a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
 XVII.- Emprender cualquier actividad sin obtener previamente el permiso exigido por los ordenamientos legales.
 
-Multa de cinco a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cinco a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XVIII.- No registrar los contratos que señalen las Leyes Fiscales.
 
-Multa de una a veinte veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de una a veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XIX.- Destruir o remover sin estar facultado los sellos oficiales.
 
-Multa de cuatro a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XX.- Faltar a la obligación de extender facturas, notas de venta o comprobantes de máquinas registradoras o cualesquier otro documento que señalen las Leyes Fiscales.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de cinco a cincuenta veces el salario mínimo.
+Multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
 XXI.- Traficar con los documentos o comprobantes de pago de contribuciones o hacer uso ilegal de ellos.
 
-Multa de dos a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+Multa de dos a cien veces el valor diario de la Unidad de Medida y
+
+Actualización vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 48.
 
-Son infracciones a cargo de terceros y a cada uno corresponde la multa que en cada caso se señala, que se determinará en base a la equivalencia del salario mínimo vigente en el Estado:
+Son infracciones a cargo de terceros y a cada uno corresponde la multa que en cada caso se señala, que se determinará en base a la equivalencia del valor diario de la Unidad de Medida y Actualización vigente:
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 I.- No proporcionar o no aclarar oportunamente los avisos, informes, datos o documentos, que les fueren solicitados por las autoridades fiscales.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Por el primer requerimiento: Dos a cinco veces el salario mínimo.
+Por el primer requerimiento: Dos a cinco veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Por el segundo requerimiento: Seis a ocho veces el salario mínimo.
+Por el segundo requerimiento: Seis a ocho veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Por el tercer requerimiento: Nueve a doce veces el salario mínimo.
+Por el tercer requerimiento: Nueve a doce veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Los requerimientos a que se refiere esta Fracción deberán cumplirse dentro de los seis días siguientes a la fecha de su notificación y en ningún caso excederán de tres requerimientos.
 
 II.- Presentar los avisos, informes, datos o documentos a que se refiere la Fracción anterior incompletos o inexactos.
 
-Multa de una a diez veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III.- Presentar los avisos, informes, datos o documentos a que se refiere la Fracción I, alterados o falsificados.
 
-Multa de cuatro a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IV.- Autorizar o hacer constar en calidad de Contadores, peritos o testigos, datos falsos en documentos, inventarios, balances o asientos.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de dos a cien veces el salario mínimo.
+Multa de dos a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 V.- Intervenir en cualquiera forma en la alteración de documentos, inscripciones de cuentas, asientos o datos falsos en los libros o registros relativos a la contabilidad, o en algún hecho preparatorio de los apuntados.
 
-Multa de cuatro a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 VI.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
@@ -891,13 +923,17 @@ VII.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
 VIII.- Asesorar o aconsejar al causante para que eluda el pago de alguna contribución o para que infrinja las Leyes Fiscales.
 
-Multa de dos a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
 IX.- No mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores o en general los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal.
 
-Multa de dos a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 X.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
@@ -905,37 +941,43 @@ X.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
 XI.- No prestar ayuda a las autoridades fiscales para la determinación y cobro de contribuciones en los casos en que tengan obligación de hacerlo, conforme a las disposiciones de la materia.
 
-Multa de dos a diez veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XII.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
 XIII.- Destruir o remover sin estar facultado los Sellos Oficiales.
 
-Multa de cuatro a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
 
 XIV.- Traficar con los documentos y comprobantes de pago de contribuciones o hacer uso indebido de ellos.
 
-Multa de dos a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 XV.- No enterar, dentro de los plazos señalados, las cantidades retenidas o recaudadas, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Multa de seis a cien veces el salario mínimo.
+Multa de seis a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTICULO 49.
 
 (DEROGADO, P.O. 2 DE ABRIL DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 50.
 
-Son infracciones cuya responsabilidad recae sobre los funcionarios y empleados públicos del Estado, así como sobre los encargados de servicios y organismos oficiales, y a cada uno corresponde la sanción que en cada caso se señala, la que se determinará con base a la equivalencia del salario mínimo general vigente en el Estado.
+Son infracciones cuya responsabilidad recae sobre los funcionarios y empleados públicos del Estado, así como sobre los encargados de servicios y organismos oficiales, y a cada uno corresponde la sanción que en cada caso se señala, la que se determinará con base a la equivalencia del valor diario de la Unidad de Medida y Actualización vigente.
 
 I.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
@@ -943,67 +985,97 @@ II.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
 III.- Recibir el pago de una prestación fiscal y no enterar su importe en la caja recaudadora inmediatamente.
 
-Multa de cinco a doscientas cincuenta veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cinco a doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IV.- Exigir el pago de las prestaciones fiscales, recaudar, remitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las Disposiciones aplicables.
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 V.- No presentar o proporcionar extemporáneamente los informes, avisos, datos o documentos que exijan las Disposiciones Fiscales o presentarlos inexactos. No prestar auxilio a las Autoridades Fiscales para la determinación y cobro de las prestaciones tributarias.
 
-Multa de cuatro a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 VI.- Presentar los informes, avisos, datos o documentos a que se refiere la Fracción anterior, alterados o falsificados.
 
-Multa de veinte a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de veinte a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 VII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones fiscales.
 
-Multa de cuatro a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 VIII.- Asentar falsamente que se ha dado cumplimiento a las obligaciones fiscales, o que se practicaron visitas en el domicilio fiscal o incluir en las actas relativas, datos falsos.
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IX.- Alterar documentos fiscales.
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 X.- No efectuar las investigaciones administrativas que están obligados a practicar en materia fiscal.
 
-Multa de una a diez veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XI.- Incluir o asentar datos falsos u ocultar los verdaderos en perjuicio del Fisco, en las actas que levanten con motivo de las investigaciones administrativas que se efectúen.
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XII.- Intervenir en la tramitación o resolución de asuntos cuando tengan impedimento, de acuerdo con las Disposiciones Fiscales.
 
-Multa de una a diez veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XIII.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozca; revelar los datos declarados por los causantes o aprovecharse de ellos.
 
-Multa de dos a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de dos a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XIV.- No prestar a las Autoridades Fiscales el auxilio necesario para la determinación y cobro de prestaciones fiscales, en los casos en que ello sea obligatorio, de acuerdo con las Leyes de la materia.
 
-Multa de una a diez veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XV.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
 XVI.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos.
 
-Multa de cuatro a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XVII.- No suministrar los datos o informes que legalmente les exijan las Autoridades Fiscales.
 
-Multa de cuatro a cien veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XVIII.- Exigir o recibir cualquier prestación que no esté expresamente prevista en la Ley.
 
-Multa de cinco a doscientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de cinco a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTICULO 51.
 
@@ -1093,9 +1165,11 @@ Esta sanción se aplicará aún cuando el falsario no se haya propuesto obtener 
 
 Comete el delito de defraudación fiscal, quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución fiscal u obtenga un beneficio indebido con perjuicio del Fisco Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 60.
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años, si el monto de lo defraudado no excede de 500 veces el salario mínimo general vigente en el Estado; cuando exceda, la pena será de tres a nueve años de prisión.
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años, si el monto de lo defraudado no excede de 500 veces el valor diario de la Unidad de Medida y Actualización vigente, la pena será de tres a nueve años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo defraudado, la pena será de tres meses a seis años de prisión.
 
@@ -1147,9 +1221,11 @@ Se impondrá sanción hasta de tres años, a los funcionarios o empleados públi
 
 Será sancionado con uno a seis años de prisión a la persona que proporcione datos falsos para la inscripción en el registro o registros de causantes que correspondan, con perjuicio del interés social.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 67.
 
-Se impondrá sanción de tres meses a seis años de prisión al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituído si el valor de lo dispuesto no excede de 500 veces el salario mínimo general vigente en el Estado. Cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para si o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido si el valor de lo dispuesto no excede de 500 veces el valor diario de la Unidad de Medida y Actualización vigente. Cuando exceda, la sanción será de tres a nueve años de prisión.
 
 ## TITULO TERCERO. PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -2163,9 +2239,11 @@ IV.- Inscripción en el Registro Público de la Propiedad y del Comercio, del em
 
 V.- Cualquier otro gasto o erogación, que con el carácter de extraordinario sea necesario hacer en el procedimiento aludido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 145.
 
-Los gastos de ejecución, por cada una de las siguientes diligencias, se determinarán y harán efectivos por las autoridades ejecutoras conjuntamente con el crédito fiscal, a razón de un 2% sobre el monto del crédito, y en ningún caso serán menores al equivalente a un salario mínimo general vigente en el Estado.
+Los gastos de ejecución, por cada una de las siguientes diligencias, se determinarán y harán efectivos por las autoridades ejecutoras conjuntamente con el crédito fiscal, a razón de un 2% sobre el monto del crédito, y en ningún caso serán menores al equivalente a una Unidad de Medida y Actualización diaria vigente.
 
 I.- Por el requerimiento señalado en el último párrafo del Artículo 114, de éste Código.
 
@@ -2265,7 +2343,9 @@ El remate deberá ser convocado dentro de los treinta días siguientes a la dete
 
 La convocatoria se fijará en los sitios visibles y usuales de las oficinas recaudadoras y en los lugares públicos que se juzgue conveniente.
 
-La convocatoria se publicará en el Periódico Oficial del Estado por una sola vez y dos veces de diez en diez, en uno de los diarios de mayor circulación de la localidad, cuando se trate de bienes inmuebles y tratándose de bienes muebles, cuando el valor de éstos exceda del monto equivalente a un año de salario mínimo general vigente en el Estado, a la fecha de su publicación.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+La convocatoria se publicará en el Periódico Oficial del Estado por una sola vez y dos veces de diez en diez, en uno de los diarios de mayor circulación de la localidad, cuando se trate de bienes inmuebles y tratándose de bienes muebles cuando el valor de éstos exceda del monto equivalente a un año de (sic) valor de la Unidad de Medida y Actualización diaria vigente, a la fecha de su publicación.
 
 ###### ARTICULO 159.
 
@@ -2397,11 +2477,11 @@ Para que la Autoridad ejecutora decrete la adjudicación a que se refiere el Art
 
 Fincado y aprobado el remate, se aplicará el depósito constituido y el postor, dentro de los cinco días siguientes a la fecha del remate, enterará de contado en la caja de la Oficina Recaudadora, el saldo de la cantidad ofrecida en su postura o mejoras, y en su defecto, constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudando en los términos del Artículo 78 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 173.
 
-Si los bienes rematados fueren inmuebles y los muebles cuyo valor exceda del monto equivalente a un año del salario mínimo general vigente en el Estado en esa fecha, una vez fincado el remate, se enviará el expediente a la Secretaría de Planeación y Finanzas, para que dentro del término de cinco días resuelva si es de aprobarse el remate.
+Si los bienes rematados fueren inmuebles y los muebles cuyo valor exceda del monto equivalente a un año del valor de la Unidad de Medida y Actualización vigente en esa fecha, una vez fincado el remate, se enviará el expediente a la Secretaría de Planeación y Finanzas, para que dentro del término de cinco días resuelva si es de aprobarse el remate.
 
 Si la resolución es negativa, el fincamiento que haya hecho la Autoridad ejecutora quedará sin efecto y el postor solo tendrá derecho a que se le devuelva la cantidad que hubiere exhibido.
 
@@ -2734,3 +2814,19 @@ TERCERO.- Cuando en las disposiciones fiscales estatales se haga referencia a lo
 P.O. 21 DE DICIEMBRE DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado." (sic)
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
