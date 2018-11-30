@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-el-desarrollo-y-proteccion-social-de-los-89769"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2013-09-13"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN SOCIAL DE LOS PERIODISTAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2012.
 
@@ -167,9 +167,11 @@ El Consejo de Periodistas, en coordinación con la Secretaria de Educación y Bi
 
 ### CAPÍTULO V. DEL FONDO DE BECAS PARA LOS HIJOS DE LOS PERIODISTAS DE BAJA CALIFORNIA
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Se instituye el Fondo de Becas para los Hijos de los Periodistas de Baja California, con una asignación presupuestal anual equivalente a cinco mil salarios mínimos vigentes en la zona, destinado a la promoción de la educación en sus niveles desde preescolar hasta bachillerato, para los niños y jóvenes hijos de los periodistas, que se encuentren inscritos en el sistema educativo nacional, ya sea en planteles públicos o privados.
+Se instituye el Fondo de Becas para los Hijos de los Periodistas de Baja California, con una asignación presupuestal anual equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, destinado a la promoción de la educación en sus niveles desde preescolar hasta bachillerato, para los niños y jóvenes hijos de los periodistas, que se encuentren inscritos en el sistema educativo nacional, ya sea en planteles públicos o privados.
 
 ###### Artículo 15.
 
@@ -179,9 +181,11 @@ Los procedimientos para acceder a estos beneficios, serán establecidos por el i
 
 EL FONDO DE APOYO PARA LA PROTECCIÓN SOCIAL DE LOS PERIODISTAS DE BAJA CALIFORNIA.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 16.
 
-Se instituye el Fondo de Apoyo para la Protección Social de los Periodistas de Baja California con una asignación presupuestal única de noventa mil salarios mínimos vigentes en la zona, que servirá como capital semilla, para coadyuvar a mejorar la calidad de vida de los periodistas y comunicadores de Baja California.
+Se instituye el Fondo de Apoyo para la Protección Social de los Periodistas de Baja California con una asignación presupuestal única de noventa mil veces el valor diario de la Unidad de Medida y Actualización vigente, que servirá como capital semilla, para coadyuvar a mejorar la calidad de vida de los periodistas y comunicadores de Baja California.
 
 ###### Artículo 17.
 
@@ -243,7 +247,7 @@ I.- Un Presidente que será designado de entre sus miembros, por el Consejo de P
 
 II.- Un Secretario Técnico, que será el Secretario de Planeación y Finanzas del Estado de Baja California o la persona que designe el titular de esa dependencia;
 
-III.-Tres vocales representantes del Consejo de Periodistas; y (sic)
+III.-Tres vocales representantes del Consejo de Periodistas; y
 
 IV.- Un Comisario, designado por la Dirección de Control y Evaluación Gubernamental.
 
@@ -361,8 +365,24 @@ FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
