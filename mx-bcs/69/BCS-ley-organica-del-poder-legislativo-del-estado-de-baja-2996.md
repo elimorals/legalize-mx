@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2018-10-20"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -313,11 +313,11 @@ Corresponde a la Directiva bajo la autoridad de su Presidente, preservar la Libe
 
 DE LA PRESIDENCIA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 41.
 
-El Presidente de la Mesa Directiva conducirá las relaciones institucionales con los Poderes de la Unión, con los Poderes de las Entidades Federativas, con el Gobierno de la Ciudad de México, así como con los otros dos poderes del Estado, con las Autoridades Estatales y Municipales, Organismos y Entidades Públicas Nacionales e Internacionales, en tal virtud, tiene la representación Protocolaria del Congreso ante cualquier autoridad y podrá nombrar a los Diputados que representen al Poder Legislativo ante cualquier Organismo Público y designar representantes que deban asistir a eventos cívicos y sociales. Además contará con las siguientes atribuciones:
+Son atribuciones del Presidente:
 
 I.- Presidir, abrir, prorrogar, suspender y clausurar las Sesiones.
 
@@ -349,9 +349,11 @@ XIV.- Firmar la correspondencia y demás comunicaciones del Congreso que así se
 
 XV.- Tomar las protestas de Ley a los Servidores Públicos y Diputados que la deban rendir.
 
-> <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-XV BIS.- Notificar a la Comisión o Comisiones Permanentes o Especiales que correspondan, que el Titular del Poder Ejecutivo o las Fracciones Parlamentarias han señalado con el carácter de preferente alguna o algunas de las iniciativas que fueron presentadas en periodos anteriores y que se encuentran pendientes de dictamen.
+XV BIS.- Notificar a la Comisión o Comisiones Permanentes o Especiales que correspondan, que el Titular del Poder Ejecutivo o las Fracciones Parlamentarias han señalado con el carácter de preferente alguna o algunas de las iniciativas que fueron presentadas en periodos anteriores y que se encuentran pendientes de dictamen, y aquellas iniciativas ciudadanas que tengan tal carácter en términos de la Constitución Política del Estado y la presente Ley.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 Cuando así corresponda, deberá notificar con una anticipación de cinco días naturales a la comisión o comisiones permanentes que el plazo para dictaminar la iniciativa preferente está por vencerse, informando desde luego al pleno, sobre tal notificación.
 
@@ -589,7 +591,9 @@ IV.- DE ASUNTOS AGROPECUARIOS, FORESTALES Y MINEROS:
 
 V.- DE ASUNTOS COMERCIALES Y TURISTICOS.
 
-VI.- DE ASUNTOS PESQUEROS.
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+VI.- DE PESCA Y ACUICULTURA.
 
 VII.- DE COMUNICACIONES Y TRANSPORTES.
 
@@ -773,13 +777,25 @@ a).- Los que tengan relación con el Fomento de Actividades Comerciales y Turís
 
 b).- Las demás que le fijen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-VI.- ASUNTOS PESQUEROS:
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-a).- Los que tengan relación con la explotación, industria y comercialización de los productos del mar.
+VI.- DE PESCA Y ACUICULTURA.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+a).- Las iniciativas de reformas, adiciones o derogaciones de la Ley de Pesca y Acuacultura Sustentables del Estado de Baja California Sur, proposiciones con punto de acuerdo relacionados con la pesca y acuacultura y las que el (sic) sean turnadas por el Pleno;
 
-b).- Las que establezca la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+b).- La promoción e impulso del desarrollo pesquero y acuacultura en el Estado y Municipios de Baja California Sur a través de acciones legislativas;
+
+c).- Los que tengan relación con la pesca en todas sus clasificaciones en cuanto a la explotación, industria y comercialización de los recursos pequeros (sic);
+
+d).- Las que tenga (sic) relación con la pesca deportiva-recreativa;
+
+e).- Los que tengan relación con los cultivos de especies como peces, moluscos, crustáceos y otros, en las diferentes etapas y la producción en laboratorios de los insumos necesarios (alimento, larvas y semillas);
+
+f).- La promoción e impulso en la educación del desarrollo e innovación tecnológica y científica, modernización de la flota pesquera, unidades de cultivos, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura;
+
+g).- Representar al Congreso del Estado en el Consejo Estatal de Pesca y Acuacultura;
+
+h).- Las que establezca la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 VII.- DE COMUNICACIONES Y TRANSPORTES:
 
@@ -1201,7 +1217,7 @@ c).- Informar mensualmente al Pleno del H. Congreso de la situación en que se e
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXVII.- DE CULTURA Y ARTES:
+XXVII.- DE CULTURA Y ARTES
 
 a).- El desarrollo de la cultura y las artes en el Estado de Baja California Sur y sus Municipios:
 
@@ -1969,9 +1985,11 @@ Se considerará ausente al Diputado que no esté presente al pasarse lista. Si d
 
 DE LAS INICIATIVAS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 101.
 
-El derecho de iniciar, reformar y adicionar Leyes o Decretos compete:
+La facultad de iniciar leyes, decretos, reformas y adiciones, compete a:
 
 I.- Al Gobernador del Estado;
 
@@ -1981,11 +1999,11 @@ III.- A los Ayuntamientos;
 
 IV.- Al Tribunal Superior de Justicia en su ramo; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-V.- A los Ciudadanos inscritos en la lista nominal de Electores, cuyo número represente cuando menos el 0.13% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la ley de la materia y la presente Ley determine.
+V.- Los ciudadanos del Estado registrados en la lista nominal de electores, mediante escrito presentado en los términos y con las formalidades que exija la ley de la materia y la presente Ley determine.
 
-Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas dentro del término de 30 días hábiles siguientes, contados a partir del día en que hubieren sido turnados por el pleno a la Comisión correspondiente.
+Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas dentro del término de treinta días naturales siguientes, contados a partir del día en que hubieren sido turnados por la Directiva a la Comisión correspondiente.
 
 > <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -1995,15 +2013,21 @@ De igual forma, cada una de las fracciones parlamentarias del Congreso del Estad
 
 El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales, contados a partir del día siguiente a aquel en que hayan sido turnadas o así señaladas en el pleno. Dicho plazo será improrrogable.
 
-Las iniciativas ciudadanas se considerarán de trámite preferente de acuerdo a lo establecido en la fracción VI del numeral 57 de la Constitución del Estado y gozarán del término de 30 días naturales para ser dictaminadas y sometidas a votación ante el Pleno del Congreso del Estado. En materia de iniciativa ciudadana no opera la prórroga.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Las tres primeras iniciativas ciudadanas presentadas al inicio de cada periodo ordinario se considerarán de trámite preferente, de acuerdo a lo establecido en la fracción VI del artículo 57 de la Constitución Política del Estado y deberán ser dictaminadas en un plazo no mayor a 30 días naturales y sometidas a votación ante el Pleno del Congreso del Estado. En materia de iniciativa ciudadana preferente no opera la prórroga.
 
 Para efectos del presente artículo se entenderá por inicio del periodo, la sesión de apertura de periodo ordinario y las dos sesiones siguientes a esta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 101 TER.- La iniciativa preferente es aquella que es presentada ante el Congreso del Estado por el Titular del Poder Ejecutivo o por las fracciones parlamentarias para que sea tramitada de forma preferente, o bien, aquella o aquellas que son señaladas con tal carácter de entre las que se hubieren presentado en periodos anteriores y que estén pendientes de dictamen, y aquellas iniciativas ciudadanas que tenga tal carácter en términos de la Constitución Política del Estado y la presente Ley.
+
 > <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
-ARTICULO 101 TER.- La iniciativa preferente es aquella que es presentada ante el Congreso del Estado por el Titular del Poder Ejecutivo o por las fracciones parlamentarias para que sea tramitada de forma preferente, o bien, aquella o aquellas que son señaladas con tal carácter de entre las que se hubieren presentado en periodos anteriores y que estén pendientes de dictamen.
-
 La iniciativa preferente podrá versar sobre cualquier materia y comprender uno o más ordenamientos cuando exista conexidad en los temas.
+
+> <small>(ADICIONADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 Transcurrido el plazo sin que se formule el dictamen correspondiente, la presidencia de la mesa directiva deberá incluir sin mayor trámite y en sus términos, la iniciativa preferente en el orden del día de la siguiente sesión ordinaria para su discusión y votación.
 
@@ -3505,8 +3529,26 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 
 B.O. 20 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 2570 SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 148 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; EL PRIMER PÁRRAFO DEL INCISO B) DE LA FRACCIÓN IV DEL ARTÍCULO 51 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR Y EL INCISO B) DE LA FRACCIÓN XIV DEL ARTÍCULO 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2570 SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 148 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; EL PRIMER PÁRRAFO DEL INCISO B) DE LA FRACCIÓN IV DEL ARTÍCULO 51 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR Y EL INCISO B) DE LA FRACCIÓN XIV DEL ARTÍCULO 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del año 2019, previa su publicación en el Boletín Oficial del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2574 SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2577 SE REFORMAN FRACCIÓN VI DEL ARTÍCULO 54 Y LA FRACCIÓN VI DEL ARTÍCULO 55, AMBOS DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+T R A N S I T O R I O S:
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
