@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-preservacion-del-patrimonio-cultural-del-estado-de-3075"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-18"
-last_updated: "2016-08-05"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 18 de agosto de 1995.
 
@@ -35,7 +35,7 @@ QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACION, EL ORDENA
 
 LA H. XIV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCION I Y XXX DE LA CONSTITUCION POLITICA LOCAL, EXPIDE LA SIGUIENTE
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 LEY DE PRESERVACION DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA
 
@@ -723,7 +723,7 @@ En la declaratoria de un valor cultural, el Instituto de Cultura de Baja Califor
 
 Las autoridades estatales y municipales, de oficio o a petición de los comités organizadores de las festividades populares, establecerán las medidas necesarias para la promoción, estímulo, fomento, investigación y difusión de las mismas, como un factor de integración, identidad y desarrollo cultural de la población de la entidad.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.]</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -799,7 +799,7 @@ El Instituto elaborará y difundirá un catálogo estatal que contenga la descri
 
 El catálogo al que hace mención este artículo deberá estar publicado permanentemente en la página de internet del Instituto.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.]</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -935,7 +935,9 @@ La emisión de una orden de preservación inmediata podrá ser promovida de ofic
 
 Quedan exentos de esta medida aquellos edificios, estructuras y objetos que amenacen con derrumbarse, mediante dictaminación de un asesor acreditado por el Instituto de Cultura de Baja California.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.(REFORMADO Y REUBICADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.]</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ### CAPITULO X. DEL PROGRAMA DE PRESERVACION DEL PATRIMONIO CULTURAL DE BAJA CALIFORNIA
 
@@ -999,7 +1001,7 @@ VII.- Establecimiento del Fondo para la Preservación del Patrimonio Cultural de
 
 El programa de preservación del patrimonio cultural de Baja California, será publicado en el Periódico Oficial del Estado.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.]</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -1017,7 +1019,7 @@ Las disposiciones contenidas en el presente capítulo tienen por objeto establec
 
 Corresponderá a las autoridades estatales y municipales apoyar a las autoridades federales en todas las acciones necesarias para la preservación de los Monumentos Arqueológicos, Artísticos e Históricos, en términos de la legislación federal respectiva.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.]</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -1093,7 +1095,7 @@ Corresponderá al Ejecutivo del Estado a través del Instituto de Cultura de Baj
 
 El Instituto de Cultura de Baja California y las Comisiones de Preservación en coordinación con autoridades estatales y municipales, así como con diversos sectores de la sociedad, realizarán campañas permanentes para fomentar y difundir el conocimiento, respeto y enriquecimiento del Patrimonio Cultural del Estado.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS EL LEGISLADOR ESTABLECE QUE SE REDUCEN LOS CAPÍTULOS VIII A XV PARA QUEDAR VIII A XIII.]</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -1207,7 +1209,9 @@ II.- Clausura definitiva;
 
 III.- Demolición y/o reparación del daño causado.
 
-Adicionalmente se impondrá multa cuyo monto puede variar de doscientas hasta mil veces el salario mínimo general diario vigente en el estado.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Adicionalmente se impondrá multa cuyo monto puede variar de doscientas hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTICULO 101.
 
@@ -1311,7 +1315,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A PRESENTE LEY.]</small>
 
 P.O. 6 DE NOVIEMBRE DE 1998.
 
@@ -1332,3 +1336,19 @@ P.O. 5 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 529 MEDIANTE EL CUAL SE APRUEBAN REFORMAS Y ADICIONES A LA LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
