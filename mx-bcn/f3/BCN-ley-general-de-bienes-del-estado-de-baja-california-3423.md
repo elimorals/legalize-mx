@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2015-01-23"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -795,11 +795,11 @@ Un Reglamento determinará la forma y términos en que operará el Registro de l
 
 ### CAPITULO VIII. SANCIONES
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 72.
 
-Se sancionará con prisión de dos a doce años y multa de trescientas a mil veces el salario mínimo general diario vigente en el Estado, a quien, vencido el término señalado en la concesión, permiso o autorización que se le haya otorgado para la explotación, uso o aprovechamiento de un bien sujeto al régimen de dominio público, no lo devolviere a la autoridad correspondiente dentro del término de treinta días naturales siguientes a la fecha de notificación del requerimiento administrativo que le sea formulado.
+Se sancionará con prisión de dos a doce años y multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización vigente, a quien, vencido el término señalado en la concesión, permiso o autorización que se le haya otorgado para la explotación, uso o aprovechamiento de un bien sujeto al régimen de dominio público, no lo devolviere a la autoridad correspondiente dentro del término de treinta días naturales siguientes a la fecha de notificación del requerimiento administrativo que le sea formulado.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
@@ -914,3 +914,19 @@ TERCERO.- En tanto se expide el Reglamento y demás disposiciones derivadas de l
 P.O. 23 DE ENERO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
