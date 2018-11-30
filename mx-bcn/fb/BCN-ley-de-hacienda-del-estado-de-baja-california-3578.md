@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2018-01-19"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1347,11 +1347,11 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 13.- Es objeto de este impuesto, la realización de pagos por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección o dependencia de un tercero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 151
 
-14.- La base del impuesto es el monto total de los pagos que se efectúen bajo las condiciones establecidas en el Artículo anterior, aún cuando dichos pagos no excedan del salario mínimo, en base a los términos siguientes:
+14.- La base del impuesto es el monto total de los pagos que se efectúen bajo las condiciones establecidas en el Artículo anterior, aún cuando dichos pagos no excedan del Valor diario de la Unidad de Medida y Actualización vigente, en base a los términos siguientes:
 
 > <small>(REFORMADA P.O. 20 DE FEBRERO DE 1998)</small>
 
@@ -1389,7 +1389,7 @@ c) Fortalecer las Comisiones y Consejos de Desarrollo Económico.
 
 ###### ARTICULO 151
 
-17.- Son responsables solidarios de este impuesto, las personas físicas que resten sus servicios en el Estado y reciben remuneraciones de carácter personal de los sujetos que no se encuentren domiciliados en el mismo, ni tengan en éste agencias sucursales o representación; y tendrán como obligaciones a su cargo, además de las expresadas en esta Ley y en las demás disposiciones fiscales, las de recaudar y enterar el impuesto en los términos de estos ordenamientos.
+17.- Son responsables solidarios de este impuesto, las personas físicas que presten sus servicios en el Estado y reciben remuneraciones de carácter personal de los sujetos que no se encuentren domiciliados en el mismo, ni tengan en éste agencias sucursales o representación; y tendrán como obligaciones a su cargo, además de las expresadas en esta Ley y en las demás disposiciones fiscales, las de recaudar y enterar el impuesto en los términos de estos ordenamientos.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
 
@@ -1499,11 +1499,11 @@ V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser pre
 
 27.- Las personas físicas, jurídicas o unidades económicas que hagan pagos a causantes que eventualmente sean sujetos de este Impuesto dentro del Territorio del Estado, deberán retenerlo y enterarlo en la Oficina Recaudadora correspondiente; utilizando, las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, dentro de los tres días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 151
 
-28.- De los ingresos que obtenga el causante mensualmente, se considerará ingreso exento para los efectos del pago de este Impuesto, la cantidad equivalente hasta el doble del salario mínimo general mensual vigente en el Estado.
+28.- De los ingresos que obtenga el causante mensualmente, se considerará ingreso exento para los efectos del pago de este Impuesto, la cantidad equivalente hasta el doble del valor mensual de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
@@ -1529,7 +1529,7 @@ Para practicar la estimación a que se refiere la Fracción II de este Artículo
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
-El período a que debe referirse el por ciento, será como mínimo de un bimestre y se presumirá que el causante ha omitido ingresos en la misma proporción durante todo el período revisado.
+El período a que debe referirse el por ciento, será como mínimo de un bimestre y se presumirá que el causante ha omitido ingresos en la misma proporción durante todo el periodo revisado.
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACIÓN DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
 
@@ -2435,15 +2435,15 @@ V.- Personas que tengan a su cargo un familiar con alguna discapacidad: Las pers
 
 VI.- Madres Jefas de Familia: Madres de familia, sin cónyuge o pareja en aptitud de trabajar, que son el único sostén del hogar, con hijo o hijos menores de edad y cuyos ingresos no excedan de 5 veces el salario mínimo diario general vigente en el Estado. Para acreditar esta condición el Sistema Estatal para el Desarrollo Integral de la Familia, expedirá la constancia correspondiente previo estudio socioeconómico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 173.
 
-Las exenciones que este Título otorga a los jubilados y pensionados, así como a las personas con discapacidad que realicen alguna actividad económicamente activa, siempre que sus ingresos no excedan de 5 veces el salario mínimo diario general vigente en el Estado, personas que tengan a su cargo un familiar con alguna discapacidad, así como las Madres Jefas de Familia, serán del 50% del monto del crédito fiscal de las contribuciones reguladas por esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
+Las exenciones que este Título otorga a los jubilados y pensionados, así como a las personas con discapacidad que realicen alguna actividad económicamente activa, siempre que sus ingresos no excedan de 5 veces el Valor diario de la Unidad de Medida y Actualización vigente, personas que tengan a su cargo un familiar con alguna discapacidad, así como las Madres Jefas de Familia, serán del 50% del monto del crédito fiscal de las contribuciones reguladas por esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-I.- IMPUESTO SOBRE COMPRA VENTA Y OPERACIONES SIMILARES que excedan de un año de salario mínimo diario general vigente en el Estado;
+I.- impuesto sobre compra venta y operaciones similares que excedan del valor anual de la Unidad de Medida y Actualización vigente;
 
 II.- (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2001)
 
@@ -3242,3 +3242,19 @@ P.O. 19 DE ENERO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor a los 90 días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
