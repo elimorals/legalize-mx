@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-para-adolescentes-del-estado-de-baja-52215"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2015-04-10"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 2006.
 
@@ -717,11 +717,13 @@ I.- Amonestación;
 
 II.- Apercibimiento;
 
-III.- Multa cuyo monto sea entre tres y cincuenta días de salario mínimo general vigente en el Estado al momento de cometerse la falta;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Multa cuyo monto sea entre tres y cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse la falta;
 
 IV.- Suspensión del empleo hasta por quince días hábiles, tratándose de los servidores públicos, y
 
-V.- Arresto hasta por treinta y. seis horas.
+V.- Arresto hasta por treinta y seis horas.
 
 ###### Artículo 48.
 
@@ -2474,3 +2476,19 @@ SEGUNDO.- Los Diagnósticos Integrales de Personalidad, los Programas Personaliz
 TERCERO.- El Reglamento de los Centros de Tratamiento para Adolescentes para el Estado de Baja California, deberá ser expedido por el Ejecutivo Estatal a más tardar en un plazo de ciento ochenta días a partir del inicio de la vigencia del presente Decreto.
 
 CUARTO.- Para los efectos del transitorio tercero, fracción III, párrafo primero de la Ley del Sistema Integral de Justicia para Adolescentes del Estado de Baja California, las referencias hechas a los Centros de Ejecución de Medidas y Centros de Diagnóstico, se entenderán hechas a los Centros de Tratamiento para Adolescentes a que se refiere la presente ley.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
