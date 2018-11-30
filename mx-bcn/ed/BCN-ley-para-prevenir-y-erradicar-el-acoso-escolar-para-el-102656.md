@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-el-acoso-escolar-para-el-102656"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-19"
-last_updated: "2014-09-19"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de septiembre de 2014.
 
@@ -153,7 +153,13 @@ IX. Fomentar la participación de organizaciones de la sociedad civil, asociacio
 
 X. Capacitar a docentes y alumnos en materia de mecanismos alternativos de solución de conflictos, como la mediación de conformidad con lo estipulado en el protocolo; y
 
-XI. Las demás que señalen las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XI. Coordinar esfuerzos con la Secretaría de Salud, para que los planteles educativos de nivel básico y medio superior cuenten con personal especializado, o bien que haya sido capacitado, en la detección de trastornos emocionales de las niñas, niños y adolescentes, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XII. Las demás que señalen las disposiciones aplicables.
 
 ###### Artículo 8.
 
@@ -275,7 +281,13 @@ e) Procedimiento para informar de manera periódica y constante a los padres del
 
 f) Información sobre el tipo de servicios de apoyo para receptor y generador de acoso escolar, así como terceros afectados;
 
-g) Ofrecer a los alumnos una formación basada en el respeto y fomento de los valores de la dignidad, los derechos humanos, la aceptación y tolerancia entre personas;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+g) Ofrecer a los alumnos una formación basada en el respeto y fomento de los valores de la dignidad, los derechos humanos, ser incluyentes y aceptar a todas las personas entre ellas a quienes cuentan con alguna discapacidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+h) Capacitar al personal que tiene contacto directo con los alumnos para identificar algún trastorno emocional previo a sufrir o realizar acciones constitutivas de acoso escolar;
 
 II. Detección.-
 
@@ -295,7 +307,13 @@ d) Procedimiento para canalizar a receptores y generadores de acoso escolar a tr
 
 e) Determinar si el acto de acoso puede ser atendido por el centro escolar y, si no, determinar un proceso de remisión de dicho acto a la autoridad competente;
 
-f) Acciones para acercarse a los padres del generador y receptor de acoso escolar, celebrando reuniones periódicas y registrar los avances existentes; asimismo, sostener reuniones informativas con los Psicólogos encargados de dar tratamiento a las partes afectadas, con el propósito de dar seguimiento.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+f) Acciones para acercarse a los padres del generador y receptor de acoso escolar, celebrando reuniones periódicas y registrar los avances existentes; asimismo, sostener reuniones informativas con los Psicólogos encargados de dar tratamiento a las partes afectadas, con el propósito de dar seguimiento, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+g) Acciones de capacitación y orientación a los padres del generador con la finalidad de que ellos promuevan en su hijo actitudes incluyentes y amigables en el centro escolar.
 
 IV. Erradicación.-
 
@@ -460,3 +478,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 271 MEDIANTE EL CUAL SE APRUEBA REFORMA A LOS ARTÍCULOS 7 Y 17 DE LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
