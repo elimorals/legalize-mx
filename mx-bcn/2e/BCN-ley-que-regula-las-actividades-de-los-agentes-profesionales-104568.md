@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-las-actividades-de-los-agentes-profesionales-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2014-11-28"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LAS ACTIVIDADES DE LOS AGENTES PROFESIONALES INMOBILIARIOS EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 28 de noviembre de 2014.
 
@@ -279,15 +279,19 @@ I.- Amonestación;
 
 II.- Apercibimiento;
 
-III.- Multa de veinticinco hasta dos mil veces el salario mínimo general diario vigente en la Entidad;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Multa de veinticinco hasta dos mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IV.- Suspensión de la licencia respectiva e inscripción en el Registro, en su caso, hasta por treinta días hábiles, y
 
 V.- Cancelación de la licencia respectiva y de la inscripción en el Registro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 19.
 
-A las personas físicas o morales que se ostenten como agentes o agencias inmobiliarias sin contar con la licencia y/o el registro respectivo o que no se encuentre vigente, se les impondrá una sanción consistente en multa de cien a dos mil veces el salario mínimo diario general vigente en el Estado.
+A las personas físicas o morales que se ostenten como agentes o agencias inmobiliarias sin contar con la licencia y/o el registro respectivo o que no se encuentre vigente, se les impondrá una sanción consistente en multa de cien a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 La reincidencia por más de dos ocasiones en la comisión de las infracciones descritas en el párrafo anterior, dará lugar a que la Secretaría clasifique a los infractores como no calificados para recibir en lo futuro la licencia y registro que previene la presente Ley.
 
@@ -546,3 +550,21 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
