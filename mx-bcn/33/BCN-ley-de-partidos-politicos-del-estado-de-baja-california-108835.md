@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-partidos-politicos-del-estado-de-baja-california-108835"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2018-06-09"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,329 @@ state: "BCN"
 ---
 # LEY DE PARTIDOS POLITICOS DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA
+CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL CONSEJO ESTATAL DE POBLACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
+TEXTO ORIGINAL.
 
-Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
+Código publicado en la Segunda Sección en el Número 2 del Periódico Oficial del Estado de Tlaxcalteca, el miércoles 13 de enero de 2021.
 
-FRANCISCO RUEDA GOMEZ, SECRETARIO GENERAL DE GOBIERNO, EN SUPLENCIA DEL GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, FRANCISCO ARTURO VEGA DE LAMADRID, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACIÓN, EL DECRETO NÚMERO 292 CUYO TEXTO ES EL SIGUIENTE:
+CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL CONSEJO ESTATAL DE POBLACIÓN
 
-LA H. XXI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 27, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL, EXPIDE EL SIGUIENTE:
+Mensaje.
 
-DECRETO No. 292
+El Consejo Estatal de Población, como Organismo Público Descentralizado del Poder Ejecutivo del Estado y los Servidores Públicos adscritos a esta Entidad, tienen el compromiso de expresar un trato humano a las ciudadanas y ciudadanos, así como a sus compañeras y compañeros de trabajo, sin ninguna discriminación.
+
+Como Directora de esta Institución, me es grato señalar que desde que desempeño este cargo, se ha inculcado al personal principios y valores éticos, como la Eficiencia, Eficacia, Honestidad, Legalidad, Honradez, Lealtad e Imparcialidad, pero sobre todo integridad; trato con respeto a todas, a todos y cada uno de los que formamos parte del COESPO-SIPINNA.
+
+Por este esfuerzo conjunto de un trabajo en equipo, es que pudimos lograr emitir este Código de Conducta, a todas y todos GRACIAS por su invaluable colaboración.
+
+Con respeto y agradecimiento.
+
+Patricia López Aldave.
+
+Índice.
+
+Página
+
+I. Exposición de motivos 5
+
+II. Principios y valores éticos 5
+
+III. Código de Conducta 10
+
+IV. Sanciones Administrativas 11
+
+V. Bibliografia 12
+
+I. Exposición de motivos.
+
+Los valores nos forman como seres humanos desde el momento en que nacemos, por lo que el presente código, está conformado por valores y principios, implicando con ello corresponsabilidad de todos los integrantes del Consejo Estatal de Población, fomentando el buen comportamiento para un mejor servicio.
+
+Por otra parte, se busca por este medio, que los empleados del Consejo Estatal de Población, fortalezcan valores de buena conducta, ejecutando acciones de sensibilización, ya que, como servidores públicos, en su quehacer diario, deben poner su mejor esfuerzo para contribuir en la norma básica de convivencia laboral que ayude a cumplir con su responsabilidad en el trabajo.
+
+Asimismo, en su actuación deben observar la transparencia y el combate a la corrupción, para garantizar el adecuado cumplimiento de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia.
+
+De igual manera, con la elaboración del presente código, se pretende que cada integrante del Consejo Estatal de Población, tenga claro los valores que sirven de referencia para orientar las relaciones humanas y laborales, para construir a una nueva cultura del servidor público, vinculada a una imagen positiva de la dependencia donde labora, para incrementar la percepción de confianza que la sociedad tiene hacia el servidor público.
+
+Con la normatividad de este código, no se pretende suplir Leyes o Reglamentos existentes, sino complementarlos y reforzarlos, al señalar los principios de conducta que deben guiar la actuación de los servidores públicos del Consejo Estatal de Población, en el cumplimiento de sus facultades, funciones, tareas y actividades que corresponden a su puesto, cargo o comisión, para la consolidación en su desarrollo como ciudadano Tlaxcalteca.
+
+Este documento es de observancia obligatoria para los servidores públicos que integran el Consejo Estatal de Población, por lo tanto, es un referente obligado en su actuación cotidiana ante los usuarios y beneficiarios del sistema en la entidad.
+
+Además, las normas contenidas en el presente código, son un marco legal, que constituye una declaración formal de normas y reglas de comportamiento tendientes a reforzar la actuación de los servidores públicos, ante la ciudadanía.
+
+II. Principios y valores éticos.
+
+El apoyo, la consideración y aprecio por la dignidad de las personas, sin menoscabar su imagen y estima, son los principios por los cuales los servidores públicos, deberán expresar un trato humano a las ciudadanas y ciudadanos, así como a sus compañeras y compañeros de trabajo, sin ninguna discriminación.
+
+Austeridad.
+
+El servidor público del Consejo Estatal de Población, deberá de una manera justa y sencilla administrar los bienes materiales a su cargo, así como el recurso económico que le haya sido asignado, evitando en todo momento gastos y consumos innecesarios.
+
+Racionalidad.
+
+En la toma de sus decisiones el servidor público, debe ser coherente y correcto, nunca debe dejarse llevar por los impulsos propios, debe emplear siempre la razón en su conducta hacia el trabajo, con sus compañeros, así como al público en general.
+
+Eficiencia.
+
+Deberá realizar su trabajo adecuadamente, demostrando en todo momento su eficiencia, cumpliendo con las tareas encomendadas en el menor tiempo posible y sin excederse de los recursos asignados.
+
+Eficacia.
+
+El servidor público, deberá cumplir y alcanzar sus objetivos, logrando resultados a corto mediano y largo plazo con un mínimo de recursos.
+
+Honestidad.
+
+En el ámbito de su trabajo, no debe dar cabida a las mentiras ni a los engaños, además de respetar las cosas que no sean parte de sus pertenencias.
+
+Legalidad.
+
+Procederá respetando la verdad y de poner en práctica el derecho que asiste a toda persona; para ello, es su obligación conocer el Estado de Derecho, para cumplir y hacer cumplir las disposiciones jurídicas que regulen el ejercicio de sus funciones.
+
+Honradez.
+
+Actuará conforme a las normas morales, diciendo la verdad, siendo integro, imparcial, razonable, justo y honrado, en la toma de sus decisiones deberá hacer una justa valoración que no afecten a los demás.
+
+Lealtad.
+
+En todo momento el servidor público del Consejo Estatal de Población, tendrá el compromiso personal de demostrar su respeto y su fidelidad hacia el organismo.
+
+Imparcialidad.
+
+La actuación de los servidores públicos, no deberá inclinarse en favor o en contra de una persona, por lo que la toma de sus decisiones, debe ser sin prejuicios personales y sin permitir la influencia indebida de otras personas.
+
+III. Código de conducta.
+
+a) Observancia del servidor público al marco legal.
+
+Compromiso.
+
+Conocer, Leyes, Normas y Reglamentos, para respetar y cumplir como servidor público las actividades encomendadas dentro de su área de trabajo.
+
+Acciones.
+
+- Desempeñar las actividades encomendadas, sin desviarse de lo que establece la normatividad.
+
+- Ejercer sus derechos y obligaciones con responsabilidad, atendiendo en todo momento su deber como servidor público.
+
+- Acatar la normatividad que rige las diferentes áreas del Consejo Estatal de Población.
+
+- No aplicar indebidamente las disposiciones legales que lo rijan.
+
+- No permitir la aplicación de normas y procedimientos que afecten a su área o a las demás áreas del Consejo Estatal de Población.
+
+- En caso de que haya instrucciones que contravengan el marco legal vigente, deberá abstenerse de llevarlas a cabo y de igual forma no dará instrucciones en ese mismo sentido.
+
+b) Desempeño de la actividad o función pública.
+
+Compromiso.
+
+Desarrollar de manera responsable el cargo público que le fue conferido, sin tener omisión en sus obligaciones, apegándose estrictamente a las normas de conducta y calidad que el Consejo Estatal de Población mantiene.
+
+Acciones.
+
+- Cumplir con la jornada de trabajo de manera puntual, coadyuvando a la obtención de metas y objetivos del Consejo Estatal de Población, como parte de su misión.
+
+- Respetar en todo momento los derechos de los ciudadanos, manteniendo un ambiente de respeto y de colaboración del servicio que presta.
+
+- Asistir de manera puntual a las reuniones, eventos y demás actividades que el Consejo Estatal de Población, tenga como parte de sus acciones.
+
+- No debe ser participe en actos de corrupción, de conductas irregulares o de uso inadecuado de recursos públicos, por el contrario, será su obligación denunciarlos.
+
+- Incrementar la productividad desarrollando procesos que permitan fortalecer la eficiencia e imagen del Consejo Estatal de Población.
+
+- No aceptar dádiva alguna por la prestación de algún servicio, tampoco dará trato preferencial por alguna afinidad que pudiera existir.
+
+- No asistir a laborar bajo los efectos del alcohol, mucho menos bajo los efectos de alguna sustancia que no esté permitida.
+
+- No utilizar recursos humanos y materiales para servicios personales.
+
+- Valiéndose de su autoridad, no debe dar indicaciones que contravengan Leyes o Reglamentos que menoscaben a su persona o la Institución.
+
+- No ejercer ningún tipo de violencia laboral.
+
+- No discriminar por razones de género, grupo étnico, religión creencias, color, nacionalidad, edad, orientación sexual, estado civil, estructura familiar, capacidades diferentes, condición social, antecedentes laborales, ideologías políticas o cualquier otra característica que diferencie a una persona de otra.
+
+c) Interacciones del servidor público con sus compañeros de trabajo.
+
+Compromiso.
+
+Ser amable y cordial entre compañeras y compañeros de trabajo, dirigiéndose con respeto, cortesía y amabilidad.
+
+Acciones.
+
+- Mantener un espíritu de colaboración profesional, así como de respeto mutuo.
+
+- Respetar los ascensos que obtengan sus compañeros por méritos propios.
+
+- Las innovaciones que presente cada servidor público, pertenece a quien las haya presentado, por lo que debe evitar copiarlas o hacerlas suyas.
+
+- En todo momento, respetar los objetos personales de los demás servidores públicos, así como los espacios de trabajo y los bienes que le hayan asignado.
+
+- No hacer comentarios que perjudiquen la reputación o prestigio de sus compañeros, así como del Consejo Estatal de Población.
+
+- Tiene derecho a trabajar en un ambiente adecuado.
+
+- Evitar el acoso sexual, hostigamiento o amenazas hacia sus compañeras y compañeros.
+
+d) Interacciones del servidor público con la sociedad.
+
+Compromiso.
+
+En todo momento tiene que atender con cortesía y eficiencia a la ciudanía en general, en sus requerimientos, trámites, información y servicios que brinde el Consejo Estatal de Población.
+
+Acciones.
+
+- El trámite o servicio proporcionado a la ciudanía, será con apego a la normatividad vigente.
+
+- En la atención a la ciudadanía, el servidor público no debe adoptar actitudes de prepotencia, favoritismo, discriminación e insensibilidad.
+
+- El servicio proporcionado a la ciudadanía, no debe tener costo alguno.
+
+e) El uso y aplicación de recursos asignados.
+
+Compromiso.
+
+El servidor público, debe utilizar de manera adecuada todo tipo de recursos que le hayan sido asignados para evitar que se haga mal uso, se desvié o se desperdicie.
+
+Acciones.
+
+- Utilizar de manera responsable los teléfonos fijos o celulares, material de papelería, Internet; asimismo, tiene que reciclar el papel que se requiera para fotocopiar de manera interna.
+
+- No utilizar el servicio de Internet, para ingresar a páginas o sitios que sean inapropiados como el de pornografía, de la misma forma no instalar programas en las computadoras del Consejo Estatal de Población sin autorización o programas sin licencia o con finalidad distinta a las responsabilidades laborales, tales como juegos.
+
+- Optimizar en la medida de lo posible los gastos, evitando que sean para beneficio personal.
+
+- Comprobar oportunamente los recursos económicos que le hayan sido proporcionados para una comisión oficial o para llevar a cabo alguna adquisición.
+
+- Contar en todo momento con registros financieros y contables claros y precisos.
+
+- Evitar que el parque vehicular con el que cuenta, sea utilizado para otros fines que no sean propias de las funciones del Consejo Estatal de Población, de la misma forma no utilizar para uso personal.
+
+- No utilizar los recursos e instalaciones para fines políticos.
+
+- Conservar en buen estado los muebles que tenga bajo su resguardo, lo mismo que las oficinas del Consejo Estatal de Población.
+
+- No sustraer o plagiar cualquier tipo de servicios contratados por el Consejo Estatal de Población, para fines personales.
+
+f) Uso responsable y confidencial de la información.
+
+Compromiso.
+
+Resguardar todo tipo de información y documentación que por su naturaleza y de acuerdo a las Leyes, Reglamentos y Normas vigentes se considere confidencial y que además este bajo su responsabilidad.
+
+Acciones.
+
+- Atender el cumplimiento que establece la “Ley Federal de Transparencia y Acceso a la Información Pública y su Reglamento”, así como a la “Ley de Transparencia y Acceso a la Información Pública del Estado de Tlaxcala”, proporcionar la información a la sociedad de manera normal y oportuna, con excepción de la reservada como confidencial.
+
+- La atención a la ciudadanía, así como a las diferentes solicitudes, atender sin violar el marco legal correspondiente.
+
+- Mantener absoluta discreción para no discutir cualquier información confidencial, ni mencionar secretos propios del Consejo Estatal de Población, en conversaciones sociales o en el ámbito laboral.
+
+- La información y la documentación que elabore, será con apego a la legislación, Municipal, Estatal o Federal.
+
+- No alterar, obstaculizar, difundir, entorpecer o detener registros y demás información interna con el fin de obtener beneficios personales.
+
+- No destruir, ocultar, sustraer o utilizar de manera indebida la información o documentación que haya elaborado o tenga bajo su resguardo.
+
+- Sólo debe tener acceso a la información que le pertenezca, no así a la de otros compañeros con apego a la “Ley Federal de Transparencia y Acceso a la Información Pública y su Reglamento” así como a la “Ley de Transparencia y Acceso a la Información Pública del Estado de Tlaxcala”.
+
+g) Decisiones y actuaciones.
+
+Compromiso.
+
+Ser congruentes con las decisiones y actuaciones que tome, así como con lo que piensa dice o hace y debe estar apegado a los valores contenidos en el presente Código de Conducta.
+
+Acciones.
+
+- Actuar de manera profesional de acuerdo con sus competencias, declarándose impedido cuando existan conflicto de intereses.
+
+- De igual forma, actuar conforme a la verdad, decidiendo una asignación transparente e imparcial de los recursos materiales y financieros, bajo los principios de racionalidad y ahorro.
+
+- Asimismo, las decisiones deben estar basadas en criterios, funciones y objetivos, tomando en cuenta los principios y valores Institucionales.
+
+- En las tareas asignadas y funciones que le hayan asignado, elegir la mejor opción que favorezca el cumplimiento de la misión y objetivos del Consejo Estatal de Población.
+
+- Agilizar la toma de decisiones, evitando postergar los asuntos que se encuentran bajo su responsabilidad.
+
+- No actuar ni decidir si no tiene la facultad o autorización correspondiente.
+
+- No evadir la responsabilidad en la toma de decisiones, no obstaculizar el flujo de información de los asuntos que se encuentre bajo su responsabilidad o de algún compañera o compañero.
+
+h) Seguridad, higiene, medio ambiente y salud.
+
+Compromiso.
+
+Cuidar y evitar un riesgo de salud, así como la seguridad que pudiera poner en riesgo su integridad o la de sus compañeros; además, respetar el medio ambiente que lo rodea.
+
+Acciones.
+
+- Cuidar que los servicios de agua y luz sean utilizados correctamente, reportando al área de mantenimiento cualquier falla o desperfecto del que tenga conocimiento.
+
+- Todo aparato eléctrico que tenga bajo su resguardo, apagarlo cuando ya no sea utilizado, para evitar un consumo excesivo de energía o para evitar que sufran alguna descarga eléctrica.
+
+- Mantener limpio y organizado el espacio de trabajo en el cual desarrolla su actividad laboral.
+
+- No fumar dentro de la Institución, solo que exista área exclusiva para ello.
+
+- Colaborar en las indicaciones que hubiere, para facilitar las acciones de Protección Civil y de fumigación.
+
+- Participar en las campañas de prevención a la salud.
+
+- Reportar toda situación que sea de riesgo para la salud, seguridad, higiene y entorno ambiental.
+
+i) Igualdad de género.
+
+Compromiso.
+
+Garantizar la igualdad entre el personal y la no discriminación en el desarrollo de sus labores, así mismo dar un trato igualitario a todas las personas que soliciten los servicios de la Institución, de igual forma permitir el disfrute pleno y amplio de sus derechos.
+
+Acciones.
+
+- Permitir la participación igualitaria de género en el ámbito de trabajo, así como en el servicio profesional.
+
+- Propiciar espacios laborales libres de discriminación y violencia de género, así como separar las actividades laborales de la vida personal.
+
+- Aplicar toda normatividad libre de discriminación.
+
+- Incorporar en los procesos de planeación, presupuesto, formación, comunicación, vinculación, difusión, evaluación y en la cultura organizacional, la perspectiva de igualdad de género.
+
+- Proporcionar servicios basados en el diseño universal, con la mayor accesibilidad posible.
+
+j) Conflicto de Intereses.
+
+Compromiso.
+
+No confrontar el interés como ciudadano y la obligación que tiene como servidor público.
+
+Acciones.
+
+- No debe enfrentar a donde hay una contraposición de intereses personales e institucionales.
+
+- Identificar y eliminar aquellas funciones que se solapen, para evitar que se haga caso omiso de ciertas responsabilidades, y se llegue a un conflicto de interés.
+
+- Elegir correctamente las personas que tengan que desempeñar un puesto, que no sean de compromiso político, para que el servidor público actué en función a los intereses propios de la Institución.
+
+- Detectar, controlar, erradicar y sancionar los actos de conflictos de interés.
+
+IV. Sanciones administrativas.
+
+Es obligación del servidor público del Consejo Estatal de Población, acatar las disposiciones del presente código.
+
+El incumplimiento de este ordenamiento será motivo de sanción de acuerdo a la Ley General de Responsabilidades Administrativas publicada en el Diario Oficial de la Federación, el 18 de julio de 2016, misma que contiene disposiciones de orden público y de observancia general en toda la República, y tiene por objeto distribuir competencias entre los órdenes de gobierno para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, así como los procedimientos para su aplicación.
+
+V. Bibliografía.
+
+- Acuerdo que establece las bases generales del código de ética administrativa, a las que deberán sujetarse los servidores públicos del Gobierno del Estado de Tlaxcala en materia de austeridad, racionalidad, eficiencia, eficacia, honestidad, legalidad, honradez, lealtad e imparcialidad, publicada en el Periódico Oficial del Estado de Tlaxcala, el 3 de mayo de 1999.
+
+- Eficacia, Eficiencia, Equidad y Sostenibilidad: ¿Qué Queremos Decir? Karen Mokate, junio 1999.
+
+- https://www.cepal.org/ilpes/noticias/paginas/9/37779/gover_2006_03_eficacia_eficiencia.pdf.
+
+- Código Modelo de Ética y Conducta
+
+http://www.wcoomd.org/fr/topics/integrity/~/media/FA93E62EBA684BB7997DD215CD2D4F29.ashx
+
+- Título, Ética empresarial y Códigos de Conducta; autor José Luis Goñi Sein. Editor, la Ley, 2010.
 
 ###### ARTÍCULO ÚNICO.
 
