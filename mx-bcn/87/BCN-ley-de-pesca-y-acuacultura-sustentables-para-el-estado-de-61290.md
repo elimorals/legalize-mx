@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-61290
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2008-05-16"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de mayo de 2008.
 
@@ -675,7 +675,9 @@ Las infracciones a los preceptos de esta Ley y sus reglamentos, serán sancionad
 
 I. Amonestación con apercibimiento;
 
-II. Multa de treinta a dos mil veces el Salario Mínimo Diario General vigente en el Estado, y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II. Multa de treinta a dos mil veces el valor diario de la unidad de medida y actualización vigente, y
 
 III. Suspensión o revocación de los permisos y autorizaciones correspondientes.
 
@@ -722,3 +724,21 @@ JOSE GUADALUPE OSUNA MILLAN.
 SECRETARIO GENERAL DE GOBIERNO.
 
 JOSE FRANCISCO BLAKE MORA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
