@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-obras-publicas-equipamientos-suministros-y-servicios-132
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-03"
-last_updated: "2017-11-10"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 3 de julio de 1998.
 
@@ -1157,9 +1157,11 @@ El resultado de las comprobaciones se hará constar por escrito el cual será fi
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTICULO 83.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Secretaría con multa de cincuenta hasta cien veces el salario mínimo general vigente en el Estado elevado al mes en la fecha de la infracción, tomando en consideración los criterios a que hace referencia el artículo 86 de esta Ley.
+Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Secretaría con multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente elevado al mes en la fecha de la infracción, tomando en consideración los criterios a que hace referencia el artículo 86 de esta Ley.
 
 ###### ARTICULO 84.
 
@@ -1320,3 +1322,19 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 142 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8, 21, 27 Y 42 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
