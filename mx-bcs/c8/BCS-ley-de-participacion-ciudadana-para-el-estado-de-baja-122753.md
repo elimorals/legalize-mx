@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-participacion-ciudadana-para-el-estado-de-baja-122753"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-20"
-last_updated: "2018-08-15"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de julio de 2017.
 
@@ -597,9 +597,13 @@ Desechamiento de plano. El Congreso del Estado desechará de plano toda Iniciati
 
 Requisitos. La Iniciativa Ciudadana deberá dirigirse al Presidente de la Mesa Directiva del Periodo Ordinario de Sesiones o de la Diputación Permanente, según corresponda y se presentará ante la Oficialía Mayor del Poder Legislativo, debiendo contener los siguientes requisitos:
 
-I. El nombre, firma, número de folio de la credencial de elector y sección de los electores solicitantes, debiendo ser al menos 0.13% del total de las ciudadanas y los ciudadanos inscritos en la Lista Nominal de Electores correspondiente al estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II. Domicilio en la capital del Estado y nombrar un representante común para recibir notificaciones y participar en las discusiones en la Comisión respectiva, sin derecho a voto;
+I. El nombre, firma, número de folio y sección de la credencial de elector del o los ciudadanos solicitantes, quienes deberán estar inscritos en la Lista Nominal de Electores correspondiente al Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II. Domicilio en la capital del Estado y en su caso nombrar un representante para oír y recibir notificaciones y participar en las discusiones en la Comisión respectiva, sin derecho a voto. En el caso de que se presenten iniciativas suscrita (sic) por dos o más ciudadanos deberán nombrar un representante común para los efectos de la presente fracción;
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -619,13 +623,17 @@ VII. Presentarse de manera pacífica y respetuosa.
 
 Para toda iniciativa ciudadana deberán observarse las reglas del interés general y no debe afectarse el orden público, evitando las injurias y términos que denigren a la sociedad o a un sector de la misma.
 
-> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 63.
 
-Desechamiento por falta de requisitos. La falta de los requisitos establecidos en las fracciones I y V, a que se refiere el artículo anterior, es motivo para desechar la iniciativa ciudadana.
+Desechamiento por falta de requisitos. La falta de los requisitos establecidos en las fracciones I, III, IV, V y VI a que se refiere el artículo anterior, es motivo para desechar la iniciativa ciudadana.
 
-En el caso de que la iniciativa ciudadana no contenga o no sean claros los requisitos previstos en las fracciones II, III, IV y VI, la Comisión Permanente o Especial que se ocupe del dictamen deberá prevenir al representante común para que los subsane o los aclare en un término de cinco días hábiles. Aun y cuando los puntos señalados no sean subsanados o aclarados dentro del término concedido, la iniciativa ciudadana no podrá ser desechada, deberá (sic) dictaminada conforme al trámite legislativo correspondiente.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+En el caso de que la iniciativa ciudadana que no contenga los requisitos previstos en el artículo 62 de esta Ley, la Comisión Permanente o Especial que se ocupe del dictamen deberá prevenir al representante común para que los subsane o los aclare en un término de cuarenta y ocho horas. En caso de que los requisitos no sean subsanados o aclarados dentro del término concedido, la iniciativa ciudadana será desechada, lo anterior a excepción del requisito previsto en la fracción II, en cuyo caso se le dará el trámite legislativo correspondiente.
+
+> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
 
 En caso de que se haya omitido señalar domicilio en la capital del Estado, la notificación de la prevención referida en el artículo anterior se llevara a cabo por cedula de notificación fijada en un lugar visible de la Sala de Comisiones del Congreso del Estado, dicha notificación surtirá sus efectos al día siguiente en que se practique. Cuando no se haya señalado representante común la notificación de la prevención se llevara con cualquier persona que se encuentre en el domicilio señalado.
 
@@ -633,11 +641,11 @@ En caso de que se haya omitido señalar domicilio en la capital del Estado, la n
 
 Turno de la iniciativa. Una vez recibida la iniciativa ciudadana, el Pleno del Congreso del Estado turnará a la Comisión que corresponda de acuerdo con la materia de que se trate.
 
-> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 65.
 
-Plazo para la resolución. Las iniciativas ciudadanas se considerarán de trámite preferente de acuerdo a lo establecido en la fracción VI del numeral 57 de la Constitución del Estado y gozarán del término de 30 días naturales para ser dictaminadas y sometidas a votación ante el Pleno del Congreso del Estado. En materia de iniciativa ciudadana no opera la prórroga.
+Plazo para la resolución. Las iniciativas ciudadanas que se consideren de trámite preferente de acuerdo a lo establecido en la fracción VI del numeral 57 de la Constitución del Estado, deberán ser dictaminadas y sometidas a votación ante el Pleno del Congreso del Estado, dentro del término de 30 días naturales, no operando la prórroga. Las demás se dictaminarán acorde a lo dispuesto a la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur.
 
 ### Capítulo IV. De la Consulta Ciudadana
 
@@ -952,3 +960,11 @@ B.O. 15 DE AGOSTO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2574 SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
