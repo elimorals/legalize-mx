@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2017-04-07"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -385,15 +385,23 @@ Las medidas establecidas en el presente artículo serán aplicables a los vehíc
 
 La Secretaría y las autoridades municipales de tránsito podrán verificar el debido cumplimiento de lo dispuesto en el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 18 BIS.- El seguro de responsabilidad civil a que se refiere este ordenamiento, debe amparar por lo menos, en concepto de daños a terceros en su persona y en sus bienes, el monto de cuatro mil trescientos cincuenta veces el valor diario de la Unidad de Medida y Actualización Vigente.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+El seguro de responsabilidad civil, únicamente será exigible cuando las instituciones o empresas de seguros lo ofrezcan a un costo anual que no exceda de quince veces el valor diario de la Unidad de Medida y Actualización Vigente.
+
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
-
-ARTÍCULO 18 BIS.- El seguro de responsabilidad civil a que se refiere este ordenamiento, debe amparar por lo menos, en concepto de daños a terceros en su persona y en sus bienes, el monto de cuatro mil trescientos cincuenta veces el salario mínimo general vigente en el Estado.
-
-El seguro de responsabilidad civil, únicamente será exigible cuando las instituciones o empresas de seguros lo ofrezcan a un costo anual que no exceda de quince veces el salario mínimo general vigente en el Estado.
 
 Se sancionará a quien conduzca un vehículo que no cuente con un seguro de responsabilidad civil vigente; sin embargo, cuando se trate de la primera vez la autoridad municipal competente apercibirá únicamente al conductor; en caso de reincidencia, será acreedor a una multa que será condonada por la citada autoridad municipal, siempre que el propietario del vehículo le presente una póliza de seguro vigente que ampare los conceptos y el monto requerido en este artículo, en el plazo que al efecto establezca dicha autoridad, el cual no podrá exceder de 30 días. En caso de que la póliza de seguro vigente se presente fuera del plazo señalado, la autoridad municipal respectiva podrá reducir el importe de la multa correspondiente.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
 Los vehículos registrados o procedentes de otras entidades federativas o del extranjero, deben contar con un seguro de responsabilidad civil durante el tiempo que circulen en el Estado, el cual deberá amparar cuando menos, los conceptos y el monto que se señala en este artículo; en caso contrario, se sancionarán a los conductores en términos de la (sic) disposiciones municipales que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
 Los vehículos destinados al transporte público observaran las disposiciones que en dicha materia se establezcan.
 
@@ -931,9 +939,13 @@ La Secretaría, a través de las Oficinas Recaudadoras, se encuentra facultada p
 
 I.- DEROGADO;
 
-II.- Por no solicitar la expedición de los Elementos de Identificación Vehicular, en los términos de esta Ley, multa de 2 a 15 veces el Salario Mínimo General Vigente en el Estado, y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-III.- Por no solicitar la licencia de conducir en los plazos establecidos en esta Ley, multa de 1 a 5 veces el Salario Mínimo General Vigente en el Estado.
+II.- Por no solicitar la expedición de los Elementos de Identificación Vehicular, en los términos de esta Ley, multa de 2 a 15 veces el valor diario de la Unidad de Medida y Actualización vigente, y
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Por no solicitar la licencia de conducir en los plazos establecidos en esta Ley, multa de 1 a 5 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Para la notificación y cobro de las multas previstas en este artículo, serán aplicables las disposiciones respectivas, previstas en el Código Fiscal del Estado de Baja California.
 
@@ -1076,3 +1088,19 @@ P.O. 7 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 467 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 37 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 2 BIS DE LA LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 22 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; Y SE CREA LA LEY DE FOMENTO PARA EL USO DE LA BICICLETA Y PROTECCIÓN AL CICLISTA PARA EL ESTADO”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
