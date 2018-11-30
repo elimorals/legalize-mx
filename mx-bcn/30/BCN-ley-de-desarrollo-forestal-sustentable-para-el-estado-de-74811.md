@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-74811"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-30"
-last_updated: "2018-05-18"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE MAYO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 30 de abril de 2010.
 
@@ -201,7 +199,13 @@ XXVI. Presentar estudios para el establecimiento de restricciones a la forestaci
 
 XXVII. Impulsar las promotorías de desarrollo forestal en los distritos de desarrollo rural de la entidad, y
 
-XXVIII. Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVIII. Incorporar un sistema obligatorio de corredores verdes en las principales zonas de generación de contaminación de atmosfera de zonas urbanas de los ayuntamientos.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIX. Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
 ###### ARTÍCULO 8.
 
@@ -253,7 +257,13 @@ XIX.- Participar y coadyuvar en los programas integrales de prevención y combat
 
 XX.- Regular y vigilar la disposición final de residuos provenientes de la extracción de materias primas forestales, y
 
-XXI.- La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Coadyuvar con el Estado en la incorporación de un esquema obligatorio de forestación de corredores verdes en las principales zonas de generación de contaminación de aire en zonas urbanas de los ayuntamientos.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta ley u otros ordenamientos.
 
 ###### ARTÍCULO 10.
 
@@ -687,7 +697,9 @@ Las infracciones a los preceptos de esta Ley y su reglamento, serán sancionadas
 
 I. Amonestación con apercibimiento, o
 
-II. Multa de cien a cinco mil veces el Salario Mínimo Diario General vigente en el Estado.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II. Multa de cien a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTÍCULO 55.
 
@@ -746,3 +758,35 @@ P.O. 9 DE MARZO DE 2018.
 > <small>(F. DE E., P.O. 18 DE MAYO DE 2018)</small>
 
 ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 275 MEDIANTE EL CUAL SE APRUEBA REFORMA A LOS ARTÍCULOS 7 Y 9 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo Estatal en un lapso que no excederá de 90 días contados a partir de la entrada en vigor de la presente reforma realizará las adecuaciones pertinentes al Reglamento de la Ley de Desarrollo Forestal.
+
+###### ARTICULO TERCERO.
+
+Remítase las presentes reformas a los ayuntamientos del estado para que un plano (sic) que excederá de 90 días contados a partir de la entrada en vigor de la presente reforma, realicen las adecuaciones a los Reglamentos municipales.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
