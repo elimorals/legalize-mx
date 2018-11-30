@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2018-06-09"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -3785,7 +3785,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa hasta por cien veces el Salario Mínimo Diario General vigente en el Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+III. Multa hasta por cien veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 IV. Auxilio de la fuerza pública, y
 
@@ -3969,7 +3971,9 @@ I. Respecto de los partidos políticos, con independencia de la responsabilidad 
 
 a) Con amonestación pública;
 
-b) Con multa de cincuenta a cinco mil veces el salario mínimo diario general vigente en el Estado;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+b) Con multa de cincuenta a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 c) Con la reducción de hasta el cincuenta por ciento de las ministraciones de financiamiento público que les corresponde, por el período que señale la resolución correspondiente;
 
@@ -3983,7 +3987,9 @@ II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección
 
 a) Con amonestación pública;
 
-b) Con multa de hasta mil días de salario mínimo general vigente en la entidad, y
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+b) Con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, y
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo.
 
@@ -3995,17 +4001,25 @@ IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol
 
 a) Con amonestación pública;
 
-b) Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos, con multa de hasta doscientos días de salario mínimo general vigente en la entidad;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-c) Respecto de las personas morales con multa de hasta mil días de salario mínimo general vigente en la entidad.
+b) Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos, con multa de hasta doscientos (sic) veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-d) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta mil días de salario mínimo general vigente en la entidad, en el caso de que promuevan una denuncia frívola.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+c) Respecto de las personas morales con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+d) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, en el caso de que promuevan una denuncia frívola.
 
 V. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta mil días de salario mínimo general vigente en la entidad, según la gravedad de la falta, y
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+b) Con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta, y
 
 c) Con la cancelación del procedimiento tendente a obtener el registro como partido político nacional, y
 
@@ -4013,7 +4027,9 @@ VI. Respecto de las organizaciones sindicales, laborales o patronales, o de cual
 
 a) Con amonestación pública, y
 
-b) Con multa de hasta mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+b) Con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta.
 
 ###### Artículo 355.
 
@@ -4644,3 +4660,19 @@ P.O. 9 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO "DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL", ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
