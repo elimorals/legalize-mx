@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2011-del-pleno-del-consejo-de-la-83058"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-09-30"
-last_updated: "2018-06-15"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83058&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-09-22"
 
 ACUERDO GENERAL 33/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2018.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 2011.
 
@@ -53,29 +53,29 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL TRANSITORIO OCTAVO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz está conformado por dos tribunales colegiados de Circuito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz está conformado por un Tribunal Colegiado de Circuito Auxiliar, el cual tendrá jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, su denominación será la siguiente: Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL TRANSITORIO OCTAVO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO POR EL TRANSITORIO OCTAVO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+El tribunal colegiado se denominará:
 
-> <small>(DEROGADO CUARTO PÁRRAFO POR EL TRANSITORIO OCTAVO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
-
-Los tribunales colegiados se denominarán:
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz.
 
-Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz.
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones, así como la ubicación de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz.
+SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones, así como la ubicación del órgano jurisdiccional que integrará el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz.
 
-TERCERO. LIBROS DE GOBIERNO. Los órganos jurisdiccionales Auxiliares que formarán parte del Centro Auxiliar de la Decimoprimera Región, como mecanismo de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de estos, contarán con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística Judicial.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+TERCERO. LIBROS DE GOBIERNO. El órgano jurisdiccional Auxiliar que formará parte del Centro Auxiliar de la Decimoprimera Región, como mecanismo de control de los asuntos de su respectiva competencia y como auxiliar en la supervisión de éstos, contará con libros electrónicos de registro que se le implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística Judicial.
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Decimoprimera Región contará con una Oficina de Correspondencia Común la cual se denominará Oficina de Correspondencia Común del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, que se integrará con el personal que al efecto determine el área administrativa correspondiente del Consejo de la Judicatura Federal.
+CUARTO. (DEROGADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)
 
 QUINTO. (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES, D.O.F. 15 DE ABRIL DE 2016)
 
@@ -85,19 +85,25 @@ SEXTO. PLANTILLAS. Las plantillas de los órganos jurisdiccionales serán las si
 
 > <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 15 DE JUNIO DE 2018, PÁGINA 92.]</small>
 
-SEPTIMO. ESTADISTICA E INFORMES. Los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Decimoprimera Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística Judicial.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-Asimismo, los órganos jurisdiccionales auxiliares que integran el Centro Auxiliar de la Decimoprimera Región, así como los auxiliados, deberán enviar su reporte estadístico dentro de los primeros cinco días de cada mes a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, vía correo electrónico a la dirección sejacno@cjf.gob.mx, el cual deberá contener la siguiente información estadística:
+SÉPTIMO. El titular del órgano jurisdiccional que integra el Centro Auxiliar de la Decimoprimera Región, deberá enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística Judicial.
 
-> <small>N. DE E. VEASE TABLA EN LA TERCERA SECCION DEL D.O.F. DE 30 DE SEPTIEMBRE DE 2011, PAGINA 11.</small>
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Asimismo, el órgano jurisdiccional auxiliar que integra el Centro Auxiliar de la Decimoprimera Región, así como los auxiliados, deberán enviar su reporte estadístico dentro de los primeros cinco días de cada mes a la Secretaría Ejecutiva de Creación de Nuevos Órganos, vía correo electrónico a la dirección creación.nuevos.organos@correo.cjf.gob.mx, el cual deberá contener la siguiente información estadística:
+
+> <small>[N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL D.O.F. DE 30 DE SEPTIEMBRE DE 2011, PÁGINA 11.]</small>
 
 La Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, con el reporte estadístico que remitan los órganos jurisdiccionales Auxiliares, informará a la Comisión de Creación de Nuevos Organos el estado que guardan, y ésta, lo enviará al Pleno del Consejo de la Judicatura Federal para su conocimiento.
 
 OCTAVO. ESPACIO FISICO. La Comisión de Administración proveerá lo conducente, para asignar el espacio físico que ocupará el Centro Auxiliar de la Decimoprimera Región, y ordenará se les dote de los recursos materiales que se estimen necesarios, de acuerdo con las condiciones particulares de cada caso.
 
-NOVENO. DE LA COMISION. La Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, queda facultada para dictar los acuerdos relativos, tendentes a regular el turno y tipo de los asuntos del conocimiento de los órganos jurisdiccionales que conforman el Centro Auxiliar de la Decimoprimera Región, así como el apoyo y el diverso auxilio que se preste a otros órganos jurisdiccionales.
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-En caso de resultar necesario los órganos jurisdiccionales del Centro Auxiliar se podrán trasladar temporalmente a otra sede, con motivo de alguna contingencia natural, incremento inusitado de ingresos o cualquier otra causa que así lo amerite, previa autorización de la Comisión de Creación de Nuevos Organos.
+NOVENO. DE LA COMISIÓN. La Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, queda facultada para dictar los acuerdos relativos, tendentes a regular el turno y tipo de los asuntos del conocimiento del órgano jurisdiccional que conforma el Centro Auxiliar de la Decimoprimera Región, así como el apoyo y el diverso auxilio que se preste a otros órganos jurisdiccionales.
+
+En caso de resultar necesario el órgano jurisdiccional del Centro Auxiliar se podrá trasladar temporalmente a otra sede, con motivo de alguna contingencia natural, incremento inusitado de ingresos o cualquier otra causa que así lo amerite, previa autorización de la Comisión de Creación de Nuevos Órganos.
 
 DECIMO. (DEROGADO POR EL TRANSITORIO OCTAVO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)
 
@@ -242,3 +248,17 @@ DÉCIMO PRIMERO. Derogado.”
 NOVENO. Los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, previo a su conclusión de funciones, deberán remitir los asuntos pendientes de resolución de manera equitativa a los Juzgados de Distrito del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla. Los asuntos que reciban los Juzgados de Distrito Auxiliares en cita, formarán parte de la remesa del mes correspondiente de dos mil dieciocho.
 
 DÉCIMO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ; LA CONCLUSIÓN Y TRANSFORMACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES COLEGIADOS DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN; CAMBIO DE DENOMINACIÓN DEL TRIBUNAL COLEGIADO DEL DÉCIMO CIRCUITO EN EL MISMO ESTADO Y RESIDENCIA; EL INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DEL DÉCIMO CIRCUITO, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES EN LA RESIDENCIA INDICADA; Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz y el inicio del Segundo Tribunal Colegiado del Décimo Circuito, en el citado Estado y residencia, implicará el traslado de sus magistrados, en la calidad en que se encuentran adscritos y del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional de nueva creación contará con la misma plantilla de personal que tiene su homólogo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
