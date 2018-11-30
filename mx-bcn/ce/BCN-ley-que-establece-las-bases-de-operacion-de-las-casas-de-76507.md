@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-establece-las-bases-de-operacion-de-las-casas-de-76507"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-27"
-last_updated: "2011-07-29"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY QUE ESTABLECE LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO DEL ESTADO DE BAJA CALIFORNIA
 
-LEY QUE ESTABLECE LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO DEL ESTADO DE BAJA CALIFORNIA
+LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 27 de agosto de 2010.
 
@@ -325,7 +325,7 @@ La Secretaría recibida la solicitud de modificación procederá a realizar el e
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
 
-Cuando el peticionario no cumpla con los requisitos establecidos en el artículo anterior, la Secretaría lo requerirá para que exhiba los documentos o información omitida, otorgándole un plazo de cinco días hábiles para su cumplimiento, apercibiéndolo que de no hacerlo la Secretaría resolverá que se tiene por no presentada la solicitud, quedando a salvo su derecho a formular nueva solicitud.
+Cuando el peticionario no cumpla con los requisitos establecidos en el artículo anterior, la Secretaría lo requerirá para que exhiba los documentos o información omitida, otorgándole un plazo de cinco días hábiles para su cumplimiento; apercibiéndolo que de no hacerlo la Secretaría resolverá que se tiene por no presentada la solicitud, quedando a salvo su derecho a formular nueva solicitud.
 
 ###### ARTÍCULO 30.
 
@@ -367,11 +367,15 @@ La Secretaría contará con un plazo de diez días hábiles para resolver lo con
 
 Los permisionarios deberán sujetar los contratos que celebren, a las formalidades que se establecen en esta Ley, debiendo contener los requisitos estipulados en la legislación federal aplicable a la celebración de contratos de mutuo con interés y garantía prendaria, así como también a las normas oficiales mexicanas sobre este tipo de servicio.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 36.
 
-El documento oficial con fotografía que ampare la identidad del Pignorante, deberán anexarse al contrato, en copia simple, debidamente cotejada con su original. El pignorante, que realice varias operaciones y estas lleguen a la etapa de comercialización, y las demasías, no sean reclamadas, se denominarán operaciones inusuales.
+Las casas de empeño deberán adoptar las medidas indispensables para cerciorarse de la identidad de los pignorantes y su propiedad sobre los bienes pignorados, para lo cual requerirá factura o los documentos que los acrediten, así como el documento oficial con fotografía y comprobante de domicilio que amparen la identidad del pignorante.
+
+En caso de no contar el pignorante con la documentación que acredite la propiedad del bien pignorado, deberá emitir manifiesto, bajo protesta de decir verdad, en el que reconozca expresamente que es su legítimo e indiscutible propietario y señale cómo obtuvo la propiedad del bien.
+
+El pignorante, que realice varias operaciones y estas lleguen a la etapa de comercialización, y las demásías, no sean reclamadas, se denominaran operación inusuales.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
 
@@ -419,7 +423,9 @@ IV. No cumpla con el pago de obligaciones fiscales y comerciales;
 
 V. Omita dar cumplimiento a lo dispuesto en el artículo 31 de esta Ley;
 
-VI. Omita anexar al contrato, copia del documento oficial con fotografía que acredite la identidad del pignorante, así también copia de la factura o documento con que se acredite la propiedad del bien pignorado, o bien el manifiesto a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+VI. Omita anexar al contrato, copia del documento oficial con fotografía y comprobante de domicilio que acredite la identidad del pignorante, factura o documento con que se acredite la propiedad del bien pignorado, o bien el manifiesto a que se refiere esta Ley;
 
 VII. Se oponga sin causa justificada, a la práctica de una diligencia de inspección;
 
@@ -568,3 +574,9 @@ P.O. 29 DE JULIO DE 2011.
 PRIMERO. El presente Decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO. El Ejecutivo del Estado, tendrá un plazo de 45 días naturales, a partir de la publicación del Presente Decreto, para realizar los cambios a los reglamentos aplicables
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 282 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36, FRACCIÓN VIII DEL ARTÍCULO 41 DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
