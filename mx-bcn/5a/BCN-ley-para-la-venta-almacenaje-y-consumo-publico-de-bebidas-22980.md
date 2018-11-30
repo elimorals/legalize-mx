@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2016-07-29"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -461,7 +461,9 @@ En caso de violación a estas disposiciones la autoridad municipal ordenará la 
 
 De la imposición de sanciones.- Sin perjuicio de las sanciones penales que en su caso correspondan y tomando en cuenta la gravedad del acto o la reincidencia en su caso, por las infracciones a las disposiciones derivadas de esta ley y los reglamentos correspondientes, la autoridad municipal impondrá al infractor las siguientes sanciones:
 
-I.- Multa de tres hasta quinientas veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+I.- Multa de tres hasta quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 II.- Suspensión temporal de la actividad autorizada y clausura del establecimiento o giro, hasta por cuarenta y cinco días naturales; y
 
@@ -666,3 +668,19 @@ P.O. 29 DE JULIO DE 2016.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico oficial, del Estado de Baja California.
 
 SEGUNDO.- Los H. Ayuntamientos de los Municipios del Estado de Baja California, cuentan con un plazo de 60 días para realizar las adecuaciones a sus correspondientes reglamentos conforme a esta Reforma.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
