@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2018-05-11"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -488,11 +488,11 @@ Los ejemplares de la Bandera Nacional destinados al comercio deben apegarse a lo
 
 Los accesorios en que se reproduzcan la Bandera o el Himno Nacionales para efectos comerciales, deberán cumplir con los requisitos que establezca el Reglamento de esta Ley, de conformidad con lo previsto en la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 34.
 
-La banda presidencial constituye una forma de presentación de la Bandera Nacional y es emblema del Poder Ejecutivo Federal, por lo que sólo podrá ser portada por el Presidente de la República, y tendrá los colores de la Bandera Nacional en franjas de igual anchura colocadas longitudinalmente, correspondiendo el color rojo a la franja superior. Llevará el Escudo Nacional sobre los tres colores, bordado en hilo dorado, a la altura del pecho del portador, y los extremos de la banda rematarán con un fleco dorado.
+La Banda Presidencial constituye una forma de presentación de la Bandera Nacional y es emblema del Poder Ejecutivo Federal, por lo que sólo podrá ser portada por el Presidente de la República, y tendrá los colores de la Bandera Nacional en franjas de igual anchura colocadas longitudinalmente, correspondiendo el color verde a la franja superior. Llevará el Escudo Nacional sobre los tres colores, bordado en hilo dorado, a la altura del pecho del portador, y los extremos de la Banda rematarán con un fleco dorado.
 
 ###### Artículo 35.
 
@@ -967,3 +967,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El Ejecutivo Federal expedirá el Reglamento de esta Ley, en un plazo que no excederá los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
 
 Tercero.- Los procedimientos o trámites administrativos iniciados con anterioridad a la entrada en vigor del presente Decreto, serán resueltos conforme a las disposiciones aplicables vigentes al momento en que éstos iniciaron.
+
+D.O.F. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 34 DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES”.]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
