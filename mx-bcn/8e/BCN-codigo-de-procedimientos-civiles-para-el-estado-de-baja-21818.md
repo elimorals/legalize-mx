@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2017-11-10"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -35,7 +35,7 @@ Que la H. Legislatura del Estado, me ha dirigido para su publicación el Ordenam
 
 LA H. VII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ART. 27, FRACCIONES I Y XXX DE LA CONSTITUCION POLITICA LOCAL, EXPIDE EL SIGUIENTE:
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -503,13 +503,15 @@ Los acuerdos que se dicten por los Jueces serán reservados.
 
 ART. 60.- Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad, pudiendo delegar diligencias probatorias a los Secretarios en tanto este presente el Juzgador en el recinto Judicial como director del proceso.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 61.- Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los Juzgados de Paz, del equivalente a un salario mínimo; en los de Primera Instancia, de diez veces el salario mínimo; y veinte veces el salario mínimo en el Tribunal Superior.
+ART. 61.- Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los Juzgados de Paz, del equivalente al valor de una Unidad de Medida y Actualización vigente; en los de Primera Instancia, de diez veces de la Unidad de Medida y Actualización vigente en el Tribunal Superior; y veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Cuando en el escrito de expresión de agravios o en cualquiera de las promociones subsecuentes se faltare al respeto y consideración debidos al Juez que dictó la resolución impugnada, la Sala que conozca del recurso impondrá al litigante la corrección disciplinaria que considere conveniente.
 
-Dicha corrección puede comprender desde multa hasta por la cantidad equivalente a cincuenta veces el salario mínimo general vigente para el Estado de Baja California, o bien; el auxilio de la fuerza pública, pero si las faltas llegaren a constituir delitos, se procederá contra los que las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente con testimonio de lo conducente.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Dicha corrección puede comprender desde multa hasta por la cantidad equivalente a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente para el Estado de Baja California, o bien; el auxilio de la fuerza pública, pero si las faltas llegaren a constituir delitos, se procederá contra los que las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente con testimonio de lo conducente.
 
 (REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -517,9 +519,9 @@ ART. 62.- Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II.- Multa que no exceda de treinta veces el salario mínimo diario para la zona, y
+II.- Multa que no exceda de treinta veces el valor diario de la Unidad de Medida y Actualización vigente, y.
 
 III.- Suspensión de empleo hasta por quince días.
 
@@ -547,9 +549,9 @@ ART. 65.- Las copias simples de los documentos que se presenten, confrontadas y 
 
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 66.- El Secretario hará constar el día y la hora en que se presente cualesquier promoción por escrito o vía electrónica y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de multa, equivalente a un salario mínimo, sin perjuicio de las demás que merezca conforme a las leyes.
+ART. 66.- El Secretario hará constar el día y la hora en que se presente cualesquier promoción por escrito o vía electrónica y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de multa, equivalente al valor de una Unidad de Medida y Actualización diaria vigente, sin perjuicio de las demás que merezca conforme a las leyes.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -589,9 +591,9 @@ Los incidentes ajenos al negocio principal o notoriamente frívolos e improceden
 
 ART. 73.- Los Jueces, para hacer cumplir sus determinaciones y sin sujetarse a un orden preestablecido, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-I.- La multa hasta por la cantidad equivalente a cincuenta veces el salario mínimo general diario vigente para el Estado de Baja California, que podrá duplicarse en caso de reincidencia.
+I.- La multa hasta por la cantidad equivalente a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente, que podrá duplicarse en caso de reincidencia.
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -701,7 +703,7 @@ ART. 89.- Los decretos y los autos deben dictarse dentro de tres días después 
 
 ART. 90.- Los decretos, los autos y las sentencias serán pronunciados necesariamente dentro del término que para cada uno de ellos establece la ley.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+(RERORMADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 91.- Toda sentencia tiene a su favor la presunción de haberse pronunciado según la forma prescrita por el derecho, con conocimiento de causa y por Juez legítimo con jurisdicción para darla.
 
@@ -843,7 +845,7 @@ Cuando un litigante no cumpla con lo prevenido en la primera parte de este artí
 
 Las partes podrán autorizar que se le realicen notificaciones por medio electrónico, lo que implicará la autorización expresa del solicitante en el sentido de que dichas notificaciones se tendrán por legalmente practicadas y surtirán sus efectos en los términos previstos por el artículo 125, con excepción de las notificaciones previstas en el artículo 114 de este Código.
 
-Para tal efecto las partes podrán solicitar la autorización para el acceso a la pagina electrónica del Tribunal, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará lo que le permitirá consultar las notificaciones que por este medio le fueren hechas.
+Para tal efecto las partes podrán solicitar la autorización para el acceso a la página electrónica del Tribunal, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará lo que le permitirá consultar las notificaciones que por este medio le fueren hechas.
 
 Lo anterior se ajustará a los lineamientos que se establezcan por el Consejo de la Judicatura del Estado de Baja California a través del reglamento que para tal efecto se emita.
 
@@ -977,9 +979,9 @@ ART. 126.- Se fijará en lugar visible de las oficinas del tribunal o juzgados, 
 
 Sólo por errores u omisiones sustanciales que hagan no identificables los juicios, podrá pedirse la nulidad de las notificaciones hechas por Boletín Judicial. Además, se fijará diariamente en la puerta de la sala del Tribunal y Juzgados un ejemplar del Boletín Judicial, coleccionándose dicho diario para resolver cualquier cuestión que se suscite sobre la falta de alguna publicación. En el archivo judicial se formarán dos colecciones, una de las cuales estará siempre a disposición del público.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 127.- En las Salas del Tribunal y en los Juzgados, los empleados que determine el Reglamento, harán constar en los autos respectivos el número y fecha del Boletín en que se haya hecho la publicación a que se refiere el Artículo anterior, bajo la pena de multa equivalente a un salario mínimo por la primera falta, de dos veces el salario mínimo por la segunda, y de suspensión de empleo, hasta por tres meses, por la tercera; sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
+ART. 127.- En las Salas del Tribunal y en los Juzgados, los empleados que determine el Reglamento, harán constar en los autos respectivos el número y fecha del Boletín en que se haya hecho la publicación a que se refiere el Artículo anterior, bajo la pena de multa equivalente al valor de una Unidad de Medida y Actualización diaria vigente, por la primera falta, de dos veces el valor diario de la Unidad de Medida y Actualización vigente por la segunda, y de suspensión de empleo, hasta por tres meses, por la tercera; sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1343,9 +1345,9 @@ Decidida la competencia enviará los autos al Juez declarado competente, con tes
 
 ART. 168.- El litigante que hubiere optado por uno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlo sucesivamente.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, multa hasta de diez veces el salario mínimo. La multa será a beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
+En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, multa hasta de diez veces el valor diario de la Unidad de Medida y Actualización vigente. La multa será a beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1515,9 +1517,9 @@ ART. 188.- En el incidente de recusación son admisibles todos los medios de pru
 
 ART. 189.- Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 190.- Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de diez salarios mínimos, si se tratare de un Juez de Paz; y hasta de veinte veces el salario mínimo, si fuere un Juez de lo Civil; y hasta de treinta veces el salario mínimo si fuere un Magistrado. La multa será a beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
+ART. 190.- Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de diez veces el valor diario de la Unidad de Medida y Actualización vigente, si se tratare de un Juez de Paz; y hasta de veinte veces el valor diario de la Unidad de Medida y Actualización vigente, si fuere un Juez de lo Civil; y hasta de treinta veces el valor diario de la Unidad de Medida y Actualización vigente si fuere un Magistrado. La multa será a beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
 
 No se dará curso a ninguna recusación si al interponerla, el recusante no exhibe billete de depósito por el máximo de la multa, la que, en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al fisco.
 
@@ -1957,9 +1959,9 @@ ART. 263.- Si entre las excepciones opuestas hubiere de previo y especial pronun
 
 La declinatoria de jurisdicción se propondrá ante el Juez pidiéndole que se abstenga del conocimiento del negocio. El Juez remitirá desde luego los autos a su inmediato superior, dará vista a los interesados para que en un término de diez días comparezcan ante éste, el cual, en una audiencia en que se reciban las pruebas y alegatos de las partes, resolverá la cuestión y mandará sin retardo los autos al Juez que estime competente, quien deberá hacerlo saber a los litigantes. En este caso, la demanda y la contestación se tendrán como presentadas ante éste. En los incidentes en que se afecten los derechos de familia, será imprescindible oír al Ministerio Público.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 264.- En el caso de que se declare infundada o improcedente la incompetencia, debe pagar las costas causadas el que la promovió y se le impondrá una multa hasta de veinte veces el salario mínimo en Baja California, en beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
+ART. 264.- En el caso de que se declare infundada o improcedente la incompetencia, debe pagar las costas causadas el que la promovió y se le impondrá una multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización vigente, en beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2525,9 +2527,9 @@ I.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los intere
 
 II.- Los peritos de las partes emitirán inmediatamente su dictamen, siempre que lo permita la naturaleza del asunto; de lo contrario, se les señalará un término prudente para que lo rindan. Cuando discordaren los peritos, dictaminará el tercero, solo o asociado de los otros.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Los peritos citados oportunamente serán sancionados con multas hasta de diez veces el salario mínimo en caso de que no concurran, salvo causa grave que calificará el Juez.
+Los peritos citados oportunamente serán sancionados con multas hasta de diez veces el valor diario de la Unidad de Medida y Actualización vigente en caso de que no concurran, salvo causa grave que calificará el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2541,9 +2543,9 @@ III.- Ser socio, inquilino, arrendador o amigo íntimo de alguna de las partes.
 
 El Juez calificará de plano la recusación, y las partes deben presentar las pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida, se nombrará nuevo perito en los mismos términos que al recusado.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 347.- En caso de ser desechada la recusación, se impondrá al recusante una multa equivalente a un salario mínimo, en beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
+ART. 347.- En caso de ser desechada la recusación, se impondrá al recusante una multa equivalente al valor de una Unidad de Medida y Actualización diaria vigente en beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2609,11 +2611,11 @@ Cuando fuere necesario, se levantarán planos o se sacarán vistas fotográficas
 
 ART. 351.- Todos los que tengan conocimiento de los hechos que las partes deben de probar, están obligados a declarar como testigos.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 352.- Las partes tendrán obligación de presentar sus propios testigos. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad al Juez y pedirán que los cite. El Juez ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa hasta de veinte veces el salario mínimo, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+ART. 352.- Las partes tendrán obligación de presentar sus propios testigos. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad al Juez y pedirán que los cité. El Juez ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización vigente, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
 
-A quien proporcione domicilio inexacto o inexistente de algún testigo o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se le impondrá una multa de hasta treinta veces el salario mínimo, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido y de que se declare desierta la prueba respecto de quien haya sido propuesto como testigo y su situación encuadre en cualquiera de los supuestos anteriores.
+A quien proporcione domicilio inexacto o inexistente de algún testigo o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se le impondrá una multa de hasta treinta veces el valor diario de la Unidad de Medida y Actualización vigente, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido y de que se declare desierta la prueba respecto de quien haya sido propuesto como testigo y su situación encuadre en cualquiera de los supuestos anteriores.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -4903,9 +4905,9 @@ ART. 710.- Se da el recurso de queja en contra de los ejecutores y secretarios p
 
 ART. 711.- El recurso de queja contra el Juez se interpondrá dentro de los tres días siguientes al acto reclamado, expresando los motivos de inconformidad. Se presentará por conducto del propio Juez, quien dentro del tercer día que tenga conocimiento, lo remitirá al Tribunal Superior de Justicia del Estado, acompañando informe de justificación y testimonio de las constancias señaladas por el recurrente, así como de las que el Juez estime necesarias. El Tribunal dentro del tercer día resolverá lo que corresponda.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 712.- Si la queja no está apoyada por hecho cierto, o no estuviere fundada en derecho, o hubiere recurso ordinario de la resolución reclamada, será desechada por el Tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa equivalente a un salario mínimo.
+ART. 712.- Si la queja no está apoyada por hecho cierto, o no estuviere fundada en derecho, o hubiere recurso ordinario de la resolución reclamada, será desechada por el Tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa equivalente al valor de una Unidad (sic) y Actualización diaria vigente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5035,9 +5037,9 @@ En este informe del síndico estarán contenidos los dictámenes que rinda sobre
 
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios, según el Código Civil.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 732.- Si el Síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios, y será removido de plano, imponiéndosele, además, una multa equivalente a un salario mínimo.
+ART. 732.- Si el Síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios, y será removido de plano, imponiéndosele, además, una multa equivalente a una Unidad de Medida y Actualización diaria vigente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5423,9 +5425,9 @@ ART. 792.- Si la declaración de herederos la solicitaren parientes colaterales,
 
 El Juez prudentemente podrá ampliar el plazo anterior cuando, por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de información, si el valor de los bienes hereditarios excediere de un monto equivalente a cien veces el salario mínimo diario en Baja California.
+Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de información, si el valor de los bienes hereditarios excediere de un monto equivalente a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5709,9 +5711,9 @@ Si no hubiere mayoría, el Juez nombrará partidor eligiéndolo entre los propue
 
 El cónyuge aunque no tenga el carácter de heredero será tenido como parte, si entre los bienes hereditarios hubiere bienes de la sociedad conyugal.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 846.- El Juez pondrá a disposición del partidor los autos y, bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multas de hasta diez veces el salario mínimo en Baja California.
+ART. 846.- El Juez pondrá a disposición del partidor los autos y, bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multas de hasta diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6459,9 +6461,9 @@ ART. 933.- El Juez y las partes podrán interrogar a los testigos con relación 
 
 ART. 934.- La audiencia se llevará a cabo dentro de los quince días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial deberá ser proveída dentro del término de tres días.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 935.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad el no estar en aptitud de hacerlo, se impondrá al Actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por quince días, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta de diez veces el salario mínimo en Baja California, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante, las partes, en caso de que se ofrezca la prueba confesional, deberán ser citados con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+ART. 935.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad el no estar en aptitud de hacerlo, se impondrá al Actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por quince días, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta de diez veces el valor diario de la Unidad de Medida y Actualización vigente, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante, las partes, en caso de que se ofrezca la prueba confesional, deberán ser citados con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -6763,9 +6765,9 @@ ART. 955.- El comisario o gendarme que entregue la cita recogerá, en una libret
 
 En el Juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de entregar citas.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-ART. 956.- En los casos a que se refiere el artículo 952, el recibo se firmará por la persona a quien, se hiciere la citación. Si no supiere, o no pudiere firmar, lo hará a su ruego, un testigo; si no quisiera firmar o presentar testigos, que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de hasta el equivalente a un salario mínimo.
+ART. 956.- En los casos a que se refiere el artículo 952, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará a su ruego, un testigo; si no quisiera firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de hasta el equivalente al valor de una Unidad de Medida y Actualización diaria vigente.
 
 En la libreta se asentará la razón de lo ocurrido.
 
@@ -7440,3 +7442,19 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 133 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS DE LOS ARTÍCULOS 64, 157, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO DÉCIMO SEXTO, Y SE ADICIONA UN CAPÍTULO II DENOMINADO "DEL PROCEDIMIENTO DE RESTITUCIÓN DE MENORES" QUE SE COMPONE DE LOS ARTÍCULOS 942 BIS, 942 TER, 942 QUÁTER, 942 QUINQUIES, 942 SEXIES, 942 SEPTIES, 942 OCTIES, 942 NONIES, 942 DECIES, 942 UNDECIES Y DOUDECIES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
