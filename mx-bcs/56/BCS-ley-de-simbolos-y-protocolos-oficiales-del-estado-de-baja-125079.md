@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-simbolos-y-protocolos-oficiales-del-estado-de-baja-12507
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-31"
-last_updated: "2017-12-31"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SÍMBOLOS Y PROTOCOLOS OFICIALES DEL ESTADO DE BAJA CALIFORNIA SUR.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Número 50 del Boletín Oficial del Gobierno del Estado de Baja California Sur, el domingo 31 de Diciembre de 2017.
 
@@ -119,13 +119,15 @@ La Bandera del Estado consiste en un rectángulo de color blanco con proporción
 
 Los edificios públicos y los planteles educativos deben contar con la Bandera del Estado, con el objeto de rendirle honores y utilizarse en actos cívicos.
 
-El saludo civil a la Bandera del Estado es de pie en posición de firmes y con la cabeza descubierta, colocando la mano derecha sobre el pecho, a la altura del corazón.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 La Bandera del Estado no saludará a persona o símbolo alguno, salvo mediante ligera inclinación y sin tocar el suelo a:
 
 I. Otra bandera estatal, nacional o extranjera;
 
-II. Los restos o símbolos de los héroes de la Patria o del Estado; o
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II. Los restos o símbolos de los héroes de la Patria o del Estado;
 
 III. El Presidente de la República, el Gobernador del Estado o un Jefe de Estado extranjero en caso de reciprocidad internacional, para corresponder su saludo.
 
@@ -159,9 +161,11 @@ El Himno del Estado podrá reproducirse o ejecutarse, total o parcialmente, en a
 
 En ceremonias cívicas u oficiales en las que ambos concurran, la reproducción o ejecución del Himno Nacional siempre se hará con antelación a la del Himno del Estado.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 18.
 
-El Himno del Estado debe interpretarse de pie en posición de firmes, con respeto y solemnidad, y con la cabeza descubierta.
+El Himno del Estado de Baja California Sur debe ser interpretado con el merecido respeto y solemnidad por todos los presentes, de pie en posición de firmes, con la cabeza descubierta con la palma de la mano derecha sobre el pecho a la altura del corazón.
 
 ###### Artículo 19.
 
@@ -404,3 +408,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2572 SE REFORMA AL ARTÍCULO 18 Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 10, DE LA LEY DE SÍMBOLOS Y PROTOCOLOS OFICIALES DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
