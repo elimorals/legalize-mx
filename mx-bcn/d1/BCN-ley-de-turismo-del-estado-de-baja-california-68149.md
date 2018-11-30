@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2015-06-26"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -1215,17 +1215,17 @@ Si la queja fuese contra de (sic) servidores públicos, la Secretaría la canali
 
 Cuando derivado de las visitas de verificación se determine el incumplimiento, por parte del prestador de servicios turísticos, de las obligaciones establecidas en esta Ley, se le aplicarán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-I.- Las infracciones a las obligaciones consignadas en las fracciones I a la VIII del Artículo 65 de la presente Ley serán sancionadas con multa hasta por el equivalente de cuatrocientas veces el salario mínimo diario vigente en la Entidad.
+I.- Las infracciones a las obligaciones consignadas en las fracciones I a la VIII del artículo 65 de la presente Ley serán sancionadas con multa hasta por el equivalente de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II.- Las infracciones a lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refiere el Artículo 61 de esta Ley, así como el incumplimiento a las obligaciones consignadas en el Artículo 65, fracciones IX, X, XI, XIV, XVI, XVII y XIX del presente ordenamiento, se sancionarán con multa hasta de mil veces el salario mínimo diario vigente en el Estado.
+II.- Las infracciones a lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refiere el Artículo 61 de esta Ley, así como el incumplimiento a las obligaciones consignadas en el artículo 65, fracciones IX, X, XI, XIV, XVI, XVII y XIX del presente ordenamiento, se sancionarán con multa hasta de mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-III.- Las infracciones a las obligaciones consignadas en las fracciones XII, XIII, XV y XVIII del Artículo 65 de este ordenamiento, se sancionarán con multa hasta por el equivalente de mil veces el salario mínimo diario vigente en el Estado.
+III.- Las infracciones a las obligaciones consignadas en las fracciones XII, XIII, XV y XVIII del artículo 65 de este ordenamiento, se sancionarán con multa hasta por el equivalente de mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTÍCULO 88.
 
@@ -1318,3 +1318,19 @@ P.O. 28 DE JUNIO DE 2013.
 P.O. 26 DE JUNIO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
