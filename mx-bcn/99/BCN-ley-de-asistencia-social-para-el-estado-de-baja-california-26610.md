@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2018-10-19"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -69,6 +69,10 @@ VII.- Ley.- La Ley de Asistencia Social para el Estado de Baja California;
 
 VIII.- Secretaría.- La Secretaría de Desarrollo Social.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 2 BIS.- La asistencia social a favor de niñas, niños y adolescentes en los términos de este ordenamiento, será aplicable sin detrimento de la protección integral de sus derechos, de conformidad con la Ley para la Protección y Defensa de los Derechos de Niñas, Niños y Adolescentes del Estado.
+
 ###### ARTÍCULO 3.
 
 El Poder Ejecutivo del Estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren para su pleno desarrollo, también apoyará, en su formación, subsistencia, desarrollo e integración a la sociedad a individuos y grupos vulnerables con carencias esenciales no superables en forma autónoma por ellos.
@@ -83,21 +87,21 @@ Para los efectos de esta Ley, se entienden como servicios básicos en materia de
 
 I.- La atención a personas que tengan necesidades especiales causadas por alguna discapacidad, algún trastorno del desarrollo, o indigencia, que les pudiera impedir satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II.- La atención sistémica e integral en establecimientos especializados a personas menores de edad, en especial aquellos que se encuentren en situación de riesgo o afectados por desnutrición u obesidad, personas que no tengan la capacidad, para comprender el significado del hecho y adultos mayores de sesenta años de edad en estado de abandono o maltrato; y en general, a la familia, célula básica y fundamental de la sociedad.
+II.- La atención sistemática e integral en establecimientos especializados a niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por desnutrición u obesidad, personas con algún tipo de discapacidad mental y adultos mayores en estado de abandono o maltrato; y en general, a la familia, célula básica y fundamental de la sociedad.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-III.- La promoción del bienestar del adulto mayor de sesenta años de edad y el desarrollo de acciones de preparación para la senectud, a personas carentes de recursos;
+III.- La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud, a personas carentes de recursos;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-IV.- El ejercicio de la tutela de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, en los términos de las disposiciones legales aplicables;
+IV.- El ejercicio de la tutela de niñas, niños y adolescentes o personas con discapacidad intelectual, en los términos de las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social a personas menores de dieciocho años de edad, adultos mayores de sesenta años de edad, personas con capacidades diferentes, y víctimas de violencia familiar;
+V.- La prestación de servicios de asistencia jurídica y de orientación social a niñas, niños y adolescentes, adultos mayores, personas con discapacidad y víctimas de violencia familiar;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -105,13 +109,13 @@ VII.- El apoyo a la educación y capacitación para el trabajo de personas con c
 
 VIII.- La prestación de servicios funerarios, a personas carentes de recursos;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-IX.- La prevención de cualquier tipo de capacidad diferente y su rehabilitación en centros especializados;
+IX.- La prevención de la discapacidad, la habilitación y la rehabilitación en centros especializados e integración a la vida productiva o activa de personas con algún tipo de discapacidad;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-X.- La orientación nutricional y la alimentación subsidiaria, a personas de escasos recursos, a la población de zonas marginadas y el otorgamiento de desayunos escolares gratuitos a todos los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado; privilegiando a aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación. Los apoyos alimentarios que al efecto otorguen las autoridades estatales y municipales deberán contener un valor nutricional equilibrado, suficiente y necesario para el adecuado desarrollo de las personas, de conformidad con los estándares internacionales y programas que en la materia establece la Ley de Salud Pública para el Estado;
+X.- La orientación nutricional y la alimentación subsidiaria, a personas de escasos recursos, a la población de zonas marginadas y el otorgamiento de desayunos escolares gratuitos a todas las niñas, niños y adolescentes que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicados en el territorio del Estado; privilegiando a aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación. Los apoyos alimentarios que al efecto otorguen las autoridades estatales y municipales deberán contener un valor nutricional equilibrado, suficiente y necesario para el adecuado desarrollo de las personas, de conformidad con los estándares internacionales y programas que en la materia establece la Ley de Salud Pública para el Estado;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -121,11 +125,13 @@ XII.- El desarrollo comunitario en localidades y zonas sociales económicamente 
 
 XIII.- El establecimiento y manejo del Sistema Estatal de Información Básica en Materia de Asistencia Social;
 
-XIV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+XIV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a las niñas, niños y adolescentes, así como la que se refiera al estímulo para la contratación de adultos mayores y personas con alguna discapacidad.
 
-XV.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de las personas menores de dieciocho años de edad a la satisfacción de sus necesidades y a la salud física y mental;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XV.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de las niñas, niños y adolescentes a la satisfacción de sus necesidades y a la salud física y mental;
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
@@ -141,47 +147,59 @@ XVII.- Los análogos a los anteriores que tiendan a modificar y mejorar las circ
 
 Son sujetos a la recepción de servicios de asistencia social previstos por esta Ley preferentemente los siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-I.- Personas menores de dieciocho años de edad en estado de abandono, desamparo, desnutrición u obesidad, sujetos a maltrato o expuestos a ser víctimas de explotación o corrupción y los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, para los efectos que establece la fracción X, del artículo 4 de esta Ley;
+I.- Niñas, niños y adolescentes en estado de abandono, desamparo, desnutrición u obesidad, sujetos a maltrato o expuestos a ser víctimas de explotación o corrupción o cualquier delito, en situación de migración o repatriados y los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, para los efectos que establece la fracción X, del artículo 4 de esta Ley.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II.- Personas menores de dieciocho años de edad vulnerables por su exposición continua a la calle;
+II.- Las Niñas, niños y adolescentes vulnerables por su exposición continua a la calle;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-III.- Personas menores de dieciocho años de edad infractores en lo referente a su atención integral y reintegración a la familia y a la sociedad, sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+III.- Adolescentes que cometan conductas tipificadas como delito en lo referente a su atención integral y reintegración a la familia y a la sociedad, sin menoscabo de lo que establezca la legislación aplicable;
 
-IV.- Alcohólicos o farmacodependientes, en estado de abandono o indigencia;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-V.- Mujeres en períodos de gestación o lactancia, carentes de recursos económicos o maltratadas;
+IV.- Alcohólicos o farmacodependientes, en estado de abandono o indigencia, así como los dependientes de estos;
 
-VI.- Madres solteras en condiciones de pobreza extrema;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+V.- Mujeres en períodos de gestación o lactancia, adolescentes, carentes de recursos económicos, victimas de abandono o maltrato y en situación de explotación.
 
-VII.- Adultos mayores de sesenta años de edad que se encuentren en desamparo, marginación, sujetos a maltrato;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+VI.- Madres solteras en condiciones económicas desfavorables y al cuidado de niñas, niños y adolescentes;
 
-VIII.- Personas con capacidades diferentes que les limiten realizar por sí mismas actividades necesarias para su desempeño físico, mental, social ocupacional y económico;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-IX.- Personas que por su extrema pobreza o ignorancia requieran de servicios asistenciales;
+VII.- Adultos mayores que se encuentren en desamparo, marginación, con discapacidad, sujetos a maltrato o que ejerzan la patria potestad de algún (sic) niña, niño y adolescente;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-X.- Víctimas de la comisión de delitos en estado de abandono, con especial atención a víctimas de violencia familiar;
+VIII.- Personas con alguna discapacidad que les impida realizar actividades necesarias para su desempeño físico, mental, social ocupaciones y económico;
 
-XI.- Familiares que dependen económicamente de quienes se encuentren privados de su libertad por causas penales y que por ello queden en estado de abandono;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Personas que, por su condición económica desfavorable, falta de instrucción o alfabetización, requieren de servicios asistenciales;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+X.- Víctimas de la comisión de cualquier delito, con especial atención a víctimas de violencia familiar;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Familiares que dependen económicamente de quienes se encuentren privados de su libertad por causas penales, o de personas desaparecidas y que por ello queden en estado de abandono;
 
 XII.- Habitantes marginados del medio rural o urbano que carezcan de lo indispensable para su subsistencia;
 
-XIII.- Personas afectadas por desastres en estado de abandono o indigencia;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+XIII.- Personas afectadas por desastres, en estado de abandono o indigencia;
 
-XIV.- Personas que no tengan la capacidad para comprender el significado del hecho;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XIV.- Las personas con discapacidad mental.
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -195,9 +213,9 @@ XVI.- En general, todas las familias, incluyendo a aquellas que, por encontrarse
 
 De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Poder Ejecutivo del Estado, como autoridad local en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de su jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Para dar pleno cumplimiento a lo dispuesto en la fracción X del artículo 4 de la presente Ley, el Ejecutivo Estatal instruirá y fijará los mecanismos de coordinación entre las Secretarías de Salud, de Desarrollo Social y de Educación y Bienestar Social del Estado, para que con el apoyo del Sistema Estatal de Asistencia Social se realicen los planes y programas para el otorgamiento de desayunos escolares gratuitos a todos los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, iniciando los programas respectivos en aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación.
+Para dar pleno cumplimiento a lo dispuesto en la fracción X del artículo 4 de la presente Ley, el Ejecutivo instruirá y fijará los mecanismos de coordinación entre las Secretarías de Salud, de Desarrollo Social y de Educación y Bienestar Social del Estado, para que con el apoyo del Sistema Estatal de Asistencia Social se realicen los planes y programas para el otorgamiento de desayunos escolares gratuitos a todas las niñas, niños y adolescentes que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, iniciando los programas respectivos en aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación.
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
@@ -355,7 +373,9 @@ II.- Apoyar al desarrollo integral de la familia, de la comunidad y los grupos v
 
 III.- Realizar acciones de apoyo educativo, y de capacitación para el trabajo, para lograr la integración familiar y social de las personas sujetas a la asistencia social;
 
-IV.- Promover e impulsar el sano desarrollo físico, mental y social de la niñez;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Promover e impulsar el sano desarrollo físico, mental y social de las niñas, niños y adolescentes;
 
 V.- Administrar el patrimonio de la asistencia social pública y realizar las funciones relacionadas con la misma; así como proponer programas de asistencia social que contribuyan al uso eficiente de los bienes que lo componen;
 
@@ -363,39 +383,41 @@ VI.- Fomentar y apoyar las actividades que realicen las Instituciones de asisten
 
 VII.- Emitir opinión sobre el otorgamiento de subsidios a Instituciones públicas o privadas que actúen en el campo de la asistencia social en los términos previstos por la Ley de Fomento a las Actividades de Bienestar y Desarrollo Social para el Estado;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-VIII.- Operar establecimientos de asistencia social en beneficio de personas menores de dieciocho años de edad en estado de abandono, personas que no tengan la capacidad para comprender el significado del hecho, adultos mayores de sesenta años de edad desamparados y de personas con capacidades diferentes sin recursos;
+VIII.- Operar establecimientos de asistencia social en beneficio de niñas, niños y adolescentes en estado de abandono, adultos mayores desamparados y de personas con discapacidad que no cuenten con recursos económicos;
 
 IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación en su caso de las autoridades asistenciales del Poder Ejecutivo del Estado y de los municipios;
 
 X.- Realizar y promover la capacitación de recursos humanos para la asistencia social;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-XI.- Prestar servicios de asistencia jurídica y de orientación social a personas menores de dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho, adultos mayores de sesenta años de edad, personas con capacidades diferentes que por sus condiciones de necesidad lo requieran;
+XI.- Prestar servicios de asistencia jurídica y de orientación social a niñas, niños y adolescentes, adultos mayores, personas con discapacidad que por sus condiciones de necesidad lo requieran;
 
 XII.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-XIII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de personas menores de dieciocho años de edad o de personas que no tengan la capacidad para comprender el significado del hecho y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+XIII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de niñas, niños y adolescentes o de personas (sic) discapacidad mental y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
-XIV.- Participar en programas de rehabilitación y educación especial, en coordinación con la Secretaria de Salud del Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+XIV.- Participar en programas de rehabilitación y educación especial, en coordinación con las Secretarías de Educación y Bienestar Social y la de Salud del Estado, de acuerdo con las disposiciones legales correspondientes;
 
-XV.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XV.- Proponer a las autoridades correspondiente (sic) la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con discapacidad, así como el respeto de este por parte de la ciudadanía.
 
 XVI.- Elaborar y proponer a la Junta de Gobierno los reglamentos que se requieran en la materia observando su estricto cumplimiento;
 
 XVII.- Las demás que establezcan las disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 18.
 
-El DIF Estatal contará con la Procuraduría para la Defensa las (sic) personas menores de dieciocho años de edad y la Familia, como órgano especializado dotado de autonomía técnica y operativa para brindar protección jurídica a la integridad familiar, a las personas menores de dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho, a los adultos mayores de sesenta años de edad y personas con capacidades diferentes sin recursos económicos, la cual tendrá las atribuciones que le otorga esta Ley, y las que le confieran otras leyes dentro de los objetivos del Sistema para el Desarrollo Integral de la Familia de Baja California.
+El DIF Estatal contará con la Procuraduría para la Protección de Niñas, Niños y Adolescentes y la Familia, como órgano especializado dotado de autonomía técnica y operativa para brindar protección jurídica a la integridad familiar, a las niñas, niños y adolescentes, adultos mayores y personas con discapacidad sin recursos económicos, la cual tendrá las atribuciones que le otorga esta Ley, la Ley para la Protección y Defensa de los Derechos de Niñas, Niños y Adolescentes del Estado, a los adultos mayores y personas con discapacidad sin recursos económicos y aquellas con discapacidad mental, así como todas aquellas que le confieran otras leyes dentro de los objetivos del Sistema para el Desarrollo Integral de la Familia de Baja California.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -409,7 +431,9 @@ II.- Proporcionar la información necesaria para que la persona decida conscient
 
 III.- Entablar lazos de coordinación para que exista una interconectividad entre el Centro de Desarrollo y Formación para la Familia Bajacaliforniana y la sociedad civil, instancias gubernamentales e iniciativa privada para la organización de distintas actividades que contribuyan al Fortalecimiento y Desarrollo Integral familiar que alienten la prevención de riesgos psicosociales.
 
-IV.- Coadyuvar a las personas a través de terapias psicológicas u orientación familiar a solucionar ciertos conflictos o situaciones que no le permiten alcanzar su desarrollo y que prevengan circunstancias de riesgo que pudieran presentárseles en el núcleo familiar.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Coadyuvar a las personas a través de terapias psicológicas, cursos, asesoría u orientación familiar para solucionar ciertos conflictos o situaciones que no le permiten alcanzar su desarrollo y que prevengan circunstancias de riesgo que pudieran presentárseles en el núcleo familiar, ya sea en materia de pareja, maternidad, paternidad, entre otros.
 
 V.- Posicionar los servicios del Centro en la comunidad, y realizar estudios de investigación y estadística que nos reflejen la mejora continua en la situación de la Familia.
 
@@ -419,15 +443,19 @@ VI.- Realizar gestiones de apoyo para canalizar a personas que asistan al Centro
 
 En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de la misma naturaleza por los que se causen daños a la población, el DIF Estatal, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la administración pública federal, estatal o municipal, promoverá la atención y coordinación de las acciones de los sectores social y privado que actúen en beneficio de aquellos, en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 20.
 
-En la prestación de servicios y en la realización de acciones, el DIF Estatal actuará en coordinación con la Secretaría y las demás dependencias y entidades del Poder Ejecutivo del Estado y de los municipios, según la competencia que a éstas otorgan las leyes.
+En la prestación de servicios y en la realización de acciones, el DIF Estatal actuará en coordinación con la Secretaría y las demás dependencias y entidades de la Federación, el Poder Ejecutivo del Estado, y de los Municipios, según la competencia que a éstas otorgan las leyes.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 El DIF Estatal promoverá y operará centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad; asimismo, acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales; así como centros y servicios para la atención de personas que tengan algún tipo de trastorno del desarrollo.
 
-El DIF Estatal observará una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen el sector salud y la sociedad.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Además, buscará la implementación de mecanismos para evaluar y declarar la certificación de condición de discapacidad para realizar la emisión de la credencial nacional de discapacidad en concordancia con los sistemas Nacional y los Municipales para el Desarrollo Integral de la Familia.
 
 ###### ARTÍCULO 21.
 
@@ -659,9 +687,9 @@ A propuesta de la Secretaría, el Ejecutivo del Estado dictaminará el otorgamie
 
 El Ejecutivo del Estado, a través de la Secretaría en coordinación con el DIF Estatal, promoverá la organización y participación activa de la comunidad en la atención de aquellos casos, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-El Ejecutivo del Estado y el DIF Estatal pondrán especial atención en la promoción de acciones de la comunidad en beneficio de personas menores de dieciocho años de edad en estado de abandono, personas que no tienen la capacidad para comprender el significado del hecho, adultos mayores de sesenta años de edad, o con personas con capacidades diferentes.
+El Ejecutivo del Estado y el DIF Estatal pondrán especial atención en la promoción de acciones de la comunidad en beneficio de niñas, niños y adolescentes en estado de vulnerabilidad, adultos mayores o personas con discapacidad, incluyendo las de naturaleza mental.
 
 ###### ARTÍCULO 45.
 
@@ -1436,5 +1464,11 @@ P.O. 26 DE JUNIO DE 2015.
 P.O. 19 DE OCTUBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 265 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7 Y 10 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 273 MEDIANTE EL CUAL SE APRUEBA (SIC) REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
