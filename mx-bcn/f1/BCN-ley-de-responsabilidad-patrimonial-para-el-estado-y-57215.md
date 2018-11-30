@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidad-patrimonial-para-el-estado-y-57215"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-05"
-last_updated: "2015-11-20"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2007.
 
@@ -161,7 +161,9 @@ I.- En el caso de daño material, se indemnizará de forma integral. El monto de
 
 II.- Cuando el daño se cause a las personas y produzca la muerte, incapacidad permanente total o parcial, o temporal, el monto de la indemnización se determinará de acuerdo con las cantidades que establece la Ley Federal del Trabajo para riesgos de trabajo.
 
-Para calcular la indemnización que corresponda se tomará como base el equivalente a cinco veces el salario mínimo general diario vigente en el Estado. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Para calcular la indemnización que corresponda se tomará como base el equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización vigente. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
 
 El reclamante de indemnización por daños personales tendrá derecho a que se le cubran los gastos médicos que en su caso se eroguen, incluyendo todos los que la propia Ley Federal del Trabajo señala para riesgos de trabajo. En este caso, el monto de la indemnización se limitará al costo que para las instituciones de salud pública del Estado tengan los servicios médicos recibidos por el reclamante.
 
@@ -171,11 +173,17 @@ III.- En el caso de daño moral, el monto de la indemnización se calculará de 
 
 Los perjuicios se indemnizarán de acuerdo a las condiciones y limitantes siguientes:
 
-I.- Cuando su cuantificación en dinero no exceda de cinco mil veces el salario mínimo general vigente en el Estado, se indemnizará al cien por ciento.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II.- Cuando la cuantificación de los perjuicios en dinero exceda de cinco mil veces pero no de diez mil veces el salario mínimo general vigente en el Estado, este excedente se indemnizará al cincuenta por ciento, debiéndose pagar además la cantidad que se determine conforme a la fracción anterior.
+I.- Cuando su cuantificación en dinero no exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, se indemnizará al cien por ciento.
 
-III.- Cuando la cuantificación de los perjuicios en dinero exceda de diez mil veces el salario mínimo general vigente en el Estado, este excedente se indemnizará al veinticinco porciento (sic), debiéndose pagar además las cantidades que se determinen conforme a las fracciones I y II anteriores.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Cuando la cuantificación de los perjuicios en dinero exceda de cinco mil veces pero no de diez mil (sic) el valor diario de la Unidad de Medida y Actualización vigente, este excedente se indemnizará al cincuenta por ciento, debiéndose pagar además la cantidad que se determine conforme a la fracción anterior.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Cuando la cuantificación de los perjuicios en dinero exceda de diez mil veces el valor diario de la Unidad de Medida y Actualización vigente, este excedente se indemnizará al veinticinco por ciento, debiéndose pagar además las cantidades que se determinen conforme a las fracciones I y II anteriores.
 
 El reclamante deberá acreditar los perjuicios que le han sido ocasionados por virtud de la actividad administrativa irregular del ente público, con los documentos a que se refiere esta Ley.
 
@@ -530,3 +538,19 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
