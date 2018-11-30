@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2018-06-08"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -381,13 +381,13 @@ En todo caso el tratamiento en libertad deberá garantizar la dignidad y la libe
 
 Concepto.- La sanción pecuniaria comprende la multa y la reparación del daño.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-Días Multa.- La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de quinientos, salvo los casos que la propia Ley prevea. El día multa equivale a la unidad de medida y actualización vigente en el momento de cometerse el delito.
+Días Multa.- La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de quinientos, salvo los casos que la propia Ley prevea. El día multa equivale a la percepción neta diaria del imputado en el momento de cometer el delito, tomando en cuenta todas sus percepciones; para los efectos de este Código, el límite inferior del día multa será el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse el delito.
 
-Fijación de la multa para el delito continuado y permanente.- Por lo que toca al delito continuado, se atenderá a la unidad de medida y actualización vigente en el momento consumativo de la última conducta; para el permanente, se considerará la unidad de medida y actualización en vigor en el momento en que cesó la consumación.
+Fijación de la multa para el delito continuado y permanente.- Por lo que toca al delito continuado, se atenderá al valor diario de la Unidad y Medida de Actualización vigente en el momento consumativo de la última conducta; para el permanente, se considerará al valor diario de la Unidad y Medida de Actualización en vigor en el momento en que cesó la consumación.
 
 ###### Artículo 30.
 
@@ -559,15 +559,15 @@ Obligación del imputado al pago de la reparación del daño.- Si no alcanza a c
 
 Plazos para el pago de la reparación del daño.- La autoridad judicial tomando en cuenta la situación económica del obligado y a petición de parte interesada, podrá fijar plazos para el pago de la reparación del daño, siempre y cuando no exceda de un año y se garantice suficientemente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 43.
 
-Reparación del daño moral.- La reparación del daño moral será fijada por los Jueces de Control o Tribunal de Enjuiciamiento, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de ésta, tales como su educación, sensibilidad, afectos, cultura y demás similares que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de mil días de salario del obligado; a falta de prueba, se considerará el salario mínimo vigente en el lugar en que resida; para lo cual se tendrá en cuenta el grado de afectación de la víctima y el tipo de terapia que se requiera.
+Reparación del daño moral.- La reparación del daño moral será fijada por los Jueces de Control o Tribunal de Enjuiciamiento, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de ésta, tales como su educación, sensibilidad, afectos, cultura y demás similares que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de mil Unidades de Medida y Actualización del obligado; a falta de prueba, se considerará la Unidad de Medida y Actualización vigente; en el lugar en que resida; para lo cual se tendrá en cuenta el grado de afectación de la víctima y el tipo de terapia que se requiera.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Además de las penas señaladas en este Código, se impondrá sanción pecuniaria de cien hasta mil veces el salario mínimo vigente al momento de la comisión del delito, por concepto de reparación del daño moral, si de conformidad con las constancias procesales así como las pruebas aportadas, se determina que por la afectación psicológica de la víctima resultare que deberá proporcionarse terapia de apoyo a corto plazo; si resulta que deberá proporcionarse psicoterapia a largo plazo, se impondrá sanción pecuniaria de trescientos a tres mil veces el salario mínimo.
+Además de las penas señaladas en este Código, se impondrá sanción pecuniaria de cien hasta mil veces el valor diario de Unidad y Medida de Actualización vigente al momento de la comisión del delito, por concepto de reparación del daño moral, si de conformidad con las constancias procesales así como las pruebas aportadas, se determina que por la afectación psicológica de la víctima resultare que deberá proporcionarse terapia de apoyo a corto plazo; si resulta que deberá proporcionarse psicoterapia a largo plazo, se impondrá sanción pecuniaria de trescientos a tres mil veces el valor diario de la Unidad y Medida de Actualización.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -599,7 +599,7 @@ IX.- (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-Para efectos de este, Capítulo se entiende por daño moral, el sufrimiento originado a una persona por causa de un delito, en sus sentimientos, decoro, afectos, creencias, honor, reputación, vida privada o aspecto físico, así como el trastorno mental de cualquier clase que requiera asistencia o terapia psicológica o psiquiátrica.
+Para efectos de este Capítulo se entiende por daño moral, el sufrimiento originado a una persona por causa de un delito, en sus sentimientos, decoro, afectos, creencias, honor, reputación, vida privada o aspecto físico, así como el trastorno mental de cualquier clase que requiera asistencia o terapia psicológica o psiquiátrica.
 
 ###### Artículo 44.
 
@@ -1021,7 +1021,7 @@ III.- (DEROGADA, P.O. 8 DE JUNIO DE 2018)
 
 ###### Artículo 86.
 
-Requisitos para la substitución.- Para los efectos de la substitución, se requerira, además, que:
+Requisitos para la substitución.- Para los efectos de la substitución, se requerirá, además, que:
 
 > <small>(REFORMADA POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1507,9 +1507,9 @@ VI. El cuerpo de la víctima sea expuesto o arrojado en un lugar público;
 
 VII. La víctima haya sido incomunicada.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-A quien cometa el delito de feminicidio se le impondrá una sanción de treinta a sesenta años de prisión, además de una multa de 200 a 500 días.
+A quien cometa el delito de feminicidio se le impondrá una sanción de veinte a cincuenta años de prisión, además de una multa de 200 a 500 el valor diario de la Unidad de Medida y Actualización vigente.
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
@@ -1861,9 +1861,13 @@ IV.- Que el autor sea, o haya sido integrante de alguna institución de segurida
 
 > <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-Artículo 171 BIS. Al que con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval,
+Artículo 171 BIS.- Al que con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval,
 
 (sic) Utilice medios ilícitos e ilegítimos, se valga del engaño, o efectúe actos de hostigamiento, e intimidación, se le impondrá prisión de tres meses a un año y una multa de ciento cincuenta a trescientos días de salario mínimo, además de las sanciones que correspondan si para tal efecto se emplearon documentación, sellos falsos o se usurparon funciones públicas o de profesión. Para la reparación del daño cometido se estará a lo dispuesto en el artículo 44 de este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Utilice medios ilícitos e ilegítimos, se valga del engaño, o efectúe actos de hostigamiento, e intimidación, se le impondrá prisión de tres meses a un año y una multa de ciento cincuenta a trescientos veces el valor diario de la Unidad de Medida y Actualización días de salario mínimo, además de las sanciones que correspondan si para tal efecto se emplearon documentación, sellos falsos o se usurparon funciones públicas o de profesión. Para la reparación del daño cometido se estará a lo dispuesto en el artículo 44 de este Código.
 
 ###### Artículo 164.
 
@@ -2005,9 +2009,9 @@ Si el amenazador cumple su amenaza se acumulará la sanción de ésta y la del d
 
 Artículo 175 BIS.- A quien sin autorización o indebidamente, modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y multa equivalente de cien a trescientos días.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Artículo 175 TER.- A quien sin autorización o indebidamente, copie o accese a información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de tres meses a un año de prisión y multa equivalente de cincuenta a ciento cincuenta días de salario mínimo vigente.
+Artículo 175 TER.- A quien sin autorización o indebidamente, copie o accese a información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de tres meses a un año de prisión y multa (sic) veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2345,15 +2349,21 @@ Consumación del robo.- Para la aplicación de la sanción se dará por consumad
 
 Punibilidad.- A quien cometa el delito de robo se le impondrán las penas siguientes:
 
-I.- De seis meses a tres años de prisión y hasta cien días multa, cuando el valor de lo robado no exceda de ochenta veces el salario.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II.- De tres a seis años de prisión y de cien a doscientos días multa, cuando el valor de lo robado exceda de ochenta veces pero no de doscientos cincuenta veces el salario.
+I.- De seis meses a tres años de prisión y hasta cien veces el valor diario de la Unidad de Medida y Actualización.
 
-III.- De seis a catorce años de prisión y de doscientos hasta quinientos días multa, cuando el valor de lo robado exceda de doscientos cincuenta veces el salario.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+II.- De tres a seis años de prisión y de cien a doscientos días multa, cuando el valor de lo robado exceda de ochenta veces pero no de doscientos cincuenta veces el valor de la Unidad de Medición y Actualización.
 
-Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa o investigación y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el imputado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- De seis a catorce años de prisión y de doscientos hasta quinientos días multa, cuando el valor de lo robado exceda de doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Cuando el valor de lo robado no exceda de 40 veces el valor diario de la Unidad de Medida y Actualización, y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa o investigación y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el imputado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
 
@@ -2555,7 +2565,7 @@ Artículo 208 SEXTUS.- Agravación de la pena.- Si en los actos mencionados en l
 
 ### CAPITULO VI. USURA
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 209.
 
@@ -2731,7 +2741,7 @@ Requisitos de procedibilidad.- Los delitos a que se refiere el presente capítul
 
 ### CAPITULO IX. ADQUISICION RECEPCION U OCULTACION DE BIENES PRODUCTO DE UN DELITO
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 224.
 
@@ -2767,7 +2777,7 @@ VII. El autor del delito sea o haya sido, o se ostente como servidor público, y
 
 ###### Artículo 225.
 
-Se impondrá prisión de dos a diez años y multa de hasta el equivalente a ochocientos días de salario mínimo, al que aprovechándose de la necesidad apremiante, ignorancia, inexperiencia o notoria miseria de una persona, obtenga ventajas usurarias mediante contratos, convenios o documentos en los que se estipulen, para sí o para una tercera persona, intereses o réditos superiores a las tasas de interés, normales o moratorios, de las operaciones celebradas por las entidades financieras con clientes, reguladas por el Banco de México, o que obtenga otros beneficios desproporcionados a los usos comerciales, en especie o en servicios.
+Se impondrá prisión de dos a diez años y multa de hasta el equivalente a ochocientas veces el valor diario de la Unidad de Medida y Actualización, al que aprovechándose de la necesidad apremiante, ignorancia, inexperiencia o notoria miseria de una persona, obtenga ventajas usurarias mediante contratos, convenios o documentos en los que se estipulen, para sí o para una tercera persona, intereses o réditos superiores a las tasas de interés, normales o moratorios, de las operaciones celebradas por las entidades financieras con clientes, reguladas por el Banco de México, o que obtenga otros beneficios desproporcionados a los usos comerciales, en especie o en servicios.
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
@@ -2879,7 +2889,7 @@ Querella.- Los daños en propiedad ajena se perseguirán por querella de parte o
 
 ###### Artículo 232.
 
-Tipo y punibilidad.- Al que a sabiendas de la comisión de un delito y sin haber tenido participación en él, adquiera, reciba en prenda u oculte los objetos provenientes del mismo, por interés propio o ajeno, se le impondrá prisión de seis meses a seis años y hasta cien días multas si el valor de los bienes adquiridos, receptados u ocultados no excede de ciento cincuenta días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de cuatro a nueve años de prisión y de doscientos hasta quinientos días multa.
+Tipo y Punibilidad.- Al que a sabiendas de la comisión de un delito y sin haber tenido participación en él, adquiera, reciba en prenda u oculte los objetos provenientes del mismo, por interés propio o ajeno, se le impondrá prisión de seis meses a seis años y hasta cien días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente; si excede de este valor se aplicará prisión de cuatro a nueve años de prisión y de doscientos hasta quinientos días multa.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2917,11 +2927,11 @@ b) Copia de una documental pública con fotografía que acrediten los datos de i
 
 c) Registro de la fecha, cantidad y tipo de metales que se hayan adquirido, recibido en prenda o guardado, el cual deberá ser proporcionado al Ministerio Público en el ejercicio de sus funciones de investigación, o a la autoridad judicial competente que así lo solicite de conformidad con las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 233.
 
-Tipo y Punibilidad.- Al que sin cerciorarse de su procedencia legítima, adquiera, reciba en prenda o guarde objetos producto de un delito, se le aplicará, de tres meses a tres años y hasta cincuenta días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de setenta y cinco días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de dos a cuatro años de prisión y de cien hasta doscientos cincuenta días multa.
+Tipo y Punibilidad.- Al que sin cerciorarse de su procedencia legitima, adquiera, reciba en prenda o guarde objetos producto de un delito, se le aplicará, de tres meses a tres años y hasta cincuenta días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de setenta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente; si excede de este valor se aplicará prisión de dos a cuatro años de prisión y de cien hasta doscientos cincuenta días multa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
@@ -2930,6 +2940,8 @@ Para los efectos del párrafo anterior, se presume que el sujeto activo no se ce
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
 
 I.- Cuando la adquisición, recepción o guarda de los bienes no se respalde con copia de documental pública con fotografía que acrediten los datos de identificación personal del que le ofreció la cosa; o con copia de la documental que acredite la propiedad o el derecho para disponer de ellos, o con el dicho de dos personas debidamente identificadas que atestigüen que el oferente dispuso de la cosa.
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2006)</small>
 
 II.- No exija un documento idóneo para constatar la legítima propiedad, tratándose de bienes que contengan datos propios de identificación.
 
@@ -3407,13 +3419,15 @@ Tipo y Punibilidad.- A quien maneje un vehículo de motor en estado de ebriedad,
 
 En todos los casos la Autoridad Administrativa remitirá copia certificada de las constancias que integren el registro en que formó el antecedente, a la Agencia del Ministerio Público.
 
-Cuando se cause daño a las personas y/o a las cosas se le impondrá prisión de seis meses a tres años, multa de cincuenta a quinientas veces el salario mínimo y suspensión hasta por un año del derecho a conducir vehículos de motor. La misma pena se impondrá a quien dentro del plazo mencionado contado a partir del apercibimiento incurre en la misma conducta prevista en el primer párrafo del presente artículo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+Cuando se cause daño a las personas y/o a las cosas se le impondrá prisión de seis meses a tres años, multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización y suspensión hasta por un año del derecho a conducir vehículos de motor. La misma pena se impondrá a quien dentro del plazo mencionado contado a partir del apercibimiento incurre en la misma conducta prevista en el primer párrafo del presente artículo.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 256.
 
-Agravación de la pena.- Si el delito se comete por conductores de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, en el momento que se encuentren prestando el servicio público que les fue autorizado, se impondrá, la primera vez, de uno a cuatro años de prisión, multa de cincuenta a trescientos días y suspensión de uno a seis meses en el ejercicio de esta profesión. En caso de que el mismo conductor vuelva a incurrir en la comisión de este ilícito, dentro del plazo de tres años contado a partir de que se cumpla la suspensión, la pena será de dos a seis años de prisión, multa de cien a quinientas veces el salario mínimo y pérdida definitiva del derecho a ejercer la profesión de conductor, además del decomiso del vehículo cuando sea propiedad del responsable.
+Agravación de la pena.- Si el delito se comete por conductores de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, en el momento que se encuentren prestando el servicio público que les fue autorizado, se impondrá, la primera vez, de uno a cuatro años de prisión, multa de cincuenta a trescientos días y suspensión de uno a seis meses en el ejercicio de esta profesión. En caso de que el mismo conductor vuelva a incurrir en la comisión de este ilícito, dentro del plazo de tres años contado a partir de que se cumpla la suspensión, la pena será de dos a seis años de prisión, multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización y pérdida definitiva del derecho a ejercer la profesión de conductor, además del decomiso del vehículo cuando sea propiedad del responsable.
 
 ### CAPITULO III
 
@@ -4037,9 +4051,7 @@ Punibilidad.- A los que cometan el delito de coalición se les impondrá de dos 
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
-###### Artículo 307 Quater.
-
-Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
+Artículo 307 QUATER.- Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
 
 Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
 
@@ -4049,9 +4061,13 @@ Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguien
 
 Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo a las leyes de la materia.
 
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el momento que sucedan los hechos, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el delito.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el momento que se cometieron los hechos, se impondrán de dos a catorce años de prisión, multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el delito.
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente en el momento que sucedan los hechos, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse el delito.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente en el momento que se cometieron los hechos, se impondrán de dos a catorce años de prisión, multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse el delito.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -4337,7 +4353,7 @@ Tipo y punibilidad.- Al que indebidamente destruya, retire, o de cualquier otro 
 
 ### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 317.
 
@@ -4399,7 +4415,7 @@ II.- Al que, para eludir la práctica de una diligencia judicial o una notificac
 
 ### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ## TITULO CUARTO. DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA
 
@@ -4505,15 +4521,19 @@ Evasión culposa.- También es punible la comisión culposa de la evasión de pr
 
 ###### Artículo 332.
 
-Exclusión condicionada al quebrantamiento.- A quien quebrante la pena o medida de seguridad que se le hubiere impuesto, se le aplicará multa de cien veces el salario mínimo o prisión de tres a seis meses.
+Exclusión condicionada al quebrantamiento.- A quien quebrante la pena o medida de seguridad que se le hubiere impuesto, se le aplicará multa de cien veces el valor diario de la Unidad de Medida y Actualización o prisión de tres a seis meses.
 
 > <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 Tratándose de la medida de seguridad relativa al tratamiento para dependientes a las bebidas alcohólicas, estupefacientes o psicotrópicos la pena consistirá en internamiento hasta por el término de sesenta días en el centro de rehabilitación que para tal efecto designe el Juez de Control o Tribunal de Enjuiciamiento.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 En caso de que para el quebrantamiento se hiciere uso de violencia o cause daño, se aumentará la pena de prisión de uno a dos años.
 
-Al que favorezca el quebrantamiento de la pena o medida de seguridad se le impondrá multa administrativa de cincuenta veces el salario mínimo y en caso de que haga uso de violencia se le impondrá además pena de uno a dos años de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida y favoreciere el quebrantamiento, tendrá multa administrativa de cincuenta veces el salario mínimo y pena de prisión de tres años, además inhabilitación para ocupar cargos públicos.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Al que favorezca el quebrantamiento de la pena o medida de seguridad se le impondrá multa administrativa de cincuenta veces el valor diario de la Unidad de Medida y Actualización y en caso de que haga uso de violencia se le impondrá además pena de uno a dos años de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida y favoreciere el quebrantamiento, tendrá multa administrativa de cincuenta veces el valor diario de la Unidad de Medida y Actualización y pena de prisión de tres años, además inhabilitación para ocupar cargos públicos.
 
 > <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -4599,43 +4619,57 @@ Toda persona podrá presentar directamente las denuncias penales que corresponda
 
 En los casos en que las autoridades ambientales municipales o estatales, como resultado del ejercicio de sus atribuciones, tengan conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en este capítulo, formulará ante el Ministerio Público la denuncia correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Artículo 339 BIS.- Se impondrá prisión de tres meses a un año y multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, al que descargue o deposite un metro cúbico o más de residuos sólidos de la industria de la construcción en algún lugar no autorizado por las autoridades competentes.
+
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
-
-###### Artículo 339 Bis.
-
-Se impondrá prisión de tres meses a un año y multa de cincuenta a quinientos días de salario mínimo vigente en la entidad, al que descargue o deposite un metro cúbico o más de residuos sólidos de la industria de la construcción en algún lugar no autorizado por las autoridades competentes.
 
 Las mismas penas se impondrán a quien auxilie, coopere, consienta o participe en la comisión de las conductas previstas en el párrafo anterior.
 
-Cuando las actividades descritas en el primer párrafo del presente artículo, se lleven a cabo en un área natural protegida de competencia estatal o municipal, la pena se elevará hasta un año más de prisión y la multa hasta quinientos días de salario mínimo vigente en la entidad.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
+Cuando las actividades descritas en el primer párrafo del presente artículo, se lleven a cabo en un área natural protegida de competencia estatal o municipal, la pena se elevará hasta un año más de prisión y la multa hasta quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 340.
 
-Se impondrá prisión de uno a siete años y multa de cincuenta a tres mil quinientos días de salario mínimo vigente en la entidad, al que:
+Se impondrá prisión de uno a siete años y multa de cincuenta a tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, al que:
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
 
 I.- Ilícitamente o sin aplicar las medidas de prevención o seguridad, autorice, ordene, emita, despida o descargue en la atmósfera, gases, humos, polvos, líquidos o partículas contaminantes provenientes de fuentes fijas de competencia estatal o municipal;
 
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
+
 II.- Ilícitamente realice, ordene o autorice la descarga o depósito de aguas residuales, químicos o bioquímicos, desechos, residuos o sustancias contaminantes en el territorio del Estado o en aguas de competencia estatal o municipal que rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las normas técnicas estatales vigentes; y
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
 
 III.- Ilícitamente o sin aplicar las medidas de prevención o seguridad, o violentando las normas de seguridad u operación aplicables, realice, ordene o autorice la realización de actividades riesgosas en los términos de la Ley de Protección al Ambiente para el Estado de Baja California y su reglamento.
 
-Cuando las actividades a que se refiere esta fracción se lleven acabo (sic) en un centro de población, se elevará la pena hasta tres años más de prisión y la multa de cien hasta diez mil días de salario mínimo vigente en la entidad.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Cuando las actividades a que se refiere esta fracción se lleven acabo (sic) en un centro de población, se elevará la pena hasta tres años más de prisión y la multa de cien hasta diez mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
 
 Las mismas penas se impondrán a quien auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques del Estado, derivados de la comisión de las conductas previstas en la fracción III de este artículo, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra.
 
-En el caso de que las actividades descritas en las fracciones I y II anteriores se lleven a cabo en un área protegida de competencia estatal, se elevará la pena hasta tres años más de prisión y la multa hasta diez mil días de salario mínimo vigente en la entidad.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2007)</small>
+En el caso de que las actividades descritas en las fracciones I y II anteriores se lleven a cabo en un área protegida de competencia estatal, se elevará la pena hasta tres años más de prisión y la multa hasta diez mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-Artículo 340 BIS.- A quien sin autorización de autoridad ambiental competente, extraiga, corte, tale o trasplante uno o varios árboles ubicados en áreas públicas de competencia estatal o municipal o en terrenos estatales forestales, se le impondrá pena de prisión de seis meses a siete años y multa de cincuenta a dos mil quinientos días de salario mínimo vigente en la entidad.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+Artículo 340 BIS.- A quien sin autorización de autoridad ambiental competente, extraiga, corte, tale o trasplante uno o varios árboles ubicados en áreas públicas de competencia estatal o municipal o en terrenos estatales forestales, se le impondrá pena de prisión de seis meses a siete años y multa de cincuenta a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 341.
 
-Se impondrá prisión de uno a tres años y multa por el equivalente de cincuenta a mil quinientos días de salario mínimo vigente en la entidad al que:
+Se impondrá prisión de uno a tres años y multa por el equivalente de cincuenta a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al que:
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
 
@@ -4661,15 +4695,17 @@ V.- Proporcione documentos o información falsa u omita datos con el objeto de q
 
 VI.- Sea sancionado por la autoridad ambiental estatal competente, por incurrir en la misma conducta, en tres o más ocasiones dentro del periodo de dos años.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Cuando las conductas a que se refiere este artículo e (sic) lleven a cabo por los auditores ambientales, presentadores (sic) de servicio, peritos en monitoreo, propietarios, técnicos o encargados de centros de verificación, señalados en la Ley de Protección al Ambiente para el Estado de Baja California, la pena correspondiente se aumentara de tres hasta siete años de prisión y multa hasta cinco mil quinientos días de salario mínimo vigente en la entidad.
+Cuando las conductas a que se refiere este artículo e (sic) lleven a cabo por los auditores ambientales, presentadores de servicio, peritos en monitoreo, propietarios, técnicos o encargados de centros de verificación, señalados en la Ley de Protección al Ambiente para el Estado de Baja California, la pena correspondiente se aumentara de tres hasta siete años de prisión y multa hasta cinco mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 342.
 
-Al que intencionalmente realice algún acto de maltrato o crueldad en contra de un animal, se le impondrá de tres meses a dos años de prisión y multa de cincuenta a cien días de salario mínimo vigente en el Estado.
+Al que intencionalmente realice algún acto de maltrato o crueldad en contra de un animal, se le impondrá de tres meses a dos años de prisión y multa de cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 31 DE OCTUBRE DE 2014)</small>
 
 Se consideran actos de maltrato o crueldad animal:
 
@@ -4685,7 +4721,11 @@ V.- El suministro o aplicación de substancias u objetos tóxicos que pongan en 
 
 VI.- Azuzar a los animales para que se ataquen entre ellos, siempre que con dicha acción se provoquen lesiones o la muerte.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
+
 Cuando el acto de maltrato o crueldad animal sea realizado por médico veterinario o persona relacionada con el cuidado o resguardo de animales, o sea realizado por un servidor público en ejercicio o con motivo de sus funciones, además se le inhabilitará por un lapso de seis meses a un año del empleo, cargo, autorización o licencia respectiva, y en caso de reincidencia, serán privados definitivamente del derecho a ejercer la actividad de que se trate, o se revocará en forma definitiva la autorización o licencia respectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
 
 Cuando las lesiones o la muerte del animal se cause con la finalidad de evitar un mal igual o mayor a una persona o animal, no se aplicará sanción alguna siempre y cuando se justifique el hecho en la necesidad de salvaguardar la integridad de la persona o el animal en peligro.
 
@@ -5846,3 +5886,19 @@ P.O. 8 DE JUNIO DE 2018.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Las reformas a los artículos 261 QUINQUIES, 288, 289, 290, 292, 293, 294, 295, 296, 297, 297 Bis, 298, 299, 301, 305, 305 BIS, 306, 307, 307 QUATER, 309, 310, 323, entrarán en vigor a partir del nombramiento que el Congreso del Estado realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, prevista en el (sic) Constitución Política del Estado Libre y Soberano de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
