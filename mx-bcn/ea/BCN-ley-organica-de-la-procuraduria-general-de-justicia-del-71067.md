@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2018-07-20"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -197,9 +195,7 @@ XXXVI.- Las demás que le otorguen las disposiciones legales y reglamentarias ap
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2012)</small>
 
-###### ARTÍCULO 6 Bis.
-
-Las atribuciones en materia de extinción de dominio a que se refiere la fracción XXXII del artículo 6 de esta Ley y que ejercerá el Ministerio Público especializado en la materia, comprenden:
+ARTÍCULO 6 BIS.- Las atribuciones en materia de extinción de dominio a que se refiere la fracción XXXII del artículo 6 de esta Ley y que ejercerá el Ministerio Público especializado en la materia, comprenden:
 
 I.- Solicitar al Juez las medidas cautelares necesarias y, en su caso, su ampliación, respecto de los bienes señalados en la Ley de la materia o su ampliación;
 
@@ -689,7 +685,9 @@ Las sanciones por incurrir en las causas de responsabilidad a que se refiere el 
 
 I.- Apercibimiento;
 
-II.- Multa por el equivalente a uno o hasta quince días de salario;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Multa por el equivalente a uno o hasta quince veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III.- Suspensión del empleo, sin goce de sueldo, hasta por noventa días;
 
@@ -868,3 +866,19 @@ P.O. 20 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 237 MEDIANTE EL CUAL SE APRUEBA LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA JUSTICIA TERAPÉUTICA PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULOS 39 Y 81 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO SE REFORMAN LOS ARTÍCULOS 19, 23, 32 Y 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y SE REFORMAN LOS ARTÍCULOS 6 Y 15 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor a los 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
