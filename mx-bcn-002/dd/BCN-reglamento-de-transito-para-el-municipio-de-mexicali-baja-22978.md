@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2018-08-31"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -299,8 +299,6 @@ V.- Señales y dispositivos para el control del tránsito;
 
 VI.- Conocimientos fundamentales de este Reglamento; y,
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 VII.- Nociones esenciales de mecánica y mantenimiento preventivo automotriz.
@@ -561,8 +559,6 @@ IV.- DE EMERGENCIA.- Aquellos que proporcionan a la comunidad asistencia médica
 
 #### SECCIÓN SEGUNDA. DE LOS REQUISITOS PARA LA CIRCULACIÓN DE VEHÍCULOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 37.
@@ -745,15 +741,11 @@ La Dirección y el Sistema informarán sobre las fechas y lugares donde se reali
 
 El incumplimiento de esta disposición, será sancionado con una multa que se aplicará al momento de revalidar la tarjeta de circulación, de conformidad con el convenio que se celebre con la autoridad estatal competente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 50.
 
 Para efectos de la verificación de la emisión de contaminantes a los vehículos de motor registrados en el Municipio, se estará a lo dispuesto en los ordenamientos en materia de ecología y preservación del medio ambiente, así como a lo previsto en el Programa de Verificación Vehicular Obligatoria para el Estado de Baja California en vigor.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -761,13 +753,9 @@ Para efectos de la verificación de la emisión de contaminantes a los vehículo
 
 Es obligación de los conductores de vehículos de motor, evitar la emisión ostensible y excesiva de humo de color azul, negro, o ambos, de los escapes de sus vehículos, por lo que en todo caso, deberán acudir a los Centros de Verificación autorizados, a fin de someter su vehículo al control de emisión de contaminantes, obteniendo la constancia u holograma de verificación vehicular que tales centros expidan.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2015)</small>
 
 La sanción por incumplimiento a lo previsto en el párrafo anterior, será sancionada con multa por el importe de hasta un día de salario mínimo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2015)</small>
 
@@ -1917,8 +1905,6 @@ En el caso que se detecte que el infractor tiene en su haber infracciones anteri
 
 En todos los casos que se requiera la presentación del conductor y el vehículo ante el juez calificador para el pago de multas por las infracciones cometidas, se evitará en lo posible que el vehículo sea remitido al depósito vehicular en garantía de pago, para lo cual se le concederá al infractor un plazo de veinticuatro horas desde su presentación ante el juez calificador para que realice las gestiones necesarias para cubrir la o las multas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 137.
@@ -2185,25 +2171,23 @@ Si transcurrido el plazo, o habiéndose presentado ante el juez calificador sin 
 
 E (sic) apercibimiento no aplicará a los vehículos del servicio público de transporte, quienes de inmediato se harán acreedores al pago de la multa, sin perjuicio de la obligación de reparar la falla, y de lo dispuesto en el Reglamento Municipal del Transporte, respecto a equipo (sic) y accesorios, y condiciones mecánicas para circular.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 147.
 
-Al conductor o pasajero que contravenga las disposiciones del presente Reglamento, se le sancionará de acuerdo a la falta cometida con el pago de multa correspondiente en días de salario mínimo general vigente en el Municipio, según se indica de la manera siguiente:
+Al conductor o pasajero que contravenga las disposiciones del presente Reglamento, se le sancionará de acuerdo a la falta cometida con el pago de multa correspondiente en Unidades de Medida y Actual zación (sic), según se indica de la manera siguiente:
 
 Según el grado de la Infracción:
 
-a) Leve: Aquellas que se comprenden de 1 a 5 salarios.
+a) Leve: Aquellas que se comprenden de 1 a 5 veces el valor de la U.M.A.
 
-b) Media: Aquellas que se comprenden de 6 a 10 salarios.
+b) Media: Aquellas que se comprenden de 6 a 10 U.M.A.
 
-c) Graves: Aquellas que se comprenden de 11 a 50 salarios.
+c) Graves: Aquellas que se comprenden de 11 a 50 U.M.A.
 
 > <small>[N. DE E. VÉASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PÁGINAS DE LA 96 A LA 106.]</small>
 
-> <small>[N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25; REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46; P.O. 11 DE MARZO DE 2005, PÁGINA 57; P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42; P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34; P.O. 20 DE ABRIL DE 2012, PÁGINA 57; P.O. 11 DE ENERO DE 2013, PÁGINAS DE LA 60 A LA 74; P.O. 6 DE NOVIEMBRE DE 2015, PÁGINA 83; P.O. 4 DE DICIEMBRE DE 2015, PÁGINA 10.]</small>
-
-> <small>[N. DE E. VÉASE ADICIÓN A LA TABLA DE SANCIONES EN EL P.O. DE 8 DE SEPTIEMBRE DE 2017, PÁGINA 17; P.O. 6 DE JULIO DE 2018, PÁGINA 17.]</small>
+> <small>[N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25; REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46; P.O. 11 DE MARZO DE 2005, PÁGINA 57; P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42; P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34; P.O. 20 DE ABRIL DE 2012, PÁGINA 57; P.O. 11 DE ENERO DE 2013, PÁGINAS DE LA 60 A LA 74; P.O. 6 DE NOVIEMBRE DE 2015, PÁGINA 83; P.O. 4 DE DICIEMBRE DE 2015, PÁGINA 10; P.O. 8 DE SEPTIEMBRE DE 2017, PÁGINA 17; P.O. 6 DE JULIO DE 2018, PÁGINA 17; P.O. 30 DE NOVIEMBRE DE 2018, PÁGINA 16.]</small>
 
 ###### ARTÍCULO 148.
 
@@ -2242,6 +2226,10 @@ Asimismo, los propietarios o conductores de los vehículos serán responsables d
 ###### ARTÍCULO 151.
 
 El infractor que pague las multas previstas en la Tabla de Sanciones Pecuniarias, dentro de los quince días siguientes a la fecha de la infracción, tendrá derecho a un descuento por pronto pago del cincuenta por ciento del importe de la multa, excepto en aquellas infracciones señaladas con asterisco (*).
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+ARTÍCULO 151 BIS.- El Juez Calificador podrá cancelar la infracción impuesta por el incumplimiento del artículo 53 fracción VIII del presente Reglamento, respecto del concepto consistente en transportar menores de edad cuyo peso no exceda de 20 kilos, sin utilizar asiento especial y ex profeso para ellos, siempre que el infractor presente ante el Juez Calificador, dentro de los 15 días naturales siguientes a la imposición de la infracción, el vehículo con la silla especial de seguridad para transportar a menor de edad que no rebase los 20 kilogramos de peso, debidamente instalada en el asiento de pasajeros.
 
 ###### ARTÍCULO 152.
 
@@ -2404,3 +2392,11 @@ P.O. 31 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE TRÁNSITO MUNICIPAL PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA".]
 
 ÚNICO.- Las modificaciones y adiciones que se contienen en el presente Acuerdo entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 147 Y SE ADICIONA EL ARTÍCULO 151 BIS DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+PRIMERO.- Las modificaciones y adiciones que se contienen en el presente Acuerdo entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Dirección de Seguridad Pública Municipal en conjunto con la Dirección de Comunicación Social, realizarán una campaña de socialización, para dar a conocer esta reforma.
