@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-el-funcionamiento-y-operacion-de-yonkes-95000"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-28"
-last_updated: "2013-06-28"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE YONKES, RECICLADORAS Y CENTROS DE ACOPIO DE MATERIALES METÁLICOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE DECRETO ENTRA EN VIGOR A LOS 60 DÍAS NATURALES DESPUÉS DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de junio de 2013.
 
@@ -317,9 +315,11 @@ XI.- No comprobar el origen de los materiales u objetos que compran para el desa
 
 XII.- Adquirir por cualquier título, materiales u objetos identificables como propiedad de personas físicas o morales públicas o privadas, sin que cuenten con la autorización correspondiente de la persona física o moral de que se trate.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 29.
 
-La persona que utilice su predio para realizar operaciones de forma esporádica o permanente exclusivas de un Yonke, recicladora y/o centro o de acopio de materiales metálicos, le será impuesta una multa de 500 a 1000 días de salario mínimo vigente en la región y el decomiso de materiales que formen parte de la actividad que se sanciona en este artículo.
+La persona que utilice su predio para realizar operaciones de forma esporádica o permanente exclusivas de un Yonke, recicladora y/o centro o (sic) de acopio de materiales metálicos, le será impuesta una multa de 500 a 1000 veces el valor diario de la Unidad de Medida y Actualización vigente y el decomiso de materiales que formen parte de la actividad que se sanciona en este artículo.
 
 ###### Artículo 30.
 
@@ -327,7 +327,9 @@ Las sanciones administrativas podrán consistir en:
 
 I.- Amonestación con apercibimiento;
 
-II.- Multa entre los 30 y los 500 salarios mínimos diarios vigentes en la Entidad;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Multa entre los 30 y los (sic) 500 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III.- Clausura temporal o permanente, parcial o total; y
 
@@ -422,3 +424,21 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
