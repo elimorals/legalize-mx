@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-extincion-de-dominio-para-el-estado-de-baja-89138"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-27"
-last_updated: "2015-12-18"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de julio de 2012.
 
@@ -36,8 +38,6 @@ DECRETO No. 236
 ###### ARTÍCULO PRIMERO.
 
 Se expide la Ley de Extinción de Dominio para el Estado de Baja California, para quedar como sigue:
-
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2015, POR LO QUE RESPECTA A LA SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, CAMBIA DE DENOMINACIÓN A SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO".]</small>
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA
 
@@ -65,8 +65,6 @@ VI. Delincuencia organizada: La organización de hecho de tres o más personas p
 
 VII. Delitos Patrimoniales: El robo de vehículos, la extorsión, o la adquisición, recepción u ocultación de bienes producto de un delito contemplada en el artículo 232 del Código Penal, todos con relación a la delincuencia organizada;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 VIII. Hecho ilícito: Hecho, típico y antijurídico, constitutivo de cualquiera de los delitos de delincuencia organizada, delitos contra la salud en su modalidad de narcomenudeo, a que se refiere el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
@@ -79,8 +77,6 @@ XI. Procurador: El Procurador General de Justicia del Estado de Baja California;
 
 XII. Tercero: Persona que, sin ser afectado en el procedimiento de extinción de dominio, comparece en él para deducir un derecho propio sobre los bienes materia de la acción, y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 XIII. Víctima u Ofendido: Se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva. Asimismo, se considerará ofendido a la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la fracción VIII del presente artículo.
@@ -88,8 +84,6 @@ XIII. Víctima u Ofendido: Se considera víctima del delito al sujeto pasivo que
 ###### Artículo 3.
 
 En los casos no previstos en esta ley, se estará a las siguientes reglas de supletoriedad:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
@@ -102,8 +96,6 @@ III. En cuanto a los delitos, a lo previsto en el Código Penal para el Estado, 
 IV. En los aspectos relativos la regulación de bienes u obligaciones, a lo previsto en el Código Civil para el Estado.
 
 ### CAPÍTULO II. DE LA ACCIÓN DE EXTINCIÓN DE DOMINIO
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
@@ -289,8 +281,6 @@ III. Que respecto de los bienes sobre los que se ejerció la acción se ha emiti
 
 También garantizará que los terceros ofrezcan pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas u ofendidos únicamente en lo relativo a la reparación del daño, cuando comparezca para tales efectos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 28.
@@ -329,13 +319,9 @@ II. Recabará los medios de prueba que acrediten indiciariamente que los bienes 
 
 III. Solicitará al juez, durante el procedimiento respectivo, las medidas cautelares previstas en la presente ley, y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 IV. Realizará las diligencias de investigación necesarias para identificar y localizar al dueño de los bienes materia de la acción de extinción de dominio, o quien se ostente o comporte como tal, así como a los terceros, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2015)</small>
 
@@ -457,8 +443,6 @@ III. Que los bienes no se encuentran en ninguno de los supuestos previstos en el
 
 Los terceros ofrecerán pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas u ofendidos únicamente en lo relativo a la reparación del daño.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 Las pruebas que ofrezca el Agente del Ministerio Público deberán ser conducentes, primordialmente, para acreditar la existencia de cualquiera de los hechos ilícitos señalados en el artículo 4 párrafo primero de esta Ley, desde el inicio de la averiguación previa o la investigación para la admisión de la acción por el Juez, así como para demostrar que los bienes son de los enlistados en el artículo 5 del mismo ordenamiento, para el dictado de la sentencia. Además, el Juez le dará vista con todas las determinaciones que tome, para que manifieste lo que conforme a derecho proceda, con relación a los terceros, víctimas u ofendidos; y estará legitimado para recurrir cualquier determinación que tome.
@@ -483,7 +467,9 @@ II. La fecha de la audiencia de desahogo de pruebas y formulación de alegatos; 
 
 III. Las demás determinaciones que considere pertinentes.
 
-La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración; pero se impondrá a los faltistas debidamente notificados una multa de hasta cien días de salario mínimo vigente en el Estado.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración; pero se impondrá a los faltistas debidamente notificados una multa de hasta cien (sic) el valor diario de la Unidad de Medida y Actualización vigente.
 
 De no ser posible por la hora o por cuestiones procesales, el Juez suspenderá la audiencia y citará para su continuación dentro de los tres días hábiles siguientes.
 
@@ -642,3 +628,19 @@ PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en e
 SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional.
 
 TERCERO.- Por los que respecta a la Subprocuraduría contra la Delincuencia Organizada de la Procuraduría General de Justicia del Estado, cambia de denominación a Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado, la cual serán competentes para conocer sobre los delitos previstos en el artículo 4 párrafo primero de esta ley y ejercer la acción de extinción de dominio, de conformidad con los acuerdos que para tal efecto emita el Procurador.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
