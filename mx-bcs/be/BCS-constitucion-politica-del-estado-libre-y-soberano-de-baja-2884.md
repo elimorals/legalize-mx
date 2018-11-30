@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2018-10-20"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -963,17 +963,17 @@ III.- Los Ayuntamientos
 
 IV.- El Tribunal Superior de Justicia
 
-> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.13% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas.
+V.- Los ciudadanos del Estado registrados en la lista nominal de electores, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respetivas.
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
 VI.- Al inicio de cada periodo ordinario de sesiones, el Gobernador del Estado tiene derecho de presentar dos iniciativas para trámite preferente, o bien señalar con tal carácter hasta dos que se hubieren presentado en periodos anteriores y se encuentren pendientes de dictamen. De igual forma, cada una de las fracciones parlamentarias del Congreso del Estado, podrá presentar una iniciativa para trámite preferente, o bien, señalar con tal carácter una de las que se hubieren presentado en periodos anteriores y que se encuentre pendiente de dictamen. Lo anterior en los términos que prescriba la legislación de la materia.
 
-> <small>(REFORMADO, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales. Las iniciativas ciudadanas se considerarán de trámite preferente para los efectos señalados en el presente párrafo.
+El Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales. Las primeras tres iniciativas ciudadanas que se presenten al inicio de cada periodo ordinario de sesiones, se considerarán de trámite preferente para los efectos señalados en el presente párrafo.
 
 > <small>(REFORMADO [N. DE E. REUBICADO, ANTES PARTE FINAL DEL SEGUNDO PÁRRAFO DEL ARTÍCULO], B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -4246,3 +4246,11 @@ B.O. 20 DE OCTUBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del año 2019, previa su publicación en el Boletín Oficial del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2574 SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
