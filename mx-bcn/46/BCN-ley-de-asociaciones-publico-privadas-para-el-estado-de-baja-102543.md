@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asociaciones-publico-privadas-para-el-estado-de-baja-102
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-22"
-last_updated: "2014-08-22"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE BAJA CALIFORNIA
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2014.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 FRANCISCO ARTURO VEGA DE LAMADRID GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACIÓN, EL DECRETO NÚMERO 94 CUYO TEXTO ES EL SIGUIENTE:
 
@@ -1337,9 +1337,11 @@ Para iniciar cualquier procedimiento administrativo o jurisdiccional, relativo a
 
 El Reglamento señalará los montos, términos y condiciones de estas garantías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
 ###### Artículo 132.
 
-La autoridad, jurisdiccional o administrativa, que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien lo promueva multa administrativa de quinientas y hasta dos mil veces el salario mínimo general diario para el Estado de Baja California, elevado al mes, vigente en la fecha de interposición del recurso.
+La autoridad, jurisdiccional o administrativa, que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien lo promueva multa administrativa de quinientas y hasta dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, elevado al mes, vigente en la fecha de interposición del recurso.
 
 Asimismo, podrá condenar al responsable a pagar a la convocante y, en su caso, a los terceros afectados, los daños y perjuicios que tales conductas ocasionen, con independencia a las demás responsabilidades administrativas, civiles y penales a que haya lugar.
 
@@ -1374,3 +1376,21 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
