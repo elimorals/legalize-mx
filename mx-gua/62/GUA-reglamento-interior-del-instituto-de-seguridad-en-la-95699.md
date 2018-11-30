@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-seguridad-en-la-95699"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-27"
-last_updated: "2013-08-27"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD EN LA TENENCIA DE LA TIERRA DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO GUBERNATIVO NÚMERO 8, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD EN LA TENENCIA DE LA TIERRA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de agosto de 2013.
 
@@ -274,3 +276,99 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO CUARTO DEL DECRETO GUBERNATIVO NÚMERO 8 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO CUARTO.
+
+Se abrogan los Decretos Gubernativos número 7 y 47, mediante los cuales se crea el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y se expidió su Reglamento Interior, para quedar en los siguientes términos:
+
+Abrogación de Decretos Gubernativos números 7 y 47
+
+Artículo Único. Se abroga el Decreto Gubernativo número 7, mediante el cual se crea el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 196, Tercera Parte, del 7 de diciembre de 2012.
+
+Se abroga el Decreto Gubernativo número 47, mediante el cual se expide el Reglamento Interior del Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 137, Quinta Parte, del 27 de agosto de 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 8, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO CONTENIDO EN EL DECRETO GUBERNATIVO NÚMERO 57, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 165, TERCERA PARTE, DE FECHA 15 DE OCTUBRE DE 2013; SE CREA LA COORDINACIÓN GENERAL DE INFORMACIÓN ESTRATÉGICA DEL ESTADO DE GUANAJUATO; SE CREA LA UNIDAD DE ANÁLISIS Y ESTRATEGIA DE SEGURIDAD CIUDADANA; SE ABROGAN LOS DECRETOS GUBERNATIVOS NÚMERO 7 Y 47, MEDIANTE LOS CUALES SE CREA EL INSTITUTO DE SEGURIDAD EN LA TENENCIA DE LA TIERRA DEL ESTADO DE GUANAJUATO Y SE EXPIDIÓ SU REGLAMENTO INTERIOR; Y SE ABROGA EL DECRETO GUBERNATIVO NÚMERO 156, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE MOVILIDAD DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Operación de las Direcciones Generales de Transporte y de Seguridad en la Tenencia de la Tierra
+
+Artículo Segundo. Los recursos financieros, humanos y materiales que a la fecha se encuentren asignados a los Institutos de Movilidad y de Seguridad en la Tenencia de la Tierra pasarán a la Secretaría de Gobierno para la operación de la Dirección General de Transporte y Dirección General de Seguridad en la Tenencia de la Tierra, respectivamente.
+
+La Secretaría de Finanzas, Inversión y Administración, deberá realizar los ajustes presupuestales y administrativos que correspondan para dar cumplimiento al presente Decreto.
+
+Referencias en otros instrumentos normativos
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo, cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a los Institutos de Movilidad del Estado de Guanajuato y de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, se entenderá hecha a las Direcciones Generales de Transporte y de Seguridad en la Tenencia de la Tierra, respectivamente.
+
+Asuntos en trámite ante el Instituto de Seguridad en la Tenencia de la Tierras (sic)
+
+Artículo Cuarto. Los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren en trámite ante el Instituto de Seguridad en la Tenencia de la tierra del Estado de Guanajuato, continuarán su desahogo hasta su terminación, por la Dirección General de Seguridad en la Tenencia de la Tierra, a través de las siguientes unidades administrativas:
+
+Denominación ante el Instituto de Denominación ante la Dirección General de
+
+de Seguridad en la Tenencia Seguridad en la Tenencia de la Tierra
+
+de la Secretaría de Gobierno
+
+Dirección General del Instituto de Dirección General de Seguridad en la
+
+Seguridad en la Tenencia de la Tenencia de la Tierra
+
+Tierra
+
+Dirección de Regularización de Dirección de Regularización de
+
+Asentamientos Humanos Asentamientos Humanos
+
+Dirección de Asuntos Agrarios y Dirección de Asuntos Agrarios y
+
+Regularización de Predio Rústicos Regularización de Predios Rústicos
+
+Dirección de Proyectos Técnicos de Dirección de Proyectos Técnicos
+
+Urbanización
+
+Dirección de Promoción Social Dirección de Vinculación Social para la
+
+Seguridad de la Tenencia de la Tierra
+
+Asuntos en trámite ante el Instituto de Movilidad del Estado de Guanajuato
+
+Artículo Quinto. Los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren en trámite ante el Instituto de Movilidad del Estado de Guanajuato, continuarán su desahogo hasta su terminación, por la Dirección General de Transporte, a través de las siguientes unidades administrativas:
+
+Denominación ante el Instituto de Denominación ante la Dirección General
+
+Movilidad del Estado de Guanajuato de Transporte de la Secretaría de
+
+Gobierno
+
+Dirección General del Instituto de Dirección General de Transporte
+
+Movilidad del Estado de Guanajuato
+
+Dirección de Desarrollo de la Dirección de Desarrollo de Transporte
+
+Movilidad
+
+Dirección Jurídica de Movilidad Dirección Jurídica de Transporte
+
+Dirección de Inspección de la Dirección de Inspección
+
+Movilidad
+
+Dirección de Atención, Dirección de Atención, Capacitación y
+
+Capacitación y Cultura Vial Educación Vial
+
+Dirección de Gestión Administrativa Dirección de Gestión Administrativa de
+
+de la Movilidad Transporte
