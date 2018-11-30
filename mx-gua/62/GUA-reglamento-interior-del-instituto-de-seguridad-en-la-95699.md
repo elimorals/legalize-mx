@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-seguridad-en-la-95699"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-27"
-last_updated: "2013-08-27"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,76 +21,354 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD EN LA TENENCIA DE LA TIERRA DEL ESTADO DE GUANAJUATO
 
-LEY QUE ESTABLECE EL DERECHO A UN PAQUETE DE UTILES ESCOLARES POR CICLO ESCOLAR A TODOS LOS ALUMNOS RESIDENTES EN EL DISTRITO FEDERAL, INSCRITOS EN ESCUELAS PUBLICAS DEL DISTRITO FEDERAL, EN LOS NIVELES DE PREESCOLAR, PRIMARIA Y SECUNDARIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO GUBERNATIVO NÚMERO 8, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MAYO DE 2008.
+REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD EN LA TENENCIA DE LA TIERRA DEL ESTADO DE GUANAJUATO
 
-Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de enero de 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018 (ABROGADO).
 
-(Al margen superior izquierdo, dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México, la Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
+Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de agosto de 2013.
 
-ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
+MIGUEL MÁRQUEZ MÁRQUEZ, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III y 79 de la Constitución Política para el Estado de Guanajuato y en observancia a lo dispuesto por los artículos 2o., 3o., 6o., y 9o., de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-Que la Honorable Asamblea Legislativa del Distrito Federal III Legislatura, se ha servido dirigirme el siguiente:
+C O N S I D E R A N D O.
 
-DECRETO
+Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
-(Al margen superior izquierdo el escudo nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- III LEGISLATURA)
+DECRETO GUBERNATIVO NÚMERO 47
 
-LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+Artículo Único. Se expide el Reglamento Interior del Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, para quedar en los siguientes términos:
 
-III LEGISLATURA
+REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD EN LA TENENCIA DE LA TIERRA DEL ESTADO DE GUANAJUATO
 
-DECRETA:
+### Capítulo I. Facultades del Director General
 
-DECRETO DE LEY QUE ESTABLECE EL DERECHO A UN PAQUETE DE ÚTILES ESCOLARES POR CICLO ESCOLAR A TODOS LOS ALUMNOS RESIDENTES EN EL DISTRITO FEDERAL, INSCRITOS EN ESCUELAS PÚBLICAS DEL DISTRITO FEDERAL EN LOS NIVELES DE PREESCOLAR, PRIMARIA Y SECUNDARIA.
+Facultades del Director General
 
-> <small>(REFORMADO, G.O. 8 DE MAYO DE 2008)</small>
+###### Artículo 1.
 
-###### Artículo 1°.
+La administración del Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, en lo subsecuente el Instituto de Tenencia de la Tierra, estará a cargo de un Director General, quien además de las facultades que le confiere el decreto de creación del Instituto, tiene las siguientes:
 
-Los alumnos radicados en el Distrito Federal, inscritos en las escuelas públicas de la Entidad en los niveles de preescolar, primaria, secundaria escolarizadas, educación especial e indígena tienen derecho a recibir gratuitamente un paquete básico de útiles escolares determinado a partir de la lista oficial de útiles aprobada por la SEP en correspondencia a cada ciclo escolar que inicien.
+I. Planear, coordinar, supervisar y evaluar el trabajo de las direcciones a su cargo;
 
-Para los efectos de esta Ley, se considerara a los alumnos inscritos en el nivel preescolar, los Centros de Desarrollo Infantil (CENDIS) y Estancias Infantiles dependientes del Gobierno del Distrito Federal. Así como los alumnos de educación especial inscritos en los Centros de Atención Múltiple (CAM's), las Unidades de Servicios de Apoyo a la Escuela Regular (USAER) y los Centros de Recursos, Información e Innovación para la integración Educativa (CRIIIE).
+II. Expedir certificaciones de los documentos existentes en los archivos del Instituto de Tenencia de la Tierra, cuando sean solicitadas por parte legítima, previo pago de los derechos que procedan;
 
-###### Artículo 2°.
+III. Diseñar e implementar estrategias, programas y acciones para la regularización de la tenencia de la tierra urbana y rural en los municipios del Estado;
 
-El Jefe de Gobierno del Distrito Federal deberá incluir en su Proyecto de Presupuesto de Egresos del Distrito Federal, un monto que garantice la operación del programa que otorgue al inicio de cada ciclo escolar, un paquete de útiles escolares a todos los alumnos inscritos en escuelas públicas del Distrito Federal en los niveles de preescolar, primaria y secundaria.
+IV. Generar las condiciones técnicas y administrativas para que guanajuatenses que no son sujetos de crédito, fortalezcan su patrimonio, mejoren sus viviendas y tengan acceso a un lote de terreno urbanizado o a casa propia y digna, en coordinación con las dependencias federales, estatales y municipales que correspondan;
 
-###### Artículo 3°.
+V. Realizar acciones de mediación o conciliación que permitan atender la problemática que sobre la seguridad en la tenencia de la tierra o situaciones afines a la misma, se originen en el Estado;
 
-La Asamblea Legislativa del Distrito Federal deberá aprobar en el Decreto de Presupuesto Anual la asignación suficiente para hacer efectivo el derecho de un paquete de útiles a los alumnos inscritos en escuelas públicas del Distrito Federal en los términos del artículo primero de esta Ley.
+VI. Coordinar el trámite de los procedimientos de expropiación, tratándose de la regularización de asentamientos humanos y predios rústicos, en los términos de la Ley de la materia;
 
-###### Artículo 4°.
+VII. Previo acuerdo del Secretario de Gobierno, tramitar los expedientes relativos a la expropiación, ocupación temporal y limitación de dominio, de bienes inmuebles ubicados en el Estado, relacionados con la regularización de asentamientos humanos y predios rústicos, conforme a la legislación estatal de la materia.
 
-La dependencia del Gobierno del Distrito Federal responsable de operar el proceso de formación, adquisición, distribución y entrega de los paquetes de útiles escolares, será aquella a la que la Ley Orgánica de la Administración Pública del Distrito Federal le confiere atribuciones en materia educativa.
+VIII. Atender las solicitudes de información que le formule la Unidad de Enlace de la Secretaría de Gobierno en materia de Acceso a la Información Pública;
 
-###### Artículo 5°.
+IX. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le correspondan por delegación o por suplencia;
 
-En el ámbito de sus facultades, el Jefe de Gobierno elaborará la reglamentación del programa en la que se establezcan los requisitos y procedimientos necesarios para hacer efectivo el derecho que establece esta Ley, así como los mecanismos para la evaluación y fiscalización del programa.
+X. Vigilar el cumplimiento de la normatividad aplicable en el ejercicio del presupuesto asignado al Instituto de Tenencia de la Tierra;
 
-## TRANSITORIOS
+XI. Proponer al Secretario de Gobierno las modificaciones a la estructura orgánica, a los manuales de organización, de procedimientos y de servicios al público para mejorar el funcionamiento del Instituto de Tenencia de la Tierra; y
 
-PRIMERO.- La presente ley, entrará en vigor para el año 2004 una vez que se cuente con la suficiencia presupuestal, para hacer efectivo el derecho a un paquete de útiles escolares por ciclo escolar a todos los alumnos residentes en el Distrito Federal, inscritos en escuelas públicas en los niveles preescolar, primaria y secundaria.
+XII. Ejercer de manera directa cualquiera de las facultades encomendadas a las unidades de su adscripción.
 
-SEGUNDO.- Con la entrada en vigor de la presente ley en la distribución del paquete de útiles escolares se entregará a cada estudiante que se encuadre en la presente, los libros de texto necesarios acordes a su nivel escolar de manera gratuita.
+### Capítulo II. Estructura Administrativa
 
-Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de diciembre del año dos mil tres. POR LA MESA DIRECTIVA.- DIP. LORENA VILLAVICENCIO AYALA, PRESIDENTA.- DIP. GABRIELA GONZÁLEZ MARTÍNEZ, SECRETARIA.- DIP. JUVENTINO RODRÍGUEZ RAMOS, SECRETARIO.- FIRMAS
+Estructura administrativa del Instituto
 
-En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II y 90 del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los dieciséis días del mes de enero de dos mil cuatro. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA. LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA
+###### Artículo 2.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+Para el estudio, planeación, operación, ejecución y despacho de los asuntos que le competen, el Director General del Instituto de Tenencia de la Tierra cuenta con la siguiente estructura administrativa:
 
-G.O. 14 DE JUNIO DE 2006.
+I. Dirección de Regularización de Asentamientos Humanos;
 
-ÚNICO.- La adición a la presente Ley, entrara en vigor para el año 2007, una vez que se cuente con la suficiencia presupuestal para los efectos de esta Ley.
+II. Dirección de Asuntos Agrarios y Regularización de Predios Rústicos;
 
-G.O. 8 DE MAYO DE 2008.
+III. Dirección de Proyectos Técnicos de Urbanización; y
 
-###### ARTÍCULO PRIMERO.
+IV. Dirección de Promoción Social.
 
-La adición a la presente ley, entrara en vigor, una vez que se cuente con la suficiencia presupuestal para su aplicación.
+Al frente de las direcciones de área habrá un director, quien podrá auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto.
 
-###### ARTÍCULO SEGUNDO.
+#### Sección Primera. Facultades Genéricas de los Directores
 
-Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+Facultades genéricas
+
+###### Artículo 3.
+
+Los directores tienen las siguientes facultades genéricas:
+
+I. Auxiliar al Director General dentro de la esfera de su competencia;
+
+II. Planear, programar, presupuestar, coordinar y evaluar las funciones correspondientes al área a su cargo, con la participación de las unidades administrativas que la integran;
+
+III. Acordar con el Director General la resolución de los asuntos cuya tramitación y despacho sea de su competencia;
+
+IV. Formular dictámenes, informes y opiniones relativas a la competencia del área a su cargo;
+
+V. Realizar estudios e investigaciones en los asuntos de su competencia;
+
+VI. Proponer al Director General la promoción o remoción del personal del área a su cargo;
+
+VII. Promover la capacitación, adiestramiento y desarrollo de su personal;
+
+VIII. Proponer acuerdos, contratos y convenios de coordinación y colaboración con entidades federales, estatales y municipales, así como con instituciones y organizaciones de los sectores social y privado, en materia de su competencia, de acuerdo a las normas y lineamientos aplicables;
+
+IX. Formular los manuales de organización, de procedimientos y de servicios al público que se requieran para el eficiente y eficaz ejercicio de sus facultades, de acuerdo a las normas y lineamientos establecidos para tal efecto;
+
+X. Asesorar técnicamente en asuntos de su competencia a las unidades administrativas del Instituto de Tenencia de la Tierra;
+
+XI. Coordinar sus actividades con las de los titulares de otras unidades administrativas del Instituto de Tenencia de la Tierra y con las instituciones públicas y privadas relacionadas con su competencia;
+
+XII. Coordinar, con otras dependencias del sector público y privado, la participación del Instituto de Tenencia de la Tierra en el desarrollo de programas en materia de su competencia;
+
+XIII. Autorizar la firma de documentos relacionados con los asuntos de su competencia a los funcionarios subalternos, previo acuerdo con el Director General, así como ejercer de manera directa cualquiera de las facultades encomendadas a las unidades de su adscripción;
+
+XIV. Suscribir los documentos relativos al ejercicio de sus facultades y aquéllos que les señalen por delegación o les correspondan por suplencia;
+
+XV. Proporcionar la información, así como cooperación técnico-administrativa que les sea requerida al interior del Instituto de Tenencia de la Tierra, conforme a la normatividad conducente;
+
+XVI. Proponer estrategias de información, educación y difusión a la población en general, en materia de su competencia;
+
+XVII. Vigilar la observancia de las leyes, reglamentos y demás disposiciones legales aplicables en los asuntos materia de su competencia;
+
+XVIII. Despachar todos aquellos asuntos de su competencia; y
+
+XIX. Las demás que las disposiciones legales y reglamentarias les atribuyan, así como aquéllas que les confiera el Director General.
+
+#### Sección Segunda. Dirección de Regularización de Asentamientos Humanos
+
+Facultades de la Dirección de Regularización de Asentamientos Humanos
+
+###### Artículo 4.
+
+La Dirección de Regularización de Asentamientos Humanos, estará a cargo de un Director, quien además de las genéricas, tiene las siguientes facultades:
+
+I. Organizar y ejecutar acciones para la regularización de los asentamientos humanos en el Estado;
+
+II. Detectar los asentamientos humanos irregulares en la Entidad, en coordinación con los municipios, y llevar el padrón de los mismos;
+
+III. Promover y obtener de las autoridades municipales, los censos actualizados de los asentamientos humanos, los análisis socio-políticos respectivos, la documentación jurídica y la información técnica necesaria para integrar la propuesta de regularización;
+
+IV. Solicitar a las dependencias y entidades del Poder Ejecutivo del Estado la información técnica y jurídica que se requiera para la integración de los expedientes de regularización de asentamientos humanos;
+
+V. Tramitar y dar seguimiento a las solicitudes de regularización de los asentamientos humanos en la Entidad, que le sean turnados para su atención;
+
+VI. Coordinarse con las autoridades federales, estatales y municipales para la ejecución de las acciones de regularización de asentamientos humanos;
+
+VII. Asesorar a las autoridades municipales en la conformación de las Comisiones Municipales de Regularización, para la integración de expedientes de asentamientos humanos susceptibles de ser regularizados y proporcionar el apoyo técnico que se requiera para ello;
+
+VIII. Apoyar a las diversas dependencias y entidades de los gobiernos federal, estatal y municipales en trámites expropiatorios en asuntos de su competencia, cuando así se lo requieran;
+
+IX. Proponer al Director General, el establecimiento de normas, criterios y métodos para la coordinación con las instituciones que participen en la regularización de la tenencia de la tierra;
+
+X. Coordinar y ejecutar las acciones que competan a la Secretaría de Gobierno, conforme a los convenios que se celebren para el desarrollo urbano y la regularización de la tenencia de la tierra;
+
+XI. Participar como Vocal Ejecutivo en la Comisión Intersecretarial para la Vivienda Popular por Autoconstrucción, coordinando y ejecutando los acuerdos que de ella emanen; y
+
+XII. Coadyuvar con la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato y los ayuntamientos para evitar el establecimiento de asentamientos humanos que no cumplan con las disposiciones del Código Territorial para el Estado y los Municipios de Guanajuato.
+
+#### Sección Tercera. Dirección de Asuntos Agrarios y Regularización de Predios Rústicos
+
+Facultades de la Dirección de Asuntos Agrarios y Regularización de Predios Rústicos
+
+###### Artículo 5.
+
+La Dirección de Asuntos Agrarios y Regularización de Predios Rústicos, estará a cargo de un Director, quien además de las genéricas, tiene las siguientes facultades:
+
+I. Difundir, organizar y ejecutar programas y acciones para la regularización de predios rústicos en la Entidad;
+
+II. Promover ante las autoridades municipales competentes, la celebración o ratificación de convenios de colaboración técnica y administrativa en materia de regularización de predios rústicos;
+
+III. Gestionar la integración o reorganización de las Comisiones Municipales de Regularización de Predios Rústicos;
+
+IV. Proporcionar a las autoridades municipales solicitantes, apoyos técnicos de topografía y de carácter jurídico en materia administrativa, para las acciones de regularización de predios rústicos;
+
+V. Tramitar y dar seguimiento a las solicitudes de regularización de predios rústicos ubicados en la Entidad, que le sean turnados para su atención;
+
+VI. Impulsar el proceso de escrituración de los predios rústicos regularizados y participar en la organización de los eventos oficiales de entrega-recepción de escrituras a los beneficiarios del mismo;
+
+VII. Participar en las actividades del Comité Estatal de Regularización de Predios Agrícolas y Ganaderos de la Pequeña Propiedad y en los demás órganos y procedimientos que se establezcan para el logro de los objetivos de ese comité o el que le sustituya o el que le complemente;
+
+VIII. Apoyar con trabajos de topografía a las diversas dependencias y entidades, federales, estatales y municipales en el trámite de asuntos de su competencia, cuando así lo requieran;
+
+IX. Propiciar la conciliación de los intereses de comuneros, ejidatarios y pequeños propietarios, a solicitud de parte interesada, cuando exista un conflicto de derechos de propiedad o posesión;
+
+X. Coordinar, vigilar y supervisar el funcionamiento de la Inspectoría Rural adscrita a esta unidad administrativa y de las inspectorías móviles que se establezcan;
+
+XI. Participar en las actividades del Comité Ejecutivo para la Concertación Rural en el Estado y en los demás órganos y procedimientos que se establezcan para el logro de los objetivos de ese comité o el que le sustituya o el que le complemente; y
+
+XII. Llevar el registro de los conflictos agrarios en la Entidad.
+
+#### Sección Cuarta. Dirección de Proyectos Técnicos de Urbanización
+
+Facultades de la Dirección de Proyectos Técnicos de Urbanización
+
+###### Artículo 6.
+
+La Dirección de Proyectos Técnicos de Urbanización, estará a cargo de un Director, quien además de las genéricas, tiene las siguientes facultades:
+
+I. Conocer y mantenerse actualizada de la política estatal de desarrollo urbano en base a los lineamientos del Código Territorial para el Estado y los Municipios de Guanajuato;
+
+II. Gestionar conjuntamente con los municipios, programas y acciones para la dotación de infraestructura y equipamiento urbano de los fraccionamientos de urbanización progresiva;
+
+III. Impulsar y coordinar con los organismos de los tres ámbitos de gobierno, acciones técnicas que permitan mejorar la calidad de vivienda de las familias beneficiadas con los programas de escrituración;
+
+IV. Proporcionar a los ayuntamientos que lo soliciten, asesoría relativa a las licencias de proyectos de urbanización progresiva y apoyarlos en la ejecución de los trámites correspondientes;
+
+V. Elaborar levantamientos topográficos de los predios a urbanizar, proyectos de lotificación y proyectos ejecutivos de obra de introducción de servicios básicos; y
+
+VI. Supervisar la ejecución de las obras y la construcción de las viviendas de interés social y popular o económica.
+
+#### Sección Quinta. Dirección de Promoción Social
+
+Facultades de la Dirección de Promoción Social
+
+###### Artículo 7.
+
+La Dirección de Promoción Social, estará a cargo de un Director, quien además de las genéricas, tiene las siguientes facultades:
+
+I. Establecer canales de comunicación y coordinación permanente con los municipios, a través de las Comisiones Municipales de Regularización, organismos sociales y asociaciones civiles en el Programa de Urbanización Progresiva, Construcción de Vivienda y Adquisición de Apoyos para su conclusión;
+
+II. Coadyuvar con las dependencias que atiendan los convenios que suscriba el Estado con los Ayuntamientos en materia de creación de esquemas de fraccionamientos de urbanización progresiva y de construcción de viviendas;
+
+III. Coordinar, organizar, asesorar, capacitar y vigilar las acciones y trámites dentro del programa de urbanización progresiva, construcción de vivienda y adquisición de apoyos para su conclusión, conjuntamente con las Comisiones Municipales de Regularización;
+
+IV. Mantener el enlace permanente con grupos y organizaciones de la sociedad civil, con el propósito de fomentar la cultura de cumplimiento de los compromisos contraídos en los programas en que participe el Instituto de Tenencia de la Tierra; y
+
+V. Proponer y ejecutar acciones de solución de conflictos en el proceso de la implementación del Programa de Urbanización Progresiva, Construcción de Vivienda y Adquisición de Apoyos para su conclusión, conjuntamente con las Comisiones Municipales de Regularización.
+
+### Capítulo III. Suplencia y Relaciones Laborales
+
+Suplencia del Director General
+
+###### Artículo 8.
+
+En caso de ausencia menor a 15 días hábiles, el Director General será suplido en sus funciones por el Director que éste designe.
+
+En ausencias mayores a 15 días hábiles, el Director General será suplido en sus funciones por el funcionario que designe el Secretario de Gobierno.
+
+Suplencia de los Directores
+
+###### Artículo 9.
+
+La ausencia de los Directores, será suplida por el servidor público que designe el Director General.
+
+La ausencia del personal de cada Dirección será suplida por quien designe el Director al que se encuentre adscrito.
+
+Relaciones Laborales
+
+###### Artículo 10.
+
+Las relaciones de trabajo entre el Instituto de Tenencia de la Tierra y sus empleados se regirán por la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios y las Condiciones Generales de Trabajo para las Dependencias, Entidades y Unidades de Apoyo de la Administración Pública del Estado de Guanajuato.
+
+T R A N S I T O R I O
+
+Inicio de vigencia
+
+Artículo Único. El presente Reglamento entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a 4 de julio de 2013.
+
+MIGUEL MÁRQUEZ MÁRQUEZ
+
+EL SECRETARIO DE GOBIERNO
+
+ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO CUARTO DEL DECRETO GUBERNATIVO NÚMERO 8 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO CUARTO.
+
+Se abrogan los Decretos Gubernativos número 7 y 47, mediante los cuales se crea el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato y se expidió su Reglamento Interior, para quedar en los siguientes términos:
+
+Abrogación de Decretos Gubernativos números 7 y 47
+
+Artículo Único. Se abroga el Decreto Gubernativo número 7, mediante el cual se crea el Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 196, Tercera Parte, del 7 de diciembre de 2012.
+
+Se abroga el Decreto Gubernativo número 47, mediante el cual se expide el Reglamento Interior del Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 137, Quinta Parte, del 27 de agosto de 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 8, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO CONTENIDO EN EL DECRETO GUBERNATIVO NÚMERO 57, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 165, TERCERA PARTE, DE FECHA 15 DE OCTUBRE DE 2013; SE CREA LA COORDINACIÓN GENERAL DE INFORMACIÓN ESTRATÉGICA DEL ESTADO DE GUANAJUATO; SE CREA LA UNIDAD DE ANÁLISIS Y ESTRATEGIA DE SEGURIDAD CIUDADANA; SE ABROGAN LOS DECRETOS GUBERNATIVOS NÚMERO 7 Y 47, MEDIANTE LOS CUALES SE CREA EL INSTITUTO DE SEGURIDAD EN LA TENENCIA DE LA TIERRA DEL ESTADO DE GUANAJUATO Y SE EXPIDIÓ SU REGLAMENTO INTERIOR; Y SE ABROGA EL DECRETO GUBERNATIVO NÚMERO 156, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE MOVILIDAD DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Operación de las Direcciones Generales de Transporte y de Seguridad en la Tenencia de la Tierra
+
+Artículo Segundo. Los recursos financieros, humanos y materiales que a la fecha se encuentren asignados a los Institutos de Movilidad y de Seguridad en la Tenencia de la Tierra pasarán a la Secretaría de Gobierno para la operación de la Dirección General de Transporte y Dirección General de Seguridad en la Tenencia de la Tierra, respectivamente.
+
+La Secretaría de Finanzas, Inversión y Administración, deberá realizar los ajustes presupuestales y administrativos que correspondan para dar cumplimiento al presente Decreto.
+
+Referencias en otros instrumentos normativos
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo, cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a los Institutos de Movilidad del Estado de Guanajuato y de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, se entenderá hecha a las Direcciones Generales de Transporte y de Seguridad en la Tenencia de la Tierra, respectivamente.
+
+Asuntos en trámite ante el Instituto de Seguridad en la Tenencia de la Tierras (sic)
+
+Artículo Cuarto. Los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren en trámite ante el Instituto de Seguridad en la Tenencia de la tierra del Estado de Guanajuato, continuarán su desahogo hasta su terminación, por la Dirección General de Seguridad en la Tenencia de la Tierra, a través de las siguientes unidades administrativas:
+
+Denominación ante el Instituto de Denominación ante la Dirección General de
+
+de Seguridad en la Tenencia Seguridad en la Tenencia de la Tierra
+
+de la Secretaría de Gobierno
+
+Dirección General del Instituto de Dirección General de Seguridad en la
+
+Seguridad en la Tenencia de la Tenencia de la Tierra
+
+Tierra
+
+Dirección de Regularización de Dirección de Regularización de
+
+Asentamientos Humanos Asentamientos Humanos
+
+Dirección de Asuntos Agrarios y Dirección de Asuntos Agrarios y
+
+Regularización de Predio Rústicos Regularización de Predios Rústicos
+
+Dirección de Proyectos Técnicos de Dirección de Proyectos Técnicos
+
+Urbanización
+
+Dirección de Promoción Social Dirección de Vinculación Social para la
+
+Seguridad de la Tenencia de la Tierra
+
+Asuntos en trámite ante el Instituto de Movilidad del Estado de Guanajuato
+
+Artículo Quinto. Los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren en trámite ante el Instituto de Movilidad del Estado de Guanajuato, continuarán su desahogo hasta su terminación, por la Dirección General de Transporte, a través de las siguientes unidades administrativas:
+
+Denominación ante el Instituto de Denominación ante la Dirección General
+
+Movilidad del Estado de Guanajuato de Transporte de la Secretaría de
+
+Gobierno
+
+Dirección General del Instituto de Dirección General de Transporte
+
+Movilidad del Estado de Guanajuato
+
+Dirección de Desarrollo de la Dirección de Desarrollo de Transporte
+
+Movilidad
+
+Dirección Jurídica de Movilidad Dirección Jurídica de Transporte
+
+Dirección de Inspección de la Dirección de Inspección
+
+Movilidad
+
+Dirección de Atención, Dirección de Atención, Capacitación y
+
+Capacitación y Cultura Vial Educación Vial
+
+Dirección de Gestión Administrativa Dirección de Gestión Administrativa de
+
+de la Movilidad Transporte
