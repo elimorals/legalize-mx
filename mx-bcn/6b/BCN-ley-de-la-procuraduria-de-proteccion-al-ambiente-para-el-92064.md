@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-procuraduria-de-proteccion-al-ambiente-para-el-92064"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-11"
-last_updated: "2013-01-11"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 11 de enero de 2013.
 
@@ -381,7 +381,9 @@ Las violaciones a los preceptos de la Ley General, esta Ley, la Ley de Protecci�
 
 I. Amonestación;
 
-II. Multa por el equivalente de doscientos a veinte mil días de salario mínimo general vigente en la región, al momento de imponer la sanción.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II. Multa por el equivalente de doscientos a veinte mil veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de imponer la sanción.
 
 Las multas aplicables, serán determinadas en un tabulador de multas, de conformidad con las disposiciones previstas en el reglamento correspondiente;
 
@@ -539,7 +541,7 @@ Las notificaciones de los actos administrativos dictados con motivo de la aplica
 
 I.- Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos, resoluciones administrativas y de conclusión; sin perjuicio de que la notificación de estos actos pueda realizarse en las oficinas de las unidades administrativas de la Procuraduría, si las personas a quienes deba notificarse se presentan en las mismas y siempre que consienta recibirlas. En este último caso, se asentará la razón correspondiente.
 
-II.- Por estrados, colocados en las unidades administrativas de la Procuraduría, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente título o cuando no hubiere señalado domicilio en la población donde se encuentre ubicada la autoridad ordenadora, así como los demás casos contemplados en la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California; y (sic)
+II.- Por estrados, colocados en las unidades administrativas de la Procuraduría, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente título o cuando no hubiere señalado domicilio en la población donde se encuentre ubicada la autoridad ordenadora, así como los demás casos contemplados en la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California; y
 
 III.- Por edictos, cuando se desconozca el domicilio del interesado o, en su caso, cuando la persona a quien deba notificarse haya desaparecido, se trate de personas inciertas, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal o autorizado para tales efectos.
 
@@ -646,3 +648,21 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
