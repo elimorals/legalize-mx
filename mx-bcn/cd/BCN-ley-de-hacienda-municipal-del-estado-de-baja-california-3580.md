@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2018-01-19"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -853,7 +853,9 @@ En los casos en que el Índice Nacional de Precios al Consumidor del mes anterio
 
 Las autoridades fiscales estarán facultadas para ordenar, o tomar en cuenta el avalúo del inmueble referido en la fecha de la adquisición y cuando el valor que resulte de dicho avalúo, exceda en más de un 10% del precio pactado, este no se tomará en cuenta y el impuesto se calculará sobre el valor del avalúo, determinándose las diferencias de impuestos que resulten.
 
-III.- Al valor obtenido conforme a la fracción anterior, se le aplicará una deducción equivalente a un salario mínimo general vigente en el Estado elevado al año, la cual se aplicará conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Al valor obtenido conforme a la fracción anterior, se le aplicará una deducción equivalente al valor anual de la Unidad de Medida y Actualización vigente, la cual se aplicará conforme a lo siguiente:
 
 a) Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir la verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste al monto de la deducción, y pagará en su caso, la diferencia de impuesto que corresponda. Lo dispuesto en este inciso no es aplicable a las adquisiciones por causa de muerte; y,
 
@@ -999,7 +1001,9 @@ XIII.- Canalización de instalaciones subterráneas, tales como cable conductor,
 
 Los derechos a que hace referencia la presente fracción se determinarán de acuerdo a las siguientes cuotas o tarifas:
 
-Se calcularán, determinarán y cubrirán por los sujetos obligados en veces el salario mínimo diario vigente para el Estado de Baja California.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+Se calcularán, determinarán y cubrirán por los sujetos obligados en veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 Por construcción de tuberías, tendido de cables, fibras ópticas o similares y conducciones aéreas de uso público y privado, sean eléctricas, telefónicas, telecomunicaciones, de transportación de gas domiciliario o industrial y otros, pagará por metro lineal:
 
@@ -1017,7 +1021,9 @@ XIV.- Establecimiento de instalación de mobiliario urbano y publicitario en la 
 
 Los Derechos por establecimiento de Instalación de mobiliario urbano y publicitario en la vía pública, se determinará de acuerdo a las cuotas o tarifas siguientes:
 
-Por la autorización para la construcción y/o instalación de anuncios, se pagarán las siguientes cuotas anuales calculadas en veces salario mínimo diario vigente para el Estado de Baja California:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Por la autorización para la construcción y/o instalación de anuncios, se pagarán las siguientes cuotas anuales calculadas en veces del valor diario de la Unidad de Medida y Actualización vigente:
 
 a) Unipolar espectacular 130
 
@@ -1099,7 +1105,9 @@ V.- Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscal
 
 VI.- En el caso de infracciones continuas y que no sea posible determinar el monto de la prestación evadida, se impondrá según la gravedad; una multa hasta el triple del máximo de la sanción que corresponda.
 
-VII.- Exceptuando los casos de infracciones continuas, ninguna multa que se imponga en virtud de disposiciones de esta Ley podrá hacerse efectiva en cantidad que excederá de 100 días del importe del salario mínimo general vigente, pero esta restricción se refiere a cada una de las infracciones consideradas por separado, pues en el caso de que alguna persona sea responsable de diversas infracciones, aún cuando sean de la misma naturaleza; por cada una de ellas se le aplicará la multa respectiva, sea cual fuere la suma de todas las sanciones.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Exceptuando los casos de infracciones continuas, ninguna multa que se imponga en virtud de disposiciones de esta Ley podrá hacerse efectiva en cantidad que excederá de 100 veces del valor diario de la Unidad de Medida y Actualización vigente, pero esta restricción se refiere a cada una de las infracciones consideradas por separado, pues en el caso de que alguna persona sea responsable de diversas infracciones, aun cuando sean de la misma naturaleza, por cada una de ellas se le aplicará la multa respectiva, sea cual fuere la suma de todas las sanciones.
 
 VIII.- Cuando se estime que la infracción cometida sea leve y que no ha tenido consecuencia la evasión de Impuesto, se impondrá el mínimo de la sanción que corresponda, apercibiéndose al infractor de que se le castigará como reincidente si volviera a incurrir en la infracción.
 
@@ -1117,279 +1125,411 @@ XII.- Las autoridades fiscales dejarán de imponer sanciones cuando se haya incu
 
 Las infracciones y sanciones que no están expresamente determinadas en otra parte de esta Ley quedan sujetas a las disposiciones de este Capítulo.
 
-I.- Son infracciones cuya responsabilidad recae sobre los sujetos pasivos o presuntos deudores de una prestación fiscal, y a cada uno corresponderá la sanción que en caso señala; en importe equivalente al ingreso del salario mínimo general vigente en el Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+I.- Son infracciones cuya responsabilidad recae sobre los sujetos pasivos o presuntos deudores de una prestación fiscal, y a cada uno corresponderá la sanción que en cada caso se señala; en importe equivalente al valor diario de la Unidad de Medida y Actualización vigente.
 
 a).- No llevar los libros de contabilidad que según sus actividades están obligados; no presentar o proporcionar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las Leyes Fiscales o presentarlos o proporcionarlos extemporáneamente.
 
-Multa de 5 a 20 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 20 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 b).- Presentar los avisos, declaraciones, manifestaciones, solicitudes, informes, copias, libros o documentos a que se refiere la fracción anterior, alterados, falsificados, incompletos o con errores que traigan consigo la evasión de una prestación fiscal. Multa de tres tantos del impuesto omitido cuando éste pueda precisarse, o de lo contrario.
 
-Multa de 8 a 40 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 8 a 40 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 c).- Declarar ingresos menores de los realmente obtenidos, hacer deducciones falsas, ocultar u omitir bienes o existencias que deban figurar en los inventarios o relaciones de inventarios, declarar bienes o existencias a precios inferiores de los reales. Multa de dos tantos del impuesto omitido. Cuando este pueda precisarse, o de lo contrario.
 
-Multa de 10 a 40 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 40 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 d).- No inscribirse o registrarse y obtener las boletas placas, o permisos, o hacerlo fuera de los plazos legales. No incluir en la solicitud para su inscripción en el Registro de Contribuyentes, todas las actividades por las que sea contribuyente habitual.
 
-Multa de 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 e).- No comparecer ante las autoridades fiscales a presentar, comprobar, o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos a que se refiere la fracción I, o con cualquier otro objeto cuando dichas autoridades estén facultadas por las leyes fiscales para requerir la comparecencia.
 
-Multa de 3 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 3 a 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 f).- No hacer en los libros o documentos de su contabilidad, los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos en perjuicio del Fisco, o hacerlos fuera de los plazos legales. Multa de tres tanto del impuesto omitido cuando pueda precisarse o de lo contrario.
 
-Multa de 3 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 3 a 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 g).- Llevar doble juego de libros.
 
-Multa de 30 a 100 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 30 a 100 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 h).- Alterar, raspar o tachar, en perjuicio del Fisco, cualquier anotación, asiento o constancia en los libros o documentos de su contabilidad, hacer constar en ellos datos falsos o mandar hacer o consentir que se ejecuten en ellos alguna alteración, raspadura, tachadura o falsificación.
 
-Multa de 5 a 100 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 100 veces del valor diana (sic) de la Unidad de Medida y Actualización vigente.
 
 i).- Destruir o inutilizar los libros o archivos para evitar una investigación fiscal. Multa de tres tanto del impuesto omitido cuando éste pueda precisarse, o de lo contrario.
 
-Multa de 5 a 100 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 100 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 j).- No presentar los inventarios y balances que se les soliciten, o presentarlos fuera de los plazos que las leyes dispongan.
 
-Multa de 5 a 20 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 20 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 k).- Faltar en todo o en parte al pago de un crédito fiscal como consecuencia de las omisiones, inexactitudes, simulaciones o falsificaciones a que se refieren las fracciones anteriores, así como cualesquier otra maniobra encaminada a eludir el pago del adeudo. Multa de tres tantos del impuesto omitido cuando pueda precisarse o de lo contrario.
 
-Multa de 10 a 30 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 l).- No hacer el pago de una prestación fiscal dentro de los plazos señalados por las Leyes Fiscales.
 
-Multa de 2 a 75 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 2 a 75 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 m).- No tener en los lugares determinados por las leyes fiscales respectivas, las placas, boletas de registro, los libros o cualquier otro documento necesario para la determinación de la base gravable.
 
-Multa de 1 a 15 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 15 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 n).- No devolver oportunamente a las oficinas receptoras los comprobantes de pago de una prestación fiscal, libros, placas, boletas o cualquier otro documento cuya devolución sea exigible por las leyes.
 
-Multa de 1 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 o).- No presentar las facturas, recibos, notas de venta, y otros comprobantes de las compras efectuadas.
 
-Multa de 1 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 p).- No suministrar los datos e informes que legalmente los exijan las autoridades fiscales, no mostrar los libros, documentos, registros, o impedir a las mismas autoridades la entrada a los almacenes, depósitos, bodegas o cualquier otra dependencia de la negociación o empresa, o en general, negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal, para comprobar la situación de la empresa o negociación visitada.
 
-Multa de 5 a 15 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 15 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 q).- Emprender cualquier explotación sin obtener previamente el permiso exigido por los ordenamientos legales o producir, fabricar, transformar, almacenar o expender determinados artículos fuera de las zonas o lugares autorizados al efecto.
 
-Multa de 5 a 30 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 r).- No registrar los contratos que señalan las leyes fiscales.
 
-Multa de 1 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 s).- Destruir o remover sin estar facultados, los sellos oficiales.
 
-Multa de 1 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 t).- Faltar a la obligación de extender facturas, notas de venta o comprobantes de máquinas registradoras o cualquiera otros documentos que señalen las leyes fiscales.
 
-Multa de 5 a 20 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 20 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 u).- Traficar con los documentos o comprobantes, de pago de prestaciones fiscales o hacer uso ilegal de ellos.
 
-Multa de 5 a 40 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 40 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 v).- Infringir disposiciones fiscales en forma no prevista en fracciones anteriores.
 
-Multa de 1 a 5 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 5 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 II.- Son infracciones cuya responsabilidad recae sobre terceros y a cada una corresponderá la sanción que en cada caso se señala:
 
 a).- No proporcionar o no aclarar oportunamente los avisos, informes, datos o documentos que les fueren solicitados por las autoridades fiscales con apoyo de las facultades que sobre el particular le confieren las leyes, o no exhibirlos en los plazos fijados.
 
-Multa de 3 a 40 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 3 a 40 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 b).- Presentar los avisos, informes, datos y documentos a que se refiere la fracción anterior, incompletos o inexactos.
 
-Multa de 1 a 20 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 20 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 c).- Presentar los avisos, informes, datos o documentos a que se refiere el inciso a) de este artículo, alterados o falsificados.
 
-Multa de 1 a 20 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 20 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 d).- Autorizar o hacer constar, en calidad de contadores, peritos o testigos, documentos, inventarios, balances o asientos con datos falsos.
 
-Multa de 10 a 90 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 90 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 e).- Intervenir en cualquier forma no espeificada (sic), en la alteración de documentos, en inscripción de cuentas, asientos o datos falsos en libros o registros relativos a la contabilidad, o en algún hecho preparatorio de los apuntados.
 
-Multa de 4 a 40 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 4 a 40 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 f).- No enterar dentro de los plazos señalados, las cantidades retenidas o no presentar las declaraciones, informes o documentos necesarios para la liquidación o pago del adeudo fiscal. Multa de tres tantos del impuesto omitido cuando pueda precisarse o de lo contrario.
 
-Multa de 1 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 Por cada infracción.
 
 g).- Presentar declaraciones, informes o documentos alterados, falsificados, incompletos o con errores que traigan consigo la evasión total o parcial de una prestación fiscal.
 
-Multa de 5 a 30 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 h).- Asesorar o aconsejar al contribuyente para que aluda el pago de alguna prestación fiscal o para que infrinja las leyes fiscales.
 
-Multa de 5 a 80 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 80 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 i).- No suministrar los datos o informes que legalmente los exijan las autoridades fiscales; no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores, o, en general los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal.
 
-Multa de 5 a 30 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 j).- Adquirir, ocultar, retener o enajenar, productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se hubieran debido pagar.
 
-Multa de 5 a 20 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 20 veces del valor diario de la Unidad do (sic) Medida y Actualización vigente.
 
 k).- No presentar ayuda a las autoridades fiscales por la determinación y cobro de prestaciones fiscales en los casos en que tengan obligación de hacerlo conforme a las disposiciones de la materia.
 
-Multa de 5 a 15 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 15 veces del valor diario de la Unidad do (sic) Medida y Actualización vigente.
 
 l).- No cerciorarse, al transportar artículos gravados, del pago de los impuestos que se haya causado, cuando las disposiciones fiscales impongan esa obligación, o hacer el transporte sin la documentación que exijan las mismas disposiciones.
 
-Multa de 1 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 10 veces del valor diario de la Unidad do (sic) Medida y Actualización vigente.
 
 m).- Destruir o remover sin estar facultados, los sellos oficiales.
 
-Multa de 1 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 10 veces del valor diario de la Unidad do (sic) Medida y Actualización vigente.
 
 n).- Traficar con los documentos y comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos.
 
-Multa de 8 a 40 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 8 a 40 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 o).- Infringir disposiciones fiscales en forma no previstas en las fracciones anteriores.
 
-Multa de 1 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 III.- Son infracciones cuya responsabilidad recae sobre los notarios, corredores, encargados de los registros públicos y, en general sobre los funcionarios, encargados de llevar la fé pública, y a cada uno corresponderá la sanción que en cada caso se señala:
 
 a).- No hacer la manifestación de las escrituras, contratos o cualesquiera actos que se celebren y otorguen ante su fé, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales.
 
-Multa de 5 a 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 b).- Autorizar actos o contratos de enajenación o transpaso (sic) de negociaciones, de disolución de sociedades u otros que sean fuente de ingresos gravados por el Fisco, sin cerciorarse previamente de que se está al corriente en el cumplimiento de las obligaciones fiscales relativas o sin dar los avisos que prevengan las leyes.
 
-Multa de 5 a 30 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 c).- Inscribir o registrar documentos que carezcan de la constancia de haberse pagado el impuesto o derecho correspondiente. Multa de tres tantos del impuesto omitido cuando éste se pueda precisar, o de lo contrario.
 
 d).- Autorizar documentos o contratos, que no estén debidamente requisitados de acuerdo con las leyes fiscales correspondientes.
 
-Multa de 5 a 20 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 20 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 e).- Cooperar con los infractores o facilitar en cualquier forma la omisión total o parcial del impuesto, mediante alteraciones, ocultaciones u otros hechos u omisiones.
 
-Multa de 10 a 30 días
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 f).- Otorgar constancia de que se ha cumplido con las obligaciones fiscales cuando no proceda su otorgamiento.
 
-Multa de 10 a 40 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 40 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 g).- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que exigen las disposiciones fiscales, o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos.
 
-Multa de 10 a 40 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 40 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 h).- Presentara los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
 
-Multa de 10 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 i).- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos.
 
-Multa de 10 a 30 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 j).- Infringir otras disposiciones fiscales en forma no prevista en las fracciones anteriores.
 
-Multa de 1 a 5 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 5 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 IV.- Son infracciones cuya responsabilidad recae sobre los funcionarios y empleados públicos de los municipios, así como sobre los encargados de servicios públicos u organismos oficiales y a cada una corresponderá la sanción que en cada caso se señala.
 
 a).- Dar entrada a documentos que carezcan de los requisitos especificados en las leyes o no requisitarlos debidamente cuando les corresponda hacerlo, y en general, no cuidar el cumplimiento de las disposiciones fiscales
 
-Multa de 5 a 30 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo.
 
 b).- Expedir actas, certificados, legalizar firmas autorizar documentos, inscribirlos o registrarlos sin que exista constancia de que se pagó el gravamen.
 
-Multa de 5 a 30 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 c).- Recibir el pago de una prestación fiscal y no enterar su importe inmediatamente en la caja recaudadora.
 
-Multa de 5 a 50 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 50 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 d).- Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e intereses fiscales.
 
-Multa de 5 a 50 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 50 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 e).- No presentar o proporcionar extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales, presentarlos incompletos, o inexactos. No prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias.
 
-Multa de 10 a 30 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 30 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 f).- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
 
-Multa de 10 a 50 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 50 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 g).- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones fiscales.
 
-Multa de 10 a 50 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 50 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 h).- Asentar falsamente que se ha dado cumplimiento a las obligaciones fiscales o que se practicaron visitas de inspección; o incluir en las actas relativas, datos falsos.
 
-Multa de 10 a 50 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 50 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 i).- Alterar documentos fiscales.
 
-Multa de 10 a 50 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 10 a 50 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 j).- No efectuar las investigaciones administrativas que están obligados a hacer en materia fiscal.
 
-Multa de 5 a 25 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 25 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 k).- Incluir o asentar datos falsos, o bien ocultar los verdaderos en perjuicios del fisco, en las actas que levanten con motivo de las investigaciones administrativas que se efectúen.
 
-Multa de 5 a 25 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 25 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 l).- Intervenir en la tramitación o resolución de algún asunto, cuando tenga impedimento de acuerdo con las disposiciones fiscales.
 
-Multa de 5 a 25 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 25 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 m).- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos.
 
-Multa de 5 a 25 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 25 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 n).- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que ello sea obligatorio, de acuerdo con las leyes de la materia.
 
-Multa de 8 a 40 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 8 a 40 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 o).- Adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona.
 
-Multa de 5 a 20 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 20 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 p).- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos.
 
-Multa de 8 a 90 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 8 a 90 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 q).- No suministrar los datos o informes que legalmente les exijan las autoridades fiscales, negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal.
 
-Multa de 8 a 90 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 8 a 90 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 r).- Exigir o recibir bajo el título de cooperación, colaboración y otro semejante, cualquier prestación que no esté expresamente prevista en la Ley.
 
-Multa de 5 a 90 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 5 a 90 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 s).- Infringir disposiciones fiscales en forma no prevista en las fracciones anteriores.
 
-Multa de 1 a 8 días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Multa de 1 a 8 veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1479,13 +1619,17 @@ i).- Destruya, ordene o permita la destrucción total o parcial, dejándolos ile
 
 j).- Utilice pastas o encuadernaciones de los libros a que se refiere el inciso anterior, para sustituir o cambiar las páginas foliadas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 93.
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto del impuesto defraudado es del equivalente al ingreso de 60 días de salario mínimo general a 100 días y con prisión de dos a nueve años si dicho monto es mayor del equivalente a 100 días de ingreso del salario mínimo general, vigente en el Estado.
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto del impuesto defraudado es del equivalente al ingreso de 60 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente; y con prisión de dos a nueve años si dicho monto es mayor del equivalente a 100 veces el valor diario de la Unidad de Medida y Actualización vigente. Días de ingreso del salario mínimo general, vigente en el Estado. (sic)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 Cuando no se pueda determinar la cuantía del impuesto que se defraudó la pena será de tres meses a nueve años de prisión.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 No se impondrán las sanciones previstas en este artículo, si quien hubiere cometido el delito entera espontáneamente el impuesto omitido.
 
@@ -1525,7 +1669,9 @@ Se impondrá prisión hasta de tres años, a los funcionarios o empleados públi
 
 Las autoridades Fiscales, para hacer cumplir sus determinaciones, cualquiera que sea su naturaleza, podrán emplear los siguientes medios de apremio:
 
-I.- Multa hasta de dos veces el equivalente al salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+I.- Multa hasta dos veces del valor diario de la Unidad de Medida y Actualización vigente.
 
 II.- Auxilio de la fuerza pública.
 
@@ -1953,7 +2099,9 @@ Se convocará para remate para una fecha fijada dentro de los treinta días sigu
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-Cuando el valor de los bienes muebles e inmuebles, exceda de 10 veces el salario mínimo, la convocatoria se publicará en el órgano oficial del Estado por una sola vez y en el periódico de mayor circulación de la localidad, dos veces con intermedio de siete días.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Cuando el valor de los bienes muebles e inmuebles, exceda de 10 veces del valor diario de la Unidad de Medida y Actualización vigente, la convocatoria se publicará en el órgano oficial del Estado por una sola vez y en el periódico de mayor circulación de la localidad, dos veces con intermedio de siete días.
 
 En todo caso, a petición del deudor y previo pago del gasto, la autoridad ejecutora podrá ordenar una publicidad más amplia dentro del plazo señalado en el primer párrafo de este artículo.
 
@@ -1981,11 +2129,13 @@ I.- Si se trata de bienes raíces o derechos reales, la que cubra las dos tercer
 
 II.- Si de muebles, la que cubra la mitad.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 157.
 
-En toda postura deberá ofrecerse de contado, a lo menos, la parte suficiente para cubrir el interés fiscal si este es a la bse (sic) fijada para la venta y la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondientes, hasta por un año de plazo si la cantidad es menor de 150 veces el salario mínimo y hasta un plazo de dos años de esa suma en adelante.
+En toda postura deberá ofrecerse de contado, a lo menos, la parte suficiente para cubrir el interés fiscal si este es a la base fijada para la venta y la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondientes, hasta por un año de plazo si la cantidad es menor de 150 veces del valor diario de la Unidad de Medida y Actualización vigente, y hasta un plazo de dos años de esa suma en adelante.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 Los bienes, fracción o lote de bienes, cuya base para la venta es igual o inferior al fiscal solo podrán rematarse de contado.
 
@@ -2135,9 +2285,9 @@ b).- Si un ejecutor notificara un adeudo y otro ejecutor hiciera el requerimient
 
 c).- El ejecutor que practique la diligencia de embargo tendrán (sic) derecho, independientemente de los honorarios que devengue por otros conceptos, al cuatro por ciento sobre el valor de los bienes secuestrados que sirvieron de base a la adjudicación en remate, a la venta de remate, o de no efectuarse una ni otra, sobre el monto de crédito fiscal a esa fecha.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-d).- En ningún expediente administrativo de ejecución los gastos serán menores del equivalente a 0.25 veces el salario mínimo vigente en el estado, ni excederán del equivalente a 20 veces del referido salario, los honorarios del ejecutor o ejecutores que intervengan, cualquiera que sea el número, la naturaleza y la importancia de las diligencias que practiquen. Las oficinas exactoras bajo la revisión de la Tesorería Municipal, determinarán la proporción que corresponda a cada Ejecutor, siempre que en un mismo expediente hubieren actuado varios;
+d).- En ningún expediente administrativo de ejecución los gastos serán menores del equivalente a 0.25 veces del valor diario de la Unidad de Medida y Actualización vigente, ni excederán del equivalente a 20 veces del valor diario de la Unidad de Medida y Actualización vigente, los honorarios del ejecutor o ejecutores que intervengan, cualquiera que sea el número, la naturaleza y la importancia de las diligencias que practiquen. Las oficinas exactoras bajo la revisión de la Tesorería Municipal, determinarán la proporción que corresponda a cada Ejecutor, siempre que en un mismo expediente hubieren actuado varios;
 
 II.- Para el Personal Administrativo:
 
@@ -2608,3 +2758,19 @@ P.O. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 179 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE ADICIONA LOS INCISOS A) Y B) A LA FRACCIÓN V DEL ARTÍCULO 75 BIS A, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 PRIMERO (SIC): La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
