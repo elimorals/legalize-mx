@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-cultura-de-baja-california-34535"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-24"
-last_updated: "2015-07-31"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de octubre de 2003.
 
@@ -337,7 +337,9 @@ III. Aprobar y presentar para su expedición, el proyecto de Reglamento Interno 
 
 IV. Conocer de los informes, dictámenes y recomendaciones del Comisario, resolviendo lo conducente;
 
-V. Otorgar a favor del Director General, poder general para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y especiales que requieren cláusula especial conforme a Ley. El poder para actos de dominio, se otorgará hasta por el importe equivalente a tres mil quinientas veces el salario mínimo general vigente en el Estado al momento de celebrarse la operación. En los casos en que se requiera efectuar una operación por un importe mayor al señalado, se deberá de recabar autorización específica de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+V. Otorgar a favor del Director General, poder general para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y especiales que requieren cláusula especial conforme a Ley. El poder para actos de dominio, se otorgara hasta por el importe equivalente a tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de celebrarse la operación. En los casos en que se requiera efectuar una operación por un importe mayor al señalado, se deberá de recabar autorización específica de la Junta de Gobierno;
 
 VI. Analizar y aprobar en su caso, los informes que rinda el Director General;
 
@@ -632,3 +634,19 @@ P.O. 26 DE JUNIO DE 2015.
 P.O. 31 DE JULIO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
