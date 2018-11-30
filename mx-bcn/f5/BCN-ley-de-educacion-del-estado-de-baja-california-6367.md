@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2018-10-19"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -552,6 +552,10 @@ ARTICULO 16 TER.- Las autoridades educativas deben impulsar programas y escuelas
 Asimismo, apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros. Será de carácter obligatorio para las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, asistir a una actividad anual sobre prevención de delitos contra la libertad y seguridad sexual de las personas, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios.
 
 Las autoridades educativas establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Promoverán y apoyarán la creación de huertos escolares en todas las escuelas de educación básica, tanto en zonas rurales como urbanas, a fin de que los alumnos obtengan una herramienta para la autoproducción alimentaria, tanto en sus planteles escolares como en sus hogares.
 
 Igualmente, impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
 
@@ -2222,3 +2226,11 @@ P.O. 19 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 250 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 16 TER DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 272 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 16 TER DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Para efectos de la implementación de la presente reforma, el titular de la Secretaría de Educación y Bienestar Social, suscribirá un convenio de colaboración con autoridades públicas, universidades, así como organismos e instituciones que tengan como fin la protección al ambiente, nutrición y la agricultura, desarrollando programas de servicio social que hagan posible la práctica de los objetivos de esta reforma.
