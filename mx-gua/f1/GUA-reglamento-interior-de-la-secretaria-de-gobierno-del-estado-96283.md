@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2018-07-02"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
 MIGUEL MÁRQUEZ MÁRQUEZ, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III, y 79 de la Constitución Política del Estado de Guanajuato, y en observancia de lo dispuesto por los artículos 2o., 6o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado.
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -109,11 +113,23 @@ f.5) Dirección de Control Patrimonial; y
 
 f.6) (DEROGADO, P.O. 2 DE JULIO DE 2018)
 
-g) Dirección de Análisis de Información.
+g) (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2018)
 
 II. Subsecretaría de Servicios a la Comunidad:
 
-a) (DEROGADO, P.O. 17 DE JUNIO DE 2016)
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+a) Dirección General de Transporte:
+
+a.1) Dirección de Desarrollo del Transporte;
+
+a.2) Dirección Jurídica de Transporte;
+
+a.3) Dirección de Inspección;
+
+a.4) Dirección de Atención, Capacitación y Educación Vial; y
+
+a.5) Dirección de Gestión Administrativa de Transporte.
 
 b) Dirección General de Defensoría Pública:
 
@@ -140,6 +156,18 @@ d.1) Dirección de Control Operativo y Seguimiento;
 d.2) Dirección de Asesoría Jurídica y Rectificaciones; y
 
 d.3) Dirección de Gestión Administrativa del Registro Civil.
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+e) Dirección General de Seguridad en la Tenencia de la Tierra:
+
+e.1) Dirección de Regularización de Asentamientos Humanos;
+
+e.2) Dirección de Asuntos Agrarios y Regularización de Predios Rústicos;
+
+e.3) Dirección de Proyectos Técnicos; y
+
+e.4) Dirección de Vinculación Social para la Seguridad de la Tenencia de la Tierra.
 
 III. Subsecretaría de Vinculación y Desarrollo Político:
 
@@ -189,11 +217,13 @@ d) Dirección de Gestión de Proyectos y Procesamiento de Información del Traba
 
 V. Los órganos desconcentrados siguientes y aquellos que le correspondan por disposición legal, reglamentaria o determinación del Gobernador del Estado:
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-a) Instituto de Movilidad del Estado de Guanajuato;
+a) Coordinación General de Información Estratégica;
 
-b) Instituto de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato; y
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+b) Unidad de Análisis y Estrategia de Seguridad Ciudadana; y
 
 c) Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
 
@@ -449,7 +479,7 @@ V. Dirección General de Asuntos Jurídicos;
 
 VI. Dirección General de Administración; y
 
-VII. Dirección de Análisis de Información.
+VII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2018)
 
 El Secretario determinará los lineamientos administrativos a los que deberán ajustar su trabajo.
 
@@ -1099,37 +1129,13 @@ XI. Las demás que le confiera el Secretario, el Director General de Administrac
 
 ### Capítulo VIII. Dirección de Análisis de Información
 
-Dirección de Análisis de Información
-
 ###### Artículo 38.
 
-La Dirección de Análisis de Información es un órgano de apoyo del Secretario y contará con personal calificado en disciplinas del conocimiento humano o que demuestre tener las competencias necesarias para desempeñar las facultades correspondientes.
-
-Facultades de la Dirección de Análisis de Información
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2018)
 
 ###### Artículo 39.
 
-La Dirección de Análisis de Información tiene las siguientes facultades:
-
-I. Establecer y operar un Sistema de Análisis de Información que tenga por objeto la detección y prevención de posibles conflictos sociales, así como la generación de elementos para el diagnóstico de los mismos;
-
-II. Recopilar la información que sirva de insumo al Sistema;
-
-III. Analizar información que se relacione con la competencia y facultades de la Secretaría;
-
-IV. Formular y proponer al Director General de Administración, las necesidades presupuestales del área a su cargo;
-
-V. Ejecutar y supervisar el ejercicio del presupuesto asignado para el desarrollo de los asuntos de su competencia;
-
-VI. Formular y proponer al Director General de Administración, las necesidades de capacitación del personal a su cargo en atención a la naturaleza de sus funciones;
-
-VII. Presentar anualmente a la Dirección General de Administración, el o los anteproyectos de inversión de la Dirección a su cargo;
-
-VIII. Atender las solicitudes de información que le formule la Unidad de Enlace de la Secretaría en materia de Acceso a la Información Pública; y
-
-IX. Las demás que le confiera su superior jerárquico.
-
-Las unidades administrativas de la Secretaría deben proporcionar a dicha Dirección la información necesaria para el cumplimiento del objeto del Sistema de Análisis de Información.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2018)
 
 ## Título Quinto. Subsecretaría de Servicios a la Comunidad
 
@@ -1141,13 +1147,23 @@ Unidades adscritas a la Subsecretaría de Servicios a la Comunidad
 
 La Subsecretaría de Servicios a la Comunidad debe planear, coordinar, supervisar y evaluar el trabajo de las siguientes direcciones generales:
 
-I. (DEROGADA, P.O. 17 DE JUNIO DE 2016)
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+I. Dirección General de Transporte;
 
 II. Dirección General de Defensoría Pública;
 
-III. Dirección General de Registros Públicos de la Propiedad y Notarías; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-IV. Dirección General del Registro Civil.
+III. Dirección General de Registros Públicos de la Propiedad y Notarías;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+IV. Dirección General del Registro Civil; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+V. Dirección General de Seguridad en la Tenencia de la Tierra.
 
 Facultades de la Subsecretaría de Servicios a la Comunidad
 
@@ -1155,59 +1171,323 @@ Facultades de la Subsecretaría de Servicios a la Comunidad
 
 La Subsecretaría de Servicios a la Comunidad tiene, además de las facultades genéricas, las siguientes:
 
-I. (DEROGADA, P.O. 17 DE JUNIO DE 2016)
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II. (DEROGADA, P.O. 17 DE JUNIO DE 2016)
+I. Coordinar y supervisar la prestación del servicio público y especial de transporte de competencia estatal, así como la educación vial;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II. Ejercer las atribuciones que le correspondan a la Secretaría en materia de servicio público y especial de transporte de competencia estatal, que no sean exclusivas del Secretario;
 
 III. Dictar las medidas necesarias para la adecuada prestación de los servicios de la defensoría pública penal, de la defensoría de oficio especializada para adolescentes, de la representación gratuita en materia civil, así como de la defensoría administrativa del servidor público, en los términos de la legislación de la materia;
 
 IV. Dictar las medidas necesarias para el adecuado funcionamiento del Registro Público de la Propiedad;
 
-V. Dictar las medidas necesarias para el adecuado control y vigilancia del ejercicio de la función notarial, de conformidad con las leyes y normatividad de la materia; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-VI. Dictar las medidas necesarias para el adecuado funcionamiento del Registro Civil.
+V. Dictar las medidas necesarias para el adecuado control y vigilancia del ejercicio de la función notarial, de conformidad con las leyes y normatividad de la materia;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+VI. Dictar las medidas necesarias para el adecuado funcionamiento del Registro Civil;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+VII. Coadyuvar con el Secretario en el ejercicio de las atribuciones en materia de regularización de tenencia de la tierra que le correspondan a la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+VIII. Generar y coordinar la solución en conflictos sobre la tenencia de la tierra y situaciones afines a la misma.
 
 ### Capítulo II. Dirección General de Transporte
 
 #### Sección Primera. Integración y Facultades
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Unidades adscritas a la Dirección General de Transporte
+
 ###### Artículo 42.
 
-(DEROGADO, P.O. 17 DE JUNIO DE 2016)
+La Dirección General de Transporte debe planear, coordinar, supervisar y evaluar el trabajo de las siguientes unidades administrativas:
+
+I. Dirección de Desarrollo del Transporte;
+
+II. Dirección Jurídica de Transporte;
+
+III. Dirección de Inspección;
+
+IV. Dirección de Atención, Capacitación y Educación Vial; y
+
+V. Dirección de Gestión Administrativa de Transporte.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección General de Transporte
 
 ###### Artículo 43.
 
-(DEROGADO, P.O. 17 DE JUNIO DE 2016)
+La Dirección General de Transporte tiene, además de las facultades genéricas, las siguientes:
+
+I. Ordenar, planear, promover y administrar el servicio público y especial de transporte, así como la educación y cultura vial;
+
+II. Fungir como la Unidad Administrativa de Transporte a que se refiere la Ley de Movilidad del Estado de Guanajuato y sus Municipios, con las atribuciones que la misma le confiere;
+
+III. Realizar de manera directa o mediante los entes especializados los análisis, estudios técnicos y diagnósticos que se requieran en materia de servicio público y especial de transporte, para el cumplimiento de su objeto y atribuciones;
+
+IV. Realizar el procedimiento para el otorgamiento, modificación, suspensión y revocación de concesiones y permisos de transporte público de competencia estatal, en los términos de la ley de la materia;
+
+V. Someter a consideración del Secretario la expedición, revocación, prórroga, transmisión y rectificación de títulos de concesión de transporte público de competencia estatal, previo acuerdo con el Subsecretario de Servicios a la Comunidad;
+
+VI. Llevar el registro de las concesiones y permisos de transporte público y especial, de competencia estatal;
+
+VII. Administrar y operar las oficinas regionales de movilidad que establezca el Secretario, a que se refiere la Ley de Movilidad del Estado de Guanajuato y sus Municipios;
+
+VIII. Supervisar, verificar y vigilar la prestación del servicio público y especial del transporte de competencia estatal, por conducto de los inspectores de movilidad;
+
+IX. Autorizar, emitir y organizar los actos relativos al procedimiento para enajenación de vehículos declarados en abandono a favor del fisco del Estado;
+
+X. Supervisar que los procedimientos jurídico-administrativos en materia de transporte de competencia estatal se desarrollen con estricto apego a la normatividad aplicable; y
+
+XI. Autorizar la realización de campañas de revisión física, documental y de operación de los vehículos y servicios conexos con el servicio público y especial de transporte de competencia estatal.
 
 #### Sección Segunda. Dirección de Desarrollo del Transporte
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección de Desarrollo del Trasporte (sic)
+
 ###### Artículo 44.
 
-(DEROGADO, P.O. 17 DE JUNIO DE 2016)
+La Dirección de Desarrollo del Transporte tiene las siguientes facultades:
+
+I. Formular o proponer la realización o contratación de análisis o estudios técnicos para la operación y mejoramiento del servicio público y especial de transporte de competencia estatal;
+
+II. Realizar o proponer los estudios y análisis técnicos para el establecimiento de las tarifas del servicio público de transporte;
+
+III. Establecer y operar sistemas automatizados de monitoreo del servicio público de transporte de competencia estatal, así como diseñar y dar seguimiento a los planes de operación de la red de rutas;
+
+IV. Determinar, previo análisis o estudio técnico, la ubicación y funcionamiento de las terminales, estaciones intermedias y de transbordo, bahías, lugares de ascenso y descenso de pasaje, ubicación de sitios de taxi, bases de contratación y las bases de ruta, considerando la accesibilidad universal;
+
+V. Recopilar y analizar la información estadística relativa al transporte público y especial de competencia estatal;
+
+VI. Coadyuvar con la Secretaría de Infraestructura, Conectividad y Movilidad, en la revisión y evaluación de los programas y acciones en materia de construcción de infraestructura, relacionados con el servicio público y especial de transporte;
+
+VII. Coordinarse con as (sic) autoridades competentes para la investigación, desarrollo y aplicación de nuevas tecnologías en materia de transporte público;
+
+VIII. Diseñar y proponer a la Dirección General, previo los estudios técnicos que correspondan, las rutas, vehículos, planes de operación, itinerarios, horarios, para la eficaz prestación del servicio público y especial de transporte;
+
+IX. Elaborar las especificaciones técnicas para la aplicación de la revista físico mecánica de los vehículos del servicio público y especial de transporte de competencia estatal;
+
+X. Proponer a la Dirección General los lineamientos y organización para el funcionamiento de la Ventanilla Única de Atención a personas usuarias del transporte público de competencia estatal;
+
+XI. Coadyuvar con las instancias correspondientes, proporcionando el inventario para el procedimiento de declaración de abandono de vehículos y su enajenación a favor del fisco del Estado;
+
+XII. Emitir los lineamientos, requisitos y condiciones para el establecimiento y autorización de centros de alquiler de bicicletas;
+
+XIII. Tramitar y proporcionar los siguientes servicios:
+
+a) Permiso de transporte público para las modalidades turístico, de carga y personas con discapacidad y movilidad reducida;
+
+b) Permiso eventual para prestar el servicio público de transporte de competencia estatal, previo el estudio correspondiente;
+
+c) Permiso para la instalación de publicidad, para los vehículos del servicio público y especial de transporte de competencia estatal;
+
+d) Autorización de enrolamiento de vehículos del servicio público y especial de transporte;
+
+e) Alta y baja de unidades vehiculares del servicio público de transporte de competencia estatal;
+
+f) Permiso provisional para circular sin placas a las personas concesionarias, cuando justifiquen que se encuentran por culminar el trámite de alta de un vehículo para la prestación del servicio público y especial de transporte de competencia estatal; y
+
+g) Realizar el trámite para la expedición de los permisos del servicio especial de transporte, previo estudio correspondiente, en su caso; y otorgarlos, previo acuerdo con el Subsecretario de su adscripción;
+
+XIV. Realizar el dictamen correspondiente para emitir el reconocimiento como centro autorizado para el cambio de sistema de combustión para vehículos del servicio público y especial de transporte de competencia estatal; y
+
+XV. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
 
 #### Sección Tercera. Dirección Jurídica de Transporte
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección Jurídica de Transporte.
+
 ###### Artículo 45.
 
-(DEROGADO, P.O. 17 DE JUNIO DE 2016)
+La Dirección Jurídica de Transporte tiene las siguientes facultades:
 
-#### Sección Cuarta. Dirección de Inspección del Transporte
+I. Asesorar y representar jurídicamente a la persona titular de la Dirección General, así como a sus unidades administrativas;
+
+II. Instaurar y substanciar los procedimientos jurídico administrativos, proponiendo a la persona titular de la Dirección General, los dictámenes y proyectos de resolución que correspondan, sobre:
+
+a) Privación, cancelación o suspensión de los derechos derivados de la licencia o permiso para conducir, por infracción a la Ley y su Reglamento;
+
+b) Transmisión de derechos de las concesiones del servicio público de transporte de competencia estatal;
+
+c) Suspensión de los derechos derivados de la concesión o permiso;
+
+d) Suspensión de los vehículos del servicio público y especial de transporte;
+
+e) Liberación de vehículos del servicio público y especial de transporte, así como de vehículos particulares que sean puestos a su disposición;
+
+f) Recurso de inconformidad;
+
+g) Extinción de concesiones o permisos;
+
+h) Rectificación de título concesión;
+
+i) Expedición de título concesión;
+
+j) Regularización de expedientes;
+
+k) Autorización de prórroga de las concesiones;
+
+l) Otorgamiento, rescate o intervención de concesiones y permisos;
+
+m) Revocación de concesiones y permisos;
+
+n) Cancelación de permisos; y
+
+o) Resolución de la modificación de ruta;
+
+III. Realizar los actos encaminados al cumplimiento de las resoluciones judiciales;
+
+IV. Intervenir en la defensa jurídica de la Dirección General y sus unidades administrativas, en los juicios o procedimientos en los que sean parte;
+
+V. Proponer las adecuaciones al marco normativo en materia de la competencia de la Dirección General;
+
+VI. Mantener actualizado y dar seguimiento al registro de organizaciones o asociaciones de personas concesionarias del servicio público y especial de transporte de competencia estatal;
+
+VII. Realizar, previo acuerdo con la persona titular de la Dirección General, las campañas de revisión física, documental y de operación de los vehículos y servicios vinculados con el servicio público y especial de transporte de competencia estatal;
+
+VIII. Revisar y en su caso aprobar el registro de los contratos de seguro, fideicomisos y fondos de garantía exigidos por la Ley para la prestación del servicio público y especial de transporte;
+
+IX. Elaborar los convenios y actos administrativos que sean necesarios para el buen funcionamiento de la Dirección General de Transporte y de sus unidades administrativas;
+
+X. Emitir la autorización provisional para que los vehículos afectos a la prestación del servicio público de transporte puedan circular sin placas cuando se encuentren realizando la transmisión de la concesión o por disposición de autoridad jurisdiccional se le conceda la posibilidad de explotar el servicio público de transporte;
+
+XI. Verificar que el servicio público y especial de transporte de competencia estatal se preste conforme a la normatividad y, en su caso, ordenar para tal fin la detención administrativa de los vehículos afectos a la prestación de dichos servicios; y
+
+XII. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
+
+De esta Dirección dependerá el Registro Estatal de Concesiones y Permisos de Transporte, encargado de inscribir las concesiones y permisos, concesionarios, permisionarios, y vehículos con que se prestan los servicios público y especial de transporte de competencia estatal y municipal, así como las resoluciones o actos que creen, modifiquen o extingan un derecho relacionado con los mismos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O 30 DE NOVIEMBRE DE 2018)</small>
+
+#### Sección Cuarta. Dirección de Inspección
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección de Inspección
 
 ###### Artículo 46.
 
-(DEROGADO, P.O. 17 DE JUNIO DE 2016)
+La Dirección de Inspección tiene las siguientes facultades:
 
-#### Sección Quinta. Dirección de Formación y Capacitación de Transporte
+I. Supervisar, verificar y vigilar, por conducto de los inspectores de movilidad, que la prestación del servicio público y especial de transporte de competencia estatal, se ejecute de acuerdo a la normatividad de la materia, así como levantar las boletas de infracción y actas de inspección;
+
+II. Elaborar y ejecutar los planes, programas y operativos en materia de inspección del servicio público y especial de transporte de competencia estatal;
+
+III. Analizar, evaluar y remitir a la Dirección Jurídica de Transporte, las incidencias derivadas del incumplimiento a las disposiciones legales en materia de transporte, así como de las condiciones establecidas en las concesiones o permisos correspondientes, para la instauración en su caso, de los procedimientos administrativos que procedan;
+
+IV. Retirar y asegurar los vehículos que se utilicen para la prestación del servicio público y especial de transporte, en los supuestos previstos en la Ley de Movilidad del Estado de Guanajuato y sus Municipios y su Reglamento;
+
+V. Llevar la estadística que resulte del cumplimiento de sus facultades de vigilancia y sanción y proponer a la persona titular de la Dirección General de Transporte las medidas preventivas y correctivas que procedan;
+
+VI. Coadyuvar con las autoridades federales, estatales y municipales en la ejecución de acciones y operativos conjuntos en la materia de su competencia;
+
+VII. Dictar las medidas necesarias para mantener la disciplina del personal de inspección; y
+
+VIII. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O 30 DE NOVIEMBRE DE 2018)</small>
+
+#### Sección Quinta. Dirección de Atención, Capacitación y Educación Vial
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección de Atención, Capacitación y Educación Vial
 
 ###### Artículo 47.
 
-(DEROGADO, P.O. 17 DE JUNIO DE 2016)
+La Dirección de Atención, Capacitación y Educación Vial tiene las siguientes facultades:
+
+I. Planear, establecer y actualizar los lineamientos y requisitos para los diferentes trámites y servicios que se lleven a cabo en el área a su cargo en materia de transporte y requisitos de tránsito;
+
+II. Coordinar y prestar a través de las Oficinas Regionales de Movilidad, los siguientes servicios:
+
+a) Autorización de alta y baja de unidades vehiculares del servicio público de transporte de competencia estatal;
+
+b) Otorgamiento de permisos del servicio especial de transporte;
+
+c) Autorización de depósito de vehículos;
+
+d) Autorización de prórrogas de antigüedad de vehículos del servicio público y especial de transporte de competencia estatal;
+
+e) Expedición de permisos extraordinarios de servicio público de transporte de competencia estatal;
+
+f) Autorización de sitios para el servicio público de alquiler sin ruta fija <<taxi>>, previo estudio que al efecto realice la Dirección de Desarrollo del Transporte;
+
+g) Expedición de permisos provisionales para circular sin placas a vehículos particulares;
+
+h) Expedición de permisos provisionales para la identificación de vehículos de personas con discapacidad o movilidad reducida;
+
+i) Expedición de licencias y permisos para conducir;
+
+j) Liberación de vehículos del servicio público y especial de transporte de competencia estatal, detenidos por infracciones a la Ley y su reglamento; y
+
+k) Expedición de clave de trámite de no portación de colores oficiales y número económico, de los vehículos del servicio público y especial de transporte de competencia estatal respecto de los que se solicite su baja.
+
+III. Proponer a la Dirección General los lineamientos y organización para el funcionamiento de las oficinas regionales de movilidad;
+
+IV. Coordinar la integración y actualización de la guía que contenga los lineamientos y requerimientos administrativos para la expedición de licencias y permisos para conducir y en su caso emitir los criterios correspondientes;
+
+V. Emitir los criterios correspondientes respecto de los trámites y servicios que se lleven a cabo en las oficinas regionales de movilidad a efecto de homologar la atención y certeza a las personas usuarias así como la organización interna de las oficinas;
+
+VI. Coadyuvar con las demás unidades administrativas de la Dirección General y con la Secretaría de Finanzas, Inversión y Administración, en el registro vehicular de las personas concesionarias y permisionarias del servicio público y especial de transporte de competencia estatal;
+
+VII. Formular y proponer a la Dirección General y en su caso ejecutar las políticas públicas, planes y programas estatales en materia de capacitación y educación vial para las personas operadoras del servicio público y especial de transporte y ciudadanía en general;
+
+VIII. Coordinar y verificar el cumplimiento de los convenios celebrados con empresas u organismos capacitadores de las personas operadoras del servicio público y especial de transporte y con las escuelas de manejo reconocidas por la Dirección General;
+
+IX. Coordinar y controlar la expedición del tarjetón de capacitación a las, personas operadoras del servicio público y especial de transporte que aprobaron la capacitación impartida por esta dirección o por el centro capacitador;
+
+X. Realizar de manera directa o en coordinación con otras autoridades, sectores educativo o privado, pláticas, talleres o campañas de educación y formación de una cultura vial en el Estado, así como elaborar e implementar programas preventivos de disminución de accidentes;
+
+XI. Participar en las acciones de investigación en materia de educación y seguridad vial para la prevención de accidentes viales;
+
+XII. Coordinar y supervisar la gestión de recursos financieros ante las instancias correspondientes municipales, estatales, federales e internacionales, para la difusión de programas, campañas y acciones en materia de fomento de una mejor cultura vial, así como de capacitación a personas operadoras del servicio público y especial de transporte del Estado;
+
+XIII. Proponer a la Dirección General, proyectos de manuales o normas técnicas de uso seguro de la vía pública, de manejo de vehículos y demás componentes que permitan prevenir accidentes viales en el Estado;
+
+XIV. Validar el contenido de los programas y cursos de capacitación que impartan los municipios, las personas concesionarias y permisionarias a los operadores, supervisando su cumplimiento;
+
+XV. Elaborar y aplicar el examen teórico de manejo para obtener la licencia o permiso de conducir, así como evaluar su aplicación; y
+
+XVI. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
 
 #### Sección Sexta. Dirección de Gestión Administrativa de Transporte
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección de Gestión Administrativa de Transporte
+
 ###### Artículo 48.
 
-(DEROGADO, P.O. 17 DE JUNIO DE 2016)
+La Dirección de Gestión Administrativa de Transporte tiene las siguientes facultades:
+
+I. Coordinar, supervisar y atender las necesidades para el funcionamiento administrativo de las diferentes áreas de la Dirección General;
+
+II. Administrar y controlar los sistemas informáticos de la Dirección General garantizando su adecuado funcionamiento;
+
+III. Realizar y supervisar revisiones a los municipios con que se tenga celebrado convenio para la expedición de licencias y permisos de conducir a fin de verificar su cumplimiento, así como de aquellas otras disposiciones o lineamientos que se emitan para tal efecto;
+
+IV. Supervisar a las diferentes áreas de la Dirección General, respecto al desarrollo de los tramites y procesos, realizando, en su caso, las observaciones o acciones correspondientes remitiéndolas a la Dirección Jurídica de Transporte para que proceda en consecuencia, sin perjuicio de las atribuciones del órgano interno de control;
+
+V. Elaborar en forma anual el anteproyecto de presupuesto de egresos de la Dirección General y someterlo a consideración de su titular;
+
+VI. Diseñar y proponer a la Dirección General las estrategias necesarias para la aplicación de los recursos económicos que le sean asignados para la implementación de acciones en materia de servicio público y especial de transporte; y
+
+VII. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
 
 ### Capítulo III. Dirección General de Defensoría Pública
 
@@ -1619,33 +1899,185 @@ I. Controlar el inventario y distribución de los formatos para expedición y as
 
 II. Resguardar el registro de firmas y rúbricas auténticas y sellos oficiales, de quienes ostentan la fe pública registral en la Institución.
 
-### Capítulo I. Organización y Facultades de la Subsecretaría de Vinculación y Desarrollo Político
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Unidades adscritas a la Subsecretaría de Vinculación y Desarrollo Político
+### Capítulo VI. Dirección General de Seguridad en la Tenencia de la tierra
 
-#### Sección Primera. Integración y Facultades
-
-Unidades adscritas a la Dirección General de Concertación Política
-
-#### Sección Segunda. Dirección de Desarrollo Político
-
-Facultades de la Dirección de Desarrollo Político
-
-#### Sección Tercera. Dirección de Asuntos Sociales
-
-Facultades de la Dirección de Asuntos Sociales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 #### Sección Primera. Integración y Facultades
 
-Unidades adscritas a la Dirección General de Enlace Gubernamental
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-#### Sección Segunda. Dirección de Atención a Municipios
+Unidades adscritas a la Dirección General de Seguridad en la Tenencia de la Tierra
 
-Facultades de la Dirección de Atención a Municipios
+###### Artículo 69 Bis.
+
+La Dirección General de Seguridad en la Tenencia de la Tierra debe planear, coordinar, supervisar y evaluar el trabajo de las siguientes unidades administrativas:
+
+I. Dirección de Regularización de Asentamientos Humanos;
+
+II. Dirección de Asuntos Agrarios y Regularización de Predios Rústicos;
+
+III. Dirección de Proyectos Técnicos; y
+
+IV. Dirección de Vinculación Social para la Seguridad de la Tenencia de la Tierra.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección General de Seguridad en la Tenencia de la Tierra
+
+###### Artículo 69 Ter.
+
+La Dirección General de Seguridad en la Tenencia de la Tierra tiene, además de las facultades genéricas, las siguientes:
+
+I. Promover la efectiva coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial y con los municipios, para la ejecución de acciones de regularización de tenencia de la tierra;
+
+II. Implementar acciones que atiendan la problemática que sobre la tenencia de la tierra o situaciones afines a la misma, se originen en la entidad;
+
+III. Proponer la celebración de instrumentos de coordinación y colaboración para consolidar la seguridad en la tenencia de la tierra;
+
+IV. Dirigir, previo acuerdo con el Secretario, el trámite de los expedientes de expropiación, ocupación temporal y limitación de dominio, de bienes inmuebles ubicados en el estado para la regularización de predios rústicos y asentamientos humanos, conforme a la legislación de la materia;
+
+V. Proporcionar el apoyo técnico a las dependencias y entidades de la administración pública estatal y municipal que lo soliciten, en materia de regularización de tenencia de la tierra;
+
+VI. Establecer, coordinar y dar seguimiento de los registros de los conflictos agrarios; predios rústicos y de asentamientos humanos en la entidad;
+
+VII. Establecer mecanismos de coordinación con la unidad administrativa de la Secretaría de Medio Ambiente y Ordenamiento Territorial, para la planeación y ejecución de acciones en materia de regularización de la tenencia de la tierra en la entidad;
+
+VIII. Proponer al Subsecretario de Servicios a la Comunidad, el establecimiento de normas, criterios y métodos para la coordinación con las instituciones que participen en la regularización de la tenencia de la tierra;
+
+IX. Participar en las actividades de Comités y Comisiones relacionados con la seguridad en la tenencia de la tierra; y
+
+X. Realizar, previo acuerdo con la unidad administrativa competente de la Secretaría de Medio Ambiente y Ordenamiento Territorial, los estudios y levantamientos topográficos necesarios para los proyectos derivados de la seguridad en la tenencia de la tierra.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+#### Sección Segunda. Dirección de Regularización de Asentamientos Humanos
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección de Regularización de Asentamientos Humanos
+
+###### Artículo 69 Quáter.
+
+La Dirección de Regularización de Asentamientos Humanos, tiene las siguientes facultades:
+
+I. Auxiliar a la unidad administrativa de la Secretaría de Medio Ambiente y Ordenamiento Territorial y a los municipios, en el ámbito de sus respectivas competencias, en la detección de asentamientos humanos irregulares en la entidad y en la actualización del registro de los mismos;
+
+II. Substanciar los expedientes de expropiación, ocupación temporal y limitación de dominio, de bienes inmuebles ubicados en el estado para la regularización de asentamientos humanos, conforme a la legislación de la materia;
+
+III. Coadyuvar con la unidad administrativa de la Secretaría de Medio Ambiente y Ordenamiento Territorial en la generación, integración y actualización de los expedientes técnicos jurídicos de los asentamientos humanos susceptibles de regularización, requiriendo a las dependencias y entidades correspondientes la información necesaria para ello;
+
+IV. Auxiliar a las autoridades federales, estatales y municipales en la implementación de acciones en materia de asentamientos humanos, cuando así lo soliciten;
+
+V. Asesorar a las autoridades municipales en la conformación de las comisiones necesarias para la regularización de la tenencia de la tierra, en la integración de expedientes de asentamientos humanos susceptibles de ser regularizados y proporcionar el apoyo técnico que se requiera para ello, a solicitud de la autoridad municipal;
+
+VI. Apoyar a las diversas dependencias y entidades de los gobiernos federal, estatal y municipales en trámites expropiatorios en asuntos de regularización de asentamientos humanos, cuando así se lo requieran;
+
+VII. Proponer la realización de acciones conjuntas con las autoridades municipales, para la solución de conflictos de regularización de asentamientos humanos que le sean solicitadas;
+
+VIII. Apoyar a las autoridades competentes en las acciones que se implementen para inhibir la proliferación de los asentamientos humanos que no cumplan con las disposiciones normativas correspondientes;
+
+IX. Promover las acciones necesarias para la escrituración de asentamientos humanos regularizados; y
+
+X. Las demás que se deriven de la normatividad correspondiente o le confiera el Director General de Seguridad en la Tenencia de la Tierra.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+#### Sección Tercera. Dirección de Asuntos Agrarios y Regularización de Predios Rústicos
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección de Asuntos Agrarios y Regularización de Predios Rústicos
+
+###### Artículo 69 Quinquies.
+
+La Dirección de Asuntos Agrarios y Regularización de Predios Rústicos tiene las siguientes facultades:
+
+I. Auxiliar a la unidad administrativa de la Secretaría de Medio Ambiente y Ordenamiento Territorial en las acciones de promoción ante las autoridades municipales competentes, para la regularización de predios rústicos;
+
+II. Coadyuvar con la unidad administrativa de la Secretaría de Medio Ambiente y Ordenamiento Territorial en la generación, integración y actualización de los expedientes técnicos jurídicos susceptibles para la regularización de predios rústicos, requiriendo a las dependencias y entidades correspondientes la información necesaria para ello;
+
+III. Participar en la promoción de la integración o reorganización de Comisiones o Comités en materia de regularización de predios rústicos y concertación de conflictos agrarios;
+
+IV. Realizar acciones para coadyuvar en el proceso de escrituración de los predios rústicos regularizados; y participar en la entrega-recepción de escrituras a los beneficiarios del mismo;
+
+V. Participar en la conciliación de los intereses de comuneros, ejidatarios y pequeños propietarios, cuando exista un conflicto de derechos de propiedad o posesión;
+
+VI. Identificar los conflictos agrarios y predios rústicos susceptibles de regularización en la entidad, así como actualizar el registro de los mismos;
+
+VII. Auxiliar a la unidad administrativa de la Secretaría de Medio Ambiente y Ordenamiento Territorial, en el funcionamiento de la Inspectoría Rural y las inspectorías móviles que se establezcan;
+
+VIII. Promover las acciones necesarias para la escrituración de predios rústicos regularizados; y
+
+IX. Las demás que se deriven de la normatividad correspondiente o le confiera el Director General de Seguridad en la Tenencia de la Tierra.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+#### Sección Cuarta. Dirección de Proyectos Técnicos
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección de Proyectos Técnicos
+
+###### Artículo 69 Sexies.
+
+La Dirección de Proyectos Técnicos tiene las siguientes facultades:
+
+I. Auxiliar a la autoridad municipal de la entidad que lo solicite, en la ejecución de levantamientos topográficos ligados a la red geodésica nacional activa, de los asentamientos humanos y predios rústicos susceptibles de regularización;
+
+II. Ejecutar la inspección física y la verificación documental del polígono propuesto a expropiar, a efecto de emitir el dictamen técnico correspondiente;
+
+III. Dictaminar, con base en las normas técnicas aplicables, el polígono susceptible de ser regularizado de los asentamientos humanos;
+
+IV. Apoyar con trabajos técnicos y dictámenes periciales topográficos en materia de tenencia de la tierra, a las dependencias y entidades federales, estatales y municipales, cuando así lo soliciten;
+
+V. Auxiliar a las autoridades municipales en la elaboración de estudios técnicos, cuando en la integración de expedientes de procesos de regularización de asentamientos humanos, se detecten posibles restricciones de carácter federal, estatal o municipal;
+
+VI. Proporcionar a la Dirección General y sus unidades administrativas, los insumos técnicos que le sean requeridos para el cumplimiento de sus funciones;
+
+VII. Generar y actualizar la información estadística de los trabajos técnicos realizados en los asentamientos humanos y predios rústicos susceptibles de regularización;
+
+VIII. Proporcionar a las autoridades municipales que lo soliciten, asesoría relativa a los proyectos de urbanización progresiva; y
+
+IX. Las demás que se deriven de la normatividad correspondiente o le confiera el Director General de Seguridad en la Tenencia de la Tierra.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+#### Sección Quinta. Dirección de Vinculación Social para la Seguridad de la Tenencia de la tierra
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Facultades de la Dirección de Vinculación Social para la Seguridad de la Tenencia de la Tierra
+
+###### Artículo 69 Septies.
+
+La Dirección de Vinculación Social para la Seguridad de la Tenencia de la Tierra tiene las siguientes facultades:
+
+I. Establecer canales de comunicación y coordinación permanente con los municipios, a través de las comisiones, comités, organismos sociales y asociaciones civiles en materia de regularización de la tenencia de la tierra;
+
+II. Coadyuvar con las dependencias que atiendan los convenios que suscriba el Estado con los municipios en materia de regularización de la tenencia de la tierra;
+
+III. Coadyuvar con la unidad administrativa de la Secretaría en materia de Comunicación Social en la relación permanente con grupos y organizaciones de la sociedad civil, para la difusión de programas en seguridad de la tenencia de la tierra;
+
+IV. Coadyuvar con la unidad administrativa de la Secretaría de Medio Ambiente y Ordenamiento Territorial, en la promoción de la cultura del ordenamiento territorial y el desarrollo sostenible de los asentamientos humanos;
+
+V. Auxiliar a la Dirección General en la vinculación de las acciones de solución de conflictos en la regularización de la tenencia de la tierra;
+
+VI. Concentrar la información que permita atender las solicitudes que le formule la Unidad de Enlace de la Secretaría en materia de Acceso a la Información Pública a la Dirección General;
+
+VII. Coordinarse con la unidad administrativa de la autoridad municipal para la realización de los trámites de escrituración derivados de los programas de regularización de tenencia de la tierra, y dar seguimiento a los mismos;
+
+VIII. Auxiliar a la Dirección General en la administración de los registros de asentamientos humanos, predios rústicos conflictos por la tenencia de la tierra, a efecto de generar la estadística correspondiente; y,
+
+IX. Las demás que le sean asignadas por sus superiores jerárquicos.
 
 ## Título Sexto. Subsecretaría de Vinculación y Desarrollo Político
 
-### Capítulo II. Dirección General de Concertación Política
+### Capítulo I. Organización y Facultades de la Subsecretaría de Vinculación y Desarrollo Político
+
+Unidades adscritas a la Subsecretaría de Vinculación y Desarrollo Político
 
 ###### Artículo 70.
 
@@ -1705,11 +2137,11 @@ XII. Participar en la celebración de convenios, acuerdos y demás instrumentos 
 
 XIII. Representar al Estado en los consejos y mecanismos de protección de los derechos humanos en los que participe el Estado, por instrucciones del Secretario, dando seguimiento a los acuerdos respectivos.
 
-### Capítulo III. Dirección General de Enlace Gubernamental
+### Capítulo II. Dirección General de Concertación Política
 
-#### Sección Tercera. Dirección de Vinculación Institucional
+#### Sección Primera. Integración y Facultades
 
-Facultades de la Dirección de Vinculación Institucional
+Unidades adscritas a la Dirección General de Concertación Política
 
 ###### Artículo 72.
 
@@ -1737,11 +2169,9 @@ V. Coordinar la comunicación con organismos sociales, asociaciones civiles y re
 
 VI. Prevenir el surgimiento de conflictos sociales en la Entidad.
 
-#### Sección Primera. Integración y Facultades
+#### Sección Segunda. Dirección de Desarrollo Político
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
-
-Unidades adscritas a la Dirección General de Derechos Humanos
+Facultades de la Dirección de Desarrollo Político
 
 ###### Artículo 74.
 
@@ -1763,11 +2193,9 @@ III. Establecer mecanismos de comunicación con los partidos políticos y agrupa
 
 IV. Establecer mecanismos de coordinación con organismos electorales para coadyuvar a la gobernabilidad y democracia mediante un ambiente de armonía, civilidad y respeto en la Entidad; y
 
-#### Sección Segunda. Dirección de Políticas Públicas y estrategias para la atención de Derechos Humanos
+#### Sección Tercera. Dirección de Asuntos Sociales
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
-
-Facultades de la Dirección de Políticas Públicas y estrategias para la atención de Derechos Humanos
+Facultades de la Dirección de Asuntos Sociales
 
 ###### Artículo 75.
 
@@ -1787,15 +2215,11 @@ VI. Coadyuvar en la promoción de los programas sociales que generen las depende
 
 VII. Las demás que le confiera el Director General de Concertación Política.
 
-### Capítulo IV. Dirección General de Derechos Humanos
+### Capítulo III. Dirección General de Enlace Gubernamental
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
+#### Sección Primera. Integración y Facultades
 
-#### Sección Tercera. Dirección de Asuntos Jurídicos en materia de Derechos Humanos
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
-
-Facultades de la Dirección de Asuntos Jurídicos en materia de Derechos Humanos
+Unidades adscritas a la Dirección General de Enlace Gubernamental
 
 ###### Artículo 76.
 
@@ -1819,11 +2243,9 @@ III. Planear las acciones de coordinación entre Estado y la Federación a trav�
 
 IV. Impulsar la cooperación internacional con gobiernos locales.
 
-#### Sección Cuarta. Dirección de Vinculación Institucional en materia de Derechos Humanos
+#### Sección Segunda. Dirección de Atención a Municipios
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
-
-Facultades de la Dirección de Vinculación Institucional en materia de Derechos Humanos
+Facultades de la Dirección de Atención a Municipios
 
 ###### Artículo 78.
 
@@ -1833,15 +2255,17 @@ I. Atender y dar seguimiento a los conflictos que se presenten entre los municip
 
 II. Atender, en coordinación con las autoridades municipales, los conflictos sociopolíticos que se presenten en los municipios que afecten la estabilidad social, así como formular propuestas de solución y dar seguimiento a las acciones concertadas;
 
-III. Analizar y mantener permanentemente actualizada la información sobre la situación sociopolítica de los municipios a fin de prevenir posibles conflictos sociales en la Entidad, compartiendo la misma con la Dirección de Análisis de Información para su incorporación al Sistema de Análisis de Información;
+> <small>(REFORMADA, P.O 30 DE NOVIEMBRE DE 2018)</small>
+
+III. Analizar y mantener permanentemente actualizada la información sobre la situación sociopolítica de los municipios a fin de prevenir posibles conflictos sociales en la Entidad, compartiendo la misma con la Coordinación General de Información Estratégica para su incorporación al Sistema de Análisis de Información;
 
 IV. Promover la capacitación y profesionalización de los servidores públicos de los municipios que así lo soliciten para un mejor cumplimiento de sus facultades; y
 
 V. Las demás que le confiera el Director General de Enlace Gubernamental.
 
-#### Sección Primera. Integración y Facultades
+#### Sección Tercera. Dirección de Vinculación Institucional
 
-Unidades adscritas a la Dirección General del Trabajo
+Facultades de la Dirección de Vinculación Institucional
 
 ###### Artículo 79.
 
@@ -1861,13 +2285,15 @@ VI. Las demás que le confiera el Director General de Enlace Gubernamental.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
 
-### Capítulo I. Organización y Facultades de la Subsecretaría del Trabajo y Previsión Social
+### Capítulo IV. Dirección General de Derechos Humanos
 
-Unidades adscritas a la Subsecretaría del Trabajo y Previsión Social
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
 
-#### Sección Segunda. Juntas Locales y Especiales de Conciliación y Arbitraje y del Tribunal de Conciliación y Arbitraje del Estado
+#### Sección Primera. Integración y Facultades
 
-Facultades de las Juntas Locales y Especiales de Conciliación y Arbitraje y del Tribunal de Conciliación y Arbitraje del Estado
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
+
+Unidades adscritas a la Dirección General de Derechos Humanos
 
 ###### Artículo 79 Bis.
 
@@ -1915,11 +2341,11 @@ XIII. Establecer y coordinar los mecanismos de atención de las atribuciones, co
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
 
-#### Sección Tercera. Procuraduría de la Defensa del Trabajo
+#### Sección Segunda. Dirección de Políticas Públicas y estrategias para la atención de Derechos Humanos
 
-Facultades de la Procuraduría de la Defensa del Trabajo
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2016)</small>
+Facultades de la Dirección de Políticas Públicas y estrategias para la atención de Derechos Humanos
 
 ###### Artículo 79 Quáter.
 
@@ -1943,9 +2369,11 @@ VIII. Las demás que le confiera la Dirección General de Derechos Humanos.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
 
-#### Sección Primera. Integración y Facultades
+#### Sección Tercera. Dirección de Asuntos Jurídicos en materia de Derechos Humanos
 
-Unidades adscritas a la Dirección General de Promoción y Desarrollo Laboral
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
+
+Facultades de la Dirección de Asuntos Jurídicos en materia de Derechos Humanos
 
 ###### Artículo 79 Quinquies.
 
@@ -1977,9 +2405,11 @@ XII. Las demás que le confiera la Dirección General de Derechos Humanos.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
 
-#### Sección Segunda. Dirección de Inspección del Trabajo
+#### Sección Cuarta. Dirección de Vinculación Institucional en materia de Derechos Humanos
 
-Facultades de la Dirección de Inspección del Trabajo
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
+
+Facultades de la Dirección de Vinculación Institucional en materia de Derechos Humanos
 
 ###### Artículo 79 Sexies.
 
@@ -1999,7 +2429,9 @@ VI. Las demás que le confiera la Dirección General de Derechos Humanos.
 
 ## Título Séptimo. Subsecretaría del Trabajo y Previsión Social
 
-### Capítulo II. Dirección General del Trabajo
+### Capítulo I. Organización y Facultades de la Subsecretaría del Trabajo y Previsión Social
+
+Unidades adscritas a la Subsecretaría del Trabajo y Previsión Social
 
 ###### Artículo 80.
 
@@ -2033,11 +2465,11 @@ VI. Establecer mecanismos para facilitar el cumplimiento de la normatividad labo
 
 VII. Fomentar una cultura laboral y empresarial para la adopción de modelos de relaciones laborales y de responsabilidad social, basados en el respeto a la dignidad de la persona, la productividad, la competitividad y el desarrollo de la comunidad, a través del diálogo y la búsqueda de consensos.
 
-### Capítulo III. Dirección General de Promoción y Desarrollo Laboral
+### Capítulo II. Dirección General del Trabajo
 
-#### Sección Tercera. Dirección de Desarrollo para el Trabajo Productivo
+#### Sección Primera. Integración y Facultades
 
-Facultades de la Dirección de Desarrollo para el Trabajo Productivo
+Unidades adscritas a la Dirección General del Trabajo
 
 ###### Artículo 82.
 
@@ -2075,9 +2507,9 @@ IX. Formar un archivo con los informes de actividades de los Tribunales de Traba
 
 X. Coordinar y realizar visitas de supervisión a las unidades administrativas de la Dirección General del Trabajo, a fin de verificar el seguimiento de los programas implementados.
 
-#### Sección Cuarta. Dirección para el Desarrollo Sindical
+#### Sección Segunda. Juntas Locales y Especiales de Conciliación y Arbitraje y del Tribunal de Conciliación y Arbitraje del Estado
 
-Facultades de la Dirección para el Desarrollo Sindical
+Facultades de las Juntas Locales y Especiales de Conciliación y Arbitraje y del Tribunal de Conciliación y Arbitraje del Estado
 
 ###### Artículo 84.
 
@@ -2097,13 +2529,21 @@ Obligación del Director General del Trabajo
 
 El Director General del Trabajo dará cuenta al Gobernador del Estado, de las quejas que reciba en contra de los secretarios generales, secretarios auxiliares y presidentes de las juntas especiales, dando cuenta de ello al Subsecretario del Trabajo y Previsión Social.
 
+#### Sección Tercera. Procuraduría de la Defensa del Trabajo
+
+Facultades de la Procuraduría de la Defensa del Trabajo
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2016)</small>
+
 ###### Artículo 87.
 
 La Procuraduría de la Defensa del Trabajo tiene las facultades y obligaciones que le establezcan la Ley Federal del Trabajo, la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, el Reglamento de la Procuraduría de la Defensa del Trabajo y los demás ordenamientos jurídicos aplicables o que le asigne la Dirección General del Trabajo.
 
-### Capítulo IV. Dirección de Gestión Administrativa del Trabajo y Previsión Social
+### Capítulo III. Dirección General de Promoción y Desarrollo Laboral
 
-Facultades de la Dirección de Gestión Administrativa del Trabajo y Previsión Social
+#### Sección Primera. Integración y Facultades
+
+Unidades adscritas a la Dirección General de Promoción y Desarrollo Laboral
 
 ###### Artículo 88.
 
@@ -2137,6 +2577,10 @@ VII. Coordinar la promoción de los derechos y obligaciones laborales de los gru
 
 VIII. Coordinar estrategias de capacitación y asistencia técnica a las organizaciones sindicales en el Estado.
 
+#### Sección Segunda. Dirección de Inspección del Trabajo
+
+Facultades de la Dirección de Inspección del Trabajo
+
 ###### Artículo 90.
 
 La Dirección de Inspección del Trabajo tiene las siguientes facultades:
@@ -2158,6 +2602,10 @@ VII. Establecer, previo acuerdo con el Director General de Promoción y Desarrol
 VIII. Elaborar y someter a aprobación del Director General de Promoción y Desarrollo Laboral, el programa de vigilancia del cumplimiento de las disposiciones de la Ley Federal del Trabajo y normatividad aplicable de competencia estatal en los centros de trabajo; y
 
 IX. Las demás que le señalen las disposiciones legales y reglamentarias aplicables o le confiera el Director General de Promoción y Desarrollo Laboral.
+
+#### Sección Tercera. Dirección de Desarrollo para el Trabajo Productivo
+
+Facultades de la Dirección de Desarrollo para el Trabajo Productivo
 
 ###### Artículo 91.
 
@@ -2201,6 +2649,10 @@ XVIII. Organizar foros, congresos, encuentros, cursos y talleres para difundir l
 
 XIX. Las demás que le señalen las disposiciones legales y reglamentarias aplicables o le confiera el Director General de Promoción y Desarrollo Laboral._ (sic)
 
+#### Sección Cuarta. Dirección para el Desarrollo Sindical
+
+Facultades de la Dirección para el Desarrollo Sindical
+
 ###### Artículo 92.
 
 La Dirección para el Desarrollo Sindical tiene las siguientes facultades:
@@ -2221,17 +2673,17 @@ VII. Fomentar la cultura de la negociación de los contratos colectivos como pre
 
 VIII. Las demás que le señalen las disposiciones legales y reglamentarias aplicables, o le confiera el Director General de Promoción y Desarrollo Laboral.
 
-### Capítulo V. Dirección de Gestión de Proyectos y Procesamiento de Información del Trabajo y Previsión Social
+### Capítulo IV. Dirección de Gestión Administrativa del Trabajo y Previsión Social
 
-Facultades de la Dirección de Gestión de Proyectos y Procesamiento de Información del Trabajo y Previsión Social
+Facultades de la Dirección de Gestión Administrativa del Trabajo y Previsión Social
 
 ###### Artículo 93.
 
 La Dirección de Gestión Administrativa del Trabajo y Previsión Social tiene las facultades señaladas en el artículo 9 del presente Reglamento.
 
-### Capítulo Único. Órganos Desconcentrados
+### Capítulo V. Dirección de Gestión de Proyectos y Procesamiento de Información del Trabajo y Previsión Social
 
-Órganos desconcentrados
+Facultades de la Dirección de Gestión de Proyectos y Procesamiento de Información del Trabajo y Previsión Social
 
 ###### Artículo 94.
 
@@ -2259,11 +2711,9 @@ X. Las demás que le señale el Subsecretario del Trabajo y Previsión Social.
 
 ## Título Octavo. Órganos Desconcentrados
 
-### Capítulo Único. Atribuciones y estructura
+### Capítulo Único. Órganos Desconcentrados
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
-
-Naturaleza
+Órganos desconcentrados
 
 ###### Artículo 95.
 
@@ -2277,9 +2727,11 @@ Los órganos desconcentrados y sus titulares tendrán las competencias y faculta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2018)</small>
 
-### Capítulo I. Suplencias
+### Capítulo Único. Atribuciones y estructura
 
-Suplencia del Secretario
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Naturaleza
 
 ###### Artículo 95 Bis.
 
@@ -2475,9 +2927,9 @@ XXII. Las demás que deriven de las disposiciones normativas aplicables en mater
 
 ## Título Décimo. Suplencias y Relaciones de Trabajo entre la Secretaría y sus Trabajadores
 
-### Capítulo II. Relaciones de Trabajo entre la Secretaría y sus Trabajadores
+### Capítulo I. Suplencias
 
-Normatividad aplicable a las relaciones de trabajo de la Secretaría
+Suplencia del Secretario
 
 ###### Artículo 96.
 
@@ -2490,6 +2942,10 @@ Suplencias de los demás servidores públicos de la Secretaría
 Los subsecretarios, directores generales y titulares de las unidades administrativas adscritas al Despacho del Secretario, serán suplidos en sus ausencias por el funcionario que el Secretario designe por escrito.
 
 Los demás servidores públicos serán suplidos en sus ausencias menores de quince días por quien señale, por escrito, el titular de la unidad administrativa a que estén adscritos; cuando excedan de ese plazo serán cubiertas por quien designe el Secretario por escrito.
+
+### Capítulo II. Relaciones de Trabajo entre la Secretaría y sus Trabajadores
+
+Normatividad aplicable a las relaciones de trabajo de la Secretaría
 
 ###### Artículo 98.
 
@@ -2646,3 +3102,89 @@ Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretar�
 Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
 
 Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
+
+P.O 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 8, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO CONTENIDO EN EL DECRETO GUBERNATIVO NÚMERO 57, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 165, TERCERA PARTE, DE FECHA 15 DE OCTUBRE DE 2013; SE CREA LA COORDINACIÓN GENERAL DE INFORMACIÓN ESTRATÉGICA DEL ESTADO DE GUANAJUATO; SE CREA LA UNIDAD DE ANÁLISIS Y ESTRATEGIA DE SEGURIDAD CIUDADANA; SE ABROGAN LOS DECRETOS GUBERNATIVOS NÚMERO 7 Y 47, MEDIANTE LOS CUALES SE CREA EL INSTITUTO DE SEGURIDAD EN LA TENENCIA DE LA TIERRA DEL ESTADO DE GUANAJUATO Y SE EXPIDIÓ SU REGLAMENTO INTERIOR; Y SE ABROGA EL DECRETO GUBERNATIVO NÚMERO 156, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE MOVILIDAD DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Operación de las Direcciones Generales de Transporte y de Seguridad en la Tenencia de la Tierra
+
+Artículo Segundo. Los recursos financieros, humanos y materiales que a la fecha se encuentren asignados a los Institutos de Movilidad y de Seguridad en la Tenencia de la Tierra pasarán a la Secretaría de Gobierno para la operación de la Dirección General de Transporte y Dirección General de Seguridad en la Tenencia de la Tierra, respectivamente.
+
+La Secretaría de Finanzas, Inversión y Administración, deberá realizar los ajustes presupuestales y administrativos que correspondan para dar cumplimiento al presente Decreto.
+
+Referencias en otros instrumentos normativos
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo, cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a los Institutos de Movilidad del Estado de Guanajuato y de Seguridad en la Tenencia de la Tierra del Estado de Guanajuato, se entenderá hecha a las Direcciones Generales de Transporte y de Seguridad en la Tenencia de la Tierra, respectivamente.
+
+Asuntos en trámite ante el Instituto de Seguridad en la Tenencia de laTierras (sic)
+
+Artículo Cuarto. Los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren en trámite ante el Instituto de Seguridad en la Tenencia de la tierra del Estado de Guanajuato, continuarán su desahogo hasta su terminación, por la Dirección General de Seguridad en la Tenencia de la Tierra, a través de las siguientes unidades administrativas:
+
+Denominación ante el Instituto Denominación ante la Dirección
+
+de Seguridad en la Tenencia General de Seguridad en la Tenencia
+
+de la Tierra de la Tierra de la Secretaría de Gobierno
+
+Dirección General del Instituto Dirección General de Seguridad en la
+
+de Seguridad en la Tenencia Tenencia de la Tierra
+
+de la Tierra
+
+Dirección de Regularización de Dirección de Regularización de
+
+Asentamientos Humanos Asentamientos Humanos
+
+Dirección de Asuntos Agrarios Dirección de Asuntos Agrarios
+
+y Regularización de Predios y Regularización de Predios Rústicos
+
+Rústicos
+
+Dirección de Proyectos Dirección de Proyectos Técnicos
+
+Técnicos de Urbanización
+
+Dirección de Promoción Social Dirección de Vinculación Social para
+
+la Seguridad de la Tenencia de la Tierra
+
+Asuntos en trámite ante el Instituto de Movilidad del Estado de Guanajuato
+
+Artículo Quinto. Los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren en trámite ante el Instituto de Movilidad del Estado de Guanajuato, continuarán su desahogo hasta su terminación, por la Dirección General de Transporte, a través de las siguientes unidades administrativas:
+
+Denominación ante el Instituto Denominación ante la Dirección
+
+de Movilidad del Estado de General de Transporte de la
+
+Guanajuato de la Secretaría de Gobierno
+
+Dirección General del Instituto Dirección General de Transporte
+
+de Movilidad del Estado de
+
+Guanajuato
+
+Dirección de Desarrollo de la Dirección de Desarrollo de
+
+Movilidad Transporte
+
+Dirección Jurídica de Movilidad Dirección Jurídica de Transporte
+
+Dirección de Inspección de la Dirección de Inspección
+
+Movilidad
+
+Dirección de Atención, Capacita Dirección de Atención, Capacitación
+
+ción y Cultura Vial y Educación Vial
+
+Dirección de Gestión Administra Dirección de Gestión Administrativa
+
+tiva de la Movilidad de Transporte
