@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-29"
-last_updated: "2017-11-10"
+last_updated: "2018-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el jueves 21 de abril de 2016.
 
@@ -2213,7 +2213,9 @@ El Instituto, podrá imponer al servidor público encargado de cumplir con la re
 
 I.- Amonestación pública, o
 
-II.- Multa, de ciento cincuenta hasta mil quinientos veces el salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Multa, de ciento cincuenta hasta mil quinientos veces el valor de la Unidad de Medida y Actualización vigente.
 
 El Pleno determinará, en cada caso, la procedencia de la medida o las medidas de apremio, así como el orden de prelación a aplicar, atendiendo a las condiciones del incumplimiento.
 
@@ -2327,13 +2329,21 @@ Las infracciones a lo previsto en la presente Ley, serán sancionadas con:
 
 I.- El apercibimiento, por única ocasión, para que el sujeto obligado cumpla su obligación de manera inmediata, en los términos previstos en esta Ley, tratándose de los supuestos previstos en las fracciones I, III, V, VI y X del artículo 160 de esta Ley.
 
-Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de ciento cincuenta a doscientos cincuenta días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-II.- Multa de doscientos cincuenta a ochocientos días de salario mínimo general vigente en el Estado, en los casos previstos en las fracciones II y IV del artículo 160 de esta Ley, y
+Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de ciento cincuenta a doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente;
 
-III.- Multa de ochocientos a mil quinientos días de salario mínimo general vigente en el Estado, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 160 de esta Ley.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-Se aplicará multa adicional de hasta cincuenta días de salario mínimo general vigente en el Estado, por día, a quien persista en las infracciones citadas en las fracciones anteriores.
+II.- Multa de doscientos cincuenta a ochocientos veces el valor diario de la Unidad de Medida y Actualización vigente, en los casos previstos en las fracciones II y IV del artículo 160 de esta Ley, y
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Multa de ochocientos a mil quinientos veces el valor diario de la Unidad de Medida y Actualización vigente, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 160 de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+Se aplicará multa adicional de hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente, por día, a quien persista en las infracciones citadas en las fracciones anteriores.
 
 ###### Artículo 169.
 
@@ -2418,3 +2428,19 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 127 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN CAPÍTULO IV DENOMINADO DE LA PROMOCIÓN DE DATOS ABIERTOS AL TÍTULO CUARTO A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
