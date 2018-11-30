@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2017-11-10"
+last_updated: "2018-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -117,7 +117,9 @@ XV. Reglamento: El Reglamento de la Ley de Fomento a la Competitividad y Desarro
 
 XVI. RETE: El Registro Estatal de Trámites Empresariales en el que se inscriben los trámites y servicios a cargo de las dependencias y entidades, sujetos a un proceso de mejora regulatoria;
 
-XVII. SMG: El salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVII. UMA: Unidad de Medida y Actualización Vigente;
 
 XVIII. Secretaría: La Secretaría de Desarrollo Económico del Estado;
 
@@ -413,57 +415,69 @@ II. Nivel Salarial de los Nuevos Empleos
 
 Esquema 1. De 11 a 50 empleos directos a generar con un sueldo promedio diario de:
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-a) Entre 3 y 5 SMG 2 punto
+a) Entre 3 y 5 UMA 1 punto
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-b) Entre 6 y 8 SMG 3 puntos
+b) Entre 6 y 7 UMA 2 puntos
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-c) Entre 9 y 11 SMG 4 puntos
+c) Entre 8 y 10 UMA 3 puntos
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-d) Más de 11 SMG 5 puntos
+d) Entre 11 y 15 UMA 4 puntos
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+e) Más de 15 UMA 5 puntos
 
 Esquema 2. De 51 a 250 empleos directos a generar con un sueldo promedio diario de:
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-a) Entre 3 y 5 SMG 3 puntos
+a) Entre 3 y 5 UMA 2 puntos
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-b) Entre 6 y 8 SMG 6 puntos
+b) Entre 6 y 7 UMA 4 puntos
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-c) Entre 9 y 11 SMG 8 puntos
+c) Entre 8 y 10 UMA 6 puntos
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-d) Más de 11 SMG 10 puntos
+d) Entre 11 y 15 UMA 8 puntos
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+e) Más de 15 UMA 10 puntos
 
 Esquema 3. Más de 250 empleos directos a generar con un sueldo promedio diario de:
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-a) Entre 3 y 5 SMG 6 puntos
+a) Entre 3 y 5 UMA 3 puntos
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-b) Entre 6 y 8 SMG 9 puntos
+b) Entre 6 y 7 UMA 6 puntos
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-c) Entre 9 y 11 SMG 12 puntos
+c) Entre 8 y 10 UMA 9 puntos
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-d) Más de 11 SMG 15 puntos
+d) Entre 11 u 15 UMA 12 puntos
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+
+e) Más de 15 UMA 15 puntos
 
 III. Monto y Origen de la Inversión
 
@@ -705,21 +719,15 @@ Para la aplicación de los recursos que integran el FOINFRA, se deberá sujetar 
 
 Para el funcionamiento del FOINFRA, el Comité establecerá las reglas de operación, procurando impactar en los 5 municipios del Estado, así como el mayor rendimiento de los recursos disponibles a través de la mezcla de recursos con otras instancias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2013)</small>
 
 ### CAPÍTULO VII BIS. DEL FONDO DE FOMENTO PARA EL DESARROLLO ECONÓMICO DE MUJERES Y JÓVENES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### Artículo 22 Bis.
 
 El Poder Ejecutivo del Estado en término de las disposiciones que resulten aplicables, creará un Fondo de Fomento para el Desarrollo Económico que tendrá por objeto financiar proyectos de inversión emprendidos por jóvenes y mujeres, principalmente, por madres solteras, mediante el otorgamiento de microcréditos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
 
@@ -728,8 +736,6 @@ El Poder Ejecutivo del Estado en término de las disposiciones que resulten apli
 El Fondo de Fomento para el Desarrollo Económico de Mujeres y Jóvenes, contará con el patrimonio que se establezca en su instrumento de creación.
 
 Se buscará que el Fondo de Fomento para el Desarrollo Económico de Mujeres y Jóvenes, sea autosuficiente a partir de la inversión y reinversión de sus recursos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
 
@@ -1174,3 +1180,19 @@ SEGUNDO.- El Ejecutivo del Estado deberá realizar las modificaciones necesarias
 P.O. 10 DE NOVIEMBRE DE 2017.
 
 > <small>[N. DE E. EL "DECRETO NO. 151 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 4, 10 Y 13 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
