@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2018-07-21"
+last_updated: "2018-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -231,21 +231,29 @@ XV. El control y vigilancia de los servicios de seguridad privada y de otros aux
 
 XVI. Las relacionadas con las anteriores y demás que sean necesarias para fortalecer la efectividad de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
 
-### CAPÍTULO III. DE LOS FONDOS DE AYUDA FEDERAL PARA LA SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO III. DE LOS FONDOS DE AYUDA PARA LA SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 11.
 
-El ejercicio, control, vigilancia, información, evaluación y fiscalización de los recursos derivados de los fondos de aportaciones federales y demás fondos de ayuda federal para la seguridad pública, se sujetará a la Ley de Coordinación Fiscal, a la Ley General, a la presente Ley, a los convenios celebrados entre los Gobierno Federal y Estatal, así como a las demás disposiciones federales y estatales aplicables.
+El ejercicio, control, vigilancia, información, evaluación y fiscalización de los recursos derivados de los fondos de aportaciones federales, estatales y demás fondos de ayuda federal para la seguridad pública, se sujetará a la Ley de Coordinación Fiscal, a la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, a la Ley General, a la presente Ley, a los convenios celebrados entre los Gobiernos Federal y Estatal, así como a las demás disposiciones federales y estatales aplicables.
 
 Asimismo, para el adecuado funcionamiento del Sistema Estatal, el Ejecutivo destinará recursos para el fortalecimiento de las acciones de seguridad pública del Estado y los municipios, conforme a la disponibilidad presupuestal, mediante la celebración de convenios en los que se establecerá el monto y destino de los mismos, así como la periodicidad con que se ministrarán. El ejercicio, control, vigilancia, información, evaluación y fiscalización de dichos recursos quedará a cargo de las instancias competentes, de conformidad con la legislación local.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 12.
 
-Las Instituciones de Seguridad Pública del Estado y de los municipios deberán proporcionar al Secretariado Ejecutivo del Sistema Nacional, los informes que el mismo les solicite respecto al ejercicio de los recursos a que se refiere el primer párrafo del artículo anterior y al avance en el cumplimiento de los programas o proyectos en que fueron aplicados, así como a la ejecución del Programa de Seguridad Pública del Estado derivado del Programa Nacional de Seguridad Pública y demás acciones relacionadas con el control, vigilancia, transparencia y supervisión del manejo de dichos recursos.
+Las Instituciones de Seguridad Pública del Estado y de los municipios deberán proporcionar al Secretariado Ejecutivo del Sistema Nacional o del Sistema Estatal, según corresponda, los informes que los mismos les soliciten respecto al ejercicio de los recursos a que se refiere el primer párrafo del artículo anterior y al avance en el cumplimiento de los programas o proyectos en que fueron aplicados, así como a la ejecución del Programa de Seguridad Pública del Estado derivado del Programa Nacional de Seguridad Pública y demás acciones relacionadas con el control, vigilancia, transparencia y supervisión del manejo de dichos recursos.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 13.
 
-Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos estatales o municipales por el manejo o aplicación indebidos de los recursos derivados de los fondos de aportaciones federales y demás fondos de ayuda federal que establece la Ley de Coordinación Fiscal para la seguridad pública de los Estados y de los municipios, serán determinadas y sancionadas por las autoridades federales o locales, según corresponda, de conformidad con lo previsto en dicha ley.
+Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos estatales o municipales por el manejo o aplicación indebidos de los recursos derivados de los fondos de aportaciones federales, estatales y demás fondos de ayuda federal para la seguridad pública de los Estados y de los Municipios, que establece la Ley de Coordinación Fiscal y la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, serán determinadas y sancionadas por las autoridades federales o locales, según corresponda, de conformidad con lo previsto en dicha ley.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -3784,3 +3792,13 @@ Con fundamento en lo preceptuado en el artículo 26 de la Ley Orgánica del Pode
 ###### ARTÍCULO SEXTO.
 
 Los Prestadores de Servicios con autorización de la Secretaría de Seguridad Pública Federal que no hayan realizado su registro ante la Fiscalía General del Estado, se les otorgará un plazo no mayor a 30 días contados a partir de la entrada en vigor del presente Decreto. En caso de incumplimiento se iniciará el procedimiento para la aplicación de sanciones previsto en la Ley de Seguridad Privada para el Estado de Chihuahua.
+
+P.O. 1 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0044/2018 I P.O., POR MEDIO DEL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que el Decreto No. LXV/EXLEY/0883/2018 XVIII P.E., por el que fue expedida la Ley de Coordinación Fiscal para el Estado de Chihuahua y sus Municipios.
+
+TERCERO.- Háganse las previsiones presupuestales a que haya lugar para el cumplimiento del presente Decreto, particularmente para la constitución del Fondo creado mediante el mismo, siguiendo las formalidades a que haya lugar en los términos aplicables.
