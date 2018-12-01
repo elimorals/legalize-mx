@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2018-11-24"
+last_updated: "2018-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -423,6 +423,60 @@ III. El impacto social, beneficios y costos sociales.
 
 IV. La reducción de la pobreza extrema.
 
+> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 38
+
+1. Se crea el Fondo Estatal de Seguridad Pública Municipal, con cargo a recursos estatales, mismos que serán determinados anualmente en el Presupuesto de Egresos del Estado. La Fiscalía General, a través del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, formulará a la Secretaría de Hacienda del Estado, una propuesta para la asignación de los recursos que lo integren.
+
+En el Presupuesto de Egresos del Estado, de cada ejercicio fiscal, se hará la distribución de los recursos estatales que integren este Fondo, entre los distintos Municipios que no sean beneficiarios de subsidios o recursos federales extraordinarios, destinados exclusivamente a la seguridad pública municipal.
+
+> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 38
+
+2. El Ejecutivo del Estado, a través de la Secretaría de Hacienda, entregará a los Municipios beneficiarios, el Fondo Estatal de Seguridad Pública Municipal, con base en los criterios de elegibilidad y la prelación que determine el Consejo Estatal de Seguridad Pública, a propuesta del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y las instituciones encargadas de la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 38
+
+3. Para los efectos previstos en el artículo anterior, se utilizarán criterios que incorporen, cuando menos: el número de habitantes de los Municipios, el estado de fuerza policial, los índices delictivos, la implementación de programas de prevención del delito, atención a la violencia contra las mujeres, avances en materia de profesionalización, control de confianza, equipamiento, modernización tecnológica e infraestructura.
+
+La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación por cada Municipio, deberá publicarse en el Periódico Oficial del Estado en los términos del artículo 48 de esta Ley.
+
+La Fiscalía General, a través del Secretariado Ejecutivo, propondrá para su aprobación al Consejo Estatal de Seguridad Pública, las reglas de operación del Fondo Estatal de Seguridad Pública Municipal, debiendo publicarse en el Periódico Oficial del Estado en los términos del artículo 48 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 38
+
+4. A efecto de cumplir con el carácter subsidiario de este Fondo, los Municipios que sean considerados como beneficiarios deberán aportar de sus recursos presupuestarios el 35% (treinta y cinco por ciento) del total de los recursos estatales otorgados por este Fondo.
+
+Los acuerdos celebrados entre la Fiscalía General del Estado, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y los Municipios, deberán firmarse en un término no mayor a noventa días naturales, contados a partir de la publicación del resultado de la aplicación de las fórmulas y variables mencionadas con anterioridad.
+
+Este Fondo se enterará por la Secretaría de Hacienda a los Municipios, de manera ágil y directa.
+
+> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 38
+
+5. Los Municipios reportarán trimestralmente a la Secretaría de Hacienda y a la Fiscalía General del Estado, a través del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el ejercicio de los recursos del Fondo y el avance en el cumplimiento de las metas, así como las modificaciones o adecuaciones realizadas a las asignaciones previamente establecidas; en este último caso deberán incluirse la aprobación de las mismas.
+
+> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 38
+
+6. Los Municipios beneficiarios deberán informar a sus habitantes trimestralmente y al término de cada ejercicio fiscal, la aplicación del Fondo Estatal de Seguridad Pública Municipal, a través de la página oficial de Internet correspondiente y/o de otros medios de divulgación o comunicación. Lo anterior, en términos de la Ley General de Contabilidad Gubernamental, y conforme a los formatos aprobados por el Consejo Nacional de Armonización Contable.
+
+> <small>(ADICIONADO, P.O. 01 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 38
+
+7. Los Municipios que incumplan con las obligaciones que derivan de lo establecido en el artículo que antecede, no podrán acceder a los recursos del Fondo Estatal de Seguridad Pública Municipal, sino hasta el ejercicio fiscal posterior, y siempre y cuando exista dispensa previa del Consejo Estatal de Seguridad Pública.
+
+Los Municipios que resulten beneficiarios e incumplan con lo establecido en el artículo anterior y/o el acuerdo celebrado para el ejercicio del fondo, perderán el recurso asignado.
+
 ## TÍTULO QUINTO. DE LA COORDINACIÓN Y COLABORACIÓN ADMINISTRATIVA EN INGRESOS
 
 ### CAPÍTULO ÚNICO
@@ -548,3 +602,15 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días del mes de noviembre del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0044/2018 I P.O., POR MEDIO DEL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que el Decreto No. LXV/EXLEY/0883/2018 XVIII P.E., por el que fue expedida la Ley de Coordinación Fiscal para el Estado de Chihuahua y sus Municipios.
+
+TERCERO.- Háganse las previsiones presupuestales a que haya lugar para el cumplimiento del presente Decreto, particularmente para la constitución del Fondo creado mediante el mismo, siguiendo las formalidades a que haya lugar en los términos aplicables.
