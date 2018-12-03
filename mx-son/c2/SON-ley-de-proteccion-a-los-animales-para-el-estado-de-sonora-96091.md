@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-a-los-animales-para-el-estado-de-sonora-96091
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-27"
-last_updated: "2017-08-03"
+last_updated: "2018-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección VII del Boletín Oficial del Estado de Sonora, el jueves 27 de junio de 2013.
 
@@ -888,3 +888,17 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 3 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 291, DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Los Ayuntamientos elaborarán el reglamento respectivo de conformidad con la presente Ley, en un término que no exceda de 30 días naturales, contados a partir de la fecha de entrada en vigor de la presente.
+
+Artículo Tercero.- La Procuraduría Ambiental del Estado de Sonora realizará las gestiones a efecto de adecuar su marco normativo.
+
+Artículo Cuarto.- Se abroga la Ley de Protección a los Animales para el Estado de Sonora publicada en el Boletín Oficial del Gobierno del Estado, número 51, sección 7 de fecha 27 de Junio de 2013.
+
+Artículo Quinto.- En el caso de los particulares que se dedican a la venta informal de animales, deberán tramitar la autorización gubernamental correspondientes (sic), en un plazo de 45 días naturales a partir de la entrada en vigor de la presente Ley.
