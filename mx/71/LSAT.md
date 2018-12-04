@@ -4,7 +4,7 @@ identifier: "LSAT"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2015-12-17"
+last_updated: "2018-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAT"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -302,17 +302,17 @@ El Jefe del Servicio de Administración Tributaria será nombrado por el Preside
 
 I. Ser ciudadano mexicano;
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2018)</small>
 
-II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en las materias fiscal y aduanera;
+II. Poseer al día de la designación, título profesional en las áreas de derecho, administración, economía, contaduría o materias afines, con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello; así como contar con experiencia probada y estudios en materia fiscal, aduanera, financiera o alguna otra materia relacionada;
 
 > <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2003)</small>
 
 III. No haber sido sentenciado por delitos dolosos que hayan ameritado pena privativa de la libertad por más de un año, o inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 2018)</small>
 
-IV. No desempeñar durante el periodo de su encargo ninguna otra comisión o empleo dentro de la Federación, Estados, Distrito Federal, Municipios, organismos descentralizados, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos; así como también estará impedido para ejercer su profesión, salvo en causa propia.
+IV. No desempeñar durante el periodo de su encargo ninguna otra comisión o empleo dentro de la Federación, Entidades Federativas, Municipios, alcaldías de la Ciudad de México, órganos autónomos constitucionales, organismos descentralizados, empresas productivas del Estado, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos; así como también estará impedido para ejercer su profesión, salvo en causa propia.
 
 > <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
 
@@ -769,3 +769,9 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 4 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 13 DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
