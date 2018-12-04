@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-7-reglamentaria-del-articulo-84-de-la-78093"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-22"
-last_updated: "2017-11-28"
+last_updated: "2018-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 7 REGLAMENTARIA DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE REFORMAS CONSTITUCIONALES PARCIALES.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 22 de diciembre de 2010.
 
@@ -59,9 +59,11 @@ Las iniciativas para reformar la Constitución contendrán un proyecto de decret
 
 Las iniciativas con proyecto de decreto de reforma constitucional cumplirán todos los trámites del proceso legislativo señalados en la Constitución Política del Estado y la Ley Orgánica del Poder Legislativo.
 
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 4.
 
-Los procedimientos especiales de reformas serán aquellos que, previa declaración del Congreso del Estado, se tramiten con el propósito de efectuar modificaciones derivadas de un mandato de la Constitución Política de los Estados Unidos Mexicanos.
+Los procedimientos especiales de reformas serán aquellos que, previa declaración del Congreso del Estado, se tramiten con el propósito de efectuar modificaciones derivadas de un mandato de la Constitución Política de los Estados Unidos Mexicanos; de disposiciones emanadas de leyes nacionales, únicas o generales expedidas por el Congreso de la Unión, o como consecuencia de declaratorias de invalidez emitidas por la Suprema Corte de Justicia de la Nación.
 
 ###### Artículo 5.
 
@@ -75,9 +77,11 @@ Los Ayuntamientos celebrarán sesión extraordinaria del Cabildo para acordar la
 
 Los dictámenes formulados por las comisiones del Congreso, relativos a proyectos de decreto de reforma constitucional, serán enlistados preferentemente en el orden del día de la sesión del Pleno inmediata a la fecha en que se hayan depositado en la Junta de Trabajos Legislativos, para su discusión y votación.
 
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 7.
 
-Si el dictamen es aprobado por las dos terceras partes de los miembros del Congreso, el proyecto de decreto se depositará en la Secretaría General, para su resguardo y trámite conducente.
+Si el dictamen es aprobado por las dos terceras partes de los miembros del Congreso, el Presidente ordenará turnarlo a los Ayuntamientos por conducto de la Secretaría General.
 
 ###### Artículo 8.
 
@@ -87,39 +91,39 @@ En caso de que el dictamen no sea aprobado, se desechará la reforma, sin que pu
 
 ###### Artículo 9.
 
-Todo proyecto de decreto de reforma constitucional aprobado en un primer período de sesiones ordinarias será nuevamente discutido y votado en el siguiente, en la sesión que determine la Junta de Trabajos Legislativos.
-
-> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2017)</small>
-
-En caso de existir causas supervenientes que provoquen la incongruencia o la probable inconstitucionalidad de un proyecto que deba discutirse y, en su caso, aprobarse en un segundo período de sesiones, o si hubiere un mandato judicial que motive una causa justificada, el proyecto podrá ser modificado por el Pleno de manera extraordinaria, a solicitud de la comisión o comisiones dictaminadoras o de la Presidencia del Congreso.
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2017)</small>
+(DEROGADO, G.O. 4 DE DICIEMBRE DE 2018)
 
 ###### Artículo 10.
 
-Si el proyecto no es aprobado por la mayoría requerida o, como consecuencia de su discusión, es objeto de modificaciones, si éstas no fueren en los casos previstos en el párrafo segundo del artículo anterior, se desechará la reforma y se aplicará lo establecido en el artículo 8 de esta Ley.
+(DEROGADO, G.O. 4 DE DICIEMBRE DE 2018)
 
 ###### Artículo 11.
 
-En caso de aprobarse el proyecto de decreto en el segundo período de sesiones, el Presidente ordenará turnarlo a los Ayuntamientos, por conducto de la Secretaría General del Congreso.
+(DEROGADO, G.O. 4 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO III. Del Procedimiento Especial
 
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 12.
 
-Cuando exista un decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos, en el que se ordene expresamente a las Legislaturas de los Estados adecuar sus textos constitucionales al sentido de aquél, una vez presentada la iniciativa correspondiente, la Junta de Coordinación Política, por sí o a petición del iniciante o de la Comisión Permanente de Justicia y Puntos Constitucionales, podrá proponer al Pleno, mediante un proyecto de punto de acuerdo, que declare iniciar un procedimiento especial de reformas constitucionales.
+Cuando exista un decreto de reforma a la Constitución Política de los Estados Unidos Mexicanos, en el que se ordene expresamente a las Legislaturas de los Estados adecuar sus textos constitucionales al sentido de aquél, o cuando se hiciere necesario adecuar la Constitución a disposiciones emanadas de leyes nacionales, únicas o generales expedidas por el Congreso de la Unión, o como consecuencia de declaratorias de invalidez emitidas por la Suprema Corte de Justicia de la Nación, una vez presentada la iniciativa correspondiente, la Junta de Coordinación Política, por sí o a petición del iniciante o de la Comisión Permanente de Justicia y Puntos Constitucionales, podrá proponer al Pleno, mediante un proyecto de punto de acuerdo, que declare iniciar un procedimiento especial de reformas constitucionales.
 
 ###### Artículo 13.
 
 La declaratoria del Congreso se emitirá por acuerdo favorable de la mayoría de los diputados presentes en la sesión en la que se conozca el proyecto de punto de acuerdo.
 
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Si el Congreso se encuentra en receso, el proyecto de punto de acuerdo de la Junta de Coordinación Política se someterá a la Diputación Permanente para que, de estimarlo procedente, ésta convoque a un periodo extraordinario para que el Congreso haga la Declaratoria señalada en el artículo inmediato anterior y proceda a conocer del decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos.
+Si el Congreso se encuentra en receso, el proyecto de punto de acuerdo de la Junta de Coordinación Política se someterá a la Diputación Permanente para que, de estimarlo procedente, ésta convoque a un periodo extraordinario para que el Congreso haga la declaratoria señalada en el artículo inmediato anterior.
+
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 15.
 
-Aprobado el proyecto de punto de acuerdo, el Presidente de la Mesa Directiva hará la declaratoria siguiente: "La (número ordinal) Legislatura del Congreso del Estado de Veracruz de Ignacio de la Llave declara que será especial el procedimiento para la discusión y, en su caso, aprobación del dictamen relativo a la iniciativa de decreto (denominación del proyecto), presentada por (nombre del promovente), en razón de lo dispuesto por el Decreto (denominación del mismo) de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el (fecha)".
+Aprobado el proyecto de punto de acuerdo, el Presidente de la Mesa Directiva hará la declaratoria siguiente: "La (número ordinal) Legislatura del Congreso del Estado de Veracruz de Ignacio de la Llave declara que será especial el procedimiento para la discusión y, en su caso, aprobación del dictamen relativo a la iniciativa de decreto (denominación del proyecto), presentada por (nombre del promovente)".
 
 ###### Artículo 16.
 
@@ -127,7 +131,7 @@ El dictamen con proyecto de decreto de reforma constitucional, dentro de un proc
 
 ###### Artículo 17.
 
-De aprobarse el dictamen, se turnará a los Ayuntamientos, por medio de la Secretaría General del Congreso, para los efectos constitucionales.
+(DEROGADO, G.O. 4 DE DICIEMBRE DE 2018)
 
 ###### Artículo 18.
 
@@ -145,9 +149,11 @@ Junto con el proyecto, se remitirán copias certificadas por el Secretario Gener
 
 La Secretaría General tomará las providencias necesarias para que exista constancia documental de la recepción por parte de los Ayuntamientos del proyecto de decreto y su expediente.
 
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 21.
 
-Los Ayuntamientos tendrán sesenta días naturales, contados a partir del siguiente al de la recepción del proyecto, para comunicar su acuerdo al Congreso del Estado o a la Diputación Permanente, emitido en sesión extraordinaria del Cabildo, en la que se discuta y apruebe o rechace la reforma constitucional.
+Los Ayuntamientos tendrán treinta días naturales, contados a partir del siguiente al de la recepción del proyecto, para comunicar su acuerdo al Congreso del Estado o a la Diputación Permanente, emitido en sesión extraordinaria de Cabildo, en la que se discuta y apruebe o rechace la reforma constitucional.
 
 ###### Artículo 22.
 
@@ -157,9 +163,11 @@ Los Ayuntamientos, al discutir un proyecto de reforma constitucional, deberán a
 
 De transcurrir el plazo conferido sin que un Ayuntamiento comunique su acuerdo, se entenderá que aprueba la reforma constitucional.
 
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 24.
 
-Para que las reformas formen parte de la Constitución Política del Estado será necesaria la aprobación de la mayoría de los Ayuntamientos.
+Para que las reformas formen parte de la Constitución Política del Estado será necesaria la aprobación de la mayoría de los Ayuntamientos, con excepción de los casos previstos en el artículo 4 de esta Ley.
 
 ### CAPÍTULO V. De la Recepción de los Acuerdos, Cómputo y Declaratorias de Reformas Constitucionales
 
@@ -189,7 +197,7 @@ En caso de que la mayoría de los Ayuntamientos comunique que no aprueba la refo
 
 ###### Artículo 30.
 
-Si una Legislatura dentro del procedimiento ordinario aprueba un proyecto de decreto de reforma constitucional en el segundo período de sesiones ordinarias del último año de su ejercicio, a la nueva Legislatura le corresponderá, en su primer período de sesiones ordinarias, discutir y en su caso aprobar la reforma constitucional en su segunda etapa.
+(DEROGADO, G.O. 4 DE DICIEMBRE DE 2018)
 
 ###### Artículo 31.
 
@@ -242,3 +250,11 @@ G.O. 28 DE NOVIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Los proyectos de Decreto de reforma constitucional que, a la entrada en vigor del presente Decreto, estuvieren por discutirse, votarse y, en su caso, aprobarse en un segundo período de sesiones, podrán modificarse conforme a las previsiones contenidas en este Decreto.
+
+G.O. 4 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 3 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE REFORMAS CONSTITUCIONALES PARCIALES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
