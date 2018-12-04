@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2018-08-30"
+last_updated: "2018-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2018.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -167,7 +167,7 @@ El territorio del Estado de Chiapas es el que posee desde que forma parte de los
 
 54. La Grandeza.
 
-55: La Independencia.
+55. La Independencia.
 
 56. La Libertad.
 
@@ -1419,69 +1419,35 @@ XXXVIII. Las demás que le confiera esta Constitución y las leyes que de ella e
 
 ### Capítulo II. De la Organización del Poder Ejecutivo
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 60.
 
 Para el despacho de los asuntos administrativos del Estado, el Ejecutivo Estatal contará con las Dependencias y Entidades que establezcan las leyes, o los decretos y acuerdos que, conforme a ellas, expida el propio Ejecutivo.
 
-Los titulares de Dependencias y Entidades deberán cumplir los siguientes requisitos:
+Los titulares de las Dependencias y Entidades deberán cumplir los siguientes requisitos:
 
 I.- Ser mayor de veinticinco años de edad.
 
 II.- No pertenecer al estado eclesiástico.
 
-III.- No haber cometido delito grave intencional.
+III.- No haber cometido delito grave doloso.
 
 IV.- Ser ciudadano chiapaneco.
 
 V.- Los demás que señale la Ley.
 
-El Titular del Ejecutivo será responsable de impulsar la equidad de género en la integración de la Administración Pública Estatal por lo que no podrá nombrar a más del cincuenta por cierto (sic) de personas de un mismo género como titulares de las Dependencias y Entidades de la Administración Pública del Estado.
+El Titular del Ejecutivo será responsable de impulsar la equidad de género en la integración de la Administración Pública Estatal, por lo que no podrá nombrar a más del cincuenta por cierto (sic) de personas de un mismo género como titulares de las Dependencias de la Administración Pública del Estado.
 
-Las ausencias de los titulares de las Dependencias y Entidades serán atendidas de acuerdo a lo establecido en la Ley.
+El Titular del Ejecutivo podrá designar encargados de despacho en caso de ausencias de los titulares de las Dependencias y Entidades, los cuales tendrán las mismas atribuciones y facultades de los titulares.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 61.
 
-Se establecen quince regiones socioeconómicas en el Estado, cada una integrada por los municipios que indique la Ley Orgánica de la Administración Pública del Estado de Chiapas.
+Para el diseño de las políticas públicas se establecerán regiones socioeconómicas. En consecuencia, se partirá de la diversidad regional en el Estado para diseñar mecanismos que promuevan la cohesión social; las políticas y programas se adecuarán a las particularidades de los territorios y promoverán la participación de los grupos locales para la promoción del desarrollo regional sustentable.
 
-Las quince regiones socioeconómicas son las siguientes:
-
-Región I. Metropolitana.
-
-Región II. Valle Zoque.
-
-Región III. Mezcalapa.
-
-Región IV. De los Llanos.
-
-Región V. Altos Tsotsil-Tseltal.
-
-Región VI. Frailesca.
-
-Región VII. De Los Bosques.
-
-Región VIII. Norte.
-
-Región IX. Istmo Costa.
-
-Región X. Soconusco.
-
-Región XI. Sierra Mariscal.
-
-Región XII. Selva Lacandona:
-
-Región XIII. Maya.
-
-Región XIV. Tulijá Tseltal Chol.
-
-Región XV. Meseta Comiteca Tojolabal.
-
-En cada región la Secretaría General de Gobierno contará con un Subsecretario de Gobierno, que tendrá a su cargo la coordinación de las acciones que corresponden realizar a las Dependencias de la Administración Pública Estatal con presencia en la región. El Subsecretario de Gobierno deberá reunir como requisitos ser chiapaneco por nacimiento, mayor de veinticinco años y deberá contar con una residencia mínima de cinco años en el Estado de Chiapas, al momento de su designación.
-
-Las regiones socioeconómicas serán la base del diseño de las políticas públicas. En consecuencia, se partirá de la diversidad regional en el Estado para diseñar mecanismos que promuevan la cohesión social; las políticas y programas se adecuaran a las particularidades de los territorios y promoverán la participación de los grupos locales para la promoción del desarrollo regional sustentable.
+Las regiones socioeconómicas y los Municipios que las integran se establecerán en la normativa aplicable.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4526,3 +4492,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- El Ejecutivo del Estado, durante el ejercicio fiscal en curso y de conformidad con la suficiencia presupuestaria, deberá dar continuidad al apoyo que actualmente otorga a los adultos mayores de 64 años o más, activos en el correspondiente programa.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 019 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 60 Y 61, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+El Titular del Poder Ejecutivo del Estado, determinará las instancias administrativas y de gobierno, encargadas de las regiones socioeconómicas.
