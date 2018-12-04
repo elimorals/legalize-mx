@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-para-el-desarrollo-de-los-31039"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-21"
-last_updated: "2017-06-22"
+last_updated: "2018-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-05-19"
 ---
 # LEY DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, PUBLICADA EN EL D.O.F. DE 4 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 2003.
 
@@ -358,3 +360,31 @@ D.O.F. 22 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN UNA FRACCIÓN XIX AL ARTÍCULO 2, UNA FRACCIÓN V AL ARTÍCULO 6, DE LA LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS; Y UNA FRACCIÓN XII AL ARTÍCULO 36 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS Y SE ABROGA LA LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS".]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+
+Tercero. La Secretaría de Hacienda y Crédito Público realizará las adecuaciones presupuestarias necesarias para el tratamiento del Instituto Nacional de los Pueblos Indígenas como entidad no sectorizada.
+
+El Instituto Nacional de los Pueblos Indígenas conservará la personalidad jurídica y el patrimonio de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+
+Cuarto. La Junta de Gobierno del Instituto Nacional de los Pueblos Indígenas expedirá el Estatuto Orgánico de dicha entidad en un plazo de noventa días naturales, contado a partir de la entrada en vigor de este Decreto.
+
+En tanto se expide el Estatuto Orgánico, se continuará aplicando el de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas en lo que no se oponga a esta Ley; y en lo no previsto se estará a lo que resuelva la Junta de Gobierno.
+
+Quinto. El Consejo Nacional de Pueblos Indígenas deberá estar instalado dentro de los 180 días naturales siguientes a la entrada en vigor del Estatuto Orgánico a que hace referencia el artículo anterior.
+
+Sexto. Los trabajadores de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas seguirán siéndolo del Instituto Nacional de los Pueblos Indígenas, conservando su antigüedad, derechos y condiciones laborales, en términos de la legislación aplicable.
+
+Los recursos materiales, financieros y activos con que cuente la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, pasarán a formar parte del Instituto Nacional de los Pueblos Indígenas.
+
+Séptimo. Dentro de los 180 días naturales siguientes a la entrada en vigor de esta Ley, las dependencias y entidades de la Administración Pública Federal propondrán al Presidente de la República, dentro del ámbito de sus respectivas competencias, las modificaciones del marco jurídico que consideren necesarias para el pleno respeto e implementación de los derechos y el desarrollo de los pueblos indígenas y afromexicano.
+
+Octavo. Los asuntos que se encuentren en trámite en la Comisión Nacional para el Desarrollo de los Pueblos Indígenas seguirán a cargo del Instituto Nacional de los Pueblos Indígenas.
+
+Noveno. Cualquier referencia que en otras disposiciones jurídicas y administrativas se haga a la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, se entenderá hecha al Instituto Nacional de los Pueblos Indígenas.
