@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-110929"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2018-11-17"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley publicada en el número 10 Sección LXV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -49,9 +49,11 @@ LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
 La presente Ley es de interés social y observancia general en el Estado de Jalisco y tiene como finalidad impulsar el desarrollo del artesano mediante su permanente vinculación en actividades de tipo económico, cultural, educativo y turístico, así como facilitar la organización y operación de las unidades de producción, salvaguardar las técnicas artesanales y sus productos como patrimonio cultural.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 2.
 
-Corresponde al Titular del Poder Ejecutivo del Estado, la aplicación de la presente Ley, por conducto del Instituto de la Artesanía Jalisciense y de las demás dependencias y entidades estatales que tengan relación con el sector artesanal, mediante la planeación y clasificación de acciones sustentadas en el Programa de Impulso Artesanal, el cual deberá considerar los elementos tanto materiales como subjetivos de las distintas regiones del Estado.
+Corresponde al Titular del Poder Ejecutivo del Estado, la aplicación de la presente Ley, por conducto de la Secretaría de Desarrollo Económico y de las demás dependencias y entidades estatales que tengan relación con el sector artesanal, mediante la planeación y clasificación de acciones sustentadas en el Programa de Impulso Artesanal, el cual deberá considerar los elementos tanto materiales como subjetivos de las distintas regiones del Estado.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2016, PÁGINA 7.]</small>
 
@@ -107,7 +109,9 @@ V. Taller Artesanal: El local o establecimiento en el cual el artesano ejerce ha
 
 VI. Empresa Artesanal: La unidad económica, ya sea persona física o jurídica que realiza una actividad calificada como artesanal de acuerdo con lo dispuesto en la fracción I del presente artículo y que cumpla los requisitos que para tal efecto señale el reglamento de la presente Ley;
 
-VII. Instituto: El Instituto de la Artesanía Jalisciense;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+VII. Secretaría: la Secretaría de Desarrollo Económico;
 
 VIII. Técnica Artesanal Tradicional: Conjunto de conocimientos, procedimientos, habilidades, expresiones simbólicas y artísticas tradicionales de que se sirve un artesano para la elaboración de bienes u objetos de artesanía;
 
@@ -115,7 +119,9 @@ IX. Ramas de la Producción Artesanal: La clasificación que realice la Direcci�
 
 X. Sector Artesanal: El que se constituye por individuos, talleres, empresas, institutos, entes de capacitación, sociedades y asociaciones de artesanos de acuerdo a las figuras asociativas formales previstas en la legislación mexicana;
 
-XI. Programa de Impulso Artesanal: El instrumento que al efecto elaborará el Instituto en coordinación con las Secretarías de Turismo, Educación, Cultura, Desarrollo Económico, y en su caso, con las demás dependencias, organismos y entidades de los diferentes niveles de gobierno que tengan relación con el sector artesanal;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XI. Programa de Impulso Artesanal: El instrumento que al efecto elaborará la Secretaría en coordinación con las Secretarías de Turismo, Educación, Cultura y en su caso, con las demás dependencias, organismos y entidades de los diferentes niveles de gobierno que tengan relación con el sector artesanal;
 
 XII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
@@ -129,9 +135,11 @@ XV. Desarrollo Artesanal Sustentable: El mejoramiento integral en la calidad de 
 
 Las artesanías y las técnicas artesanales empleadas para su producción, originarias y/o tradicionales de las comunidades, etnias o regiones del Estado deben ser objeto de salvaguarda.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 6.
 
-Se consideran como patrimonio cultural, las técnicas y productos artesanales tradicionales, por su significado para la historia y la identidad del Estado. El Instituto dispondrá de un registro de las técnicas artesanales originarias y tradicionales de la entidad y promoverá su difusión por los medios más convenientes.
+Se consideran como patrimonio cultural, las técnicas y productos artesanales tradicionales, por su significado para la historia y la identidad del Estado. La Secretaría de Cultura en coordinación con la Secretaría de Desarrollo Económico dispondrá de un registro de las técnicas artesanales originarias y tradicionales de la entidad y promoverá su difusión por los medios más convenientes.
 
 ## TÍTULO SEGUNDO. Del Desarrollo del Sector Artesanal
 
@@ -141,25 +149,31 @@ Se consideran como patrimonio cultural, las técnicas y productos artesanales tr
 
 Los artesanos como personas físicas o jurídicas, siempre que cumplan los requisitos que se establezcan reglamentariamente, podrán acceder a:
 
-I. Las distintas líneas de apoyo que brinde el Instituto, para la instalación, ampliación, traslado o remodelación del total o parte de la infraestructura y medios de producción; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+I. Las distintas líneas de apoyo que brinde la Secretaría, para la instalación, ampliación, traslado o remodelación del total o parte de la infraestructura y medios de producción; y
 
 II. El apoyo para la comercialización de sus productos de conformidad con lo previsto en el título octavo de esta Ley.
 
-El Instituto diseñará y establecerá programas para promover la calidad y gestionar la certificación del origen de los productos artesanales, tomando en consideración, en su caso, la opinión y aportaciones de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría diseñará y establecerá programas para promover la calidad y gestionar la certificación del origen de los productos artesanales.
 
 ### CAPÍTULO II. De la Capacitación de la Actividad Artesanal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 8.
 
-Los artesanos constituidos como personas físicas o que formen parte de personas jurídicas, tendrán acceso a apoyos económicos y en especie para la formación de la actividad artesanal, a través de cursos formativos en materia artesanal promovidos por organismos públicos y privados por convenios celebrados para tal efecto por el Instituto, cumpliendo los requisitos que las convocatorias y el reglamento establezcan.
+Los artesanos constituidos como personas físicas o que formen parte de personas jurídicas, tendrán acceso a apoyos económicos y en especie para la formación de la actividad artesanal, a través de cursos formativos en materia artesanal promovidos por organismos públicos y privados por convenios celebrados para tal efecto por la Secretaría, cumpliendo los requisitos que las convocatorias y el reglamento establezcan.
 
 De igual forma se hará con los artesanos que forman parte de sociedades cooperativas para la producción y venta de sus productos.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 9.
 
-El Instituto, en coordinación con los municipios, promoverá la difusión de programas de capacitación tendientes a favorecer la productividad, calidad, competitividad, protección, comercialización y en general, aquellos que impulsen la rentabilidad del sector.
+La Secretaría, en coordinación con los municipios, promoverá la difusión de programas de capacitación tendientes a favorecer la productividad, calidad, competitividad, comercialización y en general, aquellos que impulsen la rentabilidad del sector.
 
 ### CAPÍTULO III. De la Planeación y Programación de la Actividad Artesanal
 
@@ -167,17 +181,23 @@ El Instituto, en coordinación con los municipios, promoverá la difusión de pr
 
 La planeación del fomento y desarrollo artesanal del Estado de Jalisco estará orientada al mejoramiento económico y social de los artesanos y sus familias y a la preservación de las técnicas artesanales tradicionales.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 11.
 
-Es responsabilidad del Instituto que los mecanismos que se adopten para la planeación, la organización y el desarrollo artesanal del Estado, aseguren la participación democrática, activa y responsable de los propios artesanos.
+Es responsabilidad de la Secretaría que los mecanismos que se adopten para la planeación, la organización y el desarrollo artesanal del Estado, aseguren la participación democrática, activa y responsable de los propios artesanos.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-El Titular del Poder Ejecutivo y el Instituto procurarán dejar asentado en el Plan Estatal de Desarrollo y demás instrumentos previstos en la Ley de Planeación para el Estado de Jalisco y sus Municipios, las prioridades, estrategias y metas que se requieran para el desarrollo artesanal del Estado de Jalisco a nivel estatal, nacional e internacional.
+El Titular del Poder Ejecutivo y la Secretaría procurarán dejar asentado en el Plan Estatal de Desarrollo y demás instrumentos previstos en la Ley de Planeación para el Estado de Jalisco y sus Municipios, las prioridades, estrategias y metas que se requieran para el desarrollo artesanal del Estado de Jalisco a nivel estatal, nacional e internacional.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 13.
 
-El Instituto deberá elaborar en forma anual el Programa de Impulso Artesanal en el que se determinarán las prioridades, estrategias y metas que se requieran para el desarrollo artesanal del Estado.
+La Secretaría deberá elaborar en forma anual el Programa de Impulso Artesanal en el que se determinarán las prioridades, estrategias y metas que se requieran para el desarrollo artesanal del Estado.
 
 ###### Artículo 14.
 
@@ -199,15 +219,19 @@ VII. Articulación con otros programas, en su caso;
 
 VIII. Esquemas de coordinación con el sector privado; y
 
-IX. Las demás que determine el Instituto.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+IX. Las demás que determine la Secretaría.
 
 ## TÍTULO TERCERO. Del Censo Artesanal y del Registro de Artesanos, Talleres y Empresas Artesanales
 
 ### CAPÍTULO I. Del Censo Artesanal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 15.
 
-La autoridad encargada de elaborar el censo artesanal será el Instituto, a través de la Dirección de Investigación, cuya finalidad será evaluar los índices de crecimiento de esta actividad, para establecer programas y líneas de acción adecuadas a la realidad social del Estado de Jalisco; dicho censo será público y gratuito agrupándose de la siguiente manera:
+La autoridad encargada de elaborar el censo artesanal será la Secretaría, cuya finalidad será evaluar los índices de crecimiento de esta actividad, para establecer programas y líneas de acción adecuadas a la realidad social del Estado de Jalisco; dicho censo será público y gratuito agrupándose de la siguiente manera:
 
 I. Técnicas artesanales: su objeto es el registro de los trabajos y actividades que obtengan el reconocimiento oficial de técnicas artesanales;
 
@@ -235,49 +259,67 @@ VII. Registro de las instituciones públicas o privadas encargadas de difundir l
 
 Queda prohibido utilizar la información del censo o registro artesanal para fines distintos a los que fue creado.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 16.
 
-La Dirección de Investigación desarrollará estrategias que permitan al Instituto, identificar el trabajo y calidad de aquellos artesanos que viven en el anonimato a fin de ser sujetos de los beneficios que otorga este ordenamiento.
+La Secretaría desarrollará estrategias que le permitan identificar el trabajo y calidad de aquellos artesanos que viven en el anonimato a fin de ser sujetos de los beneficios que otorga este ordenamiento.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-Para efectos de esta Ley se consideran como ramas de la producción artesanal las que determine la Dirección de Investigación, previa realización del censo respectivo.
+Para efectos de esta Ley se consideran como ramas de la producción artesanal las que determine la Secretaría, previa realización del censo respectivo.
 
 ### CAPÍTULO II. Del Registro de Artesanos, Talleres y Empresas Artesanales
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 18.
 
-El Instituto elaborará el registro de artesanos como personas físicas y jurídicas, además de los talleres y empresas artesanales; este registro será único y público. El Reglamento de esta Ley establecerá el procedimiento y las formalidades que se deban cumplir para la inscripción en dicho registro.
+La Secretaría elaborará el registro de artesanos como personas físicas y jurídicas, además de los talleres y empresas artesanales; este registro será único y público. El Reglamento de esta Ley establecerá el procedimiento y las formalidades que se deban cumplir para la inscripción en dicho registro.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 19.
 
-La condición de artesano, taller o empresa artesanal se justificará mediante la aprobación del documento de certificación artesanal expedido por el Instituto, que se emitirá a solicitud de los mismos y siempre que reúnan los requisitos establecidos en el Reglamento de la presente Ley y en las normas que se dictan para su desarrollo.
+La condición de artesano, taller o empresa artesanal se justificará mediante la aprobación del documento de certificación artesanal expedido por la Secretaría, que se emitirá a solicitud de los mismos y siempre que reúnan los requisitos establecidos en el Reglamento de la presente Ley y en las normas que se dictan para su desarrollo.
 
-El registro será un instrumento auxiliar del Instituto para la integración y ejecución de sus políticas dentro del sector y en general, para el cumplimiento de sus metas y objetivos.
+El registro será un instrumento auxiliar de la Secretaría para la integración y ejecución de sus políticas dentro del sector y en general, para el cumplimiento de sus metas y objetivos.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 20.
 
-Podrán inscribirse en el registro, artesanos como personas físicas o jurídicas, dicho trámite será gratuito y una vez obtenida dicha inscripción, gozarán de los beneficios que ofrezca para tal efecto el Instituto.
+Podrán inscribirse en el registro, artesanos como personas físicas o jurídicas, dicho trámite será gratuito y una vez obtenida dicha inscripción, gozarán de los beneficios que ofrezca para tal efecto la Secretaría.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 21.
 
-Las solicitudes de inscripción para el Registro de Artesanos, talleres, empresas artesanales, sociedades y asociaciones de artesanos del Estado de Jalisco, se formularán ante la Dirección de Investigación en los plazos, formas y condiciones que reglamentariamente se determinen.
+Las solicitudes de inscripción para el Registro de Artesanos, talleres, empresas artesanales, sociedades y asociaciones de artesanos del Estado de Jalisco, se formularán ante la Secretaría en los plazos, formas y condiciones que reglamentariamente se determinen.
 
 ## TÍTULO CUARTO. De las Artesanías Indígenas
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 22.
 
-El Instituto en coordinación con la Comisión Estatal Indígena elaborará un Registro de Artesanías Indígenas de los pueblos y comunidades originarias del Estado de Jalisco a fin de certificar su origen y en su caso promover la obtención de la marca colectiva ante la dependencia competente.
+La Secretaría en coordinación con la Comisión Estatal Indígena elaborará un Registro de Artesanías Indígenas de los pueblos y comunidades originarias del Estado de Jalisco a fin de certificar su origen y en su caso promover la obtención de la marca colectiva ante la dependencia competente.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 23.
 
-El Instituto realizará acciones tendientes a impulsar la actividad artesanal de los grupos indígenas oriundos de la entidad para preservar sus técnicas tradicionales y favorecer su desarrollo económico.
+La Secretaría realizará acciones tendientes a impulsar la actividad artesanal de los grupos indígenas oriundos de la entidad para preservar sus técnicas tradicionales y favorecer su desarrollo económico.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 24.
 
-El Instituto promoverá la celebración de concursos y ferias en los que se reconozca y difunda el arte indígena.
+La Secretaría promoverá la celebración de concursos y ferias en los que se reconozca y difunda el arte indígena.
 
 ###### Artículo 25.
 
@@ -317,403 +359,165 @@ V. Establecer permanente comunicación con los Consejos integrantes de la regió
 
 VI. Proponer la creación de espacios para la comercialización de productos artesanales, propios del municipio y en su caso, de la región; y
 
-VII. Discutir, analizar y en su caso, proponer las acciones más convenientes derivadas de los proyectos que al efecto les hagan llegar los artesanos u organizaciones debidamente acreditadas por el Instituto.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+VII. Discutir, analizar y en su caso, proponer las acciones más convenientes derivadas de los proyectos que al efecto les hagan llegar los artesanos u organizaciones debidamente acreditadas por la Secretaría.
 
 ## TÍTULO SEXTO. Del Instituto de la Artesanía Jalisciense
 
 ### CAPÍTULO I. De la Naturaleza, Objetivos y Funciones del Instituto
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
-
 ###### Artículo 30.
 
-El Instituto es un organismo público descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Cultura, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión, encargado de vigilar el cumplimiento de las disposiciones previstas en la presente ley.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 31.
 
-Son objetivos y funciones del Instituto las siguientes:
-
-I. Salvaguardar, preservar e impulsar las técnicas y productos artesanales del Estado, atendiendo a su calidad, representatividad, tradición, valor cultural y diseño, en coordinación con el Ejecutivo del Estado, a través de las Secretarías de Educación, Turismo, Cultura así como las demás dependencias u organismos que resulten competentes;
-
-II. Favorecer el establecimiento de los talleres familiares y propiciar la conservación y crecimiento de los existentes como una medida para resguardar la tradición y estimular la formación de nuevos artesanos;
-
-III. Impulsar la concertación de esfuerzos, recursos y voluntades entre la Federación, el Estado, los Municipios, los sectores social y privado, los productores y los organismos internacionales, a fin de facilitar la acción del Gobierno en beneficio de los artesanos y sus productos, para el mejor cumplimiento de sus atribuciones;
-
-IV. Desarrollar acciones específicas tendientes a fortalecer la producción artesanal de los pueblos y comunidades indígenas originarias del Estado;
-
-V. Promover una política de educación artesanal que prevea la creación de talleres escuela y centros de capacitación, donde se impartan conocimientos sobre el conjunto de disciplinas relacionadas con la producción, administración y comercialización artesanal; así como fomentar la participación del artesano en estas actividades;
-
-VI. Organizar, desarrollar y promover estudios e investigaciones en materia artesanal, así como realizar e impulsar los eventos que estime adecuados para el mejoramiento y desarrollo de las actividades artesanales;
-
-VII. Brindar asistencia técnica al artesano en cuanto a: diseño, tecnología, herramientas y equipos; abasto de materias primas; financiamiento, control de calidad, registro de derechos de autor, patentes y marcas, empaques y embalaje, administración y tributación, y funcionamiento de las figuras asociativas formales previstas en la legislación mexicana y todo cuanto se requiere para su adecuado desarrollo;
-
-VIII. Difundir entre la comunidad local, nacional e internacional la cultura artesanal de Jalisco, mediante la edición de atlas artesanales, catálogos, muestrarios, impresos, mensajes radiofónicos, televisivos, audios, videos y medios electrónicos;
-
-IX. Fomentar y conservar un muestrario de las artesanías de alta calidad producidas en el Estado a efecto de instalar espacios de venta y salas de exposiciones que muestren permanentemente los productos del artesano jalisciense;
-
-X. Apoyar a los artesanos en sus gestiones ante las Instituciones de Crédito, y brindarles la asesoría necesaria para la obtención de financiamientos adecuados, cuando para ello fuera requerido;
-
-XI. Fortalecer los mercados locales artesanales existentes y promover la apertura de nuevos mercados nacionales y extranjeros, a fin de dar a conocer la artesanía jalisciense, y mejorar las condiciones económicas del artesano, auxiliándolo en la comercialización de sus productos;
-
-XII. Crear y administrar las casas de las artesanías regionales del Estado, así como en las distintas entidades federativas y en el extranjero;
-
-XIII. Reinvertir las utilidades que obtengan en la venta de los productos artesanales, a efecto de constituir un fondo y las reservas necesarias que le permitan lograr la autosuficiencia económica, y posibilitar la realización integral de las actividades que esta Ley le encomienda;
-
-XIV. Llevar a cabo y mantener actualizado el censo y registro artesanal de Jalisco;
-
-XV. Diseñar y ejecutar un programa editorial permanente sobre la actividad artesanal e integrar una biblioteca especializada de consulta pública y de los fondos bibliográficos que se requieran, incorporando la participación de los medios electrónicos y masivos de comunicación al programa de cultura del Estado, para preservar y difundir nuestros valores y tradiciones;
-
-XVI. Formalizar convenios con la Secretaría de Educación del Estado para que la artesanía se establezca como una actividad complementaria que, bajo la modalidad de taller, se implemente dentro de las escuelas de tiempo completo y en su caso, gestionar ante las instancias federales competentes, la creación o adecuación de los planes de estudio existentes para incorporar su enseñanza como una materia optativa en los niveles de enseñanza básica;
-
-XVII. Ser el órgano rector de las políticas en materia artesanal;
-
-XVIII. Llevar un registro de los principales indicadores y estadísticas en materia artesanal, que permitan informar, apoyar y facilitar la toma de decisiones, con la finalidad de resolver la problemática existente;
-
-XIX. Desarrollar programas estratégicos en materia de comercialización, financiamiento, producción y abastecimiento de materias primas que considere necesarios para el desarrollo y competitividad del sector artesanal;
-
-XX. Gestionar y promover en coordinación con los municipios y las asociaciones de artesanos, la implementación de talleres a donde se enseñen y divulguen las técnicas artesanales en riesgo de desaparecer;
-
-XXI. Promover investigaciones académicas en coordinación con las instituciones de educación superior que operen en el Estado, para apoyar el desarrollo de un sector artesanal sustentable;
-
-XXII. Promover la participación de los artesanos en los procesos de consulta que se convoquen en materia artesanal;
-
-XXIII. Solicitar a las dependencias estatales y municipales información relativa a la materia de su competencia;
-
-XXIV. Fomentar la organización de los artesanos;
-
-XXV. Procurar la participación de organismos especializados en las artesanías en los diversos programas que implemente;
-
-XXVI. Organizar anualmente el Certamen de las Artesanías Jaliscienses que tendrá como objetivo impulsar la calidad en los productos y preservar las diferentes técnicas artesanales. Dicho concurso se desarrollará conforme a lo estipulado en la convocatoria respectiva y en lo dispuesto en el reglamento interior del Instituto;
-
-XXVII. Transparentar, conforme a la Ley de la materia, las acciones y estrategias implementadas, así como el monto y aplicación de los recursos en beneficio de los artesanos;
-
-XXVIII. Realizar, en general, toda clase de actos propios e inherentes a su naturaleza; y
-
-XXIX. Las demás que le señale esta Ley.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO II. De la Integración del Instituto y la Junta de Gobierno
 
 ###### Artículo 32.
 
-El Instituto se integra por:
-
-I. La Junta de Gobierno;
-
-II. El Director General; y
-
-III. Las áreas administrativas que señale la Ley.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 33.
 
-La Junta de Gobierno del Instituto es el órgano máximo de gobierno y se integrará por diecinueve miembros propietarios y el mismo número de suplentes.
-
-Los integrantes propietarios de la Junta de Gobierno serán los siguientes:
-
-I. Un presidente que será el ciudadano Gobernador del Estado o la persona que tenga a bien designar;
-
-II. Un representante por cada una de las dependencias del Poder Ejecutivo en materia de:
-
-a) Finanzas;
-
-b) Administración;
-
-c) Turismo;
-
-d) Educación;
-
-e) Cultura; y
-
-f) Desarrollo Económico.
-
-III. El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara;
-
-IV. El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo de Tlaquepaque;
-
-V. El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo de Tonalá;
-
-VI. El Presidente del Centro Bancario del Estado de Jalisco; y
-
-VII. Siete representantes de los artesanos del Estado, que designará el Titular del Poder Ejecutivo de entre las diversas propuestas que se le presenten por los artesanos organizados de la entidad.
-
-Los titulares designarán y acreditarán a sus respectivos suplentes, exceptuando al suplente de los artesanos, el cual será designado por el Gobernador del Estado.
-
-Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 34.
 
-La Junta de Gobierno del Instituto será presidida por el ciudadano Gobernador del Estado o por quien él tenga a bien designar.
-
-El Director General del Instituto fungirá como Secretario Técnico de la Junta de Gobierno.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 35.
 
-El carácter de miembro de la Junta de Gobierno es honorífico, por lo tanto, sus integrantes no tendrán derecho a percibir remuneración alguna.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO III. De las Atribuciones de la Junta de Gobierno
 
 ###### Artículo 36.
 
-Son atribuciones de la Junta de Gobierno:
-
-I. Autorizar el proyecto de presupuesto anual de ingresos y egresos del Instituto y vigilar su ejecución;
-
-II. Aprobar el programa general de actividades del Instituto que someta a su consideración el Director;
-
-III. Gestionar fondos, subsidios y administrar el patrimonio del Instituto y sus dependencias;
-
-IV. Evaluar los proyectos de inversión y comercialización que sean propuestos por el Instituto;
-
-V. Evaluar el desempeño general y por funciones del Instituto;
-
-VI. Proponer al Director del Instituto los ordenamientos que sean necesarios para la mejor organización y funcionamiento del Instituto;
-
-VII. Conocer y resolver los asuntos que se presenten en virtud del cumplimiento de los objetivos del Instituto;
-
-VIII. Definir y evaluar las políticas públicas que deberá seguir el Instituto;
-
-IX. Designar a los integrantes de la Comisión Certificadora de Origen y Calidad, a propuesta del Director General;
-
-X. Expedir el reglamento interior del Instituto;
-
-XI. Establecer los requisitos para obtener la calificación de artesano fijados en el Reglamento de esta Ley;
-
-XII. Autorizar la adquisición de los bienes necesarios para el desempeño de las actividades del Instituto;
-
-XIII. Solicitar y revisar los estudios contables, financieros, administrativos y técnicos sobre el Instituto y las entidades y empresas que dicho Instituto forme en términos de lo establecido por la presente Ley;
-
-XIV. Declarar de interés artesanal a aquellos municipios o regiones que se distingan por su actividad en la materia. Los cuales podrán utilizar en la forma que reglamentariamente se establezca, un distintivo de su identidad y de procedencia geográfica creado para tal efecto; y
-
-XV. Las demás que le sean conferidas en el presente y otros ordenamientos jurídicos aplicables.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO IV. Del Presidente de la Junta de Gobierno
 
 ###### Artículo 37.
 
-El Presidente de la Junta de Gobierno presidirá las sesiones ordinarias y extraordinarias, quien tendrá voto de calidad en caso de empate.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO V. De las atribuciones del Secretario Técnico de la Junta de Gobierno
 
 ###### Artículo 38.
 
-Corresponde al Secretario Técnico de la Junta de Gobierno:
-
-I. Convocar a sesiones de la Junta de Gobierno, proponiendo para tal efecto el orden del día correspondiente;
-
-II. Levantar el acta respectiva; y
-
-III. Mantener bajo su custodia los libros que contengan las actas de las sesiones.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO VI. De las Sesiones de la Junta de Gobierno
 
 ###### Artículo 39.
 
-Las sesiones de la Junta de Gobierno serán ordinarias y extraordinarias, debiendo celebrarse las primeras, al menos dos veces por año; y las segundas, cuando exista algún asunto que así lo amerite y hayan sido convocadas con tal carácter.
-
-Las sesiones sólo podrán celebrarse válidamente en primera convocatoria cuando exista quórum legal, mismo que lo conforman la asistencia de la mitad más uno de los integrantes de la Junta de Gobierno, y en segunda convocatoria, con los que asistan.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 40.
 
-En ningún caso podrán ser miembros de la Junta de Gobierno:
-
-I. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado, o civil con cualquiera de los miembros de la Junta de Gobierno;
-
-II. Las personas condenadas por delitos patrimoniales; y
-
-III. Las personas inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO VII. Del Director General del Instituto
 
 ###### Artículo 41.
 
-Corresponderá al Gobernador del Estado la designación del Director General del Instituto.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 42.
 
-Para ser designado Director del Instituto se requiere:
-
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II. Ser mayor de treinta años al día de su nombramiento;
-
-III. Residir en el Estado, cuando menos cinco años inmediatamente anteriores al día de su designación;
-
-IV. Tener título de licenciatura; y
-
-V. Tener conocimientos y experiencia mínima de cinco años en materia artesanal y administrativa.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO VIII. De las Atribuciones del Director General del Instituto
 
 ###### Artículo 43.
 
-Le corresponderán al Director General del Instituto, entre otras, las siguientes atribuciones y obligaciones:
-
-I. Ejecutar los acuerdos tomados por la Junta de Gobierno;
-
-II. Ser el representante legal del Instituto, con las más amplias facultades de administración y de pleitos y cobranzas, inclusive para ejercer aquellas que requieren cláusula especial, pudiendo conferir poderes especiales;
-
-III. Designar, bajo su responsabilidad, al personal administrativo y directores que requiera el funcionamiento del Instituto;
-
-IV. Formular y proponer a la Junta de Gobierno el proyecto de reglamento interior del Instituto;
-
-V. Conducir y ejercer la administración general del Instituto, así como de las casas de las artesanías y las representaciones en el país y en el extranjero;
-
-VI. Presentar oportunamente a la Junta de Gobierno, para su análisis y aprobación, en su caso, los planes y programas de trabajo, así como los presupuestos de ingresos y egresos del Instituto y ejercerlos conforme a las disposiciones contenidas en esta Ley, en otras disposiciones legales aplicables y en las instrucciones que al efecto reciba de la Junta de Gobierno;
-
-VII. Elaborar el Programa de Impulso Artesanal en coordinación con los titulares de las Secretarías de Turismo, Educación, Cultura y Desarrollo Económico, así como con las demás dependencias, organismos y entidades de los diferentes niveles de gobierno que tengan relación con el sector artesanal;
-
-VIII. Suscribir los contratos, convenios, acuerdos, títulos y operaciones de crédito que deba celebrar o expedir el Instituto, en el ejercicio de sus atribuciones y facultades, así como en el ejercicio de su función específica de titular del organismo, para el adecuado funcionamiento del mismo, además de realizar actos de dominio previa autorización de la Junta de Gobierno;
-
-IX. Dirigir, planear y coordinar las funciones, así como conducir los programas del Instituto, para su eficaz seguimiento y consecución;
-
-X. Realizar las gestiones legales, administrativas y financieras conducentes a la realización de los programas del Instituto;
-
-XI. Expedir los manuales de Organización y Procedimientos, acuerdos, circulares e instructivos necesarios para el adecuado funcionamiento del Instituto;
-
-XII. Acordar con los Directores de área los asuntos concernientes a cada una de ellas;
-
-XIII. Supervisar y evaluar las acciones que desempeñen cada una de las direcciones de área;
-
-XIV. Rendir ante la Junta de Gobierno un informe anual de las actividades realizadas por el Instituto;
-
-XV. Difundir a la ciudadanía por los medios a su alcance los avances de las actividades del Instituto y sus proyectos;
-
-XVI. Solicitar la información que requiera para el adecuado ejercicio de sus funciones;
-
-XVII. Preparar los informes que la Junta de Gobierno deba presentar, a solicitud del Gobierno del Estado;
-
-XVIII. Fomentar proyectos de desarrollo artesanal sustentables;
-
-XIX. Gestionar becas y autorizar las que otorgue directamente el Instituto; y
-
-XX. Las demás que le sean conferidas en esta Ley y otros ordenamientos legales.
-
-El Director del Instituto podrá conferir sus atribuciones y facultades delegables a los servidores públicos de este organismo, sin perder por ello la potestad de ejercerlas de manera directa.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO IX. De la Estructura del Instituto
 
 ###### Artículo 44.
 
-El Instituto para el ejercicio de sus atribuciones, se integrará con las direcciones, subdirecciones, departamentos, coordinaciones y oficinas que determinen esta Ley y su Reglamento Interior.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 45.
 
-El Instituto contará con las siguientes direcciones de área:
-
-I. De Administración;
-
-II. De Comercialización;
-
-III. De Vinculación; y
-
-IV. De Investigación.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 46.
 
-Corresponden a las direcciones las siguientes funciones:
-
-I. Acordar con el Director del Instituto el despacho de los asuntos relacionados con las actividades de su competencia e informarle de las acciones que realicen las oficinas a su cargo;
-
-II. Desempeñar las instrucciones y comisiones que el Director del Instituto les delegue y encomiende, así como mantenerlo informado sobre el desarrollo de sus actividades;
-
-III. Establecer, de acuerdo a su competencia, las normas, políticas, criterios, sistemas y procedimientos de carácter técnico conforme a los cuales desarrollarán las actividades aprobadas por el Director del Instituto;
-
-IV. Someter a la aprobación del Director del Instituto los estudios, programas y dictámenes que se elaboren en el área de su responsabilidad;
-
-V. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las oficinas de su adscripción y proponer al Director del Instituto, en su caso, su reorganización, fusión o desaparición;
-
-VI. Coordinarse con los titulares de las otras direcciones de área, cuando así se requiera, para el mejor funcionamiento del Instituto;
-
-VII. Promover el ingreso, las licencias y el ascenso del personal adscrito a su dirección, y proponer al Director del Instituto la delegación de facultades en servidores públicos subalternos;
-
-VIII. Formular los anteproyectos de programas y presupuestos; someterlos a la aprobación del Director del Instituto y verificar su correcta y oportuna ejecución por parte de las oficinas a su cargo;
-
-IX. Suscribir los documentos relativos al ejercicio de sus facultades y los que le sean señalados por delegación o le correspondan por suplencia;
-
-X. Recibir en acuerdo a los subdirectores y a cualquier otro servidor público, y conceder audiencia al público, conforme a los manuales administrativos y órdenes que expida el Director del Instituto;
-
-XI. Proporcionar la información, datos y, en su caso, la cooperación profesional o técnica que le sea requerida por las dependencias del Ejecutivo vinculadas al sector artesanal, así como del mismo Instituto, de acuerdo con las políticas establecidas por el Director del Instituto; y
-
-XII. Las demás que le señalen el Director del Instituto y las disposiciones legales respectivas.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO X. De las Ausencias y Suplencias de los Servidores Públicos
 
 ###### Artículo 47.
 
-Son ausencias temporales aquellas que no excedan de treinta días naturales. Las que excedan, sin ser definitivas, deberán ser justificadas.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 48.
 
-Son ausencias definitivas aquellas que son producto de la renuncia o separación voluntaria, y de la remoción o destitución del cargo en ejercicio, muerte y las que excedan de treinta días naturales.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 49.
 
-El Director del Instituto, durante sus ausencias temporales, será suplido por el Director de Administración.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 50.
 
-Los directores y subdirectores de área, durante sus ausencias temporales, serán suplidos por el servidor público de la jerarquía inmediata inferior.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO XI. Del Régimen Fiscal del Instituto
 
 ###### Artículo 51.
 
-El Instituto y sus servicios, en tanto que es un organismo público descentralizado, gozará de la exención de impuestos y derechos, conforme lo dispuesto en el artículo 32 de la Ley de Hacienda Municipal del Estado de Jalisco.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO XII. Del Patrimonio del Instituto
 
 ###### Artículo 52.
 
-El patrimonio del Instituto estará formado con los bienes que el Estado le asigne para el desarrollo de sus funciones y los que adquiera de acuerdo a sus características y se integrará por:
-
-I. Los recursos que se le asignen en el Presupuesto de Egresos del Poder Ejecutivo;
-
-II. Los bienes muebles e inmuebles que constituyan su inventario y los que adquiera para el cumplimiento de sus fines;
-
-III. Las donaciones, fondos, legados y cualquier otra aportación que reciba de instituciones públicas o privadas en el desempeño de sus funciones;
-
-IV. Los intereses o dividendos que resulten de las inversiones y depósitos en instituciones bancarias;
-
-V. Los derechos reales o personales de que sea titular derivado de los actos jurídicos suscritos con motivo de la ocupación de los edificios del Instituto y de los inmuebles en que se encuentran asentadas las casas de las artesanías jaliscienses;
-
-VI. La colección de artesanías que servirán de base para su exhibición permanente;
-
-VII. El equipo museográfico para instalar las exhibiciones que se presenten en las casas de las artesanías jaliscienses;
-
-VIII. El producto de las ventas que realice el Instituto, sus casas de las artesanías y sus diversas representaciones de venta; las cuotas que recabe por la expedición de certificados de origen y calidad, y todos los ingresos adicionales que apruebe la Junta de Gobierno y que tenga derecho a percibir el Instituto; y
-
-IX. Otros bienes o derechos necesarios para el cumplimiento de sus objetivos.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 53.
 
-Queda prohibido el empleo del patrimonio del Instituto para fines no especificados en la presente Ley.
-
-La enajenación de bienes propiedad del Instituto deberá ser autorizada por la Junta de Gobierno; tratándose de inmuebles, se requerirá además, la autorización del Congreso del Estado.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ## TÍTULO SÉPTIMO. Del Entorno Ecológico y la Actividad Artesanal
 
 ### CAPÍTULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 54.
 
-El Instituto promoverá entre las organizaciones y los artesanos, en lo particular, el aprovechamiento sustentable de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías. Para tal efecto solicitará el apoyo de las dependencias y entidades federales, estatales y municipales competentes y de los propios artesanos, a fin de crear una cultura ecológica en el sector.
+La Secretaría promoverá entre las organizaciones y los artesanos, en lo particular, el aprovechamiento sustentable de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías. Para tal efecto solicitará el apoyo de las dependencias y entidades federales, estatales y municipales competentes y de los propios artesanos, a fin de crear una cultura ecológica en el sector.
 
 El Gobierno del Estado y los ayuntamientos procurarán propiciar las condiciones necesarias para que las materias primas utilizadas en la elaboración de artesanías se produzcan en la misma región en que se elabora la artesanía, para tal efecto promoverán la protección y conservación de los lugares en los cuales se produzca dicha materia prima. En los municipios en donde no exista o no esté protegida la producción de la materia prima, procurarán fomentar la producción a través de la adquisición o enajenación de las zonas idóneas para la extracción, recolección, cultivo y aprovechamiento de esos insumos.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 55.
 
-El Instituto en coordinación con las dependencias y entidades federales, estatales y municipales competentes, fomentarán la utilización de insumos artesanales alternos en las zonas en que, de conformidad con los criterios ecológicos, disposiciones administrativas, normas oficiales y disposiciones jurídicas aplicables, ya no sea posible la explotación de recursos naturales.
+La Secretaría en coordinación con las dependencias y entidades federales, estatales y municipales competentes, fomentarán la utilización de insumos artesanales alternos en las zonas en que, de conformidad con los criterios ecológicos, disposiciones administrativas, normas oficiales y disposiciones jurídicas aplicables, ya no sea posible la explotación de recursos naturales.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 56.
 
-Cuando la base para la elaboración de artesanías sean maderas o plantas, el Instituto, en coordinación con los Municipios y la Secretaría de Medio Ambiente y Desarrollo Territorial del Estado de Jalisco, proveerá de apoyo técnico a los artesanos u organizaciones de estos, para la siembra y cultivo de árboles y plantas que serán utilizadas como materia prima. Lo mismo se observara cuando en la producción artesanal se usen materiales peligrosos o se generen residuos peligrosos que representen un riesgo a la salud, al medio ambiente o a los recursos naturales.
+Cuando la base para la elaboración de artesanías sean maderas o plantas, la Secretaría, en coordinación con los Municipios y la Secretaría de Medio Ambiente y Desarrollo Territorial del Estado de Jalisco, proveerá de apoyo técnico a los artesanos u organizaciones de estos, para la siembra y cultivo de árboles y plantas que serán utilizadas como materia prima. Lo mismo se observará cuando en la producción artesanal se usen materiales peligrosos o se generen residuos peligrosos que representen un riesgo a la salud, al medio ambiente o a los recursos naturales.
 
 ## TÍTULO OCTAVO. Del financiamiento, la Gestoría Comercial y la Comercialización
 
 ### CAPÍTULO I. De la Comercialización y la Gestoría Comercial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 57.
 
-El Instituto con apoyo de las dependencias y entidades competentes y las organizaciones de artesanos, impulsará y gestionará, de conformidad con las disposiciones aplicables, la adopción en el proceso de comercialización, de los siguientes aspectos:
+La Secretaría con apoyo de las dependencias y entidades competentes y las organizaciones de artesanos, impulsará y gestionará, de conformidad con las disposiciones aplicables, la adopción en el proceso de comercialización, de los siguientes aspectos:
 
 I. La certificación del producto artesanal que permita identificar su origen y calidad;
 
@@ -739,21 +543,29 @@ XI. Gestionar la obtención de tarifas preferenciales en materias primas, para e
 
 XII. Concertar convenios de cooperación con los Municipios de la entidad a fin de facilitar la generación de espacios permanentes o transitorios para la comercialización de las artesanías; y
 
-XIII. Suscribir los convenios respectivos a fin de que en cada desarrollo turístico de la Entidad, se ubique un espacio permanente para la venta y exhibición de artesanías, preferentemente de la localidad o región de que se trate. Para ello, el Instituto y la Secretaría de Turismo deberán establecerlo en el programa de impulso artesanal previsto en el título segundo de esta Ley.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-En el caso de la venta de productos por parte del Instituto, solo podrá obtener el costo de recuperación, considerando los apoyos necesarios que permitan lograr las mejores condiciones de ventas para los artesanos.
+XIII. Suscribir los convenios respectivos a fin de que en cada desarrollo turístico de la Entidad, se ubique un espacio permanente para la venta y exhibición de artesanías, preferentemente de la localidad o región de que se trate. Para ello, las Secretarías de Desarrollo Económico y de Turismo deberán establecerlo en el programa de impulso artesanal previsto en el título segundo de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+En el caso de la venta de productos en que intervenga la Secretaría, solo se podrá obtener el costo de recuperación, considerando los apoyos necesarios que permitan lograr las mejores condiciones de ventas para los artesanos.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 58.
 
-El Instituto otorgará permanentemente a los artesanos servicios gratuitos de gestoría comercial, con el objeto de conocer mercados potenciales, propiciar mejores condiciones de rentabilidad para los productos y facilitar la adquisición de equipo e infraestructura.
+La Secretaría otorgará permanentemente a los artesanos servicios gratuitos de gestoría comercial, con el objeto de conocer mercados potenciales, propiciar mejores condiciones de rentabilidad para los productos y facilitar la adquisición de equipo e infraestructura.
 
-Asimismo el Instituto se hará llegar de información sobre la situación del mercado de artesanías en el contexto mundial con el objeto de ponerla a disposición de los artesanos que la soliciten, así como brindar la orientación correspondiente.
+Asimismo, la Secretaría se hará llegar de información sobre la situación del mercado de artesanías en el contexto mundial con el objeto de ponerla a disposición de los artesanos que la soliciten, así como brindar la orientación correspondiente.
 
-El Instituto a petición de las organizaciones de artesanos debidamente constituidas y registradas ante el propio Instituto, apoyará con la asesoría y gestión ante las autoridades competentes para el otorgamiento de la certificación de origen y calidad de las artesanías de la entidad.
+La Secretaría, a petición de las organizaciones de artesanos debidamente constituidas y registradas, apoyará con la asesoría y gestión ante las autoridades competentes para el otorgamiento de la certificación de origen y calidad de las artesanías de la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 59.
 
-El Instituto a efecto de propiciar una comercialización competitiva en el sector podrá realizar las acciones necesarias para conformar empresas comercializadoras con la participación de los sectores público y privado.
+La Secretaría a efecto de propiciar una comercialización competitiva en el sector podrá realizar las acciones necesarias para conformar empresas comercializadoras con la participación de los sectores público y privado.
 
 Las empresas que se conformen para tal fin deberán estar sujetas a lo establecido en la legislación vigente en materia de sociedades mercantiles y deberán tener cuando menos los siguientes objetivos:
 
@@ -797,13 +609,17 @@ IX. Otorgar asesoría en el seguimiento de trámites y registro a los artesanos 
 
 X. Las demás que en opinión de la Junta de Gobierno se consideren necesarias.
 
-El Instituto promoverá la participación económica en el Fondo, de los gobiernos federal, estatal y municipal, los sectores social y privado y las organizaciones de artesanos del Estado.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría promoverá la participación económica en el Fondo, de los gobiernos federal, estatal y municipal, los sectores social y privado y las organizaciones de artesanos del Estado.
 
 El funcionamiento y administración del Fondo, así como los mecanismos para otorgar los apoyos se determinarán en los instrumentos legales que se celebren para tal efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 61.
 
-El Instituto a efecto de propiciar mecanismos alternos para el financiamiento de la producción artesanal podrá realizar las acciones necesarias para conformar entidades de ahorro y financiamiento para los artesanos.
+La Secretaría a efecto de propiciar mecanismos alternos para el financiamiento de la producción artesanal podrá realizar las acciones necesarias para conformar entidades de ahorro y financiamiento para los artesanos.
 
 Dichas entidades deberán estar sujetas a lo establecido en la legislación vigente en materia de ahorro y crédito popular y deberán tener cuando menos los siguientes objetivos:
 
@@ -817,15 +633,17 @@ III. Ofrecer a los artesanos préstamos con intereses bajos.
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 62.
 
-El Instituto realizará las gestiones necesarias para que la Secretaría de Educación del Estado, considere fomentar la enseñanza teórica y práctica de la artesanía, dentro de los programas educativos a fin de promover el conocimiento, valoración, preservación y desarrollo de la actividad artesanal de la entidad.
+La Secretaría realizará las gestiones necesarias para que la Secretaría de Educación del Estado, considere fomentar la enseñanza teórica y práctica de la artesanía, dentro de los programas educativos a fin de promover el conocimiento, valoración, preservación y desarrollo de la actividad artesanal de la entidad.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 63.
 
-El Instituto promoverá que la Secretaría de Cultura, la Secretaría de Turismo y la Secretaría de Desarrollo Económico, procuren que en cada evento de promoción cultural, turística o económica se realicen las actividades necesarias que garanticen la promoción de las tradiciones artesanales del Estado y, en su caso, coadyuven a la comercialización de los productos presentados u otros relativos.
+La Secretaría en colaboración con la Secretaría de Cultura y la Secretaría de Turismo, procurará que en cada evento de promoción cultural, turística o económica se realicen las actividades necesarias que garanticen la promoción de las tradiciones artesanales del Estado y, en su caso, coadyuven a la comercialización de los productos presentados u otros relativos.
 
 TRANSITORIOS:
 
@@ -914,3 +732,55 @@ P.O. 17 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26955/LXI/18 QUE REFORMA LOS ARTÍCULOS 9 Y 60 Y DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27206/LXII/18 QUE DEROGA LOS ARTÍCULOS DEL 30 AL 53 Y REFORMA LOS ARTÍCULOS 2, 4 FRACCIÓN VII, 6, 7 FRACCIÓN I Y ÚLTIMO PÁRRAFO, 8 PRIMERO (SIC) PÁRRAFO, 9, 11, 12, 13, 14 FRACCIÓN IX, 15 PRIMER PÁRRAFO, 16, 17, 18, 19, 20, 21, 22, 23, 24, 29 FRACCIÓN VII, 54 PRIMER PÁRRAFO, 55, 56, 57 PRIMER PÁRRAFO, FRACCIÓN XII Y ÚLTIMO PÁRRAFO, 58, 59 PRIMER PÁRRAFO, 60 PENÚLTIMO PÁRRAFO, 61 PRIMER PÁRRAFO, 62 Y 63 DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO; Y ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTICIÓN (SIC) DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA ARTESANÍA JALISCIENSE".]
+
+PRIMERO. El presente decreto entrará en vigor el día 6 de diciembre de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las funciones del Instituto de la Artesanía Jalisciense (IAJ) serán asumidas por la Secretaría de Desarrollo Económico del Gobierno del Estado de Jalisco, con excepción de la titularidad, administración y funciones del Museo Regional de la Cerámica, que pasarán a la Secretaría de Cultura.
+
+Los asuntos en trámite ante el Instituto de la Artesanía Jalisciense (IAJ) que se extingue, pasarán a la Secretaría de Desarrollo Económico del Gobierno del Estado de Jalisco, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado.
+
+El Poder Ejecutivo, a través de las Secretarías de Desarrollo Económico, Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptarán las medidas jurídicas, administrativas, financieras y operativas necesarias para que los servicios y funciones del Organismo Público Descentralizado que se extingue, se presten en forma ininterrumpida.
+
+TERCERO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del Organismo Público Descentralizado denominado Instituto de la Artesanía Jalisciense (IAJ), facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, o para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá en el proceso de entrega recepción respectivo y de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto de la Artesanía Jalisciense (IAJ).
+
+CUARTO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del Organismo Público Descentralizado que subsistan después de concluido el procedimiento de liquidación, pasarán a las dependencias que en su caso determine el Gobernador del Estado.
+
+QUINTO. Las relaciones laborales que tenga el Instituto de la Artesanía Jalisciense (IAJ) con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la legislación aplicable.
+
+SEXTO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto de la Artesanía Jalisciense (IAJ).
+
+SÉPTIMO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidos por la Secretaría de Desarrollo Económico o la Secretaría de Cultura, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Organismo Público Descentralizado Secretaría de Desarrollo
+
+"Instituto de la Artesanía Jalisciense (IAJ)" Económico
+
+(En materia de desarrollo de las artesanías
+
+jaliscienses y el estímulo y protección
+
+del artesano)
+
+Organismo Público Descentralizado Secretaría de Cultura
+
+"Instituto de la Artesanía Jalisciense (IAJ)"
+
+(En cuanto a la titularidad, administración
+
+y funciones del Museo Regional de la Cerámica)
+
+OCTAVO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente Decreto.
+
+NOVENO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
+
+DÉCIMO. El Titular del Poder Ejecutivo por conducto de la Secretaría de Administración deberá rendir cuentas por escrito a esta Soberanía, respecto de los pasivos existentes y el procedimiento de liquidación del Instituto de la Artesanía Jalisciense (IAJ), una vez al año y hasta la total conclusión de los actos del proceso de liquidación.
+
+DÉCIMO PRIMERO. Se abroga el decreto 26856/LXI/18 publicado en el periódico oficial "El Estado de Jalisco" el 13 de septiembre del 2018, que reformó el artículo 30 de la Ley de Promoción y Desarrollo Artesanal del Estado de Jalisco y todas las demás disposiciones que se opongan al presente decreto.
