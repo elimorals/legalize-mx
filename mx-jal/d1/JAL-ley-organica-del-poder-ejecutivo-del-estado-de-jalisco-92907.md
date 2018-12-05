@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-92907"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2018-09-25"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 27213/LXII/18 POR MEDIO DEL CUAL SE ABROGA LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 27213/LXII/18 RELATIVO A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018 (ABROGADO).
 
-Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 27 de febrero de 2013.
+Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 5 de febrero de 2013.
 
 Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
@@ -2098,3 +2102,219 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26929/LXI/18 QUE REFORMA LOS ARTÍCULOS 45 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y 7° DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
 
 PRIMERO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27213/LXII/18 QUE ABROGA LA LEY ORGÁNICA DEL PODER EJECUTIVO Y CREA LA NUEVA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día 6 de diciembre de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las modificaciones dispuestas en el presente Decreto, no son las suficientes y necesarias para el cumplimiento y la implementación correspondiente, conforme los supuestos establecidos en el artículo Tercero Transitorio del decreto legislativo 26408/LXI/17 publicado en el periódico oficial "El Estado de Jalisco" en su edición de fecha 18 de julio de 2017, mediante el cual se reformó la Constitución Política del Estado de Jalisco, por lo que la reforma a los dispositivos que se citan en dicho artículo permanecen sin iniciar su vigencia.
+
+TERCERO. Para dar cumplimiento efectivo a lo contenido en el presente Decreto, se autoriza al Titular del Poder Ejecutivo para llevar a cabo las adecuaciones presupuestales necesarias que garanticen el funcionamiento de las dependencias que se crean o modifican en virtud del presente Decreto en el Presupuesto de Egresos para el Ejercicio Fiscal 2019, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo Número 24395/LX/13, dotándoles de los recursos humanos y materiales idóneos y necesarios para el cumplimiento de sus fines.
+
+La transferencia de recursos humanos, materiales y financieros que deban realizarse de una dependencia a otra para el cumplimiento efectivo del presente Decreto, incluirán los activos patrimoniales, tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, todo equipo e instrumentos que las diversas dependencias requieran para el ejercicio de sus funciones.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la ley de la materia.
+
+CUARTO. Para el ejercicio 2018, se autoriza la modificación del tabulador de sueldos que integra las nomenclaturas de los titulares de las dependencias que se crean o modifican en virtud del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo Número 24395/LX/13, y se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Administración lleve a cabo las modificaciones necesarias a la plantilla de personal vigente y las adecuaciones presupuestales en el capítulo 1000 "Servicios Personales" de conformidad a la suficiencia presupuestal, y realizar las erogaciones correspondientes con cargo a la Unidad Presupuestal que corresponda a la Unidad de Dependencias Auxiliares.
+
+Así mismo, para el ejercicio 2018, se autoriza al Titular del Ejecutivo a realizar las adecuaciones necesarias en el capítulo de Servicios Personales hasta el límite de la suficiencia presupuestal, a fin de habilitar la partida "1221 Salarios al personal eventual" durante el mes de diciembre de 2018, para las erogaciones correspondientes al personal sin plaza en la plantilla, con cambio de nomenclatura o de nivel y que deban integrarse en el mes de diciembre de 2018 a las dependencias que se crean o modifican con motivo del presente decreto, respecto de las dependencias anteriormente establecidas en el decreto legislativo número 24395/LX/13.
+
+El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar el 30 de enero del 2019, las adecuaciones llevadas a cabo en los términos del presente artículo.
+
+QUINTO. El Titular del Poder Ejecutivo Estatal presentará al Congreso del Estado de Jalisco, las iniciativas de reforma que resulten necesarias para adecuar el marco jurídico estatal a las nuevas denominaciones y atribuciones de las dependencias de la Administración Pública Estatal.
+
+En tanto esto tiene lugar, las facultades y atribuciones establecidos a cargo de las dependencias que se crean o modifican derivado del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo Número 24395/LX/13, así como las facultades, derechos y obligaciones establecidos a cargo de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con otras cualquier (sic) persona física o jurídica de derecho público o privado, serán asumidos por las nuevas dependencias, o su titular, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Secretaría General de Gobierno
+
+(Tratándose de: representación
+
+jurídica del Gobernador y del
+
+Secretario General de Gobierno, de Consejería Jurídica del Poder
+
+procedimientos expropiatorios y de Ejecutivo
+
+procedimientos de responsabilidad
+
+notarial, obtención de patente de
+
+aspirante al ejercicio del notariado y
+
+nombramiento de notario público);
+
+Secretaría General de Gobierno Secretaría de Administración
+
+(Tratándose de administración del
+
+patrimonio del Estado)
+
+Secretaría de Planeación,
+
+Administración y Finanzas
+
+(En materia fiscal, en materia de
+
+hacienda pública, ingresos públicos, Secretaría de la Hacienda Pública
+
+programación y presupuestación,
+
+egresos, deuda pública y
+
+contabilidad; constitución y
+
+administración de fideicomisos;
+
+vinculación administrativa con
+
+entidades descentralizadas)
+
+Secretaría de Planeación,
+
+Administración y Finanzas
+
+(En materia de: adquisición y
+
+contratación de bienes y servicios;
+
+participación en los comités de
+
+adquisiciones de la administración
+
+pública paraestatal del estado;
+
+arrendamientos, comodatos y
+
+servicios generales; control y
+
+administración del patrimonio
+
+mobiliario e inmobiliario; Secretaría de Administración
+
+administración y capacitación de los
+
+recursos humanos de la
+
+administración centralizada;
+
+incompatibilidades de servidores
+
+públicos; servicios civil de carrera;
+
+administración de las Unidades
+
+Regionales de Servicios Estatales;
+
+innovación gubernamental,
+
+operación de sistemas tecnológicos
+
+y tecnologías de la información)
+
+Secretaría de Planeación,
+
+Administración y Finanzas
+
+(En materia de: Sistema estatal de Secretaría de Planeación y
+
+planeación para el desarrollo; Participación Ciudadana
+
+participación ciudadana; y
+
+evaluación de programas y políticas
+
+públicas)
+
+Fiscalía General del Estado
+
+(En materia de seguridad pública, Secretaría de Seguridad
+
+prevención del delito y reinserción
+
+social)
+
+Fiscalía General del Estado
+
+(En lo que respecta a la materia de Fiscalía Estatal
+
+procuración de justicia)
+
+Secretaría de Desarrollo e
+
+Integración Social
+
+(En materia de asistencia social Secretaría del Sistema de
+
+pública y privada; coordinación del Asistencia Social
+
+Sistema Estatal de Asistencia
+
+Social)
+
+Secretaría de Desarrollo e Secretaría de Igualdad Sustantiva
+
+Integración Social
+
+(En materia de atención a grupos
+
+vulnerables; desarrollo social y
+
+desarrollo humano)
+
+Secretaría de Movilidad Secretaría del Transporte
+
+Secretaría de Movilidad Secretaría de Seguridad
+
+(en materia de policía vial)
+
+Procuraduría social
+
+(Exclusivamente en materia de Secretaría General de Gobierno
+
+visitas a notarías públicas)
+
+Secretaría de Medio Ambiente y
+
+Desarrollo Territorial
+
+(Exclusivamente en materia de Secretaría de Gestión Integral del
+
+gestión integral del agua y el Agua
+
+ejercicio de las facultades en
+
+materia de aguas de jurisdicción
+
+estatal)
+
+SEXTO. Las facultades o atribuciones que cualquier ordenamiento confiera a la Secretaría General de Gobierno, que estén vinculadas con aquellas facultades o atribuciones que el presente Decreto otorga a la Consejería Jurídica del Poder Ejecutivo, se entenderán como conferidas a ésta última.
+
+SÉPTIMO. El mando, coordinación y control de la Policía Vial conferidos a la Secretaría de Seguridad, estarán a cargo de ésta a partir de la entrada en vigor del presente decreto; en tanto que los aspectos y procesos meramente administrativos relativos a la policía vial continuarán a cargo de la Secretaría del Transporte hasta que tengan lugar las adecuaciones administrativas y legales necesarias para su implementación y operación por parte de la Secretaría de Seguridad.
+
+OCTAVO. Las órdenes emitidas para practicar visitas de inspección a notarías públicas, así como las visitas en práctica que hasta antes de la entrada en vigor del presente Decreto estaban siendo substanciadas por la Procuraduría Social, continuarán siendo desahogadas por la Secretaría General de Gobierno hasta su conclusión.
+
+Los procedimientos de oficio o queja administrativa en contra de notarios públicos, así como cualquier trámite o procedimiento de responsabilidad notarial presentados con posterioridad a la reforma aprobada mediante decreto legislativo 26929/LXI/18, así como cualquier trámite o procedimiento vinculado a la función notarial que se hubiesen recepcionado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose ante la Secretaría General de Gobierno. Los trámites y procedimientos vinculados a la función notarial que se presenten de forma posterior a la entrada en vigor del presente Decreto, serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
+
+La Secretaría General de Gobierno dará el trámite que conforme a la Ley del Notariado del Estado de Jalisco, corresponda, a las actas levantadas con motivo de las visitas de inspección a notarías públicas que se hubiesen ordenado o practicado por la Procuraduría Social antes de la entrada en vigor del presente decreto.
+
+Para el ejercicio de las anteriores facultades, la Secretaría General de Gobierno se auxiliará de la Subsecretaría General de Gobierno o de la persona que éste designe directamente o bien, conforme lo disponga el Reglamento de la citada secretaría.
+
+NOVENO. A partir de la entrada en vigor del presente Decreto, los asuntos, procedimientos, juicios y recursos en trámite, en los que la Subsecretaría de Asuntos Jurídicos y la Dirección General Jurídica, ambas de la Secretaría General de Gobierno, sean parte o hayan sido señaladas como autoridades responsables, continuarán siendo atendidos por la Consejería Jurídica del Poder Ejecutivo del Estado, quien tendrá a su cargo la representación jurídica en los mismos, toda vez que dicha Consejería sustituye a las citadas Subsecretaría y Dirección.
+
+Los procedimientos, juicios y recursos en trámite, en los que la representación jurídica de la Secretarla de Planeación, Administración y Finanzas estaba encomendada a la Dirección General Jurídica de dicha dependencia, continuarán siendo atendidos por la Dirección General Jurídica de la Secretaría de Administración, quien tendrá a su cargo la representación jurídica en los mismos. En su caso, la Secretaría de Planeación y Participación Ciudadana, así como la Secretaría de la Hacienda Pública, deberán coadyuvar con la Secretaría de Administración para el cumplimiento de las resoluciones, sentencias y laudos condenatorios derivados de dichos procedimientos, juicios y recursos en el ámbito de su competencia.
+
+Los procedimientos, juicios y recursos en trámite, en los que la representación jurídica de la Secretaría de Desarrollo e Integración Social estaba encomendada a la Dirección General Jurídica de dicha dependencia, continuarán siendo atendidos por la Dirección Jurídica de la Secretaría del Sistema de Asistencia Social, quien tendrá a su cargo la representación jurídica en los mismos. En su caso, la Secretaría de Igualdad Sustantiva deberá coadyuvar con la Secretaría del Sistema de Asistencia Social para el cumplimiento de las resoluciones, sentencias y laudos condenatorios derivados de dichos procedimientos, juicios y recursos en el ámbito de su competencia.
+
+Los procedimientos, juicios y recursos en trámite, en los que la representación jurídica de la Fiscalía General estaba encomendada a la Dirección General Jurídica de dicha dependencia, continuarán siendo atendidos por la Dirección General Jurídica de la Fiscalía Estatal. En su caso, la Secretaría de Seguridad y la Coordinación General Estratégica de Seguridad, deberán coadyuvar con la Fiscalía Estatal para el cumplimiento de las resoluciones, sentencias y laudos condenatorios derivados de dichos procedimientos, juicios y recursos en el ámbito de su competencia.
+
+En el resto de los casos, los asuntos, procedimientos, juicios, solicitudes de información y recursos en trámite ante las dependencias anteriormente establecidas en el Decreto Legislativo Número 24395/LXJ13, pasarán a las dependencias de Ja Administración Pública Centralizada establecidas en el presente Decreto de conformidad con las facultades establecidas para cada una de ellas. En caso de duda, las mismas serán resueltas en los términos que determine el Gobernador del Estado, a través de la Secretaría General de Gobierno.
+
+DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
+
+DÉCIMO SEGUNDO. Para el cumplimiento de lo señalado en el artículo 51, se deberán constituir los órganos internos de control en las Dependencias y Entidades de acuerdo a la disposición presupuestaria.
