@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-de-fomento-al-comercio-exterior-1331
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-19"
-last_updated: "2016-05-17"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO NÚMERO 27208/LXII/18, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 5 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 19 de diciembre de 1998.
 
@@ -616,3 +618,39 @@ P.O. 17 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7° DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7° DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3° DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4° DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6° DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8° Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “DECRETO 27208/LXII/18 QUE ABROGA LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE JALISCO; Y ESTABLECE LAS BASES PARA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO JALISCIENSE DE FOMENTO AL COMERCIO EXTERIOR (JALTRADE)”.]</small>
+
+PRIMERO. Se abroga la Ley Orgánica del Instituto de Fomento al Comercio Exterior del Estado de Jalisco.
+
+SEGUNDO. Se extingue el organismo público descentralizado denominado Instituto de Fomento al Comercio Exterior del Estado Jalisco (JALTRADE).
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27208/LXII/18 QUE ABROGA LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE JALISCO; Y ESTABLECE LAS BASES PARA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO JALISCIENSE DE FOMENTO AL COMERCIO EXTERIOR (JALTRADE)”.]
+
+PRIMERO. El presente decreto entrará en vigor el día 6 de diciembre de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Las funciones del Instituto de Fomento al Comercio Exterior del Estado de Jalisco (JALTRADE) serán asumidas por la Secretaria de Desarrollo Económico DEL Gobierno del Estado de Jalisco.
+
+Los asuntos en trámite ante el Instituto de Fomento al Comercio Exterior del Estado de Jalisco (JALTRADE) que se extingue, pasarán a la Secretaria señalada en el párrafo anterior, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado.
+
+El Poder Ejecutivo, a través de las secretarias de Desarrollo Económico, Administración y de la de Hacienda Pública del Estado de Jalisco, según corresponda, adoptarán las medidas jurídicas, administrativas, financieras y operativas necesarias para que los servicios y funciones de organismo público descentralizado que se extingue, se presten en forma ininterrumpida.
+
+TERCERO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto de Fomento al Comercio Exterior del Estado de Jalisco (JALTRADE), facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá en el proceso de entrega recepción respectivo y de Inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto de Fomento al Comercio Exterior del Estado de Jalisco (JALTRADE).
+
+CUARTO. Los recursos económicos y materiales, así como los derechos valores (sic), fondos y obligaciones del organismo público descentralizado que subsistan después de concluido el procedimiento de liquidación, pasarán a las dependencias que en su caso determine el Gobernador del Estado.
+
+QUINTO. Las relaciones laborales que tenga el Instituto de Fomento al Comercio Exterior del Estado de Jalisco (JALTRADE) con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la legislación aplicable.
+
+SEXTO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto de Fomento al Comercio Exterior del Estado de Jalisco (JALTRADE).
+
+SÉPTIMO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de (sic) Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidos por la Secretaria de Desarrollo Económico.
+
+OCTAVO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente Decreto.
+
+NOVENO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
+
+DÉCIMO. El Titular del Poder Ejecutivo por conducto de la Secretaría de Administración deberá rendir cuentas por escrito a esta Soberanía, respecto de los pasivos existentes y el procedimiento de liquidación de Instituto Jalisciense de Fomento al Comercio Exterior (JALTRADE), una vez al año y hasta la total conclusión de los actos del proceso de liquidación.
