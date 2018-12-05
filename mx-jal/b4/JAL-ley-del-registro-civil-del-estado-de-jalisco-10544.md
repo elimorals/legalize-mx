@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2018-09-01"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -62,6 +62,10 @@ La certificación es el medio de publicidad de las actas y documentos que obren 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
 Las copias o extractos certificados tendrán pleno valor y podrán ser presentadas ante cualquier instancia pública o privada, con independencia de su fecha de expedición, salvo que se requiera acreditar el estado civil del interesado.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+Los certificados de actas y documentos impresos vía electrónica mediante las plataformas habilitadas para tal efecto que autorice el Estado o que mediante convenios valide con la Federación o las entidades federativas derivadas de la Base de Datos Nacional del Registro Civil, gozarán de valor pleno y deberán ser admitidos por las instancias públicas o privadas, siempre y cuando se desprendan de la impresión respectiva, los elementos de seguridad mediante los cuales se convalide la información y datos asentados.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -418,6 +422,14 @@ Cada Oficialía tendrá su propio apéndice del archivo, que estará integrado p
 ###### Artículo 39.
 
 Los apéndices estarán constituidos por todos los documentos relativos al acta en original; deberán estar relacionadas y anotados con el acta respectiva, integrándose en los libros correspondientes a las actas.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 39 Bis.
+
+La Dirección General del Registro Civil, deberá verificar el cumplimiento por parte de las unidades hospitalarias que atiendan los nacimientos, de la información relativa a los mismos en los términos de la Ley de Salud del Estado de Jalisco.
+
+Una vez recibida la relación de nacimientos diaria por unidad médica, la Dirección General realizará las acciones necesarias para el almacenamiento, conservación y actualización en el sistema electrónico que corresponda y procurará generar en tiempo real el acceso de consulta a la misma por parte de las oficialías de Registro Civil en el Estado, procurando con ello el derecho a la identidad de los menores y agilizando el procedimiento de registro que se solicite ante las oficialías del registro civil en los términos del reglamento de la presente Ley.
 
 ### CAPITULO V. De las actas de nacimiento
 
@@ -1612,3 +1624,19 @@ TERCERO. Lo previsto en el artículo 21 fracción V, del presente decreto, no se
 CUARTO. Los Notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de esta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia del presente decreto, podrán mantener su oficina en ese municipio.
 
 QUINTO. Las presentes disposiciones surtirán todos sus efectos en tanto no se opongan expresamente a las disposiciones en materia procesal civil y familiar.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27193/LXII/18 QUE EXPIDE LA LEY DE SALUD, QUE REFORMA LA LEY DE SALUD MENTAL EN SUS ARTÍCULOS 7°, 8°, 10, 12, 15 Y 16; QUE ADICIONA EL ARTÍCULO 13 BIS, QUE ADICIONA EL ARTÍCULO 40 BIS DEL CÓDIGO CIVIL; QUE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 2° Y 39 BIS DE LA LEY DEL REGISTRO CIVIL; QUE REFORMA LOS ARTÍCULOS 1°, PRIMER Y SEXTO PÁRRAFOS; 2°, 3°, FRACCIÓN II, 7°, FRACCIÓN I, NUMERALES 2, 3 Y 10, FRACCIÓN V DE LA LEY DEL ORGANISMO PÚBLICO DESENTRALIZADO (SIC) “SERVICIOS DE SALUD JALISCO”; QUE ABROGA EL DIVERSO DECRETO 12678 Y LA LEY DE PREVENCIÓN Y COMBATE DE LA OBESIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se abroga la Ley de Salud del Estado de Jalisco con numero de decreto 12678; así también se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Se abroga la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia; se derogan las disposiciones que se opongan al presente decreto.
+
+CUARTO. Dentro de los ciento veinte días a partir de la entrada en vigor de este decreto, se deberán realizar las adecuaciones reglamentarias correspondientes.
+
+QUINTO. En un plazo de doce meses el Sistema Único de Información en Salud del Estado de Jalisco deberá iniciar su funcionamiento, por lo que la Secretaría de Salud Jalisco emitirá los lineamientos para su establecimiento, así como para mantenerlo actualizado.
+
+SEXTO. El Consejo Estatal y sus consejeros seguirán en funciones y con las atribuciones contenidas en los artículos 7, 9 y 12 de la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia del Estado de Jalisco. El Ejecutivo del Estado deberá con noventa días, expedir la normativa que corresponda la permanencia y funcionamiento.
