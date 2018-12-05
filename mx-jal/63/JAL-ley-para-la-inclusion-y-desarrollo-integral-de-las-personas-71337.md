@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2017-07-27"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY PARA LA INCLUSION Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO -- ANTES LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD --
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO DEL DECRETO 27210/LXII/18, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, SE EXTINGUE EL ORGANISMO PÚBLICO DESCONCENTRADO DENOMINADO CONSEJO ESTATAL PARA LA ATENCIÓN E INCLUSIÓN DE PERSONAS CON DISCAPACIDAD.]</small>
+
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -59,7 +61,7 @@ IV. Determinar la participación y regular el funcionamiento y responsabilidades
 
 V. Promover la participación de las organizaciones para que colaboren en el alcance de los objetivos de la presente Ley y establecer los mecanismos de apoyo a sus acciones; y
 
-VI. Crear y establecer las bases para el funcionamiento del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad.
+VI. (REFORMADA [N. DE E. DEROGADA], P.O. 5 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -83,7 +85,7 @@ VII. Barreras Sociales y Culturales: Aquéllas que se generan debido a los preju
 
 VIII. CODE: Consejo Estatal para el Fomento Deportivo;
 
-IX. Consejo: Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad;
+IX. (REFORMADA [N. DE E. DEROGADA], P.O. 5 DE DICIEMBRE DE 2018)
 
 X. Convención: Convención sobre los derechos de las personas con discapacidad;
 
@@ -123,7 +125,9 @@ XXVII. Rehabilitación: Acciones terapéuticas, médicas, psicológicas, sociale
 
 XXVIII. Registro Estatal: El Registro Estatal de Certificación de Reconocimiento y Calificación de Discapacidad;
 
-XXIX. Secretaría: La Secretaría de Desarrollo e Integración Social; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XXIX. Secretaría: Secretaría de Igualdad Sustantiva; y
 
 XXX. Unidad de Valoración: órgano técnico dependiente de la Secretaría de Salud.
 
@@ -141,7 +145,7 @@ III. Los organismos públicos, que entre su objeto tengan competencia en la mate
 
 IV. Las Organizaciones; y
 
-V. El Consejo.
+V. (REFORMADA [N. DE E. DEROGADA], P.O. 5 DE DICIEMBRE DE 2018)
 
 En la interpretación de las normas aplicables a personas con discapacidad prevalecerá la que les sea más favorable, y se aplicarán de manera supletoria la Ley General, la legislación para Prevenir y Eliminar la Discriminación, y la legislación general y estatal en materia de salud.
 
@@ -277,11 +281,11 @@ e) En las campañas de capacitación de servidores públicos en la aplicación d
 
 ### Capítulo IV. Del Programa Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 7.
 
-El titular del Poder Ejecutivo expedirá el Programa Estatal. Para la elaboración y ejecución del mismo deberá considerar la participación de los municipios y se auxiliará del Consejo.
+El titular del Poder Ejecutivo expedirá el Programa Estatal. Para la elaboración y ejecución del mismo deberá considerar la participación de los municipios y se auxiliará de la Secretaría.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -327,293 +331,53 @@ El Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapaci
 
 ### Capítulo I. Del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 11.
 
-El Consejo es un organismo público desconcentrado, adscrito a la Secretaría, rector de las políticas públicas para alcanzar el objeto de esta Ley, operar y vincular las acciones para la atención, inclusión y desarrollo pleno de las personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 12.
 
-Para el cumplimiento de su objeto el Consejo contará con autonomía técnica y de gestión, y tendrá las siguientes atribuciones:
-
-I. Coordinar y elaborar los criterios rectores para el diseño y ejecución de las políticas públicas necesarias para el cumplimiento del objeto de la presente ley;
-
-II. Dar seguimiento y evaluar el cumplimiento del programa;
-
-III. Promover ante las autoridades el diseño, la adopción y el establecimiento de políticas públicas, conforme a lo previsto por la Convención, la Ley General y esta Ley;
-
-IV. Impulsar, desarrollar y apoyar los trabajos de investigación y análisis, relacionados con la prevención de la discapacidad, atención, inclusión y accesibilidad de personas con discapacidad;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
-
-V. Establecer mecanismos de coordinación y desarrollo de programas de atención e integración social, con las diversas dependencias públicas estatales y municipales, así como con las organizaciones;
-
-VI. Apoyar a la Unidad de Valoración en la elaboración de proyectos de criterios y lineamientos técnicos para la emisión de las certificaciones de reconocimiento y calificación de discapacidad por la Secretaría de Salud del Estado de Jalisco, mismos que el titular de la Secretaría de Salud deberá publicar en el Periódico Oficial "El Estado de Jalisco";
-
-VII. Tener acceso al Registro Estatal;
-
-VIII. Diseñar y difundir criterios técnicos que regulen el desarrollo urbano, construcciones y espectáculos que faciliten el acceso y movilidad de las personas con discapacidad;
-
-IX. Solicitar el retiro o modificación de las barreras físicas y de comunicación, a entidades públicas y privadas;
-
-X. Proponer el establecimiento de políticas públicas que propicien y promuevan la incorporación laboral de las personas con discapacidad en dichas instituciones públicas;
-
-XI. Establecer y difundir programas de prevención y control de las causas de la discapacidad y promover la participación activa de la sociedad;
-
-XII. Proponer al Ejecutivo las medidas para el mejoramiento de la calidad de vida de las personas con discapacidad, su participación e inclusión, a través de los programas de desarrollo social;
-
-XIII. Brindar orientación a las personas con discapacidad, cuando éstas consideren que han sido víctimas de discriminación. Deberá privilegiarse, en todo momento, la conciliación como medio para la solución de conflictos;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
-
-XIV. Fomentar la participación de las organizaciones, para alcanzar los objetivos de la presente Ley, brindarles la asesoría técnica y apoyar sus acciones en los términos de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil del Estado de Jalisco;
-
-XV. Promover campañas de difusión que promuevan la cultura de discapacidad y las personas con discapacidad como titulares de derechos, para sensibilizar y generar conciencia entre la población acerca de las medidas de prevención de la discapacidad, atención, inclusión y accesibilidad;
-
-XVI. Impulsar programas y acciones de política pública dirigidas a las niñas, niños y adolescentes con discapacidad bajo el principio de igualdad de condiciones con las demás personas menores de edad e inclusión social, con particular atención a zonas rurales y comunidades indígenas;
-
-XVII. Promover la obtención de recursos adicionales provenientes de fuentes alternas de financiamiento, públicos y privados, nacionales e internacionales, para el desarrollo de sus programas y servicios;
-
-XVIII. Celebrar acuerdos de colaboración con organismos públicos y privados, estatales, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las personas con discapacidad;
-
-XIX. Coordinarse con organismos públicos estatales en materia de población, geografía y estadística, y con el Instituto Nacional de Estadística y Geografía para recopilación de información y su actualización que permitan la formulación de planes, programas y políticas; y el desarrollo de instrumentos estadísticos que proporcionen información e indicadores cualitativos y cuantitativos sobre todos los aspectos relacionados con la discapacidad, incluyendo aspectos de discriminación e interseccionalidad de la misma, desglosados por zonas urbanas y rurales y comunidades indígenas;
-
-XX. Participar, por conducto del Presidente, o en su caso del Secretario Ejecutivo, en coordinación con el Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, en la elaboración y ejecución del Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad; y colaborar en el Sistema Nacional de Información en Discapacidad;
-
-XXI. Promover la difusión de la legislación en materia de discriminación y de discapacidad en formatos accesibles, la lectura fácil y los formatos electrónicos;
-
-XXII. Diseñar e implementar cursos de capacitación con la finalidad de sensibilizar y concienciar a los servidores públicos así como prestadores de servicios de la iniciativa privada que lo soliciten, sobre los derechos de las personas con discapacidad y la forma de conducirse ante ellos en razón al tipo de discapacidad;
-
-XXIII. Aprobar su anteproyecto de reglamento interno, y por conducto del titular de la Secretaría, proponerlo al Titular del Poder Ejecutivo;
-
-XXIV. Aprobar su proyecto de Presupuesto de Egresos, su plantilla de personal y el clasificador por objeto del gasto;
-
-XXV. Aprobar el Plan Institucional y los programas operativos anuales, y los demás instrumentos de planeación y programación que le correspondan; y
-
-XXVI. Las demás contenidas en esta Ley, el reglamento de la Ley y su reglamento interior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 13.
 
-El Consejo se integra de la siguiente manera:
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-I. Un Presidente, que será el Titular del Poder Ejecutivo, o quien éste designe;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-II. Tres Vicepresidentes, cargo que desempeñará:
-
-a) El primer vicepresidente, el titular de la Secretaría;
-
-b) El segundo vicepresidente, el titular de la Dirección General del DIF Estatal; y
-
-c) El tercer vicepresidente, el representante legal de una organización;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-III. El Secretario Ejecutivo, quien sólo tendrá derecho a voz;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-IV. Los representantes de cada una de las siguientes dependencias y organismos del Poder Ejecutivo del Estado, quienes serán Consejeros:
-
-a) Secretaría de Educación;
-
-b) Secretaría de Salud;
-
-c) Secretaría de Movilidad;
-
-d) Secretaría de Infraestructura y Obra Pública;
-
-e) Secretaría de Trabajo y Previsión Social;
-
-f) Secretaría de Desarrollo Económico;
-
-g) Secretaría de Cultura;
-
-h) Secretaría de Innovación, Ciencia y Tecnología;
-
-i) Secretaría de Turismo;
-
-j) Instituto Jalisciense de Asistencia Social;
-
-k) Instituto Jalisciense del Adulto Mayor;
-
-l) CODE;
-
-m) Instituto Jalisciense de las Mujeres; e
-
-n) Instituto Jalisciense de la Juventud;
-
-V. Un Consejero representante de la Comisión Estatal de Derechos Humanos;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-VI. Tres Consejeros especialistas en la materia: uno será representante de la Universidad de Guadalajara y dos de instituciones de educación superior, a propuesta del Presidente del Consejo; y
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-VII. Diez Consejeros, quienes serán representantes de organizaciones que agrupen los diferentes tipos de discapacidad y se hayan destacado por su trayectoria.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-Los Consejeros representantes de las Dependencias y Entidades del Poder Ejecutivo del Estado a que se refiere la fracción IV, serán designados por el respectivo titular, deberán tener el nivel jerárquico inmediato inferior al mismo, y les delegarán la potestad de toma de decisiones en el Consejo. Asimismo, se procurará que el servidor público designado sea quien tenga a su cargo los programas de apoyo a personas con discapacidad y tenga continuidad en las tareas y los acuerdos del Consejo.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-Con excepción del Secretario Ejecutivo, el cargo como miembro del Consejo será honorífico y, por lo tanto, no remunerado.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-Todos los integrantes tendrán derecho a voz y voto; el Presidente tendrá voto de calidad en caso de empate.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 14.
 
-El Presidente del Consejo podrá convocar, en calidad de invitados especiales, a los servidores públicos que por sus funciones sea conveniente que asistan a las sesiones de Consejo, líderes y representantes de colegios de profesionistas, cámaras y organismos empresariales y sindicales, medios de comunicación y cualquier otra persona que por sus conocimientos, prestigio o experiencia se considere pueda ser convocada.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 15.
 
-Cada tres años se renovará el tercer vicepresidente y los consejeros representantes de las organizaciones a que se refieren las fracciones II y VII del artículo 13, con posibilidad de ratificación.
-
-Serán seleccionados conforme a una convocatoria expedida por el Consejo, de acuerdo al procedimiento que establezca el reglamento de la Ley.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 16.
 
-El Presidente del Consejo tendrá las siguientes atribuciones:
-
-I. Presidir las sesiones del Consejo;
-
-II. Solicitar al Secretario Ejecutivo convoque a sesiones extraordinarias;
-
-III. Proponer el orden del día y someterlo a la consideración de los miembros del Consejo para su aprobación;
-
-IV. Proponer al Consejo el nombramiento de Secretario Ejecutivo;
-
-V. Vigilar el cumplimiento de los acuerdos del Consejo;
-
-VI. Solicitar al titular de la Secretaría publicar el Programa Estatal, conforme a lo previsto por esta ley y el reglamento de la Ley; y
-
-VII. Las demás que establezca el reglamento de la Ley.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 17.
 
-El Consejo sesionará de manera ordinaria cada tres meses, previa convocatoria por el Secretario Ejecutivo. El Presidente o el primer Vicepresidente podrán solicitar al Secretario Ejecutivo convocar a reunión extraordinaria, en los términos previstos por el reglamento interior.
-
-Para sesionar válidamente requiere la asistencia de la mitad más uno de sus integrantes y las resoluciones se tomarán por mayoría de votos.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 18.
 
-Para el mejor desarrollo de sus funciones, el Consejo contará con al menos las siguientes comisiones:
-
-I. Normatividad y derechos humanos;
-
-II. Accesibilidad y diseño universal;
-
-III. Educación, capacitación y difusión;
-
-IV. Salud;
-
-V. Desarrollo económico y empleo;
-
-VI. Deporte, cultura y turismo; e
-
-VII. Innovación, ciencia y tecnología.
-
-A cada Vicepresidente le corresponde coordinar por lo menos dos de estas comisiones que serán asignadas por acuerdo del Consejo, ante la cual deberán rendir informe en cada sesión ordinaria.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 19.
 
-El Secretario Ejecutivo será designado y removido libremente por el Consejo a propuesta de su Presidente.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 20.
 
-El Secretario Ejecutivo del Consejo, tiene las siguientes atribuciones:
-
-I. Fungir como órgano ejecutivo del Consejo;
-
-II. Ejecutar los acuerdos y las acciones del Consejo;
-
-III. Formular el Plan Institucional, los programas operativos anuales y los demás instrumentos de planeación y programación del Organismo y proponerlos al Consejo;
-
-IV. Formular el proyecto de Presupuesto de Egresos del Organismo, junto con su plantilla de personal y el clasificador por objeto del gasto y proponerlos al Consejo;
-
-V. Levantar las actas circunstanciadas de las sesiones y someterlas para la aprobación del Consejo y llevar el archivo documental de actas de asambleas y convocatorias;
-
-VI. Asistir a las sesiones del Consejo;
-
-VII. Elaborar el anteproyecto de presupuesto de ingresos y egresos anual del Consejo y someterlo a su consideración;
-
-VIII. Elaborar la propuesta de reglamento interno o sus modificaciones para ser sometidos a la aprobación del Consejo, el cual deberá contener la regulación necesaria para el cumplimiento de las facultades, atribuciones, integración y funcionamiento del Consejo y del Secretario Ejecutivo;
-
-IX. Presentar anualmente al Consejo, dentro de los dos primeros meses del año siguiente, los estados financieros y el informe de actividades del ejercicio anterior;
-
-X. Someter a la decisión del Consejo:
-
-a) La propuesta de Programa Estatal, que además contenga la adopción y ejecución de políticas públicas, medidas de nivelación, de inclusión y acciones afirmativas necesarias para alcanzar el objeto de esta Ley por las autoridades, y las acciones especificas que vinculen al Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad;
-
-b) Todos los asuntos que sean de exclusiva competencia de éste;
-
-c) Los proyectos y planes de trabajo;
-
-d) El nombramiento y remoción del personal, de conformidad a las plazas y remuneraciones aprobadas;
-
-e) Los informes de trabajo;
-
-f) Los acuerdos y convenios suscritos con organizaciones, universidades, instituciones públicas del orden federal, estatal y municipal, instituciones privadas, organismos nacionales e internacionales, para el logro de los objetivos del Consejo;
-
-g) Propuestas de protocolos y normas técnicas, y medidas para la difusión de las Normas Oficiales Mexicanas, para la atención de personas con discapacidad, en centros de salud y de rehabilitación;
-
-h) Propuestas de recomendación y acciones específicas para el cumplimiento del objeto de esta Ley; y
-
-i) Acciones específicas para la difusión de la cultura de la discapacidad;
-
-XI. Presentar en las reuniones ordinarias del Consejo un informe sobre el seguimiento y evaluación del cumplimiento y ejecución de las políticas públicas en particular y, en general, del Programa Estatal;
-
-XII. Promover la participación de instituciones públicas, sociales y privadas para alcanzar los objetivos del Consejo;
-
-XIII. Difundir la cultura de la discapacidad, a través de la organización de foros, conferencias y otros eventos de naturaleza pública y académica;
-
-XIV. Realizar gestiones ante instituciones públicas y privadas para la canalización y atención adecuada de personas con discapacidad, gestiones de las que rendirá cuenta al Consejo;
-
-XV. Coordinarse con la Unidad de Valoración y apoyarla en el cumplimiento de sus funciones;
-
-XVI. Presentar quejas, denuncias y querellas ante las autoridades administrativas, ministeriales y jurisdiccionales competentes, por los asuntos de los que tenga conocimiento que sean privativos de los derechos de las personas con discapacidad;
-
-XVII. Aplicar las sanciones previstas en esta Ley; y
-
-XVIII. Las demás que le sean asignadas por el Consejo, el reglamento de la Ley y otras disposiciones legales aplicables.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 21.
 
-Para ser Secretario Ejecutivo del Consejo se requiere:
-
-I. Ser mexicano en pleno goce de sus derechos y con reconocida solvencia moral; y
-
-II. Poseer título profesional y contar con experiencia en materia administrativa y con reconocido trabajo en programas de atención a personas con discapacidad.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 22.
 
-Para el desarrollo de sus funciones y programas, el Gobierno del Estado destinará, a través de la Secretaría, las partidas presupuestales, instalaciones y la plantilla de personal.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -625,9 +389,13 @@ Para el desarrollo de sus funciones y programas, el Gobierno del Estado destinar
 
 La Unidad de Valoración es un órgano técnico dependiente de la Secretaría de Salud que tiene por objeto la valoración de las personas para certificar la existencia de la discapacidad, su naturaleza, su grado y temporalidad, así como las posibilidades y requerimientos para la plena inclusión de la persona con discapacidad en el ámbito social, educativo, ocupacional, deportivo y laboral, en los términos de la Ley General, la presente Ley y su Reglamento.
 
-Para la emisión de los certificados a que se refiere el párrafo anterior, la Unidad de Valoración se coordinará con la Secretaría de Salud, COEDIS y del DIF Estatal.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-La Unidad de Valoración contará con el personal que autorice el presupuesto de egresos correspondiente, y con el apoyo de las Dependencias y Entidades Públicas que forman parte del Consejo.
+Para la emisión de los certificados a que se refiere el párrafo anterior, la Unidad de Valoración se coordinará con la Secretaría de Salud, la Secretaría de Igualdad Sustantiva y el DIF Estatal.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+La Unidad de Valoración contará con el personal que autorice el presupuesto de egresos correspondiente, y con el apoyo de la Secretaría.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -667,7 +435,9 @@ La evaluación de las personas con discapacidad se basará en criterios y lineam
 
 Corresponde a la Secretaría de Salud:
 
-I. Diseñar, Desarrollar y evaluar en coordinación con el Consejo, programas de prevención de discapacidades congénitas y de la primera infancia, y de orientación en materia de planificación familiar, genética, atención prenatal, perinatal, detección y diagnóstico precoz, asistencia pediátrica, higiene y seguridad en el hogar y en el trabajo;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+I. Diseñar, desarrollar y evaluar, en coordinación con la Secretaría, programas de prevención de discapacidades congénitas y de la primera infancia, y de orientación en materia de planificación familiar, genética, atención prenatal, perinatal, detección y diagnóstico precoz, asistencia pediátrica, higiene y seguridad en el hogar y en el trabajo;
 
 II. Vigilar y garantizar que las personas con discapacidad no sean discriminadas y se les trate con equidad en el acceso a todos sus programas y servicios;
 
@@ -711,17 +481,21 @@ XI. Garantizar un procedimiento objetivo e imparcial por profesionales de la sal
 
 XII. Garantizar que en los servicios de salud pública y privada se cuente con apoyos estenográficos e intérprete de lengua de señas mexicana, para la adecuada atención de personas con discapacidad auditiva;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-XIII. Establecer conjuntamente con el Consejo, programas de capacitación para familias y terceras personas, para la adecuada atención, rehabilitación y tratamiento, en su caso, de las personas con discapacidad;
+XIII. Establecer, conjuntamente con la Secretaría, programas de capacitación para familias y terceras personas, para la adecuada atención, rehabilitación y tratamiento, en su caso, de las personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
 XIV. Coordinar acciones con las autoridades de los tres órdenes de gobierno y, en su caso, expedir protocolos, para la atención, adecuada, recuperación y rehabilitación básica de personas migrantes mutiladas durante su tránsito por Jalisco;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XVI.]</small>
 
-XV. Realizar campañas sociales permanentes para la detección temprana de la sordera en los menores; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XV. Las demás previstas en esta Ley y la legislación estatal.
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN XV.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2017)</small>
 
@@ -779,9 +553,9 @@ IX. Diseñar e implementar programas de formación y certificación de intérpre
 
 X. Garantizar que las niñas y los niños con discapacidad gocen del derecho a la admisión gratuita y obligatoria, libre de toda condición, así como a la atención especializada en los centros de desarrollo infantil, guarderías públicas y en guarderías privadas mediante convenios de servicios;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-XI. Promover, en colaboración con el Consejo, que en el Sistema Estatal de Bibliotecas, salas de lectura y servicios de información públicos y privados, se incluyan equipos y apoyos técnicos con tecnología adaptada, escritura e impresión en el sistema de escritura braille, ampliadores y lectores de texto, espacios adecuados y estenografía proyectada, que garanticen su accesibilidad a las personas con discapacidad;
+XI. Promover, en colaboración con la Secretaría, que en el Sistema Estatal de Bibliotecas, salas de lectura y servicios de información públicos y privados, se incluyan equipos y apoyos técnicos con tecnología adaptada, escritura e impresión en el sistema de escritura braílle, ampliadores y lectores de texto, espacios adecuados y estenografía proyectada, que garanticen su accesibilidad a las personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2017)</small>
 
@@ -829,7 +603,9 @@ V. Vigilar que los medios de compra o prepago o boletos del servicio colectivo d
 
 VI. Establecer las medidas para la instalación de señalamientos visuales y auditivos en los cruceros de las principales calles y avenidas que garanticen el cruce sin riesgo de las personas con discapacidad;
 
-VII. Coordinarse con el Consejo para determinar los criterios técnicos y mecanismos para el otorgamiento de los distintivos oficiales que acrediten a los vehículos de las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+VII. Determinar, en coordinación con la Secretaría, los criterios técnicos y mecanismos para el otorgamiento de los distintivos oficiales que acrediten a los vehículos de las personas con discapacidad; y
 
 VIII. Las demás previstas por esta Ley y la legislación estatal aplicable.
 
@@ -843,7 +619,9 @@ Corresponde a la Secretaría de Infraestructura y Obra Pública vigilar que en t
 
 Artículo 29 bis.- La Secretaría de Medio Ambiente y Desarrollo Territorial tiene las siguientes atribuciones:
 
-I. Participar en el diseño, aprobación, ejecución, vigilancia y evaluación de los programas regionales y municipales de desarrollo urbano, vigilando que se cumplan los criterios que dicte el Consejo y los establecidos por esta ley;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+I. Participar en el diseño, aprobación, ejecución, vigilancia y evaluación de los programas regionales y municipales de desarrollo urbano, vigilando que se cumplan los criterios que dicte la Secretaría y los establecidos por esta ley;
 
 II. Diseñar y ejecutar los planes y programas de desarrollo urbano del Estado, con perspectiva inclusiva de las personas con discapacidad;
 
@@ -897,13 +675,13 @@ IV. Apoyar, asesorar y capacitar a los Sistemas DIF Municipales para que estable
 
 V. Procurar que en la operación de sus programas asistenciales dirigidos a personas en condición de vulnerabilidad, se consideren apoyos institucionales y atención a personas con discapacidad, especialmente a aquellas que carecen de recursos;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-VI. Llevará registro y expedirá la identificación a personas con discapacidad que la soliciten, en los términos y temporalidad de la regulación que al efecto se expida; dicha identificación tendrá validez en todo el territorio del Estado, remitiendo periódicamente al Consejo listado de las personas acreditadas;
+VI. Llevar el registro y expedir la identificación a personas con discapacidad que la soliciten, en los términos y temporalidad de la regulación que al efecto se expida; dicha identificación tendrá validez en todo el territorio del Estado, remitiendo periódicamente a la Secretaría listado de las personas acreditadas;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-VII. Conocer de quejas, en coordinación con los DIF municipales y el Consejo, por presuntos actos de maltrato, abuso, violencia e incompetencia en la tutoría y atención hacia las personas con discapacidad;
+VII. Conocer de quejas, en coordinación con los DIF municipales y la Secretaría, por presuntos actos de maltrato, abuso, violencia e incompetencia en la tutoría y atención hacia las personas con discapacidad;
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -925,9 +703,13 @@ Corresponde al Instituto Jalisciense de Asistencia Social:
 
 I. Promover la creación y apoyar las actividades de las organizaciones dedicadas al apoyo, atención e inclusión de personas con discapacidad;
 
-II. Facilitar al Consejo el registro actualizado de organizaciones que se dedican al apoyo, atención e inclusión de personas con discapacidad, para la integración del Consejo;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-III. Establecer, en coordinación con el Consejo, programas de atención y apoyo, dirigidos a personas con discapacidad; y
+II. Facilitar a la Secretaría el registro actualizado de organizaciones que se dedican al apoyo, atención e inclusión de personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+III. Establecer, en coordinación con la Secretaría, programas de atención y apoyo, dirigidos a personas con discapacidad; y
 
 IV. La asistencia y protección en albergues para la atención a personas con discapacidad en situación de calle o abandono.
 
@@ -949,7 +731,9 @@ VI. Realizar visitas a instituciones que tengan bajo su cuidado y vigilancia, o 
 
 VII. Denunciar ante las autoridades correspondientes los actos que sean violatorios de derechos humanos, en los términos de la legislación; y
 
-VIII. Fungir como entidad de seguimiento independiente de la Convención, para lo cual deberá realizar un informe especial anual que contenga metas e indicadores; deberá coordinarse y coadyuvar desde el ámbito de su competencia con la Comisión Nacional de los Derechos Humanos. Presentará cada año el informe especial por escrito ante el Consejo, y remitirá copia a los titulares de los Poderes Legislativo, Ejecutivo y Judicial.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+VIII. Fungir como entidad de seguimiento Independiente de la Convención, para lo cual deberá realizar un informe especial anual que contenga metas e indicadores; deberá coordinarse y coadyuvar desde el ámbito de su competencia con la Comisión Nacional de los Derechos Humanos. Presentará cada año el informe especial por escrito ante la Secretaría, y remitirá copia a los titulares de los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -957,7 +741,9 @@ VIII. Fungir como entidad de seguimiento independiente de la Convención, para l
 
 El CODE promoverá el derecho de las personas con discapacidad al deporte, para lo cual deberá:
 
-I. Establecer, en coordinación con el Consejo y la Comisión Nacional de Cultura Física y Deporte, los programas de apoyo para la práctica organizada de actividades físicas, deportivas y recreativas de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+I. Establecer, en coordinación con la Secretaría y la Comisión Nacional de Cultura Física y Deporte, los programas de apoyo para la práctica organizada de actividades físicas, deportivas y recreativas de las personas con discapacidad;
 
 II. Apoyar la participación en competencias de los deportistas y equipos de personas con discapacidad, conforme al Programa Nacional de Deporte Paralímpico;
 
@@ -1039,13 +825,17 @@ XII. Las demás previstas en esta Ley.
 
 Se considera que una persona tiene discapacidad severa o es dependiente, cuando de manera permanente, sus condiciones físicas o mentales no le permitan realizar sus funciones básicas de sobrevivencia sin la ayuda y asistencia de personas y asistencia médica.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 37.
 
-El Consejo deberá establecer programas que garanticen a las personas con discapacidad severa o dependientes, de escasos recursos su atención médica integral.
+La Secretaría deberá establecer programas que garanticen a las personas con discapacidad severa o dependientes, de escasos recursos, su atención médica integral.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 38.
 
-La atención de las personas con discapacidad severa deberá involucrar a sus familiares, por lo que el Consejo coordinará las acciones para brindarles asesoría y capacitación en su adecuado manejo y atención y de ser necesario otorgará apoyos económicos para traslados y estancia a las personas de escasos recursos.
+La atención de las personas con discapacidad severa deberá involucrar a sus familiares, por lo que la Secretaría coordinará las acciones para brindarles asesoría y capacitación en su adecuado manejo y atención y de ser necesario otorgará apoyos económicos para traslados y estancia a las personas de escasos recursos.
 
 ### Capítulo II. Tipos de discapacidad
 
@@ -1083,7 +873,7 @@ IV. De la accesibilidad, movilidad y eliminación de barreras físicas y de comu
 
 ###### Artículo 42.
 
-La rehabilitación médico-funcional estará dirigida a dotar de las condiciones precisas para su recuperación a aquellas personas que presenten discapacidad física, mental, intelectual y sensorial calificada y cuando se detecte cualquier anomalía o deficiencia deberá íniciar de manera inmediata hasta conseguir el máximo de funcionalidad posible, así como su mantenimiento.
+La rehabilitación médico-funcional estará dirigida a dotar de las condiciones precisas para su recuperación a aquellas personas que presenten discapacidad física, mental, intelectual y sensorial calificada y cuando se detecte cualquier anomalía o deficiencia deberá iniciar de manera inmediata hasta conseguir el máximo de funcionalidad posible, así como su mantenimiento.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1117,11 +907,11 @@ Las autoridades velarán para que la cobertura de habilitación y rehabilitació
 
 La Secretaría podrá otorgar apoyos sociales a las personas con discapacidad de escasos recursos, para el traslado desde comunidades alejadas al lugar donde recibirá rehabilitación y habilitación médica, así como para su estancia, conforme a la capacidad presupuestal y las reglas de operación que al efecto se establezcan.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 48.
 
-Todos los servidores públicos y prestadores de servicios que colaboren en dependencias públicas, estatales y municipales, organizaciones, servicios de salud y educativos, ya sean de carácter público, social o privado, especialmente los que brinden servicios a personas con discapacidad, deberán informar al DIF Estatal o al Consejo cuando se detecte o sospeche de maltrato, abuso, violencia e incompetencia en la tutoría y atención hacia las personas con discapacidad, a fin de que dé cumplimiento a las funciones de ley.
+Todos los servidores públicos y prestadores de servicios que colaboren en dependencias públicas, estatales y municipales, organizaciones, servicios de salud y educativos, ya sean de carácter público, social o privado, especialmente los que brinden servicios a personas con discapacidad, deberán informar al DIF Estatal o a la Secretaría cuando se detecte o sospeche de maltrato, abuso, violencia e incompetencia en la tutoría y atención hacia las personas con discapacidad, a fin de que dé cumplimiento a las funciones de ley.
 
 ###### Artículo 49.
 
@@ -1141,17 +931,17 @@ El apoyo y orientación psicológica para las personas con discapacidad comprend
 
 La Secretaría de Educación vigilará que las personas con discapacidad se integren de manera inclusiva y en condiciones de igualdad y equidad, a la educación regular en escuelas públicas y privadas en los niveles básicos y en la educación inicial.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 52.
 
-El Consejo, conjuntamente con la Secretaría de Educación, DIF Estatal y DIF Municipales, y los municipios, promoverán que a los alumnos con discapacidad se les apoye con materiales educativos, ayudas técnicas y becas para mejorar el rendimiento académico y su plena inclusión al sistema educativo.
+La Secretaría, conjuntamente con la Secretaría de Educación, DIF Estatal, DIF Municipales y los municipios, promoverán que a los alumnos con discapacidad se les apoye con materiales educativos, ayudas técnicas y becas para mejorar el rendimiento académico y su plena inclusión al sistema educativo.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 53.
 
-El Consejo, conjuntamente con la Secretaría de Educación, DIF Estatal y DIF Municipales, y los municipios, promoverán que se establezcan centros y programas de educación especial, dirigidas a los alumnos que por sus condiciones de discapacidad no puedan incluirse a los programas de educación regular. Asimismo, promoverán programas para la asistencia y cuidado en instancias infantiles con personal capacitado para la atención a personas menores de edad con discapacidad.
+La Secretaría, conjuntamente con la Secretaría de Educación, DIF Estatal, DIF Municipales y los municipios, promoverán que se establezcan centros y programas de educación especial, dirigidas a los alumnos que por sus condiciones de discapacidad no puedan incluirse a los programas de educación regular. Asimismo, promoverán programas para la asistencia y cuidado en instancias infantiles con personal capacitado para la atención a personas menores de edad con discapacidad.
 
 ###### Artículo 54.
 
@@ -1165,11 +955,11 @@ III. El desarrollo máximo de las potencialidades y aptitudes de la persona con 
 
 IV. Proporcionarle herramientas y conocimientos para facilitar a las personas con discapacidad su incorporación al mercado de trabajo.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 55.
 
-El Consejo, las secretarías de Cultura y Educación, DIF Estatal, DIF Municipales y los municipios deberán fomentar programas para la inclusión en la práctica y el desarrollo de las aptitudes y habilidades artísticas y culturales de las personas con discapacidad, como elemento necesario del proceso de desarrollo de potencialidades y de rehabilitación.
+Las Secretarías de Cultura, Educación e igualdad Sustantiva, el DIF Estatal, los DIF Municipales y los municipios deberán fomentar programas para la inclusión en la práctica y el desarrollo de las aptitudes y habilidades artísticas y culturales de las personas con discapacidad, como elemento necesario del proceso de desarrollo de potencialidades y de rehabilitación.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1217,11 +1007,11 @@ Los procesos de rehabilitación buscarán otorgar el máximo de funcionalidad pa
 
 La Secretaría de Trabajo y Previsión Social otorgará a personas con discapacidad programas de capacitación para el empleo, así como el apoyo y asesoría para la autogestión económica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 62.
 
-La Secretaría de Trabajo y Previsión Social, conjuntamente con el Consejo y los municipios, promoverá la inclusión laboral de personas con discapacidad, en el ámbito público.
+La Secretaría de Trabajo y Previsión Social, conjuntamente con la Secretaría y los municipios, promoverá la inclusión laboral de personas con discapacidad, en el ámbito público.
 
 Además, impulsarán su incorporación laboral a través de convenios con los sectores empresariales, instituciones de gobierno, organismos sociales, universidades, sindicatos y empleadores, para lo cual establecerán bolsas de trabajo y becas temporales de capacitación y promoverán el otorgamiento de estímulos económicos, fiscales y reconocimientos públicos a las empresas, instituciones y empleadores que cuenten con programas de incorporación laboral de personas con discapacidad.
 
@@ -1524,3 +1314,25 @@ P.O. 27 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26412/LXI/17 QUE REFORMA LOS ARTÍCULOS 4, 6, 12, 26, 27, 51 Y SE ADICIONA EL ARTÍCULO 5 TER A LA LEY PARA LA INCLUSIÓN Y EL DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y SE REFORMAN LOS ARTÍCULOS 27 Y 58 DE LA LEY DE EDUCACIÓN".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27210/LXII/18 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; Y EXTINGUE EL ORGANISMO PÚBLICO DESCONCENTRADO DENOMINADO CONSEJO ESTATAL PARA LA ATENCIÓN E INCLUSIÓN DE PERSONAS CON DISCAPACIDAD".]
+
+PRIMERO. El presente decreto entrará en vigor el 6 de diciembre de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las funciones del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad serán asumidas por la Secretaría de Igualdad Sustantiva.
+
+Los asuntos en trámite iniciados ante el Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad que se extingue, serán resueltos por la Secretaría de Igualdad Sustantiva.
+
+El Poder Ejecutivo, a través de las Secretarías de Igualdad Sustantiva, de Administración y de la Hacienda Pública, según corresponda, llevarán a cabo las acciones jurídicas, administrativas, financieras y operativas necesarias para que los servicios y funciones del Consejo que se extingue se sigan prestando en forma ininterrumpida.
+
+TERCERO. La Secretaría de Administración, por conducto de la persona que designe, intervendrá en el proceso de entrega recepción del organismo público desconcentrado denominado Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad.
+
+CUARTO. Las relaciones laborales que tenga el Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad con su personal de base, pasarán a formar parte de la Secretaría de Igualdad Sustantiva.
+
+QUINTO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público desconcentrado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidas por la Secretaría de Igualdad Sustantiva.
+
+SEXTO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente decreto.
+
+SÉPTIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
