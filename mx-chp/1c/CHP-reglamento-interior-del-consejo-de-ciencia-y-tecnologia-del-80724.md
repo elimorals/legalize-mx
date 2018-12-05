@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-de-ciencia-y-tecnologia-del-807
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-16"
-last_updated: "2014-02-12"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2014.
+REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE CHIAPAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 16 de marzo de 2011.
 
@@ -610,3 +612,23 @@ Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Direc
 Artículo Sexto.- El COCyTECH deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
 
 Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Acuerdo en el Periódico Oficial.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 3328-A-2018 REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Consejo de Ciencia y Tecnología del Estado de Chiapas, publicado en el Periódico Oficial número 287, Tomo III, de fecha 16 de marzo de 2011, mediante publicación número 2871-A-2011.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones de similar o menor jerarquía y las que se opongan al presente Reglamento Interior.
+
+Artículo Cuarto.- En los casos no previstos en el presente Reglamento y en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización del Consejo de Ciencia y Tecnología del Estado de Chiapas, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la entrada en vigor del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación del presente Reglamento Interior.
+
+Artículo Séptimo.- El Consejo de Ciencia y Tecnología del Estado de Chiapas deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del programa que establezca la Unidad de Protección Civil, en términos de la Ley de Protección Civil del Estado de Chiapas y demás disposiciones legales aplicables.
+
+Artículo Octavo.- Conforme a lo dispuesto por los artículos 1, 2 y 13 fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Reglamento Interior en el Periódico Oficial.
