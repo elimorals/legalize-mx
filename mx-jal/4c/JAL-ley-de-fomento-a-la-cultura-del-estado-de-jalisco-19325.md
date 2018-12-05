@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2018-09-25"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -139,6 +139,10 @@ IX. Creador: Autor, intérprete o ejecutante artístico; y
 
 X. Cultura: Entre otras cosas se entenderá como el conjunto de los rasgos distintivos, materiales, intelectuales y afectivos que caracterizan a una sociedad o un grupo social. Incluyen, además de las artes y las letras, los modos de vida, el lenguaje, la vestimenta, los valores, las tradiciones y las creencias, así como, cualquier manifestación de la creatividad humana, destinada a enriquecer la vida, el desarrollo social y la educación, bajo esquemas de identidad individual y sentido de pertenencia cultural.
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XI. Atlas Cultural: El registro sistemático de carácter público y georeferenciado de todos los bienes y recursos culturales, así como los sitios y en general todas aquellas zonas y áreas territoriales en las que estos se ubican dentro del Estado de Jalisco, presentado en forma digital;
+
 ## TITULO SEGUNDO. DE LAS COMPETENCIAS Y ATRIBUCIONES DE LAS AUTORIDADES
 
 ### Capítulo I. De las Autoridades
@@ -191,9 +195,9 @@ I. Ejecutar la política cultural del Estado;
 
 II. Elaborar, ejecutar y evaluar el Programa Estatal de Cultura, con la participación del Sistema y con el auxilio del Consejo;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-III. Planear las estrategias y realizar las acciones necesarias para promover, preservar, divulgar y fomentar las diversas manifestaciones culturales y artísticas del Estado, así como realizar las investigaciones pertinentes para un mejor conocimiento de aquellas;
+III. Planear las estrategias y realizar las acciones necesarias para promover, preservar, divulgar y fomentar las diversas manifestaciones culturales y artísticas del Estado, así como realizar las investigaciones pertinentes para un mejor conocimiento de aquellas, así como elaborar, publicar y mantener actualizado el Atlas Cultural del Estado de Jalisco.
 
 IV. Diseñar, operar y evaluar, en coordinación con la Secretaría de Educación Jalisco, los programas de educación artística e investigación estética; así como de promoción y fomento del libro y la lectura;
 
@@ -1136,3 +1140,9 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26932/LXI/18 QUE REFORMA EL ARTÍCULO 6° DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el 01 de enero de 2019, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27187/LXII/18 QUE REFORMA EL ARTÍCULO 3°, ADICIONA LA FRACCIÓN XI Y MODIFICA LA FRACCIÓN III DEL ARTÍCULO 6° DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
