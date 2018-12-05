@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2017-08-08"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -65,7 +65,9 @@ Son sujetos de la presente Ley:
 
 I. Las personas físicas y jurídicas que de manera individual o colectiva realicen principalmente actividades en el medio rural; y
 
-II. Los ejidos, comunidades y las organizaciones de productores del medio rural constituidas de conformidad con las leyes aplicables.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+II. Los ejidos, comunidades, indígenas, las uniones de ejidos y otras entidades reguladas por las leyes agrarias, organizaciones, asociaciones, figuras asociativas o agro empresas de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, que se constituyan o estén constituidas de conformidad con las leyes vigentes y realicen preponderantemente actividades en el medio rural.
 
 ###### Artículo 7.
 
@@ -585,9 +587,13 @@ Los convenios que se celebren entre el Estado y los Municipios establecerán, en
 
 I. La programación de las actividades que especifique las responsabilidades operativas y presupuestales en el cumplimiento de los objetivos y metas del programa sectorial y en el que deban aplicarse recursos públicos;
 
-II. El compromiso conjunto de hacer del conocimiento público los programas derivados de estos convenios, así como la aplicación, distribución y entrega de los recursos de los beneficiarios;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-III. La participación de las acciones de gobierno del municipio correspondiente, en los programas de atención prioritaria a las regiones de mayor rezago económico y social, así como de las de reconvención productiva;
+II. La obligación conjunta de hacer del conocimiento público, cuando menos cuatro semanas antes del inicio de la entrega de proyectos, los programas derivados de estos convenios; y otorgar cuando menos quince días de plazo para la entrega de los documentos correspondientes, se excluye de los plazos antes señalados los casos que se trate de ejecución de programas de carácter urgente o que por su naturaleza perentoria y justificada se establezcan otros plazos así como de transparentar la aplicación, distribución y entrega de los recursos de los beneficiarios;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+III. La capacitación al personal de los gobiernos municipales, para que funjan como tramitadores ante el personal estatal y federal que se asigne a los Distritos de Desarrollo Rural, en la instrumentación de programas y canalización de recursos que fomenten la capitalización de las actividades agropecuarias, industriales y de servicios del medio rural;
 
 IV. El ámbito territorial de aplicación del convenio como base geográfica para la cobertura territorial de atención de los productores del sector rural, así como para la operación y seguimiento de los programas productivos y de los servicios especializados definidos en la presente Ley, sin detrimento de lo que acuerden en otros instrumentos jurídicos;
 
@@ -743,11 +749,15 @@ El Gobierno del Estado promoverá coordinadamente con la Federación, los munici
 
 Las organizaciones productivas, los productores agropecuarios y otros agentes que participen en los procesos de producción, transformación, comercialización y almacenamiento, podrán hacer aportaciones mediante capital o con trabajo, infraestructura, insumos o uso de recursos naturales para detonar y coadyuvar a la capitalización de sus actividades agropecuarias y demás actividades económicas del medio rural.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 58.
 
-El Gobierno del Estado, atendiendo las necesidades del desarrollo rural, con sujeción a la disposición de recursos presupuestarios que autorice el Congreso del Estado, instrumentará programas y canalizará recursos que fomenten la capitalización de las actividades agropecuarias, industriales y de servicios del medio rural y participará en las que defina y establezca el Gobierno Federal, basándose en las leyes, convenios y disposiciones normativas relacionadas.
+El Gobierno del Estado, atendiendo las necesidades del desarrollo rural, con sujeción a la disposición de recursos presupuestarios que autorice el Congreso del Estado, instrumentará programas, proyectos estratégicos de carácter regional y canalizará recursos que fomenten la capitalización de las actividades agropecuarias, industriales y de servicios del medio rural y participará en las que defina y establezca el Gobierno Federal, basándose en las leyes, convenios y disposiciones normativas relacionadas.
 
-Se promoverá que los recursos se suministren oportunamente y se destinen para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+Se promoverá que los recursos se suministren oportunamente, procurando atención prioritaria a las regiones de mayor marginación, rezago económico y social y se destinen para:
 
 I. Fomentar procesos para elevar la productividad de los factores de producción, rentabilidad, conservación y manejo sustentable de los recursos de las actividades y el entorno rural;
 
@@ -759,15 +769,21 @@ IV. Invertir en la restauración, mejoramiento y conservación de los recursos n
 
 V. Apoyar la realización de inversiones en obras o tareas que sean necesarias, para lograr el incremento de la productividad del sector rural y los servicios ambientales.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+En la instrumentación de estos programas y canalización de recursos, se establecerá como mínimo; la obligación de hacerlos del conocimiento público cuando menos cuatro semanas antes del inicio de la entrega de proyectos; otorgar cuando menos quince días de plazo para la entrega de documentos, se excluye de los plazos antes señalados los casos que se trate de ejecución de programas de carácter urgente o que por su naturaleza perentoria y justificada se establezcan otros plazos, y transparentar en cada municipio la aplicación, distribución y entrega de los recursos de los beneficiarios.
+
 ###### Artículo 59.
 
 El Gobierno del Estado podrá participar en los programas, acciones, apoyos e inversiones para todo tipo de proyectos orientados a la capitalización que promueva y establezca el Gobierno Federal, conforme a las disposiciones legales aplicables, convenios y acuerdos.
 
 En lo procedente hará previsiones presupuestarias de mediano plazo para inducir certidumbre a los productores y demás agentes de la sociedad rural en sus actividades y proyectos, las que estarán sujetas a la disposición y autorización de recursos por parte del Congreso del Estado para cada ejercicio fiscal.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 60.
 
-Corresponderá a la Comisión Intersecretarial y al Consejo Estatal proponer, dar seguimiento y evaluar los programas de apoyos a la capitalización para las actividades y servicios del medio rural, participando cada entidad según su competencia.
+Corresponderá a la Comisión Intersecretarial y al Consejo Estatal proponer, dar seguimiento y evaluar los programas de apoyos a la capitalización para las actividades y servicios del medio rural, participando cada entidad según su competencia. En caso de existir convenios entre el Estado y los Municipios para la ejecución de programas de apoyo, se requerirá por parte de los municipios involucrados dictamen de aplicación en la entrega y administración de los recursos presupuestales y materiales que se destinen a los beneficiarios de los programas de apoyo, con las características que disponga el reglamento.
 
 ### Capítulo III. De la infraestructura y equipamiento rural
 
@@ -1031,11 +1047,15 @@ III. Atender preferentemente a la demanda, considerando la inducción necesaria 
 
 IV. Facilitar la concurrencia de recursos federales, estatales y municipales y de los propios beneficiarios, a fin de asegurar la corresponsabilidad entre el Gobierno y la sociedad y multiplicar el efecto del gasto público;
 
-V. Difundir las reglas para su acceso y la publicación de los montos y tipo de apoyo por beneficiario;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+V. Difundir las reglas para su acceso y la publicación de los montos y tipo de apoyo por beneficiario, en las que cuando menos se establecerán los plazos y salvedades señalados en esta ley para la difusión y el periodo de entrega de proyectos;
 
 VI. Evaluar y realizar estudios de factibilidad en función de su impacto económico y social, su posible eficiencia en su administración y la pertinencia de las reglas para su otorgamiento; y
 
-VII. Establecer la responsabilidad de los productores y de las instituciones con respecto a la utilización de los apoyos, conforme al destino de los mismos y a las reglas para su otorgamiento.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+VII. Establecer la responsabilidad de los productores y de las instituciones con respecto a la utilización de los apoyos, conforme al destino y aplicación de los mismos y a las reglas para su otorgamiento, las cuales establecerán que se requerirá por parte de los gobiernos municipales en que se ubiquen los beneficiarios de apoyos, dictamen de evaluación en la entrega, aplicación y administración de los recursos presupuestales y materiales que se destinen, con las características que disponga el reglamento.
 
 ### Capítulo VII. De la administración de riesgos
 
@@ -1485,6 +1505,18 @@ P.O. 25 DE JULIO DE 2017.
 
 P.O. 8 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26415/LXI/17, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO, Y DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26415/LXI/17, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO, Y DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO”.]
 
-ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27186/LXII/18 QUE REFORMA LOS ARTÍCULOS 42 FRACCIONES II Y III, 58 PÁRRAFO PRIMERO Y SEGUNDO Y SE ADICIONA UN ÚLTIMO PÁRRAFO, 60 Y 94 FRACCIONES V Y VII, TODOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27189/LXII/18 QUE REFORMA EL ARTÍCULO 6° DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
