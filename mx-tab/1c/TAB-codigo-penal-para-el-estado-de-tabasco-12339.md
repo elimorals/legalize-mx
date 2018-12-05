@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2017-12-30"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -357,7 +357,9 @@ VII. Sustracción o retención de menores o incapaces, a que se refieren los art
 
 VIII. Ejercicio indebido del propio derecho, al que alude el artículo 282;
 
-IX. Delitos contra el patrimonio de las personas, previstos en el Título Décimo del Libro Segundo, excepto el abigeato, la extorsión, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+IX. Delitos contra el patrimonio de las personas, previstos en el Título Décimo del Libro Segundo, excepto el robo, el abigeato, la extorsión, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
@@ -5074,3 +5076,15 @@ III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sen
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 010 POR EL QUE “SE REFORMA EL ARTÍCULO 15 BIS, FRACCIÓN IX DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
