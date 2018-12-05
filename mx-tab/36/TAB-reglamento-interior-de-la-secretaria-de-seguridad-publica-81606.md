@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-seguridad-publica-81606
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-05"
-last_updated: "2013-03-30"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 5 de marzo de 2011.
 
@@ -1260,3 +1262,27 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones de igual rango o naturaleza que se opongan al presente Reglamento.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaria de Seguridad Pública del Estado de Tabasco, publicado en el suplemento "D" al Periódico Oficial del Estado Número 7147, de fecha 05 de marzo de 2011, y se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango jerárquico que se opongan al presente instrumento.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de determinada Unidad Administrativa o Policial, que se extingue o modifica por virtud del presente instrumento, serán continuados en su tramitación por las Unidades Administrativas o Policiales que correspondan, de acuerdo a las atribuciones y competencia para dicho caso, que con base a este Reglamento se han otorgado.
+
+En tanto se crea la Autoridad para la Supervisión de Libertad que se menciona en el artículo 26 de la Ley Nacional de Ejecución Penal, el seguimiento a la ejecución de las sanciones penales, medidas de seguridad y restrictivas impuestas por el Juez de Ejecución, se realizará por la Dirección General del Sistema Penitenciario Estatal, conforme a la normatividad aplicable.
+
+CUARTO. Para el mejor funcionamiento de las Unidades Administrativas y Policiales adscritas a la Secretaría, se deberán formular los respectivos manuales de organización y de procedimientos en un plazo no mayor a ciento ochenta días naturales.
+
+QUINTO. El Secretario deberá realizar los trámites administrativos necesarios ante las Dependencias competentes del Ejecutivo, para modificar la denominación de la Unidad de Medidas Cautelares y Ejecución de Sanciones Adulto (sic), en los términos que disponen los artículos 105, fracción VIII, y el Capítulo V, Sección Primera del Código Nacional de Procedimientos Penales.
+
+SEXTO. El Secretario en un plazo no mayor a ciento ochenta días naturales, deberá realizar los trámites administrativos necesarios ante las Dependencias correspondientes, para modificar la naturaleza jurídica de la Dirección Administrativa Especializada de Justicia para Adolescentes, de conformidad con lo dispuesto en el artículo 71 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+SÉPTIMO. Se abroga el Acuerdo que crea el Patronato para la Reincorporación Social en el Estado, publicado en el Suplemento al Periódico Oficial número 5240 de fecha 28 de noviembre de 1992.
+
+Los recursos humanos, financieros y materiales que estuviesen asignados al Patronato para la Reincorporación Social, pasarán a la Secretaría de Seguridad Pública y serán asignadas a la Unidad Encargada de los Servicios Post-penales, adscrita a la Dirección General de (sic) Sistema Penitenciario Estatal que al efecto se cree, en un término no mayor a treinta días hábiles contados a partir de la publicación de este Reglamento, conforme lo establece la Ley Nacional de Ejecución Penal.
+
+OCTAVO. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por el Secretario.
