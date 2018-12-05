@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-jalisciense-del-emprendedor-96234"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2016-05-17"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 27207/LXII/18 QUE ABROGA LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR Y EXTINGUE EL INSTITUTO JALISCIENSE DEL EMPRENDEDOR, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 27207/LXII/18, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -496,3 +496,33 @@ P.O. 17 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7 DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3 DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4 DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3 DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3 DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6 DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8 Y 11 FRACCIÓN II, INCISO C DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27207/LXII/18 QUE ABROGA LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR Y EXTINGUE EL INSTITUTO JALISCIENSE DEL EMPRENDEDOR”.]
+
+PRIMERO. El presente decreto entrará en vigor el día 6 de diciembre de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Las funciones del Instituto Jalisciense del Emprendedor (IJALDEM) serán asumidas por la Secretaría de Desarrollo Económico del Gobierno del Estado de Jalisco.
+
+Los asuntos en trámite ante el Instituto Jalisciense del Emprendedor (IJALDEM) que se extingue, pasarán a la Secretaría señalada en el párrafo anterior, de conformidad con el presente decreto y en los términos que establezca el Gobernador del Estado.
+
+El Poder Ejecutivo, a través de las Secretarías de Desarrollo Económico, Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptarán las medidas jurídicas, administrativas, financieras y operativas necesarias para que los servicios y funciones del organismo público descentralizado que se extingue, se presten en forma ininterrumpida.
+
+TERCERO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto Jalisciense del Emprendedor (IJALDEM), facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, o para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá en el proceso de entrega recepción respectivo y de inmediato, para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto Jalisciense del Emprendedor (IJALDEM).
+
+CUARTO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del organismo público descentralizado que subsistan después de concluido el procedimiento de liquidación, pasarán a las dependencias que en su caso determine el Gobernador del Estado.
+
+QUINTO. Las relaciones laborales que tenga el Instituto Jalisciense del Emprendedor (IJALDEM) con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la legislación aplicable.
+
+SEXTO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto Jalisciense del Emprendedor (IJALDEM).
+
+SÉPTIMO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidos por la Secretaría de Desarrollo Económico del Gobierno del Estado de Jalisco.
+
+OCTAVO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente Decreto.
+
+NOVENO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
+
+DÉCIMO. El Titular del Poder Ejecutivo por conducto de la Secretaria de Administración deberá rendir cuentas por escrito a esta Soberanía, respecto de los pasivos existentes y el procedimiento de liquidación del Instituto Jalisciense del Emprendedor (IJALDEM), una vez al año y hasta la total conclusión de los actos del proceso de liquidación.
