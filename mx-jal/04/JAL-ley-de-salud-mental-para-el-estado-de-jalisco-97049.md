@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-mental-para-el-estado-de-jalisco-97049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-04"
-last_updated: "2014-01-04"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 24809/LX/13, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 30 DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "EL ESTADO DE JALISCO".</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 4 de enero de 2014.
 
@@ -129,9 +129,15 @@ XIII. A recibir un trato digno y con respeto a sus derechos humanos, por parte d
 
 XIV. A que no se divulgue a terceros por alguno de los medios de comunicación existentes, la atención brindada por el personal de salud mental en las diversas instituciones que presten el servicio, cuando no medie su autorización expresa, salvo disposición contraria en esta y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 7.
 
-El profesional de salud mental tiene la obligación de estar debidamente acreditado para ejercer sus funciones, lo que incluye al menos, tener a la vista Título Profesional, Cédula Profesional y en su caso, certificados de especialización expedidos y registrados por las autoridades educativas y de profesiones competentes, con la finalidad de que el usuario y la autoridad corrobore que es un especialista en la materia de salud mental.
+Los profesionales de la salud mental que atiendan a las personas usuarias de los servicios de salud mental tendrán las siguientes obligaciones:
+
+I. Estar debidamente acreditado para ejercer sus funciones, lo que incluye al menos, tener a la vista título profesional, cédula profesional y, en su caso, certificados de especialización expedidos y registrados por las autoridades educativas y de profesiones competentes; y
+
+II. Proporcionar un servicio médico competente, con plena independencia profesional, moral y respeto por la dignidad humana.
 
 ### Capítulo II. Atribuciones de la Autoridad
 
@@ -141,17 +147,21 @@ Corresponden a la Secretaría, en el ámbito de su competencia, sin menoscabo de
 
 I. Elaborar el Programa de Salud Mental para el Estado de Jalisco, conforme a los lineamientos establecidos en la Ley General de Salud, las Normas Oficiales Mexicanas, en la Ley Estatal de Salud y el presente ordenamiento, fomentando la participación de los sectores social y privado;
 
-II. Implementar programas en materia de salud mental;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-III. Fijar los lineamientos de coordinación para que los municipios, en el ámbito de su competencia, intervengan en la promoción de la salud mental, e incentiven la participación social;
+II. Implementar programas en materia de salud mental, en conjunto con el Instituto Jalisciense de Salud Mental;
 
-IV. Suscribir convenios, acuerdos o cualquier instrumento jurídico de coordinación con los Municipios del Estado a efecto de mejorar la atención en materia de salud mental;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-V. Llevar a cabo los conveníos de coordinación necesarios con los Municipios del Estado y el Instituto, para que en cada uno de los municipios del Estado, se cuente, mínimamente con un Módulo Comunitario de Atención en Salud Mental;
+III. Fijar los lineamientos de coordinación para que los municipios, en el ámbito de su competencia, intervengan en la promoción de la salud mental e incentiven la participación social;
 
-VI. Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento y rehabilitación en prestación de los servicios de salud mental, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-VII. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+IV. Llevar a cabo los convenios de coordinación necesarios con los Municipios del Estado y el Instituto, para que en cada uno de los municipios del Estado, se cuente, mínimamente con un Módulo Comunitario de Atención en Salud Mental; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+V. las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
 ###### Artículo 9.
 
@@ -161,9 +171,13 @@ La Secretaría buscará dar prioridad a la niñez, adolescencia, juventud, mujer
 
 La Secretaría de Educación, fomentará y llevará a cabo acciones de coordinación con la Secretaría de Educación Pública Federal, para que en los centros escolares de educación inicial y básica en el sector público, se contemple lo siguiente:
 
-I. Contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolos canalizar a algún Módulo de Atención Mental o Centro Hospitalario, así como informar a sus padres o tutor y dar la orientación correspondiente;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-II. Aplicar programas relacionados con salud mental infantil para que sean incorporados en el plan de estudios correspondiente; y
+I. Contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar dentro de la plantilla docente, con el objetivo de detectar posibles trastornos mentales en menores de edad, para que de manera inmediata se dé aviso a sus padres o tutores y, en su caso, sean canalizados para su tratamiento a alguno de los Módulos de Atención Mental o a un Centro Hospitalario;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+II. Aplicar programas relacionados con salud mental de niñas, niños y adolescentes para que sean incorporados en el plan de estudios correspondiente; y
 
 III. Proporcionar material informativo básico en salud mental a los padres o tutores con la finalidad de identificar algún tipo de trastorno en el menor y aplicar las medidas preventivas en un primer momento.
 
@@ -173,13 +187,21 @@ La Secretaría de Educación, deberá coordinarse con las instituciones de educa
 
 Para la atención de la salud mental, la Secretaría, en coordinación con la Fiscalía de Reinserción Social de la Fiscalía General del Estado, implementará acciones en materia de salud mental, a través de las áreas competentes.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 12.
 
-En las Unidades Médicas de los Centros de Atención Integral Juvenil, se realizará una valoración psiquiátrica para la detección oportuna de alguna patología psiquiátrica, el tratamiento farmacológico o psicoterapéutico que el menor requiera, dando seguimiento en (sic) Centro de Atención Integral Juvenil.
+En las unidades médicas de los Centros de Atención Integral Juvenil se realizará una valoración psiquiátrica y psicológica para la detección oportuna de alguna patología, así como el tratamiento farmacológico o psicoterapéutico que el paciente requiera, y cuya atención y seguimiento será brindada por el Centro de Atención Integral Juvenil.
 
 ###### Artículo 13.
 
 Se implementarán programas para aprovechar los recursos disponibles en los reclusorios preventivos, como son el centro escolar y los diferentes talleres donde la persona usuaria de los servicios de salud mental se encuentre bajo custodia, con la finalidad de que pueda realizar actividades encaminadas a su rehabilitación.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 13 Bis.
+
+El internamiento de personas con padecimientos mentales se debe ajustar a principios éticos, sociales, científicos y legales; así como a criterios contemplados en la Ley General de Salud, la presente Ley, la Norma Oficial Mexicana para la Prestación de Servicios de Salud en Unidades de Atención Integral Hospitalaria Médico-Psiquiátrica y demás normatividad aplicable.
 
 ### Capítulo III. Instituto de Salud Mental
 
@@ -187,53 +209,29 @@ Se implementarán programas para aprovechar los recursos disponibles en los recl
 
 el Instituto Jalisciense de Salud Mental, es un órgano administrativo desconcentrado de la Secretaría de Salud Jalisco; presupuestalmente subordinado al Organismo Público Descentralizado Servicios de Salud Jalisco. Dicho Instituto tendrá las funciones que le sean otorgadas por la presente ley y las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 15.
 
-Al Instituto, le corresponde:
+Al Instituto jalisciense de Salud Mental le corresponde:
 
-I. Elaborar el Plan Estatal de Salud Mental;
+I. Elaborar, conforme a las políticas dictadas por la Secretaría de Salud, y dentro del marco de los sistemas nacional y estatal de salud, su programa anual de trabajo;
 
-II. Diseñar y evaluar políticas de prevención y atención integral en materia de promoción a la salud mental, educación para la salud mental, atención integral médico-psiquiátrica, rehabilitación integral y participación ciudadana, así como analizar y asesorar los planes y proyectos de las acciones para la atención de la salud mental;
+II. Diseñar y evaluar políticas de prevención y atención integral en materia de promoción y educación para la salud mental; atención integral médico-psiquiátrica, rehabilitación integral y participación ciudadana, así como analizar y asesorar los planes y proyectos de las acciones en la materia;
 
-III. La asignación de personal especializado en atención integral para cada uno de los trastornos que requieran atención prioritaria en base al presupuesto asignado;
+III. Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas como son terapias, pláticas y orientación en los Módulos de Atención en Salud Mental, Centros Hospitalarios, Centros de Salud y demás espacios para la atención de su problema.
 
-IV. Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas como son terapias, pláticas y orientación en los Módulos de Atención en Salud Mental, Centros Hospitalarios, Centros de Salud y demás espacios para la atención de su problema.
-
-V. Instalar, administrar y operar la línea telefónica de ayuda psicológica y de intervención en crisis y la página electrónica de Salud Mental, para brindar orientación y canalización, en su caso, las cuales deberán estar disponibles las 24 horas, los 365 días del año;
-
-VI. Diseñar y ejecutar de manera permanente en los medios de difusión masiva campañas educativas para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención, y modos de atención, en coordinación con las dependencias e instituciones competentes;
-
-VII. Dar a conocer las acciones que procuran una vida saludable a través de actividades educativas, recreativas y cívicas;
-
-VIII. Motivar a la comunidad a la realización de acciones y proyectos que benefician a la salud;
-
-IX. Apoyar, asesorar, llevar registro, así como vigilancia a Grupos de Autoayuda;
-
-X. Fortalecer las acciones comunitarias que aseguren los factores de protección;
-
-XI. Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo, y colaborar en el desarrollo de las mismas;
-
-XII. Participar en las acciones de atención a personas afectadas en situación de emergencia o desastre en el Estado;
-
-XIII. Instrumentar acciones de participación en redes sociales de Internet y en medios masivos de comunicación con la finalidad de proporcionar información precisa, objetiva y con base en criterios científicos, enfocada a la detección, la atención y la prevención de algún tipo de trastorno mental que induzca al suicidio;
-
-XIV. Detectar y manejar de manera oportuna conflictos en la convivencia en el núcleo familiar;
-
-XV. Informar acerca de las consecuencias del abandono, el maltrato y explotación de menores;
-
-XVI. Participar en la elaboración de planes en los que se informe a la comunidad sobre el desarrollo evolutivo y las posibles alteraciones en cada una de las etapas de desarrollo de las personas;
-
-XVII. Asesorar en la instalación, administración y operación de los Módulos Comunitarios de Atención en Salud Mental; y
-
-XVIII. Las demás que le otorgue la presente Ley y otras disposiciones legales aplicables.
+IV. Diseñar y ejecutar de manera permanente en los medios de difusión masiva y redes sociales, campañas de promoción y prevención para informar, motivar y orientar a la población sobre los elementos del concepto de salud mental, los estigmas y mitos imperantes, los diversos trastornos mentales existentes, los síntomas que se presentan, y las opciones de atención, en coordinación con las dependencias e instituciones competentes;
 
 ### Capítulo IV. Del Consejo Estatal de Salud Mental
 
+> <small>[N. DE E. DEL ANÁLISIS DEL DECRETO 27193/LXII/18 PUBLICADO EN EL PERIÓDICO OFICIAL EL 5 DE DICIEMBRE DE 2018, SE ADVIERTE QUE EL ANTERIOR PRIMER Y SEGUNDO PÁRRAFOS SE REFORMAN Y FUSIONAN PARA QUEDAR COMO EL ACTUAL PRIMER PÁRRAFO DEL ARTÍCULO 16.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 16.
 
-El Consejo Estatal de Salud Mental, es un órgano de consulta, coordinación y asesoría del Gobierno del Estado, que tiene por objeto planear y programar acciones, así como evaluar los servicios de salud mental que se brindan en el Estado de Jalisco.
-
-Tiene a su cargo la consulta, el análisis y la asesoría para el desarrollo de planes, programas, proyectos y acciones que en materia de salud mental aplique el Poder Ejecutivo y será integrado en forma permanente por:
+El Consejo Estatal de Salud Mental tiene a su cargo la consulta, el análisis y la asesoría para el desarrollo de planes programas, proyectos y acciones que en materia de salud mental aplique el Poder Ejecutivo y será integrado en forma permanente por:
 
 I. El Gobernador del Estado, quien será el Presidente Honorario;
 
@@ -241,41 +239,35 @@ II. El Secretario de Salud del Estado, quien fungirá como Presidente Ejecutivo;
 
 III. El Director del Instituto, quien fungirá como el Secretario Técnico; y
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 IV. Los siguientes participantes en calidad de Consejeros:
 
 a) El Fiscal General del Estado;
 
 b) El Secretario de Educación;
 
-c) Secretaría de Desarrollo e Integración Social;
+c) El Secretario de Desarrollo e Integración Social;
 
-d) Secretaría de Planeación, Administración y Finanzas:
+d) El Secretario de Planeación, Administración y Finanzas;
 
-e) El Presidente de la Comisión de Higiene y Salud Pública del Poder Legislativo;
+e) El Secretario del Trabajo y Previsión Social;
 
-f) Los rectores de las Universidades en el Estado que expidan título de médico psiquiatra;
+f) El Presidente de la Comisión de Higiene y Salud Pública del Poder Legislativo;
 
-g) El Delegado Estatal del Instituto Mexicano del Seguro Social;
+g) Los rectores de las Universidades en el Estado que expidan título de médico psiquiatra;
 
-h) El Delegado Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado;
+h) El Delegado Estatal del Instituto Mexicano del Seguro Social;
 
-i) El Director General del Organismo Público Descentralizado Hospital Civil de Guadalajara;
+i) El Delegado Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-j) El Presidente de la Asociación Médica de Jalisco A.C.; y
+j) El Director General del Organismo Público Descentralizado Hospital Civil de Guadalajara;
 
-k) El Presidente de la Asociación de Hospitales Particulares de Jalisco, A C.
+k) El Presidente de la Asociación Médica de Jalisco, A.C.; y
 
-Las personas titulares asistirán a las reuniones del Consejo, los cuales podrán nombrar a un suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al del titular.
+l) El Presidente de la Asociación de Hospitales Particulares de Jalisco, A. C.
 
-La Secretaría invitará a formar parte del Consejo a un representante de la Secretaría de Salud del Poder Ejecutivo Federal, de la Organización Panamericana de la Salud, de la Organización Mundial de la Salud y de Organizaciones Civiles que trabajen en el tema.
-
-Los integrantes del Consejo tendrán derecho a voz y voto.
-
-A las sesiones podrán asistir personas expertas invitadas en materia de salud de los sectores público, social y privado que el pleno del Consejo considere para emitir opiniones, aportar información, o apoyar acciones sobre el tema que se defina.
-
-Las facultades de los integrantes del Consejo, se establecerán en el Reglamento Interno que para tal efecto se expida.
-
-El Reglamento determinará los lineamientos de operación del Consejo.
+Los titulares deberán asistir a las reuniones del Consejo, los cuales podrán nombrar a un suplente, con facultad de toma de decisión.
 
 ###### Artículo 17.
 
@@ -348,3 +340,21 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 27193/LXII/18 QUE EXPIDE LA LEY DE SALUD, QUE REFORMA LA LEY DE SALUD MENTAL EN SUS ARTÍCULOS 7°, 8°, 10, 12, 15 Y 16; QUE ADICIONA EL ARTÍCULO 13 BIS, QUE ADICIONA EL ARTÍCULO 40 BIS DEL CÓDIGO CIVIL, QUE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 2° Y 39 BIS DE LA LEY DEL REGISTRO CIVIL; QUE REFORMA LOS ARTÍCULOS 1°, PRIMER Y SEXTO PÁRRAFOS; 2°, 3°, FRACCIÓN II, 7°, FRACCIÓN I, NUMERALES 2, 3 Y 10, FRACCIÓN V DE LA LEY DEL ORGANISMO PÚBLICO DESENTRALIZADO (SIC) “SERVICIOS DE SALUD JALISCO”; QUE ABROGA EL DIVERSO DECRETO 12678 Y LA LEY DE PREVENCIÓN Y COMBATE DE LA OBESIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Salud del Estado de Jalisco con numero de decreto 12678; así también se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Se abroga la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia; se derogan las disposiciones que se opongan al presente decreto.
+
+CUARTO. Dentro de los ciento veinte días a partir de la entrada en vigor de este decreto, se deberán realizar las adecuaciones reglamentarias correspondientes.
+
+QUINTO. En un plazo de doce meses el Sistema Único de Información en Salud del Estado de Jalisco deberá iniciar su funcionamiento, por lo que la Secretaría de Salud Jalisco emitirá los lineamientos para su establecimiento, así como para mantenerlo actualizado.
+
+SEXTO. El Consejo Estatal y sus consejeros seguirán en funciones y con las atribuciones contenidas en los artículos 7, 9 y 12 de la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia del Estado de Jalisco. El Ejecutivo del Estado deberá con noventa días, expedir la normativa que corresponda la permanencia y funcionamiento.
