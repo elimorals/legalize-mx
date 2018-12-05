@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-servicios-de-15860"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "2017-09-19"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -39,9 +39,11 @@ LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO
 
 ### CAPÍTULO I. Disposiciones Generales
 
-###### Art. 1º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-Servicios de Salud Jalisco, es un Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de Guadalajara, Jalisco, estará a cargo y bajo la dirección y coordinación del Secretario de Salud del Ejecutivo del Estado; podrá establecer conforme a las necesidades, los planteles médicos y centros de salud en las regiones o Municipios dentro del territorio de esta Entidad Federativa.
+###### Art. 1°.
+
+Servicios de Salud Jalisco, es un Organismo Público, con personalidad jurídica y patrimonio propios, con domicilio en el Área Metropolitana de Guadalajara, Jalisco; podrá establecer conforme a las necesidades, los planteles médicos y centros de salud en las regiones o municipios del estado.
 
 Para los efectos de la presente Ley, deberá entenderse por:
 
@@ -51,11 +53,15 @@ Reglamento: Reglamento de la Ley del Organismo "Servicios de Salud Jalisco".
 
 Acuerdo de Coordinación: Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud, entre los Ejecutivos Federal y el del Estado de Jalisco.
 
-Al Organismo se integran las instituciones de salud dependientes de la Secretaría de Salud del Ejecutivo Federal que se localizan en esta Entidad Federativa; el Hospital Psiquiátrico de Jalisco, conforme al Acuerdo de Coordinación; y las instituciones de salud que posteriormente se determine.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-###### Art. 2º.
+Al Organismo se integran las instituciones de salud dependientes de la Secretaría de Salud del Ejecutivo Federal que se localizan en el estado; el Hospital Psiquiátrico de Jalisco, conforme al Acuerdo de Coordinación; y las instituciones de salud que posteriormente se determina.
 
-El Organismo es considerado como paraestatal y forma parte de la Administración Pública del Estado, conforme al artículo 50 de la Ley Orgánica del Poder Ejecutivo de esta Entidad Federativa.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+###### Art. 2°.
+
+El Organismo es considerado como paraestatal y forma parte de la Administración Pública del Estado, conforme al artículo 50 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2015)</small>
 
@@ -69,7 +75,9 @@ El Organismo tendrá las siguientes atribuciones:
 
 I. Organizar y operar en el estado de Jalisco los servicios de salud dirigidos a la población en materia de salubridad general y local, debiendo observar lo que establece el acuerdo de coordinación, y apoyar en la organización del Sistema Estatal de Salud en los términos de las leyes general y estatal de Salud.
 
-II. Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes de esta Entidad Federativa.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+II. Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes del estado;
 
 III. Proponer y fortalecer la participación de la comunidad en los servicios de salud.
 
@@ -135,15 +143,21 @@ II. Dirección General.
 
 La Junta de Gobierno se integrará por los siguientes miembros propietarios con voz y voto:
 
-I. Un presidente que será el Titular del Poder Ejecutivo del Estado, o quien él designe.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+I. Un presidente que será el Titular del Poder Ejecutivo del Estado o a quien él designe.
 
 II. Del Ejecutivo del Gobierno del Estado, los titulares de las siguientes entidades:
 
 1. Secretaría General de Gobierno.
 
-2. Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-3. Secretaría de Administración.
+2. Secretaría de Finanzas, Planeación y Administración
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+3. Secretaría de Salud
 
 4. Coordinación General del Comité para la Planeación del Desarrollo del Estado.
 
@@ -205,9 +219,15 @@ La Junta de Gobierno celebrará sesiones ordinarias por lo menos una vez cada tr
 
 Para que haya quórum legal será necesaria la asistencia de más del 50% de sus miembros en primera convocatoria, y en segunda, con los que se presenten se podrá declarar abierta legalmente la sesión y sus acuerdos tendrán plena validez.
 
-###### Art. 10º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-Para garantizar la aplicación de las políticas del Gobierno del Estado en materia de Salud y prevenir la duplicidad de estructuras, el cargo de Director General lo ocupará invariablemente el Secretario de Salud del Gobierno del Estado de Jalisco y tendrá las siguientes funciones:
+###### Art. 10°.
+
+Para garantizar la aplicación de las políticas del Gobierno del Estado, el cargo de Director General lo ocupará la persona que al efecto proponga el Secretario de Salud, a fin de que sea nombrado por el Ejecutivo del Estado y a quién podrá remover libremente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+El Director General tendrá funciones de autoridad bajo la supervisión, vigilancia y control del Secretario de Salud y tendrá las siguientes atribuciones:
 
 I. Representar al Organismo en los asuntos que se deriven de las funciones del mismo.
 
@@ -219,7 +239,9 @@ III. Nombrar y remover a los servidores públicos del Organismo, así como exped
 
 IV. Nombrar y revocar apoderados para actos de administración, así como para pleitos y cobranzas conforme a las disposiciones vigentes aplicables.
 
-V. Proponer a la Junta de Gobierno las políticas general del Organismo.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+V. Proponer a la Junta de gobierno las políticas generales del Organismo;
 
 VI. Vigilar el cumplimiento del objeto del Organismo.
 
@@ -318,3 +340,19 @@ P.O. 19 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26425/LXI/17 QUE REFORMA EL ARTÍCULO 10, FRACCIÓN IV DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO “SERVICIOS DE SALUD JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27193/LXII/18 QUE EXPIDE LA LEY DE SALUD, QUE REFORMA LA LEY DE SALUD MENTAL EN SUS ARTÍCULOS 7°, 8°, 10, 12, 15 Y 16; QUE ADICIONA EL ARTÍCULO 13 BIS, QUE ADICIONA EL ARTÍCULO 40 BIS DEL CÓDIGO CIVIL, QUE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 2° Y 39 BIS DE LA LEY DEL REGISTRO CIVIL; QUE REFORMA LOS ARTÍCULOS 1°, PRIMER Y SEXTO PÁRRAFOS; 2°, 3°, FRACCIÓN II, 7°, FRACCIÓN I, NUMERALES 2, 3 Y 10, FRACCIÓN V DE LA LEY DEL ORGANISMO PÚBLICO DESENTRALIZADO (SIC) "SERVICIOS DE SALUD JALISCO"; QUE ABROGA EL DIVERSO DECRETO 12678 Y LA LEY DE PREVENCIÓN Y COMBATE DE LA OBESIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se abroga la Ley de Salud del Estado de Jalisco con numero de decreto 12678; así también se derogan las disposiciones que se opongan al presente.
+
+TERCERO.- Se abroga la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia; se derogan las disposiciones que se opongan al presente decreto.
+
+CUARTO.- Dentro de los ciento veinte días a partir de la entrada en vigor de este decreto, se deberán realizar las adecuaciones reglamentarias correspondientes.
+
+QUINTO.- En un plazo de doce meses el Sistema Único de Información en Salud del Estado de Jalisco deberá iniciar su funcionamiento, por lo que la Secretaría de Salud Jalisco emitirá los lineamientos para su establecimiento, así como para mantenerlo actualizado.
+
+SEXTO.- El Consejo Estatal y sus consejeros seguirán en funciones y con las atribuciones contenidas en los artículos 7, 9 y 12 de la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia del Estado de Jalisco. El Ejecutivo del Estado deberá (sic) con noventa días, expedir la normativa que corresponda la permanencia y funcionamiento.
