@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-proteccion-civil-para-8365
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-28"
-last_updated: "2011-09-28"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE PROTECCION CIVIL PARA EL MANEJO INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE PROTECCION CIVIL PARA EL MANEJO INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR PARA LA GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL INSTITUTO DE PROTECCIÓN CIVIL PARA EL MANEJO INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 28 de septiembre de 2011.
 
@@ -31,7 +33,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Ciudadanos Integrantes de la Junta de Gobierno, en ejercicio de las facultades que nos confieren, los artículos 24, de la Ley de Entidades Paraestatales del Estado de Chiapas, 15, fracción VI, del Decreto por el que se crea el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por los fundamentos y consideraciones antes expuestos los CC. Integrantes de la Junta de Gobierno, tienen a bien expedir el siguiente:
 
@@ -167,7 +171,7 @@ X. Informar al Ejecutivo del Estado y al Consejo Estatal de Protección Civil, s
 
 XI. Vigilar que la ejecución de los programas, fondos y fideicomisos preventivos, de auxilio y recuperación de desastres, se realicen de conformidad con la legislación aplicable.
 
-XII. Vigilar que las acciones competencia del Instituto, se realicen de conformidad con las normas, políticas y procedimientos establecidos de conformidad la (sic) legislación aplicable.
+XII. Vigilar que las acciones competencia del Instituto, se realicen de conformidad con las normas, políticas y procedimientos establecidos de conformidad (sic) la legislación aplicable.
 
 XIII. Representar al Instituto, en el Comité y Subcomité de Adquisiciones, Arrendamiento y Servicios de Bienes Muebles del mismo, en apego a las disposiciones legales aplicables.
 
@@ -531,7 +535,7 @@ El titular de la Dirección de Administración de Emergencias, tendrá las atrib
 
 I. Presentar al Director General, planes de contingencia y procedimientos sistemáticos operativos de reducción de riesgos con los sectores públicos, privados y sociales; acciones de evacuación, búsqueda, salvamento y rescate durante la fase de auxilio.
 
-II. Proponer y vigilar la aplicación del Subprograma de auxilio con la finalidad rescatar (sic), salvaguardar, la integridad física de las personas, sus bienes y medio ambiente del Estado.
+II. Proponer y vigilar la aplicación del Subprograma de auxilio con la finalidad (sic) rescatar, salvaguardar, la integridad física de las personas, sus bienes y medio ambiente del Estado.
 
 III. Presentar oportunamente los mecanismos de alertamiento en el Estado, que permita reducir los tiempos de respuesta en contingencias.
 
@@ -604,3 +608,27 @@ Artículo Sexto.- En cumplimiento al artículo 8°, de la Ley Orgánica de la Ad
 Dado en el Salón de Sesiones del Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, el veinticuatro de marzo del dos mil once.
 
 Integrantes de la Junta de Gobierno: Presidente: Comisario Gral. Rogelio Hernández de la Mata, Secretario de Seguridad y Protección Ciudadana.- Secretario Técnico: Edgar Gerardo Alcázar Cancino, Jefe de la Unidad de Apoyo Administrativo del Instituto de Protección Civil para la Manejo Integral de Riesgos de Desastres del Estado de Chiapas.- Vocales: Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Samuel Toledo Córdova Toledo, Secretario de Desarrollo y Participación Social.- James Gómez Montes, Secretario de Salud.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 3327-A-2018 REGLAMENTO INTERIOR DEL INSTITUTO PARA LA GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se Abroga el Reglamento Interior del Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas, publicado en el Periódico Oficial número 328, Tomo III, de fecha 28 de septiembre de 2011, mediante Publicación número 3082-A-2011.
+
+Artículo Tercero.- Se Derogan todas las disposiciones que tengan similar o menor jerarquía al presente Reglamento Interior, y se opongan al mismo.
+
+Artículo Cuarto.- En los casos en que se presente controversia en la aplicación del presente Reglamento Interior, el Director General, resolverá lo conducente.
+
+Artículo Quinto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos del Instituto, el Director General, resolverá lo conducente.
+
+Artículo Sexto.- El Manual de Organización del Instituto, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la entrada en vigor del presente Reglamento Interior.
+
+Artículo Séptimo.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación del presente Reglamento Interior.
+
+Artículo Octavo.- El Instituto deberá, establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia en términos de la Ley de Protección Civil del Estado de Chiapas y demás ordenamiento (sic) legales aplicables.
+
+Artículo Noveno.- Publíquese el presente Reglamento Interior en el Periódico Oficial, en cumplimiento a lo dispuesto por los artículos 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas, y 13 fracción V de la Ley Estatal del Periódico Oficial.
