@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-prevencion-y-combate-de-la-obesidad-sobrepeso-y-107554"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-25"
-last_updated: "2015-04-25"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE PREVENCION Y COMBATE DE LA OBESIDAD, SOBREPESO Y TRASTORNOS DE LA CONDUCTA ALIMENTICIA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 27193/LXII/18, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PREVENCIÓN Y COMBATE DE LA OBESIDAD, SOBREPESO Y TRASTORNOS DE LA CONDUCTA ALIMENTICIA DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR 30 DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -222,3 +222,21 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27193/LXII/18 QUE EXPIDE LA LEY DE SALUD, QUE REFORMA LA LEY DE SALUD MENTAL EN SUS ARTÍCULOS 7°, 8°, 10, 12, 15 Y 16; QUE ADICIONA EL ARTÍCULO 13 BIS, QUE ADICIONA EL ARTÍCULO 40 BIS DEL CÓDIGO CIVIL; QUE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 2° Y 39 BIS DE LA LEY DEL REGISTRO CIVIL; QUE REFORMA LOS ARTÍCULOS 1°, PRIMER Y SEXTO PÁRRAFOS; 2°, 3°, FRACCIÓN II, 7°, FRACCIÓN I, NUMERALES 2, 3 Y 10, FRACCIÓN V DE LA LEY DEL ORGANISMO PÚBLICO DESENTRALIZADO (SIC) “SERVICIOS DE SALUD JALISCO”; QUE ABROGA EL DIVERSO DECRETO 12678 Y LA LEY DE PREVENCIÓN Y COMBATE DE LA OBESIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Salud del Estado de Jalisco con numero de decreto 12678; así también se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Se abroga la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia; se derogan las disposiciones que se opongan al presente decreto.
+
+CUARTO. Dentro de los ciento veinte días a partir de la entrada en vigor de este decreto, se deberán realizar las adecuaciones reglamentarias correspondientes.
+
+QUINTO. En un plazo de doce meses el Sistema Único de Información en Salud del Estado de Jalisco deberá iniciar su funcionamiento, por lo que la Secretaría de Salud Jalisco emitirá los lineamientos para su establecimiento, así como para mantenerlo actualizado.
+
+SEXTO. El Consejo Estatal y sus consejeros seguirán en funciones y con las atribuciones contenidas en los artículos 7, 9 y 12 de la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia del Estado de Jalisco. El Ejecutivo del Estado deberá con noventa días, expedir la normativa que corresponda (sic) la permanencia y funcionamiento.
