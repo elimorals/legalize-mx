@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2017-07-26"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -855,6 +855,8 @@ IV. El arancel que corresponda a cada acto notarial; y
 
 V. Aquella que a juicio del Colegio de Notarios del Estado de Jalisco, sea de utilidad para el público y el mejor desempeño de la función notarial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 11.
 
 Información fundamental - Poder Judicial
@@ -867,13 +869,17 @@ II. El calendario anual de días hábiles para el Poder Judicial;
 
 III. Los nombramientos de magistrados, jueces y secretarios del Poder Judicial;
 
-IV. El orden del día de las sesiones de los Plenos de los tribunales, del Instituto de Justicia Alternativa y del Consejo de la Judicatura del Poder Judicial;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-V. Los acuerdos de asuntos no jurisdiccionales, aprobados por los plenos y las Salas de los Tribunales, el Instituto de Justicia Alternativa y del Consejo de la Judicatura del Poder Judicial;
+IV. El orden del día de las sesiones del Supremo Tribunal de Justicia, del Instituto de Justicia Alternativa y del Consejo de la Judicatura del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-VI. Las versiones estenográficas de las sesiones públicas y las actas de las sesiones de los plenos de los tribunales, del Instituto de Justicia Alternativa y del Consejo de la Judicatura del Poder Judicial;
+V. Los acuerdos de asuntos no jurisdiccionales, aprobados por el pleno y las Salas del Supremo Tribunal de Justicia, el Instituto de Justicia Alternativa y del Consejo de la Judicatura del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+VI. Las versiones estenográficas de las sesiones públicas y las actas de las sesiones del pleno del Supremo Tribunal de Justicia, del Instituto de Justicia Alternativa y del Consejo de la Judicatura del Poder Judicial;
 
 VII. Los libros de registro de los asuntos jurisdiccionales llevados ante los órganos judiciales;
 
@@ -883,23 +889,29 @@ IX. Los acuerdos de trámite llevados ante los órganos judiciales;
 
 X. Las sentencias definitivas y convenios del Instituto de Justicia Alternativa que hayan causado estado, de los asuntos jurisdiccionales llevados ante los órganos judiciales, de cuando menos los últimos diez años, protegiendo la información confidencial y reservada;
 
-XI. La jurisprudencia que emitan sus tribunales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XI. La jurisprudencia que emita el Supremo Tribunal de Justicia;
 
 XII. Los montos recibidos por concepto de fianzas y depósitos judiciales y el responsable del resguardo;
 
-XIII. Las estadísticas de los tribunales y juzgados, así como del Instituto de Justicia Alternativa, de cuando menos los últimos tres años, donde se señale cuando menos el número de asuntos ingresados y resueltos, así como los porcentajes de asuntos en trámite según las clasificaciones por tipo de asunto y las que determine el Poder Judicial;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-XIV. Los recursos materiales, humanos y financieros asignados a cada Tribunal, sala, juzgado, órgano y unidad administrativa no jurisdiccional;
+XIII. Las estadísticas del Supremo Tribunal de Justicia y juzgados, así como del Instituto de Justicia Alternativa, de cuando menos los últimos tres años, donde se señale cuando menos el número de asuntos ingresados y resueltos, así como los porcentajes de asuntos en trámite según las clasificaciones por tipo de asunto y las que determine el Poder Judicial;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XIV. Los recursos materiales, humanos y financieros asignados al Supremo Tribunal de Justicia, a cada sala, juzgado, órgano y unidad administrativa no jurisdiccional;
 
 XV. La lista de los servidores públicos del Poder Judicial que no hayan presentado su declaración de situación patrimonial, conforme a la ley;
 
 XVI. Los dictámenes técnicos sobre la actuación y desempeño de los magistrados del Poder Judicial;
 
-XVII. El Programa Anual de Investigación y Capacitación Electoral;
+XVII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-XVIII. El registro de investigadores adscritos al Instituto de Investigaciones y Capacitación Electoral;
+XVIII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-XIX. El informe anual de actividades del Instituto de Investigaciones y Capacitación Electoral;
+XIX. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
 XX. Las actas de las visitas de inspección a los juzgados del Poder Judicial;
 
@@ -917,13 +929,63 @@ XXIII. La lista de las personas acreditadas como auxiliares de la administració
 
 XXIV. La que establezca el Reglamento Interno de Información Pública del Poder Judicial del Estado.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 11
 
-Bis. Información fundamental- Tribunal Electoral del Estado de Jalisco.
+Bis. Información fundamental-Tribunal Electoral del Estado de Jalisco.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 1. Es información fundamental del Tribunal Electoral del Estado de Jalisco:
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+I. La obligatoria para todos los sujetos obligados;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+II. El orden del día de sus sesiones;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+III. Sus acuerdos emitidos;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. Las versiones estenográficas de sus sesiones públicas y las actas de sesiones;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. El calendario anual de días hábiles;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+VI. Las sentencias emitidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+VII. El Programa Anual de Investigación y Capacitación Electoral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+VIII. El registro de investigadores adscritos al Instituto de Investigaciones y Capacitación Electoral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+IX. El informe anual de actividades del Instituto de Investigaciones y Capacitación Electoral; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+X. La demás que acuerde su Pleno.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 11
+
+Ter. Información fundamental-Tribunal de Justicia Administrativa del Estado de Jalisco.
+
+1. Es información fundamental del Tribunal de Justica (sic) Administrativa del Estado (sic) Jalisco:
 
 I. La obligatoria para todos los sujetos obligados;
 
@@ -1295,7 +1357,7 @@ XVI. El registro de los consejos consultivos ciudadanos, con indicación de la f
 
 XVII. El registro de las asociaciones de vecinos en el municipio, con indicación de la fecha de creación, nombre de las mismas, delimitación territorial que representan y datos generales de los miembros de sus directivas, así como de las uniones o federaciones en que se agrupen;
 
-XVIII. El registró público de bienes del patrimonio municipal;
+XVIII. El registro público de bienes del patrimonio municipal;
 
 XIX. La relación del personal y los inventarios de bienes afectos a cada uno de los servicios públicos municipales, con excepción del servicio de seguridad pública y policía preventiva;
 
@@ -4436,3 +4498,9 @@ QUINTO. El Instituto de Transparencia, Información Pública y Protección de Da
 SEXTO. Los sujetos responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de la presente Ley, a más tardar un año después de la entrada en vigor de la presente reforma.
 
 SÉPTIMO. Los sujetos responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de este decreto.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27185/LXII/18 QUE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
