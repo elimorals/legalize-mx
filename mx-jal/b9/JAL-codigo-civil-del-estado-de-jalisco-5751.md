@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2018-11-17"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -322,6 +322,12 @@ IV. Los demás colaterales dentro del cuarto grado;
 V. En caso de concurrencia entre dos o más sujetos de los considerados en las fracciones anteriores y de existir conflicto para otorgar el consentimiento decidirá quien tenga prelación en su derecho, conforme al libro sexto del Código Civil. Si se trata de sujetos con el mismo derecho, se suspenderá el trámite de la donación de órganos, levantándose constancia para todos los fines legales correspondientes;
 
 VI. (DEROGADA, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+###### Art. 40 Bis.
+
+El documento de Directrices Anticipadas podrá elaborarse ante la Secretaría de Salud del Estado o ante notario público en los términos de la ley de Salud para el Estado de Jalisco.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2014)</small>
 
@@ -3577,23 +3583,13 @@ Para este caso, el juez escuchará, cuando sea posible, a quien otorgó inicialm
 
 (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
-
 ###### Art. 548.
 
-En el caso de la fracción I del artículo anterior, el juez decretará la revocación de la adopción si estima que es conveniente para los intereses morales y materiales del adoptado.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Art. 549.
 
-Para los efectos de la fracción II del artículo 547, se considera ingrato al adoptado:
-
-I. Si comete algún delito doloso contra la persona, la honra, bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II. Si el adoptado formula denuncia o querella contra el adoptante o los adoptantes, por algún delito, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge o la persona que viva con él, como si lo fuere, de sus ascendientes o sus descendientes o de un incapaz de que sea tutor el adoptado, aun cuando no haya parentesco entre ellos; y
-
-III. Si el adoptado rehusa dar alimentos al adoptante, cuando los necesite.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3954,6 +3950,10 @@ IV. Restringir las visitas y convivencia y autorizar otras formas de comunicaci�
 V. Suspender temporalmente los derechos de visita y convivencia; y
 
 VI. Las demás medidas de apremio y medidas de protección que establezca la legislación civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+En los casos en que se ordene la convivencia supervisada, asistida o la entrega recepción de niñas, niños o adolescentes, éstas se deberán realizar en donde la autoridad administrativa competente determine. Todo lugar destinado a esta convivencia, será sujeto de supervisión en los términos del artículo 25 de la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -6091,7 +6091,7 @@ No tiene derecho a los frutos naturales y civiles que produzca el bien que posee
 
 ###### Art. 864.
 
-La persona que haya adquirido la posesión por algún hecho delictuoso, está obligado a restituir todos los frutos que haya producido el bien y los que haya dejado de producir por omisión culpable.
+La persona que haya adquirido la posesión por algún hecho delictuoso, está obligado (sic) a restituir todos los frutos que haya producido el bien y los que haya dejado de producir por omisión culpable.
 
 Tiene también la obligación de responder de la pérdida o deterioro del bien sobrevenidos por su culpa, o en caso fortuito o fuerza mayor; a no ser que se pruebe que éstos se habrían causado aunque el bien hubiere estado poseído por su dueño. No responderá de la pérdida que sea sobrevenida natural e inevitablemente por el transcurso del tiempo.
 
@@ -19197,6 +19197,28 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 
 P.O. 17 DE NOVIEMBRE DE 2018.
 
-> <small>[N. DE E. TRANSITORO DEL "DECRETO NÚMERO 27057/LXI/18 QUE REFORMAN LOS ARTÍCULOS 404, 409, 410, 419 Y 420 Y DEROGA LOS ARTÍCULOS 405, 411, 413 Y 417 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]</small>
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 27057/LXI/18 QUE REFORMAN LOS ARTÍCULOS 404, 409, 410, 419 Y 420 Y DEROGA LOS ARTÍCULOS 405, 411, 413 Y 417 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27190/LXII/18 QUE DEROGA LOS ARTÍCULOS 548, 549 Y SE REFORMA EL ARTÍCULO 575 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27193/LXII/18 QUE EXPIDE LA LEY DE SALUD, QUE REFORMA LA LEY DE SALUD MENTAL EN SUS ARTÍCULOS 7°, 8°, 10, 12, 15 Y 16; QUE ADICIONA EL ARTÍCULO 13 BIS, QUE ADICIONA EL ARTÍCULO 40 BIS DEL CÓDIGO CIVIL; QUE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 2° Y 39 BIS DE LA LEY DEL REGISTRO CIVIL; QUE REFORMA LOS ARTÍCULOS 1°, PRIMER Y SEXTO PÁRRAFOS; 2°, 3°, FRACCIÓN II, 7°, FRACCIÓN I, NUMERALES 2, 3 Y 10, FRACCIÓN V DE LA LEY DEL ORGANISMO PÚBLICO DESENTRALIZADO (SIC) “SERVICIOS DE SALUD JALISCO”; QUE ABROGA EL DIVERSO DECRETO 12678 Y LA LEY DE PREVENCIÓN Y COMBATE DE LA OBESIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Salud del Estado de Jalisco con numero de decreto 12678; así también se derogan las disposiciones que se opongan al presente.
+
+TERCERO. Se abroga la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia; se derogan las disposiciones que se opongan al presente decreto.
+
+CUARTO. Dentro de los ciento veinte días a partir de la entrada en vigor de este decreto, se deberán realizar las adecuaciones reglamentarias correspondientes.
+
+QUINTO. En un plazo de doce meses el Sistema Único de Información en Salud del Estado de Jalisco deberá iniciar su funcionamiento, por lo que la Secretaría de Salud Jalisco emitirá los lineamientos para su establecimiento, así como para mantenerlo actualizado.
+
+SEXTO. El Consejo Estatal y sus consejeros seguirán en funciones y con las atribuciones contenidas en los artículos 7, 9 y 12 de la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia del Estado de Jalisco. El Ejecutivo del Estado deberá con noventa días, expedir la normativa que corresponda (sic) la permanencia y funcionamiento.
