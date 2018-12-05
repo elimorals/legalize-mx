@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2018-11-17"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -73,7 +73,9 @@ II. Los ayuntamientos dentro de su respectiva competencia y jurisdicción, así 
 
 III. Los organismos de la sociedad civil, cualquiera que sea su forma o denominación, los ciudadanos y los sectores privado y social, mediante la celebración de convenios o acuerdos de colaboración entre sí y con las instancias federales, estatales y municipales para lograr los objetivos de esta ley, y
 
-IV. El Instituto Jalisciense del Adulto mayor.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+IV. La Secretaría del Sistema de Asistencia Social.
 
 ###### Artículo 4.
 
@@ -87,11 +89,11 @@ III. Autoridades: las dependencias y entidades que forman parte de la administra
 
 IV. Familia del adulto mayor: aquel vínculo o relación interpersonal cuya sujeción está basada en los lazos consanguíneos o filiales que se hayan generado entre sí, durante el transcurso del tiempo;
 
-V. Instituto: el Instituto Jalisciense del Adulto mayor;
+V. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-VI. Junta de Gobierno: la Junta de Gobierno del Instituto Jalisciense del Adulto mayor;
+VI. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-VII. Presidente: la persona que preside la Junta de Gobierno;
+VII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
 VIII. Gerontología: es el estudio integral del envejecimiento y de la vejez, sus causas, efectos y consecuencia en el ser humano;
 
@@ -103,9 +105,9 @@ XI. Ley: la Ley para el Desarrollo Integral del Adulto mayor;
 
 XII. Procuraduría: Procuraduría Social a la que se refiere el artículo 54 de la Constitución Política del Estado de Jalisco;
 
-XIII. Director General: la persona física sobre la que recae la titularidad del Instituto Jalisciense del Adulto mayor, sin distinción de género;
+XIII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-XIV. Secretario Técnico: la persona física, sin distinción de género, sobre la que recae la titularidad de la Secretaría Técnica de la Junta de Gobierno;
+XIV. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
 XV. Geriatría: especialidad médica dedicada al estudio, prevención, diagnóstico, tratamiento y rehabilitación de las enfermedades propias de las personas adultas mayores;
 
@@ -705,7 +707,7 @@ II. Garantizar una defensa legal adecuada en los juicios y procedimientos en que
 
 ###### Artículo 33.
 
-Corresponde al Instituto Jalisciense de Asistencia Social procurar que los adultos mayores sean sujetos de programas de asistencia social en caso de desempleo, discapacidad, abandono o pérdida de sus medios de subsistencia.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
@@ -761,381 +763,103 @@ III. Elaborar programas especiales para que los adultos mayores puedan formar el
 
 ### CAPÍTULO I. DEL INSTITUTO JALISCIENSE DEL ADULTO MAYOR
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
-
 ###### Artículo 37.
 
-Para el debido cumplimiento de esta ley se crea el Instituto Jalisciense del Adulto Mayor, el cual está constituido como un organismo público descentralizado que depende de la Secretaría de Desarrollo e Integración Social, con personalidad jurídica y patrimonio propios.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2018)</small>
-
-El Ejecutivo del Estado, a través del Instituto, será el responsable de la política estatal a favor de las personas adultas mayores, teniendo por objeto general coordinar, promover, apoyar, fomentar, vigilar y evaluar las acciones públicas, estrategias y programas que se deriven de ella, de conformidad con los principios, objetivos y disposiciones contenidas en la presente ley.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 38.
 
-El Instituto tendrá por objeto:
-
-I. Promover coordinadamente con las dependencias, organismos y entidades públicas y privadas, en el ámbito de su competencia, las acciones destinadas a mejorar el nivel de vida de los adultos mayores;
-
-II. Elaborar planes y programas relacionados con el desarrollo integral del adulto mayor en nuestro estado;
-
-III. Definir e instrumentar una política estatal a favor del adulto mayor, que permita su incorporación al desarrollo del estado;
-
-IV. Fomentar la voluntad política para establecer, modificar, desarrollar o hacer cumplir la base jurídica que garantice los derechos, obligaciones y valores de los adultos mayores, fundada en la dignidad humana;
-
-V. Promover y dar seguimiento a las políticas públicas con las entidades de la administración estatal y municipal, en el ámbito de sus competencias, las acciones destinadas a asegurar la igualdad de oportunidades, la no discriminación y a mejorar el nivel de vida de los adultos mayores, así como sus expectativas sociales, culturales, políticas y económicas;
-
-VI. Proponer al Ejecutivo una política de coordinación permanente entre las dependencias y entidades de la administración pública estatal y municipal, así como coordinarse con los sectores social y privado para la promoción de los derechos de los adultos mayores;
-
-VII. Promover e impulsar en los adultos mayores el acceso al empleo y al comercio e informar sobre las condiciones de trabajo apropiadas para sus condiciones particulares;
-
-VIII. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades públicas estatales y municipales, así como de los sectores social y privado, en materia de oportunidades hacía el adulto mayor, cuando así lo requieran;
-
-IX. Fomentar la práctica de las actividades que propicien la superación física, intelectual, cultural, profesional y económica del adulto mayor;
-
-X. Diseñar e implementar medidas de capacitación e información destinadas a los adultos mayores, con la finalidad de lograr su desarrollo pleno en las responsabilidades familiares;
-
-XI. Realizar la investigación y llevar a cabo la incorporación necesaria para el diseño y evaluación de las políticas públicas que lleven a la integración plena de los adultos mayores en la vida política, económica, cultural y laboral del estado;
-
-XII. Asesorar al Ejecutivo del Estado, a través de sus dependencias y entidades, en la formulación y programación de las políticas públicas y acciones relacionadas con el desarrollo de los adultos mayores, así como asesorar a los sectores privado y social;
-
-XIII. Fomentar una cultura de respeto y reconocimiento al trabajo y experiencia de los adultos mayores;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
-
-XIV. Realizar estudios, investigaciones, generar estadísticas y difundir todo tipo de datos que permitan conocer el estado que guardan los adultos mayores con relación a sus derechos, la no discriminación, las oportunidades que se les brindan, con el fin de generar una conciencia favorable hacia los adultos mayores y su revaloración, y de contribuir al mejor diseño y planeación de los programas de atención a los adultos mayores;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
-
-XV. Diseñar y promover ante el sistema estatal de salud programas y acciones que den acceso a los adultos mayores a servicios integrales de atención a la salud en condiciones de calidad y prevención, tomando en cuenta las características particulares de su ciclo de vida, su condición social y ubicación geográfica, garantizando la cobertura y la calidad de la asistencia médica a todos los adultos mayores radicados en el Estado de Jalisco;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
-
-XVI. Proponer la celebración de convenios de colaboración con los organismos públicos descentralizados del Gobierno del Estado y estados de la República, para los efectos de que se exente del pago de cualquiera de los servicios que presten a los adultos mayores de sesenta años;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
-
-XVII. Promover en instituciones públicas y privadas la integración y el desarrollo de programas docentes, de investigación y extensión en geriatría y gerontología;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
-
-XVIII. Impulsar la creación de estancias diurnas, casas de retiro y demás establecimientos de asistencia y atención médica, rehabilitación, esparcimiento y recreación;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
-
-XIX. Fomentar y asesorar la construcción de espacios libres de barreras arquitectónicas y con facilidad de acceso para adultos mayores;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
-
-XX. Proporcionar orientación y apoyo técnico a los Ayuntamientos en materia de planes y programas relacionados con el envejecimiento;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
-
-XXI. Realizar acciones de prevención que induzcan a la sociedad a conocer y tomar las medidas pertinentes para acceder a un envejecimiento sano y activo;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
-
-XXII. Promover, a través de convenios, el otorgamiento de beneficios, prestaciones, descuentos, condonaciones y exenciones en el pago de tarifas por bienes y servicios públicos y privados;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
-
-XXIII. Promover el otorgamiento de premios y reconocimientos a los adultos mayores que se destaquen por su labor, trayectoria y aportaciones; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2016)</small>
-
-XXIV. Difundir los contenidos, programas y servicios establecidos en la presente ley y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 39.
 
-El Instituto se integra por:
-
-I. La Junta de Gobierno;
-
-II. El Director General;
-
-III. El Tesorero, y
-
-IV. Las direcciones administrativas y desconcentradas, con la estructura orgánica que establezca el reglamento de la presente ley.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
 ###### Artículo 40.
 
-La Junta de Gobierno actuará como cuerpo colegiado y estará integrada por:
-
-I. Un Presidente, que será el titular del Poder Ejecutivo o la persona a quien éste designe;
-
-II. Un Secretario Técnico, que será el Director General del Instituto;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE NOVIEMBRE DE 2018)</small>
-
-III. Diecisiete vocalías, que serán integradas por los titulares de las siguientes dependencias:
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-a) Secretaría de Desarrollo e Integración Social;
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-b) Secretaría de Planeación, Administración y Finanzas;
-
-c) (DEROGADO, P.O. 8 DE ABRIL DE 2014)
-
-d) Secretaría de Educación;
-
-e) Secretaría de Salud;
-
-f) Secretaría del Trabajo y Previsión Social;
-
-g) Secretaría de Desarrollo Rural;
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-h) Secretaría de Desarrollo Económico;
-
-i) Secretaría de Turismo;
-
-j) Secretaría de Cultura;
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-k) Fiscalía General del Estado;
-
-l) Procuraduría Social;
-
-m) Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
-
-n) Hospital Civil de Guadalajara;
-
-ñ) Instituto Jalisciense de Asistencia Social;
-
-o) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud (CODE);
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
-
-p) Instituto Jalisciense de la Vivienda; y
-
-q) Comisión Estatal de Derechos Humanos de Jalisco;
-
-IV. Siete vocalías, que serán electas mediante convocatoria emitida por la Junta de Gobierno, de entre los representantes de los organismos de la sociedad civil que tengan relación con el objeto del Instituto y que se encuentren debidamente constituidos en escritura pública previamente registrada ante la autoridad que corresponda, con dos años de anticipación a su integración;
-
-V. Dos vocalías ciudadanas integradas por personas mayores de sesenta años, con reconocimiento académico, profesional o de asistencia social a favor de los adultos mayores, mediante convocatoria emitida por la Junta a la sociedad civil, electos uno de ellos por las dependencias referidas en la fracción III de este artículo y el segundo de ellos por los organismos de la sociedad civil referidos en la fracción IV de este mismo artículo;
-
-VI. Los invitados permanentes, quienes tendrán derecho a voz pero sin voto y que se mencionan a continuación:
-
-a) Dos representantes del Poder Judicial del Estado;
-
-b) Dos integrantes del Poder Legislativo del Estado;
-
-Los cargos de los miembros de la Junta de Gobierno serán honoríficos.
-
-La convocatoria y la elección a que se refieren las fracciones IV y V de este artículo se realizarán por la Junta de Gobierno en los términos de su reglamento.
-
-Por cada uno de los vocales descritos en este artículo, el titular deberá nombrar a un suplente, quien lo representará ante la Junta de Gobierno en su ausencia con las mismas atribuciones.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 41.
 
-La Junta tendrá las siguientes facultades:
-
-I. Diseñar y evaluar anualmente los programas, planes, políticas generales y prioridades a las que deberá sujetarse el Instituto, relativos a la productividad, servicios, investigación y administración en general, sometiéndolos a consideración de la Junta;
-
-II. Establecer las prioridades de acciones a las que deberá sujetarse el Instituto;
-
-III. Acordar anualmente el presupuesto, los informes y el estado financiero del Instituto, así como sus modificaciones, en los términos de la legislación aplicable, y remitirlos al Ejecutivo del Estado;
-
-IV. Aprobar el reglamento interior del Instituto y los manuales de organización general que correspondan;
-
-V. Crear comisiones de apoyo y grupos especiales de trabajo temporales para la realización de programas específicos;
-
-VI. Aprobar los convenios, contratos y acuerdos que hayan de celebrarse con dependencias y entidades públicas y privadas;
-
-VII. Expedir la convocatoria para la integración de los vocales representantes de los organismos de la sociedad civil y de las asociaciones u organismos ciudadanos;
-
-VIII. Otorgar un reconocimiento anual a las empresas, institutos políticos y organismos de la sociedad civil que se destaquen por emprender acciones a favor de los adultos mayores, con las bases, modalidades y términos que se fijen en el reglamento respectivo;
-
-IX. Analizar y, en su caso, aprobar los informes periódicos que rinda el Presidente de la Junta, y
-
-X. Las demás que le atribuyan en los términos de la presente ley y otros ordenamientos legales.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 42.
 
-Los miembros de la Junta contarán con derecho a voz y voto en las sesiones de la misma.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 43.
 
-Los titulares de las dependencias podrán nombrar y revocar en cualquier momento mediante escrito a su suplente al interior de la Junta.
-
-Los organismos de la sociedad civil también podrán nombrar y revocar en cualquier momento a su representante y suplente respectivo mediante escrito durante el periodo para el que fueron electos. Dicho periodo deberá ser renovado cada cuatro años, previa convocatoria emitida por la Junta de Gobierno de conformidad con lo establecido por el párrafo penúltimo del artículo 40 de la presente ley.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 44.
 
-La Junta sesionará en forma ordinaria, por lo menos una vez cada tres meses, pudiendo celebrar sesiones extraordinarias cuando para ello sea convocada. En ambos casos, para la validez de las sesiones se requerirá que la convocatoria haya sido suscrita por el Presidente o, cuando menos, por una tercera parte de sus integrantes, debiendo citar para las sesiones ordinarias por lo menos con tres días de anticipación y un día para las extraordinarias y que hubiesen asistido la mitad más uno de sus miembros. En caso de no contar con el quórum señalado en el párrafo anterior, la segunda convocatoria se citará dentro de los siguientes tres días hábiles, quedando debidamente citados los vocales que hayan asistido y citando por escrito a los ausentes, notificando de la falta de estos a sus superiores jerárquicos para que resuelvan lo conducente.
-
-La sesión citada en segunda convocatoria, será válida con los miembros que asistan.
-
-Para los efectos de esta ley, las notificaciones referidas deberán realizarse en días hábiles.
-
-Los acuerdos se tomarán por mayoría de votos en caso de empate, el Presidente de la Junta contará con voto de calidad.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 45.
 
-El Presidente tendrá las siguientes atribuciones:
-
-I. Convocar, presidir y conducir las sesiones de la Junta tanto ordinarias como extraordinarias;
-
-II. Preparar el calendario de sesiones ordinarias de la Junta y someterlo a la aprobación de los integrantes en la primera sesión que lleve a cabo la Junta;
-
-III. Solicitar mediante oficios a las dependencias contempladas en el artículo 40, fracción III, de esta ley, para los efectos de que nombren a sus suplentes;
-
-IV. Solicitar a los organismos de la sociedad civil contemplados en el artículo 40, fracción IV, para que nombren a sus representantes y respectivos suplentes;
-
-V. Invitar a los representantes de los poderes indicados en la fracción VI del artículo 40 de esta ley, y
-
-VI. Las demás que le otorguen otras disposiciones legales aplicables y las que le asigne la Junta.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 46.
 
-El Secretario Técnico tiene las siguientes atribuciones:
-
-I. Dar cumplimiento a los acuerdos de la Junta;
-
-II. Formular las actas correspondientes de las sesiones de la Junta;
-
-III. Expedir los documentos que le autorice la Junta;
-
-IV. Recabar información y elementos estadísticos sobre las funciones para mejorar su desempeño;
-
-V. Atender y dar trámite a las comunicaciones oficiales, así como los escritos de los particulares dirigidos a la Junta;
-
-VI. Auxiliar al Presidente en la elaboración del informe anual de actividades, así como del presupuesto de egresos;
-
-VII. El resguardo y custodia del archivo de la Junta, y
-
-VIII. Todas aquellas que le encomienden esta ley y otros ordenamientos legales.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO III. DEL DIRECTOR
 
 ###### Artículo 47.
 
-El Director General del Instituto será nombrado y removido libremente por el titular del Poder Ejecutivo, en los términos del artículo 49 de esta ley.
-
-El Director durará en su encargo cuatro años, pudiendo solamente ser nombrado para un periodo igual.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 48.
 
-El Director General tendrá las siguientes atribuciones:
-
-I. Representar legalmente al Instituto;
-
-II. Proponer ante la Junta a las personas quienes fungirán como directores administrativos, quienes serán electos mediante el voto favorable de la mitad más uno de los integrantes de la Junta.
-
-III. Administrar el patrimonio del Instituto con los criterios que dicte la Junta;
-
-IV. Ejecutar, instrumentar y vigilar el cumplimiento de los acuerdos de la Junta;
-
-V. Presentar a consideración y, en su caso, aprobación de la Junta la organización general del instituto;
-
-VI. Formular los programas institucionales de corto, mediano y largo plazos;
-
-VII. Formular anualmente el anteproyecto de presupuesto del Instituto, para someterlo a la aprobación de la Junta;
-
-VIII. Elaborar el informe anual sobre el desempeño de las funciones del Instituto y someterlo a aprobación de la Junta;
-
-IX. Recabar información y elementos estadísticos sobre las funciones del Instituto, para mejorar su desempeño;
-
-X. Las demás que le otorguen otras disposiciones jurídicas aplicables y las que le asigne la Junta.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 49.
 
-Quien aspire a ser Director General del Instituto requiere:
-
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos, preferentemente mayor de sesenta años al día de su elección o reelección;
-
-II. Ser originario del estado o avecindado en él, cuando menos cuatro años anteriores al día de su nombramiento;
-
-III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, se inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-IV. No haber sido servidor público de primer nivel en la administración pública estatal o municipal, ni de órganos desconcentrados o descentralizados de las anteriores; Magistrado del Supremo Tribunal de Justicia del Estado, del Tribunal de lo Administrativo, del Tribunal de Arbitraje y Escalafón, o integrante del Consejo General del Poder Judicial del Estado durante los cuatro años anteriores a su nombramiento;
-
-V. No haber sido dirigente de ningún partido político, cuando menos cuatro años inmediatos anteriores al día de su nombramiento;
-
-VI. No haber tenido cargo de elección popular, cuando menos tres años inmediatos anteriores al día de su designación;
-
-VII. Acreditar destacada participación en actividades deportivas, académicas, artísticas, sociales o de trabajo comunitario, entre otras, y
-
-VIII. Tener título profesional expedido por la autoridad competente y registrado ante la Dirección de Profesiones del Estado, con una antigüedad de cuando menos cinco años al día de su nombramiento.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO IV. TESORERO
 
 ###### Artículo 50.
 
-El Instituto contará con un Tesorero, quien será el encargado de las finanzas del mismo, designado por la Junta de Gobierno a propuesta del Director General.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 51.
 
-El Tesorero debe reunir los siguientes requisitos:
-
-I. Ser ciudadano mexicano, por nacimiento, en pleno ejercicio de sus derechos, y mayor de veinticinco años;
-
-II. Ser persona de reconocida solvencia moral y tener un modo honesto de vivir;
-
-III. Contar con título profesional preferentemente en las áreas económico-administrativas y acreditar experiencia o conocimientos en la materia;
-
-IV. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de algún miembro de la Junta de Gobierno o del Director del Instituto, y
-
-V. Las demás que señalen esta ley y su reglamento.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 52.
 
-El funcionario encargado de las finanzas del Instituto es responsable ante la Junta de Gobierno y el Director del manejo de todos los valores a su cuidado.
-
-Las cuentas bancarias del Instituto serán mancomunadas, debiendo firmar colegiadamente el Director junto con el Tesorero toda transacción que implique egreso.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 53.
 
-Compete al funcionario encargado de las finanzas del Instituto:
-
-I. Verificar por sí mismo o por medio de sus subalternos la prontitud en el despacho de los asuntos de su competencia y del buen orden y debida comprobación de las cuentas de ingresos y de egresos;
-
-II. Enviar, a través del Director del Instituto, a la Auditoría Superior del Estado de Jalisco las cuentas detalladas de los movimientos de fondos y notificar por escrito al Congreso del Estado que se ha cumplido con esta disposición, en los términos de la Ley de Fiscalización Superior y Auditoría Pública del Estado de Jalisco y sus Municipios;
-
-III. Aplicar los gastos de acuerdo con el presupuesto de egresos aprobado, y exigir que los comprobantes respectivos estén firmados por el Director del Instituto o por el servidor público al que le haya sido delegada esta facultad de conformidad con el reglamento respectivo o por mandato de la Junta de Gobierno, y
-
-IV. Las demás que señalen esta ley y su reglamento.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO V. DEL PATRIMONIO DEL INSTITUTO
 
 ###### Artículo 54.
 
-El patrimonio del Instituto se integra por:
-
-I. Los recursos que se le asignen en el Presupuesto de Egresos del Estado;
-
-II. Los derechos y bienes muebles e inmuebles que le sean asignados por el sector público, los que le sean transmitidos por el sector privado y las aportaciones que se adquieran por cualquier título legal;
-
-III. Los subsidios, donaciones y legados que reciba de los sectores público, social y privado, los cuales de ninguna manera podrán implicar condiciones contrarias a su objeto, conforme lo establece esta ley;
-
-IV. Las aportaciones y demás ingresos que transfieran a su favor los gobiernos federal, estatal y municipal, y
-
-V. Los fondos obtenidos para el financiamiento de los programas específicos.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 55.
 
-La canalización de fondos por parte del Instituto para proyectos, estudios, programas e investigaciones relacionadas con su objeto, está sujeta a la celebración de un contrato o convenio que asegure su debido cumplimiento.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 56.
 
-El Presupuesto de Egresos del Estado debe contener las partidas y previsiones necesarias para sufragar los gastos derivados de su operación, sin perjuicio de que le sean asignadas partidas adicionales.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ###### Artículo 57.
 
-El Instituto queda sometido a las reglas de contabilidad, presupuesto y gasto público aplicables a la administración pública estatal.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO VI. DEL RÉGIMEN LABORAL
 
 ###### Artículo 58.
 
-Las relaciones laborales entre el Instituto y sus trabajadores se rigen por la Ley Federal del Trabajo.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
 ## TÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
 
@@ -1438,3 +1162,31 @@ P.O. 17 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26954/LXI/18 QUE REFORMA LOS ARTÍCULOS 34 Y 40, ASÍ COMO LA DENOMINACIÓN DE LOS CAPÍTULOS II, IX, X, XI, Y XIV DEL TÍTULO CUARTO DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27209/LXII/18 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; Y EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO JALISCIENSE DEL ADULTO MAYOR”.]
+
+PRIMERO. El presente decreto entrará en vigor el 6 de diciembre de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Las funciones del Instituto Jalisciense del Adulto Mayor relacionadas con las labores de asistencia social, serán asumidas por el Sistema Estatal para el Desarrollo Integral de la Familia.
+
+Los asuntos en trámite iniciados ante el Instituto Jalisciense del Adulto Mayor que se extingue, serán resueltos por el Sistema Estatal para el Desarrollo Integral de la Familia.
+
+El Poder Ejecutivo, a través del Sistema Estatal para el Desarrollo Integral de la Familia y las Secretarías de Administración y de la Hacienda Pública, según corresponda, llevará a cabo las acciones jurídicas, administrativas, financieras y operativas necesarias para que los servicios y funciones del Instituto que se extingue se sigan prestando en forma ininterrumpida.
+
+TERCERO. Se autoriza al Titular del Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto Jalisciense del Adulto Mayor, facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá en el proceso de entrega recepción respectivo y de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto Jalisciense del Adulto Mayor.
+
+CUARTO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones de (sic) organismo público descentralizado que (sic) extingue, que subsistan después de concluido el procedimiento de liquidación, pasarán a las dependencias que, en su caso, determine el Gobernador del Estado.
+
+QUINTO. Las relaciones laborales que tenga el Instituto Jalisciense del Adulto Mayor con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la legislación aplicable.
+
+SEXTO. Se autoriza al Titular del Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto Jalisciense del Adulto Mayor.
+
+SÉPTIMO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidas por el Sistema Estatal para el Desarrollo Integral de la Familia.
+
+OCTAVO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente Decreto.
+
+NOVENO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente Decreto.
