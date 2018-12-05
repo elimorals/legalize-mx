@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2018-09-13"
+last_updated: "2018-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -1412,3 +1412,35 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “DECRETO 27214/LXII/18 QUE ABROGA LA ACTUAL LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO Y EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO” QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+Artículo Primero. Se abroga la Ley Orgánica de la Fiscalía General del Estado de Jalisco contenida en el Decreto número 24395 y todas las disposiciones que se opongan al presente decreto.
+
+Artículo Segundo. Se expide la Ley Orgánica de la Fiscalía del Estado de Jalisco.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27214/LXII/18 QUE ABROGA LA ACTUAL LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO Y EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor el día 06 de diciembre de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+Segundo. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+Tercero. En toda disposición legal o reglamentaria en que se haga referencia a la Fiscalía General o Fiscal General del Estado de Jalisco se entenderá por Fiscalía Estatal o Fiscal Estatal, de conformidad con el presente decreto.
+
+Cuarto. Las modificaciones dispuestas en el presente decreto, no son las suficientes y necesarias para el cumplimiento y la implementación correspondiente, conforme los supuestos establecidos en el artículo Tercero Transitorio del decreto legislativo 26408/LXI/17, publicado en el periódico oficial “El Estado de Jalisco” en su edición de fecha 18 de julio de 2017, mediante el cual se reformó la Constitución Política del Estado de Jalisco, por lo que la reforma a los dispositivos que se citan en dicho artículo permanecen sin iniciar su vigencia.
+
+Quinto. El Congreso del Estado emitirá las modificaciones necesarias, una vez que concluyan los procesos legislativos en el Congreso de la Unión en materia de Procuración de Justicia.
+
+Sexto. La Fiscalía del Estado de Jalisco, continua sujeta a las relaciones administrativas y laborales sostenidas con agentes del ministerio público, agentes investigadores y demás servidores públicos que se desempeñan en el ámbito de la procuración de justicia.
+
+Séptimo. Los recursos económicos y materiales, los derechos y obligaciones y demás bienes necesarios para la operación de las áreas que integran a la Fiscalía del Estado con objeto distinto a la procuración de justicia, y relacionados con la seguridad pública, serán transferidos a la Secretaría de Seguridad.
+
+Octavo. Los asuntos no concluidos ante las distintas dependencias de la Fiscalía del Estado, relacionados con la materia de seguridad pública, serán transferidos a la Secretaría de Seguridad del Poder Ejecutivo del Estado de Jalisco.
+
+Noveno. Para el ejercicio 2018, se autoriza al titular del Poder Ejecutivo para que por conducto de la Secretaría de la Hacienda Pública, lleve a cabo las modificaciones o transferencias necesarias y las adecuaciones presupuestales, para el funcionamiento de las áreas que se crean o modifican con motivo del presente decreto, de conformidad a la suficiencia presupuestal, y realizar las erogaciones necesarias con cargo a la Unidad Presupuestal que corresponda.
+
+Décimo. El titular de la Fiscalía Estatal, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de la dependencia en los términos del presente Decreto.
+
+Décimo Primero. El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar el 30 de enero del 2019, las adecuaciones llevadas a cabo en los términos del presente decreto.
