@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2018-06-20"
+last_updated: "2018-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -161,7 +161,9 @@ III. Secretaría de Finanzas y Planeación;
 
 IV. Secretaría de Desarrollo Territorial Urbano Sustentable.
 
-V. Secretaría de Infraestructura y Transporte;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+V. Secretaría de Obras Públicas.
 
 VI. Secretaría de Ecología y Medio Ambiente;
 
@@ -699,13 +701,55 @@ XXXII. Promover y realizar programas de mejoramiento y rehabilitación de vivien
 
 XXXIII. Vigilar de manera conjunta con las demás autoridades competentes, el cumplimiento de las normas oficiales mexicanas, de ordenamiento territorial, de vivienda, de suelo sustentable, del espacio público aplicables al desarrollo urbano, y
 
-XXXIV. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XXXIV. Coordinar con las autoridades Federales, Estatales y Municipales, la realización de actividades relativas a la ingeniería del transporte y al señalamiento de la vialidad del Estado, en coordinación con otras autoridades;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XXXV. Coordinar con el Instituto de Movilidad el estudio, planeación y control del servicio público de transporte en todas sus modalidades; el servicio público especializado y el servicio público de estacionamiento y terminales de jurisdicción estatal, sin perjuicio de la competencia de los Municipios;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XXXVI. Coordinar con el Instituto de Movilidad la tramitación de los permisos y concesiones que se otorguen, para la prestación de servicios de autotransporte en las carreteras y vías de jurisdicción Estatal y Municipal, previo cumplimiento de lo dispuesto en la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XXXVII. Coordinar con el Instituto de Movilidad la fijación, en coordinación con la Secretaría de Finanzas y Planeación, las tarifas del transporte público del Estado, con base en los estudios técnicos que realice; asimismo, administrar las vías de cuota a cargo del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XXXVIII. Realizar estudios para la optimización del transporte colectivo y dictar y supervisar el cumplimiento de las normas que conduzcan al mejor aprovechamiento de éste;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XXXIX. Determinar, con la participación de la Secretaría de Gobierno y el Instituto de Movilidad, las rutas de penetración de vehículos de servicio público de transporte de pasajeros suburbano y foráneo, las políticas y normas de operación de los paraderos del servicio público de transporte de pasajeros; estudiar y dictaminar sobre las alternativas en la selección del equipamiento que deban adquirir las áreas dedicadas al servicio del transporte en el sector; de sitios de transporte público de carga, taxis y autobús; igualmente, autorizar cambios de unidades y fijar frecuencias y horarios de las unidades de transporte de carga y pasajeros; todo lo anterior sin perjuicio de la competencia que corresponda a los Municipios;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XL. Coordinar con el Instituto de Movilidad la operación de las actividades en materia de vialidad y transporte, con las Autoridades Federales, Estatales y Municipales, así como con las Entidades Paraestatales, cuya competencia y objeto se relacionen con estas materias;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XLI. Coordinar con el Instituto de Movilidad, sin perjuicio de la competencia Municipal, la elaboración de los estudios que contribuyan a determinar la ubicación, construcción y el funcionamiento de los estacionamientos públicos; vigilar el cumplimiento de la normatividad en la materia, así como formular, elaborar y actualizar, en coordinación con las autoridades competentes, la normatividad del señalamiento horizontal y vertical de la red vial, y de los dispositivos de control de tránsito;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XLII. Establecer y vigilar el cumplimiento de los programas relacionados con la movilidad en el Estado, coordinando y supervisando bajo su adscripción los servicios que presta (sic) Instituto de Movilidad del Estado de Quintana Roo, que tiene como fin el desarrollo de actividades empresariales, económicas, industriales y comerciales en términos de su objeto, generando valor económico y rentabilidad para el Estado de Quintana Roo como su propietario, así como actuar de manera transparente, honesta, eficiente, con sentido de equidad y responsabilidad social y ambiental, y procurar el mejoramiento de la productividad para maximizar la renta de los Transportes Públicos Concesionados del Estado por ser área estratégica en el Estado de Quintana Roo y contribuir con ello al desarrollo Estatal, asegurando en ellos los principios de certeza y seguridad jurídica, así como la correcta y adecuada distribución y prestación no solo de los servicios de transportes públicos sino fomentando los transportes al público en toda la geografía del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+XLIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 35.
 
-A la Secretaría de Infraestructura y Transporte le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Obras Públicas le corresponde el despacho de los siguientes asuntos:
 
-I. Formular, instrumentar, conducir, ejecutar y evaluar las políticas y programas sectoriales de infraestructura, obras públicas, comunicaciones y transportes, con base en las disposiciones constitucionales y legales y en congruencia con el Sistema Estatal de Planeación, sin perjuicio de la competencia que corresponda a los Municipios de la Entidad;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
+I. Formular, instrumentar, conducir, ejecutar y evaluar las políticas y programas sectoriales de infraestructura, obras públicas, con base en las disposiciones constitucionales y legales y en congruencia con el Sistema Estatal de Planeación, sin perjuicio de la competencia que corresponda a los Municipios de la Entidad;
 
 II. Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Quintana Roo y demás disposiciones aplicables;
 
@@ -725,25 +769,23 @@ VIII. Impulsar, promover y supervisar los trabajos de conservación de las obras
 
 IX. Vigilar que la ejecución de los programas de comunicaciones y de transportes, de la competencia del Gobierno del Estado, se realicen en los términos de las disposiciones legales correspondientes;
 
-X. Coordinar con las autoridades Federales, Estatales y Municipales, la realización de actividades relativas a la ingeniería del transporte y al señalamiento de la vialidad del Estado, en coordinación con otras autoridades;
+X. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
 XI. Establecer y coordinar, conjuntamente con la Secretaría de Gobierno y conforme a las disposiciones jurídicas aplicables, las normas técnicas y administrativas a que deben sujetarse la construcción y operación de las obras y programas, para la prestación del servicio público de transporte, de competencia del Gobierno del Estado;
 
-XII. Estudiar, planear y controlar el servicio público de transporte en todas sus modalidades; el servicio público especializado y el servicio público de estacionamiento y terminales de jurisdicción estatal sin perjuicio de la competencia de los Municipios;
+XII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-XIII. Tramitar los permisos y concesiones que otorgue el Gobernador del Estado, para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción Estatal, previo cumplimiento de lo dispuesto en la ley de la materia;
+XIII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+XIV. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-XIV. Fijar, en coordinación con la Secretaría de Finanzas y Planeación, las tarifas del transporte público del Estado, con base en los estudios técnicos que realice; asimismo, administrar las vías de cuota a cargo del Gobierno del Estado;
+XV. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-XV. Realizar estudios para la optimización del transporte colectivo y dictar y supervisar el cumplimiento de las normas que conduzcan al mejor aprovechamiento de éste;
+XVI. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-XVI. Determinar, con la participación de la Secretaría de Gobierno, las rutas de penetración de vehículos de servicio público de transporte de pasajeros suburbano y foráneo, las políticas y normas de operación de los paraderos del servicio público de transporte de pasajeros; estudiar y dictaminar sobre las alternativas en la selección del equipamiento que deban adquirir las áreas dedicadas al servicio del transporte en el sector; de sitios de transporte público de carga, taxis y autobús; igualmente, autorizar cambios de unidades y fijar frecuencias y horarios de las unidades de transporte de carga y pasajeros; todo lo anterior sin perjuicio de la competencia que corresponda a los Municipios;
+XVII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
-XVII. Coordinar la operación de las actividades en materia de vialidad y transporte, con las Autoridades Federales, Estatales y Municipales, así como con las Entidades Paraestatales, cuya competencia y objeto se relacionen con estas materias;
-
-XVIII. Elaborar, sin perjuicio de la competencia Municipal, los estudios que contribuyan a determinar la ubicación, construcción y el funcionamiento de los estacionamientos públicos; vigilar el cumplimiento de la normatividad en la materia, así como formular, elaborar y actualizar, en coordinación con las autoridades competentes, la normatividad del señalamiento horizontal y vertical de la red vial, y de los dispositivos de control de tránsito;
+XVIII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2018)
 
 XIX. Construir y conservar en buen estado la red carretera, puentes, caminos, obras portuarias y conexas o accesorias de ellas, que sean de competencia local;
 
@@ -2081,8 +2123,22 @@ QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 P.O. 20 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 163 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 163 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del decreto por el que se reforma el párrafo segundo del artículo 51 y se adiciona un párrafo segundo al artículo 92 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 268 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con fundamento en el artículo 18 de la Ley de Movilidad del Estado de Quintana Roo, el Instituto de Movilidad del Estado de Quintana Roo, queda sectorizado a la Secretaría de Desarrollo Territorial Urbano Sustentable.
+
+TERCERO. Los asuntos a cargo de la Dirección de Comunicaciones y Transportes de la Secretaría de Infraestructura y Transporte que no se encuentren iniciados, serán transmitidos al Instituto de Movilidad del Estado de Quintana Roo, y los asuntos que se encontraren pendientes de resolución al momento de entrar en vigor este Decreto, serán despachados por esta última instancia, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+CUARTO. Las atribuciones que en otras leyes y en reglamentos se otorgan a la Secretaría de Infraestructura y Transporte para sus funciones administrativas de Transporte y sean transmitidos a la Secretaría de Desarrollo Territorial Urbano Sustentable, se tendrán por conferidas a ésta última, las que ejercerá con base en lo que dispone el presente ordenamiento.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto por este Decreto.
