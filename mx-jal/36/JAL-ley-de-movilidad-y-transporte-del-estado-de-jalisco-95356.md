@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2018-11-17"
+last_updated: "2018-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -191,9 +191,9 @@ XI. Foto infracción: las infracciones a la ley o a sus reglamentos que sean det
 
 XII. Holograma de verificación vehicular: forma única autorizada y emitida por la Secretaría de Medio Ambiente y Desarrollo Territorial, con características de seguridad y colores determinados de acuerdo con el año, en cumplimiento del programa respectivo;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
-XIII. Instituto: el Instituto de Movilidad y Transporte del Estado de Jalisco;
+XIII. Instituto: el Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
@@ -423,7 +423,9 @@ IV. No deberá cruzar con luz roja o amarilla en el semáforo peatonal.
 
 Las aceras de las vías públicas, sólo deberán ser utilizadas para el tránsito de las personas con discapacidad y por los peatones, con las excepciones que determinen las autoridades municipales dentro de la jurisdicción que les corresponda y para dar espacio a la infraestructura ciclista, exceptuando aquella destinada para la circulación. Dichas autoridades promoverán la planificación y construcción de una red de ciclovías o sendas especiales para la circulación de bicicletas y similares.
 
-En las zonas urbanas donde se concentren vías públicas con elevada densidad de tránsito de vehículos motorizados y mayor propensión a la saturación de conformidad con las opiniones de las autoridades municipales en materia de movilidad, y en su ausencia, del Instituto de Movilidad y Transporte del Estado, se instrumentarán sistemas integrados de transporte público y de movilidad no motorizada.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+En las zonas urbanas donde se concentren vías públicas con elevada densidad de tránsito de vehículos motorizados y mayor propensión a la saturación de conformidad con las opiniones de las autoridades municipales en materia de movilidad, y en su ausencia, del Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado, se instrumentarán sistemas integrados de transporte público y de movilidad no motorizada.
 
 ###### Artículo 12.
 
@@ -653,7 +655,9 @@ XX. Asesorar y apoyar a los municipios en materia de movilidad y transporte, con
 
 XXI. Aplicar las sanciones a quienes incurran en infracciones a las disposiciones de esta ley y a sus normas reglamentarias, en el ámbito de su competencia, y en la que, en su caso, asuma por la coordinación que establezca con los ayuntamientos;
 
-XXII. Establecer nuevos servicios; eliminar, sustituir y reformar los ya existentes previstos en esta ley, conforme a las condiciones y necesidades que presente la demanda del servicio público de transporte, dando intervención a los ayuntamientos que, por ámbito territorial, deban participar y considerando a la Comisión Metropolitana de Movilidad y Transporte del Estado de Jalisco, al Consejo Consultivo de Movilidad y Transporte y al Instituto de Movilidad y Transporte del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+XXII. Establecer nuevos servicios; eliminar, sustituir y reformar los ya existentes previstos en esta ley, conforme a las condiciones y necesidades que presente la demanda del servicio público de transporte, dando intervención a los ayuntamientos que, por ámbito territorial, deban participar y considerando a la Comisión Metropolitana de Movilidad y Transporte del Estado de Jalisco, al Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado y al Consejo Consultivo de Movilidad y Transporte;
 
 XXIII. Establecer en todo tiempo y con la participación del ayuntamiento que afecte las condiciones técnicas conforme a las cuales se preste o pretenda prestar un servicio público de transporte;
 
@@ -983,7 +987,7 @@ VI. El Comité Técnico de Validación, conforme lo dispuesto en la presente Ley
 
 ###### Artículo 36.
 
-El Instituto, se regirá por su propia ley.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2018)
 
 ## Título Tercero. Del servicio de movilidad y tránsito
 
@@ -1863,9 +1867,11 @@ Para el caso de renovación de concesión para el transporte masivo o colectivo 
 
 Las concesiones únicamente se otorgarán a personas de nacionalidad mexicana, físicas o jurídicas, según el servicio de que se trate, constituidas conforme a las leyes del país.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 99.
 
-El Estado, previa convocatoria para la prestación del servicio público de transporte de pasajeros ya sea para renovarlo o los nuevos que se expidan, deberá contar con los estudios técnicos y proyectos que sustenten la necesidad del servicio, los cuales serán responsabilidad del Instituto, conforme a las siguientes bases generales:
+El Estado, previa convocatoria para la prestación del servicio público de transporte de pasajeros ya sea para renovarlo o los nuevos que se expidan, deberá contar con los estudios técnicos y proyectos que sustenten la necesidad del servicio, los cuales serán responsabilidad del Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado, conforme a las siguientes bases generales:
 
 I. La concesión otorga a su titular un derecho para prestar el servicio público de transporte en la modalidad y características que se especifiquen, sin perjuicio de lo establecido en la fracción II de este artículo;
 
@@ -2075,9 +2081,11 @@ Las concesiones a las que se refiere el párrafo anterior, sólo serán transmis
 
 ### Capítulo III. De las bases generales para otorgar concesiones del servicio público de transporte
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 114.
 
-La Secretaría determinará, de conformidad con los estudios y datos proporcionados por el instituto, el número de concesiones que el Ejecutivo vaya a otorgar en cada modalidad del transporte, y aprobará la convocatoria, para que los interesados presenten sus solicitudes.
+La Secretaría determinará, de conformidad con los estudios y datos proporcionados por el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado, el número de concesiones que el Ejecutivo vaya a otorgar en cada modalidad del transporte, y aprobará la convocatoria, para que los interesados presenten sus solicitudes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
 
@@ -2093,9 +2101,11 @@ Para efectos de este artículo, la rentabilidad razonable para la inversión de 
 
 Del total de vehículos que conformaran el parque vehicular en el Estado, destinado a la prestación del servicio de transporte público colectivo de pasajeros, no se podrá otorgar más del treinta por ciento, para ser utilizado en su modalidad de características especiales, esto a efecto de garantizar que se cuente con un mayor número de vehículos o porcentaje de parque vehicular destinado al transporte público colectivo, cuyo costo sea accesible a la mayoría de los usuarios.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 115.
 
-La Secretaría determinará también la substitución de las concesiones que hayan sido canceladas, revocadas o estén vacantes, y las que hayan sido declaradas extintas, para ello realizará la convocatoria para que los interesados, ya sean personas físicas o jurídicas, presenten sus propuestas, mismas que se otorgarán a quienes tengan derecho y manifiesten interés, con base en los estudios y datos proporcionados por el instituto.
+La Secretaría determinará también la substitución de las concesiones que hayan sido canceladas, revocadas o estén vacantes, y las que hayan sido declaradas extintas, para ello realizará la convocatoria para que los interesados, ya sean personas físicas o jurídicas, presenten sus propuestas, mismas que se otorgarán a quienes tengan derecho y manifiesten interés, con base en el dictamen técnico emitido por el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado.
 
 ###### Artículo 116.
 
@@ -2109,7 +2119,9 @@ III. Publicará en el periódico oficial El Estado de Jalisco y en un periódico
 
 IV. En su caso, la publicación a que se refiere la fracción anterior, indicará la antigüedad de los solicitantes como conductores u operadores de vehículos del servicio público de transporte;
 
-V. La información relativa a las concesiones otorgadas, se enviará al Instituto;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+V. La información relativa a las concesiones otorgadas, se enviará al Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado;
 
 VI. La Secretaría verificará que las concesiones otorgadas queden debidamente inscritas y con una copia del expediente certificada en el registro estatal, y
 
@@ -2175,11 +2187,17 @@ Las concesiones o subrogaciones para prestar el servicio de transporte público 
 
 I. Los concesionarios o subrogatarios para centros de población de más de cincuenta mil habitantes serán personas jurídicas. En el caso de centros de población de menos de cincuenta mil habitantes podrán ser personas físicas o jurídicas. En ambos casos deberán de contar con domicilio legal en el Estado de Jalisco, sin perjuicio de lo establecido en el artículo 99 de esta ley;
 
-II. Las concesiones o subrogaciones serán otorgados para prestar el servicio público de transporte, exclusivamente con la ruta, derrotero, itinerarios, frecuencia y horarios que se precisen en la concesión. La Secretaría, en coordinación con el Instituto y en coordinación con la dependencia municipal competente, establecerá los recorridos de las rutas. Para tal efecto tomará en cuenta la opinión, estudios y datos del instituto;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
-III. Para un mismo itinerario, ruta o tramo, podrán concurrir a la prestación del servicio público de transporte foráneo, sea mixto o sólo de pasajeros, uno o más concesionarios o subrogatarios, conforme a datos y estudios que para tal efecto proporcione el Instituto;
+II. Las concesiones o subrogaciones serán otorgados (sic) para prestar el servicio público de transporte, exclusivamente con la ruta, derrotero, itinerarios, frecuencia y horarios que se precisen en la concesión. La Secretaría, con base en el dictamen técnico emitido por la instancia correspondiente, el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado y en coordinación con la dependencia municipal competente, establecerá los recorridos de las rutas.
 
-IV. La Secretaría tendrá siempre la facultad de modificar las rutas, tramos, itinerarios e inclusive de suprimirlos en función de las opiniones, datos y estudios proporcionados por el Instituto cuando aplique;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+III. Para un mismo itinerario, ruta o tramo, podrán concurrir a la prestación del servicio público de transporte foráneo, sea mixto o sólo de pasajeros, uno o más concesionarios o subrogatarios, con base en el dictamen técnico emitido por la instancia correspondiente, el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+IV. La Secretaría tendrá siempre la facultad de modificar las rutas, tramos, itinerarios e inclusive de suprimirlos con base en el dictamen técnico emitido por la instancia correspondiente, el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado cuando aplique;
 
 V. Cada concesión autorizará la operación de los vehículos necesarios para la operación de la ruta correspondiente, en los horarios y con la frecuencia establecidas (sic);
 
@@ -2219,7 +2237,9 @@ Será improcedente el otorgamiento de concesiones, en los siguientes casos:
 
 I. Cuando la Secretaría haya declarado previamente que la ruta está cerrada;
 
-II. Cuando, con base en las opiniones, estudios y datos que proporcione el Instituto, se determine que el número de concesionarios es suficiente, y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+II. Cuando, con base en el dictamen técnico emitido por la instancia correspondiente, el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado, se determine que el número de concesionarios es suficiente; y
 
 III. Cuando la solicitud sea presentada por persona extranjera, que no acredite en su calidad migratoria.
 
@@ -2261,7 +2281,9 @@ Cuando se trate del servicio de carga, la Secretaría, en casos excepcionales y 
 
 Se requiere concesión otorgada por el Ejecutivo del Estado por conducto de la Secretaría, para explotar, dentro del Estado, en un área metropolitana específica o en un municipio específico, el servicio de transporte público de taxis en cualquiera de sus modalidades.
 
-El número total de concesiones que podrán otorgarse, referentes a las modalidades del servicio público del transporte señaladas en el presente artículo, se definirán para el área metropolitana de Guadalajara y para los municipios del Estado que no formen parte de ningún área metropolitana, a través de estudios técnicos con base en parámetros establecidos y necesidades específicas de cada localidad, por conducto de la Secretaría, tomando en cuenta las opiniones, estudios y datos del Instituto. El número total de concesiones para un área metropolitana o un municipio no perteneciente a un área metropolitana no podrá aumentarse más que proporcionalmente con el crecimiento poblacional de dicha área metropolitana o municipio, o del número de visitantes anuales a la misma área metropolitana o municipio.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+El número total de concesiones que podrán otorgarse, referentes a las modalidades del servicio público del transporte señaladas en el presente artículo, se definirán para el área metropolitana de Guadalajara y para los municipios del Estado que no formen parte de ningún área metropolitana, a través de estudios técnicos con base en parámetros establecidos y necesidades específicas de cada localidad, por conducto de la Secretaría, tomando en cuenta el dictamen técnico del Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado. El número total de concesiones para un área metropolitana o un municipio no perteneciente a un área metropolitana no podrá aumentarse más que proporcionalmente con el crecimiento poblacional de dicha área metropolitana o municipio, o del número de visitantes anuales a la misma área metropolitana o municipio.
 
 En la determinación del número de concesiones para el servicio de transporte público de taxi o radiotaxi, la Secretaría evitará establecer una competencia ruinosa en términos del artículo 114 para el transporte público de pasajeros masivo o colectivo.
 
@@ -2275,9 +2297,9 @@ II. Los taxis que presten el servicio con la modalidad de sitios, deberán lleva
 
 III. Los taxis con la modalidad de radiotaxis prestarán el servicio por medio de equipos de radiocomunicación, debiendo contar con una matriz central a fin de que puedan transitar para la atención eficiente del servicio;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2018)</small>
 
-IV. En el servicio de transporte público de taxis, en cualquiera de sus modalidades, será obligatorio usar el taxímetro, cuyas tarifas se establecerán en el dictamen técnico final emitido por el Instituto y validado por el Comité Técnico de Validación.
+IV. En el servicio de transporte público de taxis, en cualquiera de sus modalidades, será obligatorio usar el taxímetro, cuyas tarifas se establecerán por parte de la Secretaría con base en el dictamen técnico emitido por la instancia correspondiente, el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado, y validado por el Comité Técnico de Validación.
 
 El incumplimiento de la disposición que señala el párrafo anterior, será causa de revocación de las concesiones correspondientes sin responsabilidad para el Estado, excepción hecha para aquellos taxis cuya tarifa sea clasificada por zona, y
 
@@ -2623,67 +2645,113 @@ La Secretaría informará al registro estatal el acuerdo que declare las concesi
 
 Para realizar actualizaciones o modificaciones a las tarifas del transporte público, se deberán tomar en consideración las disposiciones señaladas en el presente Capítulo, así como la aplicación de las normas de carácter técnico y normativo aplicables.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 153-B.
 
-Para la modificación de tarifas del servicio público en todas sus modalidades, el Instituto de Movilidad y Transporte del Estado de Jalisco emitirá el dictamen técnico, mismo que tomará como base todos los costos directos o indirectos que incidan en la prestación del servicio.
+Para la modificación de tarifas del servicio público en todas sus modalidades, la Secretaría emitirá el dictamen técnico, previa opinión emitida por la instancia correspondiente, el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado, mismo que tomará como base todos los costos directos o indirectos que incidan en la prestación del servicio.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 153-C.
 
-El dictamen técnico emitido por el Instituto deberá tener la validación de un Comité Técnico de Validación, integrado por representantes correspondientes a las siguientes dependencias y organizaciones sociales:
+El dictamen técnico emitido por la Secretaría deberá tener la validación de un Comité Técnico de Validación, integrado por representantes correspondientes a las siguientes dependencias y organizaciones sociales:
 
-I. El Instituto de Movilidad y Transporte, a través de su Director o quien éste designe que sea del nivel jerárquico inmediato inferior; quien lo presidirá y contará con voto de calidad en caso de empate;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+I. La Secretaría, a través de su Titular o quien éste designe que sea del nivel jerárquico inmediato inferior; quien lo presidirá y contará con voto de calidad en caso de empate;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 II. El Consejo de Cámaras Industriales de Jalisco;
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 III. La Confederación de Trabajadores de México;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 IV. El Sindicato de Trabajadores en el Autotransporte del Estado de Jalisco, PALMAC, de la Federación Revolucionaria de Obreros y Campesinos;
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 V. El Observatorio Ciudadano, establecido en el artículo 7° del Reglamento para Regular el Servicio de Transporte Público Colectivo, Masivo, de Taxi y Radiotaxi en el Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 VI. Un representante de los usuarios del transporte público, designado por insaculación, previa convocatoria que realice el Instituto;
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 VII. Un representante de la sociedad civil en materia de víctimas del Transporte Público, de manera rotativa anual, por invitación del Presidente;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 VIII. Un representante de las universidades con residencia en el Estado, cuya vocalía será de forma rotativa y anual, por invitación del Presidente;
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 IX. Un representante de entre los concesionarios, permisionarios o subrogatarios del transporte público, por invitación del Presidente;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 X. El Sistema de Tren Eléctrico Urbano, a través de su Director o quien éste designe que sea del nivel jerárquico inmediato inferior;
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 XI. El Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, a través del comisionado designado por el Pleno de dicho Instituto; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 XII. El Contralor del Estado o quien éste designe que sea del nivel jerárquico inmediato inferior.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 El cargo de integrante del Comité Técnico de Validación es honorífico y por lo tanto no remunerado y en el caso de los servidores públicos que participan en él, éste encargo se entiende inherente a su función pública. Los particulares que integren el Comité Técnico de Validación carecen de la calidad de servidores públicos.
-
-El Comité Técnico de Validación, bajo ninguna circunstancia, puede asumir atribuciones que legalmente correspondan a las autoridades del Estado de Jalisco y sus municipios.
-
-Para sesionar válidamente, el Comité Técnico de Validación requiere la asistencia de más de la mitad de los miembros que lo integran y adoptará sus decisiones con el voto a favor de más de la mitad de sus integrantes presentes.
-
-El Presidente del Comité Técnico de Validación designará al Secretario Técnico del mismo, quien participará solo con derecho a voz y su cargo será honorífico.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
+El Comité Técnico de Validación, bajo ninguna circunstancia, puede asumir atribuciones que legalmente correspondan a las autoridades del Estado de Jalisco y sus municipios.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+Para sesionar válidamente, el Comité Técnico de Validación requiere la asistencia de más de la mitad de los miembros que lo integran y adoptará sus decisiones con el voto a favor de más de la mitad de sus integrantes presentes.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+El Presidente del Comité Técnico de Validación designará al Secretario Técnico del mismo, quien participará solo con derecho a voz y su cargo será honorífico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 153-D.
 
-Las tarifas deberán revisarse en el cuarto trimestre de cada año y deberán ser analizadas por el Instituto de Movilidad y Transporte y validadas por el Comité Técnico de Validación.
+Las tarifas deberán revisarse en el cuarto trimestre de cada año y deberán ser analizadas por la Secretaría y validadas por el Comité Técnico de Validación.
 
-Para tal efecto, el Instituto proyectará el estudio que permita validar la actualización de la tarifa técnica así como el estudio del impacto social en las diferentes modalidades del transporte público y emitirá los dictámenes preliminar y final que correspondan.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
-El Instituto presentará el proyecto de dictamen a la revisión del Comité Técnico, el cual emitirá sus observaciones y recomendaciones; y en una sesión posterior el Comité Técnico de Validación procederá con la validación del dictamen final presentado por el Instituto de Movilidad y Transporte.
+Para tal efecto, la Secretaría proyectará el estudio que permita validar la actualización de la tarifa técnica así como el estudio del impacto social en las diferentes modalidades del transporte público y emitirá los dictámenes preliminar y final que correspondan.
 
-Una vez validado el dictamen técnico que contiene la tarifa y determinada la fecha del inicio de su vigencia, se remitirá la resolución del Comité Técnico de Validación a la Secretaría de Movilidad, quien a su vez la remitirá a la Secretaría General de Gobierno para que se ordene su publicación en el Periódico Oficial "El Estado de Jalisco".
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría presentará el proyecto de dictamen a la revisión del Comité Técnico, el cual emitirá sus observaciones y recomendaciones; y en una sesión posterior el Comité Técnico de Validación procederá con la validación del dictamen final presentado por la Secretaría.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+Una vez validado el dictamen técnico que contiene la tarifa y determinada la fecha del inicio de su vigencia, se remitirá la resolución del Comité Técnico de Validación a la Secretaría, quien a su vez la remitirá a la Secretaría General de Gobierno para que se ordene su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 Las tarifas a que se refiere el párrafo anterior, regirán para todos los prestadores del servicio público de transporte según la modalidad de que se trate.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 El titular del Ejecutivo del Estado podrá implementar políticas públicas e instrumentos económicos que permitan equilibrar la diferencia entre la tarifa técnica y social, o en su caso determinar la tarifa en los términos previstos por el artículo 154 de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 Los prestadores del servicio de transporte público con las excepciones de Ley, deberán exhibir en forma permanente y en lugares visibles, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa vigente de acuerdo al servicio que se trata.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 En el caso de las empresas de redes de transporte, deberán hacer del conocimiento del usuario del servicio de transporte las tarifas vigentes, así como establecer un sistema de cálculo de tarifas en la aplicación móvil autorizada, así como en las páginas web vinculadas a ésta, debiendo garantizar la facilidad en el acceso y operación del mismo.
 
@@ -2697,7 +2765,9 @@ El Gobernador del Estado podrá modificar, en cualquier momento, las tarifas de 
 
 Asimismo, las empresas de redes de transporte autorizadas deberán publicar en su página electrónica, el límite de los mínimos y máximos conforme el cálculo de sus tarifas.
 
-Tomando en cuenta las circunstancias particulares de los usuarios, las circunstancias de interés general, la conveniencia de eficientar o acreditar el servicio de transporte público, el Gobernador del Estado, a propuesta de la Secretaría y del Instituto, podrá autorizar el establecimiento de tarifas especiales, promocionales o preferenciales, que se aplicarán de manera general abstracta e impersonal a sectores específicos de la población.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+Tomando en cuenta las circunstancias particulares de los usuarios, las circunstancias de interés general, la conveniencia de eficientar o acreditar el servicio de transporte público, el Gobernador del Estado, a propuesta de la Secretaría, podrá autorizar el establecimiento de tarifas especiales, promocionales o preferenciales, que se aplicarán de manera general abstracta e impersonal a sectores específicos de la población.
 
 Los acuerdos del Gobernador del Estado dictados en ejercicio de las atribuciones señaladas en el presente artículo deberán publicarse en el periódico oficial El Estado de Jalisco.
 
@@ -2777,9 +2847,11 @@ El pasaje obligatoriamente será gratuito para los miembros de la policía vial 
 
 ### Capítulo XIII. De los horarios e itinerarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 160.
 
-Los horarios e itinerarios y, cuando aplique, las paradas y las frecuencias, serán aprobados por la Secretaría, tomando en cuenta las opiniones, estudios y datos proporcionados por el Instituto y de consulta competentes, conforme a las normas y procedimientos que se establezcan en el reglamento.
+Los horarios e itinerarios y, cuando aplique, las paradas y las frecuencias, serán aprobados por la Secretaría, tomando en cuenta el dictamen técnico emitido por la instancia correspondiente, el Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado, conforme a las normas y procedimientos que se establezcan en el reglamento.
 
 Dicha dependencia deberá incluir a estos itinerarios la implementación de transporte público nocturno, estableciendo para estos efectos un horario y una frecuencia que cubran las necesidades de los usuarios del servicio, en este turno.
 
@@ -4037,6 +4109,66 @@ SEGUNDO. El Poder Ejecutivo del Estado deberá adecuar las disposiciones adminis
 
 P.O. 17 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 27056/LXI/18 QUE REFORMA EL ARTÍCULO 57 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 27056/LXI/18 QUE REFORMA EL ARTÍCULO 57 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 6 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27212/LXII/18 QUE ABROGA LA LEY ORGÁNICA DEL INSTITUTO DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, CREADA MEDIANTE DECRETO 24481/LX/13; SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN XIII, 11 SEGUNDO PÁRRAFO, 19 FRACCIÓN XXII, 36, 99 PRIMER PÁRRAFO, 114 PRIMER PÁRRAFO, 115, 116, FRACCIÓN V, 121 FRACCIONES II, III Y IX, 124 FRACCIÓN II, 129 SEGUNDO PÁRRAFO, FRACCIÓN IV, 153-B, 153-C, 153-D, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y CUARTO, 154 TERCER PÁRRAFO Y 160 PRIMER PÁRRAFO, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 31 DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO; Y ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DEL ORGNISMO (SIC) PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día 6 de diciembre de 2018, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las funciones del Instituto de Movilidad y Transporte del Estado de Jalisco relacionadas con las labores de movilidad y la dictaminación de rutas de transporte del Área Metropolitana de Guadalajara, serán asumidas por el Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara; en el interior del estado por la Secretaría de Medio Ambiente y Desarrollo Territorial; y las funciones relacionadas con el transporte público serán asumidas por la Secretaría del Transporte.
+
+Los asuntos en trámite ante el Instituto de Movilidad y Transporte del Estado de Jalisco que se extingue, pasarán a las secretarías e Instituto señalados en este artículo, de conformidad con el presente Decreto o en los términos que establezca el Gobernador del Estado. En el caso del Instituto, se requerirá la suscripción del convenio respectivo, previa aprobación de la Junta de Coordinación Metropolitana. En tanto no se firme dicho convenio por parte del Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara (IMEPLAN de la AMG), las funciones que le corresponden a éste serán asumidas por la Secretaría del Transporte.
+
+TERCERO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Instituto de Movilidad y Transporte del Estado de Jalisco, facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que coadyuve a la conclusión del proceso de liquidación del citado organismo.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá en el proceso de entrega recepción respectivo y de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Instituto de Movilidad y Transporte del Estado de Jalisco.
+
+CUARTO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del organismo público descentralizado que subsistan después de concluido el procedimiento de liquidación, pasarán a las dependencias que en su caso determine el Gobernador del Estado.
+
+QUINTO. Las relaciones laborales que tenga el Instituto de Movilidad y Transporte del Estado de Jalisco con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la ley de la materia.
+
+SEXTO. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el Instituto de Movilidad y Transporte del Estado de Jalisco.
+
+SÉPTIMO. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado que se extingue, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, con excepción de las relaciones laborales, serán asumidas por la Secretaría del Transporte, el Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara (IMEPLAN de la AMG) o la Secretaría de Medio Ambiente y Desarrollo Territorial.
+
+ANTERIOR NUEVO
+
+Organismo Público Descentralizado Instituto Metropolitano de
+
+"Instituto de Movilidad y Transporte Planeación del Área
+
+del Estado de Jalisco" Metropolitana de
+
+(En materia de movilidad y la Guadalajara o (IMEPLAN de
+
+dictaminación de rutas de transporte la AMG)
+
+del Área Metropolitana de Guadalajara)
+
+Organismo Público Descentralizado Secretaría de Medio
+
+"Instituto de Movilidad y Transporte Ambiente y Desarrollo
+
+del Estado de Jalisco" Territorial
+
+(En materia de movilidad y la
+
+dictaminación de rutas de transporte
+
+del interior del estado)
+
+Organismo Público Descentralizado Secretaría del Transporte
+
+"Instituto de Movilidad y Transporte
+
+del Estado de Jalisco"
+
+(En materia de transporte público)
+
+OCTAVO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente decreto.
+
+NOVENO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
