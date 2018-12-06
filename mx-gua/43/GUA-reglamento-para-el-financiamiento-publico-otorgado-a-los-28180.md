@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-financiamiento-publico-otorgado-a-los-28180"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-03"
-last_updated: "2003-01-03"
+last_updated: "2018-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO OTORGADO A LOS PARTIDOS POLITICOS PARA LOS GASTOS QUE REALIZAN POR CONCEPTO DE ACTIVIDADES ESPECIFICAS DE CAPACITACION POLITICA, INVESTIGACION SOCIOECONOMICA Y POLITICA
 
-REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO OTORGADO A LOS PARTIDOS POLITICOS PARA LOS GASTOS QUE REALIZAN POR CONCEPTO DE ACTIVIDADES ESPECIFICAS DE CAPACITACION POLITICA, INVESTIGACION SOCIOECONOMICA Y POLITICA, ASI COMO TAREAS EDITORIALES, QUE EXPIDE EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CGIEE/335/2018, PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA EL FINANCIAMIENTO PÚBLICO OTORGADO A LOS PARTIDOS POLÍTICOS PARA LOS GASTOS QUE REALIZAN POR CONCEPTO DE ACTIVIDADES ESPECÍFICAS DE CAPACITACIÓN POLÍTICA, INVESTIGACIÓN SOCIOECONÓMICA Y POLÍTICA, ASÍ COMO TAREAS EDITORIALES, QUE EXPIDE EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 3 de enero de 2003.
 
@@ -99,7 +101,7 @@ I. Actividades de capacitación política, las que tienen como propósito coadyu
 
 II. Actividades de investigación socioeconómica y política, las que tienen como propósito el estudio, análisis y diagnóstico sobre problemas del Estado de Guanajuato que contribuyan, directa o indirectamente, a la elaboración de propuestas para su solución. Los estudios de investigación socioeconómica y política que se realizan al amparo de esta fracción, podrán ser de carácter preventivo de problemas del Estado siempre y cuando estén orientados a la búsqueda de soluciones; y
 
-III. Tareas editoriales, las que deberán destinarse a la difusión de las actividades señaladas en as fracciones I y II del presente artículo, así como a la edición y producción de impresos, videograbaciones, medios ópticos y medios magnéticos. Dentro de este rubro, se incluyen aquellas actividades que tengan por objeto: promover la ideología, tareas y propuestas de los Partidos Políticos, la participación del pueblo en la vida democrática y la cultura política, incluidas publicaciones periódicas de divulgación y de carácter teórico.
+III. Tareas editoriales, las que deberán destinarse a la difusión de las actividades señaladas en las fracciones I y II del presente artículo, así como a la edición y producción de impresos, videograbaciones, medios ópticos y medios magnéticos. Dentro de este rubro, se incluyen aquellas actividades que tengan por objeto: promover la ideología, tareas y propuestas de los Partidos Políticos, la participación del pueblo en la vida democrática y la cultura política, incluidas publicaciones periódicas de divulgación y de carácter teórico.
 
 ###### Artículo 10.
 
@@ -344,3 +346,13 @@ Claves:
 7) Listado de los productos que se presentan para probar la realización de la actividad indicando su relación con los gastos y con la actividad realizada: Se deberá enlistar los productos que prueben que prueben la realización de una actividad, asociando a cada una de estas los gastos ya descritos en el punto inmediato anterior y el nombre de la actividad correspondiente.
 
 8) Nombre, firma y cargo: Estos datos corresponden al responsable del órgano interno encargado de la administración de todos los recursos del partido político.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO CGIEEG/335/2018, MEDIANTE EL CUAL SE ABROGA EL REGLAMENTO PARA EL FINANCIAMIENTO PÚBLICO OTORGADO A LOS PARTIDOS POLÍTICOS PARA LOS GASTOS QUE REALIZAN POR CONCEPTO DE ACTIVIDADES ESPECÍFICAS DE CAPACITACIÓN POLÍTICA, INVESTIGACIÓN SOCIOECONÓMICA Y POLÍTICA, ASÍ COMO TAREAS EDITORIALES, QUE EXPIDE EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se abroga el Reglamento para el financiamiento público otorgado a los partidos políticos para los gastos que realizan por concepto de actividades específicas de capacitación política, investigación socioeconómica y política, así como tareas editoriales, que expide el Consejo General del Instituto Electoral del Estado de Guanajuato.
+
+SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
