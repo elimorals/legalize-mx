@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2018-02-16"
+last_updated: "2018-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -442,7 +442,9 @@ VI. En estacionamientos y en vías peatonales en las cuales se permita el acceso
 
 Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
-El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla, aplicando la sanción máxima cuando se rebase el límite de velocidad por más de 20 kilómetros por hora, de acuerdo a la información captada por equipos y sistemas tecnológicos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE DICIEMBRE DE 2018)</small>
+
+El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla, aplicando la sanción máxima cuando se rebase el límite de velocidad por más de 20 kilómetros por hora.
 
 Fracción Sanción con multa Puntos de
 
@@ -2472,7 +2474,7 @@ g) El agente procederá a llenar la boleta de sanción, de la que extenderá una
 
 h) Le devolverá la documentación entregada para revisión, si esta se encuentra vigente y corresponde al vehículo y al conductor, de lo contrario se aplicará la sanción prevista en este ordenamiento.
 
-i) Para el caso de infracciones detectadas a través de la información obtenida con equipos y sistemas tecnológicos de Seguridad Pública, se sujetará a lo dispuesto en el artículo 61 del presente Reglamento; y
+i) (DEROGADO, G.O. 6 DE DICIEMBRE DE 2018)
 
 j) En caso de que el infractor insulte o denigre al agente, se sancionará conforme a las disposiciones de este Reglamento y de continuar con una conducta inadecuada se procederá a su remisión ante el Juez Cívico.
 
@@ -2492,19 +2494,11 @@ e) Nombre, número de placa, adscripción y firma del agente que tenga conocimie
 
 Seguridad Pública coadyuvará con la Secretaría para la aplicación de sanciones por el incumplimiento a la Ley y a este Reglamento cuando exista flagrancia.
 
-Cuando se trate de infracciones detectadas a través de los equipos y sistemas tecnológicos se procederá de acuerdo a lo dispuesto en el artículo 61 del presente Reglamento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 61.
 
-Las infracciones a este Reglamento que sean detectadas a través de equipos y sistemas tecnológicos, serán impuestas por el agente que se encuentre asignado para ello, lo cual se hará constar en boletas seriadas autorizadas por Seguridad Pública.
-
-Adicionalmente a lo indicado en el artículo 60, las boletas señalarán:
-
-I. Tecnología utilizada para captar la comisión de la infracción y el lugar en que se encontraba el equipo tecnológico al momento de ser detectada la infracción cometida; y
-
-II. Formato expedido por el propio instrumento tecnológico que captó la infracción o copia de la imagen y/o sonidos y su trascripción en su caso, con la confirmación de que los elementos corresponden en forma auténtica y sin alteración de ningún tipo a lo captado por el instrumento tecnológico utilizado.
-
-La información obtenida con equipos y sistemas tecnológicos, con base en la cual se determine la imposición de la sanción, hará prueba plena en términos de lo que dispone el artículo 34 de la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal.
+(DEROGADO, G.O. 6 DE DICIEMBRE DE 2018)
 
 ## TÍTULO SEXTO. DE LAS SANCIONES LEGALES Y MEDIOS DE IMPUGNACIÓN
 
@@ -2530,11 +2524,15 @@ Cuando la infracción sea cometida por conductores que manejan un vehículo con 
 
 La Secretaría del Medio Ambiente del Distrito Federal podrá expedir las disposiciones necesarias para que los Centros de Verificación Vehicular del Distrito Federal constaten que no existen adeudos por multas derivadas de infracciones al presente Reglamento, previamente a que se inicien las pruebas correspondientes al procedimiento de verificación vehicular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 64.
 
-Cuando se trate de infracciones a este Reglamento captadas por equipos y sistemas tecnológicos portátiles (Hand held), la boleta de infracción será entregada en forma personal por conducto del agente que la expida, de lo cual dejará constancia. Si el infractor se negara a recibirla se hará constar esa situación para los efectos correspondientes.
+Cuando se trate de infracciones a este Reglamento impuestaspor (sic) el Agente y expedidas mediante sistemas tecnológicos portátiles (Han helad), la boleta de infracción será entregada en forma personal por conducto del agente que la expida, de lo cual dejará constancia. Si el infractor se negara a recibirla se hará constar esa situación para los efectos correspondientes.
 
-Las multas expedidas con apoyo de equipos y sistemas tecnológicos, en el caso que no fuera posible la entrega personal al infractor en el momento que se expida, será notificada por correo certificado o con acuse de recibo en el domicilio registrado del propietario del vehículo quien será responsable de su pago.
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2018)</small>
+
+Las multas impuestas por el agente y expedidas mediante sistemas tecnológicos portátiles (Han helad), en el caso que no fuera posible la entrega personal al infractor en el momento que se expida, será notificada por correo certificado o con acuse de recibo en el domicilio registrado del propietario del vehículo quien será responsable de su pago.
 
 En el caso de los vehículos matriculados en el Distrito Federal, en cumplimiento de lo dispuesto por el artículo 63 del presente Reglamento, se presume salvo prueba en contrario, que el propietario del vehículo toma conocimiento de la infracción cometida, el día inmediato subsecuente al momento en que con motivo del trámite de verificación vehicular recibe el informe de la multa que aparece registrada en el sistema con cargo al vehículo.
 
@@ -2608,15 +2606,17 @@ QUINTO.- La obligación contenida en el artículo 46 de este reglamento, para lo
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecisiete días del mes de agosto del año dos mil quince.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTÉS.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARÍO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜÍ RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE FINANZAS, ÉDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.
 
-> <small>N. DE E. VÉASE ANEXO 1 DISPOSITIVOS PARA EL CONTROL DEL TRANSITO EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 49 A LA 98.</small>
+> <small>[N. DE E. VÉASE ANEXO 1 DISPOSITIVOS PARA EL CONTROL DEL TRANSITO EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 49 A LA 98.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 2 RED VIAL PRIMARIA EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 99 A LA 111.</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 1 DISPOSITIVOS PARA EL CONTROL DEL TRANSITO EN LA G.O. DE 6 DE DICIEMBRE DE 2018, PÁGINA 4.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 3 SISTEMA DE SUJECIÓN PARA SILLA DE RUEDAS EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 112 A LA 115.</small>
+> <small>[N. DE E. VÉASE ANEXO 2 RED VIAL PRIMARIA EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 99 A LA 111.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 4 SISTEMA DE RETENCIÓN INFANTIL EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 115 A LA 117.</small>
+> <small>[N. DE E. VÉASE ANEXO 3 SISTEMA DE SUJECIÓN PARA SILLA DE RUEDAS EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 112 A LA 115.]</small>
 
-> <small>N. DE E. VÉASE ANEXO 5 DISPOSITIVOS DE SEGURIDAD PARA VEHÍCULOS DE TRANSPORTE DE CARGA EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 118 A LA 121.</small>
+> <small>[N. DE E. VÉASE ANEXO 4 SISTEMA DE RETENCIÓN INFANTIL EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 115 A LA 117.]</small>
+
+> <small>[N. DE E. VÉASE ANEXO 5 DISPOSITIVOS DE SEGURIDAD PARA VEHÍCULOS DE TRANSPORTE DE CARGA EN LA G.O. DE 17 DE AGOSTO DE 2015, PÁGINAS DE LA 118 A LA 121.]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -2631,3 +2631,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
 
 CUARTO.- Se instruye a la Secretaría de Seguridad Pública de la Ciudad de México para que dentro del ámbito de sus atribuciones realice las acciones necesarias para la implementación del presente Decreto y de ser necesario la actualización de la normatividad institucional.
+
+G.O. 6 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día de su publicación.
