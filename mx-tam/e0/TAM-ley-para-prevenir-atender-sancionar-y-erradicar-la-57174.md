@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2018-07-31"
+last_updated: "2018-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -279,13 +279,13 @@ c) de naturaleza meramente civil.
 
 5. Al momento de otorgarlas, deberá considerarse el riesgo o peligro existente; la seguridad de la víctima, y los elementos con que se cuente.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 9 Bis.
 
-El hostigamiento sexual es el ejercicio abusivo del poder en la relación de subordinación real de la víctima frente al agresor, en los ámbitos laboral, escolar o cualquier otro; se manifiesta en conductas verbales o físicas o ambas, relacionadas con la sexualidad, de connotación lasciva.
+1. El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
 
-El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva de hecho a un estado de indefensión y de riesgo para la victima, independientemente de que se realice en uno o varios eventos.
+2. El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva de hecho a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 ###### Artículo 10.
 
@@ -383,9 +383,9 @@ g) La Secretaría de Seguridad Pública;
 
 h) La Procuraduría General de Justicia;
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
-i) El Instituto de la Mujer Tamaulipeca, quien ocupará la Secretaría Ejecutiva del Sistema;
+i) El Instituto de las Mujeres en Tamaulipas, quien ocupará la Secretaría Ejecutiva del Sistema;
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
 
@@ -567,7 +567,7 @@ h) brindar a las victimas la información integral sobre las instituciones públ
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
 
-i) proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de victimas atendidas y demás datos que se requieran en virtud de lo establecido en la presente ley; y
+i) proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas y demás datos que se requieran en virtud de lo establecido en la presente ley; y
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
 
@@ -671,7 +671,9 @@ h) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 20.
 
-1. Al Instituto de la Mujer Tamaulipeca le corresponde:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+1. Al Instituto de las Mujeres en Tamaulipas le corresponde:
 
 a) fungir como Secretaría Ejecutiva del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar con (sic) la Violencia contra las Mujeres, a través de su Directora General;
 
@@ -689,9 +691,15 @@ g) difundir ampliamente la cultura de respeto a los derechos humanos de las muje
 
 h) promover foros educativos, exposiciones de toda índole, programas radiofónicos o televisivos, obras de teatro, conferencias y todo método que sea útil para que la población en general conozca esta ley, los derechos humanos de la mujer y la importancia de respetarlos.
 
-i) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
-j) las demás que le confieren esta ley u otros ordenamientos aplicables.
+i) celebrar convenios de colaboración, coordinación y concertación en la materia;
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+j) monitorear y dar seguimiento al funcionamiento de los refugios, de acuerdo a los lineamientos del Modelo de Atención en Refugios para mujeres víctimas de violencia y sus hijas e hijos, para lo cual podrá solicitar la participación del Consejo Consultivo Ciudadano; y
+
+k) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
 
@@ -710,6 +718,10 @@ j) las demás que le confieren esta ley u otros ordenamientos aplicables.
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2015)</small>
 
 4. El Estado impulsará la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Nacional de Prevención, Atención, Sanción, y Erradicación de la Violencia contra las Mujeres.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+5. La autoridad Estatal o Municipal a cargo del funcionamiento de los Refugios, deberán prever la asignación de recursos correspondientes en el presupuesto de egresos de cada año.
 
 ###### Artículo 22.
 
@@ -734,6 +746,28 @@ h) en general, a ser educadas y apreciadas socialmente con independencia de cual
 2. En caso de que la víctima tenga descendientes menores de edad, podrá incorporarlos a su refugio por el tiempo que esto sea indispensable.
 
 3. El agresor deberá participar en los programas de reeducación integral, especializada y gratuita, previa disposición de la autoridad competente conforme a los Códigos de Procedimientos Civiles y de Procedimientos Penales para el Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 22 Bis.
+
+1. Los refugios deberán prestar a las víctimas y, en su caso, a sus hijas e hijos los siguientes servicios especializados y gratuitos:
+
+a) Hospedaje;
+
+b) Alimentación;
+
+c) Vestido y calzado;
+
+d) Asesoría jurídica;
+
+e) Apoyo psicológico;
+
+f) Servicios de trabajo social y gestoría para las mujeres y sus hijas e hijos; y
+
+g) Capacitación laboral y acompañamiento en su proceso de inserción en alguna actividad remunerada.
+
+2. Los refugios deberán contar con personal especializado en, atención a la violencia contra las mujeres desde la perspectiva de género, derechos humanos de las mujeres y protocolos de protección y seguridad.
 
 ###### Artículo 23.
 
@@ -898,3 +932,59 @@ P.O. 31 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LXXIII-538 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 9 BIS; 11, PÁRRAFO 3, INCISO I); 20, PÁRRAFO 1 E INCISO I); Y SE ADICIONA EL INCISO J), RECORRIENDO EL ACTUAL PARA SER K), DEL PÁRRAFO 1 DEL ARTÍCULO 20: EL PÁRRAFO 5 AL ARTÍCULO 21, Y EL ARTÍCULO 22 BIS, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Igualdad de Género en Tamaulipas, publicada en el Periódico Oficial del Estado, No. 28, del 8 de marzo de 2005, así como todas las reformas que haya sufrido durante su vigencia.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, materiales y presupuestales con que actualmente cuenta el organismo público descentralizado denominado Instituto de la Mujer Tamaulipeca, pasarán a formar parte del Instituto de las Mujeres en Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+En un plazo no mayor a 180 días posteriores a la publicación del presente Decreto, las autoridades facultadas deberán expedir el Reglamento de la Ley para la Igualdad de Género en Tamaulipas y publicarlo en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto de las Mujeres en Tamaulipas deberá presentar la propuesta del Programa Estatal para la Igualdad Sustantiva entre Mujeres y Hombres al Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Instituto de las Mujeres en Tamaulipas deberá elaborar y presentar la propuesta del Estatuto Orgánico, establecido en la presente Ley, en un plazo no mayor a 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+El Instituto de las Mujeres en Tamaulipas deberá elaborar los lineamientos establecidos en la Ley para la Igualdad de Género en Tamaulipas, en un plazo no mayor a 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+###### ARTÍCULO NOVENO.
+
+En un plazo no mayor a 180 días posteriores a la publicación del presente Decreto, las autoridades facultadas deberán expedir el Programa Estatal para la Igualdad Sustantiva entre Mujeres y Hombres y publicarlo en el Periódico Oficial del Estado.
+
+###### ARTÍCULO DÉCIMO.
+
+Para la adecuada implementación de la Ley para la Igualdad de Género en Tamaulipas que se expide mediante el presente Decreto, deberán considerarse las previsiones de recursos humanos, materiales y financieros a que haya lugar.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La Comisión de Derechos Humanos del Estado de Tamaulipas, realizará las reformas o adiciones a su Reglamento Interior de la Comisión de Derechos Humanos del Estado de Tamaulipas, dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, donde establecerá las funciones específicas del área encargada del seguimiento, evaluación y monitoreo en materia de igualdad entre mujeres y hombres.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las adecuaciones reglamentarias a que se refiere el artículo anterior y que al efecto realice la Comisión de Derechos Humanos del Estado de Tamaulipas en el ámbito de su competencia, deberán contemplar medidas tendentes a capacitar y especializar a las y los servidores públicos del área encargada del seguimiento, evaluación y monitoreo en materia de igualdad entre mujeres y hombres.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El área a que se refieren los artículos décimo y décimo primero transitorios del presente Decreto, iniciará sus funciones al momento de entrar en vigor las adecuaciones al Reglamento Interior de la Comisión de Derechos Humanos del Estado de Tamaulipas, con los recursos y la estructura que al efecto disponga ésta, de acuerdo con su presupuesto en vigor; sin perjuicio de las ampliaciones presupuestales que se propongan en términos de la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas, para los ejercicios fiscales subsecuentes y se aprueben en términos de la legislación aplicable.
