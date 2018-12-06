@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2018-07-31"
+last_updated: "2018-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,87 @@ state: "TAM"
 ---
 # LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES DEL ESTADO DE TAMAULIPAS
 
-LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 25 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2020 (ABROGADA).
 
-EUGENIO HERNÁNDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-LA QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN EL ARTICULO 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO; Y EL ARTÍCULO 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
 
-D E C R E T O No. LIX-959
+"NUMERO 182
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
+La H. LIV Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le concede el Artículo 27 de la Constitución Política Local, en nombre del Pueblo, decreta:
 
-### Capítulo I. Disposiciones Generales
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ENERO DE 1993)</small>
+
+LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES.
+
+### CAPITULO PRIMERO. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+
+###### ARTICULO 1o.
+
+Esta Ley es de orden público y de interés social y tiene por objeto el crear un organismo público descentralizado que se denominará Instituto de Educación de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+
+###### ARTICULO 2o.
+
+El Instituto que se crea con la presente Ley, tendrá personalidad jurídica y patrimonio propios, ejercerá funciones de autoridad y tendrá su domicilio en la Capital del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
+
+###### ARTICULO 3o.
+
+El objeto del Instituto será:
+
+I.- Asumir la responsabilidad política y la dirección relacionada con los servicios de educación básica, preescolar, primaria, secundaria, media superior, de educación normal y demás relativos para la formación y actualización de docentes, así como la educación especial, inicial, física y misiones culturales en el Estado de Aguascalientes, y los que en su oportunidad se decida sean incorporados, acatando lo dispuesto por el Artículo 7o. de la Ley General de Educación;
+
+II.- Planear, programar, organizar y supervisar las Instituciones de Educación Media, incluyendo todas aquellas modalidades propedéuticas, terminales o bivalentes cuya Dirección la Federación transfiera al Estado, con el objeto de que este nivel se integre eficazmente a los niveles de enseñanza básica y superior y, en su caso, al mercado de trabajo;
+
+III.- Evaluar la calidad, el desempeño y los resultados de la Educación Básica y Educación Media Superior que se imparte en el Estado, tanto pública como privada, en todas sus modalidades y servicios.
+
+IV.- Participar conjuntamente con el Instituto Nacional para la Evaluación de la Educación y la Secretaría de Educación Pública, en las actividades y mecanismos para llevar a cabo los procedimientos para el ingreso, promoción, reconocimiento y permanencia en el servicio público educativo y el impulso a la formación continua, de acuerdo a la Ley General del Servicio Profesional Docente.
+
+V.- Normar y supervisar las academias y demás centros de capacitación para el trabajo, registrados en el Instituto, con la finalidad de vincular al sector productivo;
+
+VI.- Propiciar la coordinación y planeación de la educación superior del Estado, dentro de las limitaciones que deriven de la autonomía y disposiciones jurídicas propias de las Instituciones de Educación Superior, a fin de lograr vincular eficazmente la educación con el empleo, las necesidades regionales y el aparato productivo; asimismo se buscará la coordinación con las instituciones formadoras y de actualización de docentes.
+
+###### ARTICULO 4o.
+
+El patrimonio del Instituto estará constituido por:
+
+I.- Los planteles y demás bienes muebles e inmuebles, con los que la Federación viene prestando el servicio educativo en el Estado de Aguascalientes;
+
+II.- Los recursos financieros que para su funcionamiento se requieran y que le serán aportados por los Gobiernos Federal, Estatal y Municipales;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
+
+III.- Las propiedades, posesiones y derechos que adquiera por cualquier titulo legal;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
+
+IV.- Las donaciones, herencias, legados y fideicomisos que se hicieren o se constituyeren en su favor; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+V.- Las utilidades o beneficios que obtenga en ejercicio de sus actividades;
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+Los bienes del dominio público muebles e inmuebles pertenecientes al Instituto serán de carácter imprescriptible e inembargable y sólo podrán ser objeto de actos de dominio, mediante acuerdo del Consejo Interior del Instituto.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+
+El régimen fiscal del Instituto se sujetará a lo dispuesto en las leyes de la materia, considerando en todo momento su naturaleza inminentemente social.
 
 ###### Artículo 1.
 
@@ -163,7 +225,75 @@ IX. Derechos Humanos de las Mujeres: Refiere a los derechos humanos contenidos e
 
 X. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
 
-### Capítulo II. Modalidades de la violencia
+### CAPITULO SEGUNDO. Organos de Gobierno
+
+###### ARTICULO 5o.
+
+El Instituto será regido en su funcionamiento por:
+
+I.- El Consejo Interior; y
+
+II.- La Dirección General.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
+
+###### ARTICULO 6o.
+
+El Consejo Interior se integrará por el Gobernador Constitucional del Estado quien lo presidirá y en su suplencia lo hará el Jefe de Gabinete, por el Secretario de Salud, el Secretario de Finanzas, El Coordinador Estatal de Planeación y Proyectos, y el Secretario de Infraestructura y Comunicaciones del Gobierno del Estado todos los demás integrantes podrán designar a sus respectivos suplentes.
+
+###### ARTICULO 7o.
+
+El Consejo Interior, además de las facultades que se le otorgan en el Artículo 41 de la Ley para el Control de Entidades Paraestatales del Estado de Aguascalientes, tendrá las siguientes:
+
+I.- Otorgar poderes al Director General del Instituto o a quienes estime necesario, para que se realicen actos de dministración (sic) adecuados para una eficiente organización y funcionamiento del organismo;
+
+II.- Emitir acuerdos de delegación de facultades a quienes estime necesario para el cumplimiento de los objetivos señalados en el punto anterior;
+
+III.- Aprobar los planes de trabajo, informes de actividades presupuestales y estados financieros que se propongan;
+
+IV.- Aprobar el Reglamento Interior, la organización general del Instituto, así como los criterios básicos en la prestación de los servicios educativos;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
+
+V.- Nombrar y remover a propuesta del Director General, a los servidores públicos que ocupen cargos en el segundo nivel jerárquico inferior al de aquél.
+
+VI.- Aprobar los proyectos de inversión que se propongan;
+
+VII.- Determinar la integración de los grupos de trabajo con carácter temporal; y
+
+VIII.- Las demás que sean necesarias para el adecuado ejercicio de las facultades señaladas.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1993)</small>
+
+###### ARTICULO 8o.
+
+El Consejo Interior celebrará sesiones ordinarias trimestrales, así como las extraordinarias que se requieran, en términos del Reglamento que para el efecto se apruebe.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2014)</small>
+
+###### ARTICULO 9o.
+
+El Director General será designado y removido por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+I.- Ser mexicano por nacimiento;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+II.- Ser mayor de 30 años;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+III.- Contar con título profesional o grado superior;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+IV.- Contar con residencia efectiva en el Estado de por lo menos 3 años anteriores al día de su designación; y
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
+
+V.- Tener experiencia en el sector educativo y con los méritos académicos y administrativos suficientes para el adecuado desempeño de sus funciones.
 
 ###### Artículo 4.
 
@@ -255,7 +385,9 @@ c). Lo soliciten las organizaciones de la sociedad civil, así como los organism
 
 Violencia mediática contra las mujeres es aquella que se ejerce mediante la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación local, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
 
-### Capítulo III. De las Órdenes de Protección
+### CAPITULO TERCERO. Organos de Vigilancia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 9.
 
@@ -287,337 +419,127 @@ El hostigamiento sexual es el ejercicio abusivo del poder en la relación de sub
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva de hecho a un estado de indefensión y de riesgo para la victima, independientemente de que se realice en uno o varios eventos.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-1. Son órdenes de protección de emergencia las siguientes:
+Serán facultades del Director General, además de las establecidas en los Artículos 15 y 42 de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, las siguientes:
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+I.- Ejecutar los acuerdos y disposiciones del Consejo Interior;
 
-a) desocupación inmediata por el agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+II.- Autorizar los actos de autoridad que el organismo ordene, delegando esa facultad en otros servidores públicos, previo acuerdo del Consejo Interior;
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1993)</small>
 
-b) prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+III.- Presentar al Consejo Interior los informes y estados financieros en forma trimestral;
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+IV.- Presentar al Consejo Interior, para su aprobación, los planes de trabajo, presupuestos, informes de actividades y estados financieros anuales del organismo;
 
-c) el propio reingreso de la víctima a su domicilio, hasta que se haya salvaguardado éste;
+V.- Expedir los nombramientos del personal y llevar las relaciones laborales de acuerdo a lo dispuesto por el Estatuto Jurídico de los Trabajadores al Servicio del Gobierno del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados en los términos establecidos en el Artículo 20 del presente ordenamiento; y
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-d) la prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia; y
+VI.- Planear, dirigir y controlar el funcionamiento del organismo en base a las instrucciones del Consejo Interior y podrá suscribir contratos o convenios con las dependencias federales, promover la participación de los padres de familia y los sectores sociales, en apoyo a los planteles educativos y supervisar y evaluar la operación de los mismos.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2007)</small>
 
-e) las que se remitan a las autoridades responsables de un centro de trabajo, solicitando se adopten medidas de protección y seguridad internas en favor de la víctima en los casos en que el probable agresor labore en el mismo lugar que ésta, sin afectar los derechos laborales de las partes, durante los efectos a los que se ciña la vigencia de la orden correspondiente.
-
-2. Son órdenes de protección preventivas las siguientes:
-
-a) la retención de cualquier arma de fuego, cortante, punzo-cortante o punzo-contundente del agresor, sean propias o las posea con motivo de prestación de servicios lícitos;
-
-b) la elaboración de un inventario de bienes muebles e inmuebles de propiedad o uso común, incluyendo los implementos de trabajo de la víctima;
-
-c) el uso y disfrute de bienes muebles que se encuentren en el inmueble que sirva de domicilio a la víctima;
-
-d) el apoyo policial a la víctima para tener acceso seguro al momento de tomar sus pertenencias personales y las de sus descendientes;
-
-e) la entrega inmediata de los objetos de uso personal y documentos de identidad de la víctima y de sus descendientes;
-
-f) el auxilio policial en favor de la víctima, con autorización para ingresar a su domicilio en su ayuda; y
-
-g) brindar servicios de reeducación de carácter integral, especializado y gratuito, con perspectiva de género al agresor, en instituciones públicas debidamente acreditadas.
-
-3. Son órdenes de protección de naturaleza civil las siguientes:
-
-a) la suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
-
-b) la prohibición al agresor de enajenar o gravar bienes de su propiedad cuando se trate de domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
-
-c) la posesión exclusiva de la víctima sobre el inmueble que sirve como domicilio particular; y
-
-d) la garantía de otorgar pensión alimenticia provisional e inmediata.
-
-4. Las órdenes de protección de naturaleza civil ameritan simultáneamente la promoción por la vía civil que corresponda al hecho de que se trate, sin demérito de que los titulares de los órganos jurisdiccionales valoren las órdenes de protección dictadas previamente o, en su caso, en ejercicio de sus atribuciones determinen las medidas pertinentes, pero siempre prefiriéndose las que brinden mayor protección a la víctima.
-
-### Capítulo IV. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
+### CAPITULO CUARTO. Régimen Laboral
 
 ### Capítulo V. De las atribuciones
 
-###### Artículo 11.
+###### ARTICULO 11.
 
-1. El Estado y los municipios se coordinarán para la integración y funcionamiento del Sistema Estatal, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+Como auxiliares inmediatos del Director General existirán en el organismo las siguientes Direcciones, Subdirecciones, Unidad y Coordinaciones de Apoyo.
 
-2. Las medidas que se implementen para logar (sic) su objeto deberán ser ajenas a cualquier práctica discriminatoria.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
 
-3. El Sistema Estatal se integrará con los titulares de:
+I.- Dirección de Planeación y Evaluación;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
 
-a) El Gobernador del Estado, quien lo presidirá;
+II.- Dirección de Educación Básica;
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
 
-b) La Secretaría de Bienestar Social;
+III.- Dirección de Educación Media y Superior;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-c) La Secretaría General de Gobierno;
+IV.- Dirección Jurídica;
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-d) La Secretaría del Trabajo;
+V.- Dirección de Finanzas y Administración;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-e) La Secretaría de Educación;
+VI.- Dirección de Formación, Actualización, Capacitación y Superación Profesional;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-f) La Secretaría de Salud;
+VII.- Dirección de Becas y Financiamiento Educativo;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-g) La Secretaría de Seguridad Pública;
+VIII.- Dirección de Comunicación Social;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-h) La Procuraduría General de Justicia;
+IX.- Unidad de Contraloría Interna;
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-i) El Instituto de la Mujer Tamaulipeca, quien ocupará la Secretaría Ejecutiva del Sistema;
+X.- Coordinación de Relaciones Públicas.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
 
-j) Los Sistemas para el Desarrollo Integral de la Familia del Estado y de los municipios; y
+El Consejo Interior en el ámbito de su competencia tendrá a bien determinar las oficinas que dependan del organigrama previsto en el presente Artículo que resulten suficientes y necesarios para la prestación del servicio educativo.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
 
-k) Los Institutos de la Mujer de los Municipios o las unidades administrativas con funciones similares;
+###### ARTICULO 12.
 
-4. A su vez, el Sistema Estatal se coordinará con el Sistema Nacional en términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y considerará las directrices que promueva en la materia, a fin de implementar acciones para ejercerlas en su ámbito de competencia.
+Atendiendo a los fines señalados en el Articulo 3° de la Constitución Política de los Estados Unidos Mexicanos, el criterio que orientará a toda la educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica, que imparta el Instituto, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente, la que se ejerce contra las mujeres y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de Gobierno. En consecuencia, la educación:
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+I.- Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en el, a la vez, el amor a la Patria y a SU Estado y la conciencia de la solidaridad internacional, en la independencia y en la justicia;
 
-5. Las ausencias del Gobernador serán suplidas por el Secretario de Bienestar Social, los demás integrantes del Sistema nombrarán a su respectivo suplente, quien deberá desempeñar una función del nivel administrativo inmediato inferior.
+II.- Será democrática, al considerar a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-###### Artículo 12.
+III.- Será nacional, en cuanto a que sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamientos (sic) de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-1. El Sistema Estatal impulsará el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, a que se refiere la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y sus acciones se realizarán en concordancia a los preceptos de ese ordenamiento, enriqueciéndolos, en su caso, con las premisas y circunstancias que deriven de los aspectos culturales y las costumbres en determinada región que sean útiles para salvaguardar el propósito de la presente ley estatal.
+IV.- Contribuirá a la mejor convivencia humana tanto por los elementos que aporte a fin de robustecer en el educando junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales y valores de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de razas, de religión, de grupos, de sexos, género o de individuos; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+V.- Será de calidad, entendiéndose por ésta, la congruencia entre los objetivos, resultados y procesos del Sistema Educativo conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad.
 
-2. En todo caso, el Sistema Estatal podrá asumir las atribuciones que establece el orden normativo de carácter general sobre una vida libre de violencia para las mujeres, considerando en forma enunciativa más no limitativa las siguientes:
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-II. Garantizar el principio de Transversalidad estipulado en la presente ley, de forma que en su aplicación se tomen en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-III. Educar y capacitar en materia de derechos humanos de la mujer y el respeto a la igualdad de género al personal encargado de la procuración de justicia, policías y demás servidores públicos encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-IV. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-V. Incorporar y fomentar programas de educación pública y privada, destinados a promover el respeto de los derechos y libertades fundamentales, entre las mujeres y los hombres;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-VI. Promover programas de prevención destinados a concientizar a la sociedad sobre las causas y consecuencias de la violencia contra la mujer;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-VII. Diseñar programas de atención y capacitación a víctimas de violencia contra la mujer, que les permita participar plenamente en todos los ámbitos de la vida;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-VIII. Promover y difundir en medios de comunicación y electrónicos la erradicación de todos los tipos de violencia contra la mujer y fortalecer el respeto a los derechos humanos, su dignidad e integridad;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-IX. Propiciar la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-X. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas; y
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-XI. Promover la cultura de denuncia de violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
 
 ### Capítulo VI. De la atención y refugio para víctimas
 
-###### Artículo 13.
+###### ARTICULO 13.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+El Instituto impartirá los planes y programas de estudio destinados a la educación básica, media superior y normal, mismos que sean proporcionados por la Secretaría de Educación Pública, el Instituto podrá proponer su ampliación, modificación o perfeccionamiento de acuerdo a las necesidades de la región.
 
-1. Corresponde al Ejecutivo Estatal, por conducto de la Secretaría de Bienestar Social:
+###### ARTICULO 14.
 
-a) garantizar el pleno ejercicio de las mujeres a una vida libre de violencia, vigilando el cumplimiento de la presente ley;
+Para el debido cumplimiento de los objetivos del Instituto, a través de sus representantes legales, solicitará el apoyo de las autoridades competentes del Estado y de sus Municipios, quienes lo brindarán cuando tales solicitudes estén debidamente fundadas y motivadas.
 
-b) conducir la política estatal integral desde la perspectiva de género, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, considerándose al efecto los términos de la política nacional de la materia;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2000)</small>
 
-c) fomentar el desarrollo social con una visión integral que garantice a las mujeres una vida libre de violencia;
+###### ARTICULO 15.
 
-d) impulsar la promoción, el conocimiento y el respeto de los derechos humanos de las mujeres;
+El Control Escolar relativo a inscripciones, reinscripciones, registros, acreditación, certificación y/o revalidación de estudios, así como la expedición de títulos profesionales en los niveles y modalidades educativas de formación y actualización de docentes serán responsabilidad del Instituto.
 
-e) contribuir al funcionamiento y consolidación del Sistema Estatal;
+###### ARTICULO 16.
 
-f) efectuar acciones encaminadas a mejorar las condiciones de vida de las mujeres;
+El órgano de vigilancia del Instituto estará integrado por un Comisario Público, con su respectivo suplente, y ambos serán designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado.
 
-g) promover políticas de igualdad de condiciones entre hombres y mujeres, que tiendan a la eliminación de las desproporciones y desequilibrio de género;
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
 
-h) celebrar convenios de colaboración, coordinación y concertación en la materia;
+Corresponde a la Unidad de Contraloría Interna del Instituto lo relativo a planear, organizar y realizar las auditorías a las áreas y a los funcionarios dependientes del Instituto, lo anterior en apego al Artículo 45 fracción III de la Ley para el Control de las Entidades Paraestatales y lo establecido en la Ley de Responsabilidades de los Servidores Públicos.
 
-i) participar en la elaboración del Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres a que refiere la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
 
-j) promover, en coordinación con la Federación, programas y proyectos de atención, educación, derechos humanos de las mujeres y erradicación de la violencia en su contra, en los términos del Programa referido en el inciso anterior;
+###### ARTICULO 17.
 
-k) difundir ampliamente la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y esta ley;
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
-
-l) revisar y evaluar la eficiencia y eficacia de los avances de las políticas públicas y los programas instrumentados en torno al respeto hacia las mujeres y su derecho a una vida libre de violencia;
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
-
-m) establecer políticas públicas, en coordinación con los Municipios, para que las condiciones de los espacios públicos constituyan entornos libres de violencia contra las mujeres, y
-
-n) las demás que le confieren esta ley u otros ordenamientos aplicables.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
-
-2. La coordinación general de las acciones del Ejecutivo del Estado en esta materia se realizarán por la Secretaría de Bienestar Social. A través de esta dependencia estatal, el Ejecutivo del Estado ejercerá las atribuciones que establecen las fracciones III, V, VIII, XI, XII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
-
-###### Artículo 14.
-
-1. A la Secretaría de Seguridad Pública, le corresponde:
-
-a) instrumentar cursos de capacitación al personal administrativo y operativo, que les permita atender responsablemente los casos de violencia contra las mujeres;
-
-b) integrar un archivo que contenga los antecedentes, circunstancias, acciones y resultados de los casos de violencia contra las mujeres de que conozca;
-
-c) formular acciones y programas de concientización orientados a fomentar la cultura de respeto a los derechos humanos de las mujeres y la ausencia de violencia en su contra;
-
-d) proveer de la ayuda necesaria a las diversas instancias que lo soliciten, para preservar la integridad física de las mujeres;
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
-
-e) celebrar convenios de colaboración, coordinación y concertación en la materia;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-f) tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-g) establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-h) ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-i) participar en el diseño, con una visión transversal, de la política estatal integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-j) establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
-
-k) las demás que le confieren esta ley u otros ordenamientos aplicables.
-
-###### Artículo 15.
-
-1. A la Procuraduría General de Justicia le corresponde:
-
-a) instrumentar cursos de capacitación que provean personal profesional para atender los casos de violencia contra las mujeres;
-
-b) ofrecer orientación y asesoría a las mujeres víctimas de cualquier tipo o modalidad de violencia, con objeto de alentar su atención y protección;
-
-c) dictar las medidas inmediatas para que la mujer víctima de la violencia reciba atención médica de urgencia, cuando sea el caso;
-
-d) promover la cultura de respeto a los derechos humanos de las mujeres;
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
-
-e) celebrar convenios de colaboración, coordinación y concertación en la materia;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-f) garantizar la seguridad de las mujeres que denuncian;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-g) proporcionar a las mujeres información objetiva que les permita tener plena conciencia de su situación de víctima;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-h) brindar a las victimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-i) proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de victimas atendidas y demás datos que se requieran en virtud de lo establecido en la presente ley; y
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
-
-j) las demás que le confieren esta ley u otros ordenamientos aplicables.
-
-###### Artículo 16.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
-
-1. A la Secretaría de Salud le corresponde:
-
-a) diseñar instrumentos para la política de prevención y atención de la violencia contra la mujer, como parte integral de la política de salud destinada a las mujeres;
-
-b) brindar atención médica y psicológica a las mujeres víctimas de la violencia, por medio de las instituciones públicas del sector salud, sin demérito de lo que dispongan las normas de protección a las víctimas del delito;
-
-c) proporcionar capacitación en materia de atención a las mujeres víctimas de violencia, al personal de las instancias públicas que lo soliciten;
-
-d) generar un archivo de datos que contengan los hechos relativos a violencia contra las mujeres atendidas por el sector salud, la manifestación y modalidad de violencia, sus efectos y los recursos erogados en su atención; esta información la compartirá con las instancias competentes cuando la soliciten;
-
-e) celebrar convenios de colaboración, coordinación y concertación en la materia; y
-
-f) las demás que le confieran esta ley u otros ordenamientos aplicables.
-
-###### Artículo 17.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
-
-1. A la Secretaría de Educación le corresponde:
-
-a) consolidar las políticas educativas que se establezcan en el ámbito federal para prevenir la violencia contra la mujer y diseñar las políticas estatales en la materia, así como aplicarlas en el Estado;
-
-b) capacitar al personal docente y administrativo en el conocimiento, respeto y difusión de los derechos de la mujer a una vida libre de violencia;
-
-c) incorporar en los programas educativos la difusión y enseñanza del respeto de los derechos humanos de las mujeres;
-
-d) implementar campañas publicitarias que orienten a la erradicación de la violencia contra las mujeres;
-
-e) garantizar acciones y mecanismos que favorezcan el progreso de las mujeres en todas las etapas del proceso educativo;
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
-
-f) celebrar convenios de colaboración, coordinación y concertación en la materia;
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
-
-g) implementar acciones educativas destinadas a prevenir y atender la violencia contra las mujeres en la comunidad para identificar los actos constitutivos de delitos; y
-
-h) las demás que le confieran esta ley u otros ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerza el presupuesto asignado en los rubros de gasto corriente, sueldos, prestaciones, inversiones y gastos en general.
 
 ###### Artículo 17 Bis.
 
@@ -641,59 +563,109 @@ h) establecer, utilizar, supervisar y mantener todos los instrumentos y acciones
 
 i) las demás previstas para el cumplimiento de la presente ley.
 
-###### Artículo 18.
+###### ARTICULO 18.
 
-1. A los Sistemas para el Desarrollo Integral de la Familia del Estado y de los Municipios, en el ámbito de sus respectivas competencias, les corresponde:
+No podrán tener carácter de comisarios, ni titular ni suplente:
 
-a) coadyuvar de manera integral, coordinada y directa al cumplimiento de las disposiciones de esta ley;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-b) participar activamente en el diseño de estrategias y programas que garanticen el respeto de los derechos humanos de las mujeres y promuevan la erradicación de la violencia en su contra, en los términos que se les soliciten las instancias facultadas para ello;
+I.- Los servidores públicos que presten sus servicios en el Instituto;
 
-c) proveer de refugios para víctimas, así como de provisiones de alimentación indispensables para aquéllas y sus familiares, cuando así lo requieran justificadamente;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-d) promover programas de concientización de las comunidades para el respeto de los derechos humanos de la mujer;
+II.- Los parientes consanguíneos del Director General en línea recta ascendente y descendente, sin limitación de grado; los colaterales dentro del cuarto grado, y los afines, dentro del segundo; y
 
-e) establecer programas regenerativos para quienes ejerzan actos de violencia contra las mujeres;
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-f) coadyuvar en la adopción y consolidación del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+III.- Aquella persona que haya sido sentenciada por delitos contra el patrimonio.
 
-g) celebrar convenios de colaboración coordinación y concertación en la materia; y
+###### ARTICULO 19.
 
-h) las demás que le confieran esta ley u otros ordenamientos aplicables.
+Son facultades y obligaciones del comisario:
 
-###### Artículo 19.
+I.- Solicitar al Director General los estados financieros que se elaboren, así como los anexos correspondientes;
 
-1. Las corporaciones policiales preventivas de los municipios del Estado cumplirán las instrucciones relacionadas con esta ley que dispongan las autoridades administrativas competentes.
+II.- Inspeccionar los libros, registros, sistemas de cómputo y demás documentos del Instituto, informando al Consejo Interior de las irregularidades que se encuentren;
 
-2. A su vez, con base en el orden jurídico aplicable, auxiliarán a las mujeres víctimas de violencia en la forma más amplia que les sea posible.
+III.- Intervenir en la información y revisión de los estados financieros de fin de ejercicio;
 
-3. También integrarán una base de datos que contenga todos los aspectos relacionados con la violencia en contra de las mujeres.
+IV.- Solicitar se convoque a sesiones ordinarias o extraordinarias del Consejo Interior, cuando lo juzgue pertinente;
 
-###### Artículo 20.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-1. Al Instituto de la Mujer Tamaulipeca le corresponde:
+V.- Asistir a las sesiones del Consejo Interior en las que tendrá voz, pero no voto;
 
-a) fungir como Secretaría Ejecutiva del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar con (sic) la Violencia contra las Mujeres, a través de su Directora General;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-b) integrar los expedientes que contengan las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención, sanción y erradicación de ese fenómeno;
+VI.- Presentar quejas o denuncias ante la Secretaría de Fiscalización y Rendición de Cuentas del Estado y en su caso ante la Comisión de Vigilancia o el Órgano Superior de Fiscalización del Congreso del Estado;
 
-c) proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que considere pertinentes, para contribuir a prevenir, atender, sancionar y erradicar la violencia en contra de las mujeres;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2014)</small>
 
-d) colaborar en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+VII.- Informar al Consejo Interior de los Estados Financieros del Instituto así como de las irregularidades que se encuentren; y
 
-e) canalizar a las mujeres víctimas de la violencia a programas de reeducación de carácter integral, especializado y gratuito, con objeto de que puedan participar activamente en la vida pública, privada y social;
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2014)</small>
 
-f) promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
+VIII.- Las demás que le encomiende el Consejo Interior y las que se determinen en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
-g) difundir ampliamente la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia y de seguridad pública, garanticen la integridad física de quienes sean víctimas o denunciantes de violencia en contra de las mujeres.
+###### ARTICULO 20.
 
-h) promover foros educativos, exposiciones de toda índole, programas radiofónicos o televisivos, obras de teatro, conferencias y todo método que sea útil para que la población en general conozca esta ley, los derechos humanos de la mujer y la importancia de respetarlos.
+Las relaciones de trabajo entre el Instituto y su personal, se regirán por las condiciones generales de trabajo, emitidas el 4 de enero de 1946 por el titular del Poder Ejecutivo Federal y por las disposiciones del Estatuto Jurídico de los Trabajadores al Servicio del Gobierno del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, en términos del convenio celebrado entre el Sindicato Nacional de Trabajadores de la Educación y el Gobierno del Estado de Aguascalientes, de fecha 18 de mayo de 1992.
 
-i) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+TRANSITORIOS:
 
-j) las demás que le confieren esta ley u otros ordenamientos aplicables.
+PRIMERO.- La presente Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
+SEGUNDO.- El Instituto, en un término de SEIS MESES, contados a partir de la entrada en vigencia de la presente Ley, convendrá con la Secretaría de Desarrollo Urbano y Ecología o su equivalente, los traslados de dominio de los bienes inmuebles pertenecientes a la Federación y que están siendo utilizados en el servicio educativo básico y de normal, para que pasen a formar parte de su patrimonio.
+
+TERCERO.- Los trabajadores que se transfieren al Instituto con motivo del Acuerdo Nacional para la Modernización de la Educación Básica, seguirán recibiendo y gozando de todas las prestaciones que les proporciona el Instituto de Servicios y Seguridad Social de los Trabajadores al Servicio del Estado, incluyendo los beneficios del FOVISSSTE, y se les reconoce la titularidad de las relaciones laborales a su agrupación sindical, en los términos de sus estatutos y del convenio suscrito entre el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Educación y el Gobierno del Estado.
+
+CUARTO.- El Reglamento que regule las funciones del organismo que con éste instrumento se crea, se expedirá por el Consejo Interior en un término que no exceda de NOVENTA DIAS, contados a partir de la entrada en vigencia de la presente Ley.
+
+QUINTO.- Se abroga la Ley de Educación Primaria y Preparatoria del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado, el 1o. de enero de 1934, y su correspondiente reglamento.
+
+SEXTO.- Se abroga la Ley de Enseñanza Normal y de Educadoras del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado, el 1o. de enero de 1934, y su correspondiente reglamento.
+
+Al Ejecutivo para su sanción.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado a los cinco días del mes de junio de mil novecientos noventa y dos.- D.P., Lic. Mario Garza Elizondo.- S.D., Antonio Reyna Santoyo.- D.P.S.- Profra. Raquel Robles Olivares.- Rúbricas".
+
+Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+DIPUTADO PRESIDENTE,
+
+Lic. Mario Garza Elizondo.
+
+DIPUTADO SECRETARIO,
+
+Antonio Reyna Santoyo.
+
+DIPUTADA PROSECRETARIA,
+
+Raquel Robles Olivares.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Aguascalientes, Ags., 5 de junio de 1992.
+
+Miguel Angel Barberena Vega.
+
+EL SECRETARIO GENERAL DE GOBIERNO,
+
+Ing. José de Jesús Infante de Alba.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ENERO DE 1993.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En tanto se expidan las disposiciones reglamentarias del presente Decreto serán aplicables las disposiciones que no se opongan a la Ley y al Reglamento vigente.
+
+P.O. 31 DE ENERO DE 2000.
 
 ### Capítulo VII. De las Responsabilidades y Sanciones
 
@@ -791,33 +763,37 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL 
 
 P.O. 26 DE MAYO DE 2011.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 24 DE SEPTIEMBRE DE 2013
+P.O. 28 DE JUNIO DE 2004.
 
-###### ARTÍCULO PRIMERO.
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2007.
+
+###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+Se derogan todas las disposiciones que se oponen al presente Decreto.
 
-P.O. 6 DE MARZO DE 2014.
+P.O. 17 DE FEBRERO DE 2003.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+las (sic) presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 15 DE ABRIL DE 2014.
+P.O. 19 DE JULIO DE 2010.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO ÚNICO.
 
-El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-P.O. 17 DE DICIEMBRE DE 2014.
+P.O. 25 DE MAYO DE 2020.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -837,7 +813,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
 P.O. 17 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-733 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3 PÁRRAFO ÚNICO, 12 PÁRRAFO 2; Y SE ADICIONAN LOS ARTÍCULOS 3 BIS Y LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X Y XI AL PÁRRAFO 2 DEL ARTÍCULO 12, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -898,3 +874,47 @@ P.O. 31 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 11 DE MARZO DE 2014.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto de Educación de Aguascalientes al que se hace mención en la presente Ley, para todo efecto a que haya lugar, es el mismo organismo público descentralizado de la Administración Pública Estatal a que se refiere la Ley del Instituto de Educación de Aguascalientes, emitida mediante el Decreto Número 182, publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 07 de junio de 1992, en consecuencia, conservará los recursos humanos, financieros y materiales.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades correspondientes deberán respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas existentes con el Sindicato Nacional de Trabajadores de la Educación, en los términos de su registro vigente, en los términos de las disposiciones legales correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Director General del Instituto de Educación de Aguascalientes deberá inscribir el presente ordenamiento en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
+
+ARTÍCULO SÉPTIMO El Consejo Interior del Instituto de Educación de Aguascalientes deberá expedir las adecuaciones al Reglamento Interior del Instituto de Educación de Aguascalientes, a que se refiere la presente Ley en un término que no exceda de 120 días naturales.
+
+###### ARTÍCULO OCTAVO.
+
+El Consejo Interior del Instituto de Educación de Aguascalientes deberá realizar las adecuaciones necesarias a la demás normatividad interna aplicable a este Organismo Descentralizado, con motivo de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, el Consejo Interior de la Entidad Paraestatal que nos ocupa deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Instituto de Educación de Aguascalientes, emitida por virtud del Decreto Número 182, publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 07 de junio de 1992, así como sus reformas y adiciones.
