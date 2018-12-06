@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-antes-ley-para-442
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-08"
-last_updated: "2018-07-31"
+last_updated: "2018-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY PARA LA IGUALDAD DE GENERO EN TAMAULIPAS -ANTES LEY PARA LA EQUIDAD DE GENERO EN TAMAULIPAS-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NO. LXIII-538 MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 8 de marzo de 2005.
 
@@ -1066,3 +1068,59 @@ P.O. 31 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-538 MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS; Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Igualdad de Género en Tamaulipas, publicada en el Periódico Oficial del Estado, No. 28, del 8 de marzo de 2005, así como todas las reformas que haya sufrido durante su vigencia.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, materiales y presupuestales con que actualmente cuenta el organismo público descentralizado denominado Instituto de la Mujer Tamaulipeca, pasarán a formar parte del Instituto de las Mujeres en Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+En un plazo no mayor a 180 días posteriores a la publicación del presente Decreto, las autoridades facultadas deberán expedir el Reglamento de la Ley para la Igualdad de Género en Tamaulipas y publicarlo en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto de las Mujeres en Tamaulipas deberá presentar la propuesta del Programa Estatal para la Igualdad Sustantiva entre Mujeres y Hombres al Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Instituto de las Mujeres en Tamaulipas deberá elaborar y presentar la propuesta del Estatuto Orgánico, establecido en la presente Ley, en un plazo no mayor a 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+El Instituto de las Mujeres en Tamaulipas deberá elaborar los lineamientos establecidos en la Ley para la Igualdad de Género en Tamaulipas, en un plazo no mayor a 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+###### ARTÍCULO NOVENO.
+
+En un plazo no mayor a 180 días posteriores a la publicación del presente Decreto, las autoridades facultadas deberán expedir el Programa Estatal para la Igualdad Sustantiva entre Mujeres y Hombres y publicarlo en el Periódico Oficial del Estado.
+
+###### ARTÍCULO DÉCIMO.
+
+Para la adecuada implementación de la Ley para la Igualdad de Género en Tamaulipas que se expide mediante el presente Decreto, deberán considerarse las previsiones de recursos humanos, materiales y financieros a que haya lugar.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La Comisión de Derechos Humanos del Estado de Tamaulipas, realizará las reformas o adiciones a su Reglamento Interior de la Comisión de Derechos Humanos del Estado de Tamaulipas, dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, donde establecerá las funciones específicas del área encargada del seguimiento, evaluación y monitoreo en materia de igualdad entre mujeres y hombres.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las adecuaciones reglamentarias a que se refiere el artículo anterior y que al efecto realice la Comisión de Derechos Humanos del Estado de Tamaulipas en el ámbito de su competencia, deberán contemplar medidas tendentes a capacitar y especializar a las y los servidores públicos del área encargada del seguimiento, evaluación y monitoreo en materia de igualdad entre mujeres y hombres.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El área a que se refieren los artículos décimo y décimo primero transitorios del presente Decreto, iniciará sus funciones al momento de entrar en vigor las adecuaciones al Reglamento Interior de la Comisión de Derechos Humanos del Estado de Tamaulipas, con los recursos y la estructura que al efecto disponga ésta, de acuerdo con su presupuesto en vigor; sin perjuicio de las ampliaciones presupuestales que se propongan en términos de la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas, para los ejercicios fiscales subsecuentes y se aprueben en términos de la legislación aplicable.
