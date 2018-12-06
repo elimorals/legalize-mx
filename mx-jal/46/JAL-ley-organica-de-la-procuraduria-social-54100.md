@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2018-09-13"
+last_updated: "2018-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA PROCURADURIA SOCIAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE DICIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
 
 LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -99,9 +101,9 @@ c) Representar y tutelar los derechos e intereses de las personas incapaces mayo
 
 d) Las demás que establezcan las leyes;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
-IV. Practicar las visitas de inspección a las notarías públicas en el Estado, a las oficinas del Registro Civil y del Registro Público de la Propiedad, Reclusorios y Organismos Asistenciales, en la forma y términos que determinen las leyes; y
+IV. Practicar las visitas de inspección a las oficinas del Registro Civil y del Registro Público de la Propiedad, Reclusorios y Organismos Asistenciales, en la forma y términos que determinen las leyes; y
 
 > <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2009)</small>
 
@@ -581,11 +583,11 @@ Los defensores públicos y los agentes sociales de la Procuraduría Social deber
 
 ### Capítulo Primero. De la Dirección General de Visitaduría
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-La Dirección General de Visitaduría es el área encargada de practicar las visitas de inspección a las notarías públicas en el Estado, las oficinas del Registro Civil y del Registro Público de la Propiedad, cárceles municipales y estatales, centros de internamiento especializados en adolescentes, instituciones que atiendan a niñas, niños y adolescentes, organismos de asistencia social en la forma y los términos que determinen las leyes; realizar las funciones de inspección y vigilancia que las leyes confieren a la Procuraduría Social, en los procedimientos administrativos no contenciosos; y le corresponde substanciar los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Procuraduría Social para su resolución definitiva.
+La Dirección General de Visitaduría es el área encargada de practicar las visitas de inspección a las oficinas del Registro Civil y del Registro Público de la Propiedad, cárceles municipales y estatales, instituciones que atiendan a niñas, niños y adolescentes, organismos de asistencia social en la forma y los términos que determinen las leyes; realizar las funciones de inspección y vigilancia que las leyes confieren a la Procuraduría Social, en los procedimientos administrativos no contenciosos; y le corresponde substanciar los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Procuraduría Social para su resolución definitiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
@@ -637,7 +639,9 @@ VI. Organizar las visitas externas ordinarias, extraordinarias, generales o espe
 
 VII. Denunciar hechos que puedan constituir falta (sic) administrativas, hechos que pudieran ser causa de responsabilidad administrativa, política o penal, cuando se tenga conocimiento de ellos con motivo del ejercicio de sus atribuciones, a fin de que sean sancionados por las autoridades competentes;
 
-VIII. Organizar la práctica de visitas de inspección a notarios, oficinas del Registro Civil y del Registro Público de la Propiedad, para los fines que determinen las leyes aplicables, en la forma y términos en que éstas lo dispongan;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
+
+VIII. Organizar la práctica de visitas de inspección a las oficinas del Registro Civil y del Registro Público de la Propiedad, para los fines que determinen las leyes aplicables, en la forma y términos en que éstas lo dispongan;
 
 IX. (DEROGADA, P.O. 7 DE FEBRERO DE 2009)
 
@@ -1002,3 +1006,19 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
+
+P.O. 6 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27218/LXII/18 QUE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO Y LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El Presente decreto entrará en vigor el día 6 de diciembre de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría competente, una vez publicado el presente decreto, deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestales y administrativas correspondientes para dar cumplimiento efectivo a lo aquí dispuesto. Incluido en su caso, la readscripción del personal de la Procuraduría Social encargada de practicar las visitas a las notarías públicas, a la Secretaría General de Gobierno.
+
+TERCERO. Se dejan sin efecto todos los ordenamientos que se opongan al presente decreto.
+
+CUARTO. Todas las atribuciones previstas en cualquier ordenamiento que refiera o vincule a la Procuraduría Social, relativas a las visitas a las notarías públicas, a la entrada en vigor del presente, se entenderán referidas y conferidas a la Secretaría General de Gobierno.
+
+QUINTO. Las órdenes emitidas para practicar visitas de inspección a notarías públicas, así como las visitas en práctica que hasta antes de la entrada en vigor del presente decreto estaban siendo substanciadas por la Procuraduría Social, continuarán siendo desahogadas por la Secretaría General de Gobierno hasta su conclusión.
+
+Por su parte, los procedimientos de queja, así como cualquier trámite procedimiento vinculado a la función notarial, que hasta antes de la entrada en vigor del presente Decreto estaban siendo substanciados por la Secretaría General de Gobierno, continuarán siendo tramitados por dicha Secretaría; y los trámites y procedimientos vinculados a la función notarial que den inicio de forma posterior a la entrada en vigor del presente decreto serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
