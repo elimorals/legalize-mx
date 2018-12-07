@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2018-04-20"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -725,7 +725,9 @@ Son comisiones ordinarias:
 
 I. Gobernación y Puntos Constitucionales;
 
-II. Investigación Legislativa;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+II. Régimen Interno y Prácticas Parlamentarias;
 
 III. Justicia y Derechos Humanos;
 
@@ -814,6 +816,10 @@ II. Suspensión o Desaparición de Ayuntamientos;
 III. Condecoraciones, Ceremonial y Protocolo; y
 
 IV. Las de Investigación.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+V. Parlamento Infantil y Juvenil del Estado de Nayarit.
 
 Estas comisiones podrán ampliarse o disminuirse por acuerdo de la Asamblea, su funcionamiento será transitorio y en términos generales se regirán por las disposiciones ya señaladas, con excepción de lo que disponen la Constitución local y las leyes respectivas en relación con las comisiones de Gran Jurado y la de Suspensión o Desaparición de Ayuntamientos.
 
@@ -1629,6 +1635,22 @@ P.O. 1 DE NOVIEMBRE DE 2017.
 
 P.O. 20 DE ABRIL DE 2018.
 
-[N. DE E TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT".]
+[N. DE E TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+[N. DE E TRANSITORIOS DEL "DECRETO QUE REFORMA EL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. En un plazo que no exceda de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, el Congreso del Estado analizará las iniciativas turnadas pendientes de dictaminar, con el objetivo de proceder con el nuevo turno de acuerdo a las reformas planteadas en el Decreto.
+
+TERCERO. La Comisión de Régimen Interno y Prácticas Parlamentarias creada en el presente Decreto, celebrará una reunión para efecto de su instalación en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
