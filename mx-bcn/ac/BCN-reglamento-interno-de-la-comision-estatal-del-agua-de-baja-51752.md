@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-comision-estatal-del-agua-de-baja-5175
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-01"
-last_updated: "2010-10-29"
+last_updated: "2018-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DEL AGUA DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DEL AGUA DE BAJA CALIFORNIA
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DEL AGUA DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de septiembre de 2006.
 
@@ -209,6 +209,10 @@ d. Unidad de Comunicación Social y Relaciones Públicas
 
 e. Unidad de Planeación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+f. Órgano Interno de Control
+
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
 
 II. Dirección de Proyectos y Construcción
@@ -247,6 +251,10 @@ d. (DEROGADO, P.O. 29 DE OCTUBRE DE 2010)
 
 e. (DEROGADO, P.O. 29 DE OCTUBRE DE 2010)
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 19 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Comisión Estatal del Agua de Baja California, contará con un Comité de Transparencia y una unidad de transparencia, las cuales se organizaran y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
 ###### ARTÍCULO 20.
@@ -276,6 +284,10 @@ d. Unidad de Comunicación Social y Relaciones Públicas.
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE OCTUBRE DE 2010)</small>
 
 e. Unidad de Planeación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+f. Órgano Interno de Control
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
 
@@ -495,7 +507,55 @@ VIII. Coordinar y difundir el programa de Cultura del Agua del organismo y parti
 
 IX. Participar en radio-tribunas y programas de televisión para informar y orientar sobre las acciones en materia del agua que realiza el organismo, y
 
-X. Las demás facultades que le confiera el Director General y las disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+X. Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+XI. Las demás facultades que le confiera el Director General y las disposiciones legales administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 23.
+
+BIS.- (SIC) Corresponde al Órgano Interno de Control de la Comisión Estatal del Agua de Baja California para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la CEA y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la CEA;
+
+III. Revisar que las operaciones presupuestales que realice la CEA, se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+IV. Requerir a las unidades administrativas de la CEA que correspondan, el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías, verificaciones y revisiones, y formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+V. Informar al titular de la CEA sobre los resultados de las revisiones, auditorías y verificaciones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+VI. Asistir a reuniones del Subcomité de Adquisiciones de la CEA, y vigilar que ésta última realice las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y de obra pública, equipamiento, suministros y servicios con apego a las leyes en la materia;
+
+VII. Requerir a terceros que hubieran contratado bienes o servicios con la CEA la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IX. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental las políticas para simplificar y homogeneizar sus funciones;
+
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la CEA cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+XI. Requerir a los servidores públicos de la CEA, información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XIII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
+
+XIV. Coadyuvar en el programa de actualización del marco de actuación de la CEA, en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen, y
+
+XV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 23.
+
+TER.- (SIC) El Órgano Interno de Control contará con el personal y los recursos necesarios, que garanticen el ejercicio independiente de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE OCTUBRE DE 2010)</small>
 
@@ -837,7 +897,7 @@ IV. Supervisar los trabajos de mantenimiento de obra civil que realice el person
 
 V. Participar e informar en la vigilancia de los derechos de vía de los acueductos responsabilidad de la CEA;
 
-VI. Elaborar registros históricos para evaluar el comportamiento de maquinaría y equipo;
+VI. Elaborar registros históricos para evaluar el comportamiento de maquinaria y equipo;
 
 VII. Analizar y proponer las modificaciones a las instalaciones de obra civil para mejorar el sistema responsabilidad de la CEA;
 
@@ -867,13 +927,21 @@ VI. Coordinar los levantamientos físicos de inventarios, así como su conciliac
 
 VII. Coordinar y dar seguimiento a las relaciones laborales del personal de la CEA, así como establecer los lineamientos de perfeccionamiento de la administración y desarrollo del personal;
 
-VIII. Administrar y dar seguimiento financiero a los contratos de obra;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
 
-IX. Coordinar los diagnósticos de cada uno de los organismos operadores y diseñar planes estratégicos para lograr los objetivos de los mismos;
+VIII. Dar seguimiento financiero a los contratos de obra con inversión de recursos propios del Organismo;
 
-X. Coadyuvar con los organismos operadores del agua en el mejoramiento de sus procedimientos;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
 
-XI. Recomendar mejoras en los controles estadísticos o indicadores de gestión en los organismos operadores del agua en el Estado;
+IX. Diseñar planes estratégicos para el logro de objetivos de la CEA;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+X. Coadyuvar con las unidades administrativas del Organismo para el mejoramiento de sus procedimientos;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+XI. Recomendar mejoras en los controles estadísticos o indicadores de gestión de las unidades administrativas;
 
 XII. Determinar las políticas y prioridades enfocadas al aprovechamiento óptimo de los recursos en términos de adquisición, prestación de servicios y suministro de bienes de consumo y a los diferentes conceptos del gasto e incorporar esquemas financieros con base a los recursos disponibles en la CEA;
 
@@ -887,15 +955,19 @@ XVI. Presentar con oportunidad a la Junta Directiva, Secretaría de Planeación 
 
 XVII. Obtener y proporcionar información de la aplicación de los recursos financieros de los diversos programas de infraestructura hidráulica en el Estado de Baja California;
 
-XVIII. Administrar los proyectos de infraestructura hidráulica y saneamiento ambiental de Baja California y los créditos bancarios que se generen por los mismos para el Estado;
+XVIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2018)
 
 XIX. Participar en la evaluación para contratar los servicios, cuando así se requiera, con contratistas y proveedores para el desempeño de actividades de consultaría, proyectos, mantenimiento de las instalaciones y equipos de la Comisión y vigilar su cumplimiento en tiempo y de acuerdo a las especificaciones contratadas;
 
 XX. Realizar evaluaciones financieras, económicas y sociales de los proyectos de nuevas fuentes de abastecimiento de agua para Baja California;
 
-XXI. Elaborar y proponer proyectos de inversión sobre fuentes de financiamiento y las formas de pago de los compromisos financieros de los organismos operadores y de la propia CEA;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
 
-XXII. Supervisar los ingresos, egresos y cuentas por cobrar de los organismos operadores de agua en el Estado, así como su desempeño financiero, y
+XXI. Elaborar y proponer proyectos de inversión sobre fuentes de financiamiento y las formas de pago de los compromisos financieros de la CEA;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+XXII. Gestionar el cobro de Cuentas por Cobrar, ante los organismos operadores de agua en el Estado, u otros organismos que pudieran generar adeudos con la CEA, y
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
 
@@ -1065,7 +1137,9 @@ IX. Coordinar el presupuesto y el programa de actividades de la CEA;
 
 X. Presentar para su análisis, discusión y aprobación en su caso el proyecto de reglamento interno de la CEA, así como sus futuras modificaciones;
 
-XI. Designar a los Directores de Área, Jefes de Unidad y Jefes de departamento;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+XI. Designar a los Directores de Área, Subdirectores de Área, Jefes de Unidad y Jefes de Departamento;
 
 XII. Designar a la persona que habrá de sustituirlo en sus ausencias temporales que no excedan de 15 días hábiles;
 
@@ -1077,7 +1151,13 @@ XV. Nombrar mediante oficio, apoderado legal para que represente ante cualquier 
 
 XVI. Resolver las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como los casos no previstos en el mismo, y
 
-XVII. Las demás que le confiera la normatividad aplicable.
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+XVII. Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Las demás que le confieran la normatividad aplicable.
 
 ###### ARTÍCULO 44.
 
@@ -1137,6 +1217,40 @@ XIV. Proporcionar información técnica que le sea requerida por otras dependenc
 
 XV. Las que le confiera el Director General y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 46 BIS.- Los Subdirectores de Área, tendrán las siguientes facultades y obligaciones genéricas.
+
+I. Coordinar y supervisar los programas, sistemas y servicios de las unidades administrativas de su adscripción;
+
+II. Supervisar el cumplimiento de las políticas establecidas en la Dirección de Área, así como establecer e instrumentar la planeación, organización, dirección y control en la ejecución de las actividades responsabilidad de la Subdirección.
+
+III. Participar en la formulación del anteproyecto de presupuesto por programas del área a su cargo;
+
+IV. Acordar con el Director de Área los asuntos de la competencia de los Departamento (sic) a su cargo;
+
+V. Coadyuvar en el ámbito de su competencia, en la elaboración y actualización de proyectos de reglamentos, normas y políticas, manuales de organización, procedimientos y servicios, así como el catálogo de puestos específicos correspondientes a las unidades administrativas adscritas;
+
+VI. Representar y desempeñar comisiones que representen a la Dirección de Área, que el Director de Área les encomiende por acuerdo expreso, en actos que el propio Director del Área determine;
+
+VII. Supervisar el cumplimiento de las leyes, reglamentos y demás disposiciones generales aplicables al área de su competencia;
+
+VIII. Decidir con apego a sus competencias, procurando el beneficio de la Dirección de Área en todos los casos;
+
+IX. Coadyuvar en la evaluación del funcionamiento de los Departamentos adscritos, de acuerdo con los requerimientos técnicos de la función y participar en la reorganización, fusión o desaparición de los mismos según el caso, conforme a las disposiciones establecidas;
+
+X. Coordinar y verificar el cumplimiento de las funciones, actividades y procedimientos de los Departamentos a su cargo, establecidos en los manuales administrativos correspondientes;
+
+XI. Evaluar conjuntamente con el Director de Área, los anteproyectos de manuales de organización, procedimientos y servicios de los Departamentos que se le hubieren adscrito conforme a los lineamientos establecidos.
+
+XII. Coordinarse con los titulares de las unidades administrativas de su adscripción para el mejor cumplimiento de las acciones encomendadas, conforme a las políticas establecidas;
+
+XIII. Representar al Director de Área y participar en las reuniones de trabajo de las diferentes instancias oficiales que se relacionen con las actividades de la Dirección de Operación y Mantenimiento;
+
+XIV. Expedir información técnica que le sea requerida por otras áreas, de acuerdo con las políticas establecidas al respecto, y
+
+XV. Las que le confiera el Director de Área y demás normatividad aplicable.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 47.
@@ -1183,6 +1297,12 @@ En las ausencias temporales de los Subdirectores de Área, que no excedan de tre
 
 En las ausencias temporales de los Jefes de Unidad, Jefes de Departamento y Coordinadores de Área, que no excedan de quince días, su suplente será designado por su superior inmediato y, en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director General.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 51.
+
+Las ausencias temporales del Titular del Organo Interno de Control seran suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
@@ -1205,7 +1325,7 @@ SECRETARIO DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
 ARTURO ESPINOZA JARAMILLO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 8 DE FEBRERO DE 2008.
 
@@ -1214,3 +1334,13 @@ P.O. 8 DE FEBRERO DE 2008.
 P.O. 29 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 19, 21, 23, 36 FRACCIÓN VIII, IX, X, XI, XXII, XXIII Y 43 FRACCIÓN XI, XVI (SIC); SE ADICIONAN LOS ARTÍCULOS 19 BIS, 23 BIS, 23 TER, 43 FRACCIÓN XVII, 46 BIS Y 51; Y SE DEROGA LA FRACCIÓN XVIII DEL ARTÍCULO 36, TODOS DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DEL AGUA DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Comisión Estatal del Agua de Baja California entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Comisión Estatal del Agua de Baja California, a partir de la entrada en vigor del presente decreto deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Finanzas, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+TERCERO.- La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
