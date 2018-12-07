@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-que-regula-la-autonomia-tecnica-y-de-124025"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-10-24"
-last_updated: "2017-10-24"
+last_updated: "2018-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124025&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-10-17"
 ---
 # ESTATUTO ORGANICO QUE REGULA LA AUTONOMIA TECNICA Y DE GESTION CONSTITUCIONAL DEL ORGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 10 DE DICIEMBRE DE 2018 EN: www.dof.gob.mx y https://sidj.ine.mx/restWSsidj-nc/app/doc/2006/SN_Proyecto_DJ]</small>
+
 ESTATUTO ORGÁNICO QUE REGULA LA AUTONOMÍA TÉCNICA Y DE GESTIÓN CONSTITUCIONAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
 
 Aviso publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 24 de octubre de 2017.
 
@@ -117,7 +119,9 @@ En los términos de lo establecido por la Constitución Política de los Estados
 
 Corresponderá originalmente a su titular, la representación del Órgano Interno de Control del Instituto Nacional Electoral, así como el trámite y resolución de los asuntos de su competencia constitucional, legal y reglamentaria.
 
-Como facultades indelegables que podrán ser ejercidas en caso de su ausencia o impedimento legal, en términos del artículo 82, apartado 4, del Reglamento Interior del Instituto Nacional Electoral y lo previsto en el presente Acuerdo, tendrá las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+Como facultades indelegables que podrán ser ejercidas en caso de su ausencia o impedimento legal, en términos de los artículos 82, apartado 4, del Reglamento Interior del Instituto Nacional Electoral y 29 de este Estatuto Orgánico, tendrá las siguientes:
 
 a) Designar a los servidores públicos de la estructura orgánica autorizada por el Consejo General del Instituto Nacional Electoral;
 
@@ -377,9 +381,13 @@ En términos de las modificaciones a la estructura, personal y recursos, aprobad
 
 Conforme al artículo 82, apartado 4, del Reglamento Interior del Instituto Nacional Electoral, en caso de ausencia o impedimento legal del Titular del Órgano Interno de Control, el Titular de la Unidad de Asuntos Jurídicos del propio órgano de control, será quien podrá ejercer las facultades que prevé (sic) las leyes de Responsabilidad Administrativa, de Instituciones y Procedimientos Electorales, del Sistema Nacional Anticorrupción, así como las establecidas en los demás ordenamientos aplicables.
 
-En caso de ausencia del responsable de la Unidad de Asuntos Jurídicos, la suplencia del Titular del Órgano Interno de Control, estará a cargo de los Titulares de la Unidades de Auditoría y de Evaluación, Normatividad y Desarrollo Administrativo, en el orden mencionado.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-Si la ausencia o impedimento legal del Titular del Órgano Interno de Control para ejercer las funciones que tiene encomendadas es definitiva, será él mismo o, en caso de que esté imposibilitado, el Titular de la Unidad de Asuntos Jurídicos, quien informará este hecho a la Cámara de Diputados del Congreso Federal, para que en ejercicio de sus atribuciones exclusivas, en términos del artículo 41, fracción V, apartado A, octavo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, determine lo que corresponda respecto del encargo o titularidad del Órgano Interno de Control, sin perjuicio de la suplencia establecida en el artículo 82, apartado 4 del Reglamento Interior del propio Instituto.
+En caso de ausencia del responsable de la Unidad de Asuntos Jurídicos, la suplencia del Titular del Órgano Interno de Control, estará a cargo de los Titulares de la (sic) Unidades de Evaluación, Normatividad y Desarrollo Administrativo y de Auditoría, en el orden mencionado.
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+Si la ausencia o impedimento legal del Titular del Órgano Interno de Control para ejercer las funciones que tiene encomendadas es definitiva, será él mismo o, en caso de que esté imposibilitado, el Titular que lo supla por ausencia, quien informará este hecho a la Cámara de Diputados del Congreso Federal, para que en ejercicio de sus atribuciones exclusivas, en términos del artículo 41, fracción V, apartado A, octavo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, determine lo que corresponda respecto del encargo o titularidad del Órgano Interno de Control.
 
 ###### Artículo 30.
 
@@ -429,9 +437,11 @@ p).- Las demás que las disposiciones aplicables les confieran, las que les enco
 
 A la Unidad de Auditoría se le adscriben las Direcciones de Auditoría a Oficinas Centrales, de Auditoría a Órganos Desconcentrados y de Auditoría de Desempeño y Especiales.
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 32.
 
-A la Unidad de Asuntos Jurídicos se le adscriben las Direcciones de Investigación de Responsabilidades Administrativas, de Substanciación de Responsabilidades Administrativas y, la Jurídica Procesal y Consultiva.
+A la Unidad de Asuntos Jurídicos se le adscriben las Direcciones de Investigación de Responsabilidades Administrativas, de Substanciación de Responsabilidades Administrativas y, la Jurídica Procesal y Consultiva. Las ausencias de estos directores, serán suplidas indistintamente, por las subdirecciones adscritas en el ámbito de sus respectivas competencias. Para el caso de la defensa legal de los actos del Órgano Interno de Control, la suplencia por ausencia del Director Jurídico Procesal y Consultivo, estará a cargo del Subdirector de lo Contencioso y Asuntos Legales.
 
 ###### Artículo 33.
 
@@ -653,6 +663,8 @@ w).- Las demás que le asigne el titular del Órgano Interno de Control o que, p
 
 ### CAPÍTULO XV.. DE LA EVALUACIÓN, NORMATIVIDAD Y DESARROLLO ADMINISTRATIVO
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 41.
 
 Corresponde a la Dirección de Evaluación y Normatividad, las funciones siguientes:
@@ -661,35 +673,23 @@ a).- Proponer, implementar y supervisar los programas de trabajo autorizados cor
 
 b).- Informar trimestralmente el avance de los programas de trabajo a su cargo y de los resultados correspondientes;
 
-c).- Revisar y evaluar las normas, procedimientos, métodos, sistemas y documentos, que permitan sugerir y/o promover mejoras en los procesos administrativos;
+c).- Revisar y evaluar las normas, procedimientos, métodos, sistemas y documentos, que permitan sugerir y/o promover mejoras en los procesos administrativos; proponer y acompañar la implementación de programas de mejora de la gestión en las unidades responsables, mediante la adopción de mejores prácticas administrativas para el aprovechamiento de recursos; así como proponer y acompañar la implementación de recomendaciones, y en su caso, acciones de mejora, respecto de las debilidades de control interno identificadas, orientadas a fortalecer las actividades de control en el ámbito administrativo del Instituto;
 
-d).- Revisar, evaluar y acompañar la institucionalización de las normas generales de control interno, así como las disposiciones que en la materia permitan instrumentar, fortalecer y dar seguimiento al funcionamiento de los componentes del sistema de control interno institucional;
+d).- Revisar y/o evaluar la adopción de lineamientos, criterios y metodologías en materia de establecimiento de indicadores orientados a apoyar el cumplimiento de metas y objetivos institucionales;
 
-e).- Revisar y/o evaluar la adopción de lineamientos, criterios y metodologías en materia de indicadores para apoyar el cumplimiento de metas y objetivos de las unidades responsables que fortalezcan la transparencia y rendición de cuentas;
+e).- Definir, en coordinación con las Unidades del Órgano Interno de Control, privilegiando el uso de las tecnologías de la información, las normas y los lineamientos generales para el establecimiento y/o actualización de la normativa y procesos que regulan su operación; así como proponer, a través de la Unidad de Evaluación, Normatividad y Desarrollo Administrativo, para autorización del Titular del Órgano Interno de Control, las evaluaciones a los manuales de organización específico y de procedimientos para mantenerlos actualizados, autorizados y publicados;
 
-f).- Promover y acompañar en la implementación de programas de mejora de la gestión en las unidades responsables, mediante la adopción de mejores prácticas administrativas para el aprovechamiento de recursos;
+f).- Participar en los procedimientos respectivos, así como en los Comités y Subcomités centrales Institucionales de Adquisiciones, Arrendamientos y Servicios; Bienes Muebles; así como el Central de Obras Públicas y Servicios Relacionados con las Mismas; en términos de las leyes, reglamentos y normativa aplicables y, en el caso de que así se requiera, con el apoyo técnico de los especialistas en esa materia, del propio Órgano Interno de Control;
 
-g).- Acompañar a la instancia correspondiente del INE, en las revisiones al Marco Normativo de Control Interno Institucional y dar seguimiento a los documentos e informes que se deriven de la instrumentación del Sistema de Control Interno Institucional;
+g).- Proponer el Código de Ética Institucional conforme a los lineamientos que emita el Sistema Nacional Anticorrupción y presentarlo a través de la Unidad de Evaluación, Normatividad y Desarrollo Administrativo, para autorización del Titular del Órgano Interno de Control, y su posterior presentación a las instancias que corresponda para su emisión;
 
-h).- Coadyuvar con el Instituto en la detección de riesgos administrativos y de corrupción en los procesos de las unidades responsables, promoviendo para ello la aplicación de la Metodología de Administración de Riesgos autorizada y dando seguimiento al cumplimiento de los Programas de Trabajo de Administración de Riesgos;
+h).- Participar en la implementación del protocolo de actuación en contrataciones que expida el Comité Coordinador del Sistema Nacional Anticorrupción. Así como supervisar, de acuerdo con las atribuciones contenidas en la normatividad aplicable, y lo establecido en el protocolo de actuación expedido para tal efecto, la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia;
 
-i).- Definir, en coordinación con las Unidades del Órgano Interno de Control, privilegiando el uso de las tecnologías de la información, las normas y los lineamientos generales para el establecimiento y/o actualización de la normativa y procesos que regulan su operación;
+i).- Informar a las unidades competentes del Órgano Interno de Control, las anomalías y/o desapegos normativos que detecte como resultado del ejercicio de sus funciones;
 
-j).- Definir y proponer, a través de la Unidad de Evaluación, Normatividad y Desarrollo Administrativo, para autorización del Titular del Órgano Interno de Control, las evaluaciones a los manuales de organización específico y de procedimientos para asegurar en la medida de lo posible que estén actualizados, autorizados y publicados;
+j).- Con base en las recomendaciones que realice el Comité Coordinador del Sistema Nacional Anticorrupción, proponer al Titular de la Unidad de Evaluación, Normatividad y Desarrollo Administrativo, la implementación de medidas y/o acciones necesarias para fortalecer el desempeño institucional y el control interno; y
 
-k).- Participar en los procedimientos respectivos, así como en los Comités y Subcomités centrales Institucionales de Adquisiciones, Arrendamientos y Servicios y Bienes Muebles; así como el Central de Obras Públicas y Servicios Relacionados con las Mismas, en términos de las leyes, reglamentos y normativa aplicables y, en el caso de que así se requiera, con el apoyo técnico de los especialistas en esa materia, del propio Órgano Interno de Control;
-
-l).- Proponer recomendaciones, y en su caso, acciones de mejora respecto de las debilidades de control interno identificadas, orientadas a fortalecer las actividades de control en el ámbito administrativo del Instituto;
-
-m).- Proponer el Código de Ética Institucional conforme a los lineamientos que emita el Sistema Nacional Anticorrupción y presentarlo a través de la Unidad de Evaluación, Normatividad y Desarrollo Administrativo, para autorización del Titular del Órgano Interno de Control, quien lo presentará a las instancias que corresponda para su emisión;
-
-n).- Definir y proponer a la instancia correspondiente del Instituto Nacional Electoral, las acciones de mejora relacionadas con el Programa de Integridad y Anticorrupción Institucional, así como coordinar la implementación del programa respectivo en el Órgano Interno de Control;
-
-ñ).- Participar en la implementación del protocolo de actuación en contrataciones que expida el Comité Coordinador del Sistema Nacional Anticorrupción. Así como supervisar, de acuerdo con las atribuciones contenidas en la normatividad aplicable, y lo establecido en el protocolo de actuación expedido para tal efecto, la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, informando a las unidades competentes del Órgano Interno de Control en caso de que se descubran anomalías, a fin de que éstas realicen las verificaciones procedentes;
-
-o).- Proponer al Titular de la Unidad de Evaluación, Normatividad y Desarrollo Administrativo, las medidas necesarias para fortalecer el desempeño institucional y el control interno, con base en las recomendaciones que realice el Comité Coordinador del Sistema Nacional Anticorrupción, y
-
-p).- Las demás que le asigne el titular del Órgano Interno de Control o que, por las funciones encomendadas, resulten de otras leyes o reglamentos.
+k).- Las demás que le asigne el titular del Órgano Interno de Control o que, por las funciones encomendadas, resulten de otras leyes o reglamentos.
 
 ###### Artículo 42.
 
@@ -723,13 +723,15 @@ m).- Proponer, a la consideración del Titular del Órgano Interno de Control, p
 
 n).- Las demás que le asigne el titular del Órgano Interno de Control o que, por las funciones encomendadas, resulten de otras leyes o reglamentos.
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
 Corresponde a la Dirección de Desarrollo Administrativo, las funciones siguientes:
 
 a).- Aplicar a los servidores públicos del Órgano Interno de Control, previo a la preparación del anteproyecto de presupuesto del año siguiente, el cuestionario para la Detección de Necesidades de Capacitación y, con los resultados adicionados con la opinión de cada director de área, proponer al Titular de la Unidad de Evaluación, Normatividad y Desarrollo Administrativo, el proyecto de temas y cursos a programar para el año siguiente;
 
-b).- Elaborar el Programa Anual de Capacitación con base en los resultados a que se refiere el punto anterior, que contenga la realización de eventos académicos y de actualización teórico-prácticos, tanto presenciales como virtuales, en materia técnico- administrativa para los servidores públicos del Órgano Interno de Control y, en lo que corresponda, a los servidores públicos del Instituto Nacional Electoral, con el propósito de que se encuentren permanentemente actualizados respecto de la normativa sobre la que deban sustentar el desarrollo de sus funciones, para el debido y eficaz desempeño de sus responsabilidades administrativas;
+b).- Elaborar el Programa Anual de Capacitación con base en los resultados a que se refiere el punto anterior, que contenga la realización de eventos académicos y de actualización teórico-prácticos, tanto presenciales como virtuales, en materia técnico-administrativa para los servidores públicos del Órgano Interno de Control y, en lo que corresponda, a los servidores públicos del Instituto Nacional Electoral, con el propósito de que se encuentren permanentemente actualizados respecto de la normativa sobre la que deban sustentar el desarrollo de sus funciones, para el debido y eficaz desempeño de sus responsabilidades administrativas;
 
 c).- Utilizar los medios tecnológicos y humanos necesarios para generar la transmisión y difusión de los cursos de capacitación, con el propósito de lograr la adecuada aplicación de las normas y lineamientos, para que los trabajadores del Instituto Nacional Electoral y del Órgano Interno de Control realicen de manera eficaz sus funciones administrativas;
 
@@ -741,33 +743,39 @@ f).- Promover, coordinar la operación y dar seguimiento, en los casos que corre
 
 g).- Actualizar periódicamente la información de los servidores públicos que hayan recibido capacitación por parte del Órgano Interno de Control, observando los criterios mínimos de evaluación;
 
-h).- Integrar los informes previo y anual de gestión del Órgano Interno de Control con base en los que, de acuerdo a sus respectivas actividades, elaboren las Unidades y Direcciones del mismo;
+h).- Acompañar, revisar y evaluar la institucionalización de las normas generales de control interno, así como el diseño, implementación y, en su caso, actualización de las disposiciones que en la materia permitan instrumentar, fortalecer y dar seguimiento al funcionamiento de los componentes del sistema de control interno institucional. En ese contexto, acompañar al Instituto en la detección (identificación) de riesgos administrativos y de corrupción en los procesos de las unidades responsables, y dar seguimiento al cumplimiento de los Programas de Trabajo de Control Interno y de Administración de Riesgos, así como a los documentos que se deriven de la instrumentación del Sistema de Control Interno Institucional, en concordancia con lo que, en este tema, emita el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-i).- Coordinar la integración del Programa Anual de Trabajo del Órgano Interno de Control;
+i).- Definir y proponer a la instancia correspondiente del Instituto Nacional Electoral, las acciones de mejora relacionadas con el Programa de Integridad y Anticorrupción Institucional, así como coordinar la implementación del programa respectivo en el Órgano Interno de Control;
 
-j).- Actualizar permanentemente la información de contenido normativo del Órgano Interno de Control, en el sitio creado con este propósito en la red de intranet del Instituto Nacional Electoral;
+j).- Acompañar, revisar y evaluar la integración de lineamientos, criterios y/o metodologías en materia de establecimiento de indicadores orientados a apoyar el cumplimiento de metas y objetivos institucionales, en concordancia con lo que, en ese tema, emita el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-k).- Diseñar, elaborar y difundir los principales enunciados de la normatividad administrativa mediante medios idóneos, buscando la prevención de omisiones o incumplimientos en lo que respecta a las obligaciones administrativas de los servidores públicos del Instituto Nacional Electoral y del Órgano Interno de Control, llevando a cabo las gestiones administrativas necesarias para la difusión del material autorizado;
+k).- Dar seguimiento a la presentación oportuna de las declaraciones de situación patrimonial de inicio, de conclusión, de modificación patrimonial y de conflicto de intereses de los declarantes, de conformidad con los lineamientos que emita el Comité Coordinador del Sistema Nacional Anticorrupción, para notificar a la autoridad respectiva los nombres de los servidores públicos omisos o extemporáneos para los efectos legales conducentes;
 
-l).- Implementar las acciones encaminadas a difundir la obligación de los servidores públicos del Instituto Nacional Electoral, para que presenten oportunamente su declaración de situación patrimonial, de conflicto de intereses y la constancia de presentación de la declaración fiscal anual;
+l).- Actualizar el padrón de servidores públicos del Instituto Nacional Electoral que se encuentran obligados a presentar las declaraciones de situación patrimonial y de conflicto de intereses; así como la constancia de presentación de la declaración fiscal anual; llevar el registro y resguardo de estas declaraciones y asegurarse que la información procedente sea integrada en la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, a fin de mantenerla actualizada, de conformidad con los lineamientos que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-m).- Actualizar el padrón de servidores públicos del Instituto Nacional Electoral que se encuentran obligados a presentar las declaraciones de situación patrimonial y de conflicto de intereses; así como la constancia de presentación de la declaración fiscal anual; llevar el registro y resguardo de estas declaraciones y asegurarse que la información procedente sea integrada en la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, a fin de mantenerla actualizada, de conformidad con los lineamientos que emita el Comité Coordinador del Sistema nacional Anticorrupción;
+m).- Llevar a cabo, en primera instancia, la detección de inconsistencias y/o incongruencias en la información proporcionada en las declaraciones patrimoniales de los servidores públicos del Instituto Nacional Electoral, conforme a un programa de verificación aleatoria que permita identificar dichas inconsistencias, omisiones, errores o incongruencias en la información presentada, con el propósito de solicitar a los declarantes correspondientes las aclaraciones pertinentes, acorde con lo previsto en la Ley General de Responsabilidades Administrativas;
 
-n).- Dar seguimiento a la presentación oportuna de las declaraciones de situación patrimonial de inicio, de conclusión, de modificación patrimonial y de conflicto de intereses de los declarantes, de conformidad con los lineamientos que emita el Comité Coordinador del Sistema Nacional Anticorrupción, para notificar a la autoridad respectiva los nombres de los servidores públicos omisos o extemporáneos para los efectos legales conducentes;
+n).- Verificar la situación o posible actualización de algún conflicto de interés, según la información proporcionada por los declarantes, y llevar el seguimiento de la evolución y la verificación de su situación patrimonial;
 
-ñ).- Llevar a cabo, en primera instancia, la detección de inconsistencias y/o incongruencias en la información proporcionada en las declaraciones patrimoniales de los servidores públicos del Instituto Nacional Electoral, conforme a un programa de verificación aleatoria que permita identificar dichas inconsistencias, omisiones, errores o incongruencias en la información presentada, con el propósito de solicitar a los declarantes correspondientes las aclaraciones pertinentes, acorde con lo previsto en la Ley General de Responsabilidades Administrativas;
+ñ).- Expedir la certificación a los servidores públicos que corresponda, en los casos en que no se presenten incongruencias y/o inconsistencias a que se refiere el punto anterior, o bien, éstas hayan sido aclaradas y resueltas satisfactoriamente en esa primera instancia, documento que avalará dicha circunstancia previa aprobación del Titular de la Unidad de Evaluación, Normatividad y Desarrollo Administrativo, quien lo presentará al Titular del Órgano Interno de Control para su autorización. Esta certificación deberá ser inscrita en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal anual de la Plataforma Digital Nacional, conforme a los lineamientos que expida el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-o).- Verificar la situación o posible actualización de algún conflicto de interés, según la información proporcionada por los declarantes, y llevar el seguimiento de la evolución y la verificación de su situación patrimonial;
+o).- Integrar y sustentar los expedientes que deban abrirse con motivo de las aclaraciones solicitadas según el inciso anterior, mismas que de no resultar procedentes, pertinentes ni suficientes y, que de éstas se desprendan indicios, elementos o datos suficientes que hagan presumir que el patrimonio de un servidor público es notoriamente superior a los ingresos lícitos que pudiera tener; proceder a la investigación respectiva de acuerdo a los lineamientos que expida el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-p).- Expedir la certificación a los servidores públicos que corresponda, en los casos en que no se presenten incongruencias y/o inconsistencias a que se refiere el punto anterior, o bien, éstas hayan sido aclaradas y resueltas satisfactoriamente en esa primera instancia, documento que avalará dicha circunstancia previa aprobación del Titular de la Unidad de Evaluación, Normatividad y Desarrollo Administrativo, quien lo presentará al Titular del Órgano Interno de Control para su autorización. Esta certificación deberá ser inscrita en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal anual de la Plataforma Digital Nacional, conforme a los lineamientos que expida el Comité Coordinador del Sistema Nacional Anticorrupción;
+p).- Diseñar, elaborar y difundir los principales enunciados de la normatividad administrativa mediante medios idóneos, buscando la prevención de omisiones o incumplimientos en lo que respecta a las obligaciones administrativas de los servidores públicos del Instituto Nacional Electoral y del Órgano Interno de Control, llevando a cabo las gestiones administrativas necesarias para la difusión del material autorizado;
 
-q).- Integrar y sustentar los expedientes que deban abrirse con motivo de las aclaraciones solicitadas según el inciso anterior, mismas que de no resultar procedentes, pertinentes ni suficientes y, que de éstas se desprendan indicios, elementos o datos suficientes que hagan presumir que el patrimonio de un servidor público es notoriamente superior a los ingresos lícitos que pudiera tener; proceder a la investigación respectiva de acuerdo a los lineamientos que expida el Comité Coordinador del Sistema Nacional Anticorrupción;
+q).- Implementar las acciones encaminadas a difundir la obligación de los servidores públicos del Instituto Nacional Electoral, para que presenten oportunamente su declaración de situación patrimonial, de conflicto de intereses y la constancia de presentación de la declaración fiscal anual;
 
-r).- Atender las solicitudes que lleven a cabo los servidores públicos del Instituto Nacional Electoral al Titular del Órgano Interno de Control, para que éste designe al representante que, en su caso, de conformidad con los lineamientos respectivos, deba participar en los actos de entrega – recepción de aquéllos que estén obligados a hacerlo mediante el levantamiento del acta administrativa correspondiente;
+r).- Integrar los informes previo y anual de gestión del Órgano Interno de Control con base en los que, de acuerdo a sus respectivas actividades, elaboren las Unidades y Direcciones del mismo;
 
-s).- Llevar el registro para atender los casos en que los servidores públicos del Instituto informen que, sin solicitarlo, hubieren recibido de manera gratuita la transmisión de la propiedad o el ofrecimiento para el uso de cualquier bien, con motivo del ejercicio de sus funciones y poner dichos bienes a disposición de las autoridades competentes, y
+s).- Coordinar la integración del Programa Anual de Trabajo del Órgano Interno de Control;
 
-t).- Las demás que le asigne el titular del Órgano Interno de Control o que, por las funciones encomendadas, resulten de otras leyes o reglamentos.
+t).- Actualizar permanentemente la información de contenido normativo del Órgano Interno de Control, en el sitio creado con este propósito en la red de intranet del Instituto Nacional Electoral;
+
+u).- Atender las solicitudes que lleven a cabo los servidores públicos del Instituto Nacional Electoral al Titular del Órgano Interno de Control, para que éste designe al representante que, en su caso, de conformidad con los lineamientos respectivos, deba participar en los actos de entrega - recepción de aquéllos que estén obligados a hacerlo mediante el levantamiento del acta administrativa correspondiente;
+
+v).- Llevar el registro para atender los casos en que los servidores públicos del Instituto informen que, sin solicitarlo, hubieren recibido de manera gratuita la transmisión de la propiedad o el ofrecimiento para el uso de cualquier bien, con motivo del ejercicio de sus funciones y poner dichos bienes a disposición de las autoridades competentes; y
+
+w).- Las demás que le asigne el Titular del Órgano Interno de Control o que, por las funciones encomendadas, resulten de otras leyes o reglamentos.
 
 ### CAPÍTULO XVI.. DE LA COORDINACIÓN TÉCNICA Y DE GESTIÓN
 
@@ -801,9 +809,11 @@ l).- Desarrollar las demás funciones que le encomiende, dentro de la esfera de 
 
 ### CAPÍTULO XVII.. DE LA CERTIFICACIÓN Y EXPEDICIÓN DE COPIAS CERTIFICADAS
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 45.
 
-Será facultad del Titular de la Unidad de Asuntos Jurídicos certificar o expedir copias certificadas de los documentos que, por el ejercicio de las atribuciones del Órgano Interno de Control, obren en los archivos de los servidores públicos que la integran.
+Será facultad del Titular de la Unidad de Asuntos Jurídicos certificar o expedir copias certificadas de los documentos que, por el ejercicio de las atribuciones del Órgano Interno de Control, obren en los archivos de los servidores públicos que la integran. En caso de ausencia del Titular de Asuntos Jurídicos, la facultad de expedición de copias certificadas recaerá en la Dirección Jurídica, Procesal y Consultiva del Órgano Interno de Control.
 
 ###### Artículo 46.
 
@@ -832,3 +842,29 @@ Así lo acordó en la Ciudad de México, el 21 de julio de 2017, el Titular del 
 EL TITULAR
 
 C.P. GREGORIO GUERRERO POZAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL AVISO A LOS SERVIDORES PÚBLICOS DEL INSTITUTO NACIONAL ELECTORAL Y PÚBLICO EN GENERAL, RESPECTO DE LA EXPEDICIÓN DEL "ACUERDO DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO QUE REGULA LA AUTONOMÍA TÉCNICA Y DE GESTIÓN CONSTITUCIONAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su emisión.
+
+SEGUNDO.- Conforme a lo dispuesto por el artículo 82, inciso xx), del Reglamento Interior del Instituto Nacional Electoral, por conducto del Consejero Presidente, infórmese al Consejo General del propio Instituto, la expedición del presente Acuerdo. Además, por la naturaleza del presente acuerdo infórmese de su expedición al Secretario Ejecutivo.
+
+TERCERO.- Publíquese en la Gaceta del Instituto y medios electrónicos institucionales, para su difusión.
+
+CUARTO.- Publíquese en el Diario Oficial de la Federación.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO".]</small>
+
+AVISO A LOS SERVIDORES PÚBLICOS DEL INSTITUTO NACIONAL ELECTORAL Y PÚBLICO EN GENERAL, RESPECTO DE LA EXPEDICIÓN DEL "ACUERDO DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO QUE REGULA LA AUTONOMÍA TÉCNICA Y DE GESTIÓN CONSTITUCIONAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL".
+
+Con fundamento en los artículos 6, 41, párrafo segundo, fracción V, Apartado A, párrafo segundo, 108, 109, 113, 114 y 134 de la Constitución Política de los Estados Unidos Mexicanos; 487, apartado 1 y 490, apartado 1, de la Ley General de Instituciones y Procedimientos Electorales, 82 del Reglamento Interior del Instituto Nacional Electoral y demás relativos y aplicables de la Ley General de Responsabilidades Administrativas y de la Ley General del Sistema Nacional Anticorrupción, el Titular del Órgano Interno de Control informa:
+
+Que el 14 de noviembre de 2018, se expidió el "Acuerdo del Titular del Órgano Interno de Control del Instituto Nacional Electoral, por el que se reforman diversas disposiciones del Estatuto Orgánico que regula la Autonomía Técnica y de Gestión Constitucional del Órgano Interno de Control del Instituto Nacional Electoral", por lo que su publicidad se hace a través de este medio oficial, quedando la versión íntegra del acuerdo a disposición de los servidores públicos del Instituto Nacional Electoral y del público en general en el portal de internet del Instituto Nacional Electoral, localizable en la página electrónica https://www.ine.mx, específicamente en la ruta siguiente: "Sobre el INE", "Norma INE", "Órgano Interno de Control", "Estatutos", "Acuerdo del Titular del Órgano Interno de Control del Instituto Nacional Electoral, por el que se reforman diversas disposiciones del Estatuto Orgánico que regula la autonomía técnica y de gestión constitucional del Órgano Interno de Control del Instituto Nacional Electoral", "Descargar", o en la dirección electrónica siguiente: https://sidj.ine.mx/restWSsidj-nc/app/doc/1992/SN_Proyecto_DJ, asimismo, se encuentra localizable en la siguiente liga electrónica www.dof.gob.mx/2018/INE/AcuerdoOIC_ReformaEstatutoOrganico_141118.pdf
+
+El presente aviso, deberá publicarse en el Diario Oficial de la Federación, como en el portal de internet del Instituto Nacional Electoral, ello de conformidad con lo dispuesto en los artículos transitorios tercero y cuarto del citado acuerdo que se informa, en los que se ordena hacer pública su expedición a través del Diario Oficial de la Federación, así como con fundamento en los párrafos segundo y tercero del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos y el artículo 86 del Reglamento Interior del Instituto Nacional Electoral.
+
+Atentamente, Ciudad de México, a 27 de noviembre de 2018.- El Titular del Órgano Interno de Control, Gregorio Guerrero Pozas.- Rúbrica.
