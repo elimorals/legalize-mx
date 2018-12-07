@@ -4,7 +4,7 @@ identifier: "FED-protocolo-de-actuacion-para-la-obtencion-y-tratamiento-de-11516
 country: "mx"
 rank: "otro"
 publication_date: "2016-06-17"
-last_updated: "2016-06-17"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115166&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-15"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN PARA LA OBTENCIÓN Y TRATAMIENTO DE LOS RECURSOS INFORMÁTICOS Y/O EVIDENCIAS DIGITALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 17 de junio de 2016.
 
@@ -235,7 +235,9 @@ GLOSARIO
 
 - Análisis: Métodos y técnicas aplicados para la obtención de información útil al objeto materia de investigación.
 
-- Autoridad solicitante: Pleno del Consejo de la Judicatura Federal, Comisiones, Secretaría Ejecutiva de Vigilancia, Información y Evaluación; Secretaría Ejecutiva de Disciplina, Visitaduría Judicial y Contraloría del Poder Judicial de la Federación.
+> <small>(REFORMADO POR EL ARTÍCULO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+- Autoridad solicitante: Pleno del Consejo de la Judicatura Federal, Comisiones, Secretaría Ejecutiva de Vigilancia; Secretaría Ejecutiva de Disciplina; Visitaduría Judicial; Contraloría del Poder Judicial de la Federación; y la Unidad General de Investigación de Responsabilidades Administrativas.
 
 - Bit: Unidad mínima de información utilizada para cuantificar datos informáticos, contiene un único valor binario de 0 ó 1.
 
@@ -277,7 +279,7 @@ GLOSARIO
 
 - Traslado: Transportar los recursos informáticos embalados en el lugar de intervención hacia otro en condiciones de preservación o conservación.
 
-- Traslado para la presentación de material probatorio: Actividad que se realiza con el fin de presentar los recursos informáticos y/o evidencias digitales ante las autoridades correspondientes.”
+- Traslado para la presentación de material probatorio: Actividad que se realiza con el fin de presentar los recursos informáticos y/o evidencias digitales ante las autoridades correspondientes."
 
 ## TRANSITORIOS
 
@@ -290,3 +292,31 @@ TERCERO. Los Lineamientos del Protocolo de actuación para la obtención y trata
 CUARTO. Publíquense los Lineamientos del Protocolo de actuación para la obtención y tratamiento de los recursos informáticos y/o evidencias digitales en el portal de Internet del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se expide el Protocolo de actuación para la obtención y tratamiento de los recursos informáticos y/o evidencias digitales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de quince de junio de dos mil dieciséis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- Ciudad de México, a quince de junio de dos mil dieciséis.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el siete de diciembre de dos mil dieciocho.
+
+PRIMERO. El presente Acuerdo entrará en vigor el siete de diciembre de dos mil dieciocho.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+Lo anterior, con excepción del ARTÍCULO OCTAVO de este Acuerdo, del cual el Secretario Ejecutivo del Pleno distribuirá copia certificada a las unidades administrativas involucradas en su aplicación o ejecución.
+
+TERCERO. Las Secretarías Ejecutivas de Finanzas y Servicios Personales; y de Administración, por conducto de las unidades administrativas competentes que les estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. La Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial conservará los recursos humanos, presupuestales, financieros y materiales con los que actualmente cuenta la Dirección General de Responsabilidades, así como la competencia para continuar conociendo de los asuntos en trámite.
+
+SEXTO. La Unidad de Investigación de Responsabilidades Administrativas se transforma en la Unidad General de Investigación de Responsabilidades Administrativas con los recursos humanos, presupuestales, financieros y materiales con que cuenta la Unidad de Investigación, así como con las investigaciones que actualmente lleva a cabo.
+
+SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluación, y a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación se entenderán hechas a la Comisión de Vigilancia y a la Secretaría Ejecutiva de Vigilancia, respectivamente.
+
+Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
+
+Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
