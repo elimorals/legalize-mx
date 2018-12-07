@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-reconstruccion-recuperacion-y-transformacion-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-01"
-last_updated: "2018-06-01"
+last_updated: "2018-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124671&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-12-01"
 ---
 # LEY PARA LA RECONSTRUCCION, RECUPERACION Y TRANSFORMACION DE LA CIUDAD DE MEXICO EN UNA CADA VEZ MAS RESILIENTE
 
-LEY PARA LA RECONSTRUCCION, RECUPERACION Y TRANSFORMACION DE LA CIUDAD DE MEXICO EN UNA CADA VEZ MÁS RESILIENTE
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 7 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE JUNIO DE 2018.
+LEY PARA LA RECONSTRUCCIÓN, RECUPERACIÓN Y TRANSFORMACIÓN DE LA CIUDAD DE MÉXICO EN UNA CADA VEZ MÁS RESILIENTE
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el No. 210 Ter de la Gaceta Oficial de la Ciudad de México, el viernes 1 de diciembre de 2017.
 
@@ -1251,3 +1253,29 @@ G.O. 1 DE JUNIO DE 2018.
 PRIMERO.- Publíquese en Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO”.]
+
+G.O. 7 DE DICIEMBRE DE 2018.
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga la Ley para la Reconstrucción, Recuperación y Transformación de la Ciudad de México en una cada vez más Resiliente; publicada en la Gaceta Oficial de la Ciudad de México el 1º de diciembre de 2017.
+
+CUARTO. La persona titular de la Jefatura de Gobierno emitirá el Plan Integral para la Reconstrucción Integral de la Ciudad de México y los lineamientos para su operación, en un plazo no mayor de 90 días naturales contados a partir del día siguiente de la entrada en vigor de la presente Ley.
+
+QUINTO. El paquete económico para el ejercicio 2019 contemplará los recursos y las exenciones a que se refiere la presente Ley.
+
+SEXTO. La persona titular de la Jefatura de Gobierno emitirá el acuerdo de facilidades administrativas y exenciones fiscales para el proceso de Reconstrucción de la Ciudad de México en un plazo no mayor de 90 días naturales contados a partir del día siguiente de la entrada en vigor de la presente Ley.
+
+SÉPTIMO. A más tardar en un plazo de 365 días naturales contados a partir del día siguiente de la entrada en vigor de la presente Ley, el Gobierno de la Ciudad entregará un programa integral de protección civil que permita preparar a la Ciudad ante posibles desastres y desarrollar capacidades que permitan hacer frente a las situaciones de emergencia. Asimismo, integrará una estrategia de capacitación y difusión sobre las medidas y protocolos que deberán de seguirse ante la inminencia de un próximo sismo.
+
+OCTAVO. En tanto las disposiciones contenidas en el apartado del Plan Integral para la Reconstrucción de la presente Ley se encuentren vigentes; las condiciones y los plazos previstos en los artículos 71, 139, 179 y 224 del Reglamento de Construcciones que sustentan las Inspecciones Oculares Estructurales del Instituto, serán suspendidos mediante decreto que emita la persona titular de la Jefatura de Gobierno a propuesta de la Comisión.
+
+NOVENO. Los recursos del Fondo para la Reconstrucción, Recuperación y Transformación de la Ciudad de México, serán transferidos al Fideicomiso en el plazo de 15 días hábiles a partir de la entrada en vigor de la presente Ley. En la primera sesión que se lleve a cabo del Fideicomiso, se aprobarán sus reglas de operación.
+
+DÉCIMO. Aquellas acciones de Reconstrucción iniciadas con anterioridad a la entrada en vigor de la presente Ley, continuarán con su trámite de conformidad con las disposiciones que se encontraban vigentes sin menoscabo de los beneficios que les sean aplicables de la presente Ley.
+
+DÉCIMO PRIMERO. Considerando que la Ciudad se encuentra asentada sobre una zona sísmica, la presente Ley, podrá servir de referencia para futuros eventos sísmicos y podrá aplicarse emergentemente.
