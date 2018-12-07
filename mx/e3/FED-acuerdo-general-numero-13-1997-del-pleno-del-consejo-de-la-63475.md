@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-13-1997-del-pleno-del-consejo-de-la-6347
 country: "mx"
 rank: "acuerdo"
 publication_date: "1997-04-30"
-last_updated: "1997-04-30"
+last_updated: "2018-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63475&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1997-04-30"
 ---
 # ACUERDO GENERAL NUMERO 13/1997 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ACUERDO GENERAL NUMERO 13/1997, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA A LA COMISION DE DISCIPLINA COMO EL ORGANO COMPETENTE PARA CONOCER DE LOS DICTAMENES DEL SECRETARIO EJECUTIVO DE DISCIPLINA, EN RELACION CON LAS VISITAS ORDINARIAS DE INSPECCION A LOS ORGANOS JURISDICCIONALES FEDERALES QUE NO MUESTREN IRREGULARIDADES ADMINISTRATIVAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL D.O.F. DE 7 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO GENERAL NÚMERO 13/1997, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA A LA COMISIÓN DE DISCIPLINA COMO EL ÓRGANO COMPETENTE PARA CONOCER DE LOS DICTÁMENES DEL SECRETARIO EJECUTIVO DE DISCIPLINA, EN RELACIÓN CON LAS VISITAS ORDINARIAS DE INSPECCIÓN A LOS ÓRGANOS JURISDICCIONALES FEDERALES QUE NO MUESTREN IRREGULARIDADES ADMINISTRATIVAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo V, Mayo de 1997, página 809.
 
@@ -60,3 +62,37 @@ LICENCIADO ADOLFO O. ARAGÓN MENDÍA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA J
 CERTIFICA:
 
 Que este Acuerdo General Número 13/1997, que determina a la Comisión de Disciplina como el órgano competente para conocer de los dictámenes del secretario ejecutivo de Disciplina en relación con las visitas ordinarias de inspección a los órganos jurisdiccionales federales que no muestren irregularidades administrativas, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de treinta de abril de mil novecientos noventa y siete, por unanimidad de votos de los consejeros, presidente Ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, María Concepción Elisa Martín de Zúñiga, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a siete de mayo de mil novecientos noventa y siete.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el siete de diciembre de dos mil dieciocho.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El procedimiento de responsabilidad administrativa se seguirá por las faltas contempladas en las disposiciones vigentes al momento de su comisión.
+
+Las investigaciones y los procedimientos de responsabilidad administrativa iniciados antes del uno de diciembre de dos mil diecisiete y los procedimientos iniciados a partir de esa fecha, que estén en trámite, deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+Las investigaciones y los procedimientos de responsabilidad administrativa iniciados a la entrada en vigor del presente Acuerdo se regirán por lo previsto en este instrumento normativo.
+
+Las investigaciones que estén a cargo de la Unidad de Investigación de Responsabilidades Administrativas serán atendidas por la Unidad General de Investigación de Responsabilidades Administrativas y los procedimientos de responsabilidad substanciados por la Dirección General de Responsabilidades Administrativas serán atendidos por la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
+
+CUARTO. El Instituto Federal de Defensoría Pública como órgano auxiliar del Consejo de la Judicatura Federal contará con defensores de oficio que intervendrán en los procedimientos de responsabilidad administrativa que se substancien en el Consejo de la Judicatura Federal.
+
+Para tal fin la Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de las unidades administrativas competentes que le estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para que el Instituto Federal de Defensoría Pública cuente con las plazas respectivas.
+
+QUINTO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+SÉPTIMO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+OCTAVO. La Secretaría Ejecutiva de Disciplina y la Contraloría del Poder Judicial de la Federación expedirán los Lineamientos del Sistema de Justicia en Línea dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
+
+NOVENO. Se abroga el Acuerdo General número 13/1997, del Pleno del Consejo de la judicatura federal, que determina a la Comisión de disciplina como el órgano competente para conocer de los dictámenes del secretario ejecutivo de disciplina en relación con las visitas ordinarias de inspección a los órganos jurisdiccionales federales que no muestren irregularidades administrativas.
+
+DÉCIMO. Desde la entrada en vigor del presente Acuerdo y hasta el treinta de noviembre de dos mil dieciocho, las referencias que se hagan en este instrumento normativo al Juez de Despacho y Administrador de los Centros de Justicia Penal Federal, se entenderán hechas al Juez de Distrito que funja como Administrador.
