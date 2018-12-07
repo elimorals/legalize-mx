@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-manejo-de-residuos-solidos-urbanos-y-aseo-60719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2017-09-01"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE MANEJO DE RESIDUOS SÓLIDOS URBANOS Y ASEO PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
 
@@ -269,6 +269,8 @@ Las autoridades administrativas del Municipio, en el ámbito de sus respectivas 
 
 ### CAPITULO SEGUNDO. DE LA POLÍTICA AMBIENTAL
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 8.
 
 La Secretaria, en coordinación con la Dirección de Ecología Municipal, la Dirección de Obras y Servicios Públicos Municipales y con opinión de las Delegaciones, formulara y evaluara el Programa de Gestión Integral de los Residuos sólidos, mismo que integrara los lineamientos, acciones y metas en materia de manejo integral de los residuos sólidos y la prestación del servicio de limpia con base en los siguientes criterios:
@@ -277,9 +279,9 @@ I.- Adoptar medidas para la reducción de la generación de ;los (sic) residuos 
 
 II.- Promover la reducción de la cantidad de los residuos sólidos que llegan a disposición final;
 
-III.- Adoptar medidas preventivas, considerando los costos y beneficios de la acción u omisión, cuando exista evidencia científica que compruebe que la liberación al ambiente de residuos sólidos pueden causar daños a la salud o al ambiente;
+III.- Adoptar medidas preventivas, considerando los costos y beneficios de la acción u omisión, cuando exista evidencia científica que compruebe que la liberación al ambiente de residuos sólidos puede causar daños a la salud o al ambiente;
 
-IV.- Prevenir la liberación de los residuos sólidos que puedan causar daños al ambiente o a la salud humana y la transferencia de contaminantes de un medio a otro;
+IV.- Prevenir la liberación de los residuos sólidos que puedan causar daños al ambiente o a la salud humana y la transferencia de contaminantes de un medio a otro; 1 1 (sic)
 
 V.- Prever la infraestructura necesaria para asegurar que los residuos sólidos se manejen de manera ambientalmente adecuada;
 
@@ -295,13 +297,13 @@ X.- Fomentar la generación, sistematización y difusión de información del ma
 
 XI.- Definir las estrategias sectoriales e intersectoriales para la minimización y prevención de la generación y el manejo de los residuos sólidos, conjugando las variables económicas, sociales, culturales, tecnológicas, sanitarias y ambientales en el marco de la sustentabilidad;
 
-XII.- Promover medidas para evitar el deposito, descarga, acopio y selección de los residuos sólidos en áreas o en condiciones no autorizadas;
+XII.- Promover medidas para evitar el depósito, descarga, acopio y selección de los residuos sólidos en áreas o en condiciones no autorizadas;
 
 XIII.- Promover sistemas de reutilización, deposito, retorno u otros similares que reduzcan la generación de residuos, en el caso de productos o envases que después de ser utilizados generen residuos en alto volumen o que originen impactos ambientales significativos;
 
-XIV.- Establecer las medidas adecuadas para reincorporar al ciclo productivo materiales o sustancias reutilizables o reciclables y para el desarrollo de mercados de subproductos para la valorización de los residuos sólidos;
+XIV.- Establecer las medidas adecuadas para reincorporar al ciclo productivo materiales osustancias (sic) reutilizables o reciclables y para el desarrollo de mercados de subproductos para la valorización de los residuos sólidos;
 
-XV.- Fomentar el desarrollo, uso de tecnologías, métodos, practicas y procesos de producción y comercialización que favorezcan la minimización y valorización de los residuos sólidos;
+XV.- Fomentar el desarrollo, uso de tecnologías, métodos, prácticas y procesos de producción y comercialización que favorezcan la minimización y valorización de los residuos sólidos;
 
 XVI.- Establecer acciones orientadas a recuperar los sitios contaminados por el manejo de los residuos sólidos;
 
@@ -311,9 +313,11 @@ XVIII.- Evitar el manejo y disposición de residuos de manejo especial líquidos
 
 XIX.- Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que puedan solubilizar las sustancias potencialmente toxicas contenidas en ellos; y
 
-XX.- Los demás que establezca el Reglamento y otros ordenamientos aplicables.
+XX.- El municipio garantizara puntos de acopio estratégicos y/o centros de transferencias en diversas zonas de la ciudad, con la finalidad de evitar tiraderos clandestinos.
 
-La Secretaria, la Dirección de Ecología Municipal, la Dirección de Obras y Servicios Públicos Municipales y las Delegaciones ejecutaran, en el marco de su competencia, los contenidos del Programa de Gestión Integral de los Residuos Sólidos.
+XXI.- Los demás que establezca el Reglamento y otros ordenamientos aplicables.
+
+La Sub Secretaria, la Dirección de Ecología Municipal, la Dirección de Obras y Servicios Públicos Municipales y las Delegaciones ejecutaran, en el marco de su competencia, los contenidos del Programa de Gestión Integral de los Residuos Sólidos.
 
 ## TITULO SEGUNDO. DE LOS RESIDUOS SÓLIDOS MUNICIPALES
 
@@ -1063,13 +1067,15 @@ III.- La reincidencia;
 
 IV.- Las sanciones se impondrán sin perjuicio de la obligación, en su caso, del infractor de reparar el daño que haya causado y demás responsabilidades que le resulten.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 110.
 
 Las sanciones que se aplicarán por violación a las disposiciones de este Reglamento consistirán en:
 
-I.- Amonestación verbal o por escrito, según el caso;
+I.- Amonestación verbal o por escrito, según el caso; 39 (sic)
 
-II.- Multa de 1 a 100 veces de salario mínimo general diario vigente para el Municipio en el momento de comisión de la infracción o la que establezca la Ley de Ingresos Municipales para el supuesto específico;
+II.- Multa de 1 a 100 unidades de medida y actualización (UMA) al momento de la comisión de la infracción o la que establezca la Ley de Ingresos Municipales para el supuesto específico;
 
 III.- Arresto administrativo hasta por 36 horas, que se podrá conmutar por trabajo comunitario;
 
@@ -1166,3 +1172,9 @@ P.O. 1 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 003/2017 RELATIVO A REFORMAR EL ARTÍCULO 6 DEL REGLAMENTO DE MANEJO DE RESIDUOS SÓLIDOS URBANOS Y ASEO PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 8 Y 110 DEL REGLAMENTO DE MANEJO DE RESIDUOS SÓLIDOS URBANOS Y ASEO PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
