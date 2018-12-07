@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2018-05-23"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -741,13 +741,13 @@ Por su naturaleza, las comisiones pueden ser ordinarias, especiales o de investi
 
 La Legislatura, a propuesta de la Comisión de Gobierno, podrá aumentar o disminuir el número de comisiones y aun subdividirlas en los ramos pertinentes, según lo crea necesario o lo exija el despacho de los asuntos.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 53.
 
-Cuando algún miembro de las comisiones tuviere interés personal justificado, y éste fuere distinto al que corresponde a sus funciones como diputado, tratándose de asuntos que se remitan para su estudio, se abstendrán de votar y firmar el dictamen, informándolo por escrito al presidente del Congreso o de la Diputación Permanente, en su caso, a fin de que sean sustituidos para el sólo efecto del trámite respectivo. Igualmente, no podrán dictaminar aquellas iniciativas que hubieren presentado de su propia autoría.
+Cuando algún miembro de las comisiones tuviere interés personal justificado, y éste fuere distinto al que corresponde a sus funciones como diputado, tratándose de asuntos que se remitan para su estudio, se abstendrán de votar y firmar el dictamen, informándolo por escrito al presidente de la Comisión de Gobierno o de la Diputación Permanente, en su caso, a fin de que sean sustituidos para el sólo efecto del trámite respectivo.
 
 #### Sección Segunda. Competencia de las Comisiones
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -771,117 +771,83 @@ I. Gobernación y Puntos Constitucionales.
 
 a) Enmiendas a las Constituciones General y Local;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2011)</small>
 
 b) Convenios entre el Estado y la federación, o entre aquél y otras entidades federativas o municipios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 c) Expropiaciones, defensoría de oficio, ministerio público, notariado y registro civil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 d) Cuestiones electorales, y las relativas al Instituto Estatal Electoral e integración del Consejo Local Electoral;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 e) Solicitudes de rehabilitación de la ciudadanía;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 f) Convenios de límites relativos al territorio del estado y al de los municipios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 g) Facultar al ejecutivo en términos de lo que dispone la Constitución local, para representar al estado y los que le otorguen facultades extraordinarias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 h) Cambio en la residencia de los poderes, cabeceras municipales y traslado provisional del recinto oficial del Congreso;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 i) Comparecencia de servidores públicos ante el Congreso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 j) Lo relativo a la designación de Gobernador interino, provisional o sustituto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 k) Renuncias o licencias del Gobernador, diputados, integrantes de Ayuntamientos, magistrados de los órganos jurisdiccionales, y de todos aquellos servidores públicos en que por mandato de ley deba intervenir el Congreso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 l) Autorizaciones al Gobernador para salir del territorio del Estado en los casos que establece la ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 m) Ratificación del Procurador General de Justicia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 n) Iniciativas sobre la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ñ) Designación de los magistrados de los tribunales locales en los casos en que proceda la intervención del Congreso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 o) Conocer concurrentemente los asuntos relativos a la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 p) Lo relativo a la prevención de ilícitos, cárceles o sistemas penitenciarios, combate a la drogadicción o a la delincuencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+q) Los relativos a la legislación orgánica del Poder Ejecutivo, del Poder Judicial y de los municipios;
 
-q) La legislación orgánica de los poderes constitucionales del Estado y de los municipios;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
-r) (DEROGADO, P.O. 2 DE JULIO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+r) Conocer concurrentemente con la Comisión de Régimen Interno y Prácticas Parlamentarias de los asuntos relativos a la legislación orgánica y reglamentación interna del Poder Legislativo.
 
 s) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
-II. Investigación Legislativa.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+II. Régimen Interno y Prácticas Parlamentarias.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
@@ -889,13 +855,41 @@ a) Elaborar los estudios y análisis de legislación comparada;
 
 b) Auxiliar a otras comisiones en la formulación de los dictámenes o criterios técnicos tanto jurídicos como legislativos, cuando le fueren solicitados o así lo disponga la Asamblea;
 
-c) Supervisar las actividades a cargo de la Dirección de Investigación Legislativa y Biblioteca; coadyuvar a la integración de los productos de trabajo que establece el reglamento y aprobar las políticas editoriales;
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
 
-d) Los que promuevan el incremento del acervo bibliográfico del Congreso, y
+c) Coordinar y vigilar el trabajo de la Dirección de Investigación Legislativa y de la Biblioteca;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
 
-e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
+d) Promover la formación de un acervo bibliográfico del Congreso del Estado;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+e) Los relativos a la legislación orgánica del Poder Legislativo del Estado de Nayarit;
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+f) Los relacionados con el reglamento interno del Poder Legislativo del Estado de Nayarit;
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+g) Realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas parlamentarias;
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+h) Implementar programas e impulsar foros que coadyuven a enriquecer las actividades legislativas;
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+i) Promover la edición de publicaciones que se consideren de interés en el desarrollo de la actividad parlamentaria;
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+j) Emitir convocatoria pública, atendiendo a las necesidades de personal técnico especializado y a la capacidad presupuestaria del Congreso, para ocupar la titularidad de investigadores dentro de las diferentes categorías existentes, y
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+k) Los análogos a los anteriores que, a juicio del presidente de la Comisión de Gobierno, sean materia del análisis de esta Comisión.
 
 III. Justicia y Derechos Humanos.
 
@@ -951,8 +945,6 @@ b) Los relacionados con la aplicación y respeto a los derechos y cultura indíg
 
 c) En general, los asuntos de competencia de la administración estatal y municipal en materia indígena, siempre que deban desahogarse ante el Congreso, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 V. Hacienda, Cuenta Pública y Presupuesto.
@@ -993,8 +985,6 @@ k) Conocer concurrentemente lo relacionado a las tablas de valores unitarios de 
 
 l) Las que le otorgue la legislación hacendaria y fiscal, estatal y municipal; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 m) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
@@ -1023,8 +1013,6 @@ j) Conocer concurrentemente de las iniciativas que tengan por objeto otorgar pre
 
 k) La organización del concurso estatal de oratoria "Juan Escutia"; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 l) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 VII. Trabajo y Previsión Social.
@@ -1034,8 +1022,6 @@ a) Los que se refieren al cumplimiento de las disposiciones legales contenidas e
 b) Los que tengan por finalidad crear y fomentar empleos;
 
 c) Los que se vinculen con las relaciones obrero patronales, entre entidades públicas o privadas y sus trabajadores, en el ámbito de la competencia del Congreso, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1048,8 +1034,6 @@ b) Los que se relacionen a la promoción de políticas y programas asistenciales
 c) Aquellos que se relacionen con el desarrollo y promoción del derecho a la salud y a la ampliación de los servicios de asistencia social en el Estado;
 
 d) Los que en materia de salud sean de competencia local; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1065,8 +1049,6 @@ c) Los relativos al servicio profesional de carrera de los servidores públicos;
 
 d) Conocer concurrentemente los asuntos que tengan por finalidad autorizar al titular del Poder Ejecutivo para gravar, enajenar, ceder o avalar bienes patrimoniales, muebles o inmuebles, o a constituir derechos reales sobre los mismos, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 X. Desarrollo Económico y Social.
@@ -1080,8 +1062,6 @@ b) Conocer concurrentemente sobre la autorización de convenios entre el estado 
 c) Los relacionados con la creación de organismos destinados al fomento y desarrollo de las actividades productivas del Estado o los municipios;
 
 d) Los relativos a estudios que tengan por finalidad crear o fomentar empresas que agrupen a campesinos o sectores populares, organizaciones privadas o no gubernamentales en áreas urbanas o rurales, y;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1097,8 +1077,6 @@ d) Los relacionados a la regulación o creación de organismos para el fomento y
 
 e) Los que tengan por objeto fomentar y organizar la explotación forestal y minera del Estado, de conformidad a lo dispuesto por las leyes, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 f) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XII. Industria, Comercio y Turismo.
@@ -1106,8 +1084,6 @@ XII. Industria, Comercio y Turismo.
 a) Los que se refieran a la expedición de leyes locales de fomento a la industria y el comercio;
 
 b) Los relacionados con el desarrollo turístico del Estado y los municipios, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 c) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1121,8 +1097,6 @@ b) Los relacionados con la regulación o celebración de convenios o concesiones
 
 c) Concurrentemente los asuntos relativos a la preservación de los monumentos y obras del patrimonio cultural, que deba ser declarado con las modalidades que al efecto establezcan las leyes, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XIV. Asuntos Municipales.
@@ -1133,8 +1107,6 @@ a) Los asuntos legislativos que se relacionen con el municipio en todos los ramo
 
 b) Conocer concurrentemente los asuntos relativos a la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 c) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XV. Seguridad Pública y Sistemas de Protección Civil.
@@ -1144,8 +1116,6 @@ a) Los que se refieran a la regulación de los sistemas e instituciones estatale
 b) Los vinculados a los cuerpos de seguridad pública en el ámbito local y su coordinación institucional;
 
 c) Los relacionados con la organización institucional para la prevención y participación social en los riesgos, desastres naturales o situaciones de emergencia que se produzcan; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1161,8 +1131,6 @@ c) Los que se refieran al reavalúo de las fincas urbanas o rústicas;
 
 d) Conocer concurrentemente lo relacionado a las tablas de valores unitarios de suelo y construcciones, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XVII. Ecología y Protección al Medio Ambiente.
@@ -1172,8 +1140,6 @@ a) Los vinculados con acciones del desarrollo estatal, regional o municipal para
 b) Los que tengan por objeto prevenir el deterioro ambiental y fomentar la preservación de los ecosistemas del Estado y los municipios;
 
 c) Los relativos a los planes y programas de desarrollo urbano; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1186,8 +1152,6 @@ b) Los relacionados a políticas legislativas sobre fomento al empleo y activida
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 c) Los relativos a combatir la drogadicción y delincuencia juvenil, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1215,8 +1179,6 @@ c) Los asuntos relacionados con políticas públicas relacionadas con la protecc
 
 d) En materia de legislación, los temas relativos a la protección de los grupos vulnerables; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
-
 e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XXI. Asuntos Pesqueros y Desarrollo Acuícola.
@@ -1228,8 +1190,6 @@ a) Los relacionados con el fomento a la organización productiva de la pesca, y 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 b) Los relacionados con la creación de organismos públicos descentralizados o fideicomisos que tengan por finalidad el impulso y fomento de las actividades productivas pesqueras y desarrollo acuícola, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 c) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1250,8 +1210,6 @@ d) Impulsar acuerdos relativos a la celebración de foros de difusión y promoci
 e) Conocer de los asuntos que por su propia denominación y naturaleza del tema, requiera la intervención del Poder Legislativo;
 
 f) Los trámites relativos a la obtención de información de las oficinas públicas cuando los diputados la hubiesen solicitado y no les haya sido proporcionada para los efectos previstos por la Constitución local; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 g) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1278,8 +1236,6 @@ h) Los apoyos económicos destinados al desarrollo científico y tecnológico;
 i) El Estudio, análisis y dictamen de las iniciativas de ley, decretos y acuerdos que le sean turnadas de todo lo relacionado con la ciencia, la tecnología y la Innovación;
 
 j) Las demás que se deriven de su propia denominación en correspondencia con las respectivas áreas de la administración pública; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
 k) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
@@ -1350,6 +1306,14 @@ Elaborar y presentar los dictámenes relacionados con el desahogo de procedimien
 IV. Comisiones de Investigación.
 
 Corresponderá a estas comisiones cuando así lo autorice el voto afirmativo de la mayoría absoluta de los integrantes de la Asamblea, atender exclusivamente los asuntos que en específico les hubiesen sido encomendados, rindiendo a su conclusión un informe por escrito.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+V. Parlamento Infantil y Juvenil del Estado de Nayarit.
+
+a) Corresponderá a esta Comisión organizar y dirigir los trabajos relativos al procedimiento para la selección, integración y funcionamiento anual del Parlamento Infantil y Juvenil, Concurso de Debates, así como eventos de carácter académico, participativo y honorario, y
+
+b) Conocerá de los asuntos que determine el Comité organizador del Parlamento Infantil y/o Juvenil y del Concurso de Debates.
 
 #### Sección Tercera. Junta Directiva de las Comisiones
 
@@ -4650,3 +4614,27 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Las dependencias administrativas y técnicas del Honorable Congreso del Estado de Nayarit, deberán tomar las acciones necesarias para reducir el uso del uso (sic) de papel.
 
 Tercero.- Las dependencias administrativas y técnicas del Honorable Congreso del Estado de Nayarit, deberán tomar las acciones necesarias para eliminar el uso en el recinto, de productos de plásticos no biodegradable (sic), como son popotes, bolsas de plástico, platos, cucharas, vasos desechables y unicel.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 55 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. En un plazo que no exceda de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, el Congreso del Estado analizará las iniciativas turnadas pendientes de dictaminar, con el objetivo de proceder con el nuevo turno de acuerdo a las reformas planteadas en el Decreto.
+
+TERCERO. La Comisión de Régimen Interno y Prácticas Parlamentarias creada en el presente Decreto, celebrará una reunión para efecto de su instalación en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 53 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Remítase el presente Decreto a las Diputadas y los Diputados integrantes de la XXXII Legislatura del H. Congreso del Estado de Nayarit, para su conocimiento.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 56 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
