@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-42-2012-del-pleno-del-consejo-de-la-90587"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-12-14"
-last_updated: "2012-12-14"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-12-06"
 
 ACUERDO GENERAL 42/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES QUE DEBERÁN OBSERVAR LOS JUECES Y MAGISTRADOS ADSCRITOS A LOS ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL FEDERAL, PARA REALIZAR LA ENTREGA-RECEPCIÓN DE LOS ASUNTOS A SU CARGO Y DE LOS RECURSOS QUE TENGAN ASIGNADOS AL SEPARARSE DE SU EMPLEO, CARGO O COMISIÓN, O SEAN SUSPENDIDOS, READSCRITOS O REUBICADOS A DIVERSO ÓRGANO JURISDICCIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 14 de diciembre de 2012.
 
@@ -73,9 +73,11 @@ Los documentos e información que se agreguen al acta de entrega-recepción, deb
 
 La verificación de contenido del acta de entrega-recepción, deberá realizarse por el juez o magistrado entrante o, en su caso, por el secretario encargado del despacho o el designado en funciones de juez o magistrado en un término no mayor de treinta días hábiles, contados a partir de la fecha de entrega-recepción del despacho. Durante dicho plazo el servidor público saliente hará las aclaraciones y proporcionará la información adicional que le sea solicitada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 7.
 
-Cuando el titular entrante detecte alguna inconsistencia relevante en relación con el contenido del acta respectiva o en los anexos de la misma durante el término señalado en el artículo anterior, deberá hacerlo del conocimiento de la Secretaría Ejecutiva de Disciplina del Consejo de la Judicatura Federal. El juez o magistrado saliente deberá hacer las aclaraciones pertinentes, sin perjuicio de que, en su caso, se proceda de conformidad con las disposiciones legales aplicables en materia de responsabilidades de los servidores públicos.
+Cuando el titular entrante detecte alguna inconsistencia relevante en relación con el contenido del acta respectiva o en los anexos de la misma durante el término señalado en el artículo anterior, deberá hacerlo del conocimiento de la Secretaría Ejecutiva de Vigilancia. El juez o magistrado saliente deberá hacer las aclaraciones pertinentes, sin perjuicio de que, en su caso, se proceda de conformidad con las disposiciones aplicables en materia de responsabilidades de los servidores públicos.
 
 Si el servidor público entrante no procediera de conformidad con lo establecido en el párrafo anterior, incurrirá en responsabilidad en términos de dichas disposiciones.
 
@@ -83,31 +85,39 @@ Si el servidor público entrante no procediera de conformidad con lo establecido
 
 La entrega del órgano jurisdiccional o ponencia, según sea el caso y de los asuntos en trámite encomendados al titular saliente, no lo exime de las responsabilidades en que hubiera incurrido en términos de ley.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 9.
 
-Cualquier servidor público de los señalados en los artículos 1 y 2 de este acuerdo, que al separarse de su empleo, cargo o comisión, o a partir de su readscripción o reubicación, omita hacer la entrega a que el presente se refiere, será requerido por la Secretaría Ejecutiva de Disciplina del Consejo de la Judicatura Federal, para que en un plazo no mayor a treinta días naturales, siguientes a aquel en que se notifique el requerimiento, cumpla con esta obligación.
+Cualquier servidor público de los señalados en los artículos 1 y 2 de este Acuerdo, que, al separarse de su empleo, cargo o comisión, o a partir de su readscripción o reubicación, omita hacer la entrega a que el presente Acuerdo se refiere, será requerido por la Secretaría Ejecutiva de Vigilancia, para que en un plazo no mayor a treinta días naturales, siguientes a aquel en que se notifique el requerimiento, cumpla con esta obligación.
 
-En el supuesto que antecede, el juez o magistrado entrante al tomar posesión o, en su caso, el secretario encargado del despacho o el designado en funciones de juez o magistrado, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia de los asuntos que se encuentren en trámite o en suspenso, los remitidos a órganos auxiliares y los pendientes de fallar, de la plantilla del personal adscrito al órgano jurisdiccional, informe de asuntos administrativos pendientes de atender (estadísticas, visitas físicas o virtuales, etc.), documentos y valores, libros de gobierno, recursos materiales asignados; lo anterior, se hará del conocimiento de la Secretaría Ejecutiva de Disciplina del Poder Judicial de la Federación, para efectos del aludido requerimiento, y de que en su caso, ésta inicie las acciones que correspondan en términos de las disposiciones aplicables en materia de responsabilidades.
+En el supuesto que antecede, el juez o magistrado entrante al tomar posesión o, en su caso, el secretario encargado del despacho o el designado en funciones de juez o magistrado, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia de los asuntos que se encuentren en trámite o en suspenso, los remitidos a órganos auxiliares y los pendientes de fallar, de la plantilla del personal adscrito al órgano jurisdiccional, informe de asuntos administrativos pendientes de atender (estadísticas, visitas físicas o virtuales, etc.), documentos y valores, libros de gobierno, recursos materiales asignados; lo anterior, se hará del conocimiento de la Secretaría Ejecutiva de Vigilancia, para efectos del aludido requerimiento, y de que en su caso, se realicen las acciones que correspondan en términos de las disposiciones aplicables en materia de responsabilidades.
 
 ###### Artículo 10.
 
 El servidor público que proceda a la entrega del despacho y de los asuntos a su cargo, hará constar en el acta de entrega-recepción, la causa o motivo de su separación en la titularidad del empleo, cargo o comisión.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 11.
 
-Con independencia de la causa o motivo que origine la separación, el servidor público saliente no quedará relevado de las obligaciones a que se refieren las disposiciones del presente acuerdo y de las demás aplicables en materia de responsabilidades, entre ellas, la Ley Orgánica del Poder Judicial de la Federación y la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Con independencia de la causa o motivo que origine la separación, el servidor público saliente no quedará relevado de las obligaciones a que se refieren las disposiciones de este Acuerdo y demás aplicables en materia de responsabilidades, entre ellas, la Ley Orgánica del Poder Judicial de la Federación y la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-El Acta de entrega-recepción deberá levantarse en cuatro tantos, firmarse por los que en ella intervienen y por los dos testigos de asistencia. Los anexos deberán ir foliados en todas sus fojas y rubricarse por los servidores públicos, tanto el saliente como el entrante, con la siguiente distribución:
+El Acta de entrega-recepción deberá levantarse en cuatro tantos, firmarse por los que en ella intervienen y por los dos testigos de asistencia. Los anexos deberán foliarse en todas sus fojas y rubricarse por los servidores públicos, tanto el saliente como el entrante, con la siguiente distribución:
 
-- Acta y original de los anexos firmados de manera autógrafa, que se quedará en resguardo en el órgano jurisdiccional.
+I. Acta y original de los anexos firmados de manera autógrafa, que se quedará en resguardo en el órgano jurisdiccional; y
 
-- Acta y copia de los anexos: para el servidor público que realiza la entrega y para el servidor público que recibe, así como para la Secretaría Ejecutiva de Disciplina del Consejo de la Judicatura Federal.
+II. Acta y copia de los anexos: para el servidor público que realiza la entrega y para el servidor público que recibe, así como para la Secretaría Ejecutiva de Vigilancia.
+
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 13.
 
-La Secretaría Ejecutiva de Disciplina vigilará, en el ámbito de sus atribuciones, el cumplimiento de las disposiciones a que se refiere el presente acuerdo.
+La Secretaría Ejecutiva de Vigilancia vigilará, en el ámbito de sus atribuciones, el cumplimiento de las disposiciones a que se refiere el presente Acuerdo.
 
 ## TRANSITORIOS
 
@@ -161,7 +171,9 @@ E) DROGA, ARMAS, VEHICULOS Y OTROS OBJETOS. SE ENTREGAN CON LA INDICACION DE NUM
 
 - OTROS OBJETOS SI ___ NO ___
 
-F) LIBROS DE GOBIERNO. SE HACE CONSTAR LA ENTREGA DE LOS LIBROS QUE A CONTINUACION SE DESCRIBEN, CON EL NUMERO DE EJEMPLARES QUE LOS INTEGRAN:
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+F) LIBROS DE GOBIERNO. SE HACE CONSTAR LA ENTREGA DE LOS LIBROS QUE A CONTINUACIÓN SE DESCRIBEN: _________________________
 
 G) EXPEDIENTES EN EXISTENCIA ACTUAL O EN SUSPENSO, CON INDICACION DE NUMERO DE EXPEDIENTE, TIPO DE ASUNTO, AL RESPECTO SE INTEGRAN COMO ANEXOS A ESTA ACTA LOS LISTADOS CON NUMEROS DEL ___ AL ___.
 
@@ -179,7 +191,9 @@ L) OBSERVACIONES Y RECOMENDACIONES EMANADAS DE LAS DISTINTAS INSTANCIAS DEL CONS
 
 9.- OTROS HECHOS RELEVANTES PARA LA PRESENTE ACTA (SE DESCRIBEN LIBREMENTE CON EL SEÑALAMIENTO DE LOS ANEXOS QUE LOS APOYAN, EN SU CASO).
 
-10.- CIERRE DEL ACTA. EL FUNCIONARIO QUE ENTREGA MANIFIESTA BAJO PROTESTA DE DECIR VERDAD HABER PROPORCIONADO SIN OMISION ALGUNA TODOS LOS ELEMENTOS NECESARIOS PARA LA FORMULACION DE LA PRESENTE ACTA, SIN EXCLUIR ASUNTO ALGUNO O ASPECTO IMPORTANTE RELATIVO A SU GESTION. ASIMISMO, MANIFIESTA TENER CONOCIMIENTO DE QUE EL CONTENIDO DEL ACTA Y DE SUS ANEXOS PODRA SER VERIFICADO POR LAS AREAS COMPETENTES DEL CONSEJO DE LA JUDICATURA FEDERAL DENTRO DE LOS TREINTA DIAS HABILES SIGUIENTES A QUE ESTA ACTA SE HAGA DEL CONOCIMIENTO DE LA SECRETARIA EJECUTIVA DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL, POR LO QUE PODRA SER REQUERIDO PARA CUALQUIER ACLARACION AL RESPECTO Y PARA PROPORCIONAR LA INFORMACION ADICIONAL, EN EL ENTENDIDO QUE LA PRESENTE ENTREGA NO IMPLICA LIBERACION ALGUNA DE RESPONSABILIDADES QUE PUDIERAN LLEGARSE A DETERMINAR POR LA AUTORIDAD COMPETENTE CON POSTERIORIDAD.
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+10.- CIERRE DEL ACTA. EL FUNCIONARIO QUE ENTREGA MANIFIESTA BAJO PROTESTA DE DECIR VERDAD HABER PROPORCIONADO SIN OMISIÓN ALGUNA TODOS LOS ELEMENTOS NECESARIOS PARA LA FORMULACIÓN DE LA PRESENTE ACTA, SIN EXCLUIR ASUNTO ALGUNO O ASPECTO IMPORTANTE RELATIVO A SU GESTIÓN. ASIMISMO, MANIFIESTA TENER CONOCIMIENTO DE QUE EL CONTENIDO DEL ACTA Y DE SUS ANEXOS PODRÁ SER VERIFICADO POR LAS ÁREAS COMPETENTES DEL CONSEJO DE LA JUDICATURA FEDERAL DENTRO DE LOS TREINTA DÍAS HÁBILES SIGUIENTES A QUE ESTA ACTA SE HAGA DEL CONOCIMIENTO DE LA SECRETARÍA EJECUTIVA DE VIGILANCIA, POR LO QUE PODRÁ SER REQUERIDO PARA CUALQUIER ACLARACIÓN AL RESPECTO Y PARA PROPORCIONAR LA INFORMACIÓN ADICIONAL, EN EL ENTENDIDO QUE LA PRESENTE ENTREGA NO IMPLICA LIBERACIÓN ALGUNA DE RESPONSABILIDADES QUE PUDIERAN LLEGARSE A DETERMINAR POR LA AUTORIDAD COMPETENTE CON POSTERIORIDAD.
 
 LOS ___ ANEXOS QUE SE MENCIONAN EN LA PRESENTE ACTA FORMAN PARTE INTEGRANTE DE ELLA.
 
@@ -192,3 +206,29 @@ RECIBE (NOMBRE DEL FUNCIONARIO Y FIRMA)
 TESTIGOS (NOMBRE Y FIRMA) (NOMBRE Y FIRMA)
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 42/2012, del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones que deberán observar los jueces y magistrados adscritos a los órganos jurisdiccionales del Poder Judicial Federal, para realizar la entrega-recepción de los asuntos a su cargo y de los recursos que tengan asignados al separarse de su empleo, cargo o comisión, o sean suspendidos, readscritos o reubicados a diverso órgano jurisdiccional, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiuno de noviembre de dos mil doce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, Jorge Moreno Collado y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a seis de diciembre de dos mil doce.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el siete de diciembre de dos mil dieciocho.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+Lo anterior, con excepción del ARTÍCULO OCTAVO de este Acuerdo, del cual el Secretario Ejecutivo del Pleno distribuirá copia certificada a las unidades administrativas involucradas en su aplicación o ejecución.
+
+TERCERO. Las Secretarías Ejecutivas de Finanzas y Servicios Personales; y de Administración, por conducto de las unidades administrativas competentes que les estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. La Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial conservará los recursos humanos, presupuestales, financieros y materiales con los que actualmente cuenta la Dirección General de Responsabilidades, así como la competencia para continuar conociendo de los asuntos en trámite.
+
+SEXTO. La Unidad de Investigación de Responsabilidades Administrativas se transforma en la Unidad General de Investigación de Responsabilidades Administrativas con los recursos humanos, presupuestales, financieros y materiales con que cuenta la Unidad de Investigación, así como con las investigaciones que actualmente lleva a cabo.
+
+SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluación, y a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación se entenderán hechas a la Comisión de Vigilancia y a la Secretaría Ejecutiva de Vigilancia, respectivamente.
+
+Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
+
+Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
