@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2018-11-06"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -181,7 +181,7 @@ IX. Fondo de Apoyo: Fondo de Apoyo a la Administración de Justicia;
 
 X. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XI. Ley Anticorrupción: Ley Federal Anticorrupción en Contrataciones Públicas;
+XI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 XII. Ley del ISSSTE: Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -679,7 +679,9 @@ XVIII. Medios Electrónicos: La herramienta tecnológica relacionada con el proc
 
 XIX. Mensaje de Datos: La información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede contener documentos electrónicos;
 
-XX. Órganos auxiliares: El Instituto de la Judicatura, la Visitaduría Judicial, la Contraloría del Poder Judicial de la Federación, el Instituto Federal de Defensoría Pública y el Instituto Federal de Especialistas de Concursos Mercantiles;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+XX. Órganos auxiliares: Los señalados en el artículo 88 de la Ley Orgánica;
 
 XXI. Sellos de tiempo: Cadena de caracteres emitidos que indican la hora y fecha de cuándo se firmó, envió, recibió o consultó un Mensaje de Datos;
 
@@ -909,7 +911,9 @@ d) Copias certificadas de las actas administrativas y de hechos levantadas en co
 
 e) La documentación en la que conste la imposición de una medida disciplinaria al servidor público.
 
-Las actas de visita y los informes circunstanciados no se integrarán a expedientes personales, salvo que así lo determine el órgano dictaminador, caso en el cual la Secretaría Ejecutiva de Disciplina proveerá lo conducente al envío de copia certificada de tales instrumentos a la Dirección General de Recursos Humanos.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+Las actas de visita y los informes circunstanciados no se integrarán a expedientes personales, salvo que así lo determine el órgano dictaminador, supuesto en el cual la Secretaría Ejecutiva de Vigilancia proveerá lo conducente al envío de copia certificada de tales instrumentos a la Dirección General de Recursos Humanos.
 
 ###### Artículo 25.
 
@@ -945,11 +949,11 @@ Concluida la depuración del expediente personal a cargo de la Dirección Genera
 
 En todo caso se dejará constancia del proceso de depuración.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL USO DE DOCUMENTOS FALSOS POR PARTE DE LOS SERVIDORES PÚBLICOS, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 28 Bis.
 
-El servidor público que use o exhiba documentos falsos para ingresar o desempeñar algún empleo, cargo o comisión; o para integrar su expediente personal será sancionado administrativamente, en términos del artículo 8, fracciones I y XXIV, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás disposiciones aplicables, sin perjuicio de las responsabilidades penal o civil a que haya lugar.
+El servidor público que use o exhiba documentos falsos para ingresar o desempeñar algún empleo, cargo o comisión; o para integrar su expediente personal será sancionado administrativamente, de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas, y demás disposiciones aplicables, sin perjuicio de las responsabilidades penal o civil a que haya lugar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
@@ -1101,9 +1105,11 @@ En caso de que un trabajador de base adscrito a un órgano jurisdiccional incurr
 
 En todo momento quedará a salvo el derecho de los trabajadores para demandar ante la Comisión Substanciadora Única del Poder Judicial de la Federación la reinstalación en su trabajo o la indemnización correspondiente, en caso de que consideren que su remoción fue injustificada.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 52.
 
-Los procedimientos administrativos de imposición de sanciones como la destitución, se regulan por la Ley Orgánica y la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Los procedimientos administrativos de imposición de sanciones como la destitución, se regulan por la Ley Orgánica, la Ley General de Responsabilidades Administrativas, y el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
 
 ### CAPÍTULO OCTAVO. DE LA REMUNERACIÓN DE HORAS EXTRAORDINARIAS
 
@@ -3039,13 +3045,17 @@ El Consejo podrá establecer en las bases y en los contratos que al efecto celeb
 
 Los actos que celebre el Consejo en materia de contrataciones, se regirán por el artículo 134 de la Constitución, la Ley Orgánica y este Capítulo.
 
-En lo no previsto por este Capítulo y demás disposiciones que de él se deriven, serán aplicables supletoriamente el Código Civil Federal, el Código Federal de Procedimientos Civiles, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y la Ley Federal del Procedimiento Administrativo en lo conducente.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+En lo no previsto por este Capítulo y demás disposiciones que de él se deriven, serán aplicables supletoriamente el Código Civil Federal, el Código Federal de Procedimientos Civiles, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley General de Responsabilidades Administrativas y la Ley Federal de Procedimiento Administrativo, en lo conducente.
 
 Los actos, contratos y convenios que se celebren en contravención a lo dispuesto por este Capítulo y demás disposiciones aplicables, serán nulos y generarán las responsabilidades administrativas a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 252.
 
-Los servidores públicos del Consejo deberán cumplir las disposiciones establecidas por la Ley Orgánica y este Capítulo, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Los servidores públicos del Consejo deberán cumplir las disposiciones establecidas por la Ley Orgánica y este Capítulo, observando en todo momento lo previsto en la Ley General de Responsabilidades Administrativas.
 
 La responsabilidad administrativa derivada de los actos que se realicen en contravención a lo anterior, será determinada conforme lo dispuesto en el Título Octavo de la Ley Orgánica y en las demás disposiciones aplicables, sin perjuicio de la responsabilidad civil o penal que pudiera resultar de dichos actos.
 
@@ -3843,8 +3853,6 @@ Cuando se realicen obras públicas y servicios relacionados, el Consejo y los co
 
 El titular del área de obras, cuando sea el caso, previamente a la realización de los trabajos, deberá tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, así como la propiedad o los derechos de propiedad, incluyendo derechos de vía, sobre los cuales se ejecutarán las obras públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 286.
@@ -4069,9 +4077,9 @@ Se exceptúan de lo anterior, las personas que desempeñen un empleo, cargo o co
 
 IV. Respecto de aquellas sobre las cuales la Comisión de Administración haya formulado declaración de impedimento para contratar, por actualizarse alguno de los siguientes supuestos:
 
-a) Cuando a juicio del Comité se advierta que para efectos de presentar la propuesta acordaron con otro u otros fijar los precios de los bienes o servicios, y tratándose de la obra pública o servicios relacionados con ésta, acordaron con otro u otros fijar el precio alzado o unitario, el costo de los materiales, salarios o demás conceptos objeto de la licitación;
+a) (DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
-b) Si proporcionaron información falsa para participar en un concurso;
+b) (DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 c) Los licitantes que injustificadamente y por causas imputables a ellos no formalicen el contrato adjudicado;
 
@@ -4079,13 +4087,13 @@ d) Los proveedores o contratistas que no cumplan con sus obligaciones contractua
 
 e) Los proveedores o contratistas que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una inconformidad;
 
-f) Los proveedores o contratistas que contraten servicios de asesoría, consultoría y apoyo de cualquier tipo de personas en materia de contrataciones gubernamentales, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación;
+f) (DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 g) Los proveedores o contratistas que se encuentren en situación de retraso en las entregas de los bienes, en la prestación de los servicios o en el avance de obra, por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con el Consejo, siempre y cuando éstos últimos, por tal motivo, hayan resultado gravemente perjudicados, lo que calificará la instancia competente;
 
-h) Las que hayan utilizado información privilegiada proporcionada indebidamente por servidores públicos o sus familiares por parentesco consanguíneo y por afinidad hasta el cuarto grado;
+h) (DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
-i) Las que hayan celebrado contratos en contravención con lo dispuesto en este Capítulo y demás disposiciones aplicables; y
+i) (DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 j) Se haya rescindido contrato celebrado con la Suprema Corte de Justicia de la Nación, el Tribunal Electoral del Poder Judicial de la Federación o el propio Consejo, por causa imputable al proveedor o contratista y dicha rescisión esté firme con independencia de que se hayan causado o no daños y perjuicios.
 
@@ -4113,7 +4121,9 @@ II. Una vez recibida la información y las pruebas pertinentes, Dirección Gener
 
 III. Una vez transcurrido el término a que se refiere la fracción anterior, con o sin la manifestación del contratista o proveedor imputado, la Dirección General de Asuntos Jurídicos procederá a elaborar una opinión, debidamente fundada y motivada, dentro de los cinco días hábiles siguientes, sobre los hechos contenidos en el informe respectivo y, en su caso, los argumentos y pruebas del proveedor y la hará del conocimiento de la Comisión de Administración para que ésta resuelva lo conducente;
 
-IV. Para graduar la declaratoria correspondiente se considerarán: los daños o perjuicios que se hubieren producido al Consejo, el carácter intencional o no de la acción u omisión en que incurrió el licitante, contratista o proveedor; la gravedad de la causa; y las condiciones de éstos;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+IV. Para graduar la declaratoria correspondiente se considerarán: los daños o perjuicios que se hubieren producido al Consejo, el carácter intencional o no de la causal de inhabilitación, la gravedad de ésta y las condiciones de las personas que hubieren incurrido en el supuesto respectivo;
 
 V. Las declaraciones de impedimento se notificarán por conducto de la Dirección General de Asuntos Jurídicos al proveedor o contratista, así como a los titulares de la Contraloría y de las áreas operativas, para su conocimiento; y
 
@@ -5903,11 +5913,13 @@ En los supuestos de las fracciones II y III del artículo 430 de este Acuerdo s�
 
 La inconformidad la podrá presentar, por sí o por representante jurídico, el interesado, representante común, participante y licitante que acredite interés jurídico en el acto del procedimiento de contratación pública objeto de inconformidad.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 434.
 
-La inconformidad deberá presentarse por escrito ante la Dirección General de Responsabilidades.
+La inconformidad deberá presentarse por escrito ante la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
 
-Cuando la inconformidad se presente ante área distinta dentro del Consejo, ésta la remitirá a la Dirección General de Responsabilidades en el término de veinticuatro horas siguientes a su recepción. En ese supuesto se tendrá como fecha de presentación la del acuse de recibo ante el área incompetente.
+Cuando la inconformidad se presente ante área distinta dentro del Consejo, ésta la remitirá a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial en el término de veinticuatro horas siguientes a su recepción. En ese supuesto se tendrá como fecha de presentación la del acuse de recibo ante el área incompetente.
 
 ###### Artículo 435.
 
@@ -5919,23 +5931,31 @@ II. Dentro de los tres días hábiles siguientes a la publicación, celebración
 
 La inconformidad que se presente fuera de los plazos citados se desechará de plano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 436.
 
-La Dirección General de Responsabilidades prevendrá al inconforme cuando hubiere omitido algún requisito del artículo 432 de este Acuerdo, a fin de que subsane la omisión, apercibiéndolo que en caso de no hacerlo en el plazo de tres días hábiles, se tendrá por no presentada la inconformidad. Lo anterior, salvo las pruebas, las cuales se tendrán por no ofrecidas, y el señalamiento del domicilio para recibir notificaciones, supuesto en el cual se notificará por lista.
+La Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial prevendrá al inconforme cuando hubiere omitido algún requisito del artículo 432 de este Acuerdo, a fin de que subsane la omisión, apercibiéndolo que, en caso de no hacerlo en el plazo de tres días hábiles, se tendrá por no presentada la inconformidad. Lo anterior, salvo las pruebas, las cuales se tendrán por no ofrecidas, y el señalamiento del domicilio para recibir notificaciones, supuesto en el cual se notificará por lista.
 
 La Contraloría emitirá la resolución que deseche o tenga por no presentada la inconformidad.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 437.
 
-La Dirección General de Responsabilidades podrá acumular la inconformidad antes de que fenezca el término para elaborar el proyecto de resolución, cuando tenga relación con otra u otras inconformidades por tratarse del mismo acto motivo de la inconformidad o por haber sido interpuesta contra actos que deriven de la misma contratación pública. La inconformidad más reciente se acumulará a la más antigua.
+La Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial podrá acumular la inconformidad antes de que fenezca el término para elaborar el proyecto de resolución, cuando tenga relación con otra u otras inconformidades por tratarse del mismo acto motivo de la inconformidad o por haber sido interpuesta contra actos que deriven de la misma contratación pública. La inconformidad más reciente se acumulará a la más antigua.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 438.
 
-Dentro de los tres días hábiles siguientes a la presentación de la inconformidad o a que se haya cumplido la prevención, la Dirección General de Responsabilidades, en su caso, la admitirá y proveerá lo relativo a las pruebas.
+Dentro de los tres días hábiles siguientes a la presentación de la inconformidad o a que se haya cumplido la prevención, la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial, en su caso, la admitirá y proveerá lo relativo a las pruebas.
 
 Únicamente se admitirán las pruebas que puedan ser conducentes y no sean contrarias a derecho.
 
-En el mismo proveído de admisión, la Dirección General de Responsabilidades solicitará informe al área correspondiente sobre el acto motivo de la inconformidad.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+En el mismo proveído de admisión, la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial solicitará informe al área correspondiente sobre el acto motivo de la inconformidad.
 
 Al rendirse el informe se expondrán las razones y fundamentos para sostener la improcedencia de la inconformidad, así como la validez o legalidad del acto que la motivó.
 
@@ -5959,9 +5979,11 @@ La prueba superveniente podrá admitirse siempre que no se haya emitido resoluci
 
 La Comisión de Administración y la Contraloría podrán allegarse, para mejor proveer, los elementos de convicción que juzguen necesarios para el esclarecimiento de los hechos materia de la inconformidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 442.
 
-Cerrada la instrucción la Dirección General de Responsabilidades, elaborará y someterá, a la Comisión de Administración, en un término de cinco días hábiles, el proyecto de resolución de la inconformidad, previo visto bueno de la Contraloría.
+Cerrada la instrucción la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial, elaborará y someterá, a la Comisión de Administración, en un término de cinco días hábiles, el proyecto de resolución de la inconformidad, previo visto bueno de la Contraloría.
 
 El término referido podrá prorrogarse por otro igual a juicio de la Contraloría.
 
@@ -5983,7 +6005,9 @@ VI. Los motivos y fundamentos normativos en que se apoye; y
 
 VII. Los puntos resolutivos que expresen claramente sus alcances y efectos, fijando cuando proceda las medidas para la regularización o reposición del acto declarado nulo.
 
-Además, el proyecto de resolución podrá analizar las irregularidades que se adviertan en el procedimiento de contratación, siempre que ello implique violación manifiesta a la normatividad aplicable y afecte la libre participación o impida al Consejo ajustarse a los criterios contemplados en el artículo 134 de la Constitución.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+En caso de que se advierta la existencia de conductas probablemente constitutivas de responsabilidad administrativa, se atenderá a lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas y demás disposiciones aplicables.
 
 ###### Artículo 444.
 
@@ -6007,7 +6031,9 @@ VIII. Se suscriba el contrato y el motivo de la inconformidad consista en su fal
 
 Para efectos de la fracción I de este artículo, se citará al inconforme para que dentro del plazo de tres días hábiles comparezca a ratificar el escrito de desistimiento, apercibido que en caso de no hacerlo se tendrá por no presentado.
 
-Para efectos de la fracción III de este artículo, el liquidador tendrá la obligación de presentar ante la Dirección General de Responsabilidades la constancia del Registro Público de la Propiedad y de Comercio relativa a la cancelación de la inscripción del contrato social de la persona moral de que se trate.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+Para efectos de la fracción III de este artículo, el liquidador tendrá la obligación de presentar ante la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial la constancia del Registro Público de la Propiedad y de Comercio relativa a la cancelación de la inscripción del contrato social de la persona moral de que se trate.
 
 ###### Artículo 445.
 
@@ -6031,7 +6057,9 @@ El área responsable acatará la resolución que ponga fin a la inconformidad en
 
 El área responsable informará a la Contraloría en un término no mayor a tres días hábiles el cumplimiento dado a la resolución o, en su caso, el término en el que se dará cumplimiento a la misma y las razones que lo justifiquen.
 
-El inconforme y el tercero interesado, dentro de los tres días hábiles siguientes a que tengan conocimiento de la ejecución de la resolución o vencido el término para ello sin que se hubiere ejecutado, podrán hacer del conocimiento de la Contraloría, en vía incidental a través de la Dirección General de Responsabilidades, su incumplimiento total o parcial, o exceso en su ejecución.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+El inconforme y el tercero interesado, dentro de los tres días hábiles siguientes a que tengan conocimiento de la ejecución de la resolución o vencido el término para ello sin que se hubiere ejecutado, podrán hacer del conocimiento de la Contraloría, en vía incidental a través de la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial, su incumplimiento total o parcial, o exceso en su ejecución.
 
 Con el escrito incidental se requerirá al área responsable para que rinda un informe en el término de tres días hábiles; recibido o transcurrido el término sin rendirlo, la Contraloría resolverá dentro de los tres días hábiles siguientes.
 
@@ -6091,7 +6119,9 @@ b) Los acuerdos y resoluciones relativas a la suspensión del acto motivo de la 
 
 c) La resolución definitiva; y
 
-d) Los acuerdos o resoluciones que lo ameriten a juicio de la Dirección General de Responsabilidades y la Comisión de Administración.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+d) Los acuerdos o resoluciones que lo ameriten a juicio de la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial y la Comisión de Administración.
 
 II. Por lista en los casos no previstos en la fracción anterior, o bien, cuando no se haya señalado domicilio en el Distrito Federal.
 
@@ -6215,7 +6245,9 @@ V. Autorizar el orden del día de las reuniones a celebrar;
 
 VI. Vigilar el correcto funcionamiento del Comité; y
 
-VII. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás ordenamientos aplicables en la materia, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+VII. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás ordenamientos aplicables en la materia, observando en todo momento lo previsto en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 460.
 
@@ -6231,7 +6263,9 @@ IV. Remitir al secretario técnico del Comité, antes de la reunión, los docume
 
 V. Verificar que el desarrollo de las sesiones del Comité se realice de conformidad con sus lineamientos de integración y funcionamiento;
 
-VI. Cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás ordenamientos aplicables, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+VI. Cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás ordenamientos aplicables, observando en todo momento lo previsto en la Ley General de Responsabilidades Administrativas; y
 
 VII. Las demás funciones que les sean encomendadas por el Pleno o la Comisión de Administración.
 
@@ -6259,7 +6293,9 @@ VIII. Vigilar que el archivo de los documentos analizados por el Comité, esté 
 
 IX. Vigilar que cada asunto aprobado por el Comité esté respaldado con la firma de los integrantes asistentes a la sesión celebrada;
 
-X. Cumplir las disposiciones establecidas en la Ley Orgánica, en este Capítulo y demás ordenamientos aplicables, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+X. Cumplir las disposiciones establecidas en la Ley Orgánica, en este Capítulo y demás ordenamientos aplicables, observando en todo momento lo previsto en la Ley General de Responsabilidades Administrativas; y
 
 XI. Las demás que le encomiende el Pleno, la Comisión de Administración o el presidente del Comité.
 
@@ -7021,91 +7057,85 @@ V. Vigencia.
 
 La custodia y resguardo de los instrumentos jurídicos se ajustará a las disposiciones contenidas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Archivos.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ### CAPÍTULO SEGUNDO. BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS A DISPOSICIÓN DEL PROPIO CONSEJO
 
 ###### Artículo 541.
 
-El Consejo es autoridad competente para aplicar la Ley Anticorrupción y, por ende, para dictar las disposiciones administrativas necesarias para su adecuado cumplimiento en las contrataciones públicas a su cargo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 542.
 
-En el ámbito de su competencia y únicamente para efectos administrativos, la Comisión de Administración interpretará la Ley Anticorrupción y este Capítulo. La Comisión de Administración podrá someter el asunto al Pleno cuando estime que éste, debe fijar la interpretación.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 543.
 
-A propuesta de la Comisión de Administración, el Pleno podrá autorizar la celebración de los convenios en el ámbito de la Ley Anticorrupción. En el acuerdo de autorización se determinará el servidor público que deba suscribir el convenio en representación del Consejo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
 #### SECCIÓN CUARTA. DESTINO FINAL DE LOS BIENES
 
 ###### Artículo 544.
 
-La Contraloría conocerá, por conducto de la Dirección General de Responsabilidades, de las presuntas infracciones objeto de la Ley Anticorrupción e iniciará las investigaciones reguladas en su Capítulo Tercero y demás disposiciones aplicables por:
-
-I. Denuncia, impresa o electrónica; y
-
-II. De oficio.
-
-El Pleno y la Comisión de Administración podrán instruir de oficio el inicio de las investigaciones.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 545.
 
-Las denuncias se presentarán ante la Contraloría a través de la Dirección General de Responsabilidades. Ésta podrá prevenir al denunciante para que, en un término no mayor a cinco días hábiles, aclare, precise o amplíe los hechos motivo de la denuncia o aporte mayores elementos probatorios que acrediten las presuntas infracciones.
-
-En caso que la denuncia se presente ante área administrativa distinta de la Dirección General de Responsabilidades, el servidor público que la reciba deberá remitírsela sin dilación.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 546.
 
-En términos de la Ley Anticorrupción, los servidores públicos tendrán la obligación de denunciar por escrito y de manera inmediata las posibles infracciones que sean de su conocimiento. El incumplimiento de esta obligación será motivo de responsabilidad.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 547.
 
-Advertida la posible existencia de infracción, la Contraloría iniciará la etapa de investigación y abrirá el expediente respectivo, determinación de la cual dará aviso a la Comisión de Administración.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 548.
 
-Si derivado de las investigaciones se advierte la participación de servidor público en presuntas irregularidades en materia de contrataciones públicas, la Contraloría deberá proceder conforme a la normatividad aplicable.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 549.
 
-La Contraloría formulará las solicitudes de información establecidas en el artículo 14 de la Ley Anticorrupción.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 550.
 
-La Contraloría podrá solicitar a Estado extranjero información que requiera para la investigación en términos del artículo 5, párrafo tercero, de la Ley Anticorrupción, además de promover las acciones establecidas en su artículo 15, segundo párrafo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 551.
 
-La investigación deberá realizarse en un plazo no mayor a seis meses, el cual podrá prorrogarse por causa justificada, considerando el término de la prescripción.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
 #### SECCIÓN QUINTA. LICITACIÓN PÚBLICA
 
 ###### Artículo 552.
 
-Concluida la investigación la Contraloría, en el plazo de diez días hábiles, emitirá acuerdo de inicio del procedimiento administrativo sancionador; de no encontrar elementos suficientes para demostrar la existencia de la infracción y la probable responsabilidad del infractor, el acuerdo será de conclusión y archivo del expediente. Esto último, sin perjuicio de lo establecido por el artículo 17, párrafo segundo, de la Ley Anticorrupción.
-
-La determinación de la Contraloría deberá hacerse del conocimiento de la Comisión de Administración.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 553.
 
-Iniciado el procedimiento administrativo sancionador la Contraloría, por conducto de la Dirección General de Responsabilidades, lo tramitará y resolverá de conformidad con la Ley Anticorrupción y este Capítulo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 554.
 
-Para la determinación de las infracciones establecidas en el Capítulo Segundo de la Ley Anticorrupción, se observará lo dispuesto en la normatividad aplicable al Consejo en materia de contrataciones públicas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 555.
 
-El recurso de revisión contra la resolución del procedimiento administrativo sancionador, que establece el artículo 24 de la Ley Anticorrupción, deberá presentarse a la Contraloría quien, en su caso, lo admitirá y remitirá a la Comisión de Administración para su resolución.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 556.
 
-Las sanciones impuestas de manera definitiva se publicarán por la Contraloría conforme a la Ley Anticorrupción. En términos de ésta, la Contraloría deberá notificar a la Tesorería de la Federación las multas que se impongan, para los efectos a que haya lugar.
-
-Durante el plazo en que las personas se encuentren inhabilitadas, el Consejo no podrá otorgarles subsidios, donativos y otros beneficios previstos en la normatividad aplicable.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ###### Artículo 557.
 
-La Contraloría registrará las resoluciones definitivas del procedimiento administrativo sancionador que establezcan sanción.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
 
 ## TÍTULO SEGUNDO. BIENES
 
@@ -7193,7 +7223,9 @@ V. Autorizar el orden del día de las reuniones a celebrar;
 
 VI. Vigilar el correcto funcionamiento del Comité;
 
-VII. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás disposiciones aplicables en la materia, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+VII. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás disposiciones aplicables en la materia, observando en todo momento lo previsto en la Ley General de Responsabilidades Administrativas; y
 
 VIII. Las demás funciones que le sean encomendadas por el Pleno o la Comisión de Administración.
 
@@ -7211,7 +7243,9 @@ IV. Remitir al secretario, antes de la reunión, los documentos de los asuntos q
 
 V. Verificar que el desarrollo de las sesiones del Comité se realicen de conformidad con los lineamientos de integración y funcionamiento del Comité;
 
-VI. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás disposiciones aplicables de la materia, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+VI. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás disposiciones aplicables de la materia, observando en todo momento lo previsto en la Ley General de Responsabilidades Administrativas; y
 
 VII. Las demás funciones que les sean encomendadas por el Pleno, la Comisión de Administración o el Comité.
 
@@ -7239,7 +7273,9 @@ VIII. Vigilar que el archivo de los documentos analizados por el Comité esté c
 
 IX. Vigilar que cada asunto aprobado por el Comité esté respaldado con la firma de los integrantes asistentes a la sesión celebrada;
 
-X. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás disposiciones aplicables de la materia, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+X. Cumplir y hacer cumplir las disposiciones establecidas en la Ley Orgánica, este Capítulo y demás disposiciones aplicables de la materia, observando en todo momento lo previsto en la Ley General de Responsabilidades Administrativas;
 
 XI. Recabar la firma de los asistentes a cada sesión; así como conservar las mismas debidamente formuladas; y
 
@@ -7473,7 +7509,9 @@ XII. Indicación de que la garantía de seriedad de las ofertas se hará efectiv
 
 XIII. Incluir un señalamiento relativo a una declaración de integridad, de tal manera que los licitantes al presentar las bases firmadas acepten, bajo protesta de decir verdad, de que se abstendrán de adoptar conductas, por sí mismos o a través de interpósita persona para que los servidores públicos del Consejo, induzcan o alteren la evaluación de las ofertas, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas en relación con los demás participantes; y
 
-XIV. La indicación de que no podrán participar las personas que se encuentren en alguno de los supuestos del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+XIV. La indicación de que no podrán participar las personas que se encuentren en alguno de los supuestos previstos en los artículos 299 y 300 de este Acuerdo y demás disposiciones aplicables.
 
 ###### Artículo 577.
 
@@ -7765,6 +7803,8 @@ La Secretaría Ejecutiva de Administración será la encargada de verificar que 
 
 #### SECCIÓN SÉPTIMA. IMPEDIMENTOS PARA PARTICIPAR
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 605.
 
 En el Registro de Bienes Asegurados No Reclamados y Decomisados, puestos a disposición del Consejo, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo, a cargo de la Secretaría Ejecutiva de Administración, por conducto de la Dirección General Recursos Materiales; y Administración Regional; se inscribirán:
@@ -7985,9 +8025,11 @@ La Secretaría Ejecutiva de Administración hará del conocimiento de la Comisi�
 
 Una vez emitido el fallo, en el procedimiento de enajenación respectivo, se deberá notificar por escrito a los participantes el resultado del concurso, citando, en su caso, a los concursantes ganadores; en todo caso, previamente a que se notifique la adjudicación, se deberá informar del fallo a la Comisión de Administración para que determine lo conducente.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 634.
 
-Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en esta Sección, serán responsables por la inobservancia de las disposiciones establecidas en el mismo, en la Ley Orgánica, y en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de la responsabilidad penal que corresponda conforme a otras disposiciones aplicables.
+Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en esta Sección, serán responsables por la inobservancia de las disposiciones establecidas en el mismo, en la Ley Orgánica, y en la Ley General de Responsabilidades Administrativas; sin perjuicio de la responsabilidad penal que corresponda conforme a otras disposiciones aplicables.
 
 ###### Artículo 635.
 
@@ -8147,7 +8189,9 @@ XIV. Indicación de que la garantía de seriedad de las ofertas se hará efectiv
 
 XV. Incluir un señalamiento relativo a una declaración de integridad, de tal manera que los participantes al presentar las bases firmadas acepten, bajo protesta de decir verdad, de que se abstendrán de adoptar conductas, por sí mismos o a través de interpósita persona para que los servidores públicos del Consejo, induzcan o alteren la evaluación de las ofertas, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes;
 
-XVI. La indicación de que no podrán participar las personas que se encuentren en alguno de los supuestos del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+XVI. La indicación de que no podrán participar las personas que se encuentren en alguno de los supuestos previstos en los artículos 299 y 300 de este Acuerdo y demás disposiciones aplicables; y
 
 XVII. Que el documento que se entregará al interesado ganador, será una constancia de adjudicación, suscrita por el servidor público facultado para ello.
 
@@ -8297,19 +8341,7 @@ Cualquier venta o acto que se realice en contra de lo dispuesto en este Capítul
 
 ###### Artículo 669.
 
-Estarán impedidas para participar en los procedimientos de enajenación regulados por este Capítulo, las personas que se encuentren en los supuestos siguientes:
-
-I. Las que no hubieren cumplido con cualquiera de las obligaciones derivadas de los procedimientos previstos en este Capítulo, por causas imputables a ellas;
-
-II. Aquéllas que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe, en algún procedimiento realizado por el Consejo para la adjudicación de un bien;
-
-III. Aquéllas a las que se les declare en concurso civil o mercantil;
-
-IV. Los servidores públicos del Poder Judicial de la Federación; y
-
-V. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley Orgánica.
-
-Para los efectos de las fracciones II y III, la Administración Regional y la Dirección General de Recursos Materiales, llevarán un registro de las personas que se ubiquen en los supuestos previstos por las mismas, debiendo intercambiar su información.
+Estarán impedidas para participar en los procedimientos de enajenación regulados por este Capítulo, las personas que estén impedidas para contratar, de conformidad con lo previsto en este Acuerdo y en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
 
 #### SECCIÓN PRIMERA. REGLAS GENERALES Y EJECUTORES DE GASTO
 
@@ -8545,7 +8577,9 @@ El Comité podrá invitar a las personas físicas y morales y a los servidores p
 
 Los servidores públicos y demás personas a las que se refiere este artículo deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
 
-Los servidores públicos que participen en las sesiones del Comité de Informática, en el ámbito de su competencia, deberán cumplir y hacer cumplir, las disposiciones establecidas en este Capítulo y demás ordenamientos aplicables, así como lo dispuesto por el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+Los servidores públicos que participen en las sesiones del Comité de Informática, en el ámbito de su competencia, deberán cumplir y hacer cumplir, las disposiciones establecidas en este Capítulo y demás ordenamientos aplicables, así como lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 690.
 
@@ -8759,7 +8793,9 @@ XII. Las demás que determine el Pleno, y las Comisiones.
 
 Las administraciones de edificios deberán ejercer sus atribuciones de conformidad con las disposiciones aplicables; y deberán atender, en todo caso, al monto de la operación, sin incluir el impuesto al valor agregado, conforme a los parámetros que anualmente emita el Pleno para la adjudicación de contratos de adquisiciones, arrendamientos y prestación de servicios y mantenimiento de inmuebles.
 
-Los servidores públicos de las administraciones de edificios deberán cumplir las disposiciones establecidas en este Capítulo, observando en todo momento las obligaciones contenidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+Los servidores públicos de las administraciones de edificios deberán cumplir las disposiciones establecidas en este Capítulo, observando en todo momento lo previsto en la Ley General de Responsabilidades Administrativas.
 
 La responsabilidad administrativa derivada de los actos que se realicen en contravención a lo anterior, se determinará conforme a lo dispuesto en la Ley Orgánica y en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, sin perjuicio de la responsabilidad civil o penal que pudiera resultar de dichos actos.
 
@@ -10311,6 +10347,8 @@ Las unidades ejecutoras de gasto serán responsables de la rendición de cuentas
 
 #### SECCIÓN SÉPTIMA. SANCIONES
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 834.
 
 (DEROGADO, D.O.F. 27 DE ABRIL DE 2017)
@@ -10749,7 +10787,9 @@ IV. Dirigir los debates durante las sesiones, así como emitir su voto en los as
 
 V. Vigilar el correcto funcionamiento del Comité;
 
-VI. En el ámbito de su competencia, cumplir y hacer cumplir las disposiciones establecidas en este Capítulo y demás aplicables, así como lo dispuesto en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
+VI. En el ámbito de su competencia, cumplir y hacer cumplir las disposiciones establecidas en este Capítulo y demás aplicables, así como lo dispuesto en la Ley General de Responsabilidades Administrativas;
 
 VII. Presentar a la Comisión de Administración un informe semestral de la gestión del Comité;
 
@@ -11265,7 +11305,7 @@ La información que se genere con motivo de la administración y operación del 
 
 ###### Artículo 913.
 
-El incumplimiento a lo dispuesto en este Capítulo se sujetará a lo previsto en la Ley Orgánica, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
+El incumplimiento a lo dispuesto en este Capítulo se sujetará a lo previsto en la Ley Orgánica, la Ley General de Responsabilidades Administrativas y en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
 
 ###### Artículo 914.
 
@@ -11359,13 +11399,13 @@ III. Dominio de protocolos en materia de acceso a instalaciones; atención ante 
 
 La evaluación de control de confianza será un elemento adicional que se tomará en cuenta para determinar la permanencia y vigencia del nombramiento de los servidores públicos de la Coordinación de Seguridad que ocupen una plaza con funciones de seguridad y vigilancia, cuya realización se efectuará por las autoridades competentes, lo cual será gestionado por la Coordinación de Seguridad.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
-Tratándose de servidores públicos de nuevo ingreso, la Coordinación de Seguridad deberá gestionar que se realice la evaluación de control de confianza en un plazo que no podrá exceder de los tres meses a partir de la fecha de su ingreso. Las subsecuentes evaluaciones se realizarán cada tres años, o cuando así lo determine la Comisión de Vigilancia, Información y Evaluación a propuesta de la propia Coordinación, debidamente justificada.
+Tratándose de servidores públicos de nuevo ingreso, la Coordinación de Seguridad deberá gestionar que se realice la evaluación de control de confianza en un plazo que no podrá exceder de los tres meses a partir de la fecha de su ingreso. Las subsecuentes evaluaciones se realizarán cada tres años, o cuando así lo determine la Comisión de Vigilancia a propuesta de la propia Coordinación, debidamente justificada.
 
-> <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
-Cuando algún servidor público no acredite la evaluación de control de confianza, el Coordinador de Seguridad elaborará un informe que se someterá a consideración de la Comisión de Vigilancia, Información y Evaluación. Si ésta, con vista en dicho informe y en las constancias que lo soportan, considera que la no acreditación de la referida evaluación se debe a cuestiones que pueden ser subsanadas y que no implican un riesgo para la seguridad de la institución, podrá determinar la permanencia del personal tomando en cuenta la antigüedad y el desempeño dentro del Poder Judicial de la Federación.
+Cuando algún servidor público no acredite la evaluación de control de confianza, el Coordinador de Seguridad elaborará un informe que se someterá a consideración de la Comisión de Vigilancia. Si ésta, con vista en dicho informe y en las constancias que lo soportan, considera que la no acreditación de la referida evaluación se debe a cuestiones que pueden ser subsanadas y que no implican un riesgo para la seguridad de la institución, podrá determinar la permanencia del personal tomando en cuenta la antigüedad y el desempeño dentro del Poder Judicial de la Federación.
 
 ###### Artículo 925.
 
@@ -11537,9 +11577,11 @@ Corresponde a los titulares de órganos jurisdiccionales y áreas administrativa
 
 La Contraloría pondrá en práctica mecanismos de control internos a fin de identificar, prevenir y, en su caso, sancionar la celebración de operaciones de compraventa de cualquier producto o servicio en los lugares señalados.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 948.
 
-La Visitaduría Judicial verificará en las visitas ordinarias y extraordinarias si en los órganos visitados se observa lo dispuesto en este Capítulo, y de no ser así, lo informará a la Secretaría Ejecutiva de Disciplina.
+La Visitaduría Judicial verificará en las visitas ordinarias si en los órganos jurisdiccionales visitados se observa lo dispuesto en este Capítulo, y de no ser así, lo informará a la Secretaría Ejecutiva de Vigilancia.
 
 ###### Artículo 949.
 
@@ -11991,6 +12033,8 @@ Para obtener un certificado digital de la FIREL emitido por el Consejo, el inter
 
 ### CAPÍTULO SÉPTIMO. SANCIONES
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 988.
 
 La renovación deberá efectuarse dentro de los treinta días anteriores a la conclusión de su vigencia. Si en ese lapso no se renueva el certificado digital de la FIREL correspondiente, éste caducará y el interesado deberá formular una nueva solicitud.
@@ -12049,7 +12093,7 @@ V. Revocar de inmediato su certificado digital de la FIREL cuando se ponga en ri
 
 ###### Artículo 995.
 
-Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en este Título, dará lugar al procedimiento y a las sanciones que correspondan en términos de lo previsto en la Ley Orgánica, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás disposiciones aplicables.
+Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en este Título, dará lugar al procedimiento y a las sanciones que correspondan en términos de lo previsto en la Ley Orgánica, la Ley General de Responsabilidades Administrativas, y demás disposiciones aplicables.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
@@ -12978,3 +13022,27 @@ QUINTO. Se instruye a la Contraloría del Poder Judicial de la Federación, para
 Dicha propuesta tomará en consideración la especialidad, naturaleza, complejidad, objeto y alcance de las contrataciones, así como los estándares que para tal efecto se utilicen en contrataciones de naturaleza análoga en la Administración Pública Federal, o en este último caso, a través de investigaciones de mercado y demás parámetros económico financieros aplicables. El tabulador se publicará una vez aprobado, en la página del Consejo de la Judicatura Federal conforme a las obligaciones en materia de transparencia y rendición de cuentas y deberá estar aprobado y publicado, antes de la entrada en vigor de los artículos transitorios PRIMERO, SEGUNDO Y TERCERO.
 
 SEXTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el siete de diciembre de dos mil dieciocho.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+Lo anterior, con excepción del ARTÍCULO OCTAVO de este Acuerdo, del cual el Secretario Ejecutivo del Pleno distribuirá copia certificada a las unidades administrativas involucradas en su aplicación o ejecución.
+
+TERCERO. Las Secretarías Ejecutivas de Finanzas y Servicios Personales; y de Administración, por conducto de las unidades administrativas competentes que les estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. La Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial conservará los recursos humanos, presupuestales, financieros y materiales con los que actualmente cuenta la Dirección General de Responsabilidades, así como la competencia para continuar conociendo de los asuntos en trámite.
+
+SEXTO. La Unidad de Investigación de Responsabilidades Administrativas se transforma en la Unidad General de Investigación de Responsabilidades Administrativas con los recursos humanos, presupuestales, financieros y materiales con que cuenta la Unidad de Investigación, así como con las investigaciones que actualmente lleva a cabo.
+
+SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluación, y a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación se entenderán hechas a la Comisión de Vigilancia y a la Secretaría Ejecutiva de Vigilancia, respectivamente.
+
+Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
+
+Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
