@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2018-10-29"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -1099,9 +1099,13 @@ I.- La Unidad notificará por escrito al concesionario los motivos de caducidad,
 
 II.- Transcurrido dicho plazo la Unidad emitirá acuerdo en el que en su caso, por la naturaleza de las pruebas ofrecidas, se señale una fecha dentro de los 15 días siguientes para su desahogo;
 
-III.- Concluido el periodo probatorio, el Ayuntamiento cuenta con un término de 20 días para emitir un proyecto de revocación, el cual será presentado ante el Ayuntamiento por el Presidente Municipal, para que en forma colegiada se dicte la resolución que en derecho proceda, la cual deberá de notificarse en los estrados de la Unidad al permisionario o a quien represente legalmente sus intereses.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
 
-En el caso de que se declare la revocación del permiso por cualquiera de los supuestos legales procedentes, el permisionario no tendrá derecho a compensación o indemnización alguna.
+III.- Concluido el periodo probatorio, el Ayuntamiento cuenta con un término de 20 días para emitir un proyecto de revocación, el cual será presentado ante el Ayuntamiento por el Presidente Municipal, para que en forma colegiada se dicte la resolución que en derecho proceda, la cual deberá de notificarse en los estrados de la Unidad al concesionario o a quien represente legalmente sus intereses.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. 7 DE DICIEMBRE DE 2018]</small>
+
+En el caso de que se declare la revocación de la concesión por cualquiera de los supuestos legales procedentes, el concesionario no tendrá derecho a compensación o indemnización alguna.
 
 ### CAPITULO XI. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE LOS VEHÍCULOS DE TRANSPORTE PÚBLICO
 
@@ -2008,3 +2012,9 @@ P.O. 29 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN AL ARTÍCULO 59 DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, CON EL QUE SE ADICIONA EL INCISO XVII DE LAS CAUSAS DE REVOCACIÓN DE PERMISOS Y CONCESIONES".]
 
 ÚNICO.- La presente adición entrara en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 61 FRACCIÓN III DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- LA REFORMA DEL ARTÍCULO 61 FRACCIÓN III DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
