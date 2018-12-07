@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2018-05-07"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SIN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE DICIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -267,7 +269,7 @@ Los Diputados que en el curso de las sesiones, y sin causa justificada a juicio 
 
 ###### ARTICULO 23.
 
-Todo aquel Diputado que viole la privacidad que debe observarse en los asuntos tratados en sesión secreta, será turnado a la Comisión de Honor y Justicia.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 24.
 
@@ -279,19 +281,21 @@ Los Diputados que salgan de la sesión sin el permiso correspondiente del Presid
 
 ###### ARTICULO 26.
 
-Si durante el desarrollo de las sesiones algún Diputado profiriese expresiones ofensivas a sus compañeros, podrán éstos reclamar luego que haya concluido de hablar el que las profirió, y si éste no satisface al Congreso o al Diputado que se crea ofendido, el Presidente mandará que se escriba y firme la expresión en el acta correspondiente, turnándolo a la Comisión de Honor y Justicia.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 27.
 
-Los Diputados que no observen en las sesiones el debido comportamiento, se harán acreedores la primera vez a una amonestación por escrito y, en caso de reincidencia, será turnado por el Presidente a la Comisión de Honor y Justicia la que resolverá conforme lo estime conveniente al decoro del Congreso y a la armonía que debe haber entre los Diputados.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 28.
 
 Los Diputados que por sí o por intermedio de otras personas afecten el patrimonio del Congreso serán turnados a la Comisión Instructora, para que inicie el procedimiento respectivo.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 29.
 
-Ningún Diputado podrá excusarse cuando se le designe para formar parte de una Comisión o de la Mesa Directiva; cuando incumplan con el desempeño de la Comisión serán sancionados, la primera vez con una amonestación y, de reincidir será turnado a la Comisión de Honor y Justicia.
+Ningún Diputado podrá excusarse cuando se le designe para formar parte de una Comisión o de la Mesa Directiva.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -797,7 +801,9 @@ IV. De Educación Pública y Cultura;
 
 V. De Ciencia y Tecnología;
 
-VI. De Ecología;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+VI. De Ecología y Desarrollo Sustentable;
 
 VII. De Desarrollo Económico;
 
@@ -835,7 +841,9 @@ XXII. De Protocolo y Régimen Orgánico Interior;
 
 XXIII. De Transparencia, Anticorrupción y Participación Ciudadana;
 
-XXIV. De Honor y Disciplina Parlamentaria;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+
+XXIV. De Asuntos Hidráulicos;
 
 XXV. De Vivienda;
 
@@ -863,23 +871,23 @@ El Pleno del Congreso del Estado, acordará por mayoría de los Diputados presen
 
 Los Integrantes de las Comisiones Permanentes durarán en su cargo por el término establecido para el ejercicio constitucional de la Legislatura correspondiente y sólo podrán ser removidos por causa grave mediante acuerdo de la Asamblea.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 70.
 
-Las Comisiones Permanentes, tendrán la competencia que se derive de su denominación en relación a las áreas respectivas de la Administración Pública Estatal y en su caso a la materia de su conocimiento. En el ejercicio de sus funciones podrán dar seguimiento a los programas correspondientes, realizar trabajos de coordinación, así como analizar y dictaminar las iniciativas de Ley y de Decreto, y de participar en las deliberaciones de la Asamblea de acuerdo con las disposiciones de esta Ley.
+Las Comisiones Permanentes tendrán la competencia que se derive de su denominación en relación a las áreas respectivas de la Administración Pública Estatal y, en su caso, a la materia de su conocimiento. En el ejercicio de sus funciones podrán dar seguimiento a los programas correspondientes, realizar trabajos de coordinación, así como analizar y dictaminar las iniciativas de Ley y de Decreto, y de participar en las deliberaciones del Pleno de acuerdo con las disposiciones de esta Ley.
 
-Las reuniones de las Comisiones serán públicas.
+Las reuniones de las Comisiones serán públicas. También podrán celebrar reuniones públicas de información y audiencia cuando lo consideren pertinente.
 
-Éstas también podrán celebrar reuniones públicas de información y audiencia cuando lo consideren pertinente.
+Cuando lo solicite el autor o autores de las iniciativas y previo a la discusión de los proyectos de dictámenes, las Comisiones celebrarán reuniones de trabajo con ellos a efecto de que expongan el contenido de su propuesta. Las opiniones que se viertan para tal efecto podrán ser consideradas para su inclusión en los dictámenes.
 
-A las reuniones de las Comisiones podrán asistir sus miembros, las personas convocadas para informarlas, los Diputados que lo deseen y el público en general siempre que la capacidad de la sala en que se celebre la reunión respectiva lo permita. En sus deliberaciones sólo podrán participar los Diputados del Congreso y únicamente votarán los miembros de la respectiva Comisión o Comisiones. Para tales efectos el Presidente o Presidentes de las Comisiones que se encuentren reunidas acordarán las medidas necesarias para la celebración de la reunión respectiva, observando la normatividad en materia de protección civil y seguridad.
+A las reuniones de las Comisiones asistirán sus miembros y podrán asistir los autores de la iniciativa o iniciativas, las personas convocadas para informarlas, los Diputados que lo deseen y el público en general, siempre que la capacidad de la sala en que se celebre la reunión respectiva lo permita. En sus deliberaciones sólo podrán participar los Diputados del Congreso y únicamente votarán los miembros de la respectiva Comisión o Comisiones. Para tales efectos, el Presidente o Presidentes de las Comisiones que se encuentren reunidas acordarán las medidas necesarias para la celebración de la reunión respectiva, observando la normatividad en materia de protección civil y seguridad.
 
-La asistencia del público en general estará sujeta a la capacidad de la sala en que se celebre la reunión respectiva; asimismo, se deberá guardar el debido orden y el público asistente deberá de abstenerse de tomar parte del debate y de realizar manifestaciones de ningún género, presentarse armados, bajo el aparente influjo de alguna sustancia tóxica o enervante; embozado o pretendan introducir objetos extraños sin someterlos a su inspección por el personal encargado. En caso de contravenir esta disposición, el Presidente o Presidentes de las Comisiones que se encuentren reunidas solicitarán se retire del lugar la persona o personas que hayan infringido dichas disposiciones, y de ser necesario requerirá el apoyo de la fuerza pública. Si las disposiciones ordenadas por el Presidente o Presidentes no bastaren para mantener el orden en las reuniones, de inmediato levantará la sesión pública y podrá continuarla con carácter privada.
+La asistencia del público a las reuniones y audiencias estará sujeta a las previsiones establecidas en el Capítulo III del Título Quinto de esta Ley. Para tal efecto los Presidentes de las Comisiones tendrán las atribuciones que en el mismo se refieren.
 
 Las reuniones de las Comisiones serán transmitidas en vivo o diferidas, en la página electrónica oficial del Congreso del Estado o en las diferentes plataformas digitales con que cuente el mismo, en la medida en que los medios técnicos y presupuestales lo permitan; asimismo, bajo dichos parámetros los Presidentes de las Comisiones podrán solicitar la habilitación de una sala alterna donde el público en general que no pueda ingresar a la sala donde se esté celebrando una reunión, puedan seguirla a través de la reproducción en vivo en los medios habilitados para tal efecto.
 
-Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excepción de las Comisiones de Honor y Disciplina Parlamentaria e Instructora.
+Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excepción de la Comisión Instructora.
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
 
@@ -917,9 +925,7 @@ III.- La Comisión de Protocolo y Régimen Orgánico Interior tendrá a su cargo
 
 IV.- La Comisión de Hacienda Pública y Administración tendrá a su cargo el despacho de los negocios que le señalen las Leyes en materia fiscal, de deuda pública y de contratos de colaboración público privada, los asuntos donde se ventile la situación de la hacienda pública estatal y de los municipios, así como los asuntos en materia de administración pública estatal y municipal.
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
-
-V.- La Comisión de Honor y Disciplina Parlamentaria funcionará cuando así lo acuerde la Asamblea y conocerá específicamente de los hechos en que se vean involucrados los Diputados en el desarrollo de sus funciones;
+V.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
@@ -2484,3 +2490,25 @@ SEGUNDO. La reforma del artículo 70 y adición del artículo 70 Bis previstas e
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa”.
 
 CUARTO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 24 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y DEROGA DIVERSA (SIC) DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO TERCERO.
+
+La Comisión Permanente de Ecología modifica su denominación por la de Ecología y Desarrollo Sustentable, manteniendo su actual integración.
+
+P.O. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 25 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA EL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado Sinaloa".
