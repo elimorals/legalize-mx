@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2017-08-22"
+last_updated: "2018-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-01-09"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACION PATRIMONIAL, CONTROL Y RENDICION DE CUENTAS]
 
-> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL D.O.F. DE 7 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -3274,3 +3274,35 @@ PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 TERCERO. Los recursos de inconformidad en trámite a la entrada en vigor del presente Acuerdo se continuarán hasta su conclusión conforme a las disposiciones jurídicas con las que dieron inicio.
+
+D.O.F. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el siete de diciembre de dos mil dieciocho.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El procedimiento de responsabilidad administrativa se seguirá por las faltas contempladas en las disposiciones vigentes al momento de su comisión.
+
+Las investigaciones y los procedimientos de responsabilidad administrativa iniciados antes del uno de diciembre de dos mil diecisiete y los procedimientos iniciados a partir de esa fecha, que estén en trámite, deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+Las investigaciones y los procedimientos de responsabilidad administrativa iniciados a la entrada en vigor del presente Acuerdo se regirán por lo previsto en este instrumento normativo.
+
+Las investigaciones que estén a cargo de la Unidad de Investigación de Responsabilidades Administrativas serán atendidas por la Unidad General de Investigación de Responsabilidades Administrativas y los procedimientos de responsabilidad substanciados por la Dirección General de Responsabilidades Administrativas serán atendidos por la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
+
+CUARTO. El Instituto Federal de Defensoría Pública como órgano auxiliar del Consejo de la Judicatura Federal contará con defensores de oficio que intervendrán en los procedimientos de responsabilidad administrativa que se substancien en el Consejo de la Judicatura Federal.
+
+Para tal fin la Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de las unidades administrativas competentes que le estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para que el Instituto Federal de Defensoría Pública cuente con las plazas respectivas.
+
+QUINTO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+SÉPTIMO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+OCTAVO. La Secretaría Ejecutiva de Disciplina y la Contraloría del Poder Judicial de la Federación expedirán los Lineamientos del Sistema de Justicia en Línea dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
+
+NOVENO. Se abroga el Acuerdo General número 13/1997, del Pleno del Consejo de la judicatura federal, que determina a la Comisión de disciplina como el órgano competente para conocer de los dictámenes del secretario ejecutivo de disciplina en relación con las visitas ordinarias de inspección a los órganos jurisdiccionales federales que no muestren irregularidades administrativas.
+
+DÉCIMO. Desde la entrada en vigor del presente Acuerdo y hasta el treinta de noviembre de dos mil dieciocho, las referencias que se hagan en este instrumento normativo al Juez de Despacho y Administrador de los Centros de Justicia Penal Federal, se entenderán hechas al Juez de Distrito que funja como Administrador.
