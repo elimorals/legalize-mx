@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2013-del-pleno-del-consejo-de-la-96784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-06"
-last_updated: "2018-05-25"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2013-11-28"
 
 ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de diciembre de 2013.
 
@@ -391,11 +391,11 @@ I. Fiscalizar permanentemente los ingresos y egresos del patrimonio del Fideicom
 
 II. Las demás que correspondan conforme a las disposiciones legales aplicables.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 21.
 
-El incumplimiento a lo previsto en el presente Acuerdo será sancionado conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, y en las demás disposiciones aplicables.
+El incumplimiento a lo previsto en el presente Acuerdo será sancionado conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley, la Ley General de Responsabilidades Administrativas, el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, y en las demás disposiciones aplicables.
 
 ###### Artículo 22.
 
@@ -542,3 +542,27 @@ D.O.F. 25 DE MAYO DE 2018.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el siete de diciembre de dos mil dieciocho.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+Lo anterior, con excepción del ARTÍCULO OCTAVO de este Acuerdo, del cual el Secretario Ejecutivo del Pleno distribuirá copia certificada a las unidades administrativas involucradas en su aplicación o ejecución.
+
+TERCERO. Las Secretarías Ejecutivas de Finanzas y Servicios Personales; y de Administración, por conducto de las unidades administrativas competentes que les estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. La Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial conservará los recursos humanos, presupuestales, financieros y materiales con los que actualmente cuenta la Dirección General de Responsabilidades, así como la competencia para continuar conociendo de los asuntos en trámite.
+
+SEXTO. La Unidad de Investigación de Responsabilidades Administrativas se transforma en la Unidad General de Investigación de Responsabilidades Administrativas con los recursos humanos, presupuestales, financieros y materiales con que cuenta la Unidad de Investigación, así como con las investigaciones que actualmente lleva a cabo.
+
+SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluación, y a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación se entenderán hechas a la Comisión de Vigilancia y a la Secretaría Ejecutiva de Vigilancia, respectivamente.
+
+Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
+
+Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
