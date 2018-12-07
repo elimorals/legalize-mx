@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2018-08-14"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -305,15 +305,19 @@ El secretario designado para realizar la guardia deberá, mediante la utilizaci�
 
 En caso de que se tenga que realizar un cambio en la designación del secretario de guardia, quien deba suplirlo tendrá que registrarse en el sistema antes del inicio del periodo para el que fue nombrado.
 
+> <small>(REFORMADO, POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 22.
 
-La Secretaría Ejecutiva de Vigilancia, Información y Evaluación será la encargada de coordinar las tareas tendentes al establecimiento, desarrollo y mantenimiento del Sistema de Registro y Control de Guardias de los órganos jurisdiccionales.
+La Secretaría Ejecutiva de Vigilancia será la encargada de coordinar las tareas tendentes al establecimiento, desarrollo y mantenimiento del Sistema de Registro y Control de Guardias de los órganos jurisdiccionales.
 
-Las áreas administrativas brindarán el apoyo que les sea requerido por la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, para el exacto cumplimiento de lo previsto en este Capítulo.
+Las áreas administrativas brindarán el apoyo que les sea requerido por la Secretaría Ejecutiva de Vigilancia, para el exacto cumplimiento de lo previsto en este Capítulo.
+
+> <small>(REFORMADO, POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 23.
 
-Lo no previsto en este Capítulo, así como cualquier consulta, será resuelto por la Comisión de Vigilancia, Información y Evaluación.
+Lo no previsto en este Capítulo, así como cualquier consulta, será resuelto por la Comisión de Vigilancia.
 
 > <small>N. DE E. EL ACUERDO, EXPEDIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 21 DE MAYO DE 2015, MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE CAPÍTULO.</small>
 
@@ -953,11 +957,11 @@ Los requisitos de las convocatorias, su calendario, etapas, las formas de identi
 
 #### SECCIÓN DÉCIMA SÉPTIMA. OBLIGACIONES DEL PERSONAL ADSCRITO A LAS OFICINAS DE CORRESPONDENCIA COMÚN
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 72.
 
-Son obligaciones de los servidores públicos de las oficinas de correspondencia común, cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de éste, debiendo entender por servicio encomendado, al cúmulo de obligaciones, atribuciones y funciones inherentes al cargo, las cuales se encuentran contenidas en la Ley Orgánica, en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en el presente Acuerdo, y en las demás disposiciones aplicables.
+Son obligaciones de los servidores públicos de las oficinas de correspondencia común, cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de éste, debiendo entender por servicio encomendado, al cúmulo de obligaciones, atribuciones y funciones inherentes al cargo, las cuales se encuentran contenidas en la Ley Orgánica, en la Ley General de Responsabilidades Administrativas, en el presente Acuerdo, y en las demás disposiciones aplicables.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -2867,11 +2871,11 @@ II. Que los datos de la persona inscrita en el SISE CB se hayan incorporado corr
 
 III. Que el servidor público encargado de operar el SISE CB lleve un control efectivo del registro de las identificaciones personales automáticas que se han realizado en el periodo que comprende la visita.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 205.
 
-La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, en el ámbito de su competencia, verificará el debido cumplimiento de este Capítulo, para lo cual podrá acceder a la información contenida tanto en la base de datos, como en los reportes que el SISE CB emita.
+La Secretaría Ejecutiva de Vigilancia, en el ámbito de su competencia, verificará el debido cumplimiento de este Capítulo, para lo cual podrá acceder a la información contenida tanto en la base de datos, como en los reportes que el SISE CB emita.
 
 ###### Artículo 206.
 
@@ -2895,9 +2899,11 @@ Las listas de acuerdos quedarán a disposición del público usuario para su con
 
 Los órganos jurisdiccionales que no cuenten con el SISE, quedarán exentos de la publicación de la lista de acuerdos en Internet, hasta en tanto cuenten con el SISE.
 
+> <small>(REFORMADO, POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 211.
 
-Las Comisiones de Disciplina y de Vigilancia, Información y Evaluación, así como la Visitaduría Judicial, en el ámbito de sus respectivas competencias, vigilarán el debido cumplimiento de lo dispuesto en el presente Capítulo.
+La Comisión de Vigilancia y la Visitaduría Judicial, en el ámbito de sus respectivas competencias, vigilarán el debido cumplimiento de lo dispuesto en el presente Capítulo.
 
 ### CAPÍTULO ÚNICO
 
@@ -3554,3 +3560,27 @@ D.O.F. 14 DE AGOSTO DE 2018.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el siete de diciembre de dos mil dieciocho.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+Lo anterior, con excepción del ARTÍCULO OCTAVO de este Acuerdo, del cual el Secretario Ejecutivo del Pleno distribuirá copia certificada a las unidades administrativas involucradas en su aplicación o ejecución.
+
+TERCERO. Las Secretarías Ejecutivas de Finanzas y Servicios Personales; y de Administración, por conducto de las unidades administrativas competentes que les estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. La Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial conservará los recursos humanos, presupuestales, financieros y materiales con los que actualmente cuenta la Dirección General de Responsabilidades, así como la competencia para continuar conociendo de los asuntos en trámite.
+
+SEXTO. La Unidad de Investigación de Responsabilidades Administrativas se transforma en la Unidad General de Investigación de Responsabilidades Administrativas con los recursos humanos, presupuestales, financieros y materiales con que cuenta la Unidad de Investigación, así como con las investigaciones que actualmente lleva a cabo.
+
+SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluación, y a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación se entenderán hechas a la Comisión de Vigilancia y a la Secretaría Ejecutiva de Vigilancia, respectivamente.
+
+Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
+
+Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
