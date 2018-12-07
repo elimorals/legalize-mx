@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-federal-de-102250"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-04"
-last_updated: "2018-07-13"
+last_updated: "2018-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102250&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-08-27"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de septiembre de 2014.
 
@@ -229,23 +229,27 @@ X. Direcciones Generales Adjuntas:
 
 i) Del Registro Público de Telecomunicaciones;
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-ii) De Televisión Digital Terrestre;
+ii) (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 iii) De Vigilancia del Espectro Radioeléctrico;
 
 iv) (DEROGADO, D.O.F. 17 DE OCTUBRE DE 2014)
 
-v) De Atención en Procedimientos;
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+v) De Análisis Jurídico;
 
-vi) De Estadística y Análisis de Indicadores, y
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+vi) De Estadística y Análisis de Indicadores;
 
-vii) De Planeación y Prospectiva.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+vii) De Prospectiva y Análisis de Impacto Económico, y
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+viii) De Planeación y Gestión de Proyectos.
 
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
 
@@ -393,9 +397,11 @@ El Comisionado Ponente deberá presentar el proyecto de resolución al Pleno par
 
 En aquellos casos en los que el Pleno califique la existencia de un impedimento por parte del Comisionado Ponente, el expediente será turnado al siguiente Comisionado que corresponda en el orden indicado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 12.
 
-Las sesiones del Pleno podrán ser ordinarias o extraordinarias. Las sesiones ordinarias se celebrarán cuando menos una vez cada mes, conforme al calendario de sesiones fijado por el Pleno. Las sesiones extraordinarias podrán ser convocadas por el Presidente o por cuando menos cuatro Comisionados, a través del Secretario Técnico del Pleno, con al menos veinticuatro horas de anticipación. En las sesiones extraordinarias sólo podrán tratarse los asuntos específicos para los que fueron convocadas.
+Las sesiones del Pleno podrán ser ordinarias o extraordinarias. Las sesiones ordinarias se celebrarán cuando menos una vez cada mes y serán convocadas con al menos cinco días hábiles de anticipación, conforme al calendario de sesiones fijado por el Pleno. Las sesiones extraordinarias podrán ser convocadas por el Presidente o por cuando menos cuatro Comisionados, a través del Secretario Técnico del Pleno, con al menos veinticuatro horas de anticipación. En las sesiones extraordinarias sólo podrán tratarse los asuntos específicos para los que fueron convocadas.
 
 Sin necesidad de convocatoria alguna, las sesiones del Pleno y las resoluciones y acuerdos tomados en ellas serán válidos, siempre que concurran todos los Comisionados, ya sea físicamente o a través de cualquier medio de comunicación electrónica a distancia. Estas sesiones tendrán el carácter de extraordinarias.
 
@@ -481,7 +487,9 @@ IX. Llevar el seguimiento sistemático de las resoluciones y acuerdos del Pleno,
 
 X. Llevar el control de gestión del turno, seguimiento y desahogo de los asuntos que son competencia del Pleno;
 
-XI. Tramitar la publicación en el Diario Oficial de la Federación de los acuerdos, resoluciones, circulares y demás disposiciones administrativas de carácter general que emita el Instituto y los extractos de las disposiciones que contengan las directrices, guías, lineamientos y criterios técnicos a que hace referencia el artículo 12, fracción XXII, de la Ley de Competencia;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XI. Tramitar la publicación en el Diario Oficial de la Federación de los acuerdos, resoluciones, circulares y demás disposiciones administrativas de carácter general que emita el Pleno y los extractos de las disposiciones que contengan las directrices, guías, lineamientos y criterios técnicos a que hace referencia el artículo 12, fracción XXII, de la Ley de Competencia;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -489,7 +497,9 @@ XII. Elaborar versiones públicas de las grabaciones y de las versiones estenogr
 
 XIII. Organizar y resguardar el archivo del Pleno, así como su digitalización y el control de los servicios de consulta interna a sus expedientes, coordinando la clasificación de los acuerdos y resoluciones con las Unidades y Coordinaciones Generales que correspondan, conforme a la regulación aplicable en materia de transparencia y acceso a la información pública;
 
-XIV. Establecer un mecanismo de consulta en el portal de Internet del Instituto que permita la búsqueda ágil y oportuna de las resoluciones, acuerdos, actas, criterios y demás actos que emita el Pleno, conforme a las reglas de operación que éste expida, bajo los principios de gobierno digital, datos abiertos y transparencia proactiva en el acceso a la información, en términos de la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XIV. Establecer un mecanismo de consulta en el portal de Internet del Instituto que permita la búsqueda ágil y oportuna de las resoluciones, acuerdos, actas, criterios y demás actos que emita el Pleno, bajo los principios de gobierno digital, datos abiertos y transparencia proactiva en el acceso a la información, en términos de la normativa aplicable;
 
 XV. Publicar en el portal de Internet del Instituto el registro de entrevistas de los Comisionados con personas que representen los intereses de los agentes regulados, así como grabar y almacenar en medios electrónicos, ópticos o de cualquier otra tecnología, dichas entrevistas;
 
@@ -497,13 +507,17 @@ XVI. Prever el mecanismo necesario para que los Comisionados, en caso de ausenci
 
 XVII. Sistematizar y difundir al interior del Instituto los criterios aprobados por el Pleno, para su adecuada aplicación;
 
-XVIII. Despachar la correspondencia dirigida al Pleno conforme a las instrucciones del Presidente;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Despachar la correspondencia dirigida al Pleno;
 
 XIX. Certificar copias de las actas, los acuerdos, resoluciones, criterios, opiniones o decisiones que emita el Pleno, así como los instrumentos existentes en las áreas a su cargo, en los archivos de los Comisionados y de la Presidencia conforme a las disposiciones aplicables, y
 
 XX. Las demás que le encomienden otras disposiciones y el Pleno.
 
-El Secretario Técnico del Pleno será auxiliado en el ejercicio de sus atribuciones por un Prosecretario y los demás servidores públicos que se determinen conforme al presupuesto del Instituto.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+El Secretario Técnico del Pleno será auxiliado en el ejercicio de sus atribuciones por un Prosecretario, quien lo suplirá en sus ausencias, y los demás servidores públicos que se determinen conforme al presupuesto del Instituto.
 
 ### CAPÍTULO VIII. De la Coordinación Ejecutiva
 
@@ -705,11 +719,17 @@ XLVI. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad
 
 ### CAPÍTULO XI. De la Unidad de Política Regulatoria
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 21.
 
-La Unidad de Política Regulatoria tendrá adscritas a su cargo la Dirección General de Regulación Técnica, la Dirección General de Desarrollo de las Telecomunicaciones y la Radiodifusión, la Dirección General de Regulación de Interconexión y Reventa de Servicios de Telecomunicaciones y la Dirección General de Compartición de Infraestructura. Al Titular de la Unidad de Política Regulatoria le corresponden originariamente las atribuciones conferidas a las Direcciones Generales que se establecen en este Capítulo del Estatuto Orgánico y la de autorizar las tarifas de los servicios de telecomunicaciones y de radiodifusión en los términos de la Ley de Telecomunicaciones, y cuando los títulos de concesión lo prevean, así como cuando se trate de medidas establecidas a los agentes económicos preponderantes o con poder sustancial.
+La Unidad de Política Regulatoria tendrá adscritas a su cargo la Dirección General de Regulación Técnica, la Dirección General de Desarrollo de las Telecomunicaciones y la Radiodifusión, la Dirección General de Regulación de Interconexión y Reventa de Servicios de Telecomunicaciones y la Dirección General de Compartición de Infraestructura. Al Titular de la Unidad de Política Regulatoria le corresponden originariamente las atribuciones conferidas a las Direcciones Generales que se establecen en este Capítulo del Estatuto Orgánico, así como las de:
+
+I. Autorizar las tarifas de los servicios de telecomunicaciones y de radiodifusión en los términos de la Ley de Telecomunicaciones, y cuando los títulos de concesión lo prevean, así como cuando se trate de medidas establecidas a los agentes económicos preponderantes o con poder sustancial;
+
+II. Emitir el dictamen de integración de precios y tarifas de los servicios que el operador preponderante se proporciona a sí mismo, a terceros y a consumidores finales, previsto en el artículo 275 de la Ley de Telecomunicaciones, y
+
+III. Resolver los trámites previstos en las metodologías y criterios para la presentación de información de separación contable que emita el Pleno.
 
 ###### Artículo 22.
 
@@ -787,17 +807,13 @@ XIX. Proponer al Pleno los lineamientos de establecimiento y operación de labor
 
 XX. En su caso, establecer y operar laboratorios de prueba del Instituto, conforme a los lineamientos que emita el Instituto;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-XXI. Proponer al Pleno la metodología, formato y periodicidad, para que los concesionarios, autorizados y demás sujetos regulados, proporcionen al Instituto la información a que se refiere el artículo 292 de la Ley de Telecomunicaciones;
+XXI. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
 XXII. Participar en la elaboración, por los organismos internacionales competentes en actividades de normalización, de normas internacionales referentes a los productos para los que se hayan adoptado, o prevean adoptar disposiciones técnicas;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-XXIII. Proponer al Pleno la emisión de las disposiciones a las cuales se sujetará el arrendamiento de bandas de frecuencias concesionadas para uso comercial o privado;
+XXIII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -815,11 +831,19 @@ XXVI. Proponer al Pleno los procedimientos de evaluación de la conformidad comp
 
 XXVII. Proponer al Pleno los lineamientos para la acreditación, autorización, designación y reconocimiento de laboratorios de prueba y organismos de certificación a efectos de aplicar el reconocimiento mutuo de la evaluación de la conformidad;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XXVIII. Proponer al Pleno los lineamientos para la autorización de organismos de acreditación, así como para la actuación del Instituto, en caso de que funja como organismo de acreditación, y
+XXVIII. Proponer al Pleno los lineamientos para la autorización de organismos de acreditación, así como para la actuación del Instituto, en caso de que funja como organismo de acreditación;
 
-XXIX. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XXIX. Coordinar las actividades del Instituto, así como la colaboración con las autoridades competentes para el cumplimiento de las leyes aplicables, los compromisos internacionales asumidos por el Estado Mexicano y los instrumentos programáticos del Ejecutivo Federal, en materia de ciberseguridad;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XXX. Promover, a través o en coordinación con las dependencias y entidades competentes, así como con instituciones académicas y los particulares, el desarrollo tecnológico en materia de telecomunicaciones y radiodifusión, y
+
+XXXI. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ###### Artículo 24.
 
@@ -835,11 +859,13 @@ IV. Sustanciar los procedimientos para la declaración de los agentes económico
 
 V. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
-VI. Tramitar y, en su caso, autorizar al agente económico preponderante o con poder sustancial la adopción de una tecnología o un cambio de diseño en su red, previa consulta a los demás concesionarios;
+VI. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 VII. Sustanciar los procedimientos para la imposición de medidas a los agentes económicos con poder sustancial en el mercado relevante para evitar que se afecte la competencia y la libre concurrencia, así como proponer al Pleno la resolución correspondiente, previa opinión de la Unidad de Competencia Económica;
 
-VIII. Someter a consideración del Pleno las metodologías y criterios para la presentación de la contabilidad de costeo de los servicios de interconexión y contabilidad separada del agente económico preponderante en el sector de las telecomunicaciones y de radiodifusión;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+VIII. Someter a consideración del Pleno las metodologías y criterios para la presentación de la información de separación contable de los concesionarios, autorizados y demás sujetos regulados;
 
 IX. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
@@ -861,15 +887,19 @@ XVI. Sustanciar los procedimientos relativos al seguimiento de obligaciones y me
 
 XVII. Sustanciar los procedimientos relativos al seguimiento de obligaciones y medidas impuestas al agente económico preponderante o con poder sustancial en el sector de telecomunicaciones;
 
-XVIII. Coordinarse con la Secretaría de Comunicaciones y Transportes para promover, en el ámbito de competencia del Instituto, el acceso a las tecnologías de la información y la comunicación y a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en condiciones de competencia efectiva, para lo cual determinará las acciones necesarias, en colaboración, cuando el caso lo amerite, con la Unidad de Competencia Económica;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Coordinarse con la Secretaría de Comunicaciones y Transportes para promover, en el ámbito de competencia del Instituto, el acceso a las tecnologías de la información y la comunicación y a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en condiciones de competencia efectiva, para lo cual determinará las acciones necesarias;
 
 XIX. Proponer al Pleno las acciones necesarias para contribuir, en el ámbito de competencia del Instituto, al logro de los objetivos de la política de inclusión digital universal y cobertura universal establecida por el Ejecutivo Federal; así como a los objetivos y metas fijados en el Plan Nacional de Desarrollo y los demás instrumentos programáticos relacionados con los sectores de radiodifusión y telecomunicaciones, además de fomentar el desarrollo eficiente del ecosistema de Internet;
 
-XX. Realizar, a través o en coordinación con las dependencias y entidades competentes, así como con instituciones académicas y los particulares, la investigación y el desarrollo tecnológico en materia de telecomunicaciones y radiodifusión;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XX. Realizar, a través o en coordinación con las dependencias y entidades competentes, así como con instituciones académicas y los particulares, la investigación en materia de telecomunicaciones y radiodifusión;
 
 XXI. Realizar acciones, en coordinación con la Secretaría de Comunicaciones y Transportes, para la elaboración del programa de cobertura social;
 
-XXII. Realizar las acciones en el ámbito de su competencia, y en coordinación con la Unidad de Medios y Contenidos Audiovisuales, para concluir la transmisión de señales analógicas de televisión radiodifundida en términos del artículo décimo noveno transitorio del Decreto de la Ley de Telecomunicaciones;
+XXII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 XXIII. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
@@ -881,11 +911,15 @@ XXIV. Proponer al Pleno los lineamientos de carácter general a los que deberán
 
 XXV. Resolver las solicitudes de autorización de las políticas de gestión de tráfico y administración de red de los concesionarios y autorizados que presten el servicio de acceso a Internet de conformidad con los lineamientos aprobados por el Pleno;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XXVI. Emitir el dictamen de integración de precios y tarifas de los servicios que el operador preponderante se proporciona a sí mismo, a terceros y a consumidores finales, previsto en el artículo 275 de la Ley de Telecomunicaciones, y
+XXVI. Proponer al Titular de la Unidad de Política Regulatoria el dictamen de integración de precios y tarifas de los servicios que el operador preponderante se proporciona a sí mismo, a terceros y a consumidores finales, previsto en el artículo 275 de la Ley de Telecomunicaciones;
 
-XXVII. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XXVII. Sustanciar los trámites previstos en las metodologías y criterios para la presentación de información de separación contable que emita el Pleno y proponer su resolución al Titular de la Unidad de Política Regulatoria, y
+
+XXVIII. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -943,11 +977,19 @@ XIX. Sustanciar el procedimiento para resolver los desacuerdos derivados de los 
 
 XX. Proponer al Pleno los planes técnicos fundamentales, en materia de servicios de interconexión e interoperabilidad;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XXI. Proponer al Pleno los lineamientos para desarrollar los modelos de costos que aplicará para resolver los desacuerdos en materia de tarifas aplicable a la prestación de los servicios de interconexión, usuario visitante, acceso, incluyendo enlaces y servicios de reventa mayoristas o cualquier servicio que presten de forma minorista, y
+XXI. Proponer al Pleno los lineamientos para desarrollar los modelos de costos que aplicará para resolver los desacuerdos en materia de tarifas aplicable a la prestación de los servicios de interconexión, usuario visitante, acceso, incluyendo enlaces y servicios de reventa mayoristas o cualquier servicio que presten de forma minorista;
 
-XXII. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XXII. Aprobar las ofertas de referencia de servicios mayoristas de telecomunicaciones, capacidades, funciones e infraestructura que presten las redes compartidas mayoristas en términos de sus títulos de concesión y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XXIII. Tramitar y, en su caso, autorizar al agente económico preponderante o con poder sustancial la adopción de una tecnología o un cambio de diseño en su red, previa consulta a los demás concesionarios, y
+
+XXIV. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1011,13 +1053,13 @@ La Unidad de Espectro Radioeléctrico tendrá adscritas a su cargo la Dirección
 
 A la Dirección General de Regulación del Espectro y Recursos Orbitales le corresponde coordinar la elaboración de los instrumentos y proyectos regulatorios en materia de gestión del espectro radioeléctrico y recursos orbitales, en consistencia con la normatividad aplicable, así como coadyuvar en los procedimientos internacionales de coordinación satelital. Corresponde a esta Dirección General el ejercicio de las siguientes atribuciones:
 
+I. Proponer al Pleno la elaboración, modificación y abrogación de disposiciones administrativas de carácter general en materia de espectro radioeléctrico y comunicación vía satélite;
+
 II. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
 III. Proponer al Pleno los programas de bandas de frecuencias de espectro determinado que serán objeto de licitación o que podrán asignarse directamente, así como las modificaciones a los mismos;
-
-III. Proponer al Pleno los programas de bandas de frecuencias de espectro determinado que serán objeto de licitación o que podrán asignarse directamente, así como las modificaciones a los mismos, solicitando la opinión de la Unidad de Medios y Contenidos Audiovisuales o de la Unidad de Política Regulatoria, en el ámbito de sus respectivas atribuciones;
 
 IV. Proponer al Pleno los programas para ocupar y explotar recursos orbitales que serán materia de licitación pública o que podrán asignarse directamente, así como las modificaciones a los mismos;
 
@@ -1027,9 +1069,13 @@ V. Analizar las solicitudes de inclusión y de modificación a los programas de 
 
 VI. Solicitar a la Unidad de Cumplimiento que lleve a cabo el procedimiento de rescate de bandas de frecuencias o de recursos orbitales, acompañando una opinión técnica;
 
-VII. Colaborar con la Secretaría de Comunicaciones y Transportes en las gestiones que realice ante los organismos internacionales competentes, para la obtención de recursos orbitales a favor del Estado Mexicano;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-VIII. Colaborar con la Secretaría de Comunicaciones y Transportes en la coordinación de recursos orbitales ante los organismos internacionales competentes, con las entidades de otros países y con los concesionarios u operadores nacionales o extranjeros;
+VII. Coadyuvar con la Coordinación General de Asuntos Internacionales, en las gestiones que se realicen, con la Secretaría de Comunicaciones y Transportes, ante los organismos internacionales competentes, para la obtención de recursos orbitales a favor del Estado Mexicano;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+VIII. Coadyuvar con la Coordinación General de Asuntos Internacionales, en el procedimiento de coordinación de recursos orbitales que se realice con la Secretaría de Comunicaciones y Transportes, ante los organismos internacionales competentes, con las entidades de otros países y con los concesionarios u operadores nacionales o extranjeros;
 
 IX. Proponer al Pleno los lineamientos de carácter general para el otorgamiento de concesiones para el uso, aprovechamiento o explotación del espectro radioeléctrico, así como para la ocupación y explotación de recursos orbitales para uso público, social y privado;
 
@@ -1039,7 +1085,7 @@ X. Emitir opinión respecto de las autorizaciones para la compartición de banda
 
 XI. Tramitar las solicitudes que presente cualquier persona que manifieste su interés para que el Gobierno Federal obtenga recursos orbitales a favor del Estado Mexicano, emitir el dictamen respecto de la documentación presentada, integrar el expediente y remitirlo a la Secretaría de Comunicaciones y Transportes junto con la estimación de gastos en los que pueda llegar a incurrir el Instituto;
 
-XII. Coadyuvar con la Secretaría de Comunicaciones y Transportes en los procedimientos de coordinación para la obtención de recursos orbitales a favor del Estado Mexicano, a efecto de garantizar la disponibilidad de recursos orbitales para cubrir las necesidades del Ejecutivo Federal;
+XII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 XIII. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
@@ -1207,7 +1253,9 @@ Corresponde a la Dirección General de Concesiones de Telecomunicaciones el ejer
 
 I. Tramitar y evaluar las solicitudes para el otorgamiento de concesiones en materia de telecomunicaciones, con excepción de aquellas que deban otorgarse a través de un procedimiento de licitación pública, para someterlas a consideración del Pleno;
 
-II. Tramitar y evaluar las solicitudes de cesión, modificación o prórroga de las concesiones en materia de telecomunicaciones para someterlas a consideración del Pleno; tratándose de prórrogas de concesiones de uso comercial, solicitará opinión previa a la Unidad de Competencia Económica;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+II. Tramitar y evaluar las solicitudes de cesión, modificación o prórroga de las concesiones en materia de telecomunicaciones para someterlas a consideración del Pleno. En el caso de cesiones o prórrogas de concesiones para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico de uso comercial, incluirá el análisis sobre acumulación de espectro correspondiente, y tratándose de cesiones de concesiones a que hace referencia el sexto párrafo del artículo 110 de la Ley de Telecomunicaciones, solicitará opinión previa a la Unidad de Competencia Económica;
 
 III. Proponer al Pleno, a solicitud de la Unidad de Espectro Radioeléctrico, la modificación a los títulos de concesión, permisos o autorizaciones por cambios de oficio de bandas de frecuencias atribuidas a servicios de telecomunicaciones o de recursos orbitales;
 
@@ -1289,7 +1337,9 @@ Corresponde a la Dirección General de Concesiones de Radiodifusión el ejercici
 
 I. Tramitar y evaluar las solicitudes para el otorgamiento de concesiones en materia de radiodifusión, con excepción de las que deban otorgarse a través de un procedimiento de licitación pública, para someterlas a consideración del Pleno;
 
-II. Tramitar y evaluar las solicitudes de cesión o modificación de los permisos y concesiones en materia de radiodifusión, así como la prórroga de éstas, para someterlas a consideración del Pleno; tratándose de prórrogas de concesiones para usar, aprovechar y explotar espectro radioeléctrico, solicitará opinión previa a la Unidad de Medios y Contenidos Audiovisuales, y solamente tratándose de concesiones de uso comercial, a la Unidad de Competencia Económica;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+II. Tramitar y evaluar las solicitudes de cesión, modificación o prórroga de las concesiones en materia de radiodifusión para someterlas a consideración del Pleno. En el caso de cesiones o prórrogas de concesiones para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico de uso comercial, incluirá el análisis sobre acumulación de espectro correspondiente, y tratándose de cesiones de concesiones a que hace referencia el sexto párrafo del artículo 110 de la Ley de Telecomunicaciones, solicitará opinión previa a la Unidad de Competencia Económica;
 
 III. Proponer al Pleno, a solicitud de la Unidad de Espectro Radioeléctrico, las modificaciones a los títulos de concesión, permisos o autorizaciones, por cambios de oficio de los canales asignados para la prestación del servicio de radiodifusión;
 
@@ -1315,19 +1365,23 @@ XI. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
 XII. Tramitar y, en su caso, autorizar las solicitudes de arrendamiento de bandas de frecuencias para uso comercial o privado que presenten los concesionarios en materia de radiodifusión, previa opinión que emita la Unidad de Competencia Económica;
 
-XIII. Tramitar las solicitudes para el cambio de bandas de frecuencias del espectro radioeléctrico de concesionarios y permisionarios en materia de radiodifusión y, previa opinión de la Unidad de Competencia Económica y de la Unidad de Espectro Radioeléctrico, someterlas a consideración del Pleno;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XIII. Tramitar las solicitudes para el cambio de bandas de frecuencias del espectro radioeléctrico de concesionarios en materia de radiodifusión y, previa opinión de la Unidad de Competencia Económica y de la Unidad de Espectro Radioeléctrico, someterlas a consideración del Pleno;
 
 XIV. Tramitar y, en su caso, autorizar la instalación, incremento de la altura o cambio de ubicación de torres o instalaciones del sistema radiador, cualquier cambio que afecte las condiciones de propagación o de interferencia, así como las modificaciones a las características técnicas de las estaciones radiodifusoras y sus equipos complementarios que presenten los concesionarios y permisionarios en materia de radiodifusión, previa opinión de la Unidad de Espectro Radioeléctrico;
 
 XV. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
-XVI. Realizar las acciones, en el ámbito de su competencia, y en coordinación con la Unidad de Medios y Contenidos Audiovisuales, para concluir la transmisión de señales analógicas de televisión radiodifundida en términos del artículo décimo noveno transitorio del Decreto de la Ley de Telecomunicaciones;
+XVI. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-XVII. Tramitar y, en su caso, autorizar a concesionarios y permisionarios en materia de radiodifusión la ampliación de plazos para dar cumplimiento a obligaciones relacionadas con sus respectivos títulos o permisos;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+XVII. Tramitar y, en su caso, autorizar a concesionarios en materia de radiodifusión la ampliación de plazos para dar cumplimiento a obligaciones relacionadas con sus respectivos títulos;
 
-XVIII. Analizar y, en su caso, autorizar los proyectos de reforma de estatutos sociales relativos a los concesionarios y permisionarios en materia de radiodifusión, así como cualquier otro acto relacionado con el objeto de la concesión o permiso;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Analizar y, en su caso, autorizar los proyectos de reforma de estatutos sociales relativos a los concesionarios en materia de radiodifusión, así como cualquier otro acto relacionado con el objeto de la concesión;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1433,33 +1487,37 @@ XI. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, 
 
 ### CAPÍTULO XIV. De la Unidad de Medios y Contenidos Audiovisuales
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 37.
 
-La Unidad de Medios y Contenidos Audiovisuales tendrá adscritas la Dirección General de Política y Procedimientos Regulatorios en Medios y Contenidos Audiovisuales, la Dirección General de Análisis de Medios y Contenidos Audiovisuales y la Dirección General Adjunta de Televisión Digital Terrestre. Al Titular de la Unidad de Medios y Contenidos Audiovisuales le corresponden originariamente las atribuciones conferidas a las Direcciones Generales y Dirección General Adjunta que tiene adscritas en este Capítulo del Estatuto Orgánico.
+La Unidad de Medios y Contenidos Audiovisuales tendrá adscritas la Dirección General de Política y Procedimientos Regulatorios en Medios y Contenidos Audiovisuales y la Dirección General de Análisis de Medios y Contenidos. Al Titular de la Unidad de Medios y Contenidos Audiovisuales le corresponden originariamente las atribuciones conferidas a las Direcciones Generales que tiene adscritas en este Capítulo del Estatuto Orgánico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 38.
 
-La Dirección General de Política y Procedimientos Regulatorios en Medios y Contenidos Audiovisuales tendrá a su cargo el diseño y planeación de la política en medios y contenidos audiovisuales, en los que se propicie el libre acceso a información plural y oportuna, la diversidad, la no discriminación, la libertad de expresión y de difusión, así como la protección de los derechos de las audiencias y la sustanciación de procedimientos regulatorios en dichas materias. Corresponde a esta Dirección General el ejercicio de las siguientes atribuciones:
+La Dirección General de Política y Procedimientos Regulatorios en Medios y Contenidos Audiovisuales tendrá a su cargo el diseño y planeación de la política en medios y contenidos audiovisuales, incluidos el acceso a la multiprogramación, la retransmisión de señales radiodifundidas y la asignación de canales virtuales, en los que se propicie el libre acceso a información plural y oportuna, la diversidad, la no discriminación, la libertad de expresión y de difusión, así como los derechos de las audiencias y la sustanciación de procedimientos regulatorios en dichas materias. Corresponde a esta Dirección General el ejercicio de las siguientes atribuciones:
 
 I. Elaborar y proponer al Pleno la política de los contenidos audiovisuales, así como los servicios a través de los cuales se realiza la provisión de éstos, en el ámbito de su competencia;
 
 II. Elaborar y proponer al Pleno, en coordinación con las demás unidades administrativas competentes, los proyectos de lineamientos para el otorgamiento de concesiones para uso social indígena o comunitarias;
 
-III. Elaborar y proponer al Pleno, en coordinación con las demás unidades administrativas competentes, los proyectos de lineamientos, ordenamientos técnicos y demás disposiciones administrativas de carácter general en materia de multiprogramación, así como de medios y contenidos audiovisuales en los que se propicie el libre acceso a información plural y oportuna, la diversidad, la libertad de expresión y de difusión, así como la protección de los derechos de las audiencias, incluyendo aquellos a que se deban ajustar los Códigos de Ética que los concesionarios de radiodifusión y de televisión o audio restringido deben expedir;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+III. Elaborar y proponer al Pleno, en coordinación con las demás unidades administrativas competentes, los proyectos de lineamientos, ordenamientos técnicos y demás disposiciones administrativas de carácter general en materia de multiprogramación, así como de medios y contenidos audiovisuales en los que se propicie el libre acceso a información plural y oportuna, la diversidad, la libertad de expresión y de difusión, así como los derechos de las audiencias;
 
 IV. Promover, en su ámbito de competencia, que las audiencias con discapacidad tengan acceso a los servicios de telecomunicaciones y radiodifusión, en igualdad de condiciones con las demás audiencias;
 
-V. Fungir como órgano de consulta interna en materia de libre acceso a información plural y oportuna, la diversidad, la libertad de expresión y de difusión, así como la protección de los derechos de las audiencias;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+V. Fungir como órgano de consulta interna en materia de libre acceso a información plural y oportuna, la diversidad, la libertad de expresión y de difusión, así como los derechos de las audiencias;
 
 VI. Elaborar y proponer al Pleno el proyecto de lineamientos en los que se establezca la forma en la que los concesionarios de televisión restringida deberán informar la clasificación y horarios en su guía de programación electrónica;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-VII. Realizar, por sí mismo, a través o en coordinación con las dependencias y entidades competentes, así como con instituciones académicas y los particulares, la investigación en materia de medios y contenidos audiovisuales, incluida la retransmisión de contenidos, en los términos dispuestos en el presente Estatuto Orgánico;
+VII. Realizar, por sí mismo, a través o en coordinación con las dependencias y entidades competentes, así como con instituciones académicas y los particulares, la investigación y el desarrollo tecnológico en materia de medios y contenidos audiovisuales, incluidos la multiprogramación, canales virtuales y la retransmisión de contenidos, en los términos dispuestos en el presente Estatuto Orgánico;
 
 VIII. Sustanciar el procedimiento para resolver los desacuerdos en materia de retransmisión de contenidos, contenidos audiovisuales, medios y publicidad, entre otros, y proponer al Pleno la resolución correspondiente;
 
@@ -1471,9 +1529,9 @@ XI. Coadyuvar con la Unidad de Política Regulatoria en los procedimientos relat
 
 XII. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XIII. Realizar las gestiones pertinentes, así como sustanciar con los insumos técnicos que proporcionen las unidades administrativas del Instituto que correspondan, los procedimientos a que se refieren los artículos 8 y 12 de los “Lineamientos Generales en relación con lo dispuesto por la fracción I del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones” publicados en Diario Oficial de la Federación el 27 de febrero de 2014, y proponer al Pleno la resolución correspondiente;
+XIII. Realizar las gestiones pertinentes, así como sustanciar con los insumos técnicos que proporcionen las unidades administrativas del Instituto que correspondan, los procedimientos a que se refieren los artículos 8 y 12 de los “Lineamientos Generales en relación con lo dispuesto por la fracción I del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones”, y proponer al Pleno la resolución correspondiente;
 
 > <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1483,11 +1541,19 @@ XIV. Proponer al Pleno el proyecto de reglamento para la integración y funciona
 
 XV. Proponer al Pleno, una vez que se determine que existen condiciones de competencia, la declaratoria de extinción simultánea de las obligaciones de ofrecer y retransmitir gratuitamente los contenidos radiodifundidos;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XVI. Planear, diseñar y ejecutar estudios e investigaciones para el conocimiento de la pluralidad en los servicios de radiodifusión y de televisión restringida, así como fungir como órgano de consulta al respecto, y
+XVI. Planear, diseñar y ejecutar estudios e investigaciones para el conocimiento de la pluralidad en los servicios de radiodifusión y de televisión restringida, así como fungir como órgano de consulta al respecto;
 
-XVII. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVII. Ejercer las atribuciones y funciones que los Lineamientos Generales para la Asignación de Canales Virtuales de Televisión Radiodifundida otorgan a la Unidad de Medios y Contenidos Audiovisuales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Tramitar y evaluar las solicitudes de acceso a la multiprogramación de los concesionarios y permisionarios de radiodifusión y someter al Pleno el proyecto de resolución correspondiente, y
+
+XIX. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1503,7 +1569,9 @@ III. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
 IV. Implementar los mecanismos correspondientes y vigilar el cumplimiento de los tiempos máximos establecidos para la transmisión de mensajes comerciales en términos de la Ley de Telecomunicaciones;
 
-V. Implementar los mecanismos correspondientes y vigilar el cumplimiento de las obligaciones en materia de defensa de las audiencias en términos de la Ley de Telecomunicaciones;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+V. Implementar los mecanismos correspondientes y vigilar el cumplimiento de las obligaciones en materia de derechos de las audiencias en términos de la Ley de Telecomunicaciones;
 
 VI. Remitir a la Unidad de Cumplimiento los incumplimientos detectados con la vigilancia a que se refieren las dos fracciones anteriores a efecto de que, en su caso, se impongan las sanciones correspondientes;
 
@@ -1513,7 +1581,9 @@ VIII. Proponer al Pleno el proyecto de informe a la Secretaría de Gobernación 
 
 IX. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
-X. Proponer al Comité conformado por tres Comisionados referido en la fracción anterior que ordene, previo apercibimiento, la suspensión precautoria de las transmisiones que violen las normas y obligaciones en materia de defensa de las audiencias y programación dirigida a la población infantil, así como coadyuvar con dicho Comité en las acciones necesarias para tal efecto;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+X. Proponer al Comité conformado por tres Comisionados referido en la fracción anterior que ordene, previo apercibimiento, la suspensión precautoria de las transmisiones que violen las normas y obligaciones en materia de derechos de las audiencias y programación dirigida a la población infantil, así como coadyuvar con dicho Comité en las acciones necesarias para tal efecto;
 
 XI. Proponer al Pleno el listado de eventos deportivos con altos niveles esperados de audiencia a nivel nacional;
 
@@ -1527,73 +1597,23 @@ XIV. Realizar, por sí mismo, a través o en coordinación con las dependencias 
 
 XV. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
-XVI. Realizar el cálculo y proponer al Pleno la actualización de las señales radiodifundidas de cincuenta por ciento o más del territorio nacional en términos de los “Lineamientos Generales en relación con lo dispuesto por la fracción I del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones” publicados en Diario Oficial de la Federación el 27 de febrero de 2014;
+XVI. Realizar el cálculo y proponer al Pleno la actualización de las señales radiodifundidas de cincuenta por ciento o más del territorio nacional en términos de los "Lineamientos Generales en relación con lo dispuesto por la fracción I del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones" publicados en Diario Oficial de la Federación el 27 de febrero de 2014;
 
-XVII. Monitorear que los concesionarios y permisionarios de radiodifusión cumplan con sus obligaciones de informar a las audiencias sobre la transición a la televisión digital terrestre y la terminación de las transmisiones de señales analógicas de televisión en el país, en términos de la política para la transición a la televisión digital terrestre vigente, y proponer a la Unidad de Cumplimiento la imposición de las sanciones correspondientes en caso de incumplimiento, y
+XVII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-XVIII. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-###### Artículo 40.
-
-La Dirección General Adjunta de Televisión Digital Terrestre tendrá a su cargo el diseño, planeación, coordinación e implementación de acciones y políticas en el ámbito de facultades del Instituto para la televisión digital terrestre, así como para la asignación de canales virtuales y acceso a la multiprogramación. Corresponde a esta Dirección General Adjunta el ejercicio de las siguientes atribuciones:
-
-I. Elaborar y proponer al Pleno la modificación, derogación, adecuación, abrogación o emisión de la política para la transición a la televisión digital terrestre;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-II. Realizar, por sí mismo, a través o en coordinación con las dependencias y entidades competentes, así como con instituciones académicas y los particulares, la investigación y desarrollo tecnológico sobre multiprogramación en los términos dispuestos en el presente Estatuto Orgánico;
-
-III. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-IV. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-V. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-VI. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-VII. Coadyuvar con la Unidad de Espectro Radioeléctrico, así como con la Coordinación General de Asuntos Internacionales en la coordinación de canales adicionales de televisión digital terrestre con las autoridades competentes de los países fronterizos, en términos de los instrumentos bilaterales vigentes;
-
-VIII. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-IX. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-X. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-XI. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-XII. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-XIII. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-XIV. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-XV. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
-
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-XVI. Ejercer las atribuciones y funciones que el Programa de Continuidad publicado en el Diario Oficial de la Federación el 18 de marzo de 2016, otorga a la Unidad de Medios y Contenidos Audiovisuales;
-
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-XVII. Ejercer las atribuciones y funciones que los Lineamientos Generales para la Asignación de Canales Virtuales de Televisión Radiodifundida otorga a la Unidad de Medios y Contenidos Audiovisuales;
-
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 XVIII. Realizar las gestiones necesarias para publicar en el portal de Internet del Instituto el listado de canales virtuales asignados y de aquellos planificados para futuras asignaciones, diferenciándolos por ámbito nacional, regional y local, así como sus actualizaciones;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XIX. Tramitar y evaluar las solicitudes de acceso a la multiprogramación de los concesionarios y permisionarios de radiodifusión y someter al Pleno el proyecto de resolución correspondiente;
+XIX. Realizar las gestiones para publicar en el portal de Internet del Instituto, un listado de los canales de programación en multiprogramación autorizados por estación de radiodifusión de conformidad con los Lineamientos Generales para el acceso a la Multiprogramación, y
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+XX. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
 
-XX. Realizar las gestiones para publicar en el portal de Internet del Instituto, un listado de los canales de programación en multiprogramación autorizados por estación de radiodifusión de conformidad con los Lineamientos Generales para el acceso a la Multiprogramación, y
+###### Artículo 40.
 
-XXI. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO XV. De la Unidad de Cumplimiento
 
@@ -1723,9 +1743,13 @@ I. Supervisar y verificar, conforme a los programas de supervisión y verificaci
 
 II. Emitir trimestralmente un informe de cumplimiento de las obligaciones asimétricas, obligaciones de desagregación de elementos de red pública de telecomunicaciones local y del cumplimiento de los títulos de concesión del agente económico preponderante, pudiendo auxiliarse para tal efecto de un auditor externo;
 
-III. Proponer al Pleno, en colaboración con la Unidad de Política Regulatoria, la forma y términos en que deberá presentarse la información y documentación a que hace referencia el artículo décimo transitorio del Decreto de la Ley de Telecomunicaciones, por parte de los agentes económicos preponderantes cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-IV. Proponer al Pleno, el dictamen elaborado en coordinación con las demás unidades competentes, en el que se certifique que, en su caso, se dio cumplimiento efectivo, por parte de los agentes económicos preponderantes cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, de las obligaciones previstas en el Decreto de reforma constitucional, en los lineamientos expedidos por el Instituto en términos del artículo cuarto transitorio del Decreto de reforma constitucional, en las medidas expedidas por el propio Instituto a que se refieren las fracciones III y IV del artículo octavo transitorio del Decreto de reforma constitucional, en la Ley de Telecomunicaciones, en la Ley de Competencia, en sus títulos de concesión y en las disposiciones administrativas aplicables;
+III. Proponer al Pleno, en colaboración con la Unidad de Política Regulatoria, la forma y términos en que deberá presentarse la información y documentación a que hace referencia el artículo décimo transitorio del Decreto de la Ley de Telecomunicaciones, por parte de los agentes económicos preponderantes y de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+IV. Proponer al Pleno, el dictamen elaborado en coordinación con las demás unidades competentes, en el que se certifique que, en su caso, se dio cumplimiento efectivo, por parte de los agentes económicos preponderantes y de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, de las obligaciones previstas en el Decreto de reforma constitucional, en los lineamientos expedidos por el Instituto en términos del artículo cuarto transitorio del Decreto de reforma constitucional, en las medidas expedidas por el propio Instituto a que se refieren las fracciones III y IV del artículo octavo transitorio del Decreto de reforma constitucional, en la Ley de Telecomunicaciones, en la Ley de Competencia, en sus títulos de concesión y en las disposiciones administrativas aplicables;
 
 V. Dar seguimiento y supervisar el cumplimiento de las obligaciones mínimas a cargo del agente económico preponderante contenidas en las bases de licitación que emitan las autoridades convocantes a que se refiere el inciso b) de la fracción XIX del artículo 267 de la Ley de Telecomunicaciones;
 
@@ -1749,15 +1773,17 @@ Corresponde a la Dirección General de Sanciones el ejercicio de las siguientes 
 
 I. Sustanciar los procedimientos sancionatorios por infracciones a las obligaciones establecidas en los títulos de concesión, permisos y autorizaciones, así como a las disposiciones legales, reglamentarias y administrativas aplicables en materia de telecomunicaciones y radiodifusión y, en su caso, emitir la resolución correspondiente;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-II. Someter a consideración del Pleno la resolución de los procedimientos que tengan por objeto imponer multas como sanciones a concesionarios, autorizados y demás sujetos regulados, así como a personas infractoras, que sean iguales o superiores a quince mil veces el valor diario de la Unidad de Medida y Actualización, así como aquellos en los que se declare la pérdida de bienes, instalaciones y equipos en beneficio de la Nación, salvo que dicho órgano colegiado determine que la resolución deba ser emitida por la Dirección General de Sanciones;
+II. Someter a consideración del Pleno la resolución de los procedimientos que tengan por objeto imponer multas como sanciones a concesionarios, autorizados y demás sujetos regulados, así como a personas infractoras, que sean iguales o superiores a quince mil veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Sustanciar los procedimientos que tengan por objeto la revocación de las concesiones, permisos y autorizaciones previstas en la Ley de Telecomunicaciones y, en su caso, proponer al Pleno la resolución de los mismos;
 
 IV. Notificar o dar aviso al Secretario de Comunicaciones y Transportes en los casos de revocación conforme a lo dispuesto en el artículo 28 de la Constitución y la Ley de Telecomunicaciones;
 
-V. Sustanciar los procedimientos que tengan por objeto sancionar el incumplimiento de los tiempos máximos establecidos para la transmisión de mensajes comerciales y el incumplimiento de las obligaciones en materia de defensa de las audiencias y, en su caso, proponer al Pleno la resolución de los mismos;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+V. Sustanciar los procedimientos que tengan por objeto sancionar el incumplimiento de los tiempos máximos establecidos para la transmisión de mensajes comerciales y lo relativo a la materia de los derechos de las audiencias, conforme a lo dispuesto por la Ley de Telecomunicaciones y, en su caso, proponer al Pleno la resolución de los mismos;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1825,9 +1851,9 @@ En la sustanciación de procedimientos, será la encargada de integrar los exped
 
 Además de las atribuciones que señale la Ley de Competencia al órgano encargado de la instrucción, al Titular de la Unidad de Competencia Económica le corresponden originariamente las atribuciones conferidas a las Direcciones Generales previstas en este Capítulo del Estatuto Orgánico, así como las siguientes:
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-I. Emitir el acuerdo de recepción, admisión o de prevención, así como turnar a trámite las notificaciones de concentración y las solicitudes de opinión formal en materia de competencia que sean presentadas, así como, en su caso, tener por no presentadas las mismas;
+I. Emitir el acuerdo de recepción, admisión o de prevención, así como turnar a trámite las notificaciones de concentración, las solicitudes de opinión formal y de orientaciones generales en materia de competencia que sean presentadas, así como, en su caso, tener por no presentadas las mismas;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1847,11 +1873,19 @@ V. Emitir los acuerdos de recepción o prevención de los avisos que se presente
 
 VI. Apoyar al Pleno en la elaboración de Disposiciones Regulatorias, así como de los proyectos de directrices, guías, lineamientos y criterios técnicos a que se refiere la fracción XXII del artículo 12 de la Ley de Competencia y las modificaciones a las mismas que considere pertinentes;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-VII. Solicitar la autorización del Pleno para remitir y solicitar expedientes a la Comisión Federal de Competencia Económica, así como para remitir expedientes al Tribunal Colegiado de Circuito especializado en materia de competencia económica, radiodifusión y telecomunicaciones, a fin de que se proceda en los términos del artículo 5 de la Ley de Competencia, y
+VII. Solicitar la autorización del Pleno para remitir y solicitar expedientes a la Comisión Federal de Competencia Económica, así como para remitir expedientes al Tribunal Colegiado de Circuito especializado en materia de competencia económica, radiodifusión y telecomunicaciones, a fin de que se proceda en los términos del artículo 5 de la Ley de Competencia;
 
-VIII. Las demás que le confieran el Pleno o el Presidente, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+VIII. Emitir opinión a la Unidad de Espectro Radioeléctrico sobre las bases de licitación pública de concesiones para el uso, aprovechamiento o explotación del espectro radioeléctrico, así como para la ocupación y explotación de recursos orbitales, para uso comercial o privado;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+IX. Promover el estudio, la divulgación y la aplicación de los principios de libre concurrencia y competencia económica, y
+
+X. Las demás que le confieran el Pleno o el Presidente, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ###### Artículo 48.
 
@@ -1895,11 +1929,13 @@ III. Una vez emitido el dictamen preliminar a que se refiere el artículo 96 de 
 
 IV. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-V. En los procedimientos seguidos en forma de juicio dar vista a la Autoridad Investigadora, con las manifestaciones y las pruebas ofrecidas por el probable responsable, para que se pronuncie respecto a éstas, adjuntando una versión reservada para su traslado al denunciante a efecto de que pueda coadyuvar con la Autoridad Investigadora en el procedimiento;
+V. En los procedimientos seguidos en forma de juicio dar vista a la Autoridad Investigadora, con las manifestaciones y las pruebas ofrecidas por el probable responsable, para que se pronuncie respecto a éstas;
 
-VI. Realizar los actos necesarios para verificar el cumplimiento de las determinaciones establecidas en las resoluciones y, en su caso, remitir el expediente al Titular de la Unidad de Competencia Económica para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+VI. Realizar los actos necesarios para verificar el cumplimiento de las resoluciones que emanen de los procedimientos que tramite y, en su caso, remitir el expediente al Titular de la Unidad de Competencia Económica para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
 
 VII. Notificar los acuerdos que ordenen el inicio de incidentes, así como llevar a cabo los actos necesarios para tramitar dichos incidentes hasta su conclusión;
 
@@ -1909,9 +1945,7 @@ VIII. Asistir a las audiencias orales y sesiones del Pleno por instrucción del 
 
 IX. Dar trámite al procedimiento expedito a efecto de que el Pleno fije caución a fin de levantar las medidas cautelares que se hubieren decretado en los términos que dispongan las Disposiciones Regulatorias;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-X. Realizar los actos necesarios para desahogar los incidentes por posibles declaraciones o entregas de información falsa, y
+X. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 XI. Las demás que les confiera el Pleno, el Presidente o el Titular de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
 
@@ -1929,7 +1963,9 @@ III. Proponer al Pleno las condiciones bajo las cuales deban autorizarse las con
 
 IV. Realizar los actos necesarios para verificar el cumplimiento de las condiciones bajo las cuales se sujete la autorización de una concentración y, en su caso, remitir el expediente al Titular de la Unidad de Competencia Económica para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
 
-V. Realizar los actos necesarios para verificar el cumplimiento de las condiciones establecidas en las resoluciones y, en su caso, remitir el expediente al Titular de la Unidad de Competencia Económica para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+V. Realizar los actos necesarios para verificar el cumplimiento de las resoluciones que emanen de los procedimientos que tramite y, en su caso, remitir el expediente al Titular de la Unidad de Competencia Económica para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
 
 VI. Formular para consideración del Pleno el proyecto de opinión sobre bases de licitaciones, solicitudes para participar en licitaciones, solicitudes para el otorgamiento mediante asignación directa, así como las solicitudes sobre cesiones, modificaciones y prórrogas de concesiones, permisos o figuras análogas que realicen las Autoridades Públicas, cuando así lo determinen otras leyes o el Ejecutivo Federal mediante acuerdos o decretos;
 
@@ -1945,7 +1981,9 @@ X. Sustanciar el procedimiento para imponer límites a la concentración naciona
 
 XI. Sustanciar el procedimiento de desincorporación de activos, derechos o partes sociales de los concesionarios, previsto en el artículo 288 de la Ley de Telecomunicaciones y proponer al Pleno la resolución correspondiente; así como aprobar o modificar el programa de desincorporación que, en su caso, presenten los agentes económicos;
 
-XII. Emitir a las unidades administrativas competentes del Instituto las opiniones en materia de competencia económica sobre las solicitudes para el arrendamiento, el cambio de bandas de frecuencias y prórrogas de concesiones en los sectores de telecomunicaciones y radiodifusión, y
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XII. Emitir a las unidades administrativas competentes del Instituto las opiniones en materia de competencia económica sobre las solicitudes para el arrendamiento, el cambio de bandas de frecuencias y cesiones de concesiones, a que hace referencia el sexto párrafo del artículo 110 de la Ley de Telecomunicaciones, en los sectores de telecomunicaciones y radiodifusión;
 
 > <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1963,11 +2001,9 @@ Corresponde a la Dirección General de Consulta Económica el ejercicio de las s
 
 I. Formular al Pleno proyectos de opinión no vinculantes respecto de los ajustes a programas y políticas llevados a cabo por Autoridades Públicas; los anteproyectos de disposiciones, reglas, acuerdos, circulares y demás actos administrativos de carácter general que pretendan emitir Autoridades Públicas; iniciativas de leyes y anteproyectos de reglamentos y decretos; leyes, reglamentos, acuerdos, circulares y actos administrativos de carácter general cuando éstos puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+II. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-II. Dar trámite y responder las solicitudes de orientaciones generales en materia de libre concurrencia y competencia económica;
-
-III. Apoyar al Presidente y al Pleno en la recepción y seguimiento de solicitudes de opinión formal, así como realizar todos los actos necesarios para el trámite del procedimiento previsto en el artículo 106 de la Ley de Competencia;
+III. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 IV. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
@@ -2107,7 +2143,9 @@ IV. Emitir los dictámenes de impacto presupuestario y, en su caso, autorizar la
 
 V. Ejecutar las sanciones administrativas a que se haga acreedor el personal del Instituto, de conformidad con los procedimientos y la normativa establecidos para estos efectos;
 
-VI. Autorizar las erogaciones con cargo al presupuesto del Instituto, sujetándose a la normatividad aplicable y a los lineamientos que le indique el Presidente; así como suscribir los estados financieros correspondientes y ordenar la emisión y publicación de información financiera gubernamental;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+VI. Autorizar las erogaciones con cargo al presupuesto del Instituto, incluidas las relativas al gasto en materia de comunicación social, sujetándose a la normatividad aplicable y a los lineamientos que le indique el Presidente; así como suscribir los estados financieros correspondientes y ordenar la emisión y publicación de información financiera gubernamental;
 
 VII. Formalizar los actos relacionados con la adquisición, uso, administración y enajenación de bienes inmuebles, en su caso, con previo poder otorgado para tales efectos al Titular de la Unidad por el Presidente, y
 
@@ -2157,13 +2195,19 @@ XV. Coordinar la elaboración y autorizar los manuales de organización del Inst
 
 XVI. Administrar los contratos, y convenios que afecten el presupuesto de la Unidad de Administración, en el ámbito de su competencia, vigilar su cumplimiento y autorizar su finiquito; en su caso, dictaminar sobre la terminación anticipada o rescisión de los mismos;
 
-XVII. Coordinar la elaboración y autorizar los manuales de procedimientos del Instituto, así como emitir las guías técnicas correspondientes, conforme a las disposiciones aplicables, y
+XVII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-XVIII. Las demás atribuciones que le señalen otras disposiciones normativas o le confieran el Presidente y el Titular de la Unidad de Administración.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Garantizar que se provea de un defensor de oficio a los servidores públicos presuntos responsables, conforme a lo dispuesto en el artículo 208, fracción II de la Ley General de Responsabilidades Administrativas, y
+
+XIX. Las demás atribuciones que le señalen otras disposiciones normativas o le confieran el Presidente y el Titular de la Unidad de Administración.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 59.
 
-La Dirección General de Adquisiciones, Recursos Materiales y Servicios Generales tendrá a su cargo la administración y control de los recursos materiales y servicios generales del Instituto; llevar a cabo los procedimientos de contratación de bienes, arrendamientos, servicios de cualquier naturaleza, obra pública y servicios relacionados con las mismas que requiera el Instituto, elaborar y suscribir los contratos relativos, así como establecer y operar el programa de protección civil institucional. Corresponde a esta Dirección General el ejercicio de las siguientes atribuciones:
+La Dirección General de Adquisiciones, Recursos Materiales y Servicios Generales tendrá a su cargo la administración y control de los recursos materiales y servicios generales del Instituto; llevar a cabo los procedimientos de contratación de bienes, arrendamientos, servicios de cualquier naturaleza, obra pública y servicios relacionados con las mismas que requiera el Instituto, elaborar y suscribir los contratos relativos; establecer y operar el programa de protección civil institucional, así como implementar y operar el sistema institucional de archivos. Corresponde a esta Dirección General el ejercicio de las siguientes atribuciones:
 
 I. Administrar y controlar los recursos materiales pertenecientes al Instituto, conforme a las normas y lineamientos aplicables, así como elaborar y suscribir los contratos, convenios, actos jurídicos y todos los documentos necesarios para ello;
 
@@ -2187,15 +2231,31 @@ IX. Coordinar las acciones necesarias para la prestación de los servicios gener
 
 X. Establecer y operar el programa interno de protección civil con el apoyo de las unidades administrativas del Instituto;
 
-XI. Proponer al Titular de la Unidad de Administración, para la aprobación del Pleno, los lineamientos internos en materia de organización de archivos, así como el reglamento o acuerdo de carácter general a que se refiere el artículo 25 de la Ley Federal de Archivos;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XI. Proponer al Titular de la Unidad de Administración, para la aprobación del Pleno, los lineamientos internos en materia de organización de archivos;
 
 XII. Apoyar a las unidades administrativas del Instituto para la adecuada organización, administración, funcionamiento y clasificación de sus expedientes y archivos de trámite;
 
 XIII. Dirigir las actividades del Instituto en materia de archivos conformados por los expedientes de las unidades administrativas en ejercicio de sus atribuciones o en el desarrollo de sus actividades, para su debida integración, administración, resguardo, organización, clasificación, inventario, préstamo y consulta, transferencia, baja documental, conservación y concentración, en términos de lo dispuesto por la normatividad aplicable;
 
-XIV. Fungir, en su caso, como representante del Instituto ante el Consejo Nacional de Archivos, y proveer lo necesario para el debido cumplimiento de las obligaciones que en la materia se establecen para el Instituto en la Ley Federal de Archivos, y
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XV. Las demás atribuciones que le señalen otras disposiciones normativas o le confieran el Presidente y el Titular de la Unidad de Administración.
+XIV. Fungir como el área coordinadora de archivos; propiciar la integración y formalización del grupo interdisciplinario en materia de archivos; representar al Instituto ante el Consejo Nacional de Archivos y, en general, proveer lo necesario para el debido cumplimiento de las obligaciones que en la materia se establecen para el Instituto en la Ley General de Archivos;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XV. Diseñar y administrar el sistema de oficialía de partes común del Instituto, recibir y turnar la documentación;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVI. Administrar e implementar los sistemas de control de gestión documental y administración de archivos del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVII. Elaborar el programa anual de planeación, programación y evaluación para el desarrollo de los archivos, así como el informe anual de cumplimiento del mismo, y
+
+XVIII. Las demás atribuciones que le señalen otras disposiciones normativas o le confieran el Presidente y el Titular de la Unidad de Administración.
 
 ###### Artículo 60.
 
@@ -2219,7 +2279,9 @@ V. Establecer los sistemas de registro y control del presupuesto y contabilidad,
 
 VI. Representar al Instituto en las gestiones en materia presupuestaria ante el Gobierno Federal, con respecto al gasto de administración del Instituto, como ante la Secretaría de Hacienda y Crédito Público y el Gobierno de la Ciudad de México para el cumplimiento de las obligaciones tributarias y realizar trámites, consultas e integrar la información que sea requerida por la normativa en materia fiscal federal y local;
 
-VII. Administrar el sistema de contabilidad del Instituto, así como preparar los estados financieros y los informes de rendición de la Cuenta de la Hacienda Pública Federal, en cumplimiento a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+VII. Administrar el sistema de contabilidad del Instituto, así como preparar los estados financieros y los informes de rendición de la Cuenta de la Hacienda Pública Federal, así como, en su caso, integrar los informes de las erogaciones en materia de gasto en comunicación social, en cumplimiento a la normatividad aplicable;
 
 VIII. Registrar y controlar contablemente el activo fijo y los inventarios;
 
@@ -2317,9 +2379,11 @@ XII. Las demás atribuciones que le señalen otras disposiciones normativas o le
 
 ### CAPÍTULO XIX. De la Autoridad Investigadora
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 62.
 
-Para el despacho de los asuntos de su competencia, la Autoridad Investigadora tendrá adscritas a su cargo la Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas, la Dirección General de Condiciones de Mercado, la Dirección General de Análisis Económico y la Dirección General Adjunta de Atención en Procedimientos. Al Titular de la Autoridad Investigadora le corresponden originariamente las atribuciones conferidas a las Direcciones Generales y Dirección General Adjunta previstas en el presente Capítulo del Estatuto Orgánico, así como las siguientes atribuciones:
+Para el despacho de los asuntos de su competencia, la Autoridad Investigadora tendrá adscritas a su cargo la Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas, la Dirección General de Condiciones de Mercado, la Dirección General de Análisis Económico y la Dirección General Adjunta de Análisis Jurídico. Al Titular de la Autoridad Investigadora le corresponden originariamente las atribuciones conferidas a las Direcciones Generales y Dirección General Adjunta previstas en el presente Capítulo del Estatuto Orgánico, así como las siguientes atribuciones:
 
 I. Planear, programar, organizar, dirigir y evaluar el desempeño de las funciones encomendadas a la Autoridad Investigadora;
 
@@ -2333,9 +2397,9 @@ V. Realizar o encargar a terceros la elaboración de estudios en las materias de
 
 VI. Proponer la emisión, modificación y abrogación de la normativa interna, de asuntos relacionados con su competencia;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-VII. Recibir, iniciar el trámite, tener por no presentada, o desechar por notoria improcedencia las denuncias presentadas por violaciones a la Ley de Competencia o las solicitudes que se presenten ante el Instituto en términos de los artículos 94 y 96 de la misma y dictar, en su caso, el acuerdo de inicio;
+VII. Recibir las denuncias por violaciones a la Ley de Competencia y emitir los acuerdos por los que ordene el inicio de la investigación, formule prevenciones, las tenga por no presentadas o las deseche por notoria improcedencia, según corresponda;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2343,11 +2407,13 @@ VIII. Iniciar de oficio las investigaciones sobre probables violaciones a la Ley
 
 IX. Iniciar las investigaciones a que se refiere el quinto párrafo del artículo noveno transitorio del Decreto de la Ley de Telecomunicaciones, una vez que el Pleno haya resuelto que se cumple lo dispuesto en los párrafos primero al cuarto de dicho artículo;
 
-X. Dirigir y coordinar a las Direcciones Generales adscritas a la Autoridad Investigadora para la integración y debida tramitación de los expedientes, dentro del ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+X. Dirigir y coordinar a las Direcciones Generales adscritas a la Autoridad Investigadora;
 
-XI. Recibir, iniciar a trámite y proveer sobre las solicitudes de declaratoria en materia de competencia efectiva en los mercados que integran los sectores de telecomunicaciones y radiodifusión de conformidad con lo establecido en el artículo 96 de la Ley de Competencia, la Ley de Telecomunicaciones y las Disposiciones Regulatorias;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XI. Recibir, iniciar a trámite y proveer sobre las solicitudes de investigación en los mercados que integran los sectores de telecomunicaciones y radiodifusión, de conformidad con lo establecido en los artículos 94 y 96 de la Ley de Competencia, la Ley de Telecomunicaciones y las Disposiciones Regulatorias;
 
 XII. Conducir las investigaciones sobre probables violaciones a la Ley de Competencia, así como las previstas en los artículos 94 y 96 de la misma, para lo cual podrá requerir informes y documentos necesarios, citar a declarar a quienes tengan relación con los asuntos y, en su caso, realizar visitas de verificación;
 
@@ -2389,15 +2455,17 @@ XXVII. Solicitar al Pleno que emita medidas cautelares, en términos de los art�
 
 XXVIII. Solicitar la autorización del Pleno para remitir y solicitar expedientes a la Comisión Federal de Competencia Económica, así como para remitir expedientes al Tribunal Colegiado de Circuito especializado en materia de competencia económica, radiodifusión y telecomunicaciones, a fin de que se proceda en los términos del artículo 5 de la Ley de Competencia;
 
-XXIX. Solicitar al Diario Oficial de la Federación la publicación de extractos de acuerdos de inicio en los términos de la Ley de Competencia y las Disposiciones Regulatorias;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XXIX. Solicitar al Diario Oficial de la Federación la publicación de avisos y extractos de acuerdos de inicio de investigación, en los términos de la Ley de Competencia y las Disposiciones Regulatorias;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
 XXX. Emitir la orden de visitas de verificación a que se refiere la Ley de Competencia, así como ordenar la realización de análisis forenses de información digital, identificar la existencia de información relevante de acuerdo a los análisis realizados y elaborar reportes técnicos, derivados de los resultados obtenidos;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XXXI. Remitir al Titular de la Unidad de Competencia Económica el expediente de verificación del cumplimiento de los compromisos establecidos en las resoluciones en términos del artículo 100 de la Ley de Competencia, para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
+XXXI. Remitir al Titular de la Unidad de Competencia Económica el expediente de verificación del cumplimiento de las medidas para restaurar el proceso de libre concurrencia y de competencia económica decretadas en las resoluciones que emita el Pleno en términos del artículo 102 de la Ley de Competencia, para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
 
 XXXII. Habilitar días y horas inhábiles en los casos previstos en el calendario anual de labores, así como en aquéllos donde exista causa justificada, sólo para efectos de las investigaciones de que se trate;
 
@@ -2443,15 +2511,23 @@ XLIII. Resolver los incidentes que tengan lugar durante la etapa de investigaci�
 
 XLIV. Dar fe de los actos en que intervenga en el ámbito de sus atribuciones;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XLV. Dar respuesta a las solicitudes de acceso a la información que sean de su competencia y ejercer aquellas facultades derivadas de las leyes en materia de acceso a la información y protección de datos;
+XLV. Ejercer aquellas facultades derivadas de las leyes en materia de acceso a la información y protección de datos;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XLVI. Excusarse del conocimiento de aquellos asuntos en que se actualice alguno de los impedimentos previstos en la Ley de Competencia y la Ley de Telecomunicaciones, y
+XLVI. Excusarse del conocimiento de aquellos asuntos en que se actualice alguno de los impedimentos previstos en la Ley de Competencia y la Ley de Telecomunicaciones;
 
-XLVII. Las demás que le confiera el Pleno, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XLVII. Recibir y turnar, o desechar las solicitudes que presenten los agentes económicos sujetos a una investigación de prácticas monopólicas relativas o concentraciones ilícitas, para acogerse al beneficio de dispensa o reducción del importe de multas;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XLVIII. Turnar a las Direcciones Generales a su cargo los asuntos que conforme a su competencia corresponda, para su debida tramitación, y
+
+XLIX. Las demás que le confiera el Pleno, así como las que se señalen en otras disposiciones legales o administrativas.
 
 Todas las facultades establecidas en este artículo podrán ser ejercidas mediante delegación a las Direcciones Generales y la Dirección General Adjunta, adscritas a la Autoridad Investigadora, previa publicación en el Diario Oficial de la Federación del acuerdo respectivo.
 
@@ -2509,15 +2585,19 @@ XVII. Solicitar a las Unidades, Coordinaciones Generales, Direcciones Generales 
 
 XVIII. Proporcionar a las Unidades, Coordinaciones Generales, Direcciones Generales y Direcciones Generales Adjuntas del Instituto, información y documentación que soliciten para el ejercicio de sus atribuciones, salvo que se trate de investigaciones en curso;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XIX. Establecer los protocolos de protección y resguardo que deberá observase para la clasificación, desclasificación y acceso a la información que genere o custodie, apegándose a los términos previstos en las leyes en materia de transparencia y acceso a la información pública;
+XIX. Establecer los protocolos de protección y resguardo que deberán observarse para la clasificación, desclasificación, tratamiento de datos personales y acceso a la información que genere o custodie, apegándose a los términos previstos en las leyes en materia de transparencia y acceso a la información pública y protección de datos personales;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XX. Dar fe de los actos en que intervenga en el ámbito de sus atribuciones, y
+XX. Dar fe de los actos en que intervenga en el ámbito de sus atribuciones;
 
-XXI. Las demás que le confieran el Pleno o el Titular de la Autoridad Investigadora, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XXI. Cuidar que las investigaciones no se suspendan ni se interrumpan y proveer lo necesario para que concluyan con la emisión del dictamen correspondiente, así como dictar todas las medidas necesarias para encauzar legalmente las investigaciones de su competencia, y
+
+XXII. Las demás que le confieran el Pleno o el Titular de la Autoridad Investigadora, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ###### Artículo 64.
 
@@ -2597,15 +2677,21 @@ IV. Proporcionar a las Unidades, Coordinaciones Generales, Direcciones Generales
 
 V. Recopilar, sistematizar y analizar información sobre mercados y agentes económicos para su uso estratégico en el ejercicio de las atribuciones de la Autoridad Investigadora, incluyendo la que obre en poder de las distintas unidades administrativas del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-VI. Proporcionar al Titular de la Autoridad Investigadora información de carácter estratégico para el desarrollo de líneas de indagación de probables prácticas anticompetitivas y restricciones al funcionamiento eficiente de los mercados, y
+VI. Proporcionar al Titular de la Autoridad Investigadora información de carácter estratégico para el desarrollo de líneas de indagación de probables prácticas anticompetitivas y restricciones al funcionamiento eficiente de los mercados;
 
-VII. Las demás que le confieran el Pleno o el Titular de la Autoridad Investigadora, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+VII. Expedir copias certificadas, certificaciones o cotejos de los documentos existentes en la Dirección General a su cargo, y
+
+VIII. Las demás que le confieran el Pleno o el Titular de la Autoridad Investigadora, así como las que se señalen en otras disposiciones legales o administrativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 67.
 
-Corresponde a la Dirección General Adjunta de Atención en Procedimientos el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General Adjunta de Análisis Jurídico el ejercicio de las siguientes atribuciones:
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2619,21 +2705,51 @@ II. Coadyuvar con la Unidad de Asuntos Jurídicos en la sustanciación de los ju
 
 III. Apoyar y asesorar jurídicamente a la Autoridad Investigadora y coadyuvar con las Direcciones Generales previstas en el presente capítulo;
 
-IV. Proponer al Titular de la Autoridad Investigadora lineamientos sobre uniformidad de criterios en la actuación de las Direcciones Generales que estén a su cargo;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+IV. Proponer al Titular de la Autoridad Investigadora la uniformidad de criterios en la actuación de las Direcciones Generales que estén a su cargo;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
 V. Apoyar al Titular de la Autoridad Investigadora, así como a las Direcciones Generales que estén a su cargo, a supervisar la aplicación de la Ley de Competencia, la Ley de Telecomunicaciones, las Disposiciones Regulatorias y el presente Estatuto Orgánico;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-VI. Realizar los actos necesarios para verificar el cumplimiento de los compromisos establecidos en las resoluciones en términos del artículo 100 de la Ley de Competencia, para lo cual podrá decretar y hacer efectivas las medidas de apremio establecidas en la Ley de Competencia;
+VI. Realizar los actos necesarios para verificar el cumplimiento de las medidas para restaurar el proceso de libre concurrencia y de competencia económica decretadas en las resoluciones que emita el Pleno en términos del artículo 102 de la Ley de Competencia, para lo cual podrá decretar y hacer efectivas las medidas de apremio establecidas en la Ley de Competencia;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-VII. Realizar las notificaciones por lista de los actos emitidos por la Autoridad Investigadora, así como las Direcciones Generales adscritas a ésta, de conformidad con la normatividad aplicable, y
+VII. Realizar las notificaciones por lista de los actos emitidos por la Autoridad Investigadora, así como las Direcciones Generales adscritas a ésta, de conformidad con la normatividad aplicable;
 
-VIII. Las demás que le confieran el Pleno o el Titular de la Autoridad Investigadora, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+VIII. Apoyar, en coordinación con las demás Direcciones Generales adscritas a la Autoridad Investigadora, en el análisis de los aspectos jurídicos de los asuntos tramitados ante la misma;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+IX. Solicitar a la autoridad competente la ejecución de las multas impuestas como medida de apremio por el Titular de la Autoridad Investigadora o las Direcciones Generales que tiene adscritas, que se hagan efectivas durante la investigación;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+X. Coadyuvar con la Unidad de Transparencia para el desahogo oportuno de las solicitudes de acceso a la información y el cumplimiento de las obligaciones del Instituto en materia de transparencia y acceso a la información pública;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XI. Analizar desde el punto de vista jurídico los actos en los que intervenga el Titular de la Autoridad Investigadora con motivo de la administración de los recursos humanos, financieros y materiales a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XII. Expedir copias certificadas, certificaciones o cotejos de los documentos existentes en la Dirección General Adjunta a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XIII. Solicitar a las Unidades, Coordinaciones Generales, Direcciones Generales y Direcciones Generales Adjuntas del Instituto, información y documentación necesaria para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XIV. Proporcionar a las Unidades, Coordinaciones Generales, Direcciones Generales y Direcciones Generales Adjuntas del Instituto, información y documentación que soliciten para el ejercicio de sus atribuciones, salvo que se trate de investigaciones en curso, y
+
+XV. Las demás que le confieran el Pleno o el Titular de la Autoridad Investigadora, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ### CAPÍTULO XX. Del Centro de Estudios
 
@@ -2701,15 +2817,21 @@ III. Coordinar, previo acuerdo con el Presidente, la participación de servidore
 
 IV. Dar seguimiento a los compromisos internacionales adquiridos por el Instituto;
 
-V. Mantener informado al Presidente sobre la planeación, participación y resultados relacionados con la actividades y compromisos Internacionales;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+V. Mantener informado al Presidente sobre la planeación, participación y resultados relacionados con actividades y compromisos internacionales;
 
 VI. Coordinar, previa solicitud de algún Comisionado, la participación internacional de los Comisionados del Instituto en foros, reuniones, negociaciones, eventos, convenciones, congresos, conferencias y todas aquellas que se consideren importantes para el desarrollo y posicionamiento del Instituto a nivel Internacional;
 
 VII. Coadyuvar con las instancias del Ejecutivo Federal, en el seguimiento a los compromisos adquiridos por México ante organismos y otras entidades internacionales en las materias de telecomunicaciones y de radiodifusión, en el ámbito de competencia del Instituto;
 
-VIII. Colaborar con la Secretaría de Comunicaciones y Transportes, y en coordinación con la Unidad de Espectro Radioeléctrico, en las gestiones que realice ante los organismos internacionales competentes, para la obtención de recursos orbitales a favor del Estado Mexicano;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-IX. Colaborar con la Secretaría de Comunicaciones y Transportes, y en coordinación con la Unidad de Espectro Radioeléctrico, en la coordinación de recursos orbitales ante los organismos internacionales competentes, con las entidades de otros países y con los concesionarios u operadores nacionales o extranjeros;
+VIII. Colaborar con la Secretaría de Comunicaciones y Transportes en las gestiones que realice ante los organismos internacionales competentes, para la obtención de recursos orbitales a favor del Estado Mexicano;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+IX. Colaborar con la Secretaría de Comunicaciones y Transportes en la coordinación de recursos orbitales ante los organismos internacionales competentes, con las entidades de otros países y con los concesionarios u operadores nacionales o extranjeros;
 
 X. Posicionar al Instituto a nivel internacional, a través de la gestión de las relaciones con organismos internacionales, reguladores y autoridades extranjeras, así como con agentes del sector privado;
 
@@ -2797,13 +2919,15 @@ XXVI. Las demás que le confieran el Pleno o el Presidente, así como las que se
 
 ### CAPÍTULO XXIII. De la Coordinación General de Planeación Estratégica
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 72.
 
-La Coordinación General de Planeación Estratégica tendrá adscritas a su cargo la Dirección General Adjunta de Estadística y Análisis de Indicadores y la Dirección General Adjunta de Planeación y Prospectiva. Al Coordinador General de Planeación Estratégica le corresponde el ejercicio de las siguientes atribuciones, así como originariamente aquellas conferidas a las Direcciones Generales Adjuntas que se establecen en este Capítulo del Estatuto Orgánico:
+La Coordinación General de Planeación Estratégica tendrá adscritas a su cargo la Dirección General Adjunta de Estadística y Análisis de Indicadores, la Dirección General Adjunta de Prospectiva y Análisis de Impacto Económico y la Dirección General Adjunta de Planeación y Gestión de Proyectos. Al Coordinador General de Planeación Estratégica le corresponde el ejercicio de las siguientes atribuciones, así como originariamente aquellas conferidas a las Direcciones Generales Adjuntas que se establecen en este Capítulo del Estatuto Orgánico:
 
-I. Proponer al Presidente la planeación estratégica de corto, mediano y largo plazo para cumplir con los objetivos del Instituto;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+I. Proponer al Presidente la formulación e implementación de las acciones relacionadas con la planeación estratégica para cumplir con los objetivos del Instituto;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2811,7 +2935,7 @@ II. Proponer al Presidente el proyecto de programa anual de trabajo del Institut
 
 III. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
-IV. Proponer al Presidente las acciones, medidas y normatividad para el mejor funcionamiento del Instituto en el ámbito de su competencia;
+IV. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2827,93 +2951,143 @@ Corresponde a la Dirección General Adjunta de Estadística y Análisis de Indic
 
 I. Participar en el Consejo Consultivo Nacional del Sistema Nacional de Información Estadística y Geográfica, así como asesorar y solicitar a dicho Consejo la generación de indicadores en materia de telecomunicaciones y radiodifusión, y proporcionar la información que obre en sus registros administrativos para la creación y actualización de los indicadores respectivos;
 
-II. Recopilar de las unidades administrativas la información necesaria para la definición y actualización de los indicadores en materia de telecomunicaciones y radiodifusión de acuerdo con la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-III. Realizar las gestiones para inscribir en el Registro Público de Concesiones las estadísticas e indicadores en materia de telecomunicaciones y radiodifusión;
+II. Solicitar a las unidades administrativas los insumos necesarios para generar información estadística que permita monitorear la evolución de los sectores de telecomunicaciones y radiodifusión de acuerdo con la normativa aplicable;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+III. Realizar las gestiones para inscribir en el Registro Público de Concesiones información estadística en materia de telecomunicaciones y radiodifusión;
 
 IV. Realizar acciones de coordinación con la Secretaría de Comunicaciones y Transportes y el Instituto Nacional de Estadística y Geografía, para la definición de los indicadores que permitan medir la evolución de los servicios de telecomunicaciones y radiodifusión en todo el territorio nacional;
 
-V. Formular las políticas y directrices para la generación de la información estadística de telecomunicaciones, radiodifusión y competencia económica de dichos sectores, acorde con la metodología de medición reconocida o recomendada por la Unión Internacional de Telecomunicaciones;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+V. Formular las políticas y directrices para la generación de la información estadística de telecomunicaciones, radiodifusión y competencia económica de dichos sectores, acorde con la metodología de medición reconocida o recomendada por la Unión Internacional de Telecomunicaciones, así como de acuerdo con las mejores prácticas en la materia;
 
-VI. Recabar, generar y mantener actualizada la información estadística de los sectores de telecomunicaciones, radiodifusión y competencia económica en dichos sectores;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-VII. Publicar trimestralmente la información estadística y las métricas del sector;
+VI. Recabar y generar información estadística que permita monitorear la evolución de los sectores de telecomunicaciones, radiodifusión y competencia económica en dichos sectores;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+VII. Publicar trimestralmente la información estadística referente a la evolución de los sectores de telecomunicaciones y radiodifusión;
 
 VIII. Elaborar el anuario estadístico del Instituto;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-IX. Establecer mecanismos electrónicos para la recopilación, depuración, actualización y difusión de información estadística, económico-financiera y de evolución y comportamiento del mercado de las telecomunicaciones y la radiodifusión nacional e internacional;
+IX. Establecer mecanismos electrónicos para la recopilación, integración, actualización y difusión de la información estadística que permita monitorear la evolución de los sectores de las telecomunicaciones y la radiodifusión a nivel nacional;
 
-X. Recabar, analizar, procesar y divulgar información relacionada con las principales variables económicas y financieras de los sectores de telecomunicaciones y radiodifusión, así como para operar sistemas y servicios de información vinculados con éstas;
+X. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-XI. Generar y emitir documentos, boletines y reportes en materia de telecomunicaciones, radiodifusión y competencia económica en dichos sectores;
+XI. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
 XII. Integrar el acervo estadístico del sector al que hace referencia el artículo 292 de la Ley de Telecomunicaciones;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XIII. Realizar las acciones de coordinación con las unidades administrativas del Instituto, para el análisis de los indicadores que permitan medir tanto la evolución de los servicios de telecomunicaciones y radiodifusión, como sustentar las políticas regulatorias de los mismos;
+XIII. Realizar las acciones de coordinación con las unidades administrativas del Instituto, para el análisis de la información estadística que permita medir tanto la evolución de los sectores de telecomunicaciones y radiodifusión, como sustentar las políticas regulatorias de los mismos;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XIV. Asesorar y apoyar a las unidades administrativas del Instituto en la elaboración de metodologías para el diseño de encuestas, análisis estadísticos y otras que requieran del uso de herramientas estadísticas, y
+XIV. Asesorar, apoyar, y en su caso, en coordinación con la Unidad de Administración, capacitar a las unidades administrativas del Instituto en la elaboración de metodologías para el diseño de encuestas, en la generación de información estadística, así como en otras acciones que requieran del uso de herramientas estadísticas;
 
-XV. Las demás que le confieran el Pleno, el Presidente o el Coordinador General, así como las que señalen otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+XV. Difundir información estadística de telecomunicaciones y radiodifusión generada por organismos e instituciones internacionales especializados en la materia, y
+
+XVI. Las demás que le confieran el Pleno, el Presidente o el Coordinador General, así como las que señalen otras disposiciones legales o administrativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 74.
 
-Corresponde a la Dirección General Adjunta de Planeación y Prospectiva el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General Adjunta de Prospectiva y Análisis de Impacto Económico el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+I. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-I. Elaborar el proyecto de programa anual de trabajo del Instituto, que dé cumplimiento a la misión, visión, objetivos y metas institucionales, y contribuya con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos, relacionados con los sectores de radiodifusión y telecomunicaciones;
-
-II. Diseñar las políticas, estrategias y directrices para el cumplimiento de los objetivos y metas institucionales;
+II. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 III. Identificar tendencias y catalizadores en los mercados globales de telecomunicaciones, radiodifusión y competencia económica de dichos sectores;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+IV. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-IV. Diseñar e implementar metodologías y herramientas para el análisis, seguimiento y evaluación de los proyectos institucionales;
+V. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-V. Elaborar trimestralmente los proyectos de informes de actividades que incluyan los resultados, las acciones y los criterios que al efecto hubiere aplicado el Instituto; su contribución para cumplir con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos relacionados con los sectores de radiodifusión y telecomunicaciones, así como el impacto de dichos sectores en el desarrollo, progreso y competitividad del país;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
-
-VI. En coordinación con las unidades administrativas del Instituto, diseñar políticas, lineamientos y procedimientos en materia de planeación, organización, definición de indicadores para la evaluación de sus resultados, así como evaluación institucional;
+VI. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 VII. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+VIII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-VIII. Coordinar los trabajos para la evaluación de los resultados obtenidos en el mediano y largo plazo de los proyectos institucionales y proponer acciones de mejora;
+IX. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-IX. Asesorar a las unidades administrativas del Instituto en la definición de sus indicadores para la evaluación de sus resultados;
+X. Elaborar, en colaboración con el Centro de Estudios, análisis de mediano y largo plazo de prospectiva regulatoria de los sectores de telecomunicaciones y radiodifusión, donde se identifiquen las tendencias generales de sus mercados, los posibles escenarios futuros e impactos económicos, considerando los estudios, análisis e insumos disponibles en todas las unidades administrativas del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-X. Elaborar un informe anual de prospectiva en los sectores de telecomunicaciones y radiodifusión, donde se identifiquen las tendencias generales de sus mercados y los posibles escenarios futuros, y
+XI. Elaborar, en colaboración con el Centro de Estudios, estudios de mercado, análisis de impacto, evaluaciones de riesgo e identificación de tendencias globales en las materias propias del Instituto;
 
-XI. Las demás que le confieran el Pleno o el Presidente o el Coordinador General, así como las que señalen otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XII. Diseñar y aplicar herramientas para el análisis de impacto económico de los sectores de telecomunicaciones y radiodifusión en el desarrollo, progreso y competitividad del país, considerando, en su caso, los procesos de medición y análisis ex post de políticas públicas que el Centro de Estudios haya desarrollado;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XIII. Realizar pronósticos sobre las variables relevantes de los sectores de telecomunicaciones y radiodifusión como insumos para los procedimientos de otras unidades administrativas, en coadyuvancia con el Centro de Estudios;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XIV. Elaborar reportes anuales que describan el comportamiento de los indicadores de los mercados que integran los sectores de telecomunicaciones y radiodifusión;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XV. Realizar análisis exploratorio de datos para determinar si existen patrones o tendencias a fin de hacer recomendaciones de diseño de políticas regulatorias;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVI. Organizar talleres, mesas redondas, comités consultivos y otros foros sobre temas emergentes o retos regulatorios identificados, a efecto de complementar los estudios y análisis a su cargo, en coordinación con las demás unidades administrativas competentes del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVII. Diseñar y realizar encuestas para la elaboración de estudios y análisis de prospectiva regulatoria o de impacto económico en el ámbito de su competencia, y
+
+XVIII. Las demás que le confieran el Pleno o el Presidente o el Coordinador General, así como las que señalen otras disposiciones legales o administrativas.
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+Artículo 74 BIS. Corresponde a la Dirección General Adjunta de Planeación y Gestión de Proyectos el ejercicio de las siguientes atribuciones:
+
+I. Elaborar el proyecto de programa anual de trabajo del Instituto que dé cumplimiento a la misión, visión, objetivos y metas institucionales, y contribuya con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos, relacionados con los sectores de radiodifusión y telecomunicaciones;
+
+II. Asesorar a las unidades administrativas en el proceso de planeación y alineación estratégica de los proyectos y metas que formulen para su incorporación en el proyecto de programa anual de trabajo del Instituto;
+
+III. Diseñar, en coordinación con las demás unidades administrativas del Instituto, las políticas, estrategias y directrices para el cumplimiento de los objetivos y metas institucionales;
+
+IV. Apoyar a las unidades administrativas del Instituto en el diseño de políticas, lineamientos y procedimientos en materia de planeación de proyectos;
+
+V. Elaborar trimestralmente los proyectos de informes de actividades que incluyan los resultados, las acciones y los criterios que al efecto hubiere aplicado el Instituto; su contribución para cumplir con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos relacionados con los sectores de radiodifusión y telecomunicaciones, así como el impacto de dichos sectores en el desarrollo, progreso y competitividad del país;
+
+VI. Coordinar la implementación de metodologías y herramientas para el análisis, seguimiento y evaluación de los proyectos institucionales acorde a estándares internacionales;
+
+VII. Asesorar a las unidades administrativas del Instituto en la planeación, control, seguimiento y cumplimiento de metas de los proyectos institucionales y, en su caso, proponer acciones de mejora;
+
+VIII. Elaborar y proponer al Presidente los criterios institucionales para que los proyectos de programa anual de trabajo y de informes trimestrales de actividades, contribuyan a la modernización de la gestión y rendición de cuentas, y
+
+IX. Las demás que le confieran el Pleno, el Presidente o el Coordinador General, así como las que señalen otras disposiciones legales o administrativas.
 
 ### CAPÍTULO XXIV. De la Coordinación General de Mejora Regulatoria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 75.
 
-La Coordinación General de Mejora Regulatoria tendrá a su cargo el proceso de mejora regulatoria del Instituto, el cual consiste en promover la transparencia en la elaboración y aplicación de las reglas, lineamientos o disposiciones administrativas de carácter general que expida el Pleno y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad. Para ello, corresponde a esta Coordinación General el ejercicio de las siguientes atribuciones:
+La Coordinación General de Mejora Regulatoria tendrá a su cargo el proceso de mejora regulatoria del Instituto, el cual consiste en promover la transparencia en la elaboración y aplicación de las reglas, lineamientos o disposiciones administrativas de carácter general que expida el Pleno y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad; asimismo, será la autoridad encargada de aplicar lo establecido en la normatividad vigente en materia de mejora regulatoria. Para ello, corresponde a esta Coordinación General el ejercicio de las siguientes atribuciones:
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2925,7 +3099,9 @@ II. Emitir la opinión no vinculante del análisis de impacto regulatorio o del 
 
 III. Elaborar y proponer al Pleno los lineamientos para la conformación y administración del inventario en el portal de Internet del Instituto, que contendrá todos los trámites y servicios que derivan de las leyes, normas, reglas, lineamientos o disposiciones administrativas de carácter general, a cargo de las unidades administrativas del Instituto;
 
-IV. Emitir la opinión no vinculante respecto de los trámites y servicios a cargo de las unidades administrativas del Instituto, para efecto de conformar y administrar el inventario referido en la fracción anterior;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+IV. Emitir las observaciones respecto de los trámites y servicios a cargo de las unidades administrativas del Instituto, para efecto de conformar y administrar el inventario referido en la fracción anterior;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2937,9 +3113,9 @@ VI. Publicar en el portal de Internet del Instituto la información relacionada 
 
 VII. Brindar asesoría técnica en materia de mejora regulatoria a las unidades administrativas del Instituto;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-VIII. Promover, con las unidades administrativas del Instituto, el desarrollo, modernización y mejora de la gestión de los trámites y servicios del Instituto, así como proponer su simplificación y automatización;
+VIII. Promover, con las unidades administrativas del Instituto, el desarrollo, modernización y mejora de la gestión de los trámites y servicios del Instituto, así como proponer su simplificación y realización por medios electrónicos;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2957,15 +3133,23 @@ XII. Promover, en coordinación con la Unidad de Administración, programas y cu
 
 XIII. Promover, conjuntamente con la Coordinación General de Vinculación Institucional o la Coordinación General de Asuntos Internacionales, la firma de acuerdos y convenios de coordinación y colaboración en materia de mejora regulatoria con dependencias, organismos autónomos, instituciones académicas y organismos internacionales;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XIV. Revisar el marco regulatorio en telecomunicaciones y radiodifusión, diagnosticar su aplicación y elaborar para consideración del Pleno, disposiciones para sus procesos de mejora regulatoria en dichos sectores;
+XIV. Revisar el marco regulatorio en telecomunicaciones y radiodifusión, y proponer al Pleno disposiciones para la mejora regulatoria del Instituto en dichos sectores;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
-XV. Llevar a cabo, en coordinación con las unidades administrativas del Instituto en el ámbito de sus respectivas atribuciones, el desarrollo e implementación del expediente electrónico, y
+XV. Llevar a cabo, en coordinación con las unidades administrativas del Instituto en el ámbito de sus respectivas atribuciones, el desarrollo e implementación del expediente electrónico;
 
-XVI. Las demás que le confieran el Pleno o el Presidente, así como las que señalen otras disposiciones legales o administrativas.
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVI. Coordinar la elaboración y autorizar los manuales de procedimientos del Instituto, así como emitir las guías técnicas correspondientes, conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+XVII. Coordinar, asistir y asesorar a las unidades administrativas en el levantamiento de información, mapeo, documentación y propuestas de mejora de los procesos del Instituto, y
+
+XVIII. Las demás que le confieran el Pleno o el Presidente, así como las que señalen otras disposiciones legales o administrativas.
 
 ### CAPÍTULO XXV. De la Coordinación General de Vinculación Institucional
 
@@ -3003,13 +3187,13 @@ XIV. Fungir como enlace para atender, asesorar y dar seguimiento a las recomenda
 
 XV. Coordinar y atender las actividades protocolarias y de relaciones públicas pertinentes para el adecuado desenvolvimiento de las funciones institucionales en territorio nacional;
 
-XVI. Coadyuvar con la Coordinación General de Asuntos Internacionales en la atención de eventos y actividades de carácter internacional que tengan lugar en el territorio nacional;
+XVI. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-XVII. Organizar y resguardar, en conjunto con la Unidad de Administración, el archivo de la oficina de la Presidencia, así como su digitalización, debida clasificación y el control de los servicios de consulta interna de sus expedientes;
+XVII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-XVIII. Diseñar y administrar el sistema de oficialía de partes común del Instituto, recibir y turnar todos los documentos que se presenten;
+XVIII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-XIX. Administrar el sistema de control de gestión documental para registrar, clasificar, digitalizar y dar seguimiento a la documentación que recibe el Instituto y distribuirla a las áreas competentes para su atención y trazabilidad, y
+XIX. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 XX. Las demás que le confieran el Pleno o el Presidente, así como las que se señalen en otras disposiciones legales o administrativas.
 
@@ -3351,9 +3535,7 @@ El Instituto contará con un Comité de Transparencia, el cual, en ejercicio de 
 
 I. Las señaladas en la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados u ordenamientos legales que, en su caso, las sustituyan;
 
-> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
-
-II. Las señaladas en la Ley Federal de Archivos;
+II. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -3473,7 +3655,7 @@ TERCERO. El Instituto deberá adecuar su estructura orgánica, así como las nor
 
 CUARTO. Los asuntos y procedimientos que se estén sustanciando ante las unidades administrativas previstas en el Estatuto Orgánico que se abroga, continuarán su trámite ante las unidades administrativas u órganos competentes previstos en el presente Estatuto Orgánico, a partir de su entrada en vigor.
 
-QUINTO. Los servidores públicos del Instituto que, por virtud de la reestructuración orgánica y redistribución de funciones previstas en el presente Estatuto Orgánico, deban entregar a otros servidores públicos expedientes, asuntos, trámites o procedimientos para su recepción y continuación, documentarán la entrega-recepción de los mismos en términos del numeral CUARTO y demás aplicables del “Acuerdo por el que se establecen los lineamientos específicos para la entrega-recepción del informe de los asuntos a su cargo y de los recursos que tengan asignados los servidores públicos adscritos al Instituto Federal de Telecomunicaciones, al momento de separarse de su empleo, cargo o comisión”. A partir de la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación, las unidades administrativas y órganos del Instituto deberán coordinarse para preparar la entrega-recepción prevista en este artículo.
+QUINTO. Los servidores públicos del Instituto que, por virtud de la reestructuración orgánica y redistribución de funciones previstas en el presente Estatuto Orgánico, deban entregar a otros servidores públicos expedientes, asuntos, trámites o procedimientos para su recepción y continuación, documentarán la entrega-recepción de los mismos en términos del numeral CUARTO y demás aplicables del "Acuerdo por el que se establecen los lineamientos específicos para la entrega-recepción del informe de los asuntos a su cargo y de los recursos que tengan asignados los servidores públicos adscritos al Instituto Federal de Telecomunicaciones, al momento de separarse de su empleo, cargo o comisión". A partir de la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación, las unidades administrativas y órganos del Instituto deberán coordinarse para preparar la entrega-recepción prevista en este artículo.
 
 SEXTO. Las referencias hechas en otros ordenamientos, lineamientos o resoluciones a las unidades administrativas establecidas en el Estatuto Orgánico que se abroga en términos del artículo segundo transitorio, se entenderán hechas a las unidades administrativas que se establecen en el presente Estatuto Orgánico, en el ámbito de las atribuciones previstas en el mismo.
 
@@ -3538,3 +3720,19 @@ D.O.F. 13 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES".]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES MODIFICA SU ESTATUTO ORGÁNICO”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el párrafo siguiente.
+
+Las modificaciones a los artículos 59, párrafo primero y fracciones XI y XIV, la adición de la fracción XVII al artículo 59 y la derogación de la fracción II del artículo 90, entrarán en vigor el 15 de junio de 2019, conforme a lo establecido en el artículo primero transitorio del Decreto por el que se expide la Ley General de Archivos, publicado en el Diario Oficial de la Federación el 15 de junio de 2018.
+
+SEGUNDO. El Instituto deberá adecuar su estructura orgánica y sus normas administrativas a lo dispuesto en el presente acuerdo. En tanto no se efectúe la adecuación normativa a que se refiere este precepto, se continuarán aplicando aquellas vigentes antes de su entrada en vigor en lo que no se opongan.
+
+TERCERO. Los asuntos y procedimientos que se estén sustanciando ante las unidades administrativas del Instituto, en términos de lo previsto en el Estatuto Orgánico publicado en el Diario Oficial de la Federación el 4 de septiembre de 2014 y de sus modificaciones, continuarán su trámite ante las unidades administrativas u órganos competentes, de conformidad con lo dispuesto en el presente acuerdo, a partir de su entrada en vigor.
+
+CUARTO. En virtud del cambio de denominación del que fueron objeto las correspondientes Direcciones Generales Adjuntas, los servidores públicos del Instituto que, al momento de la presente modificación al Estatuto Orgánico, ocupan la Dirección General Adjunta de Atención en Procedimientos y la Dirección General Adjunta de Planeación y Prospectiva, ocuparán, respectivamente, la Dirección General Adjunta de Análisis Jurídico y la Dirección General Adjunta de Prospectiva y Análisis de Impacto Económico.
+
+QUINTO. Las referencias hechas en otros ordenamientos, lineamientos o resoluciones a la Dirección General Adjunta de Televisión Digital Terrestre, se entenderán hechas a la Dirección General de Política y Procedimientos Regulatorios en Medios y Contenidos Audiovisuales y a la Dirección General de Análisis de Medios y Contenidos Audiovisuales, según corresponda. Las referencias hechas a la Dirección General Adjunta de Atención en Procedimientos, se entenderán hechas a la Dirección General Adjunta de Análisis Jurídico. Las referencias a la Dirección General Adjunta de Planeación y Prospectiva, se entenderán hechas a la Dirección General Adjunta de Prospectiva y Análisis de Impacto Económico y a la Dirección General Adjunta de Planeación y Gestión de Proyectos, según corresponda.
