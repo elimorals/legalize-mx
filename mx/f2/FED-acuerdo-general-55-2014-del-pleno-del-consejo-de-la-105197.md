@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-55-2014-del-pleno-del-consejo-de-la-105197"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-28"
-last_updated: "2016-05-25"
+last_updated: "2018-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105197&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-01-20"
 ---
 # ACUERDO GENERAL 55/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE EL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ÓRGANOS DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 27 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 55/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE EL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 28 de enero de 2015.
 
@@ -103,7 +105,9 @@ El Instituto, podrá solicitar la colaboración o celebrar convenios de colabora
 
 El Instituto podrá contar con servidores públicos encargados de desarrollar funciones en materia pericial.
 
-Los peritos a que se refiere el párrafo anterior, se regirán por lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas; y demás disposiciones aplicables.
+> <small>(REFORMADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+
+Los peritos a que se refiere el párrafo anterior, se regirán por lo dispuesto en la Ley General de Responsabilidades Administrativas; el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas; y demás disposiciones aplicables.
 
 ## TITULO SEGUNDO
 
@@ -592,3 +596,27 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. El Instituto Federal de Defensoría Pública y la Secretaría Ejecutiva de Administración deberán llevar a cabo las acciones necesarias para la implementación administrativa del presente Acuerdo.
+
+D.O.F. 7 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el siete de diciembre de dos mil dieciocho.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+Lo anterior, con excepción del ARTÍCULO OCTAVO de este Acuerdo, del cual el Secretario Ejecutivo del Pleno distribuirá copia certificada a las unidades administrativas involucradas en su aplicación o ejecución.
+
+TERCERO. Las Secretarías Ejecutivas de Finanzas y Servicios Personales; y de Administración, por conducto de las unidades administrativas competentes que les estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. La Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial conservará los recursos humanos, presupuestales, financieros y materiales con los que actualmente cuenta la Dirección General de Responsabilidades, así como la competencia para continuar conociendo de los asuntos en trámite.
+
+SEXTO. La Unidad de Investigación de Responsabilidades Administrativas se transforma en la Unidad General de Investigación de Responsabilidades Administrativas con los recursos humanos, presupuestales, financieros y materiales con que cuenta la Unidad de Investigación, así como con las investigaciones que actualmente lleva a cabo.
+
+SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluación, y a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación se entenderán hechas a la Comisión de Vigilancia y a la Secretaría Ejecutiva de Vigilancia, respectivamente.
+
+Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
+
+Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
