@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2018-07-25"
+last_updated: "2018-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NO. 020 MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -3654,3 +3654,69 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
+
+P.O. 8 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 020 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Chiapas, publicada en el Periódico Oficial del Estado número Uno, de fecha ocho de diciembre del año dos mil y sus reformas y adiciones; y se derogan las demás disposiciones legales que se opongan a la presente ley.
+
+Artículo Tercero.- Las atribuciones o referencias contenidas en otras leyes y demás normativa aplicable, así como los recursos humanos, materiales y financieros que se refieran y estuvieran asignados a las Dependencias, órganos y Entidades que por esta ley se reforman, extinguen o se fusionan, se entenderán conferidas, serán transferidos y serán atendidas de la forma siguiente:
+
+a) Las relativas a adquisiciones de bienes y servicios, recursos materiales y aseguramiento de vehículos propiedad del Gobierno del Estado, que tenía atribuidos el organismo auxiliar del Ejecutivo del Estado denominado Oficialía Mayor, por la Secretaría de Hacienda.
+
+Las correspondientes a las atribuciones de política laboral, representación ante el Sindicato de la Burocracia del Estado y el registro de incidencias y otorgamiento de permisos y pensiones de cualquier tipo, entre otras de esa naturaleza que tenía asignadas la Secretaría del Trabajo, por la Secretaría de Hacienda.
+
+b) Las relativas al apoyo, mantenimiento, integración, hospedaje, administración y desarrollo de las tecnologías de la información y de internet que se brinda a las Dependencias y Entidades de la Administración Pública, o en apoyo y a solicitud de los Ayuntamientos, por el órgano que para tal efecto se instituya en la Administración Pública Paraestatal, quien además se encargará de promover la ciencia y tecnología en el Estado.
+
+c) Las correspondientes a obra pública y comunicaciones, exceptuando transportes aéreos, que tenía atribuida la Secretaría de Obra Pública y Comunicaciones, por la Secretaría de Obras Públicas.
+
+d) Las relativas a la Secretaría de Transportes, por la Secretaría de Movilidad y Transporte.
+
+e) Las relativas al registro civil, notarías y archivo general de gobierno, patrimonio, catastro y registro público de la propiedad y comercio, que tenía a su cargo el Instituto de la Consejería Jurídica y Asistencia Legal, por la Secretaría General de Gobierno, incluso las del organismo público descentralizado que nunca operó y que ahora se determina sea parte de la estructura de dicha Dependencia.
+
+f) Lo (sic) correspondientes a la operación de las aeronaves propiedad del Gobierno del Estado y las que están bajo su custodia, así como el mantenimiento preventivo y correctivo de las mismas, incluyendo la dotación del combustible necesario para tales fines que tenía atribuida la Secretaría de Obra Pública y Comunicaciones, por la Secretaría de Protección Civil, a través del organismo público adscrito al sector de ésta última.
+
+g) Las correspondientes al Instituto de Desarrollo de Energía del Estado, por la Secretaría de Medio Ambiente e Historia Natural.
+
+h) Lo (sic) atribuciones relativas al campo, que tenía atribuidas la Secretaría del Campo, por la Secretaría de Agricultura, Ganadería y Pesca.
+
+i) Las relativas a pesca y acuacultura que tenía atribuidas la Secretaría de Pesca y Acuacultura, por la Secretaría de Agricultura, Ganadería y Pesca.
+
+j) Las correspondientes a la atención de conflictos sindicales, no litigiosos, que tenía asignados la Secretaría del Trabajo, por la Secretaría General de Gobierno.
+
+k) Las relativas a la juventud que tenía atribuidas la Secretaría de la Juventud, Recreación y Deporte, por la Secretaría de Bienestar, a través del organismo que para tal efecto se instituya.
+
+l) Las correspondientes al Deporte que tenía atribuidas la Secretaría de la Juventud, Recreación y Deporte, por el organismo auxiliar del Poder Ejecutivo del Estado, que tendrá las atribuciones, funciones y estructura que determine su decreto de creación.
+
+m) Las relativas a la Secretaría para el Desarrollo y el Empoderamiento de la Mujer, por la Secretaría de Igualdad de Género.
+
+n) Las de la Secretaría de Desarrollo Social, por la Secretaría de Bienestar.
+
+o) Las relativas a la Secretaría de Economía, por la Secretaría de Economía y del Trabajo.
+
+p) De la Secretaría del Trabajo, las atribuciones en materia de fomento al empleo y la coordinación de las acciones relativas a la conciliación y el registro de los contratos colectivos y las relaciones sindicales, por la Secretaría de Economía y del Trabajo.
+
+q) Las atribuciones correspondientes a la Secretaría de la Contraloría General, por la Secretaría de la Honestidad y Función Pública.
+
+r) En materia jurídico-normativo, las que le correspondían al Instituto de la Consejería Jurídica y de Asistencia Legal, por la Consejería Jurídica del Gobernador, que será un organismo auxiliar del Poder Ejecutivo, que tendrá sus atribuciones, organización funcionamiento, definidos en su decreto de creación y sus determinaciones serán vinculatorias para las Dependencias y Entidades de la Administración Pública para Estatal.
+
+Artículo Cuarto.- Los compromisos y procedimientos que a la entrada en vigor de la presente ley, hubiesen contraído, tengan asignados o le correspondían a las Dependencias, órganos y Entidades que por esta ley se reforman, fusionan o se extinguen, se entenderán transferidos y conferidos en términos del Artículo Tercero Transitorio de esta ley, al igual que los recursos que éstas tenían asignados y que deberán ser transferidos en ese orden, y su registro contable dará inicio a partir del 01 de enero de 2019.
+
+La Junta Local de Conciliación y Arbitraje, así como las especiales y las demás instancias que las integran, seguirán funcionando y atendiendo de manera normal los conflictos de trabajo de su competencia y demás atribuciones que tienen asignadas, hasta en tanto se implemente el nuevo Sistema de Justicia Laboral, derivado de la reforma en la materia al artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, del año 2017.
+
+Artículo Quinto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento de la presente ley, en plena observancia de las disposiciones aplicables.
+
+Los Titulares de las Dependencias que en su estructura o denominación sufrieron modificaciones, deberán someter a consideración del Titular del Poder Ejecutivo del Estado, en un plazo no mayor a ciento veinte días naturales, las adecuaciones que correspondan al marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones de la presente ley.
+
+Artículo Sexto.- La Secretaría de Hacienda será la encargada de dictaminar la creación, modificación, y supresión de los órganos administrativos y plazas de manera funcional y presupuestal, mediante los dictámenes correspondientes.
+
+Artículo Séptimo.- Los órganos de gobierno de los organismos descentralizados de la Administración Pública estatal, denominados Talleres Gráficos, así como el Sistema Chiapaneco de Radio, Televisión y Cinematografía, serán presididos por el Titular del Instituto de Comunicación Social, o por el servidor público adscrito a dicho instituto que su titular designe.
+
+Artículo Octavo.- El Titular del Poder Ejecutivo del Estado, determinará las instancias administrativas y de gobierno, encargadas de atender y definir las Regiones Socioeconómicas del Estado de Chiapas.
+
+Artículo Noveno.- Hasta en tanto se instituye el organismo encargado de realizar las acciones a que se contrae el inciso b), del Artículo Tercero Transitorio de esta ley, las funciones relativas serán atendidas por el Consejo de Ciencia y Tecnología del Estado de Chiapas; por lo que se determina procedente iniciar las adecuaciones presupuestales, de estructura y las transferencias administrativas necesarias para su constitución y funcionamiento.
+
+Artículo Décimo.- Se abroga el Decreto por el que se Crea el Instituto Registral y Catastral del Estado de Chiapas, publicado en el Periódico Oficial número 306, Tomo III, Segunda Sección, de fecha 12 de julio de 2017; por lo que, los recursos humanos, materiales y financieros, además de los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiese contraído, tenga asignados o le correspondan al organismo que por esta ley se extingue, así como las atribuciones y referencias que otras leyes le asignen, serán transferidos, se entenderán conferidos y serán atendidos por la Secretaría General de Gobierno, en los términos previstos en la presente ley.
