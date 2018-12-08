@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-consejo-estatal-para-la-atencion-a-77358
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-30"
-last_updated: "2010-10-30"
+last_updated: "2018-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL CONSEJO ESTATAL PARA LA ATENCION A PERSONAS CON DISCAPACIDAD DE OAXACA
 
-REGLAMENTO INTERNO DEL CONSEJO ESTATAL PARA LA ATENCION A PERSONAS CON DISCAPACIDAD DE OAXACA.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL CONSEJO PARA LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DEL CONSEJO ESTATAL PARA LA ATENCIÓN A PERSONAS CON DISCAPACIDAD DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de octubre de 2010.
 
 CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 12 FRACCIÓN XIX Y CUARTO TRANSITORIO DE LA LEY DE ATENCIÓN A PERSONAS CON DISCAPACIDAD DEL ESTADO DE OAXACA, Y,
 
-CONSIDERANDO:.
+CONSIDERANDO:
+
+[...]
 
 En atención a lo anterior, este Consejo ha tenido a bien expedir el siguiente:
 
@@ -466,3 +470,17 @@ LICENCIADA MARÍA DEL ROCIO ÁLVAREZ LASCURAIN
 PRESIDENTA DE LA ASOCIACIÓN CUIDANDO ÁNGELES A.C.
 
 Las presentes firmas corresponden al Reglamento Interno del Concejo Estatal para la Atención a Personas con Discapacidad de Oaxaca, aprobado en fecha treinta de abril del año dos mil diez.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTÓ INTERNO.- DEL CONSEJO PARA LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas
+
+TERCERO. Se abroga el Reglamento Interno del Consejo Estatal para la Atención a Personas con Discapacidad de Oaxaca, publicado en el Periódico Oficial del Gobierno del Estado, de fecha treinta de octubre del año dos mil diez.
+
+CUARTO. El Consejo emitirá la convocatoria para la elección de los representantes de las organizaciones de la sociedad civil dentro de los quince días hábiles siguientes a la entrada en vigor del presente Reglamento.
