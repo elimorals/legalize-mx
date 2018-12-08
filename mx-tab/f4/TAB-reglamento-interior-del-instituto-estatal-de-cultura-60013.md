@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-estatal-de-cultura-60013"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-09"
-last_updated: "2009-09-09"
+last_updated: "2018-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA
 
-REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA, PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2009.
+REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA DEL ESTADO DE TABASCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el lunes 9 de febrero de 2008.
 
@@ -31,7 +33,9 @@ REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA
 
 QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LOS ARTÍCULOS 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO Y 7 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo que he tenido a bien expedir el siguiente:
 
@@ -381,7 +385,7 @@ VII.- Promover y participar en la elaboración de los expedientes técnicos que 
 
 VIII.- Proponer al Director General programas y proyectos para la construcción, ampliación, conservación, rehabilitación y mantenimiento de la infraestructura cultural del Instituto;
 
-IX.- Coordinar, realizar y mantener actualizado el inventario del los bienes de la infraestructura cultural del Instituto;
+IX.- Coordinar, realizar y mantener actualizado el inventario del (sic) los bienes de la infraestructura cultural del Instituto;
 
 X.- Informar al Director General de la situación de seguridad, operatividad y estado de la infraestructura cultural que resguarda el patrimonio histórico, artístico y cultural a cargo del Instituto;
 
@@ -559,7 +563,7 @@ VII.- Revisar antes de la etapa de impresión, las obras que se editen a través
 
 VIII.- Apoyar y asesorar cuando así lo soliciten, a las unidades administrativas del Instituto, en la revisión y corrección de estilo de obras, convocatorias y documentos;
 
-IX.- Programar y coordinar otras actividades literarias como: certámenes literarios, presentaciones de libros, recitales, conferencias, mesas redondas, encuentros literarios, así como coadyuvar en la organización de ferias de libros; y (sic)
+IX.- Programar y coordinar otras actividades literarias como: certámenes literarios, presentaciones de libros, recitales, conferencias, mesas redondas, encuentros literarios, así como coadyuvar en la organización de ferias de libros; y
 
 X.- Coordinar las acciones del Consejo Consultivo de Literatura del Instituto, conjuntamente con la Coordinación de Vinculación Cultural con Municipios e Instituciones;
 
@@ -675,7 +679,7 @@ IX.- Informar al Director General de la situación de seguridad, operatividad y 
 
 X.- Supervisar y asesorar sobre las condiciones de infraestructura, museografía y manejo de las obras en los museos municipales y comunitarios no dependientes del Instituto pero que resguarden bienes patrimoniales del Estado y/o nacionales;
 
-XI.- Coordinar, realizar y mantener actualizado el inventario del los bienes muebles e inmuebles de los museos dependientes del Instituto, así como las piezas que integran las diferentes colecciones;
+XI.- Coordinar, realizar y mantener actualizado el inventario del (sic) los bienes muebles e inmuebles de los museos dependientes del Instituto, así como las piezas que integran las diferentes colecciones;
 
 XII.- Conservar la autenticidad y riqueza de las colecciones albergadas en los museos;
 
@@ -792,3 +796,19 @@ SEGUNDO. Los recursos financieros, materiales, mobiliario, instrumentos, aparato
 TERCERO. El Instituto Estatal de Cultura dictará y adoptará las medidas administrativas necesarias para garantizar el funcionamiento oportuno, en los términos del presente Acuerdo, de la librería ubicada en el Centro de Investigaciones de las Culturas Olmeca y Maya (CICOM).
 
 CUARTO. Se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
+
+P.O. 8 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA”.]
+
+PRIMERO.- El presente Reglamento, entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Instituto Estatal de Cultural (sic), publicado en el Suplemento “I” al Periódico Oficial número 6827, de fecha el (sic) 9 de febrero de 2008.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Reglamento.
+
+CUARTO.- Los asuntos que estuviesen pendientes al entrar en vigor el presente Reglamento, que conforme al mismo deben pasar de una Unidad Administrativa a otra, continuarán su trámite, y serán resueltos por aquella o aquellas Unidades Administrativas a las que se les hayan atribuido competencia en este Reglamento.
+
+QUINTO.- Los recursos humanos, materiales y financieros que estuviesen asignados a las Unidades Administrativas que desaparecen o modifican su competencia, en virtud de lo dispuesto en el presente Reglamento, serán reasignados a las Unidades Administrativas que asuman las correspondientes atribuciones, con intervención de las áreas competentes.
+
+SEXTO.- Los actos administrativos, mandatos, poderes notariales y demás instrumentos jurídicos que se hubieren otorgado y suscrito antes de la entrada en vigor del presente Reglamento, continuarán vigentes y serán válidos, hasta que sean modificados o revocados de manera expresa por persona facultada para tales efectos.
