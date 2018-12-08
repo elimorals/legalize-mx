@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-centros-de-cuidado-infantil-del-estado-de-chihuahua-1295
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-30"
-last_updated: "2018-06-30"
+last_updated: "2018-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2018.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de junio de 2018.
 
@@ -749,15 +749,23 @@ Tratándose de resoluciones administrativas dictadas por las dependencias o enti
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los 180 días siguientes a la entrada en vigor de la misma.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2018)</small>
+
+SEGUNDO.- Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los 270 días siguientes a la entrada en vigor de la misma.
 
 TERCERO.- Los prestadores de servicios que se encuentren operando con anterioridad a la entrada en vigor a esta Ley, contarán con un plazo de 365 días a partir de la entrada en vigor del presente Decreto para adecuar su funcionamiento y normatividad interna con base en lo dispuesto en la presente Ley.
 
-CUARTO.- El Consejo Estatal de Prestación de Servicios en Materia de Cuidados Infantiles y los Consejos Municipales correlativos, deberán quedar instalados y en funcionamiento dentro de los sesenta días posteriores a la entrada en vigor de la Ley.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2018)</small>
 
-QUINTO.- El Comité Estatal y los Comités Municipales a que se refieren los artículos 4, en sus fracciones II y III, así como 60, deberán integrarse y estar en funcionamiento dentro de los treinta días posteriores a que se haya dado cumplimiento a lo previsto en el Artículo Cuarto Transitorio del presente Decreto.
+CUARTO.- El Consejo Estatal de Prestación de Servicios en Materia de Cuidados Infantiles y los Consejos Municipales correlativos, deberán quedar instalados y en funcionamiento dentro de los 270 días posteriores a la entrada en vigor de la Ley.
 
-SEXTO.- El Programa Estatal de Supervisión contemplado en la presente Ley, deberá estar diseñado y en operación a más tardar dentro de los ciento ochenta días posteriores a que el presente Decreto entre en vigor.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2018)</small>
+
+QUINTO.- El Comité Estatal y los Comités Municipales a que se refieren los artículos 4, en sus fracciones II y III, así como 60, deberán integrarse y estar en funcionamiento dentro de los 270 días posteriores a que se haya dado cumplimiento a lo previsto en el Artículo Cuarto Transitorio del presente Decreto.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2018)</small>
+
+SEXTO.- El Programa Estatal de Supervisión contemplado en la presente Ley, deberá estar diseñado y en operación a más tardar dentro de los 270 días posteriores a que el presente Decreto entre en vigor.
 
 SÉPTIMO.- La Secretaría de Desarrollo Social y el DIF Estatal, deberán iniciar inmediatamente con las actividades tendientes a la integración del Registro Estatal previsto en esta Ley.
 
@@ -770,3 +778,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de junio del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFDEC/0042/2018 I P.O., POR MEDIO DEL CUAL SE REFORMAN DIVERSOS ARTÍCULOS TRANSITORIOS DEL DECRETO N° LXV/EXLEY/0743/2018 II P.O., MEDIANTE EL CUAL SE EXPIDE LA LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
