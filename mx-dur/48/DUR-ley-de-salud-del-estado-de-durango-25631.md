@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2018-06-24"
+last_updated: "2018-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -124,6 +124,8 @@ VII. El desarrollo de la enseñanza y la investigación científica y tecnológi
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 VIII. La atención a grupos en situación de vulnerabilidad, siendo esta la condición de una mayor indefensión en la que se puede encontrar una persona, grupo o una comunidad debido a que no se cuentan con los recursos necesarios para satisfacer las necesidades básicas del ser humano, como la alimentación, el ingreso, la vivienda, los servicios de salud y el agua potable, entre otros.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 7 PUBLICADO EN EL P.O. 9 DE DICIEMBRE DE 2018, PÁGINAS DE LA 11 A LA 12.]</small>
 
 ###### ARTÍCULO 3.
 
@@ -253,15 +255,17 @@ LVII. Certificado: La constancia expedida en los términos que establezcan las a
 
 LVIII. Aislamiento: La separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio;
 
-LIX. Cuarentena: La limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2012)</small>
+LIX. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango;
 
-LX. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2012)</small>
+LX. Liposucción o Lipoaspiración o Lipoescultura: La rama de la cirugía plástica, estética y reconstructiva, consistente en una maniobra terapéutica del campo invasivo quirúrgico para extirpar tejido graso, realizada con el objetivo principal de cambiar o corregir el contorno o forma, de diferentes regiones de la cara y del cuerpo que debe efectuarse por profesionales debidamente acreditados en la respectiva especialidad con el reconocimiento de la Asociación Mexicana de Cirugía Plástica Estética y Reconstructiva, y el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva; y
 
-LXI. Liposucción o Lipoaspiración o lipoescultura: La rama de la cirugía plástica, estética y reconstructiva, consistente en una maniobra terapéutica del campo invasivo quirúrgico para extirpar tejido graso, realizada con el objetivo principal de cambiar o corregir el contorno o forma, de diferentes regiones de la cara y del cuerpo que debe efectuarse por profesionales debidamente acreditados en la respectiva especialidad con el reconocimiento de la Asociación Mexicana de Cirugía Plástica Estética y Reconstructiva, y el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva.
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
+
+LXI. Adicción o Trastorno Adictivo: Patrón desadaptado de comportamiento compulsivo provocado por la dependencia psíquica, física o de las dos clases a una sustancia o conducta determinada y que repercuta negativamente en las áreas psicológica, física, familiar o social de la persona y de su entorno.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
@@ -327,7 +331,9 @@ VI. Impulsar en el ámbito estatal, un sistema racional de administración y des
 
 VII. Establecer, promover y coordinar el Registro Estatal de Cáncer;
 
-VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que presten para su protección;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
+
+VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres, actitudes y adicciones, relacionadas con la salud y con el uso de los servicios que presten para su protección.
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
 
@@ -345,13 +351,13 @@ XI. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de c
 
 XII. Impulsar en los pueblos y comunidades indígenas los servicios de salud, a fin de que puedan gozar del máximo nivel posible de salud física y mental, fomentando la nutrición de la población indígena infantil, implementar programas para atención de personas con discapacidad; así como procurar que el personal de las instituciones de salud pública que prestan servicio en los pueblos y comunidades indígenas, cuenten con los conocimientos básicos sobre la lengua, cultura y costumbres de los mismos, a fin de que las respeten, asegurando el derecho de integrantes de los pueblos y comunidades indígenas a recibir la información necesaria en materia de salud en su propia lengua; y
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
-XIII. Promover y apoyar el desarrollo y libre ejercicio de la medicina tradicional así como el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen en condiciones adecuadas como parte de la cultura y patrimonio de los pueblos y comunidades indígenas, impulsando su estudio y rescate, así como difundir el derecho de los mismos a participar en la planificación y ejecución de los programas de salud, debiendo tomar en cuenta sus necesidades prioritarias.
+XIII. Promover y apoyar el desarrollo y libre ejercicio de la medicina tradicional así como el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen en condiciones adecuadas como parte de la cultura y patrimonio de los pueblos y comunidades indígenas, impulsando su estudio y rescate, así como difundir el derecho de los mismos a participar en la planificación y ejecución de los programas de salud, debiendo tomar en cuenta sus necesidades prioritarias; y
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2018)</small>
 
-XIV. Fomentar la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como impulsar el uso y la donación de leche materna en los bancos de leche humana de la entidad.
+XIV. La prevención de adicciones.
 
 ###### ARTÍCULO 10.
 
@@ -1097,7 +1103,9 @@ I. La educación para la salud, la promoción del saneamiento básico y el mejor
 
 II. La prevención y el control de las enfermedades transmisibles de atención prioritaria;
 
-III. La prevención y el control de las enfermedades no transmisibles más frecuentes y de los accidentes;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
+
+III. La prevención y el control de las enfermedades no transmisibles más frecuentes, adicciones y de los accidentes;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
@@ -1841,7 +1849,9 @@ I. Fomentar en la población el desarrollo de actitudes y conductas que le permi
 
 II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud;
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, salud reproductiva, riesgos de embarazos tempranos y de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de discapacidades y detección oportuna de enfermedades; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
+
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, salud reproductiva, riesgos de embarazos tempranos y de automedicación, prevención de la farmacodependencia, adicciones, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de discapacidades y detección oportuna de enfermedades; y
 
 IV. Prevenir sobre los efectos negativos que sobre la salud tiene la violencia intrafamiliar.
 
@@ -3980,3 +3990,11 @@ P.O. 24 DE JUNIO DE 2018.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 9 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 7.- QUE CONTIENE REFORMAS LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
