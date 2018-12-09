@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2018-07-19"
+last_updated: "2018-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1985,35 +1985,49 @@ Se impondrá de dos a cuatro años de prisión y multa de ciento cuarenta y cuat
 
 La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de doce años o mayor de sesenta años o discapacitado.
 
-### CAPÍTULO V. RETENCIÓN, SUSTRACCIÓN DE MENORES O INCAPACES CON FINES DE CORRUPCIÓN O TRÁFICO DE ÓRGANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+### CAPITULO V. RETENCIÓN Y SUSTRACCIÓN DE NIÑAS, NIÑOS O ADOLESCENTES O PERSONAS QUE NO TENGAN LA CAPACIDAD DE COMPRENDER EL SIGNIFICADO DEL HECHO
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 162.
 
-A quien sin tener el carácter de ascendiente, descendiente, pariente colateral o afín hasta el cuarto grado o de tutela de una persona menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, lo retenga sin el consentimiento de quien ejerza su custodia legítima o su guarda, se le impondrá prisión de uno a cinco años y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización.
+A quien sin tener la relación de parentesco a que se refiere el artículo 164 de éste Código, o de tutela de una niña, niño o adolescente o de una persona que no tenga la capacidad de comprender el significado del hecho, lo retenga sin el consentimiento de quien ejerza su custodia legítima o su guarda, se le impondrá prisión de tres a cinco años y multa de doscientas dieciséis a trescientas sesenta veces la Unidad de Medida y Actualización.
 
-A quien bajo los mismos supuestos del párrafo anterior los sustraiga de su custodia legítima o su guarda, se le impondrá de cinco a quince años de prisión y multa de trescientas sesenta a mil ochenta veces la Unidad de Medida y Actualización.
+A quien bajo los mismos supuestos del párrafo anterior lo sustraiga de su custodia legítima o su guarda, se le impondrá de cinco a quince años de prisión y multa de trescientas sesenta a mil ochenta veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 163.
 
-Si la retención o sustracción se realiza en contra de una persona menor de doce años de edad, se le aplicará de diez a cincuenta años de prisión y multa de setecientos veinte a tres mil seiscientas veces la Unidad de Medida y Actualización.
+Si la retención o sustracción se realiza en contra de una niña o niño menor de doce años de edad, se aplicará una pena de diez a veinticinco años de prisión y multa de setecientos veinte a mil ochocientas veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
+
+Si la sustracción tiene como propósito incorporar al sujeto pasivo a círculos de corrupción de menores o traficar con sus órganos, las penas serán de quince a cincuenta años de prisión y multa de mil ochenta a tres mil seiscientos veces la Unidad de Medida y Actualización, en el caso de que la víctima sea un menor de doce años las penas serán de veinticinco a cincuenta años de prisión y multa de mil ochocientas a tres mil seiscientas veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 164.
 
-Si la sustracción tiene como propósito incorporar a la persona a círculos de corrupción de menores o traficar con sus órganos, las penas serán de quince a cincuenta años de prisión y multa de mil ochenta a tres mil seiscientos veces la Unidad de Medida y Actualización, en el caso de que la víctima sea un menor de doce años las penas serán de veinticinco a cincuenta años de prisión y multa de mil ochocientas a tres mil seiscientas veces la Unidad de Medida y Actualización.
+Si el sujeto activo es ascendiente, descendiente, cónyuge, pariente colateral o afín hasta el cuarto grado y sustrae o retiene a una niña, niño o adolescente o persona que no tenga la capacidad para comprender el significado del hecho y no ejerce la patria potestad o ejerciéndola no tenga el consentimiento del otro progenitor o sin tener la tutela o su guarda y custodia, se impondrá de uno a cinco años de prisión y multa de ochenta a trescientas setenta veces la Unidad de Medida y Actualización.
+
+Al padre o madre que, sin tener la guarda y custodia de la niña, niño o adolescente o persona que no tenga la capacidad de comprender el significado del hecho o sin tener el consentimiento del otro progenitor, lo sustraiga o retenga fuera del territorio del Estado o fuera del territorio nacional, se le aumentarán en una mitad las penas previstas en el primer párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 165.
 
-Si el sujeto activo es familiar del menor o del incapaz, pero no ejerce la patria potestad o la tutela sobre éste o mediante resolución judicial no ejerce la guarda o custodia, se aumentaran en una mitad las penas previstas en el artículo 162 de este código.
+Se equipara al delito de retención o sustracción de niño, niña o adolescente o persona que no tenga la capacidad para comprender el significado del hecho, y se sancionará con las penas señaladas en el segundo párrafo del artículo 162, a la persona que mediante amenazas o engaños obtenga del padre o madre que tiene la guarda y custodia del menor o persona que no tenga la capacidad de comprender el significado del hecho, el consentimiento para trasladarlo, con la finalidad de retenerlo o sustraerlo fuera del territorio del Estado o fuera del territorio nacional.
+
+La pena señalada en el primer párrafo de este artículo se aplicará al cónyuge que sustraiga o retenga a un hijo menor de edad o persona que no tenga la capacidad para comprender el significado del hecho, con la finalidad de obligar al otro cónyuge a dar, hacer o dejar de hacer algo.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 166.
 
-Cuando el sujeto devuelva espontáneamente al menor o al incapaz, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las penas antes señaladas.
+Cuando el sujeto devuelva espontáneamente a la niña, niño o adolecente (sic) o persona que no tenga la capacidad de comprender el significado del hecho, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las penas antes señaladas para el caso particular.
 
 ### CAPÍTULO VI. PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES
 
@@ -6100,3 +6114,11 @@ P.O. 19 DE JULIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 9 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 8.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
