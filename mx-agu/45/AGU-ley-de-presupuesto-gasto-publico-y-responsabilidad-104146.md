@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2018-05-07"
+last_updated: "2018-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -185,7 +185,9 @@ L.- Reasignaciones: Son las modificaciones al Presupuesto de Egresos del Estado 
 
 LI.- Reasignaciones por Convenio: Fuente de financiamiento del gasto público que se integra de los subsidios o reasignaciones que el Gobierno Federal transfiere, de conformidad a lo establecido en los convenios y demás instrumentos jurídicos que determinan su naturaleza y destino, que significan ingresos adicionales a los contemplados en la Ley de Ingresos, sin que para ello se requiera la aprobación del Congreso. En todos los casos, tanto los ingresos como a los egresos, estas aplicaciones de recursos de origen federal deberán incluirse en la Cuenta Pública;
 
-LII.- Recursos Fiscales Ordinarios: Fuente de financiamiento del gasto público que se integra de los recursos estatales o, en su caso, los municipales, así como participaciones en ingresos fiscales federales, de acuerdo con lo establecido en la Ley de Ingresos del año correspondiente;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+LII.- Recursos Fiscales: Fuente de financiamiento del gasto público que se integra de los recursos estatales o, en su caso, los municipales, así como participaciones en ingresos fiscales federales, de acuerdo con lo establecido en la Ley de Ingresos del año correspondiente;
 
 LIII.- Secretaría: La Secretaría de Finanzas del Estado;
 
@@ -251,9 +253,9 @@ LXIX.- Gasto etiquetado: Las erogaciones que realizan los Ejecutores de Gasto co
 
 LXX.- Gasto no etiquetado: Las erogaciones que realizan los Ejecutores de Gasto con cargo a sus Ingresos de libre disposición y Financiamiento. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con algún destino específico;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-LXXI.- Ingresos de libre disposición: Los Recursos Fiscales Ordinarios, así como los recursos que, en su caso, se reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+LXXI.- Ingresos de libre disposición: Los Recursos Fiscales, así como los recursos que, en su caso, se reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
@@ -703,7 +705,9 @@ El Presupuesto de Egresos del Estado y los Presupuestos de Egresos de los Munici
 
 El Titular del Ejecutivo, por conducto de la Secretaría, o los Presidentes Municipales, por conducto de las Tesorerías, según corresponda, podrán autorizar las reducciones presupuestarias a los montos de los Presupuestos de Egresos aprobados, cuando:
 
-I.- Se presente una disminución de los Recursos Fiscales Ordinarios o la ministración de otros recursos provenientes del Gobierno Federal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+I.- Se presente una disminución de los Recursos Fiscales o la ministración de otros recursos provenientes del Gobierno Federal;
 
 II.- Se aprueben reformas o adiciones a disposiciones legales, de las que derive la necesidad de adecuar el Presupuesto de Egresos;
 
@@ -933,11 +937,11 @@ Para los efectos de este Artículo, se entenderá que el Estado, los Municipios 
 
 La Secretaría podrá realizar Reasignaciones de conformidad con las reglas contenidas en el Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 49.
 
-Una vez concluido el ejercicio fiscal en el cual se generaron los Ingresos Excedentes que correspondan, según la Ley de Ingresos del Estado, las economías generadas por las Dependencias del Ejecutivo con motivo del ejercicio eficiente y eficaz del gasto público; el saldo del ejercicio fiscal anterior señalado en la Fracción III del Artículo 40 de la Ley; y los recursos mencionados en el Artículo 41 de la Ley, así como de los Ingresos Excedentes que perciban las Entidades del Ejecutivo respecto de los previstos en la Ley de Ingresos del Estado de dicho ejercicio fiscal, deberán destinarse por la Secretaría, sin incluir los provenientes de las aportaciones federales y las Reasignaciones por Convenio, al fondo señalado en el Artículo 49 Bis.
+Una vez concluido el ejercicio fiscal en el cual se generaron las economías generadas de las Dependencias del Ejecutivo con motivo del ejercicio eficiente y eficaz del gasto público; los recursos mencionados en el Artículo 41 de la Ley, así como las economías generadas en ejercicios anteriores, deberán destinarse por la Secretaría, sin incluir los provenientes de las aportaciones federales y las Reasignaciones por Convenio, al fondo señalado en el Artículo 49 Bis.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -975,11 +979,31 @@ La determinación de la existencia o no de menores entregas se llevará a cabo c
 
 II.- La cuenta prevista en la Fracción I de este Artículo, será revolvente y, para cada ejercicio fiscal, procurará alcanzar un saldo objetivo correspondiente al seis punto cincuenta por ciento de la estimación, sin considerar aquellas a distribuirse entre los Municipios, para el Gobierno del Estado de Aguascalientes del Fondo General de Participaciones que publica para cada ejercicio fiscal la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación, en cumplimiento a lo dispuesto por el Artículo 3° de la Ley de Coordinación Fiscal; y
 
-III.- Al tercer trimestre del ejercicio fiscal correspondiente, una vez alcanzado el saldo objetivo habiendo considerado la existencia o no de caídas en los ingresos en los términos del último párrafo de la Fracción I de éste Artículo, con el resto de los recursos patrimoniales, previo el análisis costo-beneficio, se determinará la mejor alternativa de aplicación de los recursos entre:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+III.- Una vez concluido el segundo trimestre del ejercicio fiscal correspondiente, habiendo alcanzado el saldo objetivo y considerando la inexistencia de caídas en los ingresos en los dos primeros trimestres del ejercicio, con el resto de los recursos patrimoniales, se determinará el destino de los recursos entre:
 
 a) Pagar en forma anticipada la deuda pública del Gobierno del Estado, la prelación de pagos de la deuda pública se definirá con base en el análisis costo-beneficio; o
 
-b) Disponer los recursos para el desarrollo de proyectos cuyo ejercicio del gasto no se encuentre previsto en el Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente, a través de las Dependencias del Ejecutivo y Entidades del Ejecutivo, de obra pública, servicios públicos, infraestructura social, seguridad pública, desarrollo económico o rural, y agroindustriales, así como de aquellos en que participen las Dependencias del Ejecutivo o Entidades del Ejecutivo como contrapartes en convenios con otros órdenes de gobierno y para estímulos en la atracción de inversiones de gran magnitud y generación de empleos a gran escala en los términos del Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+b) Disponer los recursos para el desarrollo de proyectos cuyo ejercicio del gasto no se encuentre previsto en el Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente, a través de las Dependencias del Ejecutivo y Entidades del Ejecutivo, en materia de obra pública, servicios públicos, infraestructura social, seguridad pública, desarrollo económico, rural o agroindustrial, así como de aquellos en que participen las Dependencias o Entidades del Ejecutivo como contraparte en convenios con otros órdenes de gobierno y para estímulos en la atracción de inversiones y generación de empleos de conformidad con el Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+Los recursos dispuestos se constituirán como fuente de financiamiento para el desarrollo de proyectos, independientemente de la denominación que se les otorgue en la Ley que rija su contratación.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+Las Dependencias y Entidades del Ejecutivo deberán contar con la aprobación de los recursos por parte del Comité Técnico de manera previa al inicio del procedimiento de contratación respectivo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+Los recursos dispuestos deberán encontrarse vinculados a obligaciones formales de pago a más tardar el último día del ejercicio fiscal en que se realice su disposición, y en su caso, podrán ser ejercidos hasta la conclusión total del proyecto durante el ejercicio fiscal siguiente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+El monto de la disposición de los recursos aprobados, no formará parte del saldo objetivo que se determine en el primer bimestre de cada ejercicio fiscal.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1005,7 +1029,33 @@ III.- A propuesta del Presidente del Comité Técnico, determinar en cada trimes
 
 IV.- En caso de existir caída en los ingresos, autorizar el retiro de la cuenta específica para entregar a la Secretaría, la cantidad existente para compensar la caída; y
 
-V.- En el tercer trimestre del ejercicio fiscal correspondiente, aprobar la distribución de los recursos del Fondo de Estabilización en los términos del artículo 49 Ter, así como seleccionar los proyectos señalados en el inciso b) de la Fracción III de dicho artículo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+V.- A partir del tercer trimestre del ejercicio fiscal correspondiente, recibir y analizar los proyectos a que se refiere el Inciso b) de la Fracción III del Artículo 49 Ter, los cuales deberán contener como mínimo los siguientes requisitos:
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+a) Una exposición de motivos del proyecto que genere directa o indirecta (sic) un beneficio social y su atención dentro de los objetivos y acciones previstas en el Plan Estatal de Desarrollo; y
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+b) Una justificación del análisis costo-beneficio, mediante el cual se determine lo siguiente:
+
+1. Factibilidad Ambiental: los estudios del proyecto cumplen con la normatividad aplicable en materia ambiental;
+
+2. Factibilidad Económica: los estudios sobre la cuantificación de los costos y beneficios del proyecto, en donde se demuestre que el mismo es susceptible de generar, por sí mismo beneficios netos bajo supuestos razonables;
+
+3. Factibilidad Legal: los estudios en donde se demuestre que el proyecto de inversión cumple con las disposiciones jurídicas en el ámbito federal, estatal y municipal según corresponda; y
+
+4. Factibilidad Técnica: los estudios sobre los materiales, maquinaria, equipo, tecnología y demás que se requieran para la ejecución y operación del proyecto, en donde se determine si el proyecto se apega a las normas establecidas por la dependencia o entidad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+En aquellos proyectos cuyo valor en monto del mismo, sea menor a 8,160 veces el valor mensual de la Unidad de Medida y Actualización, no se requerirá lo previsto en el Inciso b) de la presente Fracción;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VI.- A partir del tercer trimestre del ejercicio fiscal correspondiente, aprobar la distribución de los recursos del Fondo de Estabilización en los términos del Artículo 49 Ter, así como seleccionar los proyectos señalados en el Inciso b) de la Fracción III de dicho Artículo, observando lo establecido en la Fracción anterior. Las Dependencias y Entidades del Ejecutivo en el ejercicio de los recursos aprobados por el Comité Técnico, se apegarán a los procedimientos y disposiciones normativas aplicables para su contratación.
 
 Se considerarán válidas las sesiones, así como los acuerdos tomados por el Comité Técnico, cuando asistan por lo menos la mitad más uno de los integrantes, debiendo estar siempre presente su Presidente y el miembro independiente.
 
@@ -1408,3 +1458,19 @@ Para efectos del cuarto párrafo del Artículo 40 Bis de la Ley de Presupuesto, 
 ###### ARTICULO SEGUNDO.
 
 En lo correspondiente al segundo párrafo del Artículo 40 Bis de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos exentes derivados de Ingresos de libre disposición, siempre y cuando el Estado o los Municipios se clasifiquen en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 60.- SE REFORMAN: LAS FRACCIONES LII Y LXXI DEL ARTÍCULO 3°; LA FRACCIÓN I DEL ARTÍCULO 39; EL ARTÍCULO 49; LA FRACCIÓN III, INCISO B) DEL ARTÍCULO 49 TER; Y LA FRACCIÓN V DEL ARTÍCULO 49 QUINQUIES; SE ADICIONAN: LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO A LA FRACCIÓN III DEL ARTÍCULO 49 TER; EL INCISO A) Y EL INCISO B) CON NUMERALES DEL 1 AL 4, Y UN SEGUNDO PÁRRAFO, A LA FRACCIÓN V Y LA FRACCIÓN VI DEL ARTÍCULO 49 QUINQUIES, DE LA LEY DE PRESUPUESTO (SIC) GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 01 de enero de 2019, previa su publicación en el Periódico Oficial del Estado de Aguascalientes, sin perjuicio de lo previsto en el Transitorio siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+El Fidecomiso del Fondo de Estabilización, deberá realizar las modificaciones necesarias al Contrato del Fideicomiso que derivan del presente Decreto, en un plazo no mayor a 90 días naturales.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos que al día 01 de enero de 2019 se encuentren disponibles en el Patrimonio del Fideicomiso del Fondo de Estabilización, se sujetarán a las disposiciones del presente Decreto.
