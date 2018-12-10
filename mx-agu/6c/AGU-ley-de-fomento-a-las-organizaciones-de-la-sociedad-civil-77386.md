@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil-77386"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-15"
-last_updated: "2018-06-25"
+last_updated: "2018-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES -ANTES LEY QUE REGULA LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 
@@ -453,7 +455,7 @@ I. Inscribir a las Organizaciones de la Sociedad Civil existentes en las Entidad
 
 II. Otorgar a las Organizaciones de la Sociedad Civil inscritas la constancia de empadronamiento;
 
-III. Establecer un Sistema de Información que identifique, de acuerdo con lo establecido en el Articulo 3° de esta ley, las acciones que las Organizaciones de la Sociedad Civil realicen, con el objeto de garantizar que las dependencias y entidades cuenten con los elementos necesarios para su cumplimiento;
+III. Establecer un Sistema de Información que identifique, de acuerdo con lo establecido en el Artículo 3° de esta ley, las acciones que las Organizaciones de la Sociedad Civil realicen, con el objeto de garantizar que las dependencias y entidades cuenten con los elementos necesarios para su cumplimiento;
 
 IV. Entregar a las dependencias, entidades y a la ciudadanía en general, elementos de información que les ayuden a verificar el cumplimiento de las obligaciones a que se refiere esta Ley por parte de las Organizaciones de la Sociedad Civil y, en su caso, solicitar a la Comisión la imposición de las sanciones correspondientes:
 
@@ -584,6 +586,10 @@ En caso de existir, fusión, modificación o extinción de las Organizaciones de
 ###### ARTÍCULO 36.
 
 Las Organizaciones de la Sociedad Civil podrán acceder a recursos o fondos públicos para operar programas que persigan los objetivos a que se refiere el Artículo 3° de esta Ley, quedando sujetos a la supervisión, control, vigilancia y en su caso, revisión de resultados de los proyectos o programas previamente entregados, por parte de la Comisión, así como a las disposiciones establecidas en la presente Ley y su Reglamento, sin perjuicio de lo que establezcan las leyes respectivas para el uso de fondos públicos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+En caso de que los recursos o fondos a los que se pretenda acceder no rebasen el valor anualizado de cinco unidades de medida y actualización, el Titular de la Dependencia o Entidad encargada de su operación, podrá autorizar de manera directa el otorgamiento de apoyos o estímulos que se destinen a los objetivos a que se refiere el Artículo 3° de esta Ley, lo anterior, sin llevar a cabo el procedimiento de evaluación que establece el Artículo 36 A párrafo segundo de la presente Ley, siempre que se cumpla con los requisitos a que se refieren las Fracciones I, II, III, IV, V, VI, VII y VIII de ese mismo Artículo.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -960,3 +966,15 @@ La Comisión para el Fortalecimiento de las Organizaciones de la Sociedad Civil 
 I. Definir los criterios de representatividad, antigüedad, membrecía y desempeño de las Organizaciones con registro en el Padrón, con que debe realizarse la Convocatoria para la conformación y renovación de los representantes de las Organizaciones que integren la Comisión; y
 
 II. Especificar los requisitos que debe contener la Convocatoria que debe emitir la Comisión para el Fortalecimiento de las Organizaciones de la Sociedad Civil, tanto para su conformación como para su renovación.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 59.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 36 DE LA LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 01 de enero de 2019, previa su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos para otorgar apoyos o estímulos iniciados con anterioridad a la entrada en vigor del presente Decreto, quedarán sin efectos y se tramitarán conforme a las disposiciones de la presente Ley.
