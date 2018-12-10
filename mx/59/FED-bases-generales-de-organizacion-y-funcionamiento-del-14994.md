@@ -4,7 +4,7 @@ identifier: "FED-bases-generales-de-organizacion-y-funcionamiento-del-14994"
 country: "mx"
 rank: "otro"
 publication_date: "1998-11-26"
-last_updated: "2018-05-02"
+last_updated: "2018-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-12"
 
 BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2018.
 
 Bases publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 1998.
 
@@ -443,11 +443,11 @@ Artículo 13 quater.- El secretariado técnico contará con el personal profesio
 
 Se integrará, al menos, con una Secretaría Técnica de Coordinación Interna y otra Externa, cuyas funciones las asignará el Director General.
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 Artículo 13 quintus.- Los secretarios técnicos tendrán funciones de apoyo a la Dirección General y a las Unidades Administrativas, en los términos que fijen las disposiciones técnicas y operativas que se expidan conforme al artículo 4o., fracción III, de estas Bases.
 
-> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2012)</small>
+A la Secretaría Técnica de Coordinación Interna corresponderá vigilar, en apoyo a la Dirección General, el cabal cumplimiento de las atribuciones y obligaciones de las delegaciones, así como coadyuvar al cumplimiento de las políticas, programas y acciones encomendadas en coordinación con las demás Unidades del Instituto.
 
 A la Secretaría Técnica de Coordinación Externa corresponderá presentarle al Director General el proyecto de Plan Anual de Capacitación y Estímulos, en los términos señalados en los artículos 36 de la Ley Federal de Defensoría Pública y 71 de estas Bases Generales. Igualmente, le corresponderá llevar a cabo el control de los prestadores de servicio social, atendiendo a lo dispuesto en los artículos 76, 77 y 78 de este texto legal.
 
@@ -1359,11 +1359,11 @@ Para el desempeño de sus funciones, al defensor público se le adscribe indisti
 
 El defensor público, asesor jurídico, supervisor, evaluador o delegado que, tras haber triunfado en un concurso de oposición, rechace o no ocupe en el tiempo que se le fije la adscripción asignada no podrá participar en ningún otro concurso, salvo que demuestre, fehaciente y suficientemente, ante el Director General del Instituto la imposibilidad, personal o familiar, de ocupar esa adscripción. El Director General decidirá lo conducente tomando en cuenta los argumentos y las pruebas que se ofrezcan para acreditar dicha imposibilidad, así como las necesidades del servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 68.
 
-El Director General, para acordar el cambio de adscripción o sede solicitados por un defensor público, asesor jurídico, supervisor o delegado del Instituto, tendrá en cuenta primordialmente, las necesidades del servicio y, en su caso, lo siguiente:
+El Director General, para acordar el cambio de adscripción o sede solicitados por un defensor público, asesor jurídico o supervisor del Instituto, tendrá en cuenta primordialmente, las necesidades del servicio y, en su caso, lo siguiente:
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
@@ -1381,17 +1381,21 @@ III. La calidad del desempeño, con base en los resultados que arrojen la superv
 
 IV. La disciplina del servidor público dentro de la institución.
 
-> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2018)</small>
 
-En el caso de defensores, asesores y delegados, la solicitud deberán presentarla dentro del procedimiento de readscripción respectivo. No se concederán cambios de adscripción por petición, de una plaza de defensor público a una de asesor jurídico, y viceversa; en todo caso, el interesado en el cambio deberá participar en el concurso de oposición correspondiente.
+En el caso de defensores y asesores, la solicitud deberán presentarla dentro del procedimiento de readscripción respectivo. No se concederán cambios de adscripción por petición, de una plaza de defensor público a una de asesor jurídico, y viceversa; en todo caso, el interesado en el cambio deberá participar en el concurso de oposición correspondiente.
 
-> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 69.
 
-Acorde a la calidad de servidores públicos de confianza que previene el artículo 9 de la Ley, los defensores públicos, los asesores jurídicos, los supervisores, los evaluadores y los delegados del Instituto, no tienen derecho sobre adscripciones o sedes determinadas. La permanencia en el cargo de los servidores públicos mencionados está sujeta a los resultados de la supervisión y evaluación previstas en estas Bases, a sus antecedentes laborales y a lo resuelto en las quejas administrativas presentadas en su contra.
+Acorde a la calidad de servidores públicos de confianza que previene el artículo 9 de la Ley, los defensores públicos, los asesores jurídicos, los supervisores y los evaluadores del Instituto, no tienen derecho sobre adscripciones o sedes determinadas. La permanencia en el cargo de los servidores públicos mencionados está sujeta a los resultados de la supervisión y evaluación previstas en estas Bases, a sus antecedentes laborales y a lo resuelto en las quejas administrativas presentadas en su contra.
 
-Cuando la puntuación obtenida por un defensor, asesor, supervisor, evaluador o delegado en dos evaluaciones consecutivas se encuentre en el parámetro de deficiente, conforme a estas Bases, procederá su cese.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2018)</small>
+
+Cuando la puntuación obtenida por un defensor, asesor, supervisor o evaluador en dos evaluaciones consecutivas se encuentre en el parámetro de deficiente, conforme a estas Bases, procederá su cese.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2010)</small>
 
 El Director General podrá acordar el cambio de sede o adscripción de un defensor público, asesor jurídico, supervisor o delegado, por necesidades del servicio.
 
@@ -1840,5 +1844,11 @@ D.O.F. 16 DE NOVIEMBRE DE 2016.
 D.O.F. 2 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, ÓRGANO AUXILIAR DEL CONSEJO DE LA JUDICATURA FEDERAL, CORRESPONDIENTE A LA SESIÓN ORDINARIA DEL DÍA DOCE DE ABRIL DE DOS MIL DIECIOCHO, QUE MODIFICA DIVERSOS ARTÍCULOS DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO”.]
+
+TRANSITORIO.- Las presentes modificaciones entrarán en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, ÓRGANO AUXILIAR DEL CONSEJO DE LA JUDICATURA FEDERAL, CORRESPONDIENTE A LA SESIÓN ORDINARIA DEL DÍA 29 DE NOVIEMBRE DEL 2018, QUE MODIFICA DIVERSOS ARTÍCULOS DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO”.]
 
 TRANSITORIO.- Las presentes modificaciones entrarán en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
