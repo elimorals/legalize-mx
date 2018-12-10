@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2016-08-01"
+last_updated: "2018-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -35,7 +35,9 @@ Que por la Secretaria del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64, 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 69 fracción II, 70, 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 76, 93 fracción VII 128 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente:
 
@@ -67,9 +69,9 @@ Para efectos de la aplicación de esta Ley se entiende por:
 
 I.- Deficiencia: La pérdida o anormalidad permanente o transitoria de carácter psicológico, fisiológico o anatómico de alguna estructura o función;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-II.- Discapacidad: Deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer o interactuar en una o más actividades esenciales de la vida diaria.
+II.- Discapacidad: Es la consecuencia de la presencia de una deficiencia o limitación física, mental, intelectual o sensorial, en una persona, ya sea de naturaleza permanente o temporal, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
 III.- Impedimento: La incapacidad que constituye una desventaja para una persona, en cuanto limite o impida el cumplimiento de una función que es normal según sea la edad, el sexo, los factores sociales y culturales;
 
@@ -239,7 +241,9 @@ a) La equidad;
 
 b) La justicia social;
 
-c) La dignidad;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+c) La dignidad, la autonomía individual y la independencia;
 
 d) El respeto;
 
@@ -247,9 +251,29 @@ e) La igualdad de oportunidades;
 
 f) El reconocimiento de las diferencias;
 
-g) La inclusión e integración; y
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-h) La accesibilidad.
+g) La participación, inclusión e integración plenas y efectivas en la sociedad;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+h) La accesibilidad;
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+i) La no discriminación;
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+j) La igualdad entre mujeres y hombres con discapacidad;
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+k) La transversalidad, y
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+l) Los demás que resulten aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS SERVICIOS INSTITUCIONALES PARA PERSONAS CON DISCAPACIDAD
 
@@ -844,6 +868,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 55 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 4, LOS INCISOS C), G) Y H) DEL ARTÍCULO 10, Y ADICIONA LOS INCISOS I) A L) AL ARTÍCULO 10, TODOS DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
