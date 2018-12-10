@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2018-11-05"
+last_updated: "2018-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL DÍA PRIMERO DE ENERO DEL AÑO DOS MIL DIECIOCHO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -81,9 +81,11 @@ Estas entidades se regirán por la Ley para el Control de las Entidades Paraesta
 
 El Gobernador del Estado podrá proponer al Congreso Estatal la creación de Entidades Paraestatales que, por los fines que persigan, requieran de autonomía para su funcionamiento, las que tendrán sus formas propias de gobierno conforme lo determinen los ordenamientos jurídicos de creación.
 
-###### Artículo 7°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-La Oficina del Despacho del Gobernador del Estado, será la encargada de auxiliarlo directamente, con funciones de apoyo técnico, asesoría y coordinación que se requieran en la atención de los asuntos de su competencia. Tendrá adscritas directamente la Secretaría Particular; la Coordinación General de Gabinete; la Coordinación General de Comunicación Social; y las demás Unidades Administrativas que se determinen, de conformidad con el Presupuesto de Egresos, los instrumentos jurídicos de creación y las demás disposiciones que al efecto se emitan.
+###### Artículo 7º.
+
+La Oficina del Despacho del Gobernador del Estado, será la encargada de auxiliarlo directamente, con funciones de apoyo técnico, asesoría y coordinación que se requieran en la atención de los asuntos de su competencia. Tendrá adscritas directamente la Secretaría Particular; la Coordinación General de Comunicación Social; y las demás Unidades Administrativas que se determinen, de conformidad con el Presupuesto de Egresos, los instrumentos jurídicos de creación y las demás disposiciones que al efecto se emitan.
 
 Las atribuciones de estas unidades se especificarán en los ordenamientos reglamentarios respectivos.
 
@@ -251,9 +253,17 @@ XII.- Secretaría de Turismo.- SECTUR;
 
 XIII.- Coordinación General de Planeación y Proyectos.- CPLAP;
 
-XIV.- Coordinación General de Movilidad.- CMOV; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XV.- Contraloría del Estado.- CONTRALORÍA.
+XIV.- Coordinación General de Movilidad.- CMOV;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XV.- Coordinación General de Gabinete.- CGG; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XVI.- Contraloría del Estado.- CONTRALORÍA.
 
 ###### Artículo 19.
 
@@ -317,9 +327,13 @@ VIII.- Formular, en el ámbito de su competencia, proyectos de ley, decretos, re
 
 IX.- Acudir a las comparecencias ante el Congreso del Estado que deban realizarse, a convocatoria expresa de éste para dar cuenta del estado que guarda la Dependencia a su cargo; o por instrucción del Gobernador del Estado cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo;
 
-X.- Realizar, en los casos que así proceda, acciones de coordinación con autoridades federales, de otras Entidades Federativas o de los Ayuntamientos del Estado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XI.- Celebrar, conforme a lo dispuesto por esta Ley, los acuerdos y convenios de coordinación o colaboración administrativa con autoridades federales, municipales y/o interestatales, así como con los sectores social y privado, en el ámbito de su competencia, previa autorización del Gobernador del Estado;
+X.- Realizar, en los casos que así proceda, acciones de coordinación con autoridades federales, de otras Entidades Federativas, de los Ayuntamientos del Estado y Órganos Constitucionales Autónomos;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XI.- Celebrar, conforme a lo dispuesto por esta Ley, los acuerdos y convenios de coordinación o colaboración administrativa con autoridades federales, Entidades Federativas, autoridades estales y municipales, Órganos Constitucionales Autónomos, así como con los sectores social y privado, en el ámbito de su competencia, previa autorización del Gobernador del Estado;
 
 XII.- Celebrar aquellos contratos que la legislación aplicable les permita, sin transgredir las facultades que se otorgan en esta Ley y demás disposiciones vigentes;
 
@@ -467,7 +481,9 @@ XXIV.- Prestar apoyo y asesoría en materia técnico jurídica a las Dependencia
 
 XXV.- Ejercer las atribuciones conferidas en la Ley del Periódico Oficial del Estado de Aguascalientes;
 
-XXVI.- Previo acuerdo delegatorio del Gobernador del Estado, expedir, cancelar y revocar las concesiones de competencia estatal, así como expedir permisos, licencias y autorizaciones que no estén asignadas legalmente a otras Dependencias o Entidades;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXVI.- Previo acuerdo delegatorio del Gobernador del Estado, expedir, otorgar, renovar, suspender, cancelar o revocar las concesiones de competencia estatal, así como expedir permisos, licencias y autorizaciones que no estén asignadas legalmente a otras Dependencias o Entidades;
 
 XXVII.- Coordinarse con las autoridades competentes en materia de transporte y vialidad en los términos que disponga esta Ley y demás normatividad aplicable;
 
@@ -535,7 +551,9 @@ LVIII.- Participar en la planeación, operación y seguimiento de las políticas
 
 LIX.- Organizar, dirigir, evaluar y controlar los servicios de asesoría jurídica a las victimas u ofendidos de hechos delictivos y violación a sus derechos humanos a través de la Unidad Administrativa correspondiente; así como dar cumplimiento a la normatividad federal en la materia; y
 
-LX.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+LX.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN SEGUNDA. La Secretaría de Administración
 
@@ -551,11 +569,15 @@ III.- Acordar con el Titular del Poder Ejecutivo, la designación y remoción de
 
 IV.- Establecer políticas, normas y lineamientos en materia de administración, remuneración y desarrollo de personal de la Administración Pública Estatal;
 
-V.- Tramitar los nombramientos, remociones, licencias, renuncias y cualquier otra incidencia que modifique la relación jurídico laboral entre el Estado y sus servidores públicos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+V.- Tramitar los nombramientos, remociones, licencias, renuncias, cambios de adscripción, licencias, bajas, jubilaciones y cualquier otra incidencia que modifique la relación jurídico laboral entre el Estado y sus servidores públicos;
 
 VI.- Integrar, elaborar y remitir a la Secretaría de Finanzas para su pago, la nómina de los servidores públicos de las Dependencias de la Administración Pública Estatal, efectuando las retenciones fiscales y practicando los descuentos que legalmente correspondan;
 
-VII.- Autorizar las propuestas de creación de nuevas áreas del Poder Ejecutivo del Estado, que no se encuentran previstas en este ordenamiento;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VII.- Autorizar la estructura orgánica, creación, modificación y supresión de unidades administrativas y plazas de cada Dependencia de manera funcional, previa autorización presupuestal;
 
 VIII.- Firmar conjuntamente con el Gobernador del Estado y el Titular de la Secretaría General de Gobierno los nombramientos de los Titulares de las Dependencias de la Administración Pública Estatal y de los servidores públicos que de éstos dependan hasta el nivel de Director General;
 
@@ -567,9 +589,11 @@ XI.- Analizar, para su propuesta, el Tabulador de Sueldos y Salarios que se apli
 
 XII.- Instrumentar y ejecutar el Servicio Civil de Carrera, evaluando en todo momento las actitudes de quienes lo conformen, las cuales estarán libres de cualquier tipo de discriminación;
 
-XIII.- Tramitar los nombramientos, remociones, renuncias, cambios de adscripción, licencias, bajas y jubilaciones de los servidores públicos de la Administración Pública Estatal;
+XIII.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
-XIV.- Proveer oportunamente a las Dependencias de la Administración Pública Estatal, y en los casos de compras consolidadas, a las Entidades del Gobierno del Estado, de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XIV.- Realizar la consolidación de bienes y servicios de la Administración Pública Centralizada, y de las Entidades Paraestatales que en su caso lo requieran;
 
 XV.- Administrar los seguros de la Administración Pública Estatal;
 
@@ -577,7 +601,9 @@ XVI.- Coadyuvar con la Contraloría del Estado en el establecimiento de las norm
 
 XVII.- Dictar los lineamientos para la operación de los Sistemas Electrónicos mediante la utilización de firma electrónica, de observancia obligatoria para la Administración Pública Estatal;
 
-XVIII.- Desarrollar, regular, administrar y supervisar los servicios de informática, vinculados a la administración de los recursos y servicios de la Administración Pública Estatal, promoviendo su adecuada organización y mantenimiento;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XVIII.- Desarrollar, regular, administrar y supervisar los servicios de tecnologías de la información y comunicaciones de la Administración Pública Estatal, promoviendo su innovación, modernización y mantenimiento;
 
 XIX.- Apoyar a la Administración Pública Estatal en la programación de la adquisición de sus bienes muebles, servicios y recursos materiales, así como en el desarrollo de los sistemas administrativos que requieran para el desempeño de sus actividades, en los términos que establezcan las leyes respectivas;
 
@@ -587,9 +613,13 @@ XXI.- Celebrar los contratos de arrendamiento que tengan por objeto proporcionar
 
 XXII.- Administrar, controlar y vigilar los Almacenes Generales de bienes consumibles de la Administración Pública Estatal;
 
-XXIII.- Promover y coadyuvar en la ejecución de los programas y acciones de modernización, desarrollo informático y de calidad que requiera la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXIV.- Programar, realizar y celebrar los contratos relativos a las adquisiciones, suministros de bienes muebles, equipo informático y los servicios necesarios para el cumplimiento de los fines de la Administración Pública, y presidir el Comité de Adquisiciones y Servicios del Poder Ejecutivo del Estado;
+XXIII.- Promover y coadyuvar en la ejecución de los programas y acciones de innovación, modernización, desarrollo de las tecnologías de la información, comunicaciones y de calidad que requiera la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXIV.- Desarrollar los procedimientos de contratación y celebrar los contratos de adquisición de bienes y prestación de servicios para el cumplimiento de los fines de la Administración Pública Estatal, así como presidir el Comité de Adquisiciones, Arrendamientos y Servicios del Gobierno del Estado;
 
 XXV.- Llevar el registro de proveedores de bienes y servicios de la Administración Pública Estatal;
 
@@ -597,9 +627,13 @@ XXVI.- Presentar las denuncias, acusaciones o querellas con motivo de hechos del
 
 XXVII.- Proporcionar los apoyos necesarios para la realización de los actos cívicos en el Estado;
 
-XXVIII.- Proponer las atribuciones contenidas en el presente Artículo a las Entidades Paraestatales y éstas podrán aceptarlas o no en el desempeño que les confieran las leyes y reglamentos aplicables, sin perjuicio de su competencia; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXIX.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+XXVIII.- Proponer a las Entidades Paraestatales las directrices que emita la Secretaria de Administración en el ámbito de su competencia, con la finalidad de eficientar el desarrollo de sus funciones, sin perjuicio de lo establecido en su normatividad; y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXIX.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN TERCERA. La Secretaría de Finanzas
 
@@ -615,7 +649,9 @@ III.- Elaborar y presentar al Gobernador del Estado, los proyectos anuales de Le
 
 IV.- Intervenir en la elaboración y proponer para firma del Gobernador del Estado, los Convenios de Coordinación Fiscal o Colaboración Administrativa, y sus respectivos anexos, con la Secretaría de Hacienda y Crédito Público del Gobierno Federal;
 
-V.- Inscribir, en el ámbito de su competencia, convenios de coordinación y colaboración con otras Dependencias y Entidades Federales, con los Ayuntamientos del Estado o con otros Estados;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+V.- Suscribir, en el ámbito de su competencia, convenios de coordinación y colaboración con otras Dependencias y Entidades Federales, órganos Constitucionales Autónomos, Ayuntamientos del Estado o con otros Estados;
 
 VI.- Ejercer las atribuciones que deriven de los convenios de coordinación fiscal o colaboración Administrativa o Administración y sus anexos, celebrados por el Gobierno del Estado con la Secretaría de Hacienda y Crédito Púbico del Gobierno Federal, o con los Ayuntamientos del Estado;
 
@@ -687,9 +723,21 @@ XXXV.- Representar al Poder Ejecutivo en materia fiscal e intervenir cuando se a
 
 XXXVI.- Recabar los conceptos del Fondo que establece la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
 
-XXXVII.- Fungir como fideicomitente único de la Administración Pública Centralizada en los fideicomisos constituidos por el Gobierno del Estado, así como autorizar aquellos que se constituyan, se modifiquen o se extingan por las entidades de la Administración Pública Paraestatal; así como recibir de las entidades paraestatales fideicomitentes, la información sobre el manejo del patrimonio fiduciario; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXXVIII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+XXXVII.- Fungir como fideicomitente único de la Administración Pública Centralizada en los fideicomisos constituidos por el Gobierno del Estado, así como autorizar aquellos que se constituyan, se modifiquen o se extingan por las entidades de la Administración Pública Paraestatal; así como recibir de las entidades paraestatales fideicomitentes, la información sobre el manejo del patrimonio fiduciario;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXVIII.- Expedir las disposiciones administrativas o reglas de carácter general, en el ámbito de su competencia, necesarias para aplicar eficientemente la legislación fiscal del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXIX.- Celebrar convenios con la Federación, Entidades del Ejecutivo o Municipios, que tengan por objeto radicar recursos provenientes de programas federales autorizados y transferidos a la autoridad paraestatal o municipal ejecutora del recurso. El mecanismo se establecerá conforme a lo acordado entre las partes en el convenio correspondiente, en el cual se podrá convenir lo referente a los recursos remanentes o no ejercidos, a efecto de que la Secretaria de Finanzas realice lo conducente; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XL.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN CUARTA. La Secretaría de Seguridad Pública
 
@@ -775,7 +823,9 @@ e) Aplicar las sanciones correspondientes en caso de incumplimiento a la normati
 
 f) Expedir licencias para conducir vehículos de motor y permisos para circular sin placas ni tarjeta de circulación; así como cancelar y revocar dichos permisos y licencias; y
 
-XXVI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXVI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN QUINTA. La Secretaría de Desarrollo Económico
 
@@ -835,7 +885,9 @@ XXV.- Coadyuvar en el desarrollo de proyectos y programas que permitan consolida
 
 XXVI.- Promover el establecimiento en la Entidad, de industrias prioritarias y empresas ambientalmente favorables al ecosistema estatal; y
 
-XXVII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXVII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN SEXTA. La Secretaría de Salud
 
@@ -905,7 +957,9 @@ XXII.- Proponer e implementar la infraestructura sanitaria necesaria que procure
 
 XXIII.- Participar en coordinación con las dependencias y entidades competentes del Ejecutivo Estatal, en el establecimiento y expedición de las bases y normas a las que deben sujetarse los concursos para la ejecución de obras del sector salud; y
 
-XXIV.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXIV.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN SÉPTIMA. La Secretaría de Sustentabilidad, Medio Ambiente y Agua
 
@@ -915,7 +969,9 @@ A la Secretaría de Sustentabilidad, Medio Ambiente y Agua corresponde el despac
 
 I.- Dirigir, coordinar, instrumentar, controlar y evaluar la política y programas en materia de ecología, medio ambiente y agua que se formulen con la participación de los sectores de la sociedad, y apruebe el Gobernador del Estado;
 
-II.- Impulsar el fortalecimiento de la participación social en la ejecución de los programas para la conservación y mejoramiento del ambiente, el aprovechamiento sustentable de los recursos naturales y la generación de una cultura ambiental para el desarrollo sustentable;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+II.- Impulsar y fortalecer la participación social en el diseño y la ejecución de los programas para la conservación y mejoramiento del ambiente, la restauración del equilibrio ecológico, la conservación y el aprovechamiento sustentable de la biodiversidad y la generación de una cultura ambiental para el desarrollo sustentable;
 
 III.- Promover y celebrar convenios o acuerdos:
 
@@ -931,15 +987,23 @@ V.- Elaborar las propuestas de leyes, reglamentos, normas técnicas ambientales,
 
 VI.- Definir y establecer indicadores de calidad ambiental para el Estado y aplicarlos con la participación de la sociedad;
 
-VII.- Regular las áreas que tengan un valor escénico o paisajístico, para protegerlas de contaminación visual;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VII.- Promover la conservación de las áreas que tengan un valor escénico o paisajístico;
 
 VIII.- Evaluar y, en su caso, autorizar las manifestaciones de impacto ambiental y estudios de riesgo, en términos de lo que establece la Ley de Protección Ambiental para el Estado de Aguascalientes;
 
-IX.- Diseñar y ejecutar programas y procedimientos que permitan prevenir, controlar y abatir la contaminación, el aprovechamiento racional de los recursos naturales y la protección de los ecosistemas;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-X.- Integrar y mantener actualizado el inventario de fuentes fijas de contaminación, ubicadas en el territorio del Estado;
+IX.- Diseñar y ejecutar programas y procedimientos que permitan prevenir y controlar la contaminación provocada por las fuentes fijas de su competencia;
 
-XI.- Establecer y aplicar los lineamientos generales y coordinar las acciones en materia de protección, conservación y restauración de los recursos naturales, flora, fauna, aire, agua y suelo en bienes y zonas de jurisdicción del Estado, así como en áreas naturales protegidas y zonas de amortiguamiento;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+X.- Integrar y mantener actualizado el inventario de las fuentes fijas de contaminación competencia del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XI.- Establecer y aplicar los lineamientos generales y coordinar las acciones en materia de protección, conservación y restauración de los recursos naturales y la biodiversidad, el aire, el agua y el suelo en bienes y zonas de jurisdicción del Estado, así como en áreas naturales protegidas, sus zonas de amortiguamiento y las áreas prioritarias para la conservación;
 
 XII.- Fomentar y apoyar el desarrollo de las capacidades de gestión ambiental de los municipios del Estado;
 
@@ -955,13 +1019,19 @@ a) Apoyar y coordinar las campañas permanentes de prevención, manejo, control 
 
 b) Formular y ejecutar, en coordinación con las Dependencias y Entidades competentes, programas de financiamiento de apoyo a productores forestales del Estado;
 
-c) Formular y desarrollar programas de capacitación;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+c) Proponer, formular y/o desarrollar programas de capacitación;
 
 d) Celebrar convenios de cooperación y/o coordinación con dependencias y organismos del sector público y privado y con instituciones académicas y de investigación;
 
-e) Desarrollar y ejecutar programas de investigación aplicada y transferencia de tecnología en la materia; y
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-f) Procesar y difundir la información estadística y geográfica referente a las actividades forestales del Estado, así como difundir todo tipo de información que impulse el desarrollo del sector forestal del Estado;
+e) Fomentar y coadyuvar en el desarrollo y ejecución de programas de investigación aplicada y transferencia de tecnología en la materia; y
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+f) Difundir todo tipo de información que impulse el desarrollo del sector forestal del Estado;
 
 XVII.- Diseñar, desarrollar y operar el Sistema Estatal de Monitoreo de la Calidad del Aire;
 
@@ -971,23 +1041,31 @@ XIX.- Por acuerdo o a iniciativa del Gobernador del Estado, promover y constitui
 
 XX.- Promover la construcción de obras de infraestructura y equipamiento para la protección y restauración del medio ambiente;
 
-XXI.- Promover el ordenamiento ecológico general del territorio del Estado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXI.- Promover el ordenamiento ecológico regional del territorio del Estado;
 
 XXII.- Establecer, en coordinación con los Ayuntamientos, los criterios ecológicos para la planeación ambiental, definiendo la vocación de las zonas o regiones, en función de sus recursos naturales, la distribución de la población y las actividades económicas predominantes, a fin de preservar el equilibrio entre recursos, población y factores económicos;
 
 XXIII.- Coadyuvar con la Secretaría General de Gobierno, en la coordinación de las Dependencias y Entidades de la Administración Pública Estatal para la realización de las acciones conducentes, cuando exista peligro para el equilibrio ecológico de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales o por caso fortuito o fuerza mayor;
 
-XXIV.- Crear y administrar viveros de árboles y flores, así como brindar el apoyo en la reforestación del territorio del Estado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXIV.- Crear y administrar viveros de árboles y flores, principalmente de especies nativas de la región, así como realizar campañas y brindar el apoyo en la reforestación del territorio del Estado;
 
 XXV.- Evaluar y certificar programas, proyectos y acciones de educación ambiental y de mejores prácticas en la materia;
 
 XXVI.- Gestionar proyectos y acciones intersectoriales para favorecer la educación, cultura y comunicación en temas ambientales prioritarios del Estado;
 
-XXVII.- Determinar las normas y, en su caso, ejecutar las acciones que aseguren la conservación o restauración de los ecosistemas fundamentales para el desarrollo de la comunidad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXVII.- Definir las políticas, coordinar y ejecutar las acciones que contribuyan a la conservación y restauración de los ecosistemas y la biodiversidad del Estado, con un enfoque de desarrollo sustentable, en beneficio de la comunidad;
 
 XXVIII.- Vigilar, en coordinación con las autoridades federales y municipales, el cumplimiento de las normas y programas para la protección del medio ambiente;
 
-XXIX.- Normar el aprovechamiento racional de la flora y la fauna silvestre, con el propósito de conservarlos y desarrollarlos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXIX.- Fomentar y orientar el aprovechamiento sustentable de la biodiversidad y los recursos naturales del Estado, con el propósito de asegurar su permanencia para el uso y disfrute de las generaciones presentes y futuras;
 
 XXX.- Establecer los criterios ecológicos y normas de carácter general para el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tenga asignadas;
 
@@ -1001,25 +1079,35 @@ XXXIV.- Solicitar a las autoridades competentes la expropiación, ocupación tem
 
 XXXV.- Llevar a cabo la coordinación entre los Municipios y el Estado y entre éste y la Federación, para la realización de las acciones relativas a la explotación, uso, aprovechamiento integral y sustentable, y reúso del agua;
 
-XXXVI.- Llevar a cabo las acciones necesarias encaminadas a los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXXVII.- La organización, funcionamiento y atribuciones de los organismos operadores municipales e intermunicipales;
+XXXVI.- Llevar a cabo las acciones necesarias encaminadas a los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso dentro de su competencia;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXVII.- Impulsar la organización y funcionamiento de los organismos operadores municipales e intermunicipales del agua;
 
 XXXVIII.- Promover la participación de los sectores gubernamental, social y privado en las diversas acciones previstas en las disposiciones legales aplicables;
 
 XXXIX.- Establecer las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso, los contratistas y los usuarios de dichos servicios;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2018)</small>
+XL.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
-XL.- Llevar a cabo la recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y su reúso;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2018)</small>
+XLI.- Promover ante las autoridades competentes la construcción de centros de educación ambiental y áreas recreativas en el Estado, en las que se incluyan espacios adecuados para niñas y niños con discapacidad; vigilando que las mismas permanezcan en condiciones óptimas para su utilización;
 
-XLI.- Promover ante las autoridades competentes la construcción de centros de educación ambiental y áreas recreativas en el Estado, en las que se incluyan espacios adecuados para niñas y niños con discapacidad; vigilando que las mismas permanezcan en condiciones óptimas para su utilización; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE NOVIEMBRE DE 2018)</small>
+XLII.- Operar, administrar, conservar y mantener las plantas de tratamiento, pozos de agua propiedad del Estado, así como los sistemas de captación, conducción, almacenamiento, distribución, reúso y potabilización del agua, alcantarillado, saneamiento y explotación; y llevar a cabo la perforación de los pozos para fuentes de agua subterránea que cumpla con la normatividad aplicable;
 
-XLII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XLIII.- Regular la forestación, reforestación y remoción en terrenos con vegetación forestal que se localicen dentro de los límites de los centros de población, en términos de la Ley General de Desarrollo Forestal Sustentable; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XLIV.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN OCTAVA. La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral
 
@@ -1081,15 +1169,23 @@ XXVI.- Coordinar los trabajos del Gabinete Estratégico de Gestión Urbanística
 
 XXVII.- Recomendar a las autoridades municipales competentes las acciones que en materia de ingeniería vial considere necesarias;
 
-XXVIII.- Representar legalmente al Poder Ejecutivo en materia catastral e intervenir cuando se afecte la Hacienda Pública, ante los Tribunales, así como ante autoridades administrativas y fiscales, federales, estatales y municipales, en su caso, y coadyuvar con las Dependencias y Entidades, en las mismas materias;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXIX.- Establecer los principios rectores y la política a seguir para la correcta administración y operación respecto del catastro de los bienes inmuebles ubicados en el territorio del Estado, y participar con la Secretaría General de Gobierno, en la emisión de lineamientos que permitan normar, coordinar, implementar, desarrollar y unificar las bases de datos de manera electrónica, entre el mencionado registro catastral y el registro de la propiedad y del comercio;
+XXVIII.- Representar legalmente al Poder Ejecutivo en materia catastral ante los Tribunales y Autoridades correspondientes, y coadyuvar con las Dependencias y Entidades en la materia;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXIX.- Establecer los principios rectores y la política a seguir para la correcta administración y operación respecto del catastro de los bienes inmuebles ubicados en el territorio del Estado, y emitir lineamientos que permitan normar, coordinar, implementar, desarrollar y unificar las bases de datos de manera electrónica, entre las Autoridades en la materia;
 
 XXX.- Organizar y vigilar el ejercicio de las funciones inherentes al Registro Público de la Propiedad y del Comercio del Estado;
 
-XXXI.- Coordinar la integración y permanente actualización del Registro de la Propiedad Inmobiliaria del Estado, mediante la implementación de medios electrónicos; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXXII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+XXXI.- Coordinar la integración y permanente actualización del Registro de la Propiedad Inmobiliaria en el Estado, mediante la implementación de medios electrónicos; y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN NOVENA. La Secretaría de Desarrollo Social
 
@@ -1139,9 +1235,13 @@ b) Establecer mecanismos de coordinación y colaboración con instituciones púb
 
 c) Incorporar en la formulación de la política de desarrollo social del Estado la plena participación de la mujer en todos los ámbitos de, la vida; y
 
-d) Promover una adecuada coordinación con los Ayuntamientos y las Dependencias y Entidades competentes para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, e instrumentar mecanismos de diagnóstico, evaluación y formulación de estadísticas de los programas respectivos; y
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XIX.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+d) Promover una adecuada coordinación con los Ayuntamientos y con la Administración Pública Estatal competentes para asesorar, prevenir, atender y erradicar la violencia contra las mujeres, e instrumentar mecanismos de diagnóstico, evaluación y formulación de estadísticas de los programas respectivos; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XIX.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN DÉCIMA. La Secretaría de Obras Públicas
 
@@ -1151,15 +1251,25 @@ A la Secretaría de Obras Públicas corresponde el despacho de los siguientes as
 
 I.- Conducir, coordinar, controlar y evaluar las políticas y programas sectoriales de infraestructura y obras públicas;
 
-II.- Ejecutar las obras públicas y servicios relacionados que determine el Plan Estatal de Desarrollo y los programas que deriven del mismo de conformidad con las aprobaciones de recursos económicos que emita la Coordinación General de Planeación y Proyectos, directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-III.- Apoyar en coordinación con las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración del Programa Anual de Obras Públicas, y vigilar su cumplimiento;
+II.- Proyectar, ejecutar, supervisar, vigilar, dirigir, inspeccionar y evaluar las obras públicas y servicios relacionados que determine el Plan Estatal de Desarrollo y los programas que deriven del mismo de conformidad con las aprobaciones de recursos económicos que emita la Coordinación General de Planeación y Proyectos, directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y demás disposiciones aplicables en la materia;
 
-IV.- Prestar asesoría y apoyo a los Municipios de la Entidad, en forma coordinada con las Dependencias y Entidades del Ejecutivo Federal, en la realización de obras públicas;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-V.- Dictar las normas técnicas en materia de obras públicas y servicios relacionados, en el ámbito de su competencia;
+III.- Formular y proponer en coordinación con las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración del Programa Anual de Obras Públicas, y vigilar su cumplimiento;
 
-VI.- Expedir las bases a las que deban sujetarse las licitaciones públicas para la ejecución de obras y servicios relacionados en el Estado, así como adjudicar, rescindir y exigir el cumplimiento de los contratos de obras y servicios relacionados, celebrados por el Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+IV.- Prestar asesoría y apoyo a los entes públicos, en forma coordinada con las Autoridades competentes, en la realización de obra pública;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+V.- Dictar las normas técnicas en materia de obras públicas y servicios relacionados, en el ámbito de su competencia y vigilar su cumplimiento; así como llevar a cabo los procesos de certificación de laboratorios de calidad y empresas concreteras conforme a la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VI.- Expedir las bases a las que deban sujetarse las licitaciones públicas para la ejecución de obras y servicios relacionados en el Estado, las cuales deberán de sujetarse a los principios rectores de economía y bajo costo, teniendo como principal objetivo la calidad y funcionalidad de las obras, haciendo hincapié en la legalidad y transparencia, así como adjudicar, rescindir y exigir el cumplimiento de los contratos de obras y servicios relacionados, celebrados por el Poder Ejecutivo;
 
 VII.- Auxiliar a las Entidades del Poder Ejecutivo en la elaboración y supervisión de los proyectos y presupuestos sobre obra pública que sean puestos a su consideración;
 
@@ -1167,11 +1277,17 @@ VIII.- Efectuar visitas, peritajes y avalúos que se requieran en la ejecución 
 
 IX.- Llevar a cabo la supervisión del proceso de ejecución de la obra pública a cargo del Poder Ejecutivo en forma directa o a través del supervisor externo que contrate en el ámbito de su competencia para tal efecto, en términos de la normatividad aplicable;
 
-X.- Coordinarse con los órganos de planeación estatal y municipales que correspondan, así como con las instituciones de educación superior que tengan interés directo en las obras a realizarse;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XI.- Emitir los lineamientos de conservación, mantenimiento, remodelación, reconstrucción y reparación, para el buen funcionamiento de los bienes inmuebles del Poder Ejecutivo del Estado;
+X.- Coordinarse con los órganos de planeación estatal y municipales que correspondan y tengan interés directo en las obras a realizarse;
 
-XII.- Dictar las normas y establecer los criterios que deban orientar la formulación de proyectos, construcción, ampliación y conservación de caminos, carreteras y vialidades estatales;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XI.- Emitir los lineamientos de conservación, mantenimiento, remodelación, reconstrucción y reparación, para el buen funcionamiento de los bienes inmuebles del Poder Ejecutivo del Estado, en coordinación con las dependencias y entidades que los tengan a su cargo;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XII.- Dictar las normas y establecer los criterios que deban orientar la formulación de proyectos, construcción, ampliación y conservación de caminos, carreteras y vialidades estatales, atendiendo las necesidades de la población, el comercio y la movilidad social;
 
 XIII.- Construir y conservar en buen estado la red carretera, puentes, caminos, obras conexas o accesorias de ellas, que sean de competencia local;
 
@@ -1179,7 +1295,7 @@ XIV.- Ejecutar obras de infraestructura hidráulica y en materia de movilidad;
 
 XV.- Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, para el cumplimiento de sus objetivos, en los términos de Ley;
 
-XVI.- Promover el establecimiento, y difusión de la normatividad en lo referente a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, alcantarillado y saneamiento y su reúso;
+XVI.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
 XVII.- Efectuar periódicamente en coordinación con los ayuntamientos, los estudios sobre del comportamiento dinámico de las grietas y la formulación de las cartas urbanas que contengan las fallas geológicas detectadas y en caso de presentarse comportamientos dinámicos extraordinarios, deberá informar de manera inmediata a las dependencias y entidades competentes;
 
@@ -1187,13 +1303,15 @@ XVIII.- Realizar la construcción de sistemas de riego tecnológicamente avanzad
 
 XIX.- Llevar a cabo la construcción de la infraestructura destinada a la recarga, de acuerdo a la normatividad aplicable;
 
-XX.- Promover la modernización de los distritos y unidades de riego;
+XX.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
-XXI.- Coadyuvar con los organismos operadores municipales e intermunicipales, en las gestiones de financiamiento y planeación de obras para los sistemas requeridos para la prestación de los servicios públicos;
+XXI.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
-XXII.- Establecer programas permanentes de capacitación, en forma paralela a la construcción de obras hidráulicas, con el fin de lograr un mejor aprovechamiento de las mismas; y
+XXII.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
-XXIII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXIII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN DÉCIMA PRIMERA. La Secretaría de Desarrollo Rural y Agroempresarial
 
@@ -1265,7 +1383,9 @@ XXIX.- Operar la maquinaria agrícola y pesada que se utilice en los programas d
 
 XXX.- Promover la actualización de las disposiciones jurídicas y normas oficiales mexicanas aplicables en las materias agrícola, pecuaria, forestal y vida silvestre; y
 
-XXXI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN DÉCIMA SEGUNDA. La Secretaría de Turismo
 
@@ -1345,7 +1465,9 @@ XXXV.- Participar, apoyar y realizar estudios técnicos previos en zonas y área
 
 XXXVI.- Intervenir en la administración, coordinación y distribución de fondos mixtos de promoción y desarrollo turístico, así como de los impuestos derivados de la prestación de servicios turísticos;
 
-XXXVII.- Turnar sistemáticamente información dinámica del régimen estatal de prestadores de servicios turísticos, a la instancia competente de la Secretaría de Turismo Federal, para efecto de mantener integrado y actualizado el Registro Nacional del Turismo;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXVII.- Inscribir a los Prestadores de Servicios Turísticos locales en el Registro Nacional de Turismo, turnando sistemáticamente información a la instancia competente de la Secretaría de Turismo Federal, para efecto de mantenerlo integrado y actualizado;
 
 XXXVIII.- Atender y dar seguimiento a las quejas interpuestas por usuarios en contra de prestadores de servicios turísticos por infracciones a la normatividad turística federal, estatal y municipal;
 
@@ -1355,7 +1477,9 @@ XL.- Aplicar las sanciones correspondientes a los prestadores de servicios turí
 
 XLI.- Atender los recursos que se interpongan contra resoluciones referentes a sanciones dictaminadas localmente con apego al procedimiento previsto en la legislación aplicable; y
 
-XLII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XLII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN DÉCIMA TERCERA. La Coordinación General de Planeación y Proyectos
 
@@ -1433,7 +1557,9 @@ XXX.- Ejercer las funciones que corresponden al Secretariado Técnico del Consej
 
 XXXI.- Diseñar, coordinar y operar el Sistema de Evaluación del Desempeño previsto en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, así como las otras atribuciones que con respecto a este Sistema le confiera la legislación aplicable; y
 
-XXXII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN DÉCIMA CUARTA. La Coordinación General de Movilidad
 
@@ -1523,7 +1649,45 @@ XL.- Recomendar a las autoridades municipales competentes las acciones que en ma
 
 XLI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de instrumentos sin perjuicio de las atribuciones de otras dependencias.
 
-#### SECCIÓN DÉCIMA QUINTA. La Contraloría del Estado
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN DÉCIMA QUINTA. La Coordinación General de Gabinete
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+Artículo 45 A.- A la Coordinación General de Gabinete le corresponde el despacho de los siguientes asuntos:
+
+I.- Desempeñar las funciones y comisiones especiales que el Gobernador del Estado le confiera, y mantenerlo informado del desarrollo de las mismas;
+
+II.- Coordinar y supervisar el desempeño de la gestión gubernamental de la Administración Pública Estatal, así como requerir los informes correspondientes y establecer las reuniones necesarias para su buen funcionamiento;
+
+III.- Dar seguimiento al trabajo de gestión para alcanzar el cumplimiento de los proyectos y programas estatales estratégicos de la Administración Pública Estatal;
+
+IV.- Supervisar la operación y seguimiento a las políticas públicas, programas y acciones transversales e intersectoriales en los que participen dos o más Dependencias;
+
+V.- Convocar y coordinar las reuniones de gabinete con los titulares de las dependencias y entidades, presidiéndolas cuando así lo instruya el Gobernador del Estado;
+
+VI.- Aportar elementos objetivos y oportunos para la toma de decisiones estratégicas sobre los asuntos de la Administración Pública Estatal, que el Gobernador del Estado solicite en relación a la gestión de políticas públicas;
+
+VII.- Diseñar y operar con la Administración Pública Estatal la implementación y seguimiento del Modelo de Gestión Gubernamental para el Estado de Aguascalientes;
+
+VIII.- Coordinar estudios de opinión pública que aporten elementos para la evaluación y toma de decisiones respecto a las acciones de gobierno;
+
+IX.- Coordinar la agenda de alto impacto y el mensaje gubernamental del Gobernador del Estado;
+
+X.- Proponer al Gobernador del Estado el esquema de sectorización de la Administración Pública Estatal y la constitución de gabinetes, así como los mecanismos que faciliten la coordinación interna de las Dependencias y Entidades;
+
+XI.- Establecer vínculos e intercambio de experiencias con las áreas responsables de desarrollo gubernamental de otros gobiernos;
+
+XII.- Proponer al Gobernador del Estado una agenda internacional productiva que tenga repercusión en el Estado y en el desarrollo de los proyectos estratégicos, además de atender los asuntos que en este ramo le indique el Gobernador del Estado;
+
+XIII.- Establecer los mecanismos necesarios para obtener una comunicación eficiente entre la Administración Pública Estatal; y
+
+XIV.- Las demás que le determine el Gobernador del Estado, las leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras Dependencias.
+
+(REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMO QUINTA], P.O. 10 DE DICIEMBRE DE 2018)
+
+#### SECCIÓN DÉCIMA SEXTA. La Contraloría del Estado
 
 ###### Artículo 46.
 
@@ -1539,9 +1703,13 @@ IV.- Establecer, difundir y vigilar el cumplimiento de las normas de control, ev
 
 V.- Vigilar, fiscalizar e inspeccionar el ejercicio del gasto público de la Administración Pública Estatal y su congruencia con el presupuesto de egresos procediendo, en su caso, a fincar responsabilidades administrativas que correspondan;
 
-VI.- Coordinar, controlar y evaluar a las contralorías internas de las Dependencias y a los órganos de control y vigilancia de las Entidades, emitir los lineamientos para su actuación e informar sobre su actuación al Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-VII.- Acordar con el Gobernador del Estado la designación y remoción de los Contralores Internos en las Dependencias del Poder Ejecutivo y de los comisarios o sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las Entidades del Poder Ejecutivo;
+VI.- Coordinar, controlar y evaluar a los Órganos de Vigilancia de la Administración Pública Estatal, así como proponer los lineamientos para su actuación e informar sobre su actuación al Titular del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VII.- Acordar con el Titular del Poder Ejecutivo, la designación y remoción de los titulares de los órganos de Control y Evaluación en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
 
 VIII.- Prestar apoyo a las dependencias y entidades de la Administración Pública Estatal mediante:
 
@@ -1569,7 +1737,13 @@ XVII.- Atender las quejas y denuncias que presenten los particulares, organizado
 
 XVIII.- Emitir los lineamientos y coordinar la Entrega-Recepción de las oficinas públicas del Poder Ejecutivo, y de los servidores públicos al separarse de su empleo, cargo o comisión, así como en cumplimiento de los convenios con otros entes;
 
-XIX.- Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal, que puedan constituir responsabilidades administrativas; así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes, para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia de la Sala Administrativa, y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XIX.- Conocer, investigar y calificar las conductas que cometan los servidores públicos de la Administración Pública Estatal Centralizada y actos de particulares vinculados con faltas administrativas graves, que puedan constituir responsabilidades administrativas en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, así como substanciar y en su caso resolver y sancionar, en el ámbito de su competencia, los procedimientos de responsabilidad administrativa que deriven de dichas conductas, actos u omisiones.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+En el caso de faltas administrativas graves y actos de particulares vinculados con faltas administrativas graves, turnar los expedientes a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, para continuar con el procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 XX.- Presentar las denuncias o querellas penales cuando la conducta del servidor público pueda constituir la comisión de algún delito;
 
@@ -1595,9 +1769,17 @@ XXX.- Emitir normas, lineamientos específicos y manuales que, dentro del ámbit
 
 XXXI.- Registrar y recibir las declaraciones de situación patrimonial, de intereses y constancia de presentación de declaración fiscal, conforme a lo establecido en el Sistema Estatal Anticorrupción;
 
-XXXII.- Supervisar el cumplimiento de los sujetos obligados de la Administración Pública Estatal, conforme a lo estipulado en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXXIII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio de las atribuciones de otras dependencias.
+XXXII.- Supervisar el cumplimiento de los sujetos obligados de la Administración Pública Estatal, conforme a lo estipulado en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXIII.- Organizar y vigilar el ejercicio de las funciones inherentes al Registro Administrativo de la Propiedad Pública del Estado; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXIV.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 ### CAPÍTULO V. Los Tribunales Administrativos
 
@@ -1730,3 +1912,45 @@ P.O. 5 DE NOVIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 62.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS; ASÍ COMO SE ADICIONA UNA SECCIÓN DÉCIMA QUINTA “LA COORDINACIÓN GENERAL DE GABINETE”, AL CAPÍTULO IV “LA COMPETENCIA DE LAS DEPENDENCIAS”, ASÍ COMO SE DEROGAN LA FRACCIÓN XIII DEL ARTÍCULO 33; LA FRACCIÓN XL DEL ARTÍCULO 38; LAS FRACCIONES XVI, XX, XXI Y XXII DEL ARTÍCULO 41, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado, el cual iniciará su vigencia el 01 de enero de 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones normativas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se deberán considerar en el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal 2019 los recursos necesarios para la operatividad y funcionamiento de la Coordinación General de Gabinete, referida en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado, deberá garantizar que con la entrada en vigor del presente Decreto, la Coordinación General de Gabinete cuente con los recursos humanos, materiales y financieros indispensables para el cumplimiento de su objeto, con base al presupuesto asignado para tal efecto.
+
+Así mismo, se deberá considerar que los recursos humanos, financieros y materiales que se encuentran asignados a la Coordinación General de Gabinete adscrita a la Oficina del Despacho del Gobernador, serán transferidos a la Coordinación General de Gabinete, creada como una Dependencia del Poder Ejecutivo del Estado.
+
+###### ARTÍCULO QUINTO.
+
+El Gobernador del Estado deberá expedir el Reglamento Interior de la Coordinación General de Gabinete a que se refiere el presente Decreto; así mismo, deberá adecuar los Reglamentos correspondientes a las Dependencias cuyas atribuciones se reforman o modifican; dichas acciones deberán estar concluidas y publicadas a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El personal de la Coordinación General de Gabinete adscrita a la Oficina del Despacho del Gobernador, que con motivo del presente Decreto se transfiera a la Dependencia denominada “Coordinación General de Gabinete” conservarán sus derechos laborales.
+
+###### ARTÍCULO SÉPTIMO.
+
+En relación a los expedientes, asuntos, procedimientos y demás actos administrativos instaurados ante la Coordinación General de Gabinete adscrita a la Oficina del Despacho del Gobernador, serán asumidos por la Coordinación General de Gabinete referida en el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La Contraloría del Estado de Aguascalientes es competente y está facultada para llevar a cabo todas las actuaciones, y emitir todos aquellos documentos, constancias, certificaciones y resoluciones que se originen con motivo de la substanciación, resolución y ejecución de los Procedimientos de Responsabilidad Administrativa emplazados durante la vigencia de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 12 de noviembre de 2001, y previo a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 01 de agosto de 2017.
+
+###### ARTÍCULO NOVENO.
+
+En relación a lo dispuesto por Artículo Cuarto Transitorio del Decreto Número 164 que crea la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el día 27 de octubre de 2017, en el cual a partir del 1º de enero de 2019 se declara extinto el Organismo Público Descentralizado del Gobierno del Estado denominado “Instituto del Agua del Estado”, se autoriza como liquidador de dicho organismo a la Secretaría de Finanzas y a su vez se faculta para efecto de que reciba las cantidades solicitadas en devolución al Servicio de Administración Tributaria por concepto del Impuesto al Valor Agregado, misma que deberá asignar dichos recursos para obras de infraestructura hidráulica.
