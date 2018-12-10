@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2018-08-31"
+last_updated: "2018-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2619,13 +2619,33 @@ No constituyen pornografía los programas preventivos, educativos o informativos
 
 (DEROGADO, P.O. 23 DE MARZO DE 2007)
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, [N. DE E. ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA] P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-#### SECCION TERCERA.- TURISMO SEXUAL DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
+#### SECCIÓN TERCERA.- DELITOS CONTRA LA INTIMIDAD SEXUAL
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 225.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+Comete el delito de violación a la intimidad sexual, quien con el fin de causar daño o la obtención de un beneficio:
+
+I. Divulgue, comparta, distribuya, publique y/o solicite la imagen de una persona desnuda parcial o totalmente de contenido erótico sexual, por cualquier medio ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
+
+II. Divulgue, comparta, distribuya, publique y/o solicite por cualquier medio el contenido íntimo o sexual, sin el consentimiento de la víctima.
+
+Esta conducta se sancionará de tres a seis años de prisión y multa de mil a dos mil veces (sic) diario vigente de la unidad de medida y actualización al momento de que se cometa el delito.
+
+Este delito se perseguirá por querella de la víctima, salvo que sea menor de edad o padeciere una discapacidad que vicie su consentimiento en cuyo caso se perseguirá de oficio.
+
+En caso de que este contenido sin consentimiento sea difundido o compilado por medios de comunicación o plataformas digitales, la autoridad competente ordenará a la empresa de prestación de redes sociales o medio de comunicación a retirar inmediatamente el contenido.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 225 Bis.
+
+Las mismas sanciones del artículo 225 se aplicarán a quien obtenga de dispositivos móviles o dispositivos de almacenamiento de datos físico o virtual, cualquier imagen, videos, textos o audios sin la autorización del titular.
+
+En el caso de que en esta conducta el sujeto activo la realice con violencia, se incrementará la sanción hasta en dos terceras partes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -3979,17 +3999,27 @@ I.- Cuando el sujeto activo es superior en fuerza física al ofendido y éste no
 
 II.- Cuando el sujeto activo es superior al ofendido por las armas que emplee, por su mayor destreza en el manejo de ellas o por el número de los que lo acompañan;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-III.- Cuando el sujeto activo se vale de algún medio que debilita la defensa del ofendido; y
+III.- Cuando el sujeto activo se vale de algún medio que debilita la defensa del ofendido;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-IV.- Cuando el ofendido se halla inerme o caído y el sujeto activo armado o de pie.
+IV.- Cuando el ofendido se halla inerme o caído y el sujeto activo armado o de pie;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+V.- Cuando la víctima padezca alguna discapacidad; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VI.- Cuando exista una situación de vulnerabilidad motivada por la condición física o mental o por discriminación.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 327.
 
-La ventaja no se tomará en consideración en los tres primeros casos a que se refiere el artículo anterior, si el que la tiene obrase en defensa legítima; ni en el cuarto, si el que se halla armado o de pie, fuere el agredido, y hubiere corrido peligro su vida o su persona por no aprovechar esa circunstancia.
+La ventaja no se tomará en consideración en los casos contemplados en las fracciones I, II, III, V y VI del artículo anterior, si el que la tiene obrase en defensa legitima; y en el caso de la fracción IV, si el que se halla armado o de pie, fuere el agredido, y hubiere corrido peligro su vida o su persona por no aprovechar esa circunstancia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5085,7 +5115,7 @@ Se impondrá prisión de tres meses a siete años y multa de una a diez veces el
 
 I.- Al que ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima o sin cumplir los requisitos legales;
 
-II.- Al que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de saber que se revoco su nombramiento o que se le suspendió o destituyó legalmente;
+II.- Al que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de saber que se revocó su nombramiento o que se le suspendió o destituyó legalmente;
 
 III.- Al que nombrado por tiempo limitado, continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
 
@@ -6692,3 +6722,17 @@ P.O. 31 DE AGOSTO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III Y IV DEL ARTÍCULO 326, EL ARTÍCULO 327, Y ADICIONA LAS FRACCIONES V Y VI AL ARTÍCULO 326 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA SECCIÓN TERCERA DEL CAPÍTULO SÉPTIMO, DEL LIBRO SEGUNDO, PARA LLAMARSE DELITOS CONTRA LA INTIMIDAD SEXUAL, Y EL ARTÍCULO 225, Y SE ADICIONA EL ARTÍCULO 225 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+ÚNICO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día de su publicación.
