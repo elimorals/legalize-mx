@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2018-09-03"
+last_updated: "2018-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -429,15 +429,25 @@ d) Disminuir la desigualdad social.
 
 IV. Los programas dirigidos a zonas de atención prioritaria;
 
-V. Los programas y acciones públicas para asegurar la alimentación y nutrición materno-infantil;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+V. Los programas y acciones públicas para asegurar la alimentación nutritiva, suficiente y de calidad, y la nutrición materno-infantil;
 
 VI. Los programas de abasto social de productos básicos;
 
 VII. Los programas de vivienda;
 
-VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano y rural.
+VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano y rural; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+X. Los programas que garanticen el acceso a la alimentación, por medio de la producción de alimentos para el autoconsumo, con la operación de los huertos familiares, comunitarios y escolares. Estos programas serán de aplicación estatal, debiendo operar en áreas urbanas, semi urbanas y rurales.
 
 ###### Artículo 36.
 
@@ -1136,3 +1146,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan Derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 388, EXPEDIDO POR LA LXIII LEGISLATURA.- SE ADICIONA UN OCTAVO PÁRRAFO, RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES, AL ARTÍCULO 4º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES, (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTICULO PRIMERO.
+
+El Artículo Primero del presente Decreto iniciará su vigencia el día siguiente de la publicación en el Periódico Oficial del Estado de Aguascalientes, de la Declaratoria Constitucional respectiva, en términos del Artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Segundo del presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, no obstante lo dispuesto por el Artículo Tercero Transitorio.
+
+###### ARTÍCULO TERCERO.
+
+EI titular del Poder Ejecutivo del Estado, en un plazo máximo de 180 días hábiles contados a partir de la publicación de este Decreto, dispondrá lo necesario para crear uno o varios programas que cumplan con las reformas establecidas en el mismo.
