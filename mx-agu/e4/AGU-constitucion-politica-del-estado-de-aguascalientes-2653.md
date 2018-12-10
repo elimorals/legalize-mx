@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2018-09-17"
+last_updated: "2018-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -99,7 +99,7 @@ Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata
 
 El hombre y la mujer son iguales ante la Ley, por lo que ésta deberá prever mecanismos, instituciones y políticas que garanticen la igualdad de oportunidades en condiciones de equidad.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado garantizará el acceso a los programas y acciones públicas en la materia.
 
@@ -469,7 +469,9 @@ I.- Las personas que desempeñen cargos públicos de elección popular, sean de 
 
 II.- Los Magistrados, tanto del Supremo Tribunal de Justicia como de la Sala Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado.
 
-III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
 
 IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
 
@@ -689,13 +691,17 @@ XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuici
 
 XXXVI.- Expedir leyes que instituyan la justicia de lo contencioso - administrativo dotando de plena autonomía para dictar sus fallos, y que tenga a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal, con los particulares; estableciendo las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXXVII.- Elegir a los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, mediante el voto de las dos terceras partes de los diputados presentes en el Pleno, previa convocatoria que emita la Comisión de Gobierno a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos; y
+XXXVII.- Elegir a los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, mediante el voto de las dos terceras partes de los diputados presentes en el Pleno, previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXXVIII.- Las demás que le concede esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
+XXXVIII.- Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en ésta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una consulta a la sociedad para recibir propuestas de candidatos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XXXIX.- Las demás que le concede esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -937,9 +943,9 @@ No puede ser Gobernador:
 
 I. El ministro de culto religioso, salvo que dejare de ser ministro de culto con la anticipación y en la forma que establece la Ley Reglamentaria del Artículo 130 de la Constitución General de la República;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión; durante la extinción de una pena corporal; y por resolución o sentencia ejecutoria que imponga como pena la suspensión de los derechos o prerrogativas de los ciudadanos;
+II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión; durante la extinción de una pena corporal; por resolución o sentencia ejecutoria que imponga como pena la suspensión de los derechos o prerrogativas de los ciudadanos; o por tener una sentencia que haya causado estado por Faltas Administrativas Graves, en términos de la Ley de Responsabilidades Administrativas del Estado;
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -1633,7 +1639,9 @@ I. Las personas que desempeñen cargos públicos de elección popular, sean de l
 
 II. Los Magistrados, tanto del Supremo Tribunal de Justicia, como de la Sala Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado;
 
-III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya caudado (sic) estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
 
 IV. Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
 
@@ -1717,9 +1725,9 @@ II.- Las participaciones federales que serán cubiertas por la Federación a los
 
 III.- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base a sus ingresos disponible (sic) y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 65 de esta Constitución.
+El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base a sus ingresos disponibles y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los presidentes municipales, síndicos, regidores y los demás servidores públicos municipales, sujetándose a lo dispuesto en el artículo 65 de esta Constitución. Asimismo, las asignaciones para el desempeño de la función deberán sujetarse a los criterios de racionalidad, austeridad y disciplina presupuestaria.
 
 Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o bien por quien ellos autoricen, conforme a la Ley.
 
@@ -3210,5 +3218,37 @@ P.O. 17 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 344 "SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 82, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 82 A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTICULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 388, EXPEDIDO POR LA LXIII LEGISLATURA.- SE ADICIONA UN OCTAVO PÁRRAFO, RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES, AL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES, (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Artículo Primero del presente Decreto iniciará su vigencia el día siguiente de la publicación en el Periódico Oficial del Estado de Aguascalientes, de la Declaratoria Constitucional respectiva, en términos del Artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Articulo Segundo del presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, no obstante lo dispuesto por el Artículo Tercero Transitorio
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo del Estado, en un plazo máximo de 180 días hábiles contados a partir de la publicación de este Decreto, dispondrá lo necesario para crear uno o varios programas que cumplan con las reformas establecidas en el mismo.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 390, EXPEDIDO POR LA LXIII LEGISLATURA.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 20, LAS FRACCIONES XXXVII Y XXXVIII DEL ARTÍCULO 27, A LA FRACCIÓN II DEL ARTÍCULO 38, Y LA FRACCIÓN III DEL DÉCIMO PRIMER PÁRRAFO DEL ARTÍCULO 66; ASÍ COMO SE ADICIONA UNA FRACCIÓN XXXIX AL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTICULO ÚNICO.
+
+Cumplidos los extremos del Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 22.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)".]
+
+###### ARTÍCULO ÚNICO.
 
 Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
