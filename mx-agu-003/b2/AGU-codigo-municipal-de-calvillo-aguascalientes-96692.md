@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2018-09-17"
+last_updated: "2018-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "AGU"
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE DICIEMBRE DE 2018.]</small>
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2607,19 +2609,33 @@ III. ÓRGANO INTERNO DE CONTROL
 
 A) DEPARTAMENTO ADMINISTRATIVO
 
-B) DIRECCIÓN DE (SIC) INVESTIGADORA
+> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-I. Departamento de Investigación y Auditorias Especializadas.
+B) DIRECCIÓN DE INVESTIGACIÓN
 
-II. Departamento de Calificación de Faltas.
+> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-C) DIRECCIÓN SUBSTANCIADORA
+I. Departamento de Auditoría de Obra Pública
+
+> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+II. Departamento de Auditoría Financiera.
+
+> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+II (SIC). Departamento de Calificación y Asesoría Jurídica.
+
+> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+C) DIRECCIÓN SUBSTANCIADORA y RESOLUTORA
 
 I. Departamento de Acuerdos.
 
-II. Departamento de Proyectos de Resolución.
+> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-C) DIRECCIÓN INTERNA DE CONTROL
+II. Departamento de Proyectos y Resoluciones
+
+C) (SIC) DIRECCIÓN INTERNA DE CONTROL
 
 I. Departamento de Rendición de Cuentas y Normatividad.
 
