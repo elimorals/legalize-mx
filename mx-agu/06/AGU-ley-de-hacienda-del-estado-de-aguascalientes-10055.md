@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2018-09-10"
+last_updated: "2018-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -377,79 +377,65 @@ XVI.- La constitución de sociedades civiles y mercantiles.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-### CAPITULO II. Del Impuesto Sobre Diversiones y Espectáculos Públicos
+### CAPITULO II. Del Impuesto Sobre Espectáculos Públicos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 17.
 
-El objeto de este impuesto, es la percepción de ingresos derivados de la realización o explotación de diversiones y espectáculos públicos de cualquier tipo con cuota de admisión, cuando no estén gravados por el Impuesto al Valor Agregado.
+El objeto de este impuesto son los ingresos provenientes de la realización o explotación de espectáculos públicos, cuando no estén gravados por el Impuesto al Valor Agregado.
 
 Para efectos de este impuesto se entiende por:
 
-a).- Diversión pública: La realización de eventos abiertos al público, con propósito de esparcimiento, y en los cuales el asistente participa en el desarrollo de los mismos.
+a) Espectáculo público: La realización de eventos a los que se asiste con el propósito de esparcimiento y en los cuales el asistente es espectador pudiendo participar en el desarrollo de los mismos.
 
-b).- Espectáculo público: La realización de eventos a los que se asiste con el propósito de esparcimiento y en los cuales el asistente es el espectador.
+Para efectos de este inciso, los eventos generadores de los ingresos gravados por este impuesto se mencionan de manera enunciativa más no limitativa:
 
-Los eventos generadores de los ingresos gravados por este impuesto se mencionan de manera enunciativa más no limitativa:
+1. Teatrales;
 
-I.- Diversiones Públicas:
+2. Circenses;
 
-1. Bailes Públicos
+3. Box y Lucha;
 
-2. Patinaje en pistas
+4. Taurinos;
 
-3. Apuestas permitidas de todos tipos
+5. Artísticos;
 
-II.- Espectáculos Públicos:
+6. De rodeos;
 
-1. Teatrales
+7. Charreadas;
 
-2. Circenses
+8. De carreras hípicas o de automotores en general;
 
-3. Box y Lucha
+9. Deportivos;
 
-4. Taurinos
+10. Conciertos musicales;
 
-5. Artísticos
+11. Bailes Públicos; y/o
 
-6. De rodeos
+12. Eventos de cualquier tipo;
 
-7. Charreadas
+b) Boleto: Pase, acto o comprobante que permita el acceso a la diversión o espectáculo público, con costo o de cortesía; y
 
-8. De carreras hípicas o de automotores en general
+c) Autoridad Fiscal Estatal: la Secretaría de Finanzas del Estado.
 
-9. Deportivos
-
-10. Conciertos musicales
-
-11. Eventos de cualquier tipo
-
-c).- Contribuyentes habituales: Aquellas personas físicas o morales que directa o indirectamente realizan más de un evento en el ejercicio fiscal en territorio del Estado.
-
-d).- Contribuyentes eventuales: Aquellas personas físicas o morales que realicen o exploten esporádica o accidentalmente espectáculos o diversiones públicas en el territorio del Estado.
-
-e).- Boleto: Pase, acto ó comprobante que permita el acceso a la diversión ó espectáculo públicos, con costo o de cortesía.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
-
-f).- Autoridad Fiscal Estatal: la Secretaría de Finanzas del Estado.
+Para efecto del inciso a) de este Artículo, no se consideran espectáculos públicos, los juegos o apuestas a que se refiere el capítulo V del Título Segundo de la presente Ley.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEGUNDA. Del Sujeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 18.
 
-Son sujetos del impuesto las personas físicas o morales que perciban ingresos por la realización o explotación de diversiones y espectáculos públicos.
+Son sujetos del impuesto las personas físicas o morales que perciban ingresos por la realización o explotación de espectáculos públicos.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -461,37 +447,37 @@ Son sujetos del impuesto las personas físicas o morales que perciban ingresos p
 
 Son responsables solidarios del pago del impuesto:
 
-I.- Los propietarios o poseedores de establecimientos en los que habitual o eventualmente, por cualquier acto o contrato permitan la realización de diversiones y espectáculos públicos en dichos establecimientos, salvo que den aviso por escrito de la celebración del contrato o del acto correspondiente a la Autoridad Fiscal Estatal previamente a la realización de los espectáculos y diversiones públicas.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-II.- Los Servidores Públicos que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de diversiones o espectáculos públicos, si no expiden el informe a que se refiere el Artículo 27 de esta Ley.
+I. Los propietarios o poseedores de establecimientos e instalaciones en los que por cualquier acto se permita la realización de espectáculos públicos, hasta por el valor del inmueble en el que se lleve a cabo el evento, salvo que den aviso por escrito informando acerca de la celebración del contrato o del acto correspondiente a la Autoridad Fiscal Estatal previamente a la realización de los espectáculos públicos, dando a conocer de manera simultánea dicho acto; y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+II. Los Servidores Públicos que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de espectáculos públicos, si no expiden el informe a que se refiere el Artículo 27 de esta Ley.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION CUARTA. De la Base
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 20.
 
-La base para el pago de este impuesto es el monto total de los ingresos obtenidos con motivo de la venta de boletos para la asistencia a las diversiones o espectáculos públicos, así como las cantidades que se perciban en calidad de donativos, por cuotas de cooperación o por cualquier otro concepto que condicione el acceso a la diversión pública o espectáculo público, ya sea directamente o por conducto de un tercero, incluyendo las que se paguen por derecho a reservar, apartar o adquirir anticipadamente el boleto de acceso a la diversión pública o espectáculo público.
+La base para el pago de este impuesto es el monto total de los ingresos obtenidos con motivo de la venta de boletos para la asistencia a los espectáculos públicos, así como los ingresos que se perciban en calidad de donativos, por cuotas de cooperación o por cualquier otro concepto que condicione el acceso al espectáculo público, ya sea directamente o por conducto de un tercero, incluyendo las que se paguen por derecho a reservar, apartar o adquirir anticipadamente el boleto de acceso al espectáculo público.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+Se considerará ingreso acumulable el valor de los boletos de cortesía y pases que permitan el acceso al espectáculo público en forma gratuita cuando excedan al tope señalado en el último párrafo de este Artículo. De igual manera, se considerará ingreso acumulable aquellos pases que mediante pago distinto al valor real del boleto de que se trate, ya sea económico o en especie, se efectúe en beneficio de los sujetos del impuesto.
 
-No se considera ingreso gravable el valor de los boletos de cortesía, de los pases y de los actos que permitan el acceso a la diversión o espectáculo público en forma gratuita o mediante pago distinto al valor real del boleto de que se trate, en términos del párrafo siguiente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-Para los efectos del párrafo anterior, los boletos de cortesía no podrán exceder del 5% del importe total de la venta de los boletos que se consideran ingresos gravables, en términos del primer párrafo de este artículo, por cada función de la diversión o espectáculo público.
+Los boletos de cortesía no podrán exceder del 5% de la capacidad total de las localidades del recinto cuando este no sea utilizado de manera parcial, en este último caso y cuando no sea posible determinar el aforo se considerará el porcentaje citado de acuerdo con el tiraje total de boletos expedidos, por cada evento o función del espectáculo público. Se presume que los boletos de cortesía que excedan el porcentaje citado adquieren el valor más alto de las localidades ofertadas.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 21.
 
-El impuesto por Diversiones y Espectáculos Públicos se determinará aplicando a la base la siguiente:
+El impuesto por Espectáculos Públicos se determinará aplicando a la base la siguiente:
 
 TARIFA:
 
@@ -507,23 +493,23 @@ $0.01 $500.00 5.01%
 
 Los espectáculos públicos consistentes en obras de teatro y funciones de circo pagarán el impuesto a que se refiere el presente artículo, aplicando la tasa del 4% sobre la base, de conformidad a lo dispuesto en la fracción VI del artículo 41 de la Ley del Impuesto al Valor Agregado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 22.
 
-Los pagos del impuesto sobre diversiones y espectáculos públicos, se harán de la siguiente manera:
+Los pagos del impuesto sobre espectáculos públicos, se harán de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-I.- Al concluir el evento y por conducto del verificador que designe la Autoridad Fiscal Estatal, previa autodeterminación por el contribuyente del Impuesto a pagar.
+I.- Al concluir el evento y por conducto del interventor que designe la Autoridad Fiscal Estatal, previa autodeterminación por el contribuyente del Impuesto a pagar.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-II.- Si los contribuyentes eventuales de este impuesto no realizan el pago oportunamente, se hará efectiva la garantía previamente constituida en términos del Código Fiscal del Estado.
+II.- Si los contribuyentes de este impuesto no realizan el pago oportunamente, se hará efectiva la garantía previamente constituida en términos del Código Fiscal del Estado y se hará acreedor a alguna de las sanciones establecidas en el artículo 23 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-III. Cuando a la conclusión del evento, ya fuera habitual o eventual, no hubiera concurrido verificador designado por la Autoridad Fiscal Estatal, el contribuyente presentará declaración con autodeterminación del impuesto, al siguiente día hábil, pudiendo pagar en cualquiera de las formas establecidas en el Artículo 5° Bis de la presente Ley.
+III.- Cuando a la conclusión del evento, no hubiera concurrido el interventor designado por la Autoridad Fiscal Estatal, el contribuyente presentará declaración con autodeterminación del impuesto, al siguiente día hábil, pudiendo pagar en cualquiera de las formas establecidas en el Artículo 5° Bis de la presente Ley; o
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -535,11 +521,11 @@ En caso de no otorgarse la garantía señalada en el párrafo anterior, el pago 
 
 #### SECCION SEXTA. De las Obligaciones de los Contribuyentes
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 23.
 
-Los contribuyentes habituales, tendrán las siguientes obligaciones:
+Los sujetos de este impuesto, tendrán las siguientes obligaciones:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -549,27 +535,37 @@ I.- Inscribirse en el Padrón Estatal de Contribuyentes, a más tardar tres día
 
 II.- Presentar los avisos de cambio de domicilio o suspensión de actividades, ante la Autoridad Fiscal Estatal, dentro de los 3 días siguientes a la fecha en que ocurran tales hechos o circunstancias. Tales avisos podrán hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas del Estado o en las forma (sic) precodificadas correspondientes o a través de medios electrónicos con firma electrónica certificada.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-III.- Dar aviso por escrito a la Autoridad Fiscal Estatal de los permisos o autorizaciones que les otorguen las autoridades competentes para la realización de espectáculos o diversiones públicas, a más tardar el día anterior a su realización. Tales avisos podrán hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas o en las formas precodificadas correspondientes o a través de medios electrónicos con firma electrónica certificada.
+III.- Dar aviso por escrito a la Autoridad Fiscal Estatal de los permisos o autorizaciones que les otorguen las autoridades competentes para la realización de espectáculos públicos, a más tardar el día anterior a su realización. Tales avisos podrán hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas o en las formas precodificadas correspondientes o a través de medios electrónicos con firma electrónica certificada.
 
-IV.- Amparar la cuota de admisión con boleto o comprobante de entrada. Dicho comprobante debe contener como mínimo preimpreso: folio, el nombre o denominación social del contribuyente, espectáculo o diversión de que se trate, precio, fecha e indicarse cuando sea pase o boleto de cortesía.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+IV. Amparar la cuota de admisión con boleto o comprobante de entrada. Dicho comprobante debe contener folio, denominación o razón social del contribuyente, espectáculo de que se trate, precio, fecha, precisar si se trata de boleto de cortesía y contar con el sello de validación por parte de las autoridades fiscales competentes.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 V.- Conservar los talonarios de boletos, pases o cualquier otro comprobante de admisión.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-VI.- Dar aviso a la Autoridad Fiscal Estatal, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función de la diversión o espectáculos públicos, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos. Tal aviso podrá hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas del Estado o en las formas precodificadas correspondientes o a través de medios electrónicos con firma electrónica certificada.
+VI.- Dar aviso a la Autoridad Fiscal Estatal, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función del espectáculo público, a más tardar el mismo día de la celebración del evento, pero antes de que se lleve a cabo el mismo. Tal aviso podrá hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas del Estado, en las formas precodificadas correspondientes o a través de medios electrónicos con firma electrónica certificada.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 VII.- Presentar ante la Autoridad Fiscal Estatal, para su resello, el boletaje incluyendo los boletos de cortesía o cualquier otro comprobante de admisión que expidan y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen las diversiones o espectáculos públicos.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 VIII.- No vender boletos en tanto no estén resellados por la Autoridad Fiscal Estatal. La Autoridad Fiscal Estatal podrá dispensar esta obligación cuando conste el sello de autoridad municipal correspondiente.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 IX.- Permitir en los eventos la presencia de los verificadores que hayan sido designados por la Autoridad Fiscal Estatal, quienes darán cuenta de los ingresos obtenidos por la venta de boletos pudiendo éstos recaudar y expedir el recibo oficial al final del evento, respecto de los impuestos autodeterminados por el contribuyente al suscribir la declaración correspondiente, la cual tendrá carácter de definitiva.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-X.- Presentar declaración autodeterminando el impuesto a pagar respecto a cada evento. Tal declaración podrá hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas del Estado o en las formas precodificadas correspondientes o a través de medios electrónicos con firma electrónica certificada.
+X.- Presentar declaración del impuesto a pagar respecto a cada evento. Tal declaración podrá hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas del Estado o en las formas precodificadas correspondientes o a través de medios electrónicos con firma electrónica certificada.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -585,53 +581,19 @@ La Secretaría de Finanzas del Estado podrá autorizar a los contribuyentes, med
 
 XII.- Constituir garantía del interés fiscal en alguna de las formas previstas en el Código Fiscal del Estado ante la Autoridad Fiscal Estatal, previamente a la realización del evento, por un monto equivalente al veinte por ciento de los boletos emitidos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XIII.- Dar aviso por escrito en los casos de ampliación del período en que se realizarán los espectáculos públicos, ante la Secretaría de Finanzas, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XIV.- Permitir el libre acceso a los interventores designados por la autoridad Recaudadora de la Secretaría de Finanzas, durante la realización del evento.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 24.
 
-Los contribuyentes eventuales, deberán cumplir las siguientes obligaciones:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-I.- Constituir garantía del interés fiscal, en alguna de las formas previstas en el Código Fiscal del Estado ante la Autoridad Fiscal Estatal, previamente a la realización del evento, por un importe equivalente al 6.5 por ciento del monto total de los boletos emitidos.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-II.- Presentar declaración autodeterminando el impuesto a pagar respecto del evento, lo que podrá hacerse por escrito en las formas autorizadas por la Secretaría de Finanzas del Estado o en las formas precodificadas dispuestas para ello o bien a través de medios electrónicos y con firma electrónica certificada.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-III.- Exhibir ante la Autoridad Fiscal Estatal, cuando esta así lo requiera sin que ello implique el ejercicio de sus facultades de comprobación, los libros, registros y documentos relacionados con el o los eventos, así como los boletos que no hayan sido vendidos, los cuales deberán tener todas sus secciones y estar adheridos a los talonarios respectivos.
-
-Esta obligación podrá cumplirse en forma física o a través de medios electrónicos si los libros, registros o documentos, se conservaran en archivos electrónicos;
-
-En caso de que los contribuyentes no presenten la documentación descrita en el párrafo anterior, en los plazos establecidos en las disposiciones fiscales aplicables, la Autoridad Fiscal Estatal podrá determinar presuntivamente, salvo prueba en contrario, que fueron vendidos todos aquéllos boletos que no sean exhibidos ante la Autoridad Fiscal Estatal, para lo cual podrán considerar la capacidad de aforo del lugar o establecimiento en el que se realice la diversión o espectáculo público, de conformidad con la autorización emitida por la autoridad municipal competente.
-
-La Secretaría de Finanzas del Estado podrá autorizar a los contribuyentes, mediante reglas de carácter general que para tal efecto se emitan, la utilización de sistemas electrónicos alternos de control, para la emisión de boletos de las diversiones y espectáculos públicos que se realicen en el Estado, verificando que dichos sistemas cuenten con niveles de seguridad que garanticen su confiabilidad, respecto a los boletos vendidos y no vendidos.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-IV.- Dar aviso por escrito o a través de medios electrónicos y con firma electrónica certificada, ante la Autoridad Fiscal Estatal, de las autorizaciones o permisos que les sean otorgados por las autoridades competentes para la realización de diversiones o espectáculos públicos que indique el inicio o el periodo durante el que se realizará la diversión o el espectáculo, a más tardar el día anterior al que éstos inicien.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-V.- Dar aviso por escrito o a través de medios electrónicos y con firma electrónica certificada, correspondiente ante la misma autoridad que se señala en la Fracción anterior, en los casos de suspensión temporal o definitiva de la diversión o espectáculo público, cuando menos con un día de anticipación a la realización de (sic) evento.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-VI. - Dar aviso por escrito o a través de medios electrónicos y con firma electrónica certificada, en los casos de ampliación del período en que se realizarán los espectáculos o diversiones públicas, ante la Autoridad Fiscal Estatal, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar.
-
-VII.- Amparar la cuota de admisión con boleto o comprobante de entrada, debiendo contener como mínimo preimpreso: folio, el nombre o denominación social, espectáculo o diversión de que se trate, precio, fecha e indicarse cuando sea pase o boleto de cortesía.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-VIII.- Dar aviso por escrito o a través de medios electrónicos y con firma electrónica certificada a la Autoridad Fiscal Estatal, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que corresponden a cada función de la diversión o espectáculo público, a más tardar el mismo día de la celebración de dichos eventos, pero antes que se lleven a cabo los mismos.
-
-IX.- Presentar ante la Autoridad Fiscal Estatal para su resello, el boletaje incluyendo los boletos de cortesía que expidan y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen la diversión ó espectáculos públicos.
-
-X.- No vender boletos en tanto no estén resellados por la Autoridad Fiscal Estatal, quien podrá dispensar esta obligación cuando conste el sello de la autoridad municipal correspondiente; y
-
-XI.- Permitir en los eventos la presencia de los verificadores que hayan sido designados por la Autoridad Fiscal Estatal, quienes darán cuenta de los ingresos obtenidos, pudiendo éstos recaudar y expedir el recibo oficial al final del evento, respecto de los impuestos autodeterminados por el contribuyente al suscribir la declaración respectiva, la cual tendrá carácter de definitiva.
+Los propietarios o poseedores de bienes inmuebles que por cualquier acto concedan el uso o goce para la realización o explotación de espectáculos públicos, deberán dar aviso a la Autoridad Fiscal Estatal sobre la realización del evento a más tardar al día siguiente al que fueron contratados.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -643,7 +605,9 @@ A.- Son infracciones:
 
 I.- No inscribirse en el padrón fiscal de la Autoridad Fiscal Estatal o hacerlo fuera de los plazos legales.
 
-II.- No presentar, no proporcionar o presentar extemporáneamente, los documentos señalados en esta Ley, salvo cuando se presenten de manera espontánea.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+II.- No presentar, no proporcionar o presentar extemporáneamente, los documentos señalados en esta Ley.
 
 III.- Presentar los documentos, informes y datos señalados en esta Ley, incompletos o con errores o en forma distinta a lo señalado en esta Ley.
 
@@ -651,55 +615,91 @@ IV.- Presentar los avisos, declaraciones y los demás documentos señalados en e
 
 V.- No expedir el boleto o comprobante de entrada con los requisitos señalados en esta Ley.
 
-VI.- No presentar para su resello el boletaje que expidan en el plazo señalado en esta Ley.
+VI.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
-VII.- No pagar el impuesto en términos de esta Ley, salvo que se realice de manera espontánea; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-VIII.- Resistirse por cualquier medio a la verificación del cumplimiento de sus obligaciones fiscales; no suministrar los datos, informes y documentos que legalmente puedan exigir los verificadores o impedir el acceso al lugar en donde se lleve a cabo el evento.
+VII.- No pagar el impuesto en términos de esta Ley, salvo que se realice de manera espontánea;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VIII.- Resistirse por cualquier medio a la verificación del cumplimiento de sus obligaciones fiscales; no suministrar los datos, informes y documentos que legalmente puedan exigir los verificadores o impedir el acceso al lugar en donde se lleve a cabo el evento; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+IX.- Los propietarios o poseedores de bienes inmuebles donde se realicen los eventos en su carácter de terceros relacionados que no den aviso a la Autoridad Fiscal Estatal sobre la realización de algún evento para el que fueron contratados.
 
 B.- Se sancionarán las infracciones señaladas en el apartado anterior con las siguientes multas:
 
-I.- De $1,000.00 a $3,000.00 a las comprendidas en las fracciones I y II.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-II.- De $300.00 a $800.00 a la comprendida en la fracción III.
+I.- De $5,000.00 a $10,000.00 a las comprendidas en las fracciones I y II, procediendo las autoridades fiscales a inscribir al Padrón de Contribuyentes al infractor.
 
-III.- De $2,000.00 a $7,000.00 a la comprendida en la fracción IV.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-IV.- De $5,000.00 a $10,000.00 a las comprendidas en las fracciones V y VI.
+II.- De $5,000.00 a $10,000.00 a la comprendida en la fracción III.
 
-V.- Del 25% al 50% del impuesto actualizado omitido, a la comprendida en la fracción VII; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-VI.- De $5,000.00 a $15,000.00 a la comprendida en la fracción VIII.
+III.- De $10,000.00 a $20,000.00 a la comprendida en la fracción IV.
 
-En caso de reincidencia en alguna de las infracciones señaladas en este artículo, se podrá suspender la realización de cualquier evento de diversión o espectáculo público pudiendo solicitar el auxilio de la fuerza pública en caso de ser necesario.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+IV.- De $10,000.00 a $20,000.00 a la comprendida en la fracción V. Lo anterior no libera al contribuyente de pagar el impuesto que se hubiese causado.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+V.- Del 30% al 55% del impuesto omitido, a la comprendida en la fracción VII;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VI.- De $10,000.00 a $25,000.00 a la comprendida en la fracción VIII. Lo anterior no exime a la autoridad de llevar a cabo la determinación presuntiva de los ingresos acumulables, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VII.- De $4,000.00 a $8,000.00 a la comprendida en la Fracción IX.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+Además de las sanciones anteriormente citadas la Autoridad Fiscal Estatal podrá suspender temporalmente o clausurar la realización de cualquier evento de espectáculo público pudiendo solicitar el auxilio de la fuerza pública en caso de ser necesario, si se percata que no se cumplió con las obligaciones previstas por el Artículo 23 de la presente Ley, antes o durante la realización del evento, en los términos del artículo siguiente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+La suspensión a que refiere el párrafo anterior consistirá en el diferimiento del inicio del evento hasta en tanto se cumpla con las obligaciones.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 26.
 
-Cuando no se cumplan las obligaciones previstas en esta Ley, la Autoridad Fiscal Estatal, mediante mandamiento escrito podrá suspender el evento, solicitando en su caso el auxilio de la fuerza pública.
+Cuando no se cumplan las obligaciones previstas en esta Ley, la autoridad Fiscal Estatal mediante mandamiento escrito podrá:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+a) Suspender temporalmente el evento cuando se haya omitido cumplir con las obligaciones previstas en las Fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XII del Artículo 23 de la presente Ley.
+
+b) Clausurar el evento cuando se haya omitido cumplir con lo establecido en la Fracción XI del Artículo 23 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 27.
 
-Los funcionarios encargados de dar permiso o licencia para la celebración de cualquier diversión o espectáculo público deberán informar, por medios electrónicos, a la Autoridad Fiscal Estatal de las autorizaciones que otorguen a más tardar el día hábil anterior al de la realización de los eventos generadores del impuesto.
+Los funcionarios encargados de dar permiso o licencia para la celebración de cualquier espectáculo público deberán informar, por medios electrónicos, a la Autoridad Fiscal Estatal de las autorizaciones que otorguen a más tardar el día hábil anterior al de la realización de los eventos generadores del impuesto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 28.
 
-Este impuesto en ningún caso, debe ser repercutido al adquirente del boleto.
+El contribuyente no podrá en ningún caso trasladar dicho impuesto.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEPTIMA. De las Excepciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 29.
 
-Estarán exceptuados del pago de éste Impuesto:
+Se exenta del pago del Impuesto a:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 I.- La Federación, el Estado y los Municipios, cuando el objeto del impuesto a que se refiere este Capítulo corresponda a sus funciones de derecho público;
 
@@ -707,15 +707,103 @@ I.- La Federación, el Estado y los Municipios, cuando el objeto del impuesto a 
 
 II.- Las instituciones, asociaciones de beneficencia pública o privada y cualquier otra persona moral sin fines de lucro, que acrediten a satisfacción de la Autoridad Fiscal Estatal que los fondos que se recauden fueron destinados a actividades de beneficencia.
 
-III.- Los Partidos Políticos Nacionales con registro, cuando acrediten a satisfacción de la Autoridad Fiscal Estatal que los eventos se realizaron con objeto de allegarse recursos para el cumplimiento de sus fines.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+III.- Los Partidos Políticos Nacionales con registro, cuando acrediten a satisfacción de la Autoridad Fiscal Estatal que los eventos se realizaron con objeto de allegarse recursos para el cumplimiento de sus fines en período electoral.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 En caso de haber sido otorgada la excepción del Impuesto a que se refiere el presente Capítulo y haya sido pagado, procederá su devolución en términos del Código Fiscal del Estado.
 
-Cuando los entes a que se refieren las fracciones II y III, soliciten la excepción a que se refiere este artículo y tengan celebrado algún tipo de contrato con terceros para la organización y realización de las diversiones y/o espectáculos públicos, únicamente estarán exceptuados del Impuesto Sobre Diversiones y Espectáculos Públicos por los ingresos que el tercero les haga participe, y que estén previamente acordados en el contrato. A la parte no exceptuada de éste, se le aplicará la tasa correspondiente conforme a la tarifa establecida en el Artículo 21 de esta Ley.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+Cuando los entes a que se refieren las fracciones II y III, soliciten la excepción a que se refiere este artículo y tengan celebrado algún tipo de contrato con terceros para la organización y realización de los espectáculos públicos, únicamente estarán exceptuados del Impuesto Sobre Espectáculos Públicos por los ingresos que el tercero les haga participe, y que estén previamente acordados en el contrato. A la parte no exceptuada de éste, se le aplicará la tasa correspondiente conforme a la tarifa establecida en el Artículo 21 de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Lo anterior es independiente del cumplimiento con el pago de Derechos a que se refiere la Ley de Ingresos del Estado que corresponda al ejercicio fiscal de que se trate.
 
-Para la aplicación de este Capítulo, se estará a lo dispuesto en los Lineamientos que para tal efecto publique la Secretaría de Finanzas del Estado de Aguascalientes.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 29 A.- Para que se otorgue la excepción a los sujetos que prevé el Artículo 29 de la presente Ley se deberán sujetar a lo siguiente:
+
+A. La petición deberá contener los siguientes requisitos en los supuestos señalados en las Fracciones I, II y III del Artículo 29 de la presente Ley:
+
+a) Dirigido a la Dirección General Jurídica con copia para la Dirección General de Recaudación, ambas de la Secretaría.
+
+b) Firmado por el funcionario público o persona legalmente facultada para hacerlo o el representante legal según sea el caso.
+
+c) Señalar lugar y fecha de expedición de la petición que formula.
+
+d) Señalar domicilio para oír y recibir notificaciones.
+
+e) Señalar nombre de las personas autorizadas para recibir notificaciones.
+
+f) Señalar la petición de excepción del Impuesto, citando el nombre del evento por el cual la solicita, fecha de realización del mismo, así como el domicilio donde se llevó a cabo.
+
+g) Señalar el Registro Federal de Contribuyentes de la persona que solicita la excepción.
+
+h) Señalar que el evento corresponde a sus funciones de derecho público, demostrando para que causa fue destinado el monto recaudado, exclusivamente en el supuesto que establece la Fracción I del Artículo 29 de la Ley.
+
+i) Señalar que los fondos recaudados por la realización del evento fueron destinados a actividades de beneficencia solo en el supuesto establecido (sic) Fracción II del Artículo 29 de la Ley.
+
+j) Señalar que el evento se realizó con objeto de allegarse recursos para el cumplimiento de sus fines exclusivamente en el supuesto que establece la Fracción III del Artículo 29 de la Ley.
+
+B. Al escrito de petición de excepción del impuesto a que se refiere el Artículo 29 de esta Ley se deberá adjuntar la siguiente documentación:
+
+I. Para lo establecido en las Fracciones I y III del Artículo 29 de esta Ley:
+
+a) Copia certificada del nombramiento oficial de la persona que promueve.
+
+b) Copia certificada de la Credencial de elector de la persona que promueve.
+
+c) Copia certificada del contrato de prestación de servicios del evento de que se trate.
+
+d) Copia de la cédula fiscal de la persona con quien celebro el contrato de prestación de servicios a que se refiere el inciso anterior.
+
+e) Acuse de recibo de la Secretaría del aviso presentado ante la misma sobre la realización del evento que se lleve a cabo en el Estado, con diez días hábiles de anticipación a la fecha de realización del mismo, señalando fecha, hora y domicilio en que se llevará a cabo así como el número de boletos y precio, con la descripción correspondiente.
+
+f) Original del comprobante de pago correspondiente a la verificación del evento de que se trate expedido por concepto de derechos por la Secretaría.
+
+II. Para lo establecido en la Fracción II del Artículo 29 de esta Ley:
+
+a) Copia certificada de la escritura pública de la constitución de la sociedad o asociación de que se trate, en la que señale como objeto social el realizar actividades para lograr mejores condiciones de · subsistencia y desarrollo social a través de alguna de las siguientes actividades:
+
+1. La atención a requerimientos básicos de subsistencia en materia de alimentación, vestido o vivienda.
+
+2. La asistencia o rehabilitación médica o la atención en establecimientos especializados.
+
+3. La asistencia jurídica, el apoyo y la promoción para la tutela de los derechos de los menores, así como para la readaptación social de personas que han llevado a cabo conductas ilícitas.
+
+4. La rehabilitación de alcohólicos y fármaco dependientes.
+
+5. La ayuda para servicios funerarios.
+
+6. Orientación social, educación o capacitación para el trabajo.
+
+7. La promoción de la participación organizada de la población en las acciones que mejoren sus propias condiciones de subsistencia en beneficio de la comunidad.
+
+8. Apoyo en la defensa y promoción de los derechos humanos.
+
+b) Copia certificada de la escritura pública mediante la cual se demuestre la representación legal de quien promueve.
+
+c) Copia certificada de los estados de cuenta o recibos bancarios que indiquen las transferencias sobre lo recaudado y lo destinado a la beneficencia.
+
+d) Escrito mediante el cual el representante legal señale bajo protesta de decir verdad que los fondos recaudados por el evento son destinados a la beneficencia, indicando el nombre del o los beneficiarios, así como el destino que se le dio a los mismos. Para estos efectos, los beneficiarios deben ser personas, sectores o regiones de escasos recursos, comunidades indígenas o grupos vulnerables, y
+
+e) Copia certificada de la autorización vigente que demuestre la calidad de donataria autorizada por la Secretaría de Hacienda y Crédito Público para recibir donativos o bien la copia del Diario Oficial de la Federación donde se haya publicado como donataria autorizada y se encuentre vigente.
+
+f) Copia certificada de la Credencial de elector del representante legal de la sociedad o asociación.
+
+g) Copia certificada del contrato de prestación de servicios del evento de que se trate.
+
+h) Copia de la cédula fiscal de la persona con quien celebró el contrato de prestación de servicios a que se refiere el inciso anterior.
+
+i) Acuse de recibo de la Secretaría del aviso presentado ante la misma sobre la realización del evento que se lleve a cabo en el Estado, con diez días hábiles de anticipación a la fecha de su realización, señalando fecha, hora y domicilio en que se llevará a cabo, así como el número de boletos y precio, con la descripción correspondiente.
+
+j) Original del comprobante de pago correspondiente a la verificación del evento de que se trate expedido por concepto de derechos por la Secretaría.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -973,7 +1061,7 @@ Para obtener la baja del Padrón Vehicular del Estado o realizar el canje de pla
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Se presume, que el usuario o tenedor del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaria de Finanzas del Estado.
+Se presume, que el usuario o tenedor del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1465,7 +1553,15 @@ ARTICULO 36 P.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
 
 Es objeto de este impuesto los servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de la cual quedan comprendidos los servicios prestados por hoteles, moteles, casas de huéspedes o cualquier instalación creada o utilizada para ese fin sin importar la duración de los mismos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+Asimismo, son objeto de este impuesto aquellos servicios de hospedaje, alojamiento y albergue temporal en casas habitación, departamentos, o en lugares distintos de hoteles, moteles y casas de huéspedes, que se contraten con la intervención de aplicaciones y plataformas digitales, siempre que estas reciban el pago por la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+Se entiende por plataforma digital, el aplicativo que la persona física o moral administradora del programa informático, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, para permitir a los usuarios contratar los servicios de hospedaje, alojamiento y albergue temporal de bienes inmuebles.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios e internados.
 
@@ -1473,13 +1569,15 @@ No se considerarán servicios de hospedaje, el albergue o alojamiento prestados 
 
 #### SECCION SEGUNDA. Del Sujeto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 38.
 
-Están obligadas al pago de este impuesto, las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada o utilizada para ese fin, a cambio de una contraprestación en dinero o en especie, sin importar la duración de los mismos.
+Están obligadas al pago de este impuesto, las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje a que se hace referencia en el artículo anterior.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+El impuesto será retenido por el intermediario al prestador del servicio cuando por su intervención se logre la prestación de servicios a que refiere el segundo párrafo del Artículo 37.
+
+El intermediario deberá inscribirse en el padrón del impuesto correspondiente en su carácter de intermediario a efecto de coadyuvar con las autoridades fiscales en la retención y entero del impuesto.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1505,19 +1603,19 @@ La base para este impuesto estará constituida por el total del ingreso de las c
 
 En ningún caso se considerará que el monto del impuesto forma parte del ingreso neto por los servicios indicados en el artículo 37 de esta ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como bebidas, comidas, transportación, uso de instalaciones u otros similares, y no desglosen y demuestren la prestación de los servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+Se presumirá salvo prueba en contrario, que la prestación de los servicios objeto del impuesto es oneroso en todos los casos.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 41.
 
-El impuesto se calculará aplicando la tasa del 2% sobre la base prevista por el artículo que antecede.
+El impuesto se calculará aplicando la tasa del 3% sobre la base prevista por el artículo que antecede.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1548,6 +1646,14 @@ Numérico
 9 y 10 5 días hábiles adicionales
 
 Los pagos a que se refiere este Artículo podrán hacerse mediante los medios electrónicos que establezca para ello la autoridad recaudadora, debiendo cumplir el contribuyente los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+En tratándose de servicios a que se refiere el párrafo segundo del Artículo 37 de esta Ley, que sean proporcionados a través de un tercero como intermediario que realice tanto el cobro de las contraprestaciones de los servicios de hospedaje, como la retención y entero del presente impuesto, se liberará al contribuyente de la obligación de pago hasta por el monto enterado por el intermediario.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+Tratándose de intermediarios que reciban el pago por el servicio de hospedaje y el Impuesto Sobre Servicios de Hospedaje, deberán presentar a más tardar el día 17 de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca la Secretaría.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1590,6 +1696,10 @@ IV.- Los contribuyentes del impuesto que cuenten con dos o más inmuebles para s
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 V.- Los contribuyentes del impuesto deberán formular declaraciones y realizar los pagos correspondientes hasta en tanto no presenten el aviso de baja al padrón o de suspensión temporal de actividades, sin que dicho aviso los libere de obligaciones cuyo cumplimiento se encuentre pendiente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+VI.- Los intermediarios, además de la obligación establecida en la Fracción I del presente Artículo, estarán obligados (sic) recaudar y enterar el impuesto, así como a informar a las autoridades fiscales en las mismas fechas en que realicen los pagos, los datos de las personas a quienes efectuaron dichas retenciones, en los formatos que para tal efecto establezca la Secretaría de Finanzas del Estado.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1655,61 +1765,53 @@ Al ingreso determinado estimativamente por alguno de los procedimientos anterior
 
 Las facultades descritas en el presente Artículo son independientes y no excluyen la aplicación de las facultades de determinación estimativa previstas (sic) el Código Fiscal del Estado de Aguascalientes.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-### CAPITULO V. Del Impuesto Sobre Loterías, Rifas, Sorteos, Concursos y Juegos con Apuestas
+### CAPITULO V. De los Impuestos por la Obtención de Premios, Realización y Participación en Loterías, Rifas, Sorteos, Concursos y Juegos con Apuestas
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+SUBCAPÍTULO I
+
+Del Impuesto Sobre Loterías, Rifas, Premios y Concursos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 47.
 
-Es objeto de este impuesto la obtención de ingresos derivados de las siguientes actividades:
+Es objeto de este impuesto la obtención de premios derivados o relacionados con la participación en loterías, rifas, sorteos, concursos y juegos con apuestas incluyendo como premios las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades, cuando el premio sea cobrado en el territorio del Estado de Aguascalientes, o cuando realizándose el evento en el Estado, el premio sea cobrado fuera del mismo.
 
-I.- Organización o explotación de loterías, rifas, sorteos, concursos y juegos con apuestas permitidas, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos, o aún cuando el importe de lo cobrado por la participación en ese evento sea inferior al costo del premio.
-
-II.- Distribución y venta de billetes, boletos, contraseñas o instrumentos que permitan participar en los eventos o actividades a que se refiere esta sección, aun cuando el importe de lo cobrado por la participación en ese evento sea inferior al costo del premio.
-
-III.- Recepción, registro, cruce o captación de apuestas, no obstante que el organizador del evento se encuentre fuera del territorio del Estado y de que el evento de cuyo resultado dependa la obtención del premio, se celebre también fuera del territorio estatal, aun cuando el importe de lo cobrado por la participación en ese evento sea inferior al costo del premio.
-
-IV.- Obtención de los premios derivados o relacionados con las actividades a que se refiere esta sección, incluyendo como premios las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades, cuando el premio sea cobrado en el territorio del Estado de Aguascalientes, o cuando realizándose el evento en el Estado, el premio sea cobrado fuera del mismo.
-
-Se considera para los efectos de esta Fracción que se obtiene el premio por el organizador, cuando una vez realizado el evento ya sea de loterías, rifas, sorteos, concursos y juegos con apuestas de toda clase a que se refiere esta sección, no exista por virtud del mismo persona que lo haya obtenido.
+Se considera que se obtiene el premio por el organizador, cuando una vez realizado el evento ya sea de loterías, rifas, sorteos, concursos de toda clase a que se refiere esta Sección, no exista por virtud del mismo (sic) persona que lo haya obtenido.
 
 No se considerará como premio el reintegro correspondiente al billete que permitió participar en la lotería, rifa, sorteo o concurso aplicable.
 
-V.- Organización de las actividades a que se refiere la Fracción I de este Artículo u obtención de los premios derivados de las mismas, cuando los billetes, boletos o contraseñas, sean distribuidos en el Estado, independientemente del lugar donde se realice el evento.
+También se considera como objeto del impuesto, la obtención de los premios por las actividades ya referidas, cuando los billetes, boletos o contraseñas, sean distribuidos en el Estado, independientemente del lugar donde se realice el evento.
 
-Este impuesto se causará independientemente de la denominación que se le dé al pago necesario para participar en las actividades a que se refiere esta sección.
+Para los efectos de este impuesto, se incluyen dentro del objeto, independientemente del nombre con el que se les designe:
 
-El pago de este impuesto no libera de la obligación de obtener previamente los permisos o autorizaciones correspondientes, de conformidad con las disposiciones jurídicas respectivas.
+1. Aquellas actividades en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
 
-No se considerará como premio el reintegro correspondiente al billete que permitió participar en la lotería, rifa, sorteo o concurso aplicable.
+2. Aquellas actividades en las que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+3. Los premios que se obtengan en apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
 
-ARTICULO 47 BIS.- Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas permitidas, independientemente del nombre con el que se les designe, aquellos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+###### ARTICULO 47 Bis.
 
-Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
-
-Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
-
-Igualmente, quedan comprendidos en los juegos con apuestas, aquéllos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
-
-Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEGUNDA. De los Sujetos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 48.
 
-Son sujetos de este impuesto las personas físicas y morales que obtengan ingresos derivados de las actividades descritas en Título Segundo, Capítulo V, Sección Primera de la presente Ley.
+Son sujetos de este impuesto las personas físicas y morales residentes en el Estado que obtengan premios derivados de las actividades descritas en el Artículo 47 de la presente Ley.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1725,29 +1827,15 @@ Son solidarios responsables del pago de este impuesto, los organizadores del eve
 
 #### SECCION CUARTA. De la Base
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 50.
 
-La base del impuesto se determinará conforme a las siguientes disposiciones:
-
-I.- Para los supuestos señalados en la Fracción I y II del Artículo 47 de esta Ley, se considerará el valor total de la emisión de los boletos, billetes, contraseñas, documentos, objetos, registros o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquéllos no enajenados y que no participen en la posibilidad de obtener premios, así como el monto de los premios efectivamente pagados o entregados.
-
-Cuando los billetes, boletos, contraseñas, documentos, objetos o registros sean distribuidos gratuitamente o no se exprese su valor o la suma del valor de éstos sea igual o inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios;
-
-II.- Para los sujetos de este impuesto que realicen las actividades señaladas en los Artículos 47 y 47 Bis de la presente Ley fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas y cualquier otro comprobante que se haya vendido dentro del Estado;
-
-III.- Para los supuestos señalados en la Fracción III del Artículo 47 de esta Ley, se considerará el monto total de los ingresos obtenidos por quien organice, realice o explote el juego con apuestas permitido o por quien reciba, registre, cruce o capte las apuestas, disminuyendo el monto de los premios efectivamente pagados o entregados;
-
-IV.- Para los supuestos señalados en la Fracción IV del Artículo 47 de esta Ley, se considerará el monto total del premio en efectivo, o el valor del bien en que consista el premio, determinado por el organizador del concurso, sorteo, rifa, lotería o juegos permitidos con apuestas, o en su defecto, el valor de avalúo practicado por perito autorizado en la materia, a solicitud de la autoridad fiscal.
-
-En el caso de juegos con máquinas de sistemas, programas automatizados o computarizados, serán los ingresos obtenidos provenientes de la participación en éstos.
+La base del impuesto se determinará considerando el monto total del premio en efectivo, o el valor del bien en que consista el premio, determinado por el organizador del concurso, sorteo, rifa, lotería o juegos permitidos con apuestas, o en su defecto, el valor de avalúo practicado por perito autorizado en la materia, a solicitud de la autoridad fiscal.
 
 Tratándose de premios en especie, será el valor con el que se promocione cada uno de los premios; o en su defecto, el valor de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes en el territorio nacional al momento de su causación.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 50 BIS.- El impuesto a que se refiere este Capítulo no deberá estar contenido de forma expresa y por separado en los billetes, boletos y demás comprobantes que permitan participar en los eventos objeto de este impuesto.
+ARTICULO 50 BIS. (DEROGADO, P.O. 10 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1763,247 +1851,277 @@ El impuesto establecido en este capítulo, se calculará aplicando sobre la base
 
 #### SECCION SEXTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-###### ARTICULO 52.
+###### ARTÍCULO 52.
 
-Este impuesto se causa al realizarse las hipótesis generadoras del mismo, previstas en Título Segundo, Capítulo V, Sección Primera de la presente Ley.
+Este impuesto se causa al realizarse las hipótesis generadoras del mismo, previstas en el Artículo 47 de la presente Ley.
 
-Los sujetos obligados al pago del impuesto por responsabilidad directa o por retención, realizarán el pago a más tardar el día 17 del mes inmediato siguiente a aquél en que se cause el impuesto. El pago se hará mediante declaración mensual que se presentará ante las oficinas de la Autoridad Fiscal Estatal, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de Finanzas del Estado, en los bancos que autorice dicha Secretaría o bien mediante transferencia electrónica, dentro del término de 15 días naturales siguientes a la fecha en que se efectúe el cobro del premio, debiendo observarse en este caso los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes. Dicho pago se entenderá definitivo.
+Las personas físicas y morales residentes en el Estado que realicen loterías, rifas, sorteos y concursos de los cuales se obtengan premios, están obligados a retener y a enterar el impuesto correspondiente al premio otorgado, a más tardar el día 17 del mes inmediato siguiente a aquél en que se cause el impuesto, mediante declaración que contenga la descripción de los actos realizados en el mes inmediato anterior por los que se cause el impuesto.
 
-Quienes realicen las actividades previstas en las fracciones I, II, III y V del Artículo 47 de esta Ley de manera habitual, deberán presentar a más tardar el día 17 de cada mes, una declaración que contenga la descripción de los actos realizados en el mes inmediato anterior por los que se cause el impuesto.
+Para el caso de las personas físicas o morales residentes en el Estado que obtengan premios fuera del mismo, estarán obligados a realizar el pago se hará mediante declaración mensual que se presentará ante las oficinas de la Autoridad Fiscal Estatal, en las formas oficiales o ante las instituciones de crédito autorizadas por la Secretaría de Finanzas del Estado, en los bancos que autorice dicha Secretaría o bien mediante transferencia electrónica, dentro del mismo plazo señalado en el párrafo anterior.
 
-Para los efectos de este impuesto se consideran sujetos habituales, aquéllas personas que realicen dos o más actividades objeto de éste impuesto, en un ejercicio fiscal.
+Para efectos del párrafo anterior, procederá el acreditamiento del Impuesto correspondiente, siempre que se acredite la retención o pago efectuado en otra entidad por un monto igual al que debió pagarse en el Estado.
+
+Cuando el pago resulte menor en la otra entidad, estará obligado a realizar el pago por la diferencia correspondiente.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEPTIMA. De la Retención
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTICULO 53.
 
-Aquéllos contribuyentes que realicen las actividades previstas en las Fracciones I, II, III y V del Artículo 47 de esta Ley, estarán obligados a retener y a enterar el impuesto correspondiente al premio otorgado, en los plazos establecidos en el segundo párrafo del Artículo anterior.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION OCTAVA. De la Causación y Excepciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 54.
 
-Quedan exceptuados del pago del impuesto:
-
-I.- Los partidos y organizaciones políticas reconocidas, siempre que los ingresos obtenidos sean destinados a los fines propios para los que fueron constituidos;
-
-II.- Las instituciones de asistencia privada legalmente constituidas, siempre que los ingresos obtenidos sean destinados a los fines propios para los que fueron constituidas;
-
-III.- Las asociaciones religiosas registradas ante la Secretaría de Gobernación, siempre que los ingresos obtenidos sean destinados a los fines propios para los que fueron constituidas;
-
-IV.- Las agencias autorizadas de conformidad con la legislación aplicable en la materia que realicen o efectúen sorteos para la adjudicación de vehículos automotores derivados de planes de autofinanciamiento;
-
-V.- Los obtenidos de sorteos de bonos del ahorro nacional y de planes de ahorro administrados por el Patronato del Ahorro Nacional;
-
-VI.- Las sociedades o asociaciones de carácter civil que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación, así como las instituciones creadas por ley o por decreto presidencial, cuyo objeto sea la enseñanza, cuando estén autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, siempre que los ingresos obtenidos se destinen a los fines propios de su objeto social, no se otorguen a persona alguna beneficios sobre el remanente distribuible y que al momento de su liquidación y con motivo de la misma, destinen la totalidad de su patrimonio a entidades autorizadas por el Servicio de Administración Tributaria para recibir donativos deducibles.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VII.- Los organismos públicos centralizados y descentralizados de la administración pública federal, estatal o municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, por la enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, concursos y juegos con apuestas de toda clase, organizados por estos organismos;
-
-VIII.- Los Ayuntamientos del Estado que destinen el producto de las actividades gravadas por este impuesto a la asistencia social o privada, previa autorización de la Secretaría de Finanzas del Estado.
+Quedan exceptuados del pago del impuesto los Premios que sean obtenidos por las instituciones de asistencia privada legalmente constituidas; las sociedades o asociaciones de carácter civil que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación, así como las instituciones creadas por ley o por decreto presidencial, cuyo objeto sea la enseñanza, cuando estén autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION NOVENA. De las Obligaciones
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+ARTICULO 54 BIS. (DEROGADO, P.O. 10 DE DICIEMBRE DE 2018)
 
-ARTICULO 54 BIS.- Quienes organicen, realicen o exploten los actos o actividades por los que se cause este impuesto, tendrán las siguientes obligaciones:
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-I.- Dar aviso a la Autoridad Fiscal Estatal dentro de los diez días anteriores al evento, salvo aquellos contribuyentes habituales, quienes dentro de los primeros 10 días de cada mes y previo a la realización de dichos eventos, deberán presentar un aviso por todos ellos;
+SUBCAPÍTULO II
 
-II.- Garantizar el pago del impuesto a través de los medios de garantía que mediante reglas de carácter general apruebe la Secretaría de Finanzas del Estado;
+Del Impuesto Sobre la Realización de Juegos con Apuestas y Sorteos
 
-III.- Llevar contabilidad en un registro específico de las operaciones por las que se cause este impuesto;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-IV.- Señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o actividades, el valor de los premios, aún cuando éstos sean en especie;
+#### SECCIÓN PRIMERA. Del objeto
 
-V.- Presentar declaración mensual informativa dentro de los primeros 10 días del mes siguiente al en que se realizaron los eventos respecto de las personas físicas y morales, incluidas las asociaciones en participación, que obtuvieron premios derivados de loterías, rifas, sorteos o juegos con apuestas, conforme a las reglas de carácter general que emitirá la Secretaría de Finanzas del Estado;
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-VI.- Calcular y retener el impuesto que corresponda a los premios obtenidos y enterarlo el día 17 de cada mes posterior al de su causación mediante la declaración prevista en el segundo párrafo del Artículo 52 de esta Ley;
+ARTICULO 54 A.- Es objeto de este impuesto la realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio del Estado.
 
-VII.- Proporcionar constancia de retención del impuesto a la persona que obtenga el premio;
+Quedan comprendidos en los juegos con apuestas, aquéllos en los que solo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
 
-VIII.- Proporcionar constancia de ingresos por los premios por los que no se está obligado al pago del impuesto en los términos de este Capítulo;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-IX.- Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado; utilizando para el efecto la forma aprobada. La Secretaría de Finanzas del Estado podrá inscribir de oficio a los contribuyentes, cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
+#### SECCIÓN SEGUNDA. De los sujetos
 
-X.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda, en los términos del Código Fiscal del Estado;
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XI.- Expedir boletos o comprobantes impresos previamente autorizados por la autoridad competente, que den derecho a participar en la lotería, rifa, sorteo, concurso o juego con apuesta legalmente permitidos numerados progresivamente, en los que se exprese el nombre de la empresa, el tipo de actividad, costo del mismo, los datos de la imprenta autorizada, número de folios de boletos emitidos, la fecha de emisión, y presentar la autorización ante la Secretaría de Finanzas del Estado, cuando menos cinco días hábiles antes de que se lleve a cabo la actividad gravada, así como señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en las actividades mencionadas el valor de los premios, aún cuando estos sean en especie;
+ARTICULO 54 B.- Son sujetos de este impuesto las personas físicas o morales que realicen los actos o actividades a que se refiere el Artículo anterior.
 
-La Secretaría de Finanzas del Estado podrá autorizar a los contribuyentes, la utilización de sistemas electrónicos de control para la emisión de boletos, billetes o contraseñas de los eventos de cruce de apuestas, o de loterías, rifas, sorteos, concursos y juegos con apuestas que se realicen en el Estado, verificando que dichos sistemas cuenten con niveles de seguridad que garanticen su confiabilidad, de acuerdo con el procedimiento que la misma determine mediante reglas de carácter general.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCION TERCERA. De la tasa
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 C.- El impuesto se calculará aplicando la tasa del 6% al valor de los actos o actividades realizados, a que se refiere el Articulo 54 A.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCION CUARTA. De la base
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 D.- Se considerará como valor el total de las cantidades efectivamente percibidas de los participantes por dichas actividades. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas.
+
+Tratándose de los juegos o sorteos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
+
+Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el precio a valor comercial de los premios ofertados en ese sorteo.
+
+Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente.
+
+Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
+
+Los valores a que se refiere este artículo se podrán disminuir con el monto de las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en contabilidad y, tratándose de juegos o sorteos en los que se apueste, también se registren en el sistema central de apuestas. Cuando el premio incluya la devolución de la cantidad efectivamente percibida del participante, dicho concepto se considerará como premio.
+
+Cuando el monto de los conceptos mencionados sea superior a los valores de las actividades a que se refiere el Artículo 54 A de esta Ley, correspondientes al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
+
+Se considerará también como valor de los actos o actividades realizados, el total de las cantidades efectivamente percibidas de los participantes por dichas actividades por los operadores, organizadores, supervisores o encargados de los establecimientos de los participantes por dichas actividades, por concepto de acceso y utilización de máquinas o instalaciones relacionadas con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN QUINTA. Del pago
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 E.- El impuesto se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente a aquel en que se causa. Los pagos mensuales se realizaran mediante la presentación de la declaración ante la Secretaría de Finanzas, en las formas oficialmente aprobadas y tendrán el carácter de definitivos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN SEXTA. De las exenciones
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 F.- No se pagará el impuesto a que se refiere el Artículo 54 A, tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio, siempre que el realizador cumpla los requisitos siguientes:
+
+a) No obtengan más de diez permisos para celebrar sorteos en un año de calendario.
+
+b) El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los ingresos obtenidos en el año inmediato anterior.
+
+Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el monto de los premios ofrecidos exceda el porcentaje a que se refiere el párrafo anterior, se pagará el impuesto que corresponda de conformidad con lo dispuesto en este capítulo con la actualización y los recargos respectivos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN SÉPTIMA. Responsabilidad Solidaria
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 G.- Serán responsables solidarios del impuesto, las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+I. Las que organicen, supervisen, sean encargados, administren, exploten o patrocinen los juegos referidos en el Artículo 54 A;
+
+II. Los arrendadores de los establecimientos en los que se realicen los juegos o concursos a que se refiere el Artículo 54 A;
+
+III. Las personas físicas o morales que reciban cantidades a fin de permitir la participación en los juegos objeto del presente impuesto, y
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+SUBCAPÍTULO III
+
+Del Impuesto a las Erogaciones en Juegos con Apuestas
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN PRIMERA. Del Objeto
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 H.- Son objeto de este impuesto, las erogaciones que realicen las personas físicas o morales dentro del territorio del Estado para participar en juegos con apuestas.
+
+Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas independientemente del nombre con el que se les designe, aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas también conocidos como libros foráneos autorizados por autoridad competente para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley Federal de Juegos y Sorteos, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video, audio o ambos.
+
+Se entiende por apuestas remotas, el establecimiento independiente a las instalaciones del Galgódromo, Hipódromo, autódromo, velódromo y demás eventos en los que reciben apuestas sobre los espectáculos presentados en el mismo, bajo el sistema de mutuas, transmitiendo la imagen directa por televisión y audio en forma simultánea.
+
+Igualmente, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
+
+Se entienden como erogaciones para participar en juegos con apuestas, las cantidades que entreguen a operadores de los establecimientos, organizador, supervisor o encargado por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego permitido y de los que requieran permiso especial de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y el Reglamento de la Ley Federal de Juegos y Sorteos, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada sea superior a aquella.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN SEGUNDA. De los sujetos
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 I.- Están obligados al pago del impuesto previsto en este Subcapítulo, las personas físicas y morales que realicen erogaciones dentro del territorio del Estado de Aguascalientes, para participar en juegos con apuestas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN TERCERA. De la base
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 J.- La base de este impuesto será el monto erogado sin incluir el impuesto al valor agregado correspondiente.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN CUARTA. De la tasa
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 K.- El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, crédito, en especie o por cualquier otro medio que permita participar en los mismos.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el Artículo 54-A, o el uso, explotación o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una fecha posterior.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN QUINTA. Del momento de causación
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 L.- El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de un usuario distinto.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN SEXTA. Del pago
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 M.- El organizador, supervisor, encargado, administrador, explotador u operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos, juegos y demás muebles en que se lleven a cabo las suertes, recaudarán el impuesto por cada erogación emitida por el jugador para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas a más tardar el día 17 del mes inmediato siguiente al de su causación.
+
+Cuando el pago o contraprestación a favor del organizador, supervisor, encargado, administrador, explotador u operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo a estos para que puedan recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al organizador, supervisor, encargado u operador del establecimiento de la responsabilidad solidaria prevista en el Artículo 54-O.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN SÉPTIMA. De la individualidad del impuesto
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 N.- El impuesto previsto en esta Sección se causará y pagará con independencia de los impuestos a que se refieren los Subcapítulos I y II del presente Capítulo de esta Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN OCTAVA. De la responsabilidad solidaria
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 O.- Serán responsables solidarios del impuesto, las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+I. Las que organicen, supervisen, sean encargados, administren, exploten o patrocinen los juegos referidos en el Articulo 54 H;
+
+II. Los propietarios o poseedores de los establecimientos en los que se realicen los juegos o concursos a que se refiere el Artículo 54 H, siempre que no dé aviso a las autoridades sobre la realización del acto o contrato mediante el cual se conceda su uso, dentro de los 10 días siguientes a su firma;
+
+III. Las personas físicas o morales que reciban cantidades a fin de permitir la participación en los juegos objeto del presente impuesto, y
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección cuando den en arrendamiento o concedan el uso de las mismas para eventos privados, sin dar el aviso correspondiente a las autoridades fiscales a que hace referencia la Fracción II del presente Artículo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN NOVENA. De las exenciones
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 P.- No se pagará el impuesto cuando los sujetos se ubiquen en cualquier de los siguientes supuestos:
+
+I. Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio.
+
+II. Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio, cuando por causas fortuitas adquieren la calidad de participante.
+
+III. Cuando por situaciones jurídicas que se tengan como cargas impuestas por ministerio de ley o por resolución judicial se obtenga la condición de participante.
+
+IV. En la lotería fiscal, cuando, se ubiquen en los supuestos del Artículo 33·B del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+SUBCAPÍTULO IV
+
+De las Obligaciones Comunes de los Subcapítulos I, II y III del Capítulo V
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 54 Q.- Los organizadores, supervisores, encargados, administradores, explotadores u operadores del establecimiento en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, estarán obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el impuesto recaudado.
+
+Además de lo anterior, tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas del Estado; utilizando para el efecto la forma aprobada. La Secretaría de Finanzas del Estado podrá inscribir de oficio a los contribuyentes, cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
+
+II. Llevar contabilidad en un registro especifico· de las operaciones por las que se cause este impuesto;
+
+III. Calcular y retener el impuesto que corresponda, así como proporcionar la constancia respectiva;
+
+IV. Presentar declaración mensual informativa dentro de los primeros 10 días del mes siguiente al en que se realizaron los eventos respecto de las personas físicas y morales, incluidas las asociaciones en participación, que obtuvieron premios derivados de loterías, rifas, sorteos o juegos con apuestas, conforme a las reglas de carácter general que emitirá la Secretaría de Finanzas del Estado; y
+
+V. Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de las operaciones realizadas y del pago del impuesto que corresponda, en los términos del Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-#### SECCION PRIMERA. Del Objeto
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-#### SECCION SEGUNDA. Del Sujeto
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-#### SECCION TERCERA. De la Responsabilidad Solidaria
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-#### SECCION CUARTA. De la Base
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-#### SECCION QUINTA. Del Pago
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION SEXTA. De las Excepciones
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
-
-#### SECCION PRIMERA. Del Objeto
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION SEGUNDA. Del sujeto
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION TERCERA. De la Responsabilidad Solidaria
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION CUARTA. De la Base
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION QUINTA. De la Tasa y el Pago
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION PRIMERA. Del Objeto
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 70 A.- Es objeto de este impuesto la venta final de bebidas en envase cerrado con contenido alcohólico, alcohol, alcohol desnaturalizado y mieles incristalizables, que se realicen en el territorio del Estado, con excepción de la cerveza en todas sus presentaciones y el aguamiel y los productos de su fermentación, cuyo gravamen se encuentra expresamente reservado al Congreso de la Unión, en términos del Artículo 73, Fracción XXIX, numeral 5, incisos e) y g) de la Constitución Política de los Estados Unidos Mexicanos. Para los efectos de este impuesto se entiende por:
-
-1. Bebidas con contenido alcohólico: las bebidas alcohólicas y las bebidas refrescantes con contenido alcohólico.
-
-2. Bebidas alcohólicas: las que tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
-
-3. Bebidas refrescantes: las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
-
-4. (DEROGADO, P.O. 25 DE MAYO DE 2015)
-
-5. Alcohol: La solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C.
-
-6. Alcohol desnaturalizado: La solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°C, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud.
-
-7. Mieles incristalizables: El producto residual de la fabricación del azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentados expresados en glucosa no excedan del 61 %.
-
-8. Venta final: La que realice cualquier persona física o moral de los bienes a que se refiere este Artículo, al último adquirente en envase cerrado, para su consumo o posterior comercialización en envase abierto.
-
-Para los efectos de este impuesto, también se considerará venta final, el faltante de inventario o el consumo propio de las bebidas descritas en el presente Artículo.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION SEGUNDA. Del Sujeto
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 70 B.- Están obligadas al pago de este impuesto las personas físicas y las morales que en territorio del Estado, realicen la venta de los bienes a que se refiere el Artículo anterior.
-
-La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen contribuciones estatales o estén exentos de ellos, deberán aceptar la traslación de este impuesto y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de esta Ley.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION TERCERA. De la Base
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-ARTICULO 70 C.- La base de este impuesto será el valor de enajenación de los bienes objeto de la presente contribución, siendo éste el precio de venta, disminuyendo el impuesto al valor agregado e impuesto especial sobre producción y servicios que le corresponda según la Ley de la materia.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION CUARTA. De la tasa
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 70 D.- El impuesto se calculará y determinará aplicando a la base que señala el Artículo anterior la tasa del 4.5%.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-#### SECCION QUINTA. Del Pago
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 70 E.- El impuesto se causará al momento en que el enajenante perciba efectivamente los ingresos correspondientes al precio de venta de los bienes a que se refiere este Capítulo.
-
-Para los efectos de este impuesto se considerará que la venta o consumo final de los bienes se efectúa en el territorio del Estado cuando en el mismo se realice la entrega de los mismos por parte del productor, envasador, distribuidor o importador, según sea el caso, para su posterior venta al público en general o consumo.
-
-Asimismo, se presumirá que la entrega se efectuó en territorio del Estado, cuando el adquirente no cuente con la documentación con la que se acredite que la entrega se realizó fuera del mismo, tales como comprobantes de los gastos incurridos por concepto de fletes, acarreos y traslado de los bienes objeto de la presente contribución.
-
-El impuesto se calculará mensualmente y se pagará a más tardar el día diecisiete del mes siguiente a aquél al que corresponda el pago, a través del formato que para tales efectos establezca la Secretaría de Finanzas del Estado. Los pagos mensuales tendrán el carácter de definitivos.
-
-El presente impuesto no será acreditable contra ningún otro impuesto local o federal, ni deberá ser trasladado de forma expresa y por separado a las personas que adquieran los bienes objeto de la contribución. El traslado del impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo los oficiales.
-
-Si un contribuyente tuviera varios establecimientos, locales o sucursales en el territorio del Estado, presentará por todos ellos una sola declaración de pago por las operaciones que correspondan a dichos establecimientos, ante las oficinas autorizadas por la Secretaría de Finanzas del Estado.
-
-Cuando la contraprestación que perciba el contribuyente por la venta de las bebidas no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en este capítulo.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ### CAPITULO VI. Del Impuesto Sobre Adquisición de Vehículos Usados de Motor
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION SEXTA. De las Obligaciones de los Contribuyentes
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 70 F.- Los contribuyentes a que se refiere este Capítulo, además de las obligaciones señaladas en los otros artículos del mismo y en las demás disposiciones fiscales, deberá cumplir con lo siguiente:
-
-a) Empadronarse para los efectos de este impuesto dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la Secretaría de Finanzas del Estado, mediante aviso que será presentado en las formas y ante las oficinas que para tal efecto autorice dicha autoridad.
-
-b) Llevar un registro pormenorizado de las ventas que realice respecto de los bienes a que se refiere el presente capítulo, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto.
-
-c) Expedir comprobantes que reúnan los requisitos establecidos en el Código Fiscal del Estado de Aguascalientes, sin que se traslade en forma expresa y por separado el impuesto establecido en este Capítulo.
-
-d) Pagar el impuesto determinado a su cargo, mediante declaración que será presentada ante la oficina que para tales efectos autorice la Secretaría de Finanzas del Estado, a más tardar el día diecisiete del mes siguiente a aquel a que corresponda el impuesto.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 70 G.- Los distribuidores o comerciantes que enajenen las bebidas a que se refiere el presente Capítulo a quienes a su vez venderán en envase cerrado las citadas bebidas, estarán obligados a llevar un registro mensual de ventas a estas personas, debiendo recabar de ellos y conservar una copia del registro en el padrón ante la Secretaría de Finanzas del Estado a que se refiere el Artículo 70 F inciso a) de la presente Ley.
-
-Los comerciantes que adquieran bebidas objeto del presente impuesto para su posterior comercialización dentro del Estado en envase abierto de distribuidores o comerciantes que enajenen las bebidas a que se refiere el presente Capítulo que tengan su domicilio fiscal fuera del territorio del Estado, estarán obligados a informar a la Autoridad Fiscal Estatal el monto total de las adquisiciones que haya realizado de bebidas a que se refiere el presente Capítulo en el mes inmediato anterior, así como la denominación o razón social del comerciante o distribuidor, su domicilio fiscal y el Registro Federal de Contribuyentes.
-
-Dicha declaración informativa deberá ser presentada a más tardar el día diecisiete del mes siguiente al en que se realizaron las adquisiciones por las cuales se causó el impuesto previsto en el presente Capítulo.
-
-Adicionalmente, los comerciante (sic) que adquieran bebidas objeto del presente impuesto para su posterior comercialización dentro del territorio del Estado en envase abierto de distribuidores o comerciantes que enajenen las bebidas a que se refiere el presente Capítulo que tengan su domicilio fiscal fuera del territorio del Estado, tendrán la obligación de retener y enterar este impuesto.
-
-La retención del impuesto prevista anteriormente, será la que resulte de aplicar la tasa del 4.5% a la base establecida en el Artículo 70 C de esta Ley.
-
-Las retenciones efectuadas deberán ser enteradas a la Autoridad Fiscal Estatal, a través del formato que para tales efectos establezca la Secretaría de Finanzas del Estado.
-
-Dicha retención deberá ser enterada a más tardar el día diecisiete del mes siguiente al que se realizaron las adquisiciones.
-
-En el supuesto de que la entrega de los bienes objeto de la presente contribución haya sido realizada fuera del territorio del Estado, quedarán liberados de la obligación de retención prevista anteriormente, si cuentan con la documentación comprobatoria con la que se acrediten los gastos incurridos por concepto de fletes, acarreos y traslados, además de demostrar que existió razón de negoción (sic) para que la entrega fuera realizada fuera del territorio del Estado.
-
-Quienes no cumplan con las obligaciones señaladas en el presente Artículo, serán responsables solidarios del impuesto que se dejare de pagar respecto de las bebidas enajenadas o adquiridas por ellos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 70 H.- Los municipios recibirán cuando menos el 20% de la recaudación que corresponda al Estado en términos del presente Capítulo, de conformidad con lo dispuesto en el último párrafo del Artículo 10-C de la Ley de Coordinación Fiscal.
+#### SECCION PRIMERA. Del Objeto
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2021,9 +2139,9 @@ En los casos en que la transmisión de la propiedad hubiese sido efectuada en ot
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION PRIMERA. Del Objeto
+#### SECCION SEGUNDA. Del Sujeto
 
-(REUBICADO [N. DE E. ANTES ARTICULO 63], P.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 57.
 
@@ -2031,17 +2149,17 @@ Son sujetos de este impuesto las personas físicas y morales que adquieran vehí
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION SEGUNDA. Del Sujeto
+#### SECCION TERCERA. De la Responsabilidad Solidaria
 
-(REUBICADO [N. DE E. ANTES ARTICULO 64], P.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 58.
 
 Son responsables solidarios del pago de este impuesto:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-I.- El enajenante y el último adquirente.
+I.- El último adquiriente registrado en el Padrón Vehicular, así como el enajenante.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -2057,9 +2175,9 @@ III.- Los intermediarios respecto de las adquisiciones gravadas por este impuest
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION TERCERA. Del Pago
+#### SECCION CUARTA. De la Base
 
-(REUBICADO [N. DE E. ANTES ARTICULO 65], P.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 59.
 
@@ -2155,9 +2273,9 @@ Tratándose de vehículos cuyo año modelo corresponda al periodo anterior a los
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION CUARTA. De la Responsabilidad Solidaria
+#### SECCION QUINTA. Del Pago
 
-(REUBICADO [N. DE E. ANTES ARTICULO 70], P.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 61.
 
@@ -2165,9 +2283,9 @@ El pago de este impuesto se hará en un término de 15 días naturales siguiente
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION QUINTA. De las Excepciones
+#### SECCION SEXTA. De las Excepciones
 
-(REUBICADO [N. DE E. ANTES ARTICULO 72], P.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 62.
 
@@ -2188,6 +2306,10 @@ III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios 
 ### CAPITULO VII. Del Impuesto Sobre Nóminas
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+#### SECCION PRIMERA. Del Objeto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 63.
 
@@ -2257,6 +2379,10 @@ Para que los conceptos mencionados en este precepto, se excluyan como integrante
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
+#### SECCION SEGUNDA. Del sujeto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 64.
 
 Están obligados al pago de este impuesto, las personas físicas y morales, incluidas las asociaciones en participación y los fideicomisos, así como la Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos autónomos, que realicen las remuneraciones por los trabajos mencionados en el Artículo inmediato anterior, dentro del territorio del Estado, independientemente de la denominación que se les otorgue y aun cuando no tuvieren su domicilio en el Estado.
@@ -2266,6 +2392,10 @@ Están obligados al pago de este impuesto, las personas físicas y morales, incl
 La Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos autónomos, están obligadas al pago de este impuesto.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+#### SECCION TERCERA. De la Responsabilidad Solidaria
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 65.
 
@@ -2283,6 +2413,10 @@ Son responsables solidarios del pago de este impuesto, las personas físicas o m
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
+#### SECCION CUARTA. De la Base
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTICULO 66.
 
 La base de este impuesto es el monto de las erogaciones realizadas por concepto de pago al trabajo personal, en términos del Artículo 63 de esta Ley.
@@ -2292,6 +2426,10 @@ La base de este impuesto es el monto de las erogaciones realizadas por concepto 
 Se podrán aplicar a la base del presente impuesto las deducciones, subsidios y estímulos fiscales que para tal efecto disponga la Ley de Ingresos del Estado de Aguascalientes para cada ejercicio fiscal. Para tal efecto, se aplicarán las reglas de operación que emita la Secretaría de Finanzas del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION QUINTA. De la Tasa y el Pago
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 67.
 
@@ -2513,6 +2651,118 @@ subterráneas y conexas 1,250
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
+#### SECCION PRIMERA. Del Objeto
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 70 A.- Es objeto de este impuesto la venta final de bebidas en envase cerrado con contenido alcohólico, alcohol, alcohol desnaturalizado y mieles incristalizables, que se realicen en el territorio del Estado, con excepción de la cerveza en todas sus presentaciones y el aguamiel y los productos de su fermentación, cuyo gravamen se encuentra expresamente reservado al Congreso de la Unión, en términos del Artículo 73, Fracción XXIX, numeral 5, incisos e) y g) de la Constitución Política de los Estados Unidos Mexicanos. Para los efectos de este impuesto se entiende por:
+
+1. Bebidas con contenido alcohólico: las bebidas alcohólicas y las bebidas refrescantes con contenido alcohólico.
+
+2. Bebidas alcohólicas: las que tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
+
+3. Bebidas refrescantes: las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
+
+4. (DEROGADO, P.O. 25 DE MAYO DE 2015)
+
+5. Alcohol: La solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C.
+
+6. Alcohol desnaturalizado: La solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°C, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud.
+
+7. Mieles incristalizables: El producto residual de la fabricación del azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentados expresados en glucosa no excedan del 61 %.
+
+8. Venta final: La que realice cualquier persona física o moral de los bienes a que se refiere este Artículo, al último adquirente en envase cerrado, para su consumo o posterior comercialización en envase abierto.
+
+Para los efectos de este impuesto, también se considerará venta final, el faltante de inventario o el consumo propio de las bebidas descritas en el presente Artículo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION SEGUNDA. Del Sujeto
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 70 B.- Están obligadas al pago de este impuesto las personas físicas y las morales que en territorio del Estado, realicen la venta de los bienes a que se refiere el Artículo anterior.
+
+La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen contribuciones estatales o estén exentos de ellos, deberán aceptar la traslación de este impuesto y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de esta Ley.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION TERCERA. De la Base
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+ARTICULO 70 C.- La base de este impuesto será el valor de enajenación de los bienes objeto de la presente contribución, siendo éste el precio de venta, disminuyendo el impuesto al valor agregado e impuesto especial sobre producción y servicios que le corresponda según la Ley de la materia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION CUARTA. De la tasa
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 70 D.- El impuesto se calculará y determinará aplicando a la base que señala el Artículo anterior la tasa del 4.5%.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION QUINTA. Del Pago
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 70 E.- El impuesto se causará al momento en que el enajenante perciba efectivamente los ingresos correspondientes al precio de venta de los bienes a que se refiere este Capítulo.
+
+Para los efectos de este impuesto se considerará que la venta o consumo final de los bienes se efectúa en el territorio del Estado cuando en el mismo se realice la entrega de los mismos por parte del productor, envasador, distribuidor o importador, según sea el caso, para su posterior venta al público en general o consumo.
+
+Asimismo, se presumirá que la entrega se efectuó en territorio del Estado, cuando el adquirente no cuente con la documentación con la que se acredite que la entrega se realizó fuera del mismo, tales como comprobantes de los gastos incurridos por concepto de fletes, acarreos y traslado de los bienes objeto de la presente contribución.
+
+El impuesto se calculará mensualmente y se pagará a más tardar el día diecisiete del mes siguiente a aquél al que corresponda el pago, a través del formato que para tales efectos establezca la Secretaría de Finanzas del Estado. Los pagos mensuales tendrán el carácter de definitivos.
+
+El presente impuesto no será acreditable contra ningún otro impuesto local o federal, ni deberá ser trasladado de forma expresa y por separado a las personas que adquieran los bienes objeto de la contribución. El traslado del impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo los oficiales.
+
+Si un contribuyente tuviera varios establecimientos, locales o sucursales en el territorio del Estado, presentará por todos ellos una sola declaración de pago por las operaciones que correspondan a dichos establecimientos, ante las oficinas autorizadas por la Secretaría de Finanzas del Estado.
+
+Cuando la contraprestación que perciba el contribuyente por la venta de las bebidas no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en este capítulo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION SEXTA. De las Obligaciones de los Contribuyentes
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 70 F.- Los contribuyentes a que se refiere este Capítulo, además de las obligaciones señaladas en los otros artículos del mismo y en las demás disposiciones fiscales, deberá cumplir con lo siguiente:
+
+a) Empadronarse para los efectos de este impuesto dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la Secretaría de Finanzas del Estado, mediante aviso que será presentado en las formas y ante las oficinas que para tal efecto autorice dicha autoridad.
+
+b) Llevar un registro pormenorizado de las ventas que realice respecto de los bienes a que se refiere el presente capítulo, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto.
+
+c) Expedir comprobantes que reúnan los requisitos establecidos en el Código Fiscal del Estado de Aguascalientes, sin que se traslade en forma expresa y por separado el impuesto establecido en este Capítulo.
+
+d) Pagar el impuesto determinado a su cargo, mediante declaración que será presentada ante la oficina que para tales efectos autorice la Secretaría de Finanzas del Estado, a más tardar el día diecisiete del mes siguiente a aquel a que corresponda el impuesto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 70 G.- Los distribuidores o comerciantes que enajenen las bebidas a que se refiere el presente Capítulo a quienes a su vez venderán en envase cerrado las citadas bebidas, estarán obligados a llevar un registro mensual de ventas a estas personas, debiendo recabar de ellos y conservar una copia del registro en el padrón ante la Secretaría de Finanzas del Estado a que se refiere el Artículo 70 F inciso a) de la presente Ley.
+
+Los comerciantes que adquieran bebidas objeto del presente impuesto para su posterior comercialización dentro del Estado en envase abierto de distribuidores o comerciantes que enajenen las bebidas a que se refiere el presente Capítulo que tengan su domicilio fiscal fuera del territorio del Estado, estarán obligados a informar a la Autoridad Fiscal Estatal el monto total de las adquisiciones que haya realizado de bebidas a que se refiere el presente Capítulo en el mes inmediato anterior, así como la denominación o razón social del comerciante o distribuidor, su domicilio fiscal y el Registro Federal de Contribuyentes.
+
+Dicha declaración informativa deberá ser presentada a más tardar el día diecisiete del mes siguiente al en que se realizaron las adquisiciones por las cuales se causó el impuesto previsto en el presente Capítulo.
+
+Adicionalmente, los comerciante (sic) que adquieran bebidas objeto del presente impuesto para su posterior comercialización dentro del territorio del Estado en envase abierto de distribuidores o comerciantes que enajenen las bebidas a que se refiere el presente Capítulo que tengan su domicilio fiscal fuera del territorio del Estado, tendrán la obligación de retener y enterar este impuesto.
+
+La retención del impuesto prevista anteriormente, será la que resulte de aplicar la tasa del 4.5% a la base establecida en el Artículo 70 C de esta Ley.
+
+Las retenciones efectuadas deberán ser enteradas a la Autoridad Fiscal Estatal, a través del formato que para tales efectos establezca la Secretaría de Finanzas del Estado.
+
+Dicha retención deberá ser enterada a más tardar el día diecisiete del mes siguiente al que se realizaron las adquisiciones.
+
+En el supuesto de que la entrega de los bienes objeto de la presente contribución haya sido realizada fuera del territorio del Estado, quedarán liberados de la obligación de retención prevista anteriormente, si cuentan con la documentación comprobatoria con la que se acrediten los gastos incurridos por concepto de fletes, acarreos y traslados, además de demostrar que existió razón de negoción (sic) para que la entrega fuera realizada fuera del territorio del Estado.
+
+Quienes no cumplan con las obligaciones señaladas en el presente Artículo, serán responsables solidarios del impuesto que se dejare de pagar respecto de las bebidas enajenadas o adquiridas por ellos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+ARTICULO 70 H.- Los municipios recibirán cuando menos el 20% de la recaudación que corresponda al Estado en términos del presente Capítulo, de conformidad con lo dispuesto en el último párrafo del Artículo 10-C de la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ## TITULO TERCERO. DE LOS DERECHOS
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
@@ -2521,17 +2771,29 @@ subterráneas y conexas 1,250
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
+#### SECCION PRIMERA. Del Objeto
+
+(REUBICADO [N. DE E. ANTES ARTICULO 63], P.O. 31 DE DICIEMBRE DE 2005)
+
 ###### ARTICULO 71.
 
 Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
+#### SECCION SEGUNDA. Del Sujeto
+
+(REUBICADO [N. DE E. ANTES ARTICULO 64], P.O. 31 DE DICIEMBRE DE 2005)
+
 ###### ARTICULO 72.
 
 Son sujetos del pago de derechos, las personas fiscales y morales tanto de derecho privado como público, que reciban servicios que presta el Estado en sus funciones de derecho público, o por el uso o aprovechamiento de los bienes del dominio público del Estado.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION TERCERA. Del Pago
+
+(REUBICADO [N. DE E. ANTES ARTICULO 65], P.O. 31 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 73.
 
@@ -2569,6 +2831,10 @@ En aquellos casos en que por circunstancias especiales el Ejecutivo del Estado c
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
+#### SECCION CUARTA. De la Responsabilidad Solidaria
+
+(REUBICADO [N. DE E. ANTES ARTICULO 70], P.O. 31 DE DICIEMBRE DE 2005)
+
 ###### ARTICULO 78.
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan y destitución de su cargo sin responsabilidad para el Estado.
@@ -2580,6 +2846,10 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION QUINTA. De las Excepciones
+
+(REUBICADO [N. DE E. ANTES ARTICULO 72], P.O. 31 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 80.
 
@@ -3038,3 +3308,11 @@ El presente Decreto entrará en vigor a partir del 01 de enero de 2019.
 ###### ARTÍCULO SEGUNDO.
 
 Se faculta a la Secretaría de Finanzas del Estado de Aguascalientes, para previamente a la entrada en vigor del presente Decreto, dé a conocer los formatos que deberán ser utilizados por los notarios, corredores, fedatarios públicos o quienes hagan sus veces, para cada uno de los supuestos a que refiere el Artículo 11 Bis del presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 61.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II “DEL IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS”, DEL TÍTULO SEGUNDO “DE LOS IMPUESTOS PARA PASAR A SER CAPÍTULO II “DEL IMPUESTO SOBRE ESPECTÁCULOS PÚBLICOS", DEL TÍTULO SEGUNDO “DE LOS IMPUESTOS”; LOS ARTÍCULOS 17 Y 18; ASÍ COMO OTROS DIVERSOS ARTÍCULOS, TODOS ELLOS DE LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1° de enero de 2019.
