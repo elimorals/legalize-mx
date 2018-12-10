@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-comision-de-derechos-humanos-del-estado-de-puebla-185
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2018-07-27"
+last_updated: "2018-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 24 de marzo de 2000.
 
@@ -253,9 +255,17 @@ XII.- Coadyuvar con el Ejecutivo del Estado, en materia de derechos humanos, pro
 
 XIII.- Expedir su Reglamento Interno;
 
-XIV.- Hacer cumplir en el territorio del Estado de Puebla, los tratados, Convenios y Acuerdos Internacionales, ratificados por el Gobierno Mexicano en materia de Derechos Humanos; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XV.- Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+XIV.- Hacer cumplir en el territorio del Estado de Puebla, los Tratados, Convenios y Acuerdos Internacionales, ratificados por el Gobierno Mexicano en materia de Derechos Humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XV.- Impulsar la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+XVI.- Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
 ###### ARTÍCULO 14.
 
@@ -800,5 +810,13 @@ P.O. 27 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA; DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA; DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; DE LA LEY ESTATAL DE SALUD, Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIV Y XV, Y ADICIONA LA FRACCIÓN XVI, TODAS DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
