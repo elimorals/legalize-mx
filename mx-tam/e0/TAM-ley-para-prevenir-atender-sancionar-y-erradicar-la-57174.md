@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2018-12-06"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -339,9 +339,69 @@ d) la garantía de otorgar pensión alimenticia provisional e inmediata.
 
 4. Las órdenes de protección de naturaleza civil ameritan simultáneamente la promoción por la vía civil que corresponda al hecho de que se trate, sin demérito de que los titulares de los órganos jurisdiccionales valoren las órdenes de protección dictadas previamente o, en su caso, en ejercicio de sus atribuciones determinen las medidas pertinentes, pero siempre prefiriéndose las que brinden mayor protección a la víctima.
 
-### Capítulo IV. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
-### Capítulo V. De las atribuciones
+### Capítulo III Bis. Protocolo Alba
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 10 Bis.
+
+El Protocolo Alba es el mecanismo institucional que permite la coordinación de esfuerzos de los tres órdenes de gobierno comprometidos en la promoción y ejecución de actividades conducentes para la localización de mujeres y niñas con reporte de extravío.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 10 Ter.
+
+El Protocolo Alba tendrá como objetivo llevar a cabo la búsqueda inmediata, para la localización de mujeres y niñas desaparecidas, con el fin de proteger su vida, libertad personal e integridad, mediante un plan de atención y coordinación entre las autoridades de los tres niveles de gobierno, que involucren a medios de comunicación, sociedad civil, organismos públicos y privados, en todo el territorio mexicano. El Protocolo Alba se activa al instante que se reporta la desaparición de la mujer y la niña, desde ese momento se inician las labores pertinentes para su localización. El Protocolo Alba no se desactiva sino hasta encontrar a la mujer y a la niña.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 10 Quáter.
+
+El funcionamiento del Protocolo Alba consta de tres fases que concluyen con la localización de la mujer y la niña:
+
+I. Registro y activación inmediata del reporte de desaparición por parte del Agente del Ministerio Público que solicita a todas las corporaciones policiacas la búsqueda urgente de la persona desaparecida;
+
+II. Implementación del Operativo Alba, donde un Grupo Técnico de Colaboración determina acciones a seguir en las primeras horas de búsqueda; y
+
+III. Al no ser localizada la mujer o niña desaparecida, el Agente del Ministerio Público y sus auxiliares continúa la investigación con la presunción de un delito contra la misma.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 10 Quinquies.
+
+Se integrará el Grupo Técnico de Colaboración del Protocolo Alba, el cual tiene el objetivo de brindar mayor cobertura en la implementación de los mecanismos de búsqueda y localización de niñas y mujeres desaparecidas. Será presidido por el Titular de la Procuraduría General de Justicia del Estado de Tamaulipas.
+
+El Grupo Técnico de Colaboración estará conformado por al menos las instituciones que se enlistan a continuación:
+
+I. Secretaría General de Gobierno;
+
+II. Procuraduría General de Justicia del Estado de Tamaulipas;
+
+III. Secretaría de Seguridad Pública;
+
+IV. Secretaría de Salud;
+
+V. Secretaría de Bienestar Social;
+
+VI. Secretaría de Educación;
+
+VII. Instituto de la Mujer Tamaulipeca;
+
+VIII. Comisión de Derechos Humanos del Estado de Tamaulipas; y
+
+IX. Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+Se podrá solicitar además la colaboración de organismos no gubernamentales, dependencias federales y municipales que coadyuven a la pronta localización de la víctima.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 10 Sexies.
+
+Al encontrar a la mujer o niña desaparecida y/o ausente, por parte de autoridades correspondientes se les brindará atención médica, psicológica y legal, protegiendo en todo momento su integridad.
+
+### Capítulo IV. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
 ###### Artículo 11.
 
@@ -453,7 +513,7 @@ X. Proporcionar a las instancias encargadas de realizar estadísticas, la inform
 
 XI. Promover la cultura de denuncia de violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad.
 
-### Capítulo VI. De la atención y refugio para víctimas
+### Capítulo V. De las atribuciones
 
 ###### Artículo 13.
 
@@ -703,9 +763,7 @@ k) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
 
-### Capítulo VII. De las Responsabilidades y Sanciones
-
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2015)</small>
+### Capítulo VI. De la atención y refugio para víctimas
 
 ###### Artículo 21.
 
@@ -800,6 +858,10 @@ f) dotar de todo aquello que sea necesario para la protección y atención de la
 2. En ningún caso se podrá mantener a las mujeres víctimas de la violencia en los refugios, en contra de su voluntad.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE MARZO DE 2015)</small>
+
+### Capítulo VII. De las Responsabilidades y Sanciones
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2015)</small>
 
 ###### Artículo 26.
 
@@ -988,3 +1050,11 @@ Las adecuaciones reglamentarias a que se refiere el artículo anterior y que al 
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 El área a que se refieren los artículos décimo y décimo primero transitorios del presente Decreto, iniciará sus funciones al momento de entrar en vigor las adecuaciones al Reglamento Interior de la Comisión de Derechos Humanos del Estado de Tamaulipas, con los recursos y la estructura que al efecto disponga ésta, de acuerdo con su presupuesto en vigor; sin perjuicio de las ampliaciones presupuestales que se propongan en términos de la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas, para los ejercicios fiscales subsecuentes y se aprueben en términos de la legislación aplicable.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-524 MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO III BIS DENOMINADO “PROTOCOLO ALBA”, CON LOS ARTÍCULOS 10 BIS AL 10 SEXIES, A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
