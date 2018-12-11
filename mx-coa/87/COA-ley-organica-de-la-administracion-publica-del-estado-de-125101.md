@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2018-05-29"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -811,7 +811,9 @@ XVII. Las demás que le confieran expresamente esta ley, otras disposiciones apl
 
 A la Secretaría de Desarrollo Rural le corresponde el despacho de los siguientes asuntos:
 
-I. Diseñar y coordinar las políticas de desarrollo rural, que mejoren la competitividad y la productividad agropecuaria;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+I. Diseñar y coordinar las políticas de desarrollo rural, que mejoren la competitividad y la productividad agropecuaria, así como formular y ejecutar los planes, programas y acciones para el desarrollo integral de las personas que viven y trabajan en zonas rurales del Estado, principalmente aquellos dirigidos a mejorar las condiciones de las mujeres.
 
 II. Formular e instrumentar planes y acciones que eleven el rendimiento, calidad y comercialización de los productos del campo;
 
@@ -837,7 +839,9 @@ XII. Promover la creación y ampliación de agro negocios, integración de caden
 
 XIII. Impulsar y coordinar la obtención de fondos para el desarrollo de proyectos y promover los programas de inversión en el campo;
 
-XIV. Instrumentar en el ámbito de su competencia, campañas permanentes fitosanitarias y zoosanitarias de prevención y combate de plagas, siniestros y enfermedades;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+XIV. Instrumentar en el ámbito de su competencia, campañas permanentes fitosanitarias y zoosanitarias de prevención y combate de plagas, siniestros y enfermedades e intercambiar con los estados del norte del país las experiencias y conocimientos que permitan mejorar los estándares sanitarios y la comercialización regional de todos los productos agropecuarios.
 
 XV. Promover la participación de productores, empresarios e industriales estatales en exposiciones, ferias y congresos en materia rural;
 
@@ -1300,3 +1304,9 @@ SEXTO. En un plazo no mayor de un año contado a partir de la entrada en vigor d
 SÉPTIMO. Las autorizaciones, permisos y licencias expedidas conforme a las disposiciones aplicables durante la vigencia de la ley que se reforma, continuarán vigentes hasta la conclusión del término con el que fueron otorgadas.
 
 OCTAVO. Toda referencia a la Secretaría de Infraestructura y Transporte que haga alguna disposición legal o administrativa, así como a la Secretaría de Medio Ambiente y Desarrollo Urbano, en materia de asentamientos humanos, ordenamiento territorial y/o desarrollo urbano, deberá entenderse hecha a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 94.- SE MODIFICA EL CONTENIDO DE LAS FRACCIONES I Y XIV DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
