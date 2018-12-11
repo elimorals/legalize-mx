@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2018-10-19"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -969,9 +969,11 @@ VI. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia c
 
 VII. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 50.
 
-La Procuraduría General de Justicia del Estado, además de las atribuciones previstas en los ordenamientos descritos en esta Ley, tendrá las atribuciones siguientes:
+La Fiscalía General del Estado, además de las atribuciones previstas en los ordenamientos descritos en esta Ley, tendrá las atribuciones siguientes:
 
 I. Participar en la elaboración y ejecución del Programa Estatal, y en el diseño de nuevos modelos de erradicación de la violencia contra las mujeres;
 
@@ -1411,7 +1413,9 @@ En los refugios, se otorgarán todos los servicios sin discriminación alguna y 
 
 I. El ingreso de las víctimas será voluntario previa firma del consentimiento informado;
 
-II. En caso de mujeres menores de edad, cuya vida se encuentre en riesgo por cualquier tipo de violencia, podrán ingresar previa solicitud firmada de la madre, padre o tutor legalmente designado o por quien ejerza la patria potestad, o bien de la Procuraduría pata (sic) los Niños, Niñas y la Familia o del juez o jueza competente, o en su caso, a petición del Ministerio Público como una medida precautoria;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+II. En caso de mujeres menores de edad, cuya vida se encuentre en riesgo por cualquier tipo de violencia, podrán ingresar previa solicitud firmada de la madre, padre o tutor legalmente designado o por quien ejerza la patria potestad, o bien de la Procuraduría para los Niños, Niñas y la Familia o del juez o jueza competente, o en su caso, a petición del Ministerio Público como una medida precautoria;
 
 III. Cuando se identifique a una víctima con una problemática severa de enfermedad fisca, trastorno psiquiátrico y o adicción, deberá ser valorada su estancia en el refugio y en su caso ser canalizadas a las instancias correspondientes clínicas, hospitales psiquiátricos y centros de desintoxicación entre otros, por un periodo previo a su ingreso en el refugio, siendo obligatorio para la Secretaria de Salud, brindar la atención médica integral especializada y asegurar el acceso gratuito a los servicios de salud para cada una de las víctimas; y
 
@@ -2056,3 +2060,9 @@ P.O. 19 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 73.- SE ADICIONAN UN TERCERO Y CUARTO PÁRRAFO A LA FRACCIÓN IV, PASANDO LOS ACTUALES A SER LOS PÁRRAFOS QUINTO Y SEXTO, DEL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 95.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 50 Y LA FRACCIÓN II DEL ARTÍCULO 74 DE LA LEY DE ACCESO PARA LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
