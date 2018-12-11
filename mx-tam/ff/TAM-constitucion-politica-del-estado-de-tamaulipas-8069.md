@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2018-11-22"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -311,9 +311,9 @@ Para garantizar el derecho de acceso a la información y de protección de datos
 
 VI. El derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, saludable, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines; y
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
-VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento;
+VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento y la primera cédula estatal de identidad;
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
 
@@ -332,6 +332,52 @@ X.- El derecho de acceso a la cultura y el disfrute de los bienes y servicios qu
 ###### Art. 17 Bis.
 
 En el caso de extinción de dominio se establecerá un procedimiento que será jurisdiccional y autónomo del de materia penal, y procederá en los casos de secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito. La ley ordinaria de la materia reglamentará estas bases constitucionales.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+###### Art. 17 Ter.
+
+El derecho a la identidad establecido en la fracción VII del artículo 17 de esta Constitución será garantizado mediante una cédula estatal de identidad.
+
+La cédula estatal de identidad es una identificación personal e intransferible, que será expedida por el Instituto establecido para ello en esta Constitución.
+
+Todos los ciudadanos del Estado tendrán derecho a contar con la cédula de identidad y su obtención será obligatoria para los residentes mayores de catorce años y aquellos avecindados que permanezcan en el Estado por un período mayor a los seis meses. La cédula se regirá bajo los principios de legalidad, confidencialidad y certeza.
+
+El organismo garante de este derecho será el Instituto Estatal de Protección a la Identidad. Será un órgano con autonomía técnica, presupuestal y de gestión, así como con personalidad jurídica y patrimonio propios.
+
+El Instituto será la autoridad en la materia, independiente y autónomo en sus decisiones.
+
+Estará integrado por un Comisionado Presidente y dos Comisionados. La Ley de la materia determinará la forma de su integración y funciones.
+
+Los Comisionados deberán cumplir los siguientes requisitos:
+
+(NOTA: EL 7 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+I.- Ser ciudadano mexicano POR NACIMIENTO y estar en pleno goce de sus derechos civiles y políticos;
+
+II.- Ser mayor de treinta años;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+IV.- Poseer título profesional;
+
+V.- Haberse desempeñado, cuando menos dos años, en forma destacada en actividades profesionales, de servicio público o académicas sustancialmente relacionadas con materias afines a las de la identidad personal;
+
+VI.- Acreditar los conocimientos técnicos necesarios para el cargo;
+
+Los Comisionados se abstendrán de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los honorarios y académicos.
+
+Los Comisionados serán designados mediante el siguiente procedimiento:
+
+I.- Por cada vacante, el Congreso del Estado, mediante convocatoria pública, enviará al Gobernador Constitucional una lista de cinco aspirantes al cargo que hayan acreditado los requisitos señalados en este artículo. El Gobernador seleccionará a los tres candidatos que estime idóneos para el cargo y los propondrá al Congreso;
+
+II.- La ratificación se hará por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado; y
+
+III.- El Comisionado Presidente y los Comisionados durarán siete años en su encargo, serán sustituidos de manera escalonada y no podrán ser designados para un periodo inmediato posterior.
+
+Dentro del Instituto habrá un Consejo Consultivo integrado por representantes de las Secretarías de Salud, de Educación, de Bienestar Social, de Seguridad Pública, y de las Fiscalías establecidas por esta Constitución, así como del Instituto de Transparencia y Acceso a la Información de Tamaulipas, para el efecto de coordinar todos los aspectos relacionados con la cédula, su implementación y mecanismos de cooperación.
+
+El Instituto será el responsable de la dirección, expedición, control, registro, gestión y todas las demás actividades relacionadas con la cédula estatal de identidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -396,6 +442,28 @@ Tratándose de trabajadores no asalariados, la multa que se imponga por infracci
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+###### Art. 19 Bis.
+
+El Sistema Estatal de Seguridad Pública se organizará en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la ley general de la materia, las disposiciones del Sistema Nacional de Seguridad Pública, y las siguientes bases de coordinación:
+
+I. La seguridad pública es una función a cargo del Estado y de los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, dentro de sus respectivas competencias establecidas en esta Constitución y desarrolladas en la ley. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en el orden jurídico nacional.
+
+II. El Sistema Estatal de Seguridad Pública, a través de su Secretariado Ejecutivo, establecerá la regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública.
+
+III. El establecimiento de las bases de datos criminalísticos, de personal para las instituciones de seguridad pública y sistema único de denuncia ciudadana dependerá del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en los términos de la ley general de la materia, esta Constitución y la ley.
+
+IV. El Congreso establecerá en el Presupuesto de Egresos el Fondo Estatal de Fortalecimiento para la Seguridad Pública. La aplicación de dicho fondo estará a cargo del Secretariado Ejecutivo del Sistema. La ley determinará las reglas de operación y requisitos para acceder a los recursos. Los fondos deberán ser destinados exclusivamente para los fines de la seguridad pública del Estado.
+
+V. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será la instancia de evaluación de los programas y desempeño de las instancias estatales y municipales de seguridad pública. Podrá emitir recomendaciones y lineamientos generales para la coordinación operativa, así como para el desarrollo de estándares de actuación y de capacidades institucionales.
+
+VI. El Sistema Estatal de Control de Confianza dependerá del Secretariado Ejecutivo, en los términos que establezca la ley. Dicho sistema deberá establecer los procesos para la evaluación y certificación de mandos de las instancias de seguridad pública a nivel estatal y municipal.
+
+VII. El Sistema Estatal de Seguridad Pública contará con un Consejo de Participación Ciudadana como instancia independiente y externa de rendición de cuentas y evaluación política de seguridad en el Estado.
+
+El cual se integrará por cinco consejeros electos por la mayoría de dos terceras partes del Congreso a propuesta del Gobernador. El Consejo emitirá recomendaciones e informes no vinculantes. La ley establecerá los requisitos para ser consejero, así como sus obligaciones y prerrogativas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -1229,15 +1297,19 @@ LVIII. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue 
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
 
-LIX.- Llamar a las autoridades o servidores públicos de la administración pública estatal a solicitud de la Comisión de Derechos Humanos del Estado de Tamaulipas, cuando no hubieren aceptado o cumplido las recomendaciones emitidas por dicha Comisión, con objeto de explicar el motivo de su negativa;
+LIX. Llamar a las autoridades o servidores públicos de la administración pública estatal a solicitud de la Comisión de Derechos Humanos del Estado de Tamaulipas, cuando no hubieren aceptado o cumplido las recomendaciones emitidas por dicha Comisión, con objeto de explicar el motivo de su negativa;
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
-LX.- Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado; y,
+LX. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
-LXI.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado, y ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
+LXI. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado, y ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas; y
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+LXII. Legislar en materia de identidad personal y su protección, así como establecer el Instituto Estatal de Protección a la Identidad.
 
 ###### Art. 59.
 
@@ -2637,7 +2709,9 @@ VI.- Rastro;
 
 VII.- Calles, parques y jardines y su equipamiento;
 
-VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito; y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+VIII.- Seguridad Pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito; el ejercicio del mando estará sujeto al cumplimiento de las capacidades y estándares establecidas en la Ley de Seguridad Pública del Estado; y
 
 IX.- Los demás que la legislatura local determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
 
@@ -2724,6 +2798,10 @@ La policía preventiva estará al mando del presidente municipal, en los términ
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
 El Gobernador del Estado tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+La ley establecerá los procedimientos para la evaluación, subrogación, y en su caso, la intervención en las instancias y servicios municipales de seguridad pública.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -4891,15 +4969,55 @@ Dentro de un plazo de no más de sesenta días naturales a partir de la entrada 
 
 Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
 
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-534 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 132; Y SE ADICIONAN EL ARTÍCULO 19 BIS Y UN TERCER PÁRRAFO AL ARTÍCULO 136, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-535 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE CÉDULA ESTATAL DE IDENTIDAD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Contraloría Gubernamental, a la Secretaría de Finanzas y a la Secretaría de Administración para que realicen las adecuaciones presupuestales, financieras y de recursos humanos, para el ejercicio fiscal 2019, a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso tendrá 120 días naturales para la aprobación de la ley en materia de la protección de la identidad personal, la organización y funcionamiento del Instituto creado mediante el presente Decreto, así como los procedimientos para la expedición de la cédula estatal de identidad personal, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso contará con 60 días naturales para la designación de los Comisionados a que hace referencia el artículo 17 Ter, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso tendrá que adecuar o modificar el Presupuesto de Egresos a fin de garantizar la suficiencia presupuestal de la Institución a que alude el artículo 17 Ter de la Constitución.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Instituto contemplado en el artículo 17 Ter, tendrá un plazo de 90 días después de su instalación, para emitir un programa de expedición de las cédulas correspondientes a todos los sectores poblacionales.
+
 ###### ARTÍCULO OCTAVO.
 
-Aprobada y expedida la Constitución Política de la Ciudad de México, no podrá ser vetada por ninguna autoridad y será remitida de inmediato para que, sin más trámite, se publique en el Diario Oficial de la Federación y en la Gaceta Oficial del Distrito Federal.
+Para efectos de la designación y renovación escalonada de los Comisionados del Instituto Estatal de Protección a la Identidad a que se refiere el artículo 17 Ter del presente Decreto, la duración de los encargos de sus integrantes se sujetará por única ocasión a lo siguiente:
 
-La Constitución Política de la Ciudad de México, entrará en vigor el día que ésta señale para la instalación de la Legislatura, excepto en lo que hace a la materia electoral, misma que será aplicable desde el mes de enero de 2017. En el caso de que sea necesario que se verifiquen elecciones extraordinarias, las mismas se llevarán a cabo de conformidad a la legislación electoral vigente al día de la publicación del presente Decreto.
+I.- Un comisionado electo por 7 años;
 
-Se faculta a la Asamblea Legislativa del Distrito Federal, para legislar sobre los procedimientos e instituciones electorales que resultarán aplicables al proceso electoral 2017-2018.
+II.- Un comisionado electo por 5 años; y
 
-Al momento de la publicación de la Constitución Política de la Ciudad de México, cesarán las funciones de la Asamblea Constituyente. A partir de ello, las reformas y adiciones a la Constitución Política de la Ciudad de México se realizarán de conformidad con lo que la misma establezca.
+III.- Un comisionado electo por 3 años.
 
 ###### ARTÍCULO NOVENO.
 
