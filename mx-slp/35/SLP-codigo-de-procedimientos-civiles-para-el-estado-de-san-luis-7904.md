@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2018-07-27"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -279,7 +279,9 @@ ART. 63.- Las copias simples de los documentos que se presenten, confrontadas y 
 
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación sellada y firmada por el empleado que la reciba en el tribunal.
 
-ART. 64.- El secretario hará constar el día y hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas; bajo la pena de diez pesos de multa sin perjuicio de las demás que merezca conforme a las leyes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+ART. 64.- El secretario hará constar el día y hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas; bajo la pena del valor de tres unidades de medida y actualización de multa, sin perjuicio de las demás que merezca conforme a las leyes.
 
 Bajo la misma pena estarán obligados a recibir los escritos a toda hora del día y de la noche y en el lugar donde se encontraren. En los casos en que la urgencia de la promoción lo exija, inmediatamente darán cuenta.
 
@@ -5862,5 +5864,13 @@ P.O. 27 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1035.- SE ADICIONA UN APÁRRAFO (SIC) AL ARTÍCULO 114 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0004.- SE REFORMA EL ARTÍCULO 64, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
