@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2018-11-17"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2397,7 +2397,9 @@ XVI. Ejercer sobre los detenidos, imputados o acusados toda forma de incomunicac
 
 XVII. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo; y
 
-XVIII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Cuando asigne o disponga para su protección o la de terceros, de elementos operativos para que realicen funciones de personal de protección, custodia, guardia o vigilancia personal, sin cumplir con los requisitos previstos en la ley aplicable;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -6491,8 +6493,70 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 
 P.O. 17 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 26947/LXI/18 QUE REFORMA LOS ARTÍCULOS 79 Y 86 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26947/LXI/18 QUE REFORMA LOS ARTÍCULOS 79 Y 86 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
-PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
 
 SEGUNDO. La Autoridad Penitenciaria tendrá un plazo de 180 días hábiles, contados a partir de la entrada en vigor de este decreto, para adecuar sus reglamentos a lo dispuesto en el Titulo Tercero Capítulo VI denominado Trabajo de la Ley Nacional de Ejecución Penal.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27216/LXII/18 QUE EXPIDE LA LEY DEL SERVICIO DE PROTECCIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y REFORMA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado de Jalisco contará con un término de sesenta días hábiles para realizar las modificaciones o adecuaciones a los reglamentos y disposiciones administrativas que resulten aplicables, para dar cumplimiento con este decreto.
+
+TERCERO. Los sujetos que cuenten con protección por parte del estado o de algún municipio al momento de entrar en vigor el presente dictamen, deberán solicitar la continuidad del servicio en un termino improrrogable de 10 días; de no hacerlo, se entenderá que no la requieren y por lo tanto la autoridad que preste el servicio ordenará a los elementos asignados que se reincorporen inmediatamente a la corporación.
+
+CUARTO. A la entrada en vigor del presente decreto, en un termino de diez días, todos los servidores públicos actualmente asignados a servicios de seguridad, vigilancia, protección en el Estado y los municipios, deberán presentarse con los vehículos, armamento y demás equipo otorgados para la realización de su comisión, a efecto de saber su lugar de asignación. En caso que dichos servidores públicos no se presenten, la dependencia a la que pertenecen, iniciará los procesos administrativos de sanción correspondientes.
+
+El titular de la dependencia deberá solicitar los dictámenes correspondientes para que se liberen las órdenes de protección que por ley se deben de prestar.
+
+QUINTO. Quien hubiera desempeñado los siguientes cargos, tendrá derecho a la asignación de elementos para su protección por el termino de ley, debiéndose emitir el dictamen técnico de conformidad al siguiente cuadro:
+
+Cargo Personal Vehículos
+
+asignado blindados
+
+por día
+
+Gobernador 18 2
+
+Secretario
+
+General de
+
+Gobierno 4 1
+
+Fiscal General 18 2
+
+Secretario de
+
+Seguridad Pública 10 2
+
+Fiscal Central 4 1
+
+Fiscales Regionales 4 1
+
+Fiscal de
+
+Readaptación
+
+Social 4 1
+
+Secretario de
+
+Movilidad y
+
+Transporte 2 1
+
+Presidente del
+
+Supremo Tribunal
+
+de Justicia 2 1
+
+SEXTO. Quienes hayan desempeñado un cargo de los enunciados en el articulo que anteceden (sic) podrán solicitar la distribución de horarios del personal asignado o la disminución de este, pero no se le asignara mayor personal del señalado en el mismo.
+
+SEPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
