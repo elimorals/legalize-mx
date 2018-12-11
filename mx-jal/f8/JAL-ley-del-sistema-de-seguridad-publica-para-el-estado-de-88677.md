@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2018-06-02"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -91,7 +91,7 @@ VIII. Regular el uso y resguardo de la información obtenida con equipos o siste
 
 Para los efectos de esta ley, se debe entender por:
 
-l. Carrera ministerial: al servicio profesional de carrera de las Instituciones de Procuración de Justicia;
+I. Carrera ministerial: al servicio profesional de carrera de las Instituciones de Procuración de Justicia;
 
 II. Carrera pericial: al servicio profesional de carrera del Instituto Jalisciense de Ciencias Forenses;
 
@@ -115,7 +115,7 @@ XI. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere
 
 XII. Elementos operativos: los integrantes de las instituciones de la Fiscalía General del Estado, de la Policía Vial, dependiente de la Secretaría de Movilidad, de seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
 
-XIII. “Escudo Urbano·C5”: al Organismo Público Descentralizado encargado del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco;
+XIII. "Escudo Urbano·C5": al Organismo Público Descentralizado encargado del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco;
 
 XIV. Fiscal General: el titular de la Fiscalía General del Estado;
 
@@ -485,45 +485,17 @@ El programa deberá contener las bases de concertación entre los gobiernos esta
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 25.
 
 Para el cumplimiento de los objetivos de esta ley, el mando de los cuerpos estatales de seguridad pública en el ámbito de sus respectivas competencias estará a cargo de:
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+II. El Secretario de Seguridad; y
 
-II. El Fiscal General;
-
-a) Comisario, y
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-b) El Fiscal de Reinserción Social.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
-
-Los gobernadores, secretarios generales de gobierno, presidentes municipales, los servidores públicos que ejerzan el mando de los cuerpos de seguridad pública, los que directamente les auxilien en ejercicio de éste y aquellos que pudieren suplirles en sus ausencias y sus allegados, serán sujetos de protección en términos de la Ley de Sujetos Protegidos para el Estado de Jalisco.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
-
-Las medidas de seguridad permanecerán aún después de concluido el cargo, por un plazo de seis años en el caso de servidores públicos estatales, y de tres años en el caso de servidores públicos municipales; transcurrido el plazo, si la situación de riesgo continúa prevalecerán las medidas hasta que desaparezca el riesgo
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
-
-La protección será otorgada por los cuerpos de seguridad pública en los que hubieren ejercido el mando o estuvieren a su cargo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
-
-Si los servidores públicos cuentan con medidas de protección de diversos cuerpos de seguridad pública, aquellos podrá (sic) renunciar a alguna de éstas, y en todo caso, los cuerpos de seguridad deberán establecer una coordinación clara.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
-
-Las medidas de protección previstas en este artículo sólo podrán suspenderse por causa legal justificada ante el Tribunal de Justicia Administrativa, si no se demuestra ésta, la suspensión será improcedente.
-
-III) (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014).
-
-Se exceptúa de lo dispuesto en este artículo a los cuerpos municipales de seguridad pública, que estarán bajo el mando del Presidente Municipal en los términos del reglamento correspondiente, quienes de conformidad con lo dispuesto en la Constitución Política del Estado deberán acatar las órdenes que el Gobernador les transmita en aquellos casos que éste juzgue como de fuerza mayor o de alteración grave del orden público, previo acuerdo que publique en el Periódico Oficial el Gobernador del Estado.
+III. El Fiscal.
 
 ###### Artículo 26.
 
@@ -693,7 +665,7 @@ VI. Del pago de abonos para cubrir obligaciones derivadas de la adquisición, co
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-El monto total de los descuentos será el que convengan el elemento operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento del excedente de valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
+El monto total de los descuentos será el que convengan el elemento operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento de excedente de valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
 
 ###### Artículo 40.
 
@@ -2199,7 +2171,7 @@ Las grabaciones y tratamiento de imágenes con o sin sonido realizadas con estri
 
 La grabación de imágenes con o sin sonido en términos de esta Ley se regirá por los siguientes principios:
 
-l. Segura Preservación: el material video grabado deberá ser almacenado en un dispositivo que tenga acceso reservado, manejado únicamente por el personal autorizado, registrado previamente ante el "Escudo Urbano C5" y en su caso la Autoridad que solicite él mismo;
+I. Segura Preservación: el material video grabado deberá ser almacenado en un dispositivo que tenga acceso reservado, manejado únicamente por el personal autorizado, registrado previamente ante el "Escudo Urbano C5" y en su caso la Autoridad que solicite él mismo;
 
 II. Proporcionalidad: en su doble aspecto de mínima intrusión e idoneidad:
 
@@ -2225,17 +2197,17 @@ Se prohíbe la ubicación de cámaras y/o grabar en lugares como baños, vestido
 
 ###### Artículo 166.
 
-La instalación de equipos y sistemas se efectuará previos análisis técnicos, basados en los criterios y prioridades establecidos en la presente ley, por lo que se acordarán entre el “Escudo Urbano C5”, el municipio o la dependencia oficial interesada.
+La instalación de equipos y sistemas se efectuará previos análisis técnicos, basados en los criterios y prioridades establecidos en la presente ley, por lo que se acordarán entre el "Escudo Urbano C5", el municipio o la dependencia oficial interesada.
 
 La instalación se realizará en lugares en los cuales sea posible prevenir, inhibir y combatir conductas ilícitas, para garantizar el orden y la tranquilidad de los habitantes del Estado de Jalisco.
 
-Los equipos y sistemas tecnológicos instalados conforme a lo establecido en la presente ley, sólo podrán ser retirados o reubicados en aquellos casos en los que los municipios o las dependencias interesadas, previa justificación, y en coordinación con el “Escudo Urbano C5”, así lo determinen, ya sea por su ubicación o por sus características.
+Los equipos y sistemas tecnológicos instalados conforme a lo establecido en la presente ley, sólo podrán ser retirados o reubicados en aquellos casos en los que los municipios o las dependencias interesadas, previa justificación, y en coordinación con el "Escudo Urbano C5", así lo determinen, ya sea por su ubicación o por sus características.
 
-l. No contribuyen el objeto y fines de la presente ley; o
+I. No contribuyen el objeto y fines de la presente ley; o
 
 II. Se advierta un deterioro físico que imposibilite el adecuado cumplimiento de sus funciones, debiendo repararse o sustituirse, dentro del término establecido en el reglamento.
 
-El “Escudo Urbano C5” deberá informar y justificar a su Junta de Gobierno, en todos los casos que se determine, el retiro o reubicación de equipos y sistemas tecnológicos.
+El "Escudo Urbano C5" deberá informar y justificar a su Junta de Gobierno, en todos los casos que se determine, el retiro o reubicación de equipos y sistemas tecnológicos.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2255,7 +2227,7 @@ También queda prohibida la colocación de propaganda, mantas, lonas, carteles, 
 
 Las instancias interesadas bajo su operación, resguardo y presupuesto, que podrán solicitar al "Escudo Urbano C5", la instalación de equipos y sistemas tecnológicos para la seguridad pública en los bienes de uso común del Estado de Jalisco son:
 
-l. El titular de la Fiscalía General, a propuesta de de (sic) la dependencia del Ejecutivo del Estado encargada de la Seguridad Pública y los Fiscales.
+I. El titular de la Fiscalía General, a propuesta de de (sic) la dependencia del Ejecutivo del Estado encargada de la Seguridad Pública y los Fiscales.
 
 II. Las dependencias y entidades de la administración pública del estado que justifiquen la necesidad de su instalación, para prevenir situaciones de emergencia o desastre e incrementar la seguridad pública;
 
@@ -2331,7 +2303,7 @@ El Director General del C5, deberá rendir un informe bimestral ante el Consejo 
 
 Corresponde a la autoridad municipal, las siguientes funciones:
 
-l. Proponer acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determine la presente ley y el reglamento;
+I. Proponer acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determine la presente ley y el reglamento;
 
 III. (Sic) Coordinarse con el "Escudo Urbano C5" para la instalación de equipo y sistemas tecnológicos;
 
@@ -2409,7 +2381,7 @@ El "Escudo Urbano C5" establecerá las políticas necesarias para la administrac
 
 Los convenios de coordinación entre autoridades de seguridad pública o particulares que se celebren deberán contener como mínimo
 
-l. Capítulo de declaraciones: integrado por los datos generales de las partes y sus representantes;
+I. Capítulo de declaraciones: integrado por los datos generales de las partes y sus representantes;
 
 II. Capítulo de obligaciones: integrado por las obligaciones contraídas conjunta e individualmente por cada parte, en el que se precisen:
 
@@ -2443,7 +2415,7 @@ Toda información obtenida con equipos o sistemas tecnológicos de particulares 
 
 La información en materia de seguridad pública compuesta por imágenes o sonidos captados a través de equipos o sistemas tecnológicos, podrá ser utilizada mediante orden por autoridad competente en:
 
-l. La prevención de los delitos e infracciones administrativas;
+I. La prevención de los delitos e infracciones administrativas;
 
 II. La investigación de los delitos;
 
@@ -2463,7 +2435,7 @@ Los particulares previo convenio con el "Escudo Urbano C5", podrán conectar sus
 
 Los permisionarios de servicios de seguridad privada en el Estado de Jalisco que utilicen tecnología a través de la cual se capte información, tendrán las siguientes obligaciones:
 
-l. Inscribir en el Registro de Tecnologías, así como en el Registro Estatal de Empresas de Seguridad Privada, la utilización de estos sistemas tecnológicos en materia de seguridad pública; y
+I. Inscribir en el Registro de Tecnologías, así como en el Registro Estatal de Empresas de Seguridad Privada, la utilización de estos sistemas tecnológicos en materia de seguridad pública; y
 
 II. Proporcionar al "Escudo Urbano C5", inmediatamente y bajo su más entera responsabilidad a partir del momento en que se registró un hecho delictuoso o falta administrativa, copia fiel de la información obtenida con sus sistemas tecnológicos, y que se relacione con lo establecido en el artículo 193 de la presente ley, así como un informe emitido por el permisionario, bajo protesta de decir verdad, en el que se mencionen las circunstancias en que se captó dicha información, el tramo de la grabación, cinta o cualquier otro medio electrónico en el que se aprecian esos hechos y una descripción de los mismos.
 
@@ -2583,7 +2555,7 @@ V. No se autorizará el suministro o intercambio de información en poder de aut
 
 Se exceptúa de la prohibición contenida en la fracción V del artículo anterior, a los permisionarios de servicios de seguridad privada, por lo que el Ejecutivo del Estado podrá suscribir con los mismos, convenio de suministración de información obtenida a través del uso de equipos o sistemas tecnológicos o productos de inteligencia para la prevención derivada de dicha información, conforme a lo siguiente:
 
-l. Que los permisionarios de los servicios de seguridad privada cuenten con autorización, licencia, permiso o aviso de registro, vigente, expedido por el "Escudo Urbano C5";
+I. Que los permisionarios de los servicios de seguridad privada cuenten con autorización, licencia, permiso o aviso de registro, vigente, expedido por el "Escudo Urbano C5";
 
 II. Que el suministro de información o productos de inteligencia tenga como función principal la debida actuación de los permisionarios en el desempeño de sus servicios de seguridad privada, así como el combate a la delincuencia y otras conducta (sic) ilícitas, en ejercicio de sus actividades auxiliares o complementarias de la seguridad pública;
 
@@ -2681,7 +2653,7 @@ III. Multa de 100 a 1,000 días de Unidad de Medida y Actualización, destituci�
 
 Cuando se cometan infracciones por particulares y prestadores privados de servicios de seguridad, se aplicarán las siguientes sanciones:
 
-l. Con multa de 50 a 300 días de Unidad de Medida y Actualización, si no se encuentra visible el aviso de privacidad en su versión integral o en su caso el corto;
+I. Con multa de 50 a 300 días de Unidad de Medida y Actualización, si no se encuentra visible el aviso de privacidad en su versión integral o en su caso el corto;
 
 II. Con multa de 100 a 500 días de Unidad de Medida y Actualización, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada para ser difundidas o que no las entregue conforme lo marca la presente Ley; y
 
@@ -2699,7 +2671,7 @@ Las sanciones antes citadas serán independientes de las que resulten aplicables
 
 La aplicación e imposición de las sanciones previstas en la presente Ley se realizarán en los siguientes términos:
 
-l. El Comisionado de Seguridad Pública del Estado, recibida la queja o conocidos los hechos, actos y responsables, ordenará integrar el expediente correspondiente;
+I. El Comisionado de Seguridad Pública del Estado, recibida la queja o conocidos los hechos, actos y responsables, ordenará integrar el expediente correspondiente;
 
 II. Se podrán realizar las diligencias y actividades que se estimen necesarias y oportunas para la debida integración del expediente respectivo;
 
@@ -2747,7 +2719,7 @@ En los municipios podrá haber Consejo Consultivo Ciudadano de Seguridad Públic
 
 El Consejo Ciudadano se conformará de la siguiente manera:
 
-l. Un Presidente, que será el Gobernador del Estado o la persona que este designe;
+I. Un Presidente, que será el Gobernador del Estado o la persona que este designe;
 
 II. El Titular de cada una de las siguientes dependencias estatales o quien este designe;
 
@@ -2913,7 +2885,7 @@ El servicio de seguridad privada es aquel que se presta por personas físicas o 
 
 Para los efectos de esta ley, los servicios de seguridad privada solamente podrán prestarse en las siguientes modalidades:
 
-l. Protección y vigilancia:
+I. Protección y vigilancia:
 
 a) De bienes muebles o inmuebles; y
 
@@ -2937,7 +2909,7 @@ V. Sistemas de alarmas, instalación y monitoreo electrónico, exceptuándose la
 
 Dentro de las modalidades mencionadas en el artículo anterior serán considerados como servicios de seguridad privada los siguientes:
 
-l. El realizado por personas y cuerpos privados de seguridad pertenecientes a organismos e instituciones de servicios financieros o análogos, incluyendo el servicio prestado por éstos para la protección, vigilancia o custodia y traslado de bienes o valores;
+I. El realizado por personas y cuerpos privados de seguridad pertenecientes a organismos e instituciones de servicios financieros o análogos, incluyendo el servicio prestado por éstos para la protección, vigilancia o custodia y traslado de bienes o valores;
 
 II. El que se preste en áreas urbanas como colonias, fraccionamientos y zonas residenciales, aunque dichos servicios sean a costa de los residentes de esos lugares;
 
@@ -2953,7 +2925,7 @@ En estos casos, sólo se tendrá la obligación de registrarse ante el Consejo E
 
 Los organismos, compañías, grupos e individuos que por sí o por terceros presten los servicios de seguridad privada enumerados en los artículos anteriores, además de los requisitos que señale el reglamento respectivo, deberán sujetarse a los siguientes lineamientos:
 
-l. Queda estrictamente prohibida la realización de actividades que sean competencia del Ministerio Público o de los cuerpos de seguridad pública;
+I. Queda estrictamente prohibida la realización de actividades que sean competencia del Ministerio Público o de los cuerpos de seguridad pública;
 
 II. No deberán utilizar las denominaciones de "policía", "agentes", o "investigadores" en su publicidad, documentos o bienes, debiendo identificarse como elementos de seguridad privada. También queda prohibido a estos elementos usar el escudo nacional, del Estado o municipios, logotipos, lemas o uso de claves operativas para la comunicación de las instituciones de seguridad pública;
 
@@ -2977,7 +2949,7 @@ Los particulares que cuenten con autorización federal para prestar los servicio
 
 Corresponde al Ejecutivo del Estado, a través de las dependencias, organismos y unidades administrativas que resulten competentes de conformidad con lo establecido en la presente ley y el reglamento de la materia, lo siguiente:
 
-l. Supervisar permanentemente al personal, instalaciones, equipo y operaciones de los cuerpos de seguridad privada que realicen actividades en el estado;
+I. Supervisar permanentemente al personal, instalaciones, equipo y operaciones de los cuerpos de seguridad privada que realicen actividades en el estado;
 
 II. Sancionar a las personas físicas o morales que presten servicios de seguridad privada cuando incurran en las infracciones que señale el reglamento respectivo; y
 
@@ -3003,7 +2975,7 @@ Se impondrá, de uno a dos años de prisión y multa de cien a seiscientas veces
 
 Se sancionará con dos a ocho años de prisión y de quinientos a mil días multa a quien:
 
-l. Ingrese dolosamente a las bases de datos del sistema previstos en esta ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan; y
+I. Ingrese dolosamente a las bases de datos del sistema previstos en esta ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan; y
 
 II. Asigne nombramiento de elemento operativo a persona que no haya sido certificada y registrada en los términos de esta ley.
 
@@ -3141,7 +3113,7 @@ UNICO. El presente decreto entrará en vigor al día siguiente de su publicació
 
 P.O. 24 DE MAYO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 25832/LXI/16 QUE REFORMA LOS ARTÍCULOS 3, 160, 161, 162 Y 163 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LOS ARTÍCULOS 6° Y 21 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25832/LXI/16 QUE REFORMA LOS ARTÍCULOS 3, 160, 161, 162 Y 163 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LOS ARTÍCULOS 6° Y 21 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3266,3 +3238,65 @@ Quinto. Así mismo se concede un término de noventa días naturales a partir de
 Sexto. Se concede un término de 180 días naturales para que el Gobernador del Estado expida el Reglamento Interno del Escudo Urbano C5.
 
 Séptimo. Para efectos del artículo Sexto Transitorio del Decreto 26408/LXI/17, hasta en tanto se designa titular del Órgano de Control Interno del organismo público descentralizado que se crea mediante este Decreto, la persona que ocupe la titularidad de la Dirección Jurídica realizará las funciones de dicho Órgano de Control Interno.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27216/LXII/18 QUE EXPIDE LA LEY DEL SERVICIO DE PROTECCIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y REFORMA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado de Jalisco contará con un término de sesenta días hábiles para realizar las modificaciones o adecuaciones a los reglamentos y disposiciones administrativas que resulten aplicables, para dar cumplimiento con este decreto.
+
+TERCERO. Los sujetos que cuenten con protección por parte del estado o de algún municipio al momento de entrar en vigor el presente dictamen, deberán solicitar la continuidad del servicio en un termino improrrogable de 10 días; de no hacerlo, se entenderá que no la requieren y por lo tanto la autoridad que preste el servicio ordenará a los elementos asignados que se reincorporen inmediatamente a la corporación.
+
+CUARTO. A la entrada en vigor del presente decreto, en un termino de diez días, todos los servidores públicos actualmente asignados a servicios de seguridad, vigilancia, protección en el Estado y los municipios, deberán presentarse con los vehículos, armamento y demás equipo otorgados para la realización de su comisión, a efecto de saber su lugar de asignación. En caso que dichos servidores públicos no se presenten, la dependencia a la que pertenecen, iniciará los procesos administrativos de sanción correspondientes.
+
+El titular de la dependencia deberá solicitar los dictámenes correspondientes para que se liberen las órdenes de protección que por ley se deben de prestar.
+
+QUINTO. Quien hubiera desempeñado los siguientes cargos, tendrá derecho a la asignación de elementos para su protección por el termino de ley, debiéndose emitir el dictamen técnico de conformidad al siguiente cuadro:
+
+Cargo Personal Vehículos
+
+asignado blindados
+
+por día
+
+Gobernador 18 2
+
+Secretario
+
+General de
+
+Gobierno 4 1
+
+Fiscal General 18 2
+
+Secretario de
+
+Seguridad Pública 10 2
+
+Fiscal Central 4 1
+
+Fiscales Regionales 4 1
+
+Fiscal de
+
+Readaptación
+
+Social 4 1
+
+Secretario de
+
+Movilidad y
+
+Transporte 2 1
+
+Presidente del
+
+Supremo Tribunal
+
+de Justicia 2 1
+
+SEXTO. Quienes hayan desempeñado un cargo de los enunciados en el articulo que anteceden (sic) podrán solicitar la distribución de horarios del personal asignado o la disminución de este, pero no se le asignara mayor personal del señalado en el mismo.
+
+SEPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
