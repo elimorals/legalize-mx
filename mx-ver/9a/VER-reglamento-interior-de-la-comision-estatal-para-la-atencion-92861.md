@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-comision-estatal-para-la-atencion-928
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-14"
-last_updated: "2018-02-21"
+last_updated: "2018-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 14 de febrero de 2013.
 
@@ -151,7 +151,7 @@ VIII. Aprobar su proyecto de presupuesto anual, que será enviado al Titular del
 
 IX. Aprobar el orden del día de las sesiones ordinarias y extraordinarias;
 
-X. Emitir las resoluciones de los recursos de queja que le sean sometidos;
+X. (DEROGADA, G.O. 11 DE DICIEMBRE DE 2018)
 
 XI. Aprobar la propuesta de retiro de un asunto incluido en el orden del día de las sesiones ordinarias;
 
@@ -173,7 +173,7 @@ XIX. Aprobar, a solicitud de cualquiera de los Comisionados o de los demás serv
 
 XX. Informar al Congreso sobre la falta absoluta de algunos de los Comisionados, para los efectos legales procedentes;
 
-XXI. Conocer y resolver sobre los procedimientos administrativos relativos a faltas e infracciones en que incurran los servidores públicos de la Comisión, en los términos de la normatividad aplicable, previa fase de instrucción del asunto por el titular de la Contraloría;
+XXI. (DEROGADA, G.O. 11 DE DICIEMBRE DE 2018)
 
 XXII. Aprobar el calendario oficial de labores de la Comisión que será publicado en la Gaceta Oficial del estado; y
 
@@ -257,7 +257,9 @@ e) La Unidad de Acceso a la Información Pública y,
 
 f) La Unidad de Género
 
-II. El Órgano de Control Interno, que dependerá directamente del Pleno de la Comisión.
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2018)</small>
+
+II. El Órgano de Control Interno, que se organizará conforme a lo dispuesto por el artículo 28 Bis, en lo que no contravenga con lo dispuesto por los artículos 2, 3, 4, 7, 11 y 12 de la Ley 586 de la Comisión Estatal para la Atención y Protección de los Periodistas, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
 
 III. Las demás áreas y personal profesional, técnico y administrativo necesario para el desempeño de sus atribuciones, que de acuerdo con el presupuesto y programas de la Comisión, autorice el Pleno.
 
@@ -1321,11 +1323,11 @@ A petición del solicitante, o cuando concluyan los procedimientos sobre los cua
 
 ### CAPÍTULO VI. DE LOS RECURSOS
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 99], G.O. 7 DE MARZO DE 2017)
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 95.
 
-No se admitirán más recursos que los de reconsideración, inconformidad y queja.
+No se admitirán más recursos que los de reconsideración e inconformidad.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 100], G.O. 7 DE MARZO DE 2017)</small>
 
@@ -1345,11 +1347,11 @@ Procede el recurso de reconsideración para las resoluciones que sobresean el pr
 
 Procede el recurso de inconformidad en contra de la negativa de prórroga por parte de la Dirección de Procesos y el recurso será resuelto por el titular de dicha Dirección en un plazo no mayor a siete días hábiles.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 103], G.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 99.
 
-Procede el recurso de queja contra aquellas acciones u omisiones cometidas por los funcionarios que integran las Direcciones de Procesos y Jurídica, así como las Unidades Administrativas y de Acceso a la Información, el cual será sustanciado por el titular de la Contraloría Interna y será resuelto y aprobado por el Pleno de la Comisión en un plazo no mayor a quince días hábiles.
+La Comisión contará con un Sistema Institucional de Archivos, conforme a la disponibilidad presupuestal con que cuente, observando lo establecido en los Lineamientos para la Organización y Conservación de los Archivos emitidos por el Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y de acuerdo a lo estipulado en la Ley General de Archivos.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -1492,3 +1494,13 @@ G.O. 21 DE FEBRERO DE 2018.
 Único. Las reformas al Reglamento Interior de la Comisión Estatal para la Atención y Protección de los Periodistas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 > <small>[N. DE E. VÉASE PROYECTO DE LINEAMIENTOS GENERALES PARA LA IMPLEMENTACIÓN DEL PROGRAMA PREVENTIVO Y DE SEGURIDAD DE LA CEAPP, EN LA G.O. DE 21 DE FEBRERO DE 2018, PÁGINAS DE LA 6 A LA 11.]</small>
+
+G.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CEAPP/PLENO/SO-01/07-12-2018 DEL PLENO DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, POR EL CUAL SE APRUEBA EL ACUERDO QUE DEROGAN (SIC) LAS FRACCIONES X Y XXI DEL ARTÍCULO 7; SE REFORMA Y ADICIONA LA FRACCIÓN II DEL ARTÍCULO 10; Y SE REFORMA EL ARTÍCULO 95 Y 99 DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS”.]
+
+PRIMERO. Las reformas al Reglamento Interior de la Comisión Estatal para la atención y Protección de los Periodistas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se instruye al Secretario Ejecutivo para que se publique en la Gaceta Oficial del Estado y en el Portal de Transparencia del sitio en Internet de la Comisión Estatal para la Atención y Protección de los Periodistas.
+
+TERCERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
