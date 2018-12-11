@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2018-11-27"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
-EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTOU, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTOU Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
 Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
 
@@ -1935,7 +1935,9 @@ d).- Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
 e).- El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
 
-f).- La Unidad de Previsión y Seguridad Social para los Trabajadores del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+f).- El Instituto de Previsión y Seguridad Social del Estado de Tamaulipas.
 
 g).- Comisión para la Regularización de la Tenencia de la Tierra.
 
@@ -1955,7 +1957,9 @@ d).- Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
 e).- El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
 
-f).- La Unidad de Previsión y Seguridad Social para los Trabajadores del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+f).- El Instituto de Previsión y Seguridad Social del Estado de Tamaulipas.
 
 g).- Comisión para la Regularización de la Tenencia de la Tierra.
 
@@ -6176,3 +6180,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-522 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS F) DE LAS FRACCIONES I Y II DEL ARTÍCULO 129 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
