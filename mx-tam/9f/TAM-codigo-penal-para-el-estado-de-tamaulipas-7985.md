@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2018-10-30"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -31,13 +31,13 @@ Al margen un sello que dice "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.-
 
 EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTOU, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-QUE LA QUINCUAGESIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO, en nombre del pueblo que representa se ha servido expedir el siguiente:
+QUE LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO, en nombre del pueblo que representa se ha servido expedir el siguiente:
 
 DECRETO No. 410
 
-Que contiene el CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
+Que contiene el CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
+CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
 # LIBRO PRIMERO. PARTE GENERAL
 
@@ -3843,7 +3843,7 @@ Los parientes o tutores que entreguen en una casa de expósitos a un niño que e
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO I. AMENAZAS Y DISCRIMINACIÓN
+### CAPÍTULO I. AMENAZAS, DISCRIMINACIÓN Y COBRANZA EXTRAJUDICIAL ILEGAL
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -3959,7 +3959,7 @@ Si los actos de necrofilia consisten en la realización del coito, la sanción s
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO IV. DELITOS CON MOTIVO DEL TRANSITO DE VEHICULOS
 
@@ -4022,6 +4022,18 @@ Al servidor público que, por las razones previstas en el presente artículo, ni
 No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+
+Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 309 TER.- Comete el delito de cobranza extrajudicial ilegal quien con la finalidad de requerir el pago de una deuda, haga uso de la violencia, amenazas o intimidación en contra del deudor o de alguien con quien el deudor se encuentre ligado por algún vínculo familiar, afectivo o que haya fungido como referencia o aval. Al responsable del delito, se le sancionará de uno a cuatro años de prisión y multa de cincuenta a ciento cincuenta el valor diario de la Unidad de Medida y Actualización.
+
+Sí utiliza además documentos o sellos falsos, la pena y la sanción económica aumentarán una mitad.
+
+Si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalado en el Código Penal para el Estado de Tamaulipas.
+
+No se considerará como cobranza extrajudicial ilegal, informar aquellas consecuencias posibles y jurídicamente válidas por la falta de pago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a éstos cuando éstas sean jurídicamente posibles.
 
 Este delito se perseguirá por querella.
 
@@ -6712,3 +6724,11 @@ P.O. 30 DE OCTUBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-526 MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DÉCIMO QUINTO Y SE ADICIONA EL ARTÍCULO 309 TER AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
