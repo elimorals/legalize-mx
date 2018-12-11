@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-131982"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-08"
-last_updated: "2018-12-08"
+last_updated: "2018-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE DICIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 11 DE DICIEMBRE DE 2018.]</small>
 
 Ley publicada en el Número 414 del Periódico Oficial del Estado de Chiapas, el sábado 8 de diciembre de 2018.
 
@@ -253,7 +253,9 @@ II. Secretaría de Hacienda
 
 III. Secretaría de la Honestidad y Función Pública
 
-IV. Secretaría de la Igualdad de Género
+> <small>(F. DE E., P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+IV. Secretaría de Igualdad de Género
 
 V. Secretaría de Protección Civil
 
@@ -1325,7 +1327,9 @@ k) Las relativas a la juventud que tenía atribuidas la Secretaría de la Juvent
 
 l) Las correspondientes al Deporte que tenía atribuidas la Secretaría de la Juventud, Recreación y Deporte, por el organismo auxiliar del Poder Ejecutivo del Estado, que tendrá las atribuciones, funciones y estructura que determine su decreto de creación.
 
-m) Las relativas a la Secretaría para el Desarrollo y el Empoderamiento de la Mujer, por la Secretaría de Igualdad de Género.
+> <small>(F. DE E., P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+m) Las relativas a la Secretaría para el Desarrollo y el Empoderamiento de las Mujeres, por la Secretaría de Igualdad de Género.
 
 n) Las de la Secretaría de Desarrollo Social, por la Secretaría de Bienestar.
 
