@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-sujetos-protegidos-para-el-estado-de-jalisco-102571"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-27"
-last_updated: "2016-10-11"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL P.O. DE 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2014.
 
@@ -45,6 +43,8 @@ Las disposiciones de esta Ley son de orden público e interés social y tienen p
 
 La protección que se establece en esta Ley se extenderá a víctimas, ofendidos, testigos, jueces, magistrados, agentes del Ministerio Público, policías, peritos y allegados involucrados en el proceso penal, en caso de así proceder.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de la presente Ley, se entiende por:
@@ -57,7 +57,9 @@ III. Ley: A la presente Ley;
 
 IV. Fiscalía: Fiscalía General del Estado de Jalisco;
 
-V. Dirección: Dirección General del Centro de Atención y Protección a Sujetos en Riesgo de la Fiscalía de Derechos Humanos;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+V. Servicio: el Servicio de Protección Estatal de la dependencia encargada de la seguridad pública en el estado;
 
 VI. Allegados: A las personas ligadas con vínculos de parentesco o afectivos con el sujeto protegido o testigo, que se vean en situación de riesgo o peligro inminente por las actividades de éste en el proceso; y
 
@@ -91,11 +93,11 @@ Todas las entidades, organismos y dependencias estatales o municipales, y demás
 
 Las instancias mencionadas estarán obligadas a mantener en reserva y estricta confidencialidad toda la información que adquieran en virtud de su participación en las actividades de colaboración que ordena esta Ley.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 8.
 
-La protección y asistencia a que se refiere la presente Ley, debe proporcionarlas el Ministerio Público, a través de la Dirección y demás obligados por la presente Ley.
-
-El Ministerio Público podrá solicitar la colaboración de cualquier autoridad para garantizar, de manera efectiva, la seguridad y bienestar físico, psicológico y social de los testigos y sus allegados en los términos de la presente Ley.
+La protección y asistencia a que se refiere la presente Ley, debe proporcionarlas el Ministerio Público, a través del Servicio y demás obligados por la presente Ley.
 
 ###### ARTÍCULO 9.
 
@@ -125,11 +127,13 @@ Las instituciones de seguridad pública federal, estatal y municipal, como órga
 
 Las instituciones policiales, establecerán grupos especiales para evaluar el grado de riesgo para los sujetos o testigos y sus allegados y para ejecutar las medidas de protección y asistencia que hubieren sido ordenadas por el Ministerio Público o el órgano jurisdiccional correspondiente.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 15.
 
-El titular de la Dirección establecerá y mantendrá las veinticuatro horas de los trescientos sesenta y cinco días del año las líneas telefónicas de emergencia o cualquier otro medio de comunicación que se estimen necesarias, con personal alta y especialmente capacitado.
+El titular del Servicio establecerá y mantendrá las veinticuatro horas de los trescientos sesenta y cinco días del año, las líneas telefónicas de emergencia o cualquier otro medio de comunicación que se estimen necesarias (sic), con personal alta y especialmente capacitado.
 
-El personal de esta Dirección que reciba llamadas por la línea telefónica de emergencia, de acuerdo con las circunstancias del caso, realizará todas las acciones necesarias para proporcionar la inmediata protección y atención requeridas por los usuarios del servicio. En caso de gravedad, comunicará el evento al Ministerio Público y al titular de la Dirección.
+El personal del Servicio que reciba llamadas por la línea telefónica de emergencia, de acuerdo con las circunstancias del caso, realizará todas las acciones necesarias para proporcionar la inmediata protección y atención requeridas por los usuarios del servicio. En caso de gravedad, comunicará el evento al Ministerio Público y al titular del Servicio.
 
 De todas las llamadas se conservará un registro de audio y se hará un registro de todas las acciones adoptadas para atender la llamada.
 
@@ -161,9 +165,11 @@ Toda medida de protección debe ser impuesta provisionalmente, de acuerdo con la
 
 Cuando por el cambio de las circunstancias que dieron lugar a la medida de protección, o por su ineficacia, sea necesario modificarla, se podrán imponer otras medidas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 19.
 
-Además de las medidas establecidas por el Código Nacional de Procedimientos Penales, para garantizar la protección de los sujetos en riesgo con motivo del procedimiento penal el Ministerio Público, en coordinación con la Dirección podrá disponer la ejecución de las medidas de protección que resulten adecuadas, entre ellas:
+Además de las medidas establecidas por el Código Nacional de Procedimientos Penales, para garantizar la protección de los sujetos en riesgo con motivo del procedimiento penal el Ministerio Público, en coordinación con el Servicio podrá disponer la ejecución de las medidas de protección que resulten adecuadas, entre ellas:
 
 I. Proveer la seguridad necesaria para la protección de la integridad física de los sujetos o testigos y, en su caso, de la de sus allegados. Para tales efectos se podrá disponer:
 
@@ -219,6 +225,8 @@ En los casos en que el Ministerio Público lo estime necesario, podrá solicitar
 
 El resguardo de la identidad y de otros datos personales, es una medida de protección a cargo de todas las autoridades involucradas en el procedimiento penal, especialmente del Ministerio Público y del Poder Judicial, y se impondrá invariablemente desde la primera actuación hasta el final del proceso, o hasta que se considere conveniente, para los sujetos, testigos y sus allegados, cuando sean menores de edad, se trate de delitos de violación, contra la libertad y el normal desarrollo psicosexual, violencia familiar, secuestro, trata de personas o cuando a juicio del Órgano jurisdiccional sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 23.
 
 Los mecanismos para el resguardo de la identidad y de otros datos personales de los sujetos de la presente Ley, consistirán en:
@@ -229,7 +237,9 @@ II. La adopción de formas de control para su individualización, mediante numer
 
 III. La recepción de sus testimonios especiales en términos del Código Nacional de Procedimientos Penales;
 
-IV. La fijación como domicilio para recibir toda clase de citaciones y notificaciones, en la sede de la Dirección, quien las comunicará con la debida reserva y los acompañará a la audiencia respectiva y a su domicilio; y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+IV. La fijación como domicilio para recibir toda clase de citaciones y notificaciones, en la sede del Servicio, quien las comunicará con la debida reserva y los acompañará a la audiencia respectiva y a su domicilio; y
 
 V. Cualquier otro mecanismo tendiente a su protección.
 
@@ -238,6 +248,8 @@ V. Cualquier otro mecanismo tendiente a su protección.
 En cualquier otro caso, el Ministerio Público o cualquier otra autoridad, cuando estime que la vida, integridad física o psicológica de los sujetos, testigos y sus allegados corra riesgo de peligro, impondrá provisionalmente el resguardo de éstos.
 
 ### CAPÍTULO IV (SIC). CONDICIONES PARA EL MANTENIMIENTO DE LAS MEDIDAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 25.
 
@@ -255,9 +267,13 @@ V. Colaborar para que su protección se desarrolle en condiciones dignas;
 
 VI. En su caso, abstenerse de consumir sustancias embriagantes y psicotrópicas;
 
-VII. Colaborar y someterse a los tratamientos médicos, psicológicos y de rehabilitación que determine la Dirección;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
-VIII. Mantener comunicación constante con la Dirección, por conducto de las personas que le fueren asignadas;
+VII. Colaborar y someterse a los tratamientos médicos, psicológicos y de rehabilitación que determine el Servicio;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
+VIII. Mantener comunicación constante con el Servicio, por conducto de las personas que le fueren asignadas;
 
 IX. Observar un comportamiento ético y moral; y
 
@@ -271,13 +287,17 @@ Se suspenderán o cancelarán las medidas de protección, cuando el beneficiario
 
 ### CAPÍTULO V. AUTORIDADES COMPETENTES
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 27.
 
-La Fiscalía a través de la Dirección, es el órgano competente para garantizar la protección de los sujetos, testigos y sus allegados, otorgando a quienes considere pertinente, las medidas necesarias para garantizar su vida, su integridad física, y cualquier otro bien que les sea propio.
+El Servicio, es el órgano competente para garantizar la protección de los sujetos, testigos y sus allegados, otorgando a quienes considere pertinente, las medidas necesarias para garantizar su vida, su integridad física, y cualquier otro bien que les sea propio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 28.
 
-La Fiscalía a través de la Dirección en el cumplimiento de los objetivos de esta Ley, sin perjuicio de aquéllas conferidas por otros ordenamientos, tiene las siguientes atribuciones:
+El Servicio a través de la Secretaría de Seguridad o de la Fiscalía, según corresponda, en el cumplimiento de los objetivos de esta Ley, sin perjuicio de aquéllas conferidas por otros ordenamientos, tiene las siguientes atribuciones:
 
 I. Elaborar anualmente un programa de protección a los sujetos y testigos en riesgo y sus allegados, así como el presupuesto estimado necesario para su ejecución;
 
@@ -432,3 +452,57 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27216/LXII/18 QUE EXPIDE LA LEY DEL SERVICIO DE PROTECCIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y REFORMA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado de Jalisco contará con un término de sesenta días hábiles para realizar las modificaciones o adecuaciones a los reglamentos y disposiciones administrativas que resulten aplicables, para dar cumplimiento con este decreto.
+
+TERCERO. Los sujetos que cuenten con protección por parte del estado o de algún municipio al momento de entrar en vigor el presente dictamen, deberán solicitar la continuidad del servicio en un termino improrrogable de 10 días; de no hacerlo, se entenderá que no la requieren y por lo tanto la autoridad que preste el servicio ordenará a los elementos asignados que se reincorporen inmediatamente a la corporación.
+
+CUARTO. A la entrada en vigor del presente decreto, en un termino de diez días, todos los servidores públicos actualmente asignados a servicios de seguridad, vigilancia, protección en el Estado y los municipios, deberán presentarse con los vehículos, armamento y demás equipo otorgados para la realización de su comisión, a efecto de saber su lugar de asignación. En caso que dichos servidores públicos no se presenten, la dependencia a la que pertenecen, iniciará los procesos administrativos de sanción correspondientes.
+
+El titular de la dependencia deberá solicitar los dictámenes correspondientes para que se liberen las órdenes de protección que por ley se deben de prestar.
+
+QUINTO. Quien hubiera desempeñado los siguientes cargos, tendrá derecho a la asignación de elementos para su protección por el termino de ley, debiéndose emitir el dictamen técnico de conformidad al siguiente cuadro:
+
+Cargo Personal Vehículos
+
+asignado blindados
+
+por día
+
+Gobernador 18 2
+
+Secretario General 4 1
+
+de Gobierno
+
+Fiscal General 18 2
+
+Secretario de 10 2
+
+Seguridad Pública
+
+Fiscal Central 4 1
+
+Fiscales Regionales 4 1
+
+Fiscal de Readaptación 4 1
+
+Social
+
+Secretario de Movilidad 2 1
+
+y Transporte
+
+Presidente del Supremo 2 1
+
+Tribunal de Justicia
+
+SEXTO. Quienes hayan desempeñado un cargo de los enunciados en el articulo que anteceden podrán solicitar la distribución de horarios del personal asignado o la disminución de este, pero no se le asignara mayor personal del señalado en el mismo.
+
+SEPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
