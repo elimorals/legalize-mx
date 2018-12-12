@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2018-09-26"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -1389,11 +1389,17 @@ h. Diario de los Debates.
 
 i. Consultas.
 
-j. Premios y Reconocimientos.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO EN EL P.O. DE 12 DE DICIEMBRE DE 2018, PÁGINA 6091.]</small>
 
-k. Gaceta Parlamentaria.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2018)</small>
 
-l. Biblioteca.
+j) Gaceta Parlamentaria.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO EN EL P.O. DE 12 DE DICIEMBRE DE 2018, PÁGINA 6091.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2018)</small>
+
+k) Biblioteca.
 
 III. En la Secretaría de Asuntos Interinstitucionales:
 
@@ -1404,6 +1410,10 @@ b. Contencioso.
 c. Comunicación Social.
 
 d. Gestoría Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2018)</small>
+
+e) Premios, Reconocimientos, Homenajes y Medallas.
 
 IV. En la Unidad de Transparencia:
 
@@ -1566,3 +1576,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todos los recursos humanos, materiales, financieros, presupuestales y documentales, en cualquier soporte, del Archivo Histórico, adscrito a la Biblioteca Carlos Montemayor Aceves de la Secretaría de Asuntos Legislativos, antes de la entrada en vigor del presente Decreto, se transfieren de manera íntegra y en todos sus términos a la Dirección de Archivos, dependiente de la Secretaría de Administración del H. Congreso del Estado, para lo cual se suscribirán las actas de entrega-recepción pertinentes, durante el presente año 2018, con la intervención de las instancias y gestiones que resulten necesarias.
 
 TERCERO.- Para los efectos previstos en el artículo que antecede, la Secretaría de Administración del Poder Legislativo hará las gestiones a que hubiera lugar; así mismo, tomará las medidas organizativas y presupuestales necesarias, que garanticen la correcta ejecución y continuidad del Sistema Institucional de Archivos.
+
+P.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0043/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN XX, Y SE ADICIONA LA FRACCIÓN XXI, AL ARTÍCULO 131 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 142 DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
