@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12271
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-17"
-last_updated: "2017-07-17"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Gobierno del Estado de Baja California Sur, el lunes 17 de Julio de 2017.
 
@@ -141,7 +143,11 @@ XXIX. Servidores públicos: los señalados en la Constitución Política del Est
 
 XXX. Tribunal: el Tribunal de Justicia Administrativa del Estado de Baja California Sur;
 
-XXXI. Unidad de Medida y Actualización: el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26 aparatado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XXXI. Unidad: la Unidad de Evaluación y Control de la Comisión; y
+
+XXXII. Unidad de Medida y Actualización: el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26 aparatado (sic) B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
 
 Las definiciones previstas en los artículos 2 de la Ley de Presupuesto y Control del Gasto Público del Estado de Baja California Sur; 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 4 de la Ley General de Contabilidad Gubernamental, serán aplicables a la presente Ley.
 
@@ -877,19 +883,37 @@ VII. Evaluar el desempeño de la Auditoría Superior del Estado de Baja Californ
 
 La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior del Estado de Baja California Sur cumple con las atribuciones que conforme a la Constitución Política del Estado Libre y Soberano de Baja California Sur y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes públicos, en los resultados de los programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos estatales y municipales que ejerzan.
 
-VIII. Proponer al Pleno del Poder Legislativo, los recursos materiales, humanos y presupuestarios que requiere para el cumplimiento de sus funciones;
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+VIII. Proponer al Pleno del Congreso del Estado, al Titular de la Unidad y (sic) los recursos materiales, humanos y presupuestarios con los que debe contar la propia Unidad;
 
 IX. Acordar la práctica de auditorías a la Auditoría Superior del Estado de Baja California Sur;
 
-X. Aprobar los indicadores que utilizará para la evaluación del desempeño de la Auditoría Superior del Estado de Baja California Sur y, en su caso, los elementos metodológicos que sean necesarios para dicho efecto;
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+X. Aprobar los indicadores que utilizará la Unidad para la evaluación del desempeño de la Auditoría Superior del Estado de Baja California Sur y, en su caso, los elementos metodológicos que sean necesarios para dicho efecto y los indicadores de la Unidad;
 
 XI. Conocer el Reglamento Interior de la Auditoría Superior del Estado de Baja California Sur;
 
 XII. Analizar la información, en materia de fiscalización superior del Estado y Municipios, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos vinculados con los resultados de la fiscalización;
 
-XIII. Invitar a la sociedad civil organizada a que participe como observadores o testigos sociales en las sesiones ordinarias de la Comisión; así como, en la realización de ejercicios de contraloría social en los que se articule a la población con los entes fiscalizados; y
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
 
-XIV. Las demás que establezcan esta Ley y demás disposiciones legales aplicables.
+XIII. Proponer al Pleno del Congreso del Estado, el Reglamento Interior de la Unidad;
+
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XIV. Aprobar el programa de actividades de la Unidad y requerirle todo tipo de información relativa a sus funciones; de igual forma, aprobar políticas, lineamientos y manuales que la Unidad requiera para el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XV. Ordenar a la Unidad la práctica de evaluación del desempeño a la Auditoría Superior del Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XVI. Invitar a la sociedad civil organizada a que participe como observadores o testigos sociales en las sesiones ordinarias que acuerde la Comisión; así como, en la realización de ejercicios de contraloría social en los que se articule a la población con los entes fiscalizados; y
+
+XVII. Las demás que establezcan esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 82.
 
@@ -1089,47 +1113,121 @@ La relación jurídica de trabajo se entiende establecida entre la Auditoría Su
 
 ### Capítulo II. De la vigilancia de la Auditoría Superior del Estado de Baja California Sur
 
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 102.
 
-En el cumplimiento de sus atribuciones, la Comisión vigilará el estricto cumplimiento de las funciones a cargo de los servidores públicos de la Auditoría Superior del Estado de Baja California Sur.
+La Comisión, a través de la Unidad, vigilará que el Titular de la Auditoría Superior del Estado de Baja California Sur, los auditores especiales, los auditores y los demás servidores públicos de la Auditoría Superior del Estado de Baja California Sur en el desempeño de sus funciones, se sujeten a lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y a las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 103.
 
-La Comisión tendrá las siguientes atribuciones:
+Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones existirá la Unidad, encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores públicos de la Auditoría Superior del Estado de Baja California Sur, la cual formará parte de la estructura de la Comisión.
 
-I. Vigilar que los servidores públicos de la Auditoría Superior del Estado de Baja California Sur se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
+La Unidad, en el caso de los servidores públicos de la Auditoría Superior del Estado de Baja California Sur, podrá imponer las sanciones por faltas administrativas no graves previstas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur o, tratándose de faltas graves en términos de dicha ley, promover la imposición de sanciones ante el Tribunal, por lo que contará con todas las facultades que dicha Ley otorga a las autoridades investigadoras y substanciadoras. Se deberá garantizar la estricta separación de las unidades administrativas adscritas a la Unidad, encargadas de investigar y substanciar los procedimientos administrativos sancionadores en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur. Asimismo, podrá proporcionar apoyo técnico a la Comisión en la evaluación del desempeño de la Auditoría Superior del Estado de Baja California Sur.
 
-II. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado de Baja California Sur, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la propia Comisión;
-
-III. Participar en los actos de entrega recepción de los servidores públicos de mando superior de la Auditoría Superior del Estado de Baja California Sur;
-
-IV. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la Auditoría Superior del Estado de Baja California Sur;
-
-V. Conocer y resolver de las inconformidades que presenten los proveedores o contratistas, por el incumplimiento de las disposiciones aplicables para la Auditoría Superior del Estado de Baja California Sur en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas.
-
-Igualmente participará con voz, pero sin voto, en los comités de obras y de adquisiciones de la Auditoría Superior del Estado de Baja California Sur, establecidos en las disposiciones aplicables para la Auditoría Superior del Estado de Baja California Sur, en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas;
-
-VI. Aprobar los indicadores y sistemas de evaluación que utilice para evaluar a la Auditoría Superior del Estado de Baja California Sur, así como los sistemas de seguimiento a las observaciones y acciones que promueva la propia Comisión;
-
-VII. Requerir a las unidades administrativas de la Auditoría Superior del Estado de Baja California Sur, la información necesaria para cumplir con sus atribuciones; y
-
-VIII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
-
-Las entidades fiscalizadas tendrán la facultad de formular queja ante la Comisión sobre los actos del Titular de la Auditoría Superior del Estado de Baja California Sur que contravengan las disposiciones de esta Ley, en cuyo caso la Comisión sustanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, notificando al quejoso el dictamen correspondiente, previa aprobación de la Comisión, y remitiendo asimismo dicho dictamen a la Junta de Gobierno y Coordinación Política para los efectos conducentes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 12 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 104.
 
-La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas por la Auditoría Superior del Estado de Baja California Sur en el programa anual de auditorías y cuyos resultados deberán ser considerados en los informes individuales y, en su caso, en el Informe General. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Anticorrupción del Estado de Baja California Sur, debiendo el Auditor Superior del Estado de Baja California Sur, informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
+La Unidad tendrá las siguientes atribuciones:
+
+I. Vigilar que los servidores públicos de la Auditoría Superior del Estado de Baja California Sur se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
+
+II. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado de Baja California Sur, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión;
+
+III. Recibir denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte del Titular de la Auditoría Superior del Estado de Baja California Sur, auditores especiales y demás servidores públicos de la Auditoría Superior del Estado de Baja California Sur, iniciar investigaciones y, en el caso de faltas administrativas no graves, imponer las sanciones que correspondan, en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
+
+IV. Conocer y resolver el recurso que interpongan los servidores públicos sancionados por faltas no graves conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
+
+V. Realizar la defensa jurídica de las resoluciones que se emitan ante las diversas instancias jurisdiccionales e interponer los medios de defensa que procedan en contra de las resoluciones emitidas por el Tribunal, cuando la Unidad sea parte en esos procedimientos;
+
+VI. Participar junto con la Comisión, en los actos de entrega recepción de los servidores públicos de mando superior de la Auditoría Superior del Estado de Baja California Sur;
+
+VII. A instancia de la Comisión, presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la Auditoría Superior del Estado de Baja California Sur;
+
+VIII. Llevar el registro y análisis de la situación patrimonial y de conflicto de intereses de los servidores públicos de la Auditoría Superior del Estado de Baja California Sur;
+
+IX. Conocer y resolver de las inconformidades que presenten los proveedores o contratistas, por el incumplimiento de las disposiciones aplicables para la Auditoría Superior del Estado de Baja California Sur en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas.
+
+Igualmente participará con voz, pero sin voto, en los comités de obras y de adquisiciones de la Auditoría Superior del Estado de Baja California Sur, establecidos en las disposiciones aplicables para la Auditoría Superior del Estado de Baja California Sur, en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas;
+
+X. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe General, los informes individuales y demás documentos que le envíe la Auditoría Superior del Estado de Baja California Sur;
+
+XI. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad y los que utilice para evaluar a la Auditoría Superior del Estado de Baja California Sur, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión;
+
+XII. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones;
+
+XIII. Atender prioritariamente las denuncias;
+
+XIV. Participar en las sesiones de la Comisión para brindar apoyo técnico y especializado; y
+
+XV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+Las entidades fiscalizadas tendrán la facultad de formular queja ante la Unidad sobre los actos del Titular de la Auditoría Superior del Estado de Baja California Sur que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad sustanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, notificando al quejoso el dictamen correspondiente, previa aprobación de la Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 12 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 105.
 
-La Comisión recibirá de parte de la sociedad opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado de Baja California Sur a efecto de participar, aportar y contribuir a mejorar la eficacia de sus funciones de fiscalización.
+La designación del Titular de la Unidad se hará por el Pleno del Congreso del Estado, a propuesta de la Comisión, quien deberá cumplir con los requisitos que esta Ley establece para el Titular de la Auditoría Superior del Estado de Baja California Sur. Lo anterior se llevará a cabo a través de los procedimientos y plazos que fije la misma Comisión.
 
-Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electrónicos o por escrito libre dirigido ante la Comisión. La Comisión pondrá a disposición de los particulares los formatos correspondientes.
+La Comisión abrirá registro público para que las organizaciones de la sociedad civil o académicas se inscriban para participar como observadores, sin voz ni voto, del proceso a que refiere el párrafo anterior, para lo cual se procederá mediante el método de insaculación para elegir cinco observadores.
+
+El titular de la Unidad durará en su encargo cuatro años y podrá desempeñar nuevamente ese cargo por otro periodo de cuatro años.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 106.
+
+El titular de la Unidad será responsable administrativamente ante la Comisión y el propio Congreso del Estado, a la cual deberá rendir un informe anual de su gestión, con independencia de que pueda ser citado extraordinariamente por ésta, cuando así se requiera, para dar cuenta del ejercicio de sus funciones.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 107.
+
+Son atribuciones del Titular de la Unidad:
+
+I. A solicitud de la Comisión, planear y programar la evaluación del desempeño, a las diversas áreas que integran la Auditoría Superior del Estado de Baja California Sur;
+
+II. A solicitud de la Comisión, requerir a las unidades administrativas de la Auditoría Superior del Estado de Baja California Sur, la información necesaria para cumplir con sus atribuciones;
+
+III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad, así como representar a la misma; y
+
+IV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 108.
+
+Para el ejercicio de las atribuciones que tiene conferidas la Unidad, contará con los servidores públicos, las unidades administrativas y los recursos económicos que a propuesta de la Comisión apruebe el Congreso del Estado y se determinen en el presupuesto de la misma.
+
+El reglamento de la Unidad que expida el Congreso del Estado establecerá la competencia de las áreas a que alude el párrafo anterior y aquellas otras unidades administrativas que sean indispensables para el debido funcionamiento de la misma.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 109.
+
+Los servidores públicos de la Unidad serán personal de confianza y deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control. El ingreso a la Unidad será mediante concurso público.
 
 ## TÍTULO OCTAVO. De la Contraloría Social
 
 ### Capítulo Único
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 110.
+
+La Comisión, con el apoyo de la Unidad, recibirá por escrito, peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas por la Auditoría Superior del Estado de Baja California Sur en el programa anual de auditorías y cuyos resultados deberán ser considerados en los informes individuales y, en su caso, en el Informe General. Dichos escritos también podrán ser presentados por conducto del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Anticorrupción del Estado de Baja California Sur, debiendo el Auditor Superior del Estado de Baja California Sur, informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 111.
+
+La Unidad recibirá por escrito, de parte de la sociedad, peticiones, propuestas, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado de Baja California Sur a efecto de participar, aportar y contribuir a mejorar la eficacia de sus funciones de fiscalización.
+
+Dichos escritos podrán presentarse por medios electrónicos dirigidos ante la Unidad. La Unidad pondrá a disposición de los particulares los formatos correspondientes.
 
 ## TRANSITORIOS
 
@@ -1178,3 +1276,35 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2573 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA UNIFORMIDAD EN LA DENOMINACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur y con las salvedades contenidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto, en un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Congreso del Estado, se cubrirán con cargo a su respectivo presupuesto que se apruebe para (sic) ejercicio fiscal del año 2019 y los subsecuentes.
+
+###### ARTÍCULO CUARTO.
+
+El Procedimiento para la designación del Titular de la Unidad a que se refiere el presente decreto, deberá ser iniciado dentro de los diez días naturales posteriores al inicio de vigencia del mismo.
+
+ARTÍCULO CUARTO (SIC).- La Unidad a que se refiere el presente decreto, iniciará sus funciones al día siguiente de que se designe a su Titular.
+
+###### ARTÍCULO QUINTO.
+
+La Auditoría Superior del Estado de Baja California Sur deberá realizar las modificaciones a su reglamento interior conforme a lo previsto en el presente decreto, en un plazo no mayor a 15 días hábiles contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
