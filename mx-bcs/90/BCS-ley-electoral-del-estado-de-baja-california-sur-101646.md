@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-101646"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2017-05-30"
+last_updated: "2018-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Ley publicada en Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el sábado 28 de junio de 2014.
 
@@ -3641,7 +3641,9 @@ a) Conocida la infracción, el Instituto integrará un expediente que será remi
 
 b) El superior jerárquico a que se refiere el párrafo anterior deberá comunicar al Instituto las medidas que haya adoptado en el caso, y
 
-c) Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnado al Órgano Superior de Fiscalización, a fin de que se proceda en los términos de las Leyes aplicables.
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+c) Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnada (sic) a la Auditoría Superior del Estado, a fin de que se proceda en los términos de las Leyes aplicables.
 
 ###### Artículo 269.
 
@@ -4371,10 +4373,40 @@ B.O. 30 DE MAYO DE 2017.
 
 B.O. 30 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2436.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49, SE ADICIONAN EL SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 50 , SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 52, Y SE RECORRE A SER PÁRRAFO OCTAVO EL ACTUAL PÁRRAFO CUARTO, SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO A SER PÁRRAFO QUINTO, DEL ARTÍCULO 53, SE REFORMA EL ARTÍCULO 77, SE REFORMA EL PRIMER PÁRRAFO, SE ADICIONA UN PENÚLTIMO PÁRRAFO Y SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO A ÚLTIMO DEL ARTÍCULO 79 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 21; Y SE ADICIONAN LA FRACCIÓN IV Y V AL ARTÍCULO 10, ARTÍCULOS 50 BIS Y 50 TER DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2436.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49, SE ADICIONAN EL SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 50, SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 52, Y SE RECORRE A SER PÁRRAFO OCTAVO EL ACTUAL PÁRRAFO CUARTO, SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO A SER PÁRRAFO QUINTO, DEL ARTÍCULO 53, SE REFORMA EL ARTÍCULO 77, SE REFORMA EL PRIMER PÁRRAFO, SE ADICIONA UN PENÚLTIMO PÁRRAFO Y SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO A ÚLTIMO DEL ARTÍCULO 79 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 21; Y SE ADICIONAN LA FRACCIÓN IV Y V AL ARTÍCULO 10, ARTÍCULOS 50 BIS Y 50 TER DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- Como única ocasión esta elección del 2018 será el primer domingo de julio.
+
+B.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2573 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA UNIFORMIDAD EN LA DENOMINACIÓN DE LA AUDITORIA SUPERIOR DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur y con las salvedades contenidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto en un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Congreso del Estado, se cubrirán con cargo a su respectivo presupuesto que se apruebe para ejercicio fiscal del año 2019 y los subsecuentes.
+
+###### ARTÍCULO CUARTO.
+
+El Procedimiento para la designación del Titular de la Unidad a que se refiere el presente decreto, deberá ser iniciado dentro de los diez días naturales posteriores al inicio de vigencia del mismo.
+
+ARTÍCULO CUARTO (SIC).- La Unidad a que se refiere el presente decreto, iniciará sus funciones al día siguiente de que se designe a su Titular.
+
+###### ARTÍCULO QUINTO.
+
+La Auditoría Superior del Estado de Baja California Sur deberá realizar las modificaciones a su reglamento interior conforme a lo previsto en el presente decreto, en un plazo no mayor a 15 días hábiles contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
