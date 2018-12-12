@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2018-11-30"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1625,6 +1625,10 @@ XXVI.- Fomentar la creación de industrias y empresas rurales, buscando la parti
 
 XXVII.- Participar con los ayuntamientos en la planificación del crecimiento de centros urbanos y de fraccionamientos, a fin de propiciar el desarrollo armónico y la convivencia social de la población.
 
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XXVII BIS.- Decretar por causas de utilidad pública Áreas Naturales Protegidas y Zonas de Salvaguarda Territoriales para la Prevención de la Contaminación, en términos de lo dispuesto en la Ley de Equilibrio Ecológico y Protección del Ambiente vigente en la Entidad.
+
 XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesinos, fomentando en ellos el arraigo a sus lugares de residencia;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
@@ -1683,7 +1687,7 @@ XLV.- Nombrar a los miembros del Consejo Tutelar para Menores en los términos q
 
 XLVI.- Publicar los días 15 de Junio y 15 de Diciembre de cada año, en el Boletín Oficial del Gobierno del Estado y en el periódico local de mayor circulación, las fórmulas y criterios de asignación, así como los montos de las Participaciones Federales y Estatales otorgadas a los Municipios.
 
-(ADICIONADA, B.O. 10 DE JUNIO DE 2000)(F. DE E., B.O. 31 DE JULIO DE 2000)
+(ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 
 XLVII.- Solicitar al Consejo Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de Gobierno consideradas como trascendentes para la vida pública del Estado.
 
@@ -2526,6 +2530,14 @@ VI.- Establecer en el territorio del municipio las delegaciones y subdelegacione
 VII.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como de los Asentamientos Humanos, debiendo establecer la prohibición de usos de suelo y uso de edificación para que no se pueda establecer ni funcionar ninguna casa, o lugar abierto o cerrado, en que se practiquen juegos con apuestas ni sorteos, de ninguna clase y similares; en el ámbito de su competencia; proteger, preservar y restaurar el equilibrio ecológico conforme a lo dispuesto en la Fracción XXIX-G del Artículo 73 de la Constitución General de la República, así como su regularización de la tenencia de la tierra en el ámbito de su competencia.
 
 Asimismo, otorgar licencias y permisos para construcciones. No estarán permitidos en el Estado los permisos o licencias de construcción para establecerse ni funcionar ninguna casa o lugar abierto o cerrado en que se practiquen juegos con apuestas ni sorteos de ninguna clase y similares.
+
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+VII BIS.- Incorporar a los planes y programas de desarrollo urbano como uso de suelo de conservación, los decretos de Áreas Naturales Protegidas y de Zonas de Salvaguarda Territoriales para la Prevención de la Contaminación, emitidas por el Gobernador del Estado.
+
+(NOTA: EL 11 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII, TEMA C.1, Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN VII BIS DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE ENERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+NO SE OTORGARÁN LOS PERMISOS PARA CONSTRUCCIONES, CUALQUIERA QUE SEA SU TIPO, QUE TENGAN COMO PROPÓSITO EL MANEJO, LA ACUMULACIÓN O RESGUARDO DE MATERIALES PELIGROSOS, CONFORME A LA LEY EN MATERIA DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN DEL AMBIENTE VIGENTE EN LA ENTIDAD.
 
 VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente;
 
@@ -4254,3 +4266,23 @@ B.O. 30 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2576 SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN DEL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador del Estado de Baja California Sur, a partir de la entrada en vigor del presente decreto, contara con un plazo de 60 días naturales para expedir el decreto o decretos de “Zonas de Salvaguarda Territoriales para Prevención de la Contaminación” de conformidad con lo establecido en el presente decreto, en las áreas geográficas correspondientes de los municipios del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Gobierno del Estado y los Ayuntamientos de Baja California Sur, deberán armonizar sus reglamentos y demás disposiciones administrativas aplicables y relacionadas al presente decreto en un plazo de 180 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
