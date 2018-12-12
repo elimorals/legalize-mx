@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2016-01-14"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 14 DE ENERO DE 2016.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -46,8 +46,6 @@ LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR.
 ###### Artículo 1.
 
 Esta Ley tiene por objeto:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -87,8 +85,6 @@ j) Secretaría: La Secretaría de Finanzas del Gobierno del Estado de Baja Calif
 
 k) Sistema de Coordinación Fiscal del Estado: El régimen jurídico relativo a las participaciones de tributos y otros ingresos estatales a favor de los municipios, incluyendo reglas sobre la colaboración administrativa, las conducentes a los organismos en materia de coordinación fiscal, y sobre los montos porcentuales que deben otorgarse a dichos municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 l) Incentivos: Los incentivos federales que el Estado y los Municipios perciben de conformidad con los artículos 4, 4-A y 8 de la Ley de Coordinación Fiscal y la sección III del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, celebrado entre la Secretaria de Hacienda y Crédito Público y el Gobierno del Estado de Baja California Sur.
@@ -97,8 +93,6 @@ l) Incentivos: Los incentivos federales que el Estado y los Municipios perciben 
 
 #### SECCIÓN I. DE LAS PARTICIPACIONES FEDERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 3.
@@ -106,8 +100,6 @@ l) Incentivos: Los incentivos federales que el Estado y los Municipios perciben 
 Las participaciones e incentivos que correspondan a los Municipios en los porcentajes que establece esta Ley se calcularan para cada ejercicio fiscal.
 
 Los municipios participarán en el total de los impuestos federales a que tengan derecho de conformidad con lo establecido en la Ley de Coordinación Fiscal y en otros ingresos que señale expresamente esta Ley mediante la distribución de los fondos que en la misma se establecen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -126,8 +118,6 @@ d) El 20% del Fondo de Fiscalización.
 e) De llegar a recibir el Estado recursos provenientes de la Reserva de Contingencia, a través de la Secretaría se participará a los Municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus Municipios del total de participaciones de la entidad.
 
 En el conjunto de participaciones a los Municipios no se incluirán aquellas a que se refieren las fracciones I y II del artículo 2-A de la Ley de Coordinación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -179,8 +169,6 @@ Los Municipios, cuando así corresponda, además de las Participaciones establec
 
 De las cantidades que el Estado perciba por concepto del Impuesto Especial sobre Producción y Servicios sobre: cerveza; bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados, conforme a la Ley de Coordinación, los Municipios participarán y les corresponderá el 22% y se distribuirá en los mismos porcentajes establecidos para la distribución del Fondo General de Participaciones, de conformidad con lo previsto en el artículo 5 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 8 Bis.
@@ -191,8 +179,6 @@ De las cantidades que el Estado reciba por concepto de Fondo de Fiscalización c
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 9 Bis.
@@ -201,13 +187,9 @@ De las 9/11 partes que el Estado recaude por concepto del Impuesto Especial Sobr
 
 a) El 70% en proporción a su nivel de población según los resultados del último censo de población, proporcionados por el Instituto Nacional de Estadística, Geografía e Informativa (sic) (INEGI).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
 b) El 20% en proporción al ingreso por concepto del Impuesto Sobre Enajenación de Bienes Muebles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
@@ -289,11 +271,11 @@ Las aportaciones con cargo al Fondo de Aportaciones para el Fortalecimiento de l
 
 Los recursos que por concepto de aportaciones federales reciban los municipios, serán administrados y ejercidos conforme a la aplicación de sus propias leyes, por tanto, deberán de registrarlos como ingresos propios, destinados específicamente a los fines establecidos en los artículos 33 y 37 de la Ley de Coordinación.
 
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 13 Octies.
 
-El Congreso del Estado, a través del Órgano Superior de Fiscalización, será el responsable de supervisar, vigilar, constatar e informar, de la correcta aplicación de los recursos de los Fondos de Aportaciones Federales que reciba el Estado y los municipios, así como de fincar, en su caso, la responsabilidad correspondiente.
+El Congreso del Estado, a través de la Auditoría Superior del Estado, será el responsable de supervisar, vigilar, constatar e informar, de la correcta aplicación de los recursos de los Fondos de Aportaciones Federales que reciba el Estado y los municipios, así como de fincar, en su caso, la responsabilidad correspondiente.
 
 > <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
 
@@ -305,9 +287,9 @@ De las cantidades que el Estado perciba por concepto del Impuesto sobre nómina,
 
 Los Municipios deberán destinar estos recursos exclusivamente a obras de infraestructura social y/o al pago de Alumbrado Público.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
 
-En la aplicación de estos recursos, los Municipios realizarán los registros específicos y los mantendrán actualizados respecto de los montos aplicados por obra. La documentación comprobatoria deberá ser conservada por los municipios por 10 años como mínimo a partir de que haya concluido la obra, debiendo ser presentada cuando sea requerida por la Secretaría, la Contraloría General del Estado, o por el Órgano de Fiscalización Superior del Estado, conforme a las atribuciones que les confieren las disposiciones legales aplicables.
+En la aplicación de estos recursos, los Municipios realizarán los registros específicos y los mantendrán actualizados respecto de los montos aplicados por obra. La documentación comprobatoria deberá ser conservada por los municipios por 10 años como mínimo a partir de que haya concluido la obra, debiendo ser presentada cuando sea requerida por la Secretaría, la Contraloría General del Estado, o por la Auditoría Superior del Estado, conforme a las atribuciones que les confieren las disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -317,13 +299,9 @@ De las cantidades que el Estado perciba por concepto del Impuesto sobre Enajenac
 
 #### SECCIÓN III. DE LAS PARTICIPACIONES ESTATALES
 
-> <small>N. DE E. EN RELACIÓN CON LA DEROGACIÓN DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 16.
 
 (DEROGADO, B.O. 10 DE JUNIO DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
@@ -331,7 +309,7 @@ De las cantidades que el Estado perciba por concepto del Impuesto sobre Enajenac
 
 De las cantidades que el Estado perciba por concepto de derechos en materia de Control Vehicular, de Registro Civil y de Registro Público de la Propiedad y de Comercio, corresponderán a los Municipios las cantidades que resulten de aplicar la fórmula siguiente:
 
-> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 20 DE DICIEMBRE DE 2015, PÁGINAS DE LA 75 A LA 76.</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL B.O. DE 20 DE DICIEMBRE DE 2015, PÁGINAS DE LA 75 A LA 76.]</small>
 
 Para efectos del presente artículo no se considerarán dentro de los ingresos por control vehicular, aquellos recaudados por concepto de registro y baja al padrón vehicular, por consulta a otras entidades federativas sobre trámites y pagos efectuados, por cambio de propietario de motor, carrocería y corrección de datos.
 
@@ -562,3 +540,33 @@ B.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2573 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA UNIFORMIDAD EN LA DENOMINACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur y con las salvedades contenidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto, en un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Congreso del Estado, se cubrirán con cargo a su respectivo presupuesto que se apruebe para (sic) ejercicio fiscal del año 2019 y los subsecuentes.
+
+###### ARTÍCULO CUARTO.
+
+El Procedimiento para la designación del Titular de la Unidad a que se refiere el presente decreto, deberá ser iniciado dentro de los diez días naturales posteriores al inicio de vigencia del mismo.
+
+ARTÍCULO CUARTO (SIC).- La Unidad a que se refiere el presente decreto, iniciará sus funciones al día siguiente de que se designe a su Titular.
+
+###### ARTÍCULO QUINTO.
+
+La Auditoría Superior del Estado de Baja California Sur deberá realizar las modificaciones a su reglamento interior conforme a lo previsto en el presente decreto, en un plazo no mayor a 15 días hábiles contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
