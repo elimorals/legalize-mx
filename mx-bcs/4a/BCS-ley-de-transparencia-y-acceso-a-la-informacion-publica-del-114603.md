@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2017-04-20"
+last_updated: "2018-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 4 de Mayo de 2016.
 
@@ -285,7 +287,9 @@ II. El Poder Judicial del Estado, sus integrantes y sus dependencias;
 
 III. El Poder Legislativo del Estado, sus integrantes y sus dependencias;
 
-IV. El Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+IV. La Auditoría Superior del Estado;
 
 V. Los Ayuntamientos y la Administración Pública Municipal;
 
@@ -1427,7 +1431,9 @@ k) El seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres
 
 l) Los lineamientos generales de la actuación de la Comisión Estatal de los Derechos Humanos.
 
-III. Órgano de Fiscalización Superior del Estado de Baja California Sur:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+III. Auditoría Superior del Estado:
 
 a) El programa anual de actividades;
 
@@ -2776,3 +2782,33 @@ TERCERO.- El procedimiento de elección de los consejeros que integrarán el Con
 CUARTO.- El Reglamento de Operación y Conducta del Consejo Consultivo deberá ser expedido a más tardar en un plazo de 30 días contados a partir de que este quede formalmente instalado.
 
 QUINTO.- Se derogan las disposiciones legales y transitorias que se opongan al presente decreto.
+
+B.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2573 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DELA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DIVERSAS DISPOSICIONES DE MARCO JURÍDICO ESTATAL RELATIVAS A LA UNIFORMIDAD EN LA DENOMINACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur y con las salvedades contenidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto, en un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Congreso del Estado, se cubrirán con cargo a su respectivo presupuesto que se apruebe para (sic) ejercicio fiscal del año 2019 y los subsecuentes.
+
+###### ARTÍCULO CUARTO.
+
+El Procedimiento para la designación del Titular de la Unidad a que se refiere el presente decreto, deberá ser iniciado dentro de los diez días naturales posteriores al inicio de vigencia del mismo.
+
+ARTÍCULO CUARTO (SIC).- La Unidad a que se refiere el presente decreto, iniciará sus funciones al día siguiente de que se designe a su Titular.
+
+###### ARTÍCULO QUINTO.
+
+La Auditoría Superior del Estado de Baja California Sur deberá realizar las modificaciones a su reglamento interior conforme a lo previsto en el presente decreto, en un plazo no mayor a 15 días hábiles contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
