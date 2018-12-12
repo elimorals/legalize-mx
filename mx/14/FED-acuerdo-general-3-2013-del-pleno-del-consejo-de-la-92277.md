@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-11-30"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -121,9 +121,9 @@ SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprender�
 
 I. PRIMER CIRCUITO:
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 46/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
 
-1. Sesenta y dos tribunales colegiados especializados: diez en materia penal, veintiuno en materia administrativa, catorce en materia civil y diecisiete en materia de trabajo, todos con residencia en la Ciudad de México.
+1. Sesenta y tres tribunales colegiados especializados: diez en materia penal, veintiuno en materia administrativa, quince en materia civil y diecisiete en materia de trabajo, todos con residencia en la Ciudad de México.
 
 2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
@@ -7088,3 +7088,15 @@ TERCERO. La conclusión de funciones del Segundo Tribunal Colegiado de Circuito 
 CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
 
 QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
+
+D.O.F. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 46/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL DÉCIMO QUINTO TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL PRIMER CIRCUITO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN LA MATERIA Y CIRCUITO INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
