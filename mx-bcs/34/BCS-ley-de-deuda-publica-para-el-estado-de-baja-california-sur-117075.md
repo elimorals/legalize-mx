@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-deuda-publica-para-el-estado-de-baja-california-sur-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-31"
-last_updated: "2016-10-31"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de Octubre de 2016.
 
@@ -333,7 +335,9 @@ XV. Aprobar, previamente a su autorización por el Congreso del Estado, los mont
 
 XVI. Informar al Congreso del Estado, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de su deuda pública, al rendir la cuenta pública municipal;
 
-XVII. Proporcionar al Congreso del Estado, por conducto del Órgano de Fiscalización Superior y al Poder Ejecutivo, por conducto de la Secretaría de Finanzas y Administración, cuando el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto, la información que éstos le requieran en relación con las operaciones de deuda pública que celebren;
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XVII. Proporcionar al Congreso del Estado, por conducto de la Auditoría Superior del Estado y al Poder Ejecutivo, por conducto de la Secretaría de Finanzas y Administración, cuando el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto, la información que éstos le requieran en relación con las operaciones de deuda pública que celebren;
 
 XVIII. Contratar a empresas calificadoras debidamente autorizadas en México, a efecto de que emitan su opinión respecto de la calidad crediticia del Municipio y las calificaciones sobre la estructura y mecanismo de pago de los Financiamientos que se proponga instrumentar el Municipio y sus entidades paramunicipales, y para que realicen la revisión periódica de las calificaciones respectivas;
 
@@ -373,7 +377,9 @@ XI. Incluir, anualmente, dentro de los proyectos de presupuestos de egresos de l
 
 XII. Realizar oportunamente los pagos del servicio de la Deuda Pública, a cargo de las entidades de la administración pública paraestatal y paramunicipal;
 
-XIII. Proporcionar al Congreso del Estado, por conducto del Órgano de Fiscalización Superior, al Poder Ejecutivo, por conducto de la Secretaría y a los Ayuntamientos, según corresponda, la información que éstos les requieran en relación con las operaciones de Deuda Pública que celebren;
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XIII. Proporcionar al Congreso del Estado, por conducto de la Auditoría Superior del Estado, al Poder Ejecutivo, por conducto de la Secretaría y a los Ayuntamientos, según corresponda, la información que éstos les requieran en relación con las operaciones de Deuda Pública que celebren;
 
 XIV. Contratar, cuando lo estimen conveniente, a empresas calificadoras debidamente autorizadas en México, a efecto de que emitan su opinión respecto de la calidad crediticia de las entidades y la calificación sobre la estructura y mecanismo de pago de los Financiamientos y Obligaciones que se propongan instrumentar y para que realicen la revisión periódica de las calificaciones respectivas;
 
@@ -703,7 +709,9 @@ III. Que la Entidad Pública solicitante, bajo protesta de decir verdad, manifie
 
 IV. Que la Entidad Pública solicitante, bajo protesta de decir verdad, manifieste que en el caso de Financiamientos y Obligaciones que utilicen como Garantía o Fuente de pago, las participaciones o aportaciones federales, cumple con las disposiciones establecidas en la Ley de Coordinación Fiscal y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-V. Que la Entidad Pública solicitante, presente la opinión de la entidad de fiscalización superior del Estado, en la que manifieste que cumple con la publicación de la información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable;
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+V. Que la Entidad Pública solicitante, presente la opinión de la Auditoría Superior del Estado, en la que manifieste que cumple con la publicación de la información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable;
 
 VI. Que la Entidad Pública solicitante, bajo protesta de decir verdad, acredite, de acuerdo con lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, lineamientos y demás normatividad aplicable, que el Financiamiento u Obligación fue celebrado en las mejores condiciones de mercado;
 
@@ -823,9 +831,11 @@ El Estado y los Municipios presentarán en los informes periódicos a que se ref
 
 Las Entidades Públicas deberán publicar su información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable al cual hace referencia dicha ley. Para tal efecto, las Entidades Públicas deberán presentar la opinión de la entidad de fiscalización superior correspondiente, en la que manifieste si la Entidad Pública cumple con dicha publicación.
 
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 75.
 
-La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley corresponderá al Órgano de Fiscalización del Estado.
+La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley corresponderá a la Auditoría Superior del Estado.
 
 T R A N S I T O R I O S:
 
@@ -860,3 +870,35 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2573 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA UNIFORMIDAD EN LA DENOMINACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur y con las salvedades contenidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto, en un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Congreso del Estado, se cubrirán con cargo a su respectivo presupuesto que se apruebe para (sic) ejercicio fiscal del año 2019 y los subsecuentes.
+
+###### ARTÍCULO CUARTO.
+
+El Procedimiento para la designación del Titular de la Unidad a que se refiere el presente decreto, deberá ser iniciado dentro de los diez días naturales posteriores al inicio de vigencia del mismo.
+
+ARTÍCULO CUARTO (SIC).- La Unidad a que se refiere el presente decreto, iniciará sus funciones al día siguiente de que se designe a su Titular.
+
+###### ARTÍCULO QUINTO.
+
+La Auditoría Superior del Estado de Baja California Sur deberá realizar las modificaciones a su reglamento interior conforme a lo previsto en el presente decreto, en un plazo no mayor a 15 días hábiles contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
