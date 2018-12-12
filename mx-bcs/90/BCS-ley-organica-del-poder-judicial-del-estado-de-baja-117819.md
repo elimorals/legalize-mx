@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2017-12-20"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -1717,7 +1717,9 @@ XVIII. Comisionar a los Jueces de Ejecución de Sanciones Penales y de primera i
 
 XIX. Proponer al Pleno del Consejo el proyecto de Presupuesto de Egresos del Consejo de la Judicatura que deberá regir en el siguiente ejercicio fiscal anual, para su aprobación y trámite correspondiente;
 
-XX. Remitir al Órgano de Fiscalización Superior del Congreso del Estado la cuenta pública mensual y al Congreso del Estado la cuenta pública anual en los plazos establecidos en la ley de la materia;
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XX. Remitir a la Auditoría Superior del Estado el informe mensual y al Congreso del Estado la cuenta pública anual en los plazos establecidos en la ley de la materia;
 
 XXI. Ejercer el Presupuesto de Egresos aprobado por el Congreso del Estado para el Poder Judicial y acordar las erogaciones que deban hacerse con cargo a sus diversas partidas, sin que queden comprendidas en esta facultad las relativas al sueldo fijo, que sólo podrán ser alteradas por concepto de las correcciones disciplinarias en los términos que prescriba la Ley;
 
@@ -2463,9 +2465,11 @@ V. Al otorgamiento de estímulos económicos y prestaciones sociales a la planta
 
 Los recursos de la Dirección de Finanzas transferidos a la Dirección del Fondo Auxiliar serán colocados en los fondos de inversión para generar intereses a tasa preferencial y una vez que se requieran para cubrir los gastos previstos en el presupuesto de egresos, serán reintegrados conjuntamente con los intereses generados proporcionalmente en relación con el capital invertido.
 
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 166.
 
-La administración y el destino del Fondo Auxiliar para la Administración de Justicia podrán ser revisados por el Órgano de Fiscalización Superior del Estado de Baja California Sur.
+La administración y el destino del Fondo Auxiliar para la Administración de Justicia podrán ser revisados por la Auditoría Superior del Estado.
 
 ###### Artículo 167.
 
@@ -4028,3 +4032,33 @@ Los procedimientos administrativos iniciados con anterioridad a la entrada en vi
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2573 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA UNIFORMIDAD EN LA DENOMINACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur y con las salvedades contenidas en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado aprobará y mandará publicar el Reglamento de la Unidad de Evaluación y Control, a que se refiere el presente decreto, en un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Congreso del Estado, se cubrirán con cargo a su respectivo presupuesto que se apruebe para (sic) ejercicio fiscal del año 2019 y los subsecuentes.
+
+###### ARTÍCULO CUARTO.
+
+El Procedimiento para la designación del Titular de la Unidad a que se refiere el presente decreto, deberá ser iniciado dentro de los diez días naturales posteriores al inicio de vigencia del mismo.
+
+ARTÍCULO CUARTO (SIC).- La Unidad a que se refiere el presente decreto, iniciará sus funciones al día siguiente de que se designe a su Titular.
+
+###### ARTÍCULO QUINTO.
+
+La Auditoría Superior del Estado de Baja California Sur deberá realizar las modificaciones a su reglamento interior conforme a lo previsto en el presente decreto, en un plazo no mayor a 15 días hábiles contados a partir de la vigencia del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
