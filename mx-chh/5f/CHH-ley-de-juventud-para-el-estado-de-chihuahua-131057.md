@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-131057"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-20"
-last_updated: "2018-10-20"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Anexo al Periódico Oficial, del Estado de Chihuahua, el sábado 20 de octubre de 2018.
 
@@ -781,7 +781,9 @@ IV. Quince personas jóvenes que hayan destacado en cualquiera de los ámbitos a
 
 V. Quince personas jóvenes que participen en organismos o asociaciones del sector social, cuyas actividades se vinculen a la materia; y
 
-VI. Un integrante de la Comisión de Juventud y Deporte del H. Congreso del Estado.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2018)</small>
+
+VI. Dos integrantes de la Comisión de Juventud y Niñez del H. Congreso del Estado.
 
 ###### Artículo 86.
 
@@ -902,3 +904,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los tres días del mes de octubre del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXVI/EXDEC/0041/2018 I P.O., POR MEDIO DEL CUAL SE DESIGNAN REPRESENTANTES DE LA LXVI LEGISLATURA ANTE DIVERSOS ENTES QUE CONFORMAN LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones contrarias al presente Decreto.
