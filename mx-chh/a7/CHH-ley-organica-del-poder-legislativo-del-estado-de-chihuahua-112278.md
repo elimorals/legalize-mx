@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2018-09-29"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1509,7 +1509,13 @@ XVIII.- Ejercer el presupuesto asignado, bajo los lineamientos que establezca la
 
 XIX.- Nombrar y remover al personal de la Secretaría de Asuntos Interinstitucionales, en los términos de la normatividad correspondiente.
 
-XX.- Atender las demás actividades que le señalen la presente Ley y otros ordenamientos legales aplicables, o las que le encomiende el Pleno, la Junta de Coordinación Política o quien presida la Mesa Directiva, en su caso.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XX.- Coordinar lo referente a Premios, Reconocimientos, Homenajes y Medallas, que otorga el Congreso del Estado;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2018)</small>
+
+XXI.- Atender las demás actividades que le señalen la presente Ley y otros ordenamientos legales aplicables, o las que le encomiende el Pleno, la Junta de Coordinación Política o quien presida la Mesa Directiva, en su caso.
 
 ### CAPÍTULO VII. DEL INSTITUTO DE ESTUDIOS E INVESTIGACIÓN LEGISLATIVA
 
@@ -2700,3 +2706,9 @@ El presente Decreto entrará en vigor el día de su aprobación.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0043/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN XX, Y SE ADICIONA LA FRACCIÓN XXI, AL ARTÍCULO 131 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 142 DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
