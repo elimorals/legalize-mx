@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-colegio-de-bachilleres-115705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-07-20"
-last_updated: "2016-07-20"
+last_updated: "2018-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-12-29"
 
 ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de julio de 2016.
 
@@ -273,7 +273,9 @@ IX. Otorgar revalidaciones y equivalencias de estudios para la educación que im
 
 X. Otorgar Reconocimiento de Validez Oficial de Estudios a planteles particulares que así lo soliciten y que cumplan los requisitos legales vigentes; así como sustanciar, a través del área correspondiente, el procedimiento para retirarlo o sancionar al particular;
 
-XI. Proponer a la Junta Directiva el candidato a ocupar el cargo de Coordinador Sectorial que surja del proceso de selección y evaluación de méritos, determinado para el caso;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+XI. Instruir el cumplimiento de las disposiciones derivadas de la Ley General del Servicio Profesional Docente, e informar a la Junta Directiva el nombramiento para el cargo de Coordinador Sectorial que surja del proceso de selección y evaluación, determinado por la Ley General del Servicio Profesional Docente;
 
 XII. Designar y remover al personal docente, técnico y administrativo cuya decisión no esté reservada a otro órgano del Colegio;
 
@@ -283,7 +285,9 @@ XIV. Establecer comisiones, consejos o comités especiales para actividades o pr
 
 XV. Presidir el Staff de Apoyo a la Dirección General y el Consejo Consultivo de Directores, convocándolos cuando lo considere necesario y delegar su representación;
 
-XVI. Proponer a la Junta Directiva el nombramiento de los directores de plantel, que surjan del proceso de selección y evaluación de méritos determinado para el caso;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+XVI. Informar a la Junta Directiva la designación de los directores de plantel, que surjan del proceso de selección y evaluación determinado para el caso, por la Ley General del Servicio Profesional docente;
 
 XVII. Dirigir y supervisar las labores de los Coordinadores Sectoriales;
 
@@ -335,7 +339,9 @@ IV. Autorizar, conforme a convenios o acuerdos, las actividades relacionadas con
 
 V. Coadyuvar en la relación con instituciones educativas y organismos públicos y privados a fin de mantener intercambios académicos, culturales y deportivos, de acuerdo con las políticas establecidas por la Dirección General;
 
-VI. Determinar el sistema de evaluación institucional que integre los ámbitos de alumnos, profesores, directores, programas y planteles;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+VI. Supervisar, en el ámbito de su competencia, el sistema de evaluación institucional que integre los ámbitos de alumnos, profesores, directores, programas y planteles;
 
 VII. Disponer los criterios, mecanismos y estudios que permitan efectuar mejoras en los programas y actividades académicas, como resultado de las evaluaciones;
 
@@ -349,7 +355,9 @@ XI. Conducir dentro del ámbito de su competencia todas aquellas funciones que s
 
 XII. Proponer la organización, normar, conducir y evaluar los programas de las Direcciones de: Planeación Académica; Evaluación, Asuntos del Profesorado y Orientación Educativa; y de Comunicación y Publicaciones;
 
-XIII. Determinar el sistema de evaluación institucional que integre los siguientes ámbitos: alumnos, profesores, directores, programas y planteles;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+XIII. Determinar el sistema de evaluación institucional que integre los ámbitos de los alumnos, programas y planteles;
 
 XIV. Conducir la construcción del marco conceptual, metodológico, operativo y técnico, de acuerdo con la política educativa nacional, referente al Plan y los programas de estudio del área básica, de formación para el trabajo y las correspondientes a las actividades artísticas y deportivas;
 
@@ -359,7 +367,9 @@ XVI. Autorizar los programas para el diseño e integración de los materiales ed
 
 XVII. Proponer a la Dirección General las políticas de difusión y uso de la información obtenida por los programas académicos a su cargo;
 
-XVIII. Colaborar con las Secretarías de Servicios Institucionales y Administrativa en los servicios de apoyo y los recursos que faciliten la adecuada operación de los programas que desarrolla la Secretaría;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Proporcionar información y colaborar con las Secretarías de Servicios Institucionales y Administrativa en los servicios de apoyo y los recursos que faciliten la adecuada operación de los programas que desarrolla la Secretaría;
 
 XIX. Coadyuvar con la Secretaría de Servicios Institucionales en la promoción y posicionamiento de los productos y servicios que se ofrezcan a instituciones educativas y empresas nacionales e internacionales;
 
@@ -374,6 +384,10 @@ XXIII. Determinar el contenido y difusión de la página web del Colegio referen
 XXIV. Acreditar el cumplimiento de los requerimientos de información del Instituto Federal de Transparencia y Acceso a la Información Pública Gubernamental y determinar los acuerdos y convenios institucionales en los que intervengan y forme parte el Colegio, y
 
 XXV. Normar la integración y conformación de la Gaceta (Órgano Informativo del Colegio de Bachilleres) con base en los lineamientos establecidos.
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+XXVI. Supervisar el cumplimiento de lo establecido por la Ley General del Servicio Profesional Docente.
 
 ###### Artículo 19.
 
@@ -429,6 +443,10 @@ II. Informar a la Secretaría General los resultados de los programas de las Sub
 
 III. Informar a la Secretaría General los resultados de informes de evaluación del aprendizaje;
 
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+III. Bis. Verificar el cumplimiento de la aplicación de los mecanismos para la evaluación institucional del personal académico de nuevo ingreso, de conformidad a lo que establece la Ley del Servicio Profesional Docente;
+
 IV. Dirigir y vigilar la adecuación permanente de los instrumentos de evaluación del proceso educativo, para proporcionar elementos de mejora en el aprovechamiento de la educación impartida por el Colegio;
 
 V. Participar en reuniones de intercambio académico relacionado con las instituciones educativas y organismos públicos y privados conforme a lo que establezca el Secretario General;
@@ -441,7 +459,9 @@ VIII. Coordinar con la Dirección de Planeación Académica y con las direccione
 
 IX. Dirigir las actividades de formación y actualización docente con base en los Programas de Estudios vigentes;
 
-X. Vigilar el cumplimiento de las normas y lineamientos para el diseño, operación y evaluación de los programas de formación y actualización del personal académico;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+X. Vigilar el cumplimiento de las normas y lineamientos para el diseño, operación y evaluación de los programas de formación y actualización del personal académico de conformidad a lo que establece la Ley del Servicio Profesional Docente;
 
 XI. Autorizar el sistema de evaluación institucional que permita verificar la efectividad de los programas en operación y realizar los cambios y modificaciones pertinentes;
 
@@ -457,9 +477,13 @@ XVI. Dirigir la integración de los programas de evaluación, formación y asunt
 
 XVII. Establecer los lineamientos, políticas y mecanismos para la operación de los programas a su cargo y turnarlos al Secretario General para su autorización;
 
-XVIII. Dirigir, autorizar y coordinar con las instancias correspondientes lo necesario para los procesos de ingreso, promoción y movimientos del personal académico y vigilar el cumplimiento del Estatuto del Personal Académico en materia del profesorado;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
 
-XIX. Dirigir y aprobar el programa de Carrera Académica de los docentes considerando su ingreso, tránsito, promoción y retiro del Colegio;
+XVIII. Coordinar con las instancias correspondientes lo necesario para los procesos de ingreso, promoción y movimientos del personal académico en el marco de lo que establece la Ley del Servicio Profesional Docente y, vigilar el cumplimiento del Estatuto del Personal Académico en materia del profesorado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+XIX. Dirigir, aprobar y controlar el programa de Carrera Académica del personal docente, considerando su ingreso, tránsito, promoción y retiro del Colegio en el marco de la Ley General del Servicio Profesional Docente;
 
 XX. Vigilar la observancia de las normas en materia de Orientación Educativa y Tutorías y autorizar los materiales técnico-pedagógicos, y
 
@@ -747,7 +771,9 @@ IV. Autorizar, de acuerdo con las normas legales y demás disposiciones aplicabl
 
 V. Jerarquizar la atención de las necesidades administrativas de las unidades que integran al Colegio, así como autorizar la adquisición de bienes y la contratación de servicios para satisfacer dichas necesidades;
 
-VI. Autorizar, de conformidad con los lineamientos que establezca el Director General, los convenios y contratos que celebre el Colegio, así como los demás documentos que impliquen actos de administración;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+VI. Autorizar, de conformidad con los lineamientos que establezca el Director General, los convenios y contratos que celebre el Colegio, así como los demás documentos que impliquen actos de administración, e iniciar y resolver en el ámbito de su competencia, todos los procedimientos relacionados con la instrumentación de convenios, contratos, acuerdos y demás actos jurídicos derivados de ellos;
 
 VII. Proponer los proyectos de reglamentos, y demás disposiciones en asuntos de su competencia;
 
@@ -785,7 +811,7 @@ XXIII. Autorizar la apertura, altas y bajas, con las instituciones bancarias, de
 
 XXIV. Determinar la custodia de la documentación que ampara la propiedad de los bienes patrimoniales del Colegio;
 
-XXV. Disponer la atención de los requerimientos del “Sistema Integral de Información de los Ingresos y Gasto Público” de la Administración Pública Federal;
+XXV. Disponer la atención de los requerimientos del "Sistema Integral de Información de los Ingresos y Gasto Público" de la Administración Pública Federal;
 
 XXVI. Establecer y evaluar los programas de promoción para el cumplimiento del Código de Conducta del Colegio, y
 
@@ -1047,9 +1073,11 @@ V. Las demás que le encomiende el Director General.
 
 ### CAPÍTULO SEXTO. DE LA SELECCIÓN DE COORDINADORES SECTORIALES Y DIRECTORES DE PLANTEL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 40.
 
-Los Coordinadores Sectoriales serán seleccionados mediante concurso de evaluación de méritos y deberán reunir los requisitos que establece el “Procedimiento para la Selección y Evaluación de Candidatos a Ocupar el Cargo de Coordinador Sectorial de Planteles del Colegio de Bachilleres”, durarán en su cargo 4 años, permanecerán en éste dependiendo de los resultados de la evaluación anual de su desempeño, podrán tener a su cargo hasta siete planteles y tendrán las siguientes atribuciones:
+Los Coordinadores Sectoriales serán seleccionados mediante concurso de evaluación, durarán en su cargo cuatro años, permanecerán en éste, dependiendo de los resultados de la evaluación, que determine la autoridad federal competente, de conformidad con lo que establezca la Ley General del Servicio Profesional Docente, asimismo, podrán tener bajo su coordinación hasta siete planteles y tendrán las siguientes atribuciones:
 
 I. Coordinar, supervisar y evaluar las actividades académicas y administrativas de los planteles adscritos a su Coordinación, conforme a la normativa institucional;
 
@@ -1065,9 +1093,11 @@ VI. Proponer las políticas de participación en los programas de carácter loca
 
 VII. Las demás que señalen las normas y disposiciones reglamentarias de la Institución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 41.
 
-Los Directores de Plantel serán seleccionados mediante concurso de evaluación de méritos y deberán reunir los requisitos que establece el “Procedimiento para el Registro, Selección y Evaluación de Candidatos a Ocupar el Cargo de Director de Plantel del Colegio de Bachilleres”, durarán en su cargo 4 años, permanecerán en éste dependiendo de los resultados de la evaluación anual de su desempeño y tendrán las siguientes atribuciones:
+Los Directores de Plantel serán seleccionados mediante concurso de evaluación, durarán en su cargo cuatro años, permanecerán en éste, dependiendo de los resultados de la evaluación, que determine la autoridad federal competente, de conformidad con lo que prevé la Ley General del Servicio Profesional Docente y tendrán las siguientes atribuciones:
 
 I. Coordinar, supervisar y evaluar las actividades académicas y administrativas del plantel a su cargo, conforme a la normativa institucional y bajo la supervisión de su Coordinador Sectorial;
 
@@ -1097,17 +1127,25 @@ XIII. Proponer a su respectivo Coordinador Sectorial a los candidatos para ocupa
 
 XIV. Las demás que les confiera la normativa de la Institución.
 
-### CAPÍTULO SÉPTIMO. DEL COMITÉ DE CONTROL Y AUDITORÍA (COCOA)
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO SÉPTIMO. DEL COMITÉ DE CONTROL Y DESEMPEÑO INSTITUCIONAL (COCODI)
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-El Comité de Control y Auditoría será un órgano colegiado de apoyo estratégico a la Junta Directiva en materia de control, auditoría y prevención de riesgos, entre otras con el propósito de impulsar las acciones necesarias para coadyuvar en el cumplimiento de los objetivos, metas y programas del Colegio, en el marco de los principios de honestidad, transparencia y combate a la corrupción, cuya integración y funcionamiento se sujetará a los lineamientos que al efecto emita la SFP.
+El Comité de Control y Desempeño Institucional será un órgano colegiado de apoyo estratégico a la Junta Directiva en materia de control, auditoría y prevención de riesgos, entre otras con el propósito de impulsar las acciones necesarias para coadyuvar en el cumplimiento de los objetivos, metas y programas del Colegio, en el marco de los principios de honestidad, transparencia y combate a la corrupción, cuya integración y funcionamiento se sujetará a los lineamientos que al efecto emita la SFP.
 
-### CAPÍTULO OCTAVO. DEL COMITÉ DE INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO OCTAVO. DEL COMITÉ DE TRANSPARENCIA
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 43.
 
-El Colegio contará con un Comité de Información que actuará con base en lo que establecen los artículos 29 y 30 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+El Colegio contará con un Comité de Transparencia que actuará con base en lo que establece, la Ley de General de Transparencia y Acceso a la Información Pública en sus artículos 43 y 44, así como la Ley Federal de Transparencia y Acceso a la Información Publica en sus artículos 64 y 65.
 
 ### CAPÍTULO NOVENO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DEL COLEGIO
 
@@ -1115,13 +1153,17 @@ El Colegio contará con un Comité de Información que actuará con base en lo q
 
 Las ausencias del Director General que no excedan tres meses serán suplidas por el Servidor Público que designe la Junta Directiva. Cuando el periodo sea mayor a tres meses se designará nuevo Director General, en los términos de lo que establece el artículo 21 de la Ley Federal y 9 del Decreto.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 45.
 
-El Secretario General, el Secretario de Servicios Institucionales, el Secretario Administrativo, los Coordinadores Sectoriales y los Directores de Área, serán sustituidos en ausencias que no excedan de tres meses por los servidores públicos que designe el Director General. En el caso de exceder dicho periodo se nombrarán nuevos titulares, en los términos de lo que establece el artículo 58, fracción XI de la Ley Federal.
+El Secretario General, el Secretario de Servicios Institucionales, el Secretario Administrativo, los Coordinadores Sectoriales y los Directores de Área, serán sustituidos en ausencias que no excedan de tres meses por los servidores públicos que designe el Director General. En el caso de exceder dicho periodo se nombrarán nuevos titulares, en los términos de lo que establece los artículos 58, fracción IX, y 59, fracción VII de la Ley Federal de las Entidades Paraestatales.
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 46.
 
-La ausencia de un Director de Plantel que no exceda de tres meses, será suplida por el servidor público que designe el Director General, en caso de exceder el tiempo señalado se nombrará un nuevo Director en términos del “Procedimiento para el Registro, Selección y Evaluación de Candidatos a Ocupar el Cargo de Director de Plantel del Colegio de Bachilleres” mencionado en el artículo 35 de este Estatuto.
+La ausencia de un Director de Plantel que no exceda de tres meses, será suplida por el servidor público que designe el Director General, en caso de exceder el tiempo señalado, se nombrará un nuevo Director en términos de la Ley General del Servicio Profesional Docente o aquella normativa que para ese efecto sea publicada.
 
 ### CAPÍTULO DÉCIMO. DEL RÉGIMEN LABORAL
 
@@ -1140,3 +1182,15 @@ Tercero. Hasta en tanto el Colegio, en el ámbito de sus atribuciones, no expida
 Cuarto. El Director General del Colegio deberá expedir en un plazo no mayor de seis meses contados a partir de la fecha de entrada en vigor del presente Estatuto, el Manual General de Organización del Colegio.
 
 La Directora General del Colegio de Bachilleres, Silvia Beatriz Ortega Salazar.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES".]
+
+Primero. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El presente instrumento fue aprobado por el Acuerdo número 7.7 en la Cuarta Sesión Ordinaria de la Junta Directiva del Colegio de Bachilleres, celebrada el 8 de noviembre de 2018.
+
+Tercero. El Director General del Colegio de Bachilleres, deberá expedir en un plazo no mayor de seis meses, contados a partir de la fecha de entrada en vigor del presente Acuerdo, las reformas y adiciones al Manual General de Organización del Colegio.
