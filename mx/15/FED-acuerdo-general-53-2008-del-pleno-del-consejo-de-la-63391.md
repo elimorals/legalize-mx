@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-53-2008-del-pleno-del-consejo-de-la-63391"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-03"
-last_updated: "2016-04-15"
+last_updated: "2018-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2008-09-10"
 ---
 # ACUERDO GENERAL 53/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SEXTA REGION, EN CHIHUAHUA, CHIHUAHUA, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 16 ACUERDO GENERAL 49/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 16 DEL ACUERDO GENERAL 49/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
 ACUERDO GENERAL 53/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SEXTA REGIÓN, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2018 (DEROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de octubre de 2008.
 
@@ -146,3 +146,47 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se deroga el punto Quinto de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 20/2009, que crea el Centro Auxiliar de la Primera Región; 10/2008, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos jurisdiccionales que lo integrarán; 18/2008, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán; 27/2008, por el que se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán; 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán; 53/2008, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán; 54/2008, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; 32/2010, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán; 51/2009, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán; 54/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán; y 33/2011, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán.
+
+D.O.F. 13 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 49/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL TRIBUNAL UNITARIO Y JUZGADO DE DISTRITO, AMBOS DEL CENTRO AUXILIAR DE LA SEXTA REGIÓN, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA, ASÍ COMO DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA SERVICIO; A LA DENOMINACIÓN, RESIDENCIA, INICIO DE FUNCIONES, COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO DEL JUZGADO DECIMOPRIMERO DE DISTRITO EN EL MISMO ESTADO Y RESIDENCIA; LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ENTIDAD FEDERATIVA Y SEDE INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Tribunal Unitario y del Juzgado de Distrito, ambos del Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua; y el inicio de funciones del Juzgado Decimoprimero de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre implicará el traslado del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente; en el entendido que el órgano jurisdiccional de nueva creación contará con la misma plantilla de personal que tienen sus homólogos.
+
+Las plazas de la Oficina de Correspondencia Común que concluye funciones quedarán a disposición de la Dirección General de Estadística Judicial.
+
+CUARTO. El Magistrado del Tribunal Unitario del Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, será readscrito por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+
+El Juez del Juzgado de Distrito del Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, será readscrito al órgano jurisdiccional de nueva creación.
+
+A efecto de respetar los derechos laborales de los servidores públicos adscritos al Tribunal Unitario del Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, que concluye funciones, se determina que las plazas de este órgano jurisdiccional pasarán a formar parte de las plazas adscritas a la Plantilla de Plazas a disposición del Consejo, autorizándose la ubicación temporal de estas, conforme a lo siguiente:
+
+Tres Secretarios de Tribunal: Pasarán a formar parte de los Tribunales Colegiados de Circuito que se encuentran en la residencia, uno al Tribunal Colegiado en Materias Civil y de Trabajo y dos al Tribunal Colegiado en Materias Penal y Administrativa.
+
+Tres oficiales administrativos: Pasarán a formar parte de los Tribunales Colegiados de Circuito que se encuentran en la residencia, uno al Tribunal Colegiado en Materias Civil y de Trabajo y dos al Tribunal Colegiado en Materias Penal y Administrativa.
+
+La Dirección General de Recursos Humanos, determinará a qué Tribunales Colegiados se reubicarán los referidos Secretarios de Tribunal y oficiales administrativos.
+
+Un oficial administrativo del Tribunal Unitario que concluye funciones: Formará parte del Juzgado de Distrito que inicia funciones.
+
+Un secretario particular, un Coordinador Técnico Administrativo, un chofer, un analista jurídico SISE y un oficial de servicios y mantenimiento serán reubicados por la Dirección General de Recursos Humanos a algún órgano jurisdiccional o área administrativa del propio Circuito.
+
+QUINTO. Dentro de los tres días hábiles siguientes a la fecha señalada en el artículo 6 de este Acuerdo, los Juzgados Primero, Segundo, Tercero, Octavo y Décimo de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, deberán proceder de la siguiente forma:
+
+I. Remitir por conducto de la Oficina de Correspondencia Común de los Juzgados de Distrito que les presta servicio al órgano jurisdiccional de nueva creación 10 juicios de amparo indirecto en trámite, con las características siguientes.
+
+- Que sean los más recientes, incluyendo sus anexos, valores y objetos;
+
+- No se deberán incluir aquellos que sean urgentes; los que se encuentren con audiencia celebrada; los turnados de manera relacionada, en términos de los artículos 45 y 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales;
+
+II. Los Titulares de los órganos jurisdiccionales, con asistencia de un secretario deberán levantar un acta en la que conste la entrega-recepción de expedientes y sus anexos y deberán asentar la entrega efectuada en los libros de control correspondientes; y,
+
+III. Los órganos jurisdiccionales que entreguen y el que reciba los expedientes a que se refiere este Acuerdo, deberán informar a la Dirección General de Estadística Judicial, el movimiento estadístico originado en razón del envío o recepción de expedientes.
+
+SEXTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+SÉPTIMO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
