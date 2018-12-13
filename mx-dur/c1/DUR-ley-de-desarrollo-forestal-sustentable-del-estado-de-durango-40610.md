@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-forestal-sustentable-del-estado-de-durango-40
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-13"
-last_updated: "2018-04-12"
+last_updated: "2018-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de junio de 2004.
 
@@ -41,9 +41,11 @@ LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DEL OBJETO Y APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Durango, en cumplimiento al principio de concurrencia previsto en el artículo 73, fracción XXIX inciso g) de la Constitución Política de los Estados Unidos Mexicanos, con el fin de propiciar el desarrollo forestal sustentable de la entidad.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Durango, en cumplimiento al principio de concurrencia previsto en la fracción XX del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, con el fin de propiciar el desarrollo forestal sustentable de la Entidad.
 
 ###### ARTÍCULO 2.
 
@@ -1290,5 +1292,13 @@ P.O. 12 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 365.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 18.- QUE CONTIENE REFORMAS AL ARTÍCULO 1 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
