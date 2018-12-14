@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-12-13"
+last_updated: "2018-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,1091 +19,49 @@ issue_date: "2013-02-07"
 ---
 # ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACION Y LOS JUZGADOS DE DISTRITO] -- ANTES -- ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO]
 
-[NOTA 1: PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]
+LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
 
-ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
+Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2018.
+FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
 
-ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
+"NUMERO 84
 
-CONSIDERANDO
+La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
 
-PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina de los tribunales de Circuito y juzgados de Distrito, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
+LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-SEGUNDO. El artículo 17 de la Constitución Federal establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes;
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-TERCERO. El artículo 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos y los artículos 81, fracciones IV, V, VI, XX y XXIV; y 144 de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal, determinar el número y los límites territoriales de los Circuitos en que se divida el territorio de la República Mexicana, así como el número, delimitación territorial y, en su caso, especialización por materia, de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito en cada uno de los mencionados Circuitos. Asimismo, que cada uno de los circuitos comprenderán los distritos judiciales cuyo número y límites territoriales determine el Consejo de la Judicatura Federal, y que en cada Distrito deberá establecerse cuando menos un juzgado;
+### CAPITULO I
 
-CUARTO. Con motivo de la creación de órganos jurisdiccionales y su especialización, la creación de nuevos Distritos Judiciales y su delimitación territorial por parte del Pleno del Consejo de la Judicatura Federal, así como la creación de Centros Regionales Auxiliares, y toda vez que el Acuerdo General 11/2011, derogado por el Acuerdo General 17/2012 del Pleno del Consejo de la Judicatura Federal, ha sido reformado en múltiples ocasiones, se hace evidente la necesidad de emitir uno nuevo que lo sustituya y actualice.
+###### ARTICULO 1º.
 
-En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
+La presente Ley regula la preservación y restauración del ambiente en el territorio del Estado de Aguascalientes. Sus disposiciones son de orden público e interés social y tienen por objeto:
 
-ACUERDO
+I. Establecer los mecanismos para otorgar a los habitantes en el Estado el derecho a un ambiente adecuado para su bienestar y desarrollo;
 
-PRIMERO. El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente:
+II. Garantizar que el desarrollo estatal sea integral y sustentable;
 
-> <small>(REFORMADA POR TRANSITORIO CUARTO DEL ACUERDO GENERAL 30/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE JUNIO DE 2016)</small>
+III. Definir los principios mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Estado, así como los instrumentos y procedimientos para su aplicación;
 
-I. PRIMER CIRCUITO: Ciudad de México.
+IV. Establecer las facultades de las autoridades estatales y municipales en materia de preservación y restauración del ambiente, protección de los ecosistemas y prevención de daños al ambiente;
 
-II. SEGUNDO CIRCUITO: Estado de México.
+V. Preservar y restaurar, así como prevenir daños al ambiente, de manera que sea compatible la obtención de beneficios económicos y las actividades de la sociedad con la preservación de los ecosistemas;
 
-III. TERCER CIRCUITO: Estado de Jalisco.
+VI. Preservar y proteger la diversidad biológica, establecer, regular y administrar las áreas naturales protegidas de competencia del Estado y los Municipios, así como manejar y vigilar las que se asuman por convenio con la Federación;
 
-IV. CUARTO CIRCUITO: Estado de Nuevo León.
+VII. Prevenir y controlar la contaminación atmosférica, del agua y del suelo en las áreas que no sean competencia de la Federación;
 
-V. QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
+VIII. Establecer las medidas de control, de seguridad y las sanciones administrativas y penales que correspondan, para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven; y
 
-VI. SEXTO CIRCUITO: Estado de Puebla.
-
-VII. SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
-
-VIII. OCTAVO CIRCUITO: Estado de Coahuila de Zaragoza y los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
-
-IX. NOVENO CIRCUITO: Estado de San Luis Potosí.
-
-X. DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
-
-XI. DECIMOPRIMER CIRCUITO: Estado de Michoacán.
-
-XII. DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa y Archipiélago de las Islas Marías.
-
-XIII. DECIMOTERCER CIRCUITO: Estado de Oaxaca.
-
-XIV. DECIMOCUARTO CIRCUITO: Estado de Yucatán.
-
-XV. DECIMOQUINTO CIRCUITO: Estado de Baja California y municipio de San Luis Río Colorado del Estado de Sonora.
-
-XVI. DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
-
-XVII. DECIMOSEPTIMO CIRCUITO: Estado de Chihuahua.
-
-XVIII. DECIMOCTAVO CIRCUITO: Estado de Morelos.
-
-XIX. DECIMONOVENO CIRCUITO: Estado de Tamaulipas.
-
-XX. VIGESIMO CIRCUITO: Estado de Chiapas.
-
-XXI. VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
-
-XXII. VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
-
-XXIII. VIGESIMO TERCER CIRCUITO: Estado de Zacatecas.
-
-XXIV. VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
-
-XXV. VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
-
-XXVI. VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
-
-XXVII. VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
-
-XXVIII. VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
-
-XXIX. VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
-
-XXX. TRIGESIMO CIRCUITO: Estado de Aguascalientes.
-
-XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
-
-XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE MAYO DE 2014)</small>
-
-SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
-
-I. PRIMER CIRCUITO:
-
-> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 46/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
-
-1. Sesenta y tres tribunales colegiados especializados: diez en materia penal, veintiuno en materia administrativa, quince en materia civil y diecisiete en materia de trabajo, todos con residencia en la Ciudad de México.
-
-2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Setenta juzgados de Distrito en la Ciudad de México especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
-
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 37/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
-
-4. Tres Juzgados de Distrito en Materia Mercantil Especializados en Juicios de Cuantía Menor con residencia en la Ciudad de México.
-
-5. (DEROGADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)
-
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2017)</small>
-
-6. Cinco Juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
-
-II. SEGUNDO CIRCUITO:
-
-1. Dieciséis tribunales colegiados, de los cuales catorce son especializados: cuatro en materia penal, cuatro en materia civil y dos en materia de trabajo, con residencia en Toluca, y cuatro tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez; y dos tribunales colegiados en Nezahualcóyotl.
-
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 18/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE JULIO DE 2018)</small>
-
-2. Ocho Tribunales Unitarios: cinco con sede en Toluca, dos con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
-
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 39/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE NOVIEMBRE DE 2018)</small>
-
-3. Veintinueve Juzgados de Distrito en el Estado de México; seis de Procesos Penales Federales, siete especializados en materia de Amparo y Juicios Federales y uno en materia Mercantil Federal, todos con residencia en Toluca; diez Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
-
-III. TERCER CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 33/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
-
-1. Veintidós tribunales colegiados especializados: tres en materia penal; siete en materia administrativa, cinco en materia civil, y cinco en materia de trabajo, todos con residencia en Zapopan; uno en materia penal y uno en materia civil, ambos con sede en Guadalajara, en Jalisco.
-
-> <small>(REFORMADO, D.O.F. 28 DE AGOSTO DE 2017)</small>
-
-2. Seis tribunales unitarios: cinco con residencia en Zapopan y uno con sede en Guadalajara.
-
-> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 41/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
-
-3. Treinta y dos juzgados de Distrito especializados: nueve de amparo en materia penal, siete con residencia en Zapopan y dos con sede en Puente Grande; dieciséis en materias administrativa, civil y de trabajo, todos con residencia en el municipio de Zapopan; y siete de procesos penales federales con residencia en Puente Grande.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
-
-4. Dos Juzgados de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco.
-
-IV. CUARTO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2014)</small>
-
-1. Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y cuatro en materia de trabajo, todos con residencia en Monterrey.
-
-> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
-
-2. Cuatro Tribunales Unitarios: tres con residencia en Monterrey y uno especializado en Materia Penal, con residencia en Cadereyta, todos en el Estado de Nuevo León.
-
-> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2017)</small>
-
-3. Catorce juzgados de Distrito especializados en el Estado de Nuevo León: seis en materia penal, tres en materia administrativa y cinco en materias civil y de trabajo, todos con residencia en Monterrey.
-
-V. QUINTO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2015)</small>
-
-1. Seis tribunales colegiados especializados; tres en materias penal y administrativa; y tres en materias civil y de trabajo, todos con residencia en Hermosillo.
-
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
-
-2. Seis tribunales unitarios con sede en Hermosillo.
-
-> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2015)</small>
-
-3. Doce juzgados de Distrito en el Estado de Sonora: seis con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
-
-VI. SEXTO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
-
-1. Diez tribunales colegiados especializados: tres en materia penal, tres en materia administrativa y tres en materia civil, todos con residencia en San Andrés Cholula; uno en materia de trabajo, con sede en Puebla, Puebla".
-
-2. Dos tribunales unitarios con sede en San Andrés Cholula.
-
-> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
-
-3. Quince juzgados de Distrito especializados en el Estado de Puebla: dos de procesos penales federales; ocho de amparo en materia civil, administrativa y de trabajo y de juicios federales; y cinco de amparo en materia penal; los trece primeros, con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
-
-4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula.
-
-VII. SEPTIMO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2014)</small>
-
-1.- Ocho tribunales colegiados especializados: dos en materia penal y dos en materia administrativa, con sede en Boca del Río; dos en materia civil y dos en materia de trabajo, con residencia en Xalapa, todos en el Estado de Veracruz.
-
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
-
-2.- Cuatro tribunales unitarios: dos con residencia en Boca del Río, otro con sede en Xalapa y uno con residencia en Veracruz, Veracruz.
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 14/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
-
-3.- Dieciocho Juzgados de Distrito en el Estado de Veracruz, dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco con sede en Xalapa, cuatro Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
-
-VIII. OCTAVO CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 16/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2018)</small>
-
-1. Siete tribunales colegiados especializados: dos en materias civil y de trabajo y tres en materias penal y administrativa, con residencia en Torreón; un tribunal colegiado en materias penal y de trabajo y uno en materias administrativa y civil, con sede en Saltillo.
-
-2. Tres tribunales unitarios, dos con sede en Torreón y uno con sede en Saltillo.
-
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 34/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2018)</small>
-
-3. Doce Juzgados de Distrito en el Estado de Coahuila de Zaragoza: dos con residencia en Saltillo, uno con sede en Piedras Negras, dos con residencia en Monclova y siete en La Laguna, con sede en Torreón, uno de estos en Materia Mercantil Federal.
-
-IX. NOVENO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2015)</small>
-
-1. Cuatro tribunales colegiados especializados: dos en materias civil y administrativa; uno en materia de trabajo, y uno en materia penal, todos con residencia en San Luis Potosí.
-
-2. Un tribunal unitario con sede en San Luis Potosí.
-
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 30/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2018)</small>
-
-3. Nueve Juzgados de Distrito en el Estado de San Luis Potosí: seis mixtos y uno en Materia Mercantil Federal, todos con sede en la ciudad del mismo nombre; y dos mixtos con residencia en Ciudad Valles.
-
-X. DECIMO CIRCUITO:
-
-> <small>(REFORMADO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
-
-1. Cinco tribunales colegiados: Tres especializados: uno en materias civil y de trabajo, uno en materias penal y de trabajo y uno en materias administrativa y de trabajo, todos con residencia en Villahermosa y dos con residencia en Coatzacoalcos.
-
-2. Dos tribunales unitarios con sede en Villahermosa.
-
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 40/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE NOVIEMBRE DE 2018)</small>
-
-3. Ocho juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa, uno de ellos en Materia Mercantil Federal.
-
-> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
-
-4. Cuatro Juzgados de Distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
-
-XI. DECIMOPRIMER CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2017)</small>
-
-1. Seis tribunales colegiados especializados: uno en materia penal, tres en materias administrativa y de trabajo, y dos en materia civil, todos con residencia en Morelia.
-
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2017)</small>
-
-2. Tres tribunales unitarios con sede en Morelia.
-
-3. Nueve juzgados de Distrito en el Estado de Michoacán: seis con residencia en Morelia y tres con sede en Uruapan.
-
-XII. DECIMOSEGUNDO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2014)</small>
-
-1. Cinco tribunales colegiados especializados: dos en materia administrativa, uno en materia civil, uno en materia de trabajo y uno en materia penal, todos con residencia en Mazatlán, Sinaloa.
-
-2. Tres tribunales unitarios: dos con sede en Mazatlán y uno con residencia en Culiacán.
-
-3. Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
-
-4. (DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)
-
-XIII. DECIMOTERCER CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2016)</small>
-
-1. Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa, y uno en materias de trabajo y administrativa, todos con residencia en San Bartolo Coyotepec, Oaxaca.
-
-> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2016)</small>
-
-2. Dos tribunales unitarios con sede en San Bartolo Coyotepec, Oaxaca.
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 23/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
-
-3. Doce Juzgados de Distrito en el Estado de Oaxaca; nueve Mixtos y uno en materia Mercantil Federal, todos con residencia en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
-
-XIV. DECIMOCUARTO CIRCUITO:
-
-1. Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa y uno en materias de trabajo y administrativa, todos con residencia en Mérida.
-
-2. Un tribunal unitario con sede en Mérida.
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 27/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE SEPTIEMBRE DE 2018)</small>
-
-3. Seis Juzgados de Distrito en el Estado de Yucatán; cinco Mixtos y uno en materia Mercantil Federal, todos con sede en Mérida.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE DICIEMBRE DE 2018, PÁGINA 100.]</small>
-
-XV. DECIMOQUINTO CIRCUITO:
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO] POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
-
-1. Ocho tribunales colegiados: seis con residencia en Mexicali y dos especializados en materia civil y de trabajo, con residencia en Tijuana.
-
-> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
-
-2. Nueve tribunales unitarios: cuatro con sede en Mexicali y cinco con residencia en Tijuana.
-
-> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
-
-3. Veinte juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis Mixtos; y uno en Materia Mercantil Federal, todos con sede en Mexicali; y diez con residencia en Tijuana, estos últimos comprenden cinco especializados en Procesos Penales Federales y cinco en Materia de Amparo y Juicios Federales.
-
-XVI. DECIMOSEXTO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
-
-1. Nueve tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y dos en materia de trabajo, todos con residencia en Guanajuato, Guanajuato.
-
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2014)</small>
-
-2. Cuatro tribunales unitarios con sede en Guanajuato.
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 39/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE ENERO DE 2018)</small>
-
-3. Doce juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, cinco con sede en León, tres con residencia en Celaya y dos con sede en Irapuato.
-
-XVII. DECIMOSEPTIMO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2017)</small>
-
-1. Siete tribunales colegiados: cinco especializados, dos en materias penal y administrativa; y tres en materias civil y de trabajo, todos con residencia en la ciudad de Chihuahua; así como dos con sede en Ciudad Juárez.
-
-2. Cuatro tribunales unitarios: dos con residencia en Chihuahua y dos con sede en Ciudad Juárez.
-
-> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 49/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
-
-3. Once juzgados de Distrito en el Estado de Chihuahua: seis con residencia en la ciudad del mismo nombre y cinco con sede en Ciudad Juárez.
-
-XVIII. DECIMOCTAVO CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 4/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)</small>
-
-1. Seis tribunales colegiados especializados: dos en materia de trabajo, tres en materias penal y administrativa y uno en materia civil, todos con residencia en Cuernavaca, Morelos.
-
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-2. Dos tribunales unitarios con sede en Cuernavaca.
-
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
-
-3. Ocho juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
-
-XIX. DECIMONOVENO CIRCUITO:
-
-1. Seis tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como dos con sede en Reynosa, Tamaulipas.
-
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 12/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2018)</small>
-
-2. Seis tribunales unitarios: uno con sede en Ciudad Victoria, dos con residencia en Matamoros, dos con sede en Reynosa y uno con residencia en Nuevo Laredo.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2016)</small>
-
-3. Quince juzgados de Distrito en el Estado de Tamaulipas: cuatro con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, uno en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
-
-XX. VIGESIMO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2015)</small>
-
-1. Cuatro tribunales colegiados especializados: dos en materias penal y civil, uno en materia de trabajo y uno en materia administrativa, todos con residencia en Tuxtla Gutiérrez, Chiapas.
-
-> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2016)</small>
-
-2. Dos tribunales unitarios con sede en Cintalapa de Figueroa, Chiapas.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
-
-3. Once juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; siete juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; y dos juzgados de Distrito mixtos con residencia en Tapachula.
-
-XXI. VIGESIMO PRIMER CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
-
-1. Cinco tribunales colegiados especializados: tres en materias civil y de trabajo, con residencia en Chilpancingo; y dos tribunales colegiados en materias penal y administrativa, con sede en Acapulco.
-
-2. Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
-
-> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
-
-3. Once juzgados de Distrito en el Estado de Guerrero: tres con residencia en Chilpancingo, seis con residencia en Acapulco, uno de éstos en Materia Mercantil Federal y dos con residencia en Iguala.
-
-XXII. VIGESIMO SEGUNDO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2017)</small>
-
-1. Cinco Tribunales Colegiados semiespecializados: uno en materias penal y administrativa; uno en materias administrativa y de trabajo; y tres en materias administrativa y civil, todos con residencia en Querétaro, Querétaro.
-
-2. Un tribunal unitario con sede en Querétaro.
-
-> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2016)</small>
-
-3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y siete de Amparo y Juicios Federales.
-
-XXIII. VIGESIMO TERCER CIRCUITO:
-
-1. Un tribunal colegiado con residencia en Zacatecas.
-
-> <small>(REFORMADO POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2018)</small>
-
-2. Un Tribunal Unitario con sede en Zacatecas.
-
-> <small>(REFORMADO POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2018)</small>
-
-3. Tres Juzgados de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
-
-XXIV. VIGESIMO CUARTO CIRCUITO:
-
-1. Dos tribunales colegiados con residencia en Tepic.
-
-2. Dos tribunales unitarios con sede en Tepic.
-
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2017)</small>
-
-3. Ocho juzgados de Distrito en el Estado de Nayarit: dos especializados en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales, cuatro de Amparo en Materia Penal y dos de Procesos Penales Federales, todos con residencia en Tepic.
-
-XXV. VIGESIMO QUINTO CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 9/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
-
-1. Cuatro Tribunales Colegiados con residencia en Durango.
-
-2. Un tribunal unitario con sede en Durango.
-
-3. Tres juzgados de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre.
-
-XXVI. VIGESIMO SEXTO CIRCUITO:
-
-1. Un tribunal colegiado con residencia en La Paz.
-
-2. Un tribunal unitario con sede en La Paz.
-
-3. Tres juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz.
-
-XXVII. VIGESIMO SEPTIMO CIRCUITO:
-
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
-
-1. Tres tribunales colegiados con residencia en Cancún.
-
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 24/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2018)</small>
-
-2. Dos tribunales unitarios con sede en Cancún.
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 13/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
-
-3. Ocho Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y seis con sede en Cancún.
-
-4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún.
-
-XXVIII. VIGESIMO OCTAVO CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
-
-1. Dos tribunales colegiados con residencia en Apizaco, Tlaxcala.
-
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
-
-2. Un tribunal unitario con sede en Apizaco, Tlaxcala.
-
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
-
-3. Tres juzgados de Distrito con residencia en Apizaco, Tlaxcala.
-
-XXIX. VIGESIMO NOVENO CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 21/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
-
-1. Tres tribunales colegiados con residencia en Pachuca.
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 21/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
-
-2. Un tribunal unitario con sede en Pachuca.
-
-3. Cuatro juzgados de distrito en el Estado de Hidalgo, con residencia en Pachuca.
-
-XXX. TRIGESIMO CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 25/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2018)</small>
-
-1. Cuatro Tribunales Colegiados con residencia en Aguascalientes.
-
-2. Un tribunal unitario con sede en Aguascalientes.
-
-> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2017)</small>
-
-3. Seis juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
-
-XXXI. TRIGESIMO PRIMER CIRCUITO:
-
-1. Un tribunal colegiado con residencia en Campeche.
-
-2. Un tribunal unitario con sede en Campeche.
-
-3. Dos juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
-
-XXXII. TRIGESIMO SEGUNDO CIRCUITO:
-
-1. Un tribunal colegiado con residencia en Colima.
-
-2. Un tribunal unitario con sede en Colima.
-
-> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 2017)</small>
-
-3. Tres juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre.
-
-TERCERO. La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
-
-I. PRIMER CIRCUITO: Distrito Federal.
-
-II. SEGUNDO CIRCUITO: Los tribunales colegiados en materia penal, en materia administrativa, en materia civil y en materia de trabajo, es la establecida para los juzgados de Distrito con sede en Toluca y Naucalpan de Juárez, Estado de México; y en cuanto a los tribunales colegiados con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
-
-> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
-
-Para los Tribunales Unitarios con residencia en Toluca, y para el Tribunal Unitario especializado en Materia Penal con residencia en Almoloya de Juárez, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
-
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 18/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE JULIO DE 2018)</small>
-
-Los tribunales unitarios con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
-
-III. TERCER CIRCUITO: Estado de Jalisco.
-
-IV. CUARTO CIRCUITO: Estado de Nuevo León.
-
-V. QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
-
-VI. SEXTO CIRCUITO: Estado de Puebla.
-
-VII. SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
-
-VIII. OCTAVO CIRCUITO: Los tribunales colegiados con residencia en Torreón, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en La Laguna, con sede en Torreón, Coahuila de Zaragoza.
-
-Los tribunales colegiados con residencia en Saltillo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con sedes en Saltillo, Piedras Negras y Monclova.
-
-Los tribunales unitarios con residencia en Torreón, su jurisdicción será igual a la establecida para los Juzgados de Distrito en La Laguna, con sede en Torreón y para el tribunal unitario con residencia en Saltillo, su jurisdicción será igual a la establecida para los Juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo, Piedras Negras y Monclova.
-
-IX. NOVENO CIRCUITO: Estado de San Luis Potosí.
-
-X. DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
-
-XI. DECIMOPRIMER CIRCUITO: Estado de Michoacán.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
-
-XII. DECIMOSEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
-
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
-
-En los tribunales unitarios con residencia en Mazatlán, su jurisdicción será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en Los Mochis y la establecida para el Juzgado Octavo de Distrito del Centro Auxiliar de la Quita (sic) Región, con residencia en Mazatlán, Sinaloa, en cuanto al Distrito Judicial conformado por el territorio del Archipiélago de las Islas Marías.
-
-El tribunal unitario con residencia en Culiacán, tendrá la misma que la establecida para los juzgados de Distrito en el Estado de Sinaloa, con sede en la citada ciudad.
-
-XIII. DECIMOTERCER CIRCUITO: Estado de Oaxaca.
-
-XIV. DECIMOCUARTO CIRCUITO: Estado de Yucatán.
-
-> <small>(REFORMADA POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 29/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2016)</small>
-
-XV. DECIMOQUINTO CIRCUITO: En los tribunales colegiados con residencia en Mexicali, para las materias penal y administrativa, su jurisdicción es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora y por lo que toca a las materias civil y de trabajo, dicha jurisdicción se limita al municipio de San Luis Río Colorado del Estado de Sonora y a Mexicali, Baja California.
-
-Los tribunales colegiados en materias civil y de trabajo con residencia en Tijuana, tendrán jurisdicción en el territorio que comprende dicho municipio y en los diversos de Ensenada, Playas de Rosarito y Tecate, en el Estado de Baja California.
-
-Los tribunales unitarios con residencia en Mexicali será igual a la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en dicha ciudad.
-
-Los tribunales unitarios con residencia en Tijuana tendrán la misma que la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
-
-XVI. DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
-
-XVII. DECIMOSEPTIMO CIRCUITO: Los tribunales colegiados con sede en Chihuahua, será igual a la establecida para los juzgados de Distrito en la referida ciudad.
-
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2017)</small>
-
-La jurisdicción territorial de los tribunales colegiados con residencia en Ciudad Juárez, será la misma que la establecida para los juzgados de Distrito en esa sede.
-
-Los tribunales unitarios con residencia en Chihuahua, será igual a la establecida para los juzgados de Distrito en el Estado de Chihuahua, con residencia en dicha ciudad.
-
-Los tribunales unitarios con residencia en Ciudad Juárez, tendrán la misma que la establecida para los juzgados de Distrito en el Estado de Chihuahua, con sede en la citada ciudad.
-
-XVIII. DECIMOCTAVO CIRCUITO: Estado de Morelos.
-
-XIX. DECIMONOVENO CIRCUITO: En los tribunales colegiados con sede en Ciudad Victoria, será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la citada ciudad y en la de Tampico.
-
-Para los tribunales colegiados con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en Matamoros, Nuevo Laredo y Reynosa.
-
-El tribunal unitario con sede en Ciudad Victoria tendrá la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en Tampico.
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 18/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MAYO DE 2016)</small>
-
-En los tribunales unitarios con sede en Matamoros, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la citada ciudad.
-
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 12/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2018)</small>
-
-Para los tribunales unitarios con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la ciudad aludida.
-
-En el tribunal unitario con residencia en Nuevo Laredo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en dicha ciudad.
-
-XX. VIGESIMO CIRCUITO: Estado de Chiapas.
-
-XXI. VIGESIMO PRIMER CIRCUITO: En los tribunales colegiados es el Estado de Guerrero.
-
-El tribunal unitario con residencia en Chilpancingo, tendrá su jurisdicción territorial en la establecida para los juzgados de Distrito en el Estado de Guerrero, con sede en dicha ciudad y en Iguala.
-
-El tribunal unitario con residencia en Acapulco, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Guerrero, con residencia en la citada ciudad.
-
-XXII. VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
-
-XXIII. VIGESIMO TERCER CIRCUITO: Estado de Zacatecas.
-
-XXIV. VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
-
-XXV. VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
-
-XXVI. VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
-
-XXVII. VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
-
-XXVIII. VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
-
-XXIX. VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
-
-XXX. TRIGESIMO CIRCUITO: Estado de Aguascalientes.
-
-XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
-
-XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
-
-CUARTO. La jurisdicción territorial de los juzgados de Distrito es la siguiente:
-
-I. PRIMER CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
-
-Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados de Distrito Especializados en Ejecución de Penas, que ejercerán jurisdicción territorial en toda la República Mexicana.
-
-> <small>(DEROGADO TERCER PÁRRAFO POR EL TRANSITORIO DÉCIMO PRIMERO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
-
-II. SEGUNDO CIRCUITO:
-
-Los juzgados de Distrito de Procesos Penales Federales en el Estado de México y los juzgados de Distrito en materias de amparo y de juicios federales en el Estado de México, con residencia en Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
-
-Los juzgados de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec de Morelos, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Tonanitla, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango.
-
-Los juzgados de Distrito en el Estado de México, con residencia en Nezahualcóyotl, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad.
-
-> <small>(DEROGADO QUINTO PÁRRAFO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)</small>
-
-III. TERCER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Jalisco, con residencia en Zapopan y Puente Grande, ejercerán jurisdicción territorial en el Distrito Judicial conformado por la propia entidad federativa.
-
-IV. CUARTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Nuevo León, con residencia en Monterrey, ejercerán jurisdicción territorial en el distrito judicial que conforma el territorio de la propia entidad federativa.
-
-V. QUINTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Aconchi, Arivechi, Bacadehuachi, Bacanora, Banámichi, Baviácora, Carbó, Divisaderos, Empalme, Granados, Guaymas, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Pesqueira y Yécora.
-
-Los juzgados de Distrito en el Estado de Sonora, con residencia en Nogales, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Altar, Atil, Benjamín Hill, Caborca, Cucurpe, General Plutarco Elías Calles, Imuris, Magdalena, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
-
-Los juzgados de Distrito en el Estado de Sonora, con residencia en Ciudad Obregón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alamos, Bácum, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa, Quiriego, Rosario y San Ignacio Río Muerto.
-
-El juzgado de Distrito en el Estado de Sonora, con residencia en Agua Prieta, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
-
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 24/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
-
-VI. SEXTO CIRCUITO:
-
-Los Juzgados de Distrito en el Estado de Puebla, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-VII. SEPTIMO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alamo Temapache, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, San Rafael, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
-
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Alvarado, Amatitlán, Angel R. Cabada, Boca del Río, Carlos A. Carrillo, Catemaco, Cosamaloapan de Carpio, Cotaxtla, Chacaltianguis, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixmatlahuacán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, Lerdo de Tejada, Manlio Fabio Altamirano, Medellín, Otatitlán, Paso de Ovejas, Playa Vicente, Puente Nacional, Saltabarranca, San Andrés Tuxtla, Santiago Sochiapan, Santiago Tuxtla, Soledad de Doblado, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles, Tuxtilla, Ursulo Galván y Veracruz.
-
-El Juzgado de Distrito en el Estado de Veracruz, con sede en Córdoba, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acultzingo, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Coetzala, Córdoba, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huiloapan de Cuauhtémoc, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Paso del Macho, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacán, Tezonapa, Tlaquilpa, Tlilapan, Tomatlán, Xoxocotla, Yanga y Zongolica.
-
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cerro Azul, Citlaltépetl, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, El Higo, Huayacocotla, Llamatlán, Ixcatepec, Ixhuatlán de Madero, Naranjos Amatlán, Ozuluama de Mascareñas, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Temapache, Tempoal, Tepetzintla, Texcatepec, Tlachichilco, Tuxpan, Zacualpan y Zontecomatlán de López y Fuentes.
-
-Los juzgados de Distrito en el Estado de Veracruz, con sede en Poza Rica, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Castillo de Teayo, Cazones de Herrera, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Poza Rica de Hidalgo, Tecolutla, Tihuatlán y Zozocolco de Hidalgo.
-
-Los juzgados de Distrito de Procesos Penales Federales en el Estado de Veracruz, con residencia en Villa Aldama, conocerán de los asuntos que correspondan a los reos internados en el Centro Federal de Readaptación Social Número Cinco Oriente, en Villa Aldama, Veracruz.
-
-VIII. OCTAVO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
-
-El juzgado de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Piedras Negras, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuña, Allende, Guerrero, Hidalgo, Jiménez, Juárez, Morelos, Múzquiz, Nava, Piedras Negras, Progreso, Sabinas, San Juan de Sabinas, Villa Unión y Zaragoza.
-
-Los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Monclova, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada.
-
-Los juzgados de Distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila de Zaragoza, así como en los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
-
-IX. NOVENO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Ciudad Fernández, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Rioverde, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierra Nueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
-
-Los juzgados de Distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo y Xilitla.
-
-X. DECIMO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
-
-XI. DECIMOPRIMER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Michoacán, con residencia en Morelia, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuitzio, Alvaro Obregón, Angamacutiro, Angangueo, Aporo, Ario, Carácuaro, Coeneo, Contepec, Copándaro, Cuitzeo, Charo, Chucándiro, Churintzio, Churumuco, Epitacio Huerta, Erongarícuaro, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Jiménez, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Madero, Maravatío, Morelia, Morelos, Nocupétaro, Nuevo Urecho, Numarán, Ocampo, Panindícuaro, Pátzcuaro, Penjamillo, Puruándiro, Queréndaro, Quiroga, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tarímbaro, Tiquicheo de Nicolás Romero, Tlalpujahua, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro y Zitácuaro.
-
-Los juzgados de Distrito en el Estado de Michoacán, con residencia en Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tinguindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa y Ziracuaretiro.
-
-XII. DECIMOSEGUNDO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Culiacán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Culiacán y Navolato.
-
-Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
-
-Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
-
-> <small>(DEROGADO CUARTO PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
-
-XIII. DECIMOTERCER CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 45/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE OCTUBRE DE 2016)</small>
-
-Los juzgados de Distrito en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, Oaxaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de Distrito con residencia en Salina Cruz.
-
-Los juzgados de Distrito en el Estado de Oaxaca, con residencia en Salina Cruz, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Asunción Ixtaltepec, Ciudad Ixtepec, Chauites, El Barrio de la Soledad, El Espinal, Guevea de Humboldt, Juchitán de Zaragoza, Magdalena Tequisistlán, Magdalena Tlacotepec, Matías Romero, Reforma de Pineda, Salina Cruz, San Blás Atempa, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Guichicovi, San Mateo del Mar, San Miguel Chimalapa, San Miguel del Puerto, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Mixtepec, San Pedro Pochutla, San Pedro Tapanatepec, Santa María Colotepec, Santa María Chimalapa, Santa María Guienagati, Santa María Huatulco, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Tonameca, Santa María Totolapilla, Santa María Xadani, Santiago Astata, Santiago Lachiguiri, Santiago Laollaga, Santiago Niltepec, Santo Domingo Chihuitán, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec y Unión Hidalgo.
-
-XIV. DECIMOCUARTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XV. DECIMOQUINTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Baja California, con residencia en Mexicali, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Mexicali del Estado de Baja California y por el municipio de San Luis Río Colorado del Estado de Sonora.
-
-Los juzgados de Distrito en el Estado de Baja California, con residencia en Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Playas de Rosarito, Tecate y Tijuana.
-
-Los juzgados de Distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre.
-
-XVI. DECIMOSEXTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Atarjea, Doctor Mora, Dolores Hidalgo, Guanajuato, San Diego de la Unión, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Tierra Blanca, Victoria y Xichú.
-
-Los juzgados de Distrito en el Estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Purísima del Rincón, San Felipe y San Francisco del Rincón.
-
-Los juzgados de Distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarímoro, Uriangato, Villagrán y Yuriria.
-
-Los Juzgados de Distrito en el Estado de Guanajuato, con sede en Irapuato, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, Silao y Valle de Santiago.
-
-XVII. DECIMOSEPTIMO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame del Sotol, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
-
-Los juzgados de Distrito en el Estado de Chihuahua, con sede en Ciudad Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxedis G. Guerrero.
-
-XVIII. DECIMOCTAVO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XIX. DECIMONOVENO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Antiguo Morelos, Bustamante, Casas, El Mante, Gómez Farías, Güemez, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Tula, Victoria, Villagrán y Xicoténcatl.
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Nuevo Laredo, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Nuevo Laredo.
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Matamoros, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Burgos, Cruillas, Matamoros, Méndez, San Fernando y Valle Hermoso.
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Reynosa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
-
-> <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 22/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MAYO DE 2016)</small>
-
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico y en Ciudad Madero, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
-
-XX. VIGESIMO CIRCUITO:
-
-Los juzgados de Distrito de Procesos Penales Federales en el Estado de Chiapas, con sede en Cintalapa de Figueroa y los juzgados de Distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenajapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago el Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
-
-Los juzgados de Distrito en el Estado de Chiapas, con residencia en Tapachula, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acacoyahua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán.
-
-XXI. VIGESIMO PRIMER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Guerrero, con residencia en Chilpancingo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acatepec, Ahuacotzingo, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Cochoapa el Grande, Copanatoyac, Cualac, Chilapa de Alvarez, Chilpancingo de los Bravo, Eduardo Neri, General Heliodoro Castillo, Huamuxtitlán, Iliatenco, José Joaquín de Herrera, Leonardo Bravo, Malinaltepec, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
-
-Los juzgados de Distrito en el Estado de Guerrero, con sede en Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Juchitán, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Marquelia, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca, Xochistlahuaca y Zihuatanejo de Azueta.
-
-Los Juzgados de Distrito en el Estado de Guerrero, con residencia en Iguala, ejercerán jurisdicción en el distrito judicial conformado por los municipios de Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisirias, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
-
-XXII. VIGESIMO SEGUNDO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXIII. VIGESIMO TERCER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Zacatecas ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa
-
-XXIV. VIGESIMO CUARTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Nayarit, con residencia en Tepic, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXV. VIGESIMO QUINTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan del Río, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
-
-XXVI. VIGESIMO SEXTO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXVII. VIGESIMO SEPTIMO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos, Othón P. Blanco y Bacalar.
-
-Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas, Solidaridad y Tulum.
-
-XXVIII. VIGESIMO OCTAVO CIRCUITO:
-
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
-
-Los juzgados de Distrito con residencia en Apizaco, Tlaxcala, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXIX. VIGESIMO NOVENO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXX. TRIGESIMO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXXI. TRIGESIMO PRIMER CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXXII. TRIGESIMO SEGUNDO CIRCUITO:
-
-Los juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
-
-XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero, Segundo y Tercer Circuito, y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
-
-QUINTO. Centros Auxiliares Regionales:
-
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 4/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)</small>
-
-1. El Centro Auxiliar de la Primera Región se integrará por cuatro tribunales colegiados de Circuito Auxiliares, dos con residencia en la Ciudad de México y dos con residencia en Naucalpan de Juárez, Estado de México, y tres juzgados de Distrito auxiliares con sede en la Ciudad de México, de los cuales, uno está especializado además en materia de extinción de dominio;
-
-> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
-
-2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla.
-
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 33/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
-
-3. El Centro Auxiliar de la Tercera Región se integrará por dos juzgados de Distrito Auxiliares uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
-
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
-
-4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares y tres juzgados de Distrito Auxiliares.
-
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2015)</small>
-
-5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y seis juzgados de Distrito Auxiliares, cinco con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa.
-
-6. (DEROGADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 49/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)
-
-> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
-
-7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y tres juzgados de Distrito Auxiliares.
-
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
-
-8. El Centro Auxiliar de la Octava Región, se integrará por un Tribunal Colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán.
-
-> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2015)</small>
-
-9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y cuatro juzgados de Distrito Auxiliares.
-
-10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y tres juzgados de Distrito Auxiliares.
-
-> <small>(REFORMADO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
-
-11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz se integrará por un Tribunal Colegiado de Circuito Auxiliar.
-
-Todos los órganos jurisdiccionales antes citados tendrán jurisdicción en toda la República Mexicana y su competencia será mixta, a excepción del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región que además se especializa en materia de extinción de dominio.
-
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
-
-QUINTO BIS. Centros de Justicia Penal Federal:
-
-I. El Centro de Justicia Penal Federal en el Estado de Aguascalientes con residencia en la ciudad del mismo nombre.
-
-II. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Mexicali.
-
-III. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana.
-
-> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
-
-III Bis. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Ensenada.
-
-IV. El Centro de Justicia Penal Federal en el Estado de Baja California Sur, con residencia en La Paz, Baja California Sur.
-
-V. El Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
-
-VI. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, Chiapas.
-
-> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
-
-VI Bis. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Tapachula.
-
-VII. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
-
-> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
-
-VII Bis. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Ciudad Juárez.
-
-VIII. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, Coahuila.
-
-IX. El Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre.
-
-X. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Norte.
-
-XI. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Oriente.
-
-XII. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Sur.
-
-XIII. El Centro de Justicia Penal Federal en el Estado de Durango, con residencia en Durango, Durango.
-
-XIV. El Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre.
-
-XV. El Centro de Justicia Penal Federal en el Estado de Guerrero, con residencia en Acapulco, Guerrero.
-
-XVI. El Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, Hidalgo.
-
-XVII. El Centro de Justicia Penal Federal en el Estado de Jalisco, con residencia en el complejo penitenciario Puente Grande.
-
-XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México.
-
-XIX. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano).
-
-XX. El Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, Michoacán.
-
-XXI. El Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Cuernavaca, Morelos.
-
-XXII. El Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en la ciudad de Tepic, Nayarit, y contará con una sala remota en la Isla María Madre.
-
-XXIII. El Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, Nuevo León.
-
-> <small>(REFORMADA, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 23 DE FEBRERO DE 2018)</small>
-
-XXIV. El Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec.
-
-> <small>(REFORMADA, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 23 DE FEBRERO DE 2018)</small>
-
-XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
-
-XXVI. El Centro de Justicia Penal Federal en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
-
-XXVII. El Centro de Justicia Penal Federal en el Estado de Quintana Roo, con residencia en Cancún, Quintana Roo.
-
-XXVIII. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
-
-XXIX. El Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, Sinaloa.
-
-XXX. El Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, Sonora.
-
-XXXI. El Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, Tabasco.
-
-XXXII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Ciudad Victoria.
-
-XXXIII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa.
-
-XXXIV. El Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residencia en Apizaco, Tlaxcala.
-
-XXXV. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos.
-
-XXXVI. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa.
-
-XXXVII. El Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, Yucatán.
-
-XXXVIII. El Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
-
-> <small>(REFORMADO, D.O.F. DE 9 DE JUNIO DE 2016)</small>
-
-QUINTO TER. Los órganos jurisdiccionales de los Centros de Justicia Penal Federal serán competentes en todo el territorio de la entidad federativa de su residencia, con excepción de lo siguiente:
-
-I. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Mexicali: cuya jurisdicción territorial comprenderá dicho municipio, así como el de San Luis Río Colorado, Sonora;
-
-> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
-
-I. Bis. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Tijuana: cuya jurisdicción territorial comprenderá dicho municipio y los diversos de Tecate y Playas de Rosarito;
-
-> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
-
-I. Ter. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Ensenada, cuya jurisdicción territorial comprenderá dicho municipio;
-
-II. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Tijuana: cuya jurisdicción territorial comprenderá dicho municipio y los diversos de Ensenada, Tecate y Playas de Rosarito;
-
-> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
-
-II Bis. Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, cuya jurisdicción territorial comprenderá los municipios de: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Ángel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larráinzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago El Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán; todos ellos del Estado de Chiapas.
-
-> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
-
-II Ter. Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Tapachula, cuya jurisdicción territorial comprenderá los municipios de: Acacoyagua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán; todos ellos del Estado de Chiapas.
-
-> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
-
-II Quater. Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Chihuahua, cuya jurisdicción territorial comprenderá los municipios de Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
-
-> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
-
-II Quinquies. Centro de Justicia Penal Federal en el Estado de Chihuahua, con sede en Ciudad Juárez: cuya jurisdicción territorial comprenderá los municipios de Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxiedis G. Guerrero.
-
-III. Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, son sede en Torreón: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios de Durango señalados en la fracción siguiente;
-
-IV. Centro de Justicia Penal Federal en el Estado de Durango, con sede en la ciudad del mismo nombre: cuya jurisdicción territorial comprenderá el Estado de Durango, salvo los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo;
-
-> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2017)</small>
-
-IV Bis. Centro de Justicia Penal Federal en el Estado de México, con sede en Nezahualcóyotl cuya jurisdicción territorial comprenderá los municipios de Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México."
-
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
-
-IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano) cuya jurisdicción territorial comprenderá los municipios de Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
-
-V. Centro de Justicia Penal Federal en el Estado de Nayarit, con sede en Tepic: cuya jurisdicción territorial comprenderá dicha entidad federativa y el territorio del archipiélago de las Islas Marías;
-
-VI. Centro de Justicia Penal Federal en el Estado de Sonora, con sede en Hermosillo: cuya jurisdicción territorial comprenderá dicha entidad federativa, con excepción del municipio de San Luis Río Colorado;
-
-VII. Centro de Justicia Penal Federal en el Estado de Tamaulipas, con sede en Ciudad Victoria: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios de los Distritos Judiciales de Ciudad Victoria y Tampico que integran la misma con excepción de los señalados en la fracción siguiente;
-
-VIII. Centro de Justicia Penal Federal en el Estado de Tamaulipas, con sede en Reynosa: cuya jurisdicción territorial comprenderá los municipios de Nuevo Laredo, Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa, Río Bravo, Burgos, Cruillas, Matamoros, Méndez, San Fernardo (sic) y Valle Hermoso;
-
-IX. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en Coatzacoalcos: cuya jurisdicción territorial comprenderá los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza de dicho Estado;
-
-> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2017)</small>
-
-X. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en la ciudad de Xalapa: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios que integran la misma con excepción de los señalados en la fracción anterior;
-
-XI. Todos los Centros de Justicia Penal Federal, además de los asuntos que les correspondan por su jurisdicción territorial conocerán de aquellos que deriven de procesos penales seguidos por delitos cometidos en el resto del territorio nacional, a que se refieren los artículos 42 y 48 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2017)</small>
-
-El Centro de Justicia Penal Federal competente será el más cercano al lugar en que se haya cometido el delito;
-
-> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2017)</small>
-
-XII. Tratándose de los delitos cometidos en el extranjero o en extensiones del territorio nacional se observará lo siguiente:
-
-a) En los casos de los artículos 2°, 4° y 5°, fracción V, del Código Penal Federal será competente el Centro de Justicia Penal Federal en cuya jurisdicción territorial se encuentre el imputado; pero si éste se hallare en el extranjero, lo serán para conocer de los actos surgidos antes de la audiencia inicial, y desde ésta hasta el dictado de la sentencia, así como de los medios de impugnación respectivos, los Jueces de Distrito de los Centros de Justicia Penal Federal en la Ciudad de México, y, en su caso, los habilitados; y
-
-b) En los casos de las fracciones I y II del artículo 5° del Código Penal Federal, en términos similares a los de la fracción anterior, es competente el Centro de Justicia Penal Federal a cuya jurisdicción corresponda el primer punto del territorio nacional a donde arribe el buque; y en los supuestos de la fracción III del mismo artículo, el Centro a cuya jurisdicción pertenezca el puerto en que se encuentre o arribe el buque.
-
-Lo previsto en el párrafo que antecede es aplicable a los delitos aludidos en la fracción IV del artículo 5° de dicho Código; y
-
-> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2017)</small>
-
-XIII. Todos los Centros de Justicia Penal Federal, además de los asuntos que les correspondan por su jurisdicción territorial conocerán de los procedimientos de extradición.
-
-Serán competentes los jueces de distrito especializados en el sistema penal acusatorio, del Centro de Justicia Penal Federal donde se encuentre el reclamado. Cuando se desconozca el paradero de éste, serán competentes los Jueces de Distrito de los Centros de Justicia Penal de la Ciudad de México.
-
-> <small>(REFORMADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
-
-QUINTO QUATER. El Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, está conformado por ocho jueces de Control y un Tribunal Unitario de Circuito, con jurisdicción en toda la República Mexicana.
-
-> <small>(ADICIONADO POR EL PUNTO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 22/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2013)</small>
-
-SEXTO. Órganos Jurisdiccionales en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal, y Jurisdicción en toda la República, integrado por: dos juzgados de distrito y dos tribunales colegiados de circuito.
-
-SÉPTIMO. El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, interpretarán y resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
-
-OCTAVO. Los asuntos que como consecuencia de la entrada en vigor de este acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal de Circuito o juzgado de Distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
-
-### CAPÍTULO PRIMERO. Disposiciones Generales y del Objeto de la Ley
-
-###### Artículo 1º.
-
-La presente Ley es de orden público, de interés social y observancia general en el Estado de Aguascalientes. Tiene por objeto establecer las bases para la planeación, organización, dirección ejecución y evaluación de políticas públicas entre el Estado y sus municipios en materia de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana en el Estado de Aguascalientes.
+IX. Regular la responsabilidad por daños al ambiente y establecer los mecanismos adecuados para garantizar la internalización de los costos ambientales en los procesos productivos.
 
 ###### Artículo 2º.
 
@@ -1113,143 +71,187 @@ La Prevención Social de la Violencia y la Delincuencia con Participación Ciuda
 
 La planeación, organización, dirección, ejecución y evaluación de las políticas públicas, programas y acciones se realizarán en los diversos ámbitos de competencia por conducto de las instituciones de Seguridad Pública y demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al cumplimiento de esta Ley, debiendo observar como mínimo los principios señalados en la Ley General para la Prevención Social de la Violencia y la Delincuencia.
 
-###### Artículo 5º.
+## TITULO SEGUNDO. DE LAS AUTORIDADES AMBIENTALES
 
-Las Estrategias de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana se basarán en cuatro enfoques básicos:
+###### ARTICULO 4°.
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+Son autoridades en materia ambiental en el Estado:
 
-I. Perspectiva de Género: Perspectiva de Género (sic): Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la operación de género como la desigualdad, la injusticia y jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+I. El Gobernador del Estado;
 
-II. Seguridad Ciudadana: Busca la gestión participativa y la corresponsabilidad; propone garantizar la seguridad de las personas bajo principios humanistas e integrales. Actúa sobre las causas que originan la violencia y generan inseguridad, al tiempo que responde a condiciones sociales y espaciales e involucra al ciudadano en el diseño, la implementación y operación de la política pública. Posee una perspectiva interinstitucional coordinada.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+II.- El Instituto del Medio Ambiente del Estado de Aguascalientes;
 
-III. Ciudades Seguras: Busca recuperar los espacios públicos, recreativos y culturales para crear ciudades habitables, equitativas y justas que promuevan la cultura de la paz, la resolución pacífica de los conflictos y la solidaridad, a través del desarrollo y distribución de funciones en el ámbito local para combatir la inseguridad urbana; y
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2007)</small>
 
-IV. Derechos Humanos: Conjunta las prerrogativas inherentes a la naturaleza de la persona, que permiten su desarrollo integral.
+III. La Procuraduría Estatal de Protección al Ambiente; y
 
-###### Artículo 6º.
+IV. Los Ayuntamientos.
 
-La cohesión comunitaria es un proceso a través del cual las sociedades garantizan que todos los ciudadanos alcancen su máximo potencial. Dicho proceso es multifactorial y está relacionado con ocho dimensiones a saber:
+###### ARTICULO 5º.
 
-I. Derechos y valores de la democracia;
+En cada ayuntamiento existirá una área administrativa encargada de los aspectos ambientales y de aplicar las disposiciones de esta Ley, la Ley General y demás ordenamientos de su competencia.
 
-II. Igualdad de oportunidades;
+###### ARTICULO 6º.
 
-III. Sentido de pertenencia y noción de futuro compartido;
+Corresponde al Ejecutivo Estatal en materia ambiental, el ejercicio de las siguientes atribuciones:
 
-IV. Reconocimiento de la diversidad;
+I. Formular los instrumentos de la política ambiental en el Estado, conforme al Plan Estatal de Desarrollo y los programas sectoriales correspondientes;
 
-V. Gestión y solución de conflictos;
+II. Promover la creación de un fondo para la investigación, estudio y atención de aquellos asuntos que en materia ambiental se consideren de interés para el Estado;
 
-VI. Participación y relaciones positivas entre personas;
+III. Proponer en la Ley de Ingresos del Estado, el pago de derechos por la expedición y prestación de los servicios públicos en materia ambiental;
 
-VII. Grupos, comunidades y localidades;
+IV. Proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Estado;
 
-VIII. Cohesión Social.
+V. Celebrar convenios o acuerdos de coordinación con la Federación, con el objeto de que el Estado asuma el ejercicio de las funciones que señala la Ley General; así como las de competencia Federal;
 
-###### Artículo 7º.
+VI. Celebrar convenios o acuerdos de coordinación y colaboración administrativa con otras Entidades Federativas, con el propósito de atender y resolver problemas ambientales comunes y ejercer las atribuciones a que se refiere esta Ley, a través de las instancias que al efecto se determinen, atendiendo a lo dispuesto en las Leyes locales que resulten aplicables;
 
-Todas las Estrategias de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana incluirán los ámbitos señalados en el Capítulo Segundo de la Ley General para la Prevención Social de la Violencia y la Delincuencia, y son los siguientes:
+VII. Celebrar convenios de coordinación con los Municipios, con el objeto de que éstos asuman, en su caso, las funciones a que se refiere la Ley General y las contenidas en la presente Ley, que sean susceptibles de ser ejercidas por los Municipios, y aquéllos que tengan como finalidad la realización de acciones conjuntas orientadas a dar cumplimiento a lo dispuesto en este ordenamiento;
 
-I. Social;
+VIII. Celebrar convenios mediante los cuales se obtenga asesoría, así como recursos materiales y económicos para realizar investigaciones en materia ambiental;
 
-II. Comunitario;
+IX. Expedir los reglamentos y demás disposiciones aplicables; y
 
-III. Situacional; y
+X. Las demás que conforme a esta Ley y otros ordenamientos le correspondan.
 
-IV. Psicosocial.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+###### ARTICULO 7º.
 
-Artículo 7° A.- La prevención social de la violencia y la delincuencia en el ámbito social se llevará a cabo mediante:
+Corresponde al Instituto del Medio Ambiente del Estado de Aguascalientes, el ejercicio de las siguientes atribuciones:
 
-I.- Programas integrales de desarrollo social, cultural y económico que no produzcan estigmatización, incluidos los de salud, educación, vivienda, empleo, deporte y desarrollo urbano;
+I. Promover y realizar las acciones relacionadas con la protección, preservación y restauración del ambiente;
 
-II.- La promoción de actividades que eliminen la marginación y la exclusión;
+II. Conducir y evaluar la política ambiental en el Estado, así como los planes y programas que de ésta se deriven, en congruencia con la que en su caso hubiere formulado la Federación;
 
-III.- El fomento de la solución pacífica de conflictos;
+III. Hacer efectivas las obligaciones derivadas de la Ley General, esta Ley, y disposiciones que de éstas emanen, en el ámbito de su competencia y en su caso, hacer uso de los medios de apremio;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+IV. Aplicar los instrumentos de política ambiental previstos en esta Ley, así como preservar, proteger y restaurar el ambiente en bienes y zonas de su jurisdicción, en materias de su competencia;
 
-IV.- Estrategias de educación y sensibilización de la población para promover la cultura de legalidad y tolerancia respetando al mismo tiempo las diversas identidades culturales;
+V. Proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Estado;
 
-Incluye tanto programas generales como aquéllos enfocados a grupos sociales y comunidades en altas condiciones de vulnerabilidad;
+VI. Promover y participar, en la elaboración y celebración de convenios o acuerdos de coordinación con la Federación;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+VII. Ejercer las funciones que le transfiera la Federación al Estado en materia ambiental, en los términos que establezcan los convenios o acuerdos de coordinación correspondientes;
 
-V.- Se establecerán programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para los grupos en situación de riesgo, vulnerabilidad, o afectación;
+VIII. Promover y participar en la elaboración y celebración de convenios o acuerdos de coordinación y colaboración administrativa que se lleven a cabo entre el Ejecutivo del Estado y otras Entidades Federativas, con el propósito de atender y resolver asuntos ambientales comunes;
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+IX. Promover y participar en la elaboración y celebración de convenios de coordinación que se lleven a cabo entre el Ejecutivo del Estado y los Municipios;
 
-VI.- Programas de protección a las familias para evitar su desintegración y cualquier modalidad de violencia que la propicie, a través de la educación y el empoderamiento de todos sus miembros sin ningún tipo de discriminación; y
+X. Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+XI. Coordinar la participación de las dependencias y entidades de la administración pública estatal, en las acciones de cultura ambiental, de prevención y control del deterioro ambiental, preservación, protección y restauración del ambiente en el territorio del Estado, así como celebrar con éstas los acuerdos que sean necesarios con el propósito de dar cumplimiento a la legislación ambiental;
 
-VII.- La implementación de acciones para la detección y atención del acoso y violencia contra niñas, niños, adolescentes y mujeres, en las escuelas y comunidades.
+XII. Participar en coordinación con la Federación, en asuntos que afecten significativamente el ambiente del Estado con otras Entidades Federativas;
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+XIII. Coordinar los asuntos que afecten el ambiente de dos o más Municipios del Estado;
 
-Artículo 7 B.- La prevención en el ámbito comunitario pretende atender los factores que generan violencia y delincuencia mediante la participación ciudadana y comunitaria y comprende:
+XIV. Participar conforme a las políticas y programas de protección civil, en las contingencias ambientales cuando se afecten áreas de dos o más Municipios de la Entidad, o bien cuando por su magnitud o repercusiones así se requiera;
 
-I. La participación ciudadana y comunitaria en acciones que establezcan las prioridades de la prevención, mediante diagnósticos participativos, el mejoramiento de las condiciones de seguridad en su entorno y el desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y de utilización de los métodos alternos para la solución de conflictos;
+XV. Formular, ejecutar y vigilar los programas de ordenamiento ecológico regionales y estatal e intermunicipales y los planes que de éstos se deriven, con la participación de los Municipios de la Entidad;
 
-II. El mejoramiento del acceso de la comunidad a los servicios básicos;
+XVI. Evaluar el impacto ambiental de las obras o actividades de su competencia;
 
-III. El Fomento del desarrollo comunitario; la convivencia y la cohesión social entre las comunidades frente a problemas locales;
+XVII. Regular, prevenir y controlar la contaminación atmosférica, por ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales al ambiente y a la salud, provenientes de fuentes fijas y móviles que no estén sujetas a la jurisdicción federal;
 
-IV. La participación ciudadana y comunitaria, a través de mecanismos que garanticen su efectiva intervención ciudadana en el diseño e implementación de planes y programas, a través de los Comités de Participación Ciudadana:
+XVIII. Regular el manejo de residuos no peligrosos;
 
-V. El fomento de las actividades de las organizaciones de la sociedad civil; y
+XIX. Promover y realizar acciones entre los diferentes sectores de la comunidad, a fin de desarrollar en la población, una mayor cultura ambiental, y promover un mejor conocimiento de esta Ley y demás ordenamientos que de ella emanen;
 
-VI. El diseño de mecanismos ciudadanos de control social para el monitoreo de programas.
+XX. Promover y realizar programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciar el aprovechamiento sustentable de los recursos naturales y la conservación de los ecosistemas, con instituciones de educación superior, centros de investigación e instituciones privadas;
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+XXI. Promover la creación de estándares e indicadores de calidad ambiental;
 
-Artículo 7 C.- La prevención en el ámbito situacional consiste en modificar el entorno para propiciar la convivencia y la cohesión social, así como disminuir los factores de riesgo que facilitan fenómenos de violencia y de incidencia delictiva, mediante:
+XXII. Regular, administrar y vigilar, las áreas naturales protegidas de competencia estatal, a fin de lograr la conservación y el aprovechamiento sustentable de sus recursos naturales, con la participación de los municipios que corresponda;
 
-I. El mejoramiento y regulación del desarrollo urbano, rural, ambiental y el diseño industrial, incluidos los sistemas de transporte público y de vigilancia;
+XXIII. Promover y garantizar los espacios de participación de la sociedad en materia ambiental;
 
-II. La implementación de nuevas tecnologías de la Información y las Comunicaciones, así como el uso adecuado;
+XXIV. Conducir la política estatal de información y difusión en materia ambiental;
 
-III. La vigilancia respetando los derechos a la intimidad y a la privacidad;
+XXV. Ejercer todas aquellas acciones tendientes a la preservación y restauración del ambiente, así como la regulación, prevención y control de la contaminación ambiental que no sean de competencia federal;
 
-IV. La implementación de medidas administrativas encaminadas a disminuir la disponibilidad de medios comisivos o facilitadores de violencia; y
+XXVI. Instalar y coordinar el Consejo Consultivo Estatal de Gestión Ambiental;
 
-V. La aplicación de estrategias para garantizar la no repetición de casos de victimización.
+XXVII. Vigilar y Promover el cumplimiento de esta Ley y los demás ordenamientos aplicables; y
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
+XXVIII. Las demás atribuciones que conforme a ésta u otras Leyes o disposiciones reglamentarias le correspondan.
 
-Artículo 7 D.- La prevención en el ámbito psicosocial tiene como objetivo incidir en las motivaciones individuales hacia la violencia o las condiciones criminógenas con referencia a las personas, la familia, la escuela y la comunidad, que incluye como mínimo lo siguiente:
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2007)</small>
 
-I. El diseño y aplicación de programas formativos en habilidades para la vida, dirigidos principalmente a la población en situación de riesgo y vulnerabilidad, especialmente a niñas, niños y adolescentes;
+###### ARTICULO 7° Bis.
 
-II. La inclusión de la prevención de la violencia, la delincuencia y de las adicciones, en las políticas públicas en materia de educación; y
+Corresponde a la Procuraduría Estatal de Protección al Ambiente el ejercicio de las atribuciones de inspección, vigilancia y sanción que en materia ambiental se encuentran asignadas en esta Ley. Se entienden conferidas a la Procuraduría Estatal de Protección al Ambiente, las atribuciones de inspección, vigilancia y sanción en materia ambiental, sin que con ello se contravengan las facultades otorgadas al resto de las autoridades en materia ambiental.
 
-III. El fortalecimiento de las capacidades institucionales y ciudadanas que aseguren la sostenibilidad de los programas preventivos.
+###### ARTICULO 8º.
 
-###### Artículo 8º.
+Los acuerdos y convenios de coordinación y colaboración administrativa que celebre por el Ejecutivo del Estado deberán ajustarse, además de las bases a que se refiere la Ley General, a las siguientes:
 
-El acceso a la justicia y la atención integral de las víctimas de la violencia o de la delincuencia debe considerar la asistencia, protección, reparación del daño y prevención de la doble victimización mediante:
+I. Ser congruente con las disposiciones del Plan Estatal de Desarrollo y la Política Ambiental del Estado;
 
-I. Atención médica inmediata y efectiva a víctimas de delitos, en términos del impacto emocional sufrido y la naturaleza del delito, velando por sus derechos y su seguridad en forma prioritaria;
+II. Procurar que en los mismos se establezcan condiciones que faciliten el proceso de descentralización de funciones y recursos financieros a las dependencias y entidades de la Administración Pública Estatal y Municipal, involucradas en las acciones de prevención y control de la contaminación y la preservación de los recursos naturales; y
 
-II. La atención psicológica especializada, inmediata y subsecuente realizada por profesionales, considerando diferentes modalidades terapéuticas;
+III. Las demás que tengan por objeto dar cumplimiento a lo dispuesto por la presente Ley;
 
-III. La atención específica al impacto en grupos especialmente vulnerables a desarrollar problemas derivados de la violencia;
+###### ARTICULO 9º.
 
-IV. Brindar respuesta a las peticiones o solicitudes de intervención presentadas por las víctimas de la violencia y la delincuencia, a través de los mecanismos creados para ese fin; y
+Corresponde a los Ayuntamientos:
 
-V. La reparación integral del daño que incluye el reconocimiento público, la reparación del daño moral y material, y las garantías de no repetición.
+I. Formular, conducir y evaluar la política ambiental en su jurisdicción territorial, en el ámbito de su competencia, en congruencia con esta Ley;
 
-###### Artículo 9º.
+II. Aplicar los instrumentos de política ambiental previstos en esta Ley que sean de su competencia;
 
-El Consejo Estatal será la máxima instancia para la coordinación y definición de la política de prevención social de la violencia y la delincuencia.
+III. Preservar, proteger y restaurar el ambiente en bienes y zonas de su jurisdicción, en materias de su competencia;
 
-El Consejo Estatal será responsable de establecer las directrices de las políticas públicas en Seguridad Pública y de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana en el Estado; así como de dar seguimiento y cumplimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional y sus organismos.
+IV. Ejercer las funciones que le transfieran la Federación y el Estado en materia ambiental, en los términos que establezcan los convenios o acuerdos de coordinación correspondientes;
 
-El Consejo Estatal contará con el Secretariado Ejecutivo del Sistema para coordinar e implementar la política de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana en el Estado, dicho Secretariado se apoyará en el Centro Estatal y en todas las autoridades competentes, especialmente en las de la Secretaría de Seguridad Pública del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+V.- Coadyuvar con el Instituto, en la formulación de los programas de ordenamiento ecológico regional, estatal e intermunicipales del Estado;
+
+VI. Formular, expedir y vigilar el cumplimiento de los programas de ordenamiento ecológico municipal, así como el control de los usos del suelo que se establezcan en dichos programas, conforme lo disponen la Ley General y esta Ley;
+
+VII. Participar en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
+
+VIII. Conforme a los convenios de coordinación entre el Estado y los Municipios, evaluar el impacto ambiental en obras o actividades de su competencia, y en su caso, autorizar condicionadamente o negar la realización de las obras y actividades;
+
+IX. Formular y conducir la política municipal de información y difusión en materia ambiental;
+
+X. Garantizar los espacios de participación de la sociedad en materia ambiental;
+
+XI. Participar activamente en el Consejo Consultivo Estatal de Gestión Ambiental;
+
+XII. Crear y administrar zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas en esta Ley;
+
+XIII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen a los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas;
+
+XIV. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas, que funcionen como establecimientos mercantiles y de servicios y quemas dentro de la zona de competencia municipal;
+
+XV. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios;
+
+XVI. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por el manejo de los residuos municipales e industriales que no estén considerados como peligrosos, de conformidad con lo dispuesto por la Ley General, la presente Ley y de más (sic) ordenamientos aplicables;
+
+XVII. Prevenir y controlar la contaminación generada por el aprovechamiento de las sustancias no reservadas, a la Federación y al Estado, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para construcción u ornamento de obras;
+
+XVIII. Preservar, restaurar y proteger el ambiente en los centros de población, en relación con los efectos derivados de los servicios públicos, de su competencia;
+
+XIX. Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
+
+XX. Promover y en su caso coordinar la participación de las dependencias y entidades de la administración pública de los demás niveles de gobierno, en las acciones de educación ambiental, de prevención y control del deterioro ambiental, preservación, protección y restauración del ambiente en su jurisdicción territorial, así como celebrar con éstas los acuerdos que sean necesarios con el propósito de dar cumplimiento a la presente Ley;
+
+XXI. Participar en la atención de los asuntos que afecten el ambiente de dos o más municipios y que generen efectos ambientales adversos en su circunscripción territorial;
+
+XXII. Participar en la atención de contingencias ambientales conforme a las políticas y los programas que al efecto se establezcan;
+
+XXIII. Promover y realizar acciones relacionadas con la protección, preservación y restauración del ambiente, entre los diferentes sectores de la comunidad, a fin de desarrollar en la población, una mayor educación ambiental, y promover la difusión de esta Ley y demás ordenamientos aplicables;
+
+XXIV. Promover y realizar programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciar el aprovechamiento sustentable de los recursos naturales y la conservación de los ecosistemas, con instituciones de educación superior, centros de investigación e instituciones privadas;
+
+XXV. Las demás atribuciones que conforme a ésta u otras Leyes o disposiciones reglamentarias le correspondan; y
+
+XXVI. Atender los demás asuntos que en materia de preservación y protección al ambiente les conceda esta Ley y otros ordenamientos aplicables.
 
 ## TRANSITORIOS
 
@@ -3213,97 +2215,1503 @@ IX. a XXXII. ...”.
 
 D.O.F. 7 DE OCTUBRE DE 2016.
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
+#### SECCION I. Educación Formal
 
-#### SECCIÓN SEGUNDA. Del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
-#### SECCIÓN TERCERA. Del Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana
+###### ARTICULO 50.
 
-### CAPÍTULO NOVENO. De la Evaluación de Resultados
+La Secretaría General de Gobierno, a través de la Dirección General del Trabajo, en coordinación con el Instituto, incorporará como temáticas prioritarias la protección ambiental y el manejo sustentable de los recursos naturales en sus programas de desarrollo de personal, asistencia técnica y mejoramiento de la calidad, productividad y competitividad en las empresas. Asimismo, adoptará las medidas necesarias para que las comisiones mixtas de seguridad e higiene incluyan dentro de sus responsabilidades la protección de la calidad del ambiente.
 
-### CAPÍTULO DÉCIMO. Del Financiamiento
+###### ARTICULO 51.
 
-### CAPÍTULO DÉCIMO PRIMERO. Responsabilidades por Incumplimiento de la Ley y la Aplicación De Sanciones
+Las actividades vinculadas con las políticas de educación ambiental deberán contemplar:
 
-###### Artículo 116.
+I. La incorporación de la dimensión ambiental en la formación, especialización y actualización de los educadores de todos los niveles y modalidades de enseñanza;
 
-El libro medidas precautorias y cautelares, así como técnicas de investigación constará de seis columnas con los rubros: Número de orden, Autoridad solicitante, Tipo de medida o técnica solicitada, Resolución, Fecha de notificación a la autoridad y Observaciones, las cuales deberán llenarse de la siguiente forma:
+II. La incorporación de la dimensión ambiental en la formación, especialización y actualización de los profesionistas de todas las áreas;
 
-I. Número de orden: se anotarán con numeración progresiva y ascendente las solicitudes, atendiendo a la fecha de su recepción, según corresponda, en la oficialía de partes o en el sistema electrónico del propio órgano que deba conocer de la misma; si la recibe un secretario de ese juzgado, esta será la fecha que se asiente, pero si el secretario corresponde a un juzgado diverso, la fecha que se anotará será aquella en que se reciba en el juzgado del conocimiento;
+III. La formación de profesionistas orientados a las actividades de gestión ambiental; y
 
-II. Solicitante: se señalará la denominación de la autoridad que solicite la medida o técnica de investigación o, en su caso, el nombre de quien promueve;
+IV. La formación, especialización y actualización de profesionistas en el área ambiental.
 
-III. Tipo de solicitud: se especificará de manera clara y concreta, el tipo de medida o técnica de investigación que corresponda, o si se trata de una solicitud de conclusión;
+###### ARTICULO 52.
 
-IV. …
+Los Gobiernos Estatal y Municipales incentivarán:
 
-a) Fecha de resolución: se anotará el día, mes y año en que se pronuncie la resolución que recaiga a la solicitud; y
+I. La difusión, a través de los medios de comunicación masiva, de los programas y campañas educativas y de información acerca de temas ambientales procedentes de sectores no formales de la sociedad;
 
-b) Sentido: se asentará la expresión "librada" o "parcialmente librada", según corresponda, cuando se otorgue la medida o autorización de técnica de investigación, o bien, la palabra "negada", cuando sea el caso; o de ser procedente "concluida";
+II. La participación de las escuelas, universidades, organismos no gubernamentales y demás sectores organizados de la sociedad en programas y actividades vinculadas con educación no formal;
 
-V. Fecha de notificación: se asentará el día, el mes y el año en que se notifique a la autoridad solicitante el proveído que resuelva la petición o, en su caso, la conclusión a quien proceda; y
+III. La participación de empresas públicas y privadas en el desarrollo de programas de educación ambiental;
 
-VI. Observaciones: se deberán anotar los supuestos en que se promueva la apelación en contra de la resolución, así como el resultado obtenido en el mencionado recurso.
+IV. Los programas de sensibilización ambiental dirigidos a agricultores, ganaderos, empresarios y a la ciudadanía en general;
 
-…
+V. El desarrollo de proyectos de ecoturismo;
 
-TABLA 5.
+VI. La implementación de programas tendientes a disminuir la generación de residuos; y
 
-> <small>[N. DE E. VÉASE TABLA 5 EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, PÁGINA 90.]</small>
+VII. La implementación de programas que fomenten la separación de residuos desde el lugar de su generación.
 
-DÉCIMO. Se reforma el artículo 5 de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 51/2014; 52/2014; 1/2015; 2/2015; 31/2015; 32/2015; 33/2015; 34/2015; 44/2015; 45/2015; 46/2015; 47/2015; 48/2015; 49/2015; 50/2015; 3/2016; 4/2016; 5/2016; 6/2016; 7/2016; 8/2016: 9/2016; 10/2016; 11/2016; 24/2016; 25/2016; 26/2016; 27/2016; 31/2016; 32/2016; 33/2016; y 37/2016 que crean los Centros de Justicia Penal Federal en los Estados de Puebla; Durango; Yucatán; Zacatecas; Guanajuato; Baja California Sur; Querétaro; San Luis Potosí; Coahuila de Zaragoza, con residencia en Torreón; Sinaloa, con residencia en Culiacán; Oaxaca, con residencia en San Bartolo Coyotepec; Chihuahua, con residencia en la ciudad del mismo nombre; Chiapas, con residencia en Cintalapa de Figueroa; Nayarit, con residencia en Tepic; Tlaxcala con residencia en Apizaco; Ciudad de México, con sede en los reclusorios Oriente, Sur y Norte; Estado de México, con residencia en Nezahualcóyotl; Morelos, con residencia en Cuernavaca; Hidalgo, con residencia en Pachuca; Colima, con residencia en la ciudad del mismo nombre; Aguascalientes, con residencia en la ciudad del mismo nombre; Tabasco, con residencia en Villahermosa; Nuevo León, con residencia en Cadereyta; Quintana Roo, con residencia en Cancún; Sonora, con residencia en Hermosillo; Veracruz, con residencia en las ciudades de Xalapa y Coatzacoalcos; Michoacán, con residencia en Morelia; Campeche, con residencia en San Francisco de Campeche; Tamaulipas, con residencia en Reynosa y Ciudad Victoria; Guerrero, con residencia en Acapulco; Baja California, con residencia en las ciudades de Mexicali y Tijuana; y Jalisco, con residencia en el complejo penitenciario Puente Grande; para quedar como sigue:
+###### ARTICULO 53.
 
-"Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación."
+Los Gobiernos Estatal y Municipales promoverán y reforzarán la creación de espacios de sensibilización, información y educación ambiental en los medios masivos de comunicación. Los contenidos de dichos espacios serán desarrollados por especialistas de los diferentes sectores sociales relacionados con la educación ambiental.
 
-DÉCIMO PRIMERO. Se reforman los numerales SEGUNDO, fracción I, número 4; y CUARTO, fracción I, párrafo segundo; y se deroga el párrafo tercero de la fracción I del numeral CUARTO, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-"SEGUNDO. …
+#### SECCION II. Educación no Formal
 
-I. …
+###### ARTICULO 54.
 
-1. a 3. …
+El Instituto promoverá cursos de formación, sensibilización y actualización dirigidos a los comunicadores encargados de cubrir las fuentes de información ambiental de los diferentes medios masivos de comunicación.
 
-4. Ocho Juzgados Federales Penales Especializados: seis en Cateos, Arraigos e Intervención de Comunicaciones, y dos en Medidas Cautelares y Control de Técnicas de Investigación, todos con residencia en la Ciudad de México.
+#### SECCION III. Educación Informal
 
-5. …
+###### ARTICULO 55.
 
-II. a XXXII. …
+Las zonas del territorio del Estado, en las que el ambiente original no ha sido significativamente alterado por la actividad del ser humano o que requiere ser preservado o restaurado, quedarán sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
 
-CUARTO. …
+Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas, deberán sujetarse a las modalidades que de conformidad con la presente Ley establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
 
-I. …
+###### ARTICULO 56.
 
-Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones; los Juzgados de Distrito Especializados en Ejecución de Penas; y los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación; que ejercerán jurisdicción territorial, en toda la República Mexicana.
+El establecimiento de áreas naturales protegidas tiene como propósito, proteger los ecosistemas y sus elementos naturales y promover el aprovechamiento sustentable y la cultura ambiental, de conformidad con lo establecido en esta Ley y la Ley General.
 
-Derogado.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-II. a XXXIII. …".
+#### SECCION I. Disposiciones Generales
 
-D.O.F. 12 DE AGOSTO DE 2016.
+###### ARTICULO 57.
+
+En el establecimiento, administración y manejo de las áreas naturales protegidas de interés estatal y municipal, el Instituto promoverá la participación de sus habitantes, propietarios o poseedores, ayuntamientos y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
+
+El Instituto y los Ayuntamientos podrán suscribir con los interesados los convenios de concertación o acuerdos de coordinación que correspondan.
+
+#### SECCION II
+
+Control de Emisiones Provenientes de Fuentes Fijas.
+
+###### ARTICULO 58.
+
+Se consideran áreas naturales protegidas de competencia estatal:
+
+I. Reservas Ecológicas;
+
+II. Parques Naturales;
+
+III. Monumentos Naturales; y
+
+IV. Sitios de Conservación.
+
+###### ARTICULO 59.
+
+Las Reservas Ecológicas se constituirán en áreas biogeográficas relevantes, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano, o que requieran ser preservadas o restauradas, en las cuales habiten especies representativas de la biodiversidad estatal, incluyendo a las consideradas endémicas, amenazadas o en peligro de extinción.
+
+En tales reservas podrá determinarse la existencia de la superficie mejor conservada, o no alterada, que aloje ecosistemas o fenómenos naturales de especial importancia, o especies de flora y fauna que requieran protección especial, y que será denominada zona núcleo. En ella podrá autorizarse la realización de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ambiental, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas.
+
+En las propias reservas deberá determinarse la superficie a proteger, en donde sólo podrán realizarse actividades productivas emprendidas por las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva, o con su participación, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
+
+###### ARTICULO 60.
+
+Los Parques Naturales se constituirán, tratándose de representaciones biogeográficas, de uno o más ecosistemas que se signifiquen por su belleza escénica, su valor científico, educativo, histórico, de recreo, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general.
+
+En ellas sólo podrán permitirse la realización de actividades relacionadas con la preservación, protección y aprovechamiento sustentable de los recursos naturales, el incremento de su flora y fauna, y en general, con la preservación de los ecosistemas y sus elementos, así como con la investigación, recreación, turismo y educación ambiental. En el otorgamiento de dichas autorizaciones se dará preferencia a quienes ahí habiten en el momento de la expedición de la declaratoria respectiva.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 61.
+
+Corresponderá al Instituto, la promoción y elaboración de recomendaciones y coordinación con las autoridades federales, con el propósito de hacer efectivas las disposiciones que regulen y limiten las actividades dentro de las áreas naturales protegidas de competencia estatal, tales como: actividades cinegéticas, de aprovechamiento de sus recursos naturales, de investigación y educación ambiental, de la preservación de los ecosistemas y de sus elementos, recreación y turismo, con el propósito de compatibilizar los regímenes de protección correspondientes.
+
+## TITULO CUARTO. AREAS NATURALES PROTEGIDAS
+
+### CAPITULO I. Disposiciones Generales
+
+###### ARTICULO 62.
+
+Los monumentos naturales se establecerán en áreas que contengan uno o varios elementos naturales, consistentes en lugares u objetos naturales, que por su carácter único o excepcional, interés estético, valor histórico o científico en el Estado, se resuelva incorporar a un régimen de protección absoluta. Tales monumentos no tienen la variedad de ecosistemas para ser incluidos en otra categoría de manejo.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2008)</small>
+
+En los monumentos naturales únicamente podrá permitirse la realización de actividades relacionadas con su preservación, restauración, investigación científica, recreación, educación y el aprovechamiento sustentable de sus recursos naturales.
+
+###### ARTICULO 63.
+
+Los Sitios de Conservación son aquellas áreas no alteradas o poco alteradas, que contienen muestras de ecosistemas, rasgos o flora y fauna silvestre de valor natural. Dichas áreas generalmente no representan valores escénicos o recreativo sobresalientes, pero mantienen formas de vida vulnerables y una alta diversidad biológica. Tales áreas requieren ser protegidas, conservadas y mantener fenómenos o procesos naturales en un estado inalterado.
+
+En los sitios de conservación sólo se permitirán actividades de estudios, investigación y educación ambiental compatibles con la naturaleza y características del área.
+
+###### ARTICULO 64.
+
+Se consideran áreas naturales protegidas de competencia municipal, las zonas de preservación ecológica de los centros población.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+### CAPITULO II. Tipos y Características de las Areas Naturales Protegidas
+
+###### ARTICULO 65.
+
+Los Ayuntamientos podrán proponer, dentro de sus ámbitos de competencia, el establecimiento de áreas naturales protegidas; para tal efecto, elaborarán un programa integral de manejo del área de que se trate, bajo el dictamen final del Instituto.
+
+### CAPITULO III. Declaratorias para el Establecimiento de Areas Naturales Protegidas
+
+###### ARTICULO 66.
+
+Las áreas naturales protegidas de competencia estatal se establecerán mediante decreto que expida el titular del Ejecutivo, conforme a esta Ley General y demás ordenamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 67.
+
+Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas de competencia estatal, se deberán realizar los estudios que lo justifiquen, los cuales deberán ser puestos a disposición del público. Asimismo el Instituto deberá solicitar la opinión de:
+
+I. Los gobiernos municipales en cuya circunscripción territorial se localice el área natural de que se trate;
+
+II. Las dependencias de la administración del Estado que deban intervenir, de conformidad con sus atribuciones;
+
+III. Las organizaciones sociales públicas o privadas y demás personas físicas o morales interesadas; y
+
+IV. Las universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado.
+
+Para el establecimiento de las áreas naturales protegidas de competencia municipal, se estará a los requisitos previstos en el presente artículo.
+
+###### ARTICULO 68.
+
+Cualquier persona o grupo de la sociedad podrá proponer el establecimiento de áreas naturales protegidas mediante la fundamentación correspondiente.
+
+###### ARTICULO 69.
+
+Las declaratorias para el establecimiento de las áreas naturales protegidas previstas en esta Ley, contendrán, sin perjuicio de lo dispuesto por otras Leyes, lo siguiente:
+
+I. La delimitación precisa del área, señalando la superficie, ubicación, deslinde y la zonificación correspondiente;
+
+II. Las modalidades que se establezcan al derecho de propiedad y las modalidades a que se sujetará el uso o aprovechamiento de los recursos naturales en general o específicamente de aquéllos sujetos a protección;
+
+III. La descripción de actividades que podrán llevarse a cabo en el área correspondiente y las modalidades y limitaciones a que se sujetarán;
+
+IV. La causa de utilidad pública que, en su caso, fundamente la expropiación de terrenos, para que el Estado o los municipios adquieran su dominio, cuando al establecerse un área natural protegida se requiere dicha resolución; en estos casos, deberán observarse las disposiciones contenidas en la Ley de Expropiación del Estado y demás ordenamientos aplicables;
+
+V. Los lineamientos generales para la administración, el establecimiento de órganos colegiados representativos, la creación de fondos o fideicomisos y la elaboración del programa de manejo del área;
+
+VI. Los lineamientos para la realización de acciones de preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de las áreas naturales protegidas, para su administración y vigilancia, así como para la elaboración de las reglas administrativas a que se sujetarán las actividades dentro del área respectiva, conforme a lo dispuesto en esta Ley y otras Leyes aplicables; y
+
+VII. Los términos en que las autoridades Estatal y Municipales habrán de participar.
+
+#### SECCION III. Control de Emisiones Provenientes de Fuentes Móviles
+
+###### ARTICULO 70.
+
+Las declaratorias deberán publicarse en el Periódico Oficial del Estado y en el periódico de mayor circulación y se notificarán previamente a los propietarios o poseedores de los predios afectados. Las declaratorias se inscribirán en el o los Registros Públicos de la Propiedad que correspondan.
+
+###### ARTICULO 71.
+
+Una vez establecida una área natural protegida, sólo podrá ser modificada por la autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta Ley para la expedición de la declaratoria respectiva.
+
+###### ARTICULO 72.
+
+El gobierno del Estado promoverá ante la Federación la firma de los convenios para que en el otorgamiento o expedición de permisos, licencias, concesiones o en general de autorizaciones a que se sujetarán la exploración, explotación, o aprovechamiento de recursos en áreas naturales protegidas, se observen las disposiciones de esta Ley, las declaratorias de establecimiento correspondiente, así como los programas de manejo.
+
+El Gobierno del Estado o la autoridad municipal correspondiente, con base en los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la revocación del permiso, licencia, concesión o autorización, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al ambiente o daños graves a los recursos naturales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+#### SECCION IV. Regulación de Quemas
+
+###### ARTICULO 73.
+
+El Instituto, en coordinación con las dependencias de la Administración Pública Estatal, así como con los Municipios, en el ámbito de sus respectivas competencias:
+
+I. Promoverán las inversiones públicas y privadas para el establecimiento y manejo de las áreas naturales protegidas;
+
+II. Establecerán o, en su caso, promoverán la utilización de mecanismos para captar recursos y financiar o apoyar el manejo de las áreas naturales protegidas; y
+
+III. Establecerán incentivos y estímulos fiscales para las personas y las organizaciones sociales, públicas o privadas, que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten recursos para tales fines o destinen sus predios a acciones de preservación, conservación o restauración.
+
+### CAPITULO IV. Programas de Manejo
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 74.
+
+La autorización de los programas de manejo de las áreas naturales protegidas que se establezcan en la Entidad, estarán a cargo del Instituto o de los Ayuntamientos que hubieren emitido la declaratoria del área de que se trate. Dichos programas deberán elaborarse dentro de los plazos que para tal efecto señalen las propias declaratorias. En la elaboración de dichos programas, deberán participar las comunidades directamente involucradas.
+
+###### ARTICULO 75.
+
+El programa de manejo a que se refiere el artículo anterior deberá contener, al menos, lo siguiente:
+
+I. La descripción de las características físicas, biológicas, sociales, históricas, económicas y culturales del área natural protegida, en el contexto nacional, regional, local y municipal, así como el análisis de la situación que guarda la tenencia de la tierra y el uso del suelo en la superficie respectiva;
+
+II. Las acciones a realizar a corto, mediano y largo plazo, estableciendo su vinculación con la política ambiental estatal, las cuales comprenderán, entre otras, las siguientes: de investigación y educación ambiental; de protección y aprovechamiento sustentable de los recursos naturales; para el desarrollo de actividades recreativas, ecoturísticas, obras de infraestructura y demás actividades productivas; de financiamiento para la administración del área, de prevención y control de contingencias ambientales; de vigilancia; y las demás que por las características propias del área natural protegida se requieran;
+
+III. La forma en que se organizará la administración del área y los mecanismos de participación ciudadana y las comunidades asentadas en la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su protección y aprovechamiento sustentable;
+
+IV. Los objetivos específicos del área natural protegida;
+
+V. La referencia a las normas oficiales mexicanas aplicables;
+
+VI. Las medidas administrativas a que se sujetarán las actividades que se desarrollen en el área natural protegida;
+
+VII. Los inventarios biológicos existentes y los que se prevean realizar; y
+
+VIII. El sistema de vigilancia y cuidado de la zona.
+
+Se deberá publicar en el Periódico Oficial del Estado, un resumen del programa de manejo que contenga por lo menos la zonificación primaria y secundaria en el cual se incluya un plano de localización del área.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 76.
+
+Corresponde al Ejecutivo del Estado, por conducto del Instituto, la administración, manejo y vigilancia de las áreas naturales protegidas de competencias estatal en coordinación con las autoridades federales y municipales en los términos de esta Ley y la Ley General.
+
+###### ARTICULO 77.
+
+Corresponde a los Ayuntamientos la administración, manejo y vigilancia de las áreas naturales protegidas de competencia municipal, en coordinación con las autoridades competentes en los términos de esta Ley y la Ley General.
+
+###### ARTICULO 78.
+
+El Ejecutivo del Estado o los Ayuntamientos, según corresponda, podrán una vez que se cuente con el programa de manejo respectivo, otorgar a los municipios, así como a ejidos, comunidades agrarias, grupos y organizaciones sociales y empresariales interesadas, la administración y el manejo coordinado de las áreas naturales protegidas a que se refiere este capítulo. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
+
+Quienes en virtud de lo establecido en este artículo adquieran la responsabilidad de administrar las áreas naturales protegidas, estarán obligados a sujetarse a las previsiones contenidas en la presente Ley, los reglamentos y normas oficiales mexicanas, que se expidan en la materia, así como a cumplir los decretos por los que se establezcan dichas áreas y los programas de manejo respectivos.
+
+###### ARTICULO 79.
+
+Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en las áreas naturales protegidas, deberán contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad.
+
+Los notarios y cualesquiera otros fedatarios públicos harán constar tal circunstancia al autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan.
+
+Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
+
+### CAPITULO V. Registro Estatal de Areas Naturales Protegidas
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 80.
+
+Los ingresos que se perciban por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de áreas naturales protegidas, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad, así como de la administración de las áreas en las que se generen dichos ingresos.
+
+###### ARTICULO 81.
+
+El Instituto integrará el Registro Estatal de Areas Naturales Protegidas, en el que se inscribirán los decretos mediante los cuales se declaren las áreas naturales protegidas de competencia estatal y municipal y los instrumentos que los modifiquen. El Registro podrá ser consultado por cualquier persona que así lo solicite y deberá ser integrado al Sistema Estatal de Información Ambiental.
+
+###### ARTICULO 82.
+
+El Instituto propondrá ante el Ejecutivo del Estado, la celebración de acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, conforme a los principios establecidos en la presente Ley.
+
+### CAPITULO I. Aprovechamiento del Agua
+
+###### ARTICULO 83.
+
+Para el aprovechamiento sustentable de las aguas de competencia estatal, así como el uso adecuado del agua que se utiliza en los centros de población, se considerarán los criterios establecidos en la Ley General, así como los siguientes:
+
+I. El agua debe ser aprovechada y distribuida con equidad y eficiencia;
+
+II. Las aguas residuales deberán ser tratadas para prevenir la afectación del ambiente y los ecosistemas;
+
+III. Se promoverá el reuso del agua y el aprovechamiento del agua tratada como una forma eficiente de utilizar y preservar el recurso;
+
+IV. El aprovechamiento del agua pluvial;
+
+V. La calidad del agua deberá ser adecuada para cada uso que se destine, de acuerdo con los criterios vigentes en la materia;
+
+VI. Fomentar el uso y cuidado de las aguas superficiales, priorizando el uso de éstas a las subterráneas;
+
+VII. Promover el establecimiento de actividades económicas que sólo utilicen el agua para servicios sanitarios y limpieza o que el agua sea parte de su producto; y
+
+VIII. Promover el cambio a sistemas y cultivos de bajo consumo de agua.
+
+###### ARTICULO 84.
+
+Los criterios anteriores serán aplicados en:
+
+I. La formulación e integración de programas relacionados con el aprovechamiento del agua;
+
+II. El otorgamiento de concesiones, permisos y en general, toda clase de autorizaciones para el aprovechamiento de los recursos naturales no reservados a la Federación, que afecten o puedan llegar a afectar el ciclo hidrológico, así como en su revocación;
+
+III. El otorgamiento de autorizaciones para la desviación, extracción o derivación de aguas de propiedad estatal;
+
+IV. El otorgamiento de autorizaciones para el aprovechamiento de aguas competencia del Estado;
+
+V. La operación y administración de los sistemas de agua potable y alcantarillado que sirven a los centros de población e industrias;
+
+VI. Los programas de desarrollo urbano y vivienda; y
+
+VII. El diseño de los conjuntos habitacionales.
+
+###### ARTICULO 85.
+
+Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, las autoridades competentes promoverán el ahorro y uso eficiente del agua, el tratamiento de aguas residuales y su reuso.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 86.
+
+El Instituto promoverá las acciones necesarias para revertir los procesos antropogénicos que provocan la eutroficación, contaminación o cualquier otro proceso de degradación de las aguas de competencia estatal.
+
+###### ARTICULO 87.
+
+La construcción de nuevos sistemas de abastecimiento de agua o su ampliación requerirá simultáneamente la construcción de la red de alcantarillado sanitario y un sistema para el tratamiento de las aguas residuales, o de acuerdo con la autoridad competente se incorporará a los sistemas ya existentes.
+
+###### ARTICULO 88.
+
+Los organismos operadores de agua y alcantarillado en coordinación con las autoridades competentes, estimularán la participación ciudadana a través de la aplicación de incentivos para aquellos usuarios que practiquen un uso eficiente y reuso del agua.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 89.
+
+El Instituto, en coordinación con las autoridades competentes, participará y promoverá ante el Consejo de Cuenca, el aprovechamiento sustentable del agua.
+
+### CAPITULO II. Aprovechamiento del Suelo
+
+###### ARTICULO 90.
+
+El Ejecutivo del Estado promoverá que el uso eficiente del agua en las actividades agropecuarias, industriales, de servicios y centros de población, tenga como finalidad alcanzar el equilibrio entre la extracción y la recarga.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 91.
+
+No podrán establecerse en el Estado empresas altamente demandantes de agua, quedando su autorización sujeta a la aprobación por parte del Instituto y los organismos reguladores del agua con base a la evaluación del Manifiesto de Impacto Ambiental.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 92.
+
+Para la apertura y crecimiento de zonas agrícolas altamente demandantes de agua, el legítimo propietario de la zona agrícola deberá presentar ante el Instituto un Informe Preventivo para su evaluación y dictamen el cual será remitido a las instancias competentes.
+
+###### ARTICULO 93.
+
+Para la preservación, protección y aprovechamiento sustentable del suelo, se considerarán los criterios establecidos en la Ley General, así como los siguientes:
+
+I. El suelo debe ser compatible con su vocación natural y no alterar el ambiente;
+
+II. El uso de los suelos debe hacerse de manera que éstos mantengan su integridad física y su capacidad productiva;
+
+III. Los usos productivos del suelo deben evitar prácticas que favorezcan la erosión, degradación o modificación de las características topográficas, con efectos ecológicos adversos;
+
+IV. En las acciones de preservación y aprovechamiento sustentable del suelo, deberán considerarse las medidas necesarias para prevenir o reducir la erosión, el deterioro de las propiedades físicas, químicas y biológicas del suelo y la pérdida de vegetación natural;
+
+V. En las zonas afectadas por fenómenos de degradación o desertificación deberán llevarse a cabo acciones de regeneración, recuperación y rehabilitación, a fin de restaurarlas;
+
+VI. La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos, deben incluir acciones equivalentes de regeneración, recuperación y restablecimiento de su vocación natural;
+
+VII. Debe evitarse el depósito y la acumulación de residuos por ser una fuente de contaminación de los suelos; y
+
+VIII. Deben evitarse las prácticas que causen alteraciones en el suelo y perjudiquen su aprovechamiento o que provoquen riesgos o problemas de salud.
+
+###### ARTICULO 94.
+
+Los criterios anteriores serán considerados en:
+
+I. Los programas de apoyo a las actividades agrícolas y pecuarias;
+
+II. La fundación de centros de población y el establecimiento de nuevos asentamientos humanos;
+
+III. El establecimiento de usos, reservas y destinos, en los programas de desarrollo urbano, así como en las acciones de restauración y conservación de los centros de población;
+
+IV. Las disposiciones, programas y lineamientos técnicos para la conservación, protección y restauración de los suelos, en las actividades agropecuarias, forestales e hidráulicas;
+
+V. Las actividades y todas aquellas acciones que alteren los recursos naturales y la flora y fauna silvestres; y
+
+VI. La formulación de los programas de ordenamiento ecológico.
+
+###### ARTICULO 95.
+
+Las actividades de exploración, explotación, extracción y aprovechamiento de materiales pétreos, insumos de construcción y sustancias no reservadas a la Federación requerirán, previo a su realización la autorización en materia de impacto ambiental.
+
+El desarrollo de estas actividades estará regulado por los procedimientos, lineamientos y acciones en materia de protección y restauración ambiental que para su efecto establezca la presente Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+### CAPITULO III. Aprovechamiento de la Flora y Fauna Silvestres y Acuáticas
+
+###### ARTICULO 96.
+
+En aquellas áreas que presenten procesos de degradación o desertificación, o grave deterioro ambiental, el Instituto promoverá ante las autoridades federales competentes, la declaratoria para el establecimiento de zonas de restauración ecológica, en los términos de la Ley General, para lo cual deberán tomarse en cuenta los orígenes de la degradación o el grado de desertificación del suelo.
+
+###### ARTICULO 97.
+
+Para la preservación y aprovechamiento sustentable de la flora y fauna silvestres y acuáticas, se considerarán los siguientes criterios:
+
+I. La importancia de la preservación de la biodiversidad y del hábitat de las especies de flora y fauna que se encuentren en el territorio del Estado;
+
+II. La necesidad de destinar áreas o sitios representativos de los sistemas ecológicos del Estado, a acciones de preservación e investigación para asegurar la continuidad de los procesos evolutivos de las especies de flora y fauna y demás recursos biológicos;
+
+III. La importancia de preservar las especies endémicas, raras, amenazadas, en peligro de extinción o sujetas a protección especial;
+
+IV. Fomentar la creación de viveros y criaderos para la reproducción y repoblación con especies de flora y fauna nativas;
+
+V. La importancia de la participación de las organizaciones sociales, públicas o privadas, y los demás interesados en la preservación de la biodiversidad;
+
+VI. El fomento al trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de éstas; y
+
+VII. El fomento de actividades productivas alternativas para las comunidades que aprovechan estos recursos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 98.
+
+Para la preservación y aprovechamiento sustentable de la flora y fauna silvestre y acuáticas, el Instituto, podrá promover ante las autoridades federales competentes:
+
+I.- El establecimiento o modificación de vedas;
+
+II.- La declaración de especies como amenazadas, raras, en peligro de extinción, endémicas o sujetas a protección especial, con base en los criterios establecidos en las normas oficiales mexicanas;
+
+III.- La creación de áreas de refugio para la protección de flora y fauna;
+
+IV.- La modificación o revocación de concesiones, permisos y en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación, introducción y desarrollo de la flora y fauna; y
+
+V.- La protección de la flora y fauna silvestre urbana.
+
+###### ARTICULO 99.
+
+No se permitirá descargar contaminantes a la atmósfera, el agua y los suelos, que rebasen los límites máximos permitidos.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 100.
+
+El Instituto, en los términos que señalen el reglamento de esta Ley, integrará un inventario de emisiones atmosféricas, de descargas de aguas residuales y de materiales y residuos de su competencia, coordinará los registros que establece esta Ley y la Ley General y creará un sistema consolidado de información basado en las autorizaciones, licencias o permisos que en la materia deberán otorgarse.
+
+###### ARTICULO 101.
+
+Para la protección a la atmósfera se considerarán los siguientes criterios:
+
+I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las regiones del Estado; y
+
+II. Las emisiones de contaminantes a la atmósfera, sean de fuentes naturales o artificiales, fijas o móviles, deben ser prevenidas y controladas, para asegurar una calidad del aire satisfactoria para el bienestar de la población.
+
+###### ARTICULO 102.
+
+Los criterios anteriores serán considerados en:
+
+I. La ordenación, regulación y designación de áreas y zonas industriales;
+
+II. La clasificación de áreas o cuencas atmosféricas, de acuerdo a su capacidad de asimilación o dispersión, la carga de contaminantes que éstos puedan recibir y las afectaciones potenciales a la población o al ambiente, en concordancia con la clasificación que realice la Federación; y
+
+III. El otorgamiento de todo tipo de autorizaciones, licencias, registros o permisos para emitir contaminantes a la atmósfera.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+###### ARTICULO 103.
+
+Para regular, prevenir, controlar, reducir o evitar la contaminación de la atmósfera, el Instituto tendrá las siguientes facultades:
+
+I. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
+
+II. Integrar y mantener actualizado el inventario de las fuentes emisoras de contaminantes a la atmósfera de competencia estatal;
+
+III. Regular las emisiones del transporte público, excepto el federal y en su caso, la suspensión de circulación, en situaciones graves de contaminación;
+
+IV. Aplicar las normas oficiales mexicanas para la prevención y control de la contaminación atmosférica, en las materias y supuestos de su competencia;
+
+V. Establecer y operar sistemas de monitoreo de la calidad del aire en la Entidad y difundir sus resultados;
+
+VI. Promover y apoyar técnicamente a los gobiernos municipales que lo soliciten en la formulación y aplicación de programas de gestión de calidad del aire, que tengan por objeto el cumplimiento de la normatividad aplicable, así como elaborar un programa estatal de gestión de la calidad del aire;
+
+VII. Requerir a los responsables de fuentes emisoras de contaminantes de competencia estatal, el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con esta Ley, la Ley General y sus reglamentos;
+
+VIII. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de la tecnología disponible, con el propósito de reducir sus emisiones a la atmósfera;
+
+IX. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen, cuando se rebasen los límites máximos permisibles;
+
+X. Autorizar y vigilar el adecuado funcionamiento de los centros de verificación de automotores;
+
+XI. Llevar un registro de los centros de verificación de automotores en circulación y un informe actualizado de los resultados obtenidos;
+
+XII. Expedir, cuando proceda, a los propietarios de vehículos automotores, el documento que acredite que dicha fuente no rebasa los límites máximos permisibles de emisión, conforme a las normas oficiales mexicanas;
+
+XIII. Proponer el monto de las tarifas que deberán cubrirse por los servicios de verificación de automotores en circulación; y
+
+XIV. Las demás que le confieran otros ordenamientos jurídicos.
+
+### CAPITULO II. Prevención y Control de la Contaminación de la Atmósfera
+
+###### ARTICULO 104.
+
+Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera, los municipios, en el ámbito de su competencia, tendrán las siguientes facultades:
+
+I. Aplicar los criterios generales para la protección de la atmósfera en los planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+
+II. Establecer las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica, en coordinación con el lnstituto;
+
+III. Aplicar las normas oficiales mexicanas para prevenir la contaminación de la atmósfera, en las materias y supuestos de su competencia;
+
+IV. Requerir a los responsables de fuentes emisoras de competencia municipal, el cumplimiento de los límites máximos permisibles de emisión de contaminantes establecidas en las normas oficiales mexicanas, de conformidad con esta Ley, la Ley General y sus reglamentos;
+
+V. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de la tecnología disponible, con el propósito de reducir sus emisiones a la atmósfera;
+
+VI. Requerir la instalación de equipos o sistemas de control de emisiones a quienes rebasen los límites máximos permisibles; y
+
+VII. Los Ayuntamientos podrán en los bandos, reglamentos o códigos municipales en materia ambiental que al efecto expidan, sujetar a los establecimientos mercantiles o de servicios a los requerimientos establecidos en esta Ley.
+
+###### ARTICULO 105.
+
+Queda prohibido emitir contaminantes a la atmósfera, provenientes de fuentes fijas que rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas, y en su caso, en la licencia de funcionamiento correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 106.
+
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá contar con licencia estatal de funcionamiento emitida por el Instituto y cumplir además con las siguientes obligaciones:
+
+I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine el Instituto;
+
+III. Instalar plataformas y puertos de muestreo;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+IV.- Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine el Instituto y remitir a ésta los registros, cuando así lo solicite;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+V.- Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas o suburbana, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente, a juicio del Instituto;
+
+VI. Llevar una bitácora de operación y mantenimiento de sus equipos de proceso que generen emisiones contaminantes y de los equipos de control de anticontaminantes;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+VII.- Dar aviso anticipado al Instituto del inicio de operación de sus procesos, en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales; y
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+VIII.- Dar aviso inmediato al Instituto en el caso de falla del equipo de control, para que ésta determine lo conducente.
+
+Para efectos de lo dispuesto por este precepto, se entiende por fuentes fijas de jurisdicción estatal a los establecimientos que no se encuentren contemplados en el artículo 111 bis de la Ley General ni sean considerados por esta Ley como establecimientos mercantiles o de servicios, los cuales serán fuentes fijas de jurisdicción municipal.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 107.
+
+El Instituto, una vez presentada la solicitud e integrado el expediente completo, deberá emitir en un plazo de veinte días hábiles su resolución fundada y motivada en la que autorice o niegue la licencia de funcionamiento.
+
+###### ARTICULO 108.
+
+La licencia estatal de funcionamiento a que se refiere el artículo anterior, deberá contener:
+
+I. Los límites máximos permisibles de emisión por tipo de contaminante a que deberá sujetarse la fuente emisora, cuando por sus características especiales de construcción o por sus peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las normas oficiales mexicanas;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+II.- La periodicidad con que deberá remitirse al Instituto el inventario de emisiones;
+
+III. La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de las emisiones;
+
+IV. Las medidas y acciones que deberán llevarse a cabo en el caso de una contingencia; y
+
+V. Los equipos y el programa de reducción de emisiones contaminantes a la atmósfera.
+
+### CAPITULO III. Prevención y Control de la Contaminación del Agua
+
+###### ARTICULO 109.
+
+Queda prohibida la circulación de automotores que emitan gases, humos o polvos, o cuyos niveles de emisión de contaminantes a la atmósfera rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas.
+
+### CAPITULO IV. Prevención y Control de la Contaminación del Suelo
+
+###### ARTICULO 110.
+
+Los propietarios o poseedores de vehículos automotores en circulación, en los términos del reglamento correspondiente, deberán obtener el certificado de baja emisión en el que se señale que se cumple con los límites máximos permisibles establecidos en las normas oficiales mexicanas.
+
+###### ARTICULO 111.
+
+El certificado de baja emisión a que se refiere el artículo anterior, será expedido por centros autorizados para la verificación de automotores, establecidos en los términos del reglamento respectivo.
+
+### CAPITULO I. Participación Ciudadana
+
+## TITULO QUINTO. APROVECHAMIENTO SUSTENTABLE DE ELEMENTOS NATURALES
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 112.
+
+Queda prohibida la quema de cualquier residuo sólido o líquido o materia orgánica de origen vegetal, salvo en los siguientes casos:
+
+I. Para acciones de adiestramiento y capacitación de personal encargado del combate de incendios;
+
+II. Cuando con esta medida se evite un riesgo mayor a la comunidad o a los elementos naturales, y medie recomendación de alguna autoridad de atención a emergencias;
+
+III. En caso de quemas agrícolas, cuando no se impacten severamente la calidad del aire, represente un riesgo a la salud o a los ecosistemas, y medie anuencia de alguna autoridad forestal, agraria o pecuaria, de acuerdo con las normas oficiales mexicanas correspondientes;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+IV.- Tratándose de quemas experimentales para fines de investigación, se deberá obtener la autorización del Instituto; y
+
+V. Todas las demás que contemple las normas oficiales mexicanas correspondientes;
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+El Instituto o los Municipios, podrán autorizar, en el ámbito de su competencia, el uso de residuos como fuentes de combustible estableciendo las condicionantes y medidas de seguridad que deberán observarse.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE AGOSTO DE 2005)</small>
+
+### CAPITULO II. Del Consejo Consultivo Estatal de Gestión Ambiental
+
+###### ARTICULO 113.
+
+Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica, olores, radiaciones electromagnéticas y la generación de contaminación visual, que rebasen los límites máximos establecidos en las normas oficiales mexicanas que para este efecto se expidan. Las autoridades estatales y municipales, según su competencia, adoptarán las medidas necesarias para impedir que se transgredan dichos límites y, en su caso, aplicarán las sanciones correspondientes.
+
+En la construcción de obras o instalaciones, o la realización de actividades que generen las emisiones a las que se refiere este artículo, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el ambiente.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2005)</small>
+
+La instalación, construcción, habilitación o modificación de fuentes fijas de emisión de radicaciones electromagnéticas requerirán permiso de operación que deberá expedir la autoridad municipal, cuando se cumplan las disposiciones legales, reglamentarias, y en su caso, las normas oficiales mexicanas que para el efecto se expidan.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2005)</small>
+
+Para la obtención del permiso el interesado independientemente de los requisitos establecidos por las normas municipales respectivas, deberá presentar la información y documentos necesarios para acreditar el cumplimiento de los siguientes requisitos:
+
+I.- Descripción de la fuente fija a instalar;
+
+II.- Autorización de la autoridad federal competente para el uso, transmisión y emisión de radiaciones electromagnéticas;
+
+III.- Croquis del predio indicando el lugar preciso de la instalación de la fuente fija o estación base, la cual no podrá estar a menos de 300 metros de instalaciones de carácter educativo o escuelas de ningún tipo, de carácter asistencial, emergencia, guardería, hospitalarios o de salud.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2005)</small>
+
+###### ARTICULO 114.
+
+Los municipios, en el ámbito de sus competencias, restringirán la emisión de ruidos, vibraciones, energía térmica y lumínica, olores y radiaciones electromagnéticas, temporal o permanentemente en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales, establecimientos dedicados al tratamiento y recuperación de la salud, y sitios análogos, cuando se rebasen los límites máximos de emisión establecidos en las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2005)</small>
+
+Para la protección y control de la contaminación producida por las radiaciones electromagnéticas, los municipios además deberán:
+
+I.- Integrar y mantener actualizados inventarios de las fuentes fijas que puedan ocasionar algún tipo de contaminación electromagnética como antenas de radiocomunicación, antenas de transmisión y retransmisión de señales de telefonía celular, antenas de transmisión o retransmisión de señales de radio, antenas de transmisión o retransmisión de señales de televisión, así como todo dispositivo emisor de radiación electromagnética. El inventario contendrá información descriptiva y técnica sobre los dispositivos clasificándolos por tipo de fuente, potencia radiada efectiva y tipo de radiación emitida.
+
+II.- Otorgar autorización de los proyectos de construcción, instalación o montaje de las fuentes fijas que le sean presentadas, las cuales deberán ajustarse a la potencia radiada máxima para que no exceda los límites establecidos en las normas oficiales mexicanas.
+
+III.- Realizar inspecciones periódicas para verificar que las fuentes fijas autorizadas, no excedan los límites máximos de potencia radiada establecidos por las normas oficiales mexicanas.
+
+Asimismo, los municipios en el ámbito de su competencia restringirán en sus bandos, códigos y reglamentos, las edificaciones y obras, así como las actividades o anuncios de carácter publicitario y promocional, a fin de crear una imagen agradable del paisaje rural y urbano, y evitar la contaminación visual del mismo.
+
+###### ARTICULO 115.
+
+Los responsables de las fuentes de emisión deberán:
+
+I. Aplicar la tecnología disponible, realizar las acciones necesarias para reducir y controlar sus emisiones para evitar y mitigar los efectos sobre el ambiente y la salud; y
+
+II. Instalar equipos o sistemas de control para mantener sus emisiones por debajo de los niveles máximos permisibles que establezcan las normas oficiales mexicanas y demás disposiciones legales aplicables.
+
+###### ARTICULO 116.
+
+Para la prevención y control de la contaminación del agua se considerarán los criterios establecidos en la Ley General, Ley de Aguas Nacionales y demás normatividad correspondiente.
+
+###### ARTICULO 117.
+
+Las disposiciones contenidas en el presente capítulo son aplicables a las descargas de aguas residuales que se viertan a los cuerpos de aguas nacionales asignadas al Estado, a las aguas que en los términos de la Constitución Política de los Estados Unidos Mexicanos sean de jurisdicción local y a los sistemas de drenaje y alcantarillado de los centros de población.
+
+###### ARTICULO 118.
+
+Los criterios para la prevención y control de la contaminación del agua deberán considerarse en:
+
+I. El otorgamiento de concesiones, permisos, y en general toda clase de autorizaciones para el aprovechamiento de agua y las descargas de aguas residuales; y
+
+II. El diseño y operación de sistemas de agua potable, alcantarillado y tratamiento de aguas residuales.
+
+###### ARTICULO 119.
+
+Quienes pretendan descargar aguas residuales a cuerpos receptores de competencia estatal o municipal, requerirán contar con permiso de descarga expedido, por la autoridad competente, en los términos del reglamento de la presente Ley.
+
+Para la obtención del permiso correspondiente se solicitará ante la autoridad competente, el cual se otorgará una vez integrado debidamente el expediente, en un plazo de 5 días hábiles.
+
+El permiso tendrá una vigencia indefinida y sólo podrá ser cancelado o modificada su vigencia, cuando no se dé cumplimiento a las condiciones específicas del permiso o cuando el vertido de agua residual afecte o pueda afectar a la salud pública y a la infraestructura hidráulica existente.
+
+Se deberán reportar periódicamente las condiciones de descarga, de acuerdo al giro según lo establece el reglamento.
+
+###### ARTICULO 120.
+
+Se exceptúa de la obligación de contar con el permiso a que se refiere el artículo anterior a las descargas provenientes de los servicios sanitarios domésticos o análogos.
+
+###### ARTICULO 121.
+
+La autoridad en el ámbito de su competencia negará o revocará los permisos para descargar aguas residuales provenientes de los usos público-urbano, industriales o agropecuarios, en sistemas de drenaje y alcantarillado de las poblaciones o en cualquier cuerpo o corriente de agua de jurisdicción estatal o municipal, cuando por no apegarse o dejar de cumplir con las Condiciones Particulares de Descarga o Normas Oficiales Mexicanas, la calidad del agua descargada genere o pueda generar:
+
+I. Interferencias en los procesos de tratamiento o depuración de aguas; y
+
+II. Trastornos, impedimentos, daños o alteraciones en los aprovechamientos o en el funcionamiento adecuado y en la capacidad de los sistemas hidráulicos, así como en los sistemas de drenaje y alcantarillado, tratamiento de aguas residuales y de riego agrícola.
+
+###### ARTICULO 122.
+
+Los responsables de la generación de aguas residuales tendrán las siguientes obligaciones:
+
+I. Dar tratamiento a sus descargas;
+
+II. Mantener sus descargas por debajo de los niveles máximos permisibles para cada uno de los contaminantes señalados en el permiso correspondiente;
+
+III. Aplicar la tecnología disponible para reducir la generación de contaminantes y el volumen de descarga;
+
+IV. Facilitar el reuso de las aguas residuales;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+V.- Dar aviso al Instituto o a las autoridades municipales en caso de su compostura o falla de los equipos de control de la contaminación; y
+
+VI. Las demás que señalen los ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+### CAPITULO III. Información Ambiental
+
+###### ARTICULO 123.
+
+En materia de regulación, prevención y control de la contaminación del agua, el Instituto tendrá las siguientes facultades:
+
+I. Prevenir y controlar la contaminación de los cuerpos receptores de competencia estatal;
+
+II. Otorgar los permisos de descarga de aguas residuales a cuerpos receptores de competencia estatal;
+
+III. Promover ante quienes generen aguas residuales, la aplicación de la tecnología disponible, con el propósito de reducir la generación de contaminantes y el volumen de descarga, así como su reuso;
+
+IV. Requerir a quienes realicen descargas a cuerpos receptores de competencia estatal, el cumplimiento de los límites máximos permisibles establecidos en el permiso correspondiente;
+
+V. Integrar y mantener actualizado el registro estatal de descargas de aguas residuales, con la participación de los municipios; y
+
+VI. (DEROGADA, P.O. 11 DE ABRIL DE 2005) (F. DE E., P.O. 18 DE ABRIL DE 2005)
+
+###### ARTICULO 124.
+
+En materia de regulación, prevención y control de la contaminación del agua, los municipios, por sí mismos o por conducto de los organismos públicos que administren los sistemas de agua potable y alcantarillado, tendrán las siguientes facultades:
+
+I. Prevenir y controlar la contaminación de las descargas a cuerpos receptores de competencia municipal;
+
+II. Otorgar los permisos de descarga de aguas residuales a cuerpos receptores de competencia municipal;
+
+III. Promover ante quienes generen descargas la aplicación de la tecnología disponible, con el propósito de reducir la generación de contaminantes y el volumen de descarga, así como su reuso;
+
+IV. Requerir, a quienes realicen descargas a cuerpos receptores de competencia municipal, el cumplimiento de los límites máximos permisibles establecidos en las normas oficiales mexicanas y los especificados en los permisos expedidos;
+
+V. Integrar y mantener actualizado un registro municipal de descargas de aguas residuales; y
+
+VI. Inspeccionar y vigilar el cumplimiento de esta Ley, su reglamento, las normas oficiales mexicanas y demás disposiciones aplicables, tratándose de descargas de aguas residuales a cuerpos receptores de competencia municipal, y en su caso, imponer las sanciones previstas en esta Ley.
+
+###### ARTICULO 125.
+
+Para conocer la calidad de las aguas, se establecerá un sistema estatal de monitoreo, el cual será llevado a cabo por las dependencias estatales, municipales y los organismos públicos que tengan a su cargo la administración y operación de los sistemas de agua, drenaje y alcantarillado, en el ámbito de su competencia.
+
+###### ARTICULO 126.
+
+Para la prevención y control de la contaminación del suelo, se considerarán los criterios establecidos en la Ley General y en la Ley General para la Prevención y Gestión Integral de Residuos.
+
+### CAPITULO IV. Denuncia Ciudadana
+
+(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005) (F. DE E., P.O. 18 DE ABRIL DE 2005)
+
+###### ARTICULO 127.
+
+Los criterios para la prevención y control de la contaminación del suelo deberán considerarse en:
+
+I. La expedición de lineamientos, reglamentos o criterios estatales para el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento, estaciones de transferencia y centros de confinamiento temporales y disposición final de residuos no peligrosos, a fin de evitar riesgos y daños a la salud pública y al ambiente;
+
+II. La ordenación y regulación del desarrollo urbano, turístico, industrial y agropecuario;
+
+III. La generación, tratamiento, estaciones de transferencia y centros de confinamiento temporal y disposición final de residuos no peligrosos; y
+
+IV. La autorización y operación de los sistemas de recolección, almacenamiento, transporte, reuso, tratamiento, estaciones de transferencia y centros de confinamiento temporal y disposición final de residuos no peligrosos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 128.
+
+Con el propósito de promover el desarrollo sustentable y prevenir y controlar la contaminación del suelo, el Instituto y los municipios con la participación de todos los sectores de la sociedad, fomentarán y establecerán programas para la disminución del volumen de generación, reuso y reciclaje de residuos sólidos, industriales no peligrosos y peligrosos.
+
+Asimismo, promoverán la creación y aplicación de incentivos en favor de quienes realicen dichas actividades.
+
+## TITULO SEXTO. PROTECCION AL AMBIENTE
+
+### CAPITULO I. Inspección y Vigilancia
+
+###### ARTICULO 129.
+
+Quienes realicen obras o actividades que generen o causen impactos ambientales negativos o puedan contaminar los suelos o desarrollen actividades relacionadas con la exploración, explotación, extracción y aprovechamiento de materiales o sustancias no reservadas a la Federación, están obligados a:
+
+I. Implementar prácticas y aplicar tecnologías que eviten los impactos ambientales negativos;
+
+II. Cumplir con la normatividad aplicable y las condicionantes que se impongan en la autorización respectiva;
+
+III. Restaurar y reforestar con especies nativas del propio ecosistema afectados; y
+
+IV. Tramitar y obtener las autorizaciones a que se refiere este capítulo.
+
+###### ARTICULO 130.
+
+Se prohibe el depósito de residuos no peligrosos que generen o puedan generar:
+
+I. Impactos ambientales negativos al suelo;
+
+II. Alteraciones nocivas en el proceso biológico de los suelos;
+
+III. Alteraciones en el suelo que perjudiquen su aprovechamiento, uso o explotación; y
+
+IV. Riesgos y problemas de salud.
+
+###### ARTICULO 131.
+
+Durante las diferentes etapas del manejo de residuos no peligrosos, se prohibe:
+
+I. El depósito o confinamiento en sitios no autorizados;
+
+II. El fomento o creación de basureros clandestinos;
+
+III. La mezcla de residuos peligrosos con residuos no peligrosos; y
+
+IV. El confinamiento o depósito final de residuos no peligrosos que excedan los límites máximos permitidos por las Normas correspondientes.
+
+###### ARTICULO 132.
+
+La generación, recolección, almacenamiento, transporte, reuso, tratamiento, estaciones de transferencia y centros de confinamiento temporal y disposición final de los residuos que no estén considerados, en los términos de la Ley General como peligrosos, estará sujeta a las disposiciones de la presente Ley, su reglamento en materia de Prevención y Gestión Integral de Residuos, las normas oficiales mexicanas y demás disposiciones que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 133.
+
+En materia de residuos no peligrosos, corresponde al Instituto:
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+I. Autorizar la prestación de servicios a terceros que tenga por objeto la recolección, transporte, almacenamiento, reuso y tratamiento de residuos no peligrosos, previo procedimiento de licitación conforme a la Ley Patrimonial del Estado, y demás ordenamientos aplicables.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+II. Autorizar al generador de residuos no peligrosos, la instalación y operación de sistemas para el tratamiento, incineración y disposición final dentro y fuera de la instalación donde se generen dichos residuos;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+III. Vigilar el cumplimiento de las normas oficiales, mexicanas en materia de sistemas de generación, recolección, almacenamiento, transporte, reuso, tratamiento, estaciones de transferencia, centros de confinamiento temporal y disposición final de los residuos sólidos e industriales no peligrosos en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+IV. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por el inadecuado manejo de residuos no peligrosos;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+V. Aplicar el reglamento en materia de Prevención y Gestión Integral de Residuos; y
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+VI.- Autorizar la disposición final o tratamiento de residuos según los Planes de Manejo que el Instituto exija al generador.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+Para obtener la autorización a que se refiere este artículo, se requiere la presentación de una solicitud, en los términos del reglamento. La autoridad deberá resolver sobre la misma en un plazo no mayor de 10 días y en caso de no hacerlo se entenderá negada la solicitud.
+
+###### ARTICULO 134.
+
+Corresponde a los municipios:
+
+I. Proponer la expedición de lineamientos y criterios en materia de generación, recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento, estaciones de transferencia y centros de confinamiento temporal y disposición final de residuos sólidos municipales;
+
+II. Tomar las medidas preventivas necesarias para evitar contingencias ambientales;
+
+III. Inspeccionar y vigilar el cumplimiento de esta Ley, su reglamento y las normas oficiales mexicanas en materia de generación, recolección, transporte, almacenamiento, tratamiento, reuso, estaciones de transferencia, centros de confinamiento temporal y disposición final de residuos no peligrosos en el ámbito de su competencia; y
+
+IV. Solicitar al generador o al prestador de servicios de residuos no peligrosos, un plan de contingencias ambientales.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO II. Medidas de Seguridad
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+#### SECCIÓN V. Prevención y Control de la Contaminación por Ruido, Vibraciones, Energía Térmica y Lumínica, Radiaciones Electromagnéticas, Olores y Contaminación Visual
+
+###### ARTICULO 135.
+
+Sólo se podrá autorizar el confinamiento de residuos no peligrosos cuando éstos no puedan ser técnica ni económicamente sujetos de reuso o cualquier tipo de tratamiento, en los términos de la Ley General para la Prevención y Gestión Integral de Residuos y del reglamento de la presente Ley en la materia.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 136.
+
+Cuando el manejo de residuos no peligrosos genere impactos negativos al suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a cumplir con lo establecido por el reglamento de la presente Ley, así como a:
+
+I. Llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del suelo con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable para el predio o zona respectiva; y
+
+II. En caso de que la recuperación y restablecimiento no sean factibles, deberá reparar los daños causados de conformidad con la legislación civil aplicable.
+
+La responsabilidad a que se refiere este precepto es de carácter objetivo y para su actualización no requiere que medie culpa o negligencia del demandado.
+
+Son responsables solidarios por los daños que se produzcan tanto el generador como las empresas que presten los servicios para el manejo de los residuos no peligrosos.
+
+###### ARTICULO 137.
+
+Los residuos no peligrosos que sean usados, tratados o reciclados, en un proceso distinto al que los generó, dentro del mismo predio, serán sujetos a un control interno por parte del generador, de acuerdo con las formalidades que establezca el reglamento de la presente Ley.
+
+###### ARTICULO 138.
+
+El reglamento de esta Ley establecerá la clasificación de las actividades que deban considerarse riesgosas para el ambiente y la salud, en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas para el ambiente, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando además, los volúmenes de manejo y la ubicación del establecimiento.
+
+Para la determinación de esta clasificación, se deberá considerar previamente la opinión de las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 139.
+
+Para evitar o reducir los riesgos ambientales con motivo de la realización de actividades riesgosas, corresponde al Instituto:
+
+I. En coordinación con las instancias competentes, evaluar y en su caso aprobar, los estudios de riesgo ambiental, así como los programas para la prevención de accidentes y atención a contingencias;
+
+II. Establecer condiciones de operación y requerir la instalación de equipos o sistemas de seguridad;
+
+III. Promover ante los responsables de la realización de las actividades riesgosas, la aplicación de la tecnología disponible para evitar y minimizar los riesgos ambientales;
+
+IV. En coordinación con los municipios, declarar zonas de salvaguarda o de amortiguamiento para restricciones de usos urbanos cuando se prevean actividades que puedan ser consideradas como riesgosas; y
+
+V. Llevar a cabo las medidas preventivas necesarias para evitar contingencias ambientales.
+
+La autorización del estudio de riesgo y el programa para la prevención de accidentes y atención a contingencias, se tramitará en los términos del reglamento de esta Ley, pero en todo caso, la autoridad deberá resolver sobre la misma en un plazo no mayor de treinta días hábiles. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá negada la solicitud.
+
+#### SECCION I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 140.
+
+Corresponde a los municipios determinar que en los usos del suelo se especifiquen las zonas en las que se permita el establecimiento de industrias, comercios o servicios que de conformidad con esta Ley o con la Ley General sean considerados riesgosos o altamente riesgosos, por la gravedad que los efectos puedan generar en los ecosistemas o en el ambiente, tomando en consideración:
+
+I. Las condicionantes topográficas, meteorológicas, climatológicas, geológicas, hidrológicas, edáficas y sísmicas de las zonas;
+
+II. Su ubicación y proximidad a centros de población, previniendo las tendencias de expansión del respectivo asentamiento y la creación de nuevos asentamientos;
+
+III. Los impactos que tendría un posible evento extraordinario de la industria, comercio o servicio de que se trate, sobre los centros de población y sobre los recursos naturales;
+
+IV. La compatibilidad con otras actividades de las zonas;
+
+V. La infraestructura existente y necesaria para la atención de emergencias ambientales; y
+
+VI. La infraestructura para la dotación de servicios y el equipamiento urbanos.
+
+###### ARTICULO 141.
+
+Corresponde a los municipios establecer restricciones a los usos urbanos habitacionales, comerciales u otros para garantizar la seguridad de la comunidad vecina a las actividades riesgosas y altamente riesgosas. Asimismo, les corresponde promover ante las autoridades competentes, el establecimiento de zonas intermedias de salvaguarda.
+
+###### ARTICULO 142.
+
+Los Gobiernos Estatal y Municipales en forma concurrente deberán fomentar la participación corresponsable de la sociedad en la formulación y seguimiento de la aplicación de la política ambiental y sus instrumentos.
+
+###### ARTICULO 143.
+
+Para los efectos del artículo anterior, el Ejecutivo Estatal y los Ayuntamientos, en sus respectivos ámbitos de competencia, tendrán las siguientes facultades:
+
+I. Convocar, en el ámbito del sistema estatal de planeación democrática, a través del Consejo Consultivo Estatal de Gestión Ambiental, al sector social, empresarial, académico, organizaciones no gubernamentales, y demás personas interesadas, para que manifiesten su opinión y propuestas;
+
+II. Celebrar convenios con los diferentes sectores de la sociedad, y demás personas interesadas, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción estatal y/o municipal; aprovechamiento sustentable de los recursos naturales; las acciones de protección al ambiente y la realización de estudios e investigación en la materia;
+
+III. Celebrar convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de preservación y protección al ambiente;
+
+IV. Promover el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar, restaurar y proteger el ambiente;
+
+V. Impulsar el fortalecimiento de la educación ambiental, a través de la realización de acciones conjuntas con la comunidad para la preservación y restauración del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de los residuos. Para ello podrán, en forma coordinada, celebrar convenios con las comunidades urbanas y rurales, así como con diversas organizaciones sociales; y
+
+VI. Promover inversiones de los sectores social y empresarial, organizaciones no gubernamentales, académicas y demás personas interesadas, para la preservación, restauración y la protección al ambiente.
+
+#### SECCION II. Residuos no Peligrosos
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 144.
+
+Con el objeto de lograr la participación ciudadana de forma corresponsable y de manera eficiente, el Gobierno del Estado, contará con un órgano de consulta social, el cual se denominará Consejo Consultivo Estatal de Gestión Ambiental, y tendrá las siguientes funciones:
+
+I. Actuar como órgano de enlace y de vinculación entre los sectores sociales y el gobierno del Estado;
+
+II. Analizar, asesorar, proponer, evaluar y dar seguimiento a la política ambiental plasmada en el Plan Estatal de Desarrollo; y
+
+III. Promover y fomentar la participación ciudadana en el análisis de programas de carácter ambiental y ecológico, y en su caso en la realización o ejecución coordinada o individual.
+
+###### ARTICULO 145.
+
+El Consejo Consultivo Estatal de Gestión Ambiental estará integrado por:
+
+I. Un Presidente, que será el Gobernador Constitucional del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+II.- Un Secretario Técnico, que será el Director General del Instituto del Medio Ambiente del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+III.- Un Secretario de Actas, que será quien designe el Director General del Instituto;
+
+IV. Vocales, quienes serán los representantes de los siguientes sectores:
+
+A. Gubernamental: Un representante de las siguientes instancias:
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+a) Secretaría del Medio Ambiente y Recursos Naturales;
+
+b) Procuraduría Federal de Protección al Ambiente;
+
+c) Comisión Nacional del Agua;
+
+d) Secretaría de Desarrollo Social Federal;
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+e) Comisión de Medio Ambiente y Recursos Naturales del Honorable Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+f) Instituto del Agua del Estado;
+
+g) Cada Ayuntamiento;
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+h) Procuraduría Estatal de Protección al Ambiente.
+
+B. Empresarial:
+
+a) Cinco representantes de Cámaras empresariales, preferentemente CANACINTRA, CANACO, COPARMEX;
+
+C. Académico:
+
+a) Un representante de cada institución de Educación Superior en el Estado;
+
+D. No Gubernamental:
+
+a) Cuatro representantes de organizaciones no gubernamentales de tipo ecológico-ambiental;
+
+b) Cinco representantes de colegios de profesionistas preferentemente biólogos, urbanistas, arquitectos, abogados, ingenieros agrónomos y civiles;
+
+E. Social:
+
+a) Cuatro representantes de los Comités de Colonos;
+
+b) Un representante de las Asociaciones de Productores Agrícolas y Pecuarios.
+
+Los representantes se integrarán al Consejo por invitación expresa del Ejecutivo del Estado.
+
+###### ARTICULO 146.
+
+Cuando así lo requiera, el Consejo podrá invitar a instancias o personas a participar en el análisis de algún tema o programa en específico.
+
+###### ARTICULO 147.
+
+El Consejo funcionará conforme a lo que establece el Reglamento Interno, que él mismo expida.
+
+#### SECCION III. Actividades Riesgosas
+
+###### ARTICULO 148.
+
+Toda persona tendrá derecho a que las autoridades ambientales pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta Ley y su reglamento.
+
+Para los efectos de lo dispuesto en esta Ley, se considera información ambiental, cualquier información escrita, en audio, audiovisual e información magnética, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, flora, fauna y recursos naturales de jurisdicción estatal y municipal, así como sobre las actividades o medidas que les afectan o puedan afectarlos.
+
+Toda solicitud de información ambiental deberá presentarse por escrito, especificando claramente los datos que se solicitan y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre, razón social y domicilio.
+
+En su caso, los gastos que se generen correrán por cuenta del solicitante y de requerir copias certificadas deberá cubrir los derechos correspondientes, de conformidad con la Ley de Ingresos del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 149.
+
+El Instituto con la participación que corresponda a los Municipios, desarrollará el Sistema Estatal de Información Ambiental, en coordinación con el Sistema Nacional de Información Ambiental y de Recursos Naturales, que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental en el Estado.
+
+En dicho Sistema se integrarán, entre otros aspectos, información relativa a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo, al ordenamiento ecológico del territorio; así como a las emisiones atmosféricas, descargas de aguas residuales y residuos; y la correspondiente a los registros, programas y acciones que se realicen para la preservación y protección del ambiente.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 150.
+
+El Instituto y los Municipios elaborarán conjuntamente un diagnóstico de la situación general existente en la Entidad en materia ambiental, el cual se integrará al Sistema Estatal de Información Ambiental.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 151.
+
+El Instituto de conformidad con el reglamento de la presente Ley, publicará una gaceta en la que se darán a conocer las disposiciones jurídicas, tales como reglamentos, decretos, acuerdos y demás actos administrativos, independientemente de su publicación en el Periódico Oficial del Estado o en otros órganos de difusión; así como información de interés general en materia ambiental, que publiquen los Gobiernos Federal, Estatal y Municipales, o documentos internacionales en materia ambiental de interés para la Entidad.
+
+Asimismo, se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y el aprovechamiento sustentable de los recursos naturales.
+
+### CAPITULO III. Sanciones Administrativas
+
+###### ARTICULO 152.
+
+La autoridad ambiental deberá responder por escrito a los solicitantes de información ambiental en un plazo no mayor de quince días hábiles, contados a partir de la fecha de recepción de la petición respectiva. En caso de que la autoridad conteste negativamente la solicitud, deberá señalar las razones que motivaron tal determinación.
+
+###### ARTICULO 153.
+
+Quien reciba información ambiental de las autoridades competentes, en los términos del presente capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 154.
+
+El Instituto o las autoridades municipales competentes negarán la información solicitada cuando:
+
+I. Se considere que la información es confidencial, de acuerdo con la ley o que por su propia naturaleza su difusión afecta o puede afectar la seguridad de la Entidad o Municipios;
+
+II. Se trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia, pendientes de resolución;
+
+III. Se trate de información sobre inventarios e insumos y tecnología de proceso, incluyendo la descripción del mismo; o
+
+IV. Se tenga que respetar la propiedad intelectual de su autor.
+
+###### ARTICULO 155.
+
+Toda persona, física o moral, podrá denunciar ante la autoridad estatal, las autoridades federales o municipales en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+En caso de presentarse una denuncia ciudadana ante una autoridad ambiental que no sea competente, ésta deberá ser turnada de inmediato a la autoridad facultada para ello.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+###### ARTICULO 156.
+
+Al recibir la denuncia ciudadana, la autoridad ambiental acusará recibo y le asignará un número de expediente, haciendo la anotación respectiva en el libro de registro y en un plazo de 10 días hábiles siguientes se notificará al interesado el estado de su denuncia.
+
+Cuando se presenten dos o más denuncias respecto de los mismos hechos, actos u omisiones, deberá acordarse su acumulación en un sólo expediente, prevaleciendo el primer número de expediente asignado. El contenido del acuerdo respectivo deberá notificarse a los denunciantes.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+Para el seguimiento de la denuncia ciudadana se estará a lo dispuesto en el reglamento de esta Ley y demás ordenamientos establecidos en la normatividad del Estado.
+
+###### ARTICULO 157.
+
+La autoridad ambiental en el ámbito de sus atribuciones, iniciará las acciones que procedan ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
+
+Si del resultado de las investigaciones realizadas por la autoridad ambiental, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante éstas u otras, la ejecución de las acciones procedentes.
+
+###### ARTICULO 158.
+
+La denuncia deberá presentarse preferentemente por escrito y contener al menos:
+
+I. Los actos, hechos u omisiones denunciados;
+
+II. Los datos que permitan identificar al presunto infractor o localizar la fuente de contaminación; y
+
+III. Las pruebas que en su caso ofrezca el denunciante.
+
+Asimismo, podrá formularse la denuncia vía telefónica, por correo, fax o cualquier otro medio.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+
+En caso de no cumplir con los requisitos anteriores, se considerará como un reporte ciudadano que podrá servir como antecedentes para que a juicio de la Procuraduría se pueda ordenar una visita de inspección en su caso.
+
+###### ARTICULO 159.
+
+Los expedientes de denuncia que se encuentren en trámite podrán concluirse, en los siguientes casos:
+
+I. Por incompetencia para conocer de la denuncia planteada, en cuyo caso se remitirá a la autoridad competente;
+
+II. Por haberse dictado la recomendación correspondiente;
+
+III. Cuando no existan contravenciones a la normatividad ambiental;
+
+IV. Por haberse dictado anteriormente acuerdo de acumulación de expedientes;
+
+V. Por haberse solucionado la denuncia mediante conciliación entre las partes;
+
+VI. Por la emisión de una resolución derivada del procedimiento de inspección; y
+
+VII. Por desaparecer o extinguirse los actos, hechos u omisiones materia de la denuncia, siempre y cuando éstos no hubieran ocasionado daños al ambiente.
+
+###### ARTICULO 160.
+
+Cuando una denuncia no implique violaciones a la normatividad ambiental, ni afecte cuestiones de orden público e interés social, la autoridad ambiental podrá sujetar la misma a un procedimiento de conciliación. En todo caso, se escuchará a las partes involucradas.
+
+###### ARTICULO 161.
+
+Las autoridades y servidores públicos involucrados en asuntos ambientales, o que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir con las peticiones que la autoridad competente les formule en tal sentido.
+
+Las autoridades y servidores públicos a los que se les solicite información o documentación que se estime con carácter de reservado, conforme a lo dispuesto por la legislación aplicable, lo comunicarán a la autoridad ambiental. En este supuesto, dicha autoridad deberá manejar la información proporcionada bajo la más estricta confidencialidad.
+
+### CAPITULO IV. Recurso de Revisión
+
+###### ARTICULO 162.
+
+Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que contravenga esta Ley, sus normas y reglamentos, será responsable y estará obligada a reparar los daños causados, de conformidad con la legislación civil aplicable.
+
+El término para demandar la responsabilidad ambiental, será de cinco años contados a partir del momento en que se tenga conocimiento del hecho, acto u omisión correspondiente.
+
+###### ARTICULO 163.
+
+Cuando por infracción a las disposiciones de esta Ley y sus disposiciones reglamentarias se ocasionen daños o perjuicios, los interesados podrán solicitar a la autoridad ambiental, la formulación de un dictamen técnico al respecto, el cual tendrá el valor de prueba, en caso de que se presente en juicio.
+
+###### ARTICULO 164.
+
+Las autoridades ambientales a que se refiere esta Ley, de conformidad con la distribución de competencias que en la misma se establece, podrán realizar actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
+
+Para los efectos del presente artículo se estará a lo dispuesto en esta Ley y en la Ley de Procedimientos Administrativos del Estado de Aguascalientes.
+
+###### ARTICULO 165.
+
+Las autoridades ambientales competentes, podrán realizar, por conducto de personal debidamente autorizado, visitas de inspección para verificar el cumplimiento de este ordenamiento.
+
+Dicho personal, al realizar las visitas de inspección, deberá contar con el documento oficial que lo acredite o autorice a practicar la inspección, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad competente, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+
+###### ARTICULO 166.
+
+El personal autorizado al iniciar la inspección se identificará debidamente con la persona con quien se entienda la diligencia, a quien se le entregará copia de la orden y se le solicitará designe a dos testigos.
+
+En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
+
+###### ARTICULO 167.
+
+La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos de inspección, en los términos previstos en la orden escrita a que se refiere este capítulo, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a Ley, debiendo la autoridad mantener absoluta reserva si así lo solicita el interesado, salvo caso de requerimiento judicial.
+
+###### ARTICULO 168.
+
+La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+
+###### ARTICULO 169.
+
+De toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, y que contendrá por lo menos los siguientes requisitos:
+
+I. Nombre, denominación o razón social del visitado;
+
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+
+III. Calle, número, población o colonia, teléfono y otra forma de comunicación disponibles, Municipio o Delegación, código postal y Entidad Federativa en que se encuentre ubicado el lugar en que se practique la visita;
+
+IV. Número y fecha del oficio de comisión que la motivó;
+
+V. Nombre y cargo de la persona con quien se entendió la diligencia;
+
+VI. Nombre y domicilio de las personas que fungieron como testigos;
+
+VII. Datos relativos a la actuación;
+
+VIII. Declaración del visitado, si quisiera hacerla; y
+
+IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo los de quienes la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
+
+Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule sus observaciones con relación a los hechos u omisiones asentados en el acta respectiva y para que ofrezca las pruebas que considere convenientes, o haga uso de ese derecho en el término de cinco días hábiles siguientes a la fecha en que se haya practicado la diligencia.
+
+A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y el personal autorizado, quien entregará copia del acta al interesado.
+
+Si la persona con la que se entendió la diligencia o los testigos se negaren a firmar el acta, o se negare el interesado a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
+
+###### ARTICULO 170.
+
+Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado, mediante acuerdo debidamente fundado y motivado, y notificado personalmente o mediante correo certificado con acuse de recibo, que implemente de inmediato las medidas correctivas o aquéllas de urgente aplicación, necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda, y para que en el término de quince días hábiles siguientes manifieste lo que a su derecho convenga y ofrezca las pruebas que considere convenientes.
+
+###### ARTICULO 171.
+
+Transcurrido el término a que se refiere el artículo anterior y dentro de los treinta días hábiles siguientes, la autoridad emitirá la resolución administrativa correspondiente, debidamente fundada y motivada, misma que se notificará personalmente al interesado, y en la cual se señalarán o en su caso ratificarán o adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+
+###### ARTICULO 172.
+
+Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento o resolución respectiva.
+
+###### ARTICULO 173.
+
+Cuando exista un riesgo inminente de afectación al ambiente; de daño o deterioro grave a los recursos naturales; así como casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, el Instituto o las autoridades municipales, en el ámbito de sus respectivas competencias, podrán ordenar alguna o algunas de las siguientes medidas de seguridad:
+
+I. La clausura temporal, parcial o total, de las fuentes contaminantes, así como de las instalaciones en que se manejen o se desarrollen las actividades que generen efectos nocivos para el ambiente y la salud pública;
+
+II. El aseguramiento de materiales, residuos o sustancias contaminantes, autotransportes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad;
+
+III. El retiro de los vehículos de la circulación, cuando éstos no cumplan con las disposiciones en materia de control de emisiones provenientes de fuentes móviles; y
+
+IV. Cualquier otra medida de control que impida que las sustancias generen efectos nocivos para el ambiente y la salud pública.
+
+La autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores. Asimismo, podrá promover ante la autoridad competente la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
+
+###### ARTICULO 174.
+
+Cuando la autoridad ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+
+###### ARTICULO 175.
+
+Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que de ella emanen, serán sancionadas administrativamente por la autoridad, con una o más de las siguientes sanciones:
+
+I. Apercibimiento;
+
+II. Multa por el equivalente de dos a veinte mil días de salario mínimo general vigente en la región, al momento de imponer la sanción;
+
+III. Clausura temporal o definitiva, parcial o total, cuando:
+
+a) El infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de seguridad ordenadas;
+
+b) En los casos de reincidencia cuando las infracciones generen efectos negativos al ambiente; o
+
+c) Se trate de desobediencia reiterada en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de seguridad impuestas por la autoridad.
+
+IV. Arresto administrativo hasta por treinta y seis horas;
+
+V. El decomiso de instrumentos, productos o subproductos directamente relacionados con infracciones relativas a lo previsto en la presente Ley, reglamentos y normas que se deriven; y
+
+VI. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes.
+
+###### ARTICULO 176.
+
+Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta:
+
+I. La gravedad de la infracción, considerando los siguientes criterios: impacto a la salud pública; generación de daños al ambiente y, en su caso, los niveles en que se hubieren rebasado los límites establecidos en las normas oficiales mexicanas;
+
+II. Las condiciones económicas del infractor;
+
+III. La reincidencia, si la hubiere;
+
+IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción; y
+
+V. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción.
+
+###### ARTICULO 177.
+
+Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al presente capítulo, una multa adicional que no exceda de los límites máximos señalados.
+
+Para el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto inicialmente impuesto, sin exceder del doble del máximo permitido, así como la clausura definitiva.
+
+Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+
+###### ARTICULO 178.
+
+La autoridad competente deberá considerar, en el caso en que el infractor realice las medidas correctivas o las de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a la imposición de la sanción y siempre que lo haga del conocimiento de la autoridad dentro del plazo establecido, como atenuante de la infracción cometida.
+
+La autoridad competente podrá otorgar al infractor, la opción para pagar la multa o realizar inversiones equivalentes en la adquisición o instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, no se trate de riesgo inminente de deterioro ambiental, o casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, y la autoridad justifique plenamente su decisión.
+
+Igualmente, en los casos en que se cumplan con las medidas correctivas o las de urgente aplicación, o se subsanen las irregularidades detectadas en los plazos ordenados por la autoridad, siempre que el infractor no sea reincidente y no se trate de alguno de los supuestos previstos en el párrafo anterior, ésta podrá revocar o modificar las sanciones impuestas siempre y cuando el interesado lo solicite al interponer el recurso de revisión a que se refiere esta Ley.
+
+## TITULO SEPTIMO. PARTICIPACION CIUDADANA
+
+### CAPITULO V. Delitos Ambientales
+
+###### ARTICULO 179.
+
+Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla, procederá a levantar acta circunstanciada de la diligencia.
+
+En los casos en que se imponga como sanción la clausura temporal, la autoridad ambiental deberá indicar al infractor las medidas correctivas y las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+###### ARTICULO 180.
+
+El Instituto o la autoridad municipal correspondiente podrá promover ante las autoridades competentes, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente o los recursos naturales.
+
+###### ARTICULO 181.
+
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley. El reglamento respectivo establecerá las reglas sobre la integración, administración y gastos de los recursos constitutivos de dicho fondo ambiental.
+
+###### ARTICULO 182.
+
+En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno. Dicha nulidad podrá ser exigida por medio del recurso administrativo correspondiente.
+
+###### ARTICULO 183.
+
+Los actos y resoluciones de las autoridades administrativas que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán ser impugnados por los interesados afectados mediante el recurso administrativo previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+
+###### ARTICULO 184.
+
+Tratándose de obras o actividades que contravengan las disposiciones de esta Ley, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas, los reglamentos o las normas oficiales mexicanas, las personas físicas y morales de las comunidades afectadas, tendrán derecho a impugnar los actos administrativos correspondientes, en los términos del artículo anterior, siempre que demuestren en el procedimiento que dichas obras o actividades originan o puedan originar un daño a los recursos naturales, el ambiente, la salud pública o la calidad de vida.
+
+###### ARTICULO 185.
+
+En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la autoridad ambiental tenga conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación penal aplicable, formulará ante el Ministerio Público la denuncia correspondiente.
+
+Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos en contra del ambiente previstos en el Código Penal vigente en la Entidad.
+
+###### ARTICULO 186.
+
+La autoridad ambiental proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos en contra del ambiente.
+
+Igualmente la autoridad ambiental proporcionará los dictámenes técnicos o periciales que le soliciten, con motivo de los juicios que se ventilen ante los Tribunales correspondientes.
+
+TRANSITORIOS:
+
+PRIMERO: La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO: Se abroga la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 27 de junio de 1993. Se derogan las demás disposiciones legales y reglamentarias en lo que se opongan a la presente Ley.
+
+TERCERO: Mientras se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan. Las referencias legales o reglamentarias a la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Aguascalientes, se entienden hechas en lo aplicable, a la presente Ley.
+
+CUATRO: Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Aguascalientes, se tramitarán y resolverán conforme a las disposiciones de dicha Ley que se abroga.
+
+QUINTO: Tratándose de las áreas naturales protegidas de competencia estatal y municipal, la Secretaría o los municipios, en el ámbito de su competencia, deberán realizar los estudios y análisis que sean necesarios para determinar si las condiciones que dieron lugar a su establecimiento no se han modificado y si los propósitos previstos en el instrumento mediante el cual se declaró su constitución corresponde a los objetivos y características señaladas en esta Ley.
+
+En caso de que conforme a los estudios y análisis que se lleven a cabo, sea necesario modificar los decretos mediante los cuales se declararon las áreas naturales protegidas, la autoridad correspondiente, en términos de esta Ley, deberá promover la expedición del decreto que corresponda.
+
+Al Ejecutivo para su sanción.
+
+Dado en el salón de sesiones del H. Congreso del Estado, a los veinticinco días del mes de enero del año dos mil.- D.P., Manuel Agustín Reed Segovia.- D.S., Luis Macías Romo.- D.S., Salvador Delgado Esquivel.- Rúbricas".
+
+Y tenemos el honor de comunicarlo a usted para su conocimiento y publicación en el Periódico Oficial del Estado, reiterándole las seguridades de nuestra consideración distinguida.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+DIPUTADO PRESIDENTE,
+
+Manuel Agustín Reed Segovia.
+
+DIPUTADO SECRETARIO,
+
+Luis Macías Romo.
+
+DIPUTADO SECRETARIO,
+
+Salvador Delgado Esquivel.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Aguascalientes, Ags., 3 de febrero de 2000.
+
+Felipe González González.
+
+EL SECRETARIO GENERAL DE GOBIERNO,
+
+Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El Consejo Directivo del Instituto deberá quedar constituido dentro del término de quince días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+TERCERO.- El Director General del Instituto será nombrado en los términos previstos en la Ley que Crea el Instituto del Medio Ambiente del Estado de Aguascalientes, dentro de un plazo no mayor a treinta días hábiles siguientes a la integración del Consejo Directivo.
+
+CUARTO.- El Reglamento Interior del Instituto deberá ser expedido y publicado en el Periódico Oficial del Estado, en un plazo no mayor de ciento veinte días hábiles contados a partir de la fecha en que sea instalado el Consejo Directivo.
+
+QUINTO.- La Subsecretaría de Ecología transfiere al Instituto del Medio Ambiente del Estado de Aguascalientes el personal de base que continúe laborando a su servicio de las áreas respectivas de la reestructura, sin perjuicio de sus derechos adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, máquinas, archivos y, en general, el equipo que hayan venido usando las áreas reestructuradas de la Secretaría de Desarrollo Social, hasta antes de la entrada en vigor del presente Decreto.
+
+SEXTO.- Las facultades en materia de ecología de la Secretaría de Desarrollo Social se transfieren al Instituto, una vez entrado en vigor el presente Decreto.
+
+SÉPTIMO.- Deberán adecuarse los ordenamientos legales correspondientes en un plazo no mayor de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO.- Los asuntos que se encuentren en trámite ante la Subsecretaría de Ecología de la Secretaría de Desarrollo Social, continuarán su trámite ante el Instituto del Medio Ambiente del Estado de Aguascalientes, sin que ello afecte su validez.
+
+P.O. 1 DE AGOSTO DE 2005.
+
+## TITULO OCTAVO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2007.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
-Se aprueba la Ley de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana del Estado de Aguascalientes, en los siguientes términos:
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
+P.O. 18 DE AGOSTO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 28 DE DICIEMBRE DE 2020.
-
-###### ARTÍCULO ÚNICO
-
-El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 5 DE ABRIL DE 2021.
-
-###### ARTÍCULO ÚNICO
-
-El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 7 DE AGOSTO DE 2023.
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3999,9 +4407,83 @@ NOVENO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su 
 
 D.O.F. 14 DE JULIO DE 2017.
 
-###### Artículo 2.
+###### ARTICULO 2°.
 
-La residencia de los Juzgados a que se refiere este Acuerdo será la Ciudad de México, en las instalaciones que determine el Consejo de la Judicatura Federal.
+Se consideran de utilidad pública:
+
+I. El ordenamiento ecológico del territorio estatal en los casos previstos por esta Ley y demás leyes aplicables; y
+
+II. El establecimiento, protección y preservación de las áreas naturales protegidas de interés estatal y municipal.
+
+###### ARTICULO 3°.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. ACTIVIDAD NO RIESGOSA: Es aquélla que por sus dimensiones, materia prima, procesos, productos y subproductos o su localización no representa riesgo real o potencial para los habitantes de los asentamientos circundantes;
+
+II. AMBIENTE: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempos determinados;
+
+III. AGUAS RESIDUALES: Son aquellas no aptas para el consumo humano, que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad original, provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana;
+
+IV. AREAS NATURALES PROTEGIDAS DE JURISDICCION ESTATAL: Las zonas del territorio de la Entidad no consideradas como federales que han quedado sujetas a la protección estatal, a fin de preservar y restaurar ambientes naturales, salvaguardar la diversidad genética de las especies silvestres; lograr el aprovechamiento racional de los recursos naturales y mejorar la calidad del ambiente;
+
+V. AUDITORIA AMBIENTAL: Proceso de revisión de las actividades y operaciones, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
+
+VI. CONSERVACION: Conjunto de políticas y medidas orientadas a mantener la diversidad biológica y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
+
+VII. DESARROLLO SUSTENTABLE: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, que se fundamenta en medidas apropiadas de preservación y protección del ambiente, así como el aprovechamiento de recursos naturales de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+
+VIII. DESEQUILIBRIO AMBIENTAL: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+
+IX. DISPOSICION FINAL: El depósito permanente de los residuos en sitios y condiciones adecuadas para evitar daños a los ecosistemas, al ambiente y a la salud humana;
+
+X. ESTUDIO DE RIESGO: Documento mediante el cual se dan a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para los ecosistemas, la salud pública o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar, reducir o evitar los efectos adversos que se causen al ambiente y a la población en caso de un posible accidente durante la realización de las obras o actividades que se trate;
+
+XI. EUTROFICACION: Cambios físicos, químicos y biológicos que tienen lugar después de que algún cuerpo de agua recibe nutrientes orgánicos o inorgánicos o debido a la erosión natural y a los escurrimientos desde la cuenca circundante;
+
+XII. FUENTE FIJA: Es toda instalación en un solo lugar, que tenga como finalidad, desarrollar operaciones o procesos industriales, mercantiles, de servicios o actividades que generen o puedan generar emisiones contaminantes;
+
+XIII. FUENTE MOVIL: Son los equipos y maquinaria no fijos, con motores de combustión interna o similares que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera;
+
+XIV. INCINERACION: Combustión controlada de cualquier sustancia o material, cuyas emisiones se descargan a través de una chimenea;
+
+XV. IMPACTO AMBIENTAL: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2005)</small>
+
+XV bis.- INSTITUTO: Instituto del Medio Ambiente del Estado de Aguascalientes;
+
+XVI. LEY: Ley de Protección Ambiental del Estado de Aguascalientes;
+
+XVII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+XVIII. MANEJO: El conjunto de operaciones que incluyen la generación, almacenamiento, recolección, transporte, reuso, tratamiento, incineración y disposición final de residuos no peligrosos;
+
+XIX. MANIFESTACION DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o mitigarlo en caso de que sea negativo;
+
+XX. QUEMA: Combustión no controlada de cualquier sustancia o materia;
+
+XXI. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fin de darles un nuevo uso;
+
+XXII. RESIDUO: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+
+XXIII. RESIDUOS PELIGROSOS: Todos aquellos residuos en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, representan un peligro para el ambiente y para la salud;
+
+XXIV. RESIDUOS SOLIDOS MUNICIPALES: Son aquellos residuos que se generan en casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados, demoliciones, construcciones, instituciones educativas, establecimientos comerciales y de servicios y en general, todos aquellos generados en los espacios públicos de los centros de población;
+
+XXV. RESIDUO INDUSTRIAL: Es aquel que se genera en los procesos de extracción, beneficio, transformación o producción industrial;
+
+XXVI. REUSO: Es la acción de aprovechar un residuo sin un proceso previo de transformación;
+
+XXVII. VERIFICACION VEHICULAR: Es la medición de la cantidad de contaminantes atmosféricos emitidos por las fuentes móviles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2007)</small>
+
+XXVIII. PROCURADURÍA: Procuraduría Estatal de Protección al Ambiente; y
+
+XXIX. TRATAMIENTO: Acción de transformar los residuos, por medio de la cual se cambian sus características.
+
+Las definiciones contenidas en la Ley General, la Ley de Aguas Nacionales, Ley Forestal, sus reglamentos y demás leyes aplicables, serán consideradas en los casos no previstos por esta Ley.
 
 ###### Artículo 5.
 
@@ -4027,29 +4509,23 @@ Artículo 10 ter. Derogado.
 
 Artículo 10 quater. Derogado.
 
-###### Artículo 12.
+###### ARTICULO 12.
 
-El Juez Federal Penal Especializado deberá resolver, antes de que termine su turno, sobre la procedencia de las solicitudes a que se refiere el artículo 5 de este Acuerdo.
+El Instituto formulará, ejecutará y evaluará periódicamente, en coordinación con los diferentes sectores involucrados en las acciones de protección ambiental, el Programa Sectorial Ambiental, el cual contendrá las estrategias y acciones prioritarias para la ejecución de la política ambiental estatal e integrará las acciones de los diferentes sectores.
 
-…
+###### ARTICULO 13.
 
-###### Artículo 13.
+Los Planes y Programas de Desarrollo Urbano deberán tomar en cuenta los lineamientos y estrategias contenidas en la Política Ambiental de la presente Ley.
 
-Tan luego se firme y autorice la resolución deberá incorporarse al sistema electrónico con la finalidad de que, además del juez que la dictó, solo esté disponible para el personal autorizado por las autoridades solicitantes, quienes podrán obtener copia electrónica inmodificable para realizar la impresión correspondiente.
+###### ARTICULO 14.
 
-…
+El Gobierno Estatal y los Ayuntamientos promoverán la participación ciudadana de los distintos grupos sociales en la elaboración de los programas estatales y municipales respectivamente, que tengan por objeto la protección y restauración del ambiente, a través de foros de consulta y del Consejo Consultivo correspondiente.
 
-###### Artículo 14.
+###### ARTICULO 15.
 
-En caso de que un juez, que conozca de un proceso penal, requiera copia certificada de una resolución que conceda o niegue una medida cautelar que se encuentre relacionada con esa causa penal, el Juez Federal Penal Especializado que la haya emitido formará un testimonio de la resolución que enviará al juez requirente, cuando así procediere.
+Los programas de ordenamiento ecológico del territorio tendrán por objeto establecer los criterios para la aplicación de las políticas ambientales que permitan la regulación de actividades productivas, del uso del suelo y localización de asentamientos humanos, así como para el aprovechamiento sustentable de los recursos naturales de la región de que se trate. Asimismo, deberán especificar los lineamientos y directrices para su ejecución, seguimiento, evaluación y modificación. Para ello deberán considerar los atributos físicos, biológicos y socioeconómicos del área.
 
-D.O.F. 29 DE JUNIO DE 2017.
-
-###### Artículo 15.
-
-Para el logro de los objetivos de esta Ley, se deberá utilizar la metodología y los mecanismos que permitan identificar y comprender las variables sociales en la vida de los ciudadanos y las instituciones públicas y privadas con el fin de identificar, cuestionar y valorar las causas que han provocado la violencia y la delincuencia en el Estado y sus Municipios; a efecto de emprender acciones que generen las condiciones de cambio que permitan a la ciudadanía desarrollarse en un ambiente armónico y seguro.
-
-### CAPÍTULO CUARTO. De la Participación Ciudadana y Comunitaria
+### CAPITULO III. Ordenamiento Ecológico
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 6/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL SEXTO TRIBUNAL UNITARIO DEL QUINTO CIRCUITO, CON RESIDENCIA EN HERMOSILLO, SONORA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE INDICADOS”.]
 
@@ -6363,31 +6839,35 @@ Con independencia del turno previsto en el párrafo anterior, cada Juez de Contr
 
 El cambio de turno de los Jueces de control, deberá coordinarse con el objeto de que siempre se cumpla de manera eficiente con la función que desempeñan.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Conforme a su competencia, los juzgadores llevarán los siguientes libros de control:
+En la definición de la política ambiental, se considerarán los siguientes principios:
 
-I. Cuando actúen como Jueces de Distrito Especializados en el Sistema Penal Acusatorio: El libro dos “actos de investigación con control judicial”, previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la asignación de audiencias y asuntos, la rendición de estadística y los libros electrónicos de control en los Centros de Justicia Penal Federal; y
+I. Las autoridades del Estado y de los Municipios garantizarán el acceso de los ciudadanos a la información sobre el ambiente y la participación corresponsable de las personas y grupos sociales organizados en las materias que regula la presente Ley;
 
-II. En los demás casos: El libro seis “medidas precautorias y cautelares, así como técnicas de investigación”, previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+II. Deberá asegurarse el aprovechamiento sustentable de los ecosistemas, sus elementos y recursos naturales;
 
-### CAPÍTULO SEGUNDO. De la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana y la Atención a Víctimas
+III. Quien realice obras o actividades que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar y en su caso, reparar o compensar los daños que cause, de conformidad con las disposiciones que establece esta Ley, y demás disposiciones aplicables;
 
-###### Artículo 11.
+IV. La coordinación entre las dependencias y entidades de la administración pública del Estado y entre los tres niveles de gobierno; y
 
-El Secretariado Ejecutivo del Sistema en materia de prevención social de la violencia y la delincuencia, tendrá las siguientes atribuciones:
+V. Garantizar los espacios y mecanismos de participación de la sociedad.
 
-I. Elaborar en coordinación con las demás instancias del Sistema, las propuestas de contenido del Programa Estatal, y todos aquellos vinculados con esta materia;
+## TITULO TERCERO. DE LA POLITICA AMBIENTAL Y SUS INSTRUMENTOS
 
-II. Proponer al Consejo Estatal, políticas públicas, programas y acciones en materia de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+### CAPITULO I. Política Ambiental Estatal
 
-III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del propio Consejo Estatal y de su Presidente sobre la materia;
+###### ARTICULO 11.
 
-IV. Difundir la información estadística en materia de incidencia delictiva y de prevención social de la violencia y la delincuencia; y
+En la planeación del desarrollo integral y sustentable estatal y municipal serán considerados los principios de política ambiental que establece esta Ley y demás ordenamientos en la materia.
 
-V. Todas aquellas atribuciones conferidas al Secretariado Ejecutivo en la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones legales.
+Con fundamento en lo establecido en el Plan Estatal de Desarrollo y los principios a que se refiere el párrafo anterior, deberá elaborase el Programa Ambiental Estatal, los Programas de Ordenamiento Ecológico, los Planes de Desarrollo Urbano y los Planes de Control del Uso del Suelo.
 
-### CAPÍTULO TERCERO. De las Instancias de Coordinación
+En la programación y la realización de las acciones a cargo de las dependencias y entidades de la administración pública estatal y municipal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las Leyes confieran al gobierno estatal y municipal para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, deberán observarse los lineamientos de la política ambiental establecidos en el Plan Estatal de Desarrollo y los programas ambientales correspondientes.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+### CAPÍTULO II. Planeación Ambiental
 
 ###### Artículo 13.
 
@@ -6417,385 +6897,389 @@ Adicionalmente serán competentes para conocer de las solicitudes las solicitude
 
 En el supuesto a que se refiere la fracción III de este artículo los Jueces de control no actuarán habilitados como jueces de Distrito especializados en el sistema penal acusatorio, sino como jueces de Distrito con competencia para conocer de estos asuntos.
 
-###### Artículo 16.
+###### ARTICULO 16.
 
-Para la solicitud y resolución de los actos previstos en este Acuerdo, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará, según sea el caso, a lo dispuesto por el Código Nacional de Procedimientos Penales, la Ley de Seguridad Nacional, la Ley de la Policía Federal, el Código Federal de Procedimientos Penales y demás disposiciones aplicables.
+En la formulación de los programas de ordenamiento ecológico del territorio se deberán considerar los siguientes criterios:
 
-###### Artículo 17.
+I. La naturaleza y características de los ecosistemas existentes en el territorio estatal;
 
-El Centro Estatal tendrá como objetivos específicos los siguientes:
+II. La aptitud de cada zona, en función de sus recursos naturales, la distribución de la población e infraestructura y las actividades económicas predominantes;
 
-I. Proponer ante el Consejo Estatal y los Consejos Estatal y Municipales de Consulta y Participación Ciudadana, las políticas públicas en materia de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+III. Las alteraciones al ambiente existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
 
-II. Promover la Participación Ciudadana a través de programas y del observatorio ciudadano, con el objeto de avanzar hacia un modelo de sociedad más democrático y equitativo, logrando la participación de todos los actores sociales; y
+IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales; y
 
-III. Promover entre las autoridades Estatales y Municipales, para la implementación, ejecución y evaluación de políticas públicas tendentes a promover la Prevención Social de la Violencia y la Delincuencia en el Estado establecidas por el Consejo Estatal.
+V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades.
 
-###### Artículo 18.
+###### ARTICULO 17.
 
-El Centro Estatal estará integrado por:
+El ordenamiento ecológico del territorio se llevará a cabo conforme a lo dispuesto en la Ley General y esta Ley, a través de los siguientes programas de ordenamiento ecológico:
 
-I. Un Director General;
+I. Estatal, que abarca la totalidad del territorio de la Entidad;
 
-II. Un Director de Vinculación Institucional y Comités de Seguridad;
+II. Intermunicipal, cuya extensión rebase la de un Municipio; y
 
-III. Un Director del Sistema Estatal de Información sobre Seguridad Pública;
+III. Municipal, que abarcan la totalidad o parte de un Municipio.
 
-IV. Un Director de Prevención a las Adicciones; y
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
-V. Personal auxiliar y de apoyo necesario.
+###### ARTICULO 18.
 
-###### Artículo 19.
+El Instituto expedirá, formulará y evaluará el Programa de Ordenamiento Ecológico Estatal y demás programas de ordenamientos regionales, los cuales tendrán por objeto determinar:
 
-...
+I. La regionalización ecológica del territorio estatal y las diferentes políticas ambientales para el territorio del Estado, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos naturales; de las actividades productivas que en ella se desarrollen; así como de la ubicación y situación de los asentamientos humanos existentes; y
 
-En los supuestos que sea procedente, para todos los efectos legales a que haya lugar, la primera consulta que el solicitante haga de ese archivo electrónico deberá ser registrada automáticamente por el sistema, con lo que se tendrá por hecha la notificación de conformidad con el artículo 89 del Código Nacional de Procedimientos Penales o con el artículo 111 del Código Federal de Procedimientos Penales, según sea el caso.”
+II. Los lineamientos y estrategias ambientales para que se lleven a cabo las políticas de conservación, protección, restauración, rehabilitación y aprovechamiento sustentable de los recursos naturales y antropogénico, así como para la localización de actividades productivas, de servicios y de los asentamientos humanos.
 
-CUARTO. La Comisión de Creación de Nuevos Órganos adoptará las medidas necesarias para que los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, concluyan sus funciones sin asuntos pendientes a las veinticuatro horas del quince de agosto de dos mil dieciocho.
+###### ARTICULO 19.
 
-Los asuntos del conocimiento de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, que requieran atención en fecha posterior a la de conclusión de sus funciones, así como aquellos que no hayan sido archivados definitivamente, serán distribuidos equitativamente entre los Jueces de Control integrantes del Centro.
+El Ejecutivo Estatal publicará en el Periódico Oficial el Programa de Ordenamiento Ecológico del Estado y demás programas de ordenamiento ecológico regionales, previa aprobación del H. Congreso del Estado.
 
-QUINTO. Las solicitudes presentadas ante los Juzgados Primero y Segundo Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones que concluyen funciones y, en su caso, las acciones y diligencias que requieran atención posterior, deberán ser desahogadas conforme a las disposiciones con las que dieron inicio y por los juzgadores que actúan como jueces de Distrito con competencia para conocer de esos asuntos.
+###### ARTICULO 20.
 
-SEXTO. Se abroga el Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
+Los Municipios formularán y expedirán los programas de ordenamiento ecológico municipales. Asimismo, podrán promover su participación en la formulación de los ordenamientos ecológicos estatal e intermunicipales, así como de otros programas de ordenamiento que consideren conveniente, cuando éstos involucren al Municipio.
 
-SÉPTIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 8/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, para quedar como sigue:
+###### ARTICULO 21.
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15, del Acuerdo General 3/2017 del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+Los programas de ordenamiento ecológico municipal tendrán por objeto:
 
-…”
+I. Determinar las distintas áreas ecológicas que se localicen en la zona o región de que se trate, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales, y de las tecnologías utilizadas por los habitantes del área de que se trate;
 
-OCTAVO. Se reforma el artículo 5, párrafo primero del Acuerdo General 33/2016, del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Baja California, con residencia en las ciudades de Mexicali y Tijuana, para quedar como sigue:
+II. Regular, fuera de los centros de población que se ubiquen dentro de su circunscripción territorial, los usos del suelo, con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los elementos naturales y antropogénicos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos; y
 
-“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+III. Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los elementos naturales y antropogénicos dentro de los centros de población, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes.
 
-…”
+###### ARTICULO 22.
 
-NOVENO. Se reforma el artículo 5, párrafo primero del Acuerdo General 32/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Baja California Sur, para quedar como sigue:
+Los programas de ordenamiento ecológico del territorio, deberán contener por lo menos:
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+I. La delimitación del área o región a ordenar, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico integrado de sus condiciones ambientales y las tecnologías utilizadas por los habitantes del área;
 
-…”
+II. Un análisis del marco jurídico y administrativo enfocado al proceso de planeación territorial y sus implicaciones ambientales de por lo menos los últimos 30 años;
 
-DÉCIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 27/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en San Francisco de Campeche, para quedar como sigue:
+III. La valoración cuantitativa y cualitativa de la problemática ambiental de la zona a ordenar;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+IV. La determinación de las políticas ambientales y criterios de regulación, para la conservación, protección, restauración, rehabilitación y aprovechamiento sustentable de los recursos naturales en las áreas de ordenamiento; así como para la realización de actividades productivas y la ubicación de los asentamientos humanos;
 
-…”
+V. Los mecanismos de coordinación institucional y concertación social, que garanticen la participación del sector público, social y privado;
 
-DÉCIMO PRIMERO. Se reforma el artículo 5, párrafo primero del Acuerdo General 48/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, para quedar como sigue:
+VI. Los mecanismos de evaluación y seguimiento de los proyectos derivados del ordenamiento;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+VII. La definición de los valores y las metas del desarrollo del área a ordenar;
 
-…”
+VIII. La evaluación de oportunidades para el desarrollo de las actividades productivas y el establecimiento y crecimiento de los asentamientos, las posibilidades y consecuencias de la aplicación de tecnologías alternativas; y
 
-DÉCIMO SEGUNDO. Se reforma el artículo 5 del Acuerdo General 47/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, para quedar como sigue:
+IX. Los lineamientos para su ejecución, evaluación, seguimiento y actualización.
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+###### ARTICULO 23.
 
-DÉCIMO TERCERO. Se reforma el artículo 5 del Acuerdo General 44/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, para quedar como sigue:
+Los procedimientos bajo los cuáles serán elaborados, aprobados, expedidos, evaluados y modificados los programas de ordenamiento ecológico municipales, serán establecidos en el reglamento de esta Ley, conforme a las siguientes bases:
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+I. Existirá congruencia entre los programas de ordenamiento ecológico general del territorio, regionales estatal e intermunicipal, con los programas de ordenamiento ecológico municipal;
 
-DÉCIMO CUARTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 7/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre, para quedar como sigue:
+II. Cubrirán una extensión geográfica cuyas dimensiones permitan regular el uso del suelo, de conformidad con lo previsto de (sic) esta Ley;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+III. Las previsiones contenidas en dichos programas, mediante las cuales se regulen los usos del suelo, se referirán únicamente a las áreas localizadas fuera de los límites de los centros de población. Cuando en dichas áreas se pretenda la ampliación de un centro de población o la realización de proyectos de desarrollo urbano, se estará a lo que establezca el programa de ordenamiento ecológico respectivo, el cual sólo podrá modificarse mediante el procedimiento establecido en esta Ley y en su reglamento;
 
-…”
+IV. Las autoridades municipales harán compatibles el ordenamiento ecológico del territorio y la ordenación y regulación de los asentamientos humanos, incorporando las previsiones correspondientes en los programas de ordenamiento ecológico municipal, así como en los programas de desarrollo urbano que resulten aplicables.
 
-DÉCIMO QUINTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 3/2016 del Pleno del Consejo de la Judicatura Federal, que crea los centros de Justicia Penal Federal en la Ciudad de México, con sede en los reclusorios Oriente, Sur y Norte, para quedar como sigue:
+Asimismo, los programas de ordenamiento ecológico municipal preverán los mecanismos de coordinación entre las distintas autoridades involucradas, en la formulación y ejecución de los programas;
 
-“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+V. Cuando un programa de ordenamiento ecológico municipal incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa será elaborado y aprobado en forma conjunta por la autoridad federal competente, el Gobierno del Estado y de los Municipios, según corresponda.
 
-…
+Tratándose de áreas naturales protegidas de competencia estatal, los Gobiernos del Estado y de los municipios involucrados elaborarán y aprobarán en forma conjunta el programa referido; y
 
-…
+VI. Regularán los usos del suelo, incluyendo a ejidos, comunidades y pequeñas propiedades, expresando las motivaciones que lo justifiquen.
 
-…”
+###### ARTICULO 24.
 
-DÉCIMO SEXTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 52/2014 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Durango, para quedar como sigue:
+La formulación, expedición, ejecución y evaluación de los programas de ordenamientos ecológico estatal, intermunicipales y municipales se llevará a cabo de conformidad con lo dispuesto en la Ley de Planeación del Estado.
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+En la elaboración y revisión de los programas de ordenamiento ecológico deberá garantizarse la participación de la ciudadanía.
 
-…”
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-DÉCIMO SÉPTIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 31/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Guanajuato, para quedar como sigue:
+El Consejo Consultivo Estatal de Gestión Ambiental organizará talleres de consulta y validación de los programas de ordenamiento ecológico, en el que podrán participar los representantes de los diferentes sectores, según los mecanismos que se establezcan en el reglamento de la presente Ley.
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+###### ARTICULO 25.
 
-…”
+Los programas y sus correspondientes decretos aprobatorios serán inscritos en el Registro Público de la Propiedad, remitiéndose al apéndice respectivo los planos y demás documentos anexos integrantes de los mismos.
 
-DÉCIMO OCTAVO. Se reforma el artículo 5, párrafo primero del Acuerdo General 32/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Guerrero, con residencia en Acapulco, para quedar como sigue:
+###### ARTICULO 26.
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+Los programas de ordenamiento ecológico del territorio deberán ser revisados, y en su caso, actualizados conforme a los procedimientos establecidos para su formulación.
 
-…”
+###### ARTICULO 27.
 
-DÉCIMO NOVENO. Se reforma el artículo 5, párrafo primero del Acuerdo General 6/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, para quedar como sigue:
+Los programas de ordenamiento ecológico del territorio del Estado se harán del conocimiento de las autoridades federales para promover su observancia en el otorgamiento de permisos y autorizaciones de obras y actividades, así como en el aprovechamiento de recursos naturales de competencia federal.
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+###### ARTICULO 28.
 
-…”
+Los programas de ordenamiento ecológico estatal, intermunicipales y municipales deberán ser considerados en:
 
-VIGÉSIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 37/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Jalisco, con residencia en el Complejo Penitenciario Puente Grande, para quedar como sigue:
+I. Los planes y programas de desarrollo urbano estatal y municipales; así como en los programas de vivienda que formulen las autoridades estatales y municipales;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+II. Las autorizaciones en materia de impacto ambiental y en general, en el establecimiento de actividades productivas;
 
-…”
+III. La fundación de nuevos centros de población;
 
-VIGÉSIMO PRIMERO. Se reforma el artículo 5 del Acuerdo General 4/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, para quedar como sigue:
+IV. El aprovechamiento de los recursos naturales en el Estado;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+V. La creación de áreas naturales protegidas; y
 
-VIGÉSIMO SEGUNDO. Se reforma el artículo 5 del Acuerdo General 26/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, para quedar como sigue:
+VI. La ampliación o apertura de zonas agrícolas o de uso pecuario y en general en los cambios de uso de suelo fuera de los centros de población.
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+###### ARTICULO 29.
 
-VIGÉSIMO TERCERO. Se reforma el artículo 5 del Acuerdo General 5/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en la Ciudad de Cuernavaca, para quedar como sigue:
+Los programas de desarrollo urbano estatal y municipales, deberán considerar los siguientes criterios:
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+I. En las áreas que se determinen como aptas para uso industrial, próximas a áreas habitacionales, se promoverá solamente la instalación de industrias no riesgosas que utilicen tecnologías y combustibles que permitan que sus emisiones contaminantes estén por debajo de los límites máximos permisibles;
 
-VIGÉSIMO CUARTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 49/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en Tepic, para quedar como sigue:
+II. En la determinación de usos de suelo que definan los programas de desarrollo urbano respectivos, se considerarán las condiciones topográficas, climatológicas y meteorológicas, para asegurar la adecuada dispersión de contaminantes;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+III. La adecuada proporción que debe existir entre las áreas verdes y las construcciones destinadas;
 
-…”
+IV. La integración de inmuebles de alto valor histórico y cultural, con áreas verdes y zonas de convivencia social; y
 
-VIGÉSIMO QUINTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 10/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, para quedar como sigue:
+V. La poca disponibilidad de agua en el Estado.
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+###### ARTICULO 30.
 
-…”
+La evaluación del impacto ambiental es el procedimiento a través del cual el Instituto establece las condiciones a las que se sujetará la realización de obras o actividades que puedan causar daños al ambiente o rebasar los límites y condiciones establecidas en las disposiciones aplicables para proteger el ambiente; preservar y restaurar los ecosistemas, a fin de evitar o reducir y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente.
 
-VIGÉSIMO SEXTO. Se reforma el artículo 5 del Acuerdo General 46/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, para quedar como sigue:
+Los instrumentos de evaluación del impacto ambiental son el informe preventivo y el Manifiesto de Impacto Ambiental.
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-VIGÉSIMO SÉPTIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 51/2014 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Puebla, para quedar como sigue:
+Se requiere la autorización del Instituto en materia de impacto ambiental, previamente a la realización de las siguientes obras o actividades:
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+I. Aquéllas que no estando expresamente reservadas a la Federación en los términos de la Ley General, causen o puedan causar deterioro ambiental, rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación y protección del ambiente;
 
-…”
+II. Aquéllas que pretendan realizarse dentro o fuera de los límites de los centros de población, así como aquéllas que se ubiquen dentro de áreas naturales protegidas de competencia estatal o municipal;
 
-VIGÉSIMO OCTAVO. Se reforma el artículo 5, párrafo primero del Acuerdo General 33/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Querétaro, para quedar como sigue:
+III. Vías estatales y municipales de comunicación;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+IV. Zonas y parques industriales donde no se realicen actividades altamente riesgosas, incluidas las plantas agro-industriales estatales;
 
-…”
+V. Actividades consideradas riesgosas en los términos de esta Ley;
 
-VIGÉSIMO NOVENO. Se reforma el artículo 5, párrafo primero del Acuerdo General 11/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Quintana Roo, con residencia en Cancún, para quedar como sigue:
+VI. La construcción y operación de instalaciones de acopio, comercialización, tratamiento, reciclado, confinamiento, disposición final y transporte de residuos no peligrosos;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+VII. Las obras o actividades que puedan causar daños al ambiente, que estando reservadas a la Federación, se descentralicen a favor del Estado;
 
-…”
+VIII. Industria automotriz, de autopartes, alimenticia y de bebidas, textil, electrónica, mueblera, metal-mecánica, cerámica y artesanal, curtiduría, fundición, ladrilleras, del vidrio y vitivinícola;
 
-TRIGÉSIMO. Se reforma el artículo 5 del Acuerdo General 34/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de San Luis Potosí, para quedar como sigue:
+IX. Actividades comerciales y de servicios consideradas riesgosas;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+X. Fraccionamientos habitacionales;
 
-TRIGÉSIMO PRIMERO. Se reforma el artículo 5 del Acuerdo General 45/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, para quedar como sigue:
+XI. Centrales de abasto;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+XII. Empresas del sector comercial y servicios no consideradas riesgosas;
 
-TRIGÉSIMO SEGUNDO. Se reforma el artículo 5, párrafo primero del Acuerdo General 24/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, para quedar como sigue:
+XIII. Aprovechamiento de minerales o sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su desintegración y suelo, para la fabricación de materiales para la construcción u ornato; y
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+XIV. Microempresas industriales de los giros establecidos en el reglamento.
 
-…”
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-TRIGÉSIMO TERCERO. Se reforma el artículo 5 del Acuerdo General 9/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, para quedar como sigue:
+### CAPITULO IV. Evaluación del Impacto Ambiental
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
-TRIGÉSIMO CUARTO. Se reforma el artículo 5 del Acuerdo General 31/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa y Ciudad Victoria, para quedar como sigue:
+###### ARTICULO 31.
 
-“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+No estarán sujetas a la presentación de un Manifiesto de Impacto Ambiental, sino a un informe preventivo, las obras o actividades que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen deterioro ambiental, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación y protección del ambiente. El Instituto publicará una lista de aquellos giros que requieran de la presentación de un informe preventivo.
 
-TRIGÉSIMO QUINTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 50/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residencia en Apizaco, para quedar como sigue:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+###### ARTICULO 32.
 
-…”
+El Ejecutivo Estatal, a propuesta del Instituto, podrá suscribir convenios o acuerdos de coordinación con los Ayuntamientos, con el fin de que éstos evalúen las manifestaciones de impacto ambiental, en los siguientes casos:
 
-TRIGÉSIMO SEXTO. Se reforma el artículo 5 del Acuerdo General 25/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Veracruz de Ignacio de la Llave, con residencia en las ciudades de Xalapa y Coatzacoalcos, para quedar como sigue:
+I. Obras o actividades que estando reservadas a la Federación o al Estado, se descentralicen a favor del Municipio;
 
-“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+II. Obras o actividades que pretendan realizarse dentro de áreas naturales protegidas de competencia municipal;
 
-TRIGÉSIMO SÉPTIMO. Se reforma el artículo 5 del Acuerdo General 1/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Yucatán, para quedar como sigue:
+III. Vías municipales de comunicación;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+IV. Centrales de abastos;
 
-TRIGÉSIMO OCTAVO. Se reforma el artículo 5 del Acuerdo General 2/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Zacatecas, para quedar como sigue:
+V. Empresas del sector comercial y servicios no consideradas riesgosas;
 
-“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+VI. Aprovechamiento de minerales o sustancias no reservados a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su desintegración y suelo, para la fabricación de materiales para la construcción u ornato;
 
-TRIGÉSIMO NOVENO. Se reforman los numerales CUARTO, fracción I, párrafo segundo; y QUINTO QUATER; y se deroga el numeral SEGUNDO, fracción I, número 5, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+VII. Instalaciones dedicadas al acopio y comercialización de residuos no peligrosos; y
 
-“SEGUNDO. …
+VIII. Microempresas industriales de los giros establecidos en el reglamento.
 
-I. …
+En estos casos la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos, u otros que establezcan los reglamentos municipales y disposiciones que de ellos se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatible la política ambiental con la de desarrollo urbano y evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
 
-1. a 4. …
+###### ARTICULO 33.
 
-5. Derogado.
+El reglamento de esta Ley establecerá las obras o actividades exentas de la evaluación de impacto ambiental.
 
-6. …
+###### ARTICULO 34.
 
-II. a XXXII. ...”
+Una vez recibido el informe preventivo, la autoridad competente, en un plazo no mayor a 15 días hábiles, deberá comunicar a los interesados si necesita mayor información o bien emitirá la resolución respectiva. En caso de requerir mayor información la autoridad contará de 10 días hábiles más, contados a partir de que el promovente complemente la información solicitada, para emitir la resolución. Transcurrido el plazo señalado sin que la autoridad emita la comunicación correspondiente, se entenderá como no autorizada la realización de la obra o actividad.
 
-“CUARTO. …
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
-I. …
+###### ARTICULO 35.
 
-Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados de Distrito Especializados en Ejecución de Penas, que ejercerán jurisdicción territorial en toda la República Mexicana.
+Para obtener autorización en materia de impacto ambiental, los interesados, previo al inicio de cualquier obra o actividad, deberán presentar ante el Instituto, un informe preventivo o manifestación de impacto ambiental, la cual deberá contener, por lo menos, una descripción de los posibles efectos en el ambiente que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que lo conforman, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
 
-…
+Cuando se trate de actividades consideradas riesgosas en los términos de esta Ley, la manifestación de impacto ambiental deberá incluir el estudio de riesgo correspondiente.
 
-II. a XXXIII. …
+Si durante el proceso de evaluación de una manifestación de impacto ambiental se realizan (sic) modificación al proyecto, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la autoridad, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta Ley.
 
-QUINTO QUATER. El Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, está conformado por ocho jueces de Control y un Tribunal Unitario de Circuito, con jurisdicción en toda la República Mexicana.”
+La elaboración, los contenidos, las características y las modalidades del informe preventivo, las manifestaciones de impacto ambiental y los estudios de riesgo, serán establecidos por el reglamento de la presente Ley. Asimismo, los formatos de dichos documentos, deberán ser publicados en el Periódico Oficial del Estado.
 
-CUADRAGÉSIMO. Las firmas electrónicas que hayan sido expedidas con anterioridad a la entrada en vigor del presente Acuerdo seguirán vigentes.
+###### ARTICULO 36.
 
-CUADRAGÉSIMO PRIMERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo (sic) resulten competentes, llevarán a cabo las acciones para que los Jueces de Control que se integran al Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones inicien funciones en la fecha prevista en este Acuerdo.
+Una vez evaluada la manifestación de impacto ambiental, la autoridad competente emitirá, debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
 
-CUADRAGÉSIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+I. Autorizar la realización de la obra o actividad de que se trate;
 
-D.O.F. 14 DE AGOSTO DE 2018.
+II. Autorizar la realización de las obras y actividades de que se trate, condicionándose a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la ejecución de la obra o actividad, así como en caso de accidentes; o
 
-###### Artículo 20.
+III. Negar la autorización solicitada, cuando:
 
-La Participación Ciudadana y Comunitaria, organizada o no organizada en materia de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, es un derecho de las personas; la cual se hace efectiva a través de la actuación de éstas en las comunidades, en las redes vecinales, las organizaciones para la prevención social de la violencia y la delincuencia, en los Consejos Estatal y Municipales de Consulta y Participación Ciudadana, en el Centro Estatal o a través de cualquier otro mecanismo local o legal, creado en virtud de sus necesidades.
+a) Se contraponga a lo establecido en esta Ley, sus reglamentos, las normas oficiales mexicanas y demás disposiciones legales aplicables;
 
-###### Artículo 21.
+b) La obra o actividad de que se trate pueda propiciar que una o más especies sean declaradas como amenazadas, o en peligro de extinción, o cuando se afecte a una o más de dichas especies;
 
-La Participación Ciudadana y Comunitaria tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención social del delito, la cultura de la legalidad, la solución de conflictos a través del diálogo, la protección o autoprotección del delito, la denuncia ciudadana y en general, cualquier actividad que se relacione con la seguridad pública, a fin de sensibilizar a la ciudadanía sobre la importancia de colaborar con las autoridades, de manera individual u organizada, para el cumplimiento del objeto de esta Ley.
+c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate; o
 
-###### Artículo 22.
+d) Se determine fehacientemente que los impactos ambientales negativos significativos no son mitigables y ponen en riesgo inminente a la población y al ambiente.
 
-Se promoverá la participación de la ciudadanía a través de los Consejos Estatal y Municipales de Consulta y Participación Ciudadana, trabajando de manera coordinada, con absoluto apego a lo establecido en la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, y en las demás leyes aplicables.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-###### Artículo 23.
+El Instituto podrá exigir el otorgamiento de garantías respecto del cumplimiento de las condicionantes establecidas en la autorización, cuando durante la realización de las obras o actividades puedan producirse daños graves a los ecosistemas, el ambiente y a los recursos naturales.
 
-El Centro Estatal, promoverá la organización ciudadana por medio de redes vecinales, escolares, gremiales y profesionales, así como organizaciones para la prevención social de la violencia y la delincuencia para asegurar la participación activa de la comunidad en la planificación, gestión, evaluación y supervisión de las políticas de prevención social del delito.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-###### Artículo 24.
+El Instituto deberá emitir la resolución correspondiente en un plazo no mayor de 30 días hábiles, contados a partir de la integración completa del expediente. Transcurrido este plazo sin que la autoridad emita la resolución se entenderá que se niega la realización de la obra o actividad.
 
-El Consejo Estatal y los Consejos Municipales de Consulta y Participación Ciudadana, deberán dar rápida y adecuada respuesta a las temáticas planteadas a través de la participación comunitaria.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
-###### Artículo 25.
+###### ARTICULO 37.
 
-Los Observatorios son órganos interdisciplinarios e intersectoriales, desde donde la sociedad civil en interlocución con el gobierno, analizan información oficial y propia en materia de seguridad pública a fin de dirigir propuestas de política pública.
+El Instituto notificará, dentro de los 3 días hábiles siguientes a la recepción del instrumento de evaluación, a la autoridad ambiental municipal, que ha recibido la manifestación de impacto ambiental o el informe preventivo respectivo, a fin de que ésta manifieste lo que a su derecho convenga, respecto de obras o actividades de competencia estatal, cuando las mismas pretendan realizarse en el ámbito de su circunscripción territorial.
 
-El funcionamiento y organización de los observatorios será regulado por su propio reglamento.
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2005)</small>
 
-###### Artículo 26.
+El Municipio deberá emitir su opinión en un término de 7 días hábiles para el informe preventivo y 12 días hábiles para el manifiesto de impacto ambiental, pasado éste sin que el Municipio haya respondido, se entenderá que no existe objeción respecto de la realización de la obra o actividad.
 
-El Secretario Ejecutivo del Consejo Estatal, por medio del Centro Estatal, implementará el número de Observatorios, que estimen necesarios para contribuir a transformar desde la sociedad civil, las condiciones de seguridad, justicia y legalidad en el Estado, a través de una labor de articulación y observación ciudadana.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-###### Artículo 27.
+###### ARTICULO 38.
 
-El Secretariado Ejecutivo, deberá proporcionar los recursos económicos para el sostenimiento de los Observatorios.
+La autorización que en materia de impacto ambiental emita el Instituto, no obligará en forma alguna a la autoridad municipal para expedir las autorizaciones que le corresponda en el ámbito de su competencia.
 
-###### Artículo 28.
+###### ARTICULO 39.
 
-Para cumplir con sus propósitos y despachar los asuntos que le competen, el Observatorio Ciudadano se constituye por:
+Una vez que la autoridad competente reciba una manifestación de impacto ambiental e integre el expediente respectivo, lo hará inmediatamente del conocimiento de la ciudadanía a través de un listado que aparecerá en sus oficinas y que contendrá: nombre, ubicación y naturaleza del proyecto, con el fin de que pueda ser consultado por cualquier persona por un término de diez días hábiles.
 
-I. Una Coordinación General de Proyectos;
+Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
 
-II. Un Secretario Técnico;
+La autoridad competente, a solicitud de cualquier persona y dentro del término referido en el primer párrafo de este artículo podrá llevar a cabo, una consulta pública, conforme a las siguientes bases:
 
-III. Un Comité Técnico; y
+I. Cuando se trate de las siguientes obras o actividades:
 
-IV. Una Asamblea General.
+a) Que prevea el aprovechamiento masivo de los recursos naturales del Estado;
 
-###### Artículo 29.
+b) Que pretendan realizarse dentro de áreas naturales protegidas de competencia estatal o municipal;
 
-Los programas de las instituciones que conforman el Consejo Estatal deberán diseñarse considerando la participación interinstitucional con enfoque multidisciplinario y se orientarán a contrarrestar, nulificar o disminuir los factores de riesgo y criminógenos; sus consecuencias y el daño e impacto social.
+c) Actividades consideradas riesgosas en los términos de esta Ley;
 
-Los programas tenderán a lograr un efecto multiplicador, fomentando la participación de las autoridades de los tres niveles de gobierno y de las organizaciones civiles, académicas y comunitarias en el diagnóstico, diseño, implementación y evaluación de las políticas públicas y de la prevención social de la violencia y la delincuencia.
+d) Rellenos sanitarios;
 
-###### Artículo 30.
+e) Plantas de tratamiento de aguas residuales destinadas a la prestación de un servicio público; y
 
-A fin de articular al conjunto de políticas sociales en una política de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana que cuente con un mecanismo de actualización permanente para su evaluación y control; los programas que desarrollen las instituciones que conforman el Consejo Estatal en materia de seguridad pública, educación, salud, desarrollo social, desarrollo integral de la familia, procuración e impartición de justicia y cultura de la legalidad, serán evaluados conjuntamente con periodicidad semestral, con la asesoría de profesionales y académicos especialistas en la materia.
+f) Las demás que señale el Consejo Consultivo Estatal de Gestión Ambiental.
 
-### CAPÍTULO QUINTO. De la Creación y Funcionamiento de los Observatorios Ciudadanos de Seguridad Pública
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-###### Artículo 31.
+Los resultados de la consulta pública deberán ser tomados en consideración por el Instituto para establecer las condiciones a que deberá sujetarse la obra o actividad sujeta a evaluación de impacto ambiental, en caso contrario la autoridad deberá justificar la improcedencia de dichos resultados.
 
-En caso de que los resultados de algunos de los programas mencionados en el artículo anterior resulten poco eficaces, se replantearán las estrategias y acciones a partir de un diagnóstico de la inseguridad local, para determinar sus causas y el impacto de las respuestas vigentes, así como conocer las manifestaciones de la delincuencia y sus lugares privilegiados, e identificar los factores de riesgo y discernir las posibles orientaciones de intervención.
+###### ARTICULO 40.
 
-###### Artículo 32.
+Al evaluar la manifestación de impacto ambiental, la autoridad competente, se ajustará, entre otros aspectos, a los programas de ordenamiento ecológico del territorio, así como las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
 
-Para el cumplimiento de sus objetivos, los Consejos Estatal y Municipales de Consulta y Participación Ciudadana, podrán invitar a sus sesiones a personal especializado en las materias que inciden en la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, tanto del sector público como del privado, así como gestionar las consultas necesarias para obtener la asesoría, información, propuestas u opiniones que requieran para fundamentar sus decisiones.
+###### ARTICULO 41.
 
-###### Artículo 33.
+Los responsables de la realización de las obras o actividades reguladas en esta sección, deberán sujetarse a las condiciones y limitaciones que señale la autorización respectiva.
 
-El Programa Estatal deberá contribuir al objetivo general de proveer a las personas protección en las áreas de libertad, seguridad y justicia, con base en objetivos precisos, claros y medibles, a través de:
+###### ARTICULO 42.
 
-I. La incorporación de la prevención social de la violencia y la delincuencia como elemento central de las prioridades en la calidad de vida de las personas;
+Los promoventes de la realización de las obras y actividades, serán responsables ante la autoridad competente, de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que presenten.
 
-II. El diagnóstico de seguridad a través del análisis sistemático de los problemas de la delincuencia, sus causas, los factores de riesgo y las consecuencias;
+Los prestadores de servicios en materia de impacto ambiental declararán bajo protesta de decir verdad que en la elaboración de los estudios correspondientes en materia de impacto ambiental, se utilizaron las mejores técnicas y metodologías existentes para la realización de dichos estudios, así como que no existe manipulación y ocultamiento de la información; y que las medidas propuestas para la prevención y mitigación de impactos ambientales son las más efectivas.
 
-III. Los diagnósticos participativos;
+###### ARTICULO 43.
 
-IV. Los ámbitos y grupos prioritarios que deben ser atendidos;
+La regulación de los prestadores de servicios en materia de impacto ambiental estará prevista en el reglamento de la presente Ley.
 
-V. El fomento de la capacitación de los servidores públicos cuyas atribuciones se encuentren relacionadas con la materia objeto de la presente ley, lo cual incluirá la realización de seminarios, estudios e investigaciones o programas de formación entre otros, para asegurar que sus intervenciones sean apropiadas, eficientes, eficaces y sostenibles;
+###### ARTICULO 44.
 
-VI. La movilización y construcción de una serie de acciones interinstitucionales que tengan capacidad para abordar las causas y que incluyan a la sociedad civil;
+El Instituto fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos, a quienes participen en dichos programas.
 
-VII. El desarrollo de estrategias de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana; y
+### CAPITULO V. Autorregulación y Auditoría Ambiental
 
-VIII. El monitoreo y evaluación continuos.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-###### Artículo 34.
+###### ARTICULO 45.
 
-Las autoridades de los gobiernos Estatal y Municipal en el ámbito de sus respectivas atribuciones, deberán incluir a la Prevención Social de la violencia y la delincuencia en sus planes y programas de gobierno.
+Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental respetando la legislación vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-###### Artículo 35.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-Para la ejecución del Programa Estatal, el Centro Estatal, elaborará un programa de trabajo anual que contenga objetivos específicos, prioridades temáticas y una lista de acciones y de medidas complementarias.
+El Instituto en el ámbito su competencia inducirá o concertará:
 
-###### Artículo 36.
+I. El desarrollo de los procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidas con cámaras de la industria, comercio, y otras actividades productivas; organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
-Cualquier programa, estrategia o acción en materia de prevención social de la violencia y la delincuencia con participación ciudadana, tendrá que ser aprobada y autorizada en los términos establecidos por esta Ley.
+II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstos por éstas, las cuales serán establecidas de común acuerdo con los particulares o con asociaciones u organizaciones que los representen;
 
-###### Artículo 37.
+III. Promover el establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren o restauren el medio ambiente; y
 
-El Centro Estatal, evaluará trimestralmente los resultados del Programa Estatal, con objeto de continuar su aplicación o modificar sus objetivos y acciones.
+IV. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
 
-###### Artículo 38.
+###### ARTICULO 46.
 
-Los integrantes del Consejo Estatal enviarán al Secretariado Técnico un reporte de los resultados de los programas institucionales que en materia de prevención tengan las dependencias a su cargo semestralmente o cuando el Consejo Estatal se los solicite.
+El desarrollo de la auditoría ambiental es de carácter estrictamente voluntario y no limita las facultades que esta Ley confiere a la autoridad en materia de inspección y vigilancia.
 
-###### Artículo 39.
+###### ARTICULO 47.
 
-Los Programas Estatal y Municipales, en materia de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, deberán cubrirse con cargo a sus respectivos presupuestos y sujetarse a las bases que establecen la presente Ley, la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones legales aplicables.
+El Instituto tendrá a su cargo la administración de un fondo ambiental, el cual será creado de conformidad con la legislación ambiental respectiva, cuyos recursos se destinarán a:
 
-###### Artículo 40.
+I. La realización de acciones de preservación y restauración de la biodiversidad;
 
-El Estado y los Municipios preverán en sus respectivos presupuestos recursos para el diagnóstico, diseño, ejecución y evaluación de programas y acciones de Prevención Social de la violencia y la delincuencia con Participación Ciudadana derivados de la presente Ley.
+II. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley; y
 
-###### Artículo 41.
+III. El desarrollo de programas de educación e investigación en materia ambiental.
 
-El Centro Estatal propondrá al Secretariado Ejecutivo del Sistema Estatal, el desarrollo de mecanismos de financiamiento público para proyectos de la sociedad civil, de los municipios, de los observatorios ciudadanos o todos aquellos que tengan incidencia directa en temas prioritarios de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, con base en los lineamientos que emita para tales efectos el Consejo Estatal, asegurando la coordinación de acciones con otras instancias para evitar la duplicidad en el ejercicio de los recursos.
+### CAPITULO VI. Fondo Ambiental
 
-###### Artículo 42.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
 
-Los programas, proyectos y demás acciones en cumplimiento a lo dispuesto en esta Ley y en razón de la competencia de las dependencias de la Administración Pública Estatal, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en los presupuestos respectivos federales y estatales.
+###### ARTICULO 48.
 
-###### Artículo 43.
+El Reglamento de la presente Ley señalará las reglas conforme a las cuales funcionará y se administrará el fondo mencionado en el presente capítulo.
 
-El incumplimiento en el ejercicio de las obligaciones que se derivan de la presente Ley, será determinado y sancionado de conformidad con la legislación aplicable en materia de responsabilidad de los servidores públicos, o bien según la naturaleza de la infracción.
+###### ARTICULO 49.
 
-T R A N S I T O R I O S :
+El Instituto en coordinación con el Instituto de Educación de Aguascalientes y de manera vinculada con la Secretaría de Medio Ambiente y Recursos Naturales, promoverán la creación de un Programa Estatal de Educación Ambiental. Para ello, promoverán y reforzarán la incorporación de actividades didácticas y contenidos en materia ambiental y manejo sustentable de recursos naturales dentro de los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud, como una práctica educativa integrada, continua y permanente. Asimismo, adoptarán las medidas y estrategias necesarias para propiciar el fortalecimiento y la formación de nuevos valores y actitudes en relación con el entorno, particularmente, en lo relativo a pautas de consumo, utilizando para ello los medios de comunicación masiva.
 
-### CAPÍTULO SEXTO. De la Coordinación de Programas Institucionales
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
 
-### CAPÍTULO SÉPTIMO. De la Asesoría y Capacitación
+El Instituto, en coordinación con el Instituto de Educación de Aguascalientes, fomentará y otorgará diversos incentivos a fin de que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, establezcan programas académicos con el objeto de fomentar la formación de especialistas en la materia, la capacitación de personal técnico y directivo, además de la investigación de las causas y fenómenos ambientales.
 
-### CAPÍTULO OCTAVO. Del Programa Estatal para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana
+Las autoridades competentes promoverán y reforzarán que los programas de educación técnica, licenciatura y posgrado, contengan en sus procesos curriculares los conocimientos y habilidades necesarias, a efecto de que los egresados de los mismos hayan adquirido las aptitudes que prevengan, mitiguen y corrijan los impactos ambientales que cause el ejercicio de su práctica profesional.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2005)</small>
+
+### CAPITULO VII. Investigación y Educación Ambiental
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 23/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE OAXACA, CON RESIDENCIA EN SAN BARTOLO COYOTEPEC; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
 
