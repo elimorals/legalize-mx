@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-la-comision-reguladora-de-energia-117157"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-11-11"
-last_updated: "2018-01-30"
+last_updated: "2018-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117157&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-10-06"
 
 CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 11 de noviembre de 2016.
 
@@ -145,19 +145,21 @@ Objeto.
 
 El presente Código tiene por objeto orientar la actuación de los Servidores Públicos de la Comisión con el propósito de que en el ejercicio de sus funciones observen apego a los principios, valores y reglas de integridad, generales e institucionales que deben distinguir el servicio público en este órgano regulador en materia energética.
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 2.
 
 Visión.
 
-La Comisión es un Órgano Regulador Coordinado en Materia Energética que de manera autónoma, transparente y eficiente orienta los intereses de los usuarios y sujetos regulados al desarrollo de un mercado energético competitivo y sostenible, en beneficio de la sociedad.
+La visión de la Comisión es ser un organismo transparente, eficiente y altamente calificado, cuyas decisiones autónomas establecen un entorno regulatorio eficaz, participativo y confiable para el sector energético en México.
 
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 3.
 
 Misión.
 
-La misión de la Comisión es regular de manera transparente, imparcial y eficiente las actividades de los mercados energéticos que son de su competencia, a fin de generar certidumbre que aliente la inversión productiva, fomentar una sana competencia, propiciar una adecuada cobertura y atender a la confiabilidad, calidad y seguridad en el suministro y la prestación de los servicios a precios competitivos, en beneficio de la sociedad.
+La misión de la Comisión es garantizar las condiciones para que la disponibilidad de energéticos en México sea la requerida, con calidad y a precios competitivos.
 
 ###### Artículo 4.
 
@@ -219,21 +221,35 @@ Los valores contenidos en el Código de Ética son el interés público, el resp
 
 El personal de la Comisión debe anteponer en el desempeño de su empleo, cargo, comisión o funciones estos valores contenidos en el Código de Ética.
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 8.
 
-Valores institucionales.
+Valores.
 
-Los valores institucionales que en el ejercicio de sus funciones deberá observar el personal de la Comisión son:
+Los Valores establecidos por la Comisión son:
 
-a) Rectitud: consisten en desempeñar el empleo, cargo o comisión bajo cauces legales y morales, de forma íntegra, diligente, responsable y de buena fe;
+a) Competencia. Conocimientos, habilidades y experiencia que desarrollan las personas para comprender y ejecutar sus tareas diarias.
 
-b) Honestidad: consiste en decir lo que se hace y hacer lo que se dice. Ser honesto implica comprender la verdad y actuar con sinceridad, respeto a uno mismo y respeto a los demás;
+b) Compromiso. Responsabilidad asumida para cumplir los objetivos trazados en tiempo y forma.
 
-c) Imparcialidad: entendida como la falta de designio anticipado o de prevención en favor o en contra de alguien o algo, que permite juzgar o proceder con rectitud. Ser imparcial consiste en actuar con objetividad al momento de conocer, atender, diligenciar y resolver los asuntos que se tienen encomendados en razón del empleo, cargo o comisión;
+c) Empatía. Comprender la posición y circunstancias del público en general, de nuestros sujetos regulados y colaboradores.
 
-d) Respeto: entendido como el reconocimiento y la aceptación que se tiene de sí mismo y de los demás. Respetar consiste en tratar con consideración a las personas, reconociendo, aceptando, apreciando y valorando sus cualidades, como base de toda convivencia positiva, y
+d) Trabajo en Equipo. Colaboración de todos los miembros de la Comisión, con base en una comunicación fluida y efectiva a todos los niveles y en todas las direcciones.
 
-e) Transparencia: consiste en actuar de manera responsable, clara y sin arbitrariedad. Implica garantizar la máxima publicidad y disponibilidad de la información y el derecho de toda persona de acceder a la información en posesión de la Comisión, siempre y cuando no se encuentre restringida por razones legales.
+e) Excelencia. Resultado de un trabajo constante y con altos estándares de calidad en lo individual y colectivo.
+
+f) Integridad y Honestidad. Actuar conforme a derecho y al interés público, con ética y transparencia.
+
+g) Pragmatismo. Practicidad en la realización de las actividades diarias de la Comisión, con el propósito de lograr un trabajo ágil y efectivo.
+
+h) Respeto. Garantizar espacios libres de violencia en donde se asegure la libertad de expresión y se promueva la diversidad y la tolerancia hacia los demás.
+
+i) Creatividad. Generación constante de nuevas ideas para la solución de problemas y la mejora continua.
+
+j) Determinación. Asumir responsabilidades de manera proactiva, con arrojo y perseverancia.
+
+k) Capacidad de Respuesta. Tomar decisiones y comunicar de manera oportuna los riesgos y necesidades, con el fin de anticiparse a los problemas y generar soluciones efectivas.
 
 ## TÍTULO TERCERO. De la Conducta de los Servidores Públicos de la Comisión
 
@@ -640,3 +656,13 @@ QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 SEXTO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SÉPTIMO. Inscríbase el presente Acuerdo bajo el número A/081/2017, en el registro a que se refieren los artículos 22, fracción XXVI, inciso a) y 25, fracción X, de la Ley de los Órganos Reguladores Coordinados en Materia Energética y 4 y 16, del Reglamento Interno de la Comisión Reguladora de Energía.
+
+D.O.F. 14 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+CUARTO. Inscríbase el presente Acuerdo bajo el número A/042/2018, en el Registro a que se refieren los artículos 22, fracción XXVI, inciso a) y 25, fracción X, de la Ley de los Órganos Reguladores Coordinados en Materia Energética y 4 y 16 del Reglamento Interno de la Comisión Reguladora de Energía.
