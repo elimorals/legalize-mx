@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2018-12-07"
+last_updated: "2018-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SIN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE DICIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE DICIEMBRE DE 2018.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -791,7 +791,7 @@ Ninguna Comisión se integrará con Diputados de un sólo Partido.
 
 Serán Comisiones Permanentes las siguientes:
 
-l. De Puntos Constitucionales y Gobernación;
+I. De Puntos Constitucionales y Gobernación;
 
 II. De Hacienda Pública y Administración;
 
@@ -841,9 +841,9 @@ XXII. De Protocolo y Régimen Orgánico Interior;
 
 XXIII. De Transparencia, Anticorrupción y Participación Ciudadana;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018)</small>
+(REFORMADA, P.O. 7 DE DICIEMBRE DE 2018) (F. DE E., P.O. 14 DE DICIEMBRE DE 2018)
 
-XXIV. De Asuntos Hidráulicos;
+XXIV. De Recursos Hidráulicos.
 
 XXV. De Vivienda;
 
@@ -2511,4 +2511,6 @@ P.O. 7 DE DICIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 25 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA EL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA".]
 
-ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado Sinaloa".
+> <small>(F. DE E., P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación.
