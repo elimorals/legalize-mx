@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2015-del-pleno-del-consejo-de-la-106090"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-27"
-last_updated: "2018-09-27"
+last_updated: "2018-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106090&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-02-23"
 
 ACUERDO GENERAL 8/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de febrero de 2015.
 
@@ -148,6 +148,10 @@ Cuando en un Circuito se instale un nuevo tribunal, los magistrados que lo integ
 ###### Artículo 9.
 
 Habrán Plenos especializados por materia, cuando en un Circuito funcionen tribunales especializados, y sin especialización en todos los demás casos.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2018)</small>
+
+En los Circuitos Judiciales en los que se establezcan Plenos especializados por materia, conforme a lo previsto en el párrafo anterior, los magistrados de los tribunales semiespecializados y sin especialización que funcionen en ese Circuito, deberán formar parte de éstos, lo que se hará del conocimiento de la Comisión de Creación de Nuevos Órganos.
 
 ###### Artículo 10.
 
@@ -600,3 +604,11 @@ D.O.F. 27 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente Acuerdo entrará en vigor el uno de octubre de dos mil dieciocho.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en los portales del Consejo de la Judicatura Federal y del Sistema Electrónico de Plenos de Circuito en Internet.
+
+D.O.F. 14 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 54/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR 8/2015, RESPECTO A LA INTEGRACIÓN DE LOS PLENOS DE CIRCUITO ESPECIALIZADOS POR MATERIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el Portal del Consejo de la Judicatura Federal en Internet.
