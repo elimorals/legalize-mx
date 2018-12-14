@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2018-12-11"
+last_updated: "2018-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -173,7 +173,9 @@ XVI. Resolver con opinión de la Secretaría de Gobierno, las controversias de c
 
 XVII. Tomar la protesta de quienes sean titulares de las secretarías del ramo;
 
-XVIII. Otorgar los estímulos e incentivos fiscales de carácter general, así como los apoyos específicos que sean necesarios para atraer inversiones a la entidad, propuestos por quienes sean titulares de la Secretaría de Finanzas y de la Secretaría de Economía y Turismo y sean votados por el Consejo de Estado, y
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Otorgar los estímulos e incentivos fiscales de carácter general, así como los apoyos específicos que sean necesarios para atraer inversiones a la entidad, propuestos por quienes sean titulares de la Secretaría de Finanzas y de la Secretaría de Economía y sean votados por el Consejo de Estado, y
 
 XIX. Las que con ese carácter le confieran la Constitución Federal, la Constitución Política del Estado y las leyes aplicables.
 
@@ -289,6 +291,8 @@ Las ausencias temporales de quienes dirijan las dependencias serán suplidas sie
 
 ### CAPÍTULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 154, PUBLICADO EN EL P.O. 14 DE DICIEMBRE DE 2018, CUANDO ALGUNA DISPOSICIÓN LEGAL O ADMINISTRATIVA HAGA MENCIÓN O REFERENCIA A LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y MOVILIDAD, O SECRETARÍA DE MEDIO AMBIENTE, EN MATERIA DE VIVIENDA Y ORDENAMIENTO TERRITORIAL RELACIONADO CON VIVIENDA, AGUAS Y REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA DE LOS ASENTAMIENTOS HUMANOS, SEGÚN CORRESPONDA, DEBERÁ ENTENDERSE HECHA A LA SECRETARÍA DE VIVIENDA Y ORDENAMIENTO TERRITORIAL.]</small>
+
 ###### ARTÍCULO 18.
 
 Para el estudio, planeación y ejecución de las políticas públicas, el Poder Ejecutivo contará con las siguientes dependencias:
@@ -299,7 +303,9 @@ II. Secretaría de Finanzas;
 
 III. Secretaría de Seguridad Pública;
 
-IV. Secretaría de Economía y Turismo;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+IV. Secretaría de Economía;
 
 V. Secretaría de Educación;
 
@@ -319,9 +325,21 @@ X. Secretaría de Medio Ambiente;
 
 XI. Secretaría de Fiscalización y Rendición de Cuentas;
 
-XII. Secretaría de Cultura, y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2018)</small>
 
-XIII. Secretaría del Trabajo.
+XII. Secretaría de Cultura;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+XIII. Secretaría del Trabajo;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+XIV. Secretaría de Vivienda y Ordenamiento Territorial, y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+XV. Secretaría de Turismo y Desarrollo de Pueblos Mágicos.
 
 Quienes sean titulares de las secretarías integrarán el gabinete legal.
 
@@ -635,9 +653,11 @@ XXVIII. Asumir el mando único de la policía preventiva de los municipios, en l
 
 XXIX. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 24.
 
-A la Secretaría de Economía y Turismo le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Economía le corresponde el despacho de los siguientes asuntos:
 
 I. Formular, coordinar y evaluar las políticas, planes, programas y proyectos relacionados con el desarrollo, promoción, fomento económico y competitividad, de conformidad con el Plan Estatal de Desarrollo;
 
@@ -681,21 +701,21 @@ XX. Elaborar e implementar, en coordinación con las instancias competentes de l
 
 XXI. Ejecutar las acciones necesarias que permitan al Estado llevar a cabo análisis prospectivos y retrospectivos referentes a la situación socioeconómica, demográfica, y otras características de la población en el contexto estatal, mediante la elaboración de estudios, investigaciones y proyección de escenarios de carácter cuantitativos y cualitativos, con el fin de coadyuvar a la planeación, diseño y seguimiento de estrategias, programas, proyectos y acciones en el Estado;
 
-XXII. Formular, ejecutar y coordinar la política de desarrollo y promoción de la actividad turística estatal;
+XXII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXIII. Promover las zonas de desarrollo turístico en la entidad y apoyar el desarrollo de su infraestructura, estimulando la participación de los sectores público, social y privado;
+XXIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXIV. Establecer programas permanentes para alentar el turismo interno y para promover en el mundo las riquezas paleontológicas e históricas y la singularidad de la naturaleza del Estado, como un mecanismo de atracción de visitantes especializados;
+XXIV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXV. Instrumentar programas con los prestadores de servicios turísticos para incrementar el flujo de turistas a la entidad, además de realizar las visitas de verificación que corresponda;
+XXV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXVI. Estimular la creación de organismos especializados para la promoción y difusión de programas de desarrollo turístico, así como apoyar la formación de asociaciones, patronatos, comités y demás organismos que auspicien el turismo social y los proyectos turísticos en el medio rural;
+XXVI. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXVII. Impulsar las actividades culturales, eventos y espectáculos que difundan los atractivos turísticos y de negocios del Estado;
+XXVII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXVIII. Participar en acciones coordinadas con las dependencias competentes para auxiliar a los turistas en casos de emergencia o desastre;
+XXVIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXIX. Administrar y, en su caso, proponer la concesión de los servicios comerciales y de apoyo al turista, así como promover su mejora, ampliación y modernización, y
+XXIX. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
 XXX. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
@@ -895,13 +915,17 @@ XX. Tener a su cargo el Secretariado Ejecutivo del Sistema Estatal para la Garan
 
 XXI. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 154, PUBLICADO EN EL P.O. 14 DE DICIEMBRE DE 2018, CUANDO ALGUNA DISPOSICIÓN LEGAL O ADMINISTRATIVA HAGA MENCIÓN O REFERENCIA A LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y MOVILIDAD, O SECRETARÍA DE MEDIO AMBIENTE, EN MATERIA DE VIVIENDA Y ORDENAMIENTO TERRITORIAL RELACIONADO CON VIVIENDA, AGUAS Y REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA DE LOS ASENTAMIENTOS HUMANOS, SEGÚN CORRESPONDA, DEBERÁ ENTENDERSE HECHA A LA SECRETARÍA DE VIVIENDA Y ORDENAMIENTO TERRITORIAL.]</small>
+
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 29.
 
 A la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, le corresponde el despacho de los siguientes asuntos:
 
-I. Formular, ejecutar y evaluar en el ámbito de su competencia las políticas públicas en materia de desarrollo urbano, ordenamiento territorial, obras públicas, transporte y vivienda;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+I. Formular, ejecutar y evaluar en el ámbito de su competencia las políticas públicas en materia de desarrollo urbano, ordenamiento territorial, obras públicas y transporte;
 
 II. Coordinar y gestionar la inversión pública en infraestructura estatal y proponer políticas para determinar la idoneidad de obras públicas, así como para la licitación y contratación de las mismas;
 
@@ -937,7 +961,9 @@ XVII. Promover y apoyar en coordinación con los municipios, el ordenamiento ter
 
 XVIII. Promover la creación de reservas territoriales estratégicas y demás acciones necesarias para la construcción de vivienda, obras públicas, vialidades y áreas verdes;
 
-XIX. Formular, actualizar, ejecutar y evaluar los programas estatales de Ordenamiento Territorial y Desarrollo Urbano, de Transporte y Movilidad Sustentable y de Vivienda, así como brindar asesoría y apoyo que le sea requerido por las autoridades municipales de la entidad para la formulación e instrumentación de los programas municipales en estas materias;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+XIX. Formular, actualizar, ejecutar y evaluar los programas estatales de ordenamiento territorial y desarrollo urbano, y de transporte y movilidad sustentable, así como brindar asesoría y apoyo que le sea requerido por las autoridades municipales de la entidad para la formulación e instrumentación de los programas municipales en estas materias;
 
 XX. Formular y emitir los dictámenes de congruencia de los programas y planes de desarrollo urbano municipal, así como los dictámenes de impacto urbano de los proyectos y obras públicas y privadas en los términos que fijen las disposiciones legales aplicables;
 
@@ -947,15 +973,17 @@ XXII. Participar en el ámbito de su competencia, en la elaboración, planeació
 
 XXIII. Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos federales y estatales que se dispongan para tal efecto;
 
-XXIV. Promover y/o efectuar acciones tendientes a la regularización de la tenencia de la tierra urbana y rústica, y de los asentamientos humanos en coordinación con las dependencias o entidades competentes; así como tomar las medidas para subsanar los que ilegalmente ocurran;
+XXIV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXV. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos;
+XXV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXVI. Establecer y vigilar el cumplimiento de los programas de adquisición de vivienda en coordinación, en su caso, con los ayuntamientos y promover el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa;
+XXVI. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
 XXVII. Imponer las sanciones que procedan por la infracción a los ordenamientos legales correspondientes, y
 
 XXVIII. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 154, PUBLICADO EN EL P.O. 14 DE DICIEMBRE DE 2018, CUANDO ALGUNA DISPOSICIÓN LEGAL O ADMINISTRATIVA HAGA MENCIÓN O REFERENCIA A LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y MOVILIDAD, O SECRETARÍA DE MEDIO AMBIENTE, EN MATERIA DE VIVIENDA Y ORDENAMIENTO TERRITORIAL RELACIONADO CON VIVIENDA, AGUAS Y REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA DE LOS ASENTAMIENTOS HUMANOS, SEGÚN CORRESPONDA, DEBERÁ ENTENDERSE HECHA A LA SECRETARÍA DE VIVIENDA Y ORDENAMIENTO TERRITORIAL.]</small>
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
 
@@ -993,7 +1021,9 @@ XIV. Evaluar la calidad del ambiente y promover el sistema de información ambie
 
 XV. Promover el desarrollo y uso de las tecnologías para la protección y en su caso, el aprovechamiento sustentable de los ecosistemas, así como para el uso de fuentes alternativas de energía;
 
-XVI. Dirigir estudios, trabajos y servicios meteorológicos y climatológicos, y colaborar en la elaboración de los estudios hidrológicos e hidrogeológicos;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+XVI. Dirigir estudios, trabajos y servicios meteorológicos y climatológicos;
 
 XVII. Coordinar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el uso sustentable de recursos naturales;
 
@@ -1005,15 +1035,15 @@ XX. Promover la determinación de criterios para el establecimiento de los estí
 
 XXI. Integrar proyectos autofinanciables o susceptibles de concesión en materia de medio ambiente;
 
-XXII. Regular el aprovechamiento y abastecimiento de cuerpos de agua de competencia estatal, y apoyar a las instancias municipales en la prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento de conformidad con las disposiciones aplicables;
+XXII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXIII. Coordinar a los organismos estatales que ofrezcan el servicio de agua potable y alcantarillado, y en su caso, convenir con uno o más municipios la prestación de servicios en áreas metropolitanas;
+XXIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXIV. Promover políticas e implementar acciones de coordinación institucional que propicien el mejoramiento, operación y uso eficiente de los sistemas de agua potable, drenaje, alcantarillado y saneamiento en zonas urbanas y rurales;
+XXIV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXV. Asesorar y otorgar la asistencia técnica para la creación y funcionamiento de los organismos descentralizados estatales y municipales, cuando estos últimos lo soliciten, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, de conformidad a la legislación aplicable en la materia;
+XXV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
-XXVI. Favorecer las buenas prácticas en materia de cuidado del agua, ahorro y uso responsable de la misma y contribuir en la remediación de este líquido;
+XXVI. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2018)
 
 XXVII. Aplicar las disposiciones relativas a la protección y trato digno de los animales, dentro de la esfera de su competencia, y
 
@@ -1169,6 +1199,90 @@ XVII. Ejecutar los convenios y acuerdos que en materia del trabajo suscriba el P
 
 XVIII. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 BIS. A la Secretaría de Vivienda y Ordenamiento Territorial, le corresponde el despacho de los siguientes asuntos:
+
+I. Formular, ejecutar y evaluar en el ámbito de su competencia las políticas públicas en materia de vivienda y ordenamiento territorial relacionado con vivienda, aguas y regularización de la tenencia de la tierra de los asentamientos humanos;
+
+II. Formular, actualizar, ejecutar y evaluar los programas estatales de vivienda, así como brindar asesoría y apoyo que le sea requerido por las autoridades municipales de la entidad para la formulación e instrumentación de los programas municipales en esta materia;
+
+III. Promover y/o efectuar acciones tendientes a la regularización de la tenencia de la tierra urbana y rústica, y de los asentamientos humanos en coordinación con las dependencias o entidades competentes; así como tomar las medidas para subsanar los que ilegalmente ocurran;
+
+IV. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos;
+
+V. Establecer y vigilar el cumplimiento de los programas de adquisición de vivienda en coordinación, en su caso, con los ayuntamientos y promover el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa;
+
+VI. Promover y apoyar el ordenamiento territorial en relación con vivienda, aguas y regularización de la tenencia de la tierra de los asentamientos humanos;
+
+VII. Coadyuvar con la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad en la formulación y actualización del programa estatal de ordenamiento territorial y desarrollo urbano;
+
+VIII. Coordinar a los organismos estatales que ofrezcan el servicio de agua potable y alcantarillado, y en su caso, convenir con uno o más municipios la prestación de servicios en áreas metropolitanas;
+
+IX. Colaborar e impulsar estudios en materia hidrológica, que garanticen el cuidado del agua y la posibilidad de su aprovechamiento para el consumo humano, agropecuario e industrial;
+
+X. Promover políticas e implementar acciones de coordinación institucional que propicien el mejoramiento, operación y uso eficiente de los sistemas de agua potable, drenaje, alcantarillado y saneamiento en zonas urbanas y rurales;
+
+XI. Asesorar y otorgar la asistencia técnica para la creación y funcionamiento de los organismos descentralizados estatales y municipales, cuando estos últimos lo soliciten, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, de conformidad a la legislación aplicable en la materia;
+
+XII. Favorecer las buenas prácticas en materia de cuidado del agua, ahorro y uso responsable de la misma y contribuir en la remediación de este líquido;
+
+XIII. Regular el aprovechamiento y abastecimiento de cuerpos de agua de competencia estatal, y apoyar a las instancias municipales en la prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento de conformidad con las disposiciones aplicables;
+
+XIV. Imponer las sanciones que procedan por la infracción a los ordenamientos legales correspondientes, y
+
+XV. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 TER. A la Secretaría de Turismo y Desarrollo de Pueblos Mágicos, le corresponde el despacho de los siguientes asuntos:
+
+I. Formular, ejecutar y coordinar la política de desarrollo y promoción de la actividad turística estatal;
+
+II. Promover las zonas de desarrollo turístico en la entidad y apoyar el desarrollo de su infraestructura, estimulando la participación de los sectores público, social y privado;
+
+III. Establecer programas permanentes para alentar el turismo interno y para promover en el mundo las riquezas paleontológicas e históricas y la singularidad de la naturaleza del Estado, como un mecanismo de atracción de visitantes especializados;
+
+IV. Auxiliarse de la Secretaría de Economía para alentar el turismo de negocios y generar alternativas de esparcimiento para este tipo de visitantes;
+
+V. Promover aspectos de calidad y competitividad en los programas de desarrollo turístico;
+
+VI. Instrumentar programas con los prestadores de servicios turísticos para incrementar el flujo de turistas a la entidad;
+
+VII. Estimular la creación de organismos especializados para la promoción y difusión de programas de desarrollo turístico, así como apoyar la formación de asociaciones, patronatos, comités y demás organismos que auspicien el turismo social, los proyectos turísticos en los pueblos mágicos y en el medio rural;
+
+VIII. Promover la capacitación de personal especializado con la finalidad de elevar la calidad en la prestación de los servicios turísticos;
+
+IX. Recopilar, actualizar y difundir la información estadística relacionada con el turismo estatal, así como aquella de orientación a turistas;
+
+X. Brindar asistencia al turista en sus relaciones con prestadores de servicios;
+
+XI. Participar en acciones coordinadas con las dependencias competentes para auxiliar a los turistas en casos de emergencia o desastre;
+
+XII. Realizar visitas de verificación a los prestadores de servicios turísticos;
+
+XIII. En coordinación con la Secretaría de Cultura, promover y difundir la cultura del Estado, en beneficio del turismo de la entidad;
+
+XIV. Impulsar las actividades culturales, eventos y espectáculos que difundan los atractivos turísticos y de negocios del Estado;
+
+XV. Administrar y, en su caso, proponer la concesión de los servicios comerciales y de apoyo al turista, así como promover su mejora, ampliación y modernización;
+
+XVI. Desarrollar e impulsar el aprovechamiento racional de los recursos y atractivos naturales y culturales de los pueblos mágicos del Estado;
+
+XVII. Gestionar el fortalecimiento de la calidad de los servicios, la innovación y el desarrollo de los productos turísticos de los pueblos mágicos del Estado;
+
+XVIII. Promover y facilitar el intercambio y desarrollo turístico en el exterior de los pueblos mágicos del Estado;
+
+XIX. Emitir opinión ante la Secretaría de Economía, en aquellos casos en que la inversión concurra en proyectos de desarrollo turísticos o en el establecimiento de servicios turísticos en pueblos mágicos;
+
+XX. Coordinar y supervisar la implementación, el seguimiento y aplicación de los programas regionales referidos a pueblos mágicos;
+
+XXI. Implementar políticas públicas que fomenten el desarrollo turístico de los pueblos mágicos del Estado;
+
+XXII. Promover y apoyar el desarrollo de la infraestructura turística en los pueblos mágicos y estimular la participación de los sectores social y privado, y
+
+XXIII. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
+
 ###### ARTÍCULO 34.
 
 Los titulares de los órganos internos de control de las dependencias y entidades de la administración pública y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al buen desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
@@ -1310,3 +1424,33 @@ P.O. 11 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 94.- SE MODIFICA EL CONTENIDO DE LAS FRACCIONES I Y XIV DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 154.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. En un plazo no mayor a ciento veinte días, contado a partir de la entrada en vigor de este decreto, se deberá efectuar la armonización de la legislación estatal correspondiente.
+
+TERCERO. Los reglamentos interiores de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, de la Secretaría de Economía y de la Secretaría de Medio Ambiente, deberán adecuarse en un plazo no mayor a noventa días a partir de la entrada en vigor del presente decreto.
+
+CUARTO. Los reglamentos interiores de la Secretaría de Vivienda y Ordenamiento Territorial y de la Secretaría de Turismo y Desarrollo de Pueblos Mágicos, se deberán expedir dentro de los noventa días siguientes al nombramiento de sus titulares.
+
+QUINTO. Cuando alguna disposición legal o administrativa haga mención o referencia a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, o Secretaría de Medio Ambiente, en materia de vivienda y ordenamiento territorial relacionado con vivienda, aguas y regularización de la tenencia de la tierra de los asentamientos humanos, según corresponda, deberá entenderse hecha a la Secretaría de Vivienda y Ordenamiento Territorial.
+
+SEXTO. Cuando alguna disposición legal o administrativa haga mención o referencia a la Secretaría de Economía y Turismo, en materia de turismo, deberá entenderse hecha a la Secretaría de Turismo y Desarrollo de Pueblos Mágicos.
+
+SÉPTIMO. La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, así como la Secretaría de Medio Ambiente, en coordinación con la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas deberán transferir, a la Secretaría de Vivienda y Ordenamiento Territorial que se crea, las unidades administrativas a las que correspondan los asuntos que en el presente decreto se le asignan, incluyendo, en su caso, sus recursos materiales, humanos y financieros que tengan asignados, en un plazo no mayor a noventa días contados a partir de la publicación del presente decreto, mediante la entrega recepción correspondiente, sin que ello implique que se deba ampliar el presupuesto de egresos aprobado para el presente año.
+
+OCTAVO. La Secretaría de Economía, en coordinación con la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, deberá transferir, a la Secretaría de Turismo y Desarrollo de Pueblos Mágicos, las unidades administrativas en materia de turismo con las que cuenta la dependencia mencionada en primer lugar, incluyendo, en su caso, sus recursos materiales, humanos y financieros que tengan asignados, en un plazo no mayor a noventa días contados a partir de la publicación del presente decreto, mediante la entrega recepción correspondiente, sin que ello implique que se deba ampliar el presupuesto de egresos aprobado para el presente año.
+
+NOVENO. La Secretaría de Finanzas, en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+DÉCIMO. Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+DÉCIMO PRIMERO. Las unidades administrativas que se transfieran en términos de los artículos transitorios anteriores, conservarán las estructuras y facultades establecidas en los respectivos reglamentos interiores, permaneciendo vigentes y en funcionamiento las disposiciones que las regulan hasta en tanto se expidan las reformas legales, administrativas y reglamentos correspondientes.
+
+DÉCIMO SEGUNDO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, la Secretaría de Medio Ambiente, la Secretaría de Economía y Turismo, respecto de los asuntos cuya responsabilidad se transfiere a las dependencias que con el presente decreto se crean, serán tramitados hasta su conclusión por las unidades administrativas a las que corresponda conforme a los respectivos reglamentos interiores, de acuerdo a lo establecido en el transitorio anterior.
+
+DÉCIMO TERCERO. El Ejecutivo del Estado, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente decreto, propondrá al Congreso del Estado las reformas a la legislación estatal que se requieran para la modificación de la estructura de la administración pública paraestatal, o en su caso, emitirá los decretos administrativos conducentes, según corresponda, de conformidad con los artículos 14 y 15 de la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza.
