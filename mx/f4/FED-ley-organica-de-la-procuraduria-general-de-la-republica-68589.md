@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-68589"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-29"
-last_updated: "2016-07-18"
+last_updated: "2018-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-05-27"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, PUBLICADA EN EL D.O.F. DE 14 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -35,7 +37,7 @@ DECRETO
 
 "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 
-SE EXPIDE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA;.
+SE EXPIDE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA;...
 
 Artículo Primero.- Se expide la Ley Orgánica de la Procuraduría General de la República.
 
@@ -1606,3 +1608,107 @@ Segundo.- Para la operación de la Fiscalía Especializada en materia de delitos
 Tercero.- La Cámara de Diputados realizará las acciones necesarias para proveer de recursos a la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
 
 Cuarto.- Todas las disposiciones que se opongan al presente Decreto quedarán derogadas a partir de su entrada en vigor.
+
+D.O.F. 14 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Una vez publicado, el Congreso General de los Estados Unidos Mexicanos deberá emitir la declaratoria expresa de la entrada en vigor de la autonomía constitucional de la Fiscalía General de la República.
+
+Segundo. Se abroga la Ley Orgánica de la Procuraduría General de la República.
+
+Tercero. Los casos que se encuentren en trámite a la entrada en vigor del presente Decreto serán resueltos en las unidades a las que están adscritos, conforme a las normas vigentes al momento de su inicio. Lo anterior, sin perjuicio de que se adscriban a nuevas unidades en tanto se avanza en la transición orgánica de la Fiscalía General de la República.
+
+Cuarto. Todos los convenios y actos jurídicos celebrados por la Procuraduría General de la República se entenderán como vigentes y obligarán en sus términos a la Fiscalía General de la República o a la Consejería Jurídica del Ejecutivo Federal, según corresponda, de conformidad con lo establecido en el artículo Décimo Séptimo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Quinto. Quedan derogadas todas las disposiciones que se contrapongan a la presente Ley y al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral del 10 de febrero de 2014, mediante la cual se creó la Fiscalía General de la República.
+
+Sexto. Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su titular respectivamente, en los términos de sus funciones constitucionales vigentes. Las referencias normativas a los agentes del Ministerio Público se entenderán referidas a las y los Fiscales en los términos de esta Ley.
+
+Séptimo. La Cámara de Diputados, tomando en cuenta el principio de austeridad, contemplará en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2019 y subsecuentes, la asignación y garantía de la suficiencia presupuestal para la instalación de la Fiscalía General de la República y la ejecución de la planeación estratégica de transición, conforme a lo establecido en el Transitorio Décimo Segundo.
+
+La Cámara de Diputados tendrá un plazo no mayor a noventa días para designar al titular del Órgano Interno de Control de la Fiscalía General de la República.
+
+Octavo. A la entrada en vigor del presente Decreto, los bienes inmuebles, muebles y demás recursos materiales, financieros y presupuestales, en propiedad y/o posesión de la Procuraduría General de la República, pasarán a la Fiscalía General de la República o a la Consejería Jurídica del Ejecutivo Federal según corresponda, en términos del artículo Décimo Séptimo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014. En lo relativo a bienes en posesión o servicios contratados para los fines de la Procuraduría General de la República, obtenidos por arrendamiento, comodato o cualquier otro contrato mediante el cual se haya transmitido la posesión o propalado dichos servicios, continuarán siendo utilizados por la Fiscalía General de la República.
+
+La Secretaría de Hacienda y Crédito Público, en un plazo no mayor de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá efectuar las gestiones y trámites correspondientes, para dar cumplimiento cabal al presente artículo.
+
+Noveno. A partir de su nombramiento, la persona titular de la Fiscalía General de la República, contará con un plazo de un año para definir la estrategia de transición, a partir de la realización de un inventario integral y un diagnóstico de los recursos financieros, humanos y materiales, casos pendientes, procesos de colaboración e inteligencia y cualquier otro insumo que considere necesario para la integración de un Plan Estratégico de Transición. Priorizará en orden de importancia el establecimiento del Servicio Profesional de Carrera y su Estatuto, la consolidación del sistema de información y análisis estratégico para la función fiscal, así como la reestructura y definición de los órganos administrativos y los sustantivos para la función fiscal.
+
+El Plan comprenderá como mínimo los aspectos siguientes:
+
+I. Diagnóstico, ubicación geográfica y análisis de los fenómenos criminales que perseguirá; así como la definición del Plan de Persecución Penal y la operación y despliegue territorial del modelo de investigación criminal;
+
+II. Definición de objetivos, estrategias, acciones, metas e indicadores de resultados del proceso de transición, con base en criterios de gradualidad que consideren los tipos y fenómenos delictivos, unidades operativas centrales y estatales, regiones geográficas u otros;
+
+III. Estrategia específica respecto al personal en activo y al reclutamiento de nuevos talentos, que contemple a su vez esquemas de retiro, liquidación, certificación, capacitación, desarrollo y gestión del cambio;
+
+IV. Estrategia para el diseño y activación de la nueva estructura organizativa; así como del proceso de cierre de las estructuras y procesos previos;
+
+V. Estrategia de liquidación de casos, que contemple el inventario de casos en trámite; así como su situación jurídica, tanto del sistema inquisitivo mixto como del acusatorio, para garantizar su adecuada atención; así como la identificación de casos de alto impacto social o de violaciones graves a los derechos humanos. Los casos pendientes de resolución relacionados con violaciones graves de derechos humanos o corrupción no podrán ser liquidados. La Unidad de Transición determinará la forma de atención y trámite a estos casos hasta su conclusión;
+
+VI. Estrategia de transparencia, participación ciudadana y rendición de cuentas del proceso de transición que asegure la publicidad y mecanismos necesarios para el seguimiento, colaboración y vigilancia;
+
+VII. Estrategia de colaboración y articulación con otras instituciones con las que requiera coordinarse para llevar a cabo la función fiscal, tales como las instituciones de seguridad pública, Secretaría de Hacienda y Crédito Público, la Procuraduría Federal de Protección al Medio Ambiente, la Comisión Ejecutiva de Atención a Víctimas, y demás instituciones, y
+
+VIII. El plazo para su instrumentación.
+
+Décimo. Para los efectos de los artículos 40 y 41 de la Ley que se crea en virtud del presente Decreto, el procedimiento para la designación de los primeros Consejeros Ciudadanos iniciará dentro de los treinta días hábiles siguientes a la designación del Fiscal General de la República; observando la siguiente fórmula de escalonamiento: dos personas integrantes que durarán tres años en sus encargos, dos personas integrantes que durarán cuatro años en sus encargos y una persona integrante que durará cinco años en su encargo.
+
+Dentro del mismo plazo, la persona titular de la Fiscalía General de la República, nombrará al titular del Centro de Formación y Servicio Profesional de Carrera. Asimismo, integrará una Unidad de Transición, que dependerá orgánicamente de él y que tendrá como objetivo la coordinación, implementación y evaluación del Plan Estratégico de Transición. Estará integrada por un grupo interdisciplinario de expertos con reconocido prestigio, experiencia y conocimiento en gestión de instituciones públicas o privadas, diseño institucional, evaluación e implementación de políticas públicas y proceso penal acusatorio.
+
+La Unidad se organizará a su vez en una sub-unidad de Clausura de la Procuraduría General de la República y una sub-unidad de Diseño e Instalación de la Fiscalía General de la República, las cuales, desde sus respectivas competencias, deberán generar esquemas de coordinación para el traslado y liquidación de recursos humanos, materiales y financieros, así como para la liquidación y transferencia de los casos pendientes de resolución.
+
+La Unidad hará del conocimiento del Fiscal General de la República las necesidades presupuestales y de cualquier índole para cumplir con sus objetivos. El Consejo Ciudadano tendrá la facultad de supervisar el proceso de transición establecido en dicho Plan.
+
+La persona titular de la Fiscalía General de la República destinará los recursos financieros, humanos y materiales necesarios para el cumplimiento del Plan Estratégico de Transición.
+
+Décimo Primero. En cumplimiento del artículo Décimo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de la República pasarán a la Fiscalía General de la República, en términos de la presente Ley.
+
+Los lineamientos que expida deberán contener reglas para priorizar la implantación de las áreas estratégicas de la Fiscalía, así como las de análisis e información. Asimismo, deberá priorizarse la unificación de los sistemas informáticos.
+
+Décimo Segundo. El proceso de transición del personal de la Procuraduría General de la República a la Fiscalía General de la República se llevará a cabo de acuerdo con el Plan Estratégico de Transición y será coordinado por la Unidad a cargo. Este proceso deberá llevarse a cabo conforme a los siguientes lineamientos:
+
+I. El personal administrativo, de confianza y de base adscrito a la Procuraduría General de la República conservará los derechos que haya adquirido en virtud de su relación laboral, con independencia de la denominación que corresponda a sus actividades;
+
+II. El personal adscrito a la Procuraduría General de la República que a la fecha de entrada en vigor del presente Decreto tenga nombramiento, continuará en la función que desempeña y tendrá derecho a participar en el proceso de selección para acceder al Servicio Profesional de Carrera de la Fiscalía General de la República en términos de los principios establecidos en la presente Ley. Para ello, se garantizará su acceso a los programas de formación, entrenamiento, fortalecimiento de capacidades y evaluación durante el periodo de transición, en los términos establecidos en los lineamientos provisionales;
+
+III. En tanto se instale el Servicio Profesional de Carrera de la Fiscalía General de la República, la profesionalización, el régimen disciplinario, la certificación y el régimen de seguridad social de las policías, peritos y analistas deberá cumplir con el régimen previsto por la Ley General del Sistema Nacional de Seguridad Pública;
+
+IV. El Plan Estratégico de Transición garantizará condiciones dignas y apegadas a la ley para la liquidación del personal adscrito a la Procuraduría General de la República que decida concluir su relación laboral o no acceder al Servicio Profesional de Carrera reglamentado en la presente Ley. El personal que no apruebe los procesos de selección del Servicio Profesional de Carrera dejará de formar parte de la Fiscalía General de la República;
+
+V. La persona titular de la Fiscalía General de la República, a través de quien dirija la Unidad de Transición presentará un informe al Congreso de la Unión que incluya un diagnóstico integral de la institución, un Programa de Transición, el modelo financiero y el presupuesto estimado de los recursos necesarios para implementar los cambios organizacionales y de personal requerido por parte de la Fiscalía General de la República. En el Programa de Transición, el titular de dicha Unidad incluirá un plan detallado de las etapas que comprenderán las acciones de transformación institucional y la estrategia de administración del cambio institucional que se llevarán a cabo para la operación de la Fiscalía General de la República.
+
+Décimo Tercero. Transcurrido un año a partir del nombramiento de la persona titular de la Fiscalía General de la República, y a la luz del Plan Estratégico de Transición y la experiencia acumulada en el proceso de transición, la o el Fiscal General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico de la Fiscalía General de la República. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales, de la legislación secundaria o de las reformas regulatorias necesarias para la operación óptima del modelo de Fiscalía General de la República, propuesto en la presente Ley. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
+
+La convocatoria comprenderá temas relacionados con la función fiscal y de persecución penal, el modelo de investigación criminal, la competencia, el servicio profesional de carrera, los órganos ciudadanos, los derechos humanos y la atención a víctimas; el régimen de responsabilidades de los servidores públicos de la Fiscalía, revisión de la estructura institucional, así como el régimen de transición, entre otros. Esta consulta deberá garantizar condiciones de apertura, transparencia y participación ciudadana de organizaciones de la sociedad civil, instituciones públicas, académicas y representantes del sector privado. Con base en las consultas realizadas, el Congreso de la Unión analizará y propondrá las reformas constitucionales y legales para el óptimo funcionamiento de la Fiscalía General de la República.
+
+Décimo Cuarto. La persona titular de la Fiscalía General de la República deberá emitir un Plan de Persecución Penal Provisional dentro de un plazo máximo de noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+A partir de su nombramiento, la persona titular de la Fiscalía General de la República contará con un plazo de hasta un año para formular el Plan de Persecución Penal, en términos del artículo 6 de la Ley materia del presente Decreto.
+
+Décimo Quinto. En tanto se expiden las disposiciones reglamentarias del Servicio Profesional de Carrera, la persona titular de la Fiscalía General de la República deberá emitir normas generales relativas al desarrollo y operación de dicho servicio en coordinación con el titular del Centro de Formación y Servicio Profesional de Carrera.
+
+El Centro de Formación y Servicio Profesional de Carrera deberá establecer planes y programas tendientes a capacitar al nuevo personal a efecto de dar cumplimiento a las funciones asignadas a cada uno en esta Ley.
+
+Décimo Sexto. Fiscales, policías de investigación, analistas, auxiliares y peritos, así como el personal profesional, técnico y administrativo que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de la República se someterán a las disposiciones reglamentarias del Servicio Profesional de Carrera que se expidan para tal efecto.
+
+Décimo Séptimo. Dentro del Plan Estratégico de Transición se establecerá un mecanismo expeditivo para establecer el sistema central de recepción y canalización de los asuntos nuevos que tenga que conocer la Fiscalía General de la República, a que se refiere el artículo 53 de esta Ley.
+
+Décimo Octavo. La persona titular de la Fiscalía General de la República contará con un plazo máximo de 180 días para nombrar a las personas titulares de las Fiscalías Especializadas en los términos señalados en la Constitución Política de los Estados Unidos Mexicanos o en esta Ley según sea el caso, verificando el cumplimiento de los requisitos de elegibilidad para su designación marcados en ambas disposiciones normativas.
+
+Décimo Noveno. Una vez instaladas las Fiscalías Especializadas, sus respectivos titulares, de inmediato solicitarán a la persona titular de la Fiscalía General de la República, la asignación del personal que integrará las nuevas unidades fiscales, conforme marca esta Ley. En el proceso de asignación, se observarán, entre otros, los principios de igualdad, equidad y no discriminación entre mujeres y hombres.
+
+Vigésimo. La Fiscalía General de la República a través de la Coordinación de Métodos de Investigación, contará con un plazo no mayor a 18 meses a partir de la entrada en vigor del presente Decreto, para la expedición de los Lineamientos Generales que regulen la operación de la Base Nacional de Información Genética, así como su instauración.
+
+Vigésimo Primero. La creación de las unidades a que se refiere esta Ley se hará con el Acuerdo del Fiscal General de la República.
+
+Vigésimo Segundo. Los casos relativos a delitos relacionados con hechos de corrupción, así como cualquier otro delito cometido por un servidor público federal en el desempeño de un empleo, cargo o comisión, que hayan sido iniciadas con anterioridad a la entrada en vigor del presente Decreto por la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción, deberán continuar su curso correspondiente en la misma hasta su conclusión.
+
+Una vez concluidos los casos pendientes en la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción, quedará sin vigencia el Acuerdo A/011/14 por el que se crea la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción y se establecen sus atribuciones.
+
+La Fiscalía Especializada en Combate a la Corrupción podrá atraer cualquiera de los casos de corrupción cuyo trámite hubiese iniciado con anterioridad a la asignación de su gestión, cuando así lo considere pertinente su titular.
+
+Las denuncias de los casos relacionados con hechos de corrupción que hayan ingresado a la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción, serán remitidas en su totalidad a la Fiscalía Especializada en Combate a la Corrupción.
+
+Vigésimo Tercero. La persona titular de la Fiscalía General de la República será el Presidente de la Junta de Gobierno del Instituto Nacional de Ciencias Penales (INACIPE). El régimen de relación que existía entre el INACIPE y la Procuraduría General de la República se mantendrá con la nueva Fiscalía en términos de lo dispuesto en la normatividad aplicable en tanto no se reforme o se expida un nuevo estatuto orgánico del INACIPE.
