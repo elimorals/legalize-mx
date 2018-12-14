@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2018-06-01"
+last_updated: "2018-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -963,11 +963,13 @@ No podrán dejarse de tomar en consideración las Iniciativas de los Poderes Eje
 
 Para la aprobación de toda ley o decreto se necesita, previa su discusión, el voto de la mayoría de los Diputados, salvo los casos expresamente exceptuados por esta Constitución.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2018)</small>
 
 ###### Art. 71.
 
-Aprobada la ley o decreto se enviará al Gobernador para su publicación. Si éste lo devolviere con observaciones dentro de diez días volverá a ser examinado, y si fuere aprobado de nuevo por dos tercios de los Diputados presentes pasará al Gobernador, quien lo publicará sin demora. Transcurrido aquél término sin que el Ejecutivo haga observaciones se tendrá por sancionada la ley o decreto, y deberá ser publicado en un plazo máximo de veinte días, contados a partir de la fecha en que lo haya recibido. Tratándose de reformas a esta Constitución o a las leyes señaladas en su artículo 152, el Ejecutivo contará con un plazo máximo de cinco días para publicarlas.
+Aprobada la ley o decreto se enviará al Gobernador para su publicación. Si éste lo devolviere con observaciones dentro de diez días hábiles volverá a ser examinado, y si fuere aprobado de nuevo por dos tercios de los Diputados presentes pasará al Gobernador, quien lo publicará sin demora. Transcurrido aquél término sin que el Ejecutivo haga observaciones se tendrá por sancionada la ley o decreto, y deberá ser publicado en un plazo máximo de veinte días, contados a partir de la fecha en que lo haya recibido. Tratándose de reformas a esta Constitución o a las leyes señaladas en su artículo 152, el Ejecutivo contará con un plazo máximo de cinco días para publicarlas.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
 Cuando el Ejecutivo incumpla con los plazos previstos en el presente artículo, la ley o decreto será considerado promulgado, sin que se requiera refrendo, y el Presidente del Congreso ordenará dentro de los diez días naturales siguientes su publicación en el Periódico Oficial del Estado debiéndose hacer al día siguiente.
 
@@ -1145,7 +1147,9 @@ IX.- Comunicar al Congreso y al Poder Judicial del Estado, las Leyes Federales, 
 
 X.- Publicar, circular, cumplir y hacer cumplir las leyes y demás disposiciones del Congreso del Estado; y ordenar y reglamentar en lo administrativo, lo necesario para su ejecución.
 
-XI.- Hacer observaciones a cualesquiera ley o disposición del Congreso dentro de los diez primeros días contados desde su recibo.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2018)</small>
+
+XI.- Hacer observaciones a cualesquiera ley o disposición del Congreso dentro de los diez primeros días hábiles contados desde su recibo;
 
 XII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
@@ -3167,13 +3171,13 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 205.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 3 DE ENERO DE 1979.
 
@@ -3599,7 +3603,7 @@ P.O. 31 DE OCTUBRE DE 2003.
 
 DECRETO NÚMERO 12, QUE REFORMA EL ARTÍCULO 57.
 
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE OCTUBRE DE 2003.
 
@@ -4083,6 +4087,12 @@ P.O. 21 DE MAYO DE 2018.
 
 P.O. 1 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 400. SE REFORMA EL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 400. SE REFORMA EL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 029. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 71 PRIMER PÁRRAFO Y 85 FRACCIÓN XI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
