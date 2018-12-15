@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2018-10-13"
+last_updated: "2018-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2018.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -1555,9 +1555,11 @@ XV.- Coordinar la inversión pública estatal y municipal para los efectos de la
 
 XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2018)</small>
 
-XVII.- Presentar un informe escrito al Congreso del Estado, el segundo domingo del mes de noviembre de cada año de su ejercicio constitucional, en el que manifieste el estado general que guarde la Administración Pública del Estado, salvo el último año de ejercicio, cuando dicho informe se presentará el tercer domingo del mes de agosto, en sesión extraordinaria del Congreso. Al presentar su informe, el Gobernador del Estado podrá además dirigir al Pleno un mensaje alusivo. En todo caso, el Presidente del Congreso, en términos generales y concisos, realizará la intervención que corresponda;
+XVII.- Asistir a entregar un informe escrito al Congreso del Estado, el segundo domingo del mes de noviembre de cada año de su ejercicio constitucional, en el que manifieste el estado general que guarde la Administración Pública del Estado, salvo el último año de ejercicio, cuando dicho informe se presentará el tercer domingo del mes de agosto, en sesión extraordinaria del Congreso.
+
+Al presentar su informe, el Gobernador del Estado dirigirá al Pleno un mensaje consistente en una síntesis del informe que se presenta. Enseguida, el Presidente del Congreso, en términos generales y concisos, acusará recibo del informe presentado. Posterior a la intervención del Presidente del Congreso, cada fracción parlamentaria hará un posicionamiento sobre el mensaje pronunciado por el Titular del Poder Ejecutivo. Al término de las intervenciones de las fracciones parlamentarias, el Gobernador del Estado podrá hacer uso de su derecho de contrarréplica.
 
 (REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013) (F. DE E., P.O. 24 DE MAYO DE 2014)
 
@@ -1577,7 +1579,7 @@ XXI.- Las demás que le confiera esta Constitución y la Federal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2014)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION PUBLICA DEL ESTADO
+### CAPITULO III. DE LA ADMINISTRACION PÚBLICA DEL ESTADO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -3678,3 +3680,15 @@ Se derogan todas las disposiciones que se opongan al contenido del presente Decr
 ###### ARTÍCULO CUARTO.
 
 De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 15 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 011 POR EL QUE "SE REFORMA LA FRACCIÓN XVII, DEL ARTÍCULO 51, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 31 de diciembre de 2018.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente decreto.
+
+TERCERO.- El Congreso del Estado tendrá un plazo de 180 días para realizar las adecuaciones correspondientes a la legislación secundaria.
+
+CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
