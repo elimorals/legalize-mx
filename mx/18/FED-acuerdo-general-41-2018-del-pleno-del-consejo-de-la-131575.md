@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-41-2018-del-pleno-del-consejo-de-la-131575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-11-14"
-last_updated: "2018-11-14"
+last_updated: "2018-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-11-06"
 ---
 # ACUERDO GENERAL 41/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL CAMBIO DE DENOMINACION Y COMPETENCIA DE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL Y LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; LA CONCLUSION DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMUN DE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; EL CAMBIO DE DENOMINACION DE LA OFICINA DE CORRESPONDENCIA COMUN DE LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL MISMO ESTADO Y RESIDENCIA; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE DICIEMBRE DE 2018 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 41/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN Y COMPETENCIA DE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL Y LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; EL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL MISMO ESTADO Y RESIDENCIA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 17 DE DICIEMBRE DE 2018.]</small>
 
 Acuerdo publicado en la Primera Sección al Número 11 del Diario Oficial de la Federación, el miércoles 14 de noviembre de 2018.
 
@@ -51,9 +51,11 @@ ACUERDO
 
 Los nueve Juzgados de Distrito en Materias Administrativa y de Trabajo, y los siete Juzgados de Distrito en Materia Civil todos en el Estado de Jalisco, con residencia en Zapopan, conocerán de los asuntos en materias administrativa, civil y de trabajo, a partir del dieciséis de noviembre de dos mil dieciocho.
 
+> <small>(F. DE E., D.O.F. 17 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 2.
 
-Los Juzgados de Distrito, a partir del dieciséis de noviembre de dos mil dieciocho, cambiarán su denominación, competencia, y conservarán la residencia, domicilio y jurisdicción territorial que tienen asignados, conocerán de los asuntos a que se refieren los artículos 52, 53, 54, y 55 de la Ley Orgánica del Poder Judicial de la Federación, y sus nuevas denominaciones serán las siguientes:
+Los Juzgados de Distrito, a partir del dieciséis de noviembre de dos mil dieciocho, cambiarán su denominación, competencia, y conservarán la residencia, domicilio y jurisdicción territorial que tienen asignados, conocerán de los asuntos a que se refieren los artículos 52, 53, 53 bis, 54, y 55 de la Ley Orgánica del Poder Judicial de la Federación, y sus nuevas denominaciones serán las siguientes:
 
 JUZGADOS DE DISTRITO EN FUNCIONES QUE CAMBIAN DE COMPETENCIA POR MATERIA Y DENOMINACIÓN
 
@@ -423,17 +425,17 @@ El Pleno y las Comisiones de Creación de Nuevos Órganos; de Carrera Judicial; 
 
 Se reforma el numeral SEGUNDO, fracción III, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
 
-“SEGUNDO. …
+"SEGUNDO. .
 
-I. a II …
+I. a II ...
 
-III. …
+III. ...
 
-1. a 2. …
+1. a 2. ...
 
-3. Treinta y dos juzgados de Distrito especializados: … dieciséis en materias administrativa, civil y de trabajo, todos con residencia en el municipio de Zapopan; …
+3. Treinta y dos juzgados de Distrito especializados: . dieciséis en materias administrativa, civil y de trabajo, todos con residencia en el municipio de Zapopan; ...
 
-IV. a XXXII. …”
+IV. a XXXII. ..."
 
 ###### Artículo 14.
 
