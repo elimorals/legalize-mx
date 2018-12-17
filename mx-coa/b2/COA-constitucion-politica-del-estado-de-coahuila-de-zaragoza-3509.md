@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2017-07-14"
+last_updated: "2018-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -2370,9 +2370,13 @@ Al vencimiento de los periodos descritos en las fracciones anteriores, los Magis
 
 La competencia, organización y atribuciones del Tribunal Superior de Justicia, así como facultades, deberes y responsabilidades de los magistrados, se regirán por esta Constitución y demás leyes. Será Presidente del Tribunal, el magistrado que designe el Pleno, en los términos establecidos por la ley de la materia, y durará en su encargo cinco años y podrá ser reelecto por igual término. Mientras ejerza su función no integrara sala.
 
-El Tribunal Superior de Justicia se compondrá de catorce Magistrados y funcionará en Pleno o en Salas.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2018)</small>
 
-Se establecerá una Sala Auxiliar del Tribunal, cuya jurisdicción comprenderá los Distritos Judiciales de Viesca y San Pedro y tendrá la competencia que determine la propia ley. Esta Sala Auxiliar se integrará por tres Magistrados numerarios y tres Magistrados supernumerarios. El Presidente de la Sala Auxiliar será integrante del Pleno.
+El Tribunal Superior de Justicia se compondrá de dieciséis Magistrados y funcionará en Pleno o en Salas.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2018)</small>
+
+Se establecerá una Sala Regional del Tribunal, cuya jurisdicción comprenderá los Distritos Judiciales de Torreón y San Pedro de las Colonias y tendrá la competencia que determine la propia ley. Esta Sala Regional se integrará por cinco Magistrados numerarios y cinco Magistrados supernumerarios. El Presidente de la Sala Regional será integrante del Pleno.
 
 Los Magistrados del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito no integrarán el Pleno.
 
@@ -2410,13 +2414,13 @@ VI. El presidente del Tribunal de Conciliación y Arbitraje será elegido, de en
 
 VII. La administración, vigilancia y disciplina del Tribunal de Conciliación y Arbitraje corresponderán, en los términos que señale la ley, al Consejo de la Judicatura. El Presidente del Tribunal de Conciliación y Arbitraje formará parte del Consejo de la Judicatura siempre con voz, y voto únicamente en los asuntos que le competan al Tribunal que preside.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 137.
 
 El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal de Conciliación y Arbitraje y los Tribunales Unitarios de Distrito, están facultados para formar jurisprudencia local en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 138.
 
@@ -2450,7 +2454,7 @@ VI. No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Adm
 
 Los nombramientos de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 139.
 
@@ -5166,7 +5170,7 @@ P.O. 4 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 540.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 66 Y EL ARTÍCULO 88 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
-PRIMERO.- Publiquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -5249,3 +5253,17 @@ b) Un plazo no mayor a treinta días naturales para expedir la Ley Orgánica del
 c) Un plazo no mayor a sesenta días naturales para expedir la Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza.
 
 DÉCIMO QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 17 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 184.- SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 136, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado, en un plazo máximo de 60 días a partir de la entrada en vigor del presente decreto, deberá llevar a cabo las adecuaciones legislativas necesarias para dar cumplimiento al mismo.
+
+TERCERO.- Se proveerá al Poder Judicial del Estado de Coahuila de Zaragoza de los recursos presupuestales necesarios para el cumplimiento de las obligaciones derivadas del presente decreto.
+
+CUARTO.- El nombramiento de los Magistrados de la Sala Regional del Tribunal Superior de Justicia deberá realizarse en los términos del artículo 146 de la Constitución Política del Estado de Coahuila de Zaragoza.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan a este Decreto.
