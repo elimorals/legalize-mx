@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-seguridad-juridica-patrimonial-822
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-19"
-last_updated: "2018-08-27"
+last_updated: "2018-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de julio de 2011.
 
@@ -1899,9 +1899,23 @@ XXIX. Autorizar la enajenación, afectación, cesión o disposición de los acti
 
 XXX. Las demás que esta Ley, el Código de la Administración Pública de Yucatán, el Reglamento de la Administración Pública de Yucatán y otras disposiciones legales le otorguen.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. De la Especialización
 
-### CAPÍTULO I. Del Recurso Administrativo de Revisión
+> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
+
+Artículo 228 bis. Para ser designado director del Registro Público de la Propiedad y del Comercio, además de cumplir con los requisitos establecidos en las fracciones I, III, IV, VI, VII y VIII del artículo 212 de esta ley, se deberá contar con título y cédula profesional de abogado o licenciado en derecho, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de tres años.
+
+> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
+
+Artículo 228 ter. Para ser designado director del Archivo Notarial, además de cumplir con los requisitos establecidos el artículo 212 de esta ley, deberá ser un aspirante a notario público o, notario público del Estado con licencia.
+
+> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
+
+Artículo 228 Cuáter. Para ser designado titular del Catastro del Estado, además de cumplir con los requisitos establecidos en las fracciones I, III, IV, VI, VII y VIII del artículo 212 de esta ley, se deberá contar con título y cédula profesional de Ingeniero, Arquitecto, topógrafo o carrera afín a los objetivos generales del
+
+Catastro, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de cinco años y contar con experiencia acreditada en las áreas de cartografía, valuación inmobiliaria y en sistemas de información catastral.
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 211.
 
@@ -1915,7 +1929,9 @@ Para ser Director General, se requiere:
 
 l. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Ser abogado o licenciado en derecho con título y cédula profesional legalmente expedidos, cuando menos, cinco años antes de la fecha de nombramiento;
+> <small>(REFORMADA, D.O. 17 DE DICIEMBRE DE 2018)</small>
+
+II.- Ser Abogado o Licenciado en derecho con título y cédula profesional legalmente expedidos, cuando menos, cinco años antes de la fecha del nombramiento; o bien, en caso de contar con experiencia mínima de cinco años anteriores a la fecha del nombramiento en materia de administración pública, en las áreas registral y/o catastral, ser profesionista con título y cédula profesional.
 
 III. No haber sido sentenciado con resolución firme de autoridad judicial competente por delitos dolosos, en términos de la legislación penal;
 
@@ -1995,7 +2011,7 @@ Los servidores públicos con jerarquía inmediata inferior a la del Director Gen
 
 El Instituto contará con un Comisario, que será designado por el Titular de la Secretaría de la Contraloría General del Gobierno del Estado de Yucatán, quien tendrá la función de vigilar la correcta aplicación de las disposiciones legales y administrativas correspondientes, así como las demás que le confiera la Ley de la materia y el titular de la citada Secretaría.
 
-### CAPÍTULO II. De las Notificaciones
+### CAPÍTULO I. Del Recurso Administrativo de Revisión
 
 ###### Artículo 216.
 
@@ -2055,7 +2071,7 @@ El Instituto llevará su contabilidad de conformidad con las disposiciones aplic
 
 El Instituto deberá publicar sus balances consolidados anuales en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. De las Notificaciones
 
 ###### Artículo 225.
 
@@ -2074,6 +2090,10 @@ Para efectos del artículo anterior, la Junta de Gobierno creará un órgano col
 ###### Artículo 228.
 
 Los trabajadores del Instituto, tendrán la obligación de participar en los programas establecidos para su profesionalización.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 17 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO ÚNICO
 
 ## TÍTULO SEXTO. VINCULACIÓN DEL REGISTRO PÚBLICO, CATASTRO Y EL ARCHIVO NOTARIAL
 
@@ -2322,3 +2342,13 @@ Las patentes de los escribanos públicos con residencia en la ciudad de Mérida 
 Séptimo. Celebración de convenios con instituciones públicas y académicas
 
 El Consejo de Notarios procurará celebrar un convenio de colaboración con el Instituto Nacional Electoral, a efecto que los fedatarios públicos puedan cerciorarse de la identidad de las personas que comparezcan ante su fe, utilizando métodos de reconocimiento y comparación de patrones con la información biométrica recabada por el Instituto.
+
+D.O. 17 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 14/2018 POR EL QUE SE MODIFICA LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN”.]
+
+Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 228 ter que se adiciona, serán aplicables a partir de las subsecuentes designaciones que a efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Tercero. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
