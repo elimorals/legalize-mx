@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-politecnica-del-valle-643
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-28"
-last_updated: "2011-07-07"
+last_updated: "2018-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE TOLUCA
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE TOLUCA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DEL VALLE DE TOLUCA, PUBLICADO EN LA G.G. DE 17 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JULIO DE 2011.
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DEL VALLE DE TOLUCA DEL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 28 de octubre de 2008.
 
 LA JUNTA DIRECTIVA DE LA UNIVERSIDAD POLITÉCNICA DEL VALLE DE TOLUCA, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTÍCULO 12 FRACCIÓN XII DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO UNIVERSIDAD POLITÉCNICA DEL VALLE DE TOLUCA; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo anterior, se expide el siguiente:
 
@@ -369,7 +373,7 @@ ENCARGADO DEL DESPACHO DE LA RECTORIA DE LA UNIVERSIDAD POLlTECNICA DEL VALLE DE
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 7 DE JULIO DE 2011.
 
@@ -378,3 +382,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 17 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DEL VALLE DE TOLUCA”.]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Politécnica del Valle de Toluca publicado en el Periódico Oficial “Gaceta del Gobierno” el 28 de octubre de 2008.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
