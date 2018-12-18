@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2018-12-05"
+last_updated: "2018-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE DICIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE DICIEMBRE DE 2018.]</small>
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -2279,11 +2279,17 @@ PRIMERO. El presente decreto entrará en vigor al día 6 de diciembre de 2018, p
 
 SEGUNDO. Las modificaciones dispuestas en el presente Decreto, no son las suficientes y necesarias para el cumplimiento y la implementación correspondiente, conforme los supuestos establecidos en el artículo Tercero Transitorio del decreto legislativo 26408/LXI/17 publicado en el periódico oficial “El Estado de Jalisco” en su edición de fecha 18 de julio de 2017, mediante el cual se reformó la Constitución Política del Estado de Jalisco, por lo que la reforma a los dispositivos que se citan en dicho artículo permanecen sin iniciar su vigencia.
 
-TERCERO. Para dar cumplimiento efectivo a lo contenido en el presente Decreto, se autoriza al Titular del Poder Ejecutivo para llevar a cabo las adecuaciones presupuestales necesarias que garanticen el funcionamiento de las dependencias que se crean o modifican en virtud del presente Decreto en el Presupuesto de Egresos para el Ejercicio Fiscal 2019, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo Número 24395/LX/13, dotándoles de los recursos humanos y materiales idóneos y necesarios para el cumplimiento de sus fines.
+> <small>(F. DE E., P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-La transferencia de recursos humanos, materiales y financieros que deban realizarse de una dependencia a otra para el cumplimiento efectivo del presente Decreto, incluirán los activos patrimoniales, tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, todo equipo e instrumentos que las diversas dependencias requieran para el ejercicio de sus funciones.
+TERCERO. Para dar cumplimiento efectivo a lo contenido en el presente decreto, se autoriza al Titular del Poder Ejecutivo para llevar a cabo las adecuaciones presupuestales necesarias que garanticen el funcionamiento de las dependencias que se crean o modifican en virtud del presente decreto en el Presupuesto de Egresos para el Ejercicio Fiscal 2018, respecto de las dependencias anteriormente establecidas en el decreto legislativo número 24395/LX/13, dotándoles de los recursos humanos y materiales idóneos y necesarios para el cumplimiento de sus fines.
 
-Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la ley de la materia.
+> <small>(F. DE E., P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+La transferencia de recursos humanos, materiales y financieros que deban realizarse de una dependencia a otra para el cumplimiento efectivo del presente decreto, incluirán los activos patrimoniales, tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, todo equipo e instrumentos que las diversas dependencias requieran para el ejercicio de sus funciones.
+
+> <small>(F. DE E., P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente decreto, pasen de una dependencia a otra, se respetarán conforme a la ley de la materia.
 
 CUARTO. Para el ejercicio 2018, se autoriza la modificación del tabulador de sueldos que integra las nomenclaturas de los titulares de las dependencias que se crean o modifican en virtud del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo Número 24395/LX/13, y se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Administración lleve a cabo las modificaciones necesarias a la plantilla de personal vigente y las adecuaciones presupuestales en el capítulo 1000 “Servicios Personales” de conformidad a la suficiencia presupuestal, y realizar las erogaciones correspondientes con cargo a la Unidad Presupuestal que corresponda a la Unidad de Dependencias Auxiliares.
 
