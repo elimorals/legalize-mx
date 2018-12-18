@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2018-09-29"
+last_updated: "2018-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1521,7 +1521,41 @@ de inscripción o no inscripción de tutor
 
 cautelar 2.000
 
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 8 DE ENERO DE 2000) Cuando los servicios en materia de Registro Civil sean prestados en atención a las campañas de regularización del estado civil de las personas, realizadas por los Sistemas para el Desarrollo Integral de la Familia (DIF) del Estado y de los Municipios, en beneficio de las clases más necesitadas, no se causarán los derechos previstos en las fracciones correspondientes.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+XXXIII.- Por la certificación de documentos:
+
+a) Por la primera hoja de cada legajo 1.000
+
+b) Por cada una de las siguientes hojas de cada legajo 0.250
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+XXXIV.- Por la certificación de Periódico Oficial:
+
+a) Principal 1.000
+
+b) Suplemento
+
+1.- De 01 a 50 páginas 1.000
+
+2.- De 51 a 100 páginas 2.000
+
+3.- De 101 a 300 páginas 3.000
+
+4.- De 301 a 500 páginas 4.000
+
+5.- De 501 páginas en adelante 5.000
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+XXXV.- Por la autorización de la apertura del Libro del
+
+Protocolo del Patrimonio del inmueble federal. 5.000
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 8 DE ENERO DE 2000)
+
+Cuando los servicios en materia de Registro Civil sean prestados en atención a las campañas de regularización del estado civil de las personas, realizadas por los Sistemas para el Desarrollo Integral de la Familia (DIF) del Estado y de los Municipios, en beneficio de las clases más necesitadas, no se causarán los derechos previstos en las fracciones correspondientes.
 
 ###### Artículo 49.
 
@@ -1546,6 +1580,8 @@ Artículo 52 BIS.- (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ### CAPITULO IV. Servicios prestados por la Secretaría de Infraestructura y Desarrollo Urbano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 53.
 
@@ -1595,6 +1631,18 @@ c) Por el refrendo del permiso 122.000
 
 d) Por la reposición del permiso 8.000
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+V (SIC). Constancia de cumplimiento de obligaciones fiscales 0.000
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+VI. Reimpresión del recibo oficial de pago 0.000
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+VII. Reimpresión de la declaración de impuestos 0.000
+
 ###### Artículo 54.
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
@@ -1603,401 +1651,359 @@ d) Por la reposición del permiso 8.000
 
 ### CAPITULO IV BIS. Servicios prestados por la Secretaría de Movilidad
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 Artículo 55 B.- Por los servicios prestados en la Secretaría de Movilidad:
 
-> <small>(REFORMADO [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
+I.- Expedición, renovación, reposición y reimpresión de licencias para conducir vehículos de motor e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
 
-UNIDADES DE
+a) Automovilista 9.000
 
-MEDIDA Y
+b) Chofer clase I, II y conductor de servicio 8.000
 
-ACTUALIZACIÓN
+c) Motociclista 6.000
 
-I.- Expedición y reposición de licencias para
+d) Automovilistas y motociclistas 12.000
 
-manejar vehículos de motor con vigencia
+e) Choferes clase 1 y motociclistas 11.000
 
-de cuatro años e identificaciones de
+f) Reposición de cualquier tipo de licencia 5.000
 
-choferes y conductores de vehículos de
+g) Reimpresión de cualquier tipo de licencia 5.000
 
-servicio público de pasajeros:
+Por los conceptos consignados en los incisos a), b), c), d) y e) a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente para el caso de licencias para conducir vehículos de uso particular con vigencia de cuatro años.
 
-a).- Automovilista 9.000
+Las personas adultas en plenitud acreditarán ser de escasos recursos económicos mediante constancia expedida por el Instituto para la Atención de Adultos en Plenitud.
 
-b).- Chofer clase I, II y conductor
+Para los efectos de los derechos señalados en los incisos f) y g), se respetará únicamente el tiempo restante de la licencia materia de reimpresión o reposición. Por renovación se cobrarán las mismas cuotas que se prevén para la expedición de las licencias.
 
-de servicio 7.830
+En caso de que la licencia o permiso llegara a presentar algún defecto de impresión y/o error de captura imputable a la Secretaría de Movilidad, los ciudadanos podrán solicitar la reimpresión únicamente dentro de los 5 cinco meses siguientes a su expedición sin ningún costo, presentando la licencia defectuosa.
 
-c).- Motociclista 5.239
+II. Expedición, renovación, reposición y reimpresión de permisos para conducir vehículos de motor para menores de edad:
 
-d).-Automovilistas y motociclistas 12.000
+a) Permisos para conducir automóviles (que no excedan 1 tonelada) para menores de edad desde 16 años cumplidos:
 
-e).- Choferes clase 1 y motociclistas 11.000
+1.- Expedición de permiso con vigencia de 6 meses 6.000
 
-Por los conceptos consignados en los incisos
+2.- Renovación de permiso con vigencia de 6 meses 7.000
 
-a), b), c), d) y e), a que se refiere esta fracción,
+3.- Renovación de permiso con vigencia de 12 meses 8.000
 
-las personas que acrediten ser jubilados o
+b) Permisos para conducir motocicletas hasta 250 cc:
 
-pensionados por una institución pública,
+1.- Expedición con vigencia de 6 meses 6.000
 
-discapacitados acreditados por una institución
+2.- Renovación con vigencia de 6 meses 7.000
 
-de salud pública y adultos en plenitud, tendrán
+3.- Renovación con vigencia de 12 meses 8.000
 
-derecho a un descuento del 50 por ciento de la
+III. Por expedición de concesión, expedición y renovación de contratos de operación, y cesión o transmisión de derechos de concesión a vehículos de servicio público, conforme a la siguiente clasificación:
 
-cuota establecida, únicamente para el caso de
+a) Expedición de concesión:
 
-vehículos de uso particular.
+1.- Concesión Individual:
 
-Los adultos en plenitud acreditarán ser
+1.1.- Transporte público colectivo urbano (para las modalidades autorizadas en el artículo 271 de la Ley de Movilidad Sustentable para el Estado de Colima) 440.000
 
-de escasos recursos económicos, mediante
+1.2.- Transporte público individual motorizado (en todas sus modalidades) 440.000
 
-constancia expedida por el Instituto para la
+1.3.- Transporte público de servicio de carga (en todas sus modalidades) 143.000
 
-Atención de Adultos en Plenitud.
+2.- Concesión Empresarial:
 
-II.- Por expedición de concesión, cesión o
+2.1.- Transporte público colectivo urbano 660.000
 
-traspaso de derecho, a vehículos de servicio
+2.2.- Transporte público colectivo sub-urbano 660.000
 
-público, conforme a la siguiente clasificación:
+2.3.- Transporte público de carga y/o materialista 550.000
 
-a).- De ruta y taxi 440.000
+2.4.- Alquiler o préstamo de bicicletas públicas 660.000
 
-b).- Materialistas 142.550
+2.5.- Bici Taxi 440.000
 
-c).- Escuelas de manejo 89.100
+2.6.- Explotación de infraestructura 660.000
 
-d).- Servicio funerario 106.880
+b) Expedición y renovación de contrato de operación:
 
-e).- Motocarro o motocicleta de carga,
+1.- Expedición de contrato de transporte público colectivo sub-urbano por vehículo 50.000
 
-para servicio turístico o para arrendamiento 26.120
+2.- Renovación de contrato de transporte público colectivo sub-urbano por vehículo 20.000
 
-f).- Servicio mixto 440.000
+3.- Expedición de contrato de transporte público individual motorizado por vehículo 50.000
 
-Los derechos que establece esta fracción
+4.- Renovación de contrato de transporte público individual motorizado 20.000
 
-deberán cubrirse dentro de los 30 días
+5.- Expedición de contrato de transporte público especial; personal, turístico y escolar por vehículo 50.000
 
-naturales siguientes a la fecha de autorización.
+6.- Renovación de contrato de transporte público especial; personal, turístico y escolar por vehículo 20.000
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2016)</small>
+c) Cesión o transmisión de derechos de concesiones individuales:
 
-En el caso de cesión o traspaso de la
+1.- Cesión de derechos de concesiones individuales entre familiares 0.000
 
-concesión, si ésta se realiza entre cónyuges
+2.- Transmisión de derechos entre personas físicas 440.000
 
-y ascendientes o descendientes en línea
+3.- Transmisión de derechos de personas físicas a personas morales (para la consolidación de empresas operadoras de transporte colectivo) 110.000
 
-recta en primer grado, no causara el pago
+4.- Transmisión de derechos entre persona moral a moral (para la consolidación de empresas operadoras de transporte colectivo 110.000
 
-de derecho alguno.
+Los derechos que establece la presente fracción deberán cubrirse dentro de los 30 días naturales siguientes a la fecha de autorización.
 
-III.- Por expedición de permisos a vehículos de
+En el caso de cesión de los derechos de concesión individual entre familiares, por causa de muerte del titular, incapacidad física o mental de la persona concesionaria, a favor de la persona designada y registrada como beneficiario por el titular de la concesión ante la Secretaría, siempre y cuando sea entre cónyuges y ascendientes o descendientes en línea recta, en primer grado, no causará el pago de derecho alguno.
 
-servicio privado, mercantil y de transporte
+IV. Por revalidación anual de concesión y por vehículo adherido al contrato de operación:
 
-de personal, conforme a la siguiente clasificación:
+a) Revalidación de concesión individual de transporte público colectivo en todas sus modalidades, de transporte público individual motorizado en todas sus modalidades y transporte público de carga y/o materialista 18.000
 
-a).- Servicio sujeto a arrendamiento con o
+b) Revalidación de concesión empresarial por vehículo adherido a la concesión empresarial, de transporte público colectivo en todas sus modalidades, de transporte público individual motorizado y en todas sus modalidades y transporte público de carga y/o materialista 15.000
 
-sin chofer 52.000
+c) Revalidación por vehículo adherido al contrato de operación de transporte público colectivo urbano, de transporte público individual y de transporte público especial (personal y escolar) 20.000
 
-b).- Servicio de transporte de personal 88.000
+Los derechos de revalidación a los que se refieren los incisos a), b) y c) que anteceden serán por año fiscal, con vencimiento al 31 de diciembre del año que corresponda. El pago de derechos de revalidado deberá realizarse en los primeros 90 días del año fiscal, posteriormente y hasta el 31 de diciembre del año que corresponda.
 
-c).- Servicio de transporte mercantil
+V. Por expedición de permisos de operación de transporte público, a vehículos de servicio privado, mercantil y de transporte de personal, conforme a la siguiente clasificación:
 
-de mensajería y paquetería 20.000
+a) Permiso de operación de transporte público:
 
-d).- Servicio de transporte de valores
+1.- Transporte público colectivo regional.
 
-o de seguridad privada 88.000
+1.1.- Seis meses de vigencia 15.000
 
-e).- Servicio privado de transporte de
+1.2.- Un año de vigencia 25.000
 
-pasajeros y sus pertenencias 88.000
+1.3.- Dos años de vigencia 50.000
 
-f).- Servicio mercantil ambulancia 88.000
+1.4.- Tres años de vigencia 60.000
 
-g).- Servicio de transporte de agua
+2.- Transporte público individual taxi ejecutivo.
 
-en pipa 30.000
+2.1.- Seis meses de vigencia 15.000
 
-IV.- Por revalidación anual de concesión
+2.2.- Un año de vigencia 25.000
 
-o permiso:
+2.3.- Dos años de vigencia 50.000
 
-a).- Por cada taxi y vehículo para escuela
+2.4.- Tres años de vigencia 60.000
 
-de manejo 18.000
+3.- Transporte público individual bici-taxi.
 
-b).- Por cada vehículo de ruta 18.000
+3.1.- Seis meses de vigencia 20.000
 
-c).-Por cada vehículo sujeto a
+3.2.- Un año de vigencia 40.000
 
-arrendamiento con o sin chofer 38.000
+3.3.- Dos años de vigencia 60.000
 
-d).- Por cada vehículo que preste
+3.4.- Tres años de vigencia 80.000
 
-servicio de materialista 18.000
+4.- Transporte público especial en todas sus modalidades.
 
-e).- Por cada vehículo de servicio
+4.1.- Un mes de vigencia 15.000
 
-funerario 18.000
+4.2.- Seis meses de vigencia 25.000
 
-f).- Motocarro o motocicleta de carga,
+4.3.- Un año de vigencia 50.000
 
-para servicio turístico o para arrendamiento 4.000
+5.- Transporte público de carga por un año de vigencia.
 
-g).- Por cada vehículo de transporte
+5.1.- Carga en general 23.500
 
-de agua en pipa 12.000
+5.2.- Materialistas 23.500
 
-h).- Por cada vehículo de servicio mixto
+5.3.- Grúas de arrastre o salvamento 40.000
 
-de carga y pasaje 18.000
+b) Autorizaciones, permisos y renovaciones de permisos a Empresas de Redes de Acceso y Gestión de la Demanda de Transporte Público:
 
-i).- Por cada unidad de plataforma y
+1.- Autorización de operación de Empresas de Redes de Acceso y Gestión de la Demanda de Transporte Público (Hasta por cuatro años) 220.000
 
-pluma de grúa 18.000
+2.- Permiso de operación de servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas por vehículo (Hasta por cuatro años) 30.000
 
-j).- Por cada vehículo de servicio
+3.- Renovación anual de permiso de operación de servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas por vehículo 25.000
 
-turístico 18.000
+c) Permisos de explotación de infraestructura de transporte;
 
-V.- Por dotación de placas de
+1.- Permisos para la explotación de espacios publicitarios en vehículos de transporte público con vigencia de un año 15.000
 
-circulación:
+2.- Permisos de operación de espacios que presten servicios de depósito, guarda y custodia de vehículos infraccionados, abandonados, detenidos, accidentados o descompuestos en las vías públicas del Estado, así como aquellos remitidos por la autoridad correspondiente.
 
-a).- Vehículos de servicio particular,
+2.1.- Un año de vigencia 120.000
 
-incluyendo tarjeta de circulación 15.000
+2.2.- Dos años de vigencia 220.000
 
-b).- Vehículos de servicio público,
+2.3.- Tres años de vigencia 350.000
 
-incluyendo tarjeta de 17.000
+2.4.- Cuatro años de vigencia 440.000
 
-circulación.
+3.- Permisos de operación de centros de revisión físico-mecánica de vehículos para el transporte público.
 
-c).- Motocicletas, incluyendo tarjetas
+3.1.- Un año de vigencia 100.000
 
-de circulación 4.000
+3.2.- Dos años de vigencia 150.000
 
-d).- Remolques 12.000
+3.3.- Tres años de vigencia 180.000
 
-e).- Placas de demostración 12.000
+3.4.- Cuatro años de vigencia 220.000
 
-f).- De transporte de agua 60.000
+d) Permisos emergentes de servicio público de transporte:
 
-g).- Reposición de tarjeta de circulación
+1.- Permisos eventuales por unidad vehicular con vigencia de seis meses:
 
-de automóviles y camiones, a solicitud
+1.1.- Transporte público colectivo urbano 15.000
 
-del interesado 2.413
+1.2.- Transporte público colectivo foráneo 15.000
 
-h).- Placas para vehículos antiguos 13.000
+1.3.- Transporte público colectivo suburbano 15.000
 
-i).- Placas de demostración motocicletas 10.570
+2.- Permiso extraordinario a vehículos de servicio público de transporte concesionado, por unidad vehicular y con vigencia de sesenta días 5.500
 
-j).- Reposición de tarjeta de circulación
+3.- Permiso provisional a vehículos de servicio público de transporte concesionado, por unidad vehicular y con vigencia de sesenta días 5.500
 
-de automóviles y camiones, por cambio de
+VI. Por dotación de placas y tarjeta de circulación de vehículos de servicio privado y público:
 
-domicilio del propietario del vehículo 0.000
+a) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para automóvil, camión, autobús, ecológicos, discapacidad y antiguos 15.000
 
-Los derechos consignados en los incisos a),
+b) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para remolques y convertidores Dolly 12.000
 
-b), c), d), f) y h), tratándose de canje o
+c) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para motocicleta 10.000
 
-renovación, por término del período de
+d) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para vehículos de demostración 17.000
 
-vigencia, deberán pagarse durante los meses
+e) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para motocicletas de demostración 15.000
 
-de enero a junio.
+f) Por dotación de placas y tarjeta de circulación de vehículos de servicio público:
 
-Quienes acrediten ser jubilados o pensionados
+1.- Automóvil, camión y autobús 18.000
 
-por una institución pública, discapacitados
+2.- Remolque 15.000
 
-acreditados por una institución de salud pública
+3.- Bici-taxis 12.000
 
-y adultos en plenitud, tendrán derecho a un
+g) Por dotación de placas y tarjeta de circulación de vehículos destinados a la seguridad pública, protección civil y emergencias:
 
-descuento del 50 por ciento de la tarifa
+1.- Ambulancia, bomberos y protección civil 15.000
 
-establecida en los incisos a), c), d) y g),
+2.- Policía vehículo 15.000
 
-únicamente respecto a un solo vehículo que
+3.- Policía motocicleta 10.000
 
-acredite ser propietario y que éste sea de
+h) Por reposición de tarjeta de circulación de vehículos de servicio privado en todas sus modalidades 3.000
 
-uso particular.
+i) Por reposición de tarjeta de circulación de vehículos de servicio público:
 
-VI.- Por reposición de placas de circulación,
+1.- Automóvil, camión y autobús 6.000
 
-por robo o extravío:
+2.- Remolque 6.000
 
-a).- Vehículos de servicio particular,
+3.- Bici-taxis 3.000
 
-incluyendo tarjeta de circulación 6.000
+j) Por reposición de tarjeta de circulación de vehículos destinados a la seguridad pública, protección civil y emergencias 3.000
 
-b).- Motocicletas, incluyendo tarjeta
+k) Por reposición de tarjeta de circulación, por cambio de domicilio de la persona propietaria de un vehículo 0.000
 
-de circulación 2.000
+l) Por reposición de placas y tarjeta de circulación por canje:
 
-c).- Remolques 6.000
+1.- Canje voluntario de servicio privado 10.000
 
-Para dar trámite a la solicitud de reposición
+2.- Canje de servicio público por dictamen positivo del Programa de Actualización 12.000
 
-de placas de circulación, será requisito
+3.- Canje por término del periodo de vigencia de las placas 12.000
 
-indispensable que no se tengan adeudos
+Por los conceptos consignados en los incisos a), b), c), d), e) y h), las personas que acrediten ser jubiladas o pensionadas por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente respecto a un sólo vehículo del que acredite ser propietario y que éste sea de uso particular.
 
-pendientes de pago por impuestos y derechos
+VIII (SIC). Por reposición de placas de circulación, por robo, extravío o deterioro:
 
-causados por el uso, tenencia o circulación
+a) Vehículos de servicio particular, incluyendo tarjeta de circulación 10.000
 
-de la unidad vehicular de que se trate, ni de
+b) Vehículos de servicio público, incluyendo tarjeta de circulación 12.000
 
-multas que la Secretaría de Movilidad hubiera
+c) Vehículos destinados a la seguridad pública, protección civil y emergencias 10.000
 
-impuesto con respecto al mismo vehículo
+d) Motocicletas, incluyendo tarjeta de circulación 9.000
 
-y se acredite el robo o extravío de las placas
+e) Remolques y convertidor Dolly, incluyendo tarjeta de circulación 9.000
 
-de circulación, con la copia del escrito que
+Para dar trámite a la solicitud de reposición de placas de circulación, será requisito indispensable que no se tengan adeudos pendientes de pago por impuestos y derechos causados por el uso, tenencia o circulación de la unidad vehicular de que se trate, ni de multas que la Secretaría de Movilidad hubiera impuesto con respecto al mismo vehículo y se acredite el robo o extravío de las placas de circulación, con la copia del escrito que contenga la denuncia que del hecho respectivo se hubiera presentado ante la Agencia del Ministerio Público correspondiente, de la que se entregará copia a la Secretaría de Movilidad.
 
-contenga la denuncia que del hecho respectivo
+VIII. Por la expedición de permisos provisionales y de traslado:
 
-se hubiera presentado ante la Agencia del
+a) Permisos Provisionales:
 
-Ministerio Público correspondiente, de la
+1.- Primer permiso de 30 días 6.000
 
-que se entregará copia a la Secretaría de
+2.- Segundo permiso de 30 días 6.000
 
-Movilidad.
+3.- Tercero permiso de 30 días 12.000
 
-VII.- Por la expedición de permisos de traslado
+b) Permiso de Traslado:
 
-y placas de circulación provisionales:
+1.- Por diez días 4.000
 
-a).- Dotación de placas y tarjetas de
+2.- Por día adicional, máximo 3 días 2.000
 
-circulación provisionales:
+IX. Certificaciones y constancias 2.000
 
-1.- Para vehículos 6.000
+X. Actos para operar Centros de Capacitación en Movilidad:
 
-2.- Para motocicletas o equivalentes 4.000
+a) Autorización de Contrato de Operaciones de Centros de Capacitación en Movilidad, con vigencia de tres años 220.000
 
-b).- Dotación de permiso de traslado:
+b) Refrendo anual de contrato de Operaciones de Centros de Capacitación en Movilidad 14.000
 
-1.- Permiso de traslado, por cinco días 6.000
+c) Permiso de operación de vehículo de Centro de Capacitación, con vigencia de un año 18.000
 
-VIII.- Por la expedición de permisos
+XI. Por la expedición de baja de placas de otros estados 3.000
 
-de conducir para menores de edad:
+XII. Por la expedición de baja definitiva del Padrón Vehicular 2.000
 
-a).- Permisos para manejar automóviles:
+XIII. Por la aplicación de exámenes e impartición del curso para obtener licencia de conducir:
 
-1.- Por el primer permiso, por 6 meses 6.000
+a) Examen de conocimientos viales, incluyendo el material didáctico 1.000
 
-2.- Por el segundo permiso, por 6 meses 7.000
+b) Impartición del curso para obtener licencia de conducir 4.000
 
-3.- Por el tercer permiso, hasta por un año 8.000
+De no ser aprobado el examen previsto en el inciso a) de la presente fracción, se pagará cuantas veces se realice.
 
-b).- Permiso para manejar motocicletas:
+XIV. Gafetes de identificación de servicio:
 
-1.- Por el primer permiso, por 6 meses 6.000
+a) Por la expedición por primera vez de gafete de Conductor de Transporte Público, con vigencia de cuatro años 3.000
 
-2.- Por el segundo permiso, por 6 meses 7.000
+b) Por el refrendo anual de gafete de Conductor de Transporte Público 1.000
 
-3.- Por el tercer permiso, hasta por un año 8.000
+c) Por la reposición de gafete de Conductor de Transporte Público 2.000
 
-IX.- Certificaciones y constancias 2.000
+d) Por la renovación de gafete de Conductor de Transporte Público 2.000
 
-X.- Por la expedición de baja de placas
+e) Por la renovación o refrendo extemporáneo de gafete de Conductor de Transporte Público 3.000
 
-de otros estados 3.000
+f) Por la expedición o renovación de gafete de Apoderado 3.000
 
-XI.- Por expedición de baja definitiva
+g) Por la expedición o renovación de gafete de Gestor 3.000
 
-del Padrón Vehicular 2.000
+h) Por la expedición o renovación de gafete de Representante Social 3.000
 
-XII.- Por la aplicación de exámenes para
+Los derechos de refrendo a que se refieren los incisos a), b) y d) que anteceden deberán pagarse durante el periodo ordinario establecido por la Secretaría de Movilidad, previo trámite del servicio.
 
-obtener licencia de manejo:
+Los derechos de refrendo a que se refiere el inciso g) que antecede deberán pagarse durante el periodo extraordinario establecido por la Secretaría de Movilidad, previo trámite del servicio.
 
-a).- De conocimientos viales
+Los derechos de expedición o renovación a que se refieren los incisos f), g) y h) que anteceden tienen una vigencia anual.
 
-(incluye material didáctico) 1.000
+XV. Revista vehicular para vehículos de servicio público:
 
-b).- Para determinación de tipo
+a) Revista vehicular por vehículo 0.000
 
-sanguíneo 1.000
-
-c).- De agudeza visual 1.000
-
-XIII.- Gafetes de identificación:
-
-a).- Por la expedición o refrendo anual de
-
-identificación de choferes y/o conductores
-
-de servicio público de pasajeros 1.000
-
-b).- Por la expedición o refrendo de
-
-gafetes de representación y gestoría 1.000
-
-Los derechos de refrendo a que se refieren
-
-los incisos a) y b) que anteceden, deberán
-
-pagarse durante los meses de enero y febrero,
-
-previo trámite del servicio.
-
-XIV.- Por la aplicación de examen para
-
-determinar estado toxicológico por
-
-alcohol y/o drogas o sustancias enervantes
-
-o psicotrópicas en los conductores con
-
-apoyo de alcoholímetro y revisión médica ocular 2.000
-
-De requerirse la utilización de reactivos
-
-y apoyo de laboratorio, si se confirma el
-
-estado toxicológico, el conductor
-
-examinado pagará además 5.000
-
-XV.- Por la colocación temporal de dispositivo
-
-físico de monitoreo a vehículos que
-
-transportan productos o sustancias
-
-peligrosas, por evento 100.000
+b) Revista vehicular extemporánea por vehículo 6.000
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 55.
 
-Por los servicios prestados en la Dirección General de Desarrollo Urbano y Obras Publicas.
+Por los servicios prestados en la Secretaría de Infraestructura y Desarrollo Urbano:
 
-Numero de días de salario mínimo
+> <small>(REFORMADO [N. DE E. EN SU RUBRO], P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+UNIDADES
+
+DE MEDIDA Y
+
+ACTUALIZACIÓN
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
 
@@ -2005,407 +2011,431 @@ I.- Verificación de congruencia de los dictámenes de vocación del suelo:
 
 a).- Para el aprovechamiento urbano del suelo que implique la transformación del terreno rústico en urbanizado 20.000
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-b).- Para la relotificación de predios urbanos:
+b) Para la subdivisión de predios urbanos:
 
-1.- Habitacional densidad baja 50.000
-
-más, por cada lote producto de la relotificación 3.000
-
-2.- Habitacional densidad media 35.000
-
-más, por cada lote producto de la relotificación 2.000
-
-3.- Habitacional densidad alta 15.000
-
-más, por cada lote producto de la relotificación 1.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-4.- Mixto de barrio intensidad baja 60.000
-
-más, por cada lote producto de la relotificación 3.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-5.- Mixto de barrio intensidad media 45.000
-
-más, por cada lote producto de la relotificación 2.500
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6.- Mixto de barrio intensidad alta 30.000
-
-más, por cada lote producto de la relotificación 1.500
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6A.- Corredor urbano y mixto central intensidad baja 80.000
-
-más, por cada lote producto de la relotificación 4.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6B.- Corredor urbano y mixto central intensidad media 70.000
-
-más, por cada lote producto de la relotificación 3.500
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6C.- Corredor urbano y mixto central intensidad alta 60.000
-
-más, por cada lote producto de la relotificación 3.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6D.- Corredor urbano y mixto central intensidad máxima 50.000
-
-mas, por cada lote producto de la relotificación 2.500
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-7.- Comercial y de servicios de barrio, intensidad baja 70.000
-
-más, por cada lote producto de la relotificación 3.500
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-8.- Comercial y de servicios de barrio, intensidad media 60.000
-
-más, por cada lote producto de la relotificación 3.000
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-9.- Comercial y de servicios de barrio, intensidad alta 50.000
-
-más, por cada lote producto de la relotificación 2.500
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-9A.- Corredor comercial y de servicios intensidad baja 90,000
-
-más por cada lote producto de la relotificación 4.500
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-9B.- Corredor comercial y de servicios intensidad media 80.000
-
-más, por cada lote producto de la relotificación 4.000
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-9C.- Corredor comercial y de servicios intensidad alta 70.000
-
-más, por cada lote producto de la relotificación 3,500
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-9D.- Corredor comercial y de servicios intensidad máxima 60.000
-
-mas, por cada lote producto de la relotificación 3.000
-
-10.- Comercial y de servicios regional 75.000
-
-más, por cada lote producto de la relotificación 4.000
-
-11.- Servicios a la industria y el comercio 60.000
-
-más, por cada lote producto de la relotificación 3.000
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-12.- Industria ligera y de bajo impacto 30.000
-
-más, por cada lote producto de la relotificación 1.500
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-12A.- Industria mediana y de mediano impacto 40.000
-
-más, por cada lote producto de la relotificación 2.000
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-12B.- Industria pesada y de alto impacto y riesgo 60.000
-
-más, por cada lote producto de la relotificación 3.000
-
-13.- Habitacional campestre 80.000
-
-más, por cada lote producto de la relotificación 5.000
-
-14.- Granjas y huertos 60.000
-
-más, por cada lote producto de la relotificación 3.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-15.- Turístico hotelero intensidad baja 90.000
-
-más, por cada lote producto de la relotificación 5.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-16.- Turístico hotelero intensidad media 70.000
-
-más, por cada lote producto de la relotificación 4.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-17.- Turístico hotelero intensidad alta 50.000
-
-más, por cada lote producto de la relotificación 3.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-18.- Turístico hotelero intensidad mínima 110.000
-
-más, por cada lote producto de la relotificación 6.000
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-19.- Comercial y de servicios central intensidad baja 85.000
-
-más, por cada lote producto de la relotificación 4.500
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-19A.- Comercial y de servicios central intensidad media 75.000
-
-más, por cada lote producto de la relotificación 4.000
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-19B.- Comercial y de servicios central intensidad alta 65.000
-
-más, por cada lote producto de la relotificación 3.500
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-19C.- Comercial y de servicios central intensidad máxima 55.000
-
-más, por cada lote producto de la relotificación 3.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-20.- Corredor comercial y de servicios intensidad baja 80.000
-
-más, por cada lote producto de la relotificación 8.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-21.- Corredor comercial y de servicios intensidad media 70.000
-
-más, por cada lote producto de la relotificación 7.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-22.- Corredor comercial y de servicios intensidad baja 65.000
-
-más, por cada lote producto de la relotificación 6.500
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-23.- Corredor comercial y de servicios intensidad máxima 60.000
-
-más, por cada lote producto de la relotificación 6.000
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-c).- Para la subdivisión de predios urbanos:
-
-1.- Habitacional densidad baja 9.000
-
-más, por cada lote producto de la subdivisión 4.500
-
-2.- Habitacional densidad media 4.000
-
-más, por cada lote producto de la subdivisión 2.000
-
-3.- Habitacional densidad alta 2.000
-
-más, por cada lote producto de la subdivisión 1.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-4.- Mixto de barrio, intensidad baja 10.000
-
-más, por cada lote producto de la subdivisión 5.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-5.- Mixto de barrio, intensidad media 5.000
-
-más, por cada lote producto de la subdivisión 2.500
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6.- Mixto de barrio, intensidad alta 3.000
-
-más, por cada lote producto de la subdivisión 1.500
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6A.- Corredor mixto y mixto central, intensidad baja 13.000
-
-más, por cada lote producto de la subdivisión 6.500
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6B.- Corredor mixto y mixto central, intensidad media 10.000
-
-más, por cada lote producto de la subdivisión 5.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6C.- Corredor mixto y mixto central, intensidad alta 7.000
-
-más, por cada lote producto de la subdivisión 3.500
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-6D.- Corredor mixto y mixto central, intensidad máxima 5.000
-
-Más, por cada lote producto de la subdivisión 2.500
-
-7.- Comercial y de servicios de barrio, intensidad baja 12.000
-
-más, por cada lote producto de la subdivisión 6.000
-
-8.- Comercial y de servicios de barrio, intensidad media 9.000
-
-más, por cada lote producto de la subdivisión 4.500
-
-9.- Comercial y de servicios de barrio, intensidad alta 6.000
-
-más, por cada lote producto de la subdivisión 3.000
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-9A.- Corredor comercial y de servicios, intensidad baja 16.000
-
-más, por cada lote producto de la subdivisión 8.000
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-9B.- Corredor comercial y de servicios intensidad media 13.000
-
-más, por cada lote producto de la subdivisión 6.500
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-9C.- Corredor comercial y de servicios intensidad alta 10.000
-
-más, por cada lote producto de la subdivisión 5.000
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-9D.- Corredor comercial y de servicios intensidad máxima 7.000
-
-más, por cada lote producto de la subdivisión 3.500
-
-10.- Comercial y de servicios regional 15.000
+1.- Granjas y huertos, clave GH 15.000
 
 más, por cada lote producto de la subdivisión 7.500
 
-11.- Servicios a la industria y el comercio 12.000
-
-más, por cada lote producto de la subdivisión 6.000
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-12.- Industrial ligera y de bajo impacto 6.000
-
-más, por cada lote producto de la subdivisión 3.000
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-12A.- Industria media y de mediano impacto 8.000
-
-más, por cada lote producto de la subdivisión 4.000
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-12B.- Industria pesada y de alto impacto y riesgo 10.000
-
-más, por cada lote producto de la subdivisión 5.000
-
-13.- Habitacional campestre 15.000
-
-más, por cada lote producto de la subdivisión 7.500
-
-14.- Granjas y huertos 12.000
-
-más, por cada lote producto de la subdivisión 6.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-15.- Turístico hotelero densidad baja 18.000
-
-más, por cada lote producto de la subdivisión 9.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-16.- Turístico hotelero densidad media 14.000
-
-más, por cada lote producto de la subdivisión 7.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-17.- Turístico hotelero densidad alta 10.000
-
-más, por cada lote producto de la subdivisión 5.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-18.- Turismo hotelero densidad mínima 22.000
+2.- Turístico-hotelero, densidad mínima, clave TH-1 22.000
 
 más, por cada lote producto de la subdivisión 11.000
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+3.- Turístico-hotelero, densidad baja, clave TH-2 18.000
 
-19.- Comercial y de servicios central intensidad baja 15.000
+más, por cada lote producto de la subdivisión 9.000
+
+4.- Turístico-hotelero, densidad media, clave TH-3 14.000
+
+más, por cada lote producto de la subdivisión 7.000
+
+5.- Turístico-hotelero, densidad alta, clave TH-4 10.000
+
+más, por cada lote producto de la subdivisión 5.000
+
+6.- Habitacional unifamiliar campestre, clave H1 15.000
 
 más, por cada lote producto de la subdivisión 7.500
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-19A.- Comercial y de servicios central intensidad media 12.000
-
-más, por cada lote producto de la subdivisión 6.000
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-19B.- Comercial y de servicios central intensidad alta 9.000
+7.- Habitacional unifamiliar, densidad baja, clave H2-U 9.000
 
 más, por cada lote producto de la subdivisión 4.500
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+8.- Habitacional unifamiliar, densidad media, clave H3-H 4.000
 
-19C.- Comercial y de servicios central intensidad máxima 6.000
+más, por cada lote producto de la subdivisión 2.000
+
+9.- Habitacional unifamiliar, densidad alta, clave H4-U 2.000
+
+más, por cada lote producto de la subdivisión 1.000
+
+10.- Mixto de barrio intensidad baja, clave MB-1 10.000
+
+más, por cada lote producto de la subdivisión 5.000
+
+11.- Mixto de barrio intensidad media, clave MB-2 5.000
+
+más, por cada lote producto de la subdivisión 2.500
+
+12.- Mixto de barrio intensidad alta, clave MB-3 3.000
+
+más, por cada lote producto de la subdivisión 1.500
+
+13.- Corredor urbano mixto intensidad baja, clave MD-1 13.000
+
+más, por cada lote producto de la subdivisión 6.500
+
+14.- Corredor urbano mixto intensidad media, clave MD-2 10.000
+
+más, por cada lote producto de la subdivisión 5.000
+
+15.- Corredor urbano mixto intensidad alta, clave MD-3 7.000
+
+más, por cada lote producto de la subdivisión 3.500
+
+16.- Corredor urbano mixto intensidad máxima, clave MD-4 5.000
+
+más, por cada lote producto de la subdivisión 2.500
+
+17.- Mixto central intensidad baja, clave MC-1 13.000
+
+más, por cada lote producto de la subdivisión 6.500
+
+18.- Mixto central intensidad media, clave MC-2 10.000
+
+más, por cada lote producto de la subdivisión 5.000
+
+19.- Mixto central intensidad alta, clave MC-3 7.000
+
+más, por cada lote producto de la subdivisión 3.500
+
+20.- Mixto central intensidad máxima, clave MC-4 5.000
+
+más, por cada lote producto de la subdivisión 2.500
+
+21.- Comercial y de servicios de barrio intensidad 12.000
+
+baja, clave CB-1
+
+más, por cada lote producto de la subdivisión 6.000
+
+22.- Comercial y de servicios de barrio intensidad 9.000
+
+media, clave CB-2
+
+más, por cada lote producto de la subdivisión 4.500
+
+23.- Comercial y de servicios de barrio intensidad alta. 6.000
+
+clave CB-3
 
 más, por cada lote producto de la subdivisión 3.000
 
-d).- Para modificación, demolición o ampliación de inmuebles del Patrimonio Urbano Arquitectónico 10.000
+24.- Corredor comercial y de servicios intensidad baja, 16.000
 
-e).- De equipamiento e infraestructura primaria de los centros de población:
+clave CD-1
 
-1.- Popular 10.000
+más, por cada lote producto de la subdivisión 8.000
 
-2.- Media 20.000
+25.- Corredor comercial y de servicios intensidad media, 13.000
 
-3.- Residencial 30.000
+clave CD-2
 
-f).- Hospitales y Centros Médicos 20.000
+más, por cada lote producto de la subdivisión 6.500
 
-g).- Centrales camioneras de carga y de abastos 30.000
+26.- Corredor comercial y de servicios intensidad alta, 10.000
 
-h).- Industrias medianas y grandes 10.000
+clave CD-3
 
-i).- Edificios Multifamiliares, cuando superen las 20 unidades 10.000
+más, por cada lote producto de la subdivisión 5.000
 
-j).- Proyectos de Hotelería cuando superan las 30 habitaciones 25.000
+27.- Corredor comercial y de servicios intensidad máxima, 7.000
+
+clave CD-4
+
+más, por cada lote producto de la subdivisión 3.500
+
+28.- Comercial y de servicios central intensidad baja, 15.000
+
+clave CC-1
+
+más, por cada lote producto de la subdivisión 7.500
+
+29.- Comercial y de servicios central intensidad media, 12.000
+
+clave CC-2
+
+más, por cada lote producto de la subdivisión 6.000
+
+30.- Comercial y de servicios central intensidad alta, 9.000
+
+clave CC-3
+
+más, por cada lote producto de la subdivisión 4.500
+
+31.- Comercial y de servicios central intensidad máxima, 6.000
+
+clave CC-4
+
+más, por cada lote producto de la subdivisión 3.000
+
+32.- Comercial y de servicios regional, clave CR 15.000
+
+más, por cada lote producto de la subdivisión 7.500
+
+33.- Servicios a la industria y el comercio, clave S 12.000
+
+más, por cada lote producto de la subdivisión 6.000
+
+34.- Industria ligera y de bajo impacto, clave I-1 6.000
+
+más, por cada lote producto de la subdivisión 3.000
+
+35.- Industria media y de mediano impacto, clave I-2 8.000
+
+más, por cada lote producto de la subdivisión 4.000
+
+36.- Industria pesada y de alto impacto o riesgo, clave I-3 10.000
+
+más, por cada lote producto de la subdivisión 5.000
+
+37.- Equipamiento regional, clave ER 15.000
+
+más, por cada lote producto de la subdivisión 7.500
+
+38.- Equipamiento especial, clave EE 15.000
+
+más, por cada lote producto de la subdivisión 7.500
+
+39.- Equipamiento de infraestructura, clave IN 15.000
+
+más, por cada lote producto de la subdivisión 7.500
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+c) En el caso de regularización de subdivisiones, la cuota a pagar será la que resulte de aplicar el factor del 1.50 a la que corresponda, de acuerdo con la clasificación de este inciso.
+
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+d) Para la relotificación de predios urbanos:
+
+1. Granjas y huertos clave GH 80.00
+
+más, por cada lote producto de la relotificación 5.000
+
+2. Turístico-hotelero, densidad mínima, clave TH-1 110.000
+
+más, por cada lote producto de la relotificación 6.000
+
+3. Turístico-hotelero, densidad baja, clave TH-2 90.000
+
+más, por cada lote producto de la relotificación 5.000
+
+4. Turístico-hotelero, densidad media, clave TH-3 70.000
+
+más, por cada lote producto de la relotificación 4.000
+
+5. Turístico-hotelero, densidad alta, clave TH-4 50.000
+
+más, por cada lote producto de la relotificación 3.000
+
+6. Habitacional unifamiliar campestre, clave H1 80.000
+
+más, por cada lote producto de la relotificación 5.000
+
+7. Habitacional unifamiliar, densidad baja, clave H2-U 50.000
+
+más, por cada lote producto de la relotificación 3.000
+
+8. Habitacional unifamiliar, densidad media, clave H3-H 35.000
+
+más, por cada lote producto de la relotificación 2.000
+
+9. Habitacional unifamiliar, densidad alta, clave H4-U 15.000
+
+más, por cada lote producto de la relotificación 1.000
+
+10. Mixto de barrio intensidad baja, clave MB-1 60.000
+
+más, por cada lote producto de la relotificación 3.000
+
+11. Mixto de barrio intensidad media, clave MB-2 45.000
+
+más, por cada lote producto de la relotificación 2.500
+
+12. Mixto de barrio intensidad alta, clave MB-3 30.000
+
+más, por cada lote producto de la relotificación 1.500
+
+13. Corredor urbano mixto intensidad baja, clave MD-1 60.000
+
+más, por cada lote producto de la relotificación 3.000
+
+14. Habitacional plurifamiliar Horizontal Campestre 7.000
+
+Comunitario
+
+más, por cada lote producto de la subdivisión 3.500
+
+más, por cada lote producto de la relotificación 2.500
+
+15. Corredor urbano mixto intensidad alta, clave MD-3 30.000
+
+más, por cada lote producto de la relotificación 1.500
+
+16. Corredor urbano mixto intensidad máxima, clave MD-4 30.000
+
+más, por cada lote producto de la relotificación 1.500
+
+17. Habitacional plurifamiliar Horizontal Campestre 7.000
+
+Comunitario
+
+más, por cada lote producto de la subdivisión 3.500
+
+18. Mixto central intensidad baja, clave MC-1 80.000
+
+más, por cada lote producto de la relotificación 4.000
+
+19. Mixto central intensidad media, clave MC-2 70.000
+
+Mixto central intensidad alta, clave MC-3 60.000
+
+más, por cada lote producto de la relotificación 3.000
+
+20. Mixto central intensidad máxima, clave MC-4 60.000
+
+más, por cada lote producto de la relotificación 3.000
+
+21. Comercial y de servicios de barrio intensidad baja, 70.000
+
+clave CB-1
+
+más, por cada lote producto de la relotificación 3.500
+
+22. Comercial y de servicios de barrio intensidad media, 60.000
+
+clave CB-2
+
+más, por cada lote producto de la relotificación 3.000
+
+23. Comercial y de servicios de barrio intensidad alta. 50.000
+
+clave CB-3
+
+más, por cada lote producto de la relotificación 2.500
+
+24. Corredor comercial y de servicios intensidad baja, 90.000
+
+clave CD-1
+
+más, por cada lote producto de la relotificación 4.500
+
+25. Corredor comercial y de servicios intensidad media, 80.000
+
+clave CD-2
+
+más, por cada lote producto de la relotificación 4.000
+
+26. Corredor comercial y de servicios intensidad alta, 70.000
+
+clave CD-3
+
+más, por cada lote producto de la relotificación 3.500
+
+27. Corredor comercial y de servicios intensidad máxima, 60.000
+
+clave CD-4
+
+más, por cada lote producto de la relotificación 3.000
+
+28. Comercial y de servicios central intensidad baja, 85.000
+
+clave CC-1
+
+más, por cada lote producto de la relotificación 4.500
+
+29. Comercial y de servicios central intensidad media, 75.000
+
+clave CC-2
+
+más, por cada lote producto de la relotificación 4.000
+
+30. Comercial y de servicios central intensidad alta, 65.000
+
+clave CC-3
+
+más, por cada lote producto de la relotificación 3.500
+
+31. Comercial y de servicios central intensidad máxima, 6.000
+
+clave CC-4
+
+más, por cada lote producto de la relotificación 3.000
+
+32. Comercial y de servicios regional, clave CR 75.000
+
+más, por cada lote producto de la relotificación 4.000
+
+33. Servicios a la industria y el comercio, clave S 60.000
+
+más, por cada lote producto de la relotificación 3.000
+
+34. Industria ligera y de bajo impacto, clave I-1 30.000
+
+más, por cada lote producto de la relotificación 1.500
+
+35. Industria media y de mediano impacto, clave I-2 40.000
+
+más, por cada lote producto de la relotificación 2.000
+
+36. Industria pesada y de alto impacto o riesgo, 60.000
+
+clave I-3
+
+más, por cada lote producto de la relotificación 3.000
+
+37. Equipamiento regional, clave ER 75.000
+
+más, por cada lote producto de la relotificación 4.000
+
+38. Equipamiento especial, clave EE 75.000
+
+más, por cada lote producto de la relotificación 4.000
+
+39. Equipamiento de infraestructura, clave IN 75.000
+
+más, por cada lote producto de la relotificación 4.000
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+e) Para modificación, demolición o ampliación de inmuebles del Patrimonio Urbano Arquitectónico 10.000
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+f) De equipamiento e infraestructura primaria de los centros de población:
+
+1. Alta 10.000
+
+2. Media 20.000
+
+3. Baja 30.000
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+g) Hospitales y Centros Médicos 20.000
+
+h) Centrales camioneras de carga y de abastos 30.000
+
+i) Industrias medianas y grandes 10.000
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+j) Edificios Multifamiliares, cuando superen las 20 unidades 10.000
+
+1.- Habitacional plurifamiliar horizontal y/o vertical densidad baja,
+
+clave H2-H y/o H2-V 9.000
+
+más, por cada unidad de aprovechamiento 4.500
+
+2.- Habitacional plurifamiliar horizontal y/o vertical 4.000
+
+densidad media, clave H3-H y/o H4-V
+
+más, por cada unidad de aprovechamiento 2.000
+
+3.- Habitacional plurifamiliar horizontal y/o vertical 2.000
+
+densidad alta, clave H4-H y/o H4-V
+
+más, por cada unidad de aprovechamiento 1.000
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+k) Proyectos de hotelería cuando superan las 30 habitaciones 25.000
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
@@ -2417,189 +2447,7 @@ III.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE
 
 IV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-V.- Por la autorización para la constitución de condominios se pagará:
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-1.- Habitacional, densidad alta 30.000
-
-más, por cada unidad que se integre el condominio 3.000
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-2.- Habitacional, densidad medio 70.000
-
-más, por cada unidad que integre el condominio 7.000
-
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
-
-2A.- Habitacional densidad baja 180.000
-
-más, por cada unidad que integre el condominio 18.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-3.- Industrial baja y de bajo impacto 40.000
-
-más, por cada unidad que integre el condominio 4.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-3A.- Industrial media y de mediano impacto 60.000
-
-más, por cada unidad que integre el condominio 6.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-3B.- Industrial alta y de alto impacto 80.000
-
-más, por cada unidad que integre el condominio 8.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-4.- Turístico, hotelero densidad alta 350.000
-
-más, por cada unidad que integre el condominio 35.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-4A.- Turístico, hotelero densidad media 400.000
-
-más, por cada unidad que integre el condominio 40.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-4B.- Turístico, hotelero densidad baja 450.000
-
-más, por cada unidad que integre el condominio 45.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-4C.- Turístico, hotelera densidad mínima 500.000
-
-más, por cada unidad que integre el condominio 50.000
-
-5.- (DEROGADO, P.O. 5 DE ENERO DE 1999)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1999)
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-6.- Comercial y de servicios de barrio, intensidad alta 200.000
-
-más, por cada unidad que integre el condominio 20.000
-
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
-
-7.- Comercial y de servicios de barrio, intensidad media 230.000
-
-más, por cada unidad que integre el condominio 23.000
-
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
-
-8.- Comercial y de servicios de barrio, intensidad baja 250.000
-
-más, por cada unidad que integre el condominio 25.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-9.- Comercial y de servicios central, intensidad alta 300.000
-
-más, por cada unidad que integre el condominio 30.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-10.- Comercial y de servicios central, intensidad media 330.000
-
-más, por cada unidad que integre el condominio 33.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-11.- Comercial y de servicios central, intensidad baja 350.000
-
-más, por cada unidad que integre el condominio 35.000
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-12.- Comercial y de servicios regional 350.000
-
-más, por cada unidad que integre el condominio 35.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-13.- Comercial y de servicios central intensidad máxima 250.000
-
-más, por cada unidad que integre el condominio 25.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-14.- Mixto de barrio intensidad baja 200.000
-
-más, por cada unidad que integre el condominio 20.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-15.- Mixto de barrio intensidad media 85.000
-
-más, por cada unidad que integre el condominio 8.500
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-16.- Mixto de barrio intensidad alta 45.000
-
-más, por cada unidad que integre el condominio 4.500
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-17.- Corredor urbano mixto y mixto central intensidad baja 120.000
-
-más, por cada unidad que integre el condominio 12.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-18.- Corredor urbano mixto y mixto central intensidad media 50.000
-
-más, por cada unidad que integre el condominio 5.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-19.- Corredor urbano mixto y mixto central intensidad alta 60.000
-
-más, por cada unidad que integre el condominio 6.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-20.- Corredor urbano mixto y mixto central intensidad máxima 45.500
-
-más, por cada unidad que integre el condominio 4.500
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-21.- Corredor comercial y de servicios intensidad baja 300.000
-
-más, por cada unidad que integre el condominio 30.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-22.- Corredor comercial y de servicios intensidad media 270.000
-
-más, por cada unidad que integre el condominio 27.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-23.- Corredor comercial y de servicios intensidad alta 250.000
-
-más, por cada unidad que integre el condominio 25.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-24.- Corredor comercial y de servicios intensidad máxima 230.000
-
-más, por cada unidad que integre el condominio 23.000
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-25.- Servicios a la industria y al comercio 250.000
-
-más, por cada unidad que integre el condominio 25.000
+V.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2018)
 
 ARTÍCULO 55 A.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
@@ -3027,73 +2875,55 @@ a).- Cuando se paguen las cuotas directamente al momento del acceso y uso de las
 
 18.- Villa deportiva por día de hospedaje, por persona 1.000
 
-b).- Por el acceso y uso de las instalaciones mediante el sistema de membresías:
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-1.- Para entrada general:
+19.- Cancha de frontenis, con iluminación artificial, por hora 0.500
 
-1.1.- Trimestral 5.400
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-1.2.- Semestral 9.450
+20.- Campo de Béisbol, con iluminación artificial, por partido 7.500
 
-2.- Para pista sintética de atletismo, por persona:
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-2.1.- Trimestral 7.200
+21.- Cancha de Tenis con iluminación artificial, por hora y por persona 0.500
 
-2.2.- Semestral 12.600
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-3.- Para alberca olímpica, por niño:
+22.- Auditorio por partido de voleibol y básquetbol con iluminación 4.500
 
-3.1.- Trimestral 7.200
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-3.2.- Semestral 12.600
+23.- Cancha de Voleibol de Playa, sin iluminación, por partido 1.750
 
-4.- Para alberca olímpica, por adulto:
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-4.1.- Trimestral 21.600
+24.- Cancha de Voleibol de Playa, con iluminación, por partido 4.500
 
-4.2.- Semestral 37.800
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-5.- Para cancha de tenis por hora y por persona adulta:
+25.- Cancha de Handball, sin iluminación, por partido 1.750
 
-5.1.- Trimestral 27.000
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-5.2.- Semestral 47.250
+26.- Cancha de Handball, con iluminación, por partido 4.500
 
-6.- Para cancha de tenis por hora con iluminación artificial y por persona adulta:
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-6.1.- Trimestral 36.000
+27.- Campo de Futbol rápido sin iluminación por hora 1.750
 
-6.2.- Semestral 63.000
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-7.- Para cancha de frontenis por hora y por persona:
+28.- Campo de Futbol rápido con iluminación por hora 4.500
 
-7.1.- Trimestral 9.000
-
-7.2.- Semestral 15.750
-
-8.- Para cancha de squash por hora y por persona adulta:
-
-8.1.- Trimestral 18.000
-
-8.2.- Semestral 31.500
-
-9.- Para cancha de squash por hora con iluminación artificial y por persona adulta:
-
-9.1.- Trimestral 36.000
-
-9.2.- Semestral 63.000
-
-10.- Para gimnasio de fisicoculturismo:
-
-10.1.- Trimestral 11.700
-
-10.2.- Semestral 20.475
-
-En el caso de los subincisos 6, 7, 8 y 9 del inciso a) y 5, 6, 8 y 9 del inciso b), se cobrará a los niños un 50% de las cuotas establecidas.
+b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2018)
 
 II.- ESTADIO COLIMA:
 
 a).- Campo de fútbol, por partido 6.250
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+b) Campo de Futbol, por partido con iluminación artificial 7.500
 
 III.- DEPARTAMENTO DE MEDICINA Y CIENCIAS APLICADAS AL DEPORTE:
 
@@ -3130,6 +2960,18 @@ f).- Por el uso del área de la explanada, generales de la zona, por evento 5.93
 g).- Por el uso de las canchas deportivas que requieren alumbrado, por hora utilizada 4.280
 
 h).- Por uso del inmueble en cualquier evento que no sea deportivo, por hora, respecto al uso de alumbrado 4.750
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+V. Por el uso de instalaciones para eventos:
+
+1.- Alberca, por día 30.000
+
+2.- Auditorio Porfirio Gutiérrez, por día 37.000
+
+3.- Auditorio Paralímpico Hilda Ceballos de Moreno, por día 125.000
+
+4.- Auditorio Multifuncional, por día 125.000
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -3301,9 +3143,9 @@ b).- En los Kioscos de Servicios e información 0.830
 
 IV.- Por la prestación de servicios relacionados con la expedición de la autorización estatal para la operación de servicios de seguridad privada, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-a).- Por el estudio y trámite de la solicitud para la expedición de la autorización estatal. 97.625
+a) Por el estudio y trámite de la solicitud para la expedición de la autorización estatal 35.000
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -4547,13 +4389,13 @@ b).- Cuando disminuya la superficie o simplemente se modifiquen las
 
 medidas y colindancias 9.000
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-c).- Inscripción de fusiones y subdivisión sin traslado
+c) Inscripción de fusiones y subdivisión sin traslado de dominio,
 
-de dominio, independientemente que se realice otro
+independientemente que se realice otro acto jurídico, por cada
 
-acto jurídico. 9.000
+una de las fracciones que soliciten inscribir 9.000
 
 XX.- Por la inscripción del programa parcial o incorporación municipal,
 
@@ -4663,6 +4505,12 @@ b) Atención de consulta realizada de manera
 
 escrita con expedición de constancia 5.000
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+c) Consulta realizada por medio del
+
+Sistema de Información en línea 8.500
+
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
 Salvo las que se realicen por número de folio real y/o mercantil las cuales quedarán exentas de pago.
@@ -4739,7 +4587,9 @@ y/o recibo de pago 2.500
 
 XXXIII.- Servicio de notificación vía mensaje de texto a celular o aplicación de software o correo electrónico al titular del derecho registral, por cualquier movimiento que se realice en el folio.
 
-a).- Por ejercicio fiscal y por cada folio 3.500
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+a) Por ejercicio fiscal y por cada folio 1.500
 
 b).- Modificaciones a los datos del usuario
 
@@ -4883,13 +4733,41 @@ el siguiente derecho:
 
 2.- Más, por cada kilómetro recorrido 0.100
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+d) Por levantamientos topográficos en trabajos de planimetría en terreno plano-lomerío:
+
+1.- Terrenos con superficie de hasta 1 hectárea 21.000
+
+2.- Adicional por hectárea cuando la superficie es de 2 hasta
+
+10 hectáreas 10.000
+
+3.- Adicional por hectárea cuando la superficie es de 11 hasta
+
+20 hectáreas 8.700
+
+4.- Adicional por hectárea cuando la superficie es de 21 hasta
+
+100 hectáreas 7.500
+
+5.- Adicional por hectárea cuando la superficie es de 101 hasta
+
+500 hectáreas 3.700
+
+6.- Adicional por hectárea cuando la superficie es de 501 hasta
+
+1000 hectáreas 3.000
+
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 IV.- Informes catastrales relacionados con los predios registrados, a solicitud de los interesados:
 
 1.- Certificado 1.800
 
-2.- Sin certificar 1.000
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+2.- Sin certificar 0.500
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -5009,11 +4887,9 @@ parcelarios, solares o predios de la
 
 pequeña propiedad. 10.000
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-XI.- Por búsqueda en los archivos
-
-históricos catastrales. 0.500
+XI. Por búsqueda en los archivos históricos catastrales 2.500
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -5333,6 +5209,16 @@ a).- Como mínimo desde una hectárea 13.000
 
 b).- Como máximo desde una hectárea 1300.000
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+Artículo 62 BIS 2 B.- Por los servicios prestados por el archivo de Notarías:
+
+I. Expedición de constancia en copia fotostática certificada 8.500
+
+II. Expedición de constancia en copia fotostática 4.500
+
+III. Expedición de testimonios 16.000
+
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPITULO VIII. Servicios Prestados en el Poder Judicial
@@ -5401,7 +5287,7 @@ publicación 0.200
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-Artículo 64 A.- Están obligadas al pago de este derecho las personas físicas y las morales que en el territorio del Estado de Colima exploten o extraigan del suelo o subsuelo, sustancias, minerales o materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos y cuya regulación esté reservada a Estado por las Leyes respectivas.
+Artículo 64 A.- Están obligadas al pago de este derecho las personas físicas y las morales que en el territorio del Estado de Colima exploten o extraigan del suelo o subsuelo, sustancias, minerales o materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos y cuya regulación esté reservada al Estado por las Leyes respectivas.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -5684,6 +5570,10 @@ Los gastos de ejecución y los honorarios por notificación que se recauden, se 
 ###### Artículo 77.
 
 Para determinar las contribuciones y demás conceptos de ingreso que se establecen en esta Ley, se considerarán inclusive, las fracciones del peso; no obstante, para efectuar su pago, el monto se ajustará a la unidad de peso mas próxima.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+En los derechos que se causan por los servicios prestados en los Kioscos de Servicios y Trámites Electrónicos, el monto que se pague en efectivo, se ajustará a la decena de pesos inmediata inferior.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -6448,3 +6338,9 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 532 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 41 Z BIS 12 DE LA LEY DE HACIENDA PARA EL ESTADO DE COLIMA, Y EL NÚMERO 3 DEL PRIMER PÁRRAFO DEL INCISIO B) Y EL PÁRRAFO TERCERO DEL INCISO B), AMBOS DE LA FRACCIÓN II, DEL ARTÍCULO 11 DE LA LEY DE INGRESOS DEL ESTADO DE COLIMA, PARA EL EJERCICIO FISCAL 2018”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 09 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO Y LOS INCISOS B), C), D), E), F) Y J) DE LA FRACCIÓN I DEL ARTÍCULO 55; EL ARTÍCULO 55 B; EL INCISO A) DE LA FRACCIÓN IV DEL ARTÍCULO 62 BIS; EL INCISO C) DE LA FRACCIÓN XIX Y EL INCISO A) DE LA FRACCIÓN XXXIII DEL ARTÍCULO 62 BIS 1; EL NUMERAL 2 DE LA FRACCIÓN IV Y LA FRACCIÓN XI DEL ARTÍCULO 62 BIS 2; SE ADICIONAN LAS FRACCIONES XXXIII, XXXIV Y XXXV AL ARTÍCULO 48; LAS FRACCIONES V, VI Y VII AL ARTÍCULO 53; EL INCISO K) A LA FRACCIÓN I DEL ARTÍCULO 55; LOS NUMERALES 19, 20, 21, 22, 23, 24, 25, 26, 27 Y 28 AL INCISO A) DE LA FRACCIÓN I, EL INCISO B) A LA FRACCIÓN II Y LA FRACCIÓN V DEL ARTÍCULO 59; EL INCISO C) A LA FRACCIÓN XXIX DEL ARTÍCULO 62 BIS 1; EL INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 62 BIS 2; EL ARTÍCULO 62 BIS 2 B; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 77; Y SE DEROGAN LA FRACCIÓN V DEL ARTÍCULO 55; Y EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 59, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día 1° de enero del año 2019, previa su publicación en el Periódico Oficial "El Estado de Colima".
