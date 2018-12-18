@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-12-14"
+last_updated: "2018-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,23 +19,1089 @@ issue_date: "2013-02-07"
 ---
 # ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACION Y LOS JUZGADOS DE DISTRITO] -- ANTES -- ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO]
 
-LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
+[NOTA 1: PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE FEBRERO DE 2020 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2018.
 
-El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
-"NUMERO 84
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
+ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
 
-LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
+CONSIDERANDO
+
+PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina de los tribunales de Circuito y juzgados de Distrito, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
+
+SEGUNDO. El artículo 17 de la Constitución Federal establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes;
+
+TERCERO. El artículo 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos y los artículos 81, fracciones IV, V, VI, XX y XXIV; y 144 de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal, determinar el número y los límites territoriales de los Circuitos en que se divida el territorio de la República Mexicana, así como el número, delimitación territorial y, en su caso, especialización por materia, de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito en cada uno de los mencionados Circuitos. Asimismo, que cada uno de los circuitos comprenderán los distritos judiciales cuyo número y límites territoriales determine el Consejo de la Judicatura Federal, y que en cada Distrito deberá establecerse cuando menos un juzgado;
+
+CUARTO. Con motivo de la creación de órganos jurisdiccionales y su especialización, la creación de nuevos Distritos Judiciales y su delimitación territorial por parte del Pleno del Consejo de la Judicatura Federal, así como la creación de Centros Regionales Auxiliares, y toda vez que el Acuerdo General 11/2011, derogado por el Acuerdo General 17/2012 del Pleno del Consejo de la Judicatura Federal, ha sido reformado en múltiples ocasiones, se hace evidente la necesidad de emitir uno nuevo que lo sustituya y actualice.
+
+En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
+
+ACUERDO
+
+PRIMERO. El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente:
+
+> <small>(REFORMADA POR TRANSITORIO CUARTO DEL ACUERDO GENERAL 30/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE JUNIO DE 2016)</small>
+
+I. PRIMER CIRCUITO: Ciudad de México.
+
+II. SEGUNDO CIRCUITO: Estado de México.
+
+III. TERCER CIRCUITO: Estado de Jalisco.
+
+IV. CUARTO CIRCUITO: Estado de Nuevo León.
+
+V. QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
+
+VI. SEXTO CIRCUITO: Estado de Puebla.
+
+VII. SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+
+VIII. OCTAVO CIRCUITO: Estado de Coahuila de Zaragoza y los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
+
+IX. NOVENO CIRCUITO: Estado de San Luis Potosí.
+
+X. DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
+
+XI. DECIMOPRIMER CIRCUITO: Estado de Michoacán.
+
+XII. DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa y Archipiélago de las Islas Marías.
+
+XIII. DECIMOTERCER CIRCUITO: Estado de Oaxaca.
+
+XIV. DECIMOCUARTO CIRCUITO: Estado de Yucatán.
+
+XV. DECIMOQUINTO CIRCUITO: Estado de Baja California y municipio de San Luis Río Colorado del Estado de Sonora.
+
+XVI. DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
+
+XVII. DECIMOSEPTIMO CIRCUITO: Estado de Chihuahua.
+
+XVIII. DECIMOCTAVO CIRCUITO: Estado de Morelos.
+
+XIX. DECIMONOVENO CIRCUITO: Estado de Tamaulipas.
+
+XX. VIGESIMO CIRCUITO: Estado de Chiapas.
+
+XXI. VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
+
+XXII. VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
+
+XXIII. VIGESIMO TERCER CIRCUITO: Estado de Zacatecas.
+
+XXIV. VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
+
+XXV. VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+
+XXVI. VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+
+XXVII. VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
+
+XXVIII. VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
+
+XXIX. VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
+
+XXX. TRIGESIMO CIRCUITO: Estado de Aguascalientes.
+
+XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
+
+XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE MAYO DE 2014)</small>
+
+SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
+
+I. PRIMER CIRCUITO:
+
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 46/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+
+1. Sesenta y tres tribunales colegiados especializados: diez en materia penal, veintiuno en materia administrativa, quince en materia civil y diecisiete en materia de trabajo, todos con residencia en la Ciudad de México.
+
+> <small>(REFORMADO POR EL ARTÍCULO 3 DEL ACUERDO GENERAL 57/2018 DEL PLENO CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE DICIEMBRE DE 2018)</small>
+
+2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias Civil, Administrativa y Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, todos con residencia en la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Setenta juzgados de Distrito en la Ciudad de México especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 37/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
+
+4. Tres Juzgados de Distrito en Materia Mercantil Especializados en Juicios de Cuantía Menor con residencia en la Ciudad de México.
+
+5. (DEROGADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2017)</small>
+
+6. Cinco Juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
+
+II. SEGUNDO CIRCUITO:
+
+1. Dieciséis tribunales colegiados, de los cuales catorce son especializados: cuatro en materia penal, cuatro en materia civil y dos en materia de trabajo, con residencia en Toluca, y cuatro tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez; y dos tribunales colegiados en Nezahualcóyotl.
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 18/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE JULIO DE 2018)</small>
+
+2. Ocho Tribunales Unitarios: cinco con sede en Toluca, dos con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 39/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE NOVIEMBRE DE 2018)</small>
+
+3. Veintinueve Juzgados de Distrito en el Estado de México; seis de Procesos Penales Federales, siete especializados en materia de Amparo y Juicios Federales y uno en materia Mercantil Federal, todos con residencia en Toluca; diez Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
+
+III. TERCER CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 33/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+
+1. Veintidós tribunales colegiados especializados: tres en materia penal; siete en materia administrativa, cinco en materia civil, y cinco en materia de trabajo, todos con residencia en Zapopan; uno en materia penal y uno en materia civil, ambos con sede en Guadalajara, en Jalisco.
+
+> <small>(REFORMADO, D.O.F. 28 DE AGOSTO DE 2017)</small>
+
+2. Seis tribunales unitarios: cinco con residencia en Zapopan y uno con sede en Guadalajara.
+
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 41/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
+
+3. Treinta y dos juzgados de Distrito especializados: nueve de amparo en materia penal, siete con residencia en Zapopan y dos con sede en Puente Grande; dieciséis en materias administrativa, civil y de trabajo, todos con residencia en el municipio de Zapopan; y siete de procesos penales federales con residencia en Puente Grande.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
+
+4. Dos Juzgados de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco.
+
+IV. CUARTO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2014)</small>
+
+1. Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y cuatro en materia de trabajo, todos con residencia en Monterrey.
+
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
+
+2. Cuatro Tribunales Unitarios: tres con residencia en Monterrey y uno especializado en Materia Penal, con residencia en Cadereyta, todos en el Estado de Nuevo León.
+
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2017)</small>
+
+3. Catorce juzgados de Distrito especializados en el Estado de Nuevo León: seis en materia penal, tres en materia administrativa y cinco en materias civil y de trabajo, todos con residencia en Monterrey.
+
+V. QUINTO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2015)</small>
+
+1. Seis tribunales colegiados especializados; tres en materias penal y administrativa; y tres en materias civil y de trabajo, todos con residencia en Hermosillo.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
+
+2. Seis tribunales unitarios con sede en Hermosillo.
+
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2015)</small>
+
+3. Doce juzgados de Distrito en el Estado de Sonora: seis con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
+
+VI. SEXTO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2013)</small>
+
+1. Diez tribunales colegiados especializados: tres en materia penal, tres en materia administrativa y tres en materia civil, todos con residencia en San Andrés Cholula; uno en materia de trabajo, con sede en Puebla, Puebla".
+
+2. Dos tribunales unitarios con sede en San Andrés Cholula.
+
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+
+3. Quince juzgados de Distrito especializados en el Estado de Puebla: dos de procesos penales federales; ocho de amparo en materia civil, administrativa y de trabajo y de juicios federales; y cinco de amparo en materia penal; los trece primeros, con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
+
+4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula.
+
+VII. SEPTIMO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2014)</small>
+
+1.- Ocho tribunales colegiados especializados: dos en materia penal y dos en materia administrativa, con sede en Boca del Río; dos en materia civil y dos en materia de trabajo, con residencia en Xalapa, todos en el Estado de Veracruz.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+
+2.- Cuatro tribunales unitarios: dos con residencia en Boca del Río, otro con sede en Xalapa y uno con residencia en Veracruz, Veracruz.
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 14/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+3.- Dieciocho Juzgados de Distrito en el Estado de Veracruz, dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco con sede en Xalapa, cuatro Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
+
+VIII. OCTAVO CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 16/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2018)</small>
+
+1. Siete tribunales colegiados especializados: dos en materias civil y de trabajo y tres en materias penal y administrativa, con residencia en Torreón; un tribunal colegiado en materias penal y de trabajo y uno en materias administrativa y civil, con sede en Saltillo.
+
+2. Tres tribunales unitarios, dos con sede en Torreón y uno con sede en Saltillo.
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 34/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2018)</small>
+
+3. Doce Juzgados de Distrito en el Estado de Coahuila de Zaragoza: dos con residencia en Saltillo, uno con sede en Piedras Negras, dos con residencia en Monclova y siete en La Laguna, con sede en Torreón, uno de estos en Materia Mercantil Federal.
+
+IX. NOVENO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2015)</small>
+
+1. Cuatro tribunales colegiados especializados: dos en materias civil y administrativa; uno en materia de trabajo, y uno en materia penal, todos con residencia en San Luis Potosí.
+
+2. Un tribunal unitario con sede en San Luis Potosí.
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 30/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2018)</small>
+
+3. Nueve Juzgados de Distrito en el Estado de San Luis Potosí: seis mixtos y uno en Materia Mercantil Federal, todos con sede en la ciudad del mismo nombre; y dos mixtos con residencia en Ciudad Valles.
+
+X. DECIMO CIRCUITO:
+
+> <small>(REFORMADO POR EL ARTÍCULO 23 DEL ACUERDO GENERAL 51/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE DICIEMBRE DE 2018)</small>
+
+1. Seis tribunales colegiados: Cinco especializados: uno en materia administrativa, uno en materia civil, uno en materia penal y dos en materia de trabajo, todos con residencia en Villahermosa, y, dos con residencia en Coatzacoalcos.
+
+2. Dos tribunales unitarios con sede en Villahermosa.
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 40/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE NOVIEMBRE DE 2018)</small>
+
+3. Ocho juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa, uno de ellos en Materia Mercantil Federal.
+
+> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+4. Cuatro Juzgados de Distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
+
+XI. DECIMOPRIMER CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2017)</small>
+
+1. Seis tribunales colegiados especializados: uno en materia penal, tres en materias administrativa y de trabajo, y dos en materia civil, todos con residencia en Morelia.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2017)</small>
+
+2. Tres tribunales unitarios con sede en Morelia.
+
+3. Nueve juzgados de Distrito en el Estado de Michoacán: seis con residencia en Morelia y tres con sede en Uruapan.
+
+XII. DECIMOSEGUNDO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2014)</small>
+
+1. Cinco tribunales colegiados especializados: dos en materia administrativa, uno en materia civil, uno en materia de trabajo y uno en materia penal, todos con residencia en Mazatlán, Sinaloa.
+
+2. Tres tribunales unitarios: dos con sede en Mazatlán y uno con residencia en Culiacán.
+
+3. Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
+
+4. (DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)
+
+XIII. DECIMOTERCER CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+1. Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa, y uno en materias de trabajo y administrativa, todos con residencia en San Bartolo Coyotepec, Oaxaca.
+
+> <small>(REFORMADO, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+2. Dos tribunales unitarios con sede en San Bartolo Coyotepec, Oaxaca.
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 23/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2018)</small>
+
+3. Doce Juzgados de Distrito en el Estado de Oaxaca; nueve Mixtos y uno en materia Mercantil Federal, todos con residencia en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
+
+XIV. DECIMOCUARTO CIRCUITO:
+
+1. Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa y uno en materias de trabajo y administrativa, todos con residencia en Mérida.
+
+2. Un tribunal unitario con sede en Mérida.
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 27/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE SEPTIEMBRE DE 2018)</small>
+
+3. Seis Juzgados de Distrito en el Estado de Yucatán; cinco Mixtos y uno en materia Mercantil Federal, todos con sede en Mérida.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE DICIEMBRE DE 2018, PÁGINA 100.]</small>
+
+XV. DECIMOQUINTO CIRCUITO:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO] POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
+
+1. Ocho tribunales colegiados: seis con residencia en Mexicali y dos especializados en materia civil y de trabajo, con residencia en Tijuana.
+
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
+
+2. Nueve tribunales unitarios: cuatro con sede en Mexicali y cinco con residencia en Tijuana.
+
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
+
+3. Veinte juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis Mixtos; y uno en Materia Mercantil Federal, todos con sede en Mexicali; y diez con residencia en Tijuana, estos últimos comprenden cinco especializados en Procesos Penales Federales y cinco en Materia de Amparo y Juicios Federales.
+
+XVI. DECIMOSEXTO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+1. Nueve tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y dos en materia de trabajo, todos con residencia en Guanajuato, Guanajuato.
+
+> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2014)</small>
+
+2. Cuatro tribunales unitarios con sede en Guanajuato.
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 39/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE ENERO DE 2018)</small>
+
+3. Doce juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, cinco con sede en León, tres con residencia en Celaya y dos con sede en Irapuato.
+
+XVII. DECIMOSEPTIMO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2017)</small>
+
+1. Siete tribunales colegiados: cinco especializados, dos en materias penal y administrativa; y tres en materias civil y de trabajo, todos con residencia en la ciudad de Chihuahua; así como dos con sede en Ciudad Juárez.
+
+2. Cuatro tribunales unitarios: dos con residencia en Chihuahua y dos con sede en Ciudad Juárez.
+
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 49/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
+
+3. Once juzgados de Distrito en el Estado de Chihuahua: seis con residencia en la ciudad del mismo nombre y cinco con sede en Ciudad Juárez.
+
+XVIII. DECIMOCTAVO CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 4/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)</small>
+
+1. Seis tribunales colegiados especializados: dos en materia de trabajo, tres en materias penal y administrativa y uno en materia civil, todos con residencia en Cuernavaca, Morelos.
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2016)</small>
+
+2. Dos tribunales unitarios con sede en Cuernavaca.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+
+3. Ocho juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
+
+XIX. DECIMONOVENO CIRCUITO:
+
+1. Seis tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como dos con sede en Reynosa, Tamaulipas.
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 12/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2018)</small>
+
+2. Seis tribunales unitarios: uno con sede en Ciudad Victoria, dos con residencia en Matamoros, dos con sede en Reynosa y uno con residencia en Nuevo Laredo.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2016)</small>
+
+3. Quince juzgados de Distrito en el Estado de Tamaulipas: cuatro con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, uno en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
+
+XX. VIGESIMO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2015)</small>
+
+1. Cuatro tribunales colegiados especializados: dos en materias penal y civil, uno en materia de trabajo y uno en materia administrativa, todos con residencia en Tuxtla Gutiérrez, Chiapas.
+
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2016)</small>
+
+2. Dos tribunales unitarios con sede en Cintalapa de Figueroa, Chiapas.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+3. Once juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; siete juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; y dos juzgados de Distrito mixtos con residencia en Tapachula.
+
+XXI. VIGESIMO PRIMER CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2014)</small>
+
+1. Cinco tribunales colegiados especializados: tres en materias civil y de trabajo, con residencia en Chilpancingo; y dos tribunales colegiados en materias penal y administrativa, con sede en Acapulco.
+
+2. Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
+
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
+3. Once juzgados de Distrito en el Estado de Guerrero: tres con residencia en Chilpancingo, seis con residencia en Acapulco, uno de éstos en Materia Mercantil Federal y dos con residencia en Iguala.
+
+XXII. VIGESIMO SEGUNDO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2017)</small>
+
+1. Cinco Tribunales Colegiados semiespecializados: uno en materias penal y administrativa; uno en materias administrativa y de trabajo; y tres en materias administrativa y civil, todos con residencia en Querétaro, Querétaro.
+
+2. Un tribunal unitario con sede en Querétaro.
+
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2016)</small>
+
+3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y siete de Amparo y Juicios Federales.
+
+XXIII. VIGESIMO TERCER CIRCUITO:
+
+1. Un tribunal colegiado con residencia en Zacatecas.
+
+> <small>(REFORMADO POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2018)</small>
+
+2. Un Tribunal Unitario con sede en Zacatecas.
+
+> <small>(REFORMADO POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2018)</small>
+
+3. Tres Juzgados de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
+
+XXIV. VIGESIMO CUARTO CIRCUITO:
+
+1. Dos tribunales colegiados con residencia en Tepic.
+
+2. Dos tribunales unitarios con sede en Tepic.
+
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2017)</small>
+
+3. Ocho juzgados de Distrito en el Estado de Nayarit: dos especializados en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales, cuatro de Amparo en Materia Penal y dos de Procesos Penales Federales, todos con residencia en Tepic.
+
+XXV. VIGESIMO QUINTO CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 9/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
+
+1. Cuatro Tribunales Colegiados con residencia en Durango.
+
+2. Un tribunal unitario con sede en Durango.
+
+3. Tres juzgados de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre.
+
+XXVI. VIGESIMO SEXTO CIRCUITO:
+
+1. Un tribunal colegiado con residencia en La Paz.
+
+2. Un tribunal unitario con sede en La Paz.
+
+3. Tres juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz.
+
+XXVII. VIGESIMO SEPTIMO CIRCUITO:
+
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
+
+1. Tres tribunales colegiados con residencia en Cancún.
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 24/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2018)</small>
+
+2. Dos tribunales unitarios con sede en Cancún.
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 13/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+3. Ocho Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y seis con sede en Cancún.
+
+4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún.
+
+XXVIII. VIGESIMO OCTAVO CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
+
+1. Dos tribunales colegiados con residencia en Apizaco, Tlaxcala.
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
+
+2. Un tribunal unitario con sede en Apizaco, Tlaxcala.
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
+
+3. Tres juzgados de Distrito con residencia en Apizaco, Tlaxcala.
+
+XXIX. VIGESIMO NOVENO CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 21/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+
+1. Tres tribunales colegiados con residencia en Pachuca.
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 21/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+
+2. Un tribunal unitario con sede en Pachuca.
+
+3. Cuatro juzgados de distrito en el Estado de Hidalgo, con residencia en Pachuca.
+
+XXX. TRIGESIMO CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 25/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2018)</small>
+
+1. Cuatro Tribunales Colegiados con residencia en Aguascalientes.
+
+2. Un tribunal unitario con sede en Aguascalientes.
+
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2017)</small>
+
+3. Seis juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+
+XXXI. TRIGESIMO PRIMER CIRCUITO:
+
+1. Un tribunal colegiado con residencia en Campeche.
+
+2. Un tribunal unitario con sede en Campeche.
+
+3. Dos juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
+
+XXXII. TRIGESIMO SEGUNDO CIRCUITO:
+
+1. Un tribunal colegiado con residencia en Colima.
+
+2. Un tribunal unitario con sede en Colima.
+
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 2017)</small>
+
+3. Tres juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre.
+
+TERCERO. La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
+
+I. PRIMER CIRCUITO: Distrito Federal.
+
+II. SEGUNDO CIRCUITO: Los tribunales colegiados en materia penal, en materia administrativa, en materia civil y en materia de trabajo, es la establecida para los juzgados de Distrito con sede en Toluca y Naucalpan de Juárez, Estado de México; y en cuanto a los tribunales colegiados con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
+
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
+
+Para los Tribunales Unitarios con residencia en Toluca, y para el Tribunal Unitario especializado en Materia Penal con residencia en Almoloya de Juárez, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 18/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE JULIO DE 2018)</small>
+
+Los tribunales unitarios con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
+
+III. TERCER CIRCUITO: Estado de Jalisco.
+
+IV. CUARTO CIRCUITO: Estado de Nuevo León.
+
+V. QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
+
+VI. SEXTO CIRCUITO: Estado de Puebla.
+
+VII. SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+
+VIII. OCTAVO CIRCUITO: Los tribunales colegiados con residencia en Torreón, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en La Laguna, con sede en Torreón, Coahuila de Zaragoza.
+
+Los tribunales colegiados con residencia en Saltillo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con sedes en Saltillo, Piedras Negras y Monclova.
+
+Los tribunales unitarios con residencia en Torreón, su jurisdicción será igual a la establecida para los Juzgados de Distrito en La Laguna, con sede en Torreón y para el tribunal unitario con residencia en Saltillo, su jurisdicción será igual a la establecida para los Juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo, Piedras Negras y Monclova.
+
+IX. NOVENO CIRCUITO: Estado de San Luis Potosí.
+
+X. DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
+
+XI. DECIMOPRIMER CIRCUITO: Estado de Michoacán.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+
+XII. DECIMOSEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+
+En los tribunales unitarios con residencia en Mazatlán, su jurisdicción será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en Los Mochis y la establecida para el Juzgado Octavo de Distrito del Centro Auxiliar de la Quita (sic) Región, con residencia en Mazatlán, Sinaloa, en cuanto al Distrito Judicial conformado por el territorio del Archipiélago de las Islas Marías.
+
+El tribunal unitario con residencia en Culiacán, tendrá la misma que la establecida para los juzgados de Distrito en el Estado de Sinaloa, con sede en la citada ciudad.
+
+XIII. DECIMOTERCER CIRCUITO: Estado de Oaxaca.
+
+XIV. DECIMOCUARTO CIRCUITO: Estado de Yucatán.
+
+> <small>(REFORMADA POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 29/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2016)</small>
+
+XV. DECIMOQUINTO CIRCUITO: En los tribunales colegiados con residencia en Mexicali, para las materias penal y administrativa, su jurisdicción es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora y por lo que toca a las materias civil y de trabajo, dicha jurisdicción se limita al municipio de San Luis Río Colorado del Estado de Sonora y a Mexicali, Baja California.
+
+Los tribunales colegiados en materias civil y de trabajo con residencia en Tijuana, tendrán jurisdicción en el territorio que comprende dicho municipio y en los diversos de Ensenada, Playas de Rosarito y Tecate, en el Estado de Baja California.
+
+Los tribunales unitarios con residencia en Mexicali será igual a la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en dicha ciudad.
+
+Los tribunales unitarios con residencia en Tijuana tendrán la misma que la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
+
+XVI. DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
+
+XVII. DECIMOSEPTIMO CIRCUITO: Los tribunales colegiados con sede en Chihuahua, será igual a la establecida para los juzgados de Distrito en la referida ciudad.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2017)</small>
+
+La jurisdicción territorial de los tribunales colegiados con residencia en Ciudad Juárez, será la misma que la establecida para los juzgados de Distrito en esa sede.
+
+Los tribunales unitarios con residencia en Chihuahua, será igual a la establecida para los juzgados de Distrito en el Estado de Chihuahua, con residencia en dicha ciudad.
+
+Los tribunales unitarios con residencia en Ciudad Juárez, tendrán la misma que la establecida para los juzgados de Distrito en el Estado de Chihuahua, con sede en la citada ciudad.
+
+XVIII. DECIMOCTAVO CIRCUITO: Estado de Morelos.
+
+XIX. DECIMONOVENO CIRCUITO: En los tribunales colegiados con sede en Ciudad Victoria, será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la citada ciudad y en la de Tampico.
+
+Para los tribunales colegiados con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en Matamoros, Nuevo Laredo y Reynosa.
+
+El tribunal unitario con sede en Ciudad Victoria tendrá la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en Tampico.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 18/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MAYO DE 2016)</small>
+
+En los tribunales unitarios con sede en Matamoros, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la citada ciudad.
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 12/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2018)</small>
+
+Para los tribunales unitarios con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la ciudad aludida.
+
+En el tribunal unitario con residencia en Nuevo Laredo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en dicha ciudad.
+
+XX. VIGESIMO CIRCUITO: Estado de Chiapas.
+
+XXI. VIGESIMO PRIMER CIRCUITO: En los tribunales colegiados es el Estado de Guerrero.
+
+El tribunal unitario con residencia en Chilpancingo, tendrá su jurisdicción territorial en la establecida para los juzgados de Distrito en el Estado de Guerrero, con sede en dicha ciudad y en Iguala.
+
+El tribunal unitario con residencia en Acapulco, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Guerrero, con residencia en la citada ciudad.
+
+XXII. VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
+
+XXIII. VIGESIMO TERCER CIRCUITO: Estado de Zacatecas.
+
+XXIV. VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
+
+XXV. VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+
+XXVI. VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+
+XXVII. VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
+
+XXVIII. VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
+
+XXIX. VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
+
+XXX. TRIGESIMO CIRCUITO: Estado de Aguascalientes.
+
+XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
+
+XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
+
+CUARTO. La jurisdicción territorial de los juzgados de Distrito es la siguiente:
+
+I. PRIMER CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+
+Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados de Distrito Especializados en Ejecución de Penas, que ejercerán jurisdicción territorial en toda la República Mexicana.
+
+> <small>(DEROGADO TERCER PÁRRAFO POR EL TRANSITORIO DÉCIMO PRIMERO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+II. SEGUNDO CIRCUITO:
+
+Los juzgados de Distrito de Procesos Penales Federales en el Estado de México y los juzgados de Distrito en materias de amparo y de juicios federales en el Estado de México, con residencia en Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
+
+Los juzgados de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec de Morelos, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Tonanitla, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango.
+
+Los juzgados de Distrito en el Estado de México, con residencia en Nezahualcóyotl, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad.
+
+> <small>(DEROGADO QUINTO PÁRRAFO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 17/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE ABRIL DE 2015)</small>
+
+III. TERCER CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Jalisco, con residencia en Zapopan y Puente Grande, ejercerán jurisdicción territorial en el Distrito Judicial conformado por la propia entidad federativa.
+
+IV. CUARTO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Nuevo León, con residencia en Monterrey, ejercerán jurisdicción territorial en el distrito judicial que conforma el territorio de la propia entidad federativa.
+
+V. QUINTO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Aconchi, Arivechi, Bacadehuachi, Bacanora, Banámichi, Baviácora, Carbó, Divisaderos, Empalme, Granados, Guaymas, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Pesqueira y Yécora.
+
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Nogales, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Altar, Atil, Benjamín Hill, Caborca, Cucurpe, General Plutarco Elías Calles, Imuris, Magdalena, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
+
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Ciudad Obregón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alamos, Bácum, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa, Quiriego, Rosario y San Ignacio Río Muerto.
+
+El juzgado de Distrito en el Estado de Sonora, con residencia en Agua Prieta, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 24/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
+
+VI. SEXTO CIRCUITO:
+
+Los Juzgados de Distrito en el Estado de Puebla, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+VII. SEPTIMO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alamo Temapache, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, San Rafael, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
+
+Los juzgados de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Alvarado, Amatitlán, Angel R. Cabada, Boca del Río, Carlos A. Carrillo, Catemaco, Cosamaloapan de Carpio, Cotaxtla, Chacaltianguis, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixmatlahuacán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, Lerdo de Tejada, Manlio Fabio Altamirano, Medellín, Otatitlán, Paso de Ovejas, Playa Vicente, Puente Nacional, Saltabarranca, San Andrés Tuxtla, Santiago Sochiapan, Santiago Tuxtla, Soledad de Doblado, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles, Tuxtilla, Ursulo Galván y Veracruz.
+
+El Juzgado de Distrito en el Estado de Veracruz, con sede en Córdoba, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acultzingo, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Coetzala, Córdoba, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huiloapan de Cuauhtémoc, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Paso del Macho, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacán, Tezonapa, Tlaquilpa, Tlilapan, Tomatlán, Xoxocotla, Yanga y Zongolica.
+
+Los juzgados de Distrito en el Estado de Veracruz, con residencia en Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cerro Azul, Citlaltépetl, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, El Higo, Huayacocotla, Llamatlán, Ixcatepec, Ixhuatlán de Madero, Naranjos Amatlán, Ozuluama de Mascareñas, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Temapache, Tempoal, Tepetzintla, Texcatepec, Tlachichilco, Tuxpan, Zacualpan y Zontecomatlán de López y Fuentes.
+
+Los juzgados de Distrito en el Estado de Veracruz, con sede en Poza Rica, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Castillo de Teayo, Cazones de Herrera, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Poza Rica de Hidalgo, Tecolutla, Tihuatlán y Zozocolco de Hidalgo.
+
+Los juzgados de Distrito de Procesos Penales Federales en el Estado de Veracruz, con residencia en Villa Aldama, conocerán de los asuntos que correspondan a los reos internados en el Centro Federal de Readaptación Social Número Cinco Oriente, en Villa Aldama, Veracruz.
+
+VIII. OCTAVO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Saltillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
+
+El juzgado de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Piedras Negras, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuña, Allende, Guerrero, Hidalgo, Jiménez, Juárez, Morelos, Múzquiz, Nava, Piedras Negras, Progreso, Sabinas, San Juan de Sabinas, Villa Unión y Zaragoza.
+
+Los juzgados de Distrito en el Estado de Coahuila de Zaragoza, con residencia en Monclova, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada.
+
+Los juzgados de Distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila de Zaragoza, así como en los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
+
+IX. NOVENO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Ciudad Fernández, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Rioverde, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierra Nueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
+
+Los juzgados de Distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo y Xilitla.
+
+X. DECIMO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+Los juzgados de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+
+XI. DECIMOPRIMER CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Michoacán, con residencia en Morelia, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuitzio, Alvaro Obregón, Angamacutiro, Angangueo, Aporo, Ario, Carácuaro, Coeneo, Contepec, Copándaro, Cuitzeo, Charo, Chucándiro, Churintzio, Churumuco, Epitacio Huerta, Erongarícuaro, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Jiménez, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Madero, Maravatío, Morelia, Morelos, Nocupétaro, Nuevo Urecho, Numarán, Ocampo, Panindícuaro, Pátzcuaro, Penjamillo, Puruándiro, Queréndaro, Quiroga, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tarímbaro, Tiquicheo de Nicolás Romero, Tlalpujahua, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro y Zitácuaro.
+
+Los juzgados de Distrito en el Estado de Michoacán, con residencia en Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tinguindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa y Ziracuaretiro.
+
+XII. DECIMOSEGUNDO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Culiacán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Culiacán y Navolato.
+
+Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
+
+Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
+
+> <small>(DEROGADO CUARTO PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+
+XIII. DECIMOTERCER CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 45/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+Los juzgados de Distrito en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, Oaxaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de Distrito con residencia en Salina Cruz.
+
+Los juzgados de Distrito en el Estado de Oaxaca, con residencia en Salina Cruz, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Asunción Ixtaltepec, Ciudad Ixtepec, Chauites, El Barrio de la Soledad, El Espinal, Guevea de Humboldt, Juchitán de Zaragoza, Magdalena Tequisistlán, Magdalena Tlacotepec, Matías Romero, Reforma de Pineda, Salina Cruz, San Blás Atempa, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Guichicovi, San Mateo del Mar, San Miguel Chimalapa, San Miguel del Puerto, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Mixtepec, San Pedro Pochutla, San Pedro Tapanatepec, Santa María Colotepec, Santa María Chimalapa, Santa María Guienagati, Santa María Huatulco, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Tonameca, Santa María Totolapilla, Santa María Xadani, Santiago Astata, Santiago Lachiguiri, Santiago Laollaga, Santiago Niltepec, Santo Domingo Chihuitán, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec y Unión Hidalgo.
+
+XIV. DECIMOCUARTO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XV. DECIMOQUINTO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Baja California, con residencia en Mexicali, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Mexicali del Estado de Baja California y por el municipio de San Luis Río Colorado del Estado de Sonora.
+
+Los juzgados de Distrito en el Estado de Baja California, con residencia en Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Playas de Rosarito, Tecate y Tijuana.
+
+Los juzgados de Distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre.
+
+XVI. DECIMOSEXTO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Atarjea, Doctor Mora, Dolores Hidalgo, Guanajuato, San Diego de la Unión, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Tierra Blanca, Victoria y Xichú.
+
+Los juzgados de Distrito en el Estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Purísima del Rincón, San Felipe y San Francisco del Rincón.
+
+Los juzgados de Distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarímoro, Uriangato, Villagrán y Yuriria.
+
+Los Juzgados de Distrito en el Estado de Guanajuato, con sede en Irapuato, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, Silao y Valle de Santiago.
+
+XVII. DECIMOSEPTIMO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame del Sotol, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
+
+Los juzgados de Distrito en el Estado de Chihuahua, con sede en Ciudad Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxedis G. Guerrero.
+
+XVIII. DECIMOCTAVO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XIX. DECIMONOVENO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Antiguo Morelos, Bustamante, Casas, El Mante, Gómez Farías, Güemez, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Tula, Victoria, Villagrán y Xicoténcatl.
+
+Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Nuevo Laredo, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Nuevo Laredo.
+
+Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Matamoros, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Burgos, Cruillas, Matamoros, Méndez, San Fernando y Valle Hermoso.
+
+Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Reynosa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
+
+> <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 22/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MAYO DE 2016)</small>
+
+Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico y en Ciudad Madero, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
+
+XX. VIGESIMO CIRCUITO:
+
+Los juzgados de Distrito de Procesos Penales Federales en el Estado de Chiapas, con sede en Cintalapa de Figueroa y los juzgados de Distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenajapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago el Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
+
+Los juzgados de Distrito en el Estado de Chiapas, con residencia en Tapachula, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acacoyahua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán.
+
+XXI. VIGESIMO PRIMER CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Guerrero, con residencia en Chilpancingo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acatepec, Ahuacotzingo, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Cochoapa el Grande, Copanatoyac, Cualac, Chilapa de Alvarez, Chilpancingo de los Bravo, Eduardo Neri, General Heliodoro Castillo, Huamuxtitlán, Iliatenco, José Joaquín de Herrera, Leonardo Bravo, Malinaltepec, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
+
+Los juzgados de Distrito en el Estado de Guerrero, con sede en Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Juchitán, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Marquelia, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca, Xochistlahuaca y Zihuatanejo de Azueta.
+
+Los Juzgados de Distrito en el Estado de Guerrero, con residencia en Iguala, ejercerán jurisdicción en el distrito judicial conformado por los municipios de Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisirias, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
+
+XXII. VIGESIMO SEGUNDO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XXIII. VIGESIMO TERCER CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Zacatecas ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa
+
+XXIV. VIGESIMO CUARTO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Nayarit, con residencia en Tepic, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XXV. VIGESIMO QUINTO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan del Río, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
+
+XXVI. VIGESIMO SEXTO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XXVII. VIGESIMO SEPTIMO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos, Othón P. Blanco y Bacalar.
+
+Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas, Solidaridad y Tulum.
+
+XXVIII. VIGESIMO OCTAVO CIRCUITO:
+
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 3/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE FEBRERO DE 2018)</small>
+
+Los juzgados de Distrito con residencia en Apizaco, Tlaxcala, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XXIX. VIGESIMO NOVENO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XXX. TRIGESIMO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XXXI. TRIGESIMO PRIMER CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XXXII. TRIGESIMO SEGUNDO CIRCUITO:
+
+Los juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero, Segundo y Tercer Circuito, y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
+
+QUINTO. Centros Auxiliares Regionales:
+
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 4/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)</small>
+
+1. El Centro Auxiliar de la Primera Región se integrará por cuatro tribunales colegiados de Circuito Auxiliares, dos con residencia en la Ciudad de México y dos con residencia en Naucalpan de Juárez, Estado de México, y tres juzgados de Distrito auxiliares con sede en la Ciudad de México, de los cuales, uno está especializado además en materia de extinción de dominio;
+
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+
+2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla.
+
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 33/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+
+3. El Centro Auxiliar de la Tercera Región se integrará por dos juzgados de Distrito Auxiliares uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
+4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares y tres juzgados de Distrito Auxiliares.
+
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2015)</small>
+
+5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y seis juzgados de Distrito Auxiliares, cinco con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa.
+
+6. (DEROGADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 49/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)
+
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
+7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y tres juzgados de Distrito Auxiliares.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+
+8. El Centro Auxiliar de la Octava Región, se integrará por un Tribunal Colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2015)</small>
+
+9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y cuatro juzgados de Distrito Auxiliares.
+
+10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y tres juzgados de Distrito Auxiliares.
+
+> <small>(REFORMADO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz se integrará por un Tribunal Colegiado de Circuito Auxiliar.
+
+Todos los órganos jurisdiccionales antes citados tendrán jurisdicción en toda la República Mexicana y su competencia será mixta, a excepción del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región que además se especializa en materia de extinción de dominio.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2017)</small>
+
+QUINTO BIS. Centros de Justicia Penal Federal:
+
+I. El Centro de Justicia Penal Federal en el Estado de Aguascalientes con residencia en la ciudad del mismo nombre.
+
+II. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Mexicali.
+
+III. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana.
+
+> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
+
+III Bis. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Ensenada.
+
+IV. El Centro de Justicia Penal Federal en el Estado de Baja California Sur, con residencia en La Paz, Baja California Sur.
+
+V. El Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
+
+VI. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, Chiapas.
+
+> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
+
+VI Bis. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Tapachula.
+
+VII. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
+
+> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
+
+VII Bis. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Ciudad Juárez.
+
+VIII. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, Coahuila.
+
+IX. El Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre.
+
+X. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Norte.
+
+XI. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Oriente.
+
+XII. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Sur.
+
+XIII. El Centro de Justicia Penal Federal en el Estado de Durango, con residencia en Durango, Durango.
+
+XIV. El Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre.
+
+XV. El Centro de Justicia Penal Federal en el Estado de Guerrero, con residencia en Acapulco, Guerrero.
+
+XVI. El Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, Hidalgo.
+
+XVII. El Centro de Justicia Penal Federal en el Estado de Jalisco, con residencia en el complejo penitenciario Puente Grande.
+
+XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México.
+
+XIX. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano).
+
+XX. El Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, Michoacán.
+
+XXI. El Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Cuernavaca, Morelos.
+
+XXII. El Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en la ciudad de Tepic, Nayarit, y contará con una sala remota en la Isla María Madre.
+
+XXIII. El Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, Nuevo León.
+
+> <small>(REFORMADA, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 23 DE FEBRERO DE 2018)</small>
+
+XXIV. El Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec.
+
+> <small>(REFORMADA, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 23 DE FEBRERO DE 2018)</small>
+
+XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
+
+XXVI. El Centro de Justicia Penal Federal en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+
+XXVII. El Centro de Justicia Penal Federal en el Estado de Quintana Roo, con residencia en Cancún, Quintana Roo.
+
+XXVIII. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
+
+XXIX. El Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, Sinaloa.
+
+XXX. El Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, Sonora.
+
+XXXI. El Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, Tabasco.
+
+XXXII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Ciudad Victoria.
+
+XXXIII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa.
+
+XXXIV. El Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residencia en Apizaco, Tlaxcala.
+
+XXXV. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos.
+
+XXXVI. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa.
+
+XXXVII. El Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, Yucatán.
+
+XXXVIII. El Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
+
+> <small>(REFORMADO, D.O.F. DE 9 DE JUNIO DE 2016)</small>
+
+QUINTO TER. Los órganos jurisdiccionales de los Centros de Justicia Penal Federal serán competentes en todo el territorio de la entidad federativa de su residencia, con excepción de lo siguiente:
+
+I. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Mexicali: cuya jurisdicción territorial comprenderá dicho municipio, así como el de San Luis Río Colorado, Sonora;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
+
+I. Bis. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Tijuana: cuya jurisdicción territorial comprenderá dicho municipio y los diversos de Tecate y Playas de Rosarito;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 36/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2018)</small>
+
+I. Ter. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Ensenada, cuya jurisdicción territorial comprenderá dicho municipio;
+
+II. Centro de Justicia Penal Federal en el Estado de Baja California, con sede en Tijuana: cuya jurisdicción territorial comprenderá dicho municipio y los diversos de Ensenada, Tecate y Playas de Rosarito;
+
+> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
+
+II Bis. Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, cuya jurisdicción territorial comprenderá los municipios de: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Ángel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larráinzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago El Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán; todos ellos del Estado de Chiapas.
+
+> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
+
+II Ter. Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Tapachula, cuya jurisdicción territorial comprenderá los municipios de: Acacoyagua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán; todos ellos del Estado de Chiapas.
+
+> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
+
+II Quater. Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en Chihuahua, cuya jurisdicción territorial comprenderá los municipios de Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
+
+> <small>(ADICIONADA POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 29/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
+
+II Quinquies. Centro de Justicia Penal Federal en el Estado de Chihuahua, con sede en Ciudad Juárez: cuya jurisdicción territorial comprenderá los municipios de Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxiedis G. Guerrero.
+
+III. Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, son sede en Torreón: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios de Durango señalados en la fracción siguiente;
+
+IV. Centro de Justicia Penal Federal en el Estado de Durango, con sede en la ciudad del mismo nombre: cuya jurisdicción territorial comprenderá el Estado de Durango, salvo los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2017)</small>
+
+IV Bis. Centro de Justicia Penal Federal en el Estado de México, con sede en Nezahualcóyotl cuya jurisdicción territorial comprenderá los municipios de Acolman; Amecameca; Atenco; Atlautla; Axapusco; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Nezahualcóyotl; Nopaltepec; Otumba; Ozumba; Papalotla; San Martín de las Pirámides; Tecámac; Temamatla; Temascalapa; Tenango del Aire; Teotihuacán; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco; Valle de Chalco Solidaridad; Apaxco; Atizapán de Zaragoza; Coacalco de Berriozábal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Ecatepec de Morelos; Huehuetoca; Hueypoxtla; Jaltenco; Melchor Ocampo; Nextlalpan; Nicolás Romero; Polotitlán; Soyaniquilpan de Juárez; Teoloyucán; Tepotzotlán; Tequixquiac; Timilpan; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán y Zumpango; todos ellos del Estado de México."
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
+
+IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano) cuya jurisdicción territorial comprenderá los municipios de Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
+
+V. Centro de Justicia Penal Federal en el Estado de Nayarit, con sede en Tepic: cuya jurisdicción territorial comprenderá dicha entidad federativa y el territorio del archipiélago de las Islas Marías;
+
+VI. Centro de Justicia Penal Federal en el Estado de Sonora, con sede en Hermosillo: cuya jurisdicción territorial comprenderá dicha entidad federativa, con excepción del municipio de San Luis Río Colorado;
+
+VII. Centro de Justicia Penal Federal en el Estado de Tamaulipas, con sede en Ciudad Victoria: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios de los Distritos Judiciales de Ciudad Victoria y Tampico que integran la misma con excepción de los señalados en la fracción siguiente;
+
+VIII. Centro de Justicia Penal Federal en el Estado de Tamaulipas, con sede en Reynosa: cuya jurisdicción territorial comprenderá los municipios de Nuevo Laredo, Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa, Río Bravo, Burgos, Cruillas, Matamoros, Méndez, San Fernardo (sic) y Valle Hermoso;
+
+IX. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en Coatzacoalcos: cuya jurisdicción territorial comprenderá los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza de dicho Estado;
+
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2017)</small>
+
+X. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en la ciudad de Xalapa: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios que integran la misma con excepción de los señalados en la fracción anterior;
+
+XI. Todos los Centros de Justicia Penal Federal, además de los asuntos que les correspondan por su jurisdicción territorial conocerán de aquellos que deriven de procesos penales seguidos por delitos cometidos en el resto del territorio nacional, a que se refieren los artículos 42 y 48 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2017)</small>
+
+El Centro de Justicia Penal Federal competente será el más cercano al lugar en que se haya cometido el delito;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2017)</small>
+
+XII. Tratándose de los delitos cometidos en el extranjero o en extensiones del territorio nacional se observará lo siguiente:
+
+a) En los casos de los artículos 2°, 4° y 5°, fracción V, del Código Penal Federal será competente el Centro de Justicia Penal Federal en cuya jurisdicción territorial se encuentre el imputado; pero si éste se hallare en el extranjero, lo serán para conocer de los actos surgidos antes de la audiencia inicial, y desde ésta hasta el dictado de la sentencia, así como de los medios de impugnación respectivos, los Jueces de Distrito de los Centros de Justicia Penal Federal en la Ciudad de México, y, en su caso, los habilitados; y
+
+b) En los casos de las fracciones I y II del artículo 5° del Código Penal Federal, en términos similares a los de la fracción anterior, es competente el Centro de Justicia Penal Federal a cuya jurisdicción corresponda el primer punto del territorio nacional a donde arribe el buque; y en los supuestos de la fracción III del mismo artículo, el Centro a cuya jurisdicción pertenezca el puerto en que se encuentre o arribe el buque.
+
+Lo previsto en el párrafo que antecede es aplicable a los delitos aludidos en la fracción IV del artículo 5° de dicho Código; y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2017)</small>
+
+XIII. Todos los Centros de Justicia Penal Federal, además de los asuntos que les correspondan por su jurisdicción territorial conocerán de los procedimientos de extradición.
+
+Serán competentes los jueces de distrito especializados en el sistema penal acusatorio, del Centro de Justicia Penal Federal donde se encuentre el reclamado. Cuando se desconozca el paradero de éste, serán competentes los Jueces de Distrito de los Centros de Justicia Penal de la Ciudad de México.
+
+> <small>(REFORMADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+
+QUINTO QUATER. El Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, está conformado por ocho jueces de Control y un Tribunal Unitario de Circuito, con jurisdicción en toda la República Mexicana.
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 22/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2013)</small>
+
+SEXTO. Órganos Jurisdiccionales en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal, y Jurisdicción en toda la República, integrado por: dos juzgados de distrito y dos tribunales colegiados de circuito.
+
+SÉPTIMO. El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, interpretarán y resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
+
+OCTAVO. Los asuntos que como consecuencia de la entrada en vigor de este acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal de Circuito o juzgado de Distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -180,10 +1246,6 @@ XXVII. Vigilar y Promover el cumplimiento de esta Ley y los demás ordenamientos
 XXVIII. Las demás atribuciones que conforme a ésta u otras Leyes o disposiciones reglamentarias le correspondan.
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2007)</small>
-
-###### ARTICULO 7° Bis.
-
-Corresponde a la Procuraduría Estatal de Protección al Ambiente el ejercicio de las atribuciones de inspección, vigilancia y sanción que en materia ambiental se encuentran asignadas en esta Ley. Se entienden conferidas a la Procuraduría Estatal de Protección al Ambiente, las atribuciones de inspección, vigilancia y sanción en materia ambiental, sin que con ello se contravengan las facultades otorgadas al resto de las autoridades en materia ambiental.
 
 ###### ARTICULO 8º.
 
@@ -2215,9 +3277,7 @@ IX. a XXXII. ...”.
 
 D.O.F. 7 DE OCTUBRE DE 2016.
 
-#### SECCION I. Educación Formal
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2005)</small>
+#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
 
 ###### ARTICULO 50.
 
@@ -2901,9 +3961,61 @@ I. Aplicar la tecnología disponible, realizar las acciones necesarias para redu
 
 II. Instalar equipos o sistemas de control para mantener sus emisiones por debajo de los niveles máximos permisibles que establezcan las normas oficiales mexicanas y demás disposiciones legales aplicables.
 
-###### ARTICULO 116.
+###### Artículo 116.
 
-Para la prevención y control de la contaminación del agua se considerarán los criterios establecidos en la Ley General, Ley de Aguas Nacionales y demás normatividad correspondiente.
+El libro medidas precautorias y cautelares, así como técnicas de investigación constará de seis columnas con los rubros: Número de orden, Autoridad solicitante, Tipo de medida o técnica solicitada, Resolución, Fecha de notificación a la autoridad y Observaciones, las cuales deberán llenarse de la siguiente forma:
+
+I. Número de orden: se anotarán con numeración progresiva y ascendente las solicitudes, atendiendo a la fecha de su recepción, según corresponda, en la oficialía de partes o en el sistema electrónico del propio órgano que deba conocer de la misma; si la recibe un secretario de ese juzgado, esta será la fecha que se asiente, pero si el secretario corresponde a un juzgado diverso, la fecha que se anotará será aquella en que se reciba en el juzgado del conocimiento;
+
+II. Solicitante: se señalará la denominación de la autoridad que solicite la medida o técnica de investigación o, en su caso, el nombre de quien promueve;
+
+III. Tipo de solicitud: se especificará de manera clara y concreta, el tipo de medida o técnica de investigación que corresponda, o si se trata de una solicitud de conclusión;
+
+IV. …
+
+a) Fecha de resolución: se anotará el día, mes y año en que se pronuncie la resolución que recaiga a la solicitud; y
+
+b) Sentido: se asentará la expresión "librada" o "parcialmente librada", según corresponda, cuando se otorgue la medida o autorización de técnica de investigación, o bien, la palabra "negada", cuando sea el caso; o de ser procedente "concluida";
+
+V. Fecha de notificación: se asentará el día, el mes y el año en que se notifique a la autoridad solicitante el proveído que resuelva la petición o, en su caso, la conclusión a quien proceda; y
+
+VI. Observaciones: se deberán anotar los supuestos en que se promueva la apelación en contra de la resolución, así como el resultado obtenido en el mencionado recurso.
+
+…
+
+TABLA 5.
+
+> <small>[N. DE E. VÉASE TABLA 5 EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, PÁGINA 90.]</small>
+
+DÉCIMO. Se reforma el artículo 5 de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 51/2014; 52/2014; 1/2015; 2/2015; 31/2015; 32/2015; 33/2015; 34/2015; 44/2015; 45/2015; 46/2015; 47/2015; 48/2015; 49/2015; 50/2015; 3/2016; 4/2016; 5/2016; 6/2016; 7/2016; 8/2016: 9/2016; 10/2016; 11/2016; 24/2016; 25/2016; 26/2016; 27/2016; 31/2016; 32/2016; 33/2016; y 37/2016 que crean los Centros de Justicia Penal Federal en los Estados de Puebla; Durango; Yucatán; Zacatecas; Guanajuato; Baja California Sur; Querétaro; San Luis Potosí; Coahuila de Zaragoza, con residencia en Torreón; Sinaloa, con residencia en Culiacán; Oaxaca, con residencia en San Bartolo Coyotepec; Chihuahua, con residencia en la ciudad del mismo nombre; Chiapas, con residencia en Cintalapa de Figueroa; Nayarit, con residencia en Tepic; Tlaxcala con residencia en Apizaco; Ciudad de México, con sede en los reclusorios Oriente, Sur y Norte; Estado de México, con residencia en Nezahualcóyotl; Morelos, con residencia en Cuernavaca; Hidalgo, con residencia en Pachuca; Colima, con residencia en la ciudad del mismo nombre; Aguascalientes, con residencia en la ciudad del mismo nombre; Tabasco, con residencia en Villahermosa; Nuevo León, con residencia en Cadereyta; Quintana Roo, con residencia en Cancún; Sonora, con residencia en Hermosillo; Veracruz, con residencia en las ciudades de Xalapa y Coatzacoalcos; Michoacán, con residencia en Morelia; Campeche, con residencia en San Francisco de Campeche; Tamaulipas, con residencia en Reynosa y Ciudad Victoria; Guerrero, con residencia en Acapulco; Baja California, con residencia en las ciudades de Mexicali y Tijuana; y Jalisco, con residencia en el complejo penitenciario Puente Grande; para quedar como sigue:
+
+"Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación."
+
+DÉCIMO PRIMERO. Se reforman los numerales SEGUNDO, fracción I, número 4; y CUARTO, fracción I, párrafo segundo; y se deroga el párrafo tercero de la fracción I del numeral CUARTO, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. …
+
+I. …
+
+1. a 3. …
+
+4. Ocho Juzgados Federales Penales Especializados: seis en Cateos, Arraigos e Intervención de Comunicaciones, y dos en Medidas Cautelares y Control de Técnicas de Investigación, todos con residencia en la Ciudad de México.
+
+5. …
+
+II. a XXXII. …
+
+CUARTO. …
+
+I. …
+
+Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones; los Juzgados de Distrito Especializados en Ejecución de Penas; y los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación; que ejercerán jurisdicción territorial, en toda la República Mexicana.
+
+Derogado.
+
+II. a XXXIII. …".
+
+D.O.F. 12 DE AGOSTO DE 2016.
 
 ###### ARTICULO 117.
 
@@ -4407,83 +5519,9 @@ NOVENO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su 
 
 D.O.F. 14 DE JULIO DE 2017.
 
-###### ARTICULO 2°.
+###### Artículo 2.
 
-Se consideran de utilidad pública:
-
-I. El ordenamiento ecológico del territorio estatal en los casos previstos por esta Ley y demás leyes aplicables; y
-
-II. El establecimiento, protección y preservación de las áreas naturales protegidas de interés estatal y municipal.
-
-###### ARTICULO 3°.
-
-Para los efectos de esta Ley, se entiende por:
-
-I. ACTIVIDAD NO RIESGOSA: Es aquélla que por sus dimensiones, materia prima, procesos, productos y subproductos o su localización no representa riesgo real o potencial para los habitantes de los asentamientos circundantes;
-
-II. AMBIENTE: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempos determinados;
-
-III. AGUAS RESIDUALES: Son aquellas no aptas para el consumo humano, que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad original, provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana;
-
-IV. AREAS NATURALES PROTEGIDAS DE JURISDICCION ESTATAL: Las zonas del territorio de la Entidad no consideradas como federales que han quedado sujetas a la protección estatal, a fin de preservar y restaurar ambientes naturales, salvaguardar la diversidad genética de las especies silvestres; lograr el aprovechamiento racional de los recursos naturales y mejorar la calidad del ambiente;
-
-V. AUDITORIA AMBIENTAL: Proceso de revisión de las actividades y operaciones, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
-
-VI. CONSERVACION: Conjunto de políticas y medidas orientadas a mantener la diversidad biológica y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
-
-VII. DESARROLLO SUSTENTABLE: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, que se fundamenta en medidas apropiadas de preservación y protección del ambiente, así como el aprovechamiento de recursos naturales de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
-
-VIII. DESEQUILIBRIO AMBIENTAL: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
-
-IX. DISPOSICION FINAL: El depósito permanente de los residuos en sitios y condiciones adecuadas para evitar daños a los ecosistemas, al ambiente y a la salud humana;
-
-X. ESTUDIO DE RIESGO: Documento mediante el cual se dan a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para los ecosistemas, la salud pública o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar, reducir o evitar los efectos adversos que se causen al ambiente y a la población en caso de un posible accidente durante la realización de las obras o actividades que se trate;
-
-XI. EUTROFICACION: Cambios físicos, químicos y biológicos que tienen lugar después de que algún cuerpo de agua recibe nutrientes orgánicos o inorgánicos o debido a la erosión natural y a los escurrimientos desde la cuenca circundante;
-
-XII. FUENTE FIJA: Es toda instalación en un solo lugar, que tenga como finalidad, desarrollar operaciones o procesos industriales, mercantiles, de servicios o actividades que generen o puedan generar emisiones contaminantes;
-
-XIII. FUENTE MOVIL: Son los equipos y maquinaria no fijos, con motores de combustión interna o similares que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera;
-
-XIV. INCINERACION: Combustión controlada de cualquier sustancia o material, cuyas emisiones se descargan a través de una chimenea;
-
-XV. IMPACTO AMBIENTAL: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
-
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2005)</small>
-
-XV bis.- INSTITUTO: Instituto del Medio Ambiente del Estado de Aguascalientes;
-
-XVI. LEY: Ley de Protección Ambiental del Estado de Aguascalientes;
-
-XVII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
-
-XVIII. MANEJO: El conjunto de operaciones que incluyen la generación, almacenamiento, recolección, transporte, reuso, tratamiento, incineración y disposición final de residuos no peligrosos;
-
-XIX. MANIFESTACION DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o mitigarlo en caso de que sea negativo;
-
-XX. QUEMA: Combustión no controlada de cualquier sustancia o materia;
-
-XXI. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fin de darles un nuevo uso;
-
-XXII. RESIDUO: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
-
-XXIII. RESIDUOS PELIGROSOS: Todos aquellos residuos en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, representan un peligro para el ambiente y para la salud;
-
-XXIV. RESIDUOS SOLIDOS MUNICIPALES: Son aquellos residuos que se generan en casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados, demoliciones, construcciones, instituciones educativas, establecimientos comerciales y de servicios y en general, todos aquellos generados en los espacios públicos de los centros de población;
-
-XXV. RESIDUO INDUSTRIAL: Es aquel que se genera en los procesos de extracción, beneficio, transformación o producción industrial;
-
-XXVI. REUSO: Es la acción de aprovechar un residuo sin un proceso previo de transformación;
-
-XXVII. VERIFICACION VEHICULAR: Es la medición de la cantidad de contaminantes atmosféricos emitidos por las fuentes móviles;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2007)</small>
-
-XXVIII. PROCURADURÍA: Procuraduría Estatal de Protección al Ambiente; y
-
-XXIX. TRATAMIENTO: Acción de transformar los residuos, por medio de la cual se cambian sus características.
-
-Las definiciones contenidas en la Ley General, la Ley de Aguas Nacionales, Ley Forestal, sus reglamentos y demás leyes aplicables, serán consideradas en los casos no previstos por esta Ley.
+La residencia de los Juzgados a que se refiere este Acuerdo será la Ciudad de México, en las instalaciones que determine el Consejo de la Judicatura Federal.
 
 ###### Artículo 5.
 
@@ -4509,17 +5547,23 @@ Artículo 10 ter. Derogado.
 
 Artículo 10 quater. Derogado.
 
-###### ARTICULO 12.
+###### Artículo 12.
 
-El Instituto formulará, ejecutará y evaluará periódicamente, en coordinación con los diferentes sectores involucrados en las acciones de protección ambiental, el Programa Sectorial Ambiental, el cual contendrá las estrategias y acciones prioritarias para la ejecución de la política ambiental estatal e integrará las acciones de los diferentes sectores.
+El Juez Federal Penal Especializado deberá resolver, antes de que termine su turno, sobre la procedencia de las solicitudes a que se refiere el artículo 5 de este Acuerdo.
 
-###### ARTICULO 13.
+…
 
-Los Planes y Programas de Desarrollo Urbano deberán tomar en cuenta los lineamientos y estrategias contenidas en la Política Ambiental de la presente Ley.
+###### Artículo 13.
 
-###### ARTICULO 14.
+Tan luego se firme y autorice la resolución deberá incorporarse al sistema electrónico con la finalidad de que, además del juez que la dictó, solo esté disponible para el personal autorizado por las autoridades solicitantes, quienes podrán obtener copia electrónica inmodificable para realizar la impresión correspondiente.
 
-El Gobierno Estatal y los Ayuntamientos promoverán la participación ciudadana de los distintos grupos sociales en la elaboración de los programas estatales y municipales respectivamente, que tengan por objeto la protección y restauración del ambiente, a través de foros de consulta y del Consejo Consultivo correspondiente.
+…
+
+###### Artículo 14.
+
+En caso de que un juez, que conozca de un proceso penal, requiera copia certificada de una resolución que conceda o niegue una medida cautelar que se encuentre relacionada con esa causa penal, el Juez Federal Penal Especializado que la haya emitido formará un testimonio de la resolución que enviará al juez requirente, cuando así procediere.
+
+D.O.F. 29 DE JUNIO DE 2017.
 
 ###### ARTICULO 15.
 
@@ -6839,19 +7883,13 @@ Con independencia del turno previsto en el párrafo anterior, cada Juez de Contr
 
 El cambio de turno de los Jueces de control, deberá coordinarse con el objeto de que siempre se cumpla de manera eficiente con la función que desempeñan.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-En la definición de la política ambiental, se considerarán los siguientes principios:
+Conforme a su competencia, los juzgadores llevarán los siguientes libros de control:
 
-I. Las autoridades del Estado y de los Municipios garantizarán el acceso de los ciudadanos a la información sobre el ambiente y la participación corresponsable de las personas y grupos sociales organizados en las materias que regula la presente Ley;
+I. Cuando actúen como Jueces de Distrito Especializados en el Sistema Penal Acusatorio: El libro dos “actos de investigación con control judicial”, previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la asignación de audiencias y asuntos, la rendición de estadística y los libros electrónicos de control en los Centros de Justicia Penal Federal; y
 
-II. Deberá asegurarse el aprovechamiento sustentable de los ecosistemas, sus elementos y recursos naturales;
-
-III. Quien realice obras o actividades que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar y en su caso, reparar o compensar los daños que cause, de conformidad con las disposiciones que establece esta Ley, y demás disposiciones aplicables;
-
-IV. La coordinación entre las dependencias y entidades de la administración pública del Estado y entre los tres niveles de gobierno; y
-
-V. Garantizar los espacios y mecanismos de participación de la sociedad.
+II. En los demás casos: El libro seis “medidas precautorias y cautelares, así como técnicas de investigación”, previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
 
 ## TITULO TERCERO. DE LA POLITICA AMBIENTAL Y SUS INSTRUMENTOS
 
@@ -6897,19 +7935,9 @@ Adicionalmente serán competentes para conocer de las solicitudes las solicitude
 
 En el supuesto a que se refiere la fracción III de este artículo los Jueces de control no actuarán habilitados como jueces de Distrito especializados en el sistema penal acusatorio, sino como jueces de Distrito con competencia para conocer de estos asuntos.
 
-###### ARTICULO 16.
+###### Artículo 16.
 
-En la formulación de los programas de ordenamiento ecológico del territorio se deberán considerar los siguientes criterios:
-
-I. La naturaleza y características de los ecosistemas existentes en el territorio estatal;
-
-II. La aptitud de cada zona, en función de sus recursos naturales, la distribución de la población e infraestructura y las actividades económicas predominantes;
-
-III. Las alteraciones al ambiente existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
-
-IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales; y
-
-V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades.
+Para la solicitud y resolución de los actos previstos en este Acuerdo, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará, según sea el caso, a lo dispuesto por el Código Nacional de Procedimientos Penales, la Ley de Seguridad Nacional, la Ley de la Policía Federal, el Código Federal de Procedimientos Penales y demás disposiciones aplicables.
 
 ###### ARTICULO 17.
 
@@ -6931,9 +7959,223 @@ I. La regionalización ecológica del territorio estatal y las diferentes polít
 
 II. Los lineamientos y estrategias ambientales para que se lleven a cabo las políticas de conservación, protección, restauración, rehabilitación y aprovechamiento sustentable de los recursos naturales y antropogénico, así como para la localización de actividades productivas, de servicios y de los asentamientos humanos.
 
-###### ARTICULO 19.
+###### Artículo 19.
 
-El Ejecutivo Estatal publicará en el Periódico Oficial el Programa de Ordenamiento Ecológico del Estado y demás programas de ordenamiento ecológico regionales, previa aprobación del H. Congreso del Estado.
+...
+
+En los supuestos que sea procedente, para todos los efectos legales a que haya lugar, la primera consulta que el solicitante haga de ese archivo electrónico deberá ser registrada automáticamente por el sistema, con lo que se tendrá por hecha la notificación de conformidad con el artículo 89 del Código Nacional de Procedimientos Penales o con el artículo 111 del Código Federal de Procedimientos Penales, según sea el caso.”
+
+CUARTO. La Comisión de Creación de Nuevos Órganos adoptará las medidas necesarias para que los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, concluyan sus funciones sin asuntos pendientes a las veinticuatro horas del quince de agosto de dos mil dieciocho.
+
+Los asuntos del conocimiento de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, que requieran atención en fecha posterior a la de conclusión de sus funciones, así como aquellos que no hayan sido archivados definitivamente, serán distribuidos equitativamente entre los Jueces de Control integrantes del Centro.
+
+QUINTO. Las solicitudes presentadas ante los Juzgados Primero y Segundo Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones que concluyen funciones y, en su caso, las acciones y diligencias que requieran atención posterior, deberán ser desahogadas conforme a las disposiciones con las que dieron inicio y por los juzgadores que actúan como jueces de Distrito con competencia para conocer de esos asuntos.
+
+SEXTO. Se abroga el Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
+
+SÉPTIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 8/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15, del Acuerdo General 3/2017 del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+OCTAVO. Se reforma el artículo 5, párrafo primero del Acuerdo General 33/2016, del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Baja California, con residencia en las ciudades de Mexicali y Tijuana, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+NOVENO. Se reforma el artículo 5, párrafo primero del Acuerdo General 32/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Baja California Sur, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+DÉCIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 27/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en San Francisco de Campeche, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+DÉCIMO PRIMERO. Se reforma el artículo 5, párrafo primero del Acuerdo General 48/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+DÉCIMO SEGUNDO. Se reforma el artículo 5 del Acuerdo General 47/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+DÉCIMO TERCERO. Se reforma el artículo 5 del Acuerdo General 44/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+DÉCIMO CUARTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 7/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+DÉCIMO QUINTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 3/2016 del Pleno del Consejo de la Judicatura Federal, que crea los centros de Justicia Penal Federal en la Ciudad de México, con sede en los reclusorios Oriente, Sur y Norte, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…
+
+…
+
+…”
+
+DÉCIMO SEXTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 52/2014 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Durango, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+DÉCIMO SÉPTIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 31/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Guanajuato, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+DÉCIMO OCTAVO. Se reforma el artículo 5, párrafo primero del Acuerdo General 32/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Guerrero, con residencia en Acapulco, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+DÉCIMO NOVENO. Se reforma el artículo 5, párrafo primero del Acuerdo General 6/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+VIGÉSIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 37/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Jalisco, con residencia en el Complejo Penitenciario Puente Grande, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+VIGÉSIMO PRIMERO. Se reforma el artículo 5 del Acuerdo General 4/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+VIGÉSIMO SEGUNDO. Se reforma el artículo 5 del Acuerdo General 26/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+VIGÉSIMO TERCERO. Se reforma el artículo 5 del Acuerdo General 5/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en la Ciudad de Cuernavaca, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+VIGÉSIMO CUARTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 49/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en Tepic, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+VIGÉSIMO QUINTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 10/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+VIGÉSIMO SEXTO. Se reforma el artículo 5 del Acuerdo General 46/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+VIGÉSIMO SÉPTIMO. Se reforma el artículo 5, párrafo primero del Acuerdo General 51/2014 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Puebla, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+VIGÉSIMO OCTAVO. Se reforma el artículo 5, párrafo primero del Acuerdo General 33/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Querétaro, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+VIGÉSIMO NOVENO. Se reforma el artículo 5, párrafo primero del Acuerdo General 11/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Quintana Roo, con residencia en Cancún, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+TRIGÉSIMO. Se reforma el artículo 5 del Acuerdo General 34/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de San Luis Potosí, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO PRIMERO. Se reforma el artículo 5 del Acuerdo General 45/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO SEGUNDO. Se reforma el artículo 5, párrafo primero del Acuerdo General 24/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+TRIGÉSIMO TERCERO. Se reforma el artículo 5 del Acuerdo General 9/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO CUARTO. Se reforma el artículo 5 del Acuerdo General 31/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa y Ciudad Victoria, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO QUINTO. Se reforma el artículo 5, párrafo primero del Acuerdo General 50/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residencia en Apizaco, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+
+…”
+
+TRIGÉSIMO SEXTO. Se reforma el artículo 5 del Acuerdo General 25/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Veracruz de Ignacio de la Llave, con residencia en las ciudades de Xalapa y Coatzacoalcos, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO SÉPTIMO. Se reforma el artículo 5 del Acuerdo General 1/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Yucatán, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO OCTAVO. Se reforma el artículo 5 del Acuerdo General 2/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Zacatecas, para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.”
+
+TRIGÉSIMO NOVENO. Se reforman los numerales CUARTO, fracción I, párrafo segundo; y QUINTO QUATER; y se deroga el numeral SEGUNDO, fracción I, número 5, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. …
+
+1. a 4. …
+
+5. Derogado.
+
+6. …
+
+II. a XXXII. ...”
+
+“CUARTO. …
+
+I. …
+
+Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados de Distrito Especializados en Ejecución de Penas, que ejercerán jurisdicción territorial en toda la República Mexicana.
+
+…
+
+II. a XXXIII. …
+
+QUINTO QUATER. El Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, está conformado por ocho jueces de Control y un Tribunal Unitario de Circuito, con jurisdicción en toda la República Mexicana.”
+
+CUADRAGÉSIMO. Las firmas electrónicas que hayan sido expedidas con anterioridad a la entrada en vigor del presente Acuerdo seguirán vigentes.
+
+CUADRAGÉSIMO PRIMERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo (sic) resulten competentes, llevarán a cabo las acciones para que los Jueces de Control que se integran al Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones inicien funciones en la fecha prevista en este Acuerdo.
+
+CUADRAGÉSIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 14 DE AGOSTO DE 2018.
 
 ###### ARTICULO 20.
 
@@ -8062,3 +9304,25 @@ III. Los órganos jurisdiccionales que entreguen y el que reciba los expedientes
 SEXTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 SÉPTIMO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
+
+D.O.F. 14 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 57/2018 DEL PLENO CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN DE LOS TRIBUNALES UNITARIOS EN MATERIAS CIVIL Y ADMINISTRATIVA DEL PRIMER CIRCUITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de enero de dos mil diecinueve.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+D.O.F. 18 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 51/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, COMPETENCIA Y FECHA DE INICIO DE FUNCIONES DEL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL DÉCIMO CIRCUITO, CON RESIDENCIA EN VILLAHERMOSA, TABASCO; AL CAMBIO DE DENOMINACIÓN Y COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIAS ADMINISTRATIVA Y DE TRABAJO; EN MATERIAS CIVIL Y DE TRABAJO; Y EN MATERIAS PENAL Y DE TRABAJO DEL DÉCIMO CIRCUITO, EN ESE ESTADO Y SEDE; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS CITADOS; Y AL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES COLEGIADOS DEL DÉCIMO CIRCUITO EN EL MISMO ESTADO Y RESIDENCIA; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales que inician funciones de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los órganos jurisdiccionales que inician funciones.
