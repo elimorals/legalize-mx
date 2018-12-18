@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-fija-las-bases-montos-y-plazos-conforme-a-los-125215"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-19"
-last_updated: "2017-12-19"
+last_updated: "2018-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número 89 del Periódico Oficial del Estado de Querétaro, el martes 19 de diciembre de 2017.
 
@@ -101,43 +101,45 @@ Se distribuirá entre los municipios del Estado de Querétaro el 22.50% (veintid
 
 De las participaciones federales a que se refiere el artículo 4 de esta Ley, exceptuando la recaudación por concepto del Impuesto Especial sobre Producción y Servicios por la enajenación de gasolinas o diesel, a que se refiere el artículo 4o-A de la Ley de Coordinación Fiscal, que correspondan a los municipios del Estado por concepto de ingresos federales, el 20% (veinte por ciento) se distribuirá de acuerdo a los siguientes porcentajes:
 
-Municipios Porcentaje 20%
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-Amealco de Bonfil 3.2165
+Municipio Porcentaje 20 %
 
-Arroyo Seco 2.4039
+Amealco de Bonfil 3.2183
 
-Cadereyta de Montes 4.2961
+Arroyo Seco 2.4115
 
-Colón 3.4724
+Cadereyta de Montes 4.2988
 
-Corregidora 8.4631
+Colón 3.4759
 
-El Marqués 8.6326
+Corregidora 8.4649
 
-Ezequiel Montes 2.0236
+El Marqués 8.6342
 
-Huimilpan 2.0868
+Ezequiel Montes 1.9658
 
-Jalpan de Serra 3.4118
+Huimilpan 2.0889
 
-Landa de Matamoros 2.7121
+Jalpan de Serra 3.4172
 
-Pedro Escobedo 2.6314
+Landa de Matamoros 2.7187
 
-Peñamiller 2.2480
+Pedro Escobedo 2.6345
 
-Pinal de Amoles 2.8664
+Peñamiller 2.2524
 
-Querétaro 36.2149
+Pinal de Amoles 2.8727
 
-San Joaquín 1.4515
+Querétaro 36.2153
 
-San Juan del Río 8.5964
+San Joaquín 1.4572
 
-Tequisquiapan 2.8725
+San Juan del Rio 8.5980
 
-Tolimán 2.4000
+Tequisquiapan 2.8755
+
+Tolimán 2.4002
 
 Total 100.0000
 
@@ -147,43 +149,45 @@ El 2.50% (dos punto cincuenta por ciento) restante de las participaciones federa
 
 La determinación de su coeficiente, resulta de aplicar la función de proporcionalidad inversa al porcentaje que se determinó para la distribución de las participaciones federales y el Fondo de Fomento Municipal de acuerdo al artículo 6° de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro y al artículo 4 de esta misma ley. Lo anterior consiste en que se divida un valor contante que en este caso será la unidad (1) entre el porcentaje determinado y detallado en al artículo 5 de esta misma Ley, el coeficiente que resulte por municipio se dividirá a su vez entre la sumatoria de los coeficientes de los 18 municipios del Estado, obteniendo con ello el factor que servirá para la distribución del excedente del 2.5% autorizado por la Legislatura, el que tendrá por último, que multiplicarse por 100.
 
-Municipios Porcentaje 2.5%
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-Amealco de Bonfil 5.2800
+Municipio Porcentaje 2.5%
 
-Arroyo Seco 7.0647
+Amealco de Bonfil 5.2720
 
-Cadereyta de Montes 3.9532
+Arroyo Seco 7.0360
 
-Colón 4.8908
+Cadereyta de Montes 3.9469
 
-Corregidora 2.0067
+Colón 4.8814
 
-El Marqués 1.9673
+Corregidora 2.0044
 
-Ezequiel Montes 8.3926
+El Marqués 1.9651
 
-Huimilpan 8.1382
+Ezequiel Montes 8.6313
 
-Jalpan de Serra 4.9777
+Huimilpan 8.1223
 
-Landa de Matamoros 6.2620
+Jalpan de Serra 4.9651
 
-Pedro Escobedo 6.4539
+Landa de Matamoros 6.2409
 
-Peñamiller 7.5548
+Pedro Escobedo 6.4403
 
-Pinal de Amoles 5.9250
+Peñamiller 7.5330
 
-Querétaro 0.4690
+Pinal de Amoles 5.9063
 
-San Joaquín 11.7000
+Querétaro 0.4685
 
-San Juan del Río 1.9756
+San Joaquín 11.6437
 
-Tequisquiapan 5.9122
+San Juan del Rio 1.9734
 
-Tolimán 7.0763
+Tequisquiapan 5.9005
+
+Tolimán 7.0689
 
 Total 100.0000
 
@@ -324,3 +328,13 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 6 Y 7 DE LA LEY QUE FIJA LAS BASES, MONTOS Y PLAZOS CONFORME A LOS CUALES SE DISTRIBUIRÁN LAS PARTICIPACIONES FEDERALES CORRESPONDIENTES A LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, PARA EL EJERCICIO FISCAL 2018”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
