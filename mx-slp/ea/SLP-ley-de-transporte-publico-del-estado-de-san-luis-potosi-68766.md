@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2018-09-20"
+last_updated: "2018-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -2479,9 +2479,9 @@ v) Por alterar los taxímetros, sistemas de prepago y demás equipos utilizados 
 
 w) Por falta de cumplimiento de las demás obligaciones establecidas en el artículo 81 de la presente Ley, multa de cinco a cincuenta unidades de medida y actualización vigente.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
-En el caso de concesionarios y operadores afectos a las modalidades de transporte público previstas en el artículo 21 fracciones I incisos c) y d), y IV, el pago dentro de los primeros diez días hábiles a la generación de la infracción en los supuestos de las fracciones I y II del presente artículo, dará lugar a un descuento de la multa en un cincuenta por ciento, siempre y cuando no haya reincidencia.
+En el caso de concesionarios y operadores afectos a las modalidades de transporte público previstas en el artículo 21, fracciones, I incisos a), c) y d), y IV, el pago dentro de los primeros diez días hábiles a la generación de la infracción en los supuestos de las fracciones I y II del presente artículo, dará lugar a un descuento de la multa en un cincuenta por ciento, siempre y cuando no haya reincidencia.
 
 En la comisión de las infracciones establecidas en la presente Ley, se considera solidariamente responsable al titular de la concesión, permiso o autorización de que se trate.
 
@@ -2872,5 +2872,13 @@ P.O. 20 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 1190.- SE ADICIONA AL ARTÍCULO 45 EL PÁRRAFO SEGUNDO CON LAS FRACCIONES I A IV, Y DOS PÁRRAFOS MÁS DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0005.- SE REFORMA EL ARTÍCULO 129 EN SU PÁRRAFO PENÚLTIMO, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
