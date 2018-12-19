@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2017-06-30"
+last_updated: "2018-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -442,6 +442,14 @@ Cuando las acciones conjuntas sean para perseguir delitos, se cumplirán sin exc
 La Secretaría de Seguridad Pública del Estado y los municipios en conjunto con la federación llevarán un padrón de aficionados violentos o que hayan participado en riñas dentro de los espectáculos deportivos, mismos que se incorporarán a la base de datos del Sistema Nacional de Seguridad, cuya confidencialidad se realizará de conformidad a la Ley de la materia.
 
 Además dicha Secretaría emitirá un código rojo que permitirá identificar a los aficionados que hayan cometido el delito de violencia en espectáculos deportivos para su registro, mismos que les permitirán a los administradores negarles el acceso a las instalaciones.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 32 Bis 1.
+
+Además de lo establecido en el artículo anterior, el municipio procurará otorgar las medidas de vigilancia y seguridad necesarias de los grupos de personas que recorren en vehículos o camiones a los estadios o lugares en donde se celebren competencias deportivas, así como establecer estrategias para que estos recorridos no entorpezcan la vialidad.
+
+La Seguridad Pública tendrá la obligación de brindar las facilidades necesarias para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social con finalidad lícita que puedan originar conflictos viales o alterar el orden público. Los organizadores de los eventos señalados para efecto de que se les pueda brindar dichas facilidades darán aviso por escrito a la autoridad Municipal con al menos 3 días hábiles antes del inicio de su celebración, de lo cual se llevará registro.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO DE COORDINACIÓN DEL SISTEMA INTEGRAL DE SEGURIDAD PÚBLICA DEL ESTADO
 
@@ -3820,3 +3828,9 @@ Primero.- El Decreto entrará en vigor al día siguiente de su publicación en e
 Segundo.- Para el funcionamiento de las Guardias Municipales o Guardias Auxiliares, los Municipios o el Estado deberán expedir previamente el Reglamento correspondiente.
 
 Tercero.- Las evaluaciones de control de confianza expedidas con anterioridad a la vigencia del presente decreto se sujetarán al término señalado en el último párrafo del artículo 6 de los Lineamientos del Certificado Único Policial (CUP) aprobados por el Consejo Nacional de Seguridad Pública, en cumplimiento del Acuerdo CNSP 13/XXXIX/15, publicados en fecha 9 de septiembre de 2016 en el Diario Oficial de la Federación.
+
+P.O. 19 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 027. SE REFORMA POR ADICIÓN DEL ARTÍCULO 32 BIS 1 A LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
