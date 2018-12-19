@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2018-09-21"
+last_updated: "2018-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -2543,9 +2543,9 @@ V. Costos administrativos, que incluyan la depreciación de los bienes e instala
 
 VI. Análisis de la estructura de costos y tarifa para un vehículo de características promedio en la modalidad de servicio de que se trate;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-VII. Estudio que acredite que la inflación obtenida en base al Índice Nacional de Precios al Consumidor rebaza el 10% anual, tomando como referencia los datos emitidos por el Instituto Nacional de Estadística y Geografía;
+VII. Estudio de la inflación, en base al Índice Nacional de Precios al Consumidor, tomando como referencia los datos emitidos por el Instituto Nacional de Estadística y Geografía;
 
 VIII. Análisis del impacto en la tarifa por las variaciones de los principales componentes de la estructura de costos, tales como: demanda, costos, utilidad y descuentos;
 
@@ -2563,11 +2563,13 @@ XI. Estudio socio económico de la población usuaria del servicio.
 
 Los concesionarios podrán solicitar al Instituto, la revisión de la tarifa, presentando un estudio técnico actualizado que incluya los aspectos señalados en el artículo que antecede.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 164.
 
-Las tarifas se revisarán por lo menos cada dos años o antes si la inflación obtenida en base al Índice Nacional de Precios al Consumidor sobrepasa el 10% anual, tomando como referencia los datos emitidos por el Instituto Nacional de Estadística y Geografía, la acreditación satisfactoria del usuario y se cuente con eficiencia del cumplimiento de rutas, en términos de lo que determine el reglamento respectivo. Si del estudio técnico resulta necesaria una tarifa con cifra fraccionaria, el Instituto podrá ajustarla a la cifra inmediata, de acuerdo a la moneda fraccionaria disponible de uso corriente, cuando el pago sea en efectivo.
+Las tarifas se ajustarán siempre y cuando resulte necesario conforme al estudio técnico a que se refiere el artículo 162 de la presente Ley.
+
+Si del estudio técnico se deduce que es necesaria una tarifa con cifra fraccionaria, el Instituto podrá ajustarla a la cifra inmediata, de acuerdo a la moneda fraccionaria disponible de uso corriente, cuando el pago sea en efectivo.
 
 ###### Artículo 165.
 
@@ -2593,11 +2595,11 @@ El servicio público de transporte colectivo tendrá el siguiente tipo de tarifa
 
 I. Tarifa general: La que se paga en forma ordinaria por los usuarios.
 
-II. Tarifa con descuento: La que cubren los usuarios que gozan de descuento por encontrarse en alguna de las condiciones particulares o personales a que se refiere la presente ley. Los porcentajes de descuento para esta tarifa podrán ser entre el treinta y cincuenta por ciento de la tarifa general.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+II. Tarifa con descuento: La que cubren los usuarios que gozan de descuento por encontrarse en alguna de las condiciones particulares o personales a que se refiere la presente Ley. Los porcentajes de descuento para esta tarifa podrán ser entre el diez y el ochenta por ciento de la tarifa general.
 
 III. Tarifa integrada: La que cubren los usuarios de un sistema de rutas integradas, que en su caso se establezca en el servicio urbano, permitiéndoles realizar transbordos entre rutas del sistema con o sin un costo adicional.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE ABRIL DE 2018)</small>
 
 ###### Artículo 168.
 
@@ -2615,11 +2617,11 @@ IV. Los adultos mayores de sesenta años.
 
 Los niños menores de tres años quedan exentos de pago de la tarifa.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 169.
 
-Los usuarios de una tarifa con descuento del servicio público de transporte colectivo, para gozar de este derecho deberán acreditar los requisitos que al efecto establezca el Instituto, así como las normas reglamentarias que de esta Ley se deriven.
+Los usuarios de una tarifa con descuento del servicio público de transporte colectivo, para hacer efectivo dicho beneficio, deberán acreditar los requisitos, atender a los planes, programas o ayudad (sic) sociales que para tal efecto sean expedidos por la autoridad competente.
 
 ###### Artículo 170.
 
@@ -3874,3 +3876,13 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 ###### ARTÍCULO TERCERO.
 
 Una vez aprobada, remítase la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 19 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 162, 164, 167 Y 169 DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
