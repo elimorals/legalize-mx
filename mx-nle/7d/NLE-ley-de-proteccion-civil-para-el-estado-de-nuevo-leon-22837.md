@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2018-08-29"
+last_updated: "2018-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -405,7 +405,9 @@ IV. Establecer y operar los centros de acopio de recursos y abastecimientos, par
 
 V. Organizar y llevar a cabo acciones de capacitación para la sociedad en materia de protección civil;
 
-VI. Coadyuvar en la promoción de la cultura de protección civil, promoviendo lo conducente ante las autoridades del sector educativo;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+VI. Coadyuvar en la promoción desde la niñez, de la cultura de protección civil con énfasis en la prevención y autoprotección de riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad, promoviendo lo conducente ante las autoridades del sector educativo;
 
 VII. Proponer las medidas y los instrumentos que permitan el establecimiento de eficientes y oportunos canales de colaboración entre la Federación, el Estado y los Municipios en materia de protección civil;
 
@@ -1230,3 +1232,9 @@ Segundo.- Se derogan todas las disposiciones legales que se opongan al presente 
 Tercero.- El Titular del Poder Ejecutivo tendrá 120 días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones en el Reglamento de Operación del Sistema Estatal de Protección Civil para el Estado de Nuevo León.
 
 Cuarto.- Los Ayuntamientos del Estado, tendrán 120 días a partir de la entrada en vigor del presente Decreto, para adecuar sus disposiciones reglamentarias.
+
+P.O. 19 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 024. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN VI DEL ARTÍCULO 26 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
