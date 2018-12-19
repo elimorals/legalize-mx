@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2018-05-04"
+last_updated: "2018-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -235,7 +235,7 @@ El mismo día 31 de agosto del año de la elección, los Diputados Electos celeb
 
 ###### Artículo 31.
 
-Luego de rendir protesta el Diputado Electo que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda, tomará protesta a los demás Diputados Electos, para lo cual dirá: "¿PROTESTÁIS GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE NUEVO LEÓN Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO OS HA CONFERIDO?" . Los Diputados Electos contestarán: "SI PROTESTO", y quien les toma la protesta contestará: "SI NO LO HICIEREIS ASÍ QUE LA NACIÓN Y EL ESTADO OS LO DEMANDEN.
+Luego de rendir protesta el Diputado Electo que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda, tomará protesta a los demás Diputados Electos, para lo cual dirá: "¿PROTESTÁIS GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE NUEVO LEÓN Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO OS HA CONFERIDO?". Los Diputados Electos contestarán: "SI PROTESTO", y quien les toma la protesta contestará: "SI NO LO HICIEREIS ASÍ QUE LA NACIÓN Y EL ESTADO OS LO DEMANDEN.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -1091,7 +1091,11 @@ b) De la Tesorería: la administración de los recursos financieros, humanos y d
 
 c) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictámenes de las Comisiones y el desarrollo de programas de investigación y análisis de los aspectos técnicos de los asuntos que son competencia del Congreso;
 
-d) (DEROGADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+d) De la Contraloría Interna: Es un órgano interno de Control del Congreso, con plena autonomía, técnica y de gestión, que auxiliará en el control, investigación, sustanciación y en los casos de su competencia emitirá la resolución correspondiente, dentro del procedimiento de responsabilidad iniciado por las quejas, denuncias o casos de corrupción del personal del Poder Legislativo, que se cometan con motivo de su cargo o en la función que desempeñan en el Congreso del Estado.
+
+El nombramiento del Contralor se realizará por el Pleno a propuesta de la Comisión de Coordinación y Régimen Interno, y se deberán reunir los requisitos que se establecen para los Órganos de Soporte Técnico, salvo los específicos para determinado cargo.
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1124,6 +1128,36 @@ II.- El Tesorero: Informes trimestrales y el Informe de la Cuenta Pública Anual
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de Apoyo: Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, y los cuales se presentarán ante la Comisión de Coordinación y Régimen Interno y el Comité de Administración. Las Comisiones de Dictamen Legislativo recibirán copia de los informes que rinda el titular del Centro de Estudios Legislativos.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+IV.- El Titular de la Contraloría: Informe sobre los procedimientos de responsabilidad que haya iniciado o sustanciado derivado de las violaciones a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, así como dar seguimiento a las declaraciones patrimoniales, fiscal y de interés que obliga la Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 80 Bis.
+
+La Contraloría tendrá dentro de sus atribuciones las siguientes:
+
+I. Recibir las quejas o denuncias presentadas en contra de los servidores públicos del Congreso del Estado por actos de posible responsabilidad administrativa, abrir el expediente y calificar su gravedad de conformidad con las leyes generales y estatales en materia de responsabilidad administrativa;
+
+II. Investigar los actos de posible responsabilidad administrativa de los servidores públicos del Congreso del Estado y elaborar el informe que refiere el artículo 80, fracción IV de esta Ley:
+
+III. Sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del Congreso del Estado;
+
+IV. Coadyuvar con el Tesorero para el correcto manejo de las finanzas del Poder Legislativo;
+
+V. Resolver los procedimientos de responsabilidad administrativa, en faltas no graves, de acuerdo con las leyes generales y estatales en la materia y demás legislación aplicable y comunicar dicha resolución a la Comisión de Coordinación y Régimen Interno, para efectos de resolución;
+
+VI. Presentar las denuncias correspondientes ante el Ministerio Público competente, en los casos en que, derivado de sus investigaciones, acontezca la presunta comisión de delitos;
+
+VII. Las demás que le concedan la legislación federal y estatal aplicable; y
+
+VIII. En ningún caso podrán reunirse en los mismos servidores públicos las facultades de investigación con las de substanciación y resolución en materia de responsabilidad administrativa de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+Artículo 80 BIS I.- La Contraloría Interna del Poder Legislativo, deberá incluir en sus resoluciones la opinión de un órgano ciudadano, que será nombrado bajo el procedimiento que la Comisión de Coordinación y Régimen Interno determine.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1500,3 +1534,11 @@ P.O. 4 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 380. SE REFORMA POR MODIFICACIÓN DEL PRIMER PÁRRAFO DEL ARTÍCULO 52 Y POR MODIFICACIÓN AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 61 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 030. SE REFORMA POR MODIFICACIÓN EL INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 79; SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 80 Y LOS NUMERALES 80 BIS Y 80 BIS I DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para efectos de lo señalado en el Artículo 80 Bis I, la Comisión de Coordinación y Régimen Interno, tendrá 120 días hábiles a partir del nombramiento del Titular del Órgano Interno de Control, para emitir el procedimiento marcado en dicho numeral.
