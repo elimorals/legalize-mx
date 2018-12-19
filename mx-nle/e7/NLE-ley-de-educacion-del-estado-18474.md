@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2018-04-11"
+last_updated: "2018-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -79,9 +79,17 @@ II.- Autoridad educativa estatal: Al Ejecutivo del Estado de Nuevo León, así c
 
 III.- Autoridad educativa municipal: El Ayuntamiento de cada Municipio;
 
-IV.- Autoridad educativa escolar: La que ejerce la supervisión o inspección y la dirección escolar en sus respectivos ámbitos de competencia; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-V.- Ley General: A la Ley General de Educación.
+IV.- Autoridad educativa escolar: La que ejerce la supervisión o inspección y la dirección escolar en sus respectivos ámbitos de competencia;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+V.- Ley General: A la Ley General de Educación; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+VI.- Secretaría: Secretaría de Educación Estatal.
 
 ###### Artículo 4.
 
@@ -123,9 +131,17 @@ h) Formación para el trabajo: Procurará la adquisición de conocimientos, habi
 
 IV.- Escuelas de educación normal y demás instituciones formadoras de maestros: las escuelas normales, formadoras de maestros con niveles de licenciatura y demás instituciones de educación superior y actualización de maestros de educación básica;
 
-V.- Modalidades educativas: Por la forma de acceder al proceso educativo: la escolar, la no escolarizada y la mixta; y por las adecuaciones curriculares que se realizan para diferente población: la indígena, la especial, la educación para adultos y la migrante; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-VI.- Incorporación: El proceso por el cual una institución educativa se integra oficialmente al sistema educativo estatal otorgándosele la autorización o reconocimiento de validez oficial de estudios.
+V.- Modalidades educativas: Por la forma de acceder al proceso educativo: la escolar, la no escolarizada y la mixta; y por las adecuaciones curriculares que se realizan para diferente población: la indígena, la especial, la educación para adultos y la migrante;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+VI.- Incorporación: El proceso por el cual una institución educativa se integra oficialmente al sistema educativo estatal otorgándosele la autorización o reconocimiento de validez oficial de estudios; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+VII.- Alerta Temprana: A la detección oportuna de vulneración de los derechos de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -287,9 +303,13 @@ El Gobierno Estatal y los Ayuntamientos podrán celebrar convenios entre ellos o
 
 Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, así como, a los beneficios del desarrollo.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
-La autoridad educativa implementará programas especiales, que prevengan y atiendan de forma permanente los casos de ausentismo y deserción escolar de las niñas y los niños, con el fin de lograr su reintegración inmediata al sistema estatal de educación básica. En todos los casos informarán a la Procuraduría de la Defensa del Menor y la Familia para que en ejercicio de sus atribuciones legales coadyuve a que las niñas, niños y adolescentes ocurran a su instrucción básica.
+La Secretaría implementará programas especiales, que prevengan y atiendan de forma permanente los casos de ausentismo y deserción escolar de las niñas, los niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+Cuando el ausentismo sea de cinco días consecutivos o siete acumulados en un mes, sin la justificación por escrito del padre, madre o tutor, las escuelas públicas y privadas de nivel básico a través de sus directores deberán informar a la Secretaría, la cual emitirá una Alerta Temprana, que será remitida a las Defensorías Municipales para la Protección de Niñas, Niños y Adolescentes a fin de que en uso de sus atribuciones realicen las evaluaciones pertinentes y restituyan los derechos vulnerados de los menores de edad.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2146,3 +2166,11 @@ P.O. 11 DE ABRIL DE 2018.
 Primero.- El presente Decreto entrará en vigor a los 120 días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- La Autoridad Educativa Estatal, deberá presentar dentro de un término de 90 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado, los lineamientos para elaborar el tabulador en términos del Artículo 21 fracción X de la presente ley.
+
+P.O. 19 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 022. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES IV Y V DEL ARTÍCULO 3, DE LAS FRACCIONES V Y VI DEL ARTÍCULO 4 Y AL ARTÍCULO 13 EL SEGUNDO PÁRRAFO; ASÍ COMO POR ADICIÓN DE UNA FRACCIÓN VI DEL ARTÍCULO 3 Y UNA FRACCIÓN VII DEL ARTÍCULO 4, Y UN TERCER PÁRRAFO DEL ARTÍCULO 13, TODAS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En caso de que el Municipio no cuente con la Defensoría Municipal para la Protección de Niñas, Niños y Adolescentes, la Alerta Temprana será remitida al Sistema para el Desarrollo Integral de la Familia del Municipio que corresponda, a fin de que pueda realizar las evaluaciones pertinentes y restituyan los derechos vulnerados de los menores de edad.
