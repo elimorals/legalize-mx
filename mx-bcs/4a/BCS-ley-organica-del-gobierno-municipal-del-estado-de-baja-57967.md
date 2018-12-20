@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2018-10-20"
+last_updated: "2018-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -381,6 +381,10 @@ De no asistir el número de miembros necesarios para celebrar las sesiones, se c
 
 El Ayuntamiento celebrará sesiones extraordinarias, cuando la importancia o urgencia del asunto que se trate lo requiera, debiendo citar cuando menos con veinticuatro horas de anticipación.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2018)</small>
+
+La convocatoria a las sesiones deberá fijarse en el exterior de la Sala de Cabildo y, en su caso, la información necesaria para el desarrollo de las mismas; asimismo, dichas convocatorias deberán hacerse públicas por los medios electrónicos que tengan a su disposición los Ayuntamientos, con la misma anticipación que señalan los párrafos primero y tercero de este artículo.
+
 ###### Artículo 39.
 
 Serán solemnes, las sesiones en que se instale el Ayuntamiento, se rinda el informe de la Administración Pública Municipal y aquéllas que acuerde el Ayuntamiento.
@@ -435,7 +439,9 @@ En los demás casos, bastará que los documentos relativos al asunto tratado, se
 
 Las actas de las sesiones de Ayuntamiento, se llevarán por duplicado, el original lo conservará el propio Ayuntamiento y el otro se enviará terminado el período del gobierno municipal, al Archivo General del Estado, para formar parte del acervo histórico de la Entidad.
 
-Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión y por el secretario del mismo.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2018)</small>
+
+Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión y por el secretario del mismo; una vez hecho lo anterior, éstas deberán hacerse públicas por los medios electrónicos que tengan a su disposición los Ayuntamientos.
 
 ###### Artículo 47.
 
@@ -2522,3 +2528,9 @@ B.O. 20 DE OCTUBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del año 2019, previa su publicación en el Boletín Oficial del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2579 SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 38 SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 46 AMBOS DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA LA FRACCIÓN II DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 76 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
