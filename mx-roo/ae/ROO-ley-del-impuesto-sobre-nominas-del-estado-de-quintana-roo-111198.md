@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-nominas-del-estado-de-quintana-roo-11119
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2017-12-27"
+last_updated: "2018-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -59,9 +59,13 @@ I. CONTRATISTA: Persona física o moral que realiza una obra o presta un servici
 
 II. CONTRATANTE: Persona física o moral que recibe los servicios de un contratista.
 
-III. INTERMEDIARIO: Toda persona que contrata los servicios de otras para ejecutar algún trabajo en beneficio de un patrón.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2018)</small>
 
-IV. CONSTRUCCIÓN: Obras de construcción, remodelaciones, edificaciones de obra, acabados y/o modificaciones.
+III. CONSTRUCCIÓN: Obras de construcción, remodelaciones, edificaciones de obra, acabados y/o modificaciones.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+IV. INTERMEDIARIO: Toda persona que interviene en la contratación de los servicios de otra para ejecutar un trabajo en beneficio de un patrón.
 
 V. PERSONA FÍSICA: Individuo que realiza las situaciones jurídicas o de hecho previstas en la presente Ley.
 
@@ -95,7 +99,9 @@ Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo estable
 
 Cuando las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les dé, bajo la dependencia o dirección de un patrón, sean efectuadas de forma directa o a través de contratistas, intermediarios, terceros o cualquiera que sea su denominación, deriven de construcción por obra o tiempo determinado, se sujetarán a lo siguiente:
 
-I. Deberán presentar, mediante la forma autorizada disponible en la página electrónica de la Secretaría, el Aviso de Inicio de Obra ante la Oficina Recaudadora de Rentas que corresponda al domicilio en donde se realizarán los trabajos, dentro del plazo de 5 días hábiles previos al inicio de la construcción, o dentro de los cinco días posteriores a la firma del Contrato de Obra, lo que suceda primero, en el que informarán lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+I. Deberán presentar, mediante la forma autorizada disponible en la página electrónica de la Secretaría, el Aviso de Inicio de Obra ante la oficina autorizada por la Secretaría que corresponda al domicilio en donde se realizarán los trabajos, dentro del plazo de 5 días hábiles previos al inicio de la construcción, o dentro de los cinco días posteriores a la firma del Contrato de Obra, lo que suceda primero, en el que informarán lo siguiente:
 
 a) Fecha de inicio de los trabajos;
 
@@ -115,7 +121,9 @@ h) Bitácora y/o Estimaciones de construcción.
 
 Para efectos de lo propuesto en el presente artículo, la tasa del 3% se aplicará sobre el total de las erogaciones por concepto de mano de obra, pudiendo enterarlo mediante pagos mensuales o conforme a lo previsto en el artículo 11 de la presente Ley.
 
-II. El cumplimiento del pago del Impuesto Sobre Nóminas deberá garantizarse mediante depósito en efectivo o carta de crédito ante la Oficina Recaudadora de Rentas que corresponda a su domicilio; cuyo monto será la sumatoria de la estimación de la contribución a enterar durante el periodo que dure la obra.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+II. El cumplimiento del pago del Impuesto Sobre Nóminas deberá garantizarse mediante depósito en efectivo o carta de crédito ante la oficina autorizada por la Secretaría que corresponda a su domicilio; cuyo monto será la sumatoria de la estimación de la contribución a enterar durante el periodo que dure la obra.
 
 III. En caso de omitir la obligación prevista en la fracción I de este artículo, la Secretaría requerirá a los sujetos a que se refiere el primer párrafo del presente artículo para que dentro de los seis días hábiles siguientes a aquél en que surta efectos la notificación, proporcionen la documentación necesaria para determinar el impuesto a cargo, debiendo exhibir y proporcionar, con independencia del Aviso de Inicio de Obra a que se refiere el presente artículo, la licencia de construcción expedida por la autoridad municipal competente.
 
@@ -135,13 +143,21 @@ Los propietarios de inmuebles que contraten los servicios de personas físicas o
 
 Son sujetos pasivos de este impuesto las personas físicas, morales o unidades económicas, que realicen las erogaciones a que se refiere el artículo 2 de la presente Ley, aun cuando tengan su domicilio fuera del Estado.
 
-Los sujetos a que se refiere el párrafo anterior, que contraten la prestación de servicios de personal con un tercero, contratista, intermediario laboral o cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado deberán presentar el Aviso de Intermediario Laboral en el que especificarán el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su prestador; así como el número de empleados, con independencia por el tiempo para el que fueron contratados, el monto de la operación contratada, la vigencia del contrato, el cual deberá ser ratificado ante la autoridad fiscal competente dentro de los dos primeros meses del siguiente ejercicio fiscal.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+Los sujetos a que se refiere el párrafo anterior, que contraten la prestación de servicios de personal a través de un tercero, cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado, deberán presentar Aviso en el que especificará el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su prestador y el número de empleados, con independencia del tiempo por el que fueron contratados, el monto de la operación contratada, la vigencia del contrato; el cual deberá ser ratificado ante la autoridad fiscal competente dentro de los dos primeros meses del siguiente ejercicio fiscal, en los medios dispuestos por la Secretaría.
 
 Cuando se contrate servicios de personal para más de un establecimiento se deberá presentar aviso por cada uno, mediante las formas aprobadas por la Secretaría, en el que se especifique que la persona con la que suscribió el contrato de prestación de servicios de personal, se encuentra registrada en el Padrón Estatal de Contribuyentes; en caso de no hacerlo la autoridad fiscal competente tendrá por inscrito en el Registro Estatal de Contribuyentes al prestador con la obligación del Impuesto Sobre Nóminas.
 
 Asimismo, deberán presentar el Aviso de Alta o Aumento de Obligación como Retenedor.
 
-El plazo para presentar el Aviso de Alta o Aumento de Obligaciones como Retenedor del Impuesto Sobre Nóminas se realizará de forma simultánea al Aviso de Contrato con Intermediario Laboral, dentro de los cinco días siguientes a la fecha de la firma del contrato.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+El plazo para presentar el Aviso de Alta o Aumento de Obligaciones como Retenedor del Impuesto Sobre Nóminas se realizará de forma simultánea con el Aviso a que se refiere el segundo párrafo del presente artículo, dentro de los tres días siguientes a la fecha de la firma del contrato. En el mismo plazo deberá informar a la autoridad sobre cualquier cambio al citado aviso.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+Las personas físicas, morales o unidades económicas que desempeñen actividades comerciales, industriales, de servicios y de inversión de capital, mediante acuerdo de voluntades verbal o través de instrumento jurídico con independencia de la denominación que se le dé, deberán presentar dentro de los tres días siguientes a la celebración del mismo, el aviso mediante los medios electrónicos dispuestos por la Secretaría o acudiendo de forma personal ante las oficinas autorizadas que corresponda al domicilio de su establecimiento, informando el nombre de la persona física o moral con la que celebró dicho acto, el número de empleados que se encuentren bajo su dirección y/o dependencia, por los cuales efectúa erogaciones económicas por concepto de remuneraciones al trabajo personal subordinado. En caso de omisión a la presentación del referido aviso, serán responsables solidarios las personas físicas o morales con quien celebró dicho acto jurídico.
 
 ## TÍTULO III. DE LA BASE Y DE LA TASA
 
@@ -241,11 +257,11 @@ V. Cuando los contribuyentes detecten diferencias en sus pagos, deberán present
 
 VI. Para los efectos previstos en el artículo 4 segundo párrafo de esta ley, quienes contraten servicios de administración de personal a personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, deberán conservar en su domicilio fiscal a disposición de las autoridades fiscales, copias de la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas, así como de su documentación contable fiscal relacionada con este impuesto.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 13.
 
-Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
+Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario, la oficina autorizada por la Secretaría ante la cual se presentarán las declaraciones.
 
 En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal y los montos generados por cada una de ellas.
 
@@ -259,13 +275,17 @@ Tratándose de intermediarios laborales deberán manifestar el número de emplea
 
 ### CAPÍTULO I. DE LAS RETENCIONES EN LO GENERAL
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-Quienes realicen pagos y erogaciones por cuenta de terceros gravados por este impuesto, a personas que presten servicios en el Estado, estarán obligados a retener el impuesto correspondiente y a enterarlo en la Oficina Recaudadora de Rentas que corresponda al lugar en que se realice el pago en los términos y plazos establecidos por el artículo 7 de esta ley.
+Quienes realicen pagos y erogaciones por cuenta de terceros gravados por este impuesto, a personas que presten servicios en el Estado, estarán obligados a retener el impuesto correspondiente y a enterarlo en la oficina autorizada por la Secretaría que corresponda al lugar en que se realice el pago en los términos y plazos establecidos por el artículo 7 de esta ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 15.
 
-Las personas a que se refiere el artículo anterior, están obligadas a presentar aviso de inscripción ante la Oficina Recaudadora de Rentas correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, comprobante de retención.
+Las personas a que se refiere el artículo anterior, están obligadas a presentar aviso de inscripción ante la oficina autorizada por la Secretaría correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, comprobante de retención.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -434,3 +454,11 @@ P.O. 27 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2018, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 275 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOCISIONES (SIC) DE LA LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1°. de enero de 2019, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deja sin efecto todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
