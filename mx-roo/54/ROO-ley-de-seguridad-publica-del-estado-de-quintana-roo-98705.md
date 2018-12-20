@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-del-estado-de-quintana-roo-98705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2018-10-17"
+last_updated: "2018-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -2055,9 +2055,11 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 ### CAPÍTULO ÚNICO. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 136.
 
-El Centro Estatal de Evaluación y Control de Confianza, es la unidad administrativa adscrita a la Secretaría de Gobierno creada mediante decreto del Ejecutivo del Estado, encargada de dirigir, coordinar, operar y calificar los procesos de evaluación de los integrantes de las Instituciones de Seguridad Pública y de Procuración de Justicia de Quintana Roo, con el objeto de obtener la aprobación y certificación para comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos.
+El Centro Estatal de Evaluación y Control de Confianza, se encuentra adscrito al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, y es el encargado de dirigir, coordinar, operar y calificar los procesos de evaluación de los integrantes de las Instituciones de Seguridad Pública y de Procuración de Justicia de Quintana Roo, con el objeto de obtener la aprobación y certificación para comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos.
 
 ###### Artículo 137.
 
@@ -2751,97 +2753,23 @@ II. Los Consejos Municipales de Seguridad Pública;
 
 III. Los Consejos Regionales de Seguridad Pública; y
 
-IV. La Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+IV. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 194.
 
-El Sistema Estatal, contará con un Secretario Ejecutivo, quien será designado a propuesta de su Presidente, pudiendo ser removido libremente por este último.
-
-El Secretario Ejecutivo, estará adscrito y formará parte de la estructura de la Secretaría de Gobierno, contará con:
-
-I. El Centro Estatal de Información;
-
-II. La Dirección de Participación Ciudadana, y
-
-III. Coordinación del Fondo de Aportaciones y de Apoyo Estatal para la Seguridad Pública.
-
-El Secretario Ejecutivo, es la instancia permanente que instruye y da seguimiento a los instrumentos jurídicos contraídos en los tres órdenes de gobierno en materia de Seguridad Pública, ya sea mediante acuerdos o convenios que se adopten en el seno del Consejo Estatal.
+Se crea el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública como un Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, autonomía administrativa, presupuestal, técnica, de gestión, de operación y de ejecución, no sectorizado. Sus funciones y atribuciones, así como los requisitos para ocupar el cargo de Secretario Ejecutivo se encuentran establecidos en la ley de la materia.
 
 ###### Artículo 195.
 
-Para ser Secretario Ejecutivo se requiere:
-
-I. Ser ciudadano quintanarroense y nativo de la Entidad o con residencia efectiva no menor a 5 años;
-
-II. Estar en pleno ejercicio de sus derechos civiles y políticos;
-
-III. Tener modo honesto de vivir;
-
-IV. No haber sido acusado y sentenciado por violencia familiar o incumplimiento de las obligaciones de asistencia familiar.
-
-V. Tener más de 35 años de edad al momento de su designación;
-
-VI. Contar con Título de Licenciado en Derecho, en Seguridad Pública o carrera afín debidamente registrada;
-
-VII. Ser de reconocida capacidad y probidad, además de contar con al menos 5 años de experiencia en el área de Seguridad Pública.
-
-VIII. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal;
-
-IX. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa Federal, Estatal o Municipal, en los términos de las normas aplicables, y
-
-X. Aprobar las evaluaciones de control de confianza.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2018)
 
 ###### Artículo 196.
 
-Son funciones y atribuciones del Titular de la Secretaría Ejecutiva:
-
-I. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente;
-
-II. Impulsar mejoras para los instrumentos de información del Sistema;
-
-III. Coordinar la realización de estudios especializados sobre las materias de Seguridad Pública y formular recomendaciones a las instancias de coordinación previstas en el presente ordenamiento;
-
-IV. Compilar los acuerdos que se tomen en el Consejo Estatal, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
-
-V. Informar periódicamente al Consejo Estatal y a su Presidente de sus actividades;
-
-VI. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema;
-
-VII. Verificar el cumplimiento de las disposiciones de esta ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables e informar lo conducente al Consejo Estatal;
-
-VIII. Proponer al Consejo Estatal las políticas, lineamientos, protocolos y acciones para el buen desempeño de las Instituciones de Seguridad Pública;
-
-IX. Dar seguimiento a los programas, estrategias, acciones, políticas y servicios que se adopten por las Conferencias Nacionales, se coordinen entre sí, y que cumplan con los lineamientos y acuerdos generales que dicte el Consejo Estatal;
-
-X. Proponer los criterios de evaluación de las Instituciones de Seguridad Pública en los términos de la ley;
-
-XI. Preparar la evaluación del cumplimiento de las políticas, estrategias y acciones del Sistema en los términos de ley;
-
-XII. Elaborar y publicar informes de actividades del Consejo Estatal;
-
-XIII. Colaborar con las instituciones de seguridad pública que integran el Sistema, para fortalecer y eficientar los mecanismos de coordinación; en especial en el impulso de la carrera Policial;
-
-XIV. Integrar los criterios para la distribución de los fondos y subsidios de seguridad pública y someterlos a la aprobación del Consejo Estatal, en términos de las disposiciones legales aplicables;
-
-XV. Integrar un Comité Interinstitucional para la Supervisión y Manejo de los Fondos y Subsidios de Seguridad Pública;
-
-XVI. Gestionar ante las autoridades competentes, la ministración de los fondos y subsidios de seguridad pública, de conformidad con los criterios aprobados por el Consejo Estatal y las demás disposiciones aplicables;
-
-XVII. Someter a consideración del Consejo Estatal el proyecto de resolución fundado y motivado de cancelación y, cuando proceda, la restitución de la ministración de aportaciones estatales, a las dependencias y municipios;
-
-XVIII. Coadyuvar con las Auditorías Superiores de la Federación y del Estado y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de los fondos de ayuda federal, así como del cumplimiento de esta ley;
-
-XIX. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos y subsidios por las dependencias y por los municipios;
-
-XX. Elaborar y someter a consideración del Consejo Estatal, opinión fundada y razonada por la que se recomiende la remoción de los titulares de las Instituciones de Seguridad Pública;
-
-XXI. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos a que se refiere el artículo 142 de la Ley General, e informar al respecto al Consejo Nacional;
-
-XXII. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema;
-
-XXIII. Coordinar la homologación de la Carrera Policial, la Profesionalización y el Régimen Disciplinario en las Instituciones de Seguridad Pública, y
-
-XXIV. Las demás que le otorga esta ley y demás disposiciones aplicables, así como las que le encomiende el Consejo Estatal o su Presidente.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO ESTATAL
 
@@ -3103,7 +3031,7 @@ VII. Conceder el uso de la voz en las sesiones del Consejo Estatal, en el turno 
 
 VIII. Declarar la aprobación o aplazamiento de los acuerdos; resoluciones, mociones o proposiciones en las sesiones, conforme a la votación emitida;
 
-IX. Someter a consideración la propuesta de designación del Secretario Ejecutivo;
+IX.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2018)
 
 X. Proponer la creación e integración de las Comisiones Colegiadas;
 
@@ -3785,9 +3713,11 @@ Los convenios celebrados entre las partes integrantes del Consejo Estatal y los 
 
 Estos fondos se entregarán mensualmente por la Secretaría de Finanzas y Planeación, conforme al calendario establecido para cada municipio, de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo aquéllas de carácter administrativo, salvo el caso de existencia de sanciones por incumplimiento a lo dispuesto en la presente ley.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 297.
 
-Los Municipios reportarán trimestralmente a la Secretaría Ejecutiva, el ejercicio de los recursos de los fondos estatales y el avance en el cumplimiento de las metas, así como las modificaciones realizadas a los convenios de colaboración y sus anexos técnicos en la materia o el acuerdo correspondiente.
+Los Municipios reportarán trimestralmente al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el ejercicio de los recursos de los fondos estatales y el avance en el cumplimiento de las metas, así como las modificaciones realizadas a los convenios de colaboración y sus anexos técnicos en la materia o el acuerdo correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
 
@@ -3819,11 +3749,13 @@ Dichos recursos deberán aplicarse conforme a los programas derivados de la Pol�
 
 Serán materia de anexos específicos entre el Estado y los municipios, los programas de la Red Estatal de Telecomunicaciones para la Seguridad Pública, Procuración de Justicia y el Servicio Telefónico de Emergencia 066, el sistema de denuncia anónima 089 y del Centro de Control, Computo y Comando.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 301.
 
-El control en el manejo de los recursos estatales a que se refiere este Capítulo, quedará a cargo de la dependencia que los ejerce; asimismo, la evaluación y fiscalización de dichos recursos quedará a cargo de la Secretaría Ejecutiva del sistema Estatal de Seguridad Pública, la Secretaría de la Gestión Pública, la Secretaría de Finanzas y Planeación y del Órgano de Fiscalización Superior del Estado, en sus respectivos ámbitos de competencia.
+El control en el manejo de los recursos estatales a que se refiere este Capítulo, quedará a cargo de la dependencia que los ejerce; asimismo, la evaluación y fiscalización de dichos recursos quedará a cargo del Secretariado Ejecutivo del sistema Estatal de Seguridad Pública, la Secretaría de la Contraloría, la Secretaría de Finanzas y Planeación y de la Auditoría Superior del Estado, en sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
 La Fiscalía General del Estado y los Municipios, proporcionarán al Ejecutivo del Estado la información financiera, operativa y estadística que les sea requerida por conducto de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública.
 
@@ -3912,3 +3844,25 @@ Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones neces
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
 
 Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 272 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY DE SEGURIDAD PÚBLICA Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, AMBAS DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE EXPIDE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SECRETARIO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
+
+PRIMERO.- Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, de igual o menor jerarquía, que contravengan lo dispuesto en la presente Ley.
+
+TERCERO.- A la entrada en vigor de la presente Ley, la Secretaría de Finanzas y Planeación, la Secretaría de Gobierno y la Oficialía Mayor, coordinarán la transferencia de recursos humanos, materiales y financieros de la Secretaría de Gobierno al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en términos del presente Decreto.
+
+CUARTO.- La Junta de Gobierno celebrará Sesión y deberá quedar instalada en un plazo no mayor a sesenta días hábiles contados a partir de la fecha en que entre en vigor la presente Ley.
+
+QUINTO.- La Secretaría de Finanzas y Planeación, en el ámbito de su respectiva competencia, llevará a cabo las acciones necesarias para las adecuaciones presupuestarias de la estructura funcional del organismo descentralizado que se crea.
+
+SEXTO.- Los asuntos que se encuentran en trámite, a cargo de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública y las demás unidades administrativas que la integrarán, en términos de la presente Ley, serán asumidos de inmediato por el Órgano Descentralizado que por este medio se crea. En lo que respecta al Centro Estatal de Evaluación y Control de Confianza (C3) mantendrá vigente su normatividad interna, en tanto se adecuen las disposiciones normativas.
+
+SÉPTIMO.- El Secretario Ejecutivo, deberá someter a aprobación de la Junta de Gobierno, en un plazo no mayor a sesenta días hábiles, contados a partir del día de la entrada en vigor de la presente Ley, el Reglamento Interior del Secretariado Ejecutivo.
+
+OCTAVO.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento de la presente Ley, en plena observancia a las disposiciones aplicables.
+
+NOVENO.- El Ejecutivo del Estado contará con un plazo de 60 días hábiles posteriores a la entrada en vigor del presente decreto, para realizar las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Gobierno y demás disposiciones reglamentarias, en los términos de la presente Ley.
