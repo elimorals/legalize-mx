@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2018-01-11"
+last_updated: "2018-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE PLANEACION PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 27217/LXII/18, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -932,3 +934,27 @@ P.O. 11 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26723/LXI/17 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 78-I DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+P.O. 20 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "DECRETO 27217/LXII/18 QUE ABROGA LA LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, EXPEDIDA MEDIANTE DECRETO 18674 Y EXPIDE LA LEY DE PLANEACIÓN PARTICIPATIVA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS" QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley de Planeación para el Estado de Jalisco y sus Municipios expedida mediante decreto N°18674.
+
+###### ARTÍCULO SEGUNDO.
+
+Se expide la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27217/LXII/18 QUE ABROGA LA LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, EXPEDIDA MEDIANTE DECRETO 18674 Y EXPIDE LA LEY DE PLANEACIÓN PARTICIPATIVA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El reglamento interno de la Secretaría de Planeación y Participación Ciudadana deberá normar la periodicidad y formalidades para el funcionamiento del COPPLADE en pleno y de los Consejos.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+CUARTO. Los municipios que a la entrada en vigor de esta ley no cuenten con un Plan Municipal de Desarrollo, deberán formularlo y aprobarlo siguiendo el procedimiento descrito en esta ley, dentro de los nueve primeros meses contados a partir del inicio de su administración.
+
+QUINTO. En los municipios que a la entrada en vigor de esta ley cuenten con un Plan Municipal de Desarrollo, la siguiente administración municipal deberá proceder a evaluar dicho Plan, dentro de los nueve primeros meses a partir del inicio de su gestión, a fin de acordar si se confirma o modifica en su contenido.
