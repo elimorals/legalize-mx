@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2018-06-24"
+last_updated: "2018-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -172,6 +172,10 @@ XX bis. Desarrollador de vivienda: Propietario de un terreno o empresario que tr
 XXI. Desarrollo Urbano: Es el proceso de regulación u ordenación a través de la planeación del medio urbano, en sus aspectos físicos económicos y sociales, que implica la expansión física y demográfica, el incremento de las actividades productivas, la elevación de las condiciones socioeconómicas de la población, la protección del patrimonio natural y cultural, y la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
 XXII. Destinos: Los fines públicos a las que se dediquen zonas o predios;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+XXII bis.- Director responsable de obra: La persona física registrada y autorizada por la Dirección Municipal de Desarrollo Urbano o su equivalente, para formular, supervisar y ejecutar proyectos previstos en esta Ley, en el Reglamento de Construcciones y demás normativa aplicable. Son responsables de la observancia de las disposiciones establecidas en los ordenamientos antes citados, en el acto en que otorgan la responsiva relativa al ámbito de su intervención profesional y se clasifican en términos del Reglamento de Construcciones del Municipio respectivo:
 
 XXIII. Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario destinados a prestar a la población los servicios administrativos, educativos, comerciales, de salud y asistencia, recreativos, de traslado y otros, así como los inmuebles, edificios y espacios públicos o privados, en los que se desarrollen las actividades;
 
@@ -431,7 +435,9 @@ V.- Autorizar, por conducto de sus órganos y dependencias competentes las solic
 
 VI.- Calificar en el ámbito de su competencia las infracciones e imponer las medidas de seguridad y sanciones que establece la presente Ley y demás disposiciones jurídicas aplicables;
 
-VII.- Inspeccionar y supervisar las obras que se realicen en fraccionamientos y colonias, controlando a los fraccionadores, peritos de obra o promoventes para que cumplan con lo dispuesto en la legislación y los programas de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+VII.- Inspeccionar y supervisar las obras que se realicen en fraccionamientos y colonias, controlando a los fraccionadores, director responsable de obra o promovente para que cumplan con lo dispuesto en la legislación y los programas de Desarrollo Urbano;
 
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2016)</small>
 
@@ -457,9 +463,9 @@ XV.- Vigilar los fraccionamientos que no hayan sido municipalizados, para que lo
 
 Los ayuntamientos para el ejercicio de las atribuciones que les confiere la presente Ley, se apoyarán en su Dirección de Obras Públicas Municipales o su equivalente y en las Comisiones Municipales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
-Para facilitar el otorgamiento de constancias, permisos, licencias de compatibilidad urbanística, usos de suelo de edificaciones, construcciones, de fraccionamientos, y demás relacionadas al desarrollo e imagen urbana, los ayuntamientos deberán establecer una ventanilla única o habilitar el módulo a que se refiere el Capítulo VI de la Ley de Desarrollo Económico para el Estado de Durango. El reglamento municipal que para el efecto se expida, normará su organización y funcionamiento.
+Para facilitar el otorgamiento de constancias, permisos, dictamen de compatibilidad urbanística de uso de suelo, de edificaciones, construcciones, de fraccionamientos, y demás relacionadas al desarrollo e imagen urbana, los ayuntamientos deberán establecer una ventanilla única o habilitar el módulo a que se refieren la Ley de Fomento Económico para el Estado de Durango. El reglamento municipal que para el efecto se expida, normará su organización y funcionamiento.
 
 ### CAPÍTULO III. DE LA COMISIÓN ESTATAL DE DESARROLLO URBANO
 
@@ -1361,17 +1367,21 @@ IV.- Las dependencias y entidades de la administración pública, federal, estat
 
 ### CAPITULO I. DEL CONTROL DEL DESARROLLO URBANO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 84.
 
-Para destinar un área, predio o, construcción a un uso determinado los propietarios o poseedores deberán de obtener las constancias de compatibilidad urbanística correspondientes; la presentación de las constancias serán necesarias para iniciar él tramite de la licencia de construcción respectiva.
+Para destinar un área, predio o, construcción a un uso determinado los propietarios o poseedores deberán de obtener dictamen de compatibilidad urbanística de uso de suelo correspondiente; la presentación del dictamen será necesaria para iniciar el trámite de la licencia de construcción respectiva.
 
 ###### ARTÍCULO 85.
 
 La Secretaría y los ayuntamientos, tomarán las medidas pertinentes para la redensificación de zonas, propiciando aprovechamientos de áreas y predios baldíos, que cuenten con infraestructura, equipamiento y servicios urbanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 86.
 
-Los objetivos de las constancias de compatibilidad urbanística son:
+Los objetivos del dictamen de compatibilidad urbanística de uso de suelo son:
 
 I.- Dar seguridad jurídica a la propiedad respecto de la legalidad, del asentamiento humano o desarrollo inmobiliario;
 
@@ -1503,9 +1513,11 @@ III.- La celebración de convenios entre autoridades, propietarios, y los sector
 
 IV.- Las demás que se consideren necesarias para la eficacia de la acción de mejoramiento.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 103.
 
-Los ayuntamientos expedirán las constancias de compatibilidad urbanística a la persona física o moral que lo solicite, sin que esto acredite la posesión o propiedad del inmueble o inmuebles objeto de la solicitud.
+La Dirección Municipal de Desarrollo Urbano o su equivalente, en su ámbito de competencia, expedirá el dictamen de compatibilidad urbanística de uso de suelo a la persona física o moral que lo solicite, sin que esto acredite la posesión o propiedad del inmueble o inmuebles objeto de la solicitud.
 
 #### SECCIÓN CUARTA. PRESERVACIÓN ECOLÓGICA Y PROTECCIÓN CIVIL
 
@@ -1849,9 +1861,11 @@ Podrán solicitar fusiones o subdivisiones de terrenos, las personas físicas o 
 
 El ayuntamiento podrá negar la autorización de relotificaciones, fusiones y subdivisiones de áreas y predios, cuando en el fraccionamiento o zonas en que se pretendan realizar, no se cuente con la suficiente y adecuada cobertura de equipamiento, infraestructura y servicios urbanos.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 139.
 
-Los derechos y demás gravámenes fiscales que deban cubrirse por las solicitudes de relotificación, fusión, subdivisión, alineamiento y compatibilidad urbanística, serán fijados de acuerdo a lo previsto en las leyes fiscales correspondientes.
+Los derechos y demás gravámenes fiscales que deban cubrirse por las solicitudes de relotificación, fusión, subdivisión, alineamiento y dictamen de compatibilidad urbanística de uso de suelo, serán fijados de acuerdo a lo previsto en las leyes fiscales correspondientes.
 
 ###### ARTÍCULO 140.
 
@@ -2103,19 +2117,29 @@ Podrá ser declarado de interés público y beneficio colectivo, el incremento d
 
 El costo de las obras que se deriven del sistema de imposición se aplicará proporcionalmente entre los propietarios o poseedores beneficiados, cuando sean aprobados en los términos de la presente ley.
 
-### CAPITULO II. DE LOS PERITOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+### CAPITULO II
+
+DE LOS DIRECTORES RESPONSABLES DE OBRA.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 183.
 
-La ejecución del proyecto definitivo de cualquier obra ya sea de urbanización o construcción, deberá hacerse bajo la responsabilidad directa de un perito, en virtud de la patente que el ayuntamiento otorgue a: Arquitectos, ingenieros civiles, ingenieros arquitectos, ingenieros constructores militares, y profesionales capacitados para tal efecto.
+La ejecución del proyecto definitivo de cualquier obra ya sea de urbanización o construcción, deberá hacerse bajo la responsabilidad directa de un director responsable de obra, en virtud de la patente que el Ayuntamiento otorgue a: Arquitectos, ingenieros civiles, ingenieros arquitectos, ingenieros constructores militares, y profesionales capacitados para tal efecto.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 184.
 
-El perito designado para la ejecución de las obras de urbanización, fraccionamiento o construcción será sujeto de responsabilidad administrativa y penal, con relación a estas obras en caso de incurrir en actos u omisiones que contravengan la presente ley y demás ordenamientos de la materia.
+El director responsable de obra designado para la ejecución de las obras de urbanización, fraccionamiento o construcción será sujeto de responsabilidad administrativa y penal, con relación a estas obras en caso de incurrir en actos u omisiones que contravengan la presente ley y demás ordenamientos de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 185.
 
-Son obligación del perito responsable:
+Son obligación del director responsable de obra:
 
 I.- Dirigir y vigilar la obra asegurándose que tanto el proyecto como la ejecución de la misma cumplan con lo establecido en este ordenamiento y demás disposiciones de carácter municipal;
 
@@ -2135,19 +2159,25 @@ e) Fecha de iniciación de cada etapa de la obra.
 
 IV.- Realizar las pruebas de calidad de los materiales que le sean solicitadas por el ayuntamiento, a efecto de garantizar la buena calidad de la obra.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 186.
 
-Para los efectos de la presente ley, la responsabilidad de los peritos terminará a los cinco años contados a partir de la terminación de los trabajos.
+Para los efectos de la presente ley, la responsabilidad del director responsable de obra terminará a los cinco años contados a partir de la terminación de los trabajos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 187.
 
-El ayuntamiento respectivo determinará la suspensión o revocación de la patente de perito en los siguientes casos:
+El Ayuntamiento respectivo determinará la suspensión o revocación de la patente del director responsable de obra en los siguientes casos:
 
 I.- Cuando haya obtenido su inscripción proporcionando datos o documentos falsos, y
 
 II.- Por incumplimiento de las obligaciones contenidas en el presente ordenamiento.
 
-En todo caso la autoridad municipal realizará la investigación, determinado (sic) la responsabilidad del perito, imponiendo la sanción administrativa que determine el presente ordenamiento en atención a la gravedad a la falta cometida e independientemente de la responsabilidad penal a que pueda ser sujeto.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+En todo caso la autoridad municipal realizará la investigación, determinando la responsabilidad del director responsable de obra, imponiendo la sanción administrativa que establezca el presente ordenamiento, el Reglamento de Construcciones del Municipio respectivo, en atención a la gravedad a la falta cometida e independientemente de la responsabilidad penal a que pueda ser sujeto.
 
 ## TITULO SEXTO. DE LA REGULARIZACIÓN EN MATERIA DE VIVIENDA
 
@@ -2855,27 +2885,45 @@ En los fraccionamientos industriales de tipo selectivo, únicamente se podrán c
 
 En el caso de los fraccionamientos mixtos deberán normarse por el reglamento que para tal efecto elaboren los ayuntamientos de acuerdo a la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 229.
 
-Cuando el fraccionador, haya ejecutado el proyecto definitivo autorizado y el dictamen técnico al que se refieren los artículos 247, 248 y 249 de la presente ley, el Ayuntamiento procederá a la municipalización del mismo, en un plazo que no excederá los 30 días posteriores al acta de terminación.
+Cuando el fraccionador, haya ejecutado el proyecto autorizado y cuente con los dictámenes técnicos a los que se refieren los artículos 247, 248 y 249 de la presente ley, el Ayuntamiento procederá a la municipalización del mismo, en un plazo que no excederá los 40 días naturales posteriores a la solicitud.
 
 Los fraccionamientos que se urbanicen por etapas, se podrán municipalizar:
 
-a) Cuando se hayan ejecutado la totalidad de las obras de urbanización y de las etapas de construcción;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
-b) Cuando se hayan terminado una etapa de construcción completa y las obras de urbanización correspondientes a esa etapa, estén concluidas y en condiciones de operación y previendo la interconexión a obras de cabeza de esa etapa y de las consecutivas hasta su conclusión; y
+a) Cuando se haya ejecutado la totalidad de las obras de urbanización y de las etapas de construcción; y
 
-c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+b) Cuando se haya terminado una etapa de construcción completa y las obras de urbanización correspondientes a esa etapa, estén concluidas y en condiciones de operación y previendo la interconexión a obras de cabeza de esa etapa y de las consecutivas hasta su conclusión.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 230.
 
-El ayuntamiento respectivo recibirá el fraccionamiento mediante el levantamiento de un acta administrativa.
+El Municipio respectivo recibirá el fraccionamiento mediante resolutivo del Ayuntamiento.
 
-La entrega recepción tiene por objeto que los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en la presente ley y demás disposiciones jurídicas aplicables se asignen al ayuntamiento para su cuidado y mantenimiento debiendo encontrarse estos en posibilidad de operar suficiente y adecuadamente permitiendo al ayuntamiento en la esfera de su competencia prestar los servicios públicos necesarios para el bienestar de los colonos ahí asentados.
+La entrega recepción tiene por objeto que los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en la presente ley y demás disposiciones jurídicas aplicables se asignen al Ayuntamiento para su cuidado y mantenimiento debiendo encontrarse estos en posibilidad de operar suficiente y adecuadamente permitiendo al Ayuntamiento en la esfera de su competencia prestar los servicios públicos necesarios para el bienestar de los colonos ahí asentados.
 
-Intervendrán en este acto, el Presidente Municipal, el Director de Obras Públicas Municipales el fraccionador y un representante de la asociación de colonos si la hubiere, a fin de que previo dictamen técnico jurídico se certifique que el fraccionador cumplió con todas las obligaciones.
+La infraestructura se verificará en su funcionamiento, misma que será supervisada, recibida y operada por las direcciones y organismos municipales o sus equivalentes, como a continuación se describe:
+
+a) Obras públicas: vialidades, banquetas y pavimentos;
+
+b) Organismo Municipal Operador del Agua: Agua potable, drenaje sanitario y pluvial;
+
+c) Servicios Públicos: Alumbrado público, áreas verdes y espacios públicos;
+
+d) Seguridad Pública: Señalización vial;
+
+e) Desarrollo Urbano: Nomenclatura; y
+
+f) Administración y Finanzas: Porcentaje de área de donación de equipamiento.
+
+La Dirección Municipal de Obras, Públicas o su equivalente, será responsable cuando el Municipio no cuente con alguna de las direcciones referidas.
 
 ###### ARTÍCULO 231.
 
@@ -2887,149 +2935,109 @@ El ayuntamiento tomará las medidas necesarias para el debido aprovechamiento de
 
 ### CAPÍTULO II (SIC). DE LOS PROCEDIMIENTOS Y REQUISITOS PARA LA AUTORIZACIÓN DE LOS FRACCIONAMIENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 233.
 
-La autorización de las solicitudes de fraccionamiento y la constitución o modificación del régimen de propiedad en condominio, será facultad exclusiva del ayuntamiento asentada en el acta respectiva. Lo anterior conforme a lo dispuesto en la presente ley y a los criterios expedidos por las comisiones estatal y municipal de desarrollo urbano respectiva.
+La autorización de las solicitudes de fraccionamiento y la constitución o modificación del régimen de propiedad en condominio, será facultad exclusiva del Ayuntamiento asentada en el resolutivo respectivo. Lo anterior conforme a lo dispuesto en la presente ley y a los criterios expedidos por las comisiones estatal y municipal de desarrollo urbano respectivas.
 
 Serán nulas de pleno derecho todas aquellas autorizaciones que no se ajusten a lo dispuesto en el presente artículo.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 234.
 
-La solicitud para la autorización de fraccionamiento, así como la constitución o modificación del régimen de propiedad en condominio, deberá presentarse por escrito ante el ayuntamiento, a fin de que este elabore el proyecto de dictamen respectivo y previa opinión de la Comisión Municipal que corresponda lo someta a su resolución en sesión de ayuntamiento.
+La solicitud para la autorización de fraccionamiento, así como la constitución o modificación del régimen de propiedad en condominio, deberá presentarse por escrito ante la Dirección Municipal de Desarrollo Urbano o su equivalente, para revisión de las direcciones que correspondan, y una vez aprobada se enviará al Ayuntamiento para que este emita el resolutivo correspondiente, previa opinión de la Comisión Municipal respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 235.
 
 La solicitud a que se refiere el artículo anterior, deberá ser acompañada de los siguientes documentos:
 
-I.- Copia certificada de las escrituras de propiedad debidamente inscritas en el Registro Público de la Propiedad y del Comercio;
+I.- Dictamen de compatibilidad urbanística de uso de suelo;
 
-II.- Constancia de no adeudo del impuesto a la propiedad raíz y clave catastral de los predios;
+II.- Dictamen de Protección Civil.
 
-III.- Constancia de apeo y deslinde;
+III.- Copia certificada de la escritura de propiedad debidamente inscrita en el Registro Público de la Propiedad y del Comercio;
 
-IV.- Certificado de libertad de gravámenes;
+IV.- Clave catastral actualizada;
 
-V.- Constancia que acredite al perito como responsable de la obra;
+V.- Dictamen de apeo y deslinde;
 
-VI.- Copia certificada del acta constitutiva de la empresa fraccionadora o inmobiliaria, inscrita en el Registro Público de la Propiedad y del Comercio, cuando se trate de persona moral;
+VI.- Plano de lotificación;
 
-VII.- Documento que acredite a la persona con capacidad para gestionar y promover trámites, con relación al fraccionamiento o condominio;
+VII.- Plano de ligas con otros fraccionamientos;
 
-VIII.- Constancia de compatibilidad urbanística;
+VIII.- Plano topográfico;
 
-IX.- Estudio de impacto ambiental, expedida por la autoridad competente;
+IX.- Proyecto de desalojo pluvial y rasantes;
 
-X.- La autorización de relotificación, fusión y/ o subdivisión de terrenos, si la hubiere;
+X.- Mecánica de suelos y proyecto de pavimentación;
 
-XI.- Los siguientes documentos técnicos:
+XI.- Proyecto de circulaciones viales;
 
-1) Si el fraccionamiento o predio se encuentra fuera del perímetro urbano, un plano a escala 1:20,000 que exprese su ubicación en el centro de población;
+XII.- Factibilidad de servicios del sistema operador de agua en el Municipio respectivo;
 
-2) Plano de conjunto a escala 1:5,000 que contenga las ligas del fraccionamiento o predio con otras zonas urbanizadas;
+XIII.- Proyecto de red de agua potable;
 
-3) Plano topográfico del terreno destinado al fraccionamiento o condominio, a escala 1:1,000, que contenga:
+XIV.- Proyecto de red de alcantarillado;
 
-a) El polígono o polígonos: indicando sus medidas y colindancias, así como las longitudes de los lados, sus rumbos y los ángulos interiores en los vértices;
+XV.- Proyecto de arbolado, jardineras y áreas verdes;
 
-b) La configuración del terreno con curvas de nivel a cada Metro; y
+XVI.- Proyecto de alumbrado público;
 
-c) La superficie total del terreno o terrenos.
+XVII.- Factibilidad de servicio electrificación de la Comisión Federal de Electricidad;
 
-4) Plano de la vialidad a escala 1:1,000, marcando:
+XVIII.- Dictamen de impacto ambiental;
 
-a) El trazo de los ejes de las vías públicas referido geométricamente a los linderos del terreno;
+XIX.- Proyecto de red subterránea de voz, datos y TV;
 
-b) Los ángulos de intersección de los ejes;
+XX.- Plano etapa de Urbanización;
 
-c) Distancias entre los ejes; y
+XXI.- Calendario de obra de urbanización;
 
-d) Las secciones transversales a escala 1: 200 de las calles o vialidades.
+XXII.- Presupuesto de obra de urbanización;
 
-5) Memoria de cálculo y plano de la red Municipal de agua potable, cuando en su caso se requiera y en el que se indique:
+XXIII.- Certificado de libertad de gravamen;
 
-a) La localización de la fuente de abastecimiento;
+XXIV.- Designación de director responsable de obra;
 
-b) Localización, altura y capacidad del tanque de regulación;
+XXV.- Copia certificada del acta constitutiva de la empresa cuando sea persona moral;
 
-c) Tipo de material, diámetro y longitud de tubería, y
+XXVI.- Carta responsiva indicando el depósito de escombro que la obra genere; y
 
-d) Cota de plantilla, cota piezométrica y carga disponible en los cruceros.
+XXVII.- Propuesta de reglamento interno (solo régimen en condominio).
 
-6) Autorización de la Comisión Nacional del Agua o del ayuntamiento, según corresponda respecto al aprovechamiento de la fuente de abastecimiento de agua potable;
+El expediente deberá presentarse en formato digital para la revisión y sólo hasta su aprobación se solicitará en formato físico. En caso de que falte alguno de los datos o anexos que se mencionan en el artículo anterior, la autoridad notificará al interesado para que subsane la omisión.
 
-7) Memoria de cálculo de la red de agua potable en el que se indique:
+Además de los requisitos enlistados, se podrán solicitar el dictamen de la Comisión Nacional del Agua, estudios hidrológicos, geológicos, geoeléctricos y de resistividad, entre otros, en caso de considerarse necesario a criterio de la Dirección Municipal de Desarrollo Urbano.
 
-a) Tipo de material, diámetros, longitudes y pendientes de Tuberías;
-
-b) Pozos de visita, con detalles de dimensiones;
-
-c) Cota de plantilla y cota de terreno en los cruceros y cambios de dirección; y
-
-d) Localización de la descarga o descargas.
-
-f) Cuando el fraccionamiento esté proyectado para 500 o más viviendas, será necesario presentar el proyecto respectivo para el saneamiento y destino final de sus descargas sanitarias a la red municipal o con instalaciones propias, que permitan reciclar sus aguas negras o residuales, de acuerdo a la normatividad de la Comisión Nacional del Agua y del Ayuntamiento, dentro de las instancias competentes.
-
-8) Memoria de cálculo y plano de electrificación y alumbrado público del fraccionamiento o condominio, en el que se indique.
-
-a) Estructuras que componen la red;
-
-b) Tipo de cableado y especificaciones, y
-
-c) Especificaciones del alumbrado público.
-
-9) Estudio de mecánica de suelos.
-
-10) Propuesta, en su caso, del plano de las etapas de urbanización y secuencia de las mismas;
-
-11) Calendario de obras que deberá observar el fraccionador o promovente, y plazo en que deberán quedar concluidas;
-
-12) Especificaciones para las diversas obras de urbanización conforme a las normas correspondientes;
-
-13) Presupuesto desglosado de las obras de urbanización y construcción.
-
-XIII.- Los demás que a juicio del ayuntamiento se requieran o se señalen en otras disposiciones jurídicas;
-
-En el caso específico de fraccionamientos, ubicados dentro del perímetro urbano además de los anexos citados con anterioridad, el solicitante deberá incluir los siguientes documentos.
-
-1) Plano con claves catastrales:
-
-a) División de manzanas y lotificación;
-
-b) Zonificación interna;
-
-c) Áreas de donación propuesta;
-
-d) Propuesta de nomenclatura;
-
-e) Medidas de los linderos de los lotes y superficies de ellos, incluyendo los de donación; y
-
-f) La localización del arbolado y las áreas verdes.
-
-2) Memoria descriptiva de lotes, indicando:
-
-a) El numero total de lotes del fraccionamiento, señalando, además, el numero de éstos en cada una de las manzanas; y
-
-b) Medidas y colindancias de todos y cada uno de los lotes del fraccionamiento, señalando a que manzana pertenece.
-
-En caso de que falte alguno de los datos o anexos que se mencionan en el artículo anterior, la autoridad notificará al interesado para que subsane la omisión.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 236.
 
-El ayuntamiento integrará con toda la documentación inherente a la solicitud, el expediente del fraccionamiento o condominio, y enviará un tanto del mismo a la Comisión Municipal respectiva, con objeto de que emita su opinión en un plazo máximo de quince días hábiles. La falta de opinión después de transcurrido el plazo citado, no será obstáculo para que la autoridad municipal resuelva lo conducente.
+El Ayuntamiento enviará un tanto del expediente de solicitud de fraccionamiento o condominio a la Comisión Municipal respectiva, con objeto de que emita su opinión en un plazo máximo de quince días hábiles.
 
-La Comisión Municipal respectiva, habiendo emitido su opinión, deberá remitirla al ayuntamiento por conducto del Presidente Municipal, a efecto de que éste la incorpore al proyecto de dictamen que se someterá para su consideración en sesión de ayuntamiento.
+La Comisión Municipal respectiva, habiendo emitido su opinión, deberá remitirla al Ayuntamiento por conducto del Presidente Municipal, a efecto de que éste la incorpore al proyecto de resolutivo que se someterá para su consideración en sesión de Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 237.
 
-Toda resolución del ayuntamiento en materia de fraccionamiento o condominio, así mismo para su validez, deberá ser suscrita por el Presidente Municipal, el Secretario y con la participación del Sindico del ayuntamiento, el Tesorero Municipal, y el Director de Obras Públicas Municipales, o sus equivalentes.
+Toda resolución del Ayuntamiento en materia de fraccionamientos o condominios, para su validez deberá ser suscrita por el Presidente Municipal, el Secretario, el Síndico, la Comisión de Desarrollo Urbano Municipal y el Director Municipal de Desarrollo Urbano o sus equivalentes.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 238.
 
-Cuando la solicitud de fraccionamiento o de condominio haya sido aprobada, el ayuntamiento, previo el cumplimiento de los requisitos que señala la presente ley, mandará publicar por una sola vez el resolutivo correspondiente o en el medio de difusión municipal disponible, o en el Periódico Oficial del Gobierno del Estado y enviar una copia de la autorización y documentación del fraccionamiento o del condominio a la Dirección General de Catastro del Estado para su registro.
+Cuando la solicitud de fraccionamiento o de condominio haya sido aprobada, el Ayuntamiento, previo el cumplimiento de los requisitos que señala la presente ley, mandará publicar por una sola vez el resolutivo correspondiente en el medio de difusión municipal disponible, o en el Periódico Oficial del Gobierno del Estado de Durango y enviará una copia de la autorización y documentación del fraccionamiento o del condominio a la Dirección General de Catastro del Estado para su registro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 239.
 
-Cuando la solicitud de fraccionamiento o condominio, haya sido rechazada por el ayuntamiento, el Presidente Municipal notificará al interesado los fundamentos y motivos del rechazo.
+Cuando la solicitud de fraccionamiento o condominio, haya sido rechazada por el Ayuntamiento, este lo notificará al interesado expresando los fundamentos y motivos.
 
 El fraccionador podrá interponer el recurso de inconformidad que establece la presente ley, en un plazo máximo de quince días hábiles, contados a partir del día siguiente a la fecha en que le haya sido notificada la resolución correspondiente.
 
@@ -3057,17 +3065,21 @@ El ayuntamiento solo autorizará la urbanización progresiva de fraccionamientos
 
 El fraccionador o promovente deberá ejecutar las obras de urbanización del fraccionamiento o condominio, conforme a las características, especificaciones, temporalidad y calidad que le haya marcado el ayuntamiento como se establece en la presente ley.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 243.
 
-El perito y supervisores designados para la ejecución de las obras de urbanización, serán responsables solidarios de todas las obligaciones que el fraccionador o promovente acepte, con relación a dichas obras, de acuerdo con la presente ley; para tal efecto, la autoridad municipal asignará un perito y los supervisores necesarios los que tendrán la obligación de comprobar el cumplimento respectivo.
+El director responsable de obra y supervisores designados para la ejecución de las obras de urbanización, serán responsables solidarios de todas las obligaciones que el fraccionador o promovente acepte, con relación a dichas obras, de acuerdo con la presente ley; para tal efecto, las direcciones que recibirán la infraestructura correspondiente de los fraccionamientos, tendrán la obligación de comprobar el cumplimento respectivo, de conformidad con el artículo 230 de esta ley.
 
 ###### ARTÍCULO 244.
 
 Es obligación del fraccionador o promovente conservar en la obra, en lugar fijo y en forma permanente, el libro de bitácora debidamente foliado y autorizado por el ayuntamiento respectivo, hasta la conclusión total de las obras de urbanización, para los efecto del Artículo 250.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 245.
 
-Previo al inicio de los trabajos del condominio, el fraccionador o promovente, deberá constituir garantía ante la Tesorería Municipal respectiva; dicha garantía podrá consistir a juicio del ayuntamiento, en:
+Previo al otorgamiento de la licencia de urbanización, el fraccionador o promovente, deberá constituir garantía ante la Tesorería Municipal respectiva; dicha garantía podrá consistir a juicio del Ayuntamiento, en:
 
 I.- Fianza expedida por Institución autorizada, con valor del 50% del presupuesto total de las obras de urbanización; o
 
@@ -3085,25 +3097,25 @@ III.- No acate las observaciones que las autoridades competentes le hagan, con m
 
 IV.- Deje de prestar suficiente y adecuadamente los servicios a que está obligado por la presente ley.
 
-En todos los casos será responsable solidario el perito o director responsable de las obras o su equivalente.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+
+En todos los casos será responsable solidario el director responsable de obra y los directores corresponsables de obra, quienes son peritos en diversas ramas de la construcción.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO III BIS. DE LA MUNICIPALIZACIÓN DE FRACCIONAMIENTOS O DESARROLLOS EN CONDOMINIO
 
-(REUBICADO Y REFORMADO, P.O. 2 DE DICIEMBRE DE 2007)
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 247.
 
-Para el otorgamiento de las licencias de urbanización y construcción para fraccionamientos o condominios, se deberán acompañar las constancias de compatibilidad urbanística expedidas por las dependencias correspondientes, una vez cumplido este requisito la Dirección Municipal competente, otorgará la licencia de urbanización; y una vez cumplidos estos requisitos, el fraccionador o propietario podrá solicitar la licencia de construcción; iniciada ésta, se procederá a su inspección y supervisión.
+Para el otorgamiento de las licencias de urbanización para fraccionamientos o condominios, el fraccionador deberá presentar la solicitud la cual se integrará al expediente del fraccionamiento junto con el resolutivo de autorización del Ayuntamiento, una vez cumplido este requisito la Dirección Municipal de Desarrollo Urbano o su equivalente, otorgará la licencia de urbanización; satisfecho lo anterior, el fraccionador o propietario podrá solicitar la licencia de construcción.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+Durante el proceso de ejecución de las obras de urbanización o de construcción, las dependencias municipales procederán a su inspección y supervisión, en lo que les competa, de conformidad con lo dispuesto en la reglamentación municipal.
 
-Conforme se vayan entregando las viviendas, la Dirección Municipal correspondiente, otorgará la constancia de uso y habitabilidad, con el propósito de que los adquirentes tengan la seguridad de que la vivienda cuenta con las especificaciones de construcción y los servicios públicos.
+Conforme se vayan entregando las viviendas, la Dirección Municipal, otorgará la constancia de uso y habitabilidad, con el propósito de que los adquirientes tengan la seguridad de que la vivienda cuenta con las especificaciones de construcción y los servicios públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
-
-Dentro de los 15 días siguientes a la fecha del acta de terminación de obra, el fraccionador deberá solicitar ante la Dirección de Obras Públicas del Municipio la municipalización del fraccionamiento. Dentro de los dos días siguientes a la recepción de la solicitud, la Dirección de Obras Públicas integrará el expediente respectivo con el proyecto autorizado, las bitácoras de obra en las que consten las supervisiones municipales y sus resultados, así como el acta de terminación de obra, el cual enviará al Ayuntamiento al día siguiente. Una vez recibido el expediente, el Ayuntamiento citará al desarrollador, a efecto de que, en un plazo no mayor de cinco días se realice la inspección final del fraccionamiento o condominio, junto con un perito y un supervisor, para verificar el cumplimiento de los requisitos urbanos señalados en el Título Séptimo de esta ley, levantándose el dictamen técnico correspondiente, en el cual se determinará lo siguiente:
+Dentro de los 5 días siguientes a la fecha de terminación de obra de urbanización, el fraccionador deberá presentar ante la Dirección Municipal de Desarrollo Urbano o su equivalente, la solicitud de municipalización del fraccionamiento, acompañada de la fianza en garantía de vicios ocultos. Dentro de los dos días siguientes a la recepción de la solicitud, la Dirección mencionada solicitará los dictámenes técnicos a las direcciones correspondientes, las cuales en un plazo no mayor de diez días realizarán la inspección final del fraccionamiento para verificar el cumplimiento de los requisitos urbanos señalados en el Título Séptimo de esta ley, levantándose los dictámenes técnicos correspondientes, en los que se determinará lo siguiente:
 
 I. El estado físico de las obras de urbanización;
 
@@ -3113,27 +3125,29 @@ III. Las incidencias y reparaciones que se hubieran realizado durante el periodo
 
 Tratándose de fraccionamientos autorizados en etapas, se observará además de lo anterior, lo señalado en el artículo 229, incisos a) y b) de esta ley.
 
-(REUBICADO, P.O. 2 DE DICIEMBRE DE 2007)
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 248.
 
-El dictamen técnico a que se refiere el artículo anterior, tendrá por objetivo sancionar que el fraccionador o promovente, haya cumplido con todas las obligaciones que le señala la presente ley y ejecutado las obras de urbanización, conforme al proyecto definitivo del fraccionamiento o condominio autorizado.
+Los dictámenes técnicos a que se refiere el artículo anterior, tendrán por objetivo sancionar que el fraccionador o promovente, haya cumplido con todas las obligaciones que le señala la presente ley y ejecutado las obras de urbanización, conforme al proyecto definitivo del fraccionamiento o condominio autorizado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 249.
 
-El perito y el supervisor deberán entregar al Ayuntamiento el dictamen técnico correspondiente, a más tardar tres días después de realizada la inspección para su aprobación final en la siguiente sesión de Cabildo, y el resolutivo deberá de turnarse al día siguiente a la Dirección de Obras Públicas, para que en un término de tres días se levante el acta administrativa a que se refiere el artículo 230 de esta ley.
+La Dirección Municipal de Desarrollo Urbano o su equivalente, deberán entregar al Ayuntamiento los dictámenes técnicos procedentes, a más tardar tres días después de realizada la inspección para su aprobación final en la siguiente sesión del Ayuntamiento, y el resolutivo deberá de turnarse al día siguiente a la Dirección Municipal de Desarrollo Urbano o su equivalente.
 
-En el caso de que el dictamen técnico no apruebe la totalidad de las obras de urbanización, el fraccionador o promovente deberá corregir a su costa, las anomalías que se desprenden de dicho dictamen, para que posteriormente el ayuntamiento apruebe el dictamen definitivo.
+En el caso de que los dictámenes técnicos no aprueben la totalidad de las obras de urbanización, el fraccionador o promovente deberá corregir a su costa, las anomalías que se desprenden de dichos dictámenes, para que posteriormente el Ayuntamiento apruebe en sesión la municipalización.
 
-Tratándose de condominios, el dictamen técnico a que se refiere el párrafo anterior, en ningún caso implica la municipalización del mismo, toda vez que la prestación de los servicios urbanos básicos, siempre será responsabilidad de la administración del condominio, bajo la supervisión de las autoridades correspondientes.
+Tratándose de condominios, los dictámenes técnicos a que se refiere el párrafo anterior, en ningún caso implica la municipalización del mismo, toda vez que la prestación de los servicios urbanos básicos, siempre será responsabilidad de la administración del condominio, bajo la supervisión de las autoridades correspondientes.
 
-(REUBICADO, P.O. 2 DE DICIEMBRE DE 2007)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 250.
 
-Se procederá a la cancelación de la garantía otorgada, quedando el fraccionador liberado de toda responsabilidad, en cuanto a la prestación de los servicios respectivos, una vez que se hayan satisfecho los supuestos a los que se refieren los artículos 242 y 245 de la presente ley.
+Se procederá a la cancelación de la garantía otorgada, quedando el fraccionador liberado de toda responsabilidad, en cuanto a la prestación de los servicios respectivos, una vez que se lleve a cabo la municipalización y en el caso de los fraccionamientos en régimen de condominio, hayan satisfecho los supuestos a los que se refieren los artículos 242 y 245 de la presente ley.
+
+(REUBICADO, P.O. 2 DE DICIEMBRE DE 2007)
 
 Mientras no se cumpla con el supuesto previsto en este artículo, el fraccionador seguirá obligado a la prestación de los servicios y mantenimiento de las instalaciones correspondientes así como a mantener vigente la garantía otorgada.
 
@@ -4045,7 +4059,7 @@ Los Ayuntamientos deberán publicar y notificar anualmente al Congreso del Estad
 
 P.O. 12 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO No. 554.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE VIVIENDA DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 554.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA DEL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
@@ -4082,3 +4096,13 @@ P.O. 24 DE JUNIO DE 2018.
 PRIMERO.- Las reformas a éstas Leyes entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
+
+P.O. 20 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 20.- LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los ayuntamientos de los municipios del Estado, deberán elaborar las reformas a sus respectivos Reglamentos de Construcción que deriven del presente Decreto, en un plazo que no excederá de tres meses contados a partir del inicio de su vigencia.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
