@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2018-12-12"
+last_updated: "2018-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 4 de Mayo de 2016.
 
@@ -1221,7 +1221,9 @@ Adicionalmente, en el caso de los Ayuntamientos y la Administración Pública Mu
 
 I. Los resolutivos y acuerdos aprobados por los Ayuntamientos, y su fecha de publicación en el Boletín Oficial del Gobierno del Estado;
 
-II. Las actas de sesiones de cabildo, los controles de asistencia de los integrantes del Ayuntamiento a las sesiones de cabildo y el sentido de votación de los miembros del cabildo sobre las iniciativas o acuerdos;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2018)</small>
+
+II. Las convocatorias y las actas de sesiones de cabildo, los controles de asistencia de los integrantes del Ayuntamiento a las sesiones de cabildo y el sentido de la votación de los miembros del cabildo sobre las iniciativas o acuerdos;
 
 III. Los usos de suelo a través de mapas y planos georreferenciados que permitan conocer de manera rápida y sencilla el tipo de uso de suelo con que cuenta cada predio;
 
@@ -2812,3 +2814,9 @@ La Auditoría Superior del Estado de Baja California Sur deberá realizar las mo
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+B.O. 20 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2579 SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 38 SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 46 AMBOS DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA LA FRACCIÓN II DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 76 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
