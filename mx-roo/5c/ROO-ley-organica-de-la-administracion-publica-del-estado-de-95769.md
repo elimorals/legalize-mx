@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2018-12-05"
+last_updated: "2018-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -387,13 +387,11 @@ XXII. Intervenir, junto con las autoridades federales, estatales y municipales c
 
 XXIII. Otorgar a las autoridades judiciales el apoyo que soliciten con motivo del ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
-
-XXIV. Organizar, coordinar, dirigir y supervisar al Centro Estatal de Evaluación y Control de Confianza;
+XXIV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2018)
 
 XXV. Instrumentar la política de protección civil en el Estado, organizando y coordinando las acciones y funciones de la Coordinación Estatal de Protección Civil y su vinculación con los Sistemas Nacional y Estatal de Protección Civil;
 
-XXVI. Supervisar y coordinar las funciones de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública, fomentando su vinculación con el Sistema Nacional de Seguridad Pública, y los demás Sistemas Estatales, y
+XXVI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -2142,3 +2140,25 @@ TERCERO. Los asuntos a cargo de la Dirección de Comunicaciones y Transportes de
 CUARTO. Las atribuciones que en otras leyes y en reglamentos se otorgan a la Secretaría de Infraestructura y Transporte para sus funciones administrativas de Transporte y sean transmitidos a la Secretaría de Desarrollo Territorial Urbano Sustentable, se tendrán por conferidas a ésta última, las que ejercerá con base en lo que dispone el presente ordenamiento.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto por este Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 272 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY DE SEGURIDAD PÚBLICA Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, AMBAS DEL ESTADO DE QUINTANA ROO; Y POR EL 'QUE SE EXPIDE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA”.]
+
+PRIMERO. Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que contravengan lo dispuesto en la presente Ley.
+
+TERCERO. A la entrada en vigor de la presente Ley, la Secretaría de Finanzas y Planeación, la Secretaría de Gobierno y la Oficialía Mayor, coordinarán la transferencia de recursos humanos, materiales y financieros de la Secretaría de Gobierno al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en términos del presente Decreto.
+
+CUARTO. La Junta de Gobierno celebrará Sesión y deberá quedar instalada en un plazo no mayor a sesenta días hábiles contados a partir de la fecha en que entre en vigor la presente Ley.
+
+QUINTO. La Secretaría de Finanzas y Planeación, en el ámbito de su respectiva competencia, llevará a cabo las acciones necesarias para las adecuaciones presupuestarias de la estructura funcional del organismo descentralizado que se crea.
+
+SEXTO. Los asuntos que se encuentran en trámite, a cargo de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública y las demás unidades administrativas que la integrarán, en términos de la presente Ley, serán asumidos de inmediato por el Órgano Descentralizado que por este medio se crea. En lo que respecta al Centro Estatal de Evaluación y Control de Confianza (C3) mantendrá vigente su normatividad interna, en tanto se adecuen las disposiciones normativas.
+
+SÉPTIMO. El Secretario Ejecutivo, deberá someter a aprobación de la Junta de Gobierno, en un plazo no mayor a sesenta días hábiles, contados a partir del día de la entrada en vigor de la presente Ley, el Reglamento Interior del Secretariado Ejecutivo.
+
+OCTAVO. Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento de la presente Ley, en plena observancia a las disposiciones aplicables.
+
+NOVENO. El Ejecutivo del Estado contará con un plazo de 60 días hábiles posteriores a la entrada en vigor del presente decreto, para realizar las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Gobierno y demás disposiciones reglamentarias, en los términos de la presente Ley.
