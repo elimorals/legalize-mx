@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-ejecutiva-de-atencion-a-101591
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-27"
-last_updated: "2017-12-20"
+last_updated: "2018-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-27"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2018.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de junio de 2014.
 
@@ -57,11 +57,11 @@ ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
 El presente Estatuto tiene por objeto establecer la estructura, bases de organización y funciones de la Comisión Ejecutiva de Atención a Víctimas y de las unidades administrativas que la integran.
 
-> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 2.
 
-La Comisión Ejecutiva de Atención a Víctimas es un organismo descentralizado de la Administración Pública Federal, no sectorizado, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión, encargado de fungir como órgano operativo del Sistema Nacional de Atención a Víctimas, con domicilio legal en la Ciudad de México, sin perjuicio de las delegaciones en las entidades federativas, de conformidad con lo dispuesto en el artículo 17 Bis de la Ley Orgánica de la Administración Pública Federal.
+La Comisión Ejecutiva de Atención a Víctimas es un organismo descentralizado de la Administración Pública Federal, no sectorizado, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión, encargado de fungir como órgano operativo del Sistema Nacional de Atención a Víctimas, con domicilio legal en la Ciudad de México, sin perjuicio de los Centros de Atención Integral en las entidades federativas.
 
 > <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -77,9 +77,9 @@ II. Comisión Ejecutiva: la Comisión Ejecutiva de Atención a Víctimas;
 
 III. Comisionado Ejecutivo: la persona sobre quien recae la responsabilidad de presidir la Comisión Ejecutiva y dirigir el cumplimiento de las atribuciones de sus unidades administrativas, en términos de los artículos 85 y 95 de la Ley General de Víctimas y 35 de su Reglamento;
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-IV. Delegados y Subdelegados: a los Titulares de las Delegaciones y Subdelegaciones de la Comisión Ejecutiva de Atención a Víctimas en las entidades federativas;
+IV. Titulares de los Centros de Atención Integral: a los Titulares de los Centros de Atención Integral de la Comisión Ejecutiva de Atención a Víctimas en las entidades federativas;
 
 V. Director General de la Asesoría: al Titular de la Asesoría Jurídica Federal de Atención a Víctimas;
 
@@ -199,13 +199,13 @@ l. Niñas, niños y adolescentes víctimas del delito o de violaciones a los der
 
 XIV. Secretaría Técnica del Pleno
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XV. Delegaciones, y
+XV. Centros de Atención Integral, y
 
-> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XVI. Coordinación General de Delegaciones.
+XVI. Coordinación General de los Centros de Atención Integral.
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -461,9 +461,9 @@ XIX. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2017)
 
 XX. Expedir copias certificadas en los términos de la ley, de los documentos que obran en los archivos de la Comisión Ejecutiva;
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XXI. Administrar y coordinar las delegaciones de la Comisión Ejecutiva de Atención a Víctimas, auxiliándose para tal efecto del Coordinador General de Delegaciones, y
+XXI. Administrar y coordinar los Centros de Atención Integral de la Comisión Ejecutiva de Atención a Víctimas, auxiliándose para tal efecto del Coordinador General de los Centros de Atención Integral, y
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -573,11 +573,13 @@ El Comisionado Ejecutivo será suplido en sus ausencias, en los asuntos relativo
 
 Los Directores Generales serán suplidos en sus ausencias por sus inferiores jerárquicos inmediatos, ya sean Directores Generales Adjuntos o Directores de Área, de conformidad con los asuntos que tengan a su cargo.
 
-El Coordinador General de Delegaciones será suplido en sus ausencias por su inferior jerárquico inmediato.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-Los Delegados serán suplidos en sus ausencias por el servidor público que designe el Coordinador General de Delegaciones.
+El Coordinador General de los Centros de Atención Integral será suplido en sus ausencias por su inferior jerárquico inmediato.
 
-Los Subdelegados serán suplidos por el servidor público inmediato inferior que de ellos dependa, de conformidad con los asuntos que tengan a su cargo.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
 El Director General Adjunto de Finanzas será suplido en sus ausencias por el Director de Recursos Humanos.
 
@@ -625,9 +627,9 @@ XII. Presentar el informe anual de labores en la sesión ordinaria de la Junta D
 
 XIII. Ordenar la práctica de visitas de supervisión directa extraordinaria cuando existan circunstancias que lo ameriten;
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XIV. Coordinar al personal adscrito a las Delegaciones que realice funciones de asesoría jurídica federal;
+XIV. Coordinar al personal de los Centros de Atención Integral que realice funciones de asesoría jurídica federal;
 
 XV. Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada uno de los asesores jurídicos que pertenezcan a la Asesoría Jurídica Federal;
 
@@ -653,9 +655,9 @@ XX. Solicitar el apoyo de otras instituciones, cuando las necesidades del servic
 
 XXI. Notificar a la víctima la resolución definitiva de procedencia o no procedencia de acceso a los recursos del Fondo;
 
-> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XXII. Autorizar de manera individual o en conjunto con los titulares de la Dirección General de Atención Inmediata y Primer Contacto y de la Coordinación General de Delegaciones, acciones concurrentes de dos o más delegaciones en entidades distintas a las de su circunscripción territorial, así como autorizar a una delegación en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio, y
+XXII. Autorizar de manera individual o en conjunto con los titulares de la Dirección General de Atención Inmediata y Primer Contacto y de la Coordinación General de los Centros de Atención Integral, acciones concurrentes de dos o más Centros de Atención Integral en entidades distintas a las de su circunscripción territorial, así como autorizar a un Centro de Atención Integral en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio, y
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -1075,13 +1077,13 @@ XIV. Informar a la Asesoría Jurídica Federal sobre la necesidad de designar un
 
 XV. Remitir, en su caso, los asuntos que reciba al Comité Interdisciplinario Evaluador para el seguimiento y el curso del procedimiento legal aplicable, y
 
-> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XVI. Coordinar al personal adscrito a las Delegaciones que realice funciones de atención inmediata y primer contacto;
+XVI. Coordinar al personal de los Centros de Atención Integral que realice funciones de atención inmediata y primer contacto;
 
-> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XVII. Autorizar de manera individual o en conjunto con los titulares de la Dirección General de la Asesoría Jurídica Federal y de la Coordinación General de Delegaciones, acciones concurrentes de dos o más delegaciones en entidades distintas a las de su circunscripción territorial, así como autorizar a una delegación en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio, y
+XVII. Autorizar de manera individual o en conjunto con los titulares de la Dirección General de la Asesoría Jurídica Federal y de la Coordinación General de los Centros de Atención Integral, acciones concurrentes de dos o más Centros de Atención Integral en entidades distintas a las de su circunscripción territorial, así como autorizar a un Centro de Atención Integral en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio, y
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -1131,7 +1133,7 @@ XII. Desarrollar, o en su caso, coadyuvar en la realización de los programas de
 
 XIII. Colaborar con las Direcciones Generales de Vinculación Interinstitucional y de Políticas Públicas, Capacitación e Investigación, en el seguimiento de las políticas públicas que se generen en la materia de su especialización;
 
-XIV. Hacer del conocimiento de las direcciones generales y delegaciones de la Comisión Ejecutiva, los documentos generados en la materia de su especialización;
+XIV. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
 XV. Brindar asesoría en materia de política pública en temas de su especialización cuando sean requeridos por las entidades federativas;
 
@@ -1275,177 +1277,191 @@ XVII. Las demás que sean necesarias para el cumplimiento de sus funciones, así
 
 La Comisión Ejecutiva contará con una Unidad de Enlace para el Acceso a la Información Pública Gubernamental la cual ejercerá las facultades establecidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-### Capítulo Décimo Primero. De las Delegaciones y Subdelegaciones
+### Capítulo Décimo Primero. De los Centros de Atención Integral
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 41.
 
-Para el cumplimiento de sus atribuciones, la Comisión Ejecutiva contará con las Delegaciones, Subdelegaciones y demás oficinas que requiera conforme a sus necesidades.
+Para el cumplimiento de sus atribuciones, la Comisión Ejecutiva contará con oficinas en las entidades federativas que se denominarán Centros de Atención Integral.
 
-Las Delegaciones para el ejercicio de sus funciones se auxiliarán de los servidores públicos que se requieran para cubrir las necesidades del servicio que prestan.
+Los Centros de Atención Integral para el ejercicio de sus funciones se auxiliarán de los servidores públicos que se requieran para cubrir las necesidades del servicio que prestan.
 
-Para la creación, reubicación o cierre de las Delegaciones y Subdelegaciones, el Pleno atenderá criterios de índice delictivo, generación de víctimas, ubicación geográfica y recursos con que cuente la Comisión Ejecutiva.
+Para la creación, reubicación o cierre de los Centros de Atención Integral, el Comisionado Ejecutivo atenderá criterios de índice delictivo, generación de víctimas, ubicación geográfica y recursos con que cuente la Comisión Ejecutiva.
 
-Los servidores públicos de dichas unidades administrativas ejercerán las atribuciones que la Ley, su Reglamento, el presente Estatuto y otros ordenamientos legales le confieran a la Comisión Ejecutiva, tanto en la circunscripción territorial que determine el Pleno de la Comisión mediante acuerdos publicados en el Diario Oficial de la Federación, como de manera concurrente en la circunscripción territorial de las Delegaciones y Subdelegaciones circunvecinas, conforme a los lineamientos que expida el mismo Pleno y sin perjuicio de las atribuciones que el presente Estatuto contempla para las Direcciones Generales de la Asesoría Jurídica Federal y de Atención Inmediata y Primer Contacto.
+Los servidores públicos de dichas unidades administrativas ejercerán las atribuciones que la Ley, su Reglamento, el presente Estatuto y otros ordenamientos legales le confieran a la Comisión Ejecutiva, tanto en la circunscripción territorial que determine el Comisionado Ejecutivo de la Comisión Ejecutiva mediante acuerdos publicados en el Diario Oficial de la Federación, como de manera concurrente en la circunscripción territorial de los Centros de Atención Integral circunvecinos, conforme a los lineamientos que expida el mismo Comisionado Ejecutivo.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
-
-> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
-
-REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2017)
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 42.
 
-La Comisión Ejecutiva contará con una Delegación en las siguientes entidades federativas:
+La Comisión Ejecutiva contará con Centros de Atención Integral en las 32 entidades federativas.
 
-I. Estado de Aguascalientes;
+I. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-II. Estado de Baja California;
+II. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-III. Estado de Baja California Sur;
+III. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-IV. Estado de Campeche;
+IV. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-V. Estado de Colima;
+V. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-VI. Estado de Chiapas;
+VI. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-VII. Estado de Chihuahua;
+VII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-VIII. Estado de Coahuila de Zaragoza;
+VIII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-IX. Estado de Durango;
+IX. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-X. Estado de Guanajuato;
+X. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XI. Estado de Guerrero;
+XI. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XII. Estado de Hidalgo;
+XII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XIII. Estado de Jalisco;
+XIII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XIV. Estado de México;
+XIV. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XV. Estado de Michoacán;
+XV. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XVI. Estado de Morelos;
+XVI. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XVII. Estado de Nayarit;
+XVII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XVIII. Estado de Nuevo León;
+XVIII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XIX. Estado de Oaxaca;
+XIX. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XX. Estado de Puebla;
+XX. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXI. Estado de Querétaro;
+XXI. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXII. Estado de Quintana Roo;
+XXII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXIII. Estado de San Luis Potosí;
+XXIII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXIV. Estado de Sinaloa;
+XXIV. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXV. Estado de Sonora;
+XXV. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXVI. Estado de Tabasco;
+XXVI. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXVII. Estado de Tamaulipas;
+XXVII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXVIII. Estado de Tlaxcala;
+XXVIII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XIX (SIC). Estado de Veracruz;
+XIX (SIC). (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXX. Estado de Yucatán;
+XXX. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXXI. Estado de Zacatecas, y
+XXXI. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XXXII. Ciudad de México.
+XXXII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-La Comisión Ejecutiva considerando las necesidades de las víctimas en las entidades federativas, podrá establecer subdelegaciones, de acuerdo a su suficiencia presupuestaria.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-Las sedes de las delegaciones y subdelegaciones, se establecerán en el Acuerdo que al efecto emita la Comisión Ejecutiva.
+La Comisión Ejecutiva considerando las necesidades de las víctimas en las entidades federativas, podrá establecer más de un Centro de Atención Integral en las mismas, de acuerdo a su suficiencia presupuestaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+Las sedes de los Centros de Atención Integral se establecerán en el Acuerdo que al efecto emita la Comisión Ejecutiva.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 43.
 
-Las Delegaciones serán dirigidas por un Delegado, quien será nombrado y removido por el Comisionado Ejecutivo.
+Los Centros de Atención Integral serán dirigidos por un Titular, quien será nombrado y removido por el Comisionado Ejecutivo.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2015)</small>
-
-Los Delegados se encargarán de dirigir y supervisar el trabajo, el control administrativo, la gestión y el seguimiento de acciones con personal adscrito a la delegación para cubrir las necesidades del servicio.
+Los Titulares de los Centros de Atención Integral se encargarán de dirigir y supervisar el trabajo, el control operativo y administrativo, la gestión y el seguimiento de acciones del personal de dicho Centro para cubrir las necesidades del servicio.
 
 > <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 44.
 
-Son atribuciones de la Coordinación General de Delegaciones:
+Son atribuciones de la Coordinación General de los Centros de Atención Integral:
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-I. Coordinar, supervisar y evaluar las tareas que realicen las Delegaciones de la Comisión Ejecutiva, en aspectos que no sean competencia de otras unidades administrativas y de conformidad con los criterios que defina el Comisionado Ejecutivo;
+I. Coordinar, supervisar y evaluar las tareas que realicen los Centros de Atención Integral de la Comisión Ejecutiva, en aspectos que no sean competencia de otras unidades administrativas y de conformidad con los criterios que defina el Comisionado Ejecutivo;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-II. Proponer al Comisionado Ejecutivo la creación, modificación o supresión de las Delegaciones y Subdelegaciones;
+II. Proponer al Comisionado Ejecutivo la creación, modificación o supresión de los Centros de Atención Integral;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-III. Sugerir al Comisionado Ejecutivo la designación y remoción de los titulares de las Delegaciones y Subdelegaciones;
+III. Sugerir al Comisionado Ejecutivo la designación y remoción de los titulares de los Centros de Atención Integral;
 
-IV. Fungir como enlace y vínculo permanente de coordinación entre las unidades administrativas centrales y las delegaciones, así como entre las mismas delegaciones, con el fin de promover el mejor desarrollo de sus actividades y apoyarlas en sus requerimientos;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-V. Planear, programar, organizar, dirigir y evaluar las actividades de la unidad administrativa a su cargo;
+IV. Fungir como enlace y vínculo permanente de coordinación entre las unidades administrativas centrales y los Centros de Atención Integral, así como entre los mismos Centros de Atención Integral, con el fin de promover el mejor desarrollo de sus actividades y apoyarlas en sus requerimientos;
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-VI. Coordinarse con las Direcciones Generales de la Asesoría Jurídica Federal y de Atención Inmediata y Primer Contacto, para la conducción, supervisión y evaluación del personal adscrito a las Delegaciones;
+V. Planear, programar, organizar, dirigir y evaluar las actividades de la unidad administrativa a su cargo, así como en los Centros de Atención Integral;
 
-VII. Apoyar y analizar el funcionamiento de las Delegaciones, así como el ejercicio del presupuesto asignado a las mismas, a fin de que éstas puedan alcanzar sus objetivos y metas autorizadas;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-VIII. Formular en conjunto con las Delegaciones y conforme a los lineamientos establecidos, los programas respectivos, así como analizar sus avances y cumplimiento;
+VI. Coordinarse con las Direcciones Generales de la Asesoría Jurídica Federal y de Atención Inmediata y Primer Contacto, para la conducción, supervisión y evaluación del personal de los Centros de Atención Integral;
 
-IX. Integrar y analizar la información estadística que se genere en las delegaciones y en sus unidades operativas;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-X. Asesorar y auxiliar a las Delegaciones en la toma de medidas correctivas para solucionar los problemas identificados en su funcionamiento, así como en el ejercicio del presupuesto asignado a las mismas;
+VII. Apoyar y analizar el funcionamiento de los Centros de Atención Integral;
 
-XI. Establecer criterios, parámetros, lineamientos y procedimientos que regulen la operación y resultados de las Delegaciones en aspectos que no sean competencia de otras unidades administrativas;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XII. Promover en coordinación con la Dirección General de Vinculación Interinstitucional, la celebración de convenios de coordinación, colaboración, concertación, y acuerdos entre la Comisión a través de sus Delegaciones con las instituciones y entidades públicas federales, estatales, así como demás dependencias y entidades u organismos que se requiera, previa opinión de la Dirección General de Asuntos Jurídicos;
+VIII. Formular en conjunto con los Centros de Atención Integral y conforme a los lineamientos establecidos, los programas respectivos, así como analizar de manera periódica sus avances y cumplimiento;
 
-XIII. Integrar el anteproyecto de presupuesto de las Delegaciones, así como supervisar su ejercicio;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+IX. Integrar y analizar la información estadística que se genere en los Centros de Atención Integral;
 
-XIV. Planear y gestionar ante las unidades administrativas competentes de la Comisión Ejecutiva las necesidades de las Delegaciones en materia de recursos humanos, financieros, materiales e informáticos;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+X. Asesorar y auxiliar a los Centros de Atención Integral en la toma de medidas correctivas para solucionar los problemas identificados en su funcionamiento;
 
-XV. Participar con las unidades administrativas de la Comisión Ejecutiva en el diseño, adecuación y ejecución de programas, proyectos e instrumentos operativos y normativos de la Comisión, que corresponde ejecutar a las Delegaciones en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XVI. Coordinar y administrar el diseño, implementación y ejecución del sistema de calidad de las delegaciones, supervisar el cumplimiento de los estándares de servicio establecidos, así como captar y medir la satisfacción y expectativas del usuario;
+XI. Establecer criterios, parámetros, lineamientos y procedimientos que regulen la operación y resultados de los Centros de Atención Integral en aspectos que no sean competencia de otras unidades administrativas;
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XVII. Ordenar y realizar la práctica de visitas de supervisión en coordinación con las unidades administrativas competentes, así como ordenar las visitas de supervisión directa extraordinaria a las Delegaciones que considere necesarias;
+XII. Promover en coordinación con la Dirección General de Vinculación Interinstitucional, la celebración de convenios de coordinación, colaboración, concertación, y acuerdos entre la Comisión Ejecutiva a través de sus Centros de Atención Integral con las instituciones y entidades públicas federales, estatales, así como demás dependencias y entidades u organismos que se requiera, previa opinión de la Dirección General de Asuntos Jurídicos;
 
-> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+XIII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-XVIII. Coadyuvar, a través de las Delegaciones, a la promoción y fortalecimiento de acciones de coordinación con las autoridades federales, estatales y municipales en la entidad respecto de las funciones propias de cada Delegación;
+XIV. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XIX. Requerir a las Delegaciones información de las entidades federativas, sus regiones y municipios, que sea de interés para el ejercicio de las atribuciones de las unidades administrativas de la Comisión Ejecutiva;
+XV. Participar con las unidades administrativas de la Comisión Ejecutiva en el diseño, adecuación y ejecución de programas, proyectos e instrumentos operativos y normativos de la Comisión, que corresponde ejecutar a los Centros de Atención Integral en el ámbito de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-XX. Autorizar de manera individual o en conjunto con los titulares de las direcciones generales de la Asesoría Jurídica Federal y de Atención inmediata y Primer Contacto, acciones concurrentes de dos o más delegaciones en entidades distintas a las de su circunscripción territorial, así como autorizar a una delegación en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio;
+XVI. Coordinar y administrar el diseño, implementación y ejecución del sistema de calidad de los Centros de Atención Integral, supervisar el cumplimiento de los estándares de servicio establecidos, así como captar y medir la satisfacción y expectativas de las personas en situación de víctima;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+XVII. Ordenar y realizar la práctica de visitas de supervisión en coordinación con las unidades administrativas competentes, así como ordenar las visitas de supervisión directa extraordinaria a los Centros de Atención Integral que considere necesarias;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Coadyuvar, a través de los Centros de Atención Integral, a la promoción y fortalecimiento de acciones de coordinación con las autoridades federales, estatales y municipales en la entidad respecto de las funciones propias de cada Centro de Atención Integral;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+XIX. Requerir a los Centros de Atención Integral información de las entidades federativas, sus regiones y municipios, que sea de interés para el ejercicio de las atribuciones de las unidades administrativas de la Comisión Ejecutiva;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+XX. Autorizar de manera individual o en conjunto con los titulares de las direcciones generales de la Asesoría Jurídica Federal y de Atención inmediata y Primer Contacto, acciones concurrentes de dos o más Centros de Atención Integral en entidades distintas a las de su circunscripción territorial, así como autorizar a un Centro de Atención Integral y demás oficinas en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio;
 
 > <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -1455,53 +1471,71 @@ XXI. Expedir copias certificadas en los términos de la ley, de los documentos q
 
 XXII. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Comisionado Ejecutivo.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-La Coordinación General de Delegaciones estará adscrita al Comisionado Ejecutivo.
+La Coordinación General de los Centros de Atención Integral estará adscrita al Comisionado Ejecutivo.
 
-> <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 45.
 
-Son atribuciones de las Delegaciones:
+Son atribuciones de los Centros de Atención Integral:
+
+> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 I. Proporcionar y coordinar con las instituciones competentes, los servicios de atención a las víctimas de delitos y de violación a derechos humanos, consistentes en asistencia médica; asistencia psicológica especializada; orientación y asesoría jurídica, y gestoría de asistencia social;
 
+> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
+
 II. Establecer un primer contacto con las víctimas de delitos y de violación a derechos humanos que soliciten la atención, con la finalidad de detectar, evaluar y determinar las necesidades apremiantes de las mismas, así como brindarles una orientación integral;
+
+> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 III. Gestionar y coordinar con las autoridades competentes, dentro del marco de sus atribuciones, los programas de apoyo asistencial, para las víctimas de delitos y de violación a derechos humanos;
 
+> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
+
 IV. Proporcionar atención psicológica a las víctimas de delitos y de violación a derechos humanos, por parte de profesionales especializados en la materia, a efecto de enfrentar y superar el daño psicológico, producto de la comisión del hecho delictivo, así como vincularlas, en su caso, con instituciones especializadas;
+
+> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 V. Asignar a la víctima de delito o de violaciones a sus derechos humanos un asesor jurídico federal;
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-VI. Verificar el estado de salud de las víctimas del delito y de violación a sus derechos humanos a través del personal que realiza funciones de atención inmediata y primer contacto adscrito a la Delegación, implementando las medidas de asistencia, protección y atención que prevén la Ley y su Reglamento;
+VI. Verificar el estado de salud de las víctimas del delito y de violación a sus derechos humanos a través del personal que realiza funciones de atención inmediata y primer contacto en el Centro de Atención Integral, implementando las medidas de asistencia, protección y atención que prevén la Ley y su Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
 
 VII. Recopilar la información relacionada con la atención que se proporciona a las víctimas del delito o de violaciones a sus derechos humanos, incluyendo aquella relacionada con la inscripción de éstas al Registro Nacional de Víctimas, así como aquella encaminada a acceder a los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, cuando corresponda;
 
+> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
+
 VIII. Integrar los expedientes relacionados con los asuntos de su competencia, expedir copias certificadas de las constancias que obren en los mismos y supervisar su resguardo y, así como, implementar y actualizar la base de datos de los expedientes generados por el personal a su cargo;
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+IX. Informar, por conducto del Coordinador General de los Centros de Atención Integral, al Comisionado Ejecutivo y, en su caso, a la unidad administrativa que corresponda, sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades y el desarrollo y cumplimiento de sus programas;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+X. Promover y fortalecer acciones de coordinación con las autoridades federales, estatales y municipales en la entidad respecto de las funciones propias de cada Centro de Atención Integral;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+XI. Recopilar y proporcionar, a través del Coordinador General de los Centros de Atención Integral, información de las entidades federativas, sus regiones y municipios, que sea de interés para el ejercicio de las atribuciones de las unidades administrativas de la Comisión Ejecutiva;
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
+
+XII. Cumplir los criterios de acceso y uso de la Plataforma electrónica del Registro Nacional de Víctimas, y
+
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-IX. Informar, por conducto del Coordinador General de Delegaciones, al Comisionado Ejecutivo y, en su caso, a la unidad central que corresponda, sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades y el desarrollo y cumplimiento de sus programas;
+XIII. Las demás que le confieran las disposiciones aplicables, así como las que le encomiende el Comisionado Ejecutivo.
 
-> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2018)</small>
 
-X. Promover y fortalecer acciones de coordinación con las autoridades federales, estatales y municipales en la entidad respecto de las funciones propias de cada Delegación;
-
-> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
-
-XI. Recopilar y proporcionar, a través del Coordinador General de Delegaciones, información de las entidades federativas, sus regiones y municipios, que sea de interés para el ejercicio de las atribuciones de las unidades administrativas de la Comisión Ejecutiva, y
-
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2017)</small>
-
-XII. Las demás que le confieran las disposiciones aplicables, así como las que le encomiende el Comisionado Ejecutivo.
-
-> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2015)</small>
-
-Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, las Delegaciones se auxiliarán por las Subdelegaciones.
+Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, los Centros de Atención Integral se auxiliarán por el personal profesional necesario.
 
 ## TRANSITORIOS
 
@@ -1556,3 +1590,9 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Comisión Ejecutiva de Atención a Víctimas en un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Acuerdo, deberá instalar las Delegaciones en las entidades federativas de Aguascalientes, Baja California Sur, Campeche, Colima, Estado de México, Hidalgo, Oaxaca, Querétaro, Quintana Roo, San Luis Potosí, Sonora, Tabasco, Tamaulipas, Tlaxcala y Zacatecas.
 
 TERCERO. La Comisión Ejecutiva publicará en el Diario Oficial de la Federación el Acuerdo a que se refiere el artículo 42 del presente Estatuto Orgánico, en un plazo de 30 días hábiles, posteriores a la integración de las Delegaciones referidas en el Transitorio anterior.
+
+D.O.F. 20 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS".]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
