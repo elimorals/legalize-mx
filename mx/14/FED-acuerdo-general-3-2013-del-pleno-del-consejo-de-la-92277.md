@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-12-18"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,11 +23,9 @@ issue_date: "2013-02-07"
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE FEBRERO DE 2020 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -227,9 +225,9 @@ VII. SEPTIMO CIRCUITO:
 
 2.- Cuatro tribunales unitarios: dos con residencia en Boca del Río, otro con sede en Xalapa y uno con residencia en Veracruz, Veracruz.
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 14/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 44/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
 
-3.- Dieciocho Juzgados de Distrito en el Estado de Veracruz, dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco con sede en Xalapa, cuatro Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
+3.- Diecinueve Juzgados de Distrito en el Estado de Veracruz: dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco Mixtos y uno en materia Mercantil Federal, con sede en Xalapa; cuatro Mixtos y uno en materia Mercantil Federal, con sede en Boca del Río; dos con sede en Tuxpan; dos con residencia en Poza Rica; y dos con sede en Córdoba.
 
 VIII. OCTAVO CIRCUITO:
 
@@ -525,7 +523,9 @@ XXXI. TRIGESIMO PRIMER CIRCUITO:
 
 2. Un tribunal unitario con sede en Campeche.
 
-3. Dos juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 50/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
+
+3. Tres juzgados de Distrito en el Estado de Campeche, dos con residencia en San Francisco de Campeche y uno con sede en Ciudad del Carmen.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO:
 
@@ -863,7 +863,13 @@ Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ci
 
 XXXI. TRIGESIMO PRIMER CIRCUITO:
 
-Los juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 50/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
+
+Los juzgados de Distrito en el Estado de Campeche, con residencia en San Francisco de Campeche, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Calakmul, Calkiní, Campeche, Champotón, Escárcega, Hecelchakán, Hopelchén y Tenabo, en la propia entidad federativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 50/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
+
+El Juzgado de Distrito en el Estado de Campeche, con residencia en Ciudad del Carmen, ejercerá jurisdicción territorial en el Distrito Judicial integrado por los municipios de Carmen, Candelaria y Palizada.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO:
 
@@ -885,9 +891,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 3. El Centro Auxiliar de la Tercera Región se integrará por dos juzgados de Distrito Auxiliares uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 44/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
 
-4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares y tres juzgados de Distrito Auxiliares.
+4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares y un juzgado de Distrito Auxiliar.
 
 > <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -7182,3 +7188,33 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales que inician funciones de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los órganos jurisdiccionales que inician funciones.
+
+D.O.F. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 44/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO DEL CENTRO AUXILIAR DE LA CUARTA REGIÓN, CON RESIDENCIA EN XALAPA, VERACRUZ; Y SU TRANSFORMACIÓN E INICIO DE FUNCIONES EN JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL MISMO ESTADO Y RESIDENCIA, SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Con motivo de la conclusión de funciones de los Juzgados Cuarto y Quinto de Distrito del Centro Auxiliar de la Cuarta Región con residencia en Xalapa, Veracruz, y su transformación e inicio de funciones como Juzgado de Distrito en Materia Mercantil Federal en el mismo Estado y residencia, la Comisión de Adscripción proveerá lo conducente en relación con los titulares de dichos órganos jurisdiccionales.
+
+El traslado del personal con su plaza se deberá realizar respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional que inicia funciones deberá contar con la plantilla tipo inicialmente aprobada.
+
+CUARTO. Los Juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa, conservarán su actual denominación, jurisdicción territorial y competencia, y continuarán conociendo de los asuntos en materia mercantil que se les hayan turnado antes del inicio de funciones del Juzgado de Distrito en Materia Mercantil Federal en el Estado de Veracruz, con residencia en Xalapa, hasta su total conclusión y archivo.
+
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+SEXTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración de los sistemas computarizados de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones y a la oficina de Correspondencia Común del Centro Auxiliar de la Cuarta Región.
+
+D.O.F. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 50/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN EL ESTADO DE CAMPECHE, CON RESIDENCIA EN CIUDAD DEL CARMEN; LA MODIFICACIÓN DE LA JURISDICCIÓN TERRITORIAL DE LOS JUZGADOS DE DISTRITO PRIMERO Y SEGUNDO EN EL ESTADO DE CAMPECHE, CON RESIDENCIA EN SAN FRANCISCO DE CAMPECHE; LA CONFORMACIÓN EN EL TRIGÉSIMO PRIMER CIRCUITO JUDICIAL FEDERAL DE LOS DISTRITOS JUDICIALES DE CARMEN Y SAN FRANCISCO DE CAMPECHE Y LOS MUNICIPIOS QUE LOS INTEGRARÁN; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. A la plantilla laboral autorizada del nuevo órgano jurisdiccional, deberá adicionarse una plaza de defensor público y su oficial administrativo de apoyo.
