@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2017-04-07"
+last_updated: "2018-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -61,15 +61,25 @@ Son sujetos de los derechos que establece la presente ley, las mujeres que se en
 
 Todos los mecanismos, medidas, disposiciones y protocolos que surjan o se implementen de la presente ley, buscarán eliminar las diversas modalidades y tipos de la violencia contra las mujeres.
 
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-Esta ley garantiza a toda mujer, independientemente de clase, raza, grupo étnico, orientación sexual, cultura, educación, edad y religión, los derechos inherentes a la persona humana, siéndoles aseguradas las oportunidades y facilidades para vivir sin violencia, y preservar su salud física y mental.
+La administración pública estatal, municipal, los órganos autónomos, los órganos de procuración y administración de justicia, así como el congreso del estado deberán en el ámbito de sus competencias elaborar y suscribir protocolos de actuación y convenios de colaboración, coordinación y concertación en materia de discriminación y violencia de género en términos de los principios que señala esta Ley.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-El presente ordenamiento se interpretará de conformidad con los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit y los Tratados y Convenciones Internacionales, en materia de Derechos Humanos de las Mujeres suscritos y ratificados por México.
+Las autoridades deberán publicar y promocionar los protocolos para informar a las mujeres, tanto a las que laboran en los centros de trabajo, como las que acuden a realizar trámites o a recibir algún servicio público; las autoridades deberán procurar la actualización y adhesión a convenios y protocolos ya existentes.
 
-La aplicación y vigilancia del cumplimiento de esta ley corresponderá al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia del Estado de Nayarit.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Esta Ley garantiza a toda mujer, independientemente de clase, raza, grupo étnico, orientación sexual, cultura, educación, edad y religión, los derechos inherentes a la persona humana, siéndoles aseguradas las oportunidades y facilidades para vivir sin violencia, y preservar su intimidad, así como su salud física y mental.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+El presente ordenamiento se interpretará de conformidad a los derechos consagrados en la Constitución Política de los Estado (sic) Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit y los Tratados y Convenciones Internacionales, en materia de Derechos Humanos de las Mujeres suscrito y ratificado por México.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+La aplicación y vigilancia del cumplimiento de esta Ley corresponderá al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia del Estado de Nayarit.
 
 ###### Artículo 4.
 
@@ -87,41 +97,85 @@ V. Derechos Humanos de las Mujeres: Los establecidos por la Constitución Genera
 
 VI. Estado de Indefensión: La imposibilidad aprendida o adquirida de defensa de las mujeres para responder o repelar cualquier tipo de violencia que se ejerza sobre ellas, como consecuencia de la desesperanza aprendida y condicionamiento social;
 
-VII. Estado de Riesgo: La probabilidad de un ataque social, sexual, delictivo individual o colectivo, a partir de la construcción social de desigualdad y discriminación, que genera miedo, intimidación, incertidumbre o ansiedad ante un evento impredecible de violencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-VIII. Eje de Acción: Las líneas operativas en torno a las cuales se articulan las políticas públicas en materia de la violencia de género;
+VII. Empoderamiento: Es un proceso por medio del cual, las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión, a un estado de conciencia, igualdad, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos humanos y libertades;
 
-IX. Ley: La presente Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-X. Ley Federal: La Ley Federal para Prevenir y Eliminar la Discriminación;
+VIII. Estado de Riesgo: La probabilidad de un ataque social, sexual, delictivo individual o colectivo, a partir de la construcción social de desigualdad y discriminación, que genera miedo, intimidación, incertidumbre o ansiedad ante un evento impredecible de violencia;
 
-XI. Ley General: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XII. Modalidades de la Violencia: Las formas, manifestaciones o ámbitos de ocurrencia en que se puede presentar la violencia de género;
+IX. Eje de Acción: Las líneas operativas en torno a las cuales se articulan las políticas públicas en materia de la violencia de género;
 
-XIII. Modelo: La representación conceptual o física de un proceso o sistema para analizar un elemento o fenómeno social determinado, en un momento concreto;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XIV. Organizaciones Sociales: Las instituciones ciudadanas que estén legalmente conformadas y que tengan como objeto social, la atención de cualquier modalidad de violencia, o implemente alguno de los ejes de acción previstos;
+X. Ley: La presente Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit;
 
-XV. Las órdenes de Protección: Son actos de protección y urgente aplicación en función del interés superior de la víctima, y son fundamentalmente las medidas preventivas, emergentes, precautorias y cautelares;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XVI. Programa Estatal: Al Programa Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia del Estado de Nayarit;
+XI. Ley Federal: La Ley Federal para Prevenir y Eliminar la Discriminación;
 
-XVII. Protocolo: La formalización y celebración de lineamientos y procedimientos sobre la política pública en materia de violencia de género;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XVIII. Sistema Estatal: Al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia del Estado de Nayarit;
+XII. Ley General: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-XIX. Sistema Nacional: Al Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XX. Tipos de Violencia: Las formas en que pueden presentarse cualquiera de las modalidades de la violencia de género;
+XIII. Modalidades de la Violencia: Las formas, manifestaciones o ámbitos de ocurrencia en que se puede presentar la violencia de género;
 
-XXI. Tolerancia de la Violencia: La acción u omisión permisiva de la sociedad o de las instituciones que favorecen la existencia o permanencia de la violencia, incrementando la prevalencia de la discriminación y violencia de género;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+XIV. Modelo: La representación conceptual o física de un proceso o sistema para analizar un elemento o fenómeno social determinado, en un momento concreto;
 
-XXII. Violencia de Género: Toda conducta, acción u omisión, en contra de la mujer, que de manera directa o indirecta, tanto en el ámbito público como en el privado, basada en una relación desigual de poder, afecte su vida, libertad, dignidad, integridad física, psicológica, sexual, económica o patrimonial, como así también su seguridad personal, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XXIII. Victimización: El impacto psicoemocional de cada tipo y modalidad de la violencia hacia las mujeres.
+XV. Organizaciones Sociales: Las instituciones ciudadanas que estén legalmente conformadas y que tengan como objeto social, la atención de cualquier modalidad de violencia, o implemente alguno de los ejes de acción previstos;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XVI. Las órdenes de Protección: Son actos de protección y urgente aplicación en función del interés superior de la víctima, y son fundamentales las medidas preventivas, emergentes, precautorias y cautelares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XVII. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Programa Estatal: Al Programa Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XIX. Protocolo: Documento que describe los lineamientos y procedimientos de prevención y atención a las mujeres en materia de discriminación y violencia de género de acuerdo a los principios que esta Ley señala; dicho documento es elaborado o suscrito por la administración pública estatal, municipal, los órganos autónomos, los órganos de procuración y administración de justicia, el congreso del estado y demás entes que la Ley señale;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XX. Relación afectiva o de hecho: Aquella en la que se comparte una relación íntima sin convivencia ni vínculo matrimonial o concubinato;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXI. Sistema Estatal: Al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia del Estado de Nayarit;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXII. Sistema Nacional: Al Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXIII. Tipos de Violencia: Las formas en que pueden presentarse cualquiera de las modalidades de la violencia de género;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXIV. Tolerancia de la Violencia: La acción u omisión permisiva de la sociedad o de las instituciones que favorecen la existencia o permanencia de la violencia, incrementando la prevalencia de la discriminación y violencia de género;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXV. Violencia de Género: Toda conducta, acción u omisión, en contra de la mujer, que de manera directa o indirecta, tanto en el ámbito público como en el privado, basada en una relación desigual de poder, afecte su vida, libertad, dignidad, integridad física, psicológica, sexual, económica o patrimonial, como así también su seguridad personal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXVI. Victimización: El impacto psicoemocional de cada tipo y modalidad de la violencia hacia las mujeres.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
@@ -157,11 +211,11 @@ La Administración Pública Estatal, Municipal, los órganos de procuración y a
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 7.
 
-La violencia familiar es todo acto de dominio, para intencionalmente someter, controlar o agredir de manera física, verbal, psicoemocional, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar realizado por quien tenga vínculo por consanguinidad o haya tenido relación de parentesco por afinidad o civil, por matrimonio, concubinato, noviazgo, mantengan o hayan mantenido una relación de hecho.
+La violencia familiar es todo acto de dominio, para intencionalmente someter, controlar o agredir de manera física, verbal, psicoemocional, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar realizado por quien tenga vínculo por consanguinidad o haya tenido relación de parentesco por afinidad o civil, por matrimonio, concubinato, noviazgo, mantengan o hayan mantenido una relación de hecho o una relación sexual.
 
 ###### Artículo 8.
 
@@ -193,21 +247,29 @@ II. Emitir normas técnicas para los diferentes niveles de atención;
 
 III. Proporcionar psicoterapia diferencial a mujeres víctimas de violencia familiar y generadores de ésta, desestimando cualquier práctica conciliatoria, de mediación o psicoterapia que confronte a la mujer con quién ejerce violencia en su contra, hasta en tanto, se les haya proporcionado la terapia correspondiente y la víctima tenga superado el trauma y las lesiones causadas.
 
-### CAPÍTULO II. DE LA VIOLENCIA EN EL ÁMBITO LABORAL Y DOCENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2014)</small>
+### CAPÍTULO II. DE LA VIOLENCIA EN EL ÁMBITO LABORAL Y ESCOLAR
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 11.
 
-La violencia laboral es toda acción u omisión encaminada a restringir, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, mediante la intimidación, las humillaciones, las amenazas, la explotación, el impedimento de llevar a cabo el periodo de lactancia conforme a la ley, así como todo tipo de discriminación basada en el género, que afecte la permanencia, ascensos, reconocimiento, salario y prestaciones en su relación de trabajo.
+La violencia laboral es toda acción u omisión encaminada a restringir, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres en los ámbitos públicos o privados, mediante la intimidación, las humillaciones, las amenazas, la explotación, el impedimento de llevar a cabo el periodo de lactancia conforme a la ley, así como todo tipo de discriminación basada en el género, que obstaculice su acceso al empleo, contratación, ascenso, estabilidad, permanencia, reconocimiento, derecho de igual remuneración por igual tarea o función y prestaciones en su relación de trabajo, exigiendo requisitos sobre estado civil, maternidad, edad, apariencia física o la realización de prueba de embarazo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-La violencia docente es la acción u omisión realizada por un docente, el personal administrativo o de intendencia, encaminada a descalificar y manipular el desempeño de las niñas o mujeres que alteran las diferentes esferas y áreas de la personalidad, en especial su autoestima.
+La violencia escolar son las conductas, acciones u omisiones realizada (sic) por el personal docente, administrativo o de cualquier integrante de la comunidad educativa, que daña la dignidad, salud, integridad y seguridad de las víctimas.
+
+Se manifiesta en todas aquellas conductas cometidas individual o colectivamente, en un proceso de interacción que se realiza y prolonga tanto al interior como al exterior de los planteles educativos o del horario escolar, y se expresa mediante la realización de uno o varios tipos de violencia contra las mujeres en cualquier etapa de su vida.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 13.
 
-El hostigamiento y el acoso sexual, son manifestaciones de la violencia laboral, docente y de parentesco, a partir de la construcción de género.
+El hostigamiento y el acoso sexual, son manifestaciones de la violencia laboral, escolar y de parentesco, a partir de la construcción de género.
 
 ###### Artículo 14.
 
@@ -215,15 +277,19 @@ El hostigamiento sexual, es el ejercicio del poder, mediante la violencia físic
 
 El acoso sexual, consiste en la coacción y presión para alguna práctica de índole sexual, en esta conducta no existe una relación de subordinación, sólo el ejercicio del poder mediante los tipos de violencia establecidos en la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 15.
 
-Las políticas públicas del Estado y de los Municipios deben considerar en materia de violencia laboral y docente:
+Las políticas públicas del Estado y de los Municipios deben considerar en materia de violencia laboral y escolar:
 
 I. El impacto psicoemocional que generan en quien las recibe;
 
 II. Las diferentes formas de discriminación que se pueden presentar en razón del género, edad, condición de las mujeres, estado civil, preferencia sexual;
 
-III. La adhesión a convenios o protocolos para eliminar esta modalidad de violencia, por parte de sindicatos, empresas públicas o privadas y de la Administración Pública Paraestatal;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+III. Elaborar y suscribir protocolos y convenios para eliminar esta modalidad de violencia, por parte de sindicatos, empresas públicas o privadas y de la administración pública paraestatal en términos de los principios que esta Ley señala;
 
 IV. La evaluación periódica de sus políticas públicas; y
 
@@ -337,6 +403,26 @@ Por violencia feminicida se entiende, la forma extrema de violencia de género c
 
 La pérdida de la vida tendrá que darse como resultado de la violencia de género y bajo las características y supuestos que establezca el Código Penal.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 22 Bis.
+
+Ante la violencia feminicida, el Estado mexicano deberá resarcir el daño conforme a los parámetros establecidos en el Derecho Internacional de los Derechos Humanos y considerar como reparación:
+
+I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a los responsables;
+
+II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
+
+III. La satisfacción: Son las medidas que busca una reparación orientada a la prevención de violaciones. Entre las medidas a adoptar se encuentran:
+
+a) La aceptación del Estado de su responsabilidad ante el daño causado y su compromiso de repararlo;
+
+b) La investigación y sanción de los actos de autoridades omisas o negligentes que llevaron la violación de los derechos humanos de las víctimas a la impunidad;
+
+c) El diseño e instrumentación de políticas públicas que eviten la comisión de delitos contra las mujeres, y
+
+d) La verificación de los hechos y la publicidad de la verdad.
+
 ### CAPÍTULO I. DE LOS MODELOS Y EJES DE ACCIÓN
 
 ###### Artículo 23.
@@ -357,13 +443,17 @@ IV. Violencia patrimonial.- La acción de sustracción, destrucción, retención
 
 V. Violencia económica.- La acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para afectar su independencia y supervivencia económica;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-VI. Violencia obstétrica.- Toda conducta, acción u omisión, que ejerce el personal de salud tanto en el ámbito público como en el privado, sobre el cuerpo y los procesos reproductivos de las mujeres, de manera directa o indirecta, expresada en un trato deshumanizado, un abuso de medicalización o patologización de los procesos naturales, menoscabando la capacidad de la mujer de decidir de manera libre e informada, y
+VI. Violencia obstétrica.- Toda conducta, acción u omisión, que ejerce el personal de salud tanto en el ámbito público como en el privado, sobre el cuerpo y los procesos reproductivos de las mujeres, de manera directa o indirecta, expresada en un trato deshumanizado, un abuso de medicalización o patologización de los procesos naturales, menoscabando la capacidad de la mujer de decidir de manera libre e informada;
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-VII. Violencia Política.- En términos de lo dispuesto por la presente Ley, se consideran todas aquellas acciones y omisiones incluida la tolerancia, que basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
+VII. Violencia Política.- En términos de lo dispuesto por la presente Ley, se consideran todas aquellas acciones y omisiones incluida la tolerancia, que basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VIII. Violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente, su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, servicios de atención prenatal, así como a servicios obstétricos de emergencia.
 
 ## TÍTULO TERCERO
 
@@ -445,9 +535,11 @@ I. El modelo psicoterapéutico que se implemente será registrado y validado por
 
 II. Contar con una institución pública o privada reconocida, que funja como supervisor clínico de los profesionales que proporcionan el apoyo psicoterapéutico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 31.
 
-La atención de la violencia laboral y docente, en el Estado y los Municipios, impulsará:
+La atención de la violencia laboral y escolar, en el Estado y los Municipios, impulsará:
 
 I. Establecer convenios con el sector público y privado para la eliminación de prácticas discriminatorias;
 
@@ -533,6 +625,8 @@ IV.- El registro de los modelos ante la Secretaría Ejecutiva del Sistema.
 
 ### CAPÍTULO I. DE LA ALERTA DE GÉNERO Y DEL AGRAVIO COMPARADO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 37.
 
 La Erradicación buscará la eliminación de la discriminación y la violencia de género, mediante las siguientes acciones:
@@ -561,13 +655,43 @@ III.- La armonización normativa y judicial con perspectiva de género de éstas
 
 ###### Artículo 39.
 
-Con motivo de la emisión de la alerta de género, sobre una zona o Municipio determinado, el Sistema Estatal, al ser notificado tomará las siguientes medidas.
+Por Alerta de Género se entiende al conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
+Con motivo de la emisión de la alerta de género, sobre una zona o Municipio determinado, el Sistema Estatal, al ser notificado tomará las siguientes medidas:
 
 I.- Valorará su procedencia y aceptará o rechazará la misma;
 
-II.- Se conformará un grupo de trabajo estratégico para analizar y determinar las acciones procedentes para la alerta de género;
+II.- Se conformará un grupo de trabajo estratégico para analizar y determinar las acciones procedentes para la alerta de género, y
 
-III.- Determinará las instancias de la Administración Pública Estatal que será responsable del seguimiento de las acciones correctivas vinculadas a la alerta de género.
+III.- Determinará las instancias de la administración pública estatal que será responsable del seguimiento de las acciones correctivas vinculadas a la alerta de género.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 39 Bis.
+
+La Alerta de Violencia de Género contra las mujeres tendrá como objetivo fundamental garantizar la seguridad de las mismas, el cese de la violencia en su contra y eliminar las desigualdades, en que se encuentren, por lo que el Ejecutivo Estatal deberá:
+
+I. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que dé el seguimiento respectivo;
+
+II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida;
+
+III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de la violencia contra las mujeres;
+
+IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres, y
+
+V. Hacer del conocimiento público el motivo de la alerta de violencia de género contra las mujeres, y la zona territorial que abarcan las medidas a implementar.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 39 Ter.
+
+La declaratoria de alerta de violencia de género contra las mujeres, se emitirá cuando:
+
+I. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en un territorio determinado y la sociedad así lo reclame;
+
+II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, y
+
+III. Los organismos de derechos humanos a nivel nacional, estatal, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten.
 
 ###### Artículo 40.
 
@@ -605,7 +729,9 @@ Contra las órdenes de protección no procede recurso alguno, no obstante, se po
 
 La intervención de la policía estatal y municipal en materia de violencia de género y órdenes de protección se regirá además de lo dispuesto en la presente Ley y su reglamento, por el reglamento de órdenes de protección, y el manual respectivo.
 
-## TÍTULO QUINTO. DEL SISTEMA Y PROGRAMA ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+## TÍTULO QUINTO. DEL SISTEMA ESTATAL, PROGRAMA ESTATAL Y PROTOCOLOS ESPECIALIZADOS EN MATERIA DE DISCRIMINACIÓN Y VIOLENCIA DE GÉNERO
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL
 
@@ -645,7 +771,9 @@ II.- La Secretaría de Educación;
 
 III.- La Secretaría de Salud;
 
-IV.- La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+IV.- La Fiscalía General del Estado;
 
 V.- El Instituto para la Mujer Nayarita;
 
@@ -661,7 +789,9 @@ El Sistema Estatal será presidido por la Secretaría General de Gobierno, recay
 
 El Sistema Estatal tendrá las atribuciones que señale el Reglamento de la presente Ley.
 
-### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO III. DE LOS PROTOCOLOS ESPECIALIZADOS EN MATERIA DE DISCRIMINACIÓN Y VIOLENCIA DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 52.
 
@@ -703,9 +833,103 @@ VII.- Avances legislativo y judiciales; y
 
 VIII.- La operación de las Dependencias, Entidades, Unidades de Administración encargadas de la atención de la violencia.
 
-### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+
+###### Artículo 53 Bis.
+
+Los protocolos tienen como propósito la implementación uniforme, homogénea y efectiva de los procedimientos para prevenir, atender y sancionar la discriminación contra las mujeres y la violencia de género, con los siguientes objetivos:
+
+I. Establecer medidas específicas para prevenir conductas de discriminación contra las mujeres y violencia de género en la administración pública estatal, municipal, los órganos autónomos, los órganos de procuración y administración de justicia, así como el congreso del estado y promover una cultura institucional de igualdad de género y un clima laboral y de atención libre de violencia;
+
+II. Definir mecanismos para orientar y, en su caso, acompañar, ante las autoridades competentes a la víctima de discriminación o violencia de género;
+
+III. Establecer el procedimiento que permita brindar un acompañamiento especializado a la víctima de discriminación o violencia de género, que propicien acceso a la justicia;
+
+IV. Señalar las vías e instancias competentes al interior de la administración pública estatal, municipal, los órganos autónomos, los órganos de procuración y administración de justicia, así como el congreso del estado, que pueden conocer y, en su caso, investigar o sancionar la discriminación y violencia de género, y
+
+V. Contar con registro de los casos de discriminación y violencia de género en el servicio público, que permitan su análisis para implementar acciones que las inhiban y erradiquen.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 53 Ter.
+
+La aplicación de los protocolos deberá realizarse sin perjuicio del cumplimiento de las disposiciones jurídicas que las autoridades tienen que observar en los procedimientos para la imposición de sanciones en materia laboral, administrativa o en su caso, penal.
+
+La administración pública estatal, municipal, los órganos autónomos, los órganos de procuración y administración de justicia, así como el congreso del estado llevarán a cabo acciones para promover el respeto, la prevención, la protección, la sanción y el ejercicio efectivo de los derechos de las mujeres, especialmente cuando éstas sean víctimas de discriminación o violencia de género en el desempeño de sus funciones, comisión o atribuciones en el servicio público, así como al acudir a solicitar un trámite o servicio público.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 53 Quater.
+
+En la elaboración de los protocolos se deberán considerar los siguientes principios:
+
+I. Igualdad de género;
+
+II. Confidencialidad;
+
+III. No tolerancia de las conductas de discriminación a las mujeres y violencia de género;
+
+IV. Principio Pro persona;
+
+V. Presunción de inocencia;
+
+VI. Respeto, protección y garantía de la dignidad, honor, reputación e intimidad;
+
+VII. Prohibición de represalias;
+
+VIII. Integridad personal, y
+
+IX. Debida diligencia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 53 Quinquies.
+
+Los protocolos deberán contener los siguientes apartados:
+
+I. Acciones específicas de prevención;
+
+II. Acciones de capacitación, formación y certificación;
+
+III. Primer contacto de atención de casos de discriminación a las mujeres y violencia de género;
+
+IV. Vías e instancias competentes;
+
+V. Diseño para los procedimientos de atención especializada;
+
+VI. Investigación de discriminación a las mujeres y violencia de género;
+
+VII. Creación de un Comité contra la discriminación a las mujeres y violencia de género en cada entidad pública;
+
+VIII. Sustanciación de los procedimientos;
+
+IX. Sanciones por la discriminación a las mujeres y violencia de género, y
+
+X. Registro de casos de discriminación a las mujeres y violencia de género.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 53 Sexies.
+
+Los protocolos para atender a víctimas de violencia de género deberán establecer directrices sobre los siguientes temas:
+
+I. Atención médica;
+
+II. Acoso y hostigamiento sexual;
+
+III. Atención psicológica;
+
+IV. Búsqueda inmediata de mujeres y niñas desaparecidas;
+
+V. Asesoría jurídica, y
+
+VI. Los demás que puedan favorecer la atención pronta, eficiente y eficaz a las mujeres.
 
 ## TÍTULO SEXTO
+
+### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
 #### SECCIÓN PRIMERA. DEL GOBIERNO DEL ESTADO
 
@@ -837,17 +1061,23 @@ IX. Establecer programas temáticos sobre discriminación y violencia de género
 
 X. Las demás previstas para el cumplimiento de la presente Ley.
 
-#### SECCIÓN QUINTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+#### SECCIÓN QUINTA. DE LA FISCALÍA GENERAL DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 58.
 
-Corresponde a la Procuraduría General de Justicia del Estado de Nayarit:
+Corresponde a la Fiscalía General del Estado de Nayarit:
 
 I.- Diseñar la política en materia de procuración de justicia para la prevención, atención, sanción y erradicación de la violencia contra las mujeres con perspectiva de género;
 
 II.- Participar en la elaboración del programa estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en coordinación, con las autoridades integrantes del sistema estatal;
 
-III.- Garantizar el ejercicio de los derechos de las víctimas de violencia familiar y sexual, previstos en el apartado C del artículo 20 Constitucional, de acuerdo con la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+III.- Garantizar el ejercicio de los derechos de las víctimas de violencia familiar y sexual, previstos en el apartado C del artículo 20 Constitucional, de acuerdo con la Ley Orgánica de la Fiscalía General del Estado de Nayarit;
 
 IV.- Promover la colaboración de las mujeres en los casos de delitos relacionados con la violencia de género;
 
@@ -1008,3 +1238,9 @@ P.O. 7 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT".]
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
