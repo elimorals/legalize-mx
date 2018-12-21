@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2018-11-29"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -310,6 +310,10 @@ VI.- Impulsar en el ámbito estatal, un sistema racional de administración y de
 > <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actividades relacionados con la salud y con el uso de los servicios que presten para su protección, a efecto de promover el desarrollo de un estilo de vida saludable en la población.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VIII.- Promover la creación de programas integrales para la atención de víctimas y victimarios de acoso y violencia escolar en coordinación con las autoridades educativas.
 
 ###### ARTICULO 7°.
 
@@ -3812,3 +3816,13 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 788 QUE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 6º DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente decreto entrará en vigor el día primero de enero de dos mil diecinueve, para lo cual se deberán tomar las previsiones presupuestales correspondientes.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Publíquese en la Gaceta Oficial. Órgano de Gobierno del Estado.
