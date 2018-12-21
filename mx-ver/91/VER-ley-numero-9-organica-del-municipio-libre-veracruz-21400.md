@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2018-11-29"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -2237,13 +2237,61 @@ III. Las personas que tengan litigios pendientes con el organismo de que se trat
 
 IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
 
-> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 81 Bis.
 
-En cada Ayuntamiento deberá crearse el Instituto Municipal de las Mujeres, como Organismo Público Descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio, el cual deberá contar con autonomía técnica y de gestión, para el cumplimiento de sus atribuciones, objetivos y fines.
+El Instituto Municipal de las Mujeres es el órgano rector en materia de igualdad y no discriminación en contra de las mujeres en el ámbito municipal; el cual se creará como un Organismo Público Descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio, el cual deberá contar con autonomía técnica y de gestión para el cumplimiento de sus objetivos; y tendrá las siguientes atribuciones:
 
-El Ayuntamiento deberá remitir al Congreso del Estado, junto con la solicitud de aprobación de la creación del Organismo, el Reglamento que establezca los requisitos y el cumplimiento de lo establecido en los artículos 78, 79, 80 y 81 de la presente ley.
+I. Establecer la vinculación y coordinación con el Instituto Veracruzano de las Mujeres para transversalizar la perspectiva de género en la administración pública municipal, a través de la asesoría, orientación y capacitación en materia de derechos humanos, género y políticas públicas;
+
+II. Impulsar la elaboración de un diagnóstico integral de la situación de las mujeres y los hombres, con la participación de la sociedad civil e instituciones académicas, públicas y privadas, con el fin de identificar la desigualdad e inequidad y establecer políticas municipales para su erradicación;
+
+III. Participar en la elaboración del Plan Municipal de Desarrollo, incorporando la perspectiva de igualdad de género e interculturalidad, en coordinación con la comisión edilicia para la Igualdad de Género.
+
+IV. Promover y participar en la elaboración del presupuesto de egresos del municipio con perspectiva de género, en coordinación con la Tesorería, el Órgano de Control Interno y los diversos niveles y áreas de la administración pública municipal, incorporando la asignación de recursos para el cumplimiento, en el ámbito de su competencia, de las políticas de igualdad y una vida libre de violencia;
+
+V. Promover y coadyuvar en la elaboración del Programa Municipal para la igualdad entre mujeres y hombres y una vida libre de violencia en coordinación con integrantes del Sistema Municipal para la Igualdad entre Mujeres y Hombres y una vida libre de violencia, en concordancia con las políticas nacional y estatal para la igualdad y no discriminación;
+
+VI. Impulsar la implementación de acciones, proyectos y políticas públicas municipales con perspectiva de género enfocadas a la igualdad sustantiva entre mujeres y hombres y a una vida libre de violencia;
+
+VII. Impulsar la armonización legislativa, bajo el principio de igualdad y no discriminación, de los instrumentos jurídicos normativos que rigen las funciones del Ayuntamiento, en coordinación con las áreas municipales competentes y personas expertas en la materia;
+
+VIII. Brindar atención, orientación y asesoría a las mujeres en materia de derechos humanos y una vida libre de violencia para mejorar su condición social y su participación en todos los órdenes y ámbitos de la vida;
+
+IX. Promover la cultura de la denuncia ciudadana ante las autoridades competentes, en caso de violación a los derechos humanos de las mujeres;
+
+X. Promover la capacitación permanente del funcionariado público municipal, así como de los sectores social y privado, en materia de derechos humanos y políticas públicas con perspectiva de género;
+
+XI. Establecer la coordinación con instancias federales, estatales y municipales para el desarrollo de programas y proyectos encaminados a promover el desarrollo y la participación de las mujeres en el ámbito social, económico, político y cultural;
+
+XII. Celebrar y suscribir convenios o acuerdos de colaboración, previa aprobación de su Órgano de Gobierno, con el sector público, privado y social, para el desarrollo de acciones, programas y proyectos enfocados a lograr la igualdad sustantiva entre mujeres y hombres;
+
+XIII. Gestionar ante las diversas entidades o instituciones del sector público, privado y/o social del municipio, acciones de combate a la pobreza y contra la exclusión de las mujeres, especialmente las del medio rural e indígena, en situación de discapacidad, con VIH y las que se encuentren en alguna otra condición de vulnerabilidad;
+
+XIV. Fomentar el respeto a los derechos humanos de las mujeres, la igualdad y una vida libre de violencia a través de congresos, foros, talleres, conferencias sobre la condición y posición de las mujeres, tanto en el ámbito público como privado, dirigidos a funcionariado público municipal y sociedad en general;
+
+XV. Impulsar la investigación con perspectiva de género, sobre las diferentes problemáticas que enfrentan las mujeres;
+
+XVI. Promover los derechos humanos de las mujeres y los principios que construyan una cultura de igualdad sustantiva entre mujeres y hombres, para erradicar la violencia de género contra las mujeres, a través de los diferentes medios de comunicación: radio, televisión, internet, periódicos, además de audiovisuales, carteles, folletos, entre otros;
+
+XVII. Elaborar su Programa Anual de Trabajo para promover la institucionalización de la perspectiva de género en las políticas públicas municipales;
+
+XVIII. Presentar un informe anual de actividades ante su Órgano de Gobierno y remitir copia al Instituto Veracruzano de las Mujeres; y
+
+XIX. Las demás que resulten de la legislación aplicable. Para el cumplimiento de su objeto, el Instituto Municipal de las Mujeres contará al menos con la siguiente estructura orgánica:
+
+a) Dirección General
+
+b) Área administrativa.
+
+c) Área jurídica.
+
+d) Área psicológica
+
+e) Área de trabajo social.
+
+A fin de promover el quehacer gubernamental con enfoque basado en derechos humanos (EBDH), en la perspectiva de género (PEG) e interculturalidad, las titulares de cada área, incluida la dirección general, deberán contar preferentemente, con título y cédula profesional.
 
 #### SECCIÓN SEGUNDA. DE LAS EMPRESAS DE PARTICIPACIÓN MUNICIPAL
 
@@ -2543,7 +2591,13 @@ b) Definición del área de influencia y beneficio específico;
 
 c) Presupuesto de la obra, incluyendo: las indemnizaciones a las que hubiere lugar; el costo de los estudios y proyectos; el costo de la obra; los incrementos previsibles e imprevistos de costos; los intereses y gastos financieros; y, los demás costos requeridos para la realización del proyecto; y
 
-d) Programa de la obra;
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+d) Las áreas y espacios destinados a garantizar la accesibilidad y movilidad de las personas con discapacidad; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+e) Programa de la obra.
 
 V. El proyecto se pondrá por quince días hábiles en la tabla de avisos del Ayuntamiento, a la vista de los propietarios o poseedores de predios afectados por la obra comprendidos en el área de influencia, con los datos relativos a la afectación del inmueble, al importe de la indemnización, forma de financiamiento y crédito fiscal correspondiente, haciendo saber a los interesados, en vía de notificación, que tienen derecho a hacer las observaciones que consideren pertinentes;
 
@@ -4282,3 +4336,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se abroga la Ley que establece las Bases Generales para la Expedición de Bandos de Policía y Gobierno, Reglamentos, Circulares y Disposiciones Administrativas de Observancia General de Orden Municipal.
 
 Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 790 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El Ejecutivo contará con un plazo de sesenta días a partir de la entrada en vigor del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley que Regula las Construcciones Públicas y privadas del Estado de Veracruz de Ignacio de la Llave y demás disposiciones.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 792 POR EL QUE SE REFORMA EL ARTÍCULO 81 BIS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
