@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2018-12-07"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2018.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -13007,9 +13007,11 @@ SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y
 
 D.O.F. 6 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR”.]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR".]
 
-PRIMERO. El presente Acuerdo entrará en vigor a los 30 días siguientes al de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los transitorios CUARTO Y QUINTO los cuales entrarán en vigor al día siguiente de la publicación del presente en el Diario Oficial de la Federación.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE MODIFICA LA ENTRADA EN VIGOR DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DEN LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de febrero de dos mil diecinueve, salvo lo previsto en los transitorios CUARTO Y QUINTO los cuales entraron en vigor al día siguiente de la publicación del referido Acuerdo General en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
@@ -13046,3 +13048,13 @@ SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluaci�
 Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
 
 Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
+
+D.O.F. 21 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA LA ENTRADA EN VIGOR DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR".]</small>
+
+PRIMERO.- El Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma el similar que establece las disposiciones en materia de actividad administrativa del propio Consejo, a efecto de fortalecer la participación de la ciudadanía, a través de las figuras de testigo social y observador, entrará en vigor el dieciséis de febrero de dos mil diecinueve, salvo lo previsto en los transitorios CUARTO Y QUINTO los cuales entraron en vigor al día siguiente de la publicación del referido Acuerdo General en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo del Pleno del Consejo de la Judicatura Federal, por el que se modifica la entrada en vigor del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma el similar que establece las disposiciones en materia de actividad administrativa del propio Consejo, a efecto de fortalecer la participación de la ciudadanía, a través de las figuras de testigo social y observador, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de cinco de diciembre de dos mil dieciocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Martha María del Carmen Hernández Álvarez y Alfonso Pérez Daza.- Ciudad de México, a trece de diciembre de dos mil dieciocho.- Conste.- Rúbrica."
