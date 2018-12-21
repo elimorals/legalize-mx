@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-la-juventud-del-estado-10340
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2017-06-20"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 28 de octubre de 2014.
 
@@ -41,7 +41,9 @@ LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZ
 
 Esta Ley es de carácter público y de observancia general en el territorio del estado de Coahuila de Zaragoza, se rige bajo los principios normativos de la Constitución Política de los Estados Unidos Mexicanos, los acuerdos internacionales aplicables en la materia, la Ley del Instituto Mexicano de la Juventud y deberá invocarse como criterio fundamental de orientación, en todas las disposiciones y ordenamientos de la legislación local que citen, atiendan, o se ocupen, de aspectos relacionados con la juventud.
 
-La Secretaría de la Juventud es responsable en la implementación de las políticas públicas de juventud en el territorio estatal, observando los principios de coordinación, cooperación, asistencia e información con las instancias municipales de juventud respetando sus ámbitos de competencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+El Instituto Coahuilense de la Juventud es responsable en la implementación de las políticas públicas de juventud en el territorio estatal, observando los principios de coordinación, cooperación, asistencia e información con las instancias municipales de juventud respetando sus ámbitos de competencia.
 
 Podrá celebrar convenios, acuerdos, planes y programas conjuntos.
 
@@ -101,9 +103,11 @@ Las y los jóvenes en conjunto con los demás sectores de la sociedad y el gobie
 
 Esta responsabilidad debe ejercitarse a través de actividades que incidan en el bienestar y la seguridad de la población, y en la sustentabilidad del desarrollo de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 8.
 
-Las y los jóvenes coahuilenses tendrán a su disposición un Sistema Estatal para la Participación Social de la Juventud, mediante el cual podrán acceder a una red de coordinación, operada por la Secretaría de la Juventud con la colaboración de las Instancias Municipales de Atención a la Juventud, que les ofrecerá opciones de tareas en materia de desarrollo y asistencia social; extensión educativa; organización comunitaria; emprendedurismo, apoyo a la salud, protección ambiental, promoción deportiva, difusión cultural y protección civil, y todas aquellas que por su naturaleza se consideren convenientes.
+Las y los jóvenes coahuilenses tendrán a su disposición un Sistema Estatal para la Participación Social de la Juventud, mediante el cual podrán acceder a una red de coordinación, operada por el Instituto Coahuilense de la Juventud con la colaboración de las Instancias Municipales de Atención a la Juventud, que les ofrecerá opciones de tareas en materia de desarrollo y asistencia social; extensión educativa; organización comunitaria; emprendedurismo, apoyo a la salud, protección ambiental, promoción deportiva, difusión cultural y protección civil, y todas aquellas que por su naturaleza se consideren convenientes.
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2016)</small>
 
@@ -115,7 +119,9 @@ El Sistema Estatal para la Participación Social de la Juventud, será conducido
 
 Presidente: Gobernador del Estado.
 
-Secretario Técnico y Vocal Ejecutivo: Titular de la Secretaría de la Juventud.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Secretario Técnico y Vocal Ejecutivo: Titular del Instituto Coahuilense de la Juventud.
 
 Vocal: Titular de la Secretaría de Educación.
 
@@ -149,9 +155,11 @@ Debiendo sesionar por lo menos tres ocasiones al año, para aprobar, dar seguimi
 
 El Sistema Estatal para la Participación Social de la Juventud tendrá un registro voluntario para aquellas y aquellos jóvenes que no tengan residencia permanente en la entidad, o para aquellas y aquellos que por algún motivo no esté (sic) inscritos en ninguna institución educativa.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 11.
 
-Es facultad de la Secretaría de la Juventud efectuar los acuerdos de colaboración necesarios para el buen funcionamiento del Sistema Estatal para la Participación Social de la Juventud, considerando también, en los casos que en cuanto a su competencia corresponda, la participación de las Instancias Municipales de Juventud de la entidad, a efecto de lograr una mayor plataforma institucional en torno a las actividades que realicen las y los jóvenes coahuilenses.
+Es facultad del Instituto Coahuilense de la Juventud efectuar los acuerdos de colaboración necesarios para el buen funcionamiento del Sistema Estatal para la Participación Social de la Juventud, considerando también, en los casos que en cuanto a su competencia corresponda, la participación de las Instancias Municipales de Juventud de la entidad, a efecto de lograr una mayor plataforma institucional en torno a las actividades que realicen las y los jóvenes coahuilenses.
 
 ###### Artículo 12.
 
@@ -171,6 +179,8 @@ DE LA PROMOCIÓN INSTITUCIONAL A LAS INICIATIVAS Y ACTIVIDADES DE LOS JÓVENES.
 
 DE LAS ACTIVIDADES FORMATIVAS Y DEL ESPARCIMIENTO.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 13.
 
 Todas las dependencias del Gobierno del Estado de Coahuila de Zaragoza estarán obligadas a atender, y apoyar, en la medida de sus posibilidades, todas las iniciativas de participación social, colectivas o independientes, de las y los jóvenes coahuilenses, sin importar que dichas iniciativas o acciones cuenten con un respaldo institucional previo.
@@ -185,9 +195,11 @@ Las administraciones municipales en su caso, habrán de responsabilizar de la at
 
 Los organismos constitucionales autónomos del Estado de Coahuila, deberán definir el área de su estructura organizacional que será la responsable de atención a las y los jóvenes.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 16.
 
-La Secretaría de la Juventud deberá promover ante las demás dependencias, el diseño de políticas públicas de participación y voluntariado juvenil para que a través del Sistema Estatal para la Participación Social de la Juventud, las y los jóvenes coahuilenses puedan organizar, definir y decidir, las tareas que desarrollarán a favor de su comunidad.
+El Instituto Coahuilense de la Juventud deberá promover ante las demás dependencias, el diseño de políticas públicas de participación y voluntariado juvenil para que a través del Sistema Estatal para la Participación Social de la Juventud, las y los jóvenes coahuilenses puedan organizar, definir y decidir, las tareas que desarrollarán a favor de su comunidad.
 
 ###### Artículo 17.
 
@@ -339,9 +351,11 @@ II.- Auxiliar como colaboradores voluntarios en las competencias deportivas, mun
 
 III.- Participar en jornadas deportivas abiertas a toda la comunidad, como promotores de la participación de todos los sectores de la comunidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 29.
 
-La Secretaría de la Juventud deberá promover la amplitud y suficiencia de políticas públicas por parte de todo el ámbito del Poder Ejecutivo, a favor de la juventud, tales como:
+El Instituto Coahuilense de la Juventud deberá promover la amplitud y suficiencia de políticas públicas por parte de todo el ámbito del Poder Ejecutivo, a favor de la juventud, tales como:
 
 I.- Promover la difusión de todas las opciones y alternativas de desarrollo que a través de la educación se ofrecen a las y los jóvenes.
 
@@ -375,9 +389,11 @@ XIV.- Las demás que en beneficio de la juventud puedan realizarse.
 
 DE LA COORDINACIÓN INSTITUCIONAL.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 30.
 
-La Secretaría de la Juventud deberá impulsar el conjunto de actividades que permitan a las y los jóvenes un desarrollo integral como individuo, y su correcta inserción en la sociedad. Para esto será necesario ofrecer a la juventud los elementos necesarios para su formación y maduración física, intelectual y social, para conformar y ejercer en plena libertad, su criterio ante ia (sic) realidad, a partir de las reglas de convivencia propias de nuestra identidad, así como las opciones de nuestro tiempo para el esparcimiento y la recreación, que complementen su desarrollo.
+El Instituto Coahuilense de la Juventud deberá impulsar el conjunto de actividades que permitan a las y los jóvenes un desarrollo integral como individuo, y su correcta inserción en la sociedad. Para esto será necesario ofrecer a la juventud los elementos necesarios para su formación y maduración física, intelectual y social, para conformar y ejercer en plena libertad, su criterio ante la realidad, a partir de las reglas de convivencia propias de nuestra identidad, así como las opciones de nuestro tiempo para el esparcimiento y la recreación, que complementen su desarrollo.
 
 ###### Artículo 31.
 
@@ -409,11 +425,13 @@ La Juventud Coahuilense deberá contar siempre con todas las facilidades para cu
 
 ###### Artículo 38.
 
-La Secretaría de la Juventud, como vocal ejecutivo del Sistema Estatal para la Participación Social de la Juventud, es la entidad en la que recae la responsabilidad de la coordinación institucional con el fin de orientar, en el sentido de esta ley, las políticas públicas que requieren las y los jóvenes coahuilenses para su desarrollo integral.
+El Instituto Coahuilense de la Juventud, como vocal ejecutivo del Sistema Estatal para la Participación Social de la Juventud, es la entidad en la que recae la responsabilidad de la coordinación institucional con el fin de orientar, en el sentido de esta ley, las políticas públicas que requieren las y los jóvenes coahuilenses para su desarrollo integral.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 39.
 
-La Secretaría de la Juventud tendrá coordinación permanente con las instancias municipales de juventud en cada municipio de la entidad.
+El Instituto Coahuilense de la Juventud tendrá coordinación permanente con las instancias municipales de juventud en cada municipio de la entidad.
 
 ###### Artículo 40.
 
@@ -500,3 +518,11 @@ P.O. 20 DE JUNIO DE 2017.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 110.- SE MODIFICA EL CONTENIDO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 1; ASÍ COMO EL CONTENIDO DEL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL TERCER PÁRRAFO DEL ARTÍCULO 9; Y, EL CONTENIDO DE LOS ARTÍCULOS 11, 16, 29, 30, 38 Y 39 DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes modificaciones a la Ley para el Desarrollo Integral de la Juventud del Estado de Coahuila de Zaragoza, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
