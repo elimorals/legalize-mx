@@ -4,7 +4,7 @@ identifier: "NAY-ley-ganadera-para-el-estado-de-nayarit-56226"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2017-11-24"
+last_updated: "2018-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY GANADERA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 4 de julio de 2007.
 
@@ -89,7 +87,9 @@ I. Animales de peletería.- Conejos, chinchillas y martas;
 
 II. Apicultura.- Las actividades relativas a la cría, explotación y mejoramiento genético de las abejas, así como la industrialización y comercialización de sus productos y subproductos;
 
-III. Arete SINIIGA.- Dispositivo de identificación Individual que utiliza el Sistema Nacional de Identificación Individual de Ganado que se aplica en las orejas del ganado bovino cuyas especificaciones técnicas y modo de aplicación lo determinará la Secretaria de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y que sirve para identificar la propiedad y origen del ganado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+III. Arete SINIIGA o SINIDA.- Dispositivo de identificación Individual numérica que sirve para identificar la propiedad y origen del ganado, desde su nacimiento hasta su sacrificio; mismo que se coloca en las orejas del ganado bovino cuyas especificaciones técnicas y modo de aplicación lo determina la Secretaría de Desarrollo Rural y Medio Ambiente a través del SINIIGA;
 
 IV. Arillo de identidad.- Cinta metálica que se fija generalmente en el ala o en la pata de las aves;
 
@@ -113,9 +113,15 @@ XIII. Ganado Mayor.- Bovino y Equino;
 
 XIV. Ganado Menor.- Ovinos, caprinos y Porcinos;
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XIV Bis.- Guía de Tránsito (REEMO).- documento elaborado por la VAL en la que se describen cada uno de los identificadores de los animales a movilizar;
+
 XV. Identificación electrónica.- Elemento electromagnético que se implanta en vía subcutánea en el animal y contiene los datos de identidad del mismo y del dueño;
 
-XVI. Inspector.- Inspector Auxiliar de Ganadería;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XVI.- Inspector auxiliar de ganadería.- Persona a quien se le ha extendido nombramiento por la Secretaría para ejercer las funciones previstas para dicho cargo por esta Ley;
 
 XVII. Marca.- Dibujo que se graba en el cuarto trasero izquierdo del ganado conocido también como lado del criador, con fuego, pintura indeleble, ácido corrosivo o en frío;
 
@@ -127,29 +133,63 @@ XX. NOM's.- Normas Oficiales Mexicanas;
 
 XXI. Orejano.- Animal sin ninguna marca o señal que permita identificar a su propietario;
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXI Bis.- Pase de Ganado.- Documento emitido por el inspector de ganadería que ampara la movilización de ganado, productos y subproductos. En el caso de bovinos y colmenas ampara la movilización únicamente a la ventanilla autorizada local del REEMO;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXI Ter.- Prestador de Servicios Ganaderos (PSG).- Persona física o moral, de carácter público o privado, que presta servicios orientados al apoyo de la actividad pecuaria, como son: engordadores, acopiadores, establecimientos de sacrificio, estaciones cuarentenarias, comercializadoras o razones sociales importadoras, proveedores de centros de acopio de equinos, centros ecuestres, entre otros;
+
 XXII. Productor diversificado.- Toda persona física o moral que (Quien perteneciendo a alguno de los anteriores) utiliza sus instalaciones o terreno con actividades de tipo cinegético, ecológico, educativo o turístico;
 
 XXIII. Recuentos, corridas o realeos.- La reunión que el ganadero hace del ganado que se encuentra dentro de su propiedad, con fines propios de la actividad pecuaria;
 
-XXIV. Secretaría.- Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXIII Bis.- REEMO.- Registro Electrónico de Movilización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXIV. Secretaría.- Secretaría de Desarrollo Rural y Medio Ambiente;
 
 XXV. Señal de Sangre.- Cortadas, incisiones o perforaciones que se hacen en las orejas o pliegues naturales del ganado;
 
-XXVI. SINIIGA.- Sistema Nacional de Identificación Individual de Ganado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XXVII. Tarjeta SINIIGA.- Documento que contiene la clave del arete SINIIGA y toda la información relativa al animal en forma individual referente a la propiedad, origen, fecha de nacimiento, características genealógicas, de movilización, nombre del propietario y otras características que apruebe la Secretaría;
+XXVI.- SINIDA.- Sistema Nacional de Identificación Animal para Bovinos y Colmenas;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXVII. Tarjeta SINIIGA o SINIDA.- Documento que contiene la clave del arete SINIIGA y toda la información relativa al animal en forma individual referente a la propiedad, origen, fecha de nacimiento, características genealógicas, de movilización, nombre del propietario y otras características que apruebe la Secretaría;
 
 XXVIII. Tatuajes.- La impresión de dibujos, letras o números indelebles en la oreja, belfos o pliegue inguinal;
 
 XXIX. Terrenos de agostadero.- Los cubiertos con vegetación nativa o mejorada, constituye fuente de forraje para el pastoreo extensivo de animales domésticos y fauna silvestre y que por su naturaleza, ubicación, potencial y aptitud, no son susceptibles de explotación agrícola;
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXIX Bis.- Trazabilidad.- Conjunto de acciones, medidas y procedimientos técnicos que permiten identificar y registrar al ganado desde su nacimiento, hasta el final de la cadena de comercialización;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 XXX. UMA.- La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XXXI. Unión.- La Unión Ganadera Regional, y
+XXX Bis.- Unidad de Producción Pecuaria (UPP).- Toda persona física o moral que es criador de ganado dentro de una superficie específica, en calidad de propietario, poseedor o arrendatario de esas tierras;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXXI.- La Unión Ganadera Regional;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXXI Bis.- VAL.- Instalaciones temporales con personal autorizado por el Sistema Nacional de Identificación Animal, para la implementación y operación del sistema a nivel de uno o varios municipios que dependen directamente de una VAS;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXXI Ter.- VAS.- Instalaciones y personal autorizado por el SINIDA para la implementación y operación del sistema a nivel de una región o una entidad federativa, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -229,7 +269,9 @@ XII. Promover el mejoramiento genético de ganado mayor o menor y registros gene
 
 XIII. Organizar y dirigir los servicios de vigilancia, inspección y movilización del ganado en el Estado.
 
-XIV. Acreditar a los inspectores.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XIV. Acreditar y capacitar a los inspectores auxiliares de ganadería;
 
 XV. Crear establecimientos ganaderos, postas zootécnicas, campos experimentales en las regiones que se estimen adecuadas y programas de extensión pecuaria.
 
@@ -311,7 +353,9 @@ V. Organizarse económicamente para eliminar o reducir los intermediarios entre 
 
 VI. Pugnar por el incremento de la producción pecuaria, en lo que se refiere a la cantidad y calidad del ganado, productos y subproductos;
 
-VII. Colaborar en el combate de plagas y enfermedades del ganado y de las aves, cumpliendo con todas las NOM's aplicables en la materia;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VII. Colaborar en el combate de plagas y enfermedades del ganado, aves y colmenas cumpliendo con todas las NOM's aplicables en la materia;
 
 VIII. Orientar a sus asociados respecto a la obtención de créditos para el fomento de las actividades pecuarias;
 
@@ -611,9 +655,13 @@ Están obligados a registrarse ante las autoridades municipales correspondientes
 
 ### CAPÍTULO II. MARCA DEL GANADO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 62.
 
-Todos los dueños de ganado tienen la obligación de herrar, marcar, señalar, tatuar, poner anillo, aretes SINIIGA o cualquier identificación para justificar su propiedad, a los animales que por costumbre no se les realice tal práctica, deberá justificarse con la tarjeta de identificación a la que se refiere el artículo 58 fracción II de ésta ley.
+Los dueños de ganado, para justificar su propiedad tienen la obligación de herrar, marcar, señalar, tatuar, colocar arete y/o poner anillo dependiendo de la especie a identificar. En el caso del ganado bovino y colmenas es obligatorio el uso de arete SINIIGA o identificador, según corresponda.
+
+A los animales que por costumbre no se les realice tal práctica, deberá justificarse con la tarjeta de identificación a la que se refiere el artículo 58 fracción II de esta ley.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
@@ -943,25 +991,39 @@ Para los efectos de esta ley se entenderá como zona acreditada, aquélla que de
 
 Cuando se trate de zonas no acreditadas queda prohibida la movilización del ganado hacia zonas acreditadas, salvo lo establecido en la Ley Federal de Sanidad Animal y las NOM's sobre la materia.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 106.
 
-Toda conducción de ganado deberá ampararse con un documento denominado guía de tránsito que será expedido por el inspector más cercano al origen, siempre y cuando compruebe la legal propiedad del ganado por medio de su título de fierro de herrar, de la factura de compra-venta o por el certificado de inspección legal cuando se haya realizado la traslación de dominio; el pago de impuestos y derechos correspondientes, la solicitud de movilización, constancia de tratamiento garrapaticida, así como los certificados zoosanitarios que establece la Ley Federal de Sanidad Animal, y las NOM's correspondientes.
+Toda movilización de ganado desde el predio de origen, deberá estar amparada con el pase de ganado, que será expedido por el Inspector Auxiliar de Ganadería más cercano hasta el punto REEMO más próximo, siempre y cuando se compruebe la legal propiedad.
 
-Las guías de tránsito y los certificados de inspección legal deberán contener los requisitos y características que para tal efecto se señalen en el reglamento de la presente ley.
+El pase de Ganado únicamente ampara la movilización hasta la ventanilla local autorizada por el REEMO la cual, previa validación de los animales en la base de datos del SINIDA, emitirá la Guía de Tránsito a la PSG correspondiente.
+
+Se exceptúa del requisito de la guía de tránsito, la movilización de ganado que se realice de uno a otro predio que colinden entre sí, o estén ubicados dentro de una misma zona, cuando dicha movilización se realice por razones de manejo, recreación, alimentación o producción, y no tenga por objeto la venta o traslado de dominio de los animales, en cuyo caso deberá contarse con el visto bueno del inspector auxiliar de ganadería, previa comprobación de los documentos que acrediten la propiedad y la certificación zoosanitaria requerida.
+
+En caso de ser detenido el ganado, los gastos que se originen correrán por cuenta del propietario.
+
+El Pase de Ganado, la Guía de Tránsito y el Certificado de Inspección Legal, deberán contener las características y especificaciones señaladas en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 107.
 
-Para la expedición de certificados zoosanitarios y permisos de movilización fuera del Estado, se requiere que el propietario presente ante el Centro de Certificación Zoosanitaria los certificados de inspección legal, en original, que ampare la legal procedencia del ganado, sus productos y subproductos.
+Para la expedición del Permiso de Movilización fuera del Estado, se requiere que el propietario presente el Certificado de Inspección Legal o factura fiscal que ampara la posesión legal de los animales, sus productos y subproductos y, para el caso de los bovinos, la Guía de Tránsito elaborada por la Ventanilla Local autorizada por el REEMO, marcando de esta forma la trazabilidad.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 108.
 
-Toda especie, productos y subproductos que provengan de otra entidad federativa o del extranjero para su comercialización en el Estado, deberán acompañarse con la documentación que acredite la propiedad y haberse cumplido con los requisitos del lugar de procedencia; así mismo, sus propietarios están obligados a cumplir, ante la Secretaría, con los requisitos de la presente ley para obtener la autorización de introducción al Estado, la que se expedirá para efectos de control.
+Toda especie, productos y subproductos que provengan de otra entidad federativa o del extranjero para su comercialización en el Estado, deberán acompañarse con la documentación que acredite la propiedad y haberse cumplido con los requisitos del lugar de procedencia; así mismo, sus propietarios están obligados a cumplir, ante la Secretaría, con los requisitos de la presente ley para obtener la autorización de introducción al Estado, la que se expedirá para efectos de control y trazabilidad.
+
+En caso de inconsistencias en la documentación el embarque se retornará a su lugar de origen para su regularización con una guarda custodia, hasta la frontera del Estado por donde entró.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 109.
 
-Todo ganado que transite en el ámbito estatal sin estar amparado por la guía de tránsito de que tratan los artículos precedentes, será detenido con la intervención de los inspectores, en tanto se realicen las investigaciones pertinentes al caso, consignándose el hecho si así procede al Agente del Ministerio Público más cercano para el ejercicio de sus atribuciones.
+Todo ganado que transite en el ámbito estatal sin estar amparado por la guía de tránsito (REEMO) de que tratan los artículos precedentes, será detenido en los puntos de verificación o por la autoridad competente, en tanto se realicen las investigaciones pertinentes al caso, consignándose el hecho si así procede al Agente del Ministerio Público más cercano para el ejercicio de sus atribuciones.
 
 Si el conductor de ganado comprueba la legítima procedencia de los animales podrá continuar su ruta una vez que se provea de la documentación necesaria, previo pago de la multa correspondiente.
 
@@ -983,9 +1045,11 @@ Queda prohibido embarcar ganado durante la noche.
 
 Todas las personas que estén autorizadas para documentar, no podrán hacerlo después de las dieciocho horas; de hacerlo quedarán a lo dispuesto en el Título Décimo Segundo de esta ley.
 
-###### ARTÍCULO 114.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-El tránsito de pieles, carne seca, cecina, tasajo, vísceras, huesos y demás productos de la matanza para movilizarse a un proceso de industrialización deberán ampararse con la factura o la constancia de sacrificio expedida por la autoridad sanitaria o el administrador del rastro; para la obtención de la guía de tránsito se estará a lo estipulado en los artículos precedentes. Es obligación del administrador del rastro cancelar la factura y conservarla, así como entregar la copia del documento que ampare el sacrificio.
+###### Artículo 114.
+
+El tránsito de carne fresca en canal o deshuesada, pieles, hueso, vísceras y demás productos de la matanza, para movilizarse a un proceso de comercialización o industrialización, deberá ampararse con la constancia de sacrificio expedida por el administrador del rastro de origen. En el caso de productos de origen bovino, deberá señalarse en este documento la identificación individual SINIIGA o SINIDA a partir del cual se obtuvieron los productos.
 
 ###### ARTÍCULO 115.
 
@@ -999,9 +1063,11 @@ Queda prohibido transportar despojos y cadáveres de animales que no sean utiliz
 
 Las empresas de transporte por ningún motivo embarcarán animales, productos y subproductos como: cueros, pezuñas, vísceras, carne, lana o pelo sin estar debidamente acreditada la propiedad y que presenten la constancia de sacrificio, guía de tránsito y certificado zoosanitario.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 118.
 
-Antes de realizarse cualquier embarque sea por ferrocarril, carretera o cualquier otro medio deberá ser revisado por el inspector.
+Antes de realizarse cualquier embarque sea por carretera o cualquier otro medio deberá ser revisado por el inspector.
 
 ###### ARTÍCULO 119.
 
@@ -1031,9 +1097,11 @@ Para efectos de inspección y vigilancia ganadera, la Secretaría llevará el re
 
 Todos los rastros, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, deberán reunir los requisitos que señala la Ley de Salud para el Estado de Nayarit, los ordenamientos federales aplicables en la materia, y la presente ley.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 123.
 
-El sacrificio de ganado para consumo público sólo podrá hacerse en lugares debidamente acondicionados y legalmente autorizados siendo indispensable la previa comprobación de la propiedad, presentar la guía de tránsito, el pago de los derechos respectivos y el certificado zoosanitario.
+El sacrificio de ganado local para consumo público sólo podrá hacerse en lugares debidamente acondicionados y legalmente autorizados siendo indispensable la previa comprobación de la propiedad, mediante certificado de inspección legal o factura fiscal y el registro electrónico de movilización REEMO. En el caso de sacrificio de ganado proveniente de otras entidades federativas, deberá comprobarse la propiedad, transportarse en vehículo flejado, presentarse el permiso de introducción al Estado, la guía electrónica REEMO, el certificado zoosanitario y las pruebas sanitarias de acuerdo a las NOM's.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1161,11 +1229,75 @@ Los usuarios del servicio de clasificación, cubrirán el costo del proceso en u
 
 El gobierno del Estado por conducto de la Secretaría, diseñará proyectos de comercialización de los productos pecuarios del Estado en los mercados nacionales y extranjeros; otorgará permisos de carne clasificada conforme a la calidad de los productos que se comercialicen, en la inteligencia de que almacenarán y comercializarán únicamente, la clase de carne que señale la autorización concedida.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 142 Bis.
+
+Los propietarios de los centros de acopio o prestador de servicios ganaderos (PSG) interesados en movilizar ganado a cualquier lugar dentro de la República Mexicana, podrán obtener su registro estatal, cumpliendo con los siguientes requisitos:
+
+l. Solicitud del interesado, dirigida a la Secretaría, anexando:
+
+a) Registro fiscal actualizado con actividad de compraventa de ganado;
+
+b) Credencial de prestador de servicios ganaderos, expedida por la Secretaría;
+
+c) Copia de la credencial de elector;
+
+d) CURP;
+
+e) Copia de la escritura del predio, contrato de arrendamiento notariado, constancia que acredite ser poseedor;
+
+f) Comprobante de domicilio, y
+
+g) En caso de personas morales copia certificada del acta constitutiva, en caso de no ser el representante legal, presentar carta poder notariada donde se designa como personal autorizado para realizar la compra venta de ganado.
+
+II. Firmar carta compromiso con la Secretaría donde se establezca que no se manejará pie de cría en los centros de acopio o PSG;
+
+III. En caso de ser miembro activo de la directiva de una Asociación Ganadera, no podrá tramitar el registro de una PSG para beneficio personal, por sí mismo o por interpósita persona. Para tal efecto deberá presentar constancia de la Asociación Ganadera Local, en donde acredite lo anterior;
+
+IV. Croquis de ubicación del centro de acopio ó PSG, señalando las vías de acceso y la identificación de los predios colindantes;
+
+V. En caso de ser vecino de un hato libre certificado, deberá presentar convenio firmado con el propietario del predio colindante donde se compromete a mantener un doble cerco con la distancia reglamentaria entre sus colindancias;
+
+VI. Plano de las instalaciones de los corrales, especificando la capacidad instalada;
+
+VII. Infraestructura que asegure el bienestar de los animales, de acuerdo a lo establecido en las Normas Oficiales Mexicanas referente a las especificaciones de instalaciones, acondicionamiento y equipo de centros de acopio, y que cuente básicamente con:
+
+a) Corrales de estancia;
+
+b) Manga de manejo;
+
+c) Corrales de segregación o aparte, y
+
+d) Baño garrapaticida de inmersión y/o aspersión.
+
+VIII. Deberán llevar y mantener actualizada la bitácora de entradas y salidas, en libro con hojas foliadas, revisadas por la Secretaría;
+
+IX. Todos los animales originarios de Nayarit, que ingresen al centro de acopio o PSG deberán estar identificados con el arete SINIIGA, el cual será utilizado para documentar la movilización del ganado;
+
+X. Contar con oficina o caseta para el resguardo y control de archivos de las movilizaciones de los últimos cinco años, que contendrá la información necesaria para identificar el origen y destino de los animales, mismo que estará a disposición de la Secretaría y la SAGARPA, en el caso de ser requeridos, para acciones de trazabilidad;
+
+XI. La autorización como centro de acopio o PSG deberá estar a la vista en la oficina o caseta señalada en el párrafo anterior, y
+
+XII. Los animales que ingresen al corral de acopio o PSG deberán contar con una prueba individual de tuberculosis y brucelosis, ya sea a su ingreso o durante su estancia. En caso de ser probados dentro del corral, deberán contar con una zona aislada para tal efecto, previo a la obtención del dictamen; los animales positivos deberán ser enviados a sacrificio inmediato y el resto del lote estará sujeto a lo previsto en la normatividad zoosanitaria aplicable.
+
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 143.
 
 La Secretaría en coordinación con las organizaciones de productores, promoverán la formación de grupos de interés económico de acuerdo a la transformación de los productos y de conformidad con la demanda del mercado nacional e internacional.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Las autoridades municipales correspondientes en coordinación con la Secretaría elaborarán un registro de comerciantes de ganado y de toda persona que habitual o accidentalmente, efectúen actos relacionados con la ganadería, productos y subproductos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría publicará en la página de internet la lista de comerciantes de ganado con registro.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Dicha lista será actualizada mensualmente y deberá mantenerse visible en las oficinas de las autoridades municipales.
 
 ## TÍTULO NOVENO. DE LA VIGILANCIA DEL GANADO
 
@@ -1335,41 +1467,57 @@ Las funciones del Médico Veterinario Zootecnista para los efectos de esta ley s
 
 ### CAPÍTULO ÚNICO. LAS SANCIONES Y SU APLICACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 170.
 
-La Secretaría aplicará las sanciones aquí previstas por violaciones a esta ley, en los siguientes términos:
+Las sanciones aplicables a las infracciones previstas en la presente Ley, su Reglamento y demás disposiciones administrativas, serán sancionados administrativamente por la Secretaría, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos. Las sanciones administrativas podrán ser:
 
-I. Apercibimiento;
+I. Amonestación con apercibimiento;
 
-II. Multa, en los siguientes términos:
+II. Revocación de las certificaciones, permisos, autorizaciones y aprobaciones;
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+III. Suspensión hasta por tres años para la expedición de documentación oficial, o
 
-a) De diez a cien veces la UMA, previo apercibimiento, por infringir los artículos 31, 32, 33, 35 primer y último párrafo, 38, 39 fracción III, 41, 51 y 120.
+IV. Multa; en los siguientes términos:
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+a) De diez a cien veces la UMA, previo apercibimiento, por infringir los artículos 31, 32, 33,35 primer y último párrafo, 38, 39 fracción III,41, 51 y 120.
 
-b) De veinticinco a ciento cincuenta veces la UMA por infracciones a los artículos 24 último párrafo, 40, 57, 61, 68, 109 último párrafo, 114, 146 segundo párrafo y 151.
+b) De veinticinco a ciento cincuenta veces la UMA por infracciones a los artículos 24 último párrafo, 40, 57,61, 68, 109 último párrafo, 114, 146 segundo párrafo y 151.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+c) De cincuenta a doscientas veces la UMA por infringir los artículos 46, 48, 67, 70, 90,111,112,118,119,123,130,131,133, 146 primer párrafo.
 
-c) De cincuenta a doscientas veces la UMA por infringir los artículos 46, 48, 67, 70, 90, 111, 112, 118, 119, 123, 130, 131, 133, 146 primer párrafo y 153.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-d) De 100 a 300 veces la UMA por infracciones a los artículos 74 fracción V, 75, 115, 116, 117, 137, 142 y 164 último párrafo.
+d) De 100 a 300 veces la UMA por infracciones a los artículos 74 fracción V, 75, 115, 116, 117, 137, 142, 153 y 164 último párrafo.
 
 En lo que respecta a los artículos 137 y 164 último párrafo, la sanción se impondrá por cabeza de ganado.
 
-III. Arresto administrativo hasta por 36 horas;
+V. Arresto administrativo hasta por 36 horas;
 
-IV. En el caso de las infracciones a la presente ley cometidas por servidores públicos se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nayarit.
+VI. Suspensión temporal o definitiva de la actividad;
 
-Las oficinas recaudadoras de la Secretaría de Finanzas, serán las encargadas de recibir el pago de dichas sanciones, recursos que deberán destinarse a la actividad pecuaria.
+VII. Clausura parcial o total, y
+
+VIII. Las demás que señale esta ley y el Reglamento respectivo.
+
+Para todos los casos, las sanciones pecuniarias a que esta Ley se refiere, serán fijadas por la Secretaría, según las circunstancias del caso y atendiendo a la naturaleza de los medios empleados, la gravedad de los daños causados y la reincidencia del infractor.
+
+Los servidores públicos y/o prestadores de servicios competentes en esta materia, que haciendo uso de sus atribuciones y facultades, promuevan, instruyan, ejecuten o permitan el otorgamiento de exenciones de revisión de documentación comprobatoria de propiedad, o de requisitos zoosanitarios, en los establecimientos y en los PVI'S y PVIF'S, se les sancionará según la gravedad del caso y de acuerdo a la Ley en materia de responsabilidades administrativas.
+
+Las oficinas recaudadoras de la Secretaría de Administración y Finanzas de Gobierno del Estado, serán las encargadas de recibir el pago de dichas sanciones, recursos que deberán destinarse a la actividad pecuaria.
 
 Las sanciones serán impuestas, independientemente de las que resulten de la aplicación de la legislación penal o civil.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 170 Bis.
+
+Los establecimientos que no lleven un registro de sus movilizaciones de animales, y no cumplan con las obligaciones señaladas en la presente Ley, serán acreedores a las siguientes sanciones administrativas:
+
+I. Amonestación con apercibimiento;
+
+II. Multa de 100 a 300 veces la UMA, y
+
+III. Clausura temporal de la autorización.
 
 ###### ARTÍCULO 171.
 
@@ -1432,3 +1580,13 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY GANADERA PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY GANADERA DEL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+SEGUNDO.- La Secretaría de Desarrollo Rural y Medio Ambiente tendrá un plazo de 180 días hábiles contados a partir de la entrada en vigor de la presente reforma, para efectos de adecuar el Reglamento de la Ley respectiva conforme al presente Decreto.
+
+TERCERO.- Dentro de los seis meses siguientes a la entrada en vigor del presente decreto los Ayuntamientos en coordinación con la Secretaría elaborarán el primer registro de comerciantes de ganado que se refiere en el artículo 143 de la presente reforma, el cual será publicado en las páginas electrónicas oficiales en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
