@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2018-11-29"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1149,7 +1149,9 @@ VIII. Participar en el otorgamiento de concesión de autopistas, carreteras, pue
 
 IX. Asesorar a los particulares en la realización de obras públicas en materia de vías de comunicación estatal, cuando así lo soliciten;
 
-X. Cuidar que en la construcción, conservación y rehabilitación de vías de comunicación estatal se respeten las disposiciones aplicables en materia de equilibrio ecológico y la protección al ambiente;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+X. Cuidar que en la construcción, conservación y rehabilitación de las vías de comunicación estatal se respeten las disposiciones aplicables en materia de equilibrio ecológico, la protección al ambiente, la accesibilidad y movilidad de las personas con discapacidad;
 
 XI. Vigilar y conservar los servicios de telefonía y radiotelefonía del Estado y los demás medios que no estén considerados como Vías Generales de Comunicación;
 
@@ -2838,3 +2840,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 TERCERO. Se otorga un plazo de sesenta días para que el Ejecutivo del Estado expida un Reglamento, que fijará los procedimientos y requisitos para que las instituciones públicas y laboratorios clínicos privados puedan obtener su certificado para expedir pruebas periciales en materia de genética molecular del ácido desoxirribonucleico o ADN. El Reglamento que expida el Ejecutivo del Estado deberá observar lo dispuesto en el artículo 17 Bis de la Ley General de Salud.
+
+G.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 790 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El Ejecutivo contará con un plazo de sesenta días a partir de la entrada en vigor del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley que Regula las Construcciones Públicas y privadas del Estado de Veracruz de Ignacio de la Llave y demás disposiciones.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
