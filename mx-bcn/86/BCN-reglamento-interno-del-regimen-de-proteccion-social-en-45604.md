@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-regimen-de-proteccion-social-en-45604"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-22"
-last_updated: "2017-11-24"
+last_updated: "2018-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de julio de 2005.
 
@@ -195,9 +195,9 @@ Para el estudio, planeación y adecuado cumplimiento del objeto para el que fue 
 
 I.- Dirección General:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-a) Contraloría Interna
+a) Órgano Interno de Control.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -255,61 +255,43 @@ II.- Dirección de Gestión de Servicios de Salud; y,
 
 III.- Dirección de Administración.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-ARTÍCULO 24 BIS.- El REPSS se apoyará con la Contraloría Interna para el fortalecimiento de las funciones de prevención, control y vigilancia.
+ARTÍCULO 24 BIS.- El Órgano Interno de Control del REPSS para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por el organismo y las demás que rigen la administración pública estatal;
 
-ARTÍCULO 24 TER.- Corresponde a la Contrataría Interna el despacho de las siguientes atribuciones:
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad del REPSS;
 
-I. Efectuar revisiones directas y selectivas a las unidades administrativas del REPSS, tendientes a comprobar la razonabilidad de su información financiera y verificar que las operaciones sean congruentes con los procesos aprobados de planeación, programación y presupuesto;
+III. Revisar que las operaciones presupuestales que realice el REPSS se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
 
-II. Verificar el correcto funcionamiento de las unidades administrativas del REPSS respecto del manejo de la administración de los recursos humanos, materiales y financieros;
+IV. Requerir a las unidades administrativas que correspondan el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorias verificaciones y revisiones, así como formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
 
-III. Informar al Titular del REPSS sobre los resultados de las revisiones practicadas y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+V. Informar al titular del REPSS sobre los resultados de las revisiones, auditorias y verificaciones practicadas y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
 
-IV. Elaborar y presentar un Programa Anual de Trabajo al titular de la Secretaría de la Contraloría y Transparencia Gubernamental para su aprobación; con base en las normas y lineamientos aplicables a la materia que permita contar y cumplir con los indicadores programados;
+VI. Vigilar que el REPSS realice las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y de obra pública, equipamiento, suministros y servicios con apego a las leyes en materia;
 
-V. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por el REPSS y las demás que rigen la Administración Pública Estatal;
+VII. Requerir a terceros que hubieran contratado bienes o servicios, con el REPSS la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-VI. Revisar que se acaten las disposiciones legales y reglamentarias en vigor, según corresponda a la operatividad del REPSS;
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
 
-VII. Revisar la suficiencia y efectividad del control interno inherente a los sistemas y procedimientos existentes en el REPSS;
+IX. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoria Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental, las políticas para simplificar y homogeneizar sus funciones;
 
-VIII. Impulsar un programa de actualización del marco de actuación en coordinación con las Dependencias Normativas y la Coordinadora de Sector, para garantizar un actuar en apego a las disposiciones para tal fin;
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas del REPSS cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
 
-IX. Formular al titular de la unidad administrativa correspondiente, en su ámbito de competencia, recomendaciones y sugerencias resultantes de las auditorías practicadas, en congruencia con las necesidades del REPSS;
+XI. Requerir a los servidores públicos del REPSS información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
 
-X. Requerir al Titular de la unidad administrativa correspondiente, en su ámbito de competencia, el seguimiento relativo a las observaciones y recomendaciones efectuadas, revisando que estas sean solventadas;
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoria Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
 
-XI. Proporcionar al Director Jurídico de Responsabilidades y Situación Patrimonial de la Secretaría de la Contraloría y Transparencia Gubernamental, los elementos de juicio suficientes, así como la documentación necesaria, cuando se presuma la comisión de ilícitos por parte de servidores públicos adscritos al REPSS y que sean de su competencia, por incumplimiento de las obligaciones previstas por la Ley de Responsabilidades Administrativas de Baja California y, por los demás ordenamientos legales aplicables;
+XIII. Coadyuvar en el programa de actualización del marco de actuación del REPSS en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen; y
 
-XII. Intercambiar en su ámbito de competencia, información con auditores externos y contralores internos de otras Dependencias y Entidades Paraestatales del Poder Ejecutivo, con el objeto de simplificar las labores de planeación y ejecución de auditorías;
+XIV. Expedir previo cotejo, copias certificadas de los documentos que obren únicamente en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones, con excepción de los documentos cuyo cotejo y certificación de (sic) correspondan a la Unidad de Asuntos Jurídicos del ISESALUD; y
 
-XIII. Asistir a reuniones del Comité y Subcomité de Adquisiciones y vigilar que los procedimientos de contratación de adquisiciones, arrendamientos y servicios y obra pública, equipamiento, suministros y servicios de la entidad se realicen con apego a las Leyes en la materia;
+XV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
 
-XIV. Rendir informe trimestral de actividades al Titular del REPSS, y al Secretario de la Contraloría y Transparencia Gubernamental;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XV. Recibir y turnar a la Secretaría de la Contraloría y Transparencia Gubernamental, los escritos que presenten los interesados con motivo de cualquier acto del procedimiento de contratación que contravenga las disposiciones legales vigentes;
-
-XVI. Atender los requerimientos que le formule la Secretaria de la Contraloría y Transparencia Gubernamental derivados de las funciones encomendadas;
-
-XVII. Vigilar que la presentación de la declaración patrimonial de los funcionarios públicos que correspondan, se cumpla en tiempo y forma;
-
-XVIII. Conocer, investigar, desahogar y resolver procedimientos administrativos sobre actos u omisiones a cargo de los servidores públicos que de acuerdo a la Ley de Responsabilidades Administrativas de Baja California le competan;
-
-XIX. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a los servidores públicos del REPSS, cuando se estime conveniente;
-
-XX. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
-
-XXI. Verificar que las unidades administrativas del REPSS, den cumplimiento a las observaciones y recomendaciones que dicten los Órganos de Fiscalización;
-
-XXII. Revisar y comparar los resultados de operación y objetivos previamente establecidos con los alcanzados por el REPSS;
-
-XXIII. Coordinar los actos de entrega-recepción de los funcionarios a cargo de las diferentes áreas que integran al organismo; y
-
-XXIV. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, aquellas que le confieran las disposiciones vigentes aplicables a la materia y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental.
+ARTÍCULO 24 TER.- El Órgano Interno de Control contará con el personal y recursos necesarios, a fin de garantizar la independencia en el ejercicio de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -503,13 +485,19 @@ XIII.- Someter a consideración del Director General el proyecto de Reglamento I
 
 XIV.- Vigilar la elaboración de los contratos del personal al servicio del REPSS enunciando detalladamente las funciones inherentes al cargo que se le haya asignado del catálogo de puestos autorizados;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XV.- Ejercer las atribuciones que en materia de transparencia correspondan a la Unidad de Transparencia que señala el artículo 55 y 56 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y,
+XV.- Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 XVI.- Las demás que le confieran el Director General, y las disposiciones legales administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 33 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder del REPSS, contará con un Comité de Transparencia y una unidad de transparencia, las cuales se organizaran y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -659,6 +647,10 @@ IV.- Presentar ante la Junta Directiva para su análisis, discusión y aprobaci�
 
 V.- Designar a quien supla sus ausencias temporales.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VI.- Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
 #### SECCIÓN II. DE LOS DIRECTORES DE ÁREA
 
 ###### ARTÍCULO 38.
@@ -741,11 +733,15 @@ Las ausencias temporales del Director General que no excedan de quince días ser
 
 Las ausencias temporales de los Directores de Área que no excedan de quince días serán suplidas por el Jefe de Departamento que éstos designen con la autorización del Director General, y en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director General.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 42.
 
-Las ausencias temporales de los jefes de Departamento que no excedan de quince días serán suplidas por el subalterno inmediato con autorización del Director de Área, y en aquellos que excedan del tiempo antes citado, su suplente será designado por el Director del Área al que se encuentre adscrito; a excepción de la Contraloría Interna, toda vez que esta sus ausencias serán suplida (sic) por quien designe el Titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
+Las ausencias temporales de los jefes de Departamento que no excedan de quince días serán suplidas por el subalterno inmediato con autorización del Director de Área, y en aquellos que excedan del tiempo antes citado, su suplente será designado por el Director del Área al que se encuentre adscrito.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 42 BIS.- Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoria Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -776,3 +772,19 @@ P.O. 24 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 20, 24, 25, 26, 27, 28, 29, 33, 4, 35, 36, 38, 42 Y SE ADICIONAN LOS ARTÍCULOS 24 BIS, 24 TER, 36 BIS, DEL REGLAMENTO INTERNO DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS AL REGLAMENTO INTERNO DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las funciones de Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no se autorice en el presupuesto de egresos del ejercicio fiscal 2019 los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 24 Ter de la presente reforma, la cual no podrá excederse del inicio del ejercicio fiscal 2019.
+
+En el supuesto anterior, las funciones de autoridad substanciadora se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del ejercicio fiscal 2018.
+
+En cualquier caso, su funcionamiento de conformidad a la Ley de Responsabilidades Administrativas del Estado de Baja California iniciará a más tardar el primero de enero de 2019.
