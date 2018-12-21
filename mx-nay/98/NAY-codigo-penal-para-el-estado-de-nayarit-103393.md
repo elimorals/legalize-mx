@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2017-02-01"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE FEBRERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2715,9 +2713,21 @@ III. La introducción por vía anal o vaginal de cualquier objeto o parte del cu
 
 IV. Cuando el sujeto activo por medio de la violencia física o moral obligue al sujeto pasivo menor de edad a que le realice cópula.
 
-### CAPÍTULO I. DE LA SUPOSICIÓN Y SUPRESIÓN DEL ESTADO CIVIL
+### CAPÍTULO V. DELITOS CONTRA LA INTIMIDAD PERSONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 297 BIS.- Comete el delito contra la intimidad personal, quien o quienes, revelen, difundan, publiquen o exhiban imágenes, audios o videos de contenido erótico, sexual o pornográfico de una persona sin su consentimiento mediante correo electrónico, mensajes telefónicos, redes sociales o por cualquier otro medio electrónico, de almacenamiento o impresos.
+
+A quien cometa el delito descrito en el párrafo anterior, se le impondrá prisión de seis meses a seis años y multa de ochocientas a dos mil Unidades de Medida y Actualización.
+
+Cuando el sujeto activo del delito mantenga o haya mantenido con la víctima una relación de confianza, afectiva o sentimental, considerando la pena señalada en el párrafo anterior, se incrementará en una mitad respecto de la que imponga el juzgador.
+
+La sanción establecida al delito básico se incrementará en una mitad respeto (sic) de la que imponga el juzgador, si el objeto de la difusión es con fines lucrativos.
+
+Cuando las imágenes, audio o videos de contenido erótico, sexual o pornográfico hayan sido obtenidos cuando la víctima fuese menor de dieciocho años de edad, o bien, cuando no tenga la capacidad de comprender el carácter erótico, sexual o pornográfico del hecho que constituye el contenido revelado, difundido, publicado o exhibido, considerando la pena al delito básico, se incrementará esta al doble respecto de la que imponga el juzgador.
+
+Este delito sólo será perseguido por querella del ofendido, salvo que se trate de las personas descritas en el párrafo anterior, en cuyo caso se procederá de oficio.
 
 ###### ARTÍCULO 296.
 
@@ -2735,19 +2745,21 @@ Las penas previstas en este artículo son independientes de cualquier otro delit
 
 Al que con fines lascivos, sexuales o de lujuria, asedie reiteradamente a una persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, se le impondrán de uno a tres años de prisión y multa de cien a trescientos días.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO I. DE LA SUPOSICIÓN Y SUPRESIÓN DEL ESTADO CIVIL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPÍTULO II. EXPOSICIÓN DE MENORES
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
+## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
+
 ### CAPÍTULO III. SUSTRACCIÓN Y TRÁFICO DE MENORES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
-
-### CAPÍTULO IV. BIGAMIA
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 298.
 
@@ -2765,9 +2777,9 @@ V. Al que usurpe el estado civil de otro con el fin de adquirir derechos que no 
 
 La anterior sanción será aumentada hasta una mitad más cuando se trate (sic) servidores públicos adscritos a las oficialías del registro civil.
 
-### CAPÍTULO V. INCESTO
+### CAPÍTULO IV. BIGAMIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 299.
 
@@ -2777,9 +2789,9 @@ Al que abandone en una casa de expósitos a un menor de siete años que se le hu
 
 Los ascendientes o tutores que entreguen a un menor de siete años que esté bajo su potestad a una casa de expósitos, a un establecimiento de beneficencia, o a cualquiera otra persona; además de aplicárseles las sanciones a que se refiere el artículo anterior, perderán los derechos que tengan sobre la persona y bienes del menor.
 
-### CAPÍTULO VI. ABANDONO DE FAMILIARES
+### CAPÍTULO V. INCESTO
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 301.
 
@@ -2811,9 +2823,9 @@ Igual pena se aplicará al que teniendo conocimiento de las actividades de tráf
 
 A quienes dirijan, organicen o aporten recursos económicos, técnicos o materiales que permitan el ejercicio de tráfico de menores o la venta clandestina de órganos o parte de su cuerpo, se les aplicará de veinte a cincuenta años de prisión y multa de quinientos días.
 
-### CAPÍTULO VII. VIOLENCIA FAMILIAR
+### CAPÍTULO VI. ABANDONO DE FAMILIARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 303.
 
@@ -2825,9 +2837,9 @@ A quienes ejerzan la patria potestad o la tutela, que a sabiendas dieren su cons
 
 El término para la prescripción de la acción penal por bigamia, empezará a correr desde que uno de los dos matrimonios haya quedado disuelto por la muerte de alguno de los cónyuges, o desde que el segundo haya sido declarado nulo por la causal de bigamia.
 
-### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE INHUMACIÓN, EXHUMACIÓN Y PROFANACIÓN DE CADÁVERES
+### CAPÍTULO VII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 305.
 
@@ -2835,7 +2847,9 @@ Se impondrá de uno a seis años de prisión y multa de tres a quince días, a l
 
 Se aplicará esta última sanción en caso de incesto entre hermanos.
 
-### CAPÍTULO I. AMENAZAS
+### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE INHUMACIÓN, EXHUMACIÓN Y PROFANACIÓN DE CADÁVERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 306.
 
@@ -2869,7 +2883,7 @@ Para que el perdón concedido por el ofendido o su representante pueda producir 
 
 Si del abandono resultare algún daño ya sea muerte, lesiones o cualquier otro, se aplicarán las sanciones que correspondan atendiendo las reglas del concurso.
 
-### CAPÍTULO II. CHANTAJE
+### CAPÍTULO I. AMENAZAS
 
 ###### ARTÍCULO 311.
 
@@ -2935,17 +2949,17 @@ VI. Existan antecedentes legalmente documentados de violencia familiar cometidos
 
 VII. Exista imposibilidad material de la víctima de denunciar la violencia familiar ejercida en su contra.
 
+### CAPÍTULO II. CHANTAJE
+
 ### CAPÍTULO III. ALLANAMIENTO DE MORADA, OFICINA O ESTABLECIMIENTO MERCANTIL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-### CAPÍTULO IV. ASALTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ## TÍTULO DÉCIMO QUINTO
 
-### CAPÍTULO V. PRIVACIÓN DE LA LIBERTAD PERSONAL
+### CAPÍTULO IV. ASALTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 314.
 
@@ -2969,7 +2983,7 @@ II. Al que profane un cadáver o restos humanos con actos de vilipendio, obsceni
 
 ## TÍTULO DÉCIMO SEXTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-### CAPÍTULO VI. USURPACIÓN DE IDENTIDAD
+### CAPÍTULO V. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
 ###### ARTÍCULO 316.
 
@@ -2978,6 +2992,10 @@ Comete el delito de amenazas, el que valiéndose de cualquier medio intimide a o
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 El delito de amenazas se sancionará con prisión de seis meses a dos años de prisión y multa de diez a cincuenta días.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Si la amenaza fuese la difusión, publicación, o exhibición, por cualquier medio, de imágenes, audios o videos en los que se muestre al amenazado o a una persona ligada con el amenazado por algún vínculo familiar o afectivo, realizando alguna conducta de carácter erótico, sexual o pornográfico, considerando la pena al delito básico, se incrementará en una mitad respecto de la que imponga el juzgador.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -3005,7 +3023,7 @@ II. Si exigió que el amenazado cometiera un delito, la sanción de la amenaza y
 
 III. Si lo que exigió fue que dejará de ejecutar un acto lícito, se le impondrá sanción de tres meses a dos años de prisión y multa de uno a diez días.
 
-### CAPÍTULO VII. EXTORSIÓN
+### CAPÍTULO VI. USURPACIÓN DE IDENTIDAD
 
 ###### ARTÍCULO 319.
 
@@ -3019,9 +3037,7 @@ A quien cometa el delito de chantaje, se le impondrán de uno a tres años de pr
 
 Si lo que se exigió fue la entrega de cantidades o efectos y ésta se realiza, además de las sanciones que señala el párrafo anterior se aplicarán las de robo con violencia.
 
-### CAPÍTULO VIII. DESAPARICIÓN FORZADA DE PERSONAS
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+### CAPÍTULO VII. EXTORSIÓN
 
 ###### ARTÍCULO 320.
 
@@ -3031,9 +3047,9 @@ Si el hecho se realiza por dos o más personas o por servidor público en ejerci
 
 Se impondrán las penas previstas en el párrafo anterior, al que se introduzca sin orden de autoridad competente o sin permiso de la persona autorizada para ello, en el domicilio de una persona moral pública o privada, oficina, establecimiento mercantil o local abierto al público fuera del horario laboral que corresponda.
 
-### CAPÍTULO I. GOLPES SIMPLES
+### CAPÍTULO VIII. DESAPARICIÓN FORZADA DE PERSONAS
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 321.
 
@@ -3053,7 +3069,9 @@ Si el asalto se efectuare de noche o si fueren varios los asaltantes se aplicar�
 
 A quienes asalten un poblado o ranchería se les sancionará con prisión de veinte a cuarenta años y multa de cincuenta a doscientos días de Unidad de Medida y Actualización, si fueren los cabecillas o jefes y de veinte a treinta años de prisión y multa de veinte a cien días a los demás, sin perjuicio de aplicar las reglas de concurso por cualesquiera otros delitos que se cometan.
 
-### CAPÍTULO II. INJURIAS
+### CAPÍTULO I. GOLPES SIMPLES
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 323.
 
@@ -3077,9 +3095,7 @@ Al que prive a otro de su libertad, con el propósito de realizar un acto sexual
 
 Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de tres meses a tres años de prisión.
 
-### CAPÍTULO III. DIFAMACIÓN
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO II. INJURIAS
 
 ###### ARTÍCULO 326.
 
@@ -3101,7 +3117,7 @@ Las sanciones previstas en este artículo se impondrán con independencia de las
 
 Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad más, cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
 
-### CAPÍTULO IV. CALUMNIA
+### CAPÍTULO III. DIFAMACIÓN
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3115,11 +3131,13 @@ Si en la comisión de este delito participa algún miembro de una corporación p
 
 Se impondrá además, una pena de dos a cinco años de prisión, cuando el sujeto activo del delito se haya ostentado como miembro de una asociación o grupo delictuoso.
 
+### CAPÍTULO IV. CALUMNIA
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPÍTULO V. DISPOSICIONES COMUNES A LAS INJURIAS, DIFAMACIÓN Y CALUMNIAS
 
 (NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-### CAPÍTULO I. LESIONES
 
 ###### ARTÍCULO 329.
 
@@ -3145,7 +3163,7 @@ Los términos para la prescripción previstos en este Código, respecto del deli
 
 ## TÍTULO DÉCIMO SÉPTIMO. DELITOS CONTRA EL HONOR
 
-### CAPÍTULO II. HOMICIDIO
+### CAPÍTULO I. LESIONES
 
 ###### ARTÍCULO 330.
 
@@ -3155,7 +3173,7 @@ Se aplicará de tres meses a un año de prisión o multa de uno a diez días al 
 
 No se procederá contra el autor de golpes, sino por queja del ofendido, a no ser que el delito se cometa en una reunión o lugar público, o a un ascendiente.
 
-### CAPÍTULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIOS
+### CAPÍTULO II. HOMICIDIO
 
 ###### ARTÍCULO 332.
 
@@ -3167,9 +3185,7 @@ El delito de injurias se sancionará con prisión de tres meses a un año o mult
 
 Cuando las injurias fueren recíprocas, el Juez podrá según las circunstancias, declarar exentas de sanción a las dos partes o exigirles caución de no ofender.
 
-### CAPÍTULO IV. DISPARO DE ARMA DE FUEGO
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIOS
 
 ###### ARTÍCULO 333.
 
@@ -3183,7 +3199,7 @@ I. Si la imputación hubiere tenido por objeto defender o garantizar un interés
 
 II. Si el hecho imputado está declarado cierto, por sentencia irrevocable y el inculpado obre por interés legítimo y sin ánimo de dañar.
 
-### CAPÍTULO V. INSTIGACIÓN O AYUDA AL SUICIDIO
+### CAPÍTULO IV. DISPARO DE ARMA DE FUEGO
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3197,7 +3213,7 @@ Se aplicará de seis meses a dos años de prisión o multa de tres a quince día
 
 Cuando haya pendiente un proceso o averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que en dicho proceso se dicte sentencia ejecutoria. En este caso, la prescripción comenzará a correr cuando termine el proceso.
 
-### CAPÍTULO VI. PARRICIDIO
+### CAPÍTULO V. INSTIGACIÓN O AYUDA AL SUICIDIO
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3241,7 +3257,7 @@ No servirá de excusa de la difamación, NI DE LA CALUMNIA, que el hecho imputad
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPÍTULO VII. FILICIDIO
+### CAPÍTULO VI. PARRICIDIO
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3309,9 +3325,11 @@ Si el ofendido fuere ascendiente del autor de una lesión, se aumentarán dos a�
 
 De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce o lo suelte. Si lo suelta por descuido, la sanción será la correspondiente al delito culposo.
 
-### CAPÍTULO VIII. ABORTO
+### CAPÍTULO VII. FILICIDIO
 
-### CAPÍTULO IX. ABANDONO DE PERSONAS
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO VIII. ABORTO
 
 ###### ARTÍCULO 353.
 
@@ -3363,7 +3381,7 @@ IV. Cuando las lesiones no fueren mortales sino por su número y no se pueda ave
 
 Al responsable de homicidio calificado se impondrá una pena de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
-### CAPÍTULO I. ROBO
+### CAPÍTULO IX. ABANDONO DE PERSONAS
 
 ###### ARTÍCULO 360.
 
@@ -3487,15 +3505,13 @@ ARTÍCULO 361 QUÁTER.- Al servidor público que retarde o entorpezca maliciosam
 
 Se impondrá sanción de cinco a doce años de prisión y multa de uno a diez días al ascendiente que prive de la vida al corruptor de su hija que esté bajo su potestad, si lo hiciere en el momento de sorprenderlos en el acto carnal o en un momento próximo a su consumación, siempre que no hubiere procurado la corrupción de su hija, pues en caso contrario quedará sujeto a las disposiciones sobre homicidio.
 
-### CAPÍTULO II. ABIGEATO
+### CAPÍTULO I. ROBO
 
 ###### ARTÍCULO 363.
 
 Se impondrá prisión de tres meses a dos años y multa hasta de tres a diez días al que dispare un arma de fuego, que ponga en peligro la integridad de las personas.
 
-### CAPÍTULO III. ABUSO DE CONFIANZA
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO II. ABIGEATO
 
 ###### ARTÍCULO 364.
 
@@ -3507,21 +3523,21 @@ Al que instigue o ayude a otro al suicidio se le impondrá sanción de tres a di
 
 El que pudiendo impedir un suicidio no lo haga o impidiere que otro lo evite, será sancionado con prisión de tres meses a dos años de prisión y multa hasta de diez días.
 
-### CAPÍTULO IV. FRAUDE
+### CAPÍTULO III. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 366.
 
 Al que prive de la vida a cualquier ascendiente consanguíneo, en línea recta o a su padre o madre adoptiva, conociendo el delincuente ese parentesco, se le aplicará de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
-### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
+### CAPÍTULO IV. FRAUDE
 
 ###### ARTÍCULO 367.
 
 Al que prive de la vida a un descendiente consanguíneo en línea recta o a su hijo adoptivo, sabiendo el delincuente ese parentesco, se le aplicarán de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
-### CAPÍTULO VI. USURA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTÍCULO 368.
 
@@ -3551,7 +3567,7 @@ No es punible el aborto culposo causado por la mujer embarazada, ni cuando el em
 
 No se aplicará sanción cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPÍTULO VII. DESPOJO DE INMUEBLES Y AGUAS
+### CAPÍTULO VI. USURA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3575,7 +3591,7 @@ El automovilista, motorista, conductor de vehículo cualquiera, ciclista o jinet
 
 ## TÍTULO DÉCIMO NOVENO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO VIII. DAÑO EN LAS COSAS
+### CAPÍTULO VII. DESPOJO DE INMUEBLES Y AGUAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3691,7 +3707,7 @@ II. Cuando el valor de lo robado no exceda del equivalente a treinta días, sea 
 
 Si precediere, acompañare o siguiere al robo algún otro hecho que por sí solo constituya un delito, se aplicarán las reglas del concurso.
 
-### CAPÍTULO IX. OCUPACIÓN ILEGAL DE EDIFICIOS E INMUEBLES DESTINADOS A UN SERVICIO PÚBLICO
+### CAPÍTULO VIII. DAÑO EN LAS COSAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3767,7 +3783,7 @@ Al que transporte ganado de procedencia ilegal, sin haber tomado las medidas nec
 
 Al que comercie con pieles, carnes u otros derivados obtenidos del Abigeato, se le impondrá prisión de tres a ocho años y multa de diez a treinta días.
 
-### CAPÍTULO X. DELITOS INFORMÁTICOS
+### CAPÍTULO IX. OCUPACIÓN ILEGAL DE EDIFICIOS E INMUEBLES DESTINADOS A UN SERVICIO PÚBLICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3799,7 +3815,9 @@ III. El hecho de que una persona haga aparecer como suyo un depósito que garant
 
 Se aplicarán las mismas sanciones del abuso de confianza, a quien requerido formalmente, retenga la cosa que estuviere obligado a entregar si la hubiere recibido por un título gratuito o precario que produzca la obligación de entregar o devolver, o cuando la cosa deba entregarse a resultas de una resolución firme de autoridad competente.
 
-### CAPÍTULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
+### CAPÍTULO X. DELITOS INFORMÁTICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 400.
 
@@ -3891,7 +3909,7 @@ Iguales sanciones se impondrán a servidores públicos, de las categorías indic
 
 Los agentes o funcionarios de compañías de contratación de trabajadores, que sin autorización de las autoridades o al margen de la Ley, contraten o pretendan contratar trabajadores, incurrirán en las sanciones privativas de libertad y pecuniarias a que se refiere el párrafo anterior, las compañías de que se trata incurrirán, en el mismo caso en las sanciones pecuniarias y suspensivas de operaciones.
 
-### CAPÍTULO II. DE LA CONSTITUCIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES
+### CAPÍTULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
 
 ###### ARTÍCULO 403.
 
@@ -3899,9 +3917,7 @@ Comete el delito de administración fraudulenta el que teniendo a su cargo el ma
 
 Las sanciones para este delito serán las mismas que para el fraude establece el artículo 400 de este Código.
 
-### CAPÍTULO I. ENCUBRIMIENTO
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
+### CAPÍTULO II. DE LA CONSTITUCIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES
 
 ###### ARTÍCULO 404.
 
@@ -3919,9 +3935,9 @@ Para los efectos de esta fracción, se entenderá que los créditos, comisiones 
 
 Cuando una persona moral facilite los medios para la comisión del presente ilícito en cualquiera de sus modalidades, de modo que éste resulte cometido a su nombre, bajo su amparo o en su beneficio, se le impondrá suspensión de sus actividades hasta por un año, y además serán sancionados penalmente, los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos, conforme a lo prescripto en el primer párrafo de este artículo.
 
-### CAPÍTULO II. ENCUBRIMIENTO POR RECEPTACIÓN
+### CAPÍTULO I. ENCUBRIMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 405.
 
@@ -3939,7 +3955,9 @@ La pena será aplicable, aun cuando el derecho a la posesión de la cosa usurpad
 
 A las sanciones que señala este artículo se sumarán las que correspondan por la violencia, la amenaza o por las de cualquier otro delito que resulte cometido.
 
-### CAPÍTULO ÚNICO. DE LOS DELITOS CONTRA LA ECOLOGÍA Y LA FAUNA
+### CAPÍTULO II. ENCUBRIMIENTO POR RECEPTACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 406.
 
@@ -3986,6 +4004,8 @@ I. Utilizando cualquier tipo de sustancia o medio realice pintas, escrituras, di
 II. Cuando el daño se cometa en bienes de dominio público, monumentos, edificios, sitios o bienes considerados parte del patrimonio cultural con valor histórico o arquitectónico, o el daño se cause sobre bienes de cantera, piedra, madera o cualquier material de difícil o imposible reparación, se sancionará con pena de seis meses a seis años de prisión y multa de cincuenta a ciento cincuenta días.
 
 Tratándose de propaganda o promoción de partidos o grupos políticos, se estará a lo dispuesto por la Ley que lo regule.
+
+### CAPÍTULO ÚNICO. DE LOS DELITOS CONTRA LA ECOLOGÍA Y LA FAUNA
 
 ###### ARTÍCULO 411.
 
@@ -4310,3 +4330,9 @@ P.O. 23 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA EL ARTÍCULO 158 BIS AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, PUBLICADO EL SEIS DE SEPTIEMBRE DE DOS MIL CATORCE".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITOS CONTRA LA INTIMIDAD PERSONAL".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
