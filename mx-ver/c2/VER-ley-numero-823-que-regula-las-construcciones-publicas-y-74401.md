@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-823-que-regula-las-construcciones-publicas-y-74401"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-31"
-last_updated: "2017-12-18"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 823 QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de marzo de 2010.
 
@@ -73,33 +73,69 @@ De las Denominaciones
 
 Para efectos de esta ley se entiende por:
 
-I. Ley: La Ley que Regula las Construcciones Públicas y Privadas del Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-II. Gobierno Estatal: el Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave;
+I. Ayuntamiento: El Gobierno de cada municipio de la entidad;
 
-III. Reglamento Municipal: el Reglamento Municipal de Construcción que cada uno de los municipios de la entidad elabore, apruebe y ponga en vigencia con base en las disposiciones de la ley;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-IV. Ayuntamiento: el Gobierno de cada municipio de la entidad;
+II. Centro de población: Las zonas constituidas por las áreas urbanas o urbanizables
 
-V. Instancias gubernamentales: las unidades administrativas federales, estatales y municipales que concurran en la aplicación de la presente ley;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-VI. Programas: los instrumentos de ordenación y regulación de los asentamientos humanos y del desarrollo regional y urbano del territorio estatal, de los centros de población y de las zonas conurbadas;
+III. Construcción Pública: Toda acción que tenga por objeto construir, conservar, instalar, reparar, demoler y, en general, cualquier modificación a bienes inmuebles que, por su naturaleza o por disposición de la ley, estén destinados al servicio público;
 
-VII. Construcción pública: toda acción que tenga por objeto construir, conservar, instalar, reparar, demoler y, en general, cualquier modificación a bienes inmuebles que, por su naturaleza o por disposición de la ley, estén destinados al servicio público;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-VIII. Construcción privada: toda acción que tenga por objeto construir, conservar, instalar, reparar, demoler y, en general, cualquier modificación a bienes inmuebles propiedad de particulares;
+IV. Construcción privada: Toda acción que tenga por objeto construir, conservar, instalar, reparar, demoler y, en general, cualquier modificación a bienes inmuebles propiedad de particulares;
 
-IX. Edificaciones: el resultado de una construcción;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-X. Predio: el terreno donde se pretenda llevar a cabo una construcción;
+V. Discapacidad: La deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social;
 
-XI. Inmueble: el terreno y construcciones en él existentes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XII. Lote: la fracción de terreno resultante de una autorización de fusión o división del suelo;
+VI. Discriminación: La distinción, exclusión o restricción por motivos de discapacidad o trastornos generalizados del desarrollo, que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
 
-XIII. Centro de población: las zonas constituidas por las áreas urbanas o urbanizables; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XIV. Licencias: los instrumentos jurídicos por los cuales la autoridad municipal competente autoriza una construcción pública o privada.
+VII. Edificaciones: El resultado de una construcción;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VIII. Gobierno Estatal: El Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+IX. Inmueble: El terreno y construcciones en él existentes;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+X. Instancias Gubernamentales: Las unidades administrativas federales, estatales y municipales que concurran en la aplicación de la presente ley;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XI. Ley: La Ley que Regula las Construcciones Públicas y Privadas del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XII. Licencias: Los instrumentos jurídicos por los cuales la autoridad municipal competente autoriza una construcción pública o privada
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XIII. Lote: La fracción de terreno resultante de una autorización de fusión o división del suelo;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XIV. Predio: El terreno donde se pretenda llevar a cabo una construcción;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XV. Programas: Los instrumentos de ordenación y regulación de los asentamientos humanos y del desarrollo regional y urbano del territorio estatal, de los centros de población y de las zonas conurbadas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XVI. Reglamento Municipal: El Reglamento Municipal de Construcción que cada uno de los municipios de la entidad elabore, apruebe y ponga en vigencia con base en las disposiciones de la Ley.
 
 ### CAPÍTULO II. De las Competencias
 
@@ -345,9 +381,11 @@ Los ayuntamientos podrán permitir diferencias en las obras ejecutadas con respe
 
 ### CAPÍTULO I. De los Requerimientos del Proyecto Arquitectónico
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 36.
 
-Para garantizar las condiciones de habitabilidad, funcionamiento, higiene, acondicionamiento ambiental, comunicación, seguridad en emergencias, seguridad estructural e integración al contexto e imagen urbana en la entidad, los proyectos arquitectónicos deberán cumplir con los requerimientos establecidos en este título y las demás disposiciones legales aplicables.
+Para garantizar las condiciones de habitabilidad, accesibilidad y movilidad de las personas con discapacidad, funcionamiento, higiene, acondicionamiento ambiental, comunicación, seguridad en emergencias, seguridad estructural e integración al contexto e imagen urbana en la entidad, los proyectos arquitectónicos deberán cumplir con los requerimientos establecidos en este título y las demás disposiciones legales aplicables.
 
 ###### Artículo 37.
 
@@ -363,13 +401,17 @@ Las edificaciones contarán con espacios para estacionamiento de vehículos, con
 
 ### CAPÍTULO II. De las Condiciones de Habitabilidad y Funcionamiento
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 40.
 
-Los espacios de los que consten las edificaciones, según su uso o tipo, deberán tener las dimensiones y características que se establezcan en el Reglamento de Construcción del ayuntamiento correspondiente.
+Los espacios de los que consten las edificaciones, según su uso o tipo, deberán tener las dimensiones y características que se establezcan en la Ley para la Integración de las Personas con Discapacidad para el Estado de Veracruz y el Reglamento de Construcción del ayuntamiento correspondiente.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 41.
 
-Las edificaciones plurifamiliares y las de comercio y servicios deberán contar con un sistema de almacenamiento y eliminación de basura.
+Las edificaciones plurifamiliares y las de comercio y servicios deberán contar con espacios para la accesibilidad y movilidad de las personas con discapacidad, así como un sistema de almacenamiento y eliminación de basura.
 
 ###### Artículo 42.
 
@@ -383,17 +425,37 @@ Los establecimientos para consumo de alimentos y bebidas, así como los centros 
 
 Los estacionamientos públicos deberán contar con lo siguiente:
 
-I. Carriles separados para entrada y salida de vehículos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-II. Área de espera techada para la recepción y entrega de vehículos;
+I. Un cajón por cada diez para uso exclusivo de personas con discapacidad;
 
-III. Barda en todas sus colindancias con lotes vecinos; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-IV. Circulaciones para peatones, independientes de las de vehículos.
+II. Carriles separados para entrada y salida de vehículos;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+III. Área de espera techada para la recepción y entrega de vehículos;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+IV. Barda en todas sus colindancias con lotes vecinos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+V. Circulaciones para peatones, independientes de las de vehículos; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VI. Rampas de acceso para garantizar accesibilidad y movilidad de las personas con discapacidad.
 
 ###### Artículo 45.
 
 Las albercas para servicio público deberán contar con equipos de recirculación, filtrado y purificación de agua, boquillas de inyección y rejillas de succión.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+De igual forma deberán contar por lo menos con una silla de piscina para discapacitados para garantizar su accesibilidad.
 
 ### CAPÍTULO III. De los Requerimientos para la Higiene, Servicios y Acondicionamiento Ambiental
 
@@ -956,3 +1018,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Ejecutivo del Estado deberá adecuar los reglamentos de la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, y de la Ley que Regula las Construcciones Públicas y Privadas, ambos ordenamientos para el Estado de Veracruz de Ignacio de la Llave, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
+
+G.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 790 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El Ejecutivo contará con un plazo de sesenta días a partir de la entrada en vigor del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley que Regula las Construcciones Públicas y privadas del Estado de Veracruz de Ignacio de la Llave y demás disposiciones.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
