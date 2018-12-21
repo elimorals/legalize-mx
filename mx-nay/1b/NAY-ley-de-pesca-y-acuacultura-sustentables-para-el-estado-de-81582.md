@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-81582
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2016-11-08"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 25 de Mayo de 2011.
 
@@ -897,9 +897,17 @@ II. La información sobre permisos que se expidan en términos de esta ley, que 
 
 III. Las embarcaciones dedicadas a la actividad pesquera en el Estado;
 
-IV. Las unidades de producción acuícola en el Estado, incluyendo parques, granjas y laboratorios, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-V. Las personas físicas y morales que cuenten con certificados de sanidad, inocuidad o calidad.
+IV. Las unidades de producción acuícola en el Estado, incluyendo parques, granjas y laboratorios;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+V. Las personas físicas y morales que cuenten con certificados de sanidad, inocuidad o calidad, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VI. Las personas físicas y morales que se dediquen a realizar actividades de compra a productores y comercialización de recursos pesqueros y acuícolas.
 
 La organización y funcionamiento del Registro Estatal se determinarán en el reglamento de esta ley.
 
@@ -913,9 +921,17 @@ Los municipios contribuirán a la integración, actualización y funcionamiento 
 
 I. Las personas físicas y morales que se dediquen a la pesca comercial y a la acuacultura dentro del municipio, así como la información respectiva del permiso que los ampara;
 
-II. Las embarcaciones menores, así como los equipos y artes de pesca, con la identificación de sus legítimos dueños o posesionarios, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-III. Las unidades de producción acuícola, parques, granjas y laboratorios que operen dentro del territorio del municipio.
+II. Las embarcaciones menores, así como los equipos y artes de pesca, con la identificación de sus legítimos dueños o posesionarios;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+III. Las unidades de producción acuícola, parques, granjas y laboratorios que operen dentro del territorio del municipio, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+IV. Las personas físicas y morales que se dediquen a realizar actividades de compra a productores y comercialización de recursos pesqueros y acuícolas dentro del municipio.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -2209,6 +2225,10 @@ II. Proporcionará servicios de asesoría y capacitación en el desarrollo de me
 
 III. Establecerá los enlaces institucionales que permitan a los productores pesqueros y acuícolas identificar los nichos de mercado nacionales e internacionales para la comercialización de sus productos;
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+En todo momento la Secretaría mantendrá un registro de las personas físicas y morales que se dediquen a la compra y comercialización de recursos pesqueros y acuícolas en el Estado;
+
 IV. Propiciará, el acceso de los productores a los diferentes mercados;
 
 V. Promoverá la participación activa de misiones de negocios y asistencia a eventos nacionales e internacionales en materia de pesca y acuacultura, y
@@ -2218,6 +2238,10 @@ VI. Mediante la utilización de medios de comunicación electrónicos, promocion
 ###### Artículo 123.
 
 La Secretaría promoverá sistemas de seguimiento a la operación de compra-venta entre los productores pesqueros y acuícolas, para prevenir y evitar prácticas fraudulentas que deterioren el ingreso del productor primario.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría mantendrá actualizado el registro de personas físicas y morales que se dediquen a realizar actividades de compra a productores y comerciantes de recursos pesqueros y acuícolas y publicarán dicha información en su página oficial electrónica.
 
 ###### Artículo 124.
 
@@ -2574,3 +2598,11 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Dentro de los seis meses siguientes a la entrada en vigor del presente decreto, los Ayuntamientos en coordinación con la Secretaría elaborarán el primer el (sic) registro de personas físicas y morales que se dedican a realizar actividades de compra a productores y comercio de recursos pesqueros y acuícolas el cual será publicado en las páginas electrónicas oficiales de la Secretaría y los Ayuntamientos donde se tengan actividades de producción y comercio de los referidos productos, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
