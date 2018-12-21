@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-administrativas-del-estado-de-121734"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-30"
-last_updated: "2017-09-07"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el martes 30 de mayo de 2017.
 
@@ -487,7 +487,37 @@ Para tal efecto, la Secretaría de la Contraloría y los órganos internos de co
 
 Para efectos del artículo anterior habrá conflicto de interés en los supuestos establecidos en la fracción V del artículo 3 de la presente Ley.
 
-La declaración de intereses tendrá por objeto informar y determinar el conjunto de intereses de un servidor público a fin de delimitar cuando éstos entran en conflicto con su función.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.G. 21 DE DICIEMBRE DE 2018)</small>
+
+La declaración de intereses tendrá por objeto informar y determinar el conjunto de intereses de un servidor público a fin de delimitar cuando éstos entran en conflicto con su función, la cual deberá contener por lo menos:
+
+I. Intereses personales del declarante que pudieran influir en el empleo, cargo o comisión:
+
+a) Datos del cónyuge, concubina o concubinario y dependientes económicos que laboren en el Gobierno Federal, Estatal o Municipal, o en órganos autónomos.
+
+b) Familiares consanguíneos hasta el cuarto grado por afinidad o civil, que laboren en el Gobierno Federal, Estatal o Municipal, o en órganos autónomos.
+
+II. Participación económica o financiera del declarante, concubina, concubinario, familiares consanguíneos hasta el cuarto grado por afinidad o civil y/o dependientes económicos a la fecha de conclusión.
+
+a) Tipo de participación o contrato: porcentaje de participación en el capital, partes sociales, servicios profesionales, servicios profesionales o de bienes muebles o inmuebles.
+
+b) Tipo de sociedad: mercantil, anónima o de responsabilidad límitada, organización civil, asociación civil, en direcciones y consejos de administración; participación accionaria en sociedades; préstamos, créditos y obligaciones financieras.
+
+III. Participación del declarante, cónyuge, concubina, concubinario, familiares consanguíneos hasta el cuarto grado por afinidad o civil y/o dependientes económicos en asociaciones, organizaciones y asociaciones civiles, consejos y consultorías a la fecha de inicio del cargo o conclusión de este.
+
+a) Naturaleza del vínculo: socio o colaborador.
+
+b) Frecuencia anual.
+
+c) Tipo de persona jurídica colectiva: instituciones de derecho público, sociedades o asociaciones de derecho privado, fundación, asociación gremial, sindicato o federación de organizaciones de trabajadores, junta de vecinos u otra organización comunitaria, iglesia o entidad religiosa.
+
+d) Tipo de colaboración: cuotas, servicios profesionales, participación voluntaria, participación remunerada.
+
+e) La participación presente o pasada del servidor público y del cónyuge, dependientes económicos o familiares hasta en segundo grado, en direcciones y consejos de administración, participación accionaria en sociedades, préstamos, créditos y obligaciones financieras.
+
+IV. Viajes del declarante, cónyuge, concubina, concubinario, familiares hasta en segundo grado y/o dependientes económicos del cónyuge, dependientes económicos o familiares hasta en segundo grado financiados por terceros, y
+
+V. Donativos realizados y/o recibidos por el declarante, cónyuge, concubina, concubinario, familiares hasta en segundo grado y/o dependientes económicos, así como los que hubieran realizado a fundaciones u organizaciones no lucrativas de las que forma parte el declarante.
 
 ###### Artículo 46.
 
@@ -569,7 +599,11 @@ XVI. Cumplir con las disposiciones en materia de Gobierno Digital que impongan l
 
 XVII. Utilizar las medidas de seguridad informática y protección de datos e información personal recomendada por las instancias competentes.
 
-XVIII. Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Cumplir oportunamente con los laudos que dicte el Tribunal Estatal de Conciliación y Arbitraje o cualquier de las Salas Auxiliares del mismo, así como pagar el monto de las indemnizaciones y demás prestaciones a que tenga derecho el servidor público, y
+
+XIX. Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
 
 ###### Artículo 51.
 
@@ -2404,3 +2438,11 @@ TERCERO. Dentro del plazo que no deberá exceder de un año a partir del inicio 
 CUARTO. La declaración de situación patrimonial y de intereses, deberán ser presentadas conforme a los formatos aprobados para tal efecto, hasta en tanto, el Comité Coordinador del Sistema Estatal Anticorrupción del Estado de México emita las normas y formatos impresos de medios magnéticos y electrónicos, bajo los cuales se deberán presentar dichas declaraciones.
 
 QUINTO. El Tribunal de Justicia Administrativa proveerá las adecuaciones necesarias a su reglamento interior en un plazo que no deberá exceder de ciento veinte días hábiles.
+
+G.G. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 11.- POR EL QUE SE DEROGAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, A LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
