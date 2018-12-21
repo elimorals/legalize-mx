@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2018-11-29"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -555,9 +555,9 @@ El Congreso tendrá como asuntos de atención preferente:
 
 I. En el primer período de sesiones ordinarias:
 
-> <small>(REFORMADO, G.O. 17 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con los ingresos y egresos del año siguiente, le sea presentado entre el seis y diez de noviembre por el Gobernador del Estado. Cuando sea año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente;
+a) Examinar, discutir y, en su caso, modificar y aprobar el presupuesto que, en relación con los ingresos y egresos del año siguiente, le sea presentado entre el seis y diez de noviembre por el Gobernador del Estado. Cuando sea año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -1745,7 +1745,11 @@ XIII. Resolver los conflictos de competencia que surjan entre los tribunales y j
 
 XIV. Adscribir a los magistrados a las salas correspondientes; y
 
-XV. Las demás atribuciones que le señale esta Constitución y la ley.
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XV. Elaborar el dictamen técnico en sentido favorable o no favorable, según sea el caso, respecto de los magistrados en posibilidad de ser ratificados, de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave; y
+
+XVI. Las demás atribuciones que le señale esta Constitución y la ley.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1777,11 +1781,9 @@ I. Ser veracruzano y haber residido en la Entidad durante los dos años anterior
 
 II. Tener, cuando menos, treinta y cinco años cumplidos y no más de setenta al día de su designación;
 
-(NOTA: EL 10 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 79/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
-
-III. Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada, CON UNA ANTIGÜEDAD MÍNIMA DE CINCO AÑOS, y contar, preferentemente, con estudios de posgrado, o con experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso;
+III. Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada, con una antigüedad mínima de diez años y contar, preferentemente, con estudios de posgrado, o con experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso;
 
 > <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -12927,8 +12929,22 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 29 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 749 QUE REFORMA EL INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 749 QUE REFORMA EL INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo previsto en este Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 781 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 58, Y ADICIONA LA FRACCIÓN XV AL ARTÍCULO 56 RECORRIÉNDOSE LA SUBSECUENTE, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2 QUE REFORMA EL ARTÍCULO 26 FRACCIÓN I, INCISO A) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
