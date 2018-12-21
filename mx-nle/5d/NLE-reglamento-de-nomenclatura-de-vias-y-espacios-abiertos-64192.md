@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-nomenclatura-de-vias-y-espacios-abiertos-64192"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-18"
-last_updated: "2008-08-18"
+last_updated: "2018-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE NOMENCLATURA DE VIAS Y ESPACIOS ABIERTOS PUBLICOS DE JUAREZ, NUEVO LEON
 
-REGLAMENTO DE NOMENCLATURA DE VIAS Y ESPACIOS ABIERTOS PUBLICOS DEL MUNICIPIO DE JUAREZ, N.L
+REGLAMENTO DE NOMENCLATURA DE VÍAS Y ESPACIOS ABIERTOS PÚBLICOS DEL MUNICIPIO DE JUÁREZ, N.L
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 18 de agosto de 2008.
 
@@ -93,7 +93,9 @@ IV. Que no contenga palabras ofensivas, injuriosas o contrarias a las buenas cos
 
 V. Procurar que la denominación en ciertos casos fomente el conocimiento de fechas históricas, así como otorgue reconocimiento a los héroes o personalidades destacadas de la República, del Estado o del Municipio.
 
-VI. En ningún caso se podrá utilizar para la nomenclatura el nombre de personas vivas.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VI. No se podrá utilizar para la nomenclatura el nombre de personas vivas; con la excepción de aquéllas que aun cuando están vivos, hayan sido protagonistas de un acto heroico o sobresaliente, que sea un ejemplo de civismo para los habitantes de la ciudad.
 
 ###### ARTICULO 6.
 
@@ -208,3 +210,11 @@ PRESIDENTE MUNICIPAL
 C. LUIS ALFREDO GARCIA GARZA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL ACUERDO POR EL QUE "SE APRUBA Y AUTORIZA LAS REFORMAS POR MODIFICACIÓN, ADICIÓN, ABROGACIÓN Y/O DEROGACIÓN DEL REGLAMENTO DE NOMENCLATURA DE VÍAS Y ESPACIOS ABIERTOS PÚBLICOS DEL MUNICIPIO DE JUÁREZ, N.L." QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Las modificaciones al presente reglamento entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
