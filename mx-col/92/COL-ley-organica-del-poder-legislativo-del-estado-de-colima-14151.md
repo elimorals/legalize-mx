@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2018-10-20"
+last_updated: "2018-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -933,6 +933,10 @@ Será aprobado por el Congreso, a propuesta de la Comisión de Gobierno y por ma
 
 Para ser Oficial Mayor se requiere: ser mexicano por nacimiento, mayor de 25 años, estar en pleno ejercicio de sus derechos, profesionista titulado, preferentemente Licenciado en Derecho y ser de reconocida capacidad y probidad en el ejercicio de su profesión.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Las faltas temporales hasta por treinta días de la persona titular de la Oficialía Mayor serán suplidas, con el carácter de Encargado del Despacho, por la persona que designe la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
+
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 63 Bis.
@@ -1664,3 +1668,9 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 556 POR EL QUE SE REFORMA EL ARTÍCULO 9 BIS; 12; 15; FRACCIONES XI Y XVII DEL ARTÍCULO 23; 24; FRACCIÓN II DEL 25; 30; FRACCIONES I Y XX DEL 42; FRACCIÓN XIII DEL 45; FRACCIÓN V DEL 50; 57; PÁRRAFO PRIMERO DEL 61; 80; FRACCIÓN VIII DEL 91; FRACCIÓN II DEL 95; PÁRRAFO PRIMERO DEL 99; PÁRRAFO TERCERO DEL 100; 101 Y 106; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 76; UN PÁRRAFO SEGUNDO Y LA FRACCIÓN VI AL ARTÍCULO 83, Y SE DEROGAN LOS ARTÍCULOS 16; 17; LA FRACCIÓN I DEL 77; 102, Y 103 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA; Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1°; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 14; LOS ARTÍCULOS 19; 34; FRACCIÓN III DEL 37; 46; FRACCIÓN XIV DEL 48; 49; FRACCIÓN III DEL 53; 54; 70; 83; 87; FRACCIÓN I DEL 87 BIS; FRACCIÓN V DEL 88; PÁRRAFO PRIMERO DEL 105; 109; 113; 173; 206; EL CAPÍTULO XXIII DENOMINADO DEL JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA QUEDAR "DEL JUICIO POLÍTICO"; 215; 242; 243, 244, 245; ASÍ MISMO SE ADICIONA EL ARTÍCULO 196 BIS; Y SE DEROGA EL ARTÍCULO 18; LA SECCIÓN A DEL CAPÍTULO XXIII QUE INTEGRAN LOS ARTÍCULOS 216, 217, 218, 219, 220, 221, 222 Y 223; LA SECCIÓN B DEL CAPÍTULO XXXIII QUE INTEGRAN LOS ARTÍCULOS 224, 225, 226 Y 227; LA SECCIÓN C DEL CAPÍTULO XXIII QUE INTEGRAN LOS ARTÍCULOS 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238 Y 239 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 07 POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 63 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor en el momento de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
