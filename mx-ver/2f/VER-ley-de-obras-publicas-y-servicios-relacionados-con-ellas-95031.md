@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-y-servicios-relacionados-con-ellas-95031"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-16"
-last_updated: "2018-08-23"
+last_updated: "2018-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 825 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 16 de abril de 2013.
 
@@ -97,75 +97,83 @@ X. Coordinación de Supervisión: Actividades consistentes en el establecimiento
 
 XI. Dependencias: Las Secretarías de Despacho, y la Dirección General de Comunicación Social, integrantes de la Administración Pública Centralizada del Estado de Veracruz de Ignacio de la Llave, así como sus órganos desconcentrados;
 
-XII. Entes Públicos: Los previstos en el artículo 1 del presente ordenamiento;
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XIII. Entidades: Los organismos descentralizados, las empresas de participación estatal, los fideicomisos, los consejos, las comisiones, los comités, las juntas y demás organismos auxiliares que integran la Administración Pública Paraestatal del Estado de Veracruz de Ignacio de la Llave;
+XII. Discapacidad: La deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social;
 
-XIV. Especificaciones Generales de Construcción: El conjunto de condiciones generales que los Entes Públicos tienen establecidas para la ejecución de las obras, incluyendo las que deben aplicarse para la realización de estudios, proyectos, ejecución, equipamiento, puesta en servicio, mantenimiento, supervisión y control que comprenden la forma de medición y base de pago de los conceptos de trabajo;
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-XV. Especificaciones Particulares de Construcción: El conjunto de condiciones particulares que modifican, complementan o sustituyen a las Especificaciones Generales de Construcción, cuando haya contradicción entre éstas, las especificaciones particulares prevalecerán;
+XIII. Discriminación: La distinción, exclusión o restricción por motivos de discapacidad o trastornos generalizados del desarrollo, que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
 
-XVI. Estimación: La valuación de los trabajos efectuados en periodo pactado aplicando los precios unitarios a las cantidades de los conceptos de los trabajos realizados. En contratos a precio alzado, es la valuación de los trabajos realizados en cada actividad de obra, conforme a la cédula de avance y al periodo del programa de ejecución;
+XIV. Entes Públicos: Los previstos en el artículo 1 del presente ordenamiento;
 
-XVII. Estudios Técnicos: Son aquellas investigaciones documentadas de carácter topográfico, hidráulico, hidrológico, geohidrológico, de mecánica de suelos, sismológico, batimétrico, fotogramétrico, impacto ambiental, impacto social, de impacto urbano, del medio ambiente, ecológico, sociológico, demográfico, urbanístico, arquitectónico, trabajos de investigación específica, interpretación y emisión de resultados, de agrología y de desarrollo pecuario, geología, geodesia, geotecnia, geofísica, geotermia, meteorología; así como los pertenecientes a la rama de gestión, incluyendo los económicos y de planeación de preinversión, factibilidad técnico-económica, ecológica o social, de afectación para indemnizaciones; de evaluación, adaptación, financieros, de desarrollo y restitución de la eficiencia de las instalaciones, catálogos de conceptos, precios unitarios, presupuestos de referencia, así como estudios de mercado, peritajes y avalúos;
+XV. Entidades: Los organismos descentralizados, las empresas de participación estatal, los fideicomisos, los consejos, las comisiones, los comités, las juntas y demás organismos auxiliares que integran la Administración Pública Paraestatal del Estado de Veracruz de Ignacio de la Llave;
 
-XVIII. Finiquito de Obra: Es el cierre cuantitativo de la obra sobre conceptos, cantidades y montos ejecutados y no ejecutados; se reflejan en él todas las estimaciones tramitadas, aditivas, deductivas, amortizaciones y ajustes que hayan existido;
+XVI. Especificaciones Generales de Construcción: El conjunto de condiciones generales que los Entes Públicos tienen establecidas para la ejecución de las obras, incluyendo las que deben aplicarse para la realización de estudios, proyectos, ejecución, equipamiento, puesta en servicio, mantenimiento, supervisión y control que comprenden la forma de medición y base de pago de los conceptos de trabajo;
 
-XIX. Gerencia de obra: Trabajos de enfoque integrador para alcanzar los objetivos y propósitos que para un proyecto tiene el Ente Público contratante, y que colateralmente incluyen la supervisión de obra y de estudios y proyectos, así como la ejecución de las acciones pertinentes para la realización oportuna de proyectos específicos;
+XVII. Especificaciones Particulares de Construcción: El conjunto de condiciones particulares que modifican, complementan o sustituyen a las Especificaciones Generales de Construcción, cuando haya contradicción entre éstas, las especificaciones particulares prevalecerán;
 
-XX. Ley: La Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave;
+XVIII. Estimación: La valuación de los trabajos efectuados en periodo pactado aplicando los precios unitarios a las cantidades de los conceptos de los trabajos realizados. En contratos a precio alzado, es la valuación de los trabajos realizados en cada actividad de obra, conforme a la cédula de avance y al periodo del programa de ejecución;
 
-XXI. Licitación Pública: Es el procedimiento formal y competitivo, mediante el cual se solicitan, reciben y evalúan ofertas para la ejecución de obras o servicios, adjudicando el contrato correspondiente al licitador que ofrezca las mejores condiciones técnicas, económicas y financieras para los Entes Públicos;
+XIX. Estudios Técnicos: Son aquellas investigaciones documentadas de carácter topográfico, hidráulico, hidrológico, geohidrológico, de mecánica de suelos, sismológico, batimétrico, fotogramétrico, impacto ambiental, impacto social, de impacto urbano, del medio ambiente, ecológico, sociológico, demográfico, urbanístico, arquitectónico, trabajos de investigación específica, interpretación y emisión de resultados, de agrología y de desarrollo pecuario, geología, geodesia, geotecnia, geofísica, geotermia, meteorología; así como los pertenecientes a la rama de gestión, incluyendo los económicos y de planeación de preinversión, factibilidad técnico-económica, ecológica o social, de afectación para indemnizaciones; de evaluación, adaptación, financieros, de desarrollo y restitución de la eficiencia de las instalaciones, catálogos de conceptos, precios unitarios, presupuestos de referencia, así como estudios de mercado, peritajes y avalúos;
 
-XXII. Licitación Pública Estatal: Es el procedimiento administrativo mediante el cual los Entes Públicos convocan y seleccionan a los contratistas con domicilio en el Estado para la ejecución de obras o servicios regulados por esta Ley;
+XX. Finiquito de Obra: Es el cierre cuantitativo de la obra sobre conceptos, cantidades y montos ejecutados y no ejecutados; se reflejan en él todas las estimaciones tramitadas, aditivas, deductivas, amortizaciones y ajustes que hayan existido;
 
-XXIII. Licitación Pública Nacional: Es el procedimiento administrativo mediante el cual los Entes Públicos convocan y seleccionan a los contratistas de nacionalidad mexicana para la ejecución de obras o servicios regulados por esta Ley;
+XXI. Gerencia de obra: Trabajos de enfoque integrador para alcanzar los objetivos y propósitos que para un proyecto tiene el Ente Público contratante, y que colateralmente incluyen la supervisión de obra y de estudios y proyectos, así como la ejecución de las acciones pertinentes para la realización oportuna de proyectos específicos;
 
-XXIV. Licitación Pública Internacional: Es el procedimiento administrativo mediante el cual los Entes Públicos convocan y seleccionan a los contratistas Nacionales o Extranjeros, cuando esto resulte obligatorio de los Tratados de los que el Estado Mexicano forme parte;
+XXII. Ley: La Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave;
 
-XXV. Invitación a Cuando Menos Tres Personas: Es el llamado a personas determinadas que reúnen ciertas condiciones, para atender requerimientos específicos en obra pública o servicio, adjudicando el contrato correspondiente al licitador que ofrezca las mejores condiciones técnicas, económicas y financieras para el Ente Público;
+XXIII. Licitación Pública: Es el procedimiento formal y competitivo, mediante el cual se solicitan, reciben y evalúan ofertas para la ejecución de obras o servicios, adjudicando el contrato correspondiente al licitador que ofrezca las mejores condiciones técnicas, económicas y financieras para los Entes Públicos;
 
-XXVI. Licitante: La persona física o moral que participe en cualquier procedimiento de licitación pública, o invitación a cuando menos tres personas, cuando es admitido como tal por cumplir con todos y cada uno de los requisitos establecidos en la presente Ley;
+XXIV. Licitación Pública Estatal: Es el procedimiento administrativo mediante el cual los Entes Públicos convocan y seleccionan a los contratistas con domicilio en el Estado para la ejecución de obras o servicios regulados por esta Ley;
 
-XXVII. MIPYMES: Micro, Pequeñas y Medianas Empresas;
+XXV. Licitación Pública Nacional: Es el procedimiento administrativo mediante el cual los Entes Públicos convocan y seleccionan a los contratistas de nacionalidad mexicana para la ejecución de obras o servicios regulados por esta Ley;
 
-XXVIII. Municipio: Cualquiera de los Ayuntamientos del Estado de Veracruz;
+XXVI. Licitación Pública Internacional: Es el procedimiento administrativo mediante el cual los Entes Públicos convocan y seleccionan a los contratistas Nacionales o Extranjeros, cuando esto resulte obligatorio de los Tratados de los que el Estado Mexicano forme parte;
 
-XXIX. Normas de Calidad: Conjunto de características o propiedades que mínimo deben de cumplir los materiales que intervienen en las obras públicas o servicios, para garantizar que éstos son los adecuados;
+XXVII. Invitación a Cuando Menos Tres Personas: Es el llamado a personas determinadas que reúnen ciertas condiciones, para atender requerimientos específicos en obra pública o servicio, adjudicando el contrato correspondiente al licitador que ofrezca las mejores condiciones técnicas, económicas y financieras para el Ente Público;
 
-XXX. Obra Multianual: Aquella que se realiza de conformidad con lo estipulado en el artículo 183 segundo y tercer párrafo del Código Financiero para el Estado;
+XXVIII. Licitante: La persona física o moral que participe en cualquier procedimiento de licitación pública, o invitación a cuando menos tres personas, cuando es admitido como tal por cumplir con todos y cada uno de los requisitos establecidos en la presente Ley;
 
-XXXI. Obra por Administración Directa: Es la obra ejecutada por el Ente Público por tener la capacidad técnica, administrativa y los elementos necesarios como son: personal, maquinaria y equipos propios;
+XXIX. MIPYMES: Micro, Pequeñas y Medianas Empresas;
 
-XXXII. Obra Pública: Los trabajos que estipula el artículo 3 apartado A de esta Ley;
+XXX. Municipio: Cualquiera de los Ayuntamientos del Estado de Veracruz;
 
-XXXIII. Órgano Interno de Control: Las Contralorías Internas de los Entes Públicos;
+XXXI. Normas de Calidad: Conjunto de características o propiedades que mínimo deben de cumplir los materiales que intervienen en las obras públicas o servicios, para garantizar que éstos son los adecuados;
 
-XXXIV. Padrón: El Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas del Gobierno del Estado de Veracruz de Ignacio de la Llave;
+XXXII. Obra Multianual: Aquella que se realiza de conformidad con lo estipulado en el artículo 183 segundo y tercer párrafo del Código Financiero para el Estado;
 
-XXXV. Particular: La persona física o moral, que participe con recursos propios, en el financiamiento de la inversión de obras públicas y de servicios relacionados con ellas;
+XXXIII. Obra por Administración Directa: Es la obra ejecutada por el Ente Público por tener la capacidad técnica, administrativa y los elementos necesarios como son: personal, maquinaria y equipos propios;
 
-XXXVI. Perito: La persona que cuenta con cédula profesional, en la materia de la presente Ley, y con experiencia acreditada;
+XXXIV. Obra Pública: Los trabajos que estipula el artículo 3 apartado A de esta Ley;
 
-XXXVII. Proyecto Arquitectónico: El que define la forma, estilo, distribución y diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros;
+XXXV. Órgano Interno de Control: Las Contralorías Internas de los Entes Públicos;
 
-XXXVIII. Proyecto de Ingeniería: Es el que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales aplicables y particulares que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
+XXXVI. Padrón: El Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas del Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-XXXIX. Proyecto Ejecutivo: El conjunto de planos y documentos que conforman los proyectos arquitectónico y de ingeniería de una obra, el catálogo de conceptos y el presupuesto, así como las descripciones e información suficiente para que ésta se pueda llevar a cabo;
+XXXVII. Particular: La persona física o moral, que participe con recursos propios, en el financiamiento de la inversión de obras públicas y de servicios relacionados con ellas;
 
-XL. Proyecto Integral: Es aquel en el cual el contratista se obliga a diseñar la obra y ejecutar los trabajos hasta su conclusión, incluyendo estudios técnicos, planos, proyecto ejecutivo y trámites de permisos y licencias; la obra civil, producción, fabricación, traslado, instalación, equipamiento, bienes muebles en su caso, construcción total de la obra, capacitación, pruebas e inicio de operación del bien construido, incluyendo, cuando se requiera, liberación de derecho de vía y transferencia de tecnología, en la modalidad de precio alzado o mixto;
+XXXVIII. Perito: La persona que cuenta con cédula profesional, en la materia de la presente Ley, y con experiencia acreditada;
 
-XLI. Reglamento: El Reglamento de esta Ley;
+XXXIX. Proyecto Arquitectónico: El que define la forma, estilo, distribución y diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros;
 
-XLII. Sefiplan: La Secretaría de Finanzas y Planeación;
+XL. Proyecto de Ingeniería: Es el que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales aplicables y particulares que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
 
-XLIII. Supervisión de estudios y proyectos: Verificación del cumplimiento de programas propuestos por los contratistas, control de calidad de ejecución de los trabajos, verificación de cumplimiento de esta Ley y de las disposiciones que de ella emanen, del contrato específico, su recepción, liquidación y finiquito;
+XLI. Proyecto Ejecutivo: El conjunto de planos y documentos que conforman los proyectos arquitectónico y de ingeniería de una obra, el catálogo de conceptos y el presupuesto, así como las descripciones e información suficiente para que ésta se pueda llevar a cabo;
 
-XLIV. Supervisión de obra: Revisión de planos, especificaciones y procedimientos de construcción; coordinación y dirección de obras, cuantificación o revisión de volumetría, verificación de programas propuestos por los contratistas, control de calidad de las obras incluyendo laboratorios de análisis y control de calidad, mecánica de suelos, resistencia de materiales, radiografías industriales, cuantificación de volúmenes ejecutados, revisión, conciliación y aprobación de números generadores y verificación del cumplimiento respecto a programas; verificación del cumplimiento de esta Ley y de las disposiciones que de ella emanen, así como del contrato de que se trate; recepción, liquidación y finiquito de la obra, e integración de grupos técnico-administrativos;
+XLII. Proyecto Integral: Es aquel en el cual el contratista se obliga a diseñar la obra y ejecutar los trabajos hasta su conclusión, incluyendo estudios técnicos, planos, proyecto ejecutivo y trámites de permisos y licencias; la obra civil, producción, fabricación, traslado, instalación, equipamiento, bienes muebles en su caso, construcción total de la obra, capacitación, pruebas e inicio de operación del bien construido, incluyendo, cuando se requiera, liberación de derecho de vía y transferencia de tecnología, en la modalidad de precio alzado o mixto;
 
-XLV. Supervisión Interna: Es la actividad que realiza el servidor público designado por la contratante, responsable de vigilar y controlar la ejecución de los trabajos hasta su entrega, cumpliendo las condiciones técnicas y económicas estipuladas en el contrato, sus anexos, además de las disposiciones legales aplicables; y
+XLIII. Reglamento: El Reglamento de esta Ley;
 
-XLVI. Supervisión Externa: Es la actividad que realiza un tercero contratado por el Ente Público, responsable de vigilar y controlar la ejecución de los trabajos hasta su entrega, cumpliendo las condiciones técnicas y económicas estipuladas en el contrato, sus anexos, además de las disposiciones legales aplicables, quien está obligado además, a rendir los informes correspondientes a la contratante y obtener de ésta las autorizaciones que sean necesarias.
+XLIV. Sefiplan: La Secretaría de Finanzas y Planeación;
+
+XLV. Supervisión de estudios y proyectos: Verificación del cumplimiento de programas propuestos por los contratistas, control de calidad de ejecución de los trabajos, verificación de cumplimiento de esta Ley y de las disposiciones que de ella emanen, del contrato específico, su recepción, liquidación y finiquito;
+
+XLVI. Supervisión de obra: Revisión de planos, especificaciones y procedimientos de construcción; coordinación y dirección de obras, cuantificación o revisión de volumetría, verificación de programas propuestos por los contratistas, control de calidad de las obras incluyendo laboratorios de análisis y control de calidad, mecánica de suelos, resistencia de materiales, radiografías industriales, cuantificación de volúmenes ejecutados, revisión, conciliación y aprobación de números generadores y verificación del cumplimiento respecto a programas; verificación del cumplimiento de esta Ley y de las disposiciones que de ella emanen, así como del contrato de que se trate; recepción, liquidación y finiquito de la obra, e integración de grupos técnico-administrativos;
+
+XLVII. Supervisión Interna: Es la actividad que realiza el servidor público designado por la contratante, responsable de vigilar y controlar la ejecución de los trabajos hasta su entrega, cumpliendo las condiciones técnicas y económicas estipuladas en el contrato, sus anexos, además de las disposiciones legales aplicables; y
+
+XLVIII. Supervisión Externa: Es la actividad que realiza un tercero contratado por el Ente Público, responsable de vigilar y controlar la ejecución de los trabajos hasta su entrega, cumpliendo las condiciones técnicas y económicas estipuladas en el contrato, sus anexos, además de las disposiciones legales aplicables, quien está obligado además, a rendir los informes correspondientes a la contratante y obtener de ésta las autorizaciones que sean necesarias.
 
 > <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
 
@@ -315,11 +323,13 @@ El gasto y el registro de las obras públicas y los servicios relacionados con e
 
 Cuando por las condiciones especiales de las obras públicas se requiera la intervención de dos o más entes públicos, quedará a cargo de cada uno la responsabilidad sobre la ejecución de la parte de la obra que les corresponda, sin perjuicio de la que le pudiera resultar al encargado de la planeación y programación correspondiente. Ninguna obra pública conjunta podrá ejecutarse sin que previamente se celebre el convenio respectivo.
 
-> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 12.
 
-Los Entes Públicos que realicen obras públicas y servicios relacionados con ellas, sea por contrato o por administración directa, así como los contratistas con quienes aquellos contraten, observarán las disposiciones que en materia de asentamientos humanos, desarrollo urbano, medio ambiente y construcción rijan en el ámbito federal, estatal y municipal.
+Los Entes Públicos que realicen obras públicas y servicios relacionados con ellas, sea por contrato o por administración directa, así como los contratistas con quienes aquellos contraten, observarán las disposiciones que en materia de asentamientos humanos, desarrollo urbano, accesibilidad para personas con discapacidad, medio ambiente y construcción rijan en el ámbito federal, estatal y municipal.
+
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
 
 Los Entes Públicos, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes, cuando sea el caso, los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, o en su caso, los derechos otorgados por quien pueda disponer legalmente de los mismos. En la convocatoria a la licitación o en la invitación a cuando menos tres personas se precisarán en su caso, aquéllos trámites que corresponderá realizar al contratista.
 
@@ -343,11 +353,17 @@ II. Cumplir con las previsiones contenidas en los programas operativos anuales q
 
 III. Ceñirse a los objetivos, metas y previsiones establecidos en sus respectivos presupuestos de egresos;
 
-IV. Acatar las disposiciones legales y reglamentarias aplicables; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+IV. Acatar las disposiciones legales y reglamentarias aplicables;
 
-V. Adecuarse, en su caso, a los procesos de certificación de calidad reconocidos internacionalmente, con sus respectivos manuales y normas.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+V. Adecuarse, en su caso, a los procesos de certificación de calidad reconocidos internacionalmente, con sus respectivos manuales y normas; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VI. Contar con una perspectiva de derechos humanos, promoviendo la no discriminación y la accesibilidad de las personas con discapacidad.
 
 ###### Artículo 15.
 
@@ -371,9 +387,9 @@ VII. La adquisición de áreas y predios, previa consulta con la Secretaría de 
 
 VIII. Cuando las condiciones ambientales se pudieran deteriorar, los proyectos deberán incluir lo necesario para que se preserven o restauren los ecosistemas. En tal supuesto se dará intervención a la Secretaría de Medio Ambiente; y
 
-> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-IX. Las instalaciones para que las personas con capacidades diferentes y adultos mayores puedan acceder y transitar en los inmuebles que sean construidos, las que, según la naturaleza de la obra, podrán consistir en rampas, puertas, elevadores, baños, pasamanos, asideras, estacionamiento vehicular y otras instalaciones semejantes a las anteriores para desplazarse y realizar sus trámites o servicios de un modo seguro y autónomo.
+IX. Garantizar la accesibilidad y movilidad de las personas con discapacidad.
 
 ###### Artículo 16.
 
@@ -665,7 +681,13 @@ I. Se encuentren sujetos a un procedimiento de concurso mercantil; o
 
 II. Incurran en cualquier acto u omisión que les sea imputable y que dañe los intereses del Estado;
 
-III. Las demás que señale el Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+III. Ejecute obras que no contemplen la accesibilidad y movilidad de las personas con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+IV. Las demás que señale el Reglamento.
 
 Cuando desaparezcan las causas que hubiesen motivado la suspensión del Registro, el contratista lo acreditará ante la Secretaría de Finanzas y Planeación, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir todos sus efectos legales.
 
@@ -1231,9 +1253,11 @@ El ente público, por lo menos tres días hábiles antes de que venza el plazo p
 
 En la fecha señalada el ente público, bajo su responsabilidad, recibirá los trabajos y levantará el acta correspondiente con o sin la comparecencia de los representantes a que se refieren los párrafos anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 68.
 
-Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en la misma, de los vicios ocultos, y de cualquier otra responsabilidad en que hubiere incurrido en los términos señalados en el contrato respectivo.
+Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en la misma, de los vicios ocultos, la falta de espacios destinados para la accesibilidad y movilidad de las personas con discapacidad y de cualquier otra responsabilidad en que hubiere incurrido en los términos señalados en el contrato respectivo.
 
 Los trabajos se garantizarán durante un plazo de doce meses para el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los trabajos, los contratistas, deberán constituir fianza por el equivalente al diez por ciento del monto total ejercido de los trabajos, o en su caso, podrá extenderse por igual plazo la vigencia de la fianza de cumplimiento para garantizar la calidad de la obra con respecto a los vicios ocultos.
 
@@ -1414,3 +1438,13 @@ G.O. 23 DE AGOSTO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 790 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El Ejecutivo contará con un plazo de sesenta días a partir de la entrada en vigor del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley que Regula las Construcciones Públicas y privadas del Estado de Veracruz de Ignacio de la Llave y demás disposiciones.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
