@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transporte-y-movilidad-sustentable-para-el-estado-de-127
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-10"
-last_updated: "2017-12-26"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 10 de noviembre de 2017.
 
@@ -129,7 +129,9 @@ XXIX. Revocación: Acto administrativo por virtud del cual la autoridad competen
 
 XXX. Ruta: Recorrido que siguen las unidades del servicio de transporte, que han sido autorizadas por la autoridad competente para comunicar un punto de origen con uno de destino, apegándose y cumpliendo el itinerario autorizado;
 
-XXXI. Secretaría: Secretaría de Infraestructura y Transporte;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXXI. Secretaría: Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
 XXXII. Servicio de transporte: El que se presta a través de la concesión, el permiso, autorización, convenio o contrato correspondiente;
 
@@ -138,6 +140,10 @@ XXXIII. Sitio: Espacio físico ubicado en propiedad privada, o en la vía públi
 XXXIV. Tarifa: La contraprestación que pagan los usuarios en efectivo, o a través del medio electrónico autorizado, por la prestación del servicio de transporte público;
 
 XXXV. Unidad: Todo vehículo autorizado para prestar el servicio de transporte en los términos de esta Ley;
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Por Año o fecha de fabricación se entenderá el modelo del vehículo señalado en la factura de compra del mismo;
 
 XXXVI. Usuario: Persona que utiliza el servicio público de transporte en cualquiera de sus modalidades, así como del equipamiento auxiliar y de las vialidades;
 
@@ -251,9 +257,9 @@ VII. En coordinación con la entidad federativa colindante que corresponda, en r
 
 VIII. Instrumentar en coordinación con otras dependencias, programas y campañas permanentes de educación vial y cortesía urbana, encaminados a mejorar las condiciones bajo las cuales se presta el servicio de transporte en el Estado, así como la prevención de accidentes a través de la formación de una conciencia social de los problemas viales y una cultura urbana en la población;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-IX. En coordinación con la Secretaría del Medio Ambiente y Desarrollo Urbano; en el ámbito de sus respectivas atribuciones, promover, impulsar, y fomentar el uso de vehículos limpios, no motorizados y eficientes, sistemas con tecnologías sustentables, así como el uso de otros medios de transporte amigables con el medio ambiente, utilizando los avances científicos y tecnológicos;
+IX. En coordinación con la Secretaría de Medio Ambiente; en el ámbito de sus respectivas atribuciones, promover, impulsar, y fomentar el uso de vehículos limpios, no motorizados y eficientes, sistemas con tecnologías sustentables, así como el uso de otros medios de transporte amigables con el medio ambiente, utilizando los avances científicos y tecnológicos;
 
 X. Delegar funciones y atribuciones a la Subsecretaría y delegaciones regionales en los términos de la presente Ley, reglamentos y demás disposiciones aplicables;
 
@@ -473,7 +479,9 @@ El servicio de transporte de carga es el destinado al traslado de bienes, mercan
 
 I. Muebles y mudanzas: servicio prestado en vehículos con capacidad de tres mil kilogramos en adelante; ubicados en un lugar fijo denominado base de servicio; acondicionados para trasladar enseres domésticos, industriales o de oficina;
 
-II. Distribuidores de materiales de construcción: servicio que se presta por los distribuidores de materiales de construcción en vehículos acondicionados para tal fin, con capacidad de hasta tres mil kilogramos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+II. Distribuidores de materiales de construcción: servicio que se presta por los distribuidores de materiales de construcción en vehículos destinados para tal fin, con capacidad de hasta cuatro mil kilogramos;
 
 III. Grúas y arrastre de vehículos: servicio de transporte en vehículos equipados con elevador y plataforma de carga, o equipados con mecanismo de remolque, para el transporte o arrastre de otros vehículos;
 
@@ -511,7 +519,9 @@ II. Centro de Control: Elemento principal del Sistema de Despacho, desde donde s
 
 III. Corredor de transporte masivo: Vía pública, o conjunto de ellas, que funge como infraestructura base para la operación del servicio público de transporte masivo y que cuenta, según el caso, con carriles exclusivos, reservados o preferenciales para la operación de los vehículos que sirven las rutas troncales, alimentadoras, integradas y de aportación del transporte metropolitano;
 
-IV. Organismo Regulador: El Organismo de la Administración Pública Estatal, que tiene a su cargo ejercer u otorgar, registrar, regular, vigilar y sancionar todo lo relativo al sistema integrado de transporte, a la prestación del Servicio Público de Transporte Masivo de Pasajeros, de los servicios de pago electrónico, de los centros de control, de los centros de transferencia modal y de los servicios auxiliares y conexos a los mismos que operan en las vías públicas de competencia estatal y las autorizaciones, convenios y contratos de cualquier tipo que sean relativos a ello;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+IV. Organismo Regulador: El Organismo de la Administración Pública Estatal, que tiene a su cargo ejercer u otorgar, registrar, regular, vigilar y sancionar todo lo relativo al sistema integrado de transporte, a la prestación del Servicio Público de Transporte Masivo de Pasajeros, de los servicios de pago electrónico, de los centros de control, de los centros de transferencia modal y de los servicios auxiliares y conexos a los mismos que operan en las vías públicas y las autorizaciones, convenios y contratos de cualquier tipo que sean relativos a ello;
 
 V. Ruta Alimentadora: Ruta proveniente de la periferia de un centro poblacional, así como de las zonas aledañas o de influencia de una ruta troncal, encargadas de captar y distribuir la demanda de usuarios hasta las terminales de transferencia, la cual está integrada operativa y tarifariamente y que se sirve de autobuses convencionales o de cualquier otra clase de vehículos de transporte público autorizado para su operación;
 
@@ -853,9 +863,11 @@ Los municipios que conforman las zonas metropolitanas del Estado y éste, en coo
 
 ### CAPÍTULO III. DEL SERVICIO DE TRANSPORTE COLECTIVO DE PASAJEROS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 52.
 
-El servicio público de transporte colectivo está sujeto a itinerario fijo, y se presta con vehículos con un límite máximo de antigüedad de doce años, contados a partir de la fecha de fabricación, con capacidad de veintisiete a setenta y cuatro asientos, en donde se podrá admitir hasta el veinte por ciento de pasajeros adicionales al número de asientos con que cuenta la unidad respectivamente, se sujetará a las disposiciones contenidas en la presente Ley y las normas reglamentarias que de ésta emanen, así como a los lineamientos, parámetros de operación y normas técnicas que al efecto expidan las autoridades competentes.
+El servicio público de transporte colectivo está sujeto a itinerario fijo, y se presta con vehículos con un límite máximo de antigüedad de doce años, contados a partir de la fecha de fabricación, con capacidad que no podrá ser inferior a veintidós pasajeros sentados, en donde se podrá admitir hasta el veinte por ciento de pasajeros adicionales al número de asientos con que cuenta la unidad respectivamente, se sujetará a las disposiciones contenidas en la presente Ley y las normas reglamentarias que de ésta emanen, así como a los lineamientos, parámetros de operación y normas técnicas que al efecto expidan las autoridades competentes.
 
 Los vehículos que tengan más de doce años de antigüedad, contados a partir de su fabricación, y menos de quince podrán continuar prestando el servicio, siempre y cuando les sea otorgada autorización para ello por parte de la Secretaría.
 
@@ -883,7 +895,9 @@ V. Despachos, son la salida programada de los vehículos, durante el horario del
 
 El servicio público de transporte colectivo podrá prestarse con vehículos que cumplan con las características técnicas y de operación que al efecto determine la autoridad competente, atendiendo a la modalidad y clase de servicio, en todo caso sus unidades deberán llevar letreros en lugar visible para los usuarios indicando la ruta; durante los recorridos nocturnos deberán iluminarse de tal manera que permitan su visibilidad.
 
-Queda prohibido convertir o adaptar vehículos de carga para la prestación de este tipo de servicio, así como utilizar vehículos con menos de veintitrés asientos o longitud menor a seis metros, salvo en los casos en los que la autoridad competente emita un dictamen basándose en lo previsto en esta Ley y en las disposiciones reglamentarias que de la misma emanen, en el que justifiquen la necesidad de modificación conforme a la demanda de usuarios y condición geográfica que dificulte la prestación del servicio con vehículos de mayor dimensión y capacidad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Queda prohibido convertir o adaptar vehículos de carga para la prestación de este tipo de servicio, así como utilizar vehículos con menos de veintidós asientos o longitud menor a seis metros, salvo en los casos en los que la autoridad competente emita un dictamen basándose en lo previsto en esta Ley y en las disposiciones reglamentarias que de la misma emanen, en el que justifiquen la necesidad de modificación conforme a la demanda de usuarios y condición geográfica que dificulte la prestación del servicio con vehículos de mayor dimensión y capacidad.
 
 #### SECCIÓN I. DEL SERVICIO DE TRANSPORTE COLECTIVO URBANO DE PASAJEROS
 
@@ -903,9 +917,11 @@ El servicio de transporte suburbano, es el que se presta de las comunidades rura
 
 Las rutas del transporte colectivo suburbano de pasajeros cuyo destino sea la cabecera municipal, deberán iniciar o terminar sus recorridos en las estaciones de transferencia que les corresponda conforme a la ubicación de estas, pudiendo realizar ascensos y descensos de pasajeros en puntos intermedios.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 58.
 
-El servicio de transporte colectivo suburbano de pasajeros, se prestará en vehículos que en ningún caso puedan ser de capacidad inferior a treinta pasajeros, sus unidades deberán llevar letreros en lugar visible para los usuarios indicando la ruta; durante los recorridos nocturnos deberán iluminarse de tal manera que permitan su visibilidad.
+El servicio de transporte colectivo suburbano de pasajeros, se prestará en vehículos que en ningún caso puedan ser de capacidad inferior a veintidós pasajeros sentados, sus unidades deberán llevar letreros en lugar visible para los usuarios indicando la ruta; durante los recorridos nocturnos deberán iluminarse de tal manera que permitan su visibilidad.
 
 ###### ARTÍCULO 59.
 
@@ -913,9 +929,11 @@ La tarifa de este tipo de servicio será fijada en los términos de la presente 
 
 #### SECCIÓN III. DEL SERVICIO DE TRANSPORTE COLECTIVO INTERMUNICIPAL DE PASAJEROS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 60.
 
-El servicio de transporte colectivo intermunicipal de pasajeros, es el que se presta dentro de dos o más municipios, en vehículos que en ningún caso puedan ser de capacidad inferior a treinta pasajeros.
+El servicio de transporte colectivo intermunicipal de pasajeros, es el que se presta dentro de dos o más municipios, en vehículos que en ningún caso puedan ser de capacidad inferior a veintidós pasajeros sentados.
 
 ###### ARTÍCULO 61.
 
@@ -1035,15 +1053,17 @@ El permiso para prestar el servicio de transporte especializado escolar podrá o
 
 En el caso de que sea la institución educativa la que preste directamente el servicio, no será necesario que porten láminas de circulación para el servicio público de transporte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 80.
 
-Las personas físicas o morales interesadas en obtener este tipo de permisos, además de cumplir con los requisitos señalados en el artículo 116 del presente ordenamiento, deberán cumplir con los siguientes requisitos:
+Las personas físicas o morales interesadas en obtener permiso del servicio de transporte especializado escolar, además de cumplir con los requisitos señalados en el artículo 136 del presente ordenamiento, deberán cumplir con los siguientes requisitos:
 
 I. Constancia de la institución o plantel educativo en el que prestará el servicio, o escrito firmado por los padres de familia donde se establezca que contratará los servicios del interesado en obtener el permiso;
 
 II. Aprobar la revisión físico mecánica de la unidad que prestará el servicio;
 
-III. Escrito de manifestación de responsabilidad, comprometiéndose y obligándose por cualquier afectación física o material de los usuarios, debidamente notariado;
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2018)
 
 IV. Póliza de seguro vigente o fondo de contingencia que cubra la responsabilidad de daños a usuarios y terceros;
 
@@ -1093,19 +1113,23 @@ Los usuarios de este servicio no podrán ir de pie y cada uno dispondrá de su p
 
 El servicio de transporte especializado de personal, se presta a empleados de una empresa o institución, ya sea por el mismo patrón o por un tercero contratado para tal efecto, mediante el pago de una remuneración por períodos determinados, consistiendo en el traslado de lugares predeterminados al centro de trabajo y su retorno al lugar de origen, realizándose en vehículos con una antigüedad máxima de quince años, contados a partir de la fecha de fabricación del mismo, con capacidad de cinco a cuarenta y cinco pasajeros, quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuenta la unidad.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 84.
 
-Los patrones que presten el servicio de transporte a su personal como una prestación de carácter laboral, deberán obtener un permiso otorgado por la Secretaría en los términos de lo dispuesto para los del servicio de transporte especializado, contenidos en el Capítulo III del Título Tercero de la presente Ley. En este caso, no se expedirán láminas de circulación para la prestación de servicio público de transporte.
+Los patrones que con sus propios vehículos presten el servicio de transporte a su personal como una prestación de carácter laboral, deberán obtener un permiso otorgado por la Secretaría en los términos de lo dispuesto en el Capítulo III del Título Tercero de la presente Ley. En este caso, no se expedirán láminas de circulación para la prestación de servicio público de transporte.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 85.
 
-Las personas físicas o morales interesadas en obtener este tipo de permisos, además de cumplir con los requisitos señalados en el artículo 116 del presente ordenamiento, deberán entregar lo siguiente:
+Las personas físicas o morales interesadas en obtener el permiso de servicio especializado de transporte de personal, además de cumplir con los requisitos señalados en el artículo 136 del presente ordenamiento, deberán entregar lo siguiente:
 
 I. Copia del contrato o convenio celebrado para prestar este servicio con la empresa, organismo o institución de que se trate o en su caso, la orden de compra o servicio expedido por la empresa, organismo o institución de que se trate;
 
 II. Aprobar la revisión físico mecánica de la unidad que prestará el servicio;
 
-III. Escrito debidamente notariado de manifestación de responsabilidad, comprometiéndose y obligándose por cualquier afectación física o material de los usuarios;
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2018)
 
 IV. Póliza de seguro o fondo de contingencia vigente que cubra la responsabilidad de daños a los usuarios y terceros;
 
@@ -1301,13 +1325,17 @@ I. Ofrecer o contratar sus servicios a través de medios distintos a los previst
 
 II. Permitir que el servicio de transporte entre particulares sea realizado por conductores que no cumplan con los requisitos establecidos por la ley.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 104.
 
-Los conductores, bajo ninguna circunstancia, podrán recibir pagos en efectivo u ofrecer el servicio directamente en la vía pública sin la previa contratación del servicio mediante plataforma tecnológica, ni podrán hacer sitio, matriz, base o establecimientos similares.
+Los conductores, bajo ninguna circunstancia, podrán ofrecer el servicio directamente en la vía pública sin la previa contratación del servicio mediante plataforma tecnológica, ni podrán hacer sitio, matriz, base o establecimientos similares.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 105.
 
-El pago de este servicio deberá realizarse por cualquier sistema de pago electrónico, y estará sujeto a los requisitos y condiciones que establecen la Ley y los reglamentos.
+El pago de este servicio podrá realizarse en efectivo o por cualquier sistema de pago electrónico, y estará sujeto a los requisitos y condiciones que establecen la Ley y los reglamentos.
 
 ###### ARTÍCULO 106.
 
@@ -1367,7 +1395,7 @@ II. De Carga:
 
 2. Materiales para la construcción;
 
-3. Distribuidores de materiales de construcción.
+3. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2018)
 
 ###### ARTÍCULO 110.
 
@@ -1423,7 +1451,9 @@ I. Presentar solicitud por escrito a la autoridad competente, especificando la m
 
 II. Ser de nacionalidad mexicana;
 
-III. Ser originario o vecino de la entidad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+III. Ser preferentemente originario o vecino de la entidad;
 
 IV. Tener su domicilio fiscal dentro del territorio del Estado;
 
@@ -1515,15 +1545,21 @@ XIV. Las demás que se establezcan en el reglamento y disposiciones aplicables.
 
 Los títulos de concesión serán entregados a su titular, quien al recibirlo y firmarlo en señal de aceptación, contrae los derechos y obligaciones que dichos instrumentos conllevan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 121.
 
-El titular de una concesión, 60 días previos al término de ésta, podrá solicitar su prórroga o renovación en los términos y condiciones que se establezcan para la misma, si acredita ante la autoridad que la emitió que cumplió con todos y cada uno de los requisitos de esta Ley.
+El titular de una concesión, dentro del cuarto mes anterior al vencimiento de la concesión, podrá solicitar su prórroga o renovación en los términos y condiciones que se establezcan para la misma, si acredita ante la autoridad que la emitió que cumplió con todos y cada uno de los requisitos de esta Ley.
 
-Las concesiones, se entenderán refrendados, renovados o revalidados con la presentación del pago de los derechos correspondientes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Las concesiones, se entenderán refrendadas, renovadas o revalidadas con la presentación del pago de los derechos correspondientes.
 
 La autoridad competente contará con un plazo de tres meses a partir del refrendo, renovación o revalidación correspondiente para verificar el cumplimiento de los requisitos establecidos en las disposiciones aplicables para su otorgamiento. En caso de incumplimiento, se otorgará un plazo de cinco días hábiles para subsanarlo, salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo para algún supuesto en particular.
 
 Transcurrido el plazo señalado en el párrafo anterior sin que se haya subsanado el incumplimiento, procederá la cancelación de la concesión correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 Para el refrendo, renovación o revalidación de las concesiones, los interesados no estarán obligados a proporcionar copias adicionales de documentos entregados previamente a la autoridad ante la que se realicen.
 
@@ -1543,7 +1579,9 @@ La solicitud de prórroga deberá presentarse por escrito dentro del cuarto mes 
 
 La falta de notificación no afectará el ejercicio de las facultades de las autoridades, respecto a la extinción y en su caso, adjudicación de la concesión en términos de esta Ley, a fin de no lesionar los derechos de los usuarios.
 
-Si la solicitud es presentada en tiempo y forma, la autoridad tendrá como máximo un plazo de cuatro meses a partir de la fecha de presentación de la solicitud para resolver sobre su procedencia; si transcurrido dicho plazo no se otorga respuesta, se entenderá que la prórroga es favorable sin necesidad de certificación y el concesionario deberá presentar dentro de los quince días siguientes los comprobantes de pago de derechos y los documentos e información necesaria, para que dentro de los treinta días posteriores le sea otorgado el documento correspondiente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Si la solicitud es presentada en tiempo y forma, la autoridad tendrá como máximo un plazo de tres meses a partir de la fecha de presentación de la solicitud para resolver sobre su procedencia; si transcurrido dicho plazo no se otorga respuesta, se entenderá que la prórroga es favorable sin necesidad de certificación y el concesionario deberá presentar dentro de los quince días siguientes los comprobantes de pago de derechos y los documentos e información necesaria, para que dentro de los treinta días posteriores le sea otorgado el documento correspondiente.
 
 ###### ARTÍCULO 123.
 
@@ -1661,6 +1699,10 @@ IX. Los concursantes que resultaren favorecidos con el otorgamiento de la conces
 
 X. Una vez cubiertos los derechos fiscales a que se refiere la fracción anterior, se emitirá en un plazo no mayor a treinta días naturales, el título de concesión respectivo.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Las autoridades municipales deberán remitir a la Secretaría, para efectos de realizar la asignación de placas de unidades adheridas a una nueva concesión, la documentación que acredite el cumplimiento del procedimiento que para el otorgamiento de concesiones establece el presente artículo.
+
 ###### ARTÍCULO 128.
 
 Las concesiones de transporte en cualquiera de las modalidades que señala la presente Ley, podrán ser otorgadas sin necesidad de someterse al procedimiento de licitación que establece este ordenamiento, en los siguientes supuestos:
@@ -1751,9 +1793,13 @@ Se considera que existe competencia ruinosa, cuando se sobrepasen rutas en itine
 
 ### CAPÍTULO III. DE LOS PERMISOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 134.
 
-Los permisos para la prestación de los servicios de transporte especializado se otorgarán por parte de la Secretaría sin sujetarse a licitación y tendrán vigencia de un año, excepto los otorgados para los servicios especializados de personal, escolar y de personas con discapacidad que tendrán una vigencia de cinco años, los cuáles se podrán prorrogar por el mismo plazo, siempre y cuando subsistan las condiciones que dieron origen a su otorgamiento.
+Los servicios de transporte de pasajeros y de carga en cualquiera de sus modalidades que señalan los artículos 21 y 22 de la presente Ley y que no se encuentren contemplados por los artículos 109 y 110 del presente ordenamiento, requerirán de la expedición de un permiso por parte de la Secretaría sin sujetarse a licitación y tendrán vigencia de un año, excepto los otorgados para los servicios especializados de personal, escolar y de personas con discapacidad que tendrán una vigencia de cinco años. Todo tipo de permiso se podrá prorrogar por un plazo igual al que fue conferido, siempre y cuando subsistan las condiciones que dieron origen a su otorgamiento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 Los permisos, se entenderán refrendados, renovados o revalidados con la presentación del pago de los derechos correspondientes.
 
@@ -1761,7 +1807,11 @@ La autoridad competente contará con un plazo de tres meses a partir del refrend
 
 Transcurrido el plazo señalado en el párrafo anterior sin que se haya subsanado el incumplimiento, procederá la cancelación del permiso correspondiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 Para el refrendo, renovación o revalidación del permiso, los interesados no estarán obligados a proporcionar copias adicionales de documentos entregados previamente a la autoridad ante la que se realicen.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 Los permisos no podrán otorgarse a las personas señaladas en el artículo 125 de la presente Ley.
 
@@ -1851,9 +1901,11 @@ Las disposiciones contenidas en este capítulo no obligan a la Secretaría a oto
 
 Las autorizaciones complementarias no confieren la calidad de concesionario, ni crean para su titular más derechos que los consignados en ellas.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 147.
 
-Previo cumplimiento de las disposiciones previstas en esta Ley y demás ordenamientos aplicables, la Secretaría podrá otorgar autorizaciones complementarias a las concesiones o permisos relativos al servicio de transporte que hayan sido emitidas por las autoridades competentes de las entidades federativas colindantes con el Estado de Coahuila de Zaragoza, cuando su titular pretenda circular en vías públicas de competencia estatal o internarse a sus centros de población. Al efecto, la Secretaría elaborará el estudio respectivo y emitirá el dictamen técnico correspondiente.
+Previo cumplimiento de las disposiciones previstas en esta Ley y demás ordenamientos aplicables, la Secretaría podrá otorgar autorizaciones complementarias a las concesiones o permisos relativos al servicio público de transporte que hayan sido emitidas por las autoridades competentes de las entidades federativas colindantes con el Estado de Coahuila de Zaragoza, cuando su titular pretenda circular dentro de sus vías públicas o internarse a sus centros de población para prestar el servicio de transporte. Al efecto, la Secretaría elaborará el estudio respectivo y emitirá el dictamen técnico correspondiente.
 
 ###### ARTÍCULO 148.
 
@@ -2012,6 +2064,14 @@ En el caso de que no sea posible notificar al interesado, se procederá a su not
 La autoridad competente que realice el procedimiento de revocación o suspensión, está facultada para abstenerse de revocar las concesiones o permisos, por una sola vez al titular, cuando lo estime pertinente y se justifique de manera fehaciente que se trata de hechos que no revisten gravedad, no constituyen delito y no se afecta la prestación del servicio.
 
 En este caso, la autoridad competente tomando en cuenta los antecedentes y condiciones del concesionario o permisionario, el daño causado y las circunstancias de ejecución de la conducta infractora, aplicará una suspensión de la concesión por un término de tres meses a un año.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+La autoridad competente que determine la revocación de una concesión del servicio de transporte público de pasajeros que no haya sido explotada por su titular en cualquiera de sus modalidades, podrá, sin sujetarse al procedimiento de licitación que señala la presente ley y cuando la necesidad del servicio lo requiera, adjudicar la concesión que fue revocada a otra persona física o moral que preste el servicio en la misma ruta o modalidad y que cuente con la capacidad técnica, administrativa y financiera para prestar el servicio. En caso de que sean varios los concesionarios que cumplan con los requisitos para otorgar la concesión que fue revocada, la autoridad deberá realizar un proceso de insaculación entre éstos, para designar al concesionario que se haga acreedor a la misma.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+En el caso del párrafo anterior, el nuevo concesionario tendrá derecho de explotar la concesión por el resto del plazo de vigencia de la concesión que no haya sido utilizada y tendrá, en su caso, derecho a que se le pueda prorrogar siempre y cuando cumpla con lo establecido por el artículo 122 de este ordenamiento legal.
 
 ## TÍTULO CUARTO. DE LA OPERACIÓN DE LOS SERVICIOS PÚBLICOS DE TRANSPORTE
 
@@ -2779,11 +2839,11 @@ Deberán respetarse por los ciclistas y por los conductores de vehículos, todos
 
 Las autoridades en el ámbito de sus competencias, determinarán normas para la construcción de ciclovías, para la circulación de bicicletas y bicicletas asistidas, de manera compatible con los vehículos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 224.
 
-La Secretaría conjuntamente con la Secretaría de Medio Ambiente y Desarrollo Urbano, y con asesoría del Consejo, elaborarán e implementarán un programa permanente para el fomento y promoción del uso de la bicicleta.
+La Secretaría conjuntamente con la Secretaría de Medio Ambiente, y con asesoría del Consejo, elaborarán e implementarán un programa permanente para el fomento y promoción del uso de la bicicleta.
 
 El Programa tiene por objeto establecer los mecanismos, estrategias, instrumentos, instancias y acciones que corresponda realizar al Poder Ejecutivo para el cumplimiento de las disposiciones de esta Ley, de conformidad con las políticas y directrices fijadas en el Plan Estatal de Desarrollo.
 
@@ -3155,9 +3215,9 @@ Los propietarios de vehículos prestadores del servicio de transporte público d
 
 La autoridad competente, podrá concesionar mediante el procedimiento de licitación correspondiente, a particulares, personas físicas o morales que cuenten con la capacidad técnica, administrativa y financiera, el establecimiento y operación de los centros de verificación en aquellos municipios en que se estime conveniente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-La operación de los centros de verificación a que se refiere el presente artículo, deberá sujetarse a las disposiciones y normas técnicas que para tal efecto emita la Secretaría de Medio Ambiente y Desarrollo Urbano, así como a las demás previstas por otras disposiciones aplicables.
+La operación de los centros de verificación a que se refiere el presente artículo, deberá sujetarse a las disposiciones y normas técnicas que para tal efecto emita la Secretaría de Medio Ambiente, así como a las demás previstas por otras disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LOS ESTACIONAMIENTOS PÚBLICOS Y CICLOESTACIONAMIENTOS
 
@@ -3401,7 +3461,9 @@ X. Las demás que le confieran la presente Ley, reglamentos y otras disposicione
 
 El Consejo se integrará en forma permanente por:
 
-I. Un Presidente, que será el o la titular de la Secretaría de Infraestructura y Transporte;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+I. Un Presidente, que será el o la titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
 II. Un Secretario Técnico, que será designado por el Presidente del Consejo;
 
@@ -3411,9 +3473,9 @@ a) Un diputado, electo de entre los miembros del Congreso del Estado;
 
 b) El o la titular de la Secretaría de Gobierno;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-c) El o la titular de la Secretaría del Medio Ambiente y Desarrollo Urbano;
+c) El o la titular de la Secretaría de Medio Ambiente;
 
 d) Un representante de cada municipio, cuando los asuntos a discutir en el Consejo incidan en el ámbito territorial de éstos;
 
@@ -3501,7 +3563,9 @@ III. Los vocales que los municipios consideren necesarios para la integración d
 
 Se establece el Registro Público de Transporte del Estado de Coahuila, que estará a cargo de la Secretaría, que tiene por objeto controlar y ordenar el servicio público de transporte mediante la inscripción de los actos relacionados con la prestación del servicio público de transporte; la constitución, transmisión, gravamen y extinción de concesiones; el otorgamiento y extinción de permisos, así como los demás datos relativos a los concesionarios, permisionarios, así como a vehículos destinados al servicio público y operadores.
 
-El o la Titular del Registro Público de Transporte será designado por el o la titular de la Secretaría de Infraestructura y Transporte, contará con el personal que para el efecto autorice el presupuesto de egresos correspondiente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+El o la Titular del Registro Público de Transporte será designado por el o la titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, contará con el personal que para el efecto autorice el presupuesto de egresos correspondiente.
 
 ###### ARTÍCULO 301.
 
@@ -3541,7 +3605,9 @@ IX. Cumplir y hacer cumplir las Leyes, reglamentos, decretos y demás disposicio
 
 X. Organizar, dirigir y administrar la oficina del Registro, así como de las mesas receptoras, dictando las medidas necesarias para su eficaz funcionamiento;
 
-XI. Proponer al o el titular de la Secretaría de Infraestructura y Transporte por conducto del Subsecretario la implementación de programas, proyectos y sistemas tendientes a eficientar el funcionamiento del Registro;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XI. Proponer a la o el titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad por conducto del Subsecretario la implementación de programas, proyectos y sistemas tendientes a eficientar el funcionamiento del Registro;
 
 XII. Supervisar que los encargados de las mesas receptoras cumplan con sus obligaciones;
 
@@ -3987,9 +4053,11 @@ Se hará acreedor a multa de trescientos a quinientas veces el valor diario de l
 
 ### CAPÍTULO ÚNICO. DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 341.
 
-Las resoluciones y acuerdos administrativos, así como las sanciones por infracciones a esta Ley y reglamentos que dicten las autoridades competentes, que los interesados estimen ilegales, podrán ser recurridos mediante el recurso administrativo previsto en la Ley de Procedimiento Administrativo del Estado de Coahuila de Zaragoza.
+Las resoluciones y acuerdos administrativos, así como las sanciones por infracciones a esta Ley y reglamentos que dicten las autoridades competentes, que los interesados estimen ilegales, podrán ser recurridos mediante el recurso administrativo previsto en la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza o cuando proceda, intentar la vía jurisdiccional conforme a la Ley del Procedimiento Contencioso Administrativo para el Estado de Coahuila de Zaragoza.
 
 ## TÍTULO DÉCIMO PRIMERO. DEL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS
 
@@ -4362,3 +4430,13 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 97.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Los permisionarios y concesionarios del transporte público de pasajeros o de carga, contarán con un plazo que no excederá del primero de enero del año dos mil veinte, para cumplir con la antigüedad que establece la presente Ley para los vehículos afectos a la prestación del servicio, siempre que la unidad respectiva cuente con las condiciones físico mecánicas y de seguridad que la modalidad del servicio requiere para su adecuado funcionamiento y garantía de la seguridad de los usuarios
