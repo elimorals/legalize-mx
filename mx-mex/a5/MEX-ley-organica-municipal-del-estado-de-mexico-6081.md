@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2018-09-19"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1247,13 +1247,9 @@ Para el cumplimiento de sus funciones, el presidente municipal se auxiliará de 
 
 El presidente asumirá la representación jurídica del ayuntamiento y de las dependencias de la Administración Pública Municipal, en los litigios en que sean parte, así como la gestión de los negocios de la hacienda municipal; facultándolo para otorgar y revocar poderes generales y especiales a terceros o mediante oficio para la debida representación jurídica correspondiente pudiendo convenir en los mismos.
 
-> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2018)</small>
 
-El presidente y los representantes legales asignados, serán responsables conforme a la Ley de Responsabilidades Administrativas del Estado de México y Municipios y las leyes aplicables, por la falta de seguimiento y atención de los litigios laborales instaurados en contra del Ayuntamiento.
-
-> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
-
-En caso de incumplimiento de las fracciones IV Bis, IV Ter, V Bis y VI Ter del artículo 48 de todo o parte el Presidente será responsable del pago de los créditos laborales laudados en contra del ayuntamiento durante su gestión y en caso de incumplimiento será responsable con ayuntamientos posteriores.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 51.
 
@@ -1313,7 +1309,7 @@ I Bis. Supervisar a los representantes legales asignados por el Ayuntamiento, en
 
 I Ter. Informar al presidente, en caso de cualquier irregularidad en la atención y/o defensa de los litigios laborales seguidos ante las autoridades laborales competentes.
 
-En caso de incumplimiento a las responsabilidades establecidas en las fracciones I Bis y I Ter, de este artículo, será responsable el Síndico con el Presidente y el Tesorero del pago y de los conflictos laborales que se registren bajo su gestión;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2018)</small>
 
 II. Revisar y firmar los cortes de caja de la tesorería municipal;
 
@@ -4870,3 +4866,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Los procedimientos laborales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+G.G. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 11.- POR EL QUE SE DEROGAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, A LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
