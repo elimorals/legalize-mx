@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-615-organica-del-poder-judicial-del-estado-de-126226
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-08"
-last_updated: "2018-10-03"
+last_updated: "2018-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 615 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 8 de febrero de 2018.
 
@@ -105,7 +105,9 @@ II. El Consejo de la Judicatura del Poder Judicial, mismo que se apoyará en:
 
 a) La Visitaduría Judicial;
 
-b) El Instituto de Capacitación del Poder Judicial del Estado;
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+b) La Escuela Judicial del Estado;
 
 c) La Dirección General de Administración;
 
@@ -195,7 +197,9 @@ IV. Ordenar los engroses de los fallos aprobados, cuando sean designados para ta
 
 V. Someter a la consideración de sus respectivos órganos, cuando proceda, la acumulación de las impugnaciones, así como la procedencia de la conexidad, en los términos de las leyes aplicables;
 
-VI. Participar en los programas de actualización del Instituto de Capacitación del Poder Judicial del Estado;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VI. Participar en los programas de actualización de la Escuela Judicial del Estado;
 
 VII. Participar, previo consentimiento expreso, en los programas de visitas a los Tribunales, Juzgados y demás órganos del Poder Judicial, implementados por el Consejo de la Judicatura;
 
@@ -613,7 +617,9 @@ II. Poseer, al día del nombramiento, título de licenciado en Derecho o su equi
 
 III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-IV. Acreditar el curso implementado por el Instituto de Capacitación del Poder Judicial del Estado, en las materias respectivas;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+IV. Acreditar el curso implementado por la Escuela Judicial del Estado, en las materias respectivas;
 
 V. Participar en el examen de oposición que se convoque al efecto y aprobarlo en los términos que señale la convocatoria respectiva; y
 
@@ -735,7 +741,9 @@ II. Poseer, al día del nombramiento, título de licenciado en Derecho o su equi
 
 III. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación o abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-IV. Tener conocimientos sobre la materia de que se trate, lo que se acreditará con la constancia expedida por el Instituto de Capacitación del Poder Judicial del Estado.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+IV. Tener conocimientos sobre la materia de que se trate, lo que se acreditará con la constancia expedida por la Escuela Judicial del Estado.
 
 ###### Artículo 46.
 
@@ -1453,7 +1461,9 @@ XXV. Conocer y resolver, con excepción de los magistrados, sobre los casos de r
 
 XXVI. Calificar los impedimentos de los consejeros;
 
-XXVII. Desarrollar, por conducto del Instituto de Capacitación del Poder Judicial del Estado, tareas de formación, actualización, investigación, capacitación, especialización e impartición de educación superior a los miembros del Poder Judicial, así como a los interesados en ingresar a la carrera judicial. El Consejo establecerá, en el reglamento correspondiente, los mecanismos de aprobación de los planes y programas de estudio, además de los requisitos de ingreso y promoción;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
+XXVII. Desarrollar, por conducto de la Escuela Judicial del Estado, tareas de formación, actualización, investigación, capacitación, especialización e impartición de educación superior a los miembros del Poder Judicial, así como a los interesados en ingresar a la carrera judicial. El Consejo establecerá, en el reglamento correspondiente, los mecanismos de aprobación de los planes y programas de estudio, además de los requisitos de ingreso y promoción;
 
 XXVIII. Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial, así como regular, recopilar, documentar, seleccionar y difundir para conocimiento público, con apego a las normas en materia de transparencia y acceso a la información pública y datos personales, la documentación generada por dicho Poder;
 
@@ -1575,7 +1585,9 @@ Los titulares de dichos órganos deberán contar con título profesional expedid
 
 Los titulares de los órganos, con excepción de la Visitaduría Judicial, serán nombrados y removidos libremente por el Consejo de la Judicatura.
 
-#### SECCIÓN TERCERA. Del Instituto de Capacitación del Poder Judicial del Estado
+#### SECCIÓN TERCERA. De la Escuela Judicial del Estado
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 109.
 
@@ -1637,17 +1649,21 @@ Una copia del acta levantada por el visitador será entregada al titular del ór
 
 Los visitadores podrán auxiliarse de los sistemas o programas informáticos debidamente establecidos por el Consejo de la Judicatura.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
 #### SECCIÓN CUARTA. De la Administración del Consejo
 
 ###### Artículo 117.
 
-El Instituto de Capacitación del Poder Judicial del Estado es un órgano auxiliar del Consejo de la Judicatura, encargado de la capacitación, formación y actualización de los servidores públicos, así como de la investigación y difusión de temas afines a la función jurisdiccional y, en general, de la ciencia del derecho.
+La Escuela Judicial del Estado es un órgano auxiliar del Consejo de la Judicatura, que tiene por objeto la capacitación, formación, actualización y profesionalización de los Servidores Públicos del Poder Judicial, así como: investigar, preservar, transmitir y extender el conocimiento de todos aquellos preceptos y actuaciones que conforman la estructura doctrinaria, teórica y práctica de la función jurisdiccional; La Escuela se regirá por los principios de excelencia, objetividad, imparcialidad y profesionalismo.
 
-El Instituto se regirá por los principios de excelencia, objetividad, imparcialidad y profesionalismo.
+La Escuela Judicial del Estado, podrá celebrar los convenios necesarios para adquirir reconocimientos de validez oficial que le permitan impartir cursos con grados académicos tanto al personal de la institución como al público en general.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 118.
 
-El Instituto estará conformado por:
+La Escuela Judicial del Estado estará conformada por:
 
 I. El director;
 
@@ -1659,9 +1675,11 @@ IV. El jefe de la Unidad de Investigación y Difusión; y
 
 V. Las demás unidades de apoyo que se requieran para el buen desempeño de sus atribuciones y que permita el presupuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 119.
 
-El director del Instituto será nombrado por el Consejo de la Judicatura y deberá reunir el perfil académico, técnico y profesional para desempeñar el cargo.
+El director de la Escuela Judicial del Estado será nombrado por el Consejo de la Judicatura y deberá reunir el perfil académico, técnico y profesional para desempeñar el cargo.
 
 Para ser titular de alguna de las unidades señaladas en el artículo anterior se deberá contar con título profesional y cédula profesional expedidos por autoridad o institución legalmente facultada para ello, relativo a la función a desempeñar, así como cubrir los requisitos señalados en el Reglamento atinente.
 
@@ -2684,3 +2702,17 @@ G.O. 3 DE OCTUBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 785 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE EN MATERIA DE CAPACITACIÓN JUDICIAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
