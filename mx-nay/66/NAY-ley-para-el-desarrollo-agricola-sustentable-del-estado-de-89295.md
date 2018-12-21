@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-agricola-sustentable-del-estado-de-89295
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2016-11-08"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 11 de agosto de 2012.
 
@@ -343,7 +343,11 @@ V.- Capacitar de manera permanente a los productores que necesiten asistencia t�
 
 VI.- Orientar recursos financieros y humanos para impulsar proyectos productivos municipales en el sector agrícola, y
 
-VII.- Las demás que resulten del presente ordenamiento o de otras disposiciones relacionadas con el desarrollo agrícola sustentable.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VII.- Coadyuvar con la Secretaría en la integración del registro de compradores agrícolas del municipio de conformidad con el artículo 40 fracción VII de la presente ley, y
+
+VIII.- Las demás que resulten del presente ordenamiento o de otras disposiciones relacionadas con el desarrollo agrícola sustentable.
 
 ### Capítulo III. De la organización de productores agrícolas
 
@@ -604,6 +608,18 @@ IX.- Promover ante las organizaciones de productores la contratación de almacen
 X.- Vigilar y promover el cumplimiento de los derechos y obligaciones por parte de los productores en los contratos y/o convenios que se celebren con las empresas comercializadoras, agroindustriales o de otro tipo, a fin de que se genere la confianza en los inversionistas que invierten en el sector agrícola en el Estado de Nayarit.
 
 Para efectos de la fracción VII del presente artículo, la Secretaría podrá imponer alguna de las sanciones que señala esta Ley para el caso de que los comercializadores no cumplan con las obligaciones pactadas con los productores agrícolas, sin perjuicio de las que se hagan acreedores conforme al Código Penal de la entidad por el delito de fraude específico.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Los compradores o toda aquella persona que realice operaciones de comercio con productores agrícolas deberán estar inscritos en el registro de compradores agrícolas a que se refiere el artículo 12, fracción VII de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+La Secretaría publicará en la página de internet la lista de compradores agrícolas con registro.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+Dicha lista será actualizada mensualmente y deberá mantenerse visible en las oficinas de las autoridades municipales.
 
 ###### Artículo 41.
 
@@ -1284,3 +1300,11 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT”.]
 
 Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Dentro de los seis meses siguientes a la entrada en vigor del presente decreto, los Ayuntamientos en coordinación con la Secretaría elaborarán el primer registro de compradores agrícolas el cual será publicado en las páginas electrónicas oficiales, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
