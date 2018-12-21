@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2018-01-08"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,23 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2019 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
 PODER LEGISLATIVO DEL ESTADO
 
-DECRETO NUMERO 96
+DECRETO NÚMERO 96
 
-LA H. LII LEGISLATURA DEL ESTADO DE MEXICO
+LA H. LII LEGISLATURA DEL ESTADO DE MÉXICO
 
 D E C R E T A:
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
 ## TITULO PRIMERO. DEL PODER LEGISLATIVO
 
@@ -349,9 +351,7 @@ Corresponde a la Legislatura interpretar y declarar si una resolución suya es l
 
 > <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2011)</small>
 
-###### Artículo 38 Bis.
-
-Una vez que hayan sido publicadas las leyes y disposiciones de carácter general en el Periódico Oficial "Gaceta del Gobierno", la Legislatura dispondrá su traducción al braille y a las lenguas originarias del Estado de México a saber, otomí, mazahua, matlazinca, nahua y tlahuica y proveerá lo necesario para su difusión.
+Artículo 38 BIS.- Una vez que hayan sido publicadas las leyes y disposiciones de carácter general en el Periódico Oficial "Gaceta del Gobierno", la Legislatura dispondrá su traducción al braille y a las lenguas originarias del Estado de México a saber, otomí, mazahua, matlazinca, nahua y tlahuica y proveerá lo necesario para su difusión.
 
 ### CAPITULO V. DE LA ASAMBLEA
 
@@ -571,21 +571,15 @@ En caso de que no se pueda utilizar el sistema electrónico, la asistencia, la v
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-###### Artículo 67 Bis.
-
-Un Grupo Parlamentario es el conjunto de diputados integrados según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en la Legislatura.
+Artículo 67 BIS.- Un Grupo Parlamentario es el conjunto de diputados integrados según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en la Legislatura.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-###### Artículo 67 Bis
-
-1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
+Artículo 67 BIS-1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
 
 (ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
 
-###### Artículo 67 Bis
-
-2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
+Artículo 67 BIS-2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
 
 a) Acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y lista de sus integrantes;
 
@@ -593,51 +587,35 @@ b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido 
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-###### Artículo 67 Bis
-
-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
+Artículo 67 BIS-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-###### Artículo 67 Bis
-
-4.- El coordinador propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+Artículo 67 BIS-4.- El coordinador propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-###### Artículo 67 Bis
-
-5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
+Artículo 67 BIS-5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-###### Artículo 67 Bis
-
-6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
+Artículo 67 BIS-6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-###### Artículo 67 Bis
-
-7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Coordinación Política dispondrá el presupuesto para cada Grupo Parlamentario.
+Artículo 67 BIS-7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Coordinación Política dispondrá el presupuesto para cada Grupo Parlamentario.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-###### Artículo 67 Bis
-
-8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
+Artículo 67 BIS-8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
 
 > <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
-###### Artículo 67 Bis
-
-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y al Órgano Superior de Fiscalización.
+Artículo 67 BIS-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y al Órgano Superior de Fiscalización.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-###### Artículo 67 Bis
-
-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
+Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
@@ -815,9 +793,7 @@ XIX.- Las demás que le confieran la ley, el reglamento o la Asamblea.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
-###### Artículo 62 Bis.
-
-La Conferencia para la Dirección y Programación de los Trabajos Legislativos se integrará con los miembros de la Junta de Coordinación Política y el Presidente y un Secretario de la Directiva, con la finalidad de desarrollar ordenadamente el trabajo de la Legislatura.
+Artículo 62 BIS.- La Conferencia para la Dirección y Programación de los Trabajos Legislativos se integrará con los miembros de la Junta de Coordinación Política y el Presidente y un Secretario de la Directiva, con la finalidad de desarrollar ordenadamente el trabajo de la Legislatura.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -855,9 +831,7 @@ La Junta de Coordinación Política se reunirá por lo menos una vez al mes para
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-###### Artículo 63 Bis.
-
-El Presidente de la Junta de Coordinación Política, designará un secretario técnico que tendrá las atribuciones siguientes:
+Artículo 63 BIS.- El Presidente de la Junta de Coordinación Política, designará un secretario técnico que tendrá las atribuciones siguientes:
 
 I. Asistir a las reuniones de la Junta de Coordinación Política;
 
@@ -939,9 +913,7 @@ XVI. Las demás que le confieran la ley, otras disposiciones legales, la Asamble
 
 > <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2008)</small>
 
-###### Artículo 65 Bis.
-
-Son atribuciones de los Vicepresidentes de la Junta de Coordinación Política:
+Artículo 65 BIS.- Son atribuciones de los Vicepresidentes de la Junta de Coordinación Política:
 
 I. Sustituir al Presidente en sus faltas temporales;
 
@@ -1112,6 +1084,10 @@ Para el cumplimiento de esta función el pleno de cada comisión legislativa pod
 ###### Artículo 72 Bis.
 
 Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Periodo Ordinario de cada Legislatura, observarán para su conducción las reglas aplicables a la Legislatura en Pleno, deberán reunirse en sesión plenaria por lo menos una vez al mes siempre y cuando tengan encomendadas iniciativas o asuntos y entregarán a la Directiva y Junta de Coordinación Política un informe trimestral de sus actividades realizadas.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2018)</small>
+
+Las Presidencias de las Comisiones o Comités deberán publicar los documentos básicos que generen, tales como son: Listas de Asistencia; Actas de Sesiones; Estatus de los asuntos turnados a la Comisión o Comité, ordenados cronológicamente; el sentido de los dictámenes, siempre y cuando hayan concluido su trámite, y demás documentos que tengan el carácter de público, conforme al Reglamento del Poder Legislativo del Estado de México, relacionados con el trabajo legislativo de estos órganos en la Gaceta Parlamentaria y Página Electrónica del Poder Legislativo del Estado de México, para lo cual contarán con el apoyo de la Secretaría de Asuntos Parlamentarios y de la Dirección General de Comunicación Social y de la Unidad de Transparencia de la Legislatura.
 
 > <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
 
@@ -1445,17 +1421,19 @@ Asimismo, podrá disponer la creación de otras que sean necesarias.
 
 > <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
+Artículo 94 BIS.- El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
+
+> <small>(ADICIONADO, G.G. 2 DE FEBRERO DE 2010)</small>
+
+Artículo 94 TER.- La Legislatura contará con un Comité de Información, que será presidido por el Presidente de la Junta de Coordinación Política o por quien él designe, y se integrará de acuerdo a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
+
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
+
 ###### Artículo 94 Bis.
 
 El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
 
 > <small>(ADICIONADO, G.G. 2 DE FEBRERO DE 2010)</small>
-
-###### Artículo 94 Ter.
-
-La Legislatura contará con un Comité de Información, que será presidido por el Presidente de la Junta de Coordinación Política o por quien él designe, y se integrará de acuerdo a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
-
-> <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
 
 ###### Artículo 95.
 
@@ -2213,8 +2191,16 @@ CUARTO.- El Poder Legislativo proveerá lo necesario para la sustanciación de l
 
 G.G. 8 DE ENERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 274.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 274.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 13.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 72 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. Las iniciativas o asuntos que han sido turnados a las Comisiones y Comités Legislativos antes de la entrada en vigor del presente Decreto, y que no han sido dictaminadas, podrán estar sujetas a lo señalado en la presente reforma.
