@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2018-10-19"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -4071,9 +4071,37 @@ La aplicación de las sanciones corresponderá a los jueces municipales, y sólo
 
 Si el infractor es jornalero, obrero o trabajador, la multa no podrá exceder al importe de su jornal o salario de un día.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 402.
 
-Si la sanción es una multa y el infractor carece de recursos para cubrirla, se podrá conmutar por arresto hasta por treinta y seis horas, a juicio de la autoridad que la impone.
+Si la sanción es una multa y el infractor carece de recursos para cubrirla, se podrá conmutar por trabajo a favor de la comunidad, pero si el infractor no pagare la multa y se negare a realizar el trabajo a favor de la comunidad, se conmutará con arresto hasta por treinta y seis horas, a juicio de la autoridad que la impone.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+En el caso de que las sanciones impuestas fueran menores de 30 días de salario mínimo, y si se acreditare de manera fehaciente la identidad y domicilio del infractor, la autoridad le informará la posibilidad de realizar trabajo a favor de la comunidad a efecto de cubrir la multa que se le hubiese impuesto, excepto en los casos de reincidencia. La aceptación o negativa de conmutación de la sanción por trabajo a favor de la comunidad deberá estar firmada por el infractor.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+El trabajo a favor de la comunidad se desarrollará por un lapso equivalente a las horas de arresto que correspondan a la infracción que se hubiera cometido, procurando que no se lleven a cabo en el horario laboral del infractor. Mientras que la cancelación de la sanción de que se trate, solo se realizará hasta la ejecución de las mismas.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 402 bis. Para efectos del artículo anterior, se consideran actividades de trabajo a favor de la comunidad:
+
+I. Limpieza, pintura o restauración de centros públicos educativo, de salud o de servicios;
+
+II. Limpieza, pintura o restauración de los bienes dañados por el infractor o semejantes a los mismos;
+
+III. Realización de obras de ornato en lugares de uso común;
+
+IV. Realización de obras de señalización, limpia o reforestación en lugares de uso común;
+
+V. Impartición de pláticas a vecinos o educandos de la comunidad en que hubiera cometido la infracción, relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación del infractor.
+
+El juez o autoridad municipal competente, valorando las circunstancias personales del infractor, podrá acordar la suspensión de la sanción impuesta y señalar los días, horas y lugares en que se llevarán a cabo las actividades de trabajo a favor de la comunidad y, sólo hasta la ejecución de las mismas, cancelará la sanción de que se trate.
+
+En caso de que el infractor no cumpliera con la actividad del trabajo a favor de la comunidad a que se obligó en los términos de este artículo, deberá cubrir la multa en su totalidad.
 
 ###### ARTÍCULO 403.
 
@@ -4599,8 +4627,16 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 19 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 74.- SE REFORMAN LOS ARTÍCULOS 102, FRACCIÓN V, NUMERALES 6 Y 7; 104, APARTADO E, FRACCIONES II Y III; 112, FRACCIÓN II; 129 FRACCIONES VII Y X, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 112 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 74.- SE REFORMAN LOS ARTÍCULOS 102, FRACCIÓN V, NUMERALES 6 Y 7; 104, APARTADO E, FRACCIONES II Y III; 112, FRACCIÓN II; 129 FRACCIONES VII Y X, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 112 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 109.- SE REFORMA EL ARTÍCULO 402 Y SE LE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO; Y SE ADICIONA EL ARTÍCULO 402 BIS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
