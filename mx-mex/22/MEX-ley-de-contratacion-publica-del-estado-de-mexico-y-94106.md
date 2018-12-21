@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-contratacion-publica-del-estado-de-mexico-y-94106"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2017-12-15"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 3 de mayo de 2013.
 
@@ -951,6 +951,12 @@ Lo anterior, sin perjuicio de las penas convencionales pactadas en los contratos
 
 Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
 
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2018)</small>
+
+Artículo 88 BIS.- Todo servidor público deberá de abstenerse de establecer cualquier comunicación no documentada con proveedores de bienes o servicios del sector público.
+
+Para evitar la violación a este artículo, las comunicaciones podrán documentarse mediante correo electrónico oficial, videoconferencia, oficio o cualquier otro medio que deje constancia fehaciente de los intercambios de información con proveedores. En caso de que algún servidor público hubiese tenido comunicación previa con proveedores por razón de amistad, negocios o cualquier otra causa, deberá informarlo al órgano de control correspondiente y excusarse de participar en los procedimientos de contratación respectivos.
+
 ###### Artículo 89.
 
 Las dependencias, entidades, ayuntamientos y tribunales administrativos estarán obligados a promover la transparencia, la modernización y simplificación administrativa de los procedimientos que lleven a cabo en la adquisición, arrendamiento y contratación de servicios, así como la protección de datos personales que se encuentren en su posesión, en términos de la normatividad de la materia.
@@ -1102,3 +1108,11 @@ G.G. 15 DE DICIEMBRE DE 2017.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2018.
+
+G.G. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 11.- POR EL QUE SE DEROGAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, A LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
