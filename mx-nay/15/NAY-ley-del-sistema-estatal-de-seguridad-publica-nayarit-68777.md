@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-estatal-de-seguridad-publica-nayarit-68777"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-23"
-last_updated: "2016-11-08"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 23 de mayo de 2009.
 
@@ -227,7 +227,9 @@ VI.- Un Representante de la Secretaria de la Defensa Nacional;
 
 VII.- Un representante de la Secretaria de Marina;
 
-VIII.- Un representante de la Procuraduría General de la República;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VIII.- Un representante de la Fiscalía General de la Republica;
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -307,9 +309,11 @@ Los integrantes del Consejo tendrán derecho a formular propuestas de acuerdos t
 
 ### CAPITULO III. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 14.
 
-El Secretariado Ejecutivo es el órgano operativo del Sistema y gozará de autonomía técnica, de gestión y presupuestal. Contará con los Centros Estatales de Información, de Prevención del Delito y Participación Ciudadana. El Gobernador del Estado expedirá el Reglamento del Secretariado, que establecerá las atribuciones y articulación de estos Centros.
+El Secretariado Ejecutivo es el órgano operativo del Sistema y gozará de autonomía técnica, de gestión y presupuestal. Contará con los Centros Estatales de Información, de Prevención del Delito y Participación Ciudadana, así como de Control de Confianza y Evaluación del Desempeño y de la Certificación. El Gobernador del Estado expedirá el Reglamento del Secretariado, que establecerá las atribuciones y articulación de estos Centros.
 
 El Secretario Ejecutivo y los titulares de los Centros serán nombrados y removidos libremente por el Presidente del Consejo Estatal.
 
@@ -1491,9 +1495,11 @@ Los certificados que emitan los Centros de Evaluación y Control de Confianza de
 
 Cuando en los procesos de certificación a cargo de los Centros de Evaluación y Control de Confianza de las Instituciones de Seguridad Pública intervengan Instituciones privadas, éstas deberán contar con la acreditación vigente del Centro Nacional de Certificación y Acreditación. En caso contrario, el proceso carecerá de validez.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 107.
 
-El Centro Estatal de Control de Confianza y Evaluación del Desempeño, dependerá directamente del Gobernador del Estado y tendrá a su cargo la aplicación, calificación y valoración de los procesos de evaluación y ejercerá las facultades que determinen las normas aplicables.
+El Centro Estatal de Control de Confianza y Evaluación del Desempeño, dependerá directamente del Secretariado Ejecutivo y tendrá a su cargo la aplicación, calificación y valoración de los procesos de evaluación y ejercerá las facultades que determinen las normas aplicables.
 
 ###### Artículo 108.
 
@@ -1565,7 +1571,9 @@ VI.- Evaluación Socioeconómica y de Entorno Social;
 
 VII.- Evaluación del desempeño y de conocimientos;
 
-VIII.- Las que determine el Gobernador, y demás necesarias para lograr los objetivos del centro.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+
+VIII.- Las que determine el Secretariado Ejecutivo, y las demás que se consideren necesarias para lograr los objetivos el Centro.
 
 ###### Artículo 113.
 
@@ -2058,3 +2066,15 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Dentro de los noventa días hábiles a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones normativas y presupuestales que se requieran para el cambio de adscripción del Centro Estatal de Control de Confianza y Evaluación del Desempeño.
+
+TERCERO. Los recursos humanos, materiales, técnicos y financieros, con los que actualmente cuenta el Centro, no se verán afectados por el cambio de adscripción al Sistema Estatal de Seguridad Pública.
+
+CUARTO. El personal adscrito al Centro Estatal de Control de Confianza y Evaluación del Desempeño, que habrán de asignarse al Sistema Estatal de Seguridad Pública, no resultarán afectados en sus derechos laborales.
