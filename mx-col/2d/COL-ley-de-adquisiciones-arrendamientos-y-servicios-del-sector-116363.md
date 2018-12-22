@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1163
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-10"
-last_updated: "2016-10-22"
+last_updated: "2018-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento Número 2, del Periódico Oficial del Estado de Colima, el sábado 10 de septiembre de 2016.
 
@@ -131,15 +129,15 @@ XVII. Licitación pública: el procedimiento administrativo mediante el cual se 
 
 XVIII. Licitante: la persona que participe en cualquier procedimiento de licitación pública o bien de invitación restringida;
 
-XIX Método de evaluación de puntos y porcentajes: sistema que utiliza criterios ponderados para determinar qué propuesta, en una evaluación simultánea, presenta la mejor combinación de calidad y precio, que garantice el mayor valor por el dinero;
+XIX. Método de evaluación de puntos y porcentajes: sistema que utiliza criterios ponderados para determinar qué propuesta, en una evaluación simultánea, presenta la mejor combinación de calidad y precio, que garantice el mayor valor por el dinero;
 
-XX Método de evaluación binario: sistema mediante el cual se evalúa si las propuestas cumplen o no con los requisitos solicitados por el área convocante y posteriormente, se adjudica un pedido o contrato a quien cumpliendo dichos requisitos, oferte el precio más bajo;
+XX. Método de evaluación binario: sistema mediante el cual se evalúa si las propuestas cumplen o no con los requisitos solicitados por el área convocante y posteriormente, se adjudica un pedido o contrato a quien cumpliendo dichos requisitos, oferte el precio más bajo;
 
 XXI. Ofertas subsecuentes de descuentos: modalidad utilizada en las licitaciones públicas, en la que los licitantes, al presentar sus propuestas, tienen la posibilidad de que, con posterioridad a la presentación y apertura de su propuesta económica, realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
 
 XXII. Órganos Internos de Control: las contralorías u órganos de control, evaluación, auditoría y fiscalización interna de los entes gubernamentales, cualquiera que sea la denominación que adopten;
 
-XXIII. Periódico Oficial: el Periódico Oficial “El Estado de Colima” editado de forma impresa y electrónica;
+XXIII. Periódico Oficial: el Periódico Oficial "El Estado de Colima" editado de forma impresa y electrónica;
 
 XXIV. Precio conveniente: es aquel que se determina a partir de obtener el promedio de los precios preponderantes que resulten de las proposiciones aceptadas técnicamente en la licitación, y a éste se le resta el porcentaje que determine la dependencia o entidad en sus políticas, bases y lineamientos;
 
@@ -153,7 +151,7 @@ XXVIII. Programa Estatal de Adquisiciones, Arrendamientos y Servicios del Sector
 
 XXIX Proveedor: toda persona que suministre mercancías, materias primas y demás bienes muebles, proporcione muebles en arrendamiento o preste servicios al Estado;
 
-XXX Registro de Estudios: el registro electrónico y físico de los estudios, distintos a los estudios de mercado, derivados de los procesos de adquisiciones, arrendamientos de bienes muebles y prestación de servicios que cada ente gubernamental a que se refiere el artículo 1 deberá integrar, administrar y mantener actualizado;
+XXX. Registro de Estudios: el registro electrónico y físico de los estudios, distintos a los estudios de mercado, derivados de los procesos de adquisiciones, arrendamientos de bienes muebles y prestación de servicios que cada ente gubernamental a que se refiere el artículo 1 deberá integrar, administrar y mantener actualizado;
 
 XXXI. Reglamento de esta Ley: el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Colima, que expedirán el Poder Ejecutivo del Estado y los municipios, respectivamente, correspondiente a su propio ámbito de competencia y con apego a las bases previstas por esta Ley;
 
@@ -237,7 +235,7 @@ VIII. La prestación de servicios de personas físicas, excepto la contratación
 
 IX. La contratación de consultorías, asesorías, estudios e investigaciones; y
 
-X En general, las adquisiciones, arrendamientos y servicios de cualquier naturaleza cuya prestación genere una obligación de pago para los entes gubernamentales, salvo que la contratación se encuentre regulada en forma específica por otras disposiciones legales.
+X. En general, las adquisiciones, arrendamientos y servicios de cualquier naturaleza cuya prestación genere una obligación de pago para los entes gubernamentales, salvo que la contratación se encuentre regulada en forma específica por otras disposiciones legales.
 
 ###### Artículo 11.
 
@@ -315,7 +313,7 @@ VIII. Los requerimientos de mantenimiento de los bienes muebles a su cargo;
 
 IX. En las adquisiciones, arrendamientos y servicios, cuya vigencia rebase un ejercicio presupuestario, los entes gubernamentales deberán determinar tanto el presupuesto total como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento, se encuentren vigentes, y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores;
 
-X Los convenios marco que se utilizan para la adquisición de bienes o servicios de uso constante, frecuente o intensivo en el año de ejercicio; y
+X. Los convenios marco que se utilizan para la adquisición de bienes o servicios de uso constante, frecuente o intensivo en el año de ejercicio; y
 
 XI. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de las adquisiciones, arrendamientos o servicios.
 
@@ -411,7 +409,13 @@ IX. Las demás que establezca el Reglamento de esta Ley.
 
 Integración de los comités de adquisiciones
 
-1. Los comités a que se refiere el artículo anterior estarán integrados por los servidores públicos que determinen los titulares de los entes gubernamentales respectivos. Se podrá invitar a que formen parte de ellos, con derecho a voz y voto, a representantes de las Cámaras Nacional de Comercio, Servicios y Turismo, de la Industria de la Transformación, de la Cámara Mexicana de la Industria de la Construcción y de la Confederación Patronal de la República Mexicana y de aquellas que se juzgue conveniente participar por el giro, en su caso. El Manual de cada Comité de Adquisiciones regulará su organización y su funcionamiento interior.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2018)</small>
+
+1. Los Comités a que se refiere el artículo anterior estarán integrados por los servidores públicos que determinen los titulares de los entes gubernamentales respectivos, y por representantes de la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2018)</small>
+
+2. Para la formación de los Comités de Adquisiciones, las dependencias gubernamentales emitirán una convocatoria anual, abierta a organizaciones civiles y cámaras empresariales con registro legal. La convocatoria contemplará no menos de siete días para la conformación de los comités, y cada entidad, determinará en dicha convocatoria, el número máximo de participantes, que no podrá ser menor a tres.
 
 ###### Artículo 24.
 
@@ -489,7 +493,7 @@ Medios electrónicos para el proceso de contratación
 
 2. La o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo, se podrán realizar a través del Sistema Electrónico de Compras Públicas y sin la presencia de los licitantes. La Secretaría de Administración y Gestión Pública, que es la responsable del Sistema Electrónico de Compras Públicas, operará y se encargará del sistema de certificación de los medios de identificación electrónica que utilicen los participantes, y será la encargada de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
 
-3. La certificación de la identificación electrónica prevista en la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado, surtirá plenos efectos como forma de identificación en el procedimiento regulado en esta Ley. La Secretaría de Administración y Gestión Pública proverá lo conducente para hacer efectivo lo establecido en este párrafo.
+3. La certificación de la identificación electrónica prevista en la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado, surtirá plenos efectos como forma de identificación en el procedimiento regulado en esta Ley. La Secretaría de Administración y Gestión Pública proverá (sic) lo conducente para hacer efectivo lo establecido en este párrafo.
 
 4. En el caso de que el ente gubernamental no cuente con la infraestructura tecnológica necesaria, la licitación pública o invitación restringida podrá llevarse a cabo de manera presencial, en donde los licitantes podrán presentar sus propuestas en forma documental y por escrito, en sobre cerrado, durante el acto de presentación y apertura de propuestas, o bien, si así se prevé en la convocatoria a la licitación, mediante el uso del servicio postal o de mensajería. La o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo se realizarán de manera presencial, a los cuales podrán asistir los licitantes, sin perjuicio de que el fallo pueda notificarse por escrito conforme a lo dispuesto por el artículo 41 de esta Ley.
 
@@ -597,9 +601,9 @@ VII. La información, en su caso, sobre la reducción del plazo entre la publica
 
 VIII. Si la licitación será electrónica o presencial, y el señalamiento de la forma en la que se deberán presentar las propuestas;
 
-IX El carácter de la licitación, sea nacional o internacional, y el idioma o idiomas, además del español, en que podrán presentarse las propuestas;
+IX. El carácter de la licitación, sea nacional o internacional, y el idioma o idiomas, además del español, en que podrán presentarse las propuestas;
 
-X Moneda en que se cotizará y efectuará el pago respectivo. En los casos de licitación internacional en que la dependencia o entidad convocante determine efectuar los pagos a proveedores extranjeros en moneda extranjera, los licitantes nacionales podrán presentar sus proposiciones en la misma moneda extranjera que determine la dependencia o entidad convocante. No obstante, el pago que se realice en el territorio nacional deberá hacerse en moneda nacional y al tipo de cambio vigente en la fecha en que se haga dicho pago;
+X. Moneda en que se cotizará y efectuará el pago respectivo. En los casos de licitación internacional en que la dependencia o entidad convocante determine efectuar los pagos a proveedores extranjeros en moneda extranjera, los licitantes nacionales podrán presentar sus proposiciones en la misma moneda extranjera que determine la dependencia o entidad convocante. No obstante, el pago que se realice en el territorio nacional deberá hacerse en moneda nacional y al tipo de cambio vigente en la fecha en que se haga dicho pago;
 
 XI. Plazo y condiciones de entrega, así como la indicación del lugar, dentro del territorio nacional, donde deberán efectuarse las entregas o la instalación de los mismos;
 
@@ -639,7 +643,7 @@ XXVIII. Los criterios específicos que se utilizarán para la evaluación de las
 
 XXIX. El domicilio de las oficinas de la dependencia, entidad o unidad convocante responsable de resolver los recursos de reconsideración o en su caso el medio electrónico en que podrán presentarse dichos recursos, de acuerdo a lo dispuesto en el artículo 75 de la presente Ley;
 
-XXX Señalamiento de las causas expresas de desechamiento que afecten directamente la solvencia de las propuestas, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los bienes, arrendamientos o servicios, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+XXX. Señalamiento de las causas expresas de desechamiento que afecten directamente la solvencia de las propuestas, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los bienes, arrendamientos o servicios, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
 
 XXXI. El modelo de contrato al que para la licitación de que se trate se sujetarán las partes, el cual deberá contener los requisitos a que se refiere el artículo 49 de esta Ley;
 
@@ -915,9 +919,9 @@ VII. Se hubiere declarado desierta una licitación pública, siempre que se mant
 
 VIII. Existan razones justificadas para la adquisición o arrendamiento de bienes de marca determinada;
 
-IX Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados y semovientes. Asimismo, cuando se trate de bienes usados o reconstruidos en los que el precio no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de crédito o terceros habilitados para ello conforme a las disposiciones aplicables, expedido dentro de los seis meses previos y vigente al momento de la adjudicación del contrato respectivo;
+IX. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados y semovientes. Asimismo, cuando se trate de bienes usados o reconstruidos en los que el precio no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de crédito o terceros habilitados para ello conforme a las disposiciones aplicables, expedido dentro de los seis meses previos y vigente al momento de la adjudicación del contrato respectivo;
 
-X Se trate de servicios de consultorías, asesorías, estudios o investigaciones, debiendo aplicar el procedimiento de invitación restringida, entre las que se podrán incluir instituciones públicas y privadas de educación superior y centros públicos de investigación.
+X. Se trate de servicios de consultorías, asesorías, estudios o investigaciones, debiendo aplicar el procedimiento de invitación restringida, entre las que se podrán incluir instituciones públicas y privadas de educación superior y centros públicos de investigación.
 
 Sólo podrá autorizarse la contratación mediante adjudicación directa cuando la información que se tenga que proporcionar para la elaboración de las propuestas se encuentre reservada en los términos establecidos en las leyes en materia de transparencia;
 
@@ -937,7 +941,7 @@ XVII. Se trate de la suscripción de contratos específicos que deriven de un co
 
 XVIII. Se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice con campesinos o grupos urbanos marginados, como personas físicas o morales; y
 
-XIX Se trate de la adquisición de bienes que realicen las dependencias y entidades para su comercialización directa o para someterlos a procesos productivos que las mismas realicen en cumplimiento de su objeto o fines propios expresamente establecidos en el acto jurídico de su constitución.
+XIX. Se trate de la adquisición de bienes que realicen las dependencias y entidades para su comercialización directa o para someterlos a procesos productivos que las mismas realicen en cumplimiento de su objeto o fines propios expresamente establecidos en el acto jurídico de su constitución.
 
 > <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2016)</small>
 
@@ -951,7 +955,7 @@ Excepciones a la licitación pública en razón del importe de la operación
 
 1. Los entes gubernamentales, bajo su responsabilidad, podrán contratar adquisiciones, servicios y arrendamientos, sin sujetarse al procedimiento de licitación pública, en los siguientes casos:
 
-l. De adjudicación directa, cuando el monto de cada operación no exceda de 100 Unidades de Medida y Actualización, debiendo informar al comité correspondiente de estas operaciones;
+I. De adjudicación directa, cuando el monto de cada operación no exceda de 100 Unidades de Medida y Actualización, debiendo informar al comité correspondiente de estas operaciones;
 
 II. De adjudicación directa, con tres cotizaciones y visto bueno del Comité de Adquisiciones correspondiente, cuando el monto de cada operación sea de 101 y hasta 850 Unidades de Medida y Actualización; y
 
@@ -1091,7 +1095,7 @@ Garantías exigidas para contratar
 
 4. La unidad convocante incluirá en el contrato correspondiente las garantías que estime necesarias entre las siguientes:
 
-l. Garantía de buen cumplimiento del contrato. Se refiere a la garantía exigible al ganador del contrato para asegurar el fiel y oportuno cumplimiento del mismo. Para la aplicación de dicha garantía se deberá considerar lo siguiente:
+I. Garantía de buen cumplimiento del contrato. Se refiere a la garantía exigible al ganador del contrato para asegurar el fiel y oportuno cumplimiento del mismo. Para la aplicación de dicha garantía se deberá considerar lo siguiente:
 
 a) El proveedor ganador deberá entregar la garantía de cumplimiento a la unidad convocante al momento de suscribir el contrato definitivo, a menos que la convocatoria establezca algo distinto;
 
@@ -1113,7 +1117,7 @@ III. Garantía por los defectos y vicios ocultos de los bienes y la falta de cal
 
 Constitución de las garantías
 
-I. Las garantías que deban otorgarse conforme a esta Ley se constituirán en favor de:
+1. Las garantías que deban otorgarse conforme a esta Ley se constituirán en favor de:
 
 I. La Secretaría de Planeación y Finanzas, por actos o contratos que se celebren con las dependencias del Poder Ejecutivo del Estado;
 
@@ -1285,7 +1289,7 @@ VIII. Mecanismos de consulta, aclaración y quejas;
 
 IX. Las actas de presentación y apertura de propuestas;
 
-X Los fallos de los procedimientos de licitación o invitación restringida;
+X. Los fallos de los procedimientos de licitación o invitación restringida;
 
 XI. Las notificaciones y avisos relativos a los procedimientos de contratación y de los recursos de reconsideración;
 
@@ -1443,7 +1447,7 @@ Notificaciones
 
 I. Las notificaciones se harán:
 
-l. En forma personal, para el recurrente y el tercero interesado:
+I. En forma personal, para el recurrente y el tercero interesado:
 
 a) La primera notificación y las prevenciones;
 
@@ -1621,7 +1625,7 @@ Negociación o mediación
 
 1. Las partes de un contrato de los estipulados en la presente Ley podrán convenir en utilizar la negociación o mediación como mecanismos de solución de controversias para resolver sus discrepancias sobre la interpretación o ejecución de los contratos. Tales mecanismos podrán convenirse en el propio contrato o en convenio independiente. En todo caso, se ajustarán a lo siguiente:
 
-l. La etapa de negociación o mediación y, en su caso, acuerdo sobre el particular tendrá el plazo que al efecto convengan las partes;
+I. La etapa de negociación o mediación y, en su caso, acuerdo sobre el particular tendrá el plazo que al efecto convengan las partes;
 
 II. Las partes acordarán llevar los procedimientos de negociación o mediación de buena fe;
 
@@ -1800,3 +1804,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 9 nueve de septiembre del año 2016 dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. JOSÉ IGNACIO PERALTA SÁNCHEZ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 609 POR EL QUE SE REFORMA EL ARTÍCULO 23, NUMERAL 1 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
