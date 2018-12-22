@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-coordinacion-fiscal-y-financiera-del-estado-de-7793"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2017-12-09"
+last_updated: "2018-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE COORDINACION FISCAL Y FINANCIERA DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -683,9 +685,29 @@ ARTICULO 38 BIS.- SE TRANSFERIRAN A LOS MUNICIPIOS QUE SE UBIQUEN EN LAS HIPOTES
 
 I.- EN EL CASO DE AREAS CONTRACTUALES O AREAS DE ASIGNACION, QUE SE UBIQUEN EN REGIONES TERRESTRES, LOS RECURSOS QUE RESULTEN DE APLICAR EL PORCENTAJE A QUE SE REFIERE ESTE ARTICULO AL MONTO QUE DETERMINE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO POR ESTE CONCEPTO, SE DISTRIBUIRAN A LOS MUNICIPIOS DONDE SE LOCALICEN GEOGRAFICAMENTE DICHAS AREAS, CONSIDERANDO LA EXTENSION DE LAS MISMAS RESPECTO DEL TOTAL CORRESPONDIENTE AL ESTADO.
 
-II.- EN EL CASO DE AREAS CONTRACTUALES O AREAS DE ASIGNACION QUE SE UBIQUEN EN REGIONES MARITIMAS, LOS RECURSOS QUE RESULTEN DE APLICAR EL PORCENTAJE A QUE SE REFIERE ESTE ARTICULO AL MONTO QUE DETERMINE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO POR ESTE CONCEPTO, SE DISTRIBUIRAN PROPORCIONALMENTE A LOS MUNICIPIOS QUE REGISTREN DAÑO AL ENTORNO SOCIAL Y ECOLOGICO DERIVADO DE LAS ACTIVIDADES DE EXPLORACION Y EXTRACCION DE HIDROCARBUROS BAJO EL MECANISMO QUE ESTABLEZCA EL TITULAR DEL PODER EJECUTIVO Y QUE DEBERA PUBLICAR ANUALMENTE EN EL MES DE FEBRERO DE CADA AÑO EN EL PERIODICO OFICIAL DEL ESTADO.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2018)</small>
 
-PARA LA DETERMINACION DEL MECANISMO DE DISTRIBUCION DE LOS RECURSOS A QUE SE REFIERE ESTA FRACCION, DEBERAN TOMARSE EN CONSIDERACION LOS CRITERIOS CORRESPONDIENTES AL DAÑO AL ENTORNO SOCIAL, DAÑO AL ENTORNO ECOLOGICO Y COEFICIENTE POBLACIONAL;
+II.- EN EL CASO DE AREAS CONTRACTUALES O AREAS DE ASIGNACION QUE SE UBIQUEN EN REGIONES MARITIMAS, LOS RECURSOS QUE RESULTEN DE APLICAR EL PORCENTAJE A QUE SE REFIERE ESTE ARTICULO AL MONTO QUE DETERMINE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO POR ESTE CONCEPTO, SE DISTRIBUIRAN PROPORCIONALMENTE A LOS MUNICIPIOS DEL ESTADO DE TABASCO.
+
+PARA LA DETERMINACION DEL MECANISMO DE DISTRIBUCION DE LOS RECURSOS A QUE SE REFIERE ESTA FRACCION, DEBERAN TOMARSE EN CONSIDERACION LOS CRITERIOS CORRESPONDIENTES AL DAÑO AL ENTORNO SOCIAL, DAÑO AL ENTORNO ECOLOGICO Y COEFICIENTE POBLACIONAL, DE ACUERDO CON LA FORMULA DE DISTRIBUCION SIGUIENTE:
+
+1. DEL 60%, EN PROPORCION DIRECTA AL NUMERO DE HABITANTES QUE TENGA EL MUNICIPIO QUE REGISTRE LOS DAÑOS AL ENTORNO SOCIAL Y ECOLOGICO DERIVADO DE LAS ACTIVIDADES DE EXPLORACION Y EXTRACCION DE HIDROCARBUROS, ES LA SIGUIENTE:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 22 DE DICIEMBRE DE 2018, PÁGINAS 48 Y 49.]</small>
+
+2. LA FORMULA PARA LA DETERMINACION DEL 20% EN LA PROPORCION QUE REPRESENTEN LOS DAÑOS AL ENTORNO SOCIAL QUE REGISTRE, ES LA SIGUIENTE:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 22 DE DICIEMBRE DE 2018, PÁGINA 49.]</small>
+
+3. LA FORMULA PARA LA DETERMINACION DEL 20 % EN LA PROPORCION QUE REPRESENTEN LOS DAÑOS AL ENTORNO ECOLOGICO QUE REGISTRE, ES LA SIGUIENTE:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 22 DE DICIEMBRE DE 2018, PÁGINAS 49 Y 50.]</small>
+
+PARA SU DESARROLLO SE ESTABLECEN LAS SIGUIENTES REGLAS:
+
+A) DEL TOTAL DE LOS RECURSOS OTORGADOS EN EL EJERCICIO FISCAL CORRESPONDIENTE, LOS MUNICIPIOS BENEFICIADOS SOLO PODRAN DESTINAR HASTA EL 30%, PARA EL RUBRO DE PAVIMENTACION QUE ESTABLECE LA REGLA DECIMA CUARTA, FRACCION IV DEL CAPITULO III, DE LAS REGLAS DE OPERACION PARA LA DISTRIBUCION Y APLICACION DEL FONDO PARA ENTIDADES FEDERATIVAS Y MUNICIPIOS PRODUCTORES DE HIDROCARBUROS. DE ESTE PORCENTAJE, SE UTILIZARA EL 70% PARA ZONAS DE ATENCION PRIORITARIA (ZAP) VIGENTES, DETERMINADAS POR EL CONSEJO NACIONAL DE EVALUACION DE LA POLITICA DE DESARROLLO SOCIAL (CONEVAL).
+
+B) EN EL EJERCICIO DE LOS RECURSOS SE DEBERA DAR PRIORIDAD A AQUELLAS ACCIONES ENCAMINADAS, A GARANTIZAR EL DESARROLLO DE UN AMBIENTE SALUDABLE Y EQUILIBRADO, ASI COMO A MEJORAR LAS CONDICIONES SOCIALES EN LAS QUE SE DESARROLLAN LOS HABITANTES.
 
 III.- LOS RECURSOS TRANSFERIDOS DEBERAN APLICARSE, INVERTIRSE Y EJERCERSE EN INFRAESTRUCTURA PARA RESARCIR, ENTRE OTROS ASPECTOS, LAS AFECTACIONES AL ENTORNO SOCIAL Y ECOLOGICO; Y
 
@@ -1046,3 +1068,121 @@ Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relati
 DÉCIMO. El 30% del coeficiente de distribución de la recaudación excedente del Fondo de Fomento Municipal con respecto a 2013, y el año en que se efectúe el cálculo, en términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, que a la entrada en vigor del presente decreto le corresponda a los municipios, se distribuirá en términos de lo dispuesto en el artículo 16 Quáter de la presente Ley.
 
 DÉCIMO PRIMERO. Las promociones a que se refiere el artículo 19 del Código Fiscal del Estado de Tabasco, que se hubieran presentado con anterioridad a la entrada en vigor del presente decreto, continuarán su trámite hasta su resolución conforme a las disposiciones vigentes a la fecha de su presentación.
+
+P.O. 22 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 013 POR EL QUE "SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 38 BIS DE LA LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día uno del mes de enero del año dos mil diecinueve, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2019 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de la competencia hacendaría de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2019 o cualquier otro ordenamiento legal en que así proceda.
+
+###### ARTÍCULO CUARTO.
+
+La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2019 no contempla los recursos refrendados del ejercicio fiscal 2018, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2019.
+
+###### ARTÍCULO QUINTO.
+
+Se condonan y se eximen parcialmente, durante el ejercicio fiscal 2019, los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
+
+I. Los determinados por concepto Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondientes a los ejercicios 2011, 2012, 2013 y 2014.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2019, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados al Impuesto Vehicular Estatal; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo en comento, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERÍODO DE PAGO
+
+Recargos 100%
+
+Multas 100% enero-diciembre 2019
+
+Gastos de Ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el presente artículo transitorio.
+
+II. Los determinados por concepto de derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2019.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2019, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados por concepto del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2019; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERÍODO DE PAGO
+
+Recargos 100%
+
+Multas 100% enero-diciembre 2019
+
+Gastos de Ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción II del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2019, hasta en 36 parcialidades, conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el presente artículo transitorio.
+
+III. De igual forma los contribuyentes podrán optar por pagar las contribuciones antes mencionadas, de forma bancarizada mediante las siguientes opciones:
+
+1. Portal de Recaudanet
+
+2. Receptorías de Rentas
+
+A través de los siguientes medios:
+
+a) Transferencia electrónica (únicamente en Recaudanet).
+
+b) Tarjeta de crédito.
+
+c) Tarjeta de débito.
+
+d) Comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado.
+
+Lo anterior de conformidad con los procedimientos establecidos en el artículo 21 del Código Fiscal del Estado.
+
+La condonación a que se refiere este artículo, también procederá aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán condonar los créditos fiscales pagados y en ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión al beneficio de condonación previsto en este artículo no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Planeación y Finanzas expedirá dentro de los 60 días naturales siguientes a la entrada en vigor del presente decreto, las reglas que considere necesarias para la correcta aplicación de la condonación y estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Planeación y Finanzas informará, de conformidad a lo establecido en el Artículo 2 de la presente Ley, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo estatal a través de la Secretaría de Planeación y Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2019, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año - modelo sea 2015 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Planeación y Finanzas quien deberá expedir a más tardar los 60 días naturales siguientes a la entrada en vigor del presente decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de éste;
+
+II. Que la autoridad fiscal competente requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Planeación y Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6, fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Planeación y Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo Estatal por conducto de la Secretaría de Planeación y Finanzas, implementará a partir del 1º de enero de 2019 un programa adicional al contemplado en el artículo Sexto transitorio del presente Decreto, dicho programa contemplará la condonación de pagos y beneficios fiscales, respecto a los créditos fiscales y obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías de motocicletas y motonetas.
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes que se inscriban en el Registro Estatal de Vehículos y obtengan su placa de circulación vigente, lo que permitirá identificar a los propietarios de las motocicletas y motonetas que circulan en el Estado de Tabasco.
+
+Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relativas a la inscripción en el Registro Estatal de Vehículos y al emplacamiento de las motocicletas y motonetas que circulan en la entidad, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad Pública y las autoridades municipales en materia de tránsito y vialidad, implementarán a partir del 1° de enero de 2019 un programa de vigilancia e inspección en relación a aquellos ciudadanos que circulen en el Estado en vehículos sin placas de circulación o con placas de circulación que no se encuentren vigentes, tomando en consideración la vigencia establecida por las autoridades federales en la normatividad aplicable.
