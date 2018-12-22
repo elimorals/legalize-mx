@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-y-de-75068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2017-03-04"
+last_updated: "2018-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -967,21 +967,27 @@ De los Órganos Técnicos.
 
 De la Unidad de Fiscalización.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 21.
 
 1. La Unidad de Fiscalización tendrá las atribuciones siguientes:
 
-I. Elaborar los proyectos de Reglamento de Fiscalización y Registros Contables de los Ingresos y Egresos de Agrupaciones Políticas, y de Organizaciones de Observadores Electorales, así como las propuestas de reforma;
+I. Recibir y revisar los informes anuales que presenten las agrupaciones políticas estatales y los informes financieros de las organizaciones de observadores electorales registradas ante el Instituto, respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino y aplicación.
 
-II. Elaborar el proyecto de reglamento interior de la Unidad de Fiscalización y las propuestas de reforma;
+II. Fiscalizar y vigilar el origen y destino de los recursos que obtengan las agrupaciones políticas estatales y las organizaciones de ciudadanos que pretendan obtener registro como partido político estatal, para el desarrollo de sus actividades tendientes a la obtención de dicho registro, reportados en los informes mensuales a partir del momento en que notifiquen de tal propósito al Instituto;
 
-III. Rendir los informes que le sean requeridos por el Consejo General, el Presidente, o el Secretario Ejecutivo respecto del avance en las revisiones y auditorías que la misma realice;
+III. Presentar al Consejo los informes de resultados y proyectos de dictamen y resolución sobre las auditorías y verificaciones practicadas a las agrupaciones políticas estatales, a las organizaciones de ciudadanos que pretendan obtener registro como partido político estatal y a las organizaciones de observadores electorales registradas ante el Instituto, y, en su caso, proponer las sanciones que procedan conforme a la normatividad aplicable;
 
-IV. Las demás establecidas en el Código, el Reglamento Interior de la Unidad de Fiscalización y las que en uso de sus atribuciones le confiera el Consejo General, el Presidente o el Secretario Ejecutivo; y;
+IV. Elaborar los proyectos de Reglamento de Fiscalización, así como emitir las normas generales de contabilidad y registro de operaciones aplicables a las agrupaciones políticas estatales, las organizaciones de observadores electorales y las organizaciones de ciudadanos que pretendan obtener registro como partido político estatal, registradas ante el Instituto conforme a lo establecido en el Reglamento de Fiscalización del Instituto Nacional Electoral.
 
-V. Las delegadas por el Instituto Nacional Electoral.
+V. Elaborar el proyecto de reglamento interior de la Unidad de Fiscalización y las propuestas de reforma;
+
+VI. Rendir los informes que le sean requeridos por el Consejo General, el Presidente, o el Secretario Ejecutivo respecto del avance en las revisiones y auditorías que la misma realice;
+
+VII. Las demás establecidas en el Código, el Reglamento Interior de la Unidad de Fiscalización y las que en uso de sus atribuciones le confiera el Consejo General, el Presidente o el Secretario Ejecutivo; y;
+
+VIII. Las delegadas por el Instituto Nacional Electoral.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -2006,3 +2012,9 @@ P.O. 4 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO IEPC-ACG-012/2017 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE APRUEBA REFORMAR EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO”.]
 
 UNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 22 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IEPC-ACG-358/2018 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE APRUEBA MODIFICAR EL ARTÍCULO 21 DEL REGLAMENTO INTERIOR DE ESTE ORGANISMO ELECTORAL”.]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
