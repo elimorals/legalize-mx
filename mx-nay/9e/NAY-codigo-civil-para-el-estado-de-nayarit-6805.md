@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2017-07-27"
+last_updated: "2018-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -1195,17 +1195,23 @@ El concubinato solo podrá acreditarse si la relación ha sido además de públi
 
 Los concubinos tienen obligación recíproca de otorgarse alimentos, durante el término que subsista su unión, sujetándose a lo que establece la ley para los alimentos entre cónyuges.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2018)</small>
+
+El concubinato genera entre los concubinos derechos sucesorios, en los términos que dispone el artículo 2749 de este Código.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 139.
 
 El concubinato concluye por voluntad de uno o ambos, o por la cesación de la vida en común, cualquier que sea su causa, o por la muerte de uno de ellos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 140.
 
-La conclusión de la vida en común o terminación del concubinato, no otorga derecho alguno entre los concubinos.
+A la conclusión de la vida en común o terminación del concubinato, la concubina o el concubinario que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien haya demostrado ingratitud, o viva en concubinato o contraiga matrimonio.
+
+El derecho que otorga este artículo podrá ejercitarse solo durante el año siguiente a la terminación del concubinato.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -2077,11 +2083,11 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 
 Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos, hasta en tanto no cese la obligación de proporcionarlos en términos del artículo 301 de este Código.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 281.
 
-En los casos de divorcio, el juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará a uno de ellos al pago de alimentos a favor del otro. Este derecho lo disfrutará hasta por cinco años, excepto cuando se acredite fehacientemente que la parte acreedora por razones de su edad, enfermedad o cualquier otra circunstancia esté imposibilitada para trabajar, en cuyos casos podrá seguir gozando de dicho beneficio en tanto no se una en matrimonio o concubinato.
+En los casos de divorcio, el juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes. Este derecho se extingue cuando la parte acreedora se una en matrimonio o en concubinato o haya transcurrido un término igual a la duración del matrimonio.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -2195,13 +2201,13 @@ V.- Violencia Sexual.- Es el acto abusivo de poder u omisión intencional que at
 
 La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 295.
 
-Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
+Los cónyuges y los concubinos deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio, terminación del concubinato y otros que la misma ley señale.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
-
-Los concubinos deben darse mutuamente alimentos y contribuirán económicamente al sostenimiento del hogar en los términos que a los cónyuges les establece este Código.
+Los concubinos contribuirán económicamente al sostenimiento del hogar en los términos que a los cónyuges les establece este Código.
 
 ###### Artículo 296.
 
@@ -16458,3 +16464,9 @@ P.O. 27 DE JULIO DE 2017.
 Primero.- El presente decreto entrará en vigor a los 120 días hábiles siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- El Titular del Ejecutivo y los Ayuntamientos del Estado contarán con 120 días hábiles para crear el Reglamento y Manual de Procedimientos del Registro Civil de conformidad con lo señalado en el presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
