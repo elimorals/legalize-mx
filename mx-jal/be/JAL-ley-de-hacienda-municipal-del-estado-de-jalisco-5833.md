@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2018-09-06"
+last_updated: "2018-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1184,6 +1184,10 @@ A los predios propiedad de las asociaciones religiosas legalmente constituidas, 
 El monto del impuesto se determinará de conformidad con las bases, tasas, cuotas y tarifas que al efecto establezcan las leyes de ingresos municipales en vigor, de acuerdo a las disposiciones de los artículos 94 y 95 de esta Ley.
 
 Para calcular el monto este (sic) del impuesto predial a pagar, se procederá a multiplicar el valor fiscal por la tasa que le corresponda, determinada en la respectiva ley de ingresos municipal, adicionándole además la cuota fija que se establezca en el mismo ordenamiento y, en su caso, multiplicándolo por la tarifa correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2018)</small>
+
+En el caso de las Leyes de Ingresos que prevean una forma de cálculo distinta a la señalada en el párrafo anterior, se aplicará para el cálculo del monto del impuesto el procedimiento previsto en la propia Ley de Ingresos del Municipio que corresponda.
 
 ###### Art. 107.
 
@@ -3951,6 +3955,12 @@ P.O. 8 DE AGOSTO DE 2017.
 
 P.O. 6 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26861/LXI/18 QUE ADICIONA EL ARTÍCULO 117 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26861/LXI/18 QUE ADICIONA EL ARTÍCULO 117 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27221/LXII/18 QUE REFORMA EL ARTÍCULO 106 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
