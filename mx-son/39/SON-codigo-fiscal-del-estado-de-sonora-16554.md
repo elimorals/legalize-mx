@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2017-12-21"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -57,15 +57,31 @@ El Estado de Sonora queda obligado a pagar contribuciones únicamente cuando las
 
 Las personas que de conformidad con las leyes fiscales no están obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que establezcan en forma expresa las propias leyes.
 
-###### ARTÍCULO 2º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
-Las contribuciones se clasifican en impuestos, contribuciones especiales y derechos, las que se definen de la siguiente manera:
+###### ARTÍCULO 2°.
 
-I.- Impuestos son las contribuciones establecidas en Ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo;
+Las contribuciones se clasifican en impuestos, aportaciones de seguridad social, contribuciones especiales y derechos, las que se definen de la siguiente manera:
 
-II.- Contribuciones especiales son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras o servicios públicos; y,
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
-III.- Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de bienes del dominio público del Estado de Sonora, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando, en este último caso, se trate de contraprestaciones que no se encuentren previstas en la Ley;
+I.- Impuestos son las contribuciones establecidas en Ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II, III y IV de este artículo:
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+II.- Contribuciones especiales son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras o servicios públicos:
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+III.- Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de bienes del dominio público del Estado de Sonora, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando, en este último caso, se trate de contraprestaciones que no se encuentren previstas en la Ley; También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado; y,
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+IV.- Aportaciones de seguridad social son las contribuciones establecidas en ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Estado.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, B.O. 24 DE DICIEMBRE DE 2018]</small>
+
+Cuando sean organismos descentralizados los que proporcionen la seguridad social, las contribuciones correspondientes tendrán la naturaleza de aportaciones de seguridad social.
 
 Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el artículo 27 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1º.
 
@@ -113,7 +129,7 @@ Se encuentran exentos del pago de impuestos y contribuciones especiales:
 
 I.- La Federación, así como los Estados y los Municipios en los casos de reciprocidad;
 
-II.- Los organismos descentralizados de la Federación, del Estado de Sonora y de sus Municipios, cuando realicen actividades con fines no lucrativos. No quedan comprendidos dentro de esta excepción las empresas de participación estatal;
+II.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2018)
 
 ###### ARTÍCULO 7º.
 
@@ -453,9 +469,11 @@ Cuando los recargos determinados por el contribuyente sean inferiores a los que 
 
 Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en parcialidades, se causarán además los recargos que establece la Ley de Ingresos del Estado, por la parte diferida. No causarán recargos las multas no fiscales.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 27.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, al igual que los pagos con tarjeta bancaria, sea de crédito o débito y con posterioridad se desconozca dicho pago solicitando al banco emisor el reembolso del importe pagado a las autoridades fiscales, dará lugar al cobro del monto del cheque, así como de la tarjeta bancaria y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la autoridad notificará al librador del cheque o al tarjetahabiente para que, dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque o tarjeta bancaria, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
 
 ###### ARTÍCULO 28.
 
@@ -500,6 +518,10 @@ a) Tratándose de saldos a favor o cuando el pago de lo indebido se hubiese dete
 b) Cuando el pago de lo indebido se hubiese determinado por la autoridad, a partir de que se pagó dicho crédito.
 
 En ningún caso los intereses a cargo del Gobierno del Estado excederán de los que se causen en los últimos cinco años.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+Tratándose de los impuestos retenidos o recaudados, la devolución por pago de lo indebido se efectuará a las personas que hubieran causado el impuesto, siempre que no lo hayan acreditado o deducido; por lo tanto, quien retuvo o recaudó el impuesto, ya sea en forma expresa o por separado o incluido en el precio, no tendrá derecho a solicitar la devolución.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -551,11 +573,11 @@ Los contribuyentes que hayan ejercido la opción a que se refiere el primer pár
 
 Se podrán compensar los créditos y deudas entre el Estado por una parte y la Federación y Municipios, por la otra. Tratándose de la compensación con Federación y Municipios se requerirá acuerdo previo con éstos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 33.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o tengan la obligación de pagar, retener o de recaudar impuestos, así como, todas aquellas personas físicas o morales cuyas actividades sean reguladas por leyes administrativas en el Estado, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda, proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los treinta días siguientes al inicio de sus actividades, salvo que las leyes fiscales señalen otro plazo. Las personas obligadas a presentar su inscripción y demás avisos, lo harán en las oficinas exactoras de su jurisdicción, las que deberán proporcionarles su cédula de registro expedida por la Secretaría de Hacienda, la cual deberá constar en lugar visible del establecimiento y a falta de este conservarse en el domicilio del interesado. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al Registro Estatal de Contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 62 Bis de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquel en que se verifique alguno de los supuestos establecidos en el artículo 15 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
+Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o tengan la obligación de pagar, retener o de recaudar impuestos, así como, todas aquellas personas físicas o morales cuyas actividades sean reguladas por leyes administrativas en el Estado, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda, proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los treinta días siguientes al inicio de sus actividades, salvo que las leyes fiscales señalen otro plazo. Las personas obligadas a presentar su inscripción y demás avisos, lo harán en las oficinas exactoras de su jurisdicción, mismas que podrán prellenar el formato de registro indicado en el portal electrónico de la Secretaría de Hacienda, las que deberán proporcionarles su cédula de registro expedida por la Secretaría de Hacienda, la cual deberá constar en lugar visible del establecimiento y a falta de este conservarse en el domicilio del interesado. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al Registro Estatal de Contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 62 Bis de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquel en que se verifique alguno de los supuestos establecidos en el artículo 15 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
 
 Quedan exceptuados de la obligación de inscribirse los sujetos a que alude el artículo 6 de este Código, sin menoscabo de la obligación de retener o de recaudar contribuciones en los casos que lo dispongan las leyes.
 
@@ -829,6 +851,18 @@ I.- Cuando el contador público acumule tres suspensiones de las previstas en la
 
 II.- Cuando cause ejecutoria la sentencia definitiva que declare culpable al contador público que haya cometido un delito de carácter fiscal.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 41 DECIES.- Los establecimientos o prestadores de servicios de juegos con apuestas, sorteos o concursos, están obligados a dictaminar sus obligaciones fiscales respecto de los siguientes impuestos:
+
+I.- Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios;
+
+II.- Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos;
+
+III.- Impuesto a las Erogaciones en Juegos con Apuestas, Sorteos o Concursos.
+
+Dicho dictamen deberá ser presentado en los términos establecidos en el presente Código.
+
 ## TITULO TERCERO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
 ### CAPITULO UNICO
@@ -879,9 +913,25 @@ No se considera que las autoridades fiscales inician el ejercicio de sus faculta
 
 Asimismo, las autoridades fiscales darán a conocer a los contribuyentes, a través de los medios de difusión, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquéllos que, a juicio de la propia autoridad, tengan el carácter de confidenciales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Boletín Oficial del Estado de Sonora.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 43.
 
-Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente; de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por autoridad competente para ello.
+Las autoridades fiscales sólo estarán obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente.
+
+La autoridad quedará obligada a aplicar los criterios contenidos en la contestación a la consulta de que se trate, siempre que se cumpla con lo siguiente:
+
+I. Que la consulta comprenda los antecedentes y circunstancias necesarias para que la autoridad se pueda pronunciar al respecto.
+
+II. Que los antecedentes y circunstancias que originen la consulta no se hubieren modificado posteriormente a su presentación ante la autoridad.
+
+III. Que la consulta se formule antes de que la autoridad ejerza sus facultades de comprobación respecto de las situaciones reales y concretas a que se refiere la consulta.
+
+La autoridad no quedará vinculada por la respuesta otorgada a las consultas realizadas por los contribuyentes cuando los términos de la consulta no coincidan con la realidad de los hechos o datos consultados o se modifique la legislación aplicable.
+
+Las respuestas recaídas a las consultas a que se refiere este artículo no serán obligatorias para los particulares, por lo cual éstos podrán impugnar, a través de los medios de defensa establecidos en las disposiciones aplicables, las resoluciones definitivas en las cuales la autoridad aplique los criterios contenidos en dichas respuestas.
+
+Las autoridades fiscales deberán contestar las consultas que formulen los particulares en un plazo de tres meses contados a partir de la fecha de presentación de la solicitud respectiva.
 
 ###### ARTÍCULO 44.
 
@@ -951,17 +1001,25 @@ Procederá la condonación total o parcial de créditos fiscales cuando se haya 
 
 El Gobernador del Estado, mediante disposiciones de carácter general determinará el monto de los créditos que se condonen, los sujetos que gozarán del beneficio; la región o las ramas favorecidas, así como los requisitos que deban satisfacerse y el período de vigencia de los beneficios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 50.
 
-Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan, impidan u obstaculicen físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, estas podrán aplicar como medidas de apremio, las siguientes:
+Las autoridades fiscales podrán emplear las medidas de apremio que se indican a continuación, cuando los contribuyentes, los responsables solidarios o terceros relacionados con ellos, impidan de cualquier forma o por cualquier medio el inicio o desarrollo de sus facultades, observando estrictamente el siguiente orden:
 
 I.- Solicitar el auxilio de la fuerza pública;
 
-II.- Imponer la multa que corresponda en los términos de este Código; y,
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
-III.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
+II.- Imponer la multa que corresponda en los términos de este Código;
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+III.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente; y/o
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+IV.- Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 50-A de este Código.
 
 Para efectos de este artículo, las autoridades judiciales estatales y los cuerpos de seguridad o policiales deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal.
 
@@ -972,6 +1030,86 @@ El apoyo a que se refiere el párrafo anterior consistirá en efectuar las accio
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 En los casos que se requiera de cuerpos de seguridad pública del Estado o de los municipios, el apoyo se solicitará en los términos de los ordenamientos que regulan la seguridad pública.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracción I, cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, no atiendan las solicitudes de información o los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados, o cuando destruyan o alteren la misma.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 50-A.
+
+El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes o los responsables solidarios, a que se refiere la fracción IV del artículo 50 de este Código, así como el levantamiento del mismo, en su caso, se realizará conforme a lo siguiente:
+
+I. Se practicará una vez agotadas las medidas de apremio a que se refieren las fracciones I, II y III del artículo 50 de este ordenamiento, salvo en los casos siguientes:
+
+a) Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios, no sean localizables en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente; hayan desaparecido, o se ignore su domicilio.
+
+b) Cuando las autoridades fiscales practiquen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y éstos no puedan demostrar que se encuentran inscritos en el registro estatal de contribuyentes o, en su caso, no exhiban los comprobantes que amparen la legal comprobación de haber cumplido con sus obligaciones fiscales estatales.
+
+c) Cuando una vez iniciadas las facultades de comprobación, exista riesgo inminente de que los contribuyentes o los responsables solidarios oculten, enajenen o dilapiden sus bienes.
+
+II. La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos en los artículos 69 y 70 de este Código.
+
+La autoridad fiscal que practique el aseguramiento precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se notificará al contribuyente en ese acto.
+
+III. El aseguramiento precautorio se sujetará al orden siguiente:
+
+a) Bienes inmuebles, en este caso, el contribuyente o su representante legal deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, aseguramiento o embargo anterior; se encuentran en copropiedad, o pertenecen a sociedad conyugal alguna. Cuando la diligencia se entienda con un tercero, se deberá requerir a éste para que, bajo protesta de decir verdad, manifieste si tiene conocimiento de que el bien que pretende asegurarse es propiedad del contribuyente y, en su caso, proporcione la documentación con la que cuente para acreditar su dicho.
+
+b) Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias del estado y municipios y de instituciones o empresas de reconocida solvencia.
+
+c) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales.
+
+d) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de artes y oficios, indistintamente.
+
+e) Dinero y metales preciosos.
+
+f) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 unidades de medida y actualización elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+
+g) Los bienes muebles no comprendidos en las fracciones anteriores.
+
+h) La negociación del contribuyente.
+
+Los contribuyentes, responsables solidarios o terceros relacionados con ellos, deberán acreditar la propiedad de los bienes sobre los que se practique el aseguramiento precautorio.
+
+Cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos no cuenten o, bajo protesta de decir verdad, manifiesten no contar con alguno de los bienes a asegurar conforme al orden establecido, se asentará en el acta circunstanciada referida en el segundo párrafo de la fracción II de este artículo.
+
+En el supuesto de que el valor del bien a asegurar conforme al orden establecido exceda del monto de la determinación provisional de adeudos fiscales presuntos efectuada por la autoridad, se podrá practicar el aseguramiento sobre el siguiente bien en el orden de prelación.
+
+Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos no sean localizables en su domicilio manifestado ante la autoridad estatal, desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido o se ignore su domicilio, el aseguramiento se practicará sobre los bienes a que se refiere el inciso f) de esta fracción.
+
+IV. El aseguramiento de los bienes a que se refiere el inciso f) de la fracción III de este artículo, se realizará conforme a lo siguiente:
+
+La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a las diferentes entidades financieras o sociedad cooperativa de ahorro y préstamo que corresponda.
+
+La entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, contará con un plazo de tres días contados a partir de la recepción de la solicitud que realice la autoridad fiscal, para practicar el aseguramiento precautorio.
+
+Una vez practicado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, deberá informar a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a aquél en que lo haya realizado, las cantidades aseguradas en una o más cuentas o contratos del contribuyente, responsable solidario o tercero relacionado con ellos.
+
+En ningún caso procederá el aseguramiento precautorio de los depósitos bancarios, otros depósitos o seguros del contribuyente por un monto mayor al de la determinación provisional de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del aseguramiento, ya sea que se practique sobre una sola cuenta o contrato o más de uno. Lo anterior, siempre y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o contratos y los saldos que existan en los mismos.
+
+V. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el tercer día siguiente a aquél en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación se hará conforme lo prevé el artículo 125 del presente Código.
+
+VI. Los bienes asegurados precautoriamente podrán, desde el momento en que se notifique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 155 de este Código, salvo lo indicado en su segundo párrafo.
+
+El contribuyente, responsable solidario o tercero relacionado con ellos que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+
+Lo establecido en esta fracción no será aplicable tratándose del aseguramiento que se practique sobre los bienes a que se refieren los incisos e) y f) de la fracción III de este artículo, así como sobre las mercancías que se enajenen en los locales, puestos fijos o semifijos en la vía pública, cuando el contribuyente visitado no demuestre estar inscrito en el registro estatal de contribuyentes.
+
+VII. Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen al aseguramiento precautorio, o bien exista orden de suspensión emitida por autoridad competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la medida a más tardar el tercer día siguiente a que ello suceda.
+
+En el caso de que se hayan asegurado los bienes a que se refiere el inciso f) de la fracción III de este artículo, levantamiento del aseguramiento se realizará conforme a lo siguiente:
+
+La solicitud para el levantamiento del aseguramiento precautorio se formulará mediante oficio dirigido a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, dentro del plazo de tres días siguientes a aquél en que se actualice alguno de los supuestos a que se refiere el primer párrafo de esta fracción.
+
+La entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, contará con un plazo de tres días a partir de la recepción de la solicitud respectiva, para levantar el aseguramiento precautorio.
+
+Una vez levantado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate deberá informar del cumplimiento de dicha medida a la autoridad fiscal que ordenó el levantamiento, a más tardar al tercer día siguiente a aquél en que lo haya realizado.
+
+Cuando la autoridad constate que el aseguramiento precautorio se practicó por una cantidad mayor a la debida, únicamente ordenará su levantamiento hasta por el monto excedente, observando para ello lo dispuesto en los párrafos que anteceden.
+
+Tratándose de los supuestos establecidos en el inciso b) de la fracción I de este artículo, el aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al registro estatal de contribuyentes.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -1446,6 +1584,12 @@ V.- Utilizando medios indirectos de la investigación económica o de cualquier 
 ###### ARTÍCULO 71.
 
 Las autoridades fiscales podrán determinar presuntivamente las contribuciones que se debieron haber retenido, cuando aparezca omisión en la retención y entero, por más del 3% sobre las retenciones enteradas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+Asimismo, las autoridades fiscales podrán determinar presuntivamente las contribuciones que se debieron haber retenido y enterado por los establecimientos o prestadores de servicios de juegos con apuestas, sorteos o concursos, cuando estos no cumplan con lo dispuesto por el artículo 212-Y de la Ley de Hacienda del Estado de Sonora.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 Para efectos de la determinación presuntiva a que se refiere este artículo, las autoridades fiscales podrán utilizar indistintamente cualquiera de los procedimientos previstos en las fracciones I a V del artículo 70 de este Código.
 
@@ -2313,15 +2457,13 @@ III.- Cuando de las constancias que obran en el expediente administrativo quede 
 
 IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 118.
 
-Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate podrán hacerse valer en cualquier tiempo, antes de la publicación de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en (sic) que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre dinero en efectivo, depósitos en cuenta abierta en instituciones de crédito, organizaciones auxiliares de crédito o sociedades cooperativas de ahorro y préstamo, así como de bienes legalmente inembargables o actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
 
-Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 119.
 
@@ -2707,11 +2849,11 @@ La Secretaría de Hacienda expedirá Reglas de Carácter General para la aplicac
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+###### ARTÍCULO 146
 
-ARTÍCULO 146 TER.- La Secretaría de Hacienda podrá reducir total o parcialmente multas y recargos por infracciones a las disposiciones fiscales, a solicitud por escrito del sujeto obligado o su representante legal donde exprese las circunstancias que dificultan el regularizarse fiscalmente, para valoración y de proceder, la autorización que corresponda, siempre y cuando el importe de cada concepto a reducir, sean inferiores o iguales al equivalente en moneda nacional a 800 unidades de inversión.
+TER.- La Secretaría de Hacienda podrá reducir total o parcialmente multas y recargos por infracciones a las disposiciones fiscales, a solicitud por escrito del sujeto obligado o su representante legal donde exprese las circunstancias que dificultan el regularizarse fiscalmente, para valoración y de proceder, la autorización que corresponda, siempre y cuando el importe de cada concepto a reducir, sean inferiores o iguales al equivalente en moneda nacional a 800 unidades de medida y actualización.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -4274,3 +4416,19 @@ El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 8, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTOS, DISTRIBUCIÓN ALMACENAMIENTO, TRASPORTACIÓN VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Lo dispuesto en el artículo 41 Decies del Código Fiscal del Estado de Sonora, será aplicable a partir del ejercicio fiscal del año 2019, a efecto de que el primer dictamen se presente a más tardar el día 30 de julio de 2020, por el citado ejercicio fiscal del año 2019.
