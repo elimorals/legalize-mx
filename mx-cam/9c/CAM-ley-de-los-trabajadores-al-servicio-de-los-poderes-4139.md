@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-de-los-poderes-4139"
 country: "mx"
 rank: "ley"
 publication_date: "1979-09-11"
-last_updated: "2018-08-01"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "CAM"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 11 de septiembre de 1979.
 
@@ -55,7 +55,7 @@ DEFINICIONES.
 
 I.- Para los efectos de esta Ley, los Poderes Públicos, los Ayuntamientos Municipales o las Instituciones Descentralizadas, se denominarán Entidades Públicas.
 
-II.- Por trabajador se entiende la persona física que presta un servicio a una Entidad Pública en virtud de nombramiento a su favor o por aparecer en listas de raya de trabajadores permanentes.
+II.- Por trabajador se entiende la persona física que presta un servicio a una Entidad Publica en virtud de nombramiento a su favor o por aparecer en listas de raya de trabajadores permanentes.
 
 III.- Trabajo es toda actividad intelectual o material.
 
@@ -226,6 +226,26 @@ TRABAJO EXTRAORDINARIO.- Todo aumento en la jornada de trabajo será considerado
 DIA DE DESCANSO.- Por cada seis días de trabajo, el trabajador disfrutará de un día de descanso, con goce de sueldo íntegro, procurándose que sea el domingo.
 
 ARTICULO TRIGESIMO.- PERIODO PRENATAL.- Las mujeres embarazadas disfrutaran de un mes de descanso antes de la fecha fijada para el alumbramiento y un mes y medio después del mismo, con goce de sueldo íntegro. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+Los trabajadores del sexo masculino tendrán derecho a un permiso por paternidad con goce de sueldo por cinco días hábiles, contados a partir del nacimiento del hijo, con objeto de atender las necesidades de su cónyuge o concubina después del parto. Para hacer uso de este derecho se deberá presentar el comprobante de alumbramiento o nacimiento del hijo, dentro de los tres días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO TRIGESIMO BIS.- PERMISOS PARA LOS PADRES TRABAJADORES.
+
+Los trabajadores tendrán derecho de un permiso de cinco días hábiles con goce de sueldo, en el caso de la adopción de un infante, contados a partir de la entrega física del menor, circunstancia que deberá acreditarse con el documento emitido por la autoridad correspondiente, dentro de los tres días hábiles siguientes. Cuando no se ejerza el derecho a gozar del permiso por paternidad o adopción, en ningún caso podrá reclamarse pago compensatorio alguno derivado de dicha situación.
+
+Todos los trabajadores tendrán derecho de un permiso con goce de sueldo para acudir una vez al mes a reuniones escolares de sus hijos que se encuentren cursando educación preescolar, primaria, secundaria y media superior; para justificar este permiso, bastará con presentar constancia de asistencia expedida por el centro educativo, dentro de los tres días hábiles siguientes. Esta prestación si no se ejerce, no es acumulativa ni retroactiva.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO TRIGESIMO TER.- PREVENCIÓN Y ATENCIÓN A ENFERMEDADES CANCERÍGENAS. Los trabajadores tendrán derecho a permiso de un día al año, con goce de sueldo, para someterse a la realización de exámenes médicos de prevención de cáncer de mama, cérvico-uterino o de próstata, según sea el caso; para justificar este permiso, se deberá presentar el certificado médico correspondiente expedido por institución pública o privada de salud, dentro de los tres días hábiles siguientes.
+
+Todos los trabajadores tendrán derecho de un permiso con goce de sueldo para acudir a citas médicas cuya finalidad sea la práctica de quimioterapias, radioterapias o procedimiento oncológico diverso en contra de cualquier tipo de cáncer cuando algún hijo menor de edad, cónyuge o pareja de hecho padezca tal enfermedad. Para justificar dicho permiso bastará con presentar constancia médica expedida por institución pública o privada, dentro de los tres días hábiles siguientes.
+
+Los permisos señalados en este artículo no podrán ser sujetos de compensación económica en caso de no ser ejercidos.
 
 ARTICULO TRIGESIMO PRIMERO.- DESCANSO OBLIGATORIO.- Son días de descanso obligatorio, con goce de sueldo íntegro, los que señala el calendario oficial y la Ley Federal del Trabajo.
 
@@ -846,3 +866,11 @@ P.O. 1 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 298 POR EL QUE "SE ADICIONA UN ARTÍCULO TRIGÉSIMO TERCERO BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE".]
 
 ÚNICO.- EL presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 5 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO TRIGÉSIMO Y LOS ARTÍCULOS TRIGÉSIMO BIS Y TRIGÉSIMO TER A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
