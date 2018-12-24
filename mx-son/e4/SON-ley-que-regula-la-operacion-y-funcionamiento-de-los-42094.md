@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2018-09-27"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -205,7 +205,9 @@ Los restaurantes deberán contar con suficientes mesas y sillas para los comensa
 
 VI.- Tienda de Autoservicio.- Establecimiento cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, artículos de consumo básicos de uso doméstico y otra clase de mercancías, en la modalidad de autoservicio, podrá contar con equipo necesario para surtir al cliente productos alimenticios embutidos, lácteos o marinos, pudiendo realizar la venta al público de Bebidas Alcohólicas, por ventana lateral del inmueble.
 
-Deberá contar con una o más cajas para cobro, con refrigeradores o conservadores de alimentos, anaqueles y vitrinas de autoservicio y mostradores, pudiendo complementar su actividad con la venta de bebidas con contenido alcohólico. Del total de su inventario de mercancías, podrá tener hasta un 25% de bebidas con contenido alcohólico, que deberán encontrarse en el área de autoservicio. Asimismo, deberán contar con cajones de estacionamiento suficientes para los clientes.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
+Deberá contar con una o más cajas para cobro, con refrigeradores o conservadores de alimentos, anaqueles y vitrinas de autoservicio y mostradores, pudiendo complementar su actividad con la venta de bebidas con contenido alcohólico. Del total de su inventario de mercancías, podrá tener hasta un 25% de bebidas con contenido alcohólico, que deberán encontrarse en el área de autoservicio. Asimismo, deberán contar con cajones de estacionamiento suficientes para los clientes, la superficie de piso de venta no podrá exceder de 200 metros cuadrados.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -1704,3 +1706,19 @@ B.O. 27 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 8, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTOS, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2019, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Lo dispuesto en el artículo 41 Decies del Código Fiscal del Estado de Sonora, será aplicable a partir del ejercicio fiscal del año 2019, a efecto de que el primer dictamen se presente a más tardar el día 30 de julio de 2020, por el citado ejercicio fiscal del año 2019.
