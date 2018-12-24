@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-calvillo-aguascalientes-29030"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2017-11-06"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE CALVILLO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Cuarta del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -275,47 +275,49 @@ En la constitución, adquisición o extinción del usufructo o de la nuda propie
 
 DE LOS SUJETOS
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 23.
 
-Están obligados al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo (sic) y las construcciones adheridas a él, ubicados en el Municipio, por cualesquiera de las figuras enumeradas en el Artículo 22 de esta Ley.
+Están obligados al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Municipio, por cualesquiera de figuras enumeradas en el Artículo 22 de esta Ley.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
 DE LA BASE
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 24.
 
-Será base para el pago de impuesto, el avalúo para efectos fiscales, al que le será disminuida la cantidad sobre la cual se calculó este impuesto sobre su última adquisición, siempre y cuando ésta se hubiere realizado dentro de los tres años inmediatos anteriores a la adquisición por la que se calcula el impuesto. El avalúo podrá ser a elección del adquirente:
+Será base para el pago de este impuesto, el valor más alto entre el avalúo catastral, comercial o el avalúo de la operación, al que le será disminuida la cantidad sobre la cual se calculó este impuesto sobre su última adquisición, siempre y cuando ésta se hubiere dentro de los tres años inmediatos anteriores a la adquisición por la que se calcula el impuesto. El avalúo no podrá ser a elección del contribuyente, sino de acuerdo a lo expresado en el presente párrafo.
+
+El contribuyente deberá presentar junto con el avalúo catastral, alguno de los avalúos comerciales que se mencionan en los supuestos siguientes:
 
 a) El solicitado a la Secretaría de Finanzas del Municipio con al menos 8 días hábiles de anticipación a la presentación de la declaración para el pago de este impuesto y se deberá cubrir el derecho correspondiente señalado en la respectiva ley de ingresos;
 
 b) El realizado por una institución del sistema financiero mexicano o un organismo público de vivienda, siempre que no tenga más de seis meses de practicado;
 
-c) EI realizado por corredor público siempre que no tenga más de seis meses de practicado; o
+c) El realizado por corredor público siempre que no tenga más de seis meses de practicado; o
 
 d) El que realicen personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, siempre que no tenga más de seis meses de practicado.
 
 El avalúo se acompañará a la declaración para el pago del impuesto sobre adquisición de bienes inmuebles.
 
-Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de 78 metros cuadrados. En este caso, la base para el pago del impuesto será el valor de operación.
+Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de noventa metros cuadrados. En este caso, la base para el pago del impuesto será el valor de operación.
 
-En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará facultada para practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas del Municipio.
+En el caso de los incisos b), c) y d), la Secretaría de Finanzas y Administración estará facultada para practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas y Administración del Municipio.
 
 Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
 
-I. De cinco veces el salario mínimo general vigente en el Estado, elevado al año cuando el inmueble esté construido;
+I. De cinco veces el valor de la unidad de medida y actualización (UMA) vigente en el Estado, elevado al año cuando el inmueble esté construido;
 
-II. De dos y medio veces el salario mínimo general vigente en el Estado, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+II. De dos y medio veces el valor de la unidad de medida y actualización (UMA) vigente en el Estado, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
 
-III. De quince veces el salario mínimo general vigente en el Estado, elevado al año cuando se trate de un inmueble popular, de uso habitacional.
+III. De quince veces el valor de la unidad de medida y actualización (UMA) vigente en el Estado, elevado al año cuando se trate de un inmueble popular, de uso Habitacional.
 
-Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados.
+Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 90 metros cuadrados.
 
-IV. De cinco veces el salario mínimo general vigente en el Estado, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
+IV. De cinco veces el valor de la unidad de medida y actualización (UMA) vigente en el Estado, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
 
 Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -341,7 +343,13 @@ El pago de este impuesto se hará dentro del plazo de treinta días, contados a 
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
-En caso de rescisión tendrá derecho a la devolución del impuesto.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+La falta oportuna del pago de este impuesto causará recargos por concepto de indemnización al fisco municipal, de lo que determine la Ley de Ingresos del Municipio de Calvillo, Aguascalientes para el ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+En caso de rescisión del acto jurídico, el contribuyente tendrá derecho a la devolución del impuesto.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
@@ -387,13 +395,11 @@ El contribuyente podrá pagar el impuesto por anticipado.
 
 DE LAS OBLIGACIONES DE TERCEROS.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 29.
 
-Para los efectos del Artículo 26, los notarios públicos o quienes hagan sus veces y los funcionarios públicos, deberán dar aviso a la Dirección de Finanzas de los actos o contratos en que intervengan y que resulten gravados con este impuesto.
-
-Los particulares tendrán la misma obligación, tratándose de Escrituras otorgadas fuera del Estado.
+Para los efectos del Artículo 26, los notarios públicos o quienes hagan sus veces y los funcionarios públicos deberán dar aviso a la Secretaría de Finanzas y Administración de los actos o contratos en que intervengan y que resulten gravados con este impuesto.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
@@ -693,7 +699,9 @@ Este impuesto se causará y pagará de conformidad con lo que al efecto señale 
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-#### SECCION UNICA
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+#### SECCION PRIMERA. Disposiciones Generales
 
 ###### ARTICULO 68.
 
@@ -719,7 +727,27 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o del desarrollo de una actividad, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio, o al desarrollo de la actividad.
 
-#### SECCION UNICA
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+#### SECCION SEGUNDA. Del derecho de alumbrado público
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 72 A.- El objeto de este derecho será el servicio de alumbrado público que se preste por parte del Municipio, en las vías públicas, calles callejones, parques, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinarán al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 72 B.- Serán sujetos del pago de derecho de alumbrado público, los propietarios o poseedores de predios que se encuentren en el territorio del Municipio de Calvillo, Aguascalientes, consumidores de energía eléctrica clasificados en las Categorías Tarifas DB1, DB2, PDBT, GDBT, GDMTH, GDMTO, DIST y DIT.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 72 C.- El Ayuntamiento está facultado para determinar la forma del cobro de este derecho, previéndose en la correspondiente Ley de Ingresos o mediante el convenio que establezca con la Comisión Federal de Electricidad.
+
+(NOTA: EL 30 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, PARTE FINAL, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2019, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 72 D.- El derecho de alumbrado público se cubrirá en un 10% del importe del consumo de energía eléctrica de los sujetos obligados al pago de este derecho.
 
 ## TITULO TERCERO. DE LOS PRODUCTOS
 
@@ -886,3 +914,11 @@ P.O. 6 DE NOVIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado del (sic) Aguascalientes.
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 77.- LEY DE HACIENDA DEL MUNICIPIO DE CALVILLO, AGS.".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del estado.
