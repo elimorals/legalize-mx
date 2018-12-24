@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2011-01-17"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DEL MUNICIPIO DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-CODIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
+CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -395,7 +395,7 @@ Los habitantes, huéspedes, transeúntes o visitantes, tendrán los siguientes d
 
 I. Derechos:
 
-A. Gozar de la protección del las leyes y del respeto de las autoridades municipales;
+A. Gozar de la protección del (sic) las leyes y del respeto de las autoridades municipales;
 
 B. Obtener de las autoridades la información o auxilio que requieran; y
 
@@ -427,9 +427,13 @@ El Honorable Ayuntamiento es el órgano colegiado de Gobierno del Municipio de e
 
 Durarán en su encargo tres años y tomarán posesión el día primero de enero del año siguiente en que se realice la elección.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 32.
 
-Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y vigilar las dependencias a cargo de sus comisiones permanentes o especiales que se les asignen, pudiendo requerir, a través del Secretario del Ayuntamiento, informes a las dependencias administrativas del municipio, para el mejor desempeño de su comisión y el debido cumplimiento de sus funciones; pero en ningún caso podrán atribuirse funciones ejecutivas respecto a los ramos bajo su responsabilidad.
+Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y vigilar las dependencias a cargo de sus comisiones permanentes o especiales que se les asignen, pudiendo requerir, de forma directa al titular los informes que sean necesarios sobre el desempeño de las dependencias administrativas del municipio, para el mejor ejercicio de su comisión y el debido cumplimiento de sus funciones.
+
+Cuando a juicio de los integrantes de las comisiones permanentes o especiales, determinen que debe tomarse alguna medida concreta en alguna dependencia de la administración municipal, someterán la propuesta a la aprobación del Cabildo, para que de ser aprobada se provea su ejecución por el Presidente Municipal en coordinación con el área que corresponda. En el supuesto de que la medida acordada sea desatendida por sus destinatarios, los miembros del Ayuntamiento podrán ordenar directamente la ejecución de las acciones previstas a través de una instrucción escrita al área competente, la cual en caso de ser desatendida dará lugar a la separación definitiva del funcionario omiso y a la apertura del procedimiento administrativo que corresponda en los términos de Ley.
 
 ###### ARTÍCULO 33.
 
@@ -713,13 +717,15 @@ V. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
 
 ### CAPÍTULO III. De las Atribuciones de los Regidores
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 45.
 
 Los regidores son miembros del Ayuntamiento y forman parte del cabildo del mismo; son electos en los términos que fijen las disposiciones electorales.
 
-Los Regidores son los encargados de vigilar la buena marcha de los ramos de la Administración Municipal y la prestación de los servicios públicos, conforme a lo establecido en la Ley Municipal así como participar en todos las Comisiones y Comités señalados en este Código Municipal.
+Los Regidores son los encargados de vigilar la buena marcha de los ramos de la Administración Municipal y la prestación de los servicios públicos, conforme a lo establecido en la Ley Municipal así como participar en todos (sic) las Comisiones y Comités señalados en este Código Municipal.
 
-Los regidores son los encargados de supervisar el buen funcionamiento de los ramos de la Administración Pública Municipal y la prestación de los servicios públicos conforme a las comisiones que le sean asignadas por el Ayuntamiento, deberán de dar cuenta a éste por las deficiencias detectadas y proponer las medidas adecuadas para corregirlas.
+Los regidores son los encargados de supervisar el buen funcionamiento de los ramos de la Administración Pública Municipal y la prestación de los servicios públicos conforme a las comisiones que le sean asignadas por el Ayuntamiento, deberán de dar cuenta a éste por las deficiencias detectadas y proponer las medidas adecuadas para corregirlas; y en su caso hacer cumplir las medidas ejecutivas que correspondan en los términos previstos en el último párrafo del artículo 32 de este Código.
 
 ###### ARTÍCULO 46.
 
@@ -739,7 +745,9 @@ VI. Rendir informes de su gestión respecto de las comisiones de carácter perma
 
 VII. Rendir ante el Ayuntamiento un informe mensual de actividades;
 
-VIII. Proponer ante el Ayuntamiento todo lo que crean conveniente para el mejoramiento de la Administración Pública Municipal y la prestación de los servicios públicos municipales;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+VIII. Proponer ante el Ayuntamiento todo lo que crean conveniente para el mejoramiento de la Administración Pública Municipal y la prestación de los servicios municipales; y de ser el caso, ejecutar a través de las dependencias correspondientes, los acuerdos decretados por el Cabildo para lograr el cumplimiento de esta facultad;
 
 IX. Cumplir y hacer cumplir en la parte que les corresponda el presente Código, los reglamentos y bando municipales, informando al Presidente Municipal de las faltas que se cometan;
 
@@ -1073,7 +1081,7 @@ VI. Una síntesis de las discusiones en el orden que se desarrollen; y
 
 VII. Resoluciones adoptadas.
 
-El acta se debe acompañar de los documentos a los que se le dé lectura. De igual manera puede llevarse un archivo a parte con la versión estenográfica de la sesión, grabaciones de voz o video.
+El acta se debe acompañar de los documentos a los que se le dé lectura. De igual manera puede llevarse un archivo a parte (sic) con la versión estenográfica de la sesión, grabaciones de voz o video.
 
 ###### ARTÍCULO 84.
 
@@ -2319,9 +2327,15 @@ E. Coordinación de Grupos de la Tercera Edad;
 
 F. Rehabilitación Física y Terapia;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
 IV. Contraloría Municipal estará conformada por:
 
-A. Auditorias y Transparencia;
+A. Auditorias y denuncias;
+
+B. Procedimientos de responsabilidad administrativa; y
+
+C. Transparencia, mejora regulatoria, simplificación administrativa e innovación.
 
 V. Dirección de Administración y Finanzas;
 
@@ -2473,7 +2487,11 @@ En caso de una ausencia temporal del Presidente Municipal si sesionare el Cabild
 
 ### CAPÍTULO V. Del Nombramiento de los Servidores Públicos de la Administración Pública Municipal
 
-ARTÍCULO 224 (SIC).- Al frente de la Secretaría del Ayuntamiento y Dirección General de Gobierno, habrá un profesionista, que se denominará Secretario del Ayuntamiento y Director General de Gobierno, servidor público que será nombrado por el Ayuntamiento a propuesta del Presidente Municipal para el desempeño del cargo, ocupándolo la persona que obtenga la mayoría relativa de los votos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 224 (SIC).- Al frente de la Secretaría del Ayuntamiento y Dirección General de Gobierno, habrá un profesionista, que se denominará Secretario del Ayuntamiento y Director General de Gobierno, servidor público que deberá cumplir con los requisitos señalados en la Ley Municipal para ocupar el cargo. Este funcionario será nombrado por el Ayuntamiento a propuesta del Presidente Municipal para el desempeño del cargo, ocupándolo la persona que obtenga la mayoría relativa de los votos.
+
+Cuando el Cabildo determine la destitución del Secretario del Ayuntamiento, los regidores podrán realizar una propuesta para designar al funcionario que lo sustituya en los términos señalados por la Ley Municipal, siempre que la candidatura sea respaldada por cuando menos cuatro integrantes del Ayuntamiento, la cual será votada en conjunto con la nueva propuesta que, de ser el caso, presente el Presidente.
 
 ###### ARTÍCULO 225.
 
@@ -2599,6 +2617,8 @@ VIII. Acordar con el Presidente Municipal el despacho de los asuntos que le corr
 
 ### CAPÍTULO II. De la Contraloría Municipal
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 235.
 
 Corresponde a la Contraloría Municipal:
@@ -2653,13 +2673,125 @@ XXI. Preparar informes de evaluación y seguimiento de los asuntos en que interv
 
 XXII. Exigir con oportunidad las responsabilidades de los Servidores Públicos del Municipio;
 
-XXIII. Informar al Presidente Municipal de los resultados y avances en el cumplimiento de sus atribuciones;
+XXIII. Informar al Ayuntamiento de los resultados y avances en el cumplimiento de sus atribuciones;
 
 XXIV. Generar políticas de transparencia en el manejo de los recursos públicos;
 
 XXV. Coordinar el Comité Municipal de Transparencia, el cual además se integrará y sesionará bimestralmente con el regidor de la Comisión de Hacienda, Presupuesto, Contabilidad, Programación y Gasto Público, cinco ciudadanos distinguidos del Municipio, representantes de organizaciones económicas, sociales y laborales;
 
-XXVI. Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+XXVI. Promover e implementar en la administración municipal la mejora continua de los procedimientos que contribuyan a la protección de su patrimonio;
+
+XXVII. Dictaminar mensualmente la Cuenta de la Hacienda Pública Municipal que formula la Secretaría de Finanzas Públicas.
+
+XXVIII. Informar semestralmente al Ayuntamiento sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública municipal.
+
+XXIX. Substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XXX. Determinar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas;
+
+XXXI. Crear las bases para que todo ente público del municipio establezca políticas eficaces de ética pública y responsabilidad en el servicio público;
+
+XXXII. Investigar, calificar y substanciar las faltas administrativas graves, no graves y de particulares;
+
+XXXIII. Calificar las faltas de los servidores públicos municipales así como las de los particulares que impliquen presuntas responsabilidades administrativas.
+
+XXXIV. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Nacional y el Sistema Estatal Anticorrupción;
+
+XXXV. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales;
+
+XXXVI. Presentar denuncias por hechos que las leyes señalen como presuntamente constitutivos de delitos ante la Fiscalía Especializada en Combate a la Corrupción, en materia de delitos relacionados con hechos de corrupción en el Estado;
+
+XXXVII. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales; y
+
+XXXVIII. Lo demás que señale la Ley o el H. Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 235 Bis.
+
+La unidad administrativa denominada Auditorias y denuncias, tendrá las siguientes atribuciones:
+
+I. Integrar y presentar para visto bueno del Titular de la Contraloría Municipal, los Programas Operativos Anuales y de Auditoría;
+
+II. Presentar trimestralmente los informes de avance respecto de la ejecución de los Programas Operativos Anuales y de Auditoría;
+
+III. Implementar acciones preventivas y correctivas para el manejo de los recursos, en las Dependencias Municipales y velar por su cumplimiento;
+
+IV. Efectuar el seguimiento de las acciones preventivas y correctivas formuladas por los órganos de fiscalización externos;
+
+V. Emitir el dictamen anual sobre el estado que guarden las cuestiones administrativas y de responsabilidad que son de su competencia;
+
+VI. Realizar en cualquier momento, auditorías al presupuesto de ingresos y egresos del Municipio;
+
+VII. Practicar visitas de auditoría e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
+
+VIII. Iniciar de oficio las auditorías o investigaciones debidamente fundadas y motivadas respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas en el ámbito de su competencia;
+
+IX. Recibir las denuncias y elaborar los informes de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+X. Practicar visitas de verificación, de conformidad con lo previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes;
+
+XI. Fungir como la autoridad investigadora en los procedimientos de responsabilidades administrativas de los servidores públicos, de conformidad con Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+
+XII. Las demás que señalen las leyes o el H. Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 235 Ter.
+
+La unidad administrativa denominada Procedimientos de responsabilidad administrativa tendrá las siguientes atribuciones:
+
+I. Dirigir y conducir como autoridad substanciadora el procedimiento de responsabilidades administrativas, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+
+II. Las demás que señalen las leyes o el H. Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 235 Quater.
+
+En los casos de procedimientos de Responsabilidad Administrativa seguidos ante los Órganos Internos de Control Municipal, el titular de la Contraloría Municipal hará las veces de autoridad resolutora, ejerciendo las atribuciones que para dicha calidad confiere la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 235 Quinquies.
+
+La unidad administrativa denominada Transparencia, mejora regulatoria, simplificación administrativa e innovación tendrá las siguientes atribuciones:
+
+I. Instrumentar y actualizar el sistema de control sobre los programas con indicadores, que sirvan para medir con criterios objetivos la gestión del gobierno y el impacto de las acciones y políticas de gobierno en los ciudadanos;
+
+II. Establecer procedimientos y condiciones homogéneas en el ejercicio del Derecho de Acceso a la Información, mediante procedimientos sencillos y expeditos;
+
+III. Promover, fomentar y difundir la cultura de la transparencia en el ejercicio de la función pública, el acceso a la Información, la participación ciudadana, así como la rendición de cuentas, a través del establecimiento de políticas públicas y mecanismos que garanticen la publicidad de Información oportuna, verificable, comprensible, actualizada y completa, que se difunda en los formatos más adecuados y accesibles para todo el público y atendiendo en todo momento las condiciones sociales, económicas y culturales;
+
+IV. Garantizar la publicidad de Información oportuna, verificable, comprensible, actualizada y completa;
+
+V. Fungir como unidad de transparencia de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
+
+VI. Poner a disposición de los particulares en los sitios de internet y a través de la Plataforma Nacional, la Información que refiere el Titulo Quinto denominado "Obligaciones de Transparencia" de la Ley General de Transparencia;
+
+VII. Resolver y notificar a los interesados las solicitudes de acceso a la Información;
+
+VIII. Impulsar la mejora regulatoria en el Municipio, (sic) través de la coordinación de acciones entre las autoridades y los sectores social y privado;
+
+IX. Fomentar el uso de los medios electrónicos, magnéticos o de cualquier tecnología y el uso de la firma electrónica, archivos electrónicos y base de datos, a fin de hacer más eficientes los servicios, trámites y actos administrativos;
+
+X. Impulsar la homologación de trámites, formatos, requerimientos, padrones y reglamentos, así como cualquier acto administrativo de las dependencias;
+
+XI. Fortalecer y ampliar los medios de participación de los sectores social y privado que estimulen la competitividad, la inversión y el crecimiento económico en el Municipio;
+
+XII. Contribuir a la reducción y eliminación de tiempos y costos económicos, discrecionalidad, duplicidad de requerimientos, trámites y opacidad administrativa;
+
+XIII. Promover mecanismos y reformas al marco regulatorio que permitan fortalecer al mercado, a las empresas y las actividades comerciales, para así incrementar la productividad;
+
+XIV. Diseñar e instrumentar herramientas jurídico-administrativas que nutran el proceso de mejora regulatoria tales como la manifestación de impacto regulatorio y dictamen regulatorio;
+
+XV. Propiciar mecanismos que permitan la presentación formal de quejas y propuestas de mejora regulatoria y garantizar su atención;
+
+XVI. Impulsar programas de capacitación en materia de mejora regulatoria entre los servidores públicos involucrados de las dependencias;
+
+XVII. Fomentar el conocimiento por parte de la sociedad en general, de la normatividad estatal y municipal asociada con trámites y servicios públicos; y
+
+XVIII. Las demás que señalen las leyes o el H. Ayuntamiento.
 
 ### CAPÍTULO III. De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
@@ -2905,9 +3037,13 @@ XXVI. Mecanismos de planeación, coordinación, programación, información cont
 
 XXVII. Las demás que señalen las Leyes, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 243.
 
-Las atribuciones señaladas en el artículo anterior, serán desempeñadas de manera indistinta, según proceda, por el Director de Administración y Finanzas, el Contador General, los departamentos de Contabilidad, Contable de Ingresos y Egresos y el encargado del Área de Catastro.
+Las atribuciones señaladas en el artículo anterior,.únicamente serán desempeñadas, por el Director de Administración y Finanzas, quien deberá reunir todos los requisitos señalados en la Ley Municipal para ocupar el cargo. El Director de Administración y Finanzas podrá instruir al Contador General, los departamentos de Contabilidad, Contable de Ingresos y Egresos y el encargado del Área de Catastro, para lograr el eficaz despacho de los asuntos que son competencia de la Dirección.
+
+Las ausencias temporales del Director de Administración y Finanzas serán cubiertas por el funcionario que determine el Ayuntamiento por mayoría simple de votos. En este caso, el suplente también deberá reunir los requisitos exigidos por el artículo 51 de la Ley Municipal.
 
 ###### ARTÍCULO 244.
 
@@ -4289,7 +4425,7 @@ El salario será uniforme para cada una de las categorías de los trabajadores d
 
 ###### ARTÍCULO 352.
 
-El reglamento descrito en este Capítulo se presentará al Tribunal de Arbitraje del Estado de Aguascalientes, quien previo a su aprobación calificará y aprobará siempre que no contenga disposiciones contrarias al Estatuto Jurídico de los trabajadores al servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados. El reglamento aprobado deberá de publicarse en el Periódico Oficial del Estado, así mismo (sic) deberá de imprimirse y repartirse entre los trabajadores, además se fijarán copias del reglamento en los lugares más visibles de cada dependencia administrativa.
+El reglamento descrito en este Capítulo se presentará al Tribunal de Arbitraje del Estado de Aguascalientes, quien previo a su aprobación calificará y aprobará siempre que no contenga disposiciones contrarias al Estatuto Jurídico de los trabajadores al servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados. El reglamento aprobado deberá de publicarse en el Periódico Oficial del Estado, así mismo deberá de imprimirse y repartirse entre los trabajadores, además se fijarán copias del reglamento en los lugares más visibles de cada dependencia administrativa.
 
 ###### ARTÍCULO 353.
 
@@ -5339,7 +5475,7 @@ A. Planoteca: Contiene planos y mapas, su consulta requiere de autorización por
 
 B. Biblioteca: Se compone de obras dedicadas principalmente a historia regional; su consulta está a disposición del público en general y ésta sólo se hará dentro del edificio;
 
-C. Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial; su consulta está a disposición del público en general y está se hará sólo dentro del edificio. La instrumentación para su consulta deberá ser sistemáticamente actualizada. Así mismo (sic), deberá contar con una recopilación actualizada de leyes, decretos, reglamentos y bandos, que tengan relación con el Estado y el Municipio de El Llano;
+C. Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial; su consulta está a disposición del público en general y está se hará sólo dentro del edificio. La instrumentación para su consulta deberá ser sistemáticamente actualizada. Así mismo, deberá contar con una recopilación actualizada de leyes, decretos, reglamentos y bandos, que tengan relación con el Estado y el Municipio de El Llano;
 
 D. Fototeca: Esta formada por fotografías de administraciones pasadas; su consulta es abierta al público;
 
@@ -6179,7 +6315,7 @@ X. Mantener abiertas constantemente las fosas necesarias para el servicio;
 
 XI. Rendir informe semanal a la Dirección de Servicios Públicos Municipales y Medio Ambiente del movimiento registrado en el panteón de que se trate;
 
-XII. Llevar control absoluto de los empleados al servicio de los panteones, procurando cuidar el orden y la disciplina indispensables. Así mismo (sic) deberá mantener el número de empleados necesarios entro (sic) del panteón hasta que hayan sepultado todos los cadáveres que lleguen durante las horas reglamentarias;
+XII. Llevar control absoluto de los empleados al servicio de los panteones, procurando cuidar el orden y la disciplina indispensables. Así mismo deberá mantener el número de empleados necesarios entro (sic) del panteón hasta que hayan sepultado todos los cadáveres que lleguen durante las horas reglamentarias;
 
 XIII. Mantener vigilancia permanente y aplicar las medidas necesarias para la limpieza e higiene del panteón a su cargo; y
 
@@ -6639,7 +6775,7 @@ Para efectos de este Capítulo se entiende por centro antirrábico municipal, al
 
 ###### ARTÍCULO 677.
 
-Será objeto de las disposiciones contenidas en este Capítulo, todos los animales cánidos (sic), quedando facultadas las autoridades municipales para hacer extensiva a otras especies que entre ellas o por medio de ellas puedan transmitir o portar enfermedades infecto contagiosas.
+Será objeto de las disposiciones contenidas en este Capítulo, todos los animales cánidos, quedando facultadas las autoridades municipales para hacer extensiva a otras especies que entre ellas o por medio de ellas puedan transmitir o portar enfermedades infecto contagiosas.
 
 ###### ARTÍCULO 678.
 
@@ -6737,7 +6873,7 @@ Si durante el período de observación el animal manifiesta signos de rabia y no
 
 ###### ARTÍCULO 698.
 
-Toda persona que tenga conocimiento de que un perro a mordido a una persona está obligada a denunciar de inmediato el hecho al centro antirrábico o en su defecto al centro de salud u hospital más cercano o módulo de información y seguridad.
+Toda persona que tenga conocimiento de que un perro a (sic) mordido a una persona está obligada a denunciar de inmediato el hecho al centro antirrábico o en su defecto al centro de salud u hospital más cercano o módulo de información y seguridad.
 
 ###### ARTÍCULO 699.
 
@@ -8471,7 +8607,7 @@ XVII. Promover el uso eficiente de la energía para asegurar el suministro de la
 
 ###### ARTÍCULO 911.
 
-Se considera de competencia exclusiva de la Federación, según lo dispuesto por la Ley General del Equilibrio Ecológico y la Ley de Protección al Ambiente, la regulación de los materiales o residuos peligrosos, por lo que el Municipio participará como auxiliar en todas la instancias competentes para el cumplimiento de lo dispuesto en la legislación vigente en los términos de los acuerdos que para tal efecto se celebren. Así mismo (sic) el Municipio proporcionará las facilidades administrativas e información u orientación necesarias para que las actividades comerciales que se realizan en mercados y vías públicas así como en otros establecimientos comerciales e industriales manejen y confinen sus desechos según lo dispuesto por las leyes y ordenamientos en la materia.
+Se considera de competencia exclusiva de la Federación, según lo dispuesto por la Ley General del Equilibrio Ecológico y la Ley de Protección al Ambiente, la regulación de los materiales o residuos peligrosos, por lo que el Municipio participará como auxiliar en todas la instancias competentes para el cumplimiento de lo dispuesto en la legislación vigente en los términos de los acuerdos que para tal efecto se celebren. Así mismo el Municipio proporcionará las facilidades administrativas e información u orientación necesarias para que las actividades comerciales que se realizan en mercados y vías públicas así como en otros establecimientos comerciales e industriales manejen y confinen sus desechos según lo dispuesto por las leyes y ordenamientos en la materia.
 
 ###### ARTÍCULO 912.
 
@@ -9301,7 +9437,7 @@ En los centros de reunión, el área de los vestíbulos será por lo menos de pu
 
 ###### ARTÍCULO 1014.
 
-Los escenarios, vestidores, cocinas, bodegas, talleres, cuartos de máquinas y casetas de proyección de los centros de reunión, deberán aislarse del área destinada a los concurrentes mediante elementos o materiales que impidan la transmisión del ruido o de las vibraciones, así mismo (sic) se impedirá que el ruido generado en este tipo de edificios pueda causar molestias a los vecinos.
+Los escenarios, vestidores, cocinas, bodegas, talleres, cuartos de máquinas y casetas de proyección de los centros de reunión, deberán aislarse del área destinada a los concurrentes mediante elementos o materiales que impidan la transmisión del ruido o de las vibraciones, así mismo se impedirá que el ruido generado en este tipo de edificios pueda causar molestias a los vecinos.
 
 ###### ARTÍCULO 1015.
 
@@ -10915,7 +11051,7 @@ Una vez que el elemento de Policía ya sea Federal, Estatal o Municipal que real
 
 ###### ARTÍCULO 1182.
 
-Antes de ingresar al área de internamiento, deberá elaborarse un dictamen a la persona detenida, siendo obligación del médico de guardia precisar si dicha persona presenta alguna lesión, las características de ésta en cuanto a su gravedad, tiempo de sanidad o si se requiere alguna atención médica especializada o su posible internamiento a alguna Institución Hospitalaria, así mismo (sic) deberá determinar en el mismo documento, con toda precisión, si dicha persona se encuentra bajo los efectos de alguna bebida embriagante, sustancia tóxica o enervante, o en caso contrario, si no presenta ninguna de las circunstancias antes descritas. Por otra parte, el médico de guardia deberá expresar en forma clara y concreta si existe algún inconveniente que por su estado de salud física o mental la persona examinada no deba de ingresar al área de internamiento. En el dictamen se precisará el nombre y firma del médico que elabora el documento así como su cédula profesional.
+Antes de ingresar al área de internamiento, deberá elaborarse un dictamen a la persona detenida, siendo obligación del médico de guardia precisar si dicha persona presenta alguna lesión, las características de ésta en cuanto a su gravedad, tiempo de sanidad o si se requiere alguna atención médica especializada o su posible internamiento a alguna Institución Hospitalaria, así mismo deberá determinar en el mismo documento, con toda precisión, si dicha persona se encuentra bajo los efectos de alguna bebida embriagante, sustancia tóxica o enervante, o en caso contrario, si no presenta ninguna de las circunstancias antes descritas. Por otra parte, el médico de guardia deberá expresar en forma clara y concreta si existe algún inconveniente que por su estado de salud física o mental la persona examinada no deba de ingresar al área de internamiento. En el dictamen se precisará el nombre y firma del médico que elabora el documento así como su cédula profesional.
 
 ###### ARTÍCULO 1183.
 
@@ -12911,7 +13047,7 @@ IV. Cuando se trate de subdivisiones o fusiones deberá acompañar el documento 
 
 ###### ARTÍCULO 1409.
 
-Son causas de ratificación de número oficial, cuando se requiera para comprobar la inexistencia de error en el número oficial así mismo (sic) en la nomenclatura, incluyendo la certificación de cambio del nombre en determinado tiempo de una vía pública, se deberá presentar, para poder expedirse este documento, solicitud por escrito ante la Dirección de Obras y Servicios Públicos Municipales, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
+Son causas de ratificación de número oficial, cuando se requiera para comprobar la inexistencia de error en el número oficial así mismo en la nomenclatura, incluyendo la certificación de cambio del nombre en determinado tiempo de una vía pública, se deberá presentar, para poder expedirse este documento, solicitud por escrito ante la Dirección de Obras y Servicios Públicos Municipales, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
 
 ###### ARTÍCULO 1410.
 
@@ -13023,7 +13159,7 @@ El tiempo de vigencia de las licencias de construcción que expida la Dirección
 
 La propia Dirección de Obras Públicas, tendrá facultad para fijar el plazo de vigencia de cada licencia de construcción de acuerdo con las siguientes bases:
 
-I. Para la construcción de obras con superficie hasta de trescientos metros cuadrados, la vigencia máxima será de doce meses; de trescientos un metros (sic) cuadrados hasta mil metros cuadrados de veinticuatro meses, y de más de mil un metros cuadrados de treinta y seis meses;
+I. Para la construcción de obras con superficie hasta de trescientos metros cuadrados, la vigencia máxima será de doce meses; de trescientos un metros cuadrados hasta mil metros cuadrados de veinticuatro meses, y de más de mil un metros cuadrados de treinta y seis meses;
 
 II. Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario; y
 
@@ -13057,7 +13193,7 @@ III. Solicitud de licencia de construcción y bitácora de obra debidamente llen
 
 a. Obras que requieren de Perito Responsable de Obra conforme al presente Libro de Construcciones: Espacio con claros de trabes y/o losas que excedan de cuatro metros de ancho. Ampliaciones en planta baja de construcciones de un solo nivel, de manera que la construcción ya ampliada sobrepase los noventa metros cuadrados en total. Cuando se trate de ampliaciones en primer nivel, planta alta o niveles subsecuentes. Para niveles subsecuentes al primer nivel, deberá presentar, además de los requisitos mencionados, memoria de cálculo estructural elaborada y firmada por el Perito Responsable de Obra en original y copia. Sólo se eximirá de este requisito cuando se trate de una primera ampliación de dieciocho metros cuadrados o menos en primer nivel exclusivamente, sólo cuando los muros de la ampliación coincidan con los de planta baja y no sean de adobe;
 
-b. Obras que se asignan por Servicio Social a Peritos. Cuando se trate de una primera ampliación en primer nivel exclusivamente, en un fraccionamiento de tipo popular o de interés social, si los claros no exceden de cuatro metros de longitud, muros de la planta baja no sean de adobe y coincidan con los de la planta alta y superficie de ampliación de dieciocho a treinta y seis metros cuadrados, así mismo (sic) que la casa ya ampliada no sobrepase los noventa metros cuadrados construidos; Dictamen de Estabilidad Estructural de fincas dañadas o afectadas por grietas en el subsuelo, elaborado por un Perito Especializado en Estructuras y/o Mecánica de Suelos;
+b. Obras que se asignan por Servicio Social a Peritos. Cuando se trate de una primera ampliación en primer nivel exclusivamente, en un fraccionamiento de tipo popular o de interés social, si los claros no exceden de cuatro metros de longitud, muros de la planta baja no sean de adobe y coincidan con los de la planta alta y superficie de ampliación de dieciocho a treinta y seis metros cuadrados, así mismo que la casa ya ampliada no sobrepase los noventa metros cuadrados construidos; Dictamen de Estabilidad Estructural de fincas dañadas o afectadas por grietas en el subsuelo, elaborado por un Perito Especializado en Estructuras y/o Mecánica de Suelos;
 
 c. Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento habitacional urbano autorizado como tal, deberá presentar además, la constancia de compatibilidad urbanística autorizada para uso habitacional; y
 
@@ -13671,7 +13807,7 @@ No se permitirá abrir vanos sobre las colindancias hacia predios vecinos.
 
 ###### ARTÍCULO 1460.
 
-Se permitirá la iluminación diurna natural por medio de domos o tragaluces en los casos de baños, cocinas domésticas, locales de trabajo, reunión, almacenamiento, circulaciones y servicios. En estos casos, la proyección horizontal del vano libre del domo o tragaluz, podrá dimensionarse tomando como base mínima el cuatro por ciento de la superficie del local. El coeficiente de transmitividad del espectro solar del material transparente o traslucido de domos y tragaluces en estos casos no será inferior al ochenta y cinco por ciento.
+Se permitirá la iluminación diurna natural por medio de domos o tragaluces en los casos de baños, cocinas domésticas, locales de trabajo, reunión, almacenamiento, circulaciones y servicios. En estos casos, la proyección horizontal del vano libre del domo o tragaluz, podrá dimensionarse tomando como base mínima el cuatro por ciento de la superficie del local. El coeficiente de transmitividad (sic) del espectro solar del material transparente o traslucido de domos y tragaluces en estos casos no será inferior al ochenta y cinco por ciento.
 
 ###### ARTÍCULO 1461.
 
@@ -14161,7 +14297,7 @@ En los centros de reunión, el área de los vestíbulos será por lo menos de pu
 
 ###### ARTÍCULO 1530.
 
-Los escenarios, vestidores, cocinas, bodegas, talleres, cuartos de máquinas y casetas de proyección de los centros de reunión, deberán aislarse del área destinada a los concurrentes mediante elementos o materiales que impidan la transmisión del ruido o de las vibraciones, así mismo (sic) se impedirá que el ruido generado en este tipo de edificios pueda causar molestias a los vecinos.
+Los escenarios, vestidores, cocinas, bodegas, talleres, cuartos de máquinas y casetas de proyección de los centros de reunión, deberán aislarse del área destinada a los concurrentes mediante elementos o materiales que impidan la transmisión del ruido o de las vibraciones, así mismo se impedirá que el ruido generado en este tipo de edificios pueda causar molestias a los vecinos.
 
 ###### ARTÍCULO 1531.
 
@@ -14633,7 +14769,7 @@ Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos
 
 Las separaciones entre construcciones deberán protegerse por medio de tapajuntas o sellos que impidan la penetración de agua, basuras y otros materiales.
 
-### CAPÍTULO VI. Del las Excavaciones, Rellenos y Cimentación
+### CAPÍTULO VI. Del (sic) las Excavaciones, Rellenos y Cimentación
 
 ###### ARTÍCULO 1614.
 
@@ -15897,7 +16033,7 @@ Los servidores públicos municipales encargados de la función de inspección te
 
 ###### ARTÍCULO 1798.
 
-Para ser Inspector Municipal requiere (sic):
+Para ser Inspector Municipal requiere:
 
 I. Ser de nacionalidad mexicana;
 
@@ -16531,7 +16667,7 @@ II. Sanción de veinte veces de salario mínimo por:
 
 a. Realizar reventa de boletos de espectáculos; y
 
-b. Efectuar bailes, fiestas y diversiones sin la debida autorización, independientemente del pago de impuestos en los casos que establece la Ley de Ingresos del Municipio del Llano (sic), para el ejercicio fiscal correspondiente;
+b. Efectuar bailes, fiestas y diversiones sin la debida autorización, independientemente del pago de impuestos en los casos que establece la Ley de Ingresos del Municipio del Llano, para el ejercicio fiscal correspondiente;
 
 III. Sanción de treinta veces de salario mínimo por:
 
@@ -16796,3 +16932,19 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de El Llano, Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal por el Estado de Aguascalientes; tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento Profra. Josefina Gallegos Vázquez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 32, 45, 46, FRACCIÓN VIII; 215, 224, 235, 235 BIS, 235 TER, 235 QUATER, 235 QUINQUIES Y 243 DEL CÓDIGO MUNICIPAL PARA EL MUNICIPIO DE EL LLANO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. El cabildo hará las previsiones presupuestales necesarias para lograr la cumplimentación administrativa del presente decreto.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+## TRANSITORIOS
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
