@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-10-29"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2633,9 +2633,9 @@ Para el caso del supuesto establecido en el párrafo anterior, dicha facultad se
 
 XII. Registrar en el Sistema de Contabilidad Gubernamental todos los expedientes de Obra Pública.
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
-XIII. Realizar directamente o a través de terceros las obras o acciones destinadas a viviendas unifamiliares de hogares ubicados en las zonas identificadas como de atención prioritaria, de pobreza extrema, de alto y muy alto rezago social así como otras zonas del municipio que presenten carencias sociales contenidas en los indicadores del informe anual emitido por el CONEVAL, previo estudio socioeconómico o su equivalente, que incluyan construcción nueva, ampliación, remodelación, mantenimiento o reparación integral de las construcciones; otorgándolas al propietario del inmueble en la calidad de título gratuito todo ello apegado al marco de los programas y sus reglas de operación, ya sean federales, estatales y/o municipales. Por cada intervención que la secretaria realice, deberá signarse un convenio de concertación con el propietario especificando la autorización manifiesta para que la acción corresponda así como los alcances y metas de la acción programada, su costo y supervisión correspondiente.
+XIII. Realizar directamente o a través de terceros las obras o acciones destinadas a viviendas unifamiliares de hogares ubicados en las zonas identificadas como de atención prioritaria, de pobreza extrema, de alto y muy alto rezago social así como otras zonas del municipio que presenten carencias sociales contenidas en los indicadores del informe anual emitido por el CONEVAL, previo estudio socioeconómico o su equivalente, que incluyan construcción nueva, ampliación, remodelación, mantenimiento o reparación integral de las construcciones; otorgándolas al propietario del inmueble en la calidad de título gratuito todo ello apegado al marco de los programas y sus reglas de operación, ya sean federales, estatales y/o municipales. Por cada intervención que la Secretaría realice, deberá signarse una concertación por cada beneficiario especificando la autorización manifiesta para que la acción corresponda así como los alcances y metas de la acción programada, su costo y supervisión correspondiente.
 
 > <small>(ADICIONADA, P.O. 4 DE ENERO DE 2016)</small>
 
@@ -24352,3 +24352,9 @@ P.O. 29 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA A LOS ARTÍCULOS 1357, 1383, 1384 Y 1385, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 1384 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO: La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; REFORMA A LOS ARTÍCULOS 39, 46, 52, 54 Y FRACCIÓN IV DEL ARTÍCULO 57 DEL REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA DE AGUASCALIENTES".]
+
+ÚNICO.- Las presentes reformas, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
