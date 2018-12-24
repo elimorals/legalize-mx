@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2018-09-03"
+last_updated: "2018-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -925,9 +925,13 @@ Habrá en el Estado los Juzgados de Primera Instancia Civiles, Mercantiles, Fami
 
 Habrá en el Estado los partidos judiciales que sean necesarios para la pronta administración de justicia que apruebe el Consejo de la Judicatura de conformidad con su disponibilidad presupuestal, el cual determinará la competencia territorial y, en su caso, la especialización por materia de los juzgados.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2018)</small>
 
-Tratándose de diligencias que deban de practicarse en partido judicial distinto al del Juez competente, se estará a lo que dispone el artículo 98 del Código de Procedimientos Civiles del Estado de Aguascalientes, en asuntos de materia civil, mercantil y familiar.
+Para establecer los Partidos Judiciales, el Consejo de la Judicatura deberá tomar en cuenta las condiciones demográficas, geográficas, económicas, sociales y de vías de comunicación que prevalezcan en los municipios que integren cada partido judicial, buscando facilitar el acceso a la impartición de justicia a los habitantes del Estado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+Tratándose de diligencias que deban de practicarse en partido judicial distinto al del Juez competente, se estará a lo que dispone el Artículo 98 del Código de Procedimientos Civiles del Estado de Aguascalientes, en asuntos de materia civil, mercantil y familiar.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
 
@@ -2464,3 +2468,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Fiscalía General del Estado de Aguascalientes contará con 90 días naturales para la elaboración del Formato de Atención a Víctimas u Ofendidos del Delito y su entrada en operación.
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 79.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 35; ASÍ COMO SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
