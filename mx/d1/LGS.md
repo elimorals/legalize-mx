@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2018-07-12"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ LEY GENERAL DE SALUD
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
 
-ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 19 DE JUNIO DE 2017.
+ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 7 de febrero de 1984.
 
@@ -8899,3 +8899,9 @@ Tercero.- El Sector Salud deberá adecuar, en un plazo no mayor a un año, a par
 Cuarto.- La Secretaría de Gobernación y las autoridades competentes deberán, en un plazo no mayor a 180 días a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, instalar el Registro Nacional de Personas con Discapacidad y llevar a cabo los ajustes técnicos que permitan la impresión del comprobante de la Clave Única de Registro de Población con o sin la información del Certificado de Discapacidad, según los fines que al interesado convengan.
 
 Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes.
+
+D.O.F. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ADICIONA LA SUBSTANCIA ALFA-FENILACETOACETONITRILO (APAAN), A LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CAPSULAS, TABLETAS Y/O COMPRIMIDOS, Y A LA FRACCIÓN I DEL ARTÍCULO 245 DE LA LEY GENERAL DE SALUD”.]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
