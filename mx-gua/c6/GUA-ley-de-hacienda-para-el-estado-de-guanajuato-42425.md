@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2018-09-24"
+last_updated: "2018-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -689,13 +689,189 @@ En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de
 
 El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destinará a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior; y el 10% a la Secretaría de Finanzas, Inversión y Administración para gastos de administración integral del impuesto.
 
-### CAPÍTULO PRIMERO. REGLAS GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO SEXTO. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 48 Bis.
+
+Están obligadas al pago del impuesto sobre tenencia o uso de vehículos, las personas físicas y morales tenedoras o usuarias de los vehículos de transporte privado, siempre que el Estado expida las placas de circulación a dichos vehículos.
+
+Para los efectos de este impuesto, se presume que el propietario, por cualquier título, es tenedor o usuario del vehículo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 48 Ter.
+
+Los contribuyentes pagarán el impuesto sobre tenencia o uso de vehículos, por año calendario, durante los tres primeros meses salvo que en el apartado correspondiente se establezca disposición en contrario.
+
+El impuesto se pagará mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general.
+
+Los contribuyentes del impuesto sobre tenencia o uso de vehículos no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos al Registro Estatal de Contribuyentes, a excepción de las personas morales y físicas con actividad empresarial que deban estar inscritas en dicho registro.
+
+El pago del impuesto se realizará de manera simultánea con los derechos por refrendo anual de placas y tarjeta de circulación y será requisito para realizar trámites en el Padrón Vehicular Estatal.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 48 Quater.
+
+Para los efectos de este Capítulo, se considera como:
+
+I.- Año modelo: Periodo comprendido entre el inicio de la producción de determinado tipo de vehículo y el 31 de diciembre del año calendario con el que el fabricante designe el modelo en cuestión. Se presume, salvo prueba en contrario, que el año modelo coincide con el año calendario en que un vehículo sea nuevo;
+
+II.- Carrocería básica: Conjunto de piezas metálicas o de plástico que configuran externamente a un vehículo y de la que derivan los diversos modelos;
+
+III.- Comerciantes en el ramo de vehículos: Personas físicas y morales cuya actividad sea la venta de vehículos nuevos o usados, pudiendo también realizar la importación de los mismos;
+
+IV.- Modelo: Todas las versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea;
+
+V.- Versión: Cada una de las distintas presentaciones comerciales que tiene un modelo;
+
+VI.- Valor total del vehículo: Precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresa o comerciante en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones, a excepción del impuesto al valor agregado desglosado en el comprobante.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los descuentos y bonificaciones, así como los intereses derivados de créditos otorgados para la adquisición del mismo. En aquellos casos en que no se cuente con documentos que permitan conocer el valor total del vehículo, la Secretaría de Finanzas, Inversión y Administración podrá presumir que coincide con la de otro vehículo del mismo modelo y año que se encuentre registrado en el Padrón Vehicular Estatal. Cuando no exista otro vehículo del mismo modelo y año registrado en el Padrón Vehicular Estatal, la Secretaría de Finanzas, Inversión y Administración podrá emitir un avalúo para los efectos de este impuesto.
+
+Cuando se desconozca la fecha de adquisición de un vehículo, se presumirá que corresponde al primer día de enero del año modelo del mismo;
+
+VII.- Vehículos: Automotores que refiere la Ley de Movilidad del Estado de Guanajuato y sus Municipios; y
+
+VIII.- Vehículo nuevo: El que se enajena o sobre el que se otorgue el uso o goce temporal por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 48 Quinquies.
+
+Son responsables solidarios del pago del impuesto sobre tenencia o uso de vehículos, además de los supuestos previstos en el Código Fiscal para el Estado de Guanajuato que resulten aplicables:
+
+I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera;
+
+II.- Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera; y
+
+III.- Los arrendatarios en contratos de arrendamiento puro o arrendamiento financiero cuando el vehículo objeto del arrendamiento se registre en el Padrón Vehicular Estatal.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 48 Sexies.
+
+Cuando por cualquier causa un vehículo cambie de propietario, salga de la posesión o deje de ser usado por la persona a nombre de quien está inscrito en el Padrón Vehicular Estatal, o dicho vehículo sea registrado en otra Entidad Federativa, dicha persona estará obligada a dar de baja el vehículo y placas de circulación del registro mencionado, debiendo cumplir con los requisitos señalados en esta Ley.
+
+En caso de incumplimiento, será considerado responsable solidario del pago del impuesto a que se refiere este Capítulo.
+
+Cuando los contribuyentes sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este artículo, el plazo a que se refiere el artículo 42 del Código Fiscal para el Estado de Guanajuato, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 48 Septies.
+
+La Federación, la Ciudad de México y sus alcaldías, los estados, los municipios, sus organismos descentralizados o cualquier otra entidad pública, deberán pagar el impuesto sobre tenencia o uso de vehículos, con las excepciones que en este Capítulo se señalan.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 48 Octies.
+
+Quedan exentos del impuesto sobre tenencia o uso de vehículos en los siguientes:
+
+I.- Los eléctricos cuya propulsión sea a través de baterías eléctricas recargables, así como los vehículos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno;
+
+II.- Los importados temporalmente, en los términos de la legislación aduanera;
+
+III.- Los de la Federación, estados, municipios, Ciudad de México y sus alcaldías, así como de sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y los vehículos propiedad de instituciones de beneficencia autorizadas por las leyes de la materia, que sean utilizados para el cumplimiento de sus fines; así como los destinados a los cuerpos de bomberos y las ambulancias dependientes de las entidades e instituciones a las que hace referencia esta fracción;
+
+IV.- Los automóviles al servicio de misiones diplomáticas y consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
+
+V.- Los que tengan para su primera enajenación, los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos;
+
+VI.- Aquellos cuyo año modelo tenga más de diez años de antigüedad al ejercicio fiscal en curso;
+
+VII.- Los vehículos destinados al servicio de transporte público;
+
+VIII.- Los autobuses, remolques y camiones, referidos en la Ley de Movilidad del Estado de Guanajuato y sus Municipios, excepto los tipos pick up; y
+
+IX.- Los vehículos para discapacitados.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones I a IV de este artículo, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 10 días siguientes a aquél en que tenga lugar el hecho de que se trate.
+
+Por los vehículos propiedad de personas físicas de 65 años de edad cumplidos y más, se deberá pagar solamente el 50% del impuesto causado conforme al artículo 48 Decies de esta ley. Este beneficio solamente aplica para un vehículo por persona.
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones III y IV de este artículo, deberán comprobar ante la Secretaría de Finanzas, Inversión y Administración que se encuentran comprendidos en dichos supuestos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 48 Nonies.
+
+En el caso de vehículos nuevos, usados o importados, el impuesto deberá calcularse y enterarse dentro de los 10 días hábiles siguientes a la fecha en que se hubieren adquirido o importado, respectivamente.
+
+Para los efectos del cómputo del plazo a que se refiere el párrafo anterior, salvo prueba en contrario, se presumirá que la fecha de adquisición o la fecha de importación es la asentada en la factura, endoso o pedimento de importación que corresponda.
+
+Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Capítulo, correspondiente al primer año de calendario, dentro los 10 días hábiles siguientes a la fecha en que se hubiere importado el vehículo, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general. Por el segundo y siguientes años de calendario, se estará a lo dispuesto en el artículo 48 Ter de esta Ley.
+
+Para los efectos del párrafo anterior, el impuesto se entenderá causado en el momento en el que queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el artículo 48 Ter y el presente artículo de esta Ley, según sea el caso.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+MES DE ADQUISICIÓN FACTOR APLICABLE AL IMPUESTO CAUSADO
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 48 Decies.
+
+El impuesto Sobre Tenencia o Uso de Vehículos se calculará como a continuación se indica:
+
+Todos los vehículos, incluidas motocicletas contarán con un monto exento de $500,000.00. Cuando el valor total del vehículo sea superior al monto exento, el impuesto causado será la cantidad que resulte de disminuir a dicho valor el monto exento y aplicar al excedente la tasa correspondiente prevista en la Ley de Ingresos para el Estado de Guanajuato.
+
+En la aplicación de las tasas establecidas en la Ley de Ingresos para el Estado de Guanajuato, se tendrá como resultado, el impuesto causado en el año calendario en que el vehículo se considera como nuevo, como aquel que corresponde al año modelo, en los términos de las fracciones I, VI y VIII del artículo 48 Quater de esta Ley. En los años posteriores a los antes señalados, el impuesto causado en el año de cálculo se obtendrá de multiplicar el monto obtenido de las fracciones anteriores por el factor que indica la siguiente tabla de disminución anual:
+
+Año de cálculo Factor aplicable al impuesto causado en el año modelo
+
+1 año posterior al año modelo 0.90
+
+2 años posteriores al año modelo 0.80
+
+3 años posteriores al año modelo 0.70
+
+4 años posteriores al año modelo 0.60
+
+5 años posteriores al año modelo 0.50
+
+6 años posteriores al año modelo 0.40
+
+7 años posteriores al año modelo 0.30
+
+8 años posteriores al año modelo 0.20
+
+9 años posteriores al año modelo 0.10
+
+En caso que no sea posible conocer el año modelo del vehículo, y que tampoco se demuestre una antigüedad del mismo mayor a diez años, se considerará que se trata de vehículo nuevo y en los años posteriores se aplicarán los factores de disminución del impuesto señalados en la tabla de disminución anual del impuesto.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS DE MOVILIDAD EN MATERIA DE TRÁNSITO
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO PRIMERO. REGLAS GENERALES
 
 ###### Artículo 49.
 
@@ -725,7 +901,9 @@ Estarán exentos del pago de derechos estatales: la Federación, el Estado y los
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO TERCERO. DE LOS DERECHOS POR USO DE CARRETERAS Y PUENTES ESTATALES DE CUOTA
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS DE MOVILIDAD EN MATERIA DE TRÁNSITO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 53.
 
@@ -781,7 +959,41 @@ Los avisos anteriores se presentarán dentro de los diez días hábiles siguient
 
 Para obtener la baja definitiva del vehículo en los casos de cambio de propietario, cambio de domicilio fuera del Estado, por destrucción, desarme y por cambio en el servicio a que se destine el vehículo, será preciso comprobar que no se tienen adeudos con el Fisco del Estado y devolver las placas metálicas y tarjeta de circulación respectiva.
 
-### CAPÍTULO ÚNICO. DE LA CONTRIBUCIÓN POR EJECUCION DE OBRAS PÚBLICAS
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 55 Bis.
+
+La Secretaría de Finanzas, Inversión y Administración para efectos de mantener actualizado el padrón vehicular podrá, de oficio, declarar la baja de los vehículos y los registros vehiculares que se encuentren contemplados en los siguientes supuestos:
+
+I.- Cuando las entidades federativas informen de manera oficial que han causado alta en sus padrones respectivos. Asimismo, de aquéllos que derivado de la consulta en el Registro Público Vehicular de la unidad administrativa federal competente, se obtenga como resultado la existencia de un registro posterior en otra Entidad Federativa.
+
+II.- Los que cuenten con adeudos por concepto del pago de refrendo anual de placas metálicas y tarjeta de circulación por seis ejercicios fiscales o más y que el año modelo del vehículo sea de cuarenta años o más.
+
+III.- Las placas demostración o traslado que hayan sido expedidas conforme a las abrogadas Ley de Tránsito y Transporte del Estado de Guanajuato y el Reglamento de Tránsito de la Ley de Tránsito y Transporte del Estado de Guanajuato y que las personas a las que les fueron otorgadas, hayan presentado el aviso correspondiente ante el Registro Federal de Contribuyentes para cesar la actividad comercial de compraventa de vehículos.
+
+El registro vehicular que cause baja mediante la declaratoria de la autoridad, perderá su vigencia.
+
+La declaratoria de la baja oficiosa de los vehículos y registros vehiculares, se realizará conforme al procedimiento siguiente:
+
+La autoridad fiscal encargada del registro y control de los vehículos dentro del trimestre que corresponda, identificará la información de los vehículos y registros vehiculares, que se ubiquen en los supuestos antes citados.
+
+La Secretaría de Finanzas, Inversión y Administración publicará en el Periódico Oficial del Gobierno del Estado y en su portal electrónico oficial, el listado de los vehículos que, por ubicarse en cualquiera de los supuestos antes mencionados, son susceptibles de ser dados de baja de manera oficiosa mediante declaratoria. Dicho listado contendrá marca, línea, año modelo y placa metálica del vehículo, así como el supuesto jurídico en el que se encuadra, dentro del mes inmediato posterior, al trimestre que corresponda.
+
+Los propietarios o legítimos poseedores de los vehículos contarán con un plazo de diez días hábiles contados a partir de la publicación en los medios señalados en el párrafo anterior, para expresar lo que a su derecho corresponda y en su caso proceda a la actualización del registro del vehículo de que se trate, previo el pago del crédito fiscal que existiere y el cumplimiento de los demás requisitos que, para tal efecto, establezcan las leyes y reglamentos.
+
+Concluido el plazo que se cita en el párrafo anterior, la Secretaría de Finanzas, Inversión y Administración emitirá la declaratoria de baja mediante el dictamen que contendrá el listado de vehículos respecto de los cuales no se realizó acción alguna por parte de sus propietarios o legítimos poseedores, o bien, que no se actualizó su registro.
+
+El dictamen a que se refiere el párrafo anterior, será publicado en los mismos medios oficiales referidos en el quinto párrafo de este artículo, dentro de los diez días hábiles siguientes a la fecha de su emisión, mismo que contendrá marca, línea, año modelo y placa metálica del vehículo, así como el supuesto jurídico en el que se encuadra.
+
+La Secretaría de Finanzas, Inversión y Administración, dentro de los diez días hábiles siguientes a la fecha en que se publicó el dictamen de la declaratoria de baja, requerirá a las autoridades en materia de tránsito o movilidad competentes, el retiro de la circulación de los vehículos y registros que por haber causado baja han quedado sin vigencia.
+
+Los propietarios o legítimos poseedores de vehículos y titulares de registros que hayan causado baja mediante declaratoria, para efectos de su actualización en el padrón vehicular, deberán realizar el pago de los créditos fiscales causados, así como enterar los derechos por la ministración de placas metálicas y tarjeta de circulación, o bien, presentar el aviso de baja definitiva.
+
+Los créditos fiscales se causarán hasta el momento en que la autoridad declare la baja y subsistirán hasta en tanto sean cubiertos. En el caso de que éstos no se cubran, la autoridad fiscal atenderá el procedimiento respectivo para el cobro de créditos fiscales contemplado en el Código Fiscal para el Estado de Guanajuato.
+
+La declaración de la baja por parte de la Secretaría de Finanzas, Inversión y Administración, no libera del cumplimiento de lo establecido en la fracción IV del artículo 54 de la presente Ley.
+
+### CAPÍTULO TERCERO. DE LOS DERECHOS POR USO DE CARRETERAS Y PUENTES ESTATALES DE CUOTA
 
 ###### Artículo 56.
 
@@ -809,7 +1021,7 @@ No se pagarán los derechos de carreteras y puentes estatales, por los vehículo
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE LA CONTRIBUCIÓN POR EJECUCION DE OBRAS PÚBLICAS
 
 ###### Artículo 60.
 
@@ -941,7 +1153,7 @@ Las obras públicas pueden ser realizadas a iniciativa del Ejecutivo del Estado,
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-### CAPÍTULO ÚNICO. CONTRIBUCIONES DE MEJORAS POR OBRAS PÚBLICAS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 76.
 
@@ -1003,9 +1215,7 @@ III.- Cualquier otro acto productivo del Estado de acuerdo con las disposiciones
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO ÚNICO. CONTRIBUCIONES DE MEJORAS POR OBRAS PÚBLICAS
 
 ###### Artículo 83.
 
@@ -1052,6 +1262,10 @@ Los recargos y los gastos de ejecución de contribuciones o aprovechamientos se 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ## TÍTULO SEXTO. DE LOS RECURSOS FEDERALES
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 86.
 
@@ -1136,3 +1350,11 @@ P.O. 24 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 343, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 38, PRIMER PÁRRAFO, 39, PRIMER PÁRRAFO, 42, SEGUNDO PÁRRAFO, 43, SEGUNDO PÁRRAFO QUE AHORA SERÁ TERCER PÁRRAFO Y 44, PRIMER PÁRRAFO Y FRACCIÓN I; Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 39 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 43, PARA QUEDAR EL ACTUAL PÁRRAFO SEGUNDO COMO PÁRRAFO TERCERO DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 50, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE ADICIONAN UN CAPÍTULO SEXTO DENOMINADO "DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS", AL TÍTULO PRIMERO, CONFORMADO POR LOS ARTÍCULOS 48 BIS, 48 TER, 48 QUATER, 48 QUINQUIES, 48 SEXIES, 48 SEPTIES, 48 OCTIES, 48 NONIES Y 48 DECIES; ASÍ COMO UN ARTÍCULO 55 BIS AL CAPÍTULO SEGUNDO DEL TÍTULO SEGUNDO, A LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2019, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Para el cálculo del impuesto sobre tenencia o uso de vehículos de aquellos vehículos cuyo año modelo es anterior a 2019, deberá hacerse el cálculo previsto en el artículo 48 Decies, según corresponda, con el único propósito de obtener un monto que se deberá multiplicar por el factor de la tabla de aminoración anual y con ello obtener el impuesto causado en 2019. El mismo mecanismo deberá emplearse en los años subsecuentes.
