@@ -4,7 +4,7 @@ identifier: "LFCPQ"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1997-12-26"
-last_updated: "2017-07-18"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11057&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCI
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
-ÚLTIMA ACTUALIZACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2017.
+ÚLTIMA ACTUALIZACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de diciembre de 1997.
 
@@ -103,6 +103,8 @@ La Procuraduría General de la República tendrá la intervención que le corres
 [NOTA 3. DE CONFORMIDAD CON EL ACUERDO EMITIDO POR EL CONSEJO GENERAL DE SALUBRIDAD, D.O.F. FECHA 28 DE OCTUBRE DE 2015. SE ADICIONAN LAS SUBSTANCIAS NITROETANO, NITROMETANO, BENZALDEHÍDO Y CLORURO DE BENCILO A LA FRACCIÓN I DEL LISTADO DE CLASIFICACIÓN DE SUBSTANCIAS CONTROLADAS. DICHO ACUERDO ENTRA EN VIGOR A LOS 90 DÍAS NATURALES SIGUIENTES AL DÍA DE SU PUBLICACIÓN EN EL D.O.F., POR LO QUE SE SUGIERE CONSULTAR DICHA PUBLICACIÓN.]
 
 [NOTA 4. DE CONFORMIDAD CON EL ACUERDO EMITIDO POR EL CONSEJO GENERAL DE SALUBRIDAD, D.O.F. FECHA 18 DE JULIO DE 2017, SE ADICIONAN LAS SUBSTANCIAS N-FENETIL-4-PIPERIDONA (NPP) Y 4-ANILINO-N-FENETILPIPERIDINA (ANPP), AL LISTADO DE LA CLASIFICACIÓN A QUE SE REFIERE LA FRACCIÓN I DEL LISTADO DE CLASIFICACIÓN DE SUBSTANCIAS CONTROLADAS, POR LO QUE SE SUGIERE CONSULTAR DICHA PUBLICACIÓN.]
+
+[NOTA 5. DE CONFORMIDAD CON EL ACUERDO EMITIDO POR EL CONSEJO GENERAL DE SALUBRIDAD, D.O.F. FECHA 24 DE DICIEMBRE DE 2018, SE ADICIONA LA SUBSTANCIA ALFA-FENILACETOACETONITRILO (APAAN), AL LISTADO DE LA CLASIFICACIÓN A QUE SE REFIERE LA FRACCIÓN I DEL LISTADO DE CLASIFICACIÓN DE SUBSTANCIAS CONTROLADAS, POR LO QUE SE SUGIERE CONSULTAR DICHA PUBLICACIÓN.]
 
 ###### Artículo 4.
 
@@ -381,6 +383,18 @@ D.O.F. 18 DE JULIO DE 2017.
 PRIMERO. Se adicionan al listado de substancias controladas a que se refiere la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, las substancias denominadas N-fenetil-4-piperidona (NPP) y 4-anilino-N-fenetilpiperidina (ANPP).
 
 SEGUNDO. Para los efectos de lo establecido en los artículos 234 y 235 de la Ley General de Salud, las substancias denominadas N-fenetil-4-piperidona (NPP) y 4-anilino-N-fenetilpiperidina (ANPP), se consideran estupefacientes.
+
+## TRANSITORIO
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE ADICIÓN AL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se adiciona a la fracción I, del artículo 4 de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, la substancia denominada alfa-Fenilacetoacetonitrilo (APAAN).
+
+SEGUNDO. Se adiciona a la fracción I, del artículo 245 de la Ley General de Salud, la substancia denominada alfa-Fenilacetoacetonitrilo (APAAN).
 
 ## TRANSITORIO
 
