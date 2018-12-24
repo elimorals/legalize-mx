@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-ecologia-del-estado-48249"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-22"
-last_updated: "2018-07-02"
+last_updated: "2018-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGIA DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y ORDENAMIENTO TERRITORIAL, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGÍA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el jueves 22 de diciembre de 2005.
 
@@ -1646,3 +1648,61 @@ Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretar�
 Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
 
 Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 9, MEDIANTE EL CUAL SE EXPIDIÓ EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y ORDENAMIENTO TERRITORIAL”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación Reglamento Interior del Instituto de Ecología
+
+Artículo Segundo. Se abroga el Decreto Gubernativo Número 257, mediante el cual se expide el Reglamento Interior del Instituto de Ecología del Estado publicado en el Periódico Oficial del Gobierno del Estado número 203, Segunda Parte, de 22 de diciembre de 2005, en los siguientes términos:
+
+I. En tanto concluye el proceso de entrega-recepción extraordinario, continuarán vigentes las facultades de la Dirección Administrativa prevista en el Capítulo Décimo Primero del Reglamento Interior que se abroga, contenidas del artículo 49 al artículo 54. El citado proceso deberá quedar concluido a más tardar el 31 de Diciembre de 2018;
+
+II. Todo trámite o procedimiento administrativo que se haya iniciado o se encuentre en proceso de atención y resolución ante las unidades administrativas del Instituto de Ecología del Estado, a la entrada en vigor del presente Decreto, será puesto en etapa de resolución por las unidades administrativas de la Secretaría de Medio Ambiente y Ordenamiento Territorial hasta su total conclusión, de conformidad con el siguiente cuadro explicativo:
+
+Denominación ante el Instituto Denominación ante la Secretaría
+
+de Ecología del Estado de Medio Ambiente y Ordenamiento
+
+Territorial
+
+Dirección de Recursos Dirección General de Recursos Naturales
+
+Naturales
+
+Dirección de Impacto Dirección General de Gestión Ambiental
+
+Ambiental y Manejo Integral
+
+de residuos
+
+Dirección de Asuntos Jurídicos Dirección General de Asuntos Jurídicos
+
+Dirección de Vinculación
+
+Dirección de Planeación y Dirección General de Planeación
+
+Política Ambiental (en materia y Proyectos Estratégicos
+
+de Planeación)
+
+Dirección de Planeación y Dirección General de Cambio
+
+Política Ambiental (en materia Climático y Sustentabilidad Energética
+
+de Cambio Climático)
+
+Dirección de la Calidad del Aire Dirección General de Calidad del Aire.
+
+III. En atención a al (sic) dispositivo séptimo transitorio del Decreto Legislativo Número 332, publicado en el Periódico Oficial del Gobierno del Estado número 190, Decima Tercera Parte, del 21 de septiembre de 2018, las resoluciones, acuerdos o actos administrativos por el cual se concluyan los asuntos en trámite, serán suscritos por quien sea Titular de la Secretaría o por la unidad administrativa que faculte el presente Decreto.
+
+Vigencia del Reglamento Interior de la Comisión de Vivienda
+
+Artículo Tercero. En tanto se realiza el proceso de extinción de la Comisión de Vivienda del Estado de Guanajuato, el Decreto Gubernativo Número 180, mediante el cual se expide su Reglamento Interior, publicado en el Periódico Oficial del Gobierno del Estado número 18, Tercera Parte, de 31 de enero de 2017, continuará vigente, en lo que no se oponga a los Decretos Legislativos números 332 y 341, expedidos por la LXIII Legislatura del Congreso del Estado, publicados en el Periódico Oficial número 190, Decima Tercera Parte, del 21 de septiembre de 2018, por el cual se crea la Secretaría de Medio Ambiente y Ordenamiento Territorial y se armonizan las disposiciones legales competencia de esta.
+
+Concluido el proceso de entrega-recepción extraordinario, quien sea Titular de la Secretaría notificará de ello al Gobernador del Estado, a efecto de que se emita el Decreto Abrogatorio correspondiente.
