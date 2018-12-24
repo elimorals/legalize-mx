@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidad-patrimonial-del-estado-y-municipios-4376
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2018-10-02"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de Diciembre de 2004.
 
@@ -127,7 +127,7 @@ III. En aquellos casos en que la autoridad administrativa o la contencioso admin
 
 El monto de la indemnización por daños materiales se calculará de acuerdo a los criterios establecidos por la Ley de Expropiación, Ocupación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado de San Luis Potosí, y el Código Civil del Estado, y demás disposiciones aplicables, debiéndose tomar en consideración los valores comerciales o de mercado en el momento en que sea ocasionado el daño, y no deberá ser inferior, tratándose de inmuebles, al valor catastral.
 
-Solamente serán procedentes aquellas reclamaciones de indemnización que sean superiores a sesenta unidades.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 16.
 
@@ -366,3 +366,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0013.- SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 15, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
