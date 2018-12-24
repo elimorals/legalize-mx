@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2018-06-25"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 24 DE DICIEMBRE DE 2018.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -914,11 +914,11 @@ Para determinar las contribuciones al comercio exterior, así como para pagar aq
 
 La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estados Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco de México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-Se aceptará como medio de pago de las contribuciones y aprovechamientos, los cheques del mismo banco en que se efectúe el pago, la transferencia electrónica de fondos a favor de la Tesorería de la Federación, así como las tarjetas de crédito y débito, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a $1,924,820.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a $329,970.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación, tarjetas de crédito y débito o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
+Se aceptará como medio de pago de las contribuciones y aprovechamientos, los cheques del mismo banco en que se efectúe el pago, la transferencia electrónica de fondos a favor de la Tesorería de la Federación, así como las tarjetas de crédito y débito, de conformidad con las reglas de carácter general que expida el Servicio de Administración Tributaria. Los contribuyentes personas físicas que realicen actividades empresariales y que en el ejercicio inmediato anterior hubiesen obtenido ingresos inferiores a $2,149,250.00, así como las personas físicas que no realicen actividades empresariales y que hubiesen obtenido en dicho ejercicio ingresos inferiores a $368,440.00, efectuarán el pago de sus contribuciones en efectivo, transferencia electrónica de fondos a favor de la Tesorería de la Federación, tarjetas de crédito y débito o cheques personales del mismo banco, siempre que en este último caso, se cumplan las condiciones que al efecto establezca el Reglamento de este Código. Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Tesorería de la Federación, se realiza por las instituciones de crédito, en forma electrónica.
 
 > <small>(F. DE E., D.O.F. 28 DE MARZO DE 1984)</small>
 
@@ -1178,13 +1178,13 @@ La devolución se aplicará primero a intereses y, posteriormente, a las cantida
 
 Las autoridades fiscales efectuarán la devolución mediante depósito en la cuenta del contribuyente que la solicita, para lo cual, éste deberá proporcionar en la solicitud de devolución o en la declaración correspondiente el número de su cuenta en los términos señalados en el párrafo sexto del artículo 22 de este Código. Para estos efectos, los estados de cuenta que expidan las instituciones financieras serán considerados como comprobante del pago de la devolución respectiva. En los casos en los que el día que venza el plazo a que se refiere el precepto citado no sea posible efectuar el depósito por causas imputables a la institución financiera designada por el contribuyente, dicho plazo se suspenderá hasta en tanto pueda efectuarse el depósito. También se suspenderá el plazo mencionado cuando no sea posible efectuar el depósito en la cuenta proporcionada por el contribuyente por ser ésta inexistente o haberse cancelado o cuando el número de la cuenta proporcionado por el contribuyente sea erróneo, hasta en tanto el contribuyente proporcione un número de cuenta válido.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 22-C.
 
-Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $14,140.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
+Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $15,790.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -1776,13 +1776,13 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 Para los efectos de este artículo, una vez que las autoridades fiscales hayan iniciado el ejercicio de sus facultades de comprobación no tendrán efectos las declaraciones complementarias de ejercicios anteriores que presenten los contribuyentes revisados cuando éstas tengan alguna repercusión en el ejercicio que se esté revisando.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 32-A.
 
-Las personas físicas con actividades empresariales y las personas morales, que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $109,990,000.00, que el valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, sea superior a $86,892,100.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior, podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este artículo las entidades paraestatales de la Administración Pública Federal.
+Las personas físicas con actividades empresariales y las personas morales, que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $122,814,830.00, que el valor de su activo determinado en los términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, sea superior a $97,023,720.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior, podrán optar por dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado. No podrán ejercer la opción a que se refiere este artículo las entidades paraestatales de la Administración Pública Federal.
 
 Los contribuyentes que opten por hacer dictaminar sus estados financieros a que se refiere el párrafo anterior, lo manifestarán al presentar la declaración del ejercicio del impuesto sobre la renta que corresponda al ejercicio por el que se ejerza la opción. Esta opción deberá ejercerse dentro del plazo que las disposiciones legales establezcan para la presentación de la declaración del ejercicio del impuesto sobre la renta. No se dará efecto legal alguno al ejercicio de la opción fuera del plazo mencionado.
 
@@ -2002,9 +2002,9 @@ La información a que se refiere el párrafo anterior se deberá presentar a má
 
 Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
-I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $755,898,920.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
+I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $791,501,760.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
@@ -3186,11 +3186,11 @@ III. Que los depósitos en la cuenta bancaria del contribuyente que no correspon
 
 Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a $1,414,110.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a $1,579,000.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -3922,11 +3922,11 @@ A quien cometa las infracciones relacionadas con el Registro Federal de Contribu
 
 I. De $3,470.00 a $10,410.00, a las comprendidas en las fracciones I, II y VI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-II. De $3,760.00 a $7,510.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de $1,250.00 a $2,510.00.
+II. De $4,200.00 a $8,390.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de $1,400.00 a $2,800.00.
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -4252,17 +4252,17 @@ VIII. Para la señalada en la fracción VIII, la multa será de $65,910.00 a $19
 
 IX. De $10,410.00 a $34,730.00 para la establecida en la fracción IX.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
-X. De $9,830.00 a $18,420.00, para la establecida en la fracción X.
+X. De $10,980.00 a $20,570.00, para la establecida en la fracción X.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XI. De $115,030.00 a $153,380.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
+XI. De $128,440.00 a $171,260.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
@@ -4288,11 +4288,11 @@ XIV. De $10,410.00 a $24,310.00, para la establecida en la fracción XIV.
 
 XV. De $86,870.00 a $173,730.00, para la establecida en la fracción XV.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XVI. De $10,910.00 a $21,820.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
+XVI. De $12,180.00 a $24,360.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
@@ -4340,19 +4340,23 @@ XXIII. De $15,080.00 a $27,640.00, a la establecida en la fracción XXIII.
 
 XXIV. De $5,260.00 a $10,520.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
 
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [N. DE E. REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
+
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2018)</small>
 
 XXV. De $35,000.00 a $61,500.00, para la establecida en la fracción XXV.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [N. DE E. REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 Cuando en la infracción se identifique alguna de las agravantes mencionadas en el artículo 81, fracción XXV, incisos a) o b) de este Código, la multa prevista en el primer párrafo de esta fracción se aumentará desde $1,000,000 hasta $3,000,000.
 
 En el caso de reincidencia, la sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XXVI. De $10,370.00 a $20,740.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
+XXVI. De $11,580.00 a $23,160.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
@@ -4396,11 +4400,11 @@ XXXIV. De $20,500.00 a $34,160.00 por cada solicitud no atendida, para la señal
 
 XXXV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI. De $80,000.00 a $100,000.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
+XXXVI. De $89,330.00 a $111,660.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
@@ -4414,17 +4418,17 @@ XXXVII. De $154,800.00 a $220,400.00, para la establecida en la fracción XL.
 
 XXXVIII. Respecto de las señaladas en la fracción XLI de $5,510.00 a $16,520.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXXIX. De $140,540.00 a $200,090.00 a la establecida en la fracción XXXIX.
+XXXIX. De $156,930.00 a $223,420.00 a la establecida en la fracción XXXIX.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-XL. De $1.00 a $5.00 a la establecida en la fracción XLIII, por cada comprobante fiscal digital por Internet enviado que contenga información que no cumple con las especificaciones tecnológicas determinadas por el Servicio de Administración Tributaria.
+XL. De $1.00 a $10.00 a la establecida en la fracción XLIII, por cada comprobante fiscal digital por Internet enviado que contenga información que no cumple con las especificaciones tecnológicas determinadas por el Servicio de Administración Tributaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -4522,17 +4526,17 @@ IV. Para el supuesto de la fracción VII, las siguientes, según corresponda:
 
 a) De $15,280.00 a $87,350.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-b) De $1,330.00 a $2,650.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
+b) De $1,490.00 a $2,960.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-c) De $13,280.00 a $75,890.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
+c) De $14,830.00 a $84,740.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
@@ -4540,11 +4544,11 @@ c) De $13,280.00 a $75,890.00 tratándose de contribuyentes que cuenten con la a
 
 V. De $920.00 a $12,100.00 a la señalada en la fracción VI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-VI. De $14,930.00 a $85,350.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de $1,500.00 a $2,980.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+VI. De $16,670.00 a $95,300.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de $1,670.00 a $3,330.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 VII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
@@ -4554,11 +4558,11 @@ VII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 VIII. De $6,950.00 a $34,730.00, a la comprendida en la fracción XIII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-IX. De $12,080.00 a $120,760.00 a la comprendida en la fracción X.
+IX. De $13,490.00 a $134,840.00 a la comprendida en la fracción X.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -4580,17 +4584,17 @@ XIII. De $1,750.00 a $5,260.00, a la señalada en la fracción XV, por cada oper
 
 XIV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XV. De $12,080.00 a $120,760.00 a la comprendida en la fracción XVII.
+XV. De $13,490.00 a $134,840.00 a la comprendida en la fracción XVII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XVI. De $13,280.00 a $75,890.00, a la señalada en la fracción XVIII.
+XVI. De $14,830.00 a $84,740.00, a la señalada en la fracción XVIII.
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
 
@@ -4700,35 +4704,35 @@ VI. De $25,120.00 a $75,390.00 a la establecida en la fracción VI.
 
 VII. De $90.00 a $180.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de $353,850.00 a $707,700.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-VIII. De $278,310.00 a $309,240.00, a las establecidas en las fracciones VIII, IX y X.
+VIII. De $310,760.00 a $345,300.00, a las establecidas en las fracciones VIII, IX y X.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-IX. De $278,310.00 a $309,240.00, a las establecidas en la fracción XI.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-X. De $54,990.00 a $65,990.00, a la establecida en la fracción XIV.
+IX. De $310,760.00 a $345,300.00, a las establecidas en la fracción XI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
+X. De $61,400.00 a $73,680.00, a la establecida en la fracción XIV.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XI. De $247,480.00 a $549,950.00, a la establecida en la fracción XII.
+XI. De $276,340.00 a $614,070.00, a la establecida en la fracción XII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-XII. De $5,110.00 a $76,610.00, a la establecida en la fracción XIII.
+XII. De $5,710.00 a $85,540.00, a la establecida en la fracción XIII.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -4888,11 +4892,11 @@ V. No acreditar que los marbetes o precintos fueron adquiridos legalmente.
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-I. De $50.00 a $110.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
+I. De $60.00 a $120.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
@@ -4900,11 +4904,11 @@ I. De $50.00 a $110.00, a la comprendida en la fracción I, por cada marbete o p
 
 II. De $30.00 a $120.00 a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-III. De $20.00 a $50.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate, o bien por cada marbete o precinto falso o alterado.
+III. De $20.00 a $60.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate, o bien por cada marbete o precinto falso o alterado.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
@@ -4912,11 +4916,11 @@ III. De $20.00 a $50.00, a la comprendida en la fracción III, por cada envase o
 
 IV. De $30.00 a $110.00 la comprendida en la fracción IV, por cada envase vacío no destruido.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-V. De $440.00 a $660.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
+V. De $490.00 a $740.00, por cada marbete o precinto que haya sido adquirido ilegalmente.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4960,7 +4964,7 @@ I. No proporcionar o no poner a disposición de las autoridades fiscales la info
 
 II. No permitir a las autoridades fiscales la realización de las verificaciones en los establecimientos o domicilios de los mismos, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los citados artículos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [N. DE E. REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -4968,13 +4972,13 @@ II. No permitir a las autoridades fiscales la realización de las verificaciones
 
 A quienes cometan las infracciones señaladas en el artículo 86-G, primer párrafo, se les impondrá una multa de $10.00 a $20.00 por cada cajetilla de cigarros que no contenga impreso el código de seguridad a que se refiere el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
-A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción I de este Código, se les impondrá una multa de $22,000.00 a $329,970.00 cada vez que no proporcionen o no pongan a disposición de las autoridades fiscales la información, documentación o dispositivos, que permitan constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios, respectivamente.
+A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción I de este Código, se les impondrá una multa de $24,570.00 a $368,440.00 cada vez que no proporcionen o no pongan a disposición de las autoridades fiscales la información, documentación o dispositivos, que permitan constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios, respectivamente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
-A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción II de este Código, se les impondrá una multa de $22,000.00 a $329,970.00, por cada vez que no permitan la realización de las verificaciones en los establecimientos o domicilios de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, así como de los proveedores autorizados de servicios de impresión de códigos de seguridad, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios.
+A quienes cometan las infracciones señaladas en el artículo 86-G, segundo párrafo, fracción II de este Código, se les impondrá una multa de $24,570.00 a $368,440.00, por cada vez que no permitan la realización de las verificaciones en los establecimientos o domicilios de los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, así como de los proveedores autorizados de servicios de impresión de códigos de seguridad, o bien en cualquier lugar en donde se encuentren los mecanismos o sistemas de impresión del referido código de seguridad, a efecto de constatar el cumplimiento de las obligaciones previstas en los artículos 19, fracción XXII y 19-A de la Ley del Impuesto Especial sobre Producción y Servicios.
 
 En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar el establecimiento del infractor por un plazo de 15 días, para ello, la autoridad fiscal notificará al contribuyente dentro de un plazo de veinte días contados a partir de la reincidencia, para que dentro de los diez días siguientes manifieste lo que a su derecho convenga, ya que en caso de no hacerlo o no desvirtuarse los hechos u omisiones que se le atribuyen, se procederá a la clausura.
 
@@ -4984,7 +4988,7 @@ En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, claus
 
 Cometen infracción quienes almacenen, vendan, enajenen o distribuyan en México cajetillas de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, que no contengan impreso el código de seguridad previsto en el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios, o el que contengan sea apócrifo, acorde con lo previsto en el artículo 19-A de la citada Ley.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS [N. DE E. REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 24 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -9449,3 +9453,7 @@ D.O.F. 25 DE JUNIO DE 2018.
 Primero. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las normas jurídicas vigentes en el momento de su inicio.
+
+D.O.F. 24 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACIÓN A LA RESOLUCIÓN DE MISCELÁNEA FISCAL, VÉASE EL ANEXO 5 PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2018, PRIMERA SECCIÓN DENOMINADO “ANEXOS 1-A, 5, 8, 11 Y 27 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, PUBLICADA EL 21 DE DICIEMBRE DE 2018”.]</small>
