@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2018-10-24"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -101,9 +101,17 @@ X. Discriminación a la mujer: Tipo de violencia contra la mujer motivada por su
 
 XI. Discriminación Múltiple o Agravada: Tipo de violencia contra la mujer causada por cualquier preferencia, distinción, exclusión o restricción a sus derechos, de forma concaminante, en dos o más motivos de discriminación, que tenga por objetivo o efecto anular o limitar, el reconocimiento, goce o ejercicio, en condiciones de igualdad, de uno o más derechos humanos y libertades fundamentales reconocidos, en cualquier ámbito de la vida pública o privada;
 
-XII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
-XIII. Transversalidad: acción de gobierno para el ejercicio e implementación de políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Estatal o Municipal según sea el caso para la ejecución de programas y acciones coordinadas o conjuntas y en las realizadas por los sectores privado y social.
+XII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+XIII. Transversalidad: acción de gobierno para el ejercicio e implementación de políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Estatal o Municipal según sea el caso para la ejecución de programas y acciones coordinadas o conjuntas y en las realizadas por los sectores privado y social; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+XIV. Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia Contra las Mujeres: Al sistema digital en el que se concentra el registro con los datos generales y sociodemográficos de las víctimas de violencia de género, las personas agresoras y las órdenes de protección dictadas en favor de las mujeres. Concentra la información proporcionada por las dependencias del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que son las encargadas de crear, procesar y actualizar los expedientes electrónicos únicos para cada caso de violencia contra la mujer y las órdenes de protección.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -157,9 +165,11 @@ Para los efectos de esta Ley y en correlación con las leyes aplicables, la viol
 
 La violencia laboral y docente, es la que se ejerce por las personas que tienen un vínculo laboral, docente o similar a éstos con la víctima, independientemente de la relación jerárquica, y consiste en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad o seguridad de la víctima, impide su desarrollo y atenta contra su derecho a la igualdad. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño; también incluye el acoso o el hostigamiento sexual.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 10.
 
-Constituye violencia laboral, no respetar la permanencia o condiciones de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, la explotación y discriminación por condición de género.
+Constituye violencia laboral, no respetar la permanencia o condiciones de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, la explotación y la discriminación por condición de género, el impedimento u omisión a las mujeres de ejercer el período de lactancia de dos reposos extraordinarios por día, de media hora cada uno y hasta por seis meses.
 
 ###### Artículo 11.
 
@@ -331,7 +341,9 @@ III. Comisión Estatal de Derechos Humanos;
 
 IV. Secretaría de Seguridad Pública;
 
-V. Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+V. Fiscalía General de Justicia del Estado;
 
 VI. Secretaría de Educación;
 
@@ -397,7 +409,9 @@ VII. Promover en los medios de comunicación la erradicación de todos los tipos
 
 VIII. Propiciar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-IX. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres, para integrar el Banco Estatal y Nacional de Datos e Información sobre casos de violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+IX. Publicar trimestralmente la información general y estadística sobre los casos de violencia contra las mujeres, para integrar el Banco Estatal y Nacional de Datos e Información sobre Casos Y Delitos de violencia contra las Mujeres;
 
 X. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
@@ -543,7 +557,9 @@ XVIII. Diseñar las campañas de prevención de la violencia contra las mujeres;
 
 XIX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-XX. Integrar el Banco Estatal de Datos e Información de conformidad con el artículo 17 de esta Ley; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+XX. Administrar y operar el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres; y
 
 XXI. Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -565,9 +581,11 @@ VI. Coadyuvar con los objetivos de esta Ley; y
 
 VII. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 35.
 
-Secretaría de Seguridad Pública:
+Corresponde a la Secretaría de Seguridad Pública:
 
 I. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
 
@@ -583,13 +601,23 @@ VI. Participar en el diseño, con una visión transversal, de la política estat
 
 VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
 
-IX. Las demás previstas para el cumplimiento de la presente Ley.
+VIII. Integrar y proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+IX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+X. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 36.
 
-Corresponde a la Procuraduría General de Justicia:
+Corresponde a la Fiscalía General de Justicia del Estado:
 
 I. Fomentar la formación y capacitación del personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
 
@@ -601,15 +629,29 @@ IV. Dictar las medidas necesarias para que la víctima reciba atención médica 
 
 V. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas y demás datos que se requieran en virtud de lo establecido en la presente Ley;
 
-VI. Brindar a las víctimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
 
-VII. Proporcionar a las mujeres información objetiva que les permita tener plena conciencia de su situación de víctima;
+VI. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
 
-VIII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
 
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+VII. Brindar a las víctimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
 
-X. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+VIII. Proporcionar a las mujeres información objetiva que les permita tener plena conciencia de su situación de víctima;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+IX. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+XI. Las demás previstas para el cumplimiento de la presente Ley,
 
 ###### Artículo 37.
 
@@ -687,9 +729,17 @@ d) Los efectos causados por la violencia en las mujeres, y
 
 e) Los recursos erogados en la atención de las víctimas;
 
-XII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
 
-XIII. Las demás previstas para el cumplimiento de la presente Ley.
+XII. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+XIV. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
@@ -711,15 +761,23 @@ VI. Promover políticas de prevención y atención de la violencia contra las mu
 
 VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
 
-IX. Las demás previstas para el cumplimiento de la presente Ley.
+VIII. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+IX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+X. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 40.
 
-Corresponde a la Secretaría de Trabajo:
+Corresponde a la Secretaría de Economía y Trabajo:
 
 I. Implementar los programas necesarios para promover el empleo de mujeres víctimas de violencia para favorecer la construcción de un nuevo proyecto para sus vidas;
 
@@ -727,9 +785,17 @@ I. Implementar los programas necesarios para promover el empleo de mujeres víct
 
 II. Implementar acciones de difusión y capacitación permanentes con el personal de los centros laborales, privilegiando una formación integral de desarrollo laboral y productivo, que elimine toda práctica de acoso laboral, con mecanismos de denuncia que incluyan asesoría legal y psicológica, así como también mecanismos para la investigación y sanción del acoso laboral, que permita el respeto a los derechos humanos y la privacidad;
 
-III. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
 
-IV. Las demás previstas para el cumplimiento de la presente Ley.
+III. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+IV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+
+V. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 41.
 
@@ -1060,3 +1126,17 @@ P.O. 24 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 4. SE REFORMA EL ARTÍCULO 26 EN SU PRIMER PÁRRAFO; ASÍ COMO SUS FRACCIONES IX, XI Y XII, SE ADICIONAN LAS FRACCIONES I BIS Y I BIS 1 Y XI BIS DEL MISMO ARTÍCULO 26; SE ADICIONA UN ARTÍCULO 42 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 020. SE REFORMA EL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 021. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES, XII Y XIII DEL ARTÍCULO 5, LA FRACCIÓN V DEL ARTÍCULO 26, LA FRACCIÓN IX DEL ARTÍCULO 28, LA FRACCIÓN XX DEL ARTÍCULO 33, EL PRIMER PÁRRAFO Y LAS FRACCIONES VII A LA IX DEL ARTÍCULO 35, EL PRIMER PÁRRAFO Y LAS FRACCIONES DE LA VI A X DEL ARTÍCULO 36, LAS FRACCIONES XII A XIII DEL ARTÍCULO 38, LAS FRACCIONES VIII A LA IX DEL ARTÍCULO 39; EL PRIMER PÁRRAFO Y FRACCIONES III A IV DEL ARTÍCULO 40; Y POR ADICIÓN LA FRACCIÓN XIV DEL ARTÍCULO 5 FRACCIÓN IX DEL ARTÍCULO 28, LA FRACCIÓN X DEL ARTÍCULO 35, LA FRACCIÓN VI DEL ARTÍCULO 36, LA FRACCIÓN XIV DEL ARTÍCULO 38 LA FRACCIÓN X DEL ARTÍCULO 39 Y LA FRACCIÓN V DEL ARTÍCULO 40; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Instituto Estatal de las Mujeres deberá implementar las acciones pertinentes, para el funcionamiento del Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres, dentro del plazo de 180 días posteriores, a la entrada en vigor del presente Decreto.
