@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2018-06-25"
+last_updated: "2018-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ LEY ADUANERA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 24 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -4948,13 +4948,13 @@ III. Transmitir información relacionada con la transportación de la mercancía
 
 Con independencia de las demás sanciones que procedan, se aplicarán las siguientes multas a quienes cometan las infracciones relacionadas con la obligación de transmitir la información referente al valor de la mercancía y los demás datos relativos a su comercialización, así como los relativos a su transportación a que se refiere el artículo 184-A de la Ley:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA SU CANTIDAD], D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 24 DE DICIEMBRE DE 2018)
 
-I. Multa de $20,510.00 a $34,190.00 a la señalada en las fracciones I y II.
+I. Multa de $22,900.00 a $38,180.00 a la señalada en las fracciones I y II.
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA SU CANTIDAD], D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 24 DE DICIEMBRE DE 2018)
 
-II. Multa de $1,620.00 a $2,310.00 a la señalada en la fracción III.
+II. Multa de $1,810.00 a $2,580.00 a la señalada en la fracción III.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -4962,9 +4962,9 @@ II. Multa de $1,620.00 a $2,310.00 a la señalada en la fracción III.
 
 Se aplicarán las siguientes multas a quienes cometan las infracciones relacionadas con las obligaciones de presentar documentación y declaraciones, así como de transmisión electrónica de la información, previstas en el artículo 184 de esta Ley:
 
-(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA SU CANTIDAD], D.O.F. 22 DE DICIEMBRE DE 2017)
+(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 24 DE DICIEMBRE DE 2018)
 
-I. Multa de $3,340.00 a $5,010.00, en caso de omisión a las mencionadas en las fracciones I y II. Las multas se reducirán al 50% cuando la presentación sea extemporánea.
+I. Multa de $3,730.00 a $5,590.00, en caso de omisión a las mencionadas en las fracciones I y II. Las multas se reducirán al 50% cuando la presentación sea extemporánea.
 
 (REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2014) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
@@ -4994,29 +4994,29 @@ VII. Multa equivalente de 20% al 40% de la cantidad que exceda al equivalente en
 
 VIII. Multa de $74,100.00 a $111,200.00, en el caso de la transmisión electrónica señalada en la fracción IX, por la omisión de cada pasajero, tripulante o medio de transporte que arribe a territorio nacional, a que se refiere el inciso a) y por la omisión relativa a la mercancía por cada medio de transporte a que se refiere el inciso b). La multa se reducirá en un 50%, en el caso de que la transmisión electrónica sea extemporánea, incompleta o contenga información incorrecta. En los casos en que se incurra en más de una infracción asociada al arribo de un mismo medio de transporte, la autoridad establecerá hasta un máximo de seis multas por evento.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-IX. Multa de $207,370.00 a $311,050.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
+IX. Multa de $184,180.00 a $276,270.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-X. Multa de $2,570.00 a $3,860.00, en el caso señalado en la fracción XI, por cada pedimento.
+X. Multa de $2,280.00 a $3,430.00, en el caso señalado en la fracción XI, por cada pedimento.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-XI. Multa de $7,710.00 a $10,280.00 en caso de omisión y de $3,860.00 a $6,430.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
+XI. Multa de $6,850.00 a $9,130.00 en caso de omisión y de $3,430.00 a $5,710.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
-XII. Multa de $1,290.00 a $2,570.00, en el caso señalado en la fracción XIII, por cada documento.
+XII. Multa de $1,150.00 a $2,280.00, en el caso señalado en la fracción XIII, por cada documento.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XIII. Multa equivalente del 2% al 10% del valor comercial de las mercancías, a la señalada en la fracción XIV.
 
-(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA SU CANTIDAD], D.O.F. 22 DE DICIEMBRE DE 2017)
+(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 24 DE DICIEMBRE DE 2018)
 
-XIV. Multa de $16,700.00 a $25,050.00, a la señalada la fracción XVII, en caso de no presentar el aviso dentro del plazo establecido.
+XIV. Multa de $18,650.00 a $27,970.00, a la señalada en la fracción XVII, en caso de no presentar el aviso dentro del plazo establecido.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -5122,9 +5122,9 @@ II. Multa de $2,070.00 a $3,120.00, a la señalada en la fracción III.
 
 III. Multa equivalente del 70% al 100% de las contribuciones y cuotas compensatorias omitidas, cuando no se haya cubierto lo que correspondía pagar o del 30% al 50% del valor comercial de las mercancías si están exentas o se trata de retorno al extranjero, a la señalada en la fracción VI.
 
-(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA SU CANTIDAD], D.O.F. 22 DE DICIEMBRE DE 2017)
+(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 24 DE DICIEMBRE DE 2018)
 
-IV. Multa de $18,670.00 a $28,000.00 a las señaladas en la fracción IX.
+IV. Multa de $20,850.00 a $31,260.00 a las señaladas en la fracción IX.
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
@@ -5324,7 +5324,7 @@ Lo dispuesto en este artículo no será aplicable cuando se den los supuestos de
 
 La disminución de las sanciones establecidas en este artículo no será acumulable.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
 ###### Artículo 200.
 
@@ -5677,3 +5677,9 @@ Sexto. Para los efectos del artículo 5o. de la Ley Aduanera, se considerará qu
 Séptimo. Las referencias que las leyes, reglamentos, reglas y demás disposiciones jurídicas vigentes hagan al agente aduanal, se entenderán hechas, en lo conducente, también a la agencia aduanal.
 
 Octavo. Tratándose de petrolíferos, el Servicio de Administración Tributaria deberá coordinarse con la Comisión Reguladora de Energía, para la emisión de las reglas de carácter general a que se refiere el artículo 16-C de esta Ley.
+
+D.O.F. 24 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA "CUARTA RESOLUCIÓN DE MODIFICACIONES A LAS REGLAS GENERALES DE COMERCIO EXTERIOR PARA 2018, Y SU ANEXO 2".]
+
+Único. La presente resolución entrará en vigor a partir del 1º de enero de 2019.
