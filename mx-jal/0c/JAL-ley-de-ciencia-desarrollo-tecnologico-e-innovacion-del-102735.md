@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-del-102735"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-09"
-last_updated: "2017-08-08"
+last_updated: "2018-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 9 de octubre de 2014.
 
@@ -849,9 +849,13 @@ I. Vigilar la debida aplicación y adecuado aprovechamiento de los fondos que se
 
 II. Los beneficiarios rendirán al Consejo Directivo, los informes periódicos que se establezcan sobre el desarrollo y resultados de sus trabajos; asimismo, en proyectos y contratación de servicios que superen el monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, se deberá entregar una fianza que avale el cumplimiento del contrato correspondiente;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
-III. El Consejo Directivo del COECYTJAL podrá eximir de manera excepcional el requisito de la fianza cuando se trate de instituciones de educación superior, centros de investigación, cámaras o asociaciones sin fines de lucro y en cuyo caso se podrá solicitar como garantía la suscripción de pagarés. Así mismo, en proyectos y actividades que no superen el monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, se deberá firmar un pagaré por el beneficiario de los recursos que ampare el monto del recurso a otorgar; y
+III. El Consejo Directivo del COECYTJAL podrá eximir de manera excepcional el requisito de la fianza cuando se trate de instituciones de educación superior, centros de investigación, cámaras o asociaciones sin fines de lucro y en cuyo caso se podrá solicitar como garantía la suscripción de pagarés.
+
+Asimismo, en proyectos y actividades que no superen el monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, se deberá firmar un pagaré por el beneficiario de los recursos que ampare el monto del recurso a otorgar.
+
+Quedarán exentos del otorgamiento de fianza y de la suscripción de pagaré, las instituciones públicas quienes se sujetaran a las normatividad aplicable en materia de fiscalización, transparencia y rendición de cuentas; y
 
 IV. Los derechos de propiedad intelectual, respecto de los resultados obtenidos por las personas físicas o jurídicas que reciban ayuda del COECYTJAL, podrán ser materia de regulación específica en los instrumentos jurídicos que al efecto se celebren, en los que se protegerán los intereses del Estado.
 
@@ -952,3 +956,9 @@ P.O. 8 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26415/LXI/17, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO, Y DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO."]
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27226/LXII/18 QUE REFORMA EL ARTÍCULO 60 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
