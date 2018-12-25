@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-y-vigilancia-del-sistema-de-18933"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2015-08-18"
+last_updated: "2018-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2000.
 
@@ -57,7 +57,7 @@ La presente Ley tiene por objeto:
 
 I.- Fijar las bases para la determinación, distribución y liquidación de las participaciones que correspondan a los municipios en los ingresos federales participables que establece la Ley Federal de Coordinación Fiscal, y en los ingresos estatales cuando así lo disponga la legislación local aplicable.
 
-II.- Constituir los órganos competentes en materia de vigilancia del sistema de participaciones, así como las bases para su organización y funcionamiento.
+II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2018)
 
 III.- Establecer reglas para la colaboración administrativa en materia fiscal entre las autoridades Estatales y Municipales.
 
@@ -91,6 +91,14 @@ VI.- El 20% de las participaciones que reciba el Estado por concepto de Fondo de
 
 VII.- El 20% de las participaciones recibidas por el Estado, por concepto de IEPS sobre venta de diesel y gasolina.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+VIII.- El 20% de las participaciones recibidas por el Estado, por concepto de Fondo de Compensación del Impuesto sobre Automóviles Nuevos a que hace referencia el artículo 14 de la Ley Federal del Impuesto sobre Automóviles Nuevos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+IX.- El impuesto sobre la Renta efectivamente enterado a la Federación, correspondiente al personal que preste o desempeñe un servicio personal subordinado en las dependencias del municipio, así como sus organismos paramunicipales.
+
 ###### Artículo 3.
 
 Con el propósito de fortalecer las Haciendas Públicas Municipales, incentivar y optimizar la recaudación del Impuesto Predial por parte de los Municipios, se constituye el Fondo Estatal de Participaciones directamente con recursos propios del Gobierno del Estado.
@@ -99,11 +107,11 @@ Con el propósito de fortalecer las Haciendas Públicas Municipales, incentivar 
 
 El monto del Fondo Estatal de Participaciones se acordará anualmente por el Ejecutivo del Estado y su importe no podrá ser inferior al del año inmediato anterior, actualizado con el índice nacional de precios al consumidor de dicho ejercicio, que publique la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 5.
 
-Las cantidades que correspondan a las fracciones I, III, IV y VI del artículo 2 de esta ley integraran el fondo acumulado de participaciones y se distribuirá entre los municipios del Estado conforme al procedimiento siguiente:
+Las cantidades que correspondan a las fracciones I, III, IV, VI, y VIII del artículo 2 de esta Ley, integran el fondo acumulado de participaciones y se distribuirá entre los municipios del Estado conforme al procedimiento siguiente:
 
 I.- El 40% en relación directa con el número de habitantes de cada municipio, de acuerdo con los últimos datos oficiales publicados por el INEGI, en la fecha de expedición de decreto respectivo por parte del H. Congreso del Estado;
 
@@ -112,6 +120,12 @@ II.- El 45% de acuerdo con el coeficiente del fondo acumulado que le correspondi
 III.- El 12.75% en función del coeficiente efectivo del fondo acumulado para el ejercicio en curso, a que se refieren las fracciones I y II antes señaladas;
 
 IV.- El 2.25% en proporción inversa al monto de participaciones a que se refieren las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 5 Bis.
+
+El impuesto sobre la Renta efectivamente enterado a la Federación, correspondiente al personal que preste o desempeñe un servicio personal subordinado en las dependencias del municipio y sus entidades paramunicipales a que se refiere la fracción IX del artículo 2, se distribuirá a los municipios en la parte correspondiente al Impuesto sobre la Renta del personal que preste o desempeñe un servicio personal subordinado en el municipio y/o entidad paramunicipal devuelto por la Federación.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2015)</small>
 
@@ -155,9 +169,11 @@ II.- El 30% de acuerdo con el coeficiente efectivo del fondo acumulado que estab
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 9.
 
-El Gobierno del Estado, a través de la Secretaría de Finanzas y de Administración, liquidará mensualmente las participaciones que correspondan a los municipios, dentro de los cinco días siguientes a la fecha en que dicha dependencia reciba de la Secretaría de Hacienda y Crédito Público la constancia de compensación respectiva, que acredite el monto de participaciones que corresponden al Estado.
+El Gobierno del Estado, a través de la Secretaría de Finanzas y de Administración, liquidará mensualmente las participaciones que correspondan a los municipios, el primer día hábil del siguiente mes. Las participaciones a que se refieren las fracciones VII y IX del artículo 2 de esta Ley, serán distribuidas a los municipios, dentro de los cinco días hábiles siguientes a aquel en que se hubieran recibido los recursos en el Estado.
 
 ###### Artículo 10.
 
@@ -183,21 +199,25 @@ Sujeto a los términos establecidos en la Ley de Coordinación Fiscal y la Ley d
 
 El Gobierno del Estado por conducto de la Secretaría de Finanzas y de Administración y los municipios, podrán celebrar convenios en materia fiscal estatal y/o municipal, con el objeto de establecer políticas y acciones de tipo administrativo en beneficio mutuo.
 
-(F. DE E., P.O. 1 DE FEBRERO DE 2001) (REPUBLICADA, P.O. 8 DE FEBRERO DE 2001)
-
 ###### Artículo 15.
 
-El Gobierno del Estado por conducto de la Secretaría de Finanzas y de Administración y los municipios, participarán en la vigilancia y perfeccionamiento del sistema de participaciones; para estos efectos, se crea el comité de vigilancia del sistema de participaciones, el cual tendrá las facultades siguientes:
-
-I.- Vigilar que la determinación de los coeficientes anuales que sirven de base para el cálculo de participaciones, se apegue estrictamente a las disposiciones establecidas en esta ley;
-
-II.- Vigilar la correcta y oportuna liquidación de las participaciones a los municipios;
-
-III.- Proponer al Ejecutivo del Estado las medidas que se consideren necesarias para el perfeccionamiento del sistema de distribución de participaciones.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 16.
 
-El comité de vigilancia del sistema de participaciones se integrará por el Secretario de Finanzas y de Administración del Gobierno del Estado y los titulares de las finanzas publicas municipales, o bien, por los funcionarios que estos designen.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 17.
+
+Los Municipios deberán informar a la Secretaría de Finanzas y de Administración del Estado, de la totalidad de su recaudación en el impuesto predial y de los derechos por suministro de agua, obtenidos en el ejercicio inmediato anterior, a más tardar el último día hábil del mes de febrero, en los formatos y cuestionarios que para tal efecto emita la Secretaría de Finanzas y de Administración.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 18.
+
+En caso de que no se presenten los formatos y cuestionarios debidamente requisitados, a que hace referencia el artículo anterior, el municipio se hará acreedor a una sanción, la que consistirá en la disminución del 20% de las participaciones que les hubieran correspondido en el ejercicio inmediato anterior.
 
 T R A N S I T O R I O S
 
@@ -256,3 +276,11 @@ P.O. 18 DE AGOSTO DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 60.- QUE CONTIENE REFORMA A LOS ARTÍCULOS 2,5 (SIC) Y 9, DEROGACIÓN DE LOS ARTÍCULOS 5 BIS, 17 Y 18 DE LA LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL ESTATAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto
