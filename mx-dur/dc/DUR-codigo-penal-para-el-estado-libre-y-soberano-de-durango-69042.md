@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2018-12-09"
+last_updated: "2018-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1715,25 +1715,17 @@ A quien prive de la vida a otra persona, se le impondrá de doce a veinte años 
 
 Al que prive de la vida a otro en riña se le impondrá la mitad o cinco sextos de las penas que le puedan corresponder según se trate de provocado o provocador.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
-###### Artículo 137.
+###### ARTÍCULO 137.
 
 A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión y multa de mil cuatrocientas cuarenta a tres mil seiscientas veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
-Cuando el homicidio tenga características propias de feminicidio se impondrá de cuarenta a sesenta años de prisión y de dos mil ochocientos ochenta a cuatro mil trecientos veinte veces la Unidad de Medida y Actualización de multa.
+###### ARTÍCULO 138.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
-
-En el caso de feminicidio, si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, se impondrán de cuarenta y cinco a sesenta años de prisión y multa de tres mil doscientos cuarenta a cuatro mil trecientos veinte veces la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
-
-###### Artículo 138.
-
-A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrá prisión de veinticinco a cincuenta años y multa de mil ochocientas a tres mil seiscientas veces la Unidad de Medida y Actualización. Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple intencional.
+A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubinario u otra relación de pareja permanente, con conocimiento de esa relación, y sin acreditarse la figura del feminicidio, se le impondrá prisión de veinticinco a cincuenta años y multa de mil ochocientas a tres mil seiscientas veces la Unidad de Medida y Actualización. Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple intencional.
 
 Si en la comisión de este delito concurre alguna circunstancia agravante de las previstas en el artículo 147 se impondrán de treinta a sesenta años de prisión y multa de dos mil ciento sesenta a cuatro mil seiscientas veinte veces la Unidad de Medida y Actualización.
 
@@ -1807,13 +1799,59 @@ Cuando las lesiones sean calificadas, la pena se incrementará en dos terceras p
 
 La riña es la contienda de obra que se acepta de manera tácita o expresa entre dos o más personas con el ánimo de dañarse recíprocamente.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
-###### Artículo 147.
+###### ARTÍCULO 147.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, brutal ferocidad, por razones de preferencia sexual o identidad de género o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia. De igual manera, se considerará que son calificados el homicidio o lesiones, cuando en su ejecución existan algunas de las causas previstas por el artículo 147 Bis de este Código.
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, brutal ferocidad, por razones de orientación sexual o identidad de género o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 147 BIS. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+Existen razones de género cuando se acredite cualquiera de las siguientes circunstancias:
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
+
+I. El cuerpo de la víctima presente signos de violencia sexual de cualquier tipo;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+II. El cuerpo de la víctima presente lesiones infamantes o degradantes, heridas en zonas vitales, traumatismos, estrangulamiento, cortes, puñaladas, contusiones, fracturas, dislocaciones, quemaduras, escoriaciones, o mutilaciones, previas o posteriores a la privación de la vida o actos de necrofilia;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+III. Existan antecedentes o datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
+
+IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público; o
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2011)</small>
+
+V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+VI. Que entre la víctima y el sujeto activo exista o haya existido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación de hecho o amistad;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+VII. Entre el activo y la víctima hubo o haya existido una relación laboral, docente o otro que implique confianza, subordinación o superioridad; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+VIII. Cuando la víctima se haya encontrado en un estado de indefensión.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+A quien cometa feminicidio se impondrá de cuarenta a sesenta años de prisión y de dos mil ochocientos ochenta a cuatro mil trecientos veinte veces la Unidad de Medida y Actualización de multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+Si entre el sujeto activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique confianza, subordinación o superioridad, si la víctima es menor de edad, embarazada o con discapacidad, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición, se impondrán de cuarenta y cinco a sesenta años de prisión y multa de tres mil doscientos cuarenta a cuatro mil trecientos veinte veces la Unidad de Medida y Actualización.
 
 ###### Artículo 147 Bis.
 
@@ -6122,3 +6160,13 @@ P.O. 9 DE DICIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 52.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Los juicios e investigaciones derivadas de un feminicidio que se encuentren en trámite continuarán su sustanciación hasta el final de las mismas, de conformidad con la legislación aplicable al momento de inicio de los mismos.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
