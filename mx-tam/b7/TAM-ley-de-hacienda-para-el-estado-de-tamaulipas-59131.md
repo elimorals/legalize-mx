@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2018-11-22"
+last_updated: "2018-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -563,513 +563,105 @@ III. Los ingresos a que se refiere este Capítulo, cuando por ellos se cause y s
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 35.
 
-Están obligadas al pago del Impuesto sobre Tenencia o Uso de Vehículos, las personas físicas o morales tenedoras o usuarias de los vehículos a que se refiere el presente Capítulo, dentro de la circunscripción territorial del Estado.
-
-Para los efectos de este impuesto se considera que la tenencia o uso de vehículos se efectúa dentro de la circunscripción territorial del Estado, cuando se actualice alguno de los siguientes supuestos:
-
-I.- Se inscriba el vehículo en la Oficina Fiscal del Estado en el Municipio que corresponda; y
-
-II.- El domicilio convencional o fiscal del tenedor o usuario del vehículo se localice dentro del territorio del Estado.
-
-Para efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-Los contribuyentes pagarán el impuesto por año de calendario ante las oficinas autorizadas durante los seis primeros meses, salvo en los casos de vehículos nuevos o importados, supuestos en los que el impuesto deberá calcularse y enterarse previamente al momento en el cual se solicite el registro del vehículo en el padrón vehicular o realice cualquier trámite tendiente a obtener la autorización o permiso de cualquier índole para circulación en traslado.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
-
-El impuesto será calculado y determinado por la autoridad fiscal y se pagará en las oficinas o instituciones autorizadas por la Secretaría de Finanzas del Estado.
-
-El pago antes mencionado se realizará de manera simultánea con los Derechos por los Servicios de Control Vehicular establecidos en esta ley y demás contribuciones que resulten aplicables dentro del trámite realizado.
-
-Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el cuarto párrafo de este artículo.
-
-En la enajenación o importación de vehículos nuevos de año-modelo posterior al de aplicación del impuesto a que se refiere este Capítulo, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
-
-Para los efectos de este Capítulo, también se consideran automóviles a los omnibuses, microbuses, camiones y tractores no agrícolas tipo quinta rueda.
-
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto se pagará como si éste fuese nuevo.
-
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente, de acuerdo a lo siguiente:
-
-Mes de adquisición Factor aplicable al impuesto causado
-
-Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-La Federación, el Estado, los organismos autónomos, los organismos descentralizados y los órganos desconcentrados, los fideicomisos públicos de la administración pública del Estado, los municipios o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos estatales o estén exentos de ellos.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 36.
 
-Para efectos de este Capítulo, se entiende por:
-
-I.- Vehículo nuevo:
-
-a).- El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos; o
-
-b).- El importado definitivamente al país, que corresponda al año-modelo posterior al de aplicación de este impuesto, al año-modelo en que se efectúe la importación, o a los nueve años-modelos inmediatos anteriores al año de la importación definitiva;
-
-II.- Valor total del vehículo: el precio de enajenación al consumidor del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado.
-
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo;
-
-III.- Marca: las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
-
-IV.- Año-modelo: el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra;
-
-V.- Modelo: todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos;
-
-VI.- Versión: cada una de las distintas presentaciones comerciales que tiene un modelo;
-
-VII.- Línea:
-
-a).- Automóviles con motor de gasolina o gas hasta de 4 cilindros;
-
-b).- Automóviles con motor de gasolina o gas de más de 4 cilindros;
-
-c).- Automóviles con motor diesel;
-
-d).- Camiones con motor de gasolina, gas o diesel;
-
-e).- Tractores no agrícolas tipo quinta rueda;
-
-f).- Autobuses integrales; y
-
-g).- Automóviles eléctricos; y
-
-VIII.- Comerciantes en el ramo de vehículos; las personas físicas o morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 37.
 
-Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
-
-I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aun cuando se trate de personas que no están obligadas al pago de dicho impuesto;
-
-II.- Quienes reciban en consignación o comisión vehículos para su enajenación, por el adeudo del impuesto que en su caso existiera; y
-
-III.- Las autoridades federales, estatales o municipales que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado de que no existan adeudos por el impuesto previsto en el presente Capítulo, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de esta obligación.
-
-Las autoridades competentes solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio correspondiente al Estado de Tamaulipas.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 37 Bis.
 
-Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN II. AUTOMÓVILES
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+###### Articulo 38.
 
-###### Artículo 38.
-
-Tratándose de automóviles, omnibuses, microbuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
-
-I.- En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
-
-TARIFA
-
-LIMITE LIMITE CUOTA TASA PARA
-
-INFERIOR. SUPERIOR. FIJA. APLICARSE SOBRE
-
-$ $ $ EL EXCEDENTE
-
-DEL LIMITE INFERIOR.
-
-%
-
-0.01 428,768.31 0.00 3.0
-
-428,768.32 825,140.79 12,863.05 8.7
-
-825,140.80 1,109,080.70 47,347.45 13.3
-
-1,109,080.71 1,393,020.60 85,111.46 16.8
-
-1,393,020.61 En adelante 132,813.6 19.1
-
-Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo año-modelo. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80;
-
-II.- Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
-
-Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir entre 30 el peso bruto máximo vehicular expresado en toneladas. En el caso de que el peso sea mayor de 35 toneladas, se tomará esta cantidad como peso bruto máximo vehicular.
-
-Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado, incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable; o
-
-III.- Tratándose de automóviles de más de diez años-modelos anteriores al de aplicación de este Capítulo, el impuesto se pagará a la tasa del 0%.
-
-Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos pick up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como omnibuses, minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 38 Bis.
 
-No se pagará el Impuesto por la Tenencia o Uso de los siguientes vehículos:
-
-I.- Los eléctricos utilizados para el transporte público de personas;
-
-II.- Los importados temporalmente en los términos de la legislación aduanera;
-
-III.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esos órdenes de gobierno o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
-
-IV.- Los automóviles al servicio de misiones diplomáticas y consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad; o
-
-V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
-
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, III y IV de este artículo, deberán comprobar ante la autoridad competente que se encuentran comprendidos en dichos supuestos.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN III. OTROS VEHICULOS
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 39.
 
-En esta Sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquíes acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, automóviles eléctricos y motocicletas.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 40.
 
-Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00 para aeronaves de reacción.
-
-Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 40 Bis.
 
-Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
-
-TARIFA
-
-Límite inferior Límite superior Cuota fija Tasa para aplicarse
-
-$ $ $ sobre el excedente
-
-del límite inferior
-
-%
-
-0.01 200,000.00 0.00 3
-
-200,000.01 275,046.93 6,000.00 8.7
-
-275,046.94 369,693.57 12,529.08 13.3
-
-369,693.58 en adelante 25,117.08 16.8
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 40 Ter.
 
-Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de esta Sección, el impuesto se pagará conforme a la siguiente:
-
-TABLA
-
-TIPO DE VEHÍCULOS CUOTA
-
-$
-
-AERONAVES:
-
-Hélice 448.00
-
-Turbohélice 2,480.00
-
-Reacción 3,583.00
-
-HELICÓPTEROS 551.00
-
-El monto de las cuotas establecidas en este artículo se actualizará con el factor a que se refiere el artículo 41 de la presente Sección.
-
-Tratándose de motocicletas de más de diez años-modelos anteriores al de aplicación de esta Sección, el impuesto correspondiente se pagará a la tasa del 0%.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 40 Quáter.
 
-Tratándose de automóviles eléctricos nuevos, así como de aquellos vehículos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 41.
 
-Para los efectos de lo dispuesto en los artículos 38, 40, 40 bis y 40 ter de este Capítulo, los montos de las cantidades que en los mismos se señalan se actualizarán en el mes de diciembre de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de octubre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el articulo 18-A del Código Fiscal del Estado de Tamaulipas.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 41 Bis.
 
-No se pagará el impuesto en los términos de esta Sección por la tenencia o uso de los siguientes vehículos:
-
-I.- Los importados temporalmente en los términos de la Ley Aduanera;
-
-II.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, y las ambulancias dependientes de cualquiera de estos órganos de gobierno o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
-
-III.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidoras y los comerciantes del ramo de vehículos;
-
-IV.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial;
-
-V.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga: o
-
-VI.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 41 Ter.
 
-El Gobierno del Estado podrá celebrar convenios con las autoridades federales competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, a fin de facilitar la comprobación del pago del presente impuesto por parte de las personas tenedoras o usuarias de aeronaves o embarcaciones gravadas.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN IV. VEHICULOS USADOS
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 42.
 
-Tratándose de vehículos de fabricación nacional o importados, a que se refieren los artículos 38 fracción II y 40 bis del presente Capítulo, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
-
-TABLA
-
-AÑOS DE ANTIGÜEDAD FACTOR
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 0.500
-
-El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 41 del presente Capítulo.
-
-Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el Impuesto sobre Tenencia o Uso de Vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
-
-I.- El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año-modelo del vehículo, de conformidad con la tabla establecida en este articulo; y
-
-II.- La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 41 del presente Capítulo y el resultado obtenido se multiplicará por 0.245%.
-
-Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año-modelo al que corresponda el vehículo.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 42 Bis.
 
-Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años-modelo anteriores al de aplicación de este Capítulo, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-I.- El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año-modelo del vehículo, de conformidad con la siguiente:
-
-TABLA
-
-AÑOS DE ANTIGÜEDAD FACTOR DE DEPRECIACIÓN
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 0.075
-
-II.- La cantidad obtenida conforme al párrafo anterior, se actualizará de conformidad con lo dispuesto en el artículo 41 del presente Capítulo y al resultado se le aplicará la tarifa a que hace referencia el artículo 38 de este Capítulo.
-
-Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año-modelo al que corresponda el vehículo.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 42 Ter.
 
-Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-I.- El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año-modelo, de conformidad con la siguiente:
-
-TABLA
-
-AÑOS DE ANTIGÜEDAD FACTOR DE DEPRECIACIÓN
-
-1 0.9250
-
-2 0.8500
-
-3 0.7875
-
-4 0.7250
-
-5 0.6625
-
-6 0.6000
-
-7 0.5500
-
-8 0.5000
-
-9 0.4500
-
-10 0.4000
-
-11 0.3500
-
-12 0.3000
-
-13 0.2625
-
-14 0.2250
-
-15 0.1875
-
-16 0.1500
-
-17 0.1125
-
-18 0.0750
-
-19 y siguientes 0.0375
-
-II.- La cantidad obtenida conforme al párrafo anterior, se actualizará de conformidad con lo dispuesto en el artículo 41 de esta ley; al resultado se le aplicará la tasa a que hace referencia el segundo párrafo del artículo 40 de la misma.
-
-Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 42 Quáter.
 
-Tratándose de motocicletas de fabricación nacional o importada, de hasta nueve años-modelo anteriores al de aplicación de este Capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-I.- El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año-modelo de la motocicleta, de conformidad con la siguiente:
-
-TABLA
-
-AÑOS DE ANTIGÜEDAD FACTOR DE DEPRECIACIÓN
-
-1 0.9
-
-2 0.8
-
-3 0.7
-
-4 0.6
-
-5 0.5
-
-6 0.4
-
-7 0.3
-
-8 0.2
-
-9 0.1
-
-II.- A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 41 del presente Capítulo.
-
-Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año- modelo al que corresponda la motocicleta.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 42 Quinquies.
 
-Tratándose de vehículos usados provenientes de otras entidades federativas, con el impuesto del ejercicio actual pagado en la entidad de procedencia y que soliciten la inscripción en el padrón vehicular del Estado de Tamaulipas, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente, de acuerdo a lo siguiente:
-
-Mes inscripción Factor aplicable al impuesto causado
-
-Enero 1.00
-
-Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 43.
 
-Los distribuidores autorizados de venta de vehículos así como los comerciantes en el ramo de vehículos, tendrán la obligación de presentar durante el mes de mayo, declaración anual informativa sobre las enajenaciones de vehículos nuevos o seminuevos realizadas en territorio del Estado en el ejercicio anterior.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 44.
 
-El Gobierno del Estado podrá celebrar convenios con las autoridades municipales, con el fin de procurar el pago del presente impuesto y otros de carácter estatal o municipal.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 ###### Artículo 44 Bis.
 
-Para efectos de este impuesto es autoridad competente la Secretaría de Finanzas del Gobierno del Estado de Tamaulipas, por si y a través de las Oficinas Fiscales. Las Tesorerías municipales serán competentes en los términos de los convenios que al efecto se realicen.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -2887,9 +2479,29 @@ b) Veinte veces el valor diario de la Unidad de Medida y Actualización, las emp
 
 c) Doscientos sesenta y cuatro veces el valor diario de la Unidad de Medida y Actualización, los mayoristas y tiendas departamentales de autoservicio.
 
-V.- Por la expedición de las autorizaciones de inspección de ganado en tránsito, sus productos y subproductos en los términos de la ley y demás aplicables, se pagará el importe equivalente a una vez el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
-VI.- Por la obtención del certificado de inspección de carne en canal o en sus diversas presentaciones, con motivo de verificación de sanidad y comprobación de la propiedad y procedencia de la misma, se pagará catorce veces el valor diario de la Unidad de Medida y Actualización.
+V.- Por la expedición de las autorizaciones de inspección de ganado en tránsito, sus productos y subproductos en los términos de la ley y demás aplicables, se pagará el importe equivalente a cero punto cincuenta y seis veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+VI.- Por la obtención del certificado de inspección de carne en canal o en sus diversas presentaciones, con motivo de verificación de sanidad y comprobación de la propiedad y procedencia de la misma:
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+a).- Embarques hasta 3 toneladas, una vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+b).- Embarques de más de 3 toneladas y hasta 6 toneladas, tres veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+c).- Embarques de más de 6 toneladas y hasta 10 toneladas, seis veces el valor diario de la Unidad de Medida y Actualización: y
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+d).- Embarques de más de 10 toneladas, catorce veces el valor diario de la Unidad de Medida y Actualización.
 
 VII.- Por extender las autorizaciones de inspección de colmenas, se pagará el importe equivalente a punto dos el valor diario de la Unidad de Medida y Actualización.
 
@@ -2901,7 +2513,7 @@ I.- Por expedir el registro de las empresas almacenadoras, industrializadoras, c
 
 II.- Por el acopio de los productos de las empresas almacenadoras industrializadoras, compradores y prestadores de servicios para especies vegetales, se pagará el 3 al millar, por cada tonelada del producto de que se trate.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 77.
 
@@ -2963,9 +2575,23 @@ IV.- Agropecuario, 2 por ciento el valor diario de la Unidad de Medida y Actuali
 
 V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO UNICO
+### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS DE EXPEDICIÓN DE PERMISO E INSCRIPCIÓN EN EL REGISTRO ESTATAL DE LAS CASAS DE EMPEÑO
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+Artículo 100 QUATER.- Los derechos por los servicios a que se refiere éste capítulo, se pagaran conforme a lo siguiente:
+
+I.- Por la expedición del permiso para la instalación y funcionamiento correspondiente y por la inscripción en el registro estatal de casas de empeño, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
+
+II.- Por la revalidación anual del permiso correspondiente, se pagará el importe equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
+
+III.- Por la modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original se pagará el importe equivalente a quince veces el valor diario de la Unidad de Medida y Actualización; y
+
+IV.- Por la reposición del permiso correspondiente, se pagará el importe equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización.
+
+Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 79.
 
@@ -3521,6 +3147,10 @@ Por cualquier servicio que preste el Gobierno del Estado a través de las entida
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ## TITULO IV. DE LAS CONTRIBUCIONES ESPECIALES
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
@@ -3860,3 +3490,15 @@ Dentro de un plazo de no más de sesenta días naturales a partir de la entrada 
 ###### ARTÍCULO CUARTO.
 
 Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-724 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS; DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, ASÍ COMO DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2019, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
