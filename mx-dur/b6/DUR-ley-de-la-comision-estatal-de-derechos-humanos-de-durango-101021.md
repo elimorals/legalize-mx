@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2017-12-07"
+last_updated: "2018-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -277,6 +277,10 @@ III. Gozar de buena reputación y reconocido prestigio, y
 
 IV. No haber sido condenado mediante sentencia ejecutoriada por delito doloso que amerite pena corporal.
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+V. Poseer preferentemente Título de Licenciado en Derecho y conocimientos acreditables en materia de derechos humanos.
+
 ## TÍTULO III. FACULTADES DE LOS ÓRGANOS DE LA COMISIÓN
 
 ### CAPÍTULO PRIMERO. FACULTADES Y OBLIGACIONES DEL CONSEJO DE LA COMISIÓN
@@ -459,7 +463,7 @@ Son facultades y obligaciones del Visitador General:
 
 I. Analizar la (sic) quejas presentadas y conocer de los asuntos tramitados en la Comisión;
 
-II. Turnar a las Visitadurias Numerarias o Visitadores Adjuntos las quejas y dirigir el trámite de las investigaciones de violaciones a derechos humanos;
+II. Turnar a las Visitadurías Numerarias o Visitadores Adjuntos las quejas y dirigir el trámite de las investigaciones de violaciones a derechos humanos;
 
 III. Realizar investigación de quejas por violaciones a derechos humanos conforme al procedimiento establecido en esta Ley y su Reglamento;
 
@@ -897,7 +901,7 @@ Las funciones del Presidente y demás integrantes de la Comisión, son incompati
 
 ###### Artículo 83.
 
-Las retribuciones que reciban el Presidente de la Comisión, los Titulares y las Dependencias de la Comisión, o el Órgano de Control Interno o demás servidores públicos, serán determinados por las leyes correspondientes.
+Las retribuciones que reciban el Presidente de la Comisión, los Titulares y las Dependencias de la Comisión, o el Órgano de Control Interno o demás servidores públicos, serán determinados (sic) por las leyes correspondientes.
 
 ###### Artículo 84.
 
@@ -1010,3 +1014,11 @@ P.O. 7 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que opongan al contenido del presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 45.- QUE CONTIENE REFORMAS A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
