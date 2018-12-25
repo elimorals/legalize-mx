@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2017-12-21"
+last_updated: "2018-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -963,8 +963,6 @@ III.- Imponer la multa que corresponda en los términos de este Código y requer
 
 En caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 44.
@@ -975,25 +973,17 @@ A fin de comprobar que los contribuyentes o responsables solidarios o los tercer
 
 I.- Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para el efecto las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para efectuar la rectificación del error u omisión de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 II.- Requerir a los contribuyentes, responsables solidarios o terceros con aquellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 III.- Practicar visitas a los contribuyentes, responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-IV.- Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de presentación de solicitudes o avisos en materia del registro estatal de contribuyentes, de conformidad con el procedimiento previsto en el artículo 50-A de este Código;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV.- Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de presentación de solicitudes o avisos en materia del registro estatal de contribuyentes, así como llevar a cabo visitas de inspección o auditoría a casas de empeño, ambas facultades de conformidad con el procedimiento previsto en el artículo 50-A de este Código;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1223,8 +1213,6 @@ IV.- Como consecuencia de la revisión de los informes, datos, documentos o cont
 
 V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsables solidario mediante oficio, la conclusión de la revisión efectuada con motivo del ejercicio de la facultad a que se refiere la fracción II del artículo 44 de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 VI.- El oficio de observaciones a que se refiere la fracción IV anterior, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción. El contribuyente o responsable solidario contará con un plazo de veinte días, que se computará a partir del día siguiente al que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o cuando la revisión abarque además de uno o varios ejercicios revisados, fracciones de otro ejercicio, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
@@ -1238,6 +1226,10 @@ Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio d
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 VII.- Cuando el contribuyente o responsable solidario no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo, y en el lugar especificado en dicha fracción.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales, la relativa a las cuentas bancarias del contribuyente.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
@@ -2311,7 +2303,7 @@ IV.- Que se hayan consentido, entendiéndose por consentimiento el hecho de no h
 
 V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
 
-VI.- En el caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 128 de este Código.
+VI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2018)
 
 VII.- Si son revocados los actos por la autoridad.
 
@@ -2323,7 +2315,7 @@ Procede el sobreseimiento en los casos siguientes:
 
 I.- Cuando el promovente se desista expresamente de su recurso.
 
-Il.- Cuando durante el procedimiento en que se substancie el recurso administrativo sobrevenga alguna de las causas de improcedencia a que se refiere el Artículo 123 de este Código.
+II.- Cuando durante el procedimiento en que se substancie el recurso administrativo sobrevenga alguna de las causas de improcedencia a que se refiere el Artículo 123 de este Código.
 
 III.- Cuando de las constancias que obran en el expediente administrativo, quede demostrado que no existe el acto o resolución impugnada.
 
@@ -2357,27 +2349,9 @@ El tercero que afirme ser propietario de los bienes o negociaciones, o titular d
 
 #### Sección Segunda. De la Impugnación de las Notificaciones
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 128.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 116, se estará a las reglas siguientes:
-
-I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
-
-En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
-
-II.- Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
-
-El particular tendrá un plazo de un mes a partir del día siguiente al en que la autoridad se lo haya dado a conocer, para ampliar el recurso administrativo, impugnado el acto y su notificación o sólo la notificación.
-
-III.- La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
-
-IV.- Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquella, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
@@ -2441,7 +2415,7 @@ Las notificaciones de los actos administrativos se harán:
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-l.- Personalmente o por correo certificado o electrónico, con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+I.- Personalmente o por correo certificado o electrónico, con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
 En el caso de las notificaciones por correo electrónico, el acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado. Para los efectos de este párrafo, se entenderá como firma electrónica de particular notificado, la que se genere al utilizar la clave que la Secretaría de Finanzas le proporcione para abrir el documento digital que le hubiera sido enviado.
 
@@ -3526,3 +3500,15 @@ El valor de la Unidad de Medida y Actualización, será determinado conforme el 
 ###### ARTÍCULO SEXTO.
 
 Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-724 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS; DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, ASÍ COMO DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero de 2019, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
