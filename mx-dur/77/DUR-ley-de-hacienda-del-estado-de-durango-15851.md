@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2018-04-12"
+last_updated: "2018-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -2639,21 +2639,15 @@ expedición de título de propiedad de lote
 
 dentro de un fundo legal. 6.0
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 IV Bis.- Constancia de antecedentes del lote o
 
 fracción de éste, del fundo legal. 6.0
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 V.- Por medición de predios y elaboración de plano, tratándose de predios urbanos, el tamaño carta u oficio, de acuerdo con la siguiente tabla:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARRÁFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2669,13 +2663,9 @@ a).- Por predio:
 
 5) De 1000.01 hasta 3000.0 m2 16
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 6) De 3000.01 hasta 5000 M2 21
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2689,8 +2679,6 @@ de dicho numeral, por cada
 
 100 M2 o fracción. 0.10
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 El excedente de la medida del plano
@@ -2699,15 +2687,9 @@ tamaño oficio, se cobrará por decímetro
 
 cuadrado a razón de: 0.10
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 b).- (REFORMADO [N. DE E. DEROGADO], P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. DEROGADO] SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. DEROGADO] SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2729,8 +2711,6 @@ bien inmueble, de acuerdo a lo siguiente:
 
 2) Por kilómetro de brecha o terracería 0.27
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 La clasificación del predio y la distancia se
@@ -2739,8 +2719,6 @@ determinarán de acuerdo con las cartas
 
 topográficas oficiales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 VI.- Por medición de predio rústico y
@@ -2748,8 +2726,6 @@ VI.- Por medición de predio rústico y
 elaboración de plano en tamaño carta u
 
 oficio, de acuerdo con la siguiente tabla:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2813,13 +2789,9 @@ Los costos citados en la presente fracción, se incrementarán de acuerdo a la d
 
 2) Por kilómetro de brecha o terracería 0.27
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 La clasificación del predio y la distancia se determinarán de acuerdo con las cartas topográficas oficiales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2834,8 +2806,6 @@ VII.- Expedición de carta urbana. 4
 VIII.- Expedición de copia de plano, tamaño
 
 carta. 2
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2865,8 +2835,6 @@ c) Por el excedente del valor catastral de 7200 UMA diario.
 
 0.20
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 XII.- Deslinde catastral dentro del perímetro 5.0
@@ -2876,8 +2844,6 @@ urbano de la ubicación de la sede de la
 Dirección General de Catastro o sus
 
 delegaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2901,23 +2867,13 @@ XVI.- Por corrección de información remitida por
 
 Usuarios. 2.0
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2945,13 +2901,9 @@ trámites de actos de traslado
 
 de dominio: 2.0
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 XXIV.- Registro Catastral 3.0
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3487,7 +3439,9 @@ VI. Las fianzas a favor del Estado.
 
 VII. Las herencias, donaciones y legados.
 
-VIII. En general cualquier otro ingreso no clasificable como impuesto, derecho, producto y aportaciones especiales.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+VIII. En general cualquier otro ingreso no clasificable como impuesto, derecho y producto.
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -3496,6 +3450,12 @@ IX. Los aprovechamientos originados por conceptos de recargos, garantías, multa
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 X. Los que se deriven de concesiones y contratos a favor del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+ARTICULO 71 BIS.- Los contribuyentes de los derechos a que se refiere el Capítulo VI, del Título Tercero de esta Ley, aportarán el equivalente al valor de una U.M.A. el que se destinará al auxilio y estímulo de las acciones en materia de salud, efectuadas por la Delegación en el Estado de Durango de la Cruz Roja Mexicana, Institución de Asistencia Privada. Lo cual deberá considerarse en la Ley de Egresos del Estado Libre y Soberano de Durango para el ejercicio fiscal que corresponda.
+
+Para tal efecto, el Gobierno del Estado de Durango, a través de la Secretaría de Salud con la comparecencia de la Secretaria de Finanzas y de Administración, celebrará con dicha Institución de Asistencia Privada, dentro de los primeros tres meses de cada ejercicio fiscal, el convenio de colaboración correspondiente en el que se establezca el monto total a otorgar, en término de la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, así como la forma y plazos en los que dicho monto le será entregado.
 
 ## TITULO SEXTO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -3583,7 +3543,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE DICIEMBRE DE 2001.
 
@@ -3777,7 +3737,7 @@ CUARTO. Se derogan todas las disposiciones legales que se opongan al presente de
 
 P.O. 25 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 153.- POR EL QUE SE MODIFICAN DIVERSOS ARTICULOS DE LA LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 153.- POR EL QUE SE MODIFICAN DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
@@ -3792,3 +3752,11 @@ P.O. 12 DE ABRIL DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 58.- QUE CONTIENE REFORMA Y ADICIÓN A LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Durango.
+
+SEGUNDO. Previo a la celebración del convenio de colaboración correspondiente al ejercicio fiscal 2019, la Secretaría de Salud, deberá celebrar con el representante legal de la Delegación en el Estado de Durango de la Cruz Roja Mexicana, Institución de Asistencia Privada, un convenio marco de colaboración en el que se establezcan las bases generales, así como las obligaciones y derechos de cada una de las partes, para el otorgamiento del estímulo.
