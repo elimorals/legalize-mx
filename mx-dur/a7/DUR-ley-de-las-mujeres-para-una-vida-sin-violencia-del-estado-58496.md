@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2018-05-31"
+last_updated: "2018-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -239,11 +239,11 @@ La violencia contra las mujeres en el ámbito familiar, se establece sin contrav
 
 Por violencia contra las mujeres en la comunidad, se entiende los actos u omisiones de carácter individual o colectivo que transgreden los derechos de las víctimas que las denigran, discriminan, marginan o excluyen en el ámbito público. Además de las conductas que propician, justifican y alimentan patrones estereotipados, basados en conceptos de inferioridad o subordinación.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 10.
 
-La violencia contra las mujeres en el ámbito laboral, son todos los actos u omisiones que se ejercen por la persona que tiene un vínculo laboral con la víctima, independientemente de la relación jerárquica, que vulnera los derechos laborales al no respetar la permanencia o condiciones de trabajo, así como la negativa ilegal e indebida para contratar a la víctima, descalificando el trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y toda clase de discriminación por condición de género; independientemente de que puedan constituir un delito o no.
+La Violencia contra las mujeres en el ámbito laboral se considera: la negativa ilegal a contratar a la víctima, o a respetar su permanencia, sus oportunidades de ascenso o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la solicitud o requerimiento de presentar certificado médico de no embarazo para el ingreso, permanencia o ascenso en el empleo o para el ejercicio o disfrute de cualquier otro derecho laboral, la explotación y todo tipo de discriminación por condición de género, sin importar que puedan constituir un delito o no, ejercido por persona que tenga una relación de trabajo con la víctima independientemente de la relación jerárquica laboral que exista con el agresor.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -1738,5 +1738,17 @@ P.O. 31 DE MAYO DE 2018.
 La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 51.- QUE CONTIENE REFORMAS A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO, EN MATERIA DE DISCRIMINACIÓN LABORAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
