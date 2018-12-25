@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2017-12-31"
+last_updated: "2018-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -925,9 +925,13 @@ VI. Colaborar en las acciones de inspección y vigilancia que lleve a cabo la ad
 
 VII. Coordinar las acciones de las juntas municipales y demás representantes del Ayuntamiento en la división política territorial del municipio.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
-VIII.- Expedir certificaciones; tratándose de cartas de origen se procurará que estas contengan, por lo menos, el nombre, lugar y fecha de nacimiento, así como una fotografía reciente del interesado;
+VIII. Expedir certificaciones; tratándose de cartas de origen se procurará que estas contengan, por lo menos, el nombre, lugar y fecha de nacimiento, la Clave Única de Registro de Población, así como una fotografía reciente del interesado, incluyendo la fecha de expedición del documento.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
+Las cartas de origen serán expedidas al interesado mismo, y en caso de imposibilidad por parte de éste, dicho documento podrá expedirse, preferentemente, a alguno de sus familiares consanguíneos hasta el tercer grado o por afinidad hasta el segundo grado, una vez que éstos hayan acreditado fehacientemente su identidad mediante documento oficial y el parentesco respectivo.
 
 IX. Coordinar la elaboración de los informes anuales del presidente municipal.
 
@@ -2354,3 +2358,15 @@ Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al
 Artículo Tercero.- Los Ayuntamientos deberán emitir o adecuar su reglamentación municipal necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 60 días.
 
 Artículo Cuarto.- Cuando las condiciones socio-económicas de los municipios no justifiquen la creación del Juzgado Cívico, los asuntos relativos los deberán resolver ante las instancias municipales existentes.
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 62.- QUE CONTIENE ADICIÓN DE LOS ARTÍCULOS 85 BIS Y 85 TER A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los Ayuntamientos, dentro de un plazo de treinta días contados a partir del inicio de vigencia del presente decreto, deberán realizar las adecuaciones reglamentarias correspondientes.
+
+TERCERO.- Las cartas de origen que hayan sido tramitadas antes de la entrada en vigor del presente decreto continuarán con el procedimiento y requisitos con las que fueron solicitadas.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
