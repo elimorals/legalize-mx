@@ -4,7 +4,7 @@ identifier: "DUR-ley-reglamentaria-del-registro-publico-de-la-propiedad-del-5071
 country: "mx"
 rank: "ley"
 publication_date: "1952-02-24"
-last_updated: "1982-11-07"
+last_updated: "2018-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE DURANGO
 
-LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE DURANGO
+LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 1982.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 24 y jueves 28 de febrero de 1952.
 
@@ -75,7 +75,7 @@ DEL PERSONAL DEL REGISTRO.
 
 ###### ARTICULO 6o.
 
-El Director del Registro Público de la Propiedad será nombrada por el Ejecutivo del Estado. El Secretario de la Dirección, registradores de la misma y Oficiales, serán nombrados por el Gobernador mediante propuesta del Director del Registro.
+El Director del Registro Público de la Propiedad será nombrada (sic) por el Ejecutivo del Estado. El Secretario de la Dirección, registradores de la misma y Oficiales, serán nombrados por el Gobernador mediante propuesta del Director del Registro.
 
 ###### ARTICULO 7o.
 
@@ -163,7 +163,7 @@ V.- Suministrar al Director todos los datos que éste solicite.
 
 VI.- Vigilar la conducta de sus subalternos y exigir de ellos puntualidad y eficiencia en las labores que se les encomienden.
 
-VII.- Revisar las inscripciones que se asienten en los libros, cuidando que se hagan con sujeción a los preceptos del Código Civil y de este Raglamento, y que los datos que en dicdas inscripciones se asienten, concuerden con los que constan en el Título inscrito y con las constancias de los libros del Registro. Especialmente cuidarán de la exactitud y concordancia de los antecedentes de propiedad q´ se dicten en los títulos y los que obren en los libros del Registro. (sic)
+VII.- Revisar las inscripciones que se asienten en los libros, cuidando que se hagan con sujeción a los preceptos del Código Civil y de este Raglamento (sic), y que los datos que en dicdas (sic) inscripciones se asienten, concuerden con los que constan en el Título inscrito y con las constancias de los libros del Registro. Especialmente cuidarán de la exactitud y concordancia de los antecedentes de propiedad q´ (sic) se dicten en los títulos y los que obren en los libros del Registro.
 
 ###### ARTICULO 17.
 
@@ -171,7 +171,7 @@ Son obligaciones del Secretario de la Dirección del Registro Público de la Pro
 
 I.- Asistir con puntualidad y permanecer en las Oficinas durante las horas señaladas en el Reglamento Interior del Gobierno del Estado.
 
-II.- Firmar las certificaciones que se expidieren después de haber sido verificadas por él, a fin de que el Director las autorice con su frma(sic).
+II.- Firmar las certificaciones que se expidieren después de haber sido verificadas por él, a fin de que el Director las autorice con su frma (sic).
 
 III.- Vigilar la asistencia de los registradores y conservar el orden de los mismos dentro de la Oficina, dando cuenta inmediata al Director de las anomalías que al respecto observe.
 
@@ -743,9 +743,11 @@ Las certificaciones de inscripciones de especie determinada comprenderán todas 
 
 Las certificaciones de inscripciones hipotecarias a cargo de las personas señaladas, comprenderán todas las constituídas y no canceladas, sobre todos los bienes cuya propiedad estuviere inscrita a favor de las mismas personas.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 113.
 
-Cuando se expidan certificados en los que consten los gravámenes o bien la libertad de una finca, se hará referencia a las inscripciones relativas y se mencionará si hay alguna anotación preventiva y si hay alguna nota de presentación de un documento en el que se constituya un derecho real o se establezca una limitación de dominio.
+Cuando se expidan certificados en los que consten los gravámenes o la libertad de un inmueble, se hará referencia a las inscripciones relativas, se mencionará si hay alguna anotación preventiva o alguna nota de presentación de un documento en el que se constituya un derecho real o se establezca una limitación de dominio, vigentes en el periodo de los últimos veinte años o más a solicitud del interesado.
 
 ###### ARTICULO 114.
 
@@ -1208,3 +1210,13 @@ Artículo Segundo.- El presente Decreto surtirá sus efectos 15 días después d
 P.O. 7 DE NOVIEMBRE DE 1982.
 
 UNICO.- El presente Decreto, surtirá sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 64.- QUE CONTIENE REFORMA A LA LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entró en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
+
+SEGUNDO.- Se derogaron todas las disposiciones que se opusieron al presente Decreto.
+
+TERCERO.- En un plazo que no excederá de 03 meses contados a partir del inicio de la vigencia de este Decreto, se realizarán las adecuaciones al Reglamento correspondiente.
