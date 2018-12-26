@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-centro-de-convenciones-de-morelia-81801
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-16"
-last_updated: "2011-06-16"
+last_updated: "2018-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL CENTRO DE CONVENCIONES DE MORELIA, ESTADO DE MICHOACAN
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CENTRO DE CONVENCIONES DE MORELIA, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CENTRO DE CONVENCIONES DE MORELIA, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DEL CENTRO DE CONVENCIONES DE MORELIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 16 de junio de 2011.
 
@@ -283,7 +283,7 @@ XIV. Diseñar y proponer al Director General los talleres científicos y tecnol�
 
 XV. Organizar los cursos de astronomía a desarrollarse en el Planetario conjuntamente con la Sociedad Astronómica de Morelia; y,
 
-XVI. Las demás que le señale el Director General y otras disposiciones normativas aplicables: (sic)
+XVI. Las demás que le señale el Director General y otras disposiciones normativas aplicables:
 
 ### CAPÍTULO VIII. DEL DEPARTAMENTO DE CIENCIAS E IDIOMAS
 
@@ -490,3 +490,13 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 ISIDORO RUIZ ARGÁIZ
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL CENTRO DE CONVENCIONES DE MORELIA”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Centro de Convenciones de Morelia publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 16 de junio de 2011, así como las demás disposiciones administrativas en lo que se opongan al presente Reglamento.
