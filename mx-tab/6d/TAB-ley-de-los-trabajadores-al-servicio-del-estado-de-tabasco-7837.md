@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2017-07-05"
+last_updated: "2018-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -933,7 +933,9 @@ Por cada Magistrado representante de las Entidades Públicas y de los trabajador
 
 Para ser Magistrado del Tribunal de Conciliación y Arbitraje, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento y nativo del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2018)</small>
+
+I.- Ser ciudadano mexicano por nacimiento y contar con una residencia efectiva en el Estado de Tabasco, de por lo menos cinco años anteriores a su designación;
 
 II.- Ser mayor de treinta años el día de la designación, estar en pleno ejercicio de sus derechos políticos y civiles y haber observado una conducta pública notoriamente buena;
 
@@ -1318,3 +1320,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 26 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 057 POR EL QUE “SE REFORMA EL ARTÍCULO 103, FRACCIÓN I, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
