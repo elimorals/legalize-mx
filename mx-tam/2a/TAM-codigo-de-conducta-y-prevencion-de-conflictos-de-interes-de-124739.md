@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-124
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-28"
-last_updated: "2017-08-28"
+last_updated: "2018-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -19,6 +19,8 @@ scjn_last_update: "2018-12-26"
 state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LA SECRETARIA DE PESCA Y ACUACULTURA DEL ESTADO DE TAMAULIPAS
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS Y LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE PESCA Y ACUACULTURA DEL ESTADO DE TAMAULIPAS
 
@@ -217,3 +219,17 @@ GLOSARIO DE TÉRMINOS
 Tampico, Tam., a 23 de agosto de 2017
 
 ATENTAMENTE.- EL SECRETARIO DE PESCA Y ACUACULTURA DEL ESTADO DE TAMAULIPAS.- C.P. RAÚL RUIZ VILLEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE PESCA Y ACUACULTURA DEL GOBIERNO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de la Secretaría de Pesca y Acuacultura del Gobierno del Estado de Tamaulipas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Pesca y Acuacultura del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado Extraordinario No. 12 de fecha 28 de agosto de 2017.
