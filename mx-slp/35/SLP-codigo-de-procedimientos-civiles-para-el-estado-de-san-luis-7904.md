@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2018-12-11"
+last_updated: "2018-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -4909,7 +4909,9 @@ Cuando por el importe del avalúo no sea suficiente la parte de contado para cub
 
 ART. 1072.- Para tomar parte en la subasta los licitadores deberán presentar por escrito su postura y consignar previamente, en el establecimiento de crédito destinado el efecto por la Ley, a disposición del juzgado, una cantidad igual, por lo menos, al diez por ciento efectivo de la postura legal para el remate, sin cuyos requisitos no serán admitidos.
 
-Se devolverán las consignaciones a sus respectivos dueños acto contínuo al remate, excepto la del mejor postor, que se conservará en depósito como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de la venta.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+Concluida la diligencia de remate, y en el mismo acto, se devolverán las consignaciones debidamente endosadas a sus respectivos dueños sin trámite alguno, excepto la que corresponda al postor a quien se finque el remate, misma que se conservará en depósito como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de la venta.
 
 ART. 1073.- El ejecutante podrá tomar parte en la subasta y mejorar las posturas que se hicieren, sin necesidad de consignar el depósito prevenido en el artículo anterior, si el importe de su crédito, reconocido en la sentencia, cubre el diez por ciento a que el citado artículo se refiere.
 
@@ -5874,3 +5876,13 @@ P.O. 11 DE DICIEMBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0023.- SE REFORMA EL ARTÍCULO 1072 EN SU PÁRRAFO SEGUNDO, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
