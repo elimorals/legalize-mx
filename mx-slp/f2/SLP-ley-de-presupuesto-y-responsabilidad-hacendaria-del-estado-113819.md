@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2018-10-01"
+last_updated: "2018-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -332,7 +332,9 @@ A toda propuesta de aumento o creación de gasto del proyecto de Presupuesto de 
 
 Sin perjuicio de lo dispuesto en el artículo 48 de esta Ley, no procederá pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior; en este último caso, primero se tendrá que aprobar la fuente de ingresos adicional, para cubrir los nuevos gastos en los términos del párrafo anterior.
 
-Las iniciativas de ley o de Decreto que se presenten a la consideración del Congreso del Estado deberán ir acompañadas por una evaluación del impacto presupuestario del mismo, la cual será validada por el Ejecutivo Estatal, previo a su aprobación.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+Las iniciativas de ley o de Decreto que se presenten a la consideración del Congreso del Estado deberán ir acompañadas por una evaluación del impacto presupuestario del mismo, la cual será validada por el Ejecutivo Estatal, previo a su aprobación; asimismo, la Secretaría realizará las estimaciones sobre el impacto presupuestario de las disposiciones administrativas que emita el Ejecutivo, que impliquen costos para su implementación.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
 
@@ -344,9 +346,13 @@ La aprobación y ejecución de nuevas obligaciones financieras derivadas de la n
 
 El Ejecutivo Estatal, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los ingresos excedentes derivados de ingresos de libre disposición que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2018)</small>
 
-I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de este artículo, se destinarán el cincuenta por ciento preferentemente a la amortización anticipada de la deuda pública; al pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones; así como al pago del incremento del gasto programable respecto del presupuestado;
+I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de este artículo, se destinarán preferentemente a la amortización anticipada de la deuda pública; al pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones; así como el pago del incremento del gasto programable respecto del presupuestado, conforme a lo siguiente:
+
+a) Cuando el Estado se clasifique en un nivel de endeudamiento elevado, de acuerdo al Sistema de Alertas, cuando menos el cincuenta por ciento;
+
+b) Cuando el Estado se clasifique en un nivel de endeudamiento en observación, de acuerdo al Sistema de Alertas, cuando menos el treinta por ciento.
 
 II. En el caso de los ingresos que tengan un destino específico por disposición expresa de leyes de carácter fiscal, o conforme a éstas se cuente con autorización de la Secretaría para utilizarse en un fin específico, ésta podrá autorizar las ampliaciones a los presupuestos de las dependencias o entidades que los generen, hasta por el monto de los ingresos excedentes obtenidos que determinen dichas leyes o, en su caso, la Secretaría, y
 
@@ -359,6 +365,14 @@ Los municipios deberán solicitar a sus respectivos cabildos, el ejercicio de lo
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
 
 Los ingresos excedentes derivados de ingresos de libre disposición del Estado y los municipios podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Estado y los municipios se clasifiquen en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas emitido por la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+Cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas, podrá utilizar hasta el cinco por ciento de los recursos a los que se refiere el presente artículo, para cubrir gasto corriente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+Tratándose de ingresos de libre disposición que se encuentren destinados a un fin específico en términos de las leyes, no resultarán aplicables las disposiciones establecidas en este artículo.
 
 ###### ARTÍCULO 21.
 
@@ -1279,3 +1293,11 @@ PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el 
 SEGUNDO. Las dependencias y entidades de la administración pública estatal y municipal, organismos constitucionales autónomos y demás instituciones obligadas a reportar la información a que se refiere este Decreto, al Banco Estatal de Indicadores de Género, comenzarán a dar cumplimiento a la misma a partir del inicio de operaciones del referido Banco. La fecha de inicio de operaciones deberá ser notificada por escrito con cuando menos treinta días de anticipación a todas las dependencias, entidades, organismos constitucionales autónomos e instituciones obligadas de la administración pública estatal, así como a los municipios, por el Instituto de las Mujeres del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0024.- SE REFORMAN LOS ARTÍCULOS 19 Y 20; Y ADICIONA AL ARTÍCULO 20 DOS PÁRRAFOS, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
