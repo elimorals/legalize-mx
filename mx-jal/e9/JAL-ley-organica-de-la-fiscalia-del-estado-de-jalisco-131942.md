@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-del-estado-de-jalisco-131942"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2018-12-05"
+last_updated: "2018-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Quinquies Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -47,9 +47,11 @@ LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO.
 
 1. Esta ley es de orden e interés público y tiene por objeto establecer las bases para la organización y funcionamiento de la Fiscalía Estatal.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 2.
 
-1. La Fiscalía Estatal es la dependencia sobre la que recae la titularidad de la representación social y de la institución del ministerio público, de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+1. La Fiscalía Estatal es la dependencia sobre la que recae la titularidad de la institución del ministerio público, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3.
 
@@ -77,7 +79,9 @@ LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO.
 
 I. Ejercitar la acción penal y la vigilancia de la correcta deducción de la misma, así como la petición de medidas de protección, precautorias y cautelares ante la autoridad judicial en los términos establecidos por la ley;
 
-II. Investigar todos los delitos del orden local y concurrente, así como perseguir a sus presuntos responsables ante los tribunales; con el objeto de esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+II. Investigar todos los delitos del orden local y concurrente, así como acreditar la responsabilidad de los imputados ante los tribunales; con el objeto de esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
 
 III. Coadyuvar para que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, y solicitar la aplicación de las sanciones impuestas por los tribunales;
 
@@ -109,7 +113,9 @@ XVI. Cumplir con las obligaciones que le correspondan en las leyes generales en 
 
 XVII. Establecer vínculos y relaciones con instituciones y organismos afines en el ámbito nacional e internacional para conocer las mejores prácticas y mejorar las funciones de procuración de justicia en el Estado;
 
-XVIII. Rendir a los Poderes del Estado y al Consejo, los informes sobre los asuntos relativos a su ramo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Rendir a los Poderes del Estado los informes sobre los asuntos relativos a su ramo;
 
 XIX. Dictar las medidas adecuadas para combatir y erradicar la violencia contra la mujer y los menores, desarrollando para tal efecto mecanismos institucionales;
 
@@ -121,9 +127,13 @@ a) Fomentar entre sus servidores públicos una cultura de respeto a los derechos
 
 b) Proporcionar información a la Comisión Estatal o Nacional de Derechos Humanos cuando la solicite en ejercicio de sus funciones, de conformidad con la ley;
 
-XXII. Participar en el Sistema Nacional de Planeación Democrática, en los términos que prevea la ley estatal de planeación y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
 
-XXIII. Opinar y participar en los proyectos de iniciativas de ley o de reformas legislativas para la exacta observancia de la Constitución Política del Estado de Jalisco y que estén vinculadas con las materias de su competencia;
+XXII. Participar en el Sistema Estatal de Planeación Democrática, en los términos que prevea la ley local en materia de planeación y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+XXIII. Opinar y participar en los proyectos de iniciativas de ley o de reglamentos para la exacta observancia de las Constituciones, tanto Federal como Local y que estén vinculadas con las materias de su competencia;
 
 XXIV. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. En todo caso se reservará la información cuya divulgación pueda poner en riesgo las investigaciones que realice la Fiscalía del Estado a través de sus fiscales o agentes del ministerio público y mantendrá la confidencialidad de los datos personales, de conformidad con lo dispuesto por el Código Nacional de Procedimientos Penales y demás normas aplicables;
 
@@ -233,7 +243,9 @@ VII. Dirección General de Policía de Investigación.
 
 1. La Fiscalía Especializada en Combate a la Corrupción de conformidad con la Constitución Política del Estado de Jalisco, es la responsable de investigar y perseguir las conductas que el Código Penal del Estado y demás ordenamientos especiales tipifican como delitos relacionas (sic) con hecho de corrupción.
 
-2. La Fiscalía Especializada funciona con autonomía técnica y operativa, por tanto no exististe (sic) jerarquía ni preeminencia de una respecto de la otra; y contará con las agencias del ministerio público, áreas y unidades administrativas especializadas que señale su Reglamento Interno, así como con los recursos humanos, financieros y materiales que requiera para su efectiva operación, de acuerdo a su disponibilidad presupuestal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+2. La Fiscalía Especializada funciona con autonomía técnica, de gestión, administrativa, operativa y presupuestal conforme a la ley, por tanto no existe jerarquía ni preeminencia de una respecto de la otra; y contará con las agencias del ministerio público, áreas y unidades administrativas especializadas conforme a su propio Reglamento Interno respecto a su organización interior y funcionamiento, mismo que será emitido por el Fiscal Especializado y remitido al Titular del Poder Ejecutivo para su sanción y publicación en el Periódico Oficial, así como con los recursos humanos, financieros y materiales que requiera para su efectiva operación, de acuerdo a su disponibilidad presupuestal.
 
 3. La Fiscalía Especializada, rendirá los informes que le requiera la Fiscalía Estatal, con motivo de la evaluación y supervisión que se realice a la dependencia.
 
@@ -271,7 +283,9 @@ XV. Suscribir los instrumentos jurídicos que faciliten el funcionamiento y oper
 
 XVI. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización a que se refiere la ley, respecto de los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
 
-XVII. Proponer al personal de la Fiscalía Especializada en Combate a la Corrupción, conforme a la disponibilidad presupuestal;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+XVII. Nombrar al personal de la Fiscalía Especializada en Combate a la Corrupción, de conformidad con la ley;
 
 XVIII. Supervisar el diseño de esquemas de capacitación, actualización y especialización en la materia de prevención y combate a la corrupción;
 
@@ -291,7 +305,41 @@ XXV. Recibir y tramitar las denuncias que presenten ante la Fiscalía por hechos
 
 XXVI. Diseñar e implementar proyectos, estudios y programas permanentes de información, fomento a la cultura de la denuncia y de la legalidad, así como de prevención de delitos relacionados con hechos de corrupción; y
 
-XXVII. Las demás que en su caso le confieran otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+XXVII. Decidir sobre el destino de los recursos que le sean asignados, de conformidad con las leyes aplicables; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+XXVIII. Las demás que en su caso le confieran otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+5. El Fiscal Especializado en Combate a la Corrupción formulará el anteproyecto de presupuesto de egresos de dicha Fiscalía Especializada, para su inclusión en el anteproyecto de presupuesto de la Fiscalía Estatal, para los efectos previstos en la Ley del Presupuesto, Contabilidad y Gasto Público del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+6. Para ser Fiscal Especializado en Combate a la Corrupción se requiere cumplir con los mismos requisitos que establece la Constitución Política del Estado para los Magistrados del Supremo Tribunal de Justicia del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+7. El Fiscal Especializado en Combate a la Corrupción durará en su cargo siete años, sin posibilidad de reelección; y sólo podrá ser removido del cargo por el Congreso del Estado, a petición del Poder Ejecutivo, por causa grave que la Ley establezca.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+8. Para elegir al Fiscal Especializado en combate a la Corrupción, se observará lo siguiente:
+
+I. El Congreso del Estado deberá emitir convocatoria pública a la sociedad;
+
+II. Una vez recibidas las solicitudes y los expedientes de los aspirantes, serán remitidos en copia al Comité de Participación Social del Sistema Estatal Anticorrupción para que analice los perfiles y emita un informe con sus opiniones técnicas; y simultáneamente se enviará copia al Gobernador del Estado;
+
+III. El Comité de Participación Social deberá enviar al Gobernador el informe a que se refiere el inciso anterior;
+
+IV. El Gobernador del Estado deberá remitir al Congreso una terna con su propuesta para ocupar el cargo de Fiscal Especializado en Combate a la Corrupción, tomando en cuenta las opiniones técnicas del Comité de Participación Social;
+
+V. Una vez recibida la terna, el Congreso del Estado, previa comparecencia de las personas propuestas, elegirá en votación por cédula a quien ocupará la titularidad de la Fiscalía Especializada en Combate a la Corrupción; con el voto de las dos terceras partes de los diputados integrantes de la Legislatura dentro de los treinta días posteriores a la presentación de la terna; y
+
+VI. En caso de que el Congreso del Estado no resuelva en ese plazo o ninguno de los propuestos para el cargo alcance la mayoría requerida, el Gobernador enviará una nueva terna. Si no se lleva a cabo la elección, dentro de los treinta días posteriores a la presentación de la segunda terna o ninguno de los propuestos en la segunda terna alcanza la mayoría requerida, ocupará el cargo la persona que dentro de ambas ternas resulte de un proceso de insaculación ante la Asamblea.
 
 ###### Artículo 12.
 
@@ -319,9 +367,21 @@ VII. Unidad de Investigación de Robo a Instituciones Bancarias y de Valores;
 
 VIII. Unidad de Investigación de Delitos Ambientales;
 
-IX. Unidad de Investigación de Delitos cometidos en Agravio de Menores; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
 
-X. Unidad de Investigación de Delitos cometidos por Adolescentes en Conflicto con la ley.
+IX. Unidad de Investigación de Delitos Cometidos en Agravio de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+X. Unidad de Investigación de Delitos cometidos por Adolescentes en Conflicto con la ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+XI. Unidad de Litigación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+XII. Unidad de Análisis y Contexto.
 
 ###### Artículo 14.
 
@@ -336,6 +396,10 @@ II. Dirección de Investigación de Personas Desaparecidas;
 III. Dirección de Análisis y Contexto; y
 
 IV. Coordinación de Atención Ciudadana;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+3. La Fiscalía Especial en Personas Desaparecidas deberá coordinar y mantener actualizada la información de personas desaparecidas y desaparecidas de manera forzada, de conformidad con las plataformas y sistemas aprobados a nivel nacional y estatal.
 
 ###### Artículo 15.
 
@@ -367,33 +431,53 @@ II. Imputado desconocido;
 
 III. Tramitación masiva de casos;
 
-IV. Hechos de sangre y transporte público;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+IV. Hechos de Sangre, de Tránsito y Transporte Público;
 
 V. Puestos de socorro;
 
-VI. Detenidos; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
 
-VII. Robos.
+VI. Detenidos;
 
-2. A la Dirección General le corresponde coordinar y mantener actualizada la información de personas detenidas, accidentadas, desaparecidas, desaparecidas de manera forzosa, entre otros, de conformidad a las plataformas y sistemas aprobados a nivel nacional.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+VII. Robos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+VIII. Delitos Varios.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+2. A la Dirección General le corresponde coordinar y mantener actualizada la información de personas detenidas, accidentadas y demás casos de conformidad a las plataformas y sistemas aprobados a nivel nacional.
 
 ###### Artículo 19.
 
-1. La Dirección General de Seguimiento a Procesos tiene a su cargo la vigilancia de que los procesos penales en que la Fiscalía sea parte, de que se cumpla con lo establecido en el Código Nacional de Procedimientos Penales, para lo cual cuenta al menos con las siguientes direcciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+1. La Dirección General de Seguimiento a Procesos tiene a su cargo la vigilancia de que en los procesos penales en que la Fiscalía sea parte, se cumpla con lo establecido en el Código Nacional de Procedimientos Penales y demás leyes aplicables, para lo cual cuenta al menos con las siguientes direcciones:
 
 I. La Dirección de Control de Procesos y Audiencias es responsable de verificar que el desarrollo de todo proceso y el desahogo de audiencias se sujeten a la Ley y tendrá a su cargo la vigilancia de las actuaciones del ministerio público en los órganos jurisdiccionales;
 
-II. La Dirección de Cumplimiento a Mandamientos Judiciales tiene a su cargo el registro y debido cumplimiento de las medidas de protección dictadas por el ministerio público, registrando la ratificación, cancelación o modificación que imponga la autoridad judicial;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+II. La Dirección de Cumplimiento a Mandamientos Judiciales tiene a su cargo el registro y debido cumplimiento de las medidas de protección dictadas por el ministerio público, el registro de la ratificación, cancelación o modificación que imponga la autoridad judicial; así mismo el registro de las órdenes de aprehensión, órdenes de comparecencia decretadas, así como su cumplimiento.
 
 III. La Dirección de Agravios; y
 
-IV. La Dirección de Amparos y Salidas Judiciales.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+IV. La Dirección de Amparos Procesales, Salidas Alternas y Formas de Terminación Anticipada.
 
 2. Más aquellas atribuciones que le confiere la ley en materia de registro, modificación sustitución o cancelación de las providencias precautorias, medidas de protección y medidas cautelares solicitadas por la víctima, el ofendido o el ministerio público que imponga la autoridad judicial, así como en la ejecución, supervisión y seguimiento de las órdenes de aprehensión.
 
 ###### Artículo 20.
 
-1. La Dirección General de Delitos Patrimoniales y Financieros cuenta (sic) se integra al menos con las siguientes unidades:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+1. La Dirección General de Delitos Patrimoniales y Financieros se integra al menos con las siguientes unidades:
 
 I. De investigación de delitos patrimoniales no violentos; y
 
@@ -403,11 +487,21 @@ II. De investigación contra recursos de procedencia ilícita.
 
 1. La Dirección General en Delitos contra las Mujeres, Delitos en Razón de Género y Trata de Personas, cuenta por lo menos con las siguientes áreas:
 
-I. Unidad para la Investigación de delitos contra de (sic) mujeres y delitos en razón de género vinculados a los centros de justicia para las mujeres; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
 
-II. Delitos en materia de trata de personas.
+I. Unidad para la Investigación de Delitos contra Mujeres y Delitos en Razón de Género vinculados a los centros de justicia para las mujeres;
 
-2. Dicha dirección tiene las atribuciones previstas por la Constitución, los Tratados Internacionales de los que el estado mexicano sea parte, el Código Nacional y leyes aplicables.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+II. Delitos en materia de trata de personas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+III. Unidad Especializada en Investigación de Feminicidios.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+2. Dicha dirección tiene las atribuciones previstas por la Constitución Federal, los Tratados Internacionales de los que el estado mexicano sea parte, el Código Nacional de Procedimientos Penales y leyes aplicables.
 
 ###### Artículo 22.
 
@@ -443,7 +537,9 @@ III. Dirección de Amparos.
 
 I. Inspeccionar el funcionamiento de los órganos que integran a la Fiscalía;
 
-II. Investigar y perseguir los delitos cometidos por los servidores públicos de la Fiscalía; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+II. Investigar y perseguir los delitos cometidos por los servidores públicos y notarios públicos; y
 
 III. Inspeccionar que los servidores públicos de la fiscalía respeten los Derechos Humanos en el ejercicio de sus funciones.
 
@@ -455,7 +551,9 @@ I. Auditoría preventiva y orientación administrativa; y
 
 II. Responsabilidad administrativa.
 
-2. La contraloría interna podrá funcionar como órgano interno de control.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+2. La contraloría interna es el órgano interno de control de la Fiscalía Estatal
 
 ###### Artículo 27.
 
@@ -553,7 +651,9 @@ III. Tener título de abogado o licenciado en derecho expedido y registrado conf
 
 IV. Poseer cédula profesional de Licenciado en Derecho o Abogado registrada ante la Dirección de Profesiones del Estado de Jalisco;
 
-V. Tener por lo menos un año de experiencia profesional como Licenciado en Derecho o Abogado, salvo las excepciones marcadas por el titular en cumplimiento a las disposiciones del servicio civil de carrera. En el caso de los Agentes del Ministerio Público de la Fiscalía Anticorrupción, la experiencia será cuando menos de tres años de antigüedad anterior a la fecha del nombramiento;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+V. Tener por lo menos un año de experiencia profesional como Licenciado en Derecho o Abogado, salvo las excepciones marcadas por el titular en cumplimiento a las disposiciones del servicio civil de carrera. En el caso de los Agentes del Ministerio Público de la Fiscalía Anticorrupción, preferentemente la experiencia será cuando menos de tres años de antigüedad anterior a la fecha del nombramiento;
 
 VI. Haber aprobado el examen de selección correspondiente;
 
@@ -565,9 +665,11 @@ IX. No estar suspendido ni haber sido destituido o inhabilitado por resolución 
 
 X. Las que determine el titular de la dependencia.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 38.
 
-1. Para intervenir en los procedimientos que requieran de especialización, además de los requisitos mencionados, los agentes del ministerio público deben acreditar los requisitos establecidos en la ley especial de la materia o cumplir con los cursos de actualización que se les requieran.
+1. Para intervenir en los procedimientos que requieran de especialización, el Fiscal Estatal establecerá cursos de capacitación para los agentes del ministerio público a fin de que cuenten con los cursos de actualización que se les requieran.
 
 ###### Artículo 39.
 
@@ -635,9 +737,11 @@ X. Acreditar conocimientos técnicos de investigación e interrogatorio criminal
 
 1. Cuando se presente denuncia por la comisión de un delito en contra del Fiscal, es competente para conocer y resolver el asunto, el Fiscal Especializado en Combate a la Corrupción.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 47.
 
-1. Cuando se presente denuncia por la comisión de un delito por hechos de corrupción, en contra del Fiscal Especializado en Combate a la Corrupción, es competente para conocer y resolver el asunto, el Fiscal Estatal.
+1. Cuando se presente denuncia por la comisión de hechos presuntamente delictivos, en contra del Fiscal Especializado en Combate a la Corrupción, es competente para conocer y resolver el asunto el Fiscal Estatal.
 
 ###### Artículo 48.
 
@@ -677,9 +781,13 @@ III. En los casos no previstos se resolverán por acuerdo del Fiscal correspondi
 
 I. Un Presidente, que es el Fiscal;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
+
 II. Un Secretario Técnico, que es el Director General Jurídico de la Fiscalía;
 
 III. Un Secretario de Actas y Acuerdos, que es el Director General Administrativo de la Fiscalía;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE DICIEMBRE DE 2018)</small>
 
 IV. Ocho consejeros que son:
 
@@ -689,7 +797,9 @@ b. El Director de Visitaduría;
 
 c. El Contralor Interno;
 
-d. Director General Jurídico;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+d. Director General de Seguimiento a Procesos;
 
 e. Un Fiscal Especial;
 
@@ -735,13 +845,13 @@ c) Litigar en materia penal.
 
 ## TRANSITORIOS
 
-Primero. El presente decreto entrará en vigor el día 06 de diciembre de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+Primero. El presente decreto entrará en vigor el día 06 de diciembre de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
 
 Tercero. En toda disposición legal o reglamentaria en que se haga referencia a la Fiscalía General o Fiscal General del Estado de Jalisco se entenderá por Fiscalía Estatal o Fiscal Estatal, de conformidad con el presente decreto.
 
-Cuarto. Las modificaciones dispuestas en el presente decreto, no son las suficientes y necesarias para el cumplimiento y la implementación correspondiente, conforme los supuestos establecidos en el artículo Tercero Transitorio del decreto legislativo 26408/LXI/17, publicado en el periódico oficial “El Estado de Jalisco” en su edición de fecha 18 de julio de 2017, mediante el cual se reformó la Constitución Política del Estado de Jalisco, por lo que la reforma a los dispositivos que se citan en dicho artículo permanecen sin iniciar su vigencia.
+Cuarto. Las modificaciones dispuestas en el presente decreto, no son las suficientes y necesarias para el cumplimiento y la implementación correspondiente, conforme los supuestos establecidos en el artículo Tercero Transitorio del decreto legislativo 26408/LXI/17, publicado en el periódico oficial "El Estado de Jalisco" en su edición de fecha 18 de julio de 2017, mediante el cual se reformó la Constitución Política del Estado de Jalisco, por lo que la reforma a los dispositivos que se citan en dicho artículo permanecen sin iniciar su vigencia.
 
 Quinto. El Congreso del Estado emitirá las modificaciones necesarias, una vez que concluyan los procesos legislativos en el Congreso de la Unión en materia de Procuración de Justicia.
 
@@ -753,7 +863,9 @@ Octavo. Los asuntos no concluidos ante las distintas dependencias de la Fiscalí
 
 Noveno. Para el ejercicio 2018, se autoriza al titular del Poder Ejecutivo para que por conducto de la Secretaría de la Hacienda Pública, lleve a cabo las modificaciones o transferencias necesarias y las adecuaciones presupuestales, para el funcionamiento de las áreas que se crean o modifican con motivo del presente decreto, de conformidad a la suficiencia presupuestal, y realizar las erogaciones necesarias con cargo a la Unidad Presupuestal que corresponda.
 
-Décimo. El titular de la Fiscalía Estatal, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de la dependencia en los términos del presente Decreto.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
+
+Décimo. El titular de la Fiscalía Estatal deberá proponer al Poder Ejecutivo del Estado, las disposiciones reglamentarias necesarias para la correcta conformación y operación de la dependencia en los términos del presente decreto.
 
 Décimo Primero. El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar el 30 de enero del 2019, las adecuaciones llevadas a cabo en los términos del presente decreto.
 
@@ -796,3 +908,13 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27227/LXII/18 QUE REFORMA Y ADICIONAN LOS ARTÍCULOS 2, 8, 11, 13, 14, 18, 19, 20, 21, 25, 26, 37, 38, 47, 54 Y SE MODIFICA EL DÉCIMO TRANSITORIO DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
+
+Segundo. Para las áreas de la Fiscalía del Estado que se prevén en este decreto, no se autoriza la creación de nuevas plazas ni contratación de más personal, por lo que para tal efecto se deberá llevar a cabo una reingeniería al interior de dicha dependencia.
