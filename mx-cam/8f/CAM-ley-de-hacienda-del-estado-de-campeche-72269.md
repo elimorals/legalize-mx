@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2017-12-27"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -265,17 +265,15 @@ VII.- Las demás que señale la ley y los ordenamientos fiscales aplicables.
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 20.
 
-Son objeto de este impuesto, las erogaciones o pagos, en efectivo o en especie por concepto de remuneraciones al servicio personal subordinado, independientemente de la designación que se les dé, prestado en el Estado de Campeche.
+Son objeto de este impuesto las erogaciones o pagos, en efectivo o en especie por concepto de remuneraciones al servicio personal subordinado, independientemente de la designación que se les dé, prestado (sic) en el Estado de Campeche.
 
-Para los efectos de este impuesto, quedan comprendidas dentro de las erogaciones a que se refiere el párrafo anterior, todas las prestaciones o contraprestaciones cualquiera que sea el nombre con el que se les designe, ya sean ordinarias o extraordinarias que deriven de una relación laboral, incluyendo salarios, sueldos, sobresueldos, anticipos, viáticos, gastos de representación, aguinaldo, comisiones, premios, gratificaciones, rendimientos, ayudas para despensa, participación de los trabajadores en las utilidades de las empresas, aportación patronal al fondo de ahorro, primas vacacionales, dominicales, por antigüedad y previsión social en los términos del Código Fiscal del Estado, ayudas habitacionales, así como cualquier otra erogación realizada por conceptos de naturaleza análoga.
+Para los efectos de este impuesto, quedan comprendidas entre las erogaciones o pagos a que se refiere el párrafo anterior, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se les designe, ya sean ordinarias o extraordinarias, que deriven de una relación laboral, incluyendo salarios, sueldos, sobresueldos, asimilables a salarios, anticipos, viáticos, gastos de representación, aguinaldo, comisiones, premios, gratificaciones, rendimientos, ayudas para despensa, participación de los trabajadores en las utilidades de las empresas, aportación patronal al fondo de ahorro, ayudas habitacionales, primas vacacionales, primas dominicales y primas por antigüedad y previsión social en los términos del Código Fiscal del Estado de Campeche, así como cualquier otra erogación o pago que en razón de su trabajo o por la relación laboral reciba el trabajador.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia, consultivos o de cualquier otra índole en toda clase de sociedades o asociaciones, así como los que se efectúen a las personas, por los servicios que presten a un prestatario, por lo que no se deba pagar el impuesto al valor agregado.
-
-> <small>(N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL CONTENIDO DE LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO QUE CONFORMABAN EL ARTÍCULO 20, QUEDARON INMERSOS EN EL ACTUAL PÁRRAFO TERCERO; AUNADO A QUE EN DICHA PUBLICACIÓN NO SE PRECISA CON PUNTOS SUSPENSIVOS LA EXISTENCIA DE UN CUARTO PÁRRAFO)</small>
+Son también objeto de este impuesto, las erogaciones por pagos realizados a los socios o accionistas, administradores, comisarios o miembros de los consejos directivos y de vigilancia, consultivos o de cualquier otra índole en toda clase de sociedades y asociaciones, así como los que se efectúen a las personas por los servicios que presten a un prestatario, por los que no se deba pagar el impuesto al valor agregado.
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
@@ -283,9 +281,9 @@ Son también objeto de este impuesto, las erogaciones por pagos realizados a los
 
 Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas que realicen las erogaciones o pagos a que se refiere el artículo anterior, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
-I.- Los residentes en el Estado de Campeche, de todas las erogaciones o pagos que realicen de los servicios prestados en forma habitual o accidentalmente en el Estado de Campeche; y
+I.- Los residentes en el Estado de Campeche, de todas las erogaciones o pagos que realicen; y
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -297,41 +295,21 @@ También quedan comprendidos como sujetos de este impuesto, la Federación, el E
 
 De igual forma, quedan comprendidas como sujetos de este impuesto las empresas productivas del Estado de cualquier orden de gobierno.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 22.
 
-Están obligados a retener y enterar este impuesto, las personas físicas, las personas morales, las unidades económicas y los demás sujetos del impuesto a que se refiere el artículo anterior, que contraten la prestación de servicios objeto de este impuesto con empresas residentes fuera del Estado de Campeche.
+El contratante que aplique el régimen de subcontratación laboral, deberá de presentar, dentro de los 30 días siguientes a la celebración del contrato respectivo, el aviso de intermediario laboral ante el Servicio de Administración Fiscal del Estado de Campeche, para informar sobre la aplicación de dicho régimen, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Fiscal del Estado de Campeche. Dicho aviso, deberá contener el nombre, denominación o razón social, Registro Federal de Contribuyentes y domicilio fiscal del contratista, así como el número de empleados, el objeto del contrato, el monto de la obra o servicios contratados y la vigencia del contrato, el cual deberá ser ratificado por el contratista ante el Servicio de Administración Fiscal del Estado de Campeche dentro de los quince días posteriores a la presentación del aviso de intermediario laboral. Cuando se subcontraten servicios de personal para más de un establecimiento o sucursal, se deberá presentar el aviso correspondiente a cada uno de éstos, con la información señalada en este párrafo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+En caso de que la información presentada por el contratante a través del aviso de intermediario laboral sufra alguna modificación, éste deberá de manifestarlo por escrito ante el Servicio de Administración Fiscal del Estado de Campeche, en un plazo no mayor a diez días contados a partir del día en que se generó la nueva información.
 
-A fin de que se cumpla la obligación a que se refiere el párrafo anterior quienes contraten la prestación de servicios objeto de este impuesto con empresas residentes fuera del Estado de Campeche, deberán informar al Servicio de Administración Fiscal del Estado de Campeche el pago que haya efectuado a los trabajadores, la empresa prestadora del servicio dentro de los diez días del mes siguiente al que haya efectuado el pago.
+El contrato que se celebre entre la persona física o moral que solicita se ejecute una obra o se presten servicios y un contratista, deberá constar por escrito. El contratante deberá cerciorarse al momento de celebrar el contrato que el contratista cuenta con la documentación y los elementos propios suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, incluyendo las fiscales.
 
-En caso que se omita esta obligación, se presumirá que el pago por los servicios objeto de este impuesto es el importe total que se cubre a la prestadora de servicios.
+El contratista incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por el Servicio de Administración Fiscal del Estado de Campeche.
 
-Las personas físicas, las personas morales y las unidades económicas que realicen las retenciones del impuesto sobre nómina, estarán obligadas a expedir y entregar constancias de dichas retenciones a las personas, dentro de los cinco días siguientes a la fecha en que les haya realizado la retención del impuesto.
+La información prevista en este artículo deberá ser presentada en documento impreso, o en medios magnéticos, digitales, electrónicos, ópticos, magneto óptico o de cualquier otra naturaleza que permitan su adecuada reproducción, conforme a las reglas generales que para tal efecto emita el Servicio de Administración Fiscal del Estado de Campeche.
 
-Las personas físicas y las personas morales, que sean residentes fuera del Estado de Campeche, a las que se les haya retenido el impuesto sobre nómina, tendrán la obligación de proporcionar a la persona que les efectúe la retención del impuesto, el importe por concepto del pago que les haya realizado en el mes a sus trabajadores, dentro de los cinco días siguientes al mes al que corresponda el pago, asimismo podrán acreditarse las cantidades que les hayan sido retenidas contra el impuesto sobre nóminas que les resulte a su cargo en el Estado de Campeche.
-
-Cuando en la contratación de trabajadores para un patrón persona física o moral denominado contratante, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral persona física o moral, cualquiera que sea la denominación que patrón e intermediarios asuman denominado contratista no cumpla con las obligaciones del pago, el contratante queda obligado respecto de todas las obligaciones fiscales contenidas en este capítulo que nazca de dicha relación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-La persona que contrate los servicios personales a que se refiere este artículo, deberá comunicar trimestralmente ante las oficinas recaudadoras del Servicio de Administración Fiscal del Estado de Campeche que correspondan al domicilio del patrón o sujeto obligado, y del beneficiario respectivamente, dentro de los primeros quince días de los meses de enero, abril, julio y octubre, en relación con los contratos celebrados en el trimestre de que se trate la información siguiente:
-
-I. De las partes en el contrato: Nombre, denominación o razón social; clase de persona moral de que se trate, en su caso; objeto social; domicilio social, fiscal y, en su caso, convencional para efectos del contrato; número del Registro Federal de Contribuyentes y de Registro Patronal ante el IMSS; datos de su acta constitutiva, tales como número de escritura pública, fecha, nombre del notario público que da fe de la misma, número de la notaría y ciudad a la que corresponde, sección, partida, volumen, foja o folio mercantil, en su caso, y fecha de inscripción en el Registro Público de la Propiedad y el Comercio; nombre de los representantes legales de las partes que suscribieron el contrato.
-
-II. Del contrato: Objeto; periodo de vigencia; perfiles, puestos o categorías indicando en este caso si se trata de personal operativo, administrativo o profesional y el número estimado mensual de trabajadores u otros sujetos de aseguramiento que se pondrán a disposición del beneficiario de los servicios o trabajos contratados.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-El patrón incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por el Servicio de Administración Fiscal del Estado de Campeche.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-La información prevista en este artículo deberá ser presentada en documento impreso, o en medios magnéticos, digítales, electrónicos, ópticos, magneto óptico o de cualquier otra naturaleza, conforme a las reglas generales que para tal efecto emita el Servicio de Administración Fiscal del Estado de Campeche.
-
-Para los efectos de este artículo, el Gobierno del Estado, en ningún caso, será considerado como intermediario laboral.
+Para los efectos de este artículo, se entenderá por régimen de subcontratación laboral aquel por medio del cual un patrón denominado contratista ejecuta obras o presta servicios con sus trabajadores bajo su dependencia, a favor de un contratante, persona física o moral, la cual fija las tareas del contratista y lo supervisa en el desarrollo de los servicios o la ejecución de las obras contratadas. Este tipo de trabajo deberá de cumplir con lo previsto para tal efecto en la Ley Federal del Trabajo, así como con los demás requisitos y condiciones que se establezcan en otras disposiciones legales aplicables en la materia.
 
 #### SECCIÓN TERCERA. DE LA BASE
 
@@ -341,9 +319,11 @@ Es base de este impuesto el monto total de las erogaciones efectuadas o pagos re
 
 #### SECCIÓN CUARTA. DE LA TARIFA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 24.
 
-El impuesto se causará en el momento en que se realicen los pagos o se efectúen las erogaciones que son objeto del mismo y se determinará aplicando a la base que resulte conforme al artículo anterior o en su caso conforme al tercer párrafo del artículo 22, la siguiente tarifa:
+El impuesto se causará en el momento en que se realicen los pagos o se efectúen las erogaciones que son objeto del mismo y se determinará aplicando a la base que resulte conforme al artículo anterior, la siguiente tarifa:
 
 LÍMITE LÍMITE CUOTA FIJA POR CIENTO
 
@@ -377,49 +357,37 @@ El pago del impuesto tiene el carácter de pago definitivo y deberá efectuarse 
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 26.
 
-Los sujetos contribuyentes de este impuesto tendrán, además de las obligaciones señaladas en el presente Capítulo y en el Código Fiscal del Estado, la obligación de llevar los registros contables que permitan identificar el monto de los pagos o erogaciones gravadas y exentas objeto del impuesto a que se refiere este capítulo, así como el importe del impuesto pagado por las mismas y, las siguientes:
+Los sujetos de este impuesto tendrán las obligaciones siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes;
 
-I. Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicien sus operaciones, o en la fecha en que se coloquen en las hipótesis de causación del impuesto, mediante los formularios que para el efecto apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche. Igual plazo tienen las personas físicas, las personas morales y las unidades económicas que hayan iniciado sus actividades con anterioridad a la entrada en vigor de la presente Ley;
+II. Llevar la contabilidad de conformidad con lo establecido en el Código Fiscal del Estado y en las reglas de carácter general que emita para tal efecto el Servicio de Administración Fiscal del Estado de Campeche;
 
-II.- Presentar ante la oficina recaudadora que corresponda a su domicilio fiscal en los términos del Código Fiscal del Estado, los avisos respectivos de cambio de nombre, domicilio, denominación o razón social, domicilio fiscal, traspaso, clausura, fusión, escisión, liquidación; así como suspensión, disminución de obligaciones, cancelación o reanudación de actividades u obligaciones, así como cuando se abra o cierre un local, oficina, establecimiento, agencia, sucursal o instalaciones dentro de los cuales se realicen los actos o actividades objeto de este impuesto o cualquiera otra circunstancia que modifique los datos aportados por el contribuyente, contenidos en el documento de inscripción, en los plazos señalados por el citado Código Fiscal del Estado;
+III. Presentar las declaraciones de este impuesto y pagar el mismo en la forma y términos establecidos en este Capítulo;
 
-III.- Presentar las declaraciones del impuesto y enterar y pagar el mismo en la forma y términos establecidos en este capítulo;
+IV. Expedir los comprobantes fiscales digitales por Internet que acrediten las erogaciones o pagos que se efectúen por concepto de este impuesto, cumpliendo con los requisitos establecidos en las disposiciones legales; y
 
-IV.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
-
-V.- En cuanto a su domicilio principal, sucursales, bodegas, agencias, establecimientos, oficinas u otras dependencias, instalaciones o locales establecidos dentro del Estado, deberán solicitar su inscripción al Registro Estatal de Contribuyentes por separado, el domicilio principal para efectuar el pago y las demás para efectos de control;
-
-VI.- Conservar la documentación comprobatoria de las erogaciones o pagos relacionados con la actividad objeto de este impuesto durante el plazo al que se refiere el Código Fiscal del Estado;
-
-VII.- En cuanto a las sucursales, bodegas, oficinas, agencias, locales u otras dependencias cuyo domicilio principal, no se encuentre dentro del Estado, deberán efectuar su pago en el Estado, dentro de los plazos y lugares señalados al efecto. En caso de que dos ó más establecimientos de un mismo domicilio principal ubicado fuera del Estado de Campeche, se encuentren ubicados dentro del Estado, uno deberá registrarse para efectuar el pago y los otros para efectos de control;
-
-VIII.- Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos del presente Capítulo; y
-
-IX.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
+V. Las demás que señale esta Ley, el Código Fiscal del Estado y otros ordenamientos fiscales.
 
 ###### ARTÍCULO 27.
 
-Los retenedores de este impuesto tendrán, además de las obligaciones señaladas en el artículo 22, las siguientes:
-
-I.- Presentar aviso de alta o aumento de obligaciones por el inicio de retención del impuesto, dentro de los quince días siguientes a la fecha de la primera retención que efectúen, adjuntando copia del contrato celebrado con el prestador del servicio;
-
-II.- Presentar declaraciones mensuales definitivas del impuesto retenido y hacer el entero del mismo, a más tardar el día 20 del mes siguiente a aquél en que se efectúe la retención.
-
-Las declaraciones a que se refiere el párrafo anterior, se presentarán aun cuando no exista impuesto a pagar, mientras no se presente el aviso de disminución de obligaciones como retenedor; y
-
-III.- Llevar y conservar en los términos del Código Fiscal del Estado, los registros contables que permitan identificar los importes de las retenciones que de conformidad con este capítulo estén obligados a efectuar.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2018)
 
 #### SECCIÓN SÉPTIMA. DE LAS EXENCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 28.
 
-Están exentos del pago de este impuesto, las erogaciones efectuadas o pagos que se realicen por concepto de:
+No se encuentran gravadas por este impuesto, las erogaciones efectuadas o pagos que se realicen por concepto de:
 
-I.- Indemnizaciones por riesgo o enfermedades profesionales, que se concedan de acuerdo con las leyes de la materia o contratos de trabajo respectivos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+I.- Indemnizaciones por terminación de relaciones laborales y por riesgo o enfermedades profesionales, que sean otorgadas de acuerdo con las leyes de la materia o contratos de trabajo respectivos;
 
 II.- Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
@@ -448,6 +416,10 @@ VIII.- Las prestaciones por concepto de servicio de comedor proporcionado por lo
 IX.- Las herramientas y uniformes para el trabajo y deportivos; y
 
 X.- Las becas educacionales otorgadas por los empleadores a sus trabajadores y sus familias.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+Para que los conceptos mencionados en este artículo no se encuentren gravados por el impuesto sobre nóminas, deberán estar registrados debidamente en la contabilidad del patrón. Asimismo, el Servicio de Administración Fiscal del Estado podrá requerir la documentación que compruebe que esos conceptos se excluyen del salario del trabajador.
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
 
@@ -2493,13 +2465,253 @@ Por servicios que proporcionan las instituciones de salud pública se causarán 
 
 > <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 13 DE JULIO DE 2017, PÁGINAS DE LA 18 A LA 105.]</small>
 
-### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+> <small>[N. DE E. VÉASE REFORMA AL TABULADOR EN EL P.O. DE 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 2 A LA 7.]</small>
 
-### CAPÍTULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO X. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN EN EL ESTADO
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 79-E.
+
+Por servicios que proporciona la Secretaría de Educación en los niveles de educación básica, media superior y superior, se causarán y pagarán los derechos establecidos en el siguiente tabulador:
+
+NOMBRE DEL SERVICIO UMA
+
+SERVICIOS DE EDUCACIÓN
+
+Por solicitud, estudio y resolución del trámite de RVOE
+
+de tipo Superior 186.1
+
+Cambios a cada plan y programa de estudio de tipo superior
+
+con reconocimiento de validez oficial 54.48
+
+Cambio o ampliación de domicilio, o establecimiento
+
+de un plantel adicional, respecto de cada plan de estudios
+
+con reconocimiento de validez oficial 47.62
+
+Por solicitud, estudio y resolución del trámite de autorización
+
+para impartir educación preescolar, primaria, secundaria,
+
+normal y demás para la formación de maestros, sea cual
+
+fuere la modalidad 86.85
+
+Por solicitud, estudio y resolución del trámite de
+
+reconocimiento de validez oficial de estudios de los niveles
+
+medio superior o equivalente y de formación para el trabajo,
+
+sea cual fuere la modalidad. 86.85
+
+Exámenes profesionales o de grado de tipo superior 2.73
+
+Exámenes profesionales o de grado de tipo medio superior 1.38
+
+Exámenes a título de suficiencia de educación secundaria
+
+y de educación media superior 0.31
+
+Exámenes a título de suficiencia de tipo superior, por materia 1
+
+Exámenes extraordinarios, por materia de educación secundaria
+
+y de educación media superior 0.25
+
+Exámenes extraordinarios, por materia de tipo superior 1
+
+Expedición de duplicado de certificados de terminación
+
+de estudios de educación básica y educación media superior 0.64
+
+Expedición de duplicado de certificados de terminación de
+
+estudios de tipo superior 2.02
+
+Revisión de certificados de estudio, por grado escolar
+
+de educación básica y educación media superior 0.16
+
+Revisión de certificados de estudio, por grado escolar
+
+de tipo superior 0.53
+
+Revalidación de estudios de educación básica 0.43
+
+Revalidación de estudios de educación media-superior 4.4
+
+Revalidación de estudios de educación superior 13.24
+
+Equivalencia de estudios de educación media-superior 4.4
+
+Equivalencia de estudios de educación superior 13.24
+
+Inspección y vigilancia de establecimiento educativo
+
+particular, por alumno inscrito en ejercicio escolar de
+
+educación media superior 0.47
+
+Inspección y vigilancia de establecimiento educativo
+
+particular, por alumno inscrito en cada ejercicio escolar
+
+de educación secundaria 0.46
+
+Inspección y vigilancia de establecimiento educativo
+
+particular, por alumno inscrito en cada ejercicio escolar
+
+de educación primaria 0.1
+
+Inspección y vigilancia de establecimiento educativo
+
+particular, por alumno inscrito en cada ejercicio escolar de
+
+educación preescolar 0.1
+
+Inspección y vigilancia de establecimiento educativo
+
+particular, por alumno inscrito en cada ejercicio escolar de
+
+educación superior 1.24
+
+Expedición de duplicado de certificados de terminación de
+
+estudios de escuelas estatales de educación media superior
+
+(ANGLI LARA) 18.61
+
+Exámenes extraordinarios por materia en preparatorias estatales
+
+de educación media superior (ANGLI LARA) 1.86
+
+Expedición de duplicado de credencial de escuelas estatales de
+
+educación media superior (ANGLI LARA) 1.24
+
+Expedición de duplicado de certificado parcial de estudios de
+
+escuelas estatales de educación media superior (ANGLI LARA) 7.44
+
+Expedición de constancia de estudios de escuelas estatales de
+
+educación media superior (ANGLI LARA) 0.74
+
+Cuota de inscripción por semestre de escuelas estatales de
+
+educación media superior (ANGLI LARA) 40.32
+
+Expedición de duplicado de certificados de terminación
+
+de estudios de escuelas estatales de educación media
+
+superior (CHAMPOTÓN) 4.34
+
+Exámenes extraordinarios por materia en preparatorias
+
+estatales de educación media superior (CHAMPOTON) 0.87
+
+Expedición de duplicado de certificados parcial de
+
+estudios de escuelas estatales de educación media superior
+
+(CHAMPOTÓN) 4.34
+
+Expedición de constancia de estudios de escuelas
+
+estatales de educación media superior (CHAMPOTÓN) 0.25
+
+Exámenes de regularización por materia en
+
+preparatorias estatales de educación media superior
+
+(CHAMPOTÓN) 1.86
+
+Cuota de inscripción por semestre de escuelas estatales
+
+de educación media superior (CHAMPOTÓN) 1.24
+
+Cuota de colegiatura mensual de escuelas estatales de
+
+educación media superior (CHAMPOTÓN) 1.24
+
+Registro de Colegio de Profesionistas 49.63
+
+Registro de Establecimiento Educativo Legalmente
+
+Autorizado para Expedir Títulos Profesionales, Diplomas
+
+de Especialidad o Grados Académicos 6.2
+
+Registro de Título Electrónico 6.2
+
+Cotejo y Revisión de Documentos Para Expedición
+
+De Títulos 18.61
+
+Enmienda al Registro Profesional en relación con
+
+Colegios de Profesionistas 3.1
+
+Enmienda al Registro Profesional en relación con
+
+Establecimiento Educativo 3.1
+
+Enmienda al Registro Profesional en relación con el Título
+
+Profesional o Grado Académico 1.24
+
+Enmienda al Registro Profesional Inscripción de Asociado
+
+a un Colegio de Profesionistas que no figuren en el Registro
+
+Original 0.31
+
+Enmienda al Registro Profesional en relación con
+
+Federaciones de Colegios de Profesionistas 3.1
+
+Enmienda al Registro Profesional Inscripción de
+
+Asociado a una Federación de Colegios de Profesionistas
+
+que no figure en el Registro Original 3.1
+
+Renovación del Consejo Directivo de un Colegio 4.96
+
+Cambio de Domicilio de Colegio de Profesionistas 3.1
+
+Expedición de Autorización Provisional para Ejercer
+
+por estar el Título Profesional en Trámite o como Pasante 2.48
+
+Constancias de Antecedentes Profesionales 1.86
+
+Registro de Federación de Colegios de Profesionistas 62.03
+
+Renovación de Consejo de Federación de Colegios de
+
+Profesionistas 6.2
+
+Registro de Firmas 1.24
+
+Registro de Sellos 1.24
+
+Registro de Consejo de Certificación de Especialidades 4.96
+
+### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
+### CAPÍTULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTÍCULO 80.
 
@@ -2517,15 +2729,13 @@ Los muebles e inmuebles que el Estado se haya adjudicado en pago de contribucion
 
 Los bienes a que se refiere el artículo anterior podrán ser donados a los Municipios e instituciones de beneficencia pública para fines directos a la comunidad y con las salvedades o condiciones que el Ejecutivo determine.
 
-### CAPÍTULO IV. POR BIENES MOSTRENCOS Y VACANTES
+### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
 
 ###### ARTÍCULO 84.
 
 Ingresarán íntegramente a la Hacienda Pública del Estado los importes por concepto de arrendamiento de bienes muebles e inmuebles propiedad del Estado.
 
-### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO IV. POR BIENES MOSTRENCOS Y VACANTES
 
 ###### ARTÍCULO 85.
 
@@ -2569,7 +2779,9 @@ a) Ejemplar 2.25
 
 b) Otras publicaciones editadas, se cobrará el costo de la impresión.
 
-### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
+### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 88.
 
@@ -2579,19 +2791,19 @@ Ingresarán a la Hacienda Pública del Estado, previo al procedimiento correspon
 
 Los bienes de las personas que mueran intestadas, careciendo de los herederos a que se refieren los Capítulos I al V del Título Cuarto del Libro Tercero del Código Civil vigente en el Estado, serán adjudicados a la Hacienda Pública del Estado. A las personas que denuncien ante las autoridades competentes el hecho, así como la situación a que alude el artículo anterior, se les otorgará una participación del 20 % sobre el importe de los bienes denunciados, si no existe reclamación alguna.
 
-### CAPÍTULO VII. OTROS PRODUCTOS
+### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
 
 ###### ARTÍCULO 90.
 
 El Servicio de Administración Fiscal del Estado de Campeche recaudará directamente las cuotas por los servicios que presten las instituciones de asistencia social estatales, con excepción de aquellas instituciones que hayan sido creadas como organismos descentralizados de la administración pública estatal.
 
-### CAPÍTULO I. GARANTÍAS Y MULTAS
+### CAPÍTULO VII. OTROS PRODUCTOS
 
 ###### ARTÍCULO 91.
 
 Corresponden a la Hacienda Pública del Estado de Campeche, los ingresos por utilidades de los organismos descentralizados, empresas de participación estatal y fideicomisos.
 
-### CAPÍTULO II. REINTEGROS
+### CAPÍTULO I. GARANTÍAS Y MULTAS
 
 ###### ARTÍCULO 92.
 
@@ -2599,7 +2811,7 @@ Se consideran como otros Productos aquellos que no se encuentren, comprendidos e
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO III. DONACIONES
+### CAPÍTULO II. REINTEGROS
 
 ###### ARTÍCULO 93.
 
@@ -2615,7 +2827,7 @@ Las garantías constituidas para la autorización de permisos especiales a menor
 
 Ingresarán a la Hacienda Pública las multas impuestas administrativamente por cualquier autoridad del Estado, las establecidas en calidad de penas en los procesos de orden judicial y las provenientes de la conmutación de sanciones que dispongan las Leyes respectivas. Las autoridades que las impongan, tienen obligación de comunicarlo a las autoridades hacendarias.
 
-### CAPÍTULO IV. PRÉSTAMOS
+### CAPÍTULO III. DONACIONES
 
 ###### ARTÍCULO 96.
 
@@ -2625,7 +2837,7 @@ Las cantidades pagadas de más o indebidamente con cargo al Presupuesto de Egres
 
 También ingresarán por este concepto las responsabilidades administrativas que se finquen por autoridad competente y que se hagan efectivas.
 
-### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
+### CAPÍTULO IV. PRÉSTAMOS
 
 ###### ARTÍCULO 98.
 
@@ -2633,13 +2845,13 @@ Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. C
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTÍCULO 99.
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2011)
 
-### CAPÍTULO PRIMERO
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 100.
 
@@ -2661,19 +2873,17 @@ III.- Las fianzas cuya pérdida se declare por resolución firme a favor del Est
 
 ## TÍTULO SEXTO. DE LOS ACCESORIOS
 
-### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+### CAPÍTULO PRIMERO
 
 ## TÍTULO SÉPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
 
 ###### ARTÍCULO 103.
 
@@ -2682,6 +2892,8 @@ Se consideran accesorios de las contribuciones y de los aprovechamientos, lo exp
 ## TÍTULO OCTAVO. DE LAS PARTICIPACIONES
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 104.
 
@@ -2705,19 +2917,21 @@ Los ingresos a que se refiere el artículo que antecede, serán los siguientes:
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
-
 ## TÍTULO NOVENO. DE LOS INCENTIVOS
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 106.
 
 Las participaciones por ingresos federales, se percibirán de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos; las cuales ingresarán a la Secretaría de Finanzas del Estado, salvo aquellas que hayan sido afectadas como fuente de pago o garantía de las obligaciones contraídas por el Estado o sus municipios, de conformidad con la Ley de Deuda Pública Estatal.
 
 ## TÍTULO DÉCIMO. DE LOS FONDOS DE APORTACIONES FEDERALES
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 107.
 
@@ -3072,3 +3286,11 @@ CUARTO.- Lo establecido en el segundo párrafo del artículo 70 de esta Ley, rel
 QUINTO.- Se concede un plazo de 120 días naturales contados a partir de la fecha de inicio de vigencia de este decreto, con el propósito de que aquellos concesionarios que tengan o hayan tenido concesión de transporte en la modalidad de Mototaxis y Tricitaxis se regularicen en el pago de sus adeudos fiscales en materia de derechos en concepto de transporte público. Los concesionarios que se adhieran a esta disposición tendrán el beneficio de enterar sus adeudos a la autoridad fiscal correspondiente, previos los trámites administrativos ante el Instituto Estatal del Transporte con las nuevas tarifas establecidas en el presente decreto.
 
 El pago de estos derechos no dará lugar a devolución alguna y estará sujeto a los plazos de prescripción establecidos en el Código Fiscal del Estado de Campeche.
+
+P.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 28 POR EL QUE "ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 20; LA FRACCIÓN I DEL ARTÍCULO 21; EL ARTÍCULO 22; EL PÁRRAFO PRIMERO DEL ARTÍCULO 24; EL ARTÍCULO 26; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 28 Y, SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 28 Y, SE REFORMA EL ARTÍCULO 79-D PARA INCLUIR NUEVOS CONCEPTOS EN EL TABULADOR DE CUOTAS DE RECUPERACIÓN POR SERVICIOS DE SALUD ADICIONALES A LOS YA EXISTENTES"; "ARTÍCULO SEGUNDO.- SE ADICIONA EL CAPÍTULO X "DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN EN EL ESTADO" AL TÍTULO TERCERO, QUE COMPRENDE EL ARTÍCULO 79-E"; Y "ARTÍCULO TERCERO.- SE DEROGA EL ARTÍCULO 27" TODOS DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
