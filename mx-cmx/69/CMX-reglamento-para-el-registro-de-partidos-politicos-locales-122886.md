@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-registro-de-partidos-politicos-locales-12288
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2017-08-16"
+last_updated: "2018-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122886&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLITICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 28 DE DICIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -391,3 +393,15 @@ Primero.- El presente reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Se abroga el Reglamento para el registro de partidos políticos locales ante el Instituto Electoral del Distrito Federal, aprobado por el Consejo General del Instituto Electoral del otrora Distrito Federal, el 27 de noviembre de 2013.
 
 Tercero.- Publíquese de inmediato el presente Reglamento en la Gaceta Oficial de la Ciudad de México, en los estrados del Instituto Electoral, en sus oficinas centrales y órganos desconcentrados, así como en la página de Internet www.iedf.org.mx.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO PARA EL REGISTRO DE PARTIDOS POLÍTICOS LOCALES ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, ASÍ COMO LA CONVOCATORIA RESPECTIVA”.]
+
+Primero. El presente Reglamento entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral.
+
+Segundo. Se abroga el Reglamento del Instituto Electoral para el Registro de Partidos Políticos Locales ante el Instituto Electoral de la Ciudad de México, aprobado por el Consejo General del Instituto Electoral de la Ciudad de México, el 4 de agosto de 2017 mediante Acuerdo de clave IECM/ACU-CG-023/2017.
+
+Tercero. Los Lineamientos del Sistema de Notificaciones Electrónicas por Internet para solicitantes de registro como Asociaciones Políticas Locales en la Ciudad de México, a que se refiere el presente Reglamento, serán aprobados por el Consejo General.
