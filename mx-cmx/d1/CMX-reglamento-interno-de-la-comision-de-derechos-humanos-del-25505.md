@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2018-07-16"
+last_updated: "2018-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2002-06-20"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DE LA "REFORMA AL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL", PUBLICADA EN LA G.O. 14 DE JULIO DE 2016, LAS REFERENCIAS QUE SE HAGAN EN LA NORMATIVA INTERNA A LA CONSULTORÍA GENERAL JURÍDICA, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL JURÍDICA DE ESTA COMISIÓN.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL PUNTO SÉPTIMO DEL "ACUERDO 20/2018, DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA REFORMAR, ADICIONAR Y DEROGAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL" PUBLICADO EN LA G.O. DE 28 DE DICIEMBRE DE 2018, LA EXPRESIÓN REFERIDA A LA COORDINACIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN QUE SE ENCUENTRE REFERIDA EN NORMATIVIDAD INTERNA VIGENTE PARA ESTA COMISIÓN, SE ENTENDERÁ ALUSIVA A LA DIRECCIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN, CON BASE EN LOS TÉRMINOS PLANTEADOS EN EL PRESENTE ACUERDO.]
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
 
@@ -348,8 +350,6 @@ En el informe anual se incluirán los datos que se señalan en el artículo 57 d
 
 (DEROGADO, G.O. 4 DE ENERO DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
-
 > <small>(REFORMADO, G.O. 25 DE MARZO DE 2010)</small>
 
 ARTÍCULO 23 BIS.- Para el cumplimiento de las tareas sustantivas y administrativas de esta Comisión, se establecerán Programas que conforme al objeto legal de la misma se dividirán en:
@@ -360,13 +360,13 @@ I. (DEROGADA, G.O. 27 DE MARZO DE 2017)
 
 II. Programa de Defensa, integrado por las Visitadurías Generales, la Dirección Ejecutiva de Vinculación Estratégica, la Dirección General de Quejas y Orientación, la Dirección Ejecutiva de Seguimiento y la Dirección General Jurídica. La o el titular de la Primera Visitaduría General conducirá el adecuado funcionamiento de este programa, bajo las directrices que instruya la o el Presidente.
 
-> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2018)</small>
 
-III. Programa de Promoción y Difusión, integrado por la Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas, la Dirección General de Comunicación por los Derechos Humanos, la Dirección Ejecutiva de Educación por los Derechos Humanos, la Dirección Ejecutiva del Centro de Investigación Aplicada en Derechos Humanos, la Dirección Ejecutiva de Asuntos Legislativos y Evaluación y la Dirección General de Administración. La o el titular de la Dirección General de Comunicación por los Derechos Humanos conducirá el adecuado funcionamiento de este programa, bajo las directrices que instruya la o el Presidente.
+III. Programa de Promoción y Difusión, integrado por la Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas, la Dirección Ejecutiva de Educación por los Derechos Humanos, la Dirección Ejecutiva del Centro de Investigación Aplicada en Derechos Humanos, la Dirección Ejecutiva de Asuntos Legislativos y Evaluación, la Dirección General de Administración y la Dirección de Promoción e Información. La o el titular de la Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas conducirá el adecuado funcionamiento de este programa, bajo las directrices que instruya la o el Presidente.
 
-> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2018)</small>
 
-IV. Programa de Fortalecimiento Institucional, integrado por la Secretaría Ejecutiva, la Contraloría Interna, la Dirección General de Administración, la Dirección General Jurídica, la Coordinación de Tecnologías de Información y Comunicación y la Coordinación del Servicio Profesional en Derechos Humanos. La o el titular de la Secretaría Ejecutiva conducirá el adecuado funcionamiento de este programa, bajo las directrices que instruya la o el Presidente.
+IV. Programa de Fortalecimiento Institucional, integrado por la Secretaría Ejecutiva, la Contraloría Interna, la Dirección General de Administración y la Dirección General Jurídica. La o el titular de la Secretaría Ejecutiva conducirá el adecuado funcionamiento de este programa, bajo las directrices que instruya la o el Presidente.
 
 Al efecto la o el Presidente determinará las directrices bajo las cuales se realizarán las tareas programáticas, así como los lineamientos y políticas generales a los que habrán de sujetarse estos Programas, debiendo observar políticas transversales de eficiencia en el gasto, protección al derecho humano a un medio ambiente sano, equidad de género, igualdad sustantiva de las personas, no discriminación, respeto e integración de personas con discapacidad y en general de aquellas en situación de vulnerabilidad por discriminación.
 
@@ -428,7 +428,9 @@ III. La Dirección General de Quejas y Orientación;
 
 IV. La Dirección General de Administración;
 
-V. La Dirección General de Comunicación por los Derechos Humanos;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2018)</small>
+
+V. La Dirección de Promoción e información;
 
 VI. La Dirección Ejecutiva de Asuntos Legislativos y Evaluación;
 
@@ -442,11 +444,11 @@ X. El Centro de Investigación Aplicada en Derechos Humanos;
 
 XI. La Secretaría Particular de la Presidencia;
 
-XII. La Coordinación de Tecnologías de Información y Comunicación;
+XII. (DEROGADA, G.O. 28 DE DICIEMBRE DE 2018)
 
 XIII. La Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas, y
 
-XIV. La Coordinación del Servicio Profesional en Derechos Humanos.
+XIV. (DEROGADA, G.O. 28 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2017)</small>
 
@@ -620,33 +622,21 @@ III. Una Dirección de Recursos Financieros.
 
 IV. Una Unidad de Apoyo Administrativo; y
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2018)</small>
 
-V. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
+V. Una Dirección del Servicio Profesional en Derechos Humanos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2010)</small>
+VI. Una Dirección de Tecnologías de Información y Comunicación, y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+VII. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
 ###### ARTÍCULO 29.
 
-Para el cumplimiento de sus atribuciones, la Dirección General de Comunicación por los Derechos Humanos contará con:
-
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-I. Una Dirección de Información;
-
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
-
-II. Una Dirección de Divulgación;
-
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
-
-III. Una Dirección de Logística; y
-
-> <small>(ADICIONADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
-
-IV. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
+(DEROGADO, G.O. 28 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -740,21 +730,15 @@ II. Una Dirección de Interlocución Institucional y Legislativa, y
 
 III. Con el personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 34.
 
-La Secretaría Particular y la Coordinación de Tecnologías de Información y Comunicación, contarán con el personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
+La Secretaría Particular y la Dirección de Promoción e Información contará con el personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
 
 ARTÍCULO 34 BIS.- (DEROGADO, G.O. 31 DE ENERO DE 2012)
 
-> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
-
-ARTÍCULO 34 TER.- Para el cumplimiento de sus atribuciones, la Coordinación del Servicio Profesional en Derechos Humanos contará con:
-
-I. Una Dirección del Servicio Profesional en Derechos Humanos, y
-
-II. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
+ARTÍCULO 34 TER. (DEROGADO, G.O. 28 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -1122,31 +1106,91 @@ XVI. Operar el Sistema Integral de Administración, el cual registrará las oper
 
 XVII. Certificar todos aquellos documentos de competencia administrativa y laboral de las y los trabajadores de la Comisión, y
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2018)</small>
 
-XVIII. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, y los ordenamientos internos aplicables.
+XVIII. Proponer a la o el Presidente las políticas, programas y proyectos estratégicos, en materia de tecnologías de información y comunicación;
 
-> <small>(F. DE E., G.O. 7 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XIX. Proponer a la o el Presidente la normativa en materia de desarrollo, operación, seguridad y mantenimiento de tecnologías de información y comunicación;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XX. Proponer a la o el Presidente los programas estratégicos en materia informática, con el fin de contar con tecnología de vanguardia que permita garantizar la operación de los sistemas implantados;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXI. Planear el mantenimiento de los bienes informáticos para garantizar la continuidad del servicio a los usuarios;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXII. Planear y administrar el presupuesto asignado a la Coordinación de Tecnologías de Información y Comunicación para dar continuidad a los servicios informáticos y de telecomunicaciones de la Comisión;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXIII. Supervisar las soluciones de los sistemas de información que se encuentren disponibles en Internet, así como, los implantados en la red interna de la Comisión;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXIV. Proponer a la o el Presidente las medidas de seguridad en las redes de datos y comunicaciones, con el fin de garantizar la integridad de la información contenida en los sistemas con los que cuente la Comisión;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXV. Presentar informes en el ámbito de su competencia, cuando así lo solicite la o el Presidente;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXVI. Promover la cultura de los Derechos Humanos, a través del uso de herramientas tecnológicas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXVII. Dirigir la capacitación y asesoría en el uso y aprovechamiento de los recursos informáticos al personal de los órganos y áreas que integran la Comisión, para elevar los niveles de eficiencia y eficacia que propicien la reducción de costos de operación;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXVIII. Implementar todo lo relativo al desarrollo del Servicio Profesional en Derechos Humanos, aplicando políticas que garanticen la equidad de género, la igualdad sustantiva entre las personas, la no discriminación y el respeto e integración de personas en situación de vulnerabilidad por discriminación;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXIX. Dirigir, aprobar y supervisar la ejecución de la estrategia educativa general del Programa de Capacitación y Formación Profesional en Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXX. Proponer estrategias de articulación, dirección educativa y promoción activa de los derechos humanos, dirigidas prioritariamente a la capacitación y profesionalización del personal de la comisión;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXXI. Diseñar y actualizar los criterios y contenidos para la implementación del Servicio Profesional en Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXXII. Proponer a la o el Presidente las modificaciones al Estatuto del Servicio, en función de las necesidades del Servicio, de las disponibilidades de presupuesto y del objeto de la Comisión, y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXXIII. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, y los ordenamientos aplicables.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 37.
 
-La Dirección General de Comunicación por los Derechos Humanos tendrá las atribuciones siguientes:
+La Dirección de Promoción e Información tendrá las siguientes atribuciones:
 
-I. Auxiliar a la o el Presidente en la conducción de las políticas de comunicación social y divulgación de la Comisión y en sus relaciones con los medios de comunicación;
+I. Auxiliar a la o el Presidente en la conducción de las políticas de promoción e información y en sus relaciones con los medios de comunicación;
 
 II. Elaborar materiales de audio, video y la página electrónica de la Comisión;
 
 III. Mantener un contacto permanente con los representantes de los medios de comunicación, con el fin de tenerlos informados sobre las acciones que la Comisión pretenda difundir;
 
-IV. Coordinar las reuniones de prensa de la o el Presidente y demás servidores públicos de la Comisión;
+IV. Coordinar las acciones de promoción e información de la o el Presidente y demás servidores públicos de la Comisión;
 
-V. Informar a la o el Presidente sobre las denuncias que aparezcan en los medios de comunicación social, a efecto de que, en su caso, se proceda conforme al artículo 24, fracción II, de la Ley;
+V. Informar a la o el Presidente sobre las denuncias que aparezcan en los medios de comunicación social, a efecto de que, en su caso, se proceda conforme al artículo 24, fracción 2, de la Ley;
 
-VI. Coadyuvar en la elaboración de los instrumentos informativos que requieran los órganos y áreas de apoyo de la Comisión;
+VI. Coadyuvar en la elaboración de los instrumentos de promoción e información que requieran los órganos y áreas de apoyo de la Comisión;
 
 VII. Colaborar con la Presidencia en la elaboración y revisión de los informes anuales, así como de los especiales, y
 
-VIII. Las demás que le confiere el presente Reglamento, la o el Presidente y los ordenamientos internos.
+VIII. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, y los ordenamientos internos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -1390,47 +1434,9 @@ XIII. Las demás que le confiera el presente Reglamento, la o el Presidente y lo
 
 La Secretaría Particular de la Presidencia de la Comisión, tendrá las funciones que la o el Presidente establezca y contará con el personal de apoyo que sea necesario.
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+ARTÍCULO 41 BIS.- (DEROGADO, G.O. 28 DE DICIEMBRE DE 2018)
 
-ARTÍCULO 41 BIS.- La Coordinación de Tecnologías de Información y Comunicación tendrá las atribuciones siguientes:
-
-I. Proponer a la o el Presidente las políticas, programas y proyectos estratégicos, en materia de tecnologías de información y comunicación;
-
-II. Proponer a la o el Presidente la normativa en materia de desarrollo, operación, seguridad y mantenimiento de tecnologías de información y comunicación;
-
-III. Proponer a la o el Presidente los programas estratégicos en materia informática, con el fin de contar con tecnología de vanguardia que permita garantizar la operación de los sistemas implantados;
-
-IV. Planear el mantenimiento de los bienes informáticos para garantizar la continuidad del servicio a los usuarios;
-
-V. Planear y administrar el presupuesto asignado a la Coordinación de Tecnologías de Información y Comunicación para dar continuidad a los servicios informáticos y de telecomunicaciones de la Comisión;
-
-VI. Supervisar las soluciones de los sistemas de información que se encuentren disponibles en Internet, así como, los implantados en la red interna de la Comisión;
-
-VII. Proponer a la o el Presidente las medidas de seguridad en las redes de datos y comunicaciones, con el fin de garantizar la integridad de la información contenida en los sistemas con los que cuente la Comisión;
-
-VIII. Presentar informes en el ámbito de su competencia, cuando así lo solicite la o el Presidente;
-
-IX. Promover la cultura de los Derechos Humanos, a través del uso de herramientas tecnológicas;
-
-X. Dirigir la capacitación y asesoría en el uso y aprovechamiento de los recursos informáticos al personal de los órganos y áreas que integran la Comisión, para elevar los niveles de eficiencia y eficacia que propicien la reducción de costos de operación;
-
-XI. Las demás que le sean asignadas por el superior jerárquico, así como, las derivadas de la normativa aplicable;
-
-> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
-
-ARTÍCULO 41 TER.- La Coordinación del Servicio Profesional en Derechos Humanos tendrá las atribuciones siguientes:
-
-I. Implementar todo lo relativo al desarrollo del Servicio Profesional en Derechos Humanos, aplicando políticas que garanticen la equidad de género, la igualdad sustantiva entre las personas, la no discriminación y el respeto e integración de personas en situación de vulnerabilidad por discriminación;
-
-II. Dirigir, aprobar y supervisar la ejecución de la estrategia educativa general del Programa de Capacitación y Formación Profesional en Derechos Humanos;
-
-III. Proponer estrategias de articulación, dirección educativa y promoción activa de los derechos humanos, dirigidas prioritariamente a la capacitación y profesionalización del personal de la Comisión;
-
-IV. Diseñar y actualizar los criterios y contenidos para la implementación del Servicio Profesional en Derechos Humanos;
-
-V. Proponer a la o el Presidente las modificaciones al Estatuto del Servicio, en función de las necesidades del Servicio, de las disponibilidades de presupuesto y del objeto de la Comisión, y
-
-VI. Las demás que le confiera el presente Reglamento, el Estatuto del Servicio, la o el Presidente y los ordenamientos internos aplicables.
+ARTÍCULO 41 TER.- (DEROGADO, G.O. 28 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2937,6 +2943,30 @@ PRIMERO. Las presentes reformas al Reglamento Interno de la Comisión de Derecho
 SEGUNDO. Las adecuaciones a la normativa interna deberán presentarse dentro del término de ciento ochenta días hábiles posteriores a la entrada en vigor, para su aprobación ante el Consejo de la Comisión.
 
 TERCERO. El Comité de Igualdad de Género realizará la campaña de prevención dentro de los seis meses siguientes a la publicación del Reglamento de Operación del Comité de Igualdad de Género en la Gaceta Oficial de la Ciudad de México.
+
+## TRANSITORIO
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 20/2018, DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA REFORMAR, ADICIONAR Y DEROGAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Se aprueba el presente Acuerdo, por el que se modifican diversas disposiciones al Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal, referidos en el considerando nueve, conforme al documento anexo que forma parte integral del presente acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día primero de enero de 2019.
+
+TERCERO. Se instruye al Director General de Administración para que, realice las gestiones necesarias para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. Se instruye al Director General de Administración para que, opere su contenido en los demás instrumentos de carácter administrativo y legal de este Organismo.
+
+QUINTO. Se instruye a la Unidad de Transparencia de esta Comisión, para que, en cumplimiento a lo dispuesto por la normatividad aplicable en materia de Transparencia y Acceso a la Información Pública de la Ciudad de México, en un plazo no mayor a quince días hábiles posteriores a su entrada en vigor, publique el presente Acuerdo y el anexo que forma parte integral del mismo en el Portal de Transparencia de esta Comisión.
+
+SEXTO. Se instruye a la Dirección de Promoción e Información de esta Comisión para que dé a conocer el presente Acuerdo en el apartado denominado estrados electrónicos de la página de Internet de esta Comisión, www.cdhdf.org.mx, en un plazo no mayor de tres días hábiles posteriores a la publicación de este Acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SÉPTIMO. Las expresiones referidas a la Dirección General de Comunicación por los Derechos Humanos; la Coordinación de Tecnologías de Información y Comunicación; y la Coordinación del Servicio Profesional en Derechos Humanos que se encuentren referidas en normatividad interna vigente para esta Comisión se entenderán alusivas a la Dirección de Promoción e Información; a la Dirección del Servicio Profesional en Derechos Humanos, y a la Dirección de Tecnologías de Información y Comunicación, con base en los términos planteados en el presente Acuerdo.
+
+OCTAVO. Hasta en tanto no entre en vigor este Acuerdo, subsistirán en sus términos las disposiciones del Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal materia de esta reforma.
 
 ## TRANSITORIO
 
