@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-reguladora-de-energia-121174"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-04-28"
-last_updated: "2017-06-29"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121174&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en la Segunda Sección al Número 20 del Diario Oficial de la Federación, el viernes 28 de abril de 2017.
 
@@ -75,7 +75,9 @@ XIII. Servidores Públicos: los servidores públicos de la Comisión;
 
 XIV. Temporadas Abiertas: procedimiento regulado por la Comisión que, con el propósito de brindar equidad y transparencia en la asignación o adquisición de capacidad disponible a terceros de un sistema o de un nuevo proyecto o con motivo de una renuncia permanente de capacidad reservada, debe realizar un Permisionario de Transporte, Almacenamiento o Distribución de Hidrocarburos, Petrolíferos y Petroquímicos para ponerla a disposición del público, a efecto de reasignar capacidad o determinar las necesidades de expansión o ampliación de capacidad, y
 
-XV. Unidades Administrativas: las unidades administrativas de la Comisión, incluidas la Secretaría Ejecutiva y la Oficialía Mayor.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
+XV. Unidades Administrativas: las unidades administrativas de la Comisión, incluidas la Secretaría Ejecutiva y la Unidad de Administración.
 
 ###### Artículo 4.
 
@@ -107,7 +109,9 @@ II. Presidente;
 
 III. Secretaría Ejecutiva;
 
-IV. Oficialía Mayor;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
+IV. Unidad de Administración… (sic)
 
 V. Unidad de Planeación y Vinculación;
 
@@ -513,13 +517,17 @@ Para el despacho de los asuntos de su competencia, el Secretario Ejecutivo podr�
 
 ### CAPÍTULO VI. De los Jefes de Unidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 28.
 
-Al frente de cada una de las Unidades Administrativas, de la Secretaría Ejecutiva y de la Oficialía Mayor habrá un Jefe de Unidad, quien tendrá a su cargo la dirección técnica y administrativa y será responsable de su funcionamiento.
+Al frente de cada una de las Unidades Administrativas, de la Secretaría Ejecutiva y de la Unidad de Administración habrá un Jefe de Unidad, quien tendrá a su cargo la dirección técnica y administrativa y será responsable de su funcionamiento.
 
 Además de las atribuciones específicas que le confiere el presente Reglamento, cada Jefe de Unidad tendrá las atribuciones generales que se establecen en este capítulo.
 
-Para todos los efectos legales y administrativos, la Secretaría Ejecutiva y la Oficialía Mayor serán consideradas como Unidades Administrativas.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
+Para todos los efectos legales y administrativos la Secretaría Ejecutiva y la Unidad de Administración serán consideradas como Unidades Administrativas.
 
 Los Jefes de Unidad conducirán y coordinarán las actividades que realizarán los Servidores Públicos adscritos a la unidad administrativa a su cargo.
 
@@ -573,13 +581,19 @@ XXII. Expedir certificaciones de constancias de los expedientes relativos a los 
 
 XXIII. Las demás que le encomienden el Órgano de Gobierno o el Presidente, así como las que sean necesarias para el ejercicio de su competencia.
 
-### CAPÍTULO VII. Del Oficial Mayor
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO VII. De la Unidad de Administración
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 30.
 
-El Oficial Mayor administrará los recursos humanos, materiales, financieros y de tecnologías de la información de la Comisión y emitirá las políticas, programas, normas, sistemas y procedimientos para el control de los mismos, de observancia general para las Unidades Administrativas y de conformidad con las disposiciones aplicables.
+El Jefe de la Unidad de Administración administrará los recursos humanos, materiales, financieros y de tecnologías de la información de la Comisión y emitirá las políticas, programas, normas, sistemas y procedimientos para el control de los mismos, de observancia general para las Unidades Administrativas y de conformidad con las disposiciones aplicables.
 
-El Oficial Mayor tendrá las atribuciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
+El Jefe de la Unidad de Administración tendrá las atribuciones siguientes:
 
 I. Autorizar y asegurar los pagos por concepto de servicios personales a los Servidores Públicos, de acuerdo con el tabulador de remuneraciones en los términos previstos en las disposiciones aplicables; así como coordinar el cumplimiento de las obligaciones fiscales, de seguridad social, administrativas, de entero de retenciones de prestaciones, y expedir las constancias de retenciones de impuestos conforme a la legislación fiscal aplicable por las remuneraciones que recibe el personal;
 
@@ -799,11 +813,11 @@ XXX. Las demás atribuciones que le encomienden el Órgano de Gobierno o el Pres
 
 ### CAPÍTULO X. Del Jefe de la Unidad de Gas Natural
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 33.
 
-El Jefe de la Unidad de Gas Natural tendrá las atribuciones siguientes en materia de Gas Natural, Petróleo, condensados, líquidos del Gas Natural e hidratos de metano:
+El Jefe de la Unidad de Gas Natural tendrá las atribuciones siguientes en materia de Gas Natural y Petróleo:
 
 I. Proponer el marco regulatorio y su actualización en materia de las actividades de transporte, almacenamiento, distribución, sistemas integrados, compresión, descompresión, licuefacción, regasificación, comercialización, venta de primera mano y expendio al público, en coordinación con la Unidad de Asuntos Jurídicos;
 
@@ -855,7 +869,9 @@ XXIV. Emitir la justificación y proponer los montos de las contribuciones y con
 
 XXV. Supervisar que los pagos por concepto de contribuciones y contraprestaciones que se deban cubrir por los servicios que presta la Comisión, se realicen en los términos y dentro de los plazos establecidos en las disposiciones fiscales aplicables;
 
-XXVI. Informar a la Oficialía Mayor la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
+XXVI. Informar a la Unidad de Administración la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
 
 XXVII. Atender las consultas y requerimientos de información por parte de autoridades o particulares, sobre las Actividades Reguladas;
 
@@ -931,7 +947,9 @@ XXI. Emitir la justificación y proponer los montos de las contribuciones y cont
 
 XXII. Supervisar que los pagos por concepto de contribuciones y contraprestaciones que se deban cubrir por los servicios que presta la Comisión, se realicen en los términos y dentro de los plazos establecidos en las disposiciones fiscales aplicables;
 
-XXIII. Informar a la Oficialía Mayor la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
+XXIII. Informar a la Unidad de Administración la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
 
 XXIV. Atender las consultas y requerimientos de información por parte de autoridades o particulares, sobre las Actividades Reguladas;
 
@@ -1007,7 +1025,9 @@ XX. Emitir la justificación y proponer los montos de las contribuciones y contr
 
 XXI. Supervisar que los pagos por concepto de contribuciones y contraprestaciones que se deban cubrir por los servicios que presta la Comisión, se realicen en los términos y dentro de los plazos establecidos en las disposiciones fiscales aplicables;
 
-XXII. Informar a la Oficialía Mayor la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
+XXII. Informar a la Unidad de Administración la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
 
 XXIII. Atender las consultas y requerimientos de información por parte de autoridades o particulares, sobre las Actividades Reguladas;
 
@@ -1075,6 +1095,8 @@ XVII. Emitir la justificación y proponer los montos de las contribuciones y con
 
 XVIII. Supervisar que los pagos por concepto de contribuciones y contraprestaciones que se deban cubrir por los servicios que presta la Comisión, se realicen en los términos y dentro de los plazos establecidos en las disposiciones fiscales aplicables;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
 XIX. Informar a la Oficialía Mayor la omisión en el pago de contribuciones y contraprestaciones por los servicios que preste la Comisión;
 
 XX. Atender las consultas y requerimientos de información por parte de autoridades o particulares, sobre las Actividades Reguladas;
@@ -1139,6 +1161,8 @@ La Comisión contará con un Comité de Evaluación del Desempeño Regulatorio q
 
 ## TÍTULO QUINTO. Del Presupuesto y el Fideicomiso
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 41.
 
 El Comité estará integrado por el Presidente, Secretario Ejecutivo y los Jefes de las Unidades Administrativas y será presidido por el primero. El Jefe de la Unidad de Planeación y Vinculación fungirá como Secretario Técnico del Comité.
@@ -1157,17 +1181,21 @@ Las Unidades Administrativas de la Comisión colaborarán con el Comité en el �
 
 ###### Artículo 43.
 
-La Comisión, a través del Oficial Mayor, realizará las acciones necesarias para cumplir con lo previsto en el artículo 30 de la Ley.
+La Comisión, a través de la Unidad de Administración, realizará las acciones necesarias para cumplir con lo previsto en el artículo 30 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
 
 ## TÍTULO SEXTO. De las Suplencias y los Encargados de Despacho
 
 ###### Artículo 44.
 
-La Oficialía Mayor será la encargada de administrar el fideicomiso público, debiendo contar con la aprobación del Órgano de Gobierno para cumplir con las obligaciones establecidas en el artículo 31 de la Ley, sobre la aportación de los remanentes de ingresos propios excedentes que obtenga.
+La Unidad de Administración será la encargada de administrar el fideicomiso público, debiendo contar con la aprobación del Órgano de Gobierno para cumplir con las obligaciones establecidas en el artículo 31 de la Ley, sobre la aportación de los remanentes de ingresos propios excedentes que obtenga.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 45.
 
-La Oficialía Mayor deberá informar de manera trimestral al Presidente sobre la administración del fideicomiso público.
+La Unidad de Administración deberá informar de manera trimestral al Presidente sobre la administración del fideicomiso público.
 
 ###### Artículo 46.
 
@@ -1234,3 +1262,9 @@ D.O.F. 29 DE JUNIO DE 2017.
 > <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL “ACUERDO DE LA COMISIÓN REGULADORA DE ENERGÍA QUE MODIFICA EL REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, el cual entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL “ACUERDO POR EL QUE EL ÓRGANO DE GOBIERNO DE LA COMISIÓN REGULADORA DE ENERGÍA APRUEBA LA MODIFICACIÓN A SU REGLAMENTO INTERNO, EN TÉRMINOS DEL ARTÍCULO 22 DE LA LEY DE LOS ÓRGANOS REGULADORES COORDINADOS, EN CONCORDANCIA CON EL ARTÍCULO 43 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, el cual entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
