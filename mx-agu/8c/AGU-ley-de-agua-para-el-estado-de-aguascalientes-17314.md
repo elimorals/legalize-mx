@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2018-06-25"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -161,11 +161,9 @@ XXVII. Usuario: la persona, física o moral que utilice los servicios públicos.
 
 (DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
 
-> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017 SESIONADA EL 26 DE OCTUBRE DE 2017. EL 20 DE NOVIEMBRE DE 2017 FUE REFORMADO ESTE ARTÍCULO SESIONADO EL 9 DE NOVIEMBRE DE 2017 "ARTICULO 5º.- ... I. a la XXX .... XXXI. Participar en la elaboración de los planes y programas para la conservación y el uso sustentable de las aguas de jurisdicción estatal; XXXII. Diseñar y establecer los programas y líneas de acción relativos a la captación de aguas pluviales, y coordinar su ejecución; y XXXIII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado en los términos de Ley y de los convenios que al efecto se celebren. ..." POR LO QUE SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
-
 ###### ARTICULO 5o.
 
-(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+(DEROGADO [N. DE E. REPUBLICADO] POR EL ARTÍCULO SEGUNDO DEL DECRETO 62, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 6o.
 
@@ -1902,3 +1900,23 @@ P.O. 25 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, a excepción de lo dispuesto por su Artículo Segundo el cual entrará en vigor el día 1° de enero del año 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Tercero del presente Decreto entrará en vigor una vez que haya sido publicado el Decreto 65 emitido por esta Legislatura, que contiene el Presupuesto de Egresos del Estado de Aguascalientes, para el Ejercicio Fiscal del Año 2019.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones normativas que se opongan al mismo.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá proveer en la esfera administrativa para la exacta observancia del presente Decreto.
