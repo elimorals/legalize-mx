@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-centros-de-atencion-cuidado-y-desarrollo-integral-109686
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-29"
-last_updated: "2018-11-30"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CENTROS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Baja California, el viernes 29 de mayo de 2015.
 
@@ -59,9 +59,11 @@ IV.- Salvaguardar el ejercicio pleno de los derechos de las niñas y niños en l
 
 ### Capítulo II. De los sujetos de la Norma
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 3.
 
-Corresponde la aplicación de la presente Ley, al Ejecutivo del Estado, por conducto de la Secretaría de Educación y Bienestar Social, la Secretaría de Salud, la Dirección de Protección Civil y a los Ayuntamientos conforme a las dependencias que estos determinen.
+Corresponde la aplicación de la presente Ley, al Ejecutivo del Estado, por conducto del Sistema para el Desarrollo Integral de la Familia, la Secretaría de Educación y Bienestar Social, la Secretaría de Salud, la Dirección de protección Civil y a los Ayuntamientos conforme a las dependencias que estos determinen.
 
 ###### Artículo 4.
 
@@ -119,6 +121,10 @@ XIV.- Servicios para atención, cuidado y desarrollo integral infantil: Medidas 
 
 XV.- Usuario: Al padre, la madre, tutor o quienes ejerzan la guarda o custodia del niño o niña.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XVI.- Modelo de desarrollo integral para niños de 0 a 3 años 11 meses: Modelo desarrollado para su aplicación en la formación inicial o temprana aprobado por el Consejo Estatal para su vigencia.
+
 ###### Artículo 10.
 
 La interpretación de la Ley corresponde en lo administrativo a la Secretaría de Salud, a la Secretaría de Educación Pública y Bienestar Social y a la Secretaría General de Gobierno, en el ámbito de sus respectivas atribuciones, así como a las dependencias que determinen los Ayuntamientos en sus normas reglamentarias.
@@ -147,9 +153,15 @@ VI.- A participar, ser consultado, expresar libremente sus ideas y opiniones sob
 
 VII.- A recibir la alimentación que les permita tener una nutrición adecuada;
 
-VIII.- A recibir orientación y educación apropiada a su edad, orientadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+VIII.- A recibir orientación y educación a través de un modelo de desarrollo integral para niños de 0 a 3 años 11 meses apropiado para su edad y orientado a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos pudiendo basarse la misma, en el modelo señalado en la fracción XVI del artículo 9 de esta ley; y
 
 IX.- Al cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+X.- Al descanso, al juego y al esparcimiento.
 
 ###### Artículo 13.
 
@@ -289,7 +301,9 @@ El Consejo es una instancia de consulta y coordinación, a través del cual se d
 
 Son atribuciones del Consejo:
 
-I.- Aprobar su reglamento y normas de operación;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+I.- Elaborar y aprobar su reglamento interno y normas de operación, así como el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento;
 
 II.- Formular, conducir y evaluar la política pública que permita la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, privado y social en la promoción de condiciones favorables al cuidado y desarrollo integral de niñas y niños, siguiendo los lineamientos fijados por el Consejo Nacional;
 
@@ -325,19 +339,29 @@ III.- Generar y ejecutar acciones de gobierno para ofrecer un servicio de atenci
 
 IV.- Organizar el sistema de prestación de servicios para la atención, cuidado y desarrollo integral infantil de la entidad correspondiente y coadyuvar con el Consejo Nacional;
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 30.
 
-El Consejo se integrará con los titulares de las siguientes dependencias:
+El Consejo se integrará con los Titulares de las siguientes dependencias y entidades de la Administración Pública Estatal:
 
-I.- De la Secretaría de Salud, quien lo presidirá;
+I. El Sistema Integral para el Desarrollo de la Familia de Baja California, quien lo presidirá;
 
-II.- Del Sistema para el Desarrollo Integral de la Familia del Estado;
+II. La Secretaría de Salud;
 
-III.- De la Secretaría de Educación y Bienestar Social;
+III. La Secretaría de Educación y Bienestar social;
 
-IV.- De la Secretaría de Seguridad Pública; y
+IV. La Secretaría del Trabajo y Previsión Social;
 
-V.- De la Secretaría General de Gobierno.
+V. Un representante de cada Ayuntamiento;
+
+VI. Un representante del sector social;
+
+VII. Un representante del sector empresarial y;
+
+VIII. La Secretaría General de Gobierno.
+
+Serán invitados permanentes a las sesiones del Consejo, el Instituto de la Mujer para el Estado de Baja California, la Comisión Estatal de los Derechos Humanos, las delegaciones del IMSS y del ISSSTE quienes tendrán derecho a voz.
 
 Cuando el Gobernador del Estado asista a sesiones del Consejo, lo presidirá.
 
@@ -357,9 +381,11 @@ El Consejo podrá sesionar de forma extraordinaria para atender asuntos que mere
 
 Los integrantes del Consejo intercambiarán y analizarán información y datos referentes a los temas de su competencia, con el fin de cumplir con los objetivos establecidos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 35.
 
-El Gobernador podrá integrar al Consejo a los titulares de otras dependencias que presten servicios para la atención, cuidado y desarrollo integral infantil, o cuyo ámbito de atribuciones esté vinculado con estos servicios, así como a los representantes de los municipios que presten servicios para la atención, cuidado y desarrollo integral infantil.
+El Gobernador a través del Sistema Integral para el Desarrollo de la Familia de Baja California, podrá integrar al Consejo a los titulares de otras dependencias de integrar al Consejo a los titulares de otras dependencias que presten servicios para la atención, cuidado y desarrollo integral infantil, o cuyo ámbito de atribuciones esté vinculado con estos servicios, así como a los representantes de los municipios que presten servicios para la atención, cuidado y desarrollo integral infantil.
 
 ###### Artículo 36.
 
@@ -375,7 +401,9 @@ Con el fin de garantizar el cumplimiento de los servicios a que se refiere esta 
 
 I.- Alimentación adecuada y suficiente para su nutrición;
 
-II.- Apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afectivo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+II.- Aplicación del modelo o programa para la formación inicial o temprana apropiado a su edad y orientado al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afectivo;
 
 III.- Atención médica en caso de urgencia, la cual podrá brindarse en el Centro de Atención por personal debidamente certificado o a través de instituciones de salud públicas o privadas;
 
@@ -802,3 +830,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 284 MEDIANTE EL CUAL SE APRUEBA LA REFORMA (SIC) LOS ARTÍCULOS 3, 9, 12, 28, 30, 35 Y 38 DE LA LEY DE CENTROS DE ATENCIÓN CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
