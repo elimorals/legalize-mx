@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2018-06-25"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,13 +20,13 @@ abbreviation: "LFPC"
 ---
 # LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-NOTA 1: DE CONFORMIDAD CON EL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR PARA EL AÑO DOS MIL DIECISIETE, SE ESTABLECE QUE "PARA EFECTUAR EL PAGO DE LAS CANTIDADES QUE RESULTEN DE LA ACTUALIZACIÓN, PARA LAS FRACCIONES DEL PESO, EL MONTO SE AJUSTARÁ PARA QUE LAS MULTAS QUE CONTENGAN CANTIDADES QUE INCLUYAN DE 1 HASTA 50 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA ANTERIOR Y LAS QUE CONTENGAN CANTIDADES DE 51 A 99 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA SUPERIOR."
-
-NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
+
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURÍA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -438,9 +438,9 @@ XXVII. Las demás que le confieran esta ley y otros ordenamientos.
 
 La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar previo apercibimiento las siguientes medidas de apremio:
 
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2018)
 
-I. Multa de $244.36 a $24,436.82;
+I. Multa de $272.86 a $27,286.87;
 
 > <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
 
@@ -450,9 +450,9 @@ II. El auxilio de la fuerza pública;
 
 III. Ordenar arresto administrativo hasta por 36 horas, y
 
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2018)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2018)
 
-IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $9,774.73, por un período no mayor a 180 días.
+IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $10,914.75, por un período no mayor a 180 días.
 
 > <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
@@ -1616,9 +1616,9 @@ f) Que la representación y gestión se realiza de manera gratuita, y
 
 g) Que no participan de manera institucional en actividades de proselitismo político o electoral.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2018)
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $521,139.82.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $545,737.62.
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1870,9 +1870,9 @@ En caso de no aceptarse el arbitraje se dejarán a salvo los derechos de ambas p
 
 La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2018)
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $521,139.82.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $545,737.62.
 
 ###### ARTICULO 118.
 
@@ -1932,27 +1932,27 @@ ARTICULO 124 BIS.- Para la sustanciación del procedimiento por infracciones a l
 
 Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $260.56 a $833,823.71.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $272.86 a $873,180.19.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $488.74 a $1’563,957.06.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $545.74 a $1'746,360.37.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2018)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $702.07 a $2’745,903.07.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $783.95 a $3'066,155.98.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2018)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2018)
 
-ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $141,929.70 a $3’974,031.62. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.
+ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $163,721.29 a $4'584,196.01. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -2062,9 +2062,9 @@ Asimismo, la Procuraduría deberá considerar los hechos generales de la infracc
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2018)
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $8’755,148.97.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $9'168,392.00.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -2515,3 +2515,9 @@ D.O.F. 25 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS CUARTO Y QUINTO TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 11 DE ENERO DE 2018”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN PARA EL AÑO DOS MIL DIECINUEVE, LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2019.
