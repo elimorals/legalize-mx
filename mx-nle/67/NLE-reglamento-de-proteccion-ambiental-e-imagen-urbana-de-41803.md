@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-ambiental-e-imagen-urbana-de-41803"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-02"
-last_updated: "2016-02-27"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCIÓN AMBIENTAL E IMAGEN URBANA DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 2 de septiembre de 1998.
 
@@ -752,6 +752,26 @@ VI. En su caso, contar con las licencias federales, estatales o municipales, cor
 VII. Presentar la constancia de Inscripción en el Registro Federal de Contribuyentes (RFC).
 
 Los prestadores de servicios al vivero municipal, deberán de obtener la autorización antes mencionada; en caso de no contar con la misma, la Secretaría, no podrá ejercer operación alguna con el mismo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 35 BIS 1.- Para la obtención del permiso municipal de desmonte, desyerbe, derribo, poda y trasplante, el solicitante deberá cumplir con los siguientes requisitos mínimos:
+
+l. Acreditar la propiedad o posesión del predio;
+
+II. Acreditar el interés que le asiste, y en caso de representación contar con poder suficiente para tal efecto;
+
+III. Identificación oficial del solicitante;
+
+IV. Presentar croquis de localización del predio;
+
+V. Pago de derechos correspondientes; y,
+
+VI. Fotografías recientes del predio; y,
+
+VII. Los demás que señalen para tal efecto los Ayuntamientos en las disposiciones de carácter general que al efecto expidan.
+
+Una vez integrada la solicitud, la autoridad deberá resolver la misma dentro de los diez días hábiles siguientes a su ingreso. La vigencia para los permisos indicados en este artículo, será indistintamente de 01-un año, contados a partir del día siguiente a su notificación, previo el pago de derechos municipales respectivos.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -1832,3 +1852,9 @@ P.O. 27 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE PROTECCIÓN AMBIENTAL E IMAGEN URBANA”.]
 
 ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DE LOS ACUERDOS DE LA SESIÓN ORDINARIA DE FECHA 17 DE DICIEMBRE DE 2018: POR EL QUE “SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DE PROTECCIÓN AMBIENTAL E IMAGEN URBANA DE MONTERREY, N. L.”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
