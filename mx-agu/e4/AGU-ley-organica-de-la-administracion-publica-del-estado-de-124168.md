@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2018-12-10"
+last_updated: "2018-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -1817,13 +1817,17 @@ Para los efectos legales a que haya lugar, la Secretaría de la Juventud será s
 
 El Congreso del Estado a partir de la publicación del presente Decreto y a más tardar antes de su inicio de vigencia, deberá expedir la Ley que crea el Instituto de la Juventud del Estado de Aguascalientes.
 
-Hasta en tanto se expida el ordenamiento referido, seguirá vigente el Artículo 15, en su Fracción XVI, así como la Sección Décima Sexta denominada “De la Secretaría de la Juventud”, y el Artículo 43 BIS de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada el 28 de diciembre de 2010 en el Periódico Oficial del Estado.
+Hasta en tanto se expida el ordenamiento referido, seguirá vigente el Artículo 15, en su Fracción XVI, así como la Sección Décima Sexta denominada "De la Secretaría de la Juventud", y el Artículo 43 BIS de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada el 28 de diciembre de 2010 en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO CUARTO.
 
-A partir del primero de enero del año dos mil diecinueve, se deroga el Título Segundo de la Ley de Agua para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 24 de julio de 2000, quedando extinto el Organismo Público Descentralizado del Gobierno del Estado denominado “Instituto del Agua del Estado”.
+El 31 de diciembre de 2018, el Instituto del Agua del Estado dejará de tener a su cargo las funciones atribuidas por el artículo 5º de la Ley de Agua para el Estado de Aguascalientes y, a partir del 1º de enero de 2019 conservará su personalidad jurídica exclusivamente para: 1. El seguimiento de las obligaciones a su cargo derivadas de la obra pública en proceso: "Reingeniería y rehabilitación de la Planta de Tratamiento de Aguas Residuales de La Ciudad de 2,000 L/S, Tercera Etapa, Aguascalientes", otorgada a través del contrato de obra pública a precio alzado número N59-2014 a favor de la empresa Operadora de Ecosistemas, S.A. de C.V.; 2. El seguimiento y atención a los requerimientos con motivo de las solicitudes para la devolución del Impuesto al Valor Agregado procedente a su favor y que ha promovido ante el Servicio de Administración Tributaria; 3. El pago a acreedores y el cobro de cuentas por cobrar que tenga pendientes; 4. La protocolización ante notario público del acuerdo de transferencia de los inmuebles del Instituto del Agua del Estado a favor del Gobierno del Estado de Aguascalientes; 5. La atención a las auditorías que se le practiquen, así como para dar seguimiento y solventar las observaciones de auditorías de ejercicios anteriores y presentación de denuncias que así procedan; contando para realizar dichas funciones con una plantilla laboral integrada únicamente por el Director General, además del Comisario Público, como órgano de vigilancia y del Consejo Directivo como Órgano de Gobierno; tendrá presupuesto asignado para el pago de salarios y para hacer frente a los compromisos de pago durante su extinción. El Director General notificará al Consejo Directivo el momento en el cual el Instituto del Agua del Estado esté listo para ser extinto y éste sesionará para revisar y aprobar la extinción mediante Acuerdo que será publicado en el Periódico Oficial del Estado de Aguascalientes a más tardar dentro de los quince días naturales siguientes a su emisión, quedando derogado en ese momento el Título Segundo de la Ley de Agua para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 24 de julio de 2000, y extinto el Organismo Público Descentralizado del Gobierno del Estado denominado "Instituto del Agua del Estado".
 
-Los recursos humanos, financieros y materiales que se encuentran asignados al Instituto, pasarán a formar parte de la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, según corresponda, debiendo realizarse dichas transferencias a partir de la entrada en vigencia del presente Decreto, las cuales deberán concluir a más tardar el día treinta y uno de diciembre del año dos mil dieciocho.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+Los recursos humanos y materiales que se encuentran asignados al Instituto, pasarán a formar parte de la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, según corresponda, debiendo realizarse dichas transferencias a más tardar el 31 de diciembre de 2018. Las funciones que el Instituto del Agua del Estado dejará de ejercer en términos del párrafo anterior, serán asumidas de plano y por completo, por la Secretaría de Sustentabilidad, Medio Ambiente y Agua, y la Secretaría de Obras Públicas, a partir del 1º de enero de 2019. Los recursos financieros remanentes de la extinción del Instituto del Agua del Estado, serán transferidos a la Secretaría de Finanzas del Estado.
 
 Los ingresos que perciba el Instituto, contemplados en la Ley de Ingresos para el Estado de Aguascalientes para el ejercicio fiscal 2018, a partir de la fecha de entrada en vigor del presente Decreto, se entenderán como percibidos para todos los efectos legales por la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, según corresponda, no obstante lo anterior, en el período de transición, el Instituto podrá recaudar los ingresos correspondientes, mismos que deberán ser transferidos a la Secretaría de Obras Públicas, y la Secretaría de Sustentabilidad, Media (sic) Ambiente y Agua, según corresponda.
 
@@ -1879,7 +1883,7 @@ ARTÍICULO (SIC) DÉCIMO CUARTO.- Cuando en esta Ley se dé una denominación di
 
 Al Ejecutivo para su promulgación y publicación.
 
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los veintiséis días del mes de octubre del año dos mil diecisiete.
+Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", del Palacio Legislativo, a los veintiséis días del mes de octubre del año dos mil diecisiete.
 
 Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
 
@@ -1915,7 +1919,7 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 P.O. 10 DE DICIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 62.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS; ASÍ COMO SE ADICIONA UNA SECCIÓN DÉCIMA QUINTA “LA COORDINACIÓN GENERAL DE GABINETE”, AL CAPÍTULO IV “LA COMPETENCIA DE LAS DEPENDENCIAS”, ASÍ COMO SE DEROGAN LA FRACCIÓN XIII DEL ARTÍCULO 33; LA FRACCIÓN XL DEL ARTÍCULO 38; LAS FRACCIONES XVI, XX, XXI Y XXII DEL ARTÍCULO 41, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 62.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS; ASÍ COMO SE ADICIONA UNA SECCIÓN DÉCIMA QUINTA "LA COORDINACIÓN GENERAL DE GABINETE", AL CAPÍTULO IV "LA COMPETENCIA DE LAS DEPENDENCIAS", ASÍ COMO SE DEROGAN LA FRACCIÓN XIII DEL ARTÍCULO 33; LA FRACCIÓN XL DEL ARTÍCULO 38; LAS FRACCIONES XVI, XX, XXI Y XXII DEL ARTÍCULO 41, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1941,7 +1945,7 @@ El Gobernador del Estado deberá expedir el Reglamento Interior de la Coordinaci
 
 ###### ARTÍCULO SEXTO.
 
-El personal de la Coordinación General de Gabinete adscrita a la Oficina del Despacho del Gobernador, que con motivo del presente Decreto se transfiera a la Dependencia denominada “Coordinación General de Gabinete” conservarán sus derechos laborales.
+El personal de la Coordinación General de Gabinete adscrita a la Oficina del Despacho del Gobernador, que con motivo del presente Decreto se transfiera a la Dependencia denominada "Coordinación General de Gabinete" conservarán sus derechos laborales.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -1953,4 +1957,24 @@ La Contraloría del Estado de Aguascalientes es competente y está facultada par
 
 ###### ARTÍCULO NOVENO.
 
-En relación a lo dispuesto por Artículo Cuarto Transitorio del Decreto Número 164 que crea la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el día 27 de octubre de 2017, en el cual a partir del 1º de enero de 2019 se declara extinto el Organismo Público Descentralizado del Gobierno del Estado denominado “Instituto del Agua del Estado”, se autoriza como liquidador de dicho organismo a la Secretaría de Finanzas y a su vez se faculta para efecto de que reciba las cantidades solicitadas en devolución al Servicio de Administración Tributaria por concepto del Impuesto al Valor Agregado, misma que deberá asignar dichos recursos para obras de infraestructura hidráulica.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2018)
+
+P.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, a excepción de lo dispuesto por su Artículo Segundo el cual entrará en vigor el día 1° de enero del año 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Tercero del presente Decreto entrará en vigor una vez que haya sido publicado el Decreto 65 emitido por esta Legislatura, que contiene el Presupuesto de Egresos del Estado de Aguascalientes, para el Ejercicio Fiscal del Año 2019.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones normativas que se opongan al mismo.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá proveer en la esfera administrativa para la exacta observancia del presente Decreto.
