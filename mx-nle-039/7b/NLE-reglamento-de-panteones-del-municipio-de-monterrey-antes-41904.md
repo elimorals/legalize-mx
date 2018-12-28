@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-del-municipio-de-monterrey-antes-41904"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-27"
-last_updated: "2016-02-27"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PANTEONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 27 de octubre de 1997
 
@@ -255,11 +255,53 @@ La inhumación, cremación de cadáveres, esqueletos y restos óseos sólo podr�
 
 ### CAPÍTULO SEGUNDO. DE LAS INHUMACIONES
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 16.
 
-Los panteones municipales prestarán los servicios que le soliciten para inhumación o depósito de urnas, previo pago a la Tesorería Municipal de las contribuciones consignadas en las leyes fiscales aplicables.
+Los panteones municipales prestarán los servicios que se le solicite para inhumación o depósito de urnas, debiendo cumplir con la entrega de los siguientes requisitos para realizar el trámite:
+
+I. Que lo tramite un familiar directo
+
+II. Certificado de Defunción
+
+III. Orden de Inhumación
+
+IV. Identificación oficial vigente y acta de nacimiento de la persona que realiza el trámite (original y copia);
+
+V. Pago de orden de explotación de bienes
+
+VI. Pago del servicio
+
+VII. Se programa servicio.
+
+En caso de las personas que poseen un título de propiedad.
+
+VIII. Certificado de Defunción
+
+IX. Orden de inhumación
+
+X. Título de Derecho de Uso a Perpetuidad
+
+XI. Identificación oficial vigente del titular y acta de nacimiento (original y copia)
+
+XII. Pago de orden de explotación de bienes
+
+XIII. Pago del servicio.
+
+XIV. Se programa servicio.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 16 BIS. Los plazos establecidos para dar respuesta a los trámites de una solicitud de Inhumación son:
+
+Inhumación (Sepultura en panteón municipal)
+
+I. Plazo máximo de respuesta cuando se cumpla con todos los requisitos establecidos es de 1 día;
+
+II. Plazo de Prevención para la revisión de documentos es de 3 días;
+
+III. Plazo para subsanar prevención por parte del solicitante es de 1 día posterior a su requerimiento;
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
@@ -283,11 +325,33 @@ Queda prohibido cremar cadáveres o partes de seres humanos sin cumplir con los 
 
 El personal encargado de realizar las cremaciones utilizará el vestuario y equipo especial, que para el caso señalen las Autoridades Sanitarias.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 21.
 
-El servicio de cremación se prestará por los Panteones Municipales directamente a los particulares o a las funerarias privadas cuando éstas así lo soliciten, previo pago de la tarifa autorizada.
+El servicio de cremación se prestará por los Panteones municipales directamente a los particulares o a las funerarias privadas cuando éstas así lo soliciten, debiendo cumplir con la entrega de los siguientes requisitos para realizar el trámite:
+
+I. Certificado de Defunción o Acta de Defunción
+
+II. Orden de Cremación (por oficialía)
+
+III. Copia de Identificación oficial vigente de la persona que realiza el trámite (original y copia)
+
+IV. Solicitud de cremación (se le proporciona en esta oficina requisito indispensable para trámite)
+
+V. Pago de servicio
+
+VI. Se programa servicio.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 21 BIS. Los plazos establecidos para dar respuesta a los trámites de una solicitud de Cremación son:
+
+I. Plazo máximo de respuesta cuando se cumpla con todos los requisitos establecidos es de 1 día;
+
+II. Plazo de Prevención para la revisión de documentos es de 1 día;
+
+III. Plazo para subsanar prevención por parte del solicitante es de 1 día posterior a su requerimiento.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
@@ -303,11 +367,35 @@ Las cremaciones deberán realizarse dentro del horario comprendido de las 8:00 a
 
 ### CAPÍTULO CUARTO. EXHUMACIONES, REINHUMACIONES Y TRASLADOS
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 24.
 
-Si la exhumación se hace en virtud de haber transcurrido el plazo de seis y/o doce años, los restos serán depositados en el osario común por un periodo máximo de tres años y se estará a lo dispuesto por el artículo 34 BIS-1.
+La exhumación podrá solicitarse por el titular del derecho sobre la fosa en que se encuentren sepultados los restos, debiendo cumplir con la entrega de los siguientes requisitos para realizar el trámite:
+
+I. Acta de Defunción de quién se vaya a exhumar (original y (2) copias)
+
+II. Último recibo de renta de la tumba ó Título de Derecho de Uso a Perpetuidad (original y (2) copias)
+
+III. Identificación oficial vigente del Solicitante y acta de nacimiento (original y (2) copias)
+
+IV. Constancia de Renta o Título de Perpetuidad del lugar en donde serán llevados los restos o documento que acredite que serán cremados (original y copia)
+
+V. Pago del servicio ante la Tesorería Municipal.
+
+VI. Se programa servicio.
+
+Si la exhumación es realizada por la autoridad en virtud de haber transcurrido el plazo de seis y/o doce años, los restos serán depositados en el osario común por un periodo máximo de tres años y se estará a lo dispuesto por el artículo 34 BIS-1.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 24 BIS. Los plazos establecidos para dar respuesta a los trámites de una solicitud de Exhumación son:
+
+I. Plazo máximo de respuesta cuando se cumpla con todos los requisitos establecidos es de 1 día;
+
+II. Plazo de Prevención para la revisión de documentos es de 5 días;
+
+III. Plazo para subsanar prevención por parte del solicitante es de 1 día posterior a su requerimiento;
 
 ###### ARTÍCULO 25.
 
@@ -327,9 +415,35 @@ V.- Presentar comprobante del lugar en que se encuentra inhumado el cadáver.
 
 VI.- El familiar o la persona autorizada por la autoridad que reclame los restos deberá haber cumplido con el pago a la Tesorería Municipal de acuerdo a las tarifas establecidas para tal efecto.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 26.
 
-La reinhumación de los restos exhumados será de inmediato, previo pago de los derechos por este servicio.
+La reinhumación de los restos exhumados será de inmediato, debiendo cumplir con la entrega de los siguientes requisitos para realizar el trámite:
+
+I. Último recibo de renta de la tumba ó Título de Derecho de Uso a Perpetuidad
+
+II. Acta de Defunción
+
+III. Credencial de elector de la persona que realiza el trámite (original y Copia) y acta de nacimiento.
+
+IV. En el caso de las personas que poseen un Título: Título de Derecho de Uso a Perpetuidad
+
+V. Identificación oficial vigente del titular y acta de nacimiento. (original y Copia)
+
+VI. Pago del servicio ante la Tesorería Municipal.
+
+VII. Se programa servicio.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 26 BIS. Los plazos establecidos para dar respuesta a los trámites de una solicitud de Re inhumación son:
+
+I. Plazo máximo de respuesta cuando se cumpla con todos los requisitos establecidos es de 1 día;
+
+II. Plazo de Prevención para la revisión de documentos es de 5 días;
+
+III. Plazo para subsanar prevención por parte del solicitante es de 1 día posterior a su requerimiento.
 
 ###### ARTÍCULO 27.
 
@@ -421,31 +535,57 @@ En la licencia para el establecimiento de un cementerio privado deberán estable
 
 Toda persona tiene derecho de uso sobre terreno de Cementerio Municipal previo el pago de las contribuciones consignadas en las Leyes Fiscales aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 37.
 
-Para tener derecho a utilizar los Servicios del Cementerio deberá mantenerse al corriente en el pago de los derechos Municipales y cuotas de mantenimiento.
+Para tener derecho a utilizar los servicios del cementerio en una tumba a su nombre, el responsable deberá mantenerse al corriente en el pago de los derechos municipales y cuotas de mantenimiento, debiendo cumplir con la entrega de los siguientes requisitos para realizar el trámite:
+
+I. La persona física o moral que lo requiera se presenta a solicitar la(s) boleta(s) de Orden de Explotación de Bienes Municipales en la oficina de la Coordinación de Panteones Municipales.
+
+II. Presentar Identificación oficial vigente
+
+III. En ese momento se realiza el pago en la Caja de Tesorería ubicada en la misma Coordinación,
+
+Se entrega la boleta al solicitante y éste se encarga de entregarla a la Funeraria para que sea incluida dentro de los trámites para sepultar en cualquier panteón particular dentro del Municipio de Monterrey.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 38.
 
 Son obligaciones de los usuarios las siguientes:
 
-I.- Cumplir con las disposiciones de este Reglamento y las emanadas de la Administración Municipal.
+I. Cumplir con las disposiciones de este Reglamento y las emanadas de la Administración Municipal.
 
-II.- Pagar anualmente la cuota asignada por la renta del terreno o su mantenimiento.
+II. Pagar anualmente la cuota asignada por la renta del terreno o su mantenimiento.
 
-III.- Conservar en buen estado las fosas, gavetas, criptas y monumentos.
+III. Conservar en buen estado las fosas, gavetas, criptas y monumentos.
 
-IV.- Solicitar a la Autoridad correspondiente el permiso de construcción.
+IV. Solicitar a la autoridad correspondiente el permiso de construcción de cercos o gavetas.
 
-V.- Retirar de inmediato los escombros que se ocasionan por la construcción de gavetas, criptas o monumentos.
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+V. Retirar de inmediato los escombros que se ocasionan por la construcción de gavetas, criptas o monumentos.
 
 VI. Solicitar a la Secretaría de Servicios Públicos autorización para realizar mejoras en las tumbas de los panteones municipales, así como cubrir las tarifas correspondientes antes de realizar las mejoras; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2014)</small>
-
 VII. Las demás que se establezcan en este ordenamiento.
+
+A fin de cumplir con lo dispuesto por la fracción IV, el solicitante deberá cumplir con la entrega de los siguientes requisitos para realizar el trámite:
+
+I. Último Recibo de Renta de la tumba ó Título de Derecho de Uso a Perpetuidad.
+
+II. Identificación oficial vigente del Solicitante y acta de nacimiento (Original y Copia)
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 38 BIS. Los plazos establecidos para dar respuesta a los trámites de una solicitud de construcción de cercos o gavetas son:
+
+I. Plazo máximo de respuesta cuando se cumpla con todos los requisitos establecidos es de 1 día;
+
+II. Plazo de Prevención para la revisión de documentos es de 5 días;
+
+III. Plazo para subsanar prevención por parte del solicitante es de 1 día posterior a su requerimiento;
+
+IV. Término de la vigencia: Un mes a partir de la fecha de su emisión.
 
 ## TITULO QUINTO
 
@@ -694,3 +834,9 @@ P.O. 27 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE PANTEONES DEL MUNICIPIO DE MONTERREY”.]
 
 ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial
+
+P.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DE PANTEONES DEL MUNICIPIO DE MONTERREY, N.L".]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
