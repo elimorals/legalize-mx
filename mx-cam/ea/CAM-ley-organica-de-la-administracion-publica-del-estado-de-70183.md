@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2018-05-25"
+last_updated: "2018-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -55,17 +57,15 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos de orden admi
 
 El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien podrá conferir sus facultades delegables a los funcionarios que estime pertinente, sin perder la posibilidad de ejercerlas directamente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 4.
 
-El Gobernador, en ejercicio de su atribución constitucional de representante del Estado de Campeche, podrá celebrar convenios y acuerdos de coordinación, colaboración y demás actos afines con la Federación, con otras Entidades Federativas, con los Municipios del Estado, con las entidades paraestatales, federales, estatales y municipales y con los organismos públicos autónomos federales y estatales, con el objeto de favorecer el desarrollo estatal.
-
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+La o el Gobernador, en ejercicio de su atribución constitucional de representante del Estado de Campeche, podrá celebrar convenios y acuerdos de coordinación, colaboración, concertación y demás actos afines con la Federación, con otras Entidades Federativas, con los Municipios del Estado, con las Entidades Paraestatales, Federales, Estatales y Municipales, con las Empresas Productivas del Estado, de propiedad del Gobierno Federal o de la Administración Pública Estatal, y con los Organismos Públicos Autónomos Federales y Estatales, con el objeto de favorecer el desarrollo estatal, así como con personas físicas o morales, de carácter público o privado.
 
 Asimismo, podrá celebrar convenios de colaboración y concertación con personas físicas y morales del sector privado, con el mismo objeto.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
-
-Sin perjuicio de lo anterior, los titulares de las dependencias quedan facultados para que, en representación del Estado, suscriban convenios, contratos y demás actos jurídicos, dentro del ámbito de sus atribuciones, con la Federación, con las demás Entidades Federativas, con los Municipios de la Entidad y con otras personas, físicas o morales, de carácter público o privado.
+Sin perjuicio de lo anterior, las y los Titulares de las Dependencias quedan facultados también para que, en representación del Estado, suscriban, dentro del ámbito de sus atribuciones, los mismos actos jurídicos contractuales a que se refiere el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
@@ -107,13 +107,25 @@ IX. La conjugación de acciones de desarrollo con políticas y normas que garant
 
 X. La juridicidad de los actos de gobierno, la revisión y adecuación de la organización de la administración, la programación de su gasto y el control de su ejercicio.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 7.
 
-El Gobernador del Estado podrá formar comisiones de ciudadanos para asuntos de interés público como cuerpos temporales no gubernamentales, a efecto de permitir la libre expresión de opiniones y recomendaciones de la sociedad respecto del mejoramiento de la administración pública.
+La o el Gobernador del Estado está facultado para crear los gabinetes especializados que estime convenientes para la buena marcha de la Administración Pública Estatal.
 
-Para los mismos efectos, también podrá formar comisiones mixtas integradas por particulares, personas físicas o morales y titulares o representantes de las dependencias y entidades de la administración pública estatal, cuyo funcionamiento se regirá por las disposiciones del Acuerdo que las cree; e invitar a formar parte de las mismas a representantes de las dependencias y entidades de la administración pública federal y/o de los gobiernos de los municipios del Estado.
+Los gabinetes especializados son instancias gubernamentales de coordinación que evalúan, proponen y definen la política del Gobierno Estatal en materias que son de la competencia concurrente de varias Dependencias o Entidades de la Administración Pública Estatal.
+
+Para su funcionamiento, cada gabinete especializado contará con un Secretario Técnico, y sus atribuciones, así como su estructura, serán las que determine el o los acuerdos que al efecto emita el Gobernador del Estado.
+
+Las reuniones de los gabinetes especializados, serán convocadas por la o el Gobernador del Estado, o previa instrucción de éste, por el Secretario Técnico.
+
+Los acuerdos que dicte el Ejecutivo Estatal en el seno de los gabinetes especializados tendrán el carácter de prioritarios en la operación general de cada uno (sic) de las Dependencias y Entidades que los conformen.
+
+La o el Gobernador del Estado podrá formar comisiones de ciudadanas y ciudadanos para asuntos de interés público como cuerpos temporales no gubernamentales, a efecto de permitir la libre expresión de opiniones y recomendaciones de la sociedad respecto del mejoramiento de la Administración Pública Estatal.
+
+Para los mismos efectos también podrá formar comisiones mixtas integradas por particulares, personas físicas o morales, y Titulares o representantes de las Dependencias y Entidades de la Administración Pública Estatal, cuyo funcionamiento se regirán por las disposiciones del Acuerdo que las cree; además podrá invitar a formar parte de las mismas a representantes de las Dependencias y Entidades de la Administración Pública Federal y/o de la Administración Pública de los Municipios del Estado.
+
+La o el Gobernador del Estado podrá formar, a través de la emisión del Acuerdo respectivo, Comisiones Especiales para atender problemáticas de gran relevancia para la Entidad o para temas específicos que sean de atención prioritaria. Estas Comisiones Especiales podrán integrarse tanto con las y los Titulares de las Dependencias y Entidades de la Administración Pública Estatal, así como con particulares, especialistas, académicas o académicos, investigadoras o investigadores reconocidos, así como con cualquier persona que tenga conocimiento en la problemática o temas a tratar. Estas Comisiones Especiales tendrán la duración necesaria para resolver la problemática o el tema específico que genere la formación de la Comisión.
 
 ###### Artículo 8.
 
@@ -174,6 +186,16 @@ Tratándose de las iniciativas de Ley y de los decretos promulgatorios de las le
 ###### Artículo 15.
 
 Para que los acuerdos, lineamientos, órdenes, reglamentos, circulares y demás disposiciones administrativas de carácter general obliguen, deberán ser publicados en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 15 Bis.
+
+Todas las Dependencias y Entidades de la Administración Pública Estatal contarán con Unidades de Igualdad de Género, las cuales tendrán como objeto garantizar de manera efectiva el derecho fundamental a la igualdad entre hombres y mujeres, a través del fomento, promoción y generación de acciones y políticas públicas, dentro de su marco competencial.
+
+Estas Unidades de Igualdad de Género funcionarán como comités y estarán integradas por tres servidoras y servidores públicos, procurando la paridad de género en su integración. De estas y estos integrantes, una o uno será la o el Titular, una o uno será la o el Secretario y una o uno será la o el Vocal.
+
+El Ejecutivo Estatal emitirá los lineamientos para la organización y funcionamiento de las Unidades de Igualdad de Género.
 
 ### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -243,11 +265,25 @@ El Gobernador del Estado estará facultado para crear, suprimir o fusionar, a tr
 
 El Gobernador del Estado tendrá facultades para crear órganos administrativos desconcentrados, que subordinará jerárquicamente a la dependencia que corresponda, así como para dictar su desaparición cuando lo estime conveniente.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 18 Bis.
+
+La o el Titular del Poder Ejecutivo Estatal contará en cada uno de los Municipios del Estado de Campeche con las Delegaciones Municipales de Programas para el Desarrollo del Estado de Campeche, que tendrán a su cargo la coordinación e implementación de planes, programas y acciones para el desarrollo social, funciones de atención ciudadana, la supervisión de los servicios y programas a cargo de las Dependencias y Entidades de la Administración Pública Estatal, así como la supervisión de los programas que ejercen algún beneficio directo a la población.
+
+Las Delegaciones Municipales de Programas para el Desarrollo del Estado de Campeche serán coordinadas, para la implementación de las funciones descritas en este artículo, por la Coordinación General de Programas para el Desarrollo del Estado de Campeche. Estas Delegaciones estarán adscritas, jerárquica y orgánicamente a la Secretaría de Desarrollo Social y Humano y sus Titulares serán designados por la o el Titular de la Secretaría de Desarrollo Social y Humano, a propuesta de la Coordinación General de Programas para el Desarrollo del Estado de Campeche.
+
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
 El Gobernador del Estado determinará cuáles dependencias de la administración pública estatal deberán coordinarse con las dependencias del gobierno federal y de los gobiernos municipales, para el cumplimiento de los propósitos del Ejecutivo Estatal.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 19 Bis.
+
+Las Dependencias de la Administración Pública Estatal enviarán a la Consejería Jurídica del Poder Ejecutivo Estatal los proyectos de iniciativas de leyes o decretos a ser sometidos al H. Congreso del Estado, por lo menos con treinta días naturales previos a la fecha en que se pretendan presentar, salvo en los casos de las Iniciativas de Ley de Ingresos y Ley de Presupuesto de Egresos, de los ejercicios fiscales que correspondan, y en aquellas iniciativas de notoria urgencia a consideración de la o el Gobernador; en su caso, estas últimas serán sometidas a la o el Depositario del Poder Ejecutivo Estatal por conducto de la Consejería Jurídica.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -335,9 +371,9 @@ XV. Promover, planear, normar y dirigir proyectos de movilidad sustentable para 
 
 XVI. Integrar los expedientes relativos a los nombramientos de notarios públicos que expide el Ejecutivo; inspeccionar su ejercicio, llevar el libro de registro y Archivo General de las Notarías del Estado y ejercer las atribuciones de conformidad con la legislación notarial;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
-XVII. Tramitar lo referente a los términos de los artículos 78, 81 y 86 de la Constitución Política del Estado de Campeche;
+XVII. Tramitar lo referente a los artículos 78 y 86 de la Constitución Política del Estado de Campeche;
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -589,9 +625,13 @@ III. Autorizar y controlar las nóminas y plantillas del personal adscrito a las
 
 IV. Capacitar y adiestrar a los servidores públicos de las dependencias de la Administración Pública Estatal, para su desarrollo profesional y el mejoramiento continuo de la función pública;
 
-V. Tramitar con acuerdo del Ejecutivo, lo relativo a nombramientos, remociones, renuncias, licencias, ausencias temporales o accidentales y jubilaciones de los Titulares de las Dependencias a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
-VI. Expedir y tramitar, con acuerdo del Ejecutivo, los nombramientos, remociones, renuncias, licencias y jubilaciones de los demás servidores públicos de la Administración Pública Centralizada Estatal;
+V. Tramitar con acuerdo de la o el Gobernador del Estado, lo relativo a nombramientos, remociones, renuncias, licencias, ausencias temporales o accidentales y jubilaciones de los Titulares de las Dependencias a que se refiere esta ley;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+VI. Expedir y tramitar, con acuerdo de la o el Gobernador del Estado, los nombramientos, remociones, renuncias, licencias y jubilaciones de los demás servidores públicos de la Administración Pública Centralizada Estatal;
 
 VII. Formular, establecer y publicar el Calendario Oficial de Labores incluido el horario de las dependencias de la Administración Pública Estatal;
 
@@ -779,21 +819,19 @@ Las unidades encargadas de la función de la auditoría de la Secretaría de la 
 
 Los titulares de las unidades encargadas de la función de la auditoría de la Secretaría de la Contraloría y de órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa del Estado de Campeche y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción del Estado; así como un informe detallado del porcentaje en los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe. Con base en los informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Anticorrupción del Estado de Campeche, tanto las dependencias y entidades, así como la Secretaría de la Contraloría, implementarán las acciones pertinentes para mejora de la gestión. Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Anticorrupción del Estado de Campeche, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 25.
 
 A la Secretaría de Planeación le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
-
 I. Formular y proponer al Gobernador del Estado la política de Planeación de la Administración Pública Estatal;
 
-II. Coordinar la integración, evaluación y actualización del Plan Estatal de Desarrollo, y supervisar su cumplimiento;
+II. Coordinar en el seno del Comité de Planeación para el Desarrollo del Estado de Campeche, la formulación, instrumentación y control, en su caso actualización, del Plan Estatal de Desarrollo, incluyendo la definición de las políticas para la programación del gasto e inversión pública; así como su diagnóstico y utilizando indicadores que muestren su factibilidad económica y social;
 
 III. Proponer y diseñar, en coordinación con las dependencias y entidades de la administración pública estatal, los programas sectoriales, institucionales y especiales derivados del Plan Estatal de Desarrollo;
 
-IV. Coordinar el Sistema Estatal de Planeación Democrática y procurar su alineamiento con el Sistema Nacional de Planeación;
+IV. Coordinar el Sistema Estatal de Planeación Democrática y procurar su alineamiento con el Sistema Nacional de Planeación; y con los objetivos de Desarrollo Sostenible de la Agenda 2030 de la Organización de las Naciones Unidas;
 
 V. Proporcionar asistencia técnica a los HH. Ayuntamientos de los Municipios para la formulación de sus Planes Municipales de Desarrollo;
 
@@ -821,17 +859,25 @@ XVI. Atender las acciones de apoyo técnico que le encomiende el Gobernador del 
 
 XVII. Proponer al Gobernador del Estado temas de interés sustantivo que puedan ser abordados en las reuniones de gabinete;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
-
 XVIII. Dar puntual seguimiento de las actividades del Gobernador del Estado con objeto de recopilar los materiales y generar los contenidos para la integración de las publicaciones, crónicas y acervos que den cuenta de las políticas, programas, obras y acciones de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
 
 XIX. Coordinar la integración del Programa Anual de Inversión Pública; y
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2017)</small>
+XX. Coordinar el control y la evaluación del Plan Estatal de Desarrollo, para adecuarlo a las previsiones de los planes que formule el Ejecutivo Federal e incidan localmente, así como coadyuvar al oportuno cumplimiento de sus objetivos y metas;
 
-XX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+XXI. Evaluar sistemáticamente el desarrollo y el impacto socioeconómico que produzcan los programas y acciones que deriven del Sistema Estatal de Planeación;
+
+XXII. Aprobar y evaluar los programas derivados del Plan Estatal de Desarrollo, revisando periódicamente su impacto, así como el cumplimiento de sus objetivos, metas y acciones para promover su corrección, modificación, adición, reorientación o suspensión en coordinación con las Dependencias y Entidades de la Administración Pública Estatal responsables de los mismos;
+
+XXIII. Analizar y autorizar los recursos del Programa Anual de Inversión Pública, conforme a las prioridades del Plan Estatal de Desarrollo, para que la Secretaría de Finanzas integre el proyecto de Ley de Presupuesto de Egresos;
+
+XXIV. Convenir y coordinar con las Dependencias y Entidades de la Administración Pública Federal los programas de inversión a realizarse en la Entidad;
+
+XXV. Promover la realización de proyectos a través de organismos gubernamentales, consultorías especializadas, organismos no gubernamentales, fondos de fomento y convenios existentes con otros Gobiernos, sean estos locales, nacionales e internacionales;
+
+XXVI. Auxiliar a la o el Gobernador del Estado en la instrumentación de la política de asentamiento y desarrollo territorial y urbano; y asegurar que los programas en esta materia sean congruentes con los objetivos, políticas y metas establecidos por los Planes Estatal y Municipal de Desarrollo señalados en la Ley de Planeación; y
+
+XXVII. Las demás atribuciones que señalen las leyes y reglamentos vigentes del Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -881,7 +927,9 @@ XVIII. Fomentar y dirigir la enseñanza y práctica del deporte en el medio esco
 
 XIX. Vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
 
-XX. Normar, aprobar y autorizar las certificaciones de estudio de las escuelas públicas y privadas de acuerdo a los lineamientos establecidos para cada caso por parte de la Federación;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XX. Normar, aprobar y autorizar la emisión de los Certificados y Certificaciones, Títulos Profesionales y Grados Académicos de las Instituciones Educativas del ámbito estatal, de acuerdo con la normatividad aplicable;
 
 XXI. Controlar los registros de profesiones, colegios, asociaciones, títulos, certificados, conforme a la legislación y reglamentación correspondiente; y
 
@@ -999,11 +1047,11 @@ XIX. Desarrollar actividades para el mejoramiento y especialización de los serv
 
 XX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 29.
 
-A la Secretaría de Desarrollo Social y Humano le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Social y Humano le corresponde el despacho de los siguientes asuntos
 
 I. Formular y conducir la política estatal del desarrollo social y humano para superar la pobreza, la marginación y mejorar los índices de desarrollo humano, conforme a lo establecido en el Plan Estatal de Desarrollo y acorde a la legislación y normatividad establecida en la materia;
 
@@ -1015,7 +1063,7 @@ IV. Fortalecer el desarrollo, la inclusión y la cohesión social en el Estado m
 
 V. Promover la construcción de obras de infraestructura y equipamiento para fortalecer el desarrollo y la inclusión social, en coordinación con las diferentes instancias de los tres órdenes de gobierno y con la participación de los sectores social y privado;
 
-VI. Promover, organizar y ejecutar, en coordinación con la Secretaría de Cultura, proyectos y actividades artísticas y culturales para fortalecer la cohesión e inclusión social, la igual dad (sic) de oportunidades y la no discriminación que favorezca el desarrollo social y humano;
+VI. Promover, organizar y ejecutar, en coordinación con la Secretaría de Cultura, proyectos y actividades artísticas y culturales para fortalecer la cohesión e inclusión social, la igualdad de oportunidades y la no discriminación que favorezca al desarrollo social y humano;
 
 VII. Proponer, ejecutar y supervisar los acuerdos de coordinación y los convenios de coinversión que en materia de desarrollo social conviene el Estado con la Federación y con los Municipios, así como con organismos privados y sociales, tanto nacionales como internacionales;
 
@@ -1027,7 +1075,13 @@ X. Fortalecer la coordinación institucional con los tres órdenes de gobierno p
 
 XI. Colaborar con los municipios para promover el desarrollo institucional municipal, con la finalidad de fortalecer sus capacidades de gestión vinculadas al desarrollo social;
 
-XII. Estimular y fomentar la organización de personas, familias y grupos sociales, destinando recursos públicos para proyectos productivos en materia de desarrollo social; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades;
+XII. Estimular y fomentar la organización de personas, familias y grupos sociales, destinando recursos públicos para proyectos productivos en materia de desarrollo social; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades.
+
+Integrar el registro de las organizaciones de la sociedad civil del Estado, así como lo relativo a la inscripción y otorgamiento de constancias de inscripción a las organizaciones que lo soliciten.
+
+Ofrecer y mantener actualizada la información relativa a las organizaciones, a Dependencias, Entidades de la Administración Pública Estatal y a la ciudadanía en general con el fin de verificar el cumplimiento de las obligaciones relativas a la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Campeche.
+
+Procurar el establecimiento de convenios de coordinación con la Dependencia o Entidad Federal encargada del registro de organizaciones a nivel federal, a efecto de facilitar la obtención del registro local por parte de las asociaciones que ya cuenten con el registro federal; así como las demás facultades que deriven de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Campeche;
 
 XIII. Fortalecer la organización social, coordinando y promoviendo la participación directa de la comunidad en proyectos productivos y de bienestar social;
 
@@ -1045,11 +1099,11 @@ XIX. Definir la política estatal de atención a la Juventud para mejorar las co
 
 XX. Diseñar, desarrollar, administrar y mantener actualizado un sistema de información que fortalezca la transparencia y rendición de cuentas de las aportaciones federales para el Estado y Municipios en materia de desarrollo social y que apoye a ambos órdenes de gobierno en la planeación para la inversión en proyectos en materia de desarrollo social que disminuyan la pobreza y el rezago social;
 
-XXI. Coordinar y dirigir la integración del Padrón de Beneficiarios de los Programas de Desarrollo Social que se ejecuten en la Entidad; y
+XXI. Coordinar y dirigir la integración del Padrón de Beneficiarios de los Programas de Desarrollo Social que se ejecuten en la Entidad y, en su caso, depurar sus duplicidades;
 
-XXII. Gestionar, solicitar y tramitar la obtención de donativos y donaciones en efectivo o en especie, indemnizaciones o contraprestaciones ante Petróleos Mexicanos, sus empresas productivas subsidiarias y sus empresas filiales o cualquier otra dependencia o entidad paraestatal en materia de energía para su otorgamiento al Estado de Campeche, en el ámbito de su competencia, ajustándose, en su caso, a los documentos contractuales que al efecto se suscriban
+XXII. Coordinar, en conjunto con la Coordinación General de Programas para el Desarrollo del Estado de Campeche, las Delegaciones Municipales de Programas para el Desarrollo, así como la planeación, ejecución y evaluación de los planes, programas y acciones que desarrollen; y
 
-XXIII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
+XXIII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
@@ -1107,7 +1161,13 @@ XXIV. Promover en el ámbito de su competencia, proyectos de educación y sensib
 
 XXV. Promover acciones de apoyo para el aprovechamiento de las energías renovables;
 
-XXVI. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXVI. Gestionar, solicitar y tramitar la obtención de donativos y donaciones en efectivo o especie, indemnizaciones o contraprestaciones ante Petróleos Mexicanos, sus empresas productivas subsidiarias y sus empresas filiales o cualquier otra Dependencia o Entidad Paraestatal en materia de energía para su otorgamiento al Estado de Campeche, en el ámbito de su competencia, ajustándose, en su caso, a los documentos contractuales que al efecto se suscriban; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXVII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1221,7 +1281,9 @@ XVI. En coordinación con la Secretaría de Desarrollo Económico, apoyar los se
 
 XVII. Impulsar y apoyar las investigaciones científicas en materia agropecuaria, apícola y forestal en colaboración con las instituciones de investigación y educación superior, así como promover nuevos proyectos de investigación sobre temas y/o productos estratégicos en el Estado y propiciar la transferencia de nuevas tecnologías productivas a los productores;
 
-XVIII. Programar, apoyar, realizar, conservar, operar y mejorar las obras de infraestructura productiva;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Programar, apoyar, realizar, conservar, rehabilitar, operar y mejorar las obras de infraestructura productiva agropecuaria, dentro de las que se encuentran pozos, sistemas de riego, caminos o vías de acceso a zonas de producción y todas aquellas que tengan por objeto el incremento de la productividad y rentabilidad de las actividades económicas del campo;
 
 XIX. Integrar, llevar y actualizar los diversos directorios, padrones de productores, registros ganaderos de marcas, fierros y señales, así como de laboratorios, rastros y empacadoras;
 
@@ -1389,7 +1451,17 @@ XI. Intervenir en los procedimientos de otorgamiento, revocación o modificació
 
 XII. Promover, en coordinación con los Municipios, en estricto apego a la legislación correspondiente, la implementación de una nueva regulación de usos de suelo para impulsar proyectos de ciudades sustentables y nuevos paradigmas de movilidad sustentable y accesibilidad; y
 
-XIII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XIII. Expedir disposiciones administrativas para los contratos de obras y servicios relacionados con las mismas, así como para normar los acuerdos que las Dependencias y Entidades celebren para la ejecución de obra y servicios por administración directa, de conformidad con la legislación y normatividad correspondiente;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XIV. Determinar los incrementos o decrementos de los costos de los insumos de las obras; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XV. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1611,7 +1683,13 @@ XXXV. Auxiliar a la policía federal y a las policías de otras entidades federa
 
 XXXVI. Vigilar y monitorear la red pública de Internet con el fin de prevenir conductas delictivas que afecten a la Entidad; y
 
-XXXVII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXXVII. Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva y las condiciones a cargo del imputado en caso de suspensión provisional del proceso, así como hacer sugerencias sobre cualquier cambio que amerite alguna modificación de las medidas cautelares y obligaciones impuestas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+XXXVIII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1843,6 +1921,10 @@ V. La representación del Poder Ejecutivo del Estado de Campeche en la Ciudad de
 
 VI. El Comisionado de Asuntos Internacionales;
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+VII. La Coordinación General de Programas para el Desarrollo del Estado de Campeche.
+
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 43.
@@ -2059,6 +2141,14 @@ XVI. Requerir a las dependencias y entidades de la administración pública esta
 
 XVII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes, así como las que el Gobernador del Estado le encomiende.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 47 Bis.
+
+La Coordinación General de Programas para el Desarrollo del Estado de Campeche tiene como objeto, en conjunto con la Secretaría de Desarrollo Social y Humano, coordinar a las Delegaciones Municipales de Programas para el Desarrollo en la implementación de sus atribuciones, conforme a lo dispuesto en esta Ley y en las disposiciones legales y administrativas aplicables.
+
+La Coordinación General de Programas para el Desarrollo del Estado de Campeche tendrá las atribuciones que se le establezcan en el Reglamento Interior de la Oficina del Gobernador, así como todas las que le encomiende la o el Gobernador del Estado.
+
 ### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
 ###### Artículo 48.
@@ -2073,9 +2163,11 @@ I. Que su patrimonio se constituya total o parcialmente con recursos o bienes de
 
 II. Que su objetivo o fines sean la prestación de un servicio público o social, la explotación de bienes o recursos estatales, la investigación científica o tecnológica y la obtención o aplicación de recursos para fines de asistencia o seguridad social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 50.
 
-Son empresas de participación estatal mayoritaria, las sociedades de cualquier naturaleza que satisfagan alguno o varios de los siguientes requisitos:
+Son empresas de participación estatal mayoritaria, las personas morales que satisfagan alguno de los siguientes requisitos:
 
 I. Que el Estado o uno o más organismos de la administración pública paraestatal, conjunta o separadamente, aporten o sean propietarios de más del cincuenta por ciento de su capital social;
 
@@ -2213,7 +2305,7 @@ Décimo.- El Gobernador del Estado promoverá las iniciativas correspondientes a
 
 P.O. 22 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 100 POR EL QUE “SE REFORMAN EL ARTÍCULO 22 Y LA FRACCIÓN I DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 100 POR EL QUE "SE REFORMAN EL ARTÍCULO 22 Y LA FRACCIÓN I DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
 
 PRIMERO.- Las modificaciones a las disposiciones contenidas en la Ley Orgánica de la Administración Pública del Estado de Campeche entrarán en vigor al día siguiente de la publicación de este decreto en el Periódico Oficial del Estado de Campeche. El sistema de registros y control de las erogaciones personales deberá estar en operación a más tardar el 1 de enero de 2018.
 
@@ -2225,7 +2317,7 @@ CUARTO.- El Ejecutivo del Estado expedirá el Reglamento Interior del Servicio d
 
 QUINTO.- La Secretaría establecerá los mecanismos para la readscripción de los trabajadores de base que vienen prestando sus servicios a la misma, y que deban incorporarse al Servicio de Administración Fiscal del Estado de Campeche. Los derechos de estos trabajadores serán respetados y en ningún caso serán afectados por la reorganización que implica el presente ordenamiento.
 
-SEXTO.- Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaria de Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche o cualquier otra disposición jurídica que emane de ellos.
+SEXTO.- Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche o cualquier otra disposición jurídica que emane de ellos.
 
 SÉPTIMO.- Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren en trámite ante alguna de las unidades administrativas de la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría y que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, o los recursos administrativos interpuestos en contra de actos o resoluciones de tales unidades administrativas, se seguirán tramitando ante el Servicio de Administración Fiscal del Estado de Campeche y serán resueltos por el mismo, cuando se encuentren vinculados con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche y cualquier otra disposición jurídica que emane de ellos.
 
@@ -2241,7 +2333,7 @@ DÉCIMO SEGUNDO.- El Servicio de Administración Fiscal del Estado de Campeche p
 
 DÉCIMO TERCERO.- Las referencias que se hacen y atribuciones que se otorgan en el Código Fiscal del Estado de Campeche y en otras leyes, reglamentos, acuerdos y demás disposiciones jurídicas del marco jurídico del Estado, a la Secretaría de Finanzas de la Administración Pública del Estado de Campeche o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche cuando se trate de atribuciones vinculadas con la materia objeto de la Ley que crea y regula dicho órgano o cualquier otra disposición jurídica que emane de ellos.
 
-DÉCIMO CUARTO.- Las facultades conferidas al Estado de Campeche en el o los convenios de Colaboración Administrativa en materia Fiscal Federal y sus anexos, celebrados entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Campeche, así como todos los Convenios de Colaboración Administrativa en materia Hacendaria de Ingresos celebrados entre el Estado de Campeche y sus municipios, se entenderán también conferidas todas esas facultades al Órgano Administrativo Desconcentrado denominado “Servicio de Administración Fiscal del Estado de Campeche”.
+DÉCIMO CUARTO.- Las facultades conferidas al Estado de Campeche en el o los convenios de Colaboración Administrativa en materia Fiscal Federal y sus anexos, celebrados entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Campeche, así como todos los Convenios de Colaboración Administrativa en materia Hacendaria de Ingresos celebrados entre el Estado de Campeche y sus municipios, se entenderán también conferidas todas esas facultades al Órgano Administrativo Desconcentrado denominado "Servicio de Administración Fiscal del Estado de Campeche".
 
 DÉCIMO QUINTO.- Los asuntos pendientes de resolver por la Secretaría de Finanzas de la Administración Pública del Estado de Campeche a la entrada en vigor de este decreto, cuyas facultades se sustenten en el Código Fiscal del Estado, los resolverá el Servicio de Administración Fiscal del Estado de Campeche, salvo disposición específica en contrario.
 
@@ -2281,8 +2373,48 @@ Sexto.- El Ejecutivo Estatal, en un plazo no mayor a 90 días, deberá hacer las
 
 P.O. 25 DE MAYO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 268 POR EL QUE "SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 268 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 29 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 15 BIS, EL 18 BIS, 19 BIS, LA FRACCIÓN XXVII AL ARTÍCULO 30; LAS FRACCIONES XIV Y XV AL ARTÍCULO 35; LA FRACCIÓN XXXVIII AL ARTÍCULO 38; LA FRACCIÓN VII AL ARTÍCULO 42 Y EL ARTÍCULO 47 BIS Y SE REFORMAN EL ARTÍCULO 4, EL ARTÍCULO 7, LA FRACCIÓN XVII DEL ARTÍCULO 21; LAS FRACCIONES V Y VI DEL ARTÍCULO 23; EL ARTÍCULO 25; LA FRACCIÓN XX DEL ARTÍCULO 26; EL ARTÍCULO 29; LA FRACCIÓN XXVI DEL ARTÍCULO 30; LA FRACCIÓN XVIII DEL ARTÍCULO 32; LA FRACCIÓN XIII DEL ARTÍCULO 35; LA FRACCIÓN XXXVII DEL ARTÍCULO 38 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 50, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Campeche.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado tendrá ciento ochenta días a partir de la entrada en vigor del presente decreto, para modificar los Reglamentos Interiores de la Secretaría de Desarrollo Social y Humano y de la Oficina del Gobernador.
+
+###### ARTÍCULO TERCERO.
+
+Para la creación y operación de las Delegaciones Municipales de Programas para el Desarrollo del Estado de Campeche, se utilizarán los recursos humanos y materiales con los que ya cuenta la Secretaría de Desarrollo Social y Humano.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de las modificaciones a los Reglamentos Interiores referidos en el Artículo Segundo Transitorio del presente decreto, la Secretaría de Desarrollo Social y Humano contará con treinta días para designar a las o los Titulares de las Delegaciones Municipales para el Desarrollo del Estado de Campeche, conforme a lo dispuesto en el presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal tendrá un plazo de noventa días, contados a partir de la entrada en vigor del presente decreto, para proponer modificaciones a la Ley de Obras Públicas del Estado de Campeche para que, de conformidad con lo establecido en esta Ley Orgánica de la Administración Pública Estatal, modifique toda referencia hecha a la SEDESO y se armonice con lo dispuesto en esta Ley.
+
+Asimismo, toda referencia hecha a la SEDESO en el Reglamento de la Ley de Obras Públicas del Estado de Campeche, se entenderán hechas a la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura, en lo que corresponda a sus atribuciones, de conformidad con el presente decreto y con la Ley Orgánica de la Administración Pública Estatal vigente.
+
+###### ARTÍCULO SEXTO.
+
+Las Dependencias de la Administración Pública Estatal que con motivo de este decreto deban modificar sus Reglamentos Interiores, tendrán un plazo de treinta días contados a partir de la entrada en vigor del presente decreto para realizar dichas modificaciones.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones legales y reglamentarias, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Las Unidades de Igualdad de Género, a las que hace referencia el presente decreto, deberán instalarse dentro de un plazo no mayor a sesenta días, contados a partir de la entrada en vigor de este decreto. Cada una de las Dependencias y Entidades conformará sus Unidades de Igualdad de Género con las y los servidores públicos que se encuentren dentro de su estructura orgánica.
+
+El Ejecutivo Estatal tendrá un plazo no mayor a noventa días, contados a partir de la entrada en vigor de este decreto, para emitir los lineamientos a los que hace referencia el artículo 15 bis del mismo.
