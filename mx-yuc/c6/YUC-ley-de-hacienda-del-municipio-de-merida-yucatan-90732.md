@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2017-12-22"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -397,6 +397,8 @@ La existencia de personal de guardia no habilita los días en que se suspendan l
 
 #### Sección Sexta. Del pago ajustado a pesos
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 26.
 
 El Director de Finanzas y Tesorero Municipal, a petición que formulen por escrito el contribuyente, podrá autorizar el pago en parcialidades de los créditos fiscales sin que dicho plazo exceda de doce meses. Para el cálculo de la cantidad a pagar, se determinará el crédito fiscal omitido a la fecha de la autorización.
@@ -445,7 +447,7 @@ IV.- La indemnización a que se refiere el artículo 35 de esta ley.
 
 ###### ARTÍCULO 28.
 
-Para determinar las contribuciones, los productos y los aprovechamientos, se considerarán inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que los que contengan cantidades que incluyan de 1 hasta 49 centavos se ajusten a la unidad inmediata anterior y los que contengan cantidades de 50 a 99 centavos, se ajusten a la unidad inmediata superior.
+Para determinar las contribuciones, los productos y los aprovechamientos, se considerarán inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que los que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior y los que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
 #### Sección Novena. De las Licencias de Funcionamiento
 
@@ -501,7 +503,9 @@ Las licencias de funcionamiento serán expedidas por la Dirección de Finanzas y
 
 Tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del periodo constitucional de la administración municipal que la expidió, salvo que fueran revalidadas en los términos y condiciones que marca esta Ley.
 
-No obstante lo dispuesto en el párrafo anterior, durante el tiempo de la vigencia de la licencia de funcionamiento, con excepción de la Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro los treinta días hábiles siguientes al vencimiento de los mismos. Una vez vencido este término sin que se haya cumplido con éstas obligaciones, el Director de Finanzas y Tesorero Municipal o el Subdirector de Ingresos estarán facultados para revocar la licencia que corresponda, sin perjuicio de las sanciones a que se refiere la fracción I y último párrafo del artículo 177 de esta Ley.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
+
+No obstante lo dispuesto en el párrafo anterior, durante el tiempo de la vigencia de la licencia de funcionamiento, con excepción de la Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro de los treinta días hábiles siguientes al vencimiento de los mismos. Una vez vencido este término sin que se haya cumplido con éstas obligaciones, el Director de Finanzas y Tesorero Municipal o el Subdirector de Ingresos estarán facultados para revocar la licencia que corresponda, sin perjuicio de las sanciones a que se refiere la fracción II y último párrafo del artículo 177 de esta Ley.
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -757,9 +761,9 @@ De la base Valor Catastral
 
 Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que, de conformidad con el Reglamento del Catastro del Municipio de Mérida, expedirá la Dirección de Catastro del Municipio de Mérida.
 
-> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
-En todo lo no previsto en el Reglamento del Catastro del Municipio de Mérida, se aplicarán las disposiciones de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán (INSEJUPY) y su respectivo Reglamento.
+En todo lo no previsto en el Reglamento del Catastro del Municipio de Mérida, se aplicarán las disposiciones de la Ley del Catastro del Estado de Yucatán y de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán (INSEJUPY) y su respectivo Reglamento.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO CON SUS FRACCIONES], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -783,7 +787,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -791,7 +795,7 @@ II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas p
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 35 A LA 45.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 35 A LA 45; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 36 A LA 43.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -799,7 +803,7 @@ III.- Los valores unitarios para los terrenos ubicados en el periférico y las c
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 61 A LA 62.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59; 30 DE DICIEMBRE DE 2016, PÁGINA 44; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 45 A LA 46.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59; 30 DE DICIEMBRE DE 2016, PÁGINA 44; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 45 A LA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -811,7 +815,7 @@ IV.- Los valores unitarios para los locales correspondientes a las plazas comerc
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 62.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45; 22 DE DICIEMBRE DE 2017, PÁGINA 46.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45; 22 DE DICIEMBRE DE 2017, PÁGINA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -819,7 +823,7 @@ V.- Los valores unitarios para los diferentes tipos de construcción y factores 
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 63 A LA 64.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 60 A LA 63; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 48; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 46 A LA 51.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 60 A LA 63; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 48; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 46 A LA 51; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 45 A LA 49.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -977,6 +981,12 @@ I) DE ÁREA COMÚN EN CONDOMINIO
 
 Tratándose de predios en Régimen de Propiedad en Condominio, la superficie del área común de terreno podrá demeritarse con el factor de 0.20.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 28 DE DICIEMBRE DE 2018)</small>
+
+J) DE CONSTRUCCIÓN
+
+Dependiendo de la antigüedad de la construcción el valor unitario de la misma podrá demeritarse hasta con un factor de 0.50 adicional al factor de demérito aplicable a los valores unitarios de construcción en relación al valor unitario del terreno, este demérito será determinado por dictamen generado mediante diligencia solicitada a la Dirección de catastro.
+
 NOTA 1.- Los tablajes catastrales; así como los predios urbanos ubicados en las secciones catastrales de la 31 a la 50, podrán ser demeritados hasta con el factor 0.50, respecto de la superficie restante a la del lote tipo de 1,000.00 M2, siempre y cuando no se haya aplicado para el predio el factor de demérito por superficie.
 
 NOTA 2.- Los inmuebles cuyo uso o destino sea de vialidad podrán ser demeritados hasta con el factor de 0.20
@@ -984,6 +994,10 @@ NOTA 2.- Los inmuebles cuyo uso o destino sea de vialidad podrán ser demeritado
 NOTA 3.- En los casos en los que dentro de una misma unidad habitacional o sección catastral las características físicas no sean homogéneas, la Dirección de Catastro podrá, previa justificación, modificar el valor unitario de terreno siempre y cuando no sea a la alza y hasta con un factor de 0.40.
 
 NOTA 4.- Los inmuebles cuyo uso o destino sean áreas de donación para la federación, Estado o Municipio, podrán ser demeritados hasta con el coeficiente de 0.50.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 28 DE DICIEMBRE DE 2018)</small>
+
+NOTA 5.- En los casos en los que el predio se ubique en la zona 3 o 4 del Programa Municipal de Desarrollo Urbano de Mérida, la Dirección de Catastro podrá previa justificación, modificar el valor unitario de terreno hasta con un factor de 0.80.
 
 Los coeficientes de deméritos señalados en los incisos A), B), C), D), E), F), G) y H) no aplican en plazas comerciales. El coeficiente de demerito señalado en los incisos A), B), y C), podrá ser aplicado a tablajes catastrales, siempre que colinden con una vialidad constituida.
 
@@ -1875,9 +1889,13 @@ Por la prórroga de la licencia de construcción a que se refiere la fracción I
 
 V.- Constancia de Terminación de obra.
 
-a) Con superficie cubierta hasta 40 m2 0.03 Metro Cuadrado
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
-b) Con superficie cubierta mayor de 40 m2 y hasta 120 m2
+a) Con superficie cubierta hasta 45 m2 0.03 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
+
+b) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
 
 0.04 Metro Cuadrado
 
@@ -1892,6 +1910,20 @@ e) De excavación de zanjas en la vía pública 0.02 Metro Lineal
 f) De excavación distinta a la señalada en el inciso e) 0.03 Metro Cúbico
 
 g) De demolición distinta a la de bardas. 0.02 Metro Cuadrado
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
+
+h) De instalación de una torre de comunicación
+
+de una estructura monopolar para colocación
+
+de antena celular, de una base de concreto
+
+o adición de cualquier equipo de telecomunicación
+
+sobre una torre de alta tensión o sobre
+
+infraestructura existente. Por colocación por unidad 275 Constancia
 
 VI.- Licencia de Urbanización
 
@@ -2409,9 +2441,9 @@ Por cada cabeza de ganado por introductor al mes:
 
 Vacuno: Por las primeras 50 cabezas de ganado 4.0
 
-Vacuno: De la cabeza de ganado 51 a la 100 3.5
+> <small>(DEROGADO SEGUNDO CONCEPTO, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
-Vacuno: De la cabeza de ganado 101 en adelante 2.5
+> <small>(DEROGADO TERCER CONCEPTO, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
 Porcino:
 
@@ -3195,9 +3227,9 @@ En el caso de personas de escasos recursos el Director de Finanzas y Tesorero Mu
 
 El Director de Servicios Públicos Municipales o el Director de Desarrollo Social a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, el Departamento de Panteones de la Dirección de Servicios Públicos Municipales del Ayuntamiento de Mérida.
 
-#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Servicios Generales
+#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Residuos Sólidos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 104.
 
@@ -3323,13 +3355,13 @@ Cuando por su denominación algún establecimiento no se encuentre comprendido e
 
 El derecho correspondiente a la revalidación de la licencia de funcionamiento, para los establecimientos cuyo giro sea el expendio de bebidas alcohólicas y/o cerveza se incrementará en un cien por ciento si el titular no la obtuvo durante la administración municipal inmediata anterior.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
 #### Sección Décima Tercera. Derechos por los Servicios de Corralón y Grúa
 
 ###### ARTÍCULO 114.
 
-Por los servicios que presta la Subdirección de Servicios Generales se pagarán los siguientes derechos:
+Por los servicios que presta la Subdirección de Residuos Sólidos se pagarán los siguientes derechos:
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3343,19 +3375,9 @@ I.- Por el uso de vertederos propiedad del Municipio de Mérida:
 
 a) Por la recepción de lodos y aguas residuales en el sitio de tratamiento de aguas residuales por cada metro cúbico: 0.50
 
-II.- Por la recepción de cada perro o gato para su cuidado en el Centro Municipal de Control Animal (C.E.M.C.A.):
+II.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
-
-a) En las Instalaciones del C.E.M.C.A. 1.00
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
-
-b) En el Domicilio del solicitante 1.70
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
-
-III.- Por estancia de animales y/o recuperación de los mismos, que por alguna razón fueron capturados o decomisados y resguardados en el C.E.M.C.A., por día 3.00
+III.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2018)
 
 #### Sección Décima Cuarta. Derechos por el uso de Estacionamientos y Baños Públicos, propiedad del Municipio
 
@@ -3761,17 +3783,29 @@ Los derechos por los servicios a que se refiere la presente sección, se pagará
 
 I.- Por cada vehículo que entre con carga a las instalaciones de la Central de Abasto de Mérida, se pagará por concepto de acceso las siguientes cuotas, con base al número de ejes y capacidad del mismo, incluyendo en su caso el remolque o semiremolque que arrastre:
 
-a) De dos ejes, de hasta 3 toneladas 30.00 pesos
+> <small>(REFORMADO EN SU CANTIDAD, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
-b) De dos ejes, de más de 3 toneladas 80.00 pesos
+a) De dos ejes, de hasta 3 toneladas 1.0 U.M.A.
 
-c) De tres ejes 110.00 pesos
+> <small>(REFORMADO EN SU CANTIDAD, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
-d) De más de tres ejes 220.00 pesos
+b) De dos ejes, de más de 3 toneladas 2.0 U.M.A.
 
-II.- Por cada día de uso de andén para la exhibición o venta de productos, por cada área de frente a la bodega, de hasta 4 metros lineales: 20.00 pesos
+> <small>(REFORMADO EN SU CANTIDAD, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
-III.- Por cada 4 metros de frente de bodega, por concepto de mantenimiento y limpieza de las áreas e instalaciones de uso común, por mes: 90.00 pesos
+c) De tres ejes 3.0 U.M.A.
+
+> <small>(REFORMADO EN SU CANTIDAD, D.O. 28 DE DICIEMBRE DE 2018)</small>
+
+d) De más de tres ejes 6.0 U.M.A.
+
+> <small>(REFORMADA EN SU CANTIDAD, D.O. 28 DE DICIEMBRE DE 2018)</small>
+
+II.- Por cada día de uso de andén para la exhibición o venta de productos, por cada área de frente a la bodega, de hasta 4 metros lineales: 1.0 U.M.A.
+
+> <small>(REFORMADA EN SU CANTIDAD, D.O. 28 DE DICIEMBRE DE 2018)</small>
+
+III.- Por cada 4 metros de frente de bodega, por concepto de mantenimiento y limpieza de las áreas e instalaciones de uso común, por mes: 3.0 U.M.A.
 
 Cuando derivado de la aplicación de esta fracción III resulte un importe mayor a 1,100 pesos por mes, el derecho se considerará causado hasta por 1,100 pesos del pago.
 
@@ -5234,3 +5268,141 @@ a) Los predios, que como resultado de alguna modificación en su superficie de t
 b) Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior.
 
 Artículo Décimo Primero.- Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2018, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en todos los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
+
+D.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 18/2018 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, YUCATÁN".]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el uno de enero del año dos mil diecinueve, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que durante el ejercicio fiscal 2019 fueran modificadas mediante Sesión de Cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta, del Capítulo II, del Título Segundo, se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2019, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48 las bonificaciones se otorgarán de conformidad con la siguiente tabla:
+
+Mes en el que se paga el Factor de bonificación
+
+equivalente a una
+
+anualidad en una sola
+
+exhibición
+
+Enero 0.20
+
+Febrero 0.10
+
+Marzo 0.08
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año 2019.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2019, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2019, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2019, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2019.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2019, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2019 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SEXTO.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2019, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre de 2018.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si durante el ejercicio fiscal 2019 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 45 de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+###### ARTÍCULO NOVENO.
+
+Las constancias que haya expedido la Dirección de Finanzas y Tesorería Municipal, para el registro de peritos valuadores, seguirán vigentes respecto de los avalúos que se emitan para efectos del Impuesto Sobre Adquisición de Inmuebles.
+
+###### ARTÍCULO DÉCIMO.
+
+En el ejercicio fiscal 2019 el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 4% del que le haya correspondido durante el ejercicio fiscal 2018 para los predios cuyo valor catastral sea menor o igual a $500,000.00 y para los predios cuyo valor catastral sea superior a $500,000.00 el impuesto predial no podrá exceder de un 10% del que le haya correspondido durante el ejercicio fiscal 2018. Este comparativo se efectuará solamente sobre el impuesto principal, sin tomar en consideración, bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+Se exceptúan de lo dispuesto en el párrafo inmediato anterior:
+
+a) Los predios, que como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en más de un 50% el valor catastral que tenían antes de dichas modificaciones, de conformidad con las disposiciones legales aplicables.
+
+b) Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2019, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en todos los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
