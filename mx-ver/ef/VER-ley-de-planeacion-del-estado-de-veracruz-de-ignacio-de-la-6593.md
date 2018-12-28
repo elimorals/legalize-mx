@@ -4,7 +4,7 @@ identifier: "VER-ley-de-planeacion-del-estado-de-veracruz-de-ignacio-de-la-6593"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-29"
-last_updated: "2018-09-11"
+last_updated: "2018-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY DE PLANEACION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 12 DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 28 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 29 de enero de 1987.
 
@@ -608,3 +610,31 @@ G.O. 11 DE SEPTIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 12 DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Número 56 de Planeación del Estado de Veracruz de Ignacio de la Llave y se derogan todas las disposiciones que se opongan a la presente Ley. Asimismo, se extinguen los órganos a que refiere la Ley que se abroga, cuya organización y funcionamiento correrá a cargo de los órganos que se aprueban con motivo de la presente Ley, según corresponda.
+
+###### ARTÍCULO TERCERO.
+
+El Plan Veracruzano de Desarrollo será válido para el sexenio de gobierno, aun cuando podrá proponer proyectos transexenales.
+
+###### ARTÍCULO CUARTO.
+
+Los municipios deberán actualizar su Plan Municipal de Desarrollo conforme al contenido del Plan Veracruzano de Desarrollo que se elabore para la gestión de gobierno 2018-2024; aprobarlo y publicarlo, en un plazo de cuatro meses, contados a partir de la publicación en la Gaceta Oficial del Estado del Plan estatal.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor de la presente Ley, el CEPLADEB solicitará a los sujetos que previene esta Ley, sus opiniones, estudios, trabajos y aportaciones para iniciar la elaboración y proceso del Plan Veracruzano de Desarrollo, y para tal efecto requerirá su cooperación, a través de los diferentes medios de difusión colectiva, impresos o electrónicos y se les concederá un plazo de quince días naturales para hacer llegar sus propuestas.
+
+###### ARTÍCULO SEXTO.
+
+Los Municipios que cuenten con Comités de Planeación Municipal, procederán en los mismos términos y condiciones establecidos en el artículo anterior, a efecto de elaborar el Plan Municipal de Desarrollo correspondiente.
