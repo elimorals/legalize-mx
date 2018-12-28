@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-universidad-de-ciencias-de-la-seguridad-del-808
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2016-04-15"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de abril de 2011.
 
@@ -37,9 +37,11 @@ LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓ
 
 ### Capítulo I. Disposiciones Generales
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
-Se crea la Universidad de Ciencias de la Seguridad del Estado de Nuevo León, como un Organismo Público Descentralizado de la Administración Pública del Estado de Nuevo León, con personalidad jurídica y patrimonio propio, que será responsable de la profesionalización de las instituciones que conforman el Sistema Integral de Seguridad Pública del Estado, mediante la prestación de servicios de educación continua y de educación formal en los niveles medio superior y superior, con el objeto de incidir en el mejoramiento de la prestación de la función del Sistema Integral de Seguridad Pública.
+###### Artículo 1°.
+
+Se crea la Universidad de Ciencias de la Seguridad del Estado de Nuevo León, como un Organismo Público Descentralizado de la Administración Pública del Estado de Nuevo León, con personalidad jurídica y patrimonio propio, que será responsable de la profesionalización de las instituciones que conforman el Sistema Integral de Seguridad Pública del Estado, mediante la prestación de servicios de educación continua y de educación formal en los niveles medio superior y superior, con el objeto de incidir en el mejoramiento de la prestación de la función del Sistema Integral de Seguridad Pública, bajo los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León y los tratados internacionales de los que el Estado mexicano es parte.
 
 ###### Artículo 2º.
 
@@ -535,7 +537,7 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nue
 
 PRESIDENTE: DIP. JOSEFINA VILLARREAL GONZÁLEZ; DIP. SECRETARIA: MARTHA DE LOS SANTOS GONZALEZ; DIP. SECRETARIO ENRIQUE GUADALUPE PÉREZ VILLA.- Rúbricas.-
 
-Por (sic) tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 4 del mes de abril del año 2011.
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 4 del mes de abril del año 2011.
 
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
 
@@ -570,3 +572,9 @@ P.O. 15 DE ABRIL DE 2016.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los Municipios del Estado de Nuevo León, deberán iniciar la regularización de la Certificación con efectos de Patente Policial del personal en activo que no cuente con ella, en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 032. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 1° DE LA LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
