@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2018-12-21"
+last_updated: "2018-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2018.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 21 DE DICIEMBRE DE 2018.
 
@@ -14617,7 +14617,7 @@ VI.- De $3.4213 anual por metro cuadrado cuando el uso o goce consista en la rea
 
 VII.- De $0.1349 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura.
 
-VIII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2016)
+VIII.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2016)
 
 IX.- Por los espacios dentro de inmuebles de
 
@@ -14645,27 +14645,7 @@ en templos de propiedad federal o sus
 
 anexidades, por cada depósito $916.59 $917
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-XI.- Por el uso o goce de postes, torres o ductos, o bienes similares, propiedad de organismos públicos descentralizados, para la instalación de cableado de redes de telecomunicaciones, anualmente:
-
-a). Por cada poste, torre o bienes similares
-
-que se use, por cada cable instalado: $82.01 $82
-
-b). Por cada ducto, por cada kilómetro o
-
-fracción de kilómetro que se use, por
-
-cada cable instalado: $902.12 $902
-
-c). Por cada registro que se use, por cada
-
-cable instalado: $57.40 $57
-
-Para los efectos de esta fracción, se entiende por cable instalado a la unidad compuesta por cable de suspensión de acero, cable coaxial y/o fibra óptica y sus accesorios.
-
-La recaudación que se obtenga por el derecho a que se refiere esta fracción, se destinará en su totalidad al organismo público descentralizado que sea propietario de los postes, torres, ductos, registros o bienes similares de que se trate. Para los efectos del entero y cálculo del derecho a que se refiere esta fracción será aplicable lo dispuesto por el artículo 4o. de esta Ley.
+XI.- (DEROGADA POR TRANSITORIO DÉCIMO TERCERO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2019, PUBLICADA EN EL D.O.F. DE 28 DE DICIEMBRE DE 2018)
 
 Las cuotas señaladas en las fracciones III y IV que anteceden, sólo se aplicarán cuando la actividad señalada en cada caso constituya la principal del concesionario o permisionario. En todo caso los contribuyentes podrán optar por pagar conforme a lo establecido en la fracción I de este artículo.
 
@@ -14685,7 +14665,7 @@ d).- Las instituciones de crédito que proporcionen a las dependencias del Gobie
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-e). Las instituciones de crédito y entidades financieras que sean autorizadas para funcionar como auxiliares conforme a lo dispuesto por la Ley de Tesorería de la Federación y que realicen la función de recaudación de contribuciones federales, por el espacio que ocupen dichos auxiliares dentro de los inmuebles de la Federación o de los organismos descentralizados de la Administración Pública Federal Paraestatal, así como por el equipo que instalen dentro de los inmuebles señalados.
+e).- Las instituciones de crédito y entidades financieras que sean autorizadas para funcionar como auxiliares conforme a lo dispuesto por la Ley de Tesorería de la Federación y que realicen la función de recaudación de contribuciones federales, por el espacio que ocupen dichos auxiliares dentro de los inmuebles de la Federación o de los organismos descentralizados de la Administración Pública Federal Paraestatal, así como por el equipo que instalen dentro de los inmuebles señalados.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -22288,3 +22268,47 @@ Para obtener la condonación a que se refiere el párrafo anterior, el concesion
 D.O.F. 21 DE DICIEMBRE DE 2018.
 
 > <small>[N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACIÓN A LA RESOLUCIÓN DE MISCELÁNEA FISCAL PARA 2018, VÉASE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISELÁNEA FISCAL PARA 2018 Y SUS ANEXOS 1-A, 5, 8, 11, 15, 19 Y 27 PUBLICADO EN EL D.O.F. DE 21 DE DICIEMBRE DE 2018, PRIMERA SECCIÓN DENOMINADO “QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018 Y SU ANEXO 19, PUBLICADA EL 21 DE DICIEMBRE DE 2018”.]</small>
+
+D.O.F. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2019”.]
+
+Primero. La presente Ley entrará en vigor el 1 de enero de 2019.
+
+Segundo. Se aprueban las modificaciones a la Tarifa de los Impuestos Generales de Importación y de Exportación efectuadas por el Ejecutivo Federal a las que se refiere el informe que, en cumplimiento de lo dispuesto en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos, ha rendido el propio Ejecutivo Federal al Congreso de la Unión en el año 2018.
+
+Tercero. Para los efectos de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2019, cuando de conformidad con la Ley Orgánica de la Administración Pública Federal se modifique la denominación de alguna dependencia o entidad o las existentes desaparezcan, se entenderá que los ingresos estimados para éstas en la presente Ley corresponderán a las dependencias o entidades cuyas denominaciones hayan cambiado o que absorban las facultades de aquéllas que desaparezcan, según corresponda.
+
+Cuarto. Durante el ejercicio fiscal de 2019 el Fondo de Compensación del Régimen de Pequeños Contribuyentes y del Régimen de Intermedios creado mediante el Quinto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014, publicada en el Diario Oficial de la Federación el 20 de noviembre de 2013 continuará destinándose en los términos del citado precepto.
+
+Quinto. Durante el ejercicio fiscal 2019 las referencias que en materia de administración, determinación, liquidación, cobro, recaudación y fiscalización de las contribuciones se hacen a la Comisión Nacional del Agua en la Ley Federal de Derechos, así como en los artículos 51 de la Ley de Coordinación Fiscal y Décimo Tercero de las Disposiciones Transitorias del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013 y las disposiciones que emanen de dichos ordenamientos se entenderán hechas también al Servicio de Administración Tributaria.
+
+Sexto. Para efectos de lo previsto en el artículo 107, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Hacienda y Crédito Público deberá reportar en los Informes Trimestrales la información sobre los ingresos excedentes que, en su caso, se hayan generado con respecto al calendario de ingresos derivado de la Ley de Ingresos de la Federación a que se refiere el artículo 23 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. En este reporte se presentará la comparación de los ingresos propios de las entidades paraestatales bajo control presupuestario directo, de las empresas productivas del Estado, así como del Gobierno Federal. En el caso de éstos últimos se presentará lo correspondiente a los ingresos provenientes de las transferencias del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+
+Séptimo. Las entidades federativas y municipios que cuenten con disponibilidades de recursos federales destinados a un fin específico previsto en ley, en reglas de operación, convenios o instrumentos jurídicos, correspondientes a ejercicios fiscales anteriores al 2017, que no hayan sido devengados conforme a los calendarios respectivos, deberán enterarlos a la Tesorería de la Federación, incluyendo los rendimientos financieros que hubieran generado. Los recursos correspondientes a los aprovechamientos que se obtengan, se destinarán por la Secretaría de Hacienda y Crédito Público al fortalecimiento financiero en las entidades federativas y/o para la atención de desastres naturales.
+
+Para efectos de lo anterior, los aprovechamientos provenientes de los enteros que realicen las entidades federativas y municipios en términos del presente transitorio, no se considerarán extemporáneos, por lo que no causan daño a la hacienda pública ni se cubrirán cargas financieras, siempre y cuando dichas disponibilidades hayan estado depositadas en cuentas bancarias de la entidad federativa y/o municipio.
+
+Octavo. La Secretaría de Hacienda y Crédito Público para el ejercicio fiscal de 2019, deberá reportar en los Informes Trimestrales que se presenten al Congreso de la Unión en términos del artículo 107, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la evolución del precio del petróleo observado respecto del cubierto mediante la Estrategia de Coberturas Petroleras para el ejercicio fiscal 2019, así como de la subcuenta que se haya constituido como complemento en el Fondo de Estabilización de los Ingresos Presupuestarios.
+
+Noveno. En el ejercicio fiscal de 2019, la Secretaría de Hacienda y Crédito Público a través del Servicio de Administración Tributaria deberá publicar estudios sobre la evasión fiscal en México. En la elaboración de dichos estudios deberán participar instituciones académicas de prestigio en el país, instituciones académicas extranjeras, centros de investigación, organismos o instituciones nacionales o internacionales que se dediquen a la investigación o que sean especialistas en la materia. Sus resultados deberán darse a conocer a las Comisiones de Hacienda y Crédito Público de ambas Cámaras del Congreso de la Unión, a más tardar 35 días después de terminado el ejercicio fiscal de 2019.
+
+Décimo. Las dependencias y entidades que coordinen la operación de fideicomisos públicos sin estructura orgánica, mandatos y análogos, salvo los que determine la Secretaría de Hacienda y Crédito Público, concentrarán en la Tesorería de la Federación a más tardar el 28 de febrero de 2019, los recursos públicos disponibles no comprometidos al 31 de diciembre de 2018 en dichos vehículos, salvaguardando en todo momento los derechos de terceros, a efecto de que sean destinados a gasto de inversión así como a programas de inversión que permitan cumplir con los objetivos que se establezcan en el Plan Nacional de Desarrollo y a programas y proyectos que cuenten con registro en la cartera de inversión en la Secretaría de Hacienda y Crédito Público. Lo anterior no será aplicable a dichos instrumentos jurídicos que por disposición expresa de ley los recursos públicos deban permanecer en el patrimonio o afectos a los mismos, así como a aquellos en materia de pensiones y seguridad social, desastres naturales, infraestructura, estabilización de ingresos incluyendo al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, y aquellos que sirvan como mecanismo de garantía o fuente de pago de obligaciones a cargo del Gobierno Federal o sus entidades paraestatales. Dicha dependencia deberá señalar en los informes trimestrales sobre la situación económica y las finanzas públicas, sobre el monto y el destino que dé a los recursos utilizados conforme a lo previsto en este párrafo.
+
+Décimo Primero. Durante el ejercicio fiscal de 2019, se continuará aplicando el Transitorio Segundo, fracciones I y VI del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos”, publicado en el Diario Oficial de la Federación el 7 de diciembre de 2016.
+
+Décimo Segundo. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, durante el ejercicio fiscal 2019 y en ejercicio de las facultades que le confiere el artículo 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado requerirá a la Secretaría de Hacienda y Crédito Público los pagos correspondientes a los adeudos vencidos que tengan las dependencias o entidades de los municipios o de las entidades federativas, con cargo a las participaciones y transferencias federales de las entidades federativas y los municipios que correspondan.
+
+El Instituto, conforme a los modelos autorizados por su órgano de gobierno, podrá suscribir con las entidades federativas y, en su caso, los municipios, dependencias y entidades de los gobiernos locales que correspondan, los convenios para la regularización de los adeudos que tengan con dicho Instituto por concepto de cuotas, aportaciones y descuentos. El plazo máximo para cubrir los pagos derivados de dicha regularización será de 10 años. Asimismo, en el marco de la celebración de los referidos convenios, se podrán otorgar descuentos en los accesorios generados a las contribuciones adeudadas. Para tal efecto, deberán adecuar los convenios que tengan celebrados para la incorporación de sus trabajadores y familiares derechohabientes al régimen obligatorio de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para incluir en el mismo lo dispuesto en el párrafo cuarto del artículo 204 de dicha ley.
+
+Décimo Tercero. Se deroga la fracción XI del artículo 232 de la Ley Federal de Derechos, a partir de la entrada en vigor de las disposiciones a que se refieren los artículos 12, fracción XXXIV y 72 de la Ley de la Industria Eléctrica, que emita la Comisión Reguladora de Energía.
+
+En tanto no entren en vigor las disposiciones señaladas, continuará aplicándose el artículo 232, fracción XI de la Ley Federal de Derechos, respecto a la infraestructura del Sistema Eléctrico Nacional sobre la cual la Comisión Reguladora de Energía no haya emitido las disposiciones respectivas en términos de la Ley de la Industria Eléctrica.
+
+Décimo Cuarto. Para efectos de dar debido cumplimiento a las obligaciones previstas en los artículos 17 y 18 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, los sujetos obligados que no se encuentren al corriente en el cumplimiento de dichas obligaciones por el periodo del 1 de julio de 2013 al 31 de diciembre de 2018, podrán implementar programas de auto regularización, previa autorización del Servicio de Administración Tributaria, siempre que se encuentren al corriente en el cumplimiento de sus obligaciones de 2019.
+
+No procederá la imposición de sanciones respecto del periodo de incumplimiento que ampare el programa de auto regularización. El Servicio de Administración Tributaria podrá condonar las multas que se hayan fijado en términos de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita durante el periodo de incumplimiento que ampare el programa de auto regularización. La vigencia del programa de auto regularización interrumpe el plazo de prescripción para la imposición de las sanciones correspondientes.
+
+En términos del artículo 6, fracción VII de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, el Servicio de Administración Tributaria deberá emitir y publicar en el Diario Oficial de la Federación las reglas de carácter general que regulen la aplicación de los programas de auto regularización, en un plazo máximo de 60 días contados a partir de la entrada en vigor de la presente Ley.
+
+Décimo Quinto.- El presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2019 aprobado deberá prever una asignación de la recaudación estimada para la Federación por concepto del impuesto especial sobre producción y servicios aplicable a las bebidas saborizadas, de acuerdo con lo previsto en el artículo 1o. de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2019, una vez descontadas las participaciones que correspondan a las entidades federativas, para destinarse a programas de promoción, prevención, detección, tratamiento, control y combate a la desnutrición, sobrepeso, obesidad y enfermedades crónico degenerativas relativas, así como para apoyar el incremento en la cobertura de los servicios de agua potable en localidades rurales, y proveer bebederos con suministro continuo de agua potable en inmuebles escolares públicos con mayor rezago educativo, de conformidad con los artículos 7 y 11 de la Ley General de la Infraestructura Física Educativa.
