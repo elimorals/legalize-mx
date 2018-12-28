@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2018-11-17"
+last_updated: "2018-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABRAGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -2330,3 +2330,35 @@ SEGUNDO.- El Gobernador deberá efectuar las respectivas reformas, adiciones y d
 TERCERO.- Realícense los trámites administrativos y presupuestales necesarios, para que se establezca formal, material y operativamente el debido funcionamiento del Centro de Mando y Comunicaciones; y del Centro Estatal de Prevención Social del Delito y Participación Ciudadana, como órgano desconcentrado dependiente de la Secretaría de Seguridad Pública, en un plazo que no exceda de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 060 POR EL QUE "SE EXPIDE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto por el que se expide la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco iniciará su vigencia el 1° de enero de 2019, previa publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, publicada en el Periódico Oficial del Estado de Tabasco, de fecha 22 de marzo de 2002 y sus subsecuentes reformas y adiciones. Igualmente se derogan todas las disposiciones de igual rango o naturaleza que se opongan al presente Decreto.
+
+TERCERO.- El Congreso del Estado dentro de los trescientos sesenta y cinco días siguientes al inicio de la vigencia de esta Ley, a iniciativa del titular del Poder Ejecutivo, realizará las reformas que permitan correlacionar las otras disposiciones legales que regulan la Administración Pública Estatal, con la presente Ley.
+
+CUARTO.- Cuando alguna Unidad Administrativa, pase conforme a esta Ley de una Dependencia del Ejecutivo a otra, el traspaso o transferencia se hará incluyendo el personal a su servicio con pleno respeto a sus derechos laborales, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipamiento de las unidades que se hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a la Ley anterior. Tratándose de los organismos públicos descentralizados y desconcentrados, que con motivo de las disposiciones contenidas en esta ley pasen, dentro del ámbito del Poder Ejecutivo, a formar parte de alguna dependencia, la Secretaría de Finanzas, la Secretaría de Administración e Innovación Gubernamental, la Coordinación General de Asuntos Jurídicos y la Secretaría de la Función Pública y, en su caso, la Dependencia coordinadora del sector, deberán plantear al Gobernador los mecanismos administrativos para la fusión o sectorización respectiva. Todos los recursos humanos, financieros y materiales pasarán a la Secretaría de que se trate, sin perjuicio de los derechos laborales de los trabajadores, así como los activos y pasivos del organismo respectivo.
+
+QUINTO.- Los Titulares de las Unidades de Apoyo Jurídico adscritas a la Coordinación General de Asuntos Jurídicos que se crean por mandamiento de esta Ley y que realizarán sus funciones en las Dependencias y Entidades, tendrán las mismas facultades con las que cuentan actualmente los Directores de las Unidades de Asuntos Jurídicos y Transparencia de las distintas dependencias que integran la Administración Pública Estatal, en tanto se publique (sic) los reglamentos correspondientes.
+
+SEXTO.- Los asuntos administrativos, que con motivo de esta Ley, deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que estén conociendo de las mismas, se incorporen a la Dependencia que señale esta Ley, dentro del período a que se contrae el transitorio segundo, a excepción de los urgentes o sujetos a plazos improrrogables que deberán atenderse con la inmediatez que se requiera.
+
+SÉPTIMO.- Cuando en otras disposiciones legales se dé una denominación distinta a alguna Dependencia o Entidad cuyas funciones estén establecidas por la presente Ley, dichas atribuciones se entenderán concedidas para su ejercicio a la Dependencia que determina esta Ley, en tanto no se realicen los ajustes legislativos, reglamentarios o normativos que correspondan.
+
+OCTAVO.- Se faculta al Gobernador, para que, en términos de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y Sus Municipios y el Decreto que autoriza el Presupuesto General de Egresos del Estado para el ejercicio del año 2019, realice los ajustes necesarios a dicho presupuesto, a fin de que resulte congruente con las modificaciones a la estructura orgánica del Poder Ejecutivo. Debiendo comunicar de ello en los informes de evaluación del ejercicio del gasto público que legalmente se rinde al Congreso del Estado, a través de su órgano técnico.
+
+NOVENO.- El Gobernador habrá de emitir los nuevos reglamentos interiores de las Dependencias y Entidades de la Administración Pública que sean necesarios, en los 365 días naturales posteriores a la entrada en vigor de esta Ley, para regular debidamente lo concerniente al funcionamiento interno de las unidades administrativas adscritas a las Dependencias. En igual período las Entidades de la Administración Pública Paraestatal que corresponda, a través de sus órganos de gobierno emitirán sus respectivos estatutos orgánicos, los cuales deberán ser enviados para su sanción ante el Titular del Poder Ejecutivo y su publicación en el Periódico Oficial del Estado de Tabasco.
+
+DÉCIMO.- En tanto se expiden los nuevos ordenamientos, que regulen aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones legales, tanto reglamentarias como administrativas que regulaban los actos previstos en la Ley que se abroga. De igual forma, hasta en tanto no se emitan los nuevos reglamentos interiores de las Dependencias y Entidades de la Administración Pública, se aplicará la presente Ley en lo concerniente al funcionamiento interno de las unidades administrativas adscritas a las Dependencias.
+
+DÉCIMO PRIMERO.- Se autoriza al Ejecutivo para que, en el plazo de un año contado a partir de la vigencia de esta Ley, establezca los mecanismos de coordinación con el Congreso de la Entidad, que permitan la concurrencia de los tres Poderes y los Municipios para fijar la normatividad estructural y administrativa, respecto de la emisión de constancias de antigüedad a los servidores públicos del Estado, que actualmente expide el Congreso del Estado.
+
+DÉCIMO SEGUNDO.- El Ejecutivo del Estado, en el ámbito de su competencia, creará la Comisión Técnica que será responsable de implementar las políticas, programas, acciones y adecuaciones jurídicas, administrativas, reglamentarias, normativas, técnicas, presupuestales y de logística necesarias para adecuar el funcionamiento interno y la operación de la Administración Pública Estatal de conformidad a las disposiciones contenidas en esta Ley.
+
+La Comisión Técnica estará integrada por los titulares de la Secretaría de Administración e Innovación Gubernamental, la Coordinación General de Asuntos Jurídicos y la Coordinación General Ejecutiva de la Gubernatura y los demás servidores públicos que por la naturaleza de sus atribuciones determine el Gobernador del Estado.
+
+DÉCIMO TERCERO.- En caso de duda o interpretación en el ámbito administrativo, con motivo de la aplicación de esta Ley, por parte de servidores públicos de la Administración Pública, quedará a la exclusiva competencia del titular del Poder Ejecutivo su resolución, el cual podrá pedir opinión, según el caso, a los responsables de las dependencias que estimare pertinente.
