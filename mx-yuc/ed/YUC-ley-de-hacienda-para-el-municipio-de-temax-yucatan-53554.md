@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-temax-yucatan-53554"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2016-12-28"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -42,7 +42,7 @@ D E C R E T A:
 
 Artículo Primero.- Se aprueban las Leyes de Hacienda de los Municipios de: Mayapán, que contiene 153 artículos; Temax, que contiene 176 artículos; Timucuy, que contiene 153 artículos; Tixméhuac, que contiene 137 artículos; Tizimín, que contiene 168 artículos; y Yaxcabá, que contiene 153 artículos; todos del Estado de Yucatán.
 
-.
+[...]
 
 II.- LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATÁN:
 
@@ -66,9 +66,11 @@ Las (sic) Ley de Ingresos del Municipio de Temax, Yucatán, tendrá una vigencia
 
 Cuando no se expida la Ley de Ingresos para el ejercicio fiscal que corresponda, continuará vigente la del ejercicio fiscal inmediato anterior.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 4.
 
-Cuando en la presente ley se haga mención de las palabras “salarios” o “salarios mínimos” dichos términos se entenderán indistintamente como los salarios mínimos (sic) vigente en el Estado de Yucatán, en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, el salario mínimo que servirá de base para su cálculo sea el vigente al momento de individualizar la sanción.
+Cuando en la presente ley se haga mención de la palabra “UMA” o “unidades de medida” dichos términos se entenderán indistintamente como la Unidad de Medida y Actualización vigente, en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, la “UMA” que servirá de base para su cálculo sea el vigente al momento de individualizar la sanción”
 
 ### CAPÍTULO II. De las Disposiciones Fiscales Municipales
 
@@ -132,7 +134,9 @@ c) Hipoteca.
 
 d) Prenda.
 
-Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 salarios mínimos vigentes en el Estado, al momento de la determinación del crédito.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Respecto de la garantía prendaría, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 Unidades de Media (sic) y Actualización vigentes, al momento de la determinación del crédito.
 
 En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen (sic) en el Código Fiscal de la Federación y el reglamento de dicho Código.
 
@@ -354,9 +358,11 @@ VIII.- Proporcionar con veracidad los datos que requiera la Tesorería Municipal
 
 IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 40.
 
-Las licencias de funcionamiento que expida la Tesorería Municipal, serán gratuitas a excepción de las que señale la Ley de Ingresos del Municipio. Tendrán una vigencia que iniciará en la fecha de su expedición y terminará en la misma fecha del año inmediato posterior de su expedición.
+Por las Licencias de Funcionamiento que expida la Tesorería Municipal se pagarán los derechos que se establezcan en el titulo cuarto, capítulo II de esta ley. Tendrán una vigencia que iniciará en la fecha de su expedición y terminará en la misma fecha del año inmediato posterior de su expedición.
 
 No obstante, lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En estos casos, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias. En ningún caso, la vigencia de la licencia de funcionamiento excederá del período de la administración municipal que la expidió.
 
@@ -452,15 +458,17 @@ Cuando la dirección de Catastro del Municipio de Temax, Yucatán, expidiere una
 
 Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará aplicando el valor catastral siguiente:
 
-Límite límite cuota factor
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Límite Límite Cuota Factor
 
 inferior superior fija para
 
 anual aplicar
 
-En el
+en el
 
-Excedente
+excedente
 
 del Límite
 
@@ -468,19 +476,19 @@ inferior
 
 Pesos pesos pesos
 
-0.01 4,000.00 10.00 0
+0.01 4,000.00 10.00 De 0 a .001
 
-4,000.01 5,500.00 18.00 0
+4,000.01 5,500.00 18.00 De 0 a .001
 
-5,500.01 6,500.00 25.00 0
+5,500.01 6,500.00 25.00 De 0 a .001
 
-6,500.01 7,500.00 32.00 0
+6,500.01 7,500.00 32.00 De 0 a .001
 
-7,500.01 8,500.00 44.00 0
+7,500.01 8,500.00 44.00 De 0 a .001
 
-8,500.01 10,000.00 50.00 0
+8,500.01 10,000.00 50.00 De 0 a .001
 
-10,000.01 En adelante 54.00 0
+10,000.01 En adelante 54.00 De 0 a .001
 
 ###### Artículo 47.
 
@@ -984,11 +992,11 @@ III.- Anuncios en carteleras mayores de 2 metros cuadrados por cada metro cuadra
 
 IV.- Anuncios en carteleras oficiales $13.00 por día
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 Artículo 86 A.- Todo establecimiento, negocio y/o empresa en general sean estas comerciales, industriales, de servicios o cualquier otro giro que no esté relacionado con la venta de bebidas alcohólicas, deberá pagar de acuerdo a la taza que se determina en el siguiente cuadro de categorización de los giros comerciales tazados en unidades de medida de actualización.
 
-> <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINAS DE LA 87 A LA 88.]</small>
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 21 A LA 23.]</small>
 
 ### CAPÍTULO III. De los Servicios que presta la Dirección de Desarrollo Urbano de los Sujetos
 
@@ -1058,109 +1066,35 @@ Clase 3: Con construcción desde 121.00 hasta 240.00 metros cuadrados.
 
 Clase 4: Con construcción desde 241.00 metros cuadrados en adelante.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 91.
 
 La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado, conforme lo siguiente:
 
-I.- Permisos de construcción de particulares:
+I.- Por cualquier permiso de construcción se pagará $10.00 por metro cuadrado.
 
-a) laminas de zinc, cartón, madera, paja
-
-1.- Por cada permiso de construcción de hasta de hasta 40 metros
-
-Cuadrados 1 día de salario mínimo vigente M2
-
-2.- Por cada permiso de construcción de 41 a 120 metros
-
-Cuadrados 3 días de salario mínimo vigente M2
-
-3.- Por cada permiso de construcción de 121 a 240 metros
-
-Cuadrados 5 días de salario mínimo vigente M2
-
-4.- Por cada permiso de construcción de 241 metros
-
-Cuadrados en adelante 8 días de salario mínimo vigente M2
-
-b) Vigueta y bovedilla
-
-1.- Por cada permiso de construcción de hasta 40 m2
-
-2 días de salario mínimo vigente por m2
-
-2.- Por cada permiso de construcción de 41 a 120 m2
-
-4 días de salario mínimo vigente por m2
-
-3.- Por cada permiso de construcción de 121 a 240 m2
-
-6 días de salario mínimo vigente por m2
-
-4.- Por cada permiso de construcción de 241 m2 en adelante
-
-8 días de salario mínimo vigente por m2
-
-II.- Permisos de construcción de INFONAVIT, Bodegas, industrias, comercios y grandes construcciones:
-
-a) laminas de zinc, cartón, madera, paja
-
-1.- Por cada permiso de construcción de hasta de hasta 40 metros
-
-Cuadrados 2 días de salario mínimo vigente por M2
-
-2.- Por cada permiso de construcción de 41 a 120 metros
-
-Cuadrados 4 días de salario mínimo vigente por M2
-
-3.- Por cada permiso de construcción de 121 a 240 metros
-
-Cuadrados 6 días de salario mínimo vigente por M2
-
-4.- Por cada permiso de construcción de 241 metros
-
-Cuadrados en adelante 8 días de salario mínimo vigente por M2
-
-b) Viguetas y bovedilla
-
-1.- Por cada permiso de construcción de hasta de hasta 40 metros
-
-Cuadrados 4 días de salario mínimo vigente por M2
-
-2.- Por cada permiso de construcción de 41 a 120 metros
-
-Cuadrados 8 días de salario mínimo vigente por M2
-
-3.- Por cada permiso de construcción de 121 a 240 metros
-
-Cuadrados 10 días de salario mínimo vigente por M2
-
-4.- Por cada permiso de construcción de 241 metros
-
-Cuadrados en adelante 12 días de salario mínimo vigente por M2
+II.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2018)
 
 III.- Por cada permiso de remodelación 2 días de salario mínimo vigente por M2
 
-IV.- Por cada permiso ampliación 2 días de salario mínimo vigente por M2
+IV.- Por cada permiso (sic) ampliación 2 días de salario mínimo vigente por M2
 
-V.- Por cada permiso de de (sic) demolición 2 días de salario mínimo vigente por M2
+V.- Por cada permiso de demolición 2 días de salario mínimo vigente por M2
 
-VI.- Por cada permiso por ruptura de banqueta
-
-Empedrado o pavimento 2 días de salario mínimo vigente por M2
+VI.- Por cada permiso por ruptura de banqueta Empedrado o pavimento 2 días de salario mínimo vigente por M2
 
 VII.- Por construcción de albercas 4 días de salario mínimo vigente por M3
 
 VIII.- Por construcción de pozos $ 0.50 por metro lineal de profundidad
 
-IX.- Por autorización para la construcción o demolición
-
-De bardas u obras lineales 2 días de salario mínimo vigente por metro lineal
+IX.- Por autorización para la construcción o demolición De bardas u obras lineales 2 días de salario mínimo vigente por metro lineal
 
 X.- Licencia de uso del suelo 2 días de salario mínimo vigente
 
 XI.- Inspección para el otorgamiento del permiso que autorice romper o hacer cortes del pavimento, las banquetas y las guarniciones así como ocupar la vía pública para instalaciones provisionales 2 días de salario mínimo vigente
 
-Quedaría (sic) exentos de pago este derecho, las construcciones de cartón, madera o paja, siempre que se destinen a casa habitación.
+Quedaría (sic) exentos de pago (sic) este derecho, las construcciones de cartón, madera o paja, siempre que se destinen a casa habitación.
 
 ###### Artículo 92.
 
@@ -1204,29 +1138,31 @@ Son sujetos obligados al pago de estos derechos, las personas físicas o morales
 
 Es objeto de este derecho, el transporte, matanza, guarda en corrales, peso en básculas e inspección de animales fuera del rastro y de carne fresca o en canal.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 97.
 
 Los derechos por los servicios de Rastro, se causarán de conformidad con la siguiente tarifa:
 
-I.- Por Transporte, la cantidad de $17.25, por cabeza de ganado.
+I.- Por Transporte, la cantidad de $17.25, por cabeza de ganado
 
-II.- Por matanza de ganado 0.30 salario mínimo diario vigente en el Estado de Yucatán Por cada cabeza de ganado:
+II.- Por matanza de ganado 0.30 UMA por cada cabeza de ganado:
 
-a) Vacuno 0.30 salario mínimo diario vigente en el Estado de Yucatán.
+a) Vacuno 0.30 UMA
 
-b) Porcino 0.20 salario mínimo diario vigente en el Estado de Yucatán.
+b) Porcino 0.30 UMA
 
-c) Equino y Caprino 0.20 salario mínimo diario vigente en el Estado de Yucatán.
+c) Equino y Caprino 0.20 UMA
 
-III.- Guarda en corrales 5 salarios mínimos diarios vigentes en el Estado de Yucatán, por cabeza de ganado.
+III.- Guarda en corrales: 5 UMA Vigente, por cabeza de ganado
 
-IV.- Peso en básculas 5 salarios mínimos diarios vigentes en el Estado de Yucatán, por cabeza de ganado.
+IV.- Peso en básculas: 5 UMA Vigente, por cabeza de ganado
 
-V.- Inspección fuera del rastro 5 salarios mínimos diarios vigentes en el Estado de Yucatán, por cabeza de ganado.
+V.- Inspección fuera del rastro: 5 UMA Vigente, por cabeza de ganado
 
 La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Temax, Yucatán, deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley de Salud del Estado de Yucatán. Esta disposición es de orden público e interés social.
 
-En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de uno a diez salarios mínimos vigentes en el Estado de Yucatán, por pieza de ganado introducida o su equivalente.
+En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren (sic) por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de uno a diez Unidades de Medida y Actualización vigentes, por pieza de ganado introducida o su equivalente.
 
 En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
@@ -1234,7 +1170,9 @@ En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
 El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de los Rastros Públicos del Municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
 
-En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos vigentes en el Estado de Yucatán. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez Unidades de Medida y Actualización vigentes. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
 ### CAPÍTULO V. De los Derechos por los Servicios que Presta el Catastro Municipal
 
@@ -1246,29 +1184,27 @@ Son sujetos de estos derechos las personas físicas o morales, que soliciten los
 
 El objeto de estos derechos está constituido por los servicios que presta el Catastro Municipal.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 101.
 
-La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa.
+La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa:
 
-I.-Emisión de copias fotostáticas simples.
+I.-Emisión de copias fotostáticas simples:
 
-a) Por cada hoja simple tamaño carta, de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación, $ 20.00
+a) Por cada hoja simple tamaño carta, de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación. $ 20.00
 
-b) Por cada copia simple tamaño oficio de cédulas, planos, parcelas, formas de manifestación de traslado de domino o cualquier otra manifestación, $ 25.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+b) Por cada copia simple tamaño oficio de cédulas, planos, parcelas, formas de manifestación de traslado de domino o cualquier otra manifestación. $ 25.00
 
 II.- Por expedición de copias fotostáticas certificadas de:
 
-a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $ 25.00
+a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $ 50.00
 
-b) Fotostáticas de plano tamaño oficio, $ 30.00
+b) Fotostáticas de plano tamaño oficio. $ 60.00
 
-c) Fotostáticas de plano, hasta 4 veces tamaño oficio, por cada una $ 60.00
+c) Fotostáticas de plano, hasta 4 veces tamaño oficio, por cada una. $ 60.00
 
-d) Fotostáticas de planos, mayores de 4 veces del tamaño oficio, por cada una $ 100.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+d) Fotostáticas de planos, mayores de 4 veces del tamaño oficio, por cada una. $ 100.00
 
 III.- Por expedición de oficios de:
 
@@ -1276,29 +1212,29 @@ a) División (por cada parte) $ 50.00
 
 b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura $ 100.00
 
-c) Cédulas catastrales $ 55.00
+c) Cédulas catastrales $ 100.00
 
-d) Constancias de no propiedad, única propiedad, valor catastral, número oficial de predio, certificado de inscripción vigente e información de bienes inmuebles $ 55.00
+d) Constancia de valor catastral, inscripción vigente y no vigente, número oficial de predio, información de bienes inmuebles $ 60.00
+
+e) Certificado de No propiedad o Única propiedad $ 100.00
+
+f) Rectificación de Unión de predios $ 100.00
 
 IV.- Por elaboración de planos:
 
-a) Catastrales a escala $150.00
+a) Catastrales a escala $ 150.00
 
-b) Planos topográficos hasta 100 hectáreas $258.00
+b) Planos topográficos hasta 100 hectáreas. $ 258.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-V.- Por revalidación de oficios de división, unión y rectificación de medidas $ 100.00
+V.- Por revalidación de oficios de división, unión y rectificación de medidas. $ 100.00
 
 VI.- Por reproducción de documentos microfilmados:
 
-a) Tamaño carta $ 41.00
+a) Tamaño carta. $ 41.00
 
-b) Tamaño oficio $ 52.00
+b) Tamaño oficio. $ 52.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios $25.00
+VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios. $ 25.00
 
 VIII.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
 
@@ -1320,7 +1256,7 @@ De un valor de $ 1,000.00 a $ 4,000.00 $ 20.00
 
 De un valor de $ 4,001.00 a $ 10,000.00 $ 125.00
 
-De un valor de $ 10,001.00 a $ 30,000.00 $ 150.00
+De un valor de $ 10,001.00 a $ 30,000.00 $ 150.00.
 
 De un valor de $ 30,001.00 a $ 50,000.00 $ 180.00
 
@@ -1372,27 +1308,21 @@ b) Central de Abasto.- El inmueble en que se distribuyan al mayoreo diversidad d
 
 La base para determinar el monto de estos derechos, será el número de metros cuadrados concesionados o los que tenga en posesión por cualquier otro medio, la persona obligada al pago.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 109.
 
 Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa:
 
-I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán $130.00 mensual por locales cerrados;
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán $500.00 mensual por locales cerrados;
 
 II.- Por cuota fija para comerciantes ambulantes, se pagarán $ 50.00 por día, y
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
 III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán $ 5.00 m2.
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 IV.- Locatarios semifijos $ 50.00 diario
 
-V.- Comercios de Verduras y legumbres $ 5.00 diario.
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+V.- comercios de Verduras y legumbres $ 5.00 diario
 
 VI.- Comercio de carnes:
 
@@ -1444,13 +1374,13 @@ II) La superficie total del predio que deba limpiarse, a solicitud del propietar
 
 Por los servicios correspondientes a la recolecta de basura se causará y pagará la cantidad de $ 15.00 mensual.
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 Artículo 115 A.- Por los servicios correspondientes a la recolecta de basura se causará y pagará de la siguiente manera:
 
 CONCEPTO IMPORTE
 
-Comercial $ 30.00 mensual
+Comercial $ 200.00 mensual
 
 Habitacional $ 10.00 mensual
 
@@ -1470,41 +1400,27 @@ Son objeto de este derecho los servicios que en el panteón sean prestados por e
 
 Son sujetos de este derecho las personas físicas o morales que, soliciten y reciban, uno o varios de los servicios que son prestados en el panteón por el Municipio.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 119.
 
 Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa:
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-I.- Por renta de bóvedas del Ayuntamiento, por un período de 2 años a 3 años $165.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+I.- Por renta de bóvedas del Ayuntamiento, por un período de 3 años: $3000.00
 
 II.- Por empadronamiento $65.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-III.- Por uso de fosa común de 2 a 3 años $60.00
+III.- Por uso de fosa común de 2 a 3 años $ 60.00
 
 IV.- Cambio de concesionario $155.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+V.- Por construcción y remodelación $ 120.00 por cada permiso
 
-V.- Por construcción y remodelación $ 100.00 por metro cuadrado.
+VI.- Por inhumación $200.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+VII.- Por exhumación $200.00
 
-VI.- Por inhumación $165.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-VII.- Por exhumación $159.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Por concesión de terreno a perpetuidad de $ 3,000.00
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+VIII.- Por depósito de cenizas en el panteón: $120.00
 
 IX.- Por servicios en las comisarías se pagará:
 
@@ -1512,7 +1428,9 @@ a) Por inhumación $165.00
 
 b) Por exhumación $ 165.00
 
-c) Por uso de la fosa común $60.00
+c) Por uso de la fosa común $ 60.00
+
+X.- Permiso para construcción de osario $120.00.
 
 ### CAPÍTULO IX. Derechos por Servicios de Vigilancia
 
@@ -1824,15 +1742,17 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ### CAPÍTULO II. Productos Derivados de Bienes Muebles
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 160.
 
-Podrán los municipios percibir productos por concepto de la enajenación de sus bienes muebles, siempre y cuando éstos resulten innecesarios para la administración municipal, o bien que resulte incosteable su mantenimiento y conservación, debiendo sujetarse las enajenaciones a las siguientes reglas:
+Podrán los municipios percibir productos por concepto de la enajenación de sus bienes muebles, siempre y cuando éstos resulten innecesarios para la administración municipal, o bien, que resulte incosteable su mantenimiento y conservación, debiendo sujetarse las enajenaciones a las siguientes reglas:
 
-I.- Los bienes con valor de hasta 10 veces el salario mínimo diario vigente en el Estado, podrán ser enajenados por el Tesorero Municipal;
+I.- Los bienes con valor de hasta 10 veces la Unidad de Medida y Actualización diaria vigente en el Estado, podrán ser enajenados por el Tesorero Municipal;
 
-II.- Los bienes cuyo valor sea de hasta 50 veces el salario mínimo diario vigente en el Estado, podrán ser enajenados con autorización del Presidente Municipal, y
+II.- Los bienes cuyo valor sea de hasta 50 veces la Unidad de Medida y Actualización diaria vigente en el Estado, podrán ser enajenados con autorización del Presidente Municipal, y
 
-III.- Los bienes con valor superior a 50 días de salario mínimo vigente en el Estado, sólo podrán ser enajenados previo acuerdo del ayuntamiento.
+III.- Los bienes con valor superior a 50 Unidad de Medida y Actualización diaria vigente en el Estado, sólo podrán ser enajenados previo acuerdo del ayuntamiento.
 
 ###### Artículo 161.
 
@@ -1892,7 +1812,9 @@ II.- Embargo.
 
 III.- Honorarios o enajenación fuera de remate.
 
-Cuando el 3% del importe del crédito omitido fuere inferior al importe de un salario mínimo vigente en el Estado de Yucatán, se cobrará el monto de un salario, en sustitución del mencionado 3% del crédito omitido.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Cuando el 3% del importe del crédito omitido fuere inferior al importe de una UMA vigente en el Estado de Yucatán, se cobrará el monto de una UMA, en sustitución del mencionado 3% del crédito omitido.
 
 ###### Artículo 169.
 
@@ -2033,3 +1955,9 @@ D.O. 28 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 22/2018 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y UMÁN".]
+
+Artículo único.- Este Decreto entrará en vigor el día primero de enero del año dos mil diecinueve, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
