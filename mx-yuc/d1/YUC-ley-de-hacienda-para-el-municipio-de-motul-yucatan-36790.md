@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-36790"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2016-12-28"
+last_updated: "2018-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATAN
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DE LA LEY DE HACIENDA DEL MUNICIPIO DE MOTUL, YUCATÁN, PUBLICADA EN EL D.O. DE 29 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -2616,3 +2616,15 @@ D.O. 28 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 23/2018 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MOTUL, KANASÍN, PETO, TAPAKAN, TEKAX Y TZUCACAB, YUCATÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley de Hacienda del Municipio de Motul, Yucatán publicada en el Diario Oficial del Gobierno del Estado de Yucatán mediante Decreto 380 de fecha 31 de diciembre de 2003 y todas las disposiciones contrarias al presente ordenamiento.
+
+###### ARTÍCULO SEGUNDO.
+
+Esta ley entrará en vigor el 1 de enero de 2019, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
