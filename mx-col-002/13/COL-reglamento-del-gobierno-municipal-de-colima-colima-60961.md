@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2018-11-24"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,15 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
 El L.E. MARIO ANGUIANO MORENO, Presidente Municipal de Colima, con las facultades que me otorga la Ley del Municipio Libre del Estado de Colima en su artículo 47, fracción I, inciso a), a sus habitantes hace saber: Que en Sesión Ordinaria celebrada el 7 de marzo de 2008, el Honorable Cabildo Municipal de Colima aprobó por unanimidad el siguiente:
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, la Comisión de Gobernación y Reglamentos, tiene a bien someter a consideración del H. Cabildo el siguiente:
 
@@ -1931,7 +1933,7 @@ XI. Procurar que el Ayuntamiento y la Administración Pública Municipal cuenten
 
 XII. Las demás que le confieren las leyes y las que se deriven de los propios acuerdos de Cabildo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 123.
 
@@ -2639,17 +2641,19 @@ VIII.- Otras formas de organización ciudadana, que determine el cabildo o el Pr
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS Y DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 179.
 
 Para el cumplimiento de sus finalidades que le son propias, el Ayuntamiento organiza la estructura orgánica de la Administración Pública Municipal Centralizada, con las siguientes dependencias:
 
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 I. DESPACHO DE LA PRESIDENCIA MUNICIPAL
 
 I.1 Unidad de Enlace Administrativo de Presidencia
 
-I.1.a. Jefe de Departamento de la Unidad de Enlace
+I.1.1. Jefe de Departamento de la Unidad de Enlace
 
 I.2 Jefatura de Departamento de Desarrollo y Promoción Ciudadana
 
@@ -2683,27 +2687,33 @@ I.7.3. Jefatura de Área de Cultura Cívica y Vecinal
 
 I.8 Oficina de Resiliencia
 
+I.9. Jefatura de Área denominada Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Municipio de Colima (SIPINNA)
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 II. SECRETARÍA DEL AYUNTAMIENTO
 
-II.1 Jefatura del Departamento de (sic) Secretaría
+II.1 Jefatura del Departamento de Secretaría
 
-II.3 (sic) Dirección de Registro Civil
+II.2 Dirección de Registro Civil
 
-II.3.1 Secretaría del Registro Civil
+II.2.1 Secretaría del Registro Civil
 
-II.3.2 Jefatura de Departamento de Panteón Municipal
+II.2.2 Jefatura de Departamento de Panteón Municipal
 
-II.3.3. Junta Municipal de Reclutamiento
+II.2.3. Junta Municipal de Reclutamiento
 
-II.3.4. Junta Municipal de Tepames
+II.3 Junta Municipal de Tepames
 
-II.3.5. Junta Municipal de Lo de Villa
+II.4 Junta Municipal de Lo de Villa
 
-II.3.6 Comisarías Municipales
+II.5 Comisarías Municipales
 
-II.4 Dirección de Abasto y Comercialización
+II.6 Dirección de Abasto y Comercialización
 
-II.4.1 Jefatura de Departamento de Mercados y Vía Pública
+II.6.1 Jefatura de Departamento de Mercados y Vía Pública
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 20 DE OCTUBRE DE 2018)</small>
 
 III. OFICIALÍA MAYOR
 
@@ -2736,6 +2746,8 @@ III.4.2. Jefatura de Departamento de Innovación y Soporte Técnico
 III.5. Dirección de Servicios Generales y Eventos Especiales
 
 III.5.1. Jefatura de Departamento de Eventos y Protocolo
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 20 DE OCTUBRE DE 2018)</small>
 
 IV. TESORERÍA MUNICIPAL
 
@@ -2771,6 +2783,8 @@ Catastrales
 
 IV.4.2. Jefatura de Departamento del Suelo
 
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 20 DE OCTUBRE DE 2018)</small>
+
 V. DIRECCIÓN GENERAL DE OBRAS PÚBLICAS Y PLANEACIÓN
 
 V.1 Dirección de Construcción
@@ -2794,6 +2808,8 @@ V.3.2. Jefatura de Departamento de Planeación y Evaluación
 V.3.3. Jefatura de Departamento de Proyectos de Inversión
 
 V.3.4. Jefatura de Departamento de Gestión de Programas Sociales
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 20 DE OCTUBRE DE 2018)</small>
 
 VI. DIRECCIÓN GENERAL DE SERVICIOS PÚBLICOS
 
@@ -2829,6 +2845,8 @@ VI.2.4. Jefatura de Departamento de Control de Mascotas
 
 VI.2.5. Jefatura de Departamento de Personal
 
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 20 DE OCTUBRE DE 2018)</small>
+
 VII. DIRECCIÓN GENERAL DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
 VII.1 Dirección de Desarrollo Urbano
@@ -2845,6 +2863,8 @@ VII.2 Dirección de Ecología y Medio Ambiente
 
 VII.2.1 Jefatura de Área de Calidad Ambiental
 
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 20 DE OCTUBRE DE 2018)</small>
+
 VIII. DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
 VIII.1 Dirección de Asuntos Jurídicos
@@ -2859,37 +2879,43 @@ VIII.1.2.a. Jefatura de Área de Convenios y Contratos
 
 VIII.1.3. Jefatura de Área Administrativa
 
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 IX. DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA Y POLICÍA VIAL
 
-IX.1 Dirección Operativa de Policía Vial
+IX.1 Dirección Operativa de Seguridad y Policía Vial
 
-IX.1.1. Jefatura de Departamento de Ingeniería de Tránsito
+IX.1.1. Jefatura de Departamento de Comandancia de Seguridad Pública y Policía Vial
 
-IX.1.1.a. Jefatura de Área de Señalamientos Viales y Semáforos
+IX.1.1.a. Jefatura de Área de Prevención del Delito
 
-IX.2 Dirección Operativa de Seguridad Pública y Proximidad
+IX.1.1.b. Jefatura de Área de Educación Vial
 
-IX.2.1. Jefatura de Departamento de Comandancia de Seguridad Pública
+IX.1.1.c. Jefatura de Área de Normas e Infracciones
 
-IX.2.1.a. Jefatura de Área de Academia
+IX.1.2. Jefatura de Departamento de Ingeniería de Tránsito
 
-IX.3 Jefatura de Departamento de Prevención del Delito
+IX.1.2.1. Jefatura de Área de Señalamientos y Semáforos
 
-IX.3.1. Jefatura de Área de Educación Vial
+IX.2. Dirección de Área Administrativa
 
-IX.4 Jefatura de Departamento Administrativo
+IX.2.1. Jefatura de Área de Capacitación y Academia
 
-IX.5. Jefatura de Departamento Jurídico
+IX.2.2. Jefatura de Área de Control Vehicular
 
-IX.6. Jefatura de Departamento de la Unidad de Atención a Víctimas
+IX.3. Jefatura de Departamento Jurídico
 
-IX.7. Jefatura de Departamento de Asuntos Internos
+IX.4. Jefatura de Departamento de Asuntos Internos
+
+IX.5. Jefatura de Departamento de Atención a Víctimas
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 X. DIRECCIÓN GENERAL DE DESARROLLO ECONÓMICO, SOCIAL Y HUMANO
 
-X.1. Dirección General Adjunta de Recreación, Cultura y Educación
+X.1. Dirección General Adjunta de Educación, Cultura y Recreación
 
-X.1.2. Jefatura de Departamento de Cultura y Educación
+X.1.2. (SIC) Jefatura de Departamento de Cultura y Educación
 
 X.1.3. Jefatura de Área de Eventos Culturales
 
@@ -3295,7 +3321,11 @@ XIII. Fomentar los lazos de cooperación y dar seguimiento a convenios y asuntos
 
 XIV. Asegurar el cumplimiento y éxito del Programa 100 Ciudades Resilientes en la Ciudad de Colima.
 
-Artículo 196 bis.- (DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 196 Bis.
+
+Para auxiliar al Presidente Municipal en la administración y coordinación operativa del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Municipio de Colima, (SIPINNA) el Ayuntamiento contará con una Jefatura de Área denominada Secretaría Ejecutiva de dicho sistema municipal de protección, que tendrá las facultades establecidas en el artículo 16 del Reglamento del sistema municipal de protección integral de los derechos de niñas, niños y adolescentes, y las demás que señale la reglamentación municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -4617,11 +4647,11 @@ XXIV.- Las demás que le confiera el Ayuntamiento, la Ley, Reglamentos y demás 
 
 Para el otorgamiento a la Ciudadanía de los servicios de seguridad pública, tránsito y control de tráfico vial dentro del Municipio y para auxiliar al Presidente Municipal en el ejercicio de estas funciones, el Ayuntamiento contará con una Dirección General de Seguridad Pública y Policía Vial, la cual estará a cargo de una persona denominada Director General de Seguridad Pública y Policía Vial.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 253.
 
-Director General de Seguridad Pública y Policía Vial tendrá a su mando el cuerpo administrativo, técnico y operativo de la Policía y de Tránsito, una Dirección Operativa de Seguridad y Proximidad, que se integrará por una Jefatura de Departamento de Comandancia de Seguridad Pública y ésta, a su vez, tendrá una Jefatura de Área de Academia; una Dirección Operativa de Policía Vial, que contará con una Jefatura de Departamento de Ingeniería de Tránsito, que tendrá una Jefatura de Área de Señalamientos Viales y de Semáforos. Una Jefatura de Departamento de Prevención del Delito, que tendrá una Jefatura de Área de Educación Vial; una Jefatura de Departamento Administrativo; una Jefatura de Departamento Jurídico; una Jefatura de Departamento de la Unidad de Atención de Victimas; y una Jefatura de Departamento de Asuntos Internos, así como comandantes, radio operadores y agentes de policía preventiva y policía de tránsito, los cuales conformarán el tipo y número de plazas que señale el presupuesto de egresos respectivo.
+El Director General de Seguridad Pública y Policía Vial tendrá a su mando el cuerpo administrativo, técnico y operativo de la Policía y de Tránsito, una Dirección Operativa de Seguridad y Policía Vial, que se integrará por una Jefatura de Departamento de Comandancia de Seguridad Pública y Policía Vial y ésta, a su vez, tendrá una Jefatura de Área de Prevención del Delito, una Jefatura de Área de Educación Vial y una Jefatura de Área de Normas e Infracciones; además contará con una Jefatura de Departamento de Ingeniería de Tránsito, que tendrá una Jefatura de Área de Señalamientos Viales y de Semáforos. Una Dirección de Área Administrativa de la que dependerán una Jefatura de Área de Capacitación y Academia y una Jefatura de Área de Control Vehicular. Asimismo, contará con una Jefatura de Departamento Jurídico, una Jefatura de Departamento de Asuntos Internos y una Jefatura de Departamento de Atención a Víctimas, además de comandantes, radio operadores y agentes de policía preventiva y policía de tránsito, los cuales conformarán el tipo y número de plazas que señale el presupuesto de egresos respectivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -4701,55 +4731,75 @@ XVII.- Auxiliar a la Procesadora Municipal de Carne y a la Dirección General de
 
 XVIII.- Las demás que señalen la Ley, los Reglamentos y Manuales de Organización.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 255.
 
-La Dirección Operativa de Policía Vial tendrá las funciones siguientes:
+La Dirección Operativa de Seguridad y Policía Vial tendrá las funciones siguientes:
 
-I. Coordinar las acciones que en materia de educación vial se realizan en las instituciones educativas y a población abierta.
+I. Auxiliar al Director General en el cumplimiento de sus funciones y, en su caso, suplirlo en sus ausencias.
 
-II. Planear, ejecutar y vigilar el cumplimiento de programas permanentes de respeto a las normas viales encaminados a prevenir y disminuir el índice de accidentes de tránsito en las vialidades de la Ciudad Capital y en las zonas rurales del Municipio.
+II. Realizar el diseño de programas de prevención del delito, tanto en el ámbito especial como general, atendiendo las particularidades de la población de acuerdo con las áreas urbana, suburbana o rural.
 
-III. Fomentar preferentemente entre los conductores jóvenes la cultura del conductor responsable, como medida alterna para lograr la disminución de accidentes motivados por el abuso en la ingesta de alcohol o el consumo de estupefacientes y/o psicotrópicos.
+III. Promover la participación de la comunidad en la elaboración y ejecución de los programas de prevención del delito, con el propósito de lograr la corresponsabilidad Ciudadana en las labores operativas de seguridad pública.
 
-IV. Promover entre los conductores, la regularización documental de vehículos para evitar su detención y retiro de la circulación, así como promover la obtención y/o regularización de la licencia de manejo.
+IV. Observar un trato respetuoso con todas las personas debiendo abstenerse de todo trato arbitrario y de limitar arbitrariamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población.
 
-V. Promover y fomentar la cultura de la autoprotección de la salud de los conductores y vigilar que los motociclistas respeten los señalamientos viales, conduzcan a velocidad moderada, usen el casco protector de forma correcta y que manejen con precaución.
+V. Salvaguardar las instituciones y mantener el orden y tranquilidad del Municipio.
 
-VI. Promover y fomentar entre todos los conductores que manejen en las vías de jurisdicción municipal la cortesía vial y el respeto del derecho de terceros al uso de la vía pública, como factores esenciales para la prevención de accidentes.
+VI. Erradicar o disminuir los delitos y faltas administrativas que afectan a la población.
 
-VII. Impulsar la actualización y modernización de los sistemas tecnológicos de control vehicular para mejorar el orden del tránsito en las vialidades del Municipio.
+VII. Participar en operativos y mecanismos de coordinación con otras instituciones de seguridad pública, así como brindarles en su caso el apoyo que conforme a derecho proceda.
 
-VIII. Promover el mejoramiento de la señalización del tránsito en los rubros informativo, restrictivo y preventivo, a fin de generar las condiciones de un tráfico vehicular más fluido y seguro.
+VIII. Fomentar los valores éticos y cívicos individuales y sociales en los habitantes del Municipio, con especial énfasis en los adolescentes.
 
-IX. Las demás que le señale el Presidente Municipal, el Director General y este Reglamento.
+IX. Prevenir la delincuencia, la drogadicción, la vagancia y demás conductas antisociales.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+X. Coordinar las acciones que en materia de educación vial se realizan en las instituciones educativas y a población abierta.
+
+XI. Planear, ejecutar y vigilar el cumplimiento de programas permanentes de respeto a las normas viales encaminados a prevenir y disminuir el índice de accidentes de tránsito en las vialidades de la Ciudad Capital y en las zonas rurales del Municipio.
+
+XII. Fomentar preferentemente entre los conductores jóvenes la cultura del conductor responsable, como medida alterna para lograr la disminución de accidentes motivados por el abuso en la ingesta de alcohol o el consumo de estupefacientes y/o psicotrópicos.
+
+XIII. Promover y fomentar la cultura de la autoprotección de la salud de los conductores y vigilar que los motociclistas respeten los señalamientos viales, conduzcan a velocidad moderada, usen el casco protector de forma correcta y que manejen con precaución.
+
+XIV. Promover y fomentar entre todos los conductores que manejen en las vías de jurisdicción municipal la cortesía vial y el respeto del derecho de terceros al uso de la vía pública, como factores esenciales para la prevención de accidentes.
+
+XV. Promover el mejoramiento de la señalización del tránsito en los rubros informativo, restrictivo y preventivo, a fin de generar las condiciones de un tráfico vehicular más fluido y seguro.
+
+XVI. Las demás que le señale el Presidente Municipal, el Director General y este Reglamento.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 256.
 
-La Dirección Operativa de Seguridad Pública y Proximidad tendrá las funciones siguientes:
+La Dirección de Área Administrativa tendrá las funciones siguientes:
 
-I.- Auxiliar al Director General en el cumplimiento de sus funciones y en su caso supliéndolo en sus ausencias.
+I. Auxiliar al Director General en el cumplimiento de sus funciones.
 
-II.- Realizar el diseño de programas de prevención del delito, tanto en el ámbito especial como general, atendiendo las particularidades de la población de acuerdo con las áreas urbana, suburbana o rural.
+II. Gestionar y administrar los recursos humanos y materiales de la dependencia para que ésta pueda desarrollar sus funciones de seguridad, proximidad y protección a los Ciudadanos del Municipio de Colima y sus visitantes.
 
-III.- Promover la participación de la comunidad en la elaboración y ejecución de los programas de prevención del delito, con el propósito de lograr la corresponsabilidad Ciudadana en las labores operativas de seguridad pública.
+III. Coordinar los procesos de reclutamiento de personal tanto operativo como administrativo.
 
-IV.- Observar un trato respetuoso con todas las personas debiendo abstenerse de todo trato arbitrario y de limitar arbitrariamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población.
+IV. Ejercer el control y supervisión de la calidad en la atención brindada a la Ciudadanía dentro de las instalaciones de la Dirección General.
 
-V.- Salvaguardar las instituciones y mantener el orden y tranquilidad del Municipio.
+V. Realizar los trámites administrativos en materia de recursos humanos.
 
-VI.- Erradicar o disminuir los delitos y faltas administrativas que afectan a la población.
+VI. Promover y gestionar programas de capacitación para el personal de la Dirección General de Seguridad Pública y Policía Vial.
 
-VII.- Participar en operativos y mecanismos de coordinación con otras instituciones de seguridad pública, así como brindarles en su caso el apoyo que conforme a derecho proceda.
+VII. Dar trámite y seguimiento a la formación de policías certificados y capacitados, conforme a las Leyes y Normas establecidas, que incluye trámite y administración de exámenes de control y confianza, incorporación y registro de aspirantes ante el Instituto de Formación Policial, seguimiento del curricular oficial para profesionalización y carrera del policía, así como los demás trámites de certificaciones y licencias correspondientes.
 
-VIII.- Fomentar los valores éticos y cívicos individuales y sociales en los habitantes del Municipio, con especial énfasis en los adolescentes.
+VIII. Gestionar y suministrar el equipo operativo, administrativo y tecnológico para el buen desempeño de las funciones del personal adscrito a la Dirección General.
 
-IX.- Prevenir la delincuencia, la drogadicción, la vagancia y demás conductas antisociales.
+IX. Gestionar y supervisar el mantenimiento a instalaciones, mobiliario y equipo a cargo de la corporación.
 
-X.- Las demás que le señale el Presidente Municipal, el Director General y este Reglamento.
+X. Tramitar la dotación de formatos oficiales y demás requerimientos de papelería indispensables para el correcto desempeño de las funciones de la Dirección General.
+
+XI. Realizar el control vehicular, que incluye mantenimiento de patrullas, moto patrullas y vehículos utilitarios, así como el seguimiento de los trámites vehiculares, como adquisición de placas, tarjetas de circulación y seguros, entre otros.
+
+XII. Llevar a cabo el control y dosificación de combustible, para maximizar los rendimientos y buen uso de los recursos asignados.
+
+XIII. Las demás que le señale el Presidente Municipal, el Director General y este Reglamento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -6586,3 +6636,9 @@ SÉPTIMO.- El Presidente Municipal dispondrá se imprima, publique, circule y se
 P.O. 24 DE NOVIEMBRE DE 2018.
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL "ACUERDO QUE MODIFICA DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+TERCERO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo con lo dispuesto por el artículo 47, fracción I, incisos a) y f) de la Ley del Municipio Libre, artículos 140, 180, fracción I, incisos a) y f) del Reglamento de (sic) Gobierno Municipal de Colima.
