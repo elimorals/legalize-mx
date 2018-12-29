@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-130713"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2018-09-29"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE SALUD DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -877,19 +879,57 @@ IV. Contar con personal necesario, capacitado y especializado para proporcionar 
 
 Todo prestador de servicios de salud mental de los sectores público, social y privado, en caso de que observe algún tipo de lesión, discriminación, maltrato o cualquier otro signo que presuma la comisión de un delito en la persona que tenga algún trastorno mental, deberá de dar aviso inmediato al Ministerio Público correspondiente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+### Capítulo V. Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 62 Bis.
+
+El Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima, contará con un Consejo Directivo que será el encargado de determinar la administración y políticas de aplicación de los recursos del fondo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ### Capítulo I. Disposiciones Comunes
 
 ### Capítulo II. Mercados y Centros de Abasto
 
 ### Capítulo III. Construcciones
 
-### Capítulo IV. Cementerios, Crematorios y Funerarias
+###### Artículo 62 Ter.
 
-### Capítulo V. Limpieza Pública
+El Consejo Directivo del Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima se integrará de la siguiente manera:
+
+I. Un Presidente que será el Secretario de Salud y Bienestar Social del Gobierno del Estado;
+
+II. Un Secretario que será el Presidente de Comisión de Salud del Congreso del Estado;
+
+III. Cinco vocales quienes serán:
+
+a) El Secretario de Planeación y Finanzas del Gobierno del Estado;
+
+b) El Presidente de la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos del Congreso del Estado;
+
+c) El Presidente de la Comisión de Derechos Humanos, Asuntos indígenas y Atención al migrante, del Congreso del Estado;
+
+d) El Secretario de Administración y Gestión Pública del Gobierno del Estado; y
+
+e) El Titular del DIF Estatal Colima.
+
+Las atribuciones, funcionamiento y operación del Consejo Directivo, así como las reglas para la administración del Fondo se sujetarán a lo previsto por el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 62 Quáter.
+
+La aplicación de los recursos del fondo deberá ser en beneficio de los pacientes originarios del Estado de Colima o que comprueben residencia de por lo menos 5 años en el Estado.
+
+### Capítulo IV. Cementerios, Crematorios y Funerarias
 
 ## Título Tercero. Salubridad Local
 
-### Capítulo VI. Rastros
+### Capítulo V. Limpieza Pública
 
 ###### Artículo 63.
 
@@ -935,7 +975,7 @@ La Secretaría expedirá las normas técnicas a que quedará sujeto el control s
 
 La Secretaría publicará en el Periódico Oficial, las normas técnicas en materia de salubridad local y, en caso de considerarlo necesario, las resoluciones que dicte sobre la revocación de las autorizaciones sanitarias.
 
-### Capítulo VII. Agua Potable
+### Capítulo VI. Rastros
 
 ###### Artículo 69.
 
@@ -953,7 +993,7 @@ La Secretaría verificará que los mercados y centros de abasto, sean provisiona
 
 Los administradores, vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénico-sanitarias para el debido mantenimiento de sus locales y a sujetar el ejercicio de los mismos a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### Capítulo VIII. Establos, Granjas Avícolas, Porcícolas, Apiarios y Establecimientos Similares
+### Capítulo VII. Agua Potable
 
 ###### Artículo 72.
 
@@ -987,7 +1027,7 @@ Cuando los edificios, locales, construcciones o terrenos presenten un peligro, p
 
 Los propietarios o poseedores de los negocios establecidos en edificios o locales, están obligados a ejecutar las obras sanitarias que se requieran para cumplir con las disposiciones de higiene que establezca esta Ley, reglamentos y demás disposiciones relativas.
 
-### Capítulo IX. Zonas de Tolerancia y Prostitución
+### Capítulo VIII. Establos, Granjas Avícolas, Porcícolas, Apiarios y Establecimientos Similares
 
 ###### Artículo 80.
 
@@ -1007,7 +1047,7 @@ La aprobación de las solicitudes de conservación, refrigeración, exhumación 
 
 Para el traslado de cadáveres humanos se estará a lo dispuesto por la Ley General.
 
-### Capítulo X. Reclusorios y Centros de Readaptación Social
+### Capítulo IX. Zonas de Tolerancia y Prostitución
 
 ###### Artículo 83.
 
@@ -1043,7 +1083,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 Los Ayuntamientos proveerán y colocarán depósitos de basura en los parques, jardines, paseos y en otros lugares de la vía pública; además, realizarán el aseo y mantenimiento de los mismos, cada vez que sea necesario.
 
-### Capítulo XI. Baños Públicos
+### Capítulo X. Reclusorios y Centros de Readaptación Social
 
 ###### Artículo 88.
 
@@ -1091,7 +1131,7 @@ Queda a cargo del municipio, en el ámbito de su competencia, las actividades de
 
 La Secretaría podrá verificar en cualquier tiempo, el cumplimiento de la presente Ley y demás disposiciones legales aplicables.
 
-### Capítulo XII. Centros de Reunión y Espectáculos Públicos
+### Capítulo XI. Baños Públicos
 
 ###### Artículo 99.
 
@@ -1119,7 +1159,7 @@ Queda prohibido que los desechos que conduzcan los caños sean vertidos en ríos
 
 La infracción a esta disposición se sancionará de conformidad con los ordenamientos legales aplicables.
 
-### Capítulo XIII. Establecimientos Dedicados a la Prestación de Servicios
+### Capítulo XII. Centros de Reunión y Espectáculos Públicos
 
 ###### Artículo 105.
 
@@ -1147,7 +1187,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Los establecimientos que se encuentren en el supuesto del artículo anterior, la Secretaría podrá ordenar la desocupación de los mismos siguiendo el procedimiento correspondiente.
 
-### Capítulo XIV. Establecimientos Dedicados a la Cirugía Estética, Plástica y Reconstructiva
+### Capítulo XIII. Establecimientos Dedicados a la Prestación de Servicios
 
 ###### Artículo 109.
 
@@ -1175,7 +1215,7 @@ II. A las personas que padezcan de alguna enfermedad sexualmente transmisible u 
 
 La autoridad municipal determinará los lugares donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### Capítulo XV. Establecimientos para el Hospedaje
+### Capítulo XIV. Establecimientos Dedicados a la Cirugía Estética, Plástica y Reconstructiva
 
 ###### Artículo 113.
 
@@ -1201,7 +1241,7 @@ Tratándose de casos graves, de emergencia o cuando así lo requiera el tratamie
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como observar el capítulo respectivo de la Ley General.
 
-### Capítulo XVI. Transporte Público
+### Capítulo XV. Establecimientos para el Hospedaje
 
 ###### Artículo 115.
 
@@ -1211,7 +1251,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local dicte la Secretaría.
 
-### Capítulo XVII. Gasolineras y Establecimientos Similares
+### Capítulo XVI. Transporte Público
 
 ###### Artículo 117.
 
@@ -1221,7 +1261,7 @@ Para los efectos de esta Ley, se entiende por centro de reunión y espectáculos
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local emita la Secretaría.
 
-### Capítulo XVIII. Centros Antirrábicos
+### Capítulo XVII. Gasolineras y Establecimientos Similares
 
 ###### Artículo 119.
 
@@ -1243,7 +1283,7 @@ Corresponde a la autoridad sanitaria ejercer el control sanitario de los estable
 
 El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### Capítulo XIX. Casas, Edificios y en general cualquier Inmueble de Dominio Público ó Privado
+### Capítulo XVIII. Centros Antirrábicos
 
 ###### Artículo 123.
 
@@ -1261,7 +1301,7 @@ El funcionamiento de los establecimientos señalados en este capítulo deberá a
 
 La oferta de los servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica, estética y reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad su nombre, título que ostenta y número de cédula del especialista, número de certificación otorgado por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva y el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional, así como el nombre del establecimiento o unidad médica con licencia vigente.
 
-### Capítulo I. Autorizaciones
+### Capítulo XIX. Casas, Edificios y en general cualquier Inmueble de Dominio Público ó Privado
 
 ###### Artículo 127.
 
@@ -1281,7 +1321,7 @@ En caso de que estos establecimientos cuenten con servicios complementarios como
 
 La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
-### Capítulo II. Revocación de las Autorizaciones Sanitarias
+### Capítulo I. Autorizaciones
 
 ###### Artículo 131.
 
@@ -1291,7 +1331,7 @@ Para los efectos de esta Ley, se entiende por medio de transporte todo aquel veh
 
 Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
 
-### Capítulo III. Certificados
+### Capítulo II. Revocación de las Autorizaciones Sanitarias
 
 ###### Artículo 133.
 
@@ -1301,7 +1341,7 @@ Para los efectos de esta Ley, se entiende por gasolinería y estaciones de servi
 
 Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higiénico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
-### Capítulo Único
+### Capítulo III. Certificados
 
 ###### Artículo 135.
 
@@ -1337,7 +1377,7 @@ Los propietarios serán responsables de las lesiones y daños a terceros que cau
 
 Las autoridades competentes mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos susceptibles de contraer la rabia.
 
-### Capítulo I. Medidas de Seguridad Sanitaria
+### Capítulo Único
 
 ###### Artículo 139.
 
@@ -1355,7 +1395,7 @@ En caso de incumplimiento por parte de los propietarios o poseedores de dichos e
 
 ## Título Cuarto. Autorizaciones y Certificados
 
-### Capítulo II. Sanciones Administrativas
+### Capítulo I. Medidas de Seguridad Sanitaria
 
 ###### Artículo 142.
 
@@ -1387,7 +1427,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### Capítulo III. Procedimiento para aplicar las Medidas de Seguridad y Sanciones
+### Capítulo II. Sanciones Administrativas
 
 ###### Artículo 149.
 
@@ -1433,7 +1473,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### Capítulo IV. Recurso de Inconformidad
+### Capítulo III. Procedimiento para aplicar las Medidas de Seguridad y Sanciones
 
 ###### Artículo 156.
 
@@ -1467,7 +1507,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## Título Quinto. Vigilancia Sanitaria
 
-### Capítulo V. Prescripción
+### Capítulo IV. Recurso de Inconformidad
 
 ###### Artículo 161.
 
@@ -1574,6 +1614,8 @@ Transcurrido este plazo sin que se haya impugnado el resultado del análisis ofi
 En el caso de los productos muestreados en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad correspondiente, podrán determinar por medio de los análisis practicados, si éstos reúnen o no sus especificaciones sanitarias.
 
 ## Título Sexto. Medidas de Seguridad Sanitaria y Sanciones
+
+### Capítulo V. Prescripción
 
 ###### Artículo 174.
 
@@ -1916,3 +1958,13 @@ A t e n t a m e n t e
 JOSÉ IGNACIO PERALTA SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA. Rúbrica.
 
 ARNOLDO OCHOA GONZÁLEZ, SECRETARIO GENERAL DE GOBIERNO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 620 POR EL QUE SE ADICIONA UN CAPÍTULO V AL TÍTULO SEGUNDO DENOMINADO "FONDO PARA LA ATENCIÓN Y TRATAMIENTO DE HEMODIÁLISIS DEL ESTADO DE COLIMA" Y LOS ARTÍCULOS 62 BIS, 62 TER Y 62 QUÁTER A LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al momento en que lo haga el Decreto 535 aprobado por el Congreso del Estado con fecha 22 de agosto de 2018.
+
+SEGUNDO.- En un plazo no mayor de 90 días contados a partir de la entrada en vigor del presente Decreto se deberá conformar el Consejo Directivo a que se refiere el artículo 63 Ter.
