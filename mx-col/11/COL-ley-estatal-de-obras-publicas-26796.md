@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-obras-publicas-26796"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-16"
-last_updated: "2017-09-09"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE OBRAS PÚBLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 2002.
 
@@ -168,6 +168,32 @@ A ninguna obra pública o servicios relacionados, podrá imponérsele el nombre 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2015)</small>
 
 Es obligación de los funcionarios públicos adoptar y vigilar el cumplimiento de lo dispuesto en el presente artículo; en caso contrario, se aplicará lo establecido por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Al inicio de toda obra pública, la dependencia o Entidad responsable deberá colocar a la vista, la siguiente información:
+
+I. Nombre o tipo de obra;
+
+II. Dependencia o Entidad responsable de la obra;
+
+III. Nombre o razón social del contratista;
+
+IV. Tipo de contratación;
+
+V. Origen de los recursos;
+
+VI. Presupuesto autorizado, recurso licitado, y actualización de esta información en caso de cambios previstos en esta Ley;
+
+VII. El plazo de ejecución de los trabajos, indicando la fecha de inicio y conclusión de los mismos;
+
+VIII. Los permisos, autorizaciones y licencias; y
+
+IX. Procedimiento mediante el cual se contrató, y el Ente Público licitante.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Esta información deberá publicarse, también, en las páginas de internet oficiales de las dependencias o Entidades públicas responsables, además deberá anexar el catálogo final ejecutado, el finiquito, es decir el costo final de las obras ejecutadas, las justificaciones técnicas y económicas en caso de variación de lo contratado originalmente.
 
 ###### ARTÍCULO 7o.
 
@@ -321,7 +347,9 @@ La asignación presupuestal aprobada para cada contrato servirá de base para ot
 
 Las Dependencias y Entidades podrán convocar, adjudicar o contratar obras públicas y servicios, solamente cuando cuenten con la autorización global o específica del presupuesto de inversión y de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pagos correspondientes.
 
-Para la realización de obras públicas se requerirá contar con los estudios y proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados, o bien, con un avance en su desarrollo, el cual no será menor al 80 por ciento del total, que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Para la realización de obras públicas se requerirá contar con los estudios y proyectos que prevean las posibles afectaciones a particulares, para que sean incluidas dentro del presupuesto, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados, o bien, con un avance en su desarrollo, el cual no será menor al 80 por ciento del total, que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión.
 
 ###### ARTÍCULO 25.
 
@@ -689,7 +717,9 @@ VI. Forma y términos de garantizar la correcta inversión de los anticipos y el
 
 VII. Plazo, forma y lugar de pago de las estimaciones de trabajos ejecutados y, cuando corresponda, de los ajustes de costos;
 
-VIII. Penas convencionales por atraso en la ejecución de los trabajos por causas imputables a los contratistas, determinadas únicamente en función de los trabajos no ejecutados conforme al programa convenido, las que en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento. Las Dependencias y Entidades deberán fijar los términos, forma y porcentajes para aplicar las penas convencionales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VIII. Penas convencionales por atraso en la ejecución de los trabajos que afecten a negocios o vecinos de la obra, por causas imputables a los contratistas, determinadas únicamente en función de los trabajos no ejecutados conforme al programa convenido, las que en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento. Las Dependencias y Entidades deberán fijar los términos, forma y porcentajes para aplicar las penas convencionales;
 
 IX. Términos en que el contratista, en su caso, reintegrará las cantidades que, en cualquier forma, hubiere recibido en exceso por la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el artículo 55 de este ordenamiento;
 
@@ -721,9 +751,17 @@ Los derechos y obligaciones que se deriven de los contratos no podrán cederse e
 
 Los contratistas que celebren los contratos a que se refiere esta Ley deberán garantizar:
 
-I. Los anticipos que, en su caso, reciban. Estas garantías deberán constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo y por la totalidad del monto de los anticipos; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-II. El cumplimiento de los contratos. Esta garantía deberá constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo.
+I. Los anticipos que, en su caso, reciban. Estas garantías deberán constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo y por la totalidad del monto de los anticipos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+II. El cumplimiento de los contratos. Esta garantía deberá constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+III. El cumplimento en tiempo y forma de los contratos. Esta garantía sobre retrasos en la ejecución de las obras deberá constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo.
 
 Para los efectos de este artículo, los titulares de las Dependencias o los órganos de gobierno de las Entidades fijarán las bases, la forma y el porcentaje a los que deberán sujetarse las garantías que deban constituirse. En los casos señalados en los artículos 42, fracciones IX y X, y 43 de esta Ley, el servidor público facultado para firmar el contrato, bajo su responsabilidad, podrá exceptuar a los contratistas de presentar la garantía del cumplimiento.
 
@@ -736,6 +774,10 @@ I. La Secretaría de Finanzas, por actos o contratos que se celebren con las Dep
 II. Las Entidades, cuando los actos o contratos se celebren con ellas; y
 
 III. Las Tesorerías de los Ayuntamientos, en los casos de los contratos celebrados al amparo de la fracción II del artículo 1º de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Las anteriores Entidades y dependencias deberán asegurar hasta el final de las obras las cantidades entregadas como garantía, para en caso de retraso en el tiempo de ejecución de las obras y que éstas afecten a los particulares, se pueda indemnizar en términos de la Ley de Responsabilidad Patrimonial del Estado de Colima.
 
 ###### ARTÍCULO 50.
 
@@ -783,9 +825,11 @@ X. Las demás que por cualquier causa se encuentre (sic) impedidas para ello por
 
 ### CAPÍTULO SEGUNDO. DE LA EJECUCIÓN
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 52.
 
-La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo. La Dependencia o Entidad contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deban llevarse a cabo. El incumplimiento de la Dependencia o Entidad prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. La entrega deberá constar por escrito.
+La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo. La Dependencia o Entidad contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deban llevarse a cabo. El incumplimiento de la Dependencia o Entidad prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos, generando responsabilidad de los órganos gubernamentales frente a los particulares que se vean afectados por el retraso en dichas obras. La entrega deberá constar por escrito.
 
 ###### ARTÍCULO 53.
 
@@ -859,9 +903,11 @@ Cuando durante la ejecución de los trabajos se requiera la realización de cant
 
 No será aplicable el porcentaje que se establece en el primer párrafo de este artículo, cuando se trate de contratos cuyos trabajos se refieran al mantenimiento o restauración de los inmuebles a que hace mención el artículo 5° de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos, en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 60.
 
-Las Dependencias y Entidades podrán suspender temporalmente, en todo o en parte, por causa justificada los trabajos contratados. Los titulares de las Dependencias y los órganos de gobierno de las Entidades designarán a los servidores públicos que podrán ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la que no podrá prorrogarse o ser indefinida.
+Las Dependencias y Entidades podrán suspender temporalmente, en todo o en parte, por causa justificada los trabajos contratados. Los titulares de las Dependencias y los órganos de gobierno de las Entidades designarán a los servidores públicos que podrán ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la que no podrá prorrogarse o ser indefinida. Las suspensiones temporales o indefinidas que no sean claramente justificadas, generarán responsabilidad frente a los particulares que sean afectados por el retraso en las obras.
 
 Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, existan causas justificadas que les impidan la continuación de los trabajos y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al Estado, o bien, no sea posible determinar la temporalidad de la suspensión de los trabajos a que se refiere este artículo.
 
@@ -911,9 +957,11 @@ Determinado el saldo total, la dependencia o entidad pondrá a disposición del 
 
 A la conclusión de las obras públicas, las Dependencias y Entidades deberán registrar en las oficinas de Catastro y del Registro Público de la Propiedad y del Comercio, los títulos de propiedad correspondientes de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las obras públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 66.
 
-Concluidos los trabajos, el contratista quedará obligado a responder de los defectos que resultaren en los mismos, de los vicios ocultos y de cualquier otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
+Concluidos los trabajos, el contratista quedará obligado a responder de los defectos que resultaren en los mismos, de los vicios ocultos y del menoscabo en el patrimonio de negocios y molestias causadas a vecinos de la obra, siempre y cuando haya existido un atraso en las mismas sin previo aviso ni causa justificada, y de cualquier otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
 
 Los trabajos se garantizarán durante un plazo de doce meses por el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los trabajos los contratistas, a su elección, deberán constituir fianza por el equivalente al diez por ciento del monto total ejercido de los trabajos; presentar una carta de crédito irrevocable por el equivalente al cinco por ciento del monto total ejercido de los trabajos, o bien, aportar recursos líquidos por una cantidad equivalente al cinco por ciento del mismo monto en fideicomisos especialmente constituidos para ello.
 
@@ -1025,7 +1073,9 @@ I. Los licitantes que injustificadamente y por causas imputables a los mismos no
 
 II. Los contratistas que se encuentren en la fracción III del artículo 51 de este ordenamiento, respecto de dos o más Dependencias o Entidades;
 
-III. Los contratistas que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, como consecuencia, causen daños o perjuicios graves a la Dependencia o Entidad de que se trate; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+III. Los contratistas que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, como consecuencia, causen daños o perjuicios graves a la Dependencia o Entidad de que se trate o a negocios y vecinos de la obra; y
 
 IV. Los licitantes o contratistas que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una queja en una audiencia de conciliación o de una inconformidad.
 
@@ -1197,6 +1247,12 @@ SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medid
 
 P.O. 9 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 347 POR EL QUE SE REFORMAN LOS PARRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 6 BIS DE LA LEY ESTATAL DE OBRAS PÚBLICAS".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 347 POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 6 BIS DE LA LEY ESTATAL DE OBRAS PÚBLICAS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 603 POR EL QUE SE REFORMAN LOS ARTÍCULOS 24, EL PÁRRAFO SEGUNDO; 46, FRACCIÓN VIII; 48, FRACCIONES I Y II; 52; 60, PÁRRAFO PRIMERO; 66, PÁRRAFO PRIMERO; ASIMISMO SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 6º BIS; UNA FRACCIÓN III AL ARTÍCULO 48; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 49 DE LA LEY ESTATAL DE OBRAS PÚBLICAS; SE REFORMA LA FRACCIÓN X DEL PÁRRAFO 1 DEL ARTÍCULO 38; EL PÁRRAFO 2 DEL ARTÍCULO 48; LA FRACCIÓN XIX DEL PÁRRAFO 1 DEL ARTÍCULO 49; EL PÁRRAFO 4 DEL ARTICULO 56; Y EL PÁRRAFO 1 DEL ARTÍCULO 58; ASIMISMO SE ADICIONA LA FRACCIÓN XI AL PÁRRAFO 1 DEL ARTÍCULO 38; Y LA FRACCIÓN IV AL PÁRRAFO 4 DEL ARTÍCULO 52; TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
