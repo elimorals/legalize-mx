@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tekax-yucatan-96931"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2018-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE TEKAX, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL MUNICIPIO DE TEKAX, YUCATÁN, PUBLICADA EN EL D.O. DE 29 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE TEKAX, YUCATÁN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 135, EL PRESENTE ORDENAMIENTO ENTRA EL DÍA 1 DE ENERO DEL AÑO 2014 PREVIA SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -1478,3 +1478,27 @@ GOBERNADOR DEL ESTADO DE YUCATÁN
 C. VÍCTOR EDMUNDO CABALLERO DURÁN
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA FRACCIÓN V. DEL ARTÍCULO SEGUNDO DEL "DECRETO 23/2018 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MOTUL, KANASÍN, PETO, TAPAKAN, TEKAX Y TZUCACAB, YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2019, previa publicación en el diario oficial del estado.
+
+Segundo. Abrogación de la ley de hacienda
+
+A partir de la entrada en vigor de esta ley, quedará abroga (sic) la Ley de Hacienda del Municipio de Tekax, Yucatán publicada en el Diario Oficial del Gobierno del Estado de Yucatán mediante Decreto 135 de fecha 27 de diciembre de 2013.
+
+Tercero. Límite del importe del impuesto predial
+
+En el ejercicio fiscal 2019 el importe anual a pagar por los contribuyentes del impuesto predial, base valor catastral, no podrá exceder de un 30% del valor que le haya correspondido durante el ejercicio fiscal 2018. Este comparativo se efectuará solamente sobre el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 23/2018 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MOTUL, KANASÍN, PETO, TAPAKAN, TEKAX Y TZUCACAB, YUCATÁN".]
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto, entrará en vigor el día 01 de enero del año 2019, previo su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
