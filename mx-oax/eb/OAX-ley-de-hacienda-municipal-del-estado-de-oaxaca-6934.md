@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2018-02-28"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -253,7 +253,7 @@ Los inmuebles responden preferentemente del pago de impuesto predial, aún cuand
 
 ###### ARTICULO 18.
 
-Solo los bienes del dominio público de la Federación, del Estado y municipios están exentos del pago del impuesto predial a excepción de aquellos bienes que por cualquier titulo se encuentren en posesión de entidades paraestatales o personas físicas y morales destinados a fines administrativos o propósito distinto a los de su objeto público.
+Solo los bienes del dominio público de la Federación, del Estado y municipios están exentos del pago del impuesto predial a excepción de aquellos bienes que por cualquier título se encuentren en posesión de entidades paraestatales o personas físicas y morales destinados a fines administrativos o propósito distinto a los de su objeto público.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 2015)</small>
 
@@ -366,6 +366,10 @@ La Base para determinar el importe a pagar por concepto de este impuesto será e
 ###### ARTICULO 27.
 
 El impuesto sobre Traslación de Dominio y otras operaciones de bienes inmuebles se causará y pagará aplicando las tasas previstas en las Leyes de Ingresos Municipales respectivas que al efecto propongan los Municipios a la Legislatura del Estado, y sólo para el caso de que no se publiquen éstas en el Periódico Oficial del Gobierno del Estado, la tasa aplicable será del 2%.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+La tasa aplicable de este impuesto no podrá ser mayor al 2% en el caso de vivienda habitacional que no exceda de (sic) valor que resulte de multiplicar por diecisiete la Unidad de Medida y Actualización diaria, elevada esta cantidad al año.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1714,3 +1718,13 @@ P.O. 28 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 736.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 36 DE LA LEY ESTATAL DE DERECHOS”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 10.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 27 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil diecinueve, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
