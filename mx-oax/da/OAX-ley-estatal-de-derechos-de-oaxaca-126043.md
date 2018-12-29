@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2018-06-30"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -85,7 +85,9 @@ IV. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado;
 
 V. Unidades económicas: Sucesiones, fideicomisos y las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles, o cualquiera otra forma de asociación aun cuando no sean reconocidas como personas jurídicas conforme otras disposiciones legales aplicables;
 
-VI. UMA: Unidad de cuenta, índice, base, medida o referencia establecida por el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la ley reglamentaria de la materia.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VI. UMA: Unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las Leyes Estatales, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la ley reglamentaria de la materia.
 
 Los derechos que se establecen en esta Ley se pagarán en el monto, forma, lugar y época de pago que determine la misma.
 
@@ -135,6 +137,8 @@ Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 2.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 14 A LA 15.]</small>
+
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
 
 ###### Artículo 9.
@@ -142,6 +146,8 @@ Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamie
 Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de los Teatros del Estado, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 2 A LA 3.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 15.]</small>
 
 ###### Artículo 10.
 
@@ -158,6 +164,8 @@ Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamie
 Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de las instalaciones públicas, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 15.]</small>
 
 ###### Artículo 12.
 
@@ -197,6 +205,8 @@ Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 15.]</small>
+
 ### CAPÍTULO I. SERVICIOS PÚBLICOS COMUNES
 
 ## TÍTULO TERCERO. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS PÚBLICOS
@@ -227,9 +237,11 @@ V Expedición copia simple de bases de licitación para obra pública: 0.01
 
 Cuando se requiera los servicios de mensajería, los gastos correrán a cargo del solicitante.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-VI Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencias y entidades de la administración pública, y aquellas que se celebren con los Municipios donde la fuente de financiamiento provenga de lo autorizado en el programa de inversión, pagarán y causarán por el importe total de la contratación sin incluir el importe del impuesto al valor agregado el dos punto cinco por ciento, por los servicios de supervisión.
+VI Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencias y entidades de la administración pública, y aquellas que se celebren con los Municipios donde la fuente de financiamiento provenga de recursos estatales autorizado (sic) en el programa de inversión, pagarán y causarán por el importe total de la contratación, sin incluir el importe del impuesto al valor agregado el dos punto cinco por ciento, por los servicios de supervisión.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
 
 El procedimiento y términos de retención del derecho antes citado, se establecerá en Reglas por la Secretaría de Finanzas.
 
@@ -245,7 +257,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 15 A LA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4; 29 DE DICIEMBRE DE 2018, PÁGINA16.]</small>
 
 ### CAPÍTULO IV. SECRETARÍA DE SALUD
 
@@ -255,13 +267,15 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 4.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16.]</small>
 
 ###### Artículo 20.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de seguridad y vigilancia integral especializada, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 16.]</small>
 
 ###### Artículo 21.
 
@@ -281,7 +295,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en hospitales generales, básicos, centros de salud, unidades de especialidades del Estado, de conformidad con las cuotas establecidas en el Acuerdo por el que se emita el Tabulador de derechos por la prestación de servicios en Atención en Salud publicado en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO VI. SECRETARÍA DE VIALIDAD Y TRANSPORTE
+### CAPÍTULO VI. SECRETARÍA DE MOVILIDAD
 
 ###### Artículo 24.
 
@@ -295,6 +309,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 17.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 16 A LA 17.]</small>
+
 ###### Artículo 26.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de servicios de agua potable y alcantarillado, de conformidad con las siguientes cuotas:
@@ -305,13 +321,17 @@ Los servicios públicos antes enlistados, se entenderán referidos a una toma o 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 18.]</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 27.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de suministro de agua potable, alcantarillado y drenaje, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que preste la Comisión Estatal del Agua, en materia de suministro de agua potable, alcantarillado y drenaje, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 18 A LA 19.]</small>
 
 Los servicios públicos que se realicen en los Organismos Operadores de Agua en el Estado, causarán y pagarán de conformidad con las cuotas que se autoricen por la Secretaría en el Acuerdo por el que se emita el Tabulador de derechos por la prestación de servicios de agua potable y alcantarillado publicado en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ### CAPÍTULO VII. SECRETARÍA DE LAS CULTURAS Y ARTES DE OAXACA
 
@@ -319,11 +339,227 @@ Los servicios públicos que se realicen en los Organismos Operadores de Agua en 
 
 ###### Artículo 28.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, de conformidad con las siguientes cuotas:
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2018)
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 19.]</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 4 A LA 5.]</small>
+Artículo 28 A. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, de conformidad con las siguientes cuotas:
+
+No. Concepto Número de UMA
+
+Renovación
+
+I Expedición de títulos de
+
+concesión para el
+
+servicio público colectivo: 236.50 30.00
+
+II Expedición de títulos de
+
+concesión para el servicio
+
+público de taxi: 236.50 30.00
+
+III Expedición de títulos de
+
+concesión para el servicio
+
+público motocarro
+
+o mototaxi: 18.36 10.00
+
+IV Expedición de títulos de
+
+concesión para el servicio
+
+público mixto: 198.00 23.00
+
+V Expedición de títulos de
+
+concesión para el servicio
+
+público de carga general: 198.00 40.00
+
+VI Expedición de permisos
+
+para transporte especial: 23.00
+
+VII Autorización para la
+
+transferencia de derechos
+
+entre particulares: 65.00
+
+VIII Integración de expedientes
+
+administrativos: 6.00
+
+IX Expedición de permiso
+
+provisional para circular
+
+sin placas ni tarjeta de
+
+circulación, por 30 días: 3.60
+
+X Autorización de alta
+
+vehicular de servicio
+
+público: 5.00
+
+XI Autorización de cambio
+
+de vehículo de servicio
+
+público: 5.00
+
+XII Autorización anual de
+
+prórroga por antigüedad
+
+de vehículo de servicio
+
+público: 1.00
+
+XIII Expedición de permiso de
+
+ruta o ampliación: 103.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Artículo 28 B. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, en materia de educación y vinculación, de conformidad con las siguientes cuotas:
+
+No. Concepto Número de UMA
+
+I Expedición de autorización para impartir
+
+cursos de capacitación a concesionarios,
+
+permisionarios u operadores del servicio
+
+público: 100.00
+
+II Impartición de curso (sic) capacitación
+
+a prestadores de servicio público: 5.00
+
+III Expedición de constancias de
+
+capacitación a prestadores de servicio público: 5.00
+
+IV Expedición, renovación y reposición
+
+de tarjetón para conductores: 6.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Artículo 28 C. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, en materia de planeación, normatividad e imagen vial, de conformidad con las siguientes cuotas:
+
+No. Concepto Número de UMA
+
+I Expedición de dictamen sobre
+
+la factibilidad de la solicitud del
+
+servicio especial de transporte: 5.00
+
+II Expedición de dictamen sobre
+
+la factibilidad de la solicitud del
+
+servicio público de transporte 5.00
+
+Hasta 5000 1000
+
+habitantes habitantes
+
+adicionales
+
+III Por la elaboración de estudios
+
+de factibilidad como requisito
+
+para la integración de expediente
+
+para solicitud de concesión: 100.00 4.00
+
+IV Expedición de dictamen de
+
+modificación o ampliación de ruta: 5.00
+
+V Expedición y elaboración de
+
+derroteros, por cada uno 2.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Artículo 28 D. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, respecto de operación del transporte público, de conformidad con las siguientes cuotas:
+
+No. Concepto Número de UMA
+
+I Registro de agrupación: 50.00
+
+II Cambio de agrupación por concesionario: 20.00
+
+III Registro de modificación del acta
+
+constitutiva de la agrupación: 50.00
+
+IV Autorización de cromática, distintivos
+
+y aditamentos para vehículos del
+
+servicio del transporte público de pasajeros: 5.00
+
+V Asignación, corrección y notificación
+
+del Número Único de Concesionario 5.00
+
+VI Asignación o reposición de código “QR”: 5.00
+
+VII Expedición de tarjetón de tarifas
+
+oficiales para el cobro del servicio del
+
+transporte público de pasajeros: 5.00
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Artículo 28 E. Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, respecto del registro estatal de transporte de Oaxaca, de conformidad con las siguientes cuotas:
+
+No. Concepto Número de UMA
+
+I Inscripción de concesionarios en el
+
+registro estatal de transporte: 22.50
+
+II Inscripción de operadores del transporte
+
+en el registro estatal de transporte: 3.80
+
+III Inscripción de vehículos del servicio
+
+público en el registro estatal de transporte: 7.50
+
+IV Inscripción de red de rutas tratándose
+
+del servicio público de transporte colectivo
+
+en el registro estatal de transporte: 18.60
+
+V. Expedición de la constancia de
+
+inscripción en el Registro Estatal del
+
+Transporte para concesionarios, operadores
+
+de transporte público y de vehículos del
+
+servicio público: 1.00
+
+VI Uso de la plataforma electrónica 3.80
 
 ###### Artículo 29.
 
@@ -351,7 +587,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 20.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 5.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 5; 29 DE DICIEMBRE DE 2018, PÁGINA 18.]</small>
 
 ### CAPÍTULO VIII. SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO
 
@@ -361,13 +597,21 @@ Se causarán y pagarán derechos por los servicios públicos que se presten de c
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 5 A LA 6.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 18.]</small>
+
 ### CAPÍTULO IX. SECRETARÍA DE DESARROLLO AGROPECUARIO, PESCA Y ACUACULTURA
 
 ###### Artículo 32.
 
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2018)
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 32 Bis.
+
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de atención social, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 20 A LA 21.]</small>
+> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 19 A LA 20.]</small>
 
 ### CAPÍTULO X. SECRETARÍA DE FINANZAS
 
@@ -387,6 +631,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 21.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 20.]</small>
+
 ###### Artículo 35.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia catastral, de conformidad con las siguientes cuotas:
@@ -397,13 +643,15 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 ### CAPÍTULO XII. SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 36.
 
 Se causarán y pagarán derechos por los servicios públicos que se (sic) realice la Secretaría de Administración, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 22.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 28 DE FEBRERO DE 2018, PÁGINAS DE LA 2 A LA 3; 30 DE JUNIO DE 2018, PÁGINA 7.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 28 DE FEBRERO DE 2018, PÁGINAS DE LA 2 A LA 3; 30 DE JUNIO DE 2018, PÁGINA 7; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 20 A LA 21.]</small>
 
 ###### Artículo 37.
 
@@ -415,11 +663,15 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 ###### Artículo 38.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de inspección, vigilancia y control que las leyes le encomienden a la Secretaría de la Contraloría y Transparencia Gubernamental, los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con dependencias y entidades, pagarán sobre el importe de cada una de las estimaciones de trabajo el cinco al millar.
+Por el servicio de vigilancia, inspección y control de obra que las leyes de la materia encomiendan a la Secretaría de la Contraloría y Transparencia Gubernamental, los contratistas que celebren contratos de obra pública con las dependencias y entidades del Gobierno del Estado, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
 
-Las oficinas pagadoras de las dependencias de la administración pública central y descentralizada, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior y depositarán de inmediato a la cuenta bancaria que para tal efecto aperture dicha Secretaría.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-Los ingresos que se obtengan por la recaudación de este derecho, se destinarán a la Secretaría de la Contraloría y Transparencia Gubernamental, para el fortalecimiento del servicio de inspección y vigilancia a que se refiere este artículo.
+Las oficinas pagadoras de las dependencias de la administración pública central y descentralizada, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior y depositarán de inmediato conforme al procedimiento que para tal efecto determine la Secretaría mediante reglas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Una vez recibidos los ingresos en la Secretaría, por la recaudación de este derecho, conforme al procedimiento establecido en reglas, estos serán destinados a la Secretaría de la Contraloría y Transparencia Gubernamental, para el fortalecimiento del servicio de inspección y vigilancia a que se refiere este artículo.
 
 Para efectos de lo anterior, la Secretaría de la Contraloría y Transparencia Gubernamental deberá realizar la conciliación con la Secretaría de Finanzas dentro de los primeros 10 días naturales de concluido el mes de calendario sobre lo recaudado para que se proceda al registro de los ingresos y egresos que correspondan a efecto de informar en la Cuenta Pública del Estado.
 
@@ -441,7 +693,27 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 7.]</small>
 
-Se pagarán y causarán derechos de 0.66 UMA por el acceso a la Feria Internacional del Mezcal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 40 Bis.
+
+Se pagarán y causarán derechos por la Feria Internacional del Mezcal, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+I. Acceso 0.66
+
+II. Instalación de stand de:
+
+a) Área de mezcal: 63.00
+
+b) Área agroindustrial: 25.00
+
+c) Área gastronómica: 50.00
+
+d) Otros 13.00
 
 ### CAPÍTULO XV. SECRETARÍA DE MEDIO AMBIENTE, ENERGÍAS Y DESARROLLO SUSTENTABLE
 
@@ -451,7 +723,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 23.]</small>
 
-### CAPÍTULO XVI. CONSEJERÍA JURÍDICA DEL GOBIERNO DEL ESTADO
+### CAPÍTULO XVI. INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE OAXACA
 
 ###### Artículo 42.
 
@@ -459,7 +731,37 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 23 A LA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 7 A LA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 7 A LA 8; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 21 A LA 22.]</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 42 Bis.
+
+Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de auditoría ambiental, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Renovación (cada dos años)
+
+I. Registro como auditor coordinador: 75.00 65.00
+
+II. Obtención del registro como
+
+auditor especialista por materia:
+
+aire y ruido, agua, subsuelo, residuos,
+
+energía, aprovechamiento y conservación
+
+de los recursos naturales y de la vida
+
+silvestre, aprovechamiento de los
+
+recursos forestales, riesgo y
+
+emergencias (sic) ambiental: 25.00 20.00
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ### CAPÍTULO I. BÁSICA
 
@@ -469,7 +771,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23.]</small>
 
 ###### Artículo 44.
 
@@ -477,11 +779,75 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23.]</small>
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2018)</small>
 
 El registro de actos o contratos, se cobrarán por cada uno, con independencia de que aparezcan en un mismo documento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 44 Bis.
+
+Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de registro de la propiedad y del comercio, de conformidad con las siguientes cuotas:
+
+I. Registro Público de Comercio
+
+Número de UMA
+
+a) Acta de sesión de consejo de administración: 10.00
+
+b) Asamblea (extraordinaria): 10.00
+
+c) Constitución de sociedad mercantil: 12.00
+
+d) Constitución de sociedad micro industrial: 10.00
+
+e) Depósito de firmas: 12.00
+
+f) Matriculación de comercio individual: 8.00
+
+g) Poderes que constan en las actas de asamblea: 10.00
+
+h) Registro de estatutos de sociedad extranjera: 14.00
+
+i) Renuncia de poderes: 8.00
+
+j) Cancelación de gravamen: 9.00
+
+k) Convenio modificatorio: 12.00
+
+l) Rectificación/cancelación de
+
+inscripciones/anotaciones: 8.00
+
+m) Inscripciones/anotaciones: 14.00
+
+n) Poder para otorgar o suscribir títulos de créditos: 14.00
+
+o) Anotación por orden de autoridad: 14.00
+
+p) Concurso mercantil: 14.00
+
+q) Corredor público: 14.00
+
+r) Capitulaciones matrimoniales: 14.00
+
+s) Nombramiento y cancelación de interventor: 14.00
+
+t) Cancelación de anotación por orden de autoridad: 14.00
+
+u) Apoderado adicional otorgado por persona
+
+física o moral: 3.50
+
+v) Informes solicitados por autoridades: 6.50
+
+w) Consulta de folio mercantil: 2.00
+
+x) Historia traslativa: 16.00
+
+y) Certificado de gravamen: 10.00
 
 ###### Artículo 45.
 
@@ -531,11 +897,29 @@ Se causarán y pagarán derechos por los servicios públicos que realice la Coor
 
 > <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 11 A LA 13.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24.]</small>
+
 ###### Artículo 50.
 
 Se causarán y pagarán derechos por los servicios públicos que realice el Instituto de Estudios de Bachillerato del Estado de Oaxaca, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 26.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 24.]</small>
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Tratándose de las inscripciones y/o reinscripciones de los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se sujetarán a los siguientes descuentos:
+
+Promedio Descuento
+
+a) 8.0 a 8.5 25 por ciento
+
+b) 8.6 a 9.0 50 por ciento
+
+c) 9.1 a 9.5 75 por ciento
+
+d) 9.6 a 10 100 por ciento
 
 ###### Artículo 51.
 
@@ -543,7 +927,7 @@ Se causarán y pagarán derechos por los servicios públicos que realice el Cole
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 26.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 13.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 13; 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 24 A LA 25.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2018)</small>
 
@@ -627,6 +1011,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realice (sic
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25.]</small>
+
 A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.5 y, 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
@@ -638,6 +1024,8 @@ El Consejo Directivo determinará el otorgamiento de becas que van desde el 25%,
 Se causarán y pagarán derechos por los servicios públicos que se realicen las (sic) universidades parte del Sistema de Universidades Estatales, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25.]</small>
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
 
@@ -666,3 +1054,13 @@ P.O. 30 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1501.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN, Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE DERECHOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 12.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE DERECHOS DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el 1 de enero de 2019, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
