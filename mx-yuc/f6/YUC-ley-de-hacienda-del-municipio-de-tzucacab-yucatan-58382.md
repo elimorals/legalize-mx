@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tzucacab-yucatan-58382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2008-12-27"
+last_updated: "2018-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "YUC"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY DE HACIENDA DEL MUNICIPIO DE TZUCACAB, PUBLICADA EN EL D.O. DE 29 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-LEY DE HACIENDA DEL MUNICIPIO DE TZUCACAB, YUCATAN
+LEY DE HACIENDA DEL MUNICIPIO DE TZUCACAB, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 22 de diciembre de 2007.
 
@@ -1378,3 +1378,21 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA FRACCIÓN VI. DEL ARTÍCULO SEGUNDO DEL “DECRETO 23/2018 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MOTUL, KANASÍN, PETO, TAPAKAN, TEKAX Y TZUCACAB, YUCATÁN". LA "LEY DE HACIENDA DEL MUNICIPIO DE KANASÍN, YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este Decreto entrará en vigor el 1 de enero de 2019, previa publicación en el Diario Oficial del Estado del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación de la ley de hacienda
+
+A partir de la entrada en vigor de esta ley, quedará abroga (sic) la Ley de Hacienda del Municipio de Tzucacab, Yucatán, promulgada mediante Decreto número 43 publicada en el Diario Oficial del Gobierno del Estado de Yucatán de fecha 22 de diciembre de 2007.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 23/2018 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MOTUL, KANASÍN, PETO, TAPAKAN, TEKAX Y TZUCACAB, YUCATÁN".]
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto, entrará en vigor el día 01 de enero del año 2019, previo su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
