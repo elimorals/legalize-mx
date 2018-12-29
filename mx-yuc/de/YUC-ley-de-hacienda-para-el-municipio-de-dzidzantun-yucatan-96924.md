@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-dzidzantun-yucatan-96924"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2016-12-28"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE DZIDZANTUN, YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE DZIDZANTÚN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -529,13 +531,11 @@ Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a
 
 DE LA TARIFA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 47.
 
-Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicaran las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinara aplicando la tasa del 0.20 % sobre el valor catastral de la sección 1 a la sección 4 previstos en este artículo. Y cuando no se pudiera determinar se cobrará la cuota fija considerando los siguientes importes:
+Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicaran las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinara aplicando la tasa del 0.10 % sobre el valor catastral de la sección 1 a la sección 4 previstos en este artículo. Y cuando no se pudiera determinar se cobrará la cuota fija considerando los siguientes importes:
 
 Predio Urbano: $45 por m2
 
@@ -855,35 +855,35 @@ VALORES DE CONSTRUCCION
 
 (CABECERA Y RESTO DEL MUNICIPIO CON EXCEPCION DE LA ZONA COSTERA)
 
-> <small>[N. DE E. VÉASE VALORES DE CONSTRUCCIÓN EN EL D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINA 44.]</small>
+> <small>[N. DE E. VÉASE VALORES DE CONSTRUCCIÓN EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 7.]</small>
 
-UNICAMENTE PARA LA ZONA COSTERA. Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicaran las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinara aplicando el factor de 0.02 sobre el valor catastral. La referencia son las unidades de gestión ambiental establecidas por la Secretaria de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado através (sic) del Programa de Ordenamiento Ecológico y Territorial de la Costa Yucateca.
+UNICAMENTE PARA LA ZONA COSTERA. Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicaran las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinara aplicando el factor de 0.01 sobre el valor catastral. La referencia son las unidades de gestión ambiental establecidas por la Secretaria de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado a través del Programa de Ordenamiento Ecológico y Territorial de la Costa Yucateca.
 
 COORDENADAS UGA: DZD01-BAR-C3.-
 
-> <small>[N. DE E. VÉASE COORDENADAS UGA: DZD01-BAR-C3 EN EL D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINA 44.]</small>
+> <small>[N. DE E. VÉASE COORDENADAS UGA: DZD01-BAR-C3 EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS 7 Y 8.]</small>
 
 COORDENADAS UGA: DZD02-BAR-URB.-
 
-> <small>[N. DE E. VÉASE COORDENADAS UGA: DZD02-BAR-URB EN EL D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINA 44.]</small>
+> <small>[N. DE E. VÉASE COORDENADAS UGA: DZD02-BAR-URB EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 8.]</small>
 
 COORDENADAS UGA: DZD03-BAR_C3.-
 
-> <small>[N. DE E. VÉASE COORDENADAS UGA: DZD03-BAR_C3 EN EL D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINA 45.]</small>
+> <small>[N. DE E. VÉASE COORDENADAS UGA: DZD03-BAR_C3 EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS 8 Y 9.]</small>
 
 REFERENCIA LIMITES POR M2
 
 UGA: DZD01-
 
-BAR-C3 Esta UGA se divide en dos zonas para $900.0
+BAR-C3 Esta UGA se divide en dos zonas $900.0
 
-efectos del cálculo del Impuesto
+para efectos del cálculo del Impuesto
 
-Predial, quedando como sigue: Los
+Predial, quedando como sigue:
 
-predios que se encuentran entre el
+Los predios que se encuentran entre
 
-Golfo de México y la carretera
+el Golfo de México y la carretera
 
 Estatal identificada como tramo
 
@@ -891,11 +891,11 @@ Chabihua-Santa Clara;
 
 Los predios que se encuentran entre $150.00
 
-la carretera Estatal identificada
+la carretera Estatal identificada como
 
-como tramo Chabihua-Santa Clara y al
+tramo Chabihua-Santa Clara y al sur
 
-sur con las UGA´s: DZD04-MAN_ANP
+con las UGA´s: DZD04-MAN_ANP
 
 y DZD05-LAG_ANP
 
@@ -903,17 +903,15 @@ UGA: DZD02-
 
 BAR-URB Esta UGA se encuentra localizado (sic) $600.00
 
-el puerto de Santa Clara; el Puerto
+el puerto de Santa Clara; el Puerto de
 
-de Santa Clara se divide en
+Santa Clara se divide en Fraccionamiento
 
-Fraccionamiento Santa Clara y Puerto
+Santa Clara y Puerto de Santa Clara;
 
-de Santa Clara; donde la primera a su
+donde la primera a su vez está dividido
 
-vez está dividido en 13 manzanas,
-
-quedando como sigue:
+en 13 manzanas, quedando como sigue:
 
 Manzana 1 que colinda al norte con el
 
@@ -949,15 +947,13 @@ marítima) (sic);
 
 La manzana 3A al norte colinda con $300.00
 
-la calle 17, al oriente con la
+la calle 17, al oriente con la calle 2A,
 
-calle 2A, al poniente con la
+al poniente con la calle 4 y al sur con
 
-calle 4 y al sur con la calle 19
+la calle 19 diagonal, esta manzana no
 
-diagonal, esta manzana no aplica
-
-zona federal;
+aplica zona federal;
 
 Manzana 4, esta manzana está $600.00
 
@@ -1123,7 +1119,7 @@ federal marítima;
 
 Manzana 14, colinda al norte con $150.00
 
-La calle 17, al oriente, con la calle
+la calle 17, al oriente, con la calle
 
 14, al poniente con la calle 16 y al
 
@@ -1443,7 +1439,7 @@ Puerto de Santa Clara y no aplica
 
 Zona Federal Marítima;
 
-Todos los predios que se encuentren $ 100.00
+Todos los predios que se encuentren $100.00
 
 sobre la calle 21 dentro del UGA:
 
@@ -1453,7 +1449,7 @@ Clara que colinden con la Ciénega
 
 (UGA: DZD04-MAN_ANP).
 
-Todos los predios que se encuentren $ 100.00
+Todos los predios que se encuentren $100.00
 
 al sur de la carretera costera del
 
@@ -1501,7 +1497,7 @@ Puerto de Santa Clara.
 
 UGA: DZD03-
 
-BAR_C3 Esta UGA se divide en dos zonas
+BAR_C3 Esta UGA se divide en dos zonas $900.00
 
 para efectos del cálculo del
 
@@ -1509,7 +1505,7 @@ Impuesto Predial, quedando como
 
 sigue:
 
-Los predios que se encuentran entre $900.00
+Los predios que se encuentran entre
 
 el Golfo de México y la carretera
 
@@ -1531,7 +1527,7 @@ BAR_C3 en este municipio y que forman
 
 parte de esta UGA que compartimos.
 
-SE PAGARÁ POR ZONA FEDERAL MARITIMA $300.00 POR M2 EN TODOS LOS PREDIOS COSTEROS QUE ESTEN EN LAS UGAS: DZD01-BAR-C3, DZD02_BAR-URB Y DZD03-BAR- C3.
+SE PAGARÁ POR ZONA FEDERAL MARITIMA $300.00 POR M2 EN TODOS LOS PREDIOS COSTEROS QUE ESTEN EN LAS UGAS: DZD01-BAR-C3, DZD02_BAR-URB Y DZD03-BAR-C3.
 
 VALORES DE CONSTRUCCION ZONA COSTERA
 
@@ -1579,7 +1575,7 @@ TURISTICAS $3,500.00
 
 HIERRO $2,500.00
 
-Todo predio destinado a la producción agropecuaria $ 2.00 la hectárea, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
+Todo predio destinado a la producción agropecuaria $ 20.00 la hectárea, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
 
 DEL PAGO
 
@@ -1625,15 +1621,17 @@ Los fedatarios públicos ante quienes se otorgaré, firmare o rectificare el con
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 52.
 
-Cuando la base del impuesto predial, sean las rentas, frutos civiles o cualquier otra contraprestación generada por el uso, goce o por permitir la ocupación de un inmueble por cualquier título, el impuesto se pagará mensualmente conforme a la siguiente tarifa:
+Cuando la base del impuesto predial, sean las rentas, frutos civiles o cualquier otra contraprestación generada por el uso o goce o por permitir la ocupación de un inmueble por cualquier título, el impuesto se pagará mensualmente conforme a las siguientes modificaciones.
 
 DESTINO FACTOR
 
-HABITACIONAL 0.50 % mensual sobre el monto de la contraprestación
+HABITACIONAL 3 % mensual sobre el monto de la contraprestación.
 
-OTROS 0.70 % mensual sobre el monto de la contraprestación
+OTROS 5 % mensuales sobre el monto de la contraprestación.
 
 El factor del valor catastral del inmueble en términos de lo dispuesto en el artículo 50 de este ordenamiento legal.
 
@@ -2865,57 +2863,55 @@ Las licencias de funcionamiento que se expidan por cualquiera de los conceptos a
 
 Para que la Tesorería municipal esté en condiciones de revalidar, el peticionario deberá acompañar copia certificada de la Licencia de salud o determinación sanitaria expedida por la Secretaría de Salud del Estado de Yucatán.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 113.
 
 La tarifa que se cobrará para el otorgamiento de licencias para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, será la siguiente:
 
+> <small>(REFORMADA [N. DE E. CON SUS FRACCIONES], D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 CONCEPTO EXPEDICIÓN REVALIDACIÓN
 
-I.- Vinaterías o $ 50,000.00 $ 2,000.00
+I.- Vinaterías o $50,000 $4,000
 
 licorerías
 
-II.- Expendios de $ 50,000.00 $ 2,000.00
+II.- Expendios de $50,000 $4,000
 
 cerveza
 
-III.- Supermercados $ 50,000.00 $ 2,000.00
+III.- Supermercados $50,000 $4,000
 
 con departamento de
 
 licores
 
-IV.- Minisúper con $ 50,000.00 $ 2,000.00
+IV.- Minisúper con $50,000 $2,000
 
 venta de bebidas
 
 alcohólicas
 
-V.- Centros nocturnos $ 50,000.00 $ 2,000.00
+V.- Centros nocturnos $50,000 $2,000
 
 y discotecas
 
-VI.- Cantinas y bares $ 50,000.00 $ 2,000.00
+VI.- Cantinas y bares $50,000 $2,000
 
-VII.- Clubes sociales $ 50,000.00 $ 2,000.00
+VII.- Clubes sociales $50,000 $2,000
 
-VIII.- Salones de baile $ 50,000.00 $ 2,000.00
+VIII.- Salones de baile $50,000 $2,000
 
-IX.- Restaurantes, $ 50,000.00 $ 5,000.00
+IX.- Restaurantes, $50,000 $2,000
 
 hoteles y moteles
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 114.
 
-Por el otorgamiento de los permisos para luz y sonido, bailes populares y verbenas se causarán y pagarán derecho de $ 2000.00 por evento.
+Por el otorgamiento de los permisos para luz y sonido, bailes populares y verbenas se causarán y pagarán derecho de $ 300.00 por evento.
 
 ###### Artículo 115.
 
@@ -4454,3 +4450,9 @@ D.O. 28 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 22/2018 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y UMÁN”.]
+
+Artículo único.- Este Decreto entrará en vigor el día primero de enero del año dos mil diecinueve, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
