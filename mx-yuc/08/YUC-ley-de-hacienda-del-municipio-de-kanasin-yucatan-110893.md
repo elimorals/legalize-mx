@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-kanasin-yucatan-110893"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-29"
-last_updated: "2015-12-29"
+last_updated: "2018-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE KANASIN, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE KANASÍN, YUCATÁN, PUBLICADA EN EL D.O. DE 29 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE KANASÍN, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 29 de diciembre de 2015.
 
@@ -1844,3 +1846,21 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA FRACCIÓN II. DEL ARTÍCULO SEGUNDO DEL “DECRETO 23/2018 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MOTUL, KANASÍN, PETO, TAPAKAN, TEKAX Y TZUCACAB, YUCATÁN". LA "LEY DE HACIENDA DEL MUNICIPIO DE KANASÍN, YUCATÁN”.]
+
+Artículo Primero.- Se abroga la Ley de Hacienda del Municipio de Kanasín, Yucatán publicada en el Diario Oficial del Gobierno del Estado de Yucatán mediante Decreto 330 de fecha 29 de diciembre de 2015 y todas las disposiciones fiscales que se opongan a la misma.
+
+Artículo Segundo.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo Tercero.- Esta ley entrará en vigor el 1 de enero de 2019, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 23/2018 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MOTUL, KANASÍN, PETO, TAPAKAN, TEKAX Y TZUCACAB, YUCATÁN".]
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto, entrará en vigor el día 01 de enero del año 2019, previo su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
