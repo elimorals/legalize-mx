@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1149
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2017-06-03"
+last_updated: "2018-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el lunes 30 de mayo de 2016.
 
@@ -451,7 +451,13 @@ VII. El directorio de todos los servidores públicos, incluyendo los que formen 
 
 VIII. La remuneración bruta y neta de todos los servidores públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración;
 
-IX. El perfil de los puestos de los servidores públicos a su servicio, el curricular de quienes ocupan esos puestos, y la información de las declaraciones patrimoniales de los servidores públicos al momento de asumir el cargo y al concluirlo, siempre que se cuente con el consentimiento del interesado, por tratarse de datos personales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IX. El perfil de los puestos de los servidores públicos a su servicio, el curricular de quienes ocupan esos puestos, siempre que se cuente con el consentimiento del interesado, por tratarse de datos personales.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IX Bis. La información en versión pública de la declaración patrimonial, la declaración de intereses y la declaración de impuestos de los servidores públicos en los términos señalados en las leyes
 
 X. Los gastos de representación y viáticos, así como el objeto e informe de comisión correspondiente;
 
@@ -2660,3 +2666,9 @@ P.O. 3 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NO. 301 “POR EL QUE SE REFORMAN LOS ARTÍCULOS 26 FRACCIÓN IX; 30 FRACCIÓN I INCISO E); 95 FRACCIÓN VIII; Y SE DEROGA EL ARTÍCULO 43, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 621 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN IX DEL ARTÍCULO 29 Y ADICIONAR LA FRACCIÓN IX BIS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
