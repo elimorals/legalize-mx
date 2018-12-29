@@ -4,7 +4,7 @@ identifier: "CHH-estatuto-organico-de-pensiones-civiles-del-estado-de-90242"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-11-14"
-last_updated: "2017-05-27"
+last_updated: "2018-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 ESTATUTO ORGÁNICO DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Estatuto publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 14 de noviembre del 2012.
 
@@ -39,9 +39,11 @@ ESTATUTO ORGÁNICO DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
 El presente Estatuto Orgánico es de orden público e interés social y tiene por objeto organizar las facultades y funciones de la estructura que conforma Pensiones Civiles del Estado de Chihuahua en cuanto a su organización interna, de sus órganos de gobierno y unidades administrativas.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 2.
 
-Para los efectos del presente Estatuto Orgánico, serán aplicables las definiciones contenidas en el artículo 3° de la Ley de Pensiones Civiles del Estado de Chihuahua.
+Para los efectos del presente Estatuto Orgánico, serán aplicables las definiciones contenidas en el artículo 5 de la Ley de Pensiones Civiles del Estado de Chihuahua.
 
 ###### Artículo 3.
 
@@ -93,9 +95,7 @@ b).- Departamento de Préstamos;
 
 c).- Departamento de Jubilados y Pensionados, y;
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2017)</small>
-
-d).- Departamento de Reconocimiento de Antigüedad.
+d).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2018)
 
 III.- Dirección de Administración, integrada por los siguientes Departamentos:
 
@@ -143,7 +143,9 @@ Las Coordinaciones serán las siguientes:
 
 I.- Coordinación de Planeación y Evaluación de Proyectos;
 
-II.- Coordinación de Vinculación Institucional, y;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+II.- Coordinación de Vinculación Institucional y Transparencia, y;
 
 III.- Coordinación Jurídica.
 
@@ -227,6 +229,20 @@ XII.- Otorgar los premios, estímulos y demás recompensas a los funcionarios y 
 
 XIII.- Las demás que le confieran las leyes, reglamentos y disposiciones aplicables, así como las que expresamente le encomiende la Junta Directiva.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+El Director General tendrá facultades para delegar las atribuciones y obligaciones a que se refieren las fracciones III, IX, X y XII, en los términos del acuerdo correspondiente, así como para expedir y celebrar todos los actos, contratos y convenios en nombre de la Institución, necesarios y congruentes con la realización de su objeto, siempre que no impliquen o se traduzcan en la enajenación o gravamen del patrimonio de la misma.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 14 Bis.
+
+El Director General será directamente responsable de la ejecución puntual de las órdenes y demás mandamientos que reciba del Gobernador Constitucional del Estado y de la Junta Directiva, en su carácter de superiores jerárquicos, y no podrá, por ningún motivo, ordenar o ejecutar en modo alguno, actos o determinaciones contrarios al objeto de la Institución, que afecten o comprometan su integridad patrimonial y en general que resulten contrarios al régimen jurídico a que se encuentra sujeta la Institución.
+
+Es obligación del Director General denunciar por escrito ante la Junta Directiva o ante el Gobernador Constitucional del Estado, en su carácter de superiores jerárquicos, todo acto, orden o mandamiento que atente o comprometa ilegalmente el patrimonio de la Institución o se traduzca en incumplimiento de su objeto. La inobservancia de esta disposición será causa de responsabilidad en los términos de las disposiciones aplicables.
+
+Siempre que se involucren o dispongan de los recursos humanos, financieros, económicos o materiales de la Institución, las órdenes y demás mandatos dictados por el Director General a los titulares de las unidades administrativas se expedirán por escrito, requisito sin el cual no será exigible su cumplimiento.
+
 ## TÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS
 
 ### CAPÍTULO PRIMERO. DE LAS DIRECCIONES DE ÁREA
@@ -265,9 +281,23 @@ VI.- Acordar con el Director General los asuntos de su competencia;
 
 VII.- Someter a la consideración del Director General los proyectos de modernización y de desarrollo administrativo que estimen convenientes para el mejor funcionamiento de la Institución;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-VIII.- Las demás que expresamente les confieran las leyes, reglamentos y demás disposiciones aplicables, así como las que les asigne el Director General.
+VIII.- Coadyuvar con la Contraloría Interna en la investigación de todas las quejas y denuncias interpuestas en contra de servidores públicos de la Institución, por los servicios prestados por la misma, hasta su total esclarecimiento, disponiendo todas las facilidades necesarias al efecto;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IX.- Expedir constancias y certificaciones de los documentos que obren en sus archivos, incluidos los de los Departamentos y demás unidades orgánicas a su cargo, relativos al ámbito de su competencia, y;
+
+> <small>(ADICIONADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+X.- Las que expresamente les confieran las leyes, reglamentos y demás disposiciones aplicables, así como las que le asigne el Director General.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 16 Bis.
+
+A los Directores de Área les serán aplicables, en lo conducente, las disposiciones contenidas en el artículo 14 Bis.
 
 ###### Artículo 17.
 
@@ -333,7 +363,9 @@ IV.- Proporcionar orientación e información a los asegurados y sus derechohabi
 
 V.- Atender y resolver las inconformidades que se susciten con motivo de las solicitudes para el otorgamiento de pensiones, préstamos y demás prestaciones a los asegurados o sus derechohabientes;
 
-VI.- Tramitar la validación y cobro de las aportaciones omitidas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VI.- Tramitar la validación en relación al pago o cumplimiento de las aportaciones omitidas;
 
 VII.- Recibir y resolver respecto de las solicitudes de afiliación que se planteen a la Institución;
 
@@ -415,7 +447,9 @@ A la Dirección Médica le corresponden las siguientes funciones y atribuciones:
 
 I.- Determinar las necesidades de atención médica a los asegurados y sus derechohabientes para su planeación, implementación y ampliación;
 
-II.- Organizar, implementar y supervisar los programas y servicios de atención médica a los asegurados y sus derechohabientes, en los términos del Reglamento de Servicios Médicos para los Trabajadores del Estado de Chihuahua, incluidos los de medicina preventiva, laboratorios, imagenología y demás necesarios;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+II.- Organizar, implementar y supervisar los programas y servicios de atención médica a los asegurados y sus derechohabientes, en los términos del Reglamento de Servicios Médicos para los Trabajadores al Servicio del Estado de Chihuahua, incluidos los de medicina preventiva, auxiliares de diagnóstico, imagenología y demás necesarios;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
 
@@ -437,9 +471,9 @@ VII.- Presidir el Comité de Cuadro Básico e intervenir en las decisiones que s
 
 VIII.- (DEROGADA, P.O. 27 DE MAYO DE 2017)
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-IX.- Recibir e investigar las quejas que se presenten por los asegurados y sus derechohabientes en relación con los servicios médicos prestados por la Institución e investigarlas exhaustivamente hasta su total esclarecimiento, informando de ello al Director General;
+IX.- Coadyuvar con la Contraloría Interna en la investigación de las quejas que presenten los asegurados y sus derechohabientes en relación con los servicios médicos proporcionados por la propia Institución;
 
 X.- Implementar programas de actualización al personal médico, de enfermería y demás especialidades y servicios relacionados, y; (sic)
 
@@ -456,6 +490,12 @@ XIV.- Las demás que expresamente le confieran las leyes, reglamentos y demás d
 ###### Artículo 21.
 
 Los Departamentos realizarán sus funciones y cumplirán con sus objetivos bajo la autoridad y supervisión de la Dirección de Área correspondiente; podrán interactuar y colaborar con los demás Departamentos y Coordinaciones pero siempre en estricta dependencia jerárquica respecto de aquélla.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 21 Bis.
+
+A los Jefes de Departamento les serán aplicables, en lo conducente, las disposiciones contenidas en el artículo 14 Bis.
 
 ###### Artículo 22.
 
@@ -585,7 +625,9 @@ I.- Establecer y mantener debidamente actualizados los archivos y padrones de as
 
 II.- Atender y determinar, de acuerdo con la normatividad aplicable, la procedencia de las solicitudes de afiliación que presenten los asegurados y sus derechohabientes;
 
-III.- Efectuar la validación y cobro de aportaciones omitidas, dando cuenta al Director de Prestaciones Económicas cuando ello resulte imposible o incosteable;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+III.- Efectuar la validación en relación al pago o cumplimiento de aportaciones omitidas por el Gobierno del Estado, instituciones afiliadas y sus trabajadores, para los efectos de mantener la vigencia de los derechos de estos últimos;
 
 IV.- Atender las solicitudes de información que presenten los asegurados y sus derechohabientes, en relación con su situación ante la Institución;
 
@@ -627,25 +669,21 @@ IV.- Preparar y elaborar con toda oportunidad el anteproyecto de presupuesto por
 
 V.- Elaborar las nóminas y demás instrumentos en que se consignen los pagos por concepto de pensiones y jubilaciones, y;
 
-VI.- Los demás que le asigne y encomiende el Director de Prestaciones Económicas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2017)</small>
+VI.- Orientar y asesorar a los trabajadores sobre el derecho que les asiste para obtener el reconocimiento o determinación de antigüedad, de acuerdo al tiempo que hubieren prestado sus servicios y a las cuotas y aportaciones efectuadas o que deban efectuarse a la Institución;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VII.- Recibir y resolver las solicitudes de reconocimiento o determinación de antigüedad que presenten los trabajadores asegurados de los Poderes del Estado, de la Universidad Autónoma de Chihuahua e instituciones afiliadas, así como realizar el cálculo de las cuotas y aportaciones del trabajador y del patrón, respectivamente, y verificar en los sistemas de la Institución el entero a cargo del trabajador, agregando al expediente respectivo constancia o certificación del mismo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VIII.- Las demás que le asigne y encomiende el Director de Prestaciones Económicas.
 
 ###### Artículo 29 Bis.
 
-Al Departamento de Reconocimiento de Antigüedad le corresponde el despacho de los siguientes asuntos:
-
-I.- Orientar y asesorar a los trabajadores sobre el derecho que les asiste para obtener el reconocimiento o determinación de su antigüedad, de acuerdo al tiempo que hubieren prestado sus servicios y a las cuotas y aportaciones efectuadas o que deban efectuarse a la Institución, aún en los casos en que hayan retirado el monto aportado o éste haya prescrito a favor a favor (sic) de la Institución por no haberlo retirado en el plazo que señala la ley;
-
-II.- Recibir, analizar y resolver las solicitudes de reconocimiento o determinación de antigüedad que presenten los trabajadores asegurados de los Poderes del Estado, de la Universidad Autónoma de Chihuahua e instituciones afiliadas;
-
-III.- Efectuar la revisión de cada caso en particular sometido a su análisis para determinar el tiempo de antigüedad que proceda reconocer y realizar el cálculo de las aportaciones que en su caso deban efectuar el trabajador y el patrón para tal efecto;
-
-IV.- Participar en los procesos de elaboración de manuales y reglamentos, así como de proyectos de reformas que sean necesarios para el óptimo funcionamiento del sistema de seguridad social regulado por la Ley de Pensiones Civiles del Estado de Chihuahua;
-
-V.- Asistir y auxiliar a la Dirección de Prestaciones Económicas en la operación del sistema de seguridad social para los trabajadores asegurados de los Poderes del Estado, de la Universidad Autónoma de Chihuahua e instituciones afiliadas;
-
-VI.- Las demás que le asigne y encomiende el Director de Prestaciones Económicas.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2018)
 
 ###### Artículo 30.
 
@@ -723,7 +761,13 @@ VI.- Establecer y vigilar los sistemas de control de asistencia y de puntualidad
 
 VII.- Llevar el control de altas y bajas de personal de la Institución, así como de las vacantes que se presenten, a fin de que éstas se cubran a la brevedad posible, en los términos de las disposiciones aplicables, y;
 
-VIII.- Los demás que le asigne y encomiende el Director de Administración.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VIII.- Levantar las actas administrativas con motivo de infracciones cometidas o en que incurriesen los trabajadores de la Institución, imponiendo las correcciones disciplinarias correspondientes, de conformidad con las disposiciones aplicables, siempre que ello no estuviese reservado en forma específica a otra instancia, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IX.- Los demás que le asigne y encomiende el Director de Administración.
 
 ###### Artículo 32.
 
@@ -809,27 +853,47 @@ VII.- Los demás que le asigne y encomiende el Director Médico.
 
 Al Departamento de Urgencias le corresponde el despacho de los siguientes asuntos:
 
-I.- Consultar de manera urgente las 24:00 horas del día, a pacientes con dolores agudos, traumatismos leves y severos, con descontrol de glucosa y presión arterial, entro (sic) otros;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-II.- Consultar a pacientes que requieren valoración por ortopedia de traumas y lesiones por accidentes de manera inmediata;
+I.- Otorgar atención médica de manera urgente las veinticuatro horas del día, a pacientes con dolores agudos, traumatismos leves y severos, con descontrol de glucosa y presión arterial, entre otros;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+II.- Otorgar atención médica a pacientes que requieren valoración por ortopedia de traumas y lesiones por accidentes de manera inmediata;
 
 III.- Realizar procedimientos de cirugía ambulatoria;
 
 IV.- Realizar procedimientos de cirugía menor;
 
-V.- Atender por consideración de especialistas de medicina interna/cirugía general/urgenciologos y ortopedia si así se requiere;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+V.- Gestionar la atención médica urgente por especialistas de medicina interna/cirugía general/urgenciólogos y ortopedia, si así se requiere;
 
 VI.- Atender en consulta por conducto de médicos familiares y generales de urgencias menores;
 
-VII.- Estabilizar a pacientes en el área de observación, aquellos pacientes descontrolados pero no requieren hospitalización;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-VIII.- Enviar a hospital pacientes evaluados que requieren hospitalización de acuerdo a indicación médica;
+VII.- Estabilizar en el área de observación a pacientes con síntomas de descontrol orgánico que no requieran hospitalización;
 
-IX.- Evaluar a mujeres embarazadas con complicaciones y envío a hospital o a servicio de ginecología;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-X.- Realizar curaciones ambulatorias "cura húmeda" con equipo, materiales, técnica y personal capacitado para pacientes que requieran, según indicación de sus médicos, y,
+VIII.- Ordenar el ingreso a hospital de pacientes en riesgo de o con complicaciones y hospitalizarles para atención especializada;
 
-XI.- Realizar curaciones en general, aplicación de medicamentos especiales e inyecciones con receta médica.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IX.- Atender a mujeres embarazadas y enviarlas a hospital o transferirlas a servicio de ginecología;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+X.- Realizar curaciones ambulatorias, “cura húmeda” con equipo, materiales, técnica y personal capacitado para pacientes que lo requieran, según indicación de sus médicos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XI.- Realizar curaciones en general y aplicación de medicamentos parenterales que presenten en receta médica; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XII.- Las demás que le asigne y encomiende el Director Médico.
 
 ###### Artículo 37.
 
@@ -865,15 +929,21 @@ Al frente de cada Delegación habrá un Delegado, quien tendrá las más amplias
 
 A las Delegaciones les corresponde el despacho de los siguientes asuntos en el ámbito de su competencia:
 
-I.- Vigilar el funcionamiento de los servicios médicos de consulta externa, así como que los mismos se presten de manera eficiente y oportuna, apegados a los principios éticos y científicos que los rigen así como a las políticas dictadas por la Institución;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-II.- Asumir la responsabilidad administrativa y técnica sobre los recursos financieros, humanos y materiales con que cuenten los botiquines que dependan de la Delegación;
+I.- Vigilar el funcionamiento de los servicios médicos de consulta externa, así como que los mismos se presten de manera eficiente y oportuna, apegados a los principios éticos y científicos que los rigen y a las políticas dictadas por la Institución, con especial apego al Cuadro Básico aprobado;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+II.- Administrar y supervisar el manejo de los recursos humanos, financieros y materiales, dependientes o que le sean asignados a la Delegación;
 
 III.- Atender y resolver las órdenes de hospitalización así como para la práctica de estudios de laboratorio, imagenología y demás, dictadas por el personal médico de la Institución y que le sean remitidas con ése fin;
 
 IV.- Supervisar y coordinar los servicios de enfermería, urgencias, traslados, laboratorio e imagenología y demás con que cuente;
 
-V.- Supervisar la integración y archivo de los expedientes médicos, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+V.- Supervisar la integración y archivo de los expediente clínicos, tanto en físico como en electrónico, en los términos de las disposiciones aplicables;
 
 VI.- Dictar las medidas que sean necesarias y adecuadas para el uso eficiente y resguardo del instrumental y equipos médicos con que cuente;
 
@@ -887,6 +957,18 @@ X.- Coordinar la remisión y envío de la correspondencia de la Delegación a su
 
 XI.- Los demás que les asigne y encomiende el Director Médico.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 40 Bis.
+
+Las Delegaciones podrán contar con unidades de apoyo que, con el nivel de Departamento o Unidad Administrativa equivalente, dependerán directamente de ellas, coadyuvarán en la coordinación y supervisión en el desarrollo y ejecución de las funciones y atribuciones a que se refiere el artículo anterior, y tendrán a su cargo el manejo y administración de los recursos que les sean asignados para tales efectos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 40 Ter.
+
+En las Delegaciones donde las circunstancias lo ameriten por la complejidad de los servicios médicos que se presten en relación con el número de derechohabientes que se atienden, y se haga necesario contar con mayores mecanismos de control, supervisión y evaluación, habrá una Unidad de Coordinación Administrativa, dependiente directamente del Delegado.
+
 ### CAPÍTULO TERCERO. DE LAS COORDINACIONES
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2017)</small>
@@ -894,6 +976,12 @@ XI.- Los demás que les asigne y encomiende el Director Médico.
 ###### Artículo 41.
 
 Las Coordinaciones son unidades de gestión, apoyo, asesoría y consulta de la Institución; dependerán directamente del Director General y serán las encargadas de analizar, evaluar y dar seguimiento a los planes y programas diseñados y dispuestos por aquél, implementando las acciones necesarias y adecuadas para el logro de los objetivos contemplados en los mismos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 41 Bis.
+
+A los Coordinadores les serán aplicables, en lo conducente, las disposiciones contenidas en el artículo 14 Bis.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2017)</small>
 
@@ -925,79 +1013,145 @@ V.- Recopilar, Integrar y proporcionar la información a que se refieren los art
 
 VI.- Los demás que le asigne y encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-A la Coordinación de Vinculación Institucional le corresponde el despacho de los siguientes asuntos.
+A la Coordinación de Vinculación Institucional y Transparencia le corresponde el despacho de los siguientes asuntos:
 
-I.- Dirigir y coordinar todas las acciones de comunicación social de la Institución;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-II.- Establecer y mantener vínculos de comunicación institucional con todas las personas y de comunicación interinstitucional con dependencias, entidades, organismos y agrupaciones que guarden relación con la Institución;
+I.- Dirigir y coordinar toda la estrategia de comunicación institucional, fundada en los principios de máxima transparencia y gobierno abierto;
 
-III.- En materia de transparencia y acceso a la Información pública, instrumentar y operar los servicios inherentes a la Unidad de Información, de conformidad con los acuerdos del Comité de Información y con estricto apego a disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+II.- Establecer los planes y programas en materia de comunicación social que permitan una transparencia total de la información que genera la Institución, mediante la coordinación con sus Unidades Administrativas y orgánicas;
 
-IV.- Los demás que le asigne y encomiende el Director General.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+III.- Establecer y mantener vínculos de comunicación interinstitucional con las dependencias, entidades, organismos y agrupaciones que guarden relación con la Institución;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IV.- Integrar la Unidad de Transparencia, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+V.- Establecer y mantener los sistemas de información interna necesarios para cumplir oportunamente con las obligaciones en materia de transparencia en forma íntegra, coordinando a las Unidades Administrativas y orgánicas generadoras de la información y encargadas de su custodia, siguiendo los lineamientos que al efecto le proponga el Comité de Transparencia de la Institución;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VI.- Cumplir, en coordinación con las Unidades Administrativas y orgánicas involucradas, con las obligaciones de transparencia que hayan de cumplirse mediante el Portal Institucional de Internet, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VII.- Mantener al día la información que requiere la Plataforma Nacional de Transparencia o los portales que la sustituyan, así como las solicitudes de información que se le formulen por cualquier medio, dando cuenta trimestral al Director General de esta actividad y de la oportunidad y certeza de la colaboración que recibiere de las áreas involucradas;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VIII.- Realizar y mantener al día un registro de los sistemas de información que recaben datos personales en la Institución;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IX.- Coordinar las solicitudes que se hagan, en ejercicio de derechos de acceso, rectificación, cancelación y oposición a la Institución por sus titulares o representantes, a efecto de que sean atendidas oportunamente por las Unidades Administrativas y orgánicas generadoras de la información y encargadas de su custodia, a que las solicitudes se refieran;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+X.- En coordinación con la Dirección Médica, procesar y responder oportunamente las solicitudes de portabilidad de expediente clínico, además de aquéllas que le corresponden conforme al presente Estatuto Orgánico;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XI.- Dar seguimiento oportuno a las solicitudes de información que se reciban en la Unidad de Transparencia de la Institución y que se refieran a asuntos de su competencia, y;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XII.- Las demás que expresamente le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 44.
 
 A la Coordinación Jurídica le corresponde el despacho de los siguientes asuntos:
 
-I.- Compilar las disposiciones legales vigentes;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+I.- Compilar las disposiciones legales y en general toda la normatividad vigente, con especial énfasis en la relacionada con el objeto y las funciones de la Institución;
 
-II.- Atender, previa disposición del Director General, las consultas que formulen las Dependencias de Gobierno Estatal o Municipios de la Entidad y las Instituciones Afiliadas, sobre la interpretación de la legislación vigente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-III.- Intervenir en todo lo relacionado con los asuntos de carácter jurídico de la competencia de la Institución, así como elaborar y/o revisar los proyectos de Leyes, Decretos, Reglamentos, Convenios, Contratos, Acuerdos y demás instrumentos legales relacionados con la Institución;
+II.- Atender, previa disposición del Director General, las consultas que le formulen las Dependencias del Gobierno del Estado o municipios de la Entidad, organismos autónomos por disposición constitucional e Instituciones Afiliadas, sobre la interpretación de la legislación y en general toda la normatividad vigente relacionada con el objeto y las funciones de la Institución;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-IV.- Representar legalmente al Director General en los actos en que éste tenga que intervenir jurídicamente, previo poder que le sea otorgado ante Fedatario Público y/o la correspondiente delegación de facultades administrativas;
+III.- Intervenir en todo lo relacionado con los asuntos de carácter jurídico de la competencia de la Institución, así como elaborar y revisar los proyectos de Leyes, Decretos, Reglamentos, Convenios, Contratos, Acuerdos y demás instrumentos legales y normativos relacionados con la Institución;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-V.- Representar legalmente al Director General y brindar apoyo y asesoría jurídica a Direcciones, Departamentos y demás Coordinaciones, así como fijar, sistematizar y difundir internamente los criterios de interpretación y de aplicación de las disposiciones legales correspondientes;
+IV.- Representar legalmente al Director General en los actos en que éste tenga o deba tener intervención jurídicamente, previo poder que le sea otorgado ante Fedatario Público y/o la correspondiente delegación de facultades administrativas;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-VI.- Instruir y tramitar los procedimientos y recursos administrativos que le corresponda resolver al Director General, de conformidad con las disposiciones legales vigentes, y elaborar el proyecto de acuerdo o resolución correspondientes;
+V.- Asesorar legalmente al Director General y brindar apoyo y asesoría jurídica a Direcciones, Departamentos, Coordinaciones y sus unidades orgánicas, así como fijar, sistematizar y difundir internamente los criterios de interpretación y de aplicación de las disposiciones legales y reglamentarias correspondientes;
 
-VII.- Asistir a Juntas y reuniones donde se requiera la opinión Jurídica;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-VIII.- Emitir opinión respecto a las disposiciones laborales cuando se pretenda césar de su encargo algún empleado, en el objeto de que se considere su recomendación al momento del cese;
+VI.- Instruir y tramitar los procedimientos, recursos administrativos y demás actos procesales que le corresponda conocer y resolver al Director General, de conformidad con las disposiciones legales vigentes, y elaborar los proyectos de acuerdo y resolución correspondientes;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-IX.- Por instrucciones del Director General, y en coordinación con el Departamento de Recursos Materiales y Servicios, elaborar y publicar las Convocatorias para las Licitaciones Públicas, Actas de Aperturas y Fallos que se emitan en las mismas, de conformidad con las Leyes de la materia;
+VII.- Asistir a las sesiones, juntas y reuniones de la Institución, donde se requiera opinión jurídica;
 
-X.- En coordinación con el Departamento de Recursos Materiales y de Servicios llevar a cabo los procesos de contratación; estar al pendiente de incumplimientos de Proveedores para la aplicación de las sanciones y penas correspondientes o en su caso hacer efectivas las fianzas presentadas como garantías.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XI.- Opinar sobre la procedencia de las sanciones que se pretenda imponer al personal al servicio de la Institución, levantar las Actas Administrativas correspondientes en material laboral;
+VIII.- Emitir opinión respecto de las disposiciones laborales cuando se pretenda suspender, cesar, remover, separar o destituir de su cargo o empleo a algún funcionario o trabajador de la Institución, proporcionando la asesoría correspondiente a la Dirección de Administración;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IX.- Por instrucciones del Director General y en coordinación con la Dirección de Administración, elaborar y publicar las convocatorias y bases para las licitaciones públicas, asimismo elaborar las actas de aperturas y fallos que se emitan en las mismas, de conformidad con las leyes en materia de adquisiciones, arrendamientos, obras públicas y servicios relacionados con las mismas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+X.- En coordinación con la Dirección de Administración, llevar a cabo los procesos de contratación; conocer de incumplimientos de proveedores y contratistas para la aplicación o ejecución de sanciones, así como penas legales y convencionales correspondientes y, en su caso, hacer efectivas las garantías respectivas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XI.- Opinar sobre la procedencia de las sanciones que se pretenda imponer al personal al servicio de la Institución, sin perjuicio de las atribuciones que las leyes y reglamentos confieren a la Contraloría Interna;
 
 XII.- Intervenir en todos los procedimientos que se inicien con motivo de accidentes, riesgos de trabajo, afectación, daños y destrucción o deterioro de bienes muebles o inmuebles en los que intervengan conductores o resguardantes o depositarios de bienes o vehículos propiedad de la Institución;
 
-XIII.- Elaborar las querellas, denuncias o demandas que correspondan y presentarlas ante las autoridades competentes, con motivo de cualquier afectación o menoscabo que sufra el patrimonio de la Institución, y en general, tramitar lo necesario para lograr la recuperación o pago de los bienes y derechos de que se trate;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XIV.- Representar a la Institución como apoderada y/o Delegada de facultades administrativas, en los Juicios y procedimientos en los que sea parte;
+XIII.- Elaborar las querellas, denuncias o demandas que correspondan y presentarlas ante las autoridades competentes, con motivo de cualquier afectación o menoscabo que sufra el patrimonio de la Institución y, en general, tramitar lo necesario para obtener la recuperación, pago o indemnización de los bienes o derechos de que se trate;
 
-XV.- Tramitar el otorgamiento, perfeccionamiento y registro de los instrumentos jurídicos que se requieran para la regularización de los inmuebles que la Institución posea o administre, así como promover la expedición de las resoluciones que procedan para incorporarlos al patrimonio estatal y destinarlos al servicio de la propia institución;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XVI.- Apoyar a la Dirección de Prestaciones Económicas, en el análisis jurídico de las Jubilaciones y Pensiones, dictaminando su procedencia legal,
+XIV.- Representar a la Institución y sus Unidades Administrativas, en todos los juicios y procedimientos en los que aquellas sean parte, con todas las facultades de un procurador judicial, incluidas las de promover, ofrecer y desahogar pruebas, interponer los recursos que procedan, alegar en las audiencias, y todas las necesarias para realizar cualquier acto en todos los procedimientos judiciales en defensa de los derechos de la Institución, incluidas las de desistirse de la acción y de la demanda y excepciones, interponer recursos, transigir, otorgar el perdón, comprometer en árbitros o de celebrar convenios, sean dentro o fuera del procedimiento, siempre que no impliquen o se traduzcan en la enajenación o gravamen del patrimonio de la propia Institución, con excepción de las de sustituir las autorizaciones conferidas u otorgadas, y de delegar facultades;
 
-XVII.- Solicitar al área correspondiente los descuentos por Juicio Sumario que soliciten los Tribunales Familiares, respecto a Pensiones Alimenticias;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+XV.- Tramitar la celebración, otorgamiento, formalización y registro de los instrumentos jurídicos que se requieran para la regularización de los inmuebles que la Institución posea o administre, así como promover la expedición de las resoluciones que procedan para incorporarlos al patrimonio de la Institución y destinarlos a su objeto o servicio;
 
-XVIII.- Apoyar jurídicamente a las Direcciones y Departamentos que lo soliciten o bien atender directamente las contestaciones a Auditorías y Revisiones hechas por la Auditoría Externa, Secretaría de la Función Pública, Secretaría de Hacienda del Gobierno del Estado y Auditoría Superior del Estado. Contestar directamente a las mencionadas instituciones cuando las auditorías contemplen asuntos estrictamente de carácter legal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
+XVI.- Apoyar a la Dirección de Prestaciones Económicas en el análisis jurídico de la procedencia de las Jubilaciones y Pensiones, emitiendo el dictamen correspondiente;
 
-XIX.- Auxiliar y apoyar al Director General en la preparación y celebración de las sesiones de la Junta Directiva, custodiar los Libros de Actas, y la documentación generada para ellas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XX.- Coordinar y supervisar las sesiones ordinarias o extraordinarias de la Junta Directiva, así como las actas, documentos, datos, informes y demás elementos en que se hagan constar los asuntos a tratar en la misma;
+XVII.- Atender las órdenes de descuento por concepto de deudas alimenticias dictadas por autoridad judicial y rendir los informes en relación con las percepciones del deudor, en los términos de la legislación aplicable;
 
-XXI.- Expedir constancias y certificaciones de los documentos que obren en poder de la Institución, para ser exhibidos en asuntos judiciales y contencioso-administrativos, relativos al ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XVIII.- En coordinación con la Contraloría Interna, apoyar jurídicamente a las Direcciones y Departamentos que lo soliciten o bien atender directamente las observaciones derivadas de auditorías y revisiones administrativas practicadas por la Secretaría de la Función Pública, Secretaría de Hacienda del Gobierno del Estado, la Auditoría Superior del Estado y auditores externos, conforme al pliego correspondiente, a efecto de solventarlas suficientemente, dando contestación directamente a las mencionadas instituciones y auditores, sin intervención de otras Unidades Administrativas, cuando las auditorías o revisiones contemplen asuntos estrictamente de carácter legal;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XIX.- Auxiliar y apoyar al Director General en la preparación y celebración de las sesiones de la Junta Directiva, llevar y custodiar los Libros de Actas respectivos, así como la documentación generada para ellas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XX.- Coordinar y supervisar la realización de las sesiones ordinarias y extraordinarias de la Junta Directiva, la elaboración de las actas, documentos, datos, informes y demás elementos en que se hagan constar los asuntos a tratar en las mismas, así mismo apoyar al Director General en la ejecución de los acuerdos correspondientes;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XXI.- Expedir constancias y certificaciones de los documentos que obren en poder de la Institución, para ser exhibidos en procedimientos judiciales, contencioso-administrativos y en general en todos aquellos asuntos en los que la Institución sea formalmente requerida para ello, relativos al ámbito de su competencia; y
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2017)</small>
 
@@ -1116,3 +1270,15 @@ TERCERO.- De conformidad con los artículos 14 fracción (sic) párrafo tercero 
 CUARTO.- Para su mayor difusión, publíquese el presente Acuerdo en la página electrónica de internet del Gobierno del Estado de Chihuahua.
 
 QUINTO.- Conforme a lo preceptuado por el artículo 14 fracción III del Estatuto Orgánico de Pensiones Civiles del Estado, queda facultado el Director General para ejecutar de manera exacta y oportuna el presente Acuerdo.
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO Nº 142/2018 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ESTATUTO ORGÁNICO DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día 1 de enero del año 2019, y deberá publicarse en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se revocan y se dejan sin efectos todos los acuerdos, lineamientos administrativos y demás disposiciones dictadas o aprobadas por la Junta Directiva o por el Director General, que se opongan al presente Acuerdo.
+
+TERCERO.- De conformidad con los artículos 14 párrafo tercero y 24 fracción II de la Ley de Entidades Paraestatales del Estado de Chihuahua, inscríbase el presente Acuerdo en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda del Estado.
+
+CUARTO.- Para su mayor difusión, publíquese el presente Acuerdo en la página electrónica de internet de la Institución.
