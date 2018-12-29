@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2016-12-28"
+last_updated: "2018-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -435,29 +437,61 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y 
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 41.
 
-Las licencias de funcionamiento serán expedidas por la Tesorería Municipal.
+Las licencias de funcionamiento serán expedidas por la Tesorería Municipal serán gratuitas, excepto aquellas que:
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+I.- Autoricen el funcionamiento de establecimientos que de manera permanente o transitoria expendan bebidas alcohólicas;
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+II.- Autoricen el funcionamiento de plantas generadoras de energía renovable y/o no renovable.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+III.- Estén señaladas en el Titulo Cuarto, Capítulo III de esta ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 Estarán vigentes desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten, y deberán se (sic) revalidadas dentro de los primeros dos meses del año siguiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 La revalidación de las licencias de funcionamiento estará vigente desde el día de su tramitación y hasta el día 31 de diciembre del año en que se tramiten.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 La vigencia de las licencias de funcionamiento podrá concluir anticipadamente, e incluso condicionarse, cuando por la actividad de la persona física o moral que la solicita, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En dicho caso, el plazo de vigencia o la condición, serán iguales a las expresadas por dichas dependencias.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 Las personas físicas o morales que soliciten licencias de funcionamiento, tendrán que presentar a la Tesorería Municipal, además del pedimento respectivo, los siguientes documentos:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 I.- El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 II.- Licencia de uso de suelo;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 III.- Determinación sanitaria, en su caso;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 IV.- El recibo de pago del derecho correspondiente en su caso;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 V.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 VI.- Copia del comprobante de su Clave Única de Registro de Población en su caso.
 
@@ -571,49 +605,33 @@ El impuesto predial se causará de acuerdo con la siguiente tarifa:
 
 Por predios urbanos y rústicos con o sin construcción.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
-Límite Límite Cuota aplicable Factor para
+Límite Límite Cuota fija Factor a
 
-Inferior superior al limite inferior aplicar al
+inferior superior anual aplicar al
 
-excedente
+Excedente
 
 del límite
 
 inferior
 
-0.0001 10,000.00 50% de un
+.0001 10,000.00 70 % DE 1 UMA 0.010
 
-salario mínimo 0.010
+10,000.01 20,000.00 120 % DE 1 UMA 0.010
 
-10,000.01 20,000.00 100% de un
+20,000.01 30,000.00 170 % DE 1 UMA 0.010
 
-salario mínimo 0.010
+30,000.01 40,000.00 220 % DE 1 UMA 0.010
 
-20,000.01 30,000.00 150% de un
+40,000.01 50,000.00 260 % DE 1 UMA 0.010
 
-salario mínimo 0.010
+50,000.01 60,000.00 330 % DE 1 UMA 0.010
 
-30,000.01 40,000.00 200% de un
-
-salario mínimo 0.010
-
-40,000.01 50,000.00 250% de un
-
-salario mínimo 0.010
-
-50,000.01 60,000.00 300% de un
-
-salario mínimo 0.010
-
-70,000.01 En adelante 350% de un
-
-salario mínimo 0.025
+70,000.01 EN ADELANTE 380 % DE 1 UMA 0.025
 
 A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
@@ -965,9 +983,13 @@ La tasa del Impuesto Sobre Diversiones y Espectáculos Públicos, será de 0.08,
 
 I.- Cuando el espectáculo público consista en la puesta en escena de obras teatrales la tasa será de cero.
 
-II.- En espectáculos de circo, la tarifa será equivalente a 15 salarios mínimos.
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
-III.- En los permisos otorgados con motivo de bailes populares, luz y sonido, verbenas y otros, se cobrarán 11 salarios mínimos por día o un salario mínimo por hora.
+II.- En espectáculos de circo, la tarifa será equivalente a 1 UMA por día.
+
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+III.- En los permisos otorgados con motivo de bailes populares, luz y sonido, verbenas y otros, se cobrarán 20 UMA por día.
 
 DE LA FACULTAD DE DISMINUIR LA TASA
 
@@ -1239,9 +1261,21 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 DE LOS SUJETOS
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 88.
 
-Quedan obligados al pago de los derechos para la obtención de las licencias de funcionamiento, todas aquellas personas físicas o morales que deseen abrir o que tengan en funcionamiento, establecimientos en los que se expendan al publico bebidas alcohólicas tales como, los que de manera enunciativa más no limitativa, se relacionan a continuación
+Quedarán obligados al pago de los derechos para la obtención de la licencia de funcionamiento, todas aquéllas personas físicas o morales que deseen abrir al público y/o operar:
+
+I.- Establecimientos en los que se expendan bebidas alcohólicas.
+
+II.- Establecimientos o locales comerciales y/o de servicios en general.
+
+III.- Parques eólicos para la generación de energía renovable o no renovable.
+
+IV.- Plantas solares (fotovoltaicas) para la generación de energía renovable o no renovable.
+
+De igual forma, quedan obligados al pago de los derechos para la obtención de las licencias de funcionamiento, todas aquellas personas físicas o morales que deseen abrir o que tengan en funcionamiento, establecimientos en los que se expendan al público bebidas alcohólicas tales como, los que de manera enunciativa más no limitativa, se relacionan a continuación:
 
 1.- Restaurantes.
 
@@ -1267,31 +1301,53 @@ DE LA VIGENCIA
 
 Las licencias de funcionamiento que se expidan por cualquiera de los conceptos anteriores tendrán una vigencia anual y deberá de revalidarse durante los meses de enero y febrero de cada año o dentro de los dos primeros meses del período constitucional del gobierno municipal correspondiente.
 
-Cuando una licencia de funcionamiento se expida dentro de los primero dos meses del último año de ejercicio o dentro de los dos primeros meses del primer año de ejercicio de una administración municipal, la tarifa de la revalidación se reducirá en un 50 por ciento.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+Cuando una licencia de funcionamiento se expida dentro de los primeros dos meses del último año de ejercicio o dentro de los dos primeros meses del primer año de ejercicio de una administración municipal, la tarifa de la revalidación se reducirá en un 50 por ciento.
 
-Para que la Tesorería Municipal esté en condiciones de expedir la Licencia de Funcionamiento o su revalidación, el peticionario deberá de acompañar, además de la documentación que se señala en los artículos 41 y 41 A de esta ley, el original o copia certificada de la Licencia de Salubridad o determinación sanitaria vigente expedida por la Secretaría de Salud del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Para que la Tesorería Municipal esté en condiciones de expedir la Licencia de Funcionamiento o su revalidación, el peticionario deberá de acompañar, además de la documentación que se señala en el Artículo 41 y 41 A de esta ley, el original o copia certificada de la Licencia de Salubridad o determinación sanitaria vigente expedida por la Secretaría de Salud del Estado de Yucatán.
 
 TARIFA
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 90.
 
-La tarifa de los derechos para la obtención de las licencias de funcionamiento de los establecimientos que expendan bebidas alcohólicas que se señalan en el artículo 88 de esta Ley, serán los siguientes:
+La tarifa de los derechos para la obtención de las Licencias de Funcionamiento de los establecimientos que se señalan en el Artículo 88 de esta Ley, serán los siguientes:
 
-I.- Por apertura $15,525.00
+I,- (sic) Por apertura para venta
 
-II.- Por revalidación $ 2,600.00
+de bebidas alcohólicas $25,000.00
 
-III.- Por permisos eventuales $ 1,250.00
+II.- Por revalidación para venta
+
+de bebidas alcohólicas $3,000.00
+
+III.- Por permisos eventuales
+
+para venta de bebidas
+
+alcohólicas $ 1,500.00
+
+IV.- Para la instalación y operación
+
+de Parques eólicos para la
+
+generación de energía renovable
+
+o no renovable $ 400,000.00
+
+V.- para la instalación y operación (sic) Plantas fotovoltaicas para la generación de energía renovable o no renovable $ 450,000.00
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 Artículo 90 A.- El cobro de derechos por el otorgamiento (sic) licencias, permisos o autorizaciones para el funcionamiento de los demás establecimientos y locales comerciales o de servicios, se realizará con base en las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TARIFAS EN D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINAS DE LA 83 A LA 85.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LAS TARIFAS EN EL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 18 A LA 19.]</small>
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -1335,8 +1391,6 @@ II.- La superficie total del predio que sea objeto de limpia por parte del perso
 
 TARIFA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 96.
@@ -1371,13 +1425,11 @@ Son responsables solidarios del pago de estos derechos los Notarios Públicos y 
 
 CUOTA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 101.
 
-La cuota de este derecho será el equivalente a $13.00 de manera mensual por cada toma de agua.
+La cuota de este derecho será el equivalente a $20.00 de manera mensual por cada toma de agua.
 
 PAGO
 
@@ -1415,19 +1467,13 @@ TARIFA
 
 Los derechos por este servicio se pagarán conforme a las siguientes tarifas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 I.- Locatarios que venden frutas y verduras $80.00 mensual
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 II.- Locatarios que venden carnes $80.00 mensual
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
@@ -1545,29 +1591,27 @@ En todo caso, se requerirá la licencia correspondiente. El incumplimiento de es
 
 Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
-Servicio Factor
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
-Salario
-
-Mínimo
+Servicio UMA
 
 A) Por participar
 
-en licitaciones 10.
+en licitaciones 15
 
 B) Certificaciones y
 
 constancias expedidas
 
-por el Ayuntamiento .15
+por el Ayuntamiento .50
 
 C) Venta de formas
 
-oficiales .10
+oficiales .50
 
 D) Expedición de disco
 
-magnético .40
+magnético 2
 
 ### Capítulo XI. De los Derechos por el Uso y Aprovechamiento de los Bienes de Dominio Público del Patrimonio Municipal
 
@@ -2124,3 +2168,9 @@ D.O. 28 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 22/2018 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX Y UMÁN”.]
+
+Artículo único.- Este Decreto entrará en vigor el día primero de enero del año dos mil diecinueve, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
