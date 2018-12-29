@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1163
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-10"
-last_updated: "2018-12-22"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento Número 2, del Periódico Oficial del Estado de Colima, el sábado 10 de septiembre de 2016.
 
@@ -377,7 +377,7 @@ III. Definir los lineamientos sobre los métodos de evaluación que corresponder
 
 IV. Conocer del avance programático presupuestal en la materia, con objeto de proponer las medidas correctivas que procedan, a efecto de asegurar el cumplimiento de los programas autorizados;
 
-V. Analizar trimestralmente el informe de la conclusión y resultados generales de las contrataciones que se realicen y, en su caso, recomendar las medidas necesarias para verificar que los programas y presupuesto de adquisiciones, arrendamientos y servicios se ejecuten en tiempo y forma, asií (sic) como proponer medidas tendientes a mejorar o corregir sus procesos de contratación y ejecución;
+V. Analizar trimestralmente el informe de la conclusión y resultados generales de las contrataciones que se realicen y, en su caso, recomendar las medidas necesarias para verificar que los programas y presupuesto de adquisiciones, arrendamientos y servicios se ejecuten en tiempo y forma, asíí (sic) como proponer medidas tendientes a mejorar o corregir sus procesos de contratación y ejecución;
 
 VI. Autorizar, cuando se justifique, la creación de los subcomités de adquisiciones, arrendamientos y servicios, así como aprobar la integración y funcionamiento de los mismos;
 
@@ -763,7 +763,13 @@ VIII. Las que hayan utilizado información privilegiada, proporcionada indebidam
 
 IX. Aquellos licitantes que injustificadamente y por causas imputables a ellos mismos, no hayan formalizado un contrato adjudicado con anterioridad por la convocante. Dicho impedimento prevalecerá ante la propia dependencia, entidad o unidad administrativa convocante por un plazo que no podrá ser superior a un año; y
 
-X. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+X. Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la propia dependencia o Entidad, siempre y cuando éstas hayan resultado gravemente perjudicadas o se hayan provocado afectaciones a particulares; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XI. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
 ###### Artículo 39.
 
@@ -995,7 +1001,9 @@ De la fijación de precios
 
 1. En las adquisiciones, arrendamientos y servicios, deberá pactarse preferentemente la condición de precio fijo. No obstante, en casos justificados por la dependencia, entidad o unidad convocante, se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula o mecanismo de ajuste que se determine previamente a la presentación de las propuestas.
 
-2. Cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias económicas de tipo general, como resultado de situaciones supervenientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción en los precios de los bienes o servicios aún no entregados o prestados o aún no pagados, y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente, las dependencias, entidades y unidades administrativas deberán reconocer incrementos o requerir reducciones, de conformidad con las disposiciones que, en su caso, emita el Comité de Adquisiciones respectivo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+2. Cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias económicas de tipo general, como resultado de situaciones supervenientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción en los precios de los bienes o servicios aún no entregados o prestados o aún no pagados, y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente, las dependencias, Entidades y unidades administrativas deberán reconocer incrementos o requerir reducciones, de conformidad con las disposiciones que, en su caso, emita el Comité de Adquisiciones respectivo. Del mismo modo, cuando las dependencias, Entidades y unidades administrativas reconozcan un atraso inminente en las obras a realizar que pueda traducirse en daños y perjuicios cuantificables económicamente a la población cercana o vecinos de las mismas, además de las garantías que para tal efecto se fijen, estos órganos gubernamentales podrán incrementar el presupuesto para, de forma voluntaria, unilateral, consciente y proporcional, puedan repartir esa cantidad económica como indemnización a éstas personas que se vean afectadas por los retrasos en dichas obras.
 
 3. Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
 
@@ -1041,7 +1049,9 @@ XVII. Las previsiones relativas a los términos y condiciones a las que se sujet
 
 XVIII. El señalamiento de las licencias, autorizaciones y permisos que conforme a otras disposiciones sea necesario contar para la adquisición o arrendamiento de bienes y prestación de los servicios correspondientes, cuando sean del conocimiento de la dependencia, entidad o unidad administrativa;
 
-XIX. Condiciones, términos y procedimiento para la aplicación de penas convencionales por atraso en la entrega de los bienes, arrendamientos o servicios, por causas imputables a los proveedores;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XIX. Condiciones, términos y procedimiento para la aplicación de penas convencionales por atraso en la entrega de los bienes, arrendamientos o servicios, por causas imputables a los proveedores, las cuales serán aseguradas con garantía en términos de la fracción IV, párrafo cuatro, del artículo 52 de esta Ley;
 
 XX. La indicación de que en caso de violaciones en materia de derechos inherentes a la propiedad intelectual, la responsabilidad estará a cargo del participante o proveedor según sea el caso. Salvo que exista impedimento, la estipulación de que los derechos inherentes a la propiedad intelectual, que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán a favor de la dependencia, entidad o unidad administrativa, según corresponda, en términos de las disposiciones legales aplicables;
 
@@ -1107,9 +1117,17 @@ c) La garantía de buen cumplimiento del contrato deberá ser de entre diez y tr
 
 d) En los casos señalados en las fracciones II, IV, V, XII, XVIII del artículo 45 de esta Ley, el servidor público que deba firmar el contrato, bajo su responsabilidad, podrá exceptuar al proveedor de presentar la garantía de cumplimiento del contrato respectivo.
 
-II. Garantía por anticipo. Esta garantía deberá ser equivalente al cien por ciento de los recursos otorgados. En este caso se permitirán los mismos instrumentos establecidos al regular la garantía de cumplimiento; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-III. Garantía por los defectos y vicios ocultos de los bienes y la falta de calidad de los servicios. Los proveedores quedarán obligados ante la dependencia, entidad o unidad administrativa a responder por las fallas mencionadas en este párrafo, así como de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
+II. Garantía por anticipo. Esta garantía deberá ser equivalente al cien por ciento de los recursos otorgados. En este caso se permitirán los mismos instrumentos establecidos al regular la garantía de cumplimiento;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+III. Garantía por los defectos y vicios ocultos de los bienes y la falta de calidad de los servicios. Los proveedores quedarán obligados ante la dependencia, Entidad o unidad administrativa a responder por las fallas mencionadas en este párrafo, así como de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IV. Garantía por retraso en la entrega de las obras, bienes y servicios. Los proveedores estarán obligados a responder ante la dependencia, Entidad o unidad administrativa por los retrasos en la realización y entrega de las obras, bienes y servicios bajo los términos y condiciones pactados en el contrato.
 
 5. La garantía de buen cumplimiento del contrato deberá presentarse en el plazo o fecha previstos en los términos del inciso a) de la fracción I del párrafo 4 del presente artículo; o en su defecto, a más tardar dentro de los diez días naturales siguientes a la firma del contrato, salvo que la entrega de los bienes o la prestación de los servicios se realice dentro del citado plazo y, la correspondiente al anticipo se presentará previamente a la entrega de éste, a más tardar en la fecha establecida en el contrato.
 
@@ -1157,7 +1175,9 @@ De los pagos
 
 3. El proveedor que se encuentre registrado ante Nacional Financiera, Sociedad Nacional de Crédito, en el programa de cadenas productivas, atendiendo a las condiciones del contrato correspondiente, podrá elegir que el pago de los bienes o servicios prestados se realice directamente por el ente gubernamental respectivo, o en su caso, por conducto de una institución financiera. En el supuesto de pago por conducto del programa referido, los entes gubernamentales realizarán el registro de las cuentas por pagar dentro de los plazos definidos en las disposiciones de cadenas productivas, con el propósito de dar mayor certidumbre, transparencia y eficiencia en los pagos.
 
-4. El atraso en la entrega de anticipos convenidos en el contrato, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones a cargo del proveedor.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+4. El atraso en la entrega de anticipos convenidos en el contrato, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones a cargo del proveedor, lo cual generará para la dependencia, Entidad o unidad administrativa correspondiente, las responsabilidades frente a los particulares afectados por las obras y servicios que se desprendan de las Leyes.
 
 5. Tratándose de pagos en exceso que haya recibido el proveedor, éste deberá reintegrar dichas cantidades en exceso, más los intereses correspondientes, conforme a lo señalado en el párrafo 2 del presente artículo. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales desde la fecha del pago, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia o entidad.
 
@@ -1812,3 +1832,9 @@ P.O. 22 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 609 POR EL QUE SE REFORMA EL ARTÍCULO 23, NUMERAL 1 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 603 POR EL QUE SE REFORMAN LOS ARTÍCULOS 24, EL PÁRRAFO SEGUNDO; 46, FRACCIÓN VIII; 48, FRACCIONES I Y II; 52; 60, PÁRRAFO PRIMERO; 66, PÁRRAFO PRIMERO; ASIMISMO SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 6° BIS; UNA FRACCIÓN III AL ARTÍCULO 48; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 49 DE LA LEY ESTATAL DE OBRAS PÚBLICAS; SE REFORMA LA FRACCIÓN X DEL PÁRRAFO 1 DEL ARTÍCULO 38; EL PÁRRAFO 2 DEL ARTÍCULO 48; LA FRACCIÓN XIX DEL PÁRRAFO 1 DEL ARTÍCULO 49; EL PÁRRAFO 4 DEL ARTÍCULO 56; Y EL PÁRRAFO 1 DEL ARTÍCULO 58; ASIMISMO SE ADICIONA LA FRACCIÓN XI AL PÁRRAFO 1 DEL ARTÍCULO 38; Y LA FRACCIÓN IV AL PÁRRAFO 4 DEL ARTÍCULO 52; TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA”.]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
