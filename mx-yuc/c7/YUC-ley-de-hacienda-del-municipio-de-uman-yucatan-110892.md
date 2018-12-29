@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-uman-yucatan-110892"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-29"
-last_updated: "2016-12-31"
+last_updated: "2018-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE UMÁN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 29 de Diciembre de 2015.
 
@@ -55,7 +55,9 @@ LEY DE HACIENDA PARA EL MUNICIPIO DE UMÁN, YUCATÁN
 
 La presente Ley es de orden público y de observancia general, en el territorio del Municipio de Umán, Yucatán, y tiene por objeto:
 
-I.- Establecer las contribuciones y demás ingresos no tributarios que la Hacienda Pública del Municipio de Umán, podrá percibir, para lo cual deberá;
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+I.- Establecer las contribuciones y demás ingresos no tributarios que la Hacienda Pública del Municipio de Umán, podrá percibir en cada ejercicio fiscal;
 
 II.- Definir el objeto, sujeto, base, tasa, cuota o tarifa, época de pago de las contribuciones, exenciones, y,
 
@@ -347,9 +349,9 @@ Se aceptarán como medio de pago, el dinero en efectivo en moneda nacional y cur
 
 También, se aceptará el pago mediante tarjeta de crédito, débito o monedero electrónico, cuando en las cajas recaudadoras se encuentren habilitados los dispositivos necesarios para la recepción de dichos medios de pago y para las contribuciones o grupo de contribuyentes que determine la Tesorería Municipal.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
-Cuando en la presente ley se haga mención de las palabras "Unidad de Media" ó "UMA" la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos. El Instituto Nacional de Estadística y Geografía determinará el valor diario de la Unidad de Medida y Actualización y lo publicará en el Diario Oficial de la Federación. Tratándose de multas, la Unidad de Medida y Actualización servirá de base para su cálculo será el vigente al momento de individualizar la sanción.
+Cuando en la presente ley se haga mención de las palabras "Unidad de Medida" o "UMA" se entenderá como la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos. El Instituto Nacional de Estadística y Geografía determinará el valor diario de la Unidad de Medida y Actualización y lo publicará en el Diario Oficial de la Federación. Tratándose de multas, la Unidad de Medida y Actualización que servirá de base para su cálculo será el vigente al momento de individualizar la sanción.
 
 ###### Artículo 28.
 
@@ -453,11 +455,15 @@ La revalidación de las licencias de funcionamiento estará vigente desde el dí
 
 La vigencia de las licencias de funcionamiento podrá concluir anticipadamente, e incluso condicionarse, cuando por la actividad de la persona física o moral que la solicita, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En dicho caso, el plazo de vigencia o la condición, serán iguales a las expresadas por dichas dependencias.
 
-No obstante lo dispuesto en el párrafo anterior, durante el tiempo de la vigencia de la licencia de funcionamiento, con excepción de la Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, estar al día en el pago de sus contribuciones municipales, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro los treinta días hábiles siguientes al vencimiento de los mismos.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+En adición a lo señalado en el párrafo inmediato anterior, el Director de Finanzas y Tesorería Municipal estará facultado para revocar la licencia de funcionamiento para aquellos casos que para su obtención o revalidación se hayan proporcionado o presentado información o documentos falsos o cuando derivado de una visita de verificación o de inspección se aprecie que la actividad que en la misma se realiza es diversa a aquella por la cual fue otorgada o cuando se le revoque la licencia de uso de suelo por resolución de autoridad competente.
 
 Una vez vencido este término sin que se haya cumplido con éstas obligaciones, el Director de Finanzas y Tesorería Municipal estará facultado para revocar la licencia que corresponda, sin perjuicio de las sanciones aplicables en términos de esta Ley.
 
 En adición a lo señalado en el párrafo inmediato anterior, el Director de Finanzas y Tesorería Municipal estará facultado para revocar la licencia de funcionamiento para aquellos casos que para su obtención o revalidación se hayan proporcionado o presentado información o documentos falsos o cuando se le revoque la licencia de uso de suelo por resolución de autoridad competente.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 28.]</small>
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -465,7 +471,7 @@ En adición a lo señalado en el párrafo inmediato anterior, el Director de Fin
 
 Las personas físicas o morales que deban obtener por apertura la licencia de funcionamiento municipal, tendrán que anexar a la solicitud que presentarán a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos vigentes:
 
-l. Copia simple de su inscripción en el Registro Federal de Contribuyentes;
+I. Copia simple de su inscripción en el Registro Federal de Contribuyentes;
 
 II. Credencial para votar con fotografía del propietario o su representante;
 
@@ -475,27 +481,31 @@ IV. Copia del comprobante de su Clave Única de Registro de Población del propi
 
 V. Dictamen otorgado por la Dirección de la Unidad Municipal de Protección Civil donde se otorga el visto bueno al Programa Interno de Protección Civil, de acuerdo al Reglamento Municipal de Protección Civil;
 
-VI. Comprobante del último pago del agua potable para acreditar que no adeuda el servicio;
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
-VIl. El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario, deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo;
+VI. El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario, de lo contrario deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo;
 
-VIII. Licencia de Uso del Suelo vigente;
+VII. Licencia de Uso del Suelo vigente;
 
-IX. Autorización, determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal;
+VIII. Autorización, determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal;
 
-X. El recibo de pago del derecho correspondiente al giro en su caso;
+IX. El recibo de pago del derecho correspondiente al giro en su caso;
 
-XI. Autorización de Ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Umán, de existir el mismo o en el Reglamento que así lo prevenga;
+X. Autorización de Ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Umán, de existir el mismo o en el Reglamento que así lo prevenga;
 
-XII. Tratándose de estacionamientos públicos, la constancia de asignación de tipo y categoría previstos en el Reglamento correspondiente, de existir el mismo;
+XI. Tratándose de estacionamientos públicos, la constancia de asignación de tipo y categoría previstos en el Reglamento correspondiente, de existir el mismo;
 
-XIII. Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente o bien del recibo que emita el organismo paramunicipal administrador del servicio;
+XII. Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente o bien del recibo que emita el organismo paramunicipal administrador del servicio;
 
-XIV. Programa de recolección de residuos sólidos validado por la Dirección de Servicios Públicos e Imagen Municipal,
+XIII. Programa de recolección de residuos sólidos validado por la Dirección de Servicios Públicos e Imagen Municipal,
 
-XV. Copia del contrato de recolección de residuos y,
+XIV. Copia del contrato de recolección de residuos y,
 
-XVI. Autorización de ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Umán, Yucatán.
+XV. Autorización de ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Umán, Yucatán.
+
+Cuando el titular de una licencia de funcionamiento correspondiente a un comercio, negocio o establecimiento pretenda funcionar con un giro diferente o en otro domicilio deberá de obtener una nueva licencia satisfaciendo los requisitos anteriores.
+
+En ningún caso la vigencia de la licencia de funcionamiento excederá del periodo de la administración municipal que la expidió.
 
 ###### Artículo 39.
 
@@ -511,7 +521,9 @@ IV. Visto bueno del Programa Interno de Protección Civil, de acuerdo al Reglame
 
 V. Comprobante del último pago del agua potable para acreditar que no adeuda el servicio;
 
-VI. El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario, deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo;
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+VI. El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario, de lo contrario deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo;
 
 VII. Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal;
 
@@ -561,7 +573,9 @@ VI.- La propiedad o posesión por cualquier título de bienes inmuebles del domi
 
 Son sujetos del impuesto predial:
 
-I.- Los propietarios o usufructuarios de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio municipal, así como de las construcciones permanentes edificadas en ellos;
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+I.- Los propietarios, usufructuarios o posesionarios de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio municipal, así como de las construcciones permanentes edificadas en ellos;
 
 II.- Los fideicomitentes por todo el tiempo que el fiduciario no transmitiere la propiedad o el uso de los inmuebles a que se refiere la fracción anterior, al fideicomisario o a las demás personas que correspondiere, en cumplimiento del contrato de fideicomiso;
 
@@ -576,6 +590,10 @@ VI.- Los subarrendadores, cuya base será la diferencia que resulte a su favor e
 VII.- Los organismos descentralizados, las empresas de participación estatal que tengan en propiedad o posesión bienes inmuebles del dominio público de la Federación, Estado, o Municipio, utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público, y
 
 VIII.- Las personas físicas o morales que posean por cualquier título bienes inmuebles del dominio público de la Federación, Estado o Municipio utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+IX.- Las Empresas Productivas del Estado.
 
 Los propietarios de los predios a los que se refiere la fracción I del artículo 40 de esta Ley, deberán manifestar a la Dirección de Finanzas y Tesorería Municipal, el número total y la dirección de los predios de su propiedad ubicados en el Municipio.
 
@@ -629,15 +647,19 @@ Cuando un inmueble sea otorgado en uso, goce, se permita su ocupación por cualq
 
 Cuando la base del impuesto predial sea el valor catastral del inmueble, se determinará aplicando la tarifa establecida en la Ley de Ingresos del Municipio de Umán, Yucatán.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 46.
 
-El impuesto predial sobre la base del valor catastral deberá cubrirse anualmente. Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de una bonificación del 10% sobre el importe de dicho impuesto.
+El impuesto predial sobre la base del valor catastral deberá cubrirse anualmente. Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante el primer, segundo y tercer mes de dicho año, gozará de una bonificación del 30%, 15% y 10% respectivamente sobre el importe de dicho impuesto.
 
 Los programas que implemente la Dirección de Finanzas y Tesorería Municipal y que representen apoyos a los contribuyentes, deberán de ser sometidos a la aprobación del Cabildo y dados a conocer a la ciudadanía mediante su publicación en algún medio local y en la Gaceta Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 47.
 
-Estarán exentos de pago de impuesto predial, los bienes de dominio público de la Federación, Estado o Municipio salvo que tales bienes sean utilizados por entidades paraestatales, por organismos descentralizados o particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público. En este caso, el impuesto predial se pagará en la forma, términos y conforme a la tarifa establecida en la Ley de Ingresos del Municipio de Umán, del ejercicio fiscal correspondiente.
+Únicamente estarán exentos de pago de impuesto predial los bienes de dominio público de la Federación, Estado o Municipio, salvo que tales bienes sean utilizados por entidades paraestatales, por organismos descentralizados o particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público de creación. En este caso, el impuesto predial se pagará en la forma, términos y conforme a la tarifa establecida en la Ley de Ingresos del Municipio de Umán, del ejercicio fiscal correspondiente.
 
 Cuando en un mismo inmueble, se realicen simultáneamente actividades propias del objeto público, de las entidades u organismos mencionados en el párrafo anterior, y otras actividades distintas o accesorias, para que la Tesorería Municipal correspondiente esté en condiciones de determinar el impuesto a pagar, los organismos descentralizados, las empresas de participación estatal o quienes posean bajo cualquier título inmuebles del dominio público de la Federación, Estado o Municipio, deberán declarar, durante los primeros 15 días del mes de diciembre de cada año, ante la propia Tesorería Municipal, la superficie ocupada efectivamente para la realización de su objeto principal señalando claramente la superficie que del mismo inmueble sea utilizado para fines administrativos o distintos a los de su objeto público.
 
@@ -743,9 +765,11 @@ I.- Los fedatarios públicos y las personas que por disposición legal tengan fu
 
 II.- Los funcionarios o empleados del Registro Público de la Propiedad y del Comercio del Estado de Yucatán, que inscriban cualquier acto, contrato o documento relativo a algunos de los supuestos que se relacionan en el mencionado artículo 53 de esta Ley, sin que les sea exhibido el recibo correspondiente al pago del impuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 56.
 
-No se causará el Impuesto sobre Adquisición de Inmuebles en las adquisiciones que realicen la Federación, los estados, el Distrito Federal, los Municipios, las instituciones de beneficencia pública, la Universidad Autónoma de Yucatán y en los casos siguientes:
+No se causará el Impuesto sobre Adquisición de Inmuebles en las adquisiciones que realicen la Federación, los estados, la ciudad de México, los Municipios, las instituciones de beneficencia pública, la Universidad Autónoma de Yucatán y en los casos siguientes:
 
 I.- La transformación de sociedades, con excepción de la fusión;
 
@@ -1087,7 +1111,9 @@ Para efecto de la expedición de licencias de funcionamiento se deberá cumplir 
 
 La tarifa que se cobrará por las anuencias para el funcionamiento de establecimientos y/o giros relacionados con la venta de bebidas alcohólicas y/o cerveza, será de conformidad a lo previsto en la Ley de Ingresos del Municipio.
 
-Asimismo, a los permisos provisionales para el funcionamiento de eventos en los que se vayan a expender bebidas alcohólicas, se les aplicará la cuota señalada en la referida Ley de Ingresos del Municipio.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Asimismo, a los permisos eventuales o provisionales para la comercialización por temporadas festivas o para el funcionamiento de eventos en los que se vayan a expender bebidas alcohólicas, se les aplicará la cuota señalada en la referida Ley de Ingresos del Municipio.
 
 De igual manera, para el otorgamiento y renovación de licencias nuevas de funcionamiento de giros relacionados con la prestación de servicios que incluyan o no el expendio de bebidas alcohólicas se aplicara la tarifa prevista en la citada Ley de Ingresos Municipal.
 
@@ -1117,117 +1143,121 @@ XI. Molino y tortillería.
 
 XII. Nevería, frapería, dulcería
 
-XIII. Panadería
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XIV. Pastelería
+XIII.- Cafetería
 
-XV. Rosticería y asadero
+XIV. Panadería
 
-XVI. Lonchería, Taquería
+XV. Pastelería
 
-XVII. Cocinas económicas
+XVI. Rosticería y asadero
 
-XVIII. Restaurantes sin venta de bebidas alcohólicas
+XVII. Lonchería, Taquería
 
-XIX. Venta de frutas y verduras
+XVIII. Cocinas económicas
 
-XX. Carnicería
+XIX. Restaurantes sin venta de bebidas alcohólicas
 
-XXI. Carnicería mayoristas
+XX. Venta de frutas y verduras
 
-XXII. Zapatería
+XXI. Carnicería
 
-XXIII. Tienda de ropa
+XXII. Carnicería mayoristas
 
-XXIV. Almacén de ropa
+XXIII. Zapatería
 
-XXV. Bisutería y mercería
+XXIV. Tienda de ropa
 
-XXVI. Sastrería y confecciones
+XXV. Almacén de ropa
 
-XXVII. Estancias infantiles
+XXVI. Bisutería y mercería
 
-XXVIII. Instituciones educativas del Sector Privado
+XXVII. Sastrería y confecciones
 
-XXIX. Sala de fiestas
+XXVIII. Estancias infantiles
 
-XXX. Cíber
+XXIX. Instituciones educativas del Sector Privado
 
-XXXI. Venta y reparación de celulares
+XXX. Sala de fiestas
 
-XXXII. Peluquería y/o salones de belleza
+XXXI. Cíber
 
-XXXIII. Estudio fotográfico
+XXXII. Venta y reparación de celulares
 
-XXXIV. Oficinas administrativas
+XXXIII. Peluquería y/o salones de belleza
 
-XXXV. Instituciones bancarias
+XXXIV. Estudio fotográfico
 
-XXXVI. Instituciones financieras y/o de crédito
+XXXV. Oficinas administrativas
 
-XXXVII. Casa de empeño
+XXXVI. Instituciones bancarias
 
-XXXVIII. Lotería y pronósticos
+XXXVII. Instituciones financieras y/o de crédito
 
-XXXIX. Papelería
+XXXVIII. Casa de empeño
 
-XL. Lavandería
+XXXIX. Lotería y pronósticos
 
-XLI. Funeraria
+XL. Papelería
 
-XLII. Purificadoras de agua
+XLI. Lavandería
 
-XLIII. Hoteles, moteles
+XLII. Funeraria
 
-XLIV. Ferretería y tlapalería
+XLIII. Purificadoras de agua
 
-XLV. Refaccionaria de bicicleta
+XLIV. Hoteles, moteles
 
-XLVI. Refaccionaria de electrónica
+XLV. Ferretería y tlapalería
 
-XLVII. Refaccionaria de motocicletas
+XLVI. Refaccionaria de bicicleta
 
-XLVIII. Refaccionaria automotriz
+XLVII. Refaccionaria de electrónica
 
-XLIX. Llantera
+XLVIII. Refaccionaria de motocicletas
 
-L. Taller de bicicletas
+XLIX. Refaccionaria automotriz
 
-Ll. Taller de motocicletas
+L. Llantera
 
-Lll. Taller automotriz
+LI. Taller de bicicletas
 
-LIII. Taller eléctrico
+LII. Taller de motocicletas
 
-LIV. Taller de herrería
+LIII. Taller automotriz
 
-LV. Venta de material de construcción
+LIV. Taller eléctrico
 
-LVI. Venta de material de acero
+LV. Taller de herrería
 
-LVII. Almacén o bodega diversos
+LVI. Venta de material de construcción
 
-LVIII. Empresas de 1 a 50 empleados
+LVII. Venta de material de acero
 
-LIX. Empresas de 51 a 100 empleados
+LVIII. Almacén o bodega diversos
 
-LX. Empresas de 101 a 150 empleados
+LIX. Empresas de 1 a 50 empleados
 
-LXI. Empresas de 151 a 250 empleados
+LX. Empresas de 51 a 100 empleados
 
-LXII. Fábrica de aceros o transformación
+LXI. Empresas de 101 a 150 empleados
 
-LXIII. Lavadero automotriz
+LXII. Empresas de 151 a 250 empleados
 
-LXIV. Bancos de extracción de material pétreo
+LXIII. Fábrica de aceros o transformación
 
-LXV. Planta de trituración y emulsiones
+LXIV. Lavadero automotriz
 
-LXVI. Gasolineras
+LXV. Bancos de extracción de material pétreo
 
-LXVII. Recicladora de materiales al menudeo
+LXVI. Planta de trituración y emulsiones
 
-LXVIII. Recicladora de materiales al mayoreo
+LXVII. Gasolineras
+
+LXVIII. Recicladora de materiales al menudeo
+
+LXIX. Recicladora de materiales al mayoreo
 
 La tarifa por la ampliación de horario y la autorización para laborar en días especiales será la establecida en la Ley de Ingresos del Municipio, previo análisis de factibilidad por parte de la Secretaría Municipal.
 
@@ -1703,9 +1733,9 @@ Cuando algún concesionario ilegalmente haya pretendido enajenar sus derechos, e
 
 En este caso, el bien de que se trate se revertirá al Municipio y el Ayuntamiento podrá concesionarlo nuevamente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
-#### Sección Octava (Sic). Derechos por Servicio de Limpia y Recolección de Residuos Sólidos
+#### Sección Novena. Derechos por Servicio de Limpia y Recolección de Residuos Sólidos
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1741,7 +1771,9 @@ Tratándose de los servicios de tipo industrial o tratándose de servicios comer
 
 Los usuarios del servicio de recolección de basura domestico que paguen en una sola exhibición el importe anual por este servicio, gozarán de un descuento del 20% de la tarifa que corresponda, siempre que dicho pago se realice durante los meses de enero y febrero de cada año.
 
-#### Sección Novena. Derechos por Servicio de Alumbrado Público
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Décima. Derechos por Servicio de Alumbrado Público
 
 ###### Artículo 131.
 
@@ -1779,7 +1811,9 @@ En estos casos, se deberá incluir el importe de este derecho en el documento qu
 
 Los ingresos que se perciban por el derecho a que se refiere la presente sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-#### Sección Décima. Derechos por Servicios de la Unidad de Acceso a la Información
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Décima Primera. Derechos por Servicios de la Unidad de Transparencia
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1807,7 +1841,9 @@ El pago de los derechos a que se refiere la presente sección, se realizará en 
 
 La cuota a pagar por los derechos a que se refiere la presente sección, será determinada en la Ley de Ingresos del Municipio de Umán, Yucatán.
 
-#### Sección Décima Primera. Derechos por Servicios de Agua Potable
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Décima Segunda. Derechos por Servicios de Agua Potable
 
 ###### Artículo 142.
 
@@ -1865,9 +1901,9 @@ Solamente quedarán exentos del pago de este derecho los bienes de dominio públ
 
 Los usuarios de este servicio están obligados a permitir que las autoridades fiscales verifiquen la información proporcionada con motivo de este servicio, pudiendo para ello practicar visitas domiciliarias o valerse de medios técnicos que permitan determinar con mayor precisión los consumos realizados.
 
-#### Sección Décima Segunda
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 29 DE DICIEMBRE DE 2018)</small>
 
-Derechos por Permisos otorgados a Oferentes en Programas para la Promoción Económica, Turística y Cultural.
+#### Sección Décima Tercera. Derechos por Permisos otorgados a Oferentes en Programas para la Promoción Económica, Turística y Cultural
 
 ###### Artículo 150.
 
@@ -1887,7 +1923,9 @@ Por la emisión de la credencial de oferente en programas o eventos para la prom
 
 El Director de Finanzas y Tesorero Municipal, a solicitud expresa del interesado, podrá reducir las cuotas establecidas en esta sección, tomando en consideración la finalidad de la realización del evento o programa.
 
-#### Sección Décima Tercera. Otros Servicios Prestados por el Ayuntamiento
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 29 DE DICIEMBRE DE 2018)</small>
+
+#### Sección Décima Cuarta. Otros Servicios Prestados por el Ayuntamiento
 
 ###### Artículo 153.
 
@@ -2439,8 +2477,14 @@ Secretario General de Gobierno
 
 D.O. 31 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO QUE MODIFICA LA LEY DE HACIENDA DE UMÁN DEL ESTADO DE YUCATÁN”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE MODIFICA LA LEY DE HACIENDA DE UMÁN DEL ESTADO DE YUCATÁN".]
 
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 22/2018 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, SACALUM, TEMAX, Y UMAN”.]
+
+Artículo único.- Este Decreto entrará en vigor el día primero de enero del año dos mil diecinueve, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
