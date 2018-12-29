@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2017-12-20"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -165,15 +165,73 @@ XI. De otros que determine la Ley de Coordinación, en las proporciones en que d
 
 Los Municipios, además de las Participaciones establecidas en la presente Ley recibirán directamente de la Federación las relativas al artículo 2º-A fracciones I y II de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-###### ARTICULO 6.
+###### ARTÍCULO 6.
 
-El Fondo Municipal de Participaciones se constituirá con las cantidades resultantes de las fracciones I, III, IV, V, VI y VII del artículo 5 de esta Ley y se distribuirá a los Municipios conforme a la formula siguiente:
+El Fondo General de Participaciones se constituirá con el 21% de la recaudación federal participable que obtenga la federación en un ejercicio, y se distribuirá a los Municipios conforme a la formula siguiente:
 
 (VÉASE ARCHIVO ANEXO)
 
-La fórmula anterior no será aplicable al evento de que en el año de cálculo el monto de Fondo Municipal de Participaciones sea inferior al observado en el año 2013. En tal supuesto la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2013 de cada municipio.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Las fórmulas anteriormente señaladas no serán aplicables al evento de que en el año de cálculo el monto de Fondo de que se trate sea inferior al observado en el año 2013. En tal supuesto la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2013 de cada municipio.
+
+Las cifras reportadas en la Cuenta Pública Municipal de los impuestos y derechos, que estén relacionadas con el otorgamiento de beneficios, programas, subvenciones, o subsidios, aun cuando tengan una denominación distinta en la legislación local correspondiente, y que estén dirigidos a determinado sector de la población o de la economía, no se considerarán ingresos para efectos de la determinación de coeficientes de distribución.
+
+La información sobre ingresos recaudados por los Municipios se integra por impuestos, derechos, productos y aprovechamientos que registren un flujo de efectivo y que correspondan al penúltimo ejercicio en relación con el ejercicio para el que se efectúa el cálculo de las Participaciones.
+
+Los Organismos Públicos Descentralizados deberán informar a la Secretaría los ingresos recaudados por los servicios públicos relacionados con el suministro de agua, a efecto de integrar dicha información en la Cuenta Pública Municipal, así como en los informes que se entreguen a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 6A.- El Fondo de Impuestos Especiales de Producción y Servicios se constituirá del 20% de la recaudación federal participable que obtenga la federación en un ejercicio, y se distribuirá a los Municipios conforme a la formula siguiente:
+
+(VÉASE ARCHIVO ANEXO)
+
+Las fórmulas anteriormente señaladas no serán aplicables al evento de que en el año de cálculo el monto de Fondo de que se trate sea inferior al observado en el año 2013. En tal supuesto la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2013 de cada municipio.
+
+Las cifras reportadas en la Cuenta Pública Municipal de los impuestos y derechos, que estén relacionadas con el otorgamiento de beneficios, programas, subvenciones, o subsidios, aun cuando tengan una denominación distinta en la legislación local correspondiente, y que estén dirigidos a determinado sector de la población o de la economía, no se considerarán ingresos para efectos de la determinación de coeficientes de distribución.
+
+La información sobre ingresos recaudados por los Municipios se integra por impuestos, derechos, productos y aprovechamientos que registren un flujo de efectivo y que correspondan al penúltimo ejercicio en relación con el ejercicio para el que se efectúa el cálculo de las Participaciones.
+
+Las Organismos Públicos Descentralizados deberán informar a la Secretaría los ingresos recaudados por los servicios públicos relacionados con el suministro de agua, a efecto de integrar dicha información en la Cuenta Pública Municipal, así como en los informes que se le entreguen a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 6B.- El Fondo del Impuesto Sobre Automóviles Nuevos se constituirá del 20% de la recaudación federal participable que obtenga la federación en un ejercicio, y se distribuirá a los Municipios conforme a la formula siguiente:
+
+(VÉASE ARCHIVO ANEXO)
+
+Las fórmulas anteriormente señaladas no serán aplicables al evento de que en el año de cálculo el monto de Fondo de que se trate sea inferior al observado en el año 2013. En tal supuesto la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2013 de cada municipio.
+
+Las cifras reportadas en la Cuenta Pública Municipal de los impuestos y derechos, que estén relacionadas con el otorgamiento de beneficios, programas, subvenciones, o subsidios, aun cuando tengan una denominación distinta en la legislación local correspondiente, y que estén dirigidos a determinado sector de la población o de la economía, no se considerarán ingresos para efectos de la determinación de coeficientes de distribución.
+
+La información sobre ingresos recaudados por los Municipios se integra por impuestos, derechos, productos y aprovechamientos que registren un flujo de efectivo y que correspondan al penúltimo ejercicio en relación con el ejercicio para el que se efectúa el cálculo de las Participaciones.
+
+Los Organismos Públicos Descentralizados deberán informar a la Secretaría los ingresos recaudados por los servicios públicos relacionados con el suministro de agua, a efecto de integrar dicha información en la Cuenta Pública Municipal, así como en los informes que se entreguen a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 6C.- El Fondo de Compensación del Impuesto Sobre Automóviles Nuevos se constituirá del 20% de la recaudación federal participable que obtenga la federación en un ejercicio, y se distribuirá a los Municipios conforme a la formula siguiente:
+
+(VÉASE ARCHIVO ANEXO)
+
+Las fórmulas anteriormente señaladas no serán aplicables al evento de que en el año de cálculo el monto de Fondo de que se trate sea inferior al observado en el año 2013. En tal supuesto la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2013 de cada municipio.
+
+Las cifras reportadas en la Cuenta Pública Municipal de los impuestos y derechos, que estén relacionadas con el otorgamiento de beneficios, programas, subvenciones, o subsidios, aun cuando tengan una denominación distinta en la legislación local correspondiente, y que estén dirigidos a determinado sector de la población o de la economía, no se considerarán ingresos para efectos de la determinación de coeficientes de distribución.
+
+La información sobre ingresos recaudados por los Municipios se integra por impuestos, derechos, productos y aprovechamientos que registren un flujo de efectivo y que correspondan al penúltimo ejercicio en relación con el ejercicio para el que se efectúa el cálculo de las Participaciones.
+
+Los Organismos Públicos Descentralizados deberán informar a la Secretaría los ingresos recaudados por los servicios públicos relacionados con el suministro de agua, efecto de integrar dicha información en la Cuenta Pública Municipal, así como en los informes que se entreguen a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 6D.- El Fondo de Fiscalización y Recaudación se constituirá del 20% de la recaudación federal participable que obtenga la federación en un ejercicio, y se distribuirá a los Municipios conforme a la formula siguiente:
+
+(VÉASE ARCHIVO ANEXO)
+
+Las fórmulas anteriormente señaladas no serán aplicables al evento de que en el año de cálculo el monto de Fondo de que se trate sea inferior al observado en el año 2013. En tal supuesto la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al factor de garantía 2013 de cada municipio
 
 Las cifras reportadas en la Cuenta Pública Municipal de los impuestos y derechos, que estén relacionadas con el otorgamiento de beneficios, programas, subvenciones, o subsidios, aun cuando tengan una denominación distinta en la legislación local correspondiente, y que estén dirigidos a determinado sector de la población o de la economía, no se considerarán ingresos para efectos de la determinación de coeficientes de distribución.
 
@@ -194,8 +252,6 @@ RCi,t= Es la suma de la recaudación del Impuesto predial de los Municipios que 
 ni = Es la última información oficial de población que a nivel municipal hubiere dado a conocer el Instituto Nacional de Estadística y Geografía para el Municipio i.
 
 nci = Es la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía de los Municipios que hayan convenido la coordinación del cobro de predial para el Municipio i.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TERCERO TRANSITORIO DEL DECRETO PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2013 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 CPi,t= Es el coeficiente de distribución del 30% del excedente del Fondo de Fomento Municipal con respecto a 2013 del Municipio i en el año t en que se efectúa el cálculo, siempre y cuando el Estado sea el responsable del cobro del impuesto predial a nombre del Municipio.
 
@@ -237,8 +293,6 @@ La información sobre ingresos propios recaudados por los Municipios se integra 
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ARTICULO 7 C.- El Estado deberá participar a sus Municipios el 100% de la recaudación del Impuesto Sobre la Renta correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en la administración pública municipal y organismos paramunicipales, siempre que el salario sea efectivamente pagado por los Municipios con cargo a sus Participaciones u otros ingresos municipales.
@@ -249,19 +303,21 @@ Asimismo, para que resulte aplicable lo dispuesto en el primer párrafo de este 
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 8.
+###### ARTÍCULO 8.
 
 Las Participaciones que correspondan a los Municipios, resultantes de los fondos que establece la Ley de Coordinación, se calcularán y distribuirán por conducto de la Secretaría con base en el Decreto que anualmente el Congreso apruebe.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-Las Participaciones se transferirán a las cuentas bancarias productivas específicas aperturadas para cada uno de los fondos que la integran y que sean notificadas a la Secretaría anualmente, mediante acta de cabildo aprobada por mayoría de sus integrantes, donde conste la institución financiera, clave interbancaria y el número de referencia de las mismas.
+Las Participaciones se transferirán a las cuentas bancarias productivas específicas apertura das para cada uno de los fondos que la integran y que sean notificadas a la Secretaría anualmente, mediante acta de cabildo aprobada por mayoría de sus integrantes, donde conste la institución financiera, clabe interbancaria y el número de referencia de las mismas.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 La entrega de Participaciones se realizará al Ayuntamiento dentro de los cinco días siguientes a la fecha en que se reciban de la Federación.
 
-Una vez notificada la liquidación de ajustes de participaciones que realice la Federación al Estado, la Secretaría efectuará igualmente los ajustes de participaciones que correspondan a los Municipios, realizando la liquidación y entero que resulte a favor de los mismos en los términos y plazos que establezca la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Una vez notificada la liquidación de ajustes de participaciones que realice la Federación al Estado, la Secretaría efectuará igualmente los ajustes de participaciones que correspondan a los Municipios, realizando la liquidación y entero que resulte a favor de los mismos, en los términos y plazos que establezca la Ley de Coordinación Fiscal, para lo cual expedirá constancias de liquidación por las participaciones federales pagadas a los municipios en las que se deberán precisar los importes pagados por fondo, incentivo o deducciones, así como el periodo correspondiente.
 
 Recibidos los recursos de los fondos de Participaciones así como de los fondos de Aportaciones en las cuentas bancarias productivas específicas, los Municipios deberán registrarlos como ingresos y expedir el comprobante fiscal digital a favor del Gobierno del Estado de Oaxaca, remitiéndolo en un plazo máximo de diez días naturales contados a partir de su recepción a la Secretaría.
 
@@ -687,7 +743,9 @@ Las autoridades municipales se elegirán mediante sorteo previo, eligiéndose el
 
 Para este fin, se determinan regiones hacendarias: Cañada, Costa, Istmo, Mixteca, Papaloapan, Valles Centrales, Sierra Norte y Sierra Sur, de conformidad con el Plan Estatal de Desarrollo.
 
-El sorteo se llevará a cabo a más tardar el último día del mes de enero de cada ejercicio fiscal con la presencia de los diputados presidentes de las comisiones permanentes del H. Congreso del Estado, mencionados antes y el titular de la Auditoría Superior del Estado, resultado que deberá publicarse en el Periódico Oficial del Estado conjuntamente con la convocatoria para llevar a cabo la instalación del Consejo de Coordinación Hacendaria.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+El sorteo se llevará a cabo a más tardar el último día del mes de enero de cada ejercicio fiscal con la presencia de los diputados presidentes de las comisiones permanentes del H. Congreso del Estado, mencionados antes, y el titular del Órgano Superior de Fiscalización del Estado de Oaxaca, resultado que deberá publicarse en el Periódico Oficial del Gobierno del Estado conjuntamente con la convocatoria para llevar a cabo la instalación del Consejo de Coordinación Hacendaria.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -705,7 +763,9 @@ Corresponde al Secretario integrar la agenda de los asuntos a tratar.
 
 El Consejo de Coordinación Hacendaria podrá sesionar válidamente en primera convocatoria con la asistencia del Presidente, Secretario y, cuando menos, el cincuenta por ciento más uno de sus vocales y, en segunda convocatoria, después de transcurridos treinta minutos a la primera, con el Presidente, el Secretario y los vocales presentes.
 
-Los integrantes del Consejo de Coordinación Hacendaria tendrán voz y voto, excepto el Secretario y los representantes de las Comisiones Permanentes de Hacienda y de Vigilancia de la Auditoría Superior del Estado, del Poder Legislativo quienes sólo tendrán voz.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Los integrantes del Consejo de Coordinación Hacendaría tendrán voz y voto, excepto el Secretario y los representantes de las Comisiones Permanentes de Hacienda y de Vigilancia del Órgano Superior de Fiscalización del Estado de Oaxaca, quienes sólo tendrán voz.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -904,3 +964,13 @@ P.O. 20 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 782.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 8.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil diecinueve, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
