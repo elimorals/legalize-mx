@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2017-06-03"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -427,7 +427,11 @@ XXV. Promover la política de conservación y mejoramiento del patrimonio urbano
 
 XXVI. Resolver el recurso administrativo previsto en esta Ley, y
 
-XXVII. Las demás que le confieran la presente Ley y otros ordenamientos.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XXVII. Promover la creación y funcionamiento de observatorios urbanos, con la asociación o participación plural de la sociedad, de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y el gobierno, para el estudio, investigación, organización y difusión de información y conocimientos sobre los problemas socio-espaciales y los nuevos modelos de políticas urbanas y regionales y de gestión pública, en los términos estipulados en la Ley General de Asentamientos Humanos.
+
+XXVIII. Las demás que le confieran la presente Ley y otros ordenamientos.
 
 ###### ARTICULO 20.
 
@@ -581,11 +585,15 @@ XXIII. Coordinarse y asociarse con otros municipios de la entidad para el cumpli
 
 XXIV. Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados, y
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-XXV. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+XXV. Promover la creación y funcionamiento de observatorios urbanos, con la asociación o participación plural de la sociedad, de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y el gobierno, para el estudio, investigación, organización y difusión de información y conocimientos sobre los problemas socio-espaciales y los nuevos modelos de políticas urbanas y regionales y de gestión pública, en los términos estipulados en la Ley General de Asentamientos Humanos;
 
-XXVI. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+XXVI. Las demás que le confieran la presente Ley y otros ordenamientos.
+
+XXVI (SIC). (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
 
 XXVII. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
 
@@ -1209,7 +1217,7 @@ I. La Secretaría o la Dependencia Municipal dará aviso del inicio del proceso 
 
 II. Una vez formulado el proyecto de programa de desarrollo urbano, éste se difundirá de la misma manera;
 
-III. Se establecerá un plazo y un calendario de audiencias públicas, para que los ciudadanos presenten por escrito los planteamientos que consideren respecto del proyecto;
+III. Se establecerá un plazo y un calendario de audiencias publicas, para que los ciudadanos presenten por escrito los planteamientos que consideren respecto del proyecto;
 
 IV. Las respuestas a los planteamientos improcedentes o las modificaciones a que den lugar, deberán fundamentarse y notificarse a los interesados en el domicilio señalado en su escrito, y estarán a consulta de ellos en las oficinas estatales o municipales correspondientes por lo menos quince días previos a la solicitud de aprobación; y
 
@@ -1655,9 +1663,11 @@ Los propietarios de inmuebles sólo utilizarán los predios en forma que no pres
 
 La asignación de destinos determinará la utilidad pública y la procedencia de las acciones que conlleven a la adquisición por parte del municipio o del Estado de los predios y fincas, para proveer a la comunidad de los fines públicos establecidos en los mismos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 121.
 
-La asignación de destinos de los programas parciales de urbanización expedidos conforme a las disposiciones del Capítulo II del Título Octavo, tendrá por efecto la transmisión de las propiedad (sic) de las áreas de cesión para destinos, quedando afectados los predios a los fines públicos.
+La asignación de destinos de los programas parciales de urbanización expedidos conforme a las disposiciones del Capítulo II del Título Octavo, tendrá por efecto la transmisión de la propiedad de las áreas de cesión para destinos, quedando afectados los predios únicamente a los fines públicos.
 
 ###### ARTICULO 122.
 
@@ -1725,9 +1735,11 @@ VII. Señalar las limitaciones, restricciones o lineamientos que a cada área o 
 
 En virtud de la concurrencia en la materia de desarrollo urbano, los Ayuntamientos expedirán los correspondientes dictámenes de vocación del suelo y el Gobierno del Estado verificará su congruencia, de conformidad con lo dispuesto en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 131.
 
-Los Ayuntamientos a través de sus Dependencias Municipales, expedirán los dictámenes de vocación del suelo, respecto de todas las acciones de aprovechamiento urbano del suelo, como las obras, acciones, inversiones y servicios que en materia de desarrollo urbano se pretendan realizar en sus jurisdicciones.
+Los Ayuntamientos a través de sus Dependencias Municipales, de conformidad con sus planes o programas de desarrollo urbano, expedirán los dictámenes de vocación del suelo, respecto de todas las acciones de aprovechamiento urbano del suelo, como las obras, acciones, inversiones y servicios que en materia de desarrollo urbano se pretendan realizar en sus jurisdicciones.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
@@ -1813,7 +1825,7 @@ I. De uso y destino, para certificaciones en general y en particular, para los e
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-II. De uso, destino, alineamiento y número oficial, para solicitar autorización de subdividir, fusionar, relotificar o edificar en predios que cuenten con incorporación municipal, la Dependencia Municipal expedirá este dictamen en un plazo no mayor a cinco días, y
+II. De uso, destino, alineamiento y numero oficial, para solicitar autorización de subdividir, fusionar, relotificar o edificar en predios que cuenten con incorporación municipal, la Dependencia Municipal expedirá este dictamen en un plazo no mayor a cinco días, y
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
@@ -2705,7 +2717,9 @@ I. La división de un área o predio en lotes o fracciones a fin de darle una ut
 
 II. La dotación de redes de infraestructura, como agua potable, desalojo de aguas residuales y pluviales, electrificación, alumbrado, telefonía, instalaciones especiales y obras de infraestructura regional;
 
-III. Los elementos de la vialidad, como el arroyo de las calles, ciclovías, banquetas, andadores, estacionamiento para vehículos, los dispositivos de control vial, como señalización y semaforización con sus equipos e instalaciones; y los elementos e instalaciones para la operación del transporte colectivo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+III. Los elementos de la vialidad, como el arroyo de las calles, ciclovías, banquetas, andadores, estacionamiento para vehículos, los dispositivos de control vial, como señalización y semaforización con sus equipos e instalaciones; y los elementos e instalaciones para la operación del transporte colectivo; así como elementos de accesibilidad para las personas con alguna discapacidad motriz, tales como rampas, pasacalles y banquetas;
 
 IV. Los servicios e instalaciones especiales que requieran las actividades de la industria, el comercio y los servicios;
 
@@ -2762,6 +2776,10 @@ III. Realizado los pagos que determinen las Leyes Hacendarias y de Ingresos Muni
 ###### ARTICULO 267.
 
 La integración de las áreas de cesión para destinos al Patrimonio Municipal se realizará a título gratuito, mediante escritura pública otorgada por el promotor de la obra, la cual quedará inscrita en el Registro Público de la Propiedad y del Comercio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Los bienes inmuebles que comprenden las áreas de cesión para destinos, son inalienables, imprescriptibles e inembargables, mientras no se les desafecten del servicio público al que se encuentren destinadas. Las áreas verdes, de recreación y espacios abiertos, así como parques y jardines de donación, no podrán desafectarse y cambiarse de ese destino.
 
 ### Capítulo II. De los procedimientos para autorizar obras de urbanización
 
@@ -2909,7 +2927,7 @@ X. (DEROGADA, P.O. 3 DE JUNIO DE 2017)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
 
-XI. Tratándose de promociones de vivienda y en caso que así lo requieran, carta en papelería membreteada del promovente solicitando la urbanización y edificación simultánea comprobando mediante la entrega de copias de documentos oficiales, que se encuentra registrado como promotor o constructor ante dependencias que apoyen la generación de vivienda. En ambos casos, deberán comprobar que cuentan con el apoyo de instituciones financieras o demostrar fehacientemente la fuente de los recursos que se requieran para llevar a cabo el proyecto planteado; y
+XI. Tratándose de promociones de vivienda y en caso que así lo requieran, carta en papelería membreteada (sic) del promovente solicitando la urbanización y edificación simultánea comprobando mediante la entrega de copias de documentos oficiales, que se encuentra registrado como promotor o constructor ante dependencias que apoyen la generación de vivienda. En ambos casos, deberán comprobar que cuentan con el apoyo de instituciones financieras o demostrar fehacientemente la fuente de los recursos que se requieran para llevar a cabo el proyecto planteado; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
 
@@ -3010,6 +3028,10 @@ f) Proyecto de ubicación de contenedores para depósito de desechos sólidos y 
 > <small>(REFORMADO, P. O. 24 DE ENERO DE 2004)</small>
 
 g) Rasantes de los ejes de trazo;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+h) Proyecto de incorporación de elementos de accesibilidad para las personas con alguna discapacidad motriz, tales como rampas, pasacalles y banquetas;
 
 III. Plano de lotificación que contenga:
 
@@ -3193,9 +3215,9 @@ La ejecución de las obras de urbanización podrá autorizarse en la (sic) sigui
 
 I. Urbanización inmediata: es aquella en la que el urbanizador o promovente deberá ejecutar la totalidad de las obras de urbanización, dentro del plazo señalado en el calendario de obra autorizado por el Ayuntamiento en la resolución respectiva, y que en ningún caso podrá ser mayor de veinticuatro meses, contados a partir de la fecha de expedición de la licencia correspondiente;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-II. Urbanización por etapas: es aquella que debido a la extensión, características y costo de la urbanización, el Ayuntamiento podrá autorizar por etapas, de acuerdo a los plazos, requisitos y zonas que se determinen en la resolución respectiva. En ningún caso, la urbanización total, podrá quedar concluida en un plazo mayor de cinco años, contados a partir de la fecha de expedición de la licencia correspondiente;
+II. Urbanización por etapas: es aquella que debido a la extensión, características y costo de la urbanización, el Ayuntamiento podrá autorizar por etapas, de acuerdo a los plazos, requisitos y zonas que se determinen en la resolución respectiva, la cual deberá ser concluida preferentemente en un periodo de cinco años, contados a partir de la expedición de la licencia correspondiente; sin embargo; este período podrá prorrogarse discrecionalmente siempre que le (sic) justifique ante el Ayuntamiento en términos de lo dispuesto por el artículo 320 de esta Ley;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
@@ -3571,7 +3593,7 @@ Los Notarios Públicos verificarán se incluyan estos rubros en los testimonios 
 
 ###### ARTICULO 336.
 
-En todo tipo de publicidad comercial donde se oferten predios o fincas, en primera venta, preventa, apartado u otros actos de enajenación se deberá hacer referencia, al acuerdo del Ayuntamiento donde se autoricen las obras de urbanización y edificación en su caso, citando el número y la fecha de la licencia o permiso, y de la autorización expresa de la autoridad municipal para realizar tales enajenaciones, previsto en la fracción X del artículo 333 de esta Ley.
+En todo tipo de publicidad comercial donde se oferten predios o fincas, en primera venta, preventa, apartado u otros actos de enajenación se deberá hacer referencia, al acuerdo del Ayuntamiento donde se autoricen las obras de urbanización y edificación en su caso, citando el numero y la fecha de la licencia o permiso, y de la autorización expresa de la autoridad municipal para realizar tales enajenaciones, previsto en la fracción X del artículo 333 de esta Ley.
 
 ###### ARTICULO 337.
 
@@ -3739,15 +3761,15 @@ III. No requieren el trazo de vías públicas, y
 
 IV.- Tratándose de subdivisiones, la superficie del predio original no exceda los diez mil metros, o no se formen más de cinco lotes, en cuyo caso se atenderá a lo dispuesto en el Titulo Octavo de esta Ley.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-Para la autorización de la subdivisión del predio rústico afectado por la apertura de derecho de vía, la dependencia municipal emitirá un dictamen de liberación, debiéndose cumplir los siguientes requisitos:
+Para la autorización de la subdivisión (sic) un predio rústico afectado por la apertura del derecho de vía, la dependencia municipal emitirá un dictamen de liberación, debiéndose cumplir los siguientes requisitos:
 
 I. El trazo de la vialidad sea congruente con los instrumentos de planeación vigentes.
 
 II. Se determinen las afectaciones correspondientes y se formalicen mediante convenio.
 
-III. Pago de derechos por concepto de subdivisión.
+III. Expedir los documentos que acrediten la propiedad o el interés legitimo para promover y;
 
 IV. Certificado de inexistencia de gravamen.
 
@@ -4279,6 +4301,10 @@ Los servidores públicos que tramiten documentos, contratos o convenios, que con
 
 Se harán efectivas las sanciones a que se refiere el párrafo anterior, sin perjuicio de las responsabilidades civiles, administrativas o penales en que se hubiere incurrido.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+
+Las mismas sanciones descritas en este artículo se aplicarán a los servidores públicos que expidan alguna de las autorizaciones, permisos, licencias o constancias a que hace referencia esta Ley, sin que los urbanizadores o promotores cumplan con los requisitos y procedimientos estipulados para su otorgamiento.
+
 ###### ARTICULO 401.
 
 Los Notarios y Corredores Públicos, los empleados del Registro Público de la Propiedad y del Catastro, se abstendrán de dar trámite a documentos, contratos o convenios que consignen operaciones que contravengan lo dispuesto en esta Ley.
@@ -4508,3 +4534,9 @@ P.O. 3 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 292 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 619 POR EL QUE SE REFORMAN LOS ARTÍCULOS 121; 131; LA FRACCIÓN III DEL ARTÍCULO 259; LA FRACCIÓN II DEL ARTÍCULO 300; SEGUNDO PÁRRAFO DEL ARTÍCULO 357; Y SE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 19, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LA FRACCIÓN SUBSECUENTE; SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 21, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LA FRACCIÓN SUBSECUENTE; UN PÁRRAFO SEGUNDO AL ARTÍCULO 267; EL INCISO H) A LA FRACCIÓN III (SIC) DEL ARTÍCULO 286; UN PÁRRAFO TERCERO AL ARTÍCULO 400 DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
