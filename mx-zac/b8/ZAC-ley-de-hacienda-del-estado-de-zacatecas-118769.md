@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-118769"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2017-12-20"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "ZAC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -39,7 +37,7 @@ DECRETO # 109
 
 LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA
 
-[.]
+[…]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo se
 
@@ -61,11 +59,9 @@ En la Ley de Ingresos del Estado de Zacatecas se establecerán los ingresos que 
 
 Para efectos de esta Ley se entenderá como:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-I. APROVECHAMIENTOS: LOS SEÑALADOS Y DEFINIDOS COMO TAL EN EL CÓDIGO;
+I. Aprovechamientos: los señalados y definidos como tal en el Código;
 
 II. Base gravable: es el monto gravable sobre el cual se determina el pago del impuesto;
 
@@ -109,9 +105,7 @@ El pago de los impuestos previstos en la Ley de Hacienda se realizará en la for
 
 Para la determinación y pago de las contribuciones con sus accesorios, las cantidades correspondientes se ajustarán al múltiplo de pesos más próximo, inferior o superior, según corresponda.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 5.
 
@@ -331,7 +325,7 @@ Benzo[b]fluoranteno 2
 
 Benzo[k]fluoranteno 8
 
-Indeno (1 ,2,3-cd)pireno 2
+Indeno (1,2,3-cd)pireno 2
 
 b) Suelos contaminados por: arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio.
 
@@ -537,17 +531,13 @@ DEL OBJETO
 
 Son objeto de este impuesto, las erogaciones o pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, por los servicios prestados bajo esta calidad dentro del territorio del Estado, bajo la dirección o dependencia de un patrón o de un tercero que actúe en su nombre, aun cuando estos tengan su domicilio fuera de la entidad.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+Para los efectos de este impuesto, se consideran erogaciones, las prestaciones o contraprestaciones ordinarias o extraordinarias, destinadas a remunerar el trabajo personal subordinado, los salarios, sueldos, sobresueldos, anticipos, viáticos, gastos de representación, aguinaldo, comisiones, premios, gratificaciones, rendimientos, ayudas para despensa, beneficio por supervivencia, participación de los trabajadores en las utilidades de las empresas, aportación patronal al fondo de ahorro, primas vacacionales, dominicales, por antigüedad y previsión social, ayudas habitacionales y demás prestaciones que se deriven de cualquier otra erogación realizada por conceptos de naturaleza análoga.
 
-PARA LOS EFECTOS DE ESTE IMPUESTO, SE CONSIDERAN EROGACIONES, LAS PRESTACIONES O CONTRAPRESTACIONES ORDINARIAS O EXTRAORDINARIAS, DESTINADAS A REMUNERAR EL TRABAJO PERSONAL SUBORDINADO, LOS SALARIOS, SUELDOS, SOBRESUELDOS, ANTICIPOS, VIÁTICOS, GASTOS DE REPRESENTACIÓN, AGUINALDO, COMISIONES, PREMIOS, GRATIFICACIONES, RENDIMIENTOS, AYUDAS PARA DESPENSA, BENEFICIO POR SUPERVIVENCIA, PARTICIPACIÓN DE LOS TRABAJADORES EN LAS UTILIDADES DE LAS EMPRESAS, APORTACIÓN PATRONAL AL FONDO DE AHORRO, PRIMAS VACACIONALES, DOMINICALES, POR ANTIGÜEDAD Y PREVISIÓN SOCIAL, AYUDAS HABITACIONALES Y DEMÁS PRESTACIONES QUE SE DERIVEN DE CUALQUIER OTRA EROGACIÓN REALIZADA POR CONCEPTOS DE NATURALEZA ANÁLOGA.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-QUEDAN COMPRENDIDOS EN EL OBJETO DE ESTE IMPUESTO LAS EROGACIONES EN EFECTIVO O EN ESPECIE QUE POR CONCEPTO DE REMUNERACIÓN SE OTORGUE A LOS ASIMILADOS A SALARIOS, CONSIDERANDO LOS ESTABLECIDOS EN EL ARTÍCULO 94 DE LA LEY DEL IMPUESTO SOBRE LA RENTA.
+Quedan comprendidos en el objeto de este impuesto las erogaciones en efectivo o en especie que por concepto de remuneración se otorgue a los asimilados a salarios, considerando los establecidos en el artículo 94 de la Ley del Impuesto Sobre la Renta.
 
 DEL SUJETO
 
@@ -573,11 +563,9 @@ Cuando se efectúen las retenciones a que se refiere el párrafo anterior, los r
 
 Cuando no se efectúen las retenciones a que se refiere el párrafo anterior, las autoridades fiscales presumirán, salvo prueba en contrario, que el impuesto omitido es el que resulte de aplicar la tasa a que se refiere el artículo 40 de esta Ley, al total de las contraprestaciones pactadas con el prestador del servicio, determinado en función del resultado que se obtenga respecto de los pagos realizados, en el ejercicio de las facultades de comprobación ejercidas con el sujeto retenedor u obligado a retener el impuesto.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-EN EL CASO A QUE SE REFIERE EL PÁRRAFO ANTERIOR, LA PERSONA FÍSICA, LA PERSONA MORAL O LA UNIDAD ECONÓMICA QUE SE BENEFICIE CON LOS TRABAJOS O SERVICIOS PRESTADOS POR LOS TRABAJADORES DE LAS EMPRESAS CONTRATADAS, SERÁ RESPONSABLE SOLIDARIO CON ÉSTAS RESPECTO DEL CUMPLIMIENTO DE LAS OBLIGACIONES ESTABLECIDAS EN ESTA LEY.
+En el caso a que se refiere el párrafo anterior, la persona física, la persona moral o la unidad económica que se beneficie con los trabajos o servicios prestados por los trabajadores de las empresas contratadas, será responsable solidario con éstas respecto del cumplimiento de las obligaciones establecidas en esta Ley.
 
 La obligación solidaria podrá ser determinada por la Secretaría ante el incumplimiento de los contribuyentes que funjan como patrón de los trabajadores que ejecuten los trabajos o presenten los servicios a la empresa que contrata; en este supuesto si el patrón omite enterar total o parcialmente el importe del impuesto causado en relación con los trabajadores que ejecutaron los trabajos o prestaron los servicios al responsable solidario, la Secretaría determinará y fijará el monto del crédito que por concepto del impuesto causado se haya originado, y le será notificado y cobrado al responsable solidario.
 
@@ -671,11 +659,11 @@ El contribuyente obligado trasladará este impuesto en forma expresa y por separ
 
 El traslado del impuesto a que se refiere este artículo, no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+###### ARTÍCULO 46.
 
-ARTÍCULO 46 BIS. En los supuestos previstos en los artículos 45 y 46 de este Código, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al impuesto por prestación de servicios de hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal y realizará el traslado del impuesto a las personas a quienes preste servicios de hospedaje.
+BIS. En los supuestos previstos en los artículos 45 y 46 de este Código, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al impuesto por prestación de servicios de hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal y realizará el traslado del impuesto a las personas a quienes preste servicios de hospedaje.
 
 Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al impuesto por la prestación de servicio y hospedaje, deberán inscribirse al padrón del impuesto correspondiente en su carácter de intermediario promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 45 de esta Ley.
 
@@ -833,19 +821,15 @@ III. Tratándose de vehículos nuevos destinados al transporte de más de quince
 
 Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable;
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-IV. TRATÁNDOSE DE VEHÍCULOS MARÍTIMOS O FLUVIALES CON MOTOR NUEVO, ENTRE OTRAS EMBARCACIONES, VELEROS, ESQUÍS ACUÁTICOS MOTORIZADOS, MOTOCICLETAS ACUÁTICAS Y TABLAS DE OLEAJE CON MOTOR, EL IMPUESTO SERÁ LA CANTIDAD QUE RESULTE DE APLICAR AL VALOR TOTAL DEL VEHÍCULO DE QUE SE TRATE EL 1.5%;
+IV. Tratándose de vehículos marítimos o fluviales con motor nuevo, entre otras embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%;
 
 V. En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este capítulo, se pagará el impuesto correspondiente al año de calendario correspondiente en el que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario de acuerdo con el procedimiento que corresponda al tipo de vehículo de que se trate, bajo el criterio de vehículo nuevo;
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-VI. TRATÁNDOSE DE MOTOCICLETAS NUEVAS, EL IMPUESTO SE CALCULARÁ APLICANDO AL VALOR TOTAL DE LA MOTOCICLETA, LA SIGUIENTE TARIFA:
+VI. Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente tarifa:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINA 85.]</small>
 
@@ -889,11 +873,9 @@ Años de antigüedad Factor
 
 El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 56 de esta Ley;
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-EN EL CASO DE QUE UN VEHÍCULO PROVENGA DE OTRA ENTIDAD FEDERATIVA EN DONDE NO SE ENCUENTRE SUJETO O ESTÉ EXENTO DEL PAGO DE ESTE IMPUESTO, SE CONSIDERARÁ EL IMPUESTO CAUSADO EN EL EJERCICIO FISCAL INMEDIATO ANTERIOR DE UN VEHÍCULO CON IGUALES O SIMILARES CARACTERÍSTICAS Y, EN SU DEFECTO, EL VALOR CONSIGNADO EN LA GUÍA AUTOPRECIOS, S.A. DE C.V. A LA FECHA DE LA OPERACIÓN.
+En el caso de que un vehículo provenga de otra entidad federativa en donde no se encuentre sujeto o esté exento del pago de este impuesto, se considerará el impuesto causado en el ejercicio fiscal inmediato anterior de un vehículo con iguales o similares características y, en su defecto, el valor consignado en la Guía Autoprecios, S.A. de C.V. a la fecha de la operación.
 
 II. Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelo (sic) anteriores al de este Capítulo, destinados al transporte de hasta quince pasajeros y automóviles blindados, así como los vehículos de carga de los denominados pick up, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
@@ -1121,11 +1103,9 @@ II. Conservar a disposición de las autoridades fiscales, acreditar y exhibir cu
 
 III. Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+###### ARTÍCULO 62 Bis.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-ARTÍCULO 62 BIS. No se pagará este impuesto cuando un vehículo sea registrado en otra entidad y el propietario presente la documentación que acredite este hecho dentro de los 15 días hábiles siguientes a la realización de ese supuesto, de lo contrario se hará acreedor a una sanción equivalente a $1,353.00.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO QUINTO. Impuesto Sobre Adquisición de Bienes Muebles
 
@@ -1173,21 +1153,41 @@ DE LA BASE
 
 La base de este impuesto será determinada conforme a las siguientes disposiciones:
 
-I. Tratándose de vehículos automotrices cuyos modelos sean del año en curso, el valor total consignado en la factura original expedida por el distribuidor deduciéndose el 10% por demérito;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Tratándose de vehículos automotrices cuyo modelo sea anterior al año en curso, el valor que determine para unidades usadas, la Guía Autoprecios, S.A. de C.V., a la fecha de la operación;
+I. Tratándose de vehículos automotrices cuyos modelos sean del año en curso y del año modelo siguiente, el valor total consignado en la factura original expedida por el distribuidor deduciéndose el 10% por demérito;
 
-III. Tratándose de vehículos automotrices cuyos modelos y valores no estén especificados por la Guía Autoprecios, S.A. de C.V., la Secretaría practicará un avalúo para determinar el valor que sirva de base para el pago del impuesto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Tratándose de vehículos automotrices cuyo modelo sea anterior al año en curso, conforme a los supuestos siguientes:
+
+a) El valor que se encuentre determinado para unidades usadas según modelo y año, por la Guía Autoprecios, S.A. de C.V., a la fecha de operación, y
+
+b) Cuando el valor para unidades usadas no se encuentre consignado en la Guía Autoprecios, S.A. de C.V., se determinará conforme el valor de la factura primigenia, deduciéndose un 10% por depreciación anual;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. Tratándose de vehículos automotrices cuyos modelos y valores no estén especificados por la Guía Autoprecios, S.A. de C.V., ni se cuente con la referencia de valor consignado en la factura primigenia, éste se determinará mediante avalúo, presentado por parte interesada en los términos del artículo 258 del Código cuyo valor será el que sirva de base para el pago del impuesto;
 
 IV. Tratándose de motocicletas, motonetas y similares, el valor de la factura o documento respectivo, deduciéndose un 10% por depreciación anual. En caso de no consignarse cantidad alguna, se practicará un avalúo por la Secretaría para determinar el valor que sirva de base al pago del impuesto; y
 
 V. Tratándose de otros bienes muebles distintos a los señalados en las fracciones anteriores, el valor de la operación.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para efectos de este impuesto se entiende por vehículos automotrices, los terrestres y marítimos o fluviales; entre otros, los automóviles, ómnibus, vehículos pick up, camiones, minibuses, microbuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, motocicletas, bicimotos, tricimotos o triciclos automotores, cuatrimotos, motoneta, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, vehículos con motor de combustión interna o con motor accionado con hidrógeno, eléctricos, mixtos o híbridos y automóviles blindados.
+
 DE LA TASA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 68.
 
-Este impuesto se determinará aplicando a la base gravable, la tasa del 1.40 %. En ningún caso el impuesto determinado será menor a $75.00.
+Este impuesto se determinará aplicando a la base gravable, la tasa del 1.40 %.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Tratándose de vehículos automotrices a los cuales se haya aplicado la totalidad de depreciación anual a que se refiere el artículo 67 de esta Ley en diez años, pagarán a partir del siguiente año la cantidad de $980.00.
 
 DEL PAGO
 
@@ -1221,11 +1221,9 @@ Son objeto de este impuesto:
 
 I. Los ingresos que se obtengan sobre el total de billetes o boletos enajenados para participar en juegos con loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, sea cual fuere la denominación que pretenda dársele a la enajenación, inclusive cooperación o donativos, realizados en territorio estatal.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-NO SE ENCUENTRAN COMPRENDIDOS EN ESTE CAPÍTULO, LOS INGRESOS POR ENAJENACIÓN DE BILLETES Y DEMÁS COMPROBANTES QUE PERMITAN PARTICIPAR EN LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS DE TODA CLASE, ORGANIZADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, CUYO OBJETO SOCIAL SEA LA OBTENCIÓN DE RECURSOS PARA SER DESTINADOS A LA ASISTENCIA PÚBLICA; Y
+No se encuentran comprendidos en este capítulo, los ingresos por enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para ser destinados a la asistencia pública; y
 
 II. Los ingresos percibidos por la obtención de premios en efectivo o en especie derivados de juegos con loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente que se cobren en el Estado.
 
@@ -1393,9 +1391,19 @@ La diferencia que resulte a favor de la Universidad Autónoma de Zacatecas será
 
 ### CAPÍTULO PRIMERO. Generalidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 91.
 
-Los derechos por la prestación de servicios públicos se causarán en el momento en que el particular solicite la prestación del servicio, o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo que la ley disponga cosa distinta.
+Los derechos por la prestación de servicios públicos a que se refiere este Título, se causarán en el momento en que el particular solicite la prestación del servicio, o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo que la ley disponga cosa distinta.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El sujeto de estas contribuciones los serán las personas físicas o morales que soliciten o reciban servicios del Estado, o les permita éste el uso o aprovechamiento de bienes de dominio público.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El objeto de dichas contribuciones consiste en el servicio, el uso o concesión otorgado por el Estado a los particulares; en cuyo caso, el monto o base para el pago de las mismas será a partir del acto de permisión del Estado, en relación con el grado de aprovechamiento de los bienes del dominio público, así como del beneficio obtenido por el usuario, por el cual se cubrirá una contraprestación.
 
 ###### ARTÍCULO 92.
 
@@ -1417,29 +1425,55 @@ Todo servidor público que preste servicios por los que se cause un derecho debe
 
 Los servicios que presten la Secretaría General de Gobierno por concepto de:
 
-I. Por la Dirección Estatal de Protección Civil por concepto de:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. Por la Coordinación Estatal de Protección Civil por concepto de:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINAS DE LA 98 A LA 100.]</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA TABLA, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 36 A LA 37.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL SUPLEMENTO DEL P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24.]</small>
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Por el Instituto de Formación Profesional:
+
+Seguridad Privada Importe
+
+a. Evaluaciones CONCIPER. $1,400.00
+
+b. Conducción de presuntos responsables y radiocomunicación. $ 3,000 00
+
+c. Si tiene portación de arma: armamento y práctica de tiro, vigilancia y patrullaje, manejo de emociones, preservación del lugar de los hechos. $ 5,000.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS IMPORTES], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. Capacitación de Personal de Seguridad Pública Municipal:
+
+Curso de Capacitación Importe
+
+Curso 40 horas. $ 3,500.00
+
+Curso 80 horas. $ 6,000.00
+
+Evaluación de habilidades y destrezas por elementos. $ 1,500.00
+
+Cursos de Formación Inicial Equivalente, 972 horas. $ 40,000.00
+
+Cursos de Formación Inicial Equivalente, 486 horas. $ 20,000.00
 
 ###### ARTÍCULO 96.
 
 Los servicios que preste la Coordinación General Jurídica a través de:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 II. La Dirección del Registro Civil:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-a) EXPEDICIÓN Y ENTREGA DE ACTA IMPRESA EN PAPEL SEGURIDAD. $112.00
+a) Expedición y entrega de acta impresa en papel seguridad. $ 112.00
 
 b) Expedición y entrega de constancia de inexistencia. $112.00
 
@@ -1451,11 +1485,9 @@ e) Autorización para registro de actas de registro civil provenientes del extra
 
 f) Servicio de Expedición de Actas Interestatales. $224.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-g) EXPEDICIÓN Y ENTREGA DE ACTA EN LÍNEA IMPRESA EN PAPEL BOND. $90.00
+g) Expedición y entrega de acta en línea impresa en papel bond. $ 90.00
 
 III. La Dirección de Notarías:
 
@@ -1489,55 +1521,101 @@ d) Notarios públicos. $149.00
 
 e) Apostilla de documentos. $373.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+V. La Dirección de Estudios Legislativos y Consultoría Legal:
 
-ARTÍCULO 96 BIS. Los servicios que preste la Subsecretaría de Transporte Público a través de:
+Por revisión de documentos que integran el expediente técnico para la elaboración de iniciativas con proyecto de Decreto que se presentarán a la Legislatura del Estado, para desincorporación o enajenación de bienes de patrimonio estatal, paraestatal, municipal y paramunicipal, así como toda documentación de cualquier ente público que remita para su debida revisión y emisión de un dictamen de valoración. $1,500.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI. Los provenientes del Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas. Estos se causarán conforme a la siguiente tarifa:
+
+a) Por suscripción y puesta a disposición en las propias instalaciones del Periódico Oficial:
+
+1. Por semestre $2,500.00
+
+2. Por año $4,500.00
+
+b) Por enviar a otros lugares fuera de la ciudad de Zacatecas, pero en el interior del país:
+
+1. Por semestre $3,200.00
+
+2. Por año $5,800.00
+
+c) Por enviar al extranjero:
+
+1. Por semestre $4,800.00
+
+2. Por año $9,200.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VII. Por el servicio de expedición o puesta a disposición por ejemplar:
+
+a) Del día $15.00
+
+b) De fechas anteriores
+
+1. Hasta seis meses $20.00
+
+2. Hasta de un año $25.00
+
+3. De más de un año $30.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VIII. Por servicios de publicación, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción $0.80.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 96
+
+BIS. Los servicios que preste la Subsecretaría de Transporte Público a través de:
 
 I. La Dirección de Análisis y Capacitación de Transporte:
 
-a). Curso para operadores del Servicio Público. $200.00
+a). Curso para operadores del Servicio Público. $ 200.00
 
-b). Gafete para operadores del Servicio Público. $500.00
+b). Gafete para operadores del Servicio Público. $ 500.00
 
-c). Reposición de Gafetes para Operadores del Servicio Público. $250.00
+c). Reposición de Gafetes para Operadores del Servicio Público. $ 250.00
 
-d). Certificación de documentos, por foja. $4.00
+d). Certificación de documentos, por foja. $ 4.00
 
 II. La Dirección de Concesiones, Inspección y Vigilancia de Transporte:
 
 a) Expedición de concesiones del Servicio Público de Transporte por unidad:
 
-1. Colectivo urbano y suburbano. $90,000.00
+1. Colectivo urbano y suburbano. $ 90,000.00
 
-2. Colectivo Foráneo. $90,000.00
+2. Colectivo Foráneo. $ 90,000.00
 
-3. Taxi. $150,000.00
+3. Taxi. $ 150,000.00
 
-4. Turístico. $117,000.00
+4. Turístico. $ 117,000.00
 
-5. Arrendamiento, hasta por 10 unidades. $50,000.00
+5. Arrendamiento, hasta por 10 unidades. $ 50,000.00
 
-Por cada unidad excedente de las 10 primeras. $5,000.00
+Por cada unidad excedente de las 10 primeras. $ 5,000.00
 
-6. Agencia funeraria. $40,000.00
+6. Agencia funeraria. $ 40,000.00
 
-7. Carga de materiales y de carga liviana. $30,000.00
+7. Carga de materiales y de carga liviana. $ 30,000.00
 
 8. Grúas. $150,000.00
 
-b) Refrendo anual de concesión. $1,500.00
+b) Refrendo anual de concesión. $ 1,500.00
 
-c) Reposición de concesión. $2,500.00
+c) Reposición de concesión. $ 2,500.00
 
 d) Transferencia de derechos de concesión por:
 
-1. Compra venta. $75,000.00
+1. Compra venta. $ 75,000.00
 
-2. Incapacidad física o mental. $5,000.00
+2. Incapacidad física o mental. $ 5,000.00
 
-3. Fallecimiento del titular. $5,000.00
+3. Fallecimiento del titular. $ 5,000.00
 
 e) Substitución de beneficiario en la concesión. $1,000.00
 
@@ -1545,29 +1623,35 @@ f) Expedición de permiso experimental. $5,000.00
 
 g) Renovación mensual de permisos experimentales. $1,500.00
 
-h) Revisión operativa de:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-1. Cambio de Vehículo. $300.00
+h) La revisión operativa de unidades de servicio público de pasajeros y carga:
 
-2. Cambio de ruta. $950.00
+1. Cambio de Vehículo. $ 300.00
 
-3. Ampliación de ruta. $450.00
+2. Cambio de ruta. $ 950.00
 
-4. Anual. $300.00
+3. Ampliación de ruta. $ 450.00
 
-i) Expedición de permiso para circular sin placas:
+4. Anual. $ 300.00
 
-1. Por 5 días. $400.00
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-2. Por 10 días. $550.00
+5. Certificación de servicio público. $203.00
 
-3. Por 15 días. $700.00
+i). Expedición de permiso para circular sin placas:
 
-4. Por 30 días. $1,100.00
+1. Por 5 días. $ 400.00
 
-j) Permisos temporales para portar publicidad en vehículos de transporte público de pasajeros o de carga por unidad, por un año. $2,500.00
+2. Por 10 días. $ 550.00
 
-k) Permisos temporales para portar publicidad en vehículos de transporte público de taxi por unidad, por un año. $1,000.00
+3. Por 15 días. $ 700.00
+
+4. Por 30 días. $ 1,100.00
+
+j) Permisos temporales para portar publicidad en vehículos de transporte público de pasajeros o de carga por unidad, por un año. $ 2, 500.00
+
+k) Permisos temporales para portar publicidad en vehículos de transporte público de taxi por unidad, por un año. $ 1, 000.00
 
 ### CAPÍTULO TERCERO. Servicios de la Secretaría de Finanzas
 
@@ -1649,9 +1733,11 @@ Depósito. $14,919.00
 
 Licorería. $14,919.00
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 98.
 
-Los servicios que presten por concepto de:
+Los servicios que se presten por concepto de:
 
 I. Expedición de placas:
 
@@ -1669,47 +1755,41 @@ Para los efectos de esta fracción, se cubrirán los derechos siguientes
 
 a) VEHÍCULO AUTOMOTOR DE SERVICIO PARTICULAR, DE SERVICIO PÚBLICO, REMOLQUES, ASÍ COMO LOS DE DEMOSTRACIÓN DE AGENCIAS DISTRIBUIDORAS DE AUTOS. $1,250.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-b) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-d) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 e) Motocicletas y similares. $550.00
 
-f) Bicicleta. $150.00
+f) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 según se refiera:
 
 II. Reposición de tarjeta de circulación: $ 150.00
 
-III. La verificación que se realice de documentación con otras entidades, respecto de vehículos que soliciten el registro en el padrón vehicular del Estado, expedición con vigencia de tres días hábiles. $400.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. La verificación que se realice de documentación, respecto de vehículos que soliciten el registro en el padrón vehicular del Estado, con una expedición de vigencia de cinco días hábiles 400.00
 
 IV. Baja de Placa: $150.00
 
 Para el trámite de baja, una vez iniciado el ejercicio fiscal, deberá estar cubierto el impuesto por tenencia o uso de vehículos y los derechos relativos al control vehicular, del ejercicio en que se solicite la baja respectiva, debiendo no tener adeudos de ejercicios anteriores.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-V. EL ENVÍO DE TARJETA DE CIRCULACIÓN, PLACAS Y DEMÁS DOCUMENTACIÓN COMPROBATORIA, A SU DOMICILIO FISCAL POR MEDIO DE SERVICIO DE MENSAJERÍA. $224.00
+V. El envío de tarjeta de circulación, placas y demás documentación comprobatoria, a su domicilio fiscal por medio de Servicio de mensajería. $224.00
 
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse actualización y recargos por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 99.
 
-EL DERECHO DE CONTROL VEHICULAR CON VIGENCIA AL 31 DE MARZO DEL AÑO SIGUIENTE, DEBERÁ EFECTUARSE LOS PRIMEROS TRES MESES DEL AÑO QUE CORRESPONDA. $2,350.00
+El derecho de control vehicular para expedición de tarjeta de circulación, hologramas y engomados de identificación de vehículos con vigencia al 31 de marzo del año siguiente, deberá efectuarse los primeros tres meses del año que corresponda. $2,350.00
+
+CONCEPTO IMPORTE
 
 CONCEPTO IMPORTE
 
@@ -1761,97 +1841,69 @@ El almacenamiento y guarda en recintos oficiales de bienes embargados conforme a
 
 Los servicios que presten por concepto de:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+I. Para avalúos se aplicará la tarifa de 0.005 sobre el valor catastral del predio, el cual deberá ser equiparado al valor de mercado, y éste tendrá una vigencia de 6 meses a partir de la fecha de elaboración:
 
-I. PARA AVALÚOS SE APLICARÁ LA TARIFA DE 0.005 SOBRE EL VALOR CATASTRAL DEL PREDIO, EL CUAL DEBERÁ SER EQUIPARADO AL VALOR DE MERCADO:
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-a) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-b) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+e) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+f) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-d) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-e) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-f) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-g) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE PÁRRAFO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-h) Prórroga por un mes:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Para el caso de expedición de avalúos cuya vigencia haya caducado conforme a lo establecido en el Reglamento de la Ley de Catastro del Estado, a las tarifas anteriores se aplicará proporcionalmente atendiendo lo siguiente:
+h) Prórroga o extensión de vigencia:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Para el caso de expedición de avalúos cuya vigencia haya caducado, podrá ser extendida, atendiendo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+1. Durante el primer y segundo mes siguiente
 
-- DURANTE EL MES SIGUIENTE A LA FECHA DE CADUCIDAD 20.00%
+a la fecha de caducidad 20.00%
 
-- Para el segundo mes 45.00%
+2. Para el tercer mes 45.00%
 
-- Para el tercer mes. 70.00%
+3. Para el cuarto mes 70.00%
 
-A partir del inicio del cuarto mes posterior a la caducidad se considerará como emisión de nuevo avalúo.
+A partir del inicio del quinto mes posterior a la caducidad se considerará como emisión de nuevo avalúo.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+II. Para deslinde o levantamiento topográfico de predios urbanos por cada metro cuadrado (m2) se aplicará la cuota de $5.00 pesos.
 
-II. PARA DESLINDE O LEVANTAMIENTO TOPOGRÁFICO DE PREDIOS URBANOS POR CADA METRO CUADRADO (M2) SE APLICARÁ LA CUOTA DE $5.00 PESOS.
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-a) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-b) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-d) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
-
-Para la superficie mayor de mil metros, por cada metro cuadrado excedente se aplicará un importe de: $0.30
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: $522.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-IV. PARA DESLINDE O LEVANTAMIENTO TOPOGRÁFICO DE PREDIOS RÚSTICOS POR CADA HECTÁREA SE APLICARÁ LA CUOTA SIGUIENTE:
+IV. Para deslinde o levantamiento topográfico de predios rústicos por cada hectárea se aplicará la cuota siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINAS DE LA 107 A LA 108.]</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA TABLA, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 40 A LA 41; P.O. 29 DE DICIEMBRE DE 2018, PÁGINA 29]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 40 A LA 41.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL SUPLEMENTO DEL P.O. 31 DE DICIEMBRE DE 2018, PÁGINA 27.]</small>
 
 V. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior:
 
@@ -1921,11 +1973,9 @@ XV. Solicitud de particulares de elaboración de planos. $149.00
 
 XVI. El concepto de solicitud de búsqueda de documentos. $149.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-DEL INGRESO PERCIBIDO POR CONCEPTO DE SERVICIOS CATASTRALES, UN 5% SERÁ DESTINADO A LA MODERNIZACIÓN DE CATASTRO Y REGISTRO PÚBLICO, CUYO MONTO DEBERÁ SER CONSIDERADO COMO AMPLIACIÓN PRESUPUESTAL, CON INDEPENDENCIA DE LO ESTABLECIDO EN LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS.
+Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización de Catastro y Registro Público, cuyo monto deberá ser considerado como ampliación presupuestal, con independencia de lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios.
 
 ### CAPÍTULO QUINTO. Servicios del Registro Público de la Propiedad y del Comercio
 
@@ -1933,35 +1983,31 @@ DEL INGRESO PERCIBIDO POR CONCEPTO DE SERVICIOS CATASTRALES, UN 5% SERÁ DESTINA
 
 Los servicios que presten por concepto de:
 
-I. Calificación Registral, por testimonio o documento. $38.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. Calificación Registral, por testimonio o documento $50.00
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+a) Tratándose de inmuebles, se cubrirá la tarifa mínima general por
 
-a) TRATÁNDOSE DE INMUEBLES, SE CUBRIRÁ LA TARIFA MÍNIMA GENERAL POR INMUEBLE EQUIVALENTE A: $2,163.00
+inmueble equivalente a $2,163.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-b) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE PÁRRAFO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE PÁRRAFO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE PÁRRAFO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-Registro de instrumentos notariales celebrados ante fedatarios públicos de otras entidades federativas, con consecuencias jurídicas en el Estado, adicionalmente el monto de derechos que cause el acto. $2,238.00
-
-Para los efectos de este capítulo se equiparan a la compraventa los siguientes actos o contratos:
+c) Para los efectos de este capítulo se equiparan a la compraventa los siguientes actos o contratos:
 
 1. Inscripción de diligencias para acreditar construcción, o manifestación de obra nueva;
 
@@ -1969,7 +2015,9 @@ Para los efectos de este capítulo se equiparan a la compraventa los siguientes 
 
 3. Aplicación de bienes de la sociedad conyugal a persona distinta de los cónyuges, o del titular registral;
 
-4. Aportaciones de bienes inmuebles a asociaciones o sociedades mercantiles o civiles y la adjudicación o fusión de estas, sobre el capital adjudicado o fusionado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+4. Aportación de bienes inmuebles a asociaciones o sociedades mercantiles o civiles y la adjudicación o fusión de éstas, sobre el capital adjudicado o fusionado;
 
 5. Cesión de derechos hereditarios o legatarios, independientemente de que se adjudique a terceros;
 
@@ -1995,59 +2043,101 @@ Para los efectos de este capítulo se equiparan a la compraventa los siguientes 
 
 16. Tratándose de títulos bajo el Programa de Certificación de Derechos Ejidales y Titulación de Solares o el programa que se instituya en su lugar;
 
-17. Los títulos otorgados por la Comisión de Regularización de la Tenencia de la Tierra e Instituto del Fondo Nacional de la Vivienda para los Trabajadores y otras instituciones oficiales similares, o por los programas que se instituyan en su lugar.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-III. Diligencias de apeo y deslinde: $224.00
+17. Tratándose de títulos otorgados por el Instituto Nacional del Suelo Sustentable e Instituto del Fondo Nacional de la Vivienda para los Trabajadores y otras instituciones oficiales similares, o por los programas que se instituyan en su lugar.
 
-IV. Capitulaciones matrimoniales: $224.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: $224.00
+III. Diligencias de apeo y deslinde: $300.00
 
-VI. Fusión de predios, por cada uno de los predios fusionados: $75.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $75.00
+IV. Capitulaciones matrimoniales: $300.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas $300.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI. Fusión de predios, por cada uno de los predios fusionados $100.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $100.00
 
 VIII. Por la inscripción y anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se tasarán, tratándose de actos o contratos de la forma siguiente:
 
-a) Arrendamiento, subarrendamiento o cesión de arrendamiento. $821.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-b) Constitución o sustitución de garantías reales. $821.00
+a) Arrendamiento, subarrendamiento o cesión de arrendamiento $1,100.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+b) Constitución o sustitución de garantías reales, cesión de garantías u
+
+obligaciones reales $1,100.00
 
 c) Subrogación de garantía, cesión de garantías u obligaciones reales. $821.00
 
-d) Comodato o convenios judiciales. $821.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+d) Comodato o convenios judiciales. $1,100.00
 
 e) Demandas o resoluciones que limiten el derecho de propiedad o posesión. $821.00
 
-f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad. $821.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad. $821.00
+f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes se reserven expresamente la propiedad $1,100.00
 
-h) Fianzas. $821.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-i) Prendas sobre crédito inscrito. $821.00
+g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad $1,100.00
 
-j) Prenda de frutos pendientes. $821.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares. $821.00
+h) Fianzas $1,100.00
 
-l) División de copropiedad, por cada uno de los predios resultantes. $821.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en $672.00 sobre el monto total de lo reclamado, siempre y cuando este sea igual o menor al equivalente a $168,630.00; cuando el monto de lo reclamado rebase el rango establecido en párrafo anterior, se aplicará adicionalmente el 1% al monto excedente;
+i) Prendas sobre crédito inscrito $1,100.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+j) Prenda de frutos pendientes $1,100.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares $1,100.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+l) División de copropiedad, por cada uno de los predios resultantes $1,100.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en $900.00 sobre el monto total de lo reclamado, siempre y cuando éste sea igual o menor al equivalente a $229,950.00; cuando el monto de lo reclamado rebase el rango establecido en esta fracción, se aplicará adicionalmente el 1% al monto excedente;
 
 X. Contrato de promesa de venta, se tasará al 0.4 % sobre el valor que se manifieste en el documento.
 
-XI. Contrato de apertura de crédito: $448.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados por las instituciones de crédito, 0.20 % sobre el importe de la operación que se consigne en el documento. Los créditos otorgados en los que intervenga el Fondo Instituido en Relación a la Agricultura (FIRA), el 0.16 % sobre el monto.
+XI. Contrato de apertura de crédito: $600.00
 
-Tratándose de reestructuración de crédito o de convenios de reconocimiento de adeudo, se tasará sobre el diferencial entre el registrado y el que contenga la reestructura o el convenio de reconocimiento del adeudo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dentro del programa federal de Programa de Apoyos Directos al Campo (PROCAMPO), o el que se instituya en su caso 0.8 % sobre el importe de la operación que se consigne en el documento.
+XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados por las instituciones de crédito, 0.20 % sobre el importe de la operación que se consigne en el documento.
+
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 En materia de crédito para adquisición de vivienda el registro de contrato de hipoteca y crédito simple, se tasará al 0.115% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
-XIII. Inscripción de documentos que contengan los siguientes actos: $672.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIII. Inscripción de documentos que contengan los siguientes actos $765.00
 
 a) Testamento.
 
@@ -2073,9 +2163,13 @@ c) Compraventa;
 
 d) Compraventa con reserva de dominio se tasará sobre el valor o en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
 
-XV. Registro de personas morales o aumento de su capital social, 0.28% sobre el monto de capital social o sus aumentos, en los casos que dicho capital no exceda de $185,000.00 se pagarán: $821.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XVI. Registro de documentos que contengan los siguientes actos: $672.00
+XV. Registro de personas morales o aumento de su capital social, 0.28% sobre el monto de capital social o sus aumentos:
+
+> <small>(REFORMADO [ N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVI. Registro de documentos que contengan los siguientes actos: $900.00
 
 a) Disolución de personas morales;
 
@@ -2083,79 +2177,177 @@ b) Nombramiento de liquidadores o liquidación de personas morales;
 
 c) Acta de asamblea de socios o junta de administradores;
 
-d) Modificaciones al pacto social constitutivo;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+d) Modificación al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-XVII. Cancelación de inscripción o anotación: $149.00, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $2,238.00
+XVII. Cancelación de inscripción o anotación: $200.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $3,000.00
 
 XIX. Por la inscripción de documentos, expedición de certificados o de copias certificadas, solicitadas para entrega urgente, y que se expedirán dentro de las 7 horas hábiles siguientes a su solicitud, adicionalmente al pago de los derechos que corresponden, se cobrará:
 
-a) Inscripción de documentos a excepción de fraccionamientos urbanos. $1,000.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-b) Expedición de copias y certificados. $200.00
+a) Inscripción de documentos a excepción de fraccionamientos
+
+urbanos $1,400.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+b) Expedición de copias y certificados $400.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 103.
 
-Contrato innominado: $1,941.00
+Inscripción de contrato innominado: $2,300.00
 
 ###### ARTÍCULO 104.
 
 Expedición de certificado de:
 
-I. No propiedad: $224.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Inscripción o no inscripción: $224.00
+I. No propiedad: $300.00
 
-III. Libertad de graven: $149.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IV. Existencia de gravamen, o la fracción anterior se adicionará por cada gravamen: $38.00
+II. Inscripción o no inscripción: $300.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. Libertad de gravamen: $149.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. Existencia de un gravamen: $200.00
+
+a) Por cada gravamen excedente $50.00
 
 V. Certificado de Historial registral:
 
-a) Hasta 5 fojas. $198.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-b) Por cada foja excedente. $12.00
+a) Hasta 5 fojas $300.00
 
-###### Artículo 105.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Expedición de copia de título de propiedad o de cualquier otro documento existente en libros o archivo del registro:
+b) Por cada foja excedente $18.00
 
-I. Certificadas hasta por cinco fojas: $224.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Por cada foja excedente: $17.00
+VI. Certificado de Limitación o de Anotación $250.00
 
-II. Simples, hasta por cinco fojas: $75.00
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Por cada foja excedente $12.00
+###### ARTÍCULO 105.
 
-###### Artículo 106.
+Expedición de copia de título de propiedad o de cualquier otro documento
 
-Ratificación o certificación de firmas: $224.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-###### Artículo 107.
+I. Existente en libros:
 
-Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto: $224.00
+a) Certificadas
 
-Si el mismo origina dos o más inscripciones, se tasarán por separado.
+1. Hasta cinco fojas: $400.00
 
-Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: $373.00
+2. Por cada foja excedente: $18.00
 
-Por los servicios de certificados y copias que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Dirección, se cobrará una tarifa adicional por documento equivalente a: $672.00
+b) Simples
 
-Del ingreso percibido por concepto de registro público, 5% será destinado a la modernización de Catastro y Registro Público, conforme al contrato del fideicomiso que para tal efecto se suscriba.
+1. Hasta cinco fojas: $200.00
+
+2. Por cada foja excedente: $15.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. En el archivo del apéndice:
+
+a) Certificadas
+
+1. Hasta cinco fojas: $500.00
+
+2. Por cada foja excedente: $18.00
+
+b) Simples
+
+1. Hasta cinco fojas: $250.00
+
+2. Por cada foja excedente: $15.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. Expedidas del sistema electrónico:
+
+a) Certificadas
+
+1. Hasta cinco fojas: $400.00
+
+2. Por cada foja excedente: $18.00
+
+b) Simples
+
+1. Hasta cinco fojas: $200.00
+
+2. Por cada foja excedente: $15.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 106.
+
+Ratificación o certificación de firmas $300.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 107.
+
+Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto $300.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Si el mismo origina dos o más inscripciones, se tasarán por separado cada acto.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Del ingreso percibido por concepto del pago de derechos por los servicios de catastro y registro público, un 5% será destinado a su modernización y para la celebración de convenios con Municipios, cuyo monto deberá ser considerado como ampliación presupuestal, con independencia de lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 107 Bis.
+
+Por los servicios que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refieran dicho servicios se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: $500.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 107 Ter.
+
+Por los servicios de certificados y copias que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Jefatura del Registro Público, se cobrará una tarifa adicional por documento equivalente a: $800.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTÍCULO 107 Quáter.
+
+Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción: $200.00
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO SEXTO
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA SECCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-#### SECCIÓN PRIMERA. SERVICIOS DE LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL
+#### Sección Primera. Servicios de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial
 
 ###### ARTÍCULO 108.
 
@@ -2165,165 +2357,127 @@ I. Otorgamiento de licencia con vigencia de un año para fraccionar, lotificar o
 
 a) De interés social:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+1. De 1-00-00 a 5-00-00 has, por m2 vendible. $ 0.46
 
-1. DE 1-00-00 A 5-00-00 HAS, POR M2 VENDIBLE. $0.46
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-2. DE 5-00-01 HAS, EN ADELANTE POR M2 VENDIBLE. $0.69
+2. De 5-00-01 has, en adelante por m2 vendible. $ 0.69
 
 b) Habitaciones de tipo medio:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+1. De 1.00.01 has, en adelante por m2 vendible. $ 0.69
 
-1. DE 1.00.01 HAS, EN ADELANTE POR M2 VENDIBLE. $0.69
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+c) Habitacional residencial, por m2 vendible. $1.725
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-c) HABITACIONAL RESIDENCIAL, POR M2 VENDIBLE. $1.725
+d) Habitacional campestre, por m2 vendible. $1.725
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+e) Comercial y zonas destinadas al comercio en los fraccionamientos habitacionales, por m2 vendible. $2.185
 
-d) HABITACIONAL CAMPESTRE, POR M2 VENDIBLE. $1.725
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+f) Granja de explotación agropecuaria, por m2 vendible. $2.185
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-e) COMERCIAL Y ZONAS DESTINADAS AL COMERCIO EN LOS FRACCIONAMIENTOS HABITACIONALES, POR M2 VENDIBLE. 2.185
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-f) GRANJA DE EXPLOTACIÓN AGROPECUARIA, POR M2 VENDIBLE. $2.185
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-g) FUNERARIO O CEMENTERIO, POR M3 DEL VOLUMEN DE LAS FOSAS O GAVETAS. $6.90
+g) Funerario o cementerio, por m3 del volumen de las fosas o gaveta. $6.90
 
 Cuando las obras autorizadas no se ejecuten dentro de la vigencia de la autorización, se deberá solicitar el refrendo de la misma debiendo cubrirse los derechos en términos de este artículo como si se trataren de una inicial;
 
 II. Expedición de dictamen para diligencia de información Ad-Perpetuam;
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+a) Rústicos
 
-a) RÚSTICOS
+1. Hasta 1-00-00 Has. $858.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-1. HASTA 1-00-00 HAS. $858.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-2. DE 1-00-01 HAS EN ADELANTE, SE AUMENTARÁ POR HECTÁREA O FRACCIÓN. $398.00
+2. De 1-00-01 Has en adelante, se aumentará por hectárea o fracción. $ 398.00
 
 b) Urbano, por m2. $3.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-III. EXPEDICIÓN DE CONSTANCIA ESTATAL DE COMPATIBILIDAD URBANÍSTICA. $1,194.00
+III. Expedición de constancia estatal de compatibilidad urbanística. $1,194.00
 
 IV. Registro de director responsable de obra, con vigencia de un año: $1,194.00
 
 V. Revalidación anual de registro de director responsable de obra: $597.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+VI. Por cada copia de expediente de documentos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos Autorizados. $ 86.25
 
-VI. POR CADA COPIA DE EXPEDIENTE DE DOCUMENTOS DE PROGRAMAS Y ESQUEMAS DE DESARROLLO URBANO O DE FRACCIONAMIENTOS URBANOS AUTORIZADOS. $86.25
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VII. Por cada copia heliográfica de planos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos autorizados. $ 428.95
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VII. POR CADA COPIA HELIOGRÁFICA DE PLANOS DE PROGRAMAS Y ESQUEMAS DE DESARROLLO URBANO O DE FRACCIONAMIENTOS URBANOS AUTORIZADOS. $428.95
+VIII. Expedición de dictamen en materia de planeación y desarrollo urbano. $ 896.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+IX. Evaluación y Dictamen de Manifiesto de Impacto Urbano. $ 5,000.00
 
-VIII. EXPEDICIÓN DE DICTAMEN EN MATERIA DE PLANEACIÓN Y DESARROLLO URBANO. $896.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+X. Evaluación y Resolución del Impacto Vial. $ 4,990.00
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IX. EVALUACIÓN Y DICTAMEN DE MANIFIESTO DE IMPACTO URBANO. $5,000.00
+XI. La Dirección de Fraccionamientos:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+a) Expedición de Título. $ 597.00
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+b) Constancias para el Programa de Apoyos Directos al Campo. $ 75.00
 
-X. EVALUACIÓN Y RESOLUCIÓN DEL IMPACTO VIAL. $4,990.00
+c) Otras constancias. $ 75.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+d) Autorización para créditos con bancos. $112.00
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 20 DE DICIEMBRE DE 2017)</small>
+e) Adjudicaciones. $ 3% avalúo catastral
 
-XI. LA DIRECCIÓN DE FRACCIONAMIENTOS:
+f) Copia certificada del título. $ 373.00
 
-A) EXPEDICIÓN DE TÍTULO. $597.00
+g) Copia simple de título. $ 149.00
 
-B) CONSTANCIAS PARA EL PROGRAMA DE APOYOS DIRECTOS AL CAMPO. $75.00
+h) Trámite por cambio de uso de suelo (No incluye derechos por la adjudicación correspondiente al incremento en el valor de la superficie que modifique su uso). $ 112.00
 
-C) OTRAS CONSTANCIAS. $75.00
+i) Copia certificada de documentos distintos a títulos (de una a cinco fojas). $ 149.00
 
-D) AUTORIZACIÓN PARA CRÉDITOS CON BANCOS. $112.00
+j) Inspección física u ocular. $ 746.00
 
-E) ADJUDICACIONES. $3% AVALÚO CATASTRAL
+k) Trámite relativo a la reproducción en copia heliográfica de plano general y/o fraccionamiento. $ 1,343.00
 
-F) COPIA CERTIFICADA DEL TÍTULO. $373.00
-
-G) COPIA SIMPLE DE TÍTULO. $149.00
-
-H) TRÁMITE POR CAMBIO DE USO DE SUELO (NO INCLUYE DERECHOS POR LA ADJUDICACIÓN CORRESPONDIENTE AL INCREMENTO EN EL VALOR DE LA SUPERFICIE QUE MODIFIQUE SU USO). $112.00
-
-I) COPIA CERTIFICADA DE DOCUMENTOS DISTINTOS A TÍTULOS (DE UNA A CINCO FOJAS). $149.00
-
-J) INSPECCIÓN FÍSICA U OCULAR. $746.00
-
-K) TRÁMITE RELATIVO A LA REPRODUCCIÓN EN COPIA HELIOGRÁFICA DE PLANO GENERAL Y/O FRACCIONAMIENTO. $1,343.00
-
-L) DILIGENCIAS DE APEO Y DESLINDE, LEVANTAMIENTOS TOPOGRÁFICOS EN GENERAL E INSPECCIÓN OCULAR:
+l) Diligencias de apeo y deslinde, levantamientos topográficos en general e inspección ocular:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 43.]</small>
 
-M) POR REGISTRO DE DISPOSICIÓN TESTAMENTARIA. $448.00
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 31.]</small>
 
-N) TRÁMITE POR CAMBIO DE RÉGIMEN DE PROPIEDAD. $1,493.00
+m) Por registro de disposición testamentaria. $ 448.00
 
-O) ESCRITO DE DESISTIMIENTO Y/O ADJUDICACIÓN. $224.00
+n) Trámite por cambio de régimen de propiedad. $ 1,493.00
 
-P) ESCRITO DE DENUNCIA DE JUICIO SUCESORIO. $224.00
+o) Escrito de desistimiento y/o adjudicación. $ 224.00
 
-Q) ESCRITO DE ADJUDICACIÓN PREVIA DECLARACIÓN DE VACANCIA. $224.00
+p) Escrito de denuncia de juicio sucesorio. $ 224.00
 
-R) ELABORACIÓN DE PLANOS. $149.00
+q) Escrito de adjudicación previa declaración de vacancia. $ 224.00
 
-S) SOLICITUDES VARIAS. $224.00
+r) Elaboración de planos. $ 149.00
+
+s) Solicitudes varias. $ 224.00
 
 ###### ARTÍCULO 109.
 
@@ -2355,39 +2509,27 @@ I. Elaboración de oficio de cancelación de garantía hipotecaria, reserva de d
 
 II. Elaboración de convenio de subsanación de escritura; con relación a los contratos privados emitidos por el entonces Instituto Zacatecano de la Vivienda Social. $1,045.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+III. Expedición de títulos y escrituras privadas, respecto a los programas de vivienda y programas de regularización que ejecuta la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial. $3,432.00
 
-III. EXPEDICIÓN DE TÍTULOS Y ESCRITURAS PRIVADAS, RESPECTO A LOS PROGRAMAS DE VIVIENDA Y PROGRAMAS DE REGULARIZACIÓN QUE EJECUTA LA SECRETARÍA DE DESARROLLO URBANO, VIVIENDA Y ORDENAMIENTO TERRITORIAL. $3,432.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+En lo que se refiere a dichos programas el Ejecutivo del Estado podrá establecer beneficios y estímulos mediante Decreto Gubernativo.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-EN LO QUE SE REFIERE A DICHOS PROGRAMAS EL EJECUTIVO DEL ESTADO PODRÁ ESTABLECER BENEFICIOS Y ESTÍMULOS MEDIANTE DECRETO GUBERNATIVO.
+#### Sección Segunda. Servicios de la Secretaría de Obras Públicas
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA SECCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-#### SECCIÓN SEGUNDA. SERVICIOS DE LA SECRETARÍA DE INFRAESTRUCTURA
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)
-
-###### ARTÍCULO 111 Bis.
-
-Los servicios prestados por concepto de inscripción a concurso: $2,537.00
+ARTÍCULO 111 BIS. Los servicios prestados por concepto de inscripción a concurso: $2,537.00
 
 I. Costo por cada disco magnético de 3.5 pulgadas que se proporcionen a los concursantes: $12.00
 
-II. Costo por cada disco compacto "CD" que se proporcione a los concursantes: $75.00
+II. Costo por cada disco compacto “CD” que se proporcione a los concursantes: $75.00
 
-III. Por cada foja de las bases y demás documentos que se proporcionen
-
-a los concursantes $5.00
+III. Por cada foja de las bases y demás documentos que se proporcionen a los concursantes $5.00
 
 IV. Por cada copia heliográfica que se proporcione: $127.00
 
@@ -2395,9 +2537,7 @@ V. Sobre tamaño legal por cada paquete de concurso: $6.00
 
 VI. Costo por inscripción a cada licitación obra: $3,358.00
 
-VII. Costo por inscripción a licitaciones de suministros, servicios y
-
-arrendamientos: $2,387.00
+VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos: $2,387.00
 
 ### CAPÍTULO SÉPTIMO. Servicios de la Secretaría de la Función Pública
 
@@ -2407,41 +2547,27 @@ Los servicios que presten por concepto de:
 
 I. Por registro con vigencia de un año en el padrón:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+a) De proveedores. $562.00
 
-a) DE PROVEEDORES. $562.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-b) DE CONTRATISTAS. $803.00
+b) De contratistas. $803.00
 
 II. Por revalidación del registro con vigencia de un año:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+a) De proveedores. $401.00
 
-a) DE PROVEEDORES. $401.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-b) DE CONTRATISTAS. $562.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+b) De contratistas. $562.00
 
 ###### ARTÍCULO 113.
 
-LOS CONTRATISTAS CON QUIENES SE CELEBREN CONTRATOS DE OBRA PÚBLICA Y DE SERVICIOS RELACIONADOS CON LA MISMA, FINANCIADAS CON RECURSOS PROVENIENTES DE INGRESOS PROPIOS Y RECURSOS FEDERALES QUE SU NORMATIVA ASÍ LO PERMITA, PAGARÁN UN DERECHO EQUIVALENTE AL CINCO AL MILLAR SOBRE EL IMPORTE DE CADA UNA DE LAS ESTIMACIONES.
-
-La Secretaría o en su caso los organismos descentralizados, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el presente artículo. Cuando sean los organismos públicos descentralizados los que retengan el derecho que refiere este artículo, lo enterarán a la Secretaría.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO OCTAVO. Servicios de la Secretaría de Educación
 
@@ -2465,7 +2591,9 @@ a) Academias y centros de capacitación para el trabajo. $75.00
 
 III. Expedición de duplicados de certificados de estudios de:
 
-a) Preescolar, primaria o secundaria. $29.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+a) Primaria o secundaria. $29.00
 
 b) Academias. $35.00
 
@@ -2515,6 +2643,10 @@ c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
 d) Tipo superior. $1,045.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+e) Tipo Medio Superior. $299
+
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 VIII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
@@ -2545,7 +2677,9 @@ XII. Por cualquier otra certificación o expedición de constancia distintas a l
 
 XIII. Por solicitud, estudios y resolución del trámite de reconocimiento de validez oficial de estudios de tipo superior. $10,220.00
 
-XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudio del nivel medio superior o equivalente y de formación para el trabajo, sea cual fuere la modalidad. $1,120.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIV. Por solicitud, estudio y resolución de trámite de reconocimiento de validez oficial de estudio del nivel medio superior y de centros de capacitación para el trabajo, sea cual fuere la modalidad. $1,120.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2617,9 +2751,13 @@ XXXIV. Solicitud de cambio de estatutos de un Colegio de Profesionistas o una Fe
 
 XXXV. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de nivel superior con reconocimiento de validez oficial de estudios: $5,223.00
 
-XXXVI. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuera la modalidad: $1 ,493.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXXVII. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de los niveles de preescolar y medio superior o equivalente y actualización de planes y programas de estudio de formación para el trabajo, sea cual fuera la modalidad: $1,493.00
+XXXVI. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuera la modalidad: $1,493.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXXVII. Por solicitud, estudio y resolución de trámite por cambio de domicilio de plan y programas de estudios y/o titular del reconocimiento de validez oficial de estudios, del nivel medio superior y de los centros de capacitación para el trabajo, sea cual fuera la modalidad: $1,493.00
 
 XXXVIII. Por solicitud, estudio y resolución de trámite de Registro para impartir Educación Inicial. $1,717.00
 
@@ -2667,7 +2805,9 @@ B) SECUNDARIA. $15.00
 
 C) TIPO MEDIO SUPERIOR. $50.00
 
-D) TIPO SUPERIOR. $657.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+d) Tipo Superior. $65.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2679,7 +2819,25 @@ A) SECUNDARIA. $15.00
 
 B) TIPO MEDIO SUPERIOR. $50.00
 
-C) TIPO SUPERIOR. $657.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+c) Tipo Superior. $65.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+LII. Evaluación General de Conocimientos (EGC)
+
+a) Educación Primaria. $29.00
+
+b) Educación Secundaria (por grados). $29.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+LIII. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio. $14.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+LIV. Certificación a punto y raya de título y acta de examen profesionales. $75.00
 
 ### CAPÍTULO NOVENO. Servicios de la Secretaría de Administración
 
@@ -2687,37 +2845,23 @@ C) TIPO SUPERIOR. $657.00
 
 Los servicios que presten por concepto de:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 II. Costo por concepto de pago de bases para participar en los procedimientos de Licitación Pública:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+a) Adquisiciones y servicios. $ 2,000.00
 
-a) ADQUISICIONES Y SERVICIOS. $2,000.00
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. CON SU INCISO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-b) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+III. Costo por concepto de pago de bases para participar en los procedimientos de concurso por invitación:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+a) Adquisiciones y servicios. $ 1,600.00
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-III. COSTO POR CONCEPTO DE PAGO DE BASES PARA PARTICIPAR EN LOS PROCEDIMIENTOS DE CONCURSO POR INVITACIÓN:
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-a) ADQUISICIONES Y SERVICIOS. $1,600.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-IV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO DÉCIMO. Servicios de la Secretaría de Seguridad Pública
 
@@ -2755,13 +2899,11 @@ IV. Por cambio de representante legal de las empresas prestadoras de servicios d
 
 La autorización y revalidación que refieren las fracciones I y II del presente artículo, serán vigentes por el ejercicio fiscal en que se expidan.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 117.
 
-POR LOS SERVICIOS QUE PRESTE EL PODER JUDICIAL DEL ESTADO O LA SECRETARÍA DE SEGURIDAD PÚBLICA DE GOBIERNO DEL ESTADO, EN EL ÁMBITO DE SUS RESPECTIVAS COMPETENCIAS, DERIVADAS DEL SISTEMA PENITENCIARIO Y DE EJECUCIÓN DE SANCIONES, EN LOS TÉRMINOS DE LO DISPUESTO EN LA LEY DEL SISTEMA PENITENCIARIO Y DE EJECUCIÓN DE SANCIONES DEL ESTADO DE ZACATECAS, POR CONCEPTO DE:
+Por los servicios que preste el Poder Judicial del Estado o la Secretaría de Seguridad Pública de Gobierno del Estado, en el ámbito de sus respectivas competencias, derivadas del Sistema Penitenciario y de Ejecución de Sanciones, en los términos de lo dispuesto en la Ley del Sistema Penitenciario y de Ejecución de Sanciones del Estado de Zacatecas, por concepto de:
 
 I. Expedición de certificados de:
 
@@ -2813,35 +2955,35 @@ VIII. Expedición de permiso para circular sin placas:
 
 a) Por 5 días:
 
-1. Servicio Público: $373.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE NUMERAL, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+1. Servicio Particular. $380
 
-2. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 b) Por 10 días:
 
-1. Servicio Público: $522.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE NUMERAL, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+1. Servicio Particular. $530
 
-2. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 c) Por 15 días:
 
-1. Servicio Público: $672.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE NUMERAL, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+1. Servicio Particular. $680
 
-2. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 d) Por treinta días:
 
-1. Servicio Público. $1,045.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE NUMERAL, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+1. Servicio Particular. $1,050.00
 
-2. (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 Los permisos expedidos no podrán otorgarse por más de 30 días naturales.
 
@@ -2851,57 +2993,23 @@ a) Por un día: $224.00
 
 b) Por treinta días: $821.00
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+X. Permiso por el uso de cristales polarizados con una luminosidad al 75% en vehículos de uso particular:
+
+a) Por noventa días. $400.00
+
+b) Por ciento ochenta días. $800.00
+
+Quedan exentos del pago establecido en la fracción inmediata anterior, los conductores que por razones médicas o de seguridad requieran de utilizar un polarizado en mayor grado al señalado anteriormente.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XI. Constancia de vigencia o de existencia de licencia de conducir. $300.00
+
 ###### ARTÍCULO 119.
 
-La revisión operativa de unidades de servicio público de pasajeros y carga:
-
-I. Servicio público transporte colectivo urbano y suburbano, por unidad:
-
-a) Inicial. $17,904.00
-
-b) Año posterior. $746.00
-
-II. Servicio público de transporte colectivo foráneo, por unidad:
-
-a) Inicial. $17,157.00
-
-b) Año posterior. $746.
-
-III. Servicio público de taxi, por unidad:
-
-a) Inicial. $13,726.00
-
-b) Año posterior. $746.
-
-IV. Servicio público de transporte turístico, por unidad:
-
-a) Inicial. $9,102.00
-
-b) Año posterior. $746.
-
-V. Servicio público de arrendamiento, hasta por 10 unidades:
-
-a) Inicial. $15,516.00
-
-b) Por cada unidad excedente de las 10 primeras. $746.00
-
-c) Año posterior. $1,045.00
-
-VI. Servicio público de transporte proporcionado por agencia funeraria, de carga de materiales, de carga liviana y de grúa, por unidad:
-
-a) Inicial. $9,027.00
-
-b) Año posterior. $597.00
-
-VII. Certificación de servicio público: $203.00
-
-VIII. Revisión operativa de:
-
-a) Cambio de vehículo. $299.00
-
-b) Cambio ruta. $896.00
-
-c) Ampliación de ruta. $448.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO DÉCIMO PRIMERO. Servicios de la Secretaría de Agua y Medio Ambiente
 
@@ -2909,165 +3017,131 @@ c) Ampliación de ruta. $448.00
 
 Por la evaluación y emisión del dictamen de impacto ambiental:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-I. INFORME PREVENTIVO. $4,000.00
+I. Informe preventivo $4,400.00
 
 II. Estudio de Impacto Ambiental tipo General:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+a) Con nivel de impacto bajo $5,745.00
 
-a) CON NIVEL DE IMPACTO BAJO. $5,222.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+b) Con nivel de impacto medio $5,922.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-b) CON NIVEL DE IMPACTO MEDIO. $5,383.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-c) CON NIVEL DE IMPACTO ALTO. $6,106.00
+c) Con nivel de impacto alto $6,717.00
 
 III. Estudio de Impacto Ambiental tipo Intermedio:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+a) Con nivel de impacto bajo $7,513.00
 
-a) CON NIVEL DE IMPACTO BAJO. $6,830.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+b) Con nivel de impacto medio $9,544.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-b) CON NIVEL DE IMPACTO MEDIO. $8,676.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-c) CON NIVEL DE IMPACTO ALTO. $12,145.00
+c) Con nivel de impacto alto $13,387.00
 
 IV. Estudio de Impacto Ambiental Específico:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+a) Con nivel de impacto bajo $14,443.00
 
-a) CON NIVEL DE IMPACTO BAJO. $13,130.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+b) Con nivel de impacto medio $18,053.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-b) CON NIVEL DE IMPACTO MEDIO. $16,411.00
+c) Con nivel de impacto alto $21,844.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+V. Exención de trámite de impacto ambiental: $3,468.00
 
-c) CON NIVEL DE IMPACTO ALTO. $19,858.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VI. Ratificación y ampliación de resolución de impacto ambiental: $2,138.00
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-V. EXENCIÓN DE TRÁMITE DE IMPACTO AMBIENTAL. $3,152.00
+VII. Estudio de riesgo ambiental: $9,929.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-VI. RATIFICACIÓN Y AMPLIACIÓN DE RESOLUCIÓN DE IMPACTO AMBIENTAL. $1,943.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-VII. ESTUDIO DE RIESGO AMBIENTAL. $9,026.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-VIII. EVALUACIÓN Y RESOLUCIÓN DE LA SOLICITUD DE MODIFICACIÓN DE PROYECTOS AUTORIZADOS EN MATERIA DE IMPACTO AMBIENTAL. $4,063.00
+VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $4,470.00
 
 ###### ARTÍCULO 121.
 
 Por la prestación de los siguientes servicios:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+I. Reproducción de material didáctico, ecológico y ambiental $13.00 por foja.
 
-I. REPRODUCCIÓN DE MATERIAL DIDÁCTICO, ECOLÓGICO Y AMBIENTAL. $8.00 POR FOJA
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro) $154.00 c/u.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. REPRODUCCIÓN DE MATERIAL INFORMATIVO ECOLÓGICO Y AMBIENTAL EN MEDIO DE ALMACENAMIENTO (USB, DISCO COMPACTO O CUALQUIER OTRO). $140.00 C/U
+III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados a disco compacto $330.00 c/u.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+IV. Información de Planos con información ecológico-ambiental $1,430.00 c/u.
 
-III. REPRODUCCIÓN DE MATERIAL CON INFORMACIÓN ECOLÓGICO-AMBIENTAL DISPONIBLE EN ARCHIVOS DIGITALIZADOS A DISCO COMPACTO. $300.00 C/U
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+V. Reproducción de planos con información ecológico-ambiental $880.00 c/u.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IV. INFORMACIÓN DE PLANOS CON INFORMACIÓN ECOLÓGICO-AMBIENTAL. $1,300.00 C/U
+VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora $1,206.00.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental. $1,980.00.
 
-V. REPRODUCCIÓN DE PLANOS CON INFORMACIÓN ECOLÓGICO-AMBIENTAL. $800.00 C/U
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VIII. Reproducción en plotter $935.00.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VI. ASESORÍA, CAPACITACIÓN Y MATERIALES SOBRE ECOLOGÍA Y MEDIO AMBIENTE, POR CADA HORA. $1,096.00
+IX. Autorización por simulacro de Incendio $935.00.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+X. Registro de generadores de residuos de manejo especial $3,370.00.
 
-VII. REGISTRO EN EL PADRÓN DE PRESTADORES DE SERVICIO ECOLÓGICO Y AMBIENTAL. $1,800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XI. Trámite de certificación ambiental $2,750.00.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VIII. REPRODUCCIÓN EN PLOTTER. $850.00
+###### ARTÍCULO 121 Bis.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Por uso o goce temporal de las salas audiovisuales del Ecoparque Centenario Toma de Zacatecas.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+a) Sala de Centro de Educación Ambiental: $2,500.00
 
-IX. AUTORIZACIÓN POR SIMULACRO DE INCENDIO. $850.00
+b) Sala de uso múltiple: $2,000.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+c) Sala de Juntas: $800.00
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+d) Plaza Cívica: $500.00
 
-X. REGISTRO DE GENERADORES DE RESIDUOS DE MANEJO ESPECIAL. $3,063.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XI. TRÁMITE DE CERTIFICACIÓN AMBIENTAL. $2,500.00
+e) Plaza del lago: $500.00
 
 ###### ARTÍCULO 122.
 
@@ -3075,15 +3149,11 @@ Toda persona física o moral, así como unidad económica que realice cualquier 
 
 ###### ARTÍCULO 123.
 
-Los servicios que preste la Procuraduría General de Justicia del Estado, por concepto de pruebas periciales:
-
-> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINAS DE LA 126 A LA 128.]</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO DÉCIMO SEGUNDO. Servicios de la Secretaría de Salud de Zacatecas
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 124.
 
@@ -3113,13 +3183,37 @@ c) A más de dos años anteriores. $224.00
 
 d) Por cada foja excedente correspondiente a asuntos de cualquier año. $12.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-II. CERTIFICADO DE NO ANTECEDENTES PENALES. $154.00
+II. Certificado de no antecedentes penales. $154.00
 
 III. Actas que se expidan en los kioscos de servicios electrónicos de Gobierno del Estado, su costo será el que corresponda al considerado en la Ley de Ingresos del Municipio en que estén ubicados dichos servicios electrónicos.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. Servicio de Expedición de Impresos Oficiales en formas valoradas y papel especial para:
+
+a) Formato de actas de registro civil. $10.00
+
+b) Asentamiento de actos de registro civil, cada juego. $20.00
+
+c) Asentamiento de escritura pública. $4.00
+
+d) Otras formas impresas, cada una. $4.00
+
+e) Servicio de Consulta e impresión de Leyes, reglamentos, folletos y demás publicaciones, su costo se determinará de conformidad con el tiraje de la edición, número de hojas y calidad de impresión y encuadernación;
+
+f) Servicio y expedición de juego de 150 fojas de protocolo notarial abierto. $746.00
+
+g) Servicio y expedición de formas de solicitud para inicio, renovación, cambio de domicilio, cambio de giro o transferencia del derecho de licencia, de establecimientos con venta de bebidas alcohólicas. $10.00
+
+h) Servicio de impresión de formas para permisos provisionales para circular sin placas . $75.00
+
+i) Servicio y expedición de hologramas y certificados para Centros de
+
+Verificación. $99.00
+
+j) Servicio y expedición de hoja de rechazo para Centros de Verificación. $38.00
 
 ###### Artículo 128.
 
@@ -3169,9 +3263,7 @@ II. Expedición de documentos privados individuales para la obtención del domin
 
 ### CAPÍTULO DÉCIMO CUARTO. Servicios Otorgados por Organismos Descentralizados Integrantes de la Administración Pública
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 132.
 
@@ -3195,111 +3287,15 @@ Son productos los ingresos que obtiene el Estado por las actividades que desarro
 
 I. Arrendamientos, adjudicaciones, enajenaciones, explotación, uso y aprovechamiento de bienes muebles e inmuebles propiedad del Estado, conforme a lo estipulado en las concesiones, contratos, convenios y disposiciones legales relativas;
 
-II. Venta de impresos oficiales, formas valoradas y papel especial para:
-
-a) Certificación de actas de registro civil. $10.00
-
-b) Asentamiento de actas de registro civil, cada juego. $20.00
-
-1. Nacimiento, matrimonio o defunción, cada juego. $23.00
-
-c) Asentamiento de escritura pública. $4.00
-
-d) Otras formas impresas, cada una. $4.00
-
-e) Leyes, reglamentos, folletos y demás publicaciones, su costo se determinará de conformidad con el tiraje de la edición, número de hojas y calidad de impresión y encuadernación;
-
-f) Juego de 150 fojas de protocolo notarial abierto. $746.00
-
-g) Formas de solicitud para inicio, renovación, cambio de domicilio, cambio de giro o transferencia del derecho de licencia, de establecimientos con venta de bebidas alcohólicas. $10.00
-
-h) Formas de permisos provisionales para circular sin placas. $75.00
-
-i) Hologramas y certificados para Centros de Verificación. $99.00
-
-j) Hoja de rechazo para Centros de Verificación. $ 38.00
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 III. De capitales y valores del Estado, sus rendimientos;
 
-IV. Los provenientes del Periódico Oficial, Órgano de Gobierno del Estado. Estos se causarán conforme a la siguiente tarifa:
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-a) Por suscripción;
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-1. POR SEMESTRE. $1,800.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-2. POR AÑO. $3,000.00
-
-b) Por enviar a otros lugares fuera de la ciudad de Zacatecas en el país;
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-1. POR SEMESTRE. $2,800.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-2. POR AÑO. $4,000.00
-
-c) Por enviar al extranjero;
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-1. POR SEMESTRE. $3,900.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-2. POR AÑO. $6,200.00
-
-V. Valor por ejemplar:
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-a) DEL DÍA. $10.00
-
-b) De fechas anteriores:
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-1. HASTA SEIS MESES. $15.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-2. HASTA DE UN AÑO. $22.00
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE NUMERAL INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-3. DE MÁS DE UN AÑO. $25.00
-
-VI. Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción:
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-a) POR PUBLICACIÓN, POR PALABRA. $0.60
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTÍCULO 136.
 
@@ -3317,7 +3313,9 @@ Los ingresos por productos se determinarán en los actos, convenios, contratos o
 
 Quedan comprendidos dentro de este título los ingresos que el Estado perciba por concepto de multas no fiscales, recargos, rezagos, gastos de ejecución, donativos, herencias, legados, bienes vacantes, tesoros ocultos, indemnizaciones, reintegros por responsabilidades administrativas, concesiones, fianzas, depósitos, subsidios federales, empréstitos y financiamientos, aportaciones para obras y servicios públicos, ingresos que cubran los municipios, por la administración de impuestos y servicios públicos municipales y aportaciones federales.
 
-También se considera aprovechamiento, la recaudación obtenida por el pago de las sanciones pecuniarias que imponga la Dirección de Seguridad Pública y Tránsito, por violaciones a lo establecido en el artículo 186, capítulo XXX del Reglamento General de la Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+También se considera aprovechamiento, la recaudación obtenida por el pago de las sanciones pecuniarias que imponga la Dirección de Policía de Tránsito y Seguridad Vial, por violaciones a lo establecido en el artículo 186, capítulo XXX del Reglamento General de la Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas; así como por las sanciones que se lleven a cabo en la aplicación del Reglamento para el Registro y Validación de Empresas de Seguridad Privada en el Estado de Zacatecas
 
 Incluyen asimismo los ingresos generados con motivo de las actividades que realizan las autoridades judiciales, por concepto de suspensión condicional de la condena, conmutación de la pena, cauciones que se hacen efectivas, multas y reparación de daños por renuncia expresa o tácita de la parte ofendida o derechohabiente.
 
@@ -3343,7 +3341,7 @@ TERCERO. Los contribuyentes sujetos al pago del Impuesto Adicional para la Infra
 
 CUARTO. Los ingresos que se obtengan de la recaudación del Impuesto establecido en el Capítulo Séptimo Sección I del Título Segundo de esta Ley, se destinarán prioritariamente a:
 
-I. La inversión en infraestructura física, incluyendo la construcción, reconstrucción, ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de bienes para el equipamiento de las obras generadas o adquiridas; infraestructura hidroagrícola, y hasta un 3 por ciento del costo del programa o proyecto programado en el ejercicio fiscal correspondiente, para gastos indirectos por concepto de realización de estudios, elaboración y evaluación de proyectos, supervisión y control de estas obras de infraestructura; entendiéndose corno tal la establecida en el artículo 2 fracción XXI de la Ley de Obligaciones y Empréstitos y Deuda Pública;
+I. La inversión en infraestructura física, incluyendo la construcción, reconstrucción, ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de bienes para el equipamiento de las obras generadas o adquiridas; infraestructura hidroagrícola, y hasta un 3 por ciento del costo del programa o proyecto programado en el ejercicio fiscal correspondiente, para gastos indirectos por concepto de realización de estudios, elaboración y evaluación de proyectos, supervisión y control de estas obras de infraestructura; entendiéndose como tal la establecida en el artículo 2 fracción XXI de la Ley de Obligaciones y Empréstitos y Deuda Pública;
 
 II. Como fuente de financiamiento para su aportación en convenios de coordinación, reasignación o pari passu con el Gobierno Federal, siempre y cuando su destino sea lo establecido en la fracción anterior;
 
@@ -3389,7 +3387,7 @@ JORGE MIRANDA CASTRO
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>[N. DE E. MEDIANTE DECRETO 112 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, LA H. LEGISLATURA DEL ESTADO SOMETIÓ DE NUEVA CUENTA LAS REFORMAS DEL DECRETO 273 EN ACATAMIENTO A LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, POR LO QUE SE SUGIERE CONSULTAR EL APARTADO CORRESPONDIENTE DENTRO DE LA CRONOLOGÍA LEGISLATIVA DE ESTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE DICIEMBRE DE 2017.
 
@@ -3400,3 +3398,27 @@ Artículo Único.- Las presentes reformas, adiciones y derogaciones a esta Ley d
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
 
 ÚNICO.- El presente Decreto entrará en vigor el 1ro. de enero del 2018, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 112.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+PRIMERO.- Publíquese en el Periódico Oficial Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente en que haya surtido todos sus efectos en el Estado la declaración de invalidez decretada mediante la Acción de Inconstitucionalidad 12/2018 emitida por la Suprema Corte de Justicia de la Nación.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 113.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el 1° de enero de 2019, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se autoriza a la Secretaría de Finanzas del Gobierno del Estado para expedir los formatos que deberán ser utilizados en su llenado por los Entes Públicos, para la evaluación del impacto presupuestario, de conformidad con lo establecido en el artículo 18-Ter de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, mismos que deberá actualizar la propia Secretaría.
+
+Artículo tercero. El Impuesto establecido en el Capítulo Cuarto, del Título Segundo, de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los Ejercicios Fiscales 2019, 2020 y 2021.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto del Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo que se suspende conforme a este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+Artículo cuarto. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
