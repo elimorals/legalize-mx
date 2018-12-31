@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2016-12-31"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -2641,9 +2641,11 @@ En caso de reincidencia se aplicará la Ley de Responsabilidades de los Servidor
 
 Si se perdiere o destruyere alguna de las formas del Registro del Estado Familiar, se sacará inmediatamente copia de alguno de los otros ejemplares, para cuyo efecto el funcionario que tenga conocimiento de las pérdidas, dará aviso a la Dirección del Registro del Estado Familiar del Poder Ejecutivo del Estado quien ordenará de inmediato el trámite de reposición.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 397.
 
-El Estado Familiar sólo se comprueba con las constancias relativas del Registro del Estado Familiar. Ningún otro documento, ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
+El Estado Familiar sólo se comprueba con las constancias relativas que expida el Registro del Estado Familiar, las cuáles no se sujetarán a temporalidad para su vigencia desde su expedición, al igual que las copias certificadas de las mismas, salvo que sean ilegibles, sufran modificaciones que destruyan, alteren su contenido o sufran alguna modificación por autoridad judicial y/o administrativa. Ningún otro documento, ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
 
 ###### Artículo 398.
 
@@ -3214,3 +3216,9 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los matrimonios y uniones celebrados por y entre menores de edad, previos a la publicación del presente Decreto, tendrán validez plena con todos los derechos y obligaciones adquiridos a partir de la celebración o unión.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2 QUE REFORMA EL ARTÍCULO 397, DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
