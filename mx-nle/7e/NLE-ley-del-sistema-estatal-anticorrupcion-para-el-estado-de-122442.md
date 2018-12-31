@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-estatal-anticorrupcion-para-el-estado-de-122442
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-06"
-last_updated: "2017-07-06"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 6 de julio de 2017.
 
@@ -233,7 +233,7 @@ X. Aquellas que prevean las reglas de funcionamiento y organización interna del
 
 El Comité Coordinador se reunirá en sesión ordinaria cada tres meses. El Secretario Técnico podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa solicitud formulada por la mayoría de los integrantes de dicho Comité.
 
-Para que el Comité Coordinador pueda sesionar es necesario que en todo momento esté presente (sic) la mayoría de sus integrantes.
+Para que el Comité Coordinador pueda sesionar es necesario que en todo momento esté presente la mayoría de sus integrantes.
 
 Para el desahogo de sus reuniones, el Comité Coordinador previa aprobación podrá invitar a representantes del gobierno estatal o municipal, órganos internos de control de los organismos con autonomía reconocida en la Constitución Política del Estado Libre y Soberano de Nuevo León, otros Entes Públicos, así como a organizaciones de la sociedad civil.
 
@@ -337,11 +337,17 @@ La renovación de los integrantes del Comité de Participación Ciudadana se lle
 
 Los integrantes del Comité de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaría Ejecutiva. El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios, en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, garantizando así la objetividad en sus aportaciones a la Secretaría Ejecutiva.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para determinar la cantidad correspondiente a la contraprestación señalada en el párrafo anterior, los integrantes del pleno del órgano de gobierno aprobarán mediante el voto favorable de al menos su mayoría, el monto de la percepción de honorarios el cual deberá ser siempre menor al salario recibido por el Titular del Poder Ejecutivo. Los tres integrantes del Comité de Participación Ciudadana que conforman el órgano de gobierno deberán abstenerse de la votación antes señalada.
+
 Los integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza en los gobiernos federal, estatal o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al Comité de Participación Ciudadana y a la Comisión Ejecutiva.
 
 Los integrantes del Comité de Participación Ciudadana estarán sujetos al régimen de responsabilidades que determine el artículo 105 de la Constitución Política del Estado Libre y Soberano de Nuevo León.
 
 En relación con el párrafo anterior, le serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información, y demás aplicables por el acceso que llegaren a tener a las plataformas digitales de la Secretaría Ejecutiva y demás información de carácter reservado y confidencial.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Las faltas a las obligaciones mencionadas en el párrafo anterior, las señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León y aquellas ausencias que por más de tres veces en un bimestre sin causa justificada realicen los integrantes del Comité de Participación Ciudadana serán causa de su remoción. Esta se efectuará mediante la aprobación de sesión extraordinaria misma que será notificada y en la cual se le hará de conocimiento el tema a tratar para que alegue lo que a derecho convenga; por consecuencia se le otorgará el derecho de audiencia en la fecha que se señale; en caso de inasistencia, se darán por ciertas las presuntas faltas y sin más preámbulo se pasará a la votación; de lo contrario se escuchará al presunto responsable y se someterá su versión a la opinión de cada integrante del Comité, quienes expondrán los motivos por los cuales emiten su voto a favor o en contra de la remoción. Una vez determinada la votación se levantará acta de lo acontecido y se notificará al interesado.
 
@@ -852,3 +858,11 @@ BERNARDO JAIME GONZÁLEZ GARZA
 LA C. CONTRALORA GENERAL DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 NORA ELIA CANTÚ SUÁREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 056. SE REFORMA POR MODIFICACIÓN DEL PÁRRAFO SEGUNDO, RECORRIENDO EL TEXTO ORIGINAL DEL PÁRRAFO SEGUNDO AL PÁRRAFO TERCERO Y SUBSECUENTEMENTE LOS DEMÁS, ADICIONANDO EL PÁRRAFO SEXTO AL ARTÍCULO 22 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
