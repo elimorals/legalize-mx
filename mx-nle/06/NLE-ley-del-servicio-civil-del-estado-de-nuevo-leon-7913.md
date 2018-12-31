@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2017-12-29"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -635,21 +635,31 @@ Al resolverse que una declaración de huelga es legal, el Tribunal de Arbitraje,
 
 Los riesgos profesionales que sufran los trabajadores al servicio del Estado o de los Municipios, se regirán por las disposiciones de la Ley Federal del Trabajo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Art. 77o.
 
-Los trabajadores al servicio del Estado o de los Municipios que sufran enfermedades no profesionales tendrán derecho a que se les concedan licencias para dejar de concurrir a sus labores en los siguientes términos:
+Los trabajadores al servicio del Estado o de los Municipios que sufran enfermedades no profesionales tendrán derecho a que se les conceda licencia para dejar de concurrir a sus labores, en los siguientes términos:
 
-I.- A los empleados o funcionarios que tengan menos de un año de servicio se les podrá conceder licencia por enfermedad no profesional hasta por 15 días con goce de sueldo íntegro, hasta 15 días más con medio sueldo, y hasta por 30 días más sin goce de sueldo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II.- A los que tengan de uno a cinco años de servicio hasta 30 días con goce de sueldo íntegro, hasta 30 días más con medio sueldo, y hasta 60 días más sin sueldo.
+I.- A los empleados o funcionarios que tengan menos de un año de servicio se les podrá conceder licencia por enfermedad no profesional hasta por 7 semanas con goce de sueldo íntegro, hasta 7 semanas más con medio sueldo y hasta por 14 semanas más sin goce de sueldo;
 
-III.- A los que tengan de 5 a 10 años de servicio hasta 45 días con goce de sueldo íntegro, hasta 45 días con goce de medio sueldo y hasta 90 días más sin sueldo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-IV.- A los que tengan de diez años en adelante hasta 60 días con goce de sueldo íntegro, hasta 60 días más con medio sueldo, y hasta 120 días más sin sueldo. Los cómputos deberán hacerse por servicios continuados, o cuando, de existir una interrupción en la prestación de dichos servicios ésta no sea mayor de seis meses. Podrán gozar de la franquicia señalada de manera continua o discontinua una sola vez cada año contado a partir del momento en que tomaron su puesto.
+II.- A los que tengan de uno a cinco años de servicio hasta 22 semanas con goce de sueldo íntegro, hasta 22 semanas más con medio sueldo y hasta 44 semanas más sin sueldo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III.- A los que tengan de 5 a 10 años de servicio hasta 37 semanas con goce de sueldo íntegro, hasta 37 semanas más con goce de medio sueldo y hasta 74 semanas más sin sueldo; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV.- A los que tengan de diez años en adelante, hasta 52 semanas con goce de sueldo íntegro, el cual podrá prorrogarse hasta por veintiséis semanas consecutivas más por prescripción del médico tratante; hasta por 52 semanas más con medio sueldo y hasta 104 semanas más sin sueldo. Los cómputos deberán hacerse por servicios continuados, o cuando, de existir una interrupción en la prestación de dichos servicios ésta no sea mayor de 104 semanas. Podrán gozar de la franquicia señalada de manera continua o discontinua una sola vez cada año contado a partir del momento en que tomaron su puesto.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-V. Las pensiones otorgadas por invalidez, cesantía, jubilación o antigüedad a los trabajadores el (sic) servicio del Estado o Municipios serán definitivas y por ningún motivo podrán ser revocadas, salvo por la muerte del trabajador.
+V.- Las pensiones otorgadas por invalidez, cesantía, jubilación o antigüedad a los trabajadores el (sic) servicio del Estado o Municipios serán definitivas y por ningún motivo podrán ser revocadas, salvo por la muerte del trabajador.
 
 ## TITULO QUINTO. De las Prescripciones
 
@@ -999,7 +1009,7 @@ P.O. 2 DE DICIEMBRE DE 2015.
 
 P.O. 11 DE MAYO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 105. SE REFORMAN POR MODIFICACIÓN EL ARTÍCULO 84 DE LA LEY DE SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 105. SE REFORMAN POR MODIFICACIÓN EL ARTÍCULO 84 DE LA LEY DE SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1008,3 +1018,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 313. SE REFORMA EL INCISO C); PRIMER PÁRRAFO Y ADICIÓN DE UN CUARTO PÁRRAFO AL INCISO D) DE LA FRACCIÓN I, Y LA FRACCIÓN II DEL ARTÍCULO 4; ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 9; FRACCIÓN X DEL ARTÍCULO 36; ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 77; ARTÍCULO 79; ADICIÓN DE LOS ARTÍCULOS 90 BIS Y 90 BIS I, Y EL ARTÍCULO 94, DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 084. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 77 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+Segundo.- Envíese al Ejecutivo del Estado para que en términos del Artículo 71 de la Constitución Política del Estado Libre y Soberano de Nuevo León, lo publique sin demora.
