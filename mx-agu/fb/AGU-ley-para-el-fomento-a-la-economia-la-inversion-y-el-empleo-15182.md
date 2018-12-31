@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2018-09-03"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -107,7 +107,7 @@ La Secretaría será la responsable del cumplimiento de los objetivos a que se r
 
 ###### ARTICULO 6º.
 
-Para el efecto de cumplir con los objetivos a que se refiere el Artículo Cuarto, la Secretaría coordinadora (sic) en el Estado las funciones relacionadas con el desarrollo económico que realicen los organismos públicos y privados establecidos en la Entidad.
+Para el efecto de cumplir con los objetivos a que se refiere el Artículo Cuarto, la Secretaría coordinadora en el Estado (sic) las funciones relacionadas con el desarrollo económico que realicen los organismos públicos y privados establecidos en la Entidad.
 
 La Secretaría contará con la estructura organizacional que tiene asignada en la Ley Orgánica del Poder Ejecutivo del Estado, y además ajustará su desempeño a los lineamientos y políticas contenidas en materia económica en el Plan Estatal de Desarrollo.
 
@@ -193,9 +193,17 @@ XII.- Apoyar al Secretario de Desarrollo Económico, en la creación de Comités
 
 XIII.- Establecer los lineamientos para formar los Comités;
 
-XIV.- Asesorar a los distintos Comités estableciendo mecanismos para que lleven a cabo las acciones encaminadas al logro de sus objetivos; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XV.- Evaluar periódicamente los efectos de las políticas de desarrollo económico adoptadas por la Secretaría.
+XIV.- Asesorar a los distintos Comités estableciendo mecanismos para que lleven a cabo las acciones encaminadas al logro de sus objetivos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XV.- Evaluar periódicamente los efectos de las políticas de desarrollo económico adoptadas por la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVI.- Formular y Proponer a la Secretaría y otras autoridades competentes en la materia, el otorgamiento de incentivos para evitar que las empresas nieguen o restrinjan en las convocatorias laborales el acceso al trabajo a personas meramente por razones de edad.
 
 ### CAPITULO IV. De las Sesiones
 
@@ -546,3 +554,11 @@ El presente Decreto entrara en vigor el día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se deberá contemplar dentro del presupuesto de egresos del año 2019, una partida destinada a la capacitación, al autoempleo, misma que se asignará de acuerdo a los criterios que establezca la Secretaría de Economía, misma que se incrementará progresivamente y de forma anual conforme al salario mínimo.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 86.- REFORMAS Y ADICIONES A LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del estado.
