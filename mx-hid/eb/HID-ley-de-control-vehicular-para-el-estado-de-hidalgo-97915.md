@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2017-12-31"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -149,17 +149,21 @@ B) La factura emitida por fabricante, ensamblador, distribuidor o comerciante de
 
 II.- Tratándose de vehículos usados:
 
-A) El contrato de cesión de derechos, análogo o similar, cuando se trate de vehículos que al momento de realizar el trámite, solo cuenten con la carta factura a que se refiere la fracción I, inciso A), del presente artículo. En estos casos, deberá presentar original de la carta factura y copia simple para su debido cotejo de la factura a que se refiere la citada disposición, y el contrato de cesión deberá contener nombre completo del cedente y del cesionario de los derechos, sus firmas, la fecha en que se realiza la operación, el precio pactado en la misma, o la estipulación de que ésta se realizó a título gratuito;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-B) La factura a que se refiere la fracción I, inciso A) del presente artículo, cuando se encuentre cedida, y siempre que en la última cesión conste el nombre completo de quien cede el documento, su firma, la fecha, el precio pactado en la operación de transmisión de propiedad, o la estipulación de que ésta se realizó a título gratuito, y la manifestación expresa de que cede todos los derechos y obligaciones que ampara la factura, así como el nombre completo de la persona a favor de quien se cede la misma;
+A) El contrato traslativo de dominio, análogo o similar, cuando se trate de vehículos que al momento de realizar el trámite, solo cuenten con la carta factura a que se refiere la fracción I, inciso A), del presente artículo. En estos casos, deberá presentar original de la carta factura y copia simple para su debido cotejo de la factura a que se refiere la citada disposición, y el contrato de cesión deberá contener nombre completo del cedente y del cesionario de los derechos, sus firmas, la fecha en que se realiza la operación, el precio pactado en la misma, o la estipulación de que ésta se realizó a título gratuito;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+B) La carta factura a que se refiere la fracción I, inciso A) del presente artículo, cuando se encuentre cedida, y siempre que en la última cesión conste el nombre completo de quien cede el documento, su firma, la fecha, el precio pactado en la operación de transmisión de propiedad, o la estipulación de que ésta se realizó a título gratuito, y la manifestación expresa de que cede todos los derechos y obligaciones que ampara la factura, así como el nombre completo de la persona a favor de quien se cede la misma;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 C) Las resoluciones de tribunales competentes que hagan las veces de factura judicial, siempre y cuando no exista aviso preventivo en el Registro Vehicular Estatal o en Registro Público Vehicular.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-D) La factura original del vehículo. En estos casos, cuando la factura contenga cesiones de derechos de propiedad, deberá coincidir el nombre del vendedor con el de la última cesión registrada en la factura. Asimismo, la cesión deberá contener el precio pactado en la operación de transmisión de propiedad o la estipulación de que esta se realizó a título gratuito. Las disposiciones de este inciso son aplicables a contratos de compra venta privados.
+D) La factura original del vehículo, a que se refiere la fracción I inciso B) del presente artículo. En estos casos, cuando la factura contenga cesiones de derechos de propiedad, deberá coincidir el nombre del vendedor con el de la última cesión registrada en la factura. Asimismo, la cesión deberá contener el precio pactado en la operación de transmisión de propiedad o la estipulación de que esta se realizó a título gratuito. Las disposiciones de este inciso son aplicables a contratos de compra venta privados.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -169,7 +173,9 @@ III.- Tratándose de vehículos importados:
 
 A) Los títulos de propiedad emitidos en otros países, siempre que se adjunte el documento que acredite la legal estancia del vehículo en territorio nacional. Asimismo, en lo conducente les serán aplicables las disposiciones de las fracciones I y II que anteceden.
 
-Cuando las facturas o documentos correspondientes se hubiesen emitido a través de medios electrónicos, será indispensable presentar alguno de los documentos contenidos en la fracción II, incisos A), C) y D), además del archivo electrónico que en su caso corresponda.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Cuando las facturas o documentos correspondientes se hubiesen emitido a través de medios electrónicos, será indispensable presentar además el archivo electrónico que en su caso corresponda.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -213,7 +219,13 @@ VI.- Contrato de arrendamiento, adjuntando último recibo de pago que reúna req
 
 VII.- Constancia de residencia expedida por la autoridad municipal competente.
 
-En todos los casos, el documento de que se trate deberá contener la Localidad y el Municipio del Estado de Hidalgo de que se trate, y no tener una antigüedad de expedición mayor a 6 meses.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En todos los casos, el documento de que se trate deberá contener la Localidad y el Municipio del Estado de Hidalgo que corresponda, estar a nombre de quien lo presenta o coincidir con el domicilio de la identificación presentada y no tener una antigüedad de expedición mayor a 6 meses.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para las personas morales, el comprobante de domicilio deberáestar a nombre de las mismaso coincidir con el domicilio fiscalo de sucursal registradosen los padrones o registros estatales o en el Registro Federal de Contribuyentes. (sic)
 
 ## TÍTULO SEGUNDO. DEL REGISTRO VEHICULAR ESTATAL
 
@@ -233,11 +245,27 @@ La Secretaría autorizará a los propietarios de vehículos, previo cumplimiento
 
 I.- Incorporación de vehículo al Registro Vehicular Estatal;
 
-II.- Desincorporación de vehículo del Registro Vehicular Estatal; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-III.- Actualización de datos al Registro Vehicular Estatal.
+II.- Desincorporación de vehículo del Registro Vehicular Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III.- Actualización de datos al Registro Vehicular Estatal; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV.- Canje de placas metálicas.
 
 Los trámites antes citados son de obligatorio cumplimiento por parte del o los propietarios de vehículos que se ubiquen en estos supuestos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 11 Bis.
+
+Las personas físicas o morales que hayan enajenado un vehículo podrán realizar el trámite de Baja Administrativa del Registro Vehicular Estatal, siempre que el adquirente no haya efectuado el cambio de propietario, para lo cual deberán presentar el documento traslativo de dominio respectivo, así como los requisitos establecidos en el artículo 26, fracciones I y II de la Ley, según corresponda; lo anterior, no será aplicable tratándose de vehículos destinados al Transporte Público y de Demostración.
+
+La baja administrativa surtirá sus efectos a partir de la fecha en que se efectúe el trámite y no eximirá de las obligaciones generadas con anterioridad.
 
 ###### Artículo 12.
 
@@ -319,7 +347,11 @@ G) Discapacitado;
 
 H) Demostración; y
 
-I) Servicios de emergencia.
+I) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+J) Ecológicos.
 
 II.- Transporte Público, que a su vez se clasifica en:
 
@@ -331,7 +363,21 @@ C) Camión.
 
 III.- Instituciones Policiales establecidas en la Ley de Seguridad Pública para el Estado de Hidalgo;
 
-IV.- Servicios de emergencia y Protección Civil; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV.- Servicios de emergencia y Protección Civil, que a su vez se clasifican en:
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+A) Ambulancia;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+B) Bomberos; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+C) Rescate
 
 V.- Las demás que contemple el Reglamento.
 
@@ -415,9 +461,15 @@ A) Códigos de clasificación de los vehículos y su respectiva interpretación,
 
 Las tarjetas de circulación deberán portarse en el vehículo al circular en las vialidades del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 25.
 
-La Secretaría podrá expedir permisos temporales para circular, para aquellos vehículos que estén registrados en el Registro Vehicular Estatal y que previamente hayan realizado el trámite de desincorporación correspondiente. Los permisos provisionales serán otorgados con una vigencia máxima de 15 días naturales, contados a partir de la fecha de la desincorporación.
+La Secretaría podrá expedir permisos temporales para circular, para vehículos nuevos y aquellos que estén registrados en el Registro Vehicular Estatal y que previamente hayan realizado el trámite de desincorporación correspondiente. Los permisos provisionales serán otorgados con una vigencia de 15 días naturales, contados a partir de la fecha de su expedición o, en su caso, de la desincorporación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para el caso de vehículos nuevos se deberá presentar identificación oficial y acreditar la propiedad del vehículo de conformidad con lo establecido en los artículos 6 y 8 de la presente Ley.
 
 ### CAPÍTULO III. DE LOS REQUISITOS PARA REALIZAR TRÁMITES DE CONTROL VEHICULAR
 
@@ -497,7 +549,9 @@ III.- Incorporación de vehículos en el Registro Vehicular Estatal, en que se a
 
 A) En lo que sea conducente, además de presentar los documentos y cumplir los requisitos a que se refieren las fracciones I y II de este artículo, el propietario deberá presentar el vehículo a la Secretaría para inspección física del mismo, así como original del certificado médico expedido por institución de salud pública en el que se acredite la discapacidad del propietario del vehículo, o del familiar del propietario del vehículo;
 
-B) El certificado médico hará constar si la discapacidad permite a la persona física conducir un vehículo sin modificaciones, y si la misma es temporal o permanente;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+B) El certificado médico hará constar si la discapacidad permite a la persona física conducir un vehículo sin modificaciones, y si la misma es temporal o permanente, su expedición no deberá ser mayor a 12 meses y;
 
 C) Cuando la discapacidad permita conducir un vehículo con modificaciones, se procederá a la inspección física del vehículo y la Secretaría, mediante reglas de carácter general, podrá solicitar los documentos que estime pertinentes para acreditar que dichas modificaciones cumplen las especificaciones de los fabricantes y la normatividad que en su caso sea aplicable;
 
@@ -529,7 +583,9 @@ B) Las placas metálicas para vehículos de demostración permiten a dichos veh�
 
 C) Los fabricantes, ensambladores, distribuidores o comerciantes de autos nuevos que den mal uso a las placas metálicas para vehículos de demostración que les sean entregadas a efectos de demostración de sus vehículos, serán sancionados en los términos que marque la Ley, el Reglamento y las demás disposiciones aplicables.
 
-VI.- Actualización de datos al Registro Vehicular Estatal con motivo de canje de placas metálicas:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI.- Canje de placas metálicas:
 
 A) Cuando proceda el canje total de modelo de placas metálicas vigente en términos de la normatividad aplicable, o bien, cuando los propietarios de vehículos así lo requieran, las personas deberán presentar lo siguiente:
 
@@ -573,7 +629,9 @@ C) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 D) Quienes transmiten la propiedad de un vehículo son responsables solidarios en el cumplimiento de las disposiciones contenidas en la presente fracción, siempre que la persona que transmite la propiedad no realice el tramite a que se refiere la fracción VII del presente artículo.
 
-E) Los propietarios de vehículos que cambien de domicilio deberán notificar de tal situación a la Secretaría, en el formato que para tales efectos emita esta última, en el plazo de 15 días hábiles siguientes a que realice dicho movimiento, y presentarán original para cotejo y copia simple del nuevo comprobante de domicilio; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+E) Los propietarios de vehículos que cambien de domicilio deberán notificar de tal situación a la Secretaría, en el plazo de 15 días hábiles siguientes a que realice dicho movimiento, y presentarán el comprobante de domicilio original; y
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -601,9 +659,15 @@ La desincorporación que se realice tratándose de los casos de las fracciones I
 
 En los casos de robo o extravío de cualquier documento inherente al control vehicular, para acreditar tal situación ante la Secretaría, las personas presentarán:
 
-I.- Acta formulada ante el Ministerio Público, tratándose del robo o extravío de placas metálicas. En estos casos, el acta precisará si se trata de placa delantera, trasera o ambas; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I.- Acta formulada ante el Ministerio Público, tratándose del robo o extravío de placas metálicas. En estos casos, el acta precisará si se trata de placa delantera, trasera o ambas;
 
 II.- Resolución definitiva emitida por tribunal competente, tratándose de documentos que acrediten la propiedad de los vehículos o documentos oficiales distintos a los mencionados en la fracción anterior, expedidos por autoridades o entes que a la fecha se encuentren extintas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III.- Acta ante el juez municipal que corresponda, tratándose de extravío del documento original de desincorporación de placas de otra Entidad Federativa.
 
 Tratándose del extravío de comprobantes de pago, pedimentos de importación y, en general, documentos expedidos por autoridades existentes al momento de realizar el trámite, la persona tramitará ante dichas autoridades la reposición, o bien, copia certificada de los documentos de que se trate.
 
@@ -774,3 +838,11 @@ P.O. 31 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2018.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 88.- QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2019.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
