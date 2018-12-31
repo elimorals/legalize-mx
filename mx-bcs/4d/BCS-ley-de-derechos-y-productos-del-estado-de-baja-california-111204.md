@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2017-12-20"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -561,9 +561,11 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 ### Capítulo Cuarto. De los servicios prestados por la Secretaría de Educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 19.
 
-Por los servicios que preste la Secretaría de Educación, se causarán y pagarán derechos conforme a la siguiente:
+Por los servicios que presta la Secretaría de Educación, se causarán y pagaran derechos conforme a la siguiente:
 
 Tarifa:
 
@@ -579,7 +581,7 @@ superior $62.00
 
 V. Duplicado de certificado de educación superior $188.00
 
-VI. Duplicado de boletas; $55.00
+VI. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2018)
 
 VII. Expedición de constancias de estudios de
 
@@ -587,7 +589,7 @@ nivel básico; $55.00
 
 VIII. Consulta o constancia de archivo; $54.00
 
-IX. Duplicado de boleta de grado de secundaria; $55.00
+IX. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2018)
 
 X. Duplicado de certificado de escuelas normales; $144.00
 
@@ -599,9 +601,11 @@ XII. Equivalencia y revalidación de estudios de
 
 educación media superior; $362.00
 
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 XIII. Equivalencia y revalidación de estudios de
 
-educación superior y post-grado; $938.00
+Educación Superior; $938.00
 
 XIV. Inspección y vigilancia educación inicial.
 
@@ -827,6 +831,30 @@ en los incisos anteriores, causarán derechos y por
 
 cada uno de ellos se cubrirá el pago de: $273.00
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+LVI. Certificado de terminación de estudios o estudios
+
+parciales de preparatoria abierta; $100.00
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+LVII. Constancia de estudios o terminación de estudios
+
+de preparatoria abierta; $50.00
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+LVIII. Impresión de historial académico de preparatoria
+
+abierta, y $20.00
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+LIX. Refrendo anual y actualización de expedientes de
+
+escuelas incorporadas al Sistema Educativo Estatal. $6,391.92
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ### Capítulo Quinto. De los Servicios prestados por la Secretaría de Turismo, Economía y Sustentabilidad
@@ -837,87 +865,45 @@ cada uno de ellos se cubrirá el pago de: $273.00
 
 Por los servicios que preste la Secretaría de Turismo, Economía y Sustentabilidad, se causarán y pagarán derechos conforme a la siguiente:
 
-I.- Medio ambiente y ecología Tarifa:
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-A. En materia Ambiental y Ecológica:
+I.- En materia de Medio ambiente Tarifa:
 
-1 Por verificación y evaluación:
+1. Impacto ambiental:
 
-a) Recepción y Evaluación del Informe Preventivo; $2,888.00
+a) Recepción, Evaluación y Resolución del Informe
 
-b) Recepción y Evaluación de la Manifestación
+Preventivo; $9,147.00
 
-de Impacto Ambiental en Modalidad General; $5,271.00
+b) Recepción, Evaluación y Resolución de la Manifestación
 
-c) Recepción y Evaluación de la Manifestación
+de Impacto Ambiental Modalidad General; $14,158.00
 
-de Impacto Ambiental en Modalidad Intermedia; $7,582.00
+c) Recepción, Evaluación y Resolución de Estudio de
 
-d) Recepción y Evaluación de la Manifestación de
+Riesgo; $38,895.00
 
-Impacto Ambiental en Modalidad Específica; $4,982.00
+d) Recepción, Evaluación y Emisión del Registro de
 
-e) Recepción y Evaluación del Estudio de Riesgo; $5,271.00
+Prestadores de Servicio, y $8,352.00
 
-f) Inscripción y Registro de Prestadores de Servicios $5,054.00
+e) Modificación y Verificación de la Normatividad. $2,785.00
 
-2 Recepción y Evaluación de solicitudes
+2. Emisiones a la Atmósfera:
 
-de Licencias de Funcionamiento; $4,260.00
+a) Recepción, Evaluación y Emisión de la Licencia de
 
-3 Recepción y Evaluación del Refrendo Anual
+Funcionamiento; $10,263.00
 
-de la Licencia de Funcionamiento; $2,528.00
+b) Recepción, Evaluación y Emisión del Refrendo Anual
 
-4 Expedición de Licencia de Funcionamiento; $2,528.00
+de Licencia de Funcionamiento. $8,751.00
 
-5 Modificación y Verificación del cumplimiento
+3. Residuos:
 
-de la normatividad; $2,528.00
+a) Recepción, Evaluación y Emisión del Registro del Plan de
 
-6 Registro de descarga de aguas residuales; $1,084.00
-
-7 Emisión de Autorización en materia de impacto
-
-ambiental de Informe Preventivo; $2,888.00
-
-8 Emisión de Autorización en materia de impacto
-
-ambiental de la Manifestación de Impacto Ambiental
-
-de la Modalidad General; $5,054.00
-
-9 Emisión de Autorización en materia de impacto
-
-ambiental de la Manifestación de Impacto Ambiental
-
-de la Modalidad Intermedia; $7,220.00
-
-10 Emisión de Autorización en materia de impacto
-
-ambiental de la Manifestación de Impacto Ambiental
-
-de la Modalidad Específica; $7,220.00
-
-11 Emisión de Autorización en materia de Riesgo
-
-Ambiental. $27,509.00
-
-12 Emisión del Refrendo Anual de la Licencia
-
-de Funcionamiento. $2,888.00
-
-B. En materia Urbana:
-
-1 Autorización de la publicidad destinada a promover
-
-un desarrollo industrial turístico o campestre autorizado; $1,444.00
-
-2 a) Dictamen Técnico:
-
-a) De uso de suelo: $2,166.00
-
-b) De Lotificación y/o Sembrado de Edificios: $2,166.00
+Manejo de Residuos de Manejo Especial (RME) $7,056.00
 
 > <small>(ADICIONADA [N. DE E. CON SU INCISO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -935,23 +921,39 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 III.- Operaciones Inmobiliarias Tarifa:
 
-a) Expedición de Licencia para ejercer como
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Agente Profesional Inmobiliario; $1,500.00
+a) Expedición de Licencia para ejercer como Agente
 
-b) Revalidación de licencia para ejercer como
+Profesional Inmobiliario e Inscripción en el Registro
 
-agente profesional inmobiliario; $1,000.00
+Estatal de Agentes Profesionales Inmobiliarios; $10,000.00
 
-c) Inscripción en el Registro Estatal de Agentes
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Profesionales Inmobiliarios; $300.00
+b) Refrendo anual de licencia para ejercer como
 
-d) Capacitación, actualización y Profesionalización
+agente profesional inmobiliario, anual; $2,000.00
 
-en materia de Operaciones Inmobiliarias, por
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-persona. $300.00
+c) Expedición anual de Identificación y Registro de
+
+Agente Profesional Inmobiliario con licencia y asesor
+
+inmobiliario de un Agente Profesional Inmobiliario con
+
+licencia; $1,500.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+d) Reposición de Identificación, y $300.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+e) Reposición de Licencia para ejercer como Agente
+
+Profesional Inmobiliario. $500.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1091,9 +1093,7 @@ II. Expedición de registro y credencial para el
 
 ejercicio profesional, técnico y auxiliar para la salud; $144.00
 
-III. Permiso sanitario de construcción, regulación,
-
-aplicación o remodelación; $794.00
+III. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2018)
 
 IV. Autorización de libros para medicamentos
 
@@ -1123,15 +1123,13 @@ X. Permiso de traslado de cadáveres a otra entidad
 
 federativa; $1,660.00
 
-XI. Permiso de inhumación antes de las 12 horas de
-
-fallecimiento y después de las 48 horas de ocurrido
-
-éste; $722.00
+XI. DEROGADA, B.O. 31 DE DICIEMBRE DE 2018)
 
 XII. Permiso de exhumación; $1,660.00
 
-XIII. Permiso de embalsamamiento; $288.00
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO, P.O. 31 DE DICIEMBRE DE 2018]</small>
+
+XIII. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2018)
 
 XIV. Solicitud de visita de verificación sanitarias:
 
@@ -1143,9 +1141,11 @@ b) Toma de muestras; $1,660.00
 
 c) Para destrucción de alimentos; $1,660.00
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 d) Expedición de constancia de condiciones
 
-sanitarias; $434.00
+sanitarias en establecimientos; $1,829.00
 
 e) Embarcaciones marítimas internacionales que tocan
 
@@ -1153,21 +1153,45 @@ el primer puerto de arribo en aguas de jurisdicción
 
 estatal; $1,660.00
 
-XV. Respecto a las áreas en vías de clasificar y
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-certificadas del Programa Mexicano de Sanidad
+f) Balance de medicamento psicotrópico y/o
 
-de Moluscos Bivalvos:
+estupefacientes de los Grupos I, II y III, y $1,829.00
 
-a) Toma de muestras de agua de mar y producto
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-en el área de cultivo o de extracción silvestre
+g) Autorización de libros para establecimientos de
 
-de Moluscos Bivalvos para su análisis; $26,715.00
+salud con servicio de sangre. $399.00
 
-b) Elaboración de estudios para la clasificación
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-sanitaria; $25,271.00
+XV. Respecto a las áreas en vías de clasificación,
+
+certificación y mantenimiento del Programa Mexicano
+
+de Sanidad de Moluscos Bivalvos:
+
+a) Servicio de toma de muestras de agua de mar y/o
+
+producto en las áreas en vías de clasificación, certificación
+
+y mantenimiento de cultivo o de extracción silvestre de
+
+Moluscos Bivalvos, y el número de toma de muestras
+
+a pagar dependerá de los lineamientos del programa,
+
+no incluye los costos por análisis de laboratorio; $13,055.00
+
+b) Elaboración y expedición de documento oficial,
+
+con resultados del estudio realizado en el área en
+
+vía de clasificar, certificarse, así como por
+
+mantenimiento; $20,000.00
 
 XVI. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
@@ -1191,9 +1215,11 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 ### Capítulo Noveno. De los servicios prestados por la Secretaría de Finanzas y Administración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 27.
 
-Por los servicios prestados por la Secretaría de Finanzas y Administración, se causarán y pagarán derechos conforme a la siguiente:
+Por los servicios prestados por la Secretaría de Finanzas y Administración, se causaran y pagarán derechos conforme a la siguiente:
 
 I.- Por las autoridades fiscales:
 
@@ -2045,6 +2071,18 @@ No se estará obligado al pago de dicha cuota tratándose de las publicaciones d
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere la presente Fracción, se destinarán a la modernización y equipamiento de la Secretaría de Finanzas y Administración y de los Talleres Gráficos del Estado.
 
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VI.- Por las autoridades administrativas: Tarifa:
+
+1 Inscripción o actualización al Padrón de Proveedores del
+
+Gobierno del Estado; $1,700.00
+
+2 Bases para licitantes que participen en concursos de
+
+licitaciones públicas; $5,000.00
+
 ### Capítulo Décimo. De los Servicios prestados por la Contraloría General
 
 ###### Artículo 28.
@@ -2144,3 +2182,9 @@ B.O. 20 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2502.- SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 16 Y SUS INCISOS A) Y B), LA FRACCIÓN III DEL ARTÍCULO 21, EL NÚMERO 17 DE LA FRACCIÓN I Y LOS NÚMEROS 6 Y 16 DE LA FRACCIÓN III DEL ARTÍCULO 27, SE ADICIONAN CUATRO ÚLTIMOS PÁRRAFOS AL ARTÍCULO 5, LOS INCISOS F) Y G) A LA FRACCIÓN II Y UNA FRACCIÓN V CON LOS INCISOS A), B), C), D), E), F), G), H), I), Y J) AL ARTÍCULO 16, LAS FRACCIONES XLVII, XLVIII, XLIX, L, LI, LII, LIV, Y LV AL ARTÍCULO 19; SE ADICIONAN UNA FRACCIÓN II CON UN INCISO A) Y UNA FRACCIÓN III CON LOS INCISOS A), B), C),Y D) AL ARTÍCULO 20; EL NÚMERO 19 Y UN ÚLTIMO PÁRRAFO CON LOS INCISOS A) Y B) A LA FRACCIÓN I Y EL NÚMERO 25 A LA FRACCIÓN III DEL ARTÍCULO 27; Y SE DEROGAN LAS FRACCIONES V, VI, VII, Y XVI DEL ARTÍCULO 22, Y LOS ARTÍCULOS 25 Y 26, TODOS DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero del 2018, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2586 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero del 2019, previo su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
