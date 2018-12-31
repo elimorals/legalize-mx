@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2017-12-31"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -169,11 +169,11 @@ El pago de este impuesto podrá efectuarse en efectivo, mediante tarjeta bancari
 
 Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción o vía internet la declaración en ceros que corresponda.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 10.
 
-Son responsables solidarios quienes realicen pagos a contribuyentes eventuales de este impuesto por lo que deberán retenerlo, así como enterarlo a través de los medios autorizados por la Secretaría de Finanzas Públicas, a más tardar, el día 17 del mes de calendario siguiente al bimestre en que se causen.
+Son responsables solidarios quienes realicen pagos por sí o por interpósita persona a contribuyentes eventuales de este impuesto por lo que deberán retenerlo, así como enterarlo a través de los medios autorizados por la Secretaría de Finanzas Públicas, a más tardar, el día 17 del mes de calendario siguiente al bimestre en que se causen.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -389,7 +389,9 @@ DEL SUJETO
 
 Son sujetos del pago de este impuesto, las personas físicas y morales que realicen los pagos a que se refiere el Artículo anterior.
 
-También están obligados a retener y enterar este Impuesto las personas físicas o morales que contraten la prestación de servicios con empresas cuyo domicilio esté ubicado fuera de la Entidad, para que le proporcionen los trabajadores, siempre que el servicio personal se preste en el Territorio del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+También están obligados a retener y enterar este Impuesto las personas físicas o morales que contraten por sí o por interpósita persona la prestación de servicios con empresas cuyo domicilio esté ubicado fuera de la Entidad, para que le proporcionen trabajadores para el desarrollo de sus actividades, siempre que el servicio personal se preste en el Territorio del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -603,9 +605,9 @@ Los prestadores del servicio de hospedaje trasladarán en forma expresa y por se
 
 Se entenderá por traslado del impuesto, el cobro a cargo que los contribuyentes realicen a las personas que reciban el servicio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Los prestadores de los servicios a que se refiere este Capítulo, podrán efectuar el pago en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas Públicas aperturadas en las Instituciones autorizadas, dentro de los veinte días siguientes al mes inmediato posterior al en que se generó el impuesto.
+Los prestadores de los servicios a que se refiere este Capítulo, podrán efectuar el pago en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas Públicas aperturadas en las Instituciones autorizadas.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1059,11 +1061,11 @@ DISPOSICIONES GENERALES
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 61.
 
-Es objeto de este impuesto la obtención de ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, que celebren los Organismos Descentralizados de la Administración Pública Federal y Estatal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+Es objeto de este impuesto la obtención de ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, que celebren los organismos descentralizados de la Administración Pública Federal y Estatal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, así como de los que celebren los órganos desconcentrados de la Administración Pública Federal.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1101,11 +1103,11 @@ Este impuesto se determinará a la tasa del 4.5% de la base gravable que estable
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 65.
 
-Este impuesto se causará en el momento que los organismos descentralizados paguen o entreguen los premios y se pagará ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas Públicas o a través de transferencia electrónica de fondos de forma definitiva.
+Este impuesto se causará en el momento que los organismos descentralizados u órganos desconcentrados paguen o entreguen los premios y se pagará ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas Públicas o a través de transferencia electrónica de fondos de forma definitiva.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1710,3 +1712,11 @@ P.O. 31 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2018.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 88 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1º de enero de 2019.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
