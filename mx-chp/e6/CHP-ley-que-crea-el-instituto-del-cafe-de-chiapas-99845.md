@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-el-instituto-del-cafe-de-chiapas-99845"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2015-12-31"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE CREA EL INSTITUTO DEL CAFÉ DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 5 de marzo de 2014.
 
@@ -43,11 +43,11 @@ Ley que crea el Instituto del Café de Chiapas
 
 ### Capítulo I. De la creación, domicilio y personalidad jurídica del Instituto del Café de Chiapas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 1°.
 
-Se crea el Instituto del Café de Chiapas, en adelante el Instituto, como un organismo descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría del Campo, con personalidad jurídica y patrimonio propios, autonomía administrativa, presupuestal, técnica, de gestión, operación y ejecución, para el adecuado desempeño y desarrollo de sus funciones, mismo que atenderá los asuntos que este instrumento, su reglamento interior y demás normatividad aplicable le señalen.
+Se crea el Instituto del Café de Chiapas, en adelante el Instituto, como un organismo público descentralizado de la Administración Pública estatal, sectorizado a la Secretaría de Agricultura, Ganadería y Pesca, con personalidad jurídica y patrimonio propios, autonomía administrativa, presupuestal, técnica, de gestión, de operación y ejecución, para el adecuado desempeño y desarrollo de sus funciones, mismo que atenderá los asuntos que esta ley, su reglamento interior y demás normativa aplicable le señalen.
 
 ###### Artículo 2°.
 
@@ -169,23 +169,21 @@ Los acuerdos y resoluciones que emita la Junta de Gobierno se aprobaran por la m
 
 ### Capítulo VI. De la Integración y Atribuciones de la Junta de Gobierno
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 13.
 
 La Junta de Gobierno se integrará por:
 
-I. Un Presidente, que será designado por el titular del Ejecutivo del Estado.
+I.- Un Presidente, que será el Titular de la Secretaría de Agricultura, Ganadería y Pesca.
 
-II. Un Secretario Técnico, que será designado por la Junta de Gobierno.
+II.- Un Secretario Técnico, que será designado por la Junta de Gobierno.
 
-III. Los vocales serán:
+III.- Los vocales que serán los Titulares de:
 
-A) El Secretario de Economía.
+a) La Secretaría General de Gobierno.
 
-B) El Secretario de Hacienda.
-
-C) El Secretario del Campo.
-
-D) El Secretario de la Función Pública.
+b) La Secretaría de Hacienda.
 
 ###### Artículo 14.
 
@@ -388,3 +386,29 @@ P.O. 31 DE DICIEMBRE DE 2015.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 031 DECRETO POR EL QUE REFORMAN Y ABROGAN DIVERSAS LEYES Y DECRETOS POR LOS QUE SE CREAN DIVERSOS ORGANISMOS PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan o contravengan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, además de los compromisos y procedimientos que a la entrada en vigor del presente Decreto hubiese contraído, tenga asignados o le correspondan al Instituto de Desarrollo de Energías del Estado de Chiapas, así como las atribuciones y referencias que otras leyes le asignen, serán transferidos, se entenderán conferidos y serán atendidos por la Secretaría de Medio Ambiente e Historia Natural, a través del área u órgano de su estructura orgánica que establezca su Reglamento Interior.
+
+Artículo Cuarto.- Los recursos humanos, materiales y financieros, además de los compromisos y procedimientos que a la entrada en vigor del presente Decreto hubiese contraído, tenga asignados o le correspondan a la Coordinación Ejecutiva del Fondo de Fomento Agropecuario del Estado de Chiapas, así como las atribuciones y referencias que otras leyes le asignen a dicha Coordinación, serán transferidos, se entenderán conferidos y serán atendidos por la Secretaría de Agricultura, Ganadería y Pesca, a través de la Dirección del Fondo de Fomento Agropecuario del Estado de Chiapas, que será parte de la estructura orgánica de dicha dependencia.
+
+Artículo Quinto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+Artículo Sexto.- Los órganos de gobierno, que por este decreto modifican su integración, deberán instalarse y sesionar en un plazo no mayor a treinta días hábiles, contados a partir de la publicación del presente Decreto.
+
+Artículo Séptimo.- Los Titulares de los Organismos Públicos Descentralizados, que por este decreto se reforman, deberán someter a consideración de su órgano de gobierno, en un plazo no mayor a noventa días hábiles, contados a partir de la publicación del presente Decreto, las adecuaciones normativas que se requieran para el cumplimiento de esta normativa.
+
+Artículo Octavo.- Se abroga el Decreto por el que se autoriza al Ejecutivo del Estado a establecer el Programa Especial de Apoyo para la Regularización de la Tenencia de la Tierra y el Establecimiento de un Esquema de Subsidios de Derechos Estatales, publicado en el Periódico Oficial número 245, Tomo III, Segunda Sección, de fecha seis de julio de dos mil dieciséis, en términos del Artículo Tercero Transitorio de la Ley Orgánica de la Administración Pública del Estado de Chiapas, que establece la transferencia de los servicios de gobierno a la Secretaría General de Gobierno, quien será la encargada de normar dichos procesos.
+
+Los procedimientos que se encuentran en trámite derivados del Decreto que se abroga, deberán ser atendidos sin excepción (sic) la normativa aplicable, ni exención ni otorgamiento de subsidios sobre el pago de derechos y demás contribuciones estatales que hubiese autorizado el extinto Instituto de la Consejería Jurídica y de Asistencia Legal, a partir de la entrada en vigor del presente Decreto.
+
+Se derogan las disposiciones que se opongan al presente Decreto, así como aquellas emitidas con base en el decreto que se abroga en el presente transitorio.
+
+El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
