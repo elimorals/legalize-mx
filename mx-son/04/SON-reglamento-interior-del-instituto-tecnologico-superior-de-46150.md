@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-tecnologico-superior-de-46150
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-11"
-last_updated: "2005-08-11"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE PUERTO PEÑASCO
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE PUERTO PEÑASCO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE PUERTO PEÑASCO, PUBLICADO EN EL B.O. DE 31 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE PUERTO PEÑASCO, SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 11 de agosto de 2005.
 
@@ -554,3 +556,21 @@ Instituto Tecnológico Superior de Puerto Peñasco
 Organigrama Estructural
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE PUERTO PEÑASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior publicado en el Boletín Oficial número 12, Sección I de fecha 11 de agosto de 2005, y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior, El Director General del Instituto Tecnológico Superior de Puerto Peñasco queda facultado para resolver las cuestiones que se presenten en relación con estos manuales, en tanto éstos se expiden.
