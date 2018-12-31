@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-coordinacion-hacendaria-del-estado-de-nuevo-leon-110684"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-03"
-last_updated: "2017-04-26"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de diciembre de 2015.
 
@@ -247,7 +247,9 @@ B. El 100% del Fondo de Fomento Municipal.
 
 Las participaciones referidas en este artículo se distribuirán conforme a las siguientes reglas:
 
-I.- La suma de los conceptos señalados en los incisos A y B anteriores, excepto el Impuesto Especial sobre Producción y Servicios en el caso de las cuotas a la Venta Final de Gasolinas y Diésel, establecida en el artículo 2 A fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se distribuirá entre los Municipios mediante tres fórmulas, la primera con una ponderación del 50%, la segunda un 25% y la tercera un 25% de dicha suma: 1) Una fórmula tendiente a distribuir los recursos en función del monto y la eficiencia de la recaudación del Impuesto Predial, establecida en el numeral 1, de esta fracción; 2) Una fórmula que se basa en la población de cada Municipio ponderada con la extensión de su territorio, que se explica en el numeral 2 de esta fracción; y 3) Una fórmula que asigna recursos en función de las carencias de la población, además de resarcir por (sic) el esfuerzo en disminuir el rezago social, establecida en el numeral 3 de esta fracción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I.- La suma de los conceptos señalados en los incisos A y B anteriores, excepto el Impuesto Especial sobre Producción y Servicios en el caso de las cuotas a la Venta Final de Gasolinas y Diésel, establecida en el artículo 2 A fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, con excepción del 30% del excedente del Fondo de Fomento Municipal para aquellos municipios coordinados en materia de impuesto predial, en términos del artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, se distribuirá entre los Municipios mediante tres fórmulas, la primera con una ponderación del 50%, la segunda un 25% y la tercera un 25% de dicha suma: 1) Una fórmula tendiente a distribuir los recursos en función del monto y la eficiencia de la recaudación del Impuesto Predial, establecida en el numeral 1, de esta fracción; 2) Una fórmula que se basa en la población de cada Municipio ponderada con la extensión de su territorio, que se explica en el numeral 2 de esta fracción; y 3) Una fórmula que asigna recursos en función de las carencias de la población, además de resarcir por (sic) el esfuerzo en disminuir el rezago social, establecida en el numeral 3 de esta fracción.
 
 1.- La fórmula para determinar lo que corresponderá a cada Municipio por monto y eficiencia de la recaudación del Impuesto Predial será:
 
@@ -263,7 +265,9 @@ El monto para cada Municipio se obtendrá multiplicando el resultado del coefici
 
 2.- La fórmula para determinar lo que corresponderá a cada Municipio por población ponderada por territorio será:
 
-> <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 17.</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 17.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA, P.O. 31 DE DICIEMBRE DE 2018, PÁGINA 11.]</small>
 
 Para determinar la superficie territorial, se tomará la última información oficial que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía.
 
@@ -280,6 +284,34 @@ La participación que le corresponda a los Municipios del Fondo de Fiscalizació
 II.- La participación mensual de cada municipio en los ingresos derivados de la aplicación de las cuotas a la Venta Final de Gasolinas y Diésel, previstas en el artículo 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, se calculará conforme a la siguiente fórmula:
 
 > <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINAS DE LA 20 A LA 21.</small>
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III.- La participación del 30% del excedente del Fondo de Fomento Municipal para aquellos municipios coordinados en materia de impuesto predial en términos del artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, se distribuirá entre aquellos municipios que celebren convenio en materia de administración del impuesto predial con el Estado, mediante tres fórmulas, la primera con una ponderación del 50%, la segunda un 30% y la tercera un 20%, como sigue: 1) Una fórmula tendiente a distribuir los recursos en función de la eficiencia en la recaudación del Impuesto Predial, establecida en el numeral 1, de esta fracción; 2) Una fórmula que se basa en el crecimiento de la recaudación del impuesto predial de cada Municipio, que se explica en el numeral 2 de esta fracción; y 3) Una fórmula que asigna recursos en función de la recaudación efectiva de Impuesto Predial de cada Municipio, establecida en el numeral 3 de esta fracción.
+
+1.- La fórmula para determinar lo que corresponderá a cada Municipio por eficiencia en la recaudación del Impuesto Predial será:
+
+> <small>[N. DE E.VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 12 A LA 13.]</small>
+
+2.- La fórmula para determinar lo correspondiente a cada municipio por crecimiento de recaudación del Impuesto Predial será:
+
+> <small>[N. DE E.VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 13 A LA 15.]</small>
+
+3.- La fórmula para determinar lo correspondiente a cada municipio por recaudación efectiva de Impuesto Predial será:
+
+> <small>[N. DE E.VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 15.]</small>
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+
+Para efectos de esta fracción, la información de la recaudación del Impuesto Predial se tomará de la recaudación efectivamente pagada al Municipio en el ejercicio fiscal t-1, independientemente del ejercicio fiscal en que se haya causado, incluyendo recargos, sanciones, multas y gastos de ejecución.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+
+Las cifras de recaudación del Impuesto Predial deberán ser enviadas por los Municipios a la Dirección de Coordinación y Planeación Hacendaria de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Tesorería General del Estado, en el término de los diez días hábiles siguientes, de que se les remita a los Municipios el formato conducente, que se les proporcione para tal efecto. En caso contrario, se tomarán provisionalmente los datos más recientes de que disponga dicha Secretaría.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. DE 31 DE DICIEMBRE DE 2018.]</small>
+
+Para efectos de determinar la base gravable del impuesto predial de cada Municipio, se tomará la información de los expedientes catastrales que obran en el Instituto Registral y Catastral del Estado, respecto al ejercicio fiscal t-1. En caso contrario, se tomarán provisionalmente los datos más recientes de que disponga dicho Instituto.
 
 ###### Artículo 15.
 
@@ -325,9 +357,11 @@ En caso de que alguna de las reglas contenidas en los artículos 14 y 16 de esta
 
 La Secretaría deberá de publicar en el Periódico Oficial del Estado a más tardar el último día del mes de enero la calendarización mensual de los recursos presupuestados a distribuir entre los Municipios durante el ejercicio fiscal en curso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 19.
 
-Durante el ejercicio fiscal a presupuestar, los Municipios recibirán por concepto del total de participaciones federales y estatales a que se refieren los artículo (sic) 14 y 16 de esta Ley, por lo menos la misma suma percibida en términos reales durante el ejercicio fiscal del año previo, conforme al siguiente procedimiento:
+Durante el ejercicio fiscal que corresponda, los Municipios recibirán por concepto del total de participaciones federales y estatales a que se refieren los artículos 14 y 16 de esta Ley, con la salvedad de las excepciones establecidas en la fracción I del artículo 14, por lo menos la misma suma percibida en términos reales durante el ejercicio fiscal del año previo, conforme al siguiente procedimiento:
 
 I.- Se hace un cálculo preliminar para cuantificar lo que corresponde a cada Municipio conforme a la fórmula prevista en esta Ley;
 
@@ -335,7 +369,7 @@ II.- Se identifica a los Municipios que del cálculo preliminar efectuado confor
 
 III.- Se suma la disminución que corresponde a cada Municipio según las dos fracciones anteriores;
 
-IV.- Del total de participaciones correspondientes al ejercicio a presupuestar se separa una cantidad equivalente al resultado de la fracción III anterior, denominada "Compensación”, y se asigna a cada uno de los Municipios que del cálculo preliminar efectuado conforme a la fracción I, les corresponde menos de lo que recibieron en el ejercicio fiscal del año previo más la inflación anual, a fin de que en términos reales, reciban la misma cantidad correspondiente a dicho año.
+IV.- Del total de participaciones correspondientes al ejercicio a presupuestar se separa una cantidad equivalente al resultado de la fracción III anterior, denominada "Compensación", y se asigna a cada uno de los Municipios que del cálculo preliminar efectuado conforme a la fracción I, les corresponde menos de lo que recibieron en el ejercicio fiscal del año previo más la inflación anual, a fin de que en términos reales, reciban la misma cantidad correspondiente a dicho año.
 
 V.- La "Compensación" prevista en la fracción IV, se integrará reasignando una porción de la parte que al efectuarse el cálculo preliminar previsto en la fracción I, corresponde a cada uno de los Municipios que resulten con una cantidad mayor en términos reales a la recibida en el ejercicio previo.
 
@@ -531,7 +565,9 @@ III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondien
 
 Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
 
-Este Fondo se distribuirá en dos fórmulas la primera será de forma equitativa y la segunda por población con la que cuente cada municipio de acuerdo al último censo de población publicado por el INEGI.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Este Fondo se distribuirá en dos fórmulas, la primera será de forma equitativa y la segunda por población con la que cuente cada municipio de acuerdo a la información oficial más reciente que hubiera dado a conocer el INEGI.
 
 I.- Por la fórmula de repartición equitativa se asignará un monto fijo anual de $3,000,000.00 a cada municipio del Estado.
 
@@ -549,7 +585,9 @@ II. De manera trimestral, se realizarán los cálculos correspondientes a fin de
 
 III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondiente para determinar la diferencia entre los montos entregados a los Municipios en el año anterior y lo que efectivamente les corresponda de acuerdo a la cantidad recaudada en el ejercicio fiscal.
 
-Este apartado del fondo se distribuirá en dos fórmulas la primera será de forma equitativa y la segunda por población con la que cuente cada municipio de acuerdo al último censo de población publicado por el INEGI.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Este apartado del fondo se distribuirá en dos fórmulas, la primera será de forma equitativa y la segunda por población con la que cuente cada municipio de acuerdo a la información oficial más reciente que hubiera dado a conocer el INEGI.
 
 I. La fórmula de repartición de acuerdo al criterio de ingreso mínimo garantizado se asignará un monto fijo anual de $1,000,000.00.
 
@@ -670,3 +708,15 @@ P.O. 26 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 245. SE REFORMA POR MODIFICACIÓN EL PÁRRAFO CUARTO DEL ARTÍCULO 31 DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 067. SE REFORMA LA LEY DE COORDINACIÓN HACENDARÍA DEL ESTADO DE NUEVO LEÓN, SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN SE ADICIONA LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO DÉCIMO NOVENO TRANSITORIO; Y SE REFORMA LA LEY DE ADMINISTRACIÓN FINANCIERA PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2019.
+
+Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para emitir las Reglas Generales a que se refieren los artículos 74, primer párrafo y 139, cuarto párrafo, del Código Fiscal del Estado.
+
+Cuarto.- Se prorroga por un año adicional el plazo para emitir las Reglas Generales a que se refiere el artículo Tercero Transitorio del Decreto Número 330, publicado en el Periódico Oficial del Estado el 29 de diciembre de 2017.
