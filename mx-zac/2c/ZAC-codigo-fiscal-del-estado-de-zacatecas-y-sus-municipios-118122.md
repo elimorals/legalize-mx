@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-y-sus-municipios-118122"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-31"
-last_updated: "2017-12-20"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "ZAC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Código publicado en el Suplemento 16 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -83,11 +81,9 @@ IV. Son empréstitos o financiamientos, los ingresos o recursos que recibe el Es
 
 V. Son ingresos coordinados o de colaboración administrativa, los ingresos que permite la coordinación fiscal federal y estatal, aquellos que obtengan el Estado y sus municipios provenientes de la Ley de Coordinación Fiscal y la Ley de Coordinación y Colaboración Financiera del Estado de Zacatecas y sus Municipios; así como subsidios y transferencias de recursos federales.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LOS RECARGOS, LAS SANCIONES, LOS GASTOS DE EJECUCIÓN Y LA INDEMNIZACIÓN A QUE SE REFIERE EL ARTÍCULO 43 DE ESTE CÓDIGO, SON ACCESORIOS DE LAS CONTRIBUCIONES Y PARTICIPAN DE LA NATURALEZA DE ÉSTAS.
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el artículo 43 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
 ###### ARTÍCULO 4.
 
@@ -103,11 +99,9 @@ IV. La Ley de Catastro para el Estado de Zacatecas;
 
 V. El Reglamento Interior de la Secretaría de Finanzas;
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-VI. LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS;
+VI. La Ley Orgánica del Municipio del Estado de Zacatecas;
 
 VII La Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios;
 
@@ -121,21 +115,17 @@ XI. Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del 
 
 XII. Ley de los Derechos y Defensa del Contribuyente del Estado de Zacatecas y sus Municipios; y
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XIII. LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, Y
+XIII. La Ley Orgánica de la Administración Pública del Estado de Zacatecas, y
 
 XIV. Las demás leyes, reglamentos y disposiciones de carácter fiscal.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 5.
 
-PARA EFECTOS DE ESTE CÓDIGO, EN SINGULAR O PLURAL, SE ENTENDERÁ POR AUTORIDADES FISCALES, LAS CUALES EJERCERÁN SU COMPETENCIA EN EL TERRITORIO DEL ESTADO DE ZACATECAS O EN LA DEMARCACIÓN TERRITORIAL DEL MUNICIPIO, SEGÚN CORRESPONDA:
+Para efectos de este Código, en singular o plural, se entenderá por autoridades fiscales, las cuales ejercerán su competencia en el territorio del Estado de Zacatecas o en la demarcación territorial del Municipio, según corresponda:
 
 I. Las dependencias del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas;
 
@@ -191,11 +181,9 @@ Para determinar el monto de las cantidades a que se refiere el párrafo anterior
 
 Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas con el fin de determinar factores, las mismas deberán calcularse hasta el diezmilésimo. Cuando el diezmilésimo obtenido sea mayor a cinco, se ajustará la decena con un punto hacia arriba, y si es igual o inferior a cinco, la decena quedará como hubiere resultado. El resultado de estas operaciones será el factor aplicable.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-CUANDO DE CONFORMIDAD CON LAS DISPOSICIONES FISCALES SE DEBAN REALIZAR OPERACIONES ARITMÉTICAS CON EL FIN DE DETERMINAR FACTORES, LAS MISMAS DEBERÁN CALCULARSE HASTA EL DIEZMILÉSIMO.
+Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas con el fin de determinar factores, las mismas deberán calcularse hasta el diezmilésimo.
 
 ###### ARTÍCULO 11.
 
@@ -379,11 +367,9 @@ No obstante lo dispuesto en los párrafos anteriores, si el último día del pla
 
 Los contribuyentes que realicen la presentación de declaraciones, avisos o promuevan cualquier trámite por medios electrónicos, a través de la página electrónica de la Secretaría de Finanzas, y los municipios que cuenten con la página respectiva, en día inhábil, se tendrán por presentados el día hábil siguiente.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LO DISPUESTO EN ESTE ARTÍCULO ES APLICABLE, INCLUSIVE CUANDO SE AUTORICE A LAS INSTITUCIONES BANCARIAS PARA RECIBIR DECLARACIONES.
+Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones bancarias para recibir declaraciones.
 
 ###### ARTÍCULO 28.
 
@@ -393,11 +379,9 @@ Cuando en las actas que se formulen exista constancia de ello, las diligencias d
 
 Las autoridades fiscales para la práctica de requerimientos de documentación, visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles, podrán habilitar los días y horas inhábiles mediante la emisión de orden fundada y motivada que deberá notificarse a la persona con quien se entienda la diligencia.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LAS AUTORIDADES FISCALES PODRÁN HABILITAR LOS DÍAS INHÁBILES. ESTA CIRCUNSTANCIA DEBERÁ NOTIFICARSE A LOS PARTICULARES Y NO ALTERARÁN EL CÓMPUTO DE PLAZOS.
+Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá notificarse a los particulares y no alterarán el cómputo de plazos.
 
 ###### ARTÍCULO 29.
 
@@ -605,11 +589,9 @@ Tratándose de bienes o servicios que se ofrezcan para pago de créditos fiscale
 
 Cuando las contribuciones se paguen con cheque certificados o de caja, éste deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable y su importe deberá abonarse exclusivamente en la cuenta bancaria de la autoridad.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-PARA EFECTOS DEL PÁRRAFO ANTERIOR, EL CHEQUE MEDIANTE EL CUAL SE PAGUEN LAS CONTRIBUCIONES Y SUS ACCESORIOS DEBERÁ EXPEDIRSE A FAVOR DE LA SECRETARÍA DE FINANZAS O DE LA TESORERÍA MUNICIPAL.
+Para efectos del párrafo anterior, el cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a favor de la Secretaría de Finanzas o de la Tesorería Municipal.
 
 El pago de créditos fiscales podrá realizarse con cheques efectivos personales del contribuyente, por conducto de los notificadores ejecutores en el momento de realizarse cualquier diligencia del procedimiento administrativo de ejecución. En el acta respectiva se harán constar los datos de identificación y valor del cheque, así como el número del recibo oficial que se expida.
 
@@ -711,13 +693,11 @@ VII. La clave pública del titular del certificado.
 
 Cuando se trate de certificados emitidos por prestadores de servicios de certificación autorizados por la Secretaría de la Función Pública, que amparen datos de creación de firmas electrónicas que se utilicen para los efectos fiscales, dichos certificados deberán reunir los requisitos a que se refieren las fracciones anteriores, con excepción del señalado en la fracción III de este artículo. En sustitución del requisito contenido en dicha fracción, el certificado deberá contener la identificación del prestador de servicios de certificación y su dirección electrónica, así como los requisitos que para su control establezca la Secretaría de Finanzas, mediante reglas de carácter general.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 49.
 
-LOS CERTIFICADOS QUE EMITA LA SECRETARÍA DE FINANZAS U OTRAS AUTORIDADES FISCALES, QUEDARÁN SIN EFECTOS CUANDO:
+Los certificados que emita la Secretaría de Finanzas u otras autoridades fiscales, quedarán sin efectos cuando:
 
 I. Lo solicite el firmante;
 
@@ -903,11 +883,9 @@ Toda promoción que se presente ante las autoridades fiscales, deberá estar fir
 
 Cuando se promueva a través de medios electrónicos deberá utilizarse la firma electrónica avanzada que corresponda al interesado de acuerdo con las disposiciones de este Código.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-TRATÁNDOSE DE LAS PROMOCIONES DE CONTRIBUYENTES UBICADOS DENTRO DEL RÉGIMEN DE INCORPORACIÓN FISCAL, LA SECRETARÍA DE FIANZAS SERÁ LA ENCARGADA DE GENERAR UN CERTIFICADO PARA ESTOS CONTRIBUYENTES CON LA FINALIDAD DE REALIZAR LA AUTENTIFICACIÓN DE SUS PROMOCIONES.
+Tratándose de las promociones de contribuyentes ubicados dentro del Régimen de Incorporación Fiscal, la Secretaría de Fianzas será la encargada de generar un certificado para estos contribuyentes con la finalidad de realizar la autentificación de sus promociones.
 
 ###### ARTÍCULO 56.
 
@@ -1003,11 +981,9 @@ Cuando la autoridad requiera al promovente para que cumpla los requisitos que hu
 
 A fin de realizar las aclaraciones pertinentes sin ejercer los medios de impugnación previstos en las disposiciones legales, los particulares podrán acudir mediante escrito libre que entregarán personalmente ante las autoridades fiscales, dentro de un plazo de seis días siguientes a aquél en que haya surtido efectos la notificación de las resoluciones a que se refieren los articulos 115 y 155 de este Código, así como en los demás casos que las autoridades fiscales determinen.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LA PROMOCIÓN REALIZADA EN TÉRMINOS DEL PÁRRAFO ANTERIOR, DEBERÁ SER RESUELTA POR LAS AUTORIDADES FISCALES EN UN PLAZO DE QUINCE DÍAS CONTADOS A PARTIR DE AQUÉL EN QUE SE HUBIESE PRESENTADO CONJUNTAMENTE CON LA INFORMACIÓN Y DOCUMENTOS QUE LAS PROPIAS AUTORIDADES FISCALES HAYAN ESTABLECIDO.
+La promoción realizada en términos del párrafo anterior, deberá ser resuelta por las autoridades fiscales en un plazo de quince días contados a partir de aquél en que se hubiese presentado conjuntamente con la información y documentos que las propias autoridades fiscales hayan establecido.
 
 Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por las autoridades fiscales en términos de este artículo sólo podrán ser impugnadas por los particulares, conjuntamente con el medio de defensa que se intente contra la resolución primigenia de la que derivó su solicitud.
 
@@ -1015,9 +991,7 @@ Las autoridades fiscales cancelarán los requerimientos que hayan formulado a lo
 
 Si el documento respectivo se exhibe en el momento de la diligencia de notificación del requerimiento, el notificador ejecutor suspenderá la citada diligencia, tomará nota circunstanciada de dicho documento y dará cuenta al titular de la oficina requirente de la solicitud de cancelación. Dicho titular resolverá sobre la cancelación del requerimiento o de la multa, en su caso. Si el documento exhibido no fuere el idóneo, se repetirá la diligencia en la forma que proceda.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 63.
 
@@ -1037,11 +1011,9 @@ En el supuesto de que las solicitudes, declaraciones y avisos se presenten de ma
 
 Tratándose de los créditos fiscales establecidos en cantidad líquida por las autoridades fiscales como consecuencia del ejercicio de sus facultades de comprobación, determinación o sancionadoras, deberán pagarse junto con sus accesorios, dentro de los quince días hábiles siguientes a aquél en que surta efectos su notificación, o garantizarse cuando se solicite plazo para el pago en parcialidades, o en cualquier otro caso que expresamente se prevea en las disposiciones fiscales.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-LAS CONTRIBUCIONES OMITIDAS QUE LAS AUTORIDADES FISCALES DETERMINEN EN CANTIDAD LÍQUIDA COMO CONSECUENCIA DEL EJERCICIO DE SUS FACULTADES DE COMPROBACIÓN, ASÍ COMO LOS DEMÁS CRÉDITOS FISCALES, DEBERÁN PAGARSE O GARANTIZARSE CONJUNTAMENTE CON SUS ACCESORIOS, DENTRO DE LOS 15 DÍAS HÁBILES SIGUIENTES A AQUEL EN EL QUE HAYA SURTIDO EFECTO SU NOTIFICACIÓN.
+Las contribuciones omitidas que las autoridades fiscales determinen en cantidad líquida como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse conjuntamente con sus accesorios, dentro de los 15 días hábiles siguientes a aquel en el que haya surtido efecto su notificación.
 
 Cuando la obligación de pago del crédito fiscal derive de una responsabilidad solidaria por disposición de ley, las autoridades fiscales previamente a la notificación de la resolución que lo determina en cantidad líquida, deberán correr traslado al responsable solidario de los procedimientos realizados en el ejercicio de sus facultades de comprobación.
 
@@ -1057,13 +1029,11 @@ Cuando las autoridades fiscales hubiesen iniciado el ejercicio de sus facultades
 
 Asimismo, si después de haberse presentado dos o más declaraciones complementarias a la original, se pretenden presentar otras declaraciones complementarias en las que se modifiquen conceptos que originen el pago de lo indebido del contribuyente o tengan efectos que reduzcan las cargas tributarias de éste, deberá proporcionarse la información y, en su caso, anexarse a éstas los documentos que acrediten la existencia y veracidad de tales operaciones.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 67.
 
-LAS PERSONAS QUE CONFORME A LAS DISPOSICIONES FISCALES TENGAN OBLIGACIÓN DE PRESENTAR SOLICITUDES EN MATERIA DE REGISTRO ESTATAL O MUNICIPAL DE CONTRIBUYENTES, AVISOS O INFORMES, ANTE LAS AUTORIDADES FISCALES, LO HARÁN EN LAS FORMAS IMPRESAS QUE SIENDO APROBADAS POR LAS AUTORIDADES FISCALES ESTATALES O MUNICIPALES, SEGÚN SEA EL CASO, Y HAYAN SIDO PUBLICADAS EN EL PERIÓDICO OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO O EN LAS GACETAS MUNICIPALES, DEBIENDO PROPORCIONAR EL NÚMERO DE EJEMPLARES, LOS DATOS E INFORMES Y LOS DOCUMENTOS QUE DICHAS FORMAS REQUIERAN; O BIEN, DEBERÁN HACERLO MEDIANTE DOCUMENTO DIGITAL CUANDO ASÍ LO ESTABLEZCAN LAS MENCIONADAS AUTORIDADES FISCALES.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro estatal o municipal de contribuyentes, avisos o informes, ante las autoridades fiscales, lo harán en las formas impresas que siendo aprobadas por las autoridades fiscales estatales o municipales, según sea el caso, y hayan sido publicadas en el Periódico Oficial, Órgano del Gobierno del Estado o en las gacetas municipales, debiendo proporcionar el número de ejemplares, los datos e informes y los documentos que dichas formas requieran; o bien, deberán hacerlo mediante documento digital cuando así lo establezcan las mencionadas autoridades fiscales.
 
 Tratándose de declaraciones que tengan obligación de presentar los contribuyentes ante la Secretaría de Finanzas, aun cuando no exista cantidad a pagar, éstas deberán presentarse invariablemente a través de los medios electrónicos que establezca, mediante reglas de carácter general, la propia Secretaría de Finanzas.
 
@@ -1223,9 +1193,27 @@ Los avisos de apertura o cierre de establecimientos o locales se presentarán an
 
 #### SECCIÓN IV. De las devoluciones y compensaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 81.
 
-Las autoridades fiscales devolverán a los particulares, las cantidades pagadas indebidamente y las que procedan conforme a las leyes fiscales. En caso de contribuciones que se hubieran retenido o recaudado a terceros, la devolución deberá ser solicitada y sólo se efectuará a los contribuyentes a quienes se les hubiera retenido o recaudado la contribución de que se trate.
+Las autoridades fiscales devolverán a los particulares, las cantidades pagadas indebidamente y las que procedan conforme a las leyes fiscales, siempre que:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. Medie gestión de parte interesada, salvo en el caso de devoluciones que se deban efectuar en cumplimiento a actos de autoridades jurisdiccionales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. El contribuyente no adeude otros créditos fiscales, en cuyo caso, la cantidad solicitada en devolución se aplicará a éstos de manera oficiosa; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. La acción de devolución no esté prescrita.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En caso de contribuciones que se hubieran retenido o recaudado a terceros, la devolución deberá ser solicitada y sólo se efectuará a los contribuyentes a quienes se les hubiera retenido o recaudado la contribución de que se trate.
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución en los términos de este artículo, nace cuando dicho acto se anule.
 
@@ -1581,13 +1569,11 @@ Las autoridades fiscales, sin contravenir las normas establecidas en las leyes f
 
 Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, las autoridades fiscales, con el objeto de facilitar el cumplimiento de las obligaciones, así como para allegarse de la información necesaria en materia de estadística de ingresos, podrá establecer por medio de disposiciones de carácter general que la información se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 111.
 
-LAS RESOLUCIONES ADMINISTRATIVAS DE CARÁCTER INDIVIDUAL FAVORABLES A UN PARTICULAR SÓLO PODRÁN SER MODIFICADAS POR EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS MEDIANTE JUICIO INICIADO POR LAS AUTORIDADES FISCALES.
+Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal de Justicia Administrativa del Estado de Zacatecas mediante juicio iniciado por las autoridades fiscales.
 
 Las autoridades fiscales podrán, a petición de los interesados, revisar discrecionalmente las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente, y en el supuesto que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, o que existe afectación a los derechos humanos de los contribuyentes, podrán por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, y siempre que no se hubiera interpuesto el recurso de revocación previsto en este Código y hubieren quedado firmes, mediante resolución fundada y motivada.
 
@@ -1613,9 +1599,7 @@ Las autoridades fiscales aplicarán la medida de apremio prevista en la fracció
 
 No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 113.
 
@@ -1743,41 +1727,29 @@ V. Realizar en términos de los Convenios de Colaboración Administrativa en Mat
 
 VI. Recabar de los funcionarios públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones; y
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+VII. Allegarse las pruebas necesarias para formular la denuncia o querella ante el Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la ley relativa concede a las actas levantadas ante el Ministerio Público; y los abogados de las autoridades fiscales que designen para tales efectos, serán asesores jurídicos de ésta, en los términos del Código Nacional de Procedimientos Penales, así como en los lugares donde se aplique el Código de Procedimientos Penales para el Estado de Zacatecas y el Código Procesal Penal para el Estado.
 
-VII. ALLEGARSE LAS PRUEBAS NECESARIAS PARA FORMULAR LA DENUNCIA O QUERELLA ANTE EL MINISTERIO PÚBLICO PARA QUE EJERCITE LA ACCIÓN PENAL POR LA POSIBLE COMISIÓN DE DELITOS FISCALES. LAS ACTUACIONES QUE PRACTIQUEN LAS AUTORIDADES FISCALES TENDRÁN EL MISMO VALOR PROBATORIO QUE LA LEY RELATIVA CONCEDE A LAS ACTAS LEVANTADAS ANTE EL MINISTERIO PÚBLICO; Y LOS ABOGADOS DE LAS AUTORIDADES FISCALES QUE DESIGNEN PARA TALES EFECTOS, SERÁN ASESORES JURÍDICOS DE ÉSTA, EN LOS TÉRMINOS DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, ASÍ COMO EN LOS LUGARES DONDE SE APLIQUE EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS Y EL CÓDIGO PROCESAL PENAL PARA EL ESTADO.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VIII. Practicar revisiones electrónicas, en cumplimiento a las disposiciones fiscales aplicables;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VIII. PRACTICAR REVISIONES ELECTRÓNICAS, EN CUMPLIMIENTO A LAS DISPOSICIONES FISCALES APLICABLES;
+IX. De conformidad con los convenios de colaboración que al efecto se celebren entre las autoridades fiscales y la Federación, llevar a cabo el procedimiento establecido en el Código Fiscal de la Federación en aquellos casos en los que detecte que un contribuyente ha estado emitiendo comprobantes fiscales sin contar con los activos, personal, infraestructura o capacidad material, directa o indirectamente, para prestar los servicios o producir, comercializar o entregar los bienes que amparan tales comprobantes, o bien, que dichos contribuyentes se encuentren no localizados, se presumirá la inexistencia de las operaciones amparadas en tales comprobante;
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+X. Imponer la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días, cuando incurra en reincidencia por no expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por internet de sus actividades cuando las disposiciones fiscales lo establezcan, o expedirlos sin que cumplan los requisitos señalados en el Código Fiscal de la Federación, su reglamento y en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria;
 
-IX. DE CONFORMIDAD CON LOS CONVENIOS DE COLABORACIÓN QUE AL EFECTO SE CELEBREN ENTRE LAS AUTORIDADES FISCALES Y LA FEDERACIÓN, LLEVAR A CABO EL PROCEDIMIENTO ESTABLECIDO EN EL CÓDIGO FISCAL DE LA FEDERACIÓN EN AQUELLOS CASOS EN LOS QUE DETECTE QUE UN CONTRIBUYENTE HA ESTADO EMITIENDO COMPROBANTES FISCALES SIN CONTAR CON LOS ACTIVOS, PERSONAL, INFRAESTRUCTURA O CAPACIDAD MATERIAL, DIRECTA O INDIRECTAMENTE, PARA PRESTAR LOS SERVICIOS O PRODUCIR, COMERCIALIZAR O ENTREGAR LOS BIENES QUE AMPARAN TALES COMPROBANTES, O BIEN, QUE DICHOS CONTRIBUYENTES SE ENCUENTREN NO LOCALIZADOS, SE PRESUMIRÁ LA INEXISTENCIA DE LAS OPERACIONES AMPARADAS EN TALES COMPROBANTE;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XI. Revisar los dictámenes formulados por contadores públicos inscritos sobre los estados financieros de los contribuyentes y sobre las operaciones de enajenación de acciones que realicen, así como cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público inscrito y su relación con el cumplimiento de disposiciones fiscales, observando para tal efecto lo previsto en el Convenio de Colaboración Administrativa en Materia Fiscal Federal que se celebre entre el Gobierno Federal y el Gobierno del Estado de Zacatecas, en el Código Fiscal de la Federación, su Reglamento y demás disposiciones fiscales federales aplicables;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-X. IMPONER LA CLAUSURA PREVENTIVA DEL ESTABLECIMIENTO DEL CONTRIBUYENTE POR UN PLAZO DE 3 A 15 DÍAS, CUANDO INCURRA EN REINCIDENCIA POR NO EXPEDIR, NO ENTREGAR O NO PONER A DISPOSICIÓN DE LOS CLIENTES LOS COMPROBANTES FISCALES DIGITALES POR INTERNET DE SUS ACTIVIDADES CUANDO LAS DISPOSICIONES FISCALES LO ESTABLEZCAN, O EXPEDIRLOS SIN QUE CUMPLAN LOS REQUISITOS SEÑALADOS EN EL CÓDIGO FISCAL DE LA FEDERACIÓN, SU REGLAMENTO Y EN LAS REGLAS DE CARÁCTER GENERAL QUE AL EFECTO EMITA EL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA;
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XI. REVISAR LOS DICTÁMENES FORMULADOS POR CONTADORES PÚBLICOS INSCRITOS SOBRE LOS ESTADOS FINANCIEROS DE LOS CONTRIBUYENTES Y SOBRE LAS OPERACIONES DE ENAJENACIÓN DE ACCIONES QUE REALICEN, ASÍ COMO CUALQUIER OTRO DICTAMEN QUE TENGA REPERCUSIÓN PARA EFECTOS FISCALES FORMULADO POR CONTADOR PÚBLICO INSCRITO Y SU RELACIÓN CON EL CUMPLIMIENTO DE DISPOSICIONES FISCALES, OBSERVANDO PARA TAL EFECTO LO PREVISTO EN EL CONVENIO DE COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL FEDERAL QUE SE CELEBRE ENTRE EL GOBIERNO FEDERAL Y EL GOBIERNO DEL ESTADO DE ZACATECAS, EN EL CÓDIGO FISCAL DE LA FEDERACIÓN, SU REGLAMENTO Y DEMÁS DISPOSICIONES FISCALES FEDERALES APLICABLES;
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XII. INFORMAR AL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, DE LAS IRREGULARIDADES COMETIDAS POR CONTADORES PÚBLICOS INSCRITOS AL FORMULAR DICTÁMENES SOBRE LOS ESTADOS FINANCIEROS DE LOS CONTRIBUYENTES O RESPECTO DE OPERACIONES DE ENAJENACIÓN DE ACCIONES, O DE CUALQUIER OTRO TIPO DE DICTAMEN QUE TENGA REPERCUSIÓN PARA EFECTOS FISCALES, DE QUE TENGAN CONOCIMIENTO CON MOTIVO DE SUS ACTUACIONES Y QUE AMERITEN AMONESTAR AL CONTADOR PÚBLICO INSCRITO, O BIEN, SUSPENDER O CANCELAR SU REGISTRO POR NO CUMPLIR CON LAS DISPOSICIONES FISCALES Y PROPONER A DICHA AUTORIDAD LA AMONESTACIÓN AL CONTADOR PÚBLICO INSCRITO O LA SUSPENSIÓN O CANCELACIÓN DEL REGISTRO CORRESPONDIENTE.
+XII. Informar al Servicio de Administración Tributaria, de las irregularidades cometidas por contadores públicos inscritos al formular dictámenes sobre los estados financieros de los contribuyentes o respecto de operaciones de enajenación de acciones, o de cualquier otro tipo de dictamen que tenga repercusión para efectos fiscales, de que tengan conocimiento con motivo de sus actuaciones y que ameriten amonestar al contador público inscrito, o bien, suspender o cancelar su registro por no cumplir con las disposiciones fiscales y proponer a dicha autoridad la amonestación al contador público inscrito o la suspensión o cancelación del registro correspondiente.
 
 El ejercicio de las facultades a que se refiere este artículo, podrán ser realizadas por las autoridades fiscales de forma simultánea, indistinta o sucesiva y, en cada caso, se considerarán iniciadas con el primer acto que se notifique al contribuyente.
 
@@ -1853,39 +1825,29 @@ Para los efectos de la autorización a que se refiere el artículo anterior se e
 
 I. Tratándose de la autorización del pago en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir al crédito correspondiente el pago realizado, que no deberá ser menor del 20 por ciento.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+El monto de cada una de las parcialidades deberá ser igual, y pagadas en forma mensual y sucesiva, para lo cual se tomará como base el saldo del párrafo anterior, el plazo elegido por el contribuyente en su solicitud de autorización de pago a plazos, y la tasa mensual de recargos por prórroga que incluye actualización de acuerdo con la Ley de Ingresos del Estado vigente en la fecha de la solicitud de autorización de pago a plazos o en parcialidades.
 
-EL MONTO DE CADA UNA DE LAS PARCIALIDADES DEBERÁ SER IGUAL, Y PAGADAS EN FORMA MENSUAL Y SUCESIVA, PARA LO CUAL SE TOMARÁ COMO BASE EL SALDO DEL PÁRRAFO ANTERIOR, EL PLAZO ELEGIDO POR EL CONTRIBUYENTE EN SU SOLICITUD DE AUTORIZACIÓN DE PAGO A PLAZOS, Y LA TASA MENSUAL DE RECARGOS POR PRÓRROGA QUE INCLUYE ACTUALIZACIÓN DE ACUERDO CON LA LEY DE INGRESOS DEL ESTADO VIGENTE EN LA FECHA DE LA SOLICITUD DE AUTORIZACIÓN DE PAGO A PLAZOS O EN PARCIALIDADES.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas actualizadas, de conformidad con los artículos 8, 10 y 11 de este Código, por el número de meses o fracción de mes, desde la fecha en que se debió realizar el pago y hasta que éste se efectúe;
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-CUANDO NO SE PAGUEN OPORTUNAMENTE LOS MONTOS DE LOS PAGOS EN PARCIALIDADES AUTORIZADOS, EL CONTRIBUYENTE ESTARÁ OBLIGADO A PAGAR RECARGOS POR LOS PAGOS EXTEMPORÁNEOS SOBRE EL MONTO TOTAL DE LAS PARCIALIDADES NO CUBIERTAS ACTUALIZADAS, DE CONFORMIDAD CON LOS ARTÍCULOS 8, 10 Y 11 DE ESTE CÓDIGO, POR EL NÚMERO DE MESES O FRACCIÓN DE MES, DESDE LA FECHA EN QUE SE DEBIÓ REALIZAR EL PAGO Y HASTA QUE ÉSTE SE EFECTÚE;
+II. Tratándose de la autorización del pago de forma diferida, el monto que en su caso se diferirá será el resultado de restar al pago correspondiente el pago realizado, que no deberá ser menor del 20 por ciento, al pago parcial del adeudo determinado en términos de la fracción II del artículo 123 de este Código.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+El monto a liquidar por el contribuyente, se calculará adicionando al monto referido en el párrafo anterior, la cantidad que resulte de multiplicar la tasa de recargos por prórroga que incluye actualización de acuerdo con la Ley de Ingresos del Estado, vigente en la fecha de la solicitud de autorización de pago en forma diferida, por el número de meses, o fracción de mes transcurridos desde la fecha de la solicitud de pago en forma diferida y hasta la fecha señalada por el contribuyente para liquidar su adeudo y por el monto que se diferirá.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago diferido;
 
-II. TRATÁNDOSE DE LA AUTORIZACIÓN DEL PAGO DE FORMA DIFERIDA, EL MONTO QUE EN SU CASO SE DIFERIRÁ SERÁ EL RESULTADO DE RESTAR AL PAGO CORRESPONDIENTE EL PAGO REALIZADO, QUE NO DEBERÁ SER MENOR DEL 20 POR CIENTO, AL PAGO PARCIAL DEL ADEUDO DETERMINADO EN TÉRMINOS DE LA FRACCIÓN II DEL ARTÍCULO 123 DE ESTE CÓDIGO.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-EL MONTO A LIQUIDAR POR EL CONTRIBUYENTE, SE CALCULARÁ ADICIONANDO AL MONTO REFERIDO EN EL PÁRRAFO ANTERIOR, LA CANTIDAD QUE RESULTE DE MULTIPLICAR LA TASA DE RECARGOS POR PRÓRROGA QUE INCLUYE ACTUALIZACIÓN DE ACUERDO CON LA LEY DE INGRESOS DEL ESTADO, VIGENTE EN LA FECHA DE LA SOLICITUD DE AUTORIZACIÓN DE PAGO EN FORMA DIFERIDA, POR EL NÚMERO DE MESES, O FRACCIÓN DE MES TRANSCURRIDOS DESDE LA FECHA DE LA SOLICITUD DE PAGO EN FORMA DIFERIDA Y HASTA LA FECHA SEÑALADA POR EL CONTRIBUYENTE PARA LIQUIDAR SU ADEUDO Y POR EL MONTO QUE SE DIFERIRÁ.
+III. Una vez recibida la solicitud de autorización de pago en parcialidades de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80 por ciento del monto total del adeudo al que se hace referencia en la fracción II del artículo 123 de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo con lo dispuesto en las fracciones I y II de este artículo.
 
-EL MONTO PARA LIQUIDAR EL ADEUDO A QUE SE HACE REFERENCIA EN EL PÁRRAFO ANTERIOR, DEBERÁ CUBRIRSE EN UNA SOLA EXHIBICIÓN A MÁS TARDAR EN LA FECHA DE PAGO ESPECIFICADA POR EL CONTRIBUYENTE EN SU SOLICITUD DE AUTORIZACIÓN DE PAGO DIFERIDO;
+La autoridad podrá dispensar la garantía del interés fiscal, siempre y cuando el plazo elegido no exceda de seis meses y, el contribuyente no tenga bienes para garantizar el crédito fiscal; y se autorice el cargo a su cuenta bancaria de forma domiciliada.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-III. UNA VEZ RECIBIDA LA SOLICITUD DE AUTORIZACIÓN DE PAGO EN PARCIALIDADES DE LAS CONTRIBUCIONES OMITIDAS Y DE SUS ACCESORIOS, LA AUTORIDAD EXIGIRÁ LA GARANTÍA DEL INTERÉS FISCAL EN RELACIÓN AL 80 POR CIENTO DEL MONTO TOTAL DEL ADEUDO AL QUE SE HACE REFERENCIA EN LA FRACCIÓN II DEL ARTÍCULO 123 DE ESTE CÓDIGO, MÁS LA CANTIDAD QUE RESULTE DE APLICAR LA TASA DE RECARGOS POR PRÓRROGA Y POR EL PLAZO SOLICITADO DE ACUERDO CON LO DISPUESTO EN LAS FRACCIONES I Y II DE ESTE ARTÍCULO.
-
-LA AUTORIDAD PODRÁ DISPENSAR LA GARANTÍA DEL INTERÉS FISCAL, SIEMPRE Y CUANDO EL PLAZO ELEGIDO NO EXCEDA DE SEIS MESES Y, EL CONTRIBUYENTE NO TENGA BIENES PARA GARANTIZAR EL CRÉDITO FISCAL; Y SE AUTORICE EL CARGO A SU CUENTA BANCARIA DE FORMA DOMICILIADA.
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-IV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTÍCULO 126.
 
@@ -2053,17 +2015,13 @@ Para el desarrollo de la diligencia de visita domiciliaria la autoridad fiscal, 
 
 I. La visita se realizará en el lugar o lugares señalados en la orden de visita;
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+II. Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante legal, dejarán citatorio con la persona que se encuentre en dicho lugar para que el contribuyente o su representante legal los esperen a la hora determinada del día hábil siguiente para recibir la orden de visita; si hicieren caso omiso al citatorio, la visita se iniciará con quien se encuentre en el lugar de visita señalado en la orden respectiva.
 
-II. SI AL PRESENTARSE LOS VISITADORES AL LUGAR EN DONDE DEBA PRACTICARSE LA DILIGENCIA, NO ESTUVIERE EL VISITADO O SU REPRESENTANTE LEGAL, DEJARÁN CITATORIO CON LA PERSONA QUE SE ENCUENTRE EN DICHO LUGAR PARA QUE EL CONTRIBUYENTE O SU REPRESENTANTE LEGAL LOS ESPEREN A LA HORA DETERMINADA DEL DÍA HÁBIL SIGUIENTE PARA RECIBIR LA ORDEN DE VISITA; SI HICIEREN CASO OMISO AL CITATORIO, LA VISITA SE INICIARÁ CON QUIEN SE ENCUENTRE EN EL LUGAR DE VISITA SEÑALADO EN LA ORDEN RESPECTIVA.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-SI EL CONTRIBUYENTE, EL SUJETO DE LA VISITA DOMICILIARIA O SU REPRESENTANTE LEGAL, PRESENTA AVISO DE CAMBIO DE DOMICILIO DESPUÉS DE RECIBIDO EL CITATORIO, LA VISITA PODRÁ LLEVARSE A CABO EN EL NUEVO DOMICILIO MANIFESTADO POR EL CONTRIBUYENTE Y EN EL ANTERIOR, CUANDO EL CONTRIBUYENTE VISITADO CONSERVE EL LOCAL DE ÉSTE, SIN QUE PARA ELLO SE REQUIERA NUEVA ORDEN O AMPLIACIÓN DE LA ORDEN DE VISITA, HACIENDO CONSTAR TALES HECHOS EN EL ACTA QUE LEVANTEN, SALVO QUE EN EL DOMICILIO ANTERIOR SE VERIFIQUE ALGUNO DE LOS SUPUESTOS ESTABLECIDOS EN EL ARTÍCULO 26 DE ESTE CÓDIGO, CASO EN EL CUAL LA VISITA SE CONTINUARÁ EN EL DOMICILIO ANTERIOR.
+Si el contribuyente, el sujeto de la visita domiciliaria o su representante legal, presenta aviso de cambio de domicilio después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio manifestado por el contribuyente y en el anterior, cuando el contribuyente visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que levanten, salvo que en el domicilio anterior se verifique alguno de los supuestos establecidos en el artículo 26 de este Código, caso en el cual la visita se continuará en el domicilio anterior.
 
 Cuando después de notificada la orden con una persona distinta de aquélla a quien fue dirigida existiere peligro que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la visita, los visitadores podrán proceder al aseguramiento de contabilidad o de bienes del contribuyente; y
 
@@ -2207,13 +2165,9 @@ Se entiende que la visita de inspección concluye con el levantamiento del acta 
 
 En el caso que se hubiere clausurado el establecimiento por existir causa justificada, el levantamiento de dicha clausura estará sujeto a las disposiciones que para ello sean aplicables.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-###### ARTÍCULO 146 Bis.
-
-Las autoridades fiscales deberán emitir las resoluciones que correspondan por las irregularidades y omisiones que hubieren conocido dentro del ejercicio de sus facultades de comprobación previstas en las fracciones II y III del artículo 120 de este Código, dentro de un plazo que no podrá exceder de seis meses, contados a partir de que se hubiere notificado el acta final en el caso de visita domiciliaria, o de que venza el plazo del contribuyente para desvirtuar los hechos u omisiones asentados en el oficio de observaciones respecto de las revisiones en las oficinas de la autoridad.
+ARTÍCULO 146 BIS. Las autoridades fiscales deberán emitir las resoluciones que correspondan por las irregularidades y omisiones que hubieren conocido dentro del ejercicio de sus facultades de comprobación previstas en las fracciones II y III del artículo 120 de este Código, dentro de un plazo que no podrá exceder de seis meses, contados a partir de que se hubiere notificado el acta final en el caso de visita domiciliaria, o de que venza el plazo del contribuyente para desvirtuar los hechos u omisiones asentados en el oficio de observaciones respecto de las revisiones en las oficinas de la autoridad.
 
 El plazo señalado en el párrafo anterior se suspenderá si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad en las oficinas de las propias autoridades, si se actualiza alguna de las hipótesis establecidas en las fracciones I, II y III del artículo 143 de este Código y cuando el contribuyente durante el plazo para emitir la resolución interponga algún medio de defensa, desde la fecha de su interposición y hasta que quede firme la resolución que al mismo hubiere recaído.
 
@@ -2377,13 +2331,9 @@ La Legislatura del Estado también podrá suspender el evento tratándose del Im
 
 Para efecto del artículo anterior, se entiende por evento a toda actividad de esparcimiento que se realice en un espacio donde se congrega el público para presenciarla, sea en teatros, estadios, circos o recintos conforme a la Ley de Hacienda del Estado de Zacatecas llama como diversión y espectáculo público; así como, en rifas, loterías, sorteos y concursos.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-###### ARTÍCULO 158 Bis.
-
-Los contribuyentes podrán solicitar y suscribir la adopción de un acuerdo anticipado de pago, por cuanto hace a una autodeterminación de las contribuciones a pagar por el contribuyente, siempre y cuando no se hayan iniciado facultades de comprobación por parte de las autoridades fiscales.
+ARTÍCULO 158 BIS. Los contribuyentes podrán solicitar y suscribir la adopción de un acuerdo anticipado de pago, por cuanto hace a una autodeterminación de las contribuciones a pagar por el contribuyente, siempre y cuando no se hayan iniciado facultades de comprobación por parte de las autoridades fiscales.
 
 El contribuyente que solicite el acuerdo anticipado de pago, deberá tramitarlo por escrito ante la autoridad fiscal competente para su promoción, cumpliendo las formalidades que para toda promoción se establecen en el artículo 56 de este Código, así como los requisitos establecidos en el artículo 57 de este ordenamiento, así mismo, deberá señalar con toda precisión la autodeterminación de las contribuciones a pagar, por el ejercicio o periodos que adeude o se pretendan pagar. Para el caso de su aprobación por parte de las autoridades fiscales, el acuerdo se ratificará ante la Comisión Estatal de la Defensa del Contribuyente.
 
@@ -2391,61 +2341,37 @@ El acuerdo anticipado de pago, al tramitarse, puede surtir efectos en el ejercic
 
 Las autoridades fiscales resolverán de plano la solicitud planteada y en contra del acuerdo suscrito por el contribuyente y la autoridad no procederá medio de defensa alguno. Los acuerdos de referencia sólo surtirán efectos entre las partes y en ningún caso generarán precedentes.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-###### ARTÍCULO 158 Ter.
-
-Cuando los contribuyentes sean objeto del ejercicio de las facultades de comprobación a que se refiere este Código, y no estén de acuerdo con los hechos u omisiones asentados en la última acta parcial, en el acta final, en el oficio de observaciones o en la resolución provisional, que puedan entrañar incumplimiento de las disposiciones fiscales, podrán optar por solicitar la adopción de un acuerdo conclusivo. Dicho acuerdo podrá versar sobre uno o varios de los hechos u omisiones consignados y será definitivo en cuanto al hecho u omisión sobre el que verse.
+ARTÍCULO 158 TER.- Cuando los contribuyentes sean objeto del ejercicio de las facultades de comprobación a que se refiere este Código, y no estén de acuerdo con los hechos u omisiones asentados en la última acta parcial, en el acta final, en el oficio de observaciones o en la resolución provisional, que puedan entrañar incumplimiento de las disposiciones fiscales, podrán optar por solicitar la adopción de un acuerdo conclusivo. Dicho acuerdo podrá versar sobre uno o varios de los hechos u omisiones consignados y será definitivo en cuanto al hecho u omisión sobre el que verse.
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, los contribuyentes podrán solicitar la adopción del acuerdo conclusivo a partir que dé inicio el ejercicio de facultades de comprobación y hasta antes de que se les notifique la resolución que determine el monto de las contribuciones omitidas, siempre que la autoridad revisora ya haya hecho una calificación de hechos u omisiones.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-###### ARTÍCULO 158 Quáter.
-
-El contribuyente que opte por el acuerdo conclusivo lo tramitará a través de la Comisión Estatal de la Defensa del Contribuyente. En el escrito inicial deberá señalar los hechos u omisiones que se le atribuyen con los cuales no esté de acuerdo, expresando la calificación que, en su opinión, debe darse a los mismos, y podrá adjuntar la documentación que considere necesaria.
+ARTÍCULO 158 QUÁTER.- El contribuyente que opte por el acuerdo conclusivo lo tramitará a través de la Comisión Estatal de la Defensa del Contribuyente. En el escrito inicial deberá señalar los hechos u omisiones que se le atribuyen con los cuales no esté de acuerdo, expresando la calificación que, en su opinión, debe darse a los mismos, y podrá adjuntar la documentación que considere necesaria.
 
 Recibida la solicitud, la Comisión Estatal de la Defensa del Contribuyente requerirá a la autoridad revisora para que, en un plazo de veinte días, contado a partir de que se le notifique el requerimiento, manifieste si acepta o no los términos en que se plantea el acuerdo conclusivo; los fundamentos y motivos por los cuales no se acepta, o bien, exprese los términos en que procedería la adopción de dicho acuerdo.
 
 En caso de que la autoridad revisora no atienda el requerimiento a que se refiere el párrafo anterior procederá la imposición de la multa prevista en el artículo 50, fracción I, inciso a), de la Ley de los Derechos y Defensa del Contribuyente del Estado de Zacatecas y sus Municipios.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-###### ARTÍCULO 158 Quinquies.
-
-La Comisión Estatal de la Defensa del Contribuyente, una vez que acuse recibo de la respuesta de la autoridad fiscal, contará con un plazo de veinte días para concluir el procedimiento a que se refiere esta sección, lo que se notificará a las partes. De concluirse el procedimiento con la suscripción del Acuerdo, éste deberá firmarse por el contribuyente y la autoridad revisora, así como por dicha Comisión.
+ARTÍCULO 158 QUINQUIES.- La Comisión Estatal de la Defensa del Contribuyente, una vez que acuse recibo de la respuesta de la autoridad fiscal, contará con un plazo de veinte días para concluir el procedimiento a que se refiere esta sección, lo que se notificará a las partes. De concluirse el procedimiento con la suscripción del Acuerdo, éste deberá firmarse por el contribuyente y la autoridad revisora, así como por dicha Comisión.
 
 Para mejor proveer a la adopción del acuerdo conclusivo, la Comisión Estatal de la Defensa del Contribuyente podrá convocar a mesas de trabajo, promoviendo en todo momento la emisión consensuada del acuerdo entre autoridad y contribuyente.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+ARTÍCULO 158 SEXIES.- El procedimiento de acuerdo conclusivo suspende los plazos a que se refieren los artículos 131 y 146 Bis de este Código, a partir de que el contribuyente presente ante la Comisión Estatal de la Defensa del Contribuyente la solicitud de acuerdo conclusivo y hasta que se notifique a la autoridad revisora la conclusión del procedimiento previsto en esta Sección.
 
-###### ARTÍCULO 158 Sexies.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-El procedimiento de acuerdo conclusivo suspende los plazos a que se refieren los artículos 131 y 146 Bis de este Código, a partir de que el contribuyente presente ante la Comisión Estatal de la Defensa del Contribuyente la solicitud de acuerdo conclusivo y hasta que se notifique a la autoridad revisora la conclusión del procedimiento previsto en esta Sección.
+ARTÍCULO 158 SEPTIES.- El contribuyente que haya suscrito un acuerdo conclusivo tendrá derecho, por única ocasión, a la condonación del 100 por ciento de las multas; en la segunda y posteriores suscripciones aplicará la condonación de sanciones en los términos y bajo los supuestos que establecen los artículos 164 y 166 de este Código. Las autoridades fiscales deberán tomar en cuenta los alcances del acuerdo conclusivo para, en su caso, emitir la resolución que corresponda. La condonación prevista en este artículo no dará derecho a devolución o compensación alguna.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-###### ARTÍCULO 158 Septies.
-
-El contribuyente que haya suscrito un acuerdo conclusivo tendrá derecho, por única ocasión, a la condonación del 100 por ciento de las multas; en la segunda y posteriores suscripciones aplicará la condonación de sanciones en los términos y bajo los supuestos que establecen los artículos 164 y 166 de este Código. Las autoridades fiscales deberán tomar en cuenta los alcances del acuerdo conclusivo para, en su caso, emitir la resolución que corresponda. La condonación prevista en este artículo no dará derecho a devolución o compensación alguna.
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-###### ARTÍCULO 158 Octies.
-
-En contra de los acuerdos conclusivos alcanzados y suscritos por el contribuyente y la autoridad no procederá medio de defensa alguno; cuando los hechos u omisiones materia del acuerdo sirvan de fundamento a las resoluciones de la autoridad, los mismos serán incontrovertibles. Los acuerdos de referencia sólo surtirán efectos entre las partes y en ningún caso generarán precedentes.
+ARTÍCULO 158 OCTIES.- En contra de los acuerdos conclusivos alcanzados y suscritos por el contribuyente y la autoridad no procederá medio de defensa alguno; cuando los hechos u omisiones materia del acuerdo sirvan de fundamento a las resoluciones de la autoridad, los mismos serán incontrovertibles. Los acuerdos de referencia sólo surtirán efectos entre las partes y en ningún caso generarán precedentes.
 
 Las autoridades fiscales no podrán desconocer los hechos u omisiones sobre los que versó el acuerdo conclusivo, ni procederá el juicio a que se refiere el artículo 63 de este Código, salvo que se compruebe que se trate de hechos falsos.
 
@@ -2563,19 +2489,17 @@ IV. Señalar como domicilio fiscal para efectos del registro estatal o municipal
 
 Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes, documentación, avisos, información o expedir constancias:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, o no hacerlo a través de los medios electrónicos que señale la Secretaría de Finanzas, o presentarlos a requerimiento de las autoridades fiscales; se impondrá una multa de $1,400.00 a $11,250.00.
 
-I. NO PRESENTAR LAS DECLARACIONES, LAS SOLICITUDES, LOS AVISOS O LAS CONSTANCIAS QUE EXIJAN LAS DISPOSICIONES FISCALES, O NO HACERLO A TRAVÉS DE LOS MEDIOS ELECTRÓNICOS QUE SEÑALE LA SECRETARÍA DE FINANZAS, O PRESENTARLOS A REQUERIMIENTO DE LAS AUTORIDADES FISCALES; SE IMPONDRÁ UNA MULTA DE $1,875.00 A $11,250.00.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II. No cumplir los requerimientos de las autoridades fiscales para presentar las declaraciones, las solicitudes, documentación, avisos, información o constancias que exijan las disposiciones fiscales o no hacerlo a través de los medios electrónicos a que se refiere este Código, o cumplirlos fuera de los plazos señalados en los mismos; se impondrán las siguientes multas:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. NO CUMPLIR LOS REQUERIMIENTOS DE LAS AUTORIDADES FISCALES PARA PRESENTAR LAS DECLARACIONES, LAS SOLICITUDES, DOCUMENTACIÓN, AVISOS, INFORMACIÓN O CONSTANCIAS QUE EXIJAN LAS DISPOSICIONES FISCALES O NO HACERLO A TRAVÉS DE LOS MEDIOS ELECTRÓNICOS A QUE SE REFIERE ESTE CÓDIGO, O CUMPLIRLOS FUERA DE LOS PLAZOS SEÑALADOS EN LOS MISMOS; SE IMPONDRÁN LAS SIGUIENTES MULTAS:
-
-a) De $1,875.00 a $3,750.00, para el primer requerimiento;
+a) De $1,400.00 a $3,750.00, para el primer requerimiento;
 
 b) De $3,750.00 a $7,500.00, para el segundo requerimiento; y
 
@@ -2599,15 +2523,27 @@ f) De $1,120.00 a $3,350.00, por no presentar firmadas las declaraciones por el 
 
 g) De $560.00 a $1,520.00, en los demás casos.
 
-IV. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales; se impondrá una multa de $3,750.00 a $7,500.00;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+IV. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales; se impondrá multa de acuerdo a lo siguiente:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-V. NO PAGAR LAS CONTRIBUCIONES DENTRO DEL PLAZO QUE ESTABLECEN LAS DISPOSICIONES FISCALES; SE IMPONDRÁ UNA MULTA DE $1,875.00 A $3,750.00;
+a) Las contribuciones establecidas en el artículo 99 y en el Capítulo Cuarto del Título Segundo, de la Ley de Hacienda del Estado de Zacatecas, de $375.00 a $7,500.00, y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+b) Las demás contribuciones, de $1,875.00 a $7,500.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. No efectuar el pago correcto de las contribuciones en términos de las disposiciones fiscales; se impondrá una multa de $1,750.00 a $3,750.00;
 
 VI. No presentar aviso de cambio de domicilio fiscal o de establecimientos, o presentarlo fuera del plazo que señala el segundo párrafo del artículo 74 de este Código; se impondrá una multa de $7,500.00 a $11,250.00;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VII. En lo referente a la contribución establecida en el artículo 99 de la Ley de Hacienda del Estado de Zacatecas, cuando un vehículo sea registrado en otra entidad federativa y el propietario no presente la documentación que acredite este hecho dentro de los 30 días hábiles siguientes a la realización de este supuesto, se impondrá una multa equivalente de $1,400.00 a $3,750.00.
 
 ###### ARTÍCULO 169.
 
@@ -2835,7 +2771,9 @@ Se impondrá sanción de tres meses a tres años de prisión, a quien:
 
 I. Registre sus operaciones contables en dos o más libros o en dos o más sistemas de contabilidad con diferentes contenidos; y
 
-II. Oculte, altere o destruya, total o parcialmente los sistemas y registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Oculte, altere o destruya, total o parcialmente los sistemas y registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar o, estando obligados a tenerlos no cuente con ellos.
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
@@ -2869,11 +2807,9 @@ En los casos en que derivado de la realización de un procedimiento de los previ
 
 Para efectos de preservar el derecho del Estado y Municipio para percibir los créditos fiscales a que tenga derecho en términos de las disposiciones aplicables, el interés fiscal deberá ser garantizado cuando:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-I. SE SOLICITE LA SUSPENSIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN, INCLUSIVE SI DICHA SUSPENSIÓN SE SOLICITA ANTE EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS;
+I. Se solicite la suspensión del procedimiento administrativo de ejecución, inclusive si dicha suspensión se solicita ante el Tribunal de Justicia Administrativa del Estado de Zacatecas;
 
 II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades; y
 
@@ -3031,11 +2967,9 @@ Los hechos diferentes a que se refiere el párrafo anterior deberán sustentarse
 
 La orden que se emita en los casos previstos en este artículo deberá ser debidamente motivada respecto el objeto de la revisión.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### ARTÍCULO 204.
 
-(DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+(DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 ### CAPÍTULO SEGUNDO. DEL RECURSO ADMINISTRATIVO
 
@@ -3131,11 +3065,9 @@ I. Que no afecten el interés jurídico del recurrente;
 
 II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de sentencias;
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-III. QUE HAYAN SIDO IMPUGNADOS ANTE EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS;
+III. Que hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado de Zacatecas;
 
 IV. Que se hayan consentido, entendiéndose por consentimiento el de aquéllos contra los que no se promovió el recurso en el plazo señalado al efecto;
 
@@ -3313,17 +3245,13 @@ Las notificaciones electrónicas serán emitidas anexando el sello digital corre
 
 Las autoridades fiscales podrán habilitar a terceros para que realicen las notificaciones personales previstas en este Código, las que deberán realizarse cumpliendo con las formalidades establecidas en el mismo.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+Dicha habilitación de terceros se dará a conocer a través del portal electrónico o de la página de Internet de las autoridades fiscales.
 
-DICHA HABILITACIÓN DE TERCEROS SE DARÁ A CONOCER A TRAVÉS DEL PORTAL ELECTRÓNICO O DE LA PÁGINA DE INTERNET DE LAS AUTORIDADES FISCALES.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-PARA LOS EFECTOS DEL ARTÍCULO 135, PRIMER PÁRRAFO DE ESTE CÓDIGO, LOS TERCEROS HABILITADOS PARA REALIZAR LAS NOTIFICACIONES, ESTÁN OBLIGADOS A GUARDAR ABSOLUTA RESERVA DE LOS DATOS DE LOS CONTRIBUYENTES QUE LAS AUTORIDADES FISCALES LES SUMINISTREN PARA ESE FIN, OBSERVANDO EN TODO MOMENTO LOS CONVENIOS DE CONFIDENCIALIDAD SUSCRITOS CON LAS MISMAS.
+Para los efectos del artículo 135, primer párrafo de este Código, los terceros habilitados para realizar las notificaciones, están obligados a guardar absoluta reserva de los datos de los contribuyentes que las Autoridades Fiscales les suministren para ese fin, observando en todo momento los convenios de confidencialidad suscritos con las mismas.
 
 El tercero habilitado podrá designar a los notificadores que en su representación realizarán las notificaciones correspondientes.
 
@@ -3491,11 +3419,9 @@ Los gastos que se originen en un procedimiento administrativo de ejecución vici
 
 Asimismo, las erogaciones que se hagan por concepto de gastos de ejecución que no se justifiquen debidamente, serán a cargo del Jefe de la Oficina Ejecutora que la hubiera autorizado.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-EN EL ÚLTIMO CASO, LAS AUTORIDADES FISCALES DETERMINARÁN LA FORMA Y PLAZO PARA EL REINTEGRO DE LAS CANTIDADES CORRESPONDIENTES.
+En el último caso, las autoridades fiscales determinarán la forma y plazo para el reintegro de las cantidades correspondientes.
 
 ###### Artículo 249.
 
@@ -3571,11 +3497,9 @@ III. Corredores públicos que cuenten con registro vigente ante la Secretaría d
 
 IV. Empresas dedicadas a la compraventa o subasta de bienes, que cuenten con el registro correspondiente; o
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-V. TRATÁNDOSE DE POBLACIONES EN DONDE NO SE CUENTE CON LOS SERVICIOS DE LOS VALUADORES ANTES MENCIONADOS, LOS AVALÚOS SE PODRÁN REALIZAR POR PERSONAS O INSTITUCIONES VERSADAS EN LA MATERIA QUE OBTENGAN AUTORIZACIÓN DE PARTE DE LA SECRETARÍA DE FINANZAS.
+V. Tratándose de poblaciones en donde no se cuente con los servicios de los valuadores antes mencionados, los avalúos se podrán realizar por personas o instituciones versadas en la materia que obtengan autorización de parte de la Secretaría de Finanzas.
 
 Las Autoridades Fiscales en los casos en que proceda y mediante el procedimiento que al efecto se establezca mediante Reglas, podrán solicitar la práctica de un segundo avalúo practicado.
 
@@ -3595,11 +3519,9 @@ También se suspenderá la ejecución del acto que determine un crédito fiscal 
 
 Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y éstos no sean pagados dentro de los treinta días siguientes a la celebración de dicho convenio, o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Asimismo, las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-EN TODOS LOS CASOS, CUANDO HUBIERE NEGATIVA O VIOLACIÓN A LA SUSPENSIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN, LOS INTERESADOS PODRÁN PROMOVER EL INCIDENTE DE SUSPENSIÓN DE LA EJECUCIÓN ANTE EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS QUE CONOZCA DEL JUICIO RESPECTIVO.
+En todos los casos, cuando hubiere negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal de Justicia Administrativa del Estado de Zacatecas que conozca del juicio respectivo.
 
 #### SECCIÓN IV. De la Intervención de Negociaciones
 
@@ -3817,7 +3739,9 @@ La diligencia de requerimiento y, en su caso, la de embargo, deberán sujetarse 
 
 I. Se realizarán cumpliendo las formalidades que se establecen para las notificaciones personales en el Capítulo III del Título Quinto del presente Código;
 
-II. El ejecutor designado por el jefe de la oficina ejecutora deberá constituirse en el domicilio del deudor y deberá identificarse con la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos instrumentales de asistencia, y en caso que se realice el embargo de bienes o negociación, si no lo hiciere los designará el propio ejecutor. Si al concluir la diligencia los testigos designados se negaren a firmar, así lo hará constar en el acta, sin que tales circunstancias afecten la legalidad de las diligencias; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. El ejecutor designado por el jefe de la oficina ejecutora deberá constituirse en el domicilio del deudor o en el lugar donde se encuentren los bienes propiedad del deudor, deberá identificarse con la persona con quien se entienda la diligencia de requerimiento de pago, de embargo de bienes o negociación, requiriéndola para que designe dos testigos instrumentales de asistencia, si no lo hiciere los designará el propio ejecutor. Si al concluir la diligencia los testigos designados se negaren a firmar, así lo hará constar en el acta, sin que tales circunstancias afecten la legalidad de las diligencias; y
 
 III. De las diligencias se levantará acta circunstanciada misma que deberá reunir los requisitos que se establecen en el artículo 114 de este Código, dejando al finalizar la diligencia, un tanto de la misma con firma autógrafa a la persona con quien se entiende ésta.
 
@@ -3891,23 +3815,17 @@ En tanto el crédito fiscal no quede firme, el contribuyente titular de las cuen
 
 Una vez que el crédito fiscal quede firme, si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció otra forma de garantía del interés fiscal suficiente antes que el crédito fiscal quedara firme, la autoridad fiscal mediante resolución fundada y motivada con copia al contribuyente, ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de fondos a la cuenta de la propia autoridad fiscal.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+La autoridad fiscal deberá notificar al contribuyente la transferencia de los recursos, conforme a las disposiciones aplicables, a más tardar al tercer día siguiente a aquel en que se hizo de su conocimiento la referida transferencia.
 
-LA AUTORIDAD FISCAL DEBERÁ NOTIFICAR AL CONTRIBUYENTE LA TRANSFERENCIA DE LOS RECURSOS, CONFORME A LAS DISPOSICIONES APLICABLES, A MÁS TARDAR AL TERCER DÍA SIGUIENTE A AQUEL EN QUE SE HIZO DE SU CONOCIMIENTO LA REFERIDA TRANSFERENCIA.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+La entidad financiera deberá realizar el depósito de las cantidades señaladas por la autoridad fiscal en el plazo de seis días, durante los cuales el contribuyente afectado podrá acudir ante las autoridades fiscales a recurrir en inconformidad por el monto o la cantidad que se hubiere señalado como sujeta a transferencia, en los términos y plazos a que se refiere el párrafo siguiente. En caso que se realice tal impugnación, la autoridad contará con un plazo de tres días para resolver lo que proceda, debiendo notificar de inmediato tanto a la entidad financiera como al contribuyente.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-LA ENTIDAD FINANCIERA DEBERÁ REALIZAR EL DEPÓSITO DE LAS CANTIDADES SEÑALADAS POR LA AUTORIDAD FISCAL EN EL PLAZO DE SEIS DÍAS, DURANTE LOS CUALES EL CONTRIBUYENTE AFECTADO PODRÁ ACUDIR ANTE LAS AUTORIDADES FISCALES A RECURRIR EN INCONFORMIDAD POR EL MONTO O LA CANTIDAD QUE SE HUBIERE SEÑALADO COMO SUJETA A TRANSFERENCIA, EN LOS TÉRMINOS Y PLAZOS A QUE SE REFIERE EL PÁRRAFO SIGUIENTE. EN CASO QUE SE REALICE TAL IMPUGNACIÓN, LA AUTORIDAD CONTARÁ CON UN PLAZO DE TRES DÍAS PARA RESOLVER LO QUE PROCEDA, DEBIENDO NOTIFICAR DE INMEDIATO TANTO A LA ENTIDAD FINANCIERA COMO AL CONTRIBUYENTE.
-
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-SI AL TRANSFERIRSE EL IMPORTE EL CONTRIBUYENTE CONSIDERA QUE ÉSTE ES SUPERIOR AL CRÉDITO FISCAL, EL PARTICULAR DEBERÁ DEMOSTRAR TAL HECHO ANTE LA AUTORIDAD FISCAL COMPETENTE, MEDIANTE PRUEBA DOCUMENTAL QUE ACREDITE TAL SUPUESTO, PARA QUE DICHA AUTORIDAD PROCEDA AL REINTEGRO DE LA CANTIDAD TRANSFERIDA EN EXCESO, EN UN PLAZO NO MAYOR A 20 DÍAS, A PARTIR DE QUE SE NOTIFIQUE LA TRANSFERENCIA DE LOS RECURSOS. SI LAS PRUEBAS APORTADAS POR EL CONTRIBUYENTE NO SON IDÓNEAS PARA DEMOSTRAR EL SUPUESTO, SE LE NOTIFICARÁ DENTRO DEL PLAZO ANTES SEÑALADO, HACIÉNDOLE SABER QUE PUEDE INTERPONER EL RECURSO DE REVOCACIÓN CORRESPONDIENTE, O BIEN, PRESENTAR JUICIO CONTENCIOSO ADMINISTRATIVO ANTE EL ÓRGANO JURISDICCIONAL COMPETENTE.
+Si al transferirse el importe el contribuyente considera que éste es superior al crédito fiscal, el particular deberá demostrar tal hecho ante la autoridad fiscal competente, mediante prueba documental que acredite tal supuesto, para que dicha autoridad proceda al reintegro de la cantidad transferida en exceso, en un plazo no mayor a 20 días, a partir de que se notifique la transferencia de los recursos. Si las pruebas aportadas por el contribuyente no son idóneas para demostrar el supuesto, se le notificará dentro del plazo antes señalado, haciéndole saber que puede interponer el recurso de revocación correspondiente, o bien, presentar juicio contencioso administrativo ante el órgano jurisdiccional competente.
 
 ###### ARTÍCULO 279.
 
@@ -3933,11 +3851,9 @@ IX. Los sueldos y salarios; y
 
 X. Las pensiones de cualquier tipo.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XI. LOS CONTRIBUYENTES, CUYOS INGRESOS EN EL EJERCICIO INMEDIATO ANTERIOR, NO HAYAN SUPERADO UN MONTO EQUIVALENTE A 20 VECES LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN ELEVADO AL AÑO Y GARANTICEN EL INTERÉS FISCAL MEDIANTE EMBARGO EN LA VÍA ADMINISTRATIVA, DEBERÁN SER DESIGNADOS COMO DEPOSITARIOS DE LOS BIENES Y EL EMBARGO NO PODRÁ COMPRENDER LAS MERCANCÍAS QUE INTEGREN EL INVENTARIO CIRCULANTE DEL NEGOCIO.
+XI. Los contribuyentes, cuyos ingresos en el ejercicio inmediato anterior, no hayan superado un monto equivalente a 20 veces la unidad de medida y actualización elevado al año y garanticen el interés fiscal mediante embargo en la vía administrativa, deberán ser designados como depositarios de los bienes y el embargo no podrá comprender las mercancías que integren el inventario circulante del negocio.
 
 ###### ARTÍCULO 280.
 
@@ -4109,11 +4025,9 @@ II. Al quedar firme la resolución confirmatoria del acto impugnado, recaído en
 
 Salvo los casos que este Código autoriza, toda enajenación se hará en subasta pública que se llevará a cabo a través de medios electrónicos, en la página de Internet de la Secretaría de Finanzas, o en la página de Internet del municipio en caso de contar con dicha página, efectuando el pago del depósito, el saldo de la cantidad ofrecida de contado en su postura legal o el que resulte de las mejoras que se hubieren efectuado.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-PARA LOS EFECTOS DE ESTE ARTÍCULO, EN EL PORTAL ELECTRÓNICO O EN LA PÁGINA DE INTERNET DE LAS AUTORIDADES FISCALES SE PODRÁN CONSULTAR LOS BIENES OBJETO DE REMATE, EL VALOR QUE SERVIRÁ DE BASE PARA SU ENAJENACIÓN Y LOS REQUISITOS QUE DEBEN CUMPLIR LOS INTERESADOS PARA PARTICIPAR EN LA SUBASTA PÚBLICA.
+Para los efectos de este artículo, en el portal electrónico o en la página de Internet de las autoridades fiscales se podrán consultar los bienes objeto de remate, el valor que servirá de base para su enajenación y los requisitos que deben cumplir los interesados para participar en la subasta pública.
 
 Los bienes sujetos a remate se encontrarán a la vista del público interesado en los lugares y horarios que se indiquen en la página de Internet de la propia Secretaría.
 
@@ -4319,9 +4233,7 @@ Una vez realizado el pago por el embargado o cuando obtenga resolución o senten
 
 Cuando después de haberse cubierto el crédito fiscal adeudado, o después de su adjudicación a favor del Estado o Municipio, según corresponda, y los respectivos accesorios por gastos de ejecución ordinarios y extraordinarios, existan excedentes del producto obtenido del remate o sobre el valor de adjudicación, éstos se entregarán al deudor conforme al presente Código, salvo que medie orden de autoridad competente.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx).
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 322.
 
@@ -4361,29 +4273,21 @@ Tratándose de vehículos, en el caso de que el afectado, por resolución judici
 
 No procederá el abandono respecto de bienes o mercancías que conforme a los ordenamientos aplicables deban ser puestas a disposición de Autoridades diversas de las fiscales.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx).
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-###### ARTÍCULO 322 Bis.
-
-Cuando los bienes hubieren causado abandono y hubieran transcurrido los plazos a que se refiere el artículo 322 de este Código, la Autoridad Fiscal competente notificará personalmente o por correo certificado si conoce el domicilio del particular o, en caso contrario, por estrados en los términos del artículo 232 de este Código, para que previa la comprobación del cumplimiento del pago de las contribuciones productos o aprovechamientos que adeuden, se le haga del conocimiento que los bienes o mercancías han pasado a ser propiedad de la Hacienda Pública del Estado o del Municipio según corresponda.
+ARTÍCULO 322 BIS.- Cuando los bienes hubieren causado abandono y hubieran transcurrido los plazos a que se refiere el artículo 322 de este Código, la Autoridad Fiscal competente notificará personalmente o por correo certificado si conoce el domicilio del particular o, en caso contrario, por estrados en los términos del artículo 232 de este Código, para que previa la comprobación del cumplimiento del pago de las contribuciones productos o aprovechamientos que adeuden, se le haga del conocimiento que los bienes o mercancías han pasado a ser propiedad de la Hacienda Pública del Estado o del Municipio según corresponda.
 
 Una vez que los bienes pasen a propiedad de la Hacienda Pública las autoridades fiscales, o el órgano competente determinará la disposición o el destino de los bienes.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 323.
 
-LOS PLAZOS DE ABANDONO A QUE SE REFIERE EL ARTÍCULO 322 DE ESTE CÓDIGO, SE INTERRUMPIRÁN:
+Los plazos de abandono a que se refiere el artículo 322 de este Código, se interrumpirán:
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-I. POR LA INTERPOSICIÓN DEL RECURSO ADMINISTRATIVO QUE PREVÉ EL PRESENTE CÓDIGO O LA PRESENTACIÓN DE LA DEMANDA EN EL JUICIO QUE PROCEDA Y OBTENGA LA SUSPENSIÓN RESPECTIVA; Y
+I. Por la interposición del recurso administrativo que prevé el presente Código o la presentación de la demanda en el juicio que proceda y obtenga la suspensión respectiva; y
 
 II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
@@ -4437,7 +4341,7 @@ JORGE MIRANDA CASTRO
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>[N. DE E. MEDIANTE DECRETO 112 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, LA H. LEGISLATURA DEL ESTADO SOMETIÓ DE NUEVA CUENTA LAS REFORMAS DEL DECRETO 273 EN ACATAMIENTO A LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, POR LO QUE SE SUGIERE CONSULTAR EL APARTADO CORRESPONDIENTE DENTRO DE LA CRONOLOGÍA LEGISLATIVA DE ESTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE DICIEMBRE DE 2017.
 
@@ -4448,3 +4352,35 @@ Artículo Único.- Las presentes reformas, adiciones y derogaciones entrarán en
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
 
 ÚNICO.- El presente Decreto entrará en vigor el 1ro. de enero del 2018, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 112.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+PRIMERO. Publíquese en el Periódico Oficial Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente en que haya surtido todos sus efectos en el Estado la declaración de invalidez decretada mediante la Acción de Inconstitucionalidad 12/2018 emitida por la Suprema Corte de Justicia de la Nación.
+
+TERCERO. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 113.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero de 2019, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza a la Secretaría de Finanzas del Gobierno del Estado para expedir los formatos que deberán ser utilizados en su llenado por los Entes Públicos, para la evaluación del impacto presupuestario, de conformidad con lo establecido en el artículo 18-Ter de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, mismos que deberá actualizar la propia Secretaría.
+
+###### ARTÍCULO TERCERO.
+
+El Impuesto establecido en el Capítulo Cuarto, del Título Segundo, de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los Ejercicios Fiscales 2019, 2020 y 2021.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto del Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo que se suspende conforme a este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
