@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-mediacion-y-conciliacion-del-estado-de-aguascalientes-42
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2013-03-25"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 27 de diciembre de 2004.
 
@@ -121,7 +121,9 @@ I. A los mediadores y conciliadores que hayan dejado de reunir cualquiera de los
 
 II. A los mediadores y conciliadores cuya evaluación realizada con motivo de alguna queja presentada en su contra, ponga de manifiesto el incumplimiento de los principios de la Mediación o de las disposiciones de la presente ley.
 
-Las quejas a que se refiere este artículo, deberán presentarse por la parte afectada ante el Director del Centro de Mediación y Conciliación del Poder Judicial, quien inmediatamente procederá a solicitar un informe de su actuación al mediador o conciliador denunciado, el cual deberá rendirse en un plazo máximo de cinco días hábiles junto con las pruebas que lo justifiquen, bajo apercibimiento de tener por ciertos los hechos de la queja, en caso de rebeldía.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Las quejas a que se refiere este artículo, deberán presentarse por la parte afectada anexando las pruebas con que cuente para acreditar su dicho, ante el Director del Centro de Mediación y Conciliación del Poder Judicial, quien inmediatamente procederá a solicitar un informe de su actuación al mediador o conciliador denunciado, el cual deberá rendirse en un plazo máximo de cinco días hábiles junto con las pruebas que lo justifiquen, bajo apercibimiento de tener por ciertos los hechos de la queja, en caso de rebeldía.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -129,7 +131,13 @@ Tratándose de los casos en que las quejas versen sobre malas prácticas de gén
 
 El Director del Centro de Mediación procederá a integrar la investigación correspondiente en un plazo no mayor a quince días hábiles, al término del cual, emitirá la resolución que en derecho proceda.
 
-Habiéndose declarado procedente la queja, el mediador o conciliador responsable quedará inhabilitado permanentemente, para obtener la certificación y el registro del Centro de Mediación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+La resolución emitida por el Director del Centro de Mediación y Conciliación del Poder Judicial podrá ser impugnada mediante el recurso de revisión, en términos de la Ley del Procedimiento Administrativo del Estado de Aguascalientes, o a través de las vías judiciales correspondientes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Habiéndose declarado procedente la queja sin haber sido ésta recurrida, o tras haber sido desestimado el medio de impugnación interpuesto, el mediador o conciliador responsable quedará inhabilitado para obtener la certificación y el registro del Centro de Mediación, por el término señalado en la misma resolución.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -540,3 +548,15 @@ III. EI 1o de junio del año 2015, en el primer y segundo partidos judiciales co
 ###### ARTÍCULO SEGUNDO.
 
 El Congreso del Estado proveerá lo necesario en la asignación de recursos presupuestales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 81.- SE REFORMA LA LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En caso de que a la entrada en vigor del presente Decreto se encuentre pendiente de resolución alguna queja, el Director del Centro de Mediación y Conciliación del Poder Judicial deberá requerir a quien la hubiere interpuesto, para que anexe las pruebas con que acredite su dicho, debiendo solicitar nuevamente al Mediador o Conciliador, para que rinda el informe correspondiente y pueda entonces proceder en términos de ley.
