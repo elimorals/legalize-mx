@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2017-05-30"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,17 +23,17 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
-DECRETO NUMERO 69
+DECRETO NÚMERO 69
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
 Se expide la Ley de Fiscalización Superior del Estado de México, conforme al tenor siguiente:
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO.
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO.
 
 ## TITULO PRIMERO
 
@@ -139,9 +139,9 @@ III. Los organismos autónomos;
 
 IV. Los organismos auxiliares;
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-V. Los fideicomisos públicos o privados que manejen recursos del Estado y Municipios, o en su caso de la federación;
+V. Los fideicomisos previstos en el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios, y aquellos que manejen recursos del Estado, Municipios, o en su caso provenientes de la federación;
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -457,7 +457,7 @@ Corresponde originalmente al Auditor Superior, el trámite y resolución de los 
 
 ###### Artículo 15.
 
-Auditor (sic) Superior durará en su encargo ocho años, comenzando el 1 de enero siguiente al año de su elección y podrá ser nombrado nuevamente por una sola vez hasta por un período igual, por el voto de las dos terceras partes de los miembros presentes de la Legislatura.
+Auditor Superior durará en su encargo ocho años, comenzando el 1 de enero siguiente al año de su elección y podrá ser nombrado nuevamente por una sola vez hasta por un período igual, por el voto de las dos terceras partes de los miembros presentes de la Legislatura.
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -1500,3 +1500,19 @@ VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en 
 VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
 
 VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
+
+G.G. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 18.- POR EL QUE SE APRUEBA LA INICIATIVA QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2019.
+
+TERCERO.- Los contribuyentes propietarios de vehículos de servicio particular que porten placas de circulación expedidas en el ejercicio fiscal 2013 y anteriores, deberán realizar la renovación de placas en los meses de julio a diciembre de 2019 conforme a las reglas que para tal efecto publique la Secretaría de Finanzas, informando a la Legislatura por conducto de las comisiones de planeación y gasto público y de finanzas públicas. Las reglas de operación se publicarán a más tardar el 30 de junio de 2019, en el Periódico Oficial “Gaceta del Gobierno”, con la finalidad de ser sujetos a los beneficios fiscales que determinen a su favor en caso de regularización de adeudos pudiendo ser de hasta el cien por ciento de condonación, de conformidad con el artículo 10 de la Ley de Ingresos del Estado de México para el ejercicio fiscal de 2019.
+
+CUARTO.- Se considerarán vigentes durante el ejercicio 2019 las placas expedidas durante el ejercicio fiscal de 2014, mismas que deberán renovarse durante 2020.
+
+QUINTO.- Las placas expedidas en los ejercicios 2015 y posteriores deberán renovarse al vencimiento de los cinco años contados a partir de su expedición.
+
+SEXTO.- Los años de referencia contenidos en la tabla del segundo párrafo de la fracción I del artículo 63 del Código Financiero del Estado de México y Municipios se actualizarán, siendo aplicable para el primer año de antigüedad el 2019 y para el último año el 2010, conservando íntegros los factores respectivos.
