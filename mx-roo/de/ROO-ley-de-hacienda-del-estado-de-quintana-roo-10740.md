@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2017-12-29"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -5529,455 +5529,7 @@ En caso de que el contribuyente fallezca, un tercero legalmente autorizado, podr
 
 ###### ARTICULO 173.
 
-Por la expedición de las licencias de funcionamiento se causará anualmente un derecho de acuerdo a la siguiente:
-
-TARIFA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. ACADEMIA DE BAILE, hasta 6 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. ACADEMIA DE CORTE Y CONFECCIÓN, hasta 6 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III. AGENCIAS DE GUÍAS TURÍSTICAS, Hasta 53 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV. ACADEMIAS DE IDIOMAS, Hasta 6 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V. ACADEMIA DE KARATE, JUDO ETC., Hasta 6 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI. ACADEMIA DE MÚSICA, Hasta 8 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VII. AGENCIAS ADUANALES, Hasta 53 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII. AGENCIAS QUE RENTEN BICICLETAS POR UNIDAD, Hasta 3 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX. AGENCIAS QUE RENTEN CALANDRIAS, Hasta 6 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-X. AGENCIAS DE CERVEZAS, Hasta 53 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XI. AGENCIAS QUE RENTEN AUTOMÓVILES POR UNIDAD, Hasta 14 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XII. AGENCIAS QUE RENTEN LANCHAS DEPORTIVAS Y BARCOS POR UNIDAD, Hasta 14 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIII. AGENCIAS QUE RENTEN MOTOCICLETAS POR UNIDAD, Hasta 3 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIV. AGENCIAS DE LOTERÍA NACIONAL, Hasta 11 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XV. AGENCIAS FUNERARIAS, Hasta 11 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVI. AGENCIAS DE GAS DOMÉSTICO O INDUSTRIAL EXCEPTO DE ANHÍDRIDO CARBÓNICO, Hasta 11 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVII. AGENCIAS DE VEHÍCULOS, Hasta 11 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVIII. AGENCIAS DE VIAJES, Hasta 53 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIX. AGENCIAS DE PRONÓSTICOS DEPORTIVOS, Hasta 11 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XX. ARTESANÍAS, Hasta 11 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXI. ARTÍCULOS ELÉCTRICOS Y NOVEDADES, Hasta 16 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXII. ACADEMIA COMERCIAL, Hasta 11 UMA
-
-XXIII. (DEROGADA P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXIV. BODEGAS, Hasta 8 UMA
-
-XXV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-XXVI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXVII. BIENES RAÍCES; Hasta 11 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXVIII. BONETERÍA, MERCERÍA Y NOVEDADES, Hasta 6 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXIX. BILLARES, Hasta 8 UMA
-
-XXX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXXI. CONSTRUCTORAS, Hasta 53 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXXII. COCINAS ECONÓMICAS SIN VENTA DE BEBIDAS ALCOHÓLICAS, Hasta 27 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXXIII. CONGELADORAS Y EMPACADORAS, Hasta 27 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXXIV. CARPINTERÍAS, Hasta 27 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXXV. CLINICAS Y LABORATORIOS DE ANÁLISIS CLINICOS, Hasta 27 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXXVI. CASA DE HUESPEDES, Hasta 6 UMA
-
-XXXVII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXXVIII. CARNICERÍA, Hasta 11 UMA
-
-XXXIX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XL. CINES Y TEATROS, Hasta 27 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XLI. CAFETERÍA, Hasta 8 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XLII. ESTACIÓN DE SERVICIOS (GASOLINERIA), Hasta 53 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XLIII. ESTANQUILLOS DE REVISTAS, PERIÓDICOS, ETC., Hasta 6 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XLIV. ESTUDIOS FOTOGRÁFICOS, Hasta 8 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XLV. FABRICACIÓN Y VENTA DE PUERTAS, CANCELES, ETC. DE ALUMINIO, Hasta 16 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XLVI. FÁBRICA DE MUEBLES, Hasta 27 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XLVII. FÁBRICA DE BLOQUES Y MOSAICOS, Hasta 27 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XLVIII. FLORERÍAS, Hasta 11 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XLIX. FARMACIAS Y BOTICAS, Hasta 11 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-L. FERRETERÍAS, Hasta 16 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LI. FÁBRICA DE HIELO, Hasta 16 UMA
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-LII.- FRACCIONAMIENTO DE TERRENO;
-
-Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse... 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1%, en los mismos términos del párrafo anterior.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LIII. FÁBRICAS DE AGUAS PURIFICADAS NO GASEOSAS, Hasta 14 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LIV. HOTELES;
-
-a) De lujo, Hasta 105 UMA.
-
-b) De primera clase, Hasta 79 UMA.
-
-c) De segunda clase, Hasta 53 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LV. IMPRENTAS, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LVI. JOYERIAS, Hasta 27 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LVII. LÍNEAS DE TRANSPORTE URBANO, POR CADA UNIDAD, Hasta 6 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LVIII. LÍNEAS DE TRANSPORTE FORANEO, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LIX. LÍNEAS DE TRANSPORTE AÉREO, Hasta 53 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LX. LIBRERÍAS, PAPELERÍAS Y ARTÍCULOS ESCOLARES, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXI. MOLINOS PARA GRANOS: Hasta 27 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXII. MADERERÍAS, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXIII. MUEBLERÍAS Y ARTÍCULOS PARA EL HOGAR, Hasta 27 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXIV. ÓPTICAS, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXV. PESCADERÍAS, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXVI. PALETERÍAS Y NEVERÍAS, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXVII. PERFUMES Y COSMÉTICOS, Hasta 27 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXVIII. POLLERIAS, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXIX. RENTA DE EQUIPO DE BUCEO Y PESCA, Hasta 27 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXX. RESTAURANTES, sin venta de bebidas alcohólicas.
-
-a) De lujo, Hasta 53 UMA.
-
-b) De primera clase, Hasta 37 UMA.
-
-c) Cenadurías, Hasta 21 UMA.
-
-d) Fondas, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXI. REFACCIONARIA, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXII. ROSTICERÍA, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXIII. RENTADORA DE VAJILLAS, MESAS, SILLAS ETC., Hasta 27 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXIV. REFRESQUERÍA Y NEVERÍA, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXV. SALONES DE BELLEZA Y PELUQUERÍAS, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXVI. SASTRERÍAS, Hasta 16 UMA.
-
-LXXVII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXVIII. SALA DE ESTÉTICA Y BELLEZA, Hasta 27 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXIX. SERVICIO DE LAVADO Y ENGRASADO, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXX. TALLER DE HERRERÍA, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXXI. TORTILLERÍA, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXXII. TIENDA DE ABARROTES SIN VENTA DE BEBIDAS ALCOHÓLICAS, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXXIII. TALLER DE ELECTRICIDAD Y ELECTRÓNICOS, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXXIV. TALLER MECÁNICO, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXXV. TRANSPORTES DE MATERIALES DE CONSTRUCCIÓN, POR UNIDAD, Hasta 8 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXXVI. TALLER DE REPARACIÓN DE BICICLETAS Y MOTOS; POR UNIDAD, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXXVII. TALLER DE REPARACIÓN DE RELOJES, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXXVIII. TALLER DE REFRIGERACIÓN, DOMÉSTICO Y AUTOMOTRIZ, Hasta 21 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-LXXXIX. TALLER DE COSTURA, Hasta 21 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XC. TIENDA DE ROPA, TELAS, ARTÍCULOS ELÉCTRICOS, ARTÍCULOS PARA REGALOS, NOVEDADES, ETC., Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XCI. TIENDAS DE ARTÍCULOS DE IMPORTACIÓN, Hasta 27 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XCII. TALLER DE HOJALATERÍA Y PINTURA, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XCIII. TALLER MECÁNICO AUTOMOTRIZ, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XCIV. TALLER DE ALINEACIÓN Y BALANCEO, Hasta 21 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XCV. TINTORERIAS Y LAVANDERIAS, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XCVI. VENTA DE MATERIALES PARA CONSTRUCCIÓN, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XCVII. VENTA DE CORTINAS, CORTINEROS, TAPICES, ALFOMBRAS ETC., Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XCVIII. VENTA DE MUEBLES Y EQUIPOS PARA OFICINA, Hasta 21 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XCIX. VENTA DE ARTÍCULOS DE PLÁSTICO, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-C. VENTA DE SEGUROS, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-CI. VENTA DE ARTÍCULOS DEPORTIVOS, Hasta 27 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-CII. VENTA DE FRUTAS Y VERDURAS, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-CIII. VENTA DE JUGOS Y LICUADOS, Hasta 11 UMA.
-
-CIV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-CV. VENTA DE DISCOS, CARTUCHOS, CASSETTES ETC., Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-CVI. VULCANIZADORAS, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-CVII. ZAPATERÍAS, Hasta 11 UMA.
-
-CVIII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-CIX. COCTELERÍA SIN VENTA DE CERVEZAS, Hasta 11 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-CX. RENTADORAS DE PELÍCULAS DE VIDEOS, Hasta 16 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-CXI. Los giros que no se encuentren especificados en las fracciones que anteceden, serán equiparados por similitud con los mismos; en el supuesto de que no se encuentre uno semejante se aplicara hasta 53 UMA.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -6155,789 +5707,33 @@ IV.- Y demás documentos que a juicio de la Secretaría juzgue necesarios, previ
 
 Las licencias deberán de exhibirse en lugar visible y a la vista del público en el establecimiento o local para el cual fueron expedidas.
 
-### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE TRANSITO Y CONTROL VEHICULAR
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE TRANSITO Y CONTROL VEHICULAR
 
 ###### ARTICULO 176.
 
-Todos los servicios que proporcionen la Dirección de Tránsito o la Secretaría, causarán los derechos de conformidad a la siguiente:
-
-T A R I F A
-
-I.- Vehículos que se matriculen y registren en el Estado
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Automóviles y Camiones 2.3 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Motocicletas 1.15 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Bicicletas 0.58 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Carros y carretas de tracción animal 0.58 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Carros de mano 0.58 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Remolques:
-
-hasta de 15 toneladas 1.15 UMA.
-
-De más de 15 a 20 toneladas 1.73 UMA.
-
-De más de 20 toneladas 2.88 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-g) Embarcaciones particulares:
-
-de 5 a 10 metros 4.30 UMA.
-
-De más de 10 metros 5.18 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-h) Embarcaciones para servicio público:
-
-Hasta de 5 metros 15.53 UMA.
-
-De más de 5 hasta 10 metros 22.43 UMA.
-
-De más de 10 metros 51.75 UMA.
-
-II.- Derechos por control vehicular por dotación y canje de placas:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Para automóviles, camionetas, camiones y autobuses 13.50 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Para remolques 6.25 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Para motocicletas 4.50 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Para bicicletas de servicio particular 1.15 veces la UMA y servicio público 1.7 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Para triciclos de servicio particular 1.15 veces la UMA y servicio público 3.45 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Para carros de tracción animal 1.15 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-g) Para carros de mano 1.15 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-h) Para automóviles utilizados para demostración 17.25 la UMA.
-
-Los derechos por dotación de placas a que se refiere esta fracción deberán pagarse dentro de los treinta días hábiles siguientes a la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de vehículos usados de importación o inmediatamente previo a la alta correspondiente en el padrón vehicular cuando se trate de vehículos emplacados en otras entidades federativas.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
-
-Los derechos por canje de placas deberán pagarse los primeros tres meses de cada tres años, contados a partir del último canje autorizado por el titular del Poder Ejecutivo del Estado de Quintana Roo.
-
-III.- Derechos por control vehicular por revalidación y refrendo:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Para los incisos a) y b) de la fracción anterior por el servicio de revalidación de placas vehiculares 3.45 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Para el inciso c) de la fracción anterior por el servicio de revalidación de placas vehiculares para el servicio particular 1.15 veces la UMA y para el servicio público 2.00 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Para el inciso h) de la fracción anterior por su refrendo anual 4.60 veces la UMA.
-
-El plazo del pago de los derechos a que se refiere esta fracción será los primeros tres meses de cada año.
-
-IV.- Por permisos provisionales para circulación de vehículos por:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) 15 días sin placas, 3.45 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) 30 días sin placas, 6.90 veces la UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Derechos por control vehicular por la expedición y reposición de la tarjeta de circulación por un año 1.25 veces la UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI.- Derechos por control vehicular por inscripción y refrendo en el padrón estatal de embarcaciones 3.00 veces la UMA.
-
-a) Dos años
-
-1. Licencia de servicio público estatal 4.60 veces el UMA
-
-2. Licencia de chofer 5.75 veces el UMA
-
-3. Licencia de automovilista 5.18 veces el UMA
-
-4. Licencia de motociclista 2.30 veces el UMA
-
-b) Tres años
-
-1. Licencia de servicio público estatal 6.90 veces el UMA
-
-2. Licencia de chofer 8.62 veces el UMA
-
-3. Licencia de automovilista 7.77 veces el UMA
-
-4. Licencia de motociclista 3.45 veces el UMA
-
-c) Cuatro años
-
-1. Licencia de servicio público estatal 9.20 veces el S.M.G
-
-2. Licencia de chofer 11.49 veces el UMA
-
-3. Licencia de automovilista 10.36 veces el UMA
-
-4. Licencia de motociclista 4.6 veces el UMA
-
-d) Cinco años
-
-1. Licencia de servicio público estatal 11.50 veces el UMA
-
-2. Licencia de chofer 14.36 veces el UMA
-
-3. Licencia de automovilista 12.95 veces el UMA
-
-4. Licencia de motociclista 5.75 veces el UMA
-
-Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
-
-El plazo para la inscripción de embarcaciones será de treinta días hábiles a partir de la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de embarcaciones usadas de importación o inmediatamente previo a la inscripción correspondiente en el padrón estatal de embarcaciones cuando se trate de embarcaciones inscritas en otras entidades federativas; para el refrendo, los primeros tres meses de cada año contados a partir de la inscripción.
-
-VII.- Por la expedición, renovación y reposición de licencias para conducir vehículos de motor, cada:
-
-a) Dos años
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1 Licencia de servicio público estatal 4.60 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2 Licencia de chofer 5.75 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3 Licencia de automovilista 5.18 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4 Licencia de motociclista 2.30 veces la UMA.
-
-b) Tres años
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1 Licencia de servicio público estatal 6.90 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2 Licencia de chofer 8.62 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3 Licencia de automovilista 7.77 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4 Licencia de motociclista 3.45 veces la UMA.
-
-c) Cuatro años
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1 Licencia de servicio público estatal 9.20 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2 Licencia de chofer 11.49 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3 Licencia de automovilista 10.36 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4 Licencia de motociclista 4.6 veces la UMA.
-
-d) Cinco años
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1 Licencia de servicio público estatal 11.50 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2 Licencia de chofer 14.36 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3 Licencia de automovilista 12.95 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4 Licencia de motociclista 5.75 veces la UMA.
-
-Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
-
-VIII.- Permiso provisional para manejar sin licencia por:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) 30 días 1.15 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) 90 días 3.44 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) 180 días 6.87 veces la UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX.- Por arrastre de grúa 9.57 veces la UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-X.- Por día de estancia en el corralón 0.46 veces la UMA.
-
-XI.- Permiso para circular con cristales polarizados por 1 año, según su tipo:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) De un humo para servicio público 5.50 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) De un humo para servicio particular 6.50 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Hasta de tres humos para el servicio oficial 12.09 veces la UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XII.- Examen médico y de competencia para la licencia de conducir vehículos de motor 2.10 veces la UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIII.- Permisos provisionales para la circulación de camiones de carga en el primer cuadro de la ciudad, por día 1.00 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIV.- Por la expedición de constancias de no infracción 1.00 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XV.- Por la inscripción al curso de vialidad del servicio público 1.00 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVI.- Por examen práctico de conducción 2 veces la UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVII.- Por el registro y refrendo anual de escuelas de manejo 20.00 veces la UMA.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 177.
 
-Por el otorgamiento de concesiones para explotar el servicio público de transporte de pasajeros, carga y el especializado en el Estado, a exepción (sic) del urbano de pasajeros en autobuses en ruta establecida que corresponde a los municipios, se causarán y pagarán los derechos con base en la siguiente:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-TARIFA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I.- Por el otorgamiento para explotar el servicio público de transporte en los municipios de Benito Juárez, Puerto Morelos, Solidaridad y Tulum:
-
-a) Servicio público de pasajeros en general:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Autobuses de 36 asientos en adelante, hasta 3,556 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Minibuses hasta 25 asientos, hasta 2,667 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 6,733 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Otros vehículos, hasta 3,112 UMA.
-
-b) Servicio público de carga:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Vehículos de carga hasta 1,500 kgs, hasta 1,778 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 2,135 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de carga mayor de 7,000 kgs, hasta 2,489 UMA.
-
-c) Servicio público de renta de toda clase de vehículos:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Arrendadoras de automóviles hasta con 50 unidades, hasta 889 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Arrendadoras de automóviles de 51 unidades en adelante 889 UMA.
-
-Y por cada vehículo excedente de 50 unidades, hasta 45 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Motocicletas, hasta 445 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Triciclos y bicicletas, hasta 223 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. otros vehículos, hasta 223 UMA.
-
-d) Servicio público especializado:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Grúa hasta 10,000 kgs, hasta 1,778 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Grúa mayor de 10,000 kgs, hasta 2,667 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de arrendamiento para transporte de personal, hasta 4,445 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Vehículos para servicio especial de turismo, hasta 1,334 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. Vehículos de arrendamiento para transporte escolar, hasta 2,667 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,335 UMA.
-
-II.- Por el otorgamiento para explotar el servicio público de transporte en el municipio de Cozumel:
-
-a) Servicio público de pasajeros en general:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Autobuses de 36 asientos en adelante, hasta 3,778 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Minibuses hasta de 25 asientos, hasta 2,889 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 8,977 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Otros vehículos, hasta 3,334 UMA.
-
-b) Servicio público de carga:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Vehículos de carga hasta 1,500 kgs, hasta 2,000 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 2,223 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de carga mayor de 7,000 kgs, hasta 2,667 UMA.
-
-c) Servicio público de renta de toda clase de vehículos:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Arrendadora de automóviles hasta con 50 unidades, hasta 1,112 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Arrendadoras de automóviles de 51 unidades en adelante 1,112 UMA.
-
-Y por cada vehículo excedente de 50 unidades, hasta 67 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Motocicletas, hasta 534 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Triciclos y bicicletas, hasta 312 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. Otros vehículos, hasta 312 UMA.
-
-d) Servicio público especializado:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Grúa hasta 10,000 kgs, hasta 2,000 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Grúa mayor de 10,000 kgs, hasta 2,667 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de arrendamiento para transporte de personal, hasta 4,889 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Vehículos para servicio especial de turismo, hasta 1,556 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. Vehículos de arrendamiento para transporte escolar, hasta 2,889 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,556 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III.- Por el otorgamiento para explotar el servicio público de transporte en los municipios de Othón P. Blanco, Bacalar e Isla Mujeres:
-
-a) Servicio público de pasajeros en general:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Autobuses de 36 asientos en adelante, hasta 2,845 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Minibuses hasta de 25 asientos, hasta 2,134 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 4,488 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Otros vehículos, hasta 2,489 UMA.
-
-b) Servicio público de carga:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Vehículos de carga hasta 1,500 kgs, hasta 1,423 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 1,689 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de carga mayor de 7,000 kgs, hasta 2,000 UMA.
-
-c) Servicio público de renta de toda clase de vehículos:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Arrendadora de automóviles hasta con 50 unidades, hasta 712 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Arrendadoras de automóviles de 51 unidades en adelante, 712 UMA.
-
-Y por cada vehículo excedente de 50 unidades, hasta 36 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Motocicletas, hasta 356 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Triciclos y bicicletas, hasta 178 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. Otros vehículos, hasta 178 UMA.
-
-d) Servicio público especializado:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Grúa hasta 10,000 kgs, hasta 1,423 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Grúa mayor de 10,000 kgs, hasta 2,134 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de arrendamiento para transporte de personal, hasta 3,551 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Vehículos para servicio especial de turismo, hasta 1,067 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. Vehículos de arrendamiento para transporte escolar, hasta 2,134 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,067 UMA.
-
-IV.- Por el otorgamiento para explotar el servicio público de transporte en los municipios de Felipe Carrillo Puerto y Lázaro Cárdenas:
-
-a) Servicio público de pasajeros en general:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Autobuses de 36 asientos en adelante, hasta 1,778 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Minibuses hasta 25 asientos, hasta 1,334 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 2,223 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Otros vehículos, hasta 1,556 UMA.
-
-b) Servicio público de carga:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Vehículos de carga hasta 1,500 kgs, hasta 889 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 1,067 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de carga mayor de 7,000 kgs, hasta 1,245 UMA.
-
-c) Servicio público de renta de toda clase de vehículos:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Arrendadora de automóviles hasta con 50 unidades, hasta 445 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Arrendadoras de automóviles de 51 unidades en adelante 445 UMA.
-
-Y por cada vehículo excedente de 50 unidades, hasta 23 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Motocicletas, hasta 223 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Triciclos y bicicletas, hasta 112 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. Otros vehículos, hasta 112 UMA.
-
-d) Servicio público especializados (sic):
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Grúa; hasta 10,000 kgs, hasta 889 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Grúa mayor de 10,000 kgs, hasta 1,334 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de arrendamiento para transporte de personal, hasta 2,223 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Vehículos para servicio especial de turismo, hasta 667 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. Vehículos de arrendamiento para transporte escolar, hasta 1,334 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 67 UMA.
-
-V.- Por el otorgamiento para explotar el servicio público de transporte en el municipio de José María Morelos:
-
-a) Servicio público de pasajeros en general:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Autobuses de 36 asientos en adelante, hasta 2,134 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Minibuses hasta de 25 asientos, hasta 1,600 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 2,667 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Otros vehículos, hasta 1,867 UMA.
-
-b) Servicio público de carga:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Vehículos de carga hasta 1,500 kgs, hasta 1,067 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 1,280 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de carga mayor de 7,000 kgs, hasta 1,467 UMA.
-
-c) Servicio público de renta de toda clase de vehículos:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Arrendadora de automóviles hasta con 50 unidades, hasta 534 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Arrendadoras de automóviles de 51 unidades en adelante 534 UMA.
-
-Y por cada vehículo excedente de 50 unidades, hasta 27 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Motocicletas, hasta 267 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Triciclos y bicicletas, hasta 134 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. Otros vehículos, hasta 134 UMA.
-
-d) Servicio público especializado:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Grúa hasta 10,000 kgs, hasta 1,067 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Grúa mayor de 10,000 kgs, hasta 1,600 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Vehículos de arrendamiento para transporte de personal, hasta 2,667 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Vehículos para servicio especial de turismo, hasta 800 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. Vehículos de arrendamiento para transporte escolar, hasta 1,600 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 800 UMA.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO V. DE LOS RECARGOS Y SANCIONES
 
 ###### ARTICULO 178.
 
-Los derechos por los servicios de tránsito que preste el Gobierno del Estado, que no sean pagados dentro de los plazos a que se refiere el artículo 176 de esta Ley, causarán recargos conforme a lo establecido por el Código Fiscal del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-La Secretaría, solicitará el apoyo de la Dirección de Vialidad en el Estado, para realizar los actos de verificación y comprobación a que se refiere la fracción II del artículo 179 de esta Ley.
-
-Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código Fiscal del Estado de Quintana Roo.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTICULO 179.
 
-La Secretaría, simultáneamente a la recaudación de los derechos comprendidos en el capítulo IV de este título, excepto por los servicios a que se refiere la fracción VII del Artículo 176 de esta Ley, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el “Registro Estatal Vehicular” para su integración a la “Red Nacional del Sistema de Información Integral Tributaria” mediante la realización de las siguientes funciones:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I.- Efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a lo dispuesto en el reglamento del Código Fiscal del Estado.
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-II.- Realizar actos de verificación y comprobación para mantener actualizado el registro del Estado, conforme a los lineamientos y normatividad correspondientes. Para estos efectos la Secretaría solicitará el apoyo de la Secretaría de Seguridad Pública o a las Corporaciones de Tránsito Municipal, así como para retirar de la circulación a aquellos vehículos cuyos propietarios o poseedores no comprueben el pago de los derechos por servicios de tránsito a que se refiere este capítulo, previo levantamiento del acta de embargo correspondiente, en la que se designe a dicha autoridad con el carácter de depositaria.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III.- Recibir y en su caso requerir los avisos, manifestaciones y demás documentos, que conforme al reglamento del Código Fiscal del Estado deban presentarse.
-
-IV.- Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el “Registro Estatal Vehicular” y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca la misma.
-
-VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -6949,871 +5745,69 @@ VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 Los contribuyentes tendrán la obligación de efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a lo dispuesto en el Reglamento del Código Fiscal del Estado.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ### CAPITULO VII. SERVICIOS CATASTRALES
 
 ###### ARTICULO 180.
 
-Los servicios prestados por la Dirección de Catastro, causarán derechos cuyo pago deberá efectuarse al momento de solicitarse el servicio y de acuerdo con la siguiente:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-TARIFA
-
-I.- Por la subdivisión de predios:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a). Cuando resulten dos lotes 4.60 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b). Cuando resulten más de dos lotes, por lote excedente 4.03 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular causará el 50% de los derechos a que se refieren los incisos a) y b) de esta fracción.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Por croquis de localización. 6.00 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III. Por copias de planos.
-
-a). Copias heliográficas. 2.30 UMA.
-
-b). Copias maduros. 4.14 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV. Por certificados de alineamientos y número oficial, certificados de valor catastral, señalamiento de linderos y constancias de propiedad 2.92 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V. Por la expedición de documentos extraviados y número oficial 2.92 UMA.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VI.- Por la práctica de avalúos que realicen peritos designados por la Dirección de Catastro a solicitud del interesado, se ajustará a lo siguiente:
-
-a).- Hasta $ 100,000.00, 5% sobre el valor que resulte.
-
-b).- De $ 100,000.01 en adelante 6% sobre el valor que resulte.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c).- Cuando el avalúo se realice a los bienes inmuebles destinados para la vivienda de interés social y popular 4.5 UMA.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-VII.- Por deslinde y levantamiento topográfico de predios rústicos y urbanos, serán calculados de acuerdo al siguiente cuadro de superficies:
-
-a).- Predios rústicos
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Hasta de una hectárea. 60 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. De más de 1 hectárea a 5 hectáreas. 120 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. De más de 5 hectárea a 10 hectáreas. 180 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. De más de 10 hectárea a 20 hectáreas. 240 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-5. De más de 20 hectárea a 50 hectáreas. 300 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-6. De más de 50 hectárea a 100 hectáreas. 400 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-7. De más de 100 hectáreas, por cada hectárea excedente. 20 UMA.
-
-b).- Predios urbanos
-
-1. Se aplicará la tabla de predios rústicos para el caso de los predios urbanos en el que se ocupen más de un día de trabajo de deslinde.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Othón P. Blanco, Bacalar, Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas se cobrará 10.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Puerto Morelos, Cozumel, Isla Mujeres, Solidaridad y Tulum, se cobrará 40.00 UMA.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VIII.- Los servicios catastrales no previstos en esta tarifa, pagarán una cuota que no excederá del costo de los mismos, la que será fijada por el Gobierno del Estado.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-IX.- Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etc., el solicitante deberá cubrir el costo que al afecto determine el Estado a través de las tablas debidamente publicadas en el Periódico Oficial del Estado, previo a la prestación de los mismos o en su caso antes de la conclusión y/o entrega del documento oficial que sustente los trabajos realizados.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-X.- Constancias de no propiedad. 5.75 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XI.- Constancias de Registro 5.75 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XII.- Trámite de titulación 2.00 UMA.
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-XIII.- Por dictámenes técnicos en agrimensura o planimetría, se aplicarán las tarifas establecidas en las fracciones VII y IX de este capítulo.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-XIV.- Constancia de Actualización de Datos Catastrales: 8 veces la UMA
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO VIII. DE LA VERIFICACION, CONTROL Y FISCALIZACION DE OBRA PUBLICA
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTICULO 181.
 
-Por la verificación, control y fiscalización que las leyes en la materia encomiendan a la Secretaría de la Gestión Pública y al Órgano de Fiscalización Superior del Estado, los contratistas con quien se celebren los contratos de Obra Pública Estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-Las dependencias y organismos auxiliares de la Administración Pública Estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina recaudadora autorizada por la Secretaría, quien a su vez registrará el 50% de todo lo recaudado por este concepto a favor de la partida presupuestal de la Secretaría de la Gestión Pública y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría al Órgano de Fiscalización Superior del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO IX. DE LA CONSTANCIA DE COMPATIBILIDAD URBANISTICA
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
 ###### ARTICULO 182.
 
-Por el análisis y calificación de proyectos para la expedición de la constancia de compatibilidad urbanística estatal con una vigencia de tres años, a que se refieren los artículos 81 y 82 de la Ley de Asentamientos Humanos, se causará un derecho de conformidad con lo siguiente:
-
-I.- En caso de fraccionamiento de tipo habitacional urbano, habitacional suburbano o rural, turístico, comerciales, industriales, de servicios funerarios, todos en sus diversas modalidades y demás aprovechamientos y usos, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II.- Para el caso de una subdivisión de un predio cuya superficie original sea igual o mayor a los 2,500 mt2; se cobrará 12 UMA por fracción resultante;
-
-III.- Para la constitución o modificación del régimen de propiedad en condominio, se cobrarán:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) 16 UMA, en el caso de desarrollos habitacionales de tipo condominal de interés social, por cada unidad privativa;
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) 24 UMA, en el caso de desarrollos habitacionales tipo medio, por cada unidad privativa;
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) 48 UMA., en el caso de desarrollos de tipo residencial, por cada unidad privativa; y
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) 52 UMA en el caso de desarrollos de tipo comercial, por cada unidad comercial.
-
-En todos los casos anteriores, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- Para plazas y/o centros comerciales, edificios y/o centros de oficinas, centrales de abastos de cualquier tipo, supermercados y tiendas departamentales, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Para las centrales camioneras y de carga, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI.- Para proyectos de industrias de cualquier tipo, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VII.- Para proyectos de clínicas, hospitales y centros médicos, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX.- El proyecto de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-X.- La elaboración de proyectos de equipamiento o infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XI.- Por relotificación de terrenos, se cobrarán 10 UMA, por lote;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XII.- Por fusión de terrenos, se cobrarán 12 UMA, por lote;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIII.- Hoteles en todas sus modalidades, de 0.05 UMA hasta 1.50 UMA, por metro cuadrado de la superficie de construcción:
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIV.- Estaciones expendedoras de todo tipo de combustibles, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XV.- Bancos de extracción de materiales pétreos, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno; y
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVI.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2, de 0,05 UMA hasta 1.5 UMA, por metro cuadrado de la superficie de construcción.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 182
 
-BIS.- Por la autorización de prórroga de la constancia de compatibilidad urbanística estatal de conformidad al artículo 84 penúltimo párrafo de la Ley de Asentamientos Humanos, para los siguientes conceptos:
-
-I.- En caso de fraccionamiento de tipo habitacional urbano, habitacional suburbano o rural, turístico, comerciales, industriales, de servicios funerarios, todos en sus diversas modalidades, se cobrará el 0.5% del monto total del presupuesto únicamente de las obras de urbanización del desarrollo que falten por ejecutarse;
-
-II.- Para la constitución o modificación del régimen de propiedad en condominio, se cobrarán:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) 16 UMA, en el caso de desarrollos habitacionales de tipo condominal de interés social, por cada unidad privativa;
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) 24 UMA, en el caso de desarrollos habitacionales tipo medio, por cada unidad privativa;
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) 48 UMA, en el caso de desarrollos de tipo residencial, por cada unidad privativa; y
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) 52 UMA en el caso de desarrollos de tipo comercial, por cada unidad comercial.
-
-En todos los casos anteriores, se cobrará el 0.5% sobre el monto total de las obras de urbanización o de introducción de servicios que falten por ejecutar.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III.- Para plazas y/o centros comerciales, edificios y/o centros de oficinas, centrales de abastos de cualquier tipo, supermercados y tiendas departamentales, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- Para las centrales camioneras y de carga, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Para proyectos de industrias de cualquier tipo de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI.- Para proyectos de clínicas, hospitales y centros médicos, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural; de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII.- El proyecto de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX.- La elaboración de proyectos de equipamiento o infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-X.- Por relotificación de terrenos, se cobrarán 10 UMA, por lote;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XI.- Por fusión de terrenos, se cobrarán 12 UMA, por lote;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XII.- Hoteles en todas sus modalidades, de 0.05 UMA hasta 1.50 UMA, por metro cuadrado de la superficie de construcción;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIII.- Estaciones expendedoras de todo tipo de combustibles, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIV.- Bancos de extracción de materiales pétreos, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno; y
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XV.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2, de 0.05 UMA hasta 1.50 UMA, por metro cuadrado de la superficie de construcción.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 182
 
-TER.- Por el análisis y calificación de modificación de proyecto de la constancia de compatibilidad urbanística, se cobrará 40 UMA, este derecho será adicional de las unidades privativas que se incrementen.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+TER.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 182
 
-QUATER.- Por reposición de la constancia de compatibilidad urbanística, se cobrará 40 UMA.
+QUATER.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO X. HOSPITALES
 
 ###### ARTICULO 183.
 
-Los servicios que se presten en los hospitales de Gobierno del Estado, causaran los derechos de acuerdo con el estudio socio-económico que se le practique al paciente.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-El pago de los derechos por este concepto, se hará en la caja de los propios hospitales. Las unidades administrativas de dichas instituciones serán los responsables del cobro.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a cargo de las Recaudadoras de Rentas cuyos encargados podrán efectuar las inspecciones que estimen pertinentes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 183
 
-BIS.- Los servicios médicos asistenciales que se otorguen a la población abierta se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los derechos establecidos, salvo los diagnósticos considerados dentro del sistema de protección social en salud, para su población afiliada, de acuerdo a la siguiente:
+BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>[N. DE E. VÉASE TARIFA EN EL NÚMERO EXTRAORDINARIO DEL P.O. 16 DE DICIEMBRE DE 2014, PÁGINAS 69 A 99.]</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XI. SERVICIOS OTORGADOS POR LAS AUTORIDADES DE SERVICIOS ESTATALES DE SALUD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
 ###### ARTICULO 184.
 
-Los servicios que presten, las autoridades de los Servicios Estatales de Salud, de acuerdo con la Ley de Salud del Estado de Quintana Roo, a los particulares que por cuestiones de calidad y salud lo requieran para la realización de su actividad, causarán los derechos de acuerdo a la siguiente:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2004)
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-II.- Por expedición o reposición de certificados médicos para manejadores de alimentos y/o bebidas:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a). En los municipios de Othón P. Blanco y Bacalar 1.83 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b). En los municipios de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 1.38 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c). en los municipios de Benito Juárez, Puerto Morelos, Solidaridad, Isla Mujeres, Cozumel y Tulum 2.37 UMA.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-III.- Análisis de laboratorio:
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-1. Mesofolicos aerobios (enlatados) $ 208.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-2. Termofilos aerobios (enlatados) $ 208.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-3. Termofilos anaerobios (enlatados) $ 208.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-4. Mesofílicos anaerobios (enlatados) $ 208.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-5. Hongos y levaduras $ 208.00
-
-6. Investigación de Shigella sp. $ 925.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-7. Métodos para la cuenta bacteriana aerobias en placa $ 208.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-8. Determinación de coniformes totales por el número más probable NMP $ 219.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-9. Investigación de S. Aureus $ 312.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-10. Investigación de salmonella sp. $ 371.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-11. Métodos para la determinación de cuentas de mohos y levaduras en alimentos $ 208.00
-
-12. Investigación de Toxinas S. Aureus $ 2,835.00
-
-13. Investigación de E. Coli 0157:H7 $ 1,160.00
-
-14. Determinación de E. Coli por el número más probable NMP $ 230.00
-
-15. Investigación de V. Cholerae (aislamiento del microorganismo y detención de enterotoxinas) $ 575.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-16. Efectividad de germicidas. $ 599.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-17. Métodos para la determinación de bacterias coniformes totales en placa. $ 219.00
-
-18. Métodos para la determinación de bacterias coniformes fecales para la técnica del número más probable. $ 180.00
-
-19. Investigación de listeria monocitógenes. $ 575.00
-
-20. Tipificación serología de salmonella sp. $ 998.00
-
-21. PH. (Determinación de la acidez en una solución) $ 80.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-22. Cloro residual. $ 104.00
-
-23. Investigación de gnathostoma. $ 200.00
-
-24. Investigación de Biotoxina Ciguata por bioensayo en ratón. $ 2, 200.00
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-25. Enterococos. $ 261.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-26. Colinesterasa. $ 115.00
-
-(ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
-
-27. Clenbuterol por Elisa. $ 1,346.00
-
-28. Determinación del Cloro libre residual-método con ortotoluidina y ersenito. $ 107.00
-
-29. Cloruros.método por titulación-argento métrico. $ 330.00
-
-30. Conductividad. $ 100.00
-
-31. Dureza total CaCO3. $ 100.00
-
-32. Fluoruros como ión fluor-método potenciómetro. $ 812.00
-
-33. SAAN (sustancias activas al azul de metileno). $ 526.00
-
-34. Turbiedad. $189.00
-
-35. Determinación de fluoruros como ión flúor en sal para consumo humano. $ 812.00
-
-36. Yodatados y yoduros de sodio y potasio como ión yodo (sal para consumo humano). $ 475.00
-
-37. Grado alcohólico. $ 430.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-38. Aislamiento y tipificación a partir de muestras fecales de escherichia ooli $ 313.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-39. Aislamiento y tipificación a partir de muestras fecales de salmonella sp $ 313.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-40. Aislamiento y tipificación a partir de muestras fecales de shigella sp $ 313.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-41. Aislamiento y tipificación a partir de muestras fecales de vibrio cholerae $ 313.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-42. Investigación de enfermedades prevenibles por vacunación de sarampión IgM $ 500.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-43. Investigación de enfermedades prevenibles por vacunación de sarampión IgG $ 313.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-44. Investigación de enfermedades prevenibles por vacunación de rubeola IgM $ 375.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-45. Investigación de enfermedades prevenibles por vacunación de rubeola IgG $ 469.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-46. Cultivo nasofaríngeo para Bordetella pertussi $ 521.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-47. Aislamiento bacteriano de neumococo, estreptococo, sp $ 156.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-48. Aislamiento de micobacterias (diagnóstico y control) $ 88.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-49. Identificación de BAAR en esputo (Ziehl-Neelsen) $ 52.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-50. Identificación microscópica (Impronta) de Leishmania $ 141.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-51. Prueba de intradermorreacción de Leishmania (Reacción de Montenegro) $ 66.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-52. Hepatitis B; Anticuerpos anti antígeno Core. (HBc) ELISA en peine $ 333.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-53. Hepatitis C (HCV IgG), ELISA en peine $ 333.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-54. Hepatitis C (HCV IgG). Aglutinación de Partículas $ 333.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-55. Hepatitis C (HCV IgG). Prueba Rápida $ 333.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-56. Varicela Anticuerpos IgM, ELISA $ 313.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-57. Varicela Anticuerpos IgG, ELISA $ 313.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-58. Carga Viral para VIH $ 1584.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-59. Conteo de Linfocitos CD4 / CD8 $ 1667.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-60. Sífilis: VDRL (Anticuerpos anti cardiolipina-a-lecitina) $ 63.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-61. Sífilis: Aglutinación de partículas $ 156.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-62. Sífilis: Prueba Rápida Inmunocromatográfica $ 156.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-63. Sífilis: Prueba confirmatoria FTA-Abs $ 261.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-64. Chlamydia trachomatis IgG ELISA en peine $ 167.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-65. Aislamiento Bacteriano de Neisseria gonohrroeae $ 104.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-66. Identificación de Pneumocistis carinii. Tinción enfrotis de expectoración $ 198.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-67. Toxoplasmosis, Anticuerpos IgM, ELISA en peine. $ 521.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-68. Toxoplasmosis, Anticuerpos IgG, ELISA en peine. $ 521.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-69. Leptospiras, Identificación microscópica en campo oscuro $ 104.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-70. Leptospiras, Aislamiento a partir de muestras de sangre, LCR, biopsia o tejido. $ 313.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-71. Leptospiras, Determinación de anticuerpos séricos por Microaglutinación $ 208.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-72. Leptospiras, Determinación de anticuerpos IgM, ELISA en placa. $ 188.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-73. Chinches triatominas. Determinación taxonómica y búsqueda parasitológica $ 208.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-74. Helicobacter pylori IgG $ 422.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-75. Cultivo y aislamiento de hongos de importancia Médica $ 269.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-76. Exámenes citológicos (Citología Cérvico Vaginal Papanicolau) $ 158.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-77. Investigación de Lepra (Observación microscópica) $ 198.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-78. Identificación de M. tuberculosis por PCR $ 677.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-79. Otros virus respiratorios (sincisial respiratorio, adenovirus y otros) $ 1160.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-80. Determinación anticuerpos IgM para virus del oeste del nilo(VON) $ 245.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-81. Leptospiras por PCR $ 521.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-82. Determinación anticuerpos IgM para Epteins Baar $ 365.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-83. Determinación anticuerpos IgG para Epteins Baar $ 365.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-84. Legionella por PCR en muestras humanas $ 438.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-85. Determinación de Rickettsias por IFA $ 208.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-86. Determinación de Rickettsias por PCR $ 625.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-87. Determinación de anticuerpos para histoplasmosis $ 125.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-88. Determinación intradérmica para histoplasmosis (Histoplasmina) $ 63.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-89. Determinación intradérmica para Coccidiomicosis (cocciodioidina) $ 63.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-90. Superficies vivas $ 365.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-91. Superficies inertes $ 365.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-92. Ameba vida libre $ 208.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-93. Esterilidad comercial $ 208.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-94. Derivados clorados $ 365.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-95. Sales cuaternarias de amonio $ 417.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-96. Oxidantes $ 208.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-97. Determinación de E. coli por el Num. más probable NMP (incluye colif.fecales) $ 275.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-98. Identificación rápida por coaglutinación de: S. pneumoniae; H. influenzae b; N. meningitidis, $ 474.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-99. Identificación de virus Influenza RT-PCR tiempo real $ 1146.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-100. Aislamiento de legionella muestras ambientales $ 2084.00
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-101. Determinación de Brucella por PCR $ 625.00
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-IV.- Verificación sanitaria desinfectación desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de pasajeros:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a). Con cupo de hasta 10 pasajeros 10 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b). Con cupo de más de 10 y hasta 100 pasajeros 20 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c). Con cupo de más de 100 pasajeros 80 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Verificación sanitaria desinfectación o desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de carga, por tonelada de carga 20 UMA.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-VI.- Guía sanitaria por embarque 2 al millar ad valoren.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-VII.- Verificación sanitaria solicitada:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a). En los municipios de Othón P. Blanco y Bacalar 6.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b). En el municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 4.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c). En el municipio de Benito Juárez, Puerto Morelos, Solidaridad, Isla Mujeres, Cozumel y Tulum 12.00 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Por desinfección o desinfectación 8.00 UMA.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-IX.- Por reposición o expedición extemporánea de aviso de funcionamiento de salubridad local:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a). En los municipios de Othón P. Blanco y Bacalar 3.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b). En el municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 2.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c). En el municipio de Benito Juárez, Puerto Morelos, Solidaridad, Isla Mujeres, Cozumel y Tulum 4.00 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-X.- Por verificación de productos del mar 12.00 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XI.- Autorización y verificación de planos por metro cuadrado 0.13 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XII.- Por expedición de certificado médico sin tipo de sangre 0.76 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIII.- Por expedición de certificado médico con tipo de sangre 1.34 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL 1.82 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL, incluyendo prueba de VIH 3.94 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVI.- Oxigenación hiperbárica por servicio 6.92 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVII.- Hemodiálisis con equipo para residentes nacionales 28.87 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVIII.- Hemodiálisis con equipo para residentes extranjeros 92.39 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIX.- Descompresión por hora 21.17 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XX.- En cualquier otro servicio no especificado de 1.00 a 10.00 UMA.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XII. EXPEDICION DE ESCRITURAS PUBLICAS Y AUTORIZACION DE PROTOCOLOS
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
 ###### ARTICULO 185.
 
-Los Notarios Públicos del Estado de Quintana Roo o quienes ejerzan sus funciones, pagarán un derecho conforme a la siguiente:
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I.- Por expedición de testimonios de escrituras públicas o actas notariales, a razón de 8.05 UMA.
-
-II.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 2006)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III.- Por ratificación o reconocimiento de firmas 1.15 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- Por cotejo de documentos. 1.15 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Por certificación de otros actos. 1.15 UMA.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 186.
 
@@ -7823,351 +5817,57 @@ V.- Por certificación de otros actos. 1.15 UMA.
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
 
-### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
 
 ###### ARTICULO 188.
 
-Por la legalización de firmas y copias certificadas que se expiden de constancias y documentos existentes en las oficinas públicas, se pagará conforme a las siguientes tarifas:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-TARIFA
-
-I.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2012)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II.- Por certificados de valor catastral fiscal 3.45 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-III.- Por la expedición de certificaciones que consten en la Oficialía Central del Registro Civil, causarán derechos conforme a la siguiente:
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-TARIFA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por Acta de Nacimiento. 0.5 UMA.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-Por la expedición de la primera copia certificada del acta de nacimiento, procederá la exención de su cobro.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Por Acta de matrimonio. 2.0 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Por Acta de divorcio. 4.5 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Por Acta de defunción. 2.0 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) No especificado. 3.5 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Constancia de inexistencia de registro. 3.5 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-g) Aclaración administrativa. 4.5 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-h) Anotación marginal. 1.0 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-i) Autorización de registro extemporáneo. 2.75 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-j) Por la expedición de fotocopias de actos registrados certificados. 0.5 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- Otras legalizaciones o certificaciones. 1.73 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Copias certificadas derivadas de Convenios transaccionales, exhortos y autorizaciones para escrituraciones, 9 UMA.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-VI.- Por expedición de copias certificadas a cargo del Poder Judicial y del Tribunal de Justicia Administrativa, 1 UMA
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-VII.- Por expedición de Copias simples:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por la primera hoja 0.5 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Por cada hoja excedente 0.06 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Por apostillamiento de documentos diversos. 4 UMA.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XIII-A. DEL REGISTRO CIVIL
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 188-A.
 
-Se entiende por este derecho la prestación por la validez jurídica que otorga la Dirección Estatal del Registro Civil en los distintos actos que determinan la situación civil de los habitantes del Estado.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 188-B.
 
-Los derechos por los servicios que presta el Registro Civil se pagarán de acuerdo con las cuotas que señala la siguiente:
-
-TARIFA
-
-I.- Nacimientos:
-
-a) (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) En las Oficinas del Registro Civil en horas inhábiles. 1.0 UMA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Fuera de las Oficinas del Registro Civil en horas hábiles 4.5 UMA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Fuera de las Oficinas del Registro Civil en horas inhábiles 6.5 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Rectificación en el Libro de Registro que corresponda. 0.5 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Inscripción de actas de mexicanos nacidos y registrados en el extranjero 4.00 UMA
-
-II.- Matrimonios:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) En las Oficinas del Registro Civil en horas hábiles. 1.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) En la oficina del Registro Civil en horas inhábiles 5.50 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Fuera de las Oficinas del Registro Civil en horas hábiles 6.50 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d). Fuera de las oficinas del Registro Civil en horas inhábiles 22.50 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Entre mexicanos y extranjeros en las oficinas del Registro Civil 20.00 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Entre mexicanos y extranjeros fuera de la oficina del Registro Civil 22.00 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-g) Matrimonio entre extranjeros en la Oficina del Registro Civil. 65.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-h) Matrimonio entre extranjeros fuera de la Oficina del Registro Civil 150 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-i) Fuera de las oficinas del Registro Civil en sábados y domingos y días festivos 20.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-j) Inscripción de actas de mexicanos que contraen matrimonio en el extranjero 8.50 UMA
-
-III.- Divorcios:
-
-a).- Divorcios voluntarios:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Por acta de solicitud 10.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. Por acta de divorcio 10.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. Por acta de audiencia 5.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-4. Por acta de desistimiento 10.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b).- Divorcio entre extranjeros en las oficinas del Registro Civil 85.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c).- Divorcio entre extranjeros fuera de la oficina del registro civil 170.10 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d).- Por acta de divorcio decretada por las autoridades judiciales que se inscriban en el Registro Civil 7.50 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e).- Inscripción de actas de mexicanos que disuelven el vínculo matrimonial en el extranjero 7.50 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f).- Acuerdo de autorización de divorcio administrativo 10.00 UMA.
-
-IV.- Por cada acta de supervivencia:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) En la oficina. 0.3 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Levantada a domicilio 2.50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Tutela, Emancipación, Adopción o Reconocimiento 2.0 UMA.
-
-VI.- Otros:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Inscripción de sentencias ejecutorias 6.5 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Asentamientos de actas de defunción 1.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Transcripción de documentos 7.50 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Expedición de actas de reconocimiento 1.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Expedición de actas de adopción 4.0 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Expedición de actas de inscripción 4.0 UMA
-
-g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
-
-h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-i) Búsqueda de documentos 10.00 UMA
-
-j) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-k) Rectificación y/o aclaración de actas con anotación marginal 5.50 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-l).- Trámite de actas certificadas de otras entidades federativas:
-
-1. Nacimiento, reconocimiento o adopción 2.75 UMA
-
-2. Matrimonio, defunción, divorcio o inscripción de actos 6.50 UMA
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 188-C.
 
-Los actos de Registro Civil se efectuarán previo aviso y pago de los derechos en la oficina recaudadora de rentas.
-
-Los oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos, serán responsables solidarios de su pago.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 188-D.
 
-El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a la fracción II incisos b), c) y d) del artículo 188-B.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 188-E.
 
-En los casos de desastres naturales o programas de regularización como matrimonios colectivos a solicitud oficial de las autoridades ó instituciones competentes, la Dirección General del Registro Civil del Estado, a través de la Secretaria, podrá subsidiar hasta el 100% de los derechos que causen las actas de Registro Civil.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 189.
 
-Por la reproducción de documental que a juicio de la autoridad competente o a solicitud del interesado se efectúe, a excepción de lo que establece el artículo 206 Fracción III de esta ley, se causará un derecho de 0.35 UMA por hoja.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 190.
 
-No causaran los derechos a que se refiere este capitulo:
-
-I.- Los certificados de estudios escolares.
-
-II.- Las copias certificadas expedidas como consecuencia inmediata y necesaria del ejercicio de las facultades u obligaciones de los funcionarios o autoridades que las expidan.
-
-III.- Los certificados de supervivencia expedidos a los pensionistas de los Gobiernos Federal y de los Estados.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 191.
 
-Los derechos a que se refiere este capítulo, incluyendo la búsqueda de los documentos se pagarán en las Oficinas Recaudadoras de Rentas del estado, previamente a la prestación del servicio de que se trate.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XIV. REGISTRO DE TITULOS PROFESIONALES
 
 ###### ARTICULO 192.
 
-Toda persona que ejerza una profesión en el Estado está obligada a registrar su titulo profesional en la oficina respectiva del Gobierno, previo pago de la cuota que señala la siguiente:
-
-TARIFA
-
-I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II.- Enfermeras, parteras y farmacéuticas. 6.90 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III.- Los demás profesionales. 13.80 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- Peritos valuadores 17.25 UMA.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -8205,7 +5905,11 @@ IV.- Peritos valuadores 17.25 UMA.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ### CAPITULO XVI. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION PRIMERA. DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
@@ -8221,507 +5925,45 @@ IV.- Peritos valuadores 17.25 UMA.
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 203
 
-BIS.- Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos conforme a la siguiente:
+BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-TARIFA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por solicitud de análisis y calificación de documentos que contengan actos inscribibles, se cobrará 65 UMA por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 UMA por cada foja que contenga el documento incluyendo sus anexos.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Por solicitud de análisis y calificación de documentos que contengan actos anotables ya sean preventiva o definitivamente, se cobrará 65 UMA por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 UMA por cada foja que contenga el documento incluyendo sus anexos.
-
-c) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2014)
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Por solicitud de asiento de presentación de aviso preventivo con vigencia de 30 y de 90 días 12 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Por la expedición de copias certificadas relativas a los actos que obren en el programa informático se cobrará por hoja 2 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Por expedición de certificados de información o datos que obren en el sistema de registro, en atención a la naturaleza de la solicitud formulada ya sea por nombre o por folio, se cobrará por cada uno de ellos 5 UMA.
-
-Para la aplicación del presente inciso, el solicitante deberá especificar la forma en que requiera el certificado, ya sea por nombre en el que se certificará los folios que reporte el sistema por dicho nombre; o bien ya sea por folio, en el que se certificará los actos que reporte el sistema por dicho folio.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-g) Por expedición de constancias de asiento registral por folio 5 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-h) Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-i) Por el depósito de testamentos, si se hace en la oficina del Registro 10 UMA.
-
-Si se hace fuera de la oficina del Registro 12 UMA.
-
-Si el depósito se hace fuera de las horas de oficina, será de: 15 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-j) Por la ratificación de documentos privados en el caso a que se refiere el artículo 2599 y 3162 fracción III del Código Civil para el Estado Libre y Soberano de Quintana Roo y la constancia de la misma se cobrará: 15 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-k) Por el análisis y calificación de actos relativos a anotaciones de actas aclaratorias consistentes en rectificación de ubicación, medidas, colindancias, clave catastral, localidad, coordenadas y vialidad, se cobrarán: 5 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-l) Por cancelación de avisos preventivos que anuncian la formalización de actos ordenados por los Notarios, se cobrarán: 8 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Para el pago de los 0.20 UMA por cada foja a que se refieren los incisos a) y b) de este artículo, en el supuesto que un mismo documento presentado contenga actos inscribibles y anotables, sólo una vez se pagará este importe por dicho documento.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. DEL REGISTRO PUBLICO DEL COMERCIO
 
 ###### ARTICULO 204.
 
-Los servicios que se presten en el Registro Público del Comercio causarán derechos de acuerdo a la siguiente:
-
-TARIFA
-
-I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-II.- La inscripción de matrícula
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por cada comerciante individual 5.75 UMA.
-
-b) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III.- Inscripción de las escrituras constitutivas de sociedades mercantiles y las relativas a aumento o disminución de su capital social, así como las de sociedades de capital variable o para el caso de las sucursales de sociedades 50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- Inscripción de las modificaciones a las escrituras constitutivas de sociedades mercantiles, siempre que no se refieran al aumento de capital 5.75 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Inscripción de actas de asambleas de socios o administradores 5.75 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI.- Depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles 5.75 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VII.- Inscripción del acta de emisión de bonos u obligaciones de las sociedades anónimas, así como en el caso de enajenación de acciones de dichas sociedades 25 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Inscripción de la disolución o liquidación de sociedades mercantiles 10.35 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX.- Inscripción de la disolución y liquidación de sociedades mercantiles cuando se lleve a cabo en un solo acto 11.50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-X.- Por la inscripción de actas de nombramiento de liquidadores 11.50 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XI.- Cancelación del contrato de sociedades, a las que no se refiere la fracción IX de este artículo 5.75 UMA.
-
-En los casos de esta fracción y de las dos que anteceden, si como consecuencia de la liquidación de la sociedad se adjudican bienes, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros aplicando lo dispuesto por la fracción II del artículo 201.
-
-XII.- Inscripción de poderes y sustitución de los mismos
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Si se designa un solo apoderado 5.75 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Por cada apoderado más que se designe en el mismo poder 2.88 UMA.
-
-El otorgamiento de poderes a los administradores o gerentes de sociedades mercantiles en las escrituras constitutivas o modificaciones no causarán los derechos a que se refiere esta fracción.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIII.- Inscripción de revocación de poderes por cada apoderado 2.88 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIV.- Inscripción relativa a habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que en su defecto necesita la mujer para los mismos fines, la revocación de las mismas y las escrituras a que se refieren las fracciones X y XI del artículo 21 de Código de Comercio 1.73 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el Artículo 75 del Código de Comercio no previstos en este capítulo, 6.90 UMA.
-
-XVI.- Inscripción de contratos de corresponsalía de Instituciones de Crédito
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por inscripción 5.75 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Por cancelación 3.45 UMA.
-
-XVII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XVIII.- Inscripción de resoluciones judiciales en las que se declare una quiebra o se admita una liquidación judicial 5.75 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XIX.- Anotaciones relativas a inscripciones principales 5.75 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XX.- Depósito o guarda de cualquier documento 63.25 UMA.
-
-XXI.- Ratificación de documento y firma ante el Registrador
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Si la cuantía no excede de $ 10,000.00 6.90 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Si excede de $ 10,000.00 11.50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXII.- Búsqueda en el Programa Informático para informes de constancias comerciales o sociedades mercantiles inscritas, por cada nombre o razón social 5.75 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-XXIII.- Expedición de copias certificadas relativas a las inscripciones que obren en el Programa Informático.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por primera hoja 4.03 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Por cada hoja excedente 1.73 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXIV.- Por los demás servicios no previstos en este artículo, 9.2 UMA.
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XXV.- Expedición de certificados de libertad o de existencia de gravamen 5.75 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 205.
 
-Para el cobro de los derechos que establece la tarifa de los artículos anteriores se observarán las reglas siguientes:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Cuando un mismo título origine 2 ó mas inscripciones, los derechos se causarán por cada una de ellas.
-
-II.- En los casos en que un título tenga que inscribirse en varias secciones, la cotización se hará separadamente por cada una de ellas.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III.- En los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de propiedad o cualquiera otra modalidad que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el 75% de los que correspondan de acuerdo con el artículo anterior y al practicarse la inscripción complementaria el 25% restante.
-
-IV.- Cuando deban hacerse inscripciones de distintas operaciones que deriven de la constitución o disolución de alguna sociedad mercantil, se cobrarán los derechos exclusivamente por la inscripción que se haga en la sección del Comercio.
-
-V.- Los contratos en que se pacten prestaciones periódicas, se valuarán en la suma de éstas si se puede determinar exactamente su cuantía, en caso contrario, por lo que resultare haciéndose el cómputo de un año.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Público del Comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas del Sistema Educativo Quintanarroense que estén bajo su vigilancia.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XVII. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA DE ECOLOGIA Y MEDIO AMBIENTE
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
 ###### ARTICULO 206.
 
-Por cada verificación vehicular, que deberá efectuarse sobre la emisión de contaminantes generados por los vehículos automotor, su propietario o poseedor deberá pagar los derechos, conforme a las siguientes cuotas:
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-I.- Por verificación anual a vehículos con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Holograma Cero “0” 8 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Holograma dos “2” 8 UMA.
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-II.- Por verificación bianual a vehículos con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Holograma doble cero “00” 16 UMA.
-
-> <small>[N. DE E. PARA LA APLICACIÓN DE LA MODIFICACIÓN A LA PRESENTE FRACCIÓN SE SUGIERE COMO COMPLEMENTO CONSULTAR SU CRONOLOGÍA LEGISLATIVA.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III.- Por la búsqueda y reposición de certificados y/o hologramas de verificación vehicular de emisión de contaminantes: 2.0 UMA.
-
-El pago de los derechos a que se refiere este artículo, deberá realizarse de acuerdo a lo establecido en el Programa de Verificación Vehicular para el estado de Quintana Roo y Reglamento en Materia de Prevención y Control de la Contaminación Ambiental.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, constancia sobre los resultados de la verificación del vehículo debidamente sellado y marcado por el centro de verificación vehicular autorizado por la Secretaría de Ecología y Medio Ambiente, a fin de que sea realizado el trámite de revalidación de vigencia de la matrícula vehicular.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- El costo por el estudio, verificación del sitio y análisis de la documentación para obtener la concesión vehicular será de: 500 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- El costo para obtener la concesión para la operación de un centro de verificación vehicular será de: 3,500 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI.- El costo para obtener el refrendo anual para la operación del centro de verificación vehicular concesionado será de: 1,800 UMA.
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-VII.- El costo para obtener la calcomanía y su constancia de baja emisión de contaminantes será:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Holograma Doble Cero “00”: 5.0 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Holograma Cero “0”: 2.0 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Holograma Dos “2”: 2.0 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII.- El costo para obtener la hoja de rechazo será de 1.00 UMA.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-Únicamente los concesionarios de los centros de verificación vehicular autorizados por la Secretaría de Ecología y Medio Ambiente en el Estado de Quintana Roo, podrán obtener dichas hojas de rechazo y calcomanías con sus respectivas constancias de baja emisión de contaminantes.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX.- El costo por autorización en el incremento de cada línea de verificación Vehicular en los Centros de Verificación Vehicular autorizados será de 500 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 206
 
-BIS.- Por los servicios que en materia de impacto ambiental, presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
-
-TARIFA
-
-I.- Por concepto de recepción y evaluación de los documentos que se enlistan a continuación:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Manifestación de impacto ambiental, modalidad ordinaria y/o detallada. 170 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Manifestación de impacto ambiental que identifique los impactos negativos ocasionados al ambiente. 170 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Informe preventivo. 150 UMA.
-
-d) (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental y/o informe preventivo. 80 UMA.
-
-f) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
-
-g) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
-
-II.- Por los servicios relacionados con la materia de impacto ambiental como a continuación se indica:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Expedición de resolución que contenga la autorización de modificaciones a proyectos: 50 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Expedición de las renovaciones de la vigencia de las autorizaciones en materia de impacto ambiental: 50 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Expedición de la exención de la presentación de los estudios en materia de impacto ambiental: 100 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Emitir la congruencia de obras u actividades que pretendan realizarse en el territorio estatal: 30 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Ingreso al Registro de Prestadores de Servicio en Materia de Impacto Ambiental del Gobierno del Estado de Quintana Roo: 60 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Expedición de Refrendo del Registro de Prestadores de Servicio en Materia de impacto Ambiental del Gobierno del Estado de Quintana Roo: 50 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-g) Por concepto de verificación e inspección de áreas, predios y obras: 60 UMA.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 206
 
-TER.- Por los servicios que en materia de Prevención y Control de la Contaminación Ambiental presta la Secretaría de Ecología y Medio Ambiente, conforme al Reglamento en la materia, las personas físicas y morales pagarán conforme a la siguiente:
-
-TARIFA
-
-I.- Por concepto de recepción y evaluación de los documentos que se enlistan a continuación:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Auditorías Ambientales: 440 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Aclaraciones, rectificaciones o ampliaciones al contenido de las auditorías ambientales: 80 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Estudio de Riesgo: 150 UMA.
-
-II.- Por los servicios relacionados con la materia de Prevención y Control de la Contaminación Ambiental como a continuación se indica:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Certificación inicial anual de vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas: 70 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Refrendo anual de la certificación del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas: 40 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Por análisis y resolución de la Cédula de Desempeño Ambiental: 300 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Por refrendo y resolución de la Cédula de Desempeño Ambiental: 120 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Por solicitud extemporánea de la Cédula de Desempeño Ambiental: 400 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Por solicitud extemporánea del refrendo de la Cédula de Desempeño Ambiental: 200 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-g) Verificación de las instalaciones de las Fuentes Fijas de Competencia Estatal para exceptuar la obtención de la Cédula de Desempeño Ambiental: 60 UMA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+TER.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 206
 
-QUATER.- Por el concepto de cobro por ingreso y servicios en las Áreas Naturales Protegidas Estatales (ANP`s) que presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-TARIFA
-
-Por concepto de ingreso a los ANP's estatales y de servicios otorgados a los usuarios, como lo son visitas guiadas, uso de infraestructura, sanitarios y otros de acuerdo a la siguiente clasificación:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Quintanarroenses: 0.30 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Nacionales: 0.50 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Extranjeros: 1.0 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Por concepto de estudios de investigación que se vayan a efectuar dentro de las ANP'S por las instituciones académicas y de investigación, nacionales o extranjeras: 3 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Por concepto de filmaciones y sesiones fotográficas con fines comerciales: 160 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Por concesiones anuales a prestadores de servicios náuticos, acuático-recreativos, de ecoturismo de bajo impacto: 380 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Por concesiones anuales a comerciantes de artesanías, manualidades, de alimentos y bebidas: 380 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Por el uso de la imagen de las ANP'S y sus recursos: 380 UMA.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+QUATER.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 206
 
-QUINQUIES.- Por los servicios que en materia de Residuos de competencia Estatal presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
-
-TARIFA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I.- Por análisis y resolución de Planes de Manejo de Residuos 157 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II.- Por Refrendo anual de los Planes de Manejo de Residuos de competencia estatal 50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III.- Por inscripción y refrendo anual al padrón de Asesores y/o Gestores relacionados con el manejo integral de Residuos Sólidos Urbanos y de Manejo Especial. 100 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- Por inscripción y refrendo anual al padrón de Centros de acopio de Residuos Sólidos Urbanos y de Manejo Especial. 50 UMA.
-
-V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2014)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI.- Por inscripción y resolución anual al padrón de recolección y Transporte de Residuos Sólidos Urbanos y de Manejo Especial. 50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VII.- Por el análisis y resolución derivado de la verificación de las instalaciones de los establecimientos que soliciten la exención a presentar plan de manejo bajo el esquema de gran generador de residuos sólidos urbanos (27.3 k/día) o generador de residuos de manejo especial 60 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Por análisis y resolución del informe y bitácora anual del Plan de Manejo de Residuos de Competencia Estatal 50 UMA.
+QUINQUIES.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -8771,407 +6013,53 @@ VIII.- Por análisis y resolución del informe y bitácora anual del Plan de Man
 
 (DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARÍA DE EDUCACIÓN
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 ###### ARTICULO 207-H.
 
-Los derechos por los servicios que presta la Secretaría de Educación, se pagarán conforme a los apartados siguientes:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-A. Los derechos por los servicios que presta en materia de educación se pagarán conforme la siguiente:
-
-TARIFA
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-I. Reconocimiento de validez oficial de estudios a particulares para impartir educación media superior. 200 UMA.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-II. Reconocimiento de validez oficial de estudios a particulares para impartir educación superior. 250 UMA.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-III. Análisis y calificación para el seguimiento y control escolar en cada ciclo escolar, por alumno de bachillerato o educación superior. 2 UMA.
-
-Este derecho deberá pagarse dentro de los primeros veinte días de inicio de cada ciclo escolar.
-
-IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V. Certificaciones de estudios de bachillerato o educación superior, por alumno. 3.50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI. Exámenes extraordinarios de bachillerato o educación superior, por alumno. 1.70 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VII. Exámenes profesionales o de grado de bachillerato bivalente, licenciatura y posgrados. 13 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII. Trámite de equivalencia o revalidación de estudios de bachillerato, licenciaturas o posgrados. 12.00 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX. Legalización de firmas y/o apostilla de documentos académicos de todos los niveles 2.00 UMA.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-X. Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo. 150 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XI. Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno 1.20 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XII. Análisis y calificación para el Registro de Colegios de Profesionistas autorizados por la Secretaría de Educación y Cultura. 11 UMA.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-B.- Los derechos por los servicios que presta en materia de cultura se pagarán conforme la siguiente:
-
-TARIFA
-
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-I.- Por la renta de espacios pertenecientes a la Secretaría de Educación se cobrará de acuerdo a la siguiente tarifa:
-
-En la Zona Sur:
-
-> <small>[N. DE E. VÉASE TARIFAS EN EL P.O. DEL 4 DE DICIEMBRE DE 2013, PÁGINAS 35 A LA 36.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LAS TARIFAS EN EL P.O. DEL 15 DE DICIEMBRE DE 2016, PÁGINA 206.]</small>
-
-Cuando los espacios contemplados en la tabla antes citada, sean requeridos para eventos de carácter oficial por el Gobierno del Estado o Municipios, no se causará derecho alguno.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II.- Por el uso de la casa internacional del escritor. 6.00 UMA por persona.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III.- Por cada función en cine café 0.32 UMA por persona.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- Por cada función en el Teatro Constituyentes del 74 de 0.4 UMA a 2.00 UMA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Por cada función en la Plaza Central de la Casa de la Cultura de Cancún de 0.20 UMA a 2.00 UMA.
-
-VI.- Por visita a los museos se cobrará de acuerdo a la siguiente tarifa:
-
-Museos Niños Adultos Extranjeros
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Cultura Maya 0.21 UMA 0.42 UMA 1.00 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) San Felipe de Bacalar 0.21 UMA 0.42 UMA 1.00 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Guerra de Castas 0.10 UMA 0.21 UMA 1.00 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) De la Ciudad 0.10 UMA 0.21 UMA 1.00 UMA
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Las tarifas contempladas en la tabla anterior, serán reducidas en un 50%, para estudiantes con credencial vigente, y para las personas con credencial del Instituto Nacional de las Personas Adultas Mayores a excepción de extranjeros, de lunes a sábado, salvo los días domingo que estarán exentos de pago los visitantes que residan en el Estado.
-
-VII.- Por el acceso a la educación que imparten las escuelas estatales, se cobrará de acuerdo a la siguiente tarifa:
-
-Por inscripción Por mensualidad
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) De música Carrera: 2.60 UMA. Carrera 2.60 UMA.
-
-Taller: 0.57 UMA Taller 1.44 UMA
-
-hasta 3.0 UMA. hasta 5.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) De danza De 0.87 UMA hasta De 1.44 UMA hasta
-
-3.00 UMA. 5.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) De artes plásticas 1.00 UMA. Taller de dibujo y pintura
-
-1.00 UMA.
-
-2.00 UMA. Artes plásticas 2.00 UMA.
-
-1.00 UMA. Taller juvenil de teatro 1.00 UMA
-
-EXENTO Curso avanzado de
-
-artes plásticas 1.73
-
-UMA hasta 6.00 UMA
-
-por trimestre.
-
-VIII.- Por el acceso a la educación que imparten las casas de la cultura en el Estado, se cobrará de acuerdo a la siguiente tarifa:
-
-ZONA NORTE
-
-Por inscripción Por mensualidad
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) En Cancún De 0.92 UMA hasta 3.00 UMA. De 1.27 UMA hasta 13.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) En Cozumel De 0.87 UMA hasta 3.00 UMA. De 1.58 UMA hasta 7.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) En Tulum De 0.28 UMA hasta 3.00 UMA. De 0.28 UMA hasta 7.00 UMA.
-
-d) En Kantunilkin EXENTO EXENTO
-
-e) En Holbox EXENTO EXENTO
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría de Educación deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
-
-ZONA SUR
-
-Por inscripción Por mensualidad
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a).- En Chetumal De 0.45 UMA hasta De 0.90 UMA hasta
-
-2.00 UMA. 3.00 UMA.
-
-b).- En Calderitas EXENTO EXENTO
-
-c).- En Bacalar EXENTO EXENTO
-
-d).- En Felipe C. Puerto EXENTO EXENTO
-
-e).- En Chunhuhub EXENTO EXENTO
-
-f).- En Sabán EXENTO EXENTO
-
-g).- Nicolás Bravo EXENTO EXENTO
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-Con respecto a las tarifas de la tabla anterior, la Secretaría de Educación deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX.- Por el acceso a los cursos de verano que se imparten en la Casa de la Cultura de la Ciudad de Cancún de 2.64 UMA hasta 26.64 UMA.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-### CAPITULO XIX-A. SERVICIOS QUE OTORGA LOS SERVICIOS EDUCATIVOS
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+### CAPITULO XIX-A. SERVICIOS QUE OTORGA (SIC) LOS SERVICIOS EDUCATIVOS
 
 ###### ARTICULO 207
 
-H BIS.- Los derechos por los servicios que presta el organismo descentralizado de la Administración pública paraestatal denominado Servicios Educativos, se pagarán conforme a la siguiente:
+H BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-TARIFA
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-I.- Análisis y calificación para la autorización a particulares para impartir educación preescolar, primaria y secundaria. 175 UMA.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-II.- Análisis y calificación para la autorización a particulares para impartir educación normal. 250 UMA.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-III.- Análisis y calificación para el seguimiento y control escolar a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar, por alumno. 1 UMA.
-
-Este derecho deberá pagarse en los Servicios Educativos del Estado de Quintana Roo dentro de los primeros 20 días de inicio de cada ciclo escolar.
-
-IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Certificaciones de estudios de educación primaria, secundaria y normal, por alumno. 1.40 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI.- Exámenes extraordinarios de regularización de educación secundaria y normal, por asignatura. 1.50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VII.- Evaluación General de Conocimientos de educación primaria y secundaria, por alumno. 6.50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Exámenes Profesionales de educación normal, por alumno. 50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX.- Revalidación de Estudios de educación primaria y secundaria 4.50 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-X.- Equivalencia de Estudios de Secundaría 8 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XI.- Expedición de Constancia de registro de Control Escolar 1 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XII.- Reposición de Cartillas de Educación Básica. 1.00 UMA.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XX. DE LOS DERECHOS QUE SE GENERAN POR EL CONTROL, VIGILANCIA, Y EVALUACION
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
-
 ###### ARTICULO 207-I.
 
-Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente de 5 al millar del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXI. DE LOS SERVICIOS DE LA DIRECCION GENERAL DE NOTARIAS
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
 ###### Artículo 207-J.
 
-Quienes soliciten los servicios de la Dirección General de Notarías, pagarán un derecho conforme a lo siguiente:
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. Por la expedición del segundo o ulterior testimonio de Escrituras Públicas o Actas Notariales. 30 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Por la expedición de constancias. 5.75 UMA.
-
-III. La expedición de copias certificadas, causará los derechos conforme a lo siguiente:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por la primera hoja 4.03 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Por cada hoja excedente 1.73 UMA.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-IV.- Por la expedición de copias simples, causará los derechos conforme lo siguiente:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Por la primera hoja 0.5 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Por cada hoja excedente 0.06 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V.- Por la búsqueda en el Archivo de la Dirección General de Notarías de escrituras públicas, actas notariales, documentos que integran el apéndice y testamentos, por cada instrumento 5.75 UMA.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 207-K.
 
-Los notarios públicos o quienes ejerzan sus funciones, pagarán un derecho:
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. Por la autorización de cada libro del protocolo 18 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Por la autorización de 200 fojas foliadas del protocolo abierto especial. 18 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III. Por el registro del sello de los Notarios Públicos Titulares y/o suplentes. 6 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV. Por la reposición de sello de las Notarías Públicas 6 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 207-L.
 
-Por registro de patente de notario público pagará 75 UMA.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
 ###### ARTICULO 207-M.
 
-Por los materiales que se utilicen para reproducir la información que proporcionen los sujetos obligados de naturaleza estatal, previstos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, pagarán un derecho conforme a lo siguiente:
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. Por la expedición de documentos en copia simple 0.011 UMA por cada foja tamaño carta y 0.012 UMA por cada foja en tamaño oficio y legal.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Por la expedición de copias simples de planos geográficos o arquitectónicos que por sus características y dimensiones no puedan reproducirse en papel tamaño carta, oficio o legal, 0.83 UMA por cada foja de tamaño especial.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III. Por la expedición de videocintas 2.00 UMA por cada una.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV. Por la expedición de audiocasettes 0.5 UMA por cada uno.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V. Por la expedición de disco compacto 0.5 UMA por cada uno.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-Tratándose de lo dispuesto en las fracciones III, IV y V, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Transparencia que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-En la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refieren las fracciones I y II de este artículo, se realizará el pago a que se refiere la fracción IV del artículo 188 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-Para el envío de documentos o de material que contenga información a través de correo certificado o mensajería, además del pago del derecho a que se refieren las fracciones I, II, III, IV y V, el solicitante deberá cubrir el costo del servicio respectivo, según la tarifa que corresponda.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9181,205 +6069,79 @@ Para el envío de documentos o de material que contenga información a través d
 
 (DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXIV. DE LOS SERVICIOS QUE OTORGA LA SECRETARIA DE INFRESTRUCTURA (SIC) Y TRANSPORTE
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
 ###### ARTICULO 207
 
-Ñ.- Los derechos por los servicios que presta la Secretaría de Infraestructura y Transporte, se pagarán conforme a la siguiente:
+Ñ.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-TARIFA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. Por la Inscripción anual al Padrón de contratistas del Estado de Quintana Roo 15 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Por concepto de renovación de la inscripción 10 UMA
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-III.- Revisión y Análisis de los documentos de la concesión del servicio público de transporte.
-
-20 UMA.
-
-Este derecho se deberá pagar dentro de los dos primeros meses de cada año.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2010)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXV. DE LOS SERVICIOS QUE OTORGAN LAS AUTORIDADES LABORALES DEL ESTADO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 207-O.
 
-Los derechos por los servicios que prestan las autoridades laborales del Estado, a través del Tribunal, Junta Local y Juntas Especiales todas de Conciliación y Arbitraje, Procuraduría de la Defensa del Trabajo y sus Procuradurías Auxiliares, la Dirección del Trabajo y los Inspectores de Trabajo, se pagarán conforme a la siguiente:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-TARIFA
-
-I. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Por la expedición de documentos en copia simple 0.011 UMA por cada foja tamaño carta y 0.012 UMA por cada foja en tamaño oficio y legal.
-
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2010)</small>
-
-En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda diez fotocopias.
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2010)</small>
-
-III.- Por la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refiere la fracción II de este artículo, se realizará el pago a que se refiere la fracción IV del Artículo 188 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXVI. DEL REGISTRO ESTATAL DE PERITOS VALUADORES
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
 ###### Artículo 207-P.
 
-Los derechos por los servicios que prestan la Secretaría de Gobierno, relacionados con el registro estatal de peritos valuadores de conformidad con la Ley de Valuación para el Estado de Quintana Roo, se pagarán conforme a la siguiente:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-T A R I F A:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por inscripción y refrendo en el registro 25.00 UMA.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXVII. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS Y PLANEACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTICULO 207-Q.
 
-Por los servicios que presta la Secretaría de Finanzas y Planeación, se causarán los siguientes derechos:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por expedición de historial de pagos 2 veces la UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Por el registro de autorización para la apertura de casa de empeño o préstamo 130 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Por la renovación anual del registro de autorización para la apertura de casa de empeño o préstamo 110 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Por modificaciones al registro de autorización para la apertura de casa de empeño o préstamo 110 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Por la búsqueda de registro vehicular en otras Entidades Federativas 2 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Por la verificación para el trámite de Licencia de Bebidas Alcohólicas 4 UMA.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXVIII. DE LOS SERVICIOS PRESTADOS POR EL CENTRO ESTATAL DE EVALUACION Y CONTROL DE CONFIANZA
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
 ###### ARTICULO 207-R.
 
-Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confianza, consistente en la aplicación de la Evaluación de Control de Confianza, se causará un derecho de 88 UMA por persona.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXIX. POR LOS SERVICIOS QUE PRESTA LA FISCALIA GENERAL DEL ESTADO DE QUINTANA ROO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
 ###### ARTICULO 207-S.
 
-Por los servicios que presta la Fiscalía General del Estado de Quintana Roo, se causarán derechos conforme a la siguiente:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-TARIFA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. Expedición de certificados de antecedentes penales 2.44 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Acta Certificada de extravío de documentos oficiales 10 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III. Examen antidoping 6.00 UMA.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXX. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTICULO 207-T.
 
-Por los servicios que otorga la Secretaría de Seguridad Pública, causarán los siguientes derechos:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Por el análisis y calificación para el registro y autorización anuales para el funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 260 UMA;
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Por el análisis y calificación para la renovación anual del registro de funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 180 UMA; y
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) La expedición de certificados de antecedentes penales 2.44 UMA.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 207-U.
 
-Es objeto de este derecho, el Servicio Especial prestado por convenio o contrato por la Unidad de Servicios Especiales de Vigilancia, dependiente de la Secretaría de Seguridad Pública. Se entiende por Servicios Especiales de Vigilancia, aquellos de carácter policial en los que su ejecución contribuye al mejoramiento de la seguridad pública en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como la protección a funcionarios y personas en general.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 207-V.
 
-Son sujetos de este derecho, las personas físicas o morales que requieran y soliciten en forma periódica, eventual o permanente la intervención de la Unidad de Servicios Especiales de Vigilancia.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 207-W.
 
-Este derecho se causará y pagará en las oficinas recaudadoras de rentas correspondientes o a través de los depósitos o transferencias bancarias en las cuentas que determine la Secretaría de Finanzas y Planeación del Gobierno del Estado, al día hábil siguiente a la firma del convenio o en las fechas que se establezcan en los contratos, por la prestación de los siguientes servicios y la correspondiente tarifa:
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. Por el servicio de vigilancia especial de instalaciones por el tiempo de doce horas diarias, se causará por cada elemento la cantidad de 12.4 UMA, pagaderos en términos de lo establecido en los contratos que se suscriban;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Por el servicio de protección de personas por el tiempo de doce horas diarias se causará por cada elemento, la cantidad de 25.0 UMA, pagaderos en términos de lo establecido en los contratos que se suscriban.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III. Por el servicio de custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1.0 UMA, por cada 3 kilómetros de recorrido.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 207-X.
 
-Las personas físicas o morales que requieran del Servicio Especial de Vigilancia deberán solicitarlo por escrito dirigido a la Unidad de Servicios Especiales de Vigilancia indicando el tipo de servicio requerido, el número de elementos que le deberán ser asignados, la fecha de inicio y terminación del mismo, el domicilio en el cual se llevará a cabo la ejecución del servicio, el nombre del solicitante o la denominación o razón social y el domicilio del beneficiario del servicio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(DEROGADO, P.O. 29 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXXI. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO
 
@@ -9387,237 +6149,33 @@ Las personas físicas o morales que requieran del Servicio Especial de Vigilanci
 
 #### SECCIÓN PRIMERA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS SERVICIOS DEL PERIÓDICO OFICIAL DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
-
 ###### ARTICULO 207-X
 
-BIS.- Los servicios que presta el Periódico Oficial del Estado, se sujetarán al pago de los derechos siguientes:
+BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-I. Inserción de publicaciones
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINA 251.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINA 214.]</small>
-
-Los costos anteriores aumentarán en un 20% en caso de que los gráficos, mapas o planos se publiquen a color.
-
-II. Suscripciones
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Anual 24 números ordinarios 20 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Semestral 12 números ordinarios 13 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Anual vía internet 24 números ordinarios 9.62 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Semestral vía internet 12 números ordinarios 6.73 UMA
-
-III. Venta de ejemplares
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Ejemplar de hasta 8 hojas 1 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Ejemplar de 9 hasta 100 hojas 1.50 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Ejemplar de 101 hasta 200 hojas 4.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Ejemplar de más de 200 hojas 9.00 UMA.
-
-e) Ejemplar vía Internet:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-1. Hasta de 5 hojas 0.98 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-2. De 6 a 100 hojas 0.96 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-3. De más de 100 hojas 0.50 UMA.
-
-IV. Otros servicios
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Búsqueda de publicación 1.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Certificación de ejemplares agotados 1.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Certificación de inexistencia de ejemplares 1.00 UMA.
-
-V. Servicios notariales
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-a) Autorización de Licencias 42.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-b) Revocación de Licencias 42.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-c) Designación de Notario Suplente 42.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-d) Designación de Notario Auxiliar 42.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-e) Cambio de domicilio 32.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-f) Cambio de adscripción 53.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-g) Extracto de la solicitud de devolución de fianza 32.00 UMA.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-h) Aviso de inicio de funciones, sea titular, suplente 42.00 UMA.
-
-o auxiliar
-
-Esta tarifa será aplicable para las ediciones ordinarias. Para las extraordinarias se estará a lo dispuesto en la fracción I inciso b) del presente artículo.
-
-El pago por los servicios señalados en el presente artículo, se harán previamente a la publicación solicitada.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXXII. SERVICIOS QUE OTORGA LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 ###### ARTICULO 207-Y.
 
-Por los servicios que presta la Secretaría de Desarrollo Territorial Urbano Sustentable, causarán derechos con base a la siguiente:
-
-TARIFA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. Por la elaboración de dictamen de procedencia de cesión de derechos y obligaciones contractuales 8.47 UMA;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Por expedición de constancia de situación administrativa, financiera y jurídica 4.59 UMA;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III. Por deslinde de terrenos 0.52 UMA por metro cuadrado;
-
-IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2014)
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V. Por elaboración de croquis 2.75 UMA.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ###### ARTICULO 207-Y
 
-Bis.- Por los servicios que presta la Secretaría de Desarrollo Territorial Urbano Sustentable, en materia de operaciones inmobiliarias, se causarán derechos en base a la siguiente tarifa:
+Bis.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. Por el análisis y resolución para la expedición de la Acreditación de Profesional Inmobiliario 130 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. Por el análisis y resolución para la inscripción a la matrícula de profesionales inmobiliarios 25 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III. Por el análisis y resolución de la renovación anual de la Acreditación de profesional inmobiliario 25 UMA.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XXXIII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE TURISMO
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTICULO 207-Z.
 
-Por el uso de las Unidades de Servicio establecidas por la Secretaría de Turismo, en sitios inmediatos a las zonas arqueológicas, causarán derechos con base en la siguiente:
-
-TARIFA
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. En Cobá 0.47 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-II. En Chacchoben 0.37 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-III. En Dzibanché – Kinichná 0.37 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV. En El Meco 0.34 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-V. En El Rey 0.34 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VI. En Kohunlich 0.45 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VII. En Muyil 0.29 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-VIII. En Oxtankah 0.34 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IX. En San Gervasio 0.37 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-X. En San Miguelito 0.47 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XI. En Tulum 0.47 UMA.
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-XII. En Xelhá 0.34 UMA.
-
-No pagarán el derecho a que se refiere este artículo las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a las zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho los visitantes nacionales y extranjeros residentes en los Estados Unidos Mexicanos, los domingos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 ## TITULO IV. DE LOS PRODUCTOS
 
@@ -9896,6 +6454,20 @@ El Gobierno del Estado percibirá las participaciones establecidas en los conven
 ###### ARTICULO 231.
 
 Las cauciones judiciales se recaudarán de conformidad con las resoluciones en que se ordene se hagan efectivas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+## TITULO IX. INGRESOS POR VENTA DE BIENES Y PRESTACION DE SERVICIOS DE ENTIDADES PARAESTATALES CON PARTICIPACION ESTATAL MAYORITARIA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### CAPITULO UNICO. INGRESOS POR VENTA DE BIENES Y PRESTACION DE SERVICIOS DE ENTIDADES PARAESTATALES CON PARTICIPACION ESTATAL MAYORITARIA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### ARTICULO 232.
+
+Son los ingresos propios obtenidos por las Entidades Paraestatales Empresariales No Financieras con Participación Estatal Mayoritaria por sus actividades de producción, comercialización o prestación de servicios.
 
 ## TRANSITORIOS
 
@@ -10597,7 +7169,7 @@ I.- IMPUESTOS:
 
 8.- Sobre compraventa o permuta de ganado o sus esquilmos.
 
-9.- Al libre ejercicio de profesiones y actividades lucrativos de manera parcial.
+9.- Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
 
 10.- Sobre explotación y venta de primera mano de diversos materiales para la construcción.
 
@@ -10961,13 +7533,13 @@ D) Actos de inspección y vigilancia.
 
 Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
 
-Las certificaciones de documentos, así como la reposición de estos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en las incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+Las certificaciones de documentos, así como la reposición de estos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
 
 En ningún caso lo dispuesto en este artículo, limitará la facultad de las Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
 
 Para los efectos de coordinación con las Entidades, se considerarán derechos, a aún cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
 
-También se consideran corno derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
 SEGUNDO.- Tratándose de empresas dedicadas a la construcción, que deseen efectuar la contribución del impuesto en una sola exhibición en forma anticipada, siempre y cuando se trate de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación, del costo de mano de obra por metro cuadrado para obra privada, mismos que se publican de forma anual a petición de la Dirección de afiliación y cobranza del Instituto Mexicano del Seguro Social.
 
@@ -11376,3 +7948,77 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 291 POR EL QUE SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1° de Enero de 2019, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deja sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
+
+TERCERO. En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+A. IMPUESTOS
+
+I. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+II. Sobre productos y rendimientos de capital de manera parcial.
+
+III. Al comercio y la industria.
+
+IV. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+V. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+VI. Sobre la compraventa de primera mano de productos agrícolas.
+
+VII. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+VIII. Sobre la cría de ganado.
+
+IX. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+B. DERECHOS
+
+I. Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes:
+
+a. Licencias de construcción.
+
+b. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c. Licencias para fraccionar o lotificar terrenos.
+
+d. Licencias para conducir vehículos.
+
+e. Expedición de placas y tarjetas para la circulación de vehículos.
+
+f. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+g. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+II. Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+a. Registro civil.
+
+b. Registro de la Propiedad y del Comercio.
+
+III. Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+IV. Actos de inspección y vigilancia.
+
+V. Los conceptos a que se refieren las fracciones anteriores, sin excepción alguna, en relación con las actividades o servicios que realicen o presten las personas respecto del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
+
+Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad del Estado y los Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aun cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación, y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+CUARTO. Todos los contribuyentes quedarán obligados a presentar sus declaraciones con el Registro Federal de Contribuyentes asignado por el Servicio de Administración Tributaria.
+
+QUINTO. Las atribuciones, facultades u obligaciones conferidas en las disposiciones de esta Ley a la Secretaria de Finanzas y Planeación, se entenderán conferidas al Servicio de Administración Tributaria del Estado de Quintana Roo cuando corresponda al ámbito de su competencia conforme a la Ley del Servicio de Administración Tributaria del Estado de Quintana Roo.
