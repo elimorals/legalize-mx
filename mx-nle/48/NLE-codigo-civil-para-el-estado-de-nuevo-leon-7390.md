@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2018-05-28"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -11203,19 +11203,19 @@ Art. 1812 Bis II.- Si el daño origina la muerte, o la incapacidad permanente to
 
 La reparación del daño a que se refiere el párrafo anterior deberá ser proporcional a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Art. 1812 Bis III.- En el caso del artículo anterior, el responsable pagará además, una indemnización que será conforme a lo establecido en la Ley Federal del Trabajo para el cálculo de la misma, la cual deberá ser proporcional a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
+Art. 1812 Bis III.- En el caso del artículo anterior, el responsable pagará además, de una indemnización que será conforme a lo establecido en la Ley Federal del Trabajo para el cálculo de la misma, la cual deberá ser proporcional a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 Los créditos por indemnización, cuando la víctima fuere asalariado, son intransferibles y se cubrirán en una sola exhibición, salvo convenio entre las partes.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Art. 1813.
 
-Independientemente de los daños y perjuicios, el Juez acordará a favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Esta indemnización será por el monto de la tercera parte de lo que importe la responsabilidad civil.
+Independientemente de los daños y perjuicios del fallecido o lesionado, el Juez acordara a favor de la víctima de un hecho ilícito, o de su familia una indemnización equitativa, a título de reparación moral o daño moral, que pagara el responsable del hecho. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
 
 ###### Art. 1814.
 
@@ -17688,3 +17688,9 @@ Primero.- El presente Decreto entrará en vigor a partir del día siguiente de s
 Segundo.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
 
 Tercero.- Los asuntos en trámite serán resueltos conforme a las normas vigentes al momento en que fueron iniciados.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+(N. DE E. TRANSITORIO DEL “DECRETO NÚM. 047. SE REFORMA (SIC) LOS ARTÍCULOS 1812 BIS III EN SU PRIMER PÁRRAFO Y 1813 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
