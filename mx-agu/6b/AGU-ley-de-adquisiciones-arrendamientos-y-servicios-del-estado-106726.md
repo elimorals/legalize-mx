@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1067
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2018-04-16"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -921,7 +921,9 @@ I. Cuando no existan bienes o servicios alternativos o sustitutos técnicamente 
 
 II. Cuando se hubiere rescindido un contrato, en cuyo caso se podrá adjudicar al Proveedor que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con respecto a la proposición inicialmente adjudicada no sea superior a un margen del diez por ciento. Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes, se podrá adjudicar al segundo o ulterior lugar, dentro del referido margen;
 
-III. Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona del Estado, como consecuencia de siniestros;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. Cuando de una situación real, peligre o se altere el orden social, la economia, los servicios públicos, la salubridad, la seguridad, o el ambiente de alguna zona del Estado.
 
 IV. Cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes, cuantificados y justificados;
 
@@ -1632,3 +1634,11 @@ P.O. 16 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los sesenta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 88.- SE REFORMA LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
