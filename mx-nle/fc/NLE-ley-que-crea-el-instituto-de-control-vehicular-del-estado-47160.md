@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2018-01-12"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -677,25 +679,17 @@ Artículo Décimo Segundo. Durante el año 2008, los Municipios que se coordinen
 
 Artículo Décimo Tercero. Para los efectos de lo dispuesto en el artículo 276, fracción XV de la Ley de Hacienda para el Estado, para tramitar el canje de las placas de circulación emitidas para los ejercicios 2005, 2006 y 2007, cuya vigencia concluyó el 31 de diciembre de 2007, los propietarios de vehículos inscritos en el padrón vehicular, deberán acudir a tramitar el canje de sus placas a más tardar el 31 de agosto de 2008.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Artículo Décimo Cuarto. Durante el año 2009, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado de Nuevo León para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 Artículo Décimo Quinto. Durante el año 2010, los Municipios que se coordinen con el Instituto de Control Vehicular para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Articulo Décimo Sexto. Durante el año 2011, los Municipios que coadyuven con el Instituto de Control Vehicular del Estado para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia, y que se haya liquidado en su totalidad.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -704,6 +698,12 @@ Artículo Décimo Séptimo. Para los efectos de lo dispuesto en el artículo 276
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 Articulo Décimo Octavo. Durante el año 2012, los Municipios que coadyuven con el Instituto de Control Vehicular del Estado para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Artículo Décimo Noveno. Durante el ejercicio fiscal 2019, tratándose de vehículos cuyo modelo sea igual o mayor a 15 años de antigüedad, en los que no se cuente con documento idóneo que legalmente acredite la adquisición del mismo, conforme lo que disponen los artículos 14, 22 y 23, fracción VIII, de esta Ley, el interesado podrá solicitar su registro presentando algún otro medio de prueba con el cual justifique la legal posesión, cumpliendo con los requisitos que al efecto establezca el propio Instituto, siempre que el vehículo no cuente con reporte de robo y se acredite la importación legal en caso de vehículos extranjeros, debiendo realizar el pago de los derechos correspondientes.
+
+En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
 
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
@@ -754,3 +754,15 @@ Segundo.- Se establece un periodo de 120 días naturales a partir de la entrada 
 Tercero.- Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad a su normativa interna, deberán en un término no mayor a 60 días hábiles después de ser notificados de la instalación del Observatorio Ciudadano de Seguridad Vial, designar a quien fungirá como enlace con el Observatorio Ciudadano de Seguridad Vial y notificar en ese plazo dicho nombramiento al Observatorio.
 
 Cuarto.- El Observatorio Ciudadano de Seguridad Vial, en un plazo no mayor a 120 días deberá emitir su Reglamento Interior, a partir de su instalación.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 067. SE REFORMA LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN, SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN SE ADICIONA LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO DÉCIMO NOVENO TRANSITORIO; Y SE REFORMA LA LEY DE ADMINISTRACIÓN FINANCIERA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2019.
+
+Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para emitir las Reglas Generales a que se refieren los artículos 74, primer párrafo y 139, cuarto párrafo, del Código Fiscal del Estado.
+
+Cuarto.- Se prorroga por un año adicional el plazo para emitir las Reglas Generales a que se refiere el artículo Tercero Transitorio del Decreto Número 330, publicado en el Periódico Oficial del Estado el 29 de diciembre de 2017.
