@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-derechos-del-estado-de-hidalgo-110839"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2017-12-31"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -1169,7 +1169,7 @@ a) Relacionados con vehículos de transporte privado y que no se encuentren comp
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-3. Por refrendo de datos al Registro Vehicular Estatal. 10.4 u.m.a.’s;
+3. Por refrendo de datos al Registro Vehicular Estatal. 10.4 u.m.a.'s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1177,7 +1177,7 @@ a) Relacionados con vehículos de transporte privado y que no se encuentren comp
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-5. Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 6.5 u.m.a.’s;
+5. Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 6.5 u.m.a.'s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1189,11 +1189,23 @@ a) Relacionados con vehículos de transporte privado y que no se encuentren comp
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-8. Por la incorporación al Registro Vehicular Estatal, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.’s;
+8. Por la incorporación al Registro Vehicular Estatal, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.'s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-9. Por la actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.’s;
+9. Por la actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.'s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+10.- Por la incorporación al Registro Vehicular Estatal, cuando el particular cuyo vehículo corresponda portar placas de camión conforme a su serie numérica, y solicite placas metálicas de automóvil, 45.5 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+11.- Por la actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas, cuando el particular cuyo vehículo corresponda portar placas de camión conforme a su serie numérica, y solicite placas metálicas de automóvil. 45.5 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+12.- Por baja administrativa del Registro Vehicular Estatal. 6 u.m.a.’s.
 
 b) Relacionados con vehículos de demostración:
 
@@ -1207,7 +1219,7 @@ b) Relacionados con vehículos de demostración:
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-3. Por refrendo anual para su utilización. 19.5 u.m.a.’s;
+3. Por refrendo anual para su utilización. 19.5 u.m.a.'s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1219,7 +1231,7 @@ b) Relacionados con vehículos de demostración:
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-6. Por cancelación de placas. 6.5 u.m.a.’s;
+6. Por cancelación de placas. 6.5 u.m.a.'s;
 
 c) Relacionados con vehículos destinados al transporte de personas discapacitadas:
 
@@ -1233,7 +1245,7 @@ c) Relacionados con vehículos destinados al transporte de personas discapacitad
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-3. Por refrendo de datos al Registro Vehicular Estatal. 5.2 u.m.a.’s;
+3. Por refrendo de datos al Registro Vehicular Estatal. 5.2 u.m.a.'s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1241,7 +1253,7 @@ c) Relacionados con vehículos destinados al transporte de personas discapacitad
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-5. Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 2.6 u.m.a.’s;
+5. Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 2.6 u.m.a.'s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1249,11 +1261,19 @@ c) Relacionados con vehículos destinados al transporte de personas discapacitad
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-7. Por la incorporación al Registro Vehicular Estatal, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.’s;
+7. Por la incorporación al Registro Vehicular Estatal, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.'s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-8. Por la actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.’s;
+8. Por la actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.'s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+9.- Por canje de placas. 5.2 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+10.- Por baja administrativa del Registro Vehicular Estatal. 6 u.m.a.’s
 
 d) Relacionados con vehículos de transporte público:
 
@@ -1267,7 +1287,7 @@ d) Relacionados con vehículos de transporte público:
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-3. Por refrendo de datos al Registro Vehicular Estatal. 13.00 u.m.a.’s;
+3. Por refrendo de datos al Registro Vehicular Estatal. 13.00 u.m.a.'s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1275,11 +1295,15 @@ d) Relacionados con vehículos de transporte público:
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-5. Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 6.5 u.m.a.’s;
+5. Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 6.5 u.m.a.'s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 6. Por reposición de tarjeta de circulación. 6.5 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+7.- Por canje de placas. 13.00 u.m.a.´s;
 
 e) Por la expedición de permiso de circulación en términos de la Ley de la materia. 6.5 u.m.a.´s;
 
@@ -1299,15 +1323,17 @@ ARTÍCULO 33 BIS. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO CUARTO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE CONTRALORÍA
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD
+#### SECCIÓN PRIMERA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+DE LA DIRECCIÓN GENERAL DE PADRONES Y PROCEDIMIENTOS DE CONTRATACIÓN.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 34.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría, por conducto de la Dirección General de Normatividad, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría, por conducto de la Dirección General de Padrones y Procedimientos de Contratación, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1999,19 +2025,17 @@ Los derechos por la prestación de los servicios del Estado por conducto de la S
 
 I.- En materia de Reconocimiento de Validez Oficial de Estudios (RVOE):
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-a) por el instructivo para el trámite de Reconocimiento de Validez Oficial de Estudios. 8.99 u.m.a.’s;
+a).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 b) por la expedición del dictamen de planes y programas de estudio. 200.0 u.m.a.´s;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-c) por la inspección técnica de revisión de instalaciones para el trámite de Reconocimiento de Validez Oficial de Estudios. 59.99 u.m.a.’s;
+c) por la inspección técnica de revisión de instalaciones para el trámite de Reconocimiento de Validez Oficial de Estudios. 59.99 u.m.a.'s;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-d) por la expedición del acuerdo que autoriza o niega el Reconocimiento de Validez Oficial de Estudios. 80.0 u.m.a.’s;
+d) por la expedición del acuerdo que autoriza o niega el Reconocimiento de Validez Oficial de Estudios. 80.0 u.m.a.'s;
 
 e) por la expedición de la carta de no inconveniente para incorporación a una institución educativa nacional. 19.99 u.m.a.´s;
 
@@ -2021,11 +2045,11 @@ g) por la expedición de la opinión de pertinencia de planes y programas de est
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-h) por la inspección ordinaria a los servicios educativos que prestan las Instituciones Particulares de Educación Superior con Reconocimiento de Validez Oficial de Estudios del Estado. 99.99 u.m.a.’s;
+h) por la inspección ordinaria a los servicios educativos que prestan las Instituciones Particulares de Educación Superior con Reconocimiento de Validez Oficial de Estudios del Estado. 99.99 u.m.a.'s;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-i) por la inspección técnica de revisión de instalaciones para el trámite de cambio de domicilio y emisión del acuerdo que autoriza o niega dicho cambio. 89.99 u.m.a.’s; y
+i) por la inspección técnica de revisión de instalaciones para el trámite de cambio de domicilio y emisión del acuerdo que autoriza o niega dicho cambio. 89.99 u.m.a.'s; y
 
 j) por registro de personal docente de instituciones particulares de educación superior. 1.0 u.m.a.´s;
 
@@ -2173,6 +2197,54 @@ ARTÍCULO 46 BIS.- Los derechos derivados de la administración, uso o goce del 
 
 Tratándose del Patrimonio Inmobiliario de otras unidades administrativas, las cuotas por la administración, uso o goce, se fijarán de acuerdo a la naturaleza del evento.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS DERECHOS CORRESPONDIENTES A (SIC) SECRETARÍA DE MOVILIDAD Y TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+ARTÍCULO 46 TER. Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Movilidad y Transporte, se causarán y pagarán de la siguiente forma:
+
+I.- Por la expedición del dictamen del estudio de impacto en la movilidad que autoriza total o parcialmente, o en su caso, que niega la obra o actividad correspondiente:
+
+a).- De proyectos habitacionales plurifamiliares:
+
+1.- Tratándose de proyectos de 11 y hasta 100 viviendas. 35 u.m.a.’s;
+
+2.- Tratándose de proyectos de 101 y hasta 500 viviendas. 70 u.m.a.’s;
+
+3.- Tratándose de proyectos de 500 y hasta 1,000 viviendas. 105 u.m.a.’s;
+
+4.- Tratándose de proyectos mayores de 1,000 viviendas. 125 u.m.a.’s;
+
+b).- De proyectos con uso no habitacional:
+
+1.- Tratándose de proyectos de más de 500m2 y hasta 3,000 m2. 25 u.m.a.’s;
+
+2.- Tratándose de proyectos de más de 3,000m2 y hasta 5,000 m2. 50 u.m.a.’s;
+
+3.- Tratándose de proyectos de más de 5,000m2 y hasta 10,000 m2. 75 u.m.a.’s;
+
+4.- Tratándose de proyectos de más de 10,000m2. 100 u.m.a.’s;
+
+c).- De proyectos mixtos:
+
+1.- Tratándose de proyectos de más de 500m2 y hasta 3,000 m2. 30 u.m.a.’s;
+
+2.- Tratándose de proyectos de más de 3,000m2 y hasta 5,000 m2. 60 u.m.a.’s;
+
+3.- Tratándose de proyectos de más de5,000m2 y hasta 10,000 m2. 90 u.m.a.’s;
+
+4.- Tratándose de proyectos de más de 10,000m2. 120 u.m.a.’s;
+
+II.- Por la incorporación o actualización al registro estatal de movilidad y transporte. 5 u.m.a.´s;
+
+III.- Por la expedición de constancias de información, registro o folio del registro estatal de movilidad y transporte, por la primer foja y hasta 3 fojas. 1 u.m.a.;
+
+IV.- Por la expedición de constancias de información, registro o folio del registro estatal de movilidad y transporte, a que se refiere la fracción III inmediata anterior, por cada foja adicional. 0.26 u.m.a.´s;
+
+V.- Por la expedición de copias certificadas, por cada foja. 0.2 u.m.a.´s
+
 ## TÍTULO TERCERO
 
 DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS Y USO O GOCE DE BIENES DEL DOMINIO PÚBLICO CORRESPONDIENTES A LOS ORGANISMOS DESCENTRALIZADOS QUE CONFORMAN LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
@@ -2240,3 +2312,11 @@ P.O. 31 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2018.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 88 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1º de enero de 2019.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
