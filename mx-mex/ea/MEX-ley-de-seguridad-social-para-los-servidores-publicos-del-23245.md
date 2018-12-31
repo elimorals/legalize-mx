@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2018-08-10"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADA EN LA G.G. DE 10 DE AGOSTO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE ENERO DE DOS MIL DIECINUEVE.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO NÚMERO 9 PUBLICADO EN LA G.G. DE 31 DE DICIEMBRE DE 2018, SE MANTIENE EN VIGOR EL PRESENTE ORDENAMIENTO, DERIVADO DE LA ABROGACIÓN DEL DECRETO NÚMERO 317 PUBLICADO EN LA G.G. EL 10 DE AGOSTO DE 2018.]</small>
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2018 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -2008,3 +2008,15 @@ III. Otorgue garantía al momento de presentar su solicitud de autorización de 
 IV. Durante el transcurso de la prórroga se causarán los recargos sobre saldos insolutos, calculados a razón de 1.6 veces la Tasa de referencia.
 
 En ningún caso el Instituto autorizará un plazo que exceda el periodo de administración de la Institución Pública que lo solicite.
+
+G.G. 31 DE DICIEMBRE DE 2018.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la “Gaceta del Gobierno” del Estado Libre y Soberano de México.
+
+SEGUNDO. Derivado de la abrogación del Decreto número 317, publicado en la “Gaceta del Gobierno” del Estado Libre y Soberano de México el día 10 de agosto de 2018, se abroga la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, expedida mediante dicho decreto por la H. “LIX” Legislatura del Estado de México, la cual estaba prevista para entrar en vigor el 1° de enero de 2019, así como cualquier disposición que se oponga a lo establecido en el presente Decreto.
+
+TERCERO. Se mantiene en vigor la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, expedida mediante Decreto número 57 de la H. “LIV” Legislatura del Estado de México, publicado en la “Gaceta del Gobierno” el día 3 de enero de 2002.
+
+CUARTO. Los actos que, en su caso, se hayan realizado con base en el Decreto número 317 de expedición de la Ley de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, publicada en la “Gaceta del Gobierno” el día 10 de agosto de 2018, quedarán sin efectos.
+
+QUINTO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado Libre y Soberano de México.
