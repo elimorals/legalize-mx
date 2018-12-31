@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-y-control-de-organismos-auxiliares-595
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-24"
-last_updated: "2014-05-14"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MEXICO -ANTES LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES Y FIDEICOMISOS DEL ESTADO DE MEXICO-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 24 de agosto de 1983.
 
@@ -125,15 +127,13 @@ La fusión o disolución de las empresas de participación estatal mayoritaria s
 
 La dependencia coordinadora de sector, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Finanzas, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 7.
 
-Los fideicomisos públicos que están sujetos a esta Ley, son aquellos constituidos o que en lo futuro se constituyan por el Gobernador del Estado, siendo éste fideicomitente único, a través de la Secretaría de Finanzas, para auxiliar al Gobernador en el ejercicio de las atribuciones del Ejecutivo a su cargo, siempre y cuando cuente con una estructura orgánica análoga a la de otros organismos auxiliares y con Comité Técnico. Únicamente los fideicomisos que reúnan estas características, serán considerados organismos auxiliares del Poder Ejecutivo y estarán sujetos a la normatividad administrativa correspondiente.
+Los fideicomisos públicos que están sujetos a esta Ley, son aquellos constituidos por el Gobernador del Estado, sus dependencias o entidades, a través de la Secretaría de Finanzas, con el propósito de auxiliarlo en el ejercicio de las atribuciones a su cargo, siempre y cuando cuenten con estructura orgánica y Comité Técnico. Únicamente los fideicomisos que reúnan estas características, serán considerados organismos auxiliares del Poder Ejecutivo y estarán sujetos a esta Ley.
 
-Los demás fideicomisos constituidos por el Ejecutivo del Estado en los que a través de sus dependencias o entidades sea parte, serán objeto de autorización y registro ante la Secretaría de Finanzas, y sujetarán su operación, control y régimen financiero a las disposiciones que se estipulen en el decreto por el cual fueron creados, en los contratos aplicables y a las disposiciones legales que al efecto emita la propia Secretaría de Finanzas.
+Los fideicomisos sin estructura constituidos por el Ejecutivo del Estado en los que a través de sus dependencias o entidades sea parte, solo serán objeto de autorización y registro ante dicha Secretaría y sujetarán su operación, control y régimen financiero a las disposiciones que se estipulen en el decreto o acuerdo por el cual fueron autorizados, a los contratos aplicables y a las disposiciones que al efecto emita la Secretaría.
 
 ###### Artículo 8.
 
@@ -181,8 +181,6 @@ Las atribuciones señaladas se entienden sin perjuicio de las que otorga al Pode
 
 Las Secretarías de Finanzas y de la Contraloría, se consideran como dependencias de coordinación global y serán responsables de dictar las disposiciones administrativas y de controlar y evaluar su cumplimiento en los organismos auxiliares, respecto de las atribuciones que en relación con los mismos les determine la Ley Orgánica de la Administración Pública y demás leyes aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 14.
@@ -221,8 +219,6 @@ X. Vigilar que los acuerdos de coordinación que se realicen con dependencias fe
 
 XI. Establecer normas para el control de su gasto público y programas de inversión, así como vigilar su cumplimiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XII. Requerir la información financiera mensual y anual de acuerdo a los lineamientos y formas de presentación establecidos por la propia Secretaría de Finanzas, para efectos de consolidación de estados financieros y preparación de la cuenta pública;
@@ -239,43 +235,29 @@ XIV. Autorizar los catálogos de cuentas para el registro de sus operaciones;
 
 XV. Vigilar que el ejercicio de su presupuesto de ingresos, de egresos y de inversiones se ajuste a los lineamientos y políticas emitidas en el marco de su competencia; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XVI. Emitir disposiciones para su control administrativo y en materia de estructuras orgánico-funcionales y vigilar su cumplimiento;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XVII. Dictar las disposiciones administrativas relativas a la adquisición, enajenación, arrendamiento y uso de bienes y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo en los términos de la ley de la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XVIII. Expedir políticas y lineamientos que permitan la revisión permanente de sus sistemas, métodos y procedimientos de trabajo, para adecuar su organización interna a los programas de gobierno;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XIX. Dictar las disposiciones que normen la contratación, remuneración y prestaciones que deban efectuarse a los servidores públicos de los mismos; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XX. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Artículo 14-A.
 
 (DEROGADO, G.G. 19 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -294,8 +276,6 @@ IV. Emitir los lineamientos bajo los cuales los fideicomisos podrán destinar re
 V. Emitir los lineamientos mediante los cuales podrán invertirse los recursos líquidos en poder del fiduciario hasta en tanto son utilizados para la realización de sus fines; y
 
 VI. Proponer al Titular del Ejecutivo Estatal la modificación o extinción de los mismos cuando así convenga al interés público.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 15-A.
 
@@ -421,11 +401,11 @@ Los organismos auxiliares deberán publicar sus balances consolidados anuales en
 
 (DEROGADO, G.G. 29 DE AGOSTO DE 1995)
 
-> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 28.
 
-Los órganos de gobierno de los fideicomisos que tengan el carácter de organismos auxiliares, se integrarán de la manera prevista para los demás organismos auxiliares de acuerdo con los criterios a que se refiere el artículo 23 de la presente Ley, en tanto no contravengan las Leyes en la materia.
+Los órganos de gobierno de los fideicomisos que tengan el carácter de organismos auxiliares, se integrarán de la manera prevista en el artículo 23 de la presente Ley, en tanto no contravengan las leyes en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -688,3 +668,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 18.- POR EL QUE SE APRUEBA LA INICIATIVA QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2019.
+
+TERCERO.- Los contribuyentes propietarios de vehículos de servicio particular que porten placas de circulación expedidas en el ejercicio fiscal 2013 y anteriores, deberán realizar la renovación de placas en los meses de julio a diciembre de 2019 conforme a las reglas que para tal efecto publique la Secretaría de Finanzas, informando a la Legislatura por conducto de las comisiones de planeación y gasto público y de finanzas públicas. Las reglas de operación se publicarán a más tardar el 30 de junio de 2019, en el Periódico Oficial “Gaceta del Gobierno”, con la finalidad de ser sujetos a los beneficios fiscales que determinen a su favor en caso de regularización de adeudos pudiendo ser de hasta el cien por ciento de condonación, de conformidad con el artículo 10 de la Ley de Ingresos del Estado de México para el ejercicio fiscal de 2019.
+
+CUARTO.- Se considerarán vigentes durante el ejercicio 2019 las placas expedidas durante el ejercicio fiscal de 2014, mismas que deberán renovarse durante 2020.
+
+QUINTO.- Las placas expedidas en los ejercicios 2015 y posteriores deberán renovarse al vencimiento de los cinco años contados a partir de su expedición.
+
+SEXTO.- Los años de referencia contenidos en la tabla del segundo párrafo de la fracción I del artículo 63 del Código Financiero del Estado de México y Municipios se actualizarán, siendo aplicable para el primer año de antigüedad el 2019 y para el último año el 2010, conservando íntegros los factores respectivos.
