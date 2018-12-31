@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-gobierno-electronico-de-la-ciudad-de-mexico-antes-110088
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-07"
-last_updated: "2018-02-26"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-14"
 
 LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 7 de octubre de 2015.
 
@@ -110,6 +110,10 @@ Para los efectos de esta Ley, se entenderá por:
 
 Administración Pública: Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, en términos de la Ley Orgánica de la Administración Pública de la Ciudad de México.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Agencia: La Agencia Digital de Innovación Pública de la Ciudad de México.
+
 Archivo: Conjunto orgánico de documentos organizados y reunidos por una persona o institución pública o privada, en el desarrollo de sus competencias, el cual sirve de testimonio y fuente de información a las personas o instituciones que los produjeron, a los ciudadanos o para servir de fuente de estudio de la historia e investigación.
 
 > <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
@@ -128,9 +132,7 @@ Gobierno Electrónico: El uso estratégico de las tecnologías de la informació
 
 Interoperabilidad: Capacidad estandarizada de los sistemas informáticos utilizados por los Órganos de la Administración Pública para intercambiar, utilizar y compartir la información generada, atendiendo las políticas, mecanismos de seguridad y salvaguarda de privacidad de información conforme a las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
-
-Oficialía Mayor: A la Oficialía Mayor de la Ciudad de México.
+> <small>(DEROGADO DÉCIMO PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 > <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -154,9 +156,11 @@ Usabilidad: Es la característica de facilidad de uso de las herramientas, en es
 
 En todo lo no previsto en esta Ley, se aplicarán de manera supletoria la Ley de Procedimiento Administrativo de la Ciudad de México, la Ley para el Desarrollo de la Ciudad de México como Ciudad Digital y del Conocimiento y la Ley de Firma Electrónica de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 6.
 
-La Oficialía Mayor es la dependencia encargada y facultada para interpretar para efectos administrativos las disposiciones de la presente Ley.
+La Jefatura de Gobierno, por sí o a través de la Agencia, es la dependencia encargada y facultada para interpretar para efectos administrativos las disposiciones de la presente Ley.
 
 ### CAPÍTULO II. DEL GOBIERNO ELECTRÓNICO
 
@@ -180,9 +184,11 @@ IV. Aplicar y hacer cumplir la presente Ley y demás disposiciones que regulen l
 
 V. Las demás que le otorguen otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 8.
 
-Corresponden a la Oficialía Mayor las siguientes atribuciones:
+Corresponden a la Agencia las siguientes atribuciones:
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -208,23 +214,23 @@ VIII. Celebrar convenios entre los tres órdenes de gobierno, sector social, pri
 
 IX. Las demás que le otorguen la presente Ley y otros ordenamientos.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 9.
 
 Los Órganos de la Administración Pública deberán observar lo siguiente:
 
-I. Fomentar e incentivar el uso de las herramientas y mecanismos de participación digital de los ciudadanos, sociedad civil, empresas, academia y centros de investigación, que propicien la generación de conocimiento colectivo, conforme a las normas, políticas y estrategias que establezca la Oficialía Mayor;
+I. Fomentar e incentivar el uso de las herramientas y mecanismos de participación digital de los ciudadanos, sociedad civil, empresas, academia y centros de investigación, que propicien la generación de conocimiento colectivo, conforme a las normas, políticas y estrategias que establezca la Agencia;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 26 DE FEBRERO DE 2018)</small>
+II. Dar cumplimiento al Programa Digital y de Innovación de la Ciudad de México, así como a las normas, y políticas establecidas por la Agencia en materias de Gobierno Electrónico y de tecnologías de la información y comunicaciones;
 
-II. Dar cumplimiento al Programa Digital y de Innovación de la Ciudad de México, así como a las normas, y políticas establecidas por la Oficialía Mayor en materias de Gobierno Electrónico y de tecnologías de la información y comunicaciones;
-
-III. Implementar los sistemas de información y comunicaciones que apoyen la transición y el fortalecimiento del Gobierno Electrónico conforme lo establezca la Oficialía Mayor;
+III. Implementar los sistemas de información y comunicaciones que apoyen la transición y el fortalecimiento del Gobierno Electrónico conforme lo establezca la Agencia;
 
 IV. Incorporar a la plataforma integral de trámites y servicios en línea de la Administración Pública, los trámites y servicios que les corresponda conocer, substanciar y resolver conforme a sus atribuciones para garantizar la accesibilidad y disponibilidad a la población en general;
 
 V. Observar las disposiciones que en materia de dominios, sitios, redes sociales y aplicaciones móviles que se establezcan para el caso concreto;
 
-VI. Proporcionar la información que requiera la Oficialía Mayor, en ejercicio de sus atribuciones y en cumplimiento de la presente Ley, así como observar las recomendaciones, normas, políticas o lineamientos, entre otros, que ésta emita en materia de Gobierno Electrónico, y
+VI. Proporcionar la información que requiera la Agencia, en ejercicio de sus atribuciones y en cumplimiento de la presente Ley, así como observar las recomendaciones, normas, políticas o lineamientos, entre otros, que ésta emita en materia de Gobierno Electrónico, y
 
 VII. Las demás disposiciones de la presente Ley y otros ordenamientos en la materia.
 
@@ -246,15 +252,15 @@ II (SIC).- Proponer, formular y ejecutar los mecanismos de gobierno electrónico
 
 La Administración Pública contará con un órgano colegiado denominado Comisión de Gobierno Electrónico de la Ciudad de México, para el diseño e implementación de las estrategias de tecnologías de la información y comunicaciones, la generación y difusión de conocimiento en la materia y asesoría en proyectos transversales de modernización e innovación a los Órganos de la Administración Pública.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 11.
 
 La Comisión de Gobierno Electrónico de la Ciudad de México estará integrada de la siguiente forma:
 
-I. Un Presidente que será el titular de la Oficialía Mayor;
+I. Un Presidente que será la persona Titular de la Agencia;
 
-II. Un Presidente Suplente que será el titular de la Coordinación General de Modernización Administrativa;
+II. Un Presidente Suplente que será designado por la persona Titular de la Agencia, que deberá contar con el rango de Director General;
 
 III. Un Secretario Técnico que será el titular de la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones;
 
@@ -262,15 +268,15 @@ IV. Un Vocal por cada uno de los Órganos de la Administración Pública.
 
 Los vocales deberán ser titulares del área de tecnologías de la información, sistemas, informática o modernización del ente público.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 12.
 
 Corresponden a la Comisión de Gobierno Electrónico las siguientes atribuciones:
 
-I. Difundir las normas y criterios que en materia de tecnologías de la información y comunicaciones emita la Oficialía Mayor;
+I. Difundir las normas y criterios que en materia de tecnologías de la información y comunicaciones emita la Agencia, en los términos de la Ley de Operación e Innovación Pública de la Ciudad de México;
 
 II. Emitir recomendaciones, a los planes estratégicos de tecnologías de la información y comunicaciones de los Órganos de la Administración Pública, a solicitud del Presidente de la Comisión, su Presidente Suplente o el Secretario Técnico;
-
-> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
 III. Proponer mejores prácticas en materia de tecnologías de la información y comunicaciones que atiendan las necesidades de los Órganos de la Administración Pública, observando lo establecido en la materia en el Programa General de Desarrollo de la Ciudad de México y los programas que deriven de éste;
 
@@ -284,9 +290,11 @@ VII. Impulsar proyectos transversales en materia de tecnologías de la informaci
 
 #### Sección II. De los instrumentos para operar el Gobierno Electrónico
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 13.
 
-La Oficialía Mayor desarrollará los mecanismos que permitan el funcionamiento del Gobierno Electrónico y establecerá los lineamientos y directrices tendientes a asegurar y regular los siguientes aspectos:
+La Agencia desarrollará los mecanismos que permitan el funcionamiento del Gobierno Electrónico y establecerá los lineamientos y directrices tendientes a asegurar y regular los siguientes aspectos:
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -304,33 +312,29 @@ IV. Los demás que establezca el Reglamento de la presente Ley.
 
 Los instrumentos para operar el Gobierno Electrónico deberán responder a los criterios de efectividad, eficiencia, confidencialidad, integridad, disponibilidad y accesibilidad.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 15.
 
-La Oficialía Mayor, vigilará el cumplimiento de las disposiciones de esta ley, así como los demás ordenamientos que emanen de la misma en materia de Gobierno Electrónico, tecnologías de la información, comunicaciones e interoperabilidad.
+La Agencia, vigilará el cumplimiento de las disposiciones de esta ley, así como de la Ley de Operación e Innovación Pública de la Ciudad de México y los demás ordenamientos que emanen de la misma en materia de Gobierno Electrónico, tecnologías de la información, comunicaciones e interoperabilidad.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 16.
 
-Los Órganos de la Administración Pública privilegiarán el desarrollo, contratación o adquisición de licenciamiento de software libre, para la creación de sistemas. Para tal efecto, se podrán utilizar las aplicaciones y herramientas que cumplan con los siguientes criterios:
+Los Órganos de la Administración Pública privilegiarán el desarrollo, contratación o adquisición de licenciamiento de software libre, para la creación de sistemas. Para tal efecto, se regirán por las aplicaciones y herramientas que establezca la Agencia, aplicando en lo conducente lo mandatado por la Ley de Operación e Innovación Digital
 
-I. Garantizar las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, y
-
-II. Ser actualizable y escalable en sus funciones.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
-Los Órganos de la Administración Pública deberán de privilegiar el uso y desarrollo de software libre, sobre software privativo, en programas, aplicaciones y/o sistemas informáticos, y se deberán apegar a los siguientes principios de software libre:
+Los Órganos de la Administración Pública deberán de privilegiar el uso y desarrollo de software libre, sobre software privativo, en programas, aplicaciones y/o sistemas informáticos, y se deberán apegar a los siguientes principios de software libre que determine la Agencia, en el ejercicio de sus funciones de normatividad tecnológica y en los términos de la Ley de Operación e Innovación Digital.
 
-I. Libertad para ejecutar el programa independientemente de su propósito;
-
-II. Acceso al código fuente, que permita estudiar el funcionamiento del programa y adaptarlo a las necesidades específicas;
-
-III. Libertad para redistribuir copias entre los mismos Órganos de la Administración Pública, y
-
-IV. Libertad para mejorar el programa y publicarlo para toda la Administración Pública.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 18.
 
-Para efectos de evaluar el grado de madurez de Gobierno Electrónico, la Oficialía Mayor, promoverá las acciones de mejora de la gestión de los procesos de tecnologías de la información y comunicaciones y establecerá un modelo y metodología de evaluación.
+Para efectos de evaluar el grado de madurez de Gobierno Electrónico, la Agencia, promoverá las acciones de mejora de la gestión de los procesos de tecnologías de la información y comunicaciones y establecerá un modelo y metodología de evaluación.
 
 ###### Artículo 19.
 
@@ -344,15 +348,7 @@ Artículo 19 bis. La administración pública de la Ciudad de México, deberá c
 
 ###### Artículo 20.
 
-Los sitios y aplicaciones móviles de los Órganos de la Administración Pública contarán con las siguientes características:
-
-I. Ser homogéneos;
-
-II. Garantizar el acceso a la ciudadanía a la información, trámites y servicios;
-
-III. Contener información actualizada y enfocada a las necesidades de la ciudadanía;
-
-IV. Los demás que establezca el Reglamento de la presente Ley.
+(DEROGADO, G.O. 31 DE DICIEMBRE DE 2018)
 
 ###### Artículo 21.
 
@@ -368,13 +364,7 @@ IV. Los demás que establezca el Reglamento de la presente Ley.
 
 ###### Artículo 22.
 
-La Oficialía Mayor regulará la relación a través de medios y canales de comunicación electrónicos de la Administración Pública con la ciudadanía, para los siguientes fines:
-
-I. El establecimiento de información al público por medios electrónicos accesibles para todos los ciudadanos;
-
-II. El desarrollo y regulación de sistemas y la utilización de herramientas que permitan a los ciudadanos dirigir sus comunicaciones electrónicas a la autoridad para la atención y solución de las mismas, y
-
-III. Los demás que establezca la presente Ley y demás ordenamientos jurídicos.
+(DEROGADO, G.O. 31 DE DICIEMBRE DE 2018)
 
 #### Sección IV. De los trámites y servicios
 
@@ -396,11 +386,11 @@ IV. Facilitar a los ciudadanos la solicitud de trámites y servicios que tengan 
 
 La Administración Pública contará con un Registro Electrónico de Trámites y Servicios de la Ciudad de México, como un sistema institucional electrónico en el que se inscriben, validan y difunden los trámites y servicios que norman, aplican, operan o resuelven los Órganos de la Administración Pública.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 25.
 
-El Registro Electrónico de Trámites y Servicios será operado y administrado por la Oficialía Mayor, a través de la Coordinación General de Modernización Administrativa que, en su carácter de Unidad de Mejora Regulatoria de la Ciudad de México, será la encargada de verificar que los trámites y servicios, y sus formatos correspondientes, cumplan con los principios de legalidad, juridicidad, simplificación, información, transparencia e imparcialidad para su inscripción.
+El Registro Electrónico de Trámites y Servicios será operado y administrado por la Agencia, en su carácter de Unidad de Mejora Regulatoria de la Ciudad de México, será la encargada de verificar que los trámites y servicios, y sus formatos correspondientes, cumplan con los principios de legalidad, juridicidad, simplificación, información, transparencia e imparcialidad para su inscripción.
 
 La Unidad de Mejora Regulatoria tiene la facultad de normar, promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las acciones en materia de simplificación administrativa, mejora regulatoria y mejora de la gestión de trámites y servicios de la Administración Pública.
 
@@ -428,31 +418,33 @@ Los Órganos de la Administración Pública que normen, apliquen u operen trámi
 
 El Registro Electrónico de Trámites y Servicios de la Ciudad de México contará con un sitio como el único canal oficial de difusión y consulta de los trámites, servicios y formatos que los Órganos de la Administración Pública hayan inscrito, modificado, actualizado o dado de baja en el Registro.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 29.
 
-La Oficialía Mayor operará el Padrón de Usuarios Acreditados de la Ciudad de México, el cual tiene por objeto documentar por medios electrónicos la información básica concerniente a una persona física o moral que así lo desea, para realizar trámites y servicios ante los Órganos de la Administración Pública; para el efecto, se asignará una Clave Única de Identificación y contraseña, y se integrará un Expediente Electrónico del Usuario.
+La Agencia operará el Padrón de Usuarios Acreditados de la Ciudad de México, el cual tiene por objeto documentar por medios electrónicos la información básica concerniente a una persona física o moral que así lo desea, para realizar trámites y servicios ante los Órganos de la Administración Pública; para el efecto, se asignará una Clave Única de Identificación y contraseña, y se integrará un Expediente Electrónico del Usuario.
 
 ### CAPÍTULO III. DE LA TRANSICIÓN AL GOBIERNO ELECTRÓNICO
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
-
 ###### Artículo 30.
 
-Los Órganos de la Administración Pública atenderán las directrices, políticas y normatividad en materia de homologación de datos, estandarización de la información y la operación de plataformas tecnológicas comunes, lo que permitirá facilitar la interoperabilidad de sistemas en la gestión gubernamental en la Ciudad de México.
+(DEROGADO, G.O. 31 DE DICIEMBRE DE 2018)
 
 ###### Artículo 31.
 
-Los Órganos de la Administración Pública desarrollarán metodologías de planificación específicas, que incluyan la evaluación y monitoreo, para generar estrategias de gestión como parte del proceso de formación y mejora continúa, tomando en consideración, cuando corresponda, la opinión de la academia y sociedad civil en los asuntos que por su relevancia así lo requieran.
+(DEROGADO, G.O. 31 DE DICIEMBRE DE 2018)
 
 ###### Artículo 32.
 
-Los Órganos de la Administración Pública designarán un área responsable del diseño, planeación y ejecución de políticas en materia de tecnologías de la información y comunicaciones, que dentro de sus funciones tendrá la facultad de observar la aplicación del marco jurídico administrativo en la materia y la planeación estratégica para el aprovechamiento de las tecnologías de la información y comunicaciones, orientado a procesos y con un enfoque ciudadano que impulsen el Gobierno Electrónico.
+(DEROGADO, G.O. 31 DE DICIEMBRE DE 2018)
 
 #### Sección I. De la inclusión y el fortalecimiento de la estructura social
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 33.
 
-Los Órganos de la Administración Pública establecerán estrategias de inclusión digital para la ciudadanía, reduciendo la brecha digital y eliminando las barreras existentes para el acceso a los servicios electrónicos, en concordancia con las normas, lineamientos y políticas que dicte la Oficialía Mayor en la materia.
+Los Órganos de la Administración Pública establecerán estrategias de inclusión digital para la ciudadanía, reduciendo la brecha digital y eliminando las barreras existentes para el acceso a los servicios electrónicos, en concordancia con las normas, lineamientos y políticas que dicte la Agencia.
 
 ###### Artículo 34.
 
@@ -478,11 +470,13 @@ V. Procurar el uso de tecnologías que permitan la consolidación, eficiencia, e
 
 Los Órganos de la Administración Pública titulares de los derechos de propiedad intelectual de sistemas desarrollados internamente o cuyo desarrollo haya sido objeto de contratación, facilitarán su uso y explotación a título gratuito al interior de la Administración Pública.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 37.
 
 Para asegurar un proceso eficiente y seguro de conservación, normalización e intercambio de la información en los sistemas, los Órganos de la Administración Pública deberán:
 
-I. Permitir el intercambio de información y conocimiento, a fin de proporcionar servicios eficientes y seguros a la ciudadanía, de acuerdo a la normatividad, políticas, programas y estrategias de Gobierno Electrónico y política de tecnologías de la información y comunicaciones que establezca la Oficialía Mayor;
+I. Permitir el intercambio de información y conocimiento, a fin de proporcionar servicios eficientes y seguros a la ciudadanía, de acuerdo a la normatividad, políticas, programas y estrategias de Gobierno Electrónico y política de tecnologías de la información y comunicaciones que establezca la Agencia;
 
 II. Generar los mecanismos de colaboración entre Órganos de la Administración Pública, para propiciar la interoperabilidad interinstitucional, y
 
@@ -539,3 +533,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas aquellas disposiciones que se opongan a la (sic) presente Decreto.
 
 Tercero. Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión publíquese en el Diario Oficial de la Federación
+
+G.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 4, 6, 8, 9, 11, 12, 13, 15, 16, 17, 18, 25, 29, 33 Y 37 Y SE DEROGAN LOS ARTÍCULOS 22, 30, 31 Y 32, TODOS DE LA LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 2, 6, 9 Y 22 DE LA LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2019.
+
+SEGUNDO. Se abroga la Ley para hacer de la Ciudad de México una Ciudad abierta.
+
+TERCERO. Las referencias hechas a la Unidad de Mejora Regulatoria en la Ley de Mejora Regulatoria de la Ciudad de México, se entenderán hechas a la Agencia, sin detrimento de la capacidad jurídica y autonomía técnica, de gestión y operación señaladas en el artículo 39 del presente ordenamiento.
+
+Todas las disposiciones aplicables a las atribuciones normativas en materia de Firma Electrónica enlistadas en la Ley de Firma Electrónica de la Ciudad de México, se entenderán hechas a la Agencia.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+QUINTO. La persona titular de la Jefatura de Gobierno emitirá el Reglamento de la presente Ley; en ejercicio de las atribuciones que le otorga el artículo 32; Apartado C; Numeral 1; inciso a) de la Constitución Política de la Ciudad de México en un plazo máximo de 180 días.
+
+SEXTO. La Agencia tendrá un plazo de 180 días para la expedición de la política de gestión de datos, la política de gobierno abierto, la política digital, la política de gobernanza tecnológica y la política de gobernanza de la conectividad y la gestión de la infraestructura.
