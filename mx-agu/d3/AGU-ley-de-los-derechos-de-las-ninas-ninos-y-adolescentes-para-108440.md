@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-11-12"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -123,37 +123,69 @@ XVII. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
 XVIII. Órgano Jurisdiccional: Los juzgados o tribunales del Estado de Aguascalientes;
 
-XIX. Procuraduría de Protección Local: La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XX. Procuraduría de Protección Federal: Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
+XIX. Primera infancia: Es la primera etapa de la niñez que comprende hasta los cinco años de edad, en la que se sientan las bases para el desarrollo ulterior de las niñas y los niños, donde adquieren forma y complejidad sus habilidades, capacidades y potenciales;
 
-XXI. Programa Estatal: El Programa de Protección Integral de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXII. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+XX. Procuraduría de Protección Local: La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
 
-XXIII. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Ley General, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXIV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXI. Procuraduría de Protección Federal: Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
 
-XXV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXVI. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las (sic) Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXII. Programa Estatal: El Programa de Protección Integral de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXVII. Sistema Local de Protección: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+XXIII. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
 
-XXVIII. Sistema de Protección Municipal: Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes, que operará en cada uno de los Municipios del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXIX. Sistema DIF Estatal.- El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
+XXIV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Ley General, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
 
-XXX. Sistemas DIF Municipales.- Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXXII. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XXXIII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXVI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXVII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección Local, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXVIII. Sistema Local de Protección: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXIX. Sistema de Protección Municipal: Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes, que operará en cada uno de los Municipios del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXX. Sistema DIF Estatal.- El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXXI. Sistemas DIF Municipales.- Los Sistemas para el Desarrollo Integral de la Familia de cada uno de los Municipios del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXXII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXXIII. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXXIV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 ###### Artículo 5°.
 
@@ -189,9 +221,17 @@ XI. La autonomía progresiva;
 
 XII. El principio pro persona;
 
-XIII. El acceso a una vida libre de violencia; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIV. La accesibilidad.
+XIII. El acceso a una vida libre de violencia;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIV. La accesibilidad; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XV. La unidad familiar.
 
 El interés superior es el principio rector, en virtud del cual el Estado debe tomar las decisiones y realizar las actuaciones para la protección de los derechos de niñas, niños y adolescentes, en cuyo caso quien ejerza la patria potestad, tutela, guarda y custodia, tendrán el derecho de acceder a la información integral de dichas decisiones y actuaciones.
 
@@ -833,7 +873,9 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
-### CAPÍTULO XIV. De los Derecho (sic) de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO XIV. Del Derecho a la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
 ###### Artículo 62.
 
@@ -953,11 +995,11 @@ No se requerirá el consentimiento de quienes ejerzan la patria potestad o tutel
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 77.
 
-Los medios de comunicación locales deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendientes a su discriminación, criminalización o estigmatización, o que puedan causales (sic) una afectación psicológica negativa o sea contrario a su desarrollo integral e interés superior.
+Los medios de comunicación locales deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendientes a su discriminación, criminalización o estigmatización, o que puedan causarles una afectación psicológica negativa o sea contrario a su desarrollo integral e interés superior.
 
 En caso de incumplimiento a lo establecido en el presente Artículo, niñas, niños o adolescentes afectados, considerando su edad, grado de desarrollo cognoscitivo y madurez, podrán acudir ante la Procuraduría de Protección Local de manera directa o por conducto de su representante legal o, en su caso, la Procuraduría de Protección Local, actuando de oficio o en representación sustituta, podrá promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
 
@@ -1099,9 +1141,11 @@ XVIII. Derecho a impugnar cualquier decisión definitiva o provisional que le ca
 
 ### CAPÍTULO XX. Niñas, Niños y Adolescentes Migrantes
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 87.
 
-Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus competencias, deberán garantizar los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana, independientemente de su nacionalidad o su situación migratoria, en términos de la Ley de Migración y su Reglamente (sic), la Ley General, esta Ley y las demás disposiciones jurídicas aplicables debiendo observar en todo momento el principio del interés superior y los estándares internacionales en la materia.
+Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus competencias, deberán garantizar los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana, independientemente de su nacionalidad o su situación migratoria, en términos de la Ley de Migración y su Reglamento, la Ley General, esta Ley y las demás disposiciones jurídicas aplicables debiendo observar en todo momento el principio del interés superior y los estándares internacionales en la materia.
 
 ###### Artículo 88.
 
@@ -1211,13 +1255,17 @@ XI. Educar y supervisar en el conocimiento y uso responsable de las tecnologías
 
 XII. Es obligación primordial orientar y supervisar y, en su caso, restringir, las conductas y hábitos para que no afecten el desarrollo integral de niñas, niños y adolescentes en el ejercicio de los derechos que esta Ley y otros ordenamientos les confiere, siempre que se atienda al interés superior de la niñez;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social. Por lo que deberán abstenerse de fomentar, obligar, o inducir su utilización en trabajos que perjudiquen o ponga en riesgo en cualquier momento la salud, educación, integridad física o la propia vida del menor.
+XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social. Por lo que deberán abstenerse de fomentar, obligar, o inducir su utilización en trabajos que perjudiquen o ponga en riesgo en cualquier momento la salud, educación, integridad física o la propia vida del menor;
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIV. Responder por los daños y perjuicios que hayan causado las niñas, niños y adolescentes por la omisión en su deber de cuidado, en términos del Artículo 1793 del Código Civil.
+XIV. Responder por los daños y perjuicios que hayan causado las niñas, niños y adolescentes por la omisión en su deber de cuidado, en términos del Artículo 1793 del Código Civil; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XV. Brindar atención apropiada a las niñas y niños en la primera infancia para lograr el desarrollo óptimo de sus capacidades cognoscitivas, físicas, emocionales, sociales, afectivas y lingüísticas.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
 
@@ -1567,7 +1615,9 @@ I. El Fiscal General del Estado;
 
 II. El Presidente de la Comisión Estatal de los Derechos Humanos; y
 
-E. Representantes de la sociedad civil que serán nombrados por el Sistema Local de Protección, en los términos del Reglamentación (sic) que a este respecto expida el Titular del Poder Ejecutivo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+E. Representantes de la sociedad civil que serán nombrados por el Sistema Local de Protección, en los términos de la Reglamentación que a este respecto expida el Titular del Poder Ejecutivo.
 
 Serán invitados permanentes a las sesiones del Sistema Local de Protección Integral, el Presidente de la Mesa Directiva del Congreso del Estado y un representante del Poder Judicial del Estado, quienes intervendrán con voz pero sin voto.
 
@@ -2041,7 +2091,7 @@ A partir del día siguiente de la entrada en vigor del presente Decreto, el Ejec
 
 P.O. 16 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2053,7 +2103,7 @@ El Sistema Local de Protección, adecuará sus lineamientos con el presente Decr
 
 P.O. 18 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 319.- SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 81; EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 82; EL ARTÍCULO 84; Y SE REFORMAN LAS FRACCIONES XII, XIII, Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 96 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES."]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 319.- SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 81; EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 82; EL ARTÍCULO 84; Y SE REFORMAN LAS FRACCIONES XII, XIII, Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 96 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES.”]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2138,3 +2188,19 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo no mayor a los 90 días hábiles contados a partir de que inicie su vigencia el presente Decreto, el Instituto de Educación de Aguascalientes, deberá emitir los Lineamientos a que se refiere el Segundo Párrafo de la Fracción XXVIII del Artículo 17 de la Ley de Educación del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 80.- SE REFORMA Y ADICIONA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 87.- SE REFORMA LA LEY DE PROTECCIÓN AL MIGRANTE PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
