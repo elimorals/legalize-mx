@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2017-12-29"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2019 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -621,7 +623,7 @@ II.- Que el prestador del servicio principal no altere los precios de los servic
 
 ###### ARTICULO 52.
 
-Las personas que perciban ingresos por operaciones comprendidas en la fracción IV del artículo 32, no podrán verificar deducción alguna ni por gastos en la realización de la comisión, mediación, consignación, agencia, representación, correteaje o distribución y se consideran como ingresos los gastos y erogaciones que por cualquier concepto cargue o cobre el agente al representante o comitente, incluso los viáticos y gastos de viaje o de oficina.
+Las personas que perciban ingresos por operaciones comprendidas en la fracción IV del artículo 32, no podrán verificar deducción alguna ni por gastos en la realización de la comisión, mediación, consignación, agencia, representación, correteaje (sic) o distribución y se consideran como ingresos los gastos y erogaciones que por cualquier concepto cargue o cobre el agente al representante o comitente, incluso los viáticos y gastos de viaje o de oficina.
 
 Los causantes señalados en el párrafo anterior pagarán el impuesto sobre el importe de sus comisiones o corretajes, con la sola deducción de las comisiones cedidas a otros agentes.
 
@@ -1647,15 +1649,15 @@ Es objeto del Impuesto Sobre Hospedaje la prestación de servicios de hospedaje 
 
 Dentro del objeto del impuesto se incluye el sistema de tiempo compartido, por los servicios de hospedaje y por el otorgamiento de derechos de uso, goce o usufructo por períodos específicos, sobre un bien inmueble o porción del mismo, destinado al servicio de hospedaje.
 
-> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 172.
 
 Son sujetos de este impuesto las personas físicas, morales o las unidades económicas que presten los servicios objeto de este gravamen.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Son responsables solidarios del pago de este impuesto los intermediarios o facilitadores de la prestación de los servicios de hospedaje, ya sea que se realicen a través de internet o de cualquier otro medio electrónico, respecto de personas físicas, morales o las unidades económicas contribuyentes del impuesto.
+Son responsables solidarios del pago de este impuesto los intermediarios o facilitadores que intervengan en la prestación de los servicios de hospedaje, ya sea que se realicen a través de internet, plataformas virtuales o de cualquier otro medio electrónico, respecto de personas físicas, morales o las unidades económicas contribuyentes del impuesto. En caso de que los intermediarios o facilitadores reciban directamente el monto de las erogaciones por la prestación de los servicios gravados, estarán obligados a presentar el aviso de inscripción y cumplir las demás obligaciones que establece el artículo 177 de esta Ley, salvo que acrediten que dichas obligaciones fueron cumplidas en cada caso por los prestadores del servicio de hospedaje.
 
 > <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2839,71 +2841,103 @@ Por los servicios prestados por la Secretaría de Finanzas y Tesorería General 
 
 I.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II.- Por copia de documentos existentes en el expediente catastral:
+II.- Por impresión de documentos existentes en el expediente catastral:
 
-a) Copia simple, por hoja 0.018 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+a) Impresión simple, por hoja 0.018 cuotas
 
-b) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el inciso anterior ….. 2 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+b) Impresión certificada por cada documento, sin perjuicio de lo dispuesto en el inciso anterior 2 cuotas
 
-III.- Por la expedición de avalúos catastrales:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+III.- Por la expedición de Informe y Cédula Catastrales:
 
-a) Informativo de valor catastral ….. 4 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+a) Informe de trasmisión de propiedad de bienes raíces en el Estado con formato autorizado y aviso de enajenación mediante el uso de la Plataforma de Notarios por medios electrónicos y/o cualquier otro medio establecido por el Instituto Registral y Catastral del Estado 5 cuotas
 
-b) Avalúo en materia de desarrollo urbano ….. 4 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+b) Cédula Única Catastral 4.5 cuotas
 
-c) Avalúo catastral simple ….. 3 cuotas
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-d) Avalúo catastral certificado ….. 4.5 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+IV.- Por Constancias de inscripción catastral:
 
-IV.- Certificaciones de inscripción catastral:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+a) Constancia de no Inscripción 2 cuotas
 
-a) Por expedición de certificado de no inscripción catastral ….. 1 cuota
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+b) Constancia de inscripción, por predio 2 cuotas
 
-b) Por expedición de certificado de inscripción catastral, por predio ….. 2 cuotas
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+c) Constancia de comprobante domiciliario catastral por cada predio 1 cuota
 
-V.- Por certificación de información catastral, actual o histórica, por lote o inmueble ..... 5 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+V.- Por Certificaciones catastrales:
 
-VI.- Por servicios relativos a la rectificación de medidas:
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-a) Por rectificación de medidas, por lote ..... 10 cuotas
+a) Certificación de Información Catastral, actual o histórica, por lote o inmueble 5 cuotas
 
-b) Por análisis de rectificación de medidas georeferenciadas, por lote ..... 58 cuotas
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+b) Certificación de Inscripción Catastral, identificación cartográfica y/o alfanumérica de existencia o inexistencia de un lote o inmueble 5 cuotas
 
-VII.- Por la inscripción de:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-a) Fraccionamientos, relotificaciones y/o condominios, por cada lote o unidad resultante ….. 2 cuotas
+VI.- Por actualizaciones y validaciones:
 
-b) Subdivisión y/o disolución de copropiedad, por cada lote resultante ….. 1 cuota
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-c) Predios omisos, por cada lote ….. 4 cuotas
+a) Modificación cartográfica y alfanumérica resultado de acreditación y/o rectificación de medidas, por lote 2 cuotas
 
-Por asignación de número de expediente catastral a planos de fraccionamientos ….. 10 cuotas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+b) Validación cartográfica, por predio 58 cuotas
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+c) Validación cartográfica y asignación de numeración por proyecto inmobiliario 58 cuotas
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VII.- Por diversos servicios catastrales:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+a) Inscripción de fraccionamientos, relotificaciones y/o condominios, por cada lote o unidad resultante 2 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+b) Actualización cartográfica y alfanumérica por lote resultante producto de: Subdivisión y/o fusión, o desglose 2 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+c) Incorporación de predio omiso, por cada lote 4 cuotas
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+d) Validación de actualización de datos catastrales, por cada predio 1 cuota
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+e) Ingreso de aclaraciones, por cada predio 1 cuota
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -2915,105 +2949,113 @@ a) Urbanos ..... 2 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-b) Rústicos ….. 4 cuotas
+b) Rústicos ... 4 cuotas
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-IX.- Por baja de construcción por demolición u otras causas ….. 5 cuotas
+IX.- Por baja de construcción por demolición u otras causas ... 5 cuotas
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-X.- Resello de planos de construcción ….. 4 cuotas
+X.- Resello de planos de construcción ... 4 cuotas
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XI.- Por expedición de copias de planos de terreno y construcciones existentes en el archivo documental:
+XI.- Por impresión de planos de terreno y construcción existentes en el archivo documental:
 
-a) Copia simple de planos manzaneros, fraccionamientos, condominios, subdivisiones, construcciones y otros, según las siguientes medidas:
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-1. Carta u oficio ….. 1.5 cuotas
+a) Impresión simple de planos: Manzaneros, fraccionamientos, condominios, subdivisiones, construcciones y otros, según las siguientes medidas:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-2. Mayor a oficio y hasta doble carta ….. 3 cuotas
+1. Carta u oficio ... 1.5 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-3. Mayor a doble carta y hasta 61 cm x 91 cm ….. 4.5 cuotas
+2. Mayor a oficio y hasta doble carta ... 3 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-4. Mayor a 61 cm x 91 cm ….. 6 cuotas
-
-b) Copia certificadas de planos manzaneros, región catastral, fraccionamientos, condominios, subdivisiones:
+3. Mayor a doble carta y hasta 61 cm x 91 cm ... 4.5 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-1. Carta u oficio ….. 4 cuotas
+4. Mayor a 61 cm x 91 cm ... 6 cuotas
+
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+b) Impresión certificada de planos: Manzaneros, fraccionamientos, condominios, subdivisiones y otros, según las siguientes medidas:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-2. Mayor a oficio y hasta doble carta ….. 6 cuotas
+1. Carta u oficio ... 4 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-3. Mayor a doble carta y hasta 61 cm x 91 cm ….. 8 cuotas
+2. Mayor a oficio y hasta doble carta ... 6 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-4. Mayor a 61 cm x 91 cm ….. 10 cuotas
+3. Mayor a doble carta y hasta 61 cm x 91 cm ... 8 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+4. Mayor a 61 cm x 91 cm ... 10 cuotas
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 XII.- Impresión de plano de terreno de cartografía digital:
 
-a) Plano simple de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+a) Impresión de plano simple de cartografía digital de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-1. Doble carta ….. 4.5 cuotas
+1. Doble carta ... 4.5 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-2. Mayor a doble carta ….. 6 cuotas
+2. Mayor a doble carta ... 6 cuotas
 
-b) Plano certificado de lote de terreno, indicando medidas, y ubicación, según las siguientes medidas:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-1. Doble carta ….. 8 cuotas
+b) Impresión de plano certificado de cartografía digital de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-2. Mayor a doble carta ….. 10 cuotas
+1. Doble carta ... 8 cuotas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+2. Mayor a doble carta ... 10 cuotas
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+c) Impresión de duplicado de validación cartográfica (doble carta) 8 cuotas
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 XIII.- Por servicios de control vehicular, que se prestan:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-a) Por ingreso o refrendo anual en el padrón de vehículos de
-
-motor y remolques 25 cuotas
+a) Por ingreso o refrendo anual en el padrón de vehículos de motor y remolques 35 cuotas
 
 b) Por expedición o reposición de constancia de registro vehícular 5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIV.- Por autorización y refrendo anual de placas de demostración 30 cuotas
+XIV.- Por autorización y refrendo anual de placas de demostración 60 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XV.- Por expedición, reposición o canje de placas de vehículos de
+XV.- Por expedición, reposición o canje de placas de vehículos de motor y remolques 10 cuotas
 
-motor y remolques 5.25 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-XVI.- Por reposición de tarjeta de circulación 2 cuotas
+XVI.- Por reposición de tarjeta de circulación 3 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -3023,9 +3065,9 @@ XVII.- Por inscripción o cancelación de gravámenes y modificaciones al padró
 
 XVIII.- Por el servicio de validación, ratificación de firmas o certificación sobre enajenación de vehículos 8 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIX.- Por expedición, renovación o reposición de licencia para conducir 5 cuotas
+XIX.- Por expedición, renovación o reposición de licencia para conducir 8 cuotas
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -3035,173 +3077,153 @@ XX.- Por el servicio de información requeridos (sic) a otras autoridades 4 cuot
 
 XXI.- Por expedición de constancias y certificaciones 3 cuotas
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXII.- Por la expedición o en su caso refrendo anual de licencias, por expedición del permiso especial, así como por autorización de cambio de giro, domicilio o titular, en los términos de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, respecto de establecimientos ubicados en los municipios de Apodaca, Cadereyta Jiménez, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Santiago, se cubrirán las siguientes cuotas:
 
 A) Licencias y autorizaciones de cambio de giro o domicilio y en su caso el refrendo anual de licencias:
 
-1.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 375 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 675 cuotas y con capacidad de más de 25,000 personas, 875 cuotas;
+1.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 750 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 1350 cuotas y con capacidad de más de 25,000 personas. 1750 cuotas;
 
-2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 598 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 707 cuotas;
+2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 1196 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 1414 cuotas;
 
-3.- Rodeos con capacidad de hasta 1,500 personas, 471 cuotas y con capacidad mayor de 1,500 personas, 625 cuotas;
+3.- Rodeos con capacidad de hasta 1,500 personas, 942 cuotas y con capacidad mayor de 1,500 personas, 1250 cuotas;
 
-4.- Hoteles y moteles de paso, con servicio de bar y restaurante-bar, 375 cuotas;
+4.- Hoteles y moteles de paso, con servicio de bar y restaurante-bar, 750 cuotas;
 
 5.- En botella cerrada:
 
-a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 4 cuotas.
+a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 8 cuotas.
 
-b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 8 cuotas;
+b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 16 cuotas;
 
-c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 10 cuotas;
+c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 20 cuotas;
 
-d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 20 cuotas;
+d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 40 cuotas;
 
-e) Licorerías, 20 cuotas;
+e) Licorerías, 40 cuotas;
 
-f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 15 cuotas;
+f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 30 cuotas;
 
-g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 34 cuotas;
+g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 68 cuotas;
 
-h) Tiendas de autoservicio con un área de exposición al público mayor a 120 metros cuadrados, 48 cuotas;
+h) Tiendas de autoservicio con un área de exposición al público mayor a 120 metros cuadrados, 96 cuotas;
 
-i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 95 cuotas; y
+i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 190 cuotas; y
 
-j) Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 85 cuotas.
+j) Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 170 cuotas.
 
 6.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
 
-a) Cervecerías con expendio de cerveza, 22 cuotas;
+a) Cervecerías con expendio de cerveza, 44 cuotas;
 
-b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 22 cuotas;
+b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 44 cuotas;
 
-c) Billares con expendio de cerveza, 22 cuotas;
+c) Billares con expendio de cerveza, 44 cuotas;
 
-d) Billares con expendio de cerveza, vinos y licores, 32 cuotas;
+d) Billares con expendio de cerveza, vinos y licores, 64 cuotas;
 
-e) Cantinas o bares, con expendio de cerveza, vinos y licores, 63 cuotas;
+e) Cantinas o bares, con expendio de cerveza, vinos y licores, 126 cuotas;
 
-f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 38 cuotas;
+f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 72 cuotas;
 
-g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 63 cuotas;
+g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 126 cuotas;
 
-h) Centros o Clubes Sociales, o Deportivos con expendio y consumo de cerveza, vinos y licores, pagarán 0.25 cuotas por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 25 cuotas;
+h) Centros o Clubes Sociales o Deportivos con expendio y consumo de cerveza, vinos y licores, pagarán 0.50 cuotas por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 50 cuotas;
 
-i) Centros o Clubes Sociales o Deportivos con consumo de cerveza, vinos y licores, pagarán 0.07 cuotas por metro cuadrado de superficie de consumo. En ningún caso la cantidad a pagar será inferior a 13 cuotas; y
+i) Centros o Clubes Sociales o Deportivos con consumo de cerveza, vinos y licores, pagarán 0.14 cuotas por metro cuadrado de superficie de consumo. En ningún caso la cantidad a pagar será inferior a 26 cuotas; y
 
 j) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
 
-Hasta 150 metros cuadrados de
+Hasta 150 metros cuadrados de expendio o consumo abierto al público 76 cuotas.
 
-expendio o consumo abierto al público 38 cuotas
+Por el excedente de 150 metros, pagarán por cada metro cuadrado o fracción de expendio o consumo abierto al público 0.30 cuotas.
 
-Por el excedente de 150 metros,
-
-pagarán por cada metro cuadrado
-
-o fracción de expendio o consumo
-
-abierto al público 0.15 cuotas.
-
-En ningún caso la cantidad a pagar será mayor a 250 cuotas
+En ningún caso la cantidad a pagar será mayor a 500 cuotas.
 
 B) Permisos especiales:
 
-1.- Para el expendio y consumo de bebidas alcohólicas, 0.2 cuotas por metro cuadrado de superficie de expendio o consumo, más un 10% de los derechos por cada día de duración del permiso;
+1.- Para el expendio y consumo de bebidas alcohólicas, 0.4 cuotas por metro cuadrado de superficie de expendio o consumo, más un 10% de los derechos por cada día de duración del permiso;
 
-2.- Para el consumo de bebidas alcohólicas, 0.1 cuotas por metro cuadrado de superficie de consumo, más un 10% de los derechos por cada día de duración del permiso;
+2.- Para el consumo de bebidas alcohólicas, 0.2 cuotas por metro cuadrado de superficie de consumo, más un 10% de los derechos por cada día de duración del permiso;
 
-En los casos señalados en los dos incisos anteriores, en ningún caso la cantidad a pagar deberá ser menor a 50 cuotas.
+En los casos señalados en los dos incisos anteriores, en ningún caso la cantidad a pagar deberá ser menor a 100 cuotas.
 
-C) Autorizaciones de cambio de titular de licencia, 18 cuotas.
+C) Autorizaciones de cambio de titular de licencia, 36 cuotas.
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 XXIII.- Por la expedición o en su caso refrendo anual de licencias, por expedición del permiso especial, así como por autorización de cambio de giro, domicilio o titular, en los términos de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, se cubrirán las siguientes cuotas, excepto en los municipios señalados en la fracción XXII de este artículo:
 
 A) Por la expedición o en su caso refrendo anual de licencias, así como por autorización de cambio de giro o domicilio:
 
-I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15 mil personas, 250 cuotas y con capacidad de más de 15 mil personas, 450 cuotas;
+I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15 mil personas, 500 cuotas y con capacidad de más de 15 mil personas, 900 cuotas;
 
-II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 193 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 218 cuotas;
+II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 386 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 436 cuotas;
 
-III.- Rodeos con capacidad de hasta 1,500 personas, 218 cuotas y con capacidad mayor de 1,500 personas, 375 cuotas;
+III.- Rodeos con capacidad de hasta 1,500 personas, 436 cuotas y con capacidad mayor de 1,500 personas, 750 cuotas;
 
-IV.- Hoteles y moteles de paso, con servicio de bar y restaurant-bar, 218 cuotas; y
+IV.- Hoteles y moteles de paso, con servicio de bar y restaurant-bar, 436 cuotas; y
 
 V.- Establecimientos que expendan bebidas alcohólicas:
 
 1.- En botella cerrada:
 
-a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 3 cuotas;
+a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 6 cuotas;
 
-b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 5 cuotas;
+b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 10 cuotas;
 
-c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 7 cuotas;
+c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 14 cuotas;
 
-d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 14 cuotas;
+d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 28 cuotas;
 
-e) Licorerías, 14 cuotas;
+e) Licorerías, 28 cuotas;
 
-f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 8 cuotas;
+f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 16 cuotas;
 
-g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 17 cuotas;
+g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 34 cuotas;
 
-h) Tiendas de autoservicio con un área de exposición al público mayor de 120 metros cuadrados, 30 cuotas; y
+h) Tiendas de autoservicio con un área de exposición al público mayor de 120 metros cuadrados, 60 cuotas; y
 
-i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 69 cuotas.
+i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 138 cuotas.
 
-2.- Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 34 cuotas.
+2.- Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 68 cuotas.
 
 3.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
 
-a) Cervecerías con expendio de cerveza, 15 cuotas;
+a) Cervecerías con expendio de cerveza, 30 cuotas;
 
-b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 14 cuotas.
+b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 28 cuotas.
 
-c) Billares con expendio de cerveza, 15 cuotas;
+c) Billares con expendio de cerveza, 30 cuotas;
 
-d) Billares con expendio de cerveza, vinos y licores, 25 cuotas;
+d) Billares con expendio de cerveza, vinos y licores, 50 cuotas;
 
-e) Cantinas o bares, con expendio de cerveza, vinos y licores, 43 cuotas;
+e) Cantinas o bares, con expendio de cerveza, vinos y licores, 86 cuotas;
 
-f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 10 cuotas;
+f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 20 cuotas;
 
-g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 16 cuotas;
+g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 32 cuotas;
 
-h) Centros o Clubes Sociales o Deportivos, con expendio o consumo de cerveza, vinos y licores, pagarán 0.20 cuotas por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 20 cuotas;
+h) Centros o Clubes Sociales o Deportivos, con expendio o consumo de cerveza, vinos y licores, pagarán 0.40 cuotas por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 40 cuotas;
 
 i) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
 
-Hasta 150 metros cuadrados de
+Hasta 150 metros cuadrados de expendio o consumo abierto al público 20 cuotas
 
-expendio o consumo abierto al
+Por el excedente de 150 metros, pagarán por cada metro cuadrado o fracción de expendio o consumo abierto al público 0.30 cuotas
 
-público 10 cuotas
-
-Por el excedente de 150 metros,
-
-pagarán por cada metro cuadrado
-
-o fracción de expendio o consumo
-
-abierto al público 0.15 cuotas
-
-En ningún caso la cantidad a pagar
-
-Será mayor a 63 cuotas
+En ningún caso la cantidad a pagar Será mayor a 126 cuotas
 
 B) Permisos especiales:
 
-1.- Para el expendio y consumo de bebidas alcohólicas, 0.15 cuotas por metro cuadrado de superficie de expendio o consumo, más un 10% de los derechos por cada día de duración del permiso.
+1.- Para el expendio y consumo de bebidas alcohólicas, 0.30 cuotas por metro cuadrado de superficie de expendio o consumo, más un 10% de los derechos por cada día de duración del permiso.
 
-2.- Para el consumo de bebidas alcohólicas, 0.075 cuotas por metro cuadrado de superficie de consumo, más un 10% de los derechos por cada día de duración del permiso.
+2.- Para el consumo de bebidas alcohólicas, 0.15 cuotas por metro cuadrado de superficie de consumo, más un 10% de los derechos por cada día de duración del permiso:
 
-En los casos señalados en los dos incisos anteriores, en ningún caso la cantidad a pagar deberá ser menor a 25 cuotas
+En los casos señalados en los dos incisos anteriores, en ningún caso la cantidad a pagar deberá ser menor a 50 cuotas
 
-C) Autorizaciones de cambio de titular de licencia, 15 cuotas
+C) Autorizaciones de cambio de titular de licencia, 30 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -3269,13 +3291,13 @@ a) Constancia de ingreso a la base de datos de
 
 generadores de residuos de manejo especial 70 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-b) Evaluación de factibilidad para realizar,
+b) Evaluación de factibilidad para realizar recolección
 
-recolección, transporte, reciclaje, reuso y disposición
+y transporte, reciclaje, reúso y disposición final de residuos
 
-final de residuos de manejo especial 150 cuotas
+de manejo especial. 150 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3318,6 +3340,28 @@ de residuos especiales 75 cuotas
 h) Evaluación de factibilidad para la operación
 
 y manejo integral de los centros de composteo 34 cuotas
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+i) Evaluación de factibilidad de instalación y viabilidad para
+
+el Almacenamiento y/o Acopio de residuos de Manejo Especial. 150 cuotas
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+j) Evaluación de·factibilidad para realizar recolección,
+
+transporte, y disposición final de Aguas Residuales
+
+provenientes del desazolve de fosas sépticas y/o limpieza
+
+de baños portátiles 90 cuotas
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+k) Validación al registro de los Planes de Manejo de
+
+Residuos de Manejo Especial 75 cuotas
 
 IV.- En el rubro de aguas residuales:
 
@@ -3421,37 +3465,15 @@ Geoespacial 187.50 cuotas
 
 XIV.- Asistencia Técnica para trámites urbanísticos 75 cuotas
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+XV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-XV.- Evaluación de factibilidad de instalación y
+XVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-viabilidad para el Almacenamiento y/o Acopio de
+XVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-residuos de Manejo Especial 150 cuotas
+XVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-XVI.- Evaluación de factibilidad para realizar, recolección,
-
-transporte, y disposición final de Aguas Residuales
-
-provenientes del desazolve de fosas sépticas y/o limpieza
-
-de baños portátiles 90 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-XVII.- Validación al registro de los Planes de Manejo
-
-de Residuos de Manejo Especial 75 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-XVIII.- Certificado de Bienestar Animal 90 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-XIX.- Certificado de Sustentabilidad Animal 150 cuotas
+XIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3510,6 +3532,12 @@ XXV.- Evaluación, elaboración y análisis relativo al
 certificado de procedencia, respecto de animales
 
 destinados a la venta, por cada animal 6 cuotas
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXVI.- Evaluación de la factibilidad de aprovechamiento
+
+de recursos minerales no reservados a la Federación 150 cuotas
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -4480,3 +4508,9 @@ P.O. 29 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 328. SE REFORMA LA LEY DE HACIENDA DEL ESTADO, EN SUS ARTÍCULOS 157 Y 160, FRACCIÓN II, INCISO D); Y SE ADICIONA CON EL ARTÍCULO 159 BIS-1”.]
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2018.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 079. SE REFORMA LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN EN SUS ARTÍCULOS 172, SEGUNDO PÁRRAFO, 276, FRACCIONES II Y SUS INCISOS A) Y B), III Y SUS INCISOS A) Y B), IV Y SUS INCISOS A) Y B), V, VI Y SUS INCISOS A) Y B), VII Y SUS INCISOS A), B) Y C), XI, INCISOS A) Y B), XII, INCISOS A) Y B), XIII, INCISO A), XIV, XV, XVI, XIX, XXII Y XXIII, 276 BIS FRACCIONES, III, INCISO B), V, INCISO B); SE ADICIONA EN EL ARTICULO 276, FRACCIONES IV, CON UN INCISO C), V, CON LOS INCISOS A) Y B), VI CON UN INCISO C), VII, CON LOS INCISOS D) Y E), XII, CON UN INCISO C), 276 BIS, FRACCIÓN III, CON LOS INCISOS I), J) Y K) Y CON UNA FRACCION XXVI; Y SE DEROGA EN EL ARTICULO 276, FRACCIONES III, INCISOS C) Y D) Y VII, SEGUNDO PARRAFO, Y 276 BIS, FRACCIONES, XV, XVI, XVII, XVIII, Y XIX”.]
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2019.
