@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2018-12-12"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -107,7 +107,9 @@ Los municipios participarán en el total de los impuestos federales a que tengan
 
 De las participaciones que perciba el Estado, los Municipios participarán conforme a los siguientes porcentajes:
 
-a) El 22% del Fondo General de Participaciones.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+a) El 24% del Fondo General de Participaciones.
 
 b) El 100% del Fondo de Fomento Municipal.
 
@@ -115,7 +117,17 @@ c) El 22% del Impuesto Especial sobre Producción y Servicios sobre cerveza, beb
 
 d) El 20% del Fondo de Fiscalización.
 
-e) De llegar a recibir el Estado recursos provenientes de la Reserva de Contingencia, a través de la Secretaría se participará a los Municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus Municipios del total de participaciones de la entidad.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+e) El 20% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+f) El 100% del Impuesto Sobre la Renta, por retenciones a ingresos por salarios, del personal que preste un servicio personal subordinado en la administración municipal.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+g) De llegar a recibir el Estado recursos provenientes de la Reserva de Contingencia, a través de la Secretaría se participará a los Municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus Municipios del total de participaciones de la entidad.
 
 En el conjunto de participaciones a los Municipios no se incluirán aquellas a que se refieren las fracciones I y II del artículo 2-A de la Ley de Coordinación.
 
@@ -133,9 +145,11 @@ c) El 20% del Impuesto Especial Sobre Producción y Servicios, a la venta final 
 
 d) El 80% de los Ingresos Federales que obtengan los Municipios por los derechos de otorgamiento de concesiones por el uso o goce de la zona federal marítima-terrestre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 5.
 
-De las cantidades que el Estado perciba por concepto del Fondo General de Participaciones, conforme a la Ley de Coordinación, corresponderá a los Municipios, un 22% de las mismas, de acuerdo al siguiente cálculo de distribución:
+De las cantidades que el Estado perciba por concepto del Fondo General de Participaciones, conforme a la Ley de Coordinación, corresponderá a los Municipios, un 24% de las mismas, de acuerdo al siguiente cálculo de distribución:
 
 a) El 39% en proporción directa a su población, según los resultados de la última información oficial referida al censo o conteo de población proporcionados por el Instituto Nacional de Estadística, Geografía e Informática (INEGI).
 
@@ -149,7 +163,9 @@ e) El 5% en proporción directa al número de delegaciones municipales.
 
 f) El 5% en proporción directa al número de subdelegaciones municipales.
 
-g) El 1% en proporción a su extensión territorial, conforme a las cifras contempladas en la Constitución Política de la entidad.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+g) El 1% en proporción a las medidas de su extensión territorial, conforme a la última información oficial que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía.
 
 ###### Artículo 6.
 
@@ -195,9 +211,21 @@ b) El 20% en proporción al ingreso por concepto del Impuesto Sobre Enajenación
 
 c) El 10% en proporción al ingreso por servicios de tránsito y control vehicular.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 9 Ter.
+
+De las cantidades que perciba el Estado, por concepto del Impuesto Sobre la Renta, en términos del artículo 3-B de la Ley de Coordinación Fiscal, corresponderá a los Municipios el 100% del impuesto, derivado del salario del personal del propio Municipio.
+
 ###### Artículo 10.
 
 De las cantidades que el Estado recaude por concepto del Impuesto Sobre Automóviles Nuevos, corresponderá a los municipios el 20% de lo que en cada uno de ellos efectivamente se recaude.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 10 Bis.
+
+De las cantidades que el Estado reciba por concepto del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, corresponderá a los Municipios un 20% del mismo, y se distribuirá en los mismos porcentajes en los que cada uno participe en los incentivos por la recaudación del Impuesto Sobre Automóviles Nuevos.
 
 > <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
@@ -570,3 +598,9 @@ La Auditoría Superior del Estado de Baja California Sur deberá realizar las mo
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+B.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2589 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el siguiente (sic) al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
