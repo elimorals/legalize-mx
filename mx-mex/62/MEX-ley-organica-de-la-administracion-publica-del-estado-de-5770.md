@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2018-09-20"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -539,21 +539,33 @@ XVI. Proporcionar asesoría, en materia de interpretación y aplicación de las 
 
 Difundir permanentemente y publicar anualmente las disposiciones fiscales estatales y municipales.
 
-> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-XVII. Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la hacienda pública del Estado.
+XVII. Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Entidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+En materia de impuestos federales coordinados, en representación de la Entidad y en cumplimiento de los convenios y acuerdos de coordinación fiscal, tendrá las siguientes facultades:
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+a). Intervenir como parte en los juicios contra resoluciones o actos emitidos por la Entidad en ejercicio de sus facultades por ingresos federales ya sea por sí o a través de las dependencias u organismos auxiliares de la administración pública estatal, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público y/o al Servicio de Administración Tributaria.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+b). Ejercer las acciones, oponer las excepciones y defensas que correspondan a los actos emitidos por la Entidad en los juicios.
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-En materia de impuestos federales coordinados, en cumplimiento de los convenios y acuerdos de coordinación fiscal tendrá las siguientes facultades:
-
-a). Intervenir como parte en los juicios contra resoluciones o actos emitidos por el Gobierno del Estado en ejercicio de sus facultades por ingresos federales ya sea por sí o a través de las dependencias u organismos auxiliares de la administración pública estatal, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público y/o al Servicio de Administración Tributaria.
-
-b). Ejercer las acciones, oponer las excepciones y defensas que correspondan a los actos emitidos por el Gobierno del Estado en los juicios.
-
 c). Intervenir en los juicios interpuestos contra requerimientos de pago a cargo de instituciones de fianzas con base en pólizas que se hayan expedido para asegurar el interés fiscal.
 
-d). Interponer recurso de revisión en nombre y representación del Gobierno del Estado de México, en contra de las sentencias y resoluciones ante el Tribunal Colegiado de Circuito competente, por conducto de las Salas, Secciones o Pleno del Tribunal Federal de Justicia Fiscal y Administrativa y las dictadas en el Juicio en Línea, en relación con los juicios en que el propio Estado haya intervenido como parte.
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+d). Interponer recurso de revisión en nombre y representación de la Entidad y del Gobernador del Estado de México, en contra de las sentencias y resoluciones ante el Tribunal Colegiado de Circuito competente, por conducto de las Salas, Secciones o Pleno del Tribunal Federal de Justicia Administrativa y las dictadas en el Juicio en Línea, en relación con los juicios en que el propio Estado haya intervenido como parte.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+Para el ejercicio de las atribuciones contenidas en esta fracción, el Secretario se auxiliará del Procurador Fiscal y sus Directores de Área, Jefes de Departamento y demás funcionarios que establezca el reglamento interior respectivo, quienes tendrán las atribuciones de representación de la Entidad que ejerza el propio Secretario;
 
 > <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
 
@@ -715,9 +727,9 @@ LI. Emitir normas, políticas y procedimientos para el establecimiento y la oper
 
 LII. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados a transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
-LIII. Autorizar la constitución de fideicomisos y verificar el debido cumplimiento de sus fines en aquellos en los que las Dependencias y Entidades Públicas del Gobierno del Estado de México sean parte, así como registrar, supervisar y evaluar su funcionamiento en cualquier tiempo;
+LIII. Autorizar la constitución de todos los fideicomisos en los que las Dependencias y Entidades Públicas del Gobierno del Estado de México sean parte, verificar el debido cumplimiento de sus fines, así como registrar, supervisar y evaluar su funcionamiento en cualquier momento;
 
 > <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
@@ -2131,19 +2143,15 @@ En la integración del capital social de estas empresas, podrán participar los 
 
 Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles así como las asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de la administración pública estatal, o servidores públicos estatales que participen en razón de sus cargos o alguna o varias de ellas, se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
-> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 49.
 
-El Gobernador, a través de sus dependencias y entidades podrá constituir fideicomisos.
+El Gobernador, a través de sus dependencias y entidades, podrá constituir o participar en los fideicomisos previstos en el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios.
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+Los fideicomisos públicos con estructura deberán contar con un Decreto o Acuerdo de creación emitido por la Legislatura o el Gobernador según corresponda, de conformidad con lo señalado en el artículo 46 de esta Ley; serán considerados organismos auxiliares del Poder Ejecutivo y sujetarán su actuación a lo previsto en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
 
-Asimismo el Gobernador, a través de la Secretaría de Finanzas, podrá constituir fideicomisos públicos con el propósito de auxiliarlo en las atribuciones del Ejecutivo a su cargo, que cuenten con una estructura orgánica análoga a la de otros organismos y con Comité Técnico. Únicamente los fideicomisos que reúnan estas características, serán considerados organismos auxiliares del Poder Ejecutivo.
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-Los demás fideicomisos que se constituyan por el Gobierno del Estado de México, a través de sus Dependencias o Entidades Públicas, deberán ser autorizados, registrados, supervisados y evaluados por la Secretaría de Finanzas, en los términos y condiciones que al efecto establezcan las disposiciones legales aplicables y demás ordenamientos legales.
+Los demás fideicomisos solo deberán ser autorizados, registrados, supervisados y evaluados por la Secretaría de Finanzas en los términos y condiciones que al efecto establezcan las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -3584,3 +3592,19 @@ TERCERO. La Secretaría de Comunicaciones tendrá un plazo no mayor a ciento och
 CUARTO. Toda referencia al dictamen de impacto vial o su equivalente en otros ordenamientos de igual o menor jerarquía se entenderá a la Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial.
 
 QUINTO. Para efectos del segundo párrafo del artículo 17.13 del Código Administrativo del Estado de México, la Secretaría de Finanzas publicará las reglas de carácter general en el Periódico Oficial "Gaceta del Gobierno", dentro de los primeros veinte días hábiles del Ejercicio Fiscal de 2019.
+
+G.G. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 18.- POR EL QUE SE APRUEBA LA INICIATIVA QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2019.
+
+TERCERO.- Los contribuyentes propietarios de vehículos de servicio particular que porten placas de circulación expedidas en el ejercicio fiscal 2013 y anteriores, deberán realizar la renovación de placas en los meses de julio a diciembre de 2019 conforme a las reglas que para tal efecto publique la Secretaría de Finanzas, informando a la Legislatura por conducto de las comisiones de planeación y gasto público y de finanzas públicas. Las reglas de operación se publicarán a más tardar el 30 de junio de 2019, en el Periódico Oficial “Gaceta del Gobierno”, con la finalidad de ser sujetos a los beneficios fiscales que determinen a su favor en caso de regularización de adeudos pudiendo ser de hasta el cien por ciento de condonación, de conformidad con el artículo 10 de la Ley de Ingresos del Estado de México para el ejercicio fiscal de 2019.
+
+CUARTO.- Se considerarán vigentes durante el ejercicio 2019 las placas expedidas durante el ejercicio fiscal de 2014, mismas que deberán renovarse durante 2020.
+
+QUINTO.- Las placas expedidas en los ejercicios 2015 y posteriores deberán renovarse al vencimiento de los cinco años contados a partir de su expedición.
+
+SEXTO.- Los años de referencia contenidos en la tabla del segundo párrafo de la fracción I del artículo 63 del Código Financiero del Estado de México y Municipios se actualizarán, siendo aplicable para el primer año de antigüedad el 2019 y para el último año el 2010, conservando íntegros los factores respectivos.
