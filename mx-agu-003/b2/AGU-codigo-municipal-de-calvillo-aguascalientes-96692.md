@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2018-12-10"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE DICIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -611,7 +609,7 @@ Para el ejercicio de sus funciones, los periodistas, reporteros, fotógrafos y r
 
 El Palacio Municipal es inviolable. En consecuencia, en sus entradas se colocará ostensiblemente visible, de manera fija y permanente la siguiente leyenda:
 
-"RECINTO INVIOLABLE"."En su interior, toda fuerza pública o persona armada estarán, sin reserva alguna, bajo el mando del Presidente Municipal. Al ingresar, todo individuo armado debe dar aviso al Alcalde o a cualquiera de los Ediles que encuentre. Ninguna autoridad judicial o administrativa puede practicar diligencia alguna de ejecución al interior de este recinto".
+"RECINTO INVIOLABLE". "En su interior, toda fuerza pública o persona armada estarán, sin reserva alguna, bajo el mando del Presidente Municipal. Al ingresar, todo individuo armado debe dar aviso al Alcalde o a cualquiera de los Ediles que encuentre. Ninguna autoridad judicial o administrativa puede practicar diligencia alguna de ejecución al interior de este recinto".
 
 ###### Artículo 47.
 
@@ -699,9 +697,11 @@ La falta del aviso de ausencia del Estado por motivos no oficiales, motivará qu
 
 La ausencia de los Ediles del territorio del Estado, cuando sea por motivos oficiales, deberá contar con la justificación del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 68.
 
-En los casos de falta por muerte, por declaración de ausencia, por licencia para separación del cargo, por abandono del cargo o de impedimento legal para el desempeño del cargo de un miembro propietario del Ayuntamiento, el suplente del Edil respectivo debe asumir de inmediato el ejercicio del cargo, notificando por escrito al Cabildo por conducto de la Secretaría del Ayuntamiento, el momento a partir del cual lo asume y rindiendo la protesta de ley ante el Ayuntamiento, el Presidente Municipal o en el pórtico del Palacio Municipal, bastando para la formalización de la protesta, que la misma se realice ante la fe notarial o en presencia de dos testigos, levantándose al efecto el acta notarial respectiva o una acta firmada al menos por quien rinde la protesta y por los testigos.
+En los casos de falta por muerte, por declaración de ausencia, por abandono del cargo o de impedimento legal para el desempeño del cargo de un miembro propietario del Ayuntamiento, el suplente del Edil respectivo debe asumir de inmediato el ejercicio del cargo, notificando por escrito al Cabildo por conducto de la Secretaría del Ayuntamiento, el momento a partir del cual lo asume y rindiendo la protesta de ley ante el Ayuntamiento, el Presidente Municipal o en el pórtico del Palacio Municipal, bastando para la formalización de la protesta, que la misma se realice ante la fe notarial o en presencia de dos testigos, levantándose al efecto el acta notarial respectiva o una acta firmada al menos por quien rinde la protesta y por los testigos.
 
 ###### Artículo 69.
 
@@ -711,17 +711,23 @@ Cuando un Regidor suplente asuma el carácter de propietario, no le corresponder
 
 El Ayuntamiento, en la Sesión en que el suplente rinda la protesta constitucional o en la primera Sesión siguiente a la protesta si ésta se rinde fuera de Sesión, proveerá en su caso a la incorporación inmediata de aquél, al pleno ejercicio del cargo de miembro del Cabildo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 71.
 
-La falta del Presidente Municipal sólo será cubierta por el suplente, en el momento en que sea definitiva o por cualquier tipo de licencia para ausentarse del cargo.
+La falta del Presidente Municipal sólo será cubierta por el suplente, en el momento en que la falta sea definitiva.
+
+Las faltas temporales del Presidente Municipal, las cubrirá el primer regidor, y en ausencia de éste, el que le siga en número.
 
 ###### Artículo 72.
 
 La falta del Síndico o de los demás regidores sólo se cubrirá por su respectivo suplente, en caso de que se prolongue por más de treinta días naturales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 73.
 
-Para los efectos de la suplencia, sólo se considera como falta de algún integrante del Ayuntamiento, la imposibilidad material o legal de continuidad en el desarrollo regular de sus funciones.
+Para los efectos de la suplencia, sólo se considera como falta de algún integrante del Ayuntamiento, la imposibilidad material o legal de continuidad en el desarrollo regular de sus funciones de manera definitiva, a excepción de lo señalado en el artículo que antecede.
 
 ###### Artículo 74.
 
@@ -24187,15 +24193,15 @@ En caso de no recogerlas dentro del término señalado en el artículo anterior,
 
 Cuando el valor de los objetos exceda de dicho valor, se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Secretaría de Finanzas del Municipio de Calvillo. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
 
-> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTRGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
 
 # LIBRO OCTAVO
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTRGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
 
 ## TÍTULO ÚNICO
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTRGRA, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE FEBRERO DE 2018)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -24217,7 +24223,7 @@ En materia de programación y presupuestación, el IMPLAN y la Secretaría de Fi
 
 I.- Emitir el conjunto de políticas, normas y lineamientos para la programación del Gasto Público, con base en el Plan Municipal de Desarrollo respectivo, y observando en todo caso lo establecido por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
 
-II.- Formular y emitir lineamientos para definir los Programas Presupuestarios de conformidad con lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaría del Estado de Aguascalientes y sus municipios;
+II.- Formular y emitir lineamientos para definir los Programas Presupuestarios de conformidad con lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus municipios;
 
 III.- Dar seguimiento al ejercicio de los programas presupuestarios;
 
@@ -24281,9 +24287,9 @@ VI. Deberán dar seguimiento a la atención de las recomendaciones que se emitan
 
 La Secretaría de Finanzas y Administración en conjunto con el IMPLAN verificará periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el Sistema de Evaluación del Desempeño, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
 
-El sistema de evaluación del desempeño a que se refiere el párrafo anterior será obligatorio para los ejecutores del gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el artículo 1 de la Ley Federal de Presupuesto y Responsabilidad Hacendaría. La Secretaría de Finanzas y Administración en conjunto con el IMPLAN emitirán las disposiciones para la aplicación y evaluación de los indicadores estratégicos en las dependencias y entidades. Los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
+El sistema de evaluación del desempeño a que se refiere el párrafo anterior será obligatorio para los ejecutores del gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el artículo 1 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. La Secretaría de Finanzas y Administración en conjunto con el IMPLAN emitirán las disposiciones para la aplicación y evaluación de los indicadores estratégicos en las dependencias y entidades. Los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
 
-En la elaboración de los anteproyectos de presupuesto a los que se refiere el artículo 25 de la Ley Federal de Presupuesto y Responsabilidad Hacendaría, las dependencias y entidades deberán considerar los indicadores del sistema de evaluación de desempeño, mismos que formarán parte del Presupuesto de Egresos e incorporarán sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
+En la elaboración de los anteproyectos de presupuesto a los que se refiere el artículo 25 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las dependencias y entidades deberán considerar los indicadores del sistema de evaluación de desempeño, mismos que formarán parte del Presupuesto de Egresos e incorporarán sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
 
 El sistema de evaluación del desempeño deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas presupuestarios en la igualdad entre mujeres y hombres, la erradicación de la violencia de género y de cualquier forma de discriminación de género.
 
@@ -24504,3 +24510,13 @@ Artículo Tercero.- Se ordena realizar los ajustes necesarios al presupuesto de 
 Artículo Cuarto.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Quinto.- Cúmplase.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE CLAVILLO, AGS.]</small>
+
+Artículo Segundo.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Cuarto.- Cúmplase.
