@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-obligaciones-emprestitos-y-deuda-publica-del-estado-1187
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2017-12-20"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE OBLIGACIONES, EMPRESTITOS Y DEUDA PUBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Suplemento 10 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -45,7 +45,7 @@ RESULTANDO TERCERO. El proponente justificó su Iniciativa, bajo la siguiente:
 
 EXPOSICIÓN DE MOTIVOS
 
-[.]
+[…]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -73,7 +73,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Aportaciones Federales: Recursos que la federación transfiere a las haciendas públicas del Estado y sus Municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos para cada tipo de aportación a que se refiere el Capítulo Quinto de la Ley de Coordinación Fiscal;
 
-II. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas del Estado de Zacatecas, incluyendo los esquemas o proyectos de prestación de servicios similares o semejantes, con independencia de la denominación que se utilice para su desarrollo;
 
 III. Balance Presupuestario: Diferencia entre los ingresos totales incluidos en la Ley de Ingresos, y los gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
@@ -205,7 +207,9 @@ Los Entes Públicos solo podrán contraer Obligaciones, Empréstitos y Deuda Pú
 
 Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión Pública Productiva a realizar.
 
-Lo dispuesto en este artículo no será aplicable a la contratación de Obligaciones, Empréstitos y Deuda Pública, en términos de programas federales o de los convenios con la Federación, los que se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal y Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Lo dispuesto en este artículo no será aplicable a la contratación de Financiamientos, en términos de programas federales o de los convenios con la Federación, los que se regirán por lo acordado entre las partes en el convenio correspondiente, incluyendo aquellos rubros o destinos para atender a la población afectada por desastres naturales en los términos de las leyes, reglas de operación y lineamientos aplicables, así como por la Ley de Coordinación Fiscal.
 
 De las prohibiciones en la contratación de Deuda Pública y Obligaciones.
 
@@ -347,7 +351,9 @@ XIII. Constituir fideicomisos de captación y distribución de contribuciones lo
 
 XIV. Autorizar a las entidades de la Administración Pública Paraestatal para gestionar y contratar Obligaciones, Empréstitos y Deuda Pública, siempre y cuando éstos tengan la solvencia suficiente para afrontar los compromisos y obligaciones que pretenden adquirir;
 
-XV. Vigilar que se incluyan en el proyecto de Presupuesto de Egresos del Estado, los montos necesarios para cumplir puntualmente las obligaciones derivadas de las operaciones de Deuda Pública del Estado, así como incluir un apartado especial e independiente, para efectos informativos, respecto del servicio de la deuda de los Entes Públicos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XV. Vigilar que se incluyan en el proyecto de Presupuesto de Egresos del Estado, los montos necesarios para cumplir puntualmente las obligaciones derivadas de las operaciones de Deuda Pública del Estado, así como incluir un apartado especial e independiente, para efectos informativos, respecto del servicio de la deuda de los Entes Públicos. Asimismo, deberá desglosar el monto asignado en el ejercicio fiscal correspondiente al pago de deuda pública en pago de principal e intereses, desglosar la deuda pública por tipo de obligación o instrumento de contratación y desglosar la Deuda Pública por Institución Bancaria;
 
 XVI. Asesorar técnicamente a los Municipios y a las entidades de la administración pública paraestatal y paramunicipal que así lo soliciten, en todo lo relativo a la programación, concertación, autorización, contratación y control de Deuda Pública;
 
@@ -631,13 +637,17 @@ I. Exista una mejora en la tasa de interés, incluyendo los costos asociados, lo
 
 II. No se incremente el saldo insoluto; y
 
-III. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, el plazo de duración del pago del principal e intereses del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+III. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, no se otorgue plazo o periodo de gracia, ni se modifique el perfil de amortizaciones del principal del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Del plazo para informar a la Legislatura
 
 ###### Artículo 25.
 
-Dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el Ente Público a cargo de la deuda deberá informar a la Legislatura del Estado sobre la celebración de este tipo de operaciones, así como inscribir dicho Refinanciamiento o Reestructuración ante el Registro Público Único y Registro Estatal de Deuda Pública.
+Dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el Ente Público a cargo de la deuda deberá informar a la Legislatura del Estado sobre la celebración de este tipo de operaciones, así como presentar la solicitud de inscripción de dicho Refinanciamiento o Reestructuración ante el Registro Público Único y Registro Estatal de Deuda Pública.
 
 De las mejores condiciones del mercado para la contratación
 
@@ -685,11 +695,17 @@ Del procedimiento competitivo y transparencia.
 
 En el caso de que el Estado o cualquiera de sus Entes Públicos soliciten autorización de Deuda Pública por un monto mayor o igual a cuarenta millones de Unidades de Inversión o su equivalente; o el Municipio o cualquiera de sus Entes Públicos soliciten Financiamientos por un monto mayor a diez millones de Unidades de Inversión o su equivalente y, en ambos casos, a un plazo de pago superior a un año, deberán cumplir con lo siguiente:
 
-I. Implementar un proceso competitivo con por lo menos cinco diferentes Instituciones Financieras, del cual obtenga mínimo dos ofertas irrevocables de financiamiento. La temporalidad de dichas propuestas no deberá diferir en más de 30 días naturales y deberá tener una vigencia mínima de sesenta días naturales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. Implementar un proceso competitivo con, por lo menos, cinco diferentes Instituciones Financieras, del cual obtenga mínimo dos ofertas irrevocables de Financiamiento. La temporalidad de dichas propuestas no deberá diferir en más de 30 días naturales y deberá tener una vigencia mínima de sesenta días naturales. Tratándose de propuestas relativas a Instrumentos derivados, no será aplicable la vigencia mínima de 60 días naturales;
 
 II. La solicitud del financiamiento que se realice a cada Institución Financiera deberá precisar y ser igual en cuanto a monto, plazo, perfil de amortizaciones, condiciones de disposición, oportunidad de entrega de los recursos y, en su caso, la especificación del recurso a otorgar como Fuente de Pago del financiamiento o garantía a contratar, de acuerdo con la aprobación de la Legislatura del Estado. En ningún caso la solicitud podrá exceder de los términos y condiciones autorizados por la Legislatura del Estado;
 
 III. Las ofertas irrevocables que presenten las Instituciones Financieras deberán precisar todos los términos y condiciones financieras aplicables al Financiamiento, así como la fuente o garantía de pago que se solicite. El Ente Público estará obligado a presentar la respuesta de las Instituciones Financieras que decidieron no presentar oferta;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En caso de no obtener el mínimo de ofertas irrevocables, el proceso competitivo será declarado desierto por única ocasión, por lo que el Ente Público deberá realizar un nuevo proceso competitivo y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I de éste artículo, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la invitación enviada a las Instituciones Financieras o prestador de servicios, misma que deberá cumplir con los términos establecidos en la invitación correspondiente;
 
 IV. Contratar la oferta que represente las mejores condiciones de mercado para el Ente Público, consistente en el costo financiero más bajo, incluyendo todas las comisiones, gastos y cualquier otro accesorio que estipule la propuesta. Para establecer un comparativo que incluya la tasa de interés y todos los costos relacionados al financiamiento, se deberá aplicar la metodología establecida para el cálculo de la tasa efectiva, bajo los Lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público; y
 
@@ -701,11 +717,17 @@ Para acreditar la contratación bajo las mejores condiciones de mercado de los F
 
 El Ente Público, en cualquier caso, deberá elaborar un documento que incluya el análisis comparativo de las propuestas, conforme a lo establecido en la fracción IV de este artículo. Dicho documento deberá publicarse en la página oficial de internet del propio Ente Público.
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+Para el caso de contratación de coberturas de la Deuda Pública, se deberá llevar a cabo el proceso competitivo para la contratación de financiamientos, establecido en esta Ley.
 
-PARA EL CASO DE CONTRATACIÓN DE COBERTURAS DE LA DEUDA PÚBLICA, SE DEBERÁ LLEVAR A CABO EL PROCESO COMPETITIVO PARA LA CONTRATACIÓN DE FINANCIAMIENTOS, ESTABLECIDO EN ESTA LEY.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En el caso de operaciones de Reestructuración que cumplan lo señalado en el artículo 24 de esta Ley, no se requerirá realizar el proceso competitivo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Asimismo, tratándose de Refinanciamientos que sustituyan un Financiamiento por otro de forma total, aplicará la excepción prevista en el párrafo que antecede.
 
 Del procedimiento en operaciones bursátiles.
 
@@ -713,7 +735,13 @@ Del procedimiento en operaciones bursátiles.
 
 Con excepción de las Obligaciones, Empréstitos y Deuda Pública que se contraten mediante el mercado bursátil, cuando la autorización del Financiamiento a que hace referencia el artículo 11 de esta Ley, exceda de cien millones de Unidades de Inversión, dicho proceso de contratación se realizará mediante licitación pública, con base en lo establecido en el artículo 31 de esta Ley conforme a lo siguiente:
 
-I. El proceso competitivo deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+I. El proceso competitivo deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior. El Ente Público no estará obligado a presentar las negativas de participación presentadas por las Instituciones Financieras o prestador de servicios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+En caso de no obtener el mínimo de ofertas irrevocables, la licitación pública será declarada desierta por única ocasión, por lo que el Ente Público deberá realizar una nueva licitación pública y, en caso de no obtener dos ofertas irrevocables en los términos de la fracción I del artículo 31 de esta Ley, la oferta ganadora será aquella que se hubiera presentado en el día y la hora indicada en la convocatoria, misma que deberá cumplir con los términos establecidos en la propia convocatoria. La convocatoria podrá indicar supuestos adicionales bajo los cuales podrá declararse desierta una licitación pública, y
 
 II. La Institución Financiera que resulte ganadora del proceso competitivo se dará a conocer en un plazo no mayor a 2 días hábiles posteriores al tiempo establecido de conformidad con la fracción anterior, a través de medios públicos y electrónicos, incluyendo la página oficial de internet del Ente Público, publicando el documento en que conste la comparación de las propuestas presentadas.
 
@@ -791,11 +819,13 @@ Del destino de las obligaciones a corto plazo.
 
 Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados exclusivamente a cubrir necesidades de esa naturaleza, entendiendo dichas necesidades como insuficiencias de liquidez de carácter temporal.
 
-De las restricciones de las obligaciones a corto plazo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+De las restricciones de las obligaciones a corto plazo
 
 ###### Artículo 42.
 
-Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores de 1 año, salvo en el caso de las Obligaciones destinadas a Inversión Pública Productiva y cumpliendo con los requisitos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores de 1 año.
 
 ### CAPÍTULO IV. CONSTITUCIÓN DE FIDEICOMISOS
 
@@ -836,6 +866,10 @@ De los ingresos como garantía y mecanismos de pago
 El Poder Ejecutivo por conducto de la Secretaría podrá afectar sus ingresos locales, así como el derecho a percibir los ingresos y los propios ingresos de las Aportaciones Federales susceptibles de afectación, a las Participaciones o cualquier otro ingreso que le corresponda, como Fuente de Pago o Garantía de las obligaciones a su cargo, a través (sic) fideicomisos, mandatos o cualquier otro acto jurídico análogo.
 
 Para los efectos de esta Ley, en caso que dichos mecanismos se instrumenten mediante fideicomisos, éstos no serán considerados parte de la Administración Pública Paraestatal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Para aquellos casos en los que el Poder Ejecutivo del Estado o Municipios, realicen la afectación de sus participaciones federales en garantía o como Fuente de pago a través de un fideicomiso público sin estructura que funja como acreditado en el Financiamiento u Obligación correspondiente, se consolidarán estos con los Financiamientos y Obligaciones de la Entidad Federativa o Municipio y serán computables para efectos del Sistema de Alertas.
 
 El Poder Ejecutivo del Estado, por conducto de la Secretaría, sólo podrá afectar las Aportaciones Federales que en términos de la legislación federal sean susceptibles de afectación, hasta los límites previstos en la misma, y siempre que se destinen los recursos del financiamiento a los fines previstos en ella.
 
@@ -909,15 +943,17 @@ De los límites y gradualidad de la Deuda Estatal Garantizada.
 
 Para los efectos de los límites de la Deuda Estatal Garantizada, así como su gradualidad, se estará a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-De las evaluaciones en el cumplimiento de las Obligaciones.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+De las evaluaciones en el cumplimiento de las Obligaciones
 
 ###### Artículo 52.
 
-El Poder Ejecutivo del Estado estará sujeto a la evaluación del cumplimiento de las obligaciones específicas de responsabilidad hacendaria que efectúe periódicamente la Secretaría de Hacienda y Crédito Público, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. A su vez, el Poder Ejecutivo del Estado realizará dicha evaluación de las obligaciones a cargo de los Municipios, en términos de lo establecido en los propios convenios.
+El Poder Ejecutivo del Estado y los Municipios cuando tengan contratados Financiamientos y Obligaciones inscritos en el Registro Público Único, cuya fuente o garantía de pago sea de ingresos de libre disposición, de acuerdo a su nivel de endeudamiento, serán evaluados por la Secretaría de Hacienda y Crédito Público.
 
-Para ello, el Poder Ejecutivo del Estado y Municipios enviarán trimestralmente a la Secretaría de Hacienda y Crédito Público y a la Legislatura del Estado, respectivamente, la información que se especifique en el convenio correspondiente para efectos de la evaluación periódica de cumplimiento. En todo caso, el Poder Ejecutivo del Estado a través de la Secretaría de Finanzas, deberá remitir la evaluación correspondiente de cada Municipio a la Secretaría de Hacienda y Crédito Público.
+En caso de que un Ente Público, con excepción del Poder Ejecutivo del Estado y de los Municipios, se ubique en un nivel de endeudamiento elevado, deberá firmar un convenio con el Poder Ejecutivo Estatal o con el Municipio, para establecer obligaciones específicas de responsabilidad hacendaria.
 
-Tanto el Estado como sus Municipios, serán plenamente responsables de la validez y exactitud de la documentación e información que respectivamente entreguen para realizar la evaluación del cumplimiento referida en el párrafo anterior.
+El seguimiento de las obligaciones de responsabilidad hacendaria establecidas en dicho convenio, estará a cargo del Poder Ejecutivo del Estado o del Municipio, según corresponda. El seguimiento referido deberá realizarse con una periodicidad trimestral, remitirse a la Secretaría de Hacienda y Crédito Público y publicarse a través de las páginas oficiales de Internet del Ente responsable del seguimiento.
 
 Del incumplimiento de los convenios.
 
@@ -1077,7 +1113,7 @@ JORGE MIRANDA CASTRO
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>[N. DE E. MEDIANTE DECRETO 112 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, LA H. LEGISLATURA DEL ESTADO SOMETIÓ DE NUEVA CUENTA LAS REFORMAS DEL DECRETO 273 EN ACATAMIENTO A LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, POR LO QUE SE SUGIERE CONSULTAR EL APARTADO CORRESPONDIENTE DENTRO DE LA CRONOLOGÍA LEGISLATIVA DE ESTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE DICIEMBRE DE 2017.
 
@@ -1088,3 +1124,27 @@ Artículo Único. Las presentes reformas a la Ley de Obligaciones, Empréstitos 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
 
 ÚNICO.- El presente Decreto entrará en vigor el 1ro. de enero del 2018, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 112.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+PRIMERO. Publíquese en el Periódico Oficial Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente en que haya surtido todos sus efectos en el Estado la declaración de invalidez decretada mediante la Acción de Inconstitucionalidad 12/2018 emitida por la Suprema Corte de Justicia de la Nación.
+
+TERCERO. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 113.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+Artículo primero. El presente Decreto entrará en vigor el 1° de enero de 2019, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se autoriza a la Secretaría de Finanzas del Gobierno del Estado para expedir los formatos que deberán ser utilizados en su llenado por los Entes Públicos, para la evaluación del impacto presupuestario, de conformidad con lo establecido en el artículo 18-Ter de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, mismos que deberá actualizar la propia Secretaría.
+
+Artículo tercero. El Impuesto establecido en el Capítulo Cuarto, del Título Segundo, de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en los Ejercicios Fiscales 2019, 2020 y 2021.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto del Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo que se suspende conforme a este Decreto, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+Artículo cuarto. Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
