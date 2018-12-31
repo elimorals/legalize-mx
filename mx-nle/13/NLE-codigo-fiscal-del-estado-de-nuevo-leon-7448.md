@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2017-12-29"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -451,7 +451,9 @@ Los recargos se calcularán sobre el total del crédito fiscal y mientras subsis
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste y se exigirá independientemente de los conceptos a que se refiere el artículo anterior. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste y se exigirá independientemente de los conceptos a que se refiere el artículo anterior. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días hábiles, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -1309,11 +1311,11 @@ Lo establecido en este Artículo no limita el ejercicio de las facultades de com
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de treinta días siguientes a la fecha en que surta efectos su notificación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTICULO 66.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán discrecionalmente autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses. Durante el plazo concedido se causarán intereses sobre el saldo insoluto, incluyendo los accesorios, a la tasa establecida en la Ley de Ingresos del Estado de los ejercicios de que se trate.
+Las autoridades fiscales, a petición de los contribuyentes, podrán discrecionalmente autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses. Al momento de la solicitud deberá pagarse por lo menos el 20% del monto total del crédito fiscal. Durante el plazo concedido se causarán intereses sobre el saldo insoluto actualizado, incluyendo los accesorios, a la tasa establecida en la Ley de Ingresos del Estado de los ejercicios de que se trate.
 
 Las autoridades fiscales al autorizar el pago a plazo exigirán se garantice el interés fiscal, a excepción de los casos en los que dichas autoridades discrecionalmente dispensen el otorgamiento de la garantía.
 
@@ -1389,11 +1391,15 @@ II.- La omisión haya sido corregida por el contribuyente después de que las au
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 74.
 
-La Secretaría de Finanzas y Tesorería General del Estado podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría de Finanzas y Tesorería General del Estado, podrá condonar total o parcialmente las multas por infracción a las disposiciones fiscales o administrativas no fiscales, inclusive las determinadas por el propio contribuyente, para lo cual la Secretaría de Finanzas y Tesorería General del Estado establecerá, mediante reglas de carácter general, los requisitos y supuestos por los cuales procederá la condonación, así como la forma y plazos para el pago de la parte no condonada.
 
-La solicitud de condonación de multas en los términos de este Artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Tesorería General del Estado al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Tesorería General del Estado al respecto no podrán ser impugnadas por los medios de defensa que establece este Código y en todo caso se podrá autorizar la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
 Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
@@ -2159,9 +2165,9 @@ La garantía deberá comprender, además de las contribuciones adeudadas actuali
 
 La Secretaría de Finanzas y Tesorería General del Estado vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Para garantizar el interés fiscal en cualesquiera de las formas a que se refiere este artículo, se requerirá autorización de la Secretaría de Finanzas y Tesorería General del Estado, previo el cumplimiento de los requisitos que señale la propia Secretaría.
+Para garantizar el interés fiscal en cualesquiera de las formas a que se refiere este artículo, se deberá cumplir con los requisitos que mediante reglas de carácter general establezca la Secretaría de Finanzas y Tesorería General del Estado.
 
 ###### ARTICULO 140.
 
@@ -3254,3 +3260,15 @@ Primero.- El presente Decreto entrará en vigor el día 1º de enero del año 20
 Segundo.- Las notificaciones de los actos administrativos propios o derivados de colaboración con el Gobierno Federal, se podrán realizar a través de buzón tributario u otros medios electrónicos que sean compartidos mediante estos convenios de colaboración entre las autoridades Federales.
 
 Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de un año para emitir las Reglas Generales a que se refiere el artículo 133, fracción I, del Código Fiscal del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 067. SE REFORMA LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN, SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN SE ADICIONA LA LEY QUE CREA AL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, CON UN ARTÍCULO DÉCIMO NOVENO TRANSITORIO; Y SE REFORMA LA LEY DE ADMINISTRACIÓN FINANCIERA PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el 1° de enero del año 2019.
+
+Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para emitir las Reglas Generales a que se refieren los artículos 74, primer párrafo y 139, cuarto párrafo, del Código Fiscal del Estado.
+
+Cuarto.- Se prorroga por un año adicional el plazo para emitir las Reglas Generales a que se refiere el artículo Tercero Transitorio del Decreto Número 330, publicado en el Periódico Oficial del Estado el 29 de diciembre de 2017.
