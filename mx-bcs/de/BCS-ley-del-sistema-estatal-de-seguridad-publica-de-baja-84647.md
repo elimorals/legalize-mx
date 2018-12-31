@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-estatal-de-seguridad-publica-de-baja-84647"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2017-12-16"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ABRIL DE 2019 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
@@ -125,7 +127,9 @@ XIV. Instituto: Al Instituto Interdisciplinario de Ciencias Penales de la Procur
 
 XV. Instituciones Policiales: Los Cuerpos de Seguridad Pública Estatal y los Cuerpos Preventivos de Seguridad Pública Municipal;
 
-XVI. Instituciones de Procuración de Justicia: Ministerios Públicos, Peritos y Policías Ministeriales;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVI. Instituciones de Procuración de Justicia: Ministerios Públicos, Peritos y Agentes Estatales de Investigación Criminal;
 
 XVII. Instituciones de Seguridad Pública: Las Dependencias encargadas de la Seguridad Pública del orden Federal, Estatal y Municipal que realicen dichas funciones;
 
@@ -145,7 +149,9 @@ XXIII. Programa Municipal: Los Programas Municipales de Seguridad Pública;
 
 XXIV. Policía Estatal: La Policía Estatal Preventiva y Policía Procesal:
 
-XXV. Policía Ministerial: Policía Ministerial Investigadora de la Procuraduría General de Justicia;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XXV. Agencia Estatal de Investigación Criminal: Policía de Investigación Criminal de la Procuraduría General de Justicia;
 
 XXVI. Policía Municipal.- Policia Preventiva Municipal;
 
@@ -759,7 +765,9 @@ Los Cuerpos Preventivos de Seguridad Pública Municipal que realicen funciones e
 
 Las Instituciones de Procuración de Justicia serán las encargadas de la investigación científica de los delitos, y se ubicarán en la estructura orgánica de la Procuraduría General de Justicia del Estado.
 
-Las funciones de los Ministerios Públicos, los Policías Ministeriales y Peritos, se sujetarán a lo dispuesto en el presente Titulo, la Ley Orgánica del Ministerio Público, y el Reglamento Interno de la Procuraduría General de Justicia, quedando a cargo de la propia Procuraduría la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Las funciones de los Ministerios Públicos, los Agentes Estatales de Investigación Criminal y Peritos, se sujetarán a lo dispuesto en el presente Titulo, la Ley Orgánica de la Procuraduría General de Justicia del Estado, y el Reglamento Interno de la Procuraduría General de Justicia, quedando a cargo de la propia Procuraduría la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo.
 
 #### SECCIÓN SEGUNDA. DE LA POLICÍA ESTATAL PREVENTIVA
 
@@ -835,9 +843,11 @@ Las demás organizaciones que no se encuentren previstas en este ordenamiento qu
 
 Las Instituciones Policiales y de Procuración de Justicia serán de carácter civil, disciplinado y profesional; su actuación se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; deberán fomentar la participación ciudadana en la prevención del delito y rendir cuentas de su actuación, en los términos de la legislación estatal aplicable.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 43.
 
-Todo servidor público de las Instituciones Policiales y de Procuración de Justicia que no pertenezca a los Servicios de Carrera Policial, Ministerial, Pericial y Policía Ministerial se considerará trabajador de confianza y se sujetará a la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
+Todo servidor público de las Instituciones Policiales y de Procuración de Justicia que no pertenezca a los Servicios de Carrera Policial, Ministerial, Pericial y Agentes Estatales de Investigación Criminal se considerará trabajador de confianza y se sujetará a la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
 
 ###### Artículo 44.
 
@@ -1035,9 +1045,9 @@ VI. Abstenerse de iniciar investigación respecto de hechos que notoriamente no 
 
 VII. Adoptar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos; e implementar medidas de protección hacia sus propios funcionarios cuando el caso lo requiera;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-VIII. Dirigir a la Policía Ministerial y al resto de las instituciones policiales del Estado cuando éstos actúen como auxiliares en la investigación y persecución de los delitos, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos y conforme a los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez.
+VIII. Dirigir a los Agentes Estatales de Investigación Criminal y al resto de las instituciones policiales del Estado cuando éstos actúen como auxiliares en la investigación y persecución de los delitos, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos y conforme a los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez.
 
 > <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
@@ -1055,7 +1065,9 @@ XIV. Proporcionar la información que en materia de seguridad pública le sea re
 
 XV. Las demás que les otorguen las leyes y reglamentos correspondientes.
 
-B.- Policía Ministerial.-
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+B.- Agencia Estatal de Investigación Criminal.-
 
 I. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de indicios;
 
@@ -1135,9 +1147,9 @@ VIII. Auxiliar en los términos de ésta y otras leyes a los Poderes Legislativo
 
 IX. Las demás que le confieran ésta y otras leyes.
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Cuando por razones de lugar, hora y circunstancia, los policías preventivos estatales o municipales sean los primeros en conocer de un hecho delictuoso, deberán realizar bajo su responsabilidad las acciones previstas en el presente artículo, apartado B, en las fracciones II, III, IV, V, VI, X, XI, XII, XIII, XVI, XVII y XVIII, hasta que el Ministerio Público o los policías ministeriales intervengan. Cuando éstos últimos tomen conocimiento, les informarán de lo actuado y les entregarán los instrumentos, objetos y evidencias materiales que hayan asegurado y elaborarán un registro fidedigno de lo ocurrido.
+Cuando por razones de lugar, hora y circunstancias, los policías preventivos estatales o municipales sean los primeros en conocer de un hecho delictuoso, deberán realizar bajo su responsabilidad las acciones previstas en el presente artículo, apartado B, en las fracciones II, III, IV, V, VI, X, XI, XII, XIII, XVI, XVII y XVIII, hasta que el Ministerio Público o los Agentes Estatales de Investigación Criminal intervengan. Cuando estos últimos tomen conocimiento, les informarán de lo actuado y les entregarán los instrumentos, objetos y evidencias materiales que hayan asegurado y elaborarán un registro fidedigno de lo ocurrido.
 
 D.- Peritos.-
 
@@ -1181,7 +1193,9 @@ V. Ser asesorados y defendidos por las unidades de defensoría jurídica policia
 
 VI. Recibir los vehículos, armamento, uniforme, insignias, identificaciones, chalecos, equipo de radiocomunicación, táctico-policial y demás bienes institucionales que se les proporcionen, evitando su uso indebido;
 
-VII. Participar en la Carrera Policial, Ministerial, Pericial y de Policía Ministerial; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+VII. Participar en la Carrera Policial, Ministerial, Pericial y de Agentes Estatales de Investigación Criminal; y
 
 VIII. Los demás que les confieran las Leyes y reglamentos de la materia.
 
@@ -1275,13 +1289,17 @@ b) Subcomisario, y
 
 c) Jefe de Grupo.
 
-II. Inspectores:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II.- De los Agentes Estatales de Investigación Criminal
 
 a) Inspector General;
 
 b) Inspector Jefe, y
 
-c) Inspector.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+c) Agente Estatal de Investigación Criminal.
 
 III. Oficiales:
 
@@ -1377,7 +1395,9 @@ III. No haber sido condenado por sentencia ejecutoriada como responsable de deli
 
 IV. Tener acreditado, en su caso, el Servicio Militar Nacional;
 
-V. Haber concluido la enseñanza media superior o equivalente para Policía Ministerial Investigador;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+V. Haber concluido la enseñanza media superior o equivalente para Agente Estatal de Investigación Criminal;
 
 VI. Acreditar la enseñanza media superior para Policía Estatal Preventivo, para Policía Municipal y para Custodio Penitenciario;
 
@@ -1581,7 +1601,7 @@ La orden de arresto deberá hacerse constar por escrito, especificando el motivo
 
 ###### Artículo 79.
 
-El afectado podrá inconformarse ante el titular de la institución policial o de procuración de justicia de que se trate, contra la imposición de cualquiera de estos correctivos disciplinarios, dentro de los tres días hábiles siguientes al de su aplicación. Esta inconformidad. no suspenderá los efectos de la amonestación o arresto, pero en caso de declararse infundada la imposición del correctivo disciplinario, el titular de la institución correspondiente, ordenará eliminar el registro del expediente personal del elemento.
+El afectado podrá inconformarse ante el titular de la institución policial o de procuración de justicia de que se trate, contra la imposición de cualquiera de estos correctivos disciplinarios, dentro de los tres días hábiles siguientes al de su aplicación. Esta inconformidad, no suspenderá los efectos de la amonestación o arresto, pero en caso de declararse infundada la imposición del correctivo disciplinario, el titular de la institución correspondiente, ordenará eliminar el registro del expediente personal del elemento.
 
 > <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
@@ -2185,13 +2205,15 @@ Se expedirán las autoridades correspondientes, los reglamentos y disposiciones 
 
 El Gobernador del Estado, para llevar a cabo las adecuaciones o en su caso, expedir los reglamentos y disposiciones administrativas derivadas del contenido de la presente Ley cuenta con un plazo de ciento ochenta días, contados a partir del día siguiente a su entrada en vigor.
 
-ARTÍCULO QUlNTO.- El Gobernador del Estado deberá expedir en un plazo que no exceda de 60 días, el Reglamento del Consejo Estatal de Seguridad Pública de Baja California Sur, en el que se contemple la integración y funcionamiento del Comité Administrador del Fondo de Aportaciones par a (sic) la Seguridad Pública y del Consejo de Honor y Justicia.
+###### ARTÍCULO QUINTO.
+
+El Gobernador del Estado deberá expedir en un plazo que no exceda de 60 días, el Reglamento del Consejo Estatal de Seguridad Pública de Baja California Sur, en el que se contemple la integración y funcionamiento del Comité Administrador del Fondo de Aportaciones par a (sic) la Seguridad Pública y del Consejo de Honor y Justicia.
 
 Entre tanto se da cumplimiento a lo dispuesto en el presente artículo, seguirán vigentes los reglamentos de los órganos señalados en lo que no se opongan a la presente Ley.
 
 ###### ARTÍCULO SEXTO.
 
-Las obligaciones señaladas a. los Ministerios Públicos, señaladas en la presente Ley, serán vigentes hasta que se expidan y se aplique el Sistema de Justicia Penal Acusatorio, adversarial y oral.
+Las obligaciones señaladas a los Ministerios Públicos, señaladas en la presente Ley, serán vigentes hasta que se expidan y se aplique el Sistema de Justicia Penal Acusatorio, adversarial y oral.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -2296,3 +2318,15 @@ TERCERO.- Los recursos humanos, materiales y bienes patrimoniales, así como las
 Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
 
 CUARTO.- Cuando en otras leyes, reglamentos, convenios, contratos o cualquier otro instrumento equivalente, haya sido otorgada la denominación de Subsecretaría de Seguridad Pública, se entenderá referida a la Secretaría de Seguridad Pública, a partir de la entrada en vigor del presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2580 SE REFORMA Y ADICIONA LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto, entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
