@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2018-10-17"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -77,7 +77,7 @@ IV. Balance presupuestario: La diferencia entre los Ingresos totales incluidos e
 
 V. Balance presupuestario de recursos disponibles: La diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más Financiamientos, y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-VI. CGAP o Coordinación de Planeación: La Coordinación General de Gabinete y Planeación;
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 VII. CONAC: El Consejo Nacional de Armonización Contable;
 
@@ -251,7 +251,9 @@ II. El proyecto de Decreto deberá incluir:
 
 A) La descripción de los rubros de ingresos armonizados hasta su tercer nivel, conforme a lo aprobado por el CONAC;
 
-B) Las cuotas, tarifas y tasas por cada uno de los rubros de ingresos;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+B) Las cuotas, tarifas y tasas por cada uno de los rubros de ingresos. Lo dispuesto en este inciso no será aplicable para el caso de la Iniciativa de Ley de Ingresos del Gobierno del Estado;
 
 C) Los montos estimados por cada uno de los rubros de ingresos, para el ejercicio fiscal correspondiente, clasificados por su origen;
 
@@ -307,13 +309,15 @@ La Secretaría, realizará los estudios pertinentes con el propósito de formula
 
 APARTADO A: ÁMBITO ESTATAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 13.
 
-La programación y presupuestación del Gasto Público del Gobierno del Estado deberá de realizarse con base a los programas institucionales y especiales con transversalidad y perspectiva de género, aprobados por el Ejecutivo Estatal por conducto de la Coordinación de Planeación, tratándose de entidades y Organismos Autónomos, por su órgano de gobierno, el cual se sustentará en el Plan Integral de Desarrollo Estatal.
+La programación y presupuestación del Gasto Público del Gobierno del Estado, deberá de realizarse con base a los programas institucionales y especiales aprobados por el Ejecutivo Estatal por conducto de la Secretaría, tratándose de entidades y Organismos Autónomos, por su órgano de gobierno, el cual se sustentará en el Plan Integral de Desarrollo Estatal.
 
-Los programas que contengan nuevos proyectos, en un ejercicio fiscal se deberán someter a la aprobación del Ejecutivo del Estado, por conducto de la Coordinación de Planeación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los programas que contengan nuevos proyectos, en un ejercicio fiscal se deberán someter a la aprobación del Ejecutivo del Estado, por conducto de la Secretaría.
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -379,9 +383,11 @@ III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del Gasto no
 
 El Presupuesto de Egresos, será el que contenga el decreto que apruebe el Congreso, a iniciativa del Ejecutivo del Estado para cubrir durante el período de cada año calendario, el Gasto Público de los Poderes Ejecutivo, Legislativo y Judicial, de las Dependencias, Entidades y Organismos Autónomos cuyo monto total debe ser igual al establecido en la Ley de Ingresos del Estado de Michoacán de Ocampo aprobada por el Congreso para el ejercicio fiscal de que se trate; observándose para tal efecto, y en lo conducente, lo dispuesto por la Ley General de Contabilidad Gubernamental y las normas y lineamientos del CONAC, las complementarias en la materia que en coadyuvancia emita el Consejo así como lo dispuesto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 15.
 
-La Secretaría conjuntamente con la Coordinación de Planeación dictará las disposiciones a que se sujetarán las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración de los proyectos de presupuestos necesarios para el financiamiento de sus programas.
+La Secretaría conjuntamente dictará las disposiciones a que se sujetarán las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración de los proyectos de presupuestos necesarios para el financiamiento de sus programas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -405,11 +411,11 @@ IV. La geográfica, que agrupa a las previsiones de gasto con base en su destino
 
 V. La de género, la cual agrupa las previsiones de gasto con base en su destino por género, diferenciando entre mujeres y hombres.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 17.
 
-Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Secretaría y se enviarán a ésta para integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación al Congreso. Tratándose de los proyectos de los Organismos Autónomos creados por la Constitución, se incorporarán íntegramente, sin alteraciones o modificaciones.
+Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Secretaría y se enviarán a ésta para integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación al Congreso.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -487,73 +493,73 @@ Los recursos aportados deberán ser destinados, en primer término, para financi
 
 En caso de que el saldo de los recursos del fideicomiso a que se refiere el primer párrafo de este artículo, acumule un monto que sea superior al costo promedio de reconstrucción de la infraestructura estatal dañada de los últimos cinco años, medido a través de las autorizaciones de recursos aprobadas por el Fondo de Desastres Naturales, el Gobierno del Estado podrá utilizar el remanente que le corresponda para acciones de prevención y mitigación, los cuales podrán ser aplicados para financiar la contraparte del Estado de los proyectos preventivos, conforme a lo establecido en las reglas de operación del Fondo para la Prevención de Desastres Naturales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 20.
 
-La iniciativa de decreto que contenga el proyecto de Presupuesto de Egresos, que presente a la consideración del Congreso el Ejecutivo del Estado, contendrá lo siguiente
+La iniciativa de decreto que contenga el proyecto de Presupuesto de Egresos, que presente a la consideración del Congreso el Ejecutivo del Estado, contendrá lo siguiente:
 
 I. Exposición de motivos en la que se señalen los efectos políticos, económicos y sociales que se pretendan lograr;
 
-II. Descripción de los programas y subprogramas que integran el proyecto de presupuesto de egresos, señalando indicadores de gestión, objetivos, actividades, metas y techos financieros clasificados por el origen de los recursos y las unidades programáticas presupuestarias responsables de su ejecución;
+II. Presentar la asignación de los programas y subprogramas presupuestarios que integran el proyecto de presupuesto de egresos, señalando indicadores de gestión, objetivos, actividades, metas y techos financieros clasificados por el origen de los recursos y las unidades programáticas presupuestarias responsables de su ejecución;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+III. Las asignaciones presupuestales deberán realizarse a nivel de unidad programática, unidad responsable, programa, subprograma y partida presupuestal;
 
-III. Explicación y justificación de los principales programas, en especial de aquellos que abarquen dos o más ejercicios presupuestales; así como un apartado específico que incorpore las previsiones de gasto que correspondan a los compromisos plurianuales y aquellos derivados de proyectos de infraestructura productiva de largo plazo;
+IV. Estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada tres años;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+V. Situación de la deuda pública al final del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone; así como la proyección de estimación de recurso para el servicio de la deuda hasta por cinco años posteriores;
 
-IV. Monto estimado en la Ley de Ingresos y estimación de los egresos para el año que se presupuesta; así como los montos de egresos de los últimos cinco ejercicios fiscales;
+VI. Las plantillas de personal por jornada y nivel, sueldo y demás prestaciones económicas asignadas por plaza presupuestada, con inclusión de aquellas que envíen los Poderes Legislativo y Judicial, las Entidades y los Organismos Autónomos, de que se trate, así como los tabuladores de sueldos;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+VII. En el proyecto de Presupuesto de Egresos se deberá presentar en una sección específica, las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
 
-V. Las asignaciones presupuestales deberán presentarse a nivel de unidad programática, unidad responsable de la ejecución de los programas, por programas, subprogramas y partida presupuestal y las previsiones de gasto conforme a las clasificaciones a que se refiere el artículo 16 de esta Ley.
+A) Las remuneraciones de los servidores públicos, desglosando las percepciones ordinarias y extraordinarias, e incluyendo las erogaciones por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones; y,
 
-Adicionalmente a lo anterior, se deberá presentar el anexo a nivel de desagregación del total de Presupuesto de Egresos que corresponda a la Inversión en Obra Pública;
+B) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
 
-VI. Situación de la deuda pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone; así como la proyección de estimación de recurso para el servicio de la Deuda hasta por cinco años posteriores;
+VIII. Los proyectos de presupuesto presentados por los Poderes Legislativo y Judicial, Organismos Autónomos y Entidades;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+IX. Presentar de manera consolidada el presupuesto por programas señalando indicadores de gestión, objetivos, actividades, metas y techos financieros;
 
-VII. Además de las plantillas de personal por jornada y nivel, con inclusión de aquellas que ocupen los titulares de los Poderes Legislativo, Ejecutivo y Judicial, una sección específica con las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
+X. Presentar de manera consolidada el presupuesto a nivel de:
 
-A) Las remuneraciones de los servidores públicos, desglosando las Percepciones ordinarias y extraordinarias, e incluyendo las erogaciones por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones, y,
+A) Conforme a los formatos o disposiciones emitidas por el Consejo Nacional de Armonización Contable:
 
-B) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos:
+1. Clasificación Administrativa.
 
-VIII. Las medidas de racionalidad y disciplina presupuestaria aplicables durante el ejercicio;
+2. Clasificación Funcional.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+3. Clasificación Programática.
 
-IX. Los proyectos de presupuesto elaborados por los Poderes Legislativo, Judicial y Organismos Autónomos;
+4. Calendario por Objeto de Gasto.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+5. Capítulo de Gasto.
 
-X. Incluir un apartado específico que incorpore las erogaciones plurianuales para proyectos de inversión en infraestructura establecidos en Asociaciones Público Privadas aprobadas en términos de la ley en la materia, señalando los indicadores de gestión, estrategias, objetivos, actividades, metas, logradas a la fecha y su justificación;
+6. Clasificación por Tipo de Gasto.
 
-XI. Presentar de manera consolidada el presupuesto por programas sectoriales y regionales señalando indicadores de gestión, objetivos, actividades, metas y techos financieros y las unidades programáticas presupuestarias responsables de su ejecución;
+B) Conforme a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios:
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+1. Estado Analítico a nivel de Unidad Programática Presupuestaria.
 
-XII. Presentar de manera consolidada el presupuesto conforme a las clasificaciones a que se refiere el artículo 16 de esta Ley;
+2. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado, conforme la Ley de Disciplina Financiera Clasificación Funcional (Finalidad y Función).
 
-XIII. Presentar de manera consolidada el presupuesto por programas institucionales y especiales con su clasificación económica y las unidades programáticas presupuestarias responsables de su ejecución;
+3. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado, Clasificación Funcional (Finalidad y Función).
 
-XIV. Presentar el calendario comparativo mensual de ingresos y gastos estimados para el ejercicio fiscal, por fuente de financiamiento, como lo establece el Acuerdo emitido por la CONAC, para tal efecto;
+4. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado, Clasificación por Objeto del Gasto.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+5. Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado, Clasificación por Gasto Programático.
 
-XV. Las previsiones del gasto destinado a programas vinculados con políticas de procuración de la equidad de género, del desarrollo de los Jóvenes, Grupos vulnerables, Ciencia y Tecnología, a la Atención de Niños, Niñas y Adolescentes, al Concurrente para el Desarrollo Rural Sustentable y a la Mitigación de los efectos del Cambio Climático;
+6. Resultado de los Ingresos y Egresos.
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+7. Proyecciones de los Ingresos y Egresos.
 
-XVI. Presentar la metodología empleada para determinar la estacionalidad y el volumen de la recaudación por tipo de ingreso, así como la utilizada para calendarizar el gasto según su clasificación económica;
+8. Presentar el calendario comparativo mensual de ingresos y gastos estimados para el ejercicio fiscal, por fuente de financiamiento.
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+9. Presentar un apartado de inversión pública, en especial de aquellas que abarquen dos o más de un ejercicio fiscal.
 
-XVII. La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo así como la que solicite el Congreso del Estado a través de la Comisión de Programación, Presupuesto y Cuenta Pública; y,
+10. La Proyección del gasto destinado a programas vinculados con políticas de procuración de la equidad de género, del desarrollo de la juventud, grupos vulnerables, ciencia y tecnología.
 
-XVIII. Toda información que se considere útil para presentar la propuesta en forma clara y completa.
+11. Toda información que se considere útil para presentar la propuesta en forma clara y completa.
 
 ###### ARTÍCULO 21.
 
@@ -773,11 +779,17 @@ Los Ingresos excedentes derivados de Ingresos de Libre Disposición podrán dest
 
 En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos, el Ejecutivo del Estado, por conducto de la Secretaría, a efecto de cumplir con el principio de sostenibilidad del Balance presupuestario y del Balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
 
-I. Gastos de comunicación social;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-II. Gasto corriente que no constituya un subsidio entregado directamente a la población, en términos de los (sic) dispuesto por el artículo 41 Bis, fracción VII de la presente Ley; y,
+1. Gastos de comunicación social.
 
-III. Gasto en servicios personales, prioritariamente las erogaciones por concepto de Percepciones extraordinarias.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+2. Gasto corriente que no constituya un subsidio entregado directamente a la población, en términos de lo dispuesto por el artículo 41 Bis, fracción VII de la presente Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+3. Gasto en servicios personales, prioritariamente las erogaciones por concepto de percepciones extraordinarias.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -795,11 +807,11 @@ Toda propuesta de aumento o creación de gasto en el Presupuesto de Egresos, deb
 
 No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a Ingresos excedentes. El Ejecutivo del Estado, a través de la Secretaría, deberá revelar en la Cuenta Pública y en los informes trimestrales que entregue al Congreso, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 39.
 
-Durante el ejercicio del Gasto Público, la Secretaría realizará las acciones necesarias para su control e igualmente lo hará para su evaluación. Para el ejercicio de esta última función, contará con el apoyo de la CGAP y de la Secretaría de Contraloría, de acuerdo con lo que señalan la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo.
+Durante el ejercicio del Gasto Público, la Secretaría realizará las acciones necesarias para su control e igualmente lo hará para su evaluación. Para el ejercicio de esta última función, contará con el apoyo de la Secretaría de Contraloría, de acuerdo con lo que señalan la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 40.
 
@@ -899,15 +911,19 @@ III. Las erogaciones por concepto de servicios personales, contarán con la nóm
 
 IV. Cuando se trate de Inversión Pública deberá contener los avances físicos de obra y el cumplimiento de objetivos y metas de los programas y subprogramas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 44.
 
-La ministración de los fondos con cargo al presupuesto aprobado para los Poderes Legislativo y Judicial, Organismos Autónomos, Dependencias, Entidades y los Organismos Descentralizados, así como a los Municipios, podrán realizarse sin que para ello se requiera presenten a la Secretaría la documentación comprobatoria a que se refiere el artículo anterior, sin embargo, ello no los libera de las obligaciones que derivan de esa disposición y del artículo siguiente de esta Ley.
+La ministración de los fondos con cargo al presupuesto aprobado para los Poderes Legislativo y Judicial, Organismos Autónomos, Entidades y los Municipios, podrán realizarse sin que para ello se requiera presenten a la Secretaría la documentación comprobatoria a que se refiere el artículo anterior, sin embargo, ello no los libera de las obligaciones que derivan de esa disposición y del artículo siguiente de esta Ley, además estarán a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2016)</small>
+I. Los Poderes Legislativo y Judicial, Organismos Autónomos, Entidades y Municipios, solicitarán la radicación de los recursos a la Secretaría previo envió del documento de afectación presupuestaria, acompañado del recibo de solicitud de recursos;
 
-En el caso de las Dependencias, lo dispuesto en este artículo será aplicable únicamente cuando se trate de la fracción IV del artículo anterior.
+II. Los Ejecutores del Gasto en cumplimiento a lo establecido por los artículos 46 y 47 de la Ley General de Contabilidad Gubernamental, vigilarán que sus sistemas de contabilidad les permitan generar información, contable, presupuestal y programática en los términos de la Ley; registrar y resguardar los documentos justificativos y comprobatorios; y,
+
+III. Para la radicación de recursos a los Municipios del Estado, la Secretaría revisará y validará los convenios específicos suscritos por cada municipio, derivados de fondos o programas federales, con la finalidad que los mismos estén apegados al convenio marco que lo rija.
+
+Los ejecutores del gasto, dentro de los tres días hábiles posteriores a la recepción de los recursos en las cuentas bancarias específicas, enviarán a la Secretaría los recibos originales oficiales por los recursos depositados, con excepción de los Municipios los cuales contarán con 10 días hábiles para dar cumplimiento al presente artículo.
 
 ###### ARTÍCULO 45.
 
@@ -1415,9 +1431,11 @@ Los Entes Públicos deberán observar las recomendaciones que emitan el CONAC y 
 
 ### CAPITULO ÚNICO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTÍCULO 103.
 
-Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en el Título Cuarto de la Constitución Política del Estado de Michoacán de Ocampo, la Ley General de Contabilidad Gubernamental, la Ley de Fiscalización Superior para el Estado de Michoacán y la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán y el Código Penal del Estado de Michoacán.
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en el Título Cuarto de la Constitución Política del Estado de Michoacán de Ocampo, la Ley General de Contabilidad Gubernamental, la Ley de Fiscalización Superior para el Estado de Michoacán, la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo y el Código Penal del Estado de Michoacán.
 
 ###### ARTÍCULO 104.
 
@@ -1582,3 +1600,9 @@ P.O. 17 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 637 POR EL QUE “SE REFORMA EL ARTÍCULO 1º, LAS FRACCIONES XLIV Y XLV DEL ARTÍCULO 2º, LOS ARTÍCULOS 11, 13, 16, 23, 28, LA FRACCIÓN XII DEL ARTÍCULO 30; Y SE ADICIONA LA FRACCIÓN XLVI AL ARTÍCULO 2° DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 119, POR EL QUE “SE REFORMAN LOS ARTÍCULOS 8 FRACCIÓN II INCISO B), 13 PÁRRAFOS PRIMERO Y SEGUNDO; 15; 17 PÁRRAFO PRIMERO, 20, 37 PÁRRAFO CUARTO FRACCIONES I, II Y III; 39, 44 PÁRRAFOS PRIMERO Y SEGUNDO Y 103; Y, SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 2º, TODOS DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ARTÍCULO PRIMERO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
