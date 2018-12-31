@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-hacer-de-la-ciudad-de-mexico-una-ciudad-abierta-110087
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-07"
-last_updated: "2015-10-07"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2015-08-14"
 ---
 # LEY PARA HACER DE LA CIUDAD DE MEXICO UNA CIUDAD ABIERTA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 31 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA HACER DE LA CIUDAD DE MÉXICO UNA CIUDAD MÁS ABIERTA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 7 de octubre de 2015.
 
@@ -48,7 +50,7 @@ DECRETO POR EL QUE SE EXPIDE LA LEY PARA HACER DE LA CIUDAD DE MÉXICO UNA CIUDA
 
 Se expide la Ley para hacer de la Ciudad de México una Ciudad más Abierta, para quedar como sigue:
 
-LEY PARA HACER DE LA CIUDAD DE MÉXICO UNA CIUDAD (SIC) ABIERTA
+LEY PARA HACER DE LA CIUDAD DE MÉXICO UNA CIUDAD ABIERTA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -452,10 +454,30 @@ a. Para el primer año de su ejercicio, contado a partir de la emisión de las r
 
 b. Para los ejercicios subsecuentes, este número de Delegaciones, Dependencias, Entidades y Órganos Desconcentrados deberá aumentar en función de los avances registrados en el Modelo de Madurez y el análisis que el Consejo haga de los mismos. El Consejo deberá observar que este escalonamiento anual se haga progresivamente hasta que la totalidad de las Delegaciones, Dependencias, Entidades y Órganos Desconcentrados se encuentre en capacidades materiales y administrativas para cumplir con los objetivos de la presente Ley.
 
-SÉPTIMO.- El Jefe de Gobierno emitirá el Reglamento de la Ley para hacer de la Ciudad de México una (sic) Ciudad Abierta, o las disposiciones jurídicas que estime pertinentes.
+SÉPTIMO.- El Jefe de Gobierno emitirá el Reglamento de la Ley para hacer de la Ciudad de México una Ciudad Abierta, o las disposiciones jurídicas que estime pertinentes.
 
 OCTAVO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a las Delegaciones, Dependencias, Entidades y Órganos Desconcentrados, así como demás sujetos obligados, en el Decreto de Presupuesto de Egresos del Distrito Federal para el presente ejercicio fiscal, por lo que no se requerirán de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiocho días del mes de abril del año dos mil quince.- POR LA MESA DIRECTIVA.- DIP. MANUEL ALEJANDRO ROBLES GÓMEZ, PRESIDENTE.- DIP. ORLANDO ANAYA GONZÁLEZ, SECRETARIO.- DIP. ALEJANDRO RAFAEL PIÑA MEDINA, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de agosto del año dos mil quince.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTÉS, FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜÍ RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE TURISMO, MIGUEL TORRUCO MÁRQUES.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, MARÍA ALEJANDRA BARRALES MAGDALENO.- FIRMA.- EL SECRETARIO DE FINANZAS, ÉDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 4, 6, 8, 9, 11, 12, 13, 15, 16, 17, 18, 25, 29, 33 Y 37 Y SE DEROGAN LOS ARTÍCULOS 22, 30, 31 Y 32, TODOS DE LA LEY DE GOBIERNO ELECTRÓNICO DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 2, 6, 9 Y 22 DE LA LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL".]
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2019.
+
+SEGUNDO. Se abroga la Ley para hacer de la Ciudad de México una Ciudad abierta.
+
+TERCERO. Las referencias hechas a la Unidad de Mejora Regulatoria en la Ley de Mejora Regulatoria de la Ciudad de México, se entenderán hechas a la Agencia, sin detrimento de la capacidad jurídica y autonomía técnica, de gestión y operación señaladas en el artículo 39 del presente ordenamiento.
+
+Todas las disposiciones aplicables a las atribuciones normativas en materia de Firma Electrónica enlistadas en la Ley de Firma Electrónica de la Ciudad de México, se entenderán hechas a la Agencia.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+QUINTO. La persona titular de la Jefatura de Gobierno emitirá el Reglamento de la presente Ley; en ejercicio de las atribuciones que le otorga el artículo 32; Apartado C, Numeral 1; inciso a) de la Constitución Política de la Ciudad de México en un plazo máximo de 180 días.
+
+SEXTO. La Agencia tendrá un plazo de 180 días para la expedición de la política de gestión de datos, la política de gobierno abierto, la política digital, la política de gobernanza tecnológica y la política de gobernanza de la conectividad y la gestión de la infraestructura.
