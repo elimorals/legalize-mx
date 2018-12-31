@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-victimas-para-el-estado-de-chiapas-108789"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-20"
-last_updated: "2015-05-20"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 20 de mayo de 2015.
 
@@ -319,9 +319,11 @@ VI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 ### Capítulo II. De la Comisión Ejecutiva Estatal de Atención a Víctimas
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 19.
 
-Se crea la Comisión Ejecutiva Estatal, en términos de lo establecido en el artículo 79 párrafos cuarto y quinto de la Ley General de Víctimas, como un Organismo Auxiliar del Poder Ejecutivo del Estado de Chiapas, con personalidad jurídica y patrimonio propio, con funciones y con el objeto de coordinar los instrumentos, políticas, servicios y acciones para garantizar los derechos en materia de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos, con autonomía técnica, ejecutiva, administrativa, presupuestal y de gestión, para la consecución de su objeto, la realización de sus funciones y la emisión de los actos de autoridad que conforme a su normatividad le correspondan.
+La Comisión Ejecutiva Estatal de Atención a Víctimas, es un organismo descentralizado de la Administración Pública estatal, sectorizado a la Secretaría General de Gobierno, con personalidad jurídica y patrimonio propios, autonomía administrativa, presupuestal, técnica, de gestión, de operación y ejecución, para el adecuado desempeño y desarrollo de sus funciones, mismo que atenderá los asuntos que esta Ley, su decreto de creación, el reglamento interior de dicho organismo y demás normativa aplicable le señalen.
 
 ###### Artículo 20.
 
@@ -351,7 +353,9 @@ VI. Tres comisionados a los que se hace alusión en el siguiente artículo.
 
 En el reglamento interior de la Comisión Ejecutiva Estatal, se establecerán las disposiciones para el funcionamiento del Comité de Asesoría, Apoyo y Seguimiento.
 
-El Gobernador del Estado designará al titular de la Comisión Ejecutiva Estatal, en los términos dispuestos en la legislación aplicable, con apego a las disposiciones contenidas en la Ley Orgánica de la Administración Pública del Estado de Chiapas, y respecto de los requisitos a cumplir y atribuciones de los titulares de los Organismos Auxiliares.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El Gobernador del Estado, designará al Titular de la Comisión Ejecutiva Estatal, en los términos dispuesto (sic) en la legislación aplicable, con apego a las disposiciones contenidas en la Constitución Política del Estado Libre y Soberano de Chiapas y la Ley Orgánica de la Administración Pública del Estado de Chiapas.
 
 ###### Artículo 23.
 
@@ -393,51 +397,11 @@ IV. No haber desempeñado cargo de dirección nacional o estatal en algún parti
 
 V. No haber ocupado cargo público dentro de los dos años previos a su designación, con excepción de aquellas personas cuyas funciones en el servicio público estuvieran directamente relacionadas con la atención a víctimas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 27.
 
-Para su adecuado funcionamiento, la Comisión Ejecutiva Estatal tendrá, en el ámbito de su competencia, las facultades siguientes:
-
-I. Ejecutar y dar seguimiento a los acuerdos y resoluciones adoptados por el Sistema Nacional de Víctimas y el Sistema Estatal de Atención a Víctimas.
-
-II. Proponer políticas públicas en el Estado de prevención de delitos y violaciones a Derechos Humanos, así como de atención, asistencia, protección, acceso a la justicia, a la verdad y reparación integral a víctimas u ofendidos de acuerdo con los principios establecidos en esta Ley.
-
-III. Elaborar anualmente el Plan de Atención y Reparación Integral a Víctimas con el objeto de crear, reorientar, dirigir, planear, coordinar, ejecutar y supervisar las políticas públicas en materia de atención a víctimas y proponerlo para su aprobación al Sistema Nacional.
-
-IV. Coordinar a las instituciones competentes para la atención de víctimas en la entidad federativa y los municipios, en conjunto con el Sistema Estatal de Atención a Víctimas, de acuerdo con los principios establecidos en la Ley General de Víctimas, así como los de coordinación, concurrencia y subsidiariedad.
-
-V. Rendir un informe anual ante los Sistemas Nacional y Estatal de Atención a Víctimas, sobre los avances en el ámbito local del Plan Anual Integral de Atención a Víctimas previsto en la Ley General de Víctimas.
-
-VI. Administrar y vigilar el adecuado ejercicio del Fondo y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas.
-
-VII. Solicitar al órgano competente se apliquen las medidas disciplinarias y sanciones correspondientes, a los funcionarios que incumplan con lo dispuesto en la presente Ley.
-
-VIII. Nombrar, de entre las propuestas que le presente quien sea titular de la Coordinación Ejecutiva, a los titulares del Fondo, Asesoría Jurídica y del Registro estatales, y demás responsables de las dependencias que establezca la estructura orgánica.
-
-IX. Proponer al Titular del Poder Ejecutivo el proyecto de Reglamento de la presente Ley, demás normatividad que resulte necesaria, así como las reformas y adiciones correspondientes.
-
-X. Promover la coordinación interinstitucional de las dependencias, instituciones y órganos estatales, municipales, así como generar vínculos con las federales por medio de la Comisión Ejecutiva Federal.
-
-XI. Diseñar e implementar una plataforma informática que permita integrar, desarrollar y consolidar la información sobre las víctimas a nivel estatal a fin de orientar políticas, programas, planes y demás acciones a favor de las víctimas para la prevención del delito y de violaciones a los derechos humanos, ayuda, atención, asistencia, protección, acceso a la verdad, justicia y reparación integral con el fin de llevar a cabo el monitoreo, seguimiento y evaluación del cumplimiento de las políticas, acciones y responsabilidades establecidas en esta Ley.
-
-XII. Elaborar los manuales, lineamientos, programas y demás acciones, acorde a lo establecido por la normatividad de la materia en sus protocolos.
-
-XIII. Analizar y generar, en casos de graves violaciones a derechos humanos o delitos graves cometidos contra un grupo de víctimas, programas integrales emergentes de ayuda, atención, asistencia, protección, acceso o justicia, a la verdad y reparación integral.
-
-XIV. Realizar un diagnóstico estatal que permita evaluar las problemáticas concretas que enfrentan las víctimas en términos de prevención del delito o de violaciones a los derechos humanos, atención, asistencia, acceso a la justicia, derecho a la verdad y reparación integral del daño.
-
-XV. Generar diagnósticos específicos sobre las necesidades estatales y municipales en materia de capacitación, capital humano, y materiales que se requieran para garantizar un estándar mínimo de atención digna a las víctimas cuando requieran acciones de ayuda, apoyo, asistencia o acceso a la justicia, a la verdad y la reparación integral, de tal manera que sea disponible y efectiva. Estos diagnósticos servirán de base para la canalización o distribución de recursos y servicios de atención a víctimas.
-
-XVI. Promover, proteger, respetar y garantizar la labor de las organizaciones de la sociedad civil y personas defensoras de derechos humanos que atienden a víctimas y colectivos de víctimas en la entidad federativa, priorizando aquellas que se encuentren en lugares donde las condiciones de acceso a la ayuda, asistencia, atención y reparación integral es difícil debido a las condiciones precarias de desarrollo y marginación.
-
-XVII. Implementar los mecanismos de control, con la participación de la sociedad civil, que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas.
-
-XVIII. Recibir y evaluar los informes rendidos por los titulares del Fondo, del Registro y de la Asesoría Jurídica, y emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia.
-
-XIX. Constituir y coordinar los Comités Especiales de atención a víctimas de delitos o violaciones de Derechos Humanos previstos en esta Ley.
-
-XX. Aprobar el Estatuto Orgánico de la Comisión Ejecutiva Estatal.
-
-XXI. Las demás que se deriven de esta Ley, y demás normatividad aplicable.
+Para su adecuado funcionamiento, la Comisión Ejecutiva Estatal contará con los órganos administrativos y de apoyo que esta Ley, su Decreto de Creación y su Reglamento Interior determinen, los cuales tendrán las atribuciones que señalen dicha normativa.
 
 ###### Artículo 28.
 
@@ -998,3 +962,29 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 19 días del mes de mayo del año dos mil quince.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 031 DECRETO POR EL QUE REFORMAN Y ABROGAN DIVERSAS LEYES Y DECRETOS POR LOS QUE SE CREAN DIVERSOS ORGANISMOS PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan o contravengan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, además de los compromisos y procedimientos que a la entrada en vigor del presente Decreto hubiese contraído, tenga asignados o le correspondan al Instituto de Desarrollo de Energías del Estado de Chiapas, así como las atribuciones y referencias que otras leyes le asignen, serán transferidos, se entenderán conferidos y serán atendidos por la Secretaría de Medio Ambiente e Historia Natural, a través del área u órgano de su estructura orgánica que establezca su Reglamento Interior.
+
+Artículo Cuarto.- Los recursos humanos, materiales y financieros, además de los compromisos y procedimientos que a la entrada en vigor del presente Decreto hubiese contraído, tenga asignados o le correspondan a la Coordinación Ejecutiva del Fondo de Fomento Agropecuario del Estado de Chiapas, así como las atribuciones y referencias que otras leyes le asignen a dicha Coordinación, serán transferidos, se entenderán conferidos y serán atendidos por la Secretaría de Agricultura, Ganadería y Pesca, a través de la Dirección del Fondo de Fomento Agropecuario del Estado de Chiapas, que será parte de la estructura orgánica de dicha dependencia.
+
+Artículo Quinto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+Artículo Sexto.- Los órganos de gobierno, que por este decreto modifican su integración, deberán instalarse y sesionar en un plazo no mayor a treinta días hábiles, contados a partir de la publicación del presente Decreto.
+
+Artículo Séptimo.- Los Titulares de los Organismos Públicos Descentralizados, que por este decreto se reforman, deberán someter a consideración de su órgano de gobierno, en un plazo no mayor a noventa días hábiles, contados a partir de la publicación del presente Decreto, las adecuaciones normativas que se requieran para el cumplimiento de esta normativa.
+
+Artículo Octavo.- Se abroga el Decreto por el que se autoriza al Ejecutivo del Estado a establecer el Programa Especial de Apoyo para la Regularización de la Tenencia de la Tierra y el Establecimiento de un Esquema de Subsidios de Derechos Estatales, publicado en el Periódico Oficial número 245, Tomo III, Segunda Sección, de fecha seis de julio de dos mil dieciséis, en términos del Artículo Tercero Transitorio de la Ley Orgánica de la Administración Pública del Estado de Chiapas, que establece la transferencia de los servicios de gobierno a la Secretaría General de Gobierno, quien será la encargada de normar dichos procesos.
+
+Los procedimientos que se encuentran en trámite derivados del Decreto que se abroga, deberán ser atendidos sin excepción (sic) la normativa aplicable, ni exención ni otorgamiento de subsidios sobre el pago de derechos y demás contribuciones estatales que hubiese autorizado el extinto Instituto de la Consejería Jurídica y de Asistencia Legal, a partir de la entrada en vigor del presente Decreto.
+
+Se derogan las disposiciones que se opongan al presente Decreto, así como aquellas emitidas con base en el decreto que se abroga en el presente transitorio.
