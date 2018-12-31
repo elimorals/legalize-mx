@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidades-administrativas-de-la-ciudad-de-123190
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2017-09-01"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123190&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-31"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -605,6 +605,16 @@ Será responsable de encubrimiento la persona servidora pública que cuando en e
 ###### Artículo 63.
 
 Cometerá desacato la persona servidora pública que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2018)</small>
+
+###### Artículo 63
+
+Bis. Incurre en remuneración ilícita la persona servidora pública que:
+
+I. Apruebe o refrende el pago, o que suscriba el comprobante, cheque, nómina u orden de pago, de una remuneración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la presente Ley; y
+
+II. Reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, excepto quien forme parte del personal de base y supernumerario de las entidades públicas que no tenga puesto de mando medio o superior.
 
 ###### Artículo 64.
 
@@ -1867,3 +1877,25 @@ NOVENO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de Méxic
 Recinto de la Asamblea Legislativa del Distrito Federal, a los diecisiete días del mes de julio del año dos mil diecisiete.- POR LA MESA DIRECTIVA, DIP. MAURICIO ALONSO TOLEDO GUTIÉRREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. LUCIANO JIMENO HUANOSTA, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los treinta y un días del mes de agosto del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTES.- FIRMA.- EL SECRETARIO DE TURISMO, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO, SE ADICIONA UN ARTÍCULO 63-BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN CAPÍTULO XIV AL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, UN ARTÍCULO 276-BIS Y UN ARTÍCULO 276-TER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Las Dependencias, Alcaldías, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno de la Ciudad de México, deberán emitir, de acuerdo a su competencia, las disposiciones administrativas necesarias a efecto de cumplir la presente Ley en un plazo de sesenta días naturales posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las remuneraciones de las y los Magistrados del Tribunal de Justicia Administrativa, Magistrados y Jueces del Tribunal Superior de Justicia, Integrantes del Consejo de la Judicatura, Titulares de Organismos Autónomos y Organismos Descentralizados, cuyo desempeño del cargo esté sujeto a un plazo determinado previsto expresamente en la normatividad aplicable, y que a la fecha de la entrada en vigor de este Decreto ya se encuentren en funciones, no podrán ser disminuidas, pudiendo concluir su encargo con las remuneraciones que actualmente perciben, surtiendo efectos la presente Ley hasta que una diversa persona sea nombrada en el cargo de que se trate.
+
+CUARTO. Aquellos servidores públicos que, a la entrada en vigor de la presente Ley, perciban remuneración salarial igual o mayor a la o el Titular de la Jefatura de Gobierno de la Ciudad de México, seguirán percibiendo la misma remuneración hasta que termine su mandato o encargo.
+
+QUINTO. Los procedimientos de responsabilidad administrativa que al momento de entrar en vigor la presente Ley se encuentren en procedimiento, se substanciaran con las leyes y normas vigentes al momento del inicio de los mismos.
+
+SEXTO. Se abroga la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México a partir de la entrada en vigor de esta Ley. Las referencias a la primer Ley en los ordenamientos legales vigentes, se deberán entender realizadas a la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
+
+SÉPTIMO. El Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, se continuará aplicando en lo que no se contraponga con la presente Ley, hasta en tanto el titular de la Jefatura de Gobierno, emita el Reglamento de esta Ley, en un plazo no mayor a 90 días naturales.
+
+OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
