@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2018-01-10"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -757,25 +757,41 @@ b) La legislación relativa a la construcción y funcionamiento de las vías de 
 
 c) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-(REFORMADA, P.O. 9 DE ABRIL DE 1999) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XI.- Comisión de Fomento Económico:
+XI. Comisión de Economía, Emprendimiento y Turismo
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
 a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado, así como el desarrollo regional del mismo;
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
 b) La legislación encaminada a fortalecer la actividad turística del Estado;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
 c) Lo concerniente a los asuntos fronterizos del Estado que estimulen su desarrollo económico;
 
 d) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2006)
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
 e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamientos del Estado y sus respectivos trabajadores;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
 f) La legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios;
 
-g) Las iniciativas en materia del desarrollo del servicio público de carrera; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+g) Las iniciativas en materia del desarrollo del servicio público de carrera;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+h) Las iniciativas relacionadas con la promoción, estímulos y capacitación a los emprendedores del estado y a las empresas emergentes.
+
+i) Los demás asuntos e iniciativas que le Pleno del Congreso le encomiende.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2682,3 +2698,9 @@ P.O. 10 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 316. SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 46; EL ARTÍCULO 124 Y EL INCISO A) DEL ARTÍCULO 141 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+[´N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 048. SE REFORMA POR MODIFICACIÓN A LA FRACCIÓN XI DEL ARTÍCULO 70 A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
