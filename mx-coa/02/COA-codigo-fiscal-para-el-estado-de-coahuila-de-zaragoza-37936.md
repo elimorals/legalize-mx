@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2017-12-19"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -73,7 +73,9 @@ Las contribuciones se clasifican en impuestos, derechos y contribuciones especia
 
 I. Impuestos son las prestaciones establecidas en Ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo.
 
-II. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público. También son derechos las contribuciones a cargo de los órganos desconcentrados por prestar servicios exclusivos del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+II. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en la Ley de Hacienda para el Estado de Coahuila de Zaragoza. También son derechos las contribuciones a cargo de los organismos públicos descentralizados, por prestar servicios exclusivos del Estado.
 
 Los recargos, las sanciones, los gastos de ejecución y de la indemnización a que se refiere el antepenúltimo párrafo del artículo 22 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1º.
 
@@ -817,7 +819,7 @@ Si se trata de resoluciones administrativas que determinen la responsabilidad so
 
 ###### ARTICULO 40.
 
-Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, estas podrán aplicar como medidas de apremio, indistinta o conjuntamente, las siguientes:
+Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, éstas podrán aplicar como medidas de apremio, indistinta o conjuntamente, las siguientes:
 
 I. Solicitar el auxilio de la fuerza pública.
 
@@ -1365,7 +1367,7 @@ El procedimiento de acuerdo conclusivo suspende los plazos a que se refiere el a
 
 ###### ARTICULO 62-E.
 
-El contribuyente que haya suscrito un acuerdo conclusivo tendrá derecho, por única ocasión, a la condonación del 100'% de las multas. Las autoridades fiscales deberán tomar en cuenta los alcances del acuerdo conclusivo para, en su caso, emitir la resolución que corresponda. La condonación prevista en este artículo no dará derecho a devolución o compensación alguna.
+El contribuyente que haya suscrito un acuerdo conclusivo tendrá derecho, por única ocasión, a la condonación del 100% de las multas. Las autoridades fiscales deberán tomar en cuenta los alcances del acuerdo conclusivo para, en su caso, emitir la resolución que corresponda. La condonación prevista en este artículo no dará derecho a devolución o compensación alguna.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1519,15 +1521,23 @@ II. No presentar los avisos al registro o hacerlo extemporáneamente.
 
 III. Iniciar actividades sin haber solicitado y obtenido la autorización correspondiente cuando las Leyes Fiscales así lo estipulen.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+IV. No solicitar la autorización a la Secretaría de Finanzas, para que persona distinta al titular de la licencia para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, preste los servicios que autoriza la licencia de referencia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 73.
 
 A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes a que se refiere el artículo anterior se impondrán las siguientes multas:
 
-I. De 10 a 20 días de salario mínimo vigente en la Entidad a la comprendida en la fracción I.
+I. De 10 a 20 veces el valor de la unidad de medida o actualización a la comprendida en la fracción I.
 
-II. De 5 a 10 días de salario mínimo vigente en la Entidad a la comprendida en la fracción II.
+II. De 5 a 10 veces el valor de la unidad de medida o actualización a la comprendida en la fracción II.
 
-III. De 20 a 30 días de salario mínimo vigente en la Entidad a la comprendida en la fracción III.
+III. De 20 a 30 veces el valor de la unidad de medida o actualización a la comprendida en la fracción III.
+
+IV. De 50 a 100 veces el valor de la unidad de medida o actualización a la comprendida en la fracción IV. La multa a la que se refiere la presente fracción se aplicará sin perjuicio que por la misma infracción se ordene la cancelación de la licencia de funcionamiento para establecimientos que expendan bebidas alcohólicas y la clausura de los mismos.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -1837,7 +1847,11 @@ c) Afecten el interés jurídico de terceros, en los casos a que se refiere el a
 
 d) Determinen el valor de los bienes embargados a que se refiere el artículo 155 de este Código.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 102.
+
+La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado de Coahuila de Zaragoza.
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
@@ -1919,11 +1933,11 @@ V. Si son revocados los actos por la autoridad.
 
 El recurso de revocación no procederá contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### ARTICULO 109.
 
-Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas podrán hacerse valer en cualquier tiempo, antes de la publicación de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de lo previsto por el artículo 111 de este Código, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
-
-Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones contenidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre dinero en efectivo, depósitos en cuenta abierta en instituciones de crédito, organizaciones auxiliares de crédito o sociedades cooperativas de ahorro y préstamo, así como de bienes legalmente inembargables o actos de imposible reparación material, casos en el que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
 
 ###### ARTICULO 110.
 
@@ -1933,23 +1947,7 @@ El tercero que afirme ser propietario de los bienes o negociaciones, o titular d
 
 ###### ARTICULO 111.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 101, se estará a las reglas siguientes:
-
-I. Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
-
-En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
-
-II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiera practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
-
-El particular tendrá un plazo de 15 días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación.
-
-III. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
-
-IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
-
-En el caso de actos regulados por otras leyes, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso administrativo que, en su caso, establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 #### SECCION III. DEL TRAMITE Y RESOLUCION DEL RECURSO
 
@@ -2097,7 +2095,9 @@ Cuando la notificación se efectúe personalmente y el notificador no encuentre 
 
 El citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino debidamente identificados. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible del domicilio de la persona citada, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los honorarios de notificación a cargo de quien incurrió en el incumplimiento, en cantidad de $539.00 (QUINIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2217,11 +2217,27 @@ Son aplicables al embargo precautorio a que se refiere este artículo y al previ
 
 El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en el recurso de revocación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos o a través del juicio contencioso administrativo.
 
 El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
-Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 126 de este Código, también se suspenderá el plazo de la prescripción.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2251,13 +2267,29 @@ II. Por la de embargo, incluyendo el señalado en el artículo 123, fracción V 
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a dos días de salario mínimo vigente en la Entidad, se cobrará esta cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder del equivalente a 100 días de salario mínimo vigente en la Entidad.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $430.00 (CUATROCIENTOS TREINTA PESOS 00/100 M.N.), se cobrará esta cantidad en vez del 2% del crédito.
 
-Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en el artículo 123 fracción V, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que son aceptados por el Estado en dación en pago en los términos de lo previsto por el artículo 172 de este Código, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen, bienes que sean objeto de remate.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $67,040.00 (SESENTA Y SIETE MIL CUARENTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41, fracción I y 123, fracción V, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles enajenados o adjudicados a favor del Estado en los términos de lo previsto por el artículo 152 de este Código, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Los ingresos recaudados por concepto de gastos de ejecución, se destinarán al establecimiento de un fondo revolvente para gastos de cobranza, para programas de fomento con el público en general del cumplimiento de las obligaciones fiscales, para financiar los programas de formación de funcionarios fiscales, salvo que por Ley estén destinados a otros fines. El destino de estos ingresos será con independencia del presupuesto que tengan asignado las autoridades fiscales federales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+Cuando las autoridades fiscales ordenen la práctica de un avalúo, y éste resulte superior en más de un 10% del valor declarado por el contribuyente, éste deberá cubrir el costo de dicho avalúo.
 
 #### SECCION II. DEL EMBARGO
 
@@ -2804,6 +2836,22 @@ P.O. 19 DE DICIEMBRE DE 2017.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día primero de enero de dos mil dieciocho.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 195.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil diecinueve.
 
 ###### ARTICULO SEGUNDO.
 
