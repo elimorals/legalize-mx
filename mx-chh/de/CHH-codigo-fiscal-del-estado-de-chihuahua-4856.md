@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2018-03-17"
+last_updated: "2018-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CHH"
 ---
 # CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO CON EXCEPCIÓN DE LAS DISPOSICIONES CONTENIDAS EN EL TÍTULO TERCERO DEL LIBRO PRIMERO, LAS CUALES PERMANECERÁN VIGENTES MIENTRAS NO SE EXPIDA LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA; ASIMISMO, LAS DISPOSICIONES CONTENIDAS EN EL CAPÍTULO III, DEL TÍTULO SEGUNDO, DEL LIBRO SEGUNDO, PERMANECERÁN VIGENTES MIENTRAS NO SE EXPIDA UN ACTO LEGISLATIVO QUE REGULE EL JUICIO CONTENCIOSO ADMINISTRATIVO ESTATAL; DE IGUAL FORMA, LAS DISPOSICIONES CONTENIDAS EN EL CAPÍTULO XVII, DEL TÍTULO TERCERO, DEL LIBRO PRIMERO, PERMANECERÁN VIGENTES MIENTRAS NO ENTRE EN VIGOR LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018 (ABROGADO).
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -263,9 +265,7 @@ III.- Si ambos o todos los acreedores públicos poseen garantías reales, la pre
 
 28.- Los ingresos ordinarios son aquellos que se obtienen normalmente para la atención del gasto público.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
-
-Con este mismo carácter se establece a cargo de los contribuyentes, el impuesto adicional del 4% sobre todos los impuestos ordinarios y derechos a que se refiere este artículo, cuyo rendimiento será destinado al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 29.- Son ingresos extraordinarios, aquellos cuya percepción se decreta excepcionalmente para proveer al pago de gastos o inversiones eventuales o extraordinarios del Estado.
 
@@ -1155,73 +1155,35 @@ Tratándose de funcionarios o empleados públicos que cometan infracciones grave
 
 99.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2013)
 
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES, ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ## TITULO TERCERO. INGRESOS ORDINARIOS
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO I. IMPUESTO SOBRE HOSPEDAJE
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+100.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-100.- Es objeto de este impuesto la prestación de servicios de hospedaje, que realicen personas físicas o morales en el Estado de Chihuahua.
+101.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+102.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-De los ingresos que se recauden con motivo de este impuesto, una cantidad que represente una proporción de tres puntos porcentuales de la tasa aplicable, será destinada a la promoción y difusión de la actividad turística en el Estado. El punto porcentual restante se destinará a obras de inversión pública relacionadas con dicha actividad, inclusive podrá ser utilizado para empatar programas de inversión turística establecidos, convenidos o coordinados con el Ejecutivo Federal.
+103.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+104.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-101.- Son sujetos de este impuesto, los usuarios de los servicios de hospedaje señalados en el artículo anterior, mediante las retenciones que deberán efectuarles los prestadores de los mismos.
+105.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+106.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-102.- La base para el cálculo del impuesto se integra con el valor total de la contraprestación pactada a favor de quien preste el servicio de hospedaje.
+107.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-En el caso de que el servicio se preste bajo el sistema normal de hospedaje no se considerará para el cálculo del impuesto de los servicios de alimentación y demás distintos al hospedaje, ni el Impuesto al Valor Agregado.
+108.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-En tanto que por el servicio para el sistema de tiempo compartido, integrará la base para el cálculo del impuesto, además de la señalada en el primer párrafo de este artículo, las cantidades que se carguen o cobren por intereses normales o moratorios, penas convencionales, mantenimiento, cuotas ordinarias o extraordinarias por administración, gasto de toda clase y cualquier otro concepto inherente al mismo.
+109.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-103.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 4%.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-104.- El pago del impuesto se hará mediante el entero de las retenciones que debió efectuar el prestador que señale esta ley, cada mes y dentro de los 15 días siguientes al mismo.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-105.- Para efectos de este impuesto se entiende por prestación de servicios de hospedaje, el otorgamiento de albergue a cambio de una contraprestación, así como:
-
-I.- La prestación de servicios bajo el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos previamente establecidos, determinados o determinables.
-
-II.- La prestación de servicios paraderos de casa rodantes, móviles o autotransportables, mediante los que se otorga el espacio e instalaciones para estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-106.- Para efectos de este impuesto, se entiende que los servicios de hospedaje se prestan en el Estado de Chihuahua, siempre que por lo menos uno de los inmuebles destinados para tales fines se encuentre dentro de su territorio.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-107.- El impuesto se causará y retendrá en el momento en que se preste el servicio, debiendo efectuar los prestadores la separación expresa de aquél en el comprobante de la operación, así como el desglose de los demás servicios prestados.
-
-Cuando en los servicios de hospedaje, se incluyan servicios accesorios tales como alimentación, transportación, uso de instalaciones y otros similares y el comprobante fiscal no reúna los requisitos a que se refiere el párrafo anterior, se entenderá que la base gravable se integra con el costo de todos los servicios.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-108.- Las personas físicas y las morales que presten los servicios de hospedaje aquí señalados, así como las que tengan a su cargo la administración de sistemas de tiempo compartido, su mantenimiento u operación del establecimiento, estarán obligadas a lo siguiente:
-
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la autoridad fiscal que le corresponda dentro de los 15 días siguientes al inicio de sus operaciones, mediante la forma oficial del caso y proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada.
-
-II.- Retener a los usuarios de sus servicios el impuesto correspondiente y enterarlo a las oficinas autorizadas por los períodos y en las fechas a que se refiere el artículo 104.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-109.- Los retenedores de este impuesto están obligados a enterar una cantidad equivalente a la que debieron retener aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-110.- La autoridad fiscal podrá determinar en forma presuntiva la base de este impuesto para su cálculo y pago, en los casos en que los retenedores se ubiquen en alguno de los supuestos establecidos para tales efectos en el Código Fiscal del Estado.
+110.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1273,191 +1235,79 @@ II.- Retener a los usuarios de sus servicios el impuesto correspondiente y enter
 
 131.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO II. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS AUTOMOTORES Y OTROS BIENES MUEBLES USADOS
 
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+132.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-132.- Es objeto de este impuesto la adquisición de la propiedad, por cualquier título o causa, de vehículos automotores y de otros bienes muebles usados que se realice o surta sus efectos en el territorio del Estado, a excepción de los enajenados por empresas en los términos de la Ley del Impuesto al Valor Agregado.
+133.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+134.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-133.- En las permutas se considerará que se efectúan dos adquisiciones.
+135.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+136.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-134.- Son sujetos de este impuesto quienes adquieran el dominio de bienes muebles, en los términos a que se refiere el Artículo 132.
+137.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+138.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-135.- Se tomará como base para la aplicación de este impuesto, la tabla de valores que fijará anualmente la Secretaría de Hacienda o el valor resultante del avalúo que al efecto practique.
+139.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-136.- El impuesto se causará aplicando la tasa del 2% a la base señalada en el Artículo anterior por la adquisición de toda clase de automóviles, camiones y demás vehículos de motor usados y en general por cualquier otro bien mueble usado.
+### CAPITULO II - BIS. DEL IMPUESTO A LA OBTENCION DE PREMIOS EN LOTERIAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y/O CONCURSOS DE TODA CLASE
 
-Quedan exceptuados del pago de este impuesto las adquisiciones que efectúen los distribuidores de automóviles autorizados en el Estado y los comerciantes en el ramo de vehículos.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-137.- El impuesto establecido en este capítulo deberá pagarse dentro de los 15 días hábiles siguientes a la fecha de adquisición del vehículo, en las oficinas recaudadoras correspondientes.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-138.- Son responsables solidarios del pago de este impuesto:
-
-I.- Los adquirientes, aun tratándose de los sujetos exentos del pago de este impuesto, por los créditos fiscales que se adeuden con motivo de operaciones celebradas con anterioridad.
-
-II.- Quienes transmitan la propiedad, cuando los adquirientes no cumplan con la obligación señalada en el artículo anterior.
-
-III.- Los servidores públicos que en ejercicio de sus funciones autoricen el cambio de propietario de un vehículo, sin cerciorarse del pago del impuesto y
-
-IV.- Los consignatarios o comisionistas en cualquier operación de adquisición de vehículos automotores usados.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-139.- Cuando en las operaciones que se lleven a cabo con motivo de la adquisición de vehículos automotores u otros bienes muebles usados, intervengan personas domiciliadas fuera del Estado, el impuesto será retenido y enterado por aquella que sea residente del mismo, que haya intervenido o sea intermediario en la operación.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-### CAPITULO II – BIS. DEL IMPUESTO A LA OBTENCION DE PREMIOS EN LOTERIAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y/O CONCURSOS DE TODA CLASE
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+139-A.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-139-A.- Se entenderá, para efectos de los impuestos a que se refiere este Capítulo, por juegos con apuestas:
+139-B.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I. Aquellos en los que el premio se pueda obtener por la destreza del participante, o por el mero azar, en el uso de máquinas.
+139-C.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II. Los que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
-
-III. Aquellos en los que el participante deba estar presente en el juego, activamente o como espectador.
-
-IV. Los juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
-
-V. Los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio, o ambos.
-
-VI. Los autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-139-B.- Se entenderá, para efectos de los impuestos a que se refiere este Capítulo, por apuestas, los montos en efectivo, en especie o los entregados por cualquier otro medio que se arriesgan en un juego, con la posibilidad de obtener o ganar un premio.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-139-C.- Los ingresos recaudados por concepto de los impuestos a que se refiere el presente Capítulo, serán destinados a inversión pública productiva del Estado, de conformidad a las disposiciones aplicables.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. DEL IMPUESTO A LOS INGRESOS PERCIBIDOS POR LA ORGANIZACION DE JUEGOS CON APUESTAS Y/O SORTEOS
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+139-D.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-139-D.- Es objeto de este impuesto los ingresos percibidos por la organización de juegos con apuestas y/o sorteos, independientemente del nombre con el que se les designe, que se efectúen en el territorio del Estado.
+139-E.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+139-F.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-139-E.- Son sujetos de este impuesto las personas físicas y morales que organicen juegos con apuestas y/o sorteos.
+139-G.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Se incluye como sujetos de este impuesto, en la organización de juegos con apuestas y/o sorteos, a quienes administren, exploten o preparen la celebración de juegos con apuestas y/o sorteos.
+139-H.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+139-I.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-139-F.- El impuesto se calculará aplicando una tasa del 6% al valor total de los ingresos percibidos por la organización de juegos con apuestas y/o sorteos.
-
-Se considerará como valor el total de las cantidades efectivamente percibidas a aquellas a la participación de juegos con apuestas y/o sorteos, ya sea que enteren en efectivo, en especie o por cualquier otro medio. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas.
-
-Para el cálculo del impuesto a las cantidades antes indicadas, deberán reducirse los premios efectivamente pagados o entregados y las cantidades efectivamente devueltas a los jugadores.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-139-G.- Las personas que obtengan ingresos a que se refiere esta sección, podrán efectuar las siguientes deducciones:
-
-I. El valor de los premios efectivamente pagados o entregados.
-
-En el caso de premios distintos al efectivo, se podrá deducir el valor estipulado en el permiso otorgado o, en su defecto, el valor de facturación o el de avalúo comercial.
-
-II. Las cantidades devueltas a los participantes, antes de la realización de los juegos o sorteos.
-
-Para que puedan deducirse los valores referidos en las fracciones anteriores, estos deberán estar registrados en la contabilidad, en el sistema central de apuestas o en el sistema que resulte equivalente.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-139-H.- El impuesto se calculará mensualmente y se pagará a más tardar el día 15 del mes siguiente al que corresponda el ingreso obtenido. Los pagos se realizarán mediante declaración que se presentará en las formas oficialmente aprobadas. Dicho pago se entenderá como definitivo.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-139-I.- No se pagará el impuesto a que se refiere esta sección, cuando los juegos con apuestas y/o sorteos se organicen por contribuyentes exentos, entendiéndose por estos aquellos a que se refiere el artículo 73 tercer párrafo del presente Código.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION TERCERA. IMPUESTO A LA OBTENCION DE PREMIOS EN LOTERIAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y/O CONCURSOS DE TODA CLASE
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+140.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-140.- Son objeto de este impuesto los ingresos percibidos por la obtención de premios, derivados de la participación en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, independiente de donde se celebre el evento.
+141.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+142.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Para los efectos de este impuesto no se considera como premio el reintegro correspondiente al billete que permitió participar en loterías.
+143.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+144.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-141.- Son sujetos de este impuesto las personas físicas o morales, que compran o adquieran en el territorio del Estado, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los respectivos eventos y que resulten premiados, independientemente del lugar donde se celebre el evento. Las personas o instituciones que organicen o celebren los eventos correspondientes, están obligados a retener el impuesto que se cause.
+145.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+146.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-También se consideran sujetos para efectos de este impuesto, las personas físicas o morales, que obtengan un premio o cualquier otro beneficio independientemente del nombre con el que se le designe, que derive de una lotería, rifa, sorteo, juego con apuesta y/o concurso de toda clase.
+147.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+148.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-142.- La base para el cálculo del impuesto se integra con el valor total determinado o determinable del premio que se obtenga. Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2018)</small>
-
-No se aplicará el Impuesto Adicional del 4%, contemplado en el párrafo segundo del artículo 28 de este Código, al Impuesto a la obtención de premios en loterías, rifas, sorteos, juegos con apuestas y/o concursos de toda clase.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-143.- El monto del impuesto se calculará aplicando a la base gravable a que alude el artículo anterior la tasa del 6%.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-Para el cálculo del Impuesto derivado de juegos con apuestas y/o sorteos, se aplicará a la base gravable la tasa del 6%.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-144.- El impuesto se causará en el momento en que se pague el premio respectivo, independientemente del lugar donde se realiza el evento.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-145.- Los retenedores efectuarán el pago del impuesto a más tardar el día 15 del mes siguiente a aquel al que corresponda el pago, presentándose la declaración aprobada en la oficina recaudadora que corresponda. Dicho pago se entenderá como definitivo.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-146.- Los retenedores de este impuesto tendrán las siguientes obligaciones:
-
-1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes, utilizando las formas aprobadas para tales efectos; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo.
-
-2.- Presentar ante la Recaudación de Rentas que corresponda, los avisos y declaraciones a que se encuentren obligados, dentro de los plazos establecidos para tales efectos.
-
-3.- Retener y enterar el impuesto que se cause conforme a estas disposiciones.
-
-4.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite la documentación comprobatoria de los eventos realizados y del pago del impuesto.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-147.- Los retenedores de este impuesto están obligados a enterar una cantidad equivalente a la que debieron retener conforme a esta ley, aún cuando no hubieren efectuado la retención.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-148.- El Gobierno Federal, el del Distrito Federal, los Gobiernos de los Estados, los Municipios, el Patronato de Ahorro Nacional, la Lotería Nacional y Pronósticos Deportivos para la Asistencia Pública y los Partidos Políticos; así como las instituciones de asistencia privada, instituciones educativas y las de beneficencia social, retendrán y enterarán el impuesto que se cause por la obtención de premios que se entreguen, a quienes compren o adquieran en el territorio del Estado los billetes, boletos, contraseñas o cualquier otro comprobante que les permita participar en los correspondientes eventos.
-
-En ningún caso quedarán exentos del pago del impuesto los premios obtenidos.
+> <small>(DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
@@ -1495,179 +1345,89 @@ En ningún caso quedarán exentos del pago del impuesto los premios obtenidos.
 
 165.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+> <small>(DEROGADO CON LOS ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO IV. IMPUESTO SOBRE NOMINAS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+166.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-166.- Son objeto de este impuesto los egresos en efectivo o en especie, que habitual o accidentalmente se realicen por concepto de remuneración al trabajo personal, prestado bajo la subordinación a un patrón, siempre y cuando se generen dentro del Territorio del Estado o los perciban personas domiciliadas en el mismo.
-
-Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, todas las contraprestaciones cualquiera que sea el nombre con el que se les designe, ordinarias o extraordinarias, incluyendo sobresueldos, viáticos, gastos de representación, comisiones, primas, gratificaciones, rendimientos y otros conceptos análogos que se deriven de una relación laboral.
-
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 DEL SUJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+167.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
-
-167.- Son sujetos de este impuesto las personas físicas y morales, mexicanas o extranjeras; la Federación, el Estado, los municipios, sus organismos descentralizados y demás entidades paraestatales, así como los entes de derecho público con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Chihuahua y las unidades económicas que realicen pagos por concepto de remuneración al trabajo personal subordinado en los términos a que se refiere el artículo 166 de este Código.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 DE LA BASE
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+168.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-168.- Se tomará como base para la aplicación de este gravamen el monto total de los pagos a que se refiere el artículo 166.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 DE LA TASA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+169.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+169-Bis. (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-169.- Al monto mensual de las erogaciones a que se refiere el artículo 168, excepto las exentas que señala el artículo 171, se le aplicará la tasa del 3% y el importe obtenido será el impuesto a pagar.
+170.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-169-Bis. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2013)
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1 al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas por la Secretaría de Hacienda, debiendo anexarse copia de la declaración del pago provisional del Impuesto sobre la Renta.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 DE LAS EXENCIONES
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+171.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-171.- Están exentas del pago de este impuesto las erogaciones que se cubran por concepto de:
-
-a).- Participación de los trabajadores en las utilidades de las empresas;
-
-b).- Indemnizaciones por riesgos y enfermedades profesionales;
-
-c).- Pagos por jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
-
-d).- Indemnizaciones por cese o separación;
-
-e).- Pagos por gastos funerarios,
-
-f).- Pagos por primas de antigüedad;
-
-g).- Gastos de representación y viáticos que reúnan los mismos requisitos que para su deducibilidad requiera la Ley del Impuesto sobre la Renta;
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-h).- Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos y convivios, becs (sic) para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón;
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-i).- Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean iguales a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
-
-j).- Las despensas que se otorguen a través de vales a los trabajadores, siempre y cuando su importe no rebase el cuarenta por ciento de la Unidad de Medida y Actualización vigente, y estos sean otorgados en forma general.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
-
-Para que los conceptos anteriores se excluyan como integrantes de la base del impuesto, deberán ser erogados por el patrón y estar debidamente registrados en contabilidad.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-172.- La Secretaría de Hacienda podrá determinar estimativamente las erogaciones de los sujetos de este impuesto, cuando se den cualquiera de las hipótesis señaladas en el artículo 23 de este Código.
+172.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
 173.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
 174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972) (REPUBLICADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 1994)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO V. IMPUESTO SOBRE EJERCICIOS LUCRATIVOS
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1994)</small>
+175.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-175.- Son objeto de este Impuesto los ingresos que en efectivo o en especie se perciban en el libre ejercicio de un arte, oficio, actividad técnica, deportiva o cultural, como agente de instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
+176.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-176.- Son sujetos de este impuesto las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado de Chihuahua.
-
-Cuando dichas personas operen organizadas en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán dichas personas físicas sujetos del impuesto, por la participación que les corresponda en los ingresos de la organización.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. TASA, BASE Y DEDUCCIONES
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1992)</small>
-
-177.- El impuesto se causará mensualmente, aplicando la tasa del 2% sobre total de los ingresos obtenidos con motivo de las actividades a que se refiere este capítulo.
+177.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
 178.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
 
 179.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+180.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-180.- La Secretaría de Hacienda, podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
-
-I.- Cuando no presenten la declaración mensual o no lleven los libros a que están obligados.
-
-II.- Cuando por los informes que se obtengan se ponga de manifiesto la percepción de un promedio de ingresos brutos superior al declarado en un 3%.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-Para practicar las estimaciones a que se refiere este precepto se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse, así como los gastos de carácter privado en que haya incurrido el causante y constituyan un índice para los efectos de este artículo.
-
-Sobre los ingresos brutos estimados, se reconocerá como deducción única, el importe del 20% de dichos ingresos.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION TERCERA. OBLIGACIONES DE LOS CAUSANTES
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 1994
+181.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-181.- Los causantes de este Impuesto están obligados:
+182.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
-
-I.- A efectuar el pago del impuesto dentro de los días 1° al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior.
-
-II.- A firmar los documentos previstos por este capítulo bajo protesta de decir verdad.
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-III.- A recibir las visitas de inspección y proporcionar a los visitadores de la Secretaría de Hacienda comisionados para efectuarlas, todos los informes y documentos que pidan para el desempeño de sus funciones.
-
-IV.- A proporcionar a las autoridades fiscales los datos e informes que se les soliciten, dentro del plazo que para ello se les fije.
-
-V.- Cuando se trate de agrupaciones profesionales, asociaciones o sociedades de carácter civil, deberán éstas empadronarse en lugar de las personas físicas que las integren.
-
-En este caso, todas las demás obligaciones a que se refiere este artículo deberán cumplirse por la agrupación u organización de que se trate, inclusive la relativa al pago del impuesto, para cuyo efecto se deberá presentar una declaración en los términos de la fracción I listando los ingresos que correspondan a cada uno de los socios en el mes inmediato anterior y los impuestos que deban enterar. Si la asociación o sociedad no cumple con estas obligaciones, los socios o asociados deberán cumplir con las mismas.
-
-VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1976)
-
-VII.- Señalar nombre y domicilio del depositario de los libros y en general de toda la documentación del causante, en caso de clausura, traslado y cambio de denominación social.
-
-VIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales y demás documentos probatorios y relativos a las operaciones efectuadas.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-182.- Las declaraciones de los contribuyentes serán revisables por la Secretaría de Hacienda. Cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponden, sin perjuicio de las sanciones a que haya lugar.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION CUARTA. OBLIGACIONES DE TERCEROS
 
-183.- Quienes hagan pagos a causantes del impuesto que establece este capítulo están obligados:
+183.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- A retener el impuesto cuando se trate de causantes accidentales de este tributo, o exigir que los sujetos del mismo les presenten el original del recibo oficial que les expida la Recaudación de Rentas correspondiente, en el que conste el pago del impuesto.
-
-II.- A exigir que los causantes habituales de este tributo establezcan en los recibos que les expidan, el registro de empadronamiento estatal que se les tenga otorgado.
-
-Si los causantes no cumplen con los requisitos que establece el párrafo anterior, los terceros retendrán el importe del impuesto enterándolo en la Recaudación de Rentas respectiva. Si no lo hicieren se harán acreedores a la sanción establecida en el artículo 93 Segundo Grupo de este Código.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(DEROGADA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION QUINTA. LIQUIDACIONES A CUOTA FIJA
 
@@ -1675,161 +1435,41 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 185.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO VI. DE LOS IMPUESTOS CEDULARES A LOS INGRESOS DE LAS PERSONAS FISICAS
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION PRIMERA
 
 Disposiciones generales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2005)</small>
+186.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-186.- Están obligadas al pago de los impuestos cedulares establecidos en este Código, las personas físicas que perciban ingresos:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-I.- Por el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-II.- Por la enajenación de bienes inmuebles, ubicados en el territorio del Estado.
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. Impuesto Cedular a los Ingresos por Arrendamiento y en General por Otorgar el Uso o Goce Temporal de Inmuebles
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+187.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-187.- Están obligados al pago del impuesto establecido en esta Sección, las personas físicas que perciban ingresos por otorgar el uso o goce temporal de bienes inmuebles, ubicados en territorio del Estado, con independencia de la Entidad ederativa (sic) en la que el contribuyente tenga su domicilio fiscal.
+188.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
+189.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Los provenientes del arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma.
+190.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II.- Los rendimientos de certificados de participación inmobiliaria no amortizables.
+190-A.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Para los efectos de esta Sección, se consideran ingresos los percibidos en efectivo, bienes, servicios y crédito.
-
-Los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el mes de calendario en el que sean cobrados.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
-
-188.- Las personas que obtengan ingresos por los conceptos a que se refiere esta Sección, podrán efectuar las siguientes deducciones:
-
-I.- Los pagos efectuados por el Impuesto Predial correspondiente al año de calendario sobre dichos inmuebles, así como por las contribuciones especiales señaladas en este Código que afecten a los mismos;
-
-II.- Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen del inmueble;
-
-III.- Los intereses reales efectivamente pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles.
-
-Se considera interés real, el monto en el que los intereses excedan al ajuste por inflación.
-
-Para estos efectos, el ajuste por inflación se determinará multiplicando el saldo promedio diario del préstamo o financiamiento que genere los intereses, por el factor que se obtenga de restar la unidad del cociente que resulte de dividir el índice nacional de precios al consumidor del mes más reciente del período de la inversión, entre el citado índice correspondiente al primer mes del período. Cuando el cálculo a que se refiere este párrafo se realice por un período inferior a un mes o abarque fracciones de mes, el incremento porcentual del citado índice para dicho período o fracción de mes se considerará en proporción al número de días por el que se efectúa el cálculo.
-
-El saldo promedio diario del préstamo o financiamiento que genere los intereses será el saldo que se obtenga de dividir la suma de los saldos diarios del préstamo o financiamiento que genere los intereses entre el número de días del período;
-
-IV.- Los salarios, comisiones, honorarios, así como los impuestos, cuotas o contribuciones que conforme a la ley les corresponda cubrir sobre dichos salarios, efectivamente pagados y que sean relacionadas con las actividades que generan los ingresos gravados por el Impuesto Cedular;
-
-V.- El importe de las primas de seguros que amparen los bienes inmuebles;
-
-VI.- Las inversiones en construcciones, incluyendo adiciones y mejoras, en los términos que prevén la Ley del Impuesto Sobre la Renta federal y sus disposiciones reglamentarias para las personas físicas que otorguen el uso o goce temporal de bienes inmuebles.
-
-Los contribuyentes podrán optar por deducir el 35% de los ingresos a que se refiere esta Sección, en substitución de las deducciones autorizadas por este artículo. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del Impuesto Predial de dichos inmuebles correspondientes al año de calendario o al período durante el cual obtuvieron los ingresos en el año calendario según corresponda.
-
-Los contribuyentes que opten por efectuar la deducción a que se refiere el párrafo que antecede lo deberán hacer por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos en los que tengan el carácter de copropietarios, a más tardar en la fecha en la que se presente la primera declaración que corresponda al año de calendario de que se trate, y una vez ejercida no podrá variarse en los pagos de dicho año, pudiendo cambiarse la opción al presentar la primera declaración del año siguiente.
-
-Tratándose de subarrendamiento, sólo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
-
-Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el Impuesto Predial y contribuciones especiales que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente. En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
-
-La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
-
-Los contribuyentes al efectuar los pagos a que se refiere el artículo 190 de este Código, harán las deducciones a que se refiere el mismo, que correspondan al período por el que se presente la declaración. Cuando las deducciones no se efectúen dentro del período al que corresponden, se podrán efectuar en los siguientes períodos del mismo año calendario. Tratándose de inversiones, los contribuyentes de este impuesto podrán deducir de los ingresos del período, la cuarta parte de la deducción que corresponda al año calendario, independientemente del uso que se dé al inmueble de que se trate.
-
-En el caso de que los ingresos percibidos sean inferiores a las deducciones del período, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los períodos siguientes, siempre y cuando dichas deducciones correspondan al mismo año calendario.
-
-Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos materia de este impuesto.
-
-Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el año calendario, las deducciones a que se refieren las fracciones I a V de este artículo se aplicarán únicamente cuando correspondan al período por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al en que se otorgue dicho uso o goce.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-189.- En las operaciones de fideicomiso por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente aun cuando el fideicomisario sea una persona distinta, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir del fiduciario el bien inmueble, en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho a readquirir el bien inmueble.
-
-La institución fiduciaria efectuará los pagos de este impuesto por cuenta de aquél a quien corresponda el rendimiento en los términos del párrafo anterior, mediante declaración mensual que presentará conforme al artículo siguiente.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
-
-190.- Los contribuyentes que obtengan ingresos de los señalados en esta Sección efectuarán pagos trimestrales a una tasa del 5% que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas en esta Sección en el período declarado. La declaración y entero de los pagos se realizará en los términos del artículo 44 de este Código, teniendo como fecha límite del día 17 del mes inmediato siguiente al en que corresponda el pago.
-
-Para efectos de este impuesto, el año calendario se dividirá en cuatro períodos, de la siguiente manera: el primero, con los meses de enero, febrero y marzo; el segundo, con los meses de abril, mayo y junio; el tercero, con los meses de julio, agosto y septiembre; y el cuarto, con los meses de octubre, noviembre y diciembre.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-190-A.- Los contribuyentes que obtengan ingresos de los señalados en esta Sección, además de efectuar los pagos del impuesto, tendrán las siguientes obligaciones:
-
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes.
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2005)</small>
-
-II.- Llevar contabilidad, cuando obtengan ingresos superiores a $50,000.00 por los conceptos a que se refiere esta Sección, en el año calendario anterior. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35% a que se refiere el artículo 188 de este Código.
-
-III.- Expedir comprobantes por las contraprestaciones recibidas.
-
-IV.- Presentar declaraciones en los términos de esta Sección.
-
-Cuando los ingresos a que se refiere esta Sección sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto.
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION TERCERA. Del Impuesto Cedular a los Ingresos Derivados de la Enajenación de Inmuebles
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+190-B.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-190-B.- Pagarán este impuesto las personas físicas que perciban ingresos por la enajenación de inmuebles que se ubiquen en el territorio del Estado.
+190-C.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Para los efectos de esta Sección, se consideran ingresos por enajenación de inmuebles, los que deriven de:
-
-I.- Toda transmisión de propiedad, aún en la que el enajenante se reserve el dominio del bien enajenado.
-
-II.- Las adjudicaciones, aún cuando se realicen a favor del acreedor.
-
-III.- La aportación a una sociedad o asociación.
-
-IV.- La que se realiza a través del fideicomiso, en los siguientes casos:
-
-a) En el acto en el que el fideicomitente designe o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
-
-b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
-
-V.- La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
-
-a) En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
-
-b) En el acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el de que los bienes se transmitan a su favor.
-
-VI.- Las transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito, o de la cesión de derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
-
-En los casos de permuta se considerará que hay dos enajenaciones.
-
-Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicio, inclusive en crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no haya contraprestación, se atenderá al valor de avalúo practicado, previa autorización de las autoridades fiscales.
-
-No se considerarán ingresos por enajenación, los que deriven de la transmisión de propiedad de inmuebles por causa de muerte o por donación.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
-
-190-C.- Para los efectos de la determinación de la base gravable y de las exenciones de este impuesto, se atenderá a lo establecido en las Disposiciones Generales y en el Capítulo IV, del Título IV de la Ley del Impuesto Sobre la Renta Federal y a sus disposiciones reglamentarias.
-
-Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles, efectuará el pago del impuesto por cada una de las operaciones que realicen, aplicando la tasa del 5% sobre la base gravable determinada de acuerdo con el párrafo que antecede y se enterará mediante declaración que se presentará dentro de los 15 días siguientes a la fecha de enajenación, de conformidad con el artículo 44 de este Código.
-
-En el caso de operaciones consignadas en escritura pública, los fedatarios, bajo su responsabilidad calcularán y retendrán el impuesto a que se refiere esta Sección y lo enterarán dentro de los 15 días siguientes a la fecha en que se firme la escritura o minuta, en los términos del artículo 44 de este Código. Los fedatarios quedan relevados de la obligación de efectuar el cálculo y entero del impuesto a que se refiere esta Sección, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales, debiendo observarse al efecto lo dispuesto por la Ley del Impuesto Sobre la Renta federal y sus disposiciones reglamentarias.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-190-D.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito especializada en valuación debidamente acreditados ante el Departamento Estatal de Profesiones. La Secretaría de Hacienda estará facultada para practicar, ordenar o tomar en cuenta el avalúo del bien objeto de la enajenación.
+190-D.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
 190-E.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
@@ -1843,1165 +1483,393 @@ En el caso de operaciones consignadas en escritura pública, los fedatarios, baj
 
 190-J.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
-191.- Son objeto del impuesto a que se refiere este Capítulo, sin deducción alguna, los ingresos en efectivo o en especie que se perciban como productos o rendimientos de capitales invertidos, por los siguientes conceptos:
+191.- (DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Intereses simples o capitalizados sobre prestamos en general, provenientes de toda clase de actos, convenios o contratos;
+192.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II.- Prestaciones que se obtengan con motivo del otorgamiento de fianzas o garantías, cuando no se presten por instituciones legalmente autorizadas;
-
-III.- Descuentos de toda clase de títulos o documentos;
-
-IV.- Rendimientos de toda clase de bonos y obligaciones emitidos por sociedades mercantiles;
-
-V.- Ingresos que obtengan los fideicomitentes o los fideicomisarios a través de instituciones fiduciarias como consecuencia de contratos de fideicomiso que generen los productos o rendimientos señalados en las fracciones anteriores;
-
-VI.- Productos de inversiones u operaciones de cualquier clase siempre que los mismos no se encuentren gravados conforme a otras disposiciones de este Código, ni expresamente exceptuados por el mismo.
-
-192.- Son sujetos del Impuesto las personas físicas o morales que perciban en el Estado o de fuentes de riqueza ubicadas en el mismo, ingresos de los mencionados en el artículo anterior, independientemente del lugar donde se otorguen los documentos en que se haga constar el acto generador de crédito fiscal.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. BASE, TASA Y PAGO
 
-193.- El impuesto se causará a razón de 3% (tres por ciento) sobre el importe total de los ingresos que se obtengan.
+193.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-194.- El pago del impuesto deberá efectuarse en la Recaudación de Rentas correspondiente dentro de los días 1o. al 20 del mes siguiente a aquél en que se haya obtenido el ingreso.
+194.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-195.- El contribuyente radicado en el Estado está obligado a indicar en el recibo que al efecto deberá expedir, el número del Registro Estatal de Causantes que para este impuesto le corresponda. Quien realice el pago está obligado a recabar dicho recibo.
+195.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los causantes de este impuesto están obligados a presentar para su registro, en las Recaudaciones de Rentas respectivas y dentro del término de diez días siguientes a su otorgamiento, los documentos en que consten los actos, convenios o demás operaciones de las que se deriven ingresos gravables por este capítulo.
+196.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-196.- Para los efectos del pago del impuesto se considera que las cantidades abonadas por el deudor o que en cualquiera otra forma obtenga el acreedor por concepto de pago total o parcial del adeudo, se aplican en primer término al pago de los productos o rendimientos del capital invertido.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION TERCERA. RESPONSABILIDAD DE TERCEROS
 
-197.- Están obligados a retener el impuesto las personas que hagan pagos de los gravados en este capítulo a contribuyentes radicados dentro o fuera del Estado.
+197.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Las personas que efectúen retenciones harán los enteros relativos en el plazo establecido en el Artículo 194, mediante una declaración en la que expresarán el concepto y monto de las cantidades retenidas.
+198.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-198.- Los Notarios Públicos están obligados a dar aviso a las Recaudaciones de Rentas correspondientes, dentro de los treinta días siguientes a la fecha de su intervención, de cualquier acto en que intervengan del cual puedan derivarse ingresos de los gravados en este Capítulo.
+199.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-199.- Los Directores y encargados de las oficinas del Registro Público de la Propiedad en el Estado, están obligados a remitir a las Recaudaciones de Rentas correspondientes, dentro de los diez días siguientes a la fecha de su intervención, una copia autorizada de todos los documentos donde consten actos jurídicos de los cuales se deriven ingresos gravados en este Capítulo. Así mismo les queda prohibido registrar o cancelar inscripciones de actos jurídicos o de gravámenes de cualquier naturaleza, en los que se haya generado la obligación de pago de este impuesto, sin que previamente el interesado acredite fehacientemente haber hecho el entero correspondiente.
+200.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-200.- Los jueces del Estado están obligados a remitir a las Recaudaciones de Rentas correspondientes, dentro de los diez días siguientes a la fecha en que sean dictadas, una copia certificada de las sentencias ejecutoriadas en las que se condene el pago de alguno o algunos de los conceptos gravados en este Capítulo.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-La Secretaría de Hacienda está, a través del representante de la Hacienda Pública Estatal que se designe, facultada para intervenir en los juicios, en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION CUARTA. EXENCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+201.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-201.- Están exentos del pago del impuesto a que se refiere este capítulo:
-
-I.- Los intereses percibidos con motivo de aceptaciones, préstamos u otros créditos a cargo de instituciones de crédito o de organizaciones auxiliares, nacionales y del extranjero;
-
-II.- Los intereses percibidos por las instituciones de crédito o por organizaciones auxiliares, nacionales y del extranjero;
-
-III.- Los intereses provenientes de bonos y obligaciones que emitan instituciones de crédito internacionales, de las que sean accionistas el Gobierno Mexicano o alguna institución nacional de crédito, así como de los que emita el propio Gobierno Federal;
-
-IV.- Los rendimientos de los valores a que se refiere la fracción IV del artículo 191, cuando la tasa no exceda de 10 % anual sobre el valor nominal del título;
-
-V.- Los dividendos o utilidades que distribuyan las sociedades establecidas en el País;
-
-VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
-
-VII.- Los intereses que perciban las fundaciones de Asistencia Pública y Beneficencia Privada constituídas legalmente;
-
-VIII.- Los intereses obtenidos por la enajenación a plazo de inmuebles urbanos y rústicos;
-
-IX.- Los intereses, el sobreprecio, o cualquier otra prestación que aumente los ingresos gravados por el Impuesto sobre el Comercio y la Industria establecido en este Código;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-X.- Los intereses que perciba el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, con motivo de los financiamientos que otorgue a sus derechohabientes para construir, mejorar o ampliar sus viviendas, así como para pagar el pasivo de las mismas.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 #### SECCION PRIMERA. OBJETO
 
-> <small>N. DE E. SE SUSPENDE LA APLICACIÓN DEL PRESENTE DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO DEL DECRETO No. 286-73, PUBLICADO EN P.O. 25 DE ABRIL DE 1973.</small>
+202.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-202.- El Impuesto sobre el Comercio y la Industria grava, en los términos de los artículos siguientes, los ingresos que se obtengan:
+203.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Por enajenación de bienes;
+204.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II.- Por prestación de servicios;
+205.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-III.- Por comisiones y mediaciones mercantiles,
+206.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-IV.- Por explotación de aparatos fonoelectromecánicos, de diversión y básculas que funcionen con monedas o sin ellas; y
-
-V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
-
-203.- Es ingreso toda percepción en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en crédito en libros, o en cualquiera otra forma que lo obtengan los sujetos de este impuesto, como resultado de las operaciones gravadas por este Capítulo.
-
-204.- El impuesto se causa sobre el ingreso total de las operaciones gravadas por este Capítulo, en el momento en que se realicen, aún cuando sean a plazo o a crédito, incluyendo el sobreprecio, los intereses ordinarios y moratorios o cualquiera otra prestación que lo aumente.
-
-205.- Para los efectos del Artículo 202 se considera:
-
-I.- Como enajenación, toda traslación de dominio de carácter mercantil por la cual se perciba un ingreso;
-
-II.- Como prestación de servicios, los de índole mercantil;
-
-III.- Como comisión mercantil, el mandato otorgado al comisionista para ejecutar actos de comercio por cuenta del comitente, y como mediación mercantil la actividad que desarrolla el mediador para relacionar a los contratantes.
-
-Quedan comprendidas en esta fracción entre otras, las actividades que por cuenta ajena desarrollan los consignatarios, agentes, representantes, corredores y distribuidores quienes deberán cumplir los requisitos que señala el Artículo siguiente;
-
-IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
-
-206.- El ingreso gravable de los comisionistas estará formado por la cantidad que perciban por concepto de remuneración por la comisión desempeñada, siempre que se satisfagan los requisitos siguientes:
-
-I.- Que exista contrato escrito en el que se estipule la comisión, ya sea en una cantidad fija o en un porcentaje sobre el precio de la operación.
-
-II.- Que el comisionista ponga a disposición de las autoridades fiscales, cuando éstas lo soliciten, los comprobantes de las cuentas rendidas a su comitente y de las comisiones percibidas.
-
-De no satisfacer los requisitos anteriores se estimará que el comisionista ha obrado en su nombre y por cuenta propia y el impuesto se causará sobre el ingreso total de la operación.
-
-El ingreso gravable del propietario de las mercancías, estará formado por el total de los ingresos obtenidos con motivo de las operaciones celebradas por el comisionista, agente, consignatario, representante, corredor o distribuidor, sin que sea deducible, para este efecto, la retribución estipulada.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. SUJETO Y DOMICILIO
 
-207.- Es sujeto de este impuesto la persona física o moral que habitual o accidentalmente obtiene el ingreso con motivo de operaciones gravadas por este Capítulo, realizadas o que surtan sus efectos en territorio del Estado.
+207.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los comerciantes ambulantes que no estén exentos del gravamen están obligados a presentar declaraciones mensuales ante la Oficina receptora dentro de cuya jurisdicción hayan operado, cubriendo el impuesto correspondiente.
+208.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los sujetos del impuesto podrán trasladarlo expresamente al comprador o usuario del servicio. Cuando lo hagan, consignarán por separado, en las facturas o notas de venta que expidan, el importe de la operación y el monto del impuesto, que se calculará exclusivamente sobre dicho importe. Esta disposición no será aplicable a quienes obtengan ingresos provenientes de la explotación de hoteles, casas de huéspedes, restaurantes, campos de turismo o negocios similares.
+209.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-La expedición de facturas será obligatoria cuando el importe de la enajenación o de los servicios prestados exceda de $1,000.00 (Mil Pesos), o cuando tales documentos sean exigidos por los interesados, debiendo expedirse dentro de los sesenta días siguientes a la fecha de la operación.
+210.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los sujetos del impuesto radicados en el Estado, deberán consignar en las facturas que expidan el número de su registro estatal de causante.
+211.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-208.- Para los efectos de este capítulo se considera percibido el ingreso en el lugar donde el contribuyente establezca su negocio, industria o comercio y que está obligado a manifestar al empadronarse, debiendo llevar en el mismo, el control de sus ingresos.
-
-Cuando el ingreso se perciba fuera del Territorio del Estado, con motivo de operaciones realizadas o que surtan sus efectos en esta Entidad, el impuesto será retenido y enterado por la persona residente en el Estado que haya intervenido o sea intermediaria en la operación gravada. Para este efecto, los retenedores enterarán el impuesto mediante declaración adicional, con su mismo número de empadronamiento, en la que se manifestarán los ingresos obtenidos, el monto del impuesto retenido, el nombre o razón social y el domicilio del causante.
-
-209.- Los contribuyentes que tengan sucursales, despachos, bodegas o dependencias que operen en lugares distintos de la matriz, siempre dentro del Estado, están obligados a manifestar el lugar de ubicación de cada uno de ellos y a efectuar el pago en la Recaudación de Rentas de su jurisdicción conforme a las reglas siguientes:
-
-I.- La matriz declarará y pagará el impuesto exclusivamente respecto de los ingresos que perciba directamente, es decir sin mediación de ninguna de sus sucursales, despachos, bodegas o dependencias obligados a pagar el gravamen.
-
-II.- Las sucursales, despachos, bodegas o dependencias que perciban ingresos, cubrirán el impuesto que se cause sobre esos ingresos, en la oficina en que estén empadronados.
-
-III.- Las sucursales, despachos, bodegas o dependencias que no perciban ingresos, presentarán dentro de los 15 días siguientes a su establecimiento una declaración por una sola vez en la oficina que los haya empadronado, manifestando que no obtienen ingresos gravables.
-
-IV.- Los contribuyentes radicados fuera del Estado manifestarán directamente o por conducto de sus representantes en el Estado, el lugar de ubicación de sus sucursales, despachos, bodegas o dependencias que operen en territorio de esta Entidad y cubrirán sus impuestos y presentarán sus declaraciones en los términos previstos en las fracciones II y III de este artículo.
-
-210.- Se considera que los vendedores ambulantes tienen su domicilio en el lugar que como tal hayan señalado en su solicitud de empadronamiento.
-
-211.- En todas las operaciones gravadas por este capítulo en que intervengan personas físicas o morales no empadronadas para el pago del Impuesto, será responsable del pago el enajenante y solidariamente el adquiriente de los bienes o servicios.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION TERCERA. GRUPOS Y TASAS
 
-> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+212.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-212.- Los ingresos se clasificarán en cinco grupos y causarán el impuesto conforme a las tasas que a continuación se indican:
+213.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+214.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-PRIMER GRUPO.- 1.8 % sobre los ingresos provenientes de la presentación o enajenación de:
+215.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Servicios prestados en laboratorios de análisis clínicos, sanatorios, clínicas, casas de maternidad, y salud, bancos de sangre y huesos y hospitales, exceptuando a las instituciones de beneficencia pública o privada que funcionen de acuerdo con la ley de la materia, las cuales están exentas del pago del impuesto.
-
-II.- Perfumes, cosméticos, joyas y demás artículos de lujo.
-
-III.- Fertilizantes, insecticidas y productos análogos.
-
-IV.- Café, golosinas, aguas gaseosas y sodas.
-
-V.- Pasteles y pastelillos.
-
-VI.- Productos avícolas.
-
-VII.- Frutas.
-
-VIII.- Derivados de la leche.
-
-IX.- Manta y mezclilla.
-
-X.- Los actos comerciales derivados directamente de la producción agrícola, siempre y cuando no los realicen directamente los productores.
-
-XI.- Medicinas, productos medicinales, químico-medicinales y farmacéuticos.
-
-XII.- Servicios prestados en restaurantes, cafés, fondas y loncherías. Si venden bebidas alcohólicas, sobre éstas pagarán el impuesto de acuerdo con las tasas que señala el segundo grupo; y
-
-XIII.- En general sobre todos los artículos, mercancías y servicios que no estén gravados en los grupos siguientes ni expresamente exentos;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-XIV.- La explotación de aparatos fonoelectromecánicos de diversión y básculas que funcionen con monedas o sin ellas.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-SEGUNDO GRUPO.- El impuesto se causará a razón de:
-
-I.- 2.5% sobre los ingresos que se obtengan en establecimientos que expendan bebidas alcohólicas al copeo.
-
-II.- 1.8% sobre los ingresos correspondientes a las ventas de bebidas alcohólicas por botella cerrada, que efectúen las personas, establecimientos o empresas que las distribuyan.
-
-III.- 2.5% cuando en un mismo negocio se vendan bebidas alcohólicas en botella cerrada y al copeo.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-TERCER GRUPO.- 2% sobre la gasolina y demás derivados del petróleo en ventas de primera mano.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-CUARTO GRUPO.- Los ingresos procedentes de la venta de automóviles y camiones, causarán el impuesto conforme a las siguientes tasas:
-
-I.- 3% sobre toda clase de automóviles no armados en el País, si la venta es de primera mano.
-
-II.- 2% sobre toda clase de camiones de pasajeros o de carga no armados en el País si la venta es de primera mano.
-
-III.- 3% sobre toda clase de automóviles armados en el País, si la venta es de primera mano y la operación no se realiza por agencia establecida en el Estado. Si ésta la lleva a cabo se causará el impuesto a razón de 1.8%.
-
-IV.- 2% sobre toda clase de camiones de pasajeros o de carga, armados en el País, si la venta es de primera mano y la operación no se realiza por agencia establecida en el Estado. Si ésta la lleva a cabo se causará el impuesto a razón del 1.8%
-
-V.- 1.8% en las ventas de segunda mano o posteriores de toda clase de automóviles y camiones, armados o no en el País.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-Para los efectos de este grupo se considerarán ventas de primera mano, todas las que se verifiquen con automóviles o camiones nuevos o usados que por primera vez sean motivo de una transacción comercial dentro del territorio del Estado. El valor gravable se determinará con base en la tabla de valores que anualmente fijará la Secretaría de Hacienda o, a juicio de esta Autoridad, sobre el valor resultante del avalúo que al efecto practique.
-
-QUINTO GRUPO.- $0.02 (Dos centavos) por kilo sobre las ventas de primera mano de azúcar realizadas por los productores, introductores y comerciantes mayoristas de ese producto.
-
-SEXTO GRUPO.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1975)
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 532/2011 I P.O. PUBLICADO EN P.O. DE 24 DE DICIEMBRE DE 2011, SE REFORMA EL ARTÍCULO 212, CUARTO GRUPO, FRACCIÓN V, SEGUNDO PÁRRAFO, EN DONDE SE CITA EL TEXTO "QUINTO GRUPO AL OCTAVO GRUPO..."; SIENDO QUE EL ARTÍCULO SE REFORMÓ INTEGRALMENTE EL 30 DE DICIEMBRE DE 1972, PASANDO DE OCHO GRUPOS A SEIS GRUPOS; HABIENDO DIFERENCIA CON LA HISTORIA LEGISLATIVA QUE TIENE PUBLICADA EL CONGRESO DEL ESTADO PUDIÉNDOSE CONSULTAR EN LA PAGINA ELECTRÓNICA http://www.congresochihuahua.gob.mx/gestorbiblioteca/gestorcodigos/archivosCodigos/29.pdf.</small>
-
-213.- En todas aquellas operaciones que sean realizadas en forma accidental, por sujetos no empadronados, el impuesto se pagará aplicando la tasa que corresponda conforme al artículo anterior.
-
-214.- Cuando un causante tenga ingresos procedentes de dos o más actividades, comerciales o industriales, deberá llevar en sus registros contables la separación por tasas. Para la presentación de las declaraciones se aplicarán las reglas siguientes:
-
-I.- Si todos los ingresos son gravables en una sola de las tasas establecidas en el artículo 212 ésta se aplicará sobre el monto total, después de deducir los gastos, descuentos, devoluciones y bonificaciones que autoriza este capítulo.
-
-II.- Si los ingresos no son gravables, por razón de su diversa índole, de acuerdo con una sola de las tasas establecidas, sino que son aplicables dos o más de éstas o además se obtienen ingresos exentos, deberán:
-
-1.- Manifestar el total de sus ingresos, de acuerdo con la separación por tasas que deberán llevar en sus registros contables, incluyendo los exentos.
-
-2.- Deducirán del monto de cada grupo de ingresos gravados: los gastos, descuentos, devoluciones y bonificaciones que autoriza este capítulo.
-
-3.- Aplicarán el remanente de cada grupo las tasas del artículo 212 según proceda.
-
-215.- En caso de que el contribuyente no lleve la separación de ingresos, se causará íntegramente el impuesto sobre el total de los mismos, sin la deducción de los exentos, aplicando una sola tasa, que en el caso será la mayor de las aplicables.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION CUARTA. INGRESOS EXENTOS
 
-216.- No causan el impuesto:
+216.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1980)</small>
-
-I.- Las siguientes enajenaciones:
-
-a).- Maquinaria y equipo para fines agropecuarios y fertilizantes.
-
-b).- Maíz, frijol, arroz y sal.
-
-c).- Verduras, legumbres, leña y carbón vegetal.
-
-d).- Leche, pan, huevo, pescados y mariscos.
-
-e).- Carne sin procesar, vendida al menudeo en carnicerías.
-
-f).- Pollo y gallina vendidos directamente al consumidor.
-
-g).- Tortillas, masa de maíz, harina de maíz y harina de trigo. Esta última, sólo pagará el impuesto cuando se realice la venta por molinos.
-
-II.- Las enajenaciones de primera mano que se verifiquen con algodón y su semilla o avena, cuyas operaciones son motivo de los impuestos especiales que establecen los capítulos respectivos del presente libro.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
-
-III.- Alimentos balanceados para animales y las materias primas necesarias para producirlos, productos de medicina veterinaria, así como insecticidas, herbicidas y fungicidas.
-
-IV.- Previa declaración de la autoridad fiscal, los ingresos que obtengan los causantes empadronados cuyos ingresos gravables, en conjunto, no excedan de la cantidad de $1,000.00 mensuales.
-
-V.- Previa declaración de la autoridad fiscal, las ventas accidentales cuyo importe no exceda de $400.00 en una sola operación.
-
-VI.- Las operaciones comerciales de primera mano que realicen directamente los agricultores con los productos por ellos mismos cosechados, con excepción de la avena, el algodón y su semilla, que son motivo de impuestos especiales. Tampoco quedan comprendidos en esta fracción los ingresos que obtengan los fruticultores, floricultores y arboricultores.
-
-VII.- Las operaciones comerciales que se verifiquen con las distintas especies de ganado, por ser motivo de impuesto especial previsto en este Código.
-
-VIII.- Los ingresos que procedan: de la enajenación de bienes que representen inversiones de activo fijo; de aportaciones de capital en dinero; de la enajenación de porciones en las sociedades de personas y de la distribución entre los socios del haber social en los casos de disolución de sociedades o disminución del capital social.
-
-IX.- Los ingresos procedentes de la enajenación de títulos de crédito.
-
-X.- Los ingresos que provengan de operaciones efectuadas por Instituciones de crédito y organizaciones auxiliares, de seguros y de fianzas, siempre que sean propias de su objeto directo.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
-
-XI.- La prestación de los servicios siguientes:
-
-a).- Los prestados directamente a los agricultores y ganaderos por concepto de perforación de pozos; alumbramiento y formación de retenes de agua; desmontes y caminos en el interior de las fincas; preparación de terrenos; riego y fumigación agrícola; cosecha y recolección; así como vacunación e inseminación artificial de ganado, siempre que sean indispensables para la realización de actividades agrícolas o ganaderas.
-
-b).- Transporte de personas o cosas, para el que se requiera concesión estatal.
-
-c).- Maquila de nixtamal.
-
-d).- Pasteurización de leche.
-
-XII.- Los ingresos percibidos por los constructores de inmuebles para obras publicas, derivados de contratos celebrados con la Federación, Estados, Municipios y Organismos descentralizados.
-
-Esta exención no es aplicable a los ingresos obtenidos por el suministro, enajenación de bienes y prestación de servicios a las entidades y organismos mencionados, aún cuando se relacionen con la ejecución de obras públicas y se elaboren o adapten con sujeción a determinadas especificaciones.
-
-La exención tampoco ampara a los subcontratistas.
-
-XIII.- Los ingresos que procedan de la prestación de servicios profesionales afectos al pago del Impuesto sobre Profesiones y Ejercicios Lucrativos.
-
-No favorece esta exención a las empresas formadas por profesionistas que se encuentren organizados en forma mercantil.
-
-XIV.- Los ingresos provenientes de la venta de bebidas alcohólicas que estén sujetos al Impuesto sobre la Producción y Venta de Bebidas Alcohólicas y Alcohol y que hayan sido obtenidos por los productores, mezcladores, ampliadores y envasadores del Estado de Chihuahua.
-
-XV.- Los ingresos que procedan de la explotación y aprovechamiento de los recursos naturales comprendidos en los párrafos IV y V del artículo 27 constitucional.
-
-XVI.- Los ingresos provenientes de la producción y consumo de cerveza, de la explotación forestal, de la energía eléctrica, de la explotación de vías generales de comunicación cuando solamente éstas se utilicen y en general aquellos provenientes de ramos que el artículo 73 de la Constitución General de la República reserva como exclusivos de la federación.
-
-XVII.- Los ingresos obtenidos por empresas que se dediquen a la edición e impresión y venta o alquiler de libros, periódicos, revistas o de láminas geográficas, anatómicas o artísticas, de música impresa que no sea en discos o cintas, únicamente por los ingresos provenientes de la producción, distribución y venta de las publicaciones. Así mismo los ingresos obtenidos por establecimientos penitenciarios, de beneficencia, los de enseñanza pública o privada reconocidos por la autoridad competente y los que procedan de cuotas de los miembros de asociaciones sin fines lucrativos.
-
-XVIII.- Las operaciones celebradas por las agencias automotrices establecidas en el Estado en las cuales reciban como parte del precio un vehículo usado, operando la exención únicamente por lo que a éste se refiere.
-
-XIX.- Los ingresos que perciban los ejidatarios por los productos obtenidos en sus parcelas.
-
-XX.- Los ingresos que se perciban por la venta del hielo.
-
-En los casos en que los causantes se amparen en las exenciones de este artículo y obtengan ingresos gravables sin presentar sus declaraciones ni pagar el impuesto que a ellos corresponde, se presumirá que han obtenido dichos ingresos gravables desde que iniciaron sus operaciones o desde la fecha de vigencia de este precepto, y deberán pagar el impuesto sobre la totalidad de sus ingresos incluyendo los que pudieran haber estado exceptuados.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION QUINTA. DEDUCCIONES Y RECTIFICACIONES
 
-217.- Para los efectos de este impuesto no se considerarán ingresos gravables, en los términos de la fracción I del artículo 202:
+217.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Los gastos por seguros, acarreos, fletes, empaques, envolturas, envases exteriores, impuestos, derechos y otros semejantes que haga el vendedor con motivo del envío de las mercancías, siempre que éstos se carguen al comprador, sin que se altere el importe de dichos gastos complementarios. No se aplicará lo dispuesto en esta fracción cuando el precio se pacte libre de gastos para el comprador.
+218.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II.- Los descuentos y bonificaciones hechos por el vendedor al comprador, siempre que estén debidamente comprobados.
+219.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-III.- Los que se reintegren con motivo de la devolución de mercancías, en los casos en que las enajenaciones se rescindan total o parcialmente.
+220.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-218.- No se consideran ingresos gravables los que provengan del reintegro o del anticipo que haga la persona que reciba el servicio a quien lo presta, de los gastos que sean ocasionados por servicios complementarios del principal, siempre que se hagan por cuenta del cliente y reúnan los requisitos siguientes:
+221.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Que el prestador del servicio principal no pueda proporcionar directamente los servicios complementarios.
+222.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II.- Que el prestador del servicio principal no altere los precios de los servicios complementarios al cargarlos en cuenta al cliente.
-
-219.- Las personas que perciban ingresos por operaciones comprendidas en la fracción III del artículo 202, no podrán verificar deducción alguna por gastos en la realización de la comisión, mediación, consignación, agencia, representación, corretaje o distribución y se consideran como ingresos los gastos y erogaciones que por cualquier concepto cargue o cobre el agente o representante al comitente o a su representante, incluso los viáticos y gastos de viaje o de oficina.
-
-Los causantes señalados en el párrafo anterior pagarán el impuesto sobre el importe de sus comisiones o corretajes, con la sola deducción de las comisiones cedidas a otros agentes.
-
-220.- Los contribuyentes que como consecuencia de las operaciones que realicen, registren en sus libros autorizados asientos que comprueben aumentos o disminuciones de los ingresos declarados y, consecuentemente, afecten el monto del impuesto pagado, podrán hacer el aumento a su cargo o la disminución a su favor del impuesto rectificado, en la declaración mensual siguiente al mes en que efectivamente hayan registrado dichos asientos.
-
-También podrán hacer rectificaciones cuando descubran errores en las declaraciones presentadas que motiven una diferencia de más o menos en el impuesto pagado, siempre que las hagan en la declaración mensual siguiente a aquélla que se rectifique.
-
-Estas rectificaciones solamente podrán hacerse a las declaraciones presentadas durante un ejercicio fiscal y en los plazos establecidos en los párrafos anteriores. Cumpliéndose con los requisitos establecidos no se cobrarán recargos ni se impondrán sanciones por los impuestos omitidos declarados.
-
-221.- Cuando los contribuyentes no hayan hecho uso de las prerrogativas que les concede el Artículo anterior, en los meses de enero, febrero y marzo, o dentro de los tres meses siguientes a la fecha de su balance anual, podrán proponer rectificaciones de las declaraciones mensuales presentadas en el ejercicio fiscal anterior, que motiven omisión de impuestos, siempre que pongan en conocimiento de la autoridad fiscal de su jurisdicción los asientos que las comprueben y que ésta dicte resolución aprobándolos. En este caso pagarán el impuesto omitido más los recargos correspondientes mediante declaración complementaria.
-
-Si a través de las rectificaciones se comprueba que los contribuyentes pagaron impuestos en mayor cantidad que la que correspondía, ejercitarán la acción procedente para obtener su devolución en los términos previstos en éste Código.
-
-222.- Los contribuyentes por iniciativa propia no podrán hacer las rectificaciones a que se refieren los artículos anteriores: cuando se descubra falsedad en los asientos de su contabilidad; cuando la omisión del impuesto haya sido descubierta de antemano por alguna autoridad, funcionario o empleado; cuando la haya precedido denuncia; cuando con anterioridad se haya iniciado una auditoría al responsable o presunto responsable, o haya sido requerido del pago de alguna prestación fiscal derivada de este gravamen.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEXTA. DECLARACIONES Y PAGO DEL IMPUESTO
 
-223.- El pago del Impuesto deberá hacerse dentro de los días 1o. al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. Salvo prueba en contrario, se presume que el ingreso mensual gravable, hechas las deducciones autorizadas por la Ley, no puede ser menor de $1,000.01 (Un Mil Pesos un Centavo).
+223.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los causantes no empadronados que obtengan ingresos provenientes de operaciones comerciales accidentales, deberán pagar el impuesto dentro de las cuarenta y ocho horas siguientes a la operación. Cuando la autoridad fiscal lo considere conveniente podrá exigir, de inmediato, se garantice el interés fiscal.
+224.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+225.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los causantes que tengan establecida liquidación a cuota fija en los términos del artículo 240, deberán pagar el impuesto bimestralmente, dentro de la última quincena del bimestre correspondiente.
+226.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Para efectuar el pago se presentará la declaración a que se refiere este artículo, manifestando separadamente los ingresos que correspondan a cada una de las tasas comprendidas en los grupos a que se refiere el Artículo 212. Las declaraciones deberán ser firmadas:
+227.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Por el propietario o su apoderado y por el contador si lo hubiere, cuando se trate de negociaciones propiedad de personas físicas;
+228.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II.- Por el contador de la empresa y por el gerente, director o administrador y en defecto de éstos, por el funcionario de la empresa autorizado por el consejo de administración, o si no existe consejo por el administrador único, cuando se trate de sociedades; y
-
-III.- Por el gerente o encargado de la sucursal y por el contador si lo hubiere, cuando se trate de sucursales ubicadas en jurisdicción fiscal distinta a la de la matriz. Si la sucursal se encuentra en la misma jurisdicción fiscal de la matriz, las declaraciones serán firmadas en su caso, por las personas a que se refieren las dos fracciones anteriores.
-
-224.- Los causantes presentarán sus declaraciones y efectuarán el pago del impuesto, en la oficina recaudadora de la jurisdicción en que estén empadronados.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-Los causantes que no hayan obtenido ingresos gravables presentarán sus declaraciones expresando la causa de ello, dentro del plazo establecido en el artículo 223.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-225.- No se admitirán las declaraciones si éstas no se consignan en las formas aprobadas por la Secretaría de Hacienda y si en el mismo acto de su presentación no se paga íntegramente el impuesto y los recargos causados. Este último requisito, el pago del impuesto y recargos, no se exigirá en el caso previsto en la segunda parte del artículo anterior.
-
-226.- Las sociedades no podrán presentar sus declaraciones mensuales sin que sean aprobadas expresamente por la persona a quien corresponda la representación de la sociedad. En el documento en que se apruebe la presentación de las declaraciones se hará constar el monto de los ingresos que deban declararse.
-
-Este artículo tiene como excepción lo dispuesto por el artículo 231.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-227.- Los causantes del impuesto y los gerentes, administradores o apoderados y los contadores de las sociedades, declararán bajo protesta de decir verdad, al hacer las manifestaciones, que los ingresos que declaran son los realmente obtenidos en el período de que se trate, y se harán sabedores de que en caso de falsedad u ocultación incurrirán en las penas establecidas en este Código o, en su caso, en el Código Penal del Estado.
-
-228.- Las declaraciones de los causantes serán revisables en cualquier tiempo en los términos del artículo 239, y cuando aparezca que no se manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias que corresponda, sin perjuicio de las sanciones a que haya lugar.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEPTIMA. OBLIGACIONES DE LOS CAUSANTES
 
-229.- Son obligaciones de los causantes:
+229.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Declarar sus ingresos y pagar el impuesto en los términos de los artículos anteriores;
-
-II.- Firmar todos los documentos previstos por este Capítulo bajo protesta de decir verdad;
-
-III.- Cuando sus ingresos anuales sean de $500,000.00 o mayores de esta cantidad, deberán llevar por lo menos los siguientes libros autorizados de contabilidad: Libro de Inventarios y Balances, libro general de diario y libro mayor o de cuentas corrientes;
-
-IV.- Cuando sus ingresos anuales sean inferiores a $500,000.00 deberán llevar solamente un libro de ingresos y egresos debidamente autorizado;
-
-V.- Los causantes comprendidos en la fracción III del artículo 202 deberán llevar únicamente el libro de ingresos y egresos, cualquiera que sea el monto de sus percepciones;
-
-VI.- Los asientos correspondientes a las operaciones efectuadas, deberán registrarse en los libros autorizados dentro de los 60 días siguientes a la fecha en que hayan sido realizadas, designando las circunstancias y carácter de cada operación y monto de las mismas.
-
-Los ingresos obtenidos de las operaciones antes mencionadas deberán ser registrados dentro de los días 1o. al 20 del mes siguiente al en que se hayan percibido; ésta última obligación podrá ser cumplida potestativamente por los contribuyentes en un libro auxiliar que se denominará "Libro especial de ingresos" y que deberá ser autorizado gratuitamente por la oficina recaudadora en la jurisdicción del causante.
-
-En las sucursales, dependencias o agencias de los contribuyentes deberá llevarse el "libro especial de ingresos", salvo que en los auxiliares que lleven se cumpla con la obligación de registrar los ingresos dentro del plazo señalado;
-
-VII.- Conservar los libros que están obligados a llevar de acuerdo con esta Ley y la documentación relativa, en el domicilio señalado en la cédula de empadronamiento.
-
-VIII.- Consignar en las facturas que expidan el registro estatal de causantes. Igual anotación deberán hacer en toda promoción, gestión o solicitud que hagan ante las autoridades fiscales del Estado, indicando también expresamente si están al corriente en el pago de este gravamen;
-
-IX.- Proporcionar a las autoridades fiscales del Estado, los datos e informaciones que se les soliciten, dentro del plazo que para ello se les fije;
-
-X.- Recibir las visitas de inspección y proporcionar a los auditores o a los investigadores, los datos, informes y documentos que soliciten para el desempeño de sus funciones;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-XI.- Presentar por triplicado dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal del causante, en la Recaudación de Rentas de su jurisdicción, utilizando las formas especiales que para este objeto apruebe la Secretaría de Hacienda, una declaración anual de los ingresos y egresos, en los términos que señalan las formas respectivas a las cuales deberán anexarse los siguientes documentos:
-
-a).- (DEROGADO, P.O. 16 DE ABRIL DE 1980)
-
-b).- (DEROGADO, P.O. 16 DE ABRIL DE 1980)
-
-c).- Copia en que aparezca el sello de recibido de la Oficina Federal de Hacienda, de la carátula de la declaración y anexos presentados para el pago del Impuesto sobre la Renta Federal;
-
-d).- Relación de intereses pagados sobre préstamos, indicando el nombre, domicilio de la persona o Institución con quien se celebró la operación, importe del préstamo, plazo e intereses pactados.
-
-Bajo protesta de decir verdad, el causante hará constar en la relación mencionada, si los impuestos correspondientes a estas operaciones fueron pagados o retenidos en los términos de este Código;
-
-e).- Relación de las comisiones pagadas indicando nombre, domicilio, concepto, comisión y en su caso número del registro estatal de causantes de cada una de las personas a quienes se hayan efectuado pagos por este concepto.
-
-Bajo protesta de decir verdad el causante hará constar, en la relación mencionada, si los impuestos correspondientes a estos pagos fueron retenidos de acuerdo con lo establecido en este Código;
-
-f).- Relación de sueldos pagados;
-
-g).- Relación de honorarios pagados a personas afectas al Impuesto sobre Profesiones y Ejercicios Lucrativos, señalando el nombre, domicilio, concepto, honorarios y registro estatal de causantes de cada uno de ellos;
-
-h).- Relación conteniendo todos los datos respecto a contratos de arrendamiento de bienes muebles e inmuebles, indicando el número de registro de los mismos ante las Oficinas Recaudadoras de Rentas:
-
-i).- Copia del balance y estado de pérdidas y ganancias correspondientes al ejercicio fiscal a que se refiere la declaración;
-
-j).- Relación detallando todos los demás gastos propios del negocio (luz, teléfono, gas, etc.).
-
-La certificación de los documentos que deban ser anexados a la declaración a que se refiere este Artículo, podrá ser hecha ante la Recaudación de Rentas respectiva, sin causar derechos;
-
-XII.- Señalar nombre y domicilio del depositario de los libros y en general de toda la documentación del causante, en casos de clausura, traspaso, traslado, cambio de objeto, actividad, nombre o razón social;
-
-XIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales y demás documentos probatorios y relativos a las operaciones efectuadas;
-
-XIV.- En el caso de inspección permanente, quedan obligados los contribuyentes a proporcionar al personar (sic) designado los libros, documentos, informes y demás elementos necesarios para el desahogo de la diligencia;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-XV.- Los contribuyentes de este impuesto están obligados, cuando así lo solicite la Secretaría de Hacienda, a proporcionar los informes del transporte de mercancías, movimiento de cuentas, compras efectuadas, así como copias o relaciones de las facturas, notas de venta o notas de servicio que hayan expedido, en las que expresarán los números de empadronamiento de los compradores, de acuerdo con los datos que éstos les hayan proporcionado.
-
-Con los datos y documentos a que se refiere el párrafo anterior se ordenarán las auditorías, a efecto de hacer las investigaciones generales que procedan en la contabilidad de los causantes y demás elementos de juicio que puedan allegarse.
-
-XVI.- Las demás que establezcan las leyes.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION OCTAVA. OBLIGACIONES DE TERCEROS Y RESPONSABILIDAD SOLIDARIA
 
-230.- Están obligados a retener y enterar el impuesto en los términos de los artículos 208 y 223 las personas residentes en el Estado que paguen comisiones o remuneraciones por servicios prestados por comisionistas, agentes o representantes radicados fuera del Territorio del Estado. La retención se hará sobre el monto total de los ingresos que perciban los comisionistas, agentes o representantes.
+230.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+231.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los retenedores deberán presentar ante las Recaudaciones de Rentas, en el momento de efectuar el pago, una declaración que contenga los siguientes datos: a).- Nombre, domicilio, actividad y en su caso, registro estatal de quien retenga el impuesto. b).- Nombre, domicilio, actividad y en su caso registro estatal de las personas a las que se haya retenido el impuesto. c).- Cantidad total pagada en el mes a cada una de ellas y concepto de la misma. d).- Impuestos retenidos. e).- Lugar y fecha.- f).- Nombre y firma.- g).- Los demás que establezcan las formas aprobadas por la Secretaría de Hacienda.
+232.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-231.- Cuando el administrador único o los administradores de las sociedades autoricen al gerente, al director o apoderado de la empresa para que presenten las manifestaciones mensuales, sin previa aprobación expresa, asumirán para los efectos legales las responsabilidades que puedan derivarse de la falsedad o inexactitud de dichas declaraciones.
+233.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-232.- Los administradores serán solidariamente responsables con los que les hayan precedido, por las irregularidades en que éstos hubieren incurrido con relación a este Capítulo, si conociéndolas no las denunciaren por escrito a las Autoridades competentes.
+234.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-233.- Los representantes legales, los comisionistas y mandatarios serán solidariamente responsables del pago del impuesto que dejen de cubrir por sus representados, cuando éstos radiquen fuera del Estado.
+235.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Si radican dentro del Estado, los representantes legales, los comisionistas y mandatarios deberán exigirles la comprobación de estar empadronados; si no lo están surtirá efectos la responsabilidad solidaria prevista en el párrafo anterior.
+236.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-234.- Los contadores públicos al dictaminar los estados financieros de los contribuyentes, harán constar si el ingreso ha sido declarado en los términos de este Capítulo. En caso de falsedad, se harán acreedores a las sanciones correspondientes.
+237.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-235.- En el caso de traslación de dominio, a cualquier título, de establecimientos en los cuales se perciban ingresos gravados, los negocios serán objetivamente responsables de los créditos fiscales insolutos.
-
-236.- Las personas físicas o morales que tengan relación con alguno o algunos de los causantes de este impuesto, deberán auxiliar a las autoridades fiscales, suministrándoles los informes y datos que soliciten en relación con la aplicación de este impuesto.
-
-237.- Las personas físicas o morales que mantengan o hayan tenido relaciones con los contribuyentes de este impuesto, están obligadas, al ser requeridas para ello por las autoridades fiscales, a exhibir su contabilidad, documentación y la correspondencia que se refiera a las operaciones realizadas con dichos causantes.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION NOVENA. VIGILANCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+238. (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-238. La vigilancia de este impuesto se ejercerá por la Secretaría de Hacienda, tanto directamente como por conducto de las Recaudaciones de Rentas. La Secretaría de Hacienda es la autoridad ampliamente facultada para exigir de los causantes la adopción y establecimiento de medidas de control; ordenar la práctica de auditorías, efectuar las investigaciones que procedan; obtener los datos e informes que tengan relación con el objeto de la auditoría; exigir de los contribuyentes la exhibición de los libros de contabilidad, auxiliares y documentos comprobatorios de los asientos respectivos, y en general solicitar los elementos necesarios para comprobar el cumplimiento de las disposiciones de este Capítulo.
+239.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-Cuando con apoyo en las investigaciones practicadas no sea posible determinar el monto de los ingresos reales del causante, las autoridades fiscales podrán estimarlos tomando en cuenta para ello, entre otros, los elementos a que se refiere el artículo 23.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-El Secretario de Hacienda podrá delegar el ejercicio de esta facultad en la autoridad que estime conveniente.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Secretaría de Hacienda o a la autoridad fiscal correspondiente, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-239.- Para la mejor administración y control de este impuesto, se procederá a revisar las declaraciones de los causantes cuando existan indicios de que no cubren el Impuesto de acuerdo con los ingresos realmente percibidos. Para tal revisión se estará a lo dispuesto por el artículo 23 de este ordenamiento.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE D 1977)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION DECIMA. LIQUIDACIONES A CUOTA FIJA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+240.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-240.- Cuando se trate de causantes que en el último ejercicio fiscal de doce meses, hubieren obtenido ingresos anuales hasta de $1'500,000.00 (Un millón quinientos mil pesos 00/100 M.N.) y no hubieren llevado los libros, registros contables, no presenten los comprobantes de las operaciones registradas en ellos en la forma requerida por la Ley, la Secretaría de Hacienda podrá determinar estimativamente el ingreso gravable, tomando en cuenta para ello lo previsto por los artículos 23, 36 fracción VIII, 238 y 239 de este ordenamiento. A los ingresos gravables estimados, se aplicarán las tasas establecidas en esta Ley, y el resultado será el impuesto a pagar, a partir del mes en que se haga la determinación estimativa y hasta el final del año de que se trate. Esa misma cantidad será el impuesto que deberá pagar el causante por los doce meses anteriores a aquél en que se hubiere fijado la cuota.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-Cuando los ingresos totales percibidos en un ejercicio excedan en más de un 20% de los que se hubieren estimado, las liquidaciones de impuesto formuladas quedarán sin efecto y el causante estará obligado a dar aviso a la Tesorería de esta circunstancia y a pagar las diferencias que resulten de la comprobación de los ingresos reales. Los causantes a los cuáles se les practique la determinación estimativa de ingresos a que alude este precepto:
-
-a).- No están obligados a llevar los libros de contabilidad a que se refiere el artículo 229 de este Código, salvo el de Ingresos y Egresos, debiendo conservar la documentación comprobatoria de sus operaciones.
-
-b).- No están obligados a presentar las declaraciones mensuales que menciona el artículo 223 de este Código.
-
-c).- Estarán sujetos a cumplir con las demás obligaciones que a los causantes de este impuesto fije este ordenamiento, con excepción de aquéllas de que expresamente estén liberados.
-
-d).- Presentarán en el mes de abril de cada año, en la forma aprobada, una manifestación que contenga el importe de los ingresos y egresos habidos en el negocio durante el año anterior, a la que se acompañará una copia de la declaración anual que sirvió de base para el pago del Impuesto sobre la Renta.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-e).- Recibirán las visitas de inspección que ordena la Secretaría de Hacienda.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-f).- La determinación estimativa practicada, tiene la vigencia señalada en este artículo, pero se entenderá prorrogada mientras la Secretaría de Hacienda no la modifique.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1971)</small>
+241.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-241.- Este impuesto grava las operaciones de compraventa, permuta, fideicomiso, cesión, donación, compensación, dación en pago, traspaso, aportación a sociedades, consignación, remates y en general cualquier acto por el cual se trasmita el dominio del ganado; también causará el impuesto la disposición del ganado al remitirse fuera del Estado o a rastros y empacadoras, casos en los cuales se presumirá, sin que se admita prueba en contrario que se verificó dentro del Estado operación gravada por este capítulo.
+242.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-242.- Es sujeto del impuesto la persona física o moral propietaria del ganado, que realice cualquiera de los actos señalados en el artículo anterior.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. TARIFA
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+243.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-243.- El impuesto se causará de acuerdo con la siguiente Tarifa:
-
-I.- Por cada cabeza de ganado bovino $110.00
-
-II.- Por cada cabeza de ganado porcino "24.00
-
-III.- Por cada cabeza de ganado mular "40.00
-
-IV.- Por cada cabeza de ganado caballar "34.00
-
-V.- Por cada cabeza de ganado ovino "10.00
-
-VI.- Por cada cabeza de ganado caprino "6.00
-
-VII.- Por cada cabeza de ganado asnal "6.00
-
-VIII.- Por cada cabeza de becerro mamón con
-
-edad máxima de 30 días "60.00
-
-IX.- Por cada cabeza de cabrito con edad
-
-máxima de 30 días "1.50
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION TERCERA. PAGO
 
-244.- El impuesto se causará por cada cabeza de ganado y por una sola vez, en la última operación que con él se realice dentro del Estado.
+244.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-No causa el impuesto el tránsito de ganado proveniente de otra Entidad Federativa destinado al extranjero, siendo indispensable que se acredite fehacientemente que el poseedor del ganado es su propietario, que los semovientes estén protegidos con pases y guías sanitarias de autoridades de otros Estados y que la exportación se lleve a cabo a nombre del propietario. De no cumplirse estos requisitos se hará efectiva la presunción del artículo 241.
+245.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1971)</small>
-
-245.- El pago del impuesto deberá hacerse:
-
-I.- En la Recaudación de Rentas a cuya jurisdicción corresponda el Municipio donde se realice cualquiera de los actos previstos en el artículo 241 de este Código.
-
-II.- En la Recaudación de Rentas a cuya jurisdicción corresponda el Municipio donde se embarque el ganado, cuando salga del Estado pero no de la República.
-
-III.- En las Recaudaciones de Rentas de Ciudad Juárez, Ciudad Ojinaga, Ascensión y Janos cuando el ganado se remita al extranjero.
-
-El impuesto se pagará antes de realizar cualquiera de los actos a que se refiere el artículo 241.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION CUARTA. OBLIGACIONES DE LOS CAUSANTES
 
-246.- Al enterarse el impuesto, el causante deberá cumplir los siguientes requisitos:
+246.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Presentar las facturas que acrediten la propiedad del ganado en las cuales si se trata de ganado bovino, asnal, mular o caballar, deberán figurar dibujados los fierros con que estén marcados los animales. En caso de que el ganadero criador venda directamente no será necesaria la presentación de factura anterior, bastando únicamente que el animal lleve el fierro que tenga registrado el citado criador.
+247.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Tratándose de ganado menor el causante deberá acreditar los derechos de propiedad con una certificación, expedida por la Presidencia Municipal del lugar de donde procede el ganado.
+248.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II.- Los demás que establezcan las leyes correspondientes.
+249.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-247.- Los certificados de pago del impuesto se expedirán en la forma que lo determinen las disposiciones administrativas, entregándole el original al interesado.
-
-248.- Las Recaudaciones expedirán el certificado de pago correspondiente, haciendo las anotaciones respectivas en el documento que ampare la operación o en el certificado de propiedad extendido por las autoridades Estatales o Municipales.
-
-249.- Los causantes de este impuesto están obligados a empadronarse en la Recaudación de Rentas de la jurisdicción de su domicilio particular. Los que residan fuera del Estado se empadronarán en la Recaudación del domicilio que señalen convencionalmente.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION QUINTA. OBLIGACIONES DE LOS TERCEROS
 
-250.- Todas las personas que realicen operaciones gravadas en este Capítulo están obligadas por sí o por conducto de sus administradores, representantes o empleados a exigir la comprobación del pago de este impuesto. Tratándose de Rastros Municipales o Empacadoras tendrán además la obligación de entregar a la Recaudación de Rentas de su jurisdicción, una relación del ganado sacrificado con especificación de marcas, valores, nombre del propietario, lugar y fecha en que fueron pagados los impuestos.
+250.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-251.- Son solidariamente responsables del pago del impuesto:
+251.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Los adquirentes del ganado.
-
-II.- Los introductores o intermediarios.
-
-III.- Los representantes legales, mandatarios y comisionistas.
-
-IV.- Las personas que adquieran empresas ganaderas respecto de las prestaciones fiscales que hayan quedado insolutas.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 #### SECCION PRIMERA. OBJETO, SUJETO Y BASE
 
-252.- Constituye el objeto de este impuesto la enajenación de primera mano que se realice con el algodón y su semilla; no causando por consiguiente ningún otro impuesto establecido en este Código.
+252.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Para los efectos fiscales se presumen verificadas en el Estado, sin que se admita prueba en contrario, todas las enajenaciones del algodón y su semilla producido en el Estado.
+253.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-253.- El impuesto se causa:
+254.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-a).- Al verificarse la primera operación con el algodón o su semilla aún cuando las pacas o el grano no hayan salido de los patios de los despepitadores; y
+255.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-b).- Al salir las pacas de algodón o la semilla de los patios de los despepitadores, si antes no han sido motivo de operaciones comerciales.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-Si existen pacas de algodón o semilla dentro de los límites de las plantas despepitadoras, la Secretaría de Hacienda podrá ordenar que se practique una inspección fiscal a los libros de contabilidad de la empresa, con objeto de determinar si los citados productos han sido motivo de operaciones comerciales en los términos del inciso a) de este artículo.
-
-254.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones comerciales con el algodón y su semilla en los términos del artículo anterior.
-
-255.- La base de este impuesto será el valor de los productos, según las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado para cada zona productora.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. TASA, PAGO Y OBLIGACIONES
 
-256.- A los ingresos totales que se perciban con motivo de operaciones comerciales efectuadas con el algodón y su semilla, se les aplicará la tasa del 3%.
+256.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-257.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
+257.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+258.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-258.- Los propietarios, administradores, o encargados de los despepitadores de algodón están obligados:
+259.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+260.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- A empadronarse y a retener el impuesto al causarse éste en los términos del Artículo 253;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-II.- A llevar un libro especial en el que se detallen los movimientos de algodón referentes a entradas, salidas y existencias mensuales del producto. Se podrá cumplir con esta obligación con el mismo libro a que se refiere el artículo 7 fracción II de la Ley del Impuesto sobre Despepite del Algodón en Rama;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-III.- A entregar los días 15 y último de cada mes en la Recaudación de Rentas de su jurisdicción, el impuesto total cobrado, de acuerdo con las liquidaciones que por el mismo período presenten en las formas oficiales que proporcionará la misma Oficina Recaudadora;
-
-IV.- A no permitir la salida del algodón y su semilla de sus locales o almacenes, si no está debidamente pagado el impuesto;
-
-V.- A colocar en los patios de los despepitadores las pacas de algodón de modo que queden visibles los números de identificación que a cada una se les hayan señalado, a fin de que las inspecciones fiscales se practiquen sin dificultad;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva, para efectos de la autorización de la salida de los despepitadores del algodón y su semilla, con expresión del nombre del propietario, cantidad de pacas, peso de cada una de ellas, de la semilla en su caso y fecha de salida. Este aviso autorizado deberá exhibirse a requerimiento de las autoridades fiscales.
-
-259.- Es solidariamente responsable del pago del impuesto el adquirente.
-
-260.- Los causantes y los terceros que intervengan en toda clase de operaciones gravadas por este Capítulo, que infrinjan las disposiciones contenidas en el mismo, se harán acreedores a las sanciones previstas en el capítulo VII del Título Segundo de este libro.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
 
-261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
+261.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-262.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones de enajenación con el citado producto.
+262.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
+263.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+264.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
+265.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
+266.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 #### SECCION PRIMERA. IMPUESTO SOBRE PRODUCCION DE BEBIDAS ALCOHOLICAS
 
-267.- Constituye el objeto de este Impuesto la producción, mezcla y ampliación de vinos, aguardientes y otras bebidas alcohólicas en el Estado de Chihuahua.
+267.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-268.- Los productores, mezcladores y ampliadores de vinos, aguardientes y otras bebidas alcohólicas en el Estado de Chihuahua, pagarán un Impuesto sobre la producción a razón de las siguientes cuotas:
+268.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-a).- Producción de vinos $0.10 por litro, sea a granel o embotellado para su consumo como tal;
+269.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-b).- Producción de aguardientes y bebidas alcohólicas $0.20 por litro, sea a granel o embotellado;
+270.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-c).- Mezcla y ampliación de vinos, aguardientes y cualquier otra bebida alcohólica $0.30 por litro, sea a granel o embotellado.
+271.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-269.- Son bebidas alcohólicas para los efectos de esta Ley, los líquidos que tengan una graduación alcohólica superior a tres grados Gay Lussac. Cuando en lo sucesivo se aluda a la graduación se entenderá referida a la escala Gay Lussac.
+272.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-270.- Para los efectos del impuesto a que se refiere este Capítulo, se entenderá por productor toda persona física o moral que habitual o accidentalmente produzca, obtenga, mezcle o amplíe bebidas alcohólicas.
+273.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+274.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-271.- El pago del impuesto se hará mediante declaración mensual, la que se presentará del día 1o. al día 20 de cada mes en las formas que autorizará la Secretaría de Hacienda.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-272.- La Secretaría de Hacienda tiene facultades para comprobar la veracidad de la declaración a que se refiere el artículo anterior, para lo cual podrá practicar las investigaciones y auditorías que sean necesarias.
-
-273.- Las personas físicas o morales que tengan la propiedad o posesión de fabricas o instalaciones productoras de cualquiera de los artículos gravados por este ordenamiento, tienen la obligación de empadronarse en la Recaudación de Rentas de su jurisdicción en un plazo de diez días que se computará a partir de la fecha en que se hubieren concluído las instalaciones o hubieren adquirido la propiedad o posesión.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-El empadronamiento se hará en las formas que para el caso autorice la Secretaría de Hacienda.
-
-Los productores cubrirán, en la Recaudación de Rentas respectiva, al presentar la solicitud de empadronamiento, el derecho correlativo con arreglo a las siguientes cuotas:
-
-I (SIC).- Productores comprendidos en la Categoría A. de 300,000
-
-litros de producción anual en adelante $500.00
-
-2.- Productores comprendidos en la Categoría B. de
-
-100,000 litros a 300,000 de producción anual $300.00
-
-3.- Productores comprendidos en la Categoría C.
-
-hasta 100,000 litros de producción anual $200.00
-
-274.- Los productores de bebidas alcohólicas estarán obligados:
-
-I.- A llevar los libros de contabilidad necesarios para establecer en forma clara el registro de la producción y control de almacén;
-
-II.- A conservar en el domicilio legal toda su documentación contable y comprobatoria por el término de cinco años;
-
-III.- A facilitar a las Autoridades Fiscales, en cualquier momento, la inspección de la fábrica, equipo, instalaciones y vehículos, y proporcionar los datos y documentos que le soliciten;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-IV.- A solicitar de la Secretaría de Hacienda la autorización correspondiente para trasladar o traspasar el negocio con diez días de anticipación;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-V.- A no permitir que salgan de sus fábricas las bebidas envasadas que causen el impuesto a que se refiere la sección segunda de este Capítulo, sin previo pago del mismo, con la excepción de aquellas que se remitan a otras Entidades para su venta, en cuyo caso así se hará constar en la factura correspondiente. En este caso se requiere permiso de la Secretaría de Hacienda, expedido por la Recaudación de Rentas de su jurisdicción;
-
-VI.- A envasar las bebidas en recipientes con una capacidad máxima de cinco litros, a los cuales se adherirá una etiqueta en la que aparezca la graduación alcohólica del producto. Cuando se trate de alcohol, podrá ser envasado en recipientes hasta de veinte litros;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-VII.- A registrar en la Recaudación de Rentas respectiva, los vehículos que se dediquen al transporte de alcohol y bebidas alcohólica. Al darse de baja el vehículo o al cambiar de placas, deberá darse el aviso correspondiente a la Recaudación de Rentas en que esté registrado;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-VIII.- A recabar en cada caso un permiso de la Secretaría de Hacienda, a través de la Recaudación de Rentas correspondiente, para remitir o transportar bebidas alcohólicas en recipientes con capacidad mayor de cinco litros. Dicho transporte sólo podrá ser realizado por personas y vehículos registrados como porteadores ante las autoridades fiscales estatales;
-
-IX.- A declarar en la Recaudación de Rentas de su jurisdicción dentro de los días 1o. al 20 de cada mes, las ventas en litros que de sus bebidas alcohólicas hayan llevado a cabo dentro de la Entidad, indicando el nombre y domicilio de los compradores y la graduación alcohólica del producto.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION SEGUNDA. IMPUESTO SOBRE VENTA DE BEBIDAS ALCOHOLICAS
 
-275.- Es objeto de este impuesto la primera venta de bebidas alcohólicas que se realice o que surta sus efectos dentro del Estado de Chihuahua.
+275.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Son sujetos de este impuesto los productores, los ampliadores y los mezcladores de bebidas alcohólicas que se coloquen en la situación jurídica a que se refiere el párrafo anterior.
+276.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Son retenedores y en consecuencia responsables solidarios del pago de este impuesto, los comisionistas, almacenistas, distribuidores, mayoristas, expendedores, consignatarios y las personas y empresas a que se refiere el artículo 289, que adquieran o reciban dentro del Estado de Chihuahua, a cualquier título, productos gravados por este Impuesto, estando obligados a enterar el impuesto adhiriendo el marbete que corresponda y que dé fe de dicho pago.
+277.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Siempre se presumirá que la recepción o adquisición de bebidas alcohólicas efectuadas en el Estado, por cualquier persona, sin que los envases que las contenga ostenten el correspondiente marbete, constituye un acto jurídico que implica la venta posterior de las mismas bebidas dentro del Territorio del Estado de Chihuahua.
+278.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-276.- Los productores, los ampliadores, los mezcladores, los mayoristas, los distribuidores y los expendedores de bebidas alcohólicas presentarán dentro de los cinco días siguientes al en que reciban las bebidas, una solicitud de compra de marbetes por la cantidad que se requiera para el pago del impuesto a efecto de adherirlos inmediatamente a los envases.
+279.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los expendedores de bebidas alcohólicas al copeo no pueden recibir, en ningún caso, bebidas envasadas sin el marbete correspondiente.
+280.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Se concederá a los almacenistas y mayoristas, autorización para adquirir marbetes con anticipación.
+281.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-A los productores, ampliadores y mezcladores de bebidas alcohólicas en el Estado, al adquirir los marbetes que están obligados a adherir a los envases, se les bonificará el importe que hayan cubierto por concepto del Impuesto de Producción a que se refiere el artículo 268 que corresponda precisamente al que se haya pagado por la producción que se venda envasada, dentro del Territorio del Estado de Chihuahua.
+282.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-277.- Las bebidas deberán ser vendidas en envase cerrado, no mayor de cinco litros, y sólo se causará el Impuesto sobre la primera venta de cada envase conteniendo la bebida alcohólica respectiva que se efectúe en el Estado o que surta sus efectos dentro del mismo. El pago del impuesto se hará adhiriendo los marbetes adecuados a cada envase, según la tarifa establecida en esta sección.
+283.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+284.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-278.- Los marbetes deberán ser adquiridos por los causantes habituales o accidentales en las Recaudaciones de Rentas del Estado, llenando al efecto los formularios que la Secretaría de Hacienda proporcione.
+285.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los productores, mezcladores, ampliadores, mayoristas, distribuidores y expendedores de bebidas alcohólicas podrán canjear en las Recaudaciones de Rentas respectivas o en el lugar que la Secretaría de Hacienda señale para tal efecto, los marbetes que hayan adquirido con anterioridad, por otros de distintos valores, siempre y cuando equivalgan a la misma cantidad en su conjunto.
+286.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-279.- Todas las personas que habitual o accidentalmente se dediquen a la venta de bebidas alcohólicas, deberán vender debidamente marbetados los envases que las contengan, con excepción del productor, ampliador y mezclador, que remita para su venta fuera del Estado productos amparados con la correspondiente factura y carta de porte.
+287.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-280.- Son solidariamente responsables del pago del Impuesto los compradores de bebidas alcohólicas cuando las adquieran en envases que carezcan del marbete adecuado.
+288.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-281.- Son solidaria y objetivamente responsables del Impuesto los poseedores de envases que contengan bebidas alcohólicas sin marbetar.
+289.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-282.- En el exterior de los envases se expresará el nombre, denominación o razón social del productor, ampliador o mezclador de las bebidas alcohólicas, así como la graduación alcohólica del producto y la capacidad del envase.
+290.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-283.- Los marbetes se adherirán de acuerdo con las siguientes normas:
+291.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-a).- Sobre el cierre o tapón del envase de tal manera que los dos extremos del marbete queden pegados al envase, de tal forma que al quitarse el cierre o tapón se rompa el marbete pero quedando los extremos que permitan identificar su valor.
+292.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-b).- En cada envase se adherirá solamente un marbete del valor que corresponda, el cual podrá ser colocado antes o después, arriba o abajo de cualquier otro marbete que exijan otras disposiciones legales.
-
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1973)</small>
-
-284.- El impuesto sobre la venta de bebidas alcohólicas se causará conforme a la siguiente tarifa:
-
-Capacidad del
-
-envase en
-
-centímetros
-
-Cúbicos hasta 50 125 250 500 750 1000 2000 3000 5000
-
-GRUPO I.- Bebidas
-
-alcohólicas con una
-
-graduación hasta de
-
-doce grados G.L. $0.03 0.08 0.15 0.30 0.45 0.60 1.20 1.80 3.00
-
-GRUPO II.- Vinos
-
-de mesa, generosos,
-
-aperitivos y otras
-
-bebidas alcohólicas
-
-con una graduación
-
-mayor de doce y
-
-hasta diecinueve
-
-grados, G.L. $0.05 0.12 0.23 0.45 0.69 0.90 1.80 2.70 4.50
-
-GRUPO III.- Destilados
-
-de uva o de manzana,
-
-tales como brandies y
-
-destilados de uva
-
-tipo cognac, con
-
-graduación mayor de
-
-diecinueve y hasta
-
-40 grados G.L. $0.08 0.20 0.40 0.80 1.20 1.60 3.20 4.80 8.00
-
-GRUPO IV.- Bebidas
-
-alcohólicas con más
-
-de 20 grados G.L.
-
-tales como aguardientes
-
-regionales, sotoles,
-
-tequilas, mezcales,
-
-bacanoras,
-
-comiteco, vodkas,
-
-ginebras, rones,
-
-habaneros, whiskies
-
-(salvo los indicados
-
-en el grupo siguiente)
-
-cremas, etc., igualmente
-
-destilados de uva o
-
-manzana cuya
-
-graduación exceda
-
-de 40 grados, G.L. $ 0.10 0.25 0.50 1.00 1.50 2.00 4.00 6.00 10.00
-
-GRUPO V.- Whiskies
-
-elaborados de centeno
-
-y cualesquiera otras
-
-bebidas alcohólicas
-
-con más de tres
-
-grados G.L. $ 0.30 0.75 1.50 3.00 4.50 6.00 12.00 18.00 30.00
-
-285.- Quedan exentos del Impuesto los productos medicinales que contengan alcohol, registrados en la Secretaría de Salubridad y Asistencia, la cerveza, el aguamiel y los productos de su fermentación.
-
-286.- Se tendrá por no marbetado un envase:
-
-1.- Cuando el marbete se adhiera en forma distinta a lo dispuesto en el Artículo 283.
-
-2.- Cuando el marbete adherido sea de valor inferior al que proceda.
-
-287.- Cuando el material de los recipientes impida la adhesión de los marbetes se podrán pegar con una fajilla de plástico transparente.
-
-288.- En los expendios autorizados para vender bebidas alcohólicas al copeo, únicamente se podrán tener envases hasta de cinco litros. Queda prohibido, en consecuencia, la práctica de rellenar botellas con bebidas provenientes de otros envases.
-
-289.- Se entienden por expendios de bebidas alcohólicas y tienen, para los fines de control de este impuesto, la obligación de empadronarse ante las Recaudaciones de Rentas:
-
-a).- Los establecimientos que vendan al menudeo bebidas alcohólicas ya sea en botella cerrada o al copeo. La sola posesión de dichas bebidas alcohólicas dentro de los establecimientos o dentro de locales que estén comunicados, dará lugar a que se considere a unos y otros como expendios de bebidas alcohólicas.
-
-b).- Los cabarets, clubes nocturnos y establecimientos en que se expendan bebidas alcohólicas, independientemente del título de la licencia de funcionamiento que tengan o de que carezcan de ella.
-
-c).- Los hoteles y hospederías en que se expendan bebidas alcohólicas sea al copeo o en botella cerrada.
-
-Si el hotel tiene diversos expendios de bebidas alcohólicas que no sólo vendan a los huéspedes, sino al público en general, deberá empadronar cada expendio por separado, aún cuando estén dentro del mismo local ocupado por el hotel.
-
-d).- Los restaurantes, fondas y cafés en que se vendan bebidas alcohólicas, sea en botella cerrada o al copeo.
-
-e).- Las tiendas de abarrotes y supermercados donde se expendan bebidas alcohólicas en botella cerrada.
-
-f).- Los clubes deportivos, casinos y centros recreativos, que den acceso a sus locales únicamente a socios y, excepcionalmente a personas invitadas, siempre que expendan bebidas alcohólicas.
-
-g).- Las cantinas o expendios al copeo de bebidas alcohólicas.
-
-h).- Los locales o lugares donde eventualmente se expendan bebidas alcohólicas como ferias, romerías o kermesses.
-
-i).- Los salones destinados al alquiler para la celebración de reuniones sociales como bailes, sesiones, comidas, etc., en que se efectué la venta de bebidas alcohólicas sea que dicha venta se haga por cuenta de los propietarios de los salones o de los organizadores de los actos.
-
-290.- El empadronamiento a que se refiere el artículo anterior, causará un derecho de $25.00 por una sola vez.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-291.- La vigilancia del cumplimiento de esta Ley, estará a cargo de la Secretaría de Hacienda.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-292.- La facultad para declarar que se ha cometido una infracción y para imponer las sanciones que corresponden, es de la Secretaría de Hacienda. La aplicación de las sanciones, se hará sin perjuicio del cobro de los impuestos o derechos omitidos.
+> <small>(DEROGADA CON LOS ENCABEZADOS Y ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION TERCERA. IMPUESTO SOBRE VENTA DE ALCOHOL
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 OBJETO Y SUJETO DEL IMPUESTO
 
-293.- Es objeto de este impuesto la venta de alcohol efectuada en el Estado o que surta efectos en el mismo, entendiéndose por alcohol la sustancia química conocida como alcohol etílico o ethanol.
+293.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-294.- Son sujetos del impuesto sobre venta de alcohol las personas físicas o morales que por cuenta propia o ajena distribuyan, vendan o negocien en el Estado con alcohol.
+294.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Este impuesto se causará tantas veces como se trasmita la propiedad del alcohol.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 PAGO DEL IMPUESTO
 
-295.- Quienes realicen operaciones de venta de alcohol etílico para cualquier uso, pagarán $1.30 por litro.
+295.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-Los causantes de este impuesto deberán presentar una declaración dentro de los días 1o. al 20 de cada mes, correspondiente a los litros de alcohol que hayan distribuído o vendido en el mes anterior, acompañada de copia de las facturas o notas de venta correspondientes.
+296.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-El pago del impuesto se hará en el momento de presentar la declaración mensual a que se refiere el párrafo anterior.
-
-296.- Queda exento el alcohol desnaturalizado no potable.
+> <small>(DEROGADO CON EL ARTÍCULOS QUE LO INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 OBLIGACIONES DE LOS CAUSANTES
 
-297.- Son obligaciones de los comerciantes en alcohol etílico:
+297.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-I.- Observar para el legal funcionamiento de estos negocios, todas las reglas y obligaciones que a los productores de bebidas alcohólicas les impone el Artículo 274 de este ordenamiento;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-II.- Dar aviso por escrito a la Recaudación de Rentas de su jurisdicción, con copia para la Secretaría de Hacienda, dentro de las 72 horas siguientes al día en que se reciba cualquier remesa de alcohol.
-
-En el aviso se señalará el nombre del vendedor, el litraje, la procedencia, marca del alcohol y número de la factura;
-
-III.- No recibir el alcohol que no venga acompañado de la documentación respectiva;
-
-IV.- Cuidar bajo su responsabilidad, que no se violen las marcas, sellos, etiquetas y demás medios de identificación o control de la mercancía;
-
-V.- No permitir, bajo su responsabilidad, que se altere la graduación del contenido alcohólico de los envases;
-
-VI.- Las demás que establezcan las leyes.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 #### SECCION CUARTA. DISPOSICIONES COMUNES A LA PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
 
-298.- Se considera como producción y venta clandestina de bebidas alcohólicas y alcohol:
+298.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- La omisión de la obligación de empadronarse y de solicitar los permisos a que se refieren los artículos 273, 274, 289 y 297;
+299.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-II.- La omisión en los libros de contabilidad del registro de las operaciones efectuadas con productos gravados;
+300.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-III.- Transportar el alcohol o bebidas alcohólicas sin que el porteador o tenedor exhiba en el momento preciso de la fiscalización, la documentación que ampara sus productos o que los mismos no vayan marbetados.
+301.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-En este caso, si no es posible identificar al productor de las bebidas alcohólicas que se lleven en tránsito o al destinatario de las mismas, el poseedor de ellas será responsable del pago de los impuestos y de las sanciones que correspondan;
+302.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-IV.- En general se estimará como clandestina toda fabricación o venta de bebidas alcohólicas y alcohol que se realice sin que el productor o vendedor esté empadronado en las oficinas rentísticas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-299.- El transporte de alcohol y bebidas alcohólicas deberá hacerse exclusivamente utilizando vehículos registrados en la Secretaría de Hacienda. El transporte de bebidas alcohólicas se hará en la siguiente forma:
-
-a).- En los envíos de bebidas alcohólicas que haga un productor a un expendedor, se hará necesario que los envases lleven adherido el marbete correspondiente.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-b).- Cuando un productor remita bebidas alcohólicas para su venta fuera del Estado de Chihuahua, en el recorrido de los vehículos desde las bodegas de los remitentes hasta la estación del ferrocarril o de cualquier otra empresa de transportes, o en sus propios vehículos, el envío se amparará con la factura o nota de remisión respectiva, que para el efecto del transporte previamente autorizará la Secretaría de Hacienda o sus órganos de recaudación.
-
-c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir amparadas con la documentación que expidan los remitentes a los porteadores, de manera que se pruebe plenamente que dichas bebidas y alcohol proceden del exterior del Estado de Chihuahua.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-300.- Se faculta al Secretario de Hacienda para que, por conducto de los Auditores e Inspectores a sus órdenes, clausure o levante la clausura de los establecimientos que hayan incurrido en infracción cuando las circunstancias en cada caso así lo requieran; dicha facultad se ejercerá sin perjuicio de la imposición de las multas correspondientes.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-301.- Todos los propietarios que celebren contratos de arrendamiento respecto de inmuebles, en los que opere una fábrica, almacén, oficina distribuidora o expendio de alcohol o bebidas alcohólicas, estarán obligados, dentro del plazo de 15 días siguientes a la fecha del contrato respectivo, a manifestarlo a la Secretaría de Hacienda, para efectos de registro fiscal.
-
-302.- Cualquiera infracción a lo dispuesto por este capítulo se regulará y sancionará en los términos del capítulo VII, Título Segundo de este libro.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
 
-303.- Son objeto de este impuesto todos los actos jurídicos, de cualquier naturaleza, que se otorguen en escritura pública o privada.
+303.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
+304.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+305.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-305.- El impuesto se causará de acuerdo con la siguiente tarifa:
+306.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+307.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-I.- Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $0.75 por cada un mil pesos o fracción.
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-II.- Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económicos, sobre el importe del capital aumentado se pagará $0.75% por cada un mil pesos o fracción.
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-III.- Por los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.375 por cada cien pesos o fracción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
-
-IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará el equivalente al 85% sobre la Unidad de Medida y Actualización diaria.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-En el caso de escritura pública, el entero del impuesto se comprobará con el original del certificado de pago que se agregará al apéndice del protocolo correspondiente.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-Tratándose de escritos privados ratificados, el certificado de pago se anexará a la copia auténtica que se agregue al apéndice del libro de registro de actos fuera de protocolo, y en el documento que se entregue al interesado se hará constar el número del certificado.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-En ambos casos, si el pago se realizó por conducto del Notario a través de la red electrónica mundial, bastará que el fedatario público asiente el número de operación que le correspondió.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-Si el mandato fuese judicial, deberá agregarse el certificado de ingresos a las actuaciones conducentes.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-V.- En los contratos de aparcería, el propietario pagará el 1% del precio de los frutos percibidos, según declaración que deberá formular dentro de los primeros 20 días del mes siguiente a aquél en que los obtenga.
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $0.75 por cada un mil pesos o fracción sobre el valor de la operación.
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
-
-VII.- Cuando por la naturaleza del acto Jurídico no pueda determinarse el valor de la operación, se pagará el equivalente al 125% sobre la Unidad de Medida y Actualización diaria. En este caso para el pago del impuesto la autoridad fiscal podría expedir certificados preimpresos, que se agregarán al apéndice del protocolo correspondiente, o a la copia auténtica que se agregue al apéndice del Libro de Registro de Actos Fuera de Protocolo, si el acto se otorgó ante fedatario público. En el documento que se entregue al interesado se pondrá razón del pago en la que conste el número del certificado.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-VIII.- Cuando en un mismo instrumento se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-IX.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del registro Público de la Propiedad estatales, causarán el impuesto sobre actos Jurídicos conforme a las disposiciones de este Capítulo.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-306.- No causan el impuesto:
-
-I.- Los actos del estado civil.
-
-II.- Los actos cuyo valor no exceda de $500.00 (QUINIENTOS PESOS).
-
-III.- Los actos que consignen finanzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
-
-IV.- Los actos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
-
-V.- Los actos relativos a la asistencia pública y de la beneficencia privada.
-
-VI.- Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
-
-VIII.- Los que consignen la resolución de actos jurídicos.
-
-IX.- Los actos en cuya virtud se cancele otro, salvo lo previsto en la fracción III del Artículo 133.
-
-X.- Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
-
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-XI.- Los actos en que se consignen disposiciones testamentarias así como en los que se tramiten testamentarías o intestamentarías, se constituya o se cancele el régimen de patrimonio familiar.
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
-
-XII.- Los actos que contengan operaciones gravadas por algún otro impuesto establecido por esta (sic) Código o por el Impuesto Municipal sobre Traslación de Dominio de Bienes Inmuebles, siempre y cuando el importe a pagar por éstos sea mayor al que resultaría de aplicar las tasas del artículo 305.
-
-307.- Los causantes, tratándose de escrituras privadas están obligados:
-
-I.- A presentar ante la Recaudación de Rentas respectiva, los documentos originales en que consten actos, contratos u obligaciones, para los efectos del registro y control del impuesto.
-
-II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la operación.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XIV. DERECHOS
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+308.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-308.- Los derechos por la prestación de los servicios públicos que realizan las dependencias de Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento que provoquen por parte del Estado el gasto que deba ser remunerado por aquél.
+308-A.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+308-B.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+308-C.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-308-A.- Los derechos que señale la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Hacienda.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
-
-308-B.- El funcionario o empleado que preste el servicio, procederá a su realización al presentarle el particular el recibo que acredite su pago.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-C.- El funcionario o empleado público que preste algún servicio por el cual se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable en su pago, sin perjuicio de las demás sanciones que procedan.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-D.- En caso de existir discrepancia en cuanto a la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio.
+308-D.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
 308-E.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
@@ -3033,79 +1901,33 @@ II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la 
 
 309.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+310.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-310.- No causan los derechos a que se refiere este capítulo:
-
-I.- La legalización de firmas y la expedición de certificados o certificaciones en los procesos civiles, penales y laborales, que lleven a cabo los tribunales judiciales o del trabajo;
-
-II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1975)
-
-III.- La legalización de firmas y la expedición de certificados y certificaciones solicitadas por las Dependencias de la Federación, Estado o Municipios, para asuntos oficiales de su competencia, siempre que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo;
-
-IV.- El registro de actas de nacimiento en las oficinas públicas;
-
-V.- La expedición de actas de nacimiento, defunción y matrimonio a los miembros del ejército Nacional;
-
-VI.- Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad o el de Comercio, a solicitud de las autoridades judiciales para que obren en causa criminal o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados; pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos;
-
-VII.- La expedición de certificados o copias certificadas del Registro Público de la Propiedad, sobre bienes o derechos de la Federación, de los Estados y los Municipios, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas Entidades, siempre que ellas sean las directamente interesadas en asegurar para sí esos mismos bienes o derechos. Cuando tal servicio derive de la aplicación de la facultad económico-coactiva en el cobro de adeudos fiscales, los gastos serán a cargo de los causantes remisos si no ocurriere la adjudicación al Fisco de los bienes embargados;
-
-VIII.- Los certificados o copias certificadas del Registro Público de la Propiedad, que se expidan con relación a la dotación o restitución de Ejidos, siempre que los peticionarios sean autoridades o los comisariados ejidales;
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2002)</small>
-
-IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones Presidenciales sobre dotación o restitución de ejidos, así como las inscripciones que se realicen respecto de títulos de propiedad de solares expedidos por el Registro Agrario Nacional;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-X.- Las inscripciones preventivas a que se refiere el artículo 309 del Código Administrativo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XV. PRODUCTOS Y CONTRIBUCIONES ESPECIALES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+311.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-311.- Los ingresos que el Estado obtenga por la explotación de sus bienes patrimoniales o por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, se fijarán y recaudarán de acuerdo con las reglas que establezcan las leyes o reglamentos respectivos o, en su defecto, conforme a las bases generales establecidas por el Ejecutivo del Estado en las licencias, concesiones o contratos respectivos.
-
-Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y liquidarán de acuerdo con las reglas que establezcan las leyes o Reglamentos respectivos, y se destinarán a cubrir las erogaciones de las obras públicas que las motive. Se harán efectivas por medio del procedimiento de ejecución.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XVI. APROVECHAMIENTOS
 
-312.- Son aprovechamientos los ingresos a que se refiere el Cuarto Párrafo del artículo 31 de este Código y en ellos quedan comprendidos: Los recargos; las multas, herencias, legados y donaciones a favor de la Hacienda Pública y en general cualquier otro ingreso no clasificable como impuesto, derecho o producto.
+312.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-313.- Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, por medio del procedimiento de ejecución o por la vía judicial.
+313.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPITULO XVII. PARTICIPACIONES
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
+314.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-314.- Quedan comprendidas en este Capítulo, las participaciones a Municipios derivadas de los ingresos provenientes de la Participación Federal al Estado, correspondientes al Fondo General de Participaciones y al Impuesto sobre Tenencia o Uso de Vehículos, así como las derivadas de los Impuestos Estatales.
+315.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
+316.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
-315.- Las participaciones a los Municipios del Estado se integrarán de la siguiente forma:
-
-I.- 20% (veinte por ciento) sobre la participación Federal al Estado, por concepto de Fondo General de Participaciones, así como las que se deriven del Impuesto sobre Tenencia o Uso de Vehículos.
-
-La participación total a que se refiere esta fracción, así como la referente al fondo de Fomento Municipal se distribuirá entre los Municipios, de conformidad con los estudios económicos que al efecto se elaboren, pudiendo atenderse, entre otros, a los siguientes elementos; número de habitantes, importe de su Presupuestos de Egresos, gasto público Municipal por habitante y número de localidades en su jurisdicción.
-
-II.- 20% (veinte por ciento) sobre el ingreso del Estado, por concepto de Impuestos Estatales no destinados a un fin específico.
-
-La participación total a que se refiere esta fracción, se distribuirá entre los Municipios de la siguiente manera:
-
-A).- El 50% (cincuenta por ciento) de dicho fondo, en proporción directa a la población de cada Municipio.
-
-B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de incremento en la Recaudación del Impuesto Predial, que se determine anualmente.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
-
-316.- Como resultado de los procedimientos de distribución de participaciones, a que se refiere el Artículo anterior, anualmente fijará el Congreso del Estado, en la Ley de Ingresos para los Municipios, los porcentajes de participación sobre el producto total que les corresponda.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
-
-317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Secretaría de Hacienda, podrá destinarse a otros fines.
+317.- (DEROGADO POR ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 2018)
 
 # LIBRO SEGUNDO. PROCEDIMIENTOS FISCALES
 
@@ -4986,3 +3808,45 @@ P.O. 17 DE MARZO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/EXLEY/0884/2018 XVIII P.E., POR MEDIO DEL CUAL SE EXPIDE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Título Tercero del Libro Primero y el segundo párrafo del artículo 28 del Código Fiscal del Estado, publicado en el Periódico Oficial del Estado N° 140 el 30 de Diciembre de 1970, así como todas aquellas disposiciones legales y reglamentarias que se opongan al contenido de la presente Ley.
+
+Dicha derogación surtirá efectos aun tratándose de los impuestos estatales que se encuentran en suspensión, en virtud de la adhesión del Estado de Chihuahua al Sistema Nacional de Coordinación Fiscal.
+
+TERCERO.- Cuando en una Ley o Decreto se haga referencia a disposiciones del Código Fiscal del Estado que se abrogan de acuerdo con lo dispuesto en el artículo segundo transitorio, se entenderá que las mismas se refieren a las disposiciones de la presente Ley, según corresponda.
+
+CUARTO.- Se considera que las contribuciones a que se refieren los diversos decretos números: 266-94-XI-P.E., publicado en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994, y 842/2012 VI P.E., publicado en el Periódico Oficial del Estado de Chihuahua del 22 de septiembre de 2012, en relación a su vez con los actos legislativos que contienen las modificaciones a los mismos, forman parte de las contribuciones estatales además de las contenidas en la Ley de Hacienda del Estado de Chihuahua, a que se refiere el presente Decreto, para los efectos de cómputo en materia de participaciones a favor del Estado de Chihuahua derivadas de la Ley de Coordinación Fiscal, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1978.
+
+P.O. 31 DE DICIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/EXCOD/0885/2018 XVIII P.E. CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado el 30 de Diciembre de 1970.
+
+Las disposiciones contenidas en el Título Tercero del Libro Primero del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes mientras no se expida la Ley de Hacienda del Estado de Chihuahua.
+
+Asimismo, las disposiciones contenidas en el Capítulo III, del Título Segundo, del Libro Segundo, del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes mientras no se expida un acto legislativo que regule el juicio contencioso administrativo estatal.
+
+De igual forma, las disposiciones contenidas en el Capítulo XVII, del Título Tercero, del Libro Primero, del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes mientras no entre en vigor la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios.
+
+TERCERO.- El titular del Poder Ejecutivo deberá expedir el Reglamento de este Código, en un plazo no mayor a 180 días posteriores a la vigencia del mismo.
+
+CUARTO.- Todos los procedimientos que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite, se concluirán conforme a las disposiciones del Código Fiscal del Estado de Chihuahua que se abroga.
+
+Se exceptúan a lo dispuesto en el párrafo anterior, los recursos administrativos de revisión o de reconsideración que a la fecha de entrada en vigor del presente Decreto estuvieran pendientes de resolverse, los cuales se tramitarán o continuarán tramitándose conforme a las disposiciones que rigen el recurso de revocación a que se refiere el presente Decreto.
+
+QUINTO.- Sin perjuicio de los anteriores artículos transitorios todas las disposiciones jurídicas o administrativas que se opongan al contenido de este decreto quedan sin efectos.
+
+SEXTO.- Para efectos del artículo 233, del Código Fiscal del Estado de Chihuahua, que mediante este decreto se crea, el buzón fiscal a que se refiere, será reglamentado por el Poder Ejecutivo del Estado de Chihuahua, y en tanto no se emita y publique el citado reglamento, la presentación de los escritos de interposición de los recursos administrativos se hará de manera manual en formato físico.
+
+Se entiende por correo electrónico oficial de las personas que funjan como autoridades fiscales estatales aquel que tenga la terminación siguiente: @chihuahua.gob.mx; las autoridades fiscales estatales podrán comunicarse entre sí y con las autoridades fiscales federales en materia fiscal federal coordinada, por ese medio electrónico, y se considera este con el mismo valor que un documento físico con firma autógrafa con sello de la dependencia, siempre y cuando medie un oficio previo con firma autógrafa y debidamente sellado en que los titulares del correo electrónico soliciten instaurar y mantener ese tipo de comunicación entre sí, observando en todo momento las disposiciones para el tratamiento de datos personales de los contribuyentes, en su caso.
+
+SÉPTIMO.- Las disposiciones contenidas en el Capítulo Tercero, del Título Primero, del presente ordenamiento, entrarán en vigor una vez que mediante reglamento se instrumente el uso de los medios electrónicos que en dicho capítulo se mencionan.
